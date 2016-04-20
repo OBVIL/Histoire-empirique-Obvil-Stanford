@@ -1,0 +1,2931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Audebrand, Philibert (1815-1906)">Philibert Audebrand</author>
+<title>Petits mémoires d'une stalle d'orchestre : acteurs, actrices, auteurs, journalistes / Philibert Audebrand</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Audebrand, Philibert (1815-1906)</author>, <title>Petits mémoires d'une stalle d'orchestre : acteurs, actrices, auteurs, journalistes / Philibert Audebrand</title>, <date>1885</date>,description :,370 pages
+</bibl>
+<publisher>J. Lévy (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k54906h</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1885">1885</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p>PETITS MÉMOIRES</p>
+<p>D'UNE</p>
+<p>STALLE D'ORCHESTRE</p>
+<p><pb/></p>
+<p>F. AUREAU. IMPRIMERIE DE LAGNY</p>
+<p><pb/></p>
+<p>PARIS</p>
+<p>JULES LÉVY, LIBRAIRE-ÉDITEUR 2, RUE ANTOINE-DUBOIS, 2</p>
+<p>1885</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>EN GUISE DE PRÉFACE</p>
+<p>Comment encore un livre, et un livre sur le théâtre</p>
+<p>Mon Dieu, oui.</p>
+<p>Mais il en paraît, tous les jours, de ces livres-là</p>
+<p>Cela prouve qu'on ne cesse pas d'en vouloir.</p>
+<p>Eh bien, que chante ce nouveau venu? Mille choses, toute sorte
+d'histoires. Tenez, un mot d'explication là-dessus. Parlez.</p>
+<p>De son métier l'Auteur est journai</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Un sujet d'amusement pour les oisifs, tout au plus.</p>
+<p>Va pour le titre.</p>
+<p>Un dernier mot. S'il arrive que le public y prenne goût, il y sera donné
+suite.</p>
+<p>P. A.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>PETITS MÉMOIRES</p>
+<p>D'UNE</p>
+<p>STALLE D'ORCHESTRE</p>
+<p>1</p>
+<p>SAINT ELLEVIOU</p>
+<p>Elleviou, vous vous le rappelez sans doute, a été un des plus brillants
+chanteurs du premier Empire.</p>
+<p>L'ancien Opéra-Comique en avait fait quelque chose comme un dieu.</p>
+<p><pb/></p>
+<p>On l'assourdissait de bravos, on le bombardait de couronnes et de fleurs
+on le couvrait de billets de mille francs.</p>
+<p>Succès d'argent, Elleviou</p>
+<p>Sùccès de femmes, Elleviou</p>
+<p>Succès de renommée, Elleviou.</p>
+<p>Paris, côté des hommes, s'habillait comme</p>
+<p>Elleviou.</p>
+<p>Paris, côté de- l'autre sexe, ne parlait que comme Elleviou,
+c'est-à-dire en zézayant légèrement.</p>
+<p>Un jour, en plein succès, se voyant en belle santé, Elleviou, ne voulant
+plus être qu'un homme heureux, prit une résolution bien rare chez les
+grands artistes.</p>
+<p>Léon Gozlan a écrit, du reste, là-dessus une charmante Étude, sous ce
+titre Un homme plus grand que Charles-Quint.</p>
+<p><pb/></p>
+<p>Évidemment l'éminent Elleviou était plus grand que cet empereur vieilli,
+lequel abdiqua un sceptre que sa mai n n'avait plus la force de tenir et
+qui s'en alla finir ses jours au couvent de Saint-Just.</p>
+<p>Petite maison, assez grande pour recevoir une demi-douzaine d'amis, et
+il n'en faut pas plus. Un parc très vert, entrecoupé d'arbres, de fleurs
+de pelouses. Entre la cour d'entrée et le jardin, une basse-cour où
+vivaient pêle-mêle, coqs, -poules, oies, dindons, faisans, canards, plus
+deux jolis petits cochons de Siam.</p>
+<p><pb/></p>
+<p>Et il ajoutait</p>
+<p>Moyennant cela et quelques livres de choix, est-ce que je ne suis pas
+l'homme le plus heureux de France?</p>
+<p>Elleviou était, sans s'en douter, l'homme le plus heureux des cinq
+parties du monde. Il vivait donc là, dans le silence, sans gloire. Paris
+disait de temps en temps</p>
+<p>—Ah ça, qu'est donc devenu Elleviou? Où donc est Elleviou ?</p>
+<p>L'écho ne répondait même pas.</p>
+<p>Nul n'aurait pu dire ce qu'était devenu le séduisant chanteur.</p>
+<p>Paris oublie vite.</p>
+<p>On parla un peu de ce fugitif de la vie d'artiste, puis on n'en parla
+plus, puis on crut qu'il avait cessé d'exister.</p>
+<p>Point du tout, Elleviou, rose et vert, existait encore.</p>
+<p>Un jour, sur la fin du règne de Louis-Philippe, il revint un moment à
+Paris, mais un moment seulement.</p>
+<p>Il alla lui-même renouveler son abonnement au Charivari, mais voyez la
+bizarrerie des choses! En redescendant l'escalier, rue du Croissant,
+Elleviou, le brillant chanteur, trébucha sur une marche, tomba et se tua.</p>
+<p>L'apoplexie l'avait foudroyé, en dix secondes.</p>
+<p><pb/></p>
+<p>Ce décès fit naturellement grand bruit. Tous les biographes s'emparèrent
+de l'événement, ainsi que c'était leur droit.</p>
+<p>Heureux Elleviou Point de médecins, ni de pharmaciens, ni de prêtres, ni
+de parents</p>
+<p>Il en résulta une sorte de renaissance pour le nom de l'artiste.</p>
+<p>Eh bien, ce n'était pas tout.</p>
+<p>Elleviou était le maire d'une charmante petite commune rurale, une
+localité obscure au point d'être inconnue.</p>
+<p>Savez-vous ce qui arriva?</p>
+<p>Il se cotisèrent donc et dirent</p>
+<p>Et c'est, en effet, ce qui a eu lieu.</p>
+<p>Mais le plus bizarre, c'est la pensée du peintre chargé des travaux.</p>
+<p>Supposer que le brillant hussard. du premier empire, le joyeux
+interprète de Trente-et-qua1.</p>
+<p><pb/></p>
+<p>Elleviou chantait si bien qu'il a mérité d'être parmi les bienheureux.</p>
+<p><pb/></p>
+<p>Épisode de la vie d'Odry.</p>
+<p>UN SAVETIER</p>
+<p>II</p>
+<p><pb/></p>
+<p>Si vous voulez faire reverdir le personnel de l'art théâtral, rameau
+trop desséché, vous n'avez qu'un moyen: c'est'de recruter les nouveaux
+sujets parmi les gens du peuple.</p>
+<p>Eh! mon Dieu! prendre les recrues dans la foule, les théâtres ne font
+pas autre chose depuis quatre-vingts ans.</p>
+<p>Pour se convaincre de la réalité de ce fait, il</p>
+<p><pb/></p>
+<p>suffit de jeter un rapide coup d'œil sur la liste de membres composant
+la Société des artistes dramatiques.</p>
+<p>Qu'importe l'origine, pourvu que le talent y soit? Notez que cette
+observation doit être faite pour les plus célèbres Bocage, qui a eu une
+si grande influence sur le mouvement littéraire de 1830, avait commencé
+par être ouvrier tisseur; Frédérick Lemaître a été quelque chose comme
+apprenti ébéniste; Arnal raconte lui-même, dans des vers assez bien
+tournés, qu'il a été boutonnier. Z* si souvent applaudi sur une de nos
+scènes les plus brillantes, étant enfant, vendait des tartelettes aux
+passants comme le premier. Mentschikoff, lequel est devenu prince, père
+d'une lignée de princes.</p>
+<p>Le plus curieux point de départ, peut-être, a été celui de l'un des
+acteurs les plus populaires,</p>
+<p><pb/></p>
+<p>il y a trente-cinq ans; c'est nommer celui qui réjouissait tout Paris
+quand il jouait l'Our8 et le Pacha, ou bien les Saltimbanques.</p>
+<p>Cependant, un jour, en flânant sur le boulevard du Temple, le jeune
+homme aperçut une pauvre petite maison enfumée et sans relief d'aucune
+espèce; on y voyait un écriteau, modeste comme elle Théâtre sans
+prétention, titre encourageant pour un inconnu. L'enseigne ne mentait
+pas. Ce théâtre n'avait la prétention ni de payer chèrement de grands
+artistes, ni d'enrichir des auteurs célèbres, ni d'attirer l'élite
+du.beau monde. Les places de première loge étaient de douze sous, et le
+parterre de vingt centimes. Tranchons le mot, c'était un boui-boui.</p>
+<p><pb/></p>
+<p>Et il alla y porter son premier manuscrit La Ravaudeuse de bas.</p>
+<p>A huit jours de là, le directeur lui'dit:</p>
+<p>Les choses arrivèrent comme elles avaient été convenues.</p>
+<p>Quand le rideau fut retombé, Du Mersan alla chez le directeur. Là, les
+premiers sujets de la troupe furent choisis pour les divers personnages
+de la pièce puis, comme il restait un rôle de peu d'importance,
+l'impresario reprit Ne vous inquiétez pas de celui-là; nous le donnerons
+au savetier.</p>
+<p>Il ne manque que le savetier.</p>
+<p>Eh bien, appelez-le.</p>
+<p>Aussitôt, l'employé, s'en allant ouvrir une fenêtre derrière le fond de
+la toile, fit entendre une</p>
+<p><pb/></p>
+<p>espèce de cri comme celui que. poussent les badigeonneurs quand ils
+peinturlurent les maisons.</p>
+<p>Hiiiiiiiiiii Psst!</p>
+<p>Bientôt Du Mersan vit sortir d'une échoppe située en face de la fenêtre,
+dans la rue des Fossés-du-Temple, un savetier, non déguisé.. mais
+véritable.</p>
+<p>Posant sur son établi un ancien soulier auquel il était en train
+d'ajuster un béquet, l'homme traversa la rue, entra lestement par la
+petite porte des acteurs et arriva sur le théâtre. Il n'avait même pas
+pris la peine de passer une veste et d'ôter son tablier de cuir.</p>
+<p>Ah te voilà, gniaf! lui dirent les autres. Oui, cabotins, mes camarades,
+répondit-il; c'est bien moi.</p>
+<p>Il parait que tu as un rôle dans une nouveauté, la Ravaudeuse de bas.</p>
+<p>Tiens, c'est presque de ma partie, ça.</p>
+<p>En voyant le nouveau venu, en l'entendant parler, le débutant ne put
+dissimuler sa surprise.</p>
+<p>Comment dit-il, c'est donc réellement un savetier qui jouera le rôle?</p>
+<p>Oui, répondit sans façon le directeur, mais</p>
+<p><pb/></p>
+<p>Il y a une destinée d'artiste dans ce nez-là!</p>
+<p>Il ne se trompait pas. d'homérique</p>
+<p>Le savetier n'était autre qu'Odry, d'homérique mémoire.</p>
+<p>Qui n'a pas vu Odry aux Variétés n'a rien vu. Que de succès Le Compagnon
+du devoir, la Chanson des bons gendarmes, le Chevreuil, Tony ou le
+canard accusateur, l'Om's et le Pacha, les Saltimbanques, que de
+comédies sans pareilles</p>
+<p><pb/></p>
+<p>Et tout cela était, un jour, sorti d'une échoppe! Talma était morose, un
+jour.</p>
+<p>Qu'avez-vous donc ? lui demandait Ligier. Mon cher, je suis jaloux d'Odry.</p>
+<p><pb/></p>
+<p>LES DEUX CENTENAIRES</p>
+<p>Le grand Potier.</p>
+<p>III</p>
+<p><pb/></p>
+<p>Dans ces mêmes temps, on m'avait confié la rédaction en chef d'une
+petite Revue du dimanche, sorte de Magazine, uniquement composée de
+petites Nouvelles, d'Esquisses de mœurs, d'Épigrammes et de Souvenirs
+(on dirait aujourd'hui de Racontars). Charles Potier m'apportait de
+temps en temps quelques articles.</p>
+<p>Eh bien donc, lui dis-je, un jour, faites une chose; tronçonnez pour
+nous les Mémoires</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>» Tout Paris voulut voir les Invalides. Ce vau-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>IV</p>
+<p>LES ACTEURS DANS LA RUE</p>
+<p>Got est un homme des plus honorables. On l'a</p>
+<p><pb/></p>
+<p>tenu pendant trente ans, on le tient encore pour un artiste d'un grand
+talent. Il a été nommé chevalier de la Légion d'honneur pour avoir
+professé au Conservatoire.</p>
+<p>À la Comédie Française, Got l'amuse énormément par sa verve et par le
+jeu de ses gestes. Pourquoi donc est-ce tout différent dans la rue ?
+Comment l'excellent acteur le frôle en passant, et il a une figure grave
+? Cela dérange toutes ses idées, Got qui rêve, qui médite ou qui
+réfléchit Ah le farceur s'écrie-t-il.</p>
+<p>famille:</p>
+<p>Figurez-vous que j'ai rencontré Got (des Français) sur le boulevard
+Montmartre, près du marchand de petits pâtés de Frascati. Il était d'une
+gravité sans pareille. On l'aurait pris pour</p>
+<p><pb/></p>
+<p>un membre de l'Académie des sciences, section du Bureau des longitudes.
+Ah le farceur On a beaucoup parlé des inconvénients de la célébrité.</p>
+<p>Il est bien entendu qu'un acteur n'a pas le droit d'entrer ni de sortir
+d'une maison quelconque sans que cent bélîtres ne fassent là-dessus des
+commentaires plus saugrenus les uns que les autres.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Pourquoi bleues? Pourquoi pas blanches ou vertes? disait invariablement
+un autre.</p>
+<p>Fantaisie d'artiste. Ils sont tous toqués reprenait un troisième.</p>
+<p>Un jour, Amal n'y put tenir et s'écria</p>
+<p>Pourquoi j'ai des lunettes bleues? Parce que la Faculté de médecine me
+l'ordonne, et aussi parce que cette couleur m'empêche de voir trop en
+noir les imbéciles que je rencontre.</p>
+<p>Un soir, dans un drame d'Émile Souvestre, l'orchestre murmurait Bocage,
+s'écartant de</p>
+<p><pb/></p>
+<p>son rôle, s'avança vivement sur le devant de la scène et dit:</p>
+<p>Dans la rue, il montrait la même susceptibilité.</p>
+<p>Un jour qu'il sortait d'un cabaret élégant, où il avait vidé une
+bouteille de beaune première, comme dix ou douze oisifs l'entouraient,
+il les regarda bien posément dans les yeux, en s'écriant Les jolis mufles</p>
+<p>Pour ces dames, surtout quand elles sont jeunes et jolies, il n'y a pas
+que de la curiosité. La galanterie s'en mêle, et parfois aussi l'amour.
+On les suit. Les bouquets les bombardent. On les assomme de billets
+doux, de lettres, de protestations de tout genre. Une actrice Morceau
+friand pour les étrangers et pour les collégiens en vacances. Léontine
+Fay avait reçu cinquante</p>
+<p><pb/></p>
+<p>épîtres de cinquante Werthers différents qui lui disaient « Si vous ne
+cédez pas, je me tuerai pour vous. »</p>
+<p>L'acteur de Paris le plus répandu en plein air est Hyacinthe.</p>
+<p>Tout le quartier le salue. Toutes les commères lui parlent. A ceux ou à
+celles qui l'interrogent sur sa manie de faire la ménagère, le joyeux
+comédien répond:</p>
+<p>Vu que je passe pour avoir bon nez, j'ai voulu moi-même faire danser
+l'anse du panier chez moi-même.</p>
+<p>Pendant le siège de Paris, tous les acteurs en état de porter les armes
+s'étaient enrôlés dans</p>
+<p><pb/></p>
+<p>Ils ont su faire aussi très belle figure sur le théâtre de la guerre.</p>
+<p><pb/></p>
+<p>v</p>
+<p>LES DROITS D'AUTEUR</p>
+<p>Mars, 1884.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>gence. Là, un petit monsieur, qui- a parfois un porte-plume derrière
+l'oreille, demanderait trois minutes au plus au vieux poète pour
+libeller un reçu Pierre Corneille y mettrait sa vénérable .griffe, et
+une main de caissier lui tendrait, en papier ou en or, le loyer de ses
+beaux vers. Est-ce que ce système ne vaut pas cent fois la dédaigneuse
+pension de mille livres que recevait le bonhomme par le canal d'un
+commis de Colbert ?</p>
+<p><pb/></p>
+<p>A la même époque, il venait de se former une societé de marchands de
+farine, stipulant pour la hausse des prix.</p>
+<p><pb/></p>
+<p>Un jour, en 1843, dans les salons de Lemardelay, rue de Richelieu, nous
+avons entendu H. de Balzac raconter ce fait en le glorifiant. De ce
+Beaumarchais tant honni, le grand romancier faisait presque un demi-dieu.</p>
+<p>Ah dit galamment le patriarche en tou-</p>
+<p><pb/></p>
+<p>chant le drap du doigt, je sais ce- que c'est que cette étoffe c'est du
+Jean Hennuyer.</p>
+<p>l'habit de velours.</p>
+<p><pb/></p>
+<p>des auteurs, qui ne dépassait pas vingt-cinq, doubla, puis tripla, puis
+centupla, Hier, il était de 750. Demain, on ne comptera plus. Tout le
+monde sera auteur comme tout le monde est fumeur de cigares.</p>
+<p>Je reviens au dernier numéro du Bulletin de la Société des auteurs
+dramatiques.</p>
+<p>Les chiffres qui concernent l'exercice 1884-1885 font voir que le
+théâtre rivalise de plus, au point de vue de l'or, avec la Californie.
+Ajoutons qu'il sera bien moins vite épuisé que le pays des placers il ne
+le sera même jamais tant que Paris sera debout. A nos théâtres si
+nombreux, aux droits de la ville, de nos provinces, de l'étranger, se
+joint désormais un produit qu'on ne connaissait pas chez nos pères celui
+du tronçon de pièce et celui de la romance qu'on exécute dans les
+cafés-concerts.</p>
+<p><pb/></p>
+<p>trouve ce total prodigieux vingt-et-un millions quatre cent
+quatre-vingt-dix mille neu f cent dixneuf francs quarante-sept centimes.</p>
+<p>L'ombre de Beaumarchais doit diablement se frotter les mains en signe de
+contentement.</p>
+<p><pb/></p>
+<p>COMMENT FINISSENT-ELLES?</p>
+<p>VI</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Comment donc ont fini, s'il vous plaît, les actrices d'alors?</p>
+<p>Tout nous fait une loi de commencer par ma-</p>
+<p><pb/></p>
+<p>Puisque j'ai parlé de mademoisolle Mars, il faut bien citer, ne fût-ce
+qu'en courant, celle de ses élèves qu'elle a le plus aimée, c'est-à-dire
+la jolie et merveilleuse mademoiselle Doze, depuis madame Roger de
+Beauvoir. Les Nestors du règne de Louis-Philippe se la rappellent encore
+dans le petit rôle d'Abigall du Verre d'eau, son début. On</p>
+<p><pb/></p>
+<p>Vous voyez comment elle a fini.</p>
+<p><pb/></p>
+<p>plus prosaïque de toutes les affections pour une grande cantatrice.</p>
+<p><pb/></p>
+<p>de Paris.</p>
+<p><pb/></p>
+<p>Un dernier mot.</p>
+<p><pb/></p>
+<p>« Les actrices s'en vont. Il n'y a plus sur les planches que des
+ménagères. »</p>
+<p>Une autre voix, plus désolée encore que celle de l'auteur d'une Tempête
+dans un verre d'eau, s'est écriée tout récemment</p>
+<p>« Prenez garde A l'entrée du vingtième siècle, du train dont vont les
+choses, il n'y aura vraisemblablement plus au théâtre que des cocottes »</p>
+<p><pb/></p>
+<p>L'AUTEUR D'Hernani SUR Hernani</p>
+<p>(Un article inédit de VICTOR HUGO).</p>
+<p>VII</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>état d'intéresser tous ceux qui s'occupent d'art et de littérature. Les
+amis du théâtre national les retrouveront aussi avec plaisir.</p>
+<p>C'en est assez pour que nous nous applaudis- sions de les avoir fait
+revivre.</p>
+<p>HERNANI</p>
+<p>ET LA CENSURE EN 1830</p>
+<p>Quoique la Comédie-Française ait, pour cette fois seulement, mis en
+stalles une partie du théâtre qui d'ordinaire n'est pas numérotée, voilà
+deux mois qu'il est impossible de se procurer des places pour cette
+soirée et la salle est louée pour plusieurs représentations.</p>
+<p><pb/></p>
+<p>Voici donc les faits</p>
+<p>M. Victor Hugo, si nous sommes bien informés, motiva sa demande sur ce
+que « les censeurs, auteurs dramatiques pour la plupart, tous pris dans
+les rangs des défenseurs intéressés de l'ancien régime littéraire,
+étaient ses adversaires, et au besoin ses ennemis naturels. Il lui
+importait donc que cinq ennemis avoués ne fussent, pas avant la
+représentation, mis au courant de sa pièce, et ne pussent en révéler
+d'avance des détails aux cabales, certaines ainsi de bien diriger leurs
+coups. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Sans compter que les meneurs ne s'endormiront sans doute pas, le jour de
+la première représentation. Il est inutile de faire ressortir
+l'influence que de pareilles manœuvres peuvent avoir dans le calcul de
+leurs auteurs sur un ouvrage dramatique dont le sort se décide en deux
+heures, et souvent sans appel.</p>
+<p>Si nous sommes bien informés, il n'existe, hors de chez l'auteur, que
+deux manuscrits d'Hernani; l'un est déposé au théâtre, c'est celui sur
+lequel on répète tous les jours. Dès que la répétition est terminée, ce
+manuscrit est renfermé sous triple clef; personne au monde ne peut en</p>
+<p><pb/></p>
+<p>Or, des contrefaçons circulant, d'où peuventelles venir? Du théâtre dont
+elles ébranlent les espérances, dont elles ruinent les intérêts; du
+théâtre où la circonspection la plus complète est observée, du théâtre
+où la chose est impossible ou de la censure ?</p>
+<p><pb/></p>
+<p>Le reste s'est sauvé tout seul et court encor.</p>
+<p>Il reste donc évident que la censure a étrangement abusé, dans un but de
+cabale, de la com.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>est considérable, dit-on, sera publiée le lendemain.</p>
+<p><pb/></p>
+<p>LE FLONFLON</p>
+<p>VIII</p>
+<p><pb/></p>
+<p>Un moment il y eut un certain mouvement de joie de la rue Montpensier
+jusqu'au boulevard</p>
+<p><pb/></p>
+<p>Réveillez-vous, belle endormie</p>
+<p>Cela se passait sous Napoléon III. « Est-ce » qu'ils ne parlent pas de
+la Liberté? deman» dait le préfet de police. Non, répliquait la »
+commission des censeurs; ils n'ont en vue que » la petite comédie à
+couplets. A la bonne » heure. Eh bien, qu'ils chantent. »</p>
+<p>Sans chanter peut-on vivre un jour?</p>
+<p>A qui appartenait l'honneur de cette résurrection ?</p>
+<p>Comment vous ne le savez pas? Eh! c'est M. Dormeuil, l'ancien directeur
+du Palais-Royal, disciple de Désaugiers, qui veut revenir aux traditions
+du Dîner de illadelon, et cela, en s'écriant avec ironie</p>
+<p>Aujourd'hui de graves chimères</p>
+<p>Sablent le vin que nous buvons.</p>
+<p>Hélas! c'est que nous avons</p>
+<p>Plus d'esprit que nos pères!</p>
+<p>Mais point du tout, répliquent les autres 4.</p>
+<p><pb/></p>
+<p>cette exhumation de l'élement lyrique vient na'turelleinent du
+co-directeur de M. Dormeuil,</p>
+<p>c'est-à-dire de M. Duponchel, ancien directeur de l'Académie royale de
+musique</p>
+<p>Vive mon colonel</p>
+<p>Et monsieur Duponchel</p>
+<p>Allez-vous-en, gens de la noce, Allez-vous-en, chacun chez vous..</p>
+<p>Restez, restez, troupe jolie!</p>
+<p>J'ai vu des casuistes prétendre que cette réforme était comme un semis
+qui nous donnerait</p>
+<p><pb/></p>
+<p>une moisson de gaieté nationale avant la fin de l'hiver d'alors (i857).</p>
+<p>Soit.</p>
+<p>Rions, chantons, disais-je, dansons, faisons des crêpes tenons-nous tous
+par la main, et murmurons les refrains d'Armand Gouffé</p>
+<p>Entrez, entrez, enfants de la folie,</p>
+<p>Plus on est de fous (bis), plus on rit!</p>
+<p>Qu'on est heureux de trouver en voyage</p>
+<p>Un bon souper et surtout un bon lit!</p>
+<p>Frère Jacques, dormez-voue</p>
+<p><pb/></p>
+<p>—Joseph, ouvrez-lui, dit.l'un des administrateurs. Entrez entrez, notre ami</p>
+<p>Ah lui demanda-t-on, est-ce que vous êtes toujours vert? Est-ce que vous
+nous apportez une pochade, un tableau populaire, un pot-pourri, une
+saynète des Porcherons, une scène de CadetButeux ?</p>
+<p>Le vieillard toussait un peu et s'écriait (Air et paroles de M. Albert
+Montémont).</p>
+<p>J'ai soixante ans et je suis jeune encore</p>
+<p>Et les assistants, enchantés, de riposter par</p>
+<p>cette cantate d'un de leurs maîtres</p>
+<p>A soixante ans il ne faut pas remettre</p>
+<p>L'instant heureux que promet le plaisir.</p>
+<p>Ainsi, pendant une répétition, émoustillé par la musique de l'orchestre,
+le Flonflon, obéissant, d'ailleurs aux usages, embrassa la jeune
+première. Là-dessus, le second père noble de s'approcher de lui, et de
+lui dire en sourdine Vous avez embrassé ma femme 1</p>
+<p>Paroles de M. Scribe.</p>
+<p><pb/></p>
+<p>Les types aimables d'autrefois vont-ils donc aussi reparaître?</p>
+<p>L'expédition de la Chine nous donnera-t-elle des soldats laboureurs?</p>
+<p>scénique-là</p>
+<p>Suzon sortait de son village</p>
+<p>Non, non, jamais, jamais,</p>
+<p>Je ne quitterai ma chaumière.</p>
+<p>L'héritage de mon père</p>
+<p>Pour moi vaut un palais</p>
+<p>Et le Flonflon enfantin, messieurs</p>
+<p>Quand je vins au monde, ma mère</p>
+<p>D'un drapeau m'enveloppa;</p>
+<p>J'appelai, n'ayant pas de père,</p>
+<p>Tout le régiment mon papa</p>
+<p>Oh ? la! la la que c'est donc drôle tout cet art</p>
+<p>Mais n'en vaut-il pas un autre, après tout? Jules Janin avait prévu
+cette rentrée triomphale du Flonflon sur la scène française. Avez-vous
+lu son charmant feuilleton d'avril 1857 Comme il tire son chapeau à
+Cadet Roussel est bon enfant —comme il bat des mains au retour de Jons</p>
+<p><pb/></p>
+<p>Le lendemain du jourde l'an, le Flonflon, ahuri par l'accroissement des
+voitures, rentrait tout éclaboussé dans les coulisses.</p>
+<p>Eh qu'avez-vous donc, compère? lui demandait-on. Par Momus! vous êtes
+moucheté comme un léopard</p>
+<p>Et le bonhomme de fredonner</p>
+<p>Ces postillons sont d'une maladresse</p>
+<p>Tout bien compté, cette renaissance pouvait</p>
+<p>Turlututu,</p>
+<p>Chapeau pointu.</p>
+<p><pb/></p>
+<p>LES GENS DE THÉATRE</p>
+<p>HISTOIRE DE DEUX POTS</p>
+<p>IX</p>
+<p><pb/></p>
+<p>Qu'on se rappelle Renaudin de Caen et tant d'autres pièces comiques où
+les deux ont fait la paire.</p>
+<p>Si, au théâtre, Lepeintre jeune était un comédien fort récréatif, dans
+la vie privée, il se montrait le plus débonnaire des hommes. Le gros
+acteur était de bonne heure entré en ménage. Pourquoi, étant si peu fait
+pour l'amour, lui disait son frère, as-tu pris femme?</p>
+<p>Pour n'avoir pas pour moi-même les petits tracas de la vie.</p>
+<p>Et, en effet, il entendait bien ne s'occuper jamais des choses de la
+maison.</p>
+<p>La propreté n'était pas son fort, ni l'activité</p>
+<p><pb/></p>
+<p>non plus, et cependant madame Lepeintre jeune était toujours en
+mouvement elle avait l'air de ranger sans cesse chez elle.</p>
+<p>L'ange du foyer s'écriait l'énorme comédien en souriant.</p>
+<p>En ce moment, un coup de sonnette se fit entendre.</p>
+<p>Eh pardieu, entrez dit madame Lepeintre jeune d'une voix forte.</p>
+<p>Au même instant, la porte fut poussée, et l'on aurait pu voir s'avancer
+d'un pas leste, comme au théâtre, une brillante visite.</p>
+<p>En passant, elle venait déposer sa carte et se retirer.</p>
+<p>Mais où êtes-vous donc, ma chère? dit-elle de sa voix argentine.</p>
+<p><pb/></p>
+<p>Dès le lendemain, l'histoire des deux pots courait tout Paris Henri
+Monnier en a fait une cariture, aujourd'hui oubliée.</p>
+<p><pb/></p>
+<p>X</p>
+<p>UN MÉCÈNE</p>
+<p>Un Mécène Quel vieux mot classique, usé, rococo, n'ayant plus cours On a
+presque honte de s'en servir.</p>
+<p>Va donc, Mécène! s'écrient les naturalistes en haussant les épaules de
+pitié.</p>
+<p>M. le comte de Montalivet est mort, en 1880, au château de la Grange,
+près de Sancerre, dans le Berri. Était-ce une grande figure? Non, sans
+doute, mais c'était une figure. De haute taille, bien doué, beau, titré,
+riche, il peut passer pour le type d'une sorte de viveurs dont il fut
+l'alpha et Romieu l'oméga. En 1879, Bonnat a fait de lui un portrait que
+tout Paris a voulu voir. Hélas! le brillant sybarite du règne de Charles
+X ne se retrouvait plus sur cette toile que comme l'ombre</p>
+<p><pb/></p>
+<p>de lui-même. Si l'on en excepte l'œil, qui est encore plein de lumière,
+les rides ont tout frappé de leur funèbre estampille. Sur la tête,
+sommet jadis chenu, on n'aperçoit plus que le maigre gramen de quelques
+cheveux blancs. Les joues ne sont pas moins émaciées que celles d'un
+anachorète.. Quant au sourire, il est forcé on le prendrait pour une
+grimace.</p>
+<p>Pour se trouver en face du véritable Montalivet</p>
+<p>t de l'histoire, il faut remonter un long cours d'an-</p>
+<p>Placé par son rang, par ses idées, par sa for-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>tuels démocrates et deux anciens hommes de</p>
+<p>cour.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Est-ce que mademoiselle P* n'est pas ici ? demanda le pair de France.
+Non, monsieur le comte, pas pour le moment.</p>
+<p>Où donc est-elle ?</p>
+<p>Monsieur le comte, elle est sortie pour aller. où va le porte-coton du roi.</p>
+<p>Le mot était encore plus net que celui-là, croyez-le bien.</p>
+<p>Le mot était le mot propre, si l'on peut s'exprimer ainsi. Le mot était
+rude.</p>
+<p>Ah! Célimène!</p>
+<p><pb/></p>
+<p>« Il se dit sujet Naguère même il était, » dit-on, un fort mauvais sujet. »</p>
+<p><pb/></p>
+<p>Qu'est-ce que c'est que ce papier? demanda le comte.</p>
+<p>Un pamphlet.</p>
+<p>Contre qui?</p>
+<p>Contre toi, pardieu ?</p>
+<p>Bon repartit vivement le ministre en riant, je sais ce que cela veut dire.</p>
+<p>Cet ancien favori d'un roi est mort partisan de a République.</p>
+<p><pb/></p>
+<p>XI</p>
+<p>LES FORÇATS LITTÉRAIRES</p>
+<p>La pièce était de G*</p>
+<p>Qui se rappelle G*? Il est mort depuis une vingtaine d'années, je crois.
+De son vivant, c'était un vieux routier de l'ancien théâtre, tenant
+naturellement pour le vieux jeu. Durant trente années consécutives, il a
+fait jouer de tout des drames, des vaudevilles, des opéras-comiques,
+voire des pantomimes, d'où il résultait un répertoire qui avait autant
+de valeur comme revenu qu'une grosse ferme en Normandie. Cependant G*
+n'était pas un phénix chacun</p>
+<p><pb/></p>
+<p>savait cela. On savait encore qu'il n'avait rien inventé dans l'art
+moderne, pas même la moindre pièce. On se montrait de ses lettres qui ne
+devaient jamais, on en était sûr, faire oublier la Correspondance de
+Voltaire. Ses lettres Entre autres choses, les t prenaient souvent la
+place des s, le style d'une carpe ou d'une vache espagnole.</p>
+<p>Belle question! répondit un pince- sansrire G* a un forçat, vous le
+savez bien. Oui, ajouta un troisième en s'arrêtant de siffloter l'air en
+vogue oui, un vrai forçat du bagne de Toulon.</p>
+<p>Ce vieux renard de G* il fait faire toutes ses pièces de théâtre par un
+forçat</p>
+<p>A la longue, il n'y avait point le moindre doute</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>taient en appointements qui ne dépassaient pas soixante-quinze francs
+par mois, neuf cents francs par an.</p>
+<p>C'était de quoi avoir un galetas, deux écuelles de soupes par jour et un
+habit râpé. La suite du bagne, comme vous voyez.</p>
+<p>J'ai toujours supposé que le forçat du vieux G* n'avait jamais été
+qu'une aimable supposition des confrères, ou encore, que ce n'était
+qu'une hyperbole.</p>
+<p>Tu sais, le forçat de G* existe encore seulement il ne travaille plus
+pour le théâtre il fait les discours d'un sénateur bien pensant.
+Pourquoi pas?</p>
+<p><pb/></p>
+<p>Mais, attendez Vous allez voir les conséquences de cette affaire.</p>
+<p>C'était presque le cri de Richard III demandant un cheval.</p>
+<p>Le fait est, qu'en parcourant le livre si curieux de M. Frégier les
+Classes dangereuses dans Paris, on voit, hélas! que l'art, les lettres,
+la théologie, l'éloquence, le talent et le génie même foisonnent dans
+les bas-fonds de notre société. Il en est de ces éléments comme des
+pépites du Sacramento, il ne faut que savoir mettre la main</p>
+<p>dessus Cherchez donc bien et vous trouverez</p>
+<p><pb/></p>
+<p>même la petite monnaie de Molière ou celle de Shakespeare.</p>
+<p>« Z* rue de* demande un ancien condamné libéré pour l'aider dans ses
+travaux littéraires. On aura la table et le logement, plus un argent de
+poche convenable. Il n'est pas indispensable d'a ffranchir. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Et il ajouta</p>
+<p>Ça n'empêche pas que j'aie fait trois volumes avec lui.</p>
+<p>Et ces trois volumes de romans font encore en ce moment le tour du
+monde, étant surtout demandés par les duchesses et autres grandes dames.</p>
+<p><pb/></p>
+<p>Ceux qui aiment sérieusement le théâtre n'ont pas oublié la dernière
+décade d'avril 1863, surnommée, non sans raison la Semaine des adieux.
+Quatre artistes dramatiques, tous fort aimés du public, ont pris, cette
+semaine-là, leur retraite, après de longues années de succès. Il y a un
+usage invariable qui date du vieux Baron, et vous voyez que, par
+conséquent, cela remonte assez haut c'est que l'acteur ne se retire pas
+sans avoir, une dernière fois, souri et dit un mot au parterre et aux
+loges qui l'ont applaudi, tous les soirs, très souvent pendant un
+demi-siècle. Entre l'athénien de Paris, vivant de loisirs délicats, et
+le comédien ou la comédienne en vedette, il finit par s'établir un lien
+de sympathie qui est bien quelque chose comme une parenté.</p>
+<p>LA SEMAINE DES ADIEUX</p>
+<p>XII</p>
+<p><pb/></p>
+<p>Le vieil ami qui, trente ans, vous fit rire,</p>
+<p>Eh mais! quoi de plus concevable, s'écriait le feuilletonniste de la
+Quotidienne, est-ce qu'il ne nous a pas tous consolés dans nos mauvais
+jours?</p>
+<p>Un public entier pleurant, j'en ai vu un, moi qui vous parle, en 1836, à
+l'Opéra, le soir où, dans</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Paris, qui a tant de faible pour la gaieté, savait bien que nul ne
+vaudrait jamais Amal dans Renaudin de Caen, le Poltron, les Gants
+jaunes, L'Humoriste et dans Riche d'amour.</p>
+<p>Rien de plus adroit, car on doutait de la réussite de cette pièce, et
+l'on pouvait escamoter un succès en lui attribuant les bravos que la vue</p>
+<p><pb/></p>
+<p>d'Arnal ne pouvait manquer de provoquer. Mais l'événement trompe souvent
+les plus habiles combinaisons. Le Ménage de Césarine n'a pu s'achever.
+C'était la lutte peu aimable d'une jeune femme richement dotée contre un
+jeune mari d'une avarice extrême qui la privait des plaisirs du monde,
+dont elle s'était flattée de jouir après son mariage.</p>
+<p>On devine que cette annonce a fait succéder des slaves de bravos aux
+huées et aux trépignements. Ces bravos ont redoublé après le couplet
+suivant qu'Arnal a chanté avec son goût ordinaire, mais d'une voix
+altérée par l'émotion</p>
+<p><pb/></p>
+<p>Air de Téniers.</p>
+<p>Adieu, messieurs, je pars, et ma voix tremble, Ma gaieté fuit; je suis
+tout défaillant. Quand si longtemps on a fait route ensemble, On ne peut
+pas se quitter en riant.</p>
+<p>Mais, je le sens, la retraite où j'aspire Pour mon cœur seul est un
+sujet d'émoi Que votre adieu soit encore un sourire Que le chagrin ne
+reste que pour moi</p>
+<p>Après ce, joli couplet, que le public a fait bisser, Arnal a détaillé
+avec ce soin, cette finesse, cette aisance, cette originalité qui ont
+fait sa réputation, le rôle si amusant de Riche d'amour. Chaque récit,
+chaque lazzi, chaque couplet ont été l'occasion d'une nouvelle ovation
+en son honneur.</p>
+<p><pb/></p>
+<p>Mais faisons un nouveau mouvement de recurrence vers la Semaine des adieux.</p>
+<p><pb/></p>
+<p>Tu me verras dans la pièce où je joue, disait-il.</p>
+<p>C'était, je crois, le Gamin de Paris où Bouffé jouait l'enfant mutin et
+Ferville lui-même le général.</p>
+<p>Le lendemain, au moment où la bonne servait le déjeuner, le vieux
+comique l'interrogea sur ses impressions de la veille</p>
+<p>Eh bien, Fanchette, t'es-tu amusée, hier? Oui, monsieur, beaucoup.</p>
+<p>Qu'est-ce qui t'a surtout frappée?</p>
+<p>D'abord, ce drôle de M. Bouffé, vous savez, il a le diable au corps,
+surtout quand il joue de la toupie.</p>
+<p>Très vrai, cela. Et après?</p>
+<p>Après, il y a mademoiselle Eugénie Sauvage.</p>
+<p><pb/></p>
+<p>Ah c'est ça une belle demoiselle Fameuse en toilette, très bien mise, là.</p>
+<p>Eh bien, et moi?</p>
+<p><pb/></p>
+<p>ciété. Bressant, encore très vert, a lu d'une voix attendrie des stances
+composées pour la circonstance par M. Théodore de Banville. L'excellente
+Déjazet est venue embrasser son ancien camarade. Au nom des anciens
+artistes du Gymnase, mademoiselle Delaporie, lui a présenté un bouquet,
+en chantant le couplet suivant, qui est encore de M. de Banville et qui
+a été couvert d'applaudissements</p>
+<p>AtR T'en souviens-tu?</p>
+<p>Vous ne voyez que des amis, Ferville; Ils sont nombreux, et n'en sont
+que meilleurs. Paris est là; oui, c'est toute une ville</p>
+<p>Qui, par mes mains, vient vous offrir des fleurs. Brillant et pur,
+malgré les jours moroses, Votre talent vivra dans l'avenir;</p>
+<p>Le temps, hélas! qui fait pâlir les roses, Ne fane pas les fleurs du
+souvenir</p>
+<p>Le comédien octogénaire eût pu dire comme l'octogénaire Voltaire « On
+veut me faire mou-</p>
+<p>rir sous les fleurs »</p>
+<p><pb/></p>
+<p>XIII</p>
+<p>NAPOLÉON MUSARD</p>
+<p>Musard, il n'était pas question d'une autre personnalité. Cet homme
+effroyablement grêlé, mais ayant, au point de vue de son art, le diable</p>
+<p><pb/></p>
+<p>Ce Musard infernal,</p>
+<p>C'est Satan qui donne un bal</p>
+<p><pb/></p>
+<p>Deux artistes étaient mis en parallèle Musard, le Linus de ce Frascati
+de la rue Vivienne, et Jullien, l'Amphion fashionable du Jardin turc,
+autre concert en plein vent du boulevard du Temple.</p>
+<p><pb/></p>
+<p>Voulez-vous voir un bel homme? Allez au Jardin turc prendre des glaces à
+côté de Jullien. Voulez-vous, entendre un artiste? Courez chez Musard</p>
+<p>Mimi Pinson, la grisette d'Alfred de Musset, se sentait venir la chair
+de poule, dès les premières notes.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>régicide se logeât ainsi dans le programme d'un</p>
+<p>concert, hanté par tout ce qu'il y avait de jeune et d'élégant. Par le
+fait d'une atténuation consentie, le morceau fut intitulé le Danois.
+Presque tous les bals masqués d'alors finissaient par ce coup de
+pistolet dramatique.</p>
+<p><pb/></p>
+<p>LA STATUE DE CORNEILLE.</p>
+<p>XIV</p>
+<p><pb/></p>
+<p>Athènes et pour Rome, l'auteur des Horaces n'est pas devenu le point de
+mire d'autant de brocards que Jean Racine.</p>
+<p><pb/></p>
+<p>Chose curieuse, l'engagement était garanti par deux confrères du
+dramaturge, MM. Fontan et Maillan, hommes de talent, absolument oubliés
+de nos jours.</p>
+<p>De son côté, M. le baron Taylor, qui remplissait dans la haute Égypte,
+au Caire, les fonctions de commissaire royal près le Théâtre-Français,
+disait, d'un air solennel</p>
+<p>M. le baron Taylor s'était aussi porté fort pour M. Alexandre Dumas.</p>
+<p>7</p>
+<p><pb/></p>
+<p>Dans un coin, se cachant le plus possible, ne sachant que garder le
+silence au milieu de tant de fonctionnaires, de soleils de gloire et de
+par-</p>
+<p><pb/></p>
+<p>Très volontiers, répond l'auteur de Jean Sbogar.</p>
+<p>Il fait venir ce qu'il faut pour écrire et jette ce qui suit sur le papier</p>
+<p><pb/></p>
+<p>» Rouen, répondit l'auteur, je n'oublie rien,</p>
+<p><pb/></p>
+<p>L'interrogatoire est célèbre.</p>
+<p>LE PRÉSIDENT. Votre nom?</p>
+<p>LE TÉMOIN. Alexandre Dumas.</p>
+<p>Où êtes-vous né?</p>
+<p>A Villers-Cotterets.</p>
+<p>Votre âge?</p>
+<p>Quarante-six ans.</p>
+<p>Votre profession?</p>
+<p>Monsieur le président, je répondrais auteur dramatique, si je n'étais
+dans la patrie de Corneille.</p>
+<p>Là, il y eut un petit temps de silence et le président, véritable renard
+de Normandie, riposta Il y a des degrés, monsieur, il y a des degrés</p>
+<p>Épigramme très fine, très acérée.</p>
+<p>Le soir, dans la ville, on colportait partout cette réplique du
+magistrat, en disant Eh dame, c'est la statue de Pierre Corneille qui
+s'est vengée!</p>
+<p><pb/></p>
+<p>XV</p>
+<p>ACTRICE MAIGRE, ACTRICE GRASSE</p>
+<p>HENRI MURGER. Ah ça, qu'avez-vous donc, ce matin? Jamais on ne vous a vu
+cette figure de dogue.</p>
+<p>FIORENTINO. Dame, c'est que j'ai été mordu. HENRI MURGER. Par qui? Par
+un chien enragé ?</p>
+<p>FIORENTINO. Par une actrice maigre.</p>
+<p>HENRI MURGER. On revient de ça, mon cher. FIORENTINO. Pas toujours. En
+général, voyezvous, j'ai pitié des actrices maigres. On ne saurait
+croire l'intérêt, le respect, la tristesse qu'elles</p>
+<p><pb/></p>
+<p>m'inspirent. Aussi toutes les fois que je suis forcé de parler d'une
+actrice maigre, je ne trouve pas de gaze assez épaisse, pas de voiles
+assez impénétrables pour dérober au public le nom de l'infortunée.</p>
+<p>HENRI MURGER. Eh bien, alors, comment expliquer la morsure?</p>
+<p>FIORENTINO. Écoutez donc un peu mon affaire. Il s'agit de madame D*</p>
+<p><pb/></p>
+<p>HENRI MURGER. Comment vous avez pleuré, vous, Fiorentino?</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>» scène. Ne soyez pas épistolaire madame de » Sévigné était dodue. »</p>
+<p>HENRI MURGER. Parlons d'autre chose, petit fils de Machiavel.</p>
+<p>FIORENTINO. Très volontiers, petit-fils de Villon.</p>
+<p>HENRI MURGER. Puisque nous en sommes aux gens de théâtre, expliquez-moi
+donc pourquoi les Italiens, toujours si soigneux d'être de grands
+chanteurs, ne se foulent jamais la rate pour être de grands comédiens?</p>
+<p><pb/></p>
+<p>HENRI MURGER. Dame, c'est la contagion de l'exemple. Madame Alboni est
+la première chanteuse de l'Europe, n'est-ce pas ?</p>
+<p>HENRI MURGER. Les théories d'un critique, c'est de n'être jamais content
+de rien.</p>
+<p><pb/></p>
+<p>LES DEUX CENTS FRANCS DE L'AUVERGNATE</p>
+<p>(Madame Dorval).</p>
+<p>XVI</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Celui-ci arrive, les coins de la bouche encore écartés par le rire.</p>
+<p>Qu'y a-t-il ? demande madame Dorval. Oh madame, vous ne pourrez jamais
+vous figurer ce que c'est; la chose la plus drôle. Voyons, parlez.</p>
+<p>Madame, au sixième, il y a une jeune fille, une Auvergnate, madame la
+connaît peut-être ? Non après?</p>
+<p>Il parait, madame, que Madelon a une mère qui est malade et un amoureux
+qui va se marier. Tout cela en Auvergne.</p>
+<p>Une mère malade, pauvre fille</p>
+<p><pb/></p>
+<p>Et un amoureux infidèle!</p>
+<p>Loin des yeux, loin du cœur, dit en soupirant madame Dorval.</p>
+<p>Elle fit prier son directeur de venir la voir. M. de M* accourut.</p>
+<p><pb/></p>
+<p>Madelon eut deux cents francs et partit sans que sa bienfaitrice voulût
+permettre que la jeune fille connût la main d'où venait le bienfait.
+L'actrice joua et joua bien. La sensation l'avait guérie.</p>
+<p>J.-T. Merle, son mari, disait « Marie » Dorval Eh c'est Marie-Madeleine,
+actrice. »</p>
+<p><pb/></p>
+<p>XVII</p>
+<p>HISTOIRE D'UNE STALLE D'ORCHESTRE (Après l'incendie de l'Opéra.)</p>
+<p>Il s'agit d'une entrée modeste, du prix de cinq cents francs par an.</p>
+<p><pb/></p>
+<p>Bon et fidèle Pistache reprenait.en a parte l'auteur de Parisine, il est
+toujours en avance de vingt minutes sur le vrai public il attire les
+autres.</p>
+<p><pb/></p>
+<p>Cent fois, on a été témoin de cette scène touchante. Quand deux voisins
+étaient en dissentiment sur un point local, la tête frisée apparaissait.
+S'il s'élevait un doute sur la suppression d'un air de bravoure ou sur
+la réalité d'un maillot, la tête frisée ouvrait obligeamment la bouche
+et mettait en peu de mots les adversaires d'accord, comme le vénérable
+Habeneck le faisait pour tous les sujets de son orchestre.</p>
+<p>Par moments les habitués étaient fort intrigués de cette bienveillante
+et éternelle intervention.</p>
+<p>Ah ça, qu'est-ce que c'est que cet oracle de l'Opéra ?</p>
+<p>Je ne sais. Le directeur l'appelle Pistache. Joli nom, mais ça ne fait
+que redoubler l'obscurité dont s'enveloppe le personnage.</p>
+<p>Est-ce un musicien?</p>
+<p>Point. Il n'est connu d'aucun des artistes. Un amoureux?</p>
+<p>Il ne met jamais les pieds sur le théâtre. Un journaliste?</p>
+<p>On n'a jamais vu sa signature nulle part. Un familier de la division des
+Beaux-Arts? Laissez donc. Il est si frisé!</p>
+<p><pb/></p>
+<p>Non, M. Pistache n'était rien de tout cela c'était tout uniment un clerc
+d'avoué.</p>
+<p>Trois mois avant le temps dont il vient d'être parlé, il s'était passé
+quelque chose d'étrange rue de l'Arbre-Sec.</p>
+<p>Un soir d'octobre, vers sept heures, un élégant coupé s'était arrêté
+devant la porte d'une maison de modeste apparence.</p>
+<p>NOTA. La rue de l'Arbre-Sec était fort humble, il y a trente-cinq ans.</p>
+<p>Est-ce ici que demeure M. Dub. premier clerc de maître Boudin, avoué?</p>
+<p>Monsieur Dub. c'est moi-même.</p>
+<p>Eh bien, monsieur, veuillez prendre connaissance de cette lettre.</p>
+<p><pb/></p>
+<p>En effet, cette lettre était l'extrait d'une clause testamentaire ainsi
+conçue</p>
+<p>» SIGISMOND BÉRARDIN,</p>
+<p>» Ancien munitionnaire des armées. »</p>
+<p><pb/></p>
+<p>« Monsieur,</p>
+<p>» Agréez, etc.</p>
+<p>» JULES et ÉDOUARD BÉRARDIN,</p>
+<p>Exécuteurs testamentaires de leur oncle. »</p>
+<p>L'étonnement et la joie du clerc d'avoué ne pourraient se décrire avec
+l'encre tirée d'une écritoire.</p>
+<p><pb/></p>
+<p>Il me tombe du ciel un plaisir de millionnaire, et pour toute ma vie, se
+dit M. Dub. en se frottant les mains.</p>
+<p><pb/></p>
+<p>M. Pistache est comme le cicerone de l'orchestre.</p>
+<p><pb/></p>
+<p>A LA FOIRE DE SAINT-CLOUD</p>
+<p>XVIII</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>mourir.</p>
+<p><pb/></p>
+<p>Il va sans dire que les acteurs sont en bois, raison pour laquelle on
+peut dire sans hyperbole qu'ils sont admirablement faits au tour par un
+tourneur d'Italie. Au fond des coulisses se dissimulent le directeur du
+théâtre, la directrice et leur fils, éphèbe qui donne les plus belles
+espérances. C'est le cas de dire que ces trois personnes connaissent à
+fond l'emploi des ficelles dramatiques, car c'est au moyen de ficelles,
+habilement remuées, qu'ils font mouvoir la pièce entière. Mais ce qu'il
+y a encore de plus remarquable dans cette barraque, c'est la littérature
+qu'on y sert en public.</p>
+<p><pb/></p>
+<p>Des soldats amenaient Jésus devant le prétoire et Caïphe s'écriait</p>
+<p>Nous amenons Jésus devant vous, grand pontife Nous le tenons enfin!</p>
+<p>Il manque des témoins.</p>
+<p>On n'en peut pas trouver!</p>
+<p>Commeut vous nomme-t-on?</p>
+<p>Votre état?</p>
+<p>Charpentier, mais je n'exerce plus.</p>
+<p>LE PEUPLE.</p>
+<p>Qu'on le fasse mourir!</p>
+<p>PILATE.</p>
+<p>CAÏPHE, vivement.</p>
+<p>Qu'on en fasse venir</p>
+<p>PILATE.</p>
+<p>CAÏPHE.</p>
+<p>Il faut bien qu'on en trouve</p>
+<p>JÉSUS.</p>
+<p>Je m'appelle Jésus,</p>
+<p>CAÏPHE.</p>
+<p>JÉSUS.</p>
+<p><pb/></p>
+<p>UN TÉMOIN.</p>
+<p>CAÏPHE.</p>
+<p>Si ça se propageait, messieurs nos rats-de-cave Ne pourraient pas
+toucher une petite rave.</p>
+<p>Autrement dit en fait d'impôts des boissons, l'État n'aurait plus un radis.</p>
+<p><pb/></p>
+<p>CAÏPHE.</p>
+<p>Jésus de Nazareth, voyons, écoutez-moi</p>
+<p>Ne leur avez-vous pas dit que vous étiez roi?</p>
+<p>Répondez nettement, dans un très clair langage, Oui ou non, c'est-il
+vrai? Répondez sans ambage. JÉSUS.</p>
+<p>Il est vrai; en voyant le peuple rassemblé</p>
+<p>Plus serré que ne sont les épis dans un blé,</p>
+<p>J'ai dit, en lui montrant la demeure céleste</p>
+<p>Je suis le Fils de Dieu; je suis roi.</p>
+<p>CAÏPHE.</p>
+<p>C'était leste.</p>
+<p>CAÏPHE, ait peuple.</p>
+<p>Lequel voulez-vous donc arracher au trépas Du voleur ou du dieu?</p>
+<p>VOIX DU PEUPLE.</p>
+<p>Nous voulons Barrabas!</p>
+<p><pb/></p>
+<p>La Passion de Notre-Seigneur est une belle pièce, lui dis-je, mais
+toujours la Passion, cela finit par devenir monotone. Est-ce que vous ne
+renouvelez jamais votre spectacle?</p>
+<p><pb/></p>
+<p>Il ajouta ici une confidence assez curieuse au point de vue anecdotique.</p>
+<p>J'avoue que cette révélation de l'impresario me rendit rêveur.</p>
+<p><pb/></p>
+<p>XIX</p>
+<p>LES MOTS QUI PASSENT. LES MOTS QUI VIENNENT. Un fait certain Paris ne
+parle jamais vingt ans de suite la même langue. On peut dire qu'il
+change de grammaire plus souvent qu'un Gascon ne change de chemise.</p>
+<p>Vous savez l'ahurissement d'un touriste de la Grande-Bretagne en
+entendant parler nos charmants compatriotes.</p>
+<p>Nos deux petits messieurs s'entretenaient du premier succès d'Alexandre
+Dumas fils au Gymnase.</p>
+<p>Par conséquent, il s'agissait de Diane de Lys.</p>
+<p><pb/></p>
+<p>Ils causent en mangeant des radis roses, et ils causent de la reprise de
+Diane de Lys, la jolie comédie d'Alexandre Dumas fils, qu'on joue
+derechef au Gymnase, au milieu des bravos du public.</p>
+<p><pb/></p>
+<p>Qu'est-ce que ça veut dire?</p>
+<p>L'étonnement de l'insulaire, nous l'éprouvons tous plus ou moins à
+chaque instant, tant les mots qui forment le tissu du langage usuel sont
+variables.</p>
+<p>Que de mots qui nous arrivent je ne sais d'où! Que de mots, par
+conséquent, qui passent et qui s'en vont je ne sais où!</p>
+<p>Vingt fois, en ce siècle, on aura varié les étiquettes qu'on met sur les
+femmes, que Gavarni dessinait si bien en 1840, et que Grévin fait, de
+nos jours, si bien tomber de la pointe de son crayon.</p>
+<p>Quant au masculin de la dite dame, il n'a pas, vous le supposez bien,
+passé par moins de transformations.</p>
+<p>Sous l'Empire, c'était le mirliflor; sous la</p>
+<p><pb/></p>
+<p>Tel est pour le quart d'heure le mot type. Jadis, sous Louis XIV, dans
+La Bruyère et dans La Rochefoucauld, le mot type, suivant l'étymologie
+grecque, voulait dire</p>
+<p>« Caractère, portrait original, figure fortement tracée. »</p>
+<p>En 1884, les petites dames en font presque le synonyme de pante (dupe)
+ou de gogo (même signification).</p>
+<p>De là, ce dialogue entre deux soupeuses de chez Brébant</p>
+<p>Avec qui as-tu passé ta soirée?</p>
+<p>De tout temps, on avait considéré les critiques comme les conservateurs
+du Dictionnaire national c'étaient des Vestales en moustaches chargées
+de garder le feu sacré. Les critiques! Faut-il donc 9</p>
+<p><pb/></p>
+<p>Langue de Voltaire, où vas-tu?</p>
+<p>Où va la langue de l'auteur de Candide? Attendez un peu, et vous allez
+voir.</p>
+<p>Orné de sa chaine d'argent, Lachaume se présente devant M. Empis.</p>
+<p>Monsieur le directéur.</p>
+<p>Quoi? Qu'y a-t-il?</p>
+<p>Eh bien, c'est M. Alfred de Musset.</p>
+<p>Faites entrer M. Alfred de Musset.</p>
+<p>Mais, monsieur le directeur.</p>
+<p>Quoi donc?</p>
+<p>C'est qu'il a son petit jeune homme.</p>
+<p>Qu'est-ce que ça fait, Lachaume? Faites enf</p>
+<p><pb/></p>
+<p>trer M. Alfred de Musset avec son petit jeune homme.</p>
+<p>Le plus piquant de l'histoire, c'est que M. Empis ne savait pas ce que
+voulaient dire ces mots Avoir son petit jeune homme.</p>
+<p>LE PHILOLOGUE. Monsieur, c'est être paf. LE GRAMMAIRIEN. De mieux en
+mieux. Qu'estce donc qu'être paf?</p>
+<p>LE PHILOLOGUE. Selon le Dictionnaire de la langue verte, le mot se dit
+de ceux qui se piquent le nez.</p>
+<p>LE GRAMMAIRIEN. Je ne comprends toujours pas. LE PHILOLOGUE. Eh bien,
+traduisez Ceux qui se saoulent.</p>
+<p>LE GRAMMAIRIEN. Pour le coup, j'y suis. Ce dialogue en rappelle un
+autre, non moins curieux qui a eu lieu, un soir du commencement du
+second Empire, au foyer de ce même Théâtre- Français dont il vient
+d'être question.</p>
+<p><pb/></p>
+<p>BEAUVALLET, d'une voix tonnante. Le pauvre homme Comment il a claqué?</p>
+<p>ARSÈNE HOUSSAYE. Mon Dieu, oui, il a dévissé son billard, comme on dit à
+la cour.</p>
+<p>MADEMOISELLE DELPHINE FIX. Aujourd'hui, c'est possible, mais aujourd'hui
+passe toujours avec la rapidité de l'éclair. Demain, l'on dira Il mange
+de la salade par la racine.</p>
+<p>Pour expliquer ce débordement d'argot faisant irruption dans la maison
+de Molière, il faut rappeler que cette manifestation coïncidait avec la
+publication d'un récent arrêté de M. Achille Fould, alors ministre
+d'État. En voyant que l'idiome des bagnes et des tapis-francs se mêlait
+de plus en plus aux diverses pièces qu'on jouait</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>XX</p>
+<p>DARCIER</p>
+<p>Ali si ce sacré animal de Darcier voulait mettre un peu d'eau dans son
+vin, un peu de prose dans son lyrisme, quel grand chanteur ce serait</p>
+<p>Dans les jours sombres qui ont suivi la Révolution de Février, les
+théâtres ne trouvaient plus de public. On allait au club ou bien on se
+mêlait aux groupes en plein air. Le drame était dans la rue.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>dit un mot et les promeneurs sentent leurs jambes frappées d'immobilité</p>
+<p><pb/></p>
+<p>l'habitude qu'il a prise de traiter la mesure et le rythme à
+grandissimes coups de pieds on le voit quand il se met au piano, on le
+voit même dans la manière hardie avec laquelle il désarticule une mélodie.</p>
+<p>« M'sieu, lui dit-il, je n'ai pas de voix; mais si vous vouliez. si vous
+vouliez me donner des leçons, je crois que je chanterais aussi tout de
+même. »</p>
+<p>Ce véritable gamin de Paris, il avait une fort jolie voix, au contraire;
+mais il croyait nécessaire de n'en pas avoir pour bien chanter.</p>
+<p>« Eh bien, mon ami, répondit l'habile et savant professeur,. viens me
+voir, je te prends pour élève. Tu m'as tout l'air d'avoir raison. »
+Delsarte, en effet, lui apprit la musique et le 9.</p>
+<p><pb/></p>
+<p>Mieux que ça, il avait autour de lui une cou-</p>
+<p><pb/></p>
+<p>Darcier chanta d'abord Mam'zelle Marie, un petit drame d'amour qui fit
+pleurer la salle. Après l'idylle sentimentale, il revint comme
+transfiguré, et tous les cœurs frissonnèrent au chant large et terrible
+de Pierre Dupont Le Pain.</p>
+<p><pb/></p>
+<p>A chaque strophe, les applaudissements redoublaient d'intensité. Aux
+derniers vers du refrain</p>
+<p>Car c'est le cri de la nature Il faut du pain 1 Il faut du pain!</p>
+<p>L'enthousiasme devint de la frénésie.</p>
+<p>Qu'on me laisse le répéter.</p>
+<p>Le lendemain, Darcier était célèbre, et Hector Berlioz écrivait, dans
+son feuilleton des Débats, qu'il faudrait « un parterre de rois pour
+l'applaudir, s'il y avait encore des rois. » Cela se passait au moment
+des révolutions d'Autriche, de Prusse et d'Italie.</p>
+<p>Monsieur Darcier, c'est sublime! Mais je ne vous laisserais pas chanter
+le Pain dans les faubourgs.</p>
+<p><pb/></p>
+<p>Que voulez-vous ? cette cantate du Pain, quand elle passait par la
+bouche de Darcier, elle devevenait presque un signal de guerre civile
+Ces vers-là, disait Antoine Fauchery, ils empaumeraient même les
+aides-de-camp de Changar. (Diminutif du nom de Changarnier.) Au fait,
+cette sorte de prophétie se réalisa pleinement.</p>
+<p>Y penses-tu Tu es fou?.</p>
+<p>F. moi la paix, tu vas voir</p>
+<p>Aux premières mesures de l'air, les habitués</p>
+<p><pb/></p>
+<p>se regardèrent avec étonnement, n'en pouvant croire leurs oreilles.</p>
+<p>Le premier couplet s'éteignit dans un ouragan de bravos. Mais après le
+second, ce fut un vrai délire.</p>
+<p>La faim arrive du village,</p>
+<p>Et, sur la plus haute muraille,</p>
+<p>Elle plante son noir drapeau.</p>
+<p>On n'arrête pas le murmure</p>
+<p>Du peuple quand il dit: J'ai faim!</p>
+<p>Sacré nom de Dieu! que c'est donc empoignant s'écriait un vieux
+capitaine de l'armée d'Afrique en frisant ses moustache grises. Tous
+ceux de ses camarades qui se trouvaient près de lui tenaient le même
+langage.</p>
+<p><pb/></p>
+<p>Darcier seul n'était pas content, car nous l'entendîmes murmurer en
+mordillant sa moustache, de révolté vaincu</p>
+<p><pb/></p>
+<p>ensemble, odieux pour lui, bien entendu. Aussi n'aimait-il pas les
+manifestations du passage Jouffroy, mais après tout, comme son métier de
+rédacteur du Journal des Débats lui faisait une loi de parler de tout ce
+qui se passait alors dans le domaine du théâtre, du chant, de la
+musique, de l'art, il fallait bien qu'il parlât, lui aussi, de ce ténor
+du peuple qui était armé du don de transformer en tendres agneaux de
+Florian même les aides de camp de Changarnier. Or, voici ce qu'il en disait</p>
+<p>Darcier chante et il joue tout ce qu'il chante! Vous lui donnez
+un.couplet, il fait un drame! d'une chanson il fait une élégie Il a la
+voix, l'accent, la démarche d'un comédien, et dans tout ce qu'il
+déclame, et dans tout ce qu'il chante, on reconnait Delsarte; Delsarte
+moins grand, moins éclatant, moins pur; Delsarte encore cependant par la
+vérité, par l'émotion, par le drame.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Oui, cet homme est un danger, mais cet homme est un talent, et, qui
+mieux est, un honnête talent; car ce poètemusicien, même dans ses
+moments de révolte, n'oublie jamais de s'entourer des calmes paysages,
+des doux aspects, des fraîches senteurs de la campagne.</p>
+<p><pb/></p>
+<p>Les plus grands succès du chanteur de l'Estaminet lyrique, furent
+Diogène, la Vendange, la Vigne, les Louis d'or, la Musette neuve, la Fée
+des Bruyères, l'Ange exterminateur, le Bohémien, la Chasse dit peuple,
+le Bataillon de la Moselle, la Trente-deuxième, les Matelots dit grand
+troisponts, le Beau Nicolas, les Doublons de ma ceinture, la Vache
+blanche et Jean Raisin qui fit fermer la salle Martel.</p>
+<p><pb/></p>
+<p>Son admiration pour Triat était sans bornes. Il entend dire un jour que
+le célèbre gymnaste enlevait l'haltère de 200 livres. Il veut s'assurer
+du fait de visu, se rend avenue Montaigne et dit au professeur en lui
+montrant les deux boulets de fonte</p>
+<p>Vous soulevez ce joujou-là?</p>
+<p>Parfaitement.</p>
+<p>Elle est raide.</p>
+<p>En douteriez-vous ?.</p>
+<p>Non, mais. je voudrais. voir.</p>
+<p>Soit. Faisons une gageure.</p>
+<p>Laquelle ?.</p>
+<p>Je vais essayer d'enlever l'haltère dans les</p>
+<p><pb/></p>
+<p>règles, mais si je réussis, en échange, vous me chanterez quelque chose?.</p>
+<p>N. de D. Si vous faites ça, tout ce que vous voudrez. Vous avez un piano?.</p>
+<p>Oui, là-haut, au premier.</p>
+<p>C'est dit, allez-y.</p>
+<p>Triat retrousse ses manches, se baisse, empoigne la lourde masse, et
+après l'avoir en observant tous les temps soulevée au-dessus de sa tête,
+la lance au loin dans l'arène où elle va s'enfoncer dans le sable.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>LE JOURNAL AU THÉATRE</p>
+<p>XXI</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ce fut pour marcher d'accord, avec cet appétit moqueur des masses qu'on
+transporta sur les planches tant de moqueries contre la République
+naissante. Cela avait commencé par la Foire aux idées; cela devait
+continuer par les Grenouilles qui demandent un roi, farce donnée au
+Gymnase. Après s'être associé avec Clairville, un ancien cabotin de
+Bobino, métamorphosé en Aristophane, Jules Cordier prèta la main à
+quelque chose de plus fort c'était de faire une vive satire</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Il ne faut pas oublier que ces vers datent du 21 février 1849, Louis
+Bonaparte étant président de la République depuis deux mois,
+c'est-à-dire en plein courant d'espérances monarchiques. Hoffmann
+s'avance sur la scène et dit</p>
+<p>Messieurs et mesdames,</p>
+<p>LE COURS DE LA BOURSE</p>
+<p>Revue quotidienne, critique, politique, littéraire et commerciale.</p>
+<p>Cette Revue donne tous les soirs le cours de la Bourse, les faits-Paris,
+la séance de l'Assemblée</p>
+<p><pb/></p>
+<p>nationale, les Nouvelles étrangères, les Tribunaux, les Nouvelles
+diverses, les Canards, les Modes et l'état du Ciel. On reçoit des annonces.</p>
+<p>COURS DE LA BOURSE</p>
+<p>Air</p>
+<p>Baisse aussi de quinze centimes. Ainsi, sur la bourse d'hier, L'un
+baiss' de dix, l'autre de quinze, Et l'on cot' le trois et le cinq
+Quatre-vingt-un soixante-quinze, Quarante-neuf quatre-vingt-cinq.</p>
+<p>(Parlé.)</p>
+<p>(Chanté.)</p>
+<p>PREMIER-PARIS</p>
+<p>Notre horizon se rembrunit, La position est très grave; Du volcan
+déborde la lave, A l'ablme tout nous conduit.</p>
+<p><pb/></p>
+<p>(Au public.)</p>
+<p>Comme c'est gai, la politique! Qoel premier-Paris jovial Vraiment, sans
+avoir la colique, On ne peut lire son jonrnal.</p>
+<p>(Lisant.)</p>
+<p>Dans une interpellation,</p>
+<p>Un apôtre de la Montagne, Hier, a placé la Romagne</p>
+<p>Juste au beau milieu du Piémont. Le ministre, pour le confondre, D'un
+air digne, croisant les bras, Comme toujours a su répondre</p>
+<p>En répondant qu'il ne répondrait pas.</p>
+<p>Après ce discours accablant,</p>
+<p>Pas un des combattants ne bbuge</p>
+<p>Le montagnard était tout rouge</p>
+<p>Et le ministre était tout blanc.</p>
+<p>(Parlé). Article communiqué. A. M. le rédac-</p>
+<p>teur en chef du Cours de la Bourse. Monsieur le rédacteur,</p>
+<p>(Chanté.)</p>
+<p>Pour rendre justice au mérite,</p>
+<p>Dans votre journal d'aujourd'hui</p>
+<p>Le ministère vous invite</p>
+<p>A dire beaucoup d'bien de lui.</p>
+<p>(Parlé.) Tous les articles communiqués sont de cette force-là.</p>
+<p><pb/></p>
+<p>CHRONIQUE DES TRIBUNAUX</p>
+<p>(Chanté.)</p>
+<p>Deux bossus s'étant pris de mots Pour les doux appats d'une belle, Hier,
+en correctionnelle,</p>
+<p>(Parlé.)</p>
+<p>SÉANCE DE L'ASSEMBLÉE NATIONALE</p>
+<p>(Chanté.)</p>
+<p>On les appelle tant et plus, Mais comme rien ne les amorce, On s'en va
+les chercher de force Dans la salle des Pas-Perdus. Sur la loi dite
+électorale,</p>
+<p>Ils votent, mais bien tristement, Car pour eux cette loi fatale Est une
+loi d'enterrement.</p>
+<p><pb/></p>
+<p>Car chacun d'eux croit être en cause,</p>
+<p>A propos d'incapacités.</p>
+<p>La loi reste en route et l'on part</p>
+<p>Pour se rendre dans sa demeure,</p>
+<p>Et l'on s'en va de très bonne heure,</p>
+<p>Attendu qu'on est venu tard.</p>
+<p>(Parlé.)</p>
+<p>FAITS DIVERS ET CANARDS</p>
+<p>(Chanté.)</p>
+<p>A notre bonheur rien ne manque;</p>
+<p>La Banque du peuple ouvre enfin.</p>
+<p>Ce n'est pas la première banque</p>
+<p>Du système républicain.</p>
+<p>Cette banque, où tout est coté,</p>
+<p>A, dit-on, pour propriétaire</p>
+<p>Un monsieur qui' pourtant n'est guère</p>
+<p>L'ami de la propriété.</p>
+<p>Une comète d'une lieue</p>
+<p>Dans la vill' de Lyon jett' l'effroi,</p>
+<p>Mais pour apercevoir sa queue</p>
+<p>(Parlé.)</p>
+<p>ANNONCES A 1 FR. 50 C. LE VERS DE HUIT PIEDS. (Chanté.)</p>
+<p>Fatet, comme arracheur de dents,</p>
+<p>Est le prince de la science</p>
+<p>Nous le disons en conscience,</p>
+<p>Parc' qu'il nous a donné six francs.</p>
+<p><pb/></p>
+<p>(Parlé.)</p>
+<p>ACCIDENTS. ARRESTATION D'UN FILOU (Chanté.)</p>
+<p>Un voleur a pris ru' Laffitte</p>
+<p>Un objet d' prix, et le voleur</p>
+<p>Avec son objet prit la fuite,</p>
+<p>Et l'on n'a pas pris le voleur.</p>
+<p>(Parlé.)</p>
+<p>DEMANDE D'EMPLOI</p>
+<p>(Chanté. )</p>
+<p>Pour un département voisin,</p>
+<p>On demande un préfet habile,</p>
+<p>Mais on n' tient pas (c'est inutile)</p>
+<p>A ce qu'il soit républicain.</p>
+<p>(Parlé.)</p>
+<p>NOUVELLES ÉTRANGÈRES</p>
+<p>(Chanté.)</p>
+<p>Pour les affaires d'Italie,</p>
+<p>Un grand congrès va s'assembler</p>
+<p>Sur le Pô tout doit se régler.</p>
+<p>Sans doute ce projet est beau,</p>
+<p>Mais en politique on se triche;</p>
+<p>Laisse la France sur le Pô.</p>
+<p><pb/></p>
+<p>(Parlé.)</p>
+<p>MODES ET TOILETTES</p>
+<p>(Chanté. )</p>
+<p>De l'Empire on reprend la mode, Et tout aspirant sous-préfet,</p>
+<p>Pour imiter l'auteur du Code,</p>
+<p>Prend du tabac dans son gilet.</p>
+<p>(Parlé. )</p>
+<p>ÉTAT DU CIEL. Article communiqué par les savants de l'Observatoire.</p>
+<p>(Chanté.)</p>
+<p>Il a plu dans la matinée,</p>
+<p>Au bout de quinze numéros, la publication ou plutôt la représentation
+cessa. Pourquoi? Le piquant n'y manquait en rien ni l'attention du
+public non plus c'était tout le contraire. Un soir, dans l'un des
+couplets, Jules Cordier, emporté par une fougue un peu libérale, fit un
+éloge du général Cavaignac et, dès le lendemain,</p>
+<p><pb/></p>
+<p>la censure mettait le holà. Le Cours de la Bourse finit là.</p>
+<p>Très peu de temps après le coup d'État, Éléonore de Vaubelle réalisa sa
+petite fortune et s'en alla vieillir dans une petite propriété rurale
+des environs d'Auxerre, où il est mort.</p>
+<p><pb/></p>
+<p>XXII</p>
+<p>LA GRÈVE DES MUSICIENS</p>
+<p><pb/></p>
+<p>Il est pourtant des cas où ceux qui souffrent d'une injustice ou bien
+d'un cruel mécompte, ne peuvent avoir aucune autre ressource. On s'y est
+d'abord pris respectueusement, tout en douceur; on a réclamé auprès des
+supérieurs par voie de parlementaires, mais, en ces sortes de choses, la
+douceur étant mise sur le même rang que la faiblesse, on n'a obtenu que
+des réponses évasives. 11</p>
+<p><pb/></p>
+<p>Il en résulte que le conflit recommence de plus belle.</p>
+<p>Que peuvent faire alors les petits, je vous le demande ?</p>
+<p><pb/></p>
+<p>ne peut guère lui tenir la dragée haute. Un geste suffit pour qu'il soit
+cassé aux gages. A la porte, l'homme des cymbales Et, au bout de cinq
+minutes il n'en est pas plus question que d'une cavatine chantée la veille.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>chestre de l'Opéra-Comique a coûté 89,800 francs par an, répartis sur
+soixante-huit musiciens, soit une moyenne de i,320 francs 50 centimes
+par chaque individu. Sur ce nombre de 68 exécutants, 16 touchaient 75
+francs par mois, soit 2 francs 56 centimes par jour, somme dérisoire, à
+l'époque où nous vivons.</p>
+<p>Et il citait les musiciens des vingt théâtres de Paris, le chef
+d'orchestre compris.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ce serait de prendre sur le droit des pauvres une somme de 50,000 francs
+par an pour allonger les minces appointements des musiciens. Le théâtre
+n'y perdrait pas un centime et les pauvres artistes y gagneraient.</p>
+<p>Le fera-t-on?</p>
+<p><pb/></p>
+<p>On ne le fera pas</p>
+<p><pb/></p>
+<p>FRÉDÉRICK LEMAITRE</p>
+<p>XXIII</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Dans la nuit d'après eut lieu,. rue Lesdiguières, entre ces deux grands
+hommes, une entrevue</p>
+<p><pb/></p>
+<p>non moins mémorable que celle de Diogène et d'Alexandre le Grand.</p>
+<p>FRÉDÉRICK. Mille pardons, monsieur. N'êtesvous pas Liard, le philosophe
+Liard?</p>
+<p>LIARD. Oui, mon fils. Et toi, qui es-tu? Serais-tu de la partie?</p>
+<p>FRÉDÉRICK. A peu près. Depuis vingt ans je vis'au milieu des loques.
+Guenilles de rois, papiers que le vent emporte, chiffons de. toute
+espèce. Je suis comédien.</p>
+<p>LIARD. Qui ne l'est pas de nos jours? Tu as un nom?</p>
+<p>FRÉDÉRICK. Je m'appelle Frédérick Lemaître. LIARD. Attends donc! C'est
+toi qui est le gredin dans Trente ans oit la vie d'un joueur? FRÉDÉRICK.
+Précisément.</p>
+<p>LIARD. En ce cas, tu peux te flatter de m'avoir donné le frisson, mon
+gas. Et bien, que me veux-tu?</p>
+<p>En deux mots l'acteur expliqua ce qui l'amenait. Une boutique de
+rogomiste était encore ouverte. Tous deux y entrèrent et y prirent un</p>
+<p><pb/></p>
+<p>On vient de dire, s'écria-t-il, que cette figure de Robert Macaire a
+toujours été en horreur aux honnêtes gens. Eh bien messieurs, apprenez
+que j'ai été mandé, un jour, aux Tuileries, exprès pour le jouer. Le roi
+Louis-Philippe, la reine</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>secret pour personne. « Ridicusez-le » disaitil au grand acteur pendant
+les répétitions de Vautrin.</p>
+<p>« Monsieur,</p>
+<p>» J'ai la douleur de vous annoncer la perte que le plus fécond de nos
+romanciers vient de faire en la personne de M. Vautrin, dit
+Trompe-la-mort, ancien forçat libéré, décédé subitement au théâtre de la
+Porte-Saint-Martin, où on l'a enterré dans le trou du souffieur.</p>
+<p>» FRÉDÉRICK LEMAITRE. »</p>
+<p>Dans le pays de France aujourd'hui que personne Ne peut chez soi rester
+en paix,</p>
+<p>Et que, de toutes parts, l'ambition bourgeonne,</p>
+<p>Sur les crânes les plus épais.</p>
+<p><pb/></p>
+<p>Néanmoins, buvant la contagion dans l'air, il fit, lui aussi, une
+profession de foi et posa sa candidature. Au recensement, il n'eut à
+recueillir qu'une quinzaine de voix.</p>
+<p>S'ils ne m'ont pas élu, dit-il pour se consoler, c'est qu'ils ont trouvé
+de meilleurs Roberts Macaires que moi.</p>
+<p>Et c'est vous.</p>
+<p>Un dernier mot pour finir.</p>
+<p>Un soir, en sortant par la petite porte qui donne sur la rue de Bondy,
+le grand acteur glissa sur le pavé et fit une chute sur le genou.</p>
+<p>Comment Vous venez de tomber, m'sieu Frédérick? Par bonheur, ça ne vous
+arrive pas souvent de faire une chute.</p>
+<p>La politique est une vilaine fée qui joue de mauvais tours aux meilleurs
+d'entre nous. Dix ans après la Commune, un jour, j'ai revu Félix Pyat et
+nous avons causé, un moment, des choses du théâtre. Ce violent, qui a
+été l'auteur des Romains chez eux, d'Ango, des Deux Serruriers, de
+Diogène et de tant d'autres beaux drames, a joué de malheur. A la veille
+du 24 Fé-</p>
+<p><pb/></p>
+<p>vrier, il avait en portefeuille de belles œuvres et notamment le Médecin
+de Néron, un beau drame dont le rôle principal avait été écrit pour
+Frédérick Lemaître.</p>
+<p><pb/></p>
+<p>XXIV</p>
+<p>L'ARGENT PRÊTÉ</p>
+<p>On cite d'un millionnaire de fraîche date un trait curieux et
+caractéristique.</p>
+<p>-J'ai besoin de mille écus, et je viens, sans façon, vous les demander.</p>
+<p>Mille écus</p>
+<p>Mon cher, c'est une bagatelle, et vous êtes bien au-dessus de cela.</p>
+<p><pb/></p>
+<p>Sans doute. Si je le voulais absolument. Mais permettez-moi, mon cher
+ami, de vous faire remarquer que ces questions d'argent ont le grand
+inconvénient d'altérer les plus solides amitiés.</p>
+<p>Ce sont les grippe-sous qui disent cela. Non, c'est le bon sens. Il faut
+rendre. On n'est pas prêt. La mauvaise humeur s'en mêle, et l'on finit
+par se brouiller.</p>
+<p>Mon ami, je vous promets sur l'honneur que dans trois mois.</p>
+<p>Je vous jure.</p>
+<p><pb/></p>
+<p>Que dites-vous là?</p>
+<p>Ainsi, cher ami, tenons-nous pour avertis que.nous sommes brouillés.</p>
+<p>La voici</p>
+<p>Vous allez voir qu'elle vaut bien. la première.</p>
+<p><pb/></p>
+<p>beau soir quelques jeunes confrères en leur recommandant d'être plus
+rangés.</p>
+<p>Mes enfants, je ne sais pas comment vous faites. Vous êtes toujours à
+court. Et moi, qui cependant ne gagne pas plus que vous et qui, pour le
+moins, vis aussi honorablement que des plus huppés, j'ai toujours cinq
+cents francs dans mon secrétaire au service d'un ami.</p>
+<p>Ce mot ne fut pas perdu.</p>
+<p>Il court donc chez l'homme d'ordre et lui expose sa situation.</p>
+<p>Mon cher, vous ne m'avez pas compris. Comment ça?</p>
+<p><pb/></p>
+<p>nibles, et cela ne vaudrait pas la peine d'en parler.</p>
+<p>L'auteur dramatique écouta, baissa l'oreille, alla et court encore.</p>
+<p>APHORISME</p>
+<p>Donnez de l'argent; n'en prêtez pas.</p>
+<p><pb/></p>
+<p>XXV</p>
+<p>LE COMMERCE DES CHANSONNETTES.</p>
+<p><pb/></p>
+<p>Le savetier, interloqué, se tut, du moins pour le moment. On avait parlé
+de papier timbré C'en était assez pour le réduire au silence. Dans notre
+siècle, on ne chante plus sans payer. Allez, c'est plus fort que du
+temps de Mazarin. Ainsi le veut le progrès.</p>
+<p>En civilisation, chez le roi de la nature, c'est un tout autre refrain.</p>
+<p><pb/></p>
+<p>Anna</p>
+<p>Donna</p>
+<p>La canne à</p>
+<p>Canada!</p>
+<p>Allons, vous me devez cinquante centimes. Voyez plutôt le tarif.</p>
+<p>Si l'on voulait citer, on n'aurait que l'embarras du choix.</p>
+<p><pb/></p>
+<p>Vous allez voir comment la chose est arrivée pour la première fois.</p>
+<p><pb/></p>
+<p>Rien je viens voir comment mes œuvres sont interprétées. Mais, monsieur,
+il faut consommer.</p>
+<p>Mais, monsieur, je suis l'auteur.</p>
+<p>-.Monsieur, cela ne me regarde pas.</p>
+<p>Savez-vous quel a été l'encaisse des droits pour l'année i88i?</p>
+<p>Plus de sept cent mille francs Que de millions perdus depuis trente ans!</p>
+<p>Ah le bienheureux verre d'eau sucrée</p>
+<p>Cependant, il faut tout vous dire de Paris, le beuglant a fait irruption
+dans la province..Il y en</p>
+<p><pb/></p>
+<p>a désormais dans toutes les villes, et bientôt ce sera dans tous les
+hameaux.</p>
+<p>André Chénier n'a jamais touché un centime pour ses admirables vers.</p>
+<p>Autre temps, autres mœurs, autre code.</p>
+<p><pb/></p>
+<p>Il n'est pas de couronne de laurier ou de myrte sous laquelle ne se
+cachent des épines par centaines. Celui qui a composé Robert-le-Diable
+a, toute sa vie, été coiffé d'une couronne de ce genrelà. Paris, Milan,
+Vienne, Londres, Saint-Pétersbourg ont salué son nom d'un million de
+bravos; les banknotes et les fleurs poussaient sous ses pas; tous les
+princes chamarraient de rubans sa redingote en drap vert; il y eut même
+un roi, sur les bords de la Sprée, qui parla un jour de le faire baron.
+« Sire, cela se pourrait, s'il n'était » pas israélite, objecta un
+chancelier. Mais » est-ce que les Rotschild ne sont pas de la lignée »
+de Jacob, et pourtant ils sont barons. Il est » vrai, sire, mais les
+Rotschild ont chez eux la » merveilleuse caverne d'Ali-Baba et,
+d'ailleurs, 12.</p>
+<p>XXVII</p>
+<p>MEYERBEER.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>éternel, tout cela devait avoir et a eu un succès européen. Cependant il
+se trouvait toujours dans Paris, vieille capitale du. goût, un collège
+d'amateurs du vieux jeu pour protester tout haut contre tant de bruit et
+pour blâmer le trop fréquent emploi des instruments de cuivre.
+L'orchestre de l'œuvre nouvelle renfermait plus de métal qu'il n'en
+aurait fallu pour former deux bonnes batteries de cuisine. Un critique
+musical, alors fort écouté, le père Fétis, avait fait cette remarque et
+d'autres qui étaient la conséquence de .cette première observation.</p>
+<p>Paroles très judicieuses, et auxquelles la suite des temps a donné raison.</p>
+<p>Un autre écrivain, un très aimable poète, juif aussi par-dessus le
+marché comme l'était le musicien lui-même s'échappait agréablement dans
+la même critique.. d'ai nommé Henri Heine. Le charmant auteur de
+Reisebilder s'empara de l'Orphée hébreu et, en raison de cet abus du
+cuivre, il le houspilla de la belle manière.</p>
+<p><pb/></p>
+<p>Vous le voyez donc, il y avait des lauriers et du myrte sur le crâne du
+compositeur, mais les épines ne manquaient pas non plus.</p>
+<p>Une des plus acérées, celle qui piquait le pauvre homme jusqu'au 'sang
+c'était l'épigramme tombée des lèvres de Rossini. A l'illustre auteur de
+Guillaume Tell on demandait pourquoi, étant encore jeune, très habile,
+très vert, il ne faisait plus rien.</p>
+<p>Je me réserve, répondit-il, pour le jour où les Juifs auront fini leur
+sabbat.</p>
+<p>Mot ailé et armé d'un aiguillon d'or comme si c'eut été une guêpe. Cela
+courut d'abord au foyer</p>
+<p>Un des Nestors de la presse, M. Armand de</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>De son vivant, Meyerbeer avait refusé aux israélites de Hambourg et de
+Berlin une cantate pour l'inauguration de leurs temples, mais il
+figurait toujours parmi les collaborateurs de la Maîtrise, journal de
+musique catholique. Bien mieux, ses œuvres complètes roulaient toutes
+sur des sujets chrétiens. Aussi, avant.de faire la .statuette d'ébène,
+ses coreligionnaires ont composé pour lui cette épitaphe d'une poésie
+passablement risquée</p>
+<p>Meyerbeer, dort sous ce sable;</p>
+<p>Il chanta Dieu et Robert-le-Diable;</p>
+<p>Il, chanta les huguenots, les calvinistes,</p>
+<p>Jean, le faux prophète des anabaptistes;</p>
+<p><pb/></p>
+<p>Il chanta Rome, le czar, Luther, le pape, Le moine, le guerrier, le
+Turc, le satrape; Il chanta le lied, la messe, le choral, Le Requiem et
+l'invitation au bal;</p>
+<p>Il chanta tout, le digne et cher maitre Sauf la divine loi de son ancêtre,</p>
+<p>Nommé maître de chapelle de l'enfer, Il compose de belles choses pour
+Lucifer</p>
+<p><pb/></p>
+<p>tin, le feuilletonniste poussait des cris de paon. Ah le Fesse-Mathieu
+disait-il ah le triple pingre! Comme il est bien le descendant de ceux
+qui, avant de s'enfuir d'Égypte pour passer la mer Rouge ont emporté les
+casseroles de Pharaon Un dîner! il appelle ça un dîner Mais il n'y a pas
+un garçon perruquier qui ne se paie, le dimanche, un balthasar plus
+copieux Et, au dessert, comme il a renâclé Croiriez-vous qu'il ânonnait
+en demandant au garçon une demi bouteille de champagne, une affaire de
+cinquante sous!</p>
+<p><pb/></p>
+<p>dont il avait le secret, il fit arrêter tous les instruments et dit à
+Prumier</p>
+<p>Monsieur Prumier, je n'ai pas entendu la rentrée des arpes?</p>
+<p>Les arpes, poursuivit le maître, sont-elles désoussées maintenant?</p>
+<p>Oui, monsieur. Sur un signe de moi le garçon s'est taté de les mettre en
+ordre.</p>
+<p>Monsieur l'arpiste, je vous remercie. Il n'y a pas de quoi, monsieur le
+compositeur.</p>
+<p><pb/></p>
+<p>Eh bien, lisez et jugez.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>XXVII</p>
+<p>UN QUART D'ACTRICE</p>
+<p>Nommons-la très vite Miss Emma Cruch ou mademoiselle Cora Pearl, comme
+on voudra. Quoique tout passe avec la rapidité d'un coup de foudre,
+Paris n'a pas oublié cette Anglaise au chignon roux qui nous était venue
+de Londres en même temps que Louis Bonaparte. Ce n'est pas sans de
+sérieux motifs que je rapproche ces deux noms. La Phryné britannique a
+été l'une des étoiles qui ont le plus brillé dans le firmament du second
+Empire. D'un aveu unanime on a fait d'elle, durant vingt-cinq ans, le
+prototype de la courtisane moderne.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Si les Frères Provençaux servaient une omelette aux diamants, Cora irait
+y dîner, tous les soirs.</p>
+<p>Bast dit-elle, ce n'est pas la peine de me baisser pour si peu ce sera
+pour l'habilleuse. Chacun des deux boutons valait deux mille</p>
+<p><pb/></p>
+<p>francs; cela faisait donc quatre mille francs pour l'habilleuse, le
+double de ce qu'elle gagnait en un an.</p>
+<p>Jugez de ce que pouvait produire une telle scène sur les petites
+figurantes de l'endroit. Le directeur, afin de la retenir, parlait de
+lui payer des feux.</p>
+<p><pb/></p>
+<p>» rebut, Emma Cruch Ils ne veulent plus de » vous, Cora! Adieu, panier!
+Adieu, poneys! » Vendez vos diamants, la vieille Il faut dispa» raître
+au fond du cinquième dessous où, par » bonheur, s'évanouissent toutes
+vos pareilles » Ah comme la folle déesse qu'on adorait au-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>XXVIII</p>
+<p>PENDANT LE SIÈGE DE PARIS.</p>
+<p>Les canons de la Société des Gens de lettres.</p>
+<p>Il n'y a qu'une voix dans le monde connu sur ce qui s'est passé pendant
+le siège de 1870-1871; Paris s'y est montré sublime d'abnégation et de
+patriotisme Paris a tout affronté sans se plaindre la guerre, le froid,
+la famine, la mort; Paris a su endurer avec une dignité stoïque les
+insultes de l'envahisseur.</p>
+<p>Avant que ne sonnât l'heure de tant d'épreuves, on ne croyait pas qu'une
+telle résistance fût chose possible. Les anciens se rappelaient 1814 et
+1815, ces deux invasions d'hommes du Nord que nous a amenées le premier
+Napoléon et ils supposaient que les Parisiens de 1870 ouvriraient leurs
+portes avec la même docilité que leurs ainés. J'ai entendu de beaux
+esprits rappeler le</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>La chose vaut la peine d'être racontée.</p>
+<p>C'est cette histoire d'un canon tiré d'un recueil</p>
+<p><pb/></p>
+<p>de poésies que nous racontons, d'après le Bulletin de la Société des
+Gens de lettres.</p>
+<p>5 NOVEMBRE. Audition des Châtiments au théâtre de la Porte-Saint-Martin.</p>
+<p>Pour cette solennité, le Comité a fait imprimer et distribuer l'annonce
+suivante</p>
+<p>PROGRAMME.</p>
+<p>PREMIÈRE PARTIE.</p>
+<p>Ouverture. WEBER.</p>
+<p>Notre souscription. JULES CLARETIE.</p>
+<p>Les Volontaires de l'an II. TAILLADE.</p>
+<p>A ceux qui dorment Mlle DUGUERRET. Hymne des transportés LAFONTAINE.</p>
+<p>La Caravane Mlle LIA-FÉLIX. Souvenir de la nuit du 4. FRÉDÉDÉRICK LEMAITRE.</p>
+<p><pb/></p>
+<p>DEUXIÈME PARTIE.</p>
+<p>Adagio. MOZART.</p>
+<p>L'Expiation. BERTON.</p>
+<p>Stella. Mlle FAVART.</p>
+<p>Chansons COQUELIN.</p>
+<p>Joyeuse vie Mme MARIE LAURENT. Patria, musique de BEE-</p>
+<p>La salle, bondée de spectateurs de toutes les conditions et de tous les
+costumes, se montrait enthousiaste et recueillie. Presque toutes les
+femmes, en habits de deuil, n'avaient plus en vue qu'une chose sérieuse,
+la guerre aux remparts. Elles faisaient voir un visage grave mais non
+abattu. On commença par jouer la Mal'seillaise, signal obligé de tous
+les épisodes de la vie commune, l'hymne de combat dont la guerre civile
+n'avait pas encore abusé. Et Dieu sait avec</p>
+<p><pb/></p>
+<p>quels transports il fut applaudi Après cet air qui parlait le langage
+d'un glorieux passé, un des membres du comité de la Société des Gens de
+lettres, M. Jules Claretie s'avança sur le devant de la scène, et dans
+une chaleureuse allocution, expliqua les causes et l'objet de cette
+matinée. On me saura assurément gré de reproduire ici les principaux
+passages de son discours. « Citoyennes, citoyens,</p>
+<p>» A cette heure, la plus grave et la plus terrible de notre histoire, où
+la patrie est menacée jusque dans son cœur Paris tout homme ressent
+l'âpre désir de servir un pays qu'on aime d'autant plus qu'il est meurtri.</p>
+<p>» La Société des Gens de lettres, voyant avec douleur la grande patrie
+de la pensée, la patrie de Rabelais, la patrie de Pascal, la patrie de
+Diderot, la patrie de Voltaire, abaissée et écrasée sous la botte d'un
+uhlan, a voulu, non seulement par chacun de ses membres, mais en corps,
+affirmer son patriotisme, et, puisque le canon dénoue aujourd'hui les
+batailles, puisque le courage est peu de chose quand il n'a pas
+d'artillerie, la Société des Gens de lettres a voulu offrir un canon à
+la patrie.</p>
+<p>» Mais comment l'offrir ce canon? Avec quoi faire le bronze ou l'acier
+qui nous manquait? » Il y avait un livre qu'on n'avait publié sous</p>
+<p><pb/></p>
+<p>« Cher et honoré président,</p>
+<p>» Elle a eu l'idée de faire dire par les premiers artistes de Paris
+quelques-unes des pièces de ce</p>
+<p><pb/></p>
+<p>livre proscrit qui rentre en France avec la république, les Châtiments</p>
+<p>» Le lendemain, Victor Hugo nous répondait</p>
+<p>« Paris, 30 octobre 1870.</p>
+<p>« Mes honorables et chers confrères, » Je vous félicite de votre
+patriotique initiative.</p>
+<p>Vous voulez bien vous servir de moi. Je vous remercie.</p>
+<p>» Que ce canon se dresse sur nos murs. Une ville ouverte a été
+assassinée, une cité sans dé-</p>
+<p><pb/></p>
+<p>» Que ce canon venge les mères, les orphelins, les veuves; qu'il venge
+les fils qui n'ont plus de pères et les pères qui n'ont plus de fils
+qu'il venge la civilisation qu'il venge l'honneur universel; qu'il venge
+la conscience humaine insultée par cette guerre abominable où la
+barbarie balbutie des sophismes Que ce canon soit implacable, fulgurant
+et terrible, et quand les Prussiens l'entendront gronder, s'ils lui
+demandent Qui es-tu? qu'il réponde Je suis le coup de foudre et je
+m'appelle Châteaudun? « VICTOR HUGO. »</p>
+<p>» Je ne veux pas vous empêcher plus longtemps d'écouter les admirables
+vers et les remarquables artistes que vous allez entendre. Je ne veux
+pas plus longtemps vous parler de notre souscription, je ne veux que
+vous faire remarquer une chose</p>
+<p><pb/></p>
+<p>Des sabres qu'au besoin ils sauraient avaler.</p>
+<p>» Il avait deviné dans le sang du début la boue du dénouement.</p>
+<p><pb/></p>
+<p>du 4 décembre, vers qui pouvaient s'écrire aussi sur les cadavres du 4
+septembre</p>
+<p>Tous, qui que vous fussiez, tête ardente, esprit sage, Soit qu'en vos
+yeux brillât la jeunesse ou que l'âge Vous prit et vous courbât</p>
+<p>Que le destin pour vous fût deuil, énigme ou fête, Vous aviez dans vos
+cœurs l'amour, cette tempête, La douleur, ce combat.</p>
+<p>Grâce au Quatre Décembre, aujourd'hui, sans pensée, Vous gisez étendus
+dans la fosse glacée</p>
+<p>Sous les linceuls épais</p>
+<p>0 morts! l'herbe sans bruit croit sur vos catacombes, Dormez dans vos
+cercueils taisez-vous dans vos tombes! L'Empire, c'est la paix.</p>
+<p>» Avec le neveu comme avec l'oncle l'Empire, c'est l'invasion.</p>
+<p>» Il avait donc, encore un coup, deviné, le grand poète, tout ce que
+l'Empire nous réservait de lâchetés et de catastrophes. Il était le
+prophète alarmé de cette chute qui n'a point d'égale dans l'histoire, de
+cette reddition dont une lèvre française ne peut parler sans frémir, il
+avait tout deviné, et, devant le triomphe de l'abjection, sa colère
+pouvait passer pour excessive. Hélas le sort lui a donné raison, et les
+Châtiments restent le livre le plus éclatant, le fer rouge inoubliable,
+et ils consoleront la patrie de tant de honte, après l'avoir vengée de
+tant d'infamie</p>
+<p>« Puis, les désastres vengés, la patrie refaite,</p>
+<p><pb/></p>
+<p>« La République, c'est la paix! »</p>
+<p><pb/></p>
+<p>Je veux que l'on m'explique</p>
+<p>L'enfant n'a pas crié « Vive la République »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Telle est l'histoire des deux canons de la So- ciété des Gens de lettres.</p>
+<p><pb/></p>
+<p>XXIX</p>
+<p>L'ACTRICE FAITE HOMME</p>
+<p>PERSONNAGES</p>
+<p>Mademoiselle PICROCHOLINE, actrice d'un théâtre de genre. Mademoiselle
+IMPÉRIA, jeune première d'un autre théâtre. L'HABILLEUSE.</p>
+<p>(La scène se passe au théâtre des Surprises dramatiques, pendant le
+dernier entr'acte.)</p>
+<p>SCÈNE PREMIÈRE</p>
+<p><pb/></p>
+<p>et qu'on plume en se f. fichant de lui tout le temps. Il faut que j'y
+aie du zinc, ce soir. Sans ça, les vieux de l'orchestre regretteraient
+trop Déjazet; et ils appelleraient Azor.</p>
+<p>L'HABILLEUSE. Vous siffler, vous, mademoiselle Pas de danger, par exemple!</p>
+<p>MADEMOISELLE PICROCHOLINE, minaudant. Pourquoi, mame Laloue?</p>
+<p>L'HABILLEUSE. Parce que sur les trente théâtres, sans exception, depuis
+l'Opéra jusqu'au dernier boui-boui que Paris renferme dans son sein, on
+n'en trouve pas une pour jouer les rôles d'homme comme mademoiselle.</p>
+<p>L'HABILLEUSE. Bien honnête, mademoiselle. PICROCHOLINE. (Elle débouche
+le flacon et verse de la liqueur dans deux petits verres.) Ah ce n'est
+pas de la camelotte de kirsch comme tous</p>
+<p><pb/></p>
+<p>L'HABILLEUSE. Mon sentiment sincère, ma petite chatte, c'est qu'il n y a
+rien de plus rupin en fait de liquide. Feu la Malibran, que j'ai
+déshabillée plus de trois cents fois aux anciens Bouffons, n'a jamais eu
+de fil-en-quatre aussi chenu que celui-la.</p>
+<p>SCÈNE II</p>
+<p>PICROCHOLINE. Ah c'est pour dire que nous n'avons plus que dix minutes.
+Voyons, mam' Laloue, mes moustaches.</p>
+<p>VOIX DE FEMME. Est-ce ici?</p>
+<p>AUTRE voix. Oui, madame.</p>
+<p>VOIX DE FEMME. Je frappe, alors, puisqu'on refuse de m'ouvrir. Pan! pan!
+pan!</p>
+<p>MADEMOISELLE IMPERIA. Mademoiselle Impéria, du théâtre de*</p>
+<p><pb/></p>
+<p>MADEMOISELLE IMPÉRIA. Ce que je viens faire, vous allez le voir.</p>
+<p>PICROCHOLINE. Eh bien, attendez.</p>
+<p>MADEMOISELLE IMPÉRIA. Du tout. Je suis pressée.</p>
+<p>PICROCHOLINE. Tiens, moi aussi, puisque je</p>
+<p>suis en train de mettre mes bottes.</p>
+<p>(Ait bout de dix minutes, la porte s'ouvre.) MADEMOISELBE IMPÉRIA, en
+costume de ville, chapeau, chlîle et manchon, entre en grondant comme la
+tempête qui se déchaîne sur la Méditerranée. Après avoir fait trois pas
+d'une manière théâtrale, elle tire d'un sac un paquet de lettres.
+Mademoiselle, reconnaissez-vous ça?</p>
+<p>PICROCIIOLINE. Précisément.</p>
+<p>MADEMOISELLE IMPÉRIA. Thémistocle Fanfreluche est l'homme que je vais
+épouser dans quinze jours d'ici, mademoiselle.</p>
+<p>PICROCHOLINE. Par devant M. le maire et M. le curé?</p>
+<p>MADEMOISELLE IMPÉRIA. Oui, mademoiselle.</p>
+<p><pb/></p>
+<p>PICROCHOLINE. Eh bien, entre nous, il a bon goût, ce pas grand'chose
+vous! un vrai bâton! MADEMOISELLE IMPÉRIA. Mais, mademoiselle, vous
+m'insultez chez vous</p>
+<p>PICROCHOLINE. Rien de plus simple,-puisque vous venez me braver chez
+moi. (De fil en aiguille, de mots en mots, elles se jettent l'une sur
+l'autre et se c1'êpent le chignon. Finalement, c'est mademoiselle
+Impéria qui a le dessous.)</p>
+<p>MADEMOISELLE IIMPÉRIA. Elle m'a assommée, cette harpie!</p>
+<p>L'HABILLEUSE. Dame, c'est tout simple. Pourquoi venir provoquer dans sa
+loge une actrice qui porte des moustaches?</p>
+<p>(Mademoiselle Impéria se retire en sanglotant.) SCÈNE III</p>
+<p>(Un quart d'heure après.)</p>
+<p>L'HABILLEUSE. -Effectivement, ma petite chatte c'est toujours comme ça
+que ça se passe au théâtre.</p>
+<p><pb/></p>
+<p>CEUX QUI DEVIENNENT FOUS.</p>
+<p>XXX</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Acteurs et actrices, il en est beaucoup aussi qui ne sauraient envisager
+sans une sorte de terreur une salle pleine, tout un océan de têtes
+effarées, souvent stupides, quelquefois féroces.</p>
+<p>Le public a beau m'applaudir, disait la Malibran le public est un
+monstre qui me fait peur.</p>
+<p>Et elle ne paraissait devant lui qu'après avoir bu un cordial, souvent
+corrosif.</p>
+<p><pb/></p>
+<p>Un coup de sifflet du monstre a rendu fou le pauvre Adolphe Nourrit,
+après quoi, le grand chanteur s'est tué en se jetant par la fenêtre.
+Ceux qui deviennent fous au théâtre sont, par malheur, très nombreux.</p>
+<p>Citons-en quelques-uns de mémoire.</p>
+<p>Stockley, ancien acteur de l'Ambigu, et plus tard de l'Odéon.</p>
+<p>Monrose, l'excellent valet de la Comédie-Française.</p>
+<p>Lepeintre aîné, le créateur du Soldat laboureur aux Variétés.</p>
+<p>Lhérie, frère du vaudevilliste Brunswick, auteur et artiste dramatique.</p>
+<p>André Hoffmann, l'excellent comique des Variétés.</p>
+<p>Lassagne, le pioupiou des Variétés.</p>
+<p><pb/></p>
+<p>Lepeintre aîné et Villars se sont jetés dans le canal Saint-Martin.</p>
+<p>Chose singulière, presque tous ces pauvres fous étaient des acteurs
+comiques.</p>
+<p>En 1873, Charles Perey, fut atteint aussi. Ce brave garçon, était, sans
+contredit, l'un des artistes les plus aimés du temps.</p>
+<p>Pendant le siège, il s'était enrôlé dans un bataillon de marche et il
+s'y est très vaillamment comporté jusqu'au 18 mars, époque où la Commune
+est survenue. Charles Perey s'est alors considéré comme licencié.</p>
+<p>On a trouvé dans l'appartement de Charles Perey de nombreux portraits de
+sa mère. De plus, les murs portaient plusieurs inscriptions dans le
+genre de celles-ci:</p>
+<p>« C'est le chagrin qui me tue »</p>
+<p>« Si je suis trop malade; on trouvera dans mon</p>
+<p><pb/></p>
+<p>C'était en effet le numéro dans lequel on annonçait la maladie de
+Charles Perey.</p>
+<p><pb/></p>
+<p>XXXI</p>
+<p>LA FEMME A BARBE.</p>
+<p>Thérésa! Thérésa Thérésa!</p>
+<p>Ah 1 la drôle d'époque Ah l'étrange manière de se vêtir!</p>
+<p><pb/></p>
+<p>catalane, il n'était question que de courses de chevaux, de petits
+soupers, de petits coups de canifs dans les contrats de mariage.</p>
+<p>Jacques Offenbach inaugurait par Orphée aux enfers sa musique de cuivre
+et de grosse caisse, sa musique de sauvage, qui était le seul art qu'on
+voulût aimer. Cora Pearl conduisait elle-même au bois, autour du lac,
+ses petits poneys café -au-lait, qui ont été pour tant de chose dans son
+succès. Gustave Courbet peignait sa grosse dondon de Bougival, la même
+que les amateurs ont appelée la Viergc au cochon.</p>
+<p>Bref, la ville qui se dit la première du monde, n'avait plus l'air que
+d'une grande maison de fous.</p>
+<p><pb/></p>
+<p>C'était alors qu'apparaissait Thérésa.</p>
+<p>Thérésa! disait Louis Veuillot, j'ai voulu la voir, j'ai voulu
+l'entendre comme tout le monde. Eh bien, savez-vous l'effet qu'elle m'a
+produit? Une fille maigre avec des lèvres en rebord de pot de chambre et
+une assez belle voix. Un peu plus, je la prendrais pour ce qu'on appelle
+un beau brun en province.</p>
+<p><pb/></p>
+<p>D'où il résulte que, pendant vingt-cinq ans, les divers publics du
+continent européen ont été pris pour une très belle collection de dupes.
+Que faire pour que cette énorme supercherie ne se renouvelle pas?</p>
+<p>Voyez donc la moralité</p>
+<p><pb/></p>
+<p>XXXII</p>
+<p>LES BOUTONS DE DIAMANT</p>
+<p>ÉPISODE DE LA VIE D'UNE CHANTEUSE</p>
+<p>En 1865 parut Kalil-Bey, l'envoyé du sultan. On avait dit aux gens de Paris</p>
+<p>Messieurs, c'est un homme des Mille et une nuits qui vous arrive.</p>
+<p><pb/></p>
+<p>on comprenait que ce jeune Turc ne pourrait manger ses richesses qu'avec
+le demi-monde, et ce fut, en effet, ce qui eut lieu.</p>
+<p>Kalil-Bey décréta un grand Ramadan autour de lui, le jeûne excepté.</p>
+<p>Nuit et jour, les fêtes se succédaient.</p>
+<p>Le jeu, les promenades, les grands dîners, de temps en temps, un bal,
+embelli par des almées cueillies en pleine Gomme.</p>
+<p>Pour leur faire plaisir, il avait fait appeler des premiers rôles de
+l'Opéra et des Italiens. Sans doute l'attention était délicate.</p>
+<p>Ces dames se montrèrent enchantées. Néanmoins, l'une d'elles, une
+ambassadrice d'outreRhin, un petit nez en pied de marmite, comme on dit,
+hasarda un mot. Les chanteurs et les chanteuses des grands théâtres,
+n'était-ce pas un</p>
+<p><pb/></p>
+<p>peu fade ? Pourquoi n'avoir pas appelé aussi celle des cantatrices qui
+faisait tressaillir tout Paris d'alors en disant une chanson populaire
+C'est dans l'nez qu' ça m' chatouille?</p>
+<p><pb/></p>
+<p>princière, deux boutons de diamant qui valaient une dizaine de mille
+francs.</p>
+<p>On eut soin de lui faire savoir, un peu plus tard,</p>
+<p><pb/></p>
+<p>la. gaucherie qu'elle avait faite, et elle s'en serait mordu les doigts,
+si elle les avait moins jolis, moins effilés, moins soignés. Car Thérésa
+a des mains de duchesse..</p>
+<p>Où les mains de duchesse vont elles se nicher? me direz-vous.</p>
+<p>Magnifique et infortuné Khalil</p>
+<p><pb/></p>
+<p>Il est devenu fou! dit un médecin du faubourg de Péra.</p>
+<p>Pauvre Khalil</p>
+<p><pb/></p>
+<p>XXXIII</p>
+<p>LE COLLÉGIEN ET LA COMÉDIENNE.</p>
+<p>On voit d'ici la scène dans laquelle le drame se mêlait si fortement au
+grotesque.</p>
+<p>Un potache menaçant d'assassiner une belle personne, que Carolus Duran a
+illustrée avec son pinceau et que tant de notabilités sociales ont
+bombardée de roses, de lilas de Perse et d'œillets Faites-vous un peu
+une idée de ce que pouvait</p>
+<p><pb/></p>
+<p>être en ce moment la jolie tête de la jolie comédienne</p>
+<p>Par bonheur, au bruit qui se fit, on accourut et le lycéen fut désarmé.</p>
+<p>L'aventure a dû finir par un pensum et par trois jours de pain sec.</p>
+<p>Paris se disait</p>
+<p>Nous avons entendu des bourgeois dire Ah ça ne s'arrêtera pas en si beau
+chemin Il faut que la morale soit vengée.</p>
+<p>Vengée, pourquoi?</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Nestor Roqueplan a bien fait de mourir, il y a une douzaine d'années.</p>
+<p>Avant mademoiselle Croizette, il y avait eu, jadis, mademoiselle
+Déjazet, la Sophie Arnould de notre âge.</p>
+<p>« Mademoiselle,</p>
+<p><pb/></p>
+<p>Après avoir lu la missive, la sémillante actrice frémit et céda au
+besoin de se trouver au rendez-vous assigné.</p>
+<p>Ah mademoiselle, vous ne feriez pas ça, répondit le rhétoricien.</p>
+<p>Je le ferais, je vous jure.</p>
+<p><pb/></p>
+<p>CHARLES HOUGO, LETALMA HONGROIS</p>
+<p>XXXIV</p>
+<p><pb/></p>
+<p>En mars de cette même année, nous étions cinq ou six, rue du
+Faubourg-Montmartre, n° 10, dans la petite cahute de l'imprimerie
+Schiller, où se tenait la rédaction du Soleil (1). Vers dix heures du
+matin, un homme entra brusquement, sans prendre la précaution de se
+faire annoncer par (i) En 1867, Le, Soleil, journal littéraire, fondé
+par Polydore Millaud, paraissait sous la direction de Jules Noriac avec
+la collaboration de MM. Auguste Villemot, Henri Rochefort, Francisque
+Sarcey, Philibert Audebrand, Eugène Schnerb, Jules Lermina, Georges
+Sauton, Alphonse Fagès, Alexis Bouvier, etc, etc.</p>
+<p><pb/></p>
+<p>Comment, monsieur, il est bien vrai, vous ne connaissez pas le célèbre
+Charles Hougo ? Mon dieu, non, monsieur.</p>
+<p>Char:es Hougo, la plus grande gloire de la Hongrie moderne</p>
+<p><pb/></p>
+<p>Je rougis de mon ignorance, mais je ne le connais pas.</p>
+<p>Charles Hougo, le grand poète?</p>
+<p>Je n'ai jamais entendu parler de lui, je l'avoue.</p>
+<p>Charles Hougo, le grand acteur?</p>
+<p>Complètement inconnu par ici.</p>
+<p>Durant ce dialogue, les autres rédacteurs du Soleil avaient laissé
+retomber leurs plumes sur le tapis, afin de s'amuser de tout ce qu'il
+pouvait y avoir de comique dans cette scène assurément fort inattendue.</p>
+<p>Il a une belle araignée dans le plafond, murmurait un autre.</p>
+<p>Est-ce que l'Europe va nous envoyer beaucoup de hannetons de cette
+force-là? disait un troisième.</p>
+<p><pb/></p>
+<p>que j'ai commencé par solliciter. Tenez, permettez-moi de vous offrir ma
+carte.</p>
+<p>Je pus lire, en effet, sur un assez beau cartonporcelaine les trois
+lignes suivantes</p>
+<p>CHARLES HOUGO,</p>
+<p>GRAND POÈTE-ACTEUR HONGROIS, 12, rue Rossini.</p>
+<p>Il salua en signe de remerciement et il allait sortir quand nous le
+vîmes recommencer son entrée.</p>
+<p>Monsieur, je vous sais très bon gré de votre accueil, mais laissez-moi
+vous adresser une prière.</p>
+<p>Laquelle ?</p>
+<p>Celle de bien lire et surtout de bien transcrire mon nom.</p>
+<p>Pourquoi ça?</p>
+<p>Pour qu'on ne me confonde pas avec M. Hugo, le poète français.</p>
+<p>Ah soyez sans crainte, il n'y a pas de méprise possible, monsieur.</p>
+<p>Chose promise, chose due. Le lendemain, le</p>
+<p><pb/></p>
+<p>Un matin, toujours au bureau du Soleil, je vis reparaître le poète-acteur.</p>
+<p>Le pauvre homme, un peu dépaysé, me cherchait des yeux.</p>
+<p>Je vous apporte une invitation pour une grande soirée, me dit-il.</p>
+<p>Quelle grande soirée?</p>
+<p>Qu'est-ce que c'est que l'autonimie ?</p>
+<p>Diable</p>
+<p>Je ferai tout ce que je pourrai pour y aller. Très certainement j'y
+serais allé, si j'eusse pu rencontrer un compagnon de chaîne, mais je
+n'en trouvai pas.</p>
+<p><pb/></p>
+<p>On m'apprit toutefois ce qui s'était passé salle Herz.</p>
+<p>Pour un peu il aurait fait aussi le cheval de bois.</p>
+<p>Il ne fallait ni tousser, ni applaudir, ni se moucher, ni remuer.
+Presque tous les spectateurs en ont fait une maladie.</p>
+<p>Vous connaissez l'empereur ?</p>
+<p>Oui, et je l'estime beaucoup.</p>
+<p>Pourquoi ?</p>
+<p>Tiens, parce qu'il est aussi grand poète et aussi grand comédien que moi.</p>
+<p><pb/></p>
+<p>Charles Hougo disait cela très sérieusement sans aucune intention d'ironie.</p>
+<p>Au Soleil, il n'y avait pas un seul bonapartiste, ce qui contrariait
+grandement l'excellent Millaud, son propriétaire, fort ami de l'empire
+et de l'empereur.</p>
+<p>Ah zut alors, s'il doit faire l'éloge de Badinguet, me dirent les jeunes
+gens qu'il ne remette plus les pieds ici.</p>
+<p>Il revint pourtant et voici pourquoi.</p>
+<p>Il apportait le livre d'un air triomphant. Comme indice du prix, il y
+avait sur la couverture Prix Un Napoléon d'or.</p>
+<p>Pour cette seule raison, personne ne voulut parler de cette œuvre très
+désordonnée, partant fort originale. Il en pleurait presque. Dans ce
+livre on trouve du reste ce que j'ai dit touchant Louis Bonaparte: «
+J'aime Napoléon III parce que c'est un grand politique, un grand poète,
+un grand comédien. »</p>
+<p>Charles Hougo quitta Paris avant la fin de l'Exposition.</p>
+<p><pb/></p>
+<p>Le pauvre homme n'a plus reparu sur le théâtre; il n'a plus publié de
+vers ni hongrois ni français.</p>
+<p><pb/></p>
+<p>XXXV</p>
+<p>UNE CONFÉRENCE DE Me CRÉMIEUX, AVOCAT.</p>
+<p><pb/></p>
+<p>Hélas! qu'est-ce donc qu'un homme célèbre? Une ride sur l'eau! Il
+paraît, il joue son rôle, il passe et disparaît pour toujours. Ne le
+cherchez plus. Ainsi a passé maître Adolphe Crémieux. Pendant soixante
+ans, car il a eu une longue vie, il aura occupé l'un des premiers rangs
+parmi ceux qu'on a appelés les Princes de la parole. Il n'y a qu'un très
+petit nombre d'années qu'il est mort.</p>
+<p><pb/></p>
+<p>Prononcez son nom en présence des jeunes gens des nouvelles générations,
+et ils ne sauront pas ce que vous voulez dire.</p>
+<p>Je sais, me disait-il, que, de nos jours, le mot seul faire rire. Un
+homme convaincu du délit ou même du crime de tragédie n'est plus bon à
+jeter aux chiens. Combien, vous autres, sagittaires de la presse
+satirique, n'avez-vous pas</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>niques le Récit de Théramène. Au troisième vers, débité avec une verve
+d'un rare comique, tous les convives se tordaient de rire. A la fin, l'élo-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>La tragédie, M. Crémieux ne sortait pas de là. Un ou deux actes
+d'Iphigénie, qu'il disait de souvenir, lui servaient presque d'unique et
+d'excel-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>La fille de Minos et de Pasiphaë.</p>
+<p><pb/></p>
+<p>Si jamais la tête qui penche Devient blanche,</p>
+<p>Ce sera comme l'amandier,</p>
+<p>Cher Nodier!</p>
+<p>Ce qui le blanchit n'est pas l'âge Ni l'orage,</p>
+<p>C'est la fraîche rosée en pleurs, Dans les fleurs</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>XXXVI</p>
+<p>LE PUBLIC ET LES AUTEURS DRAMATIQUES</p>
+<p>1</p>
+<p>Au marais</p>
+<p>MADAME BÉCHAMEL. Bon endroit! Je n'y ai pas mis les pieds depuis le jour
+où l'on y jouait Héloise et Abélard, il y a quarante-trois ans. Ce
+souvenir m'est resté. Bon endroit. Qu'est-ce qu'on y donne? Toujours
+Héloïse et Abélard ?</p>
+<p>MADAME PRÉCHANTRÉ. Ah non, par exemple</p>
+<p><pb/></p>
+<p>Ils y jouent quelque chose de plus moderne. MADAME BÉCHAMEL. Comment ça
+s'appelle-t-il ? MADAME PRÉCHANTRÉ. L'Assommoir.</p>
+<p>MADAME BÉCHAMEL. Ce titre promet. Ça doit être chouette. On y assomme
+quelqu'un, n'est-ce pas?</p>
+<p>MADAME PRÉCHANTRÉ, Dame, je suppose. MADAME BÉCHAMEL. Si l'on
+n'assommait pas, ça n'aurait guère le sens commun, n'est-ce pas? MADAME
+PRÉCHANTRÉ. Je le pense comme vous. Attendez donc, je vais vous
+apprendre le nom de l'auteur.</p>
+<p>M</p>
+<p>AU THÉATRE-FRANÇAIS</p>
+<p>(Un entr'acte.)</p>
+<p>PREMIER LORGNON. Très jolie petite comédie. DEUXIÈME LORGNON. Non, ce
+n'est pas mal, 17.</p>
+<p><pb/></p>
+<p>vous avez raison. Il y a du sel, du sel qui pique. Quel est l'auteur?</p>
+<p>PREMIER LORGNON. Est-ce que je sais ça, moi? DEUXIÈME LORGNON. Pourtant,
+ce ne serait que justice de reconnaître ce qu'il y a de mérite dans cet
+ouvrage.</p>
+<p>PREMIER LORGNON. Mon cher, on le reconnaît assez en payant sa place.</p>
+<p>DEUXIÈME LORGNON. Permettez-moi d'être d'un</p>
+<p>avis contraire. Quand j'ai bu d'un bon vin, je ne suis pas fâché de
+rendre hommage au cru en citant son nom.</p>
+<p>PREMIER LORGNON. Du chambertin, pontetcanet, léoville, on dit ça après
+avoir bu mais ça dure si peu Eh bien, dites, si vous voulez, Victorien
+Sardou, Alexandre Dumas fils, Henri Meilhac, et puis ce sera tout.
+L'étiquette qui recouvre la bouteille, oui, une belle affaire Et combien
+de fois c'est trompeur, ça! Donc, quatrevingt-dix fois sur cent, on vous
+fait boire du nectar sophistiqué. Vous entrez, vous prenez, une
+bouteille qui porte ces mots sur son cou haut sauterne; vous versez, et
+vous n'avez que de la piquette. Eh bien, c'est souvent comme ça au
+théâtre. Ne nous arrêtons pas au nom des producteurs.</p>
+<p>LE BUSTE DE MOLIÈRE. Excellent public, va!</p>
+<p><pb/></p>
+<p>XXXVII</p>
+<p>LE RÉVE DE FLORENCE</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>renom, quel rêve! C'est cent fois mieux que d'être la filleule des fées.</p>
+<p>Barres.</p>
+<p><pb/></p>
+<p>On consentit.</p>
+<p>Nos filles sont sveltes et blanches;</p>
+<p>En lourdes tresses leurs cheveux</p>
+<p>Leurs sourcils sont noirs, leurs yeux bleus.</p>
+<p>On l'avait engagée au théâtre Michel.</p>
+<p><pb/></p>
+<p>Que de souffrances, que de tribulations pendant ce long voyage! Enfin
+elle arrive à, Paris; mais la guerre et la Commune ont bouleversé bien
+des choses. Ses parents sont morts; la chapellerie a de nouveaux
+maîtres; la maison,</p>
+<p><pb/></p>
+<p>qu'elle avait habitée avant son départ, rue du Château-d'Eau, a été
+incendiée.</p>
+<p>Elle est sans asile, on l'arrête, et la voilà, sous l'inculpation de
+vagabondage, devant le Tribunal correctionnel (9e chambre), présidée par
+M. Guérin de Vaux; son attitude est décente et sa tenue des plus
+convenables. Aucun renseignement défavorable n'a pu être recueilli sur
+son compte. Elle déclare être âgée de vingt-deux ans. M. le Président.
+Votre profession ?</p>
+<p>La prévenue. Artiste lyrique.</p>
+<p>M. le Président. Vous êtes prévenue de vagabondage ?</p>
+<p>La prévenue raconte ses malheurs, dont le récit lui concilie la
+sympathie du Tribunal et de l'auditoire.</p>
+<p>M. le Président. Vous n'avez pas retrouvé vos parents?</p>
+<p>La prévenue. Les renseignements que j'ai pris m'ont malheureusement
+révélé qu'ils avaient cessé de vivre.</p>
+<p>M. le Président. Vous ne pouvez exercer votre profession?</p>
+<p><pb/></p>
+<p>La prévenue. La voix m'est revenue; mais je n'ai ni toilette, ni costume
+pour me présenter dans les théâtres, et je ne puis attendre. M. le
+Président. Connaissez-vous quelqu'un qui puisse vous réclamer et vous
+venir en aide?</p>
+<p>La prévenue. J'ai un parent éloigné qui demeure rue de la Pépinière,
+mais il est hors d'état de me secourir.</p>
+<p>M. le Président. Personne autre ne peut vous aider?</p>
+<p>La prévenue fait une gracieuse révérence, puis une seconde elle en
+allait commencer une troisième quand l'audiencier l'arrête. Elle se
+croit encore devant la rampe.</p>
+<p><pb/></p>
+<p>J. M. J.</p>
+<p>Communauté des sœurs de Saint-Joseph. Prison de Saint-Lazare, rue (lu
+Faubourg Saint-Denis.</p>
+<p>Paris, le 26 janvier 1872.</p>
+<p>« Monsieur le Président,</p>
+<p>» La nommée Deveaux (Florence), désire ar-</p>
+<p>» Daignez agréer, monsieur le Président, l'hommage de mon religieux
+respect.</p>
+<p>» La supérieure de Saint-Lazare,</p>
+<p>» Sœur MARIE-ELÉONORE. »</p>
+<p><pb/></p>
+<p>Sans doute ce n'est pas la vie d'une diva de primo cartello; mais le
+pain de chaque jour ne lui man quera pas.</p>
+<p>Jeunes filles de Paris, coupez les ailes de sylphe de vos âmes, surtout
+quand ces rêves vous poussent sur les planches</p>
+<p><pb/></p>
+<p>XXXVIII</p>
+<p>AUGUSTE LIREUX, DIRECTEUR DE L'ODÉON.</p>
+<p>Un Normand, ayant l'arrogante cautèle des enfants de son pays. Il était
+de taille moyenne, sans nulle élégance la figure rougeaude, les yeux
+couverts de lunettes vertes, le sourire sardonique. Il était vif, mais
+plus pétulant que vif, très abondant en paroles, mais ne sachant pas
+causer. Il avait de l'esprit. Pas énormément Un esprit de rapin, ou
+d'histrion, au gros sel, mais beaucoup de verve, beaucoup de gaieté. Le
+fond de son tempérament était de rire de tout et d'une manière bruyante.
+Raison pour laquelle il était autant redouté que recherché.</p>
+<p><pb/></p>
+<p>de Gil Blas.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Jadis un mot de lui avait fait fortune. Sous Louis-Philippe, les
+écrivains de la Provence s'étaient emparés de Paris. Parmi eux, on
+remar- quait MM. Thiers, Mignet, Méry, Barthélemy, Léon Gozlan, Eugène
+Guinot, Marie Aycard, Taxile Delord, Amédée Achard, Louis et Charles.
+Reybaud, madame Reybaud, Charles Rouget, Emile Solié et cinq ou six autres.</p>
+<p>C'est la peste de Marseille! s'était écrié Li- reux.</p>
+<p>En ce temps-là, il n'y avait pas de théâtre plus moqué. Dans les revues
+de carnaval, on représentait, par exemple, ce malheureux. théâtre entre
+deux serruriers. Aussitôt que l'un des deux venait de le rouvrir,
+l'autre accourait pour le re- fermer. Le fait est que, contrairement à
+ce que demande le proverbe, il n'était jamais ni ouvert ni fermé. On
+répandait sur lui toutes sortes de</p>
+<p><pb/></p>
+<p>bruits étranges comparables aux récits d'un voyageur revenant de la
+lune. Il poussait des champignons dans la salle. Il existait dans le
+trou du souffleur un crapaud centenaire. Les ombrés de Picard et
+d'Andrieux se promenaient la nuit dans l'enceinte en agitant des chaînes
+et en récitant des vers de douze pieds, sans enjambement.</p>
+<p>Tant de légendes étaient bien faites pour donner la chair de poule.
+Lireux cependant n'hésita pas. Il entreprit de ressusciter cette belle
+salle qui avait des aspects de mausolée et, en effet, il la fit revivre,
+Dieu sait avec quels efforts surhumains</p>
+<p>Un de ses intimes lui communiquait un jour tout son effroi.</p>
+<p>Le désir de voir de près ce qu'il y a de plus comique dans les misères
+humaines, répondit le journaliste.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>fortement impressionné la critique, mais le pu- blic, déshabitué des
+grandes choses; était def- meuré froid. Au petit théâtre du boulevard du
+Temple, on prenait la chose plaisamment. Ainsi, pour se moquer de
+l'Odéon, toujours vaincu, le compère de la Revue, voyant arriver le
+théâtre de la rive gauche sous la figure du Commandeur, lui adressait à
+brûle-pourpoint cette question de police correctionnelle</p>
+<p>Odéon, quels sont vos moyens d'existence? Et la statue était
+naturellement muette, et le public se tordait de rire.</p>
+<p>Pauvre et lamentable Odéon</p>
+<p>Auguste Lireux aussi riait tout le premier de cet état de choses.</p>
+<p>Or, un soir, en les voyant passer amaigris par le jeûne, attristés par
+l'insuccès et vêtus l'hiver</p>
+<p><pb/></p>
+<p>comme on l'est l'été, Lireux qui se trouvait- dans un groupe s'écria
+vivement</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ne ferez-vous donc rien autre chose que du journal? lui disais-je un
+jour que nous revenions ensemble de la Constituante.</p>
+<p>Si fait bien.</p>
+<p>Quoi donc?</p>
+<p>siècle ?</p>
+<p><pb/></p>
+<p>riait plus d'un rire si bruyant ni si expressif. Ah disait-on, ce n'est
+plus la suite du Roman comique, mais c'est la suite du 2 décembre. Il
+est mort, un jour, par hasard, et peut-être est-il mort parce qu'il
+était devenu riche.</p>
+<p><pb/></p>
+<p>XXXIX</p>
+<p>LE PERSAN DE L'OPÉRA.</p>
+<p>On ne l'appelait que le Persan.</p>
+<p>Avez-vous vu le Persan?</p>
+<p>Eh! montrez-moi donc le Persan! Il passait pour être très riche. Ce qui
+donnait à</p>
+<p>On répandit sur lui beaucoup d'histoires, et ces histoires étaient
+probablement des fables. Un faiseur de racontars s'était mis un soir au</p>
+<p><pb/></p>
+<p>Ce Persan, peut-être un descendant de Darius Codoman, le vaincu
+d'Alexandre, avait été gouverneur d'une ville pour le schah. Un jour,
+pressé par le démon du lucre, il aurait vendu cette ville aux Anglais,
+et les Anglais, indépendamment d'un trésor, lui auraient payé cette
+trahison cinquante mille francs de rente.</p>
+<p>Mais, disais-je, pourquoi n'aurait-il pas fait sa fortune dans le
+commerce, dans la diplomatie, dans la banque ou dans les jeux de hasard,
+comme presque tous les habitués de l'Opéra? J'ai entendu se répandre une
+autre version, probablement pas plus vraie.</p>
+<p>La scène se passe toujours en Perse, dans une</p>
+<p>ville du shah, voisine des Indes, convoitée, assiégée même par le
+léopard britannique. En</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>francs, tant il était gros et limpide, et le rusé petit vieux ne
+dédaignait jamais de le mettre en évidence, ce diamant toujours chargé
+de jeter ses éclairs aux yeux.</p>
+<p>Les élégants disaient</p>
+<p>Il n'y a que le prince de Galles qui en ait un pareil.</p>
+<p>Nos petites bourgeoises en étaient foudroyées. Une fois ou deux, sous le
+règne de Napoléon III,</p>
+<p><pb/></p>
+<p>véritable César des hannetons, quand il était encore un peu jeune, il
+pénétra dans les coulisses du grand Opéra, son diamant lui servant de
+lanterne. Trois danseuses du corps de ballet avaient parlé de l'enlever.</p>
+<p>Il est mort, le Persan, puisque tout meurt, puisque tout passe.</p>
+<p>Peu s'en est fallu que cette même tourbe d'esprits charmants les
+Parisiens n'aient dit, comme ils disaient un jour, avant 89, chez nos pères</p>
+<p>Peut-on être Persan?</p>
+<p><pb/></p>
+<p>XL</p>
+<p>A TRAVERS LES FOYERS.</p>
+<p>Un chercheur de curiosités biographiques vient de trouver un document
+précieux; c'est l'acte mortuaire de Bellini, le doux Bellini, l'immortel
+auteur de Norma, des Puritains et de la Somnambule.</p>
+<p>Dans cet acte, Bellini est qualifié de professeur (le musique.</p>
+<p>MAIRIE DE PUTEAUX</p>
+<p>Extrait des registres des actes de décès pour l'année 1835.</p>
+<p><pb/></p>
+<p>dissement de Saint-Denis, département de la Seine, sont comparus les
+sieurs Jacques-Louis Huché, âgé de cinquante-trois ans, journalier, et
+Joseph Hubert, âgé de trente-sept ans, jardinier, tous deux domiciliés
+dans cette commune et amis du défunt ci-après nommé.</p>
+<p>Suivent les signatures.</p>
+<p>Pour copie conforme</p>
+<p>Le maire,</p>
+<p>Signé BLANCHE.</p>
+<p>Puteaux, le 3 février 1874.</p>
+<p><pb/></p>
+<p>Un jour, on fit courir dans Paris quatre vers sur cette antagonisme.</p>
+<p>Les voici, ces vers, tel que je les ai reçus de M. Hector de Jailly, un
+des habitués de la maison de Molière.</p>
+<p>Elle est Vénus, elle est charmante,</p>
+<p>Elle attire tous les regards.</p>
+<p>Pourtant elle n'est pas l'amante</p>
+<p>De Mars.</p>
+<p><pb/></p>
+<p>Ce quatrain, fait de main de maître, comme on le voit, avait pour auteur
+Désaugiers, le même qui a écrit le Dîner de Madelon et les pots-pourris
+de Cadet Buteux.</p>
+<p>Le Guignol des Champs-Élysées était en trainde rosser le commissaire. Le
+chat, pelotonné sur la balustrade, regardait. Un coup de bâton s'égare
+sur son dos.</p>
+<p>Le chat furieux saute sur Guignol et sur le commissaire, et, de deux
+formidables coups de patte, les renfonce tous deux dans le troisième
+dessous.</p>
+<p>Monsieur, ne battez pas le chat! c'est Polichi- nelle qui a commencé!</p>
+<p><pb/></p>
+<p>de l'affaire. En donnant un coup de bâton au chat, Polichinelle avait
+fait trop de zèle.</p>
+<p>Il n'est pas mal de faire voir que le trop de zèle est toujours puni.</p>
+<p>Chez les poètes du jour, il est d'usage de traiterles actrices comme les
+Visitandines de Nevers ont traité jadis leur perroquet. En d'autres
+termes, on bourre ces dames de friandises lyriques au point de leur
+donner une indigestion.</p>
+<p>Voici le quatrain que fit Léon Gozlan sur madeselle Nathalie.</p>
+<p>A MADEMOISELLE NATHALIE C'est jalousie</p>
+<p>De comédie</p>
+<p>Et l'on t'appelle Nathalie Pour ne pas t'appeler Thalie.</p>
+<p><pb/></p>
+<p>Ci-gît la fausse Nathalie</p>
+<p>Théodore de Banville, pardieu</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Avec un complice charmant,</p>
+<p>A mis au monde, en moins d'un an,</p>
+<p>Une belle œuvre, un bel enfant.</p>
+<p>—J.J.! pour un gros homme, vous êtes leste! aurait dit une dame de
+l'endroit.</p>
+<p><pb/></p>
+<p>Un titre de vicomtesse sur une affiche met en ébullition de joie tout le
+monde aristocratique. Allons entendre la vicomtesse disait-on après le
+mariage de la jeune femme.</p>
+<p>Avec le temps est venu le silence. Mais l'ancienne chanteuse s'est faite
+dame patronnesse et, entre nous, c'est une manière de bien finir.</p>
+<p>Dans ma boutique où personne ne bouge, La politique a créé des partis;</p>
+<p>Plus d'un homard se défend d'être rouge, Car il prétend que les rouges
+sont cuits (bis).</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>J'ai donc dit que M. Samson avait fait une chanson. Ah! cette chanson,
+rythmée sur l'air de Ma Tante Urlurette ou Turlurette, je ne sais</p>
+<p><pb/></p>
+<p>pas au juste, on l'en complimentait. On lui disait « Ah! monsieur
+Samson, mousieur Sameson, que de verve que de gaieté que d'esprit Et il
+souriait d'aise, et il était heureux, et il se croyait un homme de
+talent. De cette chanson bizarre je n'ai retenu que le premier couplet,
+mais cet échantillon vous suffira Républicain, que veux-tu,</p>
+<p>Avec ton chapeau pointu ?</p>
+<p>Tu veux nous couper la tête.</p>
+<p>Je trouve ça bête.</p>
+<p>Ah! j'trouve ça très bête</p>
+<p>Ma foi, moi aussi, couper la tête avec un chapeau pointu, répliquait
+Beauvallet qui n'était pas réactionnaire, oui, je trouve ça très bête,
+cher monsieur Sameson. Ça n'était pas comme ça qu'on s'y prenait autrefois.</p>
+<p>Connaissez-vous l'Éloge de l'oie ? c'est un opuscule posthume de Romieu,
+ingénieux travail qu'il est question de faire paraître en librairie.
+Journaliste, préfet, romancier, gourmand, excentrique, Romieu a vengé, à
+ce qu'il paraît, l'oie du dédain injuste des Parisiens.</p>
+<p>Chose curieuse, il parait que l'Éloge de l'oie remonte a l'année 1833
+(il y a cinquante-deux</p>
+<p><pb/></p>
+<p>ans !) En 1833, Romieu n'était que deux choses sous-préfet et gourmand.
+Destitué en 1848, il est redevenu un homme politique, et il n'a plus eu,
+dès lors, ni gaieté ni esprit.</p>
+<p>« Comment Vous ne savez pas ? Ça été</p>
+<p>cette pochade, comme tout le monde, et il y riait aux larmes..</p>
+<p><pb/></p>
+<p>Sion de censure qui avait permis cet alinéa irrévérencieux.</p>
+<p>Allons donc, s'écria le joyeux préfet de la Dordogne, j'ai fait la
+guerre aux hannetons; si je la faisais aux censeurs, ce serait une récidive</p>
+<p>Fils d'un volontaire de 1792, il était républicain dans l'âme.</p>
+<p>Il avait connu Hégésippe Morcau pendant sa jeunesse et il avait été son
+ami.</p>
+<p>Sous le second Empire, il disait</p>
+<p>La conversation s'engage sur les comédiens. Est-ce que vous estimez
+beaucoup les gens de théâtre? lui demande brusquement l'homme du coup
+d'État.</p>
+<p>Mon Dieu monsieur, répond Tisserant, les comédiens sont comme les ducs,
+il y en a de bons et il y en a de détestables.</p>
+<p><pb/></p>
+<p>Attrape, monsieur de Saint-Rémy</p>
+<p>Si l'on ne joue pas la pièce, je suis un homme ruiné.</p>
+<p>A la fin, Bocage finit par obtenir qu'on rendit le manuscrit.</p>
+<p>Bocage était l'âme de ce drame.</p>
+<p><pb/></p>
+<p>Où en est-on d'Horace? demanda Lireux. On vient de commencer le second
+acte. Eh bien, après le second acte, on prendra Notre-Dame-des-Abîmes.</p>
+<p>Et Horace ?</p>
+<p>On l'achèvera après le drame.</p>
+<p>Ainsi fut fait.</p>
+<p>Bonne pâte de public</p>
+<p>Nos jeunes gens, tous deux étudiants en droit, l'avaient faite en
+collaboration</p>
+<p>—J'y renonce, disait l'un en sortant du ter-</p>
+<p><pb/></p>
+<p>rible cabinet directorial. Décidément, je me fais avocat.</p>
+<p>-Moi, je persiste, et je vais faire une autre pièce. Celui-ci était
+Émile Augier et l'autre Nogent Saint-Laurens.</p>
+<p>Ce fut peut-être ce trait qui fit grandement adoucir la sentence.</p>
+<p>En avril 1869, une scène touchante se passait</p>
+<p><pb/></p>
+<p>La première pensée car les comédiens mettent de la gaieté partout avait
+été que chacun apportât un marteau et que, devançant les démolisseurs de
+M. Haussmann, il emportât un petit morceau de sa loge. « Mais a fait
+observer l'un d'eux—la pioche, demain matin, nous évitera cette peine,
+et, parmi les décombres, chacun retrouvera sans peine un lambeau de ces
+planches dont il connaît chaque fibre .et chaque</p>
+<p>nœud! »</p>
+<p>A défaut de marteaux battant les murs, on a battu des mains on a ri, on
+a porté de toasts, on a dansé on a même récité des vers. Voici, parmi
+tous ces adieux quelques-uns de ceux de</p>
+<p>Delannoy.</p>
+<p><pb/></p>
+<p>Saluons le progrès, et vive le nouveau!</p>
+<p>Mais an vieux serviteur ôtons notre chapeau! A beaucoup d'entre nous il
+donna le baptême, Il fut notre berceau, aimons donc qui nous aime; Pour
+la dernière fois quand nous voyons ce lieu, Au vieil ami qui tombe il
+nous faut dire adieu!</p>
+<p>Que voulez-vous? dit l'industriel, il faut bien que les bons payent pour
+les mauvais. Comme ça se trouve s'écria le joyeux comique je viens
+justement de lire dans un journal que je suis très mauvais et que
+Sainville est excellent. Dites-lui qu'il vous pay e mon habit</p>
+<p>Encore l'esprit de Grassot.</p>
+<p><pb/></p>
+<p>» lui donnait un autre genre de divertissement, » ces deux drôlesses lui
+faisaient moins de plaisir » que tu ne m'en feras toi-même en me donnant
+» une loge de quatre places pour ce soir, 25 cou» rant, bien entendu.</p>
+<p>» Ma reconnaissance sera grande comme la » plaine Saint-Denis et haute
+comme les tours de » Notre-Dame.</p>
+<p>» Ton ami.</p>
+<p>» GRASSOT. »</p>
+<p>« Réponse au porteur, S. V. P. »</p>
+<p>Naturellement la loge fut donnée sans retard.</p>
+<p><pb/></p>
+<p>Pour ce qui est de Gaëtana, c'était un Tolla général</p>
+<p>Pauvre Edmond About Avec quel raffinement de cruauté la Fortune l'avait
+vite couronné, puis décoiffé des myrtes, des lauriers et des lilas
+blancs qu'elle lui avait mis sur la tête!</p>
+<p>Etrange chose, le plus souvent, que la propriété littéraire</p>
+<p>A l'époque des premières représentations de la Joie fait peur, M. Scribe
+fit une réclamation. Il prétendait que la pièce de madame de Girardin,
+jouée avec tant de succès, n'était qu'une imitation, presque servile,
+d'un de ses anciens vaudevilles du théâtre de Madame, intitulé Théobald.
+Il prit même l'affaire au sérieux, et parla de porter le litige devant
+le Comité de la Société des auteurs dramatiques.</p>
+<p>Vous défendrez-vous, madame?</p>
+<p><pb/></p>
+<p>Moi? En aucune façon seulement.</p>
+<p>Propriété littéraire, où es-tu et d'où viens-tu ?</p>
+<p>Ne serait-ce pas le vrai moment pour s'enquérir de la comédie posthume
+et inédite de feu Harel, œuvre bizarre dont on a tant parlé il</p>
+<p><pb/></p>
+<p>Les anciens amis d'Harel prétendent qu'elle est restée en gage dans le
+tiroir d'un hôtel garni. D'autres supposent qu'elle est déposée en lieu
+sûr, chez un notaire, d'où elle ne pourra être tirée qu'en 1900,
+l'auteur ayant pensé qu'elle ne saurait être comprise du public qu'à
+cette époque-là.</p>
+<p>Parmi les écrivains de notre temps, quelquesuns pensent, et Harel était
+du nombre, que l'éducation littéraire de la foule n'est pas encore assez
+sérieuse pour qu'on hasarde certaines audaces de fonds et même quelques
+témérités de</p>
+<p>détail.</p>
+<p>Le règne des opérettes nous a même pas mal retardés.</p>
+<p>Dans la préface des Burgraves, Victor Hugo, voulant neutraliser l'effet
+de critiques trop amères, rappelait les nobles paroles d'Eschyle, le
+vieux poète de l'Orestie</p>
+<p>« Je voue mon oeuvre au temps. »</p>
+<p><pb/></p>
+<p>En 1839, Montdidier débuta au théâtre de la Renaissance dans Vingt-six
+ans, pièce en deux actes de MM. d'Artois, qui lui avaient confié un rôle
+de jeune sous-préfet.</p>
+<p>La Renaissance abusait alors des sous-préfets autant que le Gymnase
+usait des colonels de M. Scribe.</p>
+<p>Cette jolie 'mademoiselle Wilhelmine Brunold de Tieffenbach, qui a été
+madame Émile de Girardin, deuxième du nom, en arrivant d'Allemagne en
+France, n'entendait rien aux traditions littéraires de notre pays.</p>
+<p>Cette tulipe de la Germanie avait été transplantée depuis trop peu de
+temps pour connaître autre chose que Gœthe, Schiller, Jean-Paul,
+Hoffmann et les autres.</p>
+<p>son mari</p>
+<p><pb/></p>
+<p>C'était de prendre la jeune femme par la main et de la conduire sous le
+péristyle du ThéâtreFrançais, devant le chef-d'œuvre d'Houdon.</p>
+<p>Voltaire respire toujours dans ce marbre.</p>
+<p>Plus tard, il y a eu de la brouille dans le mé-</p>
+<p>nage, brouille suivie d'une demande en séparation de corps et d'un
+désaveu de paternité. Alors l'auteur du Supplice d'une femme disait de
+la même personne</p>
+<p>J'avais le tempérament d'un Othello et elle a fait de moi un Sganarelle.</p>
+<p><pb/></p>
+<p>Voici un trait qu'il racontait, un soir, au foyer de la Gaîté.</p>
+<p>Tenez, disait-il, la mignonne Raymonde, qui joue avec grâce, dans la
+Diva, le rôle de Cupidon, et chante avec succès</p>
+<p>Mesdames, messieurs, moi, je suis l'Amour</p>
+<p>Chacun peut ici me faire sa cour!</p>
+<p>mademoiselle Raymonde, par un effet de contraste, elle si coquettement
+attifée, m'a rappelé une anecdote du premier Empire, une piquante
+repartie de madame Hainguerlot.</p>
+<p>Tu n'es certainement pas l'amour propre repartit madame Hainguerlot.</p>
+<p>20.</p>
+<p><pb/></p>
+<p>Ce fut le « mot de la soirée ».</p>
+<p>Or, dans la pièce, Colson entrait en scène en chantant:</p>
+<p>Je vais la voir</p>
+<p>Ah quel espoir</p>
+<p>A l'une des répétitions, il remplace le second vers: « Ah quel espoir! »
+par: « Ah quel rasoir! »</p>
+<p><pb/></p>
+<p>Mais j'ai dit: « Quel espoir », répliqua Colson.</p>
+<p>C'est curieux! j'avais entendu: « Rasoir ». N'importe, continuez.</p>
+<p>Et Colson recommence de plus belle.</p>
+<p>Ah! cette fois, j'ai bien entendu. Vous avez dit: « Quel rasoir! »</p>
+<p>Moi? Pas du tout!</p>
+<p>Et ils font échange de places.</p>
+<p>Faites attention, dit Ortolan, je vais chanter. Et il entonne le</p>
+<p>Je vais la voir</p>
+<p>Ah! quel espoir!</p>
+<p>Eh bien, lui crie Colson, j'ai bien entendu. Vous avez dit « Quel rasoir »</p>
+<p>Ortolan était désolé.</p>
+<p><pb/></p>
+<p>Il n'a jamais cru qu'on s'était moqué de lui. Le comédien farceur est un
+type qui se trouve un peu dans tous les théâtres de Paris.</p>
+<p>Le rôle d'Alcmène dans Amphitryon est l'écueil de presque toutes les
+actrices.</p>
+<p>En 1856, mademoiselle Judith, alors si jolie, y déploya une grâce, une
+beauté et surtout une réserve incomparables.</p>
+<p>La comédienne, encore dans la coulisse, recevait, le soir, ce quatrain,
+signé Roger de Beauvoir:</p>
+<p>En la voyant belle et naïve en scène,</p>
+<p>Lo spectateur se demandait:</p>
+<p>Judith, est-ce bien Alcmène</p>
+<p>Ou la Psyché de Girodet ?</p>
+<p><pb/></p>
+<p>A l'aide de ce mouchoir, il étouffait les cris de la jeune femme.</p>
+<p>Pourquoi cette omission ?</p>
+<p>On sait que Victor Cochinat, le chroniqueur mulâtre, a quitté Paris
+depuis un an environ. Ce petit-fils des nègres est retourné dans sa</p>
+<p><pb/></p>
+<p>Victor Cochinat est nommé bibliothécaire de la ville de Fort-de-France,
+ville bizarre où il y a beaucoup de fabriques de tafia des Antilles,
+mais pas de bibliothèque.</p>
+<p>C'est au même sang-mêlé, il y a vingt ans, qu'un bambin de Rouen fit un
+jour une question monumentale.</p>
+<p>Le journaliste au teint noir venait faire une visite aux parents du
+petit garçon.</p>
+<p>Ils m'ont engagé 'pour jouer la Tour de Nesle avec eux, ajoutait-il.</p>
+<p>La Tour de Nesle riposta Alexandre Dumas</p>
+<p>fils; dans ce cas-là, vous voyant si noir, ils ont dû vous donner à
+rendit le rôle de la prison.</p>
+<p><pb/></p>
+<p>EN GUISE DE PFÉFACE. 1 I. Saint Elleviou 5 II. Un savetier, (épisode de
+la vie d'Odry).. 11 III. Les deux centenaires, (le grand Potier.). 19
+IV. Les acteurs dans la rue 26. V. Les droits d'auteur 34 VI. Comment
+finissent les actrices?. 42 V II. L'auteur d'Hernani sur Hernani. 51
+VIII. Le Flonflon 63 IX. Les Gens de théâtre. 71 X. Un Mécène 75 XI. Les
+forçats littéraires 83 XII. La Semaine des Adieux. 91 XIII. Napoléon
+Musard loi XIV. La statue de Corneille 107 XV. Actrices maigres et
+Actrices grasses. 114 XVI. Les deux cents francs de l'Auvergnate.. 120
+XVII. Histoire d'une stalle d'orchestre. 125 XVIII. A la foire de
+Saint-Cloud 133 XIX. Les mots qui passent. Les mots qui restent 142</p>
+<p>XX. Darcier 150 XXI. Le journal au théâtre. 167</p>
+<p>TABLE</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>TABLE ALPHABÉTIQUE DES NOMS PROPRES</p>
+<p>CITÉS DANS CE VOLUME</p>
+<p>About (Edmond), 347; 318.</p>
+<p>Achard (Amédée), 315.</p>
+<p>Adam (Adolpbe), 154.</p>
+<p>Alboise, 169.</p>
+<p>Alboni (madame), 119.</p>
+<p>Aligre (le marquis d'), 200. Allan (madame), 332.</p>
+<p>Altaroche, 309.</p>
+<p>Amélie (la reine), 194.</p>
+<p>Andrieux, 316.</p>
+<p>Arnal, 13, 29, 30, 71, 93, 91, 93, 96,97.</p>
+<p>Amould (Sophie), 4i, 273.</p>
+<p>Artois (MM. d'), 351.</p>
+<p>Asseline (Alfred), 89.</p>
+<p>Auber, 154, 186, 299.</p>
+<p>Augier (Emile), 314, 319, 314. Aycard (André), 315.</p>
+<p>Bachaumont, 26, 41.</p>
+<p>Badinguet, 282.</p>
+<p>Balzac (H. de), 38, 19t, 221, 272. Banville (Théodore de), 100, 333.</p>
+<p>Bapst (Paul), 334.</p>
+<p>Barbier (Auguste), 195.,</p>
+<p>Baron, 91.</p>
+<p>Barthélemy, 288, 315.</p>
+<p>Basselin (Olivier), 64.</p>
+<p>Beaumarchais, 37, 38, 39, 41, 191.-</p>
+<p>Beauvallet, 80, 99, 148, 339. Beauvoir (Roger de), 45, 113, 356.</p>
+<p>Beethoven, 232.</p>
+<p>Bell (Georges), 89, 90.</p>
+<p>Bellini, 328, 329.</p>
+<p>Béranger, 77, 206.</p>
+<p>Bérardin (Jules et Edouard), 130 Bérardin (Sigismond), 129, 130. Berlioz
+(Hector), 156.</p>
+<p>Berthaud. 191.</p>
+<p>Borthelier, 29.</p>
+<p>Berton, 28, 232, 239.</p>
+<p>Besselièvre (Ch. de), 193. Beulé, 217, 218, 219.</p>
+<p>Blanche (le docteur), 254.</p>
+<p><pb/></p>
+<p>Blanche, 329.</p>
+<p>Bocage. 13, 30, 266, 317, 342, 356, 357.</p>
+<p>Bocage (Paul), 89.</p>
+<p>Boieldieu, 186.</p>
+<p>Bonaparte (Louis). 172, 220, 240, 242,282, 3 L 1.</p>
+<p>Bonjour (Casimir), 148.</p>
+<p>Bonnat, 75.</p>
+<p>Bonval (mademoiselle), 332. Bossuet, 136.</p>
+<p>Boudin (maître), 128, 129.</p>
+<p>Bouffé, 93, 98, 99.</p>
+<p>Bourdonnaye (de la), 56.</p>
+<p>Bourget, 206, 207.</p>
+<p>Boyer, 336.</p>
+<p>Brossant, 99, 100.</p>
+<p>Broggi (Paolo), 515.</p>
+<p>Brohan (Augustine), 148, 332. Brohan (Madeleine), 33!.</p>
+<p>Brohan (Suzanne), 73.</p>
+<p>Brucker (Raymond), 168.</p>
+<p>Brunold de Tuffenbach (M.), 251. Brunswick, 252.</p>
+<p>Buloz, 196.</p>
+<p>Calonne (Ernest de), 319, 320. Camargo (la), 43.</p>
+<p>Carjat (Etienne), 164.</p>
+<p>Carlier, 157..</p>
+<p>Cavaignac (général), 156, 157, 169, 178.</p>
+<p>Cham, 310,</p>
+<p>Champmeslé (la), 43.</p>
+<p>Changarnier, 157, 160.</p>
+<p>Chapuis (Eugène), 352.</p>
+<p>Charles X, 22, 53, 75, 206, 330. Charlet, 191.</p>
+<p>Chateaubriand, 18.</p>
+<p>Chénier (André), 208, 293.</p>
+<p>Clairville, 169, 170.</p>
+<p>Claretie (Jules), 231, 233.</p>
+<p>Cier (Albert), 309..</p>
+<p>Cochinat (Victor), 357, 358. Cogniard (frères), 169, 190. Collas
+(mademoiselle Stella), 331. Collé, 63.-</p>
+<p>Colmance, 208.</p>
+<p>Colson, 354, 355.</p>
+<p>Comberousse (A. dej, 169.</p>
+<p>Commerson, 256.</p>
+<p>Constant (Benjamin), 77.</p>
+<p>Coquelin, 232.</p>
+<p>Cora Pearl (Emma Cruch), 220, 221, 222, 223, 224, 225, 226, 256.</p>
+<p>Corbière, 58.</p>
+<p>Cordellier Delanoue, 110.</p>
+<p>Cordier (Jules), 169, 170, 178.. Corneille (Pierre), 35, 36, 107, 108,
+111, 113, 197, 271, 289, 293, 342.</p>
+<p>Cottin (madame), 349.</p>
+<p>Courbet (Gustave), 256.</p>
+<p>Courier (Paul-Louis), 77.</p>
+<p>Cousin (Victor), 272.</p>
+<p>Crébillon, 289, 293.</p>
+<p>Cr6mieux (Adolphe), 284, 285, 287, 289, 290, 291, 292, 294, 295.</p>
+<p>Croizette (mademoiselle), 265, 266, 273, 274.</p>
+<p>Cruvelli (Sophie), 335.</p>
+<p>Cyrano de Bergerac, 13, 63.</p>
+<p>Dancourt, 272.</p>
+<p>Dantan, 102.</p>
+<p>Darcier, 150, 152, 153, 154. 155, 156, 157, 158, 160, 161, 163, 165,
+166, 218.</p>
+<p>Déjazet, 32, 100, 273, 274.</p>
+<p>Delacour, 149.</p>
+<p>Delannoy, 345.</p>
+<p>Delaporte (mademoiselle Marie), 100.</p>
+<p>Delord (Taxile). 315.</p>
+<p>Delsarte, 99, 153, 160.</p>
+<p>Denain (mademoiselle), 332. Dennery, 19.</p>
+<p>Désaugiers, 65, 331.</p>
+<p>Deschamps (Emile), 102.</p>
+<p>Desnoyers (Fernand), 256.</p>
+<p>Desprez (Ernest), 168.</p>
+<p>Destouches, 272.</p>
+<p><pb/></p>
+<p>Dévéria, 68, 76.</p>
+<p>Diderot, 233, 293.</p>
+<p>Dormeuil, 65, 66.</p>
+<p>Dorus (madame), 213.</p>
+<p>Dorval (madame), 76, 120, 121, 122, 123, 124, 266, 317.</p>
+<p>Doze (mademoiselle), 45.</p>
+<p>Dubois (mademoiselle), 332. Duchesnois (mademoiselle), 124, 289.</p>
+<p>Ducis, 277.</p>
+<p>Dufresny, 36.</p>
+<p>Duguerret (mademoiselle) 231, 239, 243.</p>
+<p>Dujarrier, 113.</p>
+<p>Dumaine, 253.</p>
+<p>Dumas (Alexandre), père, 76, 88, 89, 90, 108, 109, 110, 111. 112, 113,
+120, 121, 141, 270, 314, 356, 357.</p>
+<p>Dumas (Alexandre), fils, 142, 143, 200, 298, 358.</p>
+<p>Du Mersan, 14, 15, 16.</p>
+<p>Dupeuty (Adolphe); 89.</p>
+<p>Duponchel, 66..</p>
+<p>Dupont (Pierre), 130, 155, 161, 162, 163.</p>
+<p>Duprez, 99, 154, 160.</p>
+<p>Duran (Carolus), 265.</p>
+<p>Duval, 226.</p>
+<p>.Duvert, 91.</p>
+<p>Elleviou, 5, 6, 7, 8, 9, 10. Empis, 146, 147.</p>
+<p>Epagny (d'), 319.</p>
+<p>Etienne, 7.</p>
+<p>Fages (Urbain), 90.</p>
+<p>Falcon (Cornélie), 47.</p>
+<p>Favart (mademoiselle), 232, 239 243, 332.</p>
+<p>Favre (Jules), 193, 284.</p>
+<p>Fay (Léontine), 31, 335.</p>
+<p>Ferville, 93, 974 98, 99, 100. Fétis, 211.</p>
+<p>Fieschi, 79.</p>
+<p>Fiorentino, 114, 115, 116, 117, 118. 119; 215.</p>
+<p>Fix (Delphine), 49, 148. 332.</p>
+<p>Flore, 48.</p>
+<p>Florian, 160.</p>
+<p>Fontan, 109.</p>
+<p>Fould (Achille), 148, 149 314. Frédérick LemaItre, 13, 31, 99, 112, 160,
+189, 190, 191, 192,193, 194, 195, 196, 197, 231, 239, 210.</p>
+<p>Frégier, 87.</p>
+<p>Galles (le prince de), 326.</p>
+<p>Gambetta (Léon), 285, 290, 295. Garcia (Marie), 49.</p>
+<p>Garnier, 132.</p>
+<p>Gautier (Théophile), 47.</p>
+<p>Gavarni, 76, 144.</p>
+<p>Gay (Sophie), 349.</p>
+<p>Georges (mademoiselle), 46. Gille (Charles), 155. Girardin (Emile de), 352.</p>
+<p>Girardin (madame Emile de). 348. Girodet, 356.</p>
+<p>Gisquet, 106.</p>
+<p>Glück, 218.</p>
+<p>Goëthe, 269, 318, 351.</p>
+<p>Goritz (Max de), 90.</p>
+<p>Got, 26, 27.</p>
+<p>Gouffé (Armand), 67.</p>
+<p>Gozlan (Léon), 6, 12, 50, 168,. 185, 186, 315, 319, 332, 333, 342.</p>
+<p>Gramont-Caderousse, 223.</p>
+<p>Grangé, 19.</p>
+<p>Gras (Anatole), 252, 253.</p>
+<p>Grassot, 346.</p>
+<p>Grévin, 144.</p>
+<p>Gringoire (Pierre), 133.</p>
+<p>Guérin de Vaux, 304.</p>
+<p>Gueymard-Lauters, 232.</p>
+<p>Guinot, 315.</p>
+<p>Habeneck, 127.</p>
+<p>Hainguerlot (madame), 353, 354.</p>
+<p><pb/></p>
+<p>Hainl (Georges), 212.</p>
+<p>Halévy (Léon et Ludovic), 334. Harel, 350.</p>
+<p>Haussmann, 345.</p>
+<p>Heine (Henri), 211.</p>
+<p>Hoche (Lazare), 156.</p>
+<p>Hoffmann, 171, 321.</p>
+<p>Houdon, 352.</p>
+<p>Hougo (Charles), 275, 277, 278, 279, 281, 282.</p>
+<p>Houssaye (Arsène), 49, 148. Huart (Louis), 3 9.</p>
+<p>Hubert (Joseph), 329.</p>
+<p>Huché (Jaques-Louis), 329. Hudson Lowe, 224.</p>
+<p>Hugo (Victor), 51, 52, 53, 54, 55, 56, 57, 59, 61, 62, 107, 112, 120,
+133, 210, 231, 234, 235, 236,237, 241, 270, 279, 290, 350.</p>
+<p>Hyacinthe, 32.</p>
+<p>Jailly (Hector de), 330.</p>
+<p>Janin (Jules), 47, 69, 159, 161, 162, 167, 284, 304.</p>
+<p>Jean-Paul. 351.</p>
+<p>Jérôme (Jutien-Guillaume), 328. Jérôme (le prince), 224.</p>
+<p>Judith (mademoiselle), 19, 336. Jullien, 103, 104, 106.</p>
+<p>Kalil-Bey, 259, 260, 261, 262, 263, 264.</p>
+<p>Karr (Alphonse), 12, 168, 309. Kean (Edmond), 249, 250.</p>
+<p>Kock (Paul de), 39.</p>
+<p>Labiche (Eugène), 97.</p>
+<p>Laboulaye (Ed.), 285.</p>
+<p>La Bruyère, 145.</p>
+<p>Lachaume, 146.</p>
+<p>Lacordaire (Dominique), 135. La Fayette (de), 77.</p>
+<p>Laffitte, 77.</p>
+<p>Lafontaine, 231, 239.</p>
+<p>Lamartine, 141.</p>
+<p>Lamennais, 210.</p>
+<p>La Rochefoucauld, 145.</p>
+<p>Lassagne, 252.</p>
+<p>Latouche (H. de), 121, 167.</p>
+<p>Laurent (madame Marie), 232, 239, 243.</p>
+<p>Laurier (Clément), 285, 290.</p>
+<p>Lebel, 252, 253.</p>
+<p>Lebrun (Pierre), 108.</p>
+<p>Le Kain, 190.</p>
+<p>Lenormand (mademoiselle), 213. Léonce, 29.</p>
+<p>Lepeintre aîné, 252, 253.</p>
+<p>Lepeintre jeune, 71, 72, 73, 74.</p>
+<p>Lerminn. (Jules), 276.</p>
+<p>Lesage, 272.</p>
+<p>Lessing, 318.</p>
+<p>Levasseur, 99, 213.</p>
+<p>Levassor, 99.</p>
+<p>Lhérie. 252.</p>
+<p>Lia-Félix, 231, 239.</p>
+<p>Liard, 191, 192.</p>
+<p>Ligier, 18.</p>
+<p>Lireux (Auguste), 308, 309, 310, 311, 312, 313, 315, 316, 317,</p>
+<p>318, 319. 320, 321, 342.</p>
+<p>Lolla Montés, 113.</p>
+<p>Louis XI, 133.</p>
+<p>Louis XIV, 35, 43, 145.</p>
+<p>Louis XV, 37.</p>
+<p>Louis-Philippe, 8, 45, 71, 78, 79, 80, 81, 144, 145, 193, 191, 200,</p>
+<p>287, 315, 330, 342, 349.</p>
+<p>Lurine (Louis), 309.</p>
+<p>Luther (Amédine), 49.</p>
+<p>Madelène (Henri de la), 89.</p>
+<p>Maillan, 109.</p>
+<p>Maillart, 93, 97, 99.</p>
+<p>Malibran (la), 46, 121, 246, 250. Mante (mademoiselle), 330.</p>
+<p>Maquet (Auguste), 314.</p>
+<p>Marie-Antoinette, 48.</p>
+<p>Marivaux, 272.</p>
+<p>Mars (mademoiselle), 45, 292,330. Martignac (de), 55.</p>
+<p>Mathieu (Gustave), 155.</p>
+<p>Mazarin, 204.</p>
+<p><pb/></p>
+<p>Meilhac (Henri), 298.</p>
+<p>Mentschikoff, 13.</p>
+<p>Mercier (Sébastien), 38, 228. Mercœur (Elisa), 79.</p>
+<p>Merle (J. T.), 124.</p>
+<p>Mary. 195, 212, 287, 288, 315. Meurice (Paul), 241.</p>
+<p>Meyerbeer, 104, 154, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219.</p>
+<p>Mignet, 315.</p>
+<p>Millaud (Polydore). 276, 282. Molé, 190.</p>
+<p>Matière. 40, 77, 88, 168, 197, 272, 290. 317, 320, 330.</p>
+<p>Monnier (Henri), 74.</p>
+<p>Monrose, 252.</p>
+<p>Montaigne. 77.</p>
+<p>Montalivet (comte de), 75, 76, 77, 79, 80, 81, 82.</p>
+<p>Montdidier. 351.</p>
+<p>Montemont (Albert), 68.</p>
+<p>Montpensier (duc de) 105.</p>
+<p>Moreau (Hégesippe), 341.</p>
+<p>Morsy (de), 341.</p>
+<p>Mourier, 317.</p>
+<p>Mozart, 218, 232.</p>
+<p>Munckacsy, 134, 135, 136. .Murger (Henri), 114, 115, 116, 117, 118, 119.</p>
+<p>Musard (Napoléon), 101, 102, 103, 104. 105.</p>
+<p>Musset (Alfred de), 46, 101, 146, 147, 198, 294.</p>
+<p>Mustapha-Pacha, 263.</p>
+<p>Napoléon 1er, 227.</p>
+<p>Napoléon III, 65, 148, 205, 206, 242, 260, 263, 282, 326.</p>
+<p>Nathalie (mademoiselle), 332, 333. Nerval (Gérard de), 344.</p>
+<p>Nodier (Charles). 111, 268, 294. 337.</p>
+<p>Nogent-Saint-Laurens, 314. Norias (Jules), 187, 276, 277. Nourrit
+(Adolphe), 93, 213,252. Numa, 99.</p>
+<p>Octave (Madame), 48.</p>
+<p>Odrv, 11, 17, 18, 48.</p>
+<p>Offenbach (Jacques), 64, 222. Ortolan (Alfred), 354, 355.</p>
+<p>Pages (Alphonse), 276.</p>
+<p>Panard, 63.</p>
+<p>Pascal, 233.</p>
+<p>Pasdeloup, 232.</p>
+<p>Paul-Ernest, 1116.</p>
+<p>Pérey (Charles), 253, 254.</p>
+<p>Picard, 316.</p>
+<p>Piron, 77.</p>
+<p>Pistache, 126, 127, 128. 131, 132. Platon, 204.</p>
+<p>Plouvier (Édouard), 155.</p>
+<p>Ponchard, 99.</p>
+<p>Ponsard (François). 287, 314, 319, 334.</p>
+<p>Ponthieu, 349.</p>
+<p>Pontmartin. 212.</p>
+<p>Potier, 19, 20, 21, 22, 23, 24, 92. Potier (Charles), 19, 20, 21.
+Préville, 93.</p>
+<p>Prévost-Paradol. 334.</p>
+<p>Proudhon (P. J.), 48, 171, 181. Prunier, 216, 217.</p>
+<p>Pyat (Félix), 168, 190, 196, 319. Quérard, 88, 89.</p>
+<p>Rabelais, 77, 233.</p>
+<p>Rachel, 47, 160, 289, 291, 292, 3L2, 332.</p>
+<p>Racine, 35, 108, 289, 290,293. Raphaël-Félix, 232.</p>
+<p>Radcliff (Anne), 257.</p>
+<p>Ratisbonne (Louis), 334.</p>
+<p>Raymond, 252.</p>
+<p>Raymonde, 353.</p>
+<p>Récamier (madame), 221.</p>
+<p>Régnard, 222 272.</p>
+<p>Renan (Ernest), 135.</p>
+<p>Révillon (Tony), 242.</p>
+<p>Reybaud (Louis et Charles), 315. Reybaud (madame), 315.</p>
+<p>Richelieu, 109.</p>
+<p><pb/></p>
+<p>Rochefort (Henri), 89,256. 276. Roger, 154.</p>
+<p>Rollinat (Maurice), 256.</p>
+<p>Romieu, 75, 339.</p>
+<p>Roqueplan (Nestor), 81, 126, 131, 167, 269, 272, 273.</p>
+<p>Rossini, 154, 212, 218.</p>
+<p>Rouget (Charles), 315.</p>
+<p>Sainte-Beuve, 76.</p>
+<p>Saint-Germain, 29.</p>
+<p>Samson, 93, 97, 98, 337, 338, 339.</p>
+<p>Sand (Georges), 121, 168, 271. Sandeau (Jules), 147, 168.</p>
+<p>Sarah-Bernhardt, 213.</p>
+<p>Sarcey (Francisque), 245, 276. Sardou (Victorien), 146, 298.</p>
+<p>Sauton (Georges), 276.</p>
+<p>Sauvage (Eugénie), 98.</p>
+<p>Say (Léon), 285, 289.</p>
+<p>Scarron, 74, 154, 321.</p>
+<p>Schiller, 276.</p>
+<p>Schiller, 318, 351.</p>
+<p>Schnerb (Eugène), 276.</p>
+<p>Scholl. (Aurélien) 89.</p>
+<p>Scribe, 39, 68, 299, 314, 348, 349. 351.</p>
+<p>Seveste, 33.</p>
+<p>Sévigné (madame de) 344.</p>
+<p>Shakespeare, 88, 106, 135, 289, 318.</p>
+<p>Shéndan (Richard), 249.</p>
+<p>Siraudio, 149.</p>
+<p>Solesme, 20.</p>
+<p>Solié (Émile), 315.</p>
+<p>Souvestre: (Emile), 30.</p>
+<p>Stockley, 252. Tabarin, 63.</p>
+<p>Taglioni (Marie), 17, 213.</p>
+<p>Taillade. 231, 239.</p>
+<p>Tallemant des Réaux, 25.</p>
+<p>Talma, 18, 22, 190; 219, 277. 289, 291, 292, 293. 294.</p>
+<p>Taylor (le baron). 109-110.</p>
+<p>Thérésa, 206, 255, 257, 258 261, 262, 263.</p>
+<p>Thierry (Edouard), 290.</p>
+<p>Thiers (Adolphe), 311, 315.</p>
+<p>Tisserant, 341.</p>
+<p>Tousez (Alcide), 340.</p>
+<p>Triat, 164, 165.</p>
+<p>Trognon, 265, 267.</p>
+<p>Vadé, 80.</p>
+<p>Vallès (Jules), 256.</p>
+<p>Varin, 336.</p>
+<p>Vaulabelle. (Achille de), 168. Vaulabelle (Éléonore de), 168, 169, 170,
+179.</p>
+<p>Véron (Louis). 311, 312.</p>
+<p>Veuillot (Louis), 257.</p>
+<p>Vigny (Alfred de), 120, 270.</p>
+<p>Villars, 252.</p>
+<p>Villèle (de), 77.</p>
+<p>Villemont (Auguste), 276.</p>
+<p>Voltaire, 37, 38. 77, 84, 106, 116, 233, 293, 352.</p>
+<p>Walewski (comte). 314</p>
+<p>Wéber, 218, 231.</p>
+<p>F. Aureau. imprimerie do Lagny.</p>
+    </div>
+    </body>
+  </text>
+</TEI>

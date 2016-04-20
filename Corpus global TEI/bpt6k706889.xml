@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Lasserre, Pierre (1867-1930)">Pierre Lasserre</author>
+<title>Faust en France et autres études / Pierre Lasserre</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Lasserre, Pierre (1867-1930)</author>, <title>Faust en France et autres études / Pierre Lasserre</title>, <date>1929</date>,description :,246 pages
+</bibl>
+<publisher>Calmann-Lévy (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k706889</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1929">1929</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/></p>
+<p>PIERRE XASSERRE</p>
+<p>FAUST EN FRANGE ET</p>
+<p>AUTRES ÉTUDES</p>
+<p>CAUMAM1V-UËW, ÉOI1WH</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>FAUST EN FRANCE ET</p>
+<p>AUTRES ÉTUDES</p>
+<p><pb/></p>
+<p>OUVRAGES DU MÊME AUTEUR</p>
+<p>de su œuvres.</p>
+<p>PHILOSOPHIE ET CRITIQUE</p>
+<p>A la Librairie Calmann-Lévy</p>
+<p>LA MORALE DE NIETZSCHE.</p>
+<p>LES IDÉES DE NIETZSCHE SUR LA MUSIQUE. LE ROMANTISME FRANÇAIS.</p>
+<p>LA DOCTRINE OFFICIELLE DE L'UNIVERSITÉ.</p>
+<p>PORTRAITS ET DISCUSSIONS.</p>
+<p>LE9 chapelles littéraires (Claudel. Jammes, Péguy). LA JEUNESSE DE RENAN
+(Histoire de la crise religieuse au XIX* siicle) Tomes 1 et Il.</p>
+<p>fin préparation Tomes IlI et IV.</p>
+<p>Chez Plon-Nourrit et C1*, éditeurs</p>
+<p>CINQUANTE ANS Dit PENSÉE FRANÇAISE.</p>
+<p>MBS ROUTES.</p>
+<p>Chez Bernard Grasset, éditeur</p>
+<p>rniLoaopaiE DU COUT musical.</p>
+<p>Chez Payot et Ce, éditeurs</p>
+<p>l'esprit DE LA musique française,</p>
+<p>frediric mistral, poète, moraliste, citoyen.</p>
+<p>A la Nouaelle Repue critique</p>
+<p>DES ROMANTIQUE8 A nous.</p>
+<p>Au Dipart</p>
+<p>LA STATUE VOLÉE.</p>
+<p>,du Cahiers de la Quinzaine</p>
+<p>«EORGE8 SORBL, théoricien de l'Impérialisme. Se* idées. Son action</p>
+<p>ROMANS</p>
+<p>henri DE BACTELADE. (Chez Calmann-Lévy.)</p>
+<p>LE CRIME Du BI0DO8. (Chez Plon.)</p>
+<p>LA promenade inbolitb. (Chez Crès et C.)</p>
+<p>le secret</p>
+<p><pb/></p>
+<p>PIERRE^gggERRE</p>
+<p>FAUST EN FRANCE ET</p>
+<p>AUTRES ÉTUDES</p>
+<p>PARIS</p>
+<p>CALMANN-LÉVY, ÉDITEURS</p>
+<p>3, RUB ATJBBB, 3</p>
+<p>1929</p>
+<p><pb/></p>
+<p>Droits de reproduction et de traduction réservés pour tons les pays.</p>
+<p>Copyright 19?9, by Calmanh-Léy y.</p>
+<p><pb/></p>
+<p>PRÉFACE</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Les personnes qui me font l'honneur de suivre mes écrits seront sans
+doute étonnées de trouver dans ce recueil un article sur Ernest Renan.
+Elles connaissent les deux volumes que j'ai fait paraître sur la
+Jeunesse du grand écrivain, volumes qui ont pour sujet réel l'Histoire
+de la crise religieuse au XIXe siècle, étudiée dans le cas personnel
+d'un homme qui a pu exposer avec un accent et un talent très originaux
+les motifs de son incrédulité, mais qui les a puisés en substance aux
+mêmes sources que tant d'esprits de son siècle, frappés de
+l'incompatibilité entre les connaissances modernes et les croyances
+dogmatiques du christianisme. Ces personnes savent aussi que ces deux
+volumes doivent être suivis de deux autres où je traite des plus hautes
+questions de théologie et d'exégèse. Elles se demanderont pourquoi j'ai
+distrait de cet ensemble un chapitre pour le mettre ici.</p>
+<p>Je ne l'en ai nullement distrait. Ayant commencé ce vaste ouvrage, j'en
+ai changé, en cours d'exécution, le dessein et le plan. Je voulais
+retracer la biographie d'un esprit. Je me suis bientôt aperçu que ce que
+je trouvais de plus intéressant dans cette biographie, c'est le chapitre
+d'histoire générale des idées qu'elle contenait. Écrire ce chapitre
+offrait une entreprise autrement difficile. Je m'y suis mis toutefois.
+Mais il est</p>
+<p><pb/></p>
+<p>arrivé que bien des morceaux rédigés pour le livre primitivement conçu
+ne pussent trouver place dans celui, tout différent, que j'avais décidé
+de faire. Certains de ces morceaux n'en possèdent pas moins une valeur,
+un intérêt propre. Tel, m'a-t-il semblé, celui que je donne, et qui
+concerne une phase bien intéressante du développement intellectuel et
+moral de Renan.</p>
+<p>A la fin des morceaux qui composent ce volume, j'ai indiqué l'année où
+ils furent écrits. Ces dates s'échelonnent sur une durée d'environ</p>
+<p><pb/></p>
+<p>Juillet 1028.</p>
+<p><pb/></p>
+<p>LITTÉRATURE ÉTRANGÈRE</p>
+<p><pb/></p>
+<p>FAUST EN FRANCE</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>près le scénario de Goethe, de n'en être que la très pauvre caricature.</p>
+<p>Mais aussi, pourquoi d'Ennery? Et pourquoi Rousset, Béraud, Merle,
+Théaulon, et autres professionnels de la même famille intellectuelle que
+d'Ennery, qui, aux dernières années de la Restauration, époque où le
+Faust était un article très demandé sur le marché théâtral,
+l'accommodaient par des procédés analogues?</p>
+<p>Le premier Faust (le seul dont il saurait être</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Piquante contradiction! S'il y a eu depuis cent ans un tel zèle pour
+nous donner le Faust en spectacle, zèle qui ne s'est pas ralenti à
+mesure que le Faust s'éloignait sur l'horizon du passé, c'est qu'on ne
+l'a pas seulement considéré comme un beau poème allemand, fait avant
+tout pour être goûté par les Allemands, mais comme une œuvre de
+signification universelle où s'exprime la philosophie des révolutions
+modernes de l'esprit humain. Or les scènes qui, dans sa première partie,
+lui conféreraient spécialement cette haute qualité présumée, sont
+gênantes pour l'exécution dramatique. On est forcé de les escamoter à
+demi. On nous annonce le mont</p>
+<p><pb/></p>
+<p>Blanc et on ne nous offre qu'une montagne très ordinaire.</p>
+<p>Oui, un de nos classiques, un de nos grands oui bons auteurs de théâtre,
+et Shakespeare non moins, auraient construit autrement. Ils n'auraient
+pas présenté et développé dans une première partie le passé et l'être
+moral de Faust, pour traiter, dans une seconde, une aventure de passion
+où Faust se trouve engagé. Ils auraient intimement uni, fondu l'un et
+l'autre et fait se manifester le caractère dans l'action même, fait
+jaillir réciproquement les faits de la psychologie et la psychologie des
+faits. C'est le triomphe de l'art, et c'en est d'ailleurs l'élémentaire
+exigence.</p>
+<p><pb/></p>
+<p>Cela, dira-t-on, peut-il faire doute? La célébrité du personnage de
+Faust n'est-elle pas ici assez significative? S'il ne nous offrait qu'un
+de ces êtres nominaux comme on en voit dans les dialogues métaphysiques,
+je ne dirai pas de Platon, chez qui les interlocuteurs ont encore une
+certaine vie, mais de Leibniz ou de Renan, et qui n'existent que comme
+porte-parole de certaines thèses abstraites, son nom aurait-il pu se
+graver dans l'imagination du public? Cette figure fameuse, venue de la
+plus truculente et de la plus diabolique des légendes médiévales,
+dessinée en traits de ténèbres et de feu dans l'imagination de ceux
+mêmes qui n'ont pas lu Goethe et ne la connaissent que de tradition, non
+d'original, cette figure, qui a inspiré puissamment le pinceau de
+Delacroix et suscité toute une imagerie presque populaire, qu'a-t-elle
+de commun avec ces Philothée, ces Théophile et ces Théodecte, pâles et
+glacés? N'est-elle pas au contraire extraordinairement animée? Ne
+respire-t-elle pas l'ardeur, la fièvre, la douleur? Si les désirs et les
+inquié-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>C'est le matin de Pâques. Des cloches sonnent. Des chants s'élèvent,
+tendres et forts, chants des</p>
+<p><pb/></p>
+<p>Le premier est général. Il a pour sujet l'inquiétude de l'Ame humaine,
+cette inquiétude qui la remplit et l'agite quand elle se replie sur soi
+pour s'interroger, quand elle prend simultané-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>C'est, au contraire, comme personne humaine,</p>
+<p><pb/></p>
+<p>au sens le plus concret de ce mot, que Faust figure et agit dans la
+tragédie de Marguerite. Nous ne sommes plus ici devant un drame
+intérieur de l'âme, mais devant un drame de la vie, un drame de passion
+et de sang, un drame commun qui se joue entre personnages naturels.
+Faust est un séducteur léger, un grand seigneur soucieux de la superbe
+carrière qui lui est promise, trop maître de lui pour la perdre aux
+mains de la pauvre fille qui lui a donné quelques heures de plaisir et
+d'ivresse sentimentale, tendre néanmoins dans son égoïsme, et de qui le
+cynisme de conduite n'exclut pas les remords de cœur. Marguerite est une
+enfant sans ruse que les éblouissements d'un tel amour jettent dans la
+faute et que l'abandon mène au crime.</p>
+<p>Mais alors ce sont bien deux Faust? deux drames distincts et
+irréductibles? Deux œuvres sous le nom d'une? Où peut en être le lien?
+Le voici, non tel que je le conjecture ou reconstruis, mais tel qu'il
+s'énonce dans le poème formellement.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>barre le passage au spirituel, que le féerique et le fantastique
+dévorent le philosophique et le moral.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>La vivacité de l'action scénique exclut, de la part surtout d'un public
+aux réactions vives, l'attention au sens figuré, quand il y a un sens
+figuré. On est accaparé par le sens propre et immédiat, bien qu'il ne
+soit qu'un sens partiel. C'est pourquoi, d'une manière générale, le Faust</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>la plus sombre figure qui eût jamais représenté le mal et le malheur. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Se nouant et se dénouant dans le ciel, le Faust, s'il n'est pas une
+dérision, ce que personne, depuis Benjamin Constant, ne s'est avisé de
+croire,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>que le Faust de Gœthe est une conception essentiellement catholique. »</p>
+<p><pb/></p>
+<p>Pierre Laffitte, le disciple préféré d'Auguste Comte, son successeur
+comme chef de l'école positiviste et c grand prêtre de l'Humanité », a
+écrit du Faust un commentaire tout raidi et appesanti de dogmatisme,
+mais plein de naïveté et de noblesse. Pour lui, Goethe est ici le
+précurseur de Comte. Il a pressenti en poète ce que Comte définira et
+démontrera en philosophe. La destinée symbolique de Faust, il l'a
+inconsciemment conçue d'après ces lois de l'évolution de l'Humanité
+qu'il ne saisit encore que d'une manière c confuse, instable,
+insuffisamment cohérente », mais que Comte dégagera en pleine lumière et
+proprement découvrira. Faust représente sous une forme douloureuse la
+transition de l' c Age métaphysique » il' « âge positif ». c L'équilibre
+mental</p>
+<p><pb/></p>
+<p>C'est sans souci de rattacher ni d'opposer la conception du Faust à
+aucune philosophie particulière que la caractérisent les plus
+considérables de nos moralistes récents. « Une histoire de l'humanité, à
+tout prendre, très optimiste, très confiante et très consolatrice »
+écrit Emile Faguet avec quelque exagération selon nous. Et Barrès, dans
+une page admirable, datée de la fin du siècle dernier, où il compare la
+vieille Allemagne rhénane, éprise de culture libérale et d'humanisme</p>
+<p><pb/></p>
+<p>Ces interprétations de la maîtresse pensée de Goethe ont beau différer.
+Contre aucune il n'aurait eu précisément le droit de s'inscrire en faux.
+C'est donc dans l'idée même du Faust que la contra-</p>
+<p><pb/></p>
+<p>diction et l'incohérence résident? On pourrait le croire, si on ne
+faisait pas attention que le Faust nous représente les étapes d'un
+développement progressif, la suite et l'enchaînement d'une éducation.
+Éducation d'un homme individuel et réel par les expériences de la vie et
+par les leçons qu'il en tire pour son perfectionnement. Éducation d'un
+homme fictif et abstrait, que l'on supposerait avoir vécu tous les
+siècles, habité tous les lieux où a régné une civilisation, et réuni,
+harmonisé en lui-même tous les ordres de perfections intellectuelles et
+morales par où les diverses civilisations supérieures se caractérisent.
+Un tel personnage ne sera pas autre chose que l'allégorie du progrès
+possible. Ce sera l'hommeprogrès, l'homme-synthèse, cet homme unique
+qu'est, selon Pascal, l'humanité elle-même, quand on la considère dans
+la chaine de ses acquisitions successives.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>inégales en beauté, dont quelques-unes brillent au premier rang de la
+littérature universelle. Pris comme ensemble, il est une construction
+pédagogique, un programme d'éducation de l'individu et de l'humanité.</p>
+<p>1925.</p>
+<p><pb/></p>
+<p>ÉCRIVAINS FRANCAIS</p>
+<p>D'HIER ET D'AUJOURD'HUI</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LA « SECONDE CRISE »</p>
+<p>D'ERNEST RENAN</p>
+<p><pb/></p>
+<p>Quelles influences ont produit ces harmonieux résultats et fait sortir
+le papillon de la chrysalide? Berthelot en allègue plusieurs et
+(d'accord sur ce point avec Renan) place au premier rang celle de l'Italie.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>de la jeune Cécile, dans le christianisme et, quand il parle de « la
+religion », le mot a sous sa plume le même sens que tout le monde lui
+donne en pays chrétien. La religion est fausse dans ses dogmes, elle est
+sainte et bonne dans sa morale, dans les inspirations qu'elle verse au
+cœur, dans les mouvements d'élévation où elle le porte. « Elle est
+fausse au point de vue de l'objet, c'est-à-dire en elle-même, et quant à
+ce qu'elle ordonne de croire; mais elle est éternellement vraie au point
+de vue du sujet, c'est-à-dire du besoin que nous en avons et du
+sentiment religieux auquel elle correspond. »</p>
+<p>Pourrait-on concevoir une séparation s'accomplissant entre la partie «
+éternellement vraie » de la religion et sa partie d'erreur, entre le «
+sentiment religieux » et la foi dogmatique?</p>
+<p>Patrice-Renan parait accepter cette hypothèse quand il énonce que « le
+dogme n'est dans les religions qu'une partie très secondaire, une
+algèbre insignifiante, qu'on accepte en vue de l'esprit et de la vi9
+morale qui en sont la partie essentielle », ou encore quand il prévoit
+que, « durant une série incalculable de siècles, la religion de
+l'humanité, quelle qu'elle soit, renfermera une part de scories
+superstitieuses et d'éléments non scientifiques », mais il faut
+rapprocher cette hypothèse implicite de l'observation suivante touchant
+le protestantisme</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>en demeure de s'expliquer. Patrice-Renan manifeste une âpre et dure
+humeur contre les docteurs de la théologie et de la scolastique.
+L'apologétique doctrinale orthodoxe est le seul côté de la religion pour
+lequel il ressente de l'antipathie. Ceci veut dire qu'il ne peut
+s'entendre avec les négateurs de la religion eux-mêmes que sous de
+considérables réserves</p>
+<p><pb/></p>
+<p>Le mobile Patrice sent-il l'impossibilité d'en</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>en fait de morale sont venues du christianisme. » Mais il est trop tard
+pour nous refaire, et le souvenir de l'antique harmonie nous inspire une
+nostalgie impuissante; l'âme humaine s'est foncièrement accoutumée à
+cette perversion sublimée; elle ne s'en déprendra pas, elle n'en guérira
+pas il était fatal qu'elle s'y laissât séduire, parce que la proportion,
+la mesure, la perfection finissent par amener la lassitude et l'ennui;
+enfin une ambition morale qui défie la nature n'est-elle pas « plus
+noble en un sens que la quiétude dans la norme et la santé?</p>
+<p>Ainsi le sentiment de Patrice fait retour sur soimême. Il faut lire ces
+pages où l'oscillation des tendances apparaît privée de cran d'arrêt.</p>
+<p><pb/></p>
+<p>s'agenouiller devant les reliques du Dieu qu'on nie.</p>
+<p><pb/></p>
+<p>Et la matière qui a ses préférences étant celle sur laquelle il est
+divisé, lui inspire un discours peu fait pour favoriser chez ses
+auditeurs l'harmonie de la volonté et l'allégresse de l'action'.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Patrice a d'étranges façons de dire. Revêtant d'une expression
+religieuse des idées qui suppriment la raison d'être de la religion, il
+déclare qu'il- a touché au Saint des Saints; qu'il doit mourir P.
+Entendez bien que le Saint des Saints, c'est le néant métaphysique,
+autrement dit, l'absence de Saint des Saints. Il dit encore que « son
+malheur fut d'être trop critique », « qu'il ne faut_pas trop critiquer
+sous peine de mort », que la partialité est la condition nécessaire de
+l'esprit humain », que c c'est parce qu'un esprit est. partial qu'il est
+fort », que « si Napoléon eût été aussi critique que lui, le 18 Brumaire
+n'eût pas eu lieu, car celui qui veut tout saisir dans ses concepts est
+faible et effacé, incapable d'agir avec énergie. Un tel homme est peu
+fait pour réussir auprès</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>sera-t-il pas bon de l'avoir vu de près, c'est-à-dire d'y avoir pris
+part active? L'action n'est'pas la seule école, mais elle est une des
+écoles nécessaires de l'intelligence.</p>
+<p><pb/></p>
+<p>« Il faut une bonne dose de bonhomie pour prendre désormais fait et
+cause, de cœur et de</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ne rien aimer, ou tout aimer, parce qu' c un immense fleuve d'oubli nous
+entraîne dans un gouffre sans nom », parce que « l'abîme » est « le dieu
+unique », l'abîme au sein duquel tout est confondu, parce que, tout,
+étant destiné au néant, revient au même.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1917.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p><pb/></p>
+<p>A la vérité, il est présumable que, le long de leur cours immense et qui
+traverse tant de pays, s'il est bien des sites qui m'enchantent et
+m'enthousiasment, tous ne sauraient me plaire également. Contentez-vous,
+chère madame, de cette confidence peu compromettante. Et plutôt que de
+nous enfoncer dans le mystère de mes sentiments, faisons un peu de
+géographie.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>mement simple et toute classique. Si elle a une 'merveilleuse saveur,
+c'est la saveur de la pensée; résignez-vous-y.</p>
+<p>Pour ma part, il est des aspects de la pensée renanienne qui me charment
+moins que d'autres. Aussi les pages où ces aspects se manifestent né me
+font-elles qu'un plaisir mêlé.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>guide, artiste lui-même autant qu'érudit, peintre éclatant, regorgeant
+de connaissances et de réflexions.</p>
+<p>Dans les peintures de ces grands imaginatifs, l'enthousiasme de la
+liberté répandait ses belles</p>
+<p><pb/></p>
+<p>couleurs jusque sur les pires horreurs du terrorisme. Dans celles de cet
+autre imaginatif, c'est l'inverse. Taine a fait œuvre saine en
+dépouillant les journées révolutionnaires du voile enchanteur dont les
+avaient enveloppées ces magiciens imprudents, pour leur restituer leurs
+teintes sinistres. Mais a-t-il été réellement plus historien qu'eux,
+celui qui n'a pas observé plus qu'eux la vraie et naturelle proportion
+des choses, et qui a, par exemple, montré comme de fabuleux géants
+d'infamie, ces mêmes hommes qu'ils avaient représentés comme des géants
+de civisme? C'est entre ces poèmes antagonistes, dont s'enrichit
+également la littérature, que l'histoire se fraye sa voie.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>EMILE BOUTROUX</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>de ia philosophie antique et de la philosophie moderne comparées.
+C'était un enchantement intellectuel.</p>
+<p>Ce que je dis des mérites de M. Boutroux dans l'histoire ne doit être
+aucunement pris comme une dépréciation implicite de ses écrits de
+doctrine qui ont eu eux-mêmes une si notable influence sur le mouvement
+philosophique. Je ne</p>
+<p><pb/></p>
+<p>1912.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Parce que son enquête est impartiale dans son principe, son intelligence
+reste indifférente aux objets et aux résultats pris en eux-mêmes. Par un
+égoïsme étrange, elle n'aime, dans les objets, que le plaisir qu'ils lui
+ont donné de s'exercer sur eux; dans les résultats, que le plaisir
+qu'ils lui ont donné de les atteindre, de s'y déployer, d'en repartir
+pour une enquête nouveile. C'est lui qui est la mesure de toutes choses
+et comme la fin de toutes choses; et c'est toujours lui qu'il retrouve
+en toutes choses. »</p>
+<p><pb/></p>
+<p>Un caractère qui visiblement rabaisse aux yeux de M. Michaut la
+littérature d'Anatole France, c'est qu'elle n'est guère que la
+littérature « personnelle ». France, sous lekom de ses divers héros,
+s'est toujours raconté et peint. Admettons-le. Et après? La littérature
+« personnelle » est détestable quand elle s'inspire de la vanité et que
+l'écrivain altère les vérités et les faits pour se grandir, ériger ses
+tares en vertus. Mais se raconter avec naïveté et naturel, quand
+d'ailleurs on a reçu du ciel une sensibilité riche et variée aux
+impressions de la vie, c'est raconter l'humanité elle-même. M. Michaut a
+hérité de Brunetière cet anathème contre la littérature personnelle.
+Mais, faute de la distinction que je viens de marquer, il devrait
+condamner, je le crois, un bon tiers, et fort précieux, de la
+littérature française.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LA GLOIRE DE BARRÈS</p>
+<p><pb/></p>
+<p>Les noms de Victor Hugo et de Renan ont connu ces vicissitudes qui ont
+fini par les dégager des vapeurs de l'idolâtrie et les placer sous</p>
+<p><pb/></p>
+<p>la lumière d'une admiration réfléchie qui discerne amicalement le fort
+et le faible.</p>
+<p>Le nom d'Anatole France subit aujourd'hui les coups de détracteurs qui
+ne connaissent aucune mesure et dont l'acharnement barbare et stupide
+compense le culte niais que beaucoup avaient conventionnellement voué au
+grand écrivain pendant les vingt dernières années de sa vie. Ils
+n'empêcheront pas celui-ci d'obtenir bientôt parmi les constellations
+littéraires, au rang le plus éclatant des demi-dieux et touchant la
+sphère des dieux souverains, une place qui ne lui sera plus disputée.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>avait désavoué la séquelle des petits Renés qui se mirent vers 1830 à
+romancer en vers et en prose un désespoir tout conventionnel.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1928.</p>
+<p><pb/></p>
+<p>LE DESTIN DE BERGSON</p>
+<p><pb/></p>
+<p>pas certain que les belles personnes que son nom seul emballait fussent
+métaphysiciennes pour de bon. Mais 1' élan », ma chère, l' élan » ? Quoi
+de plus persuasif? Et comment y résister, quand c'est ce magicien de la
+parole et du style qui nous y convie?</p>
+<p><pb/></p>
+<p>auteurs sous prétexte de rendre la pensée dans la fraîcheur et le libre
+mouvement de son flux spontané, se dispensaient de tout labeur de
+construction et de mise en ordre. Ces erreurs, qui se réclamaient de
+Bergson, lui attirèrent quelques injustices de la part de critiques dont
+la juste irritation ne s'assura pas suffisamment si elles avaient bien
+le droit de s'en réclamer.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>I9M.</p>
+<p><pb/></p>
+<p>LES ÉPOPÉES FRANÇAISES</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>seule; car on y reconnaît sans conteste l'épanouissement, et la
+fructification d'un germe reçu de Jean-Jacques Rousseau. (Soit dit en
+passant, je déplore que la Sorbonne, qui s'honore de nombreuses thèses
+de doctorat d'un millier de pages chacune, sur des. poètes allemands de
+très médiocre intérêt pour nous, ne suscite pas des études sur ce fait
+si avéré, si considérable et instructif, de la prodigieuse influence de
+Rousseau en Allemagne. Il en ressortirait que, sans Rousseau, le
+développement philosophique et même poétique de l'Allemagne eût été
+autre qu'on ne l'a vu.)</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>rentes quant au fond, sous les plumes françaises de Quinet, de Fauriel,
+de J.-J. Ampère, de Renan dans sa jeunesse.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>N'oublions pas non plus la duperie qu'a constituée pour nous Français,
+au point de vue national, le long crédit que nous lui avons accordé.
+Comme l'a marqué fort bien M. Lote, dans une thèse universitaire,
+l'Allemagne oublie le moins possible, dans ses théories scientifiques,
+les intérêts de sa propre exaltation. Quand les Wolf, les Grimm, les
+Herder, les Schelling eurent établi que c'est du primitif et du spontané
+que jaillissent le grand, le sublime et le beau, leurs compatriotes, et,
+au premier rang, le métaphysicien patriote Fichte, remarquèrent qu'il y
+avait encore, en cette époque de civilisation tardive, un peuple, un
+seul, dont l'âme conservait toute la pureté de l'inspiration originaire
+et l'intime commerce de</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>En ce qui concerne les chansons de geste, les « cantilènes qui en
+auraient formé les éléments et dont elles offriraient l'accumulation
+tardive, répondraient aux mêmes besoins de la théorie. Je n'exagère
+point la thèse dé M. Bédier en disant que, selon lui, ces prétendues
+cantilènes épiques, premier jet de l'inspiration anonyme, n'ont jamais
+existé qu'en idée et en hypothèse. Il ajoute qu'une hypothèse inutile,
+comme il entend montrer que l'est celle-ci, sera légitimement tenue pour
+fausse. La Chanson de Roland, pour prendre en exemple ce mont Blanc de
+notre chaîne épique, est sortie tout entière de la tête et de la main
+d'un individu déterminé, d'un poète de métier, tout comme le Cid et le
+Misanthrope.</p>
+<p>M. Bédier le démontre par une masse d'argu- ments historiques. Ceux
+qu'il tire de l'analyse</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Au surplus, ne lui ferai-je point une telle critique sans louer le beau
+talent répandu sur ses analyses littéraires. Le résumé qu'il a composé
+de certaines scènes d'A ymeri de Narbonne, par exemple, est plein
+d'agrément et de couleur. Je crois que je n'essayerai jamais de lire
+Aymeri de Narbonne dans le texte. Mais si M. Bédier extrayait des
+chansons de geste un volume de récits de cette qualité, rehaussant
+discrètement l'original sans le trahir, le présentant avec ce mélange de
+fidélité et d'accommodation exquise, j'en ferais certainement ma pâture.</p>
+<p><pb/></p>
+<p>part énorme de fiction et de légende et que, par exemple, sur les
+centaines de personnages qu'elles nous présentent, il en est peut-être
+une demidouzaine de réels et dont la carrière d'ailleurs est retracée
+avec la plus grande fantaisie.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>contact bien plus large et plus intelligible avec la vie que la
+conception germanique, les fait apparaître comme quelque chose de plus
+riche et de plus animé.</p>
+<p>1913.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>ÉDOUARD ESTAUNIÉ</p>
+<p>(A l'occasion de sa réception</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>d'emportement sacré, on ne réalise non plus rien de bon qu'avec froideur
+et calcul. Il épluche le moindre rapport. Il contrôle le moindre écrou,
+le moindre boulon.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Je ne poursuivrai pas l'énumération. S'il me</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>La vie intérieure n'est pas seulement alimentée par le scrupule
+religieux. Elle l'est aussi par l'attachement aux souvenirs, par les
+liens du présent avec le passé, par la survivance de beaucoup de passé
+dans le présent, de beaucoup d'individus</p>
+<p><pb/></p>
+<p>1923.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>temps éloigné, il évoque, pour adoucir sa nostalgie, le souvenir de tant
+de jours où il y a été c si heureux -»!</p>
+<p><pb/></p>
+<p>Tous deux cependant, Barrès et Régnier, ont ce trait commun d'être de
+l'école de la beauté Il y a quelques années, la remarque ne m'en fût pas
+venue. Personne ne supposait qu'il pût y avoir</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>étaient tout usés. La lecture de la Vie vénitienne d'Henri de Régnier,
+semée d'enchantements sans artifices, remplie de belles et douces images
+que rajeunit et rafraîchit une sensibilité sincère, pourra les
+convaincre qu'ils en ont décidé bien vite. 1928.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LES PROMESSES</p>
+<p>DE L'HEURE PRÉSENTE</p>
+<p>(Discoars prononcé au diner de la Revue critique et de la Petite scène,
+qui a eu lieu le 8 mai 1928, sous la présidence de M. Maurice Donnay, de
+rAcadémieJrançaile.)</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>voyance mélancolique. Mélange singulièrement français, n'est-ce pas?
+comme est de pure essence française la Petite scène.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Vous me trouvez bien enthousiaste pour mon âge. Je l'avoue. Mais
+l'enthousiasme, qui n'exclut pas nécessairement la prudence, non plus
+qu'il n'implique la grandiloquence, n'est-il pas, après tout, le seul
+état d'esprit supportable?</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>ANDRÉ CHÉNIER</p>
+<p>D'APRÈS FIRMIN ROZ</p>
+<p><pb/></p>
+<p>de lui, les plus grandes apparences demeurent de ce côté. Elles ne
+donnent pas une certitude. Un philosophe, un critique, un théoricien
+politique, un homme d'action et de gouvernement se dessinent également
+dans les travaux de préparation que nous a laissés cette généreuse
+jeunesse. Les ignobles circonstances publiques qui ont causé la mort de
+Chénier sont justement celles qui allaient, selon toute vraisemblance,
+lui arracher des œuvres enfin dignes de sa grandeur latente, en
+suscitant dans son cœur et dans sa tête les ébranlements décisifs de
+l'héroïsme. On sait comment un voisinage de prison y ajouta ceux de
+l'amour.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>qui a un attrait de rondeur et de sincérité. Dans Chénier, on sent trop
+sous toute cette riche matière antique l'amaigrissement d'imagination et
+la diminution de sève des fils de Voltaire et de l'Encyclopédie. Le
+dessous de ce coloris, placé d'ailleurs avec un art infini et plus d'une
+fois très charmant, est assez froid. Je ne veux pas dire que Chénier
+lui-même soit froid. Quelle nature plus chaleureuse, au contraire? Mais
+il semble que, chez lui, le feu intérieur de l'âme ne se fût pas encore
+frayé au dehors toutes les issues nécessaires pour se répandre dans ses
+peintures d'artiste et en enflammer le beau glacis.</p>
+<p><pb/></p>
+<p>et en qualité des éléments de sa poétique pourrait se faire de la
+manière suivante.</p>
+<p>i° Des traits et des expressions appartenant au faux goût de son temps,
+ainsi d'affreuses périphrases</p>
+<p>.Avant que l'heure en cercle promenée</p>
+<p>Ait posé sur l'émail bri!lant,</p>
+<p>Dans les soixante pas où sa route est bornée</p>
+<p>Son pied sonore et vigilant</p>
+<p>Il croit sentir sous lui fuir la planche légère;</p>
+<p>Triste et pâle, il se couche et la nausée amère</p>
+<p>Inonde le tapis destiné aux repos.</p>
+<p>2° Des vers d'un didactisme lyrique plein de mérite et présenté avec une
+grande habileté d'expression (l'Invention, Hermès), mais pas très excitant.</p>
+<p>Je poursuis la comète aux crins étincelants,</p>
+<p>Les astres et leurs poids, leurs formes, leurs distances; Je voyage avec
+eux dans leurs cercles immenses. 1. Depuis que cette étude a paru, cette
+périphrase a été défendue, hautement louée par un grand connaisseur en
+matière poétique, Charles Maurras. Il ne m'a pas convaincu que ce fût là
+de la poésie.</p>
+<p><pb/></p>
+<p>Comme eux, astre, soudain je m'entoure de feux, Dans l'éternel concert
+je me place avec eux</p>
+<p>Plus d'un jour fait l'ombrage où Palès se repose; Et plus d'un soleil
+dore, au penchant des coteaux, Les grappes de Bacchus, souveraines des
+eaux.</p>
+<p>5° Je ne la pose pas ni personne pour un ensemble de vers, nés au
+voisinage de la four-</p>
+<p><pb/></p>
+<p>Ah 1 témoin des succès du crime,</p>
+<p>Si l'homme juste et magnanime</p>
+<p>Versailles, tes routes fleuries,</p>
+<p>Ton silence fertile en belles rêveries</p>
+<p>N'auraient que joie et volupté.</p>
+<p>Mais souvent tes vallons tranquilles,</p>
+<p>Tes sommets verts, tes frais asiles,</p>
+<p>J'y vois errer l'ombre livide</p>
+<p>D'un peuple d'innocents qu'un tribunal perfide</p>
+<p>Précipite dans le cercueil.</p>
+<p><pb/></p>
+<p>averti, observateur exact et très libre de l'état des peuples et des
+mouvements de la civilisatior contemporaine, Firmin Roz est un de ces
+rares talents qui n'obtiennent que de la probité absolue et de la belle
+qualité de leur production littéraire l'attention du public.</p>
+<p><pb/></p>
+<p>DANTON</p>
+<p>D'APRÈS M. LOUIS IIIADELIN</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Il a voté la mort du roi, non sans accompagnement de déclamation. Mais
+il a voulu sauver le roi. Dans un entretien secret qu'il eut avec
+Théodore de Lameth (le récit de Lameth rand tout le son de
+l'authenticité) quelques mois avant le procès de Louis XVI, il
+s'exprimait ainsi « Je ne veux me montrer ni meilleur, ni pire que je ne
+suis. J'ai toute confiance dans votre caractère. Voici le fond de mes
+pensées, de mes intentions. Sans être convaincu que le roi ne</p>
+<p><pb/></p>
+<p>mérite aucun reproche, je trouve juste, je crois utile de le tirer de la
+situation où il est. J'y ferai avec prudence et hardiesse tout ce que je
+pourrai. je m'exposerai si je vois une chance de succès, mais si je
+perds toute espérance, jevous le déclare, ne voulant pas faire tomber ma
+tète, avec la sienne, je serai parmi ceux qui la condamneront. »
+Pourquoi, dit Lameth, ajoutez-vous ces derniers mots?</p>
+<p>» Pour être sincère. »</p>
+<p>La politique de Danton contre les Girondins fut de méme un expédient et
+non la manifestation d'une inimitié réelle. Il était beaucoup plus près
+d'eux que de la Montagne; il aurait voulu les unir sous sa direction,
+mais leur inintelligence de la situation, leur entêtement, l'illusion
+vaniteuse qui leur faisait croire qu'ils allaient maîtriser et annuler
+du jour au lendemain, avec des discours et des formules égalitaires, les
+forces d'émeute qu'ils avaient déchaînées et par lesquelles ils avaient
+été portés au pouvoir, tout cela le découragea. Et pour ne pas être
+enveloppé dans leur perte, qu'il voyait certaine, il se rejeta du côté
+de Robespierre et de Marat qu'il exécrait et dont il</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>On pourra juger le livre de son nouveau biographe un peu rapide et
+sommaire en certaines parties. Mais on ne lui déniera pas ce mérite
+supérieur d'être animé d'un sentiment très juste et de se résumer en un
+jugement très équitable. En voici les formules finales</p>
+<p>» Il ne laissait point l'impression d'une belle âme. Il ne laissait pas
+non plus l'impression d'une Ame basse. Malgré de tristes côtés, dont
+nous n'avons rien celé, il avait même parfois donné</p>
+<p><pb/></p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>QUESTIONS D'ART MUSICAL</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>BE'RLIOZ</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Il me revient en mémoire un trait de la dernière œuvre que j'ai entendu
+jouer de lui au concert; c'est dans la symphonie de la Chasse, des
+Troyens, un thème de chasse qui est sur le rythme ordinaire de ces
+sortes de thèmes et où il a su rendre toute la mélancolie de la
+fatalité, tout le lourd mystère de l'orage qui va précipiter les amants
+vers leur destin. Que ceux qui prennent Meyerbeer pour un grand homme
+trouvent dans Meyerbeer des choses de ce genre! Meyerbeer, ni Halévy, ni
+Adam, ni Auber ne savaient la direction</p>
+<p><pb/></p>
+<p>du bois sacré d'où on-les rapporte et ils n'en avaient souci. Par là
+Berlioz, quels que soient ses défauts, les domine tous. J'en viens aux
+défauts.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>t9UI.</p>
+<p><pb/></p>
+<p>POURQUOI NE FAIT-ON PLUS</p>
+<p>D'OPÉRAS COMIQUES?</p>
+<p><pb/></p>
+<p>bien, l'idée la plus générale que l'on puisse donner de cette forme
+d'art, le type moyen qui se dégage de la comparaison de toutes ses
+variétés -intéressantes.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ouvrages célèbres; ils étaient choisis, non pas au hasard, comme on fait
+aujourd'hui dans les représentations de cinéma, mais en raison de leur
+sens expressif. Il y avait la symphonie des plaisirs champêtres, celle
+de la dispute, de l'orage, de la bataille, etc.</p>
+<p>Ce caractère 'va se réaliser par la suite sous des formes de plus en
+plus fines et épurées. Il n'en a pas été moins présent dès les débuts et
+il est demeuré l'âme vivante du beau développement qui l'a suivi. On
+peut affirmer qu'il constitue la, raison d'être et la légitimation de
+l'opéra comique.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>plative. Son rôle n'est pas sans analogie avec celui du chœur dans la
+tragédie antique, qui introduisait moralement les spectateurs sur la
+scène en exprimant leurs impressions et réflexions sur ce qui venait de
+s'y accomplir ou sur ce qui s'y préparait.</p>
+<p>Aujourd'hui la plupart de nos artistes traite-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>mettre, pour ainsi parler, l'esprit en danse, fût mauvais.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Il est vrai qu'après la Révolution, le genre a donné encore quelques
+chefs-d'œuvre. Mais ils nous apparaissent comme des survivances d'un
+temps plus favorable aux arts et au goût,. En tout cas, la Révolution de
+1830 en a marqué la fin. Tout ce qui s'est fait depuis dans la forme
+traditionnelle de l'opéra comique est factice, hors de saison et sonne
+faux.</p>
+<p><pb/></p>
+<p>PROPOS BÉARNAIS</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>EN BÉARN, AVEC LÉON BÉRARD' Du temps que Léon Bérard gouvernait
+l'Université, j'ai connu un genre de gloire bien imprévu et pour lequel
+je me sais l'homme le moins fait du monde. Je suis devenu le héros d'un
+mythe. Entre les ennemis de ces réformes scolaires autour desquelles on
+a tant bataillé, et qui resteront, quelque sort définitif qui les
+attende, le solide honneur de notre compatriote, il y en eut dont la
+ténébreuse imagination subodora dans cette entreprise détestée la
+néfaste influence de votre humble et irrespectueux serviteur et se plut
+1. L'Académie de Béarn, qui m'a fait l'honneur de me choisir pour son
+président, ayant publié des discours prononcés par Léon Bérard à
+l'occasion de cérémonies béarnaises, voulut bien me demander d'écrire
+une préface pour ce beau recueil. C'est cette préface que je reproduis ici.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Au beau mois de septembre, mon cher Léon Bérard, quand vous me faites
+l'amitié de passer une journée sur les hauteurs de Castétis, dans mon
+minuscule domaine de paysan désaffecté, non sans vous recommander d'un
+lièvre avantageux tiré la veille dans la plaine de Saintt. Dont quelque
+Noël et Chapsal a dA faire cet Orthez, bideusement orthographié. Le z,
+de crainte qae l'on ne prononçât Orthé; l'h par un pédantisme
+hellénisant que rien ne justifie. Pourquoi le t d'Orthez sesait-il le
+thêta grec?</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Votre discours sur les morts de la ville de Mauléon est parmi les plus
+belles pages que j'aie pu lire sur ce sujet fait pour effrayer la parole
+autant qu'il trouble le cœur. En ce genre sacré, il est difficile
+d'accorder, comme vous l'avez fait, la noblesse nécessaire de la forme
+avec la pudeur de l'âme. Devant les tombeaux de ces victimes, comment se
+taire? Pourtant les glorifier, c'est dire que leur mort n'a pas été sans
+fruit et qu'il valait la peine qu'ils périssent en pleine jeunesse.
+Hélas! Cette question est encore en suspens. La plus grande éloquence
+n'est-elle pas de la réserver? Celui qui y répond négativement est
+criminel contre la patrie et mériterait, lui, si au moins il ne porte la
+tragique excuse d'une mutilation qui l'ait rayé du nombre des hommes,
+une mort sans honneur. Celui qui y répond affirmati-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Belles et salutaires sentences qui mériteraient d'être retracées en tête
+de tout écrit dont le Béarn est l'objet. Je m'en empare. Elles préfacent
+véritablement ma préface.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>SUR LA TOMBE</p>
+<p>DE CHARLES DE BORDE-U'</p>
+<p><pb/></p>
+<p>doux noms d'une sonorité hellénique, ce manoir, cette église, cet
+horizon radieux couronné des éternelles neiges pyrénéennes, les champs
+dorés où cet homme de vieille race suivait d'un regard patriarcal le
+travail sacré de ses frères paysans, aujourd'hui réunis en larmes autour
+de sa tombe. Délicieux spectacles, que mon enfance adorait, alors que
+Charles de Bordeu ne les avait pas encore dépeints, mais auxquels son
+âme et son art ont ajouté depuis un surcroît de charmes et de lumières.
+Nous les voyons maintenant avec ses yeux, nous les sentons avec son
+coeur. Il y a, disait Gustave Flaubert, des coins de terre si beaux
+qu'on désirerait les étreindre. Pour nous, Béarnais, celui-ci en est un.
+Il en est un aussi pour maint voyageur que saisit, au passage,
+l'enchantement de cette vallée. Mais rien dans le monde physique n'est
+beau par soi. Du moins ce qu'a la beauté de la nature de plus pénétrant
+et de plus touchant, c'est nous qui le lui prêtons par notre communion
+intime avec le souvenir des générations qu'elle a vues naître et mourir.
+Si Bordeu a si profondément senti et rendu les aspects et le génie même
+de cette terre béarnaise, c'est qu'il est d'une race qui, depuis
+longtemps, vivait d'elle. Elle lui parla, dès ses jeunes ans, un langage
+si émouvant. si riche de poétiques secrets, et ouatant d'expérience
+humaine se condensait, que tout autre entretien lui aurait</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>l'hommage de sa songerie. C'est ici, pensera-t-il, que ce poète, ce
+philosophe, ce gentilhomme et cet homme de bien a tant médité, tant
+contemplé, tant aimé. C'est ici qu'il a loyalement fait son oeuvre et
+produit du meilleur de lui-même la semence sainte dont il a confié
+l'avenif^^tfjsî^il de sa terre natale, au soleil de</p>
+<p>FIN</p>
+<p><pb/></p>
+<p>TABLE</p>
+<p>ÉTRANGÈRE</p>
+<p>ÉCRIVAINS FRANÇAIS</p>
+<p>D'HIER ET D'AUJOURD'HUI</p>
+<p>LA CRIBB D'BRNEST RBNAN 47 LE CENTENAIRE D'ERNSBT RENAN 73 TAINB
+HISTORIEN ET CRITIQUE 93 ANATOLE FRANCE ET M. 1IICHAUT 99 LA 109 LE
+DEBTIN DE 121 LES EFOPÉE8 M. BÉDtEB. 131 t69 A AVEC HENRI Dfi LES
+PROUESSES DE L'HEURE PRÉSENTE. 167 ANDRÉ CHENtER, D'APRÈS FtRMtN ROZ
+DANTON, D'APRÈS Il. LOUIS MADELIN 183 QUESTIONS D'ART MUSICAL</p>
+<p>195 POURQUOI NE FAIT-ON PLUS D'OPÉRAS COIIIQUBS? 203 PROPOS BÉARNAIS</p>
+<p>EN AVEC LioN 217 SUR LA TOMBE DE CHARLEB DE BORDEU 231</p>
+    </div>
+    </body>
+  </text>
+</TEI>

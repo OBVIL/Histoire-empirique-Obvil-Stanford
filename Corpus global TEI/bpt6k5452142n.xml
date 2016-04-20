@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Raynaud, Ernest (1864-1936)">Ernest Raynaud</author>
+<title>Baudelaire et la religion du dandysme / par Ernest Raynaud</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Raynaud, Ernest (1864-1936)</author>, <title>Baudelaire et la religion du dandysme / par Ernest Raynaud</title>, <date>1918</date>,description :Collection : Les Hommes et les idées ; 28,89 pages
+</bibl>
+<publisher>"Mercure de France" (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k5452142n</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1918">1918</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LES HOMMES ET LES IDEES</p>
+<p>La Collection Les Hommes et les Idées est uiio oeuvre de vulgarisation,
+dirions-nous, si ce mot, t'ont on a tant abusé, n'était suspect.
+Cependant, il n'en est pas d'autre, peut-être,qui la qualifie
+exactement,pourvu qu'on le prenne dans son sens le plus élevé et le plus
+général.</p>
+<p>Poitiers. — Imprimerie &lt;ki MERIVRI DE FBI.NXÇ (G. Roy).</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>f / //^ÙDELAIRE</p>
+<p>ET È^EÊfclON DU DANDYSME</p>
+<p><pb/></p>
+<p>DANS LA MÊME COLLECTION</p>
+<p>HENRI DE RÉGNIER ET SON OEUVRE, prr Jean de Gourmont avec un portrait et
+un autographe ;... i vol.</p>
+<p>LA NAISSANCE ET L'ÉVANOUISSEMENT DE LA -MATIÈRE, par le Dr Gustave</p>
+<p>Le Bon i vol.</p>
+<p>DANTE, BÉATRICE El I.A POÉSIE AMOL'RI USE. Essai SUI' l'Idéal fêltli'</p>
+<p>avec plusieurs gravures sur bois i vol.</p>
+<p>FRANÇOIS COITE E ET SON UUVRE, par Gauthier Ecrrières, avec un</p>
+<p>portrait et un autographe i vol.</p>
+<p>LES HARMONIES DE L'ÉVOLUTION TERRESTRE, par Stanislas Meunier,</p>
+<p>professeur au Muséum., i vol.</p>
+<p>LA RÉVOLUTION RUSSE ET SES RÉSULTATS, par P.-G. La Chcsnais. i vol.
+MAGNÉTISME ET SPIRITISME, par Gaston Danville i vol.</p>
+<p>FRANCIS JAMMES KT LE SENTIMENT DE LA NATURE, par Edmond Pilon,</p>
+<p>avec un portrait et un autographe. i vol.</p>
+<p>LF GÉNIK ET LES THÉORIES DE M. LOMitROSO, par Etienne flabaud. i vol.</p>
+<p>LA QUESTION D'HOMERE. Les Poèmes homériques, l'archéologie et la poésie
+populaire, par A. van Gennep, suivi d'une bibliographie critique, par
+A.-J. Reinach i vol.</p>
+<p>LA PENSÉE DR MAURICE BARRÈS, par Henri Massis, avec un portrait et un
+autographe i. ... 4 i vol.</p>
+<p>L'INTELLIGENCE ET LE CERVEAU, par Georges Matisse i vol.</p>
+<p>REMY DB GOURMONT ET SON OEUVRE, par Paul Dclior, avec un portrait et un
+autographe i vol.</p>
+<p>GUSTAVE LE BON ET SON OEUVRE, par Edmond Picard, avec un portrait et Un
+autographe. i vol.</p>
+<p>JULES RENARD ET SON OEUVRE, par Henri Bachelin, avec un portrait et un
+autographe i vol.</p>
+<p>CUVIER ET GEOFFROY SA1NT-HILAIRE D'APRKS LES NATURALISTES ALLEMANDS, par
+E.-L. Troucssart, professeur au Muséum i vol.</p>
+<p>LE SALAIRE, SES FORMES, SES LOIS, par Christian Cornélissen. i vol.</p>
+<p>I/ÉVOLUTION IDÉOLOGIQUE D'EMILE VERIIAERF.N, par Georges Buisseret, avec
+un portrait et un autographe. i vol.</p>
+<p>ALFRED GIARD ET SON OEUVRE, par Georges Bohn, avec un portrait et un
+autographe et la Bibliographie complète de son oeuvre, i vol.</p>
+<p>RENÉ QUINTON. Origines marines de la vie. Lois de constance originelles.
+Essai sur l'esprit scientifique, par Lucien Corpechot, avec un portrait
+et un autographe.</p>
+<p>HENRI POINCARÉ, par Sagerct, avec un portrait et un autographe i vol.</p>
+<p>LA PHILOSOPHIE DU uovARYSME. Jules de Gaultier, par Georges Palante,
+avec un portrait et un autographe i vol.</p>
+<p>L'OEUVRE DE MAURICE MAETERLINCK, par M. Escîi, avec un portrait et un
+autographe i vol.</p>
+<p>LA PENSÉE D'HKNBI BERGSON, par Joseph Dcsaymard, avec un portrait et un
+autographe i vol.</p>
+<p>LES RUINES DB L'IDÉE DE DIEU, par Georges Matisse i vol.</p>
+<p>LA GRAPHOLOGIE, par E. de Rougemont, préface de Remy de Gourmont,
+autographe i vol.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>Tous droits de traduction, d'adaptation et de reproduction réservés pour
+tous pays.</p>
+<p><pb/></p>
+<p>Je sais que je suis de ceux que les hommes u aiment pas, mais je suis de
+s ;.'..:çejî3^dont ils se souviennent.</p>
+<p>t &lt; ';■■' ,SVLLKY, cité par Baudelaire</p>
+<p>Baudelaire est motèt-depuis plus d'un demisiècle et son génie reste si
+présent, si doué de prodigieuses qualités de vie agressive et militante,
+qu'il est impossible de citer son nom sans provoquer une explosion de
+sentiments divers où la haine et l'admiration ont part égale. Il eu fut
+toujours ainsi. .L'apparition des Fleurs du Mal fit se lever deux camps
+de thuriféraires et de détracteurs inconciliables. De son vivant,
+Baudelaire avait pour lui Hugo, Vigny, Banville, Flaubert. L'ennemi,
+c'était Pontmartiu.</p>
+<p>Hier, tandis que les symbolistes se réclamaient de Baudelaire, tandis
+que l'élite de la jeunesse lettrée lui donnait le pas sur Lamartine,
+Musset, Leconte de Lisle (quelques-uns môme sur Hugo) (i);</p>
+<p><pb/></p>
+<p>■'6 V'' '■'.*; • CHARLES BAUDELAIRE V. ;'• \-;v'V-v^f</p>
+<p>Baudelaire est une pierre de touche, il déplaît invariablement aux
+imbéciles.</p>
+<p>« Lui, a créé le grand lyrisme immobile, le lyrisme qui est l'égal de la
+musique et qui a la force d'uu orchestre. »</p>
+<p><pb/></p>
+<p>BT tA RELIGION DU DANDYSME</p>
+<p>Paul Verlaine s'indignait qu'on ne pût s'inquiéter de Baudelaire auprès
+du commun des lecteurs sans essuyer cette réplique :</p>
+<p>« Baudelaire, attendez donc 1... Ah 1 oui, celui qui a chanté la
+Charogne. »</p>
+<p>La Charogne I ce mot suffit pour les dispenser d'entendre Je sens
+spirituel d'un poème qui n'est, pourtant, que la virulente paraphrase du
+Pulois es de l'Ecriture.</p>
+<p>Ils n'y veulent voir qu'une fantaisie macabre, comme ils s'obstinent à
+flairer je ne skis quel relent de sensualité égrillarde dans ces Femmes
+Damnées d'un pathétique si déchirant et où gronde un écho des tempêtes
+de la Bible.</p>
+<p>Le malentendu vient encore de ce que la foule n'aime, en Art, que ce qui
+flatte son goût d'ariettes et de romances et de la conception unique
+qu'elle se fait de la Poésie : « Un coup d'aile dans le bleu ».
+Baudelaire n'est pas un confiseur. Il nous présente</p>
+<p><pb/></p>
+<p>;^8~ ' CHARLES BAUDELAIRE .'. '."•• , ' i^^</p>
+<p>une éponge de fiel et, s'il connaît le chemin qui' mène aux étoiles,
+c'est sur les pas du Dante qu'il s'égare aux enfers.</p>
+<p>Comment la « populace des esprits frivoles » s'accommoderait-elle du
+poète de l'anxiété ?</p>
+<p><pb/></p>
+<p>BT LA RELIGION DU DANDYSME</p>
+<p>De cette heure où l'essaim des rêves malfaisants Tord sur leurs
+oreillers les bruos adolescents.</p>
+<p><pb/></p>
+<p>j'fiÔ;■'■'•./• ';-: CflAhLBS BAUDK[.A1RE , ;|</p>
+<p>tures! Quels horizons plus larges pouvait-il espérer que ceux que le
+magnifique essor de la Poésie ouvrait alors sur le inonde? Il ne faut
+pas juger le mouvement des esprits de i83o avec nos préventions
+d'aujourd?hui. La bataille est terminée. Nous pouvons compter les morts.
+Bien des illusions se sont dissipées ; bien des prestiges évanouis. Il
+faut nous reporter au matin de k bataille, revivre l'enthousiasme du
+départ, la furie de l'attaque, quand les drapeaux se gonflaient d'un
+frémissement d'espoir et d'héroïsme, quand les clairons sonnaient la
+charge et l'assurance de la victoire.</p>
+<p>Ce voyage no m'a pas été inutile. J'avais emporté les oeuvres complètes
+de Balzac. J'ai eu tout loisir de les lire I</p>
+<p>Son absence avait duré du 29 juin 18/41 aux pre-</p>
+<p><pb/></p>
+<p>ET LA RELIGION DU DANDYSME</p>
+<p>La forme d'une ville Change plus vite, hélas 1 que le ccsur d'un mortel.</p>
+<p>L'idée de Napoléon I,r d'en faire la capitale des capitales, la ville
+des merveilles, était en train de se réaliser. Les événements
+facilitaient la tâche des gouvernants et des édiles.</p>
+<p>Le développement des chemins de fer y faisait affluer l'or. Les hautes
+glaces (invention nouvelle) des magasins illuminés succédant aux
+treillis vitrés</p>
+<p><pb/></p>
+<p>CHARLES BAUDELAIRE</p>
+<p>• \</p>
+<p>des échoppes noires de jadis, l'usage du macada permettant
+l'installation des trottoirs, l'éclairag au gaz créant la vie nocturne
+des théâtres et de boulevards, en avaient modifié la physionomie
+transformé le visage et les moeurs. Il en résultai une activité de
+presse, une fièvre de luxe, un élour dissement de plaisir dont aucune
+civilisation anté» ' rieure n'avait connu le choc si précipité.</p>
+<p>Baudelaire rentrait en pleines fêtes du Carnaval, au moment où les bals
+masqués faisaient fureur. I retrouva le mouvement des boulevards ou
+l'anglo manie sévissait. Il retrouva le quartier latin mis e émoi par
+l'ouverture du restaurant Magny. Il r trouva la Closerie des lilas,
+I3obino et la boulan gerie Crelaine.</p>
+<p>Il retrouva ses amis au moment où Pages d l'Ariège fondait la Patrie,
+avec Ja collaboration d Balzac, do Théophile Gautier, de Banville.</p>
+<p>Baudelaire n'en fut que plus pressé «le s'afïran 'îhir d'une vie de
+famille insupportable. Sa môr gardait de son éducation anglaise la
+religion de bienséances, un souci exagéré de « cant » et d «
+respectability ». Il nous dit qu'elle était capri cicuse (il faut la
+craindre cl lai plaire). Son beau père avait contracté, de sa double
+qualité d'oliieier diplomate, des habitudes rigides de disciplin
+militaire et de rectitude administrative auxquelle</p>
+<p><pb/></p>
+<p>ET LA RELIGION DU DANDYSME ' l3</p>
+<p>e jeune homme ne pouvait s'adapter. II semble ue ce milieu gourmé l'ait
+exaspéré jusqu'au suplice:</p>
+<p>Il est bon, écrit-il quelque part, que chacun de nous it éprouvé, une
+fois dans sa vie, la pression d'une dieuse tyrannie. Combien de natures
+révoltées ont pris je auprès d'un cruel et ponctuel militaire de
+l'empire ? ^a pauvre et généreuse nature, un beau matin, fait exlosion;
+le charme satapique est rompu, il n'en reste ue ce qu'il faut : un
+souvenir de douleur, un levain our la pâte.</p>
+<p>Plein des illusions de la jeunesse, affranchi déormais (il le croyait)
+des soucis matériels, il penait pouvoir vivie en beauté et réaliser son
+rôve de )andysme. Il s'installe provisoirement quai de îéthune, puis rue
+Vaneau où il ne fait qu'un tour, ;t vient habiter dans ce coin, paisible
+et frais, de 'île St-Louis, le célèbre hôtel Pimodan, séjour élu les
+princes de la bohème.</p>
+<p>La bohème ne comprenait pas que des'gens beogneux. Il y avait la bohème
+des fils de famille, a bohème dorée; c'était celle de Gautier, Housaye,
+Gérard de Nerval, Nestor Roqueplan, Our-</p>
+<p><pb/></p>
+<p>ïA' CHARLES BAUDELAIRE ''</p>
+<p>A l'hôtel Pimodan, Baudelaire occupa, sous les combles, moyennant le
+prix annuel de 35o francs, un appartement un peu mansardé, composé d'une
+antichambre, d'une grande pièce et d'un cabinet, dit Asselineau, de
+plusieurs, dit Banville.</p>
+<p>La grande pièce était tendue, y compris le plafond, d'un papier à
+rayures, alternées, rouges et noires. Une seule fenêtre l'éclairait, sur
+les quais. Au dire d'Asselineau, Baudelaire avait dépoli les carreaux du
+bas, pour ne laisser entrer de l'extérieur que le ciel ; mais la preuve
+qu'il savait regarder, c'est qu'il nous dit :</p>
+<p>J'ai eu longtemps, devant ma fenêtre, un cabaret rougo et vert qui
+était, pour mes yeux, une douleur délicieuse.</p>
+<p><pb/></p>
+<p>ET LA RELIGION 1&gt;U OANDT8ME l5</p>
+<p>(i) Nadar, Ch. Baudelaire intime (HIaizot édit.).</p>
+<p>ja) Théodore de Banville, Baudelaire (La Renaissance littéraire</p>
+<p>artistique, numéro du 37 avril «87a).</p>
+<p><pb/></p>
+<p>IÔ CHARLES BAUDELAIRE</p>
+<p>(1) Th. de Banville, Mes souvenirs (Charpentier édit.).</p>
+<p><pb/></p>
+<p>ET LA. RELIGION DU DANDYSME f]</p>
+<p>dévasté, au rictus fatal, au regard hallucinant dans son étrange fixité,
+la riante image de Banville ? Banville a raison pourtant. Ici son
+témoignage s'accorde avec celui du peintre Deroy qui nous montre le
+jeune Baudelaire en « lion ullra-fashionable » accoudé au fond d'une
+vigilante rêverie, dans une altitude délicieuse de flegme et de
+nonclialoir.</p>
+<p><pb/></p>
+<p>l8 CHARLES BAUDBLA1KE</p>
+<p>Il ne faut pas voir dans le dandysme de Baude«</p>
+<p>Baude« adviendra de ce Baudelaire ce qu'il est advenu de Pclrus Bord. On
+disait : Quand il paraîtra, Hugo n'existera plus. 11 a paru. Ce u'était
+rien. »</p>
+<p>Peut-être Gautier se vengeait-il d'avoir lu dans l'Echo des Théâ très
+(a5 août 1846) ces lignes signées de Baudelaire :</p>
+<p>O ironie de la destinée I ces deux hommes qui se détestaient cor
+dialcmcnt en arriveront, pour avoir joué, un jour, devant la galcrir la
+comédie de l'admiration mutuelle, a passer k la postérité, lié d'une
+étreinte indissoluble.</p>
+<p>Ceux qui savent lire entre les lignes ne manqueront pas de saisi cette
+hostilité latente sous les fleurs dont ils se couvrent reciproqu ment,
+tant dans la préface de Gautier que dans l'article de Uaud lairc sur
+Gautier • aux prunelles félines ».</p>
+<p>La diatribe de Baudelaire, VlkoU Païenne (i85a), cet dirigé contre Gautier.</p>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>ET LK »KLIOIO.H DU DANDroUK</p>
+<p>(C'était un habit noir, très évasé du torse d'où la tête de Baudelaire
+sortait comme une fleur sort d'un cornet, et a basques infinitésimales
+(on les portait alors très larges), amenuisées en sifflet. Baudelaire se
+prévalait, ce jour-la, d'un pantalon noir sanglé par le sous-pied, de
+bottes irréprochablement vernies, d'un col de chemise et de manchettes
+de linge blanc, sans empois, aux apparences de mousseline, et d'une
+cravate rouge sang de boeuf. Il était ganté de rose pâle.</p>
+<p>La préciosité de ses gestes avait également impressionné Nadar qui nous
+dit :</p>
+<p>Baudelaire procédait, dans sa marche, par saccades des articulations,
+ainsi que les petits acteurs eu boig du sieur Séraphin, semblant
+choisir, pour chacun de ses pas, la place, comme s'il marchait entre des
+oeufs ou qu'il craignît, par ce sable innocent, do compromettre le
+luisant de ses chaussures.</p>
+<p><pb/></p>
+<p>a a ciiAntgs BAUDELAIRI ^_</p>
+<p>Le noir du costume aidant, le geste retenu, méticu» Jeux, concassé,
+rappelait'les silhouettes successives du télégraphe optique qui se
+démantibulait alors sur les tours de Saint-Sulpice, ou mieux, la
+gymnastique anguleuse de l'araignéo, par temps humide, au bout de son
+fil... (i)A</p>
+<p>(1) Nadar, Op. cit.</p>
+<p><pb/></p>
+<p>ET LA RBUGION DU DANDY8ME »i</p>
+<p>Daudelairo a survécu, mais une part de son génie a sombré peut-ôtre,
+parco que l'épanouissement de ses facultés exigeait l'indépendance et le
+loisir. Les poèmes culminants de l'édition primitivo des Fleurs</p>
+<p>libraires &amp; Alcnçon, d'une part, et M. Charles Baudelaire, littérateur,
+d'autre part,</p>
+<p>« a été convenu ce qui suit:</p>
+<p>« Chaque tirage sera de mille exemplaires.</p>
+<p>c Pour prix de cette vente M. Charles Baudelaire touchera par chaque
+volume tiré, vendu ou non vendu, vingt-cinq centimes, soit nn huitième
+du prix marqué sur le catalogué de MM. Poulet-Malassis et Eugène de Broize.</p>
+<p>« M. Charles Baudelaire s'interdit la reproduction sous quelque forme
+que ce soit de tout ou partie de la matière contenue dans ces deux volumes.</p>
+<p><pb/></p>
+<p>CHARLKS BAUDELAIRE</p>
+<p>du Mal étaient écrits. Dans les poèmes surajoutés il ne retrouvera plus
+la môme intensité d'accent.</p>
+<p>On peut dire que le Poète a donné toute sa mesure. Il a atteint son apogée.</p>
+<p>(i) Vers la fin de sa vie, lorsque Nadar obtenait la permission.</p>
+<p><pb/></p>
+<p>EX LA RKUaiON DU DANDYSME j5</p>
+<p><pb/></p>
+<p>aÔ</p>
+<p>CHARLES BAUPPLAIRB</p>
+<p>mort (3i août 1867), que ço juron trivial et saccadé : « Gré nom I »</p>
+<p>Plains-moi, sinon je (e maudis !</p>
+<p><pb/></p>
+<p>ET LA MLIOION DU DANDYSUB 27</p>
+<p>cine, Hugo lui étaient indispensables. C'est d'eux qu'il a reçu
+l'instrument docile qu'il perfectionnera encore au point d'y fixer des
+étals d'âme. Il suffit de lire Baudelaire pour éprouver que son vers
+tire ses ressources do la musique et qu'il contient, en virtualité, ce
+que Rimbaud et René Ghil et les symbolistes cherebaient après lui: la
+phrase musicale et colorée. On lit d'ailleurs, dans ses notes :</p>
+<p>— Que la poésie françaiso possède une prosodie mystérieuse et méconnuo,
+comme les langues latine et anglaise. ..</p>
+<p>— Quo la poésie se rattache aux arts de la peinture, de la cuisine et du
+cosmétique par la possibilité d'exprimer toute sonsation do suavité ou
+d'amertume, do béatitude ou d'horreur, par l'accouplement do tel
+substantif avec tel «djectif, aualogueou contraire..,</p>
+<p>Ces possibilités, personne ne les avait pressenties avec tant de
+clairvoyance. Pour la première fois, chez nous, le poète se double d'un
+esthète, heureuse conséquence du dandysme, lequel n'est réalisable, nous
+dit Baudelaire, qu'aux « époques transitoires, où la démocratie n'est
+pas encore toute puissante, où l'aristocratie n'est que partieltentent
+chancelante et avilie ». C'était, ici, le cas.,4'</p>
+<p><pb/></p>
+<p>38 CHARLES BAUDECAIH8</p>
+<p>des(i) enfant, je voulais être tantôt pape, mais pape militaire, tantôt
+comédien (Baudelaire).</p>
+<p><pb/></p>
+<p>ET LA RELIGION DU DANDYSME 2fj</p>
+<p><pb/></p>
+<p>30 ' CHARLES BAUDBLAIIIB</p>
+<p>les bousingots de l'impasse du Doyenné et les jeunes Franco de l'Hôtel
+Pimodan.</p>
+<p>Népomucène Lemercier est mort, llu^o est contesté. Le poète en faveur,
+c'est maintenant Casimir Delavigne.</p>
+<p><pb/></p>
+<p>ET LA IXELIOION DU DANOY8MK 3l</p>
+<p><pb/></p>
+<p>32 " CHARLES &amp;AUDELAIHE - " V'</p>
+<p>mords. Il est malade, rongé de soucis ; toutes ces faces bourgeoises
+reluisent de santé et disent la joie de vivre. Il déborde d'amertume.
+L'insouciance de ces coeurs béats l'irrite* C'est pour lui « faire
+oeuvre pie », comme dit Aurel, que de les saccager, Il se vêt, pour les
+etFarer, d'accoutrements singuliers. Ou le vit se promener, un jour,
+avec une perruque verte. Qu'il s'entretienne avec l'un d'eux, il ne
+manquera pas d'émailler sa conversation de propos tels :</p>
+<p>Quand j'avais la gale... — Moi qui suis fils do prêtre!... — Le jour où
+j'ai jeté ma maîtresse par la fenê-&lt; tre... — i\e trouvez-vous pas que
+la cervelle de petit eofant a comme un arrière-goût de noisette?</p>
+<p><pb/></p>
+<p>■TLA RKLI6ION DU DANDYBMB 33</p>
+<p>L'homme, ivre d'une ombre qui passe, Porle toujours le châtiment D'avoir
+voulu chauger de place.</p>
+<p><pb/></p>
+<p>34 CHARLES BAUDELAIRE ' "?</p>
+<p><pb/></p>
+<p>ET LA RELIGION DU DANDYSME 35</p>
+<p>c'est(i) qui souligne l'incohérence de l'heure, c'est que l'on édifie es
+prisons de la Kaqaelte et de Mazasavec le même entrain que l'on</p>
+<p><pb/></p>
+<p>j ' 36 CHARLES BAUDKLAIRK !</p>
+<p>plante en tous lieux les arbres de la Liberté. On trai|ae,avec la
+dernière rigueur, la propagande bonapartiste, mais l'on ramène les
+cendres de Napoléon et on leur confère l'apothéose. On dégage le centre
+de Paris et on aère ses rues, mais on l'étrangle d'une ceinture de
+fortifications.</p>
+<p>« Tes nobles jambes, rçous les volants qu'elles chassent, Tourmentent
+les désirs obscurs et les agacent,</p>
+<p>Comme deux sorcières qui font Tourner un philtre noir, dans un vase
+profond...</p>
+<p><pb/></p>
+<p>HT LA RELIGION DU DANDYSkB 3f</p>
+<p>Sous une forme courtoise et le désir d'être aimable, on sent
+l'importance de la critique. Les fils de soie et d'or, Baudelaire les
+lient de son génie. Les</p>
+<p>Ta gorge qui s'avance et qui pousse la moire, Ta gorge triomphante est
+une belle armoire... Et le meurtre, parmi tes plus chères breloques, Sur
+tou ventre orgueilleux danse amoureusement... Tes hanches sont
+amoureuses De ton dos et de tes seins... » Nos modernes, pervertis par
+l'abus des épices, seront peut-être lentes d'applaudir à. ce3
+incohérences comme a des trouvailles de pittoresque, mais que dire de
+ces incorrections? « Mon gosier de métal parle toutes les langues... Et
+dans ses bras ouverts que remplissent ses seins. a Et de ces platitudes</p>
+<p>« ... Saisît un pistolet qu'il étreignait encore » dont Hugo est
+couturaicr.</p>
+<p><pb/></p>
+<p>38 i' CHAhLKS BAUDELAIRE</p>
+<p>fils de chanvre, c'est son temps qui les lui fournit, sans qu'il y songe.</p>
+<p>C'est donc par dandysme, c'est-à-dire par haine des moeurs et des
+institutions démagogiques, que Baudelaire affectera de railler et de
+blasphémer.</p>
+<p>-Baudelaire n'était ni un sceptique ni un athée» c'était un souffrant.
+[a Produit contradictoire » (le mot est de lui) d'un vieillard et d'une
+jeune femme qui s'était laissé'marier par intérêt et, probablement, non
+sans quelque répugnance, la dis-</p>
+<p><pb/></p>
+<p>ET LA «ELIGION DU DANDYSME 3g</p>
+<p><pb/></p>
+<p>4P CHARLES BAUDELAIRE</p>
+<p>Il jouait pour lui-même d'incomparables tragédies ou, pour mieux dire,
+tragi-comédies.</p>
+<p>Tout Baudelaire est dans ces lignes; mais ce qui nous les rend si
+émouvantes, c'est leur valeur symbolique. On y saisit les symptômes du
+mal dont le monde se mourait, hier : vanité, désordre, impuissance.
+C'est le mal du siècle.</p>
+<p><pb/></p>
+<p>ET ffX IVKLIGION DU DANDYSME 4t</p>
+<p>dont il a reçu l'héritage ! C'est leur malaise, ieur fièvre et leur cri
+révolté qu'il retrouve, dès qu'il sait lire, clans les vers de
+Lamartine, de Musset, d'Alfred de Vigny et qui feront de lui le
+nostalgique rêveur,</p>
+<p>De qui l'unique soin était d'approfondir Le secret douloureux qui le
+faisait languir.</p>
+<p>Baudelaire peut dire comme Lamennais et l'élite de ses contemporains : «
+Mon âme est née avec une plaie. »</p>
+<p>Sa profonde originalité, — enseigne Paul Verlaine, — c'est de
+représenter puissamment et essentiellement l'homme moderne tel que l'ont
+fait les raffinements dune civilisation excessive, l'homme moderne avec
+ses ■sens aiguisés et vibrants, son esprit douloureusement subtil, son
+cerveau saturé de tabac, son sang brûiè d'alcool. '.</p>
+<p>S</p>
+<p><pb/></p>
+<p>:T„ 4à:' ■"'•' CHARLES BAUDELAIRE</p>
+<p>Ici se manifeste la sensibilité de Baudelaire* ►Sous ses allures
+cinglantes de dandy, il cache un coeur compatissant. Ses lettres nous
+ont révélé le sentimental qu'il se défend d'être. Telle pièce des Fleurs
+du Mal, comme :</p>
+<p>La servante au grand coeur dont vous étiez jalouse...</p>
+<p><pb/></p>
+<p>ET LA RELIGION DU DANDYSME 4$ .' ' v</p>
+<p>Ah 1 Seigneur, donnez-moi la force et le courage De contempler mon coeur
+et mon corps sans dégoût I</p>
+<p>Ames de ceux que j'ai aimés, — s'écriait-il alors du fond de sa
+détresse, — âmes de ceux que j'ai chantés,</p>
+<p><pb/></p>
+<p>44 ■'■' CHARLES BAUDELAIRE</p>
+<p>Il appelle la Douleur comme un moyen de purification, le salut.</p>
+<p>Soyez béni, mou Dieu, qui donnez la souffrance Comme un divin remède à
+nos impuretés.</p>
+<p><pb/></p>
+<p>KT LArRELIGION DU DANDYSME ^b</p>
+<p><pb/></p>
+<p>46 » ' CHARLES BAUDBLAMK '</p>
+<p>T</p>
+<p>Comme de longs échos qui de loin se confondent</p>
+<p>Dans une ténébreuse et profonde unité,</p>
+<p>Vaste comme la nuit et comme la clarté,</p>
+<p>Les parfums, les couleurs elles sons se répondent.</p>
+<p><pb/></p>
+<p>«T LA RELIGION DU DANDYSME ^7</p>
+<p>On s'y sent « purifié par l'air supérieur ». Nous voici parvenu au point
+où le poète apparaît</p>
+<p>Tel qu'en lui-même enfin l'Eternité le change,&gt;</p>
+<p>et où il va rejoindre, dans l'immortalité, le choeur des hommes saints
+transfigurés par la douleur ;l e choeur de ces demi-dieux qu'il a
+chantés, parce qu'ils éclairent nos ténèbres comme des phares et qu'ils
+constituent notre orgueil, étant les titres les plus éclatants de la
+noblesse humaine :</p>
+<p>Car c'est vraiment, Seigneur, le meilleur témoignage Que nous puissions
+donner de notre dignité Que cet ardent sanglot qui roule, d'âge en âge,
+Et vient mourir au bord de votre éternité.</p>
+<p><pb/></p>
+<p>48 CHARLES BAUOILAinK</p>
+<p><pb/></p>
+<p>BT LA RELIGION DU DANDYSME 49</p>
+<p>Deux femmes comptent pourtant dans la vie du Poète : Jeanne Duval et MW
+6 Sabatier.</p>
+<p>Examinons si de cette double aventure ne ressort pas un double démenti
+aux allégations de Rops et de Nadar.</p>
+<p>h</p>
+<p><pb/></p>
+<p>5.0 ' CHAULES BAVDBLAmr</p>
+<p>Qu'était-ce, au juste, sous sa légende empruntée d'Egeiïe, que cette
+Mndame Sabatier, de souche bourgeoise, entretenue par le financier Mosselt</p>
+<p><pb/></p>
+<p>HT LA BBLIQtOM DU DANDY8MB 5l</p>
+<p>A ne tenir compte que des madrigaux de poètes, c'était une créature
+délicieuse, spirituelle, pleine de charme et de distinction. Gautier
+nous dit qu'elle était « supérieure aux autres femmes ». Feydeau nous
+assure qu'elle portait son joli nom de' présidente « avec tout l'esprit
+et la bonne grâce imaginables » (i).</p>
+<p>(i) Voici les lignes pleines d'intérêt que lui consacre M°" Judith
+Gautier :</p>
+<p>Au lieu de fenêtres, un vitrage qui formait toute une paroi, éclairai
+ces chambres, sous les feuillages des stores qui les voilaient. Cet
+intérieur avait l'air d'une serre...</p>
+<p>La Présidente arrivait du fond de l'appartement et s'annonçait par une
+roulade qui s'achevait en rire perlé. Trois grâces rayonnaient d'elle au
+premier aspect, beauté, bonté, joie.</p>
+<p>Elle s'appelait Aglaé et aussi Apollonie. Elle était asse~ grande, de
+belles proportions avec des attaches très fines et des mains charmantes.
+Ses cheveux très soyeux,d'un châtain doré, s'arrangeaient comme
+d'eux-mêmes en riches ondes semées de reflets. Elle avait le teint clair
+et rosé, les traits réguliers, avec quelque chose de motin, et de
+spirituel, la bouche petite et rieuse. Son air triomphant met-</p>
+<p><pb/></p>
+<p>5a CRARLKS BAUDKIAIRI</p>
+<p>Au physique, elle éuit grande, rose, dorée, toujours vêtue de toilettes
+opulentes qui jetaient dans l'esprit des poètes « l'image d'un ballet de
+fleurs ».</p>
+<p>tait autour d'elle comme de la lumière et du bonheur. » (Le second rang
+du Collier, Juven, édit.)</p>
+<p>M"* Sabatier connut les revers de fortune. Elle y fit face vaillamment
+et son fonds de gaîté n'on fut pas altéré. Les beaux jours revinrent Aie
+d'ailleurs avec sir Richard W...</p>
+<p>a M»' Jenny-Caroline Herbelot, née Thirecuir, dite Jenny Sabattier. »</p>
+<p>Elle avait échangé son nom de Thirecuir contre celui deSavatier, d'où
+Sabatier par euphonie. Elle repose au cimetière du Pèrc-Lachaise dans le
+tombeau de la famille Thirecuir.</p>
+<p>Alphonse Daudet qui l'a connue chez Mur Ancclot nous en parle dani? ses
+Trente ans de Paris.</p>
+<p>La turquoise était sa pierre de prédilection.</p>
+<p>En dehors des images d'elle que nous avons mentionnées, il nous reste un
+buste de Clésioger, introduit au Louvre récemment, et un marbre du même
+: la Femme au Serpent, aujourd'hui propriété de M. Jean de Gourmoiit.</p>
+<p><pb/></p>
+<p>ET LA RELIGION PU DANDYSME 53</p>
+<p>d'entrain trivial, bas, populacier, une « vivandière de Faunes ». En
+regard des vers de Baudelaire, cette affirmation nous gêne. On voudrait
+l'écarter, mais il faut bien avouer que Mme Sabatier a fourni à
+Glésinger l'idée de sa « bacchante ». C'est en bacchante qu'il l'a vue
+et qu'il l'a traduite aux splendeurs du marbre. Son oeuvre témoigne, du
+moins, de la sculpturale beauté du modèle que tout Paris reconnut,
+paraît-il, ce qui déchaîna, pendant huit jours, une fureur de
+commentaires passionnés aux environs de la Madeleine et du Passage des
+Panoramas. Et il y a aussi le portrait que Meissonnier nous a laissé
+d'elle. Nous y retrouvons sa « face mutine et enjouée où le rire joue
+comme un vent frais dans un ciel clair w.Nous sommes éblouis par ce
+jaillissement de santé qui vient des bras et des épaules ; nous y
+retrouvons « les couleurs retentissantes » de ses toilettes, ces robes
+folles, « emblème de son esprit bariolé *» ; mais le geste a quelque
+chose de trivial et de dégingandé. Ce poing sur la hanche trahit la
+vivandière. Il cadre mal avec l'idée que nous étions en train de nous
+faire d'une créature de rêve.</p>
+<p>La situation irrégulière de Mme Sabatier ne lui permettait pas d'être
+prude. Elle était habituée aux propos cyniques. Son amant Mosselmano,
+carré et brutal en affaires, se souciait peu des euphémismes</p>
+<p><pb/></p>
+<p>64 CHARLES BAUDBLAIRK</p>
+<p>Sur les débris fameux des slupides orgies.</p>
+<p>Elle fut longtemps son Idéal, sa Foi, son Refuge. C'est sous ce jour
+seul qu'il nous platt de l'accueillir.</p>
+<p>Elle avait fait sur lui, dès le premier jour, une impression profonde.
+Il l'aima sans oser se déclarer. Ce fut pour lui « la très belle, la
+très chère, la</p>
+<p><pb/></p>
+<p>ET Lk ftfcLîGION DU DANDYSME 55</p>
+<p>Daus la brute assoupie nu Ange se réveille,</p>
+<p><pb/></p>
+<p>50 CHARLES BAUDELAIRI</p>
+<p><pb/></p>
+<p>ET LA HRUOION DU DANDYSM8 67</p>
+<p>Ainsi l'aventure se termine par un procès-verbal de carence. Ici, Rops
+et Nadar ont raison. Reste Jeanne Duval. Voyons ce qu'il en fut.</p>
+<p>Pour dresser l'image de Jeanne Duval, la Vénus noire, toujours même
+incohérence des documents. Les uns nous disent que « c'était une
+négresse, d'un noir d'encre ». Ernest Prarond nous parle d'une
+mulâtresse pas très noire, pas très belle,cheveux noirs peu crépus,
+poitrine assez plate, de taille assez grande, marchant mal (i).
+Banville, au contraire, trace ce portrait :</p>
+<p><pb/></p>
+<p>58 C»AILES BAUDELAIRE</p>
+<p>C'était une fille de couleur, de trè* 'haute taille, qui portait bien sa
+tête ingénue et superbe, couronnée d'une chevelure violemment crépelée
+et dont la démarche de reine, pleine d'une grâce farouche, avait quelque
+chose de divin et de bestial.</p>
+<p>îl résume ainsi son jugement:</p>
+<p>Elle était belle, rien de Phidias, mais un spécial ra* goût raffiné —
+des yeux grands comme des soupières — nez petit, délicat, aux ailes et
+narines incisées avec finesse exquise — bouche admirablement meublée,
+d'un beau dessin, sérieux, fier, dédaigneux — nulle trace dô</p>
+<p>« Une femme étendue sur un canapé, dite la maîtresse de Baudelaire »
+avec cet. détails : « La femme qui devait être une créole avait été
+amenée dans l'atelier de Manet par Baudelaire et elte passait pour être
+sa maîtresse. &gt;</p>
+<p>« C'est tout ce que j'avais pu recueillir de renseignements au moment où
+je dressais mon catalogue, Manet n'étant plus là. Je vois maintenant que
+cette femme peinte par Manet était Jeanne Du val. Je me rappelle très
+bien le portrait. Ce n'était pa3 uue femme nègre si même une mulâtresse,
+mais elle était très brune et avait-une conformation laissant deviner
+une part de sang nègre. Ce devait être une quarteronne.</p>
+<p><pb/></p>
+<p>ET VA RELIGION DU DANDYSME 5Q</p>
+<p>ces dénonciations simiesquea qui poursuivent le sang de Cham (1).</p>
+<p>Jeanne Duval avait eu l'ambition des planches. Elle avait débuté au
+théâtre du Panthéon.</p>
+<p>(i) Nadar, Op. cit.</p>
+<p><pb/></p>
+<p>66 CHARLES BAUDELAIRE *</p>
+<p>On jouait un drame — je souligne, un drame — de Labiche : L'avocat
+Loubet, précédé d'un lever de rideau : Le Système de mon oncle. C'était
+une première ; la Presse avait été conviée.</p>
+<p>Toutefois, si elle n'avait pas brillé par le talent, elle avait eu le
+temps d'impressionner, par sa beauté étrange, un spectateur dont on ne
+nous dit pas le nom, que Nadar nous donne comme son ami et qui n'était
+peut-être que lui-même. Ce spec(i)</p>
+<p>i lieu qu'en i8'ia, àla belle saisou, et quand Baudelaire hr.bitait déjà</p>
+<p>[l'hôtel Piroodau.</p>
+<p><pb/></p>
+<p>( BT LA RKLIOIÔN DU DANDY8MK . " 6l</p>
+<p>tateur eut lo désir très vif de connaître « l'étrange déité, brune comme
+les nuits », et se présenta chez elle.</p>
+<p>Jeanne Duval demeurait alors rue Saint-Georges, i5 ou 17, en face
+l'hôtel Aubert, au 2e étage sur la cour. Son appartement modeste était
+élégamment tapissé de perse, « étoffe alors très en faveur ». Elle
+vivait seule en compagnie d'une femme de chambre, jolie, blonde.</p>
+<p><pb/></p>
+<p>6?J ' QHAflLES çAUPeLAIRE</p>
+<p>s'épuisait en rimailleries et, pour appuyer leurs dires» ces dames
+sortirent d'un tiroir une liasse de billets doux entremêlés de vers. Il
+suffit d'un siraw pie coup d*oeil au quidam, habitué des cénacles, pour
+se convaincre que le rêveur inoffensif, le doux maniaque,celui dont ces
+deux péronnelles se gaus* saient si fort, bien qu'elles tirassent leur
+bien-être de ses libéralités, c'était Baudelaire.</p>
+<p><pb/></p>
+<p>ET LA RELIGION DU DANDYSME ' 6$</p>
+<p>La Vénus noire l'a torturé de toutes les manières.Oh ! si vous saviez !
+Et que d'argent elle lai a dévoré ! Dans ses lettres, j'en ai une masse,
+je ne vois jamais un mot d'amour (Ï).</p>
+<p>L'ascendant de Jeanne Duval sur Baudelaire provient de ce qu'elle
+réalisait son idéal « fait de beauté et d'indifférence », auquel se
+mêlait un ragoût exotique, un piment de bizarrerie et d'étrangeté. Que
+cherchait-il près d'elle? D'abord une satisfaction plastique. Nous
+lisons dans son Journal :</p>
+<p>Tantôt, il lui demandait la permis ion de lui baiser la jambe et il
+profitait de la circonstance pour baiser cette belle jambe dans telle
+sition qu'elle dessinât nettement son contour sur le touchant.</p>
+<p>11 aimait manier sa chevelure, forêt aromatique, où dormaient</p>
+<p>La langoureuse Asie et la brûlante Afrique,</p>
+<p>(t) Eugène et Jacques Crepet : Charles Baudelaire (Messeiq),</p>
+<p><pb/></p>
+<p>• :-:t 6&amp;' , ; '■".' '•"'' CHARLES BAljDF.LÀIRE V &gt; ^;^fV</p>
+<p>qu'il avançait en âge et que l'ombre s'épaississait autour de lui.</p>
+<p>On sait que le roeu caressé de Baudelaire était de vivre auprès d'une
+maîtresse « comme un chai voluptueux auprès d'une reine ».</p>
+<p>J'eusse aimé, dit-il en parlant d'une géante, «voir son corps fleurir et
+grandir librement »,</p>
+<p>Et</p>
+<p>Ce n'est pas la le voeu d'un amant décidé. On n'imagine point le
+muletier de La Fontaine, se tenant au lit, près de sa partenaire,</p>
+<p>Comme au long d'un cadavre un cadavre étendu</p>
+<p>A la triste beauté dont son désir se prive.</p>
+<p>L'obsession d'une autre, c'est l'éternel prétexte que Baudelaire mettait
+en avant pour excuser sa froideur. On peut dire qu'il manquait tout au
+moins, dans ce domaine spécial, de tempérament. Sa débauche était toute
+cérébrale, et Jeanne Duval nous est une nouvelle preuve qu'il aimait
+respirer la fleur de l'Amour sans la cueillir. Etait-ce par impuissance,
+par « nihilisme spécial », comme le</p>
+<p><pb/></p>
+<p>&gt;:,i-' ;' ET LÀ RELIGION DU DANDYSME 65</p>
+<p>Amour 1 fléau du monde, exécrable folie 1</p>
+<p>C'est la bête féroce, ivre de carnage, traînant après soi, dans sa
+course furibonde,</p>
+<p>(i) Cette idée de réserve, d'abstention, de prudence est si naturelle à
+Baudelaire, si invétérée, qu'elle lui a inspiré le sonnet GIV des Fleurs
+du Mal, le meilleur incontestablement de toutes les pièces surajoutées :</p>
+<p>« Pendant que des mortels la multitude vile Sous le fouet du Plaisir, ce
+bourreau sans merci, Va cueillir des remords dans U fête s*;rvile, Ma
+douleur, donoe-moi la main ; viens par ici. » Ce qui prouve bien la
+sincérité de Baudelaire, c'est que ce sonnet, écrit en dernier lieu (il
+n'a paru que dans la 3« édition) jaillit d'un élan puissant d'avoir été
+longtemps contenu et médité et qu'il rend, aux heures de décrépitude du
+l'eète.l'éclio devenu si rare des be.-iux cliauts d'eul refois.</p>
+<p><pb/></p>
+<p>', 6ÔV , CâAftLES BÀUÛJÎtAinE</p>
+<p>une confusion De vêlements souillés, de blessures ouvertes Et l'appareil
+sanglant de la destruction.</p>
+<p><pb/></p>
+<p>ET LA RELIGION DU DANDYSME 67</p>
+<p>C'est dans l'acte le plus irréfléchi, le plus spon-. lané, que se saisit
+la présence et la rotation de la</p>
+<p><pb/></p>
+<p>J;6Ô;; &gt; CHARLES BAUDELAIRB. '* ^ ;'; Vf^t.</p>
+<p>Nous -savons bien que Baudelaire va tout résoudre dans le sens du dogme
+chrétien, mais nous restons frappés de l'audace de son entreprise. Il
+nous a montré que le sage pouvait, sans déchoir ni démériter, dénuder la
+vie et assister, sans rien perdre de son prestige ni de son austère
+gravité, aux réflexes de l'animal humain.</p>
+<p>Qu'il descende dans le labyrinthe fangeux des cités ou dans les replis
+secrets du coeur, le poète est comme le soleil :</p>
+<p>Il ennoblit le sort des choses les plus viles.</p>
+<p><pb/></p>
+<p>ET L\ RELIGION DU DANDYSME</p>
+<p>Le génie sanctifie toute chose et si ces objets étaient traités aveo le
+soin et le recueillement nécessaires, ils no seraient point souillés de
+cette obscénité révoltante qui est plutôt une fanfaronnade qu'une vérité...</p>
+<p>Leur grand défaut est de manquer de naïveté et de sincérité.</p>
+<p><pb/></p>
+<p>Le plus clair, c'est que Baudelaire ne nous a gratifiés d'aucune
+dépravation neuve. Analolo France nous en assure qui nous dit :</p>
+<p>1</p>
+<p>(t) Anatole France, La Vie littéraire (Calmaon-Lcvy, &amp;lit.).</p>
+<p><pb/></p>
+<p>KT &amp;A RELIGION DU DANDYSME f I</p>
+<p>Il est le Mane-Thecel-Phares qui s'inscrit aux murs du festin, et dresse
+dans un sursaut d'épouvante les convives gorges et repus. Il est celui
+qui jette l'alarme et qui, au moment où nous allions nous endormir,
+sonne le tocsin.</p>
+<p>Ceux qui habitent \CJ cimes glacées de l'Athéisme et que
+n'impressionnent plus ni les fracas de la chaire ni les diableries, ni
+la mise en scène et les pompes liturgiques, n'oublient pas, pourtant,
+que Baudelaire a payé de son désastre, comme Pascal, le geste téméraire
+de secouer les portes de l'Ombre et s'émeuvent encore do ses aveux
+désespérés.</p>
+<p>Baudelaire est si varié que les esprits les plus</p>
+<p><pb/></p>
+<p>%7a ' , * »' CHÀRLfcS BÀUbKLÏIJPlE</p>
+<p>dissemblables, s'ils l'abordent sans parti-pris, sont sûrs d'y trouver
+leur récompense. Il plaît « aux amoureux fervents comme aux savants
+austères ». S'il a les charmes de l'horreur qui n'enivrent que les
+forts, il a aussi le don des larmes et les attendrissements soudains qui
+vont droit au coeur et conquièrent les simples. 11 éblouit les
+néo-païens par la splendeur du Verbe et le rappel</p>
+<p>Les écrivains y reçoivent une leçon de style et de cadence. Il n'est pas
+jusqu'aux âmes innocentes qui n'y respirent un parfum d'églogue et qui
+n'y retrouvent l'image du « .vert paradis des amours enfantines ».</p>
+<p>On nous prédit, pour demain, un bouleversement général des idées et des
+moeurs amené par la guerre, et le rétablissement d'un état d'esprit
+auquel Baudelaire aura cessé de correspondre. Je le souhaite plus
+ardemment que tout autre, car nous aurions alors rétabli la félicité de
+l'Age d'or.</p>
+<p>Baudelaire vivra tant que l'humanité comptera des inquiets, des malades
+de spleen et des chercheurs d'infini. Son règne durera tant que nous
+verrons, plongées dans l'enfer luxurieux des villes, des âmes nobles
+mais désarmées, aussi incapables</p>
+<p><pb/></p>
+<p>ET LA RELIGION DU DANDYSME 73</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>BIBLIOGnAPFIlB</p>
+<p>LES OEUVRES</p>
+<p>Salon de 1845, critique, Paris, Labitte, i845. — Salon de 1846, Paris,
+Michel Lévy, IS/JC. — Philosophie de l'Ameublement, Alençon,
+Poulet-Malassis, i854. — Histoires extraordinaires, traduites d'Edgar
+Poe, Paris, Michel Lévy, i856. — Nouvelles histoires extraordinaires,
+Paris, iMichel Lévy, 1807. — Rouvière, étude crilique, Paris, librairie
+théâtrale, Gio livraison. — Les Fleurs du Mal, poésies, Alençoo,
+Poulet-Malassis, 1867. — Les Fleurs du Mal, poésies, 28 édition, Paris,
+Poulet-Malassis, 1861. — Complément aux Pleurs du Mal,
+poésies.condamnées, Bruxelles, i85g. —Aventures d'Arthur Gordon Pym,
+traduction, Paris, Michel Lévy, i858. — Théophile Gautier, étude
+critique, Paris, Poulet-Malassis, t85rt.</p>
+<p>— Les Paradis artificiels, Paris, Poulet-Malassis, t80o.</p>
+<p>— Richard Wagner et Tannhauser, Paris, Dentu, 18G1. — Eurêka, traduit
+d'Edgar POP, Pari», Michel Lévv, 18G/|. — Histoires grotesques et
+sérieuses, Paris, AIU chel Lévy, i805. — Les Epaves, Bruxelles,
+Poulet*Malassis, 186O. — Curiosités esthétiques, Paris, Michel Lévy,
+i?fi8. — L'Art romantiquo, Paris, Michel Lévy, 18G8.— OEuvres complètes,
+7 volumes, Paris, Michel Lévy, 18O8.</p>
+<p>— ÇBuvres posthumes, Paris, Queoliu, 1887. — Lettres, Paris, Mercure de
+France, 190G. — OEuvres posthumes, Paris, Mercure do France, 1908. — Le
+Spleen do Paris, poèmes en prose, Paris, Crè3, 1917. — Les Fleurs du
+Mal, édition revue sur les textes oiiginaux,accompagnéode notes ot do
+variantes, publiée par Van 13ever, Paris, Grès, 1917. — Douze poèmes do
+Gh. Baudelaire, publiés eu facsimilé, Paris, Grès, 1917. — Les Floura du
+Mal, Paris, Lcmerre, 1917. — Los Fleurs du Mal, Paris, La Renaissance du
+Livre, 1917. — Les Fleurs du Mal, Paris, L'Edition, 1917. — L03 Fleurs
+du Mal, Paris, llelleu, 1917.— Les Fleurs du Mal, Paris, Flammarion,
+1917. — Lettres inédites do Charles Baudelaire, Hcuuo de Paris,
+août-décembre, 1917.</p>
+<p><pb/></p>
+<p>76 CHARLES BAUDELAIRE</p>
+<p>A CONSULTER</p>
+<p>Guillaume Apollinaire. — Baudelaire dans le domaine public. Nord-Sud.,
+revue, i5 mai 1917.</p>
+<p>Charles Asselineau. — Baudelaire, sa vie, son oeuvre, 1869 (Lemerre,
+édit.).</p>
+<p>Barbey d'Aurevilly. — Lettre en appendice aux Fleurs du Mal.</p>
+<p>Théodore do Banville. — Mes souvenirs, 1882 (Charpentier).</p>
+<p>André Barre. — Le Symbolisme. Paris, 1912 (Jouve et C«c).</p>
+<p>Maurice Barrés. — Un Homme libre. Paria, 1912 (Créa).</p>
+<p>Louis Barthou. — Le Procès des Fleurs du Mal. Paris, 1917 (Maison du
+Livre).</p>
+<p>Henry Bataille. — écrits sur le théâtre. Paris, 1917 (Créa).</p>
+<p>Charles Baudelaire. —Lettres. — OEuvres posthumes (Mercure de France).</p>
+<p>Ange Bénigne. — Le Gaulois, 27 septembre 1886.</p>
+<p>Jules Bertaut et Alphonse Séché. — Ch. Baudelaire (Michaud).</p>
+<p>L. de Bonnières.— Mémoires d'Aujourd'hui (Ollendorff.)</p>
+<p>Paul Bourget. — Essais de Psychologie contemporaine (Lemerre).</p>
+<p>Ferdinand Brunetière. — La statue de Baudelaire. Revue des Deux Mondes,
+icr septembre 1892.</p>
+<p>Albert Cassagne. — Versification et métrique de Baudelaire, 1906
+(Hachette).</p>
+<p>Fernand Caussy. — Chronologie des Fleurs du Mal. Ermitage, i5 décembre
+1906.</p>
+<p>Champfletiry. —Souvenirs et portraits de jeûneuse, 1872 (Deniu).</p>
+<p>Charavay. — Vigny et Baudelaire, candidats h l'Académie, 1879 (Charavay).</p>
+<p>Jules Glaretie. — Le Journal, l\ septembre 1901.</p>
+<p>Henri Cordier. ■— Notules sur Ch. Baudelaire. Par/s 1900 (Leclerc).</p>
+<p><pb/></p>
+<p>ET LA RELIGION DU DANDYSME &lt;]J</p>
+<p>Charles Cousin. — Ch. Baudelaire,Souuenirs-correspondance, Paris, 1872.</p>
+<p>Eugène Crepet et Jacques Crepet. — Charles Baudelaire. Paris, 1907
+(Messein).</p>
+<p>A de Gustine. — Lettre. Appendice des Fleurs du Mal (Calmann-Lévy).</p>
+<p>Henry Dérieux. — La Plasticité de Baudelaire (Mercure de Fronce, ipr
+octobre 1917).</p>
+<p>Emile Deschamps. — Lettre. Appendice des Fleurs du Mal (Calmann-Lévy^.</p>
+<p>Maxime Du Camp. — Souvenirs littéraires. Paris (Hachetie).</p>
+<p>Dulamon. — Les Fleurs du Mal. Le Présent, a3 juillet 1857.</p>
+<p>Georges Duval. — H Evénement, 28 mars 1882.</p>
+<p>René Emery. — Quelques lettres inédites de Baudelaire (Mercure de
+France), 1er août 1917.</p>
+<p>Anatole France. — La Vie Littéraire, 1891 (CalniannLévy). t .</p>
+<p>X. Feyrnet. —Le Temps, i3 février 1869.</p>
+<p>Féli Gantier. — Ch. Baudelaire, 1908. La Plume.</p>
+<p>Judith Gautier. — Le collier des Jours. — Le second rang du Collier.
+Paris (Juven).</p>
+<p>Théophile Gautier. — Préface des Fleurs du Mal (Calmann-Lévy).</p>
+<p>André Gide. — Introduction aux Fleurs du Mal, 1917 (Helleu).</p>
+<p>Komy de Gourmont. — Promenades littéraires (Mercure de France).</p>
+<p>H. Hignard. — Ch. Baudelaire, sa vie, ses oeuvres. Revue des Lyonunis,
+juin 1892.</p>
+<p>Arthur Holitscher. — Ch. Baudelaire, 190/j. Berlin.</p>
+<p>Joris-Karl Huysmans. — A Rebours. Paris, 1884 (Charpentier).</p>
+<p>Arsène Houssayo. — Le Gaulois, 5 octobro 1897.</p>
+<p>G.-Jean Aubry. — Baudelaire et /Ion/leur, 1917 (Maison du Livre). —
+Baudelaire elSvoinbiirne, Mercure de France, novembre 1917.</p>
+<p>Maurice Kunel. — Baudelaire en Belgique (La Société Nouvelle), 1912.</p>
+<p><pb/></p>
+<p>^8 CHAMPS BAUDELAIRE "</p>
+<p>Dr M. Laffont. ~r- Causerie du bibliophile, 1901 (oeuvreâ et image)
+(Maison du Livre).</p>
+<p>La Fizelière et Décaux. — Essais de biographie contemporaine, 1868.</p>
+<p>Jules Laforgue. — Entretiens politiques et littéraires, 1892.</p>
+<p>Attoni Lange. — Ch. Baudelaire, 1890 (Varsovie),</p>
+<p>Leconté de Insle.— Revue européenne, 18G1.</p>
+<p>Jules Lemaître. — Les Contemporains, tome IV, 1889 (Leccne et Oudin).</p>
+<p>Julien Lemer. — Quelques autographes de Ch. Baudelaire. Le Livre, 10 mai
+1888.</p>
+<p>Jules Lepetit. — Notes sur Baudelaire. La Plume, juillet i893.</p>
+<p>Jules Levallois. — Mémoires d'un critique. Paris, 1896. Librairie
+illustrée.</p>
+<p>Loredan-Larchey.—Fragments de Souvenirs, 1901 (Le* clerc).</p>
+<p>André Mary. — Méditation sur Baudelaire. L'Ermitage, octobre 1903.</p>
+<p>Gilbert Maire. -- La Personnalité de Baudelaire et la critique
+biologique des Fleurs du Mal (Mercure de Franco).</p>
+<p>Camille Mauclair. — Ch. Baudelaire, sa vie, son oeuvre, sa légende.
+Paris, 1917 (Maison du Livre).</p>
+<p>Victor-Emile Michelct. —Figures d'évocalenrs. Paris, 1913 (Figuicic).</p>
+<p>Jean Moréas. — Paysages cl sentiments (Mercure de France).</p>
+<p>Nîuïar. •— Ch. Baudelaire intime. Paris, 1911 (Blaizol).</p>
+<p>Georges de Nouvion. —La famille de Ch. Baudelaire. Paria (Diuol).</p>
+<p>Anno Or.mon. — Le mouvement symboliste (Maison du Livre 1917)-</p>
+<p>Arthur Patterson. — Influenced'Edgar Poe sur Baudelaire. Thèse pour le
+doctorat d'Université présentée (levant la Faculté des lettres de
+Grenoble, 1903. Grenoble (Allier frères).</p>
+<p><pb/></p>
+<p>J ;,y ^" ET LA. RELIGION SU bÀNDVSME !" 79'</p>
+<p>Edmond Pilôh. ^- La Vogué) juillet igoo*</p>
+<p>Alfred Poizat. — Ch. Baudelaire. Le Correspondant, août 1917).</p>
+<p>Rastignac. — L'Illustration, 6 février 1886.</p>
+<p>Ernest Raynaud. — Baudelaire et Théophile Gautier (Mercure de France),
+i5 octobre 1917. — Le Cinquantenaire de Baudelaire (Maison du Livre), 1917.</p>
+<p>Henri de Régnier. — Baudelaire; Entreliens politiques et littéraires,
+février 190$.</p>
+<p>Georges Rency. — Physionomies littéraires, 1907, Bruxelles.</p>
+<p>Jacques Rivière. —Etudes, icfii. Paris, Nouvelle Revue française.</p>
+<p>Gaston Richart. — Ch. Baudelaire, l'homme, lé prosateur, le critique,
+son tombeau. (L'oeuvre et l'image). (Maisou du Livré).</p>
+<p>Geoi*ges Rodenbach. — Baudelaire. L'élite, 1899.</p>
+<p>Sainte-Beuve. — Lettre. Appendice des Fleurs du Mal.</p>
+<p>Scherer. — Eludes dé littérature contemporaine. Tome IV, iSGn.</p>
+<p>Spcelberch de Lovenjoul. —Lundis du Chercheur,i8g4 (Galmanii-Lévy).</p>
+<p>Maurice Spronck. — Les artistes littéraires, 1889.</p>
+<p>André Suarès. — Sur la vie, 1912.</p>
+<p>Swinburne. — Les Fleurs du Mal and olher sludies (éd. Edinuud Gosse).
+London, IQI3.</p>
+<p>Gaston SyfFert. — Portraits d'Hier. No du t5 juin 1909.</p>
+<p>Edouard Thierry. — Le Moniteur universel, i4 juillet i857.</p>
+<p>Maurice Tourneux. — Sept lettres inédites. Le Livre moderne, 10 nov. 1891.</p>
+<p>Milnes Turquet. •— The Influence of Baudelaire in France and Engljtnd,
+i&lt;&gt;Ï3. London (Cunstable).</p>
+<p>Ad. Van Bovor. — Les petits poèmes en prose. Paris, 1914 (Grès).</p>
+<p><pb/></p>
+<p>Fernànd "Vanderem.—Baudelaire et Sainte-Beuve. (Lé^i .-.;■'.. clerc)&gt;
+1917. '</p>
+<p>Camille Vergniol. — Cinquante ans après Baudelaire;-■</p>
+<p>Revue de Paris, i5 août 1917. Paul Verlaine. — OEuvres complètes
+(Messein). Georges Vicaire. — Manuel de l'Amateur de Livres. Le Tombeau
+de Charles Baudelaire. — La Plume, 1896.</p>
+<p>ICONOGRAPHIE</p>
+<p>Poitiers — Imp. 0. Hov, 7, rue Victor-Hugo.</p>
+    </div>
+    </body>
+  </text>
+</TEI>

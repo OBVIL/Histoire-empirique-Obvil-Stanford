@@ -1,0 +1,2728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Des Guerrois, Charles (1817-1916)">Charles Des Guerrois</author>
+<title>Études sur quelques-uns de nos vieux poètes. Vauquelin de La Fresnaye. Sainte-Marthe. N. Rapin. J. de La Péruse. Clotilde de Surville. Balthazar Bailly. Etienne d'Acier</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Des Guerrois, Charles (1817-1916)</author>, <title>Études sur quelques-uns de nos vieux poètes. Vauquelin de La Fresnaye. Sainte-Marthe. N. Rapin. J. de La Péruse. Clotilde de Surville. Balthazar Bailly. Etienne d'Acier</title>, <date>1923</date>,description :,292 pages
+</bibl>
+<publisher></publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k9613378g</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1923">1923</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>CHA-RLES DES GUERROIS V + -</p>
+<p>OEUVRES POSTHUMES</p>
+<p>ÉTUDES</p>
+<p>SUR</p>
+<p>QUELQUES-UNS de nos VIEUX POÈTES</p>
+<p>Vauquelin de la Fresnaye - Sainte-Marthe</p>
+<p>N. Rapin - J. de la Péruse - Clotilde de Sarville</p>
+<p>Balthazar Bailly - Estienne d'Acier</p>
+<p>PARIS</p>
+<p>ALPHONSE LEMERRE, ÉDITEUR</p>
+<p>27-31, PASSAGE CHOISEUL, 27-31</p>
+<p>MCMXXIV</p>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>ÉTUDES</p>
+<p>SUR</p>
+<p>JMÛMS DE NOS VIEUX POÈTES</p>
+<p><pb/></p>
+<p>EXTRAITS DU TESTAMENT</p>
+<p>DE</p>
+<p>M. CHARLES DES GUERROIS</p>
+<p>« Je désire que, lors de la publication de chaque Volume de « mes
+Œuvres, un exemplaire sur vergé de chaque Volume soit « envoyé aux
+Bibliothèques Nationales de Paris, Arsenal, « Mazarine, Sorbonne, et
+Saint-Pétersbourg, B*****, V*****, « M*****, Rome, Florence, Madrid,
+Lisbonne, Copenhague, « Stockholm, Christiania, Harvard (Collège
+Boston), naturellement a Troyes. — Ce désir est une prescription.</p>
+<p>« Je termine ici ce codicille</p>
+<p>« Charles DES GUERROIS. »</p>
+<p><pb/></p>
+<p>CHARLES DES GUERROIS</p>
+<p>ŒUVRES POSTHUMES</p>
+<p>ÉTUDES</p>
+<p>SUR</p>
+<p>QllffllM de nos VIEUX POÈTES</p>
+<p>Vauquelin de la Fresnaye - Sainte-Marthe</p>
+<p>N. Rapin - J. de la Péruse - Clotilde de Surville</p>
+<p>Balthazar Bailly - Étienne d'Acier</p>
+<p>PARIS</p>
+<p>ALPHONSE LEMERRE, ÉDITEUR</p>
+<p>27-31, PASSAGE CHOISEUL, 27-31</p>
+<p>MCMXXIII</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>ÉTUDES</p>
+<p>--</p>
+<p>SUR</p>
+<p>QUELQUES-UNS dE nos VIEUX POÈTES</p>
+<p>Vauquelin de la Fresnaye</p>
+<p>-- !~ 4!,~temps ne semble guère propice aux études de poésie,</p>
+<p><pb/></p>
+<p>la force militaire joint les ornements —. je ne dis pas le luxe — de la
+puissance intellectuelle. Il faut admirer l'Angleterre qui, au fort de
+sa grande lutte avec Napoléon, créait les poèmes de Wordsworth, le Madoc
+et le Thalaba de Southey, le Mar.mion de Scott, le Cbilde-Harold de
+Byron Campbell et Thomas Moore, Crabbe et Rogers, toute cette pléiade de
+l'orage, la Reine Mab de Shelley, la monumentale Histoire du Brésil de
+Southey encore, partout supérieur, inaugurait enfin la haute critique de
+Francis Jeffrey, fondait des grandes revues, la Quarterly et l'Edin- burgh.</p>
+<p>Nous qui ne sommes pas dans l'orage, qui n'y sommes, plus, créons si
+nous pouvons, réunissons du moins dans notre main comme en un faisceau
+toutes les gloires du pays, tout ce qui dans les siècles écoulés nous
+est, encouragement et conseil salutaire.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>0 Vent plaisant qui d'haleine odorante.</p>
+<p>1</p>
+<p><pb/></p>
+<p>belle Vénus et de ses sourires, de Silène quelquefois et de Priape. En
+leurs plus heureux jours ils composaient le délicieux petit poème :</p>
+<p>Avril, l'honneur et des bois</p>
+<p>Et des mois,</p>
+<p>le sonnet incomparable :</p>
+<p>Heureux qui comme Ulysse a fait un beau voyage,</p>
+<p>le roi des sonnets, même avant celui de Ronsard dont Bé- ranger s'est
+souvenu dans sa chanson de la Bonne Vieille :</p>
+<p>A ces heureux jours encore, ils écrivaient d'une plume d'or, d'une plume
+de rossignol chanteur plutôt, la délicate pièce où refleurissent toutes
+les grâces d'Anacréon :</p>
+<p>Mignonne, allons voir si la rose,</p>
+<p>ou cette vive apostrophe d'un vanneur de blé aux vents (du Bellay) : - -</p>
+<p>A vous, troupe légère,</p>
+<p>Qui d'aile passagère</p>
+<p>Par le monde volez ;</p>
+<p>le joli sonnet encore, où Baïf compare l'amoureux au chasseur :</p>
+<p>L'amoureux est chasseur, l'amour est une chasse ;</p>
+<p>ils allaient avec Jacques Amyot, un évêque, un précepteur</p>
+<p><pb/></p>
+<p>des rois, visiter Mytilène et faire offrande aux Nymphes ; puis, aux
+jours où l'esprit impétueux et païen avec redoublement s'emparait d'eux,
+ils célébraient dans une orgie digne des beaux temps de la décadence
+romaine, sans les horreurs pourtant qu'on leur a reprochées, la fête du
+bouc; ils jetaient sur le papier l'épigramme si joliment libertine :</p>
+<p>Je t'apporte, ô Sommeil, du vin de quatre années,</p>
+<p>Du lait, des pavots noirs aux têtes couronnées (i) ;</p>
+<p>Voyez de loin Pan qui guette</p>
+<p>Cette pauvre Driadette,</p>
+<p>Voyez ce perce-forest</p>
+<p>Qui veut forcer la Nymfete</p>
+<p>Dans le chesne, et la povrette</p>
+<p>Et la Nymfe il tient debout ;</p>
+<p>Tortissant ses jambes croches,</p>
+<p>De si près fait ses approches,</p>
+<p>(x) Cette épigramme est traduite du latin de Jérôme Amalthée (Delicia CC
+Poita- rumltal. a Ramulio Ghero collecta. T. i, p. 71), Sainte-Beuve,
+qui se plaisait à- répéter l'épigramme de des Portes, n'en a pas connu
+l'origine.</p>
+<p><pb/></p>
+<p>De qui sont-ils donc ces vers, jolis comme un vase grec, fermes comme un
+bas-relief antique taillé dans le marbre de Paros ? Ils sont de
+Vauquelin de la Fresnaye lui-même, de celui qui un jour portera dans la
+satire morale des touches si vigoureuses. Ce passage appartient aux
+Foresteries et marque le point de départ de la carrière poétique que
+l'écrivain normand doit parcourir avec honneur.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Capitaines portoient gonfanons et banières</p>
+<p>En passant l'Occéan, quand leur grand duc Normant Alla contre l'Anglais
+tous ses sujets armant.</p>
+<p><pb/></p>
+<p>Baïf et Ronsard, il connaît surtout et honore du Bellay — il les
+connaît, mais de loin tout d'abord et plutôt dans leurs vers : de ces
+grands personnages abrités sous leur gloire n'approchaient guère les
+écoliers normands.</p>
+<p><pb/></p>
+<p>(1) Il l'a détaché aussi et publié en un volume séparé. Il y a encore
+une autre réimpression des Foresteries, petit in-go, Caein, de
+Gost-Cléi-isse. La premiére, celle de M. Travers, est bien préférable.</p>
+<p><pb/></p>
+<p>Penche ton fête, écoute bourdonner</p>
+<p>Le bruit qu'ell' veut en ton ombre entonner :</p>
+<p>Oi ma Thalie encommençant première</p>
+<p>Dedans des bois se faire forestière</p>
+<p>Qui ne dédoigne habiter les Forests,</p>
+<p>Les sauvageux, ni les pleureux cyprès.</p>
+<p>Quand je voulois aux armes foudroyantes</p>
+<p>Enfler mes vers de bombarbes tonnantes,</p>
+<p>Le Cynthien l'oreille me tire,</p>
+<p>Aimant mon bien, aux bois me retire.</p>
+<p>D'œil arresté ton Forestier regarde,</p>
+<p>Ton Forestier sacré,</p>
+<p>Folastre sans mégarde,</p>
+<p>Car au vent de sa voix</p>
+<p>Il fait plier les bois.</p>
+<p>Admirable trait, ces deux derniers vers !</p>
+<p><pb/></p>
+<p>Trois périodes vont remplir sa vie, auxquelles corres-:</p>
+<p><pb/></p>
+<p>II</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Toi, Philanon, pourquoy peu sage</p>
+<p>Veux-tu suivre ce beau visage</p>
+<p>Qui te fuit ? Tu fuis sans amour</p>
+<p>Chloris qui te suit tout le jour,</p>
+<p>Chlôris qui belle et riche t'aime,</p>
+<p>Comme Philis te hait de même ? (Idill. I2e)</p>
+<p>L'amour de Philanon devient importun, et Philis le quitte tout net,
+Philis s'éloigue. Cette séparation devient l'occasion d'une très belle
+pièce (Id. 16e) :</p>
+<p>Puisque Philis a Philanon quitté</p>
+<p>Adieu, Philis, ton âge qui croistra</p>
+<p>Peut-être un jour ta faute connaistra :</p>
+<p>Adieu, bergère, adieu, jeune Philine,</p>
+<p>De qui me perd la colère enfantine ;</p>
+<p>Je t'ay monstré, non pas dit mon secret :</p>
+<p>Adieu, l'ombrage, adieu povre fontaine .............</p>
+<p><pb/></p>
+<p>Quand de nos jeux vous vous ressouviendrez,</p>
+<p>Je croy, Philis, qu'encor vous me plaindrez ..............</p>
+<p>Nymphes, adieu, satyres bocagers,</p>
+<p>Adieu vous dis ; adieu, gentils bergers,</p>
+<p>Adieu, rivière, adieu, plaisants rivages,</p>
+<p>Adieu, ruisseaux, adieu, déserts sauvages, Souvenez-vous de votre
+Philanon. ............</p>
+<p>Au moins, rivière en haute mer courante,</p>
+<p>Que ses ennuis vous alliez murmurante ;</p>
+<p>Adieu, beaux lieux où il se pourmenoit,</p>
+<p>Où les toreaux vainqueurs il couronnoit.</p>
+<p>Adieu, bocage, adieu, prés, adieu, vaux,</p>
+<p>Adieu, rochers, adieu, monts et cousteaux,</p>
+<p>Où j'ay passé tant de jours en liesse</p>
+<p>Avec Philis, ma petite déesse.</p>
+<p>Si désormais tu ne crois mon amour,</p>
+<p>De ces rochers tu l'apprendras un jour :</p>
+<p>Et ces rochers, ces bois où je soupire</p>
+<p>Te diront bien ce que je n'ose dire.</p>
+<p><pb/></p>
+<p>Mais las revien, en ton coeur ramentoy</p>
+<p>Que les forests me déplaisoient sans toy.</p>
+<p>Revien icy, de moy ne te lamentes,</p>
+<p>Tu es mon cœur, c'est moy que tu tourmentes.</p>
+<p>Et les pommettes jumelles</p>
+<p>• Qui grossissoient au respir</p>
+<p>Du doux vent de son souspir.</p>
+<p><pb/></p>
+<p>Comme une vigne nouvelle</p>
+<p>Qu'on entoure au jeune ormeau,</p>
+<p>Lors le jeune pastoureau</p>
+<p>Se joignit avecques elle :</p>
+<p>Les herbes rioient autour</p>
+<p>De ceste charge d'amour (Idill. 36).</p>
+<p>Elles sont si aimables, ces idyllies, qu'en vain voudrait- on se montrer
+rigoureux envers le poète qui oublie si facilement son mariage d'hier,
+son heureux mariage :</p>
+<p>Si douce est la saison Où moins nous connaissons le fond de la raison.</p>
+<p>Dryden n'a qu'une seule pièce qu'on puisse dire en sa grâce comparable à
+ces jolies imagetes, c'est le rondeau Chloé et Amyntas ; Prior n'en a
+pas. C'est chez les poètes du temps d'Élisabeth et du demi-siècle
+suivant qu'il faut chercher ces choses charmantes, chez sir John
+Suckling, chez Robert Herrick.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>III</p>
+<p><pb/></p>
+<p>Comme elles sont construites et basties,</p>
+<p>L'âme commande en haut du bastiment,</p>
+<p><pb/></p>
+<p>Et nostre Roy, imitant la Nature,</p>
+<p>De son royaume a pris ainsi la cure,</p>
+<p>Le régissant sous son autorité,</p>
+<p>Comme on ferait une simple cité.</p>
+<p>Il en est l'âme, et nous autres nous sommes</p>
+<p>Le corps basti d'un nombre infini d'hommes.</p>
+<p>.... Ce bon Dieu a voulu l'homme faire</p>
+<p>Pour luy, afin qu'en l'homme oh le révère</p>
+<p>Par un Monarque, et pour l'homme a dressé</p>
+<p>Cet Univers en nombre compassé.</p>
+<p>Et le Monarq' qui voudra de la France</p>
+<p>Ne contemner la secrète influence</p>
+<p>Unissons-nous, conclut le politique poète en deux vers assez fermes et
+précis,</p>
+<p>Unissons-nous, une puissance unie</p>
+<p>Bien aisément par un seul se manie.</p>
+<p>Avouons-le : de ce petit poème où pour la première fois le légiste
+normand s'essayait aux sujets sérieux, la forme</p>
+<p><pb/></p>
+<p>est bien imparfaite, bien hésitante ; le poète cherche souvent
+l'expression, la tournure, sans la trouver. Il y arrivera un jour, par
+moments du moins, et comme par d'heureux accidents qui se prolongent
+parfois, mais qui ne durent pas : Vauquelin n'est point un Regnier, il
+n'est point un Malherbe ou un Despréaux, mais tous il les prépare ; il
+déblaie pour eux le terrain où se doivent élever les monuments
+impérissables de notre langue française.</p>
+<p><pb/></p>
+<p>la statue, entreprise et taillée d'un ciseau ferme et qui force le
+marbre d'obéir, n'est pas achevée : le sculpteur s'est oublié, est resté
+en chemin.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>il pas venu après les terribles bouleversements du seizième siècle,
+après les horreurs des guerres religieuses, après les grands troubles de
+la Ligue ? Les élégances de la Restauration, avec son grand effort de
+poésie et d'art, ne se sont-elles pas produites après le chaos sanglant,
+mais fécond, de la Révolution ? Grande raison d'espérer dans la vie des
+peuples, qui est longue, et a bien des retours.</p>
+<p>J'ai insisté sur ce point, parce qu'il nous fournit la claire et
+complète explication du poète que nous étudions, et en particulier de
+son Art poétique.</p>
+<p><pb/></p>
+<p>L'Art poétique de Vauquelin n'a pas, d'un autre côté, la chaleur
+communicative qui règne dans la Défense et Illustration de la Langue
+Française, le vrai art poétique du seizième siècle et de la Pléiade,
+code immortel, plein du mouvement novateur et rénovateur, bon conseiller
+de hardiesse et d'élans vers l'avenir — l'avenir de demain, réalisé à
+mesure — bon conseiller aussi de retours intelligents vers le grand
+passé tel que l'a fait l'Antiquité, l'Antiquité grecque surtout,
+l'Antiquité telle qu'elle est dans</p>
+<p><pb/></p>
+<p>Homère et Pindare d'une part, dans Anacréon et l'Anthologie d'autre part.</p>
+<p>(1) Je composay cet Art pour donner aux François, Quand vous, Sire,
+quittant le parler Polonois, Voulustes, reposant dessous le bel ombrage
+De vos lauriers gagnés, polir vostre langage, Ouïr parler;des vers parmi
+le doux loisir</p>
+<p>De ces cloistres dévots où vous prenez plaisir.</p>
+<p><pb/></p>
+<p>Ils sonnoient, ils chantoient, ils balloient sous leur rime.
+................... Les trouvères alloient par toutes les provinces</p>
+<p>Sonner, chanter, danser leurs rimes chez les princes.</p>
+<p>(1) Byron qui se souvient d'Eton avec rancune ne déclare-t-il pas au
+temps de sa plus haute poésie, au temps de Childe-Harold, qti'il avilit
+Horate en haine et mépris — aven hardi, permis au seul Byron. Southey en
+penserait bien alitant, mais il ne le dit pas.</p>
+<p>(2) Vauquelin de la Fresnaye lui-méme avait entrepris une Israe7ide :
+nous n'en avons que cinquante vers insérés dans son Art poétique.</p>
+<p><pb/></p>
+<p>... Ce qui d'un costé n'estoit rien que marets,</p>
+<p>Et qui d'un autre endroit n'estoit rien que forests,</p>
+<p>Est fendu sous le soc, devenu champ fertille</p>
+<p>Des blonds cheveux que tord la dent de la faucille.</p>
+<p>Boileau, l'élégant et sage Boileau, n a pas, il faut en convenir, de ces
+bonheurs d'impression, ou il en a rarement.</p>
+<p>Qui veut trop curieux une langue traduire,</p>
+<p>Veut la langue estrangère et la sienne destruire :</p>
+<p>Ce qui proprement est au langage ancien,</p>
+<p>Il le faut proprement dire au langage sien.</p>
+<p><pb/></p>
+<p>Il faut monter aux cieux sur l'aile du penser,</p>
+<p>dit Vauquelin dans un des plus admirables vers qui aient bondi de
+l'intelligence sur le papier.</p>
+<p>V</p>
+<p><pb/></p>
+<p>douce, ne redoutant ni les contes ni le mot facétieux alternant avec la
+sentence ; il y admet très bien le ton aisé d'une conversation copieuse
+où chacun dit son avis librement et sans honte, sur toute chose ; il
+ajoute un des vers dont Despréaux pourrait bien s'être souvenu tont en
+en faisant une autre application :</p>
+<p>Comme la dame honneste aux dimanches chommés Se trouve quelquefois aux
+banquets d'elle aimés,</p>
+<p>De courtoise montrer un grave et joyeux geste :</p>
+<p>Ainsi doit la satyre, en sornettes riant,</p>
+<p>La douce gravité n'aller point oubliant,</p>
+<p>Estant et de plaisir et d'honnesteté pleine</p>
+<p>Comme la belle Grecque et la chaste Romaine.</p>
+<p><pb/></p>
+<p>Nous avions eu des satires avant Vauquelin, des satires portant même
+parfois conseil de vertu et d'honneur ; mais ce ton de gravité ferme et
+soutenu dans l'admonestation</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>dans ses ennuis et tracas de la cour romaine, sont de courtes et vives
+satires. Jean de la Taille, autre poète de moindre note, mais non sans
+mérite, avait prêté un langage piquant a son vieux courtisan retiré.
+Ronsard aussi, dans ses Dialogues sur les Misères du temps, préludait à
+ces superbes et terribles Tragiques d'Agrippa d'Aubigné. Pourquoi
+faut-il qu'un ami, un compagnon de Ronsard, dans des vers furieux,
+et,-comme dirait Montaigne, « enragés », ait fait (voir le hideux sonnet
+sur Coligny, victime d'hier, encore chaude sur le pavé : Gaspar, tu dors
+ici), l'éloge de la Saint- Barthélemy, et ajouté encore au meurtre qui
+était l'ouvrage des politiques, l'outrage qui ne devrait pas être
+l'œuvre des poètes ?</p>
+<p>en son miel satyrique</p>
+<p>Réserve un aiguillon dont le vice elle pique.</p>
+<p><pb/></p>
+<p>Plus il avance dans la vie, plus il a désir en effet de se séparer du
+vulgaire, il veut n'avoir plus souci, le sage président,</p>
+<p>Que des vers, des vertus, et des Muses aussi.</p>
+<p><pb/></p>
+<p>Les vaches, les toreaux et le troupeau qui bèle ;</p>
+<p>Et puis d'autre costé galoper le haras,</p>
+<p>Et voir les bœufs ayant achevé leur journée Ramener la charrue à
+l'envers retournée !</p>
+<p>Quand il revient, l'heureux châtelain, chargé du gibier de ses bois, du
+poisson de ses étangs,</p>
+<p>Sa femme l'accolant l'admire et le chérit,</p>
+<p>Tous les siens en ont joie et le ciel même en rit.</p>
+<p><pb/></p>
+<p>Que le bon sens, et pourquoi tant m'agrée Auprès de Caen la Normandie
+contrée :</p>
+<p>Et cela fait que nos lieux me sont or,</p>
+<p>Ma cour, mon Louvre. et mon palais encor.</p>
+<p>/</p>
+<p><pb/></p>
+<p>On ne voit point venir la vieillesse chenue,</p>
+<p>Mais on est esbahi qu'on la trouve venue,</p>
+<p>Et que sans y penser on voit d'un œil marry</p>
+<p>Desja de tous costés son chef estre fleuri.</p>
+<p>Ah ! s'écrie-t-il,</p>
+<p>Ah ! que j'ay de regret qu'en ma jeunesse pleine Je ne savouray pas la
+liesse soudaine</p>
+<p>Que l'âge m'apportait !</p>
+<p><pb/></p>
+<p>d'alambiquer votre âme,</p>
+<p>Pour bruslant nuit et jour la distiller en flamme, non, mais sachez dès
+la jeunesse vous faire une habitude d'aimer les Muses et l'étude.
+Surtout, amis, ne cultivez . jamais le savoir en vue d'en faire une
+source de profit et de richesse : vous serez riches assez, si vous avez
+su conquérir les vertus et la sagesse. Toi, Guillaume, mon fils, qui
+reviens de Poitiers (Poitiers, Vauquelin se souvient que lui aussi y a
+eu ses gaietés, ses oublis),</p>
+<p>Tu n'as pas cheminé par de plus beaux sentiers</p>
+<p>La malice du siècle, et Mars tout débauché</p>
+<p>T'a comme l'un des siens en son estat couché.</p>
+<p>Mais ce seroit ton heur, si d'une âme prudente</p>
+<p>Tu suivois la déesse et guerrière et sçavante :</p>
+<p>C'est le meilleur d'avoir en la jeune saison,</p>
+<p>Des armes pour les champs, des arts pour la maison.</p>
+<p>0 France corrompue, ô misérable terre,</p>
+<p>Qui desja dans la paix va recherchant la guerre !</p>
+<p><pb/></p>
+<p>Vois-tu point que les Rois sont gardés du Destin,</p>
+<p>Qui dedans son malheur fait périr le mutin ?</p>
+<p>Ah ! qui se pourrait taire en voyant l'arrogance</p>
+<p>Des jeunes indiscrets gourmander nostre France ?</p>
+<p>Et pour un téméraire, un fat, un effronté,</p>
+<p>De vil et bas estat aux hauts estats monté ?</p>
+<p>Et voir l'homme d'honneur (dont la belle âme ornée De cent mille vertus
+dust estre guerdonnée</p>
+<p>Selon son grand mérite) estre au loin déjeté</p>
+<p>Pour ce que juste il a conseillé vérité ?</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>enfin, qui sous le nom de Satires a plutôt dressé une suite de pointes
+acérées et brillantées.</p>
+<p>Avec nos trois ou quatre satiriques, nous pouvons affronter la comparaison.</p>
+<p>La vraie gloire de Vauquelin de la Fresnaye, ce sont ses cinq livres de
+satires (ensemble trente-cinq satires, si j'ai bien compté, sans
+comprendre dans le nombre diverses pièces entremêlées aux satires). Il
+s'est essayé aussi aux sonnets, et il en a laissé un certain nombre ;
+mais cette gloire lui avait été d'avance ravie par ses maîtres de la
+Pléiade. Cependant on en pourrait citer deux ou trois fort beaux, celui
+qui commence : Amour m'emplume l'aile, imité de Pétrarque, et cet autre
+plus beau encore où il ne s'est inspiré que de lui-même :</p>
+<p>0 vent plaisant qui d'haleine odorante ;</p>
+<p>et puis deux admirables sonnets pleins d'une douleur immense sur la
+France envahie, pillée et ravagée par les Allemands. Le cœur saigne en
+les lisant, ces sonnets : ont-ils deux ou trois siècles ? Sont-ils notre
+histoire de 1870? Voici qu'horriblement — Du paresseux sommeil (les
+Sonnets 72e et 73e). Je ne les trancris pas, ils réveillent des
+souvenirs trop poignants et trop récents encore. Mais il faut les aller
+chercher dans le Tome deuxième des Diverses Poésies.</p>
+<p>Passerat aussi, dans ces jours sombres des invasions et de la Ligue, a
+sa malédiction contre les reîtres et lansquenets, mais il l'a moins
+tragique :</p>
+<p><pb/></p>
+<p>Empistolés au visage noirci,</p>
+<p>Diables du Rhin, n'approchez point d'ici.</p>
+<p>(Pour sa Maison de Bagnolet, Edit. de 1606, p. 150).</p>
+<p><pb/></p>
+<p>pour tous, nous surveillant dans nos divisions meurtrières, plus
+meurtrières que le canon Krupp et le fusil Dreyse.</p>
+<p>V</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ric-à-ric voulant prendre</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ainsi s'accomplissait dans la poésie, dans les fonctions de
+magistrature, dans les douceurs de la vie des champs, tempérant les
+tracas de la vie urbaine, la destinée de Vau- quelin de la Fresnaye :
+les généreuses études, le zèle qui les soutient, les protège et les
+anime, vont bien a la dignité du magistrat, toute l'existence de
+celui-ci en est la vivante</p>
+<p><pb/></p>
+<p>Une grande révolution littéraire s'était accomplie dans cet intervalle,
+sans bruit du reste et d'un train presque insensible. Le règne de la
+Pléiade que Vauquelin avait trouvée dans sa gloire lors de ses débuts,
+était alors sur son déclin : après avoir donné les odes de Ronsard, les
+sonnets de du Bellay, les rhythmes variés de Baïf, les compositions
+anacréontiques de Belleau, les tentatives dramatiques de Jodelle,
+partout novatrice, hardie, entreprenante, portant dans notre poésie le
+mouvement et l'art savant qui lui avaient un peu manqué jusque là,
+conquérant et s'appro- priant les riches dépouilles de l'Antiquité, elle
+allait, épuisée dès lors, transmettre son héritage aux mains gracieuses,
+mais faiblissantes de des Portes, dont le rude Malherbe va demain biffer
+les aimables poèmes, sans même épargner la jolie chanson : 0 Nuit,
+jalouse nuit, ni les vers délicieux :</p>
+<p>De l'aimable Cypris, ô lumière dorée,</p>
+<p><pb/></p>
+<p>0 bienheureux qui peut passer sa vie</p>
+<p>Entre les siens, franc de haine et d'envie, (i)</p>
+<p>(1) Racan :</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1880.</p>
+<p><pb/></p>
+<p>Scévole de Sainte-Marthe (1) 1 ou le Poète-Trésorier</p>
+<p>Tel est le nom de Scévole de Sainte-Marthe, poète, historien, orateur,
+politique, savant, et par dessus tout, grand homme de bien, ami et
+serviteur de son pays, toujours fidèle au devoir, dans un temps où il
+était souvent difficile, parmi la tourmente des passions ou
+l'effervescence des partis, de reconnaître où était le devoir.</p>
+<p><pb/></p>
+<p>Scévole, ami des Muses que je sers,</p>
+<p>Icy je t'offre, au lieu de tes beaux vers,</p>
+<p><pb/></p>
+<p>Un froid discours, larron de ta louange ;</p>
+<p>Tu n'es premier qui te trompes au change ; Glauque jadis s'y déceut
+avant toy ;</p>
+<p>Et toutefois pren ce présent de moy,</p>
+<p>Pour tesmoigner d'une encre perdurable,</p>
+<p><pb/></p>
+<p>Ipsae etiam Alpinis villosas in montibus ursæ.</p>
+<p>Hallam dit qu'il a pris un peu au hasard ; et en effet il aurait pu
+choisir mieux. Il met, du reste, avec raison la Padotrophie bien au
+dessus du poème de Claude Quillet, la Callipédie, où le sujet traité
+dans le premier est effleuré aussi en quelques passages.</p>
+<p>Je ne vois pas que Sainte-Marthe figure dans l'Histoire universelle du
+président de Thou, il y serait peut-être nommé en passant, cela m'a
+échappé ; en tout cas il n'y a point d'article important, car il n'est
+pas parmi les hommes illustres dont Antoine Tessier a recueilli et
+traduit en français les éloges tirés des pages de cette grande Histoire.
+Un assez grand nombre de lettres d'Étienne Pasquier sont adressées au
+trésorier Poitevin ; mais quoiqu'il y en ait -de fort intéressantes — je
+citerai la 2e lettre du Liv. xi, récit de la noble action de M. de
+Ramefort fait prisonnier par le duc de Guise et refusant d'être échangé,
+et la lettre x du Liv. xiv, récit émouvant de la bataille d'Ivry — elles
+ne nous apprennent rien de particulier sur Sainte-Marthe.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>La poésie est une maîtresse sévère qui ne souffre pas de partage. Permis
+aux vieux généraux, aux magistrats émé-</p>
+<p><pb/></p>
+<p>En somme, il faut bien le dire, la question n'est pas la même au
+seizième siècle que de nos jours. De nos jours, la formule est
+Exclusivement poète, ou rien. Au seizième siècle, non. Ce temps a une
+allure si large, si rapide, une</p>
+<p><pb/></p>
+<p>puissance si prodigieuse, qu'il emporte hommes et choses dans un
+mouvement où tout se mêle, se pénètre, se précipite réciproquement.-La
+passion qui communique ses excitations aux affaires soutient et élève ;
+le poète n'est pas amoindri par l'homme d'État, par le politique, par le
+soldat : Voyez d'Aubigné. Moins mêlé aux guerres civiles, d'Aubigné
+n'eût pas fait les Tragiques, ou du moins il ne les eût pas faits ce
+qu'ils sont. Et puis le formalisme au seizième siècle est moins grand,
+moins absorbant que de nos jours, la manie paperassière moins développée
+; le bien public toujours présent donne aux âmes un ton d'élévation et
+porte naturellement celles qui ont le don en elles jusqu'aux sphères de
+la poésie.</p>
+<p>(1) Voir Perrault, Hommes illustres.</p>
+<p><pb/></p>
+<p>de quelques oraisons funèbres de princes qui l'avaient honoré de leur
+bienveillance, auteur aussi de quelques poésies françaises et latines ;
+son père enfin, Louis de Sainte-Marthe, procureur du roi au siège de
+Loudun, est un magistrat honoré. L'illustration était aussi dans sa
+famille maternelle, et tout près de lui son oncle, René Favre, était
+procureur-général au parlement de Paris.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le vieil écrivain La Rochemaillet qui a composé la Vie de Sainte-Marthe,
+dit également, dans un style plus pitto-, resque que celui du bon abbé
+Goujet : « Tous ces illustres personnages avaient sa fréquentation
+infiniment agréable, par laquelle et par sa candeur de mœurs il se
+conciliait les affections et les cœurs d'un chacun; des grands, par
+l'éclat de sa réputation et de ses vertus; de ses semblables, par les
+charmes des douceurs de sa conversation et de sa doctrine ; des
+moindres, par son affabilité incomparable, luy déférant l'honneur et la
+vénération que l'on doit rendre aux vertueux, et qui sont eslevez par
+dessus le commun des hommes. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>cères pour avoir la grâce que nous voudrions y chercher. Le malin
+Passerat avait bien raison de s'en défier quand il disait :</p>
+<p>Amis, de mauvais vers ne chargez point ma cendre.</p>
+<p>Vous n'attendez pas de moi, Messieurs, que je vous raconte en détail la
+vie de Sainte-Marthe c'est le poète surtout qui doit faire l'objet de
+cette étude : il me suffira de marquer par ses traits principaux cette
+existence toute dévouée au bien public.</p>
+<p>En 1571, nous voyons Sainte-Marthe acheter une charge</p>
+<p><pb/></p>
+<p>Malgré cette opposition, Henri III sentait, savait bien qu'il possédait
+un ami dévoué, un ami sûr dans Sainte- Marthe. Jamais en effet celui-ci
+n'a dévié de la voie que lui indiquaient la raison et le devoir. Comme
+tous les gens de cœur chez qui l'ambition n'étouffait pas les vues
+saines de l'intelligence, il se montra un adversaire déclaré de la Ligue
+; il fut un de ceux qui sous le nom de politiques, surent par leur
+sagacité prévoyante, disons mieux, par leur sagesse heureuse, préparer
+l'avènement, assurer la royauté du grand, de l'admirable roi Henri IV,
+le politique par excellence. M. Guizot n'a-t-il pas dit du parti des poli-</p>
+<p><pb/></p>
+<p>Ces cinq ou six années si remplies de désordres et de désastres,
+Sainte-Marthe les passa dans une sorte d'exil</p>
+<p><pb/></p>
+<p>Le sacrifice le plus pénible au milieu de ces troubles et
+bouleversements n'est pas celui du repos et de la fortune, c'est celui
+des travaux de l'esprit, des études si chères qui seraient encore une
+consolation s'il était permis de s'y livrer, si le devoir n'en
+détournait pas.</p>
+<p>Dès l'année 1569, Sainte-Marthe avait publié chez Fédéric Morel un
+volume de Premières Œuvres (1). Il fut dès lors évident que ce nouveau
+venu ne serait que de loin un émule des poètes de la Pléiade. Il avouera
+lui-même que « de tout temps il avait été plus studieux de la poésie
+latine que de la française )). On peut juger par les poésies latines de
+l'édition Mamert Patisson (1579), que ce suivant</p>
+<p><pb/></p>
+<p>incomplet de Ronsard marquerait sa place parmi les meilleurs poètes
+latins modernes.</p>
+<p><pb/></p>
+<p>exactement. Les royales munificences n'étaient souvent qu'un chiffon de
+papier.</p>
+<p>Payée ou non par le trésorier, il y a de bien beaux passages dans la
+PædotroPhie. Je ne citerai que celui-ci, qui rappelle la page sublime de
+Pline l'ancien, où il rend d'une manière si poignante la misère de
+l'homme : Nudus in nuda. Le passage de Sainte-Marthe auquel je fais
+allusion appartient au livre 2 (p. 27, éd. Villery) :</p>
+<p>Ah ! quantos animi, quantos et corporis æstus, Parve, feres !</p>
+<p>La Pœdotrophie, ensemble d'excellents préceptes, tout pratiques,
+exprimés en un style qui a de l'ampleur et qui par moments s'empreint de
+graves douceurs, peut se lire encore avec plaisir (1). Outre ce poème,
+qui demeure son titre en langue morte, Sainte-Marthe a composé un grand</p>
+<p>(1) Ce poème a été traduit deux fois en français, par Abel de
+Sainte-Marthe, fils de l'auteur, en 1698, in-8°, et en 1777, in-12,
+Paris, Barrois, par un anonyme. Il a de plus été traduit dans presque
+toutes les langue de l'Europe.</p>
+<p><pb/></p>
+<p>Je signale avec plaisir les belles strophes :</p>
+<p>VI Quid tibi, superbe ductor... et XVI Ubi nunc tot arrogantes</p>
+<p>Voces ?</p>
+<p><pb/></p>
+<p>Ne soyons pas plus indulgents, mais ne soyons pas plus rigoureux envers
+Scévole de Sainte-Marthe qu'il ne l'a été envers lui-même.</p>
+<p><pb/></p>
+<p>Et puis ajoutons ceci : Ces éloges qui se renferment dans les limites
+d'une page, quelquefois une page et demie, rarement deux pages, jamais
+plus, ne sauraient compter dans l'histoire de l'esprit humain; ils n'ont
+rien de décisit, rien de graphique, rien de ce détail qu'aime notre
+temps, et qui fait pénétrer dans l'intimité d'un homme, d'un esprit. Une
+ou deux fois seulement, Scévole, sortant de la généralité, a trouvé sous
+sa plume un charme réel de vie et de naturel ; c'est dans l'éloge de
+Jean Morel (p. 78) et dans celui de J.-A. de Baïf (p. 11). II nous fait
+entrer (avec lui — il ne le dit pas, mais on sent qu'il a été plus d'une
+fois l'hôte heureux de ce logis), il nous fait entrer dans la maison de
+Jean Morel, il nous le montre environné d'un grand nombre de savants,
+environné surtout de sa femme et de ses trois filles, ornées de science,
+irréprochables de mœurs, composant dans les deux langues des vers avec
+un rare bonheur, le père lui-même chef du chœur. Sur Baïf il est encore
+plus intéressant. Le voici, l'aimable poète, chéri pour la facilité de
+son commerce, en sa petite, en sa délicieuse maison du faubourg SaintMarceau,
+ parmi les poètes, parmi les musiciens ; le son des instruments
+remplit ces salles modestes et heureuses, où viennent quelquefois
+s'asseoir les princes et le roi lui- même, Henri III, ami de ces
+concerts et de ces fêtes académiques Mais voici le triste retour. La
+guerre civile se déchaîne, la ville est en révolte, puis envahie (après
+Arques, 1589), et voici que les soldats royaux font irruption dans
+l'aimable logis, où ils mettent tout au pillage. —</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Sainte-Marthe, preuve décisive de l'estime où ils demeuraient encore et
+qui les faisait rechercher 45 ans après la première publication, vingt
+ans après la mort de l'auteur. Colletet disait donc : « Ce sont les
+premiers éloges que l'on aura vus dans notre langue ; tant les hommes
+sont avares de louanges envers ceux qui leur ont prodigué leurs temps et
+leurs veilles. »</p>
+<p>Il dit encore : « Quoique mon auteur publie ici les actions des hommes,
+si est-ce qu'il ne s'arrête guère qu'aux grandes, et qu'il ne parle
+qu'en passant des petites, ou n'en parle point du tout » (Advis au
+Lecteur). — Et nous qui lisons cela, nous disons tout bas, ou tout haut
+: Tant pis ! Plutarque n'avait pas peur de parler des petites choses.
+Mais aussi c'est un maigre Plutarque, Scévole de Sainte- Marthe!</p>
+<p>« Ayant employé quelques heures en l'exercice de la poésie, j'ay
+toujours esté plus studieux de la Latine que de la Française, trouvant
+meilleur de soumettre mes escrits à</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>L'œuvre française de Sainte-Marthe comprend ce qu'il appelle des
+Métamorphoses Sacrées et autres Poésies chres- tiennes ; la Poésie
+royale ; la Poésie meslée ; un Bocage de sonnets meslez ; le Tombeau de
+Messire Louis Chastaigner; seigneur d'Abain et de la Rochepozay ; un
+livre d'Épigram- mes et Épitaphes ; des Vers d'amour ; les Alcyons
+(traduction du bel épisode d'Ovide, Ceyx et Alcyon) ; enfin les
+Imitations. Écartons ces Imitations, où il s'est reproduit lui-même en
+quelques pages de sa Pxdotrophie, où il a suivi Marcel Palingène dans
+son Zodiaque de la vie humaine ;</p>
+<p><pb/></p>
+<p>... Comme volontiers du vice la puissance</p>
+<p>Bien plus que la vertu prend soudaine accroissance, Le monde a tellement
+de maux esté remply,</p>
+<p>Que le soing du bien faire on a mis en oubly,</p>
+<p>Et pleust au Tout-Puissant que ce malheureux sage Ne donnast de mon dire
+un certain tesmoignage.</p>
+<p>Car si jamais l'orgueil, la rage et la fureur</p>
+<p>Nous ont empoisonnez d'une mortelle horreur,</p>
+<p>C'est en ces fascheux temps que ces pestes cruelles De nos cœurs
+aveuglez sont les tristes bourrelles. Mais quel aveuglement pourrait
+l'homme saisir,</p>
+<p>Plus digne de pitié, que brusler d'un désir</p>
+<p>De conserver surtout la douceur de sa vie,</p>
+<p>Et cependant chercher par sa maudite envie</p>
+<p>Tout ce qui peut servir pour mieux s'esvertuer</p>
+<p>r</p>
+<p>S</p>
+<p><pb/></p>
+<p>Nous avons tellement abreuvé nos courages</p>
+<p>De l'amère poison de ces estranges rages,</p>
+<p>Que nous avons laissé toute autre affcction</p>
+<p>.Au lieu d'une boutique habite un corps de garde ;</p>
+<p>Le moine, au lieu de chappe, endosse le harnois,</p>
+<p>Et l'advocat apprend de la guerre les lois.</p>
+<p>Encores nous voulons (afin que notre France</p>
+<p>Nous guerroyer nous-mesme au prix de nostre sang, Et fourrer nos
+cousteaux dans nostre propre flanc. Quels bourgs, quelles citez, mesme
+quelles familles, N'ont esprouvé l'effort de nos guerres civiles ?</p>
+<p>Quel homme n'a senti quelquefois en son cœur</p>
+<p>De ce commun désastre ou l'atteinte ou la peur ?</p>
+<p>Le feu, le sang, l'horreur, le meurtre, le pillage</p>
+<p>Et de nos libertez le cruel brigandage</p>
+<p>Sont tournez en coustume, et si ne sentons point</p>
+<p>Le mal qui de si près fièrement nous espoint.</p>
+<p>Non. Sainte-Marthe n'a pas la grâce amène, le molle atque factum lui
+manque, Mais quand il s'agit de flétrir les excès, les vices, les
+passions désordonnées de son temps, il a la force, il a le style. On ne
+l'a pas remarqué, Sainte- Marthe est presque un satirique.</p>
+<p>Vous vous rappelez peut-être, Messieurs, les tableaux violents, crus de
+couleur et de ton, qu'un poète troyen que</p>
+<p><pb/></p>
+<p>Sans s'attarder, il nous présente (p. 113) :</p>
+<p>[les gens] de ce mestier dont le mieux estimé</p>
+<p>C'est celuy qui sçait mieux deguiser sa malice</p>
+<p>Soubs le masque trompeur d'une feinte justice.</p>
+<p>Pour faire esvanouir la response et les droits</p>
+<p>D'un pauvre deffendeur, afin de faire croire</p>
+<p>Aux juges estourdis que la neige soit noire,</p>
+<p>C'est oeuvre d'apprentis ; mais sçavoir au besoin Guider comme d'un
+frein la bouche d'un tesmoin, Empestrer de procez un sot qui les escoute,</p>
+<p>Tourner le sens des lois et s'en glorifier,</p>
+<p>Opposer aux enfants barbarement un père,</p>
+<p>Pour pescher en eau trouble et par subtils moyens Aussi bien que
+l'honneur faire perdre les biens ;</p>
+<p><pb/></p>
+<p>La parole de Dieu qui le cœur ne leur touche,</p>
+<p>C'est la perfection de ces traistres vieillards</p>
+<p>Que le temps a rusez ainsi que vieux renards,</p>
+<p>Et qui se palliants d'une apparence telle</p>
+<p>Font que plus aisément par leur fine cautelle L'homme simple est pippé,
+ainsi que le poisson</p>
+<p>Et n'est or si caché ny bourse si secrète</p>
+<p>La Poésie royale ne nous arrêtera pas beaucoup. C'est un Épithalame du
+roi Charles IX ; c'est un poème sur la Mort de Henri III ; un autre sur
+la victoire d'Ivry, c'est une comparaison entre Saint Louis et Louis le
+Juste. Hors, le poème sur Ivry, tout cela nous intéresse médiocrement
+aujourd'hui.</p>
+<p>Il y a pourtant quelque beauté dans les Larmes sur la Mort de Henri III.
+l'y remarque ces vers sur Paris (p. 72) :</p>
+<p>Desja ce grand Paris qui fasché de son heur</p>
+<p>Ayant esté long temps le théâtre d'honneur,</p>
+<p>Le palais de Phœbus, le temple de Justice,</p>
+<p>S'estoit fait au contraire une source d'erreurs,</p>
+<p>Un manoir de brigands, une eschole de vice, D'orgueil, d'ambition, de
+trouble et de fureurs.</p>
+<p><pb/></p>
+<p>Desja se voyait-il pressé de toutes parts</p>
+<p>Et voyait entre tous son Prince redoutable,</p>
+<p>Sur le chef des meschants qui l'avoient offensé.</p>
+<p>Au courroux flamboyant d'un si juste et grand Roy Les murs de la cité
+tremblaient mesme d'effroy,</p>
+<p>Les pointes de la peur menu comme une gresle Marteloient au dedans le
+cœur plus endurcy,</p>
+<p>Et du traistre subject l'âme trop criminelle</p>
+<p>N'esperoit de trouver ni pitié ni mercy.</p>
+<p>Et ces autres vers où le poète fait parler Saint Cloud, le saint
+lui-même, non la ville :</p>
+<p>...Quelle rage, ô François, vous a pris ?</p>
+<p>N'estoit-ce pas assez que les flammes civiles</p>
+<p>Depuis vingt ou trente ans vous eussent embrasez, Eussent couru vos
+champs, eussent forcé vos villes, Profané vos autels et vos temples rasez ?</p>
+<p>Mais que vois-je, ô bon Dieu ! pour tout ce qu'ils ont fait Ces
+meurtriers de leur roy n'ont le cœur satisfait,</p>
+<p><pb/></p>
+<p>Ils courent sur son ombre, et d'un nouvel outrage Crachent contre ses
+os, et deschirent son nom,</p>
+<p>Et l'estranger qui rit, France, de ton dommage,</p>
+<p>Pense bien de sa honte accroistre son renom.</p>
+<p>Je voy ce fier Marran qui par les champs Picards</p>
+<p>Fait ondoyer au vent ses rouges estendars ;</p>
+<p>Il couvre de lanciers la plaine hérissée</p>
+<p>Sous l'infidèle main du ligueur conjuré,</p>
+<p>Qui desja se promet en sa vaine pensée</p>
+<p>Le sceptre des François qu'il a tout deschiré.</p>
+<p>Mais je voy ce grand Roy plein d'heur et de valeur,</p>
+<p>Qui de sa main guerrière escarte le malheur :</p>
+<p>Il leur court au devant, il pave la campagne</p>
+<p>D'hommes et de chevaux, plus roide qu'un torrent,</p>
+<p>Verse et renverse tout ce qu'il trouve en courant.</p>
+<p>C'est celuy, c'est celuy que les destins amis,</p>
+<p>0 ma France, t'avoient ja de long temps promis.</p>
+<p>Il te fera reluire en ta splendeur première. ..............................</p>
+<p><pb/></p>
+<p>quelques mâles accents au poète heureux du triomphe du roi, qui était un
+triomphe de la France, de la patrie (p. 80) :</p>
+<p>Qu'est devenu ce superbe courage</p>
+<p>Qui les grands roys n'aguères mesprisoit ?</p>
+<p>Et fuis si loin, que le cours de ta fuite</p>
+<p>N'est arresté des ombres de la nuit.</p>
+<p>Mais que te sert de voir voler la poudre Dessous tes pas ? Voicy
+derrière toy</p>
+<p>Ce grand Henry, qui plus roide qu'un foudre, Dessus ton dos grave sa
+juste loy. «</p>
+<p>Allez, mes vers, de province en province,</p>
+<p><pb/></p>
+<p>Portez l'honneur de ce valeureux Prince</p>
+<p>Qui n'eut jamais et n'aura son pareil.</p>
+<p>Tenez, ne sont-ce pas des vers frappés, sinon par un satirique, au moins
+par un moraliste austère — que le poète s'asservit fortement — ceux-ci
+(p. 207, Imitation de Palingène : de l'Amour) :</p>
+<p>Dois bientost devenir la pasture des vers,</p>
+<p>Que trouves-tu en toy digne de ton audace?</p>
+<p>Ne vois-tu point la mort qui desja te menace,</p>
+<p>Et qu'il ne te faudra pour loger ton orgueil, Qu'un petit coin de terre
+en un petit cercueil?</p>
+<p>Puis bientôt le ton s'adoucit, et par un contraste heureux, le poète qui
+vient de déplorer les maux que font naître la guerre et la discorde,
+ajoute :</p>
+<p>Tous ces maux n'adviendroient si au temps où nous</p>
+<p>[sommes,</p>
+<p>Quelque amitié log:eoit dedans le cœur des hommes ; Car de tout son
+pouvoir chacun s'enflammeroit</p>
+<p>Croyez que seulement alors la vie est vie</p>
+<p>Quand on a quelque ami sur lequel on se fie,</p>
+<p>Qui ores vous chérit, ores vous importune.</p>
+<p><pb/></p>
+<p>On n'est pas indigne d'un souvenir de l'histoire litttéraire quand on a
+donné (Métamorphoses sacrées, p. 22) le récit de la victoire de Samson
+sur les Philistins :</p>
+<p>Alors il baigne, enflé d'ire et de gloire,</p>
+<p>Au bas de la sainte forest</p>
+<p>Le chasteau superbe apparoit</p>
+<p>Où loge la tendre déesse :</p>
+<p>Vulcan mesme en fut le maçon</p>
+<p>Et luy donna telle façon</p>
+<p>Que l'art y combat la richesse.</p>
+<p>Sur colonnes de diamant</p>
+<p>S'esleve le haut bastiment</p>
+<p>D'or, qui flamboye en mille pointes;</p>
+<p>De fin or luit le grand portai,</p>
+<p>Et les serrures de crystal</p>
+<p>A clous d'émeraudes sont joinctes.</p>
+<p>De rubis vivement ardans</p>
+<p>Le pavé s'esclatte au dedjefjs^?</p>
+<p>,~</p>
+<p>7</p>
+<p><pb/></p>
+<p>Dont les riches carreaux qui dardent</p>
+<p>Mille petits traits radieux</p>
+<p>Font esblouir les faibles yeux</p>
+<p>De ceux qui contre-bas regardent.</p>
+<p>Les lys de soye délicate</p>
+<p>Tout garnis de drap d'or frisé,</p>
+<p>Et du meuble le moins prizé</p>
+<p>La matière est de fine agathe.</p>
+<p>En dehors de cette inspiration naturelle, il a de bien heureuses
+rencontres ; voici, par exemple (toujours dans ce même Épithalame, p.
+64), une bien belle strophe; le mouvement en rappelle les admirables
+vers de Voltaire : J'ai vu cette déesse altiere) (La Liberté) :</p>
+<p>Des armes le Dieu violant</p>
+<p>Marchait encore tout sanglant</p>
+<p>De cette horrible boucherie</p>
+<p>Les tristes champs de Moncontour.</p>
+<p><pb/></p>
+<p>Franc de l'amour, j'ay fait ces plaintes vaines</p>
+<p>Pour soulager les passions d'autruy.</p>
+<p>Il dit encore, assez ingénuement :</p>
+<p>[J'ai chanté] les craintes, les désirs</p>
+<p>Les vains regrets, les folastres plaisirs</p>
+<p>« en veue de contenter les jeunes dames ».</p>
+<p>C'est une entreprise qui aurait fait sourire Clément Marot et Jean de la
+Taille, que celle de vouloir chanter l'amour sans le ressentir. Est-ce à
+dire que Scévole, dans cette partie de son œuvre, soit sans mérite ? Non
+certes ; s'il n'a pas eu comme un Jean Second le feu de la passion, il a
+la grâce des sentiments tendres qui côtoient l'amour, la passion
+fougueuse. Il a quelques sonnets d'une touche délicate et qui méritent
+de soutenir son nom dans le grand naufrage du passé. En voici un fort
+joli, c'est le XIe, que je vous annonçais précédemment :</p>
+<p>Puisqu'un autre jouit du bien</p>
+<p>Qui plus justement m'estoit deu,</p>
+<p>Adieu, belle qui m'as vendu,</p>
+<p>Je ne veux plus me dire tien.</p>
+<p><pb/></p>
+<p>Ainsi je dis ; mais du tout rien</p>
+<p>La belle ne m'a respondu ;</p>
+<p>Seulement elle m'a rendu</p>
+<p>Des pleurs et un triste maintien.</p>
+<p>Lors Amour que je vis assis</p>
+<p>Au dessus de ses beaux sourcis,</p>
+<p>Pour elle a semblé dire ainsi :</p>
+<p>Non, non, amant, aye bon cœur,</p>
+<p>Amour, des grands dieux le vainqueur, Vaincra bien l'Hyménée aussi.</p>
+<p>Scévole n'a pas négligé cet entrelacement dans un autre de ses sonnets,
+le 2e (il y en a dix-neuf dans les Vers d'amour, outre ceux qui font
+partie de la Poésie meslée) ; cela lui a porté bonheur :</p>
+<p>Je suis aimé d'une maistresse telle</p>
+<p>Que d'un tel bien maint homme est envieux.</p>
+<p>...................</p>
+<p>Ce sonnet, qui est charmant, est imitée de la jolie pièce de Moschus,
+imitée aussi par Sainte-Beuve :</p>
+<p>Pan aimait Écho sa voisine</p>
+<p>Qui pour le Satyre brûlait.</p>
+<p><pb/></p>
+<p>Et le bon abbé Goujet aussi nous dit naïvement (au T. XIV de sa
+Bibliothèque Franç., p. 335) : « Les vers d'amour (de Sainte-Marthe) ne
+méritent pas que je m'y arrête : un homme aussi sage que Sainte-Marthe
+aurait dû les supprimer, et par respect pour les bonnes moeurs, et pour
+son honneur propre. »</p>
+<p><pb/></p>
+<p>N'oublions pas que la vie de Scévole de Sainte-Marthe n'est pas, comme
+celle d'un Ronsard ou d'un Malherbe, celle d'un pur lettré, faisant son
+tout de bien dire et de bien écrire, mais celle d'un homme occupé,
+utile, placé près</p>
+<p><pb/></p>
+<p>des rois, conseiller de leur bonne et de leur mauvaise fortune,
+jouissant de la confiance de Henri IV comme de celle de son prédécesseur
+: ses poésies, ses écrits en général ne sont que les ouvrages de son
+loisir ; ses vers ne sont que la veine d'or qui traverse les couches
+solides, les couches épaisses de la finance et de la politique.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Dieu te gard' belle grotte aux Muses consacrée. Berger, tout est ici de
+mousse tapissé,</p>
+<p>Où des traces d'argent les limas ont laissé :</p>
+<p>Ici l'onde bouillonne, et dès sa vive source</p>
+<p>D'un murmure plaisant elle flatte sa course.</p>
+<p>Vous, Faunes et Silvains, vous gentilles Naïades,</p>
+<p>Qui dessous les flageols faisiez mille gambades, Quittez les bords du
+Clain, cachez-vous désormais, Ou, si vous m'en croyez, ne paroissez jamais</p>
+<p>Qu'en vestements dé deuil, qu'en tresses avallées, Pour annoncer partout
+de vos voix désolées</p>
+<p>Qui fut vostre plaisir et votre seul appui,</p>
+<p>Qui faisoit en gardant ses troupes camusettes,</p>
+<p>D'un langage divers retentir deux musettes,</p>
+<p>Qui fut jadis nommé l'Apollon des François,</p>
+<p>Tant furent merveilleux les accents de sa voix,</p>
+<p><pb/></p>
+<p>Qui plein d'un doux transport et d'un puissant génie, Pilla tant de
+thrésors sur les bords d'Ausonie,</p>
+<p>Qu'un triste souvenir des honneurs de son nom,</p>
+<p>De ses doctes chansons, de ses flûtes brisées,</p>
+<p>Des hommes et des dieux et des Muses prisées.</p>
+<p>Citons encore quelques vers empreints d'une réelle beauté (p. 105) :</p>
+<p>Filles de Jupiter, déesse des beaux vers,</p>
+<p>Pourquoy donc, dites-moy, de tant de lauriers verds Aviez-vous ombragé
+ses tempes et sa teste,</p>
+<p>S'ils ne l'ont pu sauver d'une telle tempeste ?</p>
+<p>Hé quoy ! troupe sacrée, hé quoy, gera-t-il dit</p>
+<p>Que trois cruelles sœurs, filles de la nuit sombre, L'emportent
+maintenant sur vostre plus grand nombre ? Las ! qu'en vain tous vos
+soirs ont prolongé ses ans, Puisqu'après les replis d'un long siècle de
+temps,</p>
+<p>Nous voyons aussi bien sa course terminée,</p>
+<p>Comme ceux qui n'ont vu que le cours d'une année !</p>
+<p><pb/></p>
+<p>général que les anagrammes. Il en a cependant été fait un sur
+Sainte-Marthe qui forme exception. Trinquart, un poète de l'époque,
+(cela remonte au temps de la vie de Scévole) a trouvé dans Scévolc de
+Saiiite-Mai-the : « La Sainte Muse te décore ». C'est ingénieux, et
+c'est vrai.</p>
+<p>Simple conjecture et que je donne pour telle, mais qu'autorise toute la
+teneur de la vie du noble, du courageux politique, ami loyal et ferme de
+son pays. Par-</p>
+<p><pb/></p>
+<p>donnez-moi cette digression, sans laquelle ma pensée n'eût pas été
+complète.</p>
+<p><pb/></p>
+<p>t</p>
+<p>fils du premier Scévole, le nôtre, a traduit en français la Pœdotrophie
+de son aïeul.</p>
+<p>f Sainte-Marthe poète, c'est la raison éloquente. La raison éloquente,
+c'est tout ou presque tout pour un orateur ; ce n'est pas tout, ce n'est
+pas assez pour un poète, excepté dans l'école de Boileau : quand on a
+cela, il manque &gt; encore la flamme, la forme, l'art supérieur, l'art divin.</p>
+<p>| Heureux, heureux, heureux en somme celui qui dans &gt; cette mêlée des
+esprits, a pu pour un moment, ne fût-ce ) qu'un seul, s'avancer tout
+près du premier rang, et marquer son passage par un coup frappé, par un
+éclair de sa jplume d'or.</p>
+<p>l6 Mai 1881.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>Nicolas Rapin ou le demi-poète</p>
+<p><pb/></p>
+<p>Dévouement d'autant plus méritoire qu'il n'est pas un grand poète, et
+que j'ai pu, sans injustice, le caractériser en tête de cette étude,
+comme le demi-poète.</p>
+<p>il cède volontiers aux suggestions qu'on lui propose, aux</p>
+<p><pb/></p>
+<p>Je fais des vers une fois l'an,</p>
+<p>Et pour le duché de Milan</p>
+<p>Je ne voudrois ni ne souhaite</p>
+<p>Qu'on me tînt pour un grand poète.</p>
+<p>Il faut assurément faire la part .de l'homme qui se sent</p>
+<p><pb/></p>
+<p>Ce poète, ce demi-poète, ajoute :</p>
+<p>Mais s'il faut que ce qui m'est dû,</p>
+<p>Mon bien et mon temps soit perdu,</p>
+<p>Au lieu de me mêler de crimes,</p>
+<p>J'iray me consoler de rimes.</p>
+<p>La poésie n'est pour lui qu'un pis-aller. C'est trop peu.</p>
+<p>La poésie n'est rien dans une vie si elle n'est pas tout.</p>
+<p>Tel est le demi-poète.</p>
+<p>Tel est Rapin. Mais disons-le : Si Rapin est un demi- poète, il n'est
+pas un demi-soldat, un demi-soutien du pouvoir, un demi-loyaliste,
+diraient les Anglais.</p>
+<p>Pendant que des Portes, Passerat et les survivants de la Pléiade
+ravivent de leur mieux la docte Antiquité, s'escri-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>du glaive qui domine dans l'épitaphe latine que Rapin a faite pour
+lui-même, et qui nous a été conservée par Scé- vole de Sainte-Marthe,
+son ami, chargé par lui, avec le conseiller Gillot, de publier le
+recueil de ses ouvrages, l'in-4° de 1610. Rapin, dans cette épitaphe,
+reparaît sous les traits rigoureux qui, sur son tribunal, l'avaient
+rendu la terreur des accusés.</p>
+<p>Sire. pour vous pouvoir grâces dignement rendre</p>
+<p>Des biens que j'ay reçus de vostre Majesté,</p>
+<p>Quand desja par deux fois elle a manifesté</p>
+<p>Qu'elle veut contre tous comme sien me défendre.</p>
+<p>Ainsi plus d'une fois l'autorité personnelle du roi avait dû intervenir
+pour défendre le prévôt de la Connétablie</p>
+<p><pb/></p>
+<p>contre des hostilités puissantes, contre des rancunes acharnées.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Qu'a été Rapin dans la poésie ? Quelque chose. Quelle place tient-il
+dans notre histoire littéraire ? Une place</p>
+<p><pb/></p>
+<p>modeste, mais dont la critique n'a pas le droit de le débusquer.</p>
+<p>Grammaticus nuper, nunc aulicus, ante bubulcus,</p>
+<p>Quolibet in vitse munere, stercus oles.</p>
+<p>Naguère grammairien, la veille courtisan,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Je citerai en dernier lieu l'épitaphe de Pierre Pithou (p. 69),
+empreinte d'une beauté triste qui se ressent des deuils de la patrie.</p>
+<p>Assez pour les poésies latines.</p>
+<p>Parmi les Poésies françaises de Rapin je trouve d'abord et je mettrais
+volontiers en première ligne les imitations qu'il a faites de quelques
+épitres et satires d'Horace. Il n'a</p>
+<p><pb/></p>
+<p>pas, il s'en faut bien et on s'en doute du reste, la grâce souple et
+ondoyante de son modèle ; mais il y substitue une certaine vigueur âpre
+qui ne manque pas d'effet. Voici quelques vers qui ont, bien marqué, le
+caractère que je dis :</p>
+<p>L'argent vaut moins que l'or, l'or moins que la sagesse. Mais vous, ô
+gens de ville, estimez la richesse</p>
+<p>Devoir aller devant, et la sagesse après.</p>
+<p>Que jamais homme libre et généreux ne fit.</p>
+<p><pb/></p>
+<p>Je hay la-vanité</p>
+<p>De ceux qui font courir par l'Université</p>
+<p>Leurs escrits avortez, dont le siècle foysonne ;</p>
+<p>Mais je dis mon avis et n'espargne personne.</p>
+<p>Et crains plus que la mort qu'un fat contreporteur Aille crier mon nom
+au bout du Pont au Change.</p>
+<p><pb/></p>
+<p>XXX. ,.... Sans doute, il faut advouer</p>
+<p>Qu'on vous doit justement louer</p>
+<p>D'avoir arresté le désordre</p>
+<p>Où grands et petits voulaient mordre.</p>
+<p>XXXI. Le torrent de profusion</p>
+<p>Et par une obscure cabale</p>
+<p>L'espargne n'estoit que de baie.</p>
+<p>XXXII. Les Thresoriers par leurs comptants Rendoient tous autres mal
+contents ;</p>
+<p>Tout s'en alloit en grivelées</p>
+<p>De prêts et ventes simulées.</p>
+<p>XXXIII. Non valeurs et faute de fond</p>
+<p>Estaient un abysme profond :</p>
+<p>Tout l'or que la France moissonne</p>
+<p>Se perdoit sans payer personne.</p>
+<p>Sans doute, en apparence, il ne parle que du passé, il</p>
+<p><pb/></p>
+<p>XLIII. Imprenable de tous costez,</p>
+<p>Grands et petits vous rebutez ;</p>
+<p>Vous estes mal plaisant en somme,</p>
+<p>Et plutôt un rocher qu'un homme.</p>
+<p>J'imagine que le puissant ministre de Henri IV n'était pas habitué à
+s'entendre parler de la sorte.</p>
+<p>LUI. Si vous passez par un tranchant</p>
+<p>Autant le bon que le meschant,</p>
+<p>Personne n'aura plus courage</p>
+<p>De bien faire au fort de l'orage.</p>
+<p>LIV. La vertu n'est pas un nom vain,</p>
+<p>Et s'aigrit comme du levain,</p>
+<p>Si après son service on pense</p>
+<p>La priver de sa récompense.</p>
+<p><pb/></p>
+<p>apprend en quoi consistaient les fonctions du prévôt de la Connétablie :</p>
+<p>XIII. Le temps employé pour néant</p>
+<p>M'est dommageable et mal séant,</p>
+<p>Car le travail que je sais faire</p>
+<p>XIV. Je cherche volontiers l'honneur</p>
+<p>De prendre au corps un gouverneur,</p>
+<p>Et chastier une province</p>
+<p>XV. Des meschants j'abats la fierté,</p>
+<p>Aux bons j'apporte la seurté,</p>
+<p>Chassant ceste canaille vile</p>
+<p>De voleurs qui troublent la ville.</p>
+<p><pb/></p>
+<p>Et du temps et du Roy,</p>
+<p>Blasmant tes actions, montrent bien qu'ils en veulent</p>
+<p>Ils jettent feu et flamme, et leur haine atizée</p>
+<p>Ne se peut maistriser ;</p>
+<p>Mais leur courroux se tourne en vent et en risée,</p>
+<p>Qui les sçait mespriser.</p>
+<p>Le poète parle admirablement de l'union de pensée et d'action qui
+existait entre le roi et son grand ministre, et qui faisait la force de
+l'un et de l'autre :</p>
+<p>Mais le Roy, non moins grand aux affaires qu'aux armes,</p>
+<p>D'un esprit non pareil</p>
+<p>Pénètre leurs secrets, et dissoult de leurs charmes</p>
+<p>Le trompeur appareil.</p>
+<p>Son subtil jugement cognoist que tes pensées</p>
+<p>Forment leurs actions</p>
+<p>Au bien de sa grandeur, et sont toutes dressées</p>
+<p>A ses affections.</p>
+<p>Ce qu'il juge estre bon, tu le juges de mesme. .................</p>
+<p><pb/></p>
+<p>On porte envie aux biens et aux honneurs insignes</p>
+<p>S'ils sont grands, il est grand, et tes travaux sont dignes</p>
+<p>D'avoir de tels effets.</p>
+<p>On te nommoit trop rude, impiteux et sévère,</p>
+<p>De difficile accès :</p>
+<p>Qui eust pu résister au mal qui persévère,</p>
+<p>Sans un contraire excès ?</p>
+<p><pb/></p>
+<p>porté, n'a pas la brutalité de Nicolas Rapin ; ses vers d'amour, dans la
+langue de Properce, ou soi-disant telle, n'attirent pas, ils
+repousseraient plutôt : c'est l'amour naturaliste.</p>
+<p>Rapin, si faible dans l'expression des sentiments tendres, se relève
+dans l'héroïque ; il a un beau sonnet dans un bien beau mouvement sur la
+défaite du duc de Parme :</p>
+<p><pb/></p>
+<p>Mais où est maintenant cette pompeuse armée,</p>
+<p>Du sang et du butin des François affamée ?</p>
+<p>Tout ce grand appareil s'en retourne en fumée,</p>
+<p>Et le Prince de Parme est contraint de quitter</p>
+<p>Les gaiges du serment qu'il ne peut acquitter,</p>
+<p>Ayant perdu ses gens,-son temps, sa renommée.</p>
+<p>Henry, le plus grand Roy que la France eut jamais,</p>
+<p>Tu le suis, tu le bats, en route tu le mets,</p>
+<p>Il se cache, il s'enfuit, honteux, despit, et blesme.</p>
+<p>Espagnols, apprenez que jamais l'estranger</p>
+<p>N'attaqua le François qu'avec peine et danger :</p>
+<p>Le François ne se vainc que par le François mesme.</p>
+<p>Si le poète de Fontenay-le-Comte, cette fois poète de la France, a un
+titre, c'est celui-là, il est de bon métal ; il est durable.</p>
+<p>Une mignonne veut me rendre amoureux d'elle</p>
+<p>Par un bel entretien et gracieux accueil.</p>
+<p>M'estimant si peu fin, qu'aux charmes de son oeil</p>
+<p>Je me doive laisser lier de sa cordelle.</p>
+<p><pb/></p>
+<p>Mais moy qui sçais combien son âme est infidelle, Eschappé tant de fois
+d'un naufrage pareil,</p>
+<p>Je fuy ces lieux suspects, redoutant qu'un écueil Caché dessous ses eaux
+froisseroit ma nacelle.</p>
+<p>Pourtant pour luy donner quelque contentement, Sitost que je la voy, je
+marche tristement,</p>
+<p>Je compose mon geste et rends ma face blesme.</p>
+<p>Alors elle me pense espris de sa beauté,</p>
+<p>Et se moque de moy ; et moy d'autre côté</p>
+<p>Qui me sens estre franc, me moque d'elle-mesme.</p>
+<p>Mais cette note n'est pas commune chez Rapin, et l'impression générale
+qui subsiste est bien celle que j'ai dite.</p>
+<p><pb/></p>
+<p>entré dans cette voie, mais avec plus de réserve, et l'essai lui avait
+fort mal réussi. Rapin, lui, s'applaudissait beaucoup de sa tentative
+renouvelée ; il y mettait sa gloire présente, son espérance future —
+vaine gloire, plus vaine espérance :</p>
+<p>J'ay premier mis le pied sur l'estroite carrière</p>
+<p>Où nul n'estoit entré ; j'ay ouvert la barrière,</p>
+<p>Me fiant en ma force. (Imit. de la 2e Ep., Liv. Ier d'Horace : Prisco si
+credis, p. 109).</p>
+<p><pb/></p>
+<p>Chevaliers généreux, qui avez le courage françois Accourez, accourez
+secourir l'héritier de vos roys.
+............................................... Ne craignez de donner la
+bataille et le choc commencer :</p>
+<p>Au traistre, lasche et trompeur</p>
+<p>L'escharpe blanche fait pèur.</p>
+<p>Il a honte, il a peur, je le voy, le renard qui s'enfuit :</p>
+<p>Io, Péan, c'en est fait,</p>
+<p>Io, triomphe parfaict !</p>
+<p>L'archet cadencé du Venuzin me plaist,</p>
+<p>Ses noeuds me sont doux, et le desir me naist</p>
+<p><pb/></p>
+<p>De montrer aux François que leur son</p>
+<p>Peut recevoir une mesme chanson.</p>
+<p>0 toy, mon espoir, mon président de Thou,</p>
+<p>(Si j'ose attester l'ombre du grand Pithou),</p>
+<p>Desiste de blasmer ceste ardeur</p>
+<p>Pleine de gloire et de. noble grandeur.</p>
+<p>« Il estoit beau de visage, et de douce conversation ; mais ce qu'on
+admiroit le plus en lui, o'estoit cette puissante inclination, ou plutôt
+cette heureuse facilité que son esprit avoit dans la poésie ; jusque là
+même qu'au milieu des plus grandes affaires qu'il eut sur les bras,
+parmi les troubles et les confusions de la guerre, et.dans une condition
+turbulente, et qui sembloit fort éloignée du doux et paisible commerce
+des Muses, ils composoit toujours de$</p>
+<p><pb/></p>
+<p>vers, et particulièrement des épigrammes dont les pointes subtiles et
+piquantes le faisoient estimer des beaux esprits de son siècle. Ce qu'il
+faisoit agréablement en français aussi bien qu'en latin, et mesme comme
+il avoit l'esprit hardi et capable de tout, laissant aux autres poètes
+les cadences ordinaires, il essaya de faire des vers françois sans rime
+(i), mais avec les mêmes mesures et les mêmes quantités de-syllabes que
+les auteurs grecs et latins ont employées dans leurs vers. Entreprise
+nouvelle assurément, mais que l'on ne doit pourtant pas appeler bizarre,
+ni téméraire. Car, encore que cette façon d'écrire ait été presque
+toujours rebutée du peuple, et peu souvent approuvée des savants, si
+est-ce que l'on ne doit pas mespriser les nobles efforts de ceux qui
+dans leur travail n'ont autre dessein que d'enrichir leur langue
+maternelle par quelque nouvelle invention. «</p>
+<p><pb/></p>
+<p>Le Donec-grains eram d'Horace, sur lequel tant de poètes se sont exercés
+a aussi attiré Nicolas Rapin. Sa traduction ne manque pas de mérite, et
+demeure peut-être, avant la double traduction de Musset, avant la petite
+pièce de Ponsard, Horace et Lydie, ce que la charmante fantaisie
+d'Horace a inspiré de mieux aux traducteurs. On y voudrait seulement
+supprimer un mot ou deux.</p>
+<p>Après tout ce que j'ai dit des vers mesurés tels que les a essayés
+Rapin, un scrupule me prend et je me demande : , Rapin ne serait-il pas
+le romantique de 1580? Avons-nous raison, nous autres, de condamner une
+tentative romantique, et ne tirons-nous pas sur nos propres troupes ?</p>
+<p>Aux œuvres dont j'ai parlé il faut ajouter un petit poème d'une réelle
+valeur, que l'éditeur posthume de Rapin, son ami le conseiller Gillot,
+n'a pas inséré, je ne sais pourquoi, dans l'in-quarto de 1610; je veux
+parler des Plaisirs du Gentilhomme Champestre. La Croix du Maine,
+Goujet, Niceron, tous ils citent le petit poème de Rapin comme faisant
+partie d'un recueil imprimé en 1581, sous ce titre : Les Plaisirs de la
+Vie rustique. Ils semblent ignorer qu'il</p>
+<p><pb/></p>
+<p>Heureux celuy qui loing d'affaires,</p>
+<p>Comme les gens du temps passé,</p>
+<p>Avecques ses boeufs ordinaires</p>
+<p>Laboure les champs que ses pères</p>
+<p>En propre luy ont délaissé. ...........................</p>
+<p>De qui la maison est bastie</p>
+<p>Sans grande somptuosité,</p>
+<p>De peu de logis assortie,</p>
+<p>Belle entrée et belle sortie,</p>
+<p>Avec toute commodité,</p>
+<p>De qui la terre bien bornée</p>
+<p>Se joint au clos de la maison</p>
+<p><pb/></p>
+<p>De prez et garenne entournée, D'un bois et d'un estang ornée, Et d'une
+fuye en la cloison.</p>
+<p>Quelquefois le' long d'un rivage Il voit conduire son troupeau, Voit ses
+vaches au pasturage, L'une bonne pour le laitage L'autre meilleure à
+porter veau. ...........................</p>
+<p>Maintenant il se vient estendre Sous un vieil chesne dans les bois,
+Couché dessusil'herbette tendre, En un lieu d'où il puisse entendre Des
+oiseaux la plaintive voix.</p>
+<p>Tantost sur la belle verdure Les fleurs du dos il va foulant Auprès
+d'une fontaine pure, Pour s'endormir au doux murmure D'un ruisseau
+doucement coulant.</p>
+<p>Ces vers nous révèlent un Rapin tout nouveau, presque</p>
+<p><pb/></p>
+<p>Je te salue aussi, Jardin, le seul plaisir</p>
+<p>De mon père et seigneur, lorsqu'il print le loisir,</p>
+<p>Sur la fin de ses ans, de cultiver ses plantes</p>
+<p>Et peupler ses vergers de mille sortes d'entes, Comme jadis faisoit le
+Dictateur Romain,</p>
+<p>Qui d'honneurs assouvy, labourait de sa main</p>
+<p>Le champ de peu d'arpents, et en maison petite Refusoit, libéral, les
+thrésors du Samnite.</p>
+<p>0 bienheureux celuy qui loin des courtisans</p>
+<p>Et des palais dorés pleins de soucis cuisants,</p>
+<p>Sous quelque povre toit, délivré -de l'envie,</p>
+<p>Jouit des doux plaisirs de la rustique vie !</p>
+<p><pb/></p>
+<p>La trompette au matin ne l'éveille en sursaut,</p>
+<p>Ou, guindé sur le mast d'un vaisseau, n'importune Par prières et vœux le
+courroucé Neptune.</p>
+<p>Il ne luy chaut d'avoir la faveur des grands Rois,</p>
+<p>Ni les premiers honneurs des joustes et tournois,</p>
+<p>Les couronnes de prix richement estoffées,</p>
+<p>Ni les chars entaillés de superbes trophées,</p>
+<p>Aux enfants d'Apollo quand on les couronnoit.</p>
+<p>Ce début est ce qu'il y a de mieux dans le petit poème de Pybrac, et
+malgré cela, un ton prosaïque s'y fait parfaitement sentir .quand on
+rapproche ces vers de ceux de Rapin.</p>
+<p>Et cependant Rapin n'a pas l'art savant des immortels poètes de la
+Pléiade, ses contemporains; il n'a pas, comme Ronsard, du Bellay, Baïf
+et Belleau, Pontus de Tyard même, les raffinements du rhythme, de
+diction choisie, gracieusement élégante, qui distinguent ces illustres
+et qu'on retrouve aussi chez des Portes et chez Passerat : sous ce
+rapport, je rangerais Nicolas Rapin dans un petit groupe où je mettrais
+aussi Vauquelin de la Fresnaye et Scévole de Sainte-Marthe, esprits
+vigoureux ou sensés, mais qui n'ont pas mis, comme ceux dont je viens de
+dire les noms, leur suprême espoir, leur suprême effort dans l'art
+souverain — aussi l'avenir les a-t-il, je ne dirai pas plus dédaignés,
+mais du moins plus négligés que les poètes de la Pléiade : la postérité
+ne s'est pas retournée vers eux</p>
+<p><pb/></p>
+<p>pour leur sourire; Sainte-Beuve, dans la Poésie du XVIe siècle, les a
+renvoyés avec une brève mention, honorable pour la Fresnaye, au fond, on
+le sent, assez dédaigneuse pour les autres.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>La Harangue de Monsieur le Recteur Roze a un autre caractère : plus
+moqueuse et moins âpre en la forme, quoique le fond n'y perde rien,
+moins incisive, plus gouailleuse, plus parisienne de tour. Ce caractère,
+fort visible dans tout le discours, se marque en traits ineffaçables
+dans la conclusion. Il s'agit, dans la glorieuse Assemblée des Etats de
+la Ligue, de faire un roi. Après avoir berné, mieux l'un, mieux l'autre,
+tous les premiers prétendants, l'impitoyable recteur conclut :</p>
+<p><pb/></p>
+<p>(r) Briguant. Jeu de mots qui n'est pas trop bon en soi, mais qui vaut
+en situation et par le sens malicieux.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Mais quoi ! inventer un fait de ce genre quand toute une ville est là
+pour démentir celui qui hasarderait une fausseté ? — L'argument aurait
+quelque valeur si le récit du jésuite avait été publié au lendemain de
+la mort. Mais en quelle année a paru la Doctrine Curieuse? En 1623,
+quinze ans après que Rapin avait disparu pour toujours. Et n'a-ton pas
+vu plus d'une fois les faits concernant les mourants dénaturés,
+pervertis, non pas quinze ans après, mais le lendemain, le jour même, et
+pour ainsi dire avant le dernier soupir rendu ? Que sera-ce au bout de
+quinze ans, quand tant de témoins s'en seront allés, que tant
+d'indifférence se sera produite sur des faits que nul n'aura intérêt à
+rectifier? Si d'ailleurs j'ose dire ma pensée, le récit de Garasse
+considéré en lui-même a l'air théâtral d'une fable arrangée pour le
+besoin d'une cause.</p>
+<p><pb/></p>
+<p>Un peu plus loin, quelques jours plus tard, l'Estoile ajoute ce qui suit :</p>
+<p>Qui digitis floccos legit, et sua complicat in se Lintea, miraturque
+manus spectator ocellis ;</p>
+<p>Cui summi digiti frigent, manibus pedibusve,</p>
+<p>Et nasi supremus apex (sic), cui tempora pauco Tempore labuntur ; nares
+simasque et apertae, Dirigiturque pilus velut horrens, lumina sensim
+Hebescunt et singultu vox hasret acuto ;</p>
+<p>Qui, matulas oblitus, Isesi dat signa cerebri,</p>
+<p>Et linguae titubans non se regit ordine sermo ;</p>
+<p>Ejus spes nulla est, animumque videbis ovantem Scandere supremas multo
+cum gaudio ad arces.</p>
+<p>(N. Rappinus faciebat nocte intermedia vigilans, et ad Deum suum
+transvolare gestiens, III idus februar, anno</p>
+<p><pb/></p>
+<p>MDCVIII, mortuus est IV idus tebruar, hora septima matu- tina).</p>
+<p>De qui est cette note ? Cela n'est pas expliqué.</p>
+<p>Même sur le récit de l'Estoile (un récit, non, c'est moins que cela, un
+renseignement, un simple renseignement sur ouï-dire), il y aurait à
+faire des réserves : Qu'est-ce que ce M. Irland ? Mérite-t-il créance ?
+Parle-t-il de visu, parle-t-il spontanément ? ou est-il l'écho d'un
+récit plus ou moins intéressé, plus ou moins partial qu'on lui aurait
+fait ?</p>
+<p>2 Juillet 1881.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>POÉSIE DU SEIZIÈME SIÈCLE</p>
+<p>Jean de la Péruse</p>
+<p>(1) Bastier est le nom de famille; la Péruse est celui d'un petit
+domaine du pays angoumoisin, appartenant aux parents du poète.</p>
+<p><pb/></p>
+<p>puissantes (celles de Ronsard et de du Bellay), Étienne Jodelle dès
+1552, et presque au même temps Jean de la Péruse, Charles Toutain, Jean
+et Jacques de la Taille, Jacques Grévin, Mellin de Saint-Gelais,
+Jean-Antoine de Baïf, Remi Belleau, s'élancèrent sur la scène, et un
+nouveau théâtre fut fondé. »</p>
+<p>Sainte-Beuve apprécie comme elles le méritent les tentatives soit
+tragiques, soit comiques, de ces jeunes hommes plus enthousiastes que
+portés et soulevés par le génie. Il ajoute : « Loin de moi pourtant
+l'injustice de méconnaître ce qu'il y avait d'excusable et de noble dans
+leurs illusions, d'estimable et d'utile dans leurs travaux ! La plupart
+de ces jeunes hommes qui ouvraient la nouvelle carrière dramatique y
+défaillirent vers l'entrée, victimes d'un zèle immense et dévorés par la
+science avant l'âge. La Péruse, Jacques de la Taille, Grévin, Jodelle
+lui-même eurent des morts prématurées. »</p>
+<p>C'est tout pour la Péruse.</p>
+<p><pb/></p>
+<p>L'honneur de la Péruse est bien dans d'aimables créations de ce genre :
+en ce sens, il mérite quelque chose, si peu que ce soit. Sans forcer la
+note, essayons donc de réparer l'oubli — certainement volontaire -- de
+l'auteur de la Poésie au seizième siècle.</p>
+<p>Heureux ceux qui meurent jeunes, a dit excellemment le poète antique (i)
+! Heureux certes, puisqu'ils échappent aux tristesses de la vie
+décroissante, aux désillusions inséparables de l'âge qui vient sur nous,
+aux séparations plus cruelles que tous les maux suspendus sur nos têtes.
+Heureux ceux qui meurent jeunes, même quand ils sont poètes ;</p>
+<p>(i) Théognis.</p>
+<p><pb/></p>
+<p>car si cette mort prématurée ne leur permet pas de mettre en son jour
+tous les trésors d'esprit et de génie que la nature bienveillante avait
+mis en eux, ce malheur - si c'en est un — est amplement compensé par la
+certitude d'échapper aux angoisses, aux douleurs, aux amertumes de
+l'existence prolongée.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>l'enthousiasme en son jeune cœur. Il sera son émule, sinon son copiste.-
+Il coupe, il recoud ; la Médée française, tant bien que mal est créée.</p>
+<p>Que vont en dire ceux qui ont qualité pour être juges ?</p>
+<p>De critiques, n'en parlons pas ; il n'y en a point au seizième siècle :
+il n'y a que des commentateurs pour les œuvres des anciens ; du reste,
+les poètes sont juges les uns des autres, tantôt amis ardents, tantôt
+détracteurs acharnés. Dans le cas présent, il n'y eut que des amis lors
+de la représentation et plus tard. L'auteur était mort, quand la Médée
+parut imprimée, achevée par ses amis, publiée par ses amis.
+Naturellement il n'y eut qu'un concert d'éloges enthousiastes :
+l'Euripide français était venu, l'Euripide français était mort. Plus
+tard, le ton baissera. Comment Étienne Pasquier, cet excellent esprit,
+juge-t-il la Médée ? Voici en quels termes il s'exprime dans ses
+Recherches de la France (i) : « Après Jodelle, la Péruse fit une
+tragédie sous le nom de Médée, qui n'est point trop décousue, et
+toutesfois par malheur, elle n'a été accompagnée de la faveur qu'elle
+méritoit » (2).</p>
+<p>(1) In f° T. 1". col. 704 Liv. VII, ch. 6.</p>
+<p>(2) Hors du cercle des amis, évidemment.</p>
+<p><pb/></p>
+<p>français si la mort ne l'eût enlevé dans la fleur de sa jeunesse, dit
+sèchement : « Je crois qu'il devinoit fort mal «(i).</p>
+<p>Le critique ajoute encore : « Ces prétendus auteurs dramatiques étaient
+simplement des écoliers jeunes, studieux, enthousiastes. »</p>
+<p>(1) T. XII. p. 53-</p>
+<p><pb/></p>
+<p>Où est le cœur, cœur constant, cœur royal,</p>
+<p>Cœur toujours un, cœur fort, cœur immuable, Cœur que fortune ou dure ou
+favorable</p>
+<p>N'a jusqu'ici pu faire balancer ?</p>
+<p>Le roi Créon vous fait commandement</p>
+<p>De déloger hors d'ici promptement,</p>
+<p><pb/></p>
+<p>Vous et vos fils, et qu'en cette contrée</p>
+<p>Vous ne soyez, hui passé, rencontrée.</p>
+<p>Allez ailleurs, pour demeure choisir ;</p>
+<p>Vuidez soudain, car tel est son plaisir.</p>
+<p>Ajoutons, si l'on veut, ces vers dits par Médée, encore qu'ils soient du
+moraliste plus que du poète dramatique :</p>
+<p>0 que foies nous sommes</p>
+<p>De croire de leger aux promesses des hommes ! Nulle dorenavant ne croïe
+qu'en leur cœur, Quoiqu'ils jurent beaucoup, se trouve rien de seur.
+Nulle dorenavant ne s'attende aux promesses</p>
+<p>Des hommes deloïaux, elles sont menter'esses.</p>
+<p>Ils jurent terre et ciel, ils promettent beaucoup ;</p>
+<p>Mais tout incontinent qu'ils ont la chose aimée,</p>
+<p>Leur promesse et leur foi s'en vont comme fumée.</p>
+<p>La langue, partout et principalement dans les choeurs, manque de clarté
+et de précision ; voici pourtant deux passages que j'ai pu glaner, non
+sans quelque peine :</p>
+<p>(P. 39) Mais ne pouvant plus trouver rien</p>
+<p>En ce bas être, d'un tel bien,</p>
+<p>Qu'une ombre menteresse,</p>
+<p>Comme l'a mené son desir,</p>
+<p>Une propre sagesse.</p>
+<p><pb/></p>
+<p>Et ces vers encore (p. 42) :</p>
+<p>Quelle simplesse de pouvoir,</p>
+<p>Quelle folie de vouloir</p>
+<p>Croire en la feinte mine</p>
+<p>Des hommes qui jamais au front</p>
+<p>Ne vont écrivant ce qu'ils ont</p>
+<p>Caché dans la poitrine.</p>
+<p>On sent que la Péruse est jeune, très jeune : les Sentences et lieux
+communs tiennent grande place en sa tragédie — ou rhapsodie. — Disons
+pourtant que ces sentences ont quelquefois une certaine force et beauté</p>
+<p>(P. 4 : Qui se sent favori de fortune et des cieux</p>
+<p>Doit oser davantage : espérant toujours mieux, Ceux qui osent beaucoup
+sont craints de la Fortune; Mais les hommes couars toujours elle importune.</p>
+<p>Médée, dans la scène avec la nourrice, qui ouvre la pièce, a un assez
+beau trait, qui fait pressentir celui de Corneille (Moi — Moi, dis-je,
+et c'est assez) :</p>
+<p>La Nourrice.</p>
+<p>Ainsi des biens un seul bien ne te reste.</p>
+<p>Médée.</p>
+<p>Je reste encor, nourrice.</p>
+<p>Ces vers de valeur, ce trait supérieur, sont noyés dans un flot de vers
+insignifiants ou déclamatoires ; nulle combinaison ingénieuse de
+péripéties, nulle vue profonde dans</p>
+<p><pb/></p>
+<p>cette âme de Médée dont le poète aurait pu, aurait dû nous entr'ouvrir
+les abîmes.</p>
+<p>C'est ennuyeux, et ce n'est guère que cela.</p>
+<p>En adsum, et patulo quantum possum ore sonare</p>
+<p>Iungo meas voces vocibus ipse tuis.</p>
+<p>Ainsi s'exprime Scévole de Sainte-Marthe dans les vers qu'il a mis en
+tête de la Médée (1556).</p>
+<p>Toute idée d'usurpation disparaît quand on les rapproche de ces autres
+vers, qui précèdent :</p>
+<p>Venisti, parvas decus et tu Jane, Perusas, Dignus quem socium sumat
+Apollo sibi.</p>
+<p>(l) Jouaust, 1867, un vol. in-So.</p>
+<p><pb/></p>
+<p>« J'achevai l'œuvre, dit-il, y ajoutant (attexens) ce qu'ApolIon invoqué
+avec les Sœurs m'inspira. Et je me réjouissais de voir ainsi mes écrits
+approuvés sous le nom d'un autre, sans encourir péril d'envie ». ^
+Sainte-Marthe a dix-sept ans alors, ne l'oublions pas, et s'il dit cela
+avec sourire, ne le transformons pas en un vaniteux plagiaire qui prend
+le bien d'un autre : c'est cet autre, après tout, qui reste le glorieux,
+l'émule de Jodelle,</p>
+<p>Péruse ayant depuis cette muse guidée</p>
+<p>Sur les rives de Clain fit incenser Médée (i) :</p>
+<p>Mais la mort envieuse avançant son trépas,</p>
+<p>Fit que ses vers tronqués parfaire ne sceut pas :</p>
+<p>Quand Sainte-Marthe ému de pitié naturelle</p>
+<p>De ces doux orphelins entreprit la tutelle,</p>
+<p>Sçavant les r'agença, leur patrimoine accrut,</p>
+<p>Et grand'peine et grand soin pour ses pupilles eut.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>de Cujas et de Tiraqueau — de parler du droit romain en une « oraison
+française », au grand scandale de quelques savants de l'époque, pour qui
+le latin demeurait la langue sacro-sainte de la science et de toute
+science. La Péruse retrouvait aussi dans cet érudit Poitiers ses amis
+Baïf et le tout jeune encore Scévole de Sainte-Marthe.</p>
+<p>C'est là, semble-t-il dans les quelques mois qui le séparent de la mort,
+que la Péruse a composé les diverses poésies qui demeurent son vrai
+titre près de ceux qui aiment encore ces choses de l'esprit, ces choses
+fragiles, hélas ! quand elles ne sont pas faites du bronze de Corinthe
+de Ronsard ou du marbre de Vauquelin de la Fresnaye. Ces œuvres de La
+Péruse, ce sont quatre ou cinq odes, quelques élégies, des Étrennes et
+Contre-Étrennes, des Mignardises.</p>
+<p><pb/></p>
+<p>dans cet excès, tout en rendant au poète mort si jeune et sans doute
+avant d'avoir donné sa mesure, la justice qui lui est due.</p>
+<p>Le grand exemplaire du seizième siècle en poésie, c'est Ronsard : il a
+la force, il a la grâce, il a les rythmes savants et les expressions
+rares et exquises pour des pensées hautes ou délicates : ce n'est pas de
+Ronsard qu'il faut rapprocher Jean de la Péruse, qui n'est qu'un enfant,
+un bégayeur auprès de ce maître : tout au plus rapprochons-le de Remi
+Belleau, de Jacques Pelletier du Mans, de Jacques Tahureau, de
+Marc-Claude de Buttet. Mais, tout en lui reconnaissant quelque mérite
+d'élégance, ne cherchons pas chez lui un chef-d'œuvre, un de ces camées
+indestructibles qui font vivre un nom : il n'a rien qui nous transporte
+comme la Mignonne, allons voir si la rose, de Ronsard, comme l'Avril de
+Belleau, comme le Petit Lire de du Bellay, comme le Sonnet de Vauquelin
+de la Fresnaye : 0 vent plaisant, et deux ou trois Idillies du même.
+comme l'épigramme de des Portes : Je t'apporte, ô Sommeil du vin de
+quatre années, comme le Printemps de Baïf : La froidure paresseuse,
+comme la pièce de Passerat : Laissons le lit et le sommeil ou la
+Métamorphose d'un homme en oiseau, comme le sonnet enfin de Magny : Ce
+que j'aime au printemps.</p>
+<p><pb/></p>
+<p>petite place au jeune poète dans son article particulier : Anacreon au
+seizième siècle. Qu'il me soit permis de réparer cet oubli et de citer
+ces deux aimables pièces ; elles ne sont pas longues :</p>
+<p>Le trait est charmant.</p>
+<p>A Jane (p. b2) :</p>
+<p>Jane, quand je te regarde, Ce faux Archerot me darde Sous tes paupières
+dorées Mille flèches acérées</p>
+<p>Qui mon cœur navrent si fort Qu'il n'en attend que la mort.</p>
+<p><pb/></p>
+<p>Mais, Jane, soudain ton ris,</p>
+<p>La joie des plus marris,</p>
+<p>Soudain ta mine sucrée</p>
+<p>Mes esprits troublés recrée,</p>
+<p>Changeant en joïe le deuil</p>
+<p>Que j'avoi reçu de l'œil.</p>
+<p>Jane, tes sourcils jumeaux,</p>
+<p>Nids de cent cupidonneaux,</p>
+<p>Et ton front plein que j'adore,</p>
+<p>Me blessent plus fort encore,</p>
+<p>Troublant encor mes esprits</p>
+<p>Joïeux de ton chaste ris.</p>
+<p>Mais ces lèvres coralines,</p>
+<p>Mais ces rans de perles fines,</p>
+<p>Mais ta langue qui sait bien</p>
+<p>Le plus sage rendre sien,</p>
+<p>Brulent l'ennui que me font</p>
+<p>Et tes sourcis et ton front.</p>
+<p>Ainsi, Jane, ainsi je tien</p>
+<p>De toi mon mal et mon bien.</p>
+<p><pb/></p>
+<p>Ma harpe au contraire n'accorde</p>
+<p>Un seul vers grave sur sa corde,</p>
+<p>Et ne se plaît aucunement</p>
+<p>Qu'au son des gaies amourettes,</p>
+<p>Et ne se plaît qu'aux chansonnettes</p>
+<p>Faites de l'amoureux tourment.</p>
+<p>Je ne puis, et ne veux aussi</p>
+<p>Sonner le martial souci.</p>
+<p>(P. 38, éd. de 1556).</p>
+<p>Les forts naissent des forts, le craintif du craintif,</p>
+<p>Le lion du lion, le cerf du cerf fuitif,</p>
+<p>Du bon arbre bon fruit, bon vin de bonne vigne,</p>
+<p>Et vertueux enfants de vertueuse ligne.</p>
+<p>(P. 79. 1556.)</p>
+<p>Laissons les longues pièces alambiquées. J'aime mieux, en sa brièveté,
+l'épitaphe d'Anne de Poulignac (p. 84) : Épitaphe d'Anne de Poulignac,
+comtesbe de Sanserre et de la Roche-Focauld.</p>
+<p><pb/></p>
+<p>Anne de Poulignac, jadis deux fois comtesse,</p>
+<p>Et plus de mille fois en vertus grand'princesse,</p>
+<p>Gist dessous ce tombeau, non pas elle, mais bien</p>
+<p>Un cors qui sachant bien que de mort venoit vie, Vivant vouloir mourir,
+ayant de vivre envie.</p>
+<p>L'âme est au ciel, le nom est partout épandu,</p>
+<p>Sous le marbre sans plus le cors est étendu.</p>
+<p>0 combien j'estime l'heur</p>
+<p>Du basané laboureur</p>
+<p>Contant de sa terre,</p>
+<p>Les grans biens, le grant savoir,</p>
+<p>La Court et la guerre.</p>
+<p>Mais nous qui prétendons mieus</p>
+<p>Il nous faut en divers lieus</p>
+<p>Diversement vivre</p>
+<p>Il nous faut mettre au danger,</p>
+<p>Il nous faut l'ami changer</p>
+<p>Pour l'étranger suivre.</p>
+<p><pb/></p>
+<p>Les hommes vont et revont, Les hommes guère ne font En un lieu demeure.
+Et j'estime que ce soit Pourquoi guères on ne voit Une amitié seure.</p>
+<p>Paris a nos jeunes ans, Puis quand nous sommes plus grans, On nous
+achemine De Paris en un autre endroit, Pour la Guerre, pour le Droit,
+Pour la Médecine.</p>
+<p>Et la strophe (p. 92) :</p>
+<p>Adieu Baïf bien disant, Adieu son souci plaisant, Docte enamourée ;
+Adieu gentil Tahureau, Le premier honneur Manceau, Adieu l'Admirée.</p>
+<p><pb/></p>
+<p>L'esprit tient assez bon, mais hélas ! Dieu très-haut, Hélas ! il me
+faudra si ta main me défaut.</p>
+<p>Tu ne vois en mon visage</p>
+<p>Rien plus qu'une morte image</p>
+<p>Tu ne vois autour de moi</p>
+<p>Rien plus qu'un mortel émoi.</p>
+<p>Tu vois ma dolente mère</p>
+<p>Pleurer de douleur amère,</p>
+<p><pb/></p>
+<p>Tu vois mes fidèles sœurs Toutes baignantes en pleurs : Dont l'une
+blessée en l'âme Au pié de mon lit se pâme ; Et tu vois mon père aussi
+Qui plein d'extrême' souci Se détourne de la voïe,</p>
+<p>Et que ma langue ne peut Te dire ce qu'elle veut.</p>
+<p>Tu mets ta main dans la mienne Qui voulant serrer la tienne, Ne la peut
+serrer plus fort Que ferait la main d'un mort.</p>
+<p>Ainsi tu me vois par songe Lorsque plus mon mal me ronge. Ainsi tu vois
+maintes nuits En songeant tous mes ennuis.</p>
+<p><pb/></p>
+<p>Puis en sursaut éveillée,</p>
+<p>De larmes toute mouillée</p>
+<p>Piteusement vers les cieux</p>
+<p>Tu tends les mains et les yeux.</p>
+<p>Lors tu fais mainte requête</p>
+<p>Pour acoiser la tempête</p>
+<p>Qui veut mon faible bateau</p>
+<p>Engouffrer au fond de l'eau.</p>
+<p>Lors tu pries que ton songe</p>
+<p>Soit converti en mensonge,</p>
+<p>Et, lors comblée en émoi</p>
+<p>Tu dis tels propos de moi :</p>
+<p>Ha, Péruse, c'est dommage</p>
+<p>Qu'avant le tiers de ton âge</p>
+<p>Le cruel destin des cieux</p>
+<p>Te veuille siller les yeux ;</p>
+<p>Et vraiment les Muses mêmes,</p>
+<p>Les Muses que tant ta aimes,</p>
+<p>Et Apollon œil-ardent,</p>
+<p>1 perdront en te perdant.</p>
+<p>Cette présence de l'amie, cette consolation la main dans la main, tout
+cela n'est qu'un songe dont il s'est flatté.</p>
+<p>Vient le retour, ce retour si naturel chez ceux qui aiment et qui
+tournent et retournent si volontiers des idées d'illusion pour se
+reperdre bientôt après dans les désespoirs (p. 106) :</p>
+<p><pb/></p>
+<p>Ah ! pauvre abusé Péruse, Ah ! bon Dieu que je m'abuse ! Pendant que
+j'écri ceci, Plein d'un amoureux souci, Que sais-je si ma maîtresse A
+quelque autre tait caresse ? Pendant que je fai ces vers, Que sai-je si
+ses yeux vers Mille traits amoureux dardent Dans les yeux qui
+larregardent ? Que sai-je si elle a fait Quelque ami qui mieux lui plaît
+? Qui l'entretient, qui la baise, Qui la baise et la rebaise, Qui
+l'œillade, qui lui rit, Et qui ravit son esprit.</p>
+<p>Et puis il se rassure, l'amie lui est fidèle :</p>
+<p>Bon Dieu ! qu'est-ce que je pense? 0 ! que grande est mon offense !</p>
+<p>Mais-il faut, vrai amoureux qu'il est, qu'il se torture. La crainte
+revient encore une fois : (p. 108)</p>
+<p>Je sens dans ma fantasie Ne sai quelle jalousie</p>
+<p>Qui me fait douter du cas Duquel je ne doute pas.</p>
+<p><pb/></p>
+<p>J'ai peur que ta belle face,</p>
+<p>J'ai peur que ta sainte grace,</p>
+<p>J'ai peur que tes plaisants yeux</p>
+<p>Qui peuvent forcer les dieux,</p>
+<p>Et ta minette riante,</p>
+<p>Et ta langue bien disante</p>
+<p>Ne contraignent maint amant</p>
+<p>De te servir en t'aimant.</p>
+<p>Toujours les Graces, les belles</p>
+<p>Tirent Amour après elles.</p>
+<p>Puis Amour et grand'Beauté</p>
+<p>Vivent en communauté. «</p>
+<p>Et que sai-je si l'absence</p>
+<p>Cause point une obliance ?</p>
+<p>Il s'arrête enfin sur une espérance d'entière fidélité :</p>
+<p>Pren mon cœur, je te le donne,</p>
+<p>Mais prend le tout, ma mignonne,</p>
+<p>Et me donne ainsi le tien,</p>
+<p>Qu'autre que moi n'i ait rien.</p>
+<p>Cette Amourette, par ses côtés gracieux, nous ramène aux poésies sans
+prétention de celui qui l'a composée dans le sentiment attristé de sa
+mort prochaine.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>intitulées Étrennes, et parmi ces Etrennes, celle qu'il a adressée à
+Mademoiselle 1. Bertelot (p. 64, Ed. 1556) :</p>
+<p><pb/></p>
+<p>Survient la ride qui trace</p>
+<p>Le poli de notre face,</p>
+<p>Survient la triste pâleur</p>
+<p>Qui honnit notre couleur.</p>
+<p>Survient la courbe vieillesse,</p>
+<p>Vieillesse qui point ne cesse</p>
+<p>Que n'ait mis notre plus beau</p>
+<p>Dedans l'horreur d'un tombeau.</p>
+<p>Ainsi, Jane, ainsi au monde</p>
+<p>Les choses vont comme une onde,</p>
+<p>Et sous le ciel tout périt</p>
+<p>Fors la vertu de l'esprit.</p>
+<p>Ne te fi donc en ta face,</p>
+<p>Puisqu'ainsi la beauté passe ;</p>
+<p>Ne te fi donc en tes ans,</p>
+<p>Puisqu'ils fuïent comme vents.</p>
+<p>Les Chansons aussi sont assez peu de chose, et nous pouvons, sans leur
+faire tort, passer sur les quelques pages qu'elles remplissent, sans
+nous y arrêter autrement.</p>
+<p>Restent les Sonnets. Le seizième siècle est par excellence — sans
+préjudice du dix-neuvième — celui des délicieux sonnets. Combien en
+ont-ils, Ronsard pour sa Marie, du Bellay pour son Olive, Baïf pour sa
+Francine, des Portes pour les unes et pour les autres ! La Péruse, je
+regrette de</p>
+<p><pb/></p>
+<p>Tu me fuis donq ? donq tu ne m'aimes pas,</p>
+<p>Cruelle ? donq mon amour tu repousses.</p>
+<p>Donq plus je t'aime et plus tu te courrouces ?</p>
+<p>Plus je te cherche et moins tu en fais cas ?</p>
+<p>Bien que pour toi je courroi au trépas</p>
+<p>Bien que pour toi cent morts me seroïent douces, Ce néantmoins loin de
+toi tu me pousses,</p>
+<p>Et de mon mal tu en prens tes ébas.</p>
+<p>0 si un jour Cupidon de sa flâme</p>
+<p>Pour mon amour voulait bruler ton âme,</p>
+<p>Comme mon cœur pour toi est enflâmé !</p>
+<p>Alors feignant ne t'aimer point, mauvaise,</p>
+<p>Je te feroi sentir le grand malaise</p>
+<p>Que l'on reçoit aimant sans être aimé.</p>
+<p>(P. 97. — 1)56.)</p>
+<p>Adieu vous di, Muses aôniennes,</p>
+<p>Vos musements m'ont.par trop arrêté.</p>
+<p>Vos beaux guerdons, sont-ce pas pauvreté, Langueur, souci, ennuis,
+travaux et pênes ?</p>
+<p><pb/></p>
+<p>Et puis vantez vos eaux pegasiennes, Puis promettez une immortalité.
+Adieu, adieu : je n'ai que trop été Repeu du vent de vos promesses vaines.</p>
+<p>Las ! qu'ai-je dit ? 0 Muses, revenez, Et avec moi, s'il vous plaît,
+vous tenez, Car désormais vous seules je veux suivre :</p>
+<p>Sachant très-bien qu'au monde tout périt Fors seulement les seuls biens
+de l'esprit, Qui l'homme mort après la mort fait vivre.</p>
+<p>Puisque le dé t'a fait mon créditeur, Voici de quoi envers toi je
+m'aquite ; 0 que ne suis-je en même façon qui te Envers chacun de qui je
+suis deteur.</p>
+<p>Ha ! mon Baïf, les poètes n'ont plus d'heur, Les vers n'ont plus faveur
+que bien petite, Ce siècle d'or n'a égard au mérite Des bons esprits, le
+seul or a faveur.</p>
+<p>Cessera donc notre noble entreprise ? Si nous n'avons qui nos vers
+favorise, Cessera donc le dous de notre voix ?</p>
+<p><pb/></p>
+<p>La Péruse avait perdu un sonnet au jeu de la rafle, il allait perdre la
+vie au jeu de l'amour. Les craintes en effet exprimées par le jeune
+poète en son Amourette, n'étaient que trop fondées : atteint jusqu'aux
+moëlles, il mourait peu après n'ayant pas, comme il le dit lui-même,
+accompli le tiers de son âge.</p>
+<p><pb/></p>
+<p>« Leur intention était bonne, dit l'excellent abbé, c'est que notre
+poésie a acquis depuis bien des degrés de perfection que l'on ne
+prévoyait peut-être pas alors et qui font négliger depuis longtemps ces
+anciennes poésies. » (T. XII, p. 56).</p>
+<p>Pourquoi alors me suis-je occupé de lui ?</p>
+<p>Voici : J'ai voulu réaliser une idée que j'ai depuis longtemps : C'est
+que de chaque poète, de ceux surtout qui ne sont pas chefs d'emploi,
+chorèges, on pourrait faire une petite anthologie particulière, non pas
+une anthologie morte comme celles qu'on trouve dans les recueils, mais
+une anthologie animée, vivante en quelque sorte, où le poète paraîtrait
+figuré par son œuvre, mais aussi lui-même, tel qu'il fut et vécut : un
+peu de biographie, un peu de critique. Assez de citations
+représentatives, si je puis dire.</p>
+<p><pb/></p>
+<p>27 Septembre 1889.</p>
+<p><pb/></p>
+<p>Clotilde de Surville (1)</p>
+<p>MESSIEURS,</p>
+<p>(1) Étude publiée dans les Mémoires de la Société Académique de l'Aube,
+année 1 82.</p>
+<p>(2) L'auteur est M. Gabriel Monavon.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>préconçue de l'authenticité et avec l'intention de faire partager cette
+conviction aux autres. Or, il ne vaut jamais rien de se faire avocat au
+lieu de rester critique dans les questions douteuses. J'attendais des
+preuves et on nous donne des raisonnements. Devant des preuves, devant
+le moindre petit bout de manuscrit du xve siècle, je m'inclinerais ; à
+des raisonnements, je résiste et crois devoir rester de l'avis de
+Millin, dllldagator, de Raynouard et de Villemain. J'ajoute Charles
+Nodier, car c'est ici le plus curieux : Nodier qui, en 1827, doit
+publier un nouveau volume de Clotilde, en 1809 ne croit nullement à
+Clotilde, mais au marquis de Surville (1). La chose en vérité est piquante.</p>
+<p>(1) Voir ses Questions de Littérature légale.</p>
+<p><pb/></p>
+<p>(2) Carmina Novem illustrium Feminarum.</p>
+<p><pb/></p>
+<p>Il est clair que Surville, peu content de la couleur trop peu archaïque
+de ses premiers essais, ajoutait, dans le progrès de son travail, une
+couche de couleur envieillie.</p>
+<p><pb/></p>
+<p>Devant le public, je le sais, Vanderbourg tiendra un</p>
+<p><pb/></p>
+<p>autre langage. Mais que faire ? Il est éditeur, il a accepté une charge,
+une responsabilité ; il veut le succès dans l'intérêt de la famille de
+Surville, car pour lui, je le répète, il ne réclamera rien, il
+n'acceptera rien, et venir dire au public: Nous avons l'honneur de vous
+présenter des œuvres apocryphes, avec étiquette du quinzième siècle,
+mais en réalité fabriquées hier, venir dire cela, ce ne serait pas, on
+en conviendra, un très bon moyen de préparer le succès.</p>
+<p>Il faut que M. Macé, notre académicien, ait beaucoup de foi dans sa
+thèse pour publier de tels documents et conserver sa ferme croyance,
+pour l'appuyer même sur des pièces de ce genre.</p>
+<p>Quel langage que celui de Vanderbourg s'il était convaincu foncièrement
+que celui-ci : « Que vous importe et le siècle de Clotilde et les
+corrections que ses oeuvres ont pu subir ? (p. X) ».</p>
+<p>Surville de son côté, lors même qu'il parle en son nom,</p>
+<p><pb/></p>
+<p>Pour moi il résulte de tout cela que Surville, Brazais, peu et avec
+répugnance, Vanderbourg, volontiers et dans son rôle d'éditeur, enfin
+Nodier plus tard, pour le volume de Poésies inédites de Clotilde publié
+par lui et le baron de Roujoux en 1827, ont été les collaborateurs de
+cette œuvre complexe, avec des parts bien inégales, Surville ayant été
+le poète, le créateur, les autres n'ayant été que les éditeurs,
+correcteurs et arrangeurs.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Examinons-les donc d'un peu plus près en effet, ces Poésies de Clotilde
+de Surville ; aussi bien elles ne sont pas sans mérite et elles pourront
+nous offrir un dédommagement de la peine que nous aurons prise. Je les
+ouvre, et je trouve, dans la Préface de 1803, la traduction d'une Ode de
+Sapho, copiée par Vanderbourg, au récit de cet éditeur, en 1794, pendant
+l'émigration, sur les manuscrits de Surville , la voici :</p>
+<p>- Qu'encharment, résonnant de. ta bouche de rose,</p>
+<p>Les sons mélodieux !</p>
+<p><pb/></p>
+<p>Je t'ay vu... dans mon seyn, Vénus qu'ay toute en l'âme, Qui, sur lèvre
+embrasée, estouffoit mes,accents,</p>
+<p>Court en fleuve de flame...</p>
+<p>S'ennuaigent mes yeulx, n'oy plus qu'emmy rumeurs ; Je brusle, je
+languis ; chauds frissons dans ma vayne Circulent : je paslis, je
+palpite, l'haleine</p>
+<p>Me manque, je meurs...</p>
+<p>Qu'en dites-vous ? Pour moi, il me semble que je la connais depuis
+longtemps, cette Ode célèbre, non pas seulement dans le grec, mais sous
+une forme française approchante : l'Ode de 1803 n'est, un examen
+attentif m'en a convaincu, que la traduction de Boileau (dans le Sublime
+de Longin), vieillie, et vieillie sans beaucoup d'art, sans beaucoup
+d'effort pour déguiser l'emprunt audacieux.</p>
+<p>Boileau n'eût pas mieux dit.</p>
+<p>Elle ajoute :</p>
+<p>•Point d'ouvrage parfaict n'esclot du plus habile ; Cuydez qu'en parle à
+fond. Quand loyzir m'est donné, Reprends de mon jeune âge un fruict
+abandonné :</p>
+<p>Le revoy, le polys : s'est gentil le caresse ;</p>
+<p>Ains, voy-je qu'est manqué, la flamme le redresse.</p>
+<p><pb/></p>
+<p>Tu sais, Rocca,- quels sévères liens</p>
+<p>M'ont asservie en nos doulx entretiens ;</p>
+<p>Ton goust, mien guide en ceste folle escrime, M'a faict au sens
+sacrifier la rime ;</p>
+<p>Et toutefois ne se contente pas</p>
+<p>D'un vers desnû -de ce frivol appas ;</p>
+<p>Combien nous fait essuyer de traverses,</p>
+<p>Quant veulz, après deux carmes pucellins,</p>
+<p>Sans nul effort coupler deux masculins.</p>
+<p>Quand Surville écrit (même Épître, p. 29) :</p>
+<p>Or il advint qu'un beau jour de fortune, Lorsque n'avoy soulcy ne peine
+aulcune, Qu'un ventelet entre mes crins souffloit,</p>
+<p>Et sur mon seyn, qui, ja tendre, s'enfloit</p>
+<p>Au nom d'Amour, ainsi que bandelettes Faisoit voler leurs claires
+ondelettes.</p>
+<p>Il se trompe de date, il fait du Remi Belleau ou du Jacques Tahureau, il
+ne fait pas de l'Alain Chartier ou du Martial d'Auvergne, pas même du
+Charles d'Orléans.</p>
+<p>Et de quelle date maintenant est cette poétique que</p>
+<p>Clotilde se fait-dicter par sa mère (p 103) :</p>
+<p>Voires qu'est beau cela seul qui sait plaire</p>
+<p>A tout chascung ?</p>
+<p><pb/></p>
+<p>Oh ! cette fois c'est du dix-huitième siècle tout pur :</p>
+<p>Plaire y est la règle suprême.</p>
+<p>Ainsi en quelques pages Surville mêle tous les poètes et toutes les
+dates. Mais l'imitateur a beau faire et s'ingénier ; il est surtout de
+son temps. Lisez les Verselets au Premier Né, qui ont été tant célébrés
+et répétés : .</p>
+<p>Bel ami, cher petiot, que ta pupille tendre</p>
+<p>Gouste un sommeil qui plus n'est fait pour moy !</p>
+<p>Je veille pour te veoir, te nourrir, te défendre...</p>
+<p>Est-ce assez moderne de ton, de fermeté, de progression ?</p>
+<p>... Il s'endort.</p>
+<p>N'estoit ce teint fleuri des couleurs de la pomme,</p>
+<p>Ne le diriez dans les bras de la mort ?</p>
+<p>Voici d'autres vers de Clotilde, dans une pièce intitulée :</p>
+<p>Chant d'amour du Printemps (p. 45) :</p>
+<p>Oui, tout renaist, s'anime ou se réveille ; Arbustelets qu'ont ployés
+les aultans, Redressez-vous de perles éclatants,</p>
+<p>Bordez (1) tapys que nature appareille,</p>
+<p>Pour y poser les trosnes du printemps ;</p>
+<p>Gentil matin de l'an qui vient d'esclore,</p>
+<p>(1) Vanderbourg doit avoir mal lu; ce serait plutôt brodez.</p>
+<p><pb/></p>
+<p>Type riant du matin de nos jours,</p>
+<p>Rien que ton œil ne verdysse et coulore : Seyson des jeulx, empeyre des
+amours,</p>
+<p>Cil resjouis qui leur perte desplore !</p>
+<p>Ils sont très jolis ces vers, mais quel tour moderne ! Que tout cela est
+bien de la philosophie voluptueuse du dix-huitième siècle, surtout ce
+type riant!</p>
+<p>Clotilde, ainsi chantois en ta seyzon première,</p>
+<p>Quand jouvette, en soulcy, n'a que jeux enfantins, Caquets ou balletons
+sous verdoyante olmière ?</p>
+<p>Lors, au triple trion des filles de lumière,</p>
+<p>Par doulx besoin d'aimer, dès l'aube évigilée,</p>
+<p>Dans leur noble entretien sitost allois calmant</p>
+<p>Ce feu qui du plaisir tient plus que du tourment,</p>
+<p>Ains qu'est aux vrais plaisirs dont ta course est filée Comme ondins
+emperlés sont au vray diamant. (P. 225).</p>
+<p>Voilà, dirai-je encore, un passage fort joli, mais (et cette observation
+a mille applications pour le lecteur de ces Poésies), mais beaucoup trop
+littéraire ; ce n'est pas au quinzième siècle qu'on envisage ainsi la
+littérature, mais au dix-huitième, alors qu'elle donne tout, conduit à
+tout.</p>
+<p>Clotilde cite perpétuellement Homère, Virgile, Horace, Ovide, Théocrite,
+Pétrarque, Dante et bien d'autres ; elle</p>
+<p><pb/></p>
+<p>Luy, de qui d'or on diroit les parolles,</p>
+<p>Ne scait-il donc qu'en ces bluguettes folles, Quelque tyzon qu'on voye
+s'esbouffer,</p>
+<p>S'estainct sans luire et meurt sans eschauffer ?</p>
+<p>Du grand Allain telle seroit la chance, S'orgouillouzet d'une sesche
+abondance.</p>
+<p>De style pur plus n'est embesogné ;</p>
+<p>Car que luy fault, que d'estre mieux soigné ?</p>
+<p>C'est quazi tout, en cet âge barbare,</p>
+<p>Non d'escrivains, mais de génie avare,</p>
+<p>Où de la rime esclaves morfondus</p>
+<p>Tant d'estourneaux riment... et rien de plus.</p>
+<p>Qui a parlé ainsi ? Est-ce M. de la Harpe, amateur de beau style ? Si ce
+n'est lui, c'est donc son frère, je veux dire quelque critique de son
+école.</p>
+<p>Dans le volume de Poésies inédites (1827), publié par Nodier et le baron
+de Roujoux, l'auteur de la délicieuse pièce :</p>
+<p>Elle était bien jolie au matin sans atours</p>
+<p><pb/></p>
+<p>Rondel sur Olympe de Rocheforl, accusée d'insensibilité par ses nombreux
+adoi-aleurs :</p>
+<p>Avec son cœur, tout bas, soubrit et jaze</p>
+<p>Jeulx laisse au loin, qui charmoient ses loyzirs.</p>
+<p>Quand souffle, estrange au souffle des zephyrs,</p>
+<p>De son beau seyn fait onduler la gaze,</p>
+<p>Olympe s'ouvre ?</p>
+<p>Laissez, amants, dont les bruslants soupirs</p>
+<p>N'ont triomphé d'un froid qui vous écrase,</p>
+<p>Mieulx fermenter ces tendres soubvenirs,</p>
+<p>Fault bien que cède aux feulx dont elle embraze, Fault bien, pour ung,
+que sur tant de martyrs,</p>
+<p>Olympe s'ouvre.</p>
+<p>Ce Rondel indique un art plus consommé, plus raffiné que tout ce qu'il y
+a dans le volume de 1803. Si Surville en est l'auteur, je ne puis
+m'empêcher de croire que Nodier y a mis la main pour y introduire je ne
+sais quel charme et douceur amollissante.</p>
+<p>J'en dirai autant de ce joli couplet où dans le Chastel d'Amour,
+Rosalyre, sous la plume de Clotilde (p. 82), exprimait sa douleur d'être
+séparée de son amant :</p>
+<p><pb/></p>
+<p>Quand je vois ses beaulx yeulx s'ouvrir, Tout rit aux miens dans la nature.</p>
+<p>De feulx d'amour me sens mourir,</p>
+<p>Quant je vois ses beaulx yeulx s'ouvrir,</p>
+<p>Par doulx bayzers vouldrois couvrir</p>
+<p>Chacun des lys de sa figure !</p>
+<p>Quant je vois ses beaulx yeulx s'ouvrir,</p>
+<p>Tout rit aux miens dans la nature.</p>
+<p>Que sçavent les humains, que m'ont appris les saiges,</p>
+<p>Un moment apparus sur l'océan des aiges,</p>
+<p>Vainement Archytas, Thalès, Apollodore,</p>
+<p>Tant d'autres plus récents, du maistre que j'implore Tentèrent pénétrer
+les adorables fins ;</p>
+<p>\</p>
+<p><pb/></p>
+<p>Et page 91 :</p>
+<p>Sur les aisles des tanz pourquoy n'anticiper ?</p>
+<p>Nuaiges espandus sur la foule vulgaire ?</p>
+<p>C'est l'instant de mieux voir : jour ne tardera guère Où le ciel, aux
+Grégeois clos ainsi qu'aux Romains, François, ira s'ouvrant sous vos
+savantes mains.</p>
+<p>Il naistra parmi vous, l'intrépide génie</p>
+<p>Qui des mondes créés démontrant l'harmonie,</p>
+<p>Aux mobiles accords doit tout assujetir.</p>
+<p>Digne organe des lois que j'ozai pressentir, Qu'affranchi des liens du
+séjour léthifère,</p>
+<p>Son esprit glorieux, volant de sphère en sphère, Treuve, au seyn du
+Très-Haut, qu'aura tant honoré, Ce repos absolu dans l'espace ignoré !</p>
+<p>Prou sera-ce pour moy, qu'ent'rouvrant la barrière,</p>
+<p>Je luy monstre la voye, et que mes jeulx d'enfants L'œil presparent à
+suyr des coursiers triomphants.</p>
+<p><pb/></p>
+<p>dire des fragments, des études de son œuvre, ou du moins l'en entendre
+causer, et il aurait fait son profit de ces confidences.</p>
+<p>Même observation sur le mot vingt (venit), dans les</p>
+<p>Quoy ! tes blancs doigtelets abandonnent la mamme</p>
+<p>Je ne veux pas multiplier les exemples.</p>
+<p>Autre observation du même genre : dans le Rondel VI (p. 135 du volume de
+Vanderbourg, éd. 1825), rondeau assez joli, Surville fait entrer le mot
+ocondrois, qu'il a trouvé dans Lacombe, mais qui semble bien y être à
+tort ; car Roquefort, plus tard, a reconnu l'erreur et remis le vrai
+mot, qui est orendroit. Mais Surville ne pouvait pas</p>
+<p><pb/></p>
+<p>deviner Roquefort et il a suivi Lacombe, son guide ordinaire, se
+trahissant ainsi.</p>
+<p>Je crois qu'il est acquis que ces poésies sont du XVIIIe siècle et ne
+peuvent être du xve.</p>
+<p><pb/></p>
+<p>vieux parchemin, avec leur trace de vétusté, leur écriture gothique. Il
+avait dit : Les voilà, je les ai trouvés dans un vieux coffre de pierre
+de l'église Sainte-Marie-de-Redcliffe. Et il avait fait illusion aux
+habiles de Bristol ; il avait trompé, je l'ai dit, Horace Walpole,
+l'homme du monde, l'antiquaire, le savant connaisseur, l'auteur des
+Anecdotes on Painting, le personnage de l'Angleterre qui avait le plus
+peur d'être dupe ; il avait trompé l'Angleterre en la charmant.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Faut-il vous rapporter encore plusieurs arguments de détail présentés
+par M. Macé ? Faut-il vous dire que le</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Troyes, 15 mars 1872.</p>
+<p>Dernière note sur Clotilde de Surville (0</p>
+<p>(1) Étude publiée dans les Mémoires de la Société Académique de l'Aube,
+année 1873.</p>
+<p><pb/></p>
+<p>Je reviens au travail de M. Loquin. La partie la plus intéressante de ce
+« Procès littéraire » (c'est le titre que l'auteur a adopté), est celle
+où il rend compte d'un article</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>C'est ce que nous lisons dans un élégant petit volume publié tout
+récemment par M. A. Mazon, autre écrivain, autre fidèle du Vivarais. La
+question tient fort au cœur des chercheurs du pays. M. Mazon donne tout
+au long les actes du Manuale Notl1rum d'Antoine de Brion. Et voilà,
+dirai-je, comment la vérité littéraire peut sortir de la poudre des
+études de notaire.</p>
+<p>Et ainsi se termine ce que j'appellerai, non pas « un grand problème
+d'histoire littéraire » (Journal Officiel du 22 janvier 1873). mais une
+petite question d'amusement philologiquè.</p>
+<p>Troyes, 15 octobre 1873.</p>
+<p><pb/></p>
+<p>Balthazar Bailly (1)</p>
+<p>L'Importunité et Malheur de nos Ans</p>
+<p>(J) Étude publiée dans les Mémoires de la Société Académique de l'Aube,
+année 1881.</p>
+<p><pb/></p>
+<p>on n'en connaît, en effet, que deux exemplaires, celui de la
+Bibliothèque nationale, et celui-ci, beaucoup plus beau, d'une
+conservation parfaite, et relié par Capé, en maroquin rouge, dans un
+goût très simple et sans abus de dorures.</p>
+<p><pb/></p>
+<p>Cherchons donc, dans le petit volume soigneusement étudié, ce que le
+poète pourra nous faire connaître de lui-même.</p>
+<p>Nous fussions sans discord, sans litige et sans fore.</p>
+<p><pb/></p>
+<p>Et regarde son foïe au serain dehaché</p>
+<p>Toujours le mirage de l'âge d'or en arrière.</p>
+<p>Balthazar Bailly, cela devient évident, n'est pas exempt de l'illusion
+et du lieu commun</p>
+<p><pb/></p>
+<p>Misérable par trop, et par trop misérable,</p>
+<p>Convoitise d'honneur, sous quels maux nous accable Ton voile de Justice
+et de religion,</p>
+<p>De douce liberté meuë d'ambition !</p>
+<p>N'advienne ce désastre et malheur importun,</p>
+<p>Que ce règne ancien soit jamais que sous un,</p>
+<p>Un qui de père en fils vivant ès sainctes lois,</p>
+<p>Soit aimé comme il est béni de nos voix.</p>
+<p><pb/></p>
+<p>Sous ce rapport, l'ouvrage qui nous occupe aurait une vague ressemblance
+avec le petit poème de Vauquelin de la Fresnaye : Pour la Monarchie de
+ce Royaume contre la division. Vauquelin, le poète normand, a précédé de
+huit ans (i) le poète troyen, et je crois que celui-ci l'a lu et s'est
+inspiré de ce prédécesseur qui l'a engagé sur ses traces. Du reste, il
+n'était pas besoin de cette invitation extérieure. La modération est un
+fruit naturel du sol de Champagne, dont le génie répugne aux
+exagérations et aux violences.</p>
+<p>Toute âme se trouvoit heureuse en ce bas lieu ; Jamais on ne parloit que
+le Ciel se changeast</p>
+<p>Bien qu'il couvast un mal, que pour ce il dechargeast</p>
+<p>(i) La Monarchie de ce Royaume est de 1568. Lyon, Benoît Rigaud.</p>
+<p><pb/></p>
+<p>Ce malheur sur la terre : au contraire c'estoit</p>
+<p>Lors qu'elle portoit plus que l'on ne souhaitoit ; Jamais on ne voyoit
+la saison retournée ;</p>
+<p>L'hiver estoit hiver, l'esté par sa journée</p>
+<p>Démontroit clairement l'effet de son soleil, L'Automne et le Printemps
+estoit toujours pareil.</p>
+<p>Tout cela est changé, comment ? par la perversité des hommes, des grands
+surtout et des puissants ; car les grands sont les plus pervers. Voilà
+ce que Balthazar nous annonce tout d'abord en des vers grondeurs qui
+forment contraste avec les précédents :</p>
+<p>Nature auroit besoin torger nouveau métal.</p>
+<p>Les révolutions ou tels escrits sçavants</p>
+<p>N'ont tant avec vertu melioré nos ans,</p>
+<p>Dire que nostre siècle a la pire saison.</p>
+<p>Ceux qui tiennent les rancs et plus souverains lieux Chassent d'eux bien
+souvent la crainte deue aux cieux • Et ne part de leur cœur si peu de piété</p>
+<p>Qui tasche entretenir notre société.</p>
+<p>C'est leur but et sujet, toute leur passion</p>
+<p>Consiste en ce seul point de voir que leur grandeur Au détriment de tous
+croisse selon leur cœur.</p>
+<p><pb/></p>
+<p>Et s'approche dès lors le reste des humains Tendre son col au joug de
+ces braves Romai'ns.</p>
+<p>Le poète qualifie assez bien César :</p>
+<p>Ce beau rusé trompeur qui se fit prolonger</p>
+<p>Les Gaules pour cinq ans.</p>
+<p>Voici d'abord les ecclésiastiques :</p>
+<p>Qui voit marcher l'Église en la crainte de Dieu?</p>
+<p>Qui ne voit le pasteur plutôt hors de son lieu</p>
+<p>Dresser ses actions en faicts du tout lubriques, Vendre s'il peut sa
+crosse et plus sainctes reliques ?</p>
+<p><pb/></p>
+<p>Laisser leur résidence et se mettre aux Estats,</p>
+<p>Se mesler du public, et seculièrement</p>
+<p>Faire ce qu'ils debvroyent religieusement.</p>
+<p>L'on ne verroit pas tant de gros curez errans</p>
+<p>Eux et leurs doux troupeaux, comme des ignorans. A peine verroit-on ce
+scandale advenir</p>
+<p>Qu'un Religieux peust si librement venir</p>
+<p>Ces moines ont un tel appétit que pour y satisfaire ils dévorent les
+bâtiments de leurs maisons et s'attaquent au reliquaire, au grand
+étonnement et scandale des fidèles :</p>
+<p>D'où provient ce degast et ces grands changements, Cela vient,
+disent-ils, des troubles de ce temps. Mais si quelque autre qu'eux qui
+sait la vérité,</p>
+<p>Par ces gens piéteux de dire est invité</p>
+<p><pb/></p>
+<p>Pourquoi de ce saint lieu les images sont hors,</p>
+<p>Ces moines, respond-il, ont un estrange corps,</p>
+<p>Leur estomac est chault, entre tous les humains</p>
+<p>Ils digèrent le bois et la pierre, et les saints.</p>
+<p>Les chanoines ont leur tour :</p>
+<p>Je voudrois bien aussi que les Communautez,</p>
+<p>Avec peu plus de zèle et de sincérité</p>
+<p>Méritassent les biens qu'ils n'ont pas mérité.</p>
+<p>Et vouldrois mieux encor, pour rendre plus heureux Ce canonique estat,
+que les luxurieux</p>
+<p>Qui ne sont mariez, mais couchent tous les jours</p>
+<p>Et changent el plaisir de nouvelles amours,</p>
+<p>Ne nourrissent point tant de ces petits neveux Auxquels ils ont forgé le
+nez et les deux yeux.</p>
+<p>la ne desplaise aux bons, toute calamité</p>
+<p>Qu'il ne demeure encor force espics tout entiers, Qui nous rendent leur
+fruict tout sain en nos greniers.</p>
+<p>Aux gens de justice maintenant. Sur ceux-là, Balthazar Bailly est
+intarissable, on comprend qu'il les voit tous les jours et de près.
+Aussi ne les ménage-t-il pas. Nourri dans le palais, il en sait les
+détours :</p>
+<p>Qui de ceux de Justice au temps où nous vivons A gardé le serment tel
+que nous le debvons ? (1)</p>
+<p>(1) Remarquez ce mot Tel que nous le devons. Il est du nombre de ceux
+qui ont fait ce serment. Il est bien conseiller de justicç.</p>
+<p><pb/></p>
+<p>Elle ne fut jamais plus longue et ennuyeuse,</p>
+<p>Si chère, en moins d'honneur ni plus ambitieuse, Plus cupide du gain,
+d'agrandir ses trésors,</p>
+<p>Le maistre de la cause est celuy qui le vend.</p>
+<p>Que ce qu'il y despend pendant si long séjour</p>
+<p>Luy fait quitter son sac, son procès et la cour.</p>
+<p>Comme il connaît les termes de chicane, et comme il les rend au naturel,
+ce poète champenois ! On voit bien qu'il est du métier; vous n'en
+douterez pas quand vous aurez lu ces vers :</p>
+<p>Vous, Riches, n'estes moins en procès travaillez.</p>
+<p>Si vostre bourse est pleine, il faut que vous baillez Si souvent de
+l'argent en consultations,</p>
+<p>On met si proprement vos assignations,</p>
+<p>A plaider tant de fois de quinzaine en quinzaine,</p>
+<p>A bailler par escrit, vérifier vos faicts,</p>
+<p>Reprocher des tesmoins, compulser, faire extraicts Bailler salvations,
+fournir des contredits,</p>
+<p><pb/></p>
+<p>La malice du temps, aussi l'art de plaider,</p>
+<p>L'âme du procureur, désireuse d'ayder</p>
+<p>Au droit de son client, or qu'il ne soit bien cler, Scait par tant de
+délais et tricots emboucler</p>
+<p>Le plus apparent droict, qu'avant les jugements</p>
+<p>Tel qui deust obtenir, debvra tous les despens.</p>
+<p>Je desirerois bien que la Judicature</p>
+<p>Se donnast sans argent, et que la vertu pure .</p>
+<p>Sans ayde que de soy peust monter aux hauts lieux : Certainement l'Estat
+s'en porteroit trop mieux.</p>
+<p>Mais je me plains surtout des iniques mayries Auxquelles il aborde un
+tel nombre d'harpies,</p>
+<p>Qui sucent tout le sang du pauvre laboureur,</p>
+<p>Tant que son droit douteux a si peu de couleur.</p>
+<p>On luy faict un procès, or qu'il n'en veuille point.</p>
+<p>S'il est mis hors de court, on treuve un nouveau point Qui luy met plus
+avant, tant qu'il ne reste rien,</p>
+<p>D'où ces affamés loups puissent tirer un tien.</p>
+<p>Je me plains encor plus des procès criminels</p>
+<p>Qui s'instruisent céans par juges telz et quelz,</p>
+<p>D'une personne douce et meilleure qu'il n'est, Umbrageant faulcement son
+avare larcin</p>
+<p>D'un blasphême, d'un fur, ou d'un bris de chemin.</p>
+<p><pb/></p>
+<p>On ne s'attend pas, après les blâmes sans mesure qu'il a déversés sur
+les religieux, sur les juges, que Bailly ménagera les nobles. La
+noblesse, en effet, est flagellée cruel- * lement : le poète la montre
+sous un jour très peu favorable ; il lui reproche une bassesse inouïe et
+vraiment peu croyable. A force de tendre sa critique, il nous met en
+défiance, nous nous rappelons que même au sein des excès les plus
+condamnables, il a toujours existé chez la noblesse française un
+sentiment dont le Balthazar semble avoir absolument perdu la notion, le
+sentiment de l'honneur. Il fait entendre que le noble descend volontiers
+de son château des hauts lieux, sous prétexte de protéger le laboureur,
+son vassal, contre les bandes de soldats allemands répandus dans la
+campagne, et qu'au retour de ces expéditions protectrices, s'il
+rencontre le troupeau du manant, il se paie de sa peine en prenant sa
+part des bêtes :</p>
+<p>La Noblesse se tient en son lieu cazanière,</p>
+<p>Pensant faire un grand coup s'elle fuit la première</p>
+<p><pb/></p>
+<p>Les tempestes de Mars, le ravageux soldat,</p>
+<p>Qu'il ne pille ses biens comme le pays plat.</p>
+<p>S'elle part de son fort et qu'elle aille au devant Destourner le nuage
+au soleil ja levant,</p>
+<p>Retournant au Midy, s'elle trouve un subjet</p>
+<p>Qui vienne du labour, et qu'elle ait pour objet</p>
+<p>De l'avare desir qui la faict desplacer</p>
+<p>Le bestail ja lassé qu'elle voye chasser</p>
+<p>Doucement en l'estable, afin de soulager</p>
+<p>L'ennuy de son travail, elle veult partager,</p>
+<p>Le profit de ce jour avec son laboureur,</p>
+<p>Soubs l'ombre qu'elle vient de chasser son malheur.</p>
+<p>Leur cœur est-il si dur qu'il ne s'esmeuve pas</p>
+<p>De voir ces pauvres gens plus viste que le pas Ramener leur substance,
+et courir tous les jours Aux lieux emmuraillés chercher leur seul secours ?</p>
+<p><pb/></p>
+<p>Ont-ils point de douleur de voir leur innocence</p>
+<p>De vaincre par ses cris de stentor la clameur</p>
+<p>Et pourtant n'aurait d'eux une seule faveur ?</p>
+<p>Et famine ?</p>
+<p>Passerat lui aussi, notre Passerat, un autre poète que Balthazar Bailly,
+a vu les empistolés au visage noirci, mais il a pris la chose plus
+gaiement en leur recommandant sa maison de Bagnolet.</p>
+<p><pb/></p>
+<p>La cause que Brennus approcha ses Gaulois</p>
+<p>Si près du Latium, fut-ce pas que les loix</p>
+<p>De ces sages humains et leur grande douceur</p>
+<p>Ne pouvait endurer la barbare rigueur</p>
+<p>Presser cruellement les foibles et petits</p>
+<p>Je ne doubté jamais que cette humanité</p>
+<p>Mais divine plustôt qu'humaine charité</p>
+<p>Qu'il ne leur manquoit plus que le siége d'un Dieu.</p>
+<p>Que dira donc celuy dont l'âme s'est commise Soubs l'aisle d'un seigneur
+couart, qui par feintise, Bien qu'il voye des yeux le malheureux estat</p>
+<p>De son homme abattu par la main du soldat, Laisse torpidement ronger
+jusques aux os</p>
+<p>Ce pauvre misérable, et luy charge le dos,</p>
+<p>De tant d'afflictions et de maux tous ensemble ?</p>
+<p>Il ne se taira pas devant Dieu, ce me semble :</p>
+<p>Du moins il lui pourra soutenir devant luy, Puisqu'il estoit ça-bas sa
+garde et son appuy,</p>
+<p><pb/></p>
+<p>Qu'il debvoit employer ses nerfs et ses efforts Pour empêcher passage
+aux Reîtres de dehors, Parcequ'il maintiendra que ces hommes de fer Luy
+faisaient plus de maux que les diables d'enfer. Il dira qu'ils ont prins
+ce qu'il avoit acquis</p>
+<p>De ses plus jeunes ans, et que jamais depuis</p>
+<p>Il n'a peu relever sa pauvrette famille,</p>
+<p>Voire, ni marier sa bien aagée fille :</p>
+<p>Je dis par sa vertu, mais plustost d'un bon heur Et d'ayde péculière à
+Dieu, pour sa faveur.</p>
+<p><pb/></p>
+<p>Et quoique fisse effort fleschir ces impiteux</p>
+<p>La ravirent contraincte au devant de mes yeux. L'autre venant après dira
+que ces mastins</p>
+<p>Empistolés et noirs venoient tous les matins</p>
+<p>En leur brutal langage et blasphème incongneu Piller rapidement ces
+biens par le menu.</p>
+<p>0 Roy de tous les Roys, juge des souverains, (Diront ces affligez), tu
+connais les humains</p>
+<p>En toutes nations et rien ne t'est caché</p>
+<p>De ce que cy-devant tout homme aura péché : Toutesfois s'il te plaist
+que nos âmes desployent</p>
+<p>Ce que tu scais trop mieux et tes jugements voyent, Nous dirons
+maintenant que jamais tu n'as faict Depuis que l'univers par ta grâce
+est parfaict,</p>
+<p>Tant de maux que la France en a par eux receu.</p>
+<p>Dès qu'ils eurent mangé le peu que nous avions</p>
+<p>Et robbé notre argent par mille inventions,</p>
+<p><pb/></p>
+<p>Ils cherchèrent dès lors mesmes jusques au puits</p>
+<p>S'ils pourroient point trouver, ou dans quelque pertuis Ce peu de nostre
+meuble, et ce qui nous restoit</p>
+<p>Que leur main griffonière encor ne retenoit.</p>
+<p>Par le milieu des bledz, ce que nous enterrions</p>
+<p>A trois mil du village auquel nous demeurions :</p>
+<p>Et nous eust esté mieux oultre nostre rançon</p>
+<p>Qu'ils eussent tout treuvé dedans nostre maison.</p>
+<p>Ce pauvre peuple si maltraité, abandonné de ses protecteurs naturels,
+est-il sans reproche ? Oh ! non pas. Si les grands, si les juges, si les
+ecclésiastiques sont flagellés, le peuple, le populaire, comme dit le
+poète, n'est pas indemne, il ne perdra rien pour avoir attendu. Voici le
+portrait peu flatté qu'en trace Balthazar ; je ne me permettrai pas de
+juger s'il est vrai ou s'il a du vrai :</p>
+<p>Je ne veux espargner ici le populaire,</p>
+<p>Non plus qu'il ne veut'pas en sa fureur se taire ;</p>
+<p>Mais je dis en passant les fautes qu'il commet,</p>
+<p>Qui produisent souvent un très-fascheux effeét.</p>
+<p>C'est le plus envieux, ingrat et mal disant,</p>
+<p>C'est le plus fort mutin, le plus contredisant,</p>
+<p>Bref, qui faict tout au moins, et rien de son debvoir.</p>
+<p><pb/></p>
+<p>Il veut estre veu, tout, et veult tout gouverner,</p>
+<p>Et s'il parle deux mots, ne faict que badiner.</p>
+<p>Il parle de tous faicts, et ne scait rien de tout,</p>
+<p>Et ne scait décider ni de mal ni de bien.</p>
+<p>Il corrige les grands, et de son seul babil</p>
+<p>Il scait tous les moyens d'éviter tout péril. Quelquefois il s'esgaye,
+et puis il se refasche</p>
+<p>Et se faict comme il veult. ou fort, ou brave ou lasche. 11 s attriste
+s'il veult, et se comble tout d'heur;</p>
+<p>Il se fait pauvre, et riche, et se remplit le cœur</p>
+<p>De tant de passions, en son lourd naturel,</p>
+<p>Qu'en aultre que ce peuple on ne voit rien de tel. Bref, il est si
+muable en sa diverse teste,</p>
+<p>Qu'en tous ses jugements il se treuve une beste.</p>
+<p>Mais c'est où gist le mal, quand une multitude Vaguant en l'incertain
+selon sa promptitude,</p>
+<p>En son vôle cerveau, ne suit que ce qui plaist</p>
+<p>A l'appetit brutal, et de mal se repaist.</p>
+<p><pb/></p>
+<p>« Luculle » en Asie, et nous conte par le menu, comnie un légiste, le
+détail de l'édit du préteur romain. Tout ce détail peut être fort exact,
+fort bien rendu ; mais non erat hic locus.</p>
+<p>La conclusion du poème est faible: l'auteur, assez embarrassé pour
+finir, n'a trouvé rien de mieux qu'une prière assez peu éloquente, où il
+appelle les bénédictions d'en haut sur son pays. La vérité est qu'il ne
+vaut que dans l'invective; les notes plus douces ne sont pas son fait.</p>
+<p>En ce qui touche le talent même de l'écrivain, la forme, je dirai que
+Balthazar retarde notablement sur ses contemporains. 1576, c'est la
+veille des Essais de Montaigne, c'est le temps de des Portes, de
+Vauquelin de la Fresnaye, d'écrivains dont la pensée se dégage très
+nettement et</p>
+<p><pb/></p>
+<p>Qui voit marcher l'Église en la crainte de Dieu ? Qui ne voit le Pasteur
+plustôt hors de son lieu Dresser ses actions en faict du tout lubriques,
+Vendre s'il peut, sa crosse et plus saintes Reliques?</p>
+<p>Et un peu plus loin :</p>
+<p>Les vices ne sont pas seulement impunis,</p>
+<p>Que les plus vicieux ont le plus de crédit.</p>
+<p>Chacun chasse vertu pour embrasser le vice,</p>
+<p>Et n'est, comme disoit des prophètes la voix,</p>
+<p>Santé soit en la teste ou au pied des François.</p>
+<p>Tout va de mal en pis, et l'aage des parents</p>
+<p>Pire que des ayeux, nous a faicts empirans,</p>
+<p>Et jugeons l'advenir de la vie de tous,</p>
+<p><pb/></p>
+<p>C'est bien dit, et c'est fort heureusement traduire Horace.
+Remarquons-le, en effet, Bailly n'est point un ignorant des lettres ;
+les poètes classiques ne lui sont point étrangers, et les jurisconsultes
+de la belle époque ont mis leurs textes sous ses yeux, comme le prouve
+l'analyse, très mal placée, du reste, qu'il a donnée de l'édit de Lucullus.</p>
+<p>Un mot pour terminer. Le petit volume de Balthazar Bailly est d'une
+excessive rareté. Deux exemplaires seule-</p>
+<p>(1) Journal de Troyes, 13 novembre 1782.1. Dans cet article je-note
+pourtant un détail curieux. Simon y annonce qu'on est en train de
+préparer une collection des ouvrages des Troyens célèbres. Il ne pataît
+pas que cette collection ait seulement reç un commencement d'exécution.</p>
+<p><pb/></p>
+<p>Troyes, le 21 avril 1880.</p>
+<p><pb/></p>
+<p>SIMPLE NOTE</p>
+<p>SUR</p>
+<p>UN POÈTE DU XVIe SIÈCLE</p>
+<p>Estienne d'Acier (1)</p>
+<p>(i) Étude publiée dans les Mémoires de la Société Académique de l'Aube,
+année 1891.</p>
+<p><pb/></p>
+<p>C'est de lui-même que nous savons cette disposition violente de son
+naturel ; il en a fait, dans les vers de sa Palinodie, l'aveu pénitent
+et plus que pénitent. Cette Palinodie est une plaquette de sept
+feuillets petit in-8°, dont on connait fort peu d'exemplaires : la
+Bibliothèque de Troyes a récemment acheté ce tout petit volume, revêtu
+par Simier d'une charmante reliure en veau fauve, et il figure dès à
+présent dans les vitrines qu'enrichissent tant de trésors.</p>
+<p><pb/></p>
+<p>Quel était cet Hvmne du Piisteur ? Probablement une poésie pastorale,
+genre favori de la poésie de cette époque. Rappelez-vous la Bergerie de
+Belleau, l'églogue de Ronsard :</p>
+<p>Paissez, douces brebis, paissez cette herbe tendre,</p>
+<p>Ne pardonnez aux fleurs : Vous n'en sauriez tant prendre Par l'espace
+d'un jour, que la nuit ensuyvant, Humide, n'en produise autant
+qu'auparavant.</p>
+<p><pb/></p>
+<p>Outre cette Palinodie et cet Hymne du Pasteur (où est-il ?), tout ce que
+nous avons de d'Acier, c'est une Ode portant, comme la Palinodie, la
+date de 1562, et que possède également la Bibliothèque de Troyes.</p>
+<p>D'Acier, donc, est contemporain de Ronsard, de du Bellay (l'Illustration
+de la Langue et Poésie française a paru, éclaté plutôt, il y a treize
+ans, 1549), de Remi Belleau, de Baïf, de Tahureau, de Passerat.
+Peut-être a-t-il connu quelques-uns de ces illustres, car les poètes de
+cette époque</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Car si tost que ce diable a dedans nos poumons</p>
+<p>Et dedans nostre cœur pris place, nous avons L'estomach offensé de sa
+fureur blesmie</p>
+<p>Qui se nourrit en nous, dissipant nostre vie,</p>
+<p><pb/></p>
+<p>Comme un ver qui caché dans le bois se nourrit,</p>
+<p>Et tant plus s'y nourrit, tant plus il le pourrit,</p>
+<p>Ou comme on voit le fer par sa rouillure mesme</p>
+<p>A la fin se manger.</p>
+<p>Ne fus-je donq'alors pauvrement insensé</p>
+<p>Quand bouillant en mon cœur ma folle hardiesse M'espoinçonna l'esprit
+lors bien plein de jeunesse De vomir en mes vers une fureur qui or'</p>
+<p>Ne se peut assoupir, ains est vivante encor'</p>
+<p>Vivante sans vieillir ?</p>
+<p>Il se repent, il fait amende honorable :</p>
+<p>Je debvois mille fois, si j'eusse esté bien sage, Aviser de quel prix
+estoit le personnage</p>
+<p>Auquel je m'adressay : et encor mille fois</p>
+<p>Mené d'une furie.</p>
+<p>Il connaît fort bien la valeur de cet ami, le docteur Bonnet qu'il a
+offensé; mais il pécha par colère et non pas par malice :</p>
+<p>Vray que je n'ignoray quantes vertus luy sont Honorant son beau chef
+luisantes sur le front,</p>
+<p><pb/></p>
+<p>Et qu'il est l'honneur doux de sa belle patrie, Le riche mont -Langrois,
+où sa muse florie Très claire va boillant (sic) comme de pleine nuit On
+voit l'astre doré de Vénus qui reluit,</p>
+<p>Ou comme entre les fleurs d'une longue prairie S'esleve d'un beau lys la
+fleur espanouie.</p>
+<p>Je connoissois trop bien que les neiges d'hiver Qu'on voit aux Pyrenez
+hautes s'amonceler Ne rendent point plus d'eaux au printemps escoulées,
+Que fait sa bouche d'or de paroles miellées. Je n'estois ignorant quel
+honneur et quel los Luy depart ce grand dieu gardien de Tenedos, Ce
+grand dieu Apollon dont la gràce divine Luy coule dans l'esprit la
+sainte Médecine Duquel art très expert seul entre un million Comme au
+ciel asuré le beau chien d'Orion,</p>
+<p>Il se fait apparoir entre une grande presse De Seigneurs honorant son
+exquise sagesse.</p>
+<p>Mais — outre la conscience de son crime, et il l'a eue dès le premier
+instant ; il l'avait, même en frappant le coup de son « baston » — il
+est un vengeur de ces excès de sa misérable fureur. Qui? le grand Jupiter :</p>
+<p><pb/></p>
+<p>C'est luy qui bien soigneux, comme père très doux, Pour punir sans
+rigueur le mal qui est en nous,</p>
+<p>A cent miile moyens et cent milles encore,</p>
+<p>Pour nous en chastier seul lesquels il n'ignore, Quand il voulut punir
+Prométhe ingénieux</p>
+<p>Qui cauteleux et fin roba le feu des cieux,</p>
+<p>Luy qui peut d'un éclat de sa terrible foudre Mettre tout l'univers en
+un moment en poudre, L'homme qu'il avoit fait perdre ne voulut pas ;
+Mais retirant au ciel tout le bien de ça bas,</p>
+<p>Je ferai, ce dit-il, branslant trois fois son sceptre, Mille especes de
+maux et mille pechez mettre</p>
+<p>En vos cœurs, faux humains, qui seront les vengeurs Des fautes que
+ferez, et cent mille malheurs Renaistront entre vous, par lesquels vos
+pensées Et vos ames seront chascun jour offensées.</p>
+<p>Mille troubles viendront vous marteler le chef,</p>
+<p>Et qui ainsi qu'il sait les choses advenues, N'ignore l'avenir; puis
+demy souriant,</p>
+<p>Choléré contre nous, ce Père foudroyant</p>
+<p>Branla trois fois le crin de sa divine teste,</p>
+<p>Dont crosla le beau ciel et l'Olympe au haut feste : Signe que ce qu'il
+dit tost ou tard adviendra,</p>
+<p>Et qu'infailliblement sa promesse tiendra.</p>
+<p><pb/></p>
+<p>En exécution, de sa menace terrible, le dieu remet à</p>
+<p>Pandore la boîte fatale, la classique boîte :</p>
+<p>où estoit tout le mal qui nous nuit.</p>
+<p>Il y avoit l'orgueil et infecte avarice</p>
+<p>De mille autres horreurs l'exécrable nourrice,</p>
+<p>L'envie pasle et morne, et simulation</p>
+<p>Faisant en ce vaisseau leur habitation.</p>
+<p>Et y estoient encor plus de meschantes choses</p>
+<p>Que l'Avril ne produit de beaux boutons de roses,</p>
+<p>Plus de meschancetez, plus d'énormes pechez</p>
+<p>Qu'au ventre de Thetis n'a de poissons cachez.</p>
+<p>Pour punir le péché du curieux Prométhe,</p>
+<p>Elle fit un présent au peu sage Epiméthe</p>
+<p>De ce vaisseau de mal, qui eut si tost couvert</p>
+<p>La terre de malheurs, comme on le vit ouvert :</p>
+<p>Pour prendre leur repas du laict qui est de frais</p>
+<p>Traict du pis des brebis, en la petite loge</p>
+<p>Où au temps de chaleur le bergerot se loge.</p>
+<p>Tellement qu'en ce val !e pauvre genre humain</p>
+<p>De funestes malheurs dès ce jour fut tout plein.</p>
+<p><pb/></p>
+<p>La kyrielle de maux complaisamment énumérés par l'auteur serait encore
+supportable ; ce qui va y mettre le comble ; c'est la venue d'Até :</p>
+<p>Até fut entre nous en ce monde amenée !</p>
+<p>A ceux qui l'ont cogneu) déesse de renom.</p>
+<p>Fille de Jupiter, et au palais celeste</p>
+<p>Elle faisoit séjour aux autres dieux moleste.</p>
+<p>Sa fréquentation malheureuse et meschante</p>
+<p>Estre aux plus saincts esprits fascheuse et ennuiante.</p>
+<p>Jupiter lance ici-bas ce personnage mystérieux et redoutable :</p>
+<p>Lors en ceste douleur subit il appréhende</p>
+<p>Até par les cheveux de sa main large et grande,</p>
+<p>Et tout plein de courroux il fit son grand serment Qu'elle n'habiteroit
+jamais au firmament :</p>
+<p>Et qu'au ciel estoilé retourner ne s'assure,</p>
+<p>Elle dont chascun sent la maligne nature. Prononçant ces propos, il leve
+haut le bras,</p>
+<p>Et demy se courbant il la darde cy bas. -</p>
+<p>Cy cy bas entre nous, ou ceste faulse lice</p>
+<p>Encor' plus que jamais exerce sa malice.</p>
+<p>Voilà, j'ose le dire, des vers bien assénés et d'une facture si
+vigoureuse que la Pléiade, pour la force graphique,</p>
+<p><pb/></p>
+<p>n'en offrirait guère de supérieurs dans ses plus renommés poètes. Ne
+fût-ce que par ces quelques vers, la plaquette mérite d'être sauvée d'un
+complet oubli.</p>
+<p>L'ami offensé a refusé de tenir compte de son extrême jeunesse, et
+depuis lors lui a gardé inflexiblement rigueur :</p>
+<p>Je suis atteint de dœil et ay un crève-cœur</p>
+<p>De voir erï" ton amy tant vivre la ranqueur</p>
+<p>Qu'il me porte, dès lors que n'ayant finy l'aage Encor de dix-neuf ans,
+j'eus l'esprit si volage D'oser ainsi aegrir ma Charite et ses vers,</p>
+<p>A l'encontre des siens tant doctes et experts.</p>
+<p>J'en suis certes fasché, et crois que c'est ATÉE</p>
+<p>Par la fureur de qui j'ay l 'âme tourmentée,</p>
+<p>Car je n'eusse jamais adressé contre luy</p>
+<p>Le dard qui fit la playe encor' fresche aujourd'huy.</p>
+<p><pb/></p>
+<p>Les PRIÈRES qui sont filles de ce grand Dieu</p>
+<p>Qui est beaucoup plus viste et de forte nature.</p>
+<p>Car ces filles de Dieu, les PRIÈRES n'ont pas</p>
+<p>Le regard si agu, ni si vistes leurs pas.</p>
+<p>Foible, lente, et boiteuse, et mal voyant et louche, Est la saincte
+ORAISON. Mais l'INJURE est farouche Et d'un cours violent tourne par
+l'univers,</p>
+<p>Offensant les humains de ses actes pervers.</p>
+<p>Les PRIÈRES après cette chienne cheminent,</p>
+<p>Et les maux qu'elle a faits, elles les médecinent.</p>
+<p>Certes, sage Tardy, il doibt pour son debvoir Voire pour son honneur ces
+dames recevoir,</p>
+<p>Et loger en son cœur ceste prière saincte</p>
+<p>Que je luy fais ici. Car il doibt avoir crainte</p>
+<p>Que Dieu qui a voulu le premier pardonner,</p>
+<p>Ne fasse en sa maison l'INJURE retourner.</p>
+<p><pb/></p>
+<p>Du tort que je luy fis, offensant sa grandeur</p>
+<p>Par un vers trop léger produit d'une fureur :</p>
+<p>Quand me bouchant les yeux, le monstre d'ignorence Me dressa contre luy
+: dont je fais pénitence.</p>
+<p><pb/></p>
+<p>dans la Bibliothèque elzévirienne, commencée, il y a tantôt quarante
+ans, par le regretté Pierre Jannet : si quelque pièce de notre d'Acier
+avait pu tomber dans les mains des éditeurs, des savants chercheurs ?
+Cette espérance encore a été trompée. Rien de d'Acier dans ces treize
+volumes si bien remplis, si bien bourrés de pièces réjouissantes pour
+l'amateur de choses • disparues — c'est souvent leur seul mérite.</p>
+<p>Même pour nous, cependant, Estienne d'Acier n'est pas tout entier dans
+la précieuse plaquette dont j'ai mis sous vos yeux une bonne partie. La
+Bibliothèque de Troyes possède, parmi les pièces conservées et classées
+avec tant de soin par son savant Conservateur, notre collègue, une Ode
+de ce même Estienne d'Acier sur le Trespas de Monseigneur Jean de
+Clugny, baron de Santonay, seigneur de Brullard. Paris, Michel Buffet,
+demeurant près le Collège de Reims. Petit in-4° de quatre feuillets.
+Comme la précédente, cette pièce porte la date de 1562.</p>
+<p><pb/></p>
+<p>pièces, les odes du grand Ronsard. Pour que vous ne me croyiez pas sur
+parole, je citerai quelques strophes de cette ode remarquable :</p>
+<p>Jamais homme ne fut fait Tant accompli ni parfait Sur le moule de
+Nature, Qu'il ne supportast l'effort De cette chimaire Mort Qui perd
+toute créature.</p>
+<p>Cette meurtrière perverse Abat, détruit et renverse, Et sans cesse fait
+la guerre A ceste image des Dieux Qui fut envoié des cieux Pour
+seigneurier la terre.</p>
+<p>Et tousjours son trait mortel Inexorable et cruel, Ravit la douce âme à
+ceux Qui sont les plus vertueux.</p>
+<p><pb/></p>
+<p>Avant ce brave Alexandre, Meschante, tu mis en cendre La fleur et
+l'honneur des Princes, Luy encor plein de sueur De son douziesme labeur
+Qu'il fit en tant de provinces.</p>
+<p>Misérables nous serions D'estre ainsi assubjettis Aux lois de tes
+appetis, Si autre bien nous n'avions ; Mais tout ainsi que ta main
+Maistrise le genre humain,</p>
+<p>Ainsi VERTU et MÉMOIRE Qui porte dessus le front Ce que les Généreux
+font, Foule au pied toy et ta gloire : Sacrant au temple immortel Le Nom
+saint et éternel Des Nobles pleins de vertu Qui n'ont craint ton dard
+pointu.</p>
+<p>Les idées sont communes, mais quel beau mouvement lyrique !</p>
+<p>Ceci encore :</p>
+<p>Celuy est bien malheureux Qui vivant fut paresseux</p>
+<p><pb/></p>
+<p>De s'acquérir la couronne Qui après le corps pourrit, Florit et puis
+reflorit Sur l'honneur que l'on nous donne. Enclos en la sépulture, Il
+n'est plus que pourriture, , Aliment pour la vermine :</p>
+<p>Au contraire, ceux qui,^comme son héros, comme</p>
+<p>Clugny,</p>
+<p>ont,</p>
+<p><pb/></p>
+<p>Le Grand Dieu Saturnien Qui tout seul n'ignore rien Des heures qui sont
+futures, Récompensa le brief cours De nos misérables jours Par le bien
+des escritures : Lesquelles font que l'on vive Après qu'une mort hâtive
+Notre chère âme a ravie. Ainsi l'homme a plus de bien Quand ce corps
+lourd et terrien Est mort, que durant sa vie.</p>
+<p>Homère par ses escrits Delivre ces saints esprits D'une taciturnité,</p>
+<p>Pour autant qu'ils ont esté Vrais enfants de la noblesse, De la vertu et
+gentillesse.</p>
+<p>L'Ode se termine par ces quatre vers :</p>
+<p>Les Muses font seulement Revivre éternellement Les Nobles, qui ont aimé
+Un renom bien renommé.</p>
+<p>Ronsard, dont l'âme généreuse allait volontiers au devant des jeunes
+poètes ses contemporains, et qui leur indiquait du doigt les séjours
+immortels, les belles couronnes à</p>
+<p><pb/></p>
+<p>Non nota, nostra per arva fide,</p>
+<p>Quam bibit aure avida noster quoque gallicus Orpheus.</p>
+<p>Et là-dessus, embaumé dans cet éloge, il disparaît, notre poète ; il
+disparaît, plus de trace de lui ; il ne l'a pas reçue des Muses, cette
+immortalité qu'il promettait aux nobles et vaillants cœurs, aux armes
+glorieuses, aux généreux esprits.</p>
+<p>Quid non promittis ? — Il disparaît. C'est fini de lui et de son nom. Il
+disparaît. Est-çe bien vrai? Laissez-moi</p>
+<p><pb/></p>
+<p>15 Avril 1891.</p>
+<p>(1) Collection Michaud, t. IX, p. 63o.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>TABLE</p>
+<p>y;5- - STy Pages</p>
+<p>Vauqufel^^^Presnaye 7 Scévole de Sainte-Marthe .... 63 Nicolas Rapin lit
+Jean de la Péruse 157 Clotilde de Surville 191 Balthazar Bailly 221
+Estienne d'Acier .................................. 245</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>Troyes. — Imp. G. Frémonl, A. ALBERT, Successeur, rue Urbain IV, 85.</p>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>AUTRES OUVRAGES DE CHARLES DES GUERROIS</p>
+<p>POÉSIE</p>
+<p>Sous le Buisson, premiers chants, un volume in-12. Paysages, un volume
+in-i2.</p>
+<p>Pro Patria, Iambes et Élégies, un volume in-I2.</p>
+<p>Sonnets et Petits Poèmes, un volume in-12.</p>
+<p>Nos Grandes Pages, un volume in-I2.</p>
+<p>A la mort de Victor Hugo, cinq sonnets. Plaquette in-i2. Etude sur
+Mistress Elizabeth Browning, suivie de ses Quarante -quatre « Sonnets
+Portugais » et de quelques autres de ses poemes, un volume in-12.</p>
+<p>La France héroïque, un volume in-I2.</p>
+<p>Timon d'Athènes, traduit de Shakspeare, avec une Introduction, uieliume
+in-I2.</p>
+<p>Paroles ae Poésie, un volume in-I2.</p>
+<p>Au Pays des Epéejs, un volume in-I2.</p>
+<p>AvwQév, Poèmes de l'âme qui chante, un volume in-I2. France toujours, un
+volume -in-in.</p>
+<p>Variations sur des Thèmes Virgiliens, un volume in-I2. Demi-Tons à
+Demi-Voix, un volume in-12.</p>
+<p>Dans le Monde de l'Art, un volume in-12.</p>
+<p>Virevoltes et Caronades, un volume in-I2,</p>
+<p>Chansons et Rayons, un volume in-12.</p>
+<p>Notes Epiques, un volume in-I2.</p>
+<p>Le Poème de la Cathédrale, un volume in-12.</p>
+<p>Entre Ciel et Terre, un volume in-I2.</p>
+<p>Poèmes Inquiets, un volume in-I2.</p>
+<p>Poèmes apaisés, un volume in-I2.</p>
+<p>Depuis, un volume in-I2.</p>
+<p>Poèmes Anthologiques, un volume in-I2.</p>
+<p>Dans le Monde des Idées, un volume in-I2.</p>
+<p>Automnes et Reverdies, un volume in-I2.</p>
+<p>Autour de Port-Royal, un volume in-I2.</p>
+<p>PROSE</p>
+<p>Pensées de l'Art et de la Vie, un volume in-8".</p>
+<p>Jean Passerai, Poète et Savant, un volume grand in-8°.</p>
+<p>Le Président Bouhier, sa vie, ses ouvrages et sa bibliothèque, un volume
+in-8°.</p>
+<p><pb/></p>
+<p>POÉSIE</p>
+<p>Enigme de la Mort, un volume in-I2,</p>
+<p>Citta Dolente, un volume in-12.</p>
+<p>Du Mystère au Mystère, un volume in-I2,</p>
+<p>Vita Peracta, un volume in-I2.</p>
+<p>Poèmes de Nature et d'Intimité, un volume in-I2.</p>
+<p>Pendant qu'il est jour, un volume in-I2.</p>
+<p>Les Noces d'Argent, un volume in-12.</p>
+<p>Ultima Thule, un volume in-I2.</p>
+<p>Poèmes farouches, un volume in-i2.</p>
+<p>PROSE</p>
+<p>Lucien oit de la Décadence, un volume in-8.</p>
+<p>Eloges Littéraires et Biographiques, un volume in-I2.</p>
+<p>La Vie et les Lettres d'Olivier Goldsmith, un volume in-I2.</p>
+    </div>
+    </body>
+  </text>
+</TEI>

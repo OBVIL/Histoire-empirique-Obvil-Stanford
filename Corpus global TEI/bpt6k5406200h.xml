@@ -1,0 +1,2695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Janin, Jules (1804-1874)">Jules Janin</author>
+<title>Histoire de la littérature dramatique. Tome 1 / par M. Jules Janin</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Janin, Jules (1804-1874)</author>, <title>Histoire de la littérature dramatique. Tome 1 / par M. Jules Janin</title>, <date>1853</date>,description :Ancien possesseur : Macnutt, Richard (1935-....),457 pages
+</bibl>
+<publisher>Michel-Lévy frères (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k5406200h</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1853">1853</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p>HISTOIRE</p>
+<p>DE LA</p>
+<p>DRAMATIQUE</p>
+<p><pb/></p>
+<p>" ... L'art dramatique, un art si puissant, et si attrayant que toujours
+et partout, aux temps de son enfance ou de sa maturité , de sa gloire ou
+de son déclin, il est resté invinciblement populaire, et ne cesse jamais
+de charmer les hommes par des chefs-d'oeuvre ou par des bluettes. »</p>
+<p>M. GUIZOT. Shakspeare et son temps</p>
+<p>PARIS. — IMPRIMERIE J. CLAYE ET Ce, RUE SAINT-BENOIT, 7</p>
+<p><pb/></p>
+<p>HISTOIRE</p>
+<p>DE LA</p>
+<p>DRAMATIQUE</p>
+<p>PAR</p>
+<p>H. JULES JANIN</p>
+<p>TOME PREMIER.</p>
+<p>PARIS</p>
+<p>MICHEL LÉVY FRÈRES, ÉDITEURS</p>
+<p>RUE V l V I E N N E , 2 BIS</p>
+<p>4 833</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>Si mon admirable et bien aimé patron était encore de ce monde, avec quel
+empressement je lui aurais offert cet humble témoignage d'une
+reconnaissance toute filiale ! Il ne m'eût pas refusé, cette fois
+encore, l'appui sérieux de son nom entouré d'honneur, de louanges et de
+respects.</p>
+<p>Acceptez, je vous prie, et comme une conséquence de cet héritage
+illustre dont vous vous êtes montré si digne dans les temps les plus
+difficiles, l'hommage de ce livre, entrepris, sous les yeux
+bienveillants de votre père et de votre oncle, M. Berlin de Vaux, à
+l'heure où nous étions, les uns et les autres, en pleine jeunesse, en
+pleine espérance, exempts de toute ambition vulgaire, heureux du temps
+présent, et confiants dans l'avenir.</p>
+<p>O les beaux jours, qui nous semblaient si loin de tous les deuils' de
+cette maison ! O les pages heureuses, écrites en toute liberté d'esprit
+et de conscience ! Les auspices étaient si favorables, les astres
+étaient si cléments!</p>
+<p>JULES JANIN.</p>
+<p>Février, 1853.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>HISTOIRE</p>
+<p>DE LA</p>
+<p>LITTÉRATURE DRAMATIQUE</p>
+<p>CHAPITRE PREMIER</p>
+<p>Maintenant, qu'après tant d'années d'un loyal service, il m'est permis
+de rechercher dans ces pages, abandonnées aux quatre vents du ciel, les
+quelques fragments qui méritent, peut-être, un</p>
+<p>1</p>
+<p><pb/></p>
+<p>2 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQDE. 3</p>
+<p>Plutonis soror aut furiarum sanguinis una. »</p>
+<p>Figurez-vous aussi, le croirez-vous, races futures? que les ministres do
+Charles X avaient chassé des Champs-Elysées, devinez quel
+révolutionnaire et quel ennemi de M. de Polignac ? Ils avaient</p>
+<p>chassé ... Polichinelle! « Ils ont tué cet aimable déguenillé, qui</p>
+<p>donnait la comédie aux bonnes d'enfants. O fi ! un ministre en lutte
+avec Polichinelle! » Et sur ce thème ingénieux, j'allais à</p>
+<p>bride abattue : « Ils ont fait ce que n'a pas fait Venise Ils ont</p>
+<p><pb/></p>
+<p>4 LITTERATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 5</p>
+<p>J'ai fait aussi un brillant parallèle entre le ministère de M. de
+Villèle et le ministère de M. de Polignac. J'ai raconté l'ouverture des
+Chambres : « quand les Chambres ont entouré le trône royal et que le
+monarque, en leur présence, a relevé le manteau fleurdelisé qui
+recouvrait de sa gloire ce ministère inconnu. » Je ne traitais guère
+d'une façon plus indulgente les journaux de la province, dévoués au
+ministère Wellington-Polignac. Ai-je maltraité la Gazette de Lyon et
+l'Apostolique du Puy-de-Dôme! « Pauvre France, que deviendrais - tu , si
+tu n'avais pas pour l'éclairer celle poignée de grands hommes? Et
+cependant les villes ingrates qui les possèdent, les regardent comme une
+honte et comme un malheur. »</p>
+<p><pb/></p>
+<p>6 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 7</p>
+<p>FÊTE AU PALAIS-ROYAL.</p>
+<p>« Les étrangers et tous ceux qui n'ont pas vu le Palais-Royal, entouré
+d'élégantes colonnes et transparent comme un palais de cristal,
+comprendront difficilement toute la beauté de la fête que</p>
+<p><pb/></p>
+<p>8 LITTÉRATURE DRAMATIQUE.</p>
+<p>A neuf heures, — le roi ! — le roi et la reine de Naples, M. le Dauphin
+et madame la Dauphine, S. A. R. Madame, duchesse de Berry, le prince de
+Salerne, sont arrivés au Palais-Royal. LL. MM. ont été reçues au bas du
+grand escalier par S. A. R. le duc d'Orléans, suivi de Monseigneur le
+duc de Chartres et de Monseigneur le duc de Nemours. Le roi, le Dauphin
+et le duc d'Orléans portaient le grand Ordre de Sicile ; le roi de.
+Naples et son frère le prince de Salerne portaient le cordon bleu. Le
+jeune duc de Chartres avait l'uniforme de colonel de hussards, et le duc
+de Nemours celui de colonel de chasseurs. La porte d'entrée, le
+vestibule et l'antichambre étaient confiés aux gardes du corps de S. M.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 9</p>
+<p>On dansait principalement dans cinq vastes salons. Chaque salon avait
+son orchestre, et dans chaque pièce voisine, des danses s'étaient
+formées. La musique ne se taisait pas. Dans les moments de repos, on
+entendait les sons d'un sixième orchestre placé au centre de la galerie.
+C'était la musique de la garde royale qui jouait des fanfares pour le
+dehors.</p>
+<p>Presque tous les membres de cette Chambre des députés qui n'est plus,
+mais qui doit bientôt renaître, avaient reçu une invitation. On eût dit
+qu'ils étaient encore les députés de la France. On remarquait MM. Hyde
+de Neuville, de Martignac, le duc de Crussol, le vicomte Sosthènes de La
+Rochefaucauld, le général Sébastiani; MM. Casimir Périer, Dupin aîné,
+Alex, de Laborde, Chardel, Thénard, Bertin de Veaux, Viennet, Clément,
+Benjamin Constant, Jacquinot-Pampelune, Favard de Langlade, Méchin1.
+Mais surtout ce qu'il y avait de louchant dans cette réunion spontanée
+et inespérée d'hommes de toutes les nuances, c'était le roi de France au
+milieu de ses sujets, ayant une parole bienveillante pour chacun, pour
+chacun un sourire ; grand roi qui ne se sou1.</p>
+<p>1.</p>
+<p><pb/></p>
+<p>10 LITTÉRATURE DRAMATIQUE.</p>
+<p>vient nullement de nos tristes dissensions ; c'était bonheur de le voir,
+heureux dans cette fête, de contempler cette tête si calme et si riante,
+d'entendre ses moindres paroles.</p>
+<p>ne valse presque plus, on galope; et quel galop on a fait au</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 11</p>
+<p>Il est triste de voir ces belles visions s'évanouir si vite. C'est grand
+dommage de retomber, du haut de cette féerie, dans la réalité. »</p>
+<p><pb/></p>
+<p>42 LITTERATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 43</p>
+<p>Qu'ils souffrent tous les maux qu'ils ont fait devant Troie!</p>
+<p><pb/></p>
+<p>14 LITTÉRATURE DRAMATIQUE.</p>
+<p>LES TROIS JOURNÉES.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 15</p>
+<p><pb/></p>
+<p>46 LITTÉRATURE DRAMATIQUE.</p>
+<p>que mon châtiment soit complet, cette conclusion bien digne de l'exorde
+de mon discours :</p>
+<p>Ne croirait-on pas, Dieu me pardonne ! entendre le grand Corneille qui
+s'écrie :</p>
+<p>Un grand destin commence, un grand destin s'achève!</p>
+<p>Sur les coussins poudreux d'un char numéroté.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 57</p>
+<p><pb/></p>
+<p>48 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 19</p>
+<p><pb/></p>
+<p>20 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 21</p>
+<p>électeurs que venait de créer la loi nouvelle, était M. Duviquet
+lui-même, et le bravo homme, content de son prétexte, tout joyeux de ces
+grandeurs inespérées, partit pour Clamecy, sa patrie, où il devait
+exercer ses droits de citoyen émancipé. Il me semble encore le voir et
+l'entendre récitant ce vers de Virgile :</p>
+<p>Candidior postquam tondenti barba cadebat,</p>
+<p>qu'il traduisait ainsi, en homme qui sait tous ses poëtes par coeur :</p>
+<p>El j'avais soixante ans quand cela m'arriva!</p>
+<p>LE PREMIER FEUILLETON.</p>
+<p>Première représentation du NÈGRE, drame en quatre actes et en vers
+libres, par un esclave de la rime.</p>
+<p>« Or, si vous aimez Brutus, écoutez bien, voici une seconde édition de
+la légende. Vous allez revoir le vieux Brutus légèrement rembruni avec
+un jus de réglisse ; un Brutus africain, nommé Lazaro, qui fait le fou
+pour mieux dissimuler; qui perd son fils, comme le vieux Brutus; idée
+simple et facile, elle doit, si nous sommes sages, nous donner un
+théâtre tout neuf. A l'oeuvre, donc, poëtes; cuivrez-moi, pour nous
+plaire, Athalie et Mérope ; frisez les cheveux de Britannicus et de
+Cinna; faites parler tout ce beau monde Athénien en petits vers et les
+poings fermés, ceci fait, nous avons du drame nouveau, pour cent ans au
+moins.</p>
+<p><pb/></p>
+<p>22 LITTÉRATURE DRAMATIQUE.</p>
+<p>sucs vénéneux du mancenillier ; véritable père Sournois dont il faudra
+se méfier.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 23</p>
+<p><pb/></p>
+<p>24 LITTÉRATURE DRAMATIQUE.</p>
+<p>amoureux, comme nous n'en avons que trop vu parmi les blancs.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 25</p>
+<p>Alors le vieux Lazaro voyant cela , se précipite sur le cadavre de son
+fils en hurlant de plus belle. Il est impossible de hurler plus
+naturellement que ce nègre, d'avoir les genoux plus gros, les jambes
+plus cagneuses, l'oeil plus creux : c'est un bon nègre; il est seulement
+dommage qu'il ait imaginé de contrefaire le fou et de parler par
+dithyrambes , même quand il veut être sensé !</p>
+<p>Enfin, nous sommes au dénouement. Lazaro, resté seul encore une fois, va
+se retirer tranquillement, quand le malheur amène la jeune Marie dans la
+décoration jaune et rouge. Marie</p>
+<p>2</p>
+<p><pb/></p>
+<p>26 LITTÉRATURE DRAMATIQUE.</p>
+<p>Je vois que vous êtes impatient , lecteur. Eh bien ! prenez courage,
+Marie ne meurt pas ; le nègre est touché de pitié, et se précipite tout
+seul dans l'abîme ; les nègres ferment les yeux, Mendoce relève sa
+fille, la toile tombe, et tout est dit.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 27</p>
+<p>voix pour approuver ma hardiesse .... Elle était nouvelle en ce</p>
+<p><pb/></p>
+<p>28 LITTÉRATURE DRAMATIQUE.</p>
+<p>FONTAN.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 29</p>
+<p>tomber un galant homme .... Il y en a tant et tant dans ce Paris</p>
+<p>2.</p>
+<p><pb/></p>
+<p>30 LITTÉRATURE DRAMATIQUE.</p>
+<p>« Ces faibles semences de génie amusent une jeunesse ardente « qui leur
+sacrifie les plaisirs et les plus beaux jours de la vie. « Je regarde
+ces jeunes gens comme les femmes qui attendent « leur fortune de leur
+beauté : le mépris et la pauvreté sont la « peine de ces espérances. Les
+hommes ne pardonnent point aux « misérables l'erreur de la gloire 1. »</p>
+<p>O noble ami, pareil aux hommes d'autrefois, Il manque parmi nous ta
+voix, ta forte voix, Pleine de l'équité qui gonflait ta poitrine ; Il
+nous manque ta main qui grave et qui burine, Dans ce siècle où par l'or
+les sages sont distraits, Où l'idée est servante auprès des intérêts,...
+Temps de fruits avortés et de tiges rompues, Où dans l'esprit humain
+tout étant dispersé, Le présent, au hasard, flotte sur le passé !</p>
+<p>1. Vauvenargues, Réflexions et Maximes.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 31</p>
+<p>Aux paroles du poëte, Alphonse Rabbe ne répondait pas :</p>
+<p>Hélas ! que fais-tu donc, ô Rabbe, ô mon ami, Sévère historien dans la
+tombe endormi!</p>
+<p><pb/></p>
+<p>32 LITTÉRATURE DRAMATIQUE.</p>
+<p>A M. BERTIN.</p>
+<p>« Monsieur,</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 33</p>
+<p>lits politiques , n'est pas une interprétation illégale et cruelle de
+l'esprit de la loi.</p>
+<p>« La salle habitée par les prisonniers est une espèce de corridor entre
+deux murs, humide et infect; les prisonniers prennent leurs ébats, deux
+heures par jour, dans cet étroit espace. Figurezvous que cette salle est
+composée de tout ce que la police correc-</p>
+<p><pb/></p>
+<p>34 LITTÉRATURE DRAMATIQUE.</p>
+<p>« On a dit que les cheveux de M. Fontan en avaient blanchi.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 35</p>
+<p><pb/></p>
+<p>36 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTERATURE D R A MA T IQ UE. 37</p>
+<p>guichets, aussi bien que le théâtre qui devait le représenter; un
+troisième enfin s'est écrié avec cet. air de triomphe qui leur va si
+bien : Pourquoi avez-vous détruit la Bastille? Je suis étonné qu'il
+n'ait pas ajouté : et les lettres de cochet!</p>
+<p>JEANNE LA FOLLE.</p>
+<p>3</p>
+<p><pb/></p>
+<p>38 LITTERATURE. DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 39</p>
+<p>« Cette dernière scène a l'ail plaisir. Le spectacle en est beau, et «
+l'effet moral qui en résulte a réparé l'impression pénible qu'avait</p>
+<p><pb/></p>
+<p>40 LITTÉRATURE DRAMATIQUE.</p>
+<p>« L'effet pittoresque des décorations, la profondeur et la force « du
+jeu de mademoiselle Georges, la pantomime de Ligier, quel« quefois
+exagérée en grotesque, mais souvent effrayante et ter" rible, l'intérêt
+attaché au nom d'un auteur, victime récente de « l'arbitraire et de la
+tyrannie, toutes ces causes réunies ont « assuré le succès de l'ouvrage
+; le nom de l'auteur a été proclamé « et couvert d'applaudissements. »</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 44</p>
+<p><pb/></p>
+<p>42 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 33</p>
+<p>Tircis, il se fait temps de prendre ta retraite.</p>
+<p>Bien avant que le roi Louis-Philippe , au grand chagrin de ceux qui
+l'aimaient et qui l'honoraient le plus, eût prononcé son fameux juste
+milieu, M. Duviquet l'avait trouvé le juste milieu.</p>
+<p>Voici encore deux pièces oubliées rie Fontan ; je les retrouve au beau
+milieu de deux feuilletons oubliés; oubli, néant, poussière et vanité
+des vanités de l'esprit ! La première de ces pièces était empruntée au
+célèbre roman de Lewis, le Moine, et voici comment nous nous sommes
+tirés de notre tâche ingrate, Fontan et moi.</p>
+<p>LE MOINE.</p>
+<p>« Quand le Moine parut en Angleterre, ce livre fit une profonde
+sensation. C'était un livre sorti de la foule, véritable débauche d'un
+jeune esprit que le succès va trouver, sans qu'il y songe. Ces
+voluptueuses peintures d'une passion plus qu'humaine, cet audacieux
+tableau d'un artifice plus que féminin, produisirent un tel scandale au
+beau milieu de la puritaine Angleterre, qu'il fut question de traduire
+l'auteur en justice, comme corrupteur de la morale publique. Lord Byron
+faisait grand cas du roman de Lewis.</p>
+<p><pb/></p>
+<p>44 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 48</p>
+<p>Le traité conclu au second acte marche et reçoit son exécution. Le
+moine, emporté par sa passion , jette le froc , déchire sa robe, relève
+ses cheveux sur son front et se pare des broderies d'un gentilhomme;
+bientôt il habite un noble palais sur les bords du Guadalquivir. Je vous
+ai bien dit que l'action était simple; malheureusement, elle est souvent
+trop simple. Ambrosio conclut un marché; le Diable l'exécute do bonne
+grâce; Ambrosio fait de même. Quand il a son palais et son chapeau
+ducal, il veut aussi avoir Antonia, et pour cela il va la chercher ; il
+y va tout seul, en gondole, sans aucune espèce de diable pour le
+protéger. Dans Faust, Méphistophélès est toujours là. Méphistophélès est
+la création d'un homme qui ne croit pas entièrement au Diable, et qui a
+besoin , pour y croire, de l'avoir toujours sous les yeux.</p>
+<p>Une fois échappé de son couvent, Ambrosio court chez Antonia. Ici
+l'auteur a cru devoir refaire le cinquième acte d'Otello. Antonia en
+robe blanche est dans sa chambre, elle chante une fort jolie romance de
+M. Adam, puis elle se met au lit et s'endort. Alors entre le moine; il
+va pour enlever celle qu'il aime,</p>
+<p>3.</p>
+<p><pb/></p>
+<p>46 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 47</p>
+<p><pb/></p>
+<p>48 LITTÉRATURE DRAMATIQUE.</p>
+<p>LA CAMARGO.</p>
+<p>L'autre pièce de Fontan avait la Camargo pour héroïne, et se passait,
+naturellement, dans des régions plus humaines :</p>
+<p>« Ah! Camargo, que vous êtes brillante ! Biais que Sallé, grands Dieux !
+est ravissante! Que vos pas sont légers et que les siens sont doux: Elle
+est inimitable, et vous êtes nouvelle. Les Nymphes sautent comme vous,
+Et les Grâces dansent comme elle! »</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 49</p>
+<p>tons, qui ne sommes pas des Voltaire, quand par hasard nous venons à
+nous tromper.</p>
+<p>« M. Fontan vient de composer un drame avec la biographie de
+mademoiselle Camargo. Le drame qu'il a fait avec cette brillante
+sauteuse, nymphe aux pieds légers, est un drame sentimental; rien de
+plus, sinon quelques brutalités contre les élégances du beau siècle de
+Voltaire et de Diderot.</p>
+<p><pb/></p>
+<p>50 LITTÉRATURE DRAMATIQUE.</p>
+<p>Undique pulso Per cunctas licuit fraudes impune vagari!</p>
+<p>Fontan mourut au mois d'octobre 1839, et voici quelques lignes suprêmes
+que j'écrivis sur son tombeau :</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 51</p>
+<p><pb/></p>
+<p>CHAPITRE II</p>
+<p>Heu quam precipiti profundo, Mens habel....</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 53</p>
+<p><pb/></p>
+<p>54 LITTÉRATURE DRAMATIQUE.</p>
+<p>« supportez tant de révolutions en silence; Aristote et Boileau ne «
+seraient eux-mêmes que des contre-révolutionnaires aujour« d'hui. »</p>
+<p>Où diable mon esprit prend-il ces gentillesses ?</p>
+<p>TRIBOULET.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 85</p>
+<p>LA FILLE DU BANDIT.</p>
+<p><pb/></p>
+<p>56 LITTÉRATURE DRAMATIQUE.</p>
+<p>comtesse : Elle est ma fille ! Alors on fouille le compagnon de Meldorf,
+et l'on découvre (ô surprise) des papiers qui prouvent que l'Elvina du
+comte Alfred n'est pas la fille du brigand Meldorf; au contraire, Elvina
+a pour père le baron Walstein, qui pleure sa fille, depuis si longtemps.
+Alors tout s'arrange , tout le monde est heureux, tout est dit. »</p>
+<p>LA VENTE A L'ENCAN.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 57</p>
+<p>LES IAMBES.</p>
+<p><pb/></p>
+<p>58 LITTÉRATURE DRAMATIQUE.</p>
+<p>On jour que je marchais triste par la campagne, Un esprit m'enleva sur
+la haute montagne, Où, sur le doigt de Dieu, la sainte arche de bois
+Prit terre et s'arrêta pour la première fois.</p>
+<p>Oh ! lorsqu'un lourd soleil chauffait les grandes dalles</p>
+<p>Des ponts et de. nos quais déserts, Que les cloches hurlaient, que la
+grêle des balles</p>
+<p>Sifflait et pleuvait par les airs; Que dans Paris entier, comme la mer
+qui monte,</p>
+<p>Le peuple soulevé grondait, Et qu'au lugubre accent des vieux canons de
+fonte</p>
+<p>La Marseillaise répondait ; Certe, on ne voyait pus, comme aux jours où
+nous sommes,</p>
+<p>C'étaient alors de sales doigts Qui chargeaient les mousquets et
+renvoyaient la foudre ;</p>
+<p>C'était la bouche aux vils jurons, Qui mâchait la cartouche, et qui
+noire de poudre,</p>
+<p>Criait aux citoyens : Mourons!</p>
+<p>La grande populace et la sainte canaille!</p>
+<p>C'est que la Liberté n'est pas une comtesse Du noble faubourg
+Saint-Germain ;</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 89</p>
+<p>Une femme qu'un cri fait tomber eu faiblesse ,</p>
+<p>Qui met du rouge et du carmin. C'est une forte femme, aux puissantes
+mamelles,</p>
+<p>A la voix rauque, aux durs appas; Qui, du brun sur la peau, du feu dans
+les prunelles</p>
+<p>Aux longs roulements des tambours; A l'odeur de la poudre, aux
+lointaines volées</p>
+<p>Des cloches et des canons sourds ; Qui ne prend ses amants que dans la
+populace,</p>
+<p><pb/></p>
+<p>60 LITTÉRATURE DRAMATIQUE.</p>
+<p>Cette vierge fongueuse, enfant de la Bastille,</p>
+<p>Qui jadis lorsqu'elle apparut, Avec son air hardi, ses allures de fille,</p>
+<p>Cinq ans mit tout ce peuple en rut....</p>
+<p>De cet ïambe on n'en saurait citer davantage. A l'entendre on dirait que
+le poète ne peut pas se consoler qu'un peu d'ordre ait apparu enfin dans
+celte société au désespoir :</p>
+<p>J'ai vu pendant trois jours, j'ai vu plein de colère, Bondir et rebondir
+le lion populaire....</p>
+<p>que c'était grand dommage. On appelait muselé, le peuple de décembre
+1830, le peuple du procès des ministres ! On invoquait, dans des vers
+frappés sur l'enclume du désespoir, le sombre quatre-vingt-treize, on
+lui disait :</p>
+<p>Oui, comme la bacchante, enfin lasse de rage</p>
+<p>N'en pouvant plus, et sur le flanc Retombant en sa couche et jetant sur
+la plage</p>
+<p>Des têtes d'hommes et du sang.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 61</p>
+<p>.... l'émeute au pied rebelle,</p>
+<p>Poussant avec la main le peuple devant elle.</p>
+<p>LES BONAPARTE.</p>
+<p>Nous étions alors en pleine fièvre , en pleine démence. On appelle ce
+haut-mal : delirium tremens en médecine, et il faut que les nations
+soient bien fortes, pour ne pas succomber sous ses atteintes. Chacun, en
+ce temps-là, avait son cri d'alarme et son cri de guerre. Ceux qui
+n'invoquaient pas Robespierre ou Danton, invoquaient l'empire et
+l'empereur.</p>
+<p>Encor Napoléon, encor sa grande image!</p>
+<p>Ah! que le rude et dur guerrier Nous a coûté de sang, et de pleurs et
+d'outrage</p>
+<p>Pour quelques rameaux de laurier!</p>
+<p>4</p>
+<p><pb/></p>
+<p>62 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 63</p>
+<p>LES SUICIDES.</p>
+<p>1. Louisa, ou les douleurs d'une fille de joie, par l'abbé Tiberge. N.
+Delangle, 1830, 2 vol., pet. in-18.</p>
+<p><pb/></p>
+<p>61 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 68</p>
+<p>« Farruck le Maure, disait le Feuilleton, est un nègre un peu moins
+foncé que feu le nègre de M. Ozanneaux, mais aussi furieux et aussi
+grand parleur, et parleur en vers sonores qui ont au moins douze pieds,
+tant ils nous paraissent longs et monotones. Or Farruck le Maure est le
+père d'une petite Mauresque assez farouche que pourchasse un certain don
+Alphonse, en vrai seigneur portugais :</p>
+<p>Vitas hinnuleo me similis Chloë!</p>
+<p>Mais s'il eût dit: Voyez quelle est votre conquête ! Je suis un jeune
+Dieu, toujours vif, toujours beau, Daphné, sur ma parole, aurait tourné
+la tête.</p>
+<p>Toujours est-il que la fille de Farruck ne s'est pas retournée, et que
+Farruck est furieux comme deux noirs de M. Ozanneaux.</p>
+<p>Ces bras , avant les tiens, presseront ses appas; Ah! comme je rirai...
+La vengeance est permise. Quel bonheur de saigner un coeur qui vous
+méprise!</p>
+<p>4.</p>
+<p><pb/></p>
+<p>66 LITTERATURE DRAMATIQUE.</p>
+<p>Sans doute il est cruel, pour une grande dame, D'épouser un amant
+couvert d'un sang de femme.</p>
+<p>Un porc peut, s'il le veut, te cracher au visage!</p>
+<p>Eh bien ! monseigneur du taureau , Craignez-vous maintenant d'attaquer
+le pourceau?</p>
+<p>Pastores hederâ crescentem ornate poetam!</p>
+<p>Quelques jours après, ces deux jeunes gens s'asphyxiaient par le
+charbon, et voici comment je racontais ce. triste suicide, en attendant
+que la même thèse se montrât de nouveau quelques années plus tard à
+l'occasion du drame de M. Alfred de Vigny : Chatterton.</p>
+<p>LES PREMIERS PAS.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 67</p>
+<p>Il y a trois jours, dans la nuit du jeudi au vendredi, deux jeunes gens,
+humbles auteurs de quelques mélodrames sans nom, se</p>
+<p><pb/></p>
+<p>68 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 69</p>
+<p><pb/></p>
+<p>70 LITTÉRATURE DRAMATIQUE.</p>
+<p>Lebras, fidèle au rendez-vous, arrive chez son ami; Escousse</p>
+<p>avait tenu parole; en effet, le rideau était levé; le charbon, cet</p>
+<p>dans trois endroits différents, il n'y eut pas besoin de précipiter</p>
+<p>le dénouement'.</p>
+<p>Le lendemain, quand la porte s'est ouverte, — et qu'il n'y a</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 71</p>
+<p>Adieu, trop inféconde terre, Fléaux humains, soleils glacés; Continu un
+fantôme solitaire, Inaperçu j'aurai passé ; Adieu, palmes immortelles,
+Vrai songe d'une âme de feu; L'air manquait, j'ai fermé mes ailes, Adieu.</p>
+<p>Ainsi sont morts victimes de l'exaltation d'un cerveau malade deux
+jeunes gens dignes de pitié et d'intérêt ! Ils sont morts pour avoir
+méprisé les professions vulgaires, si favorables au repos et au bonheur.
+Ils sont morts surtout parce qu'il y a beaucoup trop de théâtres, et
+trop peu de sévères critiques, deux grandes causes de malheur et de
+ruine pour bien de jeunes gens de talent, »</p>
+<p><pb/></p>
+<p>72 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 73</p>
+<p>LE DUEL.</p>
+<p>Une mort du même genre, mais elle méritait d'être déplorée , et elle le
+fut en effet, ce fut la mort de Dovalle, un jeune poëte I. 5</p>
+<p><pb/></p>
+<p>71 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 75</p>
+<p>LA CAMPAGNE APRES UNE PLUIE D'ETE.</p>
+<p>Entre les sentiers tortueux, Sous les verts buissons d'aubépine, Parmi
+les touffes d'églantines Chrysa, veux-tu venir, tous deux?</p>
+<p>Les papillons du crépuscule De nouveau brillent étalés, Sous le vent la
+prairie ondule, La caille chante dans les blés...</p>
+<p>Viens avant que le jour finisse, Viens, Chrysa, donne-moi la main. Du
+vallon prenons le chemin, L'heure aux doux songes est propice.</p>
+<p>LASSAILLY.</p>
+<p><pb/></p>
+<p>76 LITTÉRATURE DRAMATIQUE.</p>
+<p>Un jour M. de Balzac, qui flairait l'esprit comme on flaire un brin de
+muguet, rencontrant Lassailly qui grelottait, le mena dans sa maison des
+Jardies; rien n'y manquait, sinon un escalier pour y monter. Aux
+Jardies, le propriétaire de ces domaines qui pouvaient bien avoir
+vingt-cinq perches de long, sur trente perches de large, installa maître
+Lassailly dans une chambre obscure, et pour dégager cet esprit de la
+matière absolument, il essaya de</p>
+<p>nourrir son hôte avec très-peu de pain et beaucoup de café noir</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 77</p>
+<p>UN FEUILLETON D'ETIENNE BEQUET.</p>
+<p><pb/></p>
+<p>78 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 79</p>
+<p><pb/></p>
+<p>80 LITTÉRATURE DRAMATIQUE.</p>
+<p>« au même moment le tocsin annonce la révolte des Gibelins, «
+circonstance très-indifférente de la péripétie.</p>
+<p>« En général l'effet de celte représentation a été fort médiocre. « On a
+justement applaudi quelques scènes , ou plutôt quelques « tirades,
+écrites avec correction et une facilité élégante. Mais « jamais ni la
+terreur, ni la pitié du spectateur n'ont été vivement « excitées. Point
+de ces instants où la vérité des passions établisse « une vive sympathie
+du personnage au public, et du public au « personnage. On regardait ce
+qui se passait sur la scène, on ne « l'éprouvait pas. »</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 81</p>
+<p>LA CURE ET L'ARCHEVÊCHÉ.</p>
+<p><pb/></p>
+<p>82 LITTERATURE DRAMATIQUE.</p>
+<p>prélat de l'église catholique, et vous verrez qu'on n'aura pas lésiné
+sur les crimes, cette fois. »</p>
+<p>Ceci dit, je racontais cette histoire extraordinaire qui vous peut
+donner une juste idée des excès dans lesquels le théâtre était tombé,
+lorsque la jeune critique eut l'honneur de prendre la férule en ses mains :</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 83</p>
+<p><pb/></p>
+<p>84 LITTÉRATURE DRAMATIQUE.</p>
+<p>« La scène change : nous ne sommes plus dans les salons dorés de
+l'archevêque, nous sommes dans le simple et délabré presbytère du vieux
+curé de Maucler. Le vieux curé est un bonhomme qui mange un frugal
+repas, qui se laisse gronder par sa servante, c'est un parfait contraste
+avec l'archevêque. Au milieu de son</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 85</p>
+<p><pb/></p>
+<p>86 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 87</p>
+<p><pb/></p>
+<p>88 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 89</p>
+<p>LES EXILÉS.</p>
+<p><pb/></p>
+<p>90 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 94</p>
+<p><pb/></p>
+<p>92 LITTÉRATURE DRAMATIQUE.</p>
+<p>PAGANINI.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 93</p>
+<p><pb/></p>
+<p>94 LITTERATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 95</p>
+<p>MAYEUX.</p>
+<p><pb/></p>
+<p>96 LITTÉRATURE DRAMATIQUE.</p>
+<p>HOFFMAN ET PAGANINI.</p>
+<p>CONTE FANTASTIQUE.</p>
+<p>Hâtons-nous cependant ! C'est l'heure où Théodore s'enferme</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 97</p>
+<p>— O mon très-cher Théodore, lui dis-je, vous avez la figure d'un homme
+malade ou tourmenté d'idées sinistres.</p>
+<p>— Frantz ! me dit-il, mon génie se perd, ma tête est faible. Croirais-tu
+que par cette pluie froide, dans ce lieu humide, je ne</p>
+<p>I. 6</p>
+<p><pb/></p>
+<p>98 LITTERATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 99</p>
+<p>— Un salut d'Italien, repris-je.</p>
+<p><pb/></p>
+<p>100 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 104</p>
+<p>Soudain il sortit et s'enfuit comme si le feu était au théâtre. —
+Trouvez- vous cela beau? lui dis-je.</p>
+<p>I. 6.</p>
+<p><pb/></p>
+<p>402 LITTÉRATURE DRAMATIQUE.</p>
+<p>Vois-tu ! ça n'est pas naturel ce grand génie ! Il faut souffrir ,</p>
+<p>Pomme-de-Pin, ce soir?</p>
+<p>— Il revint sur ses pas, nous entrâmes au cabaret ..... Trois</p>
+<p>heures après il était ivre... et moi donc ! »</p>
+<p>L'INONDATION.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 103</p>
+<p><pb/></p>
+<p>404 LITTÉRATURE DRAMATIQUE.</p>
+<p>plus bas, et il est parti. Il venait de comprendre qu'il était mort pour
+nous et pour lui !</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 105</p>
+<p><pb/></p>
+<p>106 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 407</p>
+<p>« Si Paganini fait cela, il sera le musicien le plus connu du monde
+entier; il aura un plus grand nom que Mozart... il sera connu dans les
+mines de Saint-Étienne. Tous les hommes célèbres ont leur nom gravé sur
+le marbre, marbre périssable : le nom de Paganini sera inscrit sur la
+houille, mais sur une houille qui ne brûlera jamais.</p>
+<p><pb/></p>
+<p>108 LITTERATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 409</p>
+<p>7</p>
+<p><pb/></p>
+<p>110 LITTÉRATURE DRAMATIQUE.</p>
+<p>« Mais pourquoi insister encore? Cet homme ne veut pas venir au secours
+de Saint-Étienne, sous prétexte qu'il a joué deux fois pour les pauvres
+; tant pis pour cet homme. Les pauvres de SaintÉtienne ne veulent pas de
+secours mendiés ; s'il faut mourir, ils mourront, mais jamais ces rudes
+infortunes ne plieront le genou pour implorer ce grand cadavre tout pâle
+qui les regarderait en souriant. Que cet homme passe dans nos montagnes,
+et qu'il ait peur, il trouvera encore un forgeron pour le conduire et
+pour guider ses pas ; que cet homme descende dans nos mines profondes,
+il trouvera un charbonnier pour le porter dans ces labyrinthes; mais
+personne ne lui tendra la main pour lui rien demander. Il a refusé une
+aumône, on la lui jetterait au visage. On l'a supplié en vain ; à
+présent, c'est lui-même qui prierait en vain : il implorerait vainement
+ce grand honneur de secourir tant de braves gens,</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 111</p>
+<p>Je retrouve ici avec une reconnaissance bien sincère et bien</p>
+<p><pb/></p>
+<p>412 LITTÉRATURE DRAMATIQUE.</p>
+<p>d'abord ..... ce qu'il fallait démontrer :</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 113</p>
+<p>« ROSSINI. »</p>
+<p>BERLIOZ.</p>
+<p><pb/></p>
+<p>114 LITTÉRATURE DRAMATIQUE.</p>
+<p>Je racontais tout ce concert de Berlioz ; je le montrais tel qu'il
+m'était apparu tout d'abord, et tel que, par un changement subit, de
+l'abaissement au triomphe, nous le montra, l'instant d'après, cet
+admirable Paganini.</p>
+<p><pb/></p>
+<p>LLTTÉRATURE DRAMATIQUE. 415</p>
+<p><pb/></p>
+<p>416 LITTÉRATURE DRAMATIQUE.</p>
+<p>« Tel était l'homme, — telle était l'ombre vivante que découvrit Berlioz
+applaudissant, autant qu'une ombre peut applaudir aux douleurs et aux
+transformations d'Harold. Quand l'oeuvre entière fut achevée, quand
+l'orchestre eut jeté au loin son dernier soupir, Paganini vint à
+Berlioz, et en présence de tous — Paganini se prosterna devant Berlioz.
+Vous savez que Paganini ne peut plus parler, la vois lui manque, mais
+non l'enthousiasme, et je ne crois pas que jamais enthousiasme ait été
+plus éloquent que celui-là.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 147</p>
+<p>« Cette nouvelle symphonie de Berlioz, Roméo et Juliette , est dédiée à
+son bienfaiteur Nicolo Paganini. Depuis tantôt trois mois, deux cent
+vingt musiciens ou chanteurs répètent ce grand drame. — Ils ont été
+payés avec les 20,000 fr. de Paganini!</p>
+<p>« Et ces prétendus gens bien informés qui veulent tout savoir disaient
+que Berlioz avec cet argent, paierait ses dettes ou qu'il achèterait une
+maison: Si Berlioz eût fait cela avec cet argent royal, Berlioz eût été
+un voleur. »</p>
+<p>7.</p>
+<p><pb/></p>
+<p>448 LITTÉRATURE DRAMATIQUE.</p>
+<p>concert, ni le marchand de musique dans ta chambre, ni l'impresario que
+réclame ta musique ; tu es ton maître, Berlioz ! tu es le maître du
+monde ! Donc, secoue les soucis de ton front, la poussière de tes pieds,
+et marche en avant, mon fils !</p>
+<p>1. A ce propos, nous pouvons citer une lettre de M. Louis Boulanger ; M.
+Boulanger avait publié dans l'Artiste, un admirable portrait de M.
+Paganini, il fut bientôt forcé de se défendre contre les réclamations de
+cet esprit inquiet et malheureux : Monsieur,</p>
+<p>Vous avez bien voulu me communiquer une lettre dans laquelle M. Paganini
+se plaint amèrement des poursuites de la calomnie, qui ne doit, dit-il,
+abandonner sa proie que lorsqu'il sera au tombeau. Or, comme je passe
+dans son esprit pour un agent de la livide déesse, ayant forme de
+lithographe, il m'importe de repousser ce rôle ridicule, car je ne suis
+ni calomniateur, ni faiseur de facéties, ni mystificateur exploitant la
+curiosité des</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 119</p>
+<p>Eh bien ! l'accident le plus curieux et le plus incroyable de toute
+cette histoire un peu longue, c'est que Berlioz n'avait jamais entendu
+Paganini jouer du violon, c'est qu'il ne l'a jamais entendu cet
+extraordinaire et sympathique , ainsi l'appelait M. Fétis! « C'est un
+météore! » disait-on de Weber. Or, voici pour conclure, la narration de
+Berlioz :</p>
+<p>« Je ne connais malheureusement que par les récils qu'on « m'en a faits
+cette puissance musicale démesurée de Paganini ; « un concours fatal de
+circonstances a voulu qu'il ne se soit jamais « produit en public, en
+France, quand je m'y trouvais, et j'ai le « chagrin d'avouer que, malgré
+les relations fréquentes que j'ai « eu le bonheur d'entretenir avec lui
+pendant les dernières années</p>
+<p>Agréez, etc. L. BOULANGER.</p>
+<p><pb/></p>
+<p>420 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 121</p>
+<p>« lorsqu'un jour Spontini voulut le voir, et que depuis lors je n'ai "
+pas été plus heureux dans mes recherches.</p>
+<p>« Je ne le revis plus... Quelques années après, obligé moi« même d'aller
+demander aux tièdes haleines de la mer de Sar« daigne un peu de
+récomfort après les âpres fatigues d'une labo« rieuse saison musicale à
+Paris, je revenais un jour en barque, de</p>
+<p><pb/></p>
+<p>122 LITTÉRATURE DRAMATIQUE.</p>
+<p>« Il paraît qu'en effet son corps fut déposé dans ce pavillon pen" dant
+le long débat qui s'éleva entre son fils et l'évêque de « Gênes, débat
+qui, pour l'honneur du clergé génois et piémon« montais, n'eût pas dû se
+prolonger autant, et dont les causes, « au point de vue même de
+l'orthodoxie la plus sévère, n'avaient « point la gravité qu'on a voulu
+leur donner, car Paganini mou« rut presque subitement.</p>
+<p><pb/></p>
+<p>CHAPITRE III.</p>
+<p><pb/></p>
+<p>424 LITTERATURE DRAMATIQUE.</p>
+<p>Vendidit hic auro patriam, dominumque potentem Imposuit....</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 125</p>
+<p>Uni pernicitas Nota, inquit, illa est? quid ita cessaruut pedes?</p>
+<p><pb/></p>
+<p>426 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 127</p>
+<p><pb/></p>
+<p>128 LITTÉRATURE DRAMATIQUE.</p>
+<p>dans ces odeurs de cuisine et de renfermé, a côté du plomb aux
+immondices, on voyait ce faquin qui vous débitait une messe en français
+de son cru. »</p>
+<p>THÉATRE DE L'ABBÉ CHATEL!</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 129</p>
+<p><pb/></p>
+<p>430 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 431</p>
+<p><pb/></p>
+<p>132 LITTÉRATURE DRAMATIQUE.</p>
+<p>M. CASIMIR BONJOUR. UGOLIN. LES CHOUANS.</p>
+<p>LE BOURREAU.</p>
+<p>« Entre cette comédie et le parterre, sans parler du talent ou de
+l'intérêt de l'ouvrage, il n'y a qu'un obstacle, un très-léger abîme qui
+les sépare, la Révolution de Juillet.</p>
+<p>« Avec ces personnages, la comédie électorale était toute faite.
+D'ordinaire on y ajoutait un petit amour bien innocent, qui se terminait
+par un innocent mariage que bénissait toujours le député choisi. De
+celte comédie, on nous a donné au moins une vingtaine d'éditions. Hier
+encore, M. Casimir Bonjour mêlait selon la for-</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 433</p>
+<p>mule trois hommes politiques qui n'ont jamais vécu que je sache, et qui
+du moins n'existent, réunis, nulle part :</p>
+<p>8</p>
+<p><pb/></p>
+<p>434 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 135</p>
+<p>« Monsieur,</p>
+<p>« Je suis un pauvre homme très-malheureux. Mon père s'est ruiné pour
+faire mon éducation. J'ai eu tous les prix de mon collège. A onze ans je
+faisais des vers français. A quinze ans je savais le latin comme M. de
+Jouy. Dans ma petite ville on disait que je serais de l'Académie à
+trente ans. A dix-huit ans, la femme du sous-préfet, la femme du maire
+et le receveur des contributions</p>
+<p><pb/></p>
+<p>136 LITTÉRATURE DRAMATIQUE.</p>
+<p>Ici mon homme donnait le plan d'une tragédie de sa façon , intitulée le
+Moment suprême, et il priait le gouvernement de lui</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 137</p>
+<p>« Je sauve tout, les veuves, les orphelins, la morale, et je fais ma
+fortune, Monsieur ; je sauve ma femme, mon fils, moi-même, je suis
+honnête homme toute ma vie ; j'achète un bois de lit, une commode, des
+bottes neuves, une redingote blanche , doublée d'écossaise, et un
+chapeau gris. Qu'on me donne ces trois tètes, Monsieur, et la question
+littéraire est décidée, et les disputes cessent, et je sauve l'Olympe
+chancelant, et je fonde un grand nom de plus dans la postérité.</p>
+<p>8.</p>
+<p><pb/></p>
+<p>438 LITTÉRATURE DRAMATIQUE.</p>
+<p>« L'auteur du Moment suprême, mélodrame en six tableaux (1er tableau, le
+Bagne; 2e tableau, le Cachot; 3e tableau, l'Hôpital ; 4e tableau, le
+Bourreau ; 5e tableau, la Guillotine; 6e tableau, la Mort. ) »</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 139</p>
+<p>nisme auquel nos neveux ne comprendront rien, ce qui n'est pas une
+raison pour que le Vaudeville le comprenne.</p>
+<p>« Osez chanter cela si vous l'osez. Mettez-vous au piano et chantez-moi
+ce gai refrain :</p>
+<p>« Par une forte inconvenance et par une atroce continuation de la même
+plaisanterie, on a mis ce vaudeville sous le nom de M. Samson
+l'exécuteur. Que dirait M. de Maistre s'il voyait l'homme rouge</p>
+<p><pb/></p>
+<p>140 LITTÉRATURE DRAMATIQUE.</p>
+<p>LA RÉPUTATION D'UNE FEMME,</p>
+<p>Mélodrame en neuf tableaux, par M. Tyrtée.</p>
+<p>« La chose se passe en Allemagne, sous le ministère d'Othon.
+Connaissez-vous le ministre Othon? Il parait que c'était un trèsvertueux
+ministre, ami du peuple, ami du prince, ami de la femme du prince, ami
+de tout le monde. Ce prince est un de ces mille et un ducs sur lesquels
+reposent toutes les comédies allemandes de Paris. Du reste, on ne voit
+pas le Grand-Duc dans cette pièce, on ne voit que sa femme et son
+ministre le comte Othon.</p>
+<p>« Othon, jeune homme, amoureux de sa souveraine, comme dit le mélodrame,
+s'en va par une belle nuit d'été chez sa ducale</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 141</p>
+<p><pb/></p>
+<p>442 LITTÉRATURE DRAMATIQUE.</p>
+<p>« Au moment où nous allons nous attendrir, la toile change.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 113</p>
+<p><pb/></p>
+<p>444 LITTERATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 4 45</p>
+<p><pb/></p>
+<p>146 LITTÉRATURE DRAMATIQUE.</p>
+<p>« Pendant que la cloche sonne et que le tambourin joue, Franck, sur le
+devant du théâtre, s'écrie tout bas : Que la réputation d'une femme
+coûte cher! »</p>
+<p>DIX ANS DE LA VIE D'UNE FEMME,</p>
+<p>Drame en cinq actes en prose, et en neuf tableaux, par MM. Scribe et
+Térier.</p>
+<p>« La pièce finie le parterre a voulu connaître les auteurs. Loc-</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE, 4 47</p>
+<p><pb/></p>
+<p>148 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 119</p>
+<p><pb/></p>
+<p>450 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 451</p>
+<p><pb/></p>
+<p>152 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 183</p>
+<p>THÉODOSE BURETTE.</p>
+<p>Dans les époques troublées qui suivent les révolutions, entre le sable
+et l'écume de toutes choses, le plus grand soin de la critique et son
+plus impérieux devoir c'est de veiller au maintien I. 9.</p>
+<p><pb/></p>
+<p>454 LITTÉRATURE DRAMATIQUE,</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 455</p>
+<p>Saepe ego nimbosis dubius jactabar ab midis!</p>
+<p>1 Nam cupide conculcatur, nimis aille metutum.</p>
+<p><pb/></p>
+<p>156 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 157</p>
+<p>soleil, et de fleurs..... Je te vois d'ici, homme prudent pour moi,</p>
+<p>non pour toi : — Il no faut pas, dis-tu, le doigt sur ta lèvre, parler</p>
+<p>1. Les Catacombes ; 6 vol. in-18.</p>
+<p><pb/></p>
+<p>158 LITTÉRATURE DRAMATIQUE.</p>
+<p>sans respect des grandes puissances. Laissons-les faire et tenonsnous à
+l'abri ..... « Eh bien, tu as beau dire et me conseiller, il</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE, 189</p>
+<p>Brouter l'herbe d'autrui, quel crime abominable !</p>
+<p><pb/></p>
+<p>4 60 LITTÉRATURE DRAMATIQUE.</p>
+<p>fureurs, ces violences, ces volontés .... Quos ego!.... et quelle</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 161</p>
+<p><pb/></p>
+<p>462 LITTÉRATURE DRAMATIQUE.</p>
+<p>« Pour nous faire comprendre, disais-je en cette louange posthume ,
+cette comédie un peu brutalement effacée de l'affiche, on l'a publiée,
+et maintenant le public, privé de son plaisir au théâ-</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 163</p>
+<p>« Il est impossible de faire descendre plus habilement Catilina de la
+hauteur où l'a porté Salluste, Cicéron de la hauteur où l'ont placé son
+génie et son malheur, Jules César des sommets où il est monté lui-même
+plus tard.</p>
+<p><pb/></p>
+<p>464 LITTÉRATURE DRAMATIQUE.</p>
+<p>sur ses tablettes : « Qui a bu dans cette coupe ! .... un mort! »</p>
+<p>Mais pendant que Théo faisait si grand fi de sa fameuse comédie, il
+arrivait que son collaborateur ne pouvait se consoler des injustices de
+l'autorité et qu'il versait, en son fiévreux par-dedans, des larmes de
+rage, au souvenir de ce premier succès dramatique si brusquement
+interrompu par le veto du ministre de l'intérieur, qui ne savait certes
+pas tout le dégât commis en son nom. Pour ma part, j'attribue, et pour
+beaucoup, l'irritation et la férocité de cet esprit tourmenté par une
+ambition inégale</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 1 65</p>
+<p>mon travail ..... il n'a pas été heureux dans cette entreprise plus</p>
+<p><pb/></p>
+<p>166 LITTÉRATURE DRAMATIQUE.</p>
+<p>de ces deux hommes qui se venge le mieux et qui hait le plus.</p>
+<p>Summa petit livor, perflant altissima venti !</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 167</p>
+<p>ANGO,</p>
+<p>MÉLODRAME EN CINQ ACTES ET EN SIX TABLEAUX, PLUS UN ÉPILOGUE.</p>
+<p><pb/></p>
+<p>468 LITTÉRATURE DRAMATIQUE.</p>
+<p>mar1.</p>
+<p>2. M. Gros.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 169</p>
+<p>« Ainsi Ango fut comblé un instant de toutes les faveurs du pouvoir et
+de la fortune. Le roi François Ier fut son hôte, et le fit comte ; il
+fut gouverneur de Dieppe au moment où cette florissante marine de Dieppe
+tenait le sceptre de la mer; il se bâtit deux I. 10</p>
+<p><pb/></p>
+<p>470 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 471</p>
+<p>Quand on m'aura ou bruslé ou pendu, Mis sur la roue, et on quartier fendu,</p>
+<p><pb/></p>
+<p>472 LITTÉRATURE DRAMATIQUE.</p>
+<p>Qu'en sera-t-il ? Ce sera un corps mort! !</p>
+<p>Las ! toutefois n'aurait-on nul remords ?</p>
+<p>Nul homme est-il de valeur si petite,</p>
+<p>Si fort muni de science et vertu,</p>
+<p>Pour être ainsi qu'une paille ou festu</p>
+<p>Annihilé ? Faict-on si peu de compte</p>
+<p>D'un noble esprit qui maint autre surmonte ?</p>
+<p>Vendredi, chair no mangeras, Et le samedi mêmement.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 173</p>
+<p>par le roi François Ier, que vous dirai-je? elle est la maîtresse du roi
+François Ier !</p>
+<p><pb/></p>
+<p>474 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 475</p>
+<p><pb/></p>
+<p>176 LITTÉRATURE DRAMATIQUE.</p>
+<p>La scène dure ainsi très-longtemps ; il m'a semblé qu'elle durait un
+siècle; quand Ango croit avoir assez assouvi sa frénésie, il appelle la
+suite du roi ; les courtisans arrivent : Ramassez votre roi, leur
+dit-il, il a tout perdu, même l'honneur! Disant ces mots, Ango se fait
+jour avec son épée, et il se jette dans la mer.</p>
+<p>Au reste, ce triste dénouement n'a point excité les trépignements
+d'enthousiasme qu'on aurait pu en espérer. Cette horrible scène a été
+accueillie par un silence glacial. Personne n'a osé</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 177</p>
+<p><pb/></p>
+<p>478 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 179</p>
+<p>le mal, laissez-les faire et laissez-les rêver cette imitation,</p>
+<p>Il n'est point de serpent ni de monstre odieux Qui par l'art imité ne
+puisse plaire aux yeux...</p>
+<p>l'échafaud de grandes victimes et tant de scélérats fameux</p>
+<p><pb/></p>
+<p>480 LITTERATURE DRAMATIQUE.</p>
+<p>Monstrum borrendum, informe, ingens, cui lumen ademptum...</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 181</p>
+<p>fin, Jupiter, dieu des rois! et toi Bacchus, le Thébain, chef des
+Ménades, paré d'une mitre d'or! »</p>
+<p>Le bourgeois .. c'est pis que si l'on disait le cosaque! Il I. 11</p>
+<p><pb/></p>
+<p>182 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 483</p>
+<p>1. In fortune marâtre de plusieurs princes et seigneurs de toutes
+nations depuis environ deux siècles, par le sieur J.-B. de Rocoles,
+historiographe de France et de Brandebourg. Leyde, 1684.</p>
+<p><pb/></p>
+<p>484 LITTÉRATURE DRAMATIQUE.</p>
+<p>instant toutes les autres; on ferait un livre cent fois plus utile
+intitulé : la Marâtre des écrivains, où l'on verrait, pour parler comme
+l'historiographe de France et de Brandebourg : « Les attributs de la
+Fortune, son inconstance, sa brutalité et « son peu de discernement
+entre la pourpre et la bure, les « chaumes et le palais, afin que chacun
+se souvienne être « monté sur un échafaud dont les pilotis sont
+ébranlés, que cette « même roue qui les élève les entraîne , et que leur
+condition est « semblable aux vicissitudes des flots de la mer ! »</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 185</p>
+<p><pb/></p>
+<p>486 LITTÉRATURE DRAMATIQUE.</p>
+<p>De ce voyage en Normandie et du retentissement de la machine de Fieschi,
+de Morey et de Pépin, je retrouve un chapitre intitulé : le Château d'Eu.</p>
+<p>LE CHATEAU D'EU.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 187</p>
+<p>en 1130. Là, vous reconnaîtrez facilement l'architecture du XIIe et du
+XIIIe siècles. L'église est petite, étroite, élégante au dehors. On a
+fait pour les caveaux de l'intérieur ce qu'on a fait pour les caveaux de
+Saint-Denis ; les ossements des morts qui reposaient dans cette enceinte
+, attendant la résurrection éternelle , ont été dispersés par l'orage
+révolutionnaire, mais au moins les noms des morts ont été rétablis sur
+des tombes toutes nouvelles ; ce n'est pas la seule génération de
+princes et de guerriers qui ait été enterrée deux fois.</p>
+<p>Dans cette église, comme vous pouvez le lire sur la pierre , reposent
+les corps de Monsieur Jehan d'Artois, comte d'Eu, et de Madame Jeane de
+Valois, sa fâme , fille de Monsieur Charles de Valois, fils du Roi de
+France et père du Roi Philippe et de Madame Katerine, qui fut empereur
+de Constantinople. — Priez pour eux!— 1339.</p>
+<p>Cy-gist aussi très-noble et puissante dame , Madame Isabelle de Melun,
+jadis fâme de très haut et très puissant seigneur Monsieur Pierre, comte
+de Dreux, et depuis fâme de Monsieur Jehan d'Artois. — 1389. — Priez
+pour elle!</p>
+<p>Cy-gist encore, Monsieur Philippe d'Artois, comte d'Eu , connétable de
+France, lequel trépassa en la ville de Micalitz, en Turquie, le 16e jour
+de juing, l'an de grâce 1397. Priez Dieu pour l'âme de lui. Amen.</p>
+<p>Mais aujourd'hui, que nous importent les tombeaux? Quel est le tombeau
+qui renferme les os du héros dont il porte le nom ?</p>
+<p><pb/></p>
+<p>488 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 189</p>
+<p><pb/></p>
+<p>190 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 191</p>
+<p>blissements industriels; 1130 et 1830 sont ainsi en présence, aux deux
+extrémités du château ; le château s'élève fièrement au milieu de ces
+neuf siècles, renfermant ainsi dans sa vaste enceinte tous les temps,
+tous les âges, toutes les croyances, tous les personnages divers de tant
+de familles qui ont planté au sommet de ces tours, si souvent détruites
+et si souvent rebâties, leur bannière, leur écusson, leur cri de guerre
+et leur drapeau.</p>
+<p><pb/></p>
+<p>192 LITTÉRATURE DRAMATIQUE.</p>
+<p>et ces saints prélats, et ces joyeux pages, et ces belles damoiselles ,
+coeurs d'acier et coeurs féminins. Quel étrange pêle-mêle , grand Dieu !
+et que ce doit être, en ce lieu, une singulière nuit de Noël, quand tous
+ces morts s'animent de nouveau !</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 493</p>
+<p>frère, Philippe, le compagnon de Boucicaut et do Jean de Bourbon. C'est
+ce même comte d'Eu qui est mort en Palestine, « dont « ses compagnons
+duement furent dolens et moult le plaignirent, « de grande vaillance et
+de bonté estoit. Si ensevelirent le corps « le plus honorablement qu'ils
+purent, et après fut porté en « France. »</p>
+<p><pb/></p>
+<p>494 LITTÉRATURE DRAMATIQUE.</p>
+<p>Vient alors Henri IV, dont le blanc panache a recouvert do sa gloire
+toutes ces traces de sang. Henri IV fit au château de la ville d'Eu le
+plus grand honneur qu'il pût lui faire; il lui fit l'honneur de
+l'assiéger. Il partit du château pour aller se battre dans cette
+étroite, charmante et glorieuse vallée d'Arques, où le brave Crillon
+n'était pas.</p>
+<p>Que vous dirai-je ? Comment vous raconter, l'un après l'autre, les neuf
+siècles de combats et de gloire, d'ambition et de vengeance, d'amour et
+d'esprit, qui sont représentés sur ces murailles? Tous</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 195</p>
+<p><pb/></p>
+<p>496 LITTÉRATURE DRAMATIQUE.</p>
+<p>dans ce qu'elle avait de grandeur, de génie et de majesté.</p>
+<p>A cette nouvelle horrible, aussitôt toute la maison rentra dans le
+silence. Plus de fêtes, plus de jeux , plus rien que de mornes visages.
+Avant de quitter ces beaux jardins, j'attendis que les deux enfants
+fussent rentrés dans leur appartement, en passant par le salon des Guise
+, étonnés eux-mêmes de cette nouvelle. Pauvres enfants, quelle épouvante
+et quelle douleur! Trois ou quatre balles de plus dans la machine de
+Fieschi, et ils restaient les seuls propriétaires du château d'Eu ! »</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 197</p>
+<p>le roc vif d'une fortune éternelle après avoir reçu dans ses</p>
+<p><pb/></p>
+<p>198 LITTERATURE DRAMATIQUE.</p>
+<p>LES DEUX SERRURIERS.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 4 99</p>
+<p><pb/></p>
+<p>200 LITTERATURE DRAMATIQUE,</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 201</p>
+<p>A ces causes M. Murray fait appeler le constable. Le constable arrive,
+et Georges est dénoncé comme le voleur d'une somme considérable. En
+effet, qui donc aurait volé le banquier, sinon Georges? Il est un
+très-habile mécanicien , il a pu voir de ses yeux les entrailles du
+coffre-fort dont il avait fait une seconde clef. Que de présomptions!
+Aussitôt Georges est entraîné loin de celle qu'il aime, on le jette en
+prison, on lui fait son procès ; Burle, le serrurier voleur, accuse tout
+haut de vol le serrurier honnête homme. Pour le coup, Georges l'innocent
+est pendu ou peu s'en faut. — Encore on ne sait pas ce qui serait arrivé
+sans l'intervention de Mlle Jenny.</p>
+<p><pb/></p>
+<p>202 LITTERATURE DRAMATIQUE.</p>
+<p>Burle, en sa qualité de serrurier-voleur, ouvre une porte de
+communication entre son cachot et celui de Georges. La porte ouverte,
+Burle tuera Georges d'un coup de couteau, puis, sur le cadavre du
+malheureux jeune homme, il écrira avec un crayon de plomb coupé aux
+vitraux de la prison: « Je me tue de mes mains pour n'être pas pendu.
+C'est moi, Burle , qui ai tué et volé M. Murray. Signé Burle. »
+Comprenez-vous la ruse, maintenant? — Pas encore? Que votre intelligence
+est peu exercée ! Mais, encore une fois, suivez donc ce raisonnement de
+Burle :</p>
+<p>J'entre dans ce cachot, je tue Georges, je mets dans sa poche ce papier
+signé de moi ; donc, Georges mort prend mon nom , et moi vivant je
+prends le nom de Georges. Par ce moyen, je fais</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 203</p>
+<p>déclarer Georges innocent, et sous son nom je deviens l'héritier de
+Murray en vertu de ce testament. C'est là, j'espère, un véritable
+raisonnement en Barbara.</p>
+<p>Quand Burle est tué, Georges le replace très-proprement dans son cachot
+avec l'autographe en question sur la poitrine. La porte de communication
+est refermée avec soin ; ceci fait, Georges attend la justice de pied
+forme.</p>
+<p>Heureusement que la ruse de Burle a tourné contre lui-même. Le geôlier,
+qui vient pour lui ouvrir les portes de la prison, ne trouve plus qu'un
+cadavre. — En même temps, on lit tout haut la lettre écrite par Burle
+dans une toute autre intention. Plus de doute, l'innocent c'est le
+coupable, le coupable c'est l'innocent; il faut être juste pour la
+justice, elle n'a pas trop l'air de s'inquiéter du quiproquo. »</p>
+<p><pb/></p>
+<p>204 LITTÉRATURE DRAMATIQUE.</p>
+<p>« Des enfants, dit l'apologue en question, se disputaient dans la rue
+pour un sac de noix. Passe un bon derviche qui veut arrêter la dispute:
+— Mes enfants, leur dit-il, voulez-vous que je par-</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 208</p>
+<p>tage ces noix entre vous, tout comme le ferait le bon Dieu luimême? —
+Nous le voulons ! nous le voulons ! répètent les enfants. Alors le bon
+derviche, prenant le sac de noix, donne tout aux uns, et rien aux autres
+; et ceci fait, il poursuit tranquillement son chemin. »</p>
+<p>MARIE-JOSEPH CHÉNIER.</p>
+<p><pb/></p>
+<p>206 LITTÉRATURE DRAMATIQUE.</p>
+<p>Cependant, Norfolk est très inquiet de cette bonté du roi Henri ; mais
+Henri le rassure par ces deux vers:</p>
+<p>Je suis sùr de mon coeur ;</p>
+<p>Pour devenir heureux il faut que je l'opprime.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 207</p>
+<p>A la vertu, Madame, accorder un refuge,</p>
+<p>C'est le plus bel emploi d'un monarque et d'un juge.</p>
+<p><pb/></p>
+<p>208 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 209</p>
+<p><pb/></p>
+<p>210 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 211</p>
+<p>TIBÈRE,</p>
+<p>TRAGÉDIE EN CINQ ACTES, PAR MARIE-JOSEPH CHÉNIER.</p>
+<p><pb/></p>
+<p>212 LITTÉRATURE DRAMATIQUE.</p>
+<p>nous avons voulu remonter, faute de mieux, jusqu'au 1793 de l'empire
+romain ?</p>
+<p>Mais, dites-vous, Néron, le Néron de Racine? — Le Néron de Racine !
+jamais le chaste poëte n'aurait osé arrêter son regard</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 213</p>
+<p><pb/></p>
+<p>214 LITTÉRATURE DRAMATIQUE.</p>
+<p>Au contraire, dans cette insipide tragédie de Tibère point de</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 215</p>
+<p>Mais non, l'auteur de Tibère tue Germanicus au lever du rideau... Racine
+fait durer pendant quatre actes Britannicus, et il nous le montre si
+jeune, si amoureux, si brave !— La tragédie de Chénier est violente,
+elle est brutale ; on ne comprend pas, maintenant que Germanicus est
+mort, toutes les inquiétudes de Tibère.</p>
+<p>Mais, dites-vous, Agrippine est aux portes du Sénat qui demande
+vengeance, et c'est une raison pour que Tibère s'agite et s'inquiète. A
+quoi il est facile de répondre : Pour vous servir du Sénat comme d'un
+moyen de terreur, oubliez-vous donc quel est ce vil Sénat dont vous
+parlez, et dans quel abîme d'abjection il était tombé? Tibère, lui-même,
+avait honte de cette abjection dans la servitude ! Patientiae taedebat !
+et pas un instant le tyran ne s'est inquiété de ces vils patriciens dont
+il a fait le jouet de ses ironies et de ses vengeances. Le Sénat,
+dites-vous? mais ce Sénat tremble et se prosterne; mais jamais il n'est
+plus épouvanté qu'aux jours où Tibère s'humilie devant lui ; indigne
+ramassis de grands noms sans courage, de parvenus déshonorés, de
+délateurs sans honte, vieillards perdus do débauches, jeunes gens perdus
+de dettes; fantômes !</p>
+<p>Le second acte de cette infime tragédie est aussi peu rempli que</p>
+<p><pb/></p>
+<p>246 LITTERATURE DRAMATIQUE.</p>
+<p>étaient venues, ô Lucrèce et Cornélie, les filles austères de la Rome
+d'autrefois !</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 217</p>
+<p>« Reste dans tout ce troisième acte une scène: Pison qui s'est trouvé
+mal défendu par Tibère, menace l'empereur de le dénoncer en plein Sénat
+comme son complice !</p>
+<p>— Téméraire, vous les avez gardés ?</p>
+<p>À quoi Pison répond :</p>
+<p>— Je connaissais Tibère!</p>
+<p><pb/></p>
+<p>218 LITTERATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 249</p>
+<p>Tibère commanda l'horrible sacrifice!</p>
+<p><pb/></p>
+<p>220 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 221</p>
+<p>CASIMIR DELAVIGNE.</p>
+<p><pb/></p>
+<p>222 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 223</p>
+<p><pb/></p>
+<p>224 LITTERATURE DRAMATIQUE.</p>
+<p>1. OEuvres du sieur Théophile, etc., augmentées de la lettre contre
+Balzac, Lyon, Jean Huguetan, 4638.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 225</p>
+<p><pb/></p>
+<p>226 LITTÉRATURE DRAMATIQUE.</p>
+<p>1. Voltaire, Épît. sur la calomnie.</p>
+<p>2. a tomes in-18.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 227</p>
+<p><pb/></p>
+<p>CHAPITRE IV.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 229</p>
+<p>LA MARSEILLAISE.</p>
+<p>La Marseillaise ! Elle a été la haine de ma vie et le plus profond sujet
+de mon désespoir. Non-seulement elle troublait la rue, elle la
+remplissait d'épouvante et de bruit, et l'Apollon insulté s'en allait à
+tire-d'aile, chercher un endroit silencieux</p>
+<p>Où d'être homme d'honneur il ail la liberté!</p>
+<p><pb/></p>
+<p>230 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE, 231</p>
+<p><pb/></p>
+<p>232 LITTÉRATURE DRAMATIQUE.</p>
+<p>vous soyez qui viviez par l'étude, par la pensée et par les beauxarts,
+résignez-vous.</p>
+<p>« Si donc on peut juger des grandes choses par les petites, des produits
+sérieux de la pensée par ses produits frivoles, d'une page de M. de
+Chateaubriand, par exemple, par une comédie de M. Mé-</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 233</p>
+<p>lesville, nous dirons que toute cette tempête des esprits est funeste,
+cruelle, insupportable. Mieux vaudrait, cent fois, un grand événement
+bien compliqué, mais dont on serait sûr, que ces abominables et
+furibondes déclamations, fumée sans feu, bruits inertes, mensonges
+funestes. Non, rien n'est sincère dans les turbulences de ces esprits
+venus de l'abîme ; ils s'agitent et nul ne les mène ; ils crient, ils
+hurlent, ils tuent, sans savoir pourquoi ces cris, pourquoi ces
+hurlements et ces tueries ! Interrogez l'une après l'autre, ou toutes
+ensemble les sincères intelligences de ce pays, elles vous diront que
+cet état de fracas et d'orage est la ruine et la mort de l'intelligence
+; elles vous diront que mieux vaudrait la guerre au dehors que tous ces
+tumultes au dedans, et qu'enfin il ne faut pas compter sur leur
+concours, s'il ne s'agit que de lire de nouveaux pamphlets le matin, et
+d'apprendre, en détail, de nouveaux assassinats le soir.</p>
+<p><pb/></p>
+<p>234 LITTÉRATURE DRAMATIQUE.</p>
+<p>— langue oubliée d'une colère usée par le temps et par la gloire ;</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 235</p>
+<p><pb/></p>
+<p>236 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTERATURE. DRAMATIQUE. 237</p>
+<p>J'ai du bon tabac Dans ma tabatière, J'ai du bon tabac, Tu n'en auras pas.</p>
+<p>« Ah ! vous aimez mieux cela, nions Vernet, en vérité vous n'êtes</p>
+<p><pb/></p>
+<p>238 LITTÉRATURE DRAMATIQUE.</p>
+<p>J'en ai du frais et du râpé, etc.</p>
+<p>J'ai du bon tabac dans ma tabatière. J'ai du bon tabac, tu n'en auras
+pas. »</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 239</p>
+<p>CAMILLE DESMOULINS. — LE MARQUIS DE FAVRAS.</p>
+<p><pb/></p>
+<p>240 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 241</p>
+<p><pb/></p>
+<p>242 LITTÉRATURE DRAMATIQUE.</p>
+<p>LE COLLIER DE LA REINE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 243</p>
+<p>Tels sont les faits. La reine n'a pas paru une seule fois dans cette
+infernale histoire; il était donc inutile de la compromettre dans ce
+drame, de la faire agir et parler au milieu de tous ces escrocs des deux
+sexes: le drame, ainsi débarrassé de cet au-</p>
+<p><pb/></p>
+<p>244 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 245</p>
+<p><pb/></p>
+<p>246 LITTÉRATURE DRAMATIQUE.</p>
+<p>Car dans celte malheureuse affaire, le cardinal de Rohan fut acquitté
+par le parlement, qui croyait faire acte de liberté ; madame de Valois
+fut fouettée par la main du bourreau, nouvelle et gratuite insulte faite
+au sang royal de France ; et la reine, livrée désormais aux plus lâches
+calomnies, aux vils pamphlets de madame Lamotte, venus de Londres,
+perdit de ce jour le bonheur et le repos. »</p>
+<p>CATHERINE II.</p>
+<p>« A quoi pensez-vous que l'art dramatique se soit occupé depuis trois
+mois? Le théâtre a rencontré deux biographies nouvelles, et il les
+exploite. Mirabeau d'abord. Nos auteurs ont jeté Mirabeau dans tous les
+moules ; ils l'ont mis en mélodrame et en vaudeville ; nous avons vu à
+l'Ambigu-Comique les Deux Mirabeau dans une auberge, déclamant contre le
+juste-milieu. Encore un grand nom qu'ils ont flétri ! Encore une belle
+vie gaspillée sur les planches ! Soyez donc un grand homme ;
+appelez-vous Bonaparte ou Mirabeau ! Vous serez traité comme une
+marchandise. En vérité, il y a cinq ou six ans, quand on jouait Mandrin
+et Car-</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 257</p>
+<p>touche, je me souviens qu'on y mettait beaucoup plus de soin et de bon
+sens. Quelle pitié !</p>
+<p>Horrible mensonge, et pêle-mêle dont l'auteur dramatique s'em-</p>
+<p><pb/></p>
+<p>248 LITTÉRATURE DRAMATIQUE.</p>
+<p>barrasse, moins que personne! Je vous demande si ce n'est pas encore là
+un grand progrès ? Il ne nous manquait plus que de tomber dans le vice,
+comme nous sommes tombés dans le crime et-dans la révolution?</p>
+<p>Si bien que je ne sais rien de monotone et de monstrueux comme cette
+existence impériale où tout se mêle et se confond : la poésie et la
+violence, les plaisirs et les meurtres, la gloire et la</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 219</p>
+<p><pb/></p>
+<p>250 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 254</p>
+<p>Cela est triste. Tous ces drames sans intelligence et sans respect pour
+personne sont un spectacle affligeant. Vraiment l'art a perdu beaucoup à
+ce nouveau système dramatique sans amour et sans colère, comme
+l'histoire, qui raconte tranquillement ce qu'il a appris, s'inquiétant
+peu de réprimande ou d'éloge. Depuis que l'auteur dramatique s'est
+dépouillé de ces passions qui faisaient le drame, le drame n'est plus.
+C'est une grande perte que nous avons faite là. »</p>
+<p>MIRABEAU.</p>
+<p><pb/></p>
+<p>252 LITTÉRATURE DRAMATIQUE.</p>
+<p>Ce pauvre M. Boucher m'a fait peine ; et certainement il doit être bien
+embarrassé de madame de Monnier dans sa chambre. Il paraît que M. Lenoir
+est terrible sur l'article! Heureusement un guichetier, Jacques
+Bonhomme, un serviteur de Mirabeau, qui se</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 253</p>
+<p><pb/></p>
+<p>251 LITTÉRATURE DRAMATIQUE.</p>
+<p>homme qui verse d'insipides larmes? j'attendais un amoureux de vingt ans!</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 255</p>
+<p><pb/></p>
+<p>256 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 257</p>
+<p>Savez-vous, au troisième acte, qu'il y a une scène où Mirabeau s'écrie :
+De l'or, beaucoup d'or, il. me faut de l'or !</p>
+<p><pb/></p>
+<p>258 LITTÉRATURE DRAMATIQUE.</p>
+<p>La Guimard et la Reine! Cette conférence politique et ce souper de fille
+! Ce Mirabeau qui se rend au Roi, et qui va se conso-</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 389</p>
+<p><pb/></p>
+<p>260 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 261</p>
+<p>LA JEUNESSE DE RICHELIEU.</p>
+<p><pb/></p>
+<p>262 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 263</p>
+<p><pb/></p>
+<p>264 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 265</p>
+<p><pb/></p>
+<p>266 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 267</p>
+<p>ques conseillers du timide cardinal de Fleury, et le vieux cardinal fit
+bien voir qu'il était noblement conseillé, dans les affaires du roi
+Stanislas.</p>
+<p><pb/></p>
+<p>268 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 269</p>
+<p><pb/></p>
+<p>270 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>CHAPITRE V</p>
+<p><pb/></p>
+<p>272 LITTÉRATURE DRAMATIQUE.</p>
+<p>Religieuse de Diderot, pour les Confessions du comte de ***, disons
+tout, le Faublas, cette oeuvre ridicule du ridicule Louvet et de sa
+ridicule Lodoïska, il a tenu attentifs et charmés les mêmes lecteurs que
+M. de Laclos avait épouvantés de ce récit funèbre intitulé : les
+Liaisons dangereuses 1.</p>
+<p>LES LIAISONS DANGEREUSES.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 273</p>
+<p><pb/></p>
+<p>274 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 375</p>
+<p><pb/></p>
+<p>276 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 277</p>
+<p>Enfin, enfin, il n'y a pas jusqu'au duel, cette dernière loi des
+sociétés qui n'en ont plus, que l'auteur de Faublas n'ait trouvé le
+moyen de tourner en ridicule. Il a fait battre en duel son marquis
+contre sa duchesse; le duel même tombe en quenouille dans ce roman
+absurde. Étrange et dernière conquête de la femme sur l'homme, que
+n'avait pas rêvée même madame de Pompadour.</p>
+<p>Ce fut donc une grande preuve de bon sens, un grand témoiI. 46</p>
+<p><pb/></p>
+<p>278 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 279</p>
+<p>LES DEMOISELLES DE SAINT-DENIS.</p>
+<p><pb/></p>
+<p>280 LITTÉRATURE DRAMATIQUE.</p>
+<p>de l'archevêque de. Paris. Que. voulez-vous? la Muse ne respecte plus
+rien aujourd'hui, ni la vieillesse, ni l'enfance, ni le nom des aïeux ;
+infâme complaisante de votre oisiveté ennuyée, elle va vous conduire, si
+vous voulez, dans le dortoir de vos jeunes enfants. Nous avons vu cela
+au théâtre des Variétés.</p>
+<p>L'influence du bel esprit de province est terrible dans les arts; aussi
+terrible que celle du saint-simonisme en politique, deux grands fléaux.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 281</p>
+<p>Le spectacle dont je vous parle a duré dix minutes. Après ces dix
+minutes, si longues, quand le complot est bien arrêté, une des
+sentinelles donne le signal, et le bataillon séculaire va cacher sa
+nudité, ses bras, ses jambes, son visage et ses mains derrière le rideau
+rouge, au moment même où le provincial essuyait ses lunettes pour la
+dixième fois.</p>
+<p><pb/></p>
+<p>282 LITTÉRATURE DRAMATIQUE.</p>
+<p>être enfin quelqu'un dans celle bonne république des lettres. — Si vis
+esse aliquis ! a dit le poëte latin.</p>
+<p>TABLEAUX.</p>
+<p>Le forçat se disait, la dévorant du regard et du coeur : — Si je lui dis
+que je suis un forçat évadé, elle ne voudra pas de moi qui l'aime tant!</p>
+<p>Ils restèrent ainsi irrésolus longtemps, elle et lui, longtemps en
+suspens, les lèvres ouvertes pour se tout dire , et leurs lèvres ne
+restaient pas ouvertes, et cependant ils ne se disaient rien.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 283</p>
+<p>Heureux temps des illusions et. de l'amour qui espère et qui a peur!</p>
+<p>A la fin, leurs deux âmes s'entendirent, leurs deux coeurs se
+comprirent, deux âmes bien faites pour s'entendre, deux coeurs bien
+faits pour se comprendre aussi.</p>
+<p>Ils voulurent se marier. Point de noeuds illégitimes pour eux, point
+d'union fortuite, appelons comme témoins le ciel et la terre ! O
+contraste! ô nouveau triomphe de la nature sur la loi des hommes ! On
+parle d'abolir le mariage et de jeter le divorce dans la paix du ménage,
+comme on jette un caillou dans un bassin tranquille!</p>
+<p>Et voici que la prostitution veut se marier devant la loi !</p>
+<p>Ils rencontrèrent un mort; les femmes détournèrent la tête, une larme
+dans les yeux ; les hommes ôtèrent respectueusement leurs chapeaux
+devant ce pauvre corbillard , qui n'avait même pas un chien pour
+l'accompagner.</p>
+<p>La gaieté de la noce fut un instant moins bruyante ; mais, pour être
+plus calme, elle n'était pas moins touchante; il y eut dans cette foule
+d'heureux, un moment de silence qui attendrissait même les passants.</p>
+<p><pb/></p>
+<p>284 LITTÉRATURE DRAMATIQUE.</p>
+<p>heur! On voyait qu'il eût été légèrement querelleur, tant il était
+complètement heureux ; et puis c'étaient de frais rubans, de fraîches
+épaules, c'était un modeste bouquet d'oranger, c'étaient des amies, des
+frères, c'était un beau soleil. Un honnête homme, pour ses noces, ne
+demanderait pas un plus beau jour.</p>
+<p>On se disait, les voyant passer, — c'est la fille d'une boulangère, et
+c'est le fils d'un vieux soldat, chevalier de la Légiond'Honneur. On
+cherchait le père, on cherchait les deux mères; ni pères, ni mères, pas
+une mère pour eux deux ! Orphelins tous les deux, pauvres enfants !</p>
+<p>En traversant le boulevard pour se rendre au Feu éternel, ils
+rencontrèrent une petite fille maigre, étriquée, en haillons, le visage
+tout bleu de froid, — hélas trois mois avant l'hiver ! La pauvre fille
+balayait, sur le passage, avec un balai usé une boue qui n'existait pas!</p>
+<p>Les hommes lui firent l'aumône, une aumône blanche; les femmes la
+regardèrent en pitié en lui disant : Sois bien sage, petite !</p>
+<p>Ils entrèrent ainsi dans la vaste salle du Feu éternel. La table était
+dressée, nette et propre ; il y avait des verres pour trois sortes de
+vins, des fourchettes et des cuillers en argent, de l'argent même sur le
+bouchon des bouteilles, les salières étaient aussi en argent, les
+manches des couteaux en argent, puis au dessert la lame des couteaux en
+argent; il y avait des serviettes cylindrées, et sous chaque plat de
+l'eau bouillante, et des fleurs sur la table, et sur la cheminée des
+fleurs, et sous les fenêtres</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 288</p>
+<p>Cependant il y eut des hommes qui dissertèrent avec beaucoup de chaleur
+sur la liberté des théâtres. Ils prouvèrent, trèspertinemment, que la
+révolution de juillet avait tué les théâtres en confondant tous les
+genres, en infectant toutes les scènes d'ariettes d'opéras-comiques, en
+remplaçant l'unité du drame par des biographies qui n'en finissent pas.
+L'homme dont je parle était beau parleur; il avait l'accent flûté, et
+sur cet accent, comme sur une roue de tilbury, s'arrondissait une
+élégante période dans toutes ses proportions ; c'était plaisir
+d'entendre parler ce monsieur d'art et de comédie; on ferait un
+excellent cours de littérature avec ce qu'il dit ce jour-là.</p>
+<p><pb/></p>
+<p>286 LITTÉRATURE DRAMATIQUE.</p>
+<p>Ayant dit cela, la jolie prêcheuse demanda, sans retourner la tête, un
+peu de vin de Champagne au garçon qui lui en versa un demi-verre en lui
+souriant agréablement.</p>
+<p>Vint le dessert. Le dessert, heure de joie ! Alors, la liberté du festin
+prend un front moins sévère ; les beaux cheveux flottent avec plus
+d'abandon, la ceinture est plus relâchée ; c'est l'heure des propos
+animés et des chansons joyeuses ; c'est l'heure du succès pour les
+convives de province, pour les belles voix de la banlieue et les
+faiseurs de couplets de tous les temps.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 287</p>
+<p>vous comprenez que les couplets ne manquèrent pas au dessert.</p>
+<p>Chose étrange! ce vol dont on parle en tous lieux, ces médailles de la
+Bibliothèque tant regrettées, tant pleurées, cet inappréciable trésor
+qui n'est plus qu'un vil lingot d'or, ce beau travail nocturne, si
+noblement apprécié par l'agent de police lui-même, ce malheur européen
+si récent, si inouï, personne, personne n'en parla dans cette joyeuse et
+décente société!</p>
+<p>Tout le repas se passa avec la mémo décence. On apporta des verres bleus
+et de l'eau chaude ; chacun se lava la bouche aussi bruyamment que
+possible, en mettant sa main devant sa bouche ; on ne fait pas mieux que
+cela chez les plus grands seigneurs.</p>
+<p>Celte noce méritait de mieux finir. Il était onze heures du soir. La
+police, qui cherchait son condamné et sa contumace, frappa brusquement à
+la porte , comme on se levait de table. A ce bruit terrible, le marié
+n'eut que le temps de payer la carte et de donner leur pour-boire aux
+garçons; puis toute la noce délogea par le jardin, tous tremblants, tous
+émus, tous le chagrin dans l'âme et dans le coeur. Le marié chercha sa
+jeune femme dans la nuit; on s'appela dans l'ombre, on se cherchait à
+tâtons dans cette bagarre et sauve qui peut !</p>
+<p>Allons ! la police est sur nos pistes ! — Plus d'humanité, plus de
+civilisation, plus de linge blanc pour nous! plus rien pour nous! plus
+d'époux pour l'épouse, et plus d'épouse pour l'époux c'en est fait !
+c'en est fait, ils redeviennent tous forçats, toute filles de. joie sur
+la borne. Allons ! allons ! hourra ! hourra !</p>
+<p><pb/></p>
+<p>288 LITTÉRATURE DRAMATIQUE.</p>
+<p>MARCUS CRASSUS.</p>
+<p>Tel était mon mélodrame; il remplissait, comme on voit, toutes les
+conditions du genre et le succès du mélodrame entraînait nécessairement
+l'éclosion de la tragédie. Ma tragédie était prise, on le comprend, dans
+un autre ordre d'hommes, de faits et d'idées; le héros de ma tragédie
+était, tout simplement, Marcus Crassus.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE, 289</p>
+<p><pb/></p>
+<p>290 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 291</p>
+<p><pb/></p>
+<p>292 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 293</p>
+<p><pb/></p>
+<p>294 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 295</p>
+<p><pb/></p>
+<p>296 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 297</p>
+<p><pb/></p>
+<p>298 LITTÉRATURE DRAMATIQUE.</p>
+<p>La princesse des Arsacides, la nouvelle épousée, s'était chargée du rôle
+d'Agavé, la propre mère de Penthée.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 299</p>
+<p>« Agavé au choeur des bacchantes : Voyez ma proie! regardez la tête de
+mon lion ! comme sa crinière flottante lui donne un air sauvage.! — Le
+choeur. Quels transports! — Agavé. Oui,</p>
+<p><pb/></p>
+<p>300 LITTÉRATURE DRAMATIQUE.</p>
+<p>ces transports sont éclatants comme ma victoire ! » Puis elle ajoute en
+élevant au-dessus de sa tète cet épouvantable trophée : « Vous tous qui
+habitez l'enceinte de ces glorieux remparts, « accourez, venez
+contempler l'animal féroce que les filles de « Cadmus ont saisi sans
+filets et sans javelots, de leurs mains dé« licates! Vantez-nous
+maintenant votre force et votre valeur! Que « servent ces lances et ces
+javelots travaillés avec art? Ma main « a suffi pour vaincre ce lion et
+pour le mettre en pièces. Où est « mon père? où est mon fils? Qu'ils se
+hâtent d'escalader ces « murs et d'arracher aux triglyphes du palais la
+dépouille du lion « que je viens de terrasser. »</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 301</p>
+<p>IL Y A SEIZE ANS!</p>
+<p><pb/></p>
+<p>302 LITTÉRATURE DRAMATIQUE.</p>
+<p>Ce qui prouve pour la millième fois la maxime de Brid'oison : On est
+toujours le fils de quelqu'un.</p>
+<p>HAN D'ISLANDE.</p>
+<p>On a fait rugir le lion, aboyer le chien , roucouler la colombe. L'autre
+jour j'ai lu dans un livre le, cri du chameau, bdlgrlgdlg, oui,
+bdlgrlgdlg! mais le cri de Han d'Islande ! il n'y a pas dans l'alphabet
+assez de consonnes pour l'imiter.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 303</p>
+<p>Après la Morgue, nous voyons une danse ; après la danse, nous allons
+dans la maison du bourreau : nous voyons la femme du bourreau et le
+bourreau en habit rouge ; nous voyons une potence veuve d'un pendu; puis
+l'orage commence. Au milieu de l'orage entre un ours blanc ; après
+l'ours blanc entre Han d'Islande. Han d'Islande empoigne un homme qui
+lui déplaît, il le traîne sur un rocher, et du haut de ce rocher il le
+jette dans un précipice. Vous le voyez ensuite qui détache des fragments
+du roc et qui les jette avec autant de facilité qu'un enfant qui fait un
+ricochet dans l'eau.</p>
+<p>Quand il est en prison, Han fait venir le bourreau. Le bourreau</p>
+<p><pb/></p>
+<p>304 LITTÉRATURE DRAMATIQUE.</p>
+<p>LA MORT DE PAUL Ier.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 305</p>
+<p>Margouillis est le mot. Le théâtre est dans le margouillis, les affaires
+publiques sont dans le margouillis, disait-on l'autre soir, sur le
+Théâtre des Nouveautés.</p>
+<p>JENNY DURAND.</p>
+<p>Restée seule, Jenny pleure sur Alfred qui épouse une autre que Jenny.
+Mais voyez l'erreur de Jenny! Pendant qu'elle pleure sur</p>
+<p><pb/></p>
+<p>306 LITTÉRATURE DRAMATIQUE.</p>
+<p>«J'aime beaucoup les enfants quand ils crient, disait quelqu'un ; on les
+emporte. »</p>
+<p>Pour ma part, j'aime beaucoup les mélodrames chantés ; on les siffle.</p>
+<p>VICTORINE, OU LA NUIT PORTE CONSEIL.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 307</p>
+<p>chasse, on les hait. Sauvez-vous de cette mansarde, exemples de l'enfer !</p>
+<p>Ça valait mieux que la Vie d'une femme , et c'était le même drame pourtant.</p>
+<p>LES 6 DEGRÉS DU CRIME.</p>
+<p>De plus en plus fort, comme chez feu Nicollet : voici maintenant les G
+Degrés du crime avec le chiffre 6 sur l'affiche! une affiche rouge,
+inventée avant l'an de grâce 1848.</p>
+<p>Ainsi que la vertu le crime a ses degrés.</p>
+<p>Et pour démontrer la vérité de l'axiome, les auteurs ont inventé une
+double échelle, qui n'est pas la courte échelle, ainsi que vous l'allez
+voir.</p>
+<p>Le premier degré du crime, c'est le punch, ce sont les propos libertins,
+la vie joyeuse, l'enlèvement d'une fille et autres peccadilles en la
+majeur.</p>
+<p>Le premier degré de la vertu, c'est l'amour naïf, le travail et la ferme
+volonté de se marier.</p>
+<p>Second degré de la vertu. — Un habit gris , de l'indignation dans le
+coeur, et recevoir un grand coup de pied au milieu d'un bal; Gabriel, à
+ce prix-là, s'élève au deuxième degré de la vertu.</p>
+<p><pb/></p>
+<p>308 LITTÉRATURE DRAMATIQUE.</p>
+<p>M. Jules, ruiné, s'emporte et crie. La police arrive dans cette maison
+suspecte: au bruit de la police, le croupier prend un violon, son rateau
+se change en archet, on danse, la rousse s'en va, satisfaite.</p>
+<p>Troisième degré de la vertu. L'honnête Gabriel ne paraît pas du tout
+dans cet acte ; d'où il faut conclure que la vertu n'a pas de troisième
+degré.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 309</p>
+<p><pb/></p>
+<p>310 LITTERATURE DRAMATIQUE.</p>
+<p>A ce mot innocence, le parterre éclate de rire. A la bonne heure, ris,
+mon brave parterre... où diable l'innocence va-t-elle se nicher?</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 811</p>
+<p>Sixième degré de la vertu. En revanche, parlez-moi du sixième degré!
+Arrivé au sommet de l'échelle, Gabriel a la croix d'honneur, il est
+riche il épouse la fille d'un notaire, et d'un notaire retiré encore;
+touchante délicatesse des auteurs qui ont voulu ne nous laisser aucune
+inquiétude sur le sort de ce cher Gabriel!</p>
+<p>D'où il suit, pour dernière conséquence, que l'échafaud est le dernier
+degré du crime, et que le dernier de la vertu c'est d'épouser la fille
+d'un notaire en retraite et d'être chevalier de la Légion d'Honneur.</p>
+<p><pb/></p>
+<p>312 LITTÉRATURE DRAMATIQUE.</p>
+<p>prostitution, le jeu, la police, les délateurs, le bourreau, la
+guillotine ; dans le parterre, des hommes et des femmes qui mangent et
+qui admirent! Confusion, messieurs, confusion.</p>
+<p>— Elle serait fort bonne, me répondit-il, sans les fautes inexcusables
+du dernier acte.</p>
+<p>Puis, voyant que je l'écoutais attentivement, il poursuivit:</p>
+<p>— Avez-vous remarqué, me dit-il, la toilette du condamné?</p>
+<p>— Je l'ai remarquée, lui répondis-je, rien n'y manquait; le col de la
+chemise avait été coupé aussi bien que les cheveux.</p>
+<p>— Le col de la chemise n'est pas coupé assez court d'abord. J'ai vu des
+cols de chemise coupés; le bourreau creuse le dos de la chemise jusqu'à
+la nuque. Quant aux cheveux, ils sont aussi beaucoup trop longs. Les
+cheveux se coupent aussi ras que vous voyez les miens.— Et il me
+montrait sa tête presque rasée, comme cela était la mode de nos élégants
+du Boulevard l'été passé.</p>
+<p>GEORGES. — PIERRE D'AREZZO.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 313</p>
+<p>la presse. Au compte de bien des gens, ce Pierre d'Arezzo était un
+bandit, eh! le fondateur de Rome était le fils d'une louve, et un franc
+voleur !</p>
+<p>GEORGES,</p>
+<p>MÉLODRAME EN TROIS ACTES, PAR M. LEBRAS.</p>
+<p><pb/></p>
+<p>311 LITTÉRATURE DRAMATIQUE.</p>
+<p>mations coupables. Ne faisons pas du Père Lachaise une boutique de
+libraire ; ne faisons pas de nos marbres funèbres une profane affiche de
+spectacle. Ceci posé, je veux faire l'analyse de Georges, mélodrame de
+feu Lebras.</p>
+<p>Cependant, Georges, l'homme du peuple, a découvert le véri-</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 315</p>
+<p>Arthur parti ! Georges l'ouvrier est triomphant. A présent Laura est à
+lui tout seul, Laura ne peut plus aimer que lui. Georges suppose qu'il
+faut absolument que Laura aime quelqu'un.</p>
+<p>Et vogue la gondole !</p>
+<p><pb/></p>
+<p>316 LITTÉRATURE DRAMATIQUE.</p>
+<p>thur Voyez la similitude! Le père et le fils se marient tous les deux
+par suite de séduction, pendant que les deux soeurs se laissent séduire
+par le même séducteur! Profondes combinaisons.</p>
+<p>Puis, quand l'Hermione vénitienne a bien exhalé sa douleur, Georges
+prend son poignard; il s'en va dans la coulisse, et tout d'un coup il
+revient comme le véritable Oreste en trépignant.</p>
+<p>GEORGES.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 317</p>
+<p>LAURA.</p>
+<p>Il est mort !</p>
+<p>GEORGES.</p>
+<p>Pourquoi l'assassiner ? Qu'a-t-il fait ? A quel titre ? Qui te l'a dit ?</p>
+<p>L'autre reprend :</p>
+<p>O Dieux ! Quoi ! ne m'avez-vous pas Vous-même, ici, tantôt, ordonné son
+trépas?</p>
+<p>L'autre dame expire frappée d'un coup de poignard.</p>
+<p>Alfred s'appuie sur son père qui est désolé comme lui.</p>
+<p>Georges, le héros de la fête, se livre aux gendarmes.</p>
+<p>La ville de Marseille sera bien étonnée d'avoir possédé, sans le savoir,
+une pareille cantatrice dans ses murs.</p>
+<p>Non, ce n'était pas la peine de réveiller, pour si peu, M. Lebras, ce
+demi-poëte, dans sa tombe endormi ! »</p>
+<p>PIERRE D'AREZZO,</p>
+<p>MÉLODRAME EN TROIS ACTES.</p>
+<p><pb/></p>
+<p>318 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 319</p>
+<p><pb/></p>
+<p>320 LITTERATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 321</p>
+<p><pb/></p>
+<p>322 LITTÉRATURE DRAMATIQUE.</p>
+<p>Plus j'y pensais et plus je songeais aux dangers de cette tentative , et
+je me demandais quel était le grand poëte qui avait dû s'emparer le
+premier de cet être si éminemment dramatique : — La Femme de Lettres?
+Mais quelle héroïne va-t-il choisir entre tant d'écrivains femelles, et
+de quel côté fera-t-il pencher sa</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 323</p>
+<p><pb/></p>
+<p>324 LITTÉRATURE DRAMATIQUE.</p>
+<p>Ou bien d'un vaudeville abîmé, Tabarin, le Tambour-major, je tirais un
+croquis, une image, un portrait en relief.</p>
+<p>LE TAMBOUR-MAJOR.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 325</p>
+<p>On l'enterra avec sa canne, cause première de tant de douleur. Dans
+mille ans d'ici, quand cette tombe sera ouverte, les savants diront que
+l'empereur Napoléon faisait pour ses soldats des cercueils de trente
+pieds, comme faisait Alexandre le Grand I. 19</p>
+<p><pb/></p>
+<p>326 LITTÉRATURE DRAMATIQUE.</p>
+<p>pour les siens au bout de l'Asie, afin que tout fût fabuleux dans
+l'histoire de ces demi-dieux.</p>
+<p>TABARIN.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 327</p>
+<p><pb/></p>
+<p>328 LITTÉRATURE DRAMATIQUE.</p>
+<p>« Parmi ces gaillardises, dit la préface, on trouve des préceptes «
+sérieux, d'excellentes doctrines, mais non couchés en si bons</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 329</p>
+<p>" termes que ceux de Tabarin, ni tirés si au vif qu'il peut faire « sur
+son théâtre; car, comme il est unique qui peut assembler « les parties
+d'une vraie éloquence, aussi est-il seul qui en peut « faire un
+raccourcissement et en crayonner un portrait au « vif. »</p>
+<p>JANOT.</p>
+<p><pb/></p>
+<p>330 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 331</p>
+<p>n'avaient pas de goût pour la fine plaisanterie et la plus fine encore !</p>
+<p><pb/></p>
+<p>332 LITTERATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 333</p>
+<p><pb/></p>
+<p>334 LITTÉRATURE DRAMATIQUE.</p>
+<p>Janot fut plus heureux que bien d'autres seigneurs châtelains plus
+grands seigneurs que lui ; il se tira d'affaire avec armes et bagages.
+Il perdit son château, mais il sauva sa tète. En 1805 , il était plus
+riche que bien des grands seigneurs de son temps, il avait encore une
+charrette et un cheval borgne. « En 1805 , dit « M. Dumersan , j'étais à
+Ermenonville, je vis passer une char« rette chargée de décorations et de
+bagages ; deux femmes et un « vieillard étaient assis sur les malles.
+Cet équipage, qui rappelait « l'équipage du Roman comique , était celui
+de Janot. » Pauvre Janot! Il mourut pauvre, ignoré, seul, lui, cet homme
+dont la gloire avait balancé un instant la gloire de Voltaire : il
+mourut certainement sans avoir bien compris tout ce qui s'était passé
+depuis son année de gloire, 1779 !</p>
+<p>LES PREMIÈRES ARMES DE RICHELIEU.</p>
+<p>Le revoici, M. le maréchal duc de Richelieu. En a-t on abusé de celui-là
+! L'a-t-on couvert de flatteries et d'insultes, de roses et de fange !
+S'est-on écrié que c'était le plus grand des misérables,</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 335</p>
+<p><pb/></p>
+<p>336 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 337</p>
+<p><pb/></p>
+<p>338 LITTÉRATURE DRAMATIQUE.</p>
+<p>Zoé sa fille Et l'on dit que l'aristocratie n'est plus dans nos</p>
+<p>moeurs !</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 339</p>
+<p>Ce nouveau petit Richelieu qui commet sur la scène une foule incroyable
+de choses, plus audacieuse celle-ci que celle-là, est</p>
+<p><pb/></p>
+<p>340 LITTÉRATURE DRAMATIQUE.</p>
+<p>LA CHEMINEE ET LE MARECHAL DE RICHELIEU.</p>
+<p>Voici — toujours le même héros! — une histoire très-jolie ; ils l'ont
+gâtée au Vaudeville, et moi, je la viens gâter en feuilleton. Que
+voulez-vous? Le guignon !</p>
+<p>Ce riche et fameux fermier général qui a sauvé son nom de l'oubli, pour
+s'être mêlé aux gens d'esprit, M. de la Popelinière, était le mari d'une
+femme charmante, très-laborieuse et très-retirée;</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 341</p>
+<p>Elle restait chez elle et filait de la laine :</p>
+<p><pb/></p>
+<p>342 LITTÉRATURE DRAMATIQUE.</p>
+<p>LES BAIGNETS A LA COUR.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 343</p>
+<p>Dans les bois de Marly et de Louveciennes, le roi poursuivait le cerf,
+et sa jeune main s'enfonçait déjà, sans trembler, dans les</p>
+<p><pb/></p>
+<p>344 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 346</p>
+<p>M. le duc de Mailly, vieux courtisan et vieux soldat, avait obtenu du
+roi cette audience pour lui raconter ses travaux, ses bles-</p>
+<p><pb/></p>
+<p>346 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 347</p>
+<p>ment se serait elle défendue? elle n'avait ni sa robe, ni son fichu, ni
+sa mère !</p>
+<p>LA COMTESSE DU TONNEAU.</p>
+<p><pb/></p>
+<p>348 LITTERATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 349</p>
+<p>I. 20</p>
+<p><pb/></p>
+<p>350 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 351</p>
+<p><pb/></p>
+<p>352 LITTÉRATURE DRAMATIQUE.</p>
+<p>Le peuple terrible de 93, le peuple furieux restait chaque jour éperdu
+et indigné de cet insultant courage ; il n'attendait peut-être qu'une
+plainte, une larme, pour renverser ces horribles échafauds; pas une
+plainte ne fut poussée, et pas une larme ne</p>
+<p>fut répandue en public Seule, quand le tombereau fatal la</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 353</p>
+<p><pb/></p>
+<p>354 LITTÉRATURE DRAMATIQUE.</p>
+<p>vées, ne sont, pour ainsi dire, que le prétexte de vos discours.</p>
+<p>C'est donc une habitude heureuse de se mettre en quête, et tous les
+jours, de l'idée errante dans les nues, comme dit Shakspeare ! Des
+pièces nouvelles tant qu'on veut, pourvu que vous ne parliez guère que
+des oeuvres sérieusement acceptées, sérieusement</p>
+<p>accomplies. Les autres hé bien! les autres serviront de</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 355</p>
+<p><pb/></p>
+<p>386 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 387</p>
+<p>LISZT ET LE GRAND-DUC DE TOSCANE.</p>
+<p>Homme heureux, en effet! Il aura vu de près cette belle société</p>
+<p><pb/></p>
+<p>358 LITTÉRATURE DRAMATIQUE.</p>
+<p>II se mit donc au piano et il fut ravi dans son troisième ciel. Toute
+cette cour d'honnêtes gens d'esprit écoulait cette harmonie inconnue.
+Lui, cependant, il n'était plus de ce monde. Il avait traversé, pour
+arriver en ce lieu des chefs-d'oeuvre, un jardin suspendu comme les
+terrasses de Babylone ; il avait franchi</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 359</p>
+<p>Quand liszt eut fini, le grand-duc de Toscane était debout, appuyé
+derrière le fauteuil de la grande-duchesse, et ils se regardaient l'un
+l'autre avec ce doux regard de gens qui s'aiment, qui se sentent heureux
+et qui se disent d'un coup d'oeil tout leur bonheur.</p>
+<p>— Monseigneur, répondit la grande-duchesse, Liszt est Hongrois.</p>
+<p>BALLOCHARD; CHIQUART</p>
+<p>ET LE CARNAVAL.</p>
+<p>« Il s'agit de prendre ici la défense d'un être fantastique dont le nom
+est pendant trois mois de l'hiver, la joie et l'orgueil de</p>
+<p><pb/></p>
+<p>360 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 361</p>
+<p>D'ailleurs ce n'était pas le bon temps pour donner les honneurs</p>
+<p>règne chaque année. Une fois qu'il est au bout de sa dernière</p>
+<p>bougie, une fois qu'il a vidé et brisé son dernier verre, notre</p>
+<p>I. 21</p>
+<p><pb/></p>
+<p>362 LITTÉRATURE DRAMATIQUE.</p>
+<p>Second marchand : Je vole le bois.</p>
+<p>Premier marchand : Moi, je vole les balais tout faits et j'y perds.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 363</p>
+<p>LES VAUDEVILLISTES ET LES BROUILLARDS.</p>
+<p><pb/></p>
+<p>364 LITTÉRATURE DRAMATIQUE.</p>
+<p>ne sais quel flou flon, d'une voix aigre, et qui ne ressemblait pas mal
+au cri d'un violon faux qui jure sous l'archet.</p>
+<p>Quand il me vit aussi atterré et aussi abattu qu'il le voulait, —
+Sais-tu bien qui je suis? me dit-il, enflant sa voix triomphante! Je
+suis le vaudeville, je suis la clef du caveau!— le joyeux, le malin,</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 365</p>
+<p>le spirituel vaudeville, enfant de l'esprit français, contre lequel toi
+et les tiens vous ne prévaudrez jamais! Et il riait, et il souriait, et
+il me prenait par la tête, et il se moquait de moi !</p>
+<p><pb/></p>
+<p>366 LITTÉRATURE DRAMATIQUE.</p>
+<p>— Et dans quel ordre, voulez-vous savoir tous ces noms chers au public?
+lui répondis-je en m'inclinant.</p>
+<p>— Il me semble, reprit-il, que je me suis assez catégoriquement
+expliqué. Jules César savait le nom de tous ses soldats; tu ne dois pas
+être en peine de savoir le nom de mes féaux et bienaimés capitaines.
+Commence donc, je t'écoute, et surtout prends bien garde de te tromper.</p>
+<p>— Avant de commencer, Monseigneur, je vous demanderai une faveur : c'est
+de vous réciter tous ces noms par ordre alphabétique. Placer dans un
+ordre quelconque tant de beaux esprits</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 367</p>
+<p>— Ont fait des vaudevilles cette année : MM. Alboise, Alexandre Basset,
+Adrien , Anicet, Audier, Antoine, Arnould , Auguste, Alfred, Adolphe,
+Antony, Armand, Armand Séville, Ancelot.</p>
+<p>— Vous avez raison, mon maître, répondis-je au petit homme; seulement,
+c'est un oubli, ce n'est pas une injustice de ma part.</p>
+<p>— Continue ta leçon, chanta le petit homme en ramenant son manteau sur
+ses épaules.</p>
+<p>Je poursuivis :</p>
+<p>— Ont fait des vaudevilles : MM. Barthélemy, Bayard, Bignon, Blanchard,
+Brazier, Briant, Boisset, Barrot, Brunswick, Batayard.</p>
+<p>Je repris, et toujours en allongeant ma phrase, autant que je le pouvais :</p>
+<p>— Ont fait des vaudevilles cette année : MM. Casimir Bonjour, Casimir de
+Lurieux, Carmouche , Chabot de Boin, Charles, Chavauches, Clozel fils,
+Camberousse, Courcy, Chapelle, Céran, Hippolyte et Théodore Cognard,
+Casimir.</p>
+<p>— Je te sais gré, me dit le génie, de n'avoir pas confondu les deux
+frères Hippolyte et Théodore Cognard ; tu as fait de nos auteurs une
+étude plus approfondie que je ne croyais. Cependant, je</p>
+<p><pb/></p>
+<p>368 LITTÉRATURE DRAMATIQUE.</p>
+<p>— Ont fait des vaudevilles cette année : MM. Daubigny, Décour, Dupeuty,
+Desnoyers, Desvergers, Desforges, Delaboullayes, Didier, Dumanoir,
+Dumersan, Ducange, Dupin, Duport, Duvert, Després, Dépagny, Derville,
+Dulac, Armand et Achille Dartois.</p>
+<p>— Ont fait des vaudevilles ou des opéras-comiques, ou, ce qui revient au
+même, des mélodrames, attendu la musique :</p>
+<p>MM. Eden, Escousses, Edouard Damarins, Eugène Planard, Emmanuel ;</p>
+<p>MM. Ferrières, Ferdinand, Fournier, Francis, Francis-Dalcardes, Francis,
+Fulgens, Félix ;</p>
+<p>MM. Gabriel, Guyot ;</p>
+<p>MM. Halevy, Hippolyte, Henri, Honoré, Hector Volga ;</p>
+<p>MM. Jadin, James, Julien Chaillot</p>
+<p>Je m'arrêtai tout essoufflé.</p>
+<p>— Ont fait cette année des vaudevilles, des opéras-comiques ou des
+mélodrames :</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 369</p>
+<p>MM. Lafontaine, Laffitte, Lagrange, Lausanne, Germain Delavigne,
+Laurent, Léon, Leblanc, Lepeintre jeune, Levasseur, Leroy, Leroy de
+Baeu, Lhérie, Charles de Livry, Lotin, Lemoine, Lejour, Lebas</p>
+<p>MM. Masson, Maximilien, Mélesville, Merville, Mennéchet, Molé, Morel,
+Morel-Muller.</p>
+<p>MM. Nézel, Noël.</p>
+<p>— Encore! encore! encore! encore! disait l'insatiable petit homme, encore !</p>
+<p>MM. Octave, Ourry.</p>
+<p>MM. Pain, qui a été censeur, Perrin, Pierre, Pixérécourt, Philippe,
+Ponet ....</p>
+<p>— Encore! encore! encore! disait l'autre. Je repris :</p>
+<p>MM. Ponet, Pourchet, Prosper, Paul!</p>
+<p>MM. Régnier, Roche, Romain , Rochefort, Rosier, Rondeau , Rousseau,
+Raimbeau, Romieu....</p>
+<p>— Oui, lui dis-je, c'est toute la lettre R, et la dernière de
+l'alphabet, j'espère, car je n'en puis plus, en vérité !</p>
+<p>Je ne répondis pas, je n'avais plus de souffle et j'attendais mon sort,
+quel qu'il fût.</p>
+<p>I. 21.</p>
+<p><pb/></p>
+<p>370 LITTÉRATURE DRAMATIQUE.</p>
+<p>— Ont fait des vaudevilles cette année :</p>
+<p>MM. Saint-Amand, Saint-Hilaire, Saint-Laurent, Saint-Hugues, Saintine,
+Saint-Marc!</p>
+<p>— Encore! encore! encore! disait le petit homme.</p>
+<p>— Et pour qui comptes-tu donc Sauvage, Simonet et Sewrin, qui met des
+tambourins et des bergers dans toutes ses pièces? criait le fantôme.</p>
+<p>— Hélas! lui dis-je, interrogez-moi tant que vous voudrez, je n'ai plus
+de mémoire et plus de voix.</p>
+<p>— Il n'y a pas de lettre T, lui dis-je ; je ne connais que M. Tardif et
+M. Thouret.</p>
+<p>— Ajoute M. Théodore et M. Tournemine, me criait l'insatiable nomenclateur.</p>
+<p>Puis, voyant que j'étais muet.</p>
+<p>Il se fit un moment de silence, entre le petit homme et moi, qui ne
+ressemblait pas mal au silence de la Grève quand le condamné met le pied
+sur l'échafaud.</p>
+<p>— Sais-tu combien de noms nous avons trouvés sur ma liste, toi et moi ?
+me dit-il.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 371</p>
+<p>— Si nous ne nous sommes trompés , toi et moi, me dit-il, la somme
+totale des auteurs dramatiques, qui ont travaillé cette année pour le
+théâtre, est au moins de cent soixante-huit.</p>
+<p>A ces mots prononcés d'un si grand sang-froid, je me levai saisi
+d'horreur et comme poussé par un mouvement machinal.</p>
+<p><pb/></p>
+<p>CHAPITRE VI.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 373</p>
+<p>Les plus habiles, après y avoir réfléchi, ont jeté leur langue aux
+chiens. Crédeville voleur est resté une énigme sans explication.</p>
+<p>UNE THÈSE EN SORBONNE.</p>
+<p><pb/></p>
+<p>374 LITTÉRATURE DRAMATIQUE.</p>
+<p>magister in Israel, avec un ton surnaturel de sarcasme et d'ironie.</p>
+<p>A ce mot clarissime se lève monsieur le docteur Ycard, qui fait
+remarquer que clarissime n'est pas d'usage, et que les docleurs de
+Sorbonne se contentent ordinairement du doctissime, comme feu S. A. R.
+l'archichancelier Cambacérès se contentait du Monseigneur.</p>
+<p>Sur quoi l'abbé, avec sa forte voix et ses longs bras, et se tournant
+vers l'auditoire, s'est écrié :</p>
+<p>LES SAUVAGES, LES FLEURS, LES TIGRES ET LES ÉLÉPHANTS.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 375</p>
+<p><pb/></p>
+<p>376 LITTÉRATURE DRAMATIQUE.</p>
+<p>Vous leur ferez, seigneur, En les cloquant, beaucoup d'honneur.</p>
+<p>Or, qui le croirait, la troupe affamée ouvre une gueule dédaigneuse ; à
+ces mets exquis qu'on lui propose, elle préfère une cuisse de cheval. A
+chacun son goût, messeigneurs, mais ceci est bien humiliant pour des
+hommes civilisés. »</p>
+<p>« Il a débarqué avec toute sa bande, la nuit, traîné dans une vaste
+tombereau. Qui l'eût entendu passer, ce tombereau roulant et infect, ne
+se fût guère rappelé le tombereau de Thespis tout rempli de poëtes
+buveurs célébrant les vendanges et le vin : comédiens barbouillés de
+lie, comme les nôtres sont barbouillés de sang. Ainsi, les deux bouts de
+la chaîne dramatique se terminent par un tombereau : ici des Grecs
+amoureux et chanteurs, là-bas des panthères affamées et des tigres qui
+ont soif. Nous avons le mauvais bout de la chaîne, hélas !</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 377</p>
+<p><pb/></p>
+<p>378 LITTÉRATURE DRAMATIQUE.</p>
+<p>Après le triomphe, l'homme renvoie le lion chez lui d'un grand coup de
+pied. Les femmes du Cirque crachent de pitié sur l'animal (c'est le lion
+que je veux dire). Vive l'homme! A bas le tigre ! Vive la femme ! A bas
+le lion ! L'homme triomphe enfin; c'est bien heureux, ceci nous relève
+un peu de l'abaissement où nous ont placés les drames et les romans
+nouveaux.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 379</p>
+<p>duit avec son tigre, mon chien me mordrait jusqu'au sang et il ne me le
+pardonnerait jamais!</p>
+<p>Monseigneur, disait-on au prince de Condé, après la bataille de Rocroy,
+vous dormirez sur un lit comme pas un homme n'en a jamais eu !</p>
+<p><pb/></p>
+<p>380 LITTÉRATURE DRAMATIQUE.</p>
+<p>MADAME BASILE.</p>
+<p>El toujours au premier venu, jeune ou vieux, demandez-lui : — Où
+demeurait madame Basile, et qui elle était, et la profession de son
+mari, et comme elle était vêtue? Aussitôt vous verrez le</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 381</p>
+<p>Faites donc de cela un vaudeville ! — Ils en ont fait un vaudeville, les
+malheureux !</p>
+<p>CASANOVA.</p>
+<p><pb/></p>
+<p>382 LITTERATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 383</p>
+<p><pb/></p>
+<p>384 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 385</p>
+<p>ces travaux sans lendemain, que pensez-vous que devint Casanova?
+Casanova, pour être vieux, cassé, éreinté, usé jusqu'aux moelles, n'en
+devint pas plus sage; seulement il se figura qu'il y avait une éclipse
+au soleil, et en attendant que revint le jour, il se fit le
+bibliothécaire d'un prince allemand sans bibliothèque. Casanova était au
+bout de sa vie et de son vice, qu'il ne s'était pas encore douté que sa
+vie et son vice pussent jamais finir.</p>
+<p><pb/></p>
+<p>386 LITTERATURE DRAMATIQUE.</p>
+<p>PAULINE, OU QUI EST-CE QUI GOUVERNE?</p>
+<p>Colas s'en va chez Pauline; Colas est tout en pleurs.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 387</p>
+<p>bise entrait dans l'hôtel. Pauline était encore toute émue;
+l'indignation, l'amour, la colère, le besoin de sauver Colas, tout lui
+donnait je ne sais quel charme incroyable. Jamais le prince de Soubise
+n'avait vu Pauline si jolie.</p>
+<p>— Mon Dieu ! que vous êtes belle, lui dit-il, et qu'il est heureux que
+le comte et la comtesse d'Oron ne soient pas chez eux!</p>
+<p>— Monseigneur, lui dit-elle, pardon, Monseigneur ; mais je voudrais vous
+parler très-sérieusement.</p>
+<p>En même temps elle joignait les mains.</p>
+<p>Le prince de Soubise s'en fut, du même pas, chez madame de Pompadour,
+sans même attendre le retour de M. et de madame d'Oron.</p>
+<p><pb/></p>
+<p>388 LITTÉRATURE DRAMATIQUE.</p>
+<p>et beau gentilhomme, très-brave et très-amoureux, même pour ce temps de
+bravoure et d'amour, était un des courtisans les plus assidus de madame
+la marquise. Il jouait auprès d'elle un de ces rôles que les courtisans
+ont toujours joué, non sans profit, avec les majestés féminines, le rôle
+d'un amoureux qui n'ose pas parler de son amour. Ce mélange de passion
+et de respect avait fort bien réussi auprès de la grande dame qui
+recevait le prince avec toutes sortes d'amitiés innocentes et d'égards
+empressés.</p>
+<p>Madame de Pompadour passa chez le roi en quittant le prince de Soubise.
+Le roi lui trouva une figure étrange. « Qu'avez-vous donc, Antoinette?
+lui dit-il. » Car vous remarquerez qu'il appelait: Antoinette, madame de
+Pompadour.</p>
+<p>Et le lieutenant de police reçut l'ordre de Sa Majesté d'étudier les
+affaires de M. de Gatry.</p>
+<p>L'exempt pria Colas de lui remettre le modèle de la lettre, écrite en
+entier de la main de M. de Gatry.</p>
+<p>Colas remit cette lettre en tremblant. Mais, ô surprise, on s'empara de
+M. de Gatry, Colas fut libre, et le soir l'infâme Gatry, confondu par sa
+lettre, se jetait aux genoux du lieutenant-criminel,</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 389</p>
+<p>Le lendemain tout le monde parlait de l'affaire Gatry.</p>
+<p>— Veux-tu la place de M. de Gatry? Colas !</p>
+<p>Colas pensa faire le signe de la croix, tant il était surpris de la
+bonne opinion que Pauline avait de lui.</p>
+<p>Quelques jours après, mademoiselle de Pons, ou si vous aimez mieux
+Pauline, se trouvant avec le prince de Soubise, lui parla de nouveau de
+son protégé.</p>
+<p>Le prince de Soubise écrivit sur ses tablettes le nom de l'heureux et
+vertueux Rosier.</p>
+<p>M. Nicolas Rosier devint donc un personnage, il eut une trèsbelle place,
+et le monde sut bientôt que son nom avait été écrit tout au long de la
+main du roi.</p>
+<p><pb/></p>
+<p>390 LITTÉRATURE DRAMATIQUE.</p>
+<p>Rosier, qui était bien le plus simple enfant du monde, entendant ainsi
+traiter une femme qu'il trouvait la belle des belles, qui avait été
+bonne pour lui, et qui était la maîtresse de son maître,</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 391</p>
+<p>L'Anglais lui donna une chiquenaude sur le nez.</p>
+<p>— Vous savez, Monseigneur, que ce pauvre Nicolas Rosier s'est battu pour
+vous ?</p>
+<p><pb/></p>
+<p>392 LITTÉRATURE DRAMATIQUE.</p>
+<p>indignement insultés par des gens de l'ambassade anglaise. A ce
+discours, M. de Soubise, fort en colère, s'en va chez madame de
+Pompadour, et lui raconte « l'histoire des milliers de grisettes plus
+jolies qu'elle. »</p>
+<p>Quand elle revit le prince de Soubise, Pauline lui fit un agréable
+sourire, et le complimenta hautement de ce qu'il n'avait pas reculé
+devant l'Angleterre.</p>
+<p>Puis elle ajouta :</p>
+<p>— Je suis sûre aussi, Monseigneur, que vous n'avez pas oublié celui qui
+a versé son sang pour vous, votre intrépide et dévoué défenseur, ce
+pauvre Nicolas Rosier.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 393</p>
+<p>reine, et un troisième qui probablement ne tombera pas sur mes épaules.</p>
+<p>Colas s'en alla en disant : — Peut-être !</p>
+<p>L'alliance fut conclue aussitôt entre la France et l'Autriche, en dépit
+de tous les efforts du cardinal de Bernis, et Nicolas Rosier jeta le
+beau voile sur la belle tète de Pauline.</p>
+<p><pb/></p>
+<p>391 LITTÉRATURE DRAMATIQUE.</p>
+<p>LA MARQUISE CHEF DE VOLEURS.</p>
+<p>L'affaire a été plaidée, et par un avocat illustre. Il représentait les
+héritiers d'une grande dame née en 1745, le dernier moment de règne pour
+les femmes; aussi les femmes en ont conservé un tendre souvenir. Cette
+dame avait épousé dans le cours de sa vie,</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 395</p>
+<p><pb/></p>
+<p>396 LITTÉRATURE DRAMATIQUE.</p>
+<p>L'ÉCRIVAIN PUBLIC.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 397</p>
+<p><pb/></p>
+<p>398 LITTÉRATURE DRAMATIQUE.</p>
+<p>sines, de tous les antichambres, de toutes les mansardes, — boudoirs
+frileux perdus sous les toits, — vous auriez vu soudain que de prières,
+que de terreurs autour de cet homme si négligé !</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 399</p>
+<p><pb/></p>
+<p>400 LITTÉRATURE DRAMATIQUE.</p>
+<p>DEBUREAU.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 401</p>
+<p>recte et sévère époque gouvernée et complétée par le roi Louis XI ;
+monde Bohême, excommunié bien avant Luther, mais excommunié en riant,
+retranché de l'Église sans passion et sans colère, par un simple
+scrupule d'étiquette; un monde de hasard, qui court, barbouillé de lie
+et traîné dans l'ancien tombereau de Thespis ; il s'arrête quand la
+civilisation l'entrave de toutes parts ; c'est de ce monde flottant que
+nous est venu Debureau.</p>
+<p><pb/></p>
+<p>402 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 403</p>
+<p>sur un fil d'archal tout le Bosphore de Thrace, périlleux et singulier
+pèlerinage d'une famille entière qui se glisse entre deux guerres, sans
+avoir une blessure! A Constantinople, toute la famille, entre autres
+bonheurs, eut l'honneur de jouer dans le palais du sultan. Ce jour-là,
+les paillettes étaient plus brillantes que de coutume, les tuniques
+étaient lavées de la veille; toute la famille avait dîné, Debureau
+lui-même avait dîné.</p>
+<p><pb/></p>
+<p>404 LITTÉRATURE DRAMATIQUE.</p>
+<p>De ces visions, il fallut retomber dans la réalité glacée. Il était né
+un vagabond, et il allait, pareil aux bohémiens de Béranger:</p>
+<p>Voir c'est avoir;</p>
+<p>Vie errante Est chose enivrante !</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 405</p>
+<p>C'est un homme qui a beaucoup pensé, beaucoup étudié, beaucoup espéré,
+beaucoup souffert; c'est l'acteur du peuple, l'ami du peuple, bavard,
+gourmand, flaneur, faquin, impassible, révolutionnaire comme est le
+peuple. Pour bien juger Debureau, il faut le voir dans le Boeuf enragé,
+dans la Mauvaise Tête, le Billet de Mille francs , l'Oracle, et dans
+l'Homme-Légume, un chefd'oeuvre de Charles Nodier!»</p>
+<p>Telle était celte petite fantaisie, et l'on ne saurait croire ,
+aujourd'hui que nous regorgeons de grands hommes improvisés et de
+comédiennes illustrées en vingt-quatre heures, l'effet soudain que
+produisit, il y a vingt ans, cette découverte du plus grand I. 23.</p>
+<p><pb/></p>
+<p>406 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 407</p>
+<p><pb/></p>
+<p>408 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 409</p>
+<p>Même le choléra, qui le croirait? le choléra s'est trouvé un bon sujet
+de feuilleton.</p>
+<p><pb/></p>
+<p>410 LITTÉRATURE DRAMATIQUE.</p>
+<p>Plus d'amour, partant plus de joie, Les tourterelles se fuyaient</p>
+<p>LA RUE NEUVE DES POIRÉES.</p>
+<p>« Puisqu'il s'en va, parlons du fléau. Osons les regarder de près ces
+profondes terreurs des premiers jours. L'ennemi bat en retraite ; soyons
+braves ! Pour ma part, je veux vous raconter une nuit d'épouvante que
+j'ai traversée avant-hier. Vous verrez dans ce simple récit ce que c'est
+que la peur du mal, et combien elle dénature horriblement les objets.
+Donc je commence : j'aurai soin d'être aussi peu terrible que possible ;
+je ménagerai vos nerfs plus que je n'ai ménagé les miens.</p>
+<p>C'était avant-hier, sur les hauteurs du quartier Saint-Jacques, si
+rempli d'hôpitaux, de collèges et de libraires, un lieu bien triste,
+surtout par la nuit qu'il faisait, — il était dix heures du soir.
+J'avais passé la soirée au chevet d'une jeune femme cho-</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 411</p>
+<p>Figurez-vous d'abord une petite rue, une de ces rues qu'on appelle
+neuves par ironie, et dans lesquelles les maisons en ruine semblent se
+pencher l'une sur l'autre, avec le hideux sourire de deux vieilles</p>
+<p><pb/></p>
+<p>412 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 413</p>
+<p>il faudrait les voir, ces honnêtes pères de famille, revenant du
+cimetière et s'épanouissant au soleil des boulevards, étalés sur leurs
+chars ! Puisse leur règne passer bientôt !</p>
+<p>En ce moment, je me sentis plongé dans une de ces hallucinations
+funestes, qui dans tous les temps ont fait croire aux fantômes. Les
+esprits les plus forts y ont cru. Pline, dans une lettre, pour laquelle
+je donnerais bien volontiers dix chapitres comme celui-ci, raconte qu'il
+en a vu un. Je ne vis pas de fantômes, je vis mieux que des fantômes.
+Après un instant d'attente, sortit de cette maison une bière pâle sur
+des épaules noires ; on ne voyait que la bière ; on eût dit qu'elle se
+portait toute seule sur le premier corbillard. Passèrent ainsi l'une
+après l'autre dix bières blanches et posées sur le même char; puis dix
+autres bières. Muettes, fatales, elles se plaçaient en ordre comme les
+nymphes légères du troisième acte de Robert le Diable.</p>
+<p><pb/></p>
+<p>414 LITTÉRATURE DRAMATIQUE.</p>
+<p>Un peu revenu de cette grande frayeur, je me traînai au fond de la rue.
+Je passai devant la maison déserte; déserte en effet, fermée, muette ,
+pas un filet de lumière ou de fumée, rien; c'était la maison des morts !
+Je ne sais comment il se fit que je pus atteindre un banc de pierre sur
+le devant d'une maison de la rue Saint-Jacques; je m'assis sur ce banc,
+et bien certainement je serais tombé en quelque spasme intéressant si
+j'avais eu quelqu'un pour en être le témoin.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 415</p>
+<p>rêves si décevants et si compliqués de la vie du collège, passaient
+devant moi sur ce banc, se dandinant, grimaçant, riant, sautant,
+bâillant ; pêle-mêle confus de visions, de souvenirs , de terreurs ,
+d'espérances, de regrets.</p>
+<p>Et puis devant moi, toujours la rue Neuve-des-Poirées, ce boyau éteint
+et morne, espèce de sillon ténébreux qu'avait laissé la roue des
+chariots funèbres. Cela encore, c'était d'un indicible effet.</p>
+<p><pb/></p>
+<p>416 LITTÉRATURE DRAMATIQUE.</p>
+<p>Disant cela, le digne Rombaux rentra gravement dans son collège par la
+petite porte, qui se referma sur lui.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 417</p>
+<p>LE DOCTEUR NOIR.</p>
+<p><pb/></p>
+<p>418 LITTÉRATURE DRAMATIQUE.</p>
+<p>tour de lui ses deux fils, sa soeur, tous ses parents. » Consolezvous
+donc, Madame, M. le président du conseil 1 ne mourra pas, et son fils
+attaqué est sauvé d'hier. »</p>
+<p>Mais la dame, plus tremblante que jamais, ne se consolait pas.</p>
+<p>1. M. Casimir Périer ; au contraire , il mourut du choléra, et la France
+a fait une perte immense, ce jour-là.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 419</p>
+<p>Et moi aussi, Madame, il faut que je me hâte, et que je vous raconte, à
+cette heure propice, toute remplie de bulletins officiels sanitaires et
+de procès-verbaux d'autopsie, une anecdote. — Allons, venez et risquez
+une oreille ou deux.</p>
+<p><pb/></p>
+<p>420 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 421</p>
+<p>du grand Debureau ou de la petite Déjazet !</p>
+<p><pb/></p>
+<p>422 LITTÉRATURE DRAMATIQUE.</p>
+<p>sain Vains efforts! espérance inutile! Il faut que ce choléra</p>
+<p>LE THÉATRE DU PALAIS-ROYAL.</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 423</p>
+<p><pb/></p>
+<p>424 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 425</p>
+<p>Sera-t-il dieu, table ou curette ?</p>
+<p><pb/></p>
+<p>426 LITTERATURE DRAMATIQUE.</p>
+<p>HENRI MONNIER.</p>
+<p>« Voici ce qu'on peut appeler : une nouvelle. Vous connaissez les</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 427</p>
+<p><pb/></p>
+<p>428 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 429</p>
+<p><pb/></p>
+<p>430 LITTÉRATURE DRAMATIQUE.</p>
+<p>Science et votre littérature ; Messieurs et Mesdames, on vous présente
+M. Prudhomme le richard, le savant, le railleur, le petit maître, le bel
+esprit, et chacun de saluer M. Prudhomme.</p>
+<p>C'était très-vrai tout cela, la chose même est passée en proverbe :
+Prudhomme, Brard et Saint-Omer! assermentés près des cours et tribunaux !</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 431</p>
+<p>MONSIEUR DE CHATEAUNEUF.</p>
+<p>Des quatre ou cinq personnages que représentait Henri Monnier avec une
+vérité si exacte, le meilleur, le plus goûté et le plus</p>
+<p><pb/></p>
+<p>432 LITTÉRATURE DRAMATIQUE.</p>
+<p>Sa conversation se ressentait de la vie d'autrefois, qui était restée sa
+vie présente. De tous les rois de l'Europe moderne, il ne</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 433</p>
+<p><pb/></p>
+<p>434 LITTÉRATURE DRAMATIQUE.</p>
+<p>seurs! Si vous aviez vu les beaux yeux de mademoiselle Liormois... deux
+escarboucles qui riaient en vous brûlant. A la première représentation
+d'Armide, M. Rebel, le directeur de l'Opéra , portait le grand cordon de
+Saint-Michel.</p>
+<p>O douleur ! ô quel malheur pour les gens d'esprit qui ont perdu
+l'habitude de dîner chez eux , les deux Mécènes tant célébrés par les
+plus jolies filles et les plus mauvais poëtes, M. de la Fopelinière et
+M. La Live, ont été renvoyés par M. le contrôleur général; car il
+s'appelait La Live, ajoutait le brave Châteauneuf, La Live tout court.
+D'Épinay ne vint que plus tard, quand JeanJacques Rousseau eut fait tant
+de bruit avec madame d'Epinay. — Il a connu Piron au cabaret, —
+mademoiselle Dumesnil qui portait le vin, mieux que Piron. Il a
+travaillé au Mercure avec l'abbé de la Porte. Mademoiselle Clairon, que
+vous avez vue vieille et décrépite, il l'a connue grande et belle. Il
+n'a jamais été de l'avis de Voltaire sur mademoiselle Gaussin. Mais
+qu'il a aimé la Dangeville, toujours fraîche et belle ! Il a parlé
+italien avec le bon père Goldoni, un vrai mendiant. Il était l'ami de
+Monsigny et de Sedaine. Ne lui parlez pas de Fréron, Fréron lui fait
+peur encore et, comme Fréron a battu l'abbé Méligan, cet Irlandais qui
+parlait le français en véritable Iroquois !</p>
+<p><pb/></p>
+<p>LlTTÉRATURE DRAMATIQUE. 435</p>
+<p>été dans les loges de ce petit théâtre où l'on voyait tout! Où personne
+ne pouvait vous voir ! »</p>
+<p>On ferait un bien aimable chapitre sous ce titre : Les Mémoires de M. de
+Châteauneuf. »</p>
+<p>À tant de causes réunies, le succès fut grand de cette Famille</p>
+<p><pb/></p>
+<p>436 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 437</p>
+<p>LACENAIRE.</p>
+<p>Parmi les poëtes de la fange et les beaux esprits de l'échafaud, cet
+homme, ce bandit, Lacenaire, un des noms les plus souillés I. 25.</p>
+<p><pb/></p>
+<p>438 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 439</p>
+<p>Les études mal faites portent en elles-mêmes je ne sais quoi de décousu,
+de malaisé, de vil, de disgracieux, de honteux ; regardez , dans les
+classes bien tenues par des maîtres intelligents, le résidu de ces
+enfants sans intelligence et sans orgueil, race abjecte, ignorante et
+paresseuse ! Ils ont des yeux pour ne pas lire, ils ont des oreilles
+pour ne pas entendre une leçon ; ils végètent, inutiles, sur les bancs
+inférieurs, pendant qu'au premier rang, les esprits actifs s'avancent de
+lumière en lumière , impatients d'apprendre et de savoir!</p>
+<p><pb/></p>
+<p>440 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 441</p>
+<p>Quoi donc! pour exercer le plus facile des arts mécaniques, il faut un
+apprentissage, et pour cette rude et difficile profession des lettres on
+se contente du hasard ! — Quoi, pour mettre une</p>
+<p><pb/></p>
+<p>442 LITTÉRATURE DRAMATIQUE.</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 443</p>
+<p>Allons, enfants, levons la tête Et portons nos fers sans trembler. Pour
+nous voir la foule s'apprête; Parmi nous que vient-elle chercher ? (bis)
+Est-ce des pleurs ? Ah! quel outrage! Nous sommes enfants de Paris.
+Entendez-vous nos derniers cris ? Ils attestent notre courage!</p>
+<p>Refrain.</p>
+<p>Chantons, forçats, en choeur le chant que nous aimons, Chantons,
+chantons; Libres et gaillards, un jour nous reviendrons.</p>
+<p>Que nous veut ce peuple imbécile? Vient-il insulter au malheur? Il nous
+voit d'un regard tranquille, Nos bourreaux ne lui font pas horreur (bis).</p>
+<p><pb/></p>
+<p>444 LITTERATURE DRAMATIQUE.</p>
+<p>Quoi ! parmi vous pas une larme ? Que faut-il pour vous attendrir? Voyez
+si nous savons souffrir, La gaieté nous conduit et nous charme.</p>
+<p>Chantons, forçats, etc.</p>
+<p>Adieu berceau de notre enfance ;</p>
+<p>Adieu, femmes que nous aimons ;</p>
+<p>Adieu, loin de votre présence,</p>
+<p>A vous parfois nous penserons (bis). Si dans vos coeurs est gravée notre
+image, Gardez-nous un tendre souvenir,</p>
+<p>Donnez-nous parfois un soupir; Nous vous promettons d'Être sages.</p>
+<p>Cette tragédie est précédée d'une espèce d'Essai littéraire et
+dramatique sur M. Lacenaire, comme on dit. L'auteur de cet Essai, qui ne
+se nomme pas, a été voir Lacenaire dans sa prison, il l'a vu et il lui a
+parlé tous les jours. Cependant, malgré la solennité de</p>
+<p><pb/></p>
+<p>LITTÉRATURE DRAMATIQUE. 445</p>
+<p>ces conversations quotidiennes, recueillies avec tant de scrupule, elles
+sont peu remarquables dans le fond et par la forme. C'est toujours le
+même scélérat qui se fait sceptique et goguenard , et qui devait, par la
+lâcheté de sa mort, donner un si horrible démenti aux forfanteries de sa
+vie. — La vertu, dit-il, c'est la fortune. ; le crime, c'est la misère.
+— L'autre monde, c'est le néant.</p>
+<p>— Pourquoi ne mangerait-on pas un homme comme un boeuf?</p>
+<p>Vous parlerai-je de sa tragédie? Ce sont les méchants vers d'un mauvais
+écolier. Ils valent, pour le nombre et la mesure, sa chanson des
+Forçats. On croirait, au premier abord, qu'un pareil misérable devrait
+porter dans son style quelque chose de la virulente énergie de son
+caractère. Au moins, quand un homme écrit avec un poignard, devrait-on
+reconnaître la pointe du poignard! Mais rien ; tout cela est flasque et
+mort comme toutes les tragédies vulgaires de ce monde. Zavellas,
+Belezer, Botsaris, tous les Grecs de la tragédie de Lacenaire parlent
+entre eux comme parlent tous les Grecs du théâtre moderne. Il n'y a là
+ni les passions, I. 26</p>
+<p><pb/></p>
+<p>446 LITTÉRATURE DRAMATIQUE.</p>
+<p>ni le sang-froid, ni l'athéisme du poète. La pièce finit par un innocent
+coup d'épée, qui est loin d'annoncer le carrelet qui a tué la veuve
+Chardon. Voici les deux derniers vers de la pièce :</p>
+<p>TOUS LES GRECS.</p>
+<p>CHRYSÉIS.</p>
+<p>Ombre de mon époux, Du séjour éternel viens diriger leurs coups.</p>
+<p>Et plus bas :</p>
+<p>Ne sentez-vous pas sur votre tète se dresser vos cheveux ? Après cette
+chanson bachique, vient une romance.</p>
+<p>M'aimeras-tu, si je te dis, ma chère, Quel est le mal qui cause tes
+soupirs?</p>
+<p>Toi qui comprends si bien les devoirs d'une mère, Et qu'on me peint
+comme un être charmant, Que ne fus-je, hélas! ton enfant; Que ne suis-je
+plutôt celui qui l'en fait faire !</p>
+<p>Puis enfin , son dernier chant qui commence ainsi :</p>
+<p>En expirant le cygne chante encor! Je ne regrette de la vie</p>
+<p><pb/></p>
+<p>LITTERATURE DRAMATIQUE. 147</p>
+<p>FIN DU TOME PREMIER.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>TABLE DES MATIÈRES</p>
+<p>CONTENUES DANS LE TOME PREMIER.</p>
+<p>A M. Armand Bertin I</p>
+<p>CHAPITRE PREMIER. — Le Journal des Débats 1</p>
+<p>Fête au Palais-Royal. — te Premier Paris 7</p>
+<p>Les Trois Journées 14</p>
+<p>Le Premier Feuilleton. — Le Nègre, par M. Ozanneaux 21</p>
+<p>M. Duviquet 27</p>
+<p>Fontan 28</p>
+<p>Poissy 32</p>
+<p>Alphonse Rabbe 38</p>
+<p>Jeanne la Folle. — Feuilleton de M. Duviquet 37</p>
+<p>Le Moine 43</p>
+<p>La Camargo 48</p>
+<p>CHAPITRE II. —La Révolution politique et la Révolution littéraire. . 32</p>
+<p>Triboulet 54</p>
+<p>La Fille du Bandit, - 55</p>
+<p>Les Ïambes 57</p>
+<p>L'Empereur 61</p>
+<p>Les Suicides. — MM. Sautelet, Escousse et Lebras 63</p>
+<p>Les Premiers Pas 66</p>
+<p>Le Duel. — M. Signol. — M. Dovalle 73</p>
+<p>La Campagne après une pluie d'été 75</p>
+<p>Lassailly. —M. Gustave Druineau. 75</p>
+<p>Un Feuilleton d'Etienne Bequet 77</p>
+<p>La Cure et l'Archevêché. — Maingrat 81</p>
+<p>Le Sac de Saint-Germain-l'Auxerrois 86</p>
+<p>Les Exilés. — Naples 89</p>
+<p>Mayeux , . . 95</p>
+<p>Hoffman et Paganini, ( Conte fantastique.) 96</p>
+<p>L'Inondation et les Inondés de Saint-Etienne 102</p>
+<p>Berlioz. — Mort de Paganini. — Lettre de Louis Boulanger. . . 113</p>
+<p>CHAPITRE III. — La Critique est un art difficile 123</p>
+<p>Théâtre de l'abbé Châtel - 128</p>
+<p>M. Casimir Bonjour. — Ugolin. — Les Chouans. — Le Bourreau. . 132</p>
+<p>La Réputation d'une femme 140</p>
+<p>Dix Ans de la vie d'une femme 146</p>
+<p>Théodose Burette 153</p>
+<p><pb/></p>
+<p>450 LITTÉRATURE DRAMATIQUE.</p>
+<p>Une Conspiration d'autrefois 461</p>
+<p>L'OEdipe de sophocle 180</p>
+<p>Le Château d'Eu et la Machine de Fieschi 186</p>
+<p>Les deux Serruriers 198</p>
+<p>Marie-Joseph Chénier 205</p>
+<p>Tibère. — Henri VIII 211</p>
+<p>Casimir Delavigne 221</p>
+<p>CHAPITRE IV. — Les suites de la Révolution de Juillet 228</p>
+<p>La Marseillaise. — J'ai du bon tabac 229</p>
+<p>Camille Desmoulins. — Le marquis de Favras. 239</p>
+<p>Le Collier de la Reine 242</p>
+<p>Catherine II 246</p>
+<p>Mirabeau 251</p>
+<p>La Jeunesse de Richelieu. — Étude du XVIIIe siècle 261</p>
+<p>CHAPITRE V. — La Toute-Puissance du Théâtre Français sur les scènes</p>
+<p>secondaires 271</p>
+<p>Les Liaisons dangereuses. — Louvet. 272</p>
+<p>Les Demoiselles de Saint-Denis 279</p>
+<p>Les Noces du Forçat 282</p>
+<p>Il y a Seize Ans! 301</p>
+<p>Han d'Islande 302</p>
+<p>La Mort de Paul Ier. . . 304</p>
+<p>Jenny Durand 305</p>
+<p>Victorine, ou la Nuit porte conseil .... 306</p>
+<p>Les 6 Degrés du Crime .... 307</p>
+<p>L'Arétin 312</p>
+<p>Georges 313</p>
+<p>Le Tambour-Major 324</p>
+<p>Tabarin ou le commencement de la Comédie 326</p>
+<p>Janot ou la fin de la Comédie ' 329</p>
+<p>Les premières Armes de Richelieu 334</p>
+<p>La Cheminée et le maréchal de Richelieu 340</p>
+<p>La Comtesse du Tonneau. — Madame Dubarry 347</p>
+<p>La Vie privée, par M. Saint-Marc-Girardin 355</p>
+<p>Liszt et le Grand-Duc de Toscane 357</p>
+<p>Balochard, Chiquart et le Carnaval 359</p>
+<p>Les Vaudevillistes et les Brouillards 363</p>
+<p>CHAPITRE VI. — Que le Feuilleton ne doit rien négliger 372</p>
+<p>Une Thèse en Sorbonne 373</p>
+<p>Les Sauvages, les Fleurs , les Tigres et les Éléphants 374</p>
+<p>Madame Basile. 380</p>
+<p>Casanova 381</p>
+<p>Pauline, ou qui est-ce qui gouverne? 386</p>
+<p>La Dame chef de voleurs 394</p>
+<p><pb/></p>
+<p>TABLE DES MATIÈRES. 451</p>
+<p>L'Écrivain public 396</p>
+<p>Debureau ou la pantomime 400</p>
+<p>La rue Neuve-des-Poirées. — Le Choléra MO</p>
+<p>Le Docteur Noir 447</p>
+<p>Une anecdote inédite de Mirabeau 419</p>
+<p>Le Roman-Feuilleton 421</p>
+<p>Le Théâtre du Palais-Royal 422</p>
+<p>Henri Monnier 426</p>
+<p>Monsieur de Châteauneuf 431</p>
+<p>Lacenaire ou l'éducation manquée 437</p>
+<p>FIN DE LA TABLE DU TOME PREMIER.</p>
+<p>PARIS — IMPRIMERIE I. CLAYE ET Ce, RUE SAINT-BENOIT, 7.</p>
+    </div>
+    </body>
+  </text>
+</TEI>

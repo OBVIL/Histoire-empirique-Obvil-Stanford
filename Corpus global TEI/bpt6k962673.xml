@@ -1,0 +1,1792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Bergerat, Émile (1845-1923)">Émile Bergerat</author>
+<title>Le rire de Caliban / Émile Bergerat ; avec une préf. par Alphonse Daudet</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Bergerat, Émile (1845-1923)</author>, <title>Le rire de Caliban / Émile Bergerat ; avec une préf. par Alphonse Daudet</title>, <date>1890</date>,description :,323 pages
+</bibl>
+<publisher>G. Charpentier (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k962673</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1890">1890</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p>Couvertures supérieure et inférieure en couleur</p>
+<p><pb/></p>
+<p>ÈM~LE BERGERÂT</p>
+<p>LE RtRE–</p>
+<p>BE</p>
+<p>CALIBA~ AVEC U!)E PREFACE</p>
+<p>MR.</p>
+<p>'&amp;PH;ONS~' DA U.J~</p>
+<p>PARIS. $..a~R.P.ENTlE.R ET G", ~B.î~0'{% ~i, 'tM~ 'îMf!~</p>
+<p><pb/></p>
+<p>Extrait dm Catalogue de la BÏBMMHËQUE-CHARPENTIER &amp; 3 fr. 5C te vetnme</p>
+<p>ŒUVRES DE ALPHONSE DAUDET</p>
+<p>OKt~t MHoae enti! aeits at pMeaM esita-~es pS!- les prtnttpaMz ~nM~t °
+ïlétiure pleiné; veau grenae,, polip. ~~ol,es donées. 8</p>
+<p>R~iu)'epMM,vaa)tj~eBat,pothttsnehas&lt;!o)'eM. 8</p>
+<p>– 1/! c&lt; d~Mtate ea meraqtim, coins, tête dorée.. ? &lt;</p>
+<p>– l/STeeu.t'MtihMder~es. 660</p>
+<p>CONTES CHOISIS. – Ms~ deux eaux-forfes d'EbMOm NoRH. i vol. .PR.OMONT
+JE8'B~SBBa. AINE. Un volume in-8 colombier, !MMstt6.parE&amp;.
+MeMN~PnX~oehe. 6 fr. CartBMN~angtatS.de~tratie~s,&lt; 9 fr. Rc!ié
+demi-chagrin, dO~îtN!' irancttè~ it fr. Imprimeries réunies. A, rue
+Mi~tM)), 3, Paris. 774.</p>
+<p><pb/></p>
+<p>~7</p>
+<p>i- &lt;</p>
+<p><pb/></p>
+<p>LE RIRE DE CALIBÂN</p>
+<p><pb/></p>
+<p>ÉMÎLE C 0 ) IMPRIMERIE DE LAGNY</p>
+<p><pb/></p>
+<p>CALIBAN AVEC tJNE PRÉFACE</p>
+<p>G. CHARPENTIER ET C~, ÉDITEURS 11,RUEDEGREN-EH.E,11</p>
+<p>E~iLE BERGERAT~</p>
+<p>LE RIRE</p>
+<p>DE</p>
+<p>PAR.</p>
+<p>!1~ 1</p>
+<p>ALPHONSE DAUDET</p>
+<p>PARIS</p>
+<p>TousdMitsréservés</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>PRÉFACE</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>J'avais reconnu et pouvais nommer l'auteur. Mon directeur sourit de haut</p>
+<p>« Je vous en défie.</p>
+<p>Einile Bergerat. »</p>
+<p>Sa stupéfaction fut si énorme qu'il n'essaya pas de nier.</p>
+<p>« Qui vous l'a dit? 2</p>
+<p>– Lui-même. »</p>
+<p>« Voilà, monsieur, une chose extraordinaire. », murmurait mon marchand
+de papier, trop bien élevé pour ne pas faire semblant de me croire, mais
+me suppliant tout de même au</p>
+<p><pb/></p>
+<p>Cette incrédulité n'était pas pour me surprendre. C'est en effet une
+chose si singulière, si mystérieuse que le style, ou plutôt cette
+personnalité de l'expression, qui n'est peut-être pas tout le métier,
+mais ce qu'il a de rare et d'inassimilable, ce qui ne se donne pas, ne
+s'enseigne pas, ne s'acquiert par aucun effort, ne se trouve absolument
+pas dans le commerce, ce qui enfin sur l'insignifiant passeport de
+l'homme de lettres peut compter pour le signe particulier.</p>
+<p>Bien écrire, tous nos jeune-France s'en chargent. Les petits de Paris
+surtout, infiltrés d'art t dés le bas âge, happant de la littérature
+dans l'air, par-dessus les murs du lycée, ont vite le doigté du style,
+tous les tours et bistours, toutes les complications de la phrase
+moderne mais, si raffinées que soient les œuvres de cette Jeunesse qui
+nous talonne, combien il en est peu Il de personnelles. Il est vrai
+qu'elle pourrait en 1</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Quand on dit aux enfants habillés de neuf pour quelque visite «
+Amusez-vous, mais ne vous salissez pas », vous pouvez être sûrs que ces
+enfants n'oseront plus bouger et ne s'amuseront pas, dans la crainte de
+gâter leurs beaux habits.</p>
+<p>Il en va de même le plus souvent pour l'écrivain. Le style est comme un
+endimanchement</p>
+<p><pb/></p>
+<p>intellectuel qui lui interdit des amusements trop vifs, les gaietés et
+les turbulences.</p>
+<p>Le grand poète moderne n'a-t-il pas formulé ainsi la suprême beauté
+artistique</p>
+<p>Je hais le mouvement qui dérange les lignes</p>
+<p>Et jamais je ne pleure et jamais je ne ris.</p>
+<p>ALPHONSE DAUDET.</p>
+<p><pb/></p>
+<p>CALIBAN A L'EXPOSITION</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>L'OUVRIER DE PARIS</p>
+<p>L'actualité luit du Champ de Mars. Tout événement européen, que dis-je?
+boulevardier, s'écnpse dans le rayonnement de cette fabuleuse Babylone
+de fonte, de cristal et de faïence, surgie au bord de la Seine sous la
+baguette d'un magicien entliousiaste. Chroniquer d'autre chose en ce
+moment que de l'Exposition-Revanche, ce serait perdre son temps et son
+encre.</p>
+<p>Des politiciens plus experts que l'humble Caliban, et de meilleurs
+augures évalueront la portée historique de son succès immense. Ils
+prédiront si la tour Piranésienne d'Eiffel est le phare de la paix
+universelle tant Invoquée par ce siècle harassé, ou si son paratonnerre
+doit encore une fois</p>
+<p><pb/></p>
+<p>Mais s'il est bon de jouir ingénument des spectacles admirables, il ne
+faut jamais se démunir du droit d'en raisonner. Ce droit, d'ailleurs,
+est un surcroît de p!aisir. Or, tandis, que je promenais mes
+émerveiUemenis par les méandres de la Cité Bleue, une question, telle
+qu'on la pose au caté-</p>
+<p><pb/></p>
+<p>chisme sur les phénomènes de -la création, me vint: Qui a fait tout cela?</p>
+<p>Et une seule voix d'acclamation me répondit: C'est l'ouvrier de Paris.</p>
+<p>Eh bien oui, ce rêve enchanté conçu par les sorciers du génie moderne,
+cette apparition de paradis modelé dans l'azur, cette Cité Bleue, brodée
+d'ors, de marbres, de cristaux et d'émaux, ce châLeau du vent en
+filigrane, aéfien, délicieux, frais aux yeux, dans ses tonalités
+amorties, où tous les ciels accordent leurs flores, opposent leurs arts
+et mêlent leurs idéals pour une lice de joie qui sera peut-être la
+dernière du siècle, qui a exécuté et réalisé tout cela? C'est lui. Lui,
+l'anarchiste des clubs, le gouapeur timbré et rigolo, que les zincs
+saturent d'alcool et de politique frelatés, l'ouvrier parisien, «
+l'ouverier »; -c'est Coupeau que dis-je? c'est Lantier! Miséricorde,
+qu'est-ce que c'est que ce citoyen-là?</p>
+<p><pb/></p>
+<p>Ils ne disent pas « l'ouvrier français' &gt;</p>
+<p><pb/></p>
+<p>bronze immortel du monument. Quand on les prend par là, ils sont pincés
+ies « (oUaborateurs » Ils collaborent et ils font tout, comme toujours.
+Ce n'est pas pour rien, en effet, que l'on a passé son enfance à
+déchiffrer sur l'Arc de Triomphe les listes lapidaires des illustres
+inconnus deTEpopée impériale. On veut soi aussi avoir été quelqu'un dans
+quelque chose. Un malin, cet Eilfel, et qui a compris l'ouvrier de Paris.</p>
+<p>L'ouvrier de Paris est peut-être le type le plus</p>
+<p>synthétique,.qui estcelui de la race, etgrâce auquel</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Alors quoi? C'est donc le suffrage universel qui aurait raison.
+Demandez-vous en sortant de la Cité Bleue si des hommes capables de
+réaliser une pareille fantasmagorie, dont rien n'approche; n'ont pas le
+droit eux aussi, autant qu'un Lamartine, de. déposer leurs bulletins
+dans l'urne et tremblez</p>
+<p><pb/></p>
+<p>LE DIORAMA ANTHROPOLOGIQUE</p>
+<p>L'idée de ce Diorama est bien ingénieuse, puissamment philosophique et
+anthropologique comme cent mille hommes. Quand on l'a eue, on</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>toire municipal. Dès ce moment il est dirigé sur la mort, par tous les
+moyens dont une société bien faitedispose.</p>
+<p><pb/></p>
+<p>maisons de la ville, les égouts qui charrient le trop plein des sociétés
+et de l'amour.</p>
+<p>Le deuxième tableau du diorama de l'Homme moderne ne fait pas moins
+d'honneur au génie du docteur Nicolhson. Il représente l'éducation du
+légitime moyen, cent ans après la prise de la Bastille.</p>
+<p><pb/></p>
+<p>Mais venons au troisième tableau du diorama anthropologique. C'est le
+tableau de l'amour. Le docteur s'y est surpassé. Le petit Durand,
+instruit des choses de ce monde ainsi qu'on l'a vu dans le tableau
+précédent, rencontre la femme! Quand il n'est pas trop tard déjà, il
+s'en étonne. Qu'est-ce que cela? dit-il. Je ne sais pas, lui répond la
+grande voix sociale. Est-elle le bien ou le mal ? Elle est le bien qui
+fait le mal et elle est aussi</p>
+<p><pb/></p>
+<p>le mal qui faille bien. – Dois-je l'aimer ? C'est ton affaire. Tout est
+piège sur ce terrain et rien n'est réglé par les lois. Tu peux, pour
+l'avoir aimée, être guillotiné ou faire fortune, et cela dépend de ta
+chance. Navigue entre le mariage et la prostitution et pelote en
+attendant partie. Apprends seulement pour ta gouverne que le législateur
+châtie ce que le poète célèbre.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ment dans le troisième, et. la foule est joyeuse. pour ce qui est du
+sixième-tableau, je devrais vous en laisser la surprise, mais je n'en ai
+pas le courage. Il représente Durand, ressuscité de ses cent morts
+sociales, en train de reconstruire la Bastille. On parle du docteur
+Nicolhson pour la médaille d'honneur de la section d'anthropologie.</p>
+<p><pb/></p>
+<p>LA VICTIME DE LA TOUR EIFFEL</p>
+<p>Lorsqu'on releva son cadavre, on y trouva un papier sur lequel ces mots
+mystérieux étaient tracés d'une main ferme</p>
+<p><pb/></p>
+<p>qu'est-ce que cela pouvait bien signifier? Jamais il ne s'était occupé
+d'architecture.</p>
+<p>Cela vaut mieux, me dit-elle. Il souffrait trop</p>
+<p>Elle me conduisit au lit du suicidé. Son visage exprimait une sérénité
+céleste et délicieuse. Je n'ai vu qu'aux amants heureux le sourire
+d'extase qui tendait l'arc rose de sa' bouche. On comprenait qu'il avait
+enfin la paix, la bonne paix éternelle et que son tourment était fini.
+Mais quel tourment était-ce?.</p>
+<p>Je rentrai dans le salon, et j'y questionnai la vieille Bourguignonne.</p>
+<p>–Il ne verra plus.quoi? insistai-je.</p>
+<p>–Mais.ELLE! 1</p>
+<p>Sur la foi de cette exclamation, je crus saisir que mon pauvre ami avait
+été la proie d'une de ces</p>
+<p><pb/></p>
+<p>femmes terribles que la philosophie parisienne généralise sous le nom
+métaphorique de crampons. Mais, s'il s'agissait de crocs, de pinces et
+de tourets, ce n'était point de ceux de l'amour. Or, voyant q~e je n'y
+étais pas du tout, la bonne écarta les rideaux de la fenêtre, et,
+agitant le poing avec colère -Tenez, la voilà, la gueuse!</p>
+<p>Mais je ne vis rien devant moi que les dentelles métaHurgiqucs de cette
+grande échelle double dont M. EiHel e&amp;t le Piranèse.</p>
+<p>Je le regardais sans oser la comprendre. C'était un cas de folie si
+prodigieux que ce cas, si invraisemblable, si fin de siècle, que la
+vieille me parut d'abord être tombée en déliquescence.–Le papier</p>
+<p><pb/></p>
+<p>dit-il vrai, demandai-je en reculant, et s'est-il tué pour la tour EitM?</p>
+<p>Ainsi philosophait la vieille gouvernante. Elle huma une prise, la
+reniûa et reprit</p>
+<p>Je vous ai dit qu'au début il la trouvait « très drôle », c'était son
+mot. De cette fenêtre même il la regardait monter, le matin, en se
+rasant. –</p>
+<p><pb/></p>
+<p>« Stéphanie, me criait-il gaiement, ça va, la Tour! » Puis il s'en
+lassa. Elle allait trop vite, pour son caractère. Les journaux ne
+parlaient que d'elle; ils avaient des rubriques quotidiennes sur son
+ascension. Vous savez qu'il les recevait tous? Bientôt il ne les depiis.
+même plus. Je le vis lire la Revue des DeM~c-Mo)! La fenêtre fut comme
+condamnée. Il se rasa dans l'ombre, plus d'appétit, il pâlissait,
+maigrissait, devenait grinchu, lui, si gai, monsieur, et qui jetait les
+calembours comme un brasier les étincelles!</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LÀ JUSTICE HUMAINE</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>L'HORREUR DE COMPAROIR</p>
+<p><pb/></p>
+<p>Impossibilité, inutilité et PASSE-DROIT d'être innocent.</p>
+<p><pb/></p>
+<p>ténèbres pour constater une méprise. Etre innocent n'est rien, il s'agit
+de prouver seulement qu'on peut l'être. Le jeu est là. H vaut la tête,
+paraît-il.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>faussesmesures, et vous n'oserez pas vous plaindre, si on vous vote, de
+peur d'être engueulé. E-.t-ce que j'exagère? Ah je le voudrais certes
+Mais je dois al'jr plus loin encore.</p>
+<p><pb/></p>
+<p>L'ÉPOUVANTE D'ÊTRE ACQUITTE</p>
+<p>–.Monsieur Caliban,. s'il vous plaît?</p>
+<p>Or, non seulement la voix était timide, mais elle était souffrante. Si
+c'était, pensai-je, un de mes confrères dans ladeche ? Et, posant-mes
+sacs lourds et sonores, je courus lever la barre. Entrez, lui dis-je. s</p>
+<p>Et il entra, puis s'assit. Il paraissait exténué. Lorsque je brasse l'or
+que me rapporte mon théâtre, je n'allume que la veilleuse. C'est plus
+rembrandtesque. La pénombre me procure des effets de clair-obscur dont
+je suis ivre et que le</p>
+<p><pb/></p>
+<p>néologisme décadent de « luisancesa.dénnitassez bien. Seulement je n'y
+vois pas clair et il m'était impossible de distinguer le visage de mon
+hôte. Dans ces cas-là, je me sers de mon odorat. Cet homme sentait le
+potard.</p>
+<p><pb/></p>
+<p>marque, des fraises et du pain qui croque! Cinq minutes écoulées, tout
+remontait par l'ascenseur, et nous nous attablâmes.</p>
+<p>M:ussi vous êtes acquitté cependant, que peuton vous faire? Vous allez
+et venez, vous êtes libre J'avoue que je ne comprends pas. Il se dressa,
+étendit la main et lança sur la ville cette malédiction sombre</p>
+<p>Malheur aux acquittés La société n'est douce qu'aux coupables. Vous
+n'aimez que les condamnés</p>
+<p><pb/></p>
+<p>Evidemment c'était un fou. Je rapprochai ma chaise de la sienne.</p>
+<p>C'était un vers. Je lui serrai la main.</p>
+<p>Le peuple a besoin de criminels; il lui en faut pour s'excuser de subir
+le joug social, contre lequel se révolte le sauvage mangeur de chair
+humaine qui reste en lui de l'origine. Acquitter, c'est le frustrer et
+lui soustraire une victime promise. Aussi comme il les aime, ses
+condamnés Comme il les choie, dès qu'ils le sont' De quelle
+préoccupation tendre il les entoure, ceux qui vont mourir, les chers
+scélérats convaincus de l'être, et que l'ami bourreau a marqués da son
+signe pour une aurore ensanglantée Hearëux les condamnés,</p>
+<p><pb/></p>
+<p>vous dis-je Oh ne comparaissez jamais Faitesvous hacher plutôt que de
+comparoir! Mais si vous avez comparu, priez Dieu qu'on vous juge
+coupable, car toutes les pitiés seront pour vous, les femmes extasiées
+vous donneront des boucles de leurs cheveux, les hommes vous jetteront
+des cigares enthousiastes et vous serez interviewé J'ai presque envie
+d'en appeler de mon acquittement, ricana le potardsatanique.</p>
+<p>Parce qu'ils reçoivent des journaux dans leurs auberges. Dès que je fus
+acquitté, on me remit en liberté. Je sortis donc et d'abord je traversai
+la foule, massée dans la rue, autour du Palais de'Justice. Aux
+sentiments que je lus dans les regards de cette population amèrement
+déçue, je</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Enf)n,dans uncaféjerésolusdedissimulermon individualité lépreuse
+d'acquitté français. Je m'assis avec mon pauvre chien et je commandai
+quelque chose. Mais cet établissement recevait des journaux illustrés.
+Mon portrait les embellissait, et Natté, je vous en réponds. Il avait
+été fait avant l'acquittement, pendant la période du procès où l'on est
+réputé coupable. Vous devinez sans peine ce qui arriva. Les habitués
+m'avaient reconnu, le patron me pria poliment d'aller me faire pendre
+ailleurs. Pourquoi pendre, puisque j'étais acquitté? Et me voilà. Je
+suis venu tout droit chez vous parce qu'il y a des similitudes entre
+votre situation et la mienne. J'ai pensé que vous compatiriez. – Ah ça!
+mais qui donc êtes-vous? fis-je, assez pâle.</p>
+<p>L'acquitté du Havre.</p>
+<p>– Quoi, Pastré-Beaussier?</p>
+<p>– Oui, lui-même,</p>
+<p>Je m'abattis su.r mes sacs d'or pour les défendre..</p>
+<p><pb/></p>
+<p>Vous voyez bien, fit le potard, vous aussi Et pourtant, je
+n'étaisaccuséqued'empoisonnement! Et il s'élança dans l'ascenseur, qui
+s'abaissa lentement.</p>
+<p><pb/></p>
+<p>LA FAILLITE</p>
+<p>Ah 1 ah! ah! savez-vous la nouvelle? Madame Pelouze se fait déclarer en
+faillite Hi 1 hi hi! Dieu, qu'elle est bonne, celle-là!Oui, elle dépose
+son bilan de marchande de vin Oh oh oh c'est de première force. Qui lui
+a suggéré cette idée de génie ? Vous le demandez Il n'y a qu'un Daniel
+au monde. Un fort coup tout de même! Je n'en connais pas ie plus drôle
+Et vous ? Moi non</p>
+<p><pb/></p>
+<p>Et un philosophe (voir Jovialité) ajoute</p>
+<p>C'est éga!, le père Grévy ne doit pas s'embêter dans sa famille</p>
+<p>Etant donné l'idée que l'on a des créanciers, comment se fait-il qu'on
+trouve encore des êtres assez stupides pour vous faire crédit et même
+vous prêter de l'argent? Tel est le problème que je me pose quelquefois,
+au soleil couchant, lorsque la civilisation se calme dans la nature. 0
+mystère insondable, on en trouve cependant Madame Pelouze en eut tant
+qu'elle en voulut avoir. Que dis-je? Elle en aurait encore, après le dépôt</p>
+<p><pb/></p>
+<p>Hélas 1 pour ne pas avoir su ou compris le jeu de la faillite, j'ai
+perdu bien des petits Chenonceaux</p>
+<p><pb/></p>
+<p>que .je regrette. Car chacun a les siens, selon sa fortune, sa chance,
+son travail ou ses alliances, et l'honneur ne compte pas le nombre des
+tourelles. Aucun oncle n'a racheté les miens, même pour embêter Scribe,
+et les créanciers me méprisent tellement aujourd'hui, que je ne pourrais
+plus, même sur la garantie de Daniel, peut-être, renouer avec aucun d'eux.</p>
+<p><pb/></p>
+<p>eux -mêmes de rudes cocos, si vous me permettez ceth~patluge! 1</p>
+<p>De telle sorte que flétrir publiquement et stigmatiser d'un coup de ton
+glaive, ô Thémis, le brave qui, au lieu de se croiser les bras, se met à
+défier la fortune et tombe assommé sous ses coups d'aveugle, c'est
+transporter dans la vie honorable les mœurs du jeu et sa philosophie
+infâme et féroce. Non seulement le pacte social n'exige pas que nous
+réussissions dans toutes nos entreprises, sous peine d'être rayés de la
+liste des citoyens utiles, ainsi qu'on l'est par une faillite, mais
+encore il veut qu'aucun hasard, qu'aucune erreur n'abatte notre courage
+et n'atteigne notre fierté,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>qui la danse. Il paraît que c'est peu de chose pour les avoués. Allons,
+tant mieux 1</p>
+<p>Mais ne trouvez-vous pas que l'institution qui fournit l'occasion de
+pareilles facéties jurisprudentes est une institution périmée et que-la
+faillite a fait son temps?</p>
+<p><pb/></p>
+<p>L'AMOUR EN COUR D'ASSISES</p>
+<p>1</p>
+<p>La cour d'assises de la Seine vient d'acquitter – avec collecte une
+fille-mère prévenue d'avoir revolvérisé un jeune bourgeois qui, après
+lui avoir fait deux enfants pour rigoler, refusait d'en devenir le père.
+Cette femme s'appelle mademoiselle Jamais. Mettons, si vous voulez, que
+l'homme se nomme M. Toujours. Je crois que ce pseudonyme fera plaisir à
+sa famille.</p>
+<p><pb/></p>
+<p>toutes ses lettres sont signées du « ton mari pour la vie » des
+tatouages. Aussi son Alexandrine se laissait-elle faire des enfants à
+bouche que veuxtu, persuadée qu'ils étaient destinés, eux aussi, à
+s'appeler Toujours, par droit de filiation. Or, ce rigoleur de M.
+Toujours ne voulait que rigoler, ainsi qu'il appert de son propre
+témoignage devant les juges extasiés et béants –L'épouser, qui?. Ma
+maîtresse?.Ah! des cerneaux! 1</p>
+<p>Jette ta gourme s'était écrié M. Toujours, le père, en lançant M.
+Toujours, le fils, dans la société.</p>
+<p><pb/></p>
+<p>La Justice, sourde aux apostrophes tonitruantes du procureur (o mon
+Torquemada, quelle professien !) a renvoyé mademoiselle Jamais indemne,
+avec, dans les mains, une aumonière de cinquante balles. Et le jeune M.
+Toujours est rentré dans son honorable famille. Le peuple' demande qu'il
+y épouse sa cousine, exclusivement.</p>
+<p><pb/></p>
+<p>humain, de la cour d'assises de la Seine, s'il y avait dans cet
+acquittement toute la justice que l'on rêve. Mais j'ai beau vouloir
+apaiser ma conscience, elle a encore faim, et sa fringale de Bien n'est
+pas calmée. Selon elle, le procès a dévoyé. Thémis a triché. Il ne
+retournait pas de l'innocence d'Alexandrine. Elle en a deux preuves
+vivantes et bouclées. Il lui eut suffi de les montrer publiquement, et
+de dire</p>
+<p>M. Toujours est excessivement mal jugé, me~crM ma conscience, et s'il
+n'épouse pas au moins sa cousine, on peut dire que la lâcheté est impuni
+sur la. terre. Sij'éia.is~uge, et si, l'était, je gardais</p>
+<p><pb/></p>
+<p>dans le torse la- conscience du Bien et du Mal qui me dévore, j'aurais
+coitfé ma barrette, et surgissant, j'auraisdit:</p>
+<p>Tel serait mon jugement, cependant, si j'étais juge, ou plutôt tel
+serait, j'en suis sûr, celui de tous les honnêtes genssi la justice
+moderne n'était ce qu'elle est, c'cst-àdire une immense toile d'araignée
+empoisonnée où les papillons se</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>– La Société Française Républicaine ne reconpait pas ce que les sociétés
+anciennes ont appelé le bâtard. Elle en ignore. Tout homme né dans son
+sein est son fils d'abord, et ensuite, s'il y a lieu, celui de
+l'individu amoureux qui l'engendra. La Société Française ne connaît
+qu'une seule façon d'engendrer, qui est la bonne. De telle sorte que, la
+paternité étant d'abord recherchée, puis pro-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>mes cors, exclusivement. Mais rien ne le décourage. Il veut que je
+refasse Adolphe Apres toi, farceur 1</p>
+<p>Pendant le repas, Bourget, qui excelle aux transitions, aux préparations
+et aux douces conduites, ne m'entretint d'abord que de la mort de
+Chevreul, une actualité, presque une synthèse.–Et</p>
+<p><pb/></p>
+<p>Quel instinct dans ce peuple! fis-je. Si tu ôtais ta décoration, tu
+serais hué. Il n'y a plus qu'elle qui te préserve d'être reconnu pour le
+criminel. Les femmes te boivent des yeux.</p>
+<p>A cet instant, le véritable accusé fut amené par les gendarmes. C'était
+un pauvre garçon d'aspect timide et résigné, prévenu de meurtre sur sa
+maîtresse. Il avait, en effet, sans connaître Chambige et sans avoir
+jamais lu le moindre roman physiologique, résolu de mourir avec elle,
+après deux ou trois bonnes journées de passion heureuse et satis-</p>
+<p><pb/></p>
+<p>– Je suis de Paris, dis-je avec synthèse. Et comme il feignait de ne pas
+me comprendre Oui, ajoutai-je, de Paris~ la ville des réchauds, –</p>
+<p><pb/></p>
+<p>Fais-le donc.</p>
+<p>– Eh bien! voici ils se sont tués parce qu'ils s'embêtaient!</p>
+<p>– Et l'amour?</p>
+<p>– Mais, mon cher, l'amour n'amuse pas tout le 111V11LIe.</p>
+<p>monde.</p>
+<p>Bourget secoua la tête tristement, et il douta de ma conversion.</p>
+<p><pb/></p>
+<p>ment. Du reste, son amant était bègue. Il sautait</p>
+<p>aux yeux que toute la volonté venait d'elle, et</p>
+<p>d'elle seule, et qu'elle avait l'âme de ces deux corps.</p>
+<p>L'interrogatoire ne fut pas long, et le président</p>
+<p>vida en un tour de main le fonds de cet « éternel</p>
+<p>Je l'aimais. Je l'aime toujours. H n'a fait que</p>
+<p>ferait encore. Moi aussi Voilà.</p>
+<p>Le président en restait béjaune, et mon cher</p>
+<p>compagnon n'en croyait pas ses oreilles. Quoi pas plus de subtilité que
+cela? Aucune complication</p>
+<p>– Ah ça, mais, gémit le président, est-ce que</p>
+<p>vous vous imaginez qu'on a ainsi le droit sur la terre de se tuer-et de
+tuer les autres ? 2</p>
+<p>– Je ne sais pas, monsieur, répliqua-t-elle</p>
+<p>modestement.</p>
+<p>Alors il voulut aller plus loin, ce président de</p>
+<p>mon cœur, il voulut sonder ce mystère, pénétrer le vrai du vrai, le fin
+du fin, le subtil du subtil, et faire honneur au romancier qu'il savait
+dans la salle.</p>
+<p><pb/></p>
+<p>Elle baissa un instant la tête, parut rétiëchir et 81:</p>
+<p>On s'ennuyait 1</p>
+<p><pb/></p>
+<p>peu son système. Certes il reconstituait la jeune fille, mais il la
+reconstituait trop vite, beaucoup trop vite. On l'avait tout de suite.
+Elle ne donnait même pas une nouvelle pour la Revue de madame Adam. Sa
+petite physiologie tenait dans le creux de la main il y en avait pour un
+franc cinquante. « On s'ennuyait » avait-elle dit, et elle s'était tue.
+Pas autre chose. On s'ennuyait'On! Qu'est-ce que tu ferais avec ça, au
+théâtre ? `? fut le premier mot qu'il prononça, en jetant sa cigarette.</p>
+<p>Je l'ai toujours pensé, observai-je. A Paris, l'amour et la mort sont
+des BLAGUES sérieuses 1 Et nous entrâmes chez Lemerre.</p>
+<p><pb/></p>
+<p>LA PEJXE DE MORT CHEZ LES SAUVAGES</p>
+<p>Il est impossible de lire sans frissonner d'épouvante ce que le
+capitaine Van Taregreb raconte, en ses notes de voyage, du cannibalisme
+de cet holocauste populaire, et ma. première pensée, je</p>
+<p><pb/></p>
+<p>Ne vous y trompez pas, mon révérend, lui disait le photographe bitterois
+ce que mon peuple veut, c'est voir couler le sang, charcuter la chair
+humaine et gigoter les troncs 1. Vous ne pouvez pas comprendre cette
+joie, parce que vous êtes chrétien d'abord et civilisé ensuite. Je ne parle</p>
+<p><pb/></p>
+<p>même pas du prêtre qui est en vous. Mais pour le moôbaâlite dévot et
+pratiquant, il importe que la mort soit sale, torturatoire et
+vocifératoire. Ah vous n'êtes pas ici en France</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>» A droite, il était flanqué d'un autre personnage silencieux que je
+jugeai être célèbre dans ta tribu, car sa venue avait secoué la foule
+d'un frisson d'enthousiasme. Je m'enquis de son nom. On me dit qu'il
+s'appelait Bou-rhô, mot qui signifie cc Portier de la Mort ». Je n'en
+demandai pas davantage. J'en savais assez; ayant vu la machine. ? »</p>
+<p><pb/></p>
+<p>plus vils Hurons et des Indous les plus proches de )abête.</p>
+<p>Et la tour Eiffel, sire, dis-je.</p>
+<p><pb/></p>
+<p>LA PEINE DE MORT CHEZ LES CIVILISÉS</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>l'Ecole des Beaux-Arts et attribuée, dans les concours, aux Grecs qu'on
+embête.</p>
+<p>Ethnographe, vous? Ah vous ne le voudriez pas 6t le capitaine. Et il lui
+tourna le dos, c'està-dire qu'il le lui opposa.</p>
+<p><pb/></p>
+<p>Et le bois de justice gisait sur le port de Marseille.</p>
+<p><pb/></p>
+<p>Et le bois de justice gisait toujours sur le port de Marseille.</p>
+<p><pb/></p>
+<p>Vous savez le reste.</p>
+<p>Alors, pourquoi guillotine-t-on?</p>
+<p>Qu'est-ce que c'est, ô siècle de Pasteur et d'Edison, qu'est-ce que
+c'est que cet instrument d'expiation, absurde, grossier, sauvage, dont
+les zélateurs même de la peine de mort ont horreur, et dont tout le
+genre humain rougit Quelle est cette profession, ô Bottin, gagée par
+l'Etat, et dépourvue</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>moyens savants donc le progrès dispose. C'est plus propre que d'envoyer,
+du haut d'une estrade, des jets-de sang sur les robes rosés. Et puis,
+vous le savez, c'est plus certain, car, guillotinés, les canards courent
+encore, et ça, ça fait rêver tout de même.</p>
+<p><pb/></p>
+<p>ET MÊME A BERLIN</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Hans-Mattheus, fais-toi équarrisseur.</p>
+<p><pb/></p>
+<p>Est-il possible? le cher enfant!</p>
+<p>– Monsieur de Berlin, î/'&lt;/OM please?</p>
+<p>– C'est ici, fit la blonde épousée en désignant son laboureur de
+hanches, et elle se retira discrètement entre les giroflées.</p>
+<p>A qui ai-je l'honneur d'offrir ces deux sièges?</p>
+<p><pb/></p>
+<p>interrogea-t-il en poussant des escabeaux de bois. Et ils dirent:</p>
+<p>– Nous sommes les représentants d'une riche société américaine,
+Américains nous-mêmes, qui désire vous acheter vos outils de travail,
+soit votre hache célèbre et votre billot immortel. Faites votre prix. On
+paye comptant.</p>
+<p>Je ne comprends pas, dit Krauts.</p>
+<p><pb/></p>
+<p>'– Votre prix est le nôtre. °</p>
+<p>– Elle n'en a pas, de prix 1 Elle vaut cinquantecinq vies humaines, et
+allemandes qui mieux est; elle a fait plus d'un demi-cent de damnés;
+elle a lui cinquante-cinq fois, comme l'éclair, dans l'aurore, et y a
+produit autant de tempêtes d'hommes. et de malédictions de Dieu. La
+vendre? Les vendre? J'aimerais mieux les offrir au fils de Guillaume
+Ier, l'empereur Barbeblanche, sous le règne duquel ils ont tant
+travaillé, elle et lui, la hache et le billot, son frère</p>
+<p>-En voulez-vous cinquante-cinq mille francs? insistèrent les amateurs. °</p>
+<p><pb/></p>
+<p>Madame Krauts surgit d'entre les giroflées. Ali Seigneur, qu'elle était
+pâle?</p>
+<p>–Hans-Mattheus!</p>
+<p>Tel fut son simple cri.- Ça, elle avait bien vu qu'il hésitait. On n'a
+pas douze enfants d'un homme sans savoir comment il s'y prend pour
+obtenir une surenchère.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>POUR NOS PETITS</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LA BONNE LIGUE</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>moyen d'ailleurs de prouver, chez moi, que je ne suis pas vieux jeu
+comme père de mon temps et qu'on peut encore s'entendre avec moi.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>LA RÉFORME DE L'ORTHOGRAPHE</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Une société, s'écriait-il, où l'on prononce « kaôtchou » et où l'on
+écrit « caoutchouc » est une société fichue, et qui finit comme la
+Chin.e, moins les bronzes t Nous en sommes au mandarinat. Toi, tu es un
+mandarin, tu tresses ta queue en nattes, et tu y mets des boules de
+jardin en verres de couleur. Moi, je veux une langue pour les truands,
+claire, transparente, avec des mots en cristal de roche, au travers
+lesquels on voie l'idée C'est pour cela que j'ai Mt des barricades.</p>
+<p>Pauvre Vallès! il est parti sans avoir vu ses mots en cristal de roche.
+Il était du pays où l'on</p>
+<p><pb/></p>
+<p>chuinte, de l'Auvergne, ô M. A. Darmesteter, où les chouettes
+elles-mêmes prononcent fouehtra Car si vous détestez le chuintement,
+Vallès l'abominait. Il en est mort, Bakounine du lexique, incompris des
+autres nihilistes et pris par eux pour un réformateur de lois, lui,
+l'artiste!</p>
+<p>Vous en mourrez aussi, monsieur le lexigraphe, car les jours sont loin
+ou l'Académie officialisera l'orthographe rationnelle de « kaôtchou ».
+Pendant bien des années encore, les truands de Jacques Vingtras,
+ignorant les secrets de la formation savante des mots, diront comme ils
+disent: « Caillou de chou », et ils croiront ainsi désigner.clairement
+cette substance.</p>
+<p><pb/></p>
+<p>tacles sur la piste du style, me criait, de son bureau, à. travers la porte</p>
+<p><pb/></p>
+<p>LE PRIX RAPHAËL BISCHOFFSHEtM</p>
+<p>Le chèque est arrivé rue de Grenelle au moment où Lockroy montait en
+voiture pour alier encourager n'importe quoi, mais quelque chose, car
+son métier n'est pas une sinécure. Il dut signer le reçu de la poste
+dans un courant d'air et sur son genou, avec un crayon rouge prêté par
+un censeur qui passait.</p>
+<p>Fait bizarre et désormais historique, le chèque</p>
+<p><pb/></p>
+<p>était inexpliqué. Il n'y avait dans l'enveloppe que le chèque et une
+carte de visite sur laquelle on lisait « Raph. Bisch. » --Comme c'est
+bien ça, les astronomes! Or, le premier mot de Lockroy, quand il fut
+revenu de sa surprise, étant un de ces mots qui signent le ministre de
+race, je vous demande la permission de vous le citer pour vous réjouir.</p>
+<p>C'est bien simple, Excellence, Ss-je. Voici. Le</p>
+<p><pb/></p>
+<p>« Non », disait-elle, et « au contraire ». Vous baissez!'me jeta le
+ministre sévère. Mon Eminence Grise avait son paquet et elle préparait
+une retraite décente, lorsque la sonnette du télégraphe personnel
+tintinnabula de nouveau, emplissant l'air des arômes de l'oranger et de
+la violette. La communication avec Nice était rétablie, et voici la
+dépêche que le papier de Morse déroula:</p>
+<p>» Ministre Instruction et Surmenage.</p>
+<p>» Suis juif et astronome, mais AoMM sum! Dites àDrumontqu~j'âiluTérence! a</p>
+<p><pb/></p>
+<p>» Ettfa&amp;ts trop malheureux dans ooitèges. Pas d'exercioès physiques.
+Rachitisme. Mbougrisme. Étiolement de la trace. Pas de revanche
+possible. Chance plutôt de retri potée.</p>
+<p><pb/></p>
+<p>Cicéron par celui de Guillaume Tell et de Chactas, ces enfants fabuleux
+qui pouvaient vivre, que dis-je resptrer~ dans une planète habitaiMe
+sans observer la loi du Que' Retranché et sans placer correct&amp;memt
+l'Esprit rude de l'accentuation grecque,. H les voyait au télescope! Il
+en existait Il y avait u.a lieu cosmographique, sous l'oeil élément de
+Dieu, où de jeunes créatures évoluaient dans leur milieu propre et
+s'activaient naturelle ment,, ne s'atr&amp;phiant pas dans le gaz des
+colles, n'étant pas toujours assis, toujours pemchés, toujours
+e-Nttasséset toujours gavés d'e science morte comm&amp; une oie est
+engraissée sans boire? Ah e'étaiàtiUM beM~. décea~erte,. et Loekroy.
+tout épanoui, ne put s'empêcher de dire</p>
+<p>Otï. sa epMra;i,t. eBi Angleterre</p>
+<p>!~e télégrapM rep~tiâ, tic, tic, tic, et le bon parEum d&amp; ta, aore'
+méditeBraHéemM, chargé des effluves Miôés; de la. dfaz~r, s'accrut dans
+le cabiMt. mBBsiiStsrMi.</p>
+<p>« Malgré l'engateue de'eette âépèehe', suis pauvre. Peux pas faire piMaqua-
+ emqi BMHs. Tachez tap~ RathisaMM~~estiian ~Me'p~Nr pa~ne
+françsise,, ~N'&amp; jfaa'me- Bt~s. BBaBMR't! ~ae' j'~me patrie
+tFan~ise!:Si-pédagegueeentempcpsin'tpou've moyen de réaliser idéal
+suivant d'éducation': an LaimaE~me ~M gëfa~ as Met~d', ea' stf ~Mtor</p>
+<p><pb/></p>
+<p>Hugo-Pasteur-Arpin, y a cinq mille pour lui. C'est toujours ça.
+Rothschild fera je reste.</p>
+<p>? Résume. La lune se cache. Nuages. Vois plus</p>
+<p><pb/></p>
+<p>– Il y a cinq cent dix-huit mots dans cette dépêche, observa Lockroy,
+pensif, et plus ému qu'il n'eût voulu le paraître.</p>
+<p>Comment cela?</p>
+<p>-Pour que les enfants français soient heureux au collège, il n'y a qu'un
+moyen et je l'ai trouvé – c'est Eté ne pas les y envoyer.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CALIBAN DANS SA STALLE</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LES ROUAN-CABOTS</p>
+<p><pb/></p>
+<p>directeur aurait saisi dans la défroque de feu Émile Perrin la vieille
+discipline de Tartufe, et il aurait rappelé ces enragés sociétaires au
+sentiment de leur. privilège! Allons, Claretie se forme et le chou
+mangera la chèvre</p>
+<p>Adonc le conseil judiciaire de ces illustres comédiens d'Etat, que j'ai
+appelés, pour les distinguer des autres les Rohan-Cabots, s'est réuni à
+l'appel de Claretie, et l'Édit de Moscou ayant été tiré de sa gaîne
+d'or, les gens de loi l'ont relu pour la six cent quatre-vingt-douzième
+fois, sans cracher, devant les héritiers de Môssieu Talma et de Mamzelie
+Racheli il résulte de. cette six cent quatrevingt-douzième Lect-ure d'un
+papier inepte,. suivie de sa.eonsuI.ta.tioB. q~ Coq~eLm a. le. droit
+d'exercée son art dans sa, patriie,, MM~ a frem~ ~Mes s la !'OHd6 autour
+&lt;~ CO~~S</p>
+<p>Parle encore, ô. mon empe~etM, parte toujours Pourquoi ces cent vingt
+kitlemètresï</p>
+<p><pb/></p>
+<p>–'Qui dit cela?</p>
+<p>BMBabepdi d'abord, puis son état-major, D~'poc, BertMer,!R8ustan,
+Cam'bacérèB'&amp;t les autres. Et ~oi'Ià-cem'me'nt OR t~ pince</p>
+<p><pb/></p>
+<p>-Tu n'es plus Talbot. Tu l'as été, quand tu l'étais. Hors d'ici, à
+trente lieues, en rond Coquelin nous guette. w</p>
+<p><pb/></p>
+<p>A Coquelin aûssi.-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>car la nausée est venue de ce vieux prytanée de favoris septuagénaires,
+de prébendiers avares et de btagueurs du grand art; !a boîte aux
+reprises a fait son temps.</p>
+<p>0 chèvre et ehou, s'écriera-t-ii, dites-le, vous qui: le savez! On. &amp;
+p~ar cinq cents tra'nes, devant un; pia.Bia~ ceux qui me reprochent
+d'être allé en Atnéptquis. L'Edit craque de: tous les eôtés.. C'est
+l'a~quie tîélégrarphe aérien perché sur un moH~lin verm-M' qui n'abfUte
+p'ms que des chouettes. Qui'on- le restaure ou! q.H''on' l'abatte, car
+l'éleetrieité est partit, et voM! l'âge d'Edison.</p>
+<p><pb/></p>
+<p>LA DÉMISSION D'UN SOCIÉTAIRE</p>
+<p>Il y a de gros événements qui ne sont point symptomatiques, et il y a de
+petits événements qui sont symptomatiques. Par exemple la démission de
+sociétaire donnée par Frédéric Febvre au Comité de la Comédie-Française
+est'un fait qui, au premier abord, paraît moins grave que l'attitude de
+l'Allemagne devant la Suisse? Eh bien! je ne y crains rien pour la
+Suisse, mais la'démission de Frédéric Febvre sonne la fin du monde..
+Personne n'a divulgué la raison de cette démission, et il semble même,
+au silence de la presse que personne ne la connaisse, que dis-je ne s'en
+préoccupe, comme s'il n'y avait pas au bout d'eUe une terrible
+représenta.tion de retraite d'abord! i</p>
+<p><pb/></p>
+<p>Majs ceci n'est rien, et j'y sens bien d'autres points noirs, dans la
+démission sinistre Scgpc stM!sM cavâ predixit àb ilice conM.s.dit Virgile.</p>
+<p>– Ce cher Caliban, il est surtout journaliste – Ge bon Frédéric, il est
+avant tout musicien</p>
+<p>Ainsi nous nous célébrons l'un l'autre dans le monde, devant les femmes
+de velours et de soie. Mais du -diable si je me doutais qu'il fût sur le
+point de briser son violon d'Ingres pour faire enfin de la. musique
+Cette démission du so-</p>
+<p><pb/></p>
+<p>ciétariat m'a. porté un coup. Oa prévient,. Frédéric</p>
+<p><pb/></p>
+<p>–Je préfère votre démission, répondit le ministre, et je l'accepte au
+nom de la Répabiique que mon fauteuil immuable symbolise, quel que soit
+d'ailleurs celui qui s'y assoit.</p>
+<p>Et il lui tourna son impersonnalite.</p>
+<p>Mais mon vieil ami Frédéric Febvre est un brave garçon qui n'a pas froid
+aux yeux et qui sait parler aux puissances.</p>
+<p><pb/></p>
+<p>Le Brie est toujours bon! fit le ministre, grave.</p>
+<p>– Aussi, qu'arrive-t-il ? poursuivit l'infortuné sociétaire, plus
+d'auteurs, plus de pièces, plus d'art dramatique! Cette branche, cette
+vieille branche.</p>
+<p>–Monsieur'ces familiarités!</p>
+<p>– J'irai jusqu'au bout tonna Frédéric, dussé-je vous rendre cette croix
+de la Légion d'honneur</p>
+<p><pb/></p>
+<p>qui me 'fait l'égal des plus grands et me permet de me couvrir devant
+vous ? On peut être ministre sans rien connaître de l'art des
+ministères. Mais on ne peut pas être juge d'un travail littéraire quand
+on n'est pas un lettré soi-même il suffit de se sentir honnête homme
+pour en convenir. L'institution est périmée, vermoulue, rococote et
+grotesque.. Il n'y a plus que l'Europe qui nous l'envie. Les écrivains
+fiers et timides ne passent plus notre porte et les braves ont peur des
+rats qui rongent le monument. Il faut changer cela, Monsieur de ia
+République, et si vos subventions sont maigres doublez-les °</p>
+<p>Ayant ainsi parlé l'excellent Frédéric saisit une plume et il éternisa
+sa courageuse démission. °</p>
+<p>Son sacrifice nous vaudra-t-il la réforme,- si mûre qu'elle en est
+blette; pour laquelle il se</p>
+<p><pb/></p>
+<p>dévoue, et que les lettres françaises réclament depuis trente ans? La
+République est si occupée ailleurs, qu-'il n'en faut rien espérer.</p>
+<p>La critique,, qui ne fait point de pièces, au contraire; trouve, par
+fatigue professionnelle sans doute, que les choses vont bien comme elles
+vont, pourvu qu'elles aillent. Le système d'ailleurs lui facilite sa
+besogne engourdie, et même il la lui raréËe délicieusement. Le scandale
+de toutes ces reprises offertes aux visiteurs de la Ville-Lumière
+pendant, une Exposition qui promettait d'ailleurs une renaissance,
+l'aveu d'infertilité honteuse qui en découle et le délaissement
+significatif de nos théâtres à. un moment où ils auraient dû crever de
+spectateu.c~rien de ces signes pourtant si clairs ne prévaudra contre
+cette fondation centenaire d'un homme que l'on traite de tyran pour
+toui~s ses autres créations.</p>
+<p>C'est, cela qu'a si bien senti mon vieil ami Frédéric Febwe. Au bout de
+vingt-cinq ans. et for-</p>
+<p><pb/></p>
+<p>tune faite, le rouge lui est monté de sa responsabilite accablante, et
+comme il a une conscience et beaucoup d'esprit, il s'en est allé
+avantl'effondrement. Malin, va</p>
+<p><pb/></p>
+<p>LA MALLE DE CAMBAÛËRËS</p>
+<p>C'est fini, par conséquent on peut parler sans compromettre personne,
+n'est-ce pas? Eh bien! sachez-le donc, puisque l'histoire commence, et
+profitez de la révélation pour la fois prochaine: si, le 22 septembre,
+le cou.p du général avait réussi et il devait' réussir 1 le 23, au
+matin,' Febvre avait l'Odéon et moi, j'avais la ComédieFrançaise r</p>
+<p><pb/></p>
+<p>Durand (lorsque vous revisionnez), par le terrible « agissement » dit du
+jRc~'smdMm. Mais en fait de Comédie-Française je vais jusque-là
+Avertis-en loyalement le général! » Et Mermeix, qui n'a pas tr~id au
+monocle, m'avait répondu:– Tu peux même aller plus loin » – de sa part.</p>
+<p>Et alors voici le 23, avant midi, je m'amenai, dans « mon monument a et
+j'y chambardais tout. – Lequel de vous, disais-je, farouche, en entrant
+dans la salle du comité, lequel de.vous est Jules Claretie, ou du moins
+ce qu'il en reste? – C'est moi, eût fait une voix faible, hésitante et
+académicienne</p>
+<p>Vous avez votre tablier? Rendez-le!</p>
+<p>Quoi' vous n'avez même plus la malle ?</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ainsi gémissait Jules Claretie, dans ce cabinet pénombreux où j'avais vu
+jadis glisser le spectre doux et formidable d'Emile Perrin, ce dompteur
+de cabots! Je Fécoutais gémir, l'infortuné, et je me disais :"– 'Voilà
+pourtant comme je serai le 22 septembre, lorsque le coup du général aura
+réussi! 1</p>
+<p>Mon cher camarade, dis-je, et prédécesseur fu-tur, vous pâtissez de deux
+anomalies qui sont les doubles-fonds de la malle introuvable de
+Gambacérès, si j'ose m'exprimer ainsi. L'institution de la
+Comédie-Française est mauvaise, parce qu'elle émane d'une idée fausse et
+bête. Cette</p>
+<p><pb/></p>
+<p>Entretenir une troupe de comédiens n'est pas une pensée démocratique nos
+mœurs libres s'y opposent. Ce pri.vilèg&amp; est périmé. Il ne peut renaître
+que si'te général trMmphe~ear alors vos persécuteurs redeviendront les
+comédiens ordinaires du général ils seront de sa maison. Il les emmènera
+en voyage les jours de. traité d'Erfsrth</p>
+<p>L'autre Mapessi-bHUé pour wus de vivre est dans la suibwBiti&lt;9s, ea
+plutôt d.aM. FMé&amp; Mate qmi' vous la donne. Recevoir du' gouvernement</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>MON PROJET</p>
+<p>A propos de mon dernier article "et au sujet de la longue campagne,
+assez brave peut-être, que je mène depuis quinze ans, seul et sans
+aide.. contre les fermiers généraux de la littérature dramatique – voir
+Monuments Comédie-Française le directeur des Beaux-Arts, M. Gustave
+Larroumet, homme libéral, droit et intelligent, m'a dit: a</p>
+<p><pb/></p>
+<p>périmé, et nous sommes tous là-dessus d'accord avec vous, qui l'êtes
+avec l'opinion publique. Mais la question est pendante depuis un
+demi-siècle, et aucun des intéressés, pas même vous, ne nous a encore
+proposé une solution pratique de ses problèmes. Avez-vous une idée pour
+la réforme du Comité de Lecture, et, si vous en avez une, pouvez-vous
+nous la dire avec la gravité requise? Parlez, on vous ouït des hauteurs!</p>
+<p>J'en ai une, monsieur le directeur, et je ne ris plus, puisqu'il faut ne
+plus rire, en France, pour être sérieux.</p>
+<p>Mais pensez-vous d'abord que tous mes confrèreE et les vôtres ne sont
+pas, comme dirait M. Lejeune, dés canailles? Les croyez-vouscapables
+d'être aussi honnêtes que les comédiens les.plus honorables, d'avoir une
+conscience et d'aimer, eux aussi leur patrie et sa gloire artistique?
+Car tout est là, et il y a beau temps que la réforme serait accomplie,
+même par le gouvernement le moins libéral, si on supposait qu'un
+littérateur français puisse être autre chose qu'un coquin doublé d'un
+imbécile.</p>
+<p>Moi, je le suppose, et mon projet repose sur cette hypothèse.</p>
+<p>Aussi ne vous le donné-je pas, ce projet, pour définitif et
+immodifiable, oh! non. Mais il aura eu</p>
+<p><pb/></p>
+<p>le mérite au moins de venir le premier et d'attester d'une belle âme, à
+qui rien de naïf ne demeure étranger, même en République. Enfin, il est
+la conclusion d&amp; la. campagne de quinze ans dont je parle. « Abo~is&amp;ez!
+» s'écriait Gamèetta. J'aboutis entre vos mains, cher monsieur Larroumet
+et voici ce projet modeste, dont la mise en oeuvre suturait peut-être à
+éterniser votre souvenir dans le cœur des dramaturges.</p>
+<p>LE JURY PROFESSIONNEL</p>
+<p>ARTICLE PREMIER</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ARTICLE DEUXIÈME</p>
+<p><pb/></p>
+<p>ARTICLE TROISIEME</p>
+<p>Et ici ma trouvaille et la fleur du projet</p>
+<p><pb/></p>
+<p>tufe s'il devait y perdre cinq cents francs. Est-ce vrai, chers maîtres ?</p>
+<p>ARTICLE QUATRIÈME</p>
+<p>La pièce jugée bonne et viable sera paraphée par le jury professionnel
+et marquée au sceau de la Société, qui en deviendra responsable et se
+chargera de son sort. Le « Maître qui l'aura reçue est son parrain et
+présentateur officiel. Il s'en constitue l'avocat auprès de qui de
+droit, soit le ministre de l'instruction publique ou son délégué, ie
+directeur des Beaux-Arts, lequel la dirige sur. les monuments dont
+l'Etat dispose, où elle prend son rang.</p>
+<p><pb/></p>
+<p>ARTICLE CINQUIÈME</p>
+<p>ARTICLE SIXIÈME ET DERNIER</p>
+<p>Les comédiens joueront la comédie.</p>
+<p>Tel est mon projet, monsieur le directeur, et quoique je l'aie fait
+grave, je vous vois rire encore</p>
+<p><pb/></p>
+<p>tant les questions de lettres semblent drôles en République t Mais si
+vous en riez, vous, tous mes confrères vont s'en tordre, et me voilà
+pour longtemps ridicule. C'est votre faute. II ne fallait pas essayer de
+nous sortir de ce marasme.</p>
+<p><pb/></p>
+<p>LA DÉCORATION DES COMÉDIENS</p>
+<p>Cette fois, c'est sur les noms aimés de Mounet$ully et de Worms, tous
+deux sociétaires et même artistes de talent, que le gai débat se
+renouvelle. Ils devaient être « crucifiés )) l'un et l'autre le 14
+juillet, en commémoration de la prise de .la Bastille, et. personne ne
+l'eût trouvé mauvais, car</p>
+<p><pb/></p>
+<p>ils sont honnêtes gens, et la Bastille a été prise pour tout le monde.
+Or, voici qu'au dernier moment la République s'est ravisée</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>et qu'il n'y a que de sottes gens, que tous les arts sont beaux
+lorsqu'on y excelle et qu'on peut être histrion et brave homme, il faut
+encore le prouver par l'acte mâle où se signent les âmes viriles, et
+c'est le comble du cabotinage que de se déguiser en créateur de
+fondations pieuses, en jardinier ou en philhellène pour décrocher une
+distinction qu'on a méritée autrement.</p>
+<p><pb/></p>
+<p>vont où le sort les conduit, par les grands chemins du bon Dieu,
+disputant leurs peaux aux loups, au publie et aux brigands, et semant la
+manne des lettres. Et ils sont de grands saints, si le culte de la
+poésie en comporte.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>oh! non, dites, ce serait trop invraisemblable: soyez sincères.</p>
+<p><pb/></p>
+<p>L'AGE AU THÉATRE</p>
+<p>Vous êtes-vous demandé pourquoi, au théâtre, on ne peut jamais avoir
+trente-trois ans? Car c'est ainsi. Dans aucun répertoire peut-être vous
+ne trouveriez le personnage fabuleux que son auteur aurait, au tableau
+des rôles, désigné sous cette rubrique traditionnelie</p>
+<p>Le comte, trente-trois ans.</p>
+<p>Ce comte n'existe pas, fût-il millionnaire et épris de la marquise. On
+ne peut pas avoir trentetrois ans sur la scène. J'ajoute qu'il est
+également interdit d'en avoir quarante-sept, par exemple. Pourquoi, je
+l'ignore. Mais cherchez, si vous ne me croyez pas, et relisez les
+maîtres. Nul n'a jamais eu trente-trois ans sous le lustre, ou
+quarante-sept devant la rampe. Il paraît que ce pro-</p>
+<p><pb/></p>
+<p>dige, avoir trente-trois ans, ne se manifeste que dans la vie réelle, je
+parle pour les hommes Car, quant aux femmes. c'est la même chose, et
+même pis!</p>
+<p>Au théâtre, la femme n'a que quatre âges, dits synthétiques, qui sont
+dix-huit, vingt-cinq, trente-six et cinquante ans. Les autres ne sont
+pas scéniques.</p>
+<p>Dix-huit ans, dans l'art de Scribe, cela donne la jeune fille nubile,
+dotée ou indotée.</p>
+<p>La cinquantaine, spécine la belle-mère, immarcessible Ex-duègue des
+anciens.</p>
+<p>Vingt ans. L'amoureux simple, pour pièces en vers.</p>
+<p>Vingt-cinq. Amant. Prose. Toujours brun. Le mari, deux âges symboliques.
+Trente-cinq, s'il tient tête au précédent quarante s'il écope.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le duc, père d'icelle. Soixante-et-un ans et demi. Tous ses cheveux,
+noirs. Admirablement conservé. Dix fois plus jeune que son gendre. Grand
+prix de vélocipède.</p>
+<p>Firmin, domestique. Acte de naissance brûlé</p>
+<p><pb/></p>
+<p>pendant la Commune. En profite, quoique conservateur.</p>
+<p>Shylobsek, usurier infâme, persécuteur du capitaine. Sans perruque,
+contemporain de Robespierre. Avec perruque, vient de naître.</p>
+<p>La duchesse douairière. Tellement âgée qu'elle croit avoir vu la Fronde,
+ne parle plus, mais danse encore.</p>
+<p>Où seraient les rôles, en effet, et comment réaliser une telle
+conception ? On a beau rêver de régénérer l'art dramatique ou tout au
+moins d'en aérer Ia' formule, les caractères y sont bornés aux emplois
+et les emplois' aux âges respectifs des 14.</p>
+<p><pb/></p>
+<p>Il est clair que dans ces confions Fart dramatique n'est pas un art,
+mais proprement une religion dont la pièce est la messe.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>LE THÉÂTRE ET LÀ VÉRITÉ</p>
+<p><pb/></p>
+<p>–~Par un phénomène particulier aux Écoles nouvelles, mais que M.
+d'Ennery, par exemple, n'a pas éprouvé, il est humainement impossible au
+naturaliste de ne pas être vrai, le voulût-il, aussi bien en histoire
+qu'en physiologie contemporaine. Le duc d'Enghien de Léon Hennique est
+mathématiquement exact. Ce n'est même pas de la photographie, c'est du
+MoM~M)' instantané.</p>
+<p><pb/></p>
+<p>Vous verrez, vous verrez me criaient-ils de l'escalier par où ils
+dégringolaient, pleins d'espoir, cette fois ce n'est plus Antoine qui
+tiendra la chandelle, c'est Porel Il y aura premier baiser.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>comprendre que la Convention n'est pas tuable, d'où il résulte qu'elle
+serait immortelle. Alors il ne resterait au Théâtre d'autre recours que
+celui de la répudier pour épouser la femme nue; et qu'est-ce qui se
+passerait alors? Au bout de quelque temps, ce bourgeois s'embêterait
+avec la Vérité et il mettrait la Convention dans ses meubles. Je
+n'explique pas autrement Shakespeare. Shakespeare n'est pas plus vrai
+que Molière, et Molière pas plus conventionnel que Shakespeare. Mais le
+Théâtre de Shakespeare a la Vérité pour épouse et la Convention pour
+maîtresse. C'est le contraire pour le Théâtre de Molière la Convention
+est la ménagère et la Vérité la concubine. Le génie n'est peut-être que
+d'accorder ces deux mégères. Ils l'ont eu.</p>
+<p>Si le Théâtre ne devait être que le portrait exact de la vie, il serait
+si assommant qu'il le deviendrait autant qu'elle. Or, ceux qui l'aiment
+disent de lui qu'il est bon quand il les divertit de la vie</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LA DANSE DES MUSES</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>QUE D'ART! QUE D'ART!</p>
+<p>Que d'art!</p>
+<p>La quantité de Français, nés malins, qui ne peuvent pas faire autrement
+que d'être grands poètes, grands peintres, grands musiciens, grands
+statuaires ou grands dentistes, au choix et sans préférence, est telle
+que Paris en devient inhabitable. On n'y rencontre plus que des génies.
+Seuls les simples gens d'esprit disparaissent. Quant au talent, c'est
+toujours la même dose. Très rare. Mais les génies, oh! comme ils
+surabondent! Nous vivons en des temps de vocations effroyables. Que
+d'art! Que d'art!</p>
+<p><pb/></p>
+<p>goût décidé pour le commerce, l'agriculture ou la douce colonisation,
+d'affreux soupçons viendraient au père sur l'origine du monstre. Non
+seulement il accuserait la maman d'adultère, mais il chercherait encore
+avec quel Américain elle a pu le commettre, car, du sang latin, il ne
+peut sortir que des artistes! Cet enfant, qui n'est pas comme tous ceux
+de sa race, doué par toutes les Muses, ne saurait être qu'un produit du
+NouveauMonde.-</p>
+<p>Voici vous me permettez? comme je l'imagine.</p>
+<p>LE PÈRE. Approche, mon garçon. Tu es majeur, donc la nature a parlé en
+toi. Prends ces brosses et cette palette, et fais-moi un Rubens!
+J'attends. LE FILS. – Je ne sais pas.</p>
+<p>LE PÈRE. Alors saisis cet ébauchoip, et dans cette motte de terre
+glaise,, égale, sous mes yeux, Michel-Ange.</p>
+<p>LE FILS. – Je ne peux pas.</p>
+<p>LE PÈRE. -Voici un dictionnaire de rimes. C'est celui de Rothschild
+lui-même. Double ou dégot&amp; Victor Hugo en ma présence*'</p>
+<p>LE FiLs.– Ce serait avec plaisir, mais!</p>
+<p><pb/></p>
+<p>LE FILS. Mais, papa!</p>
+<p>LE PÈRE. Minute. Tu m'appelles ton père. Le suis-je? Cela dépend de ta
+vocation. Latin, né d'une Latine, quelle est-elle, ta vocation ?</p>
+<p>LE FiLS.–Je voudrais gagner trois millions dans les suifs</p>
+<p>LE PÈRE. -Et tu te dis mon fils Arrière, tu n'es même pas Français! Tes
+onze frères sont plus ou moins de l'Institut, de l'Académie, ou au moins
+du Chat Noir. Pas un qui ne touche de l'aquarelle, ne rende les Lanciers
+sur le piano et n'ait publié c, quelques stridenceslyriques chez
+Lemerre. Tes huit soeurs gazouillent comme l'oiseau même et enterrent la
+Malibran tous les jours. Tes cousins pincent de tout et parmi nos
+connaissances et amis j e ne sache personne qui n'ait droit, soit surla
+flûte, soit sur le tambour, au titre de « Cher maître. » Le moins doué
+est photographe Tu n'es donc pas des miens. Tu viens d'Amérique.
+Retournes-y, bourgeois!</p>
+<p>Et il le chasse. Aux actes suivants, le jeune homme, déshonneur de sa
+race, car il n'est pas artiste, fait graduellement, dans les suifs rêvés,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Me demander s'il y ? un Desgenais dans l'œuvre, c'e&amp;t me demander si je
+sais mon métier. Il y en a un. Ce personnage, que j'ai fait aussi grinchu</p>
+<p><pb/></p>
+<p>qu'il est permis de l'exiger de' ma nature souriante, est surtout
+insupportable en ceci qu'il veut savoir tout le temps ce qu'on entend
+et. France par l'expression une vocation contrariée.</p>
+<p><pb/></p>
+<p>temps d'aviser. Je propose un ministère de Découragement artistique.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>LA LANGUE FRANÇAISE</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>UNE SÉANCE DE DICTIONNAIRE A L'ACADÉMIE FRANÇAISE</p>
+<p><pb/></p>
+<p>rêve. Soigneusement caché dans la salle, mais placé pour tout voir et
+pour tout entendre, j'ai tout vu et tout entendu, mercredi dernier.
+Voici 18 février. Mercredi des Cendres.</p>
+<p><pb/></p>
+<p>comme partout, ajoute-t-il galamment, et toujours.</p>
+<p>– J'arrive pourtant de Croissy, observe le nouveau venu, homme de haute
+stature, portrait vivant de Henri IV, et dont le nez busqué, cassé .très
+haut, considérable et formant éteignoir, empêche seul les petits yeux,
+étoiles étincelantes, de se joindre et de mêler leurs feux.</p>
+<p><pb/></p>
+<p>brûle les doigts. Nez bulbeux et tuberculeux, comme celui du Ghirlandajo
+du Louvre, dans la galerie des Primitifs. Ce Quarante, comme les deux
+autres, est une des gloires de la patrie française son seul grand
+prosateur contemporain peut-être; il s'appelle Renan.</p>
+<p>–Messieurs, dit le Perpétuel, nous pouvons commencer. L'Académie
+Française est au complet.</p>
+<p>Ils n'en veulent rien croire, modestes. Le Perpétuel leur explique alors
+que, comme d'habitude pour les séances de lexicologie, les ~ucs se sont
+excusés.–Nous ne pouvons que vous gêner, ont-ils écrit. Quant aux
+jeunesses académiques, confiants dans leurs chefs de file, ils s'en
+remettent sur eux de la besogne. Ils jettent leurs dernières étincelles,
+ainsi que de leur âge, dans le monde où l'on s'amuse. Les professeurs
+donnent</p>
+<p><pb/></p>
+<p>Du haut du ciel Richelieu tend l'oreille. Moi, je l'y vois, avec ma
+lorgnette.</p>
+<p>ALEXANDRE DuMAs. Déjà.? comme le temps passe 1</p>
+<p>LECONTE DE LISLE. Abracadabra est un beau mot, beau surtout pour
+lui-même, sonore, et qui remue les mandibules. Prononcé fréquemment et
+avec une vitesse graduée, il exercerait la diction au Conservatoire. Je
+n'en pense ni moins ni davantage.</p>
+<p><pb/></p>
+<p>ERNEST RENAN. -Abracadabra est cabalistique et onomatopeux</p>
+<p>Tous.–Onomatopeux'Oh!</p>
+<p>LE PERPÉTUEL.–Onomatopée n'a pas d'adjectif, chef. maître.</p>
+<p>ERF.EST RENAN (Il cASK&lt;OMMë~. -Nous saurons cela, Camille, dans douze
+cents ans!</p>
+<p>A pile ou face, s'écrie-t-il, en riant.</p>
+<p>Mais le jeton retombe dans son gousset distendu, car cet immortel est
+prestidigitateur émment. Surprise et. gaieté générales dans l'enceinte.
+Le Perpétuel propose d'épingler au mot Abracadabra l'abréviation « Inus.
+qui veut dire Inusité. Et Richelieu tend de plus en plus l'oreille dans
+les nuées.</p>
+<p><pb/></p>
+<p>ERNEST RENAN. Merci. Je ne fume pas, mais je lis le Petit JoMnta~. Il
+tire cet organe de sa profonde, le déplie et court visiblement au
+feuilleton.</p>
+<p>LECONTE DE LisLE. -A moi le Ramayana! (même jeu).</p>
+<p>ALEXANDRE DUMAS (~ Em! jlM~M! – Mon cher, en voici une bien bonne. Si
+vous la connaissez, arrêtez-moi. C'était dans une de vos pièces.
+ËMiLEAcGJER.–Pardon,unedesvôtres,Alexandre! ALEXANDRE D.UMAS.–Mais non,
+puisqu'il s'agit t d'une cinq centième. Donc, la petite Tarentule, une
+mousseuse, avait un béguin pour un cabot, lequel n'avait pas un
+fifrelin. Il s'agissait de faire casquer son Brésilien.</p>
+<p>ËMiLE AUGIER ~!MM( bras). – Quand je pense. que je vous comprends,
+quoique de l'Académie! LE PERPÉTUEL. -Messieurs, je suis au désespoir de
+vous interrompre; mais vous. n'êtes que quatre pour forger la langue, il
+faut la forger. Abracadabrant, d'où plus tard abracadabrance, est
+l'adjectif nécessaire du mot auquel vous avez fait l'honneur</p>
+<p><pb/></p>
+<p>-Nous en faisons épatant s'écrie Renan en froissant son Petit JoM)'ML</p>
+<p>Et avec mademoiselle Subra, dit Dumas. Dans douze cents ans, qui le
+saura? demande Renan.</p>
+<p>LE PERPÉTUEL.–Messieurs, la séance est levée. EMILE AuGŒR. – C'est une
+de nos bonnes.</p>
+<p><pb/></p>
+<p>ÉTUDES DE LOGIQUE</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LE JEU.</p>
+<p>Je n'ai jamais mis le pied dans un cercle, et, quant au baccara, voici
+lorsqu'on me l'explique, je le comprends; mais, l'explication terminée,
+je ne me soutiens plus de rien du tout. Il en résulte que je ne peux pas
+y jouer. Alors je n'y joue pas. .Eu fait de jeux, je vais jusqu'au
+bilboquet, mais pas plus loin. Le bilboquet est clair, sa combinaison
+est simple on prend un trou dans une boule et on !e combre auvolTMais i1
+faut être adroit pour réussir. Comme je ne suis pas adroit, je ne joue
+pas non plus au bilboquet.</p>
+<p>– A rien.</p>
+<p>– Que faites-vous donc pour vous désennuyer2 – Je vis, ou tâche de
+vivre, sous les lois.</p>
+<p><pb/></p>
+<p>Il est possible, d'ailleurs, que le baccara soit amusant pour ceux qui
+l'entendent, et j'ai vu des personnes si passionnées pour le bilboquet
+qu'elles y jouaient, en marchant, dans la campagne. Je les envie si
+elles sont heureuses. Mais le sont-elles ? Tout est là. Le piano passe
+bien pour un art d'agrément</p>
+<p>Cela dépend des enjeux engagés, répond assez sottement la philosophie
+sociale. Un enjeu de deux sous n'est point illégal un enjeu de deux cent
+mille francs l'est Pourquoi, si les joueurs sont deux Rothschild, par
+exemple? Dites-moi, je vous prie, en quoi l'Américain M. Jay Gould (qui</p>
+<p><pb/></p>
+<p>Il est vrai que l'État vend des cartes. Il a même</p>
+<p><pb/></p>
+<p>Mais que sera-ce si, forte de notre nouvel impôt sur les cercles, la
+dame tripotière exhibe au commissaire sa bonne quittance de
+contributions, prouvant et démontrant patente ? A quoi pensera la pensée
+vivante du législateur, triste pensée</p>
+<p><pb/></p>
+<p>Oui, il y a encore trop de croyance pour moi dans cette passion du jeu
+ou toutes les superstitions se greffent d'elles-mêmes, et, latrie pour
+latrie, si j'éprouvais le besoin d'une foi, je choisirais d'autres
+icônes que l'as de pique, car il y en a de bien plus jolies dans les
+différents cultes où s'est raccrochée la pauvre âme humaine.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>tole français. Vous pouvez la maudire, mais la supprimer, jamais. Avec
+quoi paierait-on le gaz qui l'éclaire?</p>
+<p><pb/></p>
+<p>tourner, tourner la girouette de cet esprit lamentable, et j'entendais
+craquer tous ses ressorts faussés.</p>
+<p>Et il fondit en larmes.</p>
+<p><pb/></p>
+<p>TRISTESSE DU DIMANCHE</p>
+<p><pb/></p>
+<p>Dès la veille de la fête, le vendredi treize, j'en avais eu un fâcheux
+pronostic. Il faut vous dire que, sur la dune que j'habite, l'eau est
+rare et que force m'est, en ce moment, d'y faire creuser un puits. Or,
+dans le sable, au bord de la mer, le métier de puisatier est dangereux
+et pénible, et, toute la semaine, mes braves ouvriers s'étaient escrimés
+du croc, du broc et de la pelle, parmi les éboulements, les glaises
+grasses et les rocs. Donc, le vendredi treize, j'allai tailler avec eux
+un bout de bavette bretonne.</p>
+<p>Bonne journée, celle de demain, leur dis-je, Journée de fête, de repos
+et de plaisir! Si le temps est favorable, vous allez vous en fourrer
+jusquelà, en l'honneur de la république.</p>
+<p><pb/></p>
+<p>Stupéfait d'avoir été compris de la sorte par ce bonhomme</p>
+<p>Ne peut-on, repris-je, s'amuser sans boire A quoi, monsieur? dirent les
+autres naïvement.</p>
+<p>-De mon temps, nous avions l'église Le matin,</p>
+<p><pb/></p>
+<p>c'était la messe, et, l'après-dîner, c'était les vêpres.Ça tuait le
+temps des jours de fête. A présent qu'on est mieux instruit, plus libre,
+depuis enfin qu'on sait pour qui l'on vote, tout se passe autour des
+bolées. On ne s'en amuse pas davantage et tous les jours les heures
+traînent! Mais boire, jouer ou faire ce que vous savez, sauf le respect,
+c'est tout un et péché pour péché. M'est avis, monsieur, que tous les
+plaisirs sont des vices, et même qu'il n'y en a point d'autres sur la
+terre. Entendre professer par un puisatier breton que les plaisirs ne
+.sont autre chose que des vices satisfaits, .'c'était rencontrer
+Schopenhauer étiez Pangloss! Mais que devins-je, lorsque mon borgne,
+m'apostrophant, me poussa le coup droit que voici</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le lendemain, 14 juillet, tandis que j'arpentais ma petite grève déserte
+en égrenant des rimes sur les premières vagues, j'aperçus mon puisatier</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>POLITIQUE ET POLITIQUETTE</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>JE CONCOURS!</p>
+<p>Mais n'importe, je concours, j'expose! À moi les lingots d'Osifis 1</p>
+<p><pb/></p>
+<p>Mais n'allons pas trop vite. J'ai dit qu'eUe était</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>sous de la fente de tirelire dans laquelle on glisse son opinion.</p>
+<p>f 2'l p L</p>
+<p>~(D+P')=~</p>
+<p><pb/></p>
+<p>Ils disent, par exemple, que M. John Lemoinne se porte bien, et pas
+autre chose. C'est ce que veut l'Europe.</p>
+<p>Je m'arrête, car j'entends rire Adrien Hébrard. Et il est mon juge!
+Qu'il sache, toutefois, que si je concours a.u prix Osiris, c'est en
+chambre. J'ai</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>LA RÉPUBLIQUE HONNÊTE</p>
+<p><pb/></p>
+<p>Je suppose que, un matin, sur le boulevard, vers midi, vous vous
+trouviez en présence de deux poli-</p>
+<p><pb/></p>
+<p>ticiens éminents dont l'un (une franche canaille) nous aurait rendu sans
+coup férir l'Alsace et la Lorraine,' et, dont l'autre (un parfait
+honnête homme) ne nous aurait rien rendu du tout-avec lequel
+aimeriez-vous déjeuner?</p>
+<p><pb/></p>
+<p>lui paierai des contributions délicates. Cet idéal est charentonesque.</p>
+<p><pb/></p>
+<p>J'ai souvent pensé que cet idéal falot de la « République honnête avait
+été. comment dire. poncivé dans l'esprit populaire par l'image
+allégorique du système qu'elle représente.</p>
+<p>Feu Daunou, qu'on peut citer, sans être obligé</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>En fait de République honnête, je n'en connais qu'une, c'est celle que
+l'on a, quand on la garde, si on y tient! Son honnêteté, c'est d'être
+telle qu'elle est, et sa vertu, c'est de durer tant qu'elle. dure.</p>
+<p>L'unique malhonnêteté que puisse commettre une République, ce serait
+d'être une Monarchie, de même que la canaillerie d'une Monarchie serait</p>
+<p><pb/></p>
+<p>d'être une République, et, en politique, c'est très simple, ces crimes
+se paient de la tête. On en meurt. Inutile ~e se monter d'avance et de
+fulminer.</p>
+<p>ENVbi. – Mon général, dedans Bruxelles, où vous moisissez, cherchez, et
+m'en croyez, un autre terrain électoral que le. poncif de la République
+hon,nête. Nous l'avons sans vous, puisqu'elle vit.en votre absence. Si
+elle ne vivait pas, elle serait morte, car alors nous aurions la
+Monarchie et vous seriez là, dans la ville où les calebasses font boum</p>
+<p><pb/></p>
+<p>LE PAS DU VOLCAN</p>
+<p><pb/></p>
+<p>des bois, et sur l'invite du chef de famille, les danseurs, les enfants,
+tous sortirent pour voir les étoiles.</p>
+<p>Pourtant on avait voté toute la journée! Un fâcheux en fit la remarque a
+A l'heure où nous sommes si heureux, devant ce ciel de France, !e plus
+doux et ie plus beau du monde-, et tandis que nous nous sentons vivre,
+le sort de la République</p>
+<p><pb/></p>
+<p>Je ne suis pas le Diable Boiteux, de Lesage, et je n'ai pas le don de
+voir au travers des toitures ce qui se passe dans les maisons des villes
+ou les chaumières des campagnes; mais je parierais bien que cette vitia
+bretonne sur sa grève déserte n'é- tait pas la seule demeure en France
+oè, le 23 septembre, de bonnes gens honnêtes, sains d'esprit, laborieux
+et gais se battaient feeit du suffrage universel. Car- ce qu*oa en a
+assez et }nsque-!à, ce n'est rien de le dire. Ah bonté de Dieu, quelle
+scie 1</p>
+<p>Que les Welches, comme dit Voltaire, aiment à</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Seulement, on s'en aperçoit, et les jeunes gens qui nous suivent sur le
+chemin cahoteux de la vie déclarent hautement qu'ils se désintéressent.
+Ils aiment mieux danser que.voter, et quand on vote ils organisent des
+rondes autour des philosophes moroses. lis leur font sauter le &lt; pas du
+volcan » après les avoir costumés en « chardei'Ëtat)), tandis que les
+météores s'éclipsent dans les plaines bleues du firmament.</p>
+<p>Oui, c'est leur droit. D'abord, leurs pères le leur ont acquis par cent
+ans d'expérience stérile et douloureuse du système. Puis, ils le payent
+eux-</p>
+<p><pb/></p>
+<p>Allez, dansez au bord de la mer, et moquez-vous des. philosophes
+moroses. La sagesse est là, et tandis que vous vous divertissez, les
+étoiles filent, filent et disparaissent dans le ciel éternel de la patrie.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>HISTOIRE</p>
+<p>CALIBANESQUE DE LA BOULANGE</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>L'HOMME PROVIDENTIEL</p>
+<p>Allons, bon encore un homme providentiel dans l'assiette au beurre</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Et le sauveur va! tout-s'écarte pour le laisser sauver la France. Merci,
+mon Dieu 1</p>
+<p><pb/></p>
+<p>temps de paix notamment, surtout sous les Républiques, les hommes
+providentiels surabondent. Il n'est pas de femme en couches qui n'en
+mette au monde. «Encore un petit Napoléon, ma chères, se disent nos
+républicaines fécondes, en se tendant leurs derniers produits Aussi, les
+statisticiens étrangers ne parlent-ils plus de nos quarante millions
+d'âmes. Ils enregistrent plus justement nos quarante millions de
+providentiels des deux sexes. D'où il résulte, au regard du philosophe,
+que, chez nous, les grands hommes sont plus nombreux que les événements
+qui les font naître.</p>
+<p><pb/></p>
+<p>Enfin, on va voir.</p>
+<p><pb/></p>
+<p>1</p>
+<p>ENTRE JACQUES ET GEORGES</p>
+<p>Le ~7 Janvier.</p>
+<p>Eh bien.et moi?</p>
+<p>Oui, moi, Caliban. Et pourquoi pas, puisqu'il ne s'agit que de remplacer
+M. Hude, et puisqu'on n'a trouvé qu'un distillateur pour doubler un
+marchand de vins Donc me voici et je la pose Cette candidature; Porel
+est peut-être le seul citoyen citoyennant de ce temps de gelée blanche,
+fatale aux hanetons, qui osera la débiner. Encore n'est-ce que par
+jalousie, car il sent .très bien que, lui aussi, il est opposable
+augénéral et qu'il suffirait.</p>
+<p><pb/></p>
+<p>Pardon~ mais moi aussi. Et l'on cherche 1</p>
+<p>Comme toute idée vraiment bonne, la mienne est simple. Veuillez tendre
+l'oreille, chers électeurs.</p>
+<p>Lorsqu'un ..député meurt, on l'enterre. Je ne crains pas de dire que
+c'est stupide. On l'enterre en effet sans phrases et tel un vague
+contribuable ayant contribué. Le président de la Chambre se léve, se
+coiffe et dit lacédémbniëusemeat</p>
+<p>–Messieurs,notrecpIIègue,l'honoraMeM. Hude, ?st décéder.</p>
+<p><pb/></p>
+<p>beaucoup trop aride dans une république parlementaire où le député est
+potentat et allégorise tout un arrondissement. Caliban y voudrait une
+oraison funèbre, prononcée au Parlement, et qui ne durerait pas moins de
+deux heures, fût-on Bossuet ou Thomas,</p>
+<p>Telle est l'idée.</p>
+<p>Ah! ne vous hâtez pas de la juger puérite! Elle est grosse de
+conséquences. Elle peut sauver la patrie française. Ma candidature n'a
+d'autre but que de l'accréditer dans le corps électoral, de l'y
+inoculer, si vous l'aiïaez mieux, et. c'est pour cela que je la pose
+Paris, Babylone des mastroquets, c'est ici une grande et belle réforme
+démocratique, et telle que ton général n'est pas fichu de t'en octroyer
+une pareille.</p>
+<p><pb/></p>
+<p>Ah songez-y Etre député, c'était charmant, mais c'était trop facile. Un
+décès choisi, et vlan! on s'incrustait dans le siège du décédé. Mais la
+réforme de l'Éloge exige que, pour l'être, on tienne le crachoir publie
+et parlementaire pendant deux heures d'horloge, et qu'on célèbre
+mérites, vertus, attraits, ongiaeSj intégrité, zèle, génie, votes et</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Cet éloge du député d'Issy, il n'y a que moi qui sois capable de le
+faire et par conséquent de lui succéder. Je sais beaucoup de mots, même
+d'inusités, et j'ai des adjectifs plein les mains. Et puis j'ai
+travaillé ce Bossuet qui, de rien, tirait des chefs-d'œuvre.</p>
+<p>« Electeurs, Pères Conscrits, Messieurs,</p>
+<p>? La tâche incombe au lexicologue de parler pendant deux heures d'un
+représentant qui ne représenta jamais, n'émit aucun son oratoire, vota
+par secousses et fut absent par congé i</p>
+<p>» Electeurs, ce commerçant honorable~ intelli-</p>
+<p><pb/></p>
+<p>gent et mort jeune, là-bas, là-bas, où les citronniers fleurissent, et
+dont on ne sait rien sinon qu'il fut député, ne s'en fit gloire ni
+mérite, et vécut ignoré même de ses commettants enthoùsiastes il fut un
+vrai père du Peuple, et le Suffrage universel n'en a pas produit de plus
+admirable, ni dans ses serres, ni dans ses jardins Que la mémoire de
+Hude soit bénie Il n'a attaché son nom àaucune loi! Il ne laisse aucun
+amendement! Pas un rapport n'obscurcit cette figure historique, que
+dis-je, légendaire. Il vota quand il put, et'ne put jamais. Ce fut un
+sage !? »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>n</p>
+<p>LE COUP FLOQUET, DIT « COUP DU MAQUI. » le~yya'HM'M'.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ceux que nous buvons et que le Caveau célèbre encore.</p>
+<p>Tfes malin, le général comprit tout de suite, et sans 'âcber sa
+cigarette, que, une candidature visée par le Laboratoire, il fallait
+opposer une candidature de pur ~ampêche, et, dans un talus qu'il piqua,
+il promit, pour le 28 au matin, la tête~esLaborateurs aux marchands de
+vins épanouis et alcoolises (sans moût) par l'enthousiasme.</p>
+<p><pb/></p>
+<p>Or c'était un coup magnifique; il assurait presque le triomphe du
+général qui n'a jamais mieux mérité qu'en ce moment d'être qualifié de
+division.</p>
+<p>Prenez garde ne scellez pas le pacte sans y ajouter une clause
+rédhibitoire. Etablissez bien nettement que vous vous réservez le droit
+de faire venir, comme tout le reste, votre vin personnel d'Amérique, et
+de ne point user des produits de vos électeurs, même pour trinquer avec
+eux. Il y va de votre vie. Souvenez-vous des Borgiâ Craignez
+l'ingratitude! Elle est, vous le savez mieux que personne, la base de la
+politique. Dès qu'ils vous auront nommé, ils voudront tous être vos
+fournisseurs, et vous mourrez alors dans des crampes atroces, fuchsine
+jusques aux moelles, comme la majeure partie des contribuables. Il ne
+m'aurait pas cru. La gloire aveugle. Je le sais. Mais enfin, quelqu'un
+l'aurait averti de sa gaffe immense. Car elle est immense. Vous verrez</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>QUINZE CENTS TONNES</p>
+<p>A côté de cette révélation formidable, une charmante poésie d'André
+Theuriet exhalait son arome celtique, car le propre et l'exquis du
+Temps, c'est de ne s'émouvoir de rien, de couler les choses en douceur,
+et de mener de front sans préférence la littérature, l'oenologie, la
+politique et la température. Ainsi le veut mon vieil ami Adrien Hébrard,
+qui pourtant est du Midi. Mais quand un méridional se calme, il dépasse
+un Norwégien.</p>
+<p>Donc Theuriet chantait et la note disait</p>
+<p><pb/></p>
+<p>Je vous a~eue que je n'y entends riea. Depuis</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>III</p>
+<p>L'ABSTENTION OU OPINION DES MANDARINS. Le 27 janvier.</p>
+<p>Voyons, Caliban, soyez carré me dit ce politicien barbu, éminent et
+sonore. Êtes-vous ou n'êtes-vous pas boulangiste?</p>
+<p>Hélas monsieur, je ne le suis même pas! fis-je.</p>
+<p>Alors, vous êtes jacquiste?</p>
+<p>Il daigna sourire et reprit d'une voix plus douce:</p>
+<p>– Quoi, ni l'un ni l'autre? C'est extraordinaire Ah! j'entends Vous êtes
+bouliste?</p>
+<p>–Bouliste?. demandai-je en rougissant de</p>
+<p><pb/></p>
+<p>mon ignorance. A quoi cela se voit-il qu'on est bouliste? Je ne savais
+pas qu'on pût être bouliste en 1889 Si je le suis, croyez bien que c'est
+sans m'en douter tel que je me connais, je serais plutôt « bambouliste
+», si, du moins, j'étais quelque chose.</p>
+<p>C'est dimanche la grande élection, Caliban, celle où l'on se compte.
+N'étant ni bouliste, ni jacquiste, ni boulangiste, qu'êtes vous ?</p>
+<p>– Je suis triste.</p>
+<p>Mon politicien tremblota savamment son absinthe tandis que je « salopais
+a la mienne, but une gorgée du fiel aromatique, s'essuya la barbe et dit</p>
+<p>– Est-ce qu'il y a un nouveau candidat, un candidat de la dernière heure?</p>
+<p>Vous le sauriez, saluai-je poliment.</p>
+<p>Eh bien! alors, tonna-t-il, pour qui voterezvous donc demain?</p>
+<p>Posée avec cette violence, la question eût troublé certainement une âme
+moins candide que la mienne. Mais je ne sais rien cacher de ce que je
+pense, et comme je pense qu'il est inutile de voter quand il n'y a à
+voter pour personne, j'avouai</p>
+<p><pb/></p>
+<p>– Pardon, repartis-je, quelqu'un sera-t-il élu? – Certainement. L'un des
+trois compétiteurs l'emportera sur ses rivaux, soit au premier tour,
+soit au ballottage.</p>
+<p><pb/></p>
+<p>Par exemple?</p>
+<p>Donc, les deux autres auront moins? Mais si M. Jacques, je suppose,
+obtient ce quart de cent cinquante mille votes, si le général en
+décroche cent vingt mille et si M. Boulé en atrenLe mille autres,
+combien restera-t-il d'électeurs, sur le total des inscrits, qui se
+seront, ainsi que moi, battu l'œil de l'élection ?</p>
+<p>Mais trois cent mille, ô mon poète.</p>
+<p><pb/></p>
+<p>C'est peut-être, monsieur, fis-je gravement, qu'aucun d'eux ne mérite de
+l'être.</p>
+<p>– Tiens! dit-il pensif, vous n'êtes pas aussi poète que vous en avez l'air.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le droit de dire zut est aussi le droit du contribuable, et, pour être
+un peu spirituel, le patriotisme ne perd rien de sa vertu. Les classes
+instruites, qui sont -tes vrais '(MsMmté'es, 'prient la MpuMquB de leur
+conférer 'c'ett~ façon de ré-</p>
+<p><pb/></p>
+<p>pondre, soit zut quand on leur pose des questions qui n'ont pas le sens
+commun. Il n'y aura pas besoin pour cela de chambarder le mécanisme du
+suffrage universel, il suf6ra d'en accorder la machine. Que l'abstention
+compte. Le papier blanc pèse autant que le papier écrit. La parole est
+d'argent et le silence est d'or. Le nôtre signifie que l'élection est à
+recommencer et que Paris attend quelqu'un.</p>
+<p><pb/></p>
+<p>IV</p>
+<p>LE LENDEMAIN</p>
+<p>Le~7~HO:e)'.</p>
+<p><pb/></p>
+<p>plus aux Annales de la brutalité humaine. Hélas! Est-ce qu'en écrivant
+cela, je ne rabâche pas moimême</p>
+<p><pb/></p>
+<p>quaient entre eux le jeu de l'urne, mais vaguement et comme on marronne.</p>
+<p>Un brave bourgeois, d'ailleurs rentier de son état, me dit « Si j'avais
+su qu'il eût tant de voix, je ne lui aurais pas donné la mienne w
+résumant ainsi en quelques mots la théorie de l'opposition. Explique qui
+pourra cette aberration de sens électoral. La majeure partie de la
+Bourgeoisie parisienne (voir Fronde) a. voté pour le généra) de peur de
+ne pas embêter le gouvernement si elle élisait. l'autre 1</p>
+<p><pb/></p>
+<p>fait sauter la banque » dirent les fatalistes, « il a la veine ». A deux
+heures notre République se préparait délicieusement au Directoire.</p>
+<p>Dans les groupes, cercles, cafés, centres de réunions, partout où
+j'allai, la blague agitait les sonnettes de son chapeau chinois; les
+lardonsvolaient avec les quolibets. Invectives facétieuses, apostrophes
+hilares, fusées de drôleries La plus courante était de se menacer
+narquoisement de la guillotine. « Comme tu es mon ami, je te déporterai
+seulement ? » Et de rire Je remarquai que, vers quatre heures, personne
+n'était plus très sûr de son vote. I.esjacquistes, qui avouaient,
+avaient l'oreille basse. Pourquoi? Les abstentionnistes portaient plus
+haut, avec des pétarades de loustics. «Moi, j'ai voté pour mon
+concierge! Moi, j'ai écrit: Pranzini ). » Ces choses se disaient et
+désopilaient la rate, oui, ô Histoire 1</p>
+<p>Puis survinrent les nouvellistes. Ils n'ont pas changé depuis La
+Bruyère. Selon les uns, qui en étaient sûrs, tous les ministres étaient
+i-ecrètement boulangistes, et selon les autres, qui l'avaient vu, le
+président Carnot, lui-même, avait donné sa voix au général! e « Il s'a
+pas voulu désobliger sa femme, » qui en est folle, car c'est un
+excellent mari » D'ailleurs, s'il n'est pas libre comme président, » il
+l'est comme citoyen, n'est-ce pas?. Et des</p>
+<p><pb/></p>
+<p>discussions véhémentes s'engageaient sur ce thème prodigieux. Je les ai
+entendues t</p>
+<p>LE MÉDEcm. – Eh bien comment cela va-t-il ce matin, "mon cher malade?</p>
+<p>LE MALADE BouLANGisTE. – Mieux, ce nie semble! Mais vous allez me le
+dire vous-même.</p>
+<p>LE MÉDECIN, tâtant le pouls du tK~Më. – Hum t LE MALADE BOULANGISTE. –
+Vous dites hu;B~ -~a,</p>
+<p>docteur? Pourquoi dites-vous hum? Est-ce q~ cela s'aggrave?</p>
+<p>LE MÉDECIN. – J'espère que non. Néanmoins, vous ferez bien d'être
+prudent, de ne pas changer d'air, enfin d'éviter la moindre sortie. Je
+ne sepsis pas tranquille si vous sortiez, je l'avoue. LE MALADE
+BOULANGISTE. Sapristi Mais et mes affaires? Et cette élection de
+demain?., Et cette leçon que je veux donner au pouvoir! Fût-ce sur un
+brancard, comme les Romains, j'irai voter, docteur. II le faut.</p>
+<p>LE MÉDECIN, pincé. – Biea, bien Allez-y, mais</p>
+<p><pb/></p>
+<p>LE MALADE JACQUISTE. Ah docteur, je vous attendais avec impatience. Ça
+ne va pas. Je tousse beaucoup!</p>
+<p>LE DOCTEUR. Voyons la mine?. Eh bien! mais elle est bonne, au contraire
+Et le pouls?. Il se régularise Avez-vous de l'appétit?</p>
+<p>LE MALADE JACQUISTE. Non, hélas!</p>
+<p>LE DOCTEUR. II faut en prendre. C'est l'air qui vous manque, On ne
+respire pas dans votre chambre (~ écarte les rideaux de la ~H~)Tenez, il
+fait un temps superbe! Le soleil se couche bien. Demain, nous aurons une
+journée magnifique. Que diriez-vous d'une promenade en voiture? :a Moi,
+je vous la conseille.</p>
+<p>LE MALADE JACQUISTE. –- Mais?.</p>
+<p>LE DOCTEUR. – Et, au besoin, je vous l'ordonne. Votez-vous?. Oui. Eh
+bien! allez voter. Cela vous distraira. Il faut commencer doucement. (~
+~NïMM du malade.) Madame, secouez-le de</p>
+<p><pb/></p>
+<p>cette torpeur! 11 tousse encore, je le sais; mais l'homoeopathie a du
+bon quand elle est appliquée par un allopathe. Faites-le sortir demain.
+Et ne dépassez pas six heures (S'oubliant.) C'est l'heure où le scrutin
+est clos</p>
+<p><pb/></p>
+<p>LE MINISTÈRE DU MECONTENTEMENT</p>
+<p>Le ~7 j'on~'e)'.</p>
+<p>On ne connaît pas M. Carnet 1</p>
+<p><pb/></p>
+<p>– J'ai mes éperons, dit le visiteur.</p>
+<p>Et ils s'assirent. Une bourrasque de neige fouetta les vitres et
+assombrit la salle. Une voix fantomatique fit subitement Coucou C'était
+la demie. Mon cher général, commença l'Exécutif, je</p>
+<p><pb/></p>
+<p>ne vous demande pas si vous avez pris votre café, mais je vous demande
+si vous voulez vous charger de me composer un ministère. Vous sp.vez que
+ce pauvre Floquet!</p>
+<p>Un geste acheva sa pensée.</p>
+<p>Et M. Carnot lui montra ces objets. Ils étaient étalés en ordre sur la
+table, et ils répandaient dans l'atmosphère le musc délicat des cuirs de
+Russie.</p>
+<p><pb/></p>
+<p>Le militaire subodora leurs douces émanations et, avec la rude franchise
+des camps, il dit – Mon petit Sadi, je flaire ua piège</p>
+<p>Mais l'Exécutif avait vu son Egérie le matin, et il était ferré sur les
+raisonnements. Son Egérie l'avait préparé par la pose du dilemme suivant
+« Ou le général est sincèrement républicain, et par » conséquent il ne
+peut pas refuser de travailler » pour la République. Ou bien il refusera
+de tra» vailler pour elle, et par conséquent il n'est pas » républicain
+Et alors c'est un faux frère, et tu le » démasques )) Ainsi avait parlé
+l'Egérie et M. Carnot l'avait admirablement comprise,</p>
+<p>En ce moment, la trombe de neige cessa brusquement, et dans le ciel
+éclairci, mais nocturne, la lune parut, resplendissante. L'Exécutif la
+montra au guerrier:</p>
+<p><pb/></p>
+<p>pira M. Carnot &amp;Bt serrant la main au général, ren- dez-la ~'eureuse t 1</p>
+<p>– Avez-vous ici le téléphone?</p>
+<p>–CarMt offre ministère.–Je ne peux pas l'envoyer faire. ce que vous
+dites. Je suis trop bien élevé.–Certainement, il y en a neuf, tous en
+cuir r de Russie. –Oui, et pour Chincholle aussi s'il en exige un.
+RéSëchissez bien. D'ailleurs, vous le savez, je ne ferai que ce que vous
+voudrez, comme toujours Ahiéi vous croyez -que c'est un lapin qu'il me
+pose, c'est autre chose. Mais est-il capable</p>
+<p><pb/></p>
+<p>M. Carnot s'était rapproché, d'ailleurs sans hâte, avec la correction
+impeccable qui caractérise sa manière</p>
+<p>-Eh bien! vous avez réuéchi? dit-il.</p>
+<p>Oui, mon Président, et mûrement. Je refuse. Oserai-je vous avouer que
+j'en étais sûr d'avance ? Vous avez devant vous évidemment une destinée
+plus belle, et je ne sais quelle vague étoile vous conduit. Mais, hélas!
+moi, serviteur dévoué de ce qu'on appelle la République, il m'est
+impossible de vous offrir rien de mieux que ce que je vous offre en son
+nom. A moins que ma place ne vous tente! Je n'y fais pas mes frais, je
+vous assure.</p>
+<p>Le général esquissa le geste de refus poli que l'on traduit par: « Je
+n'en ferai rien. Après vous, s'il en reste! »</p>
+<p><pb/></p>
+<p>Le général avait pâli. L'argumentation serrée de notre Exécutif l'avait,
+sinon convaincu, du moins démonté visiblement. Il .se leva et, sans mot
+dire,</p>
+<p><pb/></p>
+<p>il alla voir aux portes s'ils étaient épiés. Puis, soulevant les housses
+des fauteuils, il y constata l'absence de tout reporter. Le jardin était
+désert. îl n'y avait que lui, M. Carnot et la lune.</p>
+<p>L'Exécutif en rit encore.</p>
+<p><pb/></p>
+<p>LE M)UP D'ÉTAT</p>
+<p>HISTOIRE D'UN CRIME. RATÉ</p>
+<p>L"Bme d'elles, taHIée en doig~ gigantesque, entra dans rœN morne du soMl.</p>
+<p>Certes! it y avait d'e l'étrange dans rair. Les</p>
+<p><pb/></p>
+<p>belles actions n'ont point de prodromes. Les mauvaises en ont. C'est ce
+qui les distingue. Certains états atmosphériques annoncent la dictature.
+Le ciel pur, c'est la République.</p>
+<p>Devant le palais de l'Elysée il s'arrêta. Aucune lumière aux fenêtres.
+Seul un reflet livide, dardé par un réverbère qui s'éteignait, fumeux et
+louche. A la porte, qui ouvre rue Saint-Honoré, une sentinelle marchait,
+dormant peut-être, certainement indifférente.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>s'égosillait dans les environs, comme pour attester du désintéressement
+éternel de la nature.</p>
+<p>–Et le Parlement? demanda le poète.</p>
+<p>Quoi?</p>
+<p><pb/></p>
+<p>– Le plébiscite.</p>
+<p>– Il faut, reprit l'auteur, se réunir dans les mairies et organiser la
+résistance.</p>
+<p>– Vous feriez mieux de choisir une île de )a Manche et d'aller y écrire
+les Châtiments, si vous pouvez.</p>
+<p>–Oui, mais je ne peux pas, dit l'auteur. Et il sortit.</p>
+<p><pb/></p>
+<p>le philosophe qui disait cela. avait une jambe de bois et il était
+borgne. Il portait du brie dans un papier.</p>
+<p>L'auteur rentra chez lui pour prendre un parapluie, car le ciel était
+menaçant. La nature a ses façons de déverser son mépris sur les choses</p>
+<p><pb/></p>
+<p>infâmes. Un émissaire du tyran l'attendait dansl'antichambre.</p>
+<p>– Monsieur Caliban?</p>
+<p>C'est moi. Inutile de me ligotter; je vous suis Mais quel ne fut pas
+l'étonnement du poète quand l'émissaire lui remit silencieusement un
+pli. Le crime n'inventèra rien de plus monstrueux dans l'audace que ce
+pli. Le tyran offrait au poète la direction de l'Odéon avec le droit de
+tripatouii.Iage i</p>
+<p><pb/></p>
+<p>Le plébiscite eut lieu et nous donna un tyran par'neuf millions de voix.
+Seulement, tous les bulletins portaient le nom de Paulus. Le peuple
+avait cru naïvement que le général était son pseudonyme militaire. Il le
+croit encore.</p>
+<p><pb/></p>
+<p>L'ENNUI</p>
+<p>Je ne sais pas .si le doux avenir nous réserve une Ecole de romanciers
+boulangistes et si, sous le pseudonyme transparent de Charcutier, le
+général sera un jour zoiifié dans une série de RougonMacquart par
+quelque bon élève du maître de Medan.Mais si cette gloire, après tant
+d'autres, lui est encore promise, il est temps de colliger les documents
+et je veux dès aujourd'hui y employer ma chronique.</p>
+<p><pb/></p>
+<p>nation auxquels le plus naturaliste s'abandonne, dès qu'il compose.</p>
+<p>Non, oh non, cette période de la vie du général (première quinzaine
+d'avril 1889) ne fut pas gaie. Ne te laisse pas fourrer dedans par ceux
+qui t'en parleront sans y avoir été; sois vérace, romancier boulangiste,
+n'idéalise pas! Jamais Charcu- v</p>
+<p><pb/></p>
+<p>A présent, veux-tu un tableau de quartier ? En</p>
+<p><pb/></p>
+<p>» Rougon secoua la tête et dit – tlva encore » boulanger toute la
+journée! Quel temps que » celui-ci! On ne fera pas un sou d'affaires. Ce
+» n'est pas la peine d'ouvrir boutique!</p>
+<p><pb/></p>
+<p>Sortons. On crie le manifeste du jour, et les interviews, et les lettres
+confidentielles! Les orgues de Barbarie pleurent en mineur. On vient de
+décrocher quatre pendus de quatre réverbères. Tous les approuvent.
+Beaucoup les envient. Chez les fleuristes, aux étalages, les pots de
+primevères et d'azalées sont eucolletésde papiers noirs semés de larmes
+d'argent. Les cannes des passants, vêtues de crêpes. La folie est
+visible dans les regards égarés, désolés, implorant grâce. Tout le</p>
+<p><pb/></p>
+<p>monde se plaint de la névralgie et des cent mille petits coups de
+marteau sur la tête.</p>
+<p>Je viens d'entendre le dialogue suivant, au marché, ~ans la travée de la
+poissonnerie</p>
+<p>La harangëre. – Je la « revisionne » trois francs, parce que c'est vous
+et que vous êtes fraîche.</p>
+<p>La harengère. Eh! va donc! « parlementaire »</p>
+<p>Où aller? Au cimetière peut-être! J'y vais. De belles jeunes filles
+louent aux grâces dans une allée entre les tombes des heureux disparus.
+Je m'approche. Hélas! comme dans le conte de Villiers de l'Isle-Adam,
+c'est avec des couronnes de perles noires et des tibias qu'elles
+s'amusent! Il boulange, il boulange toujours!</p>
+<p>Mardi 9 avril. Un discours du trône! Encore plus embêtant que de
+coutume. Du Napoléon Trois revu par Grévy. C'est mortel, décourageant,
+sinistre; Les chiens en hurlent. Le peuple s'exerce toujours au jeu des
+urnes, chez les chands de vins, au tourniquet.. Les gens riches partent
+pour leurs châteaux. On croit qu'il va tomber de la cendre.</p>
+<p><pb/></p>
+<p>Dans quelques quartiers on allume des feux d'artifices pour sortir
+dumarasme immense. Un calembour se paie soixante francs.</p>
+<p>Un rassemblement sous ma fenêtre. On se bat. C'est une dépêche de
+Bruxelles. Il paraît qu'il a vu Victor! A-t-il vu Victor ou ne l'a-t-il
+pas vu? Tout est là, et il n'y a que cela d'intéressant au monde. La
+rixe continue. Les brancards arrivent. J'allume une cigarette.</p>
+<p><pb/></p>
+<p>République au moyjn du grossier, a meugle Suffrage universellement
+obtus, inéduquable et bête comme la force herculéenne, cette République
+de loups entre eux ne devait produire que la Boulange, soit pas de pain
+et du plumet! Nous y sommes et nous nous crevons d'ennui. Et quand je
+pense qu'il y a des professeurs de patriotisme pour traiter de mauvais
+citoyens ceux qui, comme moi, ne votent pas, ne voteront jamais et
+tiennent la politique du Suffrage universel pour le coq-àl'âne
+monstrueux et stupide des oisifs de la classe riche et des faiseurs de
+lundi de la classe ouvrière La République nous devait un Paris gai et
+heureux. Elle nous devait même une Athènes. Oh comme il boulange 1</p>
+<p>Et lui, le général, comme il nous embête</p>
+<p>Pour moi, je ne l'ai jamais vu,'et j'espère bien ne le jamais voir. Mon
+Schopenhauer me suffit. Mais je me le représente: Tantôt il m'apparaît
+comme un Napoléon de la scie, échappé d'une Sainte-Hélène de la bêtise
+et déchaînant une Grande Armée de vieux lapins sans poils sur l'ancien
+monde. Tantôt je me le figure plus terrible encore, et, par exemple,
+sous l'aspect d'un énorme Bouddha léthifère, empêchant de ses sept bras
+le système planétaire de danser en rond autour du soleil, tandis que, dé
+sa bouche, s'échappe par nappes</p>
+<p><pb/></p>
+<p>FIN DE L'HISTOIRE C&amp;HBANESQUË DE LA BOULANGE.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>TABLE DES MATIÈRES</p>
+<p>PRÉFACE v CALIBAN A L'EXPOSITION. i L'ouvrier de Pans. 3 Le diorama
+anthropologique 10 La victime de la, tour Eiffel. 18 LAJUSTfOEHUMAtNE.
+27 L'horreur de comparoir 29 L'épouvante~'êtreacquitté. 36 La faillite,
+44 L'amour encourd'assises. 52 La peine de mort chez les sauvages 67
+LapemedemortchezIesciviUsés. 75 .Etmêmea.Bertin. 83 POUR NOS PETITS. M
+La bonneUgue~ ? La.réformede l'orthographe. 102
+LeprixRaphaëlBischoa'sheim. 107 CAHBANDAK&amp; SA STALLE. 115
+LesRohau-CabotB. 117 Ladémissiond'uasociétatre. 124 LamaDedeCambacerës.
+132 Mon;rojet. 140 La décoration des comMions. 149 L'âge au théâtre. 187
+Le théâ.treetlavêrité. 7. 165</p>
+<p><pb/></p>
+<p>ËMtLE CeuN. Imprimerie de Lagny.</p>
+    </div>
+    </body>
+  </text>
+</TEI>

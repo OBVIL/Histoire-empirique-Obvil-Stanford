@@ -1,0 +1,3603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Chateaubriand, François-René de (1768-1848)">François-René de Chateaubriand</author>
+<title>Oeuvres complètes de M. le vicomte de Chateaubriand,.... Tome 21</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Chateaubriand, François-René de (1768-1848)</author>, <title>Oeuvres complètes de M. le vicomte de Chateaubriand,.... Tome 21</title>, <date>1826</date>,description :,472 pages
+</bibl>
+<publisher>Ladvocat (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k6117131s</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1826">1826</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>CHATEAUBRIAND.</p>
+<p>OEUVRES COMPLETES.</p>
+<p>MÉLANGES LITTÉRAIRES.</p>
+<p><pb/></p>
+<p>ON SOUSCRIT ÉGALEMENT :</p>
+<p>A BRUXELLES, MÊME MAISON, Montagne de la Cour, n°. 731 ;</p>
+<p>ET A PARIS,</p>
+<p>CHEZ LENORMAND, RUE DE SEINE, N°. 8</p>
+<p>PARIS IMPRIMERIE DE FAIN,</p>
+<p>RUE RACINE , N°. 4, PLACE DE L'ODEON.</p>
+<p><pb/></p>
+<p>CHATEAUBRIAND.</p>
+<p>TOME XXI.</p>
+<p>LADVOCAT, EDITEUR.</p>
+<p>1826.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>OEUVRES COMPLETES</p>
+<p>De M. le Dicomte</p>
+<p>DE</p>
+<p>CHATEAUBRIAND</p>
+<p>PAIR DE FRANCE,</p>
+<p>MEMBRE DE L'ACADEMIE FRANÇOISE.</p>
+<p>TOME XXI.</p>
+<p>LADVOCAT, LIBRAIRE</p>
+<p>DE S. A. R. LE DUC DE CHARTRES.</p>
+<p>M. DCCC. XXVI.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>PRÉFACE.</p>
+<p>ORSQUE je rentrai en France en 1800, après une émigration</p>
+<p>J'acceptai cette invitation : je donnai quelques articles au Mercure,
+avant même d'avoir publié Atala , avant d'être connu, car mon Essai
+historique étoit resté enseveli en Angleterre. Ces combats n'étoient</p>
+<p>TOME XXI. 1</p>
+<p><pb/></p>
+<p>2 PRÉFACE,</p>
+<p>Au retour du roi, je réclamai auprès du gouvernement la propriété du
+Mercure , que j'avois aclieté de M. de Fontanes pour une somme de 20,000
+francs. Je m'étois imaginé que la cause qui avoit fait supprimer cet
+ouvrage feroit un peu valoir</p>
+<p><pb/></p>
+<p>PRÉFACE. 3</p>
+<p><pb/></p>
+<p>4 PRÉFACE,</p>
+<p>volume. Les lettres n'ont jamais été plus honorables que lorsque, dans
+le silence du monde subjugué, elles proclamoient des vérités courageuses
+et faisoient entendre les accents de la liberté au milieu des cris de la
+victoire.</p>
+<p><pb/></p>
+<p>MELANGES</p>
+<p>LITTÉRAIRES.</p>
+<p>DE L'ANGLETERRE</p>
+<p>ET DES ANGLOIS.</p>
+<p>Juin 1800.</p>
+<p>de voyageur. Une certaine inquiétude le pousse sans cesse hors de lui;
+il veut tout voir, et puis</p>
+<p><pb/></p>
+<p>6 MÉLANGE.S</p>
+<p>il se plaint quand il a tout vu. J'ai parcouru quelques régions du globe
+; mais j'avoue que j'ai mieux observé le désert que les hommes, parmi
+lesquels, après tout, on trouve souvent la solitude.</p>
+<p>J'ai peu séjourné chez les Allemands , les Portugais et les Espagnols,
+mais j'ai vécu assez long-temps avec les Anglois. Comme c'est
+aujourd'hui le seul peuple qui dispute l'empire aux François, les
+moindres détails sur lui deviennent intéressants.</p>
+<p>Il me semble qu'on doit chercher le secret des</p>
+<p>moeurs des Anglois dans l'origine de ce peuple.</p>
+<p>Mélange du sang françois et du sang allemand,</p>
+<p>il forme la nuance entre ces deux nations. Leur</p>
+<p><pb/></p>
+<p>LITTERAIRES. 7</p>
+<p><pb/></p>
+<p>8 MELANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 9</p>
+<p>gentil1 Gibbon, Litt., etc., etc.</p>
+<p><pb/></p>
+<p>10 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. 11</p>
+<p>la même gloire, et déplorer les mêmes crimes et les mêmes malheurs.</p>
+<p><pb/></p>
+<p>12 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 13</p>
+<p>Ceux qui s'effraient au seul mot de religion,</p>
+<p><pb/></p>
+<p>14 MÉLANGES</p>
+<p>ne connoissent guère l'esprit humain; ils voient toujours cette religion
+telle qu'elle étoit dans les âges de fanatisme et de barbarie, sans
+songer qu'elle prend, comme toute autre institution, le caractère des
+siècles où elle passe.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 15</p>
+<p>songe d'un froid enthousiaste, et que l'imagination de l'homme est une
+faculté qu'il faut nourrir comme la raison.</p>
+<p>L'église anglicane a surtout conservé pour les morts la plus grande
+partie des honneurs que leur rend l'église romaine.</p>
+<p><pb/></p>
+<p>16 MÉLANGES</p>
+<p>La vie politique d'un Anglois est bien connue en France ; mais ce qu'on
+ignore assez généralement, ce sont les partis qui divisent le parlement
+aujourd'hui.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 17</p>
+<p>TOME XXI. 2</p>
+<p><pb/></p>
+<p>18 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 19</p>
+<p>» Seigneurie ne prendroit-elle point sa crainte « pour sa haine? »</p>
+<p>J'étois au théâtre de Covent-Garden, qui tire son nom, comme on sait, du
+jardin d'un ancien couvent où il est bâti. Un homme fort bien</p>
+<p>2.</p>
+<p><pb/></p>
+<p>20 MÉLANGES</p>
+<p>Comment les Anglois auroient-ils un théâtre supportable, quand leurs
+parterres sont composés de juges arrivant du Bengale ou de la côte de
+Guinée, qui ne savent seulement pas où ils sont? Shakspeare doit régner
+éternellement chez un pareil peuple. On croit tout justifier, en disant
+que les folies du tragique anglois sont dans la nature. Quand cela
+seroit vrai, ce ne sont pas toujours les choses naturelles qui touchent.
+Il est naturel de craindre la mort, et cependant une victime qui se
+lamente sèche les pleurs qu'on versoit pour elle. Le coeur humain veut
+plus qu'il ne peut; il veut surtout admirer: il a en soi un élan vers je
+ne sais quelle beauté inconnue, pour laquelle il fut peut-être créé dans
+son origine.</p>
+<p>Il y a même quelque chose de plus grave. Un</p>
+<p><pb/></p>
+<p>LITTERAIRES. 21</p>
+<p>Je terminerai cette notice par quelques mots sur le sol, le ciel et les
+monuments de l'Angleterre.</p>
+<p>Les campagnes de cette île sont presque sans</p>
+<p><pb/></p>
+<p>22 MÉLANGES</p>
+<p>Saint-Paul est le plus bel édifice moderne, et Westminster le plus bel
+édifice gothique de l'Angleterre. Je parlerai peut-être un jour de ce</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 23</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>ESSAI</p>
+<p>SUR</p>
+<p>LA LITTERATURE ANGLOISE.</p>
+<p>YOUNG.</p>
+<p>Mars 1801.</p>
+<p>LORSQU'UN écrivain a formé une école nouvelle, et qu'après un
+demi-siècle de critique on le trouve encore en possession</p>
+<p>possession grande renommée , il importe aux lettres de rechercher la
+cause de ce succès, sur-</p>
+<p><pb/></p>
+<p>26 MÉLANGES</p>
+<p>Quelques situations tragiques, quelques mots sortis des entrailles de
+l'homme , je ne sais quoi de vague et de fantastique dans les scènes,
+des bois , des bruyères , des vents , des spectres , des tempêtes,
+expliquent la célébrité de Shakespeare.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 27</p>
+<p>des tombeaux, ne décèle dans toutes ses déclamations sur la mort qu'une
+ambition trompée ; il a pris son humeur pour de la mélancolie. Point de
+naturel dans sa sensibilité ; point d'idéal dans sa douleur. C'est
+toujours une main pesante qui se traîne sur la lyre.</p>
+<p>La réflexion dans le chagrin doit toujours prendre la forme du sentiment
+et de l'image ; et dans, Young, au contraire, le sentiment se</p>
+<p><pb/></p>
+<p>28 MÉLANGES</p>
+<p>change en réflexion et en raisonnement. Si j ouvre la première
+complainte, je lis :</p>
+<p>From short ( as usual ) and disturb'd repose I wake : how happy they who
+wake no more ! Yet that were vain , if dreams infest the grave. I wake ,
+emerging from a sea of dreams Tumultuous ; where my wreck desponding
+thought From wave to wave of fancy'd misery At random drove , her heim
+of reason lost.</p>
+<p>The day too short for my distress ; and night Ev'n in the zenith of her
+dark domain Is sunshine to the colour of my fate.</p>
+<p>« D'un repos court et troublé je m'éveille. O heu»</p>
+<p>heu» ceux qui ne se réveillent plus ! encore cela même</p>
+<p>» est-il vain, si les rêves habitent au tombeau ! Je sors</p>
+<p>» d'une mer troublée de songes , où ma pensée triste et</p>
+<p>» submergée, privée du gouvernail de sa raison , flotte</p>
+<p>» au gré des vagues d'une misère imaginaire</p>
+<p>» Le jour est trop court pour ma tristesse ; et la nuit, » même au
+zénith de son noir domaine , est un soleil » auprès de la couleur de mon
+sort. »</p>
+<p><pb/></p>
+<p>LITTERAIRES. 29</p>
+<p>vague sur une mer de malheur imaginaire ? Qu'est-ce qu'une nuit qui est
+un soleil auprès de la couleur d'un sort ? Le seul trait remarquable de
+ce morceau, c'est le sommeil du tombeau , peut-être aussi troublé par
+des songes. Mais cela rappelle trop le mot d'Hamlet : To sleep !—to
+dream ! Dormir ! —rêver !</p>
+<p>Ossian se lève aussi au milieu de la nuit pour pleurer; mais Ossian pleure.</p>
+<p>Lead, son of Alpin , lead the aged to his woods. The winds begin to
+rise. The dark wave of the lake resounds. Bends there not a tree from
+Mora, with its branches bare? It beats, son of Alpin, in the rustling
+blast. My harp hangs on a blasted branch. The Sound of its strings is
+mournful. Does the wind touch thee, o harp ! or is it some passing ghost
+! It is the hand of Malvina ! But bring me the harp , son of Alpin ;
+another song shall arise. My soul shall depart in the sound ; my fathers
+shall hear it in their airy hall. Their dim faces shall hang , with joy,
+from their cloud ; and their hands receive their son.</p>
+<p><pb/></p>
+<p>30 MÉLANGES</p>
+<p>» la main de Malvina ! donne-moi la harpe, fils d'Alpin. " Il faut qu'un
+autre chant s'élève ! Mon âme s'envolera » au milieu des sons. Mes pères
+entendront ces soupirs " dans leur salle aérienne. Du fond de leurs
+nuages ils » pencheront avec joie leurs visages obscurs, et leurs " bras
+recevront leur fils. »</p>
+<p>On croit généralement que ces images mélancoliques , empruntées des
+vents, de la lune, des nuages, ont été inconnues des anciens; il y en a
+pourtant quelques exemples dans Homère , et surtout un charmant dans
+Virgile. Énée, aperçoit l'ombre de Didon dans l'épaisseur d'une forêt,
+comme on voit, ou comme on croit voir, la lune nouvelle se lever au
+milieu des nuages.</p>
+<p>Qualem primoque surgere mense Aut videt, aut vidisse putat per nubila
+lunam.</p>
+<p>Remarquez toutes les circonstances. C'est la lune qu'on voit ou qu'on
+croit voir se lever à</p>
+<p><pb/></p>
+<p>LITTERAIRES. 31</p>
+<p>Young a donc premièrement ignoré, ou plutôt mal exprimé, cette
+tristesse, qui se nourrit du spectacle de la nature, et qui, douce ou
+majestueuse , suit le cours naturel des sentiments. Combien Milton est
+supérieur au chantre des Nuits, dans la noblesse de la douleur ! Rien
+n'est beau comme ces quatre vers qui terminent le Paradis Perdu :</p>
+<p>The world was all before them, where to choose Their place of rest, and
+Providence their guide : They, hand in hand , with wandering steps and
+slow , Through Eden took their solitary way.</p>
+<p>On voit toutes les solitudes du monde ouvertes devant notre premier père
+; toutes ces mers qui</p>
+<p><pb/></p>
+<p>32 MÉLANGES</p>
+<p>baignent des côtes inconnues ; toutes ces forêts qui se balancent sur un
+globe inhabité, et l'homme laissé seul avec son péché au milieu des
+déserts de la création.</p>
+<p>Mais sentant sa liqueur d'amertume suivie , Il détourna la tête , et
+regardant les cieux , Pour jamais au soleil il referma les yeux.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 33</p>
+<p>Ceux de nos bons écrivains qui ont connu le charme de la rêverie, ont
+prodigieusement surpassé le docteur anglois. Chaulieu a mêlé, comme
+Horace, les pensées de la mort aux illusions de la vie. Ces vers si
+connus valent, pour la mélancolie, toutes les. exagérations du poëte
+d'Albion :</p>
+<p>Grotte , d'où sort ce clair ruisseau , De mousse et de fleur tapissée ,
+N'entretiens jamais ma pensée Que du murmure de ton eau.</p>
+<p>Fontenay , lieu délicieux, Où je vis d'abord la lumière, Bientôt au bout
+de ma carrière, Chez toi je joindrai mes aïeux.</p>
+<p>Muses, qui dans ce lieu champêtre Avec soin me fîtes nourrir ; Beaux
+arbres, qui m'avez vû naître, Bientôt vous me verrez mourir.</p>
+<p>Et l'inimitable La Fontaine, comme il sait rêver aussi !</p>
+<p>TOME XXI. 3</p>
+<p><pb/></p>
+<p>34 MÉLANGES</p>
+<p>Ce passage de Rousseau me rappelle qu'une nuit, étant couché dans une
+cabane, en Amérique , j'entendis un murmure extraordinaire qui venoit
+d'un lac voisin. Prenant ce murmure</p>
+<p><pb/></p>
+<p>LITTERAIRES. 35</p>
+<p>Young a mal profité, ce me semble, des rêveries qu'inspirent de
+pareilles scèpes, parce que son génie manquoit éminemment de tendresse.
+Par la même raison, il a échoué dans cette seconde sorte de tristesse
+que j'ai appelée tristesse des souvenirs.</p>
+<p>Jamais le chantre des tombeaux n'a de ces retours attendrissants vers le
+premier âge de la vie, alors que tout est innocence et bonheur. Il
+ignore les souvenirs de la famille et du toit paternel; il ne connoît
+point les regrets pour les plaisirs et les jeux de l'enfance.; il ne
+s'écrie point, comme le chantre des Saisons :</p>
+<p>3.</p>
+<p><pb/></p>
+<p>36 MELANGES</p>
+<p>Welcome, kindred glooms ! Congenial horrors, hail ! with frequent foot,
+Pleas'd have I, in my chearful morn of life, When nurs'd by careless
+solitude I liv'd, And sung of Nature with unceasing joy, Pleas'd have I
+wander'd thro' your rough domain : Trod the pur virgin-snows , myself
+pure , etc.</p>
+<p>" Ombres propices des hivers , agréables horreurs , je » vous salue.
+Combien de fois, au matin de ma vie , lors» que rempli d'insouciance et
+nourri par la solitude, je » chantois la nature dans une extase sans
+fin, combien » de fois n'ai-je point erré avec ravissement dans les »
+régions des tempêtes, foulant les neiges virginales , » moi-même aussi
+pur qu'elles ! »</p>
+<p>Gray, dans son ode sur une vue lointaine du collége d'Eton, a répandu
+cette même douceur</p>
+<p>des souvenirs : Ah ! happy hills, ah ! pleasing shade,</p>
+<p>Ah! fields belov'd in vain, Where once my carelefs childhood stray'd</p>
+<p>A stranger y et to pain ! I feel the gales that from you blow</p>
+<p>My weary soul they seem to sooth And redolent of joy and youth To breath
+a second spring.</p>
+<p>« O heureuse colline ! O doux ombrage ! O champs » aimés en vain, champs
+où se joua ma tranquille en» fance , encore étrangère aux douleurs ! Je
+sens les</p>
+<p><pb/></p>
+<p>LITTERAIRES. 37</p>
+<p>» vents qui soufflent de vos bocages..,. Ils semblent ra» nimer mon âme
+fatiguée, et, parfumés de joie et de » jeunesse , m'apporter un second
+printemps. »</p>
+<p>Au banquet de la vie , infortuné convive ,</p>
+<p>J'apparus un jour, et je meurs !</p>
+<p>Je meurs, et sur ma tombe où lentement j'arrive, Nul ne viendra verser
+des pleurs.</p>
+<p>Adieu champs fortunés , adieu douce verdure,</p>
+<p>Adieu riant exil des bois ; Ciel, pavillon de l'homme , admirable nature,</p>
+<p>Adieu pour la dernière fois !</p>
+<p>Ah ! puissent voir long-temps votre beauté sacrée</p>
+<p>Qu'un ami leur ferme les yeux !</p>
+<p>Voyez dans Virgile les femmes troyennes, assises au bord de la mer , et
+qui regardent en pleurant l'immensité des fois.</p>
+<p>Cunctaeque profondum Pontum aspectabant flentes.</p>
+<p><pb/></p>
+<p>38 MÉLANGES</p>
+<p>Quelle beauté d'harmonie ! comme elle peint</p>
+<p>les vastes solitudes de l'Océan 1. Quel souvenir de</p>
+<p>la patrie perdue ! Que de douleurs dans ce seul</p>
+<p>regard jeté sur la face des mers, et que le, flentes</p>
+<p>qui en est l'effet, est triste !</p>
+<p>M. de Parny a su faire entrer dans une autre espèce de sentiment le
+charme attendrissant des souvenirs. Sa complainte sur le tombeau d'Emma
+est pleine de cette douce mélancolie qui caractérise les écrits du seul
+poëte élégiaque de la France.</p>
+<p>L'Amitié même , oui, l'amitié volage A rappelé le folâtre enjouement,
+D'Emma mourante elle a chassé l'image , Son deuil trompeur n'a duré
+qu'un moment. Charmante Emma, jeune et constante amie ! Ton souvenir ne
+vit plus dans ces lieux, De ce tombeau l'on détourne les yeux, Ton nom
+s'efface, et le monde t'oublie !</p>
+<p><pb/></p>
+<p>LITTERAIRES. 39</p>
+<p>gnement quelque chose de vague et de mélancolique , qui les rend plus
+séduisants que l'accent des passions mêmes.</p>
+<p>Sweet Harmonist ! and beautiful as sweet ! And young as beautiful ! and
+soft as young ! And gay as soft ! and innocent as gay ! And happy (if
+ought happy here ) as good , For fortune fond had built her nest on
+high. Like birds quite exquisite of note and plume Transfix'd by fate
+(who loves a lofty mark)</p>
+<p><pb/></p>
+<p>40 MELANGES</p>
+<p>How from the summit of the grove she fell. And left it unharmonious !
+All its charm Extinguish'd in the wonders of her song! Her song still
+vibrates in my ravish'd ear Still melting there, and with voluptuous
+pain ( O to forget her ! ) trilling thro' my heart.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 41</p>
+<p>gaie. Est-ce ainsi que la mère d'Euryale déplore la perte de son fils,
+ou que Priam gémit sur les restes d'Hector ?</p>
+<p>«MADAME cependant a passé du matin au soir, ainsi » que l'herbe des
+champs. Le matin elle fleurissoit ; avec » quelles grâces, vous le sayez
+: le soir nous la vîmes " séchée, et ces fortes expressions, par
+lesquelles l'Ecri» ture Sainte exagère l'inconstance des choses humaines
+, » devoient être pour cette princesse si précises et si lit— » térales.
+Hélas ! nous composions son histoire de tout ce » qu'on peut imaginer de
+plus glorieux. Le passé et le » présent nous garantissoient l'avenir. .
+. . Telle étoit » l'agréable histoire que nous faisions ; et pour
+achever " ces nobles projets, il n'y avoit que la durée de sa vie » dont
+nous ne croyions pas devoir être en peine-. -Car " qui eût pu seulement
+penser que les années eussent</p>
+<p><pb/></p>
+<p>42 MÉLANGES</p>
+<p>Je désirerois pouvoir citer de , l'auteur des Nuits quelques pages d'une
+beauté soutenue. On les trouve ces pages dans le traducteur, mais non
+dans l'original. Les Nuits de M. Le Tourneur, et l'imitation de M.
+Colardeau, sont des ouvrages tout-à-fait différents de l'ouvrage
+anglois. Ce dernier n'offre que des traits épars ; il fournit rarement
+de suite dix vers irréprochables. On retrouve quelquefois dans Young,
+Sénèque et Lucain , mais jamais Job ni Pascal. Il n'est point l'homme de
+la douleur; il ne plaît point aux coeurs véritablement malheureux.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 43</p>
+<p>» ajouter, j'ai été fidèle!, Qu'il me soit</p>
+<p>» permis d'employer uniquement pour Dieu et</p>
+<p>» pour moi-même ce qui me reste de vie</p>
+<p><pb/></p>
+<p>44 MÉLANGES LITTÉRAIRES,</p>
+<p><pb/></p>
+<p>SHAKSPERE ou SHAKSPEARE,</p>
+<p>Avril 1801.</p>
+<p>divinisé par le pays qui l'a vu naître, admiré dans tout le nord de
+l'Europe, et mis par quelques François au-dessus de Corneille et de Racine.</p>
+<p><pb/></p>
+<p>46 MÉLANGES</p>
+<p>vers 1730 :</p>
+<p>Il dit ailleurs :</p>
+<p>« Shakspeare créa le théâtre anglois. Il avoit un génie « plein de force
+et de fécondité, de naturel et de su" blime , sans la moindre étincelle
+de bon goût, et sans » la moindre connoissance des règles. Je vais vous
+dire " une chose hasardée, mais waie : c'est que le mérite » de cet
+auteur a perdu le théâtre anglois. Il y a de si « belles scènes, des
+morceaux si grands et si terribles » répandus dans ses farces
+monstrueuses qu'on appelle » tragédies , que ces pièces ont toujours été
+jouées avec " un grand succès. »</p>
+<p>Telles furent les premières opinions de Voltaire sur Shakspeare. Mais
+lorsqu'on eut voulu faire passer ce grand génie pour un modèle de
+perfection, lorsqu'on ne rougit point d'abaisser devant lui les
+chefs-d'oeuvre de la scène grecque et françoise, alors l'auteur de
+Mérope sentit le danger. Il vit qu'en relevant les beautés d'un barbare,
+il avoit séduit des hommes qui., comme lui, ne sauroient pas séparer
+l'adiage de l'or. Il voulut revenir sur ses pas ; il attaqua l'idole qu'il</p>
+<p><pb/></p>
+<p>LITTERAIRES. 47</p>
+<p>Un excellent critique, M. de La Harpe, en analysant la Tempête dans la
+traduction de Le Tourneur, présenta dans tout leur jour, les grossières
+irrégularités de Shakspeare, et vengea la scène françoise. Deux auteurs
+modernes, Mme. de Staël et M. de Rivarol, ont aussi jugé le tragique
+anglois. Mais il me semble que, malgré tout ce qu'on a' écrit sur ce
+sujet, on peut encore faire quelques remarques intéressantes.</p>
+<p>Quant aux critiques anglois, ils ont rarement dit la vérité sur leur
+poëte favori. Ben-Johnson, qui fut le disciple et ensuite le rival de
+Shakspeare , partagea d'abord les suffrages. On vantoit le savoir du
+premier pour ravaler le génie</p>
+<p><pb/></p>
+<p>48 MÉLANGES</p>
+<p>du second, et on élevoit au ciel le génie du second pour déprécier le
+savoir du premier. BenJohnson n'est plus connu aujourd'hui que par sa
+comédie du Fox et par celle de l'Alchimiste.</p>
+<p>Pope montra plus d'impartialité dans sa critique.</p>
+<p>Of all english poets , dit-il, Shakspear must be confessed to be the
+fairest and fullest subject for criticism, and to afford the most
+numerous instances , both of beauties , and faults of all sorts.</p>
+<p>« Il faut avouer que de tous les poëtes anglois, Shaks» peare présente à
+la critique le sujet le plus agréable et » le plus dégoûtant , et qu'il
+fournit d'innombrables » exemples de beautés et de défauts de toute
+espèce. »</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 49</p>
+<p>MM. Théobald et Hanmer viennent ensuite. Leur admiration est sans
+bornes. Ils attaquent Pope, qui s'étoit permis de corriger quelques
+trivialités du grand homme. Le célèbre docteur Warburton, prenant la
+défense de son ami, nous apprend que M. Théobald étoit un pauvre homme,
+et M. Hanmer un pauvre critique ; qu'au premier il donna de l'argent, et
+au second des notes.</p>
+<p>« Ce sont là, dit-il, les petites chicanes de petits » esprits : un
+poëte néglige la distinction accidentelle " du pays et de la condition,
+comme un peintre , sa" tisfait de la figure, s'occupe peu de la draperie. »</p>
+<p>Il est inutile de relever le mauvais ton et la fausseté de cette
+critique. La vraisemblance des moeurs, loin d'être la draperie, est le
+fond même du tableau. Tous ces critiqués qui s'appuient sans cesse sur
+la nature, et qui regardent comme des préjugés de l'art la distinction
+accidentelle du pays et de la condition, sont comme ces politiques qui
+replongent les états dans la</p>
+<p>TOME XXI. 4</p>
+<p><pb/></p>
+<p>50 MÉLANGES</p>
+<p>barbarie, en voulant anéantir les distinctions</p>
+<p>sociales.</p>
+<p>Je ne citerai point les opinions de MM. Rowe, Steevens, Gddon; Dennis,
+Peck, Garrick, etc. Mme. de Montague les a tous surpassés en
+enthousiasme. Hume et le docteur Blair ont seuls gardé quelque mesure.
+Sherlock a osé dire (et c'est avoir du courage pour un Anglois), il a
+osé dire : Qu'il n'y a rien de médiocre dans Shakspeare, que tout ce
+qu'il a écrit est excellent ou détestable ; que jamais il ne suivit ni
+même ne conçut un plan, excepté peut - être celui des Merry wiwes of
+Windsor ; mais qu'il fait souvent fort bien une scène. Cela approche
+beaucoup de la vérité. M. Mason, dans son Elfrida et dans son
+Caractacus, a essayé, mais sans succès, de donner la tragédie grecque à
+l'Angleterre. On ne joue presque plus le Caton d'Addison. On ne se
+délasse au théâtre anglois des monstruosités de Shakspeare que par les
+horreurs d'Otway.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 51</p>
+<p>que Shakspeare doit être considéré sous trois, rapports :</p>
+<p><pb/></p>
+<p>52 MELANGES</p>
+<p>Sous le second rapport, c'est-à-dire sous le</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 53</p>
+<p>MACDUFF. Qui s'avance ici !</p>
+<p>MALCOLM.</p>
+<p>C'est un Écossois, et cependant je ne le connois pas.</p>
+<p><pb/></p>
+<p>54 MÉLANGES</p>
+<p>MACDUFF.</p>
+<p>Cousin , soyez le bien-venu !</p>
+<p>MALCOLM.</p>
+<p>BOSSE.</p>
+<p>Puisse votre souhait s'accomplir !</p>
+<p>MACDUFF.</p>
+<p>L'Ecosse est-elle toujours aussi malheureuse ?</p>
+<p>ROSSE.</p>
+<p>MACDUFF.</p>
+<p>O récit trop véritable !</p>
+<p>MALCOLM.</p>
+<p>Quel est le dernier malheur ?</p>
+<p>Votre château est surpris , votre femme et vos</p>
+<p>enfants sont inhumainement massacrés</p>
+<p>MACDUFF</p>
+<p>Mes enfants aussi ?</p>
+<p><pb/></p>
+<p>LITTERAIRES. 55</p>
+<p>ROSSE.</p>
+<p>Femmes, enfants , serviteurs , tout ce qu'on a trouvé !</p>
+<p>MACDUFF,</p>
+<p>Et ma femme aussi ?</p>
+<p>ROSSE</p>
+<p>Je vous l'ai dit.</p>
+<p>MALCOLM.</p>
+<p>MACDUFF.</p>
+<p>Il n'a point d'enfants !</p>
+<p>« Athènes , dit-il, n'étoit qu'un vaste tombeau, habité » par la terreur
+et le silence ; le geste , le coup d'oeil, » la pensée même, devenoient
+funestes aux malheureux » citoyens. On étudioit le front de la victime ,
+et les » scélérats y cherchoient la candeur et la vertu , comme » un
+juge tâche d'y découvrir le crime caché du cou» pable 1. "</p>
+<p>1 XENOPH. Hist. Graec., lib. 2.</p>
+<p><pb/></p>
+<p>56 MÉLANGES</p>
+<p>CURIACE.</p>
+<p>Albe de trois guerriers a-t-elle fait le choix ?</p>
+<p>FLAVIAN.</p>
+<p>Je viens pour vous l'apprendre.</p>
+<p>CURIACE.</p>
+<p>Eh bien ! qui sont les trois ?</p>
+<p>FLAVIAN.</p>
+<p>Vos deux frères et vous.</p>
+<p>CURIACE.</p>
+<p>Qui?</p>
+<p>FLAVIAN.</p>
+<p>Vous et vos deux frères.</p>
+<p>Les interrogations de Macduffet de Curiace sont des beautés du même
+ordre. Mes enfants aussi?— Femmes, enfants. — Et ma femme aussi ? — Je
+vous l'ai dit. — EH BIEN ! QUI</p>
+<p>SONT LES TROIS? VOS DEUX FRÈRES ET TOUS.</p>
+<p>QUI ? — VOUS ET VOS DEUX FRÈRES. Mais le mot de Shakspeare , Il n'a
+point d'enfants ! reste sans parallèle.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 57</p>
+<p>Wilt thou be gone? It is not yet near day. It was the nihgtingale, and
+not the lark That pierced the fearful hollow of thine car, etc.</p>
+<p>JULIETTE.</p>
+<p>ROMÉO.</p>
+<p>C'étoit l'alouette, qui annonce l'aurore , ce n'étoit pas le rossignol.
+Regarde, ô mon amour '. regarde les traits de lumière qui pénètrent les
+nuages dans l'orient. Les flambeaux de la nuit s'éteignent, et le jour
+se lève sur le sommet vaporeux des montagnes. Il faut ou partir et
+vivre, ou rester et mourir.</p>
+<p>JULIETTE.</p>
+<p>La lumière que tu vois là-bas n'est pas celle du jour. C'est quelque
+météore qui te servira de flambeau, et t'éclairera sur la route de
+Mantoue. Reste encore; il n'est pas encore nécessaire que tu me quittes.</p>
+<p>ROMÉO.</p>
+<p><pb/></p>
+<p>58 MÉLANGES</p>
+<p>« Cette blancheur.lointaine n'est pas celle du matin ; " ce n'est que le
+pâle reflet de la lune ; ce n'est pas « l'alouette , dont les chants
+retentissent si haut au« dessus de nos têtes , dans la voûte du ciel. »
+Ah ! je crains moins de rester que de partir. Viens, ô mort!</p>
+<p>Mais que regardes-tu , ma bien-aimée ? Parlons , parlons encore
+ensemble, il n'est pas encore jour !</p>
+<p>JULIETTE.</p>
+<p>SACONTALA</p>
+<p>Qui saisit ainsi les plis de mon voile ?</p>
+<p><pb/></p>
+<p>LITTERAIRES. 59</p>
+<p>UN VIEILLARD.</p>
+<p>C'est le chevreau que tu as tant de fois nourri des graines du Synmaka.
+Il ne veut pas quitter les pas de sa bienfaitrice.</p>
+<p>SACONTALA.</p>
+<p>A la fine , cominciando l'aurora a voler uscire , si basciarono,
+estrettamente abbraciarono gli amanti, e pieni di lagrime e sospiri si
+dissero adio. 1</p>
+<p>1 Novelle del BANDELLO. Seconda parte, p. 52. Luc. Edit. in-4° 1554.</p>
+<p><pb/></p>
+<p>60 MÉLANGES</p>
+<p>PREMIER DEMI-CHOEUR.</p>
+<p>i'IXt/.i, T£ $pw(A£v; r, Sovsï Tîipâv Sopi'jLç, Avaaî T a?a&lt;7 av' t\
+CTZI—Q açâ-j Spo'ywv ;</p>
+<p>SECOND DEMI-CHOEUR. Tlç OU ÎTapêlOX ÏTpOïTO oïoi vsavizi ; Tiï îroW.à
+mpâ^eiv h. h àc7ça).Et (3too.</p>
+<p>PREMIER DEMI-CHOEUR.</p>
+<p>Compagnes , que ferons - nous ? Devons-nous entrer</p>
+<p><pb/></p>
+<p>LITTERAIRES. 61</p>
+<p>SECOND DEMI-CHOEUR.</p>
+<p>1 Brumoy traduit ainsi, en tronquant un couplet et paraphrasant l'autre :</p>
+<p>UNE REMME DU CHOEUR.</p>
+<p>UNE AUTRE FEMME.</p>
+<p><pb/></p>
+<p>62 MELANGES</p>
+<p>Les Anglois ont en grande estime le caractère comique de Falstaff dans
+les Merry wives of Windsor. En effet, ce caractère est bien dessiné,
+quoiqu'il soit souvent d'un comique peu naturel, bas et outré. Il y a
+deux manières de faire rire des défauts des hommes. L'une est de'
+présenter d'abord les ridicules , et d'offrir ensuite les qualités;
+c'est, la manière de l'anglois; c'est le comi-</p>
+<p><pb/></p>
+<p>LITTERAIRES. 63</p>
+<p><pb/></p>
+<p>64 . MELANGES</p>
+<p>« J'aimerois mieux être sur la terre l'esclave d'un la» boureur
+indigent, où la vie seroit peu abondante, " que de régner en souverain
+dans l'empire des Mânes, "</p>
+<p>Shakspeare has no heroes, etc. « Shakspeare » n'a point de héros. Sa
+scène est seulement oc» cupée par des hommes qui agissent et par» lent,
+comme le spectateur eût agi et parlé » lui-même, dans la même occasion.
+Les dra» mes de Shakspeare ne sont point ( dans le sens » d'une critique
+rigoureuse) des comédies ou » des tragédies , mais des compositions
+particu-</p>
+<p><pb/></p>
+<p>LITTERAIRES. 65</p>
+<p>flatTOME 5</p>
+<p><pb/></p>
+<p>66 MÉLANGES</p>
+<p>Il faut donc se persuader d'abord qu'écrire est un art ; que cet art a
+nécessairement des genres, et que chaque genre a des règles. Et qu'on ne
+dise pas que les genres et les règles sont arbitraires ; ils sont nés de
+la nature même: l'art a seulement séparé ce que la nature a confondu ;
+il a choisi les plus beaux traits, sans s'écarter de la ressemblance du
+grand modèle. La perfection ne détruit point la vérité ; et l'on peut
+dire que Racine , dans toute l'excellence de son art, est plus naturel
+que. Shakspeare ; comme l' Apollon, dans toute sa divinité, a plus les
+formes humaines qu'une statue grossière de l'Egypte.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 67</p>
+<p>Mais si Shakspeare, dit-on, a péché contre toutes les règles , mêlé tous
+les genres , blessé toutes les vraisemblances, il a du moins mis plus de
+mouvement sur la scène, et porté plus loin la terreur que les tragiques
+françois.</p>
+<p>On prétend surtout que Shakspeare est un</p>
+<p>5.</p>
+<p><pb/></p>
+<p>68 MÉLANGES</p>
+<p>Et puisque nous sommes sur ce sujet important, on me permettra de dire
+un mot de la querelle qui divise aujourd'hui le monde littéraire. Une
+partie de nos gens de lettres n'admire plus que les ouvrages étrangers,
+tandis que</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 69</p>
+<p><pb/></p>
+<p>70 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 71</p>
+<p>étonné de savoir quels sont ' les grands hommes de France, en Allemagne
+, et quels sont les auteurs françois qu'on méprise dans ce pays.</p>
+<p><pb/></p>
+<p>72 MÉLANGES LITTÉRAIRES,</p>
+<p><pb/></p>
+<p>BEATTIE.</p>
+<p>Juin 1801,</p>
+<p>LE génie écossois a soutenu avec honneur, dans ce dernier siècle, une
+littérature que les Pope, les Addison, les</p>
+<p><pb/></p>
+<p>74 MÉLANGES</p>
+<p>Un ouvrage tel que le Minstrel n'est pas susceptible d'analyse. Pour le
+faire connoître, il faut le traduire. Je donnerai donc ici le premier
+chant de cette amiable production, en en re-</p>
+<p><pb/></p>
+<p>LITTERAIRES. 75</p>
+<p>LE MINSTREL,</p>
+<p>OU LES PROGRÈS DU GÉNIE.</p>
+<p>Ah ! qui peut dire combien il est difficile de gravir le sommet où
+brille au loin le temple de la Gloire ! qui peut dire combien de génies
+sublimes ont senti l'influence d'un astre funeste ! Repoussés par les
+outrages de l'orgueil et par les dédains de l'envie , arrêtés par
+l'insurmontable barrière de l'indigence , ils ont langui quelque temps
+dans les obscurs sentiers de la vie , puis ils ont disparu dans la
+tombe, inconnus et sans être pleurés.</p>
+<p>Et cependant les langueurs d'une vie sans gloire ne</p>
+<p><pb/></p>
+<p>76 MÉLANGES</p>
+<p>Mais un pauvre minstrel inspire aujourd'hui mes vers. Ne vous étonnez
+point, mortels superbes, si je lui consacre mes accents. Les muses
+méprisent le sourire insultant de la fortune , et ne fléchissent point
+le genou devant l'idole des grandeurs</p>
+<p>Si les montagnes du Potose brillent de l'éclat du diamant et de l'or, si
+les montagnes de l'Ecosse s'élèvent froides et stériles , dans le sein
+des premières germent la cupidité et la corruption ; paisibles sont les
+vallées des secondes , et purs les cieux qui les éclairent.</p>
+<p>Dans les siècles gothiques (comme les vieilles ballades le racontent) ,
+vivoit autrefois un berger. Ses ancêtres avoient peut-être habité une
+terre aimée des muses, les grottes de la Sicile ou les vallées de
+l'Arcadie ; mais lui, il étoit né dans les contrées du Nord , chez une
+nation</p>
+<p><pb/></p>
+<p>LITTERAIRES. 77.</p>
+<p>fameuse par ses chansons et par la beauté de ses vierges ; nation fière
+quoique modeste , innocente quoique libre, patiente dans le travail ,
+ferme dans les périls, inébranlable dans sa foi, invincible sous les armes.</p>
+<p>Il étoit toute la postérité de ce couple innocent. Aucun oracle ne
+l'avoit annoncé au monde ; aucun prodige n'éclata sur son berceau. Vous
+devinez toutes les circonstances de la naissance d'Edwin : les
+transports du père et les soins maternels ; les prières offertes par la
+matrone , pour le bonheur, l'esprit et la vertu de l'enfant , et tout un
+long jour d'été passé dans le repos et la joie !</p>
+<p><pb/></p>
+<p>78 MÉLANGES</p>
+<p>sa vue , et cependant le bénissoient. Aux uns il sembloit d'une
+intelligence merveilleuse ; aux autres il paroissoit insensé.</p>
+<p>Cet étrange enfant aimoit d'un amour égal les scènes agréables et les
+scènes terribles. Il trouvoit autant de délices dans les ombres et les
+tempêtes , que dans le</p>
+<p><pb/></p>
+<p>LITTERAIRES. 79</p>
+<p>" les feuilles séchées</p>
+<p>»</p>
+<p>» Tout passe ainsi sur la terre ! Ainsi fleurit et se</p>
+<p>» fane l'homme majestueux</p>
+<p>»</p>
+<p>« Porté sur l'aile rapide et silencieuse du temps , la » vieillesse et
+l'hiver ont bientôt flétri les fleurs et nos » jeunes années.</p>
+<p><pb/></p>
+<p>80 MELANGES</p>
+<p>C'étoit de son père religieux qu'Edwin avoit appris ces</p>
+<p>Quand la cloche du soir, balancée dans les airs, chargeoit de ses
+gémissements la brise solitaire, le jeune Edwin, marchant avec lenteur,
+et prêtant une oreille attentive, se plongeoit dans le fond des vallées
+; tout autour de lui il croyoit voir errer des convois funèbres, de
+pâles ombres, des fantômes traînant des chaînes ou de longs voiles :
+mais bientôt ces bruits de la mort se perdoient dans le cri lugubre du
+hibou, ou dans les murmures du vent des nuits, qui ébranloit par
+intervalles les vieux dômes d'une, église.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 81</p>
+<p>Au bruit des chansons et des timbales, une troupe de belles dames
+s'avance du fond d'un bocage de myrte. Les guerriers déposent la lance
+et le bouclier, et les danses commencent au son d'une musique vive et
+joyeuse. On se mêle, on se quitte; on" fuit, on revient; on confond les
+détours du dédale mobile ; les forêts resplendissent au loin de l'éclat
+des flambeaux, de l'or et des pierreries.</p>
+<p>Le songe a fui Edwin, réveillé avec l'aurore,,</p>
+<p>ouvre ses yeux enchantés sur les scènes du matin ; chaque zephyr lui
+apporte mille sons délicieux ; on entend le bêlement du troupeau, le
+tintement de la cloche de la brebis, le bourdonnement de l'abeille ; la
+cornemuse fait retentir les rochers, et se mêle au bruit sourd de
+l'Océan lointain qui bat ses rivages.</p>
+<p>TOME XXI. 6</p>
+<p><pb/></p>
+<p>82 MELANGES</p>
+<p>Le chien de la cabane aboie en voyant passer le pèlerin matinal ; la
+laitière, couronnée de son vase, chante en descendant la colline ; le
+laboureur traverse les guérets en sifflant ; le lourd chariot crie en
+gravissant le sentier de la montagne ; le lièvre étonné sort des épis
+vacillants; la perdrix s'élève sur son aile bruyante; le ramier gémit
+dans son arbre solitaire ; et l'alouette gazouille au haut des airs..</p>
+<p>Salut, savants maîtres de la lyre ! poëtes, enfants de la nature ; amis
+de l'homme et de la vérité ! salut, vous dont les vers , pleins d'une
+douceur sublime , charmèrent mon enfance et instruisirent ma jeunesse!</p>
+<p>Hélas ! caché dans des retraites ignorées , le pauvre Edwin n'a jamais
+connu votre art. Quand les pluies de l'hiver et les neiges entassées ont
+fermé la porte de la cabane , seulement alors il entend quelques
+troubadours</p>
+<p>voyageurs chanter les faits de la chevalerie ou</p>
+<p>redire cette ballade touchante des deux enfants abandonnés dans le bois.
+En versant des pleurs sur l'attendrissante histoire , Edwin admire les
+prodiges de la Muse.</p>
+<p>Quand la tempête a cessé de rugir, il parcourt l'uniforme désert des
+neiges ; il contemple les nuages qui se balancent comme de gros
+vaisseaux sur les vagues de l'Océan , et cinglent vers l'horizon
+bleuâtre. Parmi ces décorations changeantes et toujours nouvelles ,
+Edwin découvre des fleuves . des gouffres , des géants , des</p>
+<p><pb/></p>
+<p>LITTERAIRES. 83</p>
+<p>rochers entassés sur des rochers,, et des tours penchées sur des tours.
+Alors descendant au rivage, l'enthousiaste solitaire marche le long des
+grèves , en écoutant avec un plaisir mêlé de terreur le mugissement des
+vagues roulantes. C'est encore ainsi que , pendant l'été , lorsque les
+nuages de l'orage allongent leur colonne ténébreuse sur le sommet des
+collines , Edwin se hâte de quitter la demeure de l'homme ; c'est encore
+ainsi qu'il s'enfonce dans la noire solitude, pour jouir des premiers
+feux de l'éclair et des premiers bruits du tonnerre, sous la voûte
+retentissante des cieux.</p>
+<p>On voit par ce dernier, vers que Beattie se proposoit de continuer son
+poëme. En effet, on</p>
+<p>6.</p>
+<p><pb/></p>
+<p>84 MÉLANGES</p>
+<p>trouvé un second chant, écrit quelque temps après; mais il est bien
+inférieur au premier. Edwin , en errant dans le désert, entend un jour
+une toix grave qui s'élève du fond d'une vallée : c'est celle d'un vieux
+solitaire qui, après avoir connu les illusions du monde, s'est enseveli
+dans cette retraité, pour y recueillir son âme et chanter les merveilles
+du Créateur. Cet hermite instruit le jeune minstrel et lui révèle le
+secret de son propre sénie. On voit combien cette idée étoit heureuse;
+mais l'exécution n'a pas répondu au premier dessein de l'auteur : le
+solitaire parle trop long-temps, et dit des choses trop communes sur les
+grandeurs et les misères de la vie! Toutefois on trouve encore dans ce
+second chant quelques passages qui rappellent le charme et le talent du
+premier. Les dernières strophes en sont consacrées au souvenir d'un ami
+que le poëte venoit de perdre. Il paroît que Bealtie étoit destiné à
+verser souvent des pleurs. La mort de son fils unique l'a profondément
+affecté, et l'a enlevé totalement aux Muses. Il vit encore sur les
+rochers de Morven ; mais ces rochers n'inspirent plus ses chants : comme
+Ossian qui a perdu son Oscar, il a suspendu sa harpe aux branches d'un
+chêne. On dit que son fils annonçoit un grand talent pour la</p>
+<p><pb/></p>
+<p>LITTERAIRES. 85</p>
+<p>poésie ; peut-être étoit-il ce jeune minstrel qu'un père sensible avoit
+peint, et dont il ne voit plus les pas sur le sommet de la montagne 1.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>ALEX. MACKENZIE.</p>
+<p>Juillet 1801.</p>
+<p>IL faut peut-être chercher dans l'inconstance et les dégoûts du coeur
+humain, le motif de l'intérêt général qu'inspire</p>
+<p><pb/></p>
+<p>88 MELANGES.</p>
+<p>Mais l'intérêt. attaché au récit des voyages diminue chaque jour, à
+mesure que le nombre des voyageurs augmente ; l'esprit philosophique a
+fait cesser les merveilles du désert :</p>
+<p>Les bois désenchantés ont perdu leurs miracles ! 1</p>
+<p>1 Fontanes.</p>
+<p>2 Genèse.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 89</p>
+<p>1 Odyss.</p>
+<p><pb/></p>
+<p>90 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 91</p>
+<p>Le 15 , le vent souffloit de l'ouest : nous fîmes quatre milles au sud,
+deux milles au sudouest , etc. Le fleuve étoit rapide : nous eûmes un
+portage, nous vîmes des huttes abandonnées; le pays étoit fertile ou
+aride ; nous traversâmes des plaines ou des montagnes; il tomba de la
+neige; mes gens étoient fatigués; ils voulurent me quitter; je fis une
+observation astronomique, etc., etc., etc.</p>
+<p><pb/></p>
+<p>92 MELANGES</p>
+<p>si désiré de l'entreprise ; point de scènes attendrissantes lors du
+retour. En un mot, le lecteur n'est point embarqué dans le canot
+d'écorce avec le voyageur, et ne partage point avec lui ses craintes,
+ses espérances et ses périls.</p>
+<p>Malgré ces nombreux défauts , le mérite du journal de M. Mackenzie est
+fort grand ; mais il a besoin de commentaires, soit pour donner une idée
+des déserts que le voyageur traverse, et colorer un peu la maigreur et
+la sécheresse de son récit, soit pour éclaircir quelque point de géo-</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 93</p>
+<p>graphie. Je vais essayer de remplir cette tâche auprès du lecteur.</p>
+<p>Jacques Cartier, son successeur, visita tout le pays appelé Kannata par
+les sauvages, c'est-àdire , amas de cabanes 1. Il remonta le grand
+fleuve , qui reçut de lui le nom de Saint-Laurent, et s'avança jusqu'à
+l'île de Montréal, qu'on nommoit alors Hochélaga.</p>
+<p>tom1 Espagnols avoient certainement découvert le Canada avant Jacques
+Cartier et Verazani, et quelques auteurs prétendent que le nom CANADA
+vient des deux mots espagnols, ACA, NADA.</p>
+<p><pb/></p>
+<p>94 MÉLANGES</p>
+<p>» bèrent, dit Charlevoix, toutes les espérances » qu'on avoit conçues,
+de faire un établissement » en Amérique, personne n'osant se flatter
+d'être » plus habile ou plus heureux que ces deux » braves hommes. »</p>
+<p>Depuis ce moment les jésuites furent chargés du soin de continuer les
+découvertes dans l'intérieur des forêts canadiennes. Alors commencent
+ces fameuses missions qui étendirent l'empire françois des bords de
+l'Atlantique et des glaces de la baie d'Hudson aux rivages du Golfe
+Mexicain. Le père Biart et le père Enemond-</p>
+<p><pb/></p>
+<p>LITTERAIRES. 95</p>
+<p>Masse parcoururent toute l'Acadie ; le père Joseph s'avança jusqu'au lac
+Nipissing, dans le nord</p>
+<p>1 Ils les appellent les Montagnes des pierres brillantes.</p>
+<p><pb/></p>
+<p>96 MÉLANGES</p>
+<p>2 Les cartes françoises le placent au 50e. degré, latitude nord, et les
+cartes angloises au 53e.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 97</p>
+<p>La société anglo-canadienne, qui fait le commerce des pelleteries, a
+établi une factorerie au Chipiouyan 1, sur un lac appelé le lac des
+Montagnes , et qui communique au lac de l'Esclave, par une rivière.</p>
+<p>Du lac de l'Esclave, sort un fleuve qui coule au nord, et que M.
+Mackenzie a nommé de son nom. Le fleuve Mackenzie se jette dans la mer
+du pôle par les 69° 14' de latitude septentrionale, et les 135° de
+longitude ouest, méridien de Greenwich.</p>
+<p>1 58° 40' latitude nord, et 10° 30' longitude ouest. Mer de Greenwich.</p>
+<p>TOME XXI. 7</p>
+<p><pb/></p>
+<p>98 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. 99</p>
+<p>» teurs un Allemand et quatre Canadiens , dont deux » étoient
+accompagnés de leurs femmes.</p>
+<p>M. Mackenzie traverse le lac des Montagnes, entre dans la rivière de
+l'Esclave, qui le conduit au lac du même nom, côtoyé le rivage
+septentrional de ce lac, et découvre enfin le fleuve Mackenzie.</p>
+<p>» Depuis le lac jusque-là, les terres du côté du nord » sont basses et
+couvertes d'arbres ; le côté du sud est</p>
+<p>» plus élevé ; mais il y a aussi beaucoup de bois</p>
+<p>» Nous y vîmes beaucoup d'arbres renversés et noircis par » le feu, au
+milieu desquels s'élevoient de jeunes peupliers » qui avoient poussé
+depuis l'incendie. Une chose très-digne » de remarque , c'est que
+lorsque le feu dévore une forêt » de sapins et de bouleaux, il y croît
+des peupliers, quoi» qu'auparavant il n'y eût dans le même endroit aucun
+» arbre de cette espèce. »</p>
+<p>Les naturalistes pourront contester l'exacti7.</p>
+<p>l'exacti7.</p>
+<p><pb/></p>
+<p>100 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. 101</p>
+<p>en1</p>
+<p>2 Tree-Frog.</p>
+<p>» pouris ; elles ne coassent pas comme celles d'Europe,</p>
+<p>" mais pendant la nuit elles aboient comme des chiens. » LE PÈRE DU
+TERTRE, Hist. nat. des Antilles, tom. III.</p>
+<p><pb/></p>
+<p>102 MÉLANGES</p>
+<p>fin plus bas encore , en approchant de la mer,</p>
+<p>la nation des Esquimaux.</p>
+<p>At liquidas avium voces imitarier ore</p>
+<p>Ante fuit multô , quàm laevia carmina cantu</p>
+<p>Concelebrare homines possent, auresque juvare.</p>
+<p><pb/></p>
+<p>LITTERAIRES 103</p>
+<p>semble, vous êtes frappé d'un contraste étonnant: la première' se
+redresse et se balance avec une mollesse inattendue ; le second fait
+entendre les chants les plus tristes. La jeune femme semble vouloir
+imiter les ondulations gracieuses des bouleaux de son désert, et le
+jeune homme les murmures plaintifs qui s'échappent de leurs cimes.</p>
+<p>Lorsque les danses sont exécutées au bord d'un fleuve, dans la
+profondeur des bois, que des échos inconnus répètent pour la première
+fois les soupirs d'une voix humaine, que l'ourse des déserts regarde du
+haut de son rocher ces jeux de l'homme sauvage ; on ne peut s'empêcher
+de trouver quelque chose de grand dans la rudesse même du tableau, de
+s'attendrir sur la destinée de cet enfant de la nature , qui naît
+inconnu du monde, danse un moment dans des vallées où il ne repassera
+jamais, et bientôt cache sa tombe sous la mousse de ces déserts, qui n'a
+pas même gardé l'empreinte de ses pas, Fuissem quasi non essem !1</p>
+<p>En passant sous des montagnes stériles, le voyageur aborde au rivage, et
+gravit des roches escarpées avec un de ses chasseurs indiens.</p>
+<p>1 Job.</p>
+<p><pb/></p>
+<p>104 MÉLANGES</p>
+<p>» quantité de maringouins que nous ne pûmes pas aller » plus loin. Je
+remarquai que la chaîne des monts se ter» minoit en cet endroit. »</p>
+<p>Quatre chaînes de montagnes forment les quatre grandes divisions de
+l'Amérique septentrionale.</p>
+<p>La seconde chaîne commence aux Apalaches, sur le bord oriental du
+Meschacebé, se prolonge, au nord-est, sous les divers noms d'Alleganys,
+de Montagnes Bleues, de Montagnes des Lauriers , derrière les Florides,
+la Virginie, la Nouvelle-Angleterre, et va par l'intérieur de l'Acadie
+aboutir au golfe Saint-Laurent. Elle divise les eaux qui tombent dans
+l'Atlantique de celles qui grossissent le Meschacebé, l'Ohio, et les
+lacs du Canada inférieur.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 105</p>
+<p>la première chaîne borde encore l'Océan Indien. Vraisemblablement
+l'ancien continent de l'Amérique ne commençoit que derrière ces montagnes.</p>
+<p>De là, tournant au nord-ouest, et longeant la côte septentrionale du lac
+supérieur, elle arrive au lac Sainte-Anne , où elle forme une fourche
+sud-ouest et nord-ouest.</p>
+<p>Son bras septentrional rasant le lac du Cygne ,</p>
+<p><pb/></p>
+<p>106. MÉLANGES</p>
+<p>Ce fut une des cimes de cette dernière chaîne que M. Mackenzie voulut
+gravir avec son chasseur. Ceux qui n'ont vu que les Alpes et les
+Pyrénées, ne peuvent se former une idée de l'aspect de ces solitudes
+hyperboréennes, de ces régions désolées, où l'on voit, comme après le
+déluge , « de rares animaux errer sur des monta» gnes inconnues. »</p>
+<p>Rara per ignotos errent animalia montes."</p>
+<p><pb/></p>
+<p>LITTERAIRES. 107</p>
+<p>Mais la scène ne se montre dans toute son horreur qu'au bord même de
+l'Océan. D'un côté s'étendent de vastes champs de glaces contre lesquels
+se brise une mer décolorée où jamais n'apparut une voile ; de l'autre
+s'élève une terre bordée de mornes stériles. Le long des grèves on</p>
+<p><pb/></p>
+<p>108 . MÉLANGES</p>
+<p>ne voit qu'une triste succession de baies dévastées et de promontoires
+orageux. Le soir le voyageur se réfugie dans quelque trou de rocher,
+dont il chasse l'aigle marin, qui s'envole avec de grands cris. Toute la
+nuit il écoute avec effroi le bruit des vents que répètent les échos de
+sa caverne, et le gémissement des glaces qui se fendent sur la rive.</p>
+<p>Misérable they Who , here entangled in the gath'ring ice Take their last
+look of the descending sun ! While, full of death, and tierce with
+tenfold frost, The long, long night, incumbent o'er their head, Falls
+horrible. 1</p>
+<p>1 Thoms. Winter.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 109</p>
+<p>« Malheureux celui qui, embarrassé dans les » glaces croissantes, suit
+de ses derniers regards. » le soleil qui s'enfonce sous l'horizon ,
+tandis » que, pleine de' frimas et pleine de mort, la » longue, longue
+nuit, qui pendoit sur sa tête, » descend horrible ! »</p>
+<p>En quittant la baie pour remonter le fleuve et retourner au fort
+Chipiouyan , M. Mackenzie dépasse quatre établisements indiens, qui
+sembloient avoir été récemment habités.</p>
+<p>M. Mackenzie parle souvent de la religion de ces peuples , et de leur
+vénération pour les tombeaux. Donc un malheureux Sauvage bénit Dieu sur
+les glaces du pôle, et tire de sa propre misère des espérances d'une
+autre vie, tandis que l'homme civilisé renie son âme et son Créateur
+sous un ciel clément, et au milieu de tous les dons de la Providence.</p>
+<p><pb/></p>
+<p>110 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. 111</p>
+<p>Le 10 d'octobre 1792, trois ans après son premier voyage, M. Mackenzie
+part une seconde fois du fort Chipiouyan, traverse le lac des Montagnes,
+et gagne la rivière de la Paix. Il en refoule les eaux pendant vingt
+journées, et arrive le 1er. de novembre, dans un en-</p>
+<p><pb/></p>
+<p>112 MÉLANGES</p>
+<p>« Parmi les Sauvages qui vinrent me visiter , étoient</p>
+<p>» deux Indiens des Montagnes Rocheuses Ils</p>
+<p>" Ces Indiens m'apprirent aussi qu'on trouvoit du côté » du midi une
+autre grande rhière , qui couroit vers le » sud , et sur les bords de
+laquelle on pouvoit se rendre » en peu de temps , en traversant les
+montagnes.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 113</p>
+<p>TOME XXI. 8</p>
+<p><pb/></p>
+<p>114 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. 115</p>
+<p>» venus les mêmes libertés que les François ne faisoient » aucune
+difficulté de leur permettre , ils s'aperçurent » que ces manières ne
+leur plaisoient pas.</p>
+<p><pb/></p>
+<p>116 MÉLANGES</p>
+<p>M. Mackenzie remonte la rivière de la Paix avec ses François-Sauvages,
+et décrit la beauté de la nature autour de lui.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 117</p>
+<p>» buffles et d'élans. Ces derniers cherchent toujours les » hauteurs et
+les sites escarpés , tandis que les autres » préfèrent les plaines.</p>
+<p><pb/></p>
+<p>118 MÉLANGES</p>
+<p>couvrez cette superbe échelle, et la cime des rochers qui la couronnent
+au-dessus des nuages, vous croiriez voir le sommet des colonnes du
+temple de la nature, et le magnifique perron, qui y conduit.</p>
+<p>Le voyageur arrive au pied des Montagnes Rocheuses, et s'engage dans
+leurs détours. Les obstacles et les périls se multiplient : là, on est
+obligé de porter les bagages par terre, pour éviter des - cataractes et
+des rapides , ici, on refoule l'impétuosité du courant, en balant
+péniblement le canot avec une cordelle.</p>
+<p>Il faut entendre M. Mackenzie lui-même :</p>
+<p>« Quand le canot fut rechargé , moi et ceux de mes » gens qui n'avoient
+pas besoin d'y rester , nous suivîmes</p>
+<p>« le bord de la rivière J'étois si élevé au-dessus</p>
+<p><pb/></p>
+<p>LITTERAIRES. 119</p>
+<p>Rien n'est triste comme l'aspect de ces bois, vus du sommet des
+montagnes, dans le NouveauMonde. Les vallées que vous avez traversées,
+et que vous dominez de toutes parts, apparoissent</p>
+<p><pb/></p>
+<p>120 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. 121</p>
+<p><pb/></p>
+<p>122 MÉLANGES</p>
+<p>» ceptent la navigation. Dans les trois endroits, les eaux » se
+précipitent par-dessus des rochers perpendiculaires, « beaucoup plus
+hauts et plus escarpés que dans le haut » de la rivière; mais,
+indépendamment des difficultés » et des dangers de la navigation , il
+faut combattre les » divers habitants de ces contrées, qui sont
+très-nom" breux. »</p>
+<p>Chaque Canadien portoit sur ses épaules une charge de quatre-vingt-dix
+livres , indépendant</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 123</p>
+<p>ment de son fusil, d'un peu de poudre et de quelques balles. M.
+Mackenzie, outre ses armes et son télescope, portoit lui-même un fardeau
+de vivres et de quincailleries , du poids de soixantedix livres.</p>
+<p>« Il consistoit, dit M. Mackenzie, en sons doux, » mélancoliques , d'une
+mélodie assez agréable , » et ayant quelque rapport avec le chant de
+l'é» glise. » Lorsqu'un voyageur se réveille sous un arbre, au milieu de
+la nuit, dans les déserts de l'Amérique , qu'il entend le concert
+lointain de quelques Sauvages, entrecoupé par de longs silences et par
+le murmure des vents dans la forêt, rien ne lui donne plus l'idée de
+cette musique aérienne dont parle Ossian, et que les bardes décédés font
+entendre, aux rayons de la lune, sur les sommets du Slimora.</p>
+<p>Bientôt nos voyageurs arrivèrent chez des tribus indiennes, dont M.
+Mackenzie cite des traits de moeurs fort touchants. Il vit une femme pres-</p>
+<p><pb/></p>
+<p>124 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 125</p>
+<p>Tout est important pour le voyageur des déserts. La trace des pas d'un
+homme , nouvellement imprimée dans un lieu sauvage , est plus
+intéressante pour lui que les vestiges de l'antiquité , dans les champs
+de la Grèce. Conduit par les indices d'une peuplade voisiné, M.
+Mackenzie traverse le village d'une nation hospitalière, où chaque
+cabane est accompagnée d'un tombeau. De là, après avoir franchi des
+montagnes , il atteint les bords de la rivière du Saumon, qui se
+décharge dans l'Océan Pacifique. Un peuple nombreux, plus propre, mieux
+vêtu et mieux logé que les autres Sauvages, le reçoit avec cordialité.
+Un vieillard perce la foule et vient le presser dans ses bras ; on lui
+sert un grand festin ; on lui fournit des vivres en abondance. Un jeune
+homme détache un beau manteau de ses épaules, pour le suspendre aux
+siennes. C'est presque une scène d'Homère.</p>
+<p><pb/></p>
+<p>126 MÉLANGES</p>
+<p>la supériorité des lumières, celui de soulager des</p>
+<p>malheureux.</p>
+<p>Les découvertes de ce voyageur offrent deux résultats très-importants ,
+l'un pour le commerce, l'autre pour la géographie. Quant au premier, M.
+Mackenzie s'en explique lui-même.</p>
+<p>1 Le capitaine Cook.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 127</p>
+<p>" En ouvrant cette communication entre les deux " Océans , et en formant
+des établissements réguliers » dans l'intérieur du pays, et aux deux
+extrémités de la » route, ainsi que tout le long des côtes et des îles
+voi« sines, on seroit entièrement maître de tout le commerce « des
+pelleteries de l'Amérique septentrionale, depuis le » quarante-huitième
+degré de latitude jusqu'au pôle , » excepté la partie de la côte qui
+appartient aux Russes, " dans l'Océan Pacifique.</p>
+<p><pb/></p>
+<p>128 MÉLANGES</p>
+<p>Il n'y a donc que cinq ou six degrés de longitude entre la mer vue par
+Hearne et la mer du fond de la baie d'Hudson.</p>
+<p>Ensuivant notre premier calcul, nous n'aurons que soixante lieues de
+côtes inconnues, entre la mer de Hearne et celle de M. Mackenzie 1.</p>
+<p>trou1 ces calculs ne sont pas exacts, et les découvertes du capitaine
+Franklin et du capitaine Parry ont répandu une grande clarté sur la
+géographie de ces régions polaires.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 129</p>
+<p>vons enfin le détroit de Behring. Le capitaine Cook s'est avancé au delà
+de ce détroit, jusqu'au 69°. ou 70e. degré de latitude nord, et au
+275e., de longitude occidentale. Soixante-douze lieues, ou tout au plus
+six degrés de longitude, séparent l'Océan boréal de Cook de l'Océan
+boréal de M. Mackenzie.</p>
+<p>Me permettra-t-on une réflexion? M. Mackenzie a fait, au profit de
+l'Angleterre, des découvertes que j'avois entreprises et proposées jadis
+au gouvernement, pour l'avantage de la France. Du moins le projet de ce
+voyage, qui vient d'être achevé par un étranger, ne paroîtra plus
+chimérique. Comme d'autres sollicitent la fortune et le repos , j'avois
+sollicité l'honneur de porter, au péril de mes jours, des noms franTOIME</p>
+<p>franTOIME 9</p>
+<p><pb/></p>
+<p>130 MÉLANGES LITTÉRAIRES.</p>
+<p>En rendant compte des travaux de M. Mackenzie , j'ai donc pu mêler mes
+observations aux siennes, puisque nous nous sommes rencontrés dans les
+mêmes desseins, et qu'au moment où il exécutoit son premier voyage , je
+parcourois aussi les déserts de l'Amérique ; mais il a été secondé dans
+son entreprise , il avoit derrière lui des amis heureux et une patrie
+tranquille : je n'ai pas eu le même bonheur.</p>
+<p><pb/></p>
+<p>SUR</p>
+<p>LA LEGISLATION PRIMITIVE</p>
+<p>DE M. LE VICOMTE DE BONALD.</p>
+<p>Novembre 1802.</p>
+<p>EU d'hommes naissent avec une disposition particulière et déterminée à
+un seul objet, qu'on appelle talent ; bienfait de la nature , si des</p>
+<p>circonstances favorables en secondent le développement, en permettent
+l'emploi ; malheur réel , tourment de l'homme , si elles le contrarient.</p>
+<p>Ce passage est tiré du livre même que nous annonçons aujourd'hui au
+public. Rien n'est</p>
+<p>9.</p>
+<p><pb/></p>
+<p>132 MÉLANGES</p>
+<p>Spar1 ouvrage, qui parut en 1796, fut supprimé par le Directoire, et n'a
+pas été réimprimé.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 133</p>
+<p><pb/></p>
+<p>134 MÉLANGES</p>
+<p>cine et La Bruyère furent presque méconnus de leur vivant. Nous voyons
+Rollin, cet homme plein de goût et de savoir, balancer le mérite de
+Fléchier et de Bossuet, et faire assez comprendre qu'on donnoit
+généralement la préférence au premier. La manie de tous les âges a été
+de se plaindre de la rareté des bons écrivains et dés bons livres. Que
+n'a-t-on point écrit contre le Télémaque, contre les Caractères de la
+Bruyère, contre les chefs-d'oeuvre de Racine ! Qui ne connoît
+l'épigramme sur Athalie ? D'un autre côté, qu'on lise les journaux du
+dernier siècle ; il y a plus, qu'on lise ce que La Bruyère et Voltaire
+ont dit eux-mêmes de la littérature de leur temps.; pourroit-on croire
+qu'ils parlent de ces mêmes temps où vécurent Fénélon, Bossuet, Pascal,
+Boileau, Racine , Molière, La Fontaine, J.-J. Rousseau, Buffon et
+Montesquieu?</p>
+<p>La littérature françoise va changer de face; avec la révolution vont
+naître d'autres pensées, d'autres vues des choses et des hommes. Il est
+aisé de prévoir que les écrivains se diviseront. Les uns s'efforceront
+de sortir des anciennes routes ; les autres tâcheront de suivre les
+antiques modèles, mais toutefois en les présentant sous un jour,
+nouveau. Il est assez probable que les derniers finiront par l'emporter
+sur leurs adversaires , parce qu'en s'appuyant sur les grandes</p>
+<p><pb/></p>
+<p>LITTERAIRES. 135</p>
+<p>traditions, et sur les grands hommes, ils auront des guides bien plus
+sûrs et des documents bien plus féconds.</p>
+<p>Le nouvel ouvrage de M. de Bonald est divisé en quatre parties. La
+première ( comprise dans le discours préliminaire) traite du rapport des
+êtres, et des principes fondamentaux de la législation.</p>
+<p>La seconde considère l'état ancien du ministère public en France.</p>
+<p>La troisième regarde l'éducation publique, et la quatrième examine
+l'état de l'Europe chrétienne et mahométane.</p>
+<p>Si dans l'extrait que l'on va donner de la Législation primitive on se
+permet quelquefois de n'être pas de l'opinion de l'auteur, il voudra
+bien le pardonner. Combattre un homme tel</p>
+<p><pb/></p>
+<p>136 MELANGES</p>
+<p>que lui, c'est lui préparer de nouveaux triomphes.</p>
+<p>Pour remonter aux principes de la législation, M. de Bonald commence par
+remonter aux principes des êtres, afin de trouver la loi primitive,
+exemplaire éternel des lois humaines, qui ne sont bonnes ou mauvaises
+qu'autant qu'elles se rapprochent ou s'éloignent de cette loi, qui n'est
+qu'un écoulement de la sagesse divine— Lex... rerum omnium principem
+expressa naturam, ad quam leges hominum diriguntur, quoe supplicio
+improbos afficiunt, et defendunt et tuentur bonos 1. M. de Bonald trace
+rapidement l'histoire de la philosophie qui, selon lui, vouloit dire
+chez les anciens amour de la sagesse, et parmi nous recherche de la
+vérité. Ainsi les Grecs faisoient consister la sagesse dans la pratique
+des moeurs, et nous dans la théorie. « Notre » philosophie, dit
+l'auteur, est vaine dans ses » pensées, superbe dans ses discours. Elle
+a pris » des stoïciens l'orgueil, et des épicuriens la li» cence. Elle a
+ses sceptiques, ses pyrrhoniens, » ses éclectiques; et la seule doctrine
+qu'elle » n'ait pas embrassée est celle des privations. »</p>
+<p>Sur la cause de nos erreurs M. de Bonald fait cette observation profonde :</p>
+<p>1 Cic. de Leg. lib. II.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 137</p>
+<p>« On peut préjuger en physique des erreurs » particulières ; on doit
+préjuger en morale des » vérités générales; et c'est pour avoir fait le
+» contraire, pour avoir préjugé la vérité en phy» sique, que le genre
+humain a cru si long» temps aux absurdités de la physique ancienne; »
+comme c'est pour avoir préjugé l'erreur dans » la morale générale des
+nations que plusieurs » ont, de nos jours , fait naufrage. »</p>
+<p><pb/></p>
+<p>138 MÉLANGES</p>
+<p>Il reconnoît trois sortes de paroles, le geste, la parole et l'écriture.</p>
+<p>Il fonde son opinion sur des raisons qui paroissent d'un très-grand poids.</p>
+<p>1°. Parce qu'il est nécessaire de penser sa parole, avant de parler sa
+pensée ;</p>
+<p>2°. Parce que le sourd de naissance qui n'entend pas la parole est muet,
+preuve que la parole est une chose apprise et non inventée ;</p>
+<p>3°. Parce que si la parole est d'invention humaine , il n'y a plus de
+vérités nécessaires, etc.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 139</p>
+<p>velopper son idée, et c'est ce qu'il a fait clans une excellente
+dissertation qui se trouve au second volume de son ouvrage. On y
+remarque cette comparaison, que l'on croiroit traduite du Phédon ou de
+la République.</p>
+<p>Cette correspondance naturelle et nécessaire des pensées et des mots qui
+les expriment, et cette nécessité de la parole pour rendre présentes à
+l'esprit ses propres pensées et les pensées des autres , peuvent être
+rendues sensibles par une comparaison dont l'extrême exactitude
+prouveroit toute seule une analogie parfaite entre les lois de notre
+être intelligent et celles de notre être physique.</p>
+<p><pb/></p>
+<p>140 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. 141</p>
+<p>chercher une preuve dans une imperfection de la nature. Supposons un
+homme sauvage, ayant tous ses sens, mais point encore la parole. Cet
+homme, pressé par la faim, rencontre dans les forêts un objet propre à
+la satisfaire ; il pousse un cri de joie en le voyant ou en le portant à
+sa bouche. N 'est-il pas possible qu'ayant entendu le cri, le son tel
+quel, il le retienne et le répète ensuite toutes les fois qu'il
+apercevra le même objet, ou sera pressé du même besoin? Le cri deviendra
+le premier mot de son vocabulaire , et ainsi de suite, jusqu'à
+l'expression des idées purement intellectuelles.</p>
+<p><pb/></p>
+<p>142 MELANGES</p>
+<p>Tout est consommé.</p>
+<p>M. de Bonald donne une singulière élévation et une profondeur immense au
+christianisme; il suit les rapports mystiques du Verbe et du Fils, et
+montre que le véritable Dieu ne pou voit être connu que par la
+révélation ou l'Incarnation de son Verbe, comme la pensée de l'homme n'a
+été manifestée que par la parole ou l'incarna-</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 143</p>
+<p>tion de la pensée. Hobbes, dans sa Cité chrétienne, avoit expliqué le
+Verbe comme l'auteur de la législation : in Testamento Novo groecè
+scripto , VERBUM DEI soepè ponitur ( non pro eo quod loquutus est Deus )
+sed pro eo quod de Deo et de regno ejus... In hoc autem sensu idem
+significant loyoç, ©eou.</p>
+<p><pb/></p>
+<p>144 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. 145</p>
+<p>TOME XXI. 10</p>
+<p><pb/></p>
+<p>146 MÉLANGES</p>
+<p>Heureux les états qui possèdent encore des citoyens comme M. de Bonald ;
+hommes que les injustices de la fortune ne peuvent décourager, qui
+combattent pour le seul amour du bien , lors même qu'ils n'ont pas
+l'espérance de vaincre !</p>
+<p>L'auteur de cet article ne peut se refuser une image qui lui est fournie
+par la position dans laquelle il se trouve. Au moment même où il écrit
+ces derniers mots , il descend un des plus</p>
+<p><pb/></p>
+<p>LITTERAIRES. 147</p>
+<p><pb/></p>
+<p>SUR</p>
+<p>LA LÉGISLATION PRIMITIVE,</p>
+<p>Decembre 1802.</p>
+<p>N peut remarquer dans l'histoire que la</p>
+<p>plupart des révolutions des peuples civilises</p>
+<p>civilises été précédées des mêmes opinions,</p>
+<p><pb/></p>
+<p>MELANGES LITTÉRAIRES. 149</p>
+<p>Si la fureur de tout détruire n'avoit pas été le caractère dominant de
+ce siècle , qu'avions-nous besoin cependant d'aller chercher des
+systèmes d'éducation dans les débris de l'antiquité ? N'a-</p>
+<p><pb/></p>
+<p>150 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. . 151</p>
+<p>« A'nacréon se tait devant les jansénistes. »</p>
+<p><pb/></p>
+<p>153 MÉLANGES,</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 153</p>
+<p>» toujours adopter. Je ne sais d'ailleurs s'il » étoit bien versé dans
+la connoissance de la » langue grecque et dans l'étude des belles»
+lettres ; il ne paraît pas au moins en faire » assez de cas. »</p>
+<p>M. de Bonald commence par poser en principe que l'homme naît ignorant et
+foible, mais capable d'apprendre; « bien différent de la brute ,</p>
+<p><pb/></p>
+<p>154 MÉLANGES</p>
+<p>» l'homme naît, dit-il, perfectible, et l'animal</p>
+<p>" naît parfait. »</p>
+<p>Et quel est le moyen général de cette conservation? La société.</p>
+<p>Comment la société exprime-t-elle ses rapports? Elle les exprime par des
+volontés qui s'appellent lois.</p>
+<p>Les lois sont donc des volontés, d'où résultent pour, les membres de la
+société des actions appelées devoirs.</p>
+<p>Donc l'éducation proprement dite est l'enseignement des lois et des
+devoirs de la société.</p>
+<p>L'éducation domestique qui suit l'enfant dans la maison paternelle ;
+elle a pour but de former l'homme pour la famille , et de l'instruire
+des éléments de la religion.</p>
+<p>L'éducation publique, qui est celle que les enfants reçoivent de l'état
+dans des établissements publics ; son but est de former l'homme pour la
+société publique et les devoirs religieux et politiques qu'elle commande.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 155</p>
+<p><pb/></p>
+<p>156 MÉLANGES</p>
+<p>En parlant d'abord de l'éducation domestique, M. de Bonald veut qu'on
+rejette toutes ces pratiques angloises, américaines, philosophiques,
+inventées par l'esprit de système et soutenues par la mode.</p>
+<p>« Des vêtements légers, dit-il, la tête découverte, un lit dur, sobriété
+et exercices , des privations plutôt que des jouissances , en un mot,
+presque toujours ce qui coûte le moins, est en tout ce qui convient le
+mieux/ et la nature n'emploie, ni tant de frais, ni tant de soins, pour
+élever ce frêle édifice qui ne doit durer qu'un instant, et qu'un
+souffle peut renverser. »</p>
+<p>Il conseille ensuite le rétablissement des corporations ,</p>
+<p>« que le gouvernement doit, dit-il, regarder comme l'éducation
+domestique des enfants du peuple. Ces corporations , où la religion
+fortifioit par ses pratiques les règlements de l'autorité civile,
+avoient, entre autres-</p>
+<p><pb/></p>
+<p>LITTERAIRES. 157</p>
+<p>avantages, celui de contenir par le devoir un peu dur des maîtres une
+jeunesse grossière, que le besoin de vivre soustrait de bonne heure au
+pouvoir paternel, et que son obscurité dérobe au pouvoir politique. »</p>
+<p>C'est voir les choses de bien haut, et considérer en véritable
+législateur ce que tant d'écrivains n'ont aperçu qu'en économistes,</p>
+<p>« Il faut une éducation perpétuelle, universelle, uni» forme, et par
+conséquent un instituteur perpétuel, » universel, uniforme : il faut
+donc un corps , car hors " d'un corps il ne peut y avoir ni perpétuité,
+ni géné» ralité, ni uniformité.</p>
+<p><pb/></p>
+<p>158 MÉLANGES » l'amour de soi, dont on veut faire le lien universel, est
+» et sera toujours le mortel enuemi de l'amour des au» tres</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 159</p>
+<p><pb/></p>
+<p>160 MÉLANGES.</p>
+<p>« Qu'est-ce qu'un maître chrétien-, chargé de l'éducation » de jeunes
+gens ? C'est un homme, entre les mains de qui " Jésus-Christ a remis un
+certain nombre d'enfants, qu'il " a rachetés de son sang et pour
+lesquels il a donné sa vie ; » en qui il habite comme dans sa maison et
+dans son tem» ple ; qu'il regarde comme ses membres , comme ses » frères
+et des cohéritiers , dont il veut faire autant de » rois et de prêtres
+qui règneront et serviront Dieu avec « lui et par lui pendant toute
+l'éternité ; et il les leur a » confiés pour conserver en eux le
+précieux et l'inesti" mable dépôt de l'innocence. Or , quelle grandeur,
+» quelle noblesse une commission si honorable n'ajoute» t-elle point à
+toutes les fonctions des maîtres ? . . .</p>
+<p><pb/></p>
+<p>LITTERAIRES. 161</p>
+<p>» Un bon maître doit s'appliquer ces paroles que Dieu » faisoit
+continuellement retentir aux oreilles de Moïse » le conducteur de son
+peuple : « Portez-les dans votre » sein comme une nourrice a accoutumé
+de porter son » petit enfant. Porta eos in sinu tuo, sicut portare »
+solet infantulum. »</p>
+<p>Des maîtres, M. de Bonald passe aux élèves. Il veut qu'on les occupe
+principalement de l'étude des langues anciennes, qui ouvrent aux enfants
+les trésors du passé, et promènent leur, esprit et leur coeur sur de
+beaux souvenirs et de grands exemples. Il s'élève contre cette éducation
+philosophique « qui encombre, dit-il, » la mémoire des enfants de vaines
+nomencla» tures de minéraux, de plantes , qui rétré» cissent leur
+intelligence, etc. »</p>
+<p>1 Dans le GÉNIE DU CHRISTIANISME.</p>
+<p>TOME XXI. 11</p>
+<p><pb/></p>
+<p>162 MELANGES</p>
+<p>Voulez-vous apprendre l'histoire naturelle aux enfants ; sans dessécher
+leur coeur et sans flétrir</p>
+<p>1 Hist. Nat., tom. I. Prem. disc, pag. 79, édit. 17.</p>
+<p>2 Lettre de 1639, pag. 412. CARTES, libr. de direct, ingen. regula, n°. 5.</p>
+<p>3 OEuvres de DESC.,tom. I, pag. 112.</p>
+<p>4 Entend. Hum., liv. 4, chap. 3, art. 4, trad. de M. Cotte.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 163</p>
+<p>Il n'y a que les Etudes de la Nature de M. Bernardin de Saint-Pierre qui
+offrent des</p>
+<p>1 MATT. 10,29.</p>
+<p>11.</p>
+<p><pb/></p>
+<p>164 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 165</p>
+<p><pb/></p>
+<p>166 MÉLANGES</p>
+<p>Mais il est temps de passer au résumé géné-</p>
+<p><pb/></p>
+<p>LITTERAIRES. 167</p>
+<p>ral de la Législation primitive; tels sont les principes que M. de
+Bonald a posés.</p>
+<p>Il y a un Etre Suprême ou une cause générale.</p>
+<p>Cet Etre Suprême est Dieu. Son existence est surtout prouvée par la
+parole , que l'homme n'a pas pu trouver , et qui lui a été enseignée.</p>
+<p>La cause générale , ou Dieu , a produit un effet également général dans
+le monde : c'est l'homme.</p>
+<p>Ces deux termes , cause et effet, Dieu et l'homme, ont un terme moyen
+nécessaire , sans quoi il n'y auroit point de rapports entre eux.</p>
+<p>Il est venu au terme marqué. Avant lui les véritables rapports de
+l'homme avec Dieu n'étoient point connus, parce que les êtres ne sont
+point connus par eux-mêmes , qu'ils ne le sont que par leurs rapports ;
+et que tout terme moyen ou tout rapport manquoit entre l'homme et Dieu.</p>
+<p>Ainsi il y aura véritable connoissance de Dieu et de l'homme partout où
+le médiateur sera connu, et ignorance de Dieu et de l'homme, partout où
+le médiateur sera inconnu.</p>
+<p><pb/></p>
+<p>168 MÉLANGES</p>
+<p>Donc il y a eu civilisation commencée chez les Juifs et civilisation
+consommée chez les chrétiens. Les peuples païens ont été des barbares.</p>
+<p>Les trois termes primitifs étant établis, M.de Bonald les applique au
+mode social ou moral, parce que ces trois termes renferment en effet
+l'ordre de l'univers. La cause, le moyen et l'effet deviennent alors
+pour la société, le pouvoir, le ministre et le sujet.</p>
+<p>La société est religieuse ou politique , domestique ou publique ;</p>
+<p>L'état purement domestique de la société religieuse s'appelle religion
+naturelle,</p>
+<p>L'état purement domestique de la société politique s'appelle famille.</p>
+<p>L'accomplissement de la société religieuse a été de faire</p>
+<p><pb/></p>
+<p>LITTERAIRES. 169</p>
+<p>Le lecteur doit s'apercevoir ici qu'il a quitté la partie systématique
+de l'ouvrage de M. de Bonald, et qu'il entre dans une série de
+principes' les plus féconds et les plus nouveaux.</p>
+<p>Dans tous les modes particuliers de la société, le pouvoir veut la
+société , c'est-à-dire sa conservation ; le ministre agit, en exécution
+de la volonté du pouvoir. Le sujet est l'objet de la volonté du pouvoir
+et le terme de l'action des ministres.</p>
+<p>Le pouvoir veut ; il doit être un : les ministres agissent ; ils doivent
+être plusieurs.</p>
+<p>Dans le livre second de son ouvrage, M. de Bonald montre l'application
+aux états particuliers de la société. Il établit pour la famille , ou la
+société domestique, les divers rapports entre les maîtres et les
+domestiques, entre les pères et les enfants. Dans la société publique ,
+il dé-</p>
+<p><pb/></p>
+<p>170 MÉLANGES</p>
+<p>Le combat s'engage entre l'idolâtrie et le christianisme ; il fut
+sanglant. La religion perd ses plus généreux athlètes, mais elle
+triomphe. Jusqu'alors renfermée dans la famille ou la société domestique
+, elle passe dans l'Etat ; elle devient propriétaire. Aux petites
+églises d'Ephèse et de Thessalonique , succèdent les grandes églises des
+Gaules et de la Germanie. L'état politique se forme avec l'état
+religieux, ou plutôt est constitué naturellement par lui. Les grandes
+monar-</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 171</p>
+<p><pb/></p>
+<p>172 MELANGES</p>
+<p>Enfin l'époque de la grande révolution religieuse arrive ; elle est
+d'abord préparée dans l'Eglise par l'imprudente institution des ordres
+mendiants, que la cour de Rome crut devoir opposer au clergé riche et
+corrompu ; mais ces corps deviennent bientôt en France, chez une nation
+élégante et spirituelle, l'objet des sarcasmes des savants 1. En même
+temps que Rome avoit établi ses milices , l'État avoit fondé les
+siennes. Les croisades, les usurpations de la couronne ayant appauvri
+l'ordre des nobles , il fallut avoir recours pour la défense de l'État
+aux troupes soldées. La force militaire, sous Charles VII, passe au
+peuple armé ou aux troupes soldées; la force judiciaire, sous François
+Ier., passe au peuple lettré, par la vénalité des offices judiciaires.
+La réformation dans l'Eglise vient concourir avec les innovations dans
+l'État. Les simples citoyens avoient pris la place des magistrats ,
+constitués dans les fonctions politiques ; les simples fidèles
+usurpèrent sur les prêtres les fonctions religieuses. Luther attenta au
+sacerdoce public, Calvin le remplaça dans la famille. Le popularisme
+entra dans l'État, et le presbytérianisme dans l'Église.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 173</p>
+<p>Le ministère public passa au peuple en attendant qu'il s'arrogeât le
+souverain pouvoir, et alors furent proclamés les deux dogmes' parallèles
+et correspondants de la démocratie religieuse et de la démocratie
+politique : l'un , que l'autorité religieuse est dans le corps des
+fidèles ; l'autre , que la souveraineté politique est dans l'assemblée
+des citoyens.</p>
+<p><pb/></p>
+<p>174 MELANGES</p>
+<p>que des écrivains mettent aujourd'hui en avant,</p>
+<p>sans indiquer la source où ils les ont puisées.</p>
+<p>l Madame de Staël elle-même, dans la préface d'un roman, veut bien nous
+accorder quelque chose, et convenir que les</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 175</p>
+<p>M. de Bonald s'élève aussi contre ces esprits timides, qui, par respect
+pour la religion, laisseraient volontiers la religion périr. Il
+s'exprime presque dans les mêmes termes que nous :</p>
+<p>Au milieu des violentes critiques qui nous ont assailli dès nos premiers
+pas dans la littérature , nous avouerons qu'il est extrêmement flatteur
+et consolant pour nous de voir aujourd'hui notre foible travail
+sanctionné par une opinion aussi grave que celle de M. de Bonald.
+Cependant nous</p>
+<p><pb/></p>
+<p>176 MÉLANGES</p>
+<p>prendrons la liberté de lui dire que, dans l'ingénieuse comparaison
+qu'il fait de son ouvrage au nôtre, il prouve qu'il sait se servir mieux
+que nous des armes de l'imagination, et que s'il ne les emploie pas plus
+souvent, c'est qu'il les dédaigne. Il est, quoi qu'il en puisse dire, le
+savant architecte du temple, dont nous ne sommes que l'inhabile décorateur.</p>
+<p>1 M. de Fontanes, dans un extrait de cet excellent ouvrage, a placé le
+premier M. de Bonald au rang qu'il doit occuper dans les lettres.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 177</p>
+<p>et fin : son imagination n'est pas toujours, comme les imaginations
+éminemment poétiques, portée par un sentiment vif ou une grande image;
+mais aussi elle est spirituelle , ingénieuse ; ce qui fait qu'elle a
+plus de calme que de mouvement, plus de lumière que de chaleur. Quant
+aux sentiments de M. de Bonald, ils respirent partout cet honneur
+françois, cette probité qui font le caractère dominant des écrivains du
+siècle de Louis XIV. On sent que ces écrivains ont découvert la vérité,
+moins encore par la force de leur esprit que par la droiture de leur coeur.</p>
+<p>réTOME 12</p>
+<p>TOME XXI.</p>
+<p><pb/></p>
+<p>178 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. 179</p>
+<p>ciens, et au bout desquelles apparoissoit un tombeau :</p>
+<p>EcTîîxëÇ'J-j'ov avov ocov , etc.</p>
+<p>12.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>SUR</p>
+<p>LE PRINTEMPS D'UN PROSCRIT,</p>
+<p>POÊME,</p>
+<p>PAR M. J. MICHAUD.</p>
+<p>JANVIER 1883,</p>
+<p>VOLTAIRE a dit : « Ou chantez, vos plaisirs , ou laissez, vos
+chansons.,» Ne pourrait-on pas dire avec autant de vérité</p>
+<p>vérité « Ou chantez vos malheurs, ou laissez vos » chansons ? "</p>
+<p><pb/></p>
+<p>182 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 183</p>
+<p>des bois et des cieux ; il gardera sa douceur, et ne perdra que son
+amertume : heureux ceux qui aiment la nature; ils la trouveront, et ne
+trouveront qu'elle, au jour de l'adversité 1 !</p>
+<p>» Rome sans moi! Hélas ! que n'est-il per»</p>
+<p>1 Ce paragraphe est emprunté de I'ESSAI HISTORIQUE.</p>
+<p><pb/></p>
+<p>184 MÉLANGES</p>
+<p>Les bois qu'il a plantés , sous leurs rameaux discrets, Dérobent aux
+méchants, les heureux qu'il a faits. Le pâle fugitif y cache ses
+alarmes, Et loin des factions, loin du fracas des armes, Pleure en paix
+sur les maux de l'État ébranlé.</p>
+<p>Quelquefois le hameau, que rassemble un saint zèle, Au Dieu dont il
+chérit la bonté paternelle, Vient, au milieu des nuits, offrir, au lieu
+d'encens, Les voeux de l'innocence et les fleurs du printemps. L'écho
+redit aux bois leur timide prière.</p>
+<p>Hélas ! qu'est devenu l'antique presbytère, Cette croix, ce clocher
+élancé dans les cieux, Et du temple sacré l'airain religieux , Et le
+Saint du hameau dont le vitreau gothique Montroit l'éclat pieux et
+l'image rustique ? Ces murs où de Dieu même on proclamoit les lois D'un
+pasteur révéré n'entendent plus la voix.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 185</p>
+<p><pb/></p>
+<p>186 MELANGES</p>
+<p>L'auteur, caché dans son désert, se rappelle les amis qu'il ne verra plus.</p>
+<p>Oh ! que ne puis-je voir dans mon humble retraite</p>
+<p>Du poète Romain l'immortel interprète.</p>
+<p>C'est lui qui m'inspira le goût si pur des champs,</p>
+<p>Aux spectacles que j'aime, il consacra ses chants;</p>
+<p>Suit les mêmes penchants et s'élève avec lui.</p>
+<p>Il n'est plus avec nous et sa muse exilée</p>
+<p>Erre sur d'autres bords plaintive et désolée 1.</p>
+<p>1 M. Delille étoit alors en Angleterre.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 187</p>
+<p>0 chantre du malheur ! je ne t'entendrai plus !</p>
+<p>Et vous dont j'admirois les talents, les vertus,</p>
+<p>Près de vous, aux leçons de l'austère sagesse</p>
+<p>Je perds l'espoir heureux de former ma jeunesse :</p>
+<p>Fontanes, dont la voix consola les tombeaux ;</p>
+<p>Saint-Lambert ! qui chantas les vertus des hameaux ;</p>
+<p>Morellet ! dont la plume éloquente et hardie</p>
+<p>Plaida pour le malheur devant la tyrannie ;</p>
+<p>Suard! qui réunis, émule d'Addison,</p>
+<p>La Harpe ! qui du goût proclamas les oracles ;</p>
+<p>Sicard ! dont les travaux sont presque des miracles ;</p>
+<p>Jussieu, Laplace, et toi, vertueux Daubenton,</p>
+<p>Je ne vous verrai plus !</p>
+<p>» permet pas de l'oublier Vous espérez, cher</p>
+<p><pb/></p>
+<p>188 MÉLANGES</p>
+<p>Hélas ! en lisant le nom de M. de la Harpe dans les vers de M. Michaud,
+qui ne se sentirait attendri ! A peine avons-nous retrouvé les personnes
+qui nous sont chères, qu'il faut encore, et pour toujours, nous séparer
+d'elles ! Nul ne comprend mieux que nous toute l'étendue du malheur qui
+menace, en ce moment, les lettres et la religion. Nous avons vu M. de la
+Harpe abattu, comme Ezéchias, sous la main de Dieu ; il n'y a qu'une foi
+vive et une sainte espérance qui puissent donner une résignation aussi
+parfaite , un courage aussi grand, des pensées aussi hautes et aussi
+touchantes, au milieu des douleurs d'une lente agonie et des épreuves de
+la mort.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 189</p>
+<p>trie, et désirant, pour tout bonheur, d'apercevoir seulement la fumée de
+son palais ? Mercure le trouve assis tristement sur le rivage de l'île
+de Calypso : il regardoit, en versant des pleurs, cette mer
+éternellement agitée (irrequietum),</p>
+<p>novTOV Ere arpuyerov Sepy.Eay.tTO Sty.pa. ).eiêwv,</p>
+<p>Vers admirable, que Virgile a traduit en l'appliquant aux Troyennes
+exilées :</p>
+<p>Cunctaeque profundum Pontum aspectabant fientes.</p>
+<p>beau. Ossian a peint avec des couleurs différentes,</p>
+<p>mais qui ont aussi beaucoup de charmes, une</p>
+<p>jeune femme morte loin de son pays, dans une</p>
+<p>terre étrangère.</p>
+<p>« There lovely Moïna is often seen when the sun» beam darts on the rock,
+and all around is dark. There » she is seen, Malvina, but not like the
+daughters of » the hill. Her robes are from the stranger's land ; and »
+she is still alone. »</p>
+<p><pb/></p>
+<p>190 MÉLANGES</p>
+<p>» Moïna; on l'y voit souvent, ô Malvina! mais » non telle que les filles
+de la colline. Ses vête» ments sont du pays de l'étranger, et elle est »
+encore solitaire. »</p>
+<p>On devine par la douceur des plaintes de l'auteur du poëme du Printemps
+qu'il avoit ce mal du pays, ce mal qui attaque surtout les François loin
+de leur patrie. Monime, au milieu des Barbares, ne pouvoit oublier le
+doux sein de la Grèce. Les médecins ont appelé cette-tristesse de l'âme
+nostalgie, de deux mots grecs, j/oç-oç, retour, et c/lyoç, douleur,
+parce qu'on ne peut la , guérir qu'en retournant aux foyers paternels.
+Eh ! comment M. Michaud, qui sait faire soupirer sa lyre, n'eût-il pas
+mis de la sensibilité dans un sujet que Gresset lui-même n'a pu chanter
+sans s'attendrir ! Dans son ode sur l'Amour de la patrie, on trouve
+cette strophe touchante :</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 191</p>
+<p>0 beaux jours du printemps ! ô vallons enchantés! Quel chef-d'oeuvre des
+arts égale vos beautés ? Tout Voltaire vaut-il un rayon de l'aurore,</p>
+<p>Ou la moindre des fleurs que Zéphyr fait éclore ?</p>
+<p>1 M. Michaud a depuis corrigé ce passage.</p>
+<p><pb/></p>
+<p>192 MELANGES</p>
+<p>1 Ce morceau est emprunté du GÉNIE DU CHRISTIANISME.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 193</p>
+<p>Sous ces débris couverts d'une mousse légère, Sous cet antique ormeau
+dont l'abri solitaire Répand sur l'horizon un deuil religieux, Reposent
+du hameau les rustiques aïeux. Bravant les vains mépris de la foule
+insensée Jamais l'ambition ne troubla leur pensée. Peut-être en ce
+cercueil, d'humbles fleurs entouré, Dort un fils d'Apollon, d'Apollon
+ignoré, Un héros dont le bras eut fixé la victoire, Qui n'a point su
+combattre, et qui mourut sans gloire. Un Cromwel, un Sylla, du hameau
+dédaigné, Qui respecta les lois et qui n'a point régné. Ainsi la fleur
+qui naît sur les monts solitaires, Ne montre qu'au désert ses couleurs
+passagères ; Et l'or, roi des métaux, cache en des souterrains Son éclat
+trop funeste au repos des humains.</p>
+<p>1 M. Michaud a depuis rectifié ces deux vers de la manière suivante :</p>
+<p>» Ainsi vain ornement d'une rive inconnue , » La rose du désert rougit
+sans être vue, etc. TOME XXI. 13</p>
+<p><pb/></p>
+<p>194 MELANGES</p>
+<p>Full many a gem of purest ray serene,</p>
+<p>The dark unfathom'd caves of ocean bear :</p>
+<p>Full many a flower is born to blush unseen, And waste its sweetness in
+the desert air.</p>
+<p>Nous avions essayé autrefois de rendre ainsi ces quatre vers, qu'on doit
+juger avec indulgence, car nous ne sommes pas poëte :</p>
+<p>Ainsi brille la perle, au fond des vastes mers; Ainsi passent aux champs
+des roses solitaires Qu'on ne voit point rougir, et qui, loin des
+bergères, D'inutiles parfums embaument les' déserts.</p>
+<p>Et ces rois exhumés par la main des bourreaux, Sont descendus deux fois
+dans la nuit des tombeaux.</p>
+<p>1 Bossuet.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 195</p>
+<p>On voit par ces beaux vers que M. Michaud sait prendre tous les tons.</p>
+<p>1 Le visage de Louis XIV étoit d'un noir d'ébène.</p>
+<p>13.</p>
+<p><pb/></p>
+<p>196 MÉLANGES</p>
+<p>Dans ce moment critique, croyez-vous que les gardes parlent de combats,
+de surprises, qu'ils se retracent des images terribles? Voici ce que dit
+le demi-choeur :</p>
+<p>« Écoutez ! ces accents sont ceux de Philo« mêle, qui, sur mille tons
+variés, déplore ses » malheurs, et sa propre vengeance. Les rives san»
+glantes du Simoïs répètent ses accents plain» tifs. J'entends le son de
+la cornemuse; c'est » l'heure où les bergers de l'Ida sortent pour »
+paître leurs troupeaux dans les riants vallons. » Un nuage se répand sur
+mes paupières appe» santies ; une douce langueur s'empare de mes » sens
+: le sommeil versé par l'aurore est le » plus délicieux. »</p>
+<p>Mais si nous avons banni de la scène tragique ces peintures pastorales
+qui, en adoucissant la terreur, augmentoient la pitié , parce qu'elles
+faisoient sourire sur un fond d'agonie, comme</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 197</p>
+<p>s'exprime Fénélon ; nous les avons transportées, ces peintures ( et avec
+beaucoup de succès ), dans des ouvrages d'un autre genre. Les modernes
+ont étendu et enrichi le domaine de la poésie descriptive. M. Michaud
+lui-même en fournit de beaux exemples :</p>
+<p><pb/></p>
+<p>198 MÉLANGES</p>
+<p>Et, par l'ombre du soir, la perdrix rassurée , Redemande aux échos sa
+compagne égarée.</p>
+<p>L'auteur du Poëme du Printemps pense que nous nous sommes trompés.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 199</p>
+<p>physiques est-elle donc si regrettable? qu'importe que Jupiter soit
+l'éther, que Junon soit l'air, etc. Mais puisqu'un critique 1 dont les
+jugements sont des lois , a cru devoir aussi combattre notre opinion sur
+l'emploi de la mythologie , qu'on nous permette de rappeler le chapitre
+qui fait l'objet de la discussion.</p>
+<p>mon1 de Fontanes.</p>
+<p><pb/></p>
+<p>200 MELANGES</p>
+<p>tagnes. Le vrai Dieu, en rentrant dans ses oeuvres, a</p>
+<p>Des sylvains et des naïades peuvent frapper agréablement l'imagination ,
+pourvu toutefois qu'ils ne soient pas sans cesse reproduits. Nous ne
+voulons point</p>
+<p>Mais, enfin, qu'est- ce que tout cela laisse au fond de l'âme? qu'en
+résulte-t-il pour le coeur? quel fruit peut en tirer la pensée ? Oh !
+que le poëte chrétien est bien plus favorisé dans la solitude où Dieu se
+promène avec lui ! Libre de ce troupeau de dieux ridicules, qui les
+bornoient de toutes parts, les bois se sont remplis d'une Divinité
+immense. Le don de prophétie et de sagesse, le mystère et la religion,
+semblent résider éternellement dans leurs profondeurs sacrées. Pénétrez
+dans ces forêts américaines aussi vieilles que le monde, etc., etc.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 201</p>
+<p>On dit que les modernes ont abusé de la poésie descriptive. Avons-nous
+avancé le contraire?</p>
+<p>1 GÉNIE DU CHRISTIANISME, liv. V.</p>
+<p><pb/></p>
+<p>202 MÉLANGES</p>
+<p>Telles sont encore nos propres paroles : « On " nous objectera peut-être
+que les anciens avoient » raison de regarder la poésie descriptive comme
+» la partie accessoire, et non comme l'objet prin» cipal du tableau;
+nous le pensons aussi, et l'on » fait de nos jours un grand abus du
+genre des» criptif. Mais l'abus n'est pas la chose ; mais il » n'en est
+pas moins vrai que la poésie descrip" tive , telle que nous l'avons
+aujourd'hui est un » moyen de plus entre nos mains, et qu'elle a "
+étendu la sphère des images poétiques, sans » nous priver de la peinture
+des moeurs et des " passions, telle que cette peinture existoit pour "
+les anciens 1. »</p>
+<p>1 GÉNIE DU CHRISTIANISME, liv. V, note D.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 203</p>
+<p>Nous n'en jugerons pas par notre propre sentiment ; car il est trop peu
+de chose, et nous n'avons pas même, comme Chaulieu, pour le lendemain ,</p>
+<p>« Un peu de savoir-faire et beaucoup d'espérance ; »</p>
+<p><pb/></p>
+<p>204 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 205</p>
+<p>" Voyez dans un profond calme, au lever de » l'aurore ,toutes les fleurs
+de cette vallée : im" mobiles sur leurs tiges, elles se penchent, en »
+mille attitudes diverses, et semblent regarder » tous les points de
+l'horizon. Dans ce moment » même, où vous croyez que tout est
+tranquille, » un grand mystère s'accomplit ; la nature con-</p>
+<p><pb/></p>
+<p>206 MELANGES</p>
+<p>Cela est bien imparfait sans doute, mais du moins on entrevoit par cette
+foible ébauche, ce qu'un poëte habile pourrait tirer d'un pareil sujet.</p>
+<p>Ce sont vraisemblablement ces rapports des choses inanimées aux choses
+animées, qui ont</p>
+<p><pb/></p>
+<p>LITTERAIRES. 207</p>
+<p><pb/></p>
+<p>208 MÉLANGES</p>
+<p>voient avoir cessé d'être. Ce fut sans doute l'amitié' en pleurs sur un
+monument, qui retrouva le dogme de l'immortalité de lame, et proclama la
+religion des tombeaux.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 209</p>
+<p>méTOME 14</p>
+<p><pb/></p>
+<p>210 MELANGES LITTERAIRES.</p>
+<p>connoître les beautés admirables qui existent dans les seuls noms , dans
+les seules expressions du christianisme, et l'on aura de la peine à
+comprendre comment on a pu se moquer de cette religion céleste de la
+raison et du malheur.</p>
+<p><pb/></p>
+<p>SUR L'HISTOIRE</p>
+<p>DE LA VIE DE JÉSUS-CHRIST,</p>
+<p>DU PERE DE LIGNY.</p>
+<p>DE LA COMPAGNIE DE JESUS.</p>
+<p>Juin 1802.</p>
+<p>14.</p>
+<p><pb/></p>
+<p>212 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. . 213</p>
+<p><pb/></p>
+<p>214 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. 215</p>
+<p>Gold1 de PASCAL.</p>
+<p><pb/></p>
+<p>216 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 217</p>
+<p>L'évangile de saint Matthieu est surtout précieux pour la morale. C'est
+cet apôtre qui nous a transmis le plus grand nombre de ces préceptes en
+sentiments, qui sortoient, avec tant d'abondance , des entrailles de
+Jésus-Christ.</p>
+<p>Saint Jean a quelque chose de plus doux et de plus tendre. On reconnoît
+en lui le disciple que Jésus aimoit, le disciple qu'il voulut avoir</p>
+<p><pb/></p>
+<p>218 MELANGES</p>
+<p>Saint Jérôme prétend que saint Luc étoit médecin , profession si noble
+et si belle dans l'antiquité, et que son évangile est la médecine de
+l'âme. Le langage dé cet apôtre est pur et élevé : on voit que c'étoit
+un homme versé dans les lettres, et qui connoissoit les affaires et les
+hom-</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 219</p>
+<p>« 1°. Comme plusieurs ont entrepris d'écrire » l'histoire des choses qui
+se sont accomplies » parmi nous;</p>
+<p>» 2°. Suivant le rapport que nous en ont fait » ceux qui dès le
+commencement les ont vues » de leurs propres yeux, et qui ont été les
+mi» nistres de la parole ;</p>
+<p>» 3°. J'ai cru que je devois aussi, très-excel» lent Théophile , après
+avoir été exactement » informé de toutes ces choses, depuis leur »
+commencement, vous en écrire par ordre toute » l'histoire. »</p>
+<p>Notre ignorance est telle aujourd'hui, qu'il y a peut-être des gens de
+lettres qui seront étonnés d'apprendre que saint Luc est un très - grand
+écrivain dont l'évangile respire le génie de l'antiquité grecque et
+hébraïque. Qu'y-a-t-il de plus beau que tout le morceau qui précède la
+naissance de Jésus-Christ ?</p>
+<p>« Au temps d'Hérode, roi de Judée, il y avoit » un prêtre nommé
+Zacharie, du rang d'Abia : " sa femme étoit aussi de la race d'Aaron, et
+» s'appeloit Elisabeth.</p>
+<p>» Ils étoient tous deux justes devant Dieu.... » Ils n'avoient point
+d'enfants, parce qu'Elisabeth</p>
+<p><pb/></p>
+<p>220 MÉLANGES</p>
+<p>» étoit stérile, et qu'ils étoient tous deux avancés</p>
+<p>» en âge. »</p>
+<p>» D'où me vient le bonheur que la mère de " mon Sauveur vienne vers moi ?</p>
+<p>» Car lorsque vous m'avez saluée, votre voix » n'a pas plus tôt frappé
+mon oreille, que mon " enfant a tressailli de joie dans mon sein. »</p>
+<p>Marie entonne alors le magnifique cantique : « O mon âme, glorifie le
+Seigneur ! »</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 221</p>
+<p>ciel, et paix aux hommes sur la terre ! mot digne des anges, et qui est
+comme l'abrégé de la religion chrétienne.</p>
+<p><pb/></p>
+<p>222 MÉLANGES</p>
+<p>L'ouvrage du Père de Ligny, embelli par la peinture , doit recevoir
+encore un autre ornement non moins précieux; M. de Bonald s'est chargé
+d'en écrire la préface : ce nom seul promet le talent et les lumières,
+et commande le respect et l'estime. Eh ! qui pourroit mieux parler des
+lois et des préceptes de Jésus-Christ que l'auteur</p>
+<p>1 Raphaël, Michel-Ange, le Dominicain, le Carache, Paul Véronèse, le
+Titien, Léonard-de-Vinci, le Gnerchin, Lanfranc, le Poussin, Le Sueur,
+le Brun, Rubens, etc.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 223</p>
+<p>du Divorce, de la Législation primitive et de laThéorie du pouvoir
+politique et religieux ?</p>
+<p>1 Deus meus, Deus meus, ut quid dereliquisti me?</p>
+<p>2 Speciosus forma prae filiis hominum. Psal. XLV, 2.</p>
+<p><pb/></p>
+<p>224 MÉLANGES</p>
+<p>Il peut le traverser ce pèlerinage, mais non pas l'empêcher de
+s'accomplir. Si l'auteur de cet article n'en eût pas été persuadé
+d'avance, il en serait maintenant convaincu par la scène qui se passe
+sous ses yeux 5. Quelle est cette puissance extraordinaire qui promène
+ces cent mille chrétiens sur ces ruines ? Par quel prodige la Croix
+reparoît-elle en triomphe dans cette même cité où naguère une dérision
+horrible la traînoit dans la fange ou le sang ? D'où renaît cette solennité</p>
+<p>1 Amicus sponsi stat et audit eum, gaudio gaudet propter vocem sponsi.
+JOANN. iij. 29.</p>
+<p>2 Fuge, dilecte mi, et assimilare capreae, hinnuloque cervorum super
+montes aromatum. Cant. viij, 14.</p>
+<p>3 Vox turturis audita est in terra nostrâ. Cant. ij, 12.</p>
+<p>4 Orais. fun. de M. le Tel.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 225</p>
+<p>profesTOME 15</p>
+<p><pb/></p>
+<p>220 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 227</p>
+<p>rance, ou rouvrirait pour eux les philanthropiques déserts de la Guyane.
+Ah ! lorsque ces enfants d'Aaron sont tombés la face contre terre ;
+lorsque l'archevêque , debout devant l'autel , étendant les mains sur
+les lévites prosternés , a prononcé ces paroles, Accipe jugum Domini, la
+force de ces mots a pénétré tous les coeurs et rempli tous les yeux de
+larmes ; ils l'ont accepté le joug du Seigneur, ils le trouveront
+d'autant plus léger , onus ejus leve , que les hommes cherchent à
+l'appesantir. Ainsi, malgré les prédictions des oracles du siècle,
+malgré les progrès de l'esprit humain, l'Église croît et se perpétue,
+selon l'oracle bien plus certain de celui qui l'a fondée : et quels que
+soient les orages qui peuvent encore l'assiéger, elle triomphera des
+lumières des sophistes, comme elle a triomphé des ténèbres des barbares.</p>
+<p>15.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>SUR UNE NOUVELLE ÉDITION</p>
+<p>DES</p>
+<p>OEUVRES COMPLÈTES DE ROLLIN.</p>
+<p>Fevrier 1805.</p>
+<p><pb/></p>
+<p>230 MÉLANGES</p>
+<p>1 On sent qu'il ne s'agit ici que du siècle en général et non de
+quelques hommes dont les talents feront toujours la gloire de la France.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 231</p>
+<p>de Boileau étoient remplacées par des poétiques pleines d'ignorance, de
+mauvais goût, de principes erronés et de faux jugements. On répétoit
+d'après le maître :</p>
+<p>Boileau, correct auteur de quelques bons écrits, Zoïle de Quinault</p>
+<p>On répétoit d'après l'écolier :</p>
+<p>Sans feu, sans verve, et sans fécondité, Boileau copie</p>
+<p>édition des oeuvres complètes de Rollin Cette</p>
+<p>belle entreprise est dirigée par un homme qui conserve le dépôt sacré
+des traditions et de l'autorité des siècles, et qui méritera dans la
+postérité, le titre de restaurateur de l'école de Boileau et de Racine.</p>
+<p>La Vie de Rollin qui doit précéder l'édition de ses oeuvres est déjà
+imprimée, et nous l'avons sous les yeux : elle est également remarquable</p>
+<p><pb/></p>
+<p>232 MÉLANGES</p>
+<p>Après avoir parlé de la naissance de Rollin , et de son entrée comme
+boursier au collége des Dix-huit, l'écrivain de sa vie ajoute :</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 233</p>
+<p><pb/></p>
+<p>234 MÉLANGES</p>
+<p>Il nous semble que ce passage est bien touchant : on y entend l'accent
+d'un coeur françois ; on y trouve quelque chose de grave et de tendre,
+comme les vieux magistrats, et les jeunes amis de collége dont l'auteur
+rappelle le souvenir. Il est remarquable que ce n'étoit qu'en France,
+dans ce pays célèbre par la frivolité de ses habitants , que l'on voyoit
+ces augustes familles distinguées par la sévérité de leurs moeurs. Les
+Harlay, les de Thou, les Lamoignon, les d'Aguesseau , formoient un
+contraste singulier avec le caractère général de la nation. Leurs
+habitudes sérieuses , leurs vertus intègres, leurs opinions
+incorruptibles étoient comme une expiation qu'ils offraient sans</p>
+<p><pb/></p>
+<p>LITTERAIRES. 235</p>
+<p>1 Mémoires du cardinal de Retz.</p>
+<p><pb/></p>
+<p>236 MÉLANGES</p>
+<p>convenable au sujet. Quand l'auteur parle ensuite des ouvrages de
+Rollin, et qu'il entre dans des discussions importantes, il montre un
+esprit nourri de bonnes doctrines, et une tête capable de concevoir des
+idées fortes et sérieuses. Nous en citerons un exemple :</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 237</p>
+<p><pb/></p>
+<p>238 MÉLANGES</p>
+<p>« Comme les peintres qui font des portraits,</p>
+<p><pb/></p>
+<p>LITTERAIRES. 239</p>
+<p>» cherchent surtout la ressemblance dans les » traits du visage, et
+particulièrement dans les » yeux où éclatent les signes les plus
+sensibles " des moeurs et du naturel, il faut qu'on me » permette de
+rechercher dans l'âme les princi» paux traits , afin qu'en les
+rassemblant je » fasse de la vie des grands hommes un portrait » vivant
+et animé 1. »</p>
+<p>On nous saura gré de citer en entier le mouvement oratoire par lequel
+l'auteur termine son ouvrage :</p>
+<p>1 In vitâ Alex.</p>
+<p><pb/></p>
+<p>240 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. 241</p>
+<p>» jeunesse de la France !.. une génération nou» velle lui a succédé</p>
+<p>TOME XXI. 1 6</p>
+<p><pb/></p>
+<p>242 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. 243</p>
+<p>16.</p>
+<p><pb/></p>
+<p>244 -MÉLANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 245</p>
+<p>tout des richesses. En parlant du bon Recteur de l'Université, il s'est
+prescrit la modération et la réserve; il a craint de blesser des vertus
+modestes, en répandant sur elles une trop vive lumière : on diroit qu'il
+s'est souvenu de cette loi des anciens, qui ne permettoit de chanter les
+dieux que sur le mode le plus grave et le plus doux de la lyre.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>SUR LES ESSAIS</p>
+<p>DE MORALE ET DE POLITIQUE.</p>
+<p>Décembre 1805.</p>
+<p>ON peut trouver plusieurs causes du succès prodigieux des romans,
+pendant ces dernières années : il y en a une principale,</p>
+<p>indépendante du goût et des moeurs. Fatigué des déclamations de la
+philosophie, on s'est jeté par besoin de repos dans les lectures
+frivoles ; on</p>
+<p><pb/></p>
+<p>248 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. 249</p>
+<p>Les facultés dont se compose notre esprit, les causes des égarements de
+notre esprit, la force de notre volonté, l'ascendant de nos passions,
+l'amour du beau et du bon , ou notre penchant pour la vertu, sont donc
+l'objet de la première partie.</p>
+<p>Une gravité naturelle et soutenue , un ton ferme sans jactance, noble
+sans enflure, des vues fines et quelquefois profondes , enfin cette
+mesure dans les opinions, cette décence de la bonne compagnie , d'autant
+plus précieuses qu'elles deviennent tous les jours plus rares : telles
+sont les</p>
+<p><pb/></p>
+<p>250 MÉLANGES</p>
+<p>qualités qui nous paroissént recommander cet</p>
+<p>ouvrage au public.</p>
+<p>« découvre pour le corps une foule de plaisirs » qu'il ignorerait
+toujours : elle lui conserve la</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 251</p>
+<p>» mémoire de ceux qu'il a goûtés ; et dans les » temps de disette, elle
+le nourrit de l'image » des objets qu'elle a chéris.... »</p>
+<p>Tout cela nous semble ingénieux, agréable , bien dit, délicatement
+observé. On lira avec le même plaisir le chapitre sur les Causes et les
+Suites des Egarements de l'Esprit. Si l'on trouvoit ce portrait de
+l'erreur dans les Caractères de La Bruyère, on le remarquerait peut-être.</p>
+<p>« Vraiment on calomnie les passions. Elles ne » sont que la. cause dés
+maux dont l'erreur est » le principe. Les passions s'usent, il faut bien
+» qu'elles se reposent ; l'erreur est éternelle et ne » se fatigue
+jamais. Les passions entraînent ceux » qu'elles tourmentent, les
+aveuglent, et souvent » les abîment. L'erreur conduit avec méthode, »
+conseille avec prudence ; elle n'ôte pas la con» noissance , et laisse
+éviter le danger ; elle est » austère et même inexorable , et le mal
+qu'elle » fait commettre, on l'exécute avec la rigueur du » devoir ;
+elle éclaire le crime, elle s'entend avec » l'orgueil ; et tous les
+crimes qu'elle fait com» mettre, l'orgueil les récompense. »</p>
+<p>Qui ne reconnoît ici la philosophie du dernier siècle ? Pour faire un
+portrait aussi fidèle , il ne suffisoit pas d'avoir le modèle sous les
+yeux ; il falloit encore posséder, dans un degré éminent, le talent du
+peintre.</p>
+<p><pb/></p>
+<p>252 MÉLANGES</p>
+<p>Ce système a l'avantage d'expliquer les contradictions que l'on remarque
+dans le caractère de la nation britannique. Il est vrai que l'auteur est
+alors obligé de prouver que les Anglois, du temps d'Henri VIII, étoient
+plus heureux et valoient mieux que les Anglois d'aujourd'hui, ce qui
+pourrait souffrir quelques difficultés ; il est encore vrai que l'auteur
+a contre lui l'Esprit des Lois. Montesquieu parle aussi de l'inquiétude
+des Anglois, de leur orgueil, de leurs changements de partis, des orages
+de leur liberté ; mais il voit tout cela comme des conséquences
+nécessaires et non funestes d'une monarchie mixte ou tempérée. On</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 253</p>
+<p>Le dernier chapitre des Essais renferme desconsidérations sur le génie
+des peuples, et sur le but de la société , qui est le bonheur. L'auteur
+pense que l'ordre et le repos sont les deux plus sûrs moyens d'arriver à
+ce but. Son tableau de l' Egypte nous a rappelé quelque chose des belles</p>
+<p><pb/></p>
+<p>254 MELANGES</p>
+<p>pages de Platon sur les Perses, et le ton calme,</p>
+<p>élevé, moral, du philosophe de l'Académie.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 255</p>
+<p>Dans un autre endroit l'auteur suppose que la société primitive étant
+devenue trop nombreuse, on s'assembla et l'on convint. C'est donc
+admettre un contrat social, et retomber dans toutes les chimères
+philosophiques que les Essais combattent avec tant de succès ?</p>
+<p>Quelques points de métaphysique demanderaient aussi plus de
+développement. On lit , page 84 : Toutes les âmes sont égales ; leurs
+développements ne peuvent dépendre que de la conformation des organes.
+Page 21 : L'esprit est une faculté; une faculté est une puissance... Il
+n'y a point d'idées fausses, mais des appellations fausses, etc.</p>
+<p>Nous ne nous permettrons plus de combattre qu'une seule définition.
+L'imagination se montre dans tous les instants , dit l'auteur. Quel</p>
+<p><pb/></p>
+<p>256 MÉLANGES</p>
+<p>que soit l'objet qu'il examine, l'esprit doué de cette qualité est
+toujours frappé des. rapports les' moins abstraits.</p>
+<p>L'auteur semble n'avoir été frappé lui-même que d'une des facultés de
+l'imagination, celle de peindre les objets matériels : il a pris la
+partie pour le tout. Nous lui soumettons les observations suivantes.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 257</p>
+<p>TOME XXI. 17</p>
+<p><pb/></p>
+<p>258 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. 259</p>
+<p>peu moins cette imagination qui lui prête un si</p>
+<p>heureux langage. Il serait trop long de citer tous</p>
+<p>les morceaux de ce genre que l'on trouve dans</p>
+<p>les Essais. Nous ne ,pouvons cependant nous</p>
+<p>fait connoître l'auteur : « Le genre humain, dit»</p>
+<p>dit» paraît blasé. Les générations qui naissent,</p>
+<p>M désenchantées par l'expérience des générations</p>
+<p>» qui les put précédées, considèrent froidement</p>
+<p>» leur carrière, et spéculent sans jouir. Et moi</p>
+<p>» qu'on doit accuser ici de présomption ou de con»</p>
+<p>" tardives, et je n'ai point échappé au malheur</p>
+<p>» commun ; du moins je déplore mes misères,</p>
+<p>» et je n'ose en parler qu'en tremblant. Porté</p>
+<p>» par les goûts de mon esprit et la continuité de</p>
+<p>" mes loisirs : ce sont de simples réflexions que</p>
+<p>" je publie. On y reconnoîtra, j'espère, un amour</p>
+<p>» pur du vrai. J'aimerais mieux les anéantir</p>
+<p>» qu'elles renferment une opinion qui puisse</p>
+<p>» égarer. »</p>
+<p>Rien n'est plus noble , plus touchant, plus aimable que ce mouvement ;
+rien ne fait tant de plaisir que de rencontrer de pareils traits au
+milieu d'un sujet naturellement sévère. On peut</p>
+<p>17.</p>
+<p><pb/></p>
+<p>260 MELANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 261</p>
+<p>1 L'auteur des Essais de Morale et de Politique, est M. le comte Mole,
+aujourd'hui ministre d'état, pair de France.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>SUR</p>
+<p>LES MEMOIRES DE LOUIS XIV.</p>
+<p>Mars 1806.</p>
+<p>EPUIS quelque temps les journaux nous annonçoient des OEuvres de Louis
+XIV. Ce titre avoit choqué les personnes qui</p>
+<p><pb/></p>
+<p>264 MÉLANGES</p>
+<p>ses propres travaux, lorsqu'il les livre lui-même au public ; qu'il faut
+en outre que cet auteur soit pris dans les rangs ordinaires de la
+société , et qu'il ait écrit non de simples Mémoires historiques, mais
+des ouvrages de science ou de littérature ; que dans tous les cas un roi
+n'est point un auteur de profession, et que par conséquent il ne publie
+jamais des OEuvres.</p>
+<p>Il est vrai que dans l'antiquité les premiers empereurs romains
+cultivoient les lettres ; mais ces empereurs avoient été de simples
+citoyens avant de s'asseoir sur la pourpre. César n'étoit qu'un chef de
+légion lorsqu'il écrivit l'Histoire de la conquête des Gaules, et les
+Commentaires du capitaine ont fait depuis la gloire de l'empereur. Si
+les Maximes de Marc-Aurèle honorent encore aujourd'hui sa mémoire,
+Claude et Néron s'attirèrent le mépris même du peuple romain pour avoir
+recherché les triomphes du poëte et du littérateur.</p>
+<p>Dans les monarchies chrétiennes, où la dignité royale a été mieux
+connue, on a vu rarement le souverain descendre dans une lice où la
+victoire même n'est presque jamais sans honte, parce que l'adversaire
+est presque toujours sans noblesse. Quelques princes d'Allemagne, qui
+ont mal gouverné, ou qui ont même perdu leur pays pour s'être livrés à
+l'étude des sciences, ex-</p>
+<p><pb/></p>
+<p>LITTERAIRES. 265</p>
+<p><pb/></p>
+<p>266 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. 267</p>
+<p>1 °. De Mémoires adressés au Grand Dauphin : ils commencent en 1661 , et
+finissent en 1665.</p>
+<p>2°. De Mémoires militaires sur les années 1673 et 1678 ;</p>
+<p>3° De Réflexions sur le Métier de Roi.</p>
+<p>5°. De dix-huit Lettres au même prince, et d'une lettre de madame de
+Maintenon.</p>
+<p>Et puis c'est un fait attesté par tous les écri1</p>
+<p>écri1 nie que cette traduction soit de Louis XIV.</p>
+<p><pb/></p>
+<p>268 MÉLANGES</p>
+<p>vains, que Louis XIV s'exprimoit avec une noblesse particulière : « Il
+parloit peu et bien, dit » madame de Motteville; ses paroles avoient une
+» grande force pour inspirer dans les coeurs et , » l'amour et la
+crainte , selon qu' elles étoient » douces ou sévères.» .</p>
+<p>Le roi parlant des différentes mesures qu'il prit au commencement de son
+règne, ajoute :</p>
+<p><pb/></p>
+<p>LITTERAIRES. 269</p>
+<p>" ll faut que je vous avoue qu'encore que j'eusse au" paravant sujet
+d'être content de ma propre 1 conduite, » les éloges que cette nouveauté
+m'attirait, me don» noient une continuelle inquiétude, par la crainte
+que » j'avois toujours de ne les pas assez bien mériter.</p>
+<p>» Car enfin je suis bien aise de vous avertir, mon « fils, que c'est une
+chose fort délicate que la louante, « qu'il est bien malaisé de ne s'en
+pas laisser éblouir, » et qu'il faut beaucoup de lumières pour savoir
+discer» ner au vrai ceux qui nous flattent d'avec ceux qui " nous admirent.</p>
+<p>On n'a jamais rien dit sur le danger des flatteurs de plus délicat et de
+mieux observé. Un homme qui connoissoit si bien la valeur des louanges
+méritoit sans doute d'être beaucoup loué. Ce passage est surtout
+remarquable par une certaine ressemblance avec quelques préceptes du
+Télémaque. Dans ce grand siècle ; la</p>
+<p><pb/></p>
+<p>270 MÉLANGES</p>
+<p>vertu et la raison.donnoient au prince et au</p>
+<p>sujet un même langage.</p>
+<p>Le morceau suivant, écrit tout entier de la main de Louis XIV, n'est pas
+un des moins beaux des Mémoires :</p>
+<p><pb/></p>
+<p>LITTERAIRES. 271</p>
+<p>» plus se persuader que ce qui a été dit n'aura pas été » approuvé ni
+écouté, parce qu'il sait avec quels applau» dissements sont reçus tous
+les sentiments de ceux qui » ont en main l'autorité. »</p>
+<p><pb/></p>
+<p>272 MÉLANGES</p>
+<p>2. Conservez-vous dans la pureté de votre éducation.</p>
+<p>3. Faites honorer Dieu partout où vous aurez du pouvoir ; procurez sa
+gloire ; donnez-en l'exemple : c'est un des plus grands biens que les
+rois puissent faire.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 273</p>
+<p>4 Déclarez-vous , en toute occasion, pour la vertu contre le vice.</p>
+<p>Louis XIV, et c'est une des choses les plus attaTOME</p>
+<p>attaTOME 18</p>
+<p><pb/></p>
+<p>274 MÉLANGES</p>
+<p>chantes de ses Mémoires, confesse souvent ses</p>
+<p>» La tendresse que nous avons pour elle nous faisant » goûter ses plus
+mauvaises raisons, nous fait tomber » insensiblement du côté où elle
+penche, et la foiblesse » qu'elle a naturellement lui faisant souvent
+préférer des » intérêts de bagatelles aux plus solides considérations, »
+lui font presque toujours prendre le mauvais parti.</p>
+<p>» Elles sont éloquentes dans leurs expressions, pres» santes dans leurs
+prières, opiniâtres dans leurs senti» ments ; et tout cela n'est souvent
+fondé que sur une » aversion qu'elles auront pour quelqu'un, sur le
+dessein » d'en avancer un autre, ou sur une promesse qu'elles » auront
+faite légèrement. »</p>
+<p>Cette page est écrite avec une singulière élégance ; et si la main de
+Racine paraît quelque part, on pourroit peut-être la retrouver ici. Mais
+l'oserions-nous dire ? Une telle connoissance des femmes prouve que le
+monarque, en se confes-</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 275</p>
+<p>1 Brantôme.</p>
+<p>18</p>
+<p><pb/></p>
+<p>276 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 277</p>
+<p>les temps où ses sujets étoient maîtres du inonde :</p>
+<p><pb/></p>
+<p>278 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. 279</p>
+<p>tium, les Gaulois disposèrent encore du sceptre du monde, puisqu'ils
+décidèrent la victoire en se rangeant sous les drapeaux d'Auguste.</p>
+<p><pb/></p>
+<p>280 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. 281</p>
+<p>numquid cognoscentur mirabilia tua,et justitia tua in terra oblivionis ?</p>
+<p>» Quand nous aurons armé tous nos sujets pour la dé» fense de sa gloire,
+quand nous aurons relevé ses autels » abattus, quand nous aurons fait
+connoître son nom » aux climats les plus reculés de la terre , nous
+n'aurons " fait que l'une des parties de notre devoir, et sans doute «
+nous n'aurons pas fait celle qu'il désire le plus de nous, » si nous ne
+nous sommes soumis nous-mêmes au joug " de ses commandements. Les
+actions de bruit et d'éclat » ne sont pas toujours celles qui le
+touchent davantage , » et ce qui se passe dans le secret de notre coeur
+est sou» vent ce qu'il observe avec plus d'attention.</p>
+<p>» Il est infinimerit jaloux de sa gloire, mais il sait mieux " que nous
+discerner en quoi elle consiste. Il ne nous a » peut-être fait si grands
+qu'afin que nos respects l'hono« rassent davantage ; et si nous manquons
+de remplir en</p>
+<p><pb/></p>
+<p>282 MÉLANGES LITTÉRAIRES.</p>
+<p>» cela ses desseins, peut-être qu'il nous laissera tomber » dans la
+poussière de laquelle il nous a tirés.</p>
+<p><pb/></p>
+<p>DES LETTRES ET DES GENS DE LETTRES;</p>
+<p>RÉPONSE</p>
+<p>A UN ARTICLE INSÉRÉ DANS LA GAZETTE DE FRANCE, DU 27 AVRIL. 1</p>
+<p>Mai 18 06.</p>
+<p>a bien voulu m'honorer. J'ai le bonheur ou le malheur de rencontrer mon
+nom assez souvent</p>
+<p><pb/></p>
+<p>284 MÉLANGES</p>
+<p>Cependant, quel est le sujet de notre querelle ? Allons-nous nous battre
+, comme c'est assez l'usage entre les preux, sans trop savoir pourquoi?
+Je veux bien soutenir que la Dame de mon coeur est incomparablement plus
+belle que celle de mon adversaire. Mais si par hasard nous servions tous
+deux la même Dame ? C'est en ef-</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 285</p>
+<p>fet notre aventure. Je suis au fond du même avis ou plutôt du même amour
+que le chevalier béarnois , et, comme lui, je déclare atteint de félonie
+quiconque manque de respect pour les . muses.</p>
+<p>Changeons de langage, et venons au fait. J'ose dire que le critique qui
+m'attaque avec tant de goût, de savoir et de politesse, mais peutêtre
+avec un peu d'humeur, n'a pas bien compris ma pensée.</p>
+<p><pb/></p>
+<p>286 MÉLANGES</p>
+<p>Il n'en est pas ainsi de l'homme qui tient une place distinguée dans le
+monde, ou par sa for1</p>
+<p>for1 l'article sur les MÉMOIRES DE LOUIS XIV.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 287</p>
+<p>Et n'allez point quitter, de quoi que l'on vous somme, Le nom que, dans
+la cour, vous avez d'honnête homme, Pour prendre de la main d'un avide
+imprimeur Celui de ridicule et misérable auteur.</p>
+<p>Si je voyois quelque du Guesclin rimailler sans l'aveu d'Apollon un
+méchant poëme, je lui crierois : « Sire Bertrand, changez votre plume
+pour » l'épée de fer du bon connétable. Quand vous » serez sur la
+brèche, souvenez-vous d'invoquer, » comme votre ancêtre, Notre Dame du
+Guesclin. » Cette muse n'est pas celle qui chante les villes » prises,
+mais c'est celle qui les fait prendre. »</p>
+<p>Mais, au contraire , si le descendant d'une de ces familles qui figurent
+dans notre histoire,</p>
+<p><pb/></p>
+<p>288 MÉLANGES</p>
+<p>s'annonce au monde par un Essai plein de force, de chaleur et de
+gravité, ne craignez pas que je le décourage. Eût-il des opinions
+contraires aux miennes, son livre blessât-il non-seulement mon •esprit,
+mais mon coeur, je ne verrai que le talent; je ne serai sensible qu'au
+mérite de l'ouvrage; j'introduirai le jeune écrivain dans la carrière.
+Ma vieille expérience lui en marquera les écueils; et, en bon frère
+d'armes, je me réjouirai de ses succès.</p>
+<p>Eh! comment pourrois-je calomnier les lettres? Je serais bien ingrat,
+puisqu'elles ont fait le charme de mes jours. J'ai eu mes malheurs comme
+tant d'autres ; car on peut dire du chagrin parmi les hommes, ce que
+Lucrèce dit du flambleau de la vie :</p>
+<p>Quasi cursores, vitaï lampada tradunt.</p>
+<p>J'ai toujours trouvé dans l'étude quelque noble raison de supporter
+patiemment mes peines.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 289</p>
+<p>TOME XXI. 19</p>
+<p><pb/></p>
+<p>290 MÉLANGES</p>
+<p>« coeur toutes celles que j'y croyois fermées</p>
+<p>» Je suis chassé de ma maison et du Forum. »</p>
+<p><pb/></p>
+<p>LITTERAIRES. 291</p>
+<p>Examinons maintenant les reproches que l'on fait aux gens de lettres. La
+plupart me paraissent sans fondement : la médiocrité se console souvent
+par la calomnie.</p>
+<p>On dit : « Les gens de lettres ne sont pas propres au maniement des
+affaires. » Chose étrange, que le génie nécessaire pour enfanter
+l'Esprit des Lois, ne fût pas suffisant pour conduire le bureau d'un
+ministre ! Quoi ! ceux qui sondent si habilement les profondeurs du
+coeur humain , ne pourraient démêler autour d'eux les intrigues des
+passions? Mieux vous connoîtriez les hommes, moins vous seriez capables
+de les gouverner ! ,</p>
+<p>C'est un sophisme démenti par l'expérience. Les deux plus grands hommes
+d'état de l'an19.</p>
+<p>l'an19.</p>
+<p><pb/></p>
+<p>292 MÉLANGES .</p>
+<p>tiquité, Démosthènes, et sur tout Cicéron, étoient deux véritables
+hommes de lettres, dans toute la rigueur du mot. Il n'y a peut-être
+jamais eu de plus beau génie littéraire que celui de César, et il paraît
+que ce petit-fils d'Anchise et de Vénus entendoit assez bien les
+affaires. On peut citer en Angleterre Thomas Morus, Clarendon, Bacon,
+Bolingbroke; en France, l'Hôpital, Lamoignon, d'Aguesseau, M. de
+Malesherbes, et la plupart de nos premiers ministres tirés de l'église.
+Rien ne me pourrait persuader que Bossuet n'eût pas une tête capable de
+conduire un royaume, et que le judicieux et sévère Boileau n'eût pas
+fait un excellent administrateur.</p>
+<p>Le jugement et le bon sens sont surtout les deux qualités nécessaires à
+l'homme d'état ; et remarquez qu'elles doivent, aussi dominer dans une
+tête littéraire sainement organisée. L'imagination et l'esprit ne sont
+point, comme on le suppose, les bases du véritable talent ; c'est le bon
+sens , je le répète, le, bon sens , avec l'expression heureuse. Tout
+ouvrage , même un ouvrage d'imagination, ne peut vivre, si les idées y
+manquent d'une certaine logique qui les enchaîne et qui donne au lecteur
+le plaisir de la raison, même au milieu de la folie. Voyez les
+chefs-d'oeuvre de notre littérature : après un mûr examen, vous
+découvrirez que leur supériorité</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 293</p>
+<p>On ne s'est formé cette idée de l'inaptitude des gens de lettres, que
+parce que l'on a confondu les auteurs vulgaires avec les écrivains de
+mérite. Les premiers ne sont point incapables, parce qu'ils sont hommes
+de lettres, mais seulement parce qu'ils sont hommes médiocres, et c'est
+l'excellente remarque de mon, critique. Or, ce qui manque aux ouvrages
+de ces hommes, c'est précisément le jugement et le bon sens. Vous.y
+trouverez peut-être des éclairs d'imagination, de l'esprit, une
+connoissance plus ou moins grande du métier, une habitude plus ou moins
+formée d'arranger les mots,et de tourner la phrase; mais jamais' vous
+n'y rencontrerez le bon sens.</p>
+<p><pb/></p>
+<p>294 . MÉLANGES</p>
+<p>lent au hasard, sans économie et sans jugement, le grave, le doux, le
+plaisant, le sévère; on ne sait ce qu'ils veulent prouver, quel est le
+but où ils marchent, quelles vérités ils prétendent enseigner. Je
+conviendrai que de pareils esprits sont peu propres aux affaires
+humaines; mais j'en accuserai la nature et non pas les lettres , et je
+me donnerai garde surtout de confondre ces "auteurs infortunés avec des
+hommes de génie.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 295</p>
+<p><pb/></p>
+<p>'296 MÉLANGES</p>
+<p>Eheu, fugaces, Posthume, Posthume, Labuntur anni!</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 297</p>
+<p><pb/></p>
+<p>298 MÉLANGES</p>
+<p>Heureuse cruauté , fureur officieuse,</p>
+<p>Dont le prix est illustre et la fin glorieuse !</p>
+<p>Crimes trop bien payés, trop aimables hasards,</p>
+<p>Puisque nous vous devons le plus grand des Césars I</p>
+<p>Que les dieux conjurés redoublent nos misères !</p>
+<p>Que Leucas sous les flots abîme nos galères !</p>
+<p>Que Pharsale revoie encor nos bataillons</p>
+<p>Du plus beau sang de Rome inonder nos sillons!</p>
+<p>Qu'on voie encore un coup Pérouse désolée! Destins, Néron gouverne, et
+Rome est consolée !1</p>
+<p>A cela je n'ai point de réponse pour les gens de lettres : je baisse la
+tête d'horreur et de confusion , en disant ,. comme le médecin dans</p>
+<p>1 Pharsale, traduction de Brébeuf</p>
+<p><pb/></p>
+<p>LITTERAIRES. 299</p>
+<p>Macbeth : This diseuse is beyond my practice. " Ce mal est au-dessus de
+mon art. »</p>
+<p><pb/></p>
+<p>300 MÉLANGES.</p>
+<p>Enfin, si nous en croyons quelques esprits chagrins , notre littérature
+est actuellement frappée de stérilité ; il ne paroît rien qui mérite
+d'être lu : le faux , le trivial , le gigantesque , le mauvais goût,
+l'ignorance régnent de toutes - parts, et nous sommes menacés de
+retomber dans la barbarie. Ce qui doit un peu nous rassurer, c'est que
+dans tous les temps on a fait les</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 301</p>
+<p><pb/></p>
+<p>302 MÉLANGES</p>
+<p>sent parmi des ruines : feret et rubus asper amomum.</p>
+<p>amomum.</p>
+<p>Les gens de lettres que j ai essayé de venger du mépris de l'ignorance,
+me permettront-ils, en finissant, de leur adresser quelques conseils
+dont je prendrai moi-même bonne part? Veu-</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 303</p>
+<p><pb/></p>
+<p>304 MÉLANGES LITTÉRAIRES.</p>
+<p><pb/></p>
+<p>SDR</p>
+<p>LE VOYAGE PITTORESQUE ET HISTORIQUE</p>
+<p>DE L'ESPAGNE,</p>
+<p>PAR M. ALEXANDRE DE LABORDE'.</p>
+<p>Juiller 1807.</p>
+<p>TOME XII. 20</p>
+<p><pb/></p>
+<p>306 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. 307</p>
+<p>Toutefois, il est des parties dans l'histoire qui ne demandent pas le
+même courage dans l'historien. Les Voyages, par exemple, qui tiennent à
+la fois de la poésie et de l'histoire, comme celui que nous annonçons,
+peuvent être écrits sans péril. Et néanmoins, les ruines et les tombeaux
+révèlent souvent des vérités qu'on n'apprendrait point ailleurs ; car la
+face des lieux ne change pas comme le visage des hommes : Non ut hominum
+vultus, ita locorum facies mutantur.</p>
+<p>L'antiquité ne nous a laissé qu'un modèle de ce genre d'histoire : c'est
+le Voyage de Pausanias ; car le Journal de Néarque et le Périple
+d'Hannon, sont des ouvrages d'un ordre différent. Si la gravure eût été
+connue du temps de Pausanias , nous posséderions aujourd'hui un trésor</p>
+<p>20</p>
+<p><pb/></p>
+<p>308 MÉLANGES</p>
+<p>L'Italie, la Sicile , l'Egypte , la Syrie, l'AsieMineure , la Dalmatie,
+ont eu des historiens de</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 309</p>
+<p>Dans une introduction écrite avec autant d'élégance que de clarté,
+l'auteur trace ainsi le plan de son voyage :</p>
+<p>« L'Espagne est une des contrées les moins » connues de l'Europe, et
+celle qui renferme ce» pendant le plus de variété dans ses monuments, »
+et le plus d'intérêt dans son histoire.-</p>
+<p>» Riche de toutes les productions de la nature, » elle est encore
+embellie par l'industrie de plu» sieurs âges et le génie de plusieurs
+peuples. » La majesté des temples romains y forme un " contraste
+singulier avec la délicatesse des mo» numents arabes, et l'architecture
+gothique avec » la beauté simple, des édifices modernes.</p>
+<p>» Cette réunion de tant de souvenirs, cet hé»</p>
+<p>-» dans quelques détails sur l'histoire de l'Espa»</p>
+<p>l'Espa» pour indiquer la marche que l'on a adop»</p>
+<p>adop» dans la description du pays. »</p>
+<p>L'auteur, après avoir décrit les différentes époques, ajoute :</p>
+<p>«Telle est l'esquisse des principaux événements » qui firent passer
+l'Espagne sous différentes do-</p>
+<p><pb/></p>
+<p>310 MÉLANGES</p>
+<p>» Ainsi, le premier volume comprendra la Ca" talogne , le royaume de
+Valence , l'Estrama» doure, où se trouvent Tarragone, Sagonte, » Merida
+, et la plupart des autres colonies ro» maines et carthaginoises; il
+sera précédé d'une » notice historique sur les temps anciens de »
+l'Espagne.</p>
+<p>» Le second volume renfermera les antiquités » de Grenade et de Cordoue,
+et la description » du reste de l'Andalousie, séjour principal des »
+Maures ; il sera précédé d'un abrégé de l'his» toire de ces peuples,
+tiré en partie des ma» nuscrits arabes de l'Escurial.</p>
+<p>» Le troisième, consacré principalement aux » édifices gothiques , tels
+que les cathédrales de » Burgos , de Valladolid, de Léon, de Saint»
+Jacques de Compostelle , offrira aussi les con-</p>
+<p><pb/></p>
+<p>LITTERAIRES. 311</p>
+<p>» trées sauvages des Asturies, l'Aragon , la Na" varre, la Biscaye, et
+sera précédé de recherches » sur les arts en Espagne, avant le siècle de
+Fer» dinand et d'Isabelle.</p>
+<p>On voit , par cet exposé , que l'auteur a conçu son plan de la manière
+la plus heureuse, et qu'il pourra présenter sans confusion une immense
+galerie de tableaux. M. de Laborde a été favorisé dans ses études ; il a
+examiné les monuments des arts chez un peuple noble et civilisé ; il les
+a vus dans cette, belle Espagne , où du moins la foi et l'honneur sont
+restés lorsque la prospérité et la gloire ont disparu ; il n'a point été
+obligé de s'enfoncer dans ces pays jadis ce-</p>
+<p><pb/></p>
+<p>312 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. 313</p>
+<p>sont abandonnés ; nous avons souvent fait quinze lieues dans les
+campagnes, sans rencontrer une seule habitation. De criantes- avanies ,
+des outrages de toutes les espèces , achèvent de détruire dans la patrie
+de Léonidas l'agriculture et la vie. Chasser un paysan grec de sa
+cabane, s'emparer de sa femme et de ses enfants, le tuer sur le plus
+léger prétexte, est un jeu pour le moindre agaduplus petit village. Le
+Moraïte, parvenu au dernier degré du malheur, s'arrache de son pays , et
+va chercher en Asie un sort' moins rigoureux ; mais il ne peut" fuir sa
+destinée : il retrouve des cadis et des pachas jusque dans les sables du
+Jourdain et les déserts de Palmyre.</p>
+<p>Nous ne sommes point un de ces intrépides admirateurs de l'antiquité ,
+qu'un vers d'Homère console de tout. Nous n'avons jamais pu comprendre
+le sentiment exprimé par Lucrèce :</p>
+<p>' Suave mari magno , turbantibus aequora ventis, E terra magnum alterius
+spectare laborem.</p>
+<p><pb/></p>
+<p>314 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. 315</p>
+<p><pb/></p>
+<p>316 MELANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 317</p>
+<p>» sous un ciel doux, qui est toujours serein</p>
+<p>» Ce pays semble avoir conservé les délices</p>
+<p>» de l'âge d'or 1, etc » Paraît ensuite</p>
+<p>1 Télémaque.</p>
+<p><pb/></p>
+<p>318 MÉLANGES</p>
+<p>du monde et de sa patrie. Il vouloit marcher à</p>
+<p>Sylla, et</p>
+<p>Cette terre d'Espagne produit si naturelle-</p>
+<p><pb/></p>
+<p>LITTERAIRES. 319</p>
+<p><pb/></p>
+<p>320 MÉLANGES</p>
+<p>des Abencerages ; retraites où le plaisir et la cruauté habitaient
+ensemble , et où le roi maure faisoit souvent tomber dans le bassin de
+marbre la tête charmante qu'il venoit de caresser. On doit bien désirer
+qu'un talent délicat et heureux nous peigne quelque jour ces lieux
+magiques.</p>
+<p>La troisième époque du Voyage pittoresque d'Espagne renfermera les
+monuments gothiques. Ils n'ont pas la pureté de style et les proportions
+admirables de l'architecture grecque et toscane, mais leurs rapports
+avec nos moeurs leur donnent un intérêt plus touchant. Nous nous
+rappellerons toujours avec quel plaisir en descendant dans l'île de
+Rhodes , nous trouvâmes une petite France au milieu de la Grèce :</p>
+<p>Procedo, et parvam Trojam, simulataque magnis Pergama, etc.</p>
+<p>Nous parcourions avec un respect mêlé d'attendrissement une longue rue
+appelée encore la rue des Chevaliers : elle est bordée de palais
+gothiques , et les murs de ces palais sont parsemés des armoiries des
+grandes familles de France et de devises en gaulois. Plus loin, est une
+petite chapelle desservie par deux pauvres religieux : elle est dédiée à
+Saint Louis , dont on retrouve l'image dans tout l'Orient, et dont nous
+avons</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 321</p>
+<p>déTOME 21 '</p>
+<p><pb/></p>
+<p>322 MÉLANGES</p>
+<p>Super flumina Babylonis !</p>
+<p><pb/></p>
+<p>LITTERAIRES. 323</p>
+<p>Hélas ! ces fils d'Aaron qui suspendirent leur</p>
+<p>cinnor aux saules de Babylone, ne rentrèrent</p>
+<p>pas tous dans la cité de David ; ces filles de Judée</p>
+<p>qui s'écrioient sur les bords de l'Euphrate :</p>
+<p>0 rives du Jourdain ! ô champs aimés des cieux ! Sacré mont, fertiles
+vallées, Du doux pays de nos aïeux Serons-nous toujours exilées ?</p>
+<p>ces compagnes d'Esther ne revirent pas toutes Emmaùs et Bethel.
+Plusieurs laissèrent leurs dépouilles aux champs de la captivité ; et
+c'est ainsi que nous rencontrâmes loin de la France le tombeau de deux
+nouvelles Israébtes :</p>
+<p>Lyrnessi domus alta, solo Laurente sepulchrum !</p>
+<p>1 MESDAMES Victoire et Adélaïde de France, tantes de Louis XVI.</p>
+<p>21.</p>
+<p><pb/></p>
+<p>324 " MELANGES</p>
+<p>Lieto nido, esca dolce , aura cortese, Bramano i cign' , e non si va in
+Parnasso Con le cure mordaci.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 325</p>
+<p>les vivants. « ll y a deux manières de sortir de la » vie, dit
+Shakspeare : la honte et la mort, » shame and death. »</p>
+<p>Non-seulement l'auteur nous donnera les dessins de tant d'édifices ;
+mais comme il paroît avoir des connoissances très-variées , il ne
+négligera point la numismatique et les inscriptions. L'Espagneest'très-riche
+ dans ce genre ; et quoique Ponce ait fait beaucoup de
+recherches sur</p>
+<p><pb/></p>
+<p>326 MÉLANGES</p>
+<p>On lit :</p>
+<p>TO....nTATON, ATTOKPATOPA TON ITOAIOrXON, AAEIEANAPEIA2 AIOK. H.
+IANONTON TON</p>
+<p>no.... EOAPXOS AirrrrroY.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 327</p>
+<p>faut ajouter AIÙN. Où voit qu'il n'y a ici d'arbitraire que le mot
+AITOYPON, qui est d'ailleurs peu important. Ainsi on peut lire :</p>
+<p>TON20«&gt;nTATONArTOKPAtOPA</p>
+<p>TONIlOAiOYXONAAEEANAPElAS</p>
+<p>AlOKAHTlANONTONAYrOTSTON</p>
+<p>noAinNEnAPxoîAirrnTOY</p>
+<p>C'est-à-dire :</p>
+<p>« Au très-sage empereur, protecteur d'Alexan» drie , DIOCLÉTIEN AUGUSTE
+, Pollion , préfet » d'Egypte. »</p>
+<p>Ainsi, tous les doutes sur la colonne de Pompée sont éclaircis. Mais
+l'histoire garde-t-elle le silence sur ce sujet? Il nous semble que,
+dans la Vie d'un des Pères du désert, écrite en grec par un
+contemporain, on lit que, pendant un tremblement de terre qui eut lieu à
+Alexandrie, toutes les colonnes tombèrent, excepté celle de Dioclétien.</p>
+<p>Nous nous sommes fait un vrai plaisir, malgré le besoin que nous avons
+de repos, d'annoncer le magnifique ouvrage dont M. de Laborde publie
+aujourd'hui les deux premières livraisons. On peut y avoir toute
+confiance. Ce n'est point ici une spéculation de librairie ; c'est
+l'entreprise</p>
+<p><pb/></p>
+<p>328 MELANGES</p>
+<p>Sic fratres Helena;</p>
+<p>Ventorumque regat pater</p>
+<p>Navis</p>
+<p>Finibus Atticis</p>
+<p>Reddas incolunien, precor !</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 329</p>
+<p>Vue de la montagne des Oliviers, de l'autre côté de la vallée de
+Josaphat, Jérusalem présente un plan incliné sur un sol qui descend du
+couchant au levant. Une muraille crénelée, fortifiée par des tours et
+par un château gothique, enferme la ville dans son entier , laissant
+toutefois au dehors une partie de la montagne de Sion, qu'elle
+embrassoit autrefois.</p>
+<p>Dans la région du couchant et au centre de la ville, vers le Calvaire,
+les maisons se serrent d'assez près ; mais au levant, le long de la
+vallée de -Cédron , on aperçoit des espaces vides, entre autres
+l'enceinte qui règne autour de la mosquée bâtie sur les débris du
+temple, et le ter-</p>
+<p><pb/></p>
+<p>330 MÉLANGESrain</p>
+<p>MÉLANGESrain abandonné où s'élevoit le château v Antonia et le second
+palais d'Hérode.</p>
+<p><pb/></p>
+<p>~ LITTÉRAIRES. 331</p>
+<p><pb/></p>
+<p>332 MELANGES</p>
+<p>dats, ils protègent des villages entiers contre l'iniquité. Pressés par
+le bâton et par le sabre, les femmes, les enfants, les troupeaux des
+campagnes se-réfugient dans les cloîtres des solitaires. Qui empêche le
+méchant armé de poursuivre sa proie, et de renverser d'aussi faibles
+remparts ? la charité des moines : ils se privent des dernières
+ressources de la vie pour racheter leurs suppliants. Turcs, Arabes,
+Grecs, chrétiens schismatiques , tous se jettent sous la protection de
+quelques pauvres religieux francs qui ne peuvent se défendre eux-mêmes :
+c'est ici qu'il faut reconnoître , avec Bossuet, « que des mains »
+levées vers le ciel enfoncent plus de bataillons » que des mains armées
+de javelots. »</p>
+<p><pb/></p>
+<p>LITTERAIRES. 333</p>
+<p><pb/></p>
+<p>334 MELANGES LITTERAIRES.^</p>
+<p><pb/></p>
+<p>SUR</p>
+<p>LES ANNALES LITTÉRAIRES,</p>
+<p>ou DE LA LITTÉRATURE</p>
+<p>AVAIT ET APRÈS LA RESTAURATION;</p>
+<p>OUVRAGE DE M. DUSSAUET.</p>
+<p>Fevrier 1819.</p>
+<p>LORSQUE la France, fatiguée de l'anarchie, chercha le repos dans le
+despotisme, il se forma une espèce de</p>
+<p>ligue des hommes de talent pour, nous ramener, par les saines doctrines
+littéraires, aux doc-</p>
+<p><pb/></p>
+<p>336 MÉLANGES</p>
+<p>trines conservatrices de la société. MM. de La Harpe, de Fontanes , de
+Bonald, M. l'abbé de Vauxcelles, M. Guéneau de Mussy écrivoient dans le
+Mercure; MM. Dussault, Feletz, Fiévée, Saint-Victor, Boissonnade,
+Geoffroy, M. l'abbé de Boulogne, combattaient dans le Journal des
+Débats. «On a vu, dit M. Dussault en parlant » de cette époque si
+remarquable pour les lettres, » on a vu des talents du premier ordre
+entrer » dans cette lice des écrits périodiques, pour</p>
+<p>» y combattre tous les faux systèmes</p>
+<p>La littérature révolutionnaire fut foudroyée , et le goût reparut clans
+le style avec l'ordre dans l'État.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 337</p>
+<p>22 TOME XXI. 22</p>
+<p><pb/></p>
+<p>338 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 339</p>
+<p>» quoit quelquefois en secret. Croit-on que tout » cet édifice de
+réputations factices, bâties sur » le sable et sur la boue , aurait pu
+résister aux » traits qu'il auroit su lancer? S'il avoit seule" ment
+dirigé contre la fausse et dangereuse » philosophie de son siècle la
+moitié de l'esprit " qu'il a prodigué contre les institutions les plus »
+utiles et les plus sacrées, c'en étoit fait de tant " de beaux systèmes,
+de tant de brillantes re» nommées , de toute cette sublune doctrine »
+dont nous avons pu apprécier les effets, après » en avoir admiré si
+long-temps et si stupide" ment les théories. »</p>
+<p>enthou22.</p>
+<p><pb/></p>
+<p>340 MÉLANGES</p>
+<p>philoso» Quel singulier spectacle offrait la</p>
+<p>» de suffisance, se croire des législateurs</p>
+<p><pb/></p>
+<p>LITTERAIRES. 341</p>
+<p>«littérature Oui, sans doute, messieurs,</p>
+<p>En parcourant les Annales littéraires, on peut faire encore une autre
+observation : on y voit partout annoncée la réimpression des auteurs du
+siècle de Louis XIV; maintenant ce sont les auteurs du siècle de Louis
+XV qu'on réimprime : on vouloit conserver, voudroit-on détruire ?</p>
+<p>Aujourd'hui que les bonnes études s'en vont</p>
+<p><pb/></p>
+<p>342 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. 343</p>
+<p>Une censure, fût-elle excellente,-manque son but si elle est trop rude.
+En voulant corriger l'auteur , elle le révolte , et par cela même elle
+le confirme dans ses défauts ou le décourage; véritable malheur, si
+l'auteur a du talent.</p>
+<p><pb/></p>
+<p>344 MÉLANGES</p>
+<p>Que peut contre tes vers une ignorance vaine ?</p>
+<p>Le Parnasse françois, ennobli par ta veine ,</p>
+<p>Contre tous ces complots saura te maintenir,</p>
+<p>Et soulever pour toi l'équitable avenir.</p>
+<p>Eh! qui, voyant un jour la douleur vertueuse</p>
+<p>De Phèdre, malgré soi perfide, incestueuse.</p>
+<p>D'un si noble travail justement étonné,</p>
+<p>Ne bénira d'abord le siècle fortuné</p>
+<p>Qui, rendu plus fameux par tes illustres veilles,</p>
+<p>Vit naître sous ta main ces pompeuses merveilles !</p>
+<p><pb/></p>
+<p>LITTERAIRES. 345</p>
+<p>Ceci n'est point une simple figure de rhétorique ; c'est un fait,
+puisque les endroits les plus vicieux des Sermons de Bossuet sont
+devenus les morceaux les plus parfaits des Oraisons funèbres. Si Bossuet
+ne nous étoit connu aujourd'hui que par les Sermons, serions-nous assez
+justes pour y remarquer les traits que nous admirons dans les Oraisons
+funèbres ? Le mal ne nous empêcheroit-il pas de voir le bien, et ne
+confondrions-nous pas dans nos dégoûts les défauts et les beautés ?</p>
+<p><pb/></p>
+<p>346 MÉLANGES</p>
+<p>» que c'est bien penser. » Rubens, pressé par la critique, voulut, dans
+quelques-uns de ses tableaux, dessiner plus savamment : que lui
+arriva-t-il? Une chose remarquable : il n'atteignit pas la pureté du
+dessin, et il perdit l'éclat de la couleur.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 347</p>
+<p>pendant votre vie, et que la postérité ne confirmera peut-être pas après
+votre mort? Car, quel que soit l'éclat d'un succès, il ne peut jamais
+vous donner la certitude de votre talent ; il n'y a que la durée de ce
+succès qui vous révèle ce que vous êtes. Mais, autre misère : le temps
+qui fait vivre l'ouvrage, tue l'auteur ; et l'on meurt avant de savoir
+qu'on est immortel.</p>
+<p><pb/></p>
+<p>.348 MELANGES</p>
+<p>d'un bon billet sur mille mauvais est trop désavantageuse pour la tenter :</p>
+<p>Soyons plutôt maçon.</p>
+<p>Il nous est arrivé d'annoncer l'avenir politique de la France avec assez
+de justesse ; il nous est plus facile encore de prédire son avenir
+littéraire : l'espèce d'impuissance dont nous sommes frappés aujourd'hui
+par le système stérile de notre administration , est un accident qui
+passera avec ce système ; mais il restera toujours dans nos lettres
+l'infirmité de la vieillesse et le dépérissement de la caducité.</p>
+<p>Quelquefois un peu de verdure Rit sur la glace de nos champs •' Elle
+console la nature ; Mais elle sèche en peu de temps.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. . 349</p>
+<p><pb/></p>
+<p>350 MÉLANGES LITTÉRAIRES.</p>
+<p><pb/></p>
+<p>SUR UN OUVRAGE</p>
+<p>DE M. LE COMTE DE BOISSY-D'ANGLAS.</p>
+<p>INTITULE:</p>
+<p>ESSAI SUR LA VIE, LES ÉCRITS ET OPINIONS</p>
+<p>DE M. DE MALESHERBES.</p>
+<p>Mars 1819.</p>
+<p>ESPRIT philosophique qui a dénaturé notre littérature a surtout corrompu
+notre histoire ; prenant les moeurs pour</p>
+<p><pb/></p>
+<p>352 ' MÉLANGES</p>
+<p>lative qui sort de la nature des choses, et qui</p>
+<p>forme le génie des siècles.</p>
+<p>Ce même esprit, en examinant les hommes,</p>
+<p>ne les mesure que d'après ses règles : il les juge moins d'après leurs
+actions que d'après leurs</p>
+<p>opinions. Il y a tels personnages auxquels il ne</p>
+<p>pardonne leurs vertus qu'en considération de leurs erreurs.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 353</p>
+<p>TOME XXI. 23</p>
+<p><pb/></p>
+<p>354 MELANGES</p>
+<p>au-dessous des supputations de quelques historiens passionnés-. M. le
+comte de Boissy-d'Anglas montre partout une sincère horreur pour les
+excès révolutionnaires : cependant, si son opinion étoit que l'on a
+exagéré le nombre des personnes sacrifiées, ne serait-il pas
+souverainement injuste de dire qu'il fait l'apologie du meurtre et du
+crime ?</p>
+<p>Que conclure de ces déplorables exemples? Que partout on abuse de la
+force ; que partout, catholiques et protestants, lorsque les passions</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 355</p>
+<p>M. de Malesherbes écrivit au président de la Convention, pour lui
+proposer de défendre le roi.</p>
+<p>« Je ne vous demande point, lui dit-il dans » sa lettre, de faire part à
+la Convention de " mon offre, car je suis bien éloigné de me « croire un
+personnage assez important pour » qu'elle s'occupe de moi ; mais j'ai
+été appelé " deux fois au conseil de celui qui fut mon</p>
+<p>23.</p>
+<p><pb/></p>
+<p>356 MÉLANGES</p>
+<p>» maître dans le temps où cette fonction étoit » ambitionnée de tout le
+monde : je lui dois le » même service, lorsque c'est une fonction que »
+bien des gens trouvent dangereuse. »</p>
+<p>Plutarque ne nous a rien transmis d'un héroïsme plus simple. Dans les
+âmes faites pour la vertu, la vertu est une action naturelle qui
+s'accomplit sans effort, comme les autres mouvements de la vie.</p>
+<p>» même peuple qu'on demande aujourd'hui</p>
+<p>» Citoyens, je n'achève pas; je m'arrête devant » l'histoire. »</p>
+<p>Ils ne se sont pas arrêtés devant l'histoire ! Ils l'ont bravée !
+Auraient-ils pressenti qu'elle leur réservoit la miséricorde de Louis
+XVIII ?</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. ' 357</p>
+<p>Les hommes vulgaires tombent et ne se relèvent plus sous le poids du
+malheur; les grands hommes, tout chargés qu'ils sont d'adversités,</p>
+<p><pb/></p>
+<p>358 MÉLANGES</p>
+<p>1 Mme de Rosambo et son fils, M. et Mme de Chateaubriand, M. et Mme de
+Tocqueville, M. Le Pelletier d'Annay.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 359</p>
+<p>M. de Boissy-d'Anglas dit que l'épouvante avoit glacé tous les coeurs :
+tous sans doute, excepté ceux des victimes.</p>
+<p>«M. de Malesherbes» (je ne saurais mieux faire que de transcrire ici un
+passage de l'ouvrage de M. de Boissy-d'Anglas ) « M. de » Malesherbes
+avoit vécu comme Socrate, il de» voit mourir comme lui. Mais sa mort,
+fut » plus douloureuse, puisqu'avant de cesser de » vivre, il eut sous
+les yeux l'affreux spectacle » de la mort d'une partie de sa famille, et
+qu'on » différa son supplice pour en augmenter la » cruauté.</p>
+<p>» Ainsi finit de servir sa patrie en même » temps qu'il cessa de vivre,
+l'un des hommes</p>
+<p><pb/></p>
+<p>360 MÉLANGES</p>
+<p>» les plus dignes de l'estime et de la vénération » de ses contemporains
+et de l'avenir. On peut » dire qu'il honora l'espèce humaine par ses »
+hautes et constantes vertus, en même temps » qu'il la fit aimer par le
+charme de son ca» ractère. »</p>
+<p>L'éloge de M. de Malesherbes ne serait pas complet, si on n'y ajoutait
+les paroles du Testament de Louis XVI :_</p>
+<p>« Je prie MM. de Malesherbes, Tronchet et » de Sèze, de recevoir ici
+tous mes remercie» ments et l'expression de ma sensibilité, pour « tous
+les soins et les peines qu'ils se sont » donnés pour moi. »</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 361</p>
+<p>tendu M. de Malesherbes, déplorant ses anciennes liaisons avec
+Condorcet, s'expliquer sur le compte de ce philosophe avec une véhémence
+qui m'empêche de répéter ici ses propres pa-, rôles. M. de Tocqueville,
+qui a épousé une - autre petite-fille de M. de Malesherbes, m'a raconté
+que cet homme admirable, la veille de sa mort, lui dit : «Mon ami, si
+vous avez des » enfants, élevez-les pour en faire des chrétiens ; » il
+n'y a que cela de bon. »</p>
+<p>Ainsi, ce fidèle serviteur avoit profité de la leçon de son auguste
+maître. Le roi captif, en le chargeant d'aller lui chercher un prêtre
+non assermenté, lui avoit dit : « Mon ami, la reli». gion console tout
+autrement que la philo» sophie. »</p>
+<p>Mettons d'accord les deux opinions : que la ' philosophie réclame la
+première partie de la vie de M. de Malesherbes ; la religion se
+contentera de la dernière. «</p>
+<p>Quand M. le comte de Boissy-d'Anglas affirme</p>
+<p><pb/></p>
+<p>362 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. 363</p>
+<p>milieu de son siècle. Ce siècle, précédé des grandeurs de Louis XIV, et
+suivi des crimes de la révolution , disparaît comme écrasé entre ses
+pères et ses fils. Le règne de Louis XV est l'époque la plus misérable
+de notre histoire : quand on en cherche les personnages, on est réduit à
+fouiller les antichambres de M. le duc de Choiseul, ou les salons de
+madame d'Épinay et de madame Geoffrin. La société entière se décomposoit
+: les hommes d'état devenoient des gens de lettres, lés gens de lettres
+des hommes d'état, les grands seigneurs des banquiers, et les fermiers
+généraux de grands seigneurs. Les modes étaient aussi ridicules que les
+arts étaient de mauvais goût; et l'on peignoit des bergères en paniers
+dans les salons où les colonels brodoient au tambour. Et comme pourtant
+ce peuple françois ne peut jamais être tout-à-fait obscur, il gagnoit
+encore la bataille de Fontenoy, pour empêcher la prescription contre la
+gloire, et Montesquieu, Voltaire , Buffon et Rousseau écrivoient pour
+maintenir nos droits au génie.</p>
+<p>Notre célébrité se réfugia particulièrement dans les lettres ; mais il
+en résulta un autre mal. Les auteurs pullulèrent; on devint fameux avec
+un gros dictionnaire ou avec un quatrain dans l' Almanach des Muses ;
+Dorât et Diderot eurent leur culte. Les poètes chantaient le temps des</p>
+<p><pb/></p>
+<p>364 MELANGES</p>
+<p>cinq maîtresses , et détruisoient les moeurs ; les philosophes
+bâtissoient l' Encyclopédie , et démolissoient la France.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 365</p>
+<p>diocrité ou le mérite inconnu qui puissent monter et rester aux
+premières places.</p>
+<p>Dans ma jeunesse, j'avois formé le projet de découvrir par terre au nord
+de l'Amérique septentrionale , le passage qui établit la communication
+entre le détroit de Behring et les mers du Groenland. M. de Malesherbes,
+confident de ce projet, l'adoptoit avec toute la chaleur de son
+caractère. Je me souviens encore de nos longues dissertations
+géographiques. Que de choses il me recommandoit ! que de plantes je
+devois lui rapporter pour son jardin d Malesherbes ! Je n'ai</p>
+<p><pb/></p>
+<p>366 MELANGES LITTERAIRES.</p>
+<p>pas eu le bonheur de l'orner ce jardin, où l'on voyoit :</p>
+<p>Un vieillard tout semblable au vieillard de Virgile, Homme égalant les
+rois, homme approchant des dieux, Et, comme ces derniers, satisfait et
+tranquille.</p>
+<p>Mais les beaux cèdres que ce vieillard a plantés, et qui ont grandi
+comme sa renommée, sont aujourd'hui religieusement cultivés par mon
+neveu, son filleul et son arrière-petit-fils. C'est avec un plaisir mêlé
+d'un juste orgueil que je trouve ainsi mon nom uni, dans la retraité
+d'un sage, au nom de M. de Malesherbes. Si comme ce nom immortel, le
+mien ne représente pas la gloire , comme ce même nom du moins, il
+rappellera la fidélité.</p>
+<p><pb/></p>
+<p>PANORAMA DE JÉRUSALEM.</p>
+<p>Avril 1819.</p>
+<p>MONSIEUR PRÉVÔT a pris la vue de Jérusalem du haut du couvent de
+SaintSauveur. On découvre de ce point la</p>
+<p><pb/></p>
+<p>368 MÉLANGES</p>
+<p>montagnes de Sichem ou de Naplouse, le chemin de Damas, et les montagnes
+de Judée sur la route de Jaffa.</p>
+<p>Tous ces lieux , ainsi que les plus petits détails de Jérusalem, sont
+décrits dans l' Itinéraire, et peuvent servir d'explication au Panorama.
+Qu'il me soit permis seulement de rappeler le tableau général de la
+ville, en priant le lecteur d'observer deux choses :</p>
+<p>Telle est aujourd'hui Jérusalem, et telle la représente le Panorama.
+Compagnon naturel de tous les voyageurs, m'associant en pensée à</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 369</p>
+<p>TOME XXI</p>
+<p>24</p>
+<p><pb/></p>
+<p>370 MÉLANGES LITTÉRAIRES.</p>
+<p><pb/></p>
+<p>SUR</p>
+<p>LE VOYAGE AU LEVANT,</p>
+<p>DE M. LE COMTE DE FORBIN</p>
+<p>Mai 1819</p>
+<p>ONSIEUR LE COMTE DE FORBIN, dans</p>
+<p>son Voyage au Levant, réunit le double mérite du peintre et de l'écrivain :</p>
+<p>l'ut pictura poësis semble avoir été dit pour lui. Nous pouvons affirmer
+que dessinés ou</p>
+<p>24.</p>
+<p><pb/></p>
+<p>372 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 373</p>
+<p>0 tez la religion de ce beau tableau, que restera-t-il? Quelques ruines
+muettes, et la poussière d'un roi.</p>
+<p>Lyrnessi domus alta, solo Laurente sepulcrum.</p>
+<p>1 VOYAGE DANS LE LEVANT , page 5..</p>
+<p>2 IDEM, page 6.</p>
+<p><pb/></p>
+<p>374 MÉLANGES</p>
+<p>comte de Forbin, demeuré seul avec M. Prévôt,</p>
+<p>se hâta d'aller visiter Athènes:</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 375</p>
+<p>Le voyageur se rembarque et poursuit sa</p>
+<p><pb/></p>
+<p>376 . MÉLANGES</p>
+<p>« J'ai vu dans cette ville singulière, dit le » voyageur , des palaisd'une
+ admirable élé» gance, des fontaines enchantées, des rues sales »
+et étroites, des baraques hideuses et des arbres » superbes. J'ai visité
+Sandalbezestan, Culchi» larbezestan , où se vendent les fourrures. Par»
+tout le Turc me coudoyoit, le Juif se proster» noit devant moi, le Grec
+me sourioit, l'Armé-</p>
+<p><pb/></p>
+<p>LITTERAIRES. 377</p>
+<p>1 VOYAGE DANS LE LEVANT, page 44.</p>
+<p><pb/></p>
+<p>378 MÉLANGES,</p>
+<p>» paroît être de la grandeur du Louvre et des</p>
+<p>» Tuileries, en y comprenant le jardin</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 379</p>
+<p>" Le dernier tremblement de terre a renversé » cette porte, qui étoit si
+bien conservée lorsque » je la dessinai. On marche pendant un quart » de
+lieue sur un terrain couvert d'un épouvan» table chaos de pierres et de
+marbres amonce» lés, empilés : frises, frontons, architraves, « métopes,
+statues, tout ce qui charmoit autre» fois les yeux par sa régularité et
+sa perfection, » les effraie aujourd'hui par la confusion de ses » débris.</p>
+<p>» Je suivis un aqueduc qui réunit dans les » montagnes les eaux des
+sources les plus abon» dantes : il les amène encore,- mais personne » ne
+va s'y désaltérer. Cette rivière, portée sur » des murs élevés,
+rencontre enfin une brèche « chargée de vignes sauvages : elle tombe
+alors » en cascade, et sa nappe limpide se brise sur » le dôme des
+ruines et des bains turcs.</p>
+<p>» Les siècles les plus reculés et les âges de » barbarie ont écrit leurs
+annales dans ce lieu « des regrets, des hautes réflexions, où tout</p>
+<p>» parle si noblement de la mort</p>
+<p>» -</p>
+<p>» L'aspect général d'Ephèse me rappeloit » celui des marais Pontins. A
+l'heure où le soleil » descendoit dans la mer, l'harmonie des lignes, »
+la vapeur chaude des lointains, le voile de' » cette heure mystérieuse,
+formoient un en-</p>
+<p><pb/></p>
+<p>380 MELANGES</p>
+<p>voya1 DANS LE LEVANT, page 60 et suiv.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 381</p>
+<p>C'est avec un charme particulier qu'en parcourant les tableaux de M. le
+comte de Forbin, nous reconnoissons dans ses personnages, nos anciens
+hôtes, ces vertueux Pères de Terre-Sainte, encore plus malheureux
+aujourd'hui qu'ils ne letoient lorsqu'ils nous reçurent dans toute la
+charité évangélique. Nous avons revu, non sans attendrissement, le nom
+du Père Clément Perez et celui du bon Père Munoz au coeur limpide e
+bianco; nous nous sommes réjoui en apprenant que M. Drovetti occupe une
+place auprès du pacha d'Egypte ; mais puisqu'il devoit adopter une
+patrie étrangère, nous aurions mieux</p>
+<p><pb/></p>
+<p>382 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 383</p>
+<p>» on aperçoit Jérusalem ; le côté oriental est » formé par le mont des
+Oliviers et par la mon«</p>
+<p>mon« du-Scandale. . .</p>
+<p>» Les pierres du cimetière des Juifs se montrent » comme un amas de
+débris au pied de la mon»</p>
+<p>mon» A la tristesse de Jé-</p>
+<p>On ne sauroit trop louer le voyageur d'avoir porté dans la Terre-Sainte
+des sentiments graves : avec un esprit de doute et de moquerie il
+n'auroit rien vu, et il auroit tout défiguré. Nous admirons le grand
+Voyage d'Egypte ; nous rendons hommage aux gens de lettres et aux
+artistes qui l'ont exécuté; mais nous souffrons quand nous voyons
+commenter les livres de Moïse avec une assurance qui fait de la peine,
+pour peu qu'on ait quelque connoissance des langues originales.
+Expliquer la colonne ' de nuée et de feu qui conduisoit les Hébreux dans
+le Désert, par un réchaud cylindrique dans lequel on entretient un feu
+vif et brillant, en</p>
+<p><pb/></p>
+<p>384 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 385</p>
+<p>TOME XXI. 25</p>
+<p><pb/></p>
+<p>386 MÉLANGES LITTÉRAIRES.</p>
+<p><pb/></p>
+<p>DE QUELQUES OUVRAGES</p>
+<p>HISTORIQUES ET LITTÉRAIRES.</p>
+<p>(âcfof&gt;« 1819,</p>
+<p>EXCELLENT ouvrage de critique de M. Dussault {Annales Littéraires), nous
+fournit l'année dernière l'occasion</p>
+<p>l'occasion rappeler une partie de la gloire de la France, trop oubliée
+de nos jours. Du milieu des agitations politiques, nous allons encore
+cette année jeter un regard sur le paisible monde des muses, que nous
+regrettons de ne</p>
+<p>25.</p>
+<p><pb/></p>
+<p>388 MÉLANGES</p>
+<p>Examinons quelques-uns des ouvrages nouvellement publiés, et que l'amour
+des lettres nous console un moment des haines politiques.</p>
+<p>Les premières annales des peuples ont été écrites en vers. Les muses se
+chargent de raconter les moeurs des nations, tant que ces moeurs sont
+héroïques ' et innocentes ; mais lorsque les vices et la politique
+surviennent, les filles du ciel abandonnent le récit de nos erreurs au
+langage des hommes. Les ouvrages historiques se multiplient de nos
+jours, et force nous est de les produire, car l'histoire se plaît dans
+les révolutions : il lui faut des malheurs pour juger sainement les choses;</p>
+<p><pb/></p>
+<p>LITTERAIRES. 389</p>
+<p>quand les empires sont debout, sa vue ne peut atteindre leur hauteur ;
+elle n'apprécie l'étendue du monument que lorsqu'elle en peut mesurer
+les ruines.</p>
+<p>L'ouvrage solide et important, connu sous le nom d'Histoire de Venise,
+fait grand honneur au beau-frère de M. de Baure. En voyant les monuments
+et les moeurs de l'Italie, on est tenté dé croire que des peuples dont
+le passé est si se-</p>
+<p><pb/></p>
+<p>390 -MÉLANGES</p>
+<p>L'esprit moderne croit encore que certains faits religieux sont
+au-dessous de la dignité de l'histoire ; et pourtant l'histoire, sans
+religion, ne peut avoir aucune dignité. Il ne s'agit pas de savoir si
+réellement Attila fut éloigné de Rome par l'intervention divine, mais si
+les chroniques du temps ont attesté le miracle. Le bras du ToutPuissant
+, arrêtant le ravageur du monde au pied de ce Capitole que ne défendent
+plus les Manlius</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 39.1</p>
+<p>1 Voyez, le cinquième volume du GÉNIE DU CHRISTIANISME , quinzième
+volume des OEuvres complètes.</p>
+<p><pb/></p>
+<p>392 MÉLANGES</p>
+<p>M. Petitot s'est chargé de recueillir une partie de ces débris précieux.
+Il veut nous don1</p>
+<p><pb/></p>
+<p>LITTERAIRES. 353</p>
+<p><pb/></p>
+<p>394 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 395</p>
+<p>Les nouveaux volumes publiés par M. Petitot,</p>
+<p>1' Nous possédons une copie de ce poëme. M. de Penhouet doit l'avoir
+publié dans un ouvrage sur les antiquités de la Bretagne.</p>
+<p><pb/></p>
+<p>396 MELANGES LITTERAIRES.</p>
+<p><pb/></p>
+<p>SUITE.</p>
+<p>Décembre 1819.</p>
+<p>PRÈS avoir traité de l'histoire, il conviendrait de parler des sciences;
+mais nous manquons de ce courage, si commun</p>
+<p><pb/></p>
+<p>398 MÉLANGES</p>
+<p>et grande découverte fera époque dans l'histoire de l'art. Si l'on
+pouvoit inventer une machine pour entendre ce qui se passe dans la
+conscience des hommes, cela serait bien utile dans le temps où nous
+rivons. « C'est dans son génie que le » médecin doit trouver les
+remèdes, » a dit un autre médecin dans ses ingénieuses Maximes; et
+l'ouvrage du docteur Laennec prouve la justesse de cette "observation.
+Nous pensons aussi, comme l'Ecclésiastique, « que toute médecine » vient
+de Dieu, et qu'un bon ami est la mé» decine du coeur. » Mais retournons
+aux choses de notre compétence.</p>
+<p>On publie dans ce moment une édition complète des OEuvres de madame de
+Staël. Le</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 399</p>
+<p><pb/></p>
+<p>400 MÉLANGES LITTÉRAIRES.</p>
+<p>Ofortunatos sua si bona norint ! Qu'il nous</p>
+<p><pb/></p>
+<p>ROMANS.</p>
+<p>ES peuples commencent par la poésie,, et finissent par les romans : la
+fiction marque l'enfance et la vieillesse de la</p>
+<p>TOME XXI. 26</p>
+<p><pb/></p>
+<p>402 MELANGES</p>
+<p>guère que la mauvaise société dont on ait pu supporter le tableau dans
+les romans françois : Manon Lescot en est la preuve. Madame de La
+Fayette, Le Sage, J.-J. Rousseau, Bernardin de Saint-Pierre, ont été
+obligés, pour réussir , d'établir leurs théâtres, et de prendre leurs
+personnages hors de leurs temps ou de leur pays.</p>
+<p><pb/></p>
+<p>LITTERAIRES. 403</p>
+<p>aux peintures tragiques ; tant l'homme est sérieux, même dans ses fictions!</p>
+<p>26.</p>
+<p><pb/></p>
+<p>404 MÉLANGES LITTÉRAIRES.</p>
+<p><pb/></p>
+<p>VOYAGESNFIN</p>
+<p>pas sans un sentiment de regret et presque d'envie, que nous avons lu le
+récit de la dernière expédition des Anglois au pôle arctique. Nous
+avions voulu jadis découvrir nous-mêmes, au nord de l'Amérique, les mers
+vues par Heyne, et depuis par Mackenzie : la narration du capitaine Ross
+nous a donc rappelé les rêves et les projets de notre jeunesse. Si nous
+avions été libres, nous aurions sollicité une place sur les vaisseaux
+qui ont recommencé le voyage cette année : nous hivernerions maintenant
+dans une terre inconnue, ou bien quelque baleine aurait fait justice de
+nos prophéties et de nos courses.</p>
+<p><pb/></p>
+<p>406 MELANGES</p>
+<p>Sommes-nous plus en. sûreté ici ? Qu'importe d'être écrasé sous les
+débris d'une montagne de glace, ou sous les ruines de la monarchie ?</p>
+<p>Laissons ces régions désolées pour suivre notre illustre ami, M. le
+baron de Humboldt, dans les belles forêts de la Nouvelle-Grenade. Le
+Voyage aux régions équinoxiales du nouveau continent, fait en \ 799-1804
+, est un des plus importants ouvrages qui aient paru depuis longues
+années. Le savoir de M. le baron de Humboldt est prodigieux; mais ce
+qu'il y a peut-être de plus étonnant encore, c'est le talent avec lequel
+l'auteur écrit dans une langue qui n'est pas sa langue ma-</p>
+<p><pb/></p>
+<p>LITTERAIRES. 407</p>
+<p>Optima quaeque dies miseris mortalibus oevi Prima fugit.</p>
+<p><pb/></p>
+<p>408 ' MELANGES</p>
+<p>" de ce commerce naistra leur ruine ,</p>
+<p>mé» Ils dirent</p>
+<p><pb/></p>
+<p>LITTERAIRES. 409</p>
+<p>» long-temps Sur ce que je lui de»</p>
+<p><pb/></p>
+<p>410 MELANGES</p>
+<p><pb/></p>
+<p>LITTERAIRES. 411</p>
+<p>M. de Humboldt a été guidé par le sentiment de ces vérités, lorsqu'il a
+parlé des peuples sauvages : la sage économie de ses jugements et la
+pompe de ses descriptions décèlent un maître qui domine également toutes
+les parties de son sujet et de son style. .</p>
+<p>Ici nous terminerons cet article : nous avons payé notre tribut annuel
+aux Muses. Aux époques les plus orageuses de la révolution, les lettres
+étaient moins abandonnées qu'elles ne le sont aujourd'hui. Sous
+l'oppression du directoire, et même pendant lé règne de la terreur, le
+goût des beaux-arts se montra avec une vivacité singulière. C'est que
+l'espérance renaissoit de l'excès des maux : notre présent était sans
+joie, mais nous comptions sur un meilleur avenir : nous nous disions que
+notre vieillesse ne seroit pas privée de la lyre:</p>
+<p>Nec turpem senectam Degere, me citharâ carentem.</p>
+<p><pb/></p>
+<p>412 MÉLANGES LITTÉRAIRES.</p>
+<p><pb/></p>
+<p>SUR L'HISTOIRE</p>
+<p>DES DUCS DE BOURGOGNE,</p>
+<p>DE M. DE BARANTE.</p>
+<p>Décembre 1824</p>
+<p>'HISTOIRE DE FRANCE est aujourd'hui l'objet de tous les travaux
+littéraires. Nous avons, dernièrement encore, parlé</p>
+<p><pb/></p>
+<p>414 MÉLANGES</p>
+<p>D'un autre côté, M. Buchon a commencé une Collection des Chroniques
+écrites en langue vulgaire du treizième au seizième siècle, ouvrage
+différent de celui de M. Petitot, qui ne publie que les Mémoires. ll a
+débuté par une édition de Froissart, aidé dans ses propres recherches
+par les recherches de M. Dacier : c'est de tout point un important et
+consciencieux travail.</p>
+<p>Enfin, la grande collection de dom Bouquet se continue : on remarque
+pourtant avec peine qu'elle a marché moins rapidement depuis la res-</p>
+<p><pb/></p>
+<p>LITTERAIRES. 415</p>
+<p>Parmi les ouvrages historiques du moment, il faut surtout distinguer
+celui de M. de Barante.</p>
+<p>Rien d'abord de plus heureusement choisi que le sujet.</p>
+<p><pb/></p>
+<p>416 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 417</p>
+<p>TOME XXI 27</p>
+<p><pb/></p>
+<p>418 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 419</p>
+<p>Les vignettes des manuscrits donnent l'idée la plus nette des usages du
+temps. On y voit des batailles, des cérémonies publiques, des
+prestations de foi et hommage, des intérieurs de maison et de palais,
+des vaisseaux, des chevaux, des armures, des vêtements de toutes les
+formes et de toutes les classes de la société.</p>
+<p>con» les moeurs, etc. »</p>
+<p>27.</p>
+<p><pb/></p>
+<p>420 MELANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 421</p>
+<p>dans son champ de quatre arpents, conduisant la charrue, ou creusant un
+fossé. Ils le saluent, offrent aux dieux des voeux pour sa prospérité et
+pour celle de la république, et le prient de prendre sa toge pour
+entendre ce que lui demande le sénat. Cincinnatus, étonné, s'enquiert
+s'il est arrivé quelque malheur, essuie la poussière et la sueur de son
+front, et envoie sa femme Racilia chercher sa toge dans sa cabane :
+Togam properè è tugurio proferre uxorem Raciliam jubet, dit Tite-Live.</p>
+<p><pb/></p>
+<p>422 MELANGES</p>
+<p>Cet art de nous transporter au milieu des</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 423</p>
+<p>» marcher plus belle que pas une autre. »</p>
+<p>M. de Barante s'est pénétré de cette importante idée , qu'il faut faire
+passer les usages et les moeurs dans la narration. ll décrit les
+batailles avec feu : on y assiste. Il faut lire dans le livre second la
+fameuse aventure du connétable de Gisson et du duc de Bretagne. Y a-t-il
+rien de plus animé que la peinture de ce qui advint après la signature
+du traité entre le Dauphin et Jeansans-Peur , au mois de juillet 1419? «
+La paix » des princes, dit l'historien , leur avoit causé</p>
+<p><pb/></p>
+<p>424 MELANGES</p>
+<p>» ( aux Parisiens ) une grande joie ; cependant » ils ne voyoient pas
+qu'on s'occupât beaucoup</p>
+<p><pb/></p>
+<p>LITTERAIRES. 425</p>
+<p>C'est ainsi que M. de Barante écrit nécessairement dans les idées qui
+dominent son système politique. Quand il expose les crimes des classes
+secondaires de la société , avec autant de sincérité que d'horreur, on
+sent qu'il y trouve une sorte d'excuse dans l'oppression des peuples et
+des communes ; quand il raconte les vertus des</p>
+<p><pb/></p>
+<p>426 MÉLANGES</p>
+<p><pb/></p>
+<p>^LITTÉRAIRES. 427</p>
+<p><pb/></p>
+<p>SUITE.</p>
+<p>mai 182.5.</p>
+<p>Nous avons rendu compte des premiers volumes de cet important et bel
+ouvrage. Deux autres volumes ont</p>
+<p>paru depuis cette époque, et deux nouveaux volumes sont au moment de
+paraître. Remettons rapidement sous les yeux du lecteur ce tableau si
+dramatique et si varié.</p>
+<p><pb/></p>
+<p>MÉLANGES LITTÉRAIRES. 429</p>
+<p>Sous ce premier duc s'écoule tout le règne de Charles V, ce règne si
+sage, si fertile en événements et en grands hommes, mais qui devoit se
+terminer par le règne de Charles VI, où renaissent toutes les calamités
+de la France. '</p>
+<p>Philippe le Hardi vit encore commencer la maladie de Charles VI, et
+cette tutelle orageuse que se disputèrent des oncles ambitieux et une
+mère dénaturée. Les querelles des Maisons d'Orléans et de Bourgogne
+éclatèrent. Il y a quelque chose de plus grand dans la Maison de
+Bourgogne.,, mais quelque chose de plus attachant dans celle d'Orléans.
+On se range malgré soi de son parti ; on lui pardonne la foiblesse de
+ses moeurs, en faveur de son goût poulies arts et de son héroïsme : par
+sa branche illé-</p>
+<p><pb/></p>
+<p>430 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 431</p>
+<p><pb/></p>
+<p>432 MÉLANGES</p>
+<p>cienne : on l'aurait brûlée pour sa beauté,</p>
+<p>comme on brûla Jeanne-d'Arc pour sa gloire.</p>
+<p>Le roi d'Angleterre descend en France. La bataille d'Azincourt perdue
+renouvelle tous les</p>
+<p><pb/></p>
+<p>LITTERAIRES. 433</p>
+<p>malheurs de celles de Crécy et de Poitiers. Paris est livré aux
+Bourguignons après avoir été gouverné par les Armagnacs ; les prisons
+sont forcées, et les prisonniers massacrés. Les Anglois s'emparent de
+Rouen, et Henri V prend le titre de roi de France.</p>
+<p>«Déjà, depuis long-temps, Charles VI n'a» voit plus ni raison ni
+mémoire; cependant » il étoit toujours demeuré chéri et respecté du »
+pauvre peuple ; jamais on ne lui avoit im» puté aucun des malheurs qui
+avoient désolé » le royaume pendant les quarante-trois années » de son
+règne. On se souvenoit que, dans sa » jeunesse, il avoit su plaire à
+tous par sa dou» ceur, sa courtoisie, ses manières aimables ;</p>
+<p>TOME XXI. • 28</p>
+<p><pb/></p>
+<p>.434 MELANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 435</p>
+<p>On sait que l'infortuné monarque , lorsqu'il reprenoit sa raison, ne
+cessoit de gémir sur les maux de la France, et lorsqu'il éprouvoit une
+rechute, poursuivi par l'idée que sa folie le rendoit une sorte de fléau
+pour ses sujets, il soutenoit qu'il n'était pas roi, et effaçoit avec
+fureur son nom et ses armes partout où il les rencontrait.</p>
+<p>Char» VII fut salué du cri de vive le roi! Les</p>
+<p>28.</p>
+<p><pb/></p>
+<p>436 , MÉLANGES</p>
+<p>» Anglois, par dérision, le nommèrent le roi " de Bourges ; mais on
+pouvoit voir dès lors » combien il seroit difficile de vaincre son bon »
+droit, et d'établir d'une façon durable le pou» voir des anciens ennemis
+du royaume. »</p>
+<p>Richemont, Dunois, Xaintrailles, La Hire., soutiennent d'abord l'honneur
+françois sans pouvoir arracher la France aux étrangers ; mais Jeanned'Arc
+ paraît, et la patrie, est sauvée.</p>
+<p>Il faut lire, dans l'ouvrage de M. de Barante, le morceau entier sur la
+Pucelle d'Orléans. Il a su conserver, dans le caractère de Jeanne d'Arc,
+la naïveté de la paysanne, la foiblesse de la femme, l'inspiration de la
+sainte, et le courage de l'héroïne. On voit la bergère de Domremy
+planter une échelle contre les retranchements des Anglois devant Orléans
+, entrer la première dans la bastille attaquée; on la voit, blessée,
+précipitée dans le fossé, pleurer et s'effrayer, mais revenir bientôt à
+la charge, emporter d'as-</p>
+<p><pb/></p>
+<p>LITTERAIRES. 437</p>
+<p><pb/></p>
+<p>438 MÉLANGES</p>
+<p>» digne sacre, pour montrer que vous êtes vrai « roi, et celui auquel
+doit appartenir le royaume. »</p>
+<p>Cependant Jeanne annonçoit que son pouvoir alloit expirer. « Savez-vous
+quand vous mourrez, » et en quel lieu ?» lui disoit le bâtard d'Orléans.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 439</p>
+<p>Sur la demande d'un inquisiteur et de l'évêque de Beauvais, la Pucelle
+fut livrée aux Anglois par les Bourguignons, ou plutôt vendue pour la
+somme de dix mille francs. On fit faire une cage de fer où on l'enferma,
+après lui avoir mis les fers aux pieds : elle fut déposée, ainsi traitée
+pour la France, dans la grosse tour du château de Rouen. « Les archers
+anglois qui gar» doient cette pauvre fille l'insultaient grossiè»
+rement,' et parfois essayèrent de lui faire vio» lence. » Elle fut
+exposée aux outrages même des seigneurs anglois.</p>
+<p>Son procès commença. Environnée de pièges, enlacée dans des mensonges
+par lesquels on vou-</p>
+<p><pb/></p>
+<p>440 MELANGES</p>
+<p>Une fois on l'interrogeoit touchant son étendard.</p>
+<p>« Je le portais au lieu de lance, dit-elle, pour » éviter de tuer
+quelqu'un ; je n'ai jamais tué » personne. »</p>
+<p>« Je disois : Entrez hardiment parmi les An» glois, et j'y entrais
+moi-même. »</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 441</p>
+<p>On lui demanda pourquoi au sacre de Reims" elle avoit tenu son étendard
+près de l'autel ; elle répondit :</p>
+<p>On voulut avoir d'elle avant son supplice une sorte d'aveu public de la
+justice de sa condamnation. Un prédicateur ayant parlé contre le roi de
+France, Jeanne l'interrompit en lui disant : « Parlez de moi, mais non
+pas du roi : j'ose bien » dire et jurer, sous peine de la vie, que c'est
+» le plus noble d'entre les chrétiens. »</p>
+<p>La sentence fut exécutée. Son second confesseur , qui rachetoit par ses
+vertus l'infâme trahison du premier , « Frère Martin l'Advenu était "
+monté sur le bûcher avec elle ; il y étoit encore » que le bourreau
+alluma le feu : « Jésus ! » s'écria » Jeanne, et elle fit descendre le
+bon prêtre ; « Te» nez-vous en bas, dit-elle; levez la croix devant</p>
+<p><pb/></p>
+<p>442 MÉLANGES</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 443</p>
+<p>Nous avons été bien malheureux ; nos pères l'ont-ils été moins ? Après
+le règne de Charles VI et de Charles VII, M. de Barante nous présentera
+le tableau de la tyrannie de Louis XI. Les guerres de l'Italie et la
+captivité de François Ier ne sont pas loin, et les fureurs de la Ligue
+les suivent. La France ne respire enfin qu'après les désordres de la
+Fronde; car si les guerres de Louis XIV l'épuisèrent, elles ne
+troublèrent pas son repos. Cette paix continua sous Louis XV, et il faut
+remarquer que c'est en avançant vers la civilisation, que les peuples
+voient augmenter la somme de leurs prospérités. L'immense orage de la
+révolution a éclaté après un siècle</p>
+<p><pb/></p>
+<p>, 444 MÉLANGES LITTÉRAIRES.</p>
+<p>et demi de tranquillité intérieure. Il a changé les lois et les moeurs,
+mais il n'a pas arrêté la civilisation. Une autre histoire va naître ,
+quels en. seront les personnages ? Souhaitons-leur un historien qui,
+comme M. de Barante, parle des rois sans humeur, des peuples sans
+flatterie, et qui ne méprise ni n'estime assez les hommes pour altérer
+la vérité.</p>
+<p><pb/></p>
+<p>SUR</p>
+<p>L'HISTOIRE DES CROISADES,</p>
+<p>DE M. MICHAUD,</p>
+<p>D E L'ACADEMIE FRANCOISE</p>
+<p>Octobre 1825</p>
+<p>E s choses remarquables se passent sous nos yeux. Tandis qu'un mouvement
+immense emporte les peuples vers d'autres</p>
+<p><pb/></p>
+<p>446 MÉLANGES</p>
+<p>et d'institutions anciennes les intérêts d'une société nouvelle, cette
+société se jette avec une égale ardeur sur le passé pour le connoître,
+sur l'avenir pour en faire la conquête.</p>
+<p>C'est en effet un trait particulier de notre époque , que la grande
+activité politique qui travaille les générations ne se perde plus, comme
+aux premiers jours de nos expériences, dans le champ des théories : on
+se résigne, courage bien singulier, au changement des doctrines par
+l'étude des faits, se précautionnant, pour ne pas s'égarer dans la route
+qu'on va suivre, de toutes les autorités de l'histoire.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 447</p>
+<p>Il faut donc considérer comme une généreuse conspiration de patriotisme,
+cette notable passion de notre époque pour l'étude des souvenirs, des
+traditions , des monuments nationaux.</p>
+<p>Une pensée fraternelle semble animer ceux qui lisent et ceux qui
+écrivent. L'histoire des vieux temps, tracée par des hommes du nôtre,
+resserre encore les liens de la parenté. Ceux qui ont des souvenirs,
+ceux qui ont des espérances, se rapprochent dans ce commerce historique.
+Par une double rencontre,' il devient l'occupation des hommes mûrs qui
+ont passé par les affaires, et des hommes jeunes encore qui doivent y
+passer; ils mettent en commun leurs nobles douleurs et leurs ambitions
+généreuses. Chassés du présent par une politique étroite, ils
+se,retrouvent dans les jours qui ne sont plus.</p>
+<p><pb/></p>
+<p>448 MÉLANGES</p>
+<p>L'Histoire des Croisades, dont nous annonçons la quatrième édition, est
+l'heureux fruit de cette heureuse alliance de qualités. Ecrite sous des
+temps différents, par intervalles, par parties détachées, elle forme un
+tout régulier. C'est le même esprit qui domine tout cet ensemble, de
+récits divers et compliqués.</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 449</p>
+<p>Il y avoit trois difficultés dans l'histoire complète des Croisades :
+c'étoit d'indiquer leur cause première ; de retrouver " dans la
+poussière de tant de milliers d'hommes, la trace des premiers pas faits
+vers la Terre-Sainte ; puis, une fois cette indication préliminaire
+établie, il falloit mettre de l'ordre et de l'enchaînement dans cette
+suite de migrations et d'entreprises qui n'eurent pas. toutes plus tard
+le mobile qu'elles avoient eu d'abord.</p>
+<p>puisTOME 29</p>
+<p><pb/></p>
+<p>450 MÉLANGES</p>
+<p>santé de ces temps barbares pour enfanter la civilisation au nom de
+laquelle on les a trop souvent accusés.</p>
+<p>Quand dans un sujet on va au fond des choses, il est tout simple que la
+forme, esclave fidèle, se moule sur le sujet choisi par l'écrivain. Il
+n'y avoit qu'un écueil pour le style dans l'Histoire des Croisades,
+c'étoit d'être entraîné par la poésie du sujet, et de se tromper de
+muse. M. Michaud a évité cet écueil ; mais en même</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 451</p>
+<p>-« Dès que le printemps parut, dit l'historien, rien ne put contenir
+l'impatience des Croisés; ils se mirent en marche pour se rendre dans
+les lieux où ils dévoient se rassembler. Le plus grand nombre alloit à
+pied ; quelques cavaliers paroissoient au milieu de la multitude,
+plusieurs voyageoient montés sur. des chars traînés par des boeufs
+ferrés; d'autres côtoyoient la mer, descendoient les fleuves dans des
+barques ; ils étoient vêtus diversement, - armés de lances , d'épées, de
+javelots, de massues de fer, etc. La foule des Croisés offrait un
+mélange bizarre et confus de toutes les conditions et de tous</p>
+<p><pb/></p>
+<p>452 MELANGES ■</p>
+<p>» Les pères conduisoient eux-mêmes leurs enfants, et leur faisoient
+jurer de vaincre ou de mourir pour Jésus-Christ. Les guerriers
+s'arrachoient des bras de leurs épouses et de leurs familles et
+promettaient de revenir victorieux. Les</p>
+<p><pb/></p>
+<p>LITTÉRAIRES. 453</p>
+<p><pb/></p>
+<p>454 MELANGES</p>
+<p>» Au milieu du délire universel, personne ne s'étonnoit de ce qui fait
+aujourd'hui nôtre surprise. Ces scènes si étranges, dans lesquelles tout
+le monde étoit acteur, ne dévoient être un spectacle que pour la
+postérité. »</p>
+<p><pb/></p>
+<p>LITTERAIRES. 455</p>
+<p>En attendant, pour trouver des sentiments généreux, relisons l' Histoire
+des Croisades. Les détails de cette histoire existoient, mais, dispersés
+dans des matériaux confus et indigestes. M. Michaud les a rassemblés :
+c'est un tableau qui a trouvé un peintre.</p>
+<p>FIN DU TOME VINGT ET UNIEME.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>NOTES.</p>
+<p>NOTE (A), Page 85.</p>
+<p>NOTE (B), Page 283.</p>
+<p>CETTE lettre , qui a été reproduite dans plusieurs recueils littéraires,
+est de M. de Baure, auteur d'une Histoire du Béarn , et beau-frère' de
+M. le comte Daru. Voyez page 389</p>
+<p>( NOTES DE L'ÉDITEUR. )</p>
+<p>TOME XXI 30</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>TABLE DES MATIÈRES</p>
+<p>CONTENUES DANS CE VOLUME.</p>
+<p>Pages.</p>
+<p>PRÉFACE 1</p>
+<p>DE L'ANGLETERRE ET DES ANGLOIS 5</p>
+<p>ESSAI SUR LA LITTÉRATURE ANGLOISE. Young. ... 25</p>
+<p>Shakspeare 45</p>
+<p>Beattie 73</p>
+<p>Mackenzie (Voyages de) 87</p>
+<p>SUR LA LÉGISLATION PRIMITIVE 131</p>
+<p>— Suite 148</p>
+<p>SUR LE PRINTEMPS D'UN PROSCRIT 181</p>
+<p>SUR L'HISTOIRE DE LA VIE DE JÉSUS-CHRIST 211</p>
+<p>SUR LES OEUVRES DE ROLLIN __.... 229</p>
+<p>SUR LES ESSAIS DE MORALE ET DE POLITIQUE . . . 247</p>
+<p>SUR LES MÉMOIRES DE LOUIS XIV 263</p>
+<p>DES LETTRES ET DES GENS DE LETTRES 283</p>
+<p>SUR LE VOYAGE EN ESPAGNE, de M. de Laborde. . . 305 SUR LES ANNALES
+LITTÉRAIRES, de M. Dussault." . . 335 SUR LA VIE DE MALESHERBES , par M.
+Boissy-d'Anglas 351</p>
+<p>PANORAMA DE JÉRUSALEM 367</p>
+<p><pb/></p>
+<p>460 TABLE DES MATIERES.</p>
+<p>Pages.</p>
+<p>SUR LE VOYAGE AU LEVANT, de M. de Forbin. . . . 371 SUR QUELQUES
+OUVRAGES HISTORIQUES ET LITTÉRAIRES 387</p>
+<p>SUR QUELQUES ROMANS 401</p>
+<p>SUR UN VOYAGE de M. de Humboldt 405</p>
+<p>SUR L'HISTOIRE DES DUCS DE BOURGOGNE 413</p>
+<p>— Suite 428</p>
+<p>SUR L'HISTOIRE DES CROISADES, par M. Michaud. . 445 NOTES , 457</p>
+<p>FIN DE LA TABLE DU VINGT ET UNIÈME VOLUME.</p>
+    </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,2609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Doumic, René (1860-1937)">René Doumic</author>
+<title>Le Misanthrope de Molière : étude et analyse / par René Doumic, de l'Académie française</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Doumic, René (1860-1937)</author>, <title>Le Misanthrope de Molière : étude et analyse / par René Doumic, de l'Académie française</title>, <date>1929</date>,description :Collection : Les Chefs-d'oeuvre de la littérature expliqués,336 pages
+</bibl>
+<publisher>Mellottée (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k5567730k</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1929">1929</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>LES CHEFS-D'OEUVRE DE LA LITTÉRATURE EXPLIQUÉS</p>
+<p>Publies sous la Direction de RENÉ DOUMIC de L'Académie Française</p>
+<p>LE</p>
+<p>MISANTHROPE</p>
+<p>de Molière</p>
+<p>ÉTUDE ET ANALYSE</p>
+<p>PAR</p>
+<p>RENÉ DOUMIC</p>
+<p>DE L'ACADÉMIE FRANÇAISE</p>
+<p>LIBRAIRIE MELLOTTÉE</p>
+<p>48. KTTU MON'SEETJE-I/oeTPBISrOE, PARIS VI"</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LES CHEFS-D'OEUVRE DE LA LITTÉRATURE EXPLIQUÉS</p>
+<p>PREMIÈRE SÉRIE DE LA COLLECTION ANTIQUITÉ</p>
+<p>Les Philippiques de DÉMOSTHÈNE, par Aimé Puech, de l'Institut.</p>
+<p>XVIe SIÈCLE</p>
+<p>Gargantua de RABELAIS, par Abel Lefranc, de l'Institut. Les Essais de
+MONTAIGNE, par Gustave Lanson, directeur de l'Ecole Normale Supérieure.</p>
+<p>XVII' SIÈCLE</p>
+<p>Le Misanthrope de MOLIÈRE, par René Doumic, de l'Académie Française.</p>
+<p>Les Pensées de PASCAL, par Forlunat Slrowski, de l'Institut.</p>
+<p>XVIII' SIÈCLE</p>
+<p>XIX« SIÈCLE</p>
+<p>Les Contemplations de VICTOR HUGO, par Mario Rouslan. Le Père Goriot de
+BALZAC, par Marcel Bouteron. Port-Royal de SAINTE-BEUVE, par Victor
+Giraud. Pêcheur d'Islande de PIERRE LOTI, par Louis Barthou, de
+l'Académie Française.</p>
+<p>LITTÉRATURES ÉTRANGÈRES</p>
+<p>Don Quichotte de CERVANTES, par Paul Hazard, professeur au Collège de
+France.</p>
+<p><pb/></p>
+<p>LES CHEFS-D'OEUVRE DE LA LITTERATURE EXPLIQUÉS</p>
+<p>Publiés sous la Directionde RENÉ DOUMIC de l'Académie Française</p>
+<p>LE</p>
+<p>MISANTHROPE</p>
+<p>ie Molière</p>
+<p>ETUDE ET ANALYSE</p>
+<p>PAR</p>
+<p>RENÉ DOUMIC</p>
+<p>DE L'ACADÉMIE FRANÇAISE</p>
+<p>LIBRAIRIE MELLOTTÉE</p>
+<p>48, RTJE MONSIEUE-LE-PEINCE, PAHIS VF»</p>
+<p><pb/></p>
+<p>JUSTIFICATION DE TIRAGE</p>
+<p>IL A ÉTÉ TIRÉ DE CET OUVRAGE 5 EXEMPLAIRES SUR JAPON DE LA MANUFACTURE
+IMPÉRIALE NUMÉROTÉS DE A A E 25 EXEMPLAIRES SUR HOLLANDE VAN GELDER
+NUMÉROTÉS DE 6 A 30 370 EXEMPLAIRES SUR VERGÉ PUR FIL OUTHENIN-CHALANDRE
+NUMÉROTÉS DE 31 A 400</p>
+<p>E T 600 EXEMPLAIRES SUR VERGÉ PUR FIL OUTHENIN-CHALANDRE PORTANT LA
+MARQUE û</p>
+<p>QUI CONSTITUENT L'ÉDITION ORIGINALE DE CET OUVRAGE</p>
+<p><pb/></p>
+<p>AVERTISSEMENT</p>
+<p>La Collection des Chefs-d'OEuvre de la Littérature expliqués s'adresse à
+tous ceux qui sont curieux d'acquérir une connaissance complète des
+chefs-d'oeuvre de notre littérature et des littératures anciennes ou
+étrangères.</p>
+<p>Dans chacun de ces volumes, l'auteur est guidé par</p>
+<p><pb/></p>
+<p>AVERTISSEMENT</p>
+<p>RENÉ DOUMIC</p>
+<p><pb/></p>
+<p>LE MISANTHROPE</p>
+<p>PREMIÈRE PARTIE</p>
+<p>AVANT LE MISANTHROPE</p>
+<p>•LA JEUNESSE DE MOLIÈRE</p>
+<p>Le vendredi 4 juin 1666, le Misanthrope, comédie nouvelle de M. de
+Molière, était représenté, pour la première fois, sur le théâtre du
+Palais-Royal, par la troupe du Roi.</p>
+<p>. nette de ce qu'il voulait faire, connaissance chaque jour plus
+complète des ressources et de la portée de son art, avènement d'une
+littérature</p>
+<p><pb/></p>
+<p>LE MISANTHROPE</p>
+<p>Sur sa vie nous avons peu de renseignements, j'entends de ceux qui
+méritent confiance et dont on peut faire état pour la connaissance de
+l'homme et l'intelligence de l'oeuvre. Les traits essentiels nous sont
+fournis par l'excellente Préface placée par La Grange et Vinot en tête
+de leur édition des OEuvres publiée en 1682.Tous deux avaient connu
+Molière, et,La Grange avait été, pendant quinze ans, son compagnon de
+chaque jour. Mais avec une discrétion et une dignité qui leur font
+honneur, ils ne nous ont donné presque aucun de ces détails intimes dont
+on est aujourd'hui si friand. La première biographie un peu étendue que
+nous ayons de' notre auteur est cette Vie de Molière publiée en 1705,
+trente-deux ans après la mort du poète, par Le Gallois de Grimarest.
+C'est d'elle que Boileau écrivait : « Franchement, ce n'est pas un
+ouvrage qui mérite qu'on en parle. Il est fait par un homme qui ne
+savait rien de la vie de Molière, et il se trompe dans tout, ne sachant
+même pas les faits que tout le monde sait. » Condamnation trop absolue,
+jugement de mauvaise humeur. S'il n'avait pas connu personnellement
+Molière, Grimarest</p>
+<p><pb/></p>
+<p>LA JEUNESSE DE MOLIÈRE n</p>
+<p>était l'ami de Baron, auprès de qui il s'était renseigné. Il avait mené
+ses recherches avec une curiosité avisée. Son livre est un livre de
+bonne foi, écrit avec simplicité, contenant des renseignements qu'on ne
+trouve pas ailleurs et dont plusieurs ont été reconnus exacts. Quant aux
+pamphlets, l'Elomire hypocondre de Le Boulanger de Chalussay et l'odieux
+libelle de La Fameuse comédienne ou Histoire de la Guérin, auparavant
+femme et veuve de Molière, daté de Francfort 1688, et d'auteur inconnu,
+qui fixera jamais l'exacte mesure où une parcelle de vérité se mêle à
+leurs furieuses calomnies ?</p>
+<p><pb/></p>
+<p>12 LE MISANTHROPE</p>
+<p>Longtemps la date exacte de sa naissance resta indécise. Au début du
+siècle dernier seulement, la découverte de son acte de baptême apporta
+une certitude. On lit au registre de la paroisse Saint - Eustache : « Du
+samedi, 15 janvier 1622, fut baptisé Jean, fils.de Jean Pouguelin,
+tapissier, et de Marie Cresé, sa femme, demeurant rue Saint-</p>
+<p><pb/></p>
+<p>LA JEUNESSE DE MOLIÈRE 13</p>
+<p><pb/></p>
+<p>-^.. —----^aaari^frg^BfraAaaMBMa</p>
+<p>14 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LA JEUNESSE DE MOLIÈRE 15 -</p>
+<p><pb/></p>
+<p>i6 LE MISANTHROPE i</p>
+<p>cour : aux regards pénétrants de ce bourgeois rien'; n'échappera de la
+comédie aristocratique.</p>
+<p>Jean Poquelin se remaria : un an après son veuvage, il épousa Catherine
+Fleurette, fille d'Eustache Fleurette, lui aussi bourgeois et marchand.
+Celle-ci mourait au bout de trois ans, lut laissant deux filles :
+Molière est l'aîné de six enfants. La belle-mère de Molière, pour
+l'avoir été trois ans, a-t-elle laissé trace dans son théâtre ? Il est
+vrai que la Béline du Malade imaginaire n'est</p>
+<p><pb/></p>
+<p>LA JEUNESSE DE MOLIÈRE i7</p>
+<p><pb/></p>
+<p>18 LE MISANTHROPE</p>
+<p>Au collège de Clermont, vers le même-temps, se trouvait un élève
+princier. Le frère du grand Condé ne pouvait être pour le fils de Jean
+Poquelin, un camarade. D'avoir été condisciples créera quand même entre
+eux un lien : Conti, que Molière retrouvera en province, acceptera
+d'être le protecteur de sa troupe, jusqu'au jour où il s'avisera de
+devenir dévot.</p>
+<p><pb/></p>
+<p>LA JEUNESSE DE MOLIÈRE 19</p>
+<p>sendi des leçons auxquelles assistaient- quelques camarades choisis,
+Bernier et Cyrano de Bergerac. Une tradition, généralement admise, veut
+que Molière ait été l'un d'eux.</p>
+<p><pb/></p>
+<p>LE MISANTHROPE</p>
+<p>1641, remplacé son père au cours du voyage que : Louis XIII fit dans le
+Midi de la France. Mais pas davantage il n'était fait ni pour le négoce,
+ni pour les emplois de cour.</p>
+<p>Il était né pour le théâtre.</p>
+<p>Par quelle voie y est-il arrivé ?</p>
+<p>Cette occasion, ce fut l'amitié qu'il lia avec les Béjart.,</p>
+<p><pb/></p>
+<p>LA JEUNESSE DE MOLIÈRE 21</p>
+<p>De l'aînée, Madeleine, il faut faire une mention spéciale, pour la large
+part qu'elle a eue dans la carrière du poète et pour les services
+qu'elle lui a rendus. C'était une grande belle fille, d'un blond tirant
+sur le roux. Maîtresse du comte de Modène, elle en avait eu une fille.
+Molière l'aima. De quatre ans plus âgée que lui, elle va être, pendant
+trente ans, son amie, sa conseillère, son auxiliaire la plus précieuse.
+Comédienne de talent, assez</p>
+<p><pb/></p>
+<p>22 LE MISANTHROPE</p>
+<p>1. Voyez- Larroumet : La Comédie de Mclière, Madeleine Béjart.</p>
+<p><pb/></p>
+<p>LA JEUNESSE DE MOLIÈRE 23</p>
+<p>influera sur ses plus belles créations, une empreinte dont son génie
+sera marqué. Comédien poète, il a commencé par être comédien et ne
+cessera pas de l'être en devenant poète.</p>
+<p>Il vécut deux ans. Ouvert en janvier 1644 au Jeu de Paume des Métayers,
+« sis sur le fossé et proche la porte de Nesle », c'est-à-dire à
+l'endroit où commencent aujourd'hui les rues de Seine et Mazarine, on y
+joua surtout la tragédie. Il avait été prévu que Poquelin et Joseph
+Béjart devaient « choisir alternativement les héros ». Entre temps
+Poquelin était devenu Molière. C'est de ce nom qu'il signe un contrat en
+date du 28 juin 1644</p>
+<p><pb/></p>
+<p>24 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LES ANNÉES DE VOYAGE 25</p>
+<p>LES ANNÉES DE VOYAGE. MOLIÈRE EN PROVINCE</p>
+<p>1. Larroumet, La Comédie de Molière, p. 80.</p>
+<p><pb/></p>
+<p>26 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LES ANNÉES DE VOYAGE 27 .</p>
+<p>A Avignon, où la troupe arrive cette même année 1657, Molière rencontre
+le peintre Mignard : « Ces deux hommes rares eurent bientôt lié une
+amitié qui ne finit qu'avec leur vie. » A cette amitié nous devons le
+portrait de Molière couronné de lauriers dans le rôle de César de la
+Mort de Pompée, et le poème de la Gloire du Val de Grâce.</p>
+<p><pb/></p>
+<p>28 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LES ANNÉES DE VOYAGE 29</p>
+<p>A Pézenas, il en est « tout un hiver », avec ses inquiétants musiciens,
+le parasite :</p>
+<p>En cette douce compagnie Que je repaissais d'harmonie, Au milieu de sept
+ou huit plats, Exempt de soins et d'embarras. Je passais doucement la
+vie. Jamais plus gueux ne fut plus gras.</p>
+<p><pb/></p>
+<p>30 • LE MISANTHROPE</p>
+<p>se représenter la troupe de Molière. De plus en plus, son chef fait
+figure de personnage important, estimé des amateurs de théâtre et qui
+fraye avec les grands.</p>
+<p><pb/></p>
+<p>LES ANNÉES DE VOYAGE 31</p>
+<p><pb/></p>
+<p>32 LE MISANTHROPE</p>
+<p>peare, cette dualité n'existera pas. Il sera littéralement : le théâtre
+fait homme.</p>
+<p>LE RETOUR A PARIS</p>
+<p><pb/></p>
+<p>LE RETOUR A PARIS 33</p>
+<p>La troupe de Molière se composait alors de JosephBéjart, dit l'aîné,
+Louis Béjart, Du Fresne, Du Parc, De Brie, et de Mlles Madeleine Béjart,
+Du Parc, De Brie et Hervé (Geneviève Béjart). Joseph Béjart allait
+mourir, l'année suivante, en jouant</p>
+<p>1. Préface de 1682.</p>
+<p><pb/></p>
+<p>34 LE MISANTHROPE</p>
+<p>Je suis homme tout rond de toutes les manières,</p>
+<p><pb/></p>
+<p>LE RETOUR A PARIS 35</p>
+<p><pb/></p>
+<p>36 LE MISANTHROPE</p>
+<p>raison de la troupe, —livre d'or de la ComédieFrançaise.</p>
+<p><pb/></p>
+<p>L'HOMME</p>
+<p>37</p>
+<p>L'HOMME</p>
+<p><pb/></p>
+<p>38 LE MISANTHROPE</p>
+<p>i. Larroumet. La Comédie de Molière, p. 309.</p>
+<p><pb/></p>
+<p>L'HOMME 39</p>
+<p><pb/></p>
+<p>40 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>L'HOMME</p>
+<p>4i</p>
+<p>quée, les médecins d'alors ne surent apporter ni un remède, ni même un
+soulagement.</p>
+<p><pb/></p>
+<p>42 LE MISANTHROPE</p>
+<p>L'OEUVRE. LA COMÉDIE AVANT MOLIÈRE</p>
+<p><pb/></p>
+<p>LA COMÉDIE AVANT MOLIÈRE 43</p>
+<p>types arrêtés d'avance, du capitaine bravache au docteur et de
+l'amoureux au valet fripon et poltron. Deux tendances. D'une part, le
+romanesque et la fade galanterie : Thomas Corneille y excelle en
+attendant Quinault. D'autre part, le comique forcé et grossier qui
+triomphe sous les espèces du burlesque. Le maître du genre est Scarron 1.</p>
+<p>Il n'est rien tel qu'être pied plat.</p>
+<p>Don Japhet d'Arménie (1653) est sans doute le chef-d'oeuvre de Scarron.
+Descendant de Noé et cousin de Charles-Quint au deux mille huitantième
+degré, Don Japhet, après avoir été le fou de l'empereur, s'est retiré à
+Orgas où il tranche du grand seigneur. On ne peut nier que le personnage
+ne soit plaisant, et la pièce d'un bout à</p>
+<p>1. Voir Brunetière : Les Époques du théâtre français. Victor Fournel :
+Les Contemporains de MoKère.'Pa.ul Morillot: Scarron. Gustave Reynier :
+Thomas Corneille. Etienne Gros : Quinault.</p>
+<p><pb/></p>
+<p>44 LE MISANTHROPE</p>
+<p>N'oublions pas Cyrano de Bergerac et son Pédant joué (1654) puisque,
+quinze ans après, l'auteur des Fourberies de Scapin ne l'aura pas oublié.</p>
+<p><pb/></p>
+<p>LA COMÉDIE AVANT MOLIÈRE 45</p>
+<p>le récent historien de Quinault, M. Etienne Gros, voit justement
+l'ébauche de ce que pourra devenir la « comédie bourgeoise », le jour où
+Molière s'en sera emparé. « L'Alizon de Discret, la Bourgeoise de
+Rayssiguier, les 'Vendanges de Suresnes de du Ryer, l'Intrigue des
+filous de Claude de l'Estoile, la Belle Plaideuse et les Trois Orontes
+de Boisrobert, toutes ces ébauches ont ce trait en commun d'être
+pareillement françaises par le cadre — coteaux de Suresnes, rue de
+Paris, île du Palais, cheval de bronze, —et par les personnages, gens de
+condition médiocre, bourgeois et paysans. »</p>
+<p>Une pièce dont le succès fut vif et durable, mérite une mention spéciale
+: les Visionnaires de Desmarets de Saint-Sorlin (1640). Comment n'y pas
+voir, tout au moins, un essai de la comédie de caractère, puisque l'une
+des trois filles d'Alcidon, Hespérie, qui croit deviner en tout homme
+qui l'approche un soupirant, est le premier crayon dont Molière
+s'inspirera pour le portrait de Bélise ?</p>
+<p>Enfin il faut tenir grand compte de la tentative faite par Corneille
+dans ses premières comédies et dont il n'a pas manqué de souligner
+lui-même l'originalité. On sait comment, dans l'Examen de Mélite, il
+explique le succès inespéré qui accueillit cette pièce d'un débutant : «
+La nouveauté de ce genre de comédie, dont il n'y a point d'exemple en
+aucune langue, et le style naïf qui faisait une peinture de la
+conversation des honnêtes gens furent</p>
+<p><pb/></p>
+<p>46 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LA COMÉDIE AVANT MOLIÈRE 47</p>
+<p><pb/></p>
+<p>48 LE MISANTHROPE</p>
+<p>LES PREMIÈRES COMÉDIES</p>
+<p>A l'origine de l'oeuvre de Molière est la farce. M. Gustave Lanson y
+insiste justement. « La comédie de Molière, écrit-il dans sa belle
+Histoire de la littérature française, relève de la farce. Les ennemis du
+poète l'accusaient d'avoir acheté les Mémoires de Guillot Gorju : c'est
+une fable, mais vraie d'une vérité de légende. Molière est un farceur. »
+Le terme par lequel Sarrasin croyait dénigrer Molière, sert ainsi à
+définir son génie. La Jalousie de Barbouillé, qui met en scène un mari
+trompé et berné par une méchante femme, le Médecin volant, où un valet
+est improvisé médecin, et de même ce Docteur amoureux qui vaudra à
+Molière les premiers suffrages de Louis XIV, Gorgibus dans le sac, etc.
+ne sont encore que des scénarios rappelant par la sécheresse des lignes
+l'art de notre vieux théâtre : Molière reprendra plus tard ces ébauches
+et en fera des comédies. L'art est différent, l'esprit est le même. Cet
+esprit, venu de</p>
+<p><pb/></p>
+<p>LES PREMIÈRES COMÉDIES 49</p>
+<p>4</p>
+<p><pb/></p>
+<p>5o LE MISANTHROPE</p>
+<p>pas le Ménalque de La Bruyère : elle n'est qu'un ressort de théâtre, un
+moyen de faire sans cesse rebondir l'action. Le comique vient des
+situations, Hâtons-nous de dire qu'il vient aussi de la qualité du
+dialogue, étinçelant d'esprit, d'invention verbale et d'imprévu, avec
+ses acrobaties de rythmes et ses jongleries de rimes. On s'explique que
+les romantiques, dans leur prédilection pour la littérature d'avant
+1660, aient si fort goûté ces premières pièces de Molière, Tout Banville
+et beaucoup de Rostand sont sortis de là.</p>
+<p><pb/></p>
+<p>LES PREMIÈRES COMÉDIES 51</p>
+<p>curiosité. On ne s'est pas lassé de revoir Mascarille, doublé du joyeux
+Gros René, Métaphraste, le pédant, et Marinette, la première en date des
+soubrettes de Molière, le premier exemplaire de ce type si vraiment, si
+uniquement français, les Lisette, les Dorine, les Toinette, gaîté et
+franchise, esprit et bon sens, naturel et bonne humeur, fraîcheur de
+jeunesse et jeunesse du rire, saveur de terroir et de quel terroir !</p>
+<p>DES PRÉCIEUSES RIDICULES A L'ÉCOLE DES FEMMES</p>
+<p><pb/></p>
+<p>52 LE MISANTHROPE</p>
+<p>Précieuses. La voie est ouverte où, désormais, chaque étape sera marquée
+par un chef-d'oeuvre.</p>
+<p><pb/></p>
+<p>LES PREMIÈRES COMÉDIES 53</p>
+<p>Pour ce sujet, éminemment gaulois, Molière a employé un style gras, qui
+contraste aussi bien avec le style volontairement alambiqué des Pré-</p>
+<p><pb/></p>
+<p>54 LE MISANTHROPE</p>
+<p>cieuses et avec la vivacité brillante et légère du style de l'Etourdi.</p>
+<p>Ici, une aventure.</p>
+<p><pb/></p>
+<p>LES PREMIÈRES COMÉDIES 55</p>
+<p><pb/></p>
+<p>56 LE MISANTHROPE</p>
+<p>grande manière, il nous faut traverser un intermède qui ne laisse pas
+d'avoir son importance.</p>
+<p>« Comédie faite pour les divertissements du Roi, au mois d'août 1661 »,
+ainsi s'intitulent les Fâcheux. Il s'agissait de donner au Roi le
+divertissement de la comédie, dans la fête que Fouquet allait lui
+offrir, en sa somptueuse résidence de Vaux, le 17 août 1661, et qui,
+sitôt suivie de la disgrâce du surintendant, devait en recevoir un
+tragique reflet. La comédie fut « conçue, faite, apprise et représentée
+en quinze jours ».</p>
+<p><pb/></p>
+<p>LES PREMIÈRES COMÉDIES 57</p>
+<p><pb/></p>
+<p>58 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LES PREMIÈRES COMÉDIES 59</p>
+<p>Je n'entends point de mal dans tout ce que j'ai fâiti</p>
+<p>Ce n'est pas forcer les choses de penser qu'il y a une secrète
+correspondance entre lesujet de ces deux pièces et les pensées qui, dans
+la réalité, hantaient l'esprit de leur auteur. « Molière n'est pas
+Arnolphe, dit M. Donnay, pas plus qu'Armande n'est Agnès ; mais tout de
+même Molière a quarante ans,</p>
+<p><pb/></p>
+<p>6o LE MISANTHROPE</p>
+<p>A ces accusations qui circulaient de bouche en bouche le poète avait cru
+bon de répondre par la Critique de l'Ecole des Femmes : elle mit le feu aux</p>
+<p><pb/></p>
+<p>LES PREMIÈRES COMÉDIES 61</p>
+<p>En vain mille jaloux esprits, Molière, osent avec mépris Censurer ton
+plus bel ouvrage; Sa charmante naïveté S'en va pour jamais d'âge en âge
+Divertir la postérité</p>
+<p>Laisse gronder tes envieux, Ils ont beau crier en tous lieux</p>
+<p><pb/></p>
+<p>62 LE MISANTHROPE</p>
+<p>Qu'en vain tu charmes le vulgaire, Que tes vers n'ont rien de plaisant,
+Si tu savais un peu moins plaire, Tu ne leur déplairais pas tant.</p>
+<p><pb/></p>
+<p>SES IDÉES SUR LA COMÉDIE 63</p>
+<p>« premier poète dramatique du monde » pour une somme de 2.000 livres, et
+Racine pour 800, il est vrai qu'on y lit, — ô Vadius ! ô Trissotin ! — «
+au sieur Ménage, excellent pour la critique des pièces 2.000... au sieur
+abbé Cotin, poète et orateur français 1.200... » et pour finir : « au
+sieur Chapelain, le plus grand poète français qui ait jamais été et du
+plus solide jugement 3.000 ». Mais, ce n'est pas ici une question de
+chiffres, et Molière avait grandement raison de presser sa Muse d' «
+aller au lever du Roi le remercier de ses fameux bienfaits ». C'est se
+tromper volontairement de ne voir en LouisXIVque le contemporain des
+grands hommes, capitaines, politiques, écrivains de son temps : il les a
+mis en mesure de produire et de développer leur génie. Le mérite lui
+appartient de l'initiative et de l'impulsion, dans la gloire du siècle
+si justement appelé de son nom.</p>
+<p>LES IDÉES DE MOLIÈRE SUR LA COMÉDIE</p>
+<p><pb/></p>
+<p>64 LE MISANTHROPE</p>
+<p>tandis que la belle saison théâtrale, la saison d'hiver, appartient à-la
+tragédie.</p>
+<p>C'est ce dédain des habiles pour la comédie qu'exprime M. Lysidas quand
+il la traite de « bagatelles » et de « sottises », pour n'accorder son
+estime qu'aux pièces dites sérieuses. Et c'est contre quoi Molière
+proteste par la bouche d'Uranie et de Dorante :</p>
+<p>URANIE.</p>
+<p>DORANTE.</p>
+<p>Assurément, madame ; et quand, pour la difficulté, vous mettriez un plus
+du côté de la comédie, peut-être que vous ne vous abuseriez pas.</p>
+<p>L'objet, en sera la peinture des hommes faite</p>
+<p>d'après nature :</p>
+<p>Lorsque vous peignez les hommes, il faut peindre d'après nature. On veut
+que ces portraits</p>
+<p><pb/></p>
+<p>SES IDÉES SUR LA COMÉDIE 65</p>
+<p>ressemblent ; et vous n'avez rien fait, si vous n'y faites reconnaître
+les gens de votre siècle.</p>
+<p>Ces sortes de satires tombent directement sur les moeurs et ne frappent
+les personnes que „par réflexion... Toutes les peintures ridicules qu'on
+expose sur les théâtres doivent être regardées sans chagrin de tout le
+monde. Ce sont miroirs publics où il ne faut jamais témoigner qu'on se
+voie.</p>
+<p>Brécourt y revient dans l'Impromptu:</p>
+<p>Comme l'affaire de la comédie est de représenter en général tous les
+défauts des hommes et</p>
+<p>5</p>
+<p><pb/></p>
+<p>LE MISANTHROPE</p>
+<p>Les traits fournis par la nature, recomposés, en un type idéal, la
+réalité élargie, grandie aux proportions de la vérité, c'est la
+définition même de l'art classique, telle que les anciens l'ont léguée à
+nos maîtres du xvne siècle.</p>
+<p>Dans les pièces sérieuses, il suffit pour n'être point blâmé de dire des
+choses qui soient de bon sens et bien écrites ; mais ce n'est pas assez
+dans les autres : il y faut plaisanter.</p>
+<p><pb/></p>
+<p>SES IDÉES SUR LA COMÉDIE 67</p>
+<p>Une plaisanterie qui ne choque ni les convenances ni le goût, qui
+n'altère pas la vérité, mais plutôt qui la fasse ressortir en tout son
+jour... Dorante a raison de déclarer : « C'est une étrange entreprise
+que celle de faire rire les honnêtes gens. » - Qui sera juge ?</p>
+<p><pb/></p>
+<p>68 LE MISANTHROPE</p>
+<p>règles n'est pas de plaire, et si une pièce de théâtre qui a attrapé son
+but, n'a pas suivi le bon chemin.</p>
+<p>On en conclut qu'il nie l'existence de toutes « règles » de l'art.</p>
+<p>Il n'en est rien et lui-même prend soin de nous en avertir :</p>
+<p>Telle est la position très nette que prend Molière. Il dénonce la
+superstition des règles, devenues, entre les mains des théoriciens, des
+préceptes abstraits, des cadres vides, un vain formalisme. Il proteste
+plus encore contre ceux qui de ces règles se font une arme au service de
+leur jalousie et d'un parti pris de dénigrement. Mais il reconnaît le
+bien-fondé d'observations qui sont celles du bon sens, — Boileau dira :
+de la raison, — et qui valent aujourd'hui comme elles valaient pour les
+anciens. Homme de théâtre, au point qu'il est la vivante
+personnification du théâtre, n'admettons pas que Molière ait pu
+enseigner que le théâtre n'a pas ses lois.</p>
+<p><pb/></p>
+<p>SES IDÉES SUR LA COMÉDIE 69</p>
+<p>Pour la raison qu'entre ceux qui le composent, il y en a plusieurs qui
+sont capables de juger d'une pièce selon les règles et que les autres en
+jugent par la bonne façon d'en juger qui est de se laisser prendre aux
+choses.</p>
+<p>Sachez, Monsieur Lysidas,... que la grande épreuve de toutes vos
+comédies, c'est le jugement de la Cour, que c'est son goût qu'il faut
+étudier</p>
+<p><pb/></p>
+<p>70 LE MISANTHROPE</p>
+<p>pour trouver l'art de réussir, qu'il n'y a point de lieu où les
+décisions soient si justes.</p>
+<p>-C'est de même que le Clitandre des Femmes savantes, s'adressant à
+Trissotin, prendra contre lui la défense de cette « pauvre Cour » et
+attestera :</p>
+<p><pb/></p>
+<p>SES IDÉES SUR LA COMÉDIE 71</p>
+<p>On voit maintenant en quoi a consisté Tinter-</p>
+<p><pb/></p>
+<p>72 LE MISANTHROPE</p>
+<p>Nous avons changé de méthode ;</p>
+<p>Et maintenant il ne faut pas</p>
+<p>Quitter la nature d'un pas.</p>
+<p>UNE ATMOSPHÈRE DE LUTTES ET DE SOUFFRANCES</p>
+<p>De ce grand dessein il semble, un instant, que Molière se laisse
+détourner par son rôle d'organisateur des fêtes royales. Il écrit le
+Mariage forcé</p>
+<p><pb/></p>
+<p>LUTTES ET SOUFFRANCES 73</p>
+<p>Désormais, parmi les plus acharnés ennemis de Molière il faudra compter
+les dévots, et les plus sincères, les plus grands, aussi bien que les
+autres. Si, dès les premiers jours (juillet-août 1664), le fougueux curé
+de Saint-Barthélémy, Pierre Roullé, dans le Roy glorieux au monde,
+qualifie l'auteur de Tartuffe d'être « un homme, ou plutôt un démon vêtu
+de chair et habillé en homme et plus signalé impie et libertin » et s'il
+appelle sur lui « un dernier supplice exemplaire et public et le feu
+même avant-coureur de celui de l'enfer », c'est Bossuet qui, dix ans
+après la mort de Molière, dans les Maximes et réflexions sur la Comédie
+(1684), lancera l'impitoyable anathème : « La postérité saura peut-être
+la fin de ce poète comédien qui</p>
+<p><pb/></p>
+<p>74 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LUTTES ET SOUFFRANCES 75</p>
+<p><pb/></p>
+<p>Nous voici en 1666.</p>
+<p>C'est l'année où le Misanthrope va être donné au public.</p>
+<p><pb/></p>
+<p>DOM GARCIE DE NAVARRE 77</p>
+<p>DQM GARCIE DE NAVARRE</p>
+<p>Imité d'un original italien, le Gelosie fortunate dél principe Rodrigo,
+d'Andréa Cicognini, florentin, Dom Garde de Navarre ou le Prince jaloux
+est une comédie romanesque.</p>
+<p>La scène est dans Astorgue, ville du royaume de Léon. L'état de Léon est
+tombé aux mains d'un usurpateur, le tyran Mauregat. Elvire et son frère,
+dom Alphonse, sont prince et princesse de Léon, dépossédés. Dom Garcie,
+prince de Navarre, aime Dona Elvire.</p>
+<p>Quand vous saurez m'aimer comme il faut que l'on</p>
+<p>[aime]</p>
+<p><pb/></p>
+<p>78 LE MISANTHROPE.</p>
+<p>Mais c'est au quatrième acte que va se déchaî ner dans toute sa violence
+la fureur de notre jaloux,</p>
+<p><pb/></p>
+<p>DOM GARCIE DE NAVARRE 79</p>
+<p>N'a-t-il pas, par une porte entr'ouverte, aperçu dans les bras de Dona
+Elvire un jeune cavalier ? Hors de lui et perdant toute mesure, il
+invective abondamment la perfide,,. C'est ici la grande scène, celle
+qui, survivant au naufrage de l'oeuvre, devait trouver dans un autre
+cadre une nouvelle et glorieuse fortune.</p>
+<p>Quand il reconnaît dans le jeune cavalier Dona Ignés travestie, Dom
+Garcie se rend compte que son mal est incurable, et se désespère :</p>
+<p>Mais l'enfer dans mon coeur a soufflé son poison</p>
+<p>Et par un trait fatal d'une rigueur extrême</p>
+<p>Mon plus grand ennemi se rencontre en moi-même.</p>
+<p>lia la jalousie dans les moelles : elle ne mourra qu'avec lui. Donc, il
+veut mourir, mais afin que sa mort ne soit pas inutile et qu'elle
+devienne la preuve suprême de son amour pour Dona Elvire, il ira d'abord
+tuer l'usurpateur Mauregat...</p>
+<p>Il s'en, faut que Dom Garcie soit une pièce méprisable : nous y goûtons
+aujourd'hui maint passage</p>
+<p><pb/></p>
+<p>80 LE MISANTHROPE</p>
+<p>Si l'échec était évident, les causes n'en étaient pas moins claires.</p>
+<p>Routinier par instinct, le public classe volontiers les auteurs par
+catégories et les confine</p>
+<p><pb/></p>
+<p>DOM GARCIE DE NAVARRE</p>
+<p>dans un genre. Le moyen que le même auteur, après nous avoir fait tant
+rire au spectacle de son Cocu imaginaire, puisse nous émouvoir avec les
+nobles souffrances de cet autre imaginatif qu'est un prince jaloux ?</p>
+<p>6</p>
+<p><pb/></p>
+<p>8z LE MISANTHROPE</p>
+<p>c'est. Allez-vous-en réciter comme vous faites, vous verrez si vous
+ferez faire aucun ah ! »</p>
+<p>Que faut-il penser de ces Vues théoriques de Molière ? Nous avons
+aujourd'hui bonne envie de lui donner raison et nous aimons furieusement
+le naturel... Pourtant ! Ni Mounet-Sully, ni SarahBernhardt, ni Mme
+Bartet ne récitaient les vers comme on parle. S'ils ne les faisaient pas
+ronfler, pouvons-nous oublier qu'ils les faisaient chanter, et de quelle
+divine musique ! Si Molière critiquait justement l'affectation et le
+ronron des tragé. diens de son temps, il se pourrait que la réforme de
+la diction tragique, telle qu'il la réclamait, ne fût que l'erreur
+contraire. Elle était en tout cas prématurée : le public le lui fit bien
+voir.</p>
+<p>... Il vient le nez au vent, Les pieds en parenthèse et l'épaule en
+avant, La perruque, qui suit le côté qu'il avance, Plus pleine de
+laurier qu'un jambon de Mayence, Les mains sur les côtés d'un air peu
+négligé, La tête sur le dos comme un mulet chargé, Les yeux fort égarés,
+puis débitant ses rôles D'un hoquet éternel sépare ses paroles.</p>
+<p><pb/></p>
+<p>DOM GARCIE DE NAVARRE 83</p>
+<p><pb/></p>
+<p>84 LE MISANTHROPE</p>
+<p>Admirable dans les rôles comiques — et quand ces rôles sont de Molière !
+— son succès même achevait de discréditer l'acteur tragique.</p>
+<p>Quels furent les autres interprètes de Dom Garciel Le rôle de Dona
+Elvire dut être tenu par Madeleine Béjart, un peu mûre pour donner
+l'illusion d'une jeune princesse. Et il ne suffit pas que la Du Parc ait
+été charmante sous l'habit de cavalier de Dona Ignés, et son mari Du
+Parc supportable en Dom Lope. Cette pièce malheureuse fut de celles dont
+on dit qu'elles n'ont pas été « défendues ».</p>
+<p><pb/></p>
+<p>DOM GARCIE DE NAVARRE 85</p>
+<p>répertoire la pièce malencontreuse et ne la fit même pas imprimer.</p>
+<p>Mais il ne l'oublia pas. Il garda une tendresse de coeur pour la
+tragédie manquée. C'est elle qui va reparaître, métamorphosée en
+comédie, dans le Misanthrope.</p>
+<p><pb/></p>
+<p>DEUXIÈME PARTIE LE MISANTHROPE</p>
+<p>CHAPITRE PREMIER</p>
+<p>ANALYSE DE LA PIÈCE</p>
+<p>ACTE I ALCESTE ET PHILINTE. — L'.HOMME AU SONNET.</p>
+<p>1. Chappuzeau. — Voir Despois : Le Théâtre Français sous Louis XIV, et
+J. Arnavon : Le Misanthrope.</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE I 87</p>
+<p>Il est cinq heures. Les deux lustres, garnis de bougies qui éclairent la
+scène, viennent d'être allumés.</p>
+<p>La toile se lève.</p>
+<p><pb/></p>
+<p>LE MISANTHROPE</p>
+<p>Celui qui l'accompagne, Philinte, a même âge, ou peu s'en faut.</p>
+<p>De même Oronte, que nous verrons bientôt paraître et qui, lui aussi, est
+gentilhomme. Plus jeunes, Acaste etClitandre, les marquis, sont
+justement chargés de représenter la jeunesse dorée de l'époque.</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE I 89</p>
+<p>ALCESTE, se levant brusquement.</p>
+<p>Moi, votre ami ? Rayez cela de vos papiers.</p>
+<p>J'ai fait jusques ici profession de l'être ;</p>
+<p>Mais après ce qu'en vous je viens de voir paraître,</p>
+<p>Je vous déclare net que je ne le suis plus.</p>
+<p>Et ne veux nulle place en des coeurs corrompus.</p>
+<p>PHILINTE.</p>
+<p><pb/></p>
+<p>go LE MISANTHROPE</p>
+<p>ALCESTE.</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE I 91</p>
+<p>sa main ; il lui presse la tête contre sa poitrine ; il demande ■ensuite
+qui est celui qu'il a embrassé ». Tel est le crime de Philinte.</p>
+<p>Notons-le une fois pour toutes : sur le fond des choses, sur les
+principes, nous sommes presque toujours d'accord avec Alceste. Le
+désaccord porte sur la question de forme, — et sur celle d'opportunité.
+Alceste dira :</p>
+<p>Je veux qu'on soit sincère.et qu'en homme d'honneur, On ne lâche aucun
+mot qui ne parte du coeur.</p>
+<p>Nous le voulons aussi. La question est de savoir si, en certains cas, le
+mieux n'est pas de se taire.</p>
+<p>Heurté par ce terme d' « ami » dont s'est servi Philinte, Alceste
+établit entre l'amitié véritable et</p>
+<p><pb/></p>
+<p>92 LE MISANTHROPE</p>
+<p>Sur quelque préférence une estime se fonde, Et c'est n'estimer rien
+qu'estimer tout le monde. , Puisque vous y donnez dans ces vices du
+temps, Morbleu ! vous n'êtes pas pour être de mes gens. Je refuse d'un
+coeur la vaste complaisance, Qui ne fait de mérite aucune différence ;
+Je veux qu'on me distingue ; et, pour le trancher net, L'ami du genre
+humain n'est pas du tout mon fait.</p>
+<p>Ces principes absolus, dont nous tombons d'accord avec Alceste,
+doivent-ils entrer dans la pratique de la vie sociale sans subir
+d'atténuation ? Oui, proclame sans hésiter l'intransigeance de notre
+misanthrope. Non, répond la sagesse avertie de Philinte. Telles sont, à
+l'égard du « monde », les deux attitudes que personnifient les deux rôles.</p>
+<p>PHILINTE.</p>
+<p>Mais, quand on est du monde, il faut bien que l'on Quelques dehors
+civils que l'usage demande, [rende</p>
+<p>ALCESTE.</p>
+<p>Non, vous dis-je, on devrait châtier sans pitié • Ce commerce honteux de
+semblants d'amitié.</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE I 93</p>
+<p>Je veux que l'on soit homme, et qu'en toute rencontre Le fond de notre
+coeur dans nos discours se montre, Que ce soit lui qui parle, et que nos
+sentiments Ne se masquent jamais sous de vains compliments.</p>
+<p>PHILINTE.</p>
+<p>ALCESTE.</p>
+<p>Oui.</p>
+<p>PHILINTE.</p>
+<p>ALCESTE.</p>
+<p>Sans doute.</p>
+<p>PHILINTE.</p>
+<p>ALCESTE.</p>
+<p>Fort bien.</p>
+<p>PHILINTE.</p>
+<p>Vous vous moquez.</p>
+<p><pb/></p>
+<p>94 LE MISANTHROPE</p>
+<p>ALCESTE.</p>
+<p>Ce caractère est un ridicule.</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE I 95</p>
+<p>Je ris des noirs accès où je vous envisage.</p>
+<p>C'est le même Philinte reprenant :</p>
+<p>Je vous dirai tout franc que cette maladie Partout où vous allez, donne
+la comédie, Et qu'un si grand courroux contre les moeurs du temps Vous
+tourne en ridicule auprès de bien des gens.</p>
+<p>Et plus loin :</p>
+<p>On se rirait de vous, Alceste, tout de bon, Si l'on vous entendait
+parler de la façon.</p>
+<p><pb/></p>
+<p>96 LE MISANTHROPE</p>
+<p>D'atrabilaire, par une pente naturelle, Alceste est devenu misanthrope :
+son humeur a influé sur ses idées : elle l'a conduit au jugement
+d'ensemble qu'il porte maintenant sur l'humanité.</p>
+<p>PHILINTE.</p>
+<p>ALCESTE.</p>
+<p>Oui, j'ai conçu pour elle une effroyable haine.</p>
+<p>PHILINTE.</p>
+<p>Tous les pauvres mortels, sans nulle exception, Seront enveloppés dans
+cette aversion ? Encore en est-il bien dans le siècle où nous sommes...</p>
+<p>ALCESTE.</p>
+<p>Non : elle est générale, et je hais tous les hommes : Les uns, parce
+qu'ils sont méchants et malfaisants, Et les autres pour être'aux
+méchants complaisants...</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE I</p>
+<p>97</p>
+<p>le choix que Molière a fait définitivement de ce titre : le Misanthrope.</p>
+<p>A cette aversion générale on ne peut s'étonner qu'Alceste conforme sa
+conduite et qu'il lui prenne</p>
+<p>Des mouvements soudains De fuir dans un désert l'approche des humains.</p>
+<p>Toute différente sera l'attitude de Philinte.</p>
+<p>PHILINTE.</p>
+<p>Mon Dieu ! des moeurs du temps mettons-nous</p>
+<p><pb/></p>
+<p>98 LE MISANTHROPE</p>
+<p>La différence éclate aux yeux; mais, je le répète, ce n'est qu'une
+différence d'attitude, non d'appréciation. Sur le fond des choses les
+deux hommes pensent de même ; et l'opinion de Philinte est aussi sévère
+que celle d'Alceste, si même elle ne s'exprime en termes plus absolus,
+que son sang-froid, — son « flegme », — rend plus sévères encore.</p>
+<p>PHILINTE.</p>
+<p>Oui, je vois ces défauts dont votre âme murmure Comme vices unis à
+l'humaine nature ; Et mon esprit enfin n'est pas plus offensé De voir un
+homme fourbe, injuste, intéressé, Que de voir des vautours affamés de
+carnage, Des singes malfaisants, et des loups pleins de rage.</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE I</p>
+<p>99</p>
+<p><pb/></p>
+<p>ioo LE MISANTHROPE</p>
+<p>L'usage était de « solliciter » ses juges. Chicaneau dira dans les
+Plaideurs :</p>
+<p>Prends-moi dans mon clapier trois lapins de garenne ' Et chez mon
+procureur porte-les ce matin.</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE I 101</p>
+<p>L'autre cause qui jette Alceste aux extrémités,— la principale, la vraie
+cause, — est son amour pour Célimène. C'est ici le ressort de la pièce
+et c'est la trouvaille de génie. Se peut-il que quelques-uns s'y soient
+mépris ? Je me souviens d'avoir entendu le fin lettré et le grand
+imaginatif qu'était Emile Ollivier développer, avec sa faconde
+habituelle, cette critique inattendue, que le rôle de Célimène</p>
+<p><pb/></p>
+<p>102 LE MISANTHROPE</p>
+<p>PHILINTE.</p>
+<p>Mais cette rectitude Que vous voulez en tout avec exactitude, Cette
+pleine droiture, où voiis vous renfermez, La trouvez-vous ici dans ce
+que vous aimez ? Je m'étonne, pour moi, qu'étant.comme il le semble,
+Vous et le genre humain, si fort brouillés ensemble, . Malgré tout ce
+qui peut vous le fendre odieux, Vous ayez pris chez lui ce qui charme
+vos yeux ;</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE I 103</p>
+<p><pb/></p>
+<p>104 LE MISANTHROPE</p>
+<p>ALCESTE.</p>
+<p>PHILINTE.</p>
+<p>Si vous faites cela, vous ne ferez pas peu. Vous croyez être donc aimé
+d'elle ?</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE I 105</p>
+<p>ALCESTE.</p>
+<p>Oui, parbleu ! Je ne l'aimerais pas si je ne croyais l'être.</p>
+<p>PHILINTE.</p>
+<p>Mais si son amitié pour vous se fait paraître. D'où vient que vos rivaux
+vous causent de l'ennui ?</p>
+<p>ALCESTE.</p>
+<p>PHILINTE.</p>
+<p>ALCESTE.</p>
+<p>Il est vrai : ma raison me le dit chaque jour, Mais la raison n'est pas
+ce qui règle l'amour.</p>
+<p>Ainsi aurait pu parler un ami de l'auteur, quel qu'il soit, du Discours
+sur les passions de l'amour...</p>
+<p>A peine a-t-il lâché l'aveu : « Sa grâce est la plus forte », Alceste a
+un mouvement de repli. Il hasarde une excuse :</p>
+<p>... Et sans doute ma flamme. De ces vices du temps pourra purger son âme...</p>
+<p>On songe aux vers fameux, où le vieil Horace, après avoir lâché le
+sublime « qu'il mourût », se</p>
+<p><pb/></p>
+<p>io6 LE MISANTHROPE</p>
+<p>* * *</p>
+<p>ORONTE.</p>
+<p>Je viens, pour commencer entre nous ce beau noeud, Vous montrer un
+sonnet que j'ai fait depuis peu, • Et savoir s'il est bon qu'au public
+je l'expose.</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE I 107</p>
+<p>ALCESTE.</p>
+<p>ORONTE.</p>
+<p>Pourquoi ?</p>
+<p>ALCESTE.</p>
+<p>J'ai le défaut D'être un peu plus sincère en cela qu'il ne faut.</p>
+<p>ORONTE.</p>
+<p>C'est ce que je demande, et j'aurais lieu de plainte, Si, m'expoaant à
+vous pour me parler sans feinte, Vous alliez me trahir et me déguiser rien.</p>
+<p>ALCESTE.</p>
+<p>Puisqu'il vous plaît ainsi, Monsieur, je le veux bien.</p>
+<p>ORONTE.</p>
+<p>Sonnet. C'est un sonnet... L'espoir... C'est une dame Qui de quelque
+espérance avoit flatté ma flamme. L'espoir... Ce ne sont point de ces
+grands vers</p>
+<p>[pompeux, Mais de petits vers doux, tendres et langoureux.</p>
+<p>ALCESTE.</p>
+<p>Nous verrons bien.</p>
+<p>ORONÏE.</p>
+<p>"L'espoir... Je ne sais si le style Pourra vous en paraître assez net et
+facile. Et si du choix des mots vous vous contenterez.</p>
+<p>ALCESTE.</p>
+<p>Nous allons voir, Monsieur.</p>
+<p><pb/></p>
+<p>io8 LE MISANTHROPE</p>
+<p>ORONTE.</p>
+<p>ALCESTE.</p>
+<p>ORONTE.</p>
+<p>L'espoir, il est vrai, nous soulage, Et nous berce un temps notre ennui
+; Mais, Philis, le triste avantage, Lorsque rien ne marche après lui !</p>
+<p>PHILINTE.</p>
+<p>ORONTE.</p>
+<p>Vous eûtes de la complaisance ; Mais vous en deviez moins avoir, Et ne
+vous pas mettre en dépense Pour ne me donner que l'espoir.</p>
+<p>PHILINTE.</p>
+<p>ORONTE.</p>
+<p>Vos soins ne m'en peuvent distraire : Belle Philis, on désespère, Alors
+qu'on espère toujours.</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE I 109</p>
+<p>PHILINTE.</p>
+<p>La cnute en est jolie, amoureuse, admirable.</p>
+<p>Un désespoir où toujours on espère, Un espoir où l'on se désespère.</p>
+<p>1. Jules Lemaître. Impressions de théâtre, I.</p>
+<p><pb/></p>
+<p>no LE MISANTHROPE</p>
+<p>Mais quoi ! c'est dans la pièce la plus fameuse du xvne siècle, c'est
+dans le Cid que l'Infante soupire :</p>
+<p>Ma plus douce espérance est de perdre l'espoir.</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE I ni</p>
+<p><pb/></p>
+<p>ii2 LE MISANTHROPE</p>
+<p>la -scène sort mouvement. Elle n'est pas moins importante pour juras
+renseigner sur la vraie figure d'Alceste ; celui qui, en l'occurrence,
+s'efforce de ne pas se départir de la politesse de l'homme du monde,
+n'est pas le «bourru » qu'en, ont fait tels de ses interprètes.</p>
+<p>ORONTE, â AlcesU.</p>
+<p>Mais, pour vous, vous savez quel est notre traité. Parlez-moi, je vous
+prie, avec sincérité.</p>
+<p>ALCESTE.</p>
+<p>ORONTE.</p>
+<p>ALCESTE.</p>
+<p>Et qu'eût-ort, d'autre part, cent belles qualités.</p>
+<p>On regarde les gens par leurs méchants côtés.</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE I 113</p>
+<p>ORONTE.</p>
+<p>ALCESTE.</p>
+<p>Je ne dis pas cela ; mais, pour ne point écrire,</p>
+<p>Je lui mettais aux yeux comme, dans notre temps,</p>
+<p>Cette soif a gâté de fort honnêtes gens.</p>
+<p>ORONTE.</p>
+<p>Est-ce que j'écris mal, et leur ressemblerais-je ?</p>
+<p>ALCESTE.</p>
+<p>Je ne dis pas cela ; mais enfin, lui disais-je,</p>
+<p>Quel besoin si pressant avez-vous de rimer ?</p>
+<p>Si l'on peut pardonner l'essor d'un mauvais livre,</p>
+<p>Ce n'est qu'aux malheureux qui composent pour</p>
+<p>Dérobez au public ces occupations,</p>
+<p>Et n'allez point quitter, de quoi que l'on vous somme,</p>
+<p>Le nom que dans la cour vous avez d'honnête homme.</p>
+<p>Pour prendre, de la main d'un avide imprimeur,</p>
+<p>Celui de ridicule et misérable auteur.</p>
+<p>C'est ce que je tâchai de lui faire comprendre.</p>
+<p>ORONTE.</p>
+<p>ALCESTE.</p>
+<p>8</p>
+<p><pb/></p>
+<p>II4 LE MISANTHROPE</p>
+<p>Et que Rien ne marche après lui ? Que Ne vous pas mettre en dépense Pour
+ne me donner que l'espoir ? Et que Philis on désespère, Alors qu'on
+espère toujours ? Ce style figuré, dont on fait vanité, Sort du bon
+caractère et de la vérité : Ce n'est que jeux de mots, qu'affectation
+pure, Et ce n'est point ainsi que parle la nature. Le méchant goût du
+siècle, en cela, me fait peur. Nos pères, tous grossiers, l'avaient
+beaucoup meilEt je prise bien moins tout ce que l'on admire, [leur,
+Qu'une vieille chanson que je m'en vais vous dire : Si le roi m'avait
+donné Paris, sa grand ville, Et qu'il me fallût quitter</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE I 115</p>
+<p>(A Philinte, qui rit.) Oui, Monsieur le rieur, malgré vos beaux esprits,
+J'estime plus cela que la pompe fleurie De tous ces faux brillants, où
+chacun se récrie.</p>
+<p>Pour nous, retenons et admirons comme elle le mérite, la réplique
+d'Oronte :</p>
+<p>Et moi, je vous soutiens que mes vers sont fort bons.</p>
+<p>Réplique savoureuse, pleine de substance et pleine de sens, la même par
+laquelle, aujourd'hui</p>
+<p><pb/></p>
+<p>116 LE MISANTHROPE</p>
+<p>comme hier, l'amour-propre d'auteur clôt tout débat avec la critique.</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE II 117</p>
+<p>ACTE II LE SALON DE CÉLIMÈNE.</p>
+<p><pb/></p>
+<p>n8 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE II 119</p>
+<p>Cet esprit malicieux, c'est l'arme qu'elle oppose aux incartades
+d'Alceste. Elle n'a garde de discuter avec lui : elle esquive la réponse
+et y supplée par un bon mot. Cette tactique lui réussit : en le
+raillant, elle désarme son redoutable adversaire. Nous en aurons plus
+tard la preuve éclatante, dans une scène dont celle-ci est comme une.
+première ébauche.</p>
+<p>La conversation ! C'est son triomphe. Elle a, pardessus tous les autres,
+l'esprit de conversation. Et qui ne sait que les propos de salon ne sont
+pas toujours empreints d'une parfaite indulgence ? La' conversation de
+salon était, au dix-septième siècle, une nouveauté ; elle allait,
+pendant deux siècles, faire le charme de la société française et lui
+donner son incomparable éclat. C'est un art où il faut des dons et de
+l'étude, de la fantaisie et de la culture, de la mémoire et de
+l'invention, de la malice, de la gaieté, et, plus que tout ce que
+dessus, de l'à-propos. C'est une escrime qu'il faut</p>
+<p><pb/></p>
+<p>iz6 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE II 121</p>
+<p><pb/></p>
+<p>122 LE MISANTHROPE</p>
+<p>CLITANDRE.</p>
+<p>Parbleu ! je viens du Louvre, où Cléonte, au levé, Madame, a bien paru
+ridicule achevé. N'a-t-il point quelque ami qui pût, sur ses manières,
+D'un charitable avis lui prêter les lumières ?</p>
+<p>CÉLIMÈNE.</p>
+<p>ACASTE.</p>
+<p>Parbleu ! s'il faut parler de gens extravagants, Je viens d'en essuyer
+un des plus fatigants : Damon, le raisonneur, qui m'a, ne vous déplaise.
+Une heure, au grand soleil, tenu hors de ma chaise.</p>
+<p>CÉLIMÈNE.</p>
+<p>C'est un parleur étrange, et ^ui trouve toujours L'art de ne vous rien
+dire avec de grands discours ; Dans les propos qu'il tient, on ne voit
+jamais goutte, Et ce n'est que du bruit que tout ce qu'on écoute.</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE II 123</p>
+<p>CLITANDRE. Timante encor, madame, est un bon caractère.</p>
+<p>CÉLIMÈNE.</p>
+<p>ACASTE. Et Géralde, madame ?</p>
+<p>CÉLIMÈNE. .,."'</p>
+<p>Oh, l'ennuyeux conteur ! Jamais on ne le voit sortir du grand seigneur ;
+Dans le brillant commerce il se mêle sans cesse, Et ne cite jamais que
+duc, prince ou princesse : La qualité l'entête ; et tous ses entretiens
+Ne sont que de chevaux,, d'équipage et de chiens : Il tutaye en parlant
+ceux du plus haut étage, Et le nom de monsieur est chez lui hors d'usage.</p>
+<p>CLITANDRE.</p>
+<p>On dit qu'avec Bélise il est du dernier bien.</p>
+<p>CÉLIMÈNE.</p>
+<p><pb/></p>
+<p>i24 LE MISANTHROPE</p>
+<p>ACASTE.</p>
+<p>Que vous semble d'Adraste ?</p>
+<p>CÉLIMÈNE</p>
+<p>CLITANDRE.</p>
+<p>Mais le jeune Cléon, chez qui vont aujourd'hui . Nos plus honnêtes gens,
+que dites-vous de lui ?</p>
+<p>CÉLIMÈNE.</p>
+<p>ÉLIANTE</p>
+<p>Il prend soin d'y servir des mets fort délicats.</p>
+<p>CÉLIMÈNE.</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE II 125</p>
+<p>PHILINTE.</p>
+<p>On fait assez de cas de son oncle Damis : Qu'en dites-vous, madame ?</p>
+<p>CÉLIMÈNE.</p>
+<p>Il est de mes amis.</p>
+<p>PHILINTE.</p>
+<p>Je le trouve honnête homme, et d'un air assez sage.</p>
+<p>CÉLIMÈNE.</p>
+<p>ACASTE.</p>
+<p>Il en saura un jour quelque chose... Voici, en attendant, pour Alceste
+qui écoute et qui en-</p>
+<p><pb/></p>
+<p>126 LE MISANTHROPE</p>
+<p>rage, son propre portrait dessiné sous ses yeux. Il a eu l'imprudence,
+en une interruption grondeuse, de gourmander « l'humeur satirique » de
+l'une et les-« ris complaisants » des autres :</p>
+<p>CÉLIMÈNE.</p>
+<p>Et ne faut-il pas bien que monsieur contredise ? A la commune voix
+veut-on qu'il se réduise. Et qu'il ne fasse pas éclater en tous lieux
+L'esprit contrariant qu'il a reçu des cieux ? Le sentiment d'autrui
+n'est jamais pour lui plaire; Il prend toujours en main l'opinion
+contraire, Et penserait paraître un homme du commun, Si l'on voyait
+qu'il fût de l'avis de quelqu'un. L'honneur de contredire a pour lui
+tant de charmes, Qu'il prend contre lui-même assez souvent les armes ;
+Et ses vrais sentiments sont combattus par lui, Aussitôt qu'il les voit
+dans la bouche d'autrui.</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE II 127</p>
+<p>ÉLIANTE.</p>
+<p>Et l'on voit les amants vanter toujours leur choix ;</p>
+<p>Jamais leur passion n'y voit rien de blâmable,</p>
+<p>Et dans l'objet aimé tout leur devient aimable :</p>
+<p>Ils comptent les défauts pour des perfections.</p>
+<p>Et savent y donner de favorables noms.</p>
+<p>La pâle est aux jasmins en blancheur comparable ;</p>
+<p>La maigre a de la taille et de la liberté ;</p>
+<p>La grasse est dans son port pleine de majesté ;</p>
+<p><pb/></p>
+<p>128 LE MISANTHROPE</p>
+<p>La malpropre sur soi, de peu d'attraits chargée. Est mise sous le nom de
+beauté négligée ; La géante paraît une déesse aux yeux ; La naine, un
+abrégé des merveilles des cieux ; L'orgueilleuse a le coeur digne d'une
+couronne ; La fourbe a de l'esprit ; la sotte est toute bonne ; La trop
+grande parleuse est d'agréable humeur ; Et la muette garde une honnête
+pudeur. C'est ainsi qu'un amant dont l'ardeur est extrême, Aime
+jusqu'aux défauts des personnes qu'il aime.</p>
+<p>On veut que ces jolis vers, imités de Lucrèce, soient un fragment de la
+traduction que jadis Molière en aurait faite 1. Ce n'est pas bien sûr.
+Dès 1652, Scarron, qui n'avait pas été élève de Gassendi, avait donné de
+ce même passage, dans son Jodelet duelliste, cette plaisante imitation :</p>
+<p>Aux petites je dis que leur corps est adroit, Aux grandes que leur
+corps, quoique en voûte, est</p>
+<p>[bien droit, A celle que je vois d'une taille bizarre. Qu'ainsi le.ciel
+l'a faite afin d'être plus rare, Aux minces, qu'une reine a moins de
+gravité. Aux grosses, qu'elles ont beaucoup d'agilité.</p>
+<p>Faretdans son livre de l'Honnête homme (1630), MIle de Scudéry dans le
+Grand Cyrus (1656), en avaient donné des imitations en prose. C'était
+une sorte de lieu commun du théâtre et du roman : Molière, suivant sa
+coutume, en a réalisé</p>
+<p>1. Lucrèce .• De Natura remm, IV, n 42-n 63.</p>
+<p><pb/></p>
+<p>LA PIECE : ACTE II 129</p>
+<p>l'expression parfaite, qui relègue dans l'ambre toutes les autres.</p>
+<p><pb/></p>
+<p>i3o LE MISANTHROPE</p>
+<p>, ACTE III LES MARQUIS. — CÉLIMÈNE ET ARSINOÉ.</p>
+<p>Est-ce par l'ongle long qu'il porte au petit doigt, .</p>
+<p>Qu'il s'est acquis chez vous l'estime où l'on le voit ?</p>
+<p>Vous êtes-vous rendue, avec tout le beau monde,</p>
+<p>.Au mérite éclatant de sa perruque blonde ?</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE III 131</p>
+<p>Sont-ce ses;grands canons qui vous le font aimer ? L'amas de ses rubans
+a-t-il su vous charmer ? Est-ce par les appas de sa vaste rhingrave
+Qu'il a gagné votre âme en faisant votre esclave ? Ou sa façon de rire
+et son ton de fausset, Ont-ils de vous toucher su trouver le secret ?</p>
+<p>Après le portrait physique, le portrait moral. Tous les traits y sont,
+groupés autour de celui qui commande tous les autres : la fatuité.</p>
+<p>ACASTE.</p>
+<p><pb/></p>
+<p>132 LE MISANTHROPE</p>
+<p>^uM ^ 4M^V'|^ :——</p>
+<p>L, , jje me vois dans l'estime autant qu'on y puisse être, ~ &gt;J.«ï|ort
+aimé du beau iexe, et bien auprès du maître. ^ y?£t.-fe crois qu'avec
+cela, mon cher marquis, je croi \</p>
+<p>SM Qu'on peut, par tout pays, être content de soi. /</p>
+<p>Que qui pourra montrer une marque certaine D'avoir meilleure part au
+coeur de Célimène,</p>
+<p>Autour de Célimène le cercle se resserre.</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE III 133</p>
+<p>Et pour sauver l'honneur de ses faibles appas, ' Elle attache du crime
+au pouvoir qu'ils n'ont pas.</p>
+<p>Aussi bien, le jeu ne se prolongera-t-il pas. Arsinoé y coupe court. Dès
+les premiers mots, c'est la guerre. Attaque brusquée, dont la violence
+s'accompagne d'hypocrisie, prenant pour armes l'allusion et le mot à
+double entente, et camouflant ses traits les plus perfides d'un semblant
+d'amitié charitable.</p>
+<p><pb/></p>
+<p>134 LE MISANTHROPE</p>
+<p>ARSINOE.</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE III 135</p>
+<p>Et pour l'attribuer qu'aux mouvements secrets D'un zèle qui m'attache à
+tous vos intérêts.</p>
+<p>Pas un mot qui ne fasse flèche, pas une flèche qui ne soit empoisonnée.
+C'est le chef-d'oeuvre du genre mielleux et fielleux.</p>
+<p>La riposte de Célimène est terrible :</p>
+<p>CÉLIMÈNE.</p>
+<p><pb/></p>
+<p>i36 LE MISANTHROPE</p>
+<p>Célimène est sans pitié. Elle a été provoquée, elle se défend. Elle
+lutte contre une rivale :</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE III 137</p>
+<p>lutte sans merci. Et puis, jeune, belle, aimée, adulée, avec cette foi
+dans la vie qu'aucune atteinte n'a encore affaiblie, elle a la cruauté
+bien connue de la jeunesse.</p>
+<p>D'abord un peu étonnée de l'avantage offert par</p>
+<p><pb/></p>
+<p>138 LE MISANTHROPE</p>
+<p>Plutôt que de se tenir pour battue, Arsinoé poursuit en s'aidant du
+mirage de quelque emploi de cour. Elle s'adresse mal, et les traits sous
+lesquels Alceste dépeint les moeurs de la Cour nous donnent aisément à
+croire qu'il</p>
+<p>Doit faire en ce pays fort peu de résidence.</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE III 139</p>
+<p>Célimène. Même, elle offre de lui en mettre sous les yeux la preuve
+irrécusable.</p>
+<p>Ici un curieux trait de moeurs.</p>
+<p><pb/></p>
+<p>140 LE MISANTHROPE "</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE IV 141</p>
+<p>ACTE IV LA JALOUSIE D'ALCESTE.</p>
+<p>ÉLIANTE.</p>
+<p>Dans ses façons d'agir il est fort singulier ; Mais j'en fais, je
+l'avoue, un cas particulier, Et la sincérité dont son âme se pique A
+quelque chose, en soi, de noble et d'héroïque. C'est une vertu rare au
+siècle d'aujourd'hui. Et je la voudrais voir partout comme chez lui.</p>
+<p><pb/></p>
+<p>i42 LE MISANTHROPE</p>
+<p>De l'humeur dont est cette sage Eliante, nous devinons comment elle
+accueillera l'offre impétueuse et imprévue que va soudain lui faire
+Alceste.</p>
+<p>Car le voici, dans quel état !</p>
+<p>Une lettre de la main de Célimène, écrite pour Oronte, lui a fourni la
+preuve, l'irrécusable preuve de l'infidélité qu'il soupçonnait. Devant
+la trahison, désormais certaine, son premier sentiment a été la colère,
+un furieux désir de vengeance. Pour assurer cette vengeance, il a trouvé
+ce moyen :</p>
+<p>vite. Eliante est trop fine pour ne pas en faire aussitôt la réflexion.
+Elle écarte ces hommages qui se trompent d'adresse, avec la fermeté
+douce et la nuance d'indulgente ironie qui sont dans sa ' manière. Une
+fois de plus sa fine psychologie</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE IV 143</p>
+<p>va trouver son emploi. Autant que sur les illusions de l'amour, elle est
+fixée sur ce que valent les serments des amoureux et ce que durent leurs
+résolutions d'aimer ailleurs.</p>
+<p>Lorsque l'injure part d'un objet plein d'appas.</p>
+<p>On fait force desseins qu'on n'exécute pas :</p>
+<p>On a beau voir, pour rompre, une raison puissante,</p>
+<p>Une coupable aimée est bientôt innocente ;</p>
+<p>Tout le mal qu'on lui veut se dissipe aisément,</p>
+<p>Et l'on sait ce que c'est qu'un courroux d'un amant.</p>
+<p>Nous allons le savoir.</p>
+<p>Ce mouvement se décompose en plusieurs temps, fortement marqués.</p>
+<p><pb/></p>
+<p>i44 LE MISANTHROPE</p>
+<p>n'est plus maître de lui et il s'en rend compte avec cette lucidité que
+les personnages du théâtre classique gardent au plus fort de la passion
+: Percé du coup mortel dont vous m'assassinez, Mes sens par la raison ne
+sont plus gouvernés, Je cède aux mouvements d'une juste colère, Et je ne
+réponds pas de ce que je puis faire.</p>
+<p>Oronte ! qui vous dit que la lettre est pour lui ?</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE IV 145</p>
+<p>Il ne me plaît pas, moi.</p>
+<p>Ah ! que vous savez bien ici, contre moi-même, Perfide, vous servir de
+ma faiblesse extrême, Et ménager pour vous l'excès prodigieux De ce
+fatal amour né de vos traîtres yeux ! Défendez-vous au moins d'un crime
+qui m'accable, Et cessez d'affecter d'être envers moi coupable ;
+Rendez-moi, s'il se peut, ce billet innocent : A vous prêter les mains
+ma tendresse consent ;</p>
+<p>10</p>
+<p><pb/></p>
+<p>146 LE MISANTHROPE .</p>
+<p>Efforcez-vous ici de paraître fidèle,</p>
+<p>Et je m'efforcerai, moi, de vous croire telle.</p>
+<p>Non, vous ne m'aimez point comme il faut que l'on</p>
+<p>[aime.</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE IV 147</p>
+<p>Afin que de mon coeur l'éclatant sacrifice Vous pût d'un pareil sort
+réparer l'injustice, Et que j'eusse la joie et la gloire, en ce jour, De
+vous voir tenir tout des mains de mon amour.</p>
+<p><pb/></p>
+<p>i48 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE V 149</p>
+<p>ACTE V LA CONFUSION DE CÉLIMÈNE.</p>
+<p>Resté seul Dans un petit coin sombre, avec son noir chagrin,</p>
+<p><pb/></p>
+<p>i5o LE MISANTHROPE</p>
+<p>Encore des lettres.</p>
+<p>ACASTE.</p>
+<p>CLITANDRE.</p>
+<p>Vous avez pour Acaste écrit ce billet tendre ?</p>
+<p>ACASTE.</p>
+<p>Messieurs, ces traits pour vous n'ont point d'obscuEt je ne doute pas
+que sa civilité [rite,</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE V 151</p>
+<p>A connaître sa main n'ait trop su vous instruire ; Mais ceci vaut assez
+la peine de le lire :</p>
+<p>Vous êtes un étrange homme de condamner mon enjouement, et de me
+reprocher que je n'ai jamais tant de joie que lorsque je ne suis pas
+avec vous. Il n'y a rien de plus injuste ; et si vous ne venez bien vite
+me demander pardon de cette offense, je ne vous la pardonnerai de ma
+vie. Notre grand flandrin de Vicomte...</p>
+<p>Il devroit être ici.</p>
+<p>Notre grand flandrin de Vicomte, par qui vous commencez vos plaintes,
+est un homme qui ne saurait me revenir ; et depuis que je l'ai vu, trois
+quarts d'heure durant, cracher dans un puits pour y faire des ronds, je
+n'ai pu jamais prendre bonne opinion de lui. Four le petit Marquis...</p>
+<p>C'est moi-même, Messieurs, sans nulle vanité.</p>
+<p>Pour le petit Marquis, qui me tint hier longtemps la main, je trouve
+qu'il n'y a rien de si mince que toute sa personne ; et ce sont de ces
+mérites qui n'ont que la cape et l'épée. Pour l'homme aux rubans verts...</p>
+<p>A vous le dé, Monsieur.</p>
+<p>Voici votre paquet.</p>
+<p><pb/></p>
+<p>i52 LE MISANTHROPE</p>
+<p>CLITANDRE.</p>
+<p>Me voici maintenant moi.</p>
+<p>ACASTE.</p>
+<p>J'aurais de quoi vous dire, et belle est la matière, Mais je ne vous
+tiens pas digne de ma colère ; Et je vous ferai voir que les petits
+marquis Ont, pour se consoler, des coeurs du plus haut prix.</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE V 153</p>
+<p>CÉLIMÈNE.</p>
+<p>Moi, renoncer au monde avant que de vieillir, Et dans votre désert aller
+m'ensevelir !</p>
+<p>ALCESTE.</p>
+<p>CÉLIMÈNE.</p>
+<p>La solitude effraye une âme de vingt ans :</p>
+<p>Je ne sens point la mienne assez grande, assez forte,</p>
+<p><pb/></p>
+<p>154 LE MISANTHROPE</p>
+<p>Trahi de toutes parts, accablé d'injustices,</p>
+<p>Je vais sortir d'un gouffre où triomphent les vices,</p>
+<p>Et chercher sur la terre un endroit écarté</p>
+<p>Où d'être homme d'honneur on ait la liberté.</p>
+<p>Dénouement tout provisoire, comme ils le sont presque tous. Aussi a-t-on
+maintes fois imaginé la « suite » du Misanthrope et s'est-on ingénié à
+la rendre aussi piquante que possible. Voici la plus probable.</p>
+<p><pb/></p>
+<p>LA PIÈCE : ACTE V 155</p>
+<p><pb/></p>
+<p>156 LE MISANTHROPE</p>
+<p>Aussi bien, il en sera comme il vous plaira. Le besoin que nous avons,
+le rideau baissé, de suivre dans le monde les personnages d'une comédie,
+atteste l'intensité de vie dont l'auteur les a doués : nous voulons
+avoir de leurs nouvelles, comme Balzac en donnait des personnages créés
+par lui. Longtemps encore on nous donnera des nouvelles d'Alceste et de
+Célimène.</p>
+<p><pb/></p>
+<p>CHAPITRE II ÉTUDE LITTÉRAIRE</p>
+<p>L'INTERPRÉTATION</p>
+<p>L'interprétation de la pièce fut de tout premier ordre.</p>
+<p>i. Et non pas noir, remarque M. Jules Truffier, protestant justement
+contré l'usago qui s'en est établi par la suite. (Le
+rôleduMisaiithrope,Coniérenceia.itehl'Université des Annales, le iS mars
+1921).</p>
+<p><pb/></p>
+<p>158 LE MISANTHROPE</p>
+<p>de Dom Garcie, il réussit dans celui d'Alceste. C'est donc qu'il le
+jouait en rôle de comédie : Dom Garcie avait fait bâiller, Alceste
+faisait lire.</p>
+<p>De quel rire ?</p>
+<p>Brossette nous apprend que Boileau imitait l'intonation avec laquelle
+Molière disait le passage :</p>
+<p>Par la sambleu, Messieurs, je ne croyais pas être Si plaisant que je
+suis...</p>
+<p>« Célimène est le type de femme le plus original et le plus complet qui
+soit sorti du génie de Molière :</p>
+<p><pb/></p>
+<p>L'INTERPRÉTATION 159</p>
+<p><pb/></p>
+<p>i6o LE MISANTHROPE</p>
+<p>expressions que le temps devait rendre banales, mais qui retenaient
+encore toute leur force 1. » Pour les autres rôles, même les rôles de
+femme, l'attribution est seulement probable. Il est dit dans la Lettre
+de Robinet :</p>
+<p>Et l'on peut y voir les Trois Grâces Menant les amours sur leurs traces
+Sous le visage et les attraits, De trois objets jeunes et frais Molière,
+Du Parc et De Brie.</p>
+<p>Mlles Duparc et de Brie furent donc Arsinoé et Eliante. Mais laquelle
+fut Arsinoé et laquelle Eliante ? Pour les autres rôles on conjecture :
+Philinte, La Thorillière ; Oronte, Du Croisy ; Acaste, La Grange ;
+Clitandre,~ïîubert ; Un Garde de la maréchaussée, de Brie ; Dubois, Béjart.</p>
+<p>L'ACCUEIL DU PUBLIC.</p>
+<p>Quel fut le succès de la pièce ?</p>
+<p>Sur la première représentation nous avons le témoignage de Louis Racine
+qui, dans ses Mémoires sur la vie de son père, cite cette anecdote :.</p>
+<p><pb/></p>
+<p>L'INTERPRÉTATION 161</p>
+<p>étais. — Vous y étiez, reprit mon père, et je n'y étais pas ; cependant
+je n'en croirai rien parce qu'il est impossible que Molière ait fait une
+mauvaise pièce. Retournez-y et examinez-la mieux.</p>
+<p>Louis Racine et Grimarest écrivaient longtemps après l'événement, et non
+pas même de souvenir mais sur des on-dit. Leurs assertions ont besoin
+d'être contrôlées. Il n'est, en pareille matière, éloquence que, des
+chiffres. Le registre de La Grange nous les fournit. On y lit cette
+mention : « Vendredi 4 juin, première représentation du Misanthrope,
+pièce nouvelle de M. de Molière, 144 7 liv. 10 sols. Partagé 92livres. »
+Cette recette n'avait été dépassée que treize fois depuis
+l'établissement de la</p>
+<p><pb/></p>
+<p>i62 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LA CRITIQUE 163</p>
+<p>LA CRITIQUE.</p>
+<p>Il fallut que le Misanthrope fût imposé par l'admiration des
+connaisseurs ; du moins, les connaisseurs ne s'y sont-ils pas trompés.
+Pour Boileau, Molière est désormais « l'auteur du Misanthrope ». Aussi
+b(en, dans son ensemble, la critique fut-elle des plus favorables;
+ajoutons: des plus judicieuses.</p>
+<p>Le Misanthrope enfin se joue ; Je le vis dimanche et j'avoue Que de
+Molière, son auteur, N'a rien fait de cette hauteur.</p>
+<p><pb/></p>
+<p>164 LE MISANTHROPE ; '</p>
+<p>Après son Misanthrope il ne faut plus rien voir : C'est un chef-d'oeuvre
+inimitable.</p>
+<p><pb/></p>
+<p>LA CRITIQUE 165</p>
+<p>De Visé se demande d'abord quel a été l'objet de l'auteur.</p>
+<p>Examinons donc les endroits par où il a plu, et voyons quelle a été la
+fin de son ouvrage. Il n'a point voulu faire une comédie pleine
+d'incidents, mais une pièce seulement où il pût parler contre les moeurs
+du siècle. C'est ce qui lui a fait prendre pour son héros un misanthrope
+; et comme misanthrope veut dire ennemi des hommes, on doit demeurer
+d'accord qu'il ne pouvait choisir un personnage qui vraisemblablement
+pût mieux parler contre les hommes que leur ennemi. Ce choix est encore
+admirable pour le théâtre ; et les chagrins, les dépits, les
+bizarreries, et les emportements d'un misanthrope étant des choses qui
+font un grand jeu, ce caractère est un des plus brillants qu'on puisse
+produire sur la scène.</p>
+<p>On n'a pas seulement remarqué l'adresse de l'auteur dans le choix de ce
+personnage, mais encore dans tous les autres ; et comme rien ne fait
+paraître davantage une chose que,.celle qui lui est opposée, on peut non
+seulement dire que l'ami du</p>
+<p><pb/></p>
+<p>i66 LE MISANTHROPE</p>
+<p>Misanthrope, qui est un homme sage et prudent, fait voir dans son jour
+le caractère de ce ridicule, mais encore que l'humeur du Misanthrope
+fait connaître la sagesse de son ami.</p>
+<p>Suit l'analyse de la pièce acte par acte. C'est</p>
+<p><pb/></p>
+<p>LA CRITIQUE 167</p>
+<p>cette piquante anecdote :</p>
+<p>Sur le Misanthrope amoureux et sur les allures que prend la passion chez
+un homme de ce tempérament, de Visé a de fines remarques.</p>
+<p>A propos de la scène des « portraits » il montre comment elle sert au
+dessein du Misanthrope en élargissant la peinture de caractères.</p>
+<p><pb/></p>
+<p>i68 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LA CRITIQUE 169</p>
+<p>Voilà, monsieur, ce que je pense de la comédie du Misanthrope amoureux,
+que je trouve d'autant plus admirable, que le héros en est le plaisant
+sans être trop ridicule, et qu'il fait rire les honnêtes gens sans dire
+des plaisanteries fades et basses, comme l'on a accoutumé de voir dans
+les pièces comiques. Celles de cette nature me semblent plus
+divertissantes, encore que l'on y rie moins haut ; et je crois qu'elles
+divertissent davantage, qu'elles attachent et qu'elles font
+continuellement rire dans l'âme. Le Misanthrope, malgré sa folie, si
+l'on peut ainsi appeler son humeur, a le caractère d'un honnête homme...
+Ce qui est admirable est que, bien. qu'il paraisse en quelque façon
+ridicule, il dit des choses fort justes. Il est vrai qu'il semble trop
+exiger ; mais il faut demander beaucoup pour obtenir quelque chose.</p>
+<p><pb/></p>
+<p>170 LE MISANTHROPE</p>
+<p>LE MOMENT HISTORIQUE.</p>
+<p>La composition du Misanthrope coïncide avec l'achèvement d'un travail
+qui s'est poursuivi dans la société depuis le début du xvne siècle 1. Au
+siècle précédent, toute vie de société avait été</p>
+<p><pb/></p>
+<p>LE MOMENT HISTORIQUE 171</p>
+<p><pb/></p>
+<p>172 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LE MOMENT HISTORIQUE 173</p>
+<p><pb/></p>
+<p>174 LE MISANTHROPE .</p>
+<p>Ce qu'avait été naguère YAstrée, les romans de Mlle de Scudéry le seront
+pour la génération du milieu du siècle. Les héros du Grand Cyrus (1649)
+et de la Clélie (1656) donnaient dans leur conduite l'exemple de toutes
+les vertus qui constituent l'honnêteté. Encore une raison du succès
+qu'obtinrent ces récits devenus, par l'incoercible prolixité de leur
+auteur, proprement illisibles : les contemporains y goûtaient une sorte
+de « cours de morale mondaine en action ».</p>
+<p>En 1658, J. Caillières, « maréchal de bataille des</p>
+<p>1. Voir Magendie, op. cit.</p>
+<p><pb/></p>
+<p>LE MOMENT HISTORIQUE 175</p>
+<p>A ce mouvement, dont nous venons de suivre le progrès continu et Vers
+lequel convergent toutes les avenues du siècle, la présence sur le trône
+d'un roi « jeune, galant et magnifique », vient donner le</p>
+<p><pb/></p>
+<p>176 LE MISANTHROPE ,</p>
+<p><pb/></p>
+<p>LA COMPOSITION 177</p>
+<p>LA COMPOSITION.</p>
+<p>Rien de plus mystérieux que le travail de la création littéraire. Il
+semble toutefois que nous puissions ici le reconstituer avec quelque
+vraisemblance.</p>
+<p>D'abord, nous connaissons quelques-uns des</p>
+<p>12</p>
+<p><pb/></p>
+<p>178 LE MISANTHROPE</p>
+<p>Aussi a-t-on pu dire non sans raison, que Molière, dès le temps de Y
+Impromptu, pensait au Misanthrope.</p>
+<p><pb/></p>
+<p>.LA COMPOSITION 179</p>
+<p>Le Sganarelle du Cocu imaginaire est jaloux par imagination, celui de
+YEcole des Maris, et l'Arnolphe de YEcole des Femmes sont des jaloux par
+anticipation. Dans les Fâcheux, Orante et Clymène discutent lequel du
+jaloux ou du respectueux mérite le titre de parfait amant, et Eraste
+conclut :</p>
+<p>Le jaloux aime plus.et l'autre aime bien mieux.</p>
+<p>Imaginons le poète rêvant de cette oeuvre dont il ne sait rien encore,
+sinon qu'elle groupera le plus grand nombre possible d'originaux du
+temps. Encore faut-il qu'ils se groupent autour d'un person-</p>
+<p><pb/></p>
+<p>180 LE MISANTHROPE</p>
+<p>Et votre maladie est digne de pitié.</p>
+<p><pb/></p>
+<p>LA COMPOSITION 181</p>
+<p>Oui, tout mon coeur voudrait montrer aux yeux de</p>
+<p>[tous Qu'il ne regarde en vous autre chose que vous Et cent fois, si je
+puis le dire sans offense, Ses voeux se sont armés contre votre
+naissance... Afin que de ce coeur le noble sacrifice Pût du ciel envers
+vous réparer l'injustice Et votre sort tenir des mains de mon amour Tout
+ce qu'il doit au sang dont vous tenez le jour.</p>
+<p>Quand vous saurez m'aimer comme il faut que l'on</p>
+<p>[aime</p>
+<p><pb/></p>
+<p>i82 LE MISANTHROPE</p>
+<p>Hélas ! j'ai trop fait voir ce que je puis résoudre ; Par l'aveu d'un
+pardon n'est-ce pas se trahir, Que dire au criminel qu'on ne le peut
+haïr ?... Laissez ; je me veux mal d'une telle faiblesse. —</p>
+<p>fait prévoir l'ironique indulgence de Célimène :</p>
+<p>Mon amour s'est rendu mille fois odieux.</p>
+<p><pb/></p>
+<p>LA COMPOSITION 183</p>
+<p><pb/></p>
+<p>184 LE MISANTHROPE</p>
+<p>LES PERSONNAGES '(</p>
+<p>Dans Alceste les contemporains ont reconnu le marquis, plus tard duc de
+Montausier 5.</p>
+<p>Il en a l'humeur contrariante :</p>
+<p>i. Grimarest écrit dans la Vie de Molière : « Molière travaillait
+toujours d'après la nature, pour travailler plus sûrement. M. Rohaut,
+quoique son ami, fut son modèle pour le philosophe du Bourgeois
+Gentilhomme. »</p>
+<p>2. Voir Amédêe Roux, Montausier, sa vie et son temps et la préface de
+Paul Mesnard dans l'édition du Misanthrope des' Grands écrivains.</p>
+<p><pb/></p>
+<p>LES PERSONNAGES 185</p>
+<p>Ménage ne le nomme pas, mais l'annotateur du Menagiana, la Monnoye, le
+nomme : Montausier.</p>
+<p>Il en a l'austérité. L'abbé d'Olivet écrit dans son Histoire de
+l'Académie française :</p>
+<p>L'anecdote courait les salons : Saint-Simon la recueille et l'habille à
+sa façon. Il faut citer tout au long cette page savoureuse des Notes sur
+le Journal de Dangeau.</p>
+<p><pb/></p>
+<p>186 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LES PERSONNAGES 187</p>
+<p>1. Moliériste, V, 267, cité par Michaud : Les Luttes de Molière, p. 218.</p>
+<p><pb/></p>
+<p>LE MISANTHROPE</p>
+<p>Qui pour le pape ne dirait Une chose qu'il ne croirait.</p>
+<p>Et Boileau dans son Epître VII souhaitera pour ses vers ce suprême
+hommage :</p>
+<p>Et plût au ciel encor, pour couronner l'ouvrage,- Que Montausier voulût
+leur donner son suffrage !</p>
+<p>Mégabate, quoique d'un naturel fort violent, est pourtant souverainement
+équitable... Comme •</p>
+<p><pb/></p>
+<p>LES PERSONNAGES 189</p>
+<p><pb/></p>
+<p>igo LE MISANTHROPE</p>
+<p><pb/></p>
+<p>_ LES PERSONNAGES 191</p>
+<p>aux méchants complaisants, Et qui n'ont pas pour eux les haines
+vigoureuses, Que doit donner le vice aux âmes vertueuses,</p>
+<p>ne fait-il pas songera cette affaire de Tartuffe.dont, justement alors,
+Molière est si fort occupé ? Et comment ne pas reconnaître Tartuffe
+lui-même dans ce « franc scélérat » et dans ce « pied-plat » qui partout
+en impose ?</p>
+<p><pb/></p>
+<p>i92 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LES PERSONNAGES 193</p>
+<p>13</p>
+<p><pb/></p>
+<p>194 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LES PERSONNAGES 195</p>
+<p><pb/></p>
+<p>ig6 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LES PERSONNAGES 197</p>
+<p>Le romantisme, qui a faussé toutes nos idées, a prétendu nous faire
+trouver la rigidité farouche d'Alceste pleine d'attraits : n'oublions
+pas qu'au théâtre, dans le roman, dans la poésie, le romantisme prend
+pour héros l'ennemi de la société. Nous goûtons moins, quand nous les
+rencontrons dans la vie réelle, les esprits chagrins façonnés sur ce
+modèle. Dans le siècle de la sociabilité, tout le monde sentait ce qu'un
+tel caractère.a de fâcheux.</p>
+<p><pb/></p>
+<p>198 LE MISANTHROPE</p>
+<p>sympathie ou éloignement. Lui aussi, il a l'estime de tous, et il la
+mérite. Nul dans la pièce ne songe àlui adresser le reproche d'égoïsme,
+— qui ne lui viendra que plus tard, de gens qui ne sont pas de la
+maison,—et qu'il ne mérite pas. La preuve en est au rôle même qu'il joue
+auprès d'Alceste : une amitié que ne rebutent pas de telles rebuffades
+est signe d'autant de coeur que d'esprit. Sur le train dont les choses
+vont dans le monde, il ne se fait pas plus d'illusions que son ami.
+Seulement, il ne se fait pas cette autre illusion qu'il soit en son
+pouvoir d'y rien changer. Son parti est pris d'accepter ce qu'il ne peut
+éviter. Moins philosophe que simplement homme du monde, il est d'humeur
+conciliante, comme Alceste est d'humeur contrariante.</p>
+<p><pb/></p>
+<p>LES PERSONNAGES 199</p>
+<p><pb/></p>
+<p>200 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LES PERSONNAGES 201</p>
+<p>Concluons que Philinte n'est ni le sage de la pièce, ni un sage. Il est
+un homme du monde accompli, avec tout ce que le terme, en tout temps,
+comporte de qualités aimables et sous-entend de réserves.</p>
+<p>Pour achever de peindre notre Misanthrope, après lui avoir donné
+Philinte pour ami, Molière fait de lui l'amant de Célimène.</p>
+<p><pb/></p>
+<p>202 LE MISANTHROPE</p>
+<p>Il fallait une femme jeune et non pas seulement jolie, mais pire.
+Armande peut dire comme Célimène, étant née en 1643 : « J'ai vingt ans
+». Et c'est elle que peindra, — quatre ans après le Misanthrope, — son
+mari, toujours amoureux, sous les traits de Lucile du Bourgeois
+gentilhomme. Covielle détaille tout ce qui chez une autre passerait pour
+défaut et qui, aux yeux de Cléonte, devient un attrait de plus.</p>
+<p>COVIELLE. — Premièrement elle a les yeux petits.</p>
+<p>CLÉONTE. — Cela est vrai, elle a les yeux petits, mais elle les a pleins
+de feu, les plus brillants, les plus perçants du monde, les plus
+touchants qu'on puisse voir.</p>
+<p>COVIELLE. — Elle a la bouche grande.</p>
+<p>CLÉONTE. — Oui, mais on y voit des grâces qu'on ne voit point aux autres
+bouches ; et cette bouche, en la voyant, inspire des désirs, est la plus
+attrayante, la plus amoureuse du monde.</p>
+<p>COVIELLE. — Pour sa taille, elle n'est pas grande.</p>
+<p>CLÉONTE. — Non, mais elle est aisée et bien prise.</p>
+<p>COVIELLE. — Elle affecte une nonchalance dans son parler et ses actions.</p>
+<p>Il fallait une « satirique -spirituelle ». C'est ainsi qu'est qualifiée
+Mlle Molière dans Y Impromptu de Versailles. Covielle continue :</p>
+<p><pb/></p>
+<p>LES PERSONNAGES 203</p>
+<p>COVIELLE. — Pour de l'esprit...</p>
+<p>CLÉONTE. — Ah ! elle en a, Covielle, du plus fin, du plus délicat.</p>
+<p>COVIELLE. — Sa conversation...</p>
+<p>CLÉONTE. — Sa conversation est charmante.</p>
+<p>COVIELLE. — Elle est toujours sérieuse...</p>
+<p>Et voici un dernier trait, caractéristique de Célimène, évoquant la
+femme telle que nous la verrons, capricieuse et sûre de son pouvoir.</p>
+<p>COVIELLE. — Mais, enfin, elle est capricieuse autant que personne du monde.</p>
+<p>CLÉONTE. — Oui, elle est capricieuse, j'en demeure d'accord, mais tout
+sied bien aux belles ; on souffre tout des belles.</p>
+<p><pb/></p>
+<p>2o4 LE MISANTHROPE</p>
+<p>r. Elle devint en 1705 Mm&lt;= de Montalant. Deux autres enfants, Louis né
+le 19 janvier 1664 et Pierre-Jean-Baptiste Armand, né le 15 septembre
+1672, moururent en bas âge.</p>
+<p>2. G. Mi CHAUT. Les luttes de Molière.</p>
+<p><pb/></p>
+<p>LES PERSONNAGES 205</p>
+<p>Célimène a la jeunesse, l'esprit et la coquetterie de Mlle Molière ;
+elle en a cette grâce qui est la plus forte. Mais Armande est une
+comédienne, enfant de la balle et confinée dans le milieu du théâtre;
+Célimène est une grande dame. Pour cet autre aspect du rôle, Molière
+a-t-il eu des modèles ? Ils abondaient. Une grande dame, que la race, la
+naissance, l'éducation, un cadre de richesse et de suprême^ élégance,
+l'habitude des hommages, enfin tout un prestigieux ensemble situe dans
+une sphère supérieure où elle prend naturellement des sentiments qui
+sont dans l'air et des manières</p>
+<p><pb/></p>
+<p>2o6 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LES PERSONNAGES 207</p>
+<p>Un Condé, un maréchal de Vivonne recherchent sa conversation. Cela lui
+ouvre bien des horizons sur les façons de penser et de sentir
+aristocratiques.</p>
+<p><pb/></p>
+<p>. 2o8 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LES PERSONNAGES 209</p>
+<p>A sa rivale Molière a été cruel. Le nom même dont il la gratifie,
+emprunté au Nicomède de Corneille que sa troupe représentait souvent,
+est celui d'une femme intrigante et fausse, Arsinoé, seconde femme de
+Prusias. L'attitude qu'il lui prête, agressive, sournoise, humiliée,
+vindicative,</p>
+<p>1. « MM. de Meille, de Clermont, de Lorges, recherchaient la duchesse de
+Gouville et chacun d'eux se flattait d'être l'élu ». Magendie, op. cit.,
+II, 851.</p>
+<p>14</p>
+<p><pb/></p>
+<p>2io LE MISANTHROPE</p>
+<p>Les hostilités datent du lendemain de YEcole des Femmes et du reproche «
+d'obscénité » lancé contre la pièce par des auditrices trop
+scrupuleuses. Molière dénonce dans la Critique « celles qui, étant sur
+le retour de l'âge, veulent remplacer de quelque chose ce qu'elles
+voient qu'elles perdent, et prétendent que les grimaces d'une pruderie
+scrupuleuse leur tiendront lieu de jeunesse et de beauté ». Il revient à
+la charge dans Y Impromptu : « Vous repré-</p>
+<p><pb/></p>
+<p>LES PERSONNAGES 211</p>
+<p>sentez une de ces femmes, ... qui se retranchent toujours fièrement sur
+leur pruderie, regardent un chacun de haut en bas et veulent que toutes
+les plus .belles qualités que possèdent les autres ne soient rien en
+comparaison d'un misérable honneur dont nul ne se soucie. » De ces
+femmes sera l'Orante de Tartuffe peinte par Dorine :</p>
+<p>Il est vrai qu'elle vit en austère personne,</p>
+<p>Mais l'âge dans son âme a mis ce zèle ardent</p>
+<p>Il leur est dur de voir déserter les galants.</p>
+<p>Dans un tel abandon leur sombre inquiétude</p>
+<p>Né voit d'autre recours que le métier de prude ;</p>
+<p>Et la sévérité de ces femmes de bien</p>
+<p><pb/></p>
+<p>2i2 , LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LES PERSONNAGES 213</p>
+<p>et en contraste avec son charme décevant, Molière a placé l'agréable
+image de la femme sans coquetterie.</p>
+<p>Oronte est l'amateur mondain. Meilhac dans une de ses plus fines
+comédies introduit ce compliment ironique : « On voit tout de suite que
+ce livre a été écrit par un homme du monde ». Les professionnels se
+défendent contre l'intrusion des amateurs : combien ils ont raison !
+L'amateur n'a qu'une excuse : celle du génie. Ce cas excepté, et il est
+rare, non seulement l'amateur gâte le métier, mais il est l'esclave de
+la mode,reine des salons. Il</p>
+<p><pb/></p>
+<p>oi4 LE MISANTHROPE</p>
+<p>Mais la satire va plus loin : des amateurs, elle s'étend jusqu'aux
+auteurs eux-mêmes. Depuis qu'il s'est avisé d'être auteur, Oronte a fait
+l'acquisition de certains travers qu'on observe chez nombre d'auteurs et
+pas seulement chez les méchants auteurs. Il a en commun avec eux cette
+susceptibilité chatouilleuse, qui n'admet que les compliments et n'est
+pas offensée par les plus outrés. Présentez-leur les critiques les plus
+modérées et ces critiques fussent-elles dans l'intérêt de leur renommée
+et pour le mieux de leur oeuvre, ils ont un garant de l'excellence de
+leurs vers, ou de leur prose : c'est qu'ils en sont les auteurs : Et
+moi, j e vous soutiens que mes vers sont fort bons.</p>
+<p>Place aux marquis ! Arrivez, Acaste et Clitandre: qu'on vous voie et
+qu'on vous entende ! Vous êtes</p>
+<p><pb/></p>
+<p>LES PERSONNAGES 215</p>
+<p>la joie de la pièce. Votre ramage et votre plumage, votre babil et vos
+pirouettes y mettent une note de gaieté légère qui sans vous y manquerait.</p>
+<p>Dans le plus bel endroit a la pièce troublée</p>
+<p><pb/></p>
+<p>2i6 LE MISANTHROPE</p>
+<p>Le marquis a une règle de conduite, un principe de vie, qui est de
+suivre la mode. Il ne la fait, ni ne la devance: il l'affiche, il
+l'exagère.La mode dans la façon dé s'habiller. La mode dans la façon de
+se tenir : le salut en cercle, les furieuses embrassades, la jambe
+tendue,un frétillement perpétuel. La mode dans la façon de parler :
+jurons " de chez le bon faiseur, prononciation affectée, ton de fausset.
+La mode dans la façon de penser,si l'on</p>
+<p><pb/></p>
+<p>LES PERSONNAGES 21 7</p>
+<p>ose s'exprimer ainsi : opinions du bel air, jugements i catégoriques et
+brefs formulés en une épithète sans nuance et sans réplique. Jules
+Lemaître avait remarqué que, de son temps, pour juger des pièces de
+théâtre, le vocabulaire des gens du monde tenait dans deux épithètes :
+tout ce qui n'était pas « admirable » était « infect ». Au xvne siècle,
+infect se prononçait « détestable » et c?est toute la différence.
+Ecoutez le marquis de la Critique jugeant YEcole des Femmes.</p>
+<p>LE MARQUIS. Il est vrai je le trouve détestable, morbleu ! détestable,
+du dernier détestable, ce qu'on appelle détestable.</p>
+<p>DORANTE. Mais, marquis, par quelle raison, de grâce, cette comédie
+est-elle ce que tu dis ?</p>
+<p>LE MARQUIS. Elle est détestable, parce qu'elle est détestable.</p>
+<p>Le marquis doit se faire voir aux endroits où la mode veut qu'on soit vu
+: au petit lever du Roi, dans les ruelles et dans les salons, au théâtre
+sur la scène où, crainte d'y passer inaperçu, il fera bruit et embarras.
+Peu de cervelle sous beaucoup</p>
+<p><pb/></p>
+<p>218 LE MISANTHROPE</p>
+<p>Et de la société française elle-même, telle qu'elle est peinte dans le
+Misanthrope, que penserons-nous? Quelle impression nous laisse-t-elle ?
+Certes, il y reste quelques traces de la rudesse d'hier. Comment en
+serait-il autrement ? Jules Lemaître s'est amusé à</p>
+<p><pb/></p>
+<p>LES PERSONNAGES 219</p>
+<p><pb/></p>
+<p>220 LE MISANTHROPE</p>
+<p>LA LANGUE, LE STYLE, LA VERSIFICATION.</p>
+<p>Pour juger de la langue, du style et du vers du Misanthrope, il est
+indispensable de rappeler ce que les contemporains pensaient de la
+langue, du style et de la versification de Molière. Or on sait qu'ils
+ont été appréciés avec sévérité, sinon par les contemporains immédiats
+du poète, du moins par les puristes de la fin du siècle.</p>
+<p><pb/></p>
+<p>LE STYLE ET LA VERSIFICATION 221</p>
+<p>1er point assez simplement pour exprimer les passions. » Le xvme siècle
+a recueilli cette opinion et Vauvenargues, dans ses Réflexions critiques
+sur quelques poètes, prononce qu'. « on trouve dans Molière tant de
+négligences et d'expressions bizarres et impropres, qu'il y a peu de
+poètes, si j'ose le dire, moins corrects et moins purs que lui ». Elle a
+été reprise au xixe siècle par certains critiques, tel Edmond Scherer
+déclarant, dans un article assez lourdement paradoxal, que « Molière,
+avec des qualités de fond qui dominaient tout, était d'ailleurs aussi
+mauvais écrivain qu'on le pouvait être ».</p>
+<p><pb/></p>
+<p>222 LE MISANTHROPE</p>
+<p>Mais la fresque est pressante et veut, sans complai[sance,</p>
+<p>Comme exemple du « jargon » qui se rencontre quelquefois dans Molière,
+Boileau citait ces vers du Misanthrope :</p>
+<p>Non, non, il n'est point d'âme un peu bien située Qui veuille d'une
+estime ainsi prostituée Et la plus glorieuse a des régals peu chers, Dès
+qu'on voit qu'on nous mêle avec tout l'univers.</p>
+<p>« M. Despréaux m'a dit, témoigne Brossette, qu'il</p>
+<p>sortes de négligences, mais que Molière ne pouvait</p>
+<p>Autres exemples de jargon :</p>
+<p>Pour peu que d'y songer vous nous fassiez les mines. On peut, pour vous
+servir, remuer des machines.</p>
+<p>je me vois, ma cousine, ici persécutée Par des gens dont l'humeur y
+paraît concertée.</p>
+<p><pb/></p>
+<p>LE STYLE ET LA VERSIFICATION 223</p>
+<p>Le « galimatias » désigne des métaphores dont les termes ne se suivent
+pas :</p>
+<p>De protestations, d'offres et de serments Vous chargez la fureur de vos
+embrassements</p>
+<p>Ou encore :</p>
+<p>Le poids de sa grimace où brille l'artifice Renverse le bon droit et
+tourne la justice.</p>
+<p>On y peut comprendre toutes les métaphores usitées dans le langage de la
+galanterie, auquel Molière est bien obligé de se conformer, faute de
+n'être pas compris, rien n'étant plus conventionnel que cette sorte de
+langage et plus soumis aux changements de la mode. Employant comme on le
+faisait autour de lui ces mots à'ardeur, de flamme, de feux, etc., qui
+ont perdu leur valeur d'image, il écrira, par exemple :</p>
+<p>Pourvu que votre coeur veuille donner la main Au dessein que j'ai fait.</p>
+<p>Les tours de ce genre abondent dans le Misanthrope comme dans les autres
+pièces de Molière.</p>
+<p><pb/></p>
+<p>224 LE MISANTHROPE</p>
+<p>Philosophe, pris comme adjectif : — « Ce chagrin philosophe », « Mon
+flegme est philosophe » — est moins lourd que « philosophique ».</p>
+<p>Alceste dit « treuve » au lieu de « trouve » et les comédiens ont eu
+bien tort de s'en alarmer.</p>
+<p>Non, l'amour que je sens pour cette jeune veuve . Ne ferme point mes
+yeux aux défauts qu'on lui</p>
+<p>[treuve</p>
+<p>Mais si son amitié pour vous se fait paraître,,</p>
+<p><pb/></p>
+<p>LE STYLE ET LA VERSIFICATION 225</p>
+<p>au lieu de « se fait voir ».</p>
+<p>Est-ce par les appas de sa vaste rhingrave</p>
+<p>Qu'il a gagné votre âme en faisant votre esclave ?</p>
+<p>sont des tours vieillis dès 1666. Molière emploie « regards » pour «
+égards » :</p>
+<p>Vous avez des regards qui ne sauraient me plaire.</p>
+<p>Il prononce « il tutaye » : prononciation alors encore autorisée, mais
+en train de disparaître. L'expression « du bon de mon coeur »</p>
+<p>Ce que de plus que vous on en pourrait avoir N'est pas un si grand cas</p>
+<p>« n'a pas tant d'importance... »</p>
+<p>Et puis-je mais des soins qu'on ne va pas vous</p>
+<p>[rendre ?</p>
+<p>« Je n'en puis mais » avec la négation a seul survécu.</p>
+<p>Autant qu'il vous plaira vous pourrez arrêter, « Arrêter » au sens neutre.</p>
+<p>15</p>
+<p><pb/></p>
+<p>226 LE MISANTHROPE</p>
+<p>Et vous pouvez le voir sans demeurer confuse Du crime dont vers moi son
+style vous accuse ?</p>
+<p>« vers » au lieu de « envers ».</p>
+<p>Voici monsieur Dubois plaisamment figuré</p>
+<p>« qui fait une plaisante figure ».</p>
+<p>A ces tours vieillis il faut joindre quelques locutions populaires : ,</p>
+<p>Il se barbouille fort.</p>
+<p>Elle grouille aussi peu qu'une pièce de bois.</p>
+<p>Je pense qu'ayant pris le soin de vous le dire Un aveu de la sorte a de
+quoi vous suffire.</p>
+<p>Oui, toute mon amie, elle est et je la nomme Indigne d'asservir le coeur
+d'un galant homme.</p>
+<p>Aussi ne trouverais-je aucun sujet de plainte, &gt;' . Si pour moi votre
+bouche avait parlé sans feinte; Et, rejetant mes voeux dès le premier
+abord, Mon coeur n'aurait eu droit de s'en plaindre qu'au</p>
+<p>[sort. Mais d'un aveu trompeur voir ma flamme applaudie, C'est
+unetrahison, c'est une perfidie.</p>
+<p><pb/></p>
+<p>LE STYLE ET LA VERSIFICATION 227'</p>
+<p>Que le ciel en naissant ne vous eût donné rien.</p>
+<p>Il fait par un arrêt couronner son forfait Et non content encor du tort
+que l'on me fait, Il court parmi le monde un livre abominable... Dont le
+fourbe a le front de me faire l'auteur.</p>
+<p>On sait que ce pied plat digne qu'on le confonde Par de sales emplois
+s'est poussé dans le monde.</p>
+<p>Et n'allez point quitter, de quoi que l'onvous somme, Lenom que
+danslaCourvous ayez d'honnête homme.</p>
+<p>Enfin quoi qu'il en soit et sur quoi qu'on se fonde Vous trouvez des
+raisons pour souffrir tout le monde.</p>
+<p>Il arrive que la rime ne soit pas riche. Rime insuffisante pour
+l'oreille : fat et combat, vous et tous ; insuffisante pour l'oeil :
+temps et gens, temps et ans, marquis et prix. Rime d'une longue et d'une
+brève : lasse et race, grâce et place, madame et âme.</p>
+<p><pb/></p>
+<p>228 LE MISANTHROPE</p>
+<p>nous sommes au théâtre et que ce sont donc langue, style et
+versification de théâtre. C'est ce dont semblent ne pas tenir compte un
+La Bruyère, un Bayle, un Fénelon, un Vauvenargues, un Scherer, tous
+écrivains qui fréquentent peu le théâtre ou l'ignorent totalement. Là
+est le noeud de l'affaire.</p>
+<p>• 1. Revue des Deux Mondes, 15 décembre 1898.</p>
+<p><pb/></p>
+<p>LE STYLE ET LA VERSIFICATION 229</p>
+<p><pb/></p>
+<p>230 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LE STYLE ET LA VERSIFICATION 231</p>
+<p>croit entendre l'intonation de l'interprète qui l'accompagne et la
+souligne. Autant en dirons-nous dé la versification toujours si souple,
+et qui n'avait jamais eu tant de largeur et de plénitude, la mâle
+Versification qui convient aux « colères vertueuses ».</p>
+<p>Dans une pièce où il met en scène la plus haute société de son temps, il
+est visible que Molière, sans</p>
+<p><pb/></p>
+<p>232 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>CHAPITRE III HISTOIRE DE LA PIÈCE</p>
+<p>LA VIE DU CHEF-D'OEUVRE.</p>
+<p>Le Misanthrope fut très vite installé dans l'admiration des
+contemporains, comme, le chefd'oeuvre de son auteur et le chef-d'oeuvre
+d'un genre : cela même le désignait pour appeler et concentrer sur lui
+les attaques des ennemis du théâtre. Ceux-ci allaient poursuivre la
+condamnation de la comédie dans la pièce qui en semblait l'expression
+achevée.</p>
+<p><pb/></p>
+<p>234 LE MISANTHROPE</p>
+<p>j.-J. ROUSSEAU CONTRÉ LE MISANTHROPE. .</p>
+<p>Mais Voici le tournant du siècle. Ce sera pareillement un tournant dans
+l'histoire du Misanthrope-.</p>
+<p><pb/></p>
+<p>ROUSSEAU CONTRE LE MISANTHROPE 235</p>
+<p><pb/></p>
+<p>236 LE MISANTHROPE</p>
+<p>Vous ne sauriez me nier deux choses : l'une qu'Alceste, dans cette
+pièce, est un homme droit, sincère, estimable, un véritable homme de
+bien ; l'autre que l'auteur lui donne un personnage ridicule. C'en est
+assez, ce me semble, pour rendre Molière inexcusable...</p>
+<p>Qu'est-ce donc que le Misanthrope de Molière ? Un homme de bien qui
+déteste les moeurs de son siècle et la méchanceté de ses contemporains,
+qui, précisément parce qu'il aime ses semblables, hait en eux les maux
+qu'ils se font réciproquement et les vices dont ces maux sont l'ouvrage...</p>
+<p>Ce n'est donc pas des hommes qu'il est l'ennemi,</p>
+<p>mais de la méchanceté des uns et du support que</p>
+<p>. cette méchanceté trouve dans les autres. S'il n'y</p>
+<p><pb/></p>
+<p>ROUSSEAU CONTRE LE MISANTHROPE 237</p>
+<p>avait ni fripons, ni flatteurs, il aimerait tout le genre humain. Il n'y
+a pas un homme de bien qui 'ne soit misanthrope en ce sens, ou plutôt
+les vrais misanthropes sont ceux qui ne pensent pas ainsi ; car, au
+fond, je ne connais point de plus grand ennemi des hommes que l'ami de
+tout le monde, qui, toujours charmé de tout, encourage incessamment les
+méchants et flatte, par sa coupable complaisance, les vices d'où
+naissent tous les désordres de la société.</p>
+<p>Cet ami de tout le monde, c'est Philinte. JeanJacques voit en lui le
+type de l'égoïste. Se peut-il que Molière lui donne sans cesse raison ?</p>
+<p><pb/></p>
+<p>23 8 LE MISANTHROPE</p>
+<p>n'atteint que lui. Est-ce que Molière s'y est luimême trompé ? Non, du
+tout. Mais il fallait faire rire le parterre.</p>
+<p><pb/></p>
+<p>LE PHILINTE DE MOLIÈRE 239</p>
+<p>font le plus de bruit au moindre tort qu'on leur fait, et qu'ils ne
+gardent leur philosophie qu'aussi longtemps qu'ils n'en ont pas besoin
+pour euxmêmes...</p>
+<p>Il me semble qu'en traitant les caractères en question sur cette idée,
+chacun des deux eût été plus vrai, plus théâtral et que celui d'Alceste
+eût fait incomparablement plus d'effet ; mais le parterre alors n'aurait
+pu rire qu'aux dépens de l'homme du monde, et l'intention de l'auteur
+était qu'on rît aux dépens du Misanthrope.</p>
+<p>Jean-Jacques ajoute en note :</p>
+<p>FABRE D'EGLANTINE : Le Philinte de Molière.</p>
+<p>La pièce a été faite ; l'auteur n'était pas un homme de génie; la
+comédie n'avait ni vérité, ni naturel, ni mérite d'aucun genre : elle
+réussit. Est-ce l'ombre de Molière, est-ce le seul nom de ses
+personnages qui lui a porté bonheur? Aujourd'hui encore, on ne saurait
+la passer sous silence : il nous faut relire le Philinte de Molière ou
+la Suite du Misan-</p>
+<p><pb/></p>
+<p>240 LE MISANTHROPE</p>
+<p>thrope, comédie en cinq actes et en vers de Fabre d'Eglantine,
+représentée pour la première fois le 22 février 1790.</p>
+<p>SONNET A L'HONNEUR DE LA SAINTE VIERGE</p>
+<p>qui a remporté le prix par le jugement de l'Académie.</p>
+<p>C'en est fait : l'esprit saint dans les flancs de Marie Produit le germe
+heureux qui me donne la vie, Mon rédempteur paraît sous les traits d'un
+enfant.</p>
+<p>Du berceau de ce Dieu naît le bonheur du monde. L'oracle s'accomplit ;
+une Vierge féconde Ecrase pour jamais la tête du serpent.</p>
+<p><pb/></p>
+<p>LE PHILINTE DE MOLIÈRE 241</p>
+<p>Le sonnet d'Oronte valait mieux. Comment le lys d'argent se changea-t-il
+en églantine d'or?... C'est ainsi que Fabre devint d'Eglantine.</p>
+<p>A vingt ans, il jette le froc aux orties et s'engage</p>
+<p>dans une troupe de comédiens. Dans la même troupe</p>
+<p>se trouvait une demoiselle Lesage, petite-fille de</p>
+<p>l'auteur de Gil Blas, qui chantait l'opéra-comique :</p>
+<p>il l'épousa en 1778 et en eut un fils : elle le quitta</p>
+<p>obscure pensionnaire de la Comédie-Française.</p>
+<p>de déclamation.</p>
+<p>16</p>
+<p><pb/></p>
+<p>242 LE MISANTHROPE</p>
+<p>Tel est le personnage qui s'avisa de refaire, le Misanthrope suivant les
+directives de son maître</p>
+<p>RousseauPhilinte</p>
+<p>RousseauPhilinte épousé Eliante. Il a pris le nom de comte de Valancès,
+commeTArnolphe de l'Ecole</p>
+<p><pb/></p>
+<p>LE PHILINTE DE MOLIÈRE 243</p>
+<p>Sans zèle pour les bons, faible pour les méchants.</p>
+<p>Et Alceste ? Il arrive aujourd'hui même, retour de son désert. Dans ce
+désert, — c'est-à-dire sur ses terres, — régnaient la vertu et la paix.
+On ne sait quel brutal personnage est venu y. jeter le trouble. Alceste
+est parti en guerre contre lui, a plaidé, a perdu, est sous le coup
+d'une arrestation...</p>
+<p>Cela seul, dans cette méchante pièce, est un assez heureux trait de
+psychologie, dont il ne semble pas, d'ailleurs, que Fabre ait lui-même
+compris la portée : Fût-ce au désert, il faut qu'Alceste querelle les
+gens. Aux ennuyés qui vainement cherchaient dans les voyages un remède
+contre l'ennui, Sénèque jadis faisait un reproche : c'est qu'ils
+s'emmenaient eux-mêmes.</p>
+<p>Au second acte, nous faisons connaissance avec cet avocat : le hasard et
+Fabre d'Eglantine ont voulu que ce fût un. autre Alceste, généreux</p>
+<p><pb/></p>
+<p>244 ' LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LE PHILINTE DE MOLIÈRE 245</p>
+<p>« Tout serait bien » riposte Alceste, bon élève deRousseau, si tout
+était resté tel que l'a créé la nature ; mais la société a tout gâté.</p>
+<p>Dans l'optimisme affreux que votre esprit épouse, De sa perfection la
+nature est jalouse, Sans doute, et c'est toujours le but de ses
+bienfaits, Mais nous ne sommes pas comme elle nous a faits. Moins nous
+avons changé, plus nous sommes</p>
+<p>[honnêtes...</p>
+<p>Au troisième acte, coup de théâtre. Il se découvre que l'imprudent pour
+qui Philinte a refusé d'intervenir, le malheureux qu'il a jugé trop sot
+pour qu'on lui épargne les conséquences de sa sottise, c'est lui-même.
+Oui, le nom qui se lit au bas de ce funeste billet est celui du comte de
+Valancès : c'est le sien. A ce coup, désespéré, furieux et soudain
+désabusé, il a la révélation de la méchanceté universelle en un « siècle
+pervers et barbare... »</p>
+<p><pb/></p>
+<p>246 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LE PHÎLÏNTË DE MOLIÈRE 247</p>
+<p>DÉCAPITER : IL RENAÎT CHAQUE JOUR DE SON SANG VERSÉ SUR LA PLACE DE LA
+RÉVOLUTION 1. »</p>
+<p>1. Revue de la Révolution, 1886. — Aulard. Figures oubliées de la
+Révolution, Fabre d'Eglàntine.</p>
+<p><pb/></p>
+<p>248 LE MISANTHROPE</p>
+<p>ans s'éprend de cette jeune perfection. Mais elle fait ses conditions :</p>
+<p><pb/></p>
+<p>LA DÉFORMATION ROMANTIQUE 249</p>
+<p>J'ai lu du Misanthrope un feuillet seulement, ,Et soudain j'ai jugé par
+un coup d'oeil magique, Qu'il n'y manquerait rien s'il était en musique.</p>
+<p>LA DÉFORMATION ROMANTIQUE.</p>
+<p>Mais voici, dans l'histoire du Misanthrope, une. nouvelle aventure.</p>
+<p><pb/></p>
+<p>25ê LE MISANTHROPE</p>
+<p>Les beaux vers d'Alfred de Musset, dans Une Soirée perdue, traduisent
+avec éclat cette nouvelle interprétation :</p>
+<p>J'étais seul l'autre soir au Théâtre français,</p>
+<p>Ou presque seul ; l'auteur n'avait pas grand succès.</p>
+<p>Ce n'était que Molière, et nous savons de reste</p>
+<p>Que ce grand maladroit qui fit un jour Alceste,</p>
+<p>Ignora le grand art de chatouiller l'esprit</p>
+<p>J'écoutais cependant cette simple harmonie,</p>
+<p>Et comme le bon sens fait parler lé génie.</p>
+<p>J'admirais quel amour polir l'âpre vérité,</p>
+<p>Eut cet homme si fier en sa naïveté ;</p>
+<p>Quel grand et vrai savoir des choses de ce monde,</p>
+<p>Quelle mâle gaieté, si triste et si profonde</p>
+<p>Que, lorsqu'on vient d'enrire, on devrait en pleurer...</p>
+<p>Pour conclure, voici Molière guindé en héraut de la vérité:</p>
+<p>Ah ! j'oserais parler, si je croyais bien dire. J'oserais ramasser le
+fouet de la satire, Et l'habiller de noir, cet homme aux rubans verts,
+Qui se fâchait jadis pouf quelques mauvais vers. S'il rentrait
+aujourd'hui dans Paris la grand ville Il y trouverait mieux pour
+émouvoir sa bile,</p>
+<p><pb/></p>
+<p>LA DÉFORMAt'ÎON ROMANTIQUE 251</p>
+<p><pb/></p>
+<p>252 LE MISANTHROPE :</p>
+<p>Célimène. Mais qu'est-ce que la cour, sinon le monde du Roi, arrangé
+pour lui et par lui ? Ces mauvais choix pour les emplois publics qui
+révoltent Alceste, qui donc les fait sinon le Roi ?</p>
+<p>Il précise et explique le caractère de cette « pièce d'opposition ».</p>
+<p>Tartuffe, Dom Juan, le Misanthrope, autant de pièces politiques.</p>
+<p>Mais après le Misanthrope, quelle déception! L'auteur à'Amphitryon
+pouvant difficilement passer pour ennemi de Jupiter, se verra traiter de
+« bouffon » ; le mot y est :</p>
+<p>i. Michelet. Histoire de France, tome XV, chap. 4-7.</p>
+<p><pb/></p>
+<p>LA DÉFORMATION ROMANTIQUE 253</p>
+<p>Après le Misanthrope, c'est toujours un très grand artiste ou un
+puissant bouffon. Mais ce n'est plus notre Molière, j'allais dire le
+Molière de la Révolution, l'exécuteur des hypocrites.</p>
+<p>Alceste républicain ! Alceste révolutionnaire ! Le travestissement
+aujourd'hui nous paraît surtout saugrenu : il est piquant de le trouver
+sous la plume de l'un des critiques qui ont eu le sens le plus juste de
+notre théâtre classique et en particulier de celui de Molière. C'est
+sous la signature de Francisque Sarcey que nous lisons ces lignes :</p>
+<p><pb/></p>
+<p>254 LE MISANTHROPE</p>
+<p>risée des courtisans, parce qu'en effet il n'y a pas, pour une monarchie
+despotique, de plus dangereux trouble-fête que les Alcestes...</p>
+<p>Mais voici mieux encore : Alceste anglais, Alceste américain !</p>
+<p>Les Américains et les Anglais, tels que nous les peignent des plumes
+libérales, retrouveraient dans cet Alceste un de leurs ancêtres.Chez eux
+aussi.diton, chacun pense, parle et agit comme soi, sans crainte du
+ridicule... Ils vivent libres de toute convention, de tout préj ugé, de
+toute formule absurde, et vont hardiment tout droit devant eux, jusqu'au
+bout de leurs idées. Ce sont des Alcestes.</p>
+<p>Et tout se termine par une invocation solennelle:</p>
+<p>Molière t'a voué au ridicule, pauvre et noble Alceste ; mais nous, qui
+t'aimons comme un modèle, comme un père, nous qui savons ce qu'il y a de
+généreux et de chevaleresque dans tes boutades et qui les adorons même
+dans ce qu'elles ont de puéril, comme notre admiration te venge des sots
+dédains de cette cour ridicule ! Viens chez nous, tu es un des nôtres.</p>
+<p><pb/></p>
+<p>LA DÉFORMATION ROMANTIQUE 255</p>
+<p>ture, que de sottises on a débitées en ton nom !</p>
+<p>Par quel chemin Alceste est-il arrivé au jansénisme ? Par l'indignation
+que lui causent, au lendemain des « misères » de la Fronde, les
+scandales du nouveau règne. Il est l'expression, — le symbole — de
+l'opinion publique révoltée, « Alceste, le mythe de la conscience
+publique, hait ceux qui ont ensanglanté, pillé et dévasté la France ;
+ceux qui ont donné la main aux plus honteux compromis ; ceux qui, après
+avoir fomenté la guerre civile, ont fomenté la guerre</p>
+<p>i. Sainte-Beuve, Port Royal, t. III, p. 211, 59.</p>
+<p><pb/></p>
+<p>256 LÉ MISANTHROPE</p>
+<p>S'il en est ainsi, comment expliquer que les contemporains, qui ont vu
+la Fronde, assisté au procès de Fouquet, connu les jansénistes, n'en
+aient rien soupçonné ? G. du Boulan a prévu l'objection ; elle ne le
+déconcerte pas : « A qui objecterait qu'on ne trouve aucune trace de
+cette interprétation dans les gloses du passé, je répondrai bravement :
+« Nos pères ignoraient leur histoire : c'est nous qui la faisons. » —
+Tant de bravoure désarme.</p>
+<p>Combien Jules Lemaître aura raison d'écrire : « 0 mes amis, disait
+Socrate de Platon, que de belles choses ce jeune homme me prête,
+auxquelles je n'ai jamais songé ! — Hélas ! pourrait dire Molière,
+qu'a-t-on fait de mon homme aux rubans verts? Quels horribles rubans
+noirs on lui a mis 1 ! »</p>
+<p>A ces fantaisies de la critique, du moins pouvonfi.</p>
+<p>pouvonfi. Lemaître, Impressions de théâtre, 1.1.-</p>
+<p><pb/></p>
+<p>LA DÉFORMATION ROMANTIQUE 257</p>
+<p>nous opposer les interprétations données par les auteurs comiques du
+XIXe siècle.</p>
+<p>Chiffonnet est un rentiermorose. Comme Alceste, il a pris le genre
+humain en haine et ce pour des motifs dont il semble qu'il exagère
+l'importance :</p>
+<p>Mon coutelier m'a dit que ce rasoir couperait... et ce rasoir ne coupe
+pas ! {Avec amertume) Et l'on veut que j'aime le genre humain ! Pitié !
+pitié ! Oh ! les hommes ! je les ai dans le nez !... Oui, tout en ce
+monde n'est que mensonge, vol et fourberie I</p>
+<p>Comme Timon d'Athènes il a préparé pour ses faux amis une cérémonie
+dérisoire, au cours de laquelle il les démasquera :</p>
+<p>Aussi j'ai conçu un vaste dessein. J'ai des amis, des canailles d'amis
+qui, sous prétexte que c'est aujourd'hui ma fête, vont venir m'offrir
+leurs voeux menteurs. Je leur ménage une petite sur. prise, un raout,
+une petite fête Louis XV, avec des gâteaux de l'époque et des
+rafraîchissements frelatés comme leurs compliments. Je leur servirai</p>
+<p>17</p>
+<p><pb/></p>
+<p>258 LE MISANTHROPE</p>
+<p>du riz au lait sans lait... et sans riz 1 A minuit, je monte sur un
+fauteuil et je leur crie : « Vous êtes tous des gueux ! J'ai assez de
+vos grimaces ! Fichez-moi le camp ! » Et quand ils seront partis, je
+brûlerai du vinaigre.</p>
+<p>H n'y a pas moins de bon sens dans un à-propos de M. Georges Courteline,
+la Conversion d'Alceste jouée au Théâtre-Français le 15 janvier 1905.
+L'auteur de Boubouroche imagine que six mois</p>
+<p><pb/></p>
+<p>LA DÉFORMATION ROMANTIQUE 259</p>
+<p>Or voici Oronte, brandissant un second sonnet, — qui ne vaut pas le
+premier. Alceste en fait le plus grand éloge. Cependant Oronte lui ayant
+demandé d'en parler au Mercure, une discussion s'ensuit qui de beaucoup
+dépasse en violence celle du Misanthrope. Mauvais début dans la carrière
+de complaisant !</p>
+<p>ALCESTE.</p>
+<p>Alceste a gagné son procès ; M- Loyal lui apporte la note « exacte et
+détaillée » des frais de ce procès gagné : il lui en coûte plus que pour
+un procès perdu.</p>
+<p><pb/></p>
+<p>26o LE MISANTHROPE</p>
+<p>CELIMENE</p>
+<p>Et comme elle est restée spirituelle et qu'elle a de bon sens autant que
+d'esprit, elle conclut par ce mot, qui est le mot de la situation :</p>
+<p>Alceste converti n'a plus de raison d'être.</p>
+<p>L'INTERPRÉTATION MODERNE.</p>
+<p>Critiques, suites, imitations attestent la vie posthume du Misanthrope :
+elle se traduit pareillement dans la manière dont le rôle d'Alceste a
+été compris par ses plus fameux interprètes,</p>
+<p><pb/></p>
+<p>L'INTERPRÉTATION MODERNE 261</p>
+<p><pb/></p>
+<p>262 LE MISANTHROPE</p>
+<p>ceste, me donne sur chacun de ces artistes, qu'il a lui-même vus jouer,
+son impression personnelle. D'un côté Firmin, « brillant, fulgurant, qui
+entrai nait l'oeuvre dans un mouvement endiablé » ; Lafontaine qui
+donnait au rôle, en bon bordelais qu'il était, « une alacrité, un accent
+d'exagération, et de lumière qui plut beaucoup » ; Bressant, Delaunay, «
+élégants et aimables ». Dans l'autre sens, Geffroy, « sinistre et lent
+», Maubant et Silvain, qui tournaient le rôle au père noble ;. Worms,
+qui excellait dans les effets d'émotion contenue et dont le succès fut
+grand ; Leitner qui prenait son maître Worms pour modèle.</p>
+<p><pb/></p>
+<p>L'INTERPRÉTATION MODERNE 263</p>
+<p>ne regardent, et des lèvres qui se crispent. Les gestes réduits au
+minimum. Une statue de la douleur et du dédain, de l'amertume remâchée
+et de l'ironie recuite. Un air extatique qui se change en attaques
+brusquées. Un surhomme, martyr de sa supériorité et qui se venge. Cet
+Alceste-là, dans le loisir de sa méditation solitaire, a jugé les hommes
+et lui-même. Tandis que tous les hommes sont fourbes et lâches, toutes
+les femmes coquettes et frivoles,il a constaté que lui seul est droit,
+généreux, désintéressé...» C'est Alceste professeur de vertu.</p>
+<p>Ainsi s'achève la déformation d'un rôle.</p>
+<p>A ces interprétations erronées, où se sont fourvoyés d'illustres
+artistes, on est heureux de pouvoir opposer l'opinion de l'un des
+meilleurs comédiens du siècle dernier, Constant Coquelin, l'aîné des
+Coquelin, que nous appelions le grand Coquelin. Dans sa brochure Molière
+et le Misanthrope (1881) 1 il aborde cette question, si souvent remise
+en discussion : « Le rôle d'Alceste est-il un rôle comique, est-il un
+rôle dramatique ?» Et, avec un sens de la tradition acquis dans la
+familiarité du répertoire classique, il répond : « Alceste est un
+personnage comique, ainsi que le jouait Mole, qui était dans la
+tradition de Molière, ainsi qu'on devrait toujours le jouer ». Coquelin,
+direz-vous, était un acteur comique... et, avec Sganarelle, vous lui</p>
+<p>ï. Chez OUendorff.</p>
+<p><pb/></p>
+<p>264 LE MISANTHROPE</p>
+<p>objecterez : « Vous êtes orfèvre, monsieur Josse ! » Je vous réponds
+que, comme Molière lui-même, Coquelin avait le goût des rôles tragiques
+et qu'il devait un jour trouver dans une comédie héroïque le plus
+éclatant succès de sa carrière, celui, sans doute, qui empêchera son nom
+de périr.</p>
+<p>Tout de suite, il pose le problème : « Quelquesuns font d'Alceste un
+janséniste, la personnification de l'honnêteté publique indignée des
+moeurs du temps. D'autres, l'élevant dans la sphère des Hamlet, des
+Faust et des Manfred, en font une espèce d'homme de douleur, un être
+symbolique, un mythe, la vertu incarnée, l'idéal humain. »</p>
+<p>Dans l'Ecole des Femmes, la coutume s'est introduite d'apitoyer la salle
+sur la douleur d'Arnolphe pleurant de vraies larmes aux genoux de
+l'insensible Agnès. On sait ce qu'en eût pensé Molière auteur et acteur.
+« Molière ne veut pas qu'on s'attendrisse et comme c'est lui qui joue le
+rôle, ses roulements d'yeux extravagants, ses soupirs ridicules, ses
+larmes niaises font éclater de rire tout le monde. » Le cas de l'Ecole
+des Femmes éclaire celui du Misanthrope.</p>
+<p><pb/></p>
+<p>L'INTERPRÉTATION MODERNE 265</p>
+<p>Sur un point seulement, Coquelin me semble avoir forcé la note. Je pense
+comme lui que l'acteur chargé du rôle d'Alceste doit prendre franchement
+le parti de faire rire, comme tous les jaloux de la comédie, comme
+Amorphe dupé par Agnès, comme . Bartholo berné par Rosine, — sauf
+pourtant dans une scène : on devine laquelle je veux dire. Coquelin fait
+de la grande scène du IVe acte une analyse très poussée, très savante,
+admirable leçon où un</p>
+<p><pb/></p>
+<p>266 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>L'INTERPRÉTATION MODERNE 267</p>
+<p>un mélange plus séduisant de grâce et de malice, plus de charme dans la
+voix et dans le regard... Dans la scène des portraits satiriques, elle
+rendait tous les détails avec un art exquis. Son insolence, dans la
+scène où elle se venge des méchancetés d'Arsinoé, enfonçait cruellement
+le trait avec une politesse poignante qui jamais ne s'écartait du
+meilleur ton... Au cinquième acte, pendant la lecture des billets et
+tandis que les marquis exhalent leur colère, le talent d'écouter était
+chez elle incomparable, et son silence même savait jouer. Toute la
+fierté de la coquette, qui n'avouera jamais sa blessure, se montrait
+dans la manière dont elle recevait le dernier éclat du courroux
+d'Alceste. Dès le premier mot d'un si dur adieu, elle préparait sa
+retraite, commençait une révérence qui finissait avec le dernier vers.
+En sortant, elle reprenait un air de défi ; elle avait un coup
+d'éventail par-dessus l'épaule, qui voulait beaucoup dire et lui donnait
+l'air de congédier ellemême qui la quittait. »</p>
+<p><pb/></p>
+<p>268 LE MISANTHROPE</p>
+<p>;:-JjM</p>
+<p><pb/></p>
+<p>LA MISE EN SCÈNE 269</p>
+<p>LA MISE EN SCÈNE.</p>
+<p>Il rêve de ressusciter autour des personnages</p>
+<p><pb/></p>
+<p>2fo LE MISANTHROPE</p>
+<p>l'atmosphère où ils ont vécu et qui s'évoquait d'elle-même aux yeux des
+contemporains, mais qu'il nous faut restituer par le décor, par le
+costume et aussi par ce que nous savons des usages d'alors.</p>
+<p><pb/></p>
+<p>■aaaBaaaaa</p>
+<p>LÀ MISE EN SCÈNE 271</p>
+<p>Or', aux différentes heures du jour, on ne porte pas le même costume.
+Comment croire qu'Alceste et Philinte n'aient pas un costume plus simple
+pour les sorties du matin ? Comment admettre surtout que Célimène soit,
+depuis le matin jusqu'au soir, en « grand habit ? » C'est assez des
+fameuses trois unités, sans y ajouter encore, contre toute
+vraisemblance, l'unité de costume.</p>
+<p><pb/></p>
+<p>272 LE MISANTHROPEaperçoit</p>
+<p><pb/></p>
+<p>LE MISANTHROPE A L'ÉTRANGER 273</p>
+<p>LE MISANTHROPE A L'ÉTRANGER</p>
+<p><pb/></p>
+<p>274 LÉ MISANTHROPE</p>
+<p>La pièce est composée, en manière de diptyque, de deux parties formant
+un contraste tranché : avant et après la catastrophe.</p>
+<p>i. Traduction d'Amyot, citée par Fr. Victor Hugo, Shakespeare, X, 44.</p>
+<p><pb/></p>
+<p>LE MISANTHROPE A L'ÉTRANGER 275</p>
+<p><pb/></p>
+<p>276 - LE MISANTHROPE</p>
+<p>composée lui-même, immortalisera sa haine contre les hommes.</p>
+<p><pb/></p>
+<p>LE MISANTHROPE A L'ÉTRANGER 277</p>
+<p>LORD PLAUSIBLE</p>
+<p>Voulez-vous donc déclarer la guerre aux coutumes générales et refuser de
+souscrire aux formes d'une bonne éducation ?</p>
+<p>MANLY</p>
+<p>Ce sont des formes, milord, vous avez raison : ce sont de pures formes ;
+aussi n'auront-elles jamais d'empire sur moi. En un mot, je ne veux pas,
+comme le font tous vos esclaves des formes, cacher mon mépris ou ma haine.</p>
+<p><pb/></p>
+<p>278 LE MISANTHROPE</p>
+<p>Nous allons faire connaissance avec cette Olivia, la Célimène de la
+comédie.</p>
+<p>Ce que Manly aime en elle, c'est sa sincérité : «Ses discours comme son
+visage ne connurent jamais d'artifices ; tout en elle est sincère : elle
+hait autant que moi les êtres bas, flatteurs et hypocrites. »</p>
+<p>C'est, en réalité, un monstre de fausseté.</p>
+<p>Elle fait profession de haïr la toilette, les visites, les bals, les
+comédies, de ne souffrir ni mari ni amant, de détester tous les hommes
+en général et de n'en recevoir aucun... Et voici chez elle Novel suivi
+bientôt de lord Plausible.</p>
+<p>Ecoutez-la encore faire le portrait de Manly; en présence de Manly
+lui-même, — toujours comme</p>
+<p><pb/></p>
+<p>LE MISANTHROPE A L'ÉTRANGER 279</p>
+<p>Célimène faisait le portrait d'Alceste, et, cette fois, presque dans les
+mêmes termes :</p>
+<p><pb/></p>
+<p>280 LE MISANTHROPE</p>
+<p>avec une belle femme, par la seule raison qu'elle ne nous accorde pas
+toutes les faveurs que nous pouvons désirer.</p>
+<p><pb/></p>
+<p>LE MISANTHROPE A L'ÉTRANGER 281</p>
+<p>de l'allemand Kotzebue, Misanthropie et Repentir y obtint le plus grand
+succès. On y reconnut le langage de la nature, tel qu'il se parlait à
+cette époque.</p>
+<p>Non loin de là, au château du général comte de Wintersee, auprès de la
+comtesse qui l'a accueillie comme femme de charge, une dame Muller,
+alias Eulalie, apparue un beau jour, venue personne ne sait d'où, que
+tout le monde admire pour sa bienfaisance et plaint pour sa mélancolie.</p>
+<p>Est-il besoin de dire que l'inconnu et Eulalie ne sont autres que le
+mari et la femme?</p>
+<p><pb/></p>
+<p>282 LE MISANTHROPE</p>
+<p>Le major qui retrouve en l'inconnu un ami d'autrefois, aimé comme un
+frère, le comte de Meinau, jure de réconcilier les époux : il fait
+revenir les enfants et organise une pathétique mise en scène. Le mari
+pardonne et sa misanthropie se dissout dans le fleuve de larmes qui de
+la scène déborde sur la salle.</p>
+<p><pb/></p>
+<p>L'ACTUALITÉ DU MISANTHROPE 283</p>
+<p>L'ACTUALITÉ DU MISANTHROPE</p>
+<p><pb/></p>
+<p>_ 284 LE MISANTHROPE</p>
+<p>Le franc scélérat,avec qui Alceste a procès,« par de sales emplois »
+s'est poussé dans le monde... Voulez-vous, aujourd'hui, dans une société
+où la politique et la finance sont reines, retrouver sa trace ? Ne le
+cherchez plus dans les emplois subalternes. Député, sénateur, gouverneur
+de province, ministre ? vous avez le choix.</p>
+<p>Alceste reproche aux oisifs de son temps de</p>
+<p><pb/></p>
+<p>L'ACTUALITÉ DU MISANTHROPE 285</p>
+<p>faire des vers et de les faire mauvais... Plût au ciel que ceux de nos
+jours n'eussent que des divertissements aussi innocents !</p>
+<p>Et moi, je vous soutiens que mes vers sont fort bons. -</p>
+<p><pb/></p>
+<p>286 LE MISANTHROPE</p>
+<p>Alceste trouve pitoyable que son valet de cham-</p>
+<p><pb/></p>
+<p>LA LEÇON DU MISANTHROPE 287</p>
+<p>bre soit mis dans la gazette. Nous y mettons les cambrioleurs et les
+assassins !</p>
+<p>Si Alceste revenait parmi nous... il y trouverait aussi ample matière à
+exercer son humeur chagrine et, le plus souvent, il pourrait se servir
+des mêmes termes qui s'appliqueraient comme d'euxmêmes aux vices de ce
+temps.</p>
+<p>LA LEÇON DU MISANTHROPE</p>
+<p><pb/></p>
+<p>288 LE MISANTHROPE</p>
+<p>Entendons-la bien.</p>
+<p><pb/></p>
+<p>LA LEÇON DU-MISANTHROPE 289</p>
+<p>assez différent, a l'avantage d'être en parfait accord avec les qualités
+mêmes de notre race.</p>
+<p>Il faut parmi le monde une vertu traitable. A force de sagesse on peut
+être blâmable. La parfaite raison fuit toute extrémité Et veut que l'on
+soit sage avec sobriété.</p>
+<p>19</p>
+<p><pb/></p>
+<p>290 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LA LEÇON DU MISANTHROPE 291</p>
+<p>Chaque fois que la réalité lui donne un trop violent démenti, nous
+éprouvons un sentiment de révolte, notre sang bout, nous allons partir
+en guerre... Philinte est là, ce Philinte qui est aussi nousmême, le
+nous-même de la vie en société et de la vie pratique. Il laisse passer
+le premier feu du compagnon qu'il surveille et dont il redoute les
+incartades, il le raisonne, il l'apaise, il lui montre les conséquences
+d'un éclat fâcheux, mais surtout son inutilité. Il l'empêche de rompre
+en visière au genre humain.</p>
+<p><pb/></p>
+<p>292 ; LE MISANTHROPE</p>
+<p>contre les vaines incartades, les démarches excessives ou déplacées, les
+manifestations de l'orgueil ou du mauvais goût.</p>
+<p><pb/></p>
+<p>TROISIÈME PARTIE APRÈS LE MISANTHROPE</p>
+<p>LES DERNIÈRES ANNÉES.</p>
+<p>Et il se retrouve, pour lés fêtes que Louis XIV fait célébrer à
+Saint-Germain, du 2 décembre 1666</p>
+<p><pb/></p>
+<p>294 LE MISANTHROPE</p>
+<p>La prose du Sicilien est tout émaillée de vers. On s'est demandé si
+Molière ne rêvait pas alors •d'une sorte de prose poétique. Soyons
+assurés que cette confusion des genres n'eût pas été du goût de celui
+qui fait dire au maître de philosophie de M. Jourdain que « tout ce qui
+n'est pas prose est vers ».</p>
+<p>Le secret d'une forme plus libre, c'est au vers lui-même que Molière va
+le demander. Le « vers libre » avait fait, deux ans auparavant, son
+apparition dans l'Agésilas de Corneille, joué par la troupe de Molière.
+Il faisait merveille dans les six premiers livres des Fables de La
+Fontaine, qui allaient paraître et dont Molière avait pu avoir lecture.
+Comme La Fontaine dans la fable, Molière</p>
+<p><pb/></p>
+<p>LES DERNIÈRES ANNÉES 295</p>
+<p><pb/></p>
+<p>296 LE MISANTHROPE</p>
+<p>tout de même que Rotrou qui, en 1636, en avait fait ses Sosies : il
+avait tout de suite aperçu le parti qu'il pouvait tirer d'une des
+situations les plus riches en effets comiques qu'il y ait au théâtre :
+ce dédoublement de la personnalité que les dramaturges
+d'aujourd'hui,s'inspirant des psychiatres, ont poussé au sombre, et qui
+sonne si joyeusement dans le rôle de Sosie.</p>
+<p>Donc nous faisons de la comédie un drame noir et de George Dandin comme
+d'Alceste un héros douloureux. Avec quelle raison Paul Mes-</p>
+<p><pb/></p>
+<p>LES DERNIÈRES ANNÉES 297</p>
+<p><pb/></p>
+<p>298 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LES DERNIÈRES ANNÉES 299</p>
+<p>imaginaire. Molière continue sa campagne contre les médecins : c'est que
+le mal dont ils ne savent le guérir, fait chaque jour des progrès. On
+veut que dans le rôle de Pourceaugnac qu'il jouait, — comme Lulli tenait
+le rrôle d'un des médecins porte-lance, — il ait tiré parti des signes
+mêmes qui trahissaient sa détresse physique : « Ces yeux rouges et
+hagards, cette grande barbe, cette habitude du corps, menue, grêle,
+noire et velue... » Or, c'est ici une de ses pièces les plus franchement
+gaies, d'une gaieté débordante et irrésistible !</p>
+<p>Les Amants magnifiques, intercalés, le 4 février 1670, dans le
+Divertissement royal pour les fêtes de Saint-Germain-en-Laye,sont,au
+contraire, une comédie noble et romanesque, d'un genre qui rappelle
+Mélicerte de l'Ile enchantée.. .</p>
+<p><pb/></p>
+<p>3oo LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LES DERNIÈRES ANNÉES 301</p>
+<p>grande joie des lettrés. C'est une des oeuvres les plus réellement
+poétiques qu'il y ait dans tout notre théâtre.</p>
+<p>- (24 mai 1671), d'aborder une question qui se présente avec l'autorité
+du grand critique qui</p>
+<p>. fut, du vivant même de Molière, son admirateur le plus déterminé et le
+meilleur juge de son oeuvre. C'est dans l'Art poétique que se trouvent
+ces vers :</p>
+<p><pb/></p>
+<p>3o2 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LES DERNIÈRES ANNÉES 303</p>
+<p>province. La « provinciale de qualité » fait pendant aux « pecques
+provinciales » des Précieuses ; toute la pièce fait penser à
+Pourceaugnac : Angoulême a son tour après Limoges.</p>
+<p>Je consens qu'une femme ait des Clartés de tout Mais je ne lui veux
+point la passion choquante De se rendre savante afin d'être savante, Et
+j'aime que souvent aux questions qu'on fait Elle sache ignorer les
+choses qu'elle sait.</p>
+<p><pb/></p>
+<p>3o4 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LA MORT DE MOLIÈRE 305</p>
+<p>LA MORT DE MOLIÈRE.</p>
+<p>Molière ne devait plus donner qu'une comédie. Le rire y éclate aussi
+franc, aussi large qu'aux plus beaux jours ; mais, cette fois, il sonne
+le glas de celui qui vient de l'écrire au milieu de mille tourments. Le
+roi revenait de la campagne de Hollande (août 1672) : « pour le délasser
+de ses nobles travaux », il convenait de lui offrir une de ces
+comédiesballets qu'il affectionnait. C'est dans cette intention que
+Molière se mit a.u Malade imaginaire.</p>
+<p>Pourtant ce n'est pas devant le Roi que parut d'abord la pièce commencée
+pour lui. Elle fut représentée pour la première fois, le 10 février
+1673, sur le théâtre du Palais Royal. Molière avait eu à-se plaindre de
+Lulli : la faveur déclarée du Roi pour le Florentin, dans cette
+circonstance, l'avait frappé comme une disgrâce. Ce chagrin s'ajouta aux
+souffrances d'un mal qui ne lui laissait plus guère de répit, et qui
+venait de lui imposer le sujet même de sa pièce.</p>
+<p>L'image de la maladie, le fantôme de la mort, sont partout dans cette
+comédie joyeuse. A travers le cortège de carnaval que font au malade
+bien portant médecins et apothicaires</p>
+<p>20</p>
+<p><pb/></p>
+<p>3o6 LE MISANTHROPE</p>
+<p>Le vendredi 17, il en sentit les atteintes certaines. Baron était auprès
+de lui; il lui fit cette douloureuse confidence : « Tant que ma vie a
+été mêlée également de douleur et de plaisir, je me suis cru heureux ;
+mais aujourd'hui que je suis accablé de peines sans pouvoir compter sur
+aucuns moments de satisfaction et de douceur, je vois bien qu'il me faut
+quitter la partie; je ne puis plus tenir contre les douleurs et lesdéplaisirs
+ qui ne me donnent pas un instant de relâche. Mais,
+ajouta-t-il en réfléchissant, qu'un homme souffre avant de mourir !
+Cependant je sens bien que je finis. » Rien de plus émouvant que ce
+regard jeté par le mourant sur l'ensemble d'une vie qui le quitte, cette
+évocation des temps mêlés de douleur et de plaisir, cette expression de
+détresse finale.</p>
+<p>Ce qui va suivre est d'une grande beauté morale'.</p>
+<p><pb/></p>
+<p>LA MORT DE MOLIÈRE 307</p>
+<p>Ce que fut la représentation donnée dans de telles circonstances,
+Grimarest, qui avait recueilli le témoignage de Baron, va nous le dire.
+Ecoutons — pieusement — son récit :</p>
+<p>Molière représenta avec beaucoup de difficulté ; et la moitié des
+spectateurs s'aperçurent qu'en prononçant Juro dans la cérémonie du
+Malade imaginaire, il lui prit une convulsion. Ayant remarqué lui-même
+que l'on s'en était aperçu, il se fit un effort, et cacha par un rire
+forcé ce qui venait de lui arriver.</p>
+<p>Quand la pièce fut finie, il prit sa robe de chambre et fut dans la loge
+de Baron, et il lui demanda ce que l'on -pensait de sa pièce. M. Baron
+lui répondit que ses ouvrages avaient toujours une heureuse réussite, à
+les examiner de près, et que, plus on les représentait, plus on les
+goûtait. « Mais, ajouta-t-il, vous me paraissez plus mal que tantôt. —
+Cela est vrai, lui répondit Molière, j'ai un froid qui me tue. »</p>
+<p>Baron, après lui avoir touché les mains, qu'il trouva glacées, les lui
+mit dans son manchon pour les réchauffer ; il envoya chercher ses
+porteurs pour le porter promptement chez lui, et il ne quitta</p>
+<p><pb/></p>
+<p>308 LE MISANTHROPE</p>
+<p><pb/></p>
+<p>LA MORT DE MOLIÈRE 309</p>
+<p>les bras de ces deux bonnes soeurs ; le sang, qui sortait par sa bouche
+en abondance, l'étouffa; 'Ainsi, quand sa femme et Baron remontèrent,
+ils le trouvèrent mort.</p>
+<p>Il fallut des démarches «avant qu'un peu déterre obtenu par prière »
+permît l'inhumation. Celle-ci eut lieu le « mardi 21 février 1673 sur
+les neuf heures du soir... sans autre pompe sinon de trois
+ecclésiastiques ; quatre prêtres ont porté le corps dans une bière de
+bois couverte du poêle des tapissiers ; six enfants bleus portant six
+cierges dans six chandeliers d'argent : plusieurs laquais portant des
+flambeaux de cire blanche allumés... Le corps, pris rue de Richelieu...
+a été porté au cimetière de Saint-Joseph et enterré au pied de la croix. »</p>
+<p>La Fontaine avait composé l'épitaphe de son ami :</p>
+<p>Sous ce tombeau gisent Plaute et Térence, Et cependant le seul Molière y
+gît.</p>
+<p>Molière, — la personnification la plus ^complète et la plus haute qu'ait
+rencontrée, en-â^tfû.Kjfterîïps et en aucun pays, le génie de la
+comédie. ''-;$.\</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>ÉDITIONS ET LIVRES A CONSULTER</p>
+<p>Édition originale :</p>
+<p>LE</p>
+<p>MISANTHROPE</p>
+<p>Comédie</p>
+<p>PAR I. B. P. DE MOLIÈRE</p>
+<p>Chez Iean Ribou, au Palais, vis-à-vis la Porte</p>
+<p>de l'Eglise de la Sainte Chapelle</p>
+<p>M. DC. LXVII</p>
+<p>Avec Privilège du Roy.</p>
+<p>in-12 de 84 pages, — contenant la lettre de de Visé sur le Misanthrope —
+L'achevé d'imprimé est du 24 décembre 1666.</p>
+<p>La première édition collective, qui est de 1666, ne contient pas le
+Misanthrope.</p>
+<p>Les OEuvres, de M. de Molière, revues, corrigées et augmentées,
+enrichies de figurines en taille douc-3. PARIS, Denys THIERRY, Claude
+BARBIN et Pierre TRABOUILLET, 1682, 8 vol. in-12. Colleotion des Grands
+Ecrivains de la France. Tome V. Le Misanthrope avec une introduction de
+Paul MESNARD, 1880, Hachette. Editions classiques de Ch.-L. LIVEX (Paul
+DUPONT) PELLISSIER (Quantin), PELLISSON (Delagrave), BOULLY (Belin),
+LANSON et MORNET (Hachette), eto.</p>
+<p><pb/></p>
+<p>312 OUVRAGES A CONSULTER</p>
+<p>Registre de LA GRANGE, publié par Edouard Thierry.</p>
+<p>GRIMAREST. La vie de Molière, 1705.</p>
+<p>SAINTE-BEUVE. Port-Royal.</p>
+<p>Louis VEUILLOT. Molière et Bourdaloue.</p>
+<p>Montausier, sa vie et son temps, Didier, 1860. Eugène DESPOIS. Le
+théâtre français sous Louis XIV,</p>
+<p>Hachette, 1874. Gérard DU BOULAN. L'Enigme d'Alceste, Quantin, 1879. G.
+LARROUMET. La Comédie de Molière, Hachette, 1886. Francisque SARCEY.
+Molière et la Comédie classique,</p>
+<p>Bibliothèque des Annales, 1900. Jules LEMAÎTRE. Impressions de théâtre.
+Paul MORILLOT. Scarron et le genre burlesque, Lecène et</p>
+<p>Oudin, 1888. Gustave REYNIER. Thomas Corneille, sa vie et son théâtre,</p>
+<p>Hachette, 1892. Maurice DONNAY. Molière, Fayard, 1910. Jacques ARNAVON.
+L'interprétation de la Comédie classique : le Misanthrope, Pion, 1914.
+Gustave MICHAUT. Les luttes de Molière, Hachette, 1925. Etienne GROS.-
+Philippe Quinault, sa vie et son oeuvre,</p>
+<p>Champion, 1926. H. MAGENDIE. La politesse mondaine et les théories de</p>
+<p>l'honnêteté en France au xvne siècle de 1600 à</p>
+<p>1660. 2 vol., Alcan, i927L. LACOUR. Molière acteur, Alcan, 1928.</p>
+<p><pb/></p>
+<p>TABLE éàâ 1 MATIÈRES</p>
+<p>AVERTISSEMENT. .. ( .c . .. î. j.. i ;... .~Z i 7</p>
+<p>\ ' ' -^ /</p>
+<p>PREMIÈRE PARTIE</p>
+<p>La jeunesse de Molière 9</p>
+<p>Les années de voyage. Molière en province 25</p>
+<p>L'homme 37</p>
+<p>L'oeuvre. La Comédie avant Molière 42</p>
+<p>Les premières comédies 48</p>
+<p>Les idées de Molière sur la Comédie 63</p>
+<p>Une atmosphère de lutte et de souffrances 72</p>
+<p>Dom Garde de Navarre 77</p>
+<p>DEUXIÈME PARTIE</p>
+<p>LE MISANTHROPE</p>
+<p>CHAPITRE PREMIER</p>
+<p>ANALYSE DE LA PIÈCE</p>
+<p>Acte I : Alceste et Philinte ; l'homme au sonnet.... 86</p>
+<p>Acte II : Le Salon de Célimène 117</p>
+<p>Acte III : Arsinoé 130</p>
+<p>Acte IV : La jalousie d'Alceste 141</p>
+<p>Acte V : La confusion de Célimène 149</p>
+<p>CHAPITRE II</p>
+<p>ÉTUDE LITTÉRAIRE</p>
+<p>L'interprétation 157</p>
+<p>L'accueil du public 160</p>
+<p>La critique 163</p>
+<p>Le moment historique 170</p>
+<p>La composition 177</p>
+<p>Les personnages 184</p>
+<p>La langue, le style, la versification 220</p>
+<p><pb/></p>
+<p>314 - TABLE DES MATIÈRES</p>
+<p>CHAPITRE III</p>
+<p>HISTOIRE DE LA PIÈCE</p>
+<p>La vie du chef-d'oeuvre 233</p>
+<p>J.-J. Rousseau contre le Misanthrope 234</p>
+<p>Fabre d'Eglàntine : le Philinte de Molière 239</p>
+<p>La déformation romantique 249</p>
+<p>L'interprétation moderne 260</p>
+<p>La mise en scène. 269</p>
+<p>L'actualité du Misanthrope 283</p>
+<p>La leçon du Misanthrope- 287</p>
+<p>TROISIÈME PARTIE</p>
+<p>APRÈS LE MISANTHROPE</p>
+<p>Les dernières années 293</p>
+<p>La mort de Molière 305</p>
+<p>MELLOTTÉE, Imp. — Paris-Châteauroux.</p>
+    </div>
+    </body>
+  </text>
+</TEI>

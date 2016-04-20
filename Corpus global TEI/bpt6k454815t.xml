@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Descombes, Charles-Maurice (1782-1862)">Charles-Maurice Descombes</author>
+<title>La Vérité-Rachel : examen du talent de la première tragédienne du théâtre français... / par Charles Maurice</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Descombes, Charles-Maurice (1782-1862)</author>, <title>La Vérité-Rachel : examen du talent de la première tragédienne du théâtre français... / par Charles Maurice</title>, <date>1850</date>,description :,135 pages
+</bibl>
+<publisher>Ledoyen (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k454815t</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1850">1850</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p>LA</p>
+<p>Examen du talent</p>
+<p>DE LA PREMIÈRE TRAGÉDIENNE DU THEATRE-FRANÇAIS.</p>
+<p>Pour de la</p>
+<p>est un principe.</p>
+<p>LA</p>
+<p>PRIX 1 FR. 25</p>
+<p>CHEZ LEDOYEN, LIBRAIRE-ÉDITEUR, GALERIE D'ORLTANS, 3i</p>
+<p>ehez de Nouveautés. 1850</p>
+<p><pb/></p>
+<p>L'Auteur ne reconnaît que les exemplaires ainsi revêtus de sa signature.</p>
+<p><pb/></p>
+<p>DÉDICACE.</p>
+<p>JEUNES GENS</p>
+<p><pb/></p>
+<p>A l'Aulheur du Courrier des Théâstres, De l'ile des Lanternes, te 30 mai
+1850.</p>
+<p>Amy Carolus,</p>
+<p><pb/></p>
+<p>Sera chose de sens, bonne, serviable et de congratulation a tousiours.
+Faictes-la, sans soucy ni malice de horions par becs et plumes, qui tant
+plus demonstreront vostre raison et le grand service de l'object.</p>
+<p><pb/></p>
+<p>ruminans et biendisants auront le faict a haulte estime et moult
+recognoissance.</p>
+<p>Nostre maistre Rabelais vous baise en vray curé de Meudon. Il me donne
+charge de vous dire que beny serez des bons, si, pour guérison de la
+clavelCe de l'esprit, vous pouvez retenir au dehors,du grand troupeau et
+mettre dans leur droit chemin les Ajoutons de</p>
+<p>PANURGE.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LA VÉRITÉ -RACHEL.</p>
+<p>LA CAMARADERIE.</p>
+<p>C'est la plus lamentable de nos infortunes littéraires.</p>
+<p>Mademoiselle Rached est un principe</p>
+<p>Certes, Cathos, des Précieuses Ridicules, rendrait pleine justice à
+cette courageuse assertion, en lui appliquant ce qu'elle dit de
+l'impromptu de Mascarille t Je n'ai encore rien vu de cette force-là. »
+Un principe! D'où vient? Mais écoutons</p>
+<p>Mademoiselle Rachel est le pivot sur lequel Il gravite, depuis plusieurs
+années, toute la fortune</p>
+<p><pb/></p>
+<p>«de la Comédie-Française; c'est, aujourd'hui plus que jamais, uN
+PRiNcipB. Eu elle se personnifie le théâtre.</p>
+<p>Entraînée par cette belle décision vers les conséquences de l'axiome
+abyssus abyssum invocat, la railleuse n'a pas craint d'ajouter</p>
+<p><pb/></p>
+<p>Camaraderie a poussé un peu loin l'abus des vingtcinq lettres de
+l'alphabet.</p>
+<p>Toutefois, puisque le point de départ est ainsi déterminé, puisqu'en
+prenant pour texte d'une admonestation générale, le talent le plus
+considérable en réputation, le plus élevé en dignités, celui sur lequel
+se concentrent, avec le plus d'apparentes raisons, les bravos d'une
+assemblée choisie et les exclamations des louangeurs c'est le plus
+assuré moyen de servir utilement et d'être entendu, je l'accepte.</p>
+<p>Raisonner d'après un principe, quoi de mieux pour trouver la vérité</p>
+<p>Il n'est pas impossible,d'ailleurs,que, de ce foyer, jaillissent
+quelques lueurs sur d'autres points. Du grand, au petit, si le domaine
+de l'art ne se couvre pas tout de suite de convertisseurs, il suffira,
+en attendant mieux, qu'il recèle assez de convertis pour se persuader,
+en catéchisant autrui, que l'éloge immodéré a fait son relai, et
+qu'aujourd'hui* avant d'admirer des talents quelque part, il faut
+d'abord s'assurer qu'ils y sont.</p>
+<p><pb/></p>
+<p>chercheur patient et bien intentionné, d'une découverte favorable aux
+progrès de la science.</p>
+<p>Et le talent de mademoiselle Rachel n'est rien moins qu'un soleil.</p>
+<p>Il a des prôneurs, des partisans, des avocats, des procureurs, etc. Tant
+mieux.</p>
+<p>Je ne crois pas avoir souvent oublié cette recommandation du maître.
+Est-ce ma faute, s'il a fallu quelquefois grêler sur le persil? Dans
+cette forêt-là, les chênes sont si rares</p>
+<p>Nous allons voir si, comme le prétendent la Camaraderie, le Puff, la
+Réclame et les Faiseurs, il s'y trouve un cèdre du Liban.</p>
+<p><pb/></p>
+<p>HISTOIRE PRÉLIMINAIRE</p>
+<p><pb/></p>
+<p>LES COMMENCEMENS.</p>
+<p><pb/></p>
+<p>Mademoiselle Rachel a aussi traversé le Conservatoire mais cela doit
+nous être parfaitement égal.</p>
+<p><pb/></p>
+<p>PREMIER DÉBUT.</p>
+<p>Les circonstances pressaient et les temps étaient</p>
+<p><pb/></p>
+<p>PRÉSENTATION.</p>
+<p><pb/></p>
+<p>SECOND DÉBUT.</p>
+<p>Dans ces entrefaites, l'administration changea de mains. De Caissier
+qu'il était au Théâtre-Fran-* çais, M. Védel s'éleva,. hors de tour, au
+grade do Directeur. C'était aussi par rang d'ancienneté, car il avait
+jadis joué la tragédie sur ces planches devenues son épave. Avec lui,
+une bifurcation dramatique s'établit entre le premier et le second
+théâtre; la troupe de la rue de Richelieu desservit, en même temps, sa
+salle et celle de l'Odéon. La spéculation réussissant mal, et
+mademoiselle Rachel étant prête, on résolut de la produire d'abord au
+faubourg Saint-Germain tant pour ménager quelques susceptibilités de
+coulisses,que pour juger des risques possibles sur l'autre scène.
+Plusieurs représentations en décidèrent; il y eut succès, succès
+tranquille, mais suffisant pour que la débutante pût traverser le fleuve
+sans trop d'inquiétude.</p>
+<p><pb/></p>
+<p>A QUI EST-ELLE'?</p>
+<p>Christophe Colomb, console-toi dans la tombe, tu n'auras pas
+d'Améric-Vcspuce pour te voler ta découverte 1</p>
+<p><pb/></p>
+<p>TROISIÈME DÉBUT.</p>
+<p>Il y avait de l'engouement, mais aussi de la justice.</p>
+<p><pb/></p>
+<p>LES CAUSES.</p>
+<p><pb/></p>
+<p>pèce, de bonheurs inouïs, inconnus avant elle, et qu'après elle nulle
+autre ne reverra, la prédestinée des Félix s'est-elle trouvée enlacée
+dans un réseau d'or et d'airain qui la retenait, quoiqu'elle en eût,
+sous l'averse incessante de toutes les prédilections de la fortune ?</p>
+<p>Remontons.</p>
+<p>Les Jeunes hommes prenaient du ventre.</p>
+<p><pb/></p>
+<p>L'acteur Bocage disait « Grand-papa Talma et riait.</p>
+<p>Il y avait bien encore, dans l'attirail du théâtre, pour seconder
+l'adultère, l'impiété, le juron et les lieux communs d'une morale
+lascive, il y avait toujours des dagues de Tolède, des poisons, des
+contrepoisons, des coffrets mystérieux, de fausses portes, des doubles
+clés, des trapes et chausse-trapes, des cheminées mécaniques, de
+vertueux scélérats, d'infâmes honnêtes gens, des vivants- enterrés, des
+morts ressuscités, et enfin tout ce que la poétique du mélodrame
+primitif avait manipulé pour effrayer les petits enfants de nos aïeux.
+Mais c'était autant de boulets perdus, dont on se rit après la bataille.
+La compression s'en allait finissant, et les barbares organisaient leur
+fuite, en essayant de faire bonne contenance.</p>
+<p><pb/></p>
+<p>ces fortes conceptions de la Lanterne magique qui avaient émerveillé son
+berceau.</p>
+<p>D'autres causes, que je dois écarter de mon sujet et dont l'influence
+s'ajoutait au désarroi de la littérature dramatique, appelaient une
+vigoureuse secousse, une diversion, quelle qu'elle fût.</p>
+<p><pb/></p>
+<p>Nous comptons soixante chefs-d'oeuvre. Lui, que laissera-t-il ?</p>
+<p><pb/></p>
+<p>Ah que d'ordinaire les commencements de la vie d'artiste dramatique sont
+différents! Et pourquoi mademoiselle Rachcl ne les a-t-elle pas connus?</p>
+<p><pb/></p>
+<p>LES CLAQUEURS.</p>
+<p>Je n'accuserai point l'avidité de ses désirs. Quelque insatiables qu'ils
+eussent été, il y avait, dans ces ovations inattendues et royales, de
+quoi satisfaire aux exigences les plus effrénées. Mais je dirai que
+l'engeance,</p>
+<p>présent le plus funeste</p>
+<p><pb/></p>
+<p>Gare au spectateur qui ne le partage pas Il sera honni, bousculé, et,
+après l'avoir voué aux dieux infernaux, ils le jetteront aux mains des
+gardiens de la paix publique. Les battus paient l'amende.</p>
+<p>Attendez</p>
+<p>Cependant, la possession de ces occupants n'est</p>
+<p><pb/></p>
+<p>Depuis douze ans, quel magnifique arriéré pour les pauvres 1</p>
+<p>Après cela, il y a peut-être un abonnement, uné transaction amiable qui
+conserve le principe. Dans ce cas, mademoiselle Rachel ferait du bruit à
+prix fixe et avec garantie du gouvernement.</p>
+<p><pb/></p>
+<p>LES JUIFS.</p>
+<p>Répandus au parterre, ils en couvrent la face.</p>
+<p><pb/></p>
+<p>D'autres ont pour mission de faire le foyer. Ils s'y mêlent, pendant
+lesentr'actçs, aux spectateurs formulent bien vite un jugement flatteur;
+combattent ceux qui ne le sont pas s'extasient sur des beau.tés que
+personne n'a remarquées comparent à</p>
+<p><pb/></p>
+<p>UNE DÉPÊCHE.</p>
+<p>La victoire est pour les gros bataillons.</p>
+<p><pb/></p>
+<p>Pour un rôle de tragédie classique.. 350 ho mmes Il Pour un rôle
+d'auteur tragique mort. 215 »</p>
+<p>» Pour un rôle de tragique vivant. 530 n</p>
+<p>Pour un rôle de diame moderne. 1,860 »</p>
+<p>a Pour un rôle de comédie actuelle. 1,280 »</p>
+<p>» Pour un rôle de Molière, 4 hommes et un caporal.</p>
+<p>» La réserve campera dans les maisons voisines.</p>
+<p>» Les clairons se tiendront sur la porte, pour voir venir les officiers
+d'ordonnance, qui remettraient l'ordre de marcher au canon.</p>
+<p>» Les cadres ne cesseront pas d'être au grand complet. » Tous les gants
+dans les havre-sacs.</p>
+<p>» La première infraction au précédent article, sera punie de huit jours
+d'Odéon, et la seconde de quinze jours; ou le boulet, au choix.</p>
+<p>» Si des régiments devenaient nécessaires, etc. etc. etc. » Et les
+gouvernements européens cherchent le modèle d'une bonne Constitution 1</p>
+<p><pb/></p>
+<p>LES CASSOLETTES.</p>
+<p>Restent, pour dernier renfort de générosité contestable, les cassolettes
+typographiques, dont la périodicité va semant l'éloge ébouriffant,
+mirobolant, gigantesque, abracadabrantetsupercoquentieux, du centre aux
+extrémités, et des extrémités, aux entrailles de notre globe toujours en
+lecture. Humezen les vapeurs et vous serez de l'avis de la tragédienne,
+ainsi que de celui de ses grands camarades; vous croirez que Dieu est
+revenu pour elle aux miracles de l'Ecriture, et vous direz aussi
+mademoiselle Rachel est un principe.</p>
+<p>Et toi, absurdité, tu n'es pas un vain mot.</p>
+<p><pb/></p>
+<p>doit être jugée. Sinon, de l'équité, blessée par le manque de
+pondération distributive, résulterait une anomalie deux fois funeste à
+l'art du théâtre mademoiselle Rachel dévorant l'avenir, n'existerait
+plus pour le progrès et les artistes dramatiques, privés d'égalité
+devant la loi commune, en même temps que de lumières, tomberaient, sans
+estime et découragés, jusqu'aux dégrés les plus infimes de la condition
+d'artisan.</p>
+<p><pb/></p>
+<p>BAGAGE.</p>
+<p>La récapitulation des rôles qu'a joués mademoiselle Rachel se compose
+comme il suit</p>
+<p>Dix-huit rôles de tragédies classiques de l'ancien répertoire;</p>
+<p>Deux des tragédies, d'auteurs modernes morts, qu'elle n'a pas établis,
+Frédégonde, et Jeanned'Arc,</p>
+<p>Huit de tragédies d'auteurs vivants, dont trois qu'elle n'a pas établis
+Marie-Sluart, Lucrèce et fullie (ces deux derniers dans la même pièce);
+Deux de comédies de Molière</p>
+<p>Quatre de comédies d'auteurs vivants, en comptant le Prologue de
+réouverture, dont trois établis par elle la Comédie-sérieuse, Lcsbie et
+Aérienne Lecouvreur</p>
+<p>Et enfin, un dans le drame romantique.</p>
+<p>En tout, trente-cinq rôles.</p>
+<p>LES OUVRAGES SONT</p>
+<p>EN TRAGÉDIE</p>
+<p>Horace. Andromaquc. Cinna. Mithridate. Esther. Bajazet. Iphigénie en
+Aulide. Le Cid. Oreste. Don Sonche d'Arragon. Bérénice. Polyeucte.
+Phèdre. Britannicus. Athalie.</p>
+<p>Frédégonde et Brunehaut. Jcanne-d'Arc.</p>
+<p>Marie-Stuart. Judith. Le Vieux de la Montagne. Catherine Il. Virginie.
+Lucrèce, CVopâlre.</p>
+<p><pb/></p>
+<p>EN COMÉDIE</p>
+<p>Tartufe, rôle de Dorine. Le Dépit amoureux, rôle de</p>
+<p>lllarinette. L'ombre de Molière, rôle de la Comédie-sérieuse. Lesbie.
+Adrienne Lecouvreur. Mademoiselle de Bclle-Isle.</p>
+<p>EN DRAME</p>
+<p>Angélo, tyran de Padoue rôle de la Tisbé.</p>
+<p><pb/></p>
+<p>DISCUSSION.</p>
+<p>ANCIEN REPERTOIRE.</p>
+<p>On comprend que le ressassement de tout ce qui a été dit et redit sur
+nos chefs-d'œuvre n'entre point dans les projets de mes constatations.
+11 s'agit d'une analyse particulière, dans la forme et d'utilité
+générale, au fond, de l'exécution des rôles par mademoiselle Rachel, des
+fautes qu'elle y commet, des erreurs qu'elle y acclimate, encouragée par
+des pervertisseurs de tous les étages. Heureux si je puis préserver
+l'éminente artiste du malheur de voir traîner l'âge mûr de son talent
+sur la claie qui remplacerait le tapis de fleurs étendu sous ses
+premiers pas. Ce péril Je désire le conjurer et je le tente, parce qu'on
+m)a dit que, libre des coteries et contre-coter ies d notre temps, j'y
+pourrais parvenir.</p>
+<p>HORACE, de CORNEILLR. Rôle de Camille.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Aussi, qu'arrive-t-il? Prévenus de cela, nombre de spectateurs quittent
+la salle avant la subite guérison de Camille, afin d'emporter leur
+plaisir intact, et font, sans le vouloir, une offense au dévouement des
+acteurs immolés par mademoiselle Rachel. Pourquoi ces messieurs le
+souffrent-ils? Ne feraientils pas mieux de supprimer le cinquième acte?
+Corneille le prendrait comme il voudrait; qu'est-ce que ce rimailleur
+auprès de la grande tragédienne? Je ne sais, mais, ou le geste et les
+inflexions de la voix m'ont bien trompé, et d'autres personnes ont
+partagé mon erreur, ou, dans les premières représentations d'Horace, il
+m'a semblé que Camille,</p>
+<p><pb/></p>
+<p>trop dédaigneuse des bancs de l'école» comprenais, 1,rè&amp; plaisamment</p>
+<p>Ce Crée si renommé, qui, depuis tant d'années,</p>
+<p>Au pied dp J'Aventin pcédit nos d.fislinccs»</p>
+<p>Le spectateur ignorant pouvait croire sans trop mériter d'être châtia,
+que le susdit Grçç se tenait aux pieds d'un vieillard Mais la cacophonie
+n'a pas duré longtemps, pous entendions mieux. Peut-être aussi ce que
+dilArouet» dans ce passage de ses Commentaires, vçnait-il d'être
+transmis aux étudiants de la salle, qui y avaient lu « Un Grec qui fait
+des prédictions au pied d'une montagne. Réparatioq d'honneur.</p>
+<p><pb/></p>
+<p>croyait regarder par le gros bout de ja lorgnette etj voir une
+tragédienne qui allait venir. Mais, depuis. qu'abusée par la flatterie,
+mademoiselle Rachel s'éloigne du sentier qu'elle aval). paru se tracer,
+Her-, mione n'est plus avec elle c'est une diseuse, qui a ses repèrçs d^
+succès marqués avec }es applaudis-. seurs^ comme lei peintres en ont
+ajec. le machiniste. 04 y yoit peu de d/uTé/ence entre un(1 élève
+serinée par le Conservatoire, e^ la débutante échappée de
+l'arrière-boutique où elle a étudié Racine sur le piano.</p>
+<p>CINNA, de Corneille. Rôle d'Émilie.</p>
+<p><pb/></p>
+<p>l'extérieur le plus simple, qui tricotait. L'opinion qu'il en conçut
+s'effaça bientôt, au seul aspect de mademoiselle Dumcnil entrant sur la
+scène avec une inexprimable majesté. Elle n'avait encore rien dit, que
+l'homme d'Albion, frappé d'un changement si extraordinaire, si soudain,
+s'écria « Ah\ » c'est Élisabeth (fJngleterre\ L'instruction faisait
+cela; son absence fait le contraire.</p>
+<p><pb/></p>
+<p>amante plus impertinente que sensible, ne sachant ce que c'est qu'une
+fille adoptive selon la loi romaine déclamatrice et subjuguée par la
+clémence d'Auguste, sans recevoir une étincelle de cette magnanimité
+sans tenir sa véritable place sur le devant du tableau. Prenez les
+contraires, et vous aurez le rôle.</p>
+<p><pb/></p>
+<p>A mes tristes regards, va, cesse de t'pffrir,</p>
+<p>Il serait plaisant que mademoiselle Rachel empruntât ce bandeau de
+revendeuse au magasin ESTHER, de RACINE. Rôle principal.</p>
+<p>Plus coulable qu'ailleurs, puisque la tendre Esther est juive comme elle
+et que son intérêt réagit sur toute la natioii, mademoiselle Rachel n'a
+pas même une idée de la modestie, de la douceur, du charme jeu du noble
+embarras de cette jeune sou-</p>
+<p><pb/></p>
+<p>elle nej'a p$u{ y^e dans cet, 'acier) poli aussj fujèje qi^ po^ glace?
+de Ypnjse, placé devant ses yeux par la. main, du jjd.èle^ roi de Perso.
+son, ina.ri Je pe trouve q"en vou? je pe sais quelle grâce,</p>
+<p>Qui me charme toujours et jamais ne me lasse,</p>
+<p>De l'aimable vértti, doux et puissants attraits!</p>
+<p>u ¡ Tout respirè en Esther, l'innocence tet la paix. 1</p>
+<p>TANCRÈDE, de VOLTAIRE. Rôle d'Aménaïde, Les vers rimes çroisées de cetj^
+mauvaise tragédie et le caractère emporté de l'héroïne, sont choses peu
+agréableset dont il faut savoir user adroitement, Or, l'adresse dans le
+sens qui convient</p>
+<p><pb/></p>
+<p>BAJAZET, de RACINE. Rôle de Roxane.</p>
+<p>A l'étoffe près, et sauf quelques irrégularités de maintien, quelques
+excès de déclamation sourde,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>b Oui, je t'ai trompé, Je me suis jouée de ik jalousie, et j'ai su, de
+ton affreux sérail, faire un lieu de délices et de plaisirs. Tu étais
+étonné dé i ne point trouver en moi les transports de l'amour tsi tu
+m'avais bien connue, tu y aurais trouvé toute *la violence de la haine,</p>
+<p><pb/></p>
+<p>NICOMÈDE, de CôMtettii. Rôle de laodice. Cette fois» l'erreur de
+.mademoiselle Rachel était si bien caractérisée, qu'e^lermême s'eçt
+rendu jus.tice en laissant là, tout despite, ço rôle où elle nV .vait,
+vu que du fou. éteint. Si son esprit eût été plus labouré par le travail
+du cabinet, il n'aurait</p>
+<p><pb/></p>
+<p>pas montré ces aspérités de l'inintelligençe sur lesquelles s'est brisée
+Laodice. 'Si plus de délicatesse dans son instinct la guidait mieux,
+elle aurait moins faiblement saisi le ton de Comédie-héroïque qui règne
+dans Nicomède. Et, du haut de ce ton qu'elle a parfois trouvé elle ne
+serait pas descendue au prosaïsme dont elle a damasquiné de si beau
+vers. Si elle continue, de longtemps mademoiselle Rachel ne comprendra
+Corneille.</p>
+<p><pb/></p>
+<p>Faute d'amour, blessée,</p>
+<p>Vous mourûtes encor, par Rachel délaissée.</p>
+<p>IPHIGÉNIE EN AUL1DE, de RACINE. Rôle d' Eriphile.</p>
+<p><pb/></p>
+<p>ORESTE, de VOLTAIRE. Rôle d'Electre.</p>
+<p><pb/></p>
+<p>a Filles de la vengeance, armez-vous, armez-moi. »</p>
+<p><pb/></p>
+<p>Fers, tombez de ses mains, le sceptre est fait pour elle 1</p>
+<p>0 déception pas un spectateur ne comprit l'apologue, nul ne songea à
+l'application et les fers eurent, pour tout bonheur, l'avantage de
+tomber en compagnie.</p>
+<p>DON SANCHE D'ARRAGON, de CORNEILLE. Rôle d'Isabelle.</p>
+<p><pb/></p>
+<p>BÉRÉNICE, de Racine. Rôle principal.</p>
+<p>Le sens diamétralement opposé au don d'éprouver, a été prodigué à
+mademoiselle Rachel. Il y a donc solution de continuité absolue entre
+elle et le rôle de Bérénice, où la sensibilité est de toute rigueur, car
+il en est l'essence la condition sine qua nihil. Avec ce personnage,
+l'attitude statuaire est inutile. Titus demande, pour qu'on lui plaise,
+un naturel noble, l'absence de tout apprêt, une grâce abandonnée et un
+cœur ouverts aux effusions du sien. Cela me dispense d'ajouter que
+mademoiselle Rachel n'a pas, le moins du monde, réussi dans Bérénice.
+Elle y a renoncé aussitôt et a sagement fait le Public aurait pu vouloir
+retor quer ainsi le tendre argument de l'empereur romain Depuis douze
+ans entiers, chaque jour je vous vois,</p>
+<p>Et ne crois pas vous voir pour la première fois,.</p>
+<p><pb/></p>
+<p>Si la tradition ne nous apprenait que ïnademoiselle Fleury a
+supérieurement joué Pauline, on ne croirait pas que talent d'actrice y
+pût atteindre. On voit tout de suite qu'avec la stérilité de ses idées
+scéniques, avec l'étroitesse de son faire et la monotonie de son dire,
+mademoiselle Rachel n'a pu, et sans doute ne pourra pas s'acquitter,
+même mé-</p>
+<p><pb/></p>
+<p>Son sang, dont tes bourreaux viennent de me Couvrir,</p>
+<p>M'a dessillé les yeux et me les vient d'ouvrir.</p>
+<p>De ce bien heureux sang tu me vois baptiséeï</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ce rôle n'en est pas moins un de ceux où les hommes de perdition
+l'applaudissent avec le plus d'aveugle fanatisme. Conséquence.</p>
+<p>PHÈDRE, de RACINE. Rôle principal.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>BRITANNICUS, de RACINE. Rôle d'Agrippine. Une partie de ce qui empêche
+mademoiselle Rachel de jouer le rôle de Phèdre, s'applique également à
+celui d'Agrippine, dont la moindre exigence est d'avoir de nombreuses
+années de théâtre. La profondeur de ce caractère s'accorde on ne peut
+plus mal avec l'éclat superficiel du talent de cette tragédienne. Nulle
+part l'inculture de l'esprit n'est plus déplacée que dans ce personnage,
+où la latinité romaine s'échappe par tous les pores; que dans cette
+pièce écrite sur papyrus, où enfin la tragédie devient livre et l'acteur
+historien. Mademoiselle Rachel en est écrasée. Et puis, on a plus envie
+de rire que de s'émotionner, quand elle parle de ses flancs qui ont
+porté un Néron, dont elle serait la sœur cadette. Cela ne saurait
+passer, aux yeux des amateurs impartiaux, que pour un travestissement à
+l'usage de ces actrices qui ne se refusent rien, parce qu'on ne peut
+rien leur refuser.</p>
+<p><pb/></p>
+<p>ATHALIE, de RACINE. Rôle principal.</p>
+<p>Du reste, elle y conserve la déclamation ogresse transmise par les
+anciennes, et qui achève ici l'héroïne de Perrault, en la faisant parler
+dans ses cordes.</p>
+<p><pb/></p>
+<p>TRAGÉDIE. -AUTEURS MODERNES MORTS.</p>
+<p>FRÉDÉGONDE ET BRUNEHAUT, de NjSpomcCÉNE-LEMEItCIER. Rôle de Frédégonde.</p>
+<p><pb/></p>
+<p>AUTEURS IIIYANS.</p>
+<p>MARIE-STUART, de M. LEBRUN. Rôle</p>
+<p>principal.</p>
+<p><pb/></p>
+<p>transports du courroux le plus légitime, Ce vers t Je ne fus pas
+coupable, et rotw ne Fêtes point,</p>
+<p>JUDITH,de M"» de Gjrardin. -4- Rôle principal. Mademoiselle Rachel n'a
+rien trouvé de grandiose dans l'épouse de Manassé, dans cette femme qui
+conçoit et réalise un homicide pour sauver ses concitoyens de l'horreur
+de périr par la soif, en attendant que leur ville tombe aux mains du
+vainqueur. Elle a répété le rôle avec indifférence ne cherchant pas à
+lui demander plus que si l'actrice vaquait, dans le foyer, au travail
+mnémonique du matin. Elle a, nQtamment, évité le sens biblique qui
+l'aurait tiré des grecques et des romaines se-</p>
+<p><pb/></p>
+<p>C'était ses yeux, sa voix et quasi son langage.</p>
+<p>LE VIEUX DE LA MONTAGNE, de M. LÂTOURSAINT-YBARS,</p>
+<p>lui a dû les traits les plus saillants de son nonsuccès</p>
+<p>CATHERINE II, de M. Hippolyte ROMAND,</p>
+<p>n'a pu se relever un instant sous elle;</p>
+<p>VIRGINIE, de M. LATOuR-SAINT-YBARS,</p>
+<p>LUCRÈCE, de M. PONSARD,</p>
+<p>est allée re-mourir des grands coups qu'elle lui a portés.</p>
+<p><pb/></p>
+<p>CLÉOPATRE, de M"" de GIRAnDIN,</p>
+<p>a trouvé dans son jeu un aspic plus méchant que l'autre.</p>
+<p>Les rapports qui existent entre Lucrèce et Virginie ont conduit
+mademoiselle Rachel aux mêmes fautes dans la tragédie de M. Ponsard.
+Egalement privée de jeunesse et de candeur, l'héroïne n'a rien eu de
+l'innocente surprise d'une enfant amenée,</p>
+<p><pb/></p>
+<p>par violence, dans l'appartement de son ravisseur. Et même je
+n'affirmerais pas qu'elle ait témoigné, par des appréhensions,
+inexplicables pour la pureté de Virginie, une très grande ignorance des
+projets de Sextus.</p>
+<p><pb/></p>
+<p>FANTAISIES DE MADEMOISELLE RACHEL.</p>
+<p>Je classe sous ce titre les velléités inintelligentes d'actrice à
+prétentions et sans frein, que s'est permises mademoiselle Rachel,dans
+le genre comique, sans en excepter celle par laquelle je débute, et qui,
+en d'autres mains, eût appartenu au genre tragique.</p>
+<p>PREMIÈRE FANTAI6IB. Par une pensée digne du théâtre de Nanterre, ayant
+remarqué que Lucrèce et Tullie ne se rencontrent pas chez M. Ponsard,
+mademoiselle Rachel a voulu s'affubler des deux rôles, dans la même
+soirée. C'est aux planches du Théâtre-Ventadour qu'elle a fait cette
+tache. Pour essayer de la rendre excusable, on l'avait annoncée au
+bénéfice de sa sœur Sarah, qui, ce jour-là, s'est nommée Rachel.</p>
+<p><pb/></p>
+<p>Rachel n'y a découvert que le fait d'un tour de force, une espèce de
+danse de corde, tantôt sur le pied de Lucrèce, tantôt sur le pied de
+Tullie, et toujours aux dépens de l'équilibre. Sans naturel ni grâce
+dans le premier personnage, et n'ayant, pour le second, ni la flamme ni
+le ressentiment de l'amour dédaigné qu'il demande, la tragédienne n'a
+semblé occupée que de charger ses costumes de jouer les deux rôles, en
+donnant, en faveur du dernier, toutes les marques d'une vive
+satisfaction. Elle n'a eu, pour le reste, qu'un corps, un visage, une
+récitation et des manières; de sorte qu'une notable portion du public a
+fini par ne plus savoir auquel il avait affaire. S'il l'avait demandé à
+mademoiselle Rachel je crois qu'elle-même aurait été fort embarrassée de
+le dire.</p>
+<p><pb/></p>
+<p>TROISIÈME FANTAISIE. L'OMBRE DE MOLIÈRE de M. BARBIER. Rôle de la
+Comédie sérieuse.</p>
+<p><pb/></p>
+<p>nous ayant appris qu'il existait une Comédie SERIEUSE, force nous a été
+de recevoir mademoiselle Rachel dans ce personnage. Elle a joué la
+Comédie ennuyée, et il y a eu contagion.</p>
+<p><pb/></p>
+<p>Ce qui est d'un autre genre, et ce qu'il serai bien difficile de croire,
+si l'on n'en était pas témoin, c'est ce qu'imagine mademoiselle
+Rachel,pour des-</p>
+<p><pb/></p>
+<p>Ont su se faire un front qui ne rougit jamais?</p>
+<p>Assurément, si pareille chose était arrivée dans le salon de la duchesse
+(et quelle duchesse madame de Bouillon aurait sonné ses gens pour faire
+remettre mademoiselle Lecouvreur aux mains du Lieutenant-Général de
+Police, lequel se serait empressé d'envoyer l'insolente au For-Lévêque.</p>
+<p><pb/></p>
+<p>Malgré cela mademoiselle Rachel, qui semble</p>
+<p><pb/></p>
+<p>Par simple annotation, remarquons en passant que la Fantaisie-^ drienne
+Lecouvreur devrait compter pour trois, mademoiselle Rachel ayant, par la
+première, accueilli ce rôle refusé, par la seconde, et joué,en vertu de
+la troisième. Mais ne soyons pas de ceux qui prêtent aux riches, gardons
+notre petite monnaie pour les autres.</p>
+<p><pb/></p>
+<p>LA MARSEILLAISE.</p>
+<p>On a prétendu que la tragédienne, dont la ren-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Et mademoiselle Rachel a eu bien d'autres fan-</p>
+<p>taisies 1</p>
+<p>première scène ne les aient pas payées trop cher 1</p>
+<p><pb/></p>
+<p>PARTICULARITÉ.</p>
+<p><pb/></p>
+<p>GÉNÉRALITÉ.</p>
+<p><pb/></p>
+<p>BILAN.</p>
+<p>TROIS CATÉGORIES.</p>
+<p><pb/></p>
+<p>SECONDE CATÉGORIE. Emilie. Chimène. Eriphile. Pauline. Marie-Stuart.
+Virginie. Cléopâtre. Lesbie. Adrienne Lecouvreur, et Mademoiselle de
+Belle-Isle.</p>
+<p>Troisième CATÉGORIE. Camille. Hermione. Roxane et Phèdre.</p>
+<p><pb/></p>
+<p>ROLES JOUÉS 0'ORIGINE.</p>
+<p>Ces rôles sont au nombre de cinq, savoir Judith. Fatime, du Vieux de la
+Montagne. -Catherine II. Virginie et Cléopâtre.</p>
+<p>Autant de travaux, d'études, de dépenses, de temps, de recettes,
+d'espérances et d'encouragements perdus pour le théâtre,père nourricier
+de l'ac-</p>
+<p><pb/></p>
+<p>trice? pourles écrivains, ses appuis, et pour leg acteurs, ses confrères</p>
+<p>En douze années de théâtre deux rôles, deux mourants 1</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>LA TRAGÉDIENNE, DE LA TÊTE AUX PIEDS.</p>
+<p>SES QUALITÉS. Elles sont grandes.</p>
+<p><pb/></p>
+<p>Mademoiselle Rachcl peut hardiment se constituer l'héritière de cet éloge.</p>
+<p>Elle a le mérite de rendre sa figure théâtrale, d'illuminer son front
+qui s'y apposait, at d'armer ses yeux, qui -ne sont pas d'une entière
+ressemblance, de plus de passion qu'ils n'en paraissent susceptibles.</p>
+<p>Après cela, sa première qualité est une excellente voix native, qui a
+deviné, chemin faisant, la vibration,si heureuse,de celle de Talma, et
+dont le pouvoir serait indicible, si elle voulait abjurer tout
+charlatanisme.</p>
+<p><pb/></p>
+<p>Je retourne la médaille. SES DÉFAU'PS.</p>
+<p>Elle n'a pas d'instruction.</p>
+<p>Elle n'a qu'une forme extérieure.</p>
+<p>Par la trivialité qui court, tant du fait des ac-</p>
+<p><pb/></p>
+<p>Loin de là, partout et toujours, mademoiselle Rachel entre en scène et
+se donne pour la même</p>
+<p><pb/></p>
+<p>Aimez-vous la statue? Elle en a mis partout.</p>
+<p>Ma sœur, que je vous dise une bonne nouvelle,</p>
+<p>Qu'elle a tort de vouloir que je vous entretienne 1</p>
+<p>Croit-elle ma douleur moins vive que la sienne?</p>
+<p>La joie théâtrale de mademoiselle Rachel est fort sujette au spleen.</p>
+<p>Par une petite dérogation au titre de cet article, je dirai ceci
+Remarquablement antique, sous les parures et les vêtements grecs et
+romains,l'indivi-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Son jeu est partout le même.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>le ron-ron du débit, forment toute la science de sa diction. Au lieu de
+consulter la situationet de chercher le caractère, elle va, tout droit
+et tout d'une traite, dans un rôle. Elle croit que tout est obtenu quand
+elle a récité les vers en les saupoudrant de leurs iugrédiens
+d'habitude, le chant noté, pompeux, bredouilleur, tonnant ou mielleux,
+presque toujours en sens inverse de la situation.</p>
+<p>L'homogénéité est donc absente du jeu de mademoiselle Rachel et je doute
+que la tragédienne</p>
+<p><pb/></p>
+<p>Elle n'a pas de sensibilité.</p>
+<p><pb/></p>
+<p>Unique et singulier talent, qui triomphe dans la reproduction des
+natures perverses, dans l'expression des sentiments amers et dans
+l'âcreté dès paroles qui offenseht t</p>
+<p>Dès lord, ni élans trouvés, ni initiative, ni rien</p>
+<p><pb/></p>
+<p>de ce qui tombe subitement des cieux, aux invocations de l'artiste
+dramatique. Mademoiselle Rachel ignore le Fata viam inventent de ceux
+qui dédaignent le calcul et comptent sur l'inspiration. Il ne sudit pas
+d'entasser bruits sur bruits mots sur mots, Pélion sur Ossa l'art
+théâtral a de plus nobles buts. Toutes les émotions, tous les sentiments
+font partie de ses conquêtes, et on n'obtient cellesci, dans le tragique
+surtout, qu'avec ce que madame de Staël appelait du par de là.</p>
+<p>Son énergie est plus nerveuse que profonde.</p>
+<p><pb/></p>
+<p>même de l'emportement causé par la chagrine certitude de la faiblesse de
+sa conformation.</p>
+<p>Elle n'a, au thédtre, ni esprit, ni intelligence, ni goût.</p>
+<p>Elle ignore les mœurs de la scène.</p>
+<p>Ce que j'ai dit de la confusion des personnages 7</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>d'interiocuieurà, ou quand les mêmes interlocuteurs changeaient fentre
+eux de situations.</p>
+<p>A vos seules vertus je me serais donnée.</p>
+<p>Un je ne sais quel charme encor vers vous m'emporte;</p>
+<p>Votre mérite est grand, si ma raison est forte.</p>
+<p>Mais si vous estimez ce vertueux devoir,</p>
+<p>Conservez-m'en la gloiie et cessez de me voir.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Elle n'a pas le feu créateur.</p>
+<p><pb/></p>
+<p>Mademoiselle Rachel ne peut remplir plusieurs</p>
+<p>emplois.</p>
+<p>Quand ils ont voulu être favorablement remar-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>TROP DE LUXE.</p>
+<p>A toi, Gilbert, les honneurs du pas 1</p>
+<p>Cloris n'est que parée, et Cloris se croit belle.</p>
+<p>En vêtements légers, l'or s'est changé pour elle</p>
+<p>Son front luit étoilé de mille diamants</p>
+<p>Et mille autres encore, effrontés ornements,</p>
+<p>Les arts, pour l'embellir, ont uni leurs merveilles.</p>
+<p>Vingt familles, enfin, couleraient d'heureux jours,</p>
+<p>Riches des seuls trésors perdus pour ses atours.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>maintenant, au-dessus des jouissances d'une vanité puérile et, sans
+doute, elle y renoncera, quand elle</p>
+<p>y aura reconnu de véritables inconvénients pour l'esprit du théàtre et
+l'occasion d'un blâme fondé pour ce qui ne s'accorde pas avec la
+délicatesse de ses sentiments de comédienne.</p>
+<p><pb/></p>
+<p>LA PROPRIÉTÉ C'EST LE DROIT.'</p>
+<p><pb/></p>
+<p>temps une santé aussi chère. Cette propriété, c'est le droit du Public,
+des auteurs vivants et celui du Budget de l'Etat, dispensateur de la
+subvention. Car enfin, quand il s'agit de mademoiselle Rachel bien
+portante nous autres imposés de toutes les classes pouvons répéter à
+ceux qui fréquentent assidûment les théâtres, ce qu'a dit Corneille au
+cardinal de Richelieu a propos de son épitre dédicatoire de la tragédie
+d'Horace</p>
+<p>Je souhaite que ce rapprochement entre le cardinal de Richelieu et
+mademoiselle Rachel obtienne l'absolution de mon gros péché, contenu
+dans le parallèle où cette artiste est si sommairement représentée par
+la tabatière de Geoffroi.</p>
+<p><pb/></p>
+<p>DANS LA COMÉDIE·</p>
+<p>Mademoiselle Rachel est, pour cette partie de l'art, l'antipode le plus
+complet que Dieu, dans sa puissance infinie veuille jamais tirer des
+atômes dont il a formé le genre humain. Elle n'y est pas, un seul
+instant discutable.</p>
+<p>Que ces appréciations ne soient point prises pour des conjectures, et
+qu'on ne répète pas, après Henriette, des Femmes savantes</p>
+<p>C'est avoir de bons yeux que de voir tout cela.</p>
+<p><pb/></p>
+<p>SITUATION THÉÂTRALE. LE PUBLIC.</p>
+<p><pb/></p>
+<p>LA CRITIQUE.</p>
+<p>Inter utrumque tenel medio tutissimui ibis\</p>
+<p>Ces deux hommes sont l'écrivain et l'artiste. Le témoin, c'est le
+Critique. Le premier est oublié; le second arrive aux honneurs. Quant au
+Critique, voici sa part, curieuse et révoltante on l'appelle le
+bienfaiteur de celui qu'il a perdu, et L'ENNEMI de celui qu'il a sauvé!</p>
+<p>Que faire donc?</p>
+<p>Son devoir. Écrire pour éclairer, si les travaux</p>
+<p><pb/></p>
+<p>L'une est le rayon qui féconde, l'autre est l'ouragan qui détruit.</p>
+<p>Comment en un plomb vil l'or pur s'est-il changé?</p>
+<p>Est-ce qu'il n'est plus vrai que les idées ne peuvent se soustraire aux
+deux juridictions de toute éternité le Public, qui juge les juges, et le
+Temps, qui révise les arrêts du Public?</p>
+<p><pb/></p>
+<p>Croisse et s'élève encore au sommet du Parnasse?</p>
+<p><pb/></p>
+<p>Je le dis tout haut Par sa défection, la Criti-</p>
+<p><pb/></p>
+<p>que a tué le théâtre. Les craintes salutaires qu'elle inspirait, étaient
+les sauve-gardes de son honneur. Les hideuses libertés qu'elle ne
+flétrit pas, deviennent positivement son ouvrage. Quand on aurait pu
+l'empêcher, on est le véritable auteur du mal qu'on a laissé faire.
+Songez-y c'est grave, et l'opinion publique est souveraine 1</p>
+<p>Qu'elle reprenne donc magistralement sa férule, et j'ai, de mon pays,
+cette opinion que, detantd'élèves admis au concours où se débat l'A
+ccessit, sortiront plus de Grands-Prix, que des forêts de lauriers ne
+pourraient fournir de couronnes.</p>
+<p>Plaudile lentè, dit le Dieu du goût</p>
+<p>Du milieu de mon peuple exterminez les vices,</p>
+<p>Et vous viendrez après m'offrir des sacrifices.</p>
+<p><pb/></p>
+<p>les obstacles n'ont jamais rebuté l'homme appelé. Molière a dit</p>
+<p>Que les difficultés dont on est combattu</p>
+<p>Sont les dames d'honneur qui parent la vertu.</p>
+<p>Dans la République des lettres, cette sévérité, quand on peut l'appeler
+la Sultane juste, est fille des bonnes mœurs; et l'Éloge-de-tout, de
+quelque esprit qu'il se décore, ne sera jamais que le bâtard de la
+prostitution.</p>
+<p>A l'une, la grandeur! A l'autre, la décadence! Choisissez.</p>
+<p>Mais point d'excès. De la justice, et tout sera mieux.</p>
+<p>Ce va-et-vient perpétuel d'admirations frénétiques, d'hyperboles remplis
+d'extravagances, convenues, stéréotypées, inévitables et réciproques,
+chagrine le philosophe, ami de ses semblables,</p>
+<p>Qui, les deux bras croisés, du haut de sa pitié,</p>
+<p>Voit les assassinats commis par l'amitié.</p>
+<p>Une chose remarquable pour la minéralogie lit-</p>
+<p><pb/></p>
+<p>téraire, c'est que, depuis l'invention des plumes en fer, on se livre
+davantage au plaisir d'écrire avec les autres.</p>
+<p>Ob! que bien autrement se conduisaient nos maîtres en journalisme Un
+jour, il advint que, dans les Maris garçons, où Elleviou venait d'être
+ravissant de tous points, Geoffroi écrivit qu'il l'avait trouvé
+agréable. Et Elleviou fut si flatté de cet éloge, qu'il voulut aller en
+faire ses remercîments au feuilleton niste.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>faire valoir en justice. Dès lors, elles pullulent. A qui la faute?</p>
+<p>C'est là, cependant, qu'il y a véritablement un principe. Pourquoi donc
+le déserter? Ne pas défendre les mœurs en péril, quand on a tous les
+moyens de le faire, c'est se rendre le complice impardonnable des crimes
+qui les, y mettent.</p>
+<p>Mais approuver, flatter, servir, récompenser les corrupteurs, quand le
+fer rouge d'une Critique indignée produirait, sur ces hontes, telle
+cautérisation qu'au moins elle les rendrait plus rares, c'est affreux.</p>
+<p>Les gens de lettres de toutes les époques importantes, ont déposé dans
+l'urne de l'honneur, un vote de conscience et d'indignation contre
+l'insolente audace de cet opprobre ils ont voulu que la poésie, dont les
+archives gardent et perpétuent plus</p>
+<p><pb/></p>
+<p>Louis XV, critiqué en vers sur l'importance et le bruit de ses affaires
+de boudoir, par Frédéric II, trouve, dans le poète, un défenseur qui ne
+marchande pas les termes, et dont la verve, exempte de bégueulerié, dit
+tout net, au roi mal avisé Jusques là, censeur moins sauvage,</p>
+<p>Souffre l'innocent badinage</p>
+<p>De la nature et des amours.</p>
+<p>Peux-tu condamner la tendresse,</p>
+<p>Toi qui n'en as connu l'ivresse</p>
+<p>Que dans les bras de tes tambours?</p>
+<p><pb/></p>
+<p>Sous cette terrible atteinte, Frédéric, te grand, se rapetissa de cent
+coudées.</p>
+<p>N'épaississez donc pas la boue. Dissolvez-la, plutôt, et laissez dire
+les cyniques; il est beau de s'enrôler soldat de la morale, dût-on en
+mourir mitraillé. Tout n'est pas dans la vie.</p>
+<p>Que sont devenues les idées qui surgissaient de la vie simple et retirée
+des Comédiens d'une autre époque? Les bals, les fêtes, les chevaux, les
+voitures, le bois de Boulogne, le lansquenet et les soupers (toutes
+choses excellentes en leur lieu) n'occupaient pas exclusivement les
+imaginations artistiques.</p>
+<p><pb/></p>
+<p>ces sortes de cas, attestait du moins que le luxe de ce régal n'était
+point ordinaire.</p>
+<p><pb/></p>
+<p>UN OUBLI.</p>
+<p>A propos Les thuriféraires n'y pensent pas. Il</p>
+<p><pb/></p>
+<p>CONCLUSION.</p>
+<p><pb/></p>
+<p>UN LIVRE A FAIRE.</p>
+<p><pb/></p>
+<p>FIN. «</p>
+<p><pb/></p>
+<p>La Camaraderie a dit « Mademoiselle Rachel est mon principe; moi, jedis
+Mademoiselle Rachel est mon prétexte.</p>
+<p><pb/></p>
+<p>Si, par hasard, quelque personne honnête,</p>
+<p>D'un sens plus droit et d'un goût plus heureux,.</p>
+<p>Des bons écrits ayant meublé sa tête,</p>
+<p>Leur fait l'affront de penser, de voir mieux,</p>
+<p>Tout aussitôt, leur stupide cohue,</p>
+<p>D'étonnement et de colère émue,</p>
+<p>Bruyant essaim de frêlons envieux,-</p>
+<p>Pique et poursuit cette abeille charmante,</p>
+<p>La Vérité, dont le dard leur présente</p>
+<p>Ce miel si pur et si peu fait pour eux.</p>
+<p>On a vu plusieurs fois dans le cours de cet Examen quelle est la cause
+efficiente du mal, et celle qui réagit, par l'excès de ce malheur même,
+sur toutes les autres la tragédienne NE sAiT PAS Asssz, les fondations
+manquent il l'édifice.</p>
+<p>Etudiez.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>ïftBOI U)K$ MindllBSS.</p>
+<p>Dédicace.</p>
+<p>Lettre de Panurge. La Camaraderie. 5 Histoire préliminaire Les
+Commencements. Premier début 12 Présentation i3 Second début 14 A qui
+est-elle ? 5 Troisième début. Les Causes 17 Les Claqueurs 23 LesJuifs.
+Une dépêche. 28 Les Cassolettes. 3o Bagage 32</p>
+<p><pb/></p>
+<p>DISCUSSION. ANCIEN RÉPERTOIRE 34</p>
+<p>Auteurs modernes morts. 61</p>
+<p>Auteurs vivants. 62</p>
+<p>FANTAISIES de mademoiselle Rachel 67</p>
+<p>LA MARSEILLAISE 75</p>
+<p>Particularité. 78</p>
+<p>Généralité 79</p>
+<p>Bilan. 80</p>
+<p>Rôles joués d'origine. 82</p>
+<p>La tragédienne, de la tête aux pieds 85</p>
+<p>Trop de luxe. 105</p>
+<p>La propriété, c'est le droit</p>
+<p>Dans la Comédie i10</p>
+<p>SITUATION THÉATRALE. LE PUBLIC. 111</p>
+<p>La Critique. 112</p>
+<p>Un oubli. 124</p>
+<p>Conclusion 125</p>
+<p>Fin 127</p>
+<p>Paris. Typographie BUREAU, 14, rue Gaillon.</p>
+    </div>
+    </body>
+  </text>
+</TEI>

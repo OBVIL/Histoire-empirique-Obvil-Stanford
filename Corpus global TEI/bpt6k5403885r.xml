@@ -1,0 +1,2648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Sainte-Beuve, Charles-Augustin (1804-1869)">Charles-Augustin Sainte-Beuve</author>
+<title>Chroniques parisiennes (1843-1845) / par C.-A. Sainte-Beuve</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Sainte-Beuve, Charles-Augustin (1804-1869)</author>, <title>Chroniques parisiennes (1843-1845) / par C.-A. Sainte-Beuve</title>, <date>1876</date>,description :Collection : Bibliothèque contemporaine,364 pages
+</bibl>
+<publisher>Calmann Lévy (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k5403885r</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1876">1876</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p>BIBLIOTHÈQUE CONTEMPORAINE</p>
+<p>C.-A. SAINTE-BEUVE</p>
+<p>CHRONIQUES</p>
+<p>PARISIENNES</p>
+<p>PARIS</p>
+<p>MICHEL LÉVY FRÈRES ÉDITEURS RUE AUBER, 3, PLACE DE L'OPÉRA</p>
+<p>LIBRAIRIE NOUVELLE</p>
+<p>BOULEVARD DES ITALIENS, 15, AU COIN DE LA RUE DE GRAMMOI</p>
+<p>1876</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHRONIQUES</p>
+<p>PARISIENNES</p>
+<p>BIBLIOTHEQUE NATIONALE DE FRANCE</p>
+<p>3 7531 02643141 2</p>
+<p><pb/></p>
+<p>CALMANN LÉVY, ÉDITEUR</p>
+<p>OUVRAGES</p>
+<p>DE</p>
+<p>C.-A. SAINTE-BEUVE</p>
+<p>Format grand in-18.</p>
+<p>PREMIERS LUNDIS 3 vol.</p>
+<p>NOUVEAUX LUNDIS, deuxième édition 13 —</p>
+<p>PORTRAITS CONTEMPORAINS, nouvelle édition, revue</p>
+<p>et très-augmentée 5 —</p>
+<p>LETTRES A LA PRINCESSE, troisième édition 1 —</p>
+<p>P.-J. PROUDHON, SA VIE ET SA CORRESPONDANCE,</p>
+<p>cinquième édition 1 —</p>
+<p>CHATEAUBRIAND ET SON GROUPE LITTÉRAIRE SOUS L'EMPIRE, nouvelle édition,
+augmentée de notes</p>
+<p>de l'auteur... 2 —</p>
+<p>ÉTUDE SUR VIRGILE, suivie d'une étude sur Quintus</p>
+<p>de Smyrne, nouvelle édition 1 —</p>
+<p>SOUVENIRS ET INDISCRÉTIONS. — Le dîner du vendredi saint, deuxième
+édition ...., 1 —</p>
+<p>LE GÉNÉRAL JOMINI, deuxième édition 1 —</p>
+<p>MONSIEUR DE TALLEYRAND, deuxième édition 1 —</p>
+<p>MADAME DESBORDES-VALMORE 1 —</p>
+<p>A PROPOS DES BIBLIOTHÈQUES POPULAIRES Broch.</p>
+<p>DE LA LIBERTÉ DE L'ENSEIGNEMENT SUPÉRIEUR. —</p>
+<p>DE LA LOI SUR LA PRESSE —</p>
+<p>POESIES COMPLETES</p>
+<p>NOUVELLE ÉDITION REVUE ET TRÈS-AUGMENTÉE Deux beaux volumes in-8°.</p>
+<p>PARIS. — IMPRIMERIE DE E. MARTINET, RUE MIGNON, 2</p>
+<p><pb/></p>
+<p>CHRONIQUES</p>
+<p>PARISIENNES</p>
+<p>(1843—1845)</p>
+<p>PAR</p>
+<p>C.-A. SAINTE-BEUVE</p>
+<p>PARIS</p>
+<p>CALMANN LÉVY, ÉDITEUR ANCIENNE MAISON MICHEL LÉVY FRÈRES</p>
+<p>RUE AUBER, 3, ET BOULEVARD DES ITALIENS, 15</p>
+<p>A LA LIBRAIRIE NOUVELLE 1876</p>
+<p>Droits de reproduction et de traduction réservés</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>SAINTE-BEUVE CHRONIQUEUR</p>
+<p>Justement, dans le temps même où M. Despois exprimait ce regret, nous
+nous mettions en relation avec un des plus anciens amis de Sainte-Beuve,
+M. Juste Olivier, de Lausanne, et nous obtenions de lui qu'il voulût
+bien nous communiquer les textes autographes des Chroniques parisiennes,
+par lesquelles le futur auteur des Causeries du Lundi s'entretenait la
+plume et la main dans la Revue Suisse pendant les années 1843,1844 et 1845.</p>
+<p>1. Voir son article sur Sainte-Beuve dans la Revue politique et
+littéraire du 19 juin 1875.</p>
+<p><pb/></p>
+<p>II SAINTE-BEUVE CHRONIQUEUR.</p>
+<p>Quand une série de faits concordants se présentait, Sainte-Beuve, en
+parfait chroniqueur, multipliait ses lettres, et ne perdait pas une
+occasion d'é-</p>
+<p><pb/></p>
+<p>SAINTE-BEUVE CHRONIQUEUR. III</p>
+<p><pb/></p>
+<p>IV SAINTE-BEUVE CHRONIQUEUR.</p>
+<p>1. On ne saurait mieux interpréter sa pensée qu'il ne l'a fait luimême
+dans ce volume, p. 166 : « Il est, dit-il (décembre 1843), une douzaine
+d'hommes en France qu'on ne juge plus, mais qu'on loue ou qu'on attaque.
+Leurs amis les célèbrent sur tous les tons, leurs ennemis les injurient
+au besoin. Nous tâchons d'en parler comme il est permis au dehors et le
+dos tourné, sans faux respect</p>
+<p><pb/></p>
+<p>SAINTE-BEUVE CHRONIQUEUR. V</p>
+<p>C'était aussi l'opinion de Voltaire et, avant lui, comme on va le voir,
+celle d'un esprit de la même famille, Bayle, l'illustre réfugié
+protestant du XVIIe siècle, avec lequel Sainte-Beuve avait tant
+d'affinité ».</p>
+<p><pb/></p>
+<p>VI SAINTE-BEUVE CHRONIQUEUR.</p>
+<p><pb/></p>
+<p>SAINTE-BEUVE CHRONIQUEUR. VII</p>
+<p><pb/></p>
+<p>VIII SAINTE-BEUVE CHRONIQUEUR.</p>
+<p>JULES TROUBAT.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES</p>
+<p>I</p>
+<p>Ce 18 février 1843.</p>
+<p>AMSCHASPANDS ET DARVANDS, PAR LAMENNAIS.</p>
+<p>PHEDRE ET MADEMOISELLE RACHEL. — LES JÉSUITES.</p>
+<p><pb/></p>
+<p>2. CHRONIQUES PARISIENNES,</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 3</p>
+<p><pb/></p>
+<p>4 CHRONIQUES PARISIENNES.</p>
+<p>en vieillissant, laquelle n'est pas éloignée de la folie. Il me remet en
+mémoire ce beau vers de madame Valmore :</p>
+<p>Si l'amour a ses pleurs, la haine a ses tourments !</p>
+<p>Le portrait de Louis-Philippe a été supprimé (c'est trop scabreux), mais
+ses ministres responsables l'ont payé double.</p>
+<p>Je crains pourtant, dans tout ce qui précède, de n'être pas assez juste.
+On me dit qu'il y a vers la fin d'assez beaux et assez touchants
+chapitres. C'est par acquit de conscience que j'ajoute ceci.</p>
+<p>— On pourrait, somme toute, présenter ainsi la critique du livre de
+Lamennais. C'est un livre où les bons Génies disent tout le bien et les
+méchants Génies, tout le mal. Eh bien, en lui appliquant sa propre
+mesure, un mauvais Génie, un Darvand (ce serait moi), dirait ce que</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 5</p>
+<p>j'ai dit plus ou moins. Mais un bon Génie, un Amschaspand, aurait de
+quoi répondre :</p>
+<p><pb/></p>
+<p>6 CHRONIQUES PARISIENNES.</p>
+<p>elle a compris admirablement la Phèdre française, la</p>
+<p>Phèdre chrétienne, celle de Boileau et d'Arnauld,</p>
+<p>... la douleur vertueuse De Phèdre, malgré soi, perfide, incestueuse.</p>
+<p>Elle l'a faite même plus jeune fille et plus timide encore en
+commençant; mais bientôt la passion éclate. Elle dit le mot charmant,
+une tête charmante... jeune, charmant, etc., de manière, il paraît, à
+faire frémir l'auditoire de tendresse. Elle a profité.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 7</p>
+<p>— Quoi encore? —Le combat contre le ministère se mitonne sourdement sur
+la question des fonds secrets. M. Guizot paraît moins solide qu'il y a
+un mois. Mais lui ne doute pas du succès, et l'horizon est peut-être
+plus gros de brouillards que de tonnerres. Dans tous les cas, il y
+aurait moins de quoi que jamais.</p>
+<p>— Parmi les journaux religieux assez en vogue dans un certain monde,
+j'ai omis de vous citer l'Union catholique, journal rédigé par les
+Jésuites, par eux positivement. Les Jésuites, il faut le savoir, n'ont
+jamais quitté Paris. Après la révolution de Juillet, il se sont tenus
+cois et sages dans une maison de la rue du Regard, ayant une très-belle
+bibliothèque et étudiant. Mais depuis</p>
+<p><pb/></p>
+<p>8 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>II</p>
+<p>Ce 22 mars 1843.</p>
+<p>LES BURGRAVES, PAR VICTOR HUGO. —JUDITH, PAR M ADAME EMILE DE GIRARDIN.—
+MADEMOISELLE RACHEL — LAMARTINE ET TOUSSAINT LOUVE RTURE, ETC.</p>
+<p>Il n'y a rien de nouveau ici depuis une quinzaine : on vit
+littérairement dans les salons sur ce méchant livre de Lamennais, et sur
+ce joli chapitre de Saint-Cyr.</p>
+<p>Vous pourrez profiter, pour l'article sur les Amschaspands, ou, comme on
+dit, les chenapans de Lamennais, de l'article des Débats du 1er mars,
+lequel article est de M. Cuvillier-Fleury.</p>
+<p>— La politique a recommencé d'hier sur les fonds se1.</p>
+<p>se1.</p>
+<p><pb/></p>
+<p>10 CHRONIQUES PARISIENNES.</p>
+<p>crets, c'est un débat tres-attendu et qui promet d'être décisif. M.
+Guizot a eu hier un premier éloquent succès, et tout annonce la réussite
+du ministère.</p>
+<p>Il vient d'en obtenir un second, le 2, celui-ci encore plus éloquent
+contre M. de Lamartine qui est en veine de désastres.</p>
+<p>Dans la Revue des Deux Mondes du 1er mars, il y a une chronique où
+Rossi, nageant entre deux ou trois eaux, et ne voulant guère parler de
+choses d'ici, a très-bien parlé, ce me semble, de Genève et de la Suisse.</p>
+<p>Les lettres (anonymes) d'un député sur la question ministérielle, dans
+la Revue, sont de M. Vivien, ancien ministre du 1er mars.</p>
+<p>— Il y a, dans ce même numéro, des vers de Lamartine 1, quelques-uns
+assez beaux et le tout en somme assez mauvais pourtant. Une faute de
+français énorme pour un académicien :</p>
+<p>Martyres dans le ciel ou libres sur la terre ; - pour martyrs.</p>
+<p>Il y a des bévues anatomiques dans ce même morceau de Lamartine : on
+reconnaît en effet très-bien un squelette de nègre d'avec un squelette
+de blanc. Il y a bien d'autres différences que la peau : l'angle facial,
+etc.</p>
+<p>— Il vient de paraître des Mémoires du maréchal de La Force du temps de
+la Ligue, de Henri IV et de Louis XIII, qui contiennent, dit-on,
+beaucoup de choses inédites, lettres de Henri IV et autres; enfin c'est
+un supplément</p>
+<p>1. Le discours de Toussaint Louverture aux noirs do Saint-Domingue.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 11</p>
+<p>utile aux Mémoires de ce temps. L'éditeur est le marquis de La Grange,
+député de la nuance et du cortége de Lamartine et allié par sa femme aux
+Caumont de La Force.</p>
+<p><pb/></p>
+<p>III</p>
+<p>Ce vendredi 10 mars 1813;</p>
+<p>LES BURGRA V E S.</p>
+<p>Cela peint nos moeurs littéraires. Il y a deux histoires</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 13</p>
+<p>littéraires : l'une écrite et l'autre parlée. Celle-ci est la vraie.</p>
+<p>La carrière poétique de Victor Hugo a été toute une révolution. Granier
+de Cassagnac s'en est fait finalement le Robespierre ; je me flatte de
+n'en avoir été que le Vergniaud. Hernani, ç'a été pour moi la fin de
+l'Assemblée législative.</p>
+<p>II</p>
+<p>Ce 29 mars 1843.</p>
+<p><pb/></p>
+<p>14 CHRONIQUES PARISIENNES.</p>
+<p>Et l'ordre teutonique qu'il dit mort ou dégénéré et qui</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 13</p>
+<p>alors, me dit-on, n'était pas né: —vérifiez, historiens! Les bords du
+Rhin ne sont pas si grandioses, si foudroyés, la Théssalie n'est pas si
+noire qu'il la fait, de même que Notre-Dame n'est pas si énorme, mais
+plus élégante, comme on peut le voir du parvis. Mais encore une fois il
+a l'oeil ainsi fait.</p>
+<p><pb/></p>
+<p>IV</p>
+<p>Ce 2 avril 1843.</p>
+<p>LAMARTINE. — PONSARD. —LECTURE DE LUCRECE CHEZ BOCAGE, ETC.</p>
+<p>Un M. Chapuys-Montlaville, de la Chambre des dépu1.</p>
+<p>dépu1. se dit lui-même le fils de Fénelon et de madame de Staël. Il
+semble qu'il y était lorsqu'ils l'ont créé.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 17</p>
+<p>tés, de la gauche, vient de faire une autre brochure panégyrique
+explicative de M. do Lamartine, avec images, gravures, illustrations.
+C'est ridicule ; oui, mais M. Rossi, dans la chronique dernière de la
+Revue des Deux Mondes, a raison de dire que Lamartine grandit au dehors.
+Est-ce que c'est le sens commun qui prévaut toujours en ce monde? —
+Lamartine est une comète 1 : il a certes une queue brillante et immense
+: mais a-t-il un noyau?</p>
+<p>1. Il était beaucoup question d'une comète en ce moment-là. (Note de
+l'éditeur.)</p>
+<p><pb/></p>
+<p>18 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>V</p>
+<p>Ce dû avril 1843.</p>
+<p>JUDITH, PAR MADAME DE GIRARDIN. — LA LUCRÈCE DE PONSARD. — LE PÈRE DE
+RAVIGNAN, ETC.</p>
+<p>J'ai entendu un acte de la première et toute la seconde.</p>
+<p>Le vendredi 7 avril, le soir, chez madame Récamier. mademoiselle Rachel
+a récité : 1° quelques scènes de Bérénice; 2° le premier acte presque
+entier de Judith; — Bérénice assez bien, mais pour Judith, succès
+complet d'actrice et d'acteur.</p>
+<p><pb/></p>
+<p>20 CHRONIQUES PARISIENNES.</p>
+<p>Je signale toute la réaction, sans la partager. Au théâtre il faudra
+décompter un peu : mais la pièce n'a que trois actes; le premier est
+bien posé, ce qui fera passer les deux autres.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 21</p>
+<p><pb/></p>
+<p>VI</p>
+<p>Ce lundi 17 avril 1843.</p>
+<p>UNE MYSTIFICATION DE MÉRY. — L'ART DRAMATIQUE CONTEMPORAIN, ETC.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 23</p>
+<p><pb/></p>
+<p>24 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>VII</p>
+<p>Ce 26 avril 1813.</p>
+<p>REPRÉSENTATION DE LUCRÈCE ET DE JUDITH, ETC.</p>
+<p><pb/></p>
+<p>26 CHRONIQUES PARISIENNES,</p>
+<p>trop identifié avec l'auteur et s'en était fait le patron, a joué comme
+l'aurait pu l'auteur lui-même, c'est-à-dire sans gouverner son
+sang-froid et sans retrouver cette raison que Brute n'a jamais perdue.
+Une actrice fort secondaire, une madame Halley, a réussi inopinément
+dans le personnage voluptueux et passionné de Tullie.</p>
+<p>aus1. pas qu'il y ait eu des claqueurs (il n'y a plus de elaqueurs à
+l'Odéon), mais on avait mis presque tout le parterre en stalles
+très-chères.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 27</p>
+<p>La Presse donne ce matin 26 le premier acte entier. Vous verrez s'il
+justifie le succès de cette soirée chez</p>
+<p><pb/></p>
+<p>28 CHRONIQUES PARISIENNES.</p>
+<p>madame Récamier; mais on aurait dû s'en tenir là. On va essayer de
+lutter : on redonne Judith vendredi.</p>
+<p>I. Madame d'Arbouville.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 29</p>
+<p>— On dit que les troisième et quatrième volumes de l' Essai sur la
+formation du dogme catholique de la princesse Belgiojoso viennent de
+paraître : je ne les ai pas vus encore.</p>
+<p><pb/></p>
+<p>VIII</p>
+<p>Ce samedi 29 avril 1813.</p>
+<p>COUSIN. — LUCRECE. — JUDITH. — MADAME LOUISE</p>
+<p>COLET. — MADAME DE GIRARDIN.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 31</p>
+<p>On a redonné hier Judith, qui, je crois, a été mieux : madame de
+Girardin prend très-bravement et spirituellement ce demi-succès...
+Soyons juste, même en étant sévère : il y a de beaux vers, n'est-ce pas?
+et comme témoignage de son talent poétique, madame de Girardin n'a
+peut-être rien donné de plus fort.</p>
+<p><pb/></p>
+<p>32 CHRONIQUES PARISIENNES.</p>
+<p>Les feuilletons de théâtre du National, très-remarques depuis quelque
+temps, sont de M. Rolle, qui les fait depuis quatorze ans; mais toute la
+critique d'alentour ayant baissé, il reste seul. C'est un honnête homme.
+Il est le fils d'un Rolle ancien bibliothécaire de la grande
+Bibliothèque royale et savant mythographe.</p>
+<p><pb/></p>
+<p>IX</p>
+<p>Ce 30 avril 1843.</p>
+<p>CAUSES DU SUCCÈS DE LUCRECE.</p>
+<p><pb/></p>
+<p>34 CHRONIQUES PARISIENNES.</p>
+<p>Un beau rôle est celui de Tullie, femme de Brutus, qu'elle a quitté pour
+Tarquin Sextus, femme adultère et galante, insultée par son amant, son
+don Juan, son Ra-</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 35</p>
+<p>mon de Ramière, et morigénée alors en termes touchants et sévères par
+son mari. — Ce rôle a été senti, applaudi, avec une intelligence morale
+que l'auditoire semblait retrouver après tant d'excès et de fatuités
+dramatiques dont on l'a rassasié jusqu'au dégoût.</p>
+<p>Mais que les doigts me démangent, de penser qu'on ne peut pas en France
+dire au long, librement, quelque part toute sa pensée là-dessus!
+revendiquer notre,point de vue moderne et chéri! notre innovation! car
+on est sournoisement hostile, et Magnin fera un article juste-milieu.</p>
+<p><pb/></p>
+<p>36 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>X</p>
+<p>Ce 3 mai 1843.</p>
+<p>ARTICLES SUR LUCRECE. — LIBRI ET LES JOURNAUX DE SACRISTIE,</p>
+<p>3</p>
+<p><pb/></p>
+<p>38 CHRONIQUES PARISIENNES.</p>
+<p>Ce qu'il faut dire, c'est que Lucrèce est un noble retour aux Muses
+sévères. La foule y court, et aussi le beau monde, moins bon juge sans
+doute que ce primitif parterre d'étudiants.</p>
+<p>1. Lettres sur le clergé français : — De la liberté de conscience.
+(Revue des Deux Mondes, 1er mai 1843.)</p>
+<p><pb/></p>
+<p>XI</p>
+<p>Ce 18 mai 1843.</p>
+<p>ENGOUEMENT.—ADOLPHE DUMAS ET ALEXANDRE DUMAS. — ENCORE LUCRECE.—
+MICHELET. — QUINET.— LES JÉSUITES. — VILLEMAIN. — DU GALLICANISME.</p>
+<p>L'un des traits les plus singuliers et les plus réguliers de la société
+de Paris, c'est que tous les quinze jours environ on a un sujet, un lieu
+commun de conversation nouveau, grand ou petit, comète ou révolution,
+tremblement de terre ou vente de charité, ou question d'Orient, ou
+Colomba, ou Lucrèce : on cause partout de la même chose, l'invention est
+rare, même pour les sujets de conversation; chaque personne qui entre
+remet sur le tapis l'éternel dada. On l'épuise, on l'extermine. Bref on
+finit par en être excédé et par crier grâce, surtout quand il n'arrive
+pas de nouveau sujet, de nouveau tremblement de terre, de nouveau
+chef-d'oeuvre. Quand le même sujet dure un mois ou trois semaines, oh !
+c'est trop. Les nerfs n'y tiennent plus. C'est un peu ce qui a lieu
+aujourd'hui pour Lucrèce et pour M. Ponsard qui</p>
+<p><pb/></p>
+<p>40 CHRONIQUES PARISIENNES.</p>
+<p>La pièce lue soutient son mérite; ç'a été une preuve de goût de n'y pas
+mettre une seule ligne de Préface. Assez de Préfaces comme cela.</p>
+<p>Au reste, il va, dit-on, retourner dans son pays de Vienne travailler.
+Sa deuxième pièce doit être Alexis Comnène, je crois, Les Croisés à
+Constantinople. Enfin ces deux civilisations, le rude moyen âge et le
+raffiné Bas-Empire.</p>
+<p>Depuis que la Lucrèce a gagné le gros lot, les tragédies sortent de
+terre. Chacun a sa tragédie romaine, grecque, ainsi vont les flots.</p>
+<p>Ah ! monsieur Bossuet, vous êtes un brave homme !</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 41</p>
+<p>quelques années, voyant entrer dans la loge (où il était) Alexandre
+Dumas, il lui dit brusquement et familièrement : « Il y aura les deux
+Dumas, comme il y a eu les deux Corneille. » Le vrai Dumas trouva cela
+un peu leste pour commencer; il sourit pourtant et causa comme si de
+rien n'était. Puis un moment après il sortit en disant adieu, et
+aussitôt se ravisant il remit la tête dans la loge, et frappant sur
+l'épaule de son homonyme : Adieu, Thomas ! dit-il avec gaieté, et il
+s'enfuit là-dessus.</p>
+<p><pb/></p>
+<p>42 CHRONIQUES PARISIENNES.</p>
+<p>L'Université laisse faire, arme au bras : M. Villemain, si éclairé,
+manque de tout courage et tremble devant le moindre journal. La reine en
+cour, qui est une sainte, appuie le clergé et déplore ces discussions.</p>
+<p>Le fait essentiel de la religion en.France depuis une douzaine d'années,
+c'est l'abolition évidente et complète du gallicanisme : cette grande
+religion vraiment fran-</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 43</p>
+<p>Le gallicanisme, le plus noble fils du catholicisme, est mort avant son
+père, lequel dans sa caducité est resté</p>
+<p><pb/></p>
+<p>44 CHRONIQUES PARISIENNES,</p>
+<p>Rien ne fait plus de bruit qu'une secte, rien n'est moins au centre d'un
+pays et d'un temps.</p>
+<p>Le jésuitisme gagne en France sans aucun doute. On</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 45</p>
+<p>Mais rien de gravement menaçant au fond pour une nation, pour une
+société qui les secouera d'un revers de main le jour où ils oseraient
+oublier qu'ils n'ont jamais été chez eux en terre de France.</p>
+<p>Je les trouve bien plus gravement menaçants pour le catholicisme même
+qu'ils compromettent en l'identifiant avec eux. Conclusion : le
+jésuitisme peut encore gagner beaucoup en France, et le catholicisme
+pourtant continuer de perdre. Le gallicanisme en se dissolvant a laissé</p>
+<p><pb/></p>
+<p>46 CHRONIQUES PARISIENNES.</p>
+<p>un grand héritage ; les jésuites peuvent en saisir un vaste lambeau,
+mais la niasse n'en sera pas moins diminuée, disséminée.</p>
+<p><pb/></p>
+<p>XII</p>
+<p>Ce 21 mai 1843.</p>
+<p>QUERELLE DE CUISTRES ET DE BEDEAUX. — HISTOIRE NATURELLE DE LA SANTÉ ET
+DE LA MALADIE, PAR F.-V. RASPAIL. — QUOLIBETS SUR LUCRÈCE. — LES
+NÉO-CATHOLIQUES ET LES ANCIENS, ETC.</p>
+<p>Le Journal des Débats d'aujourd'hui 21 continuera de vous édifier sur
+les attaques et les ripostes : toute cette polémique pourtant m'est bien
+déplaisante, et je ne saurais l'approuver : Querelle de cuistres et de
+bedeaux, disait un grand personnage.</p>
+<p>Celte polémique en général est faite, dans les Débats, par M. de Sacy,
+fils de l'illustre orientaliste, et l'un des plus honnêtes, des plus
+consciencieux écrivains de la presse périodique, comme aussi l'une des
+plumes les plus saines et les plus françaises au vieux sens de Nicole et
+de Bourdaloue. Le premier article d'escarmouche pourtant d'il y a cinq
+semaines environ était bien de SaintMarc Girardin.</p>
+<p>— Il vient de paraître un livre très-savant et capital de Raspail,
+intitulé : Histoire naturelle de la santé et de</p>
+<p><pb/></p>
+<p>48 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 49</p>
+<p>Madame Sand admire un peu malgré Leroux, qui ne trouve pas sans doute
+Lucrèce assez avancée : mais elle admire.</p>
+<p>Elle du moins est franche du collier et sans les petitesses des lettrés.
+—Lamartine aussi est très-bien</p>
+<p>pas se lasser : le bien-être ne revient quelquefois qu'après plusieurs
+jours d'emploi. (User une cigarette presque par jour). »</p>
+<p><pb/></p>
+<p>50 CHRONIQUES PARISIENNES.</p>
+<p>pour M. Ponsard, et celui-ci doit aller passer quelque</p>
+<p>Madame de Girardin, ayant rencontré l'autre soir M. Ponsard chez la
+duchesse de Grammont, n'a pas su contenir son impression d'humeur, et,
+comme on lui offrait de le lui présenter, elle a refusé.</p>
+<p>Le succès de Lucrèce, si légitime qu'il soit, me suggère ces deux
+pensées, ces deux petits axiomes critiques :</p>
+<p>1° En France, pour réussir en matière littéraire, il ne faut rien de
+trop, mais toujours et avant tout une certaine mesure. Du moment que
+vous touchez la veine, n'enfoncez pas trop, vous arriverez mieux. Les
+rivaux et les envieux diront ensuite : Quoi, ce n'est que cela !</p>
+<p>Une remarque très-juste que j'entendais faire, c'est</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 51</p>
+<p>que, au temps d'Hernani, Hugo avait contre lui presque tous les
+journaux, mais pour lui le mouvement du public; aujourd'hui, le
+lendemain des Burgraves, il a pour lui... tous les journaux et contre
+lui tout le' public 1.</p>
+<p>— M. de La Gournerie, ancien rédacteur de l'ancien Correspondant et
+probablement aussi du nouveau; ami de Cazalès, de l'abbé Gerbet, de ce
+groupe, — je ne le connais pas, mais ce doit être un brave homme ; — une
+différence capitale entre les néo-catholiques de 1843 et les catholiques
+de 1828 (dont est La Gournerie), c'est que ceux-ci n'ont jamais dit
+d'injures aux. gens, aux voisins plus ou moins religieux, mais non
+catholiques. J'ai entendu dire que son livre de Rome était intéressant,
+mais je ne l'ai pas eu sous les yeux.</p>
+<p>— Il a paru un livre de Mélanges posthumes d'histoire</p>
+<p><pb/></p>
+<p>52 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>XIII</p>
+<p>Ce 24 mai 1843.</p>
+<p>L'UNIVERSITÉ ET LES JÉSUITES. — LES ANTI-LUCRECE.</p>
+<p>Eu France on a toujours été un peu singe; chaque succès fait naître en
+foule les poëtes du lendemain, comme des essaims de mouches autour des
+fins morceaux. La quantité de tragédies grecques, romaines et bibliques,
+qui sortent en ce moment des portefeuilles ou qui sont sur le chantier,
+est innombrable.</p>
+<p>Qui me délivrera des Grecs et des Romains ? Nous y sommes plus que
+jamais après quarante ans d'insurrections, — et dans les Hébreux aussi.
+La réaction semble complète sur toute la ligne.</p>
+<p><pb/></p>
+<p>54 CHRONIQUES PARISIENNES.</p>
+<p>— On m'assure que dans la polémique engagée dans les Débats au nom de
+l'Université contre les jésuites, SaintMarc Girardin est pour le moins
+autant que Sacy. SaintMarc est plus leste de ton, plus badin,
+persifleur, bel esprit et belle plume; pour prendre idée du style et de
+la manière de Saint-Marc, lisez dans les Débats de vendredi (26 mai)
+l'article en tète contre la Gazette; c'est du pur Saint-Marc : caillette
+maligne et de grand esprit; il porte d'ailleurs dans cette question
+l'intérêt personnel et d'amour-propre d'un universitaire. — Je crois
+pourtant, malgré les présomptions, que le gros des articles, ceux du
+milieu de la querelle, sont de Sacy 1.</p>
+<p>Ces querelles au reste déplaisent au mondé : mais M. Villemain y attache
+la plus grande importance, et en est très-préoccupé.</p>
+<p>... La jeunesse qui va aux cours de Michelet et de Quinet et qui fait
+tapage est froide au fond, indifférente, sans principes, sans môme le
+nerf qui est le propre de la jeunesse. Que cela est loin des chaudes
+luttes sous la Restauration !</p>
+<p>En ce temps-ci, on n'a que des velléités, et puis rien.</p>
+<p>1. J'apprends avec certitude que cela est Saint-Marc n'a fait qu'entamer
+la querelle. C'est Sacy qui a l'ait le reste.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 55</p>
+<p>et que le monde qui devient dégoûté n'y a jamais mordu.</p>
+<p>Noble sang des aïeux, qui me gonfles le cou, Redescends, indigné, dans
+les veines du fou !</p>
+<p>Vers assez burlesques en effet.</p>
+<p><pb/></p>
+<p>56 CHRONIQUES PARISIENNES.</p>
+<p>Je viens d'acheter sous les galeries de l'Odéon une petite brochure
+intitulée l' Anti-Lucrèce 1, avec cette épigraphe, Servum pecus, et
+débutant ainsi : « Un avocat nous a été amené de Vienne en Dauphiné pour
+être un grand homme. »</p>
+<p>On l'avait fait venir d'Amiens pour être suisse.</p>
+<p>C'est moi qui ajoute ce vers irrévérent. —Le critique anonyme adresse à
+M. Ponsard neuf questions dont quelques-unes sont assez judicieuses,
+quoique l'ensemble de la brochure soit sans talent et sans finesse :
+mais il y a de ces crudités assez justes.</p>
+<p>La première question, par exemple, est celle-ci : «Comment se fait-il
+que M. Ponsard ait accepté pour patrons les partisans'avérés de la
+réaction racinienne? Comment se fait-il qu'il ait manqué au plus simple
+des courages, celui de son oeuvre, et qu'il n'ait pas dit, dès le
+premier jour,</p>
+<p>1. Cette brochure était de M. Marc Fournier.</p>
+<p>(Note de l'éditeur)</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 57</p>
+<p>On annonce une nouvelle brochure sous le même titre : les Anti-Lucrèce
+vont pleuvoir ; après le flux, le reflux. Nous sommes le' peuple chez
+qui tout se passe le plus par va-et-vient.</p>
+<p>C'est toujours l'histoire de ce paysan ennuyé d'entendre louer Aristide.</p>
+<p><pb/></p>
+<p>XIV</p>
+<p>Ce 29 mai 1813.</p>
+<p>ARTICLE DE CHARLES MAGNIN SUR LUCRECE DANS LA REVUE DES DEUX MONDES. —
+POLÉMIQUE DES ÉVÈQUES. — MADEMOISELLE DE LA VALLIÈRE, PAR ADOLPHE
+DUMAS.—ÉLOGE DE DAUNOU, PAR M. MIGNET.</p>
+<p>L'article de Magnin sur Lucrèce passe décidément dans la Revue des Deux
+Mondes du 1er juin. Il y aura sur les premiers débuts de Ponsard en
+Dauphiné des détails qui pourront être intéressants.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 59</p>
+<p>Seulement il s'y prend un peu tard pour avertir le. Hugo-Napoléon. Echec
+au roi!</p>
+<p>Il a tort (page 753) de ne pas reconnaître dans Lucrèce de l'âme; c'est
+ce qui a pris le spectateur.</p>
+<p>— La polémique des évêques continue : lettre de l'évêque de Châlons dans
+l'Univers; lettre de l'évêque de Chartres.</p>
+<p>Je vois, par l'article des Débats de ce matin 29, que le chanoine de
+Lyon, auteur du livre, le Monopole universitaire, s'appelle Desgarets.</p>
+<p>— L'éloge de M. Daunou, par Mignet, équitable et judicieux,mais peu vif,
+peu amusant; un peu trop de 89 ;</p>
+<p><pb/></p>
+<p>CO CHRONMQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>XV</p>
+<p>Ce samedi 3 juin 1843.</p>
+<p>VIENNET ET PONSARD.—LA RUSSIE EN 1839, PAR M. DE CUSTINE. — TOUJOURS LES
+UNIVERSITAIRES ET LES JÉSUITES. — LOUIS-PHILIPPE ET M. VILLEMAIN. — LES
+MYSTÈRES DE PARIS.</p>
+<p>Ponsard a tort, de plus, de se mettre du parti des sots; et Viennet
+n'est qu'un sot, lequel, il est vrai, a quelquefois la sottise spirituelle.</p>
+<p>A</p>
+<p><pb/></p>
+<p>62 CHRONIQUES PARISIENNES:</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 63</p>
+<p>peut-être meilleur politique en disant cela, mais Villemin est meilleur
+universitaire. — Ces querelles religieuses détournent de la politique
+active immédiate.</p>
+<p>— Les deux feuilletons des Débats sur Cécily des Mystères de Paris ont
+révolté unanimement la morale publique.</p>
+<p><pb/></p>
+<p>XVI</p>
+<p>Ce 15 juin I843.</p>
+<p>POLYAlSERIE. — DISCOURS DE LAMARTINE A MACON.</p>
+<p>— UN PORTRAIT DE LIBRI. — PROJET D'UNE STATUE DE LAMARTINE A ARLES. —
+INEXPÉRIENCE SCÈNIQUE DE PONSARD. — LE ROLE DES TROIS FEMMES DANS
+LUCRÈCE. —MORT DE L'ATHÉNÉE.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 65</p>
+<p>II est né l'Enfant du miracle.</p>
+<p>Oh! gosier, gosier! qu'il est triste que tu aies ainsi besoin de chanter
+toujours et de chanter encore 1 !</p>
+<p>retien1. propos de ce discours, le Journal de Saône-et-Loire rapporte
+gravement « qu'un des planchers de l'estrade, sur laquelle M. de
+Lamartine était monté, a été acheté pour un prix assez élevé. Nous en
+ignorons le chiffre exact, ajoute la feuille mâconnaise, mais nous
+savons qu'un propriétaire du Beaujolais a payé cinquante francs une des
+perches qui soulenaient la tente et contre laquelle l'orateur s'était
+souvent appuyé. »</p>
+<p>4.</p>
+<p><pb/></p>
+<p>66 CHRONIQUES PARISIENNES.</p>
+<p>— L'Etat, journal quotidien, par Charles Didier, paraît : c'est pauvre
+et creux et sans avenir...</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 67</p>
+<p>— Dans la disette où nous sommes, un petit fait qui se produit depuis
+quelque temps et qui rentre aussi dans nos symptômes.</p>
+<p><pb/></p>
+<p>68 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 69</p>
+<p>sophes s'est pourtant révolté, et l'on a une fois fait taire l'orateur.
+C'est ainsi que tout passe et que tout change, et qu'après soixante ans
+d'une vie honorable et constante, ce pauvre Athénée, tombé en enfance,
+s'en va avant peu de mois mourir.</p>
+<p><pb/></p>
+<p>XVII</p>
+<p>Fin de juin 1843.</p>
+<p>CALME PLAT.— LAPRADE. —CHATEAUBRIAND. —QUELQUES VÉRITÉS SUR LA SITUATION
+EN LITTÉRATURE, ETC.</p>
+<p>Ce mardi.</p>
+<p>Le journal de Didier, l'Etat, a cessé brusquement de paraître après
+quelques numéros, on ne sait ce que cela veut dire. En disant qu'il
+n'avait aucun avenir, je ne croyais pas parler pour sitôt. Cette,
+disparition, avec les prétentions et les fastueux préparatifs de Didier,
+est burlesque.</p>
+<p>(Il paraît qu'on perdait mille francs par jour; le gérant, qui était un
+des actionnaires, a refusé de verser et a dit holà.)</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 71</p>
+<p>Le seul petit intérêt a été, l'autre jour, les quatorze mille hommes
+qu'on voulait retrancher au maréchal Soult, et auxquels il tenait
+mordicus, ainsi que le roi. Ils ont parlé un peu fort, et ils les ont eus.</p>
+<p>— Vous pourriez dire un mot du poëme d'Hermia de Laprade (Revue
+indépendante); c'est assez beau, grandiose, mais monotone. Au reste
+Laprade a bien trouvé son nid dans ce coin-là, si coin il y a en
+panthéisme.</p>
+<p>Ce mercredi.</p>
+<p><pb/></p>
+<p>72 CHRONIQUES PARISIENNES.</p>
+<p>— Je viens d'achever pour la Revue des Deux Mondes un article intitulé :
+Quelques vérités sur la situation en littérature. Je n'ai jamais tant
+dit ce que je pensais. J'ai profité d'une ouverture de Buloz pour
+ressauter en selle et fouetter pour un relai encore.</p>
+<p>Vous pourriez ainsi courir avec plus ou moins de doute et de conjecture,
+et passer un peu en revue les masques en donnant pourtant l'éloge à
+côté; c'est ainsi que la critique porte.</p>
+<p>Théophile Gautier disait un jour de Janin : « On a beau dire, il y a un
+fameux tempérament dans ce stylelà. »</p>
+<p>Quel sanglant éloge!</p>
+<p>Et Alexandre Dumas, et ce talent réel, mais presque physique; cet esprit
+qui semble résider dans les esprits animaux, comme on disait autrefois!</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 73</p>
+<p>Insistez, vous, croyant et historien d'un pays moral, sur cet
+épicuréisme pratique d'ici qui n'a produit qu'un bon moment de jeunesse,
+mais passé lequel, tous plus ou moins, nous sommes sur les dents, sur le
+flanc : chacun a été bourreau de son esprit. J'en prends ma part.</p>
+<p>5</p>
+<p><pb/></p>
+<p>XVIII</p>
+<p>Ce 6 juillet 1843.</p>
+<p>GRAND MOUVEMENT DE REIMPRESSIONS DANS LA LIBRAIRIE FRANÇAIS E. — LES
+FORMATS-CHARPENTIER. — L'ILLUSTRATION. —M. EDOUARD CHARTON.—LES VOYAGES
+EN ZIGZAG DE TOPFFER.</p>
+<p>— Il se fait en France un grand mouvement de réimpressions, de
+traductions de toutes sortes d'ouvrages, ou</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 73</p>
+<p>— Si vous, qui lisez les journaux, n'y trouvez aucune protestation ni
+attaque contre mon article de la Revue,</p>
+<p><pb/></p>
+<p>XIX</p>
+<p>Ce vendredi 28 juillet 1843.</p>
+<p>COUSIN. — LETTRES DU PÈRE ANDRÉ. — ALFRED DE MUSSET. —VERS POUR
+L'ANNIVERSAIRE DE LA MORT DU DUC D'ORLÉANS. — INCONVENANCE. —
+LOUISPHILIPPE ET LA DUCHESSE DE BERRY. — MADAME LOUISE COLET. — EUGÈNE
+SUE. — LES MYSTERES DE PARIS. — DÉPART DE BALZAC POUR SAINT-PÉTERSBOURG.
+— ALEXANDRE DUMAS. — LES DEMOISELLES DE SAINT-CYR. — ETC.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 77</p>
+<p><pb/></p>
+<p>78 CHRONIQUES PARlSlENNES.</p>
+<p>On (lit qu'un jour de bal, du temps de Charles dix, Sur les degrés du
+trône il s'arrêta jadis.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 79</p>
+<p><pb/></p>
+<p>80 CHRONIQUES PARISIENNES.</p>
+<p>J'ai fait un peu de bien, c'est mon plus bel ouvrage!</p>
+<p>Si j'étais de l'Académie, je le proposerais l'année prochaine pour le
+prix de vertu ou de l'ouvrage le plus utile aux moeurs. Vous
+rappelez-vous comme dans Alar-Gull il s'est moqué de ce prix de vertu ?
+Donc qu'il l'obtienne !</p>
+<p><pb/></p>
+<p>CHRONIQUES PAIUSIENNES. 81</p>
+<p>pro5.</p>
+<p><pb/></p>
+<p>82 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 83</p>
+<p><pb/></p>
+<p>XX</p>
+<p>Ce 28 juillet 1843.</p>
+<p>QUINET ET MICHELET. —LE LIVRE DES JÉSUITES.</p>
+<p>Quinet et Michelet viennent de réunir en un volume et de publier leurs
+dernières leçons sous ce titre Des Jésuites. En même temps on met en
+vente les portraits des deux professeurs, comme des deux héros du jour.
+C'est dommage que Narvaës, le grand vainqueur espagnol, ne soit pas en
+vis-à-vis. D'un côté pas plus que de l'autre, il n'y a eu (pour ainsi
+dire) de sang de répandu 1.</p>
+<p>« Ce que l'avenir nous garde, Dieu le sait!... Seulement je le prie,
+s'il faut qu'il nous frappe encore, de nous frapper de l'épée...</p>
+<p>» Les blessures que fait l'épée sont des blessures</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 85</p>
+<p>« L'un et l'autre regarda le dehors plus que le dedans, tel résultat
+plus que la cause.</p>
+<p>» Moi, je partis de la cause, je m'en emparai, et la fécondant, j'en
+suivis l'effet. Je ne fis pas de l'église ma contemplation, mais
+monoeuvre; je ne la pris pas comme faite, mais je la refis... de quoi?
+de l'élément même qui la fit la première fois, du coeur et du sang de
+l'homme, des libres mouvements de l'âme qui ont remué ces pierres, et
+sous ces masses où l'autorité pèse impérieusement sur nous, je montrai
+quelque chose de plus ancien, de plus vivant, qui nia l'autorité même,
+je veux dire la liberté...</p>
+<p>» J'ai suivi la même marche, porté la même préoccupation des causes
+morales, du libre génie humain dans la littérature, dans le droit, dans
+toutes les formes de l'activité. Plus je creusais par l'étude, par
+l'érudition, par les chroniques et les chartes, plus je voyais au fond
+des choses, pour premier principe organisateur, le sentiment et l'idée,
+le coeur de l'homme, mon coeur!... »</p>
+<p>Celle exaltation et cette glorification de lui-même vont continuant sur
+ce ton :</p>
+<p>« Le sentiment de la vie morale, qui seul révèle les</p>
+<p><pb/></p>
+<p>86 CHRONIQUES PARISIENNES.</p>
+<p>causes, éclaira, dans mes livres et dans mes cours, les temps de la
+Renaissance. Le vertige de ces temps ne me gagna pas, leur fantasmagorie
+ne m'éblouit point, l'orageuse et brillante fée ne put me changer comme
+elle en a changé tant d'autres; elle fit en vain passer devant mes yeux
+son iris aux cent couleurs... D'autres voyaient tout cela comme costumes
+et blasons, drapeaux, armes curieuses, coffres, armoires, faïences, que
+saisje?... et moi je ne vis que l'âme...</p>
+<p>» Je n'eus jamais un sentiment plus religieux de ma mission que dans ce
+cours de deux années; jamais je ne compris mieux le sacerdoce, le
+pontificat de l'histoire ; je portais tout ce passé, comme j'aurais
+porté les cendres de mon père ou de mon fils... »</p>
+<p><pb/></p>
+<p>XXI</p>
+<p>Ce 31 juillet 1843.</p>
+<p>FEUILLETON DE JULES JANIN SUR LES DEMOISELLES DE SAINT-CYR. — DUMAS SE
+FACHE. — EUGÈNE SCRIBE. — UN AUTEUR COMIQUE A NAITRE. — UN</p>
+<p>DÉJEUNER DE GARÇONS PERPÉTUEL. ABUS DE</p>
+<p>GRANDS HOMMES DE BIEN.</p>
+<p><pb/></p>
+<p>88 CHRONIQUES PARISIENNES,</p>
+<p>Comme correctif essentiel du feuilleton de Janin, il vous faut lire et
+consulter l'article de la Revue des DeuxMondes du 1er août, signé P. L.
+(Paulin Limayrac); tout bienveillant qu'il est, il a de la justesse,
+touche les vrais points et donne une idée fidèle. Les critiques en sont
+fines, et Janin y a son paquet.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 89</p>
+<p><pb/></p>
+<p>90 CHRONIQUES PARISIENNES.</p>
+<p>Une petite anecdote philologique, mais qui marque sous le grandiose de
+l'expression une certaine confusion d'idées :</p>
+<p>El le raisonnement en bannit la raison.</p>
+<p><pb/></p>
+<p>XXII</p>
+<p>Ce 3 août 1843.</p>
+<p>LA PRINCESSE DE JOINVILLE.— LES LETTRES PARISIENNES DE MADAME DE
+GIRARDIN. — JÉSUITISME ET GALLICANISME. — CONVERSION DE M. RATISBONNE. —
+PEINTURE RELIGIEUSE ET GALANTE.</p>
+<p><pb/></p>
+<p>92 CHRONIQUES PARISIENNES,</p>
+<p>bas. Noire été, qui est détestable, lui fait l'effet d'un brouillard, et
+comme on disait devant elle qu'on ferait telle chose l'hiver prochain,
+elle a demandé avec effroi : « Quoi! est-ce qu'il y aura encore un hiver
+? » Elle trouve que c'est bien assez d'un été comme celui-ci, et elle a
+bien raison. Le fait est qu'elle est très-jeune, trèsenfant ; on va
+tâcher de la distraire.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 93</p>
+<p><pb/></p>
+<p>XX111</p>
+<p>Ce 5 août 1843.</p>
+<p>DE LA LIBRAIRIE CATHOLIQUE.</p>
+<p>... Pour les questions religieuses en France, il y a, comme chez vous,
+un public sûr et qui achète. Toute la littérature catholique a un débit
+excellent. Pour un littérateur dévot et industriel, c'est une carrière.
+Tout manuscrit trouve éditeur et acheteur. Ce petit polisson</p>
+<p>de fait des romans catholiques qui s'écoulent.</p>
+<p><pb/></p>
+<p>XXIV</p>
+<p>Ce lundi 7 août 1843.</p>
+<p>REPRISE ET FIN DE LA QUERELLE DE JANIN ET DE DUMAS. — EUGÈNE SUE. —
+THÉODORE BURETTE.</p>
+<p>— ... Sue a vu de bonne heure le fond de cale, il nous en fait jouir
+aujourd'hui.</p>
+<p><pb/></p>
+<p>96 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>XXV</p>
+<p>Ce 14 août 1843.</p>
+<p>LES MYSTÈRES DE PARIS. — LAMARTINE VISE A L'O'CONNELL. — SA LISTE
+CIVILE. — QUERELLE DE DUMAS ET DE JANIN ARRANGÉE. — GRAVE SYMPTOME DE
+DÉCADENCE MORALE.</p>
+<p>La mystification des Mystères de Paris continue : hier, dans les Débats,
+un avocat du roi, M..., invoque ce livre comme autorité.</p>
+<p>Aujourd'hui, Sue discute la question d'humanité rela - tivement aux
+médecins dans les hôpitaux.</p>
+<p>Parti du Rétif et du de Sade, il est en voie d'aboutir au saint Vincent
+de Paul en passant par le DucrayDuminil.</p>
+<p>— Lettre de Lamartine (dans la Revue indépendante) à
+Chapuys-Montlaville, un de ses biographes ; il est aux abois, il vise à
+l'O'Connell : il ne serait pas fâché d'avoir sa liste civile comme
+ministre de l'opinion. Trouvez-moi un million, je me charge de le
+dépenser. 0 honte!</p>
+<p>6</p>
+<p><pb/></p>
+<p>98 CHRONIQUES PARISIENNES.</p>
+<p>Lisez celte lettre, et voyez ce qu'elle signifie sous les draperies.—Je
+ne vois que des charlatans. Il finit par : un coeur, une foi, une
+voix.—Je crois que c'est la voix qui domine 1.</p>
+<p>Dans le feuilleton des Débats du lundi 21 août, vous pouvez voir ce
+résultat, et comme quoi il a été décidé</p>
+<p>» Ces hommes (les collaborateurs du journal) seraient au fond le
+véritable pouvoir moral de la nation, les administrateurs de la pensée
+publique, le concile permanent de la civilisation moderne... Il y a en
+ce temps-ci quelque chose de plus beau que d'être ministre de la Chambre
+ou de la Couronne, c'est d'être ministre de l'opinion!</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 99</p>
+<p>que la querelle n'avait pas franchi les bornes littéraires, et comme
+quoi encore tous les deux seront membres un jour de l'Académie française
+pour le plus grand honneur (ficelle.</p>
+<p><pb/></p>
+<p>XXVI</p>
+<p>Ce 27 août 1843.</p>
+<p>ÉTUDES CATHOLIQUES ET UNIVERSITAIRES. — PORTRAIT DE VILLEMAIN. —
+PARALLÈLE AVEC GUIZOT ET COUSIN. — M. DE GENOUDE.</p>
+<p>Dans le feuilleton des Débats du 21 août, vous pouvez voir qu'il y a eu
+une brochure de l'archevêque de Paris 1, qu'il y a fait allusion sur la
+fin et répondu au livre de Quinet et Michelet (Des Jésuites). Ceux-ci
+ont répliqué, Michelet je ne sais où, Quinet a dû répondre dans le Siècle.</p>
+<p>t. Observation sur la liberté de l'enseignement.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 101</p>
+<p>louant ou en blâmant, on ne sort guère chrétien des écoles de l'Université.</p>
+<p>té6.</p>
+<p><pb/></p>
+<p>102 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 103</p>
+<p>Elève favori de Fontanes, il l'eût surpassé en tout, hormis dans la poésie.</p>
+<p><pb/></p>
+<p>104 CHRONIQUES PARISIENNES.</p>
+<p>Villemain est le critique progressif et évasif par excellence.</p>
+<p>Trois hommes éminents ont exercé la plus grande influence sur la
+direction des esprits et des études en France depuis vingt-cinq ans, et
+on peut dire qu'ils ont été véritablement les régents de cet âge :
+Guizot, Cousin et Villemain. Guizot avait plutôt l'autorité sobre et
+sévère ;</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 105</p>
+<p>Quoi qu'il en soit, le caractère de professeur qui les a marqués d'abord
+reste empreint sur chacun des trois.</p>
+<p><pb/></p>
+<p>106 CHRONIQUES PARISIENNES.</p>
+<p>— Il a été fort question de l'abbé de Genoude dans ces derniers temps.
+Comme il s'est mis sur les rangs pour la députation sous le patronage de
+Laffitte et d'Arago, les Débats s'en sont égayés et ils ont bien fait;
+ils l'ont fait de plus avec grand esprit. Genoude a le privilége de
+mettre les Débats en gaieté, de leur rendre la verve aux moments de
+lassitude et de disette. Quand les sujets manquent, on se jette sur le
+Genoude et on en taille une tranche : il y a de quoi (ailler. La fortune</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 107</p>
+<p><pb/></p>
+<p>108 CHRONIQUES PARISIENNES.</p>
+<p>... et fibris increvit opimum Pinguc...</p>
+<p>a dit Juvénal. »</p>
+<p><pb/></p>
+<p>XXVII</p>
+<p>Ce 2 septembre 1843.</p>
+<p>ACCIDENT AU TRÉP0RT.— VOYAGE DE LA REINE DANGLETERRE. — RÉPONSE D'EDGAR
+QUINET A L'ARCHEVÊQUE DE PARIS.</p>
+<p>7</p>
+<p><pb/></p>
+<p>110 CHRONIQUES PARISIENNES.</p>
+<p>Les journaux vous diront les suites pour ce voyage,- et il y a encore
+toute chance ouverte.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 111</p>
+<p><pb/></p>
+<p>112 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>XXVIII</p>
+<p>Jeudi, 7 septembre 1843.</p>
+<p>MADAME SAND DANS SON BERRY. — DEPART DE BALZAC POUR LA RUSSIE.—MORT DE
+LA FILLE ET DU GENDRE DE VICTOR HUGO.—AFFREUSE CATASTROPHE.—VERS DE
+VICTOR HUGO.—LE DISCOURS DU CARDINAL PACCA. — SÉNILITÉ FLEURIE. — NOTES
+DE MON VOYAGE A</p>
+<p>ROME.</p>
+<p>— Le journal des Débats de ce matin 7 vous dira assez de nouvelles :</p>
+<p><pb/></p>
+<p>114 CHRONIQUES PARISIENNES.</p>
+<p>aînée de Victor Hugo, mariée il n'y a pas plus de six mois, âgée de
+dix-neuf ans au plus 1 ;</p>
+<p>NOTES D'UN VOYAGEUR EN 1839.</p>
+<p>Et encore :</p>
+<p>« Rome est morte et bien morte. Ce n'est qu'une</p>
+<p>l. Vous pourriez peut-être citer les vers que Hugo avait faits pour
+cette pauvre jeune femme au moment de son mariage et de sa sortie de la
+maison paternelle :</p>
+<p>Ici l'on te retient, là-bas l'on te désire.. Fille, épouse, ange,
+enfant, fais ton double devoir : Donne-nous un regret, donne-leur un
+espoir ; Sors avec une larme, entre avec un sourire.</p>
+<p>Cette jeune femme était en effet charmante, sensée, fine, discrète et
+au-dessus de son âge.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 115</p>
+<p>Et encore :</p>
+<p><pb/></p>
+<p>116 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>XXIX</p>
+<p>Ce 25 septembre 184</p>
+<p>UN CATÉCHISME, PAR M. COUSIN. — IMPORTANCE CROISSANTE DU PARTI
+CATHOLIQUE. — SES RELATIONS DYNASTIQUES.—POLITIQUE D'ATERMOIEMENT DU ROI
+LOUIS-PHILIPPE. — LA FRANCE CATHOLIQUE PAR AMBITION. — PROGRAMME DE LA
+LIBERTÉ DE L'ENSEIGNEMENT RÉCLAMÉE PAR LES JÉSUITES. — JANIN. — GAUTIER.
+— DELPHINE GAY. — M. PATIN, ETC.</p>
+<p><pb/></p>
+<p>118 CHRONIQUES PARISIENNES.</p>
+<p>importance extrême, elle est bien désagréable par toutes les
+grossièretés qu'elle soulève de la part de notre parti prêtre et de ses
+écrivains, les plus injurieux de tous les insulteurs en un temps et dans
+un pays où il y en a tant.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 119</p>
+<p><pb/></p>
+<p>120 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 121</p>
+<p><pb/></p>
+<p>122 CHRONIQUES PARISIENNES.</p>
+<p>Au nom d'un article de la Charte, au nom des serments d'août 1830, voici
+en fait ce que les catholiques, par l'organe de Veuillot, réclament :</p>
+<p>1° Liberté pour tout citoyen d'ouvrir école;</p>
+<p>2° Liberté pour tout citoyen de fréquenter telle école que bon lui
+semblera, et d'y envoyer ses enfants ;</p>
+<p>3° Formation d'un jury d'examen pour le baccalauréat, réunissant aux
+garanties nécessaires de science et de sévérité, les garanties non moins
+indispensables de moralité et d'impartialité, afin que devant ce jury,
+tout citoyen, sous le seul patronage de sa capacité et de son honneur,
+puisse demander le diplôme, quelle que soit l'école qu'il ait
+fréquentée, et quand même il n'en aurait fréquenté aucune.</p>
+<p>— Tout cela, en principe, semble assez raisonnable et ne doit pas
+laisser d'embarrasser les universitaires</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 123</p>
+<p>qui, tels que Dubois du Globe, par exemple, ont dans le temps réclamé
+pour tous la liberté de l'enseignement.</p>
+<p>Il est de fait, en outre, que pour une certaina éducation morale,
+paternelle, un peu aristocratique, et qui continue doucement les
+traditions du foyer et de la famille, les pensionnats tenus par des
+Pères plus ou moins jésuites sont incomparablement plus sûrs que les
+colléges de l'Université : ceux-ci produisent des lycéens bien appris,
+éveillés, de bonnes manières, et qui deviennent très-aisément de gentils
+libertins. Le sentiment moral inspire peu les gros bonnets, les chefs,
+et tout le corps s'en ressent.</p>
+<p>« Si vous savez l'heure de notre défaite ou de notre » avilissement,
+mettez en sûreté vos trésors. Tout croule » quand nous ne sommes plus
+là. — Vingt empires dor» ment dans les tombeaux qu'ils nous ont creusés. »</p>
+<p><pb/></p>
+<p>124 CHRONIQUES PARISIENNES.</p>
+<p>pour se défendre toute seule : laissons-la faire,— C'en</p>
+<p>est bien assez aujourd'hui sur cette grosse-querelle.</p>
+<p>— Cousin, toujours en quête et en action, a publié, dans la Revue des
+Deux Mondes du 15, un morceau inédit de Pascal sur l' amour : le morceau
+est beau dans sa subtilité et paraît bien authentique. Le préambule de
+Cousin a eu d'ailleurs peu de succès, il manque de sérieux, et on y sent
+trop la fanfare. Mais la trouvaille a du prix.</p>
+<p>— On annonce d'Eugène Sue un nouveau roman en feuilletons, Le Juif
+errant, ce seront les mystères du monde et de tous les pays. La Presse
+et les Débats se disputent ce prochain roman et on est aux folles enchères.</p>
+<p>— Le troisième volume des Etudes sur les tragiques grecs de Patin a paru
+et complète son ouvrage : c'est celui de Schlegel refait, sans
+invention, avec plus de détails et</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 125</p>
+<p><pb/></p>
+<p>XXX</p>
+<p>Ce 30 septembre 1843.</p>
+<p>PEU DE SUCCES DE LA REPRISE DE LUCRECE. — LA LIBERTÉ DE L'ENSEIGNEMENT.
+— MADAME DE GIRARDIN.</p>
+<p>J'attends vainement : pas une pauvre petite nouvelle, pas un seul petit
+brin de mousse ou de vermisseau.</p>
+<p>— Ce n'en est pas une de nouvelle que l'Odéon ait rouvert avant-hier 28
+par Lucrèce; madame Dorval jouait Tullie, mademoiselle Maxime faisait
+Lucrèce. Cela a été froid, et même l'acteur qui jouait le père a perdu
+je ne sais pourquoi la tête, et au lieu de L'assassin pâlissant, il
+s'est avisé de dire polisson, ce qui a bien fait rire.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 127</p>
+<p>que la passion ou l'intérêt s'en mêlent : alors on fléchit tout doucement.</p>
+<p><pb/></p>
+<p>128 CHRONIQUES PARISIENNES.</p>
+<p>Les vers de Musset dans le numéro du 1er octobre de la Revue des Deux
+Mondes, Le miei Prigioni, sont sur ce qu'il a été mis quinze jours en
+prison pour la garde nationale. — Il y a un article sur l'Allemagne
+qu'on me dit très-bon, de M. Saint-René Taillandier, auteur d'une bonne
+thèse sur Scot Erigène.</p>
+<p>1. C'est Charles Labitte qui est le Lagenevais. de cette fois sur madame
+Emile de Girardin.</p>
+<p><pb/></p>
+<p>XXXI</p>
+<p>Ce 4 octobre 1843.</p>
+<p>INSUCCES DE LUCRECE A SA REPRISE.</p>
+<p><pb/></p>
+<p>130 CHRONIQUES PARISIENNES,</p>
+<p><pb/></p>
+<p>XXXII</p>
+<p>Ce 6 octobre 1843.</p>
+<p>LES MYSTERES DE PARIS.</p>
+<p>On l'a dit, on est toujours le jacobin de quelqu'un. — On est toujours
+le moraliste de quelqu'un.</p>
+<p><pb/></p>
+<p>132 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>XX XIII</p>
+<p>Ce 3 novembre 1843.</p>
+<p>LE DUC DE BORDEAUX. — CHATEAUBRIAND. — DISETTE DE GRANDS NOMS DANS LE
+CLERGÉ FRANÇAIS — OPINION DE JOSEPH DE MAISTRE. — L'ABBÉ DE CAZALÈS. —
+M. PATIN. — LES TRAGIQUES GRECS. —</p>
+<p>SAINT-MARC GIRARDIN. — SA SÉCHERESSE D'ESPRIT. — OPPOSÉ A M. DE RÉMUSAT.</p>
+<p>8</p>
+<p><pb/></p>
+<p>134 CHRONIQUES PARISIENNES,</p>
+<p>— Herwegh, le poëte de la haine, est, dit-on, ici.</p>
+<p>— La question religieuse, la seule sur le tapis, grossit toujours. Vous
+aurez lu les lettres du cardinal de Bonald et de l'évêque de Chàlons 1.
+Le clergé continue de</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 135</p>
+<p>se donner tous les torts par la forme. Mais le pouvoir est si peureux
+que ce bruit peut-être réussira, au moins pour quelque concession.</p>
+<p>Que ce vieux nom de Bonald ne vous abuse pas. Une chose est essentielle
+aujourd'hui au clergé de France, c'est l'absence de noms. Il ne se
+recrute guère que dans le peuple et chez les paysans (pagani) : signe
+très-singulier, mais qu'on ne saurait méconnaître. Il est très-rare que
+dans des familles aisées, bourgeoises, moyennes, même religieuses, aucun
+fils se destine au sacerdoce, ce n'est plus une carrière. Il est de plus
+en plus rare que cela arrive dans des familles nobles, dans celles où se
+recrutait autrefois le haut clergé. Les hautes dignités elles-mêmes du
+clergé ne paraîtraient plus aujourd'hui aux enfants de ces familles
+nobles, d'ordinaire encore très-religieuses, une considération sociale
+suffisante et une compensation pour ce qu'ils perdraient. Qu'en
+résulte-t-il ? c'est qu'il n'y a guère que les gens de campagne,
+fermiers ou petits propriétaires-laboureurs, qui poussent quelqu'un de
+leurs fils au petit séminaire, où il est élevé le plus souvent gratis;
+ils considèrent cette prêtrise comme un avancement social relativement à
+leur obscure condition. Mais ces enfants, même en étudiant avec soin ce
+qu'on leur apprend, ignorent une quantité de choses de la société et de
+la vie, et du monde moderne, qu'on apprend d'ordinaire par l'air, dans
+l'atmosphère générale et par les relations</p>
+<p>ordre de son supérieur ecclésiastique de quitter cet établissement :
+pour n'être que provisoire, la mesure n'en est pas moins un défi, une
+menace, et non plus en paroles seulement.</p>
+<p><pb/></p>
+<p>136 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 137</p>
+<p>dant sous la Restauration, feuille grave, modérée et très-éclairée. De
+tels membres sont malheureusement trop rares dans le clergé français.</p>
+<p>8.</p>
+<p><pb/></p>
+<p>138 CHRONIQUES PARISIENNES.</p>
+<p>— La Revue de Paris de dimanche dernier a publié un chapitre de
+l'ouvrage de M. Saint-Marc Girardin, autre universitaire très-spirituel,
+des plus distingués et des plus influents. Il est député, professeur à
+la Faculté des Lettres et membre du Conseil de l'Université.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 139</p>
+<p><pb/></p>
+<p>14O CHRONIQUES PARISIENNES.</p>
+<p>M. Nisard au style rengorgé, M. Saint-Marc au style dégagé.</p>
+<p><pb/></p>
+<p>XXXIV</p>
+<p>Ce 4 novembre 1843.</p>
+<p>LERMINIER. — LAMARTINE. — DISETTE DE NOUVEAUTÉS EN LIBRAIRIE. — M.
+ARTHUR PONROY. — DÉBUT DES FRÈRE ET SOEUR DE MADEMOISELLE RACHEL. —
+L'ESPRIT HUMAIN PEU INVENTIF. — EVE, PAR LÉON GOZLAN. — LA FILLE
+D'ALEXANDRE SOUMET. — UN POEME DE SIX MILLE VERS.</p>
+<p><pb/></p>
+<p>142 CHRONIQUES PARISIENNES.</p>
+<p>— Le directeur de l'Odéon essaye de retrouver et de contrefaire son
+succès de Lucrèce. Il y a une tragédie, le Vieux Consul (un Marius, je
+crois), dont on veut faire le Cid d'un nouveau petit Corneille :
+celui-ci serait, cette fois, un M. Arthur Ponroy qui a publié incognito
+un volume de poésies intitulé : Formes et Couleurs, où il y a quelques
+beaux vers, mais de l'école de Victor Hugo, d'ailleurs avec beaucoup de
+prétention et d'emphase.</p>
+<p>Il n'est pas jusqu'au père de mademoiselle Rachel (on l'appelle M.
+Félix) qui ne fasse débuter ses autres enfants, encore mineurs, à
+l'Odéon, espérant retrouver les succès et les profits de l'aînée. — On
+dit que l'esprit humain est inventif; ce qui me frappe plutôt, c'est
+combien il l'est peu, et combien on se traîne sur les mêmes traces</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 143</p>
+<p>— La fille du poëte Alexandre Soumet, madame d'Altenheim, vient de
+publier (il y a deux mois) un poème de six mille vers, intitulé Berthe
+et Bertha. Il y a de jolis vers; elle a du genre de talent de son père :</p>
+<p>Eve perdit l'Éden, afin de le rêver!</p>
+<p>C'est encore de l'école de la Muse française de 1824. Et qu'on dise que
+nous n'avons pas du nouveau !</p>
+<p><pb/></p>
+<p>XXXV</p>
+<p>Ce 6 novembre 184</p>
+<p>VENTE DES LIVRES CATHOLIQUES. — LAMENNAIS. — RAPHAËL ET RÉBECCA FÉLIX,
+FRÈRE ET SOEUR DE MADEMOISELLE RACIIEL.— LÉON GOZLAN. — VOYAGE DE
+CHATEAUBRIAND A LONDRES. — VISITE D'EUGÈNE SUE A GEORGE SAND. —
+BÉRANGER. — QUATRE GRANDES PUISSANCES DU JOUR. — DUPIN.</p>
+<p>Certains livres catholiques se vendent si bien en France et sont pour
+les auteurs d'un profil si réel, qu'on assure que M. de Lamennais, ruiné
+depuis longtemps, a surtout vécu et vit encore de la vente des éditions
+de son Imitation de Jéus-Christ et de sa Journée du chrétien. C'est la
+seule chose qui lui reste de son passé; ce grain de sel de l'autel sur
+son pain devrait le faire se ressouvenir un*peu, et lui faire relire le
+chapitre XIV, livre III de. l' Imitation, avec le commentaire qu'il y a
+joint sur les chutes par orgueil.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 145</p>
+<p>soeur de mademoiselle Rachel, s'appellent Raphaël et Rébecca, un Cid et
+une Chimène, —» deux jeunes et intéressants Israélites, comme disent les
+petits journaux, — deux enfants hardis et de race, qui ne doutent de rien.</p>
+<p>avo9</p>
+<p><pb/></p>
+<p>146 CHRONIQUES PARISIENNES.</p>
+<p>Dupin : on peut le définir le plus spirituel des esprits communs.
+Aujourd'hui pourtant, dans cet éloge d'Etienne Pasquier, il a été aussi
+grave qu'instructif et intéressant.</p>
+<p><pb/></p>
+<p>XXXVI</p>
+<p>Ce 2 décembre 1843.</p>
+<p>VOYAGE DU DUC DE BORDEAUX EN ANGLETERRE. — CRAINTES DE L'UNIVERSITÉ EN
+FACE DU CLERGÉ. — MONTALEMBERT. — COUSIN SUR VANINI. — CATHOLICISME ET
+ÉCLECTISME.</p>
+<p>Le voyage du duc de Bordeaux en Angleterre est plus que jamais l'objet
+des conversations d'un certain monde, mais d'un monde bien resserré. Il
+a eu là-bas bien des petits ennuis; il a été prié de ne point revenir à
+Londres tant que le duc de Nemours y serait. La reine Victoria a pris ce
+voyage du duc de Bordeaux en pique, et l'a considéré comme un
+trouble-fête qui venait gêner la partie arrangée du duc et de la
+duchesse de Nemours.</p>
+<p><pb/></p>
+<p>148 CHRONIQUES PARISIENNES,</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 149</p>
+<p>— Décidément on n'a pas une activité si multiple, si infatigable, si
+élevée dans son objet, sans être de la volée</p>
+<p><pb/></p>
+<p>150 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 151</p>
+<p><pb/></p>
+<p>152 CHRONIQUES PARISIENNES.</p>
+<p>l'ennemi qui a beau se pavoiser de ses plus pacifiques couleurs. La
+force des choses l'emporte. Après le XVIIIe siècle accompli, il n'y a
+plus de philosophie possible si mitigée et si méthodique qu'elle soit,
+qui au fond et en résultat ne se trouve hostile au catholicisme.</p>
+<p><pb/></p>
+<p>XXXVII</p>
+<p>Ce 3 décembre 1843.</p>
+<p>PARADE ET COMEDIE LEGITIMISTES. — CHATEAUBRIAND VIEUX BONHOMME. —
+SERMENT DES DÉPUTÉS. — CONFÉRENCES DU PÈRE LACORDAIRE A NOTREDAME. —
+LACORDAIRE ET MONTALEMBERT.— IMPROVISATIONS POLITIQUES DE M. DE LAMARTINE.</p>
+<p>9.</p>
+<p><pb/></p>
+<p>154 CHRONIQUES PARISIENNES.</p>
+<p>The good old man ! ô vanité de la gloire humaine! Cela s'appelle être à
+la fois couronné du chapeau de laurier et coiffé du bonnet de coton.</p>
+<p>Ce dernier pèlerinage de Chateaubriand, ce sera après tout et pour tout
+résultat une belle page nouvelle des Mémoires. C'est encore de la
+littérature.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 155</p>
+<p>mais celui de chanoine de Notre-Dame. Il a parlé des morts anciennes
+opposées aux morts chrétiennes, Darius, Caton, Socrate, Alexandre, que
+sais-je ? Il ne paraît pas qu'il ait été très-chrétien, ni même
+éloquent. Lacordaire a d'ordinaire de l'éclat, de l'imagination, du
+talent, mais un esprit peu judicieux, des rapprochements historiques
+forcés qui seraient plutôt saint-simoniens que chrétiens, toute
+l'emphase du jour: sa parole lui échappe ■souvent, et il ne la gouverne pas</p>
+<p>Les vrais chefs savent au besoin varier, changer le front de bataille,
+accommoder les dispositions et l'assaut selon les difficultés du moment.
+Les disciples, une fois lancés, vont tout droit et ne s'arrêtent plus.</p>
+<p><pb/></p>
+<p>156 CHRONIQUES PARISIENNES.</p>
+<p>Lacordaire et Montalembert sont des restes de l'ancienne rédaction du
+journal l'Avenir qu'ils rédigeaient avec Lamennais (1832); ils sont
+allés faire explosion chacun de leur côté.</p>
+<p>La brochure de Montalembert intitulée : Du devoir des catholiques dans
+la question de la liberté d'enseignement est datée de Madère, où
+l'auteur est allé depuis un an pour soigner la santé de sa jeune femme.</p>
+<p>— M. de Lamartine continue tous les matins ses improvisations politiques
+: il n'y a pas de raison pour qu'il n'en paraisse pas une chaque jour
+ainsi durant des années. Ce sont des effusions sans travail, sans
+réflexion,</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 157</p>
+<p><pb/></p>
+<p>XXXVIII</p>
+<p>Ce 20 décembre 1843.</p>
+<p>LACORDAIRE, HENRI V ET CHATEAUBRIAND. — MORT DE CASIMIR DELAVIGNE. —
+NOBLES PAROLES DE VICTOR HUGO SUR SA TOMBE. — CANDIDATURES ACADÉMIQUES.
+— TIBERE, TRAGÉDIE DE MARIE-JOSEPH CHÉNIER AU THÉÂTRE-FRANÇAIS. —
+ARTICLE SCANDALEUX DE JANIN.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES 159</p>
+<p>et du prêtre, d'autorité. — Oh ! qu'un bon petit grain de Bourdaloue
+ferait bien mieux mon affaire !</p>
+<p><pb/></p>
+<p>160 CHRONIQUES PARISIENNES.</p>
+<p>1. La mort tragique de sa fille et de son gendre.</p>
+<p>(Note de l'éditeur).</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 161</p>
+<p><pb/></p>
+<p>162 CHRONIQUES PARISIENNES.</p>
+<p>modeste.</p>
+<p>— Le sixième volume de l'Histoire de France de Michelet a paru; il
+contient le récit de la lutte entre Louis XI et Charles le Téméraire.
+Cela regarde directement les Suisses. La manière de voir de M. de Gingins</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 163</p>
+<p>n'y est pas accueillie, bien que Michelet en tienne compte. Ce volume a
+l'air d'un des meilleurs de l'ouvrage.</p>
+<p><pb/></p>
+<p>XXXIX</p>
+<p>Décembre 1843.</p>
+<p>1. Style de Mascarille dans les Précieuses ridicules.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 163</p>
+<p>Un drame de nos jours</p>
+<p>Peut bien tomber,mais rebondit toujours.</p>
+<p><pb/></p>
+<p>XL</p>
+<p>Fin décembre 1843,</p>
+<p>REPONSE AU JOURNAL DU LÉMAN,</p>
+<p><pb/></p>
+<p>XLI</p>
+<p>Ce 3 janvier 1844.</p>
+<p>ANNEE STERILE. — ARTICLE DE M. PAULIN LIMAYRAC SUR LES MYSTÈRES DE
+PARIS. — BROCHURE DE L'ABBÉ COMBALOT SUR LA LIBERTÉ DE
+L'ENSEIGNEMENT.—PROCHAINE INAUGURATION DU MONUMENT DE MOLIÈRE.-—DISCOURS
+DU ROI MOINS UNIVERSITAIRE QUE CELUI DE M. VILLEMAIN. — ARTICLE DE M.
+F0RCADE SUR LE PARTI LÉGITIMISTE. — MALADIE DE CHARLES NODIER. —
+SYMPATHIE UNIVERSELLE ET GOUT DE LA FRANCE POUR L'ESPRIT.</p>
+<p>Je reprends ma lâche en 1844.</p>
+<p><pb/></p>
+<p>168 CHRONIQUES PARISIENNES.</p>
+<p>hu*</p>
+<p>main est plutôt stérile qu'autre chose, — surtout depuis juillet 1830.</p>
+<p>— Ce petit volume de Saint-Marc Girardin, agréable, mais bien mince,
+avec toutes ses conditions de mesure et d'assaisonnement, a fort réussi;
+près de deux mille exemplaires, dit-on, se sont écoulés en un mois. Mais
+c'est trop vile dévoré; ce n'est pas une pièce de résisstance.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 169</p>
+<p>— On va inaugurer le monument de Molière rue Richelieu, en face du n° 34
+où il habitait. Il s'est élevé des dif1.</p>
+<p>10</p>
+<p><pb/></p>
+<p>170 CHRONIQUES PARISIENNES</p>
+<p>Ce petit fait tout littéraire peut donner la mesure de la décision et de
+la hauteur de vue de nos hommes d'État dans les questions de conflit qui
+vont se présenter. — L'Académie française, par l'organe de M. Dupaty, a
+fait une motion afin de se mettre d'autant plus en avant pour Molière,
+lequel, en son temps, n'était pas de l'Académie.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 171</p>
+<p>nait Boileau, et le maréchal de Richelieu appuyait Voltaire. Et de nos
+jours, qui donc a plus brillamment donné que ces gentilshommes,
+Chateaubriand, Lamartine, Bonald, etc. ? Il est vrai qu'avec tout ce
+brillant il y a toujours eu décousu et inconséquence.</p>
+<p><pb/></p>
+<p>XLII</p>
+<p>Ce 5 janvier 1844.</p>
+<p>FÉLIX PYAT CONTRE JULES JANIN.</p>
+<p>— Le feuilleton de Janin contre le Tibère de Chénier et contre ce poète
+éminent a produit de l'indignation dans plus d'un coeur : voici que les
+représailles sont venues. Félix Pyat s'est porté pour le vengeur de
+Chénier : a-t-il lui-même, pour son compte, quelque dent particulière
+contre Janin qui l'aurait maltraité comme auteur dramatique ? Je ne
+sais. Quoi qu'il en soit, Pyat a lancé un article foudroyant que le
+Charivari, dont il est rédacteur ordinaire, n'a pas osé insérer en son
+entier, mais que la Réforme a accueilli. Janin se l'est attiré par son
+feuilleton indécent. Ce sont des échantillons curieux du degré d'aménité
+où en sont venues nos moeurs littéraires. On n'avait pourtant rien
+encore écrit aujourd'hui de la force du feuilleton de Pyat. Nous ne
+savons comment l' enfant gâté avalera cette médecine.</p>
+<p><pb/></p>
+<p>XLIII</p>
+<p>Ce G janvier 1844, onze heures du soir.</p>
+<p>SUITE DE LA POLEMIQUE ENTRE FELIX PYAT ET JULES JANIN. — MADEMOISELLE
+RACHEL DANS BÉRÉNICE.</p>
+<p>10.</p>
+<p><pb/></p>
+<p>174 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>XLIV</p>
+<p>Ce 8 janvier 1844.</p>
+<p><pb/></p>
+<p>XLV</p>
+<p>Ce 1er février 1844.</p>
+<p>SUITES ET CONSÉQUENCES DE LA VISITE DES DÉPUTÉS LÉGITIMISTES AU COMTE DE
+CHAMBORD EN ANGLETERRE.— EXPLOSIONS A LA CHAMBRE. —LES FLÉTRlS.</p>
+<p>— GUIZOT ET BERRYER. — LOUIS-PHILIPPE ET M. DE SALVANDY. — VISITE DES
+ÉTUDIANTS A CHATEAUBRIAND LE FLÉTRI. — VIE DE L'ABBÉ DE RANCÉ. —
+INAUGURATION DE LA STATUE DE MOLIÈRE. — DISCOURS D'ARAGO. — ENTERREMENT
+DE CHARLES NODIER. ODES ET POEMES, PAR VICTOR DE LAPRADE.</p>
+<p>— LES JÉSUITES, D'APRÈS UNE BROCHURE DU PÈRE RAVIGNAN. — PROCÈS DE JANIN
+CONTRE PYAT.</p>
+<p>L'indifférence des esprits et l'insignifiance de la situation ont bien
+changé depuis trois semaines. On était en pleine paix, en pleine fadeur;
+on s'agitait, on cherchait un sujet, un prétexte. Eh bien, tout cela est
+trouvé et l'on jouit de l'orage. C'est le voyage de Londres qui a amené
+la péripétie. Ce voyage pourtant était impopulaire et plaçait dans une
+situation des plus fausses les députés qui se l'étaient permis. Mais, en
+outrepassant</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 177</p>
+<p><pb/></p>
+<p>178 CHRONIQUES PARISIENNES,</p>
+<p>montré tout ce que peut la ténacité d'un homme insulté, traqué, et un
+invincible courage. C'est le jugement unanime même des ennemis.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 179</p>
+<p>— Une cérémonie plus triste et très-solennelle a été</p>
+<p><pb/></p>
+<p>180 CHRONIQUES PARISIENNES,</p>
+<p>l'enterrement de Charles Nodier. Il y avait foule et des regrets
+universels. Il laisse une mémoire charmante et douce, il n'a trouvé dans
+ses nombreux amis ni un ingrat ni un indifférent.</p>
+<p>— Il a paru un volume de vers, Odes et Poëmes, par Victor de Laprade :
+c'est ce qu'il y a eu de plus distingué et de plus élevé depuis assez de
+temps. Laprade est de Lyon, comme Ponsard de Vienne : c'est le bassin du
+Rhône qui nous envoie ces deux derniers poëtes. Laprade, dont la Revue
+indépendante a publié plusieurs pièces recueillies dans le volume que
+nous indiquons, a de l'élévation surtout, de l'harmonie, une langue en
+général pure, une forme large, brillante et sonore; sa poésie respire un
+sentiment vrai et profond de la nature : il y mêle peut-être un peu trop
+de sacerdotal et d'hiérophante. On peut y désirer aussi une inspiration
+individuelle plus marquée, plus de passion; mais les beautés sont
+nombreuses, incontestables; la poésie spiritualiste a retrouvé dans
+Laprade un noble organe. L'une des</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 181</p>
+<p>11</p>
+<p><pb/></p>
+<p>182 CHRONIQUES PARISIENNES,</p>
+<p><pb/></p>
+<p>XLVI</p>
+<p>Ce 7 février 1844.</p>
+<p>PROJET DE LOI SUR L'INSTRUCTION SECONDAIRE..— CONCESSION AUX PETITS
+SÉMINAIRES. — RETOUR DE LA CRITIQUE AUX CHEFS-D'OEUVRE DU XVIIe SIÈCLE.</p>
+<p>— Depuis quelque temps, et surtout depuis les deux</p>
+<p><pb/></p>
+<p>184 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 185</p>
+<p><pb/></p>
+<p>XLVII</p>
+<p>Ce 8 février 1844.</p>
+<p>OPINION D' UN GALLICAN SUR LA BROCHURE DU PERE RAVIGNAN EN FAVEUR DES
+JÉSUITES. — CONDAMNATION DE FÉLIX PYAT POUR DIFFAMATION ENVERS JULES
+JANIN. — ÉLECTIONS DE MM. SAINT-MARC GIRARDIN ET SAINTE-BEUVE A
+L'ACADÉMIE FRANÇAISE.</p>
+<p>A propos de la brochure de M. de Ravignan, un homme d'esprit et de
+doctrine, connu par ses prédilections gallicanes et son opposition aux
+jésuites, disait :</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 187</p>
+<p>qu'il y a eu de généreux, de sain et d'intègre s'est du premier jour
+révolté contre eux; et comme Ordre, je ne sais qu'un éloge qu'on
+pourrait leur donner avec vérité : il faut les louer de toutes les
+vertus qu'ils ont suscitées et fomentées contre eux par leur présence. »</p>
+<p>— Les Débats de ce matin 8 donnent le résultat du procès de Janin : Pyat
+est condamné. On a contraint la défense et on l'a enfermée dans des
+limites très-resserrées, comme cela se pratique dans les procès de
+diffamation.</p>
+<p><pb/></p>
+<p>XLVIII</p>
+<p>Ce 4 mars 1844.</p>
+<p>AFFAIRE D'OTAÏTI. — INTRIGUES PARLEMENTAIRES. — TALENT ÉLEVÉ DE M.
+GUIZOT. — LORD CHATHAM, PAR M. DE VIEL-CASTEL.—CANDIDATURE DE MÉRIMÉE A
+L'ACADÉMIE FRANÇAISE EN REMPLACEMENT DE NODIER. — AUTRES CANDIDATS : M.
+CASIMIR BONJOUR, M. AIMÉ MARTIN, M. ONÉSIME LEROY. — CORRUPTION ET VICE
+DE LA LITTÉRATURE.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 189</p>
+<p>individua11.</p>
+<p><pb/></p>
+<p>190 CHRONIQUES PARISIENNES.</p>
+<p>lités nationales, exclusives, haineuses, héroïques, mais aussi injustes
+qu'implacables ? Quelques nobles esprits prétendent qu'une autre ère
+commence, et M. de Lamartine, par exemple, ne rêve que l'avénement d'un
+grand Chatham pacifique et humanitaire. Brodez là-dessus comme vous
+voudrez.</p>
+<p>Parmi les autres candidats qui se lèvent et qui pourraient prêter à
+quelques remarques littéraires, on est en</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 191</p>
+<p>On se demande de loin comment il se fait qu'un corps éminent comme
+l'Académie ait le don d'attirer, de susciter des noms si secondaires, en
+même temps que de</p>
+<p><pb/></p>
+<p>192 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>XLIX</p>
+<p>Ce 5 mars 1844.</p>
+<p>DE LA LIBERTÉ DE LA PRESSE EN FRANCE. — COALITION ENTRE LES
+JOURNAUX.—LES MEILLEURS JOUR NAUX FRANÇAIS SE FONT A L'ÉTRANGER. —
+BROCHURE DU CARDINAL DE BONALD. — FRANCISCUS CO LUMNA, PAR CHARLES NODIER.</p>
+<p>Mon Dieu! que c'est une terrible chose que d'avoir une conscience et des
+scrupules! Je crains, en nommant les gens, d'être ingrat s'ils sont bien
+pour moi, d'être vindicatif s'ils sont mal. Je ne puis m'en tirer.</p>
+<p>Un misanthrope disait l'autre jour :</p>
+<p>« On croit qu'il y a liberté de la presse en France, elle n'est que sur
+le papier, elle n'existe pas. En littérature, c'est évident. Il y a
+coalition entre les journalistes. Ils se battent ou font semblant comme
+ces condottieri du moyen âge, sans se faire de mal. Ou encore ils font
+comme ces seigneurs voleurs, ces Burgraves du Rhin qui barraient le
+fleuve; aucune vérité ne passe. »</p>
+<p><pb/></p>
+<p>194 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>L</p>
+<p>Ce 8 mars 1844.</p>
+<p>LA LETTRE DES EVEQUES AU ROI.</p>
+<p>Ces démonstrations publiques et politiques du clergé le compromettent de
+plus en plus. Il se fait décidément obstacle, tant pis pour lui.</p>
+<p><pb/></p>
+<p>196 CHRONIQUES PARISIENNES.</p>
+<p>Ce 9 mars 1844.</p>
+<p>C'est le duc de Broglie qui est décidément rapporteur de la Commision de
+la Chambre des pairs sur l'instruction secondaire.</p>
+<p>Ils savent aussi qu'il n'y a plus en France telle chose qu'un roi,
+c'est-à-dire un gardien de la dignité et de la convenance souveraines.</p>
+<p>Ils se rassemblent en synode et par province sans ordre ni autorisation,
+comme on l'eût fait sous Louis le Débonnaire. En Suisse de telles choses
+peuvent sembler toutes simples ; dans un État foncièrement monarchique
+et administratif comme la France, elles ont une extrême gravité.</p>
+<p>M. Villemain est le seul qui ait vigoureusement insisté dans le conseil
+des ministres pour qu'on poursuivît</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 197</p>
+<p>l'abbé Combalot 1 comme coupable de diffamation ; il a obtenu, dit-on,
+cette poursuite contre l'avis de ses collègues et presque malgré le roi.
+On peut trouver singulier que l'initiative en telle matière vienne
+uniquement d'un homme politique qui jusqu'ici était plutôt réputé timide
+: c'est que les autres le sont encore plus.</p>
+<p><pb/></p>
+<p>LI</p>
+<p>Ce 2 avril 1844.</p>
+<p>ÉLECTIONS DE MÉRIMÉE ET DE SAINTE-BEUVE A L'ACADÉMIE.</p>
+<p>L'ACADÉMIE. CONSTITUTIONNEL VENDU A VÉRON. —</p>
+<p>LE COMTE ALEXIS DE SAINT-PRIEST. — LE CARÊME— M. DE RAVIGNAN. — M.
+LEBRUN. — LE JUIF ERRANT.</p>
+<p>— Il y a eu une petite révolution dans le journal même (le
+Constitutionnel); le vieux parti des Jay, des</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 199</p>
+<p><pb/></p>
+<p>200 CHRONIQUES PARISIENNES.</p>
+<p>Ce 4.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 201</p>
+<p><pb/></p>
+<p>202 CHRONIQUES PARISIENNES.</p>
+<p>— Le Constitutionnel de Véron doit publier le Juif errant de M. Eugène
+Sue et l'a payé, dit-on, 1 00 000 francs.</p>
+<p><pb/></p>
+<p>LII</p>
+<p>Ce 25 avril 1844.</p>
+<p>«APPORT DU DUC DE BROGLIE SUR LA LOI DE L' ENSEIGNEMENT SECONDAIRE. —
+LETTRE DE M. DUPANLOUP A M. DE BROGLIE. — M. DE MONTALEMBERT COMPROMET
+SA CAUSE PAR SA VIOLENCE.</p>
+<p><pb/></p>
+<p>204 CHRONIQUES PARISIENNES.</p>
+<p>sin, l'Université a paru devant la Chambre des pairs en robe presque de
+suppliante et d'accusée. Il faudrait que l'Université fût de bien
+chétive complexion pour qu'au premier petit échec (si c'en est un), au
+premier petit avertissement, elle tombât ainsi en défaillance.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 205</p>
+<p>— (26 avril.) M. de Montalembert continue par ses excès oratoires de
+compromettre une cause qui avait été habilement et vertement reprise en
+main par le comte Arthur Beugnot dans un discours plein de talent et
+tout politique.</p>
+<p><pb/></p>
+<p>LIII</p>
+<p>Ce vendredi, avril 1844.</p>
+<p>DEDICACE DE MODESTE MIGNON.— LE SALON DE PEINTURE.—UN PORTRAIT DE LA
+PRINCESSE BELGIOJOSO PAR LEHMAN. — UN TABLEAU D'ARY SCHEFFER.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 207</p>
+<p>Ce roman de Balzac était annoncé, il y a quelques jours, dans les
+Débats, par une lettre de l'auteur, la plus amphigourique, la plus
+affectée et la plus ridicule qui se puisse lire, tout cela afin de
+mettre en goût le public. Ceux qui insèrent de telles fadaises s'en
+moquent sans doute, mais ils croient qu'il faut servir au public ce
+qu'il demande. On est comme au café ou au restaurant, et tout caprice du
+consommateur est tenu pour loi.</p>
+<p>— L'exposition de Peinture et de Sculpture est ouverte depuis un mois :
+tout d'abord, dans le grand salon, on distingue un portrait de cette
+même princesse Belgiojoso par le peintre Lehman, disciple d'Ingres et
+artiste d'un vrai talent. L'aspect pourtant de ce portrait est bien
+étrange. — Ce n'est pas un portrait, disait un spectateur, c'est une
+apparition ! — Si l'exposition de cette année offre peu de grandes
+toiles très-remarquables, on y signale une foule de paysages et de jolis
+tableaux de moyenne dimension. Ni Ingres, ni Delaroche, ni Scheffer,
+n'ont exposé; on parle beaucoup pourtant d'un tableau de Scheffer
+presque achevé, et qui se voit dans son atelier : saint Augustin et sainte</p>
+<p><pb/></p>
+<p>208 CHRONIQUES PARISIENNES.</p>
+<p>— Madame Benjamin Constant s'inquiète peu de son mari, perd ses papiers
+et ne réclamera sans doute rien : elle est toujours bergère à
+soixante-douze ans.</p>
+<p><pb/></p>
+<p>LIV</p>
+<p>Ce 2 mai 1844.</p>
+<p>DISCUSSION DE LA LOI SUR L' ENSEIGNEMENT SUPÉRIEUR A LA CHAMBRE DES
+PAIRS. — RÉFUTATION D'UN ARTICLE DE M. EMILE SAISSET SUR L'ÉCLECTISME.</p>
+<p>prin12.</p>
+<p><pb/></p>
+<p>210 CHRONIQUES PARISIENNES.</p>
+<p>Au dehors le clergé a eu les deux brochures trèshonorables, et d'un ton
+parfait, de M. de Ravignan et de l'abbé Dupanloup.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 211</p>
+<p><pb/></p>
+<p>212 CHRONIQUES PARISIENNES,</p>
+<p>ser, qui doit supposer possibles d'autres résultats philosophiques que
+l'éclectisme, n'a pas eu son organe dans la discussion.</p>
+<p><pb/></p>
+<p>Ce S mai 1844.</p>
+<p>OPINION DU NATIONAL ET D'ARMAND MARRAST DANS LA QUESTION DE
+L'ENSEIGNEMENT UNIVERSITAIRE. — DISCOURS DE L'ARCHEVÊQUE DE PARIS. — LE
+ROI EN CONÇOIT DE L'HUMEUR. — DISCOURS DE M. DE MONTALIVET ; LE FIDUS
+ACHATES DU ROI. — COUSIN CONDAMNÉ A BOIRE LA CIGUË.</p>
+<p><pb/></p>
+<p>214 CHRONIQUES PARISIENNES.</p>
+<p>plique un peu sévère. Le roi s'est fâché de ce qui avait l'air d'une
+leçon. En lisant ce discours assez embrouillé de l'archevêque, on se
+demande si l'intention était manifeste. Quelques-uns disent qu'il y
+avait une phrase qu'on n'a pas imprimée : « Je viens apporter ici non
+plus des espérances, mais des regrets », quelque chose dans ce sens;
+dans tous les cas, le roi l'a compris ainsi, et a eu un moment d'humeur.</p>
+<p><pb/></p>
+<p>LVI</p>
+<p>Ce 5 mai 1844.</p>
+<p>ANXIÉTÉ DES PROTESTANTS. — ATTITUDE DE MM. COUSIN ET VILLEMAIN DANS LA
+DISCUSSION DE LA LOI SUR L'ENSEIGNEMENT SECONDAIRE. — PEISSE.</p>
+<p>Depuis le commencement de toute cette discussion, les protestants sont
+dans une anxiété extrême, ils sont comme sur les épines, écoutant
+toujours s'il n'est pas question d'eux, si rien ne les blesse : le fait
+est que dans cette grande discussion entre les catholiques et
+l'Université, entre la religion dominante et la philosophie dominante,
+personne parmi les contendants ne pense au protestantisme ni aux
+dissidents des diverses communions. Les catholiques réclament pour eux
+seuls, et les éclectiques se défendent comme ayant seuls la bonne et
+vraie philosophie : pour les éclectiques, les autres sectes
+philosophiques ne comptent pas; pour les catholiques les autres
+communions dissidentes sont moins que rien. Ces hautes puissances se
+comportent comme de gros</p>
+<p><pb/></p>
+<p>216 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 217</p>
+<p>quité, entre un sourire et une larme, fcxfuô» 'jua.iv.ija..</p>
+<p>— Peisse est un bon esprit, mais pessimiste, instruit mais exclusif,
+trop chagrin pour sourire aux arts; c'est un bon esprit de
+rez-de-chaussée; il n'a jamais eu de belvéder. Bon critique d'ailleurs
+et judicieux écrivain.</p>
+<p>Il est médecin, il a commencé par écrire sur Broussais et contre Gall,
+il est psychologue et a traduit quelque chose des Écossais, d'Hamilton,
+je crois. Il a été de la fondation du National avec Thiers, Mignet, dont
+il est compatriote. Il y écrivait alors des articles très-classiques
+contre les excès de l'école romantique et même contre ses meilleures
+productions. Il est devenu depuis inspecteur des beaux-arts ; il vient
+de manquer l'Académie des sciences morales où il était très-digne
+d'entrer. Un critique aussi sévère que lui le définit ainsi : « M.
+Peisse, un de ces écrivains discrets que deux ou trois hommes
+d'imagination font profession d'admirer beaucoup pour se donner des airs
+judicieux*. » — Le fait est que M. Peisse a toujours été très-vanté par
+ses amis Thiers et autres, comme promettant beaucoup, et qu'il a
+très-peu produit. Armand Garrel le citait comme un des meilleurs
+écrivains du temps. Dans tous les cas, la louange de Peisse est rare et
+a son prix : ainsi M. Gleyre doit eu être très-flatté.</p>
+<p><pb/></p>
+<p>LVII</p>
+<p>Ce 9 mai 1844.</p>
+<p>REPONSE AU DISCOURS DE M DE MONTALEMBERT.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 219</p>
+<p><pb/></p>
+<p>LVIII</p>
+<p>Ce 4 juin 1844</p>
+<p>L'ABBÉ DUPANLOUP. —LE RANCÉ DE CHATEAUBRIAND. — GÉMISSEMENTS DES POETES
+SUR LEUR JEUNESSE ENFUIE. — ANTIGONE, PAR MM. VACQUERIE ET MEURICE. —LA
+CIGUE, DE M. EMILE AUGIER.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 221</p>
+<p>publié une deuxième, qui a moins réussi : personne ne sait s'arrêter à
+temps et ne pas abuser. — Le Rancé de Chateaubriand a été une déception;
+les articles de M. Vinet, très-beaux et très-respectueux, expriment avec
+discrétion ce sentiment de regret qu'ont éprouvé les personnes sérieuses.</p>
+<p>1. Cette histoire de l'abbé de Rancé par dom le Nain (le frère de M. de
+Tillemont) a paru, mais elle a été altérée.</p>
+<p><pb/></p>
+<p>222 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 223</p>
+<p><pb/></p>
+<p>224 CHRONIQUES PARISIENNES.</p>
+<p>passer.</p>
+<p>Si le soleil les a fanées, Elles refleuriront ailleurs!</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 225</p>
+<p>1. M. Vacquerie est le frère de ce jeune époux de la fille de Victor
+Hugo, qui a péri, l'année dernière, en voulant sauver sa jeune femme.</p>
+<p>13.</p>
+<p><pb/></p>
+<p>226 CHRONIQUES PARISIENNES.</p>
+<p>trouverait la place libre et le public disposé! nous nu pouvons que
+lever les mains en répétant le grand refrain : Exoriare aliquis!</p>
+<p><pb/></p>
+<p>LIX</p>
+<p>Ce 4 juillet 1844.</p>
+<p>LE PROCÈS DONON-CADOT.—BALZAC A L'AUDIENCE. — DEMANDE D'ARGENT PAR LE
+ROI LOUIS-PHILIPPE. — CONFLIT ENTRE LES DEUX CHAMBRES AU SUJET DE LA
+LIBERTÉ DE L'ENSEIGNEMENT. — LES JÉSUITES ET LES JACOBINS. —RÉPONSE DE
+M. THIERS AU ROI. — L'ULTRAMONTANISME, PAR QUINET. — LES ACTES DES
+APOTRES, PAR GÉNIN. — PASCAL. — L'ABBÉ FLOTTES.</p>
+<p>—Une impression morale très-pénible, ç'a été celle qu'a produite la note
+insérée au Moniteur et dans laquelle le</p>
+<p><pb/></p>
+<p>228 CHRONIQUES PARISIENNES,</p>
+<p>— Quinet va publier un volume, résultat de ses leçons de l'année, et qui
+a pour titre : l'Ultramontanisme. — Il paraît un petitrecueil périodique
+intitulé : Les Actes des</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 229</p>
+<p>Ainsi la guerre dure et se régularise, et on se tire des coups de fusil
+journellement, même quand il n'y a pas de grande bataille rangée.</p>
+<p>— La question de Pascal menace de se raviver ou plutôt, nous l'espérons,
+promet de se terminer. On annonce la publication d'une édition
+définitive des Pensées.</p>
+<p><pb/></p>
+<p>230 CHRONIQUES PARISIENNES,</p>
+<p>judicieux dans une certaine portée; c'est un dernier et faible écho de
+ce qu'aurait été la voix de l'ancien clergé français dans celte querelle.</p>
+<p><pb/></p>
+<p>LX</p>
+<p>Ce 6 juillet 1841.</p>
+<p>PROCÈS LACOSTE. — MADAME LAFARGE. — SUCCÈS MALSAIN DE COUR D'ASSISES.
+—PRÉTENDUE DÉCOUVERTE DU COEUR DE SAINT LOUIS. — POLÉMIQUE ENTRE M.
+LETRONNE ET M. LE PREVOST.</p>
+<p><pb/></p>
+<p>232 CHRONIQUES PARISIENNES.</p>
+<p>La Revue de Paris, d'aujourd'hui 6, signale quelque chose de ces
+inconvénients.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 233</p>
+<p><pb/></p>
+<p>234 CHRONIQUES PARISIENNES.</p>
+<p>in1. le roman de l'Antiquaire.</p>
+<p><pb/></p>
+<p>CRH0NIQUES PARISIENNES. 235</p>
+<p>— La traduction d'Antigone a paru en petit volume, dédiée au roi de
+Prusse et avec une préface emphatique et fausse. On y grossit toutes les
+horreurs et les trivialités qu'on s'efforce de voir dans le Théâtre grec
+pour en faire une défense du Théâtre romantique moderne. On y</p>
+<p>1. Une première fois on avait trouvé ce même coeur en l'an XI (1803),
+mais on l'avait remis en place, et le citoyen Terrasse avait alors fait
+tracer cette croix byzantine.</p>
+<p><pb/></p>
+<p>236 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>LXI</p>
+<p>Ce 4 août 1844.</p>
+<p>LES FÊTES DE JUILLET. — CURIOSITÉ SANS ENTHOUSIASME. — ARTICLE DE
+LERMINIER SUR L' ULTRAMONTANISME DE QUINET. — RÉMUSAT SUR JOUFFROY. —
+SAINTE-BEUVE SUR DAUNOU.—HISTOIRE DES ÉCOLES il ALEXANDRIE, PAR M.JULES
+SIMON.—JASMIN.</p>
+<p>Nous avons eu les fêtes de juillet; c'est la plus belle illumination
+qu'on ait eue depuis quatorze ans. Jamais dans une foule on n'a vu moins
+d'enthousiasme et plus de curiosité.</p>
+<p>La littérature et toutes choses donnent aussi peu que possible ; il ne
+se publie rien de nouveau et les étalages des libraires de l'Odéon ne se
+sont pas rafraîchis depuis un mois. Les illustres feuilletons eux-mêmes
+languissent;</p>
+<p><pb/></p>
+<p>238 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES 239</p>
+<p>437, dans une région sociale différente, etc., c'est luimême, Rémusat,
+un des plus charmanls causeurs et des plus fertiles.)</p>
+<p><pb/></p>
+<p>240 CHRONIQUES PARISIENNES.</p>
+<p>mon cours qu'un ouvrage sur le sujet qui a l'ait la matière de mon
+enseignement. » L'auteur y travaille depuis plusieurs années.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 241</p>
+<p>Six mille âmes et plus qui saluent la croix</p>
+<p>Étayée de six évêques,</p>
+<p>Deux cents chanoines alignés, Musique de messieurs, musique de soldats,</p>
+<p>Et le prêtre au milieu.</p>
+<p>14</p>
+<p><pb/></p>
+<p>LXII</p>
+<p>Ce 5 août 1844.</p>
+<p>DÉRANGER, CHATEAUBRIAND ET LAMENNAIS. — LES GRANDS JOURS D'AUVERGNE, DE
+FLÉCHIER. — UNE PROVINCE SOUS LOUIS XIV, PAR M. THOMAS.—POURVOI EN
+CASSATION, BROCHURE DE FÉLIX PYAT CONTRE JULES JANIN.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 243</p>
+<p>—Félix Pyat, condamné pour diffamation envers Janin, a publié, sous le
+titre de Pourvoi en cassation, une petite brochure dont l'idée est
+piquante. Il a fait imprimer en regard sur deux colonnes les palinodies
+de Janin sur tous les sujets. Pas un mot n'est de Pyat. C'est Janin qui
+fait tous les frais de la défense.</p>
+<p><pb/></p>
+<p>LXIII</p>
+<p>Ce 6 août 1844.</p>
+<p>LE JUIF ERRANT.—LES JÉSUITES.—ALFRED DE VIGNY. — RÉPONSE DE M. LE
+PREVOST A M. LETRONNE.— FLOURENS.—MORT DE FAURIEL.</p>
+<p>— Le critique de la Revue de Paris, H. B., est M. Hippolyte Babou. La
+politique y est faite par Lerminier.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 245</p>
+<p>Quand je dis assez artistement travaillé, il faut pourtant des réserves,
+car on trouverait dans cette pièce d'étranges obscurités et des
+incorrections incontestables. Ainsi, page 315, dans la stropbe :</p>
+<p>Ne jette en appelant le cri du désespoir,</p>
+<p>Ou qu'avec son clairon la France nous convie, etc.</p>
+<p>Il faudrait absolument : ne nous convie.</p>
+<p>1. Son toit n'est pas plus haut que ton front et tes yeux.</p>
+<p>14.</p>
+<p><pb/></p>
+<p>246 CHRONIQUES PARISIENNES.</p>
+<p>— L'auteur du recueil des Chants populaires de la Grèce moderne et de
+l'histoire de la Gaule méridionale, Fauriel, vient de mourir. C'est une
+vraie perte. Erudit inventif et original, il est apprécié ainsi par la
+Revue des Deux Mondes :</p>
+<p><pb/></p>
+<p>LXIV</p>
+<p>Ce 5 septembre 1844.</p>
+<p>LES VACANCES DE L'ACADÉMIE. — PRIX SUR VOLTAIRE DÉCERNÉ A M. HAREL.
+—MADEMOISELLE GEORGES. — ANTIGONE, DE MM. MEURICE ET VACQUERIÉ. —
+CHATEAUBRIAND ET L'ABBÉ DE SERRES. LE GÉNIE ET</p>
+<p>LA FICELLE. MOT D'UN BARBIER SUR LE JUIF ERRANT, EN RASANT UN PAIR DE
+FRANCE.</p>
+<p><pb/></p>
+<p>248 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 249</p>
+<p>ficiel. Entre nous, les Revues ont été trop sévères pour lui : jalousie
+de théâtre.</p>
+<p><pb/></p>
+<p>250 CHRONIQUES PARISIENNES.</p>
+<p>mortels ; et celui qui l'a au coeur est insensé.</p>
+<p>Et les traducteurs disent : Amour, etc., etc.,</p>
+<p>Autre exemple : lorsque Créon revient désespéré, apportant le cadavre de
+son fils dans ses bras, on accourt lui annoncer, comme dernier surcroît
+de malheur, que sa femme vient de se tuer : et on apporte celle-ci sur
+le théâtre. On lit dans la traduction :</p>
+<p>CRÉON</p>
+<p>Ho! l'autre! — ô destinée amère,</p>
+<p>Hélas ! hélas ! gloire éphémère !</p>
+<p>Ma pauvre femme! hélas! mon sang!</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 251</p>
+<p>Or le texte dit :</p>
+<p><pb/></p>
+<p>252 CHRONIQUES PARISIENNES.</p>
+<p>« (10 décembre 1843). Je sors de chez le Génie, et je ne puis résister à
+l'envie de vous faire savoir que j'ai été assez content de lui. J'ai
+tort, peut-être, de dire assez, car c'est beaucoup avec un homme comme
+lui, et après tout ce qu'il m'a dit du prince; il m'en a fait un bel
+éloge... C'est l'homme du temps, a-t-il dit, c'est le véritable Roi de
+l'époque... Il a tout ce qu'il faut pour réussir... Les obstacles sont
+grands; mais s'il y a une circonstance favorable, elle est certainement
+pour Henri V... Maintenant, lui ai-je dit, il faudrait faire fructifier
+ce voyage par une publication, comme autrefois le Conservateur. C'est
+ici que je l'ai trouvé rebelle et presque révolté.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 253</p>
+<p>Celte petite comédie pourrait s'intituler : le Génie et Ia Ficelle.</p>
+<p>— Le Juif Errant de M. Eugène Sue ne se relève guère et le succès est
+très-compromis, ainsi que l'argent des libraires. — L'autre jour un
+barbier rasait un pair de France; on parlait du Juif Errant; le barbier,
+grand admirateur des Mystères de Paris, et qui l'est bien moins des
+derniers feuilletons, s'écria : " C'est bien mauvais, je ne reconnais
+pas mon Sue. »</p>
+<p>15</p>
+<p><pb/></p>
+<p>LXV</p>
+<p>Ce 6 septembre 1844.</p>
+<p>ÉLOGE DE VOLTAIRE. —FAIBLESSE ET SOUPLESSE DE M. VILLEMAIN. — L'ACADÉMIE
+NOUS TROUVERAIT DIEN SUISSES. — UN CAS DE GUERRE AVEC L'ANGLETERRE.</p>
+<p>J'oubliais ceci :</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 255</p>
+<p>L'Académie nous trouverait sans doute bien Suisses de parler ainsi.</p>
+<p>— Tout ceci restant vrai, il faut reconnaître d'ailleurs que l'idée
+d'une rupture possible est entrée dans beaucoup d'esprits des deux côtés
+de la Manche, qu'en France comme en Angleterre on se familiarise
+insensiblement avec cette possibilité, ce qui n'était pas il y a
+quelques années. L'avenir peut donc être moins garanti que le présent.</p>
+<p><pb/></p>
+<p>LXVI</p>
+<p>Ce 6 octobre 1844.</p>
+<p>HISTOIRE DU CONSULAT ET DE L'EMPIRE, PAR M. THIERS. — LE LUTRIN DE
+BOILEAU CITÉ PAR SCHLEGEL.— DÉCOUVERTE HISTORIQUE DE M. MONMERQUÉ. —UNE
+LONGUE SUITE DE ROIS ILLÉGITIMES EN FRANCE. — LE PETIT ROI JEAN Ier. —
+SCEPTICISME HISTORIQUE. — BADAUDS COMME DES BYZANTINS. PROPOS DE TABLE
+DE LUTHER. POETAE</p>
+<p>MINORES. — ANDRÉ CHÉNIER. —LATOUCHE. — JULES LEFÈVRE. — ULRIC
+GUTTINGUER. — MADEMOISELLE DE LA SEIGLIERE.— LE JUIF ERRANT.— ALEXANDRE
+DUMAS.</p>
+<p>Il n'y a rien, et rien de moins en moins en littérature. On ne dira pas
+de cette saison qu'elle a porté une grande moisson de poëtes (magnum
+proventum tulil); évidemment il faut que les dernières générations qui
+ont donné aient été un grand effort pour que la nature se repose ainsi;
+il faut que les années d'auparavant aient tout pris, et nous finirons
+par croire que 1829 fait époque. Le seul</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 257</p>
+<p>On a donc retrouvé dans la Sainte-Chapelle Le magnanime coeur du
+perruquier l'Amour...</p>
+<p><pb/></p>
+<p>258 CHRONIQUES PARISIENNES.</p>
+<p>inductions, d'ailleurs assez obscures et timidement déduites, que cet
+enfant pourrait bien n'être pas mort au moment où on l'a cru, qu'il y
+aurait eu substitution pour le soustraire aux intentions funestes des
+intéressés et de la comtesse d'Artois particulièrement : « Qui ne
+recule» rait (écrit M. Monmerqué, qui ne recule que par poli» tesse)
+devant ce fait et ses conséquences? Philippe le » Long, Charles le Bel,
+Philippe de Valois et toute cette » branche des Valois... n'auraient
+régné que par le droit » d'une ancienne possession; et cette immense
+irrégula» rité se serait prolongée jusqu'en la personne de Henri III. »
+Ce ne serait que Henri IV qui, descendu de Robert de » France, sixième
+fils de Louis IX, aurait enfin fait rentrer » la couronne dans la lignée
+directe du saint roi. »</p>
+<p>— On vient de publier dans le format Charpentier une traduction assez
+complète (bien plus complète que celle</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 259</p>
+<p><pb/></p>
+<p>260 CHRONIQUES PARISIENNES.</p>
+<p>Imprimez-les vos vers et qu'on n'en parle plus !</p>
+<p>Latouche s'est rendu célèbre dans la littérature d'il y a quinze ou
+vingt ans par une foule de traits pareils, malicieux et même
+(quelques-uns disent) méchants: il a drapé les ridicules de la jeune
+École d'alors dans un article critique, intitulé la Camaraderie: mais il
+a oublié</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 261</p>
+<p>Un de ses poëmes avait pour titre : Le clocher de Saint15.</p>
+<p>Saint15.</p>
+<p><pb/></p>
+<p>262 CHRONIQUES PARISIENNES.</p>
+<p>Marc : on a dit plaisamment que ce clocher lui était tombé sur la tète,
+et pour comble de malheur, ce fut sans bruit. C'est de lui ce vers naïf
+et douloureux :</p>
+<p>Il en a fait bon nombre de mémorables et qui le peindraient dans sa
+nature distinguée, laborieuse et malheureuse :</p>
+<p>La rose a des poisons qu'on finit par trouver.</p>
+<p>et encore :</p>
+<p>On meurt en plein bonheur de son malheur passé.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 263</p>
+<p>— Mademoiselle de la Seiglière, roman de Jules Sandeau, dans la Revue
+des Deux Mondes, plaît généralement et réussit. — Le Juif Errant achève
+de révolter.</p>
+<p>— De tous les feuilletonnistes-romanciers, c'est encore Alexandre Dumas
+qui l'emporte pour le quart d'heure, avec sa verve intarissable et son
+entrain, du moins amusant. Il emprunte, il copie ses histoires de
+partout, mais il les copie d'une encre coulante et d'une plume rapide.
+Voir ses feuilletons des Débats.</p>
+<p><pb/></p>
+<p>LXVII</p>
+<p>Ce 8 octobre 1844.</p>
+<p>VOLNEY, PLAT COURTISAN DE NAPOLEON.— LA TASSE DE CAFÉ.—ARTICLES DE
+MOLÈNES CONTRE MÉRIMÉE. LA FEMME DE QUARANTE ANS, PAR M. D'ONQUAIRE.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 265</p>
+<p>feu sans trop s'apercevoir de ce manége. — La lettre publiée rentre bien
+dans le sens de cette anecdote.</p>
+<p>Ces jeunes auteurs ont de l'esprit, mais absence complète de naturel.
+Ils se croient les fils de Voltaire, et ils ne sont que les imitateurs
+d'Alfred de Musset.</p>
+<p><pb/></p>
+<p>LXVIII</p>
+<p>Ce 2 novembre 1844.</p>
+<p>HISTOIRE DU CONSULAT ET DE L'EMPIRE, PAR M. THIERS. — LAMARTINE. — VENTE
+DE SES OEUVRES. — INFLUENCE DE LA FORTUNE SUR LES MOEURS LITTÉRAIRES. —
+BALZAC, MESSER MILI0NE. JACQUELINE PASCAL ET M. COUSIN. — L'ÉCLECTISME.
+— PORT-ROYAL DE MODE A PARIS. — OEUVRES DE NICOLE AVEC UNE INTRODUCTION
+DE M. JOURDAIN. — LES NUÉES D'ARISTOPHANE A L'ODÉON. — M. HIPPOLYTE
+LUCAS. — RÉSURRECTION DE LA NÉMESIS DE BARTHÉLEMY.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 267</p>
+<p>Il vient de faire, pour sa santé, le voyage d'Ischia où il a pris les
+eaux, il est revenu par Florence, et rapporte, dit-on, des fruits
+nouveaux de son inspiration dans ces</p>
+<p><pb/></p>
+<p>268 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 269</p>
+<p>Notez encore l'action séductrice que les trois ou quatre grandes
+fortunes littéraires d'un temps exercent sur la</p>
+<p><pb/></p>
+<p>270 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 271</p>
+<p>ges : on pourrait donner le même surnom au Balzac d'aujourd'hui, et il
+ne fait que représenter en cela le rêve et la chimère de maint confrère.
+Un grand amour de l'or et une excessive vanité littéraire, tel est le
+véritable alliage.</p>
+<p><pb/></p>
+<p>272 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 273</p>
+<p>— On vient de publier en un volume un choix des OEuvres philosophiques
+et morales de Nicole, avec une Introduction par M. Jourdain, professeur
+de philosophie. Le choix est bien fait, mais l'Introduction pourrait
+être plus approfondie.</p>
+<p><pb/></p>
+<p>274 CHRONIQUES PARISIENNES.</p>
+<p>vérité que ce soit la condition la moins requise pour traduire ces
+grands poëtes d'autrefois. Ces messieurs auront entendu dire que le
+célèbre Monti s'était admirablement tiré de sa traduction d'Homère sans
+lire directement dans l'original : mais nos arrangeurs ne sont pas des
+Monti.</p>
+<p>1. Voir le Siècle d'hier, 3 novembre.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 275</p>
+<p>Il faut au moins un semblant, un masque de front austère, quand on se
+mêle de satire ; autrement c'est du cynique tout pur.</p>
+<p><pb/></p>
+<p>276 CHRONIQUES PARISIENNES.</p>
+<p>En résumé ce couple méridional, ce par nobile fratrum, Barthélemy et
+Méry, a du trait, de la main d'oeuvre, de la facture; ce qui lui a
+toujours manqué, ç'a été l'invention, l'élévation et le sérieux.</p>
+<p><pb/></p>
+<p>LXIX</p>
+<p>Ce 5 novembre 1844.</p>
+<p>ANIN.— LES NUEES D'ARISTOPHANE. — FÉLIX PYAT. LA POLITIQUE CHOME.</p>
+<p>— Janin, dans son feuilleton (de lundi 4) sur les Nuées</p>
+<p>16</p>
+<p><pb/></p>
+<p>278 CHRONIQUES PARISIENNES.</p>
+<p>d'Aristophane, trahit sa peur qu'il ne s'élève un tel auteur comique qui
+dise des personnalités : il a l'air de plaider pour lui et de se prendre
+pour Socrate;c'est comique. Mais il n'est pas besoin d'un Aristophane :
+Félix Pyat a suffi pour cette exécution.</p>
+<p><pb/></p>
+<p>LXX</p>
+<p>Ce 5 novembre 1844.</p>
+<p>INSUCCES DES NUÉES. — UN ARTICLE DE M. DE RÉMUSAT DANS LE
+CONSTITUTIONNEL. — CONSIDÉRATIONS SUR L'ESPRIT DU TEMPS. — MOLLESSE ET
+APOLOGIE. — OPTIMISME.</p>
+<p>— On lit dans le Constitutionnel du 5 novembre un article de M. de
+Rémusat sur la littérature actuelle. Dans cet article le spirituel
+écrivain a l'air d'épuiser toutes les formes ingénieuses et subtiles de
+raisonnement pour faire l'apologie de ce qui se passe dans les journaux
+et dans les feuilletons.</p>
+<p><pb/></p>
+<p>280 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>LXXI</p>
+<p>Ce 2 décembre 1844.</p>
+<p>TRANSFORMATION DU JOURNAL LA PRESSE ET DES MOEURS LITTÉRAIRES. — SON
+PROSPECTUS. — CHATEAUBRIAND, ALEXANDRE DUMAS, NAPOLÉON, PRINCIPAUX
+COLLABORATEURS. — INFLUENCE SUR LES LETTRES.</p>
+<p>16.</p>
+<p><pb/></p>
+<p>282 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 283</p>
+<p>— La Presse annonce aussi un Mémorial de SainteHélène refait par le
+général Montholon : on ajoute que c'est Alexandre Dumas qui prêtera sa
+plume, pour plus d'authenticité, aux souvenirs du digne général; et « la</p>
+<p><pb/></p>
+<p>284. CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 285</p>
+<p><pb/></p>
+<p>LXXII</p>
+<p>Ce 4 décembre 1844.</p>
+<p>M. AMÉDÉE POMMIER. —M. D. NISAUD SUR DESCARTES. — M. GALOPPE
+D'ONQUAIRE.—LETTRE DE CHATEAUBRIAND. LE JOURNAL DES DÉBATS. — ALEXANDRE</p>
+<p>DUMAS. — M. BULOZ. — MOT DE CHATEAUBRIAND. — MOT DE M. THIERS.</p>
+<p>La Revue des Deux Mondes publie une satire de H. Amédée Pommier sur les
+trafiquants littéraires; ces vers-là, pour n'en rien dire davantage,
+nous semblent bien crus et d'une verve terriblement latine. Il en est
+d'assez piquants :</p>
+<p>Car les livres nouveaux que Paul met en lumière Sont combinés par Jean
+et sont écrits par Pierre.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 287</p>
+<p><pb/></p>
+<p>288 CHRONIQUES PARISIENNES.</p>
+<p>— Voir la lettre de Chateaubriand publiée dans l'Univers du 3 décembre.
+Je la lis dans les Débats de ce matin 4 1. Cette lettre ne change rien à
+ce que nous avons dit, elle prouve seulement qu'on n'a pas consulté M.
+de Chateaubriand pour disposer celte publication par feuilletons. Tout
+ceci confirme la vérité de nos réflexions</p>
+<p>1. Voici cette lettre : « Fatigué de bruits qui ne me peuvent atteindre,
+mais qui m'importunent, il m'est utile de répéter que je suis resté tel
+que j'étais lorsque, le 25 mars de l'année 1836, j'ai signé le contrat
+pour la vente de mes ouvrages avec M. Delloye... Rien depuis n'a été
+changé ni ne sera changé, avec mon approbation, aux clauses de ce
+contrat. Si, par hasard, d'autres arrangements avaient été faits, je
+l'ignore. Je n'ai jamais eu qu'une idée, c'est que tous mes ouvrages
+posthumes parussent en entier, et non par livraisons détachées, soit
+dans un journal, soit ailleurs.</p>
+<p>» CHATEAUBRIAND. "</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 289</p>
+<p>Ce 5.</p>
+<p>La quinzaine promet d'être bruyante ; mais vous avez les éléments.</p>
+<p>La Démocratie pacifique (journal fouriériste), d'hier 4, contenait
+contre Buloz un article d'Alexandre Dumas qui est bien la plus grossière
+philippique qu'on puisse imaginer : tout cela grandit Buloz et le pose
+en homme public.</p>
+<p>Mais quelles moeurs littéraires et quand on sait les mobiles de ces
+attaques!</p>
+<p>1. Voir la chronique précédente (2 décembre 1844).</p>
+<p>17</p>
+<p><pb/></p>
+<p>290 CHRONIQUES PARISIENNES.</p>
+<p>Ce 8 décembre.</p>
+<p>Un des écrivains monarchiques et religieux était allé chez Chateaubriand
+au sujet de ces tristes débats d'argent; et voyant le portrait de
+Fontanes : « Où est la critique de M. de Fontanes, monsieur le vicomte?</p>
+<p>» — Fontanes ! s'écria Chateaubriand : les misérables ! ils ne savent
+plus même son nom ! »</p>
+<p><pb/></p>
+<p>LXXIII</p>
+<p>Ce 5 janvier 1845.</p>
+<p>LE JOUR DE L'AN. — MM. DUFAURE, MOLE, GUIZOT, BILLAULT. — FOLIE DE M.
+VILLEMAIN. — FÉLICIEN; DAVID.</p>
+<p><pb/></p>
+<p>292 CHRONIQUES PARISIENNES.</p>
+<p>que le ministère Guizot soit menacé, il est probable qu'il «'en tirera
+encore pour cette fois. ç'a été là, quoi qu'il en soit, la grande
+préoccupation politique qui a fait concurrence aux bonbons.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 293</p>
+<p>de sa voie, abreuvé et noyé dans ses amertumes, une nature si fine, si
+délicate, si faite pour goûter elle-même les pures jouissances qu'elle
+prodiguait—</p>
+<p><pb/></p>
+<p>LXXIV</p>
+<p>Ce 2 février 1845.</p>
+<p>IMPOPULARITÉ DU MINISTÈRE GUIZOT. —RÉTABLISSEMENT DE M. VILLEMAIN. —
+RÉCEPTION DE M. SAINTMARC GIRARDIN A L'ACADÉMIE FRANÇAISE. — RÉPONSE DE
+M. VICTOR HUGO.</p>
+<p>— La grande et bonne nouvelle littéraire est le rétablissement de M.
+Villemain; la médecine, cette fois comme tant d'autres, a été mise en
+défaut, mais dans un sens plus favorable que d'ordinaire : elle
+pronostiquait</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 295</p>
+<p><pb/></p>
+<p>296 CHRONIQUES PARISIENNES.</p>
+<p>licat où il se trouvait juge et partie. Les négociations et les
+tentatives de conciliation avaient été longues et avaient duré, dit-on,
+près d'un an. M. Saint-Marc Girardin, vers la fin de son discours, avait
+assez délicatement touché celte situation en disant :</p>
+<p>2. Ici, dit-on, un geste de l'orateur avait indiqué celui qu'il aurait
+voulu toujours admirer. S.-B.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 297</p>
+<p>la gloire littéraire du XIXe siècle, et nous en sommes fiers, nous
+admirons beaucoup et nous espérons beaucoup, mais nous faisons en sorte
+d'élever l'admiration par la critique et de féconder l'espérance par
+l'étude. »</p>
+<p>17.</p>
+<p><pb/></p>
+<p>298 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>LXXV</p>
+<p>Ce 6 février 1845, au soir.</p>
+<p>RÉCEPTION DE M. MÉRIMÉE A L'ACADÉMIE FRANÇAISE.</p>
+<p><pb/></p>
+<p>300 - CHRONIQUES PARISIENNES.</p>
+<p>en vogue que jamais ; et ces sortes de joûtes de beaux esprits semblent
+devenues une fête aussi nationale en France que les combats de taureaux
+peuvent l'être en Espagne.</p>
+<p><pb/></p>
+<p>LXXVI</p>
+<p>Ce 4 mars 1845.</p>
+<p>RÉCEPTION DE M. SAINTE-BEUVE A L'ACADÉMIE FRANÇAISE. HISTOIRE DU
+CONSULAT ET DE L'EMPIRE.</p>
+<p>— PROCÉDÉ AMÉRICAIN.</p>
+<p><pb/></p>
+<p>302 CHRONIQUES PARISIENNES,</p>
+<p>» Vicomte CHARLES DE LAUNAY. »</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 303</p>
+<p><pb/></p>
+<p>304 CHRONIQUES PARISIENNES,</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 303</p>
+<p><pb/></p>
+<p>LXXVII</p>
+<p>Ce 5 avril 1845.</p>
+<p>HISTOIRE DU CONSULAT ET DE L'EMPIRE, PAR M. THIERS.— ARTICLE DE M.
+VILLEMAIN SUR CET OUVRAGE. ESPRIT DES INSTITUTIONS MILITAIRES,</p>
+<p>PAR LE DUC DE RAGUSE.—MORT D'ALEXANDRE SOUMET. — JULES DE RESSÉGUIER. —
+LATOUR DE SAINTIBAR.— VIRGINIE.</p>
+<p>La grande nouvelle littéraire, l'unique nouvelle est la publication des
+trois volumes de l'Histoire du Consulat par M. Thiers. Le succès est
+complet et il a surpassé encore l'attente. L'intérêt du sujet est grand,
+et l'historien a rempli tout ce sujet par sa lucidité parfaite, par son
+impartialité élevée, et par l'innombrable quantité de notions précises
+et nouvelles qu'il a su combiner et conduire. Ce livre est en effet
+admirablement composé et conduit; on ne se perd pas un seul instant dans
+les détails, quoique il y en ait beaucoup en chaque branche spéciale, en
+finances, en administration, en stra-</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 307</p>
+<p><pb/></p>
+<p>308 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 309</p>
+<p>1. Sainte-Beuve renvoie ici aux passages de l'article de Villemain
+concernant Sieyes, Guizot et Pilt.</p>
+<p><pb/></p>
+<p>310 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 311</p>
+<p><pb/></p>
+<p>312 CHRONIQUES PARISIENNES.</p>
+<p>plus de souvenir ; elle a marqué un moment dans les</p>
+<p>fastes dramatiques de la Restauration.</p>
+<p>Et c'est peu qu'ils soient beaux, tes vers, ils sont charmants!</p>
+<p>— Il y a eu le samedi 5 avril, au Théâtre-Français, un succès de
+tragédie nouvelle. : Virginie, par M. Latour de Saint-Ibar. Il paraît
+que mademoiselle Rachel y a été très-belle et créatrice. Il devient
+très-évident que le public français revient plus que jamais aux Grecs et
+aux Romains, dont on l'avait vu si dégoûté il y a quelques «innées. Le
+Tite-Live a remplacé les chroniques du moyen âge ; il est vrai que les
+dramaturges romantiques en France avaient si mal lu et étudié ces
+chroniques qu'ils n'en avaient tiré que le grossier et le repoussant. Ce
+n'est pas ainsi qu'avait fait Manzoni en Italie, dans ses deux beaux
+échantillons de Carmagnola et d'Adelchi.</p>
+<p><pb/></p>
+<p>LXXVIII</p>
+<p>Ce 5 mai 1845.</p>
+<p>LA QUESTION DES JESUITES A LA CHAMBRE DES DEPUTES. — M. THIERS, M.
+DUPIN, M. BERRYER, M. DE LAMARTINE. — ÉLÉVATION DE M. VICTOR HUGO A LA
+PAIRIE. — JASMIN DÉCORÉ DE LA LÉGION D'HONNEUR.</p>
+<p>18</p>
+<p><pb/></p>
+<p>314 CHRONIQUES PARISIENNES,</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 315</p>
+<p><pb/></p>
+<p>LXXIX</p>
+<p>Ce 5 mai 1845.</p>
+<p>A PROPOS DE LA TRAGEDIE DE VIRGINIE, PAR M. LATOUR DE SAINT-IBAR, AU
+THÉATRE-FRANÇAIS. — ÉTAT DE L'ART DRAMATIQUE EN FRANCE. — ESPÉRANCES
+DÉÇUES.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 317</p>
+<p>18.</p>
+<p><pb/></p>
+<p>318 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 319</p>
+<p><pb/></p>
+<p>320 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>LXXX</p>
+<p>Ce vendredi 9 mai 1845.</p>
+<p>ÉLECTION D'ALFRED DE VIGNY ET DE M. VITET A L'ACADÉMIE FRANÇAISE.</p>
+<p><pb/></p>
+<p>322 CHRONIQUES PARISIENNES.</p>
+<p>Il ne serait pas très-beau que cela durât ainsi, et qu'on ne pût
+absolument plus dire des générations successives :</p>
+<p>Et quasi cursores vitai lampada tradunt.</p>
+<p>Le fait est que depuis bien du temps il n'y a pas beaucoup de vie et
+qu'on ne court pas. S'il y a foule et presse, c'est comme dans une rue ;
+il n'y a ni émulation ni mouvement comme dans une arène.</p>
+<p><pb/></p>
+<p>LXXXI</p>
+<p>Ce 5 juin 1845</p>
+<p>FORMAT DES JOURNAUX QUOTIDIENS ENCORE AGRANDI. — LE LIVRE DE M. DE
+RÉMUSAT SUR ADÉLARD. — LETTRES DE LOUIS XVIII.—PORTRAIT DE LOUIS XVI ET
+DE LOUIS XVIII PAR M. DE BARANTE. — OPINION DE ROYER-COLLARD SUR LOUIS
+XVIII. — LORD BROUGHAM ET GUILLAUME SCHLEGEL ÉCRIVANT EN FRANÇAIS. — LE
+PITT DE M. DE VIEL-CASTEL. — UN MORCEAU DE M. DE SAINT-PRIEST SUR L'INDE.</p>
+<p><pb/></p>
+<p>324 CHRONIQUES PARISIENNES,</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 325</p>
+<p>19</p>
+<p><pb/></p>
+<p>326 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 327</p>
+<p>— Le Pitt de M. de Viel-Castel, dans la Revue des Deux Mondes, répond à
+propos et victorieusement au jugement un peu léger de M. Thiers en son
+Histoire.</p>
+<p><pb/></p>
+<p>LXXXII</p>
+<p>Ce 6 juin 1845.</p>
+<p>MANZONI. — DE LA DIFFICULTE D'ECRIRE EX ITALIEN 1.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 329</p>
+<p><pb/></p>
+<p>330 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 331</p>
+<p><pb/></p>
+<p>LXXXIII</p>
+<p>Ce 5 juillet 1845.</p>
+<p>AGRANDISSEMENT DE FORMAT DES GRANDS JOURNAUX. — LA REVUE DE PARIS CESSE
+DE PARAITRE. — CRÉATION DE L'ARTISTE. — M. ARSÈNE HOUSSAYE.— LA REVUE
+DES DEUX MONDES RESTE AUX MAINS DE M. BULOZ. —LES BRETONS, DE BRIZEUX. —
+POÉSIES DE THÉOPHILE GAUTIER. — ORGUEIL DE LA VIE.</p>
+<p>Il y a eu ces jours-ci une autre révolution moins visible, mais non
+moins importante. La Revue des Deux Mondes a eu sa crise intérieure.
+Cette Revue et celle de</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 333</p>
+<p>19.</p>
+<p><pb/></p>
+<p>334 CHRONIQUES PARISIENNES.</p>
+<p>Voici un passage du chant second; le poëte, qui vient de décrire la
+défense d'un troupeau de boeufs contre un loup, s'écrie tout d'un coup,
+exprimant cet amour un peu sauvage et forcené pour sa Bretagne qui fait
+l'inspiration de son poëme :</p>
+<p>0 landes ! ô forêts, pierres sombres et hautes,</p>
+<p>Bois qui couvrez nos champs, mers qui battez nos côtes,</p>
+<p>Villages où les morts errent avec les vents,</p>
+<p>Bretagne, d'où te vient l'amour de tes enfants?</p>
+<p>Des villes d'Italie où j'osai, jeune et svelte,</p>
+<p>Parmi ces hommes bruns montrer l'oeil bleu d'un Celte,</p>
+<p>J'arrivais, plein des feux de leur volcan sacré,</p>
+<p>Mûri par leur soleil, de leurs arts enivré ;</p>
+<p>Mais, dès que je sentis, ô ma terre natale,</p>
+<p>L'odeur qui des genêts et des landes s'exhale,</p>
+<p>Lorsque je vis le flux, le reflux de la mer,</p>
+<p>Et les tristes sapins se balancer dans l'air,</p>
+<p>Adieu les orangers, les marbres de Carrare,</p>
+<p>Mon instinct l'emporta, je redevins barbare,</p>
+<p>Et j'oubliai les noms des antiques héros,</p>
+<p>Pour chanter les combats des loups et des taureaux!</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 335</p>
+<p>grâce de la fantaisie et la vivacité de la couleur suffisen On peut
+citer comme une élégie d'un paganisme très-nu, mais très-gracieux (le
+genre admis), son Premier rayon de mai. D'autres petites pièces ont bien
+du relief et de la tournure. Quel dommage qu'une prétention presque
+continue gâte tout cela, et que la sensibilité simple et vraie manque
+sous ces vernis si souvent flatteurs ! — M. Gautier est parti pour
+l'Afrique où il va enrichir sa palette de nouvelles couleurs locales.</p>
+<p>Aux vents capricieux qui soufflent de Bohême, Sans les compter je jette
+et mes nuits et mes jours, Et, parmi les flacons, souvent l'aube au
+teint blème M'a surpris dénouant un masque de velours.</p>
+<p>Plus d'une m'a remis la clef d'or de son âme; Plus d'une m'a nommé son
+maître et son vainqueur; J'aime, et parfois un ange avec un corps de
+femme Le soir descend du ciel pour dormir sur mon coeur.</p>
+<p>On sait mon nom, ma vie est heureuse et facile; J'ai plusieurs ennemis
+et quelques envieux; Mais l'amitié chez moi toujours trouve un asile, Et
+le bonheur d'autrui n'offense pas mes yeux.</p>
+<p><pb/></p>
+<p>330 CHRONIQUES PARISIENNES.</p>
+<p><pb/></p>
+<p>LXXXIV</p>
+<p>Ce G juillet 1845.</p>
+<p>BÉRANGER EN 1845.</p>
+<p><pb/></p>
+<p>338 CHRONIQUES PARISIENNES.</p>
+<p>leurs ennemis firent l'application dans le moment, et</p>
+<p>c'est tout ce qu'il fallait.</p>
+<p><pb/></p>
+<p>CHRONIQUES PARISIENNES. 33</p>
+<p>FIN</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>TABLE</p>
+<p>SAINTE-BEUVE CHRONIQUEUR, par M. Jules Troubat 1</p>
+<p>I. — Amschaspands et Darvands, par Lamennais. —</p>
+<p>Phèdre et mademoiselle Rachel. — Les jésuites. 1</p>
+<p>II. — Les Burgraves, par Victor Hugo. — Judith, par madame Emile de
+Girardin. — Mademoiselle Rachel. — Lamartine et Toussaint Louverture,
+etc . 9</p>
+<p>III. — Les Burgraves 12</p>
+<p>IV. — Lamartine. — Ponsard. — Lecture de Lucrèce</p>
+<p>chez Bocage, etc 1 6</p>
+<p>V. — Judith, par madame de Girardin. — La Lucrèce de Ponsard. — Le Père
+de Ravignan, etc. 19 VI. — Une mystification de Méry. — L'art dramatique</p>
+<p>contemporain, etc 22</p>
+<p>VII. — Représentation de Lucrèce et de Judith, etc... 25 VIII. — Cousin.
+— Lucrèce.—Judith. — Madame Louise</p>
+<p>Colet. — Madame de Girardin 30</p>
+<p>IX. — Causes du succès de Lucrèce 33</p>
+<p>X. — Articles sur Lucrèce.— Libri et les journaux de</p>
+<p>sacristie 37</p>
+<p><pb/></p>
+<p>342 TABLE.</p>
+<p>XI. — Engouement. — Adolphe Dumas et Alexandre Dumas. — Encore Lucrèce.
+— Michelet. — Quinet. — Les jésuites. — Villemain. — bu gallicanisme . 39</p>
+<p>XII. — Querelle de cuistres et de bedeaux. — Histoire naturelle de la
+santé et de la maladie, par F.-V. Raspail. — Quolibets sur Lucrèce. —
+Les néo-catholiques et les anciens, etc 47</p>
+<p>XIII. — L'Université et les jésuites. — Les Anti-Lucrèce. 53</p>
+<p>XIV. — Article de Charles Magnin sur Lucrèce dans la</p>
+<p>Revue des Deux Mondes. — Polémique des évêques. — Mademoiselle de La
+Vallière, par Adolphe Dumas. — Éloge de Daunou, par</p>
+<p>M. Mignet 58</p>
+<p>XV. — Viennet et Ponsard. — La Russie en 1839, par M. de Custine. —
+Toujours les universitaires et les jésuites. — Louis-Philippe et M.
+Villemain.</p>
+<p>— Les Mystères de Paris 61</p>
+<p>XVII. — Calme plat. — Laprade. — Chateaubriand. — Quelques vérités sur
+la situation en littérature, etc 70</p>
+<p>XVIII. — Grand mouvement de réimpressions dans la librairie française. —
+Les formats. Charpentier.</p>
+<p>— L'Illustration. — M. Edouard Charton. — Les Voyages en zigzag de
+Töpffer 7 1</p>
+<p>XIX. — Cousin — Lettres du Père André. — Alfred de Musset. — Vers pour
+l'anniversaire de la mort du due d'Orléans. — Inconvenance. —
+LouisPhilippe et la duchesse de Berry. — Madame Louise Colet. — Eugène
+Sue. —"Les Mystères de Paris. — Départ de Balzac pour Saint-Pétersbourg.
+— Alexandre Dumas. — Les Demoiselles</p>
+<p>de Saint-Cyr, etc 76</p>
+<p>XX. — Quinet et Michel et. — Le livre des jésuites.... 84</p>
+<p>XXI. — Feuilleton de Jules Janin sur Les Demoiselles</p>
+<p>de Saint-Cyr. — Dumas se fâche. — Eugène</p>
+<p>déjeuner de garçons perpétuel. — Abus de</p>
+<p>grands hommes de bien 87</p>
+<p>XXII. — La princesse de Joinville. — Les Lettres parisiennes de madame
+de Girardin. — Jésuitisme et gallicanisme. — Conversion de M.
+Ratisbonne. — Peinture religieuse et galante 91</p>
+<p><pb/></p>
+<p>TABLE. 343</p>
+<p>XXIII. — De la librairie catholique 94</p>
+<p>XXIV. — Reprise et fin de la querelle de Janin et de Dumas.</p>
+<p>Dumas. Eugène Sue. — Théodore Burette 95</p>
+<p>XXVI. — Études catholiques et universitaires. — Portrait de Villemain. —
+Parallèle avec Guizot et Cousin.</p>
+<p>— M. de Genoude 100</p>
+<p>XXVIII. — Madame Sand dans son Berry. — Départ de Balzac pour la Russie.
+— Mort de la fille et du gendre de Victor Hugo.—Affreuse catastrophe.</p>
+<p>XXIX. — Un Catéchisme, par M. Cousin. — Importance</p>
+<p>croissante du parti catholique. — Ses relations dynastiques. — Politique
+d'atermoiement du roi Louis-Philippe. — La France catholique par
+ambition. — Programme de la liberté de l'enseignement réclamée par les
+jésuites. — Janin. — Gautier. — Delphine Gay. — M. Patin, etc..... 117</p>
+<p>XXX. — Peu de succès de la reprise de Lucrèce. — La</p>
+<p>liberté de l'enseignement. — Madame de Girardin</p>
+<p>Girardin</p>
+<p>XXXII. — Les Mystères de Paris 131</p>
+<p>XXXIII. — Le duc de Bordeaux. — Chateaubriand.—Disette.</p>
+<p>de grands noms dans le clergé français. — Opinion de Joseph de Maistre.
+— L'abbé de Cazalès.</p>
+<p>XXXIV. — Lerminier. — Lamartine. — Disette de nouveautés</p>
+<p>nouveautés librairie. — M. Arthur Ponroy. — Début des frère et soeur de
+mademoiselle Rachel. — L'esprit humain peu inventif. — Eve, par Léon
+Gozlan. — La fille d'Alexandre Soumet. — Un poëme de six mille vers 141</p>
+<p>XXXV. — Vente des livres catholiques. — Lamennais. —</p>
+<p>Raphaël et Rébecca Félix, frère et soeur de mademoiselle Rachel. — Léon
+Gozlan. — Voyage</p>
+<p><pb/></p>
+<p>344 TABLE.</p>
+<p>XXXVI. — Voyage du duc de Bordeaux en Angleterre. — Craintes de
+l'Université en face du clergé. — Montalembert. — Cousin sur Vanini. —
+Catholicisme et Éclectisme 147</p>
+<p>XXXVII. — Parade et comédie légitimistes. — Chateaubriand vieux
+bonhomme. — Serment des députés. — Conférences du Père Lacordaire à
+Notre-Dame.</p>
+<p>— Lacordaire et Montalembert — Improvisations politiques de M. de
+Lamartine I53</p>
+<p>XXXVIII. — Lacordaire, Henri V et Chateaubriand. — Mort de Casimir
+Delavigne. — Nobles paroles de Victor Hugo sur sa tombe. — Candidatures
+académiques. — Tibère, tragédie de MarieJoseph Chénier, au
+Théâtre-Français. — Article</p>
+<p>scandaleux de Janin 158</p>
+<p>XXXIX. — Préface d'Eve, par Léon Gozlan 164</p>
+<p>XL. — Réponse au Journal du Léman 166</p>
+<p>XLI. — Année stérile. — Article de M. Paulin Limayrac sur les Mystères
+de Paris. — Brochure de l'abbé Combalot sur la liberté de
+l'enseignement. — Prochaine inauguration du monument de Molière. —
+Discours du roi moins universitaire que celui de M. Villemain. — Article
+de M. Forcade sur le parti légitimiste. — Maladie de Charles Nodier. —
+Sympathie universelle et goût de la</p>
+<p>France pour l'esprit 167</p>
+<p>XLII. — Félix Pyat contre Jules Janin 172</p>
+<p>XLIII. — Suite de la polémique entre Félix Pyat et Jules</p>
+<p>Janin. — Mademoiselle Rachel dans Bérénice. 173</p>
+<p>XLIV. — Le bon Nodier 175</p>
+<p>— Inauguration de la statue de Molière. — Discours d'Arago. —
+Enterrement de Charles Nodier. — Odes et Poëmes, par Victor de Laprade.</p>
+<p>— Les Jésuites, d'après une brochure du Père Ravignan. — Procès de Janin
+contre Pyat 176</p>
+<p>XLVI. — Projet de loi sur l'instruction secondaire.—Concession aux
+petits séminaires. — Retour de la critique aux chefs-d'oeuvre du XVIIe
+siècle 183</p>
+<p><pb/></p>
+<p>TABLE. 345</p>
+<p>L. — La lettre des évêques au roi 195</p>
+<p>LII. — Rapport du duc de Broglie sur la loi de l'enseignement
+secondaire. — Lettre de M. Dupanloup a M. de Broglie. — M. de
+Montalembert compromet sa cause par sa violence 203:</p>
+<p>LUI. — Dédicace de Modeste Mignon. — Le salon de peinture. — Un portrait
+de la princesse Belgiojoso par Lehman. — Un tableau d'Ary Scheffer. 206</p>
+<p>LVI. — Anxiété des protestants. — Attitude de MM. Cousin et Villemain
+dans la discussion de la loi sur l'enseignement secondaire. — Peisse 215</p>
+<p>LVII. — Réponse au discours de M. de Montalembert .. 218</p>
+<p>LVIII. — L'abbé Dupanloup. — Le Rancé de Chateaubriand. — Gémissements
+des poëtes sur leur jeunesse enfuie. —Antigone, par MM. Vacquerie et
+Meurice. — La Ciguë, de M. Emile Augier. 220</p>
+<p><pb/></p>
+<p>346 TABLE.</p>
+<p>— Demande d'argent par le roi Louis-Philippe.</p>
+<p>— Conflit entre les deux Chambres au sujet de la liberté de
+l'enseignement. — Les jésuites et les jacobins. —Réponse de M. Thiers au
+roi. — L'Ultramontanisme, par Quinet. — Les Actes des Apôtres, par
+Génin. — Pascal. — L'abbé Flottes 227</p>
+<p>LX. — Procès Lacoste. — Madame Lafarge. — Succès malsain de cour
+d'assises. — Prétendue découverte du coeur de saint Louis. — Polémique
+entre MM. Letronne et M. Le Prevost 231</p>
+<p>LXI. — Les fêtes de juillet. — Curiosité sans enthousiasme. — Article de
+Lerminier sur l'Ultramontanisme de Quinet. — Rémusat sur Jouffroy. —
+Sainte-Beuve sur Daunou. — Histoire des Ecoles d'Alexandrie, par M.
+Jules Simon. — Jasmin.. 237</p>
+<p>LXII. — Béranger, Chateaubriand et Lamennais. — Les Grands jours
+d'Auvergne, de Fléchier. — Une province sous LouisXIV, par M. Thomas. —
+Pourvoi en cassation, brochure de Félix Pyat contre Jules Janin , 242</p>
+<p>— Le génie et la ficelle. — Mot d'un barbier</p>
+<p>sur Le Juif errant, en rasant un pair de France. 247</p>
+<p>LXV. — Éloge de Voltaire. — Faiblesse et souplesse de M. Villemain. —
+L'Académie nous trouverait bien suisses. — Un cas de guerre avec
+l'Angleterre 254</p>
+<p>LXVI. — Histoire du Consulat et de l'Empire, par M. Thiers. — Le Lutrin
+de Boileau, cité par Schlegel. — Découverte historique de M. Monmerqué.
+— Une longue suite de rois illégitimes en France. — Le petit roi Jean
+Ier. — Scepticisme historique. — Badauds comme des Byzantins. — Propos
+de table de Luther. — Poetoe minores. — André Chénier. — Latouche. —
+Jules Lefèvre. — Ulric Guttinguer. — Mademoiselle de La Seiglière. — Le
+Juif errant. — Alexandre Dumas.. 256</p>
+<p><pb/></p>
+<p>TABLE. 347</p>
+<p>LXVII. — Volney, plat courtisan de Napoléon. — La tasse de
+café.—Articles de Molènes contre Mérimée.</p>
+<p>— La femme de quarante ans, par M. d'Onquaire 265</p>
+<p>LXVIII. — Histoire du Consulat et de l'Empire, par M. Thiers. —
+Lamartine. — Vente de ses oeuvres. — Influence de la fortune sur les
+moeurs littéraires. — Balzac, messer milione.</p>
+<p>de la Némésis de Barthélemy 266</p>
+<p>LXIX. — Janin. — Les Nuées d'Aristophane. — Félix</p>
+<p>Pyat. — La politique chôme 277</p>
+<p>LXX. — Insuccès des Nuées. — Un article de M. de Rémusat dans le
+Constitutionnel. — Considérations sur l'esprit du temps. — Mollesse et
+apologie. — Optimisme 279</p>
+<p>LXXI. — Transformation du journal La Presse et des moeurs littéraires. —
+Son prospectus. — Chateaubriand, Alexandre Dumas, Napoléon, principaux
+collaborateurs. — Influence sur les lettres 281</p>
+<p>LXX1I. — M. Amédée Pommier. — M. D. Nisard sur Descartes. — M. Caloppe
+d'Onquaire. — Lettre de Chateaubriand. — Le Journal des Débats. —
+Alexandre Dumas. — M. Buloz. — Mot de Chateaubriand. — Mot de M. Thiers 286</p>
+<p>LXXIII. — Le jour de l'an. — MM. Dufaure, Molé, Cuizot, Billault. —
+Folie de M. Villemain. — Félicien David 291</p>
+<p>— Procédé américain 300</p>
+<p>LXXVII. — Histoire du Consulat et de l'Empire, par M. Thiers. — Article
+de M. Villemain sur cet ouvrage. — Esprit des institutions militaires,
+par le duc de Raguse. — Mort d'Alexandre Soumet. — Jules de Rességuier.
+— Latour de Saint-Ibar. — Virginie 306</p>
+<p><pb/></p>
+<p>348 TABLE.</p>
+<p>— Jasmin décoré de la Légion d'honneur 313</p>
+<p>LXXIX. — A propos de la tragédie de Virginie, par M. Latour de
+Saint-Ibar, au Théâtre-Français. — Etat de l'art dramatique en France. —
+Espérances déçues... 316</p>
+<p>LXXX. — Élection d'Alfred de Vigny et de M. Vitet à</p>
+<p>l'Académie française 321</p>
+<p>LXXXI, — Format des journaux quotidiens encore agrandi.</p>
+<p>— Le livre de M. de Rémusat sur Abélard. — Lettres de Louis XVIII. —
+Portrait de Louis XVI et de Louis XVIII par M. de Barante. — Opinion de
+Royer-Collard sur Louis XVIII. — Lord Brougham et Guillaume Schlegel
+écrivant en français.</p>
+<p>— Le Pitt de M. de Viel-Castel. — Un morceau</p>
+<p>de M. de Saint-Priest sur l'Inde 323</p>
+<p>LXXXII. — Manzoni. — De la difficulté d'écrire en italien. 328</p>
+<p>LXXXIII. — Agrandissement de format des grands journaux.</p>
+<p>— La Revue de Paris cesse de paraître. — Création de l'Artiste. — M.
+Arsène Houssaye. — La Revue des Deux Mondes reste aux mains de M. Buloz.
+—Les Bretons, de Brizeux. — Poésies</p>
+<p>de Théophile Gautier. — Orgueil de la vie 332</p>
+<p>LXXXIV. — Béranger en 1845 337</p>
+<p>FIN DE LA TABLE.</p>
+<p>PARIS — IMPRIMERIE DE E. MARTINET, RUE MICNON, 2.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>NOUVEAUX OUVRAGES EN VENTE</p>
+<p>Format in-8°</p>
+<p>J. AUTRAN de l'Acad. franç. f. c.</p>
+<p>OEUVRESCOMPLÈTES,t. III.—La Flûte et le Tambour 6</p>
+<p>COMTE DE PARIS</p>
+<p>HISTOIRE DE LA GUERRE CIVILE EN</p>
+<p>ATLAS POUR SERVIR A L'HISTOIRE DE LA GUERRE CIVILE EN AMÉRIQUE.</p>
+<p>VICTOR HUGO</p>
+<p>LIS CHATIMENTS 6 a</p>
+<p>FENDANT L'EXIL. 6</p>
+<p>PAULINE L. LE LIVRE D'UNE MÈRE 6</p>
+<p>J.-H. MERLE D'AUBIGNÉ f. c.</p>
+<p>HISTOIRE DE LA RÉFORME EN EUROPE</p>
+<p>AU TEMPS DE CALVIN, t. VI. 7 50</p>
+<p>ERNEST RENAN</p>
+<p>L'ANTECHRIST 7 50</p>
+<p>J. MICHELET</p>
+<p>ORIGINE DES BONAPARTE 6</p>
+<p>JUSQU'AU 18 BRUMAIRE 6</p>
+<p>JUSQU'A WATERLOO 6 «</p>
+<p>J. SIMON</p>
+<p>SOUVENIRS DU QUATRE-SEPTEMBItE.—</p>
+<p>Le gouvernement de la Défense nationale » 6</p>
+<p>L. DE VIEL-CASTEL de l'Acad. fr.</p>
+<p>HISTOIRE DE LA RESTAURATION. —</p>
+<p>T. XVII 6</p>
+<p>A. ACHARD vol.</p>
+<p>LA TOISON D'OR 1</p>
+<p>TH. BENTZON</p>
+<p>LE VIOLON DE JOB 1</p>
+<p>E. CADOL</p>
+<p>LA BETE NOIRE 1</p>
+<p>ALEX. DUMAS FILS de l'Acad. franç.</p>
+<p>THÉRÈSE 1</p>
+<p>0. FEUILLET de l'Acad. française</p>
+<p>ON MARIAGE DANS LE MONDE 1</p>
+<p>TH. GAUTIER</p>
+<p>PORTRAITS ET SOUVENIRS LITTÉRAIRES.. 1</p>
+<p>GUSTAVE HALLER</p>
+<p>LE BLEUET 1</p>
+<p>Vte D'HAUSSONVILLE</p>
+<p>C-A. SAINTE-BEUVE. — Sa vie et ses</p>
+<p>oeuvres 1</p>
+<p>A. HOUSSAYE</p>
+<p>LES DIANES ET LES VÉNUS 1</p>
+<p>VICTOR HUGO</p>
+<p>QUATRE-VINGT-TREIZE S</p>
+<p>AL. KARR</p>
+<p>PLUS ÇA CHANGE 1</p>
+<p>PLUS C'EST LA MEME CHOSE 1</p>
+<p>KEL-KUN</p>
+<p>PORTRAITS 1</p>
+<p>PROSPER MÉRIMÉE</p>
+<p>LETTRES A UNE INCONNUE 2</p>
+<p>LETTRES A UNE AUTRE INCONNUE 1</p>
+<p>KÉRY</p>
+<p>REVA 1</p>
+<p>MICHELET LA MER 1</p>
+<p>CH. MONSELET vol.</p>
+<p>LES ANNÉES DE GAIETÉ I</p>
+<p>D. NISARO de l'Acad. française</p>
+<p>LIS QUATRE GRANDS HISTORIENS LATINS. 1</p>
+<p>JULES NORIAC</p>
+<p>LA MAISON VERTE 1</p>
+<p>EDOUARD OURLIAC</p>
+<p>DERNIERES NOUVELLES 1</p>
+<p>PAUL PARFAIT</p>
+<p>LA SECONDE VIE DE MARIUS ROBERT.... 1</p>
+<p>EDMOND PLAUCHUT</p>
+<p>LIS QUATRE CAMPAGNES MILITAIRES DE</p>
+<p>1874 1</p>
+<p>A. DE PONTMARTIN</p>
+<p>NOUVEAUX SAMEDIS. T. Xll 1</p>
+<p>HENRI RIVIERE</p>
+<p>AVENTURES DE TROIS AMIS 1</p>
+<p>C.-A. SAINTE-BEUVE</p>
+<p>PREMIERS LUNDIS 3</p>
+<p>GEORGE SAND</p>
+<p>FLAMARANDE 1</p>
+<p>J.SANDEAU de l'Acad. français»</p>
+<p>JEAN DE THOMERAY. — LE COLONEL EVRARD 1</p>
+<p>L. ULBACH</p>
+<p>LE SECRET DE MADEMOISELLE CHAGNIER. 1 LA PRINCESSE MORANI 1</p>
+<p>A. VACQUERIE</p>
+<p>AUJOURD'HUI ET DEMAIN 1</p>
+<p>PIERRE VÉRON</p>
+<p>CES MONSTRES DE FEMMES 1</p>
+<p>L. VITET</p>
+<p>LE COMTE DUCHATEL, avec un portrait. 1</p>
+<p>Boulogne;Soins). —Imprimerie JULES BOYER,</p>
+    </div>
+    </body>
+  </text>
+</TEI>

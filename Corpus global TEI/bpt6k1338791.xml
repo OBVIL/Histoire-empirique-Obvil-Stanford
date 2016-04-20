@@ -1,0 +1,1983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Delécluze, Étienne-Jean (1781-1863)">Étienne-Jean Delécluze</author>
+<title>Roland, ou la Chevalerie, par É.-J. Delécluze...</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Delécluze, Étienne-Jean (1781-1863)</author>, <title>Roland, ou la Chevalerie, par É.-J. Delécluze...</title>, <date>1845</date>,description :,433 pages
+</bibl>
+<publisher>J. Labitte (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k1338791</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1845">1845</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p>LA RENAISSANCE.</p>
+<p>II</p>
+<p><pb/></p>
+<p>Corbeil, imprimerie de Crété.</p>
+<p><pb/></p>
+<p>ROLAND</p>
+<p>OU</p>
+<p>LA CHEVALERIE.</p>
+<p>PAR</p>
+<p>E. .T. DELÉCLUZE.</p>
+<p>L'homme est de glace aux vérités, Il est de feu pour le mensonge.</p>
+<p>DE LA FONTAINE.</p>
+<p>Il</p>
+<p>PARIS,</p>
+<p>JULES LABITTE, LIBRAIRE-ÉDITEUR,</p>
+<p>5, QUAI VOLTAIRE.</p>
+<p>1845</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHANSON DE ROLAND.</p>
+<p>AVERTISSEMENT.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>AVERTISSEMENT.</p>
+<p>Avant d'entreprendre la lecture de la Chanson de Roland, ou Poëme de
+Roncevaux, et pour comparer facilement les circonstances fabuleuses ou
+romanesques de ce récit rimé, avec les événements réels de l'histoire,
+il sera bon de prendre connaissance du passage des Annales des Francs,
+d'Eginhard, dans lequel le ministre de Charlemagne raconte ce qui a
+provoqué l'expédition du roi en Espagne, et la défaite de ses troupes, à
+Roncevaux. Voici comme il s'exprime :</p>
+<p>« An 777. Le roi, au premier jour de printemps, partit pour Nimègue, où
+il célébra les fêtes de Pâques. Ensuite, voyant bien qu'on ne pouvait se
+fier aux promesses trompeuses des Saxons, il résolut d'aller tenir, dans
+le lieu nommé Paderborn, l'as-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>cause du désavantage des lieux et du genre de combat qu'ils furent
+obligés de soutenir. La plupart des officiers du palais, auxquels le roi
+avoit donné le commandement de ses troupes, périrent en cette occasion ;
+les bagages furent pillés, et l'ennemi, favorisé par la connaissance
+qu'il avait des lieux, se dispersa aussitôt. Ce cruel revers effaça
+presque entièrement, dans le coeur du roi, la joie des succès qu'il
+avait obtenus en Espagne » (1).</p>
+<p>(1) Einhardi Opera, avec la traduction française de M. A. Teulet. — t.
+Ier, pag. 171-175. J. Renouard. Paris, 1840.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>et j'avoue que je n'ai pas été plus heureux qu'eux dans mes recherches.</p>
+<p><pb/></p>
+<p>LA CHANSON DE ROLAND</p>
+<p>PAR TUROLD.</p>
+<p><pb/></p>
+<p>point d'armée qui puisse livrer bataille et détruire ses forces.
+Conseillez-moi en hommes sages, et garantissez-moi de la mort et de la
+honte. » Il ne se trouva pas un païen qui répondît un seul mot, si ce
+n'est Blancandrin, du château de Val-Funde.</p>
+<p><pb/></p>
+<p>— Dès que le roi Marsile eut fini de tenir son conseil, il fit appeler
+Claron de Balaguet, Estama-rin et Eudropin, son compagnon, Priamon et
+Guarlan le Barbet, puis, Machiner et son oncle Maheu, avec Joiner et
+Malbien d'outre mer, et enfin Blancandrin, pour traiter l'affaire. Après
+avoir fait venir ces dix hommes, les plus félons de tous : « Seigneurs
+barons, leur dit Marsile, vous irez</p>
+<p>(1 ) Ce Blancandrin, pourrait bien être une tradition confuse du
+personnage Ibn-al-Arabi, dont parle Eginhard.</p>
+<p><pb/></p>
+<p>7. — Marsile fit amener dix mules blanches que lui procura le roi de
+Suatilie. Leurs freins sont d'or, leurs selles d'argent ; les dix
+députés chargés du message les montent, tenant des branches d'olivier à
+la main. Ils arrivent bientôt près de celui qui règne sur la France,
+Charles qui, en les voyant, ne peut se garder de concevoir quelques
+soupçons. AOI.</p>
+<p><pb/></p>
+<p>9. — Blancandrin parla le premier; il dit au roi : « Que le Dieu
+glorieux que vous adorez, vous sauve ! voici ce que le grand roi Marsile
+vous mande : après s'être enquis avec soin de la loi de</p>
+<p><pb/></p>
+<p>11. — Le soleil fut brillant, et la soirée belle ;</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Or, je ne sais quelle est au juste son intention. » Les Français disent
+: « Il convient d'y prendre garde. »</p>
+<p><pb/></p>
+<p>16. — Cela dit, Naimes s'avança. C'était le meilleur et le plus fidèle
+vassal de la cour ; il dit au roi : « "Vous l'avez entendu, le comte
+Guenelon vous a dit la vérité sur cette affaire. Le roi Marsile a été
+vaincu, vous lui avez enlevé ses châteaux, rasé tous ses murs, brûlé ses
+villes et détruit son armée; mais puisqu'il vous demande merci, et qu'il
+vous offre des otages pour garantie, ce serait un péché que de vouloir
+sévir davantage contre lui. Cette grande guerre ne doit donc pas se
+prolonger plus longtemps. » Les Français disent : « Le duc a bien parlé.
+» AOI.</p>
+<p>(1) Donner le gant et le bâton. Cette expression se représente</p>
+<p><pb/></p>
+<p>homme sage ; mais par cette barbe et par ma moustache ! vous n'irez pas
+cette année si loin de moi. Allez vous asseoir, personne ne vous a prié
+de remplir cette commission. »</p>
+<p>19. — Turpin de Rheims (l'archevêque) s'est levé de son rang, et dit au
+roi : « Laissez demeurer vos Francs ; pendant les sept années que vous
+avez passées en ce pays, ils ont eu bien des fatigues et</p>
+<p><pb/></p>
+<p>(1) Voici comment Guenelon était beau-père de Roland : après que le
+comte Milon d'Anglante eut laissé Roland et sa mère Berthe, dans la
+grotte de Sutri, cette princesse, lasse du veuvage, épousa Guenelon de
+la maison de Mayence, que Charlemagne avait fait comte de Poitiers.
+(Voyez vol. 1er, page 360).</p>
+<p><pb/></p>
+<p>(1) Je laisse ce mot sans le traduire ; on n'en connaît pas bien la
+signification.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>29. — «Roland a grand tort, dit Blancandrin, de vouloir vaincre tout le
+monde et porter le défi dans tous les pays. Avec quelles gens se
+flatte-t-il donc d'accomplir tant d'exploits?» — « Avec les gens de
+France, répond Guenelon. Ils l'aiment tant, qu'ils</p>
+<p>(1) Ce passage est fort obscur. Voici le texte :</p>
+<p>Er matin sedeit li emperère suz l'umbre ;</p>
+<p>Vint i ses niés, out vetue sa brunie,</p>
+<p>E out preet dejuste Carcasonie,</p>
+<p>En sa main tint une vermeille pume : »</p>
+<p>« Tenez beau sire, dit Roland asun uncle, etc. »</p>
+<p><pb/></p>
+<p>51. — Blancandrin se présenta devant l'empereur en tenant le comte
+Guenelon par la main : « Que Mahomet et Apollin dont nous observons les
+saintes lois vous protégent ! dit-il au roi. Nous avons fait votre
+message auprès de Charles qui leva ses deux mains vers le ciel, loua son
+Dieu et ne fit point d'autre réponse; mais il vous envoie un de ses
+nobles barons de France, homme très-puissant. Vous apprendrez de lui si
+vous aurez le pays ou non. » — « Hé bien, dit Marsile, qu'il parle; nous
+l'écouterons. » Aoi.</p>
+<p>32. — Mais le comte Guenelon après avoir bien</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>36. — Marsile devient pâle de fureur. Il brise</p>
+<p><pb/></p>
+<p>38. — « Beau sire Guenelon, dit Marsile, je vous ai fait quelque peu de
+legerie, lorsque</p>
+<p><pb/></p>
+<p>(1) Tous ceux qui connaissent les poëmes d'Homère, seront cer¬</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Charles aime tant font les avant-gardes avec vingt mille Français ;
+aussi Charles est-il en sûreté, et ne craint-il nul homme vivant. » AOI.</p>
+<p>45. — «C omment, beau sire Guenelon, il est sûr que je pourrai tuer
+Roland ?» — «C'est ce que je puis bien vous dire : le roi sera au
+meilleur port de Fizer (Césaire), et derrière lui il laissera son
+arrière-garde que commanderont son neveu, le noble Roland, et Olivier,
+en qui il met tant de confiance. Ils auront vingt mille Français avec
+eux. Envoyez-leur cent mille de vos païens, qui leur livreront</p>
+<p><pb/></p>
+<p>44. — « Si l'on peut faire que Roland périsse là, ajoute Guenelon,
+Charles perdrait alors le bras droit de son corps. Ses merveilleuses
+armées seraientparalysées, et il ne lui serait plus possible de
+rassembler tant de forces. Charles irait se reposer dans une terre
+meilleure. » A peine Marsile eut-il entendu parler ainsi Guenelon, qu'il
+le baisa au col. Puis il fit venir ses trésors. AOI.</p>
+<p>43. — « Or, dit Marsile, qu'avons-nous besoin d'en dire davantage ? Un
+conseil ne devient profitable que quand on peut compter dessus. Vous me
+jurez que la perte de Roland est certaine? » — « Ainsi soit comme il
+vous plaît, répond Guenelon ; » puis il jura sur les reliques de
+sonépéeMurgleis,et se forfit. AOI.</p>
+<p><pb/></p>
+<p>(nusches) (2) ornés d'or, de matice</p>
+<p>et de jacunces (grenats). Elles</p>
+<p>ont plus de prix que toutes les richesses de Rome.</p>
+<p>(1) On ignore la signification précise de ce mot, qui désigne quelque
+chose de précieux comme des diamants ou autres objets de ce genre.</p>
+<p>(2) Nusche, sans doute un bijou double, comme des pendants d'oreilles.
+Matice, pierre précieuse.</p>
+<p><pb/></p>
+<p>Votre empereur n'en eut jamais de si bonnes. » Guenelon les prit et les
+mit dans ses bottes. AOI.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>plient bagages, chargent les bêtes de somme, et s'acheminent vers la
+douce France.</p>
+<p>55. — Le jour s'en va et la nuit vient. Le noble empereur s'endort. Il
+songe qu'il sera bientôt au port de Fizer, il rêve qu'il tient entre ses
+mains sa lance de frêne, mais que Guenelon s'en est emparé, et qu'il l'a
+tellement brandie dans l'air, que les esquilles en volent jusqu'aux
+cieux. Cependant Charles ne se réveille pas.</p>
+<p>56. — Après ce songe il en fait un autre. Il rêve qu'il est en France, à
+Aix-la-Chapelle, et qu'un sanglier le mord cruellement au bras droit ;
+que dans les Ardennes, il voit venir un léopard qui lui livre un assaut
+terrible ; puis un levrier descend en galopant et en sautant jusqu'à
+Charles. En songe,</p>
+<p><pb/></p>
+<p>le roi tranche l'oreille droite au sanglier et combat avec fureur contre
+le léopard. Cependant, de leur côté, les Français disent qu'il y aura
+une grande bataille, mais qu'ils ne savent qui sera vainqueur. Toutefois
+Charles dort et ne s'éveille pas. AOI.</p>
+<p>59. _ Quand Roland vit qu'il était décidé que</p>
+<p><pb/></p>
+<p>62. — Le comte Roland monte son coursier. A.</p>
+<p><pb/></p>
+<p>lui viennent se joindre son compagnon Olivier, Gérins et Gérers, Josse
+et Bérenger, puis Jastors et le vieil Anséis, puis le brave Gérard de
+Roussillon, et le puissant duc Gaifiers. « Par mon chef, j'irai aussi, »
+dit l'archevêque Turpin ! — « Et moi ainsi que vous, ajoute le comte
+Gualters ; je suis homme de Roland, je ne dois pas lui manquer. » Alors
+ils font entre eux le choix de vingt mille chevaliers. AOI.</p>
+<p>64. — Les montagnes sont hautes, les vallées ténébreuses, les roches
+grises et escarpées. Le jour où les Français partaient, ce fut une
+grande douleur. A vingt lieues en avant, on en eut la rumeur. Comme ils
+se rendaient dans le grand pays (France), ils virent en passant la
+Gascogne, terre de leur seigneur ; ils se souvinrent de leurs fiefs et
+de leurs honneurs, de leurs enfants et de leurs femmes. Il y en eut peu
+qui ne pleurassent. Mais, plus que tous les autres, Charles est accablé
+de cha¬</p>
+<p><pb/></p>
+<p>grin ; il a laissé son neveu au port d'Espagne. La pitié l'émeut et il
+ne peut s'empêcher de verser des larmes. AOI.</p>
+<p><pb/></p>
+<p>toute cette armée chevauche avec ardeur entre les monts et dans les
+vallées de la terre de Cerdagne ; ils aperçoivent les gonfalons de ceux
+de France, et l'arrière-garde des douze compagnons. Alors il leur tarde
+de leur livrer bataille.</p>
+<p>69. — De l'autre part est Corsalis, roi de Bar¬</p>
+<p><pb/></p>
+<p>71. — Un connétable de la Moriane, le plus félon de la terre d'Espagne,
+vient se vanter devant Marsile : « A Roncevaux je guiderai ma troupe,
+dit-il, elle se compose de vingt mille hommes portant écus et lances. Si
+je rencontre Roland, je lui donne ma foi qu'il mourra. Il ne se passera
+pas un jour que Charles n'ait un sujet de douleur. » AOI.</p>
+<p>72. — Vient encore le comte Turgis de la ville</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>pourraient faire quatre mulets. Dans son pays, dit-il, le soleil ne luit
+pas, le blé ne peut y croître ; jamais il n'y pleut, on n'y connaît pas
+la rosée, et toutes les pierres sont noires, le diable y demeure selon
+l'opinion de quelques-uns. Chernubles dit au roi : « J'ai ceint ma bonne
+épée, àRoncevaux je la tiendrai vermeille. Si je rencontre le preux
+Roland sur mon chemin, je ferai la conquête de son épée Durandal, ou il
+aura la mienne. Les Français périront et la France sera déserte. » A ces
+mots les douze s'élancent, et cent mille Sarrazins qui ont hâte de se
+battre, vont s'armer sous la forêt de pins.</p>
+<p><pb/></p>
+<p>78.—Olivier, monté au haut d'un grand pin, regarde sur la droite vers
+une vallée herbue, et voit venir la gent païenne-, il appelle son
+compagnon Roland : « Je vois venir du côté de l'Espagne, dit-il, une
+multitude! Ils sont couverts de blancs hauberts et de casques
+resplendissants. Nos Français vont éprouver de grandes colères ;
+Guenelon le savait bien, le traître, le félon, lorsqu'il nous fit donner
+cette commission devant l'empereur. » — « Olivier, tais-toi, dit le
+comte Roland -, c'est mon beau-père, je ne veux pas qu'on en dise un
+seul mot. »</p>
+<p>80. — « J'ai vu les païens, dit-il, et jamais</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>85. — Roland est brave, Olivier est prudent ;</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>88. — Les Français, après avoir été absous et bénis par l'archevêque, se
+relèvent, et remontent sur leurs destriers. Ils sont armés selon la loi
+chevaleresque, et sont tout préparés pour la bataille ; alors le comte
+Roland appelle Olivier : « Sire compagnon, vous savez bien que Guenelon
+nous a tous trahis, et que, pour cette action, il a reçu or et argent ;
+l'empereur devrait bien nous venger; le roi Marsile nous a achetés, mais
+pour que ce marché tienne, il faudra que le païen le confirme avec
+l'épée. »</p>
+<p>89. — Roland est arrivé au port d'Espagne ; monté sur son bon cheval
+Vaillantif, il porte ses armes qui lui siéent très-bien. Ce seigneur, le
+vi¬</p>
+<p><pb/></p>
+<p>sage serein et riant, tournoie, brandit, et élève vers le ciel, son
+épieu auquel est attaché un gonfalon tout blanc ; les franges lui
+battent jusqu'aux mains, et il court vers les Français pour les
+encourager. Son compagnon Olivier le suit, et ceux de France témoignent
+la confiance qu'ils mettent en eux. Après avoir lancé un regard terrible
+vers les Sarrazins, Roland tourne affectueusement ses yeux sur les
+Français, et leur dit avec courtoisie : « Seigneurs barons, marchez
+doucement et avec calme, car ces païens s'avancent de telle sorte que
+nous en pourrons faire un grand carnage. Ils ne peuvent manquer
+d'éprouver un terrible échec : il n'y eut jamais de roi de France aussi
+vaillant que Charles ! » A ces paroles, les escadrons se serrent. AOI.</p>
+<p><pb/></p>
+<p>coursiers pour aller avec plus de vitesse, ils vont frapper ; mais les
+païens, que frappent-ils, eux qui ne se sont point doutés de cette
+attaque soudaine ? Voici les Français et les Sarrazins en présence.</p>
+<p>92. — Un duc est là, c'est Falsaron. Frère de Marsile, il tient la terre
+d'Atlion et Balbion qui ne fut jamais gouvernée par un félon plus endurci.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>97. — —Pour Anséis, il laisse courir son cheval, et va frapper Turgis de
+Turteluse. Il brise son écu au-dessus de la bosse d'or, rompt son
+haubert doublé, enfonce la lame de son bon épieu de part en part dans
+son corps, et fait tomber son ennemi étendu mort sur la terre. Roland
+dit : « C'est un véritable coup de prud'homme ! »</p>
+<p>99. — Gualters frappe alors le païen Estorgans sur le bord de son écu
+garni de fourrure mi-partie blanche et rouge, il lui rompt son haubert.
+Puis après l'avoir percé de son épieu tranchant, il le fait tomber mort
+de son cheval qui court toujours ; il lui dit alors : « Rien ne pourra
+vous sauver. »</p>
+<p>100. — Puis Béranger frappe Astramariz dont ilbrise l'écuetle haubert.
+Il lui enfonce son épieu dans le corps, et l'abat mort au milieu d'une
+foule de Sarrazins. Des douze pairs (païens), dix ont été tués. Il n'en
+reste que deux vivants : l'un est Chernubles, l'autre le roi Margaris.</p>
+<p>101.—Margaris est très-vaillant chevalier. Il est beau, fort, adroit et
+léger. Il pique son che¬</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>105. — Enfin, le seigneur Olivier tire sa bonne épée, que son compagnon
+Roland lui a tant demandée ; et en vrai chevalier il la lui montre, puis
+il s'élance sur le païen Justin de Val-Ferré, et fend en deux sa tête,
+son corps et sa cuirasse ciselée, puis la selle ornée d'or, et l'échiné
+de son cheval. L'homme et le coursier tombent morts sur la terre : « Je
+vous reconnais, frère, dit Roland, c'est pour de tels coups que
+l'empereur nous aime.»</p>
+<p><pb/></p>
+<p>Puis de toutes parts, retentit le cri de Montjoiel Aoi.</p>
+<p>108. — Mais de son côté, Charlemagne verse des larmes de douleur, en
+pensant qu'il ne pourra</p>
+<p>(1) Ici on lit ce vers : « Espue's icil fut fils Burdel, » dont il m'a
+été impossible de trouver la liaison avec ce qui précède et ce qui suit.
+Il signifie: « Espue fut fils de Burdel. »</p>
+<p>(2) Ce passage de la chanson est le seul où il soit fait mention d'un
+enchanteur et de magie.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>du siècle où nous vivons. » Il n'y avait rien de vrai de ce que l'on
+disait ainsi ; mais toutes ces grandes douleurs étaient les présages de
+la mort de Roland.</p>
+<p>(1) Gesta Francorum. Recueil de narrations historiques sur les faits et
+gestes des Français, qui ne nous est connu que par les auteurs qui,
+comme Turold, en invoquent le témoignage.</p>
+<p><pb/></p>
+<p>terrible, et comme aucun homme n'en a encore vu. Je vais frapper avec ma
+Durandal ; pour vous, frappez avec votre Hauteclère. Nous les avons
+portées en tant de lieux, et avec elles nous avons gagné tant de
+batailles, qu'il n'en sera pas chanté de mauvaises chansons ! » Aoi.</p>
+<p>(1) Hérétique, l'abus de ce mot a été fort commun du douzième au
+seizième siècle. C'était une injure.</p>
+<p><pb/></p>
+<p>114. — Mais les Français s'aperçoivent que de tous côtés les champs sont
+couverts de païens. Souvent ils regrettent Olivier et Roland ; ils
+cherchent les douze pairs, afin qu'ils les soutiennent et les
+garantissent dans le danger. L'archevêque leur dit : « Seigneurs barons,
+n'y pensez plus. Au nom de Dieu, je vous prie de ne pas prendre la
+fuite, afin qu'aucun d'entre vous, prud'hommes (nobles), ne se dégrade.
+Il vaut beaucoup mieux que nous</p>
+<p>(1) Copiez et plates. On ignore la signification de ces deux mots.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>allons les vaincre ! » « O Dieu, disent de leur côté les Français, quel
+deuil de barons. » AOI.</p>
+<p><pb/></p>
+<p>sant ainsi, Turpin lance son bon cheval, frappe et enfonce l'écu de
+Tulète qu'il abat mort sur l'herbe.</p>
+<p>121. — Voici encore le païen Grandonie. Fils du roi Capuel, il est né en
+Cappadoce, son cheval a nom Marinoris, et sur cet animal il se montre
+plus léger qu'un oiseau qui vole. Il le pique de l'éperon, lui lâche la
+bride, et frappe de toute sa force Gérin. Il lui brise son écu rouge
+qu'il portait au col, ouvre sa cuirasse, et, après lui avoir enfoncé
+dans le corps toute son enseigne bleue et le pennon de sa lance, il le
+fait tomber mort sur une roche. Bientôt il renverse et tue encore Gérer,
+le compagnon de Gérin ; puis Bérenger et Guion de Saint-Antoine, ainsi
+que le puissant duc d'Austorie, qui tenait Valeri et Envers sur le
+Rhône. Il les abat tous, et les païens en sentent une grande joie. Quant
+aux Français : « Oh ! disent-ils, comme les nôtres tombent ! »</p>
+<p>122. — Tout en tenant son épée sanglante, Roland a bien entendu que les
+Français se plaignent, et il craint qu'un grand découragement ne tombe
+en leur coeur. Il dit donc au païen : « Que Dieu te donne le malheur !
+tu viens d'en tuer un dont j'ai résolu de te faire payer cher la mort. »
+Il pique son cheval qui sort de la mêlée, et bientôt il rencontre celui
+qu'il cherche, et tous deux en viennent aux mains.</p>
+<p><pb/></p>
+<p>125. — Le comte Roland appelle Olivier : « Sire compagnon, lui dit-il,
+vous pouvez m'en croire,</p>
+<p><pb/></p>
+<p>l'archevêque (Turpin) est le meilleur chevalier qu'il y ait sur la terre
+et sous le ciel ; personne ne se sert mieux que lui de la lance et de
+l'épieu. »</p>
+<p>(1) Chanson de Geste d'après laquelle il paraît que ce poëme a été composé.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>(1) Légerie semble bien signifier ici légèreté, imprudence.</p>
+<p><pb/></p>
+<p>bières sur des bêtes de somme en nous pleurant en témoignage de deuil et
+de pitié ; ils nous enterreront daus les cours des monastères, et ne
+mangeront ni loup, ni porc, ni chien (1) ». Sire, dit Roland : « Vous
+dites très-bien. » Aoi.</p>
+<p>(1) Ils observeront un jeûne rigoureux.</p>
+<p><pb/></p>
+<p>ordre et les Sarrazins n'en sont-ils pas sortis (1) ?....</p>
+<p>. . A propos d'un lièvre il va cornant tout le jour, et dans ce moment
+il se moque de ses pairs ; mais il n'est personne qui ose se plaindre de
+lui. Pourquoi vous arrêteriez-vous? Chevauchez en avant, car la terre
+majeure est encore loin d'ici. » AOI.</p>
+<p>133. — Le comte Roland a la bouche sanglante, les veines de ses tempes
+se rompent, et il ne sonne de son Olifant qu'au prix de grandes
+douleurs. Charles l'ouït, et ses Français l'entendent. « Le son de ce
+cor vient de loin, dit le roi. » Le duc Naimes répond : « Je ne me
+trompe pas, on se bat. Armez-vous, faites crier Montjoie, et secourez
+votre noble suite. Vous entendez bien que Roland se plaint. »</p>
+<p>135. — L'obscurité se dissipe et le jour paraît.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>137. — Toujours plus irrité, Charles chevauche. Sa barbe blanche flotte
+sur sa cuirasse. Tous les barons de France piquent leurs chevaux pour
+aller porter secours, et il n'y en a pas un que la colère ne pousse et
+ne rapproche de Roland, le capitaine qui combat en ce moment les
+Sarrazins d Espagne. S'il est blessé, il n'y a pas un de ces combattants
+qui reste! Dieu! Quels sont ces soixante hommes qui forment encore sa
+compagnie? Jamais roi ni capitaine n'en eut de meilleurs et de plus
+vaillants. AOI.</p>
+<p>139. Le comte Roland retourne au fort de la</p>
+<p><pb/></p>
+<p>bataille ; et, armé de Durandal, il frappe en vrai vassal. Il fend en
+deux Faldrun de Pin, et vingt-quatre des guerriers les plus prisés.
+Jamais homme n'a senti plus vivement le besoin de se venger. De même que
+le cerf fuit devant les chiens, ainsi les Musulmans disparaissent devant
+Roland. «C'est bien, dit l'archevêque, et c'est avec cette valeur que
+doit se comporter un chevalier. Qui porte des armes et monte un bon
+cheval, doit être fort et terrible dans la bataille ; autrement il ne
+vaut pas quatre deniers; qu'alors il se fasse moine dans un de ces
+monastères, où il priera jour et nuit pour nos péchés. » Roland répond :
+« Frappez, et ne les épargnez pas ! » A ces mots, les Français
+recommencent l'attaque, mais ils éprouvent de grandes pertes.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>a eu tort (1). » Après avoir ainsi</p>
+<p>(1) Il y a ici quatre ou cinq vers dont je n'ai pu saisir le sens.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>nazel (1), mais sans lui blesser la tête. A ce coup, Roland le regarde
+et lui demande avec douceur : « Sire compagnon, agissez-vous de votre
+gré ? le suis Roland qui vous ai toujours tant aimé ; en nulle manière
+vous ne m'avez défié. » — « Oh ! dit Olivier, maintenant, je vous
+entends parler ; je ne vous voyais pas. C'est vous ! Seigneur Dieu ! je
+vous ai blessé ! oh ! pardonnez-le-moi. » « Je n'ai nul mal, répond
+Roland, et je vous pardonne ici devant Dieu. » A ces mots, ils se
+penchent l'un vers l'autre, et, au milieu de leur tendresse mutuelle,
+les voici près d'être séparés pour toujours.</p>
+<p>(1) Ouverture du casque pour respirer.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>des ennemis. Il jette morts vingt païens pour sa part ; Gualter en tue
+six et l'archevêque cinq. Les traîtres de païens disent : « Ces hommes
+sont des félons, faites en sorte, Seigneur, qu'il n'en échappe pas un
+vivant. Soit réputé traître quiconque ne va pas les attaquer, et
+mécréant qui les laissera se soustraire par la fuite ! » Alors
+recommence le hu et le cri (1), et de toutes parts les mahométans vont
+attaquer de nouveau les chrétiens. AOI.</p>
+<p>153. Quoique blessé de quatre épieux, quand</p>
+<p>(1) Le hu et le cri ; cette expression est encore en usage dans la
+langue anglaise : « hue and cry. » C'est le cri avec lequel on poursuit
+un coupable. Cette locution est fréquemment employée par Shakespeare.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>l'assaut aux païens. Les meilleures coups sont ceux de Durandal.»—«Hé
+bien, dit l'archevêque : félon soit réputé qui ne frappera pas bien !
+Charles revient qui nous vengera ! »</p>
+<p><pb/></p>
+<p>las ! gentilhomme, car vous allez mourir, nos compagnons qui nous furent
+si chers, ils sont tous morts, et nous ne devons pas les abandonner. Je
+veux aller les chercher, les reconnaître et les placer auprès de vous.
+»—« Allez et cherchez, dit l'archevêque ; Dieu merci, ce champ est le
+vôtre et le mien.</p>
+<p><pb/></p>
+<p>écus, pour épouvanter et vaincre les orgueilleux, pour conseiller et
+protéger les hommes honnêtes, en nul pays il n'y eut de meilleur
+chevalier. »</p>
+<p><pb/></p>
+<p>combattu les païens, que Dieu lui octroie sa sainte bénédiction. AOI.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>son épée sous lui, tient son Olifant, et tourne la tête du côté de la
+gent païenne, dans l'intention que Charles et tous les siens jugent que,
+noble comte, il est mort en brave et en vainqueur ; puis il s'accuse de
+ses fautes, implore Dieu, et, pour le pardon de ses péchés, il offre le
+gant. AOI.</p>
+<p><pb/></p>
+<p>174. —Il n'y a ni chevalier ni baron dont l'âme</p>
+<p><pb/></p>
+<p>ne soit pénétrée de pitié ; ils pleurent leurs fils, leurs frères, leurs
+neveux, leurs amis et leurs seigneurs liges. Plusieurs se pâment étendus
+sur la</p>
+<p>terre, le duc Naimes</p>
+<p><pb/></p>
+<p>176. — Pour Charlemagne Dieu fit une grande chose, car le soleil resta
+fixe. Les païens fuient et les chrétiens les poursuivent et les
+atteignent jusque dans les vallées ténébreuses ; ils les chassent
+versSarragosse, leur coupent souvent la retraite et leur donnent
+impitoyablement la mort. Les eaux du Sèbre (l'Èbre) sont devant eux ;
+profondes, rapides, il-ne s'y trouve ni berges, ni drodmons (ni bateaux)
+; alors les païens implorent leur Dieu Tervagant et se jettent dans le
+fleuve, mais ils ne peuvent se sauver. Les mieux armés sont aussi les
+plus pesants et la plupart tombent au fond des eaux, d'autres tâchent de
+remonter et les plus heureux sont ceux qui ont bu (sont noyés) aussitôt.
+Tous sont engloutis, et les Français s'écrient : «Ah ! que vous avez été
+malheureux, Roland ! » AOI.</p>
+<p><pb/></p>
+<p>179. — L'empereur lui-même se couche sur un pré, mettant son grand épieu
+près de sa tête. Pendant cette nuit, il ne veut pas quitter ses armes et</p>
+<p>180. — La nuit est claire et la lune brillante; Charles est couché, mais
+il éprouve une vive douleur de la perte de Roland, d'Olivier, des douze</p>
+<p><pb/></p>
+<p>pairs, et de tous les Français dont il a laissé les corps gisants à
+Roncevaux. Il ne peut retenir ses larmes, et prie Dieu de recevoir leurs
+âmes. Cependant le roi fatigué cède enfin au sommeil, au milieu des
+Français qui dorment eux-mêmes sur les prés ; il n'y a pas un cheval qui
+puisse se tenir sur ses jambes,et ceux qui sentent le besoin de manger
+mangent l'herbe autour d'eux en gisant. Quand on a eu beaucoup de peine,
+cela rend ingénieux.</p>
+<p><pb/></p>
+<p>un grand lion, orgueilleux et fier, s'avance vers lui et l'assaille ;
+bientôt ils luttent ensemble, mais on ne sait lequel des deux est
+vainqueur : et l'empereur ne s'est point éveillé.</p>
+<p>(1) Brohun. Peut-être est-ce le nom d'un animal. Tout ce passage exprime
+allégoriquement les reproches que Charlemagne craint qu'on ne lui fasse,
+pour la perte de son armée ; il est très-obscur.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>noblesse et de la folie ; si on lui présente la bataille, il ne
+s'enfuira pas ! c'est un grand malheur que personne ne l'ait tué !</p>
+<p>(1) Cette phrase incidente, où le souvenir d'Homère et de Virgile est
+invoqué n'offre pas un sens bien clair; et dans le doute où je suis de
+l'avoir saisi, je rapporterai ici les vers de la chanson :</p>
+<p>Li reis Marsilie s'en purcacet assez,</p>
+<p>Al premer an fist ses brefs sieler,</p>
+<p>En Babilonie Baligant ad mandet :</p>
+<p>Tut survesquiet e Virgilie e Orner ;</p>
+<p>Co est l'amiraill le viel d'entiquetet.</p>
+<p>En Sarraguce ait succure li ber ;</p>
+<p>Et s'il ne l' fait etc., etc.</p>
+<p><pb/></p>
+<p>réuni sa flotte. C'est en mai, aux premiers jours d'été, qu'il a mis
+toute son armée en mer.</p>
+<p>186. — Grandes sont les armées que forme cette race ennemie qui,
+bientôt, navigue et cingle avec rapidité. Au sommet des mâts et des
+vergues, il y a des charbons et des lanternes, dont les rayons
+projettent une telle lumière que la nuit noire en est plus belle. Et
+lorsqu'ils arrivent en Espagne, tout le pays en est éclairé et
+resplendissant ; bientôt la nouvelle de leur arrivée parvient jusqu'à
+Marsile. AOI.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>plaudirent en disant : « Sire, vous dites très-bien. »</p>
+<p>190. — « Chevauchez donc, barons, ajoute Baligant ; que l'un porte le
+gant et l'autre le bâton.</p>
+<p>(1)Mahomet, Tervagant et Apollin ayant laissé vaincre Marsile, l'auteur
+appelle un mauvais salut, celui que font les messagers au roi de
+Sarragosse, en invoquant l'assistance deces idoles que l'on vient de
+briser.</p>
+<p><pb/></p>
+<p>.... Charles ne craint nul homme au monde.</p>
+<p><pb/></p>
+<p>194. — « Charles l'empereur, continua Marsile, a fait périr mes gens, a
+ruiné mon pays et forcé mes villes. Cette nuit il couche sur les eaux de
+la Sèbre, et j'ai calculé qu'il n'y a que sept lieues. Vous dites que
+l'amiral y amène son armée, alors faites-lui savoir de ma part qu'il
+doit lui livrer bataille. » En disant ces mots, Marsile donna les clefs
+de Sarragosse aux deux messagers qui s'inclinèrent et prirent congé.</p>
+<p><pb/></p>
+<p>196. — «Sire amiral, dit Clarien, il s'est donné une bataille hier à
+Roncevaux. Roland et Olivier y sont morts, ainsi que les douze pairs que
+Charles prisait tant, et vingt mille de leurs Français ont également
+perdu la vie. Mais le roi Marsile a perdu la main droite, et l'empereur
+l'a poursuivi avec ardeur.</p>
+<p>En ce pays il n'est resté aucun chevalier, qui n'ait été tué ou noyé
+dans la Sèbre. Les Français</p>
+<p><pb/></p>
+<p>198. — A peine le roi Marsile a-t-il aperçu</p>
+<p><pb/></p>
+<p>Baligant, qu'il appelle deux Sarrazins espagnols. « Soutenez - moi, leur
+dit-il, et placez-moi sur mon séant : » puis, prenant de sa main gauche
+un de ses gants : « Sire roi amiral, ajouta-t-il, je vous rends ici tous
+mes royaumes ; Sarragosse et tous les hommes qui y sont attachés. Je
+suis perdu ainsi que tous les miens. » L'amiral répond : « J'en ressens
+une vive douleur, mais je ne puis parler longuement avec vous. Charles
+est bien loin de m'attendre et je n'ai que le temps de recevoir le gant
+de vous. » Il dit, et de douleur il pleure en se retirant. AOI.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>plus qu'au milieu des chagrins que je gouvernerai mon royaume, et il ne
+se passera plus de jour sans que je pleure.</p>
+<p>207. — « Ami Roland, que Dieu ait pitié de toi ! que ton âme aille en
+paradis. Celui qui t'a tué a mis la France dans la désolation, et
+j'éprouvé un tel chagrin de ce que ma noblesse est morte pour moi, que
+je ne voudrais plus vivre ; fassent Dieu et le Fils de sainte Marie que
+mon âme quitte aujourd'hui mon corps, avant que j'arrive au maître port
+de Sirie (passage dans les Pyrénées). Mon</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Gébouin, au comte Milon et au marquis Otes de les faire placer dans
+trois chars et de les accompagner. On a soin de les couvrir d'un pâlie
+galazin (étoffe précieuse). AOI.</p>
+<p><pb/></p>
+<p>hommes. AOI. Il implore l'aide de Dieu et de l'apôtre de Rome.</p>
+<p>215. — Charles appelle encore Rabe etGuine-man et leur dit : «
+Seigneurs, je vous commande de prendre la place d'Olivier et de Roland.
+Que l'un prenne l'épée du premier et le "second l'Olifant de mon neveu.
+Marchez en tête avec vos quinze mille Français, choisis parmi nos
+meilleurs et nos plus vaillants bacheliers. Après eux s'avancera un
+nombre égal conduit par Gibuki, Guine-mans, le duc Naismes et le comte
+Josseran. » Ils</p>
+<p><pb/></p>
+<p>disposent bien les échelles (corps de troupes échelonnées) et s'ils
+rencontraient l'ennemi, il y aura certes une grande bataille. AOI.</p>
+<p>219. — Les Bretons forment la sixième échelle;</p>
+<p><pb/></p>
+<p>ils sont trente mille. Ils chevauchent comme de vrais barons ; leurs
+lances sont peintes, et les gonfalons fermés. Leur seigneur se nomme
+Odon. Ils sont commandés par le comte Nevelon, par Tébald de Rheims et
+le marquis Otton : «Guidez mes gens, dit Odon, je vous les confie. » AOI.</p>
+<p>220. — L'empereur a six échelles faites. Le duc Naismes organise la
+septième avec des barons poitevins et d'Auvergne. Ils peuvent être au
+nombre de onze mille chevaliers, bien montés et bien armés. Ils sont
+placés dans un vallon au pied d'une colline. Charles les bénit de la
+main droite. Josseran et Godeselmes seront leurs chefs . AOI.</p>
+<p>221. Naismes compose la huitième échelle avec des barons de la Flandre
+et de la Frise. Ils sont plus de quarante mille et ne lâchent jamais
+pied dans le combat. Le roi dit : Ceux-ci me serviront; et Raimbaut et
+Kamon de Galice les commanderont, selon les lois de la chevalerie. »</p>
+<p>222- — Naismes et le comte Josseran s'entendent pour former la neuvième
+échelle qu'ils composent de prud'hommes lorrains et bourguignons. Ils
+sont au nombre de cinquante mille chevaliers, tous armés de leurs
+casques et de leurs cuirasses. Leurs épieux sont forts et leurs lances
+courtes. Si les Arabes ont l'imprudence de les attaquer, ils en seront
+durement frappés. Thierry, duc d'Argône, doit les commander. AOI.</p>
+<p><pb/></p>
+<p>224. — L'empereur descend de son cheval et se couche sur l'herbe verte,
+puis tournant son visage vers le soleil levant, il réclame l'aide de
+Dieu du fond de son coeur : « Véritable Père, dit le roi, toi qui
+garantis Jonas dans le corps de la baleine, qui épargnas le roi de
+Ninive, et sauvas Daniel des dangers qu'il courut dans la fosse aux
+lions, ainsi que les quatre jeunes gens plongés dans la fournaise
+ardente, aide-moi en ce jour ! Que ta protection m'environne en ce
+moment, et fais, par ta merci, que je puisse venger mon neveu Roland ! »</p>
+<p>225. — Quand il eut achevé cette prière, le roi, s'étant relevé, signa
+son chef. Alors Naismes et Josseran lui tiennent l'étrier, il monte son
+cheval coureur, prend son écu, son épieu tranchant: et, le corps agile
+et ferme, le visage clair et con¬</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>dit l'amiral, car il est très-brave et dans plusieurs gestes (chansons
+de gestes) il est parlé de lui avec grand honneur. Mais il n'a plus son
+neveu Roland avec lui, et il n'est pas possible qu'il tienne contre
+nous. » AOI.</p>
+<p>229. — « Beau fils Malpramis, ajouta Baligant, le bon vassal Roland a
+été tué avant-hier, ainsi que le preux et vaillant Olivier, les douze
+pairs que Charles aimait tant et vingt mille combattants de cette
+France. De tous les autres, je ne donnerais pas un gant.</p>
+<p>230. — « Il est vrai que l'empereur revient ; mes messagers sulians
+m'ont annoncé qu'il s'avance avec dix échelles. Il est vraiment preux.
+Il sonne l'Olifant ; il fait rassembler ses compagnons au son des
+trompettes, et chevauche le premier en avant, entouré de quinze mille
+Français, jeunes bacheliers que Charles nomme ses enfants. Mais après
+ceux-ci, il y en a bien d'autres qui frapperont et combattront avec
+valeur. »—« Ah ! dit Malpramis, je vous en demande le coup (de les
+attaquer). » AOI.</p>
+<p>251. — « Mon fils Malpramis, lui répond Baligant, je vous accorde tout
+ce que vous venez de me demander. Bientôt, contre les Français vous
+allez combattre et vous y mènerez Torleu, le roi persan, puis un autre
+roi lithuanien, d'Apamort. Si vous pouvez abattre le grand orgueil des
+Fran¬</p>
+<p><pb/></p>
+<p>çais, je vous donnerai une partie de mon pays, depuis Chériant jusqu'au
+Val Marchis. » Malpramis répond : « Sire, je vous remercie ! » Et acceptant</p>
+<p>don, il marche en avant. Cette portion de pays venait de la terre qui
+avait appartenu au roi Fleurit ; mais Malpramis ne la vit plus jamais
+depuis, et n'en devint jamais possesseur.</p>
+<p>233. — La troisième est de Nables et de Blos ; la quatrième de Bruns et
+d'Esclavoz, la cinquième de Sorbres et de Sorz, la sixième de Mors et
+d'Ermines, la septième de Jéricho, la huitième de Migres, la neuvième de
+Gros et la dixième de Balide la forte ; toute espèce de gens qui jamais
+n'ont voulu le bien. AOI.</p>
+<p><pb/></p>
+<p>dorénavant son chef ne sera couvert de la couronne d'or. »</p>
+<p>235. — Les païens établissent dix autres échelles : la première est des
+Canélieus, les lais ; ils sont venus de Yal-Fuit. L'autre est composée
+de Turcs, et la troisième de Persans ; la quatrième de Pincencés et de
+Persans ; la cinquième de Solteras et d'Avers ; la sixième d'Orenaleus
+et d'Eugiez, la septième des gens de Samuel ; la huitième est de Bruise,
+la neuvième de Clavers, et ladixième d'Oc-ciant la déserte. Aucune de
+ces nations ne sert le Seigneur Dieu, et vous n'entendrez jamais parler
+d'hommes plus félons. Ils ont la peau dure comme du fer, aussi ne
+portent-ils ni hauberts, ni cuirasses. Au combat, ils se montrent
+toujours violents et cruels AOI. »</p>
+<p>236. — L'amiral ordonne les dix dernières échelles. La première est de
+Jaianz de Malperse ; l'autre est de Hums et la troisième de Hungres. La
+quatrième est de Baldise la longue, et la cinquième est composée de ceux
+de Val-Penuse, la sixième des gens de Maruse, et la septième de Jeuse
+d'Astrimonies. La huitième est d'Argoilles, la neuvième de Clarbone, et
+la dixième de Barbez de Froude. Parmi tous ces peuples, il n'y en a pas
+un qui ait jamais aimé Dieu (qui soit chrétien). Dans le livre des Gesta
+Francor (um) on compte trente échelles. Au milieu de ces grandes armées,
+les trompettes</p>
+<p><pb/></p>
+<p>238. — L'amiral est un homme de haut savoir. Il a appelé près de lui son
+fils et les deux rois: « Seigneurs barons, leur dit-il, vous marcherez
+devant et guiderez toutes mes échelles. Cependant, je veux en garder
+trois des meilleures, celle des Turcs, celle des Ormaléis, et la
+troisième celle des Jaians et des Malpreis. Ceux d'Occiant seront aussi
+avec moi et combattront Charles et les Français. Si l'empereur se mesure
+avec moi, il est certain que sa tète tombera dessus sa poitrine. Que
+chacun soit ferme et confiant ; il n'y a pas d'autre droit que le nôtre.
+» AOI.</p>
+<p>239. — Les armées sont grandes et les échelles ont une belle apparence.
+Il n'y a entre elles ni</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>et terrible bataille avec eux. Jamais on ne vit une pareille assemblée.
+De la distance où l'on peut lancer une verge pelée Baligant a dépassé
+ses compagnons, et il leur dit : «Venez, païens, car je vais me lancer
+au fort du combat : » Il brandit la hampe de son épieu et en dirige la
+lame vers le roi Charles. AOI.</p>
+<p><pb/></p>
+<p>243. — Le comte Robel, chevalier plein de bravoure, pique donc de ses
+éperons d'or fin, et va frapper Torleu, le roi de Perse. Ni l'écu ni la
+cuirasse de ce prince ne peuvent résister au choc. Son corps est
+traversé par l'épieu, et il tombe mort auprès d'un petit buisson. Les
+Français disent : « Le Seigneur Dieu nous aide ! Charles a bon droit,
+nous ne devons pas lui faillir. » AOI.</p>
+<p><pb/></p>
+<p>Charles cherche. Je ne demande pas d'avoir de meilleur vassal que lui,
+secourez-le de vos épieux tranchants. » A ces mots, les païens vont en
+avant et frappent des coups terribles. Les blessures sont nombreuses, la
+bataille est merveilleuse et redoutable ; avant et depuis ce temps, il
+n'y en eut jamais de semblable. AOI.</p>
+<p><pb/></p>
+<p>249. — Cependant, Malpramis toujours chevauchant, fait un grand carnage
+de ceux de France. Le duc Naismes le regarde avec fierté, et en homme de
+courage, il va le frapper. Il lui brise le bord de son écu, et lui
+endommage les deux côtés de son haubert, puis lui enfonce toute
+l'enseigne dans le corps. Malpramis tombe mort entre sept cents des siens.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>255. — Les Arabes et les Français combattent avec une égale fureur,
+brisant les lances et les épieux. Oh ! celui qui a vu tant de boucliers
+rompus, qui a entendu le bruissement de tant de hauberts, le cliquetis
+des armes et le fracas de tant de casques et de tant d'écus fracassés;
+qui a vu</p>
+<p>(1) Nom de l'enseigne de Baligant, portée par Amboires d'Olu-fernes.</p>
+<p><pb/></p>
+<p>256. — « Jangleu, dit l'amiral, avancez; vous êtes brave, habile, et en
+tout temps, j'ai reçu de vous de bons conseils. Que vous semble des
+Arabes et des Français ? Aurons-nous la victoire du champ? » — «Ah !
+répond Jangleu, vous êtes perdu, Baligant ! votre Dieu ne vous protége
+pas. Charles est terrible, ses hommes sont vaillants, et je n'ai jamais
+vu de gens qui combattissent de la sorte.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>2S9. — Charlemagne lui-même donne de grands coups, AOI, ainsi que le duc
+Naismes, Ogier le Danois et Geofroy d'Anjou porte-enseigne. Ogier
+surtout se montre brave. Après avoir piqué son cheval, il le lance à
+toute bride et va frapper celui qui tenait le dragon. D'un coup il
+écrase l'homme et le drapeau du roi, devant lui. Baligant voit tomber
+son dragon et anéantir l'étendard de Mahomet. Alors l'amiral commence à
+pressentir qu'il a tort et que le droit est du côté de Charlemagne. Plus
+de cent païens arabes prennent la fuite, et l'empereur appelle ses
+parents (les siens). « Dites, barons ! pour Dieu m'aiderez-vous ? » Les
+Français répondent :</p>
+<p><pb/></p>
+<p>mande ! Que celui qui ne frappera pas avec vigueur soit réputé félon ! »
+Aoi.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>273. —. « Seigneurs barons, dit le roi Charle-magne, jugez-moi bien le
+droit de Guénelon. Il vint avec l'armée jusqu'en Espagne en
+m'accompagnant ; et il m'a enlevé vingt mille de mes Français ainsi que
+mon neveu que vous ne verrez plus, puis Olivier le preux et le courtois,
+et les douze pairs ; le tout pour obtenir une récompense en richesses. »
+Guénelon dit : « Que je sois réputé félon, si je mens ! Roland m'a
+forfait en or et en avoir, et c'est pour cela que j'ai cherché sa perte
+et sa mort. Mais je n'ai commis aucune trahison. » Les Français
+répondent : « Maintenant nous entendrons le conseil. »</p>
+<p><pb/></p>
+<p>275. — Quand Guénelon voit que son procès commence, il se tourne vers
+ses parents dont trente étaient présents. Parmi eux il en était un que
+les autres laissent discourir. C'est Pinabel du chateau de Sorance, qui
+parle bien, raisonne juste et, comme vassal, sait bien défendre ses
+armes. AOI.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>283. — Au-dessus d'Aix-la-Chapelle, est une</p>
+<p>(1) Avant ce dernier membre de phrase, il y a un vers: « Ben sunt matez,
+par jugement des altres : » dont il m'a été impossible de trouver le
+sens. Ce vers paraît renfermer une réflexion placée en incise.</p>
+<p><pb/></p>
+<p>286.—Thierry ajoute : « Pinabel, tu es un brave,</p>
+<p><pb/></p>
+<p>287.— Pinabel de Sorance, plein de bravoure, frappe Thierry sur son
+casque de Provence dont il sort tant d'étincelles de feu, que l'herbe
+s'en enflamme (1). Il lui présente le tranchant de son épée d'acier
+qu'il fait descendre depuis le front jusqu'au visage. La joue droite de
+Thierry est tranchée, et le sang qui en coule passe dans le haubert,
+jusqu'au dos et au ventre. Mais Dieu ne voulut pas qu'il fût accablé par
+la mort. AOI.</p>
+<p>288.—Thierry est blessé au visage, et son sang coule jusque sur l'herbe.
+Cependant de son acier bruni il frappe Pinabel sur son casque et lui
+fend la tête jusqu'au nez. La cervelle s'échappe du crâne,</p>
+<p>(1) Voici la seule exagération répréhensible, dans ce poëme.</p>
+<p><pb/></p>
+<p>et il tombe mort. Ce coup décide de la victoire, et les Français
+s'écrient : « Dieu a fait vertu (a montré sa force et sa volonté), et il
+est juste que Guénelon soit pendu, ainsi que ses parents qui ont plaidé
+pour lui. » AOI.</p>
+<p><pb/></p>
+<p>conduit avec l'escorte de cent sergents. Il y en a trente qui doivent
+être pendus. Qui trahit les autres doit mourir. AOI.</p>
+<p><pb/></p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHANSON DES SAXONS.</p>
+<p>AVERTISSEMENT.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LA CHANSON DES SAXONS</p>
+<p>PAR JEAN BODEL.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>« An 780. — Dès que la saison parut favorable, le roi quitta cette ville
+avec une armée considérable pour marcher de nouveau contre les Saxons.
+Après avoir passé par la forteresse d'Eresburg, il arriva aux sources de
+la Lippe, où il établit son camp et s'arrêta quelques jours; tournant
+ensuite vers l'orient, il gagna les bords de l'Ocker. Il y rencontra les
+habitants de la Saxe</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>vocatur, jussu regis omnes unâ die de collati sunt. »</p>
+<p><pb/></p>
+<p>(1) Einhardi Opéra, t.\, Annales. Trad. de A. Teulet. Rc-nouard, Paris,
+1840.</p>
+<p><pb/></p>
+<p>historien calme, ne dit pas un mot de la bravoure individuelle d'aucun
+d'eux.</p>
+<p>Quoique je n'aie donné la traduction que d'une partie dece poème, j'ai
+eu soin cependant d'indiquer le numéro des strophes, soit pour retrouver
+les matières quand je ne fais qu'extraire, soit pour consulter le texte
+quand je traduis littéralement d'après l'édition donné, par M.
+Francisque Michel, (Paris, 1839, Techner).</p>
+<p><pb/></p>
+<p>EXTRAIT</p>
+<p>DE</p>
+<p>LA CHANSON DES SAXONS,</p>
+<p>ÉCRITE PAR JEAN BODEL, VERS 1230.</p>
+<p>La Chanson commence par déterminer l'époque de l'action qui en fait le
+sujet. Charlemagne vient d'éprouver le grave échec de Roncevaux, pendant
+son expédition contre l'Espagne. Outre les vingt mille hommes qui
+composaient son arrière-garde, il a perdu la fleur de ses chevaliers,
+les douze pairs entre lesquels il honorait d'une amitié et d'une
+confiance particulières, son neveu Roland, et Olivier, le compagnon de
+son neveu.</p>
+<p>A ) Guiteclin, ce nom est la corruption de Witikind, traduit en latin
+par Eginhard et les écrivains de son temps, par IVidi-chindus ou
+Widorchindus. On pense qu'originairement sa forme saxonne était
+Widukind, venant du théodisque ou ancien haut allemand, witu chint, fils
+du bois, né et vivant dans les bois, comme les outlaws de la vieille
+Angleterre.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Guiteclin a établi son camp entre le Rhin et la ville de Trémoigne ; et,
+selon le poëte, les différents princes venus de tous les pays et parlant
+divers langages, déploient dans ce camp un luxe oriental, dont les
+croisades ont sans doute fourni l'idée.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>bride, et les marchés qu'ils viendraient faire pourraient leur coûter
+cher. » (Str. 64.)</p>
+<p><pb/></p>
+<p>en portant des faucons et des éperviers sur le poing. Quinze mille
+cavaliers se mettent donc en marche pour suivre le courant du fleuve, et
+Baudoin chevauche le dernier, caracolant sur son cheval et faisant aller
+au vent son gonfalon de soie. Alors la reine Sébile, Hélissan de
+Cologne, et Marsebile au regard fier, s'avancent sur la grêve opposée
+pour voir défiler l'armée française. « Plus elles regardent, dit la
+chanson, plus elles prennent de plaisir. — « Madame dit Hélissan à
+Sébile, voyez-vous ce beau chevalier? » — « Je vous puis assurer que je
+n'en ai jamais vu de plus beau, qui est-il? Hélissan, vous devez le
+savoir ? » — « Je ne saurais vous le céler, dit la demoiselle; c'est le
+neveu de Charlemagne, le fils de la soeur germaine du roi. Ses frères
+(d'armes) furent Roland et Olivier ; il n'y a pas de meilleur chevalier
+que lui en France. » — « Hélas ! dit la reine, quel souhait ne puis-je
+faire en ce moment! l'eau est si basse qu'on peut voir le gravier ; il
+pourrait s'approcher et venir nous parler. » (Str. 67.)</p>
+<p><pb/></p>
+<p>Cependant Baudoin tout mouillé s'avance sur le gazon. La reine qui ne le
+quitte plus, s'empresse de lui dire qu'elle lui doit une grande récompense,</p>
+<p><pb/></p>
+<p>En apprenant cette équipée Charlemagne, tout en louant son neveu de sa
+hardiesse et de son courage, lui signifie cependant qu'il ne veut plus
+que ni lui ni d'autres de son armée passent, ainsi le Rhin, sous quelque
+prétexte que ce soit. Baudoin</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Mais les Français, qui ont passé le Rhin, arrivent pour le secourir.
+Dans le combat qni s'engage, Bérard fait des prodiges de valeur, et
+Guiteclin reçoit une blessure de la main de Charlemagne. (Str. 84.)</p>
+<p><pb/></p>
+<p>Lorsque Charles s'est entendu avec le duc Naismes de Bavière, au sujet
+de ces préparatifs, il appelle son neveu Baudoin : « Beau neveu, lui
+dit-il, je veux vous faire plaisir, vous irez cette nuit, faire le guet
+vers la tente de Sébile, et tu commanderas vingt mille chevaliers. Je
+sais que c'est le poste qui vous est le plus cher. » — « Ah ! sire, dit
+Baudoin, je n'ai garde de refuser.» Et vous, Bérard de Montdidier,
+continue l'empereur, je vous charge de veiller avec vingt mille
+Ardennois, au</p>
+<p><pb/></p>
+<p>gué du Moustier; c'est le lieu où les Saxons ont coutume de passer. —
+Sire, répond Bérard, avec l'aide de Dieu, il n'y passera pas un Saxon,
+qu'il ne le paye cher. » (Str. 93.)</p>
+<p>Pendant la nuit, Charlemagne a une conversation avec un Saxon, auquel il
+parle comme s'il n'était qu'un simple combattant; et le rusé empereur
+trouve moyen de lui faire entendre que loin d'être dans la détresse,
+comme on le dit parmi les Saxons, Charlemagne et son armée ont au
+contraire abondance de tout, et qu'enfin il lui arrive de nombreux
+renforts de France, et en particulier les hommes du Hurepoix que l'on
+attend cette nuit même. (Str. 95-97).</p>
+<p>Les Saxons, conduits par Guiteclin passent en effet le Rhin au gué du
+Moutier ; mais ils sont reçus par Bérard et sa troupe qui en culbute et
+fait noyer cinq cents. Toutefois les deux chevaliers ennemis se
+rencontrent, et le roi saxon fait une blessure au jeune Bérard de
+Montdidier. (Str. 98- 100.) Cependant Guiteclin est forcé de se jeter à
+la nage ainsi que ses gens pour échapper aux Français.</p>
+<p><pb/></p>
+<p>« Baudamas, lui dit-il, courez sur ce Français qui vient chercher la
+mort, et tranchez-lui la tête. » Le neveu s'élance en effet sur Baudoin.
+Un combat furieux s'engage entre eux sous les yeux du roi et de la reine
+; mais Baudamas est blessé, terrassé. Il tombe mort, et le vainqueur
+passe la</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Alors Hélissau prend Bérard par la main. Ils vont s'asseoir sur l'herbe
+et parmi les joncs, où ils se donnent des témoignages de leur tendresse.</p>
+<p>Ce spectacle réjouit la reine, qui en plaisantant dit: « Mais,
+croyez-vous, Bérard, qu'il me paraisse convenable que vous embrassiez
+ainsi cette demoiselle ? — Madame, répond le chevalier, j'y ai quelque
+droit. Si ma mémoire est bonne, mon père avait coutume de dire que
+l'empereur Charles me l'avait promise ; Hélissan le sait bien : Si elle
+veut, elle peut le dire ; et elle a le coeur trop bien placé pour se
+faire tort en le niant. » Sébile, curieuse de savoir la vérité, presse
+Hélissan qui avoue en effet qu'elle se souvient de cette promesse. (Str.
+121.)</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Guiteclin et son écuyer étaient donc aux aguets,</p>
+<p><pb/></p>
+<p>On entre dans la tente ; et la fidèle, la complaisante Hélissan fait le
+guet, tandis que les deux amants se disent des douceurs. Mais tout à
+coup la demoiselle de Cologne vient les avertir que Guiteclin, lui
+treizième, s'avance pour les sur¬</p>
+<p><pb/></p>
+<p>Cependant un grand nombre de Saxons se noient en voulant l'y poursuivre,
+et peu s'en faut que</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>nérosité avec laquelle il le tire d'embarras, raconte son aventure à
+l'empereur, (Str. 130.)</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>A ces mots Baudoin éprouve une colère intérieure. Il pousse des soupirs,
+tient la tête baissée, et des larmesroulentsur sa poitrine, tant il éprouve</p>
+<p><pb/></p>
+<p>Après cette sortie contre le beau sexe, Baudoin, revient sur les démêlés
+avec son oncle et se promet de faire payer cher aux Saxons tous les
+ennuis qu'il éprouve. (Str. 146.)</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Plein de ces terribles pensées, Raudoin chevauche avec les armes et le
+gonfalon déployé de Justamont, de telle sorte que Guiteclin, aveuglé par
+la jalousie et trompé d'ailleurs par le costume persan que porte le
+chevalier français, prend complètement le change. (Str. 150.)</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Charlemagne est fort courroucé de cette prétention ; mais les Allemands,
+les Bavarois, les Bourguignons et les Lombards, forment une espèce de
+conspiration et se mettent en marche pour quitter l'armée. Toutefois,
+l'empereur qui trouve fort mauvais que l'on veuille faire exécuter aux
+Français seulement, un ouvrage que l'on regarde comme avilissant, fait
+valoir devant les étrangers leurs titres de noblesse. Puis, envoyant le
+duc Naismes, son conseiller, vers les déserteurs qui persistent dans
+leur résolution de se retirer, cet officier les menace, au nom du roi,
+de les priver des avan¬</p>
+<p><pb/></p>
+<p>Les deux armées s'arrêtent alors pour voir combattre leurs chefs ; et
+après une lutte longue et</p>
+<p><pb/></p>
+<p>acharnée, Charlemagne qui a reçu plus d'une blessure, tue Guiteclin.
+Alors les Saxons fuient (197), et les Français les poursuivent et les
+dispersent (Str. 199).</p>
+<p>Sébile est en effet conduite devant Charlemagne</p>
+<p><pb/></p>
+<p>dont elle embrasse les genoux en implorant sa générosité. (Strl 203-204.)</p>
+<p><pb/></p>
+<p>lui rendre les honneurs de la sépulture. (Str. 205.)</p>
+<p>— Dame laissiez ester, dit li cuens Salemon :</p>
+<p>Bel echange de mort, qi atant tel giton Com Karles vos promet de miaz de
+sa maison ;</p>
+<p>N'a millor chevalier an nule région (Str. 207.)</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Les deux armées ennemies sont en présence sous les murs de Trémoigne, et
+il se donne bientôt</p>
+<p><pb/></p>
+<p>Malgré sa blessure, le courageux chevalier se tient encore sur son
+coursier, faisant les derniers efforts pour éloigner ses ennemis. Mais
+les Saxons,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>couper la tête, et je pourrai me vanter auprès de mes pairs de t'avoir
+vaincu en bataille. » A peine Baudoin a-t-il entendu ces mots, que la
+colère lui fait oublier toutes ses douleurs. Il rassemble ce qui lui
+reste de force, prend son épée qui était sur l'herbe, et, d'un seul
+coup, abat le Saxon. Mais l'effort qu'il a fait est le dernier, et il
+retombe mort. (Str. 258.)</p>
+<p><pb/></p>
+<p>lier saxon qui le défiait en se moquant de lui et de la mort de Baudoin.
+(Str. 262.)</p>
+<p><pb/></p>
+<p>Le duc Naismes arrache Sébile du cadavre de Baudoin, qu'elle couvre de
+larmes et de baisers, et, pendant toute la nuit suivante, Charlemagne
+est en proie au plus vif chagrin. (Str. 266.)</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ver qui que ce soit qui t'égalât. Hélas tout cet appareil qui
+m'environne me perce le coeur ; et si, comme dame Alde au visage fier,
+qui mourut pour le comte Roland et son frère Olivier, je pouvais
+tout-à-coup cesser de vivre, je serais au comble de mes souhaits ! »</p>
+<p>Se poisse morir, com dame Aude au vis fier Fist por Rollant le-conte et
+son frfrre Olivier,</p>
+<p><pb/></p>
+<p>bien, j'accepte, dit le prudent empereur, vous porterez même mon
+oriflamme. Si vous réussissez je vous ferai don d'un fief en Saxe. Mais,
+et croyez-en ma parole, dans le cas de trahison, vous serez pendu. »
+(Str. 290.)</p>
+<p>A l'occasion de cette bataille, le poète Jean Bor-diaux interrompt son
+récit pour dire : « Barons,</p>
+<p><pb/></p>
+<p>Le poëte en terminant sa chanson dit : « Lors¬</p>
+<p><pb/></p>
+<p>que, par sa force, l'empereur conquit tant de terres, il donna une
+grande preuve de sa sagesse ; car il fut redouté et craint jusqu'aux
+grandes Indes, et les soudans lui payaient des tributs. » enfin Jean
+Bordiaux, qui ne manque aucune occasion de faire ressortir l'excellence
+de son mérite comme historien, et le peu de confiance que l'on doit
+mettre dans les narrations des trouvères, finit par ces deux vers : «
+Ici finit notre chanson des Saxons, dont avant moi les trouvères n'ont
+jamais rien dit. » (5&lt;r. 297.)</p>
+<p>« Nostre chançons des Saisnes fenist a icest tor</p>
+<p>N'en troverez q'an die avant, nul jugleor. »</p>
+<p><pb/></p>
+<p>EXTRAITS</p>
+<p>DU</p>
+<p>ROMAN DE LANCELOT DU LAC.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>EXTRAITS</p>
+<p>DU</p>
+<p>ROMAN DE LANCELOT DU LAC.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>La longueur et la complication de la fable du roman de Lancelot ne me
+permettent que d'en indiquer la donnée générale (1), pour faciliter
+l'intelligence des scènes que j'ai l'intention de faire connaître.
+Lancelot, dont le véritable nom est Galaad, était fils d'un roi de la
+petite Bretagne, nommé Baan, lequel descendait en ligne directe de
+Joseph d'Atrimathie qui avait fondé la Table ronde et le culte du saint
+Graal. Le culte du saint Vase ayant été négligé par plusieurs membres de
+cette famille, qui s'étaient laissés emporter par les passions
+mondaines, Lancelot était prédestiné, en</p>
+<p>(d ) Dans le volume de la Bibliothèque des romans, octobre 1775, on
+trouvera un fort bon extrait de ce roman. Le volume d'avril 1776, du
+même ouvrage, contient celui de Tristan de Leonois. La lecture de ces
+deux romans chevaleresques suffit pour faire connaitre l'esprit des
+compositions les plus célèbres en ce genre.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>— .... « La reine prit le chevalier par la main et le fit asseoir près
+d'elle, et après lui avoir fait beaucoup de beaux semblants, elle lui
+dit en riant :</p>
+<p>« Savez-vous, sire, que moi et le roi Gallehaut nous avons vivement
+désiré de vous voir, et que cependant je ne sais pas encore si je vois
+réelle-ment celui que je voulais connaître? Gallehaut m'a bien dit que
+c'est vous; mais enfin je désirerais le</p>
+<p><pb/></p>
+<p>savoir de votre propre bouche, si c'était votre plaisir. » — Le
+chevalier, sans oser lever les yeux sur la reine, dit : « Je ne sais pas. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Malgré toutes les précautions prises pour éviter les regards des
+curieux, une grande dame de la cour, madame de Mallehaut, avait vu
+donner le bai¬</p>
+<p><pb/></p>
+<p>ser, et s'était aperçue de la trinité amicale qui venait de se foi-mer.</p>
+<p>— Ma haine? ah ! vous ne pourrez jamais rien dire qui puisse la faire
+naître. Je vous sais si sage et si courtoise, que je vous prie de
+parler. Dites hardiment, car je le veux... je vous en prie. — Je
+parlerai donc, Madame : je voulais vous dire combien la compagnie de
+quatre est bonne. Je me suis aperçue de la connaissance que vous avez
+faite du chevalier qui vous a parlé, et je n'ignore pas que c'est la
+personne qui vous aime le plus au monde, et que vous n'avez pas tort de
+l'aimer, car vous ne pourriez mieux employer votre tendresse. — Comment
+le connaissez-vous? demanda la reine.</p>
+<p>— Il y a eu un temps, Madame, où j 'aurais pu vous</p>
+<p><pb/></p>
+<p>le refuser comme vous pourriez me le refuser présentement, car je l'ai
+tenu un an et demi en prison. C'est lui qui a vaincu successivement les
+assemblées, une fois avec des armes rouges et hier avec des armes
+noires, armes que je lui avais données..... — Mais, dites-moi,
+interrompit la reine,</p>
+<p>quelle compagnie vaut mieux de quatre ou de trois ? car une chose est
+mieux celée par trois que par quatre personnes. — Oh ! je crois que vous
+êtes dans l'erreur. Il est vrai que le chevalier vous aime ; niais il
+n'est pas moins certain que lui et Gallehaut sont étroitement unis,
+qu'ils seront forcés, pour s'aider l'un l'autre, de s'éloigner d'ici, et
+qu'enfin vous demeurerez toute seule. Si vous vouliez m'accepter pour la
+quatrième personne, au moins vous ne porteriez pas seule tout le poids
+de l'absence ; nous nous assisterions, nous nous consolerions ensemble,
+comme les deux chevaliers, de leur côté, pourront se consoler entre eux,
+et vous en seriez plus tranquille et plus aise. »</p>
+<p><pb/></p>
+<p>guerre que lui font les Saxons ; Lancelot, Gallehaut et Gauvain les
+combattent, et Lancelot, en particulier, se distingue par sa vaillance,
+en cette occasion. Après cette victoire, la reine Genièvre court
+embrasser son amant encore tout couvert de sang, et sa compagne madame
+de Mallehaut ne reçoit pas moins bien son ami Gallehaut.</p>
+<p><pb/></p>
+<p>Cet événement met tous les chevaliers d'Arthur en émoi, et, dans cet
+endroit du roman, il y a en¬</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>tisé dans ses vers le complaisant conseiller de la reine Genièvre (1).</p>
+<p>(i) Noi leggiavamo un giorno, per diletto,</p>
+<p>Di Lanci lotto, come amor lo strinse</p>
+<p>Quando leggemmo il disiato riso Esser baciato da cotanto amante ;</p>
+<p>Questi, che mai da me non fìa diviso,</p>
+<p>La bocca mi bacciò tutto tremante.</p>
+<p>Galeotto fù il libro e chi lo scrisse.</p>
+<p>Dante. Inf. cant. V.</p>
+<p><pb/></p>
+<p>Mais après ces prouesses amoureuses, Lancelot ne se montre pas moins
+ardent pendant le tournoi, et il demeure vainqueur de tous les
+chevaliers de la Ta¬</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le mauvais succès de Gauvain auprès du Saint-Graal, causé par
+l'irrégularité de sa conduite, la préoccupe, et ce souvenir la poursuit
+même jusqu'au milieu des divertissements de la cour, comme on va le voir.</p>
+<p><pb/></p>
+<p>Je fais grâce au lecteur des infidélités assez nombreuses, mais sans
+conséquences, que le roi Arthur</p>
+<p><pb/></p>
+<p>Comment Lancelot vit le Saint-Graal et en fut repu; et comment il fut
+déçu par Brisanne, etc., etc. (2e partie, feuill. 85).</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>bruit et tiennent tant de place, ne sont, en réalité, que des accessoires.</p>
+<p>Lancelot a bientôt repris le cours de sa destinée guerrière et
+aventureuse, et après une nouvelle serie d'événements, le roi Arthur se
+trouve conduit dans la forêt au milieu de laquelle sa soeur habite. Dans
+le château de Morgane, l'époux de Genièvre ne tarde pas, en visitant la
+chambre qui a été occupée par Lancelot, de voir les peintures du
+prisonnier, ce qui excite d'autant plus sa curio¬</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Après ce mensonge et cet arrangement qui ne</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>L'Église a toujours désapprouvé ces compositions; et cependant dans les
+temps même où elle a eu le plus de pouvoir (1080-1500) les ro¬</p>
+<p><pb/></p>
+<p>mans de chevalerie, et notamment Lancelot du Lac, et Tristan de Léonois,
+dans lesquels le mysticisme et l'obscénité sont mêlés avec le plus
+d'adresse et de talent, n'ont pas cessé d'être lus avec avidité, dans
+toute l'Europe. Les relations fausses et immorales d'Arthur, de Genièvre
+et de Lancelot, dans le premier ouvrage, et celles également choquantes,
+sous l'influence des quelles agissent Tristan, Yseult et le roi Marc
+dans le second, avaient pris, dès le treizième siècle, un caractère de
+légitimité dans toutes les imaginations', comme le prouvent la facilité
+avec laquelle on admettait les cours d'amour, ainsi que le respect
+puéril que tous les gens de haute classe, avaient pour cette
+jurisprudence imaginaire.</p>
+<p>Ces compositions romanesques ont donc eu le double inconvénient de
+fausser les esprits et de déterminer la corruption des moeurs.</p>
+<p>La perversion de l'esprit est ce qui amène le</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>d'autorité pour contrebalancer l'effet de toutes les compositions
+mondaines qui inondaient l'Europe de leur temps.</p>
+<p><pb/></p>
+<p>LANCELOT DU LAC. 267</p>
+<p>liens mal formés d'une grammaire et d'une syntaxe imparfaitement
+ébauchées. En outre, l'objet des trouvères n'était point d'instruire,
+mais seulement de divertir et d'amuser ; et comme la concur-rence était
+grande parmi ces jongleurs, ils n'avaient aucune raison de se montrer
+difficiles dans le choix de leurs sujets. Quand ils faisaient rire, ou
+s'ils intéressaient vivement les passions et qu'on les payât bien, ils
+avaient atteint leur but, s'embarrassant fort peu du mal qu'ils
+pouvaient causer.</p>
+<p>D'un côté, la religion, la morale et la vérité, étaient donc enseignées
+avec les formes du raisonnement et du langage scientifique, acceptables
+seulement pour les intelligences et les âmes de choix ; tandis que, de
+l'autre, toutes les fictions, toutes les libertés de langage
+susceptibles d'allumer les passions, de séduire l'esprit et de plaire à
+l'imagination, en un mot toutes les ressources purement littéraires,
+étaient employées par les poètes et les romanciers, pour faire accepter
+aux auditeurs mondains, les inventionsles plus folles ou les plus
+immorales.</p>
+<p><pb/></p>
+<p>C'était certainement une triste compensation pour ceux qui n étaient en
+état de lire ni de comprendre la Somme théologique de saint Thomas, que
+d'y suppléer par le récit du mythe absurde du Saint-Graal; or, telle
+était cependant l'alternative où se trouvaient tous ceux qui vivaient
+sous le règne de Saint Louis.</p>
+<p><pb/></p>
+<p>lit avec autant de plaisir qu'un poëte, et que l'on consulte avec
+confiance et vénération comme un père de l'Eglise.</p>
+<p><pb/></p>
+<p>gravité héroïque de la chanson de Roland, jusqu'au libertinage mystique
+qui fait le fond essentiel des deux plus célèbres romans de chevalerie,
+Lancelot et Tristan.</p>
+<p><pb/></p>
+<p>EXTRAITS D'ANTAR,</p>
+<p>ROMAN BÉDOUIN</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>EXTRAITS D'ANTAR,</p>
+<p>ROMAN BÉDOUIN.</p>
+<p><pb/></p>
+<p>lecteurs français de cette curieuse composition orientale (1).</p>
+<p><pb/></p>
+<p>raconter des histoires au calife Aroun-al-Raschid, eut l'idée de
+rassembler toutes ces traditions orales pour en faire un corps d'ouvrage
+en prose mêlé de vers, sous le titre d'Antar. Que ce soit Asmaï ou
+d'autres qui aient commencé ce recueil, il s'ensuit, en tous cas, que ce
+roman-poëme a éprouvé chez les Arabes les mêmes vicissitudes que
+l'Illiade en Grèce ; et, en effet, on y trouve un Achille, des rapsodes,
+un Homère et un Pisistrate.</p>
+<p>En plusieurs endroits du roman, le prétendu compilateur des traditions
+Amaï, interrompt son récit pour parler en son nom ; mais parfois des
+interruptions semblables sont faites par d'autres compilateurs, portant
+d'autres noms. En outre, l'esprit qui a dirigé la rédaction de
+l'ensemble du livre, tel qu'il est aujourd'hui, varie dans le cours de
+la narration. Dans le premier volume, par exemple, on chercherait en
+vain la trace d'un culte religieux ; et vers la fin de l'ouvrage il est
+fait mention de Mahomet, des chrétiens et du culte du Soleil en Perse.</p>
+<p>Tout cela prouve, comme le disent les Orientalistes, que l'apparition de
+ces différents rapsodes, Asmaï et d'autres, dont l'autorité est
+successivement invoquée dans le même livre, résulte de l'ignorance des
+conteurs de profession, qui chantent depuis des siècles les histoires
+d'Antar dans les cafés de l'Orient. Et c'est également par cet usage de
+chanter le héros arabe dans les lieux publics,</p>
+<p><pb/></p>
+<p>que l'on peut expliquer les différences que l'on remarque dans l'ordre
+et dans le nombre des récits, ainsi que dans le texte des nombreux
+manuscrits d'Antar, que l'on fait journellement encore dans le Levant.</p>
+<p><pb/></p>
+<p>aux orientalistes, et ils se sont occupés du texte d'Antar et de
+l'histoire de ce livre (1).</p>
+<p>On me pardonnera si j'ai insisté pour faire connaître et pour bien
+établir l'époque de la rédaction et de la publication du roman d'Antar.
+En accordant au poëte Moyyed quinze ans pour la</p>
+<p>(1) Voici les principaux morceaux publiés par les savants, au sujet du
+roman d'Antar depuis 1830 : — Antar, par M. Reynaud de la bibliothèque
+du roi, Encyclopédie des gens du monde, t. II. — Fragment d'Antar,
+traduit par M. Caussin de Perceval; Jour-asiati.,</p>
+<p>(2) Journal asiatique, avril 1838.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>KHALED et DJAIDA.</p>
+<p><pb/></p>
+<p>« année aura mille lieues Quand les faveurs</p>
+<p><pb/></p>
+<p>livrance fut venu, la femme de Zahir mit au monde une fille. Entre eux,
+ils convinrent de lui donner</p>
+<p>le nom de Djaida, et publiquement celui de Djouder, afin que l'on crût
+que c'était un garçon. Pour mieux donner le change, ils firent des
+réjouissances et donnèrent des fêtes soir et matin, pendant plusieurs
+jours.</p>
+<p>Vers le même temps, l'autre frère, Moharib, eut aussi un fils auquel il
+donna le nom de Khaled (Éternel). Il choisit ce nom parce que ses
+affaires n'avaient pas cessé de bien réussir depuis le départ de son frère.</p>
+<p>De son côté son cousin Khaled ne se produisait</p>
+<p><pb/></p>
+<p>Au bout de quelques temps, il rassembla de riches présents ; et prenant
+sa mère avec lui, il partit pour aller voir son oncle. Il ne s'arrêta
+nulle part qu'il ne fût arrivé chez Zahir qui, charmé de</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>qu elle, rien n'est plus gracieux et plus aimable. Hâtez-vous, mon fils,
+d'aller trouver votre oncle</p>
+<p>L'âme de Djaida ressentit vivement cette indi¬</p>
+<p><pb/></p>
+<p>1 ) Le texte arabe indique proprement cette espèce de bandage dont les
+hommes et surtout les femmes font usage en Orient pour se préserver de
+la poussière ou par pudeur. Celui dont il est question ici était sans
+doute en mailles de fer.</p>
+<p><pb/></p>
+<p>Le matin du quatrième jour, comme Khaled, se-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>D'après ces paroles, la mère de Khaled, trompée dans son attente, alla
+retrouver son fils, qui était plongé dans la plus cruelle anxiété. Il se
+leva brusquement, car son amour s'était encore accru, et s'informa avec
+inquiétude de tout ce qui concernait sa cousine. Mais dès qu'il sut ce
+que Djaida avait répondu, son chagrin devint encore plus violent, car ce
+refus ne fit qu'augmenter sa passion. « Que faut-il faire, ô ma mère?
+s'écria-t-il. — Je ne vois aucun moyen d'éviter ce malheur,
+répondit-elle, si ce n'est de rassembler tous vos cavaliers parmi les
+sheiks arabes et parmi ceux avec lesquels vous avez des relations
+d'amitié. Attendez que votre oncle soit de retour de son expédition, et
+alors, accompagné de vos camarades, allez vers lui et de¬</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Cependant les fêtes se continuèrent et tous les assistants reçurent un
+accueil magnifique. Les filles faisaient retentir les cymbales, les
+esclaves brandissaient leurs épées en l'air, et les filles, ainsi que
+les demoiselles, chantaient jusqu'au soir. Ce fut au millieu de ces
+réjouissances que Djaida et Khaled furent mariés. Amima, la fille de
+Moawich, tint la bride du chameau de la jeune épouse, dont la gloire fut
+également célébrée par les femmes et par les hommes. »</p>
+<p>Parmi legrand nombre de morceaux curieux que l'on pouvait extraire
+d'Antar, j'ai choisi l'épisode de Khaled et Djaida, parce qu'il présente
+une narration complète et que l'on y trouve clairement exposés
+l'indépendance dont les femmes jouissaient autrefois en Orient, ainsi
+que l'appareil des moeurs chevaleresques des Arabes avant Mahomet. On
+aurait tort de conclure cependant, d'après la nature tout héroïque de
+cette histoire détachée, que le roman d'Ântar est toujours monté sur ce
+ton. Rien au contraire n'est plus varié que les aventures qui s'y
+trouvent et que le style du narrateur. Depuis les scènes les plus
+terribles et les plus épiques jusqu'aux peintures de moeurs, plaisantes et</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>la seule dont je puisse donner un extrait tant soit peu détaillé.</p>
+<p>Le roi Zoheir, chef des Absians, était établi dans ses domaines, et les
+Arabes, ainsi que les rois de ce temps, lui étaient soumis et lui
+offraient des présents. Enfin l'Arabie était devenue sujette des
+Absians, et tous les chefs des autres tribus ainsi que les habitants du
+désert, redoutaient sa puissance et ses déprédations.</p>
+<p><pb/></p>
+<p>butin était une femme noire, d'une beauté extraordinaire, mère de deux
+enfants. Son nom est Zébiba, celui de son fils aîné est Djarir, et le
+plus jeune s'appelle Shiboub. Shedad devient passionnément amoureux de
+cette femme et cède toute sa part du butin pour l'obtenir en partage
+avec ses deux enfants. Il reste dans les champs avec cette négresse dont
+les deux fils soignent les troupeaux. Bientôt Zébiba devient enceinte de
+Shedad et met au monde un fils ; c'est Antar.</p>
+<p><pb/></p>
+<p>Parmi ces jeunes demoiselles se trouve Ibla, fille</p>
+<p><pb/></p>
+<p>de Malek, fils de Zoheir. Ibla, belle comme la pleine lune, est un peu
+plus jeune qu'Antar.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>été prodigués, et son amour pour Ibla s'était encore accru. »</p>
+<p>Après plusieurs grands exploits chevaleresques, Antar devient possesseur
+d'un cheval fameux, nommé Abjer; d'une épée incomparable dont le nom est
+Dhamy ; et toutes les fois qu'il se présente au combat, ou qu'il en
+revient victorieux, il commence et finit ses allocutions poëtiques, par
+ces mots : « Je suis celui qui aime Ibla. » A la fin d'une guerre où il
+a fait des prodiges de valeur, le roi Zoheir l'appelle Alboufauris,
+surnom qui lui reste et qui signifie : Le père des cavaliers.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>rentrer la joie daus le coeur d'Antar, qui s'en alla aux pâturages
+accompagné de ses frères Djarir et Shiboub.</p>
+<p>Antar est vainqueur. Il délivre Ibla, entend les témoignages de la
+tendre reconnaissance de son amante, et reçoit entre les deux yeux, le
+baiser d'honneur du roi Zoheir.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>nous avons rapportées plus haut, ce héros, reconnu chef parmi les chefs
+arabes, obtient la première grande récompense de ses longs efforts et de
+ses grands travaux : il épouse sa chère Ibla. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>De toutes les manies chevaleresques des occidentaux, la plus difficile à
+expliquer est celle des chevaliers errants. En effet si peu civilisée
+que fût l'Europe aux onzième et douzième siècles, partout il y avait des
+villes, un gouvernement quelconque : et les rivières et les champs n'y
+étaient pas tellement rares que l'on y mourût habituellement de soif et
+de faim. Alors pourquoi ces chevaliers courant comme des effarés sans
+savoir où, se plaignant sans cesse de la poussière dans des pays où il y
+a de la boue neuf mois de l'année, ren-</p>
+<p><pb/></p>
+<p>contrant dans les chemins des femmes, des veuves et des jeunes filles
+abandonnées ou ravies par d'autres chevaliers, sans compter cent autres
+accidents tout aussi mal appropriés aux moeurs et au climat de l'Europe ?</p>
+<p>Qu'on lise trente pages d'Antar et le type raisonnable du chevalier
+errant se montre aussitôt. Les tribus arabes sont séparées par des
+distances assez grandes, pour que dans un pays dévoré par le soleil,
+l'eau et la nourriture soient rares. En outre, les chefs de tribus
+vivent presque toujours en guerre entre eux. Les vainqueurs enlèvent les
+troupeaux, les richesses, les femmes et les enfants. Rien de plus
+naturel alors, au milieu de ces désordres naturels, que de trouver des
+gens, hommes et femmes abandonnés au milieu des déserts, auxquels les
+voyageurs et les guerriers portent •secours, comme le firent en effet,
+les Hospitaliers et les Teutoniques. Avec ce genre de vie qui résulte de
+la disposition des lieux et du climat, on comprend tout aussitôt,
+comment Antar et les autres chefs qui figurent autour de lui, trouvent
+si souvent l'occasion de secourir les malheureux et les opprimés, en
+parcourant le désert et en rôdant autour des tribus.</p>
+<p>Quant aux chevaliers errants de l'Europe il y en a de deux espèces :
+ceux dont il est question dans les romans et qu'il faut considérer comme
+purement imaginaires, si on ne les regarde pas au moins comme une
+imitation de l'ordre des chevaliers</p>
+<p><pb/></p>
+<p>religieux fondés en Palestine, puis les chevaliers errants des
+quatorzième et quinzième siècles, copie plate d'une institution purement
+imaginaire, et qui ne figure dans l'histoire qu'au nombre des folies
+humaines.</p>
+<p><pb/></p>
+<p>C'est sans doute une forte présomption en faveur de mon opinion, que
+l'établissement des grades successifs, communs aux deux chevaleries.
+Mais cet ordre est tellement commandé par la nature même del'homme, que
+l'on peut croire qu'il s'est naturellement établi dans les deux
+contrées, mais séparément. Aussi est-ce moins sur la ressemblance des
+principes fondamentaux des institutions humaines, qu'il faut s'appuyer
+pour en faire la comparaison, que sur le caractère de certains détails
+qu'elles comportent, et où l'on trouve les traits originaux qui les
+caractérisent.</p>
+<p><pb/></p>
+<p>brave, mais sage, généreux et prudent ; voici les détails que l'on
+trouve sur elle dans le roman :</p>
+<p>« A peine la reine Robab a-t-elle connaissance des dispositions de
+Jazecmah qu'elle ordonne à</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>l'arme passa au-dessus d'elle sans la toucher. C'est alors que, se
+remettant en selle, elle fondit de nouveau sur Jazecmah et lui perça la
+poitrine avec son javelot. A peine frappé le chef arabe tomba de cheval
+et privé de la vie. Aussitôt les arabes ennemis s'attaquent, et ceux de
+la tribu d'Abs et d'Anan sont mis en fuite par les guerriers de la reine
+Robab-</p>
+<p>« Cependant le roi Zoheir rencontra la reine Robab comme elle
+encourageait ses troupes ; furieux, le roi se précipita vers elle, en
+criant : « Vengeance</p>
+<p><pb/></p>
+<p>pour le roi Jazecmah ! » Et en poussant cette exclamation, il envoya
+dans la poitrine de la guerrière, sa lance qui sortit entre ses deux
+épaules. » (1)</p>
+<p>Ce préjugé en faveur de l'homme de cheval, a existé dans tous les temps,
+chez presque tous les peuples, mais plus particulièrement chez ceux où
+la race des chevaux est belle et généreuse. Or les Arabes se sont
+trouvés être naturellement caraliers, chevaliers, comme ils le sont encore.</p>
+<p>(1) Antar ; Terric Hamilton, vol. I, p. 4-10.</p>
+<p><pb/></p>
+<p>combats continuels et souvent inutiles que Jean de Brienne, roi de
+Jérusalem, fut obligé de donner sous les murs de Damiette qu'il
+assiégeait en 1219, en sont la preuve ; et ce prince ne put trouver
+alors d'autre moyen d'empêcher les cavaliers et les fantassins
+chrétiens, de s'entretuer, qu'en les mettant sans cesse aux prises avec
+les Sarrasins.</p>
+<p><pb/></p>
+<p>différent, pour aucune tribu, de l'avoir pour allié ou pour ennemi. Il
+vit d'égal a égal avec les chefs et favorise toutes les entreprises du
+jeune roi Cais, dont le père Zoheir avait protégé, comme on l'a vu, la
+jeunesse et les vertus naissantes d'Antar. Pour Antar, il ne fait
+qu'apparaître dans l'épisode qui va suivre ; mais son attitude seule et
+la crainte respectueuse que sa présence inspire, suffisent pour faire
+juger du degré d'élévation où il est parvenu.</p>
+<p><pb/></p>
+<p>Shiboub qu'en comparant le plaisir qui en résulte pour le lecteur, a
+celui que l'on éprouve en voyant figurer dans les mêmes scènes Achille
+et Ulisse, Amadis et son frère Galaor, et même dom Quichotte et Sancho
+Pança; ce sont des données aussi vraies qu'inattendues, et que la nature
+seule inspire.</p>
+<p>LE CHEVAL DAHIS.</p>
+<p>En effet, ce jeune animal était le miracle de ce temps, et jamais, parmi
+les Arabes, on n'en avait élevé de plus beau. Il était d'ailleurs
+généreux et illustre par sa naissance et par sa race, car son père était
+Ocab et sa mère Helweh, deux animaux qui passaient chez les Arabes, pour
+être aussi</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le poulain, en grandissant, devint encore plus beau que son père Ocab.
+Il avait la poitrine large, le cou long, les sabots durs, les narines
+bien ouvertes ; sa queue balayait la terre, et son caractère était doux
+; enfin, c'était l'animal le plus parfait que l'on eût jamais vu. On
+l'éleva avec grand soin, et sa taille fut telle, qu'il devint comme
+l'arc d'un palais. Enfin, un jour que la jument Helweh, suivie de son
+poulain, allait du côté du lac, Jabir, le possesseur d'Ocab, les aperçut
+par hasard. Il s'empara du jeune cheval et l'emmena, laissant sa mère
+regretter sa perte. Pour Jabir, il disait : « Ce poulain m'appartient,
+et j'ai sur lui un droit mieux établi que celui de qui que ce soit. »</p>
+<p>La nouvelle de cet enlèvement parvint bientôt</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>en y joignant encore une paire de chameaux et de chamelles.</p>
+<p>Le messager retourna vers Cais, et lui rapporta la réponse de Kerim, ce
+qui fâcha beaucoup le roi. « Suis-je le roi des tribus d'Abs, d'Adnan,
+de Faazrah et de Dibyan, s'écria-t-il, et un vil Arabe</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>après lui ; ils ne purent même atteindre la trace de poussière qu'il
+laissait derrière lui.</p>
+<p>Le roi Cais, enchanté du succès de son entre-</p>
+<p><pb/></p>
+<p>prise et d'être devenu possesseur de Dahis, retourna chez lui. La
+passion qu'il avait pour ce cheval était telle, qu'il le pansait et lui
+donnait la nourriture de ses propres mains.</p>
+<p>Sitôt qu'Hadifah, chef de la tribu de Fazarah, sut que Cais possédait
+Dahis, la jalousie entra dans son coeur. De concert avec d'autres chefs,
+il médita la mort de ce beau cheval</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>« En toi, ô Hadifah, il n'y a pas de beauté, et « dans la pureté de Cais
+il n'y a point de tache. « Combien son avis était sincère et honnête! aussi</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>avant d'avoir vu Dahis. Il tourna plusieurs fois autour de cet animal et
+reconnut qu'en effet il rassemblait en lui des qualités faites pour étonner</p>
+<p>tous ceux qui le voyaient</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>de faire la paix avec Cais, il avait au contraire pris la résolution de
+ne céder en rien et de maintenir rigoureusement toutes les conditions de
+la course. H parlait même de cette affaire avec l'un des chefs au moment
+où Cais et Haml se présentèrent devant lui.</p>
+<p>Le roi Cais se reposa toute la nuit. Le lendemain, il ne pensa plus qu'à
+dresser son cheval pendant les quarante jours déterminés. Tous les
+Arabes du pays s'étaient promis entre eux de venir</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>que la course se fasse, assistez-y avec justice et impartialité;
+autrement, par les yeux de ma chère Ibla ! je ferai marcher les chevaux
+dans le sang! »—Antar a raison, s'écrièrent de tous côtés les cavaliers.</p>
+<p>Hadifah entendit ce que venait de dire Cais, et voulant l'imiter, il
+répéta :</p>
+<p><pb/></p>
+<p>mot dans ce qu'il a dit, c'est la preuve que votre cheval suivra le sien
+dans le désert. »</p>
+<p>A ces mots, Hadifah, le coeur gonflé de colère et d'indignation, jura
+par serment qu'il ne laisse-rait pas courir son cheval en ce jour, et
+qu'il voulait que la course n'eût lieu que le lendemain au lever du
+soleil. Au fait, ce délai lui paraissait indispensable pour préparer la
+perfidie qu'il méditait, car il n'eut pas plutôt aperçu Dahis qu'il
+resta interdit de l'étonnement que lui causèrent la beauté et les
+perfections de ce cheval.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>qui étaient présents se portèrent témoins de ce qu'il venait de dire, et
+se séparèrent fort étonnés d'une semblable proposition.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>« L'outrage est une lâcheté, car il surprend « celui qui ne s'y attend
+pas, comme la nuit en- « veloppe ceux qui errent dans le désert. Quand</p>
+<p>(1) Le texte arabe porte seulement que cet esclave était très-noir.</p>
+<p><pb/></p>
+<p>(1) Voyez sur cet événement l'ouvrage de M. Reinaud sur les monuments
+arabes, persans et turcs du cabinet de M. le duc de Blacas, t. 1, p. 142.</p>
+<p><pb/></p>
+<p>En entendant ces mots, Cais sentit la lumière se changer en obscurité
+dans ses yeux : « O toi, fils d'un vil cornard, cria-t-il, comment se
+fait-il que tu ne sois pas plus respectueux en m'adressant la parole ? »
+Il saisit une javeline et la lança dans la poitrine d'Abou-Firacah.
+Percé de part en part,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>(1) Le texte arabe porte quelquefois leurs enfants en bas âge.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>« avec toi d'une manière injuste, c'est toi qui le « premier lui as
+donné cet exemple, il y a quel- « ques jours. »</p>
+<p>Parmi les guerriers qu'Antar avait vaincus vers</p>
+<p><pb/></p>
+<p>la fin de sa vie, il en était un, Ouezar, homme vindicatif et féroce,
+qui souvent avait employé la perfidie pour faire périr le héros ; deux
+fois, entraîné par sa générosité naturelle, Antar lui avait pardonné ;
+mais indigné d'une troisième tentative contre sa vie, il lui fit crever
+les yeux. Cet acte de sévérité n'ayant fait qu'augmenter le désir que
+Ouezar avait de se venger, il ne vivait plus que de l'idée d'accomplir
+son funeste dessein, et c'est dans cette disposition que va nous le
+montrer le romancier.</p>
+<p>hA MOUÏ D'AXTAB.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Après plusieurs journées de marche pénible, ils sortent des déserts
+arides et entrent dans le pays qu'arrose l'Euphrate, pays fertile, orné
+d'arbres et de verdure. Ils parviennent aux bords du fleuve. Nedjm jette
+les yeux sur l'autre rive; il aperçoit des tentes richement décorées, de
+nombreux troupeaux, des chameaux errants dans la plaine, des lances
+plantées en terre, des chevaux harnachés et attachés devant l'habitation
+de leur maître. Il en* tend les chants des jeunes filles et le son des
+instruments de musique.</p>
+<p><pb/></p>
+<p>Aucune plainte, aucun gémissement indigne de son courage, ne trahit sa
+douleur. Il arrache le fer</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ton trépas. Mais pour vous guerriers, jaloux de ma gloire, rivaux que
+j'ai terrassés, et dont le coeur plein d'envie ne peut oublier la honte
+de votre défaite, jouissez de mon triste sort, et triomphez aujourd'hui,
+puisque telle est la volonté de l'Être immortel dont les humains ne
+peuvent prévoir ni éviter les décrets.</p>
+<p><pb/></p>
+<p>ton honneur et tes jours après la mort d'Antar?... Un second époux, un
+autre moi-même peut seul t'éviter les horreurs de l'esclavage. De tous
+les guerriers du désert, Amer et Zeid-el-Kail sont ceux dont la valeur
+protégera le mieux ta vie et ta liberté ; choisis donc l'un des deux et
+va lui offrir ta</p>
+<p>main.... Pour retourner vers la terre qu'habitent</p>
+<p>les enfants d'Abs, pour assurer ton passage dans le désert tu monteras
+mon coursier Abjer, tu revêtiras mes armes; sous ce déguisement, ne
+crains pas d'être attaquée ; marche avec assurance sans daigner donner
+le salut aux guerriers des tribus qui se trouveront sur ta route. La vue
+du cheval et des armes du fils de Shedad, suffira pour intimider les
+plus audacieux. »</p>
+<p>Ensuite Antar prit la main d'Amrou Zoulkelb, et la pressant contre son
+coeur, « Ami, lui dit-il, je te confie le jeune fils d'Aroué. Que cet
+aimable enfant élevé par toi, et formé par ton exemple, devienne un jour
+un héros ; et que tes soins acquittent pour moi la dette d'amitié que
+j'ai contractée envers son père. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>d'Abjer, et de son neveu Khadrouf qui guidait la chamelle chargée de la
+litière.</p>
+<p><pb/></p>
+<p>En effet Ibla obligée de descendre de cheval trahit son sexe (1). A ce
+spectacle les cavaliers qui observaient la caravane ne doutent plus de
+la réalité de leurs soupçons ; ils mettent leurs lances en arrêt et
+pressent les flancs de leurs coursiers, pour fondre sur cette troupe
+qu'ils jugent trop faible</p>
+<p>(1) Voici le passage original tel qu'il est donné en latin, par M.
+Caussin de Perceval. « Accidit perfatum, ut Abla descendent equo urinam
+emittendi causà. Et cum perfecisset opus suum et conscendisset equum,
+appropinquaverunt equites qui sequebantnr eam ; advenerunt quead locum,
+et viderunt urinam sparsam hùc et illùc. Antar autem, cum mingeret,
+perforabat lapides jactu urinse, ob magnum robur quod illi Deus
+indiderat. Et cum aspexissent équites istud, dixit eorum princeps : »
+Patrueles mei, nonne dixi vobis feminam esse? »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>RUSTEM.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>RUSTEM</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Mais il accomplit bientôt de plus nobles exploits. Dans une guerre qui
+avait pour objet de défendre le nouveau roi de Perse Zan, contre
+Afrasyeb qui avait été chassé du trône, Rustem, après avoir soutenu en
+combat singulier, les attaques de ce dernier prince, le désarçonna et
+lui ravit son baudrier et sa couronne.</p>
+<p>Peu de temps après succède au trône de Perse Kei-Kaus, espèce de fou
+qui, par la bizarrerie de ses désirs, entraîne le brave Rustem dans les
+plus étranges et les plus périlleuses aventures. Kei-Kaus vivait
+habituellement dans les délices et les festins. Un jour qu'il avait
+entendu faire par un poëte, qui s'accompagnait de la harpe, les louanges
+du royaume de Mazindéran, il se mit en tête d'en faire la conquête.
+D'après les chants de cette espèce de jongleur, on ne voyait, en ce
+pays, que des fleurs. Le climat était toujours également doux, et au
+milieu des bosquets de roses, on y trouvait des beautés</p>
+<p><pb/></p>
+<p>parées d'une jeunesse éternelle. Or ce faux poëte n'était rien autre
+chose qu'un dragon ou magicien déguisé, envoyé par le roi de Mazindéran,
+pour tenter le roi de Perse, et le faire tomber dans ses embûches.</p>
+<p><pb/></p>
+<p>ton nom sera exalté par toute la terre. Arme toi ! »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>la magicienne changèrent, car son esprit ne connaissait pas le sens de
+l'adoration, et sa langue ne savait pas dire une prière. Elle devint
+noire lorsqu'elle entendit le nom de Dieu ; et Rustem, aussitôt qu'il
+l'eut regardée, lança, plus rapide que le vent, le noeud de son lacet,
+et enchaîna soudain la tête de la magicienne. Il lui adressa des
+questions et lui dit : « Avoue qui tu es, montre-toi sous ta véritable
+forme. » Alors elle se changea dans son lacet en vieille femme
+décrépite, pleine de rides et de sortiléges, de magie et de méchanceté.
+Il la coupa en deux et remplit de terreur le coeur des magiciens (1).</p>
+<p>(1) Ce récit de la 4e journée, est tiré de la traduction de M. Mohl,
+tom. Ier. p. 521.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Arzang, auquel, après l'avoir combattu, il tranche la tête.</p>
+<p><pb/></p>
+<p>De retour dans ses États, le roi Kaus, avec son imprudence accoutumée,
+fait plusieurs tournées dans les provinces de la Perse, dans l'une
+desquelles il soumet, en passant, un prince rebelle, dont la fille lui
+plaît et qu'il épouse. Mais le père de Sudaveh, c'est le nom de la
+princesse, profite du délire amoureux de Kaus pour le faire son prisonnier.</p>
+<p>Par suite de cet événement, Afrasieb qui pré¬</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>une bande de démons prévenus de son ascension et de sa chute.</p>
+<p><pb/></p>
+<p>BUSTEM et ZHORAB.</p>
+<p><pb/></p>
+<p>butin en armes, en trésors et équipements de guerre. Après cet exploit,
+Rustem et ses compagnons prennent le plaisir de la chasse, et retournent
+enfin auprès du roi Kaus, pour lui faire hommage de leur victoire.</p>
+<p><pb/></p>
+<p>Rustem part, s'occupe avec une nouvelle ardeur</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>A ces mots le fils de Rustem souriant avec mépris, se précipite sur son
+provocateur qu'il désarme et fait prisonnier.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>de ce pays doivent, au jour du combat, faire voler la poussière
+jusqu'au-dessus du ciel qui tourne. » Puis, détachant du pommeau de sa
+selle son lacet roulé, il le lança et prit Gurdaferid par le milieu du
+corps, en lui disant : « N'espères pas m'échapper; pourquoi as-tu
+provoqué le combat, ô belle au visage de lune ? jamais semblable proie
+n'est tombée dans mes filets, et tu ne m'échapperas pas de force.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Iraniens, elle aperçut Sohrab assis sur son cheval, et lui cria : « O
+maître des Turcs et de la Chine ! pourquoi te fatigues-tu? retournes par
+où tu es venu, et abandonne le champ de bataille. » Sohrab lui répondit
+: « O fille au beau visage ! je jure par le trône et la couronne, par la
+lune et le soleil, que je renverserai ces remparts dans la poussière, et
+que je te saisirai, ô femme perfide ! Et alors, quand tu seras sans
+royaume, quand tu te tordras en vain, tu te repentiras de ces paroles
+légères ; mais le repentir ne te servira plus quand la voûte du ciel qui
+tourne aura broyé ton casque. Qu'est devenu le traité que tu as fait
+avec moi ? »</p>
+<p><pb/></p>
+<p>de suivre mon conseil et de t'en retourner dans le Touran (1). »</p>
+<p>En effet le guerrier Giw est aussi envoyé par le roi, dans le Zabulistan
+avec une lettre adressée à</p>
+<p>(1) Ce morceau, sur le combat de Gurdaferid avec Sohrab, est emprunté à
+la traduction du Livre des Rois, de Firdousi, par M. J. Mohl, tom. H,
+pages 101-103.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>« le vainqueur des lions, le distributeur des cou- « ronnes. Quand je
+suis en colère, que devient le « roi(Kaus)?qui est donc Thous, pour
+qu'il porte la « main sur moi? C'est Dieu qui m'a donné la « force et la
+victoire, et non pas le roi ni son ar- « mée. Le monde est mon esclave,
+et Rakush « mon trône. Mon épée est mon sceau et mon cas- « que est mon
+diadême ; le fer de ma lance et ma « massue sont mes amies, mes deux
+bras et mon « coeur me tiennent lieu de roi. Je rends brillante « la
+nuit sombre, avec mon épée je fais voler les « têtes sur le champ de
+bataille. Je suis né libre « et ne suis pas esclave, je ne suis le
+serviteur « que de Dieu ! » (1)</p>
+<p>(1) Ce discours de Rustem est extrait de la traduction de M. J. Mohl,
+tom. II, pag. 117. L'esprit d'insubordination envers les souverains de
+la terre, résultant de l'idée que la force et la bravoure sont des dons
+divins en vertu desquels on fait rendre ta justice de Dieu sur la terre,
+est, comme je l'ai dit, le principe fondamental de la chevalerie. La
+colère de Rustem lui fait dire, en cette occasion, sa pensée
+orgueilleuse tout entière. On peut comparer ce discours avec ceux que
+Renaud de Montauban tient au sujet de Charlemagne, dans le roman des
+Quatre fils Aimon, ainsi qu'avec les paroles dures et hautaines que le
+Cid adresse au roi d'Espagne, et l'on verra que partout l'esprit
+chevaleresque est le même : il veut tout dominer.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>A peine ces derniers mots ont-ils été prononcés, que les deux guerriers
+fondent l'un sur l'autre avec leurs lances qui volent aussitôt en
+éclats. Ils se battent successivement avec l'épée, avec la masse, en
+sorte qu'après quelques instants de lutte, leurs armures sont hachées et
+leurs chevaux épuisés de fatigue. Couverts de sang et de poussière, le
+gosier aride et ne pouvant plus respirer, tous deux sont forcés de
+rester un moment immobiles, et de reprendre haleine.</p>
+<p>Pendant ce court repos, Rustem fit en lui-même cette réflexion : «
+Jamais je n'ai rencontré un homme ou un démon pourvu d'une telle
+activité et de tant de force. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>En quittant le champ de bataille, Rustem, de son côté, après s'être
+purifié dans l'eau, était resté une partie de la nuit prosterné, faisant
+ses dévotions au Tout-Puissant, et le priant surtout de lui rendre toute
+son ancienne puissance. Il formait ce voeu parce que, dans sa première
+jeunesse, il avait été doué d'un tel excès de vigueur, qu'ayant placé
+par mégarde son pied sur un roc, il l'enfonça jus-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>est venue, mais accompagnée des malheurs les plus affreux, car nous nous
+retrouvons au milieu du sang et pour pleurer ensemble le coup qui nous
+sépare. »</p>
+<p><pb/></p>
+<p>Après la lecture de ces extraits tirés du Livre des Rois, de Firdousi,
+il me semble difficile de ne pas reconnaître que l'esprit, les pratiques
+et les accidents chevaleresques qui s'y trouvent expri¬</p>
+<p><pb/></p>
+<p>On doit remarquer, avant tout, que Rustem et Sohrab sont profondément
+religieux. Avant et après le combat, ils prient Dieu, implorent son
+assistance, ou le remercient de celle qu'il leur a accordée. Pendant les
+trêves ou les intervalles nocturnes entre les combats, ces guerriers se
+mettent en retraite, s'humilient devant le Créateur, et s'avouent à
+eux-mêmes que la force dont ils sont doués ne leur vient que de Dieu.
+Telle est la disposition constante de ces héros lorsqu'ils sont calmes.</p>
+<p><pb/></p>
+<p>« épée, je fais voler les têtes sur le champ de ba- « taille. Je suis né
+libre ; je ne suis le serviteur que « de Dieu. »</p>
+<p><pb/></p>
+<p>coup de personnes le pensent encore, elle ne lui a pas été transmise.</p>
+<p>Ainsi, toutes les actions prodigieuses de Rustem, enfant et adolescent,
+se retrouvent dans le commencement de la vie de la plupart des
+chevaliers de la Table-Ronde, mais plus particulièrement dans la
+biographie fabuleuse de Roland ( JJtbli. des Rom., nov. et déc. 1777).
+Les sept compagnons de Rustem ont une analogie frappante avec les douze
+pairs de Charlemagne. Les défis, les duels, les lois de combat, les
+trêves accordées et respectées, l'égalité des armes, l'importance donnée
+aux chevaux, tous ces usages qui forment l'appareil et le cérémonial de
+la chevalerie d'Europe, étaient sinon suivis, du moins connus par les
+Persans contemporains de Firdousi, au milieu</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>gracieux, simple et sans profondeur, mais il est chaste.</p>
+<p><pb/></p>
+<p>dresse, désire toujours l'éloigner des dangers et le retenir près d'elle
+; toutes ces circonstances se trouvent identiquement reproduites dans
+les romans chevaleresques d'Europe, et particulièrement dans les plus
+fameux où figurent Roland, Lancelot, Tristan , Perceval et Amadis de Gaule.</p>
+<p><pb/></p>
+<p>son nom. Aussi cette espèce d'exorcisme, qui s'accorde parfaitement avec
+les idées chrétiennes, est-il fréquemment employé dans les romans
+chevaleresques d'Europe, surtout dans les passages qui traitent du
+Saint-Graal et des guerriers gardiens de ce saint vase.</p>
+<p><pb/></p>
+<p>Cette question je la propose aux savants.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>TABLE DES MATIÈRES</p>
+<p>DU</p>
+<p>SECOND VOLUME.</p>
+<p>Pages.</p>
+<p>Avertissement sur la Chanson de Roland.........</p>
+<p>III</p>
+<p>La Chanson de Roland..........................................</p>
+<p>9</p>
+<p>Avertisssement sur la Chanson des Saxons..............</p>
+<p>151</p>
+<p>Extraits de la Chanson des Saxons..................</p>
+<p>161</p>
+<p>Etraits du roman de Lancelot du Lac</p>
+<p>221</p>
+<p>Extaits d'Antar</p>
+<p>373</p>
+<p>Episode de Khaled et Djaida.......................</p>
+<p>279</p>
+<p>Sujet du roman d'Antar............................</p>
+<p>298</p>
+<p>La reine Robab, guerrière</p>
+<p>317</p>
+<p>Le cheval Dahis</p>
+<p>324</p>
+<p>Mort d'Antar...................................</p>
+<p>360</p>
+<p>Ruslem..........................................</p>
+<p>377</p>
+<p>Rustem et Shorab............................</p>
+<p>392</p>
+<p>La guerrière Gurdaferid</p>
+<p>386</p>
+<p>Combat entre Rustem et Shorab......................</p>
+<p>411</p>
+<p>Mort de Shorab.....................................</p>
+<p>416</p>
+<p>FIN DE LA TABLE.</p>
+    </div>
+    </body>
+  </text>
+</TEI>

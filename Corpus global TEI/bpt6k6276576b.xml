@@ -1,0 +1,3229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Ampère, Jean-Jacques (1800-1864)">Jean-Jacques Ampère</author>
+<title>Mélanges d'histoire littéraire et de littérature. Tome 1 / par J.-J. Ampère,... ; [publiés par Louis de Loménie]</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Ampère, Jean-Jacques (1800-1864)</author>, <title>Mélanges d'histoire littéraire et de littérature. Tome 1 / par J.-J. Ampère,... ; [publiés par Louis de Loménie]</title>, <date>1867</date>,description :,542 pages
+</bibl>
+<publisher>Michel Lévy frères (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k6276576b</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1867">1867</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/></p>
+<p>MÉLANGES .:.,' D'HISTOIRE LITTÉRAIRE</p>
+<p>ET &gt;</p>
+<p>DE LITTÉRATURE</p>
+<p>l' A «</p>
+<p>J.-J. AMPÈRE DE L'ACADEMIE rRANçAISE, DE L'A C A D É M I E DES
+INSCRIPTIONS DE L'ACADÉMIE D'A RCHÉOLOGIE DE ROME DE LA CRUSCA, ETC., ETC.</p>
+<p>TOME gLr 16 X Wtf C-</p>
+<p>PARIS</p>
+<p>MICHEL LÉVY FRÈHES, LIBRAIRES ÉDITEURS RUE VIVIEN NE, 2 BIS, ET
+BOULEVARD DES ITALIENS, 15 A LA LIBRAIRIE NOUVELLE</p>
+<p>1867</p>
+<p><pb/></p>
+<p>M K L A N &lt;-1: S</p>
+<p>D'HISTOIRE LITTÉRAIRE</p>
+<p>ET</p>
+<p>DE LiTTERATUnK</p>
+<p><pb/></p>
+<p>LIBRAIRIES DE 1IICIIEL LEVY FRÈRES</p>
+<p>OUVRAGES DE J. J. AMPÈRE FORMAT IN - 8</p>
+<p>L'HISTOIRE ROMAINE A ROME AVEC DES PLANS TOPO GRAPHIQUE S DE ROME A
+DIVERSES ÉPOQUES Deuxième édition — Quatre volumes</p>
+<p>L'EMPIRE ROMAIN A ROME Deux volumes</p>
+<p>CÉSAR SCÈNES IIISTORIQUEii Un volume</p>
+<p>PROMENADE EN AMÉRIQUE ÉTATS-UNIS — GUIïA — MEXIQUE Troisième édition »
+Deux volumes</p>
+<p>MÉLANGES D'HISTOIRE LITTÉRAIRE ET DE LITTÉRATURE</p>
+<p>Deux volumes</p>
+<p>VOYAGE EN ÉGYPTE ET EN NUBIE Mous presse - Un volume</p>
+<p><pb/></p>
+<p>MÉLANGES D'HISTOIRE LITTÉRAIRE</p>
+<p>ET</p>
+<p>DE LITTÉRATURE</p>
+<p>PAU</p>
+<p>J. J. AMPERE DE L'ACADÉMIE FRANÇAISE, IIE L'ACADÉMIE DES
+UISCI\!t'.TION:&gt; DE L'ACADÉMIE D'ARCHÉOLOGIE DE ROME DE LA en use A,
+ETC., ETC.</p>
+<p>TOME PREMIER</p>
+<p>PARIS MICHEL LÉVY FRÈnES, LIBRAIRES ÉDITEURS 2 BIS, RUE VIVIENNE, Er
+BOULEVARD DES ITALIENS, H..</p>
+<p>A LA LIB K A [ U IE NOUVELLE</p>
+<p>1867 Tous droits l éservrs.</p>
+<p><pb/></p>
+<p>pui:r VG i;</p>
+<p><pb/></p>
+<p>celui qui trace ces lignes, son ancien suppléant, aujourd'hui son
+successeur au Collège deFrance.</p>
+<p>- Mais comme les productions assez nombreuses de cet esprit si étonnant
+par la variété des aptitudes embrassent les genres les plus différents,
+M. Glieuvreux a bien voulu nous adjoindre des collaborateurs dont le
+précieux concours nous permettra de donner au public une bonne édition
+générale des œuvres de notre ami. C'est ainsi qu'un savant membre de
+l'Académie des sciences morales et politiques, M. Barthélémy
+Saiut-Hilaire, après avoir enrichi d'une préface un volume de M. Ampère
+publié l'an dernier par les soins de M. Daremberg, vient tout récemment
+de publier lui-même un travail philosophique inédit laissé par M. Ampèrel.</p>
+<p><pb/></p>
+<p>La disposition typographique des deux présents volumes a rendu difficile
+le strict accom-</p>
+<p>plissement de son désir. Je m'y suis conformé, autant que possible, en
+réunissant dans le second volume les écrits qui lui ont été inspirés par
+la mort de ses amis, et si je n'ai pu donner au volume entier le titre
+touchant qu'il avait indiqué lui-même, je satisfais du moins ma
+conscience en communiquant son intention au lecteur.</p>
+<p><pb/></p>
+<p>Quoique ces mélanges contiennent des études qui, publiées depuis
+longtemps et n'ayant jamais été réimprimées, offrent en quelque sorte
+l'intérêt de la nouveauté, je dois dire qu: il y a pe de pages
+absolument inédites.</p>
+<p><pb/></p>
+<p>Tous ces documents, qui représentent une période très-importante de sa
+carrière littéraire, sa vie de professeur et d'historien de la littéra-</p>
+<p>Il Il manuscrit, qui présentait de nombreuses difficultés de détail, a
+été cou liée par M. Chcuvreux aux soins d'un jeune et consciencieux
+émdit, M. Servois.</p>
+<p><pb/></p>
+<p>« Ce cours, écrivait-il en 1846, doit être un</p>
+<p><pb/></p>
+<p>Il a certainement conquis dans cette dernière</p>
+<p>Voir Portraits contemporains, édition de 1810, l. H, p. I'2'J et 505.</p>
+<p><pb/></p>
+<p>1 Quand je dis le premier, je n'entends pas refuser aux bénédictins le
+bénéfice de la priorité, mais seulement constater, comme le fait
+très-justement M. Sainte-Beuve, que les trois volumes de</p>
+<p><pb/></p>
+<p>M. Ampère forment un ouvrage original puisé aux sources, qui diffère
+essentiellement de la docte compilation de ses prédécesseurs et pour les
+idées et pour la méthode et pour le style.</p>
+<p><pb/></p>
+<p>M. Ampère laisse, il est vrai, tous les matériaux de cet immense
+travail. On trouvera, même dans le premier des deux volumes qui suivent,
+un petit nombre de chapitres qu'il avait</p>
+<p><pb/></p>
+<p>Qui oserait, en effet, se charger de reviser, d'arranger et de publier
+les douze ou quinze volumes de sténographies laissés par M. Ampère?</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Quoique M. Ampère n'eût jamais joué ni même ambitionné aucun rôle en
+politique, il n'avait pas</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Malheureusement pour exécuter ce travail tel que je le conçois, il faut
+du temps et de la liberté d'esprit. La mort de l'auteur de Yflisloire ro-</p>
+<p><pb/></p>
+<p>LOUIS-DE LOMÉNIb!.</p>
+<p>15 janvier 1867.</p>
+<p><pb/></p>
+<p>MÉLANGES</p>
+<p>LITTÉRAIRES</p>
+<p>DE</p>
+<p>L'HISTOIRE DE LA POÉSIE ni&amp;'.oi NS NIONONCR; A I.'ATIIKNKI: UK
+MAUM:II.I.I: IHII I: I.OU\IIIMIU. DU imr.s L&gt;K IIITTTKKATUIIË, L.LÎ t2
+MAIIS L!-50</p>
+<p><pb/></p>
+<p>Commençons par nous entendre sur la manière dont nous envisagerons la
+littérature et dont elle sera traitée dans ce Cours.</p>
+<p>Qu'est-ce que la Littérature, messieurs? Ou la littérature est une
+déclamation vaine, ou elle est une science ; si elle est une science,
+elle est ou de la philosophie ou de l'histoire. Philosophie de la
+littérature, histoire de la littérature, telles sont les deux parties de
+la science littéraire ; hors de là, je ne vois que les minuties de la
+critique de détail, ou l'étalage des lieux communs.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Mais l'histoire de la poésie elle-même olTre un champ trop étendu pour
+pouvoir être parcouru dans un temps aussi limité que celui de ce cours ;
+il a fallu de nouveau me restreindre, et comme j'avais choisi, dans
+l'histoire de la littérature en général, l'histoire de la poésie, j'ai
+dû faire choix dans celle-ci d'une portion de son ensemble que nous
+pussions embrasser. Ici, j'ai hésité. J'ai porté les yeux sur ce vieil
+Orient, terre</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Mais ce chanp était encore trop vaste ; il a fallu me restreindre
+toujours davantage, et ne prendre pour sujet de ces leçons qu'une moitié
+de l'histoire de la poésie dans les temps modernes.</p>
+<p>dommageront parleur originalité, leur variété, leur</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>et Lope de Vega, dont la fécond i lé prodigieuse et l'invention
+inépuisable semblent passer les bornes de la vraisemblance; et Caldcron,
+qui lit le drame du catholicisme, comme Dante en avait fait l'épopée.
+Enfui, messieurs, je ne vous parlerai point du Portugal, plus malheureux
+encore que l'Espagne, s'il est possible, dont la littérature toute
+patriotique eut, au temps de Camoëns, comme la nation au temps de Gama,
+son jour de grandeur.</p>
+<p><pb/></p>
+<p>1</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Signalons d'abord une différence essentielle entre l'histoire do la
+poésie et l'histoire générale. Celle-ci raconte des événements qui ne
+sont plus, dont il ne reste rien que le souvenir ; mais l'histoire de la
+poésie, comme celle des arts, de la philosophie, a pour objet des
+monuments qui subsistent. En effet, si les poésies de diverses époques
+sont un événement pour le siècle où elles naissent, elles sont un
+monument pour les siècles qui les conservent. Ici ce sont donc, en
+quelque sorte, les pièces justificatives qui sont la matière du récit.
+Aussi, toute l'histoire de la poésie est-elle dans l'intelligence et
+l'appréciation des monuments poétiques.</p>
+<p>Mais cette intell'gence et cette appréciation ont plusieurs degrés; nous
+allons les parcourir rapidement.</p>
+<p>Il y a d'abord un degré préliminaire d'étude ; c'est la connaissance
+matérielle des poésies dont on veut l'aire l'histoire. La première chose
+pour l'acquérir, c'est de se procurer un texte exact, complet, et
+authentique. Pour tous les ouvrages qui ont précédé l'époque de
+l'invention de l'imprimerie, ce n'est pas une petite affaire, messieurs,
+que d'avoir un bon texte.</p>
+<p><pb/></p>
+<p>Gardons-nous au contraire de ceux qui mutilent les oiiginaux sous
+prétexte de les épurer, ou même les altèrent sous prétexte de les
+embellir. C'est un faux en littérature que de toucher aux monuments
+qu'on publie.</p>
+<p><pb/></p>
+<p>dire qu'on l'ait véritablement compris : on n'est pas en droit de le juger.</p>
+<p><pb/></p>
+<p>Cette intelligence supérieure d'un ouvrage poétique suppose deux choses
+: la connaissance de la société au sein de laquelle il a pris naissance,
+et de l'homme qui l'a produit. En un mot, il faut savoir ce qu'il doit
+au génie national et ce qu'il doit au génie individuel.</p>
+<p>Où étudierons-nous le génie national, inessieui-s'! Oit trouverons-nous
+son cmpreinle'l Dans tout ce qui compose la vie d'un peuple, dans tous
+les éléments de sa civilisation. Quels sont les principaux? La race à
+laquelle il appartient, le pays qu'il habite, la langue qu'il parle, ses
+mœurs, ses arts, sa philosophie, sa religion, son gouvernement. Le génie
+national se compose de toutes ces choses et se manifeste par elles. Il
+faut donc les prendre successivement toutes en considération.</p>
+<p><pb/></p>
+<p>gination orientale des enfants d klrin, de leur gaieté rêveuse, de leur
+mélancolie passionnée.</p>
+<p>Quelquefois l'influence de la race parait déterminer</p>
+<p><pb/></p>
+<p>Quant au rapport secret des langues et de la poésie, il est moins
+généralement reconnu, mais non moins réel ; il tient au lien de la
+parole et de la pensée, lien aussi mystérieux que celui de la matière et
+de l'esprit.</p>
+<p><pb/></p>
+<p>Gr ècc, par exemple, est presque l'histoire de la poésie grecque.</p>
+<p>Une partie des mœurs qui entraine et détermine toutes les autres, c'est
+la condition des femmes, c'est la relation d'un sexe avec l'autre. Si
+nous n'avons étudié la nature de cette relation dans un pays, nous nous
+étonnerons souvent des tableaux que sa poésie</p>
+<p><pb/></p>
+<p>Ce qui n'est la que bizarre, transporté dans nos mœurs serait révoltant.</p>
+<p>Les arls sont de la même famille que la poésie. On conçoit donc qu'un
+rapport intime, qu'un lien de pa-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>pour satisfaire aussi a ces nouveaux besoins de l'âme humaine, que ne
+pou va il. plus contenter le plaisir simple du chant.</p>
+<p>L'histoire des religions ne peut pas plus que celle des arls être
+séparée de l'histoire de la poésie. Presque</p>
+<p><pb/></p>
+<p>partout les temples ont. été son beiceau. Lenthousiasme religieux et
+l'enthousiasme poétique étaient confond us dans l'origine. Les prêtres
+étaient des poètes et les poètes des prophètes (Vates). La poésie était
+une forme du culte, elle était avec la musique la voix inspirée de la
+religion.</p>
+<p><pb/></p>
+<p>Le rapport de la philosophie avec la poésie est, ail premier coup d'œil,
+moins frappant qu'aucun autre; tout se tient cependant, et dans le même
+lieu, dans le même temps, les formules des métaphysiciens ne sont pas
+sans analogie avec la nature des chants du poêle.</p>
+<p>Sur ce point je ne puis mieux l'aire, messieurs, que de vous renvoyer à
+ces éloquentes leçons de mon illustre maître et ami bien cher, M.
+Cousin, où il a si bien montré que la philosophie d'un siècle était la
+pensée même de ce siècle, el pour ainsi dire son dernier mot.</p>
+<p>Oui, messieurs, l'idée que la poésie d'un temps ex.</p>
+<p>prime avec ses images, l'architecture avec ses masses, la musique avec
+ses sons, la sculpture avec son mar bre, la religion avec ses symboles,
+cette idée, la philosophie la réduit en système et l'énonce en axiomcs.</p>
+<p>Ainsi Platon exposait sa théorie sublime de la beauté idéale, vers
+l'époque où cet idéal, dans sa pureté, planait. sur toutes les
+imaginations, descendait dans l'atelier de Phidias, ou moulait sur la
+scène de Sophocle.</p>
+<p>Cependant il n'est pas sans exemple que cet accord ait eu lieu par une
+communication extérieure des uns et des autres, par une action directe
+de la philosophie sur la poésie. En Allemagne, par exemple, nous verrons
+le mouvement poétique partir souvent du mouvement philosophique, et,
+contre la marche ordinaire</p>
+<p><pb/></p>
+<p>dos litlérntures, la théorie précéder I exécution. Ainsi, nour, vorrons
+ln nouvelle poésie suédoise commencer de nos jours par l'importation de
+In mélaphysique allemande.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>li</p>
+<p><pb/></p>
+<p>Mais il est certain que souvent la comparaison de divers monuments
+poétiques a éclairé sur leur nature.</p>
+<p><pb/></p>
+<p>Un ouvrage n'est jamais isolé des autres; il est toujours en relation
+avec ceux qui le précèdent; et, s'il reste, il le sera avec ceux qui le
+suivent. Il faut donc, pour comprendre l'histoire de la poésie, suivre
+cette série de causes et d'effets qui se continue d'œuvre en œuvre; et,
+dans un ouvrage donné, se rendre compte des diverses actions de ce genre
+qui ont pu se compliquer et se croiser, pour le produire. Même chez les
+rénovateurs de l'art, on trouve souvent une forte</p>
+<p>♦</p>
+<p><pb/></p>
+<p>empreinte du génie de leurs prédécesseurs ou de leurs contemporains. Il
+faut faire dans Corneille la part des Espagnols, celle de Senèque, celle
+des romans de chevalerie de son temps; dans Alfieri, celle de Dante;
+dans Goethe et Schiller, celle de Shakespeare; dans Shakespeare
+lui-même, celle du vieux théâtre anglais qui l'a précédé et de toute la
+poésie du moyen âge qui l'a préparé.</p>
+<p>Car l'originalité absolue est impossible; le mot même l'indique. Il ne
+pourrait y avoir de poésie complètement originale que celle qui serait
+l'origine de toutes les autres ; et, celle-là, nous ne la connaissons
+point. Nous ne connaissons point un poète que n'a.t devancé un autre
+poëte; un chant qui ne soit venu après d'autres chants. Or, ce premier
+chant a agi sur les chants postérieurs ; ce premier poëte a agi sur les
+poètes qui l'ont suivi. Pour qu'un poëte lût purement original, il
+faudrait qu'il n'en connût aucun autre.</p>
+<p>D'après cela, l'histoire de la poésie, pour être philosophique, ne doit
+point classer les ouvrages et les poëtes seulement par ordre de temps,
+mais grouper ensemble ceux qui sont nés du même mouvement poétique et
+qui se le sont transmis. Elle doit se trans-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>guerres et des révolutions; caria vie des arls, comme celle des
+sociétés, comme celle de la nature, ne marche point toujours d'un
+mouvement égal et continu. Ce</p>
+<p>III</p>
+<p>Vous voyez, messieurs, que l'histoire de la poésie, ainsi considérée, a
+quelque portée et quelque grandeur. Nous nous sommes élevés par elle aux
+considérations les plus générales sur la nature et la marche des choses
+; nous avons éclairé l'étude de l'objet spécial dont nous faisons
+l'histoire, de la lumière que pou-</p>
+<p><pb/></p>
+<p>Jusqu'ici nous n'avons considéré les monuments poétiques que dans leur
+rapport avec les circonstances sociales d'où ils sont sortis, comme si
+ces circonstances les produisaient immédiatement, ou dans leurs rapports
+entre eux, comme s'ils naissaient réellement les uns des autres.
+Cependant, il n'en est pas ainsi.</p>
+<p>Bien qu'ils soient le résultat de causes générales, ce sont des
+individus qui les produisent. Certes, il faut, avant tout, avoir égard à
+ces causes; mais il ne faut pas négliger ces individus; car s'ils
+expriment dans leurs œuvres leur nation et leur temps, ils expriment
+aussi leur propre personnalité. L'intelligence des monuments poétiques
+ne peut donc être complète, si on ne fait la part du génie individuel
+aussi bien que celle du génie national ; car les grands poëles ne sont
+pas des instruments passifs, de simples échos de leur</p>
+<p><pb/></p>
+<p>quer. Ainsi, je le répète, on ne sait pas tout sur une poésie, quand on
+connaît les circonstances générales d'où elle est sortie. Il faut
+connaître encore a fond les hommes qui l'ont manifestée. C'est par là
+que l'idée vague qu'on en pouvait avoir devient précise et vivante; le
+poète véritable, c'est-à-dire le poêle créateur, empreint toujours ses
+œuvres d'un sceau particulier d'originalité, et si l'on n'a saisi cette
+physionomie individuelle d'un poète, on n'a pas une notion exacte de ses
+ouvrages. Ou ne se connaît pas en peinture pour dire de quelle époque
+est un tableau, il Tant pouvoir dire encore de quel maître.</p>
+<p><pb/></p>
+<p>Mais au temps des républiques grecques, la diversité des individus se
+prononce davantage, et le mouvement libre des esprits qui se développent
+avec indépendance</p>
+<p><pb/></p>
+<p>produit, en même temps, la multiplicité des genres.</p>
+<p><pb/></p>
+<p>Vous sentez, messieurs, tout ce qu'offre de piquant et d'animé cette
+partie de l'histoire que nous voulons t'airc. Il s'agit d'observer la
+nature humaine dans ses plus grands représentants, de saisir le rapport
+de leur \ie réelle avec les créations qu'ils nous ont laissées et qui
+sont aussi des réalités pour notre imagination.</p>
+<p>Quelle curieuse galerie de personnages extraordinaires, de ph ysionomies
+variées, de destinées bizarres!</p>
+<p><pb/></p>
+<p>nombre, des vies malheureuses el même dégradées.</p>
+<p><pb/></p>
+<p>allait le soir mendier timidement pour le grand poëte.</p>
+<p><pb/></p>
+<p>IV</p>
+<p><pb/></p>
+<p>C'est une grande duperie, messieurs, de se priver d'un plaisir par un
+dédain mal fondé. C'est un grand tra-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Oui, messieurs, la critique, la critique véritable.</p>
+<p>Au milieu de cette foule de productions qu'entassent les siècles, le
+premier devoir de la critique est de distinguer celles qui sont dignes
+de prendre place dans l'histoire, de fixer le rang qu'elles y doivent
+tenir. Tel</p>
+<p><pb/></p>
+<p>Mais l'importance des individus augmente en pro-</p>
+<p><pb/></p>
+<p>portion de leur rapport avec les masses, soit en tant qu'ils en sont
+l'expression plus fidèle, soit en tant qu'ils ont eu sur elle une action
+plus étendue et plus durable.</p>
+<p>qui ne nous raconte que sa propre histoire et ne nous olfrc que des
+conceptions solitaires. Aussi, chez presque tous les grands poètes, le
+temps où ils ont vécu nous apparoit, non pas froidement décrit on dehors
+de leur âme et de leur vie, mais identifié avec eux el incarné, pour
+ainsi dire, dans leur propre substance.</p>
+<p>C'est encore pour cela que les poésies des temps primitifs, dans
+lesquelles les individus ne se détachent pas encore de la masse sociale,
+mais ne font qu'un avec elles, sont toujours intéressantes ; car elles
+nous apprennent du moins quelque chose; de plus elles sont
+nécessairement inspirées. Elles ont toujours une base vraie dans les
+fondements mêmes de la nature humaine. L'instinct qui les fait naître
+est trop naïf pour pouvoir s'égarer; c'est l'envie de chanter, sans
+enthousiasme, qui produit les mauvais poëles, et cette envie ne peut
+prendre aux peuples primitifs ; ils ne font de la poésie, que parce
+qu'ils ne peuvent pas faire autrement.</p>
+<p>L'action qu'un poète a exercée sur les autres hommes est encore une
+raison de l'importance que la critique doit lui reconnaître. Messieurs,
+rien de ce qui a eu</p>
+<p><pb/></p>
+<p>Un poële anglais la dit :</p>
+<p>1 Dryden.</p>
+<p><pb/></p>
+<p>Mais la perle se cache au sein des mers profondes.</p>
+<p>On a souvent cité ce vers :</p>
+<p>La Critique est ajsée et l'Art est difficile.</p>
+<p>Messieurs, ni l'art ni la critique ne sont aisés ; la perfection de
+l'une est au moins aussi rare que celle de l'autre : je crois même qu'il
+y a eu dans le monde plus de grands artistes que de grands critiques.
+C'est qu'un critique, pour être parfait, devrait avoir l'âme d'un poëte
+et la pensée d'un philosophe.</p>
+<p>J'ai parcouru, messieurs, toutes les conditions d'une bonne histoire de
+la poésie, et maintenant je suis effrayé du tableau que je vous ai
+offert. Cependant ma faiblesse même me rassure. Vous n'attendrez pas de
+moi l'accomplissement d'une lâche que nul homme encore n'a embrassée
+dans toute son étendue. Peutêtre était-il nécessaire de poser le but
+lointain de mes efforts, au risque de vous faire sentir combien j'étais</p>
+<p><pb/></p>
+<p>incapable de l'atteindre : vous me rendrez du moins la justice de
+n'avoir pas conçu d'une manière trop étroite la mission que vous m'avez
+confiée.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>qui se fût attendu aux scènes terribles, aux efforts immenses de notre
+Révolution? Comment prévoir Corneille au temps de Jodelle? Dans ce
+siècle, comment prévoir, la veille du jour où ils ont paru, Ilyron ou
+Chateaubriand '!</p>
+<p>Sans doute en voyant les glorieuses conquêtes de l'esprit philosophique,
+les progrès des sciences posi- tives et de l'histoire, on est tenté de
+désespérer de la poésie, de croire du moins que son inspiration,
+changeant de nature, ne s'adressera plus qu'au penseur, au savant, à
+l'historien ; et en effet, il y a plus de ta • lent épique dans
+l'histoire de la conquête dAngte terre, que dans toutes nos prétendues
+épopées. Mais-, messieurs, il ne s'ensuit pas de ce que la poésie se
+répand hors de son domaine, qu'elle cessera d'y régner.</p>
+<p>L'histoire, quelque poétique qu'elle soit, ne rempla cera pas plus la
+poésie, que le roman historique, quelque historique qu'il soit, ne
+remplacera l'histoire.</p>
+<p><pb/></p>
+<p>liinenls que développe le progrès des siècles. Cet?</p>
+<p>grandes idées elles-mêmes de la science, ces vues élevées de la
+philosophie el de l'histoire oui leur poésie, et cette poésie est. a
+faire. 11 y a Iii pour nous une mer d'enthousiasme qui n'est pas prête à
+tarir. Non, messieurs, quoi qu'il arrive et quoi qu'il semble, la poésie
+ne passera pas sitôt de mode en ce monde.</p>
+<p><pb/></p>
+<p>DISCOURS SUR I,: ANCIEÎOili</p>
+<p>LITTÉRATURE SCANDINAVE</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Messieurs, la littérature scandinave est peu connue en France. Avant de
+nous engager dans ses détails, je crois devoir vous exposer sommairement
+les principaux faits et les principaux résultats que ces leçons devront
+établir et développer.</p>
+<p><pb/></p>
+<p>tondes sur l'histoire du peuple qui l'a produite, sur les origines, la
+langue, la religion de ce peuple. (-'est aussi par où nous commencerons;
+c'est quand nous connaîtrons les nations Scandinaves en elles-mêmes et
+dans leur rapport avec les autres nations; c'est quand nous aurons
+rattaché leur développement particulier au développement général de
+l'humanité, que leurs monuments littéraires auront pour nous le sens et
+la valeur qui leur appartiennent.</p>
+<p><pb/></p>
+<p>Après les Goths, un autre rameau germanique fit invasion dans la
+péninsule Scandinave.</p>
+<p>Ces nouveaux envahisseurs s'appelaient les Ases, c'est-à-dire les forts,
+les dieux. Leur chef portait le nom d'Odin, l'une des principales
+divinités dans le</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>conduiront du coté de l'Orient : d'abord aux rives de la mer Noire, puis
+dans les gorges du Caucase, porte par où ont passé les tribus
+asiatiques, espèce de caravansérail sur la grande roule du genre humain,
+où se sont arrêtés les traînards de toute race, et où on trouve comme
+des échantillons de chacune d'elles; enfin de précieux indices nous
+entraîneront encore plus loin : guidés par eux, nous entreverrons au
+centre et au sommet de l'Asie, au nord de l'Inde et de la Perse, le
+point d'où sont partis ceux que nous avons trouvés établis sur les bords
+de la Baltique et du golfe de Bothnie.</p>
+<p><pb/></p>
+<p>Revenus du fond de l'Orient dans la péninsule Scandinave, nous ne nous y
+renfermerons pas longtemps, car ce ne fut ni dans cette péninsule qui
+comprend la Suéde et la Norwege, ni dans les îles, ou la Chersonèse
+danoise, que se développe de la manière la plus complète la nationalité
+Scandinave, Ce n'est pas dans ces pays que devaient se conserver le plus
+fidèlement la langue, la religion, les traditions poétiques des
+populations qui les habitaient; la Scandinavie devait, pour ainsi dire,
+se transporter tout entière dans une île; cette ile devait être l'asile
+et comme le sanctuaire du génie des peuples germaniques, et nous
+transmettre un jour les seuls monuments littéraires où il subsiste dans
+sa pureté. C'est de cette contrée remarquable qu'il faut vous parler.</p>
+<p>Sous le cercle polaire, entre l'extrémité septen-</p>
+<p><pb/></p>
+<p>Rien de plus triste, de plus désolé, comme on peut croire, que
+l'intérieur d'un tel pays. Les côtes seules sont habitées, le centre
+n'est qu'un désert de laves, où l'on ne rencontre ni un arbre, ni un
+être vivant.</p>
+<p>Pendant quelques mois seulement, l'Islande peut communiquer avec le
+reste du monde. Durant ses longs hivers, elle est isolée par les
+tempêtes, et cernée en partie par les glaces que les courants accumulent
+sur ses bords. On voit arriver les ours blancs,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Nous examinerons les règles que doit suivre une critique sévère dans les
+rapprochements qu'elle établit soit entre les mots, soit entre les
+formes grammaticales qu'elle compare.</p>
+<p><pb/></p>
+<p>qui existe entre les langues germaniques, et les langues grecque et
+latine? Qu'aurait pensé, bon Dieu!</p>
+<p>Il Fallait, pour reconnaître cette vérité, qu'après bien des siècles,
+les descendants de ces barbares eussent établi des bibliothèques et des
+académies dans la Chersonèse cimbriquc et dans le pays des Cattes.</p>
+<p>Ce n'est pas tout, et d'autres analogies non moins certaines
+rattacheront les langues germaniques aux anciens idiomes de la Perse et
+de l'Inde, si étroitement liés eux-mêmes avec ceux de la Grèce et de
+l'Italie ; et pour la seconde t'ois, nous aurons touché aux régions
+lointaines de l'orient, en partant de l'islande.</p>
+<p><pb/></p>
+<p>Afin de répandre quelque lumière sur la mythologie</p>
+<p><pb/></p>
+<p>Après avoir contemplé ces grands et sombres symboles, nous tenterons
+d'en pénétrer le sens, non par une minutieuse interprétation, qui
+poursuit, dans des détails arbitraires, la chimère d'une explication com-</p>
+<p><pb/></p>
+<p>Nous parlerons d'abord des plus célèbres, des Eddas.</p>
+<p>Il existe deux recueils d'une nature et d'une composition entièrement
+différentes, et qui tous deux portent le nom d'Edda. La moins ancienne
+est l'ouvrage du dernier grand homme de l'Islande, de Snorri Sturleson,
+mort au milieu du treizième siècle (1241). Cette Edda se compose de
+plusieurs traités en prose sur la mythologie et la langue figurée,
+employées par les scaldes ou poëtes scandinaves. La première partie</p>
+<p><pb/></p>
+<p>Enfin, a ces deux parties l'auteur a ajouté un. traité de grammaire, de
+rhétorique et de prosodie, que termine assez pédantesquement un poëme
+bizarre, où sont renfermées toutes les formes de la versification
+Scandinave, espèce de métrique en exemple, et que l'auteur a intitulée
+Clef prosodique.</p>
+<p><pb/></p>
+<p>semble aux poésies d'Homère. Cette ancienne Edda est une collection de
+poëmes et de fragments de poëmes mythologiques, gnomiques, héroïques,
+recueillis, au onzième siècle, par un Islandais nommé Semund.</p>
+<p>Les poëmes mythologiques renferment, les dogmes de cette religion sombre
+et guerrière dont je vous ai entretenus. Souvent ils sont empreints,
+comme elle, d'une majesté lugubre et d'une tristesse sublime.</p>
+<p>Telle est la Jloluspa, le plus important des poëmes mythologiques de Y
+Edda, débris d'une cosmogonie perdue, qui commence par la formation de
+l'univers, et se termine par l'embrasement dans lequel il doit périr :
+c'est l'expression voilée des mystères et.</p>
+<p>des oracles ; c'est une vision confuse, gigantesque et terrible; c'est à
+la fois la Genèse et Y Apocalypse du Nord.</p>
+<p><pb/></p>
+<p>sépare la théogonie d'Hésiode et les railleries de Lucien.</p>
+<p>Un autre poëme de 1 Eihla (le chant de Rig) contient, sous l'enveloppe
+d'un mythe symbolique, l'histoire de l'origine de la société Scandinave,
+et y montre la naissance des ordres dans ce qui fut ailleurs celle des
+castes dans la distinction des races.</p>
+<p>Je néglige d'indiquer plusieurs portions curieuses de l'Edda, entre
+autres ce singulier Chant du soleil, le seul morceau chrétien qu'elle
+renferme; ce récit du monde invisible que Semund prononça, dit-on,
+réveillé pour un moment du sommeil de la mort, où les dogmes les plus
+menaçants du catholicisme font avec les mythes odiniques une étrange
+alliance; où l'on voit un Islandais du onzième siècle, inspiré peut-être
+par ces peintures lugubres des supplices éternels qui dès lors hantaient
+les imaginations méridionales, les rembrunir encore des noires couleurs
+de son ciel et du sanglant reflet des traditions, et empruntant aux deux</p>
+<p><pb/></p>
+<p>Sigurd est le centre du grand cycle épique dont je vous ai parlé au
+commencement de cette lecture.</p>
+<p>L'histoire de ce cycle est certainement une des pages les plus curieuses
+des annales de la littérature primitive. Il est rare qu'on puisse
+analyser aussi complètement les éléments divers, et poursuivre avec autant</p>
+<p><pb/></p>
+<p>Nous recomposerons d'abord la destinée héroïque de Sigurd, selon la
+version Scandinave contenue dans YEdda. Nous verrons le héros conquérir
+sur un dragon le trésor fatal auquel ses malheurs et sa mort sont
+attachés; puis aller sur la montagne réveiller la jeune Yalkyrie dans
+son palais entouré de flammes; périr, enfin, victime de la jalousie et
+de la passion d'une femme, par la main d'un traître; et celle dont
+l'amour a demandé sa mort se tuer pour le suivre. A ce moment commencent
+de nouvelles aventures, et chose étrange, ici paraissent des noms
+historiques ; les plus grands noms de la barbarie interviennent dans
+cette légende islandaise. La veuve de Sigurd devient la femme d'un roi
+des Huns qui s'appelle Atli, et dans lequel il est impossible de
+méconnaître le terrible Attita.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>produit des siècles héroïques de la Grèce les vestiges de plusieurs
+transformations successives, mais elle ne sait y parvenir que par voie
+d'induction ; ici lesmonu.</p>
+<p>Ce sont là, messieurs, les siècles héroïques des peuples modernes ; elle
+a eu aussi son Iliade, cette Europe barbare, dont M. Thierry, avec un
+courage égal</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>popée et le roman. C'est de l'histoire moins la critique, de l'épopée
+moins la forme, du roman moins la fiction volontaire ; c'est de la
+tradition orale, comme le mot l'indique, crue par ceux qui la racontent
+et par ceux qui l'écoutent. Dans Hérodote, il y a beaucoup do sagas
+grecques. Les premiers livres de Tite-Live sont des sagas romaines,
+mises en œuvre par un historien artiste ; mais si la saga a existé
+partout où a existé la poésie primitive, l'Islande est plus riche
+qu'aucun pays dans ce genre de traditions. Nous ferons l'inventaire de
+cette richesse; nous classerons ces nombreux monuments qui, malgré leur
+commune dénomination, diffèrent si fortement par le sujet et la nature
+du récit.</p>
+<p><pb/></p>
+<p>Chose bizarre! ces pirates de l'Hécla poussaient la haine du mot propre
+et l'amour de la périphrase bien autrement loin que les Précieuses de
+Molière. C'est une preuve que les raffinements de la littérature
+n'attendent pas toujours ceux de la civilisation, et que la barbarie ne
+préserve pas de la recherche.</p>
+<p><pb/></p>
+<p>téresser, quand elle n'offrirait pas fréquemment des traits sublimes,
+comme le peuvent dire tous ceux qui ont lu le chant célèbre de régner.</p>
+<p><pb/></p>
+<p>DE</p>
+<p>LA LITTÉRATURE FRANÇAISE</p>
+<p>DANS SUS II AI» PORTS ,</p>
+<p>AVEC LES LITTÉIUTUKES ÉTUANGÈUES AU MOYEN AGE</p>
+<p>MSCOUl'.S D OUVKHTUIU-; l'RONONC.lî A \.K FACULTÉ DES LCTTRKS</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>littéraires au nord et un midi, j'ai rencontré partout son génie
+voyageur et conquérant. Non moins souple et mobile que dominateur et
+communicatif, il n'est pas un peuple dont il n'ait, pour un jour,
+accueilli la langue ou adopté la fantaisie! Ainsi nous toucherons à
+toutes les grandes littératures, car toutes ont été en contact avec nous
+; tantôt nous verrons la nÙlrc.</p>
+<p><pb/></p>
+<p>autres littératures de l'Eurupe moderne; nous ferons le compte, pour
+ainsi parler, de ce qu'elle a donné et de ce qu'elle a reçu ; nous
+établirons la balance des richesses qu'elle a recueillies dans son sein
+et des trésors qu'elle a répandus sur le monde.</p>
+<p>Nous étudierons d'abord l'innuencc de l'antiquité.</p>
+<p><pb/></p>
+<p>En outre, partout s'élève une littérature lutine, contemporaine et
+rivale des littératures vulgaires.</p>
+<p>L'idiome qu'elle emploie est celui de l'Église, de la science, des
+affaires ; et l'on peut dire que la littérature latine, au moyen âge,
+est une littérature morte dans une langue vivante.</p>
+<p><pb/></p>
+<p>si ces origines de la muse française sont trouvées mensongères,
+qu'a-helle emprunté de la muse provençale, sa sœur aînée, qu'elle a trop
+t'ait oublier?</p>
+<p>Jusqu'ici nous n'avons parlé que de 1 Occident: il faut présentement
+tourner notre vue d'un autre côté.</p>
+<p>Tandis que la langue française se formait laborieusement des débris de
+la langue latine, tandis que la chevalerie naissante mêlait quelque
+générosité et quelque enthousiasme aux violences de la féodalité, et que
+la littérature tentait d'associer aux souvenirs altérés de la
+civilisation antique les sentiments incom-</p>
+<p>plets de la société nouvelle, l'Orient, qui avait eu aussi ses
+révolutions, et que Mahomet avait renouvelé; l'Orient, ce vieux monde,
+berceau du nôtre, continuait</p>
+<p>1 Voir le cours &lt;lo M. Faniiel, publié en I8i(&gt; par M. Moîil so's le
+litre d'Histoire de lu fitwsie. prol.'afflle,</p>
+<p><pb/></p>
+<p>de rouler dans son lointain orbite, avec ses traditions, ses apologues,
+ses contes sans nombre, et toutes les éblouissantes merveilles de son
+ciel el de sa poésie.</p>
+<p>Souvenons-nous aussi, messieurs, que nos croisés s'étaient laissé
+distraire, en passant, par la fantaisie de s'asseoir tout éperonnés sur
+le trône impérial de Constantinople, Vous savez en quelle admiration les
+jeta la rencontre qu'ils firent, aux extrémités de l'Eu-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>source de ces traditions venues de si loin ; nous irons, jusqu'aux bords
+du (lange, chercher la patrie de ces tables que se sont passées de main
+en main l'Inde, la Perse, l'Arabie ; que des juifs ont traduites en
+hébreu, eu grec et en latin ; qui, tombées entin dans le domaine de la
+littérature vulgaire, sont devenues le pat rimoine commun des diverses
+nations de l'Europe, et dont la France, une des premières, a recueilli
+l'héritage.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>sa jeunesse, ni l'admiration de la gravité la line trop empreinte en son
+langage cicéronien, ni un vif sentiment de la poésie grecque dont il fut
+un restaurateur passionné, n'effacèrent complètement son baptême
+français. Qui sait combien de ses meilleures nouvelles il apprit enfant,
+peut-être, dans les rues de Paris avec de jeunes compagnons, au bout de
+la table où les compères du marchand florentin oubliaient. son jeune
+fils pour se régaler de bons contes dont il a fait des récits immortels !</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Il u esl pas surprenant, d'après cela, messieurs, que notre littérature
+chevaleresque forme une portion ^i étendue de la vieille littérature
+anglaise. La poésie anglo-normande est réclamée par les deux pays, et
+c'est ainsi que les bibliothèques d'Angleterre contiennent parmi leurs
+archives un si grand nombre de monuments français. Bien après qu'on eût
+commencé d'écrire l'anglais, on s'en servit surtout pour redire ce
+qu'avaient raconté nos trouvères; l'emploi du français dans la poésie se
+continua si longtemps, qu'au qua-</p>
+<p><pb/></p>
+<p>L'empire de la littérature française s'étendit au</p>
+<p>nord encore plus loin qu'au midi. On sait que les minnesinger furent les
+troubadours de l'Allemagne, dont la poésie chevaleresque, soit dans
+l'épopée, soit dans le genre lyrique, présente presque toujours un
+calque de la nôtre ; il n'en sera que plus curieux de</p>
+<p><pb/></p>
+<p>démêler ce qui s'est pu glisser d originalité nationale dans celte
+poésie d'emprunt. D'au In; part, nous verrons, dans les Nïebehnin&lt;&gt;n el
+le livre des Héros, les mœurs et les sentiments de la chevalerie aller
+chercher, pour ainsi dire, et rencontrer sur leur terrain les traditions
+barbares. La nous assisterons aux luttes et aux alliances des deux
+génies qui se disputent FKnrope moderne.</p>
+<p>positions a couvert l'Europe depuis le douzième siècle jusqu'au
+quinzième. Pour trouver cette l'orme drama</p>
+<p><pb/></p>
+<p>Messieurs, je viens de vous tracer la route que nous ferons ensemble.
+Elle part de l'antiquité grecque et littine, coudoie les antiquités
+germaines et celtiques, va chercher l'Orient, et, traversant la
+Provence, rentre dans notre pays; puis en sort, parcourt l'Italie,
+l'Espagne, le Portugal, l' Angleterre, l'Allemagne. Voyage immense, que
+nous achèverons pourtant sans poser le pied hors de la terre de France :
+car ce chemin, tel que je viens de le tracer sur la carte du monde, que
+l'on parle poésie ou guerre, c'est le chemin de nos conquêtes.</p>
+<p>Ce n'est pas tout, messieurs, j'ai tracé la route que</p>
+<p><pb/></p>
+<p>nous suivrons, mais je n'ai pu vous indiquer tout ce que nous
+rencontrerons des deux côtés du chemin.</p>
+<p>Nous la ferons, cette étude comparative sans laquelle l'histoire
+littéraire n'est pas complète; et si, dans la suite des rapprochements
+où elle nous engagera, nous trouvons qu'une littérature étrangère
+l'emporte sur nous en quelque point, nous reconnaîtrons, nous
+proclamerons équitablementcet avantage; nous sommes trop riches en
+gloire pour être tentés de celle de personne, nous sommes trop fiers
+pour ne pas être justes.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>DE L'HISTOIRE</p>
+<p>HE</p>
+<p>LA LITTÉRATURE FRANÇAISE</p>
+<p>mscoriis phojoscé au coi.i.i;:gk be fraxci.</p>
+<p>1.1* ti FtVIllE 11 183 V</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ce que j ai résolu d'exposer devant vous, c'est l'histoire de la
+littérature française comparée aux autres littératures.</p>
+<p><pb/></p>
+<p>D'abord, une histoire de la littérature française doit être complète.</p>
+<p>Or, une littérature, c'est un univers bien vaste et bien varié. La vie
+humaine est la tout entière, et la</p>
+<p><pb/></p>
+<p>littérature n'est pas seulement, comme on l'a dit, l'expression de la
+société, elle en est aussi l'âme et l'instrument. Elle n'est pas
+seulement le miroir qui la réfléchit, mais l'aiguillon qui la presse, le
+souffle qui l'anime ou l'embrase. Elle prend mille formes, elle contient
+mille genres, elle a mille noms.</p>
+<p>Foi, doute, politique, philosophie, folie ou sagesse se traduisent par
+elle, et c'est elle aussi qui provoque toutes ces choses, les suscite,
+les développe, les propage. Elle fonde ou détruit, distrait ou console,
+égare ou dirige. Les livres font les époques et les nations, comme les
+époques et les nations font les livres. Un poëme fait un peuple. C'est
+la Grèce héroïque qui a produit Homère; c'est d'Homère qu'est sortie la
+Grèce civilisée. Les livres créent les religions, les royaumes, les
+révolutions. C'est un livre qui a donné le genre humain au
+christianisme, c'est un livre qui a fondé l'empire des califes; des
+livres ont enfanté la Révolution française, qui changera le monde.</p>
+<p><pb/></p>
+<p>Ces siècles, moins favorisés, moins polis, ont eu aussi leur grandeur.
+Ils ont vécu, ils ont souffert, ils ont</p>
+<p><pb/></p>
+<p>nous faut-il absolument les pompes de Versailles ou deSaint-Cyr pour
+nous toucher?</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>razins et marcha en tète des croisades! la France n'aurait retenu aucun
+chant de guerre, conserve aucun récit héroïque! la France au moyen àgc,
+sans épopée! Elle en a inondé et défrayé l'Europe.</p>
+<p><pb/></p>
+<p>Souvenez-vous seulement, messieurs, qu'autour de ces noms classiques
+nous grouperons beaucoup de noms moins célèbres, et même des ouvrages
+sans noms; pamphlets, mémoires, lettres, tout nous sera matière à
+étudier le développement de la pensée et en même temps de la langue
+française ; car hous ferons toujours marcher l'étude de l'une avec l'étude</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>les plus hautes idées, les plus généreux sentiments; qui enfin, après
+avoir élevé tant de monuments d'éloquence, d'histoire et de poésie,
+emploie cette verdeur de génie que le temps semble chez lui rajeunir à
+construire le plus achevé, le plus impérissable de tous, ces Mémoires
+qui, sous un titre trop modeste, contiendront le tableau, disons mieux,
+l'épopée de ce temps, la société ancienne et la société nouvelle,
+l'Europe et l'Amérique, deux siècles et deux mondes.</p>
+<p>Oui, messieurs, le champ est immense, et pour s'y reconnaître, il faut
+d'abord en faire le tour, en distribuer les diverses portions, en
+classer les divers produits.</p>
+<p><pb/></p>
+<p>La double invasion du christianisme et des barbares dans les Gaules, la
+chevalerie et les croisades, les guerres religieuses et la Fronde, la
+monarchie européenne de Louis XIV et la monarchie européenne de
+Voltaire, enfin la l'évolution, telles sont les principales vicissitudes
+de la société française, entre lesquelles se placent naturellement les
+diverses phases de notre littérature.</p>
+<p>Hemarquons cependant, messieurs, une différence essentielle, qui
+distingue les âges de la nature des âges de la pensée Les premiers se
+succèdent sans que les plus anciens aient aucune action sur ceux qui les
+suivent. Ce sont, a chaque période, de nouvelles générations d'êtres que
+les générations antérieures n'ont point produites, 11 n'en est point
+ainsi dans l'histoire</p>
+<p><pb/></p>
+<p>de l'esprit humain et de ses œuvres. Ce qui est aujourd'hui a été
+préparc, annoncé, engendré mystérieusement par ce qui fut il y a des
+milliers d'années.</p>
+<p>Chaque jour du passé a élaboré en silence le présent.</p>
+<p>il faut étudier la vie de l'animal dans l'embryon, l'organisation de la
+plante dans la graine où elle est tout entière; jde même il faut
+surprendre tout développement humain, et en particulier tout
+développement littéraire, dans son germe obscur, dans sa semence cachée.
+C'est bàtardise pour les siècles comme pour les individus de ne pas
+connaître leur père, c'est impiété dénaturée de le renier ; c'est au
+contraire devoir et plaisir de faire la généalogie de son temps. Notre
+siècle, né d'hier, est de race noble et antique ; il date de loin. A
+l'histoire appartient de retrouver ses titres et de lui rendre ses aïeux.</p>
+<p>Messieurs, je voudrais pouvoir exprimer avec plus d'énergie ce principe
+fondamental; l'essence de l'histoire est pour moi dans l'élude
+approfondie, dans le sentiment intime de la filiation des ûyes. C'est là
+qu'est le lien, le nœud, l'unité de la vie du genre humain.</p>
+<p><pb/></p>
+<p>Cependant, on peut le dire hardiment, si la littérature chevaleresque
+n'était pas née au moyen âge et n'avait pas été transmise par les romans
+et la tradition des ?nr»î\irs^ elle n'aurait point pris naissance au
+temps fie Louis XIV ou de Louis XV. Si les troubadours n'a voient pas
+existé, nous n'aurions ni le Cad, ni Amlrowaau&lt;\ ni Zaïre, Il t fallu,
+pour rendre ces chefsd'œuvre possibles aux génies qui les ont conçus,
+que le sentiment chevaleresque, plante gracieuse entée sur un tronc
+germanique, jetât ses racines parmi les cendres tièdes encore de la
+civilisation romaine; que, ballotée longtemps par les rudes tempêtes du
+moyen âge, et de loin caressée d'une brisé orientale, elle vint
+s'épanouir enfin aux éclairs de la Fronde et au</p>
+<p>soleil de Louis XIV.</p>
+<p><pb/></p>
+<p>elle dans des proportions plus vastes qu'on ne l'a souvent montrée.</p>
+<p>Mais nous ne devons pas nous arrêter là, et je suis loin de vous avoir
+indiqué les principaux aspects de l'étude dans laquelle nous allons nous
+engager.</p>
+<p>En effet, j'ai parlé jusqu'ici comme si la littérature française était
+la seule littérature au monde, comme si elle était sans rapport avec les
+autres littératures. Cependant ces rapports sont nombreux ; ils
+complètent son histoire.</p>
+<p><pb/></p>
+<p>L'antiquité appelait le sang le siège de l'âme ; mais ceci, c'est l'âme
+elle-même, car c'est la pensée.</p>
+<p>Cette double action de l'Europe sur la Fiance et de</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>que, si elle découvre une analogie dans leurs condi-</p>
+<p>Ce n'est pas tout, messieurs, il ne suffit pas de contempler, il faut
+juger et conclure.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ne se ,;.sentirait pas quelquefois ému en leur présence.</p>
+<p>Le goût est dans l'art ce qu'est le tact dans les relalions habituelles
+de la vie, ce qu'est le coup d'œil dans les affaires ; c'est un composé
+de sentiment juste et fin, de jugement rapide et sûr ; le goût, c'est la
+conscience délicate du beau.</p>
+<p>On ne peut pas nier cette conscience plus que l'auIre, elle se sent de
+même et ne se démontre pas davanlage. Nous nous contenterons de dire
+d'elle ce que Rousseau disait de la conscience morale : « Conscience,
+conscience, instinct divin, immortelle et céleste voix.</p>
+<p>et d'ajouter avec lui : La conscience est timide, elle aime la retraite
+et la paix; le monde et le bruit l'épouvantent, les préjugés dont on la
+fait naître sont ses plus cruels ennemis. » Oui, messieurs, il y a en
+nous une faculté qui perçoit le beau, faillible comme toutes nos
+facultés, mais aussi réelle qu'aucune autre.</p>
+<p>Elle nous trompe, dit-on : nos sens nous abusent bien! Hélas! les hommes
+ne se sont-ils jamais trompés sur le devoir et la N-ertit ? Est-ce à
+dire qu'il n'y a</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Sur quelque préférence une estime se fonde, El c'est n'estimer rien
+qu'estimer tout le monde.</p>
+<p><pb/></p>
+<p>Telle est l'impartialité, comme je l'entends, non pas froide, inanimée,
+approuvant tout parce que tout lui est indifférent, laissant passer
+devant elle les temps et les hommes sans en arrêter aucun, comme un
+sultan blasé regarde nonchalamment défiler ses esclaves, ou un pasteur
+indolent son troupeau ; mais, au contraire, passionnée, guerroyante,
+combattant toute superstition et tout blasphème, honorant sans réserve
+toutes les divinités véritables, brisant sans pitié toutes les idoles.</p>
+<p><pb/></p>
+<p>L'avenir, messieurs, c'est la foi de notre âge: c'est le flambeau du
+passé, l'étoile du présent. Tout ce qui pense aujourd'hui s'efforce
+d'épeler les lettres encore voilées de son radieux symbole. Il a ses
+sceptiques et ses blasphémateurs ; il a aussi s-es superstitieux et ses
+fanatiques. Soyons fermes, messieurs, en présence de cette grande idée
+de notre époque; ne laissons pas troubler notre raison par cette pensée
+de l'avenir, vague et puissante comme la pensée de l'infini, Au milieu
+des sectes qui se forment, des écoles qui s'élèvent, des opinions qui
+s'agitent pour naître, conservons la liberté de notre jugement et
+l'indépendance de notre esprit.</p>
+<p>Celui, qui vous parle la réclamera toujours pour lui, comme pour tous.
+Il n'est d'aucune secte, d'aucune école; il est un soldat de cette
+grande expédition de découverte, de cette grande armée de conquête qui
+s'ébranle et se lève de partout et qui s'avance avec ardeur</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>DE</p>
+<p>LA CHEVALERIE</p>
+<p><pb/></p>
+<p>1 ; DE LA CIIEVALERIE EN GÉNÉRAL</p>
+<p><pb/></p>
+<p>La chevalerie est un ensemble de sentiments, de mœurs et d'institutions
+: les sentiments en sont l'âme, ils se manifestent par les mœurs et les
+institutions qu'ils produisent.</p>
+<p><pb/></p>
+<p>grands coups qu'ils se sont portés, l'un païen et l'autre chrétien,
+enfourchent le même cheval et le piquent de quatre éperons.</p>
+<p>Elle n'est plus un accident, mais un résultat. Je vais</p>
+<p><pb/></p>
+<p>indiquer divers exemples, présenter divers échantillons, pour ainsi
+dire, de ce qui a été, au moins partiellement, au moins par certains
+côtés, et sous certains aspects, la chevalerie hors du moyen âge et de
+l'Europe moderne.</p>
+<p>Dans l'état sauvage, l'homme est tout entier sous l'empire des besoins
+physiques et des instincts brutaux.</p>
+<p><pb/></p>
+<p>Les mœurs barbares ressemblent beaucoup aux mœurs sauvages ; seulement
+les barbares sont perfectibles, les sauvages ne le sont point; la
+civilisation ne les pénètre pas, elle les dévore, tandis que les peuples
+barbares sont capables de recevoir et même de raviver la civilisation ;
+eh bien ! leurs mœurs ne sont pas plus chevaleresques que celles des
+sauvages. Les mœurs</p>
+<p><pb/></p>
+<p>Dans l'Iliade et dans l'Odyssée, les mœurs héroïques sont présentées
+dans toute leur violence, et, on peut le dire, dans toute leur
+brutalité. Les héros sont sans pitié pour leurs ennemis vaincus, ils les
+foulent aux pieds encore palpitants et les insultent après les avoir
+percés; ils les raillent en les égorgeant. Achille traîne le cadavre
+d'Hector autour de Troie ; Ulysse et Télémaque sont sans merci pour les
+prétendants, pour ceux même qui ont montré quelques sentiments meilleurs.</p>
+<p>Tout, chez Homère, est fortement empreint de la barbarie primitive, et
+la chevalerie ne s'y montre pas.</p>
+<p>Si par moment on croit qu'elle va paraître, l'illusion</p>
+<p><pb/></p>
+<p>La naïveté antique ressaisit le poëte au moment où il semblerait qu'un
+autre ordre de sentiments plus semblables aux sentiments modernes va se
+faire jour dans son récit.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Mais laissons les Grecs et les Homains. Chez des peuples moins avancés
+en civilisation, nous pourrons trouver plus de trace de cet esprit que
+nous cherchons.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>lisé dans la scène admirable qui commence ainsi : Rodrigue, as-tu du cœur?</p>
+<p>Tout autre que mon père L'éprouverait sur l'heure.</p>
+<p>C'est le même motif traité une fois au point de vue hé-</p>
+<p><pb/></p>
+<p>roïque et presque barbare, et l'autre au point de vue chevaleresque.</p>
+<p><pb/></p>
+<p>litessede Fontenoy : «Messieurs, tirez les premiers. »</p>
+<p>On y voit des guerriers couverts de fer de pied en cap, et dont les
+armures rappellent exactement celles des chevaliers, se précipiter les
+uns contre les autres au galop et se portant de grands coups de lance,
+comme dans les tournois, les joutes de l'Occident. Quant au texte
+lui-même, un des héros prononce ces paroles remarquables : « Les hommes
+de race puissante demeureraient barbares, s'ils n'avaient pas de
+compagne. » Dans ce poëme est une rencontre entre le fameux Rustem et
+une amazone; comme Clorinde, celle-ci est prise par son adversaire pour
+un guerrier jusqu'au moment où, ôtant son casque, elle dévoile un
+paradis de beauté. Mais la suite n'est pas aussi chevaleresque dans
+Ferdoussi que dans le Tasse : le guerrier veut lier cette femme comme il
+aurait fait de tout autre prisonnier; elle lui échappe par une ruse. Ce
+qu'il</p>
+<p>1 Il a paru aujourd'hui quatre volumes de la traduction qu'annonçait M.
+Ampère en 1838, et le cinquième est sous presse. (Note de Véditeur.)</p>
+<p><pb/></p>
+<p>Mais en s'imposant la loi de lui accorder trois jours,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Il</p>
+<p>DE tA C H E V AI. K H I E AU MOYEN AGE</p>
+<p>Ce mot chevalerie n'est pas le nom primitif du fait qu'il exprime. Dans
+l'origine, le nom du chevalier fut miles, le soldat, le brave d'élite,
+comme en grec vjpw;, dans les langues du Nord kempe, en persan lJelevan.</p>
+<p>Cette désignation n'est pas non plus sans analogue dans d'autres temps
+et chez d'autres peuples. Nous</p>
+<p><pb/></p>
+<p>voyons dans Homère Nestor désigné par le nom d'wrTvé-Yiç, cavalier :
+chez les Arabes, le guerrier par excellence s'appelle faris, qui a le
+même sens. Des peuples entiers ont pris ce nom comme une appellation
+héroïque; les mots perses et partîtes veulent dire cavaliers.</p>
+<p><pb/></p>
+<p>chures ne descendissent du paradis terrestre, situé sur une montagne,
+dans ce continent ignoré ; lorsqu'on y eut pénétré, il fallut bien
+reconnaître que le paradis n'existait pas sur la terre. S'il en est de
+l'idéal chevaleresque comme de l'Éden, l'existence, de la chevalerie
+n'en est pas moins un fait incontestable ; les sentiments, les mœurs et
+l'organisation de la chevalerie sont des réalités historiques.</p>
+<p><pb/></p>
+<p>rcsque n'a pas eu d'existence réelle ; les faits démentiraient cette
+incrédulité. Je citerai l'histoire d'un troubadour célèbre, de Geoffroy
+de Rudel; je traduis littéralement sa biographie provençale.</p>
+<p>On ne peut rencontrer dans un roman de chevalerie rien de plus exalté et
+de plus tendre que cette histoire. Au reste, pour prouver l'existence de
+l'amour</p>
+<p><pb/></p>
+<p>chevaleresque, il suffirait de citer les deux plus grands noms de la
+poésie italienne, Dante et Pétrarque.</p>
+<p><pb/></p>
+<p>Quand nous vîmes tant de cavaliers, tant de beaux harnais, de casques
+brillants, de bannières flottantes nous fermer la route, il n'est pas
+besoin de nous demander si nous fûmes en grand souci ; vous nous
+cachâtes entre Benc et Final. De tous côtés nous entendions retentir les
+cors et les clairons et le cri de guerre.</p>
+<p>Nous passâmes deux jours sans boire ni manger. Le troisième, étant
+sortis de notre retraite, nous rencontrâmes, dans* le Pas-de-Belestar,
+douze brigands qui allaient butiner. A ce coup nous ne savions que
+devenir, car nous ne pouvions nous servir de nos chevaux.</p>
+<p>A pied je me précipitai contre eux. Je reçus un coup de lance dans mon
+gorgerin, mais seul j'en blessai trois ou quatre, et les autres furent
+contraints de fuir.</p>
+<p><pb/></p>
+<p>Ce qui, plus que tout le reste, empêche de révoquer en doute la réalité
+de la chevalerie, c'est que c'était un ordre dans lequel on était admis
+après certaines cérémonies, un ordre comme la prêtrise ; je reviendrai
+sur ce rapprochement quand je traiterai des rapports de la chevalerie et
+de l'église, souvent comparées par les auteurs contemporains.</p>
+<p><pb/></p>
+<p>La chevalerie était si bien un ordre, qu'il se transmettait, que ceux
+qui en étaient dépositaires pouvaient le conférer, et la capacité de le
+conférer commençait dès le moment où on venait de le recevoir.</p>
+<p><pb/></p>
+<p>quoique trop faible pour cette tentative, le jeune Gordon, dont le père
+avait été tué par Swinton, entra dans cette proposition par une de ces
+explosions irrégulières de générosité et de sentiment qui rachètent ces
+siècles ténébreux du reproche de barbarie complète. Il sauta de son
+cheval, s'agenouilla devant Swinton et lui dit : « Je n'ai pas encore
+reçu la che« valerie, et jamais je ne pourrai recevoir cet hon« neur de
+la main d'un chef plus loyal et plus vail« lant que celui qui a tué mon
+père. Accordez-moi le « don que je requiers, et unissez vos forces aux «
+miennes, afin que nous puissions vivre et mourir « ensemble. »</p>
+<p>C'est un grand triomphe de l'esprit chevaleresque sur les sentiments
+naturels du cœur humain, et sur ces vengeances de famille si puissantes
+et si acharnées dans le pays où se passe la scène.</p>
+<p>La chevalerie était donc une réalité, on n'en saurait douter ; en même
+temps elle était un idéal ; il y avait une chevalerie dans la société et
+une chevalerie dans les livres, agissant el réagissant l'une sur l'autre.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Cette science amoureuse, cultivée et perfectionnée dans les pays de
+langue provençale, avait, comme une véritable science, sa terminologie,
+sa nomenclature.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Tels sont les divers théâtres sur lesquels la cheva-</p>
+<p><pb/></p>
+<p>Cette succession que nous ont présentée ces trois écrivains, nous la
+retrouverons dans d'autres monuments de la littérature du moyen âge. Les
+deux grands cycles épiques, celui de Cliarlemagne et celui de la
+TableRonde, se rapportent aux deux grandes périodes de la chevalerie.
+Les poëmes du cycle de Charlemagne peignent en général la chevalerie
+guerrière dans sa grandeur, dans sa sévérité, quelquefois dans sa
+sauvagerie primitive, et les poëmes de la Table-Ronde, un grand</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>[Il</p>
+<p>SBNTIMKNTS C I ! E V A h E R K S Q U K S</p>
+<p>Après avoir envisagé la chevalerie dans son ensemble, j'en étudierai
+successivement les éléments principaux : d'abord ce qui forme la portion
+intérieure, l'âme de la chevalerie, savoir, les sentiments ; puis ce qui
+en forme la portion extérieure et comme le corps : les mœurs et les
+institutions.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>partout renfermée, peut être une esclave adorée, mais ne peut être ce
+qu'elle était au moyen âge, une sou- veraine, une dame, domina.</p>
+<p><pb/></p>
+<p>Il n'y a guère, en Orient, qu'une littérature qui pré-</p>
+<p><pb/></p>
+<p>A Rome, la femme intervenait davantage hors du cercle de la vie
+domestique; l'histoire romaine en offre quelques exemples assez
+remarquables, et l'on a Fait souvent observer que deux révolutions s'y
+accomplirent pour venger l'honneur d'une femme. La matrone romaine était
+plus haut placée que l'épouse grecque. Cependant plusieurs dispositions
+de la loi romaine attestent 1 infériorité de la position des femmes:
+dans le droit romain, l'épouse est considérée</p>
+<p><pb/></p>
+<p>comme la fille de son époux et la sœur de son fils.</p>
+<p>0 haine de Vénus ! ô fatale colère!</p>
+<p><pb/></p>
+<p>bidon meurt pour qu'once exécute l'onlre des dieux el pour que la
+destinée de Home s'accomplisse.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>munis spirituels qui empruntaient les furmes de la féodalité : le
+chevalier prêtait serment entre les mains de sa dame, comme le vassal
+entre celles de son seigneur; il devenait son homme lige. Le troubadour
+Peguilain le dit expressément. Un autre troubadour, taisant allusion à
+cette association des idées chevaleresques et de la féodalité, appelle
+sa dame beau sei- ffnejir, et déclare tenir d'elle terres et château. —
+On m'a reproché de confondre la chevalerie et la féodalité; je ne crois
+pas mériter ce reproche ; je crois distinguer ces deux choses qui sont
+fort différentes, quoique, dans plusieurs circonstances, comme dans
+celle-ci, elles offrent des points de contact ; la féodalité est
+l'histoire du moyen âge, et la chevalerie en est le roman, mais c'est un
+roman historique, Le premier axiome de la doctrine de l'amour
+chevaleresque, c'était l'incompatibilité absolue de cet amour avec le
+mariage. D'autre part, peu importait qu'une dame lut mariée, qu'un
+chevalier fut marié ; sans qu'il y eût le moindre sujet de scandale, la
+dame et le chevalier n'en contractaient pas moins un engagement
+indissoluble.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>« Dès ce moment dura sans fin l'amour de Gérard et de la reine l'un pour
+l'autre, sans qu'il y eût jamais de mal ni autre chose que tendre
+vouloir et secrètes pensées. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>gon pour le combattre. Il fit enterrer Cabeslaing et Marguerite devant
+la porte de l'église de Perpignan ; cl ce fut l'usage que les chevaliers
+du pays célébrassent le jour de leur mort, et que tous les vrais amants,
+hommes et femmes, priassent Dieu pour le salut de leur âme. Souvent
+l'indulgence et la sympathie sont poussées encore plus loin. L'auteur du
+poëme de Tristan prend constamment, contre le roi Marc, le parti de
+Tristan et d'iseult, malgré les reproches qu'ils ont il se faire; tous
+ceux qui ont le malheur de donner-au roi quelques avis de la conduite
+des amants sont traités, dans le récit, avec la dernière aigreur, et
+l'auteur ne manque jamais de remarquer que Dieu les a punis, et qu'ils
+ont fait mauvaise tin.</p>
+<p>L'exaltation de l'amour fut poussée jusque l'extravagance : ce qui se
+trouve dans les romans de chevalerie de plus insensé, je dirai presque
+ce qui se trouve de plus ridicule dans Don Quichotte, a été égalé dans
+la réalité. Un troubadour qui a eu des torts envers sa dame se fait
+arracher un ongle pour la désarmer.</p>
+<p>Elle exigeait cette étrange marque de son repentir.</p>
+<p><pb/></p>
+<p>Ulric de liichtensteiu ayant été blessé au doigt dans un tournoi
+entrepris en l'honneur de sa dame, et celle-ci ne voulant pas croire à
+la réalité de sa blessure, il prend le parti de se couper le doigt et de
+le lui envoyer. Bernard de Yentadour dit, dans une de ses poésies, que
+l'amour enflamme tellement son cunir, qu'il pourrait aller sans vêtement
+et n'être pas incommodé par le froid. Ce qui est ici une hyperbole
+ridicule a été presque complètement réalisé par toute une secte. Au
+moyen âge, de même qu'il y avait des mystiques de la religion, il y eut
+des mystiques de l'amour.</p>
+<p>Ceux-ci s'appelaient les Galois; c'était une association, une espèce de
+franc-maçonnerie amoureuse, composée d'hommes et de femmes ; pour
+montrer que l'amour était supérieur aux influences des saisons et des
+éléments, ils allumaient de grands feux pendant l'été, et l'hiver ils
+portaient des vêtements légers, si légers qu'un grand nombre moururent
+de froid aux pieds de leurs dames; c'est le dernier terme de
+l'exaltation, dépassant toutes bornes et aboutissant au plus parfait
+ridicule.</p>
+<p><pb/></p>
+<p>sein de la poésie qui en était l'organe. L'un des plus anciens
+troubadours, Marcabrus, blasphéma contre l'amour, et Raiinbauil de
+Vaqueiras osa dire, en propres termes, qu'on pouvait faire quelque chose
+de bien et de beau sans aimer.</p>
+<p>Ici doivent se placer aussi ces poésies satiriques se renouvelant à
+toutes les époques du moyen âge, qui attaquent l'amour chevaleresque et
+provoquent une vive polémique pour et contre les femmes. Celte polémique
+fut reprise au seizième siècle par Martin Lefranc, auteur du Champion
+des dames, et par ses adversaires. Ses deux derniers produits sont la
+satire un peu brutale de boileau contre les femmes et le poëme un peu
+fade de Legouvé en leur honneur.</p>
+<p>Ainsi, l' amour chevaleresque fut une véritable religion qui eut ses
+sectateurs, ses dogmes, sa morale, et, pour que rien n'y manquât, ses
+dissidents et ses hérétiques.</p>
+<p>IV</p>
+<p>M fF. lî 11 S C II K V I. E H F. S Q U F. S</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>La galanterie, dont le nom résonne maintenant comme un nom frivole, a
+été un élément de civilisation, a amené une amélioration immense dans la
+condition des femmes, et, par suite, dans toute la société.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>par son origine aux sentiments chevaleresques.</p>
+<p><pb/></p>
+<p>« Trois lances seront rompues avec tout chevalier (lui se présentera ;
+on tiendra pour rompue celle qui enlèvera un chevalier de la selle ou
+fera couler du sang.</p>
+<p>« Lorsque deux chevaliers ou plus viendront pour dégager le gant d'une
+dame, le premier sera seul admis.</p>
+<p>« Comme il y a beaucoup d'hommes qui n'aiment pas véritablement et
+pourraient désirer de dégager le gant de plus d'une dame, on ne le leur
+permettra point, et on ne rompra pas plus de trois lances avec chacun
+d'eux.</p>
+<p>« Le premier chevalier qui se présentera pour de gager le gant d'une
+dame, recevra un diamant.</p>
+<p>« Si un chevalier éprouvait un dommage dans sa personne ou sa santé,
+comme il arrive trop fréquemment au jeu des armes, je le soignerai comme
+moimême aussi longtemps qu'il sera nécessaire, et plus longtemps encore. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Un autre récit moins strictement historique, mais qui peint bien
+l'exaltation des sentiments chevaleresques, c'est l'histoire du vœu du
+héron, racontée</p>
+<p><pb/></p>
+<p>Ce qui achève de caractériser les mœurs chevaleresques, c'est l'empire
+qu'on leur voit exercer sur toutes les classes de la société.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>chevalerie qui s'en va. En effet, le mot patrie, qui n'existe pas
+encore, va être créé par Dubcllai, parce que le temps en est venu, et
+que les mots suivent les choses.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>héros, du politique et du soudard, plus que du chevalier.</p>
+<p>Au dix-septième siècle, la féodalité-parti qui venait d'être écrasée par
+Richelieu comme la féodalité-puissance l'avait été par Louis XI, voulut
+encore, avant de s'ensevelir sous les marches du trône de Louis XIV,
+produire sa chevalerie, et cette chevalerie posthume fut la fronde : les
+dames armèrent les combattants. Mais la fronde s'usa dans de petites
+ambitions et des aventures fort différentes des aventures chevaleresques.</p>
+<p>Son troubadour futScarron, et son épopée la Mazarinade. Cependant une
+portion des mœurs et des sentiments chevaleresques se conserva dans une
+société choisie, dans la société élégante et raffinée de l'hôtel
+Rambouillet, qu'on appela la société des précieuses.</p>
+<p>Là, les anciennes théories de l'amour et de l'honneur lurent de nouveau
+subtilisées, l'on en dressa des trailés et même des cartes
+géographiques, comme la carte de Tendre ; on put se croire retourné au
+temps des cours d'amour, et le terrible cardinal fit discuter devant lui
+des thèses de galanterie.</p>
+<p><pb/></p>
+<p>poésie chevaleresque et ceux de la poésie classique, qui a été le
+caractère dominant de notre scène.</p>
+<p>Il est resté pourtant après tout cela, et il reste encore une certaine
+empreinte des mœurs et des sentiments chevaleresques, qui, dit-on, \a
+s'effaçant tous</p>
+<p><pb/></p>
+<p>v</p>
+<p>INSTI TUT IONS r. II E V I.E I! ESQIîF.S</p>
+<p>Après avoir étudié la chevalerie dans les sentiments qu'elle a
+développés, dans les mœurs qu'elle a créées, je vais l'étudier dans les
+institutions qu'elle a produites; après avoir fait son histoire morale,
+je vais lâcher de faire son histoire politique.</p>
+<p>Le principe politique de la chevalerie était ce principe dont
+s'effrayent aujourd'hui nos lois, et qui était si puissant au moyen âge,
+l'association ; au moyen âge, elle était partout; les artisans se
+groupaient en confréries, les villes commerçantes formaient des ligues
+comme la ligue anséatique. La chevalerie elle-même était une grande
+association européenne, semblable</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ainsi la chevalerie constituait un état réel, formait une classe et un
+corps constitué dans l'Etal. Il y avait des règles pour être admis dans
+ce corps comme il y en avait pour être admis dans d'autres associations
+du moyen âge; il en était de la chevalerie comme des diverses
+corporations dans lesquelles il fallait passer par un certain noviciat
+avant d'avoir le titre de inailre; on prenait ses grades pour être
+chevalier comme pour être docteur.</p>
+<p>Quant au rapport de la chevalerie comme institution, avec l'autre grande
+et universelle institution du</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ce passage curieux montre qu'on reconnaît une diffé-</p>
+<p><pb/></p>
+<p>L'opinion de ces savants hommes s'accorde, comme on voit, avec les faits
+mentionnés plus haut, et montre que si la noblesse féodale a absorbé la
+chevalerie, et a Uni par être une condition de la chevalerie, il n'en
+fut pas ainsi dès l'origine.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Pour prouver que les sentiments chevaleresques furent le partage de la
+classe non féodale, il suffirait de rappeler le grand nombre de
+troubadours sortis de cette classe, qui, mieux que personne, ont éprouvé
+et exprimé ces sentiments. Bernard de Ventadour était fils d'un
+boulanger du château de ce nom ; Pierre Vidal, d'un corroyeur ;
+Péguilain, d'un marchand de draps; Perdigon, d'un pêcheur; Arnaud de
+Marveil, l'un des troubadours les plus distingués, pour qui le moyen âge
+n'a pas toujours été assez juste, était né de pauvres parents. Dans une
+pièce de vers, intitulée VEnseignement, est un passage remarquable sur
+les bourgeois : « Il en est qui ont beaucoup de belles qualités; ils
+sont aimables, bons, joyeux. (Joyeux est toujours employé pour désigner
+l'exaltation chevaleresque.) Lorsqu'ils ne sont pas trop riches, ils
+savent parler poliment; dans les cours, ils se montrent agréables et
+empressés de plaire; ils s'entendenl au</p>
+<p><pb/></p>
+<p>Dans certaines villes d'Allemagne, existait une grande bourgeoisie en
+lutte avec la noblesse féodale, et protégeant souvent contre elle les
+citadins et les marchands. C'était ce que l'on appelait des bourgeois
+chevaleresques, riUerliche biiryer. Ils étaient armés comme les
+chevaliers dont ils avaient les mœurs, et même ils fréquentaient les
+tournois.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Leur mobile était bien la générosité, la protection des faibles; car ils
+furent institués pour protéger les pèlc-</p>
+<p><pb/></p>
+<p>Les différentes phases de la vie des ordres religieux correspondent aux
+périodes successives que nous avons signalées dans la vie générale de la
+chevalerie ; ils commencent par l'enthousiasme le plus pur, le plus
+désintéressé, par un admirable dévouement de cha-</p>
+<p><pb/></p>
+<p>L'ordre belliqueux des chevaliers teutoniques, qui conquit une partie du
+nord de l'Europe, fut fondé par quelques Allemands de Brême et de
+Munster, qui se trouvaient au siège de Saint-Jean d'Acre, et qui, sous
+leurs pauvres tentes, couvertes d'une voile de vaisseau, recueillirent
+et soignèrent les pestiférés el. les blessés.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Enfin, les ordres chevaleresques prirent une dernière forme ;
+s'éloignant toujours de plus en plus de leur origine, ils devinrent de
+simples récompenses</p>
+<p><pb/></p>
+<p>militaires, et n'eurent plus rien des anciens ordres que le nom. Tel fut
+l'ordre de Saint-Louis; il périt avec les autres, au commencement de la
+révolution, dans une nuit d'enthousiasme, où tous les débris de la
+féodalité tombèrent sous les coups de la noblesse de France, aux
+acclamations des Montmorency et des Clermont-Tuflllerre. Mais ce qui est
+foindé sur une faiblesse si profonde du cœur humain, sur une faiblesse</p>
+<p><pb/></p>
+<p>J'ai suivi aussi loin que possible cette filiation des ordres
+chevaleresques pour montrer, par ces exemples, comment les institutions
+se conservent, se transforment, se perpétuent, se survivent, et, quand
+leur temps est passé, laissent comme un fantôme, qui n'est pas elles,
+mais qui porte encore leur nom.</p>
+<p>VI</p>
+<p>DES RAPPORTS DE LA CHEVALERIE AVEC I.</p>
+<p><pb/></p>
+<p>doit l'être un héros castillan, n'en a pas moins quelquefois une
+certaine velléité d'indépendance, et d'une indépendance qui se manifeste
+assez rudement. Dans le romancero, on le voit dans l'église de
+Saint-Pierre de Rome, en présence du pape, briser la chaise d'ivoire sur
+laquelle s'est assis l'ambassadeur de France, et, tirant son épée,
+parler au saint-père avec une arrogance qui l'épouvante un peu.</p>
+<p>Ce fait a tellement la portée que je lui donne, que don Quichotte le
+cite dans un cas analogue pour s'excuser de s'être attiré les anathèmes
+ecclésiastiques en</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Que fit l'Église? Ne pouvant annuler cette chevalerie qui lui disputait
+les âmes, elle voulut s'en emparer et se faire une arme favorable de ce
+qui était une arme agressive, trouver un appui dans ce qui était un
+obstacle.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Tous ces faits montrent l'association et souvent la confusion de l'idée
+du chevalier et de celle du prêtre.</p>
+<p><pb/></p>
+<p>C'est donc en quelque sorte un baptême chevaleresque.</p>
+<p>Ensuite, on place Saladin sur un lit de repos, qui représente le
+paradis. Hugues fait remarquer que les draps de ce lit sont d'une
+blancheur éclatante, en signe de la pureté prescrite au chevalier; puis
+il revêt le néophyte d'une robe vermeille, ce qui signifie, lui dit-il,
+que Votre sang devez espandre Et la sainte Eglise défendre.</p>
+<p><pb/></p>
+<p>Ensuite on lui enjoint l'observance de toutes les vertus chrétiennes. On
+lui recommande l'humilité, la pureté a plusieurs reprises, et eutin,
+après lui en avoir demande la permission, on lui donne la colée. Puis
+vient un code abrégé des principaux devoirs du chevalier, qui sont au
+nombre de quatre : d'abord la loyauté, ensuite le dévouement aux dames,
+qui dans tout ce poëme figurent peu, mais qui cependant y ont une petite
+place. Troisièmement, ce qui est plus dans le caractère du morceau,
+l'abstinence ; le chevalier doit jeûner et faire l'aumône; il doit aussi
+entendre la messe chaque jour. L'auteur conclut par un précepte sur
+lequel il insiste particulièrement ; le chevalier ne doit pas oublier
+l'offrande : Car moult est bien Polïïande assise Qui en la table Dieu
+esl uiise, Car elle porte granl vertu.</p>
+<p><pb/></p>
+<p>Enfin il conclut en énuuiêrant les honneurs qu'il faut accorder aux
+chevaliers qui défendent la sainte Eglise et les priviléges dont ils
+doivent jouir, entre autres celui d'occire quiconque manquerait de
+respect pour le service divin.</p>
+<p>peut-être le plus complètement toute la chevalerie, Cervantes a eu un
+sentiment très-juste et très-lin de</p>
+<p><pb/></p>
+<p>cette déplnisance que devait inspirer a l'église le côté profane des
+sentiments chevaleresques, cette espèce d'idolâtrie amoureuse qu'on
+opposait au culte divin.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Dans tout ceci, je n'ai examiné que les rapports extérieurs, pour ainsi
+dire, de la chevalerie, avec le côté extérieur aussi de la religion,
+avec l'Église ; c'est l'KgHsc et la chevalerie que nous avons vues,
+tantôt aux prises, tantôt conciliées par des arrangements plus ou moins
+heureux. Je n'ai pas parlé du christianisme en tant que principe
+intérieur de la chevalerie, àme de la vie chevaleresque ; c'est un autre
+point de vue, ce sont d'autres considérations auxquelles j'arrive.</p>
+<p>Car il s'agit maintenant, en distinguant les diverses sources de la
+chevalerie, et si j'osais dire ainsi, les divers ingrédients qui sont
+entrés dans sa composition, il s'agit de déterminer ce qui appartient au
+christianisme, ce qui appartient aux mœurs germaniques, ce que peuvent
+réclamer les influences de la civilisation l'omnine, en partie conservée
+dans le midi de la France, et enfin la part qu'on doit faire a l'action
+des Arabes sur la chevalerie de l'Occident.</p>
+<p><pb/></p>
+<p>vu</p>
+<p>DES INFI.UF.NC F. S QUI ONT PKHStDK A LA FOUVATION n I-: I. A C II F. Y
+A I. F. 111 F.</p>
+<p><pb/></p>
+<p>L'honneur même, qualité qui semble purement mondaine, a aussi un côté
+chrétien ; il y a une alliance inlime, profonde, entre l'honneur sans
+souillure, l'écu sans lâche du chevalier et la conscience sans reproche,
+la robe sans tache du néophyte.</p>
+<p><pb/></p>
+<p>code moral. L'histoire des premiers âges du christianisme offre des
+exemples d'affections chastes et tendres qui font pressentir ce
+sentiment épuré qui sera l'amour chevaleresque. Ce rapport étrange et
+attendrissant de quelques évoques avec les femmes qui avaient été leurs
+épouses, et qu'ils nommaient leurs sœurs; fait com-</p>
+<p>Le christianisme a donc été le principe des sentiments de la chevalerie;
+non-seulement il a été le principe de ces sentiments, mais quelquefois
+il a prescrit directement les vertus chevaleresques. Ainsi le concile de
+Clermont, en 1025, décréta que toute personne noble de plus de douze ans
+devait jurer l'observation de certains règlements devant l'évêque du
+diocèse.</p>
+<p>Elle promettait de défendre les faibles, de protéger les veuves, les
+orphelins, les femmes mariées et non mariées, et les voyageurs. Vous
+voyez le christianisme introduire dans les mœurs guerrières de l'âge
+féodal la chevalerie par la charité. Il faut donc considérer le
+christianisme comme la condition essentielle, comme l'âme même de la
+chevalerie. Maintenant, parcourons</p>
+<p><pb/></p>
+<p>rapidement les autres éléments qui ont pu entrer dans sa composition.</p>
+<p><pb/></p>
+<p>L'usage des tournois forme un trait dominant des mœurs chevaleresques ;
+or, les tournois ont certainement une origine germanique. On a abandonné
+l'opinion qui les faisait inventer tout juste en 1066 par un nommé
+Geoffroy de Preuilly. Ce Geoffroy les a régularisés, peut-être, mais il
+ne les a point inventés ; on trouve avant lui beaucoup de traces de ces
+divertissements guerriers.</p>
+<p><pb/></p>
+<p>se tuer chaque jour, et chaque jour de recommencer.</p>
+<p>On trouve même dans les usages chevaleresques certains vestiges des
+anciennes coutumes et de l'antique religion des peuples germaniques.
+C'est ainsi que les brillantes assemblées qu'on appelait cours
+pk'nières, et qui étaient toujours une occasion de tournois,</p>
+<p><pb/></p>
+<p>étaient placées d'ordinaire aux fêles de la Pentecôte.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Admettons qu'il faille y renoncer : les analogies établies plus haut
+n'en seront pas moins réelles ; il sera seulement plus difficile de les
+expliquer. J'ai cherché</p>
+<p><pb/></p>
+<p>Cet état violent et désordonné a fait prévaloir tous les instincts
+brutaux et a étouffé pour un temps les instincts meilleurs. Les
+sentiments chevaleresques dont le principe existait dans les bois de la
+Germanie, et qui semblent disparaître ensuite du sol occupé par les
+Germains, ont dormi pendant plusieurs siècles; il a fallu que des
+circonstances heureuses vinssent les réveiller. Ils ont dû ce réveil aux
+influences de la culture latine, conservée dans l'Europe méridionale, et
+notamment dans le midi de la France. Car, même en admettant comme moi
+que la chevalerie est surtout germanique, qu'elle a son fond dans les
+sentiments, sv dans les mœurs et dans l'institution germanique (et pour
+ce dernier point il n'y a pas de doute possible), il faut reconnaître
+qu'elle apparaît d'abord non pas en Germanie, non pas au nord de
+l'Europe, mais dans le midi, mais en Provence ; elle y apparaît avec un
+accompagnement de galanterie ingénieuse et de poésie</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Il y a entre la chevalerie musulmane et la chevalerie chrétienne une
+différence fondamentale, et qui, à</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>des compagnons de Pélnge, et dignes de porter le nom de peaux d'ours que
+se donnent ceux-ci dans les vieilles histoires.</p>
+<p>Pendant ce temps, sous Abdcram, la galanterie la plus délicate pénètre
+jusque dans les harems; ce prince composa des vers pleins de grâce et
+mêlés d'une certaine dévotion tendre, pour s'excuser d'avoir paré d'un
+collier précieux une belle esclave. Dans le même siècle, un autre roi
+maure, Mohamed, parle de son cœur blessé par l'amour contre lequel sa
+cuirasse ne le défend pas. Pendant ce temps, la chrétienté était loin de
+cette grâce et de ces raffincments, qui semblent devancer la poésie des
+troubadours. Au neuvième siècle, au lieu d'imaginer rien de semblable, à
+la cour de Charles le Chauve, Hukbald écrivait ce pédantesque et bizarre
+poëme dont chaque vers commence par un C. En Espagne, si l'on oppose les
+deux chevaleries et ceux qui les représentent, le contraste sera presque
+aussi grand ; le héros chrétien, c'est le Cid. Eh bien !</p>
+<p>le poëme qui le peint avec des couleurs si naïves, ne le représente pas
+écrivant des vers gracieux et galants, comme ceux que je viens de citer;
+le Campeador ne sait que monter sur son cheval Babieca, prendre des deux
+mains sa grande épée et pourfendre les Sarrasins. Vouloir faire sortir
+la sévère chevalerie castillane des commencements gracieux de la
+chevalerie arabe, ce serait faire naître un chêne d'une fleur : le chêne
+ne naquit pas de la fleur, mais la fleur fut sus-</p>
+<p><pb/></p>
+<p>pendue au chêne. On peut toujours reconnaître que la chevalerie
+castillane avait reçu en naissant le contact de sa gracieuse aînée. Le
+héros chrétien et castillan porte lui-même au front quelque reflet de la
+chevalerie musulmane. Plusieurs choses sont arabes chez le Cid, entre
+autres son nom ; et quand on ouvrit son tombeau, on trouva, dit-on, son
+corps enveloppé dans une étoffe de l'Orient.</p>
+<p>Les deux chevaleries se rencontrèrent une seconde fois aux croisades,
+personnifiées, l'une dans Richard Cœur de Lion, et l'autre dans Saladin
+; le contraste qu'elles offraient alors a été heureusement exprimé par
+Walter Scott, dans son roman de Richard en Palestine. A ce moment,
+toutes deux- se reconnaissent, pour ainsi dire, se saluent et s'honorent
+; la gloire de Melek-Rik est populaire parmi les musulmans ; la
+chrétienté s'empare de Saladin et en fait un chevalier.</p>
+<p><pb/></p>
+<p>d'alliance de fraternité, entre les deux civilisations, excita les
+plaintes de plusieurs graves personnages de ce temps.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Pour achever de déterminer le rôle que, dans ma pensée, jouent les
+différents éléments dont se compose la chevalerie : l'élément chrétien,
+l'élément germanique, l'élément romain et l'élément arabe, qu'on me
+permette d'employer une métaphore et de me représenter la chevalerie
+comme uu grand arbre : sa racine est chrétienne; le sol dans lequel elle
+plonge est le christianisme, base de la civilisation moderne; le tronc,
+les branches et la séve qui les anime sont germaniques. Ce tronc et ces
+branches ont été comme engourdis, comme recouverts d'une croûte glacée
+qui, pour un temps, a suspendu et paralysé la végétation, qui a engourdi
+la séve dans les rameaux, et cela pendant les siècles qui ont suivi la
+conquête germanique et par un effet de cette conquête. Pour que la séve
+qui était au cœur de l'arbre circulât de nouveau, il a fallu qu'il fût
+transporté dans un climat plus doux, sous un ciel meilleur. Il a trouvé
+ce ciel et ce terrain plus</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>siasme; par eux se fonde une religion de l'amour et de l'honneur,
+religion que personne n'a prêchée, qu'on dirait naître d'elle-même ; un
+esprit inconnu crée des sentiments nouveaux, enfante des mœurs, des
+institutions, une poésie nouvelle.</p>
+<p>Avec elle vous aurez supprimé une partie de Dante et tout Pétrarque,
+Cervantes, l'Arioste, le Tasse, Calderon, Lope de Vega ; vous aurez
+retranché de notre gloire dramatique la plupart des chefs-d'œuvre de</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>aussi haut dans l'histoire des grands siècles littéraires.</p>
+<p>La Révolution, qui a frappé le passé, a frappé tout ce qui venait de
+lui, dans la littérature et dans la société, et la chevalerie comme le
+reste. Après la Révolution, une voix s'est élevée encore ; celui dont le
+génie ranimait, dans le monde de la religion et de l'imagination , les
+traditions du moyen âge, a fait entendre</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Mais qui nous rendra la poésie? Quel enthousiasme nouveau remplacera
+cette forme évanouie de l'enthousiasme de nos pères? Quelle sera la
+chevalerie de l'avenir? Quelle institution viendra relever cette société
+qui languit et qui voudrait vivre, qui est fatiguée de ce qu'elle
+connaît et tourmentée de ce qu'elle attend'!</p>
+<p><pb/></p>
+<p>VUE GÉNÉRALE</p>
+<p>DE</p>
+<p>LA LITTÉRATURE FRANÇAISE</p>
+<p>AU MOYEN AGE</p>
+<p>En France, le moyen âge a son commencement, son milieu et sa fin. Le
+douzième siècle forme la période ascendante; dans le treizième est le
+point culminant,</p>
+<p><pb/></p>
+<p>La littérature elle-même suit un mouvement pareil, et offre trois
+périodes correspondantes aux trois périodes historiques que je viens
+d'indiquer. Dans la première, qui est la période héroïque, on trouve les
+chants rudes, simples, grandioses, des plus vieilles épopées
+chevaleresques ; en particulier, la Chanson de Roland.</p>
+<p><pb/></p>
+<p>souvenirs et d'imitations, dont l'ombre subsiste encore, reçoit un reste
+de vie dans la narration animée, mais diffuse et trop vantée, de Froissart.</p>
+<p>Aux trois phases littéraires, on pourrait faire correspondre trois
+phases de l'architecture gothique : celle du douzième siècle, forte,
+majestueuse; celle du treizième, élégante, et qui s'élève au plus haut
+degré de perfection; et, enfin, celle du quatorzième siècle, surchargée
+d'ornements et de recherche.</p>
+<p>Après avoir déterminé, dessiné, pour ainsi dire, le contour de la
+littérature française au moyen âge, et en avoir esquissé les principales
+vicissitudes, je vais présenter une vue rapide de ses antécédents, de
+ses rapports avec la littérature étrangère contemporaine, et enfin, de
+ce qui la constitue elle-même, des grandes sources d'inspiration qui
+l'ont animée et qui lui ont survécu.</p>
+<p>La littérature française du moyen âge n'a guère que des antécédents
+latins. Les poésies celtique et germanique n'y ont laissé que de rares
+et douteux vestiges; la culture antérieure est purement latine. C'est du
+sein de cette culture latine que le moyen âge français est sorti, comme
+la langue française elle-même a émané de la langue latine. Il est
+curieux de voir les diverses portions de notre littérature se détacher
+lentement et inégalement du fonds latin, selon qu'elles en sont plus ou
+moins indépendantes par leur nature respective.</p>
+<p>Il est des genres littéraires qui n'ont pas cessé d'être</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>mier exemple qu'on en peut citer, est le Discours sur la méthode; les
+Méditations elles-mêmes ont été écrites d'abord en latin, et traduites,
+il est vrai, presque aussilôt en français.</p>
+<p>L'histoire a commence, au moyen âge, par être une traduction de la
+chronique latine. Les deux grands ouvrages qui portent le nom de Roman
+de Brut et de Roman de Ron, ne sont que des translations en vers, l'un
+d'une chronique, l'autre de plusieurs. L'histoire hit un pas de plus;
+elle devient vivante, elle est écrite immédiatement en langue vulgaire,
+sans passer par la langue latine, et-ceci a lieu dans le midi comme dans
+le nord de la France, en provençal et en français, en vers et en prose,
+presque simultanément : en vers provençaux dans la chronique de la
+guerre des Albigeois si pleine de feu, de mouvement, de vie, si
+fortement "empreinte des sentiments personnels du narrateur, et, ci
+prose française, dans l'Histoire de Villehardouin, marquee d'un si beau
+caractère de vérité, de gravité, de grandeur.</p>
+<p>La plupart des autres genres de littérature n'ont pas une origine aussi
+complètement latine que ceux dont</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>qui n'ont pas d'antécédents latins, d'origine latine, qui surgissent
+spontanément dans la langue vivante et populaire du moyen âge.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>i Voir le travail précèdent sur la chevalerie.</p>
+<p><pb/></p>
+<p>t liique, on a voulu la faire arabe. Je crois volontiers qu'on a trouvé
+des ogives dans des mosquées trèsanciennes et jusque dans les ruines de
+Persépolis, de même que l'on en trouve en Italie dans les monuments
+étrusques ; mais l'ogive n'est pas l'architecture gothique ; cette
+architecture se compose de tout ce qui lui donne son caractère, et,
+prise dans son ensemble, elle porte trop évidemment le sceau de la
+pensée religieuse des populations chrétiennes, pour qu'on puisse
+chercher son origine hors du christianisme.</p>
+<p>Si les influences que nous avons reçues au moyen âge sont bientôt
+énumérées, il n'en est pas de même de celles que nous avons communiquées
+; le tableau des secondes serait aussi vaste que le tableau des
+premières est restreint. Nos épopées chevaleresques, provençales et
+françaises, ont été le type des épopées chevaleresques de l'Angleterre
+et de l'Allemagne, qui n'en sont en général que des traductions, tout au
+plus des reproductions un peu modifiées ; et il en a été ainsi
+non-seulement pour notre héros national, Charlemagne, mais même pour des
+héros qui ne nous appartiennent pas par droit de naissance, comme Arthur
+ou Tristan. Ces personnages, empruntés aux traditions étrangères, ont
+été plus tôt célébrés par notre muse épique qu'ils ne l'ont été dans les
+autres pays de l'Europe et dans la patrie même de ces traditions1.</p>
+<p>1 Les publications importantes que prépare M. de la Villemarqué
+restreindront peut-être cette assertion. (Note de l'auteur.)</p>
+<p><pb/></p>
+<p>Quand la Fontaine a retrouvé chez Boccace des sujets qui étaient
+originairement irançais, il n'a fait que reprendre notre bien.
+Dépouillant ces récits enjoués de l'enveloppe quelque peu pédantesque
+dont Boccace les avait affublés, il leur a rendu, comme par instinct,
+leur caractère primitif. Avec beaucoup d'art et de finesse, il a
+reproduit, en l'embellissant, la naïveté de ses modèles, qu'il ignorait.</p>
+<p>L'inspiration chevaleresque fut plus puissante en-</p>
+<p><pb/></p>
+<p>Certaines portions de l'Ancien Testament ont été transformées, pour
+ainsi dire, en récits chevaleresques; tels sont les livres des Rois et
+le livre des Machabées.</p>
+<p><pb/></p>
+<p>protège, et va au tournoi tenir la place de l'un d'eux, qui s'était
+onblié au pied de ses autels. La chevalerie pénètre même les fabliaux
+railleurs, et jusqu'au roman satirique de Renaît, Les héros quadrupèdes
+de ce roman sont représentés chevauchant, piquant leurs montures, et
+portant le faucon au poing, tant était inévitable et invincible la
+préoccupation de l'idéal chevaleresque. La chevalerie a envahi le drame,
+composé primitivement pour les clercs et pour le peuple. Il n'y a pas de
+drame chevaleresque au moyen âge, parce qu'il n'y a pas, pour les
+représentations théâtrales, de public chevaleresque. Mais l'empire des
+idées et des sentiments de la chevalerie est si fort, que, même dans ce
+drame, qui n'est pas fait pour les chevaliers, l'intérêt chevaleresque a
+souvent remplacé et effacé presque entièrement l'intérêt religieux,
+comme on peut le voir dans les miracles du quatorzième siècle.</p>
+<p><pb/></p>
+<p>1</p>
+<p><pb/></p>
+<p>Il est difficile de s'expliquer un semblable résultai.</p>
+<p><pb/></p>
+<p>mocratique contre le pouvoir régnant, la seconde par une jalousie
+aristocratique d'autorité. Il serait arrivé ici le contraire de ce qui
+se passe dans l'apologue du Peintre et du Lion, ce seraient les lions
+qui auraient été les peintres.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>niers temps, sous le nom de réhabilitation de la chair.</p>
+<p>Toutes les fois que la satire apparaît dans notre littérature française
+du moyen âge, c'est toujours avec</p>
+<p><pb/></p>
+<p>beaucoup de verve et d'énergie, avec un charme de naturel et un bonheur
+d'expression que les autres genres littéraires sont loin d'offrir au
+même degré.</p>
+<p>Pour les croyances, pour les formes sociales, comme pour certains
+malades, le rire c'est la mort ! c'est ce rire qui a tué le moyen âge,
+car de lui sont nées les deux forces destructives du seizième siècle,
+très-différentes l'une de l'autre par leur nature, mais qui avaient
+toutes deux pour caractère commun de combattre la société du moyen âge,
+en combattant l'Église sur laquelle reposait tout l'édifice de cette
+société; ces deux forces sont le protestantisme et l'incrédulité, les
+deux grands marteaux du seizième siècle ! Ce sont eux qui ont frappé sur
+l'édifice et qui l'ont brisé, c'est par eux qu'un autre temps, une autre
+civilisation, ont été possibles. Eh bien, tout cela a commencé par le
+sarcasme du moyen âge; et comment l'Église aurait-elle</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>puissance dévorante n'a pas péri non plus, et le dernier siècle n'en a
+que trop largement usé.</p>
+<p><pb/></p>
+<p>Et maintenant, nous poursuivons noire chemin comme le voyageur qui
+s'éveillc après la nuit et reprend sa route, éclairé par le soleil qu'il
+a vu se lever sur les montagnes.</p>
+<p><pb/></p>
+<p>POÉSIE DU MOYEN AGE</p>
+<p>LE ROMAN DE LA ROSE</p>
+<p>On l'a dit : rien n'est nouveau que ce qui est oublié.</p>
+<p>Cet axiome paradoxal devient plus vrai chaque jour.</p>
+<p><pb/></p>
+<p>C'est ainsi qu'ayant eu la patience de lire un livre autrefois fameux,
+mais rarement ouvert depuis trois siècles, un livre qui passe en général
+pour ne renfermer qu'une allégorie galante assez fade, le Roman de la
+Rose, j'ai été surpris d'y trouver, avec les fadeurs qui n'y manquent
+point, un mouvement d'idées scientifiques et philosophiques et une veine
+de satire assez remarquables pour me donner la confiance d'en entretenir
+le lecteur, me hâtant de profiter pour une telle entreprise, car c'en
+est une, de lire et d'analyser le Roman de la Rose, du répit, bien
+passager sans doute, que nous donnent en ce moment les chefsd'œuvre.</p>
+<p>Pendant longtemps, on n'a guère connu de notre poésie française du moyen
+âge que le Roman de la Rose, et encore n'en connaissait-on que le nom.
+Depuis une</p>
+<p><pb/></p>
+<p>D'autre part, tout en continuant de le citer souvent, on ne l'a pas lu
+davantage. En donner une analyse détaillée, c'est donc le publier pour
+ainsi dire. C'est entretenir le plus grand nombre des lecteurs d'un
+sujet qui sans leur être nouveau leur est étranger.</p>
+<p>Le Roman de la Rose est l'œuvre de deux auteurs et se compose de deux
+parties très-distinctes. Dans la première, Guillaume de Lorris eut pour
+but de représenter tous les effets et tous les accidents de l'amour,
+d'en faire un traité complet sous une forme allégorique, comme
+l'indiquent les deux vers placés en tête du poëme : Ci est le Roman de
+la Rose, Où l'art d'amour est toute enclose.</p>
+<p>Il ajoute : La matière est bonne et neuve.</p>
+<p>Bonne, soit; mais neuve, c'est autre chose. L'auteur</p>
+<p><pb/></p>
+<p>n'acheva pas son poème, qui, lui mort, fut repris et.</p>
+<p>continué dans un esprit entièrement différent par Jean de Meung.</p>
+<p>Guillaume de Lorris, auteur de la première partie du Roman de la Rose,
+commence son récit en nous disant qu'au vingtième an de son âge il eut
+un songe.</p>
+<p>« Il y a bien cinq ans, dit-il, c'était en mai, Quand toute chose s'égaie1.</p>
+<p>Quand l'on ne voit buisson ni haie</p>
+<p>1 Quand il a été nécessaire, pour être compris, de traduire le</p>
+<p><pb/></p>
+<p>Qui on mai parer ne se veuille Et couvrir de nouvelle feuille.</p>
+<p>Ici j'interromps le récit de l'auteur pour faire une observation que je
+crois essentielle. Si le poëme était composé au point de vue de la
+morale chrétienne, l'avarice et l'envie se trouveraient en la compagnie
+des autres péchés mortels. Au lieu des péchés mortels, l'auteur voit ici
+représentés les vices opposés aux qualités qui formaient le chevalier
+accompli : haine, contraire d'amour, félonie de loyauté, vilenie de
+noblesse, convoitise de tempérance, avarice de largesse, envie de
+générosité, et enfin vieillesse, qui n'est point un vice, est mise là
+comme étant le contraire de jeunesse, qui, dans le langage systématique
+des troubadours, exprimait non-seulement un des âges de l'homme,</p>
+<p><pb/></p>
+<p>mais la disposition morale qui le rend propre aux sentiments et aux
+vertus chevaleresques 1.</p>
+<p>Guillaume de Lorris, arrivé au pied du mur où les images sont peintes en
+or et en azur comme dans les vignettes d'un missel, entend
+d'innombrables oiseaux chanter derrière la muraille du verger. Il
+voudrait bien la franchir, mais point de pertuis, point d'échelle pour y
+pénétrer ; enfin il trouve un petit guichet fermé ; quand il a frappé
+longtemps, une noble et gente pucelle vient lui ouvrir, c'est Oiseuse
+(Oisiveté),</p>
+<p><pb/></p>
+<p>Qui la gorgelto eut aussi hlancho Comme est la neige sur la branche
+Quand il a fraîchement neigé.</p>
+<p><pb/></p>
+<p>Tout ensemble dire ne puis, Mais tout vous conterai par ordre.</p>
+<p>Que l'on n'y saclie que remorrlre.</p>
+<p>Déduit et Liesse formaient un couple charmant.</p>
+<p>Tous deux bien s'entr'aimaient, car il était beau, elle était belle,
+Rien ressemblait rose nouvelle A sa couleur.</p>
+<p>Elle eut lit bouche petitete Et pour baiser son ami prête.</p>
+<p><pb/></p>
+<p>faisaient tomber les feuilles. Auprès du dieu, qui est représenté comme
+un chevalier, un seigneur féodal, était son écuyer Doux-Regard portant
+les deux arcs de l'Amour, car il en a deux, et Voltaire n'a pas les
+honneurs de l'invention pour ce vers qui commence une tirade assez
+précieuse de Nanine : Vous le savez, l'amour a deux carquois.</p>
+<p>Simple fut comme une épousée EL blanche comme fleur de lis.</p>
+<p>A côté de Beauté sont Richesse et Largesse • Qui n'avait joie de rien
+Comme de pouvoir dire : Tiens !</p>
+<p>1 Cama, le Cupidon de la mythologie indienne, a au.^i cinq llcclies, qui
+représentent les cinq sens.</p>
+<p><pb/></p>
+<p>Toujours fuyant, il rencontre sous ses pas la fontaine où mourut le beau
+Narcisse, ce qui lui donne occasion de raconter l'histoire d'Écho, une
+haute dame dont Narcissus causa la mort 1, puis il avisé près de la
+fontaine d'Amour des rosiers chargés de roses. Un bouton le tente par sa
+fraîcheur et son parfum ; il étend la main pour le saisir. A ce moment,
+le dieu Amour, qui l'épiait toujours, lui décoche une flèche qui entre
+par l'œil et va au cœur. Le blessé ne peut retirer de son cœur la pointe
+acérée, qui avait nom Beauté. Cependant il s'avance de nouveau vers le
+bouton, dont la vue et le parfum sans plus allégeaient sa douleur ; mais
+Amour lui a bientôt lancé successivement quatre autres flèches.</p>
+<p><pb/></p>
+<p>El sur tout ce, si rien doutez, Faites-y ciel' et l'emportez.</p>
+<p>L'auteur nous apprend alors comment Amour ferma d'une petite clef , Le
+cœur de l'Amant par tel guise (en telle façlJlI) Qu'il n'entama point la
+chemise.</p>
+<p><pb/></p>
+<p>joie, dans le langage établi par les troubadours, exprimait l'exaltation
+et les vertus chevaleresques1.</p>
+<p>Comme l'ait qui a mal aux deiits.),</p>
+<p><pb/></p>
+<p>Tous ces venirs, tous ces allers, Tous ces veillers, tous ces parlers,
+Font des amans dans leurs liouseaux Cruellement maigrir les peaux.</p>
+<p>11 n'en est pas de même des faux amoureux, Qui vont les dames
+trahissant, Qui disent pour les engager Perdre le boire et le manger, Et
+que je vois, les enjôleurs.</p>
+<p>Plus gras qu'abbés ou que prieurs.</p>
+<p><pb/></p>
+<p>Ce quoi qu'il m'en die est d'une assez grande délicatesse, et n'a
+d'autre inconvénient que de faire penser au charmant quoi qtCon die de
+Trissotin. J'espère cependant qu'on ne confondra pas mon admiration avec
+celle de Bélise et de Philaminte.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Qui aime ne sçauroit bien faire</p>
+<p>La peine eu esl démesurée, Et la joie a courte durée; Qui joie en :l,
+bien peu lui dure, Et l'avoir c'est grande aventure.</p>
+<p>Or, mets l'amour en nonclialoir Qui te fait vivre et non valoir.</p>
+<p>Mais l'Amant ne se laisse point persuader, et maintient les saines
+doctrines amoureuses. Il a baillé hommage au dieu Amour; il lui
+appartient, il doit lui demeurer Hdèle; il voudrait mourir avant
+qu'Amour l'accuse de fausseté el de trahison; il s'écrierait volontiers
+comme le Cid :</p>
+<p>L'infamie est pareille el suit également Le guerrier sans courage et le
+perfide amant.</p>
+<p>Raison est obligée de se départir, car elle voit bien qu'elle ne gagnera
+rien par ses discours</p>
+<p><pb/></p>
+<p>L'Amant tout affligé se souvient alors qu'Amour lui a dit de chercher un
+compagnon pour lui confier ses peines; il le trouve, ce compagnon loyal
+qui s'appelle Ami. C'est lé type du confident, de ce personnage obligé
+des romans de chevalerie, et qui, comme tant d'autres choses, a passé de
+ces romans dans notre tragédie, où sa présence, quelquefois assez
+fastidieuse, ne s'explique et ne se justifie un peu que par cette
+origine. Dans le roman de Cléopâtre, le princn Tiridate ne fait jamais
+un pas sans être accompagné j de ses deux confidents.</p>
+<p>Ami relève le courage de l'Amant en lui donnant l'espoir qu'il pourra
+attendrir le terrible Dangier.</p>
+<p>Bien humblement il s'en va vers le félon qu'il trouve l'air farouche et
+menaçant, En sa main un bâton d'épine.</p>
+<p>L'Amant lui crie merci, proteste qu'il ne fera jamais rien qui lui
+déplaise; Souffrez que j'aime seulement.</p>
+<p>Aime tant qu'il te plaira, mais n'approche pas de mes roses. — Les
+choses vont ainsi pendant quelque</p>
+<p><pb/></p>
+<p>temps ; l'Amant regarde les roses par-dessus la haie qu'il n'ose
+franchir ; ses plaintes et ses soupirs n'attendrissent point
+l'impitoyable gardien.</p>
+<p>En Allemagne, frau Venus *, était un personnage populaire; espèce de
+diable féminin, Circé moderne, type des Alcines et des Armides, elle
+avait sa montagne, Venus-Bery, et dans cette montagne un séjour enchanté
+vers lequel on était attiré par des chants délicieux, et d'où l'on ne
+pouvait plus sortir après qu'on s'était hasardé d'y pénétrer 2. Vénus
+figure ici parmi</p>
+<p>1 Voir Grimm, Deutsche Saaen.</p>
+<p>t Ailleurs le moyen âge s'était approprié la divinité païenne et en
+avait fait un personnage un peu différent. Pour un poëte</p>
+<p><pb/></p>
+<p>espagnol du quatorzième siècle, Vénus n'est pas la mère de l'Amour mais
+son épouse : Segnora dona Venus muger de don Amor.</p>
+<p>(UArckiprêtre de Hila, copt. 559.)</p>
+<p><pb/></p>
+<p>meiller ; elles lui reprochent sa négligence et sa paresse, et le pauvre
+Amant voit devant lui une perspective plus triste que jamais.</p>
+<p>Or (maintenant) reviendront pleur et soupir Kl longue pensée sans dormir.</p>
+<p>En effet, Jalousie construit sa forteresse, qui est décrite avec détail
+et accompagnée de tous les accessoires d'une place forte du moyen âge.
+Jalousie y met garnison ; Honte, Peur, Mauvaise-Langue, gardent 1rs
+portes ; Bel-Accueil demeure prisonnier dans la tour, où une vieille
+surveillante l'épie et le guette incessamment, et l'Amant se désespère.</p>
+<p>Ici s'arrête le récit de maître Guillaume deLorris.</p>
+<p>L'ordre dans lequel les divers incidents du poëme se succèdent est
+heureux : il y a de la finesse dans le rôle de Bel-Accueil, qui
+encourage et qui retient, de Dangier, que désarment Franchise et Pitié,
+mais qui,</p>
+<p><pb/></p>
+<p>réveillé par Jalousie, revient plus redoutable, de Honte, qui blâme tout
+bas Bel-Accueil en l'excusant.</p>
+<p>L'apparition de Raison est bien placée dans le moment où l'Amant lui
+donne beau jeu par sa déconvenue.</p>
+<p><pb/></p>
+<p>Mais, sans aller si loin, il est certain que cette manie de mettre
+l'amour en allégorie ne s'est pas arrêtée lit.</p>
+<p>Doux-penser, Doux-Parler sont des pièces d'horlogerie.</p>
+<p>Folle Largesse le fonda.</p>
+<p><pb/></p>
+<p>On raconte aussi qu'en mourant Jean de Meung laissa aux jacobins de
+Paris, sous la condition d'être</p>
+<p><pb/></p>
+<p>enterré par eux, un coffre qui était censé contenir tout son avoir, et
+que l'enterrement fait, le coffre, ayant été ouvert, se trouva ne
+renfermer que des ardoises couvertes de figures de géométrie, dernière
+espièglerie faite par notre poëte aux moines, qu'il avait tant attaqués
+dans ses vers. Tel était l'homme, telle était du moins l'opinion qu'on
+avait de lui. Fausses ou vraies, ces deux anecdotes montrent ce dont on
+le croyait capable. Jean de Meung était donc un gausseur sans respect
+pour les femmes et pour les religieux. 11 y paraîtra dans son livre.</p>
+<p>1 Lit :-mênw nous donne la liste de sos écrits dans la préface</p>
+<p><pb/></p>
+<p>1 L'Amour, tom. 11, pag. 305, dans un passage curieux, où il prophétise
+la naissance du Roman de la Rose, parle de Guillaume de Lorris comme
+vivant et de Jean de Meung comme n'étant pas né; d'autre part, celui-ci
+dit avoir entrepris sa continuation quarante ans après la mort de
+Guillaume (pag. 504) : il avait donc moins de quarante ans quand il a
+écrit.</p>
+<p><pb/></p>
+<p>endroits âpre, lourd, obscur. Le mérite de la première partie du Roman
+de la Rose, c'était la grâce et la finesse; le mérite de la seconde,
+c'est la vigueur et l'audace. C'est un joyeux moine qui prend la parole
+après un troubadour dameret. On croit voir l'aimable Jehan de Saintré
+remplacé ainsi qu'il le fut dans le cœur de la Dame des Belles Cousines
+par un rival robuste et gaillard comme Damp abbé.</p>
+<p>Je vais continuer l'analyse du Roman de la Rose.</p>
+<p>Les difficultés augmentent en avançant, car Jean de Meung, au lieu de
+suivre, comme son devancier, le fil du récit, s'en écarte sans cesse
+pour aller chercher une foule de narrations, d'enseignements, de
+digressions épisodiques; bien souvent il oublie son sujet pour traiter
+de tous les sujets ; il intercale des allégories dans les allégories,
+des histoires dans les histoires1. Jean de Meung a dit : Bon lait
+prolixité fuir.</p>
+<p>Jamais auteur n'observa plus mal son propre précepte: mais, parmi cette
+multitude d'épisodes, nous trouverons des passages beaucoup plus curieux
+et même des morceaux de poésie beaucoup mieux frappés que tout ce qu'a
+pu nous offrir le doucereux Guillaume de Lorris. Selon M. Leroux de
+Lincy, ce dernier avait ter-</p>
+<p>1 Cette surabondance de digressions et d'épisodes a encore été augmentée
+par les interpolations des copistes, interpolations dont se plaint
+Étienne Pasquier.</p>
+<p><pb/></p>
+<p>Au moment où commence le récit de Jean de Meung, l'Amant est au pied de
+la tour où Bel-Accueil est enfermé. Ce ne sont plus les molles effusions
+et les tendres désespoirs auxquels Lorris nous avait accoutumés; Jean de
+Meung s'annonce par un accent plus résolu. Le désespoir ne va point à
+l'humeur délibérée du joyeux continuateur ; au contraire, il se
+réconforte par l'espérance. Sur ces entrefaites reparaît Raison,
+personnage qui semble de son goût plus qu'il n'était</p>
+<p><pb/></p>
+<p>du goût de Lorris. Il l'appelle l'avenante, la belle, el l'écoute avec
+beaucoup de complaisance et de patience, car elle parle longtemps.
+Raison, qui discourt comme un scolastique, étale une longue suite
+d'antithèses sur l'amour et conclut par ces deux vers d'une concision
+énergique : Si lu le suis, il le suivra, Si tu Le fuis, il te luira.</p>
+<p><pb/></p>
+<p>Et l'ait tous les méchants veiller Et soucier et travailler.</p>
+<p>Il y a des vers hardis sur le roi, qui n'est pas le mailre de ses
+hommes, mais plutôt est leur, qui leur appartient :</p>
+<p>Car, quand ils voudront, Leur aide au roi retireront; Et le roi tout
+seul restera Sitôt que le peuple voudra.</p>
+<p>Une véritable discussion scolastique s'engage entre Raison et l'Amant,
+devenu dialecticien. — Lequel vaut mieux, dit-il, de cet amour dont vous
+parlez ou de la justiec?</p>
+<p>RAISON.</p>
+<p>La bonne amour mieux vaut.</p>
+<p>L'AMANT.</p>
+<p>Prouvez.</p>
+<p>RAISON.</p>
+<p>Volontiers.</p>
+<p>Et l'argumentation s'engage dans les formes. Raison fait son syllogisme,
+et l'Amant dit encore : Prouvez, avant d'aller plus loin.</p>
+<p><pb/></p>
+<p>Mais l'Amant se lasse bientôt des discours de Raison et le lui confesse
+ingénument. Raison, piquée, le quitte; il se ressouvient alors d'Ami,
+son confident.</p>
+<p>Ami, qui a de l'expérience, lui promet qu'il reverra Bel-Accueil :</p>
+<p>Puisque tant s'est aballdolllll".</p>
+<p>Que le baiser vous fut donné, Jamais prison ne le tiendra.</p>
+<p>« Agenouillez-vous, dit-il, les mains jointes, et pleurez; et si vous ne
+pouvez pleurer véritablement, simulez les larmes, écrivez, gagnez les
+portiers du castel. » La</p>
+<p><pb/></p>
+<p>Sitôt a faite sa vesprée (soirée), Comme florettes eu la prée (la prairie).</p>
+<p><pb/></p>
+<p>Zéphirus et Flora sa l'ennne, Qui des Heurs est déesse et dame.</p>
+<p>Alors l'amour était libre et le mariage n'existait pas.</p>
+<p>Mieux m'eût valu nVêtre allé pendre.</p>
+<p>Le jour où je dus femme prendre.</p>
+<p>Un grand vilain entre eux élui ent Le plus ossu de quant qu'ils turent.</p>
+<p><pb/></p>
+<p>La hardiesse tant vantée du vers de Voltaire : Le premier qui fut roi
+fut un soldat heureux.</p>
+<p>doit s'humilier devant celle de Jean de Meung. Au fond c'est la même idée.</p>
+<p><pb/></p>
+<p>L'Amant se hâte de promettre qu'il ne l'écoutera plus; Amour, content de
+lui, promet d'entreprendre le siége du château ou Bel-Accueil est
+entcrmé. En effet, Toute sa baronie il mande, Les uns prie, aux autres
+commande.</p>
+<p>Distinction qui devait trouver son application dans les mœurs féodales.</p>
+<p>Amour harangue ses barons, et, dans cette harangue, Jean de Meung fait
+prédire la composition du Roman de la Rose et sa propre naissance ; les
+barons répondent aux exhortations de leur chef en exposant le plan de la
+bataille. Faux-Semblant et sa compagne</p>
+<p><pb/></p>
+<p>Il serait bon qu'on la mandât, Car la besogne en amendât.</p>
+<p>Qui les mondains honneurs convoitent,</p>
+<p>Les grandes affaires exploitent, Qui cherchent les grandes pitances, Et
+pourchassent les accointances</p>
+<p><pb/></p>
+<p>Des hommes puissants, et les su i vent, Se font pauvres et pourtant
+vivent De lions morceaux délicieux, Et boivent les vins précieux ; Qui
+la pauvreté vont prêchant, Et les richesses vont pécha ni.</p>
+<p>Et il ajoute ce vers prophétique de In ré l'orme Par mon chef grand mal
+en Ùelldril.</p>
+<p>Il poursuit : La robe ne fait pas le moine.</p>
+<p>Les œuvres regarder devez Si vous n'avez les yeux crevés.</p>
+<p>Faux-Semblant, qui est ici l'interprète de la pensée de l'auteur,
+conclut qu'on peut se sauver sans prendre l'habit religieux. Presque
+toutes les saintes, dit-il, Qui par l'Église sont priées, Chastes
+vierges ou mariées Qui maints beaux enfants enfantèrent.</p>
+<p>Les habits du siècle portèrent.</p>
+<p>Et en ces vêtements moururent.</p>
+<p>Qui saintes sont, seront et furent.</p>
+<p>Car bon cœur fait la pensée bonne.</p>
+<p>Robe ne l'ôte ou ne la donne.</p>
+<p>Bientôt Faux-Semblant rentre dans son caractère, et se peint dans les
+vers suivants pleins d'une remarquable verve :</p>
+<p><pb/></p>
+<p>Ou bien je prends robe de femme Et je suis demoiselle ou dame ; D'autres
+fois je suis religieuse,</p>
+<p>Je suis nonnain, je suis abbesse, Je suis novice ou bien professe Et
+vais par toutes régions.</p>
+<p>Courant toutes religions1, Mais de religion sans faille (faute) Je
+prends le grain, laisse la paille.</p>
+<p>Faux-Semblant continue sur ce ton, puis il adresse an dieu Amour,
+entouré de sa baronnie, et représentant ici le pouvoir civil, un défi au
+nom du pouvoir enclésiastique, qui, dit-il,. m'a clélié de tous mes
+liens, défi dans lequel il est difficile de ne pas reconnaître une
+allusion aux démêlés contemporains de la tiare et de la couronne.
+Faux-Semblant exprime énergiquement son défaut de charité pour les
+malheureux : Quand je vois tous nus ces truans Trembler sur leurs
+fumiers puans.</p>
+<p>De froid, de laim crier et braire.</p>
+<p>1 Tous les ordres monastiques.</p>
+<p><pb/></p>
+<p>Ne m'entremets de leur affaire.</p>
+<p><pb/></p>
+<p>des invectives contre ceux qui veulent l'empêcher de mendier, et termine
+par ces vers très-expressifs : Trop a (il y a) grant peine en laborer (à
+travailler), J'aim'mieux devant les i;cns orer (prier) Et affubler nia
+renardie Du manteau de papclardie.</p>
+<p>El après cette profession d'impiété, Faux-Semblant ose déclarer qu'il
+s'est fait ordonner prêtre, et ajoute: Suis le curé de tout le monde, De
+rapostolt. (du pape) en ai la bulle.</p>
+<p>Puis, parlant évidemment au nom des ordres mendiants, Faux-Semblant
+s'exprime comme plus lard il eût pu le faire au nom de l'ordre qui les
+remplaça au seizième siècle. « Je confesse les empereurs et les rois,
+les reines et les grandes dames. Je m'enquiers de toutes leurs actions ;
+ceux que nous savons être contre nous, nous les haïssons fortement, et
+nous nous accordons pour les combattre. Celui que l'un de nous hait, les
+autres le haïssent : s'il a quelque succès, nous le diffamons
+traîtreusement ; nous coupons les échelons de l'échelle par laquelle il
+peut monter. Si</p>
+<p><pb/></p>
+<p>l'un de nous a fait quelque bien, nous le tenons pour l'œuvre de tous.</p>
+<p>Nous sommes, ce vous fais savoir.</p>
+<p>Ceux qui ont tout sans rien avoir.</p>
+<p>Peut-on mieux résumer la toute-puissance des ordres mendiants? Encore
+aujourd'hui, dans certaines parties de l'Italie, landis que la plupart
+des ordres religieux les mieux dotés déclinent, les franciscains seuls
+sont florissants. Ils ont tout parce qu'ils n'ont rien.</p>
+<p>Us ont par accord devisé Qu'ils s'en iront en tapinagc (tapinois).</p>
+<p>Ainsi qu'en un pèlerinage En bonne gent piteuse et sainte.</p>
+<p>Abstinence-Contrainte s' ((tourne comme une béguine, Son psautier mie
+n'oublia.</p>
+<p>Faux-Semblant, de son côté, prends des habits de moine.</p>
+<p><pb/></p>
+<p>A sou col portail une Hiltle.</p>
+<p>Son rasoir dans sa manche, Faux-Semblant, qui s'appellera un jour
+Jacques Clément, s'approche avec sa compagne du pauvre Mauvaise-Langue,
+qui est aussi un bon père, car il s'est l'ait jacobin. Les deux traîtres
+le saluent bien humblement, et lui eux.</p>
+<p>Sire, dit Contrainlo-Alislinence, Pour faire notre pénitence Nous sommes
+venus pèlcrins.</p>
+<p>« Accordez-nous le gite, nous voulons vous convertir, et s'il ne vous
+déplait, vous faire un bon sermon en peu de paroles. »</p>
+<p>Mauvaise-Langue écoule un long discours de dame Abstinence-Contrainte
+contre le mensonge et la médisance; elle lui reproche le tort qu'il a
+fait par ses méchants rapports au pauvre Bel-Accueil. Après elle,
+Faux-Semblant prend la parole et affirme que l'Amant est un grand ami de
+Mauvaise-Langue et ne se soucie point de Bel-Accueil. Mauvaise-Langue
+est con-</p>
+<p><pb/></p>
+<p>vaincu par les discours des deux traîtres. « Que me conseillez-vous de
+faire? leur dit-il. » Faux-Semblant reprend : « frère, confessez-moi vos
+péchés, je vous donnerai l'absolution, car je suis prêtre aussi bien que
+moine. » Mauvaise-Langue alors se baisse, Et s'agenouille et se confesse.</p>
+<p><pb/></p>
+<p>Heurs et les respects de l'Amant, dont elle loue la discrétion, le
+courage et la libéralité. « Prenez, ditelle, ces fleurs qui flairent
+mieux que baume. » BelAccueil, tout tremblant et tout agité, les
+voudrait bien prendre, mais ne l'ose faire. Il a peur de Jalousie, qui,
+si elle voit les fleurs, le tuera. Que feraije si elle me demande d'où
+elles me viennent?</p>
+<p>Réponses aurez plus de vingt,</p>
+<p>1 Quel dolor au cuer (cœur) me tenoit Quand en pensant me souvenoit Des
+biaux dits, des doux aisiers (contentements) Des doux déduits, des doux
+besiers, Et des t.rès-douces acolées, Qui s'en ierent (sont) sitôt
+volées (emolécsi, Volées, voire (vraiment), et sans retor.</p>
+<p><pb/></p>
+<p>périence. D'abord elle raye des commandements de l'Amour celui qui
+prescrit la générosité et celui qui veut qu'on n'aime qu'en un lieu. «
+Gardez-vous, ditelle, de donner votre cœur ou de le prêter, mais
+vendez-le au plus haut prix possible, et chaque jour enchérissez. »</p>
+<p>Surtout observez ces deux points : A donner avez clos les poings, Et à
+prendre les mains ouvertes.</p>
+<p><pb/></p>
+<p>Elle s'élève contre la loi Qui les ôte de leur franchise Où Nature les
+avait mises, Car Nature n'est pas si sotte Que de faire naître Marotte
+Tant seulement pour Robichon,</p>
+<p>Ni Robichon pour Mariette.</p>
+<p><pb/></p>
+<p>Ni pour Agnès ni pour Perrette, Mais nous a faits, beau fils, n'en
+cloutes, Toutes pour tous el tous pour toutes, Chacune pour chacun
+commune, Et chacun commun pour chacune.</p>
+<p><pb/></p>
+<p>que et philosophique introduit dans le corps de la narration
+allégorique. C'est ainsi qu'un traité de métaphysique panthéiste, le
+BhagavllllgîW, inséré dans le corps du Mahâbhârata, l'une des deux
+grandes épopées de l'Inde, interrompt le récit précisément de la même
+manière, c'est-à-dire au moment où va commencer un combat.</p>
+<p>Mais la Mort les atteint et les immole tous. Celte Mort</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Car l'on peut bien souvent voir Des vapeurs les pierres choir.</p>
+<p>Ces idées ont une grandeur qui étonne. L'expression large et simple
+rappelle les beaux vers philosophiques de Dante; il est rare que Jean de
+Meung et en général les poëtes français du moyen âge s'élèvent jusque-la.</p>
+<p><pb/></p>
+<p>Les substances, selon leur poids, se distribuèrent dans les régions
+haute, basse, ou moyenne de l'élendue.</p>
+<p><pb/></p>
+<p>planètes qui suivent leurs cours et conservent éternellement leur clarté. »</p>
+<p><pb/></p>
+<p>nécessairement prédéterminé, la volonté est esclave, il n'y a plus ni
+bien ni mal moral, on ne peut donc adopter l'opinion de ceux qui disent
+que, par cela qu'une chose est possible, elle est nécessaire.
+Soutiendra-t-on que les choses n'arrivent pas parce que Dieu les a
+prévues, mais qu'il les a prévues parce qu'elles devaient arriver? C'est
+affaiblir la prescience de Dieu que de faire ainsi dépendre d'autrui sa
+connaissance :</p>
+<p>C'est rabaisser encore plus la grandeur de Dieu que de dire qu'il sait
+seulement d'un fait futur qu'il sera ou ne sera pas. Dieu sait
+nécessairement tout ce qui sera , mais les faits ne sont point parce que
+Dieu les sait d'avance, et ce n'est pas parce qu'ils sont qu'il les a
+prévus. De même que nous ne déterminons ni n'empêchons une action parce
+que nous savons qu'elle a eu lieu, de même que nous ne la déterminerions
+ni ne l'empêcherions si nous savions d'avance qu'elle aura lieu, la
+connaissance qu'a Dieu des décisions futures du libre arbitre ne le
+contraint point.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1 Nom d'un follet féminin.</p>
+<p>- Et les forces des imréoirs.</p>
+<p>Qui tant ont merveilleus pooirs (pouvoirs1, Que toutes choses
+très-petites Letres gresles, très-loin escrites, Et poudres de sablons
+menues Si grans si grosses sont veues, Et si pres mises as mirens (aux
+spectateurs), Que chacun les puet choisir ens (apercevoir) Que l'on les
+puet lire et conter.</p>
+<p><pb/></p>
+<p>Par moi naissent pareils et nuds,</p>
+<p><pb/></p>
+<p>Forts et faibles, gros et menus Tous les Inets en égalité.</p>
+<p>Et poursuivant sur ce ton, notre poëte dit, après Ju vénal et. avant.
+Boileau, nul n'est noble s'il n'est vertueux :</p>
+<p>'Nul n'est vilain fors par ses vices, N'oblesse vient de bon courage (do
+bon crpur).</p>
+<p>Car gentillesse de lignage (noblesse) N'est pas gentillesse qui vaille
+Si la bonté de cœur y faille.</p>
+<p>Nature, poursuivant son discours, dit. encore une fois : « Je ne me
+plains pas des éléments, des plantes et des animaux, tous m'obéissent,
+tous exécutent do..</p>
+<p><pb/></p>
+<p>et de la perpétuité des espèces, et sa colère est particulièrement
+tournée contre les puissances ennemies de l'Amant, et qui s'opposent à
+son entreprise. C'est par ce singulier détour que nous rentrons dans le
+sujet du poëme, qui désormais sera traité d'un point de vue - tout
+physique, ce qui me forcera d'abréger singulièrement mon analyse.</p>
+<p><pb/></p>
+<p>Mais, chose incroyable, cet accès de mysticisme ne ne fait pas perdre à
+Genius le but de son sermon, car, dit-il, pour mériter ce paradis,
+Pensez de Nature honorer, Servez-la par bien laborer (travailler).</p>
+<p><pb/></p>
+<p>Ainsi j'eus la Rose vermeille, Alors fut jour et je m'éveille.</p>
+<p>Tel est le Roman de la Rose. Je crois avoir le premier montré toute la
+portée de cet ouvrage célèbre.</p>
+<p>La première chose qui a dû frapper le lecteur, c'est la verve et la
+hardiesse satirique avec laquelle Jean de Meung attaque les deux objets
+de la religion du moyen âge, les prêtres et les femmes. Cependant cette
+har-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>L'amour chevaleresque, le culte des dames était, comme je l'ai dit, la
+seconde religion du moyen âge, et cette orthodoxie eut ses dissidents
+aussi bien que la première. Jean de Meung, on l'a vu, se signala d'une
+façon toute particulière dans ce genre d'hérésie, qui n'est pas non plus
+inconnu aux autres littératures du moyen âge, et qui marque partout la
+décadence de cette civilisation dont la chevalerie fut l'âme. A la fin
+du treizième siècle, le beau temps de la galanterie chevaleresque était
+passé. La poésie, fidèle écho des sentiments et des mœurs, après avoir
+célébré les femmes lorsqu'elles avaient l'empire, les insultait alors
+comme une puissance tombée.</p>
+<p><pb/></p>
+<p>hauteur d'expression. Dans un passage où le pocle traduit Platon, il
+exprime ainsi comment Dieu embrasse d'un regard unique les trois formes
+du temps, le passé, le présent et l'avenir. Dieu voit, dit-il.</p>
+<p>La triple temporalité</p>
+<p>Sous un moment d'éternité.</p>
+<p>Ceci est tout simplement sublime.</p>
+<p>Parmi les recueils de poésies didactiques et encyclopédiques du moyen
+âge, il en est peu, on l'a vu, qui contiennent des faits scientifiques
+plus curieux et</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Qu'en bien aimer soit son penser.</p>
+<p>Plus on avance vers l'époque où les croyances affai-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>On ne sera plus surpris qu'il ait eu de son temps une si grande vogue et
+causé un si grand scandale.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>JOÏNVIL LE</p>
+<p><pb/></p>
+<p>Les savants débats qu'a fait naître l'espoir d'avoir retrouvé le plus
+noble reste d'une sainte dépouille ne sont pas encore terminés. Tandis
+que l'érudition poursuit son œuvre avec ardeur, voici non point une
+œuvre d'érudition, mais une étude purement littéraire sur l'historien de
+saint Louis. Du moins, cette modeste étude repose sur une base plus
+certaine que la découverte, hélas ! controversée. En effet, que le cœur
+de saint Louis soit ou ne soit pas enfoui sous les dalles de la
+Sainte-Chapelle, assurément il respire dans les récits de Joinville.</p>
+<p>Si l'on faisait l'histoire de notre ancienne littérature par province,
+celles qui tiendraient le premier rang seraient la Normandie et la
+Champagne. Les ducs de Normandie accordèrent aux poëtes une faveur qui
+rappelait le goût de leurs aïeux pour les scaldes scandinaves. Grâce à
+la conquête de Guillaume, sur l'une et l'autre rive de la Manche, le
+dialecte normand devint la langue littéraire. De là, aux douzième et
+treizième siècles, cette foule de poëtes normands et anglo-normands,
+parmi lesquels figure en première ligne maître Wace de Jersey. Les
+comtes de Champagne furent aussi des princes puissants et amis des</p>
+<p><pb/></p>
+<p>1 Voy. M. 11, l'aiis, homancero français, p. 77 et. suiv.</p>
+<p><pb/></p>
+<p>positifs de la démocratie, où un épicier écrivait, ait quatorzième
+siècle, que, s'il n'y avait point de gentils hommes, le monde vivrait en
+paix; la Champagne, terre comparativement prosaïque, produisit la prose
+française, qui date de Villehardouin, maréchal de Champagne, et dont les
+origines rappellent tout d'abord le souvenir de l'aimable et bon
+sénéchal de Joinville.</p>
+<p>Jean, sire de Joinville, naquit vers 1224. Sa vie embrassa presque tout
+le treizième siècle et se prolongea dans le quatorzième, car il vivait
+encore en 1315.</p>
+<p>Ainsi, avant de nous emmener avec lui en terre sainte, il nous raconte
+la naissance de son fils.</p>
+<p>1 Riche a encore ici le sens germanique de puissant : reckern, ricos
+hombres. — Avec le temps, la puissance a voulu dire l'argent.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>pitation, tant il est pressé d'aller rejoindre son cher Joinville.</p>
+<p>t Au commencement de ma lettre.</p>
+<p><pb/></p>
+<p>Joinville écrivit ses Mémoires Irès-Iard, après l'an 1505; il avait
+alors quatre-vingts ans. Il y avait plus de cinquante ans qu'il était
+revenu de la croisade. On doit admirer la vivacité et la chaleur de ses
+souvenirs.</p>
+<p><pb/></p>
+<p>L'auteur y joint les récits merveilleux que les croisés rapportaient
+d'Orient. Il croit que le Nil sort du paradis terrestre. '« On y trouve,
+dit-il, des filets où l'on pêche l'aloès, la rhubarbe* le girofle et la
+cannelle, que le vent abat dans le paradis terrestre, d'où elles</p>
+<p><pb/></p>
+<p>viennent en droite ligne par le neuve. » Colomb croyait aussi que les
+neuves du continent américain avaient leur source dans le paradis
+terrestre.</p>
+<p>A quoi Joinville répondit sans hésiter qu'il aimerait mieux en faire
+trente. Le roi laisse partir les frères, et le gronde avec une adorable
+bonté.</p>
+<p><pb/></p>
+<p>L'aimable narrateur ne sort pas du ton familier, souvent légèrement
+enjoué, où il excelle. Il ne prend jamais les formes un peu solennelles
+de Villehardouin ; il ne dit jamais sachez, oyez, vous vissiez; rien
+chez lui qui rappelle la gravité de l'histoire ou de l'épopée ; il se
+lient entre les mémoires et le fabliau. Les transitions ne
+l'embarrassent pas plus en écrivant que s'il contait près de la grande
+cheminée du château de Joinville.</p>
+<p><pb/></p>
+<p>Joinville ne se montre qu'en passant et sans y songer ; mais il revient
+sans cesse, il s'arrête avec amour sur la ligure du bon roi. Saint Louis
+remplit les Mémoires de Joinville comme Ilenry IV remplit</p>
+<p><pb/></p>
+<p>Nul grand fait n'a manqué d'historien, et il y a peu d'hommes
+véritablement grands auxquels ait manqué un biographe. Charlemagne,
+l'empereur des temps barbares, a eu Eginhart ; saint Louis, le roi du
+moyen âge, a eu Joinville. Saint Louis a été plus heureux.</p>
+<p>Joinville, homme de guerre et non pas clerc, écrit dans sa langue
+maternelle. Il est venu dans un temps qui avait sa vie littéraire
+propre, et, heureusement pour lui, il ignore l'antiquité. Précisément
+parce qu'il n'avait lu ni Plutarque ni Suétone, il leur a ressemblé.</p>
+<p>Il a été, comme eux, un conteur d'anecdotes qui ca-</p>
+<p><pb/></p>
+<p>raetérisent et de petits faits qui peignent, mais un conteur plus
+véritablement naïf que Plutarque, rhéteur vertueux, et surtout que
+Suétone, rhéteur corrompu.</p>
+<p>On doit convenir qu'il ne nous montre pas saint.</p>
+<p>Louis tout entier. Avec lui on ne voit pas le législateur, le politique,
+mais on voit admirablement le saint, l'homme et le guerrier. Quelles que
+fussent la sagesse et la générosité de saint Louis, il ne put échapper à
+l'entraînement des passions fanatiques de son temps.</p>
+<p><pb/></p>
+<p>tienne, ne doit la défendre que de l'épée, de quoi il doit donner parmi
+le ventre tant comme elle y peut entrer. »</p>
+<p>Après la bataille de la Massoure, ayant demandé des nouvelles de son
+frère, le comte d'Artois, qui y avait péri, on lui répondit que ce frère
+bien-aimé était en paradis, et on s'efforçait de distraire sa douleur en
+le félicitant sur les avantages qu'il retirerait de cette bataille. « Le
+roi répondit que Dieu fust adoré de ce qu'il</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>lendemain vint s'entretenir des affaires de son couvent. « Le roi l'ouït
+moult diligemment et longuement, » dit Joinville, et il ajoute : « Quand
+l'abbé s'en fut parti, je vins au roi et lui dis : Je vous viens
+demander, s'il vous plaît, si vous avez ouï plus débon.</p>
+<p>*. « Onqucs ne vis si bel armé, »</p>
+<p><pb/></p>
+<p>blaient une profanation de la croix.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Joinville peint avec beaucoup de vivacité les mœurs et les habitudes de
+l'Orient. On voit combien elles se sont peu modifiées. En lisant les
+batailles qu'il raconte,</p>
+<p><pb/></p>
+<p>En somme, le grand mérite de Joinville, c'est la naïveté et la vivacité
+du récit. Son livre n'a pas le sérieux de l'histoire, il n'offre pas
+même la suite des mémoires. Ce sont des souvenirs écrits avec charme,
+dans lesquels paraissent un grand événement et un grand homme. Joinville
+avait bien eu au commencement l'idée d'une composition historique</p>
+<p><pb/></p>
+<p>Pour bien apprécier le caractère des Mémoires du sire de Joinville, il
+faut les comparer avec la narration de son devancier Villehardouin.
+D'abord, l'individualité du narrateur domine beaucoup moins dans celle-ci.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>reconnurent pour soeurs et se salueront en se combattant.</p>
+<p>Joinvillc se complaît au récit des combats singuliers. Tandis qu'un
+véritable duel chevaleresque a lieu sous les murs d'Acre entre des
+Sarrasins et des chrétiens, un chevalier, voyant huit hommes qui
+regardaient le combat, va les attaquer. Joinvillc ajoute avec
+complaisance : « Et les trois beaux coups fit-il devant toutes les
+femmes qui étaient sur les murs. » On croit entendre Froissarl raconter
+une apertisc d'armes.</p>
+<p>Encore une ressemblance de Joinville et de Froissart. Froissart
+s'émerveille des fêtes, de la parure des chevaliers et des dames, de la
+braverie; il ne fait pas grâce au lecteur d'une aune de velours ou de
+satin.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>LITTERATURE FRANÇAISE AU SEIZIÈME SIÈCLE</p>
+<p>11 est des siècles littéraires plus parfaits que le seizième; il n'en
+est pas de plus énergique el de plus puissant. Dans ce siècle mémorable,
+l'esprit humain marche en tous sens, il avance par toutes ses voies.</p>
+<p>Tous les contrastes sont en présence; on adore l'antiquité, et lin
+immense besoin de nouveauté ébranle les antiques croyances; on s'inspire
+des traditions un peu artificiellement ranimées de la chevalcrie, et un
+épicuréisme hardi, cl'fronK*, envahit les Aines. Le fanatisme religieux
+arme bien des bras, les passions qui se rattachent aux querelles
+religieuses remuent bien des cœurs, et le scepticisme le plus audacieux
+bouleverse et dévaste les esprits. Temps prodigieux où toutes les</p>
+<p><pb/></p>
+<p>puissances de la nature humaine coexistent pèle-mêle dans un chaos
+fécond; temps de l'enthousiasme et de l'ironie, de la poésie et de la
+science, de l'art et de la politique, du fanatisme religieux et de
+l'élan philosophique ! Il suffit de prononcer les noms des personnages
+célèbres du seizième siècle, pour sentir vivement ces contrastes; le
+seizième siècle est le siècle de Machiavel et de L'Hôpital, de Calvin et
+de sainte Thérèse, de Montaigne et d'Ignace de Loyola, de Rabelais et de
+d'Urfé.</p>
+<p>Ce siècle se divise en deux parties distinctes. La période qui embrasse
+les règnes de François 1er et de Henri II est dominée par la grande
+lutte que la France soutient contre les prétentions de l'empire et de la
+monarchie espagnole; la période qui commence sous Charles IX, se
+prolonge sous Henri III et se termine sous Ilenri IV, est remplie par
+les guerres de religion.</p>
+<p>Ces deux époques ont deux caractères entièrement différents. La première
+est plus brillante, ses vices sont cachés par un vernis d'élégance, elle
+se colore des derniers reflets de la chevalerie. La foi sérieuse du
+moyen âge n'existe plus, mais l'enthousiasme vit sous une autre forme,
+et l'on peut dire de ce temps ce que François lel' disait après la
+bataille de Pavie : « Tout est perdu fors l'honneur. » Quelques bûchers,
+quelques gibets s'élèvent, mais les lettres et les arts couvrent tout de
+leur éclat. La seconde moitié du siècle est plus sombre, plus tragique.
+La chevalerie est morte;</p>
+<p><pb/></p>
+<p>les luttes soiit. atroces. On s'empoisonna, un s'égorge, et l'on finit
+par la Saint-Barthélemy.</p>
+<p><pb/></p>
+<p>resques, création du moyen âge. 11 y atteint parfois, mais souvent il
+les raffine outre mesure ou les exagère, faute de les bien comprendre. A
+côté de ces sentiments souvent forcés viennent se placer des sentiments,
+des expressions, des peintures d'une nature moins relevée et plus
+terrestre. Une sensualité vive et parfois grossière forme le plus
+étrange contraste avec les délicafesses d'un sentimentalisme exalté. Ce
+contraste, c'est celui des mœurs et de l'imagination, des mœurs, qui
+sont les mœurs du temps, de l'imagination qui est encore par souvenir,
+par un dernier retour vers le passé, l'imagination du moyen âge.</p>
+<p><pb/></p>
+<p>placer non plus parmi des chevaliers, car il n'y n plus de chevaliers,
+mais parmi des bergers imaginaires.</p>
+<p>C'est ainsi que la lin du siècle verra nailre ce dédale de subliiilés,
+de délicatesses amoureuses, si patiemment développées et nuancées si
+savamment dans l'in.</p>
+<p>terminable AS/fée.</p>
+<p><pb/></p>
+<p>un poëtc populaire, ou plutôt un poële peuple, plein de gaieté et
+d'amertume, de grossièreté el de mélancolie. Marot est le continuateur
+du Roman de la Rose et de Villon, avec plus de finesse, de grâce et
+d'esprit que le Roman de la Rose, avec plus d'urbanité, mais peut-être
+moins de verve que Villon. Boileau n'avait pas lu Villon, et l'a bien
+prouvé par ces deux vers : , , , Villon, l'un des premiers, Débrouilla
+Part confus de nos vieux romanciers.</p>
+<p>Villon n'a pas plus de rapport avec les vieux romanciers français que
+Béranger avec Walter Scott. Mais Boileau connaissait Marot et l'a
+parfaitement caractérisé :</p>
+<p>Imitez de Marot l'élégant badinagc.</p>
+<p>La création, la gloire de Marot, c'est en effet le badinage élégant.</p>
+<p>La renaissance a produit dans notre pays de grands érudits comme Budé,
+les Estienne, le latiniste Muret.</p>
+<p><pb/></p>
+<p>Amyot, trop vanté sous le rapport du style, car il écrivait au siècle de
+Montaigne et de Rabelais, mérite cependant de compter dans l'histoire
+des développements successifs de notre langue.</p>
+<p>Le résultat le plus important et le plus littéraire de l'action de
+l'antiquité sur les esprits au seizième siècle, c'est la célèbre
+tentative poétique de Ronsard et de ses amis : tentative dont tout le
+monde a lu 1 histoire dans l'ingénieux et m'dent. récit de M. Sainte-Beuve.</p>
+<p><pb/></p>
+<p>Ce qui est évident pour la forme n'est pas moins réel pour le fond :
+cette école de Ronsard, qui, dans le mètre, dans la coupe des strophes,
+dans toutes les parties extérieures de l'art, s'efforce, en faisant
+souvent violence au génie de la langue française, de reproduire le génie
+antique; cette même école, par ses sentiments, par son tour
+d'imagination, non-seulement, par la manière dont elle s'exprime, mais
+par les choses qu'elle dit, se rapproche encore de l'antiquité; elle
+n'est pas moins païenne par le cœur que par le langage. L'amour que
+chante Ronsard ou Dubellay, c'est l'amour antique, c'est celui
+d'Anacréon, de Properce, de Tibulle, et non l'amour chevaleresque, celui
+des trouvères, de Pétrarque ou de Dante. Ainsi, tout se tient dans cette
+révolution littéraire, et le fond et la forme sont également Empruntés à
+l'antiquité.</p>
+<p>Dans les genres littéraires jusqu'ici énumérés, les siècles antérieurs
+peuvent réclamer leur part ; mais ce qui appartient en propre au
+seizième siècle, ce qui est pour lui la littérature, non du passé, mais
+du présent, c'est l'histoire; c'est surtout cette quantité de mémoires
+qui fondent alors définitivement parmi nous,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>tout entier, avec la candeur de ses vertus, dans la narration du
+Plutarque inconnu qui a écrit son histoire et qui était digne de l'écrire.</p>
+<p>Mais ce qui fait le mieux connaître de quelle trempe étaient ces hommes
+du seizième siècle, ce sont certains mémoires comme ceux de d'Aubigné,
+de Tavannes, de Montluc. D'Aubigné attache par l'énergie de son
+caractère, l'ardeur de ses passions et de ses préjugés, et un bizarre
+mélange du puritain et du Gascon.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ramlOS, el son livre était traduit en français sous ce tilre : Du
+pouvoir du peuple sur le prince et du prince sur le peuple.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Enfin le théâtre aussi prend un essor nouveau : on écrit encore des
+mystères et des moralités; mais Jodelle fonde la tragédie imitée des
+anciens, et Hardy la tragédie romanesque; il a composé, dit-on, huit
+cents pièces. Ilardy est de la famille de Lope de Vega.</p>
+<p>Cette énumération incomplète suffit pour montrer quel spectacle varié,
+attachant, animé, présente la littérature française au seizième siècle;
+mais l'histoire littéraire, aussi bien que l'histoire politique, ne doit
+pas être seulement un spectacle, elle doit encore être un enseignement.
+Parmi toutes les leçons qu'on peut tirer de l'étude du mouvement
+littéraire au seizième siècle, il en est une qui m'a surtout frappé et
+dont je crois que notre temps pourrait profiter.</p>
+<p>Ce siècle si rempli par les produits de l'intelligence et de
+l'imagination, ce siècle dans lequel toutes les facultés de l'esprit
+humain et de l'âme humaine ont été représentées par des hommes éminenls,
+ont enfanté des œuvres remarquables, n'a pas été, il s'en faut) un
+siècle tranquille et pacifique, une époque de loisir commode aux
+penseurs et aux écrivains ; il a été, au contraire, un des âges les plus
+orageux, les plus remplis par l'action, les plus tourmentés par les
+révolutions qu'ait vus l'humanité; Un siècle de guerres et d'agitations,
+de troubles, de déchirements. C'est au</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>AMYOT</p>
+<p>Je ne parle pas des littératures qui ne contiennent guère que des
+traductions. Les traductions d'ouvrages</p>
+<p><pb/></p>
+<p>persans et arabes dominent dans la littérature turque.</p>
+<p>La li Hé rature sacrée du Tliihet paraît n'être qu'une gigantesque
+reproduction des livres théologiques et poétiques rédigés en sanscrit
+par les boudhistes indiens.</p>
+<p>Les l'ersans avaient traduit, il y a plusieurs siècles, les deux grandes
+épopées indienncs, que nulle langue de l'Europe n'a encore reproduites
+dans leur intégrité.</p>
+<p>Les contes arabes, dont quelques-uns, sous le nom des Mille et nue
+Nuits, sont devenus si populaires en Europe, ces contes contiennent un
+grand nombre de récits originaires de la Perse ou de l'Inde, qui n'ont
+point passé en Arabie dans une version écrite, mais dans une traduction
+arabe improvisée sans dictionnaire, sous un palmier, au bord d'une
+fontaine, par un marchand ou un pèlerin. Les translations arabes des
+auteurs grecs, et principalement d'Aristote, sont célèbres; et bien
+qu'on ait exagéré leur influence sur la scholastique dans l'Occident, où
+l'on n'a jamais perdu les ouvages didactiques d'Aristote, cette
+influence a été grande, surtout par l'intermédiaire du</p>
+<p><pb/></p>
+<p>pèripateticien Averroes, dont le matérialisme cul, parmi les chrétiens
+du moyen âge, une vogue qui alarmait Pétrarque. ,</p>
+<p>L'histoire de la traduction chez les modernes ne serait pas sitôt
+épuisée; il faudrait remarquer surtout quel rôle important diverses
+traductions célèbres ont joué dans les vicissitudes des langues. On sait
+que la prose allemande date de la bible de Luther; Amyot compte dans
+l'histoire de la nôtre.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Amyot naquit itMelun en 1514. On ne s'accorde pas sur ce qu'était
+précisément la condition de ses parents, mais il est certain qu'elle
+n'était pas très-relevée. Furent-ils bouchers ou corroyeurs, peu nous
+importe; ce qui nous importe, c'est que leur fils ait traduit Plutarque,
+Longus et Héliodore. La liste des hommes éminents sortis des rangs du
+peuple est nombreuse et glorieuse : une- humble origine ne saurait</p>
+<p><pb/></p>
+<p>être un motif de dédain dans la postérité, mais une telle origine a eu
+souvent un autre effet ; les imaginations, frappées de la distance qui
+séparait le point de départ et le terme de la carrière, ont agrandi
+encore cet intervalle. C'est ce qui est arrivé pour Shakspeare.</p>
+<p>Quand de tels faits sont réels, il n'y a aucune raison de les taire ;
+mais, quand ils ne sont pas exacts, il n'est pas nécessaire de les
+supposer. C'est ce qu'on fait pourtant par ce besoin d'exagération et de
+contraste qui est dans la nature des imaginations vulgaires. On l'a fait
+pour Amyot plus peut-être que pour aucun autre écrivain français, et sa
+vie est devenue une espèce de roman que n'a pas manqué de recueillir
+Saint-Réal, le très-romanesque historien auquel on doit le Don Carlos
+amant d'Elisabeth, qu'a consacré Schiller et qui est fort différent du
+véritable don Carlos.</p>
+<p><pb/></p>
+<p>Voici le récit de Saint-Réal, dans son troisième discours sur l'usage de
+l'histoire : « Cet excellent homme (Amyot) était fils d'un corroyeur de
+Melun. Étant. encore petit garçon, il s'enfuit de la maison de son père
+de peur d'avoir le fouet ; il n'eut pas fait bien du chemin qu'il tomba
+malade dans la Beauce et demeura étendu au milieu des champs.</p>
+<p><pb/></p>
+<p>Amyot se relira en Bcrry chez un gentilhomme de ses amis, qui le chargea
+de l'éducation de ses enfants. Durant le temps qu'il y fut, le roi
+IIcllrl Il, faisant un voyage, logea par hasard dans la maison de ce
+gentil* homme. Amyot, étant prié de faire quelque galanterie pour le
+roi, composa une épigramme en vers grecs qui lui fut présentée par les
+enfants de la maison.</p>
+<p>Comme il était grand connaisseur, il ne fit point de difficulté
+d'assurer le roi que, si ce jeune homme avait autant de vertu que de
+savoir et de génie pour les let -</p>
+<p><pb/></p>
+<p>trcs, il méritait d'être précepteur des enfants de France. Le roi, qui
+avait en M. de l'Hôpital toute la confiance qu'il devait avoir, s'enquit
+du maître de la maison. Comme les mœurs d'Amyot étaient irréprochables,
+le gentilhomme lui rendit le témoignage qu'il méritait. Il n'y. avait
+que le soupçon qui l'avait fait retirer en ce lieu qui put lui nuire;
+mais quand ce soupçon aurait été su, M. de l'Hôpital, qui était luimême
+plus suspect qu'aucun autre, n'était pas pour s'en effrayer. Voilà
+l'affaire conclue. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>comme Théagène amuse la passion d'Arsacé pour ne pas perdre Chariclée?</p>
+<p><pb/></p>
+<p>Amyot, évèque d'Auxerrc; mais très-probablement lléliodore n'était pas
+encore évêque, quand il écrivit les aventures de Tliéagène et de
+Chariclée, et Amyot, quand il les lit passer en français, était loin de
+penser qu'il le serait un jour.</p>
+<p>Pas plus mal cousue du moins que toute cette biographie mensongère qui
+est une insulte perpétuelle et imméritée au caractère modeste d'Amyot.</p>
+<p>Mais cette exagération de l'importance diplomatique</p>
+<p><pb/></p>
+<p>l, Amyol fut précepteur du Jeune Charles et du jeune Henri, et non de
+François; leur aine.</p>
+<p><pb/></p>
+<p>Le roi s'avisa aussitôt de ce que ce pouvait être.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>bouquer personne. Il y a donc dans toute cette histoire un double
+anachronisme et une double impossibilité.</p>
+<p>Je suis entré dans quelques détails sur cette portion de la vie d'Amyot,
+parce qu'elle a été, comme on voit, lalsifiée bu plutôt inventée avec
+une étrange audace et répétée avec une extrême crédulité par plusieurs
+biographes. Malgré les décisives objections de Bayle, on en trouve
+quelque chose jusque dans un article de la Biographie universelle écrit
+par M. Auger en 1811, et celui que j'écris n'empêchera probablement pas
+qu'on répète les mêmes erreurs dans quelque biographie future.</p>
+<p>Le reste de la vie d'Amyot ne nous arrêtera pas. Ce fut un enchaînement
+d'honneurs et de prospérités que troublèrent, seulement vers la fin, les
+fureurs de la Ligue, auxquelles les bienfaits de llenri III devaient
+naturellement l'exposer. Il avait été nommé recteur de l'Université en
+même temps que grand aumônier.</p>
+<p>Henri 111 le fit commandeur de cet ordre du SaintEsprit qu'il avait créé
+et qui devait être le plus brillant des ordres français. Élevé à
+l'évêché d'Auxerre en 1561, le fils du pauvre bourgeois de Melun mourut
+en 1595, riche de 200,000 écus. C'est une des plus hautes et des plus
+éclatantes fortunes que présentent les annales des lettres, et une
+preuve de la considération dont elles jouissaient au seizième siècle. La
+destinée d'Amyot fait époque dans leur histoire. C'est la première fois
+que, par l'étude, par la science, en traduisant du</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Où l'amour sans pudeur n'est pas sans innocence.</p>
+<p><pb/></p>
+<p>Amyot a très-bien reproduit ce qu'il y a de délicatesse, et de
+simplicité dans l'idylle amoureuse de Longus.</p>
+<p>Amyot a, selon moi, beaucoup moins complètement réussi dans sa
+traduction de Plutarque que dans ses traductions de Longus et
+d'Iléliodore ; mais, comme il arrive très-souvent, c'est le moins bon de
+ses ouvrages qui lui a fait le plus d'honneur.</p>
+<p><pb/></p>
+<p>Les observations qui vont suivre sont de la même nature que celles
+qu'inspire la comparaison du pinceau d'un grand maître avec le crayon ou
+le burin qui le reproduit.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Or, qu'y a-t-il de moins naïf en soi qu'un rhétenr?</p>
+<p>C'était celui-ci qui se plaisait aux détails familiers, aux historiettes
+naïves et parfois puériles, qui racontait les prodiges et y croyait,
+qui, par exemple, interrompait la sanglante biographie de Sylla pour
+nous apprendre « qu'il y eut trois corbeaux qui apportèrent leurs petits
+devant tout le monde, et les mangèrent, puis en emportèrent les reliques
+dans leur nid; et comme les souris eussent rongé quelques joyaux d'or
+qui étaient en un temple, les secrétains, avec une raloire, en prirent
+une qui était pleine et fit cinq petits</p>
+<p><pb/></p>
+<p>souriceaux dans la raloirc même, dont elle mangea les trois. »</p>
+<p>Je citerai le commencement de la Vie de Démosthènes comme un modèle de
+style entortillé, de pé-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>d'Aristide : « Jupiter-Sauveur s'approcha de lui en songe, et lui
+demanda ce que les Grecs avouellt proposé de frire. »</p>
+<p>Enfin, un dernier défaut d'Amyot, c'est d'intercaler dans le texte des
+explications de sa façon, de véritables scholies, qui ne sont pas
+toujours heureuses.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Quand le seizième siècle aura repris définitivement sa place de yrand
+ciieul au foyer de la muse nationale,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Chariclce. Enfin tous deux appartinrent au sacerdoce ; car, si le
+Français fut évêque d'Auxerre, le Béotien fut prêtre d'Apollon ; et pour
+terminer ce parallèle par un contraste, ce qui est encore une imitation,
+Plutarque fut, dit-on, l'instituteur de Trajan, et Amyot fut le
+précepteur de Charles IX.</p>
+<p><pb/></p>
+<p>LES RENAISSANCES</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>cette succession de phases diverses par des chaînes do montagnes, dans
+lesquelles il y a des sommets et des abîmes, des plateaux et des
+vallées, des cimes isolées, et entre elles de vastes plaines.</p>
+<p>En Orient, il y a eu de ces vicissitudes. L'Orient n'est pas immobile,
+comme on le dit souvent ; il a</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>montrent ni une ligne horizontale comme la littérature grecque, ni une
+courbe régulière comme la littérature latine; leur configuration est
+beaucoup plus irrégulière ; elles se composent d'une suite de saillies
+et de creux, si je puis m'exprimer ainsi; elles sont ondulées ou
+crénelées ; elles descendent, elles s'abaissent, ce que ne fait pas la
+littérature grecque; mais, après être descendues, elles remontent, ce
+que n'a pas fait la littérature latine. — C'est qu'elles ont un autre,
+principe.</p>
+<p>Les littératures modernes sont animées par le principe de la
+civilisation moderne, le christianisme, qui est un principe de progrès,
+et c'est pourquoi dans l'histoire des littératures modernes, après qu'on
+est descendu, on remonte. Nous allons suivre leurs vicissitudes, et je
+vais tâcher, en m'aidant de cette image des chaînes de montagnes que
+j'ai choisie comme la plus claire et la plus vive, de vous offrir une
+sorte de panorama de ces littératures envisagées sous l'aspect de leurs
+cimes les plus hautes et de leurs dépressions les plus profondes.—Dans
+cette espèce de topographie, il est évident que nous ne pouvons nous
+attacher qu'aux plus grands traits et qu'il faut négliger les détails.</p>
+<p>Comment se présente, sous ce rapport, la littérature italienne? Elle
+nous montre d'abord un grand sommet isolé, que rien n'annonce, qu'aucune
+colline plus humble ne prépare, qui sort brusquement de terre et</p>
+<p>x</p>
+<p><pb/></p>
+<p>A une hauteur moins considérable on aperçoit, sur le penchant de la même
+montagne, le vallon de Pétrarque, un lieu qu'on peut se représenter
+comme la vallée de Vaucluse, dans lequel il chante au bord des eaux
+limpides; ce lieu est éclairé, quoique de plus loin, par quelques rayons
+de la lumière qui émane du sommef.</p>
+<p><pb/></p>
+<p>Sur ce même plateau j'aperçois Machiavel, tantôt regardant du côté de
+l'antiquité, tantôt regardant du côté de son temps : quand il regarde du
+côté de l'antiquité, écrivant ses commentaires sur les Décades de
+Tite-Live, animés des plus purs sentiments de la liberté romaine; et,
+quand il regarde du côté de son temps, retraçant, dans le livre du
+Prince, les maximes les plus déhontées et les plus vraies de la tyrannie
+d'après Borgia.</p>
+<p><pb/></p>
+<p>Après qu'on a franchi ce plateau du seizième siècle, où nous avons
+trouve, non plus Dante, mais du moins l'Arioste, le Tasse et Machiavel,
+il faut toujours descendre.</p>
+<p><pb/></p>
+<p>on ne retrouve plus les chemins des grands sommets.</p>
+<p>Il n'y a qu'une raison qui explique comment il en est ainsi depuis deux
+cents ans : c'est que depuis deux cents ans l'Italie n'est plus libre.</p>
+<p>L'Espagne au moyen âge a aussi son sommet isolé, non pas habité par un
+grand poëte comme Dante, mais au moins par une grande poésie, la poésie
+des romances héroïques, la poésie du Cid. Ce sommet est comme le vieux
+château fort du Cid. En Espagne, de même qu'en Italie, il faut, en
+quittant le moyen âge, traverser un espace aride et inférieur pour
+retrouver une seconde hauteur, celle de la Renaissance. Boscan et
+Garcilasso, par les sentiers de l'idylle, sur les pas des poëtes
+italiens, leurs modèles, atteignent les hauteurs du seizième siècle.</p>
+<p>Là, comme en Italie, nous apparaît un vaste plateau,</p>
+<p><pb/></p>
+<p>comiques représentent, on pourrait le dire, toute l'histoire de
+l'humanité : c'est l'imagination et le bon sens; c'est la poésie et la
+prose; c'est le romanesque et le trivial; c'est l'idéal et la réalité.</p>
+<p>Un peu plus loin, sur le même plateau, je découvre un labyrinthe dans
+lequel une foule de personnages se rencontrent, se croisent, se mêlent,
+où les duels, les amours, les aventures, les imbroglios de toute sorte
+animent et confondent tous ces personnages qui composent une multitude
+élégante et bizarre : c'est la troupe de Lope de Vega, qu'il promène et
+qu'il égare avec nous dans le charmant et interminable labyrinthe de ses
+quinze cents comédies.</p>
+<p>Un autre poëte fait de môme; il a aussi autour de lui tous les
+personnages de l'Espagne chevaleresque, qui semblent sortir d'un
+tournoi. Mais parmi eux il en est qui ont plus que les acteurs de Lope
+de Vega une physionomie héroïque. Yous avez reconnu Calderoll.</p>
+<p>Pour achever le tableau de l'ensemble de la littérature espagnole au
+seizième siècle, il faut non-seulement le labyrinthe de Lope de Vega,
+les aventures de galanterie et de gloire, il faut encore l'église. En
+effet, Calderon, qui, après avoir été soldat, s'est fait prêtre, sur cet
+emplacement, qui ne semblait destiné qu'aux jeux chevaleresques, a bâti
+une église; Calderon y entre; mais ne voulant pas abandonner la poésie
+dramatique, il la fait entrer avec lui dans l'église par ses Actes
+sacramentaux. — Que sont les Actes SUCNunen.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Une île apparut, il y a quelques années, entre la Sicile et l'Afrique ;
+cette île, sur laquelle j'ai eu la bonne fortune de mettre le pied,
+n'existe plus.</p>
+<p>Il faut de même se bâter, quand nous rencontrons ces littératures
+instantanées, d'y poser le pied, car bientôt elles vont rentrer dans la
+mer de l'oubli.</p>
+<p>Mais on ne peut en dire autant des autres littératures slaves. La
+littérature russe, par exemple, est toute d'imitation; autrefois ses
+modèles étaient fran-</p>
+<p><pb/></p>
+<p>Je passe aux littératures des pays germaniques, et je trouve d'abord la
+littérature anglaise.</p>
+<p>Le seizième siècle, en Angleterre comme dans presque tous les pays de
+l'Europe, est un grand siècle, et</p>
+<p><pb/></p>
+<p>presque partout en Europe on doit représenter ce siècle par un sommet
+élevé. L'Angleterre a aussi sa montagne au seizième siècle, et c'est une
+haute montagne, car c'est celle de Shakspeare. Elle n'est peut-être pas
+cependant aussi haute que la montagne de Dante, elle arrive moins près
+du ciel, elle s'éloigne moins de la terre; on ne l'a peut-être pas assez
+remarqué, Shakspeare, est, il est vrai, le peintre merveilleux,
+inépuisable de tous les sentiments humains, il en est un cependant qu'il
+a presque oublié, c'est le sentiment religieux ; celui-ci ne figure que
+bien en passant dans les drames de Shakspeare; ce sentiment est, au
+contraire, l'âme de l'inspiration de Dante.</p>
+<p><pb/></p>
+<p>En effet, en regard de cette montagne sur laquelle nous a apparu la
+sublime figure de Shakspeare est celle sur laquelle nous apparaît la
+majestueuse figure de Milton. Le dix-septième siècle produit Milton
+comme le seizième siècle a produit Shakspeare, et les hauteurs
+qu'habitent ces deux poètes ne sont point inégales.</p>
+<p>Milton est là-haut sur son Sinaï, comme il appelle lui-même la montagne
+où il place sa muse; de là, de ce sommet sacré, cet aveugle regarde, et
+son œil, l'œil de cet aveugle, est si perçant, que devant lui s'ouvrent
+les abîmes de l'enfer : il y voit, il y fait voir les esprits qui
+roulent foudroyés ou gisent au bord des étangs de feu; puis, remontant
+vers la lumière, il rencontre les tableaux bibliques de l'enfance du
+genre humain, il contemple les chastes et gracieuses amours d'Adam et
+d'Eve ; ce regard ouvre le ciel, y voit les luttes des anges fidèles et
+des anges égarés; enfin ce même</p>
+<p><pb/></p>
+<p>regard, qui est celui d'un poëlc, mais aussi celui d'un théologien, ose
+réfléchir les mystères même de la Trinité et du Verbe.</p>
+<p>Il faut aussi le caractériser par un sommet élevé. Nous</p>
+<p>Maintenant, messieurs, est-ce fini? Tout est-il dit?</p>
+<p>L'Allemagne est plus riche que l'Angleterre au</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Cette nouvelle montagne de la littérature allemande</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ouant au moyen âge, la rrance n'a pas son Dante, il est vrai : il n'y
+cri a qu'un en Europe; mais elle a une littérature qui, si elle ne s'est
+pas résumée dans un chef-d'œuvre et dans un nom, est puissante par des
+créations imparfaites, sans doute, mais fécondes, car elles ont fécondé
+l'Europe : parmi nos poëmes chevaleresques, il n'y a pas une épopée
+d'art, mais ils contiennent de grandes beautés épiques, un prodigieux
+développement de l'imagination épique. Ils on! rempli l'Europe, ils ont
+été reproduits en Angleterre, en Allemagne, on en suit la trace en
+Espagne dans les romances, et en Italie, jusque 1 Arioste qui en a été
+imprégné.</p>
+<p>Il y a donc là, au moyen âge, pour ne parler que de la poésie
+chevaleresque, un grand foyer poétique.</p>
+<p>Ce n'est pas une flamme montante et concentrée en un jet lumineux, c'est
+comme un brasier ardent qui échauffe toutes les autres littératures
+européennes.</p>
+<p>Et, pour rentrer dans l'ordre d'images que j'ai choisi, la poésie
+chevaleresque du moyen âge est, pour moi, comme un massif de montagnes
+dans lequel ou ne voit aucun sommet saillir et se détacher en
+particulier d'une manière pittoresque, mais qui est puissant, et qui
+jette de tous eùlés, au nord, au midi, au levant el au couchant, dans
+toute l'Europe centrale, de vastes rameaux. C'est ainsi que m'apparaît
+la littérature française au moyen âge, après le moyen âge, au
+quatorzième et au quinzième siècle, en France,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le seizième siècle doit donc former dans la partie française de notre
+topographie intellectuelle des littératures modernes, un sommet sur
+lequel les trois hommes que je viens de placer, et beaucoup d'autres
+qu'on pourrait grouper autour d'eux, forment une assemblée assez imposante.</p>
+<p>Ainsi, malgré cette immense gloire de Milton, notre dix-septième siècle
+reste en Europe le grand dix-sep-</p>
+<p><pb/></p>
+<p>tième siècle. En Italie et en Espagne il n'y a plus rien ; en Allemagne
+il n'y a rien encore ; en France il y a ce siècle, ce double siècle, car
+la montagne a deux cimes, il y a, permettez-moi le langage qu'on
+permettait encore au dix-septième siècle, il y a deux Parnasses français
+: le Parnasse de Richelieu et le Parnasse de Louis XIV.</p>
+<p>Voyez-le, messieurs, en présence de ce gouffre qu'il ne peut s'empêcher
+de sonder toujours, pris de terreur et d'une sorte de vertige, tout près
+d'y tomber; et alors se retenant, s'accrochant, si je puis ainsi dire,
+au rocher de sa foi.</p>
+<p><pb/></p>
+<p>Je conviens qu'elle est quelquefois mêlée, et qu'il y a, dans cette
+région brillante et suspecte, un peu trop de petites maisons et de
+salons qui leur ressemblent ;</p>
+<p><pb/></p>
+<p>mais il y a des lieux plus respectables dans ce pays du dix-huitième
+siècle. Il y a trois châteaux habités par trois bien grands hommes :
+c'est Montesquieu dans son château de la Brède, qui pendant vingt ans
+étudie, compare les formes des gouvernements, qui, avec une admirable
+impartialité, si rare dans son siècle, et que l'on ne comprit pas tout
+d'abord, après avoir tout comparé, sans parti pris, sans engouement pour
+aucun temps ni pour aucune forme sociale, en plèine connaissance de
+cause, se décide et conclut, après Polybe et Aristote, pour la monarchie
+tempérée.</p>
+<p><pb/></p>
+<p>Heureusement, par moments, il ferme sa fenêtre et il va écrire une scène
+de Zaïre ou la Défense de Calas.</p>
+<p><pb/></p>
+<p>il a placé, en présence du spectacle des Alpes qui commencent à
+s'éclairer des premiers feux du soleil, un prêtre prononçant cette
+magnifique profession de foi du christianisme naturel, qui s'appelle la
+profession de foi du Vicaire savoyard.</p>
+<p>Messieurs, cette grande montagne du dix-huitième siècle, un peu, il faut
+le-dire, par la faute de ceux qui l'habitaient, et qui en la cultivant
+l'ont souvent ébranlée, elle est tombée sur eux, et eux et elle se sont
+engloutis dans un abîme : cet abîme, c'est la Révolution, qui sépare le
+dix-huitième siècle du dix-neuvième.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>RAPPORT A L'ACADÉMIE FRANÇAISE</p>
+<p>DE CE QUI S'EST J'M-SB I.J'; 13 ET 19 JUILMÎT iSt8, AUX
+rlè.NÉR.\II.J.F.S DU il. DE CHATEAL'ItRIAND</p>
+<p><pb/></p>
+<p>Paris, le 15 juillet 1858</p>
+<p>LE SECRÉTAIRE PERPÉTLEI. DE L'ACADÉMIE A M. AMPÈRE</p>
+<p>Monsieur et cher Confrère, L'Académie ne s'est pas étonnée que vous ayez
+prévenu sa désignation pour le pieux devoir qu'il vous appartient de
+remplir; elle ne peut, dans le dernier honneur funèbre consacré aux
+restes mortels de l'homme illustre qu'elle a perdu, être mieux
+représentée que par vous. Elle vous charge de parler en son nom, et
+comme son chancelier el comme un de ses plus dignes organes, et comme
+ayant obtenu l'amitié du grand écrivain dont elle s'est tant honorée.
+Dans tout ce que vous direz de la gloire immor-</p>
+<p><pb/></p>
+<p>telle de M. de Chateaubriand et de cette âme généreuse qui vous était si
+bien connue, notre admiration et nos cœurs sont avec vous.</p>
+<p>Agréez, Monsieur et cher confrère, tous mes sentimenls de haute
+considération et d'attachement, Villemain.</p>
+<p>M. Théry, recteur de l'Académie de Rennes, devait prendre ensuite la
+parole.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>le 19 juillct, les restes de M. de Chateaubriand, au milieu d'un immense
+concours de spectateurs et avec une pompe que je vais essayer de vous
+décrire.</p>
+<p>Ap rcs la messe, pendant laquelle, par une inspiration touchante, on a
+fait entendre la mélodie sur laquelle M. de Chateaubriand a composé ces
+paroles si connues :</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>DISCOURS DE M. AJirÙRE SUr. LA TOMBE DE C H A T E A UBR IA S D</p>
+<p><pb/></p>
+<p>trails de son génie, tel qu'il s'esj manifesté dans d'immortels ouvrages
+; car ces ouvrages n'étaient que le splendide reflet de lui-même. Pour
+les plus grands écrivains comme pour tous les hommes, les facultés
+morales sont le principe et la raison de leurs œuvres.</p>
+<p>M. de Chateaubriand adorait, après Dieu, trois choses : l'honneur, la
+liberté et la Frnnce.</p>
+<p>- La religion revendique la première part dans la gloire littéraire de
+M. de Chateaubriand. Est-il besoin de dire que l'auteur du Génie dit
+Christianisme, des Martyrs, de l'Itinéraire, était chrétien et
+catholique, catholique sincèrc '! Encore plus convaincu par le cœur que
+parle raisonnement, il avait crlt parce qiCU avait pleuré. Je crois,
+disait-il, les yeux fermés. La foi de ce beau génie, c'était la foi
+naïve de son enfance et de sa mère. Le grand apologiste du christianisme
+disait encore, je l'ai entendu de sa bouche, qu'il eut été martyr avec
+joie.</p>
+<p>J'en atteste les nombreux sacrifices qu'il a faits au second culte de sa
+vie, l'honneur, cet honneur qui était l'essence de son être moral, et
+dont la tradition se conserve dans une famille où il fut toujours
+héréditaire. Quand il faut prendre un parti, disait M. de Chateaubriand,
+un mouvement d'honneur me pousse.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Dieppe quand il apprit la publication des criminelles ordonnances de
+juillet. J'entends encore l'accent indigné de ses paroles foudroyantes;
+je le vois, sublime de colère, en face de cette mer qui nous écoule,
+tandis qu'un magnifique soleil couchant, qu'il ne pouvait même dans ce
+moment s'empêcher de contempler en poëlc, illuminait sa noble figure et
+resplendissait comme une auréole autour de son front irrité.</p>
+<p>Il ne serait pas difficile de signaler dans les com-</p>
+<p><pb/></p>
+<p>Elle est venue, hélas! cette mort qu'il avait sou-</p>
+<p><pb/></p>
+<p>Un mot que je viens de prononcer me rappelle ce qui ne saurait être
+oublié ici. Si M. de Chateaubriand réunissait la foi du chrétien,
+l'honneur du chevalier, le patriotisme du citoyen, s'il eut toujours le
+cœur</p>
+<p>t I.a belle conduite de M. Jules de Nouilles pendant les journées de juin.</p>
+<p><pb/></p>
+<p>Qu'il dorme donc, le glorieux mort, dans l'asile qu'il s'est choisi
+vivant, sous la croix qu'il a relevée, au bruit des vagues natales et de
+la mer qu'il aimait, aux accents de la voix de ses compatriotes, sur le
+rocher malouin, qui dans l'avenir s'appellera l'îlot de Chateaubriand.
+Ce rocher de granit existait avant les derniers bouleversements qui ont
+détourne le cours de nos fleuves, élevé les cimes de nos montagnes,
+changé la forme de nos continents. Quand des révolutions d'un autre
+ordre auront changé le cours de nos idées, fait surgir des sociétés
+nouvelles, modifié les formes de la pensée humaine, ce rocher,
+contemporain des plus anciens âges du monde, subsistera sans doute et
+conservera son précieux dépôt; mais ce</p>
+<p><pb/></p>
+<p>dont je suis encore mieux assuré, le nom de Chateaubriand, plus
+indestructible que le granit de vos rivages, s'élèvera au-dessus de
+cette grande marée de siècles qui monte incessamment derrière nous, et
+qui, sous son niveau toujours croissant, engloutit chaque jour un
+nouveau sommet du passé dans le déluge de l'oubli. Nous pouvons le dire
+hardiment, et c'est la seule consolation terrestre que notre douleur
+puisse accepter, cette vie des grands hommes dans laquelle M. de
+Chateaubriand vient d'entrer après une des carrières les plus belles,
+les plus complètes et les plus pures ; cette vie de gloire qui commence
+pour lui en même temps qu'une autre immortalité saluée d'ici-bas par nos
+hommages, nos prières et nos larmes, elle ne finira point avant que
+notre planète même soit brisée, ou que les derniers pas de l'homme
+soient effacés de la terre.</p>
+<p><pb/></p>
+<p>PORT-ROYAL</p>
+<p>I'AU M. SAINTE-BEUVE — (lS4S')</p>
+<p>Le succès du dernier ouvrage de M. Sainte-Berne est désormais établi et
+assuré. Il ne s'agit plus d'annoncer au public un livre que le public a
+goûté. Les.</p>
+<p>L'un des grands charmes de cet ouvrage naît dLt charme que le sujet a
+exercé sur l'auteur. M. SainteBeuve aime Port-Royal et le fait aimer. Il
+tient ce qu'il a promis dès les premières lignes en disant : « On se
+mettra du cloître, on se fera de la famille Arnaud. »</p>
+<p>1 L'ouvrage complet est en cinq volumes.</p>
+<p><pb/></p>
+<p>De cette sympathie passionnée pour son sujet résulte une connaissance
+intime, profonde, des saints hommes et des pieuses femmes parmi lesquels
+il nous fait vivre avec lui. « On ne comprend que ce qu'on aime,» a-t-il
+dit; oui, il fallait aimer autant Port Hoyal pour le comprendre si bien.</p>
+<p>Aussi, comme tous les personnages de ce drame St"vère, qui a le cloître
+pour théâtre, et qui laisse voir au fond de la scène le grand siècle en
+perspective ; comme tous ces personnages, directeurs, abbesses, simples
+religieuses, obscurs solitaires, jusqu'aux plus humbles serviteurs, sont
+dessinés d'un crayon fidèle! comme tous ces portraits sont vivants et
+respirent! quelles nuances délicates les distinguent! quelles
+oppositions senties les séparent!</p>
+<p><pb/></p>
+<p>Mais cette comparaison, même en l'élargissant autant qu'on voudra, sera
+toujours loin d'exprimer le</p>
+<p>procédé multiple de M. Sainte-Beuve. Non-seulement</p>
+<p><pb/></p>
+<p>Et ce n'est pas seulement un livre plein de fine érudition et
+d'appréciations délicates; c'est un livre de bonne foi. L'auteur cherche
+sincèrement la vérité, la vérité historique d'abord, puis la vérité
+morale. Il a des sympathies, mais ces sympathies sont éclairées.</p>
+<p>Il n'a pas de ces partis pris qui rebutent. Peut-être il aime trop
+Port-Royal, et surtout il déteste, je crois, trop ses ennemis. Mais
+comment vivre longtemps avec ces hommes aux haines vigoureuses sans
+partager un peu leurs inimitiés? Du moins, tout passionné qu'il est, il
+s'efforce sans cesse d'être juste.</p>
+<p><pb/></p>
+<p>abbesse de Port-Royal, qui devait être un jour la glorieuse mère
+Angélique, pour âgée de quinze ans, tandis qu'en réalité elle avait cinq
+ans et demi. — Sa tendre adoration pour le bon évêque de Genève ne l'a
+pas empêché de relever l'intolérance de ses trop politiques et trop peu
+charitables conseils au duc de Savoie dans l'affaire de la conversion du
+Chablais. — D'autre part, après avoir sévèrement mis en relief
+l'épicurisme négatif de Montaigne, dans une note, il fait en partie à
+l'aimable sceptique une réparation gracieuse. 11 ne veut pas être le
+champion d'une thèse ou d'un parti : il veut rester dans le juste et
+dans le vrai. J'honore cette équité consciencieuse, si rare aujourd'hui.</p>
+<p>Je lui sais gré de ne l'avoir point fait.</p>
+<p><pb/></p>
+<p>Pour ma part, je regretterais fort ces digressions motivées, car elles
+forment une des parties les plus</p>
+<p><pb/></p>
+<p>intéressantes de l'ouvrage. A-t-on jamais mieux apprécié que ne le fait
+M. Sainte-Beuve Balzac, l'hommephrasc, comme Malherbe fut l'homme-vers :
+Balzac, chez lequel on ne peut jamais surprendre une conviction
+sérieuse, une émotion vraie ; qui écrit pour écrire, et ne se sert de
+l'idée que pour porter l'échafaudage de ses paroles; pour qui la
+religion, la morale, la politique, sont des occasions de bien dire, et,
+si l'on me passe l'expression, comme des mannequins sur lesquels il
+essaye la draperie savante et la broderie curieusement travaillée du
+langage? Peut-on mieux peindre l'empire de la métaphore sur un esprit et
+l'idolâtrie de la figure de rhétorique que par cette précieuse anecdote,
+si bien racontée chez M. SainteBeuve?</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>En l'ahsolvant. de ces écarts apparents, je reprocherai a M.
+Sainte-Beuve quelques rapprochements un peu forcés et inopportuns. La
+mère Angélique disant aux dragons qui venaient l'enlever de l'abbaye
+deMaubuisson, qu'elle ne sortirait point si on ne la faisait sortir de
+force, et qu'en ce cas seulement elle pouvait être excusée devant Dieu,
+ne rappelle guère la protestation foudroyante de Mirabeau. Quelques
+personnes n'ont pas goûté le rapprochement de la sœur AnneEugénie et de
+Lélia. Ce nom rappelle un des plus grands talents de notre époque ;
+mais, tombant ainsi au milieu de Port-Royal, il fait un bruit pareil à
+celui d'une explosion soudaine et terrible; on croit voir les sœurs se
+boucher les oreilles et s'enfuir avec de grands signes de croix. Un
+autre nom, un nom dont il faut laisser la superstition aux admirateurs
+de l'immoralité habile, celui de M. de Talleyrand, vient deux fois sans
+motif sous la plume généreuse de M. Sainte-Beuve ; selon moi, c'est deux
+fois de trop.</p>
+<p>Sans parler de l'exactitude très-contestable de ces rapprochements, tous
+ont un inconvénient réel, même les plus heureux : c'est de ne pouvoir
+être bien saisis</p>
+<p><pb/></p>
+<p>que par les contemporains de l'auteur. Si M. SainteBeuve voulait m'en
+croire, il effacerait ces détails, qui s'adressent. a notre génération,
+d'un monument fait pour lui survivre.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>l'heure les principaux auteurs, Port-Royal a eu son caractère propre ;
+certaines idées particulières l'ont marqué de leur sceau. Port-Royal est
+une communauté chrétienne réformée, et, sous ce rapport, il rentre dans
+le mouvement général de réformation catholique, dont il offre un des
+résultats les plus célèbres; mais ce qui le distingue et le caractérise,
+ce qui a fait, en un mot, que Port-Royal a été Port-Royal, c'est le
+jansénisme. M. Sainte-Beuve répond que Port-Royal et le jansénisme ne
+sont pas tout a fait ni toujours la même</p>
+<p>(</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ces opinions, auxquelles Jansénius devait attacher</p>
+<p><pb/></p>
+<p>son nom, avant de le portcr, étaient celles de Saint-Cyran et de
+Port-Royal. Il faut donc s'en bien pénétrer pour comprendre l'un et
+l'autre, et peut-être ne les sent-on pas toujours chez M. Sainte-Beuve
+aussi présentes a ces grands et tristes génies qu'elles le lurent en effet.</p>
+<p><pb/></p>
+<p>soigner les malades, et mourut, frappé lui-même, au lit d'honneur.</p>
+<p>Une telle mort rachète beaucoup de citations fausses et de méchants
+arguments. Elle me fait trouver encore plus dure et plus amère la
+polémique acharnée de Sainl-Cvran.</p>
+<p>o La réfutation de la Somme théologique du père Garasse est appelée par
+Lancelot une des plus belles pièces et des plus savantes qui jusque-là
+eussent paru dans notre langue1. PeuL-être le doux néophyte ne l'avait
+pas lue. Ce qu'il y a de certain, c'est qu'elle ne se recommande ni par
+la modération du langage ni par la charité des sentiments.</p>
+<p>Ce qui est pis que ces aménités de la polémique, c'est d'inculper sans
+cesse les intentions d'un adver-</p>
+<p>1 Mémoires de LauccLol, t; II. p- 11 ii</p>
+<p><pb/></p>
+<p>11 ne faut pas croire qu'après cette première fougue, M. de Saint-Cyran
+se calme et se modère en avançant; car je lis dans le second volume de
+la réfutation (elle en a deux et devait en avoir quatre) : « Garasse est
+toujours Garasse, c'est-à-dire qu'il est toujours semblable a lui-même
+en inepties, en impostures, qui vont tellement en croissant, que les
+dernières surpassent les premières. »</p>
+<p>N'en peut-on pas dire autant de la colère et des injures que lui adresse
+son pieux adversaire? Celui-ci, perdant toute retenue, va jusqu'à
+s'écrier : « J'ai peur qu'on aura besoin de chaînes pour vous attacher,
+tant est grande la furie qui vous prend. »</p>
+<p>Vraiment j'en suis bien fâché; mais, s'il y a ici un furieux, ce n'est
+pas le pauvre jésuite.</p>
+<p><pb/></p>
+<p>M. Sainte-Beuve me pardonnera-t-il cette citation?</p>
+<p><pb/></p>
+<p>Saint-Cyran s'écrie, bien inspiré cette fois par sa colère : « Ce que
+vous ajoutez en faveur des gentilshommes frappés par des hommes qui ne
+sont pas de leur condition et qui sont villageois et hommes de néant,
+comme vous dites, est tellement exorbitant que je confesse n'avoir point
+de paroles pour vilupérer assez le grand excès que vous avez commis
+contre la vérité de l'Évangile. »</p>
+<p><pb/></p>
+<p>Eh bien, cet homme était capable aussi d'éprouver les plus vifs et les
+plus tendres mouvements de charité. 11 écrivait de sa prison : « Il n'y
+a qu'une chose qui me fait peine, qui est la vue de ce grand nombre de
+pauvres languissants, je dis tant de ceux qui le sont dans le corps, que
+de ceux qui le sont dans l'âme; je me cache souvent, je me détourne, je
+m'enfuis, pour ne pas les voir, n'ayant ni argent ni bien temporel pour
+les délivrer de leur misère, et me sens un secret désir de me vendre, si
+je pouvais, pour soulager le moindre d'entre eux. »</p>
+<p>sent fait habiller de gris, M. de Saint-Cyran ne dit mot</p>
+<p><pb/></p>
+<p>alors, mais, des le lendemain, il se fit chercher un tailleur exprès
+pour prendre sa mesure cl lui faire un habit noir fort honnête et comme
+il le demandait. »</p>
+<p>Du reste, sauf ces éclairs, on pourrait dire ces sur-</p>
+<p><pb/></p>
+<p>prises de tendresse, M. de Saint-Cyran est bien le type du sombre génie
+de Port-Royal. M. Sainte-Beuve a cité plusieurs passages de ses lettres
+qui en font foi.</p>
+<p><pb/></p>
+<p>qui oui l'éternité dans le cœur ne sauraient rien voir d'agréable dans
+ce monde. »</p>
+<p>La plume de Pascal semble avoir laissé tomber cette ligne lugubre : «
+Tout me fait compassion dans le monde. »</p>
+<p>Ces derniers mots sont empreints d'une affection douloureuse, d'une
+sorte de charité sombre ; on est épouvanté et touché tout ensemble, on
+croit entendre un de ces pèlerins du royaume invisible qui, sui-</p>
+<p><pb/></p>
+<p>Voilil bien Saint-Cyran avec ses deux caractères, la charité et la
+rudesse. On peut dire que tout SaintCyran, aussi bien que tout
+Port-Royal, est dans un triple contraste, ou plutôt dans une triple
+alliance de qualités qui semblent s'exclure, de tendresse et de dureté,
+d'humilité et de hauteur, de soumission et de violence. Ce n'est pas à
+M. Sainte-Beuve qu'on a besoin de le rappeler, mais, surtout en avançant
+dans son sujet, qu'il ne l'oublie jamais : il vit avec des limcs pures
+et tendres, mais elles ont une croyance dure et farouche. La sérénité de
+ces fronts n'en bannit pas entièrement la terreur. Les grâces
+chrétiennes sont dans ce cloître, et vous nous les montrez dans tous
+leurs charmes ; prenez garde, les Euménides chrétiennes y sont aussi.</p>
+<p>Mais, il faut le reconnaître, pour ne pas tirer des conclusions trop
+rigoureuses de ce que je viens d'avancer, par une inconséquence qui,
+heureusement, est dans la nature humaine, les hommes de Port-Royal ne
+sont pas constamment obsédés de ces sombres idées, de ces croyances
+terribles qui, ce semble, ne devraient point leur donner de relâche.
+Pascal seul, le génie rigoureux, géométrique par excellence, ne peut
+s'en distraire, et encore se déride-t-il dans les Provinciales, mais
+l'abîme est toujours là. Quant aux</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Dans une relation de Jacqueline de Sainte-Euphémie, sœur de Pascal, M.
+Sainte-Beuve a surpris les</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>FIS nu t'RËNtLH V 0 I. U 3! E.</p>
+<p><pb/></p>
+<p>TABLE DES MATIÈRES DU TOSTH PREMIER</p>
+<p>De l'histoire de ln poésic, , , , , , , , , , , * Discours sur
+l'ancienne littérature Scandinave 5t De la littérature française dans
+ses rapports avec les littératures étrangères au moyen fige. , , , ., 70
+De la chcTalcrie. , , 131 I. — De la chevalerie en général. 132.</p>
+<p><pb/></p>
+<p>FIN DE J.A TAlil.E DU TOME l'IiEMJEI!</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>SCÈNES HISTORIQUTES UN VOLUIE PRIX 7 FRANCS 50 CENTIMES :- ',i</p>
+<p>", PROMENADE EN AMÉRIQUE '~c - ETATS-UNIS CUBA - MEXIQUE TROISIÈME
+ÉDITION - DEUX VOLUMES - PRIX : 12 FRANCS MÉLANGES D'HISTOIRE LITTÉRAIRE
+ET DE LITTÉRATURE , DEUX VOLUMES - PRIX : 12 FRANCS</p>
+<p>4; VOYAGE EN ÏGYPTE ET EN NUBIE 1 f k* * , H VOLUME - PRIX : 7 FRANCS 50
+CENTIME* t</p>
+<p>~- - , l, - - ,.. !</p>
+    </div>
+    </body>
+  </text>
+</TEI>

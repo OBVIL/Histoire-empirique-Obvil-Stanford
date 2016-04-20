@@ -1,0 +1,2688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Thuasne, Louis (1854-1940)">Louis Thuasne</author>
+<title>Le Roman de la rose / Louis Thuasne</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Thuasne, Louis (1854-1940)</author>, <title>Le Roman de la rose / Louis Thuasne</title>, <date>1929</date>,description :Collection : Les Grands événements littéraires,174 pages
+</bibl>
+<publisher>E. Malfère (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k5452428d</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1929">1929</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p>DEBUT D'UNE SERIE DE DOCUMENTS EN COULEUR</p>
+<p><pb/></p>
+<p>GRANDS ÉVÉNEMENTS LITTÉRAIRES</p>
+<p>LOUIS THUASNE</p>
+<p>LE ROMAN DE LA ROSE</p>
+<p>Société Française d'Éditions Littéraires et Techniques EDGAR MALFÈRE,
+ÉDITEUR</p>
+<p>12, Rue Hautefeuille, PARIS (6e)</p>
+<p><pb/></p>
+<p>BIBLIOTHEQUE DU HERISSON</p>
+<p>ROMANS (format 12x19)</p>
+<p>LAURENCE ALGAN CLARISSE AUBERT.</p>
+<p>BALKIS PERSONNE.</p>
+<p>EN MARGE DE LA BIBLE.</p>
+<p>PIERRE BILLOTEY LE PHARMACIEN SPIRITE.</p>
+<p>RAZ-BOBOUL.</p>
+<p>MAGALI-BOISNARD MAADITH.</p>
+<p>L'ENFANT TACITURNE.</p>
+<p>E EMMANUEL BOURCIER. LA BELEBA. E</p>
+<p>L'HOMME DE L'OMBRE.</p>
+<p>SUZANNE DE CALLIAS... JERRY.</p>
+<p>NONCE CASANOVA MESSALINE.</p>
+<p>LA LIBERTINE</p>
+<p>JOEL DUMAS. LA TENTATION BOURGEOISE.</p>
+<p>RENÉE DUNAN BAAL OU LA MAGICIENNE PASSIONNE.</p>
+<p>RAYMOND ESCHOLIER.. LE SEL DE LA TERRE</p>
+<p>JEAN FAVERY THEODORE. ROI DES ILES</p>
+<p>YVES LE FEBVRE LA FRANQUE AUX CHEVEUX D'OR.</p>
+<p>G. T. FRANCONI INTEL DE L'ARMÉE FRANÇAISE.</p>
+<p>MAURICE D'HARTOY.... L'HOMME BLEU (Prix Corrard).</p>
+<p>RENÉ-MARIE HERMANT. KNIAZII. - EN DETRESSE.</p>
+<p>LA FEMME AUX HOMMES</p>
+<p>FAKIR. - LE GERFAUT.</p>
+<p>JONCQUEL ET VARLET. LES TITANS DU CIEL.</p>
+<p>L'AGONIE DE LA TERRE. E</p>
+<p>ODETTEKEUN LE PRINCE TARIEL.</p>
+<p>GÉNÉRAL KRASSNOFF .. L'AMAZONE DU DÉSERT.</p>
+<p>YVON LAPAQUELLERIE.. L'ANGOISSE ET LA VOLUPTÉ.</p>
+<p>GEORGES MAUREVERT.. L'AFFAIRE DU GRAND PLAGIAT.</p>
+<p>MARTIN DE BRIEY LA MARIA FOSCA.</p>
+<p>MARCEL MILLET LA LANTERNE CHINOISE.</p>
+<p>ABEL MOREAU LE FOU (Prix Zola).</p>
+<p>BERNARD NABONNE..... LA BUTTE AUX CAILLES.</p>
+<p>ALICE ORIENT LA TUNIOUE VERTE.</p>
+<p>CHARLES PERRAULT.... CONTES.</p>
+<p>GASTON PICARD LES SURPRISES DES SENS.</p>
+<p>L'ABBÉ PRÉVOST MANON LESCAUT.</p>
+<p>RENÉ RANSSON LE DUEL SUR LA PLACE</p>
+<p>THIERRY SANDRE LE PURGATOIRE (Prix Concourt</p>
+<p>MIENNE. - MOUSSELINE. m</p>
+<p>ROBERT-LE-DIABLE</p>
+<p>B PAUL-JEAN TOULET BEHANZIGUE. B</p>
+<p>THÉO VARLET LE DÉMON DANS L'AME.</p>
+<p>LE DERNIER SATYRE.</p>
+<p>VARLET ET BLANDIN... LA BELLE VALENCE.</p>
+<p>PAUL VIMEREU LES AMANTS DU REMPART</p>
+<p>CHUTT LE HUTTEUX.</p>
+<p>LE PÉCHÉ INCONNU</p>
+<p>WILLY ET MENALKAS.. UERSATZ D'AMOUR.</p>
+<p>LE NAUFRAGE.</p>
+<p>a</p>
+<p>B Exemplaires ordinaire* sur Alfa 12 fr. E&gt;«r&gt;p!»i es sur I Isllande....
+45 fr. E</p>
+<p>— Arche ou pur fil 30 fr. Madagascar. 60 fr.</p>
+<p>lepoa 75 fr. Chine 75 fr.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>FIN D'UNE SERIE DE DOCUMENTS EN COULEUR</p>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>LES CRANDS ÉVÉNEMENTS LITTÉRAIRES</p>
+<p>Collection nouvelle d'histoire littéraire publiée sous la direction de
+MM. ANTOINE ALBALAT. HENRI D'ALMÉRAS ANDRÉ BELLESSORT, JOSEPH LE GRAS
+ALPHONSE SÉCHÉ</p>
+<p>PREMIÈRE SÉRIE (1928)</p>
+<p>Henri D'ALMÉRAS Le Tartuffe de Molière.</p>
+<p>Ed. BENOIT-LÉVY Les Misérables de Victor Hugo.</p>
+<p>Jules BERTAUT Le Pire Goriot de Balzac.</p>
+<p>René DUMESNIL La Publication de Madame Bovary.</p>
+<p>Félix GAUTE Le Mariage de Figaro.</p>
+<p>Louis GUIMBAUD...Les Orientales de Victor Hugo.</p>
+<p>Joseph LE GRAS Diderot et l'Encyclopédie.</p>
+<p>Henry LYONNET Le Cid de Corneille.</p>
+<p>Comtesse Jean DE PANCE ... Mme de Staël et la découverte de l'Allemagne.</p>
+<p>l'Allemagne.</p>
+<p>Alphonse SÉCHÉ La Vie des Fleurs du Mal.</p>
+<p>Louis THUASNE Le Roman de la Rose.</p>
+<p>Paul VULUAUD Les Paroles d'un Croyant de Lamennais</p>
+<p>DEUXIÈME SÉRIE (1929)</p>
+<p>Antoine ALBALAT L'Art poétique de Boileau.</p>
+<p>Henri D'ALMÉRAS Les Trois Mousquetaires.</p>
+<p>André BELLESSORT... Le Demi-Monde, de Dumas fils.</p>
+<p>Gabriel BOISSY Phèdre, de Racine.</p>
+<p>René BRAY Les Fables, de La Fontaine.</p>
+<p>Raymond CLAUZEL Satesse, de Verlaine.</p>
+<p>Gustave FRÉJAVILLE Les Méditations, de Lamartine.</p>
+<p>Yves LE FEBVRE Le Génie du Christianisme.</p>
+<p>Joseph LE GRAS Gargantua, de Rabelais.</p>
+<p>André MORIZE Candide, de Voltaire.</p>
+<p>Pierre-Paul PLAN .. Les Confessions, de J.-J. Rousseau.</p>
+<p>Gilbert AUGUSTIN-THIERRY... Les Récits des temps mérovingiens.</p>
+<p>Chaque volume 9 fr.</p>
+<p><pb/></p>
+<p>LE ROMAN DE LA ROSE</p>
+<p><pb/></p>
+<p>DU MÊME AUTEUR</p>
+<p>Johannis Burchardi Argentinensis Diarium, sive rerum urbanarum
+Commentarii (1483-1506). Paris, Leroux, 1883-1885, 3 vol. grand in-8°.</p>
+<p>Documents sur les Borgia, tirés des Archives du duc d'Ossuna. Paris,
+Leroux, 1885, in-8°, épuisé.</p>
+<p>Gentile Bellini et Sultan Mohammed II. Paris, Leroux, 1888, in-4° avec 8
+planches hors-texte, épuisé.</p>
+<p>Roberti Gaguini Epistole et Orationes. Paris, Champion. 1903, 2 vol.
+in-16. (Couronné par l'Académie des Inscriptions et Belles-Lettres).</p>
+<p>Études sur Rabelais. Paris, Champion, 1904, in-16.</p>
+<p>Villon et Rabelais. — Notes et Commentaires. Paris, Fischba-cher, 1911,
+grand in-8°. (Couronné par l'Académie française) .</p>
+<p>François Villon. OEuvres : édition critique avec notes et glossaire.
+Paris, Aug. Picard, 1923, 3vol.in-8°. (Couronné par l'Académie française).</p>
+<p><pb/></p>
+<p>LES GRANDS ÉVÉNEMENTS LITTÉRAIRES</p>
+<p>LOU INE</p>
+<p>LE ROMAN DE LA ROSE</p>
+<p>SOCIÉTÉ FRANÇAISE D'ÉDITIONS LITTÉRAIRES ET TECHNIQUES EDGAR MALFÈRE,
+ÉDITEUR</p>
+<p>12, RUE HAUTEFEUILLE, PARIS (VIe)</p>
+<p>MCMXXIX</p>
+<p><pb/></p>
+<p>Copyright by Edgar Malfère, 1929.</p>
+<p><pb/></p>
+<p>LES ORIGINES DU ROMAN DE LA ROSE</p>
+<p>Le Roman de la Rose constitue un des monuments poétiques les plus
+importants du moyen âge, autant par sa valeur intrinsèque que par
+l'influence profonde qu'il a exercée sur la littérature française
+pendant près de trois siècles.</p>
+<p>Ce est li Romanz de la Rose</p>
+<p>Ou l'art d'Amors est toute enclose, (v. 37-38).</p>
+<p><pb/></p>
+<p>d'Orléans où l'étude des classiques latins étaient particulièrement en
+honneur ; l'autre, de beaucoup la plus importante, compte 17.500 vers
+écrits entre 1275 et 1280 par Jean Chopinel de Meun-sur-Loire, étudiant
+de l'Université de Paris, la tête bouillonnante encore de l'enseignement
+qu'il y avait reçu.</p>
+<p>Dans les conditions où se présente le poème, il y a tout avantage à
+considérer successivement les deux parties qui le composent.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>s'attaI. raisonnablement ». — « En pluseurs cas pucent li homme escusé
+des griés qu'il font a leur fames, ne ne s'en doit la justice entremetre
+: car il loit (est permis) bien a l'homme a batre sa fame sans mort et
+sans mehaing, quant elle le mesfet, si come quant ele est en voie de
+fere folie de son cors ou quant ele desment son mari ou maudit, ou quant
+eje ne veut obeïr a ses resnables commandemens que preudefame doit fere
+: en teus cas et en semblables est il bien mestiers (besoin) que li
+maris chastieres de sa fame resnablement. Mais puis qu'eles sont
+preudefames de leur cors, elles doivent estre deportees moult d'autres
+vices ; et ne pourquant selon le vice, li maris la doit chastier et
+reprendre en toutes maniérés qu'il verra que bon sera pour li oster de
+cel vice, excepté mort ou mehaing. » Philippe de Beaumanoir, Coutumet de
+Beauvoisis, édit. Am. Salmon, Paris, 1900, t. II, chap. VII, n° 1631, p.
+334. — Cette théorie de P. de Beaumanoir s'appuie sur des faits
+nombreux. Il suffit de parcourir le Romancero françois de Paulin Paris,
+pour être édifié. (Paris, 1833, in-8°, p. 11, 14, 15, 29, 37-38, etc.,)</p>
+<p><pb/></p>
+<p>1. Léon Gautier, La Chevalerie, p. 344.</p>
+<p>2. Ernest Langlois, Origines et sources du Roman de la Rose, p. 3.</p>
+<p><pb/></p>
+<p>2. Le texte de la bulle (Bibl. nat. lat. n. acq. 2547, n° 23) est
+reproduit en fac-similé dans Oulmont, p. 56 bis.</p>
+<p><pb/></p>
+<p>Sic servando regulam,</p>
+<p>nullam viri copulam</p>
+<p>Habendam eligimus,</p>
+<p>sed neque cognovimus,</p>
+<p>Nisi talis hominis,</p>
+<p>qui sit nostri ordinis.</p>
+<p>Vota stulta frangere</p>
+<p>non est nefas facere.</p>
+<p>Il n'y a cause de damnation, ni transgression si l'on</p>
+<p><pb/></p>
+<p>Nulla est dampnatio,</p>
+<p>sed neque transgressio</p>
+<p>Si votum negligitur</p>
+<p>quod stulte promittitur :</p>
+<p>Experto credendum est</p>
+<p>cui bene certum est 1.</p>
+<p>Sed flores colligere,</p>
+<p>rosas primas carpere</p>
+<p>His tantum concessimus</p>
+<p>quos de clero novimus ;</p>
+<p>Hec nostra professio</p>
+<p>erit et intentio</p>
+<p>Clericis ad libitum</p>
+<p>persolvere debitUm.</p>
+<p>Et Elisabeth de conclure que toute son admiration va aux clercs, et son
+hostilité déclarée aux chevaliers.</p>
+<p><pb/></p>
+<p>Ne vos detis vilibus</p>
+<p>nec unquam militibus</p>
+<p>Tactum nostri corporis</p>
+<p>vel colli vel femoris.</p>
+<p>Ce petit poème de deux cent trente huit vers n'est signalé ici que parce
+qu'il ouvre la série des débats sur le clerc et le chevalier, bien que
+n'ayant eu qu'une influence très peu sensible sur le Roman de la Rose,
+si même il peut en revendiquer une. Mais la protestation énergique des
+deux protagonistes du Concile contre la prononciation par contrainte des
+voeux de religion en montre les effets néfastes au point de vue de la
+morale sociale.</p>
+<p>Un autre débat, poème également en latin, en quatrains syllabiques
+monorimes, offre cette fois avec le Roman de Guillaume de Lorris des
+points très appréciables de comparaison : c'est l'Altercatio Phyllidis
+et Florae 2.</p>
+<p>1. Le texte dans Oulmont, Les Débats..., p. 107.</p>
+<p>« Tous ces galans de Cour dont les femmes sont foles Sont bruyans dans
+leurs faits et vains dans leurs paroles De leurs progrès sans cesse on
+les voit se targuer,</p>
+<p>Ils n'ont point de faveurs qu'ils n'aillent divulguer,</p>
+<p>Et leur langue indiscrette en qui l'on se confié,</p>
+<p>Deshonore l'autel où leur coeur sacrifie.</p>
+<p>Mais les gens comme nous brûlent d'un feu discret,</p>
+<p>Avec qui pour toujours on est seur du secret.</p>
+<p>Et c'est en nous qu'on trouve, acceptant nostre coeur, De l'amour sans
+scandale et du plaisir sans peur. »</p>
+<p>Molière, Le Tartufe ou l'Imposteur, acte III, sc. III ; Paris, Jean
+Ribou, 1669, p. 51 »</p>
+<p><pb/></p>
+<p>1. L'édition critique de ce poème a été donnée en dernier lieu par
+Oulmont, Les Débats..., p. 107.</p>
+<p><pb/></p>
+<p>1. Pamphile ou l'Art d'être aimé, comédie latine du dixième siècle,
+publié par A. Baudoin, Paris, 1874, in-12- (Vers 1-180.) — En voir
+l'analyse dans Langlois, Origines..., p, 21-23.</p>
+<p><pb/></p>
+<p>Ces différents ouvrages vinrent se résumer dans le De Arte honeste
+amandi d'André le Chapelain, qui est, comme le dit Gaston Paris, « le
+code le plus complet de l' amour courtois tel qu'on le voit en action
+dans les Romans de la Table Ronde. »1</p>
+<p>1. G. Paris, La Littérature fr. au moyen-âge (1888), § 104, p. 152.</p>
+<p>2. Romania, t. XII (1883), p. 528 et suiv,</p>
+<p><pb/></p>
+<p>1. Livre II, chap. VIII, Demultis et variis judiciis Amoris. C'est là
+que sont rapportés plusieurs jugements « sur lesquels on a échafaudé la
+fameuse théorie des Cours d'Amours ». Langlois, Origines et sources..,</p>
+<p>p. 25.</p>
+<p>2. Andre capellani regii Francorum de Amore libri 1res, recensuit E.
+Trojel. Haunioe, 1892, in-8°.</p>
+<p><pb/></p>
+<p>naire. Il est vrai que Trojel devait trouver dans Pio Rajna (Le Corti
+d'Amore, Milan, 1890, in-12), un partisan de son opinion, pour d'autres
+motifs, il est vrai 1.</p>
+<p>L'auteur anonyme de La Clef d'Amour (XIIIe siècle), imitation de l'Ars
+amaloria d'Ovide, et aussi de Chrétien de Troyes, considère que, lorsque
+l'on parle d'amour, il ne saurait être question de mariage :</p>
+<p>Des maris ne me parlés mie,</p>
+<p>Ce n'est que chochonnerie 2.</p>
+<p>Femme par mariage prise Est aussi comme en prison mise,</p>
+<p>Car il convient quel se soumete A tout ce qui au mari hete... 3</p>
+<p>1. Cf. Remania, t. XIX (1890), p. 372.</p>
+<p>2. maquignonnage. — 3. plaît.</p>
+<p><pb/></p>
+<p>Cette opinion peut être exacte, pour les deux premiers livres du traité
+d'André le Chapelain, mais non pour le troisième ; car celte fois, il
+écrit en son nom et ce sont ses propres opinions, non déguisées, qu'il
+développe librement l.</p>
+<p>En 1290, le traité latin d'André le Chapelain était traduit en vers
+français par Drouart la Vache, ce qui venait encore en accroître la
+réputation. Quelques années après la mort de ce dernier, et avant 1328,
+Nicole de Margival, l'auteur du dit de la Panthère d'Amours 2,
+mentionnait une version du livre « qu'on appelle en françois Gautier »
+3, c'est-à-dire le traité d'André le Chapelain, dénommé aussi Fleur
+d'amour 4, que N. de Margtval avait sans doute connu par la version de
+son ami Drouart 5. N. de Margival ne cache pas son admiration pour le
+Roman de la Rose :</p>
+<p>Qui veult d'amors a chief venir,</p>
+<p>Dedens le rommant de la Rose Trouvera la science enclose.</p>
+<p>1. Histoire litt. de la France, t. XXI, p. 000.</p>
+<p>2. Édité par Todd (Soc.des anc. textes fr.), Paris, 1883.</p>
+<p>4. Bibl. nat., lat. 8758, fol. 119 « qui etiam liber alio nomihe dicitur
+Flos amoris ».</p>
+<p>5. C'est ce que suppose Todd, p. XXIV</p>
+<p><pb/></p>
+<p>La porras, si tu Veus, attendre Comment vrais amans doit entendre A
+servir Amors sans meffaire... (v. 1032-37).</p>
+<p>R. Bossuat, Drouart la Vache, p. 31.</p>
+<p><pb/></p>
+<p>Par ce qui précède, on voit que si Guillaume de Lorris, a peu
+d'originalité par lui-même, il rachète ce défaut par le goût qu'il a
+montré dans le choix des matériaux et</p>
+<p>1. Revue bleue, Paris, 1894 (2e semestre), p. 35-41. Un naturaliste du
+XIIIe siècle : étude de Lanson qui l'a transportée dans son Histoire de
+la littérature française, moins les soixante premières lignes où figure
+cette appréciation ici reproduite.</p>
+<p><pb/></p>
+<p>Gaston Paris trouve qu'on a lieu de s'étonner que l'Amant s'étant épris
+d'une jeune fille, l'idée du mariage ne semble pas même se présenter à
+l'esprit de l'auteur 3. Mais il ne pouvait en être autrement, puisque
+Guillaume de Lorris, dans son art d'amour, a particulièrement en vue de
+glorifier l'amour courtois qui était de nature essentiellement libre et
+incompatible avec le mariage : G. Paris</p>
+<p>1. Histoire littéraire de la France, t. XXIII, p. 8.</p>
+<p>2. Gaston Paris, Esquisse historique de la Littérature française :
+moyen-âge (1907), p. 194.</p>
+<p>3. La Littérature franç. au moyen-âge (1888), p. 164 (§ 112).</p>
+<p><pb/></p>
+<p>Mais avant de parler de Jean de Meun, il n'est pas inutile de citer les
+auteurs qui, avant l'apparition de la seconde partie du Roman de la
+Rose, ont imité Guillaume</p>
+<p>1. Romania, t. XII, p. 519</p>
+<p>2. Paris, 1814, t. I, p. XVI</p>
+<p><pb/></p>
+<p>Jean Chopinel ainsi que l'appellent les meilleurs manuscrits, et non
+Clopinel comme on le trouve dans les autres, est l'auteur de la seconde
+partie du Roman de la Rose.</p>
+<p>I. Messire Thibaut, Li Romanz de la Poire, publ. par E. Stehlich, Halle,
+1881, in-8°.</p>
+<p><pb/></p>
+<p>de Montreuil, le même qui écrivit le Roman de la Violette ; le tout
+formant un poème de plus de 63.000 vers ! Antérieurement, Chrétien de
+Troyes avait chargé un de ses amis de terminer son célèbre Roman de la
+Charrette ou de Lancelot qu'il avait commencé en 1190. Un peu après la
+mort de Jean de Meun, François de Rues, composait</p>
+<p>Ï&gt;ar ordre de Philippe le Bel le Roman de Fauvel en deux ivres : le
+premier avait paru</p>
+<p>en l'an mil et trois cens et dis,</p>
+<p><pb/></p>
+<p>avoit, de grant long temps a, donné par son testament ou ordonnance de
+derniere voulenté au couvent desdictz freres Prescheurs. » En 1393 au
+mais d'août ou de septembre, Honoré Bonet, dans L'Apparition de Jehan de
+Meun ou le Songe du prieur de Salon, nous fournit quelques détails sur
+cet hôtel et son possesseur : « En mon deport, après soupper, heure bien
+tarde, m'en alay ens le jardin de la Tournelle, hors de Paris, qui fu
+jadis maistre Jehan de Meun, ou je me fus mis tout seul au quignet 1 du
+jardin, prins telle ymaginacion qu'elle me tint tant longuement que se
+je m'endormy soit en bonne heure. Mais vecy venir un grant clerc bien
+fourré de menu vair, sy me commença a tancer et fierement parler et dire
+en ryme :</p>
+<p>Que faites vous cy, sire moyne,</p>
+<p>Et quel vent ne temps vous y moyne 2?</p>
+<p>Je ne fis oncques cest jardin Pour esbatre 3 vostre grant vin Que vous
+avez anuit 4 beü.</p>
+<p>Je suis maistre Jehan de Meün Qui par mains vers, sans nule prose,</p>
+<p>Fis cy le Romant de la Rose ;</p>
+<p>Et cest hostel que cy voyez Pris pour acomplir mes souhez....</p>
+<p>Un bail du 21 janvier 1610 nous apprend que l'hôtel de la Tournelle fut
+détruit vers 1590, au temps des guerres de religion : « Une place et
+masure ou souloit avoir une maison appelée la maison des Tournelles,
+ensemble un petit jardin estant derriere ; par dedans de laquelle
+passent les eaux et immondices d'un des égouts du faubourg Saint Jacques
+; et laquelle maison des Tournelles avoit esté destruicte depuis quinze
+ans en ça par les guerres ;</p>
+<p>I. coin. — 2. mène. — 3. cuver. — 4. cette nuit.</p>
+<p><pb/></p>
+<p>la dicte place contenant 27 toises de long sur 11 de large 1. »</p>
+<p>L'emplacement de la maison habitée par Jean de Meun a été identifié par
+Quicherat avec celle qui porte aujourd'hui le numéro 218 de la rue
+Saint-Jacques ; l'édilité parisienne y a fait apposer depuis une plaque
+commémorative.</p>
+<p>De ce que Jean de Meun avait légué son hôtel aux Frères prêcheurs, des
+auteurs ont supposé qu'il était lui-même dominicain. L'abbé Goujet
+remarque fort justement qu'il ne le fut jamais 2, et que si les Pères
+Quétif et Échard le mentionnent parmi les écrivains de leur Ordre, c'est
+pour protester contre cette allégation et montrer qu'il n'en n'a jamais
+fait partie, pas plus qu'il n'a été maître en théologie 3.</p>
+<p>J'ai fait en ma juenece mainz diz par vanité,</p>
+<p>Ou maintes gens se sont pluseurs foiz delité ;</p>
+<p>Or m'en doint Deus ung faire par vraie charité Pour amender les outres
+qui pou m'ont profité.</p>
+<p>Dans son Testament, rédigé sans doute avant 1396</p>
+<p>1. Bibl. de l'École des Char., t. XLI, p. 49, n. 5.</p>
+<p>2. Bibliothèque françoise (1745), t. IX, p. 36.</p>
+<p>3. Scripiores ordinis Praedicqtofum, Paris, 1719, in-fol., t I, p. 741.</p>
+<p><pb/></p>
+<p>Dieus m'a fait, soie 1 grace, maint bien corporelment, Encor m'a il plus
+fait esperituelment ;</p>
+<p>Si m'a touz jourz esté larges temporelment,</p>
+<p>Por quoi je le devroie amer trop corelment 3.</p>
+<p>Dieus m'a irait senz reproche de jonece et d'enfance,</p>
+<p>Dieus m'a par maint peril conduit sans mescheance,</p>
+<p>Dieus m'a doné au mieuz eneur et grant chevance,</p>
+<p>Dieus m'a doné servir les plus granz gens de France 9.</p>
+<p>Encor dol plus l'amer, quant bien je me remembre,</p>
+<p>Qu'il me fist, quant au cors, sans defaulte de membre 4.</p>
+<p>On m'apele Bochu, mais je ne le sui mie 5</p>
+<p>par sa grâce. — 2. de coeur.</p>
+<p>3. Édit. Méon, t. IV, p. 13.</p>
+<p>4. Bibl.nat. fr. 1565, fol. 146 (ms. de 1352). Ces deux vers manquent
+dans Méon : la leçon d'ailleurs, comme le remarque Ernest Langlois, est
+douteuse ; t. I. p. 15,</p>
+<p>5. Bibl, nat. fr. 25.566, fol, 60 c. — Cest du roi de Sezile</p>
+<p><pb/></p>
+<p>Et maistre Jehan Clopinel</p>
+<p>Au cuer joli, au corps isnel,</p>
+<p>Qui clochoit si comme je fais (v. 749-51) 1.</p>
+<p>Qui les anciens livres firent (v. 15224).</p>
+<p>I. Van Hamel, Les Lamentations de Malheolus, p. CLXXXVII.</p>
+<p><pb/></p>
+<p>Car il fait bon de tout saveir (v. 15214).</p>
+<p>Profit et delectacion</p>
+<p>C'est toute leur intencion (v. 15241-2),</p>
+<p>I. Il y a même, dans ce dernier, un chapitre des Caractères où il se
+rencontre d'une façon singulière avec Jean de Meun. L'énergie de</p>
+<p><pb/></p>
+<p>Bien différent en cela de Guillaume de Lorris qui n'a que dédains pour
+les vilains qu'il considère volontiers comme formant ce qu'on est
+convenu d'appeler vulgairement la canaille : il faut l'entendre quand il
+rapporte les paroles du dieu d'amour recevant son hommage :</p>
+<p>Si me baiseras en la bouche A cui nus vilains on ne touche (v. 1935-6) ;</p>
+<p>ou cette autre méprisante invective :</p>
+<p>Vilains est fel e senz pitié,</p>
+<p>Senz servise e senz amitié... (v. 2085-6).</p>
+<p>Jean de Meun est l'adversaire de l'amour courtois et platonique, non
+moins que des fadaises sentimentales qui en font la substance : il est
+positif et réduit l'amour aux plaisirs des sens, imitant en cela Lucrèce
+qu'il ne cite pas, mais dont l'influence ne laisse pas d'apparaître
+incidemment dans cette suite du Roman de Guillaume.</p>
+<p><pb/></p>
+<p>Car Deus, li beaus outre mesure,</p>
+<p>Quant il beauté mist en Nature,</p>
+<p>Il en i fist une fontaine Toujouz courant e toujourz pleine,</p>
+<p>De cui toute beauté desrive ;</p>
+<p>Mais nus nen set ne fonz ne rive.</p>
+<p>Pour ce n'est dreiz que conte face,</p>
+<p>Ne de son cors ne de sa face,</p>
+<p>Qui tant est avenant e bele</p>
+<p><pb/></p>
+<p>Que fleur de lis en mai nouvele,</p>
+<p>Pose seur rain, ne neif seur branche</p>
+<p>N'est si vermeille ne si blanche</p>
+<p>Si devraie je comparer</p>
+<p>Quant je l'os a riens comparer,</p>
+<p>Puis que sa beauté ne son pris</p>
+<p>Ne peut estre d'ome compris (v. 16233).</p>
+<p>Mais des poetes les sentences,</p>
+<p>Les fables et les metaphores</p>
+<p>1. Après que.</p>
+<p><pb/></p>
+<p>Ne bé 1 je pas a gloser ores 2 ;</p>
+<p>Mais se ja puis estre gueriz,</p>
+<p>E li servises m'iert meriz 3</p>
+<p>Don si grant guerredon 4 atens,</p>
+<p>Bien les gloserai tout a lens,</p>
+<p>Au meins ce qui m'en ajerra 5</p>
+<p>Si que cbascuns cler i verra (v. 7190-98).</p>
+<p>I. n'aspirè-je. — 2. présentement. — 3. reconnu. — 4. récompense. — 5.
+appartiendra.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1. R. Bossuat, l'éditeur du poème de Drouart la Vache, considère que «
+le savoir encyclopédique de Jean de Meun, constitue en quelque sorte un
+maximum. » Drouart la Vache, traducteur d'André le Chapelain,</p>
+<p>2. Guillaume de Saint-Amour a fourni des traits nombreux au personnage
+de Faux-Semblant, un millier de vers environ, et qui figurent parmi les
+plus énergiques et les plus admirés de Jean de Meun. La vigueur de cette
+peinture rappelle Tartufe, au cinquième acte, et soutient sans fléchir
+la comparaison avec cet autre chef-d oeuvre de Molière.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1. Annales d'Aquitaine. Poitiers, 1545, in-fol., p. 82.</p>
+<p>2. Recueil de l'origine de la langue et poésie françoise, ryme et
+romans. Paris, 1581, in-4°, p. 206. — Dans ce même Recueil, on relève ce
+jugement de Claude Fauchet sur les deux auteurs du Roman de la Rose : «
+Guillaume de Lorris et Jehan Clopinel, les plus renommez de tous nos
+poètes anciens », p. 207.</p>
+<p><pb/></p>
+<p>de leur état. On peut donc, je pense, regarder ce fait comme apocrif 1. »</p>
+<p>Par la grant haine diverse Qui dedens Faus Semblant converse, Fu
+Clopinel aus chans couvert Pour ce quil ot voir descouvert 2.</p>
+<p>Com cis Jehans ne chil Guillaumes 3. »</p>
+<p>1. Le Roman de la Rose, Paris, 1814, in-8°, p. xviii.</p>
+<p>2. Les Manuscrits du Roman de la Rose, Lille-Paris, 1910, in-8°, p. 19,
+155, 156, 183.</p>
+<p>3. Ce remaniement est l'objet d'un travail très complet d'Ernest
+Langlois : Guy de Mori et le Roman de la Rose, publié dans la
+Bibliothèque de l'École des Charles, t. LXVIII (1907), p. 249-271.</p>
+<p><pb/></p>
+<p>Méon, qui avait eu connaissance de ce poème par un manuscrit que lui
+avait communiqué l'abbé de Tersan, en parle dans l'Avertissement placé
+en tête de son édition du Roman de la Rose (I, p. IX-X), avec plusieurs
+inexactitudes qu'a relevées Ernest Langlois au cours de son étude.</p>
+<p>Mais il convient de donner un souvenir aux partisans et aux adversaires
+du Roman, au moins aux plus marquants d'entre eux.</p>
+<p>Des manuels d'histoire littéraire successivement reproduits ailleurs
+citent tout d'abord le Pèlerinage de la vie humaine de Guillaume de
+Digulleville, moine cistercien, et le représentent comme nettement
+hostile au Roman de la Rose qu'il aurait qualifié de « roman de luv'fe
+», et</p>
+<p><pb/></p>
+<p>où il aurait accusé Jean de plagiat. Or on ne voit rien de pareil si
+l'on ouvre le manuscrit français 376 de la Bibliothèque nationale,
+lequel comprend la première rédàction écrite entre 1330 et 1335. Elle
+débute ainsi : « Cy commence le pelerinage de humain voyage de vie
+hummaine qui est exposé sus le romans de la Rose.</p>
+<p>A ceulx de ceste region Qui point n'y ont de mension,</p>
+<p>Ains y sont tous, com dit s. Pol,</p>
+<p>Riche, povre, sage et fol,</p>
+<p>Soient roys, soient roynes Pelerins et pelerines,</p>
+<p>Une vision vueit noncier Qui en dormant m'avint l'autier En veillant
+avoye leü,</p>
+<p>Consideré et bien veü Le biau roumans de la Rose.</p>
+<p>Bien croy que ce fu la chose Qui plus m'esmut ad ce songier</p>
+<p>Que ci après vous vueil noncier</p>
+<p>Or entendés la vision Qui m'avint en religion,</p>
+<p>En l'abbaye de Chaliz Si com j'estoie en nostre lit :</p>
+<p>Advis m'estoit si com dormoye Que je pelerins estoye Qui d'aler estoye
+excité En Jherusalem la cité... » fol. 1a-b.</p>
+<p>La personnification de Luxure apparaît au troisième livre où elle
+déclare au Pèlerin que sa plus implacable ennemie est Virginité ;
+Chasteté vient ensuite. Dans une seconde rédaction écrite quelque vingt
+ans après, soit en 1355, Digulleville supprime le titre qui figure dans</p>
+<p><pb/></p>
+<p>la première, et le remplace par ces quatre vers, rubriqués sur le
+manuscrit (Bibl. nat. fr. 377) :</p>
+<p>En l'onneur Trinité hautaine,</p>
+<p>Ce livre de la vie humaine Fist un des moines de Chalit,</p>
+<p>Par très saint et devot delit.</p>
+<p>Un certain nombre de vers de la première rédaction sont supprimés dans
+la seconde et remplacés par d'autres. Le personnage de Luxure disparaît
+dans le ms. fr. 377, et est remplacé par Vénus. Celle-ci revendique pour
+elle seule la composition du Roman de la Rose. Le Pèlerin lui demande
+pourquoi cette prétention de dire que le poème est sien. Vénus de lui
+répondre qu'elle a toute raison pour parler ainsi ; car c'est elle qui a
+inspiré les auteurs du Roman et que, par suite, ce poème est son ouvrage,</p>
+<p>Si corne il aperl sans glose En mon Roumant de la Rose.</p>
+<p>Le Pèlerin insiste :</p>
+<p>Pour quoy, dis je, dis estre tien Le roumant quas dist ? que say bien
+Qui le fist et coment eut non.</p>
+<p>Si parle Venus :</p>
+<p>Du dire, dist elle, ay raison,</p>
+<p>Quar je le fis et il est mien ;</p>
+<p>Et ce puis je prouver très bien,</p>
+<p>Quar du premier jusques au bout,</p>
+<p>Sans descontinuer trestout Il n'y a fors de moy parlé ;</p>
+<p><pb/></p>
+<p>Et tant seulement excepté Que mon clerc escripvain 1 embla 2 Et en
+estranges chans 3 soia 4 De quoy maintes gens ont cuidié 5 Que en sa
+terre l'eust soié ;</p>
+<p>Mès non fist, ains partie grant Il en embla en autrui champ,</p>
+<p>Dont il avint que quant soioit Et que en .1. sac tout boutoit Pour ce
+que le vouloit celer Et droit navoit de l'emporter. D'un Normant haust
+escrié fu, Qui de loin l'avoit perceü : « Ha ! ha ! dist il, n'est pas
+raison De faire fais 6 d'autrui moisson ! » Celui tantost s'en affui 7,</p>
+<p>Mès pas ne fu tant esbahi Que le larrecin n'aportast.</p>
+<p>Et en mon tournant ne l'entast. La quel chose moult me desplust, Quar je
+vousisse que n eüst Fors seulement de moy escript, Si com je li avoië
+dit Ou, au mains, qu'il ni eust rien Mis fors tant seulement du sien, Ou
+fu pour ce que escrié Fu de ce qu'il avoit emblé : Onques puis Normant
+il n'ama, Si com le Roumant bien monstra Disant que de Normandie Estoit
+Maie Bouche affuie 8</p>
+<p>I. Jean de Meun. — 2. pilla. — 3. champs. — 4. coupa.</p>
+<p>5. pensé. — 6. bottes. — 7. s'enfuit.</p>
+<p>8. enfui. — ... la porte darrieres</p>
+<p>Que Maie Bouche tient en garde</p>
+<p>0 (avec) ses Normanz, que mous feu arde I (v. 10722-24)</p>
+<p><pb/></p>
+<p>Dont il menti, ausi com fist Quant des religieus mesdit A ma faveur,
+pour ce que hé 1 Et parsui 2 partout Chasteté. » (fol. 53b).</p>
+<p>Toy donc dis et ton escrivain Estes de grant mauvestié plain.</p>
+<p>Li hiau roumans de la Rose.</p>
+<p>1. hais. — 2. poursuis.</p>
+<p>3. Les manuscrits français de la Bibliothèque du Roy, t. III, p. 245.</p>
+<p><pb/></p>
+<p>Rimer vuel, douce pucelle,</p>
+<p>En cui mes cuers est et repose,</p>
+<p>Pour vostre amour rime nouvelle,</p>
+<p>Tele com mes cuers le propose ;</p>
+<p>Plus plaisons assés et plus belle Et plus vraie, bien dire l'ose,</p>
+<p>Et plus honeste que n'est celle Dou Roumant con dit la Rose 3.</p>
+<p>Mais l'ouvrage, abandonné dès le début, ne permet pas d'en juger.</p>
+<p>1. dérobées</p>
+<p>2. Charles Oulmont, Le Verger, le Temple et la Cellule, p. 264, n. 1.</p>
+<p>3. Bibliothèque nat. fr. 14966, fol. 1 v°. Cy commence le prologue sur
+les Cantiques Salemon. (Ms. du XIVe s.). J. Bonnard qui mentionne ce ms.
+a cru devoir corriger le dernier vers en « con dit de la Rose », sans
+remarquer que ce poème, comme celui de Digulleville, était souvent
+versifié en comptant dans la mesure la finale féminine. (J. Bonnars,
+Traductions de la Bible en vers français, p. 164.) Voir, au sujet de
+cette particularité « fort rare », Paul Meyer dans : Notices et extraits
+des mss. de la Bibl. nat., t. XXXIV (1891), 1re part., p. 171-174.</p>
+<p><pb/></p>
+<p>1. Bourret, Essai hist. et ait. sur les sermons français de Gerson
+(Paris, 1858), p. 21.</p>
+<p><pb/></p>
+<p>(Bibl.nat.fr. 604, fol. 112c). .</p>
+<p>Ce débat ne resta pas toujours gracieux, tant s'en faut ;</p>
+<p><pb/></p>
+<p>Dans ses critiques contre les attaques de Jean de Meun, Christine a
+surtout en vue de réhabiliter le sexe féminin des calomnies dont il est
+souvent l'objet dans toute la seconde partie du Roman ; autrement elle
+rend justice « a la grant joliveté en aucunes pars... » qu'on y
+remarque. « Ne mieulx ne pourroit estre dit plus subtillement ne par
+plus mesurez traiz de ce qu'il volt traictier... » Mais elle blâme le
+cynisme de l'auteur qui « trop traite des honnes-tement en aucuns pars
+et mesmement du personnage qu'il claime Raison, laquelle nomme les
+secrez membres pleinement par nom. » Elle poursuit : « Je di et confesse
+que vraiement crea Dieu toutes les choses pures et nectes venant de soy.
+Na doneques en l'estat d'innocence n'eust esté laidure les nommer, mais
+par la pollucion de pechié devint homme immonde, dont encore nous est
+demouré pechié originel... » « Je vous confesse que le nom ne fait la
+deshonnesteté de la chose, mais la chose fait le nom deshonneste. Pour
+ce, selon mon faible advis, en doit estre parlé sobrement et non sens
+necessité pour fin d'aucun cas particulier, comme de maladie ou autre
+honneste necessaire. » Ailleurs, Christine déclare : « Non obstant qm
+mon jugement confesse maistre Jehan de Meun moult grant clerc soutil et
+bien parlant, et trop meilleur euvre plus proufitable et de sente-ment
+plus hault eust sceu mectre sus, s'il si feust appliquié dont fut
+dommaige ; mais je suppose que la grant charnalité puet estre dont il
+fut raempli le fist plus habonder a voulenié</p>
+<p>1. Sur ce texte et d'autres similaires, voir mon édit. des OEuvres de
+Villon, t. II, p. 107, n° XV.</p>
+<p><pb/></p>
+<p>aue a bien proufitable... Non obstant ce, je ne reprouve mie le Rommant
+de la Rose en toutes pars ; car il y a de bonnes choses et de bien
+dictes senz faille, et de tant est plus grant le peril ; car plus est
+adjoustee foy au mal, de tant que le bien y est plus autentique... »
+(fr. 604, fol. 116b.)</p>
+<p><pb/></p>
+<p>« LE TRAICTIÉ MAISTRE JEHAN GERSON CONTRE LE ROUMANT DE LA ROSE 1 ».</p>
+<p>(18 mai 1402).</p>
+<p>Par ung matin nagueres en mon veillant 2 me fut aviz que mon cuer ynel 3
+s'envola, moyennans les plumes et les eles de diverses pensees, d'un
+lieu en autre jusques a la court saincte de Crestienté, telle comme
+estre souloit, Illec estoit Justice canonique la droicturiere, séant sur
+le trone d'équité, soustenu d'une pcrt par Miséricorde, d'autre part par
+Vérité, Justice en sa main dextre tenoit le sceptre de remu-</p>
+<p>2. étal de veille. — 3. léger.</p>
+<p><pb/></p>
+<p>neracion, en la semestre l'espee trenchant de punicion ; or les yeulx
+vifs, honnourables et plus resplendissons que nest la belle estoille
+journele, voire que le soleil. Bele fut sa compagnie ; car d'une part
+estoit son trés saige conseil, et tout a l environ se tenoit sa noble
+chevalerie et baronnie de toutes Vertus, qui sont filles de Dieu
+proprement et de Franche Voulenté, comme Charité, Force, Attrempance, 1
+Humilité et autres a grant nombre. Le chief du conseil et corne le
+chancelier estoit Entendement soubtil joint par compaignie ferme a dame
+Raison la saige. Ses secretaires furent Prudence et Science ; Foy la
+bonne crestienne, et Sapience, la divine celestienne, furent de
+l'estroit 2 conseil. En leur aide estoient Mémoire, Providence, Bon
+Sentement et autres pluseurs. Eloquence theologienne, qui fu de moyen
+lengage et attrempé 3, se pourtoit pour advocat de la court. Le
+promoteur des causes avoit nom Conscience, car riens nest quelle ne
+saiche ne raporte.</p>
+<p>Ainsi comme je me delittoie 4 par grande admiration a regarder tout le
+bel arroy 5 de ceste court de Crestienté et de Justice la droicturiere,
+se va lever, comme me sembla, Conscience, qui, de son office, promuet
+les causes de la court avec Droit, qui pour maistre des requestes se
+porte. Conscience tint en sa main et en son sain pluseurs supplications
+: entre les autres en y ot une qui mot a mot, bien m'en remembre,
+contenoit ceste complainte piteable de Chasteté, la très belle, la trés
+pure, qui onques ne daigna neiz 6 penser aucune vilaine ordure.</p>
+<p>A Justice la droicturiere, tenant le lieu de Dieu en terre, et a toute
+sa religieuse court, devote et crestienne, supplie humblement et se
+complaint Chasteté, vostre feable subjecte, que remede soit mis et
+provision breve sur les fourfaitures intolerables lesquelles ma fait et
+ne cesse faire un qui se</p>
+<p>1. Modération. — 2. privé. — 5. modéré. — 4. délectais. — 5. ordonnance.
+— 6. pas même.</p>
+<p><pb/></p>
+<p>fait nommer le Fol Amoureux, et sont telz les articles :</p>
+<p>LE PREMIER ARTICLE. Ce Fol Amoureux met toute sa painne a chacier hors
+de la terre moy, qui n'y ay coulpe et mes bonnes gardes aussy qui sont
+Honte, Paour et Dangier le bon portier qui ne oseroient ne ne
+daigneraient octroyer neiz un vilain baisier, ou dissolu regart, ou ris
+attraiant, ou parole legiere. Et ce il fait par une vieille mauldite,
+pieur que diable, qui enseigne, monstre et enhorle comment toutes jeunes
+filles doivent vendre leurs, corps tost et chierement, sans paour et
+sans vergoigne, et que elles ne tiennent compte de decevoir ou parjurer,
+mais quelles ravissent toujours aucune chose, et ne facent force du
+dangier de se donner hastivement tant quelles sont belles, a toutes
+vilaines ordures de charnalité, soit a clers, soit a lais, soit a
+prestres, sans différence.</p>
+<p>LE SECOND ARTICLE. Il vuelt deffendre et reprouver mariage sans
+exception par un jaloux soupeçonneux, haineux et chagrigneux, et par lui
+mesmes et par les diz d'aucuns mes adversaires, et conseille plus tost a
+se pendre ou se noyer ou a faire pechiés qui ne sont a nommer que se
+joindre en mariage, et blasme toutes femmes, sans quelconque en oster,
+pour les rendre haineuses a tous les hommes tellement que on ne les
+veulle prendre ai foy de maraige.</p>
+<p>LE TIERS ARTICLE. Il blasme jeunes gens qui se donnent en religion, pour
+ce, dit-il, que toujours tendent a en issir de leur nature. Et cecy est
+en mon préjudice, car je suis donnée especiaument a religion.</p>
+<p>LE QUART ARTICLE. Il gette partout feu plus ardent et plus puant que feu
+gregois ou de souffre, feu de paroles luxurieuses a merveille, ordes et
+deffendues, aucuneffois ou nom de Venuz ou de Cupido ou de Genius,
+souvente ffoiz en son propre nom, par quoy sont arses et brullees mes
+belles maisons et habitations et me temples sacrez des ames humainnes,
+et en sui boutee hors vilainement.</p>
+<p>LE Ve ARTICLE. Il diffame dame Raison, ma bonne maistresse, en lui
+incitant sus telle raige et tel vilain blaffeme</p>
+<p><pb/></p>
+<p>qu'elle conseille parler nuement, deslaveemet 1 et gouiardemenl 2, sans
+honte de toutes choses, tant soient abhominables et honteuses a dire ou
+a faire, mesmement entre personnes très dissolues et adversaires a moy.
+Helasl ! Et s'il ne me voulait espargnier, que lui a meffait Raison ?
+Mais ainsi est. Certes il prent guerre a toutes vertus.</p>
+<p>LE VIe ARTICLE. Quant il parle des choses sainctes et divines et
+esperituelles, il mesle tantost paroles très dissolues et esmouvans a
+toute ordure. Et touteffoiz ordure ja n'entrera en paradiz tel comme il
+descript.</p>
+<p>LE VIIe ARTICLE. Il promet paradiz, gloire et loyer 3a tous ceulx et
+celles qui acompliront les euvres charnelles, mesmement hors mariage,
+car il conseille en sa propre personne et a son exemple essaier de
+toutes manieres de femmes sans differance, et mauldit tous ceulx et
+celles qui ainsi ne le feront, au mains tous ceulx qui me recevront et
+retenront.</p>
+<p>LE VIIIe ARTICLE. Il, en sa personne, nomme les parties deshonnestes du
+corps et les pechiés ors et vilains par paroles sainctes et sacrees,
+ainsi comme toute telle euvre faist chose divine et sacree et a adourer,
+mesmement hors mariage et par fraude et violence ; et n'est pas content
+des injures dessusdittes s'il les a publiées de bouche, mais les a fait
+escripre et paindre a son pouvoir curieusement et richement, pour
+attraire plus toute personne a les veoir, oyr et recevoir. Encor y a
+pis, car, afin que plus soubtivement il deceust, il a meslé miel avec
+venin, sucre avec poison, serpens venimeux cachiés soulz herbe verde de
+devocion, et ce fait il en assemblant matieres diverses, qui bien
+souvent ne sont gueres a son propos, se non a cause dessusdicte, et pour
+ce qu'il feust mieulx creu et de plus grande auctorité de tant qu'il
+sembleroit avoir plus veu de choses et plus estudié.</p>
+<p>Si vous suppli, dame fustice, de hastif remede et convenable provision
+sus toutes ces injures et autres trop plus que ne</p>
+<p>I. sans retenue. — 2. effrontément. 3. récompense.</p>
+<p><pb/></p>
+<p>contient ceste petite supplicacion, mais son livre en fait foy trop plus
+que mestier 1 ne fust. »</p>
+<p>Après que ceste supplicacion de Chasteté fu lute 2 distincteement et en
+apert 3, illec peussiés vous appercevoir tout le conseil et toute la
+noble Chevalerie qui a leur chiere 4 et leur semblant bien apparoient
+estre indignés. Neantmoins comme saiges et allrempez dirent que partie
+seroit ouye, mais pour ce que le Fol Amoureux, qui estoit accusé, n'y
+estoit pas (il avoit ja trespassé le hault pas du quel nulz ne revient)
+5 on demanda s'il avoit en la court de Crestienté procureurs ou
+faulteurs ou bien veullans quelxconques : lors veissiés, a une grant
+tourbe 6 et une flotte, gens sans nombre, jeunes et vieulx, de tous
+sexes et de tous aages, qui, sans garder ordre, a tors et a travers
+vouloient l'un l excuser, l'autre le dejfendre, l'autre le louer,
+l'autre demandoit pardon a cause de jeunesce et de folie, en allegant
+qu'il s'en estoit repenti quant il escript depuis : « J'ay fait » dit il
+« en ma jeunesce mainz diz par vanité » 7; l'autre le soustenoit pour ce
+qu'il avoit esté tel et si notable clerc et beau parleur sans parail en
+françois 8, aucuns pour ce qu'il avoit dit si proprement la verité de
+tous estas, sans espargnier nobles ou non nobles, païs ou nacion, siecle
+ou religion. « Et quel mal est ce », dit l'un des plus avisiés, « quel mal</p>
+<p>1.besoin.</p>
+<p>2. lue. — 3. ouvertement. — 4. visage.</p>
+<p>5. Cette image est empruntée au Lancelot en prose de Chrétien de Troyes
+(G. Paris, Litt. fr. au moyen-âge, § 61, p. 101 ) ; et se retrouve dans
+le monologue d Hamlet :</p>
+<p>The undiscover'd country, from whose bourn No traveller returns (act.
+III, se. 1).</p>
+<p>6. foule.</p>
+<p>7. Premier vers du deuxième quatrain du Testament maisre Jehan de Meun ;
+édit. Méon, t. IV, p. 1.</p>
+<p>8. Gerson ne s'exprime pas ici en son nom : c'est le témoignage d'un des
+admirateurs de J. de Meun qu'il proclame par la bouche d'Eloquence :
+Christine de Pisan, elle, fera entendre sa propre opimon.</p>
+<p><pb/></p>
+<p>est ce, je vous prie, se cest homme de tel sens, de tele estude et de
+tel renom a voulu composer un livre de personnages ou quel il fait
+parler par grant maistrize chascun selon son droit et sa propriété ? Ne
+dit pas le prophete en la personne du fol que Dieu n'est pas ? Et le
+saige Salemon ne fit il en especial tout son livre Ecclesiastes en ceste
+maniere, par quoy on le sauve de cent et cent erreurs qui la sont en
+escript ? S'il a parlé legierement, c'est la condicion de Venuz, ou de
+Cupido, ou d'un fol amoureux, le quel il veut representer. Et ne parla
+Salemon en ses Cantiques en guise de amoureux par paroles qui pourroient
+altraire a mal ? Neantmoins on le lit. S'il dit ou personnage de Raison
+que tout se doit nommer par son nom, soient veus ses motifs. Voirement
+quel mal est es noms, qui ne l'i entent ? Les noms sont noms comme
+autres : puis donques que une mesme chose s'entent par un nom ou par un
+autre, que doit chaloir par quel nom on la donne a, entendre ? C'est
+certain que en nature n'y a riens lait. Seule laidure est de pechier, du
+quel toutefois on parle un chascun jour par son droit nom, comme de
+murtre, de larrecir. de fraudes et de rapines. En la parfin, s'il a
+parlé de paradis et des choses devotes, pour quoy le blasme l'en de ce
+de quoy il doit estre louez ? Et prenons qu'aucun mal feust en son
+livre, n'est point doubte que plus y a de bien : prengne chascun le bien
+et laisse le mal. Il proteste par exprès qu'il ne blasme que les
+maulvais et les maulvaises, et qui se sent coulpable, si s'amende. Mais
+aussi n'est si saige qui ne faille a la fois ; neiz mesmes le grant Omer
+failli ; et, qui plus doit encliner a pardon et a benignité ceste saige
+court de Crestienté, nous avons que saint Augustin et autres docteurs
+presque tous errerent en aucuns poins qui touleffoiz ne sont pourtant
+pas accusez ou condempnez mais honnourez. Et vraiement il doit avoir
+belle rose en son chappel que ceste rose blasme qui se dit le Rommant de
+la Rose. »</p>
+<p>A ces paroles, il sembla bien aux amis et fauteurs du fol. amoureux que
+sa cause feust toute gaignee, sans y savoir respondre, et soulzrioient
+les uns aux autres et s'entreregar¬</p>
+<p><pb/></p>
+<p>dotent ou chuchilloient 1, ou faisoient signes divers. Quant Eloquence
+theologienne qui est advocat de la court crestienne, a la requeste tant
+de Conscience comme de Chasteté, sa bien amee, et a cause de son office,
+se leva en piez, a belle contenance et maniere attrempee et par grande
+auctorité et digne gravité, il 2, comme saige et bien apris, depuis
+qu'il ot un pou tenue sa face encline bas, en guise d'un homme
+aucunement pensif, la souleva meurement et serieument et en tournant son
+regart a Justice et environ tout son bemage, ouvri sa bouche et, a voix
+resonnant doulce et moienne, tellement commença sa parole et sa cause :
+« Je vouldroie bien, au plaisir de Dieu, le quel vous representez icy,
+dame Justice, que l'aucteur 8 que on accuse feust present en sa personne
+par retournant de mort a vie : ne me seroit ja besoing de multiplier
+langage ne d'occuper la court en longue accusacion, car je tien ai bonne
+foy que ynellement 4, voulentiers et de cuer il confesseroit son erreur,
+ou meffait, demanderoit pardon, crieroit mercy et paieroit l'amende ; et
+a ce presumer me meuvent pluseurs apparances, nommeement celle qu'aucuns
+ont allegué ; que dès son vivant il s'en repenti et depuis ditta 5
+livres de vraie foy et de saincte doctrine. Je lui en fais tesmoingnage.
+Dommage fu que fole jeuvenesce ou autre mauvaise inclinacion deceu un
+tel clerc a tourner nicement et trop volagement a tele legiereté son
+soubtil engin 6, sa grande science, son fervent estude et son beau
+parler en rimes et poesies ; voulsist Dieu que mieulx en eusl usé !
+Helas ! bel amy et soubtil clerc, helas ! Et n'estoient donques assez
+folz amoureux au monde sans toy mettre en la tourbe 7? N'y avoit il qui
+les menast et aprist en leurs soties 8, sans ce que tu te donnasses leur
+capitainne, ducteur et maistre ? Fols est qui foloie et folie n'est pas
+sens. Trop veult estre blasmé qui se diffame et prent l'office d'un
+diffamé. Pour vray, tu estoies digne d'autre, maistrize et d'autre</p>
+<p>I. chuchotaient entre eux. — 2. il (l'avocat). — 3. Jean de Meun. — 4.
+promptement. — 5. composa. — 6. esprit. — 7. foule. — 8. folies.</p>
+<p><pb/></p>
+<p>office. Vices et pechiés, croy moy, s'appreingnent trop de legier 1 : ri
+y fault maistre quelconques. Nature humaine, par especial en jeunesce,
+est trop encline a trebuchier et a glasser 2 et cheoir en l'ordure de
+toute charnalité ; riestoit besoing que tu les y tirasses ou a force
+boutasses. Qui est plus tost empris et enflammé au feu de vilains
+plaisirs que sont les cuers humains ? Pour quoy donques souffioies tu ce
+feu puant par les vens de toute parole legiere et par l'auctorité de ta
+personne et ton exemple ? Se tu ne doubtoies 3 alors Dieu et sa
+venjance, que ne te faisoit saige et avisé la punicion qui fu prinse
+d'Ovide ? L'onneur de ton estat au moins t'en eust retrait. 4 Tu eusses
+eu honte, je ne double mie, d'avoir esté trouvé, en plain jour,
+publiquement, en lieu de foies femmes qui se vendent et de parler a
+elles comme tu escrips : et tu fais piz, tu enhortes a pis. Tu as par ta
+folie, quant en toy est, mis a mort et murlri ou empoisonné mil et mil
+personnes par divers pechiés, et encor fais de jour en jour par ton fol
+livre ; et ja rien y es a excuser sur la maniere de ton parler par
+personnages, comme je prouverai cy après clairement, mais je ne puis mie
+dire tout a une fois.</p>
+<p>O Dieu tout bon et tout puissant ! Et se tu, Fol amoureux, puis que
+ainsi te veult on nommer, se tu avoies repentance en ta vie de mains
+diz, lesauelz tu avoies fais en ta jeunesce par vanité 5, pour auoy les
+laissoies tu durer ? Ne devoient eulx pas estre brullez ? C'est trop
+mauvaise garnison 8 que de venin ou de poison a une table, ou de feu
+entre huille et les estoupes. Qui avra geté m feu par tout et il ne
+l'ostc, comment sera il ouitte des maisons qui en seront ams 7 ? Et qui
+est pieur feu et plus ardent que le feu de luxure ? Quelles maisons sont
+plus precieuses que les ames humainnes, comme est bien contenu en la
+supplication de dame Chasteté ? Car elles doivent estre temple sacré du
+Saint Esprit. Mais</p>
+<p>I. facilement. — 2. glisser. — 3. redoutais. — 4.détourné.</p>
+<p>5. Testament, 1er vers du deuxième quatrain. (Edit. Méon, t. IV, p. I.)</p>
+<p>6. provision. — 7. brûlées.</p>
+<p><pb/></p>
+<p>que plus art et enflamme ces canes que paroles dissolues et que
+luxurieuses escriptures et pointures ? Nous veions que bonnes, sainctes
+et devotes paroles, pointures et escriptures esmeuvent a devocion, comme
+le disoit Pitagoras : pour ce sont fais les sermons et les ymaiges es
+eglises. Trop plus legierement, par le contraire, les mauvaises tirent a
+dissolution. N'est cellui qui ne l'espreuve, et les hystoires pluseurs
+le monstrent.</p>
+<p>« Mais, bel amy, je parle sans cause a toy, qui n'es pas yci et au quel
+desplait tout ce fait et desplairoit, comme j'ai dit, se tu estoies
+présent. Et ce lors tu ne l'eusses sceu, tu l'as apris depuis a tes
+griés 1 cousis et despens, au moins en purgatoire ; ou en ce monde par
+penitence. Tu diras par aventure aue tu ne fus pas maistre de ravoir ton
+livre quant il fu publié, ou par aventure te fut il emblé sans ton sceu
+ou autrement. Je ne le sçay. Tant sçay que Berengier, disciple jadis de
+Pierre Abelart, le quel tu remembres souvent, quant vint a l'eure de la
+mort, la ou vérité se monstre qui avra bien fait, et estoit le jour de
+l'Apparition Nostre Seigneur a, lors, en souspirant ; « Mon Dieu », dit
+Berengier, « tu apportas au jour d'ui a moy a ma salvacion, comme j'ai
+esperance, pour ma repentance, ou a ma dure dampnadon, comme je doubte
+3, paur ce que ceulx lesquelx j'ay deceu bar mauvaise doctrine, je n'ay
+peu ramener a droite voie de la vérité de ton saint sacrement. » Par
+aventure ainsi dis tu. Briefment ce n'est point jeu, et n'est plus
+prilleuse chose que de semer mauvaise doctrine es cuers des gens en tant
+que la painne de ceulx mesmement qui sont dampnez en acroit de jour en
+jour. Et s'ilz sont en purgatoire, leur delivrance s'en empeche et
+retarde. De Salemon, qui fut le plus saige du monde, doubtent les
+docteurs s'il est sauvé. Pour quoy ? Pour ce que avant sa mort il ne
+fist destruire les temples aux ydoles, les quelx il avoit fait pour la
+fole amour des femmes estranges. La repentance n'est pas souffiI.</p>
+<p>souffiI. — 2. Éplphanie. — 3. crains.</p>
+<p><pb/></p>
+<p>sont quant on n'oste les occasions de ses propres pechiés et des autres
+a son pouoir ; neantmoins, quoy que soit de ta repentance, s'elle fut
+acceptée de Dieu ou non (je desire que oy1), je ne parle fors du fait en
+soy et de ton livre, et quar tu ne le deffens point, comme saige, je
+toumeray toute ma querelle contre ceulx qui, oultre ton propre jugement
+et ta volenté, en grief préjudice de ton bien, de ton honneur et salut,
+quierent, soit a tort soit a travers, soustenir, non pas soustenir, mais
+alaidir et acroistre ta vanité, et en ce te confondent en toy cuidant
+deflendre, et te desplaisent et nuisent en te voulant complaire, a la
+semblance du medecin oultraigeux qui Veult garir et il occist, et du
+nice 2 advocat qui cuide aidier son maistre et il destruit sa cause. Je
+par le contraire, rendray ce service a ton ame et luy feray ce plaisir
+ou cest allegement, a cause de ta clergie et estude, que je reprendroy
+ce que tu desires de tout en tout estre repris. Et quelle ignorance est
+celle icy, o bel amy : Mais quelle fole oultrecuidance de vous lesquelx
+je voy et oy yci parler, de vous qui voulez excuser de toute folie ou
+erreur cil qui se condempne, cil qui porte en son front le tiltre de sa
+condempnacion ? Voire, de sa condempnacion. Ne me regardez ja : il se
+porte par vostre dit mesmes pour un fol amoureux. Vrayement, quant je
+avroye dit plusieurs dissames d'un tel aucteur, je ne lui puis guere pis
+imposer que de le nommer fol amoureux. Ce nom emporte trop grand fardel
+et pesant faix de toute lubricité et de charnalité murtriere de toutes
+vertus, bouteresse de feu par tout ou elle puet. Ainsi le dirent Platon,
+Architas Tarentin, Tulles et autres pluseurs. Qui craventa 3 jadis par
+feu et flamme Troye la grant ? Fol Amoureux. Qui fit lors destruire plus
+de cent mil gentilz hommes, Hector, Achilles, Priant, et aultres ? Fol
+Amoureux. Qui chassa hors jadis de Romme le roy Tarquinius et toute sa
+lignie ? Fol Amoureux. Qui decoit par fraude et parjurement desloyaulx
+honnestes filles et religieuses sacrees ? Fol Amoureux. Qui oublie Dieu</p>
+<p>1. oui. — 2. naïf. — 3. ruina, détruisit.</p>
+<p><pb/></p>
+<p>et sains et sainctes et paradis et sa fin ? Fol Amoureux. Qui ne tint
+compte de parens ou d'amis quelconques ou de quelconques vertus ? Fol
+Amoureux. Dont viennent conspiracions civiles, rapines et larrecins pour
+flie largesce nourir, batardie ou suffocacion d'enfans momés, haines
+aussi et mort de mary, et, a brief dire, tout mal et toute folie ? C'est
+par Fol Amoureux. Mais je vois bien par ce tiltre et par ce blasme vous
+le voulez excuser de ses folies, pour ce que en fol ne doit on querir
+sans folie non 1. En nom Dieu, voire, beaux amiz, mais au fol doit on
+monstrer sa folie, et plus quant il est saige et fait le fol ; et, plus
+ce c'est ou très grief mal d'un grant païs et en la destruction vilaine
+de bonnes meurs et de dame Justice et de toute sa noble court de
+Chrestienté. Vous vees comment dame Chasteté s'en plaint, Honte et Paour
+et dame Raison, ma maistresse, s'en deulent et briefment tout le conseil
+et la noble chevalerie des sainctes vertus, bien le veez a leur
+maintieng s'en indignent forment 2. Et pour quoy non ? Pour ce, direz
+vous, que cest acteur ne parle point, maiz autres qui sont la
+introduitz. C'est trop petite deffense pour un si grant crime</p>
+<p>« Entre les paiens un juge paien et incredule condempne un paien qui
+escript doctrine attraiant a fole amour ; et entre les chrestiens telle
+et pieur 3 euvre est soutenue, alosee 4 et deffendue ! En bonne foy, je
+ne pourroie assez dire l'indignité et horreur ; parole me fault 5 a la
+reprouver. Et que telle euvre soit pieur que celle d'Ovide, certes je le
+maintieng, car l'Art d amour, la quelle escript Ovide, n'est pas
+seulertient toute enclose ou dit livre, mais sont translatez et
+assemblez et tirez comme a violence et sans propos autres livres
+pluseurs, tant d'Ovide comme des autres, qui ne sont point moins
+deshonnestes et perilleux, ainsi que sont les diz de Heloys et de Pierre
+Abelart, et de Juvenal et des fables faintes toutes a ceste fin maudite
+de Mars et de Venus et de</p>
+<p>I. sinon folie. — 2. fortement. — 3. pire.— 4.louée, — 5.manque.</p>
+<p><pb/></p>
+<p>Vulcanus et de Pigmalion et de Adonis et d'autres. Ovide par exprès
+protesta qu'il ne vouloit parler des bonnes matrones et dames mariées ne
+de celles qui ne seroient loisiblement a amer. Et vostre livre fait il
+ainsi ? il reprent toutes, blame toutes, mesprise toutes, sans aucune
+excepcion. Au moins, puis qu'il se maintenoit crestien et qu'il parloit
+des choses celestiennes a la foiz, pour quoy n'excepta il les glorieuses
+sainctes pucelles et autres sans nombre qui jusques a souffrir trés
+dures tourmens et mort crueuse garderent chasteté ou temple de leur cuer
+? Mais nennil 1 ; il estoit fol amoureux, si n'en avoit cure, si n'en
+vouloit aucune excuser afin de baillier plus grant hardement 2 a toutes
+de soy abandonner ; ne pouvoit cecy 3 mieulx accomplir que par faire
+entendant aux femmes que toutes sont telles et qu'elles ne s'en
+pourraient garder. »</p>
+<p>Mais il y a plus :</p>
+<p>« Certes, en ce dit livre, se livre se doit dire, bien a lieu</p>
+<p>le proverbe commun : en la fin gist le venin... Las ! quelle</p>
+<p>ordure y est mise et assemblee ! Quelx blasphemes y sont diz. Quelle
+deablie y est semee ! Avoir iantost parlé de Dieu, de paradis, du doulz
+aignel trés chaste, de la belle fontenelle, et puis, en la personne de
+l'aucteur, soudainement et d'un tenant, reciter sa trés dissolue vie, de
+la quelle n'est tant qui n'en eust honte ! Enhorter tous a ainsi faire,
+a s'abandonner a toutes femmes, pucelles ou non, pour essayer de tout !
+Et, qui est la somme du mal, il dit telles choses estre sanctuaires et
+euvres sacrées et adourees. Il eust mieulx dit execrables et detestees</p>
+<p>« Genius enhorte et commande sans différence user de charnalité, et
+mauldit tous ceulx et celles qui n'en useront, et ja de mariage ne sera
+faicte mencion qui toutefois par Nature est ordonné. Ja n'y avra
+sobresse de parler gardee, et proumet paradis a tous qui ainsi le
+feront. Or est fol qui ne</p>
+<p>1. non. — 2. hardiesse. — 3. faire entendre.</p>
+<p><pb/></p>
+<p>le croit, qui n'ensuit telle doctrine et qui ne la chante partout. Vray
+est que ceste fiction poetique fut corrompuement estraite du grant
+Alain, en son livre qu'il fait De la Plainte Nature, car aussi trés
+grant partie de tout ce que fait nostre fol amoureux n'est presque fors
+translacion des diz d'autrui. Je le sçay bien, il estoit humble qui
+daignoit bien prendre de ses voisins et se hourdoit 1 de toutes plumes,
+comme de la corneille dient les fables, mais peu me muet 2 cecy. Je
+reviens a Alain 3 et di que par personnage quelconque il ne parla onques
+en telle manière. A tort l'eust fait. Si conclus devant vous et vostre
+court, dame Justice canonique, que provision doit estre mise par arrest
+et sans contredit de partie a ce deffault.</p>
+<p>Eloquence proteste finalement contre la grossièreté des termes, dont
+s'est servi l'auteur, et dépose ses conclusions :</p>
+<p>« Bien je ne conclus contre la personne de l'aucteur : a Dieu bien s'en
+conviengne 4. Mais en deffault qui est trop grant, je parle :</p>
+<p>« Si soit un tel livre ostê et exterminé, sans jamais en user, par
+especial es parties es quelles il s'abonne des personnages diffamez et
+deffenduz, comme de vieille dampnee, la quelle on doit justicier en
+pilory de Venus, c'est a dire Luxure, qui est pechié mortel, et de Fol
+Amoureux, le quel</p>
+<p>on ne doit point laissier foloier a son plaisir Et afin</p>
+<p>qu'aucun ne cuide ou ne se plaingne que je accuse autres choses que les
+vices, et non pas les personnes, je fais, ou nom de Chasteté et de
+Conscience, une telle requeste et conclusion contre toutes pointures et
+escriptures ou dis qui esmuevent a lubricité. Car trop y est encline de
+soy nostre fragilité, sans la pis enflammer et trebuchier au parfond des
+vices, loing des vertus et de Dieu, qui est notres gloire, nostre amour,
+nostre salut, joie et felicité. »</p>
+<p>1. parait. — 2. meut, m'intéresse.</p>
+<p>3. Alain de Lille, l'auteut du De Planctu Naturae.</p>
+<p>4. s'en arrange.</p>
+<p><pb/></p>
+<p>« Eloquence ot finé quant je n'apparceu l'eure que mon cuer ravola comme
+il estoit volé, et sans rien oyr de la sentence, je me trouvay en mon
+estude a la vespree, l'an de grace mil quatre cens et deux, le XVIIIe
+jour de may. La trouvay bien autre matière pour mon cuer occuper, que 1
+plus ne feust ainsi volage : ce fu la matiere de la benoite trinité en
+imité divine et simple; puis du saint Sacrement de l'autel. » 2</p>
+<p>1. pour que.</p>
+<p>2. Bibl. nat. fr. 1797, fol. 1-23 ; et Romania, t. XLV, 1918-1919, p.
+23-48.</p>
+<p>3. Cf. plus haut, p. 38.</p>
+<p>4. Sur les poésies dites goliardiques, cf. Aug. Molinier, Les Sources de
+l'histoire de France, t. II, p. 210 et suiv.</p>
+<p><pb/></p>
+<p>Cependant ce long débat auquel prirent part Gerson et Christine, d'une
+part, le clan des Humanistes. de l'autre, ne pouvait aboutir ; chacun
+resta sur ses positions. Le résultat le plus clair, ainsi qu'il arrive
+d'ordinaire</p>
+<p><pb/></p>
+<p>en pareil cas, fut d'attirer davantage l'attention du public sur le
+Roman de la Rose et d'en augmenter encore la célébrité.</p>
+<p><pb/></p>
+<p>Vient ensuite parmi les adversaires de Jean de Meun, le Normand Martin
+Le Franc qui, tout en prenant énergiquement la défense du sexe féminin,
+partage les idées de son antagoniste sur l'égalité des hommes, sur la
+propriété, sur l'astrologie judiciaire, etc., et le révèle comme l' un
+des esprits les plus ouverts de son siècle.</p>
+<p>Clopinel, le rihault commun,</p>
+<p>Qui voulut la Rose pillier,</p>
+<p>Et en amours ne print aucun Plaisir que de hurtebillier 1.</p>
+<p>Veez le rihault en son livre,</p>
+<p>A quel fin Amours a mené ;</p>
+<p>Tant fait long procès le fol yvre Tant s'est il longuement pené.</p>
+<p>Le bouton et le rosier tendre Tant a il parfont assené,</p>
+<p>Qu'il lui fait les feuilles estendre.</p>
+<p>Ung houlier 2 rempli de cervoise Diroit il plus ribauldement ?</p>
+<p>1. Livrer le combat amoureux.</p>
+<p>2. débauché,</p>
+<p><pb/></p>
+<p>A quelque entendement que voise, .</p>
+<p>Parla il pas trop baudement ;</p>
+<p>Et se parler couvertement</p>
+<p>Voulu de chose mal honneste,</p>
+<p>N'en deust il parler aultrement</p>
+<p>Et comme Tulle l'amoneste ?...</p>
+<p>Martin attaque Jean de Meun sur l'obscénité de la fin de son Roman :</p>
+<p>Or me direz : « Meun couvry Le fait de rosier et de roses. »</p>
+<p>« Je vous respons que tant cuvry Le texte qu'il n'y fault ja glises.</p>
+<p>Lis en la fin : sans que le glyses Te sera promptement cdvis Que devant
+toy face les choses Dont il fait son paillart devis.</p>
+<p>D'ung baisier devoit tout couvrir, Et se plus en fist, mains en dire :</p>
+<p>Folye faire, et descouvrir,</p>
+<p>C'est folyer de pis en pire.</p>
+<p>Il luy devoit certes souffre De dire : « Le rosier baisay,</p>
+<p>Et par Bel Aècueil (Dieu lui mire !)</p>
+<p>Mon deul angoisseux appaisay. »</p>
+<p>(fr. 12476, fol. 76 b).</p>
+<p>Martin Le Franc reconnaît toutefois la vive sympathie dont jouissait le
+Roman de la Rose :</p>
+<p>Pensez aux vérités notoires .</p>
+<p>Qui ne sont pas revocatoifes De Jehan de Meun que tous aiment...</p>
+<p>(fr. 12476, fol. 43 c).</p>
+<p><pb/></p>
+<p>Sous prétexte de blâmer l'emploi des mots grossiers qui avaient si fort
+offusqué Christine de Pisan, et qui d'ailleurs était d'un usage courant,
+le bon prévôt de Lausanne les répète textuellement tous, par prétérition
+— ce qui provoque cette remarque de Gaston Paris, qu'il « aurait mieux
+fait de les taire d'abord lui-même ». Romania, t. XVI (1887), p. 407, n.
+1). Martin Le Franc, malgré ses défauts, n'en reste pas moins un des
+meilleurs poètes du XVe siècle, d'une lecture toujours attachante, qui
+nous le fait voir sous le jour le plus favorable et que l'on pourra
+juger pleinement lorsque les 24.000 vers de son Champion des Dames
+auront trouvé un éditeur qu'on nous fait espérer.</p>
+<p>C'est le « Roman de la Rose »</p>
+<p>Moralisé clair et net,</p>
+<p>Translaté de vers en prose Par vostre humble Molinet.</p>
+<p>L'ouvrage parut en 1483. Dans le Prologue, l'auteur parle du succès
+exceptionnel dont jouissait le poème de Jean de Meun, et déclare que ce
+roman « est l'ouvrage tant incorporé en la mémoire des hommes, que de le
+coucher en un autre stille ne sera moindre nouoelleté que de forger ung
+nouvel a b c ; car les sentences ensemble les auctoritez de art
+rhetorical acoustrees, sont deja contournées en pro¬</p>
+<p><pb/></p>
+<p>Voici le jugement que porte Molinet sur Gerson : MORALITÉ. — « « Vérité
+est que maistre fehan farson, fort auctorisé en théologie et de
+tresclere renommee, a la requeste et faveur d'aucunes notables dames
+composa ung petit livre intitulé la Reprobacion du Romant de la Rose.
+Mais en ce faisant, il s'aresta sur le sens litteral sans destouiller la
+fusee 1. Et fit ainsy comme le petit enfant auquel on donne une grosse
+verde noix de geauge 2. Sitost qu'il la tient dedans sa main, il la poi
+te en sa bouche, cuidant 3 que ce soit une pomme. Et quant il la sent sy
+amere, il la rue 4 a ses piedz. Mais se il avoit l'advisement de la
+mettre et osier hors de l'escorche et de la coquille et puis la peller,
+il trouveroit le contenu moult bon et fort friant. Ce venerable docteur,
+maistre fehan farson, qui n'estoit pas enfant, mais ung des plus grans
+clercs de tout le monde, s'aresta seulement a redarguer 5 la Verdure 6
+de ce Romant, c'est amour foie qui peu dure, en détestant paillardise
+pour l'amertume qui s'y treuve en fin. Et ayma mieulx appliquer la
+subtilité de son engin 7 en matières ardues et de plus haulte
+speculacion que fruit fort doulx et savoureux cherchier</p>
+<p><pb/></p>
+<p>1. enlevée. — 2. coureuses. —- 3. là-haut, au ciel.</p>
+<p>4. « Heloym, pluriel du singulier qui est Heh en hébreu, id est Deus. »
+Abaelardi Opera, 1, 634 ; II, 22 , 361. — Édit. Victor Cousin, Paris,
+1849-1839, in-4°.</p>
+<p>5. entièrement libre.</p>
+<p><pb/></p>
+<p>1. Revue des Sociétés savantes des départements. 7° série, t. V, Paris,
+1882, p. 111.</p>
+<p>2. Bibl. nat, fr. 1357, fol. 153 v°. — La dédicace de Simon de Phares à
+Charles VIII a été publiée intégralement par L. Dorez et L. Thuasne dans
+l'ouvrage : Pic de la Mirandole en France (Paris, 1897, in-18), p. 163-187.</p>
+<p><pb/></p>
+<p>autres sciences. Cestui composa le Romant de la Rose ou il montre bien
+son sçavoir, attendu le jeune aage de XIX ans duquel il le fist. Cestui
+romant est tissu de si tres diverses tremmes que peu de gens entendent
+la profondité d'icelui. Il fist aussi utïg traicté sur les directions
+des nativitez et révolution des ans, et translata le livre des
+Merveilles d'Irlande, et fist pour le Roy plusieurs autres traictés : et
+quasi partout il advient a son propos et se aide des corps celestes.
+Cestuy, comme aucuns dient, fist la nativité messire Bertrand du
+Guesclin qui fust connestable de France, et predist ses treshaulx faiz
+et armes dont il fut moult estimé. Celuy eut des emuleurs en sa vie,
+aucuns folz theologiers et, encore que. il fut mort, Me Jehan Gerson
+voull defendre 1 ses livres, mais ahoury a, obiit... » 4</p>
+<p>Au XVIe siècle, la vogue du Roman de la Rose était dans son plein, mais
+de nombreux lecteurs se plaignaient de le comprendre difficilement.
+C'est alors que Clément Marot fit un rajeunissement de l'oeuvre qui
+parut en 1527, précédée d'une Préface curieuse : l'édition fut
+réimprimée un grand nombre de fois.</p>
+<p>Marot pensait que Jean de Meun « ne gettoit pas seulement son penser et
+fantaisie sur le sens littéral, ains plus tost attiroit son esprit au
+sens allégorique et moral, comme l'un disant et entendant l'autre. »
+Suivant lui, la rose pouvait être entendue « l'estat de sapience », ou
+«l'estat de grâce », ou « la glorieuse Vierge Marie », ou « le souverain
+bien infini ». Marot, sans rien affirmer, se garde bien de tomber dans
+les rêveries de Molinet, et conclut : « neant-moins que le principal
+soit ung train d'amour, toutesfoys il est confit de bons incidens qui
+dedans sont comptins et alleguez, causons maintes bonnes disciplines.
+Les philosophes naturelz et moraulx y peuvent aprendre ; les
+theologiens, les astrologues, les geometriciens, les archimistes,
+faiseurs de</p>
+<p>1. interdire. — 2. tristement affecté. — 3. mourut. 4. Bibl. nat. fr.
+1357, fol. 139 r° et v°.</p>
+<p><pb/></p>
+<p>mirouers, paintres et autres gens, naiz sous la constellation et
+influence des bons astres, ayans leur aspect sur les ingenieux et autres
+qui desirent sçavoir toutes manières d'ars et sciences. » Préface,
+Paris, 1527. (Édit. Jannet, OEuvres compl., t. IV, p. 183-188.)</p>
+<p>Jean de Meun trouva dans Rabelais le véritable continuateur de son génie
+et de son oeuvre. Ce que Jean de Meun fut au XIIIe siècle, Rabelais le
+fut au XVIe. Il n'y a entre eux que la différence des temps. Un même sol
+leur avait donné naissance sur les bords de la Loire. Rabelais, dont la
+production tout entière est pénétrée du Roman de la Rose, ne cite pas
+une seule fois son auteur, de même qu'il ne nomme pas davantage le grand
+Érasme auquel il reconnaît toutefois, par ailleurs, devoir exclusivement
+« tout ce qu'il est et tout ce qu'il vaut » 1.</p>
+<p>I. « Quidquid su m et valeo, tibi id uni. » (Lettre de Rabelais à
+Erasme, Lyon, 15 novembre 1532 )</p>
+<p><pb/></p>
+<p>et commentaires (Paris, 1911, in-8°), p. 165-204.</p>
+<p>Ronsard n'appréciait pas moins que Rabelais le Roman de la Rose.
+C'était, chez lui, un goût qu'il aurait eu dans son enfance ; et Binet,
+son biographe et son ami, rapporte que dès l'âge de onze ans, Ronsard «
+avoit toujours en mains quelques poètes Jrançois, et principalement,
+comme luy mesme m'a mainte fois raconté, un Jean le Maire de Belges, un
+Roman de la Rose, et les oeuvres de Clément Marol. » (Paul Laumonier,
+Ronsard, poète lyrique, p. 8).</p>
+<p>Sire, sous le discours d'un songe imaginé,</p>
+<p>Dedans ce vieil Roman, vous trouverez déduite D'un Amant désireux la
+pénible poursuite Contre mille travaux en sa flamme obstiné.</p>
+<p>Faussemblant l'abuseur tâche le mettre en fuite :</p>
+<p>A la fin, Bel-Acueil, en prenant la conduite,</p>
+<p>Le loge, après l'avoir longuement cheminé.</p>
+<p>L'Amant dans le Vergier, pour loyer des traverses Qu'il passe
+constamment, souffrant peines diverses,</p>
+<p>Cueille au rosier fleuri le bouton précieux.</p>
+<p>Sire, c'est le suget du Roman de la Rose,</p>
+<p>Où d'Amour épineux la poursuite est enclose,</p>
+<p>La Rose, c'est d'amour le guerdon précieux.</p>
+<p>La Bibl. nat. possède deux mss. du Roman de la Rose reliés aux armes de
+Charles IX (fr. 799 ; 800). (Cf. Langlois, Descript. des Mss., p. 7). La
+Bibl. de l'Arsenal, ms. 2988 (3° quart du XIVe s.). Au fol. 182 v°, une
+note</p>
+<p><pb/></p>
+<p>de possession dont les deux derniers mots grattés seraient, suivant Er.
+Langlois : A, BAYF. (Descript. des mss., p. 73.)</p>
+<p>Au XVIIe siècle, Étienne Pasquier, dans son admiration enthousiaste ;
+pour nos deux auteurs du XIIIe siècle, ne craint pas de les opposer à
+tous les poètes de l'Italie. Ce pouvait être une conviction personnelle,
+en même temps qu'une protestation indirecte contre ce jugement
+dédaigneux de Pétrarque qui avait dit « qu'en dehors de l'Italie il ne
+fallait chercher ni orateurs ni poètes » ; jugement contre lequel
+s'était élevé même un Italien, Galeotto de Petra Mala, dans une lettre à
+Nicolas de Clamanges, l'humaniste français (dans Martène et Durand, Vet.
+Scrtpt. et Monument. Ampl. Collectio, Paris, 1724, in-fol., t. I, col.
+1545-1546).</p>
+<p>A l'étranger, le succès du Roman de la Rose ne fut pas moins rapide
+qu'il avait été en France. On en cite deux</p>
+<p><pb/></p>
+<p>I. Langlois. Description des mss., p. 202-204.</p>
+<p><pb/></p>
+<p>Le texte de P. Marteau reproduit exactement celui de Méon. Il est
+accompagné d'une traduction en vers</p>
+<p>Enfin, une récente édition du Roman de la Rose mis en français moderne a
+paru récemment (Paris, Payot, 1928, in-8). Elle a pour auteur M. André
+Mary. Exacte et élégante, elle est susceptible de renouveler
+l'admiration qui pendant si longtemps a entouré l'ouvrage et de lui
+attirer de nouveaux lecteurs que les difficultés du texte original
+avaient écartés pour la plupart.</p>
+<p><pb/></p>
+<p>LE ROMAN DE LA ROSE PREMIÈRE PARTIE</p>
+<p>Guillaume de Lorris entreprend de décrire un songe qu'il eut dans sa
+vingtième année, et qui se trouva confirmé dans la suite. C'est sur
+l'ordre d'Amour qu'il en fait le récit ; il l'a dénommé le Roman de la Rose</p>
+<p>Où l'Art d'Amors est toute enclose.</p>
+<p>La matire en est bonne et nueve :</p>
+<p>Or doint 1 Deus quen gré le reçueve 2 Cele por qui je l'ai empris ;</p>
+<p>C'est cele qui tant a de pris E tant est dine 3 d'estre amee Qu'el doit
+estre Rose clamee (v. 38).</p>
+<p>Guillaume rêve qu'on était en mai, au temps amoureux où la nature
+entière est en joie ; et où tout ce qui vit est troublé par l'amour. Il
+lui sembla, dans son sommeil, qu'il était grand jour. Il se leva,
+s'habilla et sortit de la ville pour entendre le chant des oiseaux qui
+gazouillaient par les vergers en fleurs. Il rencontra bientôt une
+rivière un peu moins abondante que la Seine, s'étalant en une plus large
+nappe d'eau qui laissait apercevoir dans sa transparence un fond de
+gravier. Il arriva ainsi devant un grand verger clos de murs, sur
+lesquels étaient peintes</p>
+<p>1. fasse. — 2. reçoive. — 3. digne.</p>
+<p><pb/></p>
+<p>Après 1 fu Viellece portraite 2,</p>
+<p>Qui estoit bien un pié retraite 3 De tel come ele soloit 4 estre ;</p>
+<p>A poine quel se pooit paistre 6,</p>
+<p>Tant estoit vieille e redotee 6 ;</p>
+<p>Mout 1 estoit sa biauté gastée Mout estoit laide devenue.</p>
+<p>Toute sa teste estoit chenue 8 E blanche com s'el fust florie.</p>
+<p>Ce ne fust mie grant morte 9 S'ele morist, ne granz pechiez 10,</p>
+<p>Car toz ses cors estoit sechiez De vieillece e aneientiz.</p>
+<p>Mout estoit ja 11 ses vis 12 flestiz,</p>
+<p>Qui fu jadis soés 13 e plains ;</p>
+<p>Or estoit toz de fronces plains.</p>
+<p>Les oreilles avoit mossues 14,</p>
+<p>E toutes les denz si perdues Quele n'en avoit mais 15 nés 16 une.</p>
+<p>1*. Haine, Félonie, Vilanie, Convoitise, Avarice, Envie, Tristesse,
+Vieillesse, Papelardie, et Pauvreté.</p>
+<p>2*. Lanson, dans son Hist. de la lift, fr., p. 128.</p>
+<p>1. ensuite. — 2. représentée. — 3. raccourcie. — 4. avait coutume. — 5.
+nourrir. — 6. tombée en enfance. — 7. beaucoup. — 8. blanchie. — 9.
+décès. — 10. dommage. — 11. maintenant. — 12. visage. — 13. doux au
+toucher. — 14. rugueuses. — 15. plus. — 16. même.</p>
+<p><pb/></p>
+<p>Tant par 1 estoit de grant vieillunc 2 Qu el n alast mie la montanee 3
+De quatre toises senz potence 4 ; Li Tens qui s'en vait nuit ejor,</p>
+<p>Senz repos prendre e senz sejor 5, E qui de nos se part e emble 6 Si
+celeement 7 qu'il nos semble Qu'il s'arest adès 8 en un point, E il ne
+s'i areste point,</p>
+<p>Ains 8 ne fine 10 de trespasser 11, Que l en ne puet neïs 12 penser
+Queus 13 tens ce est qui est presenz, Sel 14 demandez as 15 clers lisanz
+; Car ainz que l en l'eüst pensé Seroient ja troi tens passé.</p>
+<p>Li Tens qui ne puet sejorner,</p>
+<p>Ains vait noz jors senz retomer, Con l eve qui s'avale™ toute,</p>
+<p>N'il s en retome arrier goute ; Li Tens vers cui neienz ne dure, Ne fers
+ne chose tant soit dure, Car Tens gaste tôt e manjue 17, Li Tens qui
+toute chose mue,</p>
+<p>Qui tot fait croistre e tot norrist E qui tôt use e tot porrist ;</p>
+<p>Li Tens oui envieilli noz peres, Qui vieillist rois e empereres,</p>
+<p>E qui toz nos envieillira,</p>
+<p>Ou Morz nos desavancira 18, Li Tens, qui tot a en baillie 19 Des gais
+vieillir, l'aooit vieillie</p>
+<p>très. — 2. vieillesse. — 3. valeur. — 4. béquille. — 5. arrêt</p>
+<p>6.s'en fuit. — 7. secrètement. — 8. toufours. — 9. mais.— 10. cesse. —
+11 . passer outre. — 12. même. — 13. lequel. — 14. se le. 15. aux. 16. s
+écoule. — 17. mange. — 18. arrêtera. — 19. pouvoir.</p>
+<p><pb/></p>
+<p>Si durement qu'au mien cuidier 1</p>
+<p>El ne se pooit mais</p>
+<p>Ains retornoit ja en enfance ;</p>
+<p>Car certes el n'avoit poissance,</p>
+<p>Ce cuit je 2, ne force ne sen,</p>
+<p>Ne plus que uns enfes d'un an.</p>
+<p>Neporquant, au mien escientre 3,</p>
+<p>Ele avoit esté sage e entre 4,</p>
+<p>Quant ele iert en son droit 6 aage ;</p>
+<p>Mais je cuit quelle n'iert mais sage,</p>
+<p>Ainz estoit toute rassotee 6.</p>
+<p>Ele ot d'une chape forree</p>
+<p>Mout bien, si con je me recors 7,</p>
+<p>Abrie 8 e vestu son cors.</p>
+<p>Bien fu vestue chaudement,</p>
+<p>Car ele eüst froit autrement :</p>
+<p>Ces vieilles genz ont tost froidure ;</p>
+<p>Bien savez que c'est lor nature (v. 361).</p>
+<p>Suit le portrait de Papelardie :</p>
+<p>Une image et après escrite Qui sembloit bien estre ypocrite ; Papelardie
+iert 9 apelee.</p>
+<p>C'est cele qui en recelez 10,</p>
+<p>Quant nus ne s'en puet prendre garde, De nul mal faire n'est coarde 11 ;</p>
+<p>E fait dehors le marmtteus 12,</p>
+<p>Si a le vis simple e pitcus,</p>
+<p>E semble sainte créature,</p>
+<p>Mais soz ciel n'a male aventure Qu'ele ne peust en son corage 18.</p>
+<p>1. avis. — 2. pensé-je. — 3. connaissance. — 4. raisonnable. — 5. bon. —
+6. ayant perdu la raison, — 7. rappelle. — 8. garanti du froid. — 9.
+était. — 10. clandestinement. — 11. poltronne. — 12. ta sainte Nitouche.
+— 13. coeur.</p>
+<p><pb/></p>
+<p>Mout la resembloit bien l'image,</p>
+<p>Qui faite fu a sa semblance ;</p>
+<p>Quel fu de simple contenance,</p>
+<p>E si fu chauciee e vestue</p>
+<p>Tot ausi con famé rendue 1.</p>
+<p>En sa main un soutier tenoit ;</p>
+<p>Si sachiez que mout se penoit</p>
+<p>De faire a Deu prieres feintes,</p>
+<p>E d'apeler e sainz e saintes.</p>
+<p>Ele ne fu gaie ne jolive 2,</p>
+<p>Ainz fu par semblant ententive</p>
+<p>Dou tôt a bones ueores faire ;</p>
+<p>E si avoit vestu la haire.</p>
+<p>Si sachiez quel n'iert pas grasse,</p>
+<p>Ainz sembloit de jeüner lasse,</p>
+<p>S'avoit la color pale e morte.</p>
+<p>A li e as siens iert la porte</p>
+<p>Deveee 3 de parevis 4 ;</p>
+<p>Car iceste gent font lor vis</p>
+<p>Amaigrir, ce dit l'Evangile,</p>
+<p>Por avoir los par mi la vile,</p>
+<p>E por un poi de gloire vaine,</p>
+<p>Qui lor toudra 5 Deu e son reine 6. (v. 407.)</p>
+<p>I. nonne, de religion. — 2. enjouée. — 3. interdite. — 4. paradis. — 5.
+prendra. — 6. royaume.</p>
+<p><pb/></p>
+<p>Quant ele s'estoit bien pigniee 1</p>
+<p>E bien paree e atomee,</p>
+<p>Ele avait faite sa jornee (v. 568). ,</p>
+<p>cil qui depart 3 (v. 866).</p>
+<p>Amoretes a sa devise 4.</p>
+<p>Guillaume n'a garde d'oublier de le dépeindre et d'insister sur la
+magnificence de son costume :</p>
+<p>Il semblait que ce fust uns anges</p>
+<p>Qui fust tot droit venue dou ciel (v. 902).</p>
+<p>A ses côtés était un jouvenceau appelé Doux-Regard : il portait dans un
+arc turquois plus de dix fléches de son maître. Il en tenait cinq dans
+sa main droite ayant chacune leur attribution propre. La première et la
+plus rapide s'appelait Beauté ; la seconde qui blesse le moins,</p>
+<p>1. peigné. — 2. anges munis d'ailes. — 3. réparti — 4. volonté.</p>
+<p><pb/></p>
+<p>L'amor des pauvres et des riches (v. 1152).</p>
+<p>En tel guise qu'il la baisoit</p>
+<p>Toutes les foiz qu'il li plaisoit (v. 1269),</p>
+<p>aux yeux de l'assistance entière.</p>
+<p>Ayant pleinement satisfait sa curiosité, Guillaume aurait voulu aller
+visiter le verger et admirer les arbres</p>
+<p>qui y foisonnaient, et sous l'ombre desquels plusieurs es danseurs
+étaient allés s'étendre avec leurs amies. Guillaume poursuivait sa
+promenade par le verger sans se douter qu'il était suivi par le Dieu
+d'Amours accompagné de Doux-Regard. Que d'arbres de toute essence dans
+ce verger, arbres fruitiers, arbres divers et exotiques qu'il serait
+impossible de mentionner : il y avait aussi en quantité des daims, des
+chevreuils, des lapine ; de même des fleurs de toutes formes et de
+toutes couleurs</p>
+<p><pb/></p>
+<p>Con li venterres 1 qui aient Que la beste en bon leu 3 se mete,</p>
+<p>Por laissier aler la saiete 3 (v. 1422).</p>
+<p>Enfin Guillaume arriva dans un bosquet où il rencontra une fontaine
+coulant sous un pin magnifique : sur une pierre de marbre, on lisait
+l'inscription suivante :</p>
+<p>iluec 4 desus Se mort li biaus Narcisus (v. 1437).</p>
+<p>L'occasion était trop belle pour négliger de rappeler l'aventure de
+Narcisse avec Echo</p>
+<p>une haute dame (v. 1444)</p>
+<p>qui l'avait aimé plus qu'être au monde, et que le présomptueux avait
+dédaignée.</p>
+<p>Dames, cest essemple aprenez Qui vers vos amis mesprenez 5,</p>
+<p>Car, se vos les laissiez morir,</p>
+<p>Deus le vos savra bien merir 6 (v. 1507).</p>
+<p>1. chasseur. — 2. lieu. — 3. flèche. — 4. la. — 5. agisses mal. — 6.
+faire payer.</p>
+<p><pb/></p>
+<p>Qui maint ome par mi le monde E mainte fame a fait amer (v. 1738).</p>
+<p>Il la lui décocha ; de même, successivement, une troisième Courtoisie,
+puis une quatrième Compaignie, enfin une cinquième, celle-ci très
+puissante,</p>
+<p>C'est Biaus Semblanz qui ne consent</p>
+<p>A nul amant qu'il se repente</p>
+<p>D'Amors servir, por 1 mal qu'il sente (v. 1842),</p>
+<p>1. pour.</p>
+<p><pb/></p>
+<p>Elle est aiguë et tranchante, mais Amour en a oint la pointe d'un
+onguent précieux, afin qu'elle ne puisse pas trop nuire ; car Amour ne
+saurait vouloir la mort de ses serviteurs.</p>
+<p>E me dist : Je t'ain mout e pris</p>
+<p>Don tu as respondu issi :</p>
+<p>Onques tel response n'issi</p>
+<p>D'ome 1 vilain mal enseignié2... (v. 1928)</p>
+<p>Si me baiseras en la bouche</p>
+<p>A cui 3 nus vilains on 4 ne touche.</p>
+<p>Je ni laisse mie 6 touchier</p>
+<p>Chascun vilain, chascun bouchier</p>
+<p>Ains doit estre cortois e Jrans</p>
+<p>Cil que j'ensi a orne prens. (v. 1935).</p>
+<p>1. homme. — 2. appris — 3. qui. — 4. homme. — 5. pas.</p>
+<p>1 *. Dame, vos an, portez la clef,</p>
+<p>Et la serre et l'escrin avez Ou ma joie est, si nel savez. Der
+Löwenritter (Halle, 1887, in-8°), v. 4632-34.</p>
+<p><pb/></p>
+<p>Respont Amors « je m'i acors ;</p>
+<p>Il est assez sires 1 dou cors Qui a le cuer en sa comande 2 ;</p>
+<p>Outrageas est qui plus demande... (v. 1995).</p>
+<p>« Vilanie premierement »</p>
+<p>Ce dist Amors « vueil et comant</p>
+<p>Que tu guerpisses 3 sans reprendre,</p>
+<p>Se tu ne viaus 4 vers moi mesprendre.</p>
+<p>Si maudi e escomenie</p>
+<p>Toz ceus qui aiment vilanie :</p>
+<p>Vilanie fait les vilains</p>
+<p>Por ce nest pas droiz 5 que je l'ains 6.</p>
+<p>Vilains est fel 1 e senz pitié,</p>
+<p>Sens servise e sen. amitié... (v. 2077).</p>
+<p>« Garde-toi de raporter aux gens ce qui doit être tu. Sois discret et
+poli. Salue les gens le premier par les rues. Ne prononce pas des mots
+sales et deshonnêtes. Honore les femmes ; prends leur défense
+lorsqu'elles sont attaguées. Sois soigné dans ta mise et dans ta
+personne. Sois gai ; ne sois pas avare ni orgueilleux. Pour être un
+parfait amant, mets ton coeur en un seul lieu.</p>
+<p>Car bien saches qu'amors ne laisse</p>
+<p>Sor fins 8 amans color ne graisse (v. 2549).</p>
+<p>1..maître, — 2.'pouvoir. — 3. quiles. — 4. veux. — 5. juste. —</p>
+<p>6. aime. — 7, félon, — 8. loyaux.</p>
+<p><pb/></p>
+<p>« Sois généreux avec la servante de la maison. »</p>
+<p>Quand Amour eut terminé sa leçon, l'Amant, tout troublé de demander
+comment un amoureux pourrait endurer des maux pareils ; et Amour de lui
+répondre : « Nul n'a de félicité qu'il ne la paie. L'Espérance est là
+qui le conforte. Je te la donne, et j'y joins</p>
+<p>Trois autres biens qui granz solaz 1 Font a ceus qui sont en mes laz...
+(v. 2641).</p>
+<p>Un vallet bel e avenant (v. 2790),</p>
+<p>1. soulagements.</p>
+<p><pb/></p>
+<p>sauter la haie en toute hâte pour échapper aux violences de Danger
+devenu menaçant.</p>
+<p>Ne cuidiez 1 pas que nus 2 conoisse</p>
+<p>S'il n'a amé, quest grant angoisse, (v. 2961).</p>
+<p>Car je n'aurai aucun egard</p>
+<p>tu passes jamais la haie. (v. 3202).</p>
+<p>Ayant mis Ami au courant de sa démarche, l'Amant</p>
+<p>t. pensez. — 2. nul.</p>
+<p><pb/></p>
+<p>Car qui au baisier puet ataindre A poine puet alant 1 remaindre 3 ;</p>
+<p>E sachiez bien cui l'en octroie Le baisier, il a de la proie Li miauz 3
+e le plus avenant,</p>
+<p>Si a erres 4 dou remanant 5 (v. 3403).</p>
+<p>1. alors. — 2. demeurer. — 3. mieux. — 4. arrhes. — 5. ce qui reste. —
+(arrhes pour le reste).</p>
+<p>Bien est-il vrai qu'en rencontre pareille Simples baisers font craindre
+le surplus.</p>
+<p>La Fontaine, Les Rémois (Contes).</p>
+<p><pb/></p>
+<p>douleur disparut en lui*. Toutefois Male-Bouche, prévenu de ce qui
+s'était passé en avertit Jalousie qui accabla de reproches Bel-Accuel :
+cette scène violente provoqua la fuite de l'Amant, tandis que Honte et
+Peur faisaient retomber leur colère et leur dépit sur Danger qui jurai
+mais un peu tard, qu'on ne l'y prendrait plus.</p>
+<p>Bel Accueil se taist et escoute,</p>
+<p>Por 1 la Vielle que il redoute ;</p>
+<p>E n'est si hardi quil se mueve Que la Vielle en li n'apercoeve Aucune
+fole contenance,</p>
+<p>Qu'el scet toute la vieille dance 2.</p>
+<p>1 *. Ce trait évoque ces deux vers de Lucrèce :</p>
+<p>Sed leviter poenas frangit Venus inter amorem, Blandaque refrenat morsus
+admista voluptas. (De nat, rer. IV. v. 1077-78).</p>
+<p><pb/></p>
+<p>Je resemble le païsant Qui giete en terre sa semence,</p>
+<p>E a joie quant el comence A estre bele e drue en erbe.</p>
+<p>Mais, avant qu'il en cueille gerbe.</p>
+<p>L'empire, tel eure est, e grieve Une male nue qui lieve Quant li espi
+doivent florir Si fait le grain dedenz morir,</p>
+<p>E l'esperance au vilain tot 1,</p>
+<p>Qu'il avoit die trop tost.</p>
+<p>Ge crien ausi avoir perdue E m2 esperance e m'atendue Qu'Amors m'avoit
+tant avancié Que j'avoie ja comencié A dire mes grans privetez A Bel
+Acucil qui apretez Estoit ae recevoir mes jeus ;</p>
+<p>Mais Amors est si corageus 3 Qu'il me toli 4 tost en une eure,</p>
+<p>Quant je cuidai estre au deseure 5.</p>
+<p>Ce est ausi con 6 de Fortune,</p>
+<p>Qui met ou cuer des gens rencune,</p>
+<p>Autre eure les aplaigne 7 et chue 8.</p>
+<p>En poi d'eure son semblant mue :</p>
+<p>Une eure rit, autre eure est morne Ele a une roe 9 qui tome,</p>
+<p>E, quant ele viaut, ele met</p>
+<p>1. enleue. — 2. mon. — 3. changeant. — 4. enleva. — 5. dessus. — 6.
+comme. — 7. — caresse. — 8. flatte. — 9. roue.</p>
+<p><pb/></p>
+<p>Le plus bas amont 1 ou somet,</p>
+<p>E celui qui est sor la roe Reverse a un tor en la boe 3.</p>
+<p>E je sui cil 3 qui est versez, (v. 3960.)</p>
+<p>Jamais n'ierl 4 rien qui me confort</p>
+<p>Si je pers vostre bienvoillance</p>
+<p>Que je n'ai mais aillors fiance, (v. 4058.)</p>
+<p>C'est sur ces vers que se termine la première partie du Roman de la
+Rose, dans le ms. fr. 378 de la Bibliothèque nationale. Ils sont suivis
+d'une petite miniature, au-dessous de laquelle on lit immédiatement ce
+passage rubriqué : « Cy endroit fina maistre Guillaume de Lorriz cest
+romanz, que plus n'en fist, ou pour ce qu'il ne vost, ou pour ce qu'il
+ne pot. Et pour ce que la matière embelissoit a plusors, il plot a
+maistre Jean Chopinel de Meun a parfaire le livre et a ensivre la
+matiere. Et commence en tele maniere comme vous porroiz oïr a après. »
+(fol. 25 Ç).</p>
+<p>Les 78 vers apocryphes qui suivent le vers</p>
+<p>I. en haut. — 2. boue. — 3. celui. — 4. sera.</p>
+<p><pb/></p>
+<p>laume de Lorris sont publiés aux Notes dans le tome II de Langlois, p.
+330. Les deux premiers sont ainsi conçus :</p>
+<p>Ne reconfort nul qui m'aïst.</p>
+<p>Ha ! biaus douz cuers, qui vous veïst...</p>
+<p>Les deux derniers :</p>
+<p>A tant m'en part e pren congié.</p>
+<p>C'est li songes que j'ai songié. »</p>
+<p><pb/></p>
+<p>LE ROMAN DE LA ROSE SECONDE PARTIE</p>
+<p>E si l'ai je perdue, espeir :1 (v. 4059.) A po que ne m'en desespeir.</p>
+<p>Desespeir ! Las ! je non ferai,</p>
+<p>Ja ne m'en desespererai,</p>
+<p>Car, s'Esperance m'iert faillanz,</p>
+<p>Je ne seraie pas vaillanz</p>
+<p>Par quel proece 2 Istrait il 3 de tel forterece ? (v. 4127.)</p>
+<p>se demande-t-il anxieux ; aussi déclare-t-il avoir fait une étrange
+folie, en s'engageant dans les liens d'Amour :</p>
+<p>Ainz fis grant folie e grant rage,</p>
+<p>Quant au deu d'Amours fis omage.</p>
+<p>Dame Oiseuse le me fis faire :</p>
+<p>Honi sei li e son afaire 4,</p>
+<p>1. peut-être. — 2. coup de fortune. — 3. sortirait-il. — 4. interoenlion.</p>
+<p><pb/></p>
+<p>Qui me fist ou 1 joli vergier</p>
+<p>Par ma priere herbergier 2 (v. 4131.)</p>
+<p>Et l'Amant de poursuivre ses doléances, lorsque</p>
+<p>Raison la bile, l'avenant,</p>
+<p>Qui de sa tour ja 3 descendi</p>
+<p>Quant mes complaintes entendi, (v. 4131.)</p>
+<p>Amour ce est pais haineuse,</p>
+<p>Amour c'est haïne amoureuse,</p>
+<p>C'est leiautez la desleiaus,</p>
+<p>C'est la desleiautez leiaus,</p>
+<p>C'est peeur toute asseüree Esperance desesperee... (v. 4293.)</p>
+<p>Dans cette longue tirade où les vers jolis et spirituels ne manquent
+pas, on relève les deux suivants :</p>
+<p>Car ausinc bien sont amourettes</p>
+<p>Souz bureaus come sous brunetes (v. 4333.)</p>
+<p>que s'est rappelés La Fontaine dans Joconde :</p>
+<p>1. dans. — 2. prendre asile. — 3. alors.</p>
+<p><pb/></p>
+<p>Sous les cotillons des grisettes,</p>
+<p>Peut loger autant de beauté Que sous les jupes des coquettes.</p>
+<p>« Crois-moi, poursuit Raison, fuis l'amour, car</p>
+<p>Se tu le suiz, il te suira ;</p>
+<p>Se tu t'en fuiz, il s'en fuira. » (v. 4357.)</p>
+<p>Amour, se bien sui apensee 1,</p>
+<p>C'est maladie de pensee</p>
+<p>Entre deux personnes annexe 2,</p>
+<p>Franches entre eus, de divers sexe.</p>
+<p>Venant aus genz par ardeur nee</p>
+<p>De vision desordenee</p>
+<p>Pour acoler, pour baisier,</p>
+<p>Pour aus chamelment aaisier 3.</p>
+<p>Amanz autre chose n'entend</p>
+<p>Ainz s'art 4 e se delite en tant,</p>
+<p>De fruit aveir ne fait il force, 5</p>
+<p>Au deliter 6 sans plus s'efforce 1, (v. 4377).</p>
+<p>1. avisée. 2. conjointe. — 3. se donna jouissance. — 4. s'échaufe. — 5.
+ne se préoccupe-t-il. — 6. au fait de prendie du plaisir.</p>
+<p>1. Voici la traduction de Drouart La Vache et le texte original d'André
+le Chapelain.</p>
+<p>LA DEFFINICIONS D'AMOURS :</p>
+<p>Tele est la dyffinicions D'Amours : Amours est passions Ou maladie
+dedenz nee Par vision desordenée,</p>
+<p><pb/></p>
+<p>Venons de forme d'autre sexe Et de commun assent connexe,</p>
+<p>Ainsi com Venus le commande,</p>
+<p>Par qui chascuns amans demande Plus l'acoler et le baisier Que lui
+d'autre chose aaisier.</p>
+<p>Or est il drois que vous dions Coment Amours est passions ;</p>
+<p>Car, ainçois qu'elle soit parfaite,</p>
+<p>Il i a mainte angoisse traite,</p>
+<p>Qu'adés est amans en doutance Que il ne perde s'esperance Et que il ne
+perde sa paine.</p>
+<p>D'autre part malement le maine Ce qu'il doute les mesdisans,</p>
+<p>Maintes autres choses nuisanz,</p>
+<p>Qui li nuisent ou pueent nuire...</p>
+<p>Li Livres d'Amours de Drouart La Vache, texte établi par Robert Bossuat.
+Paris, 1926, ln-8°, p. 5. — (Poème de 7.640 vers octosyllabiques). —
+Texte d'André Le Chapelain : « Amor est passio qusdam innata, procedens
+ex visione et immoderata coçitatione formoe alterius sexus, ob quam
+quidem aliquis super omnia cupit alterius potiri amplexibus, et omnia de
+utriusque voluntate in ipsias amplexu amoris compleri. » (Cap. I.
+Quidsit amor, p. 3). — « Hoc autem est praecipue in amore notandum quod
+amor nisi inter diversorum sexuum personas esse non potest... Ad hoc
+totus tendit conatus amantis et de hoc illius assidua est cogitatio, ut
+ejus, quam amat, fruatur amplexibus ; optât etiam ut cmnia cum ea
+compleat Amoris mandata, id est, ea quoe in amoris tractatibus
+reperiuntur inserta...» (Cap. II. Inter quos possit esse amor, p. 6).</p>
+<p><pb/></p>
+<p>Nus on 1 ne se devrait ja prendre A fame qui sa char veaut vendre :</p>
+<p>Pense il que fame ait son cors chier Qui tout vif le Veaut escorchier ?</p>
+<p>Bien est chaitis 2 e defoulez 3 On qui si vilment est boulez Qu il cuide
+que tel fame l'aime Pour ce que son ami le claime,</p>
+<p>E quel li rit e li fait feste.</p>
+<p>Certainement nule tel beste Ne deist 4 estre amie clamee,</p>
+<p>N'el n'est pas digne d'estre amee.</p>
+<p>L'en ne deit riens prisier moillier 5 Qui orne bee 6 a despoillier. (v.
+4565.)</p>
+<p>Et Raison de conclure, non sans éloquence :</p>
+<p>Trop sont a grant meschief 1 livré</p>
+<p>Cueur qui d'amours sont enivré ;</p>
+<p>En la fin encor le savras</p>
+<p>Quant ton tens perdu i avias,</p>
+<p>E degastee la jouvente 8</p>
+<p>En ccte leece 9 dolente.</p>
+<p>Se tu peuz encore tant vivre</p>
+<p>Que d'amours tu veies délivré 10,</p>
+<p>Le tens qu'avras perdu plourras,</p>
+<p>Mais recouvrer ne le pourras</p>
+<p>Encor, se par tant 11 en eschapes,</p>
+<p>Car, en l amour ou tu t'entrapes,</p>
+<p>Maint il perdent, bien dire l'os 12,</p>
+<p>Sen, 13 tens, chatel, cors, ame, los. » 14 (v. 4615.)</p>
+<p>1. homme. — 2. malheureux. — 3. malmené. — 4. devrait. — 5. femme. — 6
+aspire à. — 7. malheur. — 8. jeunesse. — 9. joie. — 10. libre,
+débarrassé. — 11. par hasard. — 12 .j'ose. — 13. intelligence.— 14.
+réptr tatlon.</p>
+<p><pb/></p>
+<p>Si ne fait pas richece riche</p>
+<p>Celui qui en tresor la fiche,</p>
+<p>Car soufisance seulement</p>
+<p>Fait ome vivre richement ;</p>
+<p>Car teus 1 n'a pas vaillant deus miches</p>
+<p>Qui est plus a aise e plus riches</p>
+<p>Que teus a cent muis de froment, (v. 4975.)</p>
+<p>La raison en est que ce dernier désire toujours davantage.</p>
+<p>Mais li autres qui ne se fie Ne mais qu'il ait au jour la vie.</p>
+<p>Et li soufist ce qu'il gaaigne.</p>
+<p>Quant il se vit de sa gaaigne,</p>
+<p>Ne 2 ne cuide que riens li faille Tout n'ait il pas une maaille,</p>
+<p>Mais bien veit qu'il gaaignera Pour mangier quant mestiers 3 sera,</p>
+<p>Et pour recouvrer chauceüre Et convenable vesteüre ;</p>
+<p>Ou, s'il ravient 4 qu'il seit malades Et truist 6 toutes viandes 6 fades.</p>
+<p>Si se pourpense 7 il touteveie Pour sei giter de male veie Et pour issir
+8 hors de dangier Ou il navra mestier de mangier y Ou que de petite
+vitaille 9 Se passera, cornent qu'il aille ; 10 Ou riert 11 a l'Ostel
+Deu portez</p>
+<p>1. Tel. — 2. et. — 3. besoin. — 4. advient d'autre part. — 5. trouve. —
+6. nourriture. — 7. réfléchit-il. — 8. sortir. — 9. victuaille. — 10.
+quoi qu'il arrive. — 11. sera de nouveau.</p>
+<p><pb/></p>
+<p>Lors sera bien reconfortez ;</p>
+<p>Ou espeir 1 qu'il ne pense point</p>
+<p>Qu'il ja puist venir a ce point ;</p>
+<p>Ou s'il creit que ce li aviegne,</p>
+<p>Pense il, ainz que li maus 2 li tiegne.</p>
+<p>Que tout a tens espemera 3</p>
+<p>Pour sei chevir 4 quant la sera ;</p>
+<p>Ou, se d'espemier 6 ne li chaut 6</p>
+<p>Ainz viegnent li freit e li chaut,</p>
+<p>Ou la fain qui mourir le face,</p>
+<p>Pense il, espeir, e s'i soulace 7,</p>
+<p>Que, quant plus tost defenira 8,</p>
+<p>Plus tost en paradis ira,</p>
+<p>Qu'il creit que Deus le li present</p>
+<p>Quant il laira 9 l'essil present..., (v. 4991.)</p>
+<p>Mout est chaitis 10 e fos 11 naïs 12 Qui creit que ci seit ses païs 13 :</p>
+<p>N'est pas nostre pats en terre Ce peut l'en bien des clercs enquerre Qui
+Boece, de Confort, lisent,</p>
+<p>Et les sentences qui la gisent ;</p>
+<p>Don granz biens aas genz lais ferait Qui bien le leur translaterait (v.
+5033.)</p>
+<p>Le poète ne se doutait pas sans doute qu'il traduirait quelques années
+plus tard le De Consolatione.</p>
+<p>1. peut-être. — 2. mal. — 3. épargnera. — 4. se tirer d'affaire. — 5.
+épargner. — 6. ne lui soucie. — 7. se console. — 8. mourra. — 9.
+laissera. — 10. malheureux. — 11. fou. — 12. de nature. — 13. vraie patrie.</p>
+<p><pb/></p>
+<p>Puis revont au tonnel et beivent,</p>
+<p>E vivent si com vivre deivent. (v. 5061.)</p>
+<p>Aus richeces font grant laidure 1</p>
+<p>Quant ils leur tolent 2 leur nature :</p>
+<p>La nature est queus deivent courre 3</p>
+<p>Por genz aidier e pour secourre 4,</p>
+<p>Senz estre a usure prestees ;</p>
+<p>A ce les a Deus aprestees :</p>
+<p>Or les ont en prison repostes 5. (v. 5183.)</p>
+<p>1. injure. — 2. ôtent. — 3. courir, circuler. — 4. secourir. — 5. cachées.</p>
+<p><pb/></p>
+<p>Comment ceux qui emmurent leurs richesses pour raient-ils être heureux ?
+L'avare viendra nous citer les rois qui arment autour d'eux cinq cents,
+cinq mille serviteurs par pure peur.</p>
+<p>Qui toujourz les tourmente e grieve 1 (v. 5279),</p>
+<p>et non par « grant hardement comme ils voudraient le faire croire. On
+invoque la force du roi !</p>
+<p>Par sa force ! Mais par ses omes,</p>
+<p>Car sa force ne vaut deus pomes Outre la force d'un ribaud, 2 Qui s'en
+irait a cueur si haut. 3 Par ses omes l Par fel, 4 je ment,</p>
+<p>Ou je ne di pas proprement :</p>
+<p>Vraiement sien ne sont il mie,</p>
+<p>Tout ait il mtr'aus seignourie.</p>
+<p>Scignourie ! Non, mais servise,</p>
+<p>Qu il les deit garder en franchise ;</p>
+<p>Ainz sont leur, car, quant il voudront,</p>
+<p>Leur aïdes au rei toudront, 5 E li reis touz seus demourra Si tost con
+li peuples vourra,</p>
+<p>Car leur bontez, ne leur proeces, 8 Leur cors, leur forces, leur sageces
+Ne sont pas sien, ne riens ni a ;</p>
+<p>Nature bien les li nia... (v. 5297.)</p>
+<p>Il serait curieux de savoir comment Philippe le Bel prit la chose : fort
+bien, sans doute, puisque le Roman de la Rose fut le point de départ de
+la fortune de son auteur et des bons rapports qu'il entretint toujours
+dans la suite avec le roi.</p>
+<p><pb/></p>
+<p>Tuit 1 autre bien sont de Fortune. » (v. 5343.)</p>
+<p>Tu peux amer generaument</p>
+<p>Touz ceus dou monde leiaument. » (v. 5447.)</p>
+<p>Ou tens que Saturnus regne ot</p>
+<p>Cui 2 Jupiter coba les coilles.</p>
+<p>Ses fiz, con si fussent andoilles,</p>
+<p>(Mout ot ci dur fill 8 e amer),</p>
+<p>Puis les gita 4 dans la mer,</p>
+<p>Don Venus la deesse issi 6,</p>
+<p>Car li livres le dit issi6... (v. 5536.)</p>
+<p><pb/></p>
+<p>Car volentiers, non pas envtz, 1 Misl Deus en coilles e en viz Force de
+generacion,</p>
+<p>Par merveilleuse entencion,</p>
+<p>Pour l'espiece aveir toujours vive Par renouvelance naïve 2. (v. 6965.)</p>
+<p>1. malgré lui, contraint. — 2. naturelle.</p>
+<p><pb/></p>
+<p>« Votre langage effrorté, reprit l'Amant, montre bien que vous êtes une
+folle ribaude pour oser parler ainsi. » A quoi Raison de maintenir sans
+colère son opinion et d'invoquer pour sa défense le Timée de Platon 1. Elle</p>
+<p>(fr. 24393, fol. CXIIb). Il poursuit : « Les dessusditz membres génitaux</p>
+<p>1.« Cele sentence ci rimee</p>
+<p>Trouveras escrite en Timee De Platon, qui ne fut pas nices 1.</p>
+<p>Ei quand tu, d'autre part, obices Que lait e vilain sont li mot,</p>
+<p>Je te di, devant Deu qui mot 2 :</p>
+<p>Se je, quant mis les nons aus choses Que si reprendre e blasmer oses,</p>
+<p>Coilles reliques apelasse,</p>
+<p>E reliques coilles clamasse,</p>
+<p>Tu, qui si m'en morz e depiques Me redeïsses de reliques Que ce jusl
+laiz moz e vilains.</p>
+<p>Coilles est beaus nons e si l'ains 4 ;</p>
+<p>Si sont, par fei, coillon e vit ;</p>
+<p>Onc nus plus beaus guieres ne vit.</p>
+<p>Je fis les moz e sui certaine Qu onques ne fis chose vilaine,</p>
+<p>E Deus, qui est sages e fis,</p>
+<p>Tient a bien fait quanque 5 je fis</p>
+<p>1. ignorant. — 2. entend. — 3. asticotes. — 4. aime. — 5. tout ce que.</p>
+<p><pb/></p>
+<p>Se fames nes 1 noment en France,</p>
+<p>Ce n'est fors 2 desacoustumance</p>
+<p>Car li propres nons leur pleüst,</p>
+<p>Qui acoustumé les eüst ;</p>
+<p>Ë se proprement les nomassent,</p>
+<p>Ja 3 certes de riens ni pechassent... (v. 7103)</p>
+<p>Tout d'ailleurs, poursuit Raison, n'est que question d'habitude :</p>
+<p>E Mainte chose desplaist novele,</p>
+<p>Qui par acouslumance est hele.</p>
+<p>Chascune qui le va nomant</p>
+<p>Les apele ne sai cornent :</p>
+<p>Bourses, harneis, riens, piches, pines,</p>
+<p>Ausinc con se fussent esbines.</p>
+<p>Mais quant les sentent bien joignons .</p>
+<p>Eus nes tienent pas a poignans 4,</p>
+<p>Or les noment si corne eus seulent 5. (v. 7139).</p>
+<p>Si vous tieng pour bien escusee De la parole ainsinc usee E des deus moz
+desus nomes Quant si proprement les nomez Qu'il ne mi convient plus muser.</p>
+<p>Ne mon sens en gloser user... (v. 7199).</p>
+<p>1. ne les. — 2. excepté. — 3. jamais. — 4. piquants. — 5. ont coutume.</p>
+<p><pb/></p>
+<p>Qu'onques amour e seignourie</p>
+<p>Ne s'entrefirent compaignie,</p>
+<p>Ne ne demourerent ensemble. » (V. 8451.)</p>
+<p>Tant sentrefont maux endurer Quant cil veaut la maistrise aveir Dou cors
+sa fame e de l'aveir. (v. 8464.)</p>
+<p>Il lui reproche, quand il est parti en voyage pour son commerce, ses
+dépenses, sa vie dissipée et le dédain qu'elle affiche pour son seigneur
+et maître :</p>
+<p><pb/></p>
+<p>« Trop estes » fait-il « vilotiere, 1 Si ravez 2 trop nice 3 maniere,</p>
+<p>Quant sui en mon labeur alez.</p>
+<p>Tantost espinguiez e balez E demenez tel resbaudie 4 Que ce semble grant
+ribaudie, 6</p>
+<p>E chantez comme une seraine 6</p>
+<p>E quant vois a Rome ou en Frise</p>
+<p>Porter nostre marcheandise,</p>
+<p>Vous devenez tantost si cointe, 7</p>
+<p>Car je sai bien qui m'en acointe,</p>
+<p>Que par tout en voit 8 la parole ;</p>
+<p>Et quant aucun vous aparole</p>
+<p>Pour quei si cointe vous tenez</p>
+<p>En tous les leus 9 ou vous venez,</p>
+<p>Vous responez : « Hari, hari, 10</p>
+<p>C'est pour l'amour de mon mari ! » (v. 8467.)</p>
+<p>Toutes estes, seriez, 11 e Justes</p>
+<p>De fait ou de volenté putes... (v. 9155.)</p>
+<p>Il est vrai que c'est le mari qui parle, et que l'auteur pouvait
+alléguer pour sa défense la nécessité où il était de faire parler le
+jaloux selon son parsonnage ; mais plus</p>
+<p>1. coureuse. — 2. avez de nouveau. — 3. aimable. — 4. joie. — 5.
+inconduite. — 6. slrine. — 7. coauette. — 8. va. — 9. lieux. — 10.
+allons allons/ (exclamation). — 11. serez.</p>
+<p><pb/></p>
+<p>loin, Jean de Meun reviendra sur cette imputation outrageante qu'il
+aggrave encore en en prenant indirectement toute la responsabilité :</p>
+<p>Se nou di ie pas pour les bones</p>
+<p>Que seur vertuz fondent leur bones 1,</p>
+<p>Don encor n'ai nules trovees,</p>
+<p>Tant les aie bien esprovees 2. (v. 9917.)</p>
+<p>Et il s'appuie plaisamment sur le témoignage et l'autorité de Salomon
+(Eccles. VII, 29) :</p>
+<p>Nes 3 Salemons nes 4 pot trouver</p>
+<p>Tant les seüst bien esprouver. (v. 9921.)</p>
+<p>Pierres Abailarz reconfesse 5 Que seur Heloïs, abaesse Dou Paraclit 6,
+qui fu s'amie,</p>
+<p>Acorder ne se vouloit mie Pour riens qu'il la preïst a 7 fame ;</p>
+<p>Ainz li faisait la jenne dame,</p>
+<p>Bien entendanz e bien letree,</p>
+<p>E bien amanz e bien amee,</p>
+<p>Argumenz a lui chastier 8 Qu il se gardast de marier ;</p>
+<p>E li prouvait par escritures 9</p>
+<p>1. bornes. — 2. expérimentées. — 3. même. — 4. ne les. — 5. reconnaît
+d'autre part. — 6. Pataclel. — 7. comme, pour. — 8. avertir. — 9. textes.</p>
+<p><pb/></p>
+<p>E par raisons que trop sont dures Condicions de mariage Combien que la
+fame seit sage ; Car les livres avait veüz E estudiez e seüz,</p>
+<p>E les meurs femenins savait, Car trestouz en sei 1 les avait, E
+requerait que il l'amast.</p>
+<p>Mais que nul dreit ni reclamast Fors que de grace e de franchise,</p>
+<p>Senz seignourie e senz maistrise, Si qu'il peüt estudier Touz siens,
+touz frans, senz sei 2 lier ; E quel rentendist 3 a l'estuide, Qui de
+science n'iert pas vuide. E li redisait toutes voies 4 Que plus plaisanz
+ierent leur joies E li soulaz plus en creissaient 6 Quant plus a tart
+s'entrevoaient ; Mais il, si corne escrit nous a, Qui tant l'amait, puis
+l'espousa Contre son amonesement,</p>
+<p>Si l'en meschaï 6 malement ;</p>
+<p>Car puis quel fu, si com mei semble, Par l'acort d'ambedeus 7 ensemble,
+D'Argenteuil none revestue,</p>
+<p>Fu la coille a Pierre tolue A Paris, en son lit, de nuiz,</p>
+<p>Don mout ot travauz e enuiz, E fu puis 8 ceste mescheance 9 Moines de
+Saint Denis en France, Puis abés d'une autre abaïe,</p>
+<p>Puis fonda, ce dit en sa Vie,</p>
+<p>1. elle. — 2. soi. — 3. s'occupât dautre part. — 4. fols. — 5.
+augmenteraient. — 6. advint. — 7. tous les deux. — 8. depuis. — 9. malheur.</p>
+<p><pb/></p>
+<p>Une abaïe renomce</p>
+<p>Quil a dou Paraclit nomee,</p>
+<p>Dont Heloïs fu abaesse,</p>
+<p>Qui devant 1 iert none professe,</p>
+<p>Ele meïsmes le raconte,</p>
+<p>E escrit, e n'en a pas honte,</p>
+<p>A son ami, que tant amait</p>
+<p>Que pere e seigneur le clamait,</p>
+<p>Une merveilleuse parole,</p>
+<p>Que mout de genz tendront a 2 fole,</p>
+<p>Qu'il est escrit en ses epistres,</p>
+<p>Qui bien cercherait les chapitres,</p>
+<p>Quel limanda par letre espresse,</p>
+<p>Puis qu'el fu neïs 3 abaesse :</p>
+<p>« Se li empereres de Rome,</p>
+<p>Souz qui deivent estre tuit orne,</p>
+<p>Me deignait vouleir prendre Q famé</p>
+<p>E faire mei dou monde dame 4,</p>
+<p>Si voudraie je meauz 5 », fait ele,</p>
+<p>« E Deu a tesmoing en apele,</p>
+<p>Estre ta putain apelee</p>
+<p>Que empereriz 8 couronce. »</p>
+<p>Mais je ne crei mie, par m'ame,</p>
+<p>Qu'onques puis fust nule tel fame ;</p>
+<p>Si crei je que sa letreüre 7</p>
+<p>La mist a ce que la nature</p>
+<p>Que des meurs femenins avait,</p>
+<p>Vaincre e douter meauz en savait.</p>
+<p>Cete 8, se Pierre la creiist,</p>
+<p>Onc espousee ne l'eüst. (v. 8759.)</p>
+<p>L'admiration de notre auteur pour soeur Héloise se fait jour plus
+encore, s'il est possible, dans la remarqua-</p>
+<p>1. avant. — 2. pour. — 3. même. — 4. maîtresse. — 5. mieux. — 6.
+impératrice. — 7. culture d'esprit. — 8. Héloise.</p>
+<p><pb/></p>
+<p>Et, sans autre transition, notre jaloux reprend sa démonstration par ce
+vers :</p>
+<p>Mariages est maus liens ! (v. 8833.)</p>
+<p>Tant est de male 1 entencion! (v. 9372.)</p>
+<p>Mais dans le discours d'Ami, l'histoire du mari jaloux n'est qu'un
+intermède ; il en a d'autres dans son sac et n'en fait pas grâce à
+l'Amant. L'origine des rois en est le plus notable et s'y trouve
+rapportée dans des termes dont la violence n'a jamais peut-être été
+égalée. Les premiers hommes, poursuit Ami, ne connaissaient ni le
+mariage, ni la propriété, ni l'usage des monnaies, quand Jason rapporta
+la toison fatale, et avec elle, la richesse et la pauvreté qui
+engendrèrent les disputes, les haines, les dissentions et les guerres.
+Il fallut chercher quelqu'un qui vînt mettre le hola 1 Telle fut
+l'origine des rois : on est loin, comme on le voit, de la définition de
+saint Thomas : Omnis potestas a Deo : 1*</p>
+<p>1. mauvaise.</p>
+<p>*. De regimine principum, lib. III, cap. I,</p>
+<p><pb/></p>
+<p>Un grant vilain entr'aus eslurent,</p>
+<p>Le plus ossu de quanqu1'il furent,</p>
+<p>Le plus COTSUS 2 e le graigneur 3,</p>
+<p>Si le firent prince e seigneur.</p>
+<p>Cil jura que dreit leur tendrait</p>
+<p>E que leur loges 4 defendrait,</p>
+<p>Se chascuns endreit sei li livre</p>
+<p>Des biens don il se puisse vivre.</p>
+<p>Ainsinc l'ont entr'aus acordé</p>
+<p>Con cil l'a dit e recordé.</p>
+<p>Cil tient grant piece 5 cel ofice. (v. 9609).</p>
+<p>Mais, ainsi que l'on pouvait s'y attendre,</p>
+<p>Li robeeur, 6 plein de malice,</p>
+<p>S'assemblerent quant seul le virent,</p>
+<p>E par maintes feiz le batirent Quant les biens venaient embler 7. (v. 9620)</p>
+<p>Lors restut 8 le peuple assembler E chascun endreit 9 sei taillier 10
+Por sergenz 11 au prince baillier.</p>
+<p>Comunement lors se taillierent Treüz 12 e rentes li baillierent E
+donerent granz tenemenz 13 ;</p>
+<p>Aus reis, aus princes terriens.</p>
+<p>Selon l'esprit des anciens... (v. 9624.)</p>
+<p>1. de tout ce qui. — 2. membru. — 3. plus grand. — 4. demeures. — 5.
+temps (longtemps). — 6. voleurs. — 7. voler. — 8. il fallut de nouveau.
+— 9. quant. — 10. s'imposer une taille. — 11. serviteurs. — 12. tributs.
+— 13. possessions immobilières.</p>
+<p><pb/></p>
+<p>« Ainsinc 1, compainz, de vostre rose,</p>
+<p>Qui tant est precieuse chose</p>
+<p>Que n'en prendriez nul avoir</p>
+<p>Se vous la poïez aveir,</p>
+<p>Quant vous en sereiz en saisine 2,</p>
+<p>Si corne esperance devine 3,</p>
+<p>E vostre joie avreiz pleniere,</p>
+<p>Si la gardez en tel maniere</p>
+<p>Con l'en deit garder tel florete... » (v. 9987.)</p>
+<p>— Bel Acueil qu'est il devenuz ?</p>
+<p>— Il est en prison retenuz,</p>
+<p>Li frans, li douz que tant amaie.</p>
+<p>— Or ne te chaut, or ne t'esmaie 4</p>
+<p>Qu'encor l'avras plus, par mes eauz ! 5 (v. 10427.)</p>
+<p>1. ainsi. — 2. possession. — 3. fait prévoir. — 4. inquiète. — 5- yeux.</p>
+<p><pb/></p>
+<p>Dont j'ai griement 1 le cuer blecié. (v. 10500.)</p>
+<p>Je désire que notre ami Bel-Accueil en sorte.</p>
+<p>Mais, ajoute-t-il, la tâche sera particulièrement difficile. »</p>
+<p>« Si sui dolenz e entrepris 2 De Bel-Acueil qu'ele 3 i a mis Qui tant
+avançait 4 nos amis.</p>
+<p>S'il n'en ist, je sui maubailliz 5,</p>
+<p>Puis que Tibullus 8 m'est failliz 7 Qui quenoissait si bien mes teches 8 ;</p>
+<p>Pour cui 8 mors je brisai mes flechs,</p>
+<p>Cassai mes ars, e mes cuiriees 10 Traïnai toutes desciriees,</p>
+<p>Don tant oi d'angoisses e teles Qu'a son tombel mes lasses d'eles
+Traïnai toutes desrompues,</p>
+<p>Tant les oi 11 de deuil debatues ;</p>
+<p>Pour cui mort ma mere ploura Tant que près quel ne s'acoura ; 18 N'est
+nus cui pitié n'en preïst Qui pour lui pleurer nous veïst :</p>
+<p>En noz pleurs n'ot nefrains ne brides.</p>
+<p>Gallus, Catillus e Ovides,</p>
+<p>Qui bien sorent d'amours traitier,</p>
+<p>Nous reussent or bien mestier ;</p>
+<p>1. gravement. — 2. contrarié. — 3. elle (Jalousie). — 4. favorisait. —
+5. mat en point. — 6. Tibulle. — 7. méfait défaut. — 8. qualités — 9.
+qui. — 10. carquois. — 11. ai eues. — 12. mourut.</p>
+<p><pb/></p>
+<p>Mais chascun d'aus gist morz pourriz !</p>
+<p>Vez ci Guillaume de Lorriz,</p>
+<p>Cui Jalousie, sa contraire, 1</p>
+<p>Fait tant d'angoisse e de deul traire 2</p>
+<p>Quil est en peril de mourir</p>
+<p>Se je ne pens 3 dou 4 secourir. » (v. 10504.)</p>
+<p>Ci 5 se reposera Guillaumes,</p>
+<p>Li cui tombeaus seit pleins de baumes,</p>
+<p>D'encen, de mirre e d'aloé,</p>
+<p>Tant m'a servi, tant m'a loé !</p>
+<p>Puis vendra Johans Chopinel</p>
+<p>Au cueur joli, au cors inel 6</p>
+<p>Qui naistra seur Leire a Meün... (v. 10561.)</p>
+<p>Car, quant Guillaume cessera 7</p>
+<p>Jehan le continuera</p>
+<p>Emprès sa mort, que je ne mente,</p>
+<p>Ans trespassez plus de quarente... (v. 10587.)</p>
+<p>1.ennemie. — 2. endurer. — 3. n'ai soin. — 4. de le. — 5. ici. — 6.
+alerte. — 7. s'arrêtera.</p>
+<p><pb/></p>
+<p>« Baron, entendez ma sentence :</p>
+<p>Qui Fous Semblant voudra quenoistre,</p>
+<p>Si le quiere 1 au siecle 2 ou en cloistre :</p>
+<p>Nul leu 3 fors en ces deus, ne mains 4,</p>
+<p>Mais en l'un plus, en l'autre meins 5,</p>
+<p>Briement 6 je me vois 7 osteler 8</p>
+<p>La ou je me cuit 9 meauz 10 celer.</p>
+<p>S'est la celee 11 plus seure</p>
+<p>Souz la plus humble vesteüre. (v. 11006.)</p>
+<p>Les veziez 12, les artilleus 13,</p>
+<p>Qui mondaines eneurs 14 couveitent E les granz besoignes espleitent 15,</p>
+<p>E vont traçant les granz pitances E pourchaçant les acointances Des
+poissanz ornes e les sivent ;</p>
+<p>E se font povre, e il se vivent De bons morseaus delicieus E beivent les
+vins precieus ;</p>
+<p>1. cherche.— 2. monde. — 3. lieu. — 4. demeure. — 5. moins. — 6. en un
+mot. —7. vais. — 8. habiter. — 9. crois. — 10. mieux. — 11.cachette.—
+12. rusés. — 13. astucieux.— 14. honneurs. — 15.exploitent.</p>
+<p><pb/></p>
+<p>E la povreté vous preschent,</p>
+<p>E les granz richeces peeschent,</p>
+<p>Aus saïmes 1 e aus tramaus 2.</p>
+<p>Par mon chief, il en isira 3 maus ! 1* » (v. 11038.)</p>
+<p>Bien peut en robes de couleurs</p>
+<p>Sainte religion flourir.</p>
+<p>Mainz sainz a l'en veü mourir</p>
+<p>E maintes saintes glorieuses,</p>
+<p>Devotes c religieuses,</p>
+<p>Qui dras comuns toujours vestirent,</p>
+<p>N'onques pour ce meins 5 n'en sentirent 6.</p>
+<p>E je vous en nomasse maintes ;</p>
+<p>Mais près que trestoutes les saintes</p>
+<p>Qui par iglises sont priées,</p>
+<p>vierges chastes, e mariees</p>
+<p>Qui mainz beauz enfanz enfanterent,</p>
+<p>Les robes dou siecle porterent</p>
+<p>E en ceus meïsmes moururent,</p>
+<p>Qui saintes sont seront e furent. » (v. 11096.)</p>
+<p>Faux-Semblant est un traître, et il s'en vante. C'est un Prothée qui
+sait épouser toutes les formes :</p>
+<p>« Trop sai bien mes abiz changier.</p>
+<p>Prendre l'un e l'autre estrangier :7 Or sui chevaliers, or sui moines,</p>
+<p>Or sui prelaz, or sui chanoines,</p>
+<p>1. seines (filets de pêche). — 2. trameils (filets). — 3. sortira. — 4.
+oui. — 5. moins. — 6. furent estimées. — 7. rejeter.</p>
+<p>1 *. Le grand Schisme au siècle suivant (XIVe), les guerres de religion
+au XVIe, viennent confirmer cette déclaration prophétique.</p>
+<p><pb/></p>
+<p>Or sui clercs, autre eure sut prestres,</p>
+<p>Or sui deciples, or sui maistres,</p>
+<p>Or chastelains, or forestiers ;</p>
+<p>Briement je sui de touz mestiers.</p>
+<p>Or resui princes, or sui pages,</p>
+<p>E sai par cueur trestouz langages,</p>
+<p>Autre eure sui veauz 1 e chenuz 2,</p>
+<p>Or sui Rober, or sui Robins,</p>
+<p>Or cordeliers, or jacobins. » (v. 11187.)</p>
+<p>Tu sembles estre uns sainz ermites.</p>
+<p>— C'est veirs, 3 mais je sui ypocrites.</p>
+<p>— Tu vas preschant astenance.</p>
+<p>— Veire veir, mais j'emple 4 ma pance De trés bons morseaus e de vins</p>
+<p>Teus corne il afiert 5 a devins 8.</p>
+<p>— Tu vas preeschant povreté.</p>
+<p>— Veire, riches a poeté 1.</p>
+<p>Mais combien que povres me feigne,</p>
+<p>Nul povre je ne contredeigne 8. » (v. 11231).</p>
+<p>Qu'on ne lui parle pas des pauvres, des misérables, ils n'existent pas
+pour lui ; et cyniquement il poursuit sa confession :</p>
+<p>« Quant je vei touz nuz ces truanz Trembler sus ces fumiers puanz De
+freit, de fain crier e braire 9,</p>
+<p>Ne m entremet de leur afaire.</p>
+<p>Je n'ierent par mei conforté,</p>
+<p>1. vieux. — 2. blanchi.— 3. vrai. — 4. emplis. — 5. convient. — 6. gens
+d'église. — 7. abondamment. — 8. fais cas. — 9. hurler.</p>
+<p><pb/></p>
+<p>Car d'une aumosne toute seule</p>
+<p>Ne me paistraient il la gueule,</p>
+<p>Qu'il n'ont pas vaillant une seche :</p>
+<p>Que donra 1 qui son coutel leche ? » (v. 11245).</p>
+<p>Faux-Semblant s'en prend ensuite, avec la dernière violence, aux Ordres
+mendiants, auxquels il reproche leur paresse, leur désoeuvrement et leur
+luxure.</p>
+<p>Poissons 2 on deit, bien le recors 3,</p>
+<p>Aus propres mains, au propre cors,</p>
+<p>En labourant 4 querre son vivre</p>
+<p>Combien qu'il seit religieus</p>
+<p>Ne de servir Deu curieus 5 ;</p>
+<p>Ainsi faire le il convient...</p>
+<p>E encor devrait il tout vendre</p>
+<p>E dou labeur sa vie prendre</p>
+<p>S'il iert bien parfaiz 8 en bonté.... (v. 11317).</p>
+<p>I. donnera. — 2. valide. — 3. rappelle. — 4. travaillant. — 5. dérireux.
+— 6. accompli.</p>
+<p><pb/></p>
+<p>E se ne fust la bone garde</p>
+<p>De l'Université qui garde</p>
+<p>La clef de la crestienté,</p>
+<p>Tout eüst esté tourmenté,</p>
+<p>Quant par mauvaise entencion,</p>
+<p>En l'an de l'incarnation</p>
+<p>Mil e deus cenz cinq e cinquante,</p>
+<p>N'est on vivanz qui m'en desmente,</p>
+<p>Fu bailliez, c'est bien chose veire,</p>
+<p>Pour prendre comun essemplaire</p>
+<p>Uns livres de par le deable,</p>
+<p>C'est l'Evangile pardurable,</p>
+<p>Que li Sainz Esperiz menistre,</p>
+<p>Si come il apareist au titre ;</p>
+<p>Ainsinc est il entitulez ;</p>
+<p>Bien est dignes d'estre brulez.</p>
+<p>A Paris n'ot orne ne fame</p>
+<p>Ou 1 parvis devant Nostre Dame</p>
+<p>Qui lors aveir ne le peüst,</p>
+<p>A transcrire s'il l'i pleüst. (v. 11791).</p>
+<p>L'Université se dressa furieuse contre « cele orrible monstre » et n'eut
+de cesse qu'elle ne l'ait abattu. « Quel malheur, gémit Faux-Semblant,
+que ce livre n'ait pas été admis, ma puissance en eût été accrue ! » Et
+il poursuit sa confession et l'outrecuidance de ses propos, quand Amour,
+l'arrêtant soudain, le nomme roi des ribauds de sa cour où il exerce un
+si réel pouvoir : Faux-Semblant s'agenouille et remercie le Dieu auquel
+il jure d'être un serviteur fidèle.</p>
+<p>« Or a l'assaut senz 2 sejourner 3 »,</p>
+<p>Ce dist Amours apertement. » (v. 12016).</p>
+<p>Et l'attaque du château commence. Pendant ce temps-là, Faux-Semblant et
+Abstinence-Contrainte s'étant déguisés,</p>
+<p>1. au. — 2. sans. — 3. tarder.</p>
+<p><pb/></p>
+<p>Ha, Bel Acueil, tant vous ai chier,</p>
+<p>Tant estes beaus e tant valez !</p>
+<p>Mes tens jolis est touz alez,</p>
+<p>E li vostres est a venir, (v. 12740).</p>
+<p><pb/></p>
+<p>Quel douleur au cueur me tenait Quant en pensant me souvenait Des beaus
+diz, des douz aaisiers,</p>
+<p>Des douz deduiz, des douz baisiers,</p>
+<p>E des tres douces acolees Qui s'en ierent 1 si tost volees.</p>
+<p>Volees ? Veire e senz retour. (v. 12867).</p>
+<p>« Ah! si je pouvais retrouver ma jeunesse, comme je me vengerais de tous
+ces ribauds qui présentement me méprisent!</p>
+<p>Tant les plumasse e tant preïsse</p>
+<p>Dou leur de tort e de travers</p>
+<p>Que mangier les feisse a vers</p>
+<p>E gesir 2 touz nuz es fumiers ;</p>
+<p>Meïsmement. ceus les prumiers</p>
+<p>Qui de plus leial cueur m'amassent</p>
+<p>E plus volentiers se penassent 3</p>
+<p>De mei servir e enourer 4,</p>
+<p>Ne leur laissasse demourer</p>
+<p>Vaillant un ail, se je peüsse</p>
+<p>Que tout en ma bourse n'eüsse... (v. 12910).</p>
+<p>1. furent. — 2. être gisant. — 3. prissent la peine. — 4. honorer.</p>
+<p><pb/></p>
+<p>Je le sai bien par mei meismes,</p>
+<p>Car je me sui toujourz penee D'estre de touz omes amee ;</p>
+<p>E se je ne doutasse honte,</p>
+<p>Qui refreine mainz cuers e donte,</p>
+<p>Quant par ces rues m'en alaie,</p>
+<p>Car toujourz aler i voulaie D'aournemenz 1 envelopee,</p>
+<p>Pour neient fust une poupee,</p>
+<p>Ces valiez, qui tant me plaisaient Quant ces douz regars me faisaient.</p>
+<p>Douz deus l quel pitié m'en prenait Quant cil regarz a mei venait ! Tous
+ou pluseurs les receüsse S'il leur pleüst e je peüsse ;</p>
+<p>Touz les vousisse tire a tire 2,</p>
+<p>Si je peüsse a touz soufire ;</p>
+<p>E me semblait que, s'il peüssent,</p>
+<p>Volentiers tuit me receüssent.</p>
+<p>1. ornements. — 2. l'un apris l'autre.</p>
+<p><pb/></p>
+<p>(Je n'en met hors prelaz ne moines,</p>
+<p>Chevaliers, bourgeois ne chanoines.</p>
+<p>Ne clerc ne lai, ne fol ne sage,</p>
+<p>Pour 1 qu'il fust de poissant 2 aage,</p>
+<p>E des religions 3 saillissent, 4 S'il ne cuidassent qu'il faillissent,
+Quant requise d'amours m'eüssent ;</p>
+<p>Mais, se bien mon pensé seüssent E noz condicions 6 trestoutes,</p>
+<p>Il n'en fussent pas en teus 2 doutes ;</p>
+<p>E crei que, se pluseur osassent,</p>
+<p>Leur mariages en brisassent ; ja 7 de fei ne leur souvenist,</p>
+<p>Se nus 8 en privé me senist ;</p>
+<p>Nus ni gardast condicion,</p>
+<p>Fei 9 ne veu ne religion,</p>
+<p>Se ne fust aucun forsenez,</p>
+<p>Qui fust d'amours enchifrenez 10,</p>
+<p>E leiaument s'amie amast... (v. 14104).</p>
+<p>Si deit la dame prendre garde Que trop a joer 11 ne se tarde,</p>
+<p>Car el pourrait bien tant atendre Que nus ni voudrait la main tendre.</p>
+<p>Querre deit d'Amours le déduit 12,</p>
+<p><pb/></p>
+<p>Tant com jennece la deduit,</p>
+<p>Car, quant vieillece fame assaut,</p>
+<p>D'Amours pert la joie et l'assaut.</p>
+<p>Le fruit d'Amours, se fam est sage Cueille en la fleur de son aage,</p>
+<p>Car tant pert de son tens, la lasse Con sanz joïr d'amours en passe.</p>
+<p>E s'el ne creit ce mien conseil,</p>
+<p>Sache quel s'en repentira Quant vieillece la flestrira. (v. 13475).</p>
+<p>« D'autre part, eus 1 sont franches nees ;</p>
+<p>Lei 2 les a condicionees 3,</p>
+<p>Qui les oste de leur franchises Ou Nature les avait mises ;</p>
+<p>Car Nature n'est pas si sote Qu'ele face naistre Marote Tant seulement
+pour Robichon Se l'entendement i fichon 4,</p>
+<p>Ne Robichon pour Mariete,</p>
+<p>Ne pour Agnès, ne pour Petrete,</p>
+<p>Ains nous a faiz, beaus fiz, n'en doutes,</p>
+<p>Toutes pour touz e touz pour toutes,</p>
+<p>1 *. Lenient, La satire en France au moyen âge (1859), p. 162.</p>
+<p><pb/></p>
+<p>Chascune pour chascun comune,</p>
+<p>E chascun comun a chascune... (v. 13873).</p>
+<p>Li oisillon du vert boscage,</p>
+<p>Quant il est pris e mis en cage,</p>
+<p>Nourriz mout ententivement 1</p>
+<p>Laienz 2 delicieusement,</p>
+<p>E chante, tant cou sera vis 3,</p>
+<p>De cueur gai, ce vous est avis,</p>
+<p>Si desierre il les bois ramez</p>
+<p>Quil a naturelment amez,</p>
+<p>E voudrait seur les arbres estre,</p>
+<p>Ja si bien nou 4 saura l'en paistre ;</p>
+<p>Toujourz i pense e s'estudie</p>
+<p>A recouvrer sa franche vie.</p>
+<p>Sa viande 5 a ses piez demarche 6,</p>
+<p>0 7 l'ardeur qui son cueur li charche,</p>
+<p>E va par sa cage traçant 8,</p>
+<p>A grant angoisse pourchaçant</p>
+<p>Cornent fenestre ou pertuis truisse</p>
+<p>Par quei 9 voler au bois s'en puisse, (v. 13941).</p>
+<p>Il en est de même des femmes, dames ou demoiselles, qui toujours
+cherchent par quel moyen elles pourraient se rendre libres. Même chose
+advient pour les jeunes religieux qui imprudemment ont fait des voeux et
+qui s'en repentent ensuite, mais trop tard.</p>
+<p>1. soigneusement. — 2. l. dedans. — 3. en vie. — 4. ne le. — 5.
+nourritare. — 6. foule aux pieds. — 7. avec. — 8. se démenant. — 9.
+lesquels.</p>
+<p><pb/></p>
+<p>Ausnic vous di je que li on</p>
+<p>Qui s'en entre en religion 1</p>
+<p>E vient après 8 qu'il se repent,</p>
+<p>Par po 3 que de deul ne se pent ;</p>
+<p>E se complaint e se demente,</p>
+<p>Si que iouz en sei se tourmente,</p>
+<p>Tant li sourt 4 granz desirs d'ouvrer</p>
+<p>Coment il pourra recouvrer</p>
+<p>La franchise qu'il a perdue ;</p>
+<p>Car la volenté ne se mue</p>
+<p>Pour nul ahit qu'il puisse prendre,</p>
+<p>En quelque leu qu'il s'aille rendre. (v. 13967).</p>
+<p>C'est l'image du poisson étourdi qui passe parmi la gorge de la nasse
+perfide et qui, lorsqu'il veut en sortir se trouve pris, et est obligé
+d'y rester quelque effort qu'il fasse.</p>
+<p>Car retourner est neienz 5. (v. 13984).</p>
+<p>Si vont entour e tant toumeient,</p>
+<p>Tant i hurtent, tant i aguietent 6,</p>
+<p>Que le trou treuvent, e s'i gietent.</p>
+<p>Mais, quant il sont laienz 7 venu Pris a toujourz e retenu,</p>
+<p>Puis ne se peuent il tenir Qu'il ne vueillent bien revenir,</p>
+<p>1. couvent. — 2. ensuite. — 3. peu. — 4. surgit, vient. — 5. inutile. —
+6. regardent avec soin. — 7. dedans.</p>
+<p><pb/></p>
+<p>Mais ce n'est pas chose possible Qu'il sont meauz 1 pris que a la trible
+2 ;</p>
+<p>La les convient a grant deul vivre Tant que la mort les en delivre, (v.
+13996).</p>
+<p>A telle vie doit s'attendre le jeune religieux qui a prononcé des voeux,</p>
+<p>Car ja si granz solers n'avra,</p>
+<p>Ne ja si faire ne savra</p>
+<p>Grant chaperon ne large aumuce 3</p>
+<p>Que Nature ou cueur ne se muce 4... (v. 14009).</p>
+<p>Car Nature ne saurait mentir, elle qui lui fait sentir tout le prix de
+la liberté.</p>
+<p>Horace l'a bien dit :</p>
+<p>Qui voudrait une fourche prendre Pour sei de Nature defendre,</p>
+<p>E la bouterai hors de sei Revendrait ele, bien le sai.</p>
+<p>Toujourz Nature recourra 5.</p>
+<p>Ja pour abit ne demourra. (v. 14021).</p>
+<p>Que faut-il conclure de tout ceci?</p>
+<p>Que vaut ce ? Toute creature Veaul retourner a sa nature ;</p>
+<p>Ja nou laira pour violence De force ne de convenance.</p>
+<p>Ce deit mout Venus escuser Qu'el voulait de franchise user,</p>
+<p>1. mieux — 2. truble, filet de pêche. — 3. aumune, coiffure de moine, 4.
+cache. — 5. reviendra</p>
+<p><pb/></p>
+<p>E toutes dames qui se jeuent 1 Combien que mariage veuent 2,</p>
+<p>Car ce leur fait Nature faire,</p>
+<p>Qui les veaut a franchise traire,</p>
+<p>Trop est fort chose que Nature El passe neïs 3 nourreture. (v. 14027).</p>
+<p>Qui prendrait, beau fiz, un chaton Qui onques rate ne raton Veü
+n'avrait, puis fust nourriz Senz ja voeir rat ne souriz,</p>
+<p>Lonc tens, par entenlive 4 cure 5,</p>
+<p>De delicieuse posture,</p>
+<p>E puis veïst souris venir,</p>
+<p>N'est riens qui le peüst tenir,</p>
+<p>Si l'en le laissait eschaper,</p>
+<p>Qu'il ne l'alast tantost haper ;</p>
+<p>Trestouz ses mes 6 en laisserait,</p>
+<p>Ja si familleus 7 ne serait ;</p>
+<p>N'est riens qui pais cntr'aus feïst,</p>
+<p>Pour peine que l'on i meïst. (v. 14039).</p>
+<p>Lorsque les femmes sont entraînées par la force de leur</p>
+<p><pb/></p>
+<p>tempérament, elles ne se connaissent plus, et se jettent éperdûment dans
+les fureurs de l'amour.</p>
+<p>Les granz dons que cil 1 me douaient Qui tuit a mei s abandonaient Aus
+meauz amez abandonaie.</p>
+<p>L'en me douait e je donaie,</p>
+<p>Si que n'en ai riens retenu :</p>
+<p>Doner m'a mise au pain menu 2.</p>
+<p>Ne me souvenait de vieillece Qui or m'a mise en tel destrece ;</p>
+<p>De poverté ne me tenait ;</p>
+<p>Le tens ainsinc corne il venait Laissaie aler, senz prendre cure De
+despens faire par mesure 3.</p>
+<p>Se je fusse sage, par m'ame !</p>
+<p>Trop eusse esté riche dame ;</p>
+<p>Car de trop granz genz fui acointe 4,</p>
+<p>Quant j'iere ja mignote e cointe E bien en tenaie aucuns pris,</p>
+<p>Mais quant j'avaie des uns pris,</p>
+<p>Fei que dei Deu ne saint Tibaut,</p>
+<p>Testout donaie a un ribaut Qui trop de honte me faisait,</p>
+<p>Mais c'iert cil qui plus me plaisait.</p>
+<p>Les autres touz amis clamaie,</p>
+<p>Mais lui tant seulement amaie ;</p>
+<p>Mais sachiez qu'il ne me prisait Un peis 5, e bien le me disait.</p>
+<p><pb/></p>
+<p>Mauvais iert, onques ne vi pire, Onc ne me cessa de despire 1 : Putain
+comune me clamait Li ribauz, qui point ne marnait. Fame a trop povre
+juigement, E je fui fame dreitement. Onc n'amai orne qui m'amast,</p>
+<p>Mais, ce cil ribauz nentamast 2 L'espaule, ou ma teste eüst casse 8,
+Sachiez que je l'en merciasse.</p>
+<p>Il ne me seüst ja tant batre Que seur mei non feïsse embatre ; Qu'il
+savait trop bien sa pais 4 faire Ja tant ne m'eüst fait contraire, Ne
+batue ne traïnee,</p>
+<p>Ja tant ne m'eüst mal menee Ne mon vis blêcié ne nerci 6, Qu'anceis 6 ne
+me criat merci Que de la place se meüst ;</p>
+<p>Ja tant dit honte ne m'eüst Que de pais ne m'amonestast 7 E que lors ne
+me refaistat 8 : Si ravions pais e concorde.</p>
+<p>Ainsinc m'avait prise en sa corde, Car trop estait fiers 9 rafaitierres
+10. Li faus, li traîtres, li lierres 1.</p>
+<p>Senz celui ne poisse vivre,</p>
+<p>Celui vousisse toujours sivre. S'il foïst, bien l'alasse auerre Jusqu'à
+Londres en Engleterre,</p>
+<p>Tant me pleut e tant m'abeli 12. Cil me mist a honte et je 13 li,</p>
+<p>1. mépriser. — 2. m'eut coupé (en incisant).— 3. meurtri. — 4 .paix.</p>
+<p>— 5. noirci. — 6. avant. — 7. invita. — 8. accomplisse l'acte amoureux.</p>
+<p>— 9. fameux. —10. luron d'amour. — 11. voleur. — 12. charma. — 13. mol.</p>
+<p><pb/></p>
+<p>Car il menait les gratis cembaus 1 Des dons qu'il ot de mei tant beaus,</p>
+<p>Ne n'en metait nus en espernes 2 Tout joait aus dez es tavernes ;</p>
+<p>N'onques n'aprist autre mestier,</p>
+<p>N'il ne l'en iert lors mol mestier,</p>
+<p>Car tant il livraie a despendre E je l'avaie bien ou prendre :</p>
+<p>Touz li mondes iert mes rentiers 3, E il despendait volontiers,</p>
+<p>E toujourz en ribauderie,</p>
+<p>Trestouz frianz de lecherie 4 Tant par avait la bouche tendre Qu'il ne
+vost a nul bien entendre ;</p>
+<p>N'onc vivre ne li abelit 5 Pors en oiseuse 6 e en delit 7.</p>
+<p>En la fin l'en vi mal bailli 8,</p>
+<p>Quant li don nous furent failli :</p>
+<p>Povres devint e pain queranz,</p>
+<p>E je n'oi vaillant deus cerans 9.</p>
+<p>N'onques n'oi seigneur espousé ;</p>
+<p>Lors m'en vin, si con dit vous ai,</p>
+<p>Par ces boissons 10 gratant mes temples 11 : Cis miens estaz 12 vous
+seit essemples,</p>
+<p>Biaus douz fiz, e le retenez ;</p>
+<p>Si sagement vous demenez Que meauz vous seit de ma matstrie 13 : Car
+quant vostre rose iert flestrie E les chaisnes 14 vous assaudront,
+Certainement li don faudront 15. » (v. 14459).</p>
+<p>divertissements (grande vie). — 2. épargne. — 3. me faisait des rentes,
+— 4. débauche. — 5. plut — 6. oisiveté. — 7. jouissances. — 8. loti. —
+9. sérans (peigne de cardeur).—10. buissons.— 11. tempes. — 12.
+situation. — 13. science, expérience. 14. cheveux blancs.— 15. feront
+défaut.</p>
+<p><pb/></p>
+<p>« Fuiez, vassaus, fuiez, fuiez,</p>
+<p>Fuiez », dit-il, « trop menuiez ! » (v. 14827).</p>
+<p>Si vous pri toutes, vaillanz James,</p>
+<p>Seiez dameiseles ou dames,</p>
+<p>Amoureuses ou senz amis,</p>
+<p>Que, se moz i trouvez ja mis Qui semblent mordanz e chenins 1</p>
+<p>1. méchants.</p>
+<p><pb/></p>
+<p>Encontre les meurs femenins,</p>
+<p>Que ne m'en voilliez pas blasmer, Ne m'escriture 1 diffamer,</p>
+<p>Qui toute est pour enseignement ; Qu'onc ni dis riens certainement, Ne
+volenté n'ai pas de dire Ne par ivrece ne par ire,</p>
+<p>Par haïne ne par envie,</p>
+<p>Contre famé qui seit en vie ;</p>
+<p>Car nus ne deit fame despire 2 S'il n'a cueur des mauvais le pire. Mais
+pour c'en escrit les meïsmes Que nous e vous de vous meïsmes Poissons 3
+quenoissance aveir ;</p>
+<p>Car il fait bon de tout saveir.</p>
+<p>D'autre part, dames enourables, S'il vous semble que je di fables,</p>
+<p>Pour menteeur ne m'en tenez,</p>
+<p>Mais aus aucteurs vous en prenez Qui en leur livres ont escrites Les
+paroles que j'en ai dites,</p>
+<p>E ceus avec que j'en dirai ;</p>
+<p>Ne ia de riens n'en mentirai,</p>
+<p>Se li preudonne n'en mentirent Qui les anciens livres firent,</p>
+<p>E tuit a ma raison s'acordent Quant les meurs femenins recordent 4, Ne
+ne furent ne Jos ne ivres Quant il les mistrent 5 en leur livres, Cil
+les meurs femenins savaient, Car touz esprouvez les avaient, E teus es
+fames les trouverent Que par divers tens esprouverent ;</p>
+<p>1 mon texte. — 2. vilipender. — 3. puissions. — 4. exposent. — 5 mirent.</p>
+<p><pb/></p>
+<p>Par quei meauz m'en devez quiter 1 :</p>
+<p>Je ni fez riens fors reciter,</p>
+<p>Se par mon jeu, qui po 2 vous couste,</p>
+<p>Quelque parole ni ajoute,</p>
+<p>Si con font entr'aus li poete.</p>
+<p>Quant chascune la matire traite</p>
+<p>Don il li plaist a entremetre 3 ;</p>
+<p>Car, si con tesmoigne la letre 4,</p>
+<p>Profiz e delectacion</p>
+<p>C'est toute leur intencion. (v. 15195).</p>
+<p>Nouvelle interruption du récit. Le poète nous transporte du camp d'Amour
+dans l'atelier de Nature, tout occupée</p>
+<p>En forgier singulieres pieces Pour continuer les especes (v. 15897),</p>
+<p>Mort qui de neir le vis a teint</p>
+<p>Cort après tant que les ateint. (v. 15945).</p>
+<p>I. abandonner. — 2. peu.— 3. s'occuper. — 4. le vers d'Horace l Omne
+tulit punctum, qui miscuit utile dulci. (Ars poet. 343.)</p>
+<p><pb/></p>
+<p>Nepourquant, c'est chose notable,</p>
+<p>Alkimie est art veritable :</p>
+<p>Qui sagement en ouverrait 1 Granz merveilles i trouverrait. (v. 16083).</p>
+<p>f&gt;leinement déplacée, mais amusante par endroits, comme e dialogue de
+cette femme retorse, et fourbe avec son benêt de mari, faible et borné,
+le tout assaisonné de quelques détails gaillards. Génius conclut par ces
+vers qui sont toujours de situation :</p>
+<p>Beau seigneur, gardez vous de fames,</p>
+<p>Se vos cors amez e vos ames,</p>
+<p>Au meins que ja si mal m'ouvriez Que les secrez leur descouvriez Que
+dedens vos cueurs estuiez 2.</p>
+<p>Fuiez, fuiez, Juiez, fuiez,</p>
+<p>Fuiez, enfant, fuiez tel beste... (v. 16577).</p>
+<p>1. y donnerait ses soins. — 2. tenez enfermés.</p>
+<p><pb/></p>
+<p>Que se la fame a seignourie,</p>
+<p>Ele est a son mari contraire Quant il veut riens 1 ou dire ou faire...
+(v. 16646).</p>
+<p>Et Génius de rapporter l'exemple de Dalila « la malicieuse » et de
+conclure : « Ce que j'en dis ne saurait vous atteindre, car</p>
+<p>Tant vous a Deus doné sen 3 fin,</p>
+<p>Que vous estes sage senz fin » (v. 16705).</p>
+<p>1. une chose quelconque. — 2. sens.</p>
+<p><pb/></p>
+<p>Nature commence sa confession par un acte d'adoration envers Dieu, le
+créateur de ce « beau monde »</p>
+<p>Don il portait en sa pensee</p>
+<p>La bele fourme pourpensee</p>
+<p>Toujourz en pardurableté</p>
+<p>Ainz quelle eüst dehors esté,</p>
+<p>Car la prist il son essemplaire 1 (v. 16731).</p>
+<p>« Quand il eut créé le monde et l'eut peuplé de ses autres créatures, il
+m'a prise, poursuit Nature, pour chambrière :</p>
+<p>Pour chamberiere ! certes veïre,</p>
+<p>Pour conestable e pour vicaire</p>
+<p>Don je ne fusse mie digne,</p>
+<p>Fors par sa volenté benigne. (v. 16780).</p>
+<p>1. modèle.</p>
+<p><pb/></p>
+<p>Mais les cometes plus naguietent 1 Ne plus expressement ne gietent Leur
+influences ne leur rais 2 Seur povres omes que seur reis 3,</p>
+<p>Ne seur reis que seur povres omes...</p>
+<p>Ne li prince ne sont pas digne Que li cors dou ciel doignent 4 signe De
+leur mort plus que d'un autre ome,</p>
+<p>Car leur cors ne vaut une pome Outre le cors d'un charruier,</p>
+<p>Ou d'un clerc ou d'un escuier ;</p>
+<p>Car fes faz touz semblables estre,</p>
+<p>Si corne il apert a leur naistre 5.</p>
+<p>Par mei naissent semblable e nu,</p>
+<p>Fort et foible, gros e menu ;</p>
+<p>Touz les met en equalité,</p>
+<p>Quant a l'estat d'humanité ;</p>
+<p>Fortune i met le remanant 2 Qui ne set estre parmanant Qui ses biens a
+son plaisir done Ne ne prent garde a quel persone,</p>
+<p>E tout retost 7 ou retourdra 8 Toutes les fois quele voudra. » (v. 18545).</p>
+<p>Jean de Meun répand sur toute cette discussion scientifique le charme
+puissant de sa poésie, et rappelle Lucrèce</p>
+<p>1. surveillent. — 2. rayons. — 3. rois. — 4. donnent. — 5. naissance. —
+6. reste. — 7. reprend. — 8. reprendra.</p>
+<p><pb/></p>
+<p>Noblece vient de bon courage 1,</p>
+<p>Car gentillece de lignage</p>
+<p>N'est pas gentillece qui vaille</p>
+<p>Pour quel bonté de cueur i faille ;</p>
+<p>Par quel deit estre en li paranz 2</p>
+<p>La proece de ses parenz</p>
+<p>Qui la gentillece conquistrent</p>
+<p>Par les travauz que granz i mistrent.</p>
+<p>E quant dou siecle trespasserent,</p>
+<p>Toutes leur vertuz emportèrent,</p>
+<p>E laisserent aus eirs 3 l'aveir,</p>
+<p>Qui plus ne porent d'aus aveir,</p>
+<p>L'aveir ont, riens plus ni a leur,</p>
+<p>Ne gentillece ne valeur.</p>
+<p>S'il ne font tant que gentill seient</p>
+<p>Par sens ou par vertuz qu'il aient. (v. 18619).</p>
+<p>I. coeur. — 2. visible. — 3. héritiers.</p>
+<p><pb/></p>
+<p>Senz faille 1, Je tous les pechiez</p>
+<p>Don li chaitis 2 est entechiez 3,</p>
+<p>A Deu les lais, bien s'en chevisse 4,</p>
+<p>Quant li plaira si l'en punisse ;</p>
+<p>Mais pour ceus don Amours se plaint,</p>
+<p>Car j'en ai bien oï le plaint,</p>
+<p>Je meïsmes, tant con je puis,</p>
+<p>M'en plaing e m'en dei plaindre, puis</p>
+<p>Qu'il me reneient le treiï 5</p>
+<p>Que trestuit orne m'ont deü</p>
+<p>E toujours deivent e devront</p>
+<p>Tant com mes oustiz recevront. (v. 19323).</p>
+<p>1. sans faute. — 2. malheureux. — 3. atteints. — 4. acquitte. — 5. tribut.</p>
+<p><pb/></p>
+<p>Lors remaint 1 Nature en sa forge,</p>
+<p>Prent ses marteaus e fiert 2 e forge</p>
+<p>Trestout ainsinc come devant :</p>
+<p>E Genius plus tost que vent</p>
+<p>Ses eles bat e plus notent</p>
+<p>En l'ost 8 s'en est venuz atant... (v. 19439).</p>
+<p>Génius arrivé au camp, salue le Dieu d'Amour et l'assemblée des barons,
+expose le but de sa venue et réclame finalement le silence ;</p>
+<p>E par teus 4 paroles comence La difinitive sentence : (V. 19505).</p>
+<p>« De l'autorité de Nature, vicaire et connétable de l'Empereur éternel,
+qui depuis le commencement du</p>
+<p>1. reste. — 2. frappe. — 3. armée. — 4. telles..</p>
+<p><pb/></p>
+<p>Senz nule pensee vilaine, (v. 19536)</p>
+<p>Arez 1, pour Dieu, baron arez E vos lignages reparez ;</p>
+<p>Se ne pensez forment 2 d'arer,</p>
+<p>N'est riens qui les puist reparer.</p>
+<p>Secourciez 3 vous bien par devant,...</p>
+<p>Levez aus deus mains toutes nues Les manchereaus 4 de vos charrues ;</p>
+<p>Forment aus braz les soutenez E dou soc bouter vous penez Reidement en
+la dreite veie 5,</p>
+<p>Pour meauz afonder en la reie 6. (v. 19701).</p>
+<p>« Allez prêcher les bons principes ; et si vos actes s'accordent avec
+vos paroles, soyez sûrs d'avoir accès dans le Parc où se tient le Fils
+de la Vierge : dans ce Parc se trouve une fontaine qui est la fontaine
+de vie. Si vous vous conduisez comme vous devez, vous boirez de cette
+fontaine qui vous rendra immortels. En attendant, on verra ce que vous
+ferez quand vous serez pour prêcher sur la brétèche :</p>
+<p>1. labourez. — 2. fortement, beaucoup. — 3. Retroussez. — 4. mancherons
+(d'une charue). — 5. voie. — 6. raie.</p>
+<p><pb/></p>
+<p>Or i parra 1 que 2 vous fereiz</p>
+<p>Quant ri haut encroé 4 sereiz</p>
+<p>Pour preschier seur la bretesche ! 5 » (v. 20665).</p>
+<p>Toute l'assistance d'applaudir, en même temps que Génius disparaissait
+sans qu'on ait pu savoir ce qu'il était devenu :</p>
+<p>E Genius s'esvanoï</p>
+<p>Qu'onques ne sorent qu'il devint, (v. 20702).</p>
+<p>Or a l'assaut senz plus atendre ! (v. 20705)</p>
+<p>Tuit s'escrient : « Traï ! traï !</p>
+<p>Tuit somes mort ! aï ! aï ! (v. 21263)</p>
+<p>Sauvons-nous » ! et chacun des portiers de jeter ses clefs.</p>
+<p>C'est alors que Courtoisie, la noble, s'avance, accompagnée de Pitié et
+de Franchise, pour sauver son fils de</p>
+<p>1. paraîtra. — 2. ce que. — 3. ferez. — 4. haussés. — 5. créneaux.</p>
+<p><pb/></p>
+<p>Olreiez li la rose en don ! »</p>
+<p>« Très volontiers, répond Bel-Accueil, il peut la cueillir alors que
+nous ne sommes ici que tous les deux. Il y a longtemps que j'aurais dû
+le recevoir, car je vois bien qu'il aime loyalement ! »</p>
+<p>« Dame, je la li abandon 1 »</p>
+<p>Fait Bel Accueil, « mout volentiers,</p>
+<p>Cuillir la peut endementiers 2</p>
+<p>Que nom ne somes ci que dui.</p>
+<p>Pieç'a 3 que receveir le dui,</p>
+<p>Car bien vei quil aime senz guile ! 4 » (v. 21340.)</p>
+<p>1. abandonne. — 2. pendant ce temps-là. — 3. il y a longtemps que. — 4.
+tromperie.</p>
+<p><pb/></p>
+<p>« Ainz que d'ileuc 1 me remuasse 2,</p>
+<p>Ou, mon vueil 8, encor demourasse,</p>
+<p>Par grant joliete 4 coilli La fleur dou bel rosier foilli 5.</p>
+<p>Ainsinc oi la rose vermeille :</p>
+<p>Atant 6 fit jourz 7, et je mesveille.1* »</p>
+<p>(v. 21775-21780).</p>
+<p>1, ici. — 2. bourgeasse. — 3. volontiers. — 4. joie. 5. feuillu. 6.
+maintenant. — 7. jour.</p>
+<p>1 *. Cf. ci-dessus, p. 70, le passage de Martin Le Franc, et cette
+réflexion de D. Nisard : « Guillaume de Lorriz n'avait rêvé que la
+conquête d'une rose, symbole de l'amour chaste et chevaleresque des
+Troubadours. Jean de Meung a flétri la rose en la cueillant. » Hist. de
+la litt.fr. (Paris, 1844), 1.1, p. 133.</p>
+<p><pb/></p>
+<p>CONCLUSION</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Les arguments de Gerson, comme on devait s'y attendre, sont d'une autre
+nature, et rentrent plus spécialement dans les griefs du théologien et
+de l'homme d'Église.</p>
+<p><pb/></p>
+<p>1. Charles Oulmont, Le Verger, le Temple et la Cellule, p. 252.</p>
+<p><pb/></p>
+<p>1. Michelet, Histoire de France (Paris, 1840), t. IV, p. 375 ; et édit.
+de 1852, t. IV, p. 372-3. — Dictionnaire des Sciences philosophiques de
+Franck : « Ce qu on remarque fréquemment dans Gerson, c'est
+l'inconséquence. » Au mot GERSON.</p>
+<p>2. Oulmont, p. 252.</p>
+<p>3. On sait que Renan, dans son étude sur le Cantique des Cantiques
+(Paris, 1870, in-8°), est d'avis que ce dernier ouvrage doit être pris
+uniquement au sens profane et matériel (p. 163)</p>
+<p><pb/></p>
+<p>Fuiez, fuiez, fuiez, fuiez,</p>
+<p>Fuiez, fuiez, fuier tel beste (v. 165771)</p>
+<p>1. Voir plus haut, p. 142 où le passage est relevé.</p>
+<p><pb/></p>
+<p>Somniat iste tamen dam somnia visa renarrat,</p>
+<p>n'en a pas moins personnifié, dans le Trionfo della Castità, les
+personnages de Beauté, de Courtoisie et de BelAccueil.</p>
+<p>1. Désiré Nisard, Hist. Je la litt.fr. (1844), t.1, p. 142.</p>
+<p>2. Ibid., m. p.</p>
+<p><pb/></p>
+<p>Son oeuvre constitue ainsi un des plus grands événements littéraires de
+notre pays et durera, quoi qu on ait pu dire, autant que la langue
+elle-même.</p>
+<p>I. G. Paris, La littérature fr. au moyen-âge (1888), p. 172.</p>
+<p><pb/></p>
+<p>TARI E DES MATIÈRES</p>
+<p>Les origines du Roman de la Rose</p>
+<p>7</p>
+<p>« Le Traictié Maistre Jehan Gerson contre le Roumant de la Rose » . .</p>
+<p>53</p>
+<p>Le Roman de la Rose : Première partie. . . . .</p>
+<p>81</p>
+<p>Le Roman de la Rose : Seconde partie. .....</p>
+<p>99</p>
+<p>CONCLUSION</p>
+<p>153</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>ACHEVÉ D'IMPRIMER LE 6 FÉVRIER 1929 PAR F. PAILLART A ABBEVILLE (SOMME)</p>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>ORIGINAL EN COULEUR</p>
+    </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Angellier, Auguste (1848-1911)">Auguste Angellier</author>
+<title>Étude sur Henri Regnault / par A. Angellier,...</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Angellier, Auguste (1848-1911)</author>, <title>Étude sur Henri Regnault / par A. Angellier,...</title>, <date>1879</date>,description :,116 pages
+</bibl>
+<publisher>L. Boulanger (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k64660317</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1879">1879</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>1 ÉTUDE</p>
+<p>SUR</p>
+<p>HENRI REGNAULT</p>
+<p>PAR</p>
+<p>A. ANGELLIEH *GRÉCÉ DE L'UNIVERSITÉ, PROFESSEUR AU LYCÉE CHARLEMAGHE</p>
+<p>AVEC UNE EAU-FORTE</p>
+<p>DE</p>
+<p>PAUL LANGLOIS</p>
+<p>PARIS</p>
+<p>L. BOULANGER, LIBRAIRE - ÉDITEUR 82, RUE BONAPARTE, 82</p>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>- P. i,~~ 1 1 Imp</p>
+<p><pb/></p>
+<p>ETUDE</p>
+<p>SUR</p>
+<p>4HHHENRI REGNAULT</p>
+<p><pb/></p>
+<p>MÊME LIBRAIRIE:</p>
+<p>ÉTUDE</p>
+<p>sur la</p>
+<p>CHANSON DE ROLAND</p>
+<p>par</p>
+<p>A. ANGELLIER</p>
+<p><pb/></p>
+<p>ÉTUDE</p>
+<p>SUR</p>
+<p>HENRI REGNAULT</p>
+<p>FAR</p>
+<p>ANGELLIER AGRÉGÉ DE L'UNIVERSITÉ</p>
+<p>AVEC UNE EAU-FORTE d e</p>
+<p>PAUL LANGLOIS</p>
+<p>PARIS</p>
+<p>L. BOULANGER, LIBRAIRE-ÉDITEUR 82, RUE BONAPARTE, 8 2</p>
+<p>1879</p>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>A LA MÉMOIRE</p>
+<p>de mon cousin AUGUSTE LACOUR</p>
+<p>Ton regret était de ne les avoir pas entendues et ton désir était de les
+lire.</p>
+<p>Les voici. Je vais les porter dans ta chambre vide en souvenir des joies
+et des tristesses partagées et comme le témoignage d'un regret qui ne se
+fermera pas et d'une affection qui vraiment fut fraternelle.</p>
+<p>Août 1878.</p>
+<p>A. A.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>Si l'architecte a choisi Regnault comme la figure centrale du monument,
+si nous tous avons si souvent répété son nom</p>
+<p><pb/></p>
+<p>Il suffit de jeter les yeux sur le monument même de l'École des
+Beaux-Arts, pour y voir gravés en lettres d'or, de chaque côté du buste
+de Regnault, les noms d'autres jeunes gens pour lesquels l'avenir était,
+comme pour lui, plein depromesses, et qui ont su, comme lui, bravement
+les immoler.</p>
+<p>(1) Emmanuel des Essarts.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1</p>
+<p>A sa sortie du lycée en 1861, Regnault devint élève de l'école des Beaux
+Arts et suivit l'atelier de M. Louis Lamothe qui était lui-même élève de
+Flandrin et de Ingres.</p>
+<p>Lorsqu'on examine aujourd'hui la composition de Regnault que l'école des
+Beaux-Arts conserve dans son musée, on n'est nullement surpris qu'elle
+ait vivement frappé l'attention des juges. Ce n'est pas que l'œuvre ait
+une complète unité et que l'art de l'arrangement y soit poussé fort
+loin. Le groupe d'Achille pleurant sur le corps de Patrocle n'est pas
+des meilleurs et dans cette partie du tableau le talent du peintre ne se
+révèle guère que par la largeur avec laquelle sont traités les
+accessoires, notamment la peau de tigre qui recouvre la couche où repose
+le compagnon d'Achille. Mais il y a dans cette composition incomplète,
+une figure curieusement élégante et qu'un artiste de la plus rare
+distinction pouvait seul concevoir et peindre, c'est celle de Thétis.</p>
+<p>(i) Paul Mantz. Gazette des Beaux-Arts, 1872.</p>
+<p><pb/></p>
+<p>Ce fut au commencement de mars 1867 que Regnault se mit en route pour
+Rome. Sa correspondance s'ouvre par une suite de charmants paysages si
+bien vus et si finement colorés comme en écrivent souvent les peintres.
+C'est d'abord Marseille dont il nous retrace l'aspect dans deux vues qui
+pourraient se servir de pendants : l'une de jour l'autre de nuit.</p>
+<p>Puis c'est une description de la route de la Corniche, sans cette
+crudité de couleurs et ces brusques coupures d'ombre comme</p>
+<p>par un jour de soleil; mais avec les demi-teintes adoucies et grisâtres
+d'un jour de brume, en sorte que le paysage gagne en distinction ce
+qu'il perd en éclat. « La mer reflétait le ciel gris et par moments
+prenait des teintes d'un vert tendre inimaginable. »</p>
+<p>Voici la première des cités italiennes, de ces cités toutes rayonnantes
+de la beauté de plusieurs siècles, vrais musées où les rues sont des
+galeries, où les statues respirent librement le grand air des places,
+voici Gênes la ville des marbres et</p>
+<p><pb/></p>
+<p>Après Gênes, voici Florence, la sévère et élégante Florence dont les
+palais qui dressent leurs créneaux au-dessus des maisons et allongent le
+long des rues leurs épaisses murailles nues, bâties de blocs sombres,
+percées de rares fenêtres défendues par des grilles et de lourdes portes
+de chêne armées de fer, ont l'air farouche de forteresses. C'est par
+excellence la ville de la Renaissance italienne, surtout en ce que
+celle-ci a de moderne. La Renaissance a deux faces : l'une qui regarde
+les temps anciens, l'autre tournée vers les siècles nouveaux ; elle est
+faite de deux éléments : l'étude de l'antiquité et l'observation de la
+nature. Quand le premier a prévalu, elle a produit des œuvres qui
+rappelaient les formes généralisées et universelles des Grecs ; quand ce
+fut le second, elle a produit des œuvres plus particulières et
+individuelles. La rude et fière Florence dont le climat a ses duretés,
+qui connaît le vent du nord et qui n'a pas « ces charmes trop puissants
+qui, par l'excès et la continuité du plaisir détournent l'homme du
+travail de penser et de l'effort de vouloir», ( i) a été avant tout la
+ville de la force individuelle. Ses fils ont vécu d'une vie personnelle
+très-intense et très-âpre, et si d'autres villes ont pro-</p>
+<p>(i) M. G. Perrot dans un substantiel article de la Revue des DeuxMondes
+( mai 1878).</p>
+<p><pb/></p>
+<p>Tout écrasé d'admiration, Regnault reprit le chemin de Rome. Le 14 mars,
+il apercevait les deux campaniles blancs de la Villa Médicis et passant
+sous les chênes verts qui lui servent de premier portique, il arrivait
+devant cette gracieuse façade tout ornée de bas-reliefs et cette loge
+qui donne sur les lauriers et les myrtes du jardin. La loge de la Villa
+Médi-</p>
+<p><pb/></p>
+<p>cis! Qu'il y a de choses dans ces mots! Dans combien de rêves est elle
+apparue comme un but lointain et une récompense suprême ! Que de
+courages elle a soutenus pendant les années de pauvreté et de travail !
+Que de fois, sur les murs nus des mansardes, elle s'est enflammée comme
+une vision si éblouissante et si glorieuse qu'il semblait que la pauvre
+chambrette s'emplissait soudainement de lumière ! Aussi qu'elle paraît
+belle aux nouveaux arrivants, avec ses quatre grandes colonnes de marbre
+si bien veinées, ses deux lions couchés, sa vasque de granit où brille
+un jet d'eau et son escalier qu'ont gravi tant d'illustres ! Que de
+jeunes ambitions l'ont saluée avec confiance, que de vieux souvenirs y
+retournent avec tendresse!</p>
+<p>Tu regere imperio populos, Romane, memento ;</p>
+<p><pb/></p>
+<p>C'est l'inévitable déception qui attend les gens d'éducation classique
+lorsqu'ils mettent pour la premip"", fois le pied dans</p>
+<p><pb/></p>
+<p>Il ne semble pas que cette heure pleine de recueillement et de respect
+soit jamais venue pour Regnault. Il n'a pas fermé les yeux pour revoir
+les sept collines encore sauvages, toutes noires par l'ombre des forêts
+d'yeuses, les premières huttes romaines, et le vieux Capitoleavec sa
+louve d'airain et la</p>
+<p><pb/></p>
+<p>C'est que Regnault, pour employer une belle expression de madame de
+Staël, n'était pas de ces âmes rêveuses que la mort occupe autant que la
+vie et qui perdent quelquefois le sentiment du présent dans la
+contemplation du passé. Ce qu'il cherchait avant tout, c'était la
+palpitation de la vie actuelle plutôt que la poussière des vies
+éteintes. Quand il entendait les bœufs mugir dans le Campo Vaccino ce
+n'était pas pour songer qu'un jour, quand le Capitole étincelait des
+toits dorés des temples, Virgile se reportait vers les temps lointains
+où les bœufs mugissaient dans le Forum Romain. Sa première pensée était
+de les admirer. Ce rapprochement qui contient une si grande leçon le
+frappait moins que les formes nobles des animaux, leur; peau reluisant
+au soleil, leurs cornes aiguës et l'aspect pittoresque de leurs
+pasteurs. Cela était naturel : son art, son époque, sa nature, son âge
+le portaient également de ce côté. Les peintres plus amoureux de formes que</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Wey. Tout y est pris dans la Rome vivante : on y voit l'étroite ruelle
+et les voûtes basses du marché au poisson, l'eau noirâtre du quartier
+des tanneurs, le marché de la place Navone, les pâtés de masures
+entassées sur les bords du Tibre ; pas une seule tombe, pas un socle de
+colonne, pas un coin de bas-relief, rien de la Rome morte.</p>
+<p><pb/></p>
+<p>baldaquin, ses colonnes torses de bronze doré, ses autels ornés
+d'améthystes et de pierreries ! Le pavé en marbres de diverses couleurs
+reflète toutes ces richesses comme une glace.</p>
+<p>Après la bénédiction, le peuple a poussé des cris de Viva il santo padre,</p>
+<p><pb/></p>
+<p>Et ces grandes colonnes torses, en bronze, du grand autel, faisant une
+silhouette sombre ! C'est étonnant !</p>
+<p>La statue de bronze de saint Pierre est magnifiquement décorée pour la
+circonstance ; la tête est coiffée d'une superbe tiare toute recouverte
+de pierreries. Une grande draperie de brocart or et rouge violacé
+enveloppe la statue, derrière laquelle est un fond de brocart or et
+rouge aussi, mais d'un autre rouge plus chaud.</p>
+<p>La campagne romaine le frappa plus que Rome elle-même.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>bre, d'un bleu de pierre précieuse. La mer était en feu, la ciel
+sillonné de grands nuages; c'était splendide. Je comprends qu'en plaçant
+leurs théâtres devant de semblables merveilles, les anciens aient pu se
+passer de décors. Les plus riches feraient triste mine en face de cette
+magie de la nature.</p>
+<p>Après avoir erré quelque temps dans un bois, nous avons trouvé un chemin
+creux et fantastique avec des arbres dont les racines minées par les
+eaux formaient voûte au-dessus de nos têtes, et nous avons regagné
+Albano avec l'ardeur de voyageurs pris par la nuit et terriblement affamés.</p>
+<p>Rien n'est plus beau que ces grands bois sombres, formant de belles
+lignes, sévères et fermes, se reflétant dans une eau calme et pc!,tmte
+que réfléchissait le bleu du ciel en lui prêtant le brillant des pierres
+précieuses.</p>
+<p>Jamais de ma vie je ne me suis cru plus loin du monde connu, plus isolé,
+qu'au milieu de ces grands roseaux qui enferment les étangs dans un</p>
+<p><pb/></p>
+<p>Les montagnes du fond, encore couvertes de neige, paraissaient énormes
+et dessinaient leurs belles arêtes sur un ciel lumineux et vibrant comme
+le ciel d'Orient. C'était magique, féerique, tout ce que vous voudrez,
+et ces distractions artistiques ont bien pu me faire manquer quelques
+bêtes.</p>
+<p>Qu'importe ?. Cette journée restera dans mes souvenirs de voyage comme
+une des plus belles et des plus remplies d'impressions profondes.</p>
+<p><pb/></p>
+<p>sion. J'avoue qu'en présence de ce plafond, la merveille des merveilles,
+je n'ai pu regarder le Jugement dernier.</p>
+<p>Et pourtant j'en comprends bien, je crois, toute la grandeur, toute la
+beauté écrasante pour l'ensemble de l'art. Rien évidemment ne pourrait
+supporter un parallèle avec lui : c'est un colosse qui écrase tout ce
+qui l'approche.</p>
+<p>A Florence,il aperçoit le Persée de Benvenuto Cellini,c'est un cri
+d'admiration.</p>
+<p>Le manque de proportions, le rapport faux entre la longueur du tronc et
+la longueur des membres, la vulgarité des</p>
+<p><pb/></p>
+<p>L'heure n'était pas venue pour lui de savourer, au point d'en souffrir,
+le charme victorieux, l'émotion intérieure de ces œuvres grandioses et
+exquises. » Dans les deux cas c'est cependant aller un peu loin et
+affirmer un peu trop. Il</p>
+<p>(i) Paul Mantz.</p>
+<p><pb/></p>
+<p>Ce n'est ni devant Raphaël ni même devant Michel-Ange qu'il éprouva
+l'impression artistique qui agit le plus profondément sur lui. C'est
+dans un atelier moderne qui se trouvait entre le Tibre et le Corso, sur
+la place du Monte d'Oro, entre un jardin planté' de myrtes et de chênes
+verts et une cour où était toujours dressée une tente persane aux riches
+cou-</p>
+<p>(i) Il (Regnault) n'aime pas beaucoup Raphaël. Ingres, lui, descendait
+en pleurant l'escalier du Vatican, en disant: « Il est toujours plus
+grand.. (Timbal, Le Français, 23 mars 1872.)</p>
+<p><pb/></p>
+<p>Le portrait avait été commencé pendant un séjour de quelques mois à
+Paris au moment de l'Exposition Universelle</p>
+<p><pb/></p>
+<p>Je te dirai qu'au déballage (le déballage est funeste) il m'a
+profondément désillusionné. Je ne croyois pas qu'il me dégoûterait autant.</p>
+<p>J'ai commencé par glacer le fond, puis j'ai fait la robe et j'ai ainsi
+repris un peu d'espoir. J'ai repeint le chien en entier et cette fois,
+il est bien, je crois ; sa tête qui était mal dessinée et mal peinte est
+réussie maintenant, la robe aussi s'est engraissée comme peinture et a
+perdu cet aspect de carton qui me désolait. Mais alors c'était le fond
+qui n'allait plus ; il était d'un ton monotone qui me soulevait le cœur.
+J'ai pris un parti de brave et l'ai préparé en grisaille parce que
+jamais je n'aurais pu sortir des glacis accumulés.</p>
+<p>Sur une bonne préparation, variée de ton, plus chaude en certains
+endroits, plus argentée dans d'autres, je vais obtenir, par glacis, des
+rouges harmonieux et variés.</p>
+<p>Tu rirais bien si je te disais, ce qui est vrai, que tu ne reverras pas
+la chaise que tu connaissais. Je la remplace par un fauteuil Louis XV,
+couvert (dans la nature) d'une étoffe charmante qui fait valoir tout ce
+qui l'entoure. Sur ce fauteuil, je jette une fourrure en léopard sur
+laquelle se détache la partie inférieure du chien, puis je transforme le
+motif de la draperie du fond.</p>
+<p><pb/></p>
+<p>J'ai travaillé, tous ces jours-ci, au portrait de madame D. Le chien que
+j'ai repeint en entier est devenu bien. La robe me semble assez grasse
+depuis qu'elle est retravaillée. Le fond a été complètement remanié
+comme arrangement et repréparé d'une façon qui me donne bon espoir.</p>
+<p>Quand je reçus ta lettre, je venais de changer la peau de léopard et de
+la remplacer par une sortie de J bal, doublée d'une fourrure grise assez
+heureuse comme ton. Te voyant blâmer ma peau de léopard, j'avais par
+esprit de contradiction presque envie de la remettre. Cependant la
+fourrure grise fait bien mieux.</p>
+<p>Un seul, garçon très-franc et très-artiste, n'est content que de la robe
+et du chien, et me fait sur le reste des observations que je me fais à
+moimême. J'en conclus qu'il a raison puisqu'il pense comme moi. Mais je
+souhaite que le public ne soit pas de notre avis et qu'il trouve le
+portrait très-bien.</p>
+<p>Du reste, j'ai fait ce que j'ai pu ; j'ai remanié tout ce qui me
+déplaisait et tout a monté d'un degré. Malheureusement cela ne suffit
+pas. Si j'avais du temps devant moi, que de choses j'ébaucherais de
+nouveau pour tâcher de les amener au point où je voudrais les voir !.</p>
+<p><pb/></p>
+<p>Et au moment même de l'envoi, Regnault ne peut se sépade son portrait
+qui lui semble imparfait et auquel il voudrait travailler encore.</p>
+<p><pb/></p>
+<p>son caractère. Il avait comme Géricault l'amour des chevaux.</p>
+<p><pb/></p>
+<p>II</p>
+<p><pb/></p>
+<p>minée d'usine, les modes européennes n'ont guère pénétré en Espagne.</p>
+<p><pb/></p>
+<p>Ici donc la terre et les hommes se trouvaient en rapport avec le goût du
+tourmenté et du terrible qu'il portait en lui.</p>
+<p>Il se sentait dans son élément et dès les premières lettres le ton de sa
+correspondance change : c'est plus vif, plus gai, plus rempli d'entrain
+et de vie. Il est loin de l'Italie et heureux de l'avoir quittée. Elle
+lui semble banale, terne et fade.</p>
+<p>L'art espagnol ne lui plut pas moins. Il y trouvait les qualités d'éclat
+et de réalité qui le séduisaient avant tout et que ne pouvait lui offrir
+l'art antique fait de forme idéale.</p>
+<p>Sans doute, la Renaissance espagnole n'a pas la clarté élé-</p>
+<p><pb/></p>
+<p>gante de la Renaissance française, ni la grâce nerveuse de la
+Renaissance italienne ; mais elle a une grandeur pompeuse et une
+magnificence un peu théâtrale qui lui donnent sa marque.</p>
+<p>Pas de lignes simples, mais une végétation exubérante de détails, un
+fini de travail, un éclat sombre, une richesse de matériaux, une
+profusion de dorures tels que pour désigner son style on a dû emprunter
+un. mot au vocabulaire de l'orfèvrerie. Regnault aima cet art riche et
+sombre, il trouva dans les cathédrales des mines d'études et nous donne
+dans sa correspondance une idée exacte de la Renaissance espagnole.</p>
+<p><pb/></p>
+<p>Berrugueto et Philippe de Bourgogne se sont partagé les sculptures.</p>
+<p>Le retable est de Philippe ou de Jean de Bourgogne, et jouit d'une
+grande réputation; mais je ne le goûte pas outre mesure.</p>
+<p>Ce sont surtout les arts plastiques qui lui réservaient les meilleures
+heures, heures de surprise et d'admiration, heures critiques, fécondes
+et mémorables qui marquent dans la vie d'un artiste la route choisie et
+les horizons aperçus et vers les-</p>
+<p><pb/></p>
+<p>quelles les heures de succès et de gloire se retournent plus tard
+reconnaissantes et respectueuses.</p>
+<p><pb/></p>
+<p>conviction dans la souffrance que dans la joie. Qu'on se figure Regnault
+transporté devant cet art, lui ayant le goût du dramatique,
+l'indifférence de la tradition et l'avidité du vrai.</p>
+<p>Les maîtres espagnols vous admettent davantage dans leur intimité ; ils
+vous font voir les choses avec plus de bonhomie, plus de simplicité.</p>
+<p>Mais celui d'entre tous qui le frappe le plus est Vélasquez. Pour lui,
+c'est le maître des maîtres, l'enchanteur tout puissant, le peintre des
+peintres. Il semble pourtant au premier abord que Vélasquez ait dû lui
+plaire moins_que Rubens, Véronèse ou le Titien. Il était épris de
+richesse, d'abondance et d'éclat dans le coloris, et Vélasquez, qui est
+peut-être le premier des coloristes, n'a rien de tout cela. Les couleurs
+qui sont rangées sur sa palette ne sont ni brillantes, ni nombreuses.
+Sur ses fonds de tons neutres comme du blanc, du brun, du bleu, du jaune
+pâle, toutes les variétés du</p>
+<p><pb/></p>
+<p>gris, il jette quelques touches un peu plus vives et cependant
+tranquilles encore : une plume d'un violet passé, un ruban d'un bleu
+pâle ou d'un vert foncé, une écharpe d'un rose effacé, une frange d'or,
+mais d'or assombri et éteint. Il n'a pas le fracas de couleur de
+certains coloristes. Ce n'est pas la fanfare éclatante qu'on trouve chez
+eux, c'est une harmonie exquise et simple sur laquelle courent quelques
+notes claires, discrètes et délicieuses. Mais aussi quelle vérité !</p>
+<p>quelle sincérité ! Quel reflet facile et parfait de ce qu'il voit !</p>
+<p>Ce n'est plus de l'admiration, c'est de l'enivrement; il se mettrait à
+genoux devant ses toiles, il en baiserait les cadres.</p>
+<p>Il est intarissable d'éloges.</p>
+<p>Quand il parle de lui, c'est.</p>
+<p>(i) voir un article de M. Beulé sur Vélasquez dans ses Causeries sur l'Art.</p>
+<p><pb/></p>
+<p>Mais c'est peu que de copier cette toile, de la grandeur de l'original,
+c'est-à-dire de 11 pieds sur 13, il ne peut se séparer de son cher
+Vélasquez, il voudrait le copier tout entier, il en est insatiable.</p>
+<p><pb/></p>
+<p>Et dans une autre lettre il ajoute encore : Pour moi, Velasquez est le
+Molière de la peinture ; son style est facile, sans négligence, fort
+sans emphase, sa langue pure sans prétention. Ah !</p>
+<p>Velasquez Velasquez</p>
+<p>C'est une de ces œuvres, la célèbre statue de saint François d'Assise
+par Alonso Cano, qui excita la plus grande admiration que Regnault ait
+ressentie pour la sculpture espagnole. C'est dans le trésor de la
+cathédrale de Tolède, près de la Custodia en argent doré, haute de cinq
+mètres, ruisselante de brillants et d'émaux, près des statues en argent
+massif des quatre parties du monde, près :de la fameuse vierge du
+sanctuaire</p>
+<p><pb/></p>
+<p>Chapeau bas ! Le chef-d'œuvre des chefs-d'œuvre est un saint François
+d'Assise (je crois), mal placé dans une vitrine du Trésor. C'est une
+statue en bois de Alonzo Cano. Le saint demi-nature, a les deux mains
+passées sous les parements de ses manches, la tête couverte de</p>
+<p><pb/></p>
+<p>Puis, pour la statue de saint François, par Alonzo Cano, il faudrait
+élever une chapelle tout entière. C'est la merveille des merveilles ;
+cela vous arrache les larmes des yeux !</p>
+<p>plique pas, je l'avoue, que dans l'exclusion aient été compris
+l'empereur du Brésil, madame la marquise de Bouillé notre
+ex-ambassadrice et beaucoup de notabilités, qui certes n'avaient
+nullement l'intention de remplir leurs poches des merveilles enfouies
+dans les caveaux de la cathédrale.</p>
+<p>(A. Humbert. Promenades et Impressions en Espagne.)</p>
+<p><pb/></p>
+<p>Le Prado était délicieux sous ce beau soleil, et tout rempli de femmes
+ravissantes. On aurait dit qu'une fée de bon goût avait choisi sur toute
+la terre les plus jolis minois pour les réunir au Prado. Les masques
+n'en paraissaient que plus grotesques et plus fantastiques.</p>
+<p>Devant et derrière cette ravissante pépinière circulent les hommes.</p>
+<p>Beaucoup, masqués, intriguent les femmes, et, avec cette petite voix de
+fausset qui est de rigueur quand on a un masque sur la figure, ils
+déclinent imperturbablement le verbe connaître : « Je te connais, tu me</p>
+<p><pb/></p>
+<p>connais, tu ne me connais pas, tu ne me connaîtras pas, je t'ai connue,
+je voudrais bien te connaître ! »</p>
+<p>Je suis de la famille et le nom du sehor don Enrique (c'est moi) est
+dans la bouche de toute la bohème. Ils me témoignent une grande amitié,
+me font des vœux de santé et de salut toutes les fois qu'ils me voient :
+ils parlent comme des grands prêtres avec une certaine emphase et des
+gestes très-nobles et majestueux. Ils me répètent souvent : « Senor don
+Eurique vaya usted con Dio y con salud. Allez avec Dieu et le salut..</p>
+<p>Ou encore : c Vaya usted con la Virgcn santisima. Allez avec la
+trèssainte Vierge. Que Dieu écarte tout danger de votre chemin, que le
+ciel tombe sur nos têtes s'il vous arrive malheur. comme vous êtes un
+personnage de mucho rnerito, de beaucoup de mérite, que Dieu ne vous</p>
+<p><pb/></p>
+<p>Ne croirait-on pas voir un arrière-neveu de Don Quichotte qui était lui
+aussi « maigre de corps, sec de visage et fort matineux » ; un
+petit-fils de cette nièce qui n'atteignait pas les vingt ans et vivait
+près de lui en compagnie de cette gouvernante qui dépassait les quarante.</p>
+<p>Et ceci n'est-ce pas une riche et chaude aquarelle, comme</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>il y a de quoi regretter. Je me suis laissé vivre trop longtemps avec
+insouciance, et cela ne se passera plus comme ça, caramba ! !</p>
+<p>Si jeunesse savait !. Je suis bien vieilli, va, au moral, s'entend. Au
+physique aussi un peu, peut-être. Pero n'importa !</p>
+<p>Pendant ces quelques mois, ses travaux se succèdent avec une incroyable
+rapidité. Dans le catalogue de son œuvre, on ne compte pas pour cette
+époque moins de 18 dessins, de 13 aquarelles et 16 peintures parmi
+lesquelles le charmant portrait de madame de B*** en robe rose et en
+mantille de dentelle noire sur un fond de vieille tapisserie, dans
+lequel on sent l'inspiration de Goya, l'énorme copie des Lances de
+Velasquez et le grand portrait du général Prim.</p>
+<p>Ce dernier tableau était réellement une œuvre de maître.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>blent passer, comme des spectres, devant ce regard. On dirait un
+pressentiment. Non ! si Juan Prim avait pu prévoir la fin qui
+l'attendait, si, dans un de ces nuages, il avait pu se voir dans sa
+calèche avec les canons de tromblons braqués sur lui, il n'aurait pas eu
+une expression différente. Etrange et funeste tableau où Regnault a mis
+le tragique qu'il portait en lui. Avant deux années écoulées, ce général
+plein de gloire et ce jeune homme plein d'espérance, l'artiste et le
+modèle devaient périr d'une mort violente. Je ne m'y arrête jamais sans
+un frisson.</p>
+<p>(i) Paul Mantz. Gazette des Beaux-Arts, 1872.</p>
+<p><pb/></p>
+<p>Ce tableau qui éclatait comme une étoffe orientale au milieu des toiles
+monotones de ses camarades, a pu faire douter que Regnault fût apte à
+composer une véritable scène. C'est en effet une peinture mal équilibrée.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>(1) Grenade efface en tout ses rivales: Grenade Chante plus mollement la
+molle sérénade : Elle peint ses maisons de plus riches couleurs.</p>
+<p>(v Hugo - les Orientales.)</p>
+<p><pb/></p>
+<p>quand il se fut enivré de cette splendeur et de cette lumière, il poussa
+en l'honneur de ce palais « que les génies ont doré comme un rêve » le
+plus éloquent cri d'admiration qu'il ait inspiré.</p>
+<p>Nous ne quittons pas l'Alhambra.</p>
+<p>A son ami Butin, le peintre de matelots : Ah ! mon ami, si tu avais vu
+l'Alhambra ! Depuis que je l'ai vue, cette féerie, ce rêve, ce., je ne
+peux plus que soupirer. Rien n'est beau, rien n'est délirant, rien n'est
+enivrant comme cela. Nous avions traversé de bien beaux pays pour venir
+ici. Mais toutes nos émotions précédentes, tous nos anciens
+enthousiasmes, tout a été effacé par cette Alhambra ! Au nom du Père, du
+Fils et du Saint-Esprit. Ainsi soit-il. Ah ! Mahomet, toi seul es grand,
+toi seul es Dieu, qui as inspiré une œuvre comme celle-là.</p>
+<p><pb/></p>
+<p>taient complètement inconnus, et me paralysaient la tête et la main
+gauche !</p>
+<p>A la duchesse Colonna : Si vous saviez les merveilles dont nous
+jouissons ici, éloignés du monde, du tapage des villes, des distractions
+de toute sorte, même des courses de taureaux, que nous ne regrettons pas
+au milieu du rêve enchanté qui nous berce dans l'Alhambra !</p>
+<p>Comment partir d'ici ? Il y a dans les salles, des plafonds formés de
+stalactites qui, réunies et superposées, s'élèvent en forme de coupole
+et dessinent des étoiles, des figures géométriques qui s'entre-croisent,
+et dont l'effet moral ou physique est une sorte de vertige en hauteur,
+qui vous aspire et qui vous pompe et peu s'en faut qu'on ne se sente
+enlever de terre.</p>
+<p>- Allah ! tu es mon Dieu ! et toi, Mahomet, sois béni, qui as inspiré de
+si incomparables merveilles. Je t'aime, parce que tu es le père de ma
+chère et adorée Alhambra. !</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>la Méditerranée et les vagues vertes de l'Atlantique se rencontrent, est
+la terre étrange et ardente où il désirait aller.</p>
+<p>La tentation était trop forte, et j'imagine qu'au moment où il aperçut
+briller Tanger au milieu de l'amphithéâtre d'un violet foncé dont
+l'entourent les montagnes, une voix cria en lui a l'Afrique ! l'Afrique!
+»Il s'embarque. Le navire approche, et on distingue la plage aride, la
+ceinture brune de vieilles murailles crénelées avec leurs tours rondes
+et carrées et leur drapeau rouge, les maisons éclatantes de blancheur
+escaladant pêle-mêle les flancs de la colline et au haut la mosquée et
+son minaret recouvert de briques vertes et vernies qui reluit au soleil.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>C'est ici que passent sur les pourpres du couchant les caravanes qui
+rapportent de Tombouctou l'ivoire, l'or en poudre et les plumes
+d'autruche, et sur les blancheurs du matin celles qui y emportent de la
+poudre, des armes et des tissus. C'est ici le seuil du pays mystérieux
+et fauve, que brûle un éternel soleil, que dévore une éternelle soif, le
+pays étrange du sable et du feu. Et pour Regnault c'est une première
+étape, d'où il partira pour Tunis, puis l'Égypte, puis l'Inde.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>tiques d'alors il ne subsiste guère que celle qui a été faite par M.
+Paul de Saint-Victor, c'est que les chairs diaphanes et nacrées de la
+Salomé ne sont pas celles de son type barbaresque, ni des cheveux noirs
+entassés sur son front étroit, et qu'on dirait une gitana déguisée sous
+une peau d'anglaise.</p>
+<p>Nous pouvons essayer de la juger. Nous savons de lui tout ce qu'il nous
+est donné d'en savoir.</p>
+<p><pb/></p>
+<p>III</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>On a dit que Regnault était le peintre de la lumière et je suppose que
+c'est la Salomé, l'Exécution et ses tableaux marocains qui ont fait dire
+cela. C'est exagérer beaucoup.</p>
+<p><pb/></p>
+<p>couleurs. Il y a davantage. Cette lumière qui pénètre partout, qui se
+fond dans les ombres ou dans les lointains, si insaisissable qu'on ne
+sait pas où elle expire, donne aux tableaux l'attrait des choses qu'on
+ne voit pas finir et qu'on n'atteint jamais. Derrière les objets
+vivement arrêtés du devant, elle met la part de mystère que recèle tout
+spectacle ; et dans la pensée du spectateur, la part de vague et
+d'obscur par laquelle toute idée, si claire qu'elle soit, se rattache à
+l'inconnu. Elle est la force et aussi la caresse de la peinture ; car si
+elle fournit aux premiers plans la netteté de ce qui s'avance, elle
+communique aux derniers le charme de ce qui se cache, s'enveloppe, se
+voile, se refuse, je ne sais quoi de discret et de vaporeux qui est
+comme la pudeur et la grâce des choses.</p>
+<p>qu'aux recoins des caves, il y a des degrés innombrables de valeurs.
+Regnault n'en a connu qu'un: le pleinmidi. Il a peint l'intensité et non
+la variété du jour. Il n'a pas connu les modulations infinies et
+charmantes de la lumière, il n'a donné qu'une note élevée, éclatante,
+aiguë, mais toujours la même.</p>
+<p><pb/></p>
+<p>Je vous remercie de vos bonnes lettres et des impressions que vous
+m'envoyez sur ma peinture. J'ai plus de confiance dans votre jugement
+que dans celui de n'importe qui, et si vous me dites que ma peinture
+creuse, c'est que c'est vrai. Je vous avoue que je ne le vois pas, et
+cela m'afflige. Ma parole d'honneur, chez moi, les chairs de la Salomé
+ne creusaient pas.</p>
+<p>Dites-le moi bien franchement.</p>
+<p>C'est bien plutôt un coloriste: ce qui le frappe dans ce qu'il voit, ce
+sont les couleurs des choses dans leurs accords et leurs contrastes.
+Mais ici encore, il faut préciser : il est ce qu'on appellerait
+volontiers un coloriste indifférent. Certains peintres se servent de la
+couleur comme d'un moyen d'expression, ils intéressent leur coloris à
+leur sujet. Si la scène qu'ils représentent est terrible, il y a dans la
+teinte même des lieux où elle se passe quelque chose de dramatique et de
+lugubre ; si elle est gaie, les objets même prennent je ne sais quel
+clair aspect de fête. Stendhal observe que le même</p>
+<p><pb/></p>
+<p>Regnault n'était pas de ces artistes pour qui l'aspect des objets change
+selon les états de l'âme, qui teignent tout de leur propre émotion et
+pour lesquels le ciel le plus pur se couvre d'un voile quand ils sont
+attristés. Il était frappé de l'aspect plus que du sens des choses ; il
+les copiait sans les )</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>L'opposition forte du noir et du jaune, qui éclate au milieu du tableau
+entre la chevelure et la couleur du fond, est reproduite d'une façon
+rompue dans la peau de tigre qui</p>
+<p><pb/></p>
+<p>se trouve sous les pieds de la danseuse, et le jaune qui est la couleur
+dominante du tableau est avivé par des notes éparses de sa
+complémentaire le violet.</p>
+<p>Cependant il est possible de pressentir que Regnault se serait bien vite
+dégagé de ces effets un peu criards pour rentrer dans la grande loi de
+l'harmonie qui est celle de l'art lui-même. Il y a dans ce merveilleux
+petit tableau laissé inachevé « la Sortie du pacha de Tanger, » un
+groupe plein de promesses. C'est le pacha en burnous blanc sur un cheval
+blanc harnaché de rose et derrière lui un chef arabe dans un burnous
+bleu pâle sur un cheval gris. C'est un véritable bijou de couleurs
+fines, délicieusement réunies, on ne peut rien rêver de plus charmant et
+de plus simple. On y sent comme le germe d'une nouvelle manière.</p>
+<p>Ces exercices de couleur avaient, en effet, dû rassurer Regnault et lui
+montrer qu'il possédait désormais toute la pratique de son art depuis
+les plus frappantes audaces jusqu'aux plus insaisissables délicatesses.
+Pour le maniement de la couleur c'était désormais un maître. Il peint à
+la façon des grands, avec ces belles coulées de pâte, hardies et larges;
+on sent, en la regardant de près, que cette couleur est solide.</p>
+<p>Mais il y a au-dessus de la science et de l'habileté de l'artiste qui
+n'est que la grammaire de la peinture et avec laquelle on ne ferait que
+des morceaux et des études; il y a au-dessus même de la composition qui
+n'en est que la rhétorique et avec laquelle on n'aurait que des œuvres
+correctes; il y a un accent qui en est l'éloquence qui pénètre tout et
+l'anime. C'est quelque chose de personnel et d'intime, une façon
+particulière de saisir un aspect des choses, une conception générale,
+une émotion habituelle et dominante que certains hommes emportent avec
+eux, cette joie ou cette mélancolie qui est en eux et qu'ils trouvent
+partout, cette goutte de</p>
+<p><pb/></p>
+<p>Trouvons-nous dans les œuvres de Regnault trace de cette conception
+supérieure, personnelle et vivifiante ? En discernons-nous le germe dans
+ses lettres ? Quel est le sentiment dont il imprégnera ses toiles? Nous
+ne pouvons le prévoir: il peint avec indifférence, d'une façon tout
+extérieure; on dirait qu'il se garde de l'intervention de l'artiste dans
+son œuvre et qu'il travaille d'une main impassible. S'il veut inspirer
+quelque chose, c'est l'horreur, mais sans la ressentir et par des moyens
+purement physiques. Il n'en reproduit que l'appareil-et non l'émotion.
+Son idéal est l'étrange et l'horrible. De même que son coloris se résume
+en un choc brutal de couleurs franches entouré de délicatesses inouies
+de nuances, de même sa composition se résume dans le contraste du</p>
+<p><pb/></p>
+<p>Il y a dans la correspondance de Regnault une lettre de beaucoup
+d'intérêt parce qu'elle marque le dernier point où la conception
+artistique soit parvenue en lui. C'est celle où il fait rapidement
+l'esquisse d'un grand tableau qu'il avait projeté.</p>
+<p>Les deux immenses portes bleu et or de la Salle des ambassadeurs
+viennent de s'ouvrir sur une galerie dont les gradins sont baignés par
+un fleuve ou un lac, sur les bords duquel est bâti mon palais ; — je
+détourne la critique en ne faisant ni l'Alhambra, ni l'Alcazar de
+Séville ; mais un palais qui n'est pas entouré d'eau n'est pas un palais
+pour moi.</p>
+<p>Le roi maure paraît entre ces deux immenses battants de porte, armé.</p>
+<p>et recouvert de ses plus fins tissus, sur un cheval richement
+caparaçonné ; il est impassible, et regarde on ne sait où, comme le
+sphinx d'Egypte ou une idole indienne, comme un élu enfin, un descendant
+du prophète,</p>
+<p><pb/></p>
+<p>Il faut enfin que ce soit une oeuvre ; puis je pourrai reprendre mon sac
+et aller adorer Brahma et Siva ! Mais avant il faut que j'aie créé une
+chose importante.</p>
+<p><pb/></p>
+<p>Après avoir étudié ce qu'est Regnault, nous voudrions essayer de
+conjecturer ce qu'il serait devenu. C'est toujours une entreprise
+difficile et incertaine que de prédire ce qu'un homme aurait fait et où
+il serait arrivé. Mais il n'est pas impossible de calculer, avec quelque
+probabilité, la trajectoire d'un esprit, en tenant compte des forces qui
+l'entraînent et de celles qui peuvent lui faire obstacle. Dans ce combat
+entre les vents propices et contraires, que serait-il advenu de ce jeune
+talent ? Quels étaient les dangers où le poussaient son époque et son
+tempérament, quelles étaient les influences extérieures et les énergies
+personnelles qui l'en auraient sauvegardé ?</p>
+<p><pb/></p>
+<p>Flaubert. Ils ont le tempérament le moins artiste qu'il soit possible de
+trouver. L'ont-ils eu et leur système l'a-t-il tué? Peut-être. Mais tels
+qu'ils se sont faits, ce sont des gens de beaucoup de volonté, de
+beaucoup de travail et de beaucoup de savoir. Ce sont des ouvriers lents
+et patients, des érudits, des curieux, presque des bibliothécaires.
+Aucun entraînement, aucune verve, nulle émotion, nulle chaleur, rien de
+ce qu'on se représente cÙriela fièvre de la production.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>(1) Voir le remarquable chapitre d'ethnographie artistique qui termine
+le livre de J. Fergusson, History of Architecture.</p>
+<p>(2) Voir le grand ouvrage d'Owen Jones sur l Alhambra.</p>
+<p><pb/></p>
+<p>Mais, en face de cela, que de promesses, que de gages d'un développement
+solide et sérieux ! Dans cette lutte entre les mauvaises et les
+bonnes.inlfuences, combien celles-ci étaient plus puissantes et qu'il
+est invraisemblable qu'elles eussent pu être vaincues ! N'était-il pas
+de ces natures fortement ailées qui, comme les abeilles, crèvent les
+toiles d'araignées où se prennent tant d'autres et n'emportent de
+l'obstacle traversé qu'un coup d'aile plus serré et un élan plus ardent ?</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>L'exercice, l'aspiration vers le plus délicat, qui est la loi et la
+récompense de toute affection non égoïste, la perfectionnent, la
+fortifient, l'affinent et finissent par en faire ce pénétrant moyen de
+divination et le plus puissant instrument de création qui existe. Chez
+Regnault, l'activité et la bonne humeur de l'homme pouvaient venir au
+secours de l'artiste, et l'expérience de la vie briser et dépasser les
+théories de l'école.</p>
+<p>Mais les temps aussi allaient changer et le réveil allait venir.</p>
+<p>L'empire n'aurait duré pour Regnault que le temps d'acquérir dans leur
+perfection les qualités matérielles, les seules que ce régime
+sensualiste ait pu donner. Les douleurs publiques, en révolutionnant
+l'homme, auraient transformé l'artiste et l'auraient laissé avec la
+gravité de ceux qui ont souffert et l'élévation de ceux qui ont besoin
+d'être consolés. L'affliction est souvent un bienfait: pour avoir toute
+leur beauté, les esprits, comme les cimes, ont besoin d'être couronnés
+de la neige du malheur, pour employer l'énergique expression d'Eschyle.</p>
+<p>Et si maintenant, après l'orage qui a ravagé le pays et purifié
+l'atmosphère, qui nous a laissés avec des champs ruinés et un air plus
+serein , deux conditions de travail, si maintenant il avait été parmi
+nous, il aurait connu ce que c'est</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>IV</p>
+<p>Homère, Odyssée, XIX, 562-67.</p>
+<p><pb/></p>
+<p>publics. Il n'y songea même pas, et il se serait indigné si un autre lui
+avait suggéré cette pensée qu'il étaitincapable d'avoir.</p>
+<p>(1) Paul de Saint-Victor.</p>
+<p><pb/></p>
+<p>Il est inutile de parler de ces longs mois de siège et de ces
+alternatives d'espérance et de désespoir qui durent traverser avec des
+ébranlements douloureux l'âme de Regnault. Qui a perdu le souvenir de
+ces semaines sans fin, de ces nuits sans lumière où de temps en temps
+éclatait le tonnerre lointain des forts, de ces files de femmes et
+d'enfants attendant dans l'aube glacée le morceau de pain, de cet
+héroïsme de toute une population ; de ces jours où l'on était heureux et
+confiant, où la prise de Coulmiers, la défense de Châteaudun, éclataient
+gaiement comme un clairon ; de ces jours sombres et désolés où l'on
+apprenait la reddition de Strasbourg, la capitulation de Metz, les
+désastres de tout genre ; de ces jours anxieux et mornes, où l'on eut
+payé des nouvelles au prix du sang, où les cœurs inquiets se demandaient
+ce qu'étaient devenus les absents (i), et où les yeux fatigués se levaient</p>
+<p>Du Mesnil. Paris et les Allemands. Journal d'un témoin.)</p>
+<p><pb/></p>
+<p>au ciel pour voir si, sous ces nuages d'hiver, n'apparaissait pas l'aile
+blanche d'un pigeon.</p>
+<p>Je n'ai pas la prétention de le valoir, ni d'être doué d'une parole
+assez entraînante pour convertir en bons les mauvais. Seulement je suis
+plus jeune, j'ai meilleure santé, autant de courage, autant de
+patriotisme que lui, et le respect de la discipline.</p>
+<p>Vous avez en moi un bon soldat ; ne le perdez pas pour en faire un
+officier médiocre.</p>
+<p>Les jours se succédèrent, amenant déceptions sur décep-</p>
+<p><pb/></p>
+<p>tions et laissant entrevoir plus clairement le terme obligé de cette
+fatale guerre. Ce fut le plus dur moment pour le cœur français de
+Regnault, et c'est dans une de ces heures désolées qu'il nota les lignes
+suivantes retrouvées dans ses papiers.</p>
+<p>Ce que les deux peuvent produire ensemble, nous le leur devons.</p>
+<p>Toutes nos forces doivent concourir au bien de la grande famille, en
+pratiquant nous-mêmes, et en développant chez les autres, les sentiments
+d'honneur et l'amour du travail.</p>
+<p>Pendant le siège un mariage que ses vœux appelaient depuis longtemps
+avait été décidé. Quand il rentrait des avantpostes d'Asnières ou de
+Colombes, après les factions de nuit et les aubes glaciales, il venait
+reprendre au foyer de sa nouvelle famille un peu de chaleur, d'affection
+et de courage. A travers le récit de ses amis, on devine ce qu'étaient
+ces soirées. On était triste d'abord et de temps en temps un obus qui
+éclatait dans le voisinage faisait cesser la conversation et tressaillir
+les vitres. Puis on reprenait, on causait d'art et d'avenir. Un rêve, un
+espoir, un éclat de rire, timides d'abord, se montraient, se risquaient
+davantage, prenaient vol et faisaient scintiller leurs plumes d'oiseaux
+du paradis. Car c'est du ciel vraiment qu'ils viennent, pour apporter un
+peu de gaieté aux hommes, quand les rossignols et les hirondelles sont
+partis, que les sansonnets tombent gelés dans leurs buissons, et qu'on
+ne voit que corbeaux et vautours traçant leurs cercles noirs sur un ciel
+menaçant. C'est alors qu'ils battent au-</p>
+<p><pb/></p>
+<p>tour des lampes de leurs ailes étincelanteset emportent les esprits avec
+eux loin de la réalité et du présent. Que de fois les oiseaux bleus
+chantèrent ! Ils parlaient des pays lointains, de voyages futurs, de
+Tanger, de l'Egypte, de l'Inde, de tableaux projetés et des jours où
+l'on serait heureux, si bien qu'on n'entendait plus les obus éclater et
+les vitres tressaillir.</p>
+<p>Il était depuis quelques jours dans cette famille, quand, le mardi 17
+janvier, l'ordre lui fut donné de repartir aux avantpostes. On préparait
+une dernière tentative, un dernier effort pour briser ce cercle de
+redoutes et de batteries qui entouraient la ville. Il le fallait. On
+n'avait plus de quoi manger.</p>
+<p>(1) Pour tout ce qui regarde les derniers jours de Regnault, nous en
+avons emprunté les détails aux récits émus de MM. Cazalis, Baillière et
+Duparc.</p>
+<p><pb/></p>
+<p>Vous les connaissez ces adieux où l'on se quitte sans savoir si l'on se
+reverra, où chacun essaye de dissimuler sa pensée, où l'on feint la
+gaîté pour voiler la tristesse, et où les sourires cachent mal les larmes.</p>
+<p>Au-dessous il avait mis l'adresse de la maison où il se trouvait. Il
+emportait quelques lettres et des portraits enfermés dans une enveloppe
+sur laquelle il avait écrit Für meine Braut, pour ma fiancée, et un
+petit manchon qu'on lui avait fait accepter pour réchauffer ses doigts
+engourdis par le froid. Ces lettres et ces portraits n'ont pas été
+retrouvés.</p>
+<p>Le combat n'eut lieu que le jeudi, 19 janvier. Il fut annoncé par cette
+proclamation qu'on trouva affichée le matin :</p>
+<p>Citoyens, L'ennemi tue nos femmes et nos enfants, il nous bombarde nuit
+et jour, il couvre d'obus nos hôpitaux. Un cri : Aux armes ! il est
+sorti de toutes les poitrines.</p>
+<p>Souffrir et mourir, s'il le faut, mais vaincre !</p>
+<p>Hélas ! on sut mourir, mais on ne put vaincre.</p>
+<p>La sortie qu'on allait tenter cette fois avait pour objectif Versailles.
+Pour y arriver, il faut gravir les collines qui longent la Seine, et au
+pied desquelles se trouve Saint-Cloud.</p>
+<p>Ces collines sont couvertes de riches maisons dont les parcs sont
+entourés de murs que les Prussiens avaient crénelés et</p>
+<p><pb/></p>
+<p>dont ils avaient fait de formidables défenses. C'étaient ces pentes
+qu'il fallait gravir sous le feu de l'ennemi, ces redoutes qu'il fallait
+enlever, ces murs qu'il fallait franchir.</p>
+<p>L'armée de 100,000 hommes qui devait donner était composée de troupes de
+ligne, de gardes mobiles et de régiments de marche de la garde
+nationale. Elle était divisée en trois colonnes. La gauche sous le
+général Vinoy devait enlever la redoute de Montretout, les maisons de
+Béarn, Pozzo di Borgo, Armengaud et Zimmermam. Le centre, sous le
+général de Bellemare, avait pour objectif le plateau de la Bergerie, et
+devait attaquer de front le mur de Buzenval. La droite, commandée par le
+général Ducrot, devait opérer sur la partie ouest du parc de Buzenval,
+et se porter sur Longboyau et les haras de Lupin. — La compagnie de
+Regnault faisait partie du centre.</p>
+<p><pb/></p>
+<p>attendaient leur charge de chair sanglante. On savait que la journée
+serait terrible : c'était la dernière. Quel frisson dut parcourir ces
+cœurs purifiés et agrandis par cinq mois de souffrances ! de quelle
+étreinte fiévreuse les mains durent serrer les fusils, au moment
+solennel où l'on vit le ciel blanchir du côté de l'est ! Nous savons où
+allèrent les adieux de Regnault ; nous pouvons nous imaginer que toute
+sa vie passée apparut devant ses yeux comme un paysage éclairé par un
+éclair, avec cette lucidité effrayante que prend la pensée dans un
+danger suprême. Un moment après, les premiers flocons de fumée montaient
+dans l'air et les premiers coups de feu éclataient.</p>
+<p><pb/></p>
+<p>sur nos soldats fatigués par une nuit passée en longs préparatifs et par
+une lutte qui durait depuis le matin.</p>
+<p><pb/></p>
+<p>cachaient les Prussiens ; qu'on l'avait rappelé, qu'il avait crié :« Je
+tire mon dernier coup de fusil et je reviens. » Il pensait bien qu'un
+moment après c'était lui qu'il avait vu tomber. Un espoir restait
+encore: peut-être n'était-il que blessé.</p>
+<p>Au-dessous se trouvait l'adresse de la maison qu'il avait quittée pour
+retourner au combat. L'ambulancier prit ce qu'il trouva sur le corps et
+continua ses recherches. Il pensait revenir près du pauvre cadavre, mais
+l'armistice expirait et il lui fallut abandonner le champ de bataille.
+Vers six heures, il vint trouver M. Bida et le prévenir que tout espoir
+était illusoire et que Henri Regnault n'était ni blessé ni prisonnier.
+Il lui remit ce qu'il avait trouvé sur le corps : une petite chaînette
+qui portait une médaille et une larme d'argent. Cette larme, souvenir de
+longs deuils, lui avait été donnée par sa fiancée qui, en la lui
+remettant, lui avait dit : « Maintenant que je suis heureuse, prenez-la,
+mais vous me la rendrez, je le veux, la première fois que vous me ferez
+pleurer. »</p>
+<p>Qu'était devenu ce corps précieux ? allait-il disparaître dans cette
+cohue de morts qui suit les batailles ? allait-il être enterré avec
+cette foule de pauvres corps, inconnus, non réclamés, que de Vigny
+appelait énergiquement du sang anonyme ? A Athènes, quand on célébrait
+les funérailles des citoyens tués pour la patrie, des chars amenaient
+des cercueils de cyprès, un pour chaque tribu, où l'on plaçait les</p>
+<p><pb/></p>
+<p>Le samedi, deux cents cadavres de gardes nationaux étaient ramenés à
+Paris, et le dimanche, transportés au Père-Lachaise.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>de tambours voilés de crêpes 'éclata avec son roulement lugubre, comme
+un adieu au soldat. Puis l'orgue reprit, exhalant ses plaintes
+profondes, ses soupirs navrants, ses longs sanglots, ses lamentations
+déchirantes; et de ce gouffre de tristesse s'envolait, de temps en
+temps, une note légère et claire qui disait qu'au-dessus des ténèbres
+règne la lumière, qu'audessus des adieux plane une espérance, que la
+gloire couronne le sacrifice et que l'amour est plus fort que la mort.</p>
+<p>Je vois encore ces murs couverts de dessins, de paysages larges et
+sobres, d'aquarelles d'une force et d'une richesse inimitables, de
+tableaux éclatants et splendides qui semblaient émettre les rayons du
+soleil méridional , ce fier Prim, cette étrange et adorable Salomé avec
+ses yeux noirs riant sous la toison de sa chevelure, et ce grand
+exécuteur essuyant sa lame sur l'escalier blanc plaqué de sang.</p>
+<p>Il est mort pour son pays, dans tout l'éclat d'une renom-</p>
+<p><pb/></p>
+<p>rnée grandissante. Il est allé rejoindre le cortège triste et char- mant
+des jeunes génies, dans ces champs lumineux plantés i de myrtes, baignés
+d'un jour plus pur, où sont les jeunes s ombres, où il a retrouvé
+Vauvenargues et Marceau, Hoche et ] André Chénier. Ne le plaignons pas
+trop. Sa gloire naissante, pour être moins vaste peut-être, gardera
+quelque chose de la grâce des aurores. Il restera dans la mémoire des
+hommes, des Français surtout, avec l'honneur d'avoir été ces deux</p>
+<p>choses éternellement jeuneoir et un exemple. y</p>
+    </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,2332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Alméras, Henri d' (1861-1938)">Henri d' Alméras</author>
+<title>Le Tartuffe de Molière : Édition originale / Henri d'Alméras.</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Alméras, Henri d' (1861-1938)</author>, <title>Le Tartuffe de Molière : Édition originale / Henri d'Alméras.</title>, <date>1928</date>,description :Collection : Les Grands Evénements littéraires,220 pages
+</bibl>
+<publisher>E. Malfère, éd. (Amiens)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k96144391</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1928">1928</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>LES GRANDS ÉVÉNEMENTS</p>
+<p>LITTÉRAIRES</p>
+<p>HENRI D'ALMÉRAS</p>
+<p>LE TARTUFFE</p>
+<p>DE MOLIÈRE</p>
+<p>Amiens -:- EDGAR MALFÈRE -:- Éditeur</p>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>LES GRANDS ÉVÉNEMENTS LITTÉRAIRES</p>
+<p>Collection nouvelle d'histoire littéraire publiée sous la direction de</p>
+<p>MM. ANTOINE ALBALAT, HENRI D'ALMËRAS</p>
+<p>ANDRÉ BELLESSORT. JOSEPH LE GRAS</p>
+<p>PREMIÈRE SÉRIE (1928);</p>
+<p>ANTOINE ALBALAT .... L'Art Poétique HENRI D'ALMÉRAS .... Le Tartuffe
+ANDRÉ BELLESSORT.... Le Demi-Monde JULES BERTAUT Le Père Goriot RENÉ
+DUMESNIL Madame Bovary GUSTAVE FRÉJAVILLE ... Les Méditations FÉLIX
+GAIFFE Le Mariage de Figaro Louis GUIMBAUD .... Les Orientales</p>
+<p>. JOSEPH LE GRAS .... L'Encyclopédie COMTESSE DE PANGE ... De
+l'Allemagne ALPHONSE SÉCHÉ .... Les Fleurs du Mal PAUL VULLIAUD .....
+Paroles d'un Croyant</p>
+<p><pb/></p>
+<p>LE TARTUFFE E/E MOLIÈRE</p>
+<p><pb/></p>
+<p>DU MÊME AUTEUR</p>
+<p>(Librairie Albin Michel, 22, rue Huyghens, Paiis)</p>
+<p>La Vie Parisienne sous la Révolution.</p>
+<p>La Vie Parisienne sous le Consulat et l'Empire.</p>
+<p>La Vie Parisienne pendant la Restauration.</p>
+<p>La Vie Parisienne sous le règne cte~Louis-Philippe.</p>
+<p>La Vie Parisienne en 1848.</p>
+<p>La Vie Parisienne pendant le Siège de Paris et sous la Commune. Une
+Amoureuse : Pauline Bonaparte.</p>
+<p>Les Amoureux de Marie-Antoinette.</p>
+<p><pb/></p>
+<p>LES GRANDS ÉVÉNEMENTS LITTÉRAIRES</p>
+<p>--- H,, RI D'ALMÉRAS</p>
+<p>LË ARTUFFE</p>
+<p>DE MOLIÈRE</p>
+<p>ÉDITIONS EDGAR MALFÈRE</p>
+<p>26, BOULEVARD JULES-VERNE. AMIENS</p>
+<p>M.CM.XXVIII</p>
+<p><pb/></p>
+<p>IL A ÉTÉ TIRÉ DE CET OUVRAGE</p>
+<p>Copyright by Edgar Mal/ère, 1928.</p>
+<p><pb/></p>
+<p>I</p>
+<p>LES PLAISIRS DE L'ILE ENCHANTÉE</p>
+<p>TARTUFFE CHEZ LE ROI</p>
+<p>Jeunesse du roi, jeunesse du règne ! En 1664, l'année de la première
+représentation de Tariuffe, Louis XIV venait d'avoir vingt-six ans.
+Depuis la mort, impatiemment attendue, de cet Italien que sa mère avait
+trop aimé, il faisait le mieux possible son métier de roi, mais, à
+vingt-six ans — et avec tant d'occasions d'en profiter — les affaires
+intéressent moins que les plaisirs et la passion parle plus haut que le
+devoir,</p>
+<p>De cet enivrement dans lequel il vivait, toute la cour, tout le pays
+étaient complices. Qui aurait pu réagir et résister ? Le souverain de
+moins de trente ans bénéficiait, pour son prestige et pour sa gloire, du
+génie de deux ministres, de l'implacable énergie de Richelieu, de
+l'invincible souplesse de Mazarin. Maître de la France et de l'Europe,
+paré d'une double couronne, sa royauté et sa jeunesse, il réalisait le
+plus beau rêve que jamais homme ait formé. Il ne voyait autour de lui
+que des fronts courbés, des intelligences conquises et des cœurs
+asservis. Aussi capable et aussi désireux de séduire les âmes que de les
+dominer, il</p>
+<p><pb/></p>
+<p>Comment n'aurait-il pas été grisé par ce concert d'éloges, par cette
+unanimité dans l'admiration, dans l'adoration ?</p>
+<p>Les fêtes, ces fêtes qu'il prodigua pendant les premières années du
+règne, étaient pour lui un moyen de satisfaire sa vanité et d'affermir
+son pouvoir.</p>
+<p><pb/></p>
+<p>La jeune fille, depuis l'automne de 1662, avait été, sans le paraître,
+sans s'y prêter, avec des craintes et des</p>
+<p>1. Le mot est de Mme de Sévigné.</p>
+<p><pb/></p>
+<p>Et ce fut pour elle, pour cette reine de l'heure présente, que furent
+données les fêtes de 1664, les plus belles de tout le règne et celles
+qui virent les débuts de Tartuffe.</p>
+<p>Colbert :</p>
+<p><pb/></p>
+<p>Cette loterie devait être, dans les intentions du roi, un des clous,
+comme nous dirions aujourd'hui, un clou d'or, des fêtes qu'il avait
+résolu de donner au printemps de l'année 1664, pendant toute une
+semaine, une semaine d'enchantement, et dont les trois premières
+journées allaient prendre comme thème des épisodes du ROLAND FURIEUX de
+l'Arioste.</p>
+<p>Le principal animateur de toutes ces réjouissances était un haut
+personnage, François-Honorat de Beau-</p>
+<p><pb/></p>
+<p>villiers, duc de Saint-Aignan, pair de France, académicien et poète,
+après avoir brillé sur plus d'un champ de bataille.</p>
+<p>le duc de Saint-Aignan qui joint de bonne grâce</p>
+<p>les beaux lauriers de Mars aux lauriers du Parnasse et sert aux
+courtisans de modèle aujourd'hui 1.</p>
+<p>Roger, le Roger de l'Arioste, c'était naturellement Louis XIV. La
+magicienne Alcine (Armande Béjart) le retenait captif dans son île
+enchantée et dans son palais féerique où se déroulait toute l'intrigue.</p>
+<p>On vit d'abord s'avancer et se déployer, comme une chatoyante étoffe, un
+superbe cortège.</p>
+<p>1. LA MUSE HISTORIQUE (par le continuateur de Loret).</p>
+<p><pb/></p>
+<p>De chaque côté du char, sur deux files, s'avançaient</p>
+<p>11. Les chevaliers de cette quadrille portaient des habits de toile d
+'argent, avec des broderies d'or et de jais.</p>
+<p><pb/></p>
+<p>Des pages, portant des lances et des écus aux couleurs des chevaliers,
+et des bergers, plus élégants que ceux de Théocrite, fermaient la marche.</p>
+<p>Ensuite, eut lieu la course de bague et ce fut le jeune marquis de La
+Vallière qui remporta le prix, une épée d'or enrichie de diamants.</p>
+<p><pb/></p>
+<p>Or, ce dieu Pan, c'était Molière.</p>
+<p>Ce n étaient pas seulement les Vieillards, porteurs de glaces, qui
+étaient gelés. Les convives l'étaient également, dans la fraîcheur de
+cette nuit de mai. Heureusement,</p>
+<p>Lulli les réchauffait du son de sa musique.</p>
+<p>Enfin les lourds carrosses peints et dorés vinrent prendre les dames
+pour les reconduire au château — et ce fut ainsi que se termina cette
+première journée.</p>
+<p><pb/></p>
+<p>Pour cette seconde journée, pour la représentation du soir, on avait
+dressé dans le parc, au bas de l'allée royale, « en un lieu qui formait
+un grand rond » une salle de toile assez vaste, bien disposée, qui,
+derrière la scène, s'ouvrait sur le château comme sur un admirable
+décor. Suivant l'usage, ce que nous appelons le plateau était occupé par
+des spectateurs de marque.</p>
+<p>La pièce de Molière qu'on devait représenter 1 est une des moins bonnes
+de son théâtre, et il en jugeait ainsi, car n'ayant pas eu le temps de
+la terminer en vers pour les fêtes de 1664 — les quatre actes après le
+premier étaient en prose — il ne voulut pas, plus tard, s'en donner la
+peine.</p>
+<p>Cette « comédie-ballet » était et prétendait être une apothéose de
+l'amour, et, dès la première scène du prologue, l'Aurore — sous les
+traits de MI e Hilaire 2 — l'indiquait aux jeunes femmes par des
+conseils qu'elles se montraient, en général, fort désireuses de suivre :</p>
+<p>Jeunes beautés, laissez-vous enflammer ;</p>
+<p>Ce n est plus la saison de Raymon ni d'Hilaire.</p>
+<p><pb/></p>
+<p>Moquez-vous d'affecter cet orgueil indomptable Dont on vous dit qu'il
+est beau de s'armer :</p>
+<p>Dans l'âge où l'on est aimable</p>
+<p>Rien n'est si beau que d'aimer.</p>
+<p>Soupirez librement pour un amant fidèle,</p>
+<p>Et bravez ceux qui voudront vous blâmer.</p>
+<p>Un cœur tendre est aimable, et le nom de cruelle</p>
+<p>Dans le temps où l'on est belle</p>
+<p>Rien n'est si beau que d'aimer.</p>
+<p>Il est certain, il est incontestable que, dans cette pièce, Molière a
+voulu flatter les passions de Louis XIV1. Un de ses anciens
+commentateurs, Auger 2, a très bien vu et caractérisé, dans une remarque
+fort juste, ce côté un peu scabreux, du talent de Molière :</p>
+<p>; Et qu'il est malaisé que sans être amoureux</p>
+<p>Un jeune prince soit et grand et généreux ;</p>
+<p>1. V. sur ce point, le livre de Louis Veuillot, MOLIÈRE ET BOUR-</p>
+<p>DALOUE.</p>
+<p>2. ŒUVRES COMPLÈTES DE MOLIÈRE, 1817-1826.</p>
+<p><pb/></p>
+<p>De cette faveur, de cette protection et on pourrait dire de cette
+sympathie du roi, Molière, avant même que sa pièce en bénéficiât plus
+spécialement, avait reçu des marques flatteuses et précieuses.</p>
+<p>En 1663, au mois de mars, il avait été porté pour mille livres sur
+l'État des pensions accordées aux gens de lettres.</p>
+<p><pb/></p>
+<p>Entre la représentation de la Princem d'Elide et celle du Tartuffe, se
+succédèrent trois journées de fêtes.</p>
+<p>Le 9 mai — vendredi — le palais d'Alcine, qui s'élevait dans une île
+construite dans le rond d'eau — l'île enchantée — et que défendaient,
+contre les chevaliers, des géants et des nains, des démons et des
+maures, et la magicienne elle-même, montée sur un monstre marin, fut
+incendié, mais Alcine c'était Mlle de Parc, qui remplaçait Armande
+Béjart, et on avait confié au danseur Beauchamp le rôle de Roger,
+abandonné par le roi.</p>
+<p>L'incendie qui anéantit le palais d'Alcine excita l'admiration universelle.</p>
+<p>« Il semblait que le ciel, la terre et l'eau fussent tout en feu, et que
+la destruction du superbe palais d'Alcine, comme la liberté des
+chevaliers qu'elle y retenait en prison, ne se put accomplir que par des
+prodiges et des miracles. La hauteur et le nombre des, fusées volantes,</p>
+<p>U</p>
+<p><pb/></p>
+<p>celles qui roulaient sur le rivage, et celles qui ressor- taient de
+l'eau, après s'y être enfoncées, faisaient un spectacle si grand et si
+magnifique, que rien ne pouvait mieux terminer les enchantements qu'un
+si beau feu d'artifice, lequel ayant enfin cessé, après un bruit et une
+longueur extraordinaires, les coups de boîtes qui l'avaient commencé
+redoublèrent encore.</p>
+<p>Le 11, qui était un dimanche, le roi fit visiter aux dames la «
+ménagerie des oiseaux » et, le soir, dans un des grands salons
+transformé en théâtre, on représenta « la comédie des Fâcheux, faite par
+le sieur Molière, mêlée d'entrées de ballet, et fort ingénieuse... »</p>
+<p>Enfin, le 12 mai, le lundi, sixième journée des fêtes, la loterie tirée
+— et on dut corriger un peu le hasard, car ce fut la reine qui gagna le
+gros lot — deux chevaliers, deux vieux chevaliers, Guidon le Sauvage,
+duc de Saint-Aignan, et Olivier, baron de Soyecourt, coururent les
+têtes, et, le soir, on donna une comédie nouvelle, Tartuffe 2.</p>
+<p>2. Ainsi, pendant ces fêtes, quatre pièces de Molière furent
+représentées : deux nouveautés, la Princesse d'Elide (7 mai) et</p>
+<p><pb/></p>
+<p>« Ce qui m'étonne le plus c'est de m'y voir », ce mot du doge de Gènes,
+quand il vint en France, en 1685, et qu'on lui fit visiter le palais de
+Versailles. Tartuffe n'aurait pas eu moins de raisons de le prononcer,
+onze ans plus tôt.</p>
+<p>Dans ce cadre de fade mythologie et de fastueuse volupté, quelle place
+pourrait avoir un drame bourgeois, d une si pénétrante et si dure
+observation ? Parmi ces gentilshommes et ces grandes dames, plus ou
+moins énamourées et plus ou moins futiles, parmi ces bergers et ces
+jardiniers d'opéra-comique, parmi ces danseurs et ces musiciens, parmi
+ces nymphes et ces déesses, et aussi parmi ces prélats, car il n'en
+manquait pas dans ce public de courtisans, que venait faire, de noir
+vêtu, dans le chatoiement des soies et des brocarts, dans
+l'étincellement des pierreries, cet échappé de sacristie, sournois et
+fourbe, tout confit en dévotion et, malgré quelques côtés en apparence
+comiques, effrayant comme un fauve et répugnant comme un reptile ?</p>
+<p>Elle était d'autant plus étonnante, cette apparition,</p>
+<p>1. A. Bazin, NOTES HISTORIQUES SUR LA VIE DE MOLIÈRE. 2e éd..</p>
+<p>1851, p. 63.</p>
+<p><pb/></p>
+<p>Une pieuse association, d'autant mieux renseignée et avertie, que
+plusieurs de ses membres vivaient dans l'entourage du roi, la Compagnie
+du Saint-Sacrement, spécialement fondée, comme nous le verrons, pour
+combattre l'incrédulité et le « libertinage » — nous dirions aujourd'hui
+la libre-pensée — s'était réunie, le 17 avril, chez le marquis de Laval.</p>
+<p>1. De mime, au Xllle siècle, au temps du ROMAN DE LA RoSE.. comme le
+remarque Bret, les dévots, prédicateurs ou autre;, avaient vivement
+attaqué ce poème dont certains vers démasquaient l'hypocrisie, et
+Gerson, plus d'un siècle plus tard, écrivait encore contre ceux qui
+avaient osé se dire (vers 11679 du poème) que la robe de lin ne fait pas
+le prêtre.</p>
+<p><pb/></p>
+<p>C'était trop tard et Tartuffe allait être joué.</p>
+<p>Il avait fallu pour rendre possible, malgré tant d'obstacles, cette
+représentation si redoutée par les uns, si attendue par les autres, la
+bienveillance du roi et, croyons-nous, sa conviction partagée par bien
+des gens autour de lui, — habilement inspirée, d'ailleurs, et entretenue
+par Molière, et, en définitive, assez juste — que la pièce était dirigée
+contre les Jansénistes, également détestés comme hérétiques et comme
+ennemis de tous les divertissements.</p>
+<p><pb/></p>
+<p>Mais quel fut le Tartuffe joué en 1664 ?</p>
+<p>M. Abel Lefranc4 semble partager cette opinion, de même que M. G.
+Michaut, dans son livre si remarquable, les LUTTES DE MOLIÈRE. Ils
+s'appuient l'un et l'autre sur cette idée, assez contestable, que la
+représentation d'une pièce non terminée, devant le roi, aurait eu
+quelque chose de choquant.</p>
+<p>La thèse opposée — celle de la représentation d'une pièce inachevée — a
+été soutenue par la plupart des</p>
+<p>1. HISTOIRE DE FRANCE, tome XII, chap. VII.</p>
+<p>3. MOLI ÈU P. 1900, p. 130.</p>
+<p>4. REVUE DES COURS, 1907-1908, tome il. p. 40.</p>
+<p><pb/></p>
+<p>critiques et des Moliéristes, Paul Mesnard 1, Gustave Larroumet 2, M.
+Eugène Rigal 3, M. Henry Bidou 4,. et bien d'autres.</p>
+<p>Ils mettent en avant un argument des plus sérieux, un document décisif,
+cette note du registre de La Grange : « La troupe est partie par ordre
+du roi pour Versailles le dernier jour de ce mois (d'avril) et y a
+séjourné jusqu'au 22e mai. On y a représenté trois actes de Tartuffe qui
+étaient les trois premiers. »</p>
+<p>Ils auraient pu citer également ce passage, non moins probant, de la
+relation des fêtes :</p>
+<p>« Le soir (du 13 mai) Sa Majesté fit jouer les trois premiers actes
+d'une comédie nommée Tartuffe. »</p>
+<p>Sur cette représentation du 13 mai 1669 les renseignements manquent. Les
+contemporains en ont très peu parlé et ce qu'ils en disent ne nous
+apprend pas grand chose.</p>
+<p>La pièce de 1664 — complète ou inachevée, peu importe — était moins
+agressive, moins accentuée que celle de 1669, dans laquelle Molière
+ajouta quelques tirades, quelques traits incisifs, dirgés contre ses
+adversaires.</p>
+<p>Le Tartuffe qui eut l'honneur, en 1664, de paraître devant le roi
+n'était encore qu'un simple hypocrite, quoique bien des gens voulussent
+voir en lui un janséniste.</p>
+<p>Il ne portait ni rabat ni soutane, mais son costume de</p>
+<p>1. Molière dans l'édition des Grands Écrivains. tome IV, p. 275 ;</p>
+<p>2. LA COMÉDIE DE MOLIÈRE, p. 283.</p>
+<p>3. MOLIÈRE, tome I, p. 221.</p>
+<p>4. Journal des Débats du 3 septembre 1923 (compte rendu du livre de M.
+Charlier, publié en 1923, sur le Premier Tartuffe).</p>
+<p><pb/></p>
+<p>laïque se rapprochait de celui d'un prêtre, ce qui ne pouvait ni
+surprendre ni choquer, semble-t-il, aucun des spectateurs, puisqu'il
+était assez naturel qu'un hypocrite, exploitant la religion, s'efforçât
+de s'attribuer, pour le succès de ses opérations et combinaisons, l'air
+et les allures d'un homme d'église.</p>
+<p>Dans son numéro du 17 mai, cette même Gazette louait le roi d'avoir, par
+la condamnation des cinq propositions de Jansénius, si bien justifié et
+mérité son titre de fils aîné de l'Église, « comme il le fit encore naguère</p>
+<p><pb/></p>
+<p>A Paris, dans les milieux piétistes, jansénistes — aussi zélés que
+nombreux — parmi les magistrats notamment, la réprobation avait été très
+vive, très bruyante. Il y avait eu comme une levée de goupillons. On
+criait presque au sacrilège.</p>
+<p>le Sa Majesté fit jcuer... une ccmédie ncmmée Tartuffe</p>
+<p><pb/></p>
+<p>(De la cour) un quidam m'écrit,</p>
+<p>Et ce quidam a bon esprit,</p>
+<p>Que la comédie de Molière</p>
+<p>Dont la muse n'est point anière</p>
+<p>Avait fait quelque plainte au roi,</p>
+<p>Sans m'expliquer trop bien pourquoi, Sinon que, sur son Hypocrite,</p>
+<p>Pièce, dit-on, de grand mérite.</p>
+<p><pb/></p>
+<p>Et très fort au gré de la cour,</p>
+<p>Maint censeur daube nuit et jour.</p>
+<p>Afin de repousser l'outrage,</p>
+<p>Il a fait coup sur coup voyage</p>
+<p>Et le bon droit représenté</p>
+<p>De son travail persécuté.</p>
+<p>Mais de cette plainte susdite</p>
+<p>N'ayant pas su la réussite.</p>
+<p>Je veux encore être en ce cas,</p>
+<p>Disciple de Pythagoras</p>
+<p>Et sur un tel sujet me taire,</p>
+<p>Ne sachant le fond de l'affaire</p>
+<p>Qu'on pourra dire en temps et lieu...</p>
+<p>Plus surpris qu'abattu par le coup qui venait de le frapper, Molière
+s'était efforcé de réagir. Il avait adressé au roi ce placet qui, dans
+ses éditions, porte ce titre :</p>
+<p>Premier placet présenté au Roi 1 sur la comédie de</p>
+<p>Tartuffe 2 :</p>
+<p>« Sire,</p>
+<p>1. A Fontainebleau, où le roi s'était rendu en quittant Versailles.</p>
+<p>2. Ce premier placet, d après M. Jean Monval (CHRONOLOGIE</p>
+<p>DE MOLIÈRE) serait du 31 août.</p>
+<p>3. Castigai ridendo mores.</p>
+<p><pb/></p>
+<p>Cependant, toutes mes précautions ont été inutiles ; on a profité, Sire,
+de la délicatesse de votre âme sur les matières de la religion, et 1 on
+a su vous prendre par l'endroit seul que vous êtes prenable, je veux
+dire par le respect des choses saintes. Les Tartuffes, sous main, ont eu
+l'adresse de trouver grâce auprès de Votre Majesté ; et les originaux
+enfin ont fait supprimer la ,copie,',quelque innocente qu'elle fût, et
+quelque ressemblante qu'on la trouvât.</p>
+<p><pb/></p>
+<p>2. V. chapitre V, les Visites de Tartuffe.</p>
+<p>3. Ce sont, comme on le verra, les expressions mSmîs dont se servait,
+dins son -livre, le curé Roullès.</p>
+<p><pb/></p>
+<p>La défense était habile mais elle ne devait avoir que des effets à
+longue portée. Cinq années d'efforts, de sollicitations, d'appels à
+l'opinion publique, seront nécessaires pour faire revenir,
+définitivement, le roi sur sa décision.</p>
+<p>1. « Voilà, remarque Sainte-Beuve, ce qu'un Pascal, même pour faire
+passer les Provinciales, n'aurait jamais dit... » (PORT ROYAL, tome III,
+chap. XVI). En effet, comme flatterie, c'est un peu gros.</p>
+<p><pb/></p>
+<p>II</p>
+<p>COMMENT FUT COMPOSÉ TARTUFFE</p>
+<p>ORIGINE DU TITRE</p>
+<p><pb/></p>
+<p>Pour Molière, comme pour bien d'autres, on a exagéré les imitations, en
+prenant pour des vérités démontrées certaines accusations malveillantes
+de ses ennemis.</p>
+<p>1. Comme le prétend Louis Riccoboni dans ses OBSERVATIONS SUR</p>
+<p>LA COMÉDIE ET SUR LE GÉNIE DE MOLIÈRE (1736).</p>
+<p><pb/></p>
+<p>dal franzese (sic), avait 3 actes et un prologue. A une date que nous
+ignorons, Gigli la joua lui-même sur le théâtre de Sienne, en
+reproduisant, dans le rôle de don Pilone, le visage, les gestes d'un
+hypocrite très connu dans cette ville, et il les reproduisit avec tant
+de vérité, d'une manière si parfaite, que l'hypocrite en question se
+reconnût et se plaignit. L'Inquisition intervint pour interdire les
+représentations.</p>
+<p>On a cité également comme ayant été imitées par Molière quelques farces
+italiennes où figuraient de faux dévots, Il Basilisco (Basilic) del
+Berganasso — Il Pedante, de Flaminio Scala, etc. L'auteur de TARTUFFE
+ignorait probablement leur existence.</p>
+<p>Qu 'il ait lu le Decaméron de Boccace, un des livres dont la lecture, à
+cette époque, pour un homme cultivé et curieux de la littérature
+italienne, s'imposait, on ne peut guère en douter. Il y nota quelques
+détails savoureux et utilisables, dans le conte dont le héros Ser
+Ciappelletto est un Tartuffe anticipé.</p>
+<p>Il connaissait assurément aussi cette pièce presque classique, d'un
+écrivain qui ne passait pas pour très édifiant mais dont la verve égale
+l'immoralité — et ce n'est pas peu dire — lo Hipocrito, comedia di
+Messer Pietro Aretino</p>
+<p>L'intrigue de cette pièce (en cinq actes et un prologue) offre de très
+grandes ressemblances avec celle de la pièce de Molière. L'Hipocrito, un
+Tartuffe de l'espèce gaie, et non moins redoutable, vivait dans la
+maison du vieux Liseo, qu'il dominait et exploitait.</p>
+<p>1. L'édition de 1542, in-8°, était dédiée « al magnanimo duce d'Urbino
+». L'Aretin avait besoin, comme Molière, pour défendre sa pièce, de
+protecteurs.</p>
+<p><pb/></p>
+<p>Voilà, croyons-nous, tout ce qui concerne les imitations italiennes
+connues et non douteuses. Les imitations espagnoles sont plus importantes.</p>
+<p>Sa muse de campagne</p>
+<p>Vola dans mille auteurs les sottises d'Espagne.</p>
+<p>Quatre nouvelles du cul-de-jatte littéraire avaient paru, en un volume,
+en 1661, chez le libraire Somma- ville, sous ce titre : les Nouvelles
+tragi-comiques de Monsieur Scarron. Ces quatre nouvelles étaient la
+Précaution inutile (plus d'un siècle avant la célèbre comédie de
+Beaumarchais), les Hypocrites, l'Adultère innocent et Plus d'effets que
+de paroles.</p>
+<p>1. « Tournées de l'espagnol en français ». dit le privilège.</p>
+<p><pb/></p>
+<p>Une des premières publiées, parmi ces nouvelles, était intitulée La
+ingeniosa Elena, hija de Celestina (Lerida 1612).</p>
+<p>1633.</p>
+<p><pb/></p>
+<p>Ces imitations n'étaient pas, on s'en doute, absolument serviles. Chacun
+des deux écrivains français gardait son droit de contrôle, sa
+personnalité, et tout en imitant créait.</p>
+<p>Certaines scènes qu 'on trouve dans Scarron et que Molière sut y
+trouver, n'existent pas dans l'original espagnol, celle, par exemple, où
+Montufar est accusé et menacé par un gentilhomme qui lui reproche ses
+fourberies, au moment où, les yeux pieusement baissés, le doucereux
+dévot sort d'une église, entouré de gens qui baisent ses vêtements comme
+ceux d'un saint. Pleins d'indignation et de fureur sacrée, ces fanatisés
+se précipitent sur le gentilhomme et le rouent de coups, mais Montufar
+les supplie de se calmer. Il s'accuse lui- même. Il remercie l'homme qui
+l'a attaqué de s'être montré si justement sévère pour un pécheur tel que
+lui.</p>
+<p>1. Et même en France, on avait publié, en 1527, chez Galliot du Pré,
+Célestine en laquelle est traictée des desceptions des serviteurs envers
+leurs maistres et des macquerelles envers les amoureux, translaté
+d'ytalien (c'est-à-dire sur la version italienne) en françois — (petit
+in-folio gothique, avec figures sur bois).</p>
+<p><pb/></p>
+<p>Et vous feriez bien mieux de croire son rapport1.</p>
+<p>Les détails les plus caractéristiques de cette scène ont été imités par
+Molière.</p>
+<p>Scarron dit dans sa nouvelle : « Montufar ne bougeait des prisons. »
+Dans la sienne, Alonzo Goronimo de Salas avait dit : « Montufar
+demandait 1 aumône pour les pauvres prisonniers 2. &gt; C'est cette
+observation, plus complète, plus typique, que reproduira Molière dans
+ces deux vers prononcés par Tartuffe :</p>
+<p>Je vais aux prisonniers</p>
+<p>Des aumônes que j'ai partager les deniers.</p>
+<p>2. Acte III, scène II. « C'est une œuvre de miséricorde d'aller visiter
+les prisonniers, de mettre dans le tronc des prisonniers. »
+(Dictionnaire de Trévoux.)</p>
+<p>3. Sur toutes ces imitations, voir Martinenche, Molière et le Théâtre
+espagnol, p. 159 et suiv,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>autre chose ! » Cette autre chose, c'était le Tartuffe, auquel il
+donnait la dernière main 1.</p>
+<p>Ce qui est beaucoup plus certain, c'est que, dans la composition, lente
+et laborieuse, de ce chef-d'œuvre, Molière, pour se documenter, put et
+dût se souvenir de quelques-unes de ses lectures, du Panurge de
+Rabelais, de la Macette de Regnier, ou encore — lorsque Tartuffe
+s'accuse d avoir tué une puce — de ce S' Macaire que l'APOLOGIE
+D'HÉRODOTE d'Henri Estienne, nous montre, d'après la LÉGENDE DORÉE de
+Jacques de Voragine, faisant pendant sept ans pénitence pour le meurtre
+d'un de ces insectes, créature de Dieu. Il dut se rappeler aussi des
+passages des LETTRES de Balzac 3, où figure par anticipation le nom de
+son hypocrite, de la VEUVE de Corneille, où apparaissent plusieurs
+variétés de fourbes, d'ailleurs plus ennuyeux que coupables, et des
+LETTRES PROVINCIALES de Pascal, sur les adoucisse-</p>
+<p>1. ANECDOTES DRAMATIQUES (par Clément et l'abbé de la Porte).</p>
+<p>P., 1765, tome 11, p. 205.</p>
+<p>2. DICTIONNAIRE PORTATIF DES THEATRES. P., 1763 (au mot</p>
+<p>Tartuffe).</p>
+<p>3. Je les cite plus loin.</p>
+<p><pb/></p>
+<p>(Radegonde, dans le roman) et le nom même de Pernelle que Sorel donne à
+un autre de ses personnages.</p>
+<p>Peut-être enfin eut-il connaissance — on l'a supposé 1</p>
+<p>— de ce portrait d'un faux dévot, tracé sans indulgence par le poète
+Jacques du Lorens, dans la première de ses</p>
+<p>« SATYRES », publiées en 1624, et qui eurent plusieurs éditions :</p>
+<p>Que je suis dégoûté de la plupart des hommes</p>
+<p>Plus je les considère, en ces temps où nous sommes ! Mais surtout je ha
+' ceux dont le semblant est doux, Qui n'entendent jamais la messe qu'à
+genoux !</p>
+<p>S'ils parlent, c'est de Dieu, de sa bonté suprême,</p>
+<p>Après avoir tenu ce langage des Cieux,</p>
+<p>Croirais-tu bien, Monsieur, qu'ils sont fort vicieux, Et que celuy
+d'entre eux qui fait plus d'abstinence, Dont la face est plus triste, a
+le moins d'innocence... Après ses oraisons, est-il hors de l'église,</p>
+<p>A son proche voisin il trame une surprise.</p>
+<p>Il cajole sa femme et la prie en bigot</p>
+<p>De faire le péché qui fait un homme sot..</p>
+<p>A sa douce façon et modestie extrême,</p>
+<p>Il paraît innocent ou l'innocence même ;</p>
+<p>Il porte un cœur de sang sous un dévot maintien... Gardez-vous bien de
+lui les jours qu'il communie !..</p>
+<p>1. Prosper Blanchemain, POÈTES ET AMOUREUSES, P., 1877.</p>
+<p><pb/></p>
+<p>Ah ! pour être dévot je n'en suis pas moins homme !</p>
+<p>Ah ! pour être Romain, je n'en suis pas moins homme 1</p>
+<p>Une pièce de Corneille venait d'être jouée sur le Théâtre du Marais, le
+25 février 1662. Elle était, dans toute la fraîcheur de sa nouveauté.
+Que Molière ait imité, sans aucune intention malveillante 2, le vers de
+Corneille, c'est assez vraisemblable.</p>
+<p>En revanche, ce qu'on a raconté sur l'origine de l'exclamation apitoyée,
+et si comique, d'Orgon « Le pauvre homme ! » ne supporte pas l'examen.</p>
+<p>Il y a, sur ce passage, un de ceux qui portent le plus sur le public,
+deux traditions, deux légendes.</p>
+<p>La première est celle que Tallemant des Réaux a essayé d'accréditer dans
+une de ses HISTORIETTES.</p>
+<p>« En une petite ville de quelque province de France, raconte-t-il, un
+homme de la cour alla voir un capucin. Les principaux le vinrent
+entretenir. Ils lui demandèrent des nouvelles du roi, puis du cardinal
+de Riche-</p>
+<p>1. « Come che io sia ahate, io sono uomo come gli altri... »</p>
+<p>(BOCCACE, Feronde).</p>
+<p><pb/></p>
+<p>Le vague de cette anecdote en indique la fausseté. Le personnage à
+propos duquel on la fabriqua, après coup, de toutes pièces, le père
+Joseph (François du Tremblay), mort en 1638, était bien oublié, une
+trentaine d'années plus tard. Pourquoi l'avoir choisi, lui plutôt qu'un
+autre, comme héros de ce récit fantaisiste — alors qu'il n'avait rien
+d'un Tartuffe ?</p>
+<p><pb/></p>
+<p>collaborant avec Molière et lui fournissant des mots de théâtre. Et
+voici comment, d'après l'ingénieux abbé, les ANECDOTES DRAMATIQUES —
+dont Bret s'est certainement servi1 — nous racontent la scène comique
+dans laquelle le grand roi joua le principal rôle, scène qu'aurait
+imitée Molière :</p>
+<p>Molière qui, en sa qualité de valet de chambre, avait fait le voyage,
+fut témoin de cette scène dont il sut si bien se servir dans son
+Tartuffe. Le Roi, en écoutant les trois premiers actes de cette comédie,
+aux Fêtes de Versailles, ne se rappelait point la part qu'il avait à
+cette scène. Molière l'en fit ressouvenir, et ne lui déplut pas. »</p>
+<p>t II s'agit, dans cette anecdote, d'Hardouin de Beau-</p>
+<p>1. Elles parurent cinq ans avant son édition de Molière.</p>
+<p><pb/></p>
+<p>mont de Péréfixe, qui était, en 1662, évêque de Rodez. Tout ce qu'on
+sait de ce prélat, un peu borné d'esprit mais très attaché aux devoirs
+de sa charge, rend invraisemblable ce qu'on raconte ici de lui. Il
+n'avait rien d'un goinfre ni d'un hypocrite.</p>
+<p>Hardouin de Beaumont de Péréfixe — prélat très respectable et très
+respecté qui, certainement, même s'il s'y était prêté, Louis XIV
+n'aurait pas essayé de tourner en ridicule — fut nommé, en 1664,
+archevêque de Paris, et nous le verrons publier, cette année-là, une
+ordonnance contre le Tartuffe. Cette ordonnance et l'opposition qu'elle
+souleva expliquent peut-être la fabrication, tendancieuse et
+malveillante, de l'anecdote que nous venons de citer.</p>
+<p>Première épreuve : le TARTUFFE de 1664, en trois actes.</p>
+<p>Seconde épreuve, avant les dernières retouches : le</p>
+<p>TARTUFFE de 1667, en cinq actes.</p>
+<p>1. LA SECONDE INTERDICTION DE TARTUFFE, Cherbourg, 1874.</p>
+<p><pb/></p>
+<p>Troisième épreuve : le TARTUFFE — définitif — de 1669.</p>
+<p>« Entre la seconde et la troisième épreuve, les différences ne sont pas
+aussi considérables qu'on pourrait le croire, dans la composition du
+moins — le détail nous échappe — et elles ont ceci de particulier que si
+Molière s amende en quelques endroits, c'est pour avoir failli contre
+les règles de son art, contre l'observation de la vérité humaine, plutôt
+que contre cet esprit de réserve et de prudence qu'on appelait alors la
+politique. » Cependant, il jugea nécessaire, comme nous le verrons plus
+loin, de changer, pour la représentation de 1667, le titre de sa pièce,
+le nom, le costume et en quelque sorte l'état-civil de son hypocrite.</p>
+<p>Dans les trois états ou épreuves l, même lever de rideau — le
+déchaînement de Mme Pernelle — une des meilleures scènes de la pièce, et
+Molière n'aurait eu garde d'y toucher.</p>
+<p>Dans le deuxième état — celui de 1667 — et dans cette scène d'ouverture,
+après l'essai de rebellion de Damis i</p>
+<p>1. Il faudrait, pour bien comprendre ce qui va suivre, se reporter au
+texte de la pièce.</p>
+<p><pb/></p>
+<p>Le 3e acte ne fut pas modifié et le 4e ne le fut que très peu.</p>
+<p>1. Scène iii.</p>
+<p><pb/></p>
+<p>Dans la pièce de 1664, il est représenté non pas en prêtre (c'eut été,
+en ce temps-là, trop dangereux) mais dans un costume à
+demi-ecclésiastique, habit noir, long manteau, comme le Montufar de
+Scarron, ou comme un Jamulus d'un collège de Jésuites ou encore comme un
+de ces messieurs de Port-Royal.</p>
+<p>Plus tard, en 1667, laïcisé sous le nom de Panulphe, il se transforme en
+dévot que son costume très simple, très sobre, ne distingue pas d'un
+bourgeois de Paris.</p>
+<p>En 1669, il reprend, avec la permission du roi, son premier nom et son
+premier costume, comme la pièce reprend son premier titre, Tartuffe ou
+l'Imposteur.</p>
+<p>Mais on lui impose quelque réserve diplomatique</p>
+<p>1. Acte V, scène vu : « Nous vivons sous un prince ennemi de la fraude
+», etc.</p>
+<p>2. LES LUTTES DE MOLIÈRE.</p>
+<p><pb/></p>
+<p>dans l'étalage de son hypocrisie. D'après une tradition recueillie par
+Voltaire, dans sa Vie de Molière, il s'écriait, en 1667 (acte III, scène
+vil) en parlant du fils d'Orgon, Damis :</p>
+<p>0 Ciel ! pardonne-lui comme je lui pardonne !</p>
+<p>Les dévots virent ou affectèrent de voir dans ce vers, très innocent en
+apparence, un travestissement du Dimitte nobis debita nostra sicut et
+nos dimittimus debitoribus nostris.</p>
+<p>0 Ciel ! pardonne-lui la douleur qu'il me donne !</p>
+<p>Le vers était moins bon, mais la religion était sauvée.</p>
+<p>A la 2e scène du 1er acte, on a cru devoir supprimer ces quatre vers de
+la tirade de Dorine sur l'admiration béate d 'Orgon pour Tartuffe :</p>
+<p>A table, au plus haut bout, il veut qu'il soit assis Avec joie, il l'y
+voit manger autant que six,</p>
+<p>Les bons morceaux de tout, il faut qu'on les lui cède ; Et s'il vient à
+roter, il lui dit : « Dieu vous aide ! »</p>
+<p><pb/></p>
+<p>1. C'est un hypocrite, un courtisan, que Juvénal montre :</p>
+<p>Laudare paratas</p>
+<p>Si (dominus), bene eructavit...</p>
+<p>et qui, dans la Satire XV de du Lorens :</p>
+<p>Lui ramasse son gant, le bénit quand il rote.</p>
+<p>2. DICTIONNAIRE DE TRÉvoux.</p>
+<p><pb/></p>
+<p>De tirer en longueur cet hymen proposé.</p>
+<p>Tantôt vous vous payerez de quelque maladie,</p>
+<p>On ne peut vous lier que vous ne disiez « oui</p>
+<p>Dans la 4e scène du 5e acte, on a, depuis quelques années, légèrement
+amputé, dans le monologue de l'exempt, l'éloge du roi, éloge dans lequel
+on a dû voir une manifestation contre le régime républicain.</p>
+<p>En revanche, on a rétabli depuis longtemps le premier texte du vers de
+Tartuffe, parlant de Damis :</p>
+<p>0 ciel, pardonne-lui comme je lui pardonne.</p>
+<p>çaise, il vaut infiniment mieux rétablir que supprimer ?</p>
+<p><pb/></p>
+<p>APPENDICE</p>
+<p>PETITE HISTOIRE D'UN TITRE</p>
+<p>Molière s est servi, dans son théâtre, pour désigner ceux qu'il met en
+scène, de trois sortes de noms.</p>
+<p>La plupart de ces noms ont, il faut en convenir, quelque chose de
+factice et de conventionnel, tels par exemple, Arnolphe, Argan, Éraste,
+Valère, Dorante, Damis, Cléante, Léandre, Elmire, Frosine, Élise.</p>
+<p>D'autres, moins nombreux, s'accordent davantage avec les rôles s
+adaptant mieux aux personnages et, déjà, par anticipation, nous aident à
+les connaître. On n'appellerait pas un jeune gentilhomme Gros René, La
+Flèche, La Violette, La Merluche ou Brindavoine, ni une amoureuse de
+bonne maison Flipote, Marotte ou Marinette. Cela sent l'office ou
+l'écurie. Jourdain, Dandin, Gorgibus, ce sont bien des noms de
+bourgeois, de même que celui de Mme Pernelle, si bruyamment porté.
+Diafoirus et Purgon ne peuvent être que des médecins et des médecins
+ridicules. La Rapière qu'un bravache, Lucas et Thibaud que des paysans,
+Trissotin, trois fois sot, qu'un de ces cuistres prétentieux, frottés de
+grec et de latin, qui savent être ennuyeux en plusieurs langues.</p>
+<p>Enfin, quelques-uns de ces noms indiquent par leur formation même, et à
+dessein, le trait essentiel d'un caractère, ce qui d'un homme fait un
+type : Alceste,</p>
+<p><pb/></p>
+<p>en perpétuel état de colère ou d'indignation, Philinte, l'ami de tout le
+monde, Ariste, Harpagon, Tartuffe, etc. Ce sont des étiquettes collées
+sur le dos des personnages.</p>
+<p>De tous ces noms aucun n'a fait couler plus d'encre que celui de
+Tartuffe, et sans grand profit. Pour l'expliquer ou pour l'obscurcir,
+des savants, d'ailleurs réputés et pleins de bonnes intentions, ont émis
+les thèses les plus fantaisistes, en s'appuyant sur les anecdotes les
+plus suspectes.</p>
+<p>1. LONGUERUANA, Berlin, 1754, 1RE partie, p. 199.</p>
+<p>2. Auguste Baluffe a publié, en 1886, MOLIÈRE INCONNU, et, en 1889,
+Autour de Molière, deux ouvrages où abondent les détails intéressants et
+les affirmations hasardeuses.</p>
+<p><pb/></p>
+<p>Dans le MEMORIALE DELLA LINGUA ITALIANA, de Giacomo Pergamino da
+Fossombrone (Venise, 1617), on lit :</p>
+<p>Truffa : inganno (tromperie).</p>
+<p>Truffe : menzogne (mensonges).</p>
+<p>On qualifiait du surnom de Truffes ou Trufs, en Bourgogne, au XVIE
+siècle, les trompeurs, les fourbes. Une satire catholique contre les
+protestants, pendant les guerres de la Ligue, s'intitule les Truffes de
+Mont- bard 2.</p>
+<p>1. Notons en passant que ce mot, comme nom propre, n'est pas très rare.
+Il était porté vers 1860 par un industriel de la banlieue de Paris et,
+vers 1895, par un boutiquier d'une petite ville normande.</p>
+<p><pb/></p>
+<p>Mais le mot Truffa a, en italien, une autre forme moins ancienne qui
+n'est en réalité qu'un diminutif 1.</p>
+<p>1. Dans l'argot populaire, une truffe, c'est encore « une sorte de
+cruche », un imbécile. (V. DICTIONNAIRE D'ARGOT FIN DE SIÈCLE, par
+Charles Virmaitre. P., 1894.)</p>
+<p>3. On a pu remarquer, en effet, que dans le MEMORIALE de Pergamino le
+mot Truffa n'a pas d'autre signification que celle de Tromperie.</p>
+<p>4. Dans la correspondance diplomatique secrète d Henri IV et de son
+ministre Villeroy, avec le président Jeannin, ambassadeur de France en
+Hollande, les Anglais étaient les Asperges, le comte de Salisbury la
+Framboise, le prince de Galles la Poire, et le roi d'Angleterre le Père
+de la Poire,</p>
+<p><pb/></p>
+<p>le Tartuffe des Champignons. Ce qui semblait, pour les ignorants, être
+son nom n'était qu 'un surnom, greffé sur une calomnie.</p>
+<p>Taschereau, dans sa biographie de Molière, a très bien expliqué cela :</p>
+<p>Au XVIE siècle, vers 1530, dans une comédie d'Angelo Beoleo ou Bioleo
+dit il Ruzzante, le Badin, dans la Rhodiana, un maître fourbe, une
+espèce de Scapin qui, pour tromper le vieux Cornelio, se faisait passer
+pour un possédé du diable, portait le nom de Truffa. Une cinquantaine
+d'années plus tard, un des personnages d une comédie de della Porta,
+l'Astrologo</p>
+<p><pb/></p>
+<p>(Venise, 1646) traitait un autre de Tartufo, trompeur. Il signor
+Trufaldino, Trufaldino dei Beutruffati, (vieille noblesse d'Italie), un
+Tartuffe qui est bon enfant, un aimable coquin, allait devenir un des
+principaux personnages de la Commedia delf' arte.</p>
+<p>1. « Tartufe, Onuphre, Panulphe, ou encore Montufar chez Scarron, tous
+ces noms nous présentent la même idée dans une onomatopée confuse,
+quelque chose en dessous et de fourré. » Sainte- Beuve (PORT-ROYAL).</p>
+<p><pb/></p>
+<p>Il s'était dressé sur sa chaise et son visage exprimait la plus complète
+béatitude.</p>
+<p>La scène aurait tellement frappé Molière, par son côté plaisant, qu'il
+aurait retenu et noté soigneusement ce mot tartufoli, un peu modifié,
+pour le nom de son hypocrite.</p>
+<p>Nous le voyons figurer, ce mot, employé dans un</p>
+<p>1. « Le bras droit des tartuffes », dit la LETTRE SUR LES OBSERVATIONS
+D'UNE COMÉDIE DU SF MOLIÈRE INTITULÉE LE FESTIN DE PIERRE (1665).</p>
+<p>2. Il ne se trouve pas dans le THRESOR DE LA LANGUE FRAN-</p>
+<p>ÇOISE TANT ANCIENNE QUE MODERNE (1606).</p>
+<p><pb/></p>
+<p>sens injurieux, dans le premier recueil des lettres de Balzac, recueil
+publié en 1624, une trentaine d'années avant les débuts de Molière au
+théâtre.</p>
+<p>La Fontaine, si bien renseigné sur notre vieux langage, connaissait-il
+ce mot, avant que Molière l 'employât, ou le lui a-t-il emprunté ?</p>
+<p>La deuxième partie de ses fables ne parut qu'en 1678. Dans la fable XIV
+du livre IX, il dit, en parlant du Chat et du Renard, qui s'en allaient
+en pèlerinage :</p>
+<p><pb/></p>
+<p>« Qui pensez-vous qu'on voit chez moi ? M. le président de Reauville, M.
+le président de Gallifet ; ils m'ont tartufiée. »</p>
+<p>Plus tard et, sans doute, dans les dernières années du XVIIE siècle, où
+la chose était si commune et presque obligatoire, on lança dans la
+circulation l'expression Tartuferie. « Mot nouveau, remarque Voltaire
+dans son DICTIONNAIRE PHILOSOPHIQUE 2, formé de celui de Tartufe, action
+d'hypocrite, maintien d'hypocrite, fripcnnerie de faux dévot. »</p>
+<p>1. De même, dans AMPHYTRION (Acte III, scène Vil).</p>
+<p>Et l'on me déSosie enfin</p>
+<p>Comme on vous désAmphytrionne.</p>
+<p>Le procédé est facile, mais Molière n'en a pas abusé.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>III</p>
+<p>LES ORIGINAUX DE TARTUFFE</p>
+<p>UNE GALERIE DE PORTRAITS</p>
+<p>Naturellement, ces personnages, on les reconnût ou on crut les
+reconnaître. On exagéra la part, souvent très réduite, qu'ils avaient
+eue dans la confection du type complet et définitif destiné au théâtre.
+Qui est Tartuffe? demandait-on. Chacun désignait un voisin, un parent,
+un ami, en évitant de se désigner lui-même. On n'avait que l'embarras du
+choix. Les tartuffes, clercs ou laïques, ne manquaient pas. Cette
+engeance ne risque pas de devenir rare.</p>
+<p>Ceux qui voulaient avoir l'air d'être dans le secret nommaient, tout
+bas, des confrères du Saint-Sacrement, sans cesse occupés de
+l'édification et du salut de leur prochain, le marquis et le comte de
+Fénelon, le marquis de Brancas, le baron de Renty, ou un janséniste fana-</p>
+<p><pb/></p>
+<p>1. Il laisse un autre posthume, au NÉCROLOGE DE PORT-ROYAL, publié en 1729.</p>
+<p>2. Intermédiaire des Chercheurs et des Curieux (n° du 10 janvier</p>
+<p>1904).</p>
+<p><pb/></p>
+<p>1. ANECDOTES DRAMATIQUES, tome II, p. 204.</p>
+<p>2. Gabriel de La Roquette.</p>
+<p><pb/></p>
+<p>chant, plus spécialement dirigée contre Talleyrand, ce diable boiteux.</p>
+<p>Roquette dans ses temps, Talleyrand dans le nôtre,</p>
+<p>Furent tous deux prélats d'Autun. Tartuffe est le portrait de l'un 1.</p>
+<p>Ah 1 si Molière eût connu l'autre !</p>
+<p>Roquette n'avait pas l'envergure de son successeur. Il y avait entre eux
+la différence du putois au renard. C'était un coquin subalterne, plus
+répugnant que dangereux, et qui, malgré tous ses efforts, ne se haussa
+jamais au-dessus du médiocre.</p>
+<p>On l'a souvent confondu avec un de ses neveux, prédicateur notoire et
+plagiaire invétéré, sur lequel d'Aceilly fit cette épigramme, aussi
+célèbre que la précédente :</p>
+<p>On dit que l'abbé Roquette</p>
+<p>Prêche les sermons d'autrui.</p>
+<p>Moi qui sais qu'il les achète,</p>
+<p><pb/></p>
+<p>Ne chargeons pas l'évêque d'Autun des méfaits de son neveu. Les siens
+suffisent.</p>
+<p>Le vrai abbé Roquette, Roquette l'ancien, était un courtisan, un
+ambitieux sans scrupules et sans mérite (quoiqu'il administrât assez
+bien son diocèse, et qu'il ne prêchât pas trop mal), un pied plat avide,
+rampant, cauteleux, bien plus qu'un hypocrite proprement dit.</p>
+<p>1. Chapitre Les Grands. (Toutes les clefs désignent l'abbé</p>
+<p>Roquette).</p>
+<p><pb/></p>
+<p>Saint-Simon ne le traite pas avec plus de ménagements :</p>
+<p>A des gens de cette sorte, il ne faut pas demander la moindre dose de
+fidélité. Pour l'abbé Roquette, une cause vaincue ne devait inspirer que
+du mépris et de l'horreur ; victorieuse, elle était sacrée. Frondeur ou
+mazarin, partisan du roi ou des princes, il avait suivi tous les
+étendards, acclamé tous les succès, arboré toutes les couleurs. Sa
+soutane d'évêque n'était qu'un manteau d'arlequin.</p>
+<p>1. ANECDOTES DRAMATIQUES, tome II, p. 205. Guilleraques aurait pris
+comme collaborateur pour la confection de ce mémoire l'abbé de Choisy.</p>
+<p><pb/></p>
+<p>Dans une autre lettre (du 12 avril 1680) Mme de Sévigné parle de ce même
+personnage, qui venait de prêcher, aux Grandes Carmélites, avec beaucoup
+de succès, l'oraison funèbre de la duchesse de Longueville, morte le 15
+avril 1679 :</p>
+<p>« Ce n'était point Tartuffe, dit-elle, ce n'était point un patelin ;
+c'était un prélat de conséquence prêchant avec dignité... »</p>
+<p>Une amusante anecdote racontée, d'après un contemporain, d'Argenson,
+dans les MÉLANGES DE BoiS- JOURDAIN, prouverait, si elle est authentique
+(et elle semble bien l'être) que l'évêque d'Autun n'ignorait pas les
+surnoms et épithètes dont on le gratifiait et qu il ne les trouvait pas
+très agréables.</p>
+<p>1, Tome IV. p. 435.</p>
+<p><pb/></p>
+<p>Je le retrouverai plutôt dans Desmarets de Saint- Sorlin. Chez ce
+laïque, le côté religieux, important, décisif, se montre, s'étale et
+domine beaucoup plus que chez l'évêque d'Autun, qui était bien moins un
+hypocrite qu'un arriviste.</p>
+<p><pb/></p>
+<p>L'extrême vanité de l'auteur, un des traits principaux de son caractère,
+se révélait dans la préface de sa pièce, préface terminée par cette
+fière déclaration :</p>
+<p><pb/></p>
+<p>Ce n'est pas pour toi que j'écris,</p>
+<p>Indocte et stupide vulgaire.</p>
+<p>J'écris pour les nobles esprits,</p>
+<p>Je serais marri de te plaire.</p>
+<p><pb/></p>
+<p>tout sentiment d'honneur et de pudeur. Tartuffe ne procédait pas autrement.</p>
+<p>Dans le palais, hier, Bilain 1</p>
+<p>Voulait gager contre Ménage</p>
+<p>Qu'il était faux que Saint-Sorlin</p>
+<p>Contre Arnauld eût fait un ouvrage —</p>
+<p>Il en a fait, j'en sais le temps.</p>
+<p>Dit un des plus fameux libraires.</p>
+<p>Attendez, c est depuis vingt ans</p>
+<p>On en tira cent exemplaires —</p>
+<p>C'est beaucoup, dis-je en m'approchant,</p>
+<p>La pièce n'est pas si publique —</p>
+<p>1. L'avocat Vilain, disent toutes les éditions de Boileau, mais je crois
+que le poète a voulu désigner le libraire Billaine.</p>
+<p><pb/></p>
+<p>Il faut compter, dit le marchand,</p>
+<p>Tout est encor dans ma boutique.</p>
+<p>A plusieurs reprises, on avait enfermé Simon Morin dans une prison où on
+l'avait logé aux Petites Maisons, mais il connaissait un moyen
+infaillible d'en sortir :</p>
+<p><pb/></p>
+<p>l'abjuration de ses erreurs, une abjuration provisoire.</p>
+<p>Aux Petites Maisons il avait rencontré, dans un de ses séjours, un vieux
+fou qui se donnait pour le Père Éternel, et qui était par conséquent son
+père. Non seulement Simon Morin avait refusé de le reconnaître, mais la
+démence de son compagnon de captivité, qu'il jugea aussi ridicule que
+coupable, le corrigea quelque temps de la sienne.</p>
+<p>Les documents du temps l'appellent un misérable et ce n'était qu'un
+malheureux, — non pas un criminel qu'il fallait punir, mais un pauvre
+malade qu'on aurait dû soigner.</p>
+<p>Sa destinée voulut qu'il rencontrât sur sa route Des- marets de
+Saint-Sorlin qui, pendant plusieurs mois, affecta de se dire son ami
+pour le trahir plus sûrement.</p>
+<p>1. Des délits et des peines.</p>
+<p><pb/></p>
+<p>Quand on vint arrêter Simon Morin, il était en train de rédiger un
+manifeste qui commençait par ces mots : « Le Fils de l'Homme au roi de
+France... »</p>
+<p>Le poète-académicien, tombé dans la plus basse police, avait tué, on
+peut le dire, en le désignant aux juges, le malheureux Simon Morin. Il
+n'en éprouvait nul remords et se vantait au contraire d'avoir causé, en
+le dénonçant aussi, l'arrestation d'un autre sectaire, d ailleurs fort
+peu recommandable, Charpy de Sainte- Croix, dont nous allons avoir à
+reparler.</p>
+<p>Et cependant, il y avait Charpy de Sainte-Croix, qui fut lui aussi un
+Tartuffe, mais de qualité inférieure.</p>
+<p>1. En même temps que sa femme, dans laquelle s'était incarnée la Vierge
+Marie. Les documents du procès nous apprennent qu'il ne passait jamais
+devant elle sans se prosterner.</p>
+<p>2. C'est l'opinion de Michelet, et elle semble très justifiée.</p>
+<p><pb/></p>
+<p>Charpy de Sainte-Croix avait, dans son quartier, comme plus tard le
+diacre Pâris, la réputation d'un saint homme. Il marchait, les yeux
+baissés, très modeste, très humble, mâchonnant sans cesse quelque
+prière. Il fréquentait beaucoup les églises.</p>
+<p>2. Une Paraphrase (en vers) des lamentations de Jérémie.</p>
+<p>3. C était une vieille famille parisienne qui compta parmi ses membres
+l'helléniste d'Ansse de Villoison.</p>
+<p><pb/></p>
+<p>merveilleuse onction. On aurait dit un ange descendu du ciel, un ange
+vêtu d'une houppelande noire et chaussé de gros souliers.</p>
+<p>Charpy de Sainte-Croix finit par attraper (c'est l'expression dont se
+sert Tallemant des Réaux) un bon prieuré — l'abbaye de Sainte-Croix —
+dont il prit le nom.</p>
+<p>Dans un livre fort intéressant, publié en 1925, TARTUFFE ET SES AVATARS,
+M. Francis Baumal raconte la vie d'un certain Jacques Crétenet, dont il
+fait le prototype de Tartuffe.</p>
+<p>Crétenet, ancien barbier tombé dans la dévotion, et qui s'accusait
+d'être un pécheur et un ignorant, après</p>
+<p><pb/></p>
+<p>1. La thèse de M. Francis Baumal a été combattue par M. l'abbé Brémond
+qui, dans son HISTOIRE DU SENTIMENT RELIGIEUX EN FRANCE (tome VI)
+dépeint Crétenet comme un personnage plutôt sympathique, d'une piété non
+douteuse, et qui, pendant la peste de Lyon en 1628, montra un grand
+dévouement.</p>
+<p>2. V. la fine étude de M. Jacques Arnavon dans la Revue Hebdomadaire du
+10 janvier 1925 : Qui était Tartuffe et d'où venait-il ? Je m'en suis
+beaucoup servi dans ce dernier paragraphe.</p>
+<p><pb/></p>
+<p>pation, de ses distractions futures ce tableau peu enchanteur :</p>
+<p>Vous irez par le coche en sa petite ville</p>
+<p>Qu'en oncles et cousins vous trouverez fertile</p>
+<p>D abord chez le beau monde on vous fera venir, Vous irez visiter pour
+votre bienvenue</p>
+<p>Madame la Baillive 1 et Madame l'Elue,</p>
+<p>Qui d'un siège pliant vous feront honorer</p>
+<p>Là, dans le carnaval, vous pourrez espérer</p>
+<p>Tartuffe était donc originaire d'une petite ville (dans un pays d
+élections) pas trop petite, puisqu'elle possédait un bailli — juge de
+paix — et un élu — contrôleur des contributions — magistrats peu
+divertissants pour une jeune femme, surtout les élus « qui passent dans
+l'esprit de presque tout le monde pour des gens ignares », mais qui
+n'existaient que dans des villes ayant au moins l'importance de nos
+chefs-lieux de canton actuels.</p>
+<p>A cette petite ville on arrivait par le coche, et ce mot, employé par
+Dorine, voulait dire alors, généralement, le coche d'eau.</p>
+<p>1. Richelet remarque, dans son Dictionnaire, que « ce mot est burlesque
+» et qu il faut dire : la femme du bailli.</p>
+<p>2. On appelait grand bande les vingt-quatre violons du roi. (V. Castil-Blaze,
+ MOLIÈRE MUSICIEN. P., 1852, tome 1, p. 445.)</p>
+<p><pb/></p>
+<p>Quel rang social occupait la famille de Tartuffe ? Il se donnait comme
+gentilhomme, et rien ne nous empêche de croire qu'il l'était. Sans doute
+un de ces gentilshommes paysans dont le vieux manoir délabré décoré du
+nom de château, s'ornait d'une tour et d'un pigeonnier, avec des armes
+sculptées sur la principale porte : un sabre ébréché et une besace, et
+cette devise : Plus d'écu que d 'écus.</p>
+<p>1. A l'origine, c'était le nom d'un valet de charlatan, grand débitant
+de fagots, mensonges, boniments, comme Tabarin.</p>
+<p><pb/></p>
+<p>ne valait guère mieux que lui. Il prétendait que « son trop peu de soin
+des choses temporelles » l'avait livré sans défense aux manœuvres
+coupables de parents cupides. Il peut arriver qu'un coquin soit volé par
+d'autres coquins.</p>
+<p>Sans être complètement un pieux goujat, un « truand de sacristie »,
+comme l'appelle Jules Lemaître, il a des côtés grossiers. C'est un
+goinfre. Il mange trop et il mange mal. Sa cafardise exagère parfois
+l'obséquiosité.</p>
+<p>Ni truand de sacristie, comme l'ont représenté la plupart des acteurs
+chargés du rôle, ni rat d'église, rampante et gluante limace, comme le
+représente M. Grandval, tenant de l'un et de l'autre, pas trop ignoble
+(car on s'expliquerait mal l'engouement d'Orgon) un besogneux, un
+aventurier, avec de grands besoins, de grands appétits, d'argent et
+d'amour, avec une spécialité, l'exploitation de la religion, et avec un
+fond et un arrière-fond d'instinctive fourberie et de scélératesse, qui
+ne se déploient et ne s'épanouissent qu'au dernier moment.</p>
+<p>Voilà, croyons-nous, comment on peut se figurer</p>
+<p>Tartuffe.</p>
+<p>Molière ne restait pas enfermé dans son œuvre, comme un détenu dans sa
+prison. Cette œuvre même comportait une grande part d'observation et, par</p>
+<p><pb/></p>
+<p>C'est ainsi qu'on évite, au théâtre, la fabrication factice et stérile
+de personnages imaginaires, invraisemblables, impossibles, et qu'on
+crée, par un habile et fécond assemblage, par un heureux mélange
+d'observation, d'invention et de lecture, des caractères vivants et
+immortels.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>IV</p>
+<p>MOLIÈRE ET LES DÉVOTS</p>
+<p>1. C'est ainsi que l'appelle (et non Roullé ou Roulé) Taschereau, dans
+sa VIE DE MOLIÈRE. Le curé Roullès mourut en 1666 et, d'après le
+registre de la paroisse Saint-Barthélemy, il fut inhumé le vendredi 9
+juillet.</p>
+<p><pb/></p>
+<p>ramener dans la bonne voie les âmes égarées et indociles.</p>
+<p>1. Dans ses MÉMOIRES.</p>
+<p>2. Il ne faut pas la confondre avec la Compagnie du Saint-</p>
+<p>Sacrement, dont il sera parlé plus loin.</p>
+<p><pb/></p>
+<p>armé pour combattre les incrédules ou les injurier, faute de mieux.</p>
+<p>1. Le privilège de cet ouvrage est du 24 avril 1664. L'achevé
+d'imprimer, avec la partie supplémentaire ajoutée, est du 1er août.</p>
+<p>2. Il aurait aussi essayé, dit-on, de faire intervenir le légat du pape,
+Mgr Chigi, en lui remettant un exemplaire de son libelle. (V. Jules
+Loiseleur, LES POINTS OBSCURS DE LA VIE DE MOLIÈRE, P. 1877.) t</p>
+<p><pb/></p>
+<p>« Sa Majesté, disait-il, est maintenant en son château royal de
+Fontainebleau \ qu'elle a pris très grand soin elle -même qu il fut fait
+beau, délicieux, agréable, parfait et accompli de toutes parts, sans que
+rien n'y manque pour sa gloire, mais elle n'y est allée qu'après une
+action héroïque et royale, véritablement digne de la grandeur de son
+cœur et de sa piété et du respect qu'elle a pour Dieu et pour l'Église
+et qu'elle rend volontiers aux ministres employés de leur part pour
+conférer les grâces nécessaires au salut.</p>
+<p>1. Depuis le 16 mai jusqu'au 13 août.</p>
+<p><pb/></p>
+<p>1. Cette destruction fut si complète que très peu d'exemplaires — On
+n'en connaît que trois — purent y échapper. Celui qui fut</p>
+<p><pb/></p>
+<p>Le polémiste brutal, le fanatique exaspéré, l'aboyeur de confessionnal,
+avait dépassé le but. D 'autres, aussi intolérants mais plus habiles,
+avec des moyens plus sûrs, s'efforcèrent de l'atteindre.</p>
+<p>Sainte-Beuve a cru démêler chez Molière « un fond de religion sensée,
+modérée ». Quoiqu'il ne fut nullement dévot, « il ne devait rien avoir
+de cette forfanterie libertine et cynique des Saint-Amant, Boisrobert et
+Desbarreaux. »</p>
+<p>Tout cela ne prouve pas grand chose. Pratiquer n est pas toujours
+croire. Il s'agit de savoir si Molière, par sa situation, par le besoin
+qu'il avait de la protection du</p>
+<p>1. Molière et l'É,lii'.</p>
+<p><pb/></p>
+<p>Dans certains milieux, et je ne parle pas seulement des milieux dévots,
+on ne le considérait pas comme très pourvu de religion, de vraie
+religion. Un passage du NAUDŒANA et PATINIANA nous en fournit une preuve
+assez curieuse, entre bien d'autres :</p>
+<p>« Hesnaut (1 auteur du fameux sonnet de VAvorton)</p>
+<p><pb/></p>
+<p>Quoi qu il en soit, on peut, ce nous semble, admettre que Molière, sans
+se montrer ouvertement « libre- penseur », parce que l'époque où il
+vivait et sa situation trop dépendante le lui interdisaient, n'eut guère
+qu une religion de façade, comme bien d autres dans son temps et dans le
+nôtre.</p>
+<p>Voulut-il attaquer, dans son TARTUFFE, par des moyens détournés et avec
+des précautions qu'il jugeait</p>
+<p><pb/></p>
+<p>Il est vrai que des écrivains non moins nombreux — parmi lesquels
+Sainte-Beuve, Paul Bourget, Réné Doumic — ont soutenu l'opinion contraire.</p>
+<p>Entre les deux thèses, le lecteur choisira.</p>
+<p>La « cabale des dévots », Boileau a employé cette expression dans sa
+correspondance avec Brossette, et Molière lui-même, dans une des scènes
+du Festin de Pierre (acte V, scène II), fait expliquer par don Juan en
+quoi consistait cette pieuse association et le but qu elle se proposait :</p>
+<p><pb/></p>
+<p>Dans son Sganarelle ou Le Cocu imaginaire, dont la première
+représentation est du 22 mai 1660, il se</p>
+<p>1. La première représentation de Don Juan ou Le Festin de</p>
+<p>Pierre, est du 15 février 1665.</p>
+<p><pb/></p>
+<p>moquait d'un livre édifiant, remis en vogue par une édition récente (de
+1658) et qui était très recommandé aux fidèles par les directeurs de
+conscience, La GUIDE DES PÉCHEURS, de Louis de Grenade1 :</p>
+<p>Molière essaya de s'en défendre, mais, on doit le reconnaître, assez mal.</p>
+<p>Le poète Lysidas demande, dans la CRITIQUE DE</p>
+<p>L'ÉCOLE DES FEMMES, jouée le 1ER juin 1663 :</p>
+<p>Et le défenseur de la pièce, Dorante, répond :</p>
+<p>« Pour le discours moral que vous appelez un sermon, il est certain que
+de vrais dévots quil l'ont ouïe n'ont pas trouvé qu'il choquât ce que
+vous dites ; et sans doute que ces paroles d enfer et de chaudières
+bouillantes sont assez justifiées par l'extravagance d'Arnolphe et
+l'innocence d 'Agnès. »</p>
+<p>Opposer, chaque fois que la religion était ou semblait attaquée, à
+l'opinion certaine des faux dévots, l'opinion</p>
+<p>t. Dominicain espagnol qui mourut en 1588.</p>
+<p>2. Or, ce bon livre, recommande par les directeurs de conscience, avait
+été traduit pour Port-Royal.</p>
+<p><pb/></p>
+<p>présumée des dévots sincères, c'était vraiment trop facile.</p>
+<p>En réalité tous les dévots, faux ou sincères, s'accordaient sur deux
+points : la haine du théâtre, considéré comme un foyer de perdition, et
+le mépris pour les acteurs, qui résultait de cette haine que l'Église
+professait et ordonnait 1. Il fallait opter. On n'était pas un bon
+catholique, si on ne détestait pas le théâtre.</p>
+<p>En dépit de tous les fléchissements de la doctrine, de tous les
+fléchissements de la morale, Bossuet représentait, en face de ceux qui
+défendaient les spectacles, la vraie tradition chrétienne.</p>
+<p><pb/></p>
+<p>Ces confesseurs, ces directeurs de conscience ne montraient pas toujours
+les mêmes scrupules et ne se targuaient pas du même rigorisme. Il y en
+avait d'intraitables. Il y en avait aussi de très accommodants, la
+plupart des Jésuites par exemple.</p>
+<p>L'Ordre se recrutait généralement dans les classes élevées et cultivées.
+Il en gardait certaines habitudes, certaines prédilections, et notamment
+ce goût des spectacles que leur reprochaient les Jansénistes.</p>
+<p>Dans leurs collèges, les Jésuites donnaient des repré-</p>
+<p>sentations, et non pas seulement scolaires et-pédagç-</p>
+<p>TARTUFFE</p>
+<p>7 _::. i 1 i</p>
+<p><pb/></p>
+<p>giques 1. Ils donnaient même des ballets (sans femmes) et un des leurs,
+le père Menestrier, influencé sans doute par son nom, exposa savamment
+les règles de ses danses théâtrales et en raconta l'histoire. Ils
+finirent par admettre le public, un public payant, et leurs
+représentations coûtaient aussi cher que celles de la Comédie Française.</p>
+<p>Ces amateurs de spectacles étaient fiers, et ne s'en cachaient pas, de
+leur élève Corneille — comme plus tard de leur élève Voltaire, moins bon
+catholique. Pourquoi n'auraient-ils pas été fiers de leur élève Molière ?</p>
+<p>On objecte, il est vrai, un sermon de Bourdaloue 2, un sermon dont nous
+devons citer quelques lignes, les plus significatives, pour montrer ce
+que pensaient de TARTUFFE, non pas les Tartuffes, non pas, d'une manière
+générale, les Jésuites, mais beaucoup de dévots très sincères :</p>
+<p>1. La plupart des pièces du collège, au XVIIe siècle, étaient en latin.</p>
+<p><pb/></p>
+<p>On ne doit pas plus juger les Jésuites d après Bour- daloue que les
+Jansénistes d après Pascal. Ils les dépassent de toute la hauteur de
+leur vertu et de leur génie. Le saint prédicateur dont la vie fut une
+longue série de bonnes actions, et qui ne quittait la chaire que pour
+aller visiter les prisonniers et secourir les pauvres, se distinguait
+par la rigidité de sa morale. Il n'avait rien d'un casuiste complaisant
+et il condamnait le théâtre 1.</p>
+<p>Si Bourdaloue, non pas comme jésuite, mais comme orateur chrétien
+incapable de ménagements, se montrait sévère, et peut-être trop sévère
+pour l'auteur de TARTUFFE, en qui il voyait un ennemi de la religion,
+plusieurs de ses confrères lui rendaient plus de justice ou lui
+accordaient plus d'indulgence. Le père Rapin</p>
+<p><pb/></p>
+<p>disait : « C'est un des nôtres ». Le père Bouhours fit son épitaphe.</p>
+<p>Certains passages de la pièce semblent appuyer et confirmer cette thèse.</p>
+<p>Le ciel défend, de vrai, certains contentements Mais on trouve avec lui
+des accommodements</p>
+<p>Selon divers besoins, et c'est une science</p>
+<p>D'étendre les liens de notre conscience.</p>
+<p>Et plus loin :</p>
+<p>Le scandale du monde est ce qui fait l'offense</p>
+<p>Et ce n'est pas pêcher que pêcher en silence.</p>
+<p>Le péché que l'on cache est demi pardonné.</p>
+<p>Ce n'est pas de la morale jésuitique, c'est de la morale mondaine.</p>
+<p>Je ne crois pas que les Jésuites aient jamais beaucoup usé, même dans
+leurs propos, de cette haine</p>
+<p>1. Dans un des deux chapitres qu'il consacre au TARTUFFE dans son
+PORT-ROYAL.</p>
+<p>2. Du reste, plus loin, Sainte-Beuve remarque que « Tartuffe, tout
+d'abord... nous apparaît assez peu accommodant... Ce n'est plus, ce
+semble, le disciple de casuisme coulant, de la dévotion aisée. »</p>
+<p><pb/></p>
+<p>dont parle Tartuffe, avec componction et, en fait de discipline, ils ne
+devaient guère connaître que celle de leurs collèges.</p>
+<p>Les bons pères, aimables et conciliants, nullement sectaires en
+principe, savaient qu '*on ne prend pas les âmes avec du vinaigre et qu
+il ne faut ni brusquer les consciences trop fragiles ni décourager les
+vertus trop intermittentes. Sans cesse, ils faisaient la part du feu.
+Ils la faisaient un peu large.</p>
+<p>Ils s'accommodaient fort bien, nous l'avons vu, du théâtre, de ses
+pompes et de ses œuvres. C'était, pour Molière, directeur, auteur et
+acteur, leur principale qualité.</p>
+<p>Cette qualité, il ne la trouvait pas chez les Jansénistes.</p>
+<p><pb/></p>
+<p>Ils condamnaient l'amour. Ils condamnaient l'amitié ou, du moins, ils
+voulaient qu'on lui traçât ses limites, pour qu'elle ne détournât pas de
+Dieu ceux qui s'y livreraient avec trop de complaisance1. Ils
+condamnaient surtout les plaisirs, tous les plaisirs profanes.</p>
+<p>1. Orgon dit, en parlant de Tartuffe :</p>
+<p>De toute amitié il détache mon âme...</p>
+<p>Comparez Pascal : « ... Ils croient que Dieu est seul digne d'être aimé,
+et ont désiré d'être aimés et admirés des hommes, et ils ne connaissent
+pas leur corruption... » (PENsÍIS).</p>
+<p><pb/></p>
+<p>théâtre, l'indulgence extrême avec laquelle ils regardaient tout ce qui
+concernait la comédie et les comédiens devaient presque provoquer
+naturellement de la part des Jansénistes des sentiments tout différents
+et leur faire entreprendre une campagne en règle contre l'art dramatique
+1. »</p>
+<p>Au cours d'une polémique soulevée par des attaques de Desmarets de
+Saint-Sorlin, contre ces messieurs de Port-Royal, ceux-ci, par la plume
+de Nicole 2, ripostèrent violemment, en traitant les poètes, les
+romanciers et les auteurs dramatiques « d'empoisonneurs publics non des
+corps mais des âmes. »</p>
+<p>Racine prit sa part de cette injure et se crut obligé d'y répondre :</p>
+<p>« Nous connaissons, dit-il, l'austérité de votre morale ; nous ne
+trouvons pas étrange que vous damniez les poètes, vous en damnez bien
+d'autres qu'eux ; ce qui nous surprend, c'est de voir que vous voulez
+empêcher les hommes de les honorer. Eh ! messieurs, contentez- vous de
+donner des rangs dans l'autre monde, ne réglez pas les récompenses de
+celui-ci ; vous l avez quitté, il y a longtemps ; laissez-le juge des
+choses qui lui appartiennent. Plaignez-le, si vous voulez, d'aimer des
+af J'oefimof ronv nui loe fnnf maie r-io IDIIT*</p>
+<p>1. Gaston Maugras, LES COMÉDIENS HORS LA LOI. P., 1887, p. 113.</p>
+<p><pb/></p>
+<p>enviez point de misérables honneurs auxquels vous avez renoncé 1. »</p>
+<p>Nicole publia peu de temps après son TRAITÉ DE LA COMÉDIE, dans lequel
+il reproduisit et accentua ses attaques contre le théâtre : « La
+comédie, affirmait-il, est une école et un exercice de vice... Le métier
+de comédien est un emploi indigne d'un chrétien, ceux qui l'exercent
+sont obligés de le quitter... cette profession est contraire au
+christianisme... »</p>
+<p>Ce traité ou plutôt ce pamphlet devait être suivi, en 1667, par un
+ouvrage de mêmes tendances, publié par un autre Janséniste, et de
+marque, Armand de Bourbon, prince de Conti : TRAITÉ DE LA COMÉDIE ET DES
+SPECTACLES SELON LA TRADITION DE L'ÉGLISE TIRÉE DES CONCILES ET DES
+SAINTS PÈRES 2.</p>
+<p>Entre les Jésuites, favorables au théâtre, et les Jansénistes, qui le
+déclaraient pernicieux, où devaient aller les préférences et les
+sympathies de Molière ?</p>
+<p>2. Cet ouvrage parut sans nom d auteur chez Billaine. Le prince de Conti
+ne le signa pas et il ne passait pas pour très capable de l'avoir écrit
+lui-même.</p>
+<p><pb/></p>
+<p>L'influence anti-libérale, anti-littéraire, de Port- Royal trouvait,
+pour s'exercer et pour se satisfaire, d'autres moyens, d'autres
+ressources que des livres injurieusement orthodoxes et pieusement
+ennuyeux. Port-Royal avait ses prédicateurs. Il avait ses directeurs de
+conscience.</p>
+<p>1. C. Gaillardin, HISTOIRE DE Louis XIV, tome I, p. 315.</p>
+<p>2. Citée par Sainte-Beuve, dans son PORT ROYAL.</p>
+<p><pb/></p>
+<p>Leur livre de messe, manuscrit, vêtu de noir, sortait de l'officine de
+Port-Royal.</p>
+<p>Dans cette collection de dévotes titrées, Mmes de Sablé et de Guémenée
+étaient les « fondatrices du Jansénisme », la duchesse de Longueville et
+la princesse de Conti les « mères de l'Église ». Ainsi les avait
+surnommées le duc de La Rochefoucauld, avec plus d'ironie que d'admiration.</p>
+<p>En somme, sincère ou simulée, féminine ou masculine, représentée par
+Arsinoé ou Mme Pernelle, par Orgon ou Tartuffe, la dévotion, au XVIIE
+siècle, a été surtout janséniste.</p>
+<p>Mais il faut s'entendre sur ce mot et en bien saisir les nuances.</p>
+<p>perd dans son entretien, peut-être lui serait-il donné pour toujours d'y
+renoncer. » (LA BRUYÈRE, dans le chapitre des Femmes.)</p>
+<p>Henry Becque est d'avis que « Molière a traîné sur la scène et exposé en
+plein théâtre le directeur de conscience ». (Étude sur Tartuffe, dans la
+Revue parisienne du 25 janvier 1894.)</p>
+<p>1. Mémoires de Mme de Motteville.</p>
+<p><pb/></p>
+<p>Par suite de l'influence profonde exercée par les solitaires de
+Port-Royal et aussi du mouvement de réaction contre l'indifférence
+religieuse et le relâchement des mœurs, Paris et la province s'étaient
+remplis de dévots très rigoristes, au moins en théorie, lesquels, sans
+adopter le plus souvent les doctrines des Jansénistes, s'efforçaient de
+se rapprocher de leur morale. On les appelait également des Jansénistes,
+quoiqu'ils ne le fussent que par un certain côté.</p>
+<p>1. DICTIONNAIRE DE TRÉVOUX.</p>
+<p><pb/></p>
+<p>Les statuts, rédigés en 1630, indiquaient et précisaient les buts
+auxquels tendait l'association, les résultats qu elle espérait atteindre :</p>
+<p><pb/></p>
+<p>l'autre en 1671 \ écrivirent contre les spectacles.</p>
+<p>1. LA DÉFENSE DU TRAITÉ DE M. LE PRINCE DE CONTI, TOUCHANT LA COMÉDIE ET
+LES SPECTACLES, OU LA RÉFUTATION D'UN LIVRE (DE L'ABBÉ D'AUBIBNAC)
+INTITULÉ : DISSERTATION SUR LA CONDAMNATION DES THÉÂTRES, par le sieur
+de Voisin. Paris, Coignard, 1671, in-4°.</p>
+<p>2. « Les historiens les moins suspects de complaisance pour la compagnie
+du Saint-Sacrement proclament hautement la noblesse de ses intentions et
+le bien qu'elle en fait. » G. Michaut, LES LUTTES DE MOLIÈRE..., p. 36.</p>
+<p><pb/></p>
+<p>et les prisonniers — elle effrayait non seulement les pouvoirs publics
+mais aussi l'Église. L'Archevêque de Paris, François de Gondi *, avait
+refusé obstinément son autorisation. Comment ne pas se défier de ce qui
+se dérobe aux regards ?</p>
+<p>Des divisions s'étaient produites, causées surtout par le Jansénisme
+auquel s'étaient ralliés certains membres et que les autres condamnaient
+2. Il y eût des désertions, des expulsions. Ceux qui restaient, et qui
+se signalèrent trop souvent par l'excès de leur zèle, les dissidents
+leur reprochèrent le secret dont ils s'enveloppaient et les appelèrent
+les Invisibles.</p>
+<p>1. Jean-François de Gondi, qui fut le premier archevêque de</p>
+<p>Paris, mourut en 1654.</p>
+<p>Argentan, en 1660), des manifestations contre les Jansénistes.</p>
+<p><pb/></p>
+<p>Les honnêtes gens y abondaient, mais, comme il arrive pour tous ou
+presque tous les groupements, elle se laissait de plus en plus envahir
+et dominer par des éléments mauvais ou médiocres, des profiteurs, des
+ambitieux, des hypocrites.</p>
+<p>Il s'y était produit ce qui, deux siècles plus tard, se produira pour la
+Congrégation, et ce qui, dans des sociétés du même genre et, d'ailleurs,
+dans d'autres sociétés très différentes par leur but et leur
+composition, n'a pas cessé de se produire.</p>
+<p>On y entrait pour en tirer parti, pour y obtenir des appuis ou des
+secours, pour cacher son jeu, et se donner des airs de vertu et de
+respectabilité. A côté des dévots sincères, on peut croire que les faux
+dévots, les Tartuffes n'y manquaient pas — mais n'oublions pas qu'il y a
+des Tartuffes de tous les genres, de toutes les couleurs, et que Démos
+est lui aussi un Orgon qu'on flatte et qu'on exploite.</p>
+<p>En 1877, parut un livre qui fit quelque bruit dans le monde des
+Moliéristes, LE TARTUFFE PAR ORDRE DE</p>
+<p><pb/></p>
+<p>Louis XIV, LE VÉRITABLE PROTOTYPE DE L'IMPOSTEUR.</p>
+<p>L auteur, Louis Lacour, affirmait que Louis XIV lui-même avait indiqué à
+Molière le sujet de son TARTUFFE et l'avait en quelque sorte lâché
+contre les Jansénistes, qu'il n'aimait guère.</p>
+<p>Cette thèse, adoptée par Paul Lacroix 1, n'était pas nouvelle. Elle
+n'était qu'oubliée.</p>
+<p>En 1847, un érudit, Pierre Varin, avait publié un ouvrage en deux
+volumes intitulé LA VÉRITÉ SUR LES ARNAULD COMPLÉTÉE A L'AIDE DE LEUR
+CORRESPONDANCE INÉDITE. Dans le premier volume, une trentaine de pages,
+très curieuses, étaient consacrées au TARTUFFE et l'auteur mettait en
+regard, confrontait le rôle de l'Hypocrite et certains passages de la
+correspondance d'Arnauld d'Andilly.</p>
+<p>« C'est le plus ardent et le plus brusque des humains, raconte Tallemant
+des Réaux dans une de ses HISTORIETTES... Je ne sais si c est pour se
+consoler de son veuvage, mais il allait voir des femmes et les
+embrassait charitablement un gros quart d'heure. Je ne saurais</p>
+<p>1. V. le Moliériste du 1er mars 1882. Maurice Donnay, dans ses
+conférences sur Molière, semble avoir partagé cette opinion : « Lorsque,
+dit-il, les trois premiers actes de la comédie furent représentés à
+Versailles, en 1664, Tartuffe avait été vêtu de ce costume mi-laïque,
+mi-religieux qu'avaient adopté les solitaires de Port-Royal : grand
+chapeau, petit collet, pourpoint sombre... »</p>
+<p><pb/></p>
+<p>comment appeler cela, mais si c'est dévotion, c'est une dévotion qui
+aime les belles personnes. »</p>
+<p>On disait de son temps, mais pas trop haut, que</p>
+<p>Mme de Sablé était ou avait été son Elmire.</p>
+<p>1. Racine répondant aux deux jansénistes Dubois et Barbier d'Aucourt,
+écrivait : « On nous avait dit que les Jésuites étaient joués dans cette
+comédie ; les Jésuites au contraire se flattaient qu'on en voulait aux
+Jansénistes. »</p>
+<p>2. Rien n'est plus faux ni moins vraisemblable.</p>
+<p><pb/></p>
+<p>Les passages de la pièce qui peuvent se rapporter aux Jansénistes
+proprement dits ne sont ni moins nombreux ni moins significatifs que
+ceux qu'on a relevés contre les Jésuites.</p>
+<p>C'est le dévot qu'on pourrait appeler professionnel.</p>
+<p>Ce dévot, qui essayait de tromper Dieu, comme il trompait les hommes,
+n'avait qu'un but : séduire les esprits faibles, diriger les vieillards,
+les femmes ou les filles, se glisser dans les familles riches pour les
+dominer et les exploiter, voler des secrets intimes, capter des testaments.</p>
+<p><pb/></p>
+<p>Un Janséniste, presque un saint (quoi qu'il s'en défendît) et, tout
+simplement, un coquin et, de tous les coquins, le plus dangereux, le
+plus répugnant.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>V</p>
+<p>LES « VISITES » DE TARTUFFE</p>
+<p><pb/></p>
+<p>Mobilier pour les comédiens.. 437 livres 10 sols Indemnité aux comédiens
+2000</p>
+<p>Le 31 juillet, la troupe donna la tragédie d'OTHON, de Corneille, une
+nouveauté qui ne réussit guère, et, le 3 août, l'ŒuiPE (1659), du même
+auteur, qui ne réussit pas beaucoup mieux. Le 30 juillet, elle avait
+donné la PRINCESSE D'EuDE, devant un important personange qui va avoir
+son rôle, épisodique, dans la comédie qui se joua autour de la comédie
+de Molière.</p>
+<p>de neuf cents habits de bon compte.</p>
+<p>Meaux. 1873. D. 16.</p>
+<p><pb/></p>
+<p>D'après la Chronologie de Molière, de Jean Monval, ce fut le 4 août
+qu'eut lieu dans les appartements particuliers de l'Eminentissime la
+lecture de TARTUFFE, très humblement sollicitée par l'auteur, car il y
+avait alors une très grande distance entre un comédien et un cardinal,
+même ultramontain.</p>
+<p><pb/></p>
+<p>Le légat jugeait-il, comme beaucoup d'ecclésiastiques, en France ou en
+Italie, cet abus condamnable et ce danger pressant, et par suite
+l'avertissement de Molière, digne d'être encouragé ? C est très
+possible. Je crois plutôt qu'il se laissa influencer, en bon Italien
+qu'il était, amateur de farces et de joyeusetés (comme Léon X, pour ne
+citer que celui-là), par les côtés comiques de la pièce, et que
+l'ignorance — relative — des finesses de notre langue l'empêcha de voir
+et de saisir, en plus d'un passage, les audaces de la pensée sous les
+réserves du style.</p>
+<p><pb/></p>
+<p>Seuls comptaient, au XVIIE siècle, en matière théâtrale, le suffrage des
+grands seigneurs, des gens de cour, et un peu aussi, beaucoup moins,
+celui des gens de lettres, presque tous domestiqués. C'était dans
+l'entourage du roi, dans sa famille, et dans le monde des courtisans,
+des familiers de Versailles, qu'il importait de se procurer des appuis.
+Par bonheur pour Molière, ces appuis, plus précieux qu'éclairés en
+général, ne lui manquèrent pas.</p>
+<p><pb/></p>
+<p>Cet usage des (c visites » datait, d'ailleurs, de longtemps, très
+avantageux pour les directeurs et les comé.diens, dont il augmentait,
+dans de sérieuses proportions les bénéfices plus ou moins aléatoires</p>
+<p>1. « Le 15 avril 1659, note le registre de La Grange, la troupe a
+recommencé ses représentations par une visite au château de Chilly, à
+quatre lieues de Paris, où monseigneur le grand maître (Armand- Chai les
+de La Mi/ilh raye duc de Mazarin) donnait en régal au roy ; la troupe
+joua le Dépit amoureux et reçut 400 livres. » Quelques années plus tard,
+les chiffres furent considérablement augmentés.</p>
+<p><pb/></p>
+<p>Molière avec Tartuffe y doit jouer son rôle.</p>
+<p>Boileau, dans l'édition de 1701, ajoutait cette note explicative : «
+Tartuffe, en ce temps-là, avait été défendu et tout le monde voulait
+avoir Molière pour le lui entendre réciter. »</p>
+<p>Tout le monde voulait l'avoir mais ils se serait bien gardé de se
+montrer, infortuné convive, chez le personnage obscur et négligeable que
+nous décrit Boileau, pour y lire, au dessert, sa pièce. C'eut été jeter
+sa poudre aux moineaux. Il n'allait que chez des gens capables
+d'apprécier son œuvre et de servir ses projets.</p>
+<p>Ainsi, il lut TARTUFFE, probablement pendant l'automne de 1664 — on
+ignore la date précise — chez un magistrat très connu, le maître des
+requêtes Louis Hubert de Montmor, dans la maison duquel était mort, en
+16A Gassendi. Ménage — le Vadius des Femmes savantes — était là, avec
+d'autres écrivains, et il le rappelait plus tard dans une conversation
+recueillie et publiée dans le MÉNAGIANA 1.</p>
+<p>1. 2e éd. P., 1694, tome 1, p. 43 (La lre édition est de 1693).</p>
+<p>2. C'était l'opinion générale.</p>
+<p><pb/></p>
+<p>« Nous alons aujourd'huy passer cinq ou six jours au Rincy avec toute la
+famille ; pour tenir compagnie à</p>
+<p><pb/></p>
+<p>Elle vivait dans son magnifique domaine du Raincy, comme dans un palais
+enchanté.</p>
+<p>Sur l'emplacement d'une ancienne abbaye de Bénédictins, un intendant des
+finances, Jacques Bordier, avec</p>
+<p><pb/></p>
+<p>les bénéfices de sa charge ou le produit de ses vols, avait fait
+construire par l'architecte Le Vau, un splendide château qui lui coûta,
+jardins compris, près de cinq millions de livres.</p>
+<p>A la mort de Jacques Bordier, la princesse Palatine avait acheté le
+château de Raincy, et ce fut là, dans ce magnifique cadre, que Molière,
+le 29 novembre 1664, joua son TARTUFFE.</p>
+<p>Mais quel TARTUFFE ? celui qui n'avait que trois actes, ou celui qui en
+avait cinq ?</p>
+<p><pb/></p>
+<p>Et ce qu'il faut luy recommander particulièrement c est de n'en parler à
+personne et l'on ne veut point que l'on le scache devant que cela soit
+faict.</p>
+<p>Vous estes un homme vigilant et actif. Je scay bien que l'on peut se
+reposer sur vous. Je vous prie de n'y pas manquer et de me faire scavoir
+la response de Molière.</p>
+<p>HENRY-JULES DE BOURBON. »</p>
+<p>1. Intendant du prince de Condé.</p>
+<p><pb/></p>
+<p>Il résulte également de cette lettre ou il paraît en résulter que le
+prince de Condé jugea ce quatrième acte,</p>
+<p>1. C'est l'opinion de Regnier, qui l'exposa avec beaucoup de logique, et
+elle fut adoptée par Georges Monval et Louis Moland. (V. Moliériste, n°
+du 1er octobre et du 1er novembre 1881).</p>
+<p><pb/></p>
+<p>La somme fut exactement payée, ce qui n'arrivait pas toujours. « La
+troupe, constate le registre de La Grange, reçut 1.100 livres pour la
+visite au château de la princesse Palatine. »</p>
+<p>Dans l'intervalle, en 1666, la reine Christine de Suède, alors fixée à
+Rome et qui y avait un petit théâtre, fit écrire par son bibliothécaire
+au secrétaire d'État des Affaires étrangères, Hugues de Lionne, pour
+obtenir</p>
+<p>1. Il y avait un autre Molière ou Molier, le maître de ballets, musicien
+ordinaire de la chambre du roi, et ils parurent tous les deux aux fêtes
+de Versailles en 1664, dans les Plaisirs ou l'île enchantée.</p>
+<p><pb/></p>
+<p>par son entremise une copie de Tartuffe, qu'elle désirait faire
+représenter.</p>
+<p>Le 26 février, Hugues de Lionne, répondit par une lettre curieuse, où se
+trouvent quelques erreurs, et qui est une véritable fin de non recevoir.</p>
+<p><pb/></p>
+<p>VI</p>
+<p>LA DEUXIÈME REPRÉSENTATION</p>
+<p>ET LA DEUXIÈME INTERDICTION</p>
+<p>Au XVIIe et au XVIIIe siècle, les guerres, sans être toujours des
+promenades militaires et d'héroïques divertissements, n'avaient lieu en
+général que pendant la belle saison. Dès les premiers frimas, les
+troupes prenaient leurs quartiers d'hiver et, dans des garnisons plus ou
+moins agréables, se reposaient sur leurs lauriers.</p>
+<p>Ce désert parisien avait encore des théâtres, mais ces théâtres
+n'avaient presque plus de spectateurs, et, comme les autres directeurs,
+ses confrères, Molière ne s'en aperçut que trop.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>et les acteurs échangeaient pour rien leurs tirades ou leurs bons mots.</p>
+<p>Ce jour-là, le 5 août 1667, date mémorable, la receveuse du Théâtre du
+Palais-Royal, Meile de Lestang, inscrivit sur son registre — avec quelle
+joie, avec quel</p>
+<p>1. Publié pour la première fois, en 1666, chez Nicolas le Gras. Le
+privilège est du 30 décembre 1665, et l'achevé d'imprimer du 10 janvier
+1666.</p>
+<p><pb/></p>
+<p>orgueil, on s'en doute — ce chiffre vengeur : dix-huit cent
+quatre-vingt-dix livres.</p>
+<p>Le pla 'ond « en perspective » représentait des colonnes corinthiennes
+qui semblaient porter et porter très haut une voûte, où flottaient des
+nuages.</p>
+<p>Royal. Anne d'Autriche vint s'y installer le 7 octobre 1643.</p>
+<p><pb/></p>
+<p>Tout de bois, de pierre et de plâtre</p>
+<p>Qu'ils avaient au Petit Bourbon.</p>
+<p>Évidemment, Te surintendant des bâtiments du roi n'avait pas cru devoir
+se gêner vis-à-vis de simples comédiens, « cancres, hères et pauvres
+diables », mais ils prirent très mal la chose. Ils allèrent se plaindre
+au Roi de cette « méchante intention », de ce procédé blessant, et, sur
+la demande de leur protecteur, Gaston d 'Orléans, on leur accorda, en
+remplacement et en compensation, la salle du Palais Royal 1, depuis
+long- temps désaffectée.</p>
+<p>Le sieur de Ratabon fut chargé de la remettre en état et elle en avait
+grand besoin. Trois poutres de la charpente étaient pourries 2,1
+l'intérieur, gradins et boiseries, était en ruines.</p>
+<p>La troupe fit apporter les loges du Petit Bourbon,</p>
+<p>2. On avait employé pour cette charpente 8 chênes de près de 40 mètres,
+cherchés dans toutes les forêts du royaume et qu'on n'avait pu trouver
+que dans celles du Bourbonnais. Le transport de ces 8 chênes avait coûté
+huit mille livres.</p>
+<p><pb/></p>
+<p>Le 4 février 1661, le Théâtre du Palais Royal, restauré, rajeuni, ouvrit
+avec DON GARCIE DE NAVARRE ou LE PRINCE JALOUX, une des plus mauvaises
+pièces de Molière, une erreur de son génie.</p>
+<p>1. Elle pouvait cependant contenir un millier de personnes.</p>
+<p><pb/></p>
+<p>Venez en foule, apportez tous</p>
+<p>Dans le parterre quinze sous,</p>
+<p>Cent dix sous dans les galeries...</p>
+<p>Le spectacle commençait, toujours chandelles allumées, avant le dîner,
+entre trois et quatre heures, pour se terminer entre sept et huit,
+quelquefois plus tard.</p>
+<p>Ce fut donc sur cette scène du Palais-Royal que parut pour la première
+fois, le 5 août 1667, devant un public parisien, Tartuffe transformé en
+Panulphe et, pour les besoins de la cause, sécularisé.</p>
+<p>Orgon, le principal personnage de ce drame tourné en comédie, la dupe
+butée et raisonneuse, c était Molière lui-même.</p>
+<p>Le beau-frère d'Orgon, Cléante, qui représentait la morale mondaine,
+dans ce qu'elle a de plus épuré, et la religion, dans ce qu'elle a de
+moins agressif, c était un des meilleurs acteurs de la troupe, un ancien
+capitaine au régiment de Lorraine, qui appartenait au théâtre du Palais
+Royal depuis le 10 juin 1652 et y rendait les</p>
+<p><pb/></p>
+<p>plus grands services, François le Noir, sieur de la Thorillière.</p>
+<p>La Grange fut un excellent Cléante et qu'on eût beaucoup de peine à
+remplacer.</p>
+<p><pb/></p>
+<p>avec un très grand nez qui, sortant d'une longue figure maigre, a l'air
+d'une aiguille de cadran solaire. La nature l avait comblé de ses
+grâces. Il était aussi désagréable que laid, mauvais coucheur, toujours
+en guerre contre le genre humain et, particulièrement contre le genre
+théâtral, amer, atrabilaire, mécontent de tout sauf de lui-même et
+cuirassé de piquants comme un hérisson. Ses camarades, son directeur ne
+l'aimaient guère. Dans l'ECOLE DES FEMMES, où il jouait le rôle du
+notaire, Arnolphe (Molière) s'écartait de lui en disant :</p>
+<p>La peste soit de l'homme et de sa chienne de face !</p>
+<p><pb/></p>
+<p>L'ÉCOLE DES FEMMES — ces rôles de jeunes femmes et de jeunes filles,
+qu'on lui réservait comme un monopole ou un privilège, et pour lesquels
+elle semblait née.</p>
+<p>Du rôle de Mariane, un peu factice et indécis, on doit le reconnaître,
+Mhe De Brie sut dégager tout le charme qu'il pouvait contenir.</p>
+<p>Sœur aînée d'Armande et bien plus âgée qu'elle, Madeleine Béjart,
+spécialisée dans les rôles de soubrette, fut une Dorine un peu marquée
+mais très vivante et pleine de naturel.</p>
+<p><pb/></p>
+<p>« Dorine, dans le Ta,-Itjfe, dit-il, doit se conformer au goût du jour.
+Du temps de Molière, il existait dans les mots une sorte de liberté qui,
+n'effarouchant pas les oreilles, ne demandait alors aucun adoucissement.
+Devenus plus délicats, nous ne trouvons aujourd'hui rien de comique dans
+ces expressions ; au contraire, elles nous choquent. L'actrice doit donc
+adoucir, par sa diction, la liberté de langage dans certains endroits,
+au lieu de les faire ressortir. C'est ce qu'on appelle connaître les
+convenances. »</p>
+<p>Le rôle de Mme Pernelle, tenu presque toujours, au XVIIe siècle, par un
+homme \ était généralement poussé</p>
+<p><pb/></p>
+<p>Molière avait dans sa troupe, depuis 1659, un ancien acteur de campagne,
+un hobereau de la Beauce, Philibert Gassot (et non Gassaud) de Croisy,
+lequel, au cours d'une de ses tournées, avait épousé Marie Claveau,
+veuve de Nicolas de l'École, sieur de Saint-Maurice. Tous deux, le mari
+et la femme, végétaient en province lorsque Molière les connut et les
+recueillit.</p>
+<p>Tartuffe est un personnage de drame, avec des fai-</p>
+<p><pb/></p>
+<p>blesses, avec des défauts de cuirasse qui, assez souvent, le rendent
+comique. Jules Lemaître l'appelle, nous l avons vu, un « goinfre », un «
+truand de sacristie ». Tel il apparut sans doute, plus ridicule
+qu'effrayant, dans l'interprétation de De Croisy et c'était, croyonsnous,
+ ce que voulait Molière et ce que demandait le public.</p>
+<p>Cette manière de jouer, en faisant de l'hypocrite, de l'imposteur, un
+voluptueux déchaîné, choquait le public beaucoup moins qu'Elmire, et
+Grimod de la Reynière, qui avait vu tenir le rôle par des acteurs</p>
+<p><pb/></p>
+<p>Or, c'est une entreprise que le public n'accompagnera pas, car le public
+d'aujourd'hui veut être amusé par Tartuffe, et je le crois plus fait
+pour gêner que pour réjouir le cœur. »</p>
+<p>Sans doute, si le public réfléchissait un instant, il trouverait
+beaucoup moins comique, malgré son robuste appétit et ses échecs
+passionnels, ce personnage qui est un coquin de la plus dangereuse
+espèce, mais, de tout temps, le public a mieux aimé rire que réfléchir.</p>
+<p>Préville estimait qu'on avait tort de rendre Tartuffe trop amusant, et
+qu'on faussait ainsi son caractère de bête de proie, un autre acteur,
+d'un esprit très fin, et</p>
+<p>1. Moliériste, n° du 1 er octobre 1881.</p>
+<p><pb/></p>
+<p>qui raisonnait très bien sur son art, Perlet, estimait, et avec raison,
+qu'on s'écartait également de la vérité et de la vraisemblance en le
+présentant avec une expression, des attitudes et des gestes d'hypocrisie
+trop prononcée, trop visible, trop révélatrice, et dont personne, même
+un Orgon, ne pourrait être dupe 1.</p>
+<p>1. DE L'INFLUENCE DES MŒURS SUR LA COMÉDIE. P., 1848. — Perlet avait
+débuté le 4 octobre 1815 au Théâtre FrançaM, dont il fut un des
+meilleurs acteurs. Talma l'appréciait beaucoup : « L'acteur, disait-il,
+doué de l'intelligence la plus rare, du tact le plus exquis, le plus
+vrai, runique en Europe, c'est Perlet. 1</p>
+<p>2. Il en avait renouvelé certains effets. Ainsi, affectant de ne pouvoir
+surmonter son émotion et sa douleur au moment où Damis, qui l'avait
+accusé, venait d'être chassé par son père, il sanglotait dans son
+mouchoir. (Scène VII du troisième acte).</p>
+<p><pb/></p>
+<p>scènes d'amour qui forment presque tout le rôle, le nombre de vers
+relativement restreint qui le composent, tout cela rend le travail de
+l'acteur singulièrement malaisé. Comment, avec si peu de matière,
+réaliser les divers aspects de cette multiple et ondoyante figure.</p>
+<p>Et d'abord, il faut distinguer les époques. Tartuffe est de 1664. Les
+vices aimables et les plaisirs délicats exerçaient alors un empire
+contre lequel luttaient vainement quelques rigoristes, peu écoutés et
+suspects. Le portrait d 'Onuphre parut pour la première fois dans la 6e
+édition des Car idères, en 1691, et La Bruyère avait</p>
+<p>1. Les clefs désignent l'abbé du Pin, docteur en Sorbonne, et M. de
+Mauroy, curé des Invalides, mais celui-ci, quand parut le portrait
+d'Onuphre, n'était ni classé ni connu comme hypocrite.</p>
+<p><pb/></p>
+<p>Si quelque écrivain, par hasard, se proposait de le prendre comme sujet
+et comme type, le livre lui offrait d'autres ressources que la scène.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>testable que la danation d'Orgon, telle que Molière l'a imaginée, pour
+terminer sa pièce, n'est pas valable au point de vue légal1.</p>
+<p>« Le lendemain (du 5 août), un huissier de la cour du Parlement est venu
+de la part du premier président M. de La Moignon, deffendre la pièce. »</p>
+<p>En marge il avait tracé un petit rond divisé en deux parties, l'une
+teintée en bleu, l'autre en noir : ce qui signifiait sans doute : Heur
+et malheur... après le beau temps, la pluie. D'une ligne horizontale, au
+bas du cercle, se détachaient trois traits verticaux radiés. On a</p>
+<p>1. Charles Livet a longuement expliqué cela dans son excellente édition
+classique du TARTUFFE.</p>
+<p><pb/></p>
+<p>supposé qu'ils voulaient représenter les chandelles allumées — qui
+devaient si vite s'éteindre.</p>
+<p>Tous n'étaient pas des hypocrites ou des envieux. Il y en avait de très
+sincères. Le président de Lamoi- gnon était de ceux-là. Il passait pour
+un très honnête homme et un très consciencieux magistrat, d'une
+intégrité, d'une dignité de vie inattaquables, mais il avait, lui aussi,
+la tare janséniste, et il poussait la dévotion jusqu'au plus étroit
+bigotisme. Chargé de la direction de la police pendant l'absence du roi,
+il crut que son devoir de magistrat et de chrétien lui commandait
+d'interdire une pièce qui risquait de provoquer un scandale, de soulever
+des discussions dangereuses, et qui, d'ailleurs, blessait ses sentiments
+les plus intimes. Pour le juger équitablement, il faut tenir compte de 1
+époque, du milieu, de l'importance qu'on attribuait alors aux questions
+religieuses, des nécessités politiques et gouvernementales.</p>
+<p>Napoléon, dans une de ses conversations de Sainte-</p>
+<p>1. L'anecdote d'après laquelle Molière venant faire une annonce au
+public, le 6 août, aurait dit : « Le TARTUFFE ne sera pas représenté. M.
+le premier président ne veut pas qu'on le joue J, cette anecdote, si
+souvent reproduite, est controuvée,</p>
+<p><pb/></p>
+<p>Hélène, « disait que si on l'avait fait (TARTUFFE) de son temps, il
+n'aurait pas permis qu'on le jouât »</p>
+<p>Rappelons-nous l'interdiction de THERMIDOR, imposée au Gouvernement par
+les dévots de la Révolution, non moins fanatiques que les autres.</p>
+<p>La GAZETTE DE FRANCE ne souffla mot. Elle rayait Molière de ses papiers.
+Molière, pour elle, n'existait pas.</p>
+<p>Le 6 août, samedi, parut ce numéro remanié au</p>
+<p>dernier moment. Robinet le commençait ainsi :</p>
+<p>Je fis le 4 août ces historiques pages</p>
+<p>1. MÉMORIAL DE SAINTE-HÉLÈNE.</p>
+<p>2. Il n'y eut pas, quoiqu'on ait dit le contraire, d affiches annon-</p>
+<p>çant la deuxième représentation,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Vous avez encor dans l'esprit,</p>
+<p>Toutes les choses qu'il vous dit</p>
+<p>Il occupe encor vos oreilles</p>
+<p>Depuis le dernier jour qu'il vous raisonna tant.</p>
+<p>Madame n'osa pas insister. Elle craignit de se compromettre. Elle eut
+peur de cette cabale des dévots qui effrayait même le Roi.</p>
+<p>Et Molière comprit qu'il ne pouvait plus compter que sur lui-même.</p>
+<p><pb/></p>
+<p>Dès le début, Lamoignon déclara que la décision définitive appartenait
+au roi et qu'il fallait attendre son retour.</p>
+<p>Molière essaya de plaider sa cause, mais il était si ému, si troublé par
+la froideur courtoise de l'accueil qu'il ne put que balbutier quelques
+mots.</p>
+<p>Après l'autorité civile, inflexible, l'Église avait pro-</p>
+<p>1. C'était donc probablement un dimanche, et peut-être le</p>
+<p>13 août. ;" lu .i . - '</p>
+<p><pb/></p>
+<p>noncé son arrêt, par ce mandement de l'Archevêque de Paris,1 le 11 août :</p>
+<p>Nous, sachant combien il serait dangereux de souffrir que la véritable
+piété fut blessée par une représentation si scandaleuse et que le roi
+même avait ci-devant très expressément défendue, et considérant,
+d'ailleurs,</p>
+<p><pb/></p>
+<p>HARDOUIN, archevêque de Paris</p>
+<p>Par mondit Seigneur, PETIT. »</p>
+<p>Il paraîtrait qu'un « personnage inconnu ). (on a supposé que c'était
+Colbert, par ordre ou avec l'autorisation du roi) consulta Baluze, une
+autorité en la matière, sur la légalité de ce mandement, au double point
+de vue des lois civiles et des canons de l'Église.</p>
+<p><pb/></p>
+<p>scandaleuses qui pouvaient être visées et frappées — mais qu'il valait
+mieux laisser les choses suivre leur cours et ne pas rendre cette
+consultation publique, afin d'éviter un conflit et une discussion qui ne
+pourraient avoir que de fâcheuses conséquences.</p>
+<p>1. Dans le Moliériste (tome VIII, p. 102).</p>
+<p><pb/></p>
+<p>VII</p>
+<p>LA VICTOIRE DE MOLIÈRE</p>
+<p>LA REPRÉSENTATION DE 1669</p>
+<p>6 août, le jour même de l'interdiction, il rédigea ex- irato son
+deuxième placet1 :</p>
+<p>« SIRE,</p>
+<p>1. Le Second Placet présenté au Roi dans son camp devant la ville de
+Lille en Flandre.</p>
+<p>Et c'est aussi pourquoi nous les reproduisons.</p>
+<p><pb/></p>
+<p>chercher ? et qui puis-je solliciter contre la puissance qui m'accable,
+que la source de la puissance et de 1 autorité ; que le juste
+dispensateur des ordres absolus ; que le souverain Juge et le Maître de
+toutes choses ?</p>
+<p>Ma comédie, Sire, n'a pu jouir ici des bontés de Votre Majesté. En vain,
+je l'ai produite sous le titre de l'lm- posteur, et déguisé le
+personnage sous l'ajustement d'un homme du monde ; j'ai eu beau lui
+donner un petit chapeau, de grands cheveux, un grand collet, une épée,
+et des dentelles sur tout l'habit, mettre en plusieurs endroits des
+adoucissements, et retrancher avec soin tout ce que j ai jugé capable de
+fournir l'ombre d'un prétexte aux célèbres originaux du portrait que je
+voulais faire ; tout cela n'a de rien servi.</p>
+<p>Je ne doute point, Sire, que les gens que je peins dans cette comédie ne
+remuent bien des ressorts auprès de</p>
+<p>1. La cabale des Dévots.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Daignent vos bontés, Sire, me donner une protection contre leur rage
+envenimée, et puissè-je, au retour d'une campagne si glorieuse, délasser
+Votre Majesté des fatigues de ses conquêtes, lui donner d innocents
+plaisirs après de si nobles travaux, et faire rire le monarque qui fait
+trembler toute l'Europe. »</p>
+<p>1. Tome II, p. 202.</p>
+<p>2. Sur le Théâtre du Palais-Royal que les acteurs italiens par- tagaient
+avec Molière.</p>
+<p>3. Mais non pas huit jours après le TARTUFFE, comme le dit inexactement
+le DICTIONNAIRE DES THÉÂTRES de Léris, car le Roi était encore en Flandre.</p>
+<p><pb/></p>
+<p>mêmes ; et c'est ce qu'ils ne peuvent souffrir1. » Le 8 août, Molière
+désigna, pour porter son placet en Flandre et le remettre au roi, deux
+de ses meilleurs acteurs, La Thorillière, ancien officier, et La Grange,
+orateur de la troupe. Ils partirent le 10. La Grange nota au retour dans
+son registre : « Le voyage a coûté mille livres. »</p>
+<p>1. L'anecdote racontée dans les dernières lignes a dû être arrangée ou
+fabriquée avec les termes mêmes dont s'était servi Molière dans son placet.</p>
+<p><pb/></p>
+<p>Pendant l'absence de La Thorillière et de La Grange, acteurs
+irremplaçables, la troupe n'avait pas joué. Elle rouvrit le 15 septembre
+avec une représentation du MISANTHROPE.</p>
+<p>Grimarest prétend1 que Molière, parlant de sa comédie de TARTUFFE,
+aurait dit : « Je me suis repenti plus tard de l'avoir faite. » Il ne
+s'en repentit jamais et il aurait eu bien tort. Malgré tant d'avatars,
+il restait aussi confiant, aussi résolu en 1667 qu 'en 1664. La réponse
+du roi le remplissait d'espoir.</p>
+<p>8 octobre, dans sa Gazette :</p>
+<p>J'oubliais une nouveauté</p>
+<p>Qui doit charmer notre cité</p>
+<p>Molière reprenant courage</p>
+<p>Malgré la bourrasque et l'orage</p>
+<p>Sur la scène se fait revoir</p>
+<p>Au nom des dieux, qu'on l'aille voir.</p>
+<p>1. Dans sa VIE DE MOLIÈRE (1705), pleine d'erreurs.</p>
+<p><pb/></p>
+<p>Ces deux groupes alliés et bien dignes de s'entendre usaient de la même
+tactique, employaient les mêmes procédés. Volontiers les bigots se
+plaçaient sur le terrain de la littérature et les « barbouilleurs de
+papier » sur le terrain de la religion.</p>
+<p>En 1665, après la première représentation (le 15 février) du FESTIN DE
+PIERRE, avait paru chez le libraire Nicolas Pépingué, une brochure \
+OBSERVATIONS SUR LA COMÉDIE DU sr MOLIÈRE, INTITULÉE LE FESTIN DE
+PIERRE, par B.-A. sr de R.</p>
+<p>« A entendre Molière, écrivait de Rougemont, il semble qu'il ait un bref
+particulier du pape, pour jouer des pièces ridicules et que M. le légat
+ne soit venu de Rome que pour lui donner son approbation. »</p>
+<p>L'avocat au parlement, juge sévère mais injuste, trouvait la pièce
+mauvaise et l'affirmait hautement, mais ce n'était pas son principal
+grief contre 1 auteur et il n'aurait pas pris la plume pour si peu de
+chose. Il lui</p>
+<p>2. Page 25.</p>
+<p><pb/></p>
+<p>reprochait surtout son « impiété », ou plutôt celle de don Juan et,
+par-dessus le FESTIN DE PIERRE, il visait aussi le TARTUFFE.</p>
+<p>Au pamphlet de Rougemont répondit, peu de temps après, une LETTRE SUR
+LES OBSERVATIONS D'UNE COMÉDIE DU S1 MOLIÈRE... On a supposé que cette
+LETTRE, publiée chez Gabriel Quinet, était, entièrement ou en grande
+partie, de l'auteur attaqué \ et c'est assez vraisemblable.</p>
+<p>2. Expression dont s'était servi le curé Roullès et qu avait reprise
+Rougemont.</p>
+<p><pb/></p>
+<p>En 1664, dans sa Satire XI, il avait flétri, en passant,</p>
+<p>Tartufe ou Molinos et sa mystique bande.</p>
+<p>Dans son Discours au Roi, composé en 1665, mais qu'il ne fit imprimer,
+avec les sept premières satires, qu en 1666, il montrait non seulement
+les Jésuites mais tous les faux dévots alarmés par la pièce dirigée
+contre eux et s'efforçant d'en empêcher la représentation :</p>
+<p>Ce sont eux que l'on voit d'un discours insensé Publier dans Paris que
+tout est renversé :</p>
+<p>Au moindre bruit qui court qu'un auteur les menace De jouer des bigots
+la trompeuse grimace</p>
+<p>Pour eux un tel ouvrage est un monstre odieux : C'est offenser les lois,
+c'est s'attaquer aux cieux. Leur cœur qui se connaît et qui fuit la
+lumière,</p>
+<p>S'il se moque de Dieu, craint Tartufe et Molière.</p>
+<p>Boileau ne semble pas s'être douté que ce n'étaient pas seulement des
+haines religieuses qu'avait suscitées Molière, et qu'il avait d'autres
+ennemis que les dévots.</p>
+<p>Ses confrères, ses rivaux au théâtre, moins favorisés que lui, moins
+appréciés par le public, et qui en éprouvaient un vif dépit, avaient,
+dans la campagne qu'ils menaient contre sa personne, contre ses ceUVres,
+comme</p>
+<p><pb/></p>
+<p>centre de ralliement, comme dépôt de munitions, l Hôtel de Bourgogne, où
+jouaient, où pontifiaient « les grands comédiens</p>
+<p>Ces grands comédiens regardaient de haut Molière et ses camarades, dont
+le jeu ne leur paraissait pas assez noble — et dont le répertoire était
+restreint1 — mais, tout en les méprisant, ils détestaient en eux des
+concurrents, et des concurrents de plus en plus goûtés par le public.</p>
+<p>Ce théâtre avait lancé contre Molière un de ses plus jeunes auteurs, un
+auteur de 25 ans, Edme Boursault, et avait joué de celui-ci, au début de
+l'automne de 1663, un acte en vers, le PORTRAIT DU PEINTRE ou LE CONTRECRITIQUE
+ DE L'ÉCOLE DES FEMMES2, où il rééditait, dans des vers assez
+médiocres, les reproches adressés au sermon d'Arnolphe, dans l'ÉCOLE DES
+FEMMES :</p>
+<p>Au seul mot de sermon nous devons le respect, C'est une vérité qu'on ne
+peut contredire</p>
+<p>Un sermon touche l'âme et jamais ne fait rire :</p>
+<p>De qui croit le contraire on doit se défier,</p>
+<p>Et qui veut qu'on en rie en rit tout le premier...</p>
+<p>Boursault n'était pas un méchant homme mais il eut le tort, pour se
+faire jouer plus facilement, d'épouser les querelles de l'Hôtel de
+Bourgogne, ce qui lui valut, dans</p>
+<p>1. La troupe du Palais Royal ne jouait guère que du Molière.</p>
+<p>2. L ECOLE DES rEMMES avait été jouée le 26 décembre 1662, et la
+CRITIQUE DE L'ÉCOLE DES FEMMES, dans laquelle Molière se défendait
+contre ses censeurs, le 1ER juin 1663.</p>
+<p><pb/></p>
+<p>Cette brochure de 130 pages in-12 (qui eut une seconde édition en 1668)
+parût sans nom d'auteur, ni d'éditeur, ni de lieu, une quinzaine de
+jours après la représentation du 5 août.</p>
+<p>De qui est-elle ?</p>
+<p>De Chapelle ? Les deux seules raisons, très insuffisantes, qui aient pu
+le faire croire sont, d'une part, les relations amicales de cet écrivain
+avec Molière et, d'autre part, l'initiale C. imprimée après la suscription.</p>
+<p><pb/></p>
+<p>De Donneau de Visé ? 1 C'est l'opinion de Barbier dans son DICTIONNAIRE
+DES ANONYMES, mais Barbier n'est pas infaillible. Donneau de Visé,
+écrivain assez médiocre, se classait plutôt parmi les adversaires de
+Molière que parmi ses défenseurs, et il était si bien connu comme tel
+qu'on lui attribua, en 1663, la paternité d'une pièce, non signée, de
+Deschamps de Villers, acteur de l'Hôtel de Bourgogne, ZÉLINDE, ou LA
+VÉRITABLE CRITIQUE DE L'ÉCOLE DES FEMMES et LA CRITIQUE DE LA CRITIQUE.
+Cette comédie, publiée chez G. de Luynes, ne fut pas représentée mais
+lue dans les salons, les cercles littéraires, et très prônée par les
+ennemis de Molière, ce qui ne la rendit pas meilleure 2.</p>
+<p>« Le ton de cette lettre, dit-il, l'extrait de TARTUFFE non encore
+imprimé, le point de vue sous lequel il est présenté sur les sources du
+ridicule, la célérité avec laquelle</p>
+<p>1. Lé futur fohdateur (en 1672) du Mercure galant avait en 1667
+vingt-huit ans.</p>
+<p><pb/></p>
+<p>cette apologie fut composée, tout y annonce la main et la plume de
+Molière. »</p>
+<p>Taschereau adopta l'opinion de Grosley, contestée et combattue, quelques
+années plus tard, par Paul Lacroix. Celui-ci remit sur le tapis Visé, et
+même Chapelle. Il faisait ressortir la lourdeur du style, la médiocrité
+verbeuse de la LETTRE et il citait, entre autres exemples, cette phrase
+de la préface :</p>
+<p><pb/></p>
+<p>(surtout dans la seconde partie), comme celui-ci, qu'on cite également :</p>
+<p>« Dieu remplit tout de lui-même sans aucune distinction et ne dédaigne
+pas d'être aussi présent dans les lieux les plus infâmes que dans les
+plus augustes et les plus sacrés...</p>
+<p>Ne dirait-on pas du Bossuet ?</p>
+<p>Ce contraste, dans la même brochure, de deux styles si différents, a
+fait adopter 1 par un Moliériste sagace, Édouard Thierry, entre Grosley,
+Taschereau et Paul Lacroix, une thèse composite et conciliante, assez
+habile, assez plausible, qui ne dépossède ni Molière ni Donneau de Visé,
+et qui nous les présente comme unis dans la défense de TARTUFFE :</p>
+<p>« La LETTRE SUR LA COMÉDIE DE L'IMPOSTEUR se divise en deux parts : le
+compte-rendu de la représentation et l'examen des censures portées
+contre la pièce.</p>
+<p>1. Dans son étude, LA SECONDE INTERDICTION DE TARTUFFE.</p>
+<p>Cherbourg, 1874, p. 34-35.</p>
+<p><pb/></p>
+<p>ainsi prodigué l'encens. Celui qui le lui brûle au visage est un ami
+exalté par l'émotion publique \ par la douleur du poète et la grandeur
+de l'œuvre persécutée.</p>
+<p>En effet, la défense portait tout particulièrement sur le point faible,
+la fameuse scène, si attaquée, dans laquelle Tartuffe essayait de
+séduire Elmire.</p>
+<p>A en croire l'auteur de la brochure, ou de cette partie de la brochure —
+et cet auteur ne pouvait être que Molière — cette scène donnait à
+Tartuffe une attitude ridicule et ne devait avoir que des effets
+salutaires et</p>
+<p>1. Ou un jeune auteur dramatique exalté par le désir de se faire iouer.</p>
+<p><pb/></p>
+<p>« Il procède, disait-il, beaucoup plus, surtout dans les femmes, des
+mœurs, de la liberté et de la légéreté de notre nation que d'aucun
+penchant naturel, étant certain que, de toutes les nations civilisées,
+il n'en est point qui y soient moins portées par le tempérament que les
+Françaises. »</p>
+<p>Cette guerre de plume, entretenue, envenimée par des querelles de
+boutique et des rivalités de métier, fut brusquement interrompue. Le Roi
+tenait sa promesse. Il autorisait enfin la représentation du TARTUFFE.
+Rude coup pour la cabale des dévots.</p>
+<p><pb/></p>
+<p>Que de sollicitations, de démarches avait dû coûter cette victoire !
+Nous ne pouvons les connaître exactement. Nous ne voyons que le résultat
+final. Mais on devine que le roi, malgré son engagement moral, hésitait
+encore, et que les adversaires de Molière n'avaient rien négligé pour
+empêcher ou du moins pour retarder le plus possible la représentation
+d'une pièce qui flétrissait leurs vices et menaçait leur influence.</p>
+<p>L'Hôtel de Bourgogne, surtout, redoutait cette représentation dont
+prévoyait le succès. Après une si longue attente, après tant de
+polémiques, le succès ne pouvait être, pensaient-ils, que très grand.</p>
+<p>Et il le fut en effet.</p>
+<p>L autorisation avait été accordée dans les premiers jours de février.
+Dès le 5 on joua la pièce.</p>
+<p>L 'époque, pour une comédie ordinaire, n'eut pas été très favorable.</p>
+<p>1. A. Bazin, NOTES HISTORIQUES SUR LA VIE DE MOLIÈRE, 2e éd.,</p>
+<p>P., 1851, p. 86.</p>
+<p><pb/></p>
+<p>même passage de son livre, que « toutes les saisons de l'année sont
+bonnes pour les bonnes comédies. » et TARTUFFE le prouva une fois de plus</p>
+<p>« Sire,</p>
+<p>Un fort honnête médecin, dont j'ai l'honneur d'être le malade, me
+promet, et veut s'obliger par devant notaire de me faire vivre encore
+trente années, si je puis lui obtenir une grâce de Votre Majesté. Je lui
+ai dit, sur sa promesse, que je ne lui demandais pas tant, et que je
+serais satisfait de lui pourvu qu'il s'obligeât de ne me point tuer.
+Cette grâce, Sire, est un canonicat de votre chapelle royale de
+Vincennes, vacante par la mort de...</p>
+<p>Ce fort honnête médecin que recommandait ainsi l'auteur de TARTUFFE
+c'était Jean-Armand de Mau-</p>
+<p><pb/></p>
+<p>Depuis l'AMOUR TYRANNIQUE de Scudéry (1638) où les spectateurs foulèrent
+aux pieds cinq portiers ou contrôleurs, jamais pièce de théâtre n'avait
+excité autant d'intérêt, autant de passion, que celle qu'on représenta,
+ce samedi, 5 février 1669, et cette fois sous son vrai titre, TARTUFFE
+ou l'IMPOSTEUR. Le temps des ménagements, des concessions et des
+précautions était passé.</p>
+<p>Une des lettres en vers de Robinet — elle parut le 9 février — nous
+décrit l'affluence du public pour cette reprise sensationnelle, qui
+était, par les modifications apportées au texte, et surtout par le bruit
+qu elle avait provoqué, une véritable première.</p>
+<p>Qu'alors la curiosité</p>
+<p>Abhorrant comme la nature</p>
+<p>Le vide, en cette conjoncture,</p>
+<p>Elle n'en laissa nulle part</p>
+<p><pb/></p>
+<p>Et que maints connurent hasard</p>
+<p>D'être étouffés dedans la presse</p>
+<p>Où l' on oyait crier sans cesse :</p>
+<p>Je suffoque, je n'en puis plus ;</p>
+<p>Hélas ! Monsieur Tartufius,</p>
+<p>Faut-il que de vous voir l'envie</p>
+<p>Me coûte peut-être la vie 1..,</p>
+<p>Et jamais nulle comédie</p>
+<p>Ne fut aussi tant applaudie.</p>
+<p>Il y eut, avec la même affluence, avec le même succès,</p>
+<p>44 représentations, sans compter six visites.</p>
+<p>Le 29 mars, l'atrabilaire Guy Patin, écrivait, non sans dépit : « Il n'y
+a plus ici que les comédiens qui gagnent de l'argent avec le Tartuffe de
+Molière ; grand monde y va souvent. »</p>
+<p>Dans les premiers jours d'août, la pièce fut jouée devant le roi, à
+Saint-Germain. A propos de cette représentation, un critique dramatique
+du siècle dernier, Charles Maurice, cite, dans son livre, le THÉÂTRE
+FRANÇAIS 2 un document qui contient quelques détails intéressants, mais
+dont l'authenticité ne me paraît pas</p>
+<p>1. Le même Robinet, dans une lettre du 23 février, donnait la
+distribution des principaux rôles : Orgon (Molière), Cleante (La
+Thorillière), Damis (Hubert), Valère (La Grange), Tartuffe (du Croisy),
+Elmire (Armande Béjart), Mme Pernelle (Louis Bejart), Dorine (Madeleine
+Bejart), Mariane (Mlle de Brie).</p>
+<p>2. LE THÉATRE FRANÇAIS, Monument et dépendances. 2e éd.,</p>
+<p>P., 1860, p. 20.</p>
+<p><pb/></p>
+<p>J. B. P. MOLIÈRE. »</p>
+<p>1. « Mercredy, 27e (de février) convoi de 42 (prêtres), service complet,
+assistance de M. le curé, 4 prêtres porteurs, pour deffunt Jean
+Pocquelin, tapissier, valet de chambre du Roy, bourg. de Paris demeurt
+soubz les pilliers des Halles, devant la fontaine (des Innocents), a
+esté inhumé dans nostre église. 27 livres 8 sols. » (Registres
+mortuaires de S^Eustache).</p>
+<p>2. C est du moins l'opinion de Jal (dans son DICTIONNAIRE</p>
+<p>CRITIQUE) et elle paraît très plausible.</p>
+<p><pb/></p>
+<p>Il serait curieux de savoir ce qu'elle pensait de</p>
+<p>TARTUFFE.</p>
+<p>Et d'abord, il importait, il était indispensable d'opposer le plus tôt
+possible au TARTUFFE une pièce susceptible de balancer son succès. Cette
+pièce, on eut la chance de la trouver, et sans la chercher bien loin. Ce
+fut la FEMME JUGE ET PARTIE, comédie en 5 actes et en vers, d'un auteur
+de la maison, Montfleury.</p>
+<p>« Il faut, disait-il, un roi qui soit gros et gras comme quatre ; un
+roi, morbleu ! qui soit entripaillé comme</p>
+<p><pb/></p>
+<p>il faut ; un roi d'une vaste circonférence et qui puisse remplir un
+trône de la belle manière. »</p>
+<p>Et il raillait ensuite cette fausse noblesse, cette déclamation
+pompeuse, dont abusait le Nicomède de l'Hôtel de Bourgogne, et dont
+abusaient aussi tous ses camarades tragiques.</p>
+<p>Représentée pour la première fois, le 2 mars, cette comédie de
+Montfleury 1, agréablement rimée et d'un tour assez vif, obtint dès le
+début, le suffrage de la ville et de la cour, et le succès devint encore
+plus</p>
+<p>1. Peut-être en collaboration avec son père. Une ancienne édition que je
+possède de cette pièce porte « par M. M. de Montfleury, père et fils ».</p>
+<p><pb/></p>
+<p>grand, lorsque, pour corser le spectacle, on y ajouta une pièce de
+circonstance, composée par un autre acteur du théâtre et un autre ennemi
+de Molière, Claude Deschamps, sieur de Villiers, lequel, d'ailleurs, ne
+crut pas devoir signer sa satire, la CRITIQUE DU TARTUFFE, un acte en
+vers — et quels vers !</p>
+<p>Venez donc, tous les curieux</p>
+<p>Venez : apportez votre trogne</p>
+<p>Dedans notre Hôtel de Bourgogne.</p>
+<p>Venez en foule ; apportez-nous</p>
+<p>Dans le parterre, quinze sous,</p>
+<p>Cent dix sous dans les galeries...</p>
+<p>C'est peut-être ce qu'il a fait de mieux.</p>
+<p>La CRITIQUE DU TARTUFFE, dans l'édition publiée</p>
+<p><pb/></p>
+<p>Pradon et elle est assez bête pour qu'il en soit l'auteur, mais on n'en
+donne pas d'autre preuve.</p>
+<p>Cette satire, si peu satirique, débutait par une sorte d'analyse de la
+pièce :</p>
+<p>Dans le commencement, une vieille bigote</p>
+<p>Querelle les acteurs et sans cesse radote</p>
+<p>Crie et n'écoute rien, se tourmente sans fruit Ensuite une servante y
+fait autant de bruit...</p>
+<p>Elle se terminait par un jugement sur Molière et sur son TARTUFFE :</p>
+<p>Molière plaît assez, son génie est folâtre ;</p>
+<p>Il a quelques talents pour le jeu du théâtre</p>
+<p>Et, pour en bien parler, c'est un bouffon plaisant</p>
+<p>Qui divertit le monde en le contrefaisant.</p>
+<p>Ses grimaces souvent causent quelque surprise Toutes ses pièces sont
+d'agréables sottises.</p>
+<p>Il est mauvais poète et bon comédien</p>
+<p>Je sais que le Tartufe a passé son espoir,</p>
+<p>Mais avec tout cela, quand on l'a vu paraître</p>
+<p>On l 'a tant applaudi, faute de le connaître,</p>
+<p>Un si fameux succès ne lui fut jamais dû</p>
+<p>Et s 'il a réussi, c'est qu'on l'a défendu.</p>
+<p>1. Bret, Tachereau, et d'autres.</p>
+<p><pb/></p>
+<p>Molière, trop impressionnable, souffrait cruellement des critiques même
+les moins justifiées, même les plus ineptes. Il avait tort. Un
+chef-d'œuvre n est vraiment et définitivement consacré que lorsqu il a
+pour lui les gens d'esprit et contre lui les imbéciles.</p>
+<p><pb/></p>
+<p>VIII</p>
+<p>TARTUFFE IMPRIMÉ</p>
+<p>LES ÉDITEURS DE MOLIÈRE</p>
+<p>La Grange — Charles Varlet de la Grange — avait un frère, comédien comme
+lui, Achille Varlet dit Verneuil.</p>
+<p>Ce Verneuil, qui appartînt au Théâtre du Marais puis au Théâtre
+Guénégaud — et qui mourut en 1707 — avait épousé une de ses camarades du
+Théâtre du Marais, Mlle de Beaupré1, qui, en 1658, faisait partie de la
+troupe de l'Hôtel de Bourgogne.</p>
+<p>Cette actrice avait sur le profit que les auteurs dramatiques devaient
+tirer de leurs ouvrages des opinions très particulières :</p>
+<p>« M. Corneille, disait-elle, nous a fait un grand tort ; nous avions
+ci-devant des pièces de théâtre pour trois écus 2 que 1 on nous faisait
+en une nuit ; on y était accoutumé et nous gagnions beaucoup. Présen-</p>
+<p>2. C'était ce que demandait Hardy, mais ses pièces ne valaient pas
+davantage.</p>
+<p><pb/></p>
+<p>tement, les pièces de M. Corneille nous coûtent bien de l argent et nous
+gagnons peu de chose. »</p>
+<p>Corneille est excellent mais il vend ses ouvrages.</p>
+<p>Pendant la première moitié du siècle, aucune règle fixe, aucune
+législation spéciale. Ce ne fut qu'en 1653, et avec une pièce de
+Quinault, les RIVALES, tragi-comédie en cinq actes et en vers, que
+s'établit un semblant de droits d'auteur, et dans des circonstances
+assez curieuses.</p>
+<p><pb/></p>
+<p>« La plus ordinaire condition et la plus juste de côté et d'autre est de
+faire entrer l'auteur pour deux parts dans toutes les représentations de
+sa pièce jus-</p>
+<p>1. Tristan l'Hermite, né en 1601, avait eu d'assez nombreux succès au
+théâtre et il était membre de l'Académie française depuis 1648. Il
+mourut en 1655.</p>
+<p><pb/></p>
+<p>Donneau de Visé écrivait en 1663 : « Le fameux auteur de l'ECOLE DES
+MARIS, ayant dès sa jeunesse une inclination toute particulière pour le
+théâtre, se jeta dans la comédie quoiqu'il pût très bien se passer de
+cette occupation et qu'il eût assez de biens pour vivre honorablement
+dans le monde. »</p>
+<p>Cette « occupation » de laquelle Donneau de Visé assure qu'il pouvait
+très bien se passer, augmentait considérablement ses revenus.</p>
+<p><pb/></p>
+<p>Molière était auteur, acteur, directeur, mais directeur associé en
+quelque sorte, sans traitement spécial. Sa part d'acteur était
+simplement plus élevée, dans les derniers temps, que celle des autres
+artistes de la troupe.</p>
+<p>D'après le registre de La Grange, la pièce lui rapporta :</p>
+<p>en 1667 (par l'unique représentation) : 277 livres en 1669 1594 livres 1</p>
+<p>Ce fut, comme bénéfice (et aussi comme gloire) sa plus belle année.</p>
+<p>En 1662, l'année de l'EcOLE DES FEMMES il avait gagné 6,511 livres 19 sous.</p>
+<p>1. En 1673, après la mort de Molière, le TARTUFFE fut joué le 9 juillet
+(un dimanche) par l'ouverture du Théâtre Guenegaud et fit 744 livres 15
+sous.</p>
+<p><pb/></p>
+<p>ceux de la publication et de la vente en librairie du TARTUFfE.</p>
+<p>Mettent leur Apollon aux gages d'un libraire.</p>
+<p><pb/></p>
+<p>1. ŒUVRES DIVERSES DU SIEUR D. (Despréaux) P. Denys Thierry 1674 (in-4
+). (C est dans cette édition que parurent pour la première fois les
+quatre premiers chants du LUTRIN).</p>
+<p>2. Il faisait aussi du théâtre. Le cardinal de Richelieu ayant dit d une
+de^ ses pièces que les vers en étaient lâches. — Comment lâches 1
+s'écrira le vaniteux écrivain. Il n'y a rien de lâche dans la maison de
+la Calprenède.</p>
+<p><pb/></p>
+<p>Je connais celui-ci, sa veine est fort égale</p>
+<p>Il ne fait point de vers qu'on ne trouve charmants.</p>
+<p><pb/></p>
+<p>Mais on ne parle plus qu'on fasse de romans ;</p>
+<p>J'ai vu que notre peuple en était idolâtre.</p>
+<p>Et, sentencieusement, comme s'il rendait un oracle, le libraire répond :</p>
+<p>La mode est aujourd'hui aux pièces de théâtre</p>
+<p>Et c'était vrai. Pour la même raison qu'aujourd'hui la mauvaise qualité
+de la production, le roman perdait du terrain. Les pièces de théâtre,
+sans être très supérieures, avaient beaucoup plus de vogue, mais elles
+enrichissaient surtout les libraires. Elles entraient pour une faible
+part dans les bénéfices, et même dans les combinaisons, des auteurs.</p>
+<p><pb/></p>
+<p>Faut-il peindre un fripon fameux de cette ville</p>
+<p>Ma main, sans que j'y rêve, écrira Raumaville.</p>
+<p>1. Tome Il, p. 118.</p>
+<p><pb/></p>
+<p>Heureuse époque, où les contribuables ne se trouvaient pas assez taxés !</p>
+<p>1. Dans ses LETTRES NOUVELLES. P., 1699, tome 1, p. 125.</p>
+<p>2. La librairesse, mot forgé par Cotin dans son livre la MÉNA-</p>
+<p>GERIE (1666).</p>
+<p><pb/></p>
+<p>Pour ses pièces, il ne s intéressait véritablement qu aux
+représentations et il se défiait en principe de celui que, par la bouche
+d'Alceste dissuadant Oronte de publier ses vers, il appelle l'avide
+imprimeur.</p>
+<p>Et cependant, nombreux furent les éditeurs auxquels il dût s'adresser
+pour l'impression de ses comédies. Avant Tartuffe parurent :</p>
+<p>Chez Claude Barbin, qui avait sa boutique sur le perron de la STE
+Chapelle 2 : en 1660 les PRÉCIEUSES RIDICULES, en 1663, le DÉPÔT
+AMOUREUX et l'ETOURDI, (ces deux dernières pièces chez Barbin et chez
+Gabriel Quinet, installé aussi au Palais, galerie des Prisonniers 3, à
+l'Ange Gabriel) ;</p>
+<p>chez Charles de Sercy, au Palais, sixième palier : en</p>
+<p>1661, l'EcOLE DES MARIS;</p>
+<p>1. Adolphe Régnier dans l'avant-propos de l'édition donnée par
+l'Imprimerie Nationale pour l'exposition de 1878.</p>
+<p>3. Dans cette même galerie des prisonniers, près de la Chancellerie,
+étaient installés deux autres libraires, Guillaume Loyson et la veuve
+Guillemot.</p>
+<p><pb/></p>
+<p>En réalité, les connaissances des libraires de Paris étaient assez
+bornées. Nous n'avons pas de renseignements sur celles de Jean Ribou,
+mais le peu que nous savons de lui permet de croire que, s'il manquait
+de culture, il était en revanche assez entreprenant, dans son commerce,
+et les scrupules ne le gênaient guère.</p>
+<p>1. Avec cette devise : Curvata resargo.</p>
+<p>2. Robert II Ballard, dont le grand-père, Robert IER, avait obtenu, le
+16 février 1551, des lettres patentes de Seul imprimeur du roi pour la
+musique. Les Ballard, qui ne cessèrent d'imprimer qu'en 1840, avaient
+pour enseigne Apollon et les Muses, et au fond le Me Parnasse et Pégase.</p>
+<p>3. J emploie ce mot par anticipation. il n existait pas au XVIIE siecle.
+ « Ce mot est nouveau et a fait fortune », dit le DICTIONNAIRE DE
+TRÉVOUX. (Édition 1732).</p>
+<p><pb/></p>
+<p>Ses premières relations avec Molière furent dépourvues de cordialité.
+Elles s'inaugurèrent par une affaire de contrefaçon 1.</p>
+<p>Un certain de Neuf Villenaine — sans doute un pseudonyme — après avoir
+sténographié, pendant une des premières représentations, le texte de
+SGANA- RELLE ou le Cocu IMAGINAIRE 2, ou s'en être procuré une copie,
+s'était empressé de publier la pièce, chez Jean Ribou.</p>
+<p>Sur une des feuilles de garde, et avec ce titre, le Libraire au lecteur,
+Jean Ribou annonçait la publication, chez lui, d une comédie de Donneau
+le Visé, la COCUE IMAGINAIRE (qui parut en effet en 1660) et du PROCÈS
+DES PRÉCIEUSES, et il terminait son avis,</p>
+<p>2. Joué pour la première fois, le 28 mai 1660.</p>
+<p>3. L Achevé d imprimer est du 12 août,</p>
+<p><pb/></p>
+<p>nous dirions aujourd'hui sa réclame, par cet appel engageant :</p>
+<p>1. Procès-verbal pour le sieur Molière, comédien de Monsieur, du mois
+d'août 1661. (Archives nationales, Y. 13857).</p>
+<p><pb/></p>
+<p>lui a fournis. Au moyen de laquelle déclaration et de ce que nous n'en
+avons pu trouver aucun autre exemplaire, nous nous sommes retiré et
+(avons) dressé le présent procès-verbal, pour servir et valoir audit
+sieur de Molière en temps et lieu ainsi que de raison.</p>
+<p>Et depuis, après serment par lui prêté, nous a dit en avoir imprimé
+douze cents et demi ou environ, lesquels il a tous délivrés audit Ribou
+sans pouvoir nous dire où ils étaient et où ledit Ribou les a mis, ni
+par qui ils avaient été reliés.</p>
+<p>Signé : CHRISTOPHE JOURNEL.</p>
+<p><pb/></p>
+<p>intitulés le Cocu imaginaire, et a ledit Ribou refusé de signer. »</p>
+<p>Huit ans plus tard, on pouvait lire dans une des lettres rimées de
+Robinet, datée du 6 avril 1669, cette annonce, une des premières que
+l'on connaisse :</p>
+<p>Monsieur Tartufe ou le pauvre homme !</p>
+<p>Ce qui les faux dévots assomme,</p>
+<p>Devient public plus que jamais.</p>
+<p>Comme au théâtre désormais,</p>
+<p>Il se montre chez le libraire.</p>
+<p>Qui vend l'écu chaque exemplaire,</p>
+<p>Et de sa boutique, en un mot,</p>
+<p>En doive crever tout cagot</p>
+<p>Il va produire leur peinture</p>
+<p>En bonne et fine miniature,</p>
+<p>Par tous les lieux de l'univers,</p>
+<p>0, pour eux, l'étrange revers !</p>
+<p>La première édition, la vraie édition originale du TARTUFFE, publiée
+chez Jean Ribou, mais dont il ne fut que l'imprimeur, porte comme titre :</p>
+<p>TARTUFFE</p>
+<p>ou</p>
+<p>L'IMPOSTEUR</p>
+<p>COMÉDIE</p>
+<p>PAR I. B, P. DE MOLIÈRE</p>
+<p><pb/></p>
+<p>Imprimé aux despens de VAutheur et se vend</p>
+<p>A PARIS</p>
+<p>chez JEAN RIBOU, au Palais, vis-à-vis</p>
+<p>la Porte de l'Eglise de la Sainte Chapelle</p>
+<p>M D C LXIX</p>
+<p>AVEC PRIVILÈGE Du Roy 2</p>
+<p>Cette première édition, dont le privilège est daté du 15 mars 1669 et
+l'achevé d'imprimer pour la première fois du 23 mars, ne contient pas
+les trois placets au roi mais elle présente quelques variantes d'un
+certain intérêt.</p>
+<p>Ainsi dans la scène III du 3e acte, pour marquer le jeu scénique de
+Tartuffe, on lit dans ce texte original :</p>
+<p>Il lui serre le bout des doigts... Il lui met la main sur le genou...
+Elle recule sa chaise, et Tartuffe raproche (sic) la sienne.</p>
+<p>Tandis que les éditions publiées après la mort de</p>
+<p>Molière portent :</p>
+<p>Tartuffe prenant la main d 'Elmire et lui serrant les doigts... Il met
+la main sur les genoux d'Elmire... Elmire recule son fauteuil et
+Tartuffe se rapproche d 'elle.</p>
+<p>Imprimée « aux despens de l'autheur » cette édition lui laissait tout ce
+qu'elle pouvait produire comme bénéfice. Chaque exemplaire (c'est le
+journaliste Robinet qui, dans une lettre du 6 avril 1669, nous</p>
+<p>1. La même année, parurent chez le même éditeur, L'AVARE et</p>
+<p>GEORGES DANDIN, et en 1670, M. DE POURCEAUGNAC.</p>
+<p>C'est ce Ribou qui publia, en 1708, la première édition collective des
+œuvres de Regnard.</p>
+<p>2. 2 fi. et 96 pages.</p>
+<p><pb/></p>
+<p>l'apprend) se vendait un écu, trois livres environ, somme extrêmement
+élevée pour l'époque et que pouvaient seuls expliquer et justifier
+l'extraordinaire vogue et le succès de scandale de la pièce.</p>
+<p>Une anecdote du temps nous donne une idée de ce qu'on payait,
+généralement, chez les libraires, une pièce de théâtre.</p>
+<p>L'affaire était mauvaise. Cette seconde édition, pour bien des raisons
+se vendit peu, et c'est ce que constate un auteur du temps, très bien
+renseigné, Gabriel Guéret, avocat au Parlement de Paris, poète</p>
+<p>1. Comédie en un acte, en vers, jouée en 1668 et publiée chez</p>
+<p>Gabriel Quinet en 1669.</p>
+<p>3. Comédie en un acte, en vers, représentée pour la première fois à
+l'Hôtel de Bourgogne, en juin 1661, et publiée chez Gabriel Quinet en 1667.</p>
+<p>4. Date de l'achevé d'imprimer.</p>
+<p><pb/></p>
+<p>Sans doute, la vogue d'une pièce, même des meilleures, s'affaiblissait
+assez vite et les acheteurs devenaient plus rares, mais la principale
+cause de la diminution rapide de la vente, c'était la contrefaçon, cette
+plaie de l'ancienne librairie.</p>
+<p>1. PSYCHÉ, tragédie-ballet, fut publiée pour la première fois chez
+Pierre Le Monnier, en 1671. Il en parut, en 1673, une réédition chez
+Claude Barbin, et elle n'attira pas beaucoup d'acheteurs.</p>
+<p>I. La dernière édition, non pas publiée mais préparée du vivant de
+l'auteur (et par lui) ce fut celle que donna Claude Barbin en 167 3 et
+qui contient de plus que les précédentes des variantes et les trois
+placets de Molière,</p>
+<p><pb/></p>
+<p>Ces poursuites n'aboutissaient presque jamais ou ne donnaient que des
+résultats très insuffisants et l auteur, en face de la fraude et d'une
+fraude, encouragée et soutenue par le public, se trouvait presque
+désarmé. L 'éditeur, mal abrité derrière son privilège1, ne pouvait pas
+non plus se défendre efficacement, et le pauvre Jean Ribou en fit la
+triste expérience.</p>
+<p>On a trouvé, en effet, dans son inventaire après décès 2 cette indication :</p>
+<p>« Item, un autre (acte) écrit sous seing privé en date du 16 novembre
+1672, signé Jean Ribou et Anne David, sa femme, par lesquels (sic) les
+soussignés ont reconnu devoir audit défunt sieur de Molière, la somme de
+sept cents livres, valeur de lui reçue, qu'ils auraient promis
+solidairement lui payer en quatre payements égaux, de trois mois en
+trois mois, ainsi qu'il est porté au dit écrit. »</p>
+<p>2. Publié par Eudore Soulié dans ses RECHERCHES 94,eOifbt</p>
+<p>ET SA FAMILLE. P. 1863, p. 287.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>TABLE DES MATIÈRES X</p>
+<p>I. Plaisirs dé l'Ile enchantée. — Tartuffe</p>
+<p>1^ R91 7</p>
+<p>II. Corn .' t composé Tartuffe. — Origine</p>
+<p>du titre 33 III. Les originaux de Tartuffe 63 IV. Molière et les dévots
+85 V. Les « Visites » de Tartuffe 117 VI. La deuxième représentation et
+la deuxième interdiction 131</p>
+<p>VII. La victoire de Molière. — La représentation</p>
+<p>de 1669 159 VIII. Tartuffe imprimé. — Les Éditeurs de Molière. 185</p>
+<p><pb/></p>
+<p>ACHEVÉ D'IMPRIMER LE 27 JANVIER 1928 PAR F. PAILLART, A ABBEVILLE (SOMME)</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>BBEBBEBBBBBBBBBBEBBBBBEBBBBBBBBBBEBBBBBBBBa M</p>
+<p>| BIBLIOTHEQUE DU HERISSON 1 g 1 S</p>
+<p>E ROMANS (format 12x19) SS B LAURENCE ALGAN CLARISSE AUBERT. |j ® BALKIS
+PERSONNE. B S EN MARGE DE LA BIBLE. B ^ PIERRE BILLOTEY LE PHARMACIEN
+SPlRJTE. B s| RAZ-BOBOUL. B gj MAGAIJ-BOISNARD MAADITH. B FE L'ENFANT
+TACITURNE. S F EMMANUEL BOURCIER. LA BELEBA. S B L'HOMME DE L'OMBRE (9
+fr). S œ SUZANNE DE CALLIAS... JERRY. S E NONCE CASANOVA MESSAUNE. B E
+LA LIBERTINE. B S RENÉE DUNAN BAAL OU LA MAGICIENNE PASSIONNÉE B m
+RAYMOND ESCHOL1ER.. LE SEL DE LA TERRE, B B JEAN FAVERY THEnDORE, ROI
+DES ILES. S E YVES LE FEBVRE LA FRANQUE AUX CHEVEUX D'OR. jfj S G.-T.
+FRANCONI UNTEL, DE L ARMÉE FRANÇAISE. I!J §j MAURICE D'HARTOY....
+L'HOMME BLEU (P,!x Corrard). ' BB S RENÉ-MARIE HERMANT. KNIAZ/l. - EN
+DÉTRESSE. S gj LA FEMME AUX HOMillES.</p>
+<p>g FAKIR. — LE GERFAUT. ® m LA DANSEUSE ET L'INGÉNIEUR. S ffi JONCQUEL ET
+VARLET . LES TITANS DU CIEL. m E L'AGONIE DE LA TERRE. g B ODETTE KEUN
+LE PRINCE TARI EL ® B GÉNÉRAL KRASSNOFF... L'AMAZONE DU DÉSERT. E E Y
+VON L\PAQUELLERlE.. L'ANGOISSE ET LA VOLUPTÉ. S S GEORGES MAUREVERT..
+L'AFFAIRE DU GRAND PLAGIAT B rÉ MARTIN DE BRIEY LA MARIA FOSC.4 (9 fr.).
+[§ B MARCEL MILLE LA LANTERNE CHINOISE S B ABEL MOREAU LE FOU (9 Ír.
+P,ix Zola). §} 00 BERNARD NABONNE LA BUTTE A UX CAILLES B 00 ALICE
+ORiENT LA TUNIQUE VLRTE. B B CHARLES PERRAULT.... CONTES. B" m (U GASTON
+PICARD LES uGRPR/SES DES SENS. S L'ABBÉ PPr-VOST MANON LESCAUT. m E
+JEAN-REN AUD L'HOMME AU LOUP. iiiæ E LE BOUT DE RAIL. E B THIERRY SANDRE
+LE PURGATOIRE (prix Concourt). E B MIENNE. - MOUSSEUNE. e E
+ROBERJ-LE-DIABLE. F S PAUL-JEAN TOULET..... BEHANZIGLIE. &gt;' m THÉO
+VARLET LE DÉMON DANS L'AME. S y LE DERNIER SATYRE. g E VARLET ET
+BLANDIN... LA BELLE VALENCE. g OEL PAULVIMEREU LES AMANTS DU REMPART. B
+E CHUTT LE HUTTEUX Es ® WILLY ET IVlENALKAS.. L'ERSATZ D'AMOUR. S || LE
+NA UFRA GÉ- S</p>
+<p>E — B § Exemplaires ordinaii es sur Alfa 12 fr. Exemplaires sur
+Hoiimd.!. 45 fr. 1 M — Arches ou pur fil ........ 30 fr. — Madagascar..
+60 Er. B j=j — japon 75 fr. — Chine 75 ir. iiiil</p>
+<p>0* ffileffimoufflau</p>
+    </div>
+    </body>
+  </text>
+</TEI>

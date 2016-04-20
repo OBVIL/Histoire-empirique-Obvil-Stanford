@@ -1,0 +1,3296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Nève, Paul (chargé de cours à l'Université de Liége)">Paul Nève</author>
+<title>La philosophie de Taine : essai critique / par Paul Nève,...</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Nève, Paul (chargé de cours à l'Université de Liége)</author>, <title>La philosophie de Taine : essai critique / par Paul Nève,...</title>, <date>1908</date>,description :Collection : Bibliothèque de l'Institut supérieur de philosophie,385 pages
+</bibl>
+<publisher>Institut supérieur de philosophie (Louvain)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k54777452</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1908">1908</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>BIBLIOTHÈQUE DE L'INSTITUT SUPÉRIEUR DE PHILOSOPHIE</p>
+<p>La Philosophie</p>
+<p>de Taine</p>
+<p>ESSAI CRITIQUE</p>
+<p>FAK</p>
+<p>PAUL NÈVE</p>
+<p>DOCTEUR EN PHILOSOPHIE</p>
+<p>LOUYAIN</p>
+<p>Institut supérieur de Philosophie *</p>
+<p>1, rue des Flamands, 1 5j0*</p>
+<p>PARIS Librairie VICTOR LECOFFRE</p>
+<p>90, Rue Bonaparte</p>
+<p>BRUXELLES Librairie ALBERT DEWIT</p>
+<p>53, Rue Royale</p>
+<p>1908</p>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>tyvpILOSOPHIE DE TAINE</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>BIBLIOTHÈQUE DE L'INSTITUT SUPÉRIEUR DE PHILOSOPHIE</p>
+<p>La Philosophie</p>
+<p>de Taine</p>
+<p>&gt;È8SAI CRITIQUE</p>
+<p>PAR</p>
+<p>PAUL NÈVE</p>
+<p>DOCTEUR EN PHILOSOPHIE</p>
+<p>LOUVAIN</p>
+<p>Institut supérieur de Philosophie</p>
+<p>1, me des Flamands, 1</p>
+<p>PARIS Librairie VICTOR LECOFFRE</p>
+<p>90, Rfle Bonaparte</p>
+<p>BRUXELLES Librairie ALBERT DEWIT</p>
+<p>63, Rue Royale</p>
+<p>1908</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>A</p>
+<p>MONSEIGNEUR DEPLOIGE</p>
+<p>PRIÎ^Îp.ll^&amp;EJ^NSTlTUT SUPÉRIEUR DE PHILOSOPHIE</p>
+<p>Ce livre est dédié en témoignage de reconnaissance et de respect.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>.-rtfjfX AVANT-PROPOS.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>PRÉFACE.</p>
+<p>M. Paul Bourget écrivait en 1902, après la publication du premier volume
+de la correspondance de Taine : « Quand la publication sera complète, il
+y aura lieu de reprendre l'oeuvre entière de cette vie laborieuse et de
+tracer, en</p>
+<p><pb/></p>
+<p>— XII —</p>
+<p>Telle la question de la métaphysique.</p>
+<p>Plusieurs estiment, avec M. Amedée de Margerie, que Taine a nié la
+métaphysique ; d'autres</p>
+<p>1. Paul Bourget. Études et Portraits. Sociologie et Littérature. Les
+deux Taine. Paris. Pion, p. 84.</p>
+<p>2. H. Taine. Sa vie et sa correspondance. Paris. Hachette, 1907.</p>
+<p><pb/></p>
+<p>-r-. XIII —</p>
+<p>On a maintenant les éléments pour se faire une idée de cette
+métaphysique et pour en voir la liaison avec les principes fondamentaux
+du système philosophique de Taine.</p>
+<p>Une nouvelle étude sur la philosophie de Taine pouvait do7ic être tentée.</p>
+<p>Nous avons, dans celle-ci, après avoir retracé la vie du penseur, voulu
+opérer la synthèse des idées, en glanant les éléments dans l'oeuvre inté1.</p>
+<p><pb/></p>
+<p>— XIV —</p>
+<p>Il est vrai cependant que les déterministes adoptent les mêmes normes;
+mais, n'admettant pas \ le libre arbitre, ils les conçoivent comme des
+stimulants dont l'efficacité n'est qu'un heureux acci\</p>
+<p><pb/></p>
+<p>— XV —</p>
+<p>dent dans l'intelligence de ceux qui offrent prise aux attraits du vrai,
+du beau et du bien</p>
+<p>Ce fut le cas pour Taine : nous trouvons effectivement chez lui une
+Morale, une Logique, une Esthétique normative et une Politique.</p>
+<p><pb/></p>
+<p>— XVI -—</p>
+<p>Louvain, ce 9 mai 1908.</p>
+<p>1. Emile Faguet. Politiques et Moralistes^&amp;jfâiik **?#&amp; 3e sétie. Paris.
+Société française d^mptriûiérieTl^O^X pp. 300-301. fô/ '/'} T'A val</p>
+<p><pb/></p>
+<p>CHAPITRE I</p>
+<p>LA VIE DE TAINE</p>
+<p>1. Eugène Melehior de Vogflê, Devant le Siècle. Paris, Colin, 1M6, p. 293.</p>
+<p><pb/></p>
+<p>rctran1. Boulmy, Taine, Schcrer, Lnboulayc l'oiis, Colin, 1001, p. «.
+'.'. Vie, T. IV, p. 257.</p>
+<p><pb/></p>
+<p>— 3 —</p>
+<p>i. vie, r. i, p. 3.</p>
+<p><pb/></p>
+<p>-4 —</p>
+<p>récuser ; une foi touchante, et sans doute excès* sivc, dans la
+supériorité do l'homme spécial, i du praticien ; une sincérité parfaite
+envers soimême l. »</p>
+<p>1. Boutmy, op. cit., pp. 4M5. Michelet. Paris, C. Lévy, pp. 143 m.</p>
+<p>2. Gabriel Monod, Les Maîtres de l'histoire, — Renan, Taine,</p>
+<p><pb/></p>
+<p>regard divin do l'enfant, l'étonnomonl incrédule qu'ils ont, ces petits,
+devant la vie réelle, le mal, l'ironie. »</p>
+<p>Ecrivant ces pages au lendemain de la mort de Taine, M. do Vogué ajoutait :</p>
+<p>a Je viens do m'agcnouillcr devant le lit mortuaire d'un saint. Si les
+mots, sous leurs emplois transitoires, gardent un sens intime et
+durable, si le plus beau titre qu'aient inventé les hommes se justifie
+surtout par l'abnégation d'un sens terrestre, par le don de toute une
+vie aux vérités éternelles et par la pratique du bien — nul n'a mérité
+ce titre mieux que ce bénédictin égaré dans notre âge, où il semblait un
+moine en peine de son couvent l. »</p>
+<p>Ce témoignage des familiers de Taine est précieux ; on n'aurait pu, en
+effet, s'imaginer l'homme d'après l'oeuvre. Autant le caractère était
+modeste, aulant la pensée était orgueilI.</p>
+<p><pb/></p>
+<p>- a —</p>
+<p>leusc. Taine avait une superbe intellectuelle, provenant non pas de ce
+qu'il se complût dans la force de son intelligence, mais de ce que la
+science ne pouvait, selon lui, connaître de limites, et laisser sans
+réponse aucun des problèmes sur le monde ou sur l'homme. Il semble qu'il
+y ait eu, chez lui, une cloison étanche entre la pensée et la vie ; le
+divorce est absolu entre le caractère et l'intelligence.</p>
+<p>1. 'Vie, T. IV, p. 2S7 cl sq.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>— 8 —</p>
+<p>Mais le coup avait porté, et, trois ans plus tard, Taine laissait
+échapper cet aveu — combien significatif dans la bouche d'un croyant de
+la science, au déclin de ses jours — : « la vérité scientifique n'est
+supportable que pour quelques-uns ; il vaudrait mieux qu'on ne pût
+l'écrire qu'en latin 2. » L'homme reparaissait avec sa sincérité et sa
+droiture, avec celte nature si délicate et si fine qui s'est toujours
+volontairement dérobée aux yeux du grand public.</p>
+<p>1. Victor Giraud, La personne et l'oeuvre de Taine, d'après sa
+correspondance. Reoue des Deux Mondes. I" février 1908, p. 552.</p>
+<p>2. Vie, T. IV, p. 940.</p>
+<p><pb/></p>
+<p>_ 9 ~</p>
+<p>♦%</p>
+<p><pb/></p>
+<p>-- 10 —</p>
+<p>imprégnée de l'ardeur studieuse de son milieu familial. Dès celle
+époque, son labeur esl énorme ; il promène sa curiosité intelligente sur
+les questions les plus variées. Il avait quinze ans lorsqu'il commença à
+perdre ses convielions religieuses.</p>
+<p><pb/></p>
+<p>_ l\ —</p>
+<p>Celle période de l'Ecole normale fui 1res féconde en travaux de tous
+genres, mais spécia1.</p>
+<p><pb/></p>
+<p>_ 12 —</p>
+<p>« Beaucoup de gens crurent et répétèrent que c'était M. Cousin qui
+présidait le jury et qu'il avait dit de Taine : « il faul le recevoir
+premier ou le refuser ; or il serait scandaleux de le recevoir premier.
+» On rejeta aussi sur son concurrent Aube la responsabilité de son
+échec. Après une leçon de Taine sur le Traité de la connaissance de
+Dieu, de Bossuct, Aube, chargé d'argumenter contre lui, l'aurait
+perfidement pressé de dire son avis sur la valeur des preuves classiques
+de l'existence de Dieu. L'embarras et le silence de Taine auraient
+entraîné sa condamnation... Il n'est pas sans intérêt de rétablir sur
+ces divers points l'exacte .vérité.</p>
+<p><pb/></p>
+<p>— 13 —</p>
+<p>Non seulement M. Cousin n'était pour rien dans l'échec de Taine, mais il
+s'en montra fort mécontent. 11 était assez clairvoyant pour pressentir
+qu'une réaction se préparait contre l'éclectisme et pour deviner un
+redoutable adversaire dans ce jeune homme aussi absorbé dans ses
+spéculations qu'auraient pu l'être Descartes ou Spinoza. M. Aube, malgré
+la malice trop réelle de ses questions, n'avait pas davantage causé
+l'échec de son camarade, car Taine avait eu la note maximum 20 pour sa
+leçon et son argumentation sur Bossuet. La vérité est que ses juges
+avaient sincèrement trouvé ses idées déraisonnables, sa manière d'écrire
+et sa méthode d'exposition sèches et fatigantes. Ils le déclarèrent non
+seulement incapable d'enseigner la philosophie, mais même, peu fait pour
+réussir dans un concours d'agrégation l. »</p>
+<p>1. Gabriel Monod, op. cit., pp. 70-71. t. Vie, T. I, pp. l?t el sq.</p>
+<p><pb/></p>
+<p>„ |4 _</p>
+<p>1. Ibidem, pp. ?.'iû--«t.</p>
+<p><pb/></p>
+<p>— 15 —</p>
+<p><pb/></p>
+<p>— 10 —</p>
+<p>Au mois de mai 1855, l'Académie Française couronna son Essai sur
+Tite-Live qu'elle avait rejeté une première fois en 1854. Taine l'avait
+remanié dans l'enlrelemps. Il entreprit celle même année, deux séries
+d'études sur la littérature anglaise et sur les philosophes français .du
+XIX 0 siècle.</p>
+<p>1. Gabriel Monod, op. cil., p. 96.</p>
+<p><pb/></p>
+<p>— 17 —</p>
+<p>Taine ne put se remettre au travail que vers la fin de 1859. L'année
+précédente il avait fait un voyage en Hollande, en Belgique et en
+Allemagne. Le repos forcé auquel il était astreint lui était très pénible.</p>
+<p>« Je vis en huître — écrivait-il le 30 janvier 1859 — je n'ai plus de
+leçons, j'évite de penser, de causer... J'étais fort triste d'abord de mon</p>
+<p>1. Sainte-Beuve, Causeries du lundi. Extraits publiés par Gustave
+Laison. Paiis, Garnier, 1000, p. 519.</p>
+<p>Taîne. a</p>
+<p><pb/></p>
+<p>— 18 —</p>
+<p>I. Vie, T. II, p. 181.</p>
+<p><pb/></p>
+<p>— 19 —</p>
+<p>de la Princesse Mathilde où il trouva l'accueil le plus bienveillant
+jusqu'au jour de la rupture que devait provoquer son portrait de
+Napoléon, celui de la comtesse d'Haussonville, de Guizot, d'Edouard
+Berlin. Les Notes sur Paris furent prises en partie au retour de ces
+réunions mondaines.</p>
+<p><pb/></p>
+<p>— 20 —</p>
+<p>En 1860 parut le Voyage en Italie.</p>
+<p>I Paul Rourget, Kssais de Psychologie contemporaine. Paris, Lemerre,
+1889, pp. 179180.</p>
+<p><pb/></p>
+<p>— 21 —</p>
+<p>l'Intelligence, dont la première édition date de 1870.</p>
+<p>Le 8 juin 1868, Taine avait épousé Mademoiselle Denuelle, * fille de M.
+Alexandre Denuelle, artiste d'un talent très estimé.</p>
+<p>Les événements de la Commune de Paris provoquent chez lui une
+indignation profonde et une souffrance intime :</p>
+<p><pb/></p>
+<p>— 22 —</p>
+<p>&lt;( Je suis dans un état continu de désespoir sec et de colère muette
+pour qui toute parole ou écriture est une peine... » « Ma vie est bien
+vide, et j'ai le coeur triste. J'essaie en vain de travailler, j'ébauche
+en pensée mon futur livre sur la France contemporaine *. »</p>
+<p>M. Gabriel Hanotaux a décrit le revirement qui s'opéra dans cet « ascète
+de la pensée », dans ce a prophète du déterminisme ».</p>
+<p>I. Vit, T. III, pp. 30 37-39-77-90.</p>
+<p><pb/></p>
+<p>— 23 —</p>
+<p>choses qui l'étonnent, des hommes qui meurent, du sang qui coule, des
+villes qui flambent...</p>
+<p>Voici un Taine nouveau, un Taine ému, un Taine humanisé *. »</p>
+<p>déI. Hanotaux. Histoire de la France contemporaine. II, La Présidence du
+Maréchal de Mac-Mahoo. Paris, Comnet, pp. 961-552.</p>
+<p><pb/></p>
+<p>— 24 —</p>
+<p>I. Comte diIaus$onville, La correspondance de Taine, loc. eil.</p>
+<p><pb/></p>
+<p>— 25 —</p>
+<p>Taine réservait le même accueil chaud et cordial aux amis intimes qu'il
+recevait dans sa propriété de Menthon-S'-Bernard, sur les bords du lac
+d'Annecy. Il affectionna toujours les sites délicieux de ce coin de
+Savoie, où, dans les dernières années de sa vie, il passa le meilleur de
+son temps. Ces années s'écoulèrent dans la douceur d'une vieillesse
+sereine et laborieuse. La mort le surprit en pleine lucidité d'esprit,
+sans agonie, le dimanche 5 mars 1893.</p>
+<p>Cinquante années d'efforts incessants et de labeur opiniâtre avaient
+épuisé le grand penseur qui « n'avait jamais aimé que la vérité ».</p>
+<p><pb/></p>
+<p>BIBLIOGRAPHIE.</p>
+<p>I. LES OUVRAGES DE H. TAINE</p>
+<p>De l'Intelligence. 11e édition. 2 vol.</p>
+<p>Philosophie de l'Art. 12e édition. 2 vol.</p>
+<p>Histoire de la littérature anglaise. 12e édition. 5 vol.</p>
+<p>Les Philosophes classiques du XIXe siècle en France. 9e édition. 1 vol.</p>
+<p>La Fontaine et ses fables. 17e édition. 1 vol.</p>
+<p>Essai sur Tite-Live. 7e édition. 1 vol.</p>
+<p>Essais de Critique et d'histoire. 10e édition. 1 vol.</p>
+<p>Nouveaux Essais de critique et d'histoire. 8e édition. 1 vol.</p>
+<p>Derniers Essais de critique et d'histoire. 3e édition. 1 vol.</p>
+<p>Notes sur l'Angleterre. 13e édition. 1 vol.</p>
+<p>Voyage en Italie. 13e édition. 2 vol.</p>
+<p>Carnets de voyage. Notes sur la province. (1863-1865). 1 vol.</p>
+<p>Voyage aux Pyrénées. 17e édition. 1 vol.</p>
+<p><pb/></p>
+<p>— 27 —</p>
+<p>Notes sur Paris: vie et opinions de FrédéricThomas Graindorge. 16e
+édition. 1 vol.</p>
+<p>Les origines de la France contemporaine. 25e édition. 12 vol.</p>
+<p>II. LES OUVRAGES SUR TAINE.</p>
+<p>VICTOR GIRAUD. Essai sur Taine, son oeuvre et son influence. Ouvrage
+couronné par l'Académie Française. Paris. Hachette. 1902.</p>
+<p>AMÉDÉE DE MARGERIE. H. Taine. Paris. Poussielgue. 1895.</p>
+<p><pb/></p>
+<p>— 28 —</p>
+<p>GIACOMO BARZELLOTTI. La Philosophie de H. Taine. Traduit de l'italien
+par Auguste Dietrich. Bibliothèque de Philosophie contemporaine. Paris.
+Alcan. 1900.</p>
+<p>PAUL BOURGET. Essais de Psychologie contemporaine. Paris. Alphonse
+Lemerre. 1889.</p>
+<p>EMILE BOUTMY. Taine, Scherer, Lahoulaye. Paris. Armand Colin. 1901.</p>
+<p>EMILE FAGUET. Politiques et Moralistes du dixneuvième siècle. Troisième
+Série. Paris. Société française d'imprimerie. 1900.</p>
+<p>GABRIEL MONOD. Les Maîtres de l'histoire: Renan, Taine, Michclet. Paris.
+C. Lévy. 1896.</p>
+<p>SAINTE-BEUVE. Causeries du lundi. Paris. Garnier. t. XIII, p. 204-233.</p>
+<p>EUGÈNE-MELCHIOR DE VOGUÉ. Devant le Siècle. Paris. Colin. 1896.</p>
+<p>— Quelques ouvrages ne sont pas mentionnés dans la bibliographie de M.
+Giraud; nous énumérons ci-après ceux d'entre eux que nous avons consultés :</p>
+<p>ROBERT FLINT. History of the philosophy of history. llistorical
+philosophy in France and</p>
+<p><pb/></p>
+<p>— 29 —</p>
+<p>french Belgium and Zioitserland. Edimburgh and London. William
+Blackwood. 1893. p. 627640.</p>
+<p>HENRY MICHEL. L'idée de l'Etat. Essai critique. Paris. Hachette. 1896,
+p. 534-538.</p>
+<p>LUCIEN LÉVY-BRUHL. History of Modem Philosophy in France. London. Kegan
+Paul, Trench, Trubner. 1899, p. 397-435.</p>
+<p>FRANCISQUE SARCEY. Jotirnal de Jeunesse de Francisque Sarcey, recueilli
+et annoté par Adolphe Brisson. Paris. Bibliothèque des Annales
+Politiques et Littéraires.</p>
+<p>LUCIEN ROURE. Hippolyte Taine. Religion el Naturisme. Etudes. 20 mars. —
+5 avril 1903.</p>
+<p>— Les idées politiques et sociales de Taine. Etudes. 20 septembre — 5
+octobre 1903.</p>
+<p>Comte D'HAUSSONVILLE, de l'Académie Française. La correspondance de
+Taine. — Gaulois, 5 mai 1904.</p>
+<p><pb/></p>
+<p>30</p>
+<p>LUCIEN ROURE. Hippolyte Taine. Paris. Lethielleux. 1904.</p>
+<p>X. MOISANT. Deux philosophes: Hippolyte Taine et F. Ravaisson-Mollien.
+La Science catholique. Décembre 1904.</p>
+<p>PAUL LACOMBE. Notes sur Taine. I. Le Milieu en histoire littéraire.
+Revue de Synthèse historique. Décembre 1904.</p>
+<p>— Notes sur Taine. IL Le moment en histoire littéraire. Revue de
+Synthèse historique. Février, avril, juin 1905.</p>
+<p>— Taine historien littéraire. Revue de Métaphysique et de Morale.
+Juillet 1905.</p>
+<p>GABRIEL HANOTAUX. Histoire de la France con- • temporaine. La Présidence
+du Maréchal de Mac-Mahon. Paris. Combet, p. 549, 555.</p>
+<p>C. LECIGNE. Taine d'après sa correspondance. Revue de Lille. Janvier,
+février 1905.</p>
+<p>LUCIEN ROURE. Les idées politiques de Taine dans sa correspondance.
+Etudes. Août 1905.</p>
+<p>JOHANNES SCHLAF. Kritik der Taineschen Kunsttheorie. Akademischen Verlag
+in Wien und Leipzig. 1906.</p>
+<p>PAUL LACOMBE. La Psychologie des individus et des sociétés chez Taine
+historien des littératures. Bibliothèque de Philosophie contemporaine.
+Paris. Alcan. 1906.</p>
+<p>PAUL BOURGET. Etudes et Portraits. Sociologie et Littérature. Paris.
+Pion. 1906.</p>
+<p><pb/></p>
+<p>— 31 —</p>
+<p>R. P. AT. Taine philosophe — esthète — historien. Collection Arthur
+Savaète. Paris. 1906.</p>
+<p>A. LINDEMANN. *H. Taine'S Philosophie der Kunst. Zeitschrift fiir
+Philosophie und Philosophische Kritik. — 1906.</p>
+<p>E. DE MORSIER. Taine et le socialisme. Revue socialiste. Mars 1906.</p>
+<p>EDOUARD ROD. Taine et ses critiques. Le Correspondant. 10 novembre 1906.</p>
+<p>PAUL LACOMBE. Comment se font les constitutions selon Taine. Revue
+Politique et Parlementaire. Juillet 1907.</p>
+<p>— De Vesprit classique dans la Révolution Française selon Taine. Revue
+de Métaphysique et de Morale. Septembre 1907.</p>
+<p>MICHEL 'SALOMON. Taine. Paris. Bloud, 1907.</p>
+<p>A. AULARD. Taine historien de la Révolution française. Paris. Colin. 1907.</p>
+<p>VICTOR GIRAUD. La personne et l'oeuvre de Taine d'après sa
+correspondance. Revue des Deux Mondes. 1* février 1908.</p>
+<p>Comte PAUL COTTIN. Positivisme et anarchie. Auguste Comte-LittréTaine.
+Paris. Alcan. 1908.</p>
+<p>PAUL LACOMBE. Les théories de Taine sur l'instinct social. L'esprit
+d'indépendance et de solidarité. Revue Politique et parlementaire. Avril
+1908.</p>
+<p>ANDRÉ CHEVRILLON. Taine. Notes et Souvenirs. Revue de Paris. Mai 1908.</p>
+<p><pb/></p>
+<p>LISTE DES ABREVIATIONS</p>
+<p>usitées pour désigner les ouvrages de Taine au cours de la présente
+étude et indication pour chacun de l'édition consultée.</p>
+<p>Intelligence. — De l'Intelligence. 9e édition.</p>
+<p>Phil. de l'Art. — Philosophie de l'Art. 11* édition.</p>
+<p>Hist. Litt. Angl. — Histoire de la littérature anglaise. 5e édition.</p>
+<p>Les Philosophes classiques. — Les philosophes classiques du XIXe siècle
+en France. 7e édition.</p>
+<p>La Fontaine. — La Fontaine et ses fables. 16e édition.</p>
+<p>Essai sur Tite-Live. 6e édition.</p>
+<p>Essais de Critique. — Essais de critique et d'histoire. 9e édition.</p>
+<p>Nouveaux Essais de Critique. — Nouveaux Essais de critique et
+d'histoire. 7e édition. Derniers Essais de critique. — Derniers Essais
+de critique et d'histoire. 3e édition.</p>
+<p>Notes sur l'Angleterre. 12e édition.</p>
+<p>Voyage en Italie. 9e édition.</p>
+<p>Carnets de Voyage. 1897.</p>
+<p>Voyage aux Pyrénées. 7e édition (illustrée).</p>
+<p><pb/></p>
+<p>— 33 —</p>
+<p>Graindorge. — Notes sur Paris: vie et opinions de Frédéric-Thomas
+Graindorge. 13e édition.</p>
+<p>Les origines. — Les origines de la France contemporaine. L'ancien Régime
+et la Révolution. 8e édition (grand format.) Le Régime Moderne. 20e
+édition.</p>
+<p>Vie. — H. Taine. Sa vie et sa correspondance. 3e édition.</p>
+<p>Taine</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>PREMIÈRE PARTIE</p>
+<p>LES CAUSES</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHAPITRE II</p>
+<p>LES CAUSES DERNIERES.</p>
+<p>LA MÉTAPHYSIQUE.</p>
+<p>M. Paul, dans les Philosophes classiques, termine son discours sur la
+méthode par ce tableau synthétique : « Par cette hiérarchie de
+nécessités, le monde forme un être unique, indivisible, dont tous les
+êtres sont les membres. Au suprême sommet des choses, au plus haut de
+l'éther lumineux et inaccessible, se prononce l'axiome éternel, et le
+retentissement prolongé de cette formule créatrice compose, par ses
+ondulations inépuisables, l'immensité de l'univers. Toute forme, tout
+changement, tout mouvement, toule idée est un de ses actes. Elle
+subsiste en loules choses, et elle n'est bornée par aucune chose. La
+matière et la pensée, la planète et l'homme, les entassements de soleils et</p>
+<p><pb/></p>
+<p>— 38 —</p>
+<p>les palpitations d'un insecte, la vie et la mort, la douleur et la joie,
+il n'est rien qui ne l'exprime, et il n'est rien qui l'exprime tout
+entière... L'indifférente, l'immobile, l'éternelle, la toutepuissante,
+la créatrice, aucun nom ne l'épuisé ; et quand se dévoile sa face
+sereine et sublime, il n'est point d'esprit d'homme qui ne ploie
+consterné d'admiration el d'horreur l. »</p>
+<p>M. Faguel, dans son étude sur Taine 2, prétend que sa philosophie est
+modeste^ sa science réservée, et que, pénélré du sentiment des limites
+de l'esprit humain, il a systématiquemenl banni la métaphysique du champ
+de sa compétence. C'est aller trop loin, selon nous. Encore que Taine
+n'ait pas fait d'exposé systématique d'une métaphysique, il en pose très
+nettement les principes dans des passages nombreux de</p>
+<p>1. Les Philosophes classiques, pp. 370-371.</p>
+<p>2. E. .Faguel, Politiques el Moralistes du XIX* tiède. 3* série, pp. 2«
+217.</p>
+<p><pb/></p>
+<p>— 39 —</p>
+<p>Et en un autre endroit encore : « Si quelqu'un recueillait les trois ou
+quatre grandes idées où aboutissent nos sciences, et les trois ou quatre
+genres d'existence qui résument notre univers ; s'il comparait ces deux
+étranges quantités, ces principales formes ou déterminations de la
+quantité qu'on appelle lois physiques, les types chimiques, et les
+espèces vivantes, el celte merveil* leuse puissance représentative qui
+est l'esprit, et qui, sans tomber dans la quantité, reproduit les deux
+autres et elle-même ; s'il découvrait enlre ces trois termes : la
+quantité pure, la quantité déterminée et la quantité supprimée, un ordre
+tel que la première appelât la seconde, et la seconde la troisième ;
+s'il établissait ainsi que la quantité pure est le commencement néces1.</p>
+<p>néces1. Utst. Litt. Angl., IV, pp. 328-330. — Vie, II, pp. 112-113. —
+Purénées, pp. 476-477. — Voyage en Italie, Tome II, pp. 434436. —
+Graindorge, p. 333.</p>
+<p>2. Phil. classiques. Préface, p. x.</p>
+<p><pb/></p>
+<p>— 40 —</p>
+<p>saire de la nature, el que la pensée est le terme extrême auquel la
+nature est tout entière suspendue ; si ensuite, isolant les éléments de
+ces données, il montrait qu'ils doivent se combiner comme ils sont
+combinés et non autrement ; s'il prouvait enfin qu'il n'y a point
+d'autres éléments et qu'il ne peut y en avoir d'autres, i7 aurait
+esquissé une métaphysique, et touché la source sans être obligé de
+descendre jusqu'au terme de tous les ruisseaux \ »</p>
+<p>Pour Taine, la métaphysique est donc la re. cherche des premières
+causes, c'est-à-dire des lois générales qui, en verlu de leur généralité
+'même, dominent toutes les sciences et ne sont touchées par aucune
+science particulière : la recherche de ces lois, et ultérieurement de la
+loi universelle unique dont elles sont les dérivées immédiates, est
+l'objet propre de la métaphysique.</p>
+<p>l possible 2, loin de la bannir du champ du saI</p>
+<p>saI</p>
+<p>: I. Hitt. LUI. Angl., V, pp. 415-41G</p>
+<p>2. Hist. Lill. Angl., T. V, p. «15. « La métaphysique, j'entends la
+recherche des premières causes, est possiUe. »</p>
+<p><pb/></p>
+<p>— 41 —</p>
+<p>Selon lui, il n'existe qu'un seul être, la Nature ; tous les êtres en
+sont les membres, leurs actions en sont la vie : la pluralité des choses
+n'est qu'apparente, elles sont un aspect particulier, individualisé du
+Tout infini el parfait. En dehors de celui-ci, rien n'existe, et tout ce
+qui existe est une de ses parties, un de ses attributs ou un de ses
+actes l.</p>
+<p><pb/></p>
+<p>-42 —</p>
+<p>Aussi les choses sont-elles divines, « la Nature est Dieu, le vrai Dieu,
+parce qu'elle est par. faitement belle, éternellement vivante, absolument</p>
+<p>absolument et nécessaire elle est le Tout in.</p>
+<p>fini et parlait *. »</p>
+<p>On ne pouvait faire profession plus nette de panthéisme. Et ce n'est pas
+seulement chez Taine une sorle do foi irraisonnée et vague, c'est une
+conviction profonde, inébranlable, appuyée sur des raisonnements et des
+syllogismes. « Ce Dieu dont l'existence me semble mathématiquement
+démontrée, n'est point ce tyran absurde et cruel que les religions nous
+enseignent et que le vulgaire adore », mais ce Dieu dans la nature
+duquel nous trouverons la raison de tout ce qui est, dont la
+connaissance s'identifiera pour nous avec la connaissance du beau, du
+bien, du vrai, et nous permettra de « prouver qu'il y a pour l'homme une
+règle de conduite, un bul immuable pour l'artiste, une certitude absolue
+pour le savant a. » -^ Taine a donné lui-même la démonstration u
+mathématique &gt;i de ce panthéisme :</p>
+<p>« Il n'y a que trois possibilités : 1° qu'il n'existe rien ; 2° qu'il
+existe un être ou des êtres</p>
+<p>rT Vie, I, pp. 150-151. I 2. Vie, I, p. 30.</p>
+<p><pb/></p>
+<p>— 43 —</p>
+<p>imparfaits ; 3° qu'il existe un être ayant la plénitude de l'Etre. Car
+plusieurs êtres ayant la plénitude de l'Etre sont impossibles puisqu'ils
+se limitent. La première hypothèse est, dans ses termes mêmes, absurde,
+car l'existence du néant est contradictoire. Le rien est
+incompréhensible. C'est dire que le non-être est, que ce qui n'existe
+pas, existe.</p>
+<p>M Donc la troisième hypothèse existe nécessairement, et la raison d'être
+de Dieu est l'impossibilité de toute autre existence l. v »</p>
+<p>Il n'existe donc qu'un seul être, ayant la plénitude de l'Etre..Et,
+comme d'autre part, « l'ab1.</p>
+<p>l'ab1. I, p. 31.</p>
+<p><pb/></p>
+<p>_ 44 —</p>
+<p>1. Vie, I, p. 117.</p>
+<p>2. Vie, I, pp. 319350351.</p>
+<p><pb/></p>
+<p>— 45 —</p>
+<p>Rien n'existe donc qu'une loi, partout présente, partout agissante. A ce
+titre, et dans son développement en lois subordonnées, on l'appelle
+cause des êtres ; elle est située, non pas, dans une sphère inaccessible
+et lointaine, mais dans les êtres et les faits eux-mêmes, de sorte que
+chaque être, chaque événement, manifeste</p>
+<p>1. De l'Intelligence. Préface, p. 10.</p>
+<p><pb/></p>
+<p>— 46 —</p>
+<p>la loi primitive et universelle qui gouverne le monde .*. • ' ' -</p>
+<p>Nous disions plus haut que Taine, pour avoir indiqué les grandes lignes
+d'une métaphysique, n'en avait pas moins négligé les recherches qui en
+sont l'objet. C'est qu'aussi bien ces recherches, dans l'état actuel de
+la science, sont prématurées sinon vaines. Viendra-t-il le jour où
+l'intelligence humaine pourra atteindre ces sommets élevés, où la vue
+synthétique du monde lui donnera le pourquoi de toute chose ? Taine
+voulait l'espérer :</p>
+<p>et Très probablement, la nouvelle loi mécanique sur la conservation de
+la force est une</p>
+<p>Ai 1. Phil. classiques, Préface, p. MIL C La cause d'un fait esl I» lloi
+d'où il n déduit. » V Vte, II, p. «7.</p>
+<p><pb/></p>
+<p>_ 47 — .</p>
+<p>dérivée peu distante de cette loi suprême</p>
+<p>1. Dt Vlnttlllgtnce, Préface, pp. 10 et 11.</p>
+<p><pb/></p>
+<p>— 48 —</p>
+<p>*** L'essence de toute chose est donc une série de lois superposées.
+Voici sur mon bureau un timbre électrique que je presse du doigt : la</p>
+<p>^résistance que j'éprouve, la rigidité, la sonorité, la couleur que mes
+sens perçoivent, la chose avec tous ses caractères qualitatifs et
+quantitatifs, ne sont que l'aspect particulier sous lequel j'aperçois
+les diverses lois de l'acoustique, de l'optique, *de la pesanteur et de
+l'élasticité des corps, et, d'une façon moins apparente, les lois de la
+conservation de la masse et de l'énergie, la loi de la gravitation
+universelle, et enfin, sans la connaître, la loi suprême dont toutes
+celles-ci ne sont que des dérivées subordonnées et. le développement
+prolongé 3.</p>
+<p>"2x</p>
+<p>f 1. Vie, H, p. 314. c Le monde physique n'est qu'une apparence \
+produite par le jeu de notre perception extérieure. &lt;&gt; L, 2. lbid., pp.
+257.258.</p>
+<p>2. Phitosophe* classiques, pp. 363-369.</p>
+<p><pb/></p>
+<p>— 49 —</p>
+<p>t. Sur les déments derniers des choses. Notes philosophiques de Taine,
+publiées en appendice è l'ouvrage de Barzellotti. La Philosophie de II.
+Taine, v. 410.</p>
+<p>2. Ibid., p. 419.</p>
+<p>Taine. .</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>— 50 —</p>
+<p>C'est donc aux exigences de l'esprit qu'il faut s'en rapporter ; elles
+nous renseignent sur ce qui est : il n'existe que des choses générales,
+des lois, lesquelles nous apparaissent comme des choses particulières ;
+bien plus, il n'existe -.qu'une pure loi abstraite, qui se manifeste
+immédiatement, dans son existence même, et progressivement, dans son
+exercice. Considérée dans sa manifestation immédiate, Taine l'appelle la
+« quantité pure » ; dans sa manifestation progressive qui constitue le
+monde et son évolution incessante, il l'appelle la « quantité déterminée
+» et la « quantité supprimée * ».</p>
+<p>Lorsqu'on désigne par le mot substance, la loi suprême, on l'envisage
+dans sa nature même, et, dire que la substance est « constituée par une
+infinité d'attributs 2 », c'est dire que la nature de cette loi est
+constituée par la série infinie de ses actes finis. Les attributs de la
+substance ne sont, en effet, que le résultat du jeu des lois divines 3 ;
+l'être absolu, nécessaire, éternel, le Tout infini et parfait, c'est
+donc une loi, que nous appelons Dieu, lorsque nous la considérons
+simplement comme existante, dans</p>
+<p>1. Ilisl. Lilt. Angl, V, p. 415.</p>
+<p>2 Vie, I, p. 349.</p>
+<p>3. Ibid., p. 350. t La pensée est un attribut de la substance. »</p>
+<p><pb/></p>
+<p>— 51 —</p>
+<p>la manifestation immédiate de son essence ; que nous appelons le monde,
+lorsque nous la considérons dans son exercice, dans la manifestation
+progressive de son essence. La matière sensible, c'est l'enveloppe dont
+nos sens entourent, dans leurs perceptions, les lois agissantes et qui
+fait que les choses nous apparaissent comme particulières \ Transportant
+notre façon de percevoir les choses dans le domaine de la métaphysique
+pure, nous disons que la loi suprême considérée complètement comme
+existante, c'est &lt;« la matière indéterminée et diffuse 2 » ou la
+quantité pure », et que la loi suprême considérée dans son exercice,
+c'est « la matière individualisée et séparée », ou la « quantité
+déterminée » el la « quantité supprimée », c'est-à-dire les types
+chimiques, les , espèces vivantes et l'esprit \</p>
+<p>indivi1. II, p. 257.</p>
+<p>«}. Vie, I, p. 193.</p>
+<p>3. Ilisl. LUI. Angl, T. V, p. 415.</p>
+<p><pb/></p>
+<p>— 52 —</p>
+<p>duel qui ail l'unité du premier moment et la détermination du second *. »</p>
+<p>1. Vie, I, p. 190 cl Philosophie de l'Art, I, p. 43. t. Vie, I, pp. 152
+et 196.</p>
+<p><pb/></p>
+<p>— 53 —</p>
+<p>façon des solitaires et des vrais chrétiens, au dedans de lui-même, dans
+les secrets mouvements de son être... Ou bien encore il faut qu'il soit
+païen s'il n'est mystique ; il faut que la religion lui montre Dieu dans
+la nature, si elle ne le lui montre pas dans l'âme... Aujourd'hui dans
+cet abatis universel des dogmes, parmi l'encombrement des idées
+entassées par la philosophie, l'histoire el les sciences, parmi les
+désirs excessifs et les dégoûts prématurés, la paix ne nous revient que
+par le sentiment des choses divines. Ce grand coeur malheureux de
+l'homme moderne, tourmenté par le besoin et l'impuissance d'adorer, ne
+trouve la beauté parfaite el consolante que dans la nature infinie... ;
+il tend les bras vers elle, et sa vieille âme endolorie par tant
+d'efforts et d'expériences reprend la santé et le courage par
+l'attouchement de la mère qui l'a porté '. »</p>
+<p>1. La Fontaine el ses Fables, pp. 215-210-217. ]</p>
+<p><pb/></p>
+<p>— 54 —</p>
+<p>*%</p>
+<p>I. Derniers lissais. — Sainte Odite el Iphigénie en Tauride, |.p, feO-91</p>
+<p><pb/></p>
+<p>— 55 —</p>
+<p>Cette tentative a-t-elle réussi?</p>
+<p><pb/></p>
+<p>— 56 —</p>
+<p>&lt;.du monisme panthéislique, et par une démonsjjtration psychologique de
+sa ronception de l'uni■vers, tirée de la conformité expérimentale des Il
+idées aux choses.</p>
+<p>Que vaut son argumentation basée sur la considération des « trois
+possibilités »?</p>
+<p>Reste la sous-disjonction des deux autres possibilités : ce quelque
+chose existant nécessairement est. ou bien un ou des êtres impar-</p>
+<p><pb/></p>
+<p>— 57 —</p>
+<p>faits, ou bien un être parfait ayant la plénitude de l'être. — Or, si
+l'être existant est imparfait, ou manque d'une partie de l'être, il
+n'aura pas de raison d'exister ; cependant tout a sa raison d'être ;
+donc ce qui existe nécessairement ne'l peut être qu'un èlre ayant la
+plénitude de l'Etre dont la raison est l'impossibilité de loule aulre
+existence.</p>
+<p>En effel, si deux êtres ayant la plénitude de^ l'Etre sont simultanément
+impossibles, parce( que leur limitation réciproque empêcherait en ;
+chacun d'eux la possession de la plénitude de'' l'Etre, c'est que l'être
+nécessaire visé est un cer-\ tain quantum que deux êtres ne peuvent
+possé-f der pleinement, chacun pour le tout. C'est telle-) ment vrai,
+que, d'après l'hypothèse de Taine/ des parties peuvent y être
+distinguées et qu'un être peut être dit imparfait par le molif qu'il
+manque d'une partie de l'Etre. Au surplus, il</p>
+<p><pb/></p>
+<p>— 58 —</p>
+<p>n'est concevable qu'un être puisse avoir plus ou hnoins d'être que "s'il
+est considéré quantitativeiment.</p>
+<p>1. Il faut écarter le point de vue do la perfection des êlres. A ce
+point de vue, il peut y avoir du plus ou du moins, non a celui de l't
+esse » métaphysique.</p>
+<p><pb/></p>
+<p>— 59 —</p>
+<p>même que plusieurs êtres parfaits ne peuA vent coexister parce qu'ils se
+limiteraient mu-f tuellement dans leur quantité d'être, de même/ lin
+être parfait et des êtres imparfaits ne peu-) vent coexister pour la
+même raison. On serait] donc retombé nécessairement dans une des deux
+hypothèses de la disjonction posée.</p>
+<p>I. Cf. Franzelin, Traclatus de Dco uno secundam naluram, pp. |J 283-281.
+Tibcrghion dans son lissai théorique cl historique sur la gi-</p>
+<p><pb/></p>
+<p>-GuLe</p>
+<p>néralion des connaissances humaines, pp. 110-111 cl pp. 738-739,
+reprenant les idées de Krause, conclut aussi ù l'existence d'un Lire
+unique ; mais il prétend sauvegarder I individualité des êlres, en
+particulier de la raison humaine qui est « l'individualisation de
+l'infini » cl l.i &lt;% personnification de l'obsolu ».</p>
+<p><pb/></p>
+<p>— 01 —</p>
+<p>si elle y était, en effet, comprise, l'élimination du premier membre de
+la disjonction se trouverait efficace. Mais alors, répondrons-nous, la
+vérité du second membre ne consisterait pas dans l'existence d'un être
+parfait, excluant la possibilité de toule autre existence. Or, c'est ce
+que Taine prétend établir dans sa conclusion. Dès lors celle-ci n'est
+pas recevable, puisqu'elle repose sur une élimination inefficace du
+premier membre de la disjonction.</p>
+<p>Et que l'on ne dise pas que, dans l'hypothèse de la réalisation de la
+plénitude de l'être par une collection d'êtres imparfaits, la façon dont
+celle-ci se trouverait réalisée, serait sans cause, sans raison d'être,
+puisqu'un nombre indéfini de combinaisons esl possible au même titre que
+celle qui se trouverait réalisée : car l'objection vaudrait tout aussi
+bien contre l'hypothèse de la réalisation de la perfection de l'être par
+un seul être. Que le quantum de l'être total soit fini, sa réalisation
+par 4, par exemple, est possible au même titre que sa réalisation par 1.
+Car la réalisation supposée faite, celle qui s'est opérée par 4, trouve
+sa raison d'être en ce que chacun des quatre êtres subit une limitation
+réciproque de la part des trois autres, comme la réalisation opérée par
+un être trouve sa raison</p>
+<p><pb/></p>
+<p>— 62 —</p>
+<p>Résumons-nous : l'argumentation sur laquelle</p>
+<p>/Taine base son panthéisme n'a de valeur logique</p>
+<p>(que si l'on prend le mot « être » dans un sens</p>
+<p>quantitatif. Taine montre d'ailleurs clairement</p>
+<p>.qu'il entendait ce mot de cette façon. — Or,</p>
+<p>l'argumenlalion dénuée de force probante, car sa</p>
+<p>conclusion repose sur une double élimination</p>
+<p>jdisjonctive qui se trouve être inefficace.</p>
+<p><pb/></p>
+<p>_. 6.3 —</p>
+<p><pb/></p>
+<p>— 64 —</p>
+<p>I. Cf. Sur les déments derniers des choses, pp. 108 h 112. — G.
+Barzellotti, op. cit., appendice.</p>
+<p><pb/></p>
+<p>- 65 —</p>
+<p>Cette conséquence est-elle juste, et ces prémisses sont-elles fondées ?</p>
+<p>Il semble qu'il ait fallu perdre de vue les données de l'histoire, pour
+affirmer celte infaillibilité des exigences de l'esprit humain.
+L'histoire de la Philosophie n est-elle pas, en effet, pour une bonne
+pari, l'histoire de la caducité [1 des systèmes élaborés par
+l'intelligence humai-1/</p>
+<p>Taine «</p>
+<p><pb/></p>
+<p>— 66 —</p>
+<p><pb/></p>
+<p>— 67 —</p>
+<p>Mais alors que resterait-il de sa métaphysique ? Beaucoup
+d'affirmations, sans preuve. Elle</p>
+<p>I. Barzellotti, op cit., p. 407, note.</p>
+<p><pb/></p>
+<p>— 68 —</p>
+<p>Il n'est pas de recherches scientifiques où il ne trouve un prétexte à
+ces échappées hardies. On peut même affirmer que celles-ci sont le but
+de colles-là. — « Essais de critique, travaux d'histoire, livres de
+fantaisie, tout a servi une passion dominatrice : la philosophie. M.
+Taine n'a jamais élé... qu'un philosophe 3 ».</p>
+<p>Celle passion dominatrice l'a poussé jusque dans la métaphysique. Nous
+nous sommes efforcé de coordonner les principes que ses rares excursions
+dans ce domaine lointain l'ont amené</p>
+<p>1. Nouveaux Lésais, Baltac, p. 80. !f. Les Philosophes classiques, p. 371.</p>
+<p>3. I». liomgel, Lssais de Psychologie contemporaine, II. Taine, p. 185.</p>
+<p><pb/></p>
+<p>— 69 —</p>
+<p>1. De l'Intelligence, Préface, p. 13.</p>
+<p><pb/></p>
+<p>CHAPITRE 111</p>
+<p>LES CAUSES SUBORDONNEES.</p>
+<p>LE MONDE.</p>
+<p><pb/></p>
+<p>— 71 —</p>
+<p>physique : les lois qui s'y déploient sont l'objet de la cosmologie.</p>
+<p>« Il n'y a rien de réel dans les corps que leurs mouvements * »,
+c'est-à-dire le jeu de ces</p>
+<p>1. De l'Intelligence, Préface, p. 8.</p>
+<p><pb/></p>
+<p>— 72 —</p>
+<p>1. Ibidem.</p>
+<p>2. Hist. LUI. Angl, Tome V, p. 397.</p>
+<p>3. De l'Intelligence. Préface, pp. 8-9.</p>
+<p><pb/></p>
+<p>73</p>
+<p>Dès lors, il n'y a plus lieu de distinguer enlrc^ la nature animée et la
+nature, inanimée : tout vit. Bien pLis, tout est vie, il n'y a qu'un
+mode d'être ; exister c'est vivre.</p>
+<p>« Je vois des joies d'espèces différentes dans la grosse rondeur du
+cercle bêle el mathématique, dans la simplicité de l'élégante ellipse,
+dans les inflexions voluptueuses de la ligne sinueuse et irrégulière. Je
+vois de la souffrance dans les attitudes pénibles des rocs soutenus</p>
+<p>1. Voyage aux Pyrénées, pp. 519-5M. a Tout vit. »</p>
+<p><pb/></p>
+<p>— 74 -</p>
+<p>dans les cassures multipliées des cimes ébréchées el meurtries, dans les
+hautes tranchées saignantes où le roc lisse se dresse comme un mur *. »</p>
+<p>Par l'identité des éléments constitutifs des êtres, les règnes se
+rapprochent, les différences s'évanouissent, l'unité foncière de la
+Nature s'accuse. Il n'y a qu'une différence de degré \ entre les mondes
+que nous distinguons : au \ degré inférieur, au dessous du monde des
+animaux, qui sonl les frères de l'homme, « des enfants qui, arrêtés dans
+leur croissance, ont gardé la simplicité, l'indépendance el la beauté du
+premier Age », paraît un monde nouveau, &lt;c encore plus simple et plus
+calme, celui des plantes, des pierres, des nuages, des eaux, de toutes
+les choses qui semblent inanimées. Elles le sonl pour la réflexion
+étroite et grossière qui ne voit la vie que dans la pensée el la
+volonté. Mais la vie est dans tous les mouvements et dans toutes les
+formes ; car chaque mouvement révèle une force qui s'exprime, et chaque
+forme révèle une force qui s'est exprimée. Partout autour de nous, dans
+les objets les plus bruts et les plus inertes, il y a des tendances, des</p>
+<p>( J Vie, II, p. 105.</p>
+<p><pb/></p>
+<p>1. La Fontaine el ses Fuites, pp. 171-172.</p>
+<p><pb/></p>
+<p>-76 —</p>
+<p>des faits, pour les classer, pour les ranger sous des étiquettes l.</p>
+<p>« Nous croyons qu'il n'y a point de substances, mais seulement des
+systèmes de faits. Nous regardons l'idée de substance comme une illusion
+psychologique... Nous pensons qu'il n'y a rien au monde que des faits et
+des lois, c'està-dire des événements et leurs rapports a. » . Pour
+Taine, la substance est donc un reste des /entités scolastiques; il faut
+en bannir la conception grossière, mais on peut en garder le mot, 'à
+condition d'en bien préciser le sens. La substance désigne l'ensemble
+primitif des qualités d'un être ; elle n'est rien en dehors de ces
+qualités. En somme le mot substance ne désigne que le point de vue
+auquel on envisage ces qualités. « L'objet avant analyse et division
+c'est la substance ; le même objet analysé et divisé, ce sont les
+qualités \ »</p>
+<p>1. llisl. LUI. Angl, Tome V, p. 3%.~") 2 Ibidem, p. 397. -1</p>
+<p>3. Les Philosophes classiques, pp. ICô 107.</p>
+<p><pb/></p>
+<p>— 77 —</p>
+<p>fails et dès lors on peut dire que « trouver l'essence, c'est ramener un
+fait aux faits qui le composent et auxquels il se réduit l. »</p>
+<p>De môme que certains fails sont l'essence d'au- \ 1res faits, de môme
+certains faits sont la cause /, d'autres faits : « les essences et les
+causes ne \ sont que des faits 3. »</p>
+<p>En quelques mots, voici toute cette cosmologie : il n'y a rien de réel
+dans les corps que leurs mouvements ; ces mouvements sont des sensa- I
+lions rudimentaires, des qualités, c'est-à-dire des I faits constitutifs
+de faits plus complexes dont ils | sont l'essence et la cause. ^</p>
+<p>D'autre pari, rien n'existe que la substance, ses attributs el ses
+actes, c'est-à-dire la loi suprême développée en lois subordonnées. Dès
+lors, l'essence des lois divines constitue toute la] ^ réalité des êtres
+: les qualités, faits, mouvements, sensations, ne désignent tous que le
+jeu des lois, et c'est avec raison dès lors qu'on con- ' sidère
+celles-ci comme des &lt;&lt; forces naturelles », des « puissances naturelles
+qui sont le principe de la nature 3. » De sorte que « chaque chose,
+brute ou pensante est un groupe de puissan1.</p>
+<p>puissan1. p. 256.</p>
+<p>2. Ibidem, p. 253.</p>
+<p>3. Philosophie de l'Art, Tome II, p. 2S2-2S3.</p>
+<p><pb/></p>
+<p>— 78 —</p>
+<p>ces '..» « Par son essence, la nature est un amas do forces, inégales en
+grandeur, dont le conflit est éternel, mais dont la somme et le travail
+total demeurent toujours les mômes 2. »</p>
+<p>* *</p>
+<p>Pas plus qu'en métaphysique, Taine n'a rc\ cherché en cosmologie les
+lois qui sont l'objet propre de celte science. Somme toute, il s'est
+^contenté d'affirmer les principes qui permettent (de la considérer
+comme un chapitre de la psychologie ; le reste n'est qu'une application
+— Âvbs logique d'ailleurs — de ses principes sur )la constitution de
+l'univers.</p>
+<p>Cette extension du domaine de la psychologie est-elle légitime ?</p>
+<p>Pour qu'elle le fût , il eût fallu tout au moins prouver les
+affirmations qui la fondent : cellesci, en effet, sont trop hardies pour
+pouvoir, sans preuve, engendrer non pas même la certitude, mais
+simplement une vraisemblance, une probabilité.</p>
+<p>Nous saisissons certains phénomènes, tantôt comme des mouvements
+moléculaires par la voie</p>
+<p>l Ilisl. LUI. Angl, Tome IV, p. 381. 2. Philosophie, de l'Art, Tome II,
+p. 313.</p>
+<p><pb/></p>
+<p>— 79 —</p>
+<p><pb/></p>
+<p>— 86 —</p>
+<p>On pourrait dire que la manifestation progressive de la loi suprême
+constitue le devenir des choses. Mais alors on n'expliquerait pas la
+•permanence des formes, ni la stabilité des types.</p>
+<p>Il y a bien une explication : c'est de dire que ce Dieu universel cl
+multiforme, est esprit, qu'il -dirige son activité d'une manière
+consciente et</p>
+<p><pb/></p>
+<p>— 81 —</p>
+<p>libre. Mais c'est renoncer au déterminisme, et accueillir le premier
+anneau d'une chaîne do conséquences qui bouleverseraient totalement le
+système que Taine a défendu.</p>
+<p>Taine</p>
+<p><pb/></p>
+<p>CHAPITRE IV</p>
+<p>LA SOCIETE</p>
+<p>Il est un caractère qui distingue essentiellement les choses que nous
+disons inanimées, des choses que nous disons animées. Les premières ont
+un caractère de permanence que les secondes n'ont pas ; celles-là
+demeurent, celles-ci passent et se reproduisent. On peut donc con-</p>
+<p><pb/></p>
+<p>— 83 —</p>
+<p>cevoir la matière inerte comme une condition do la matière vivante,
+puisque le renouvellement de la vie s'effectue dans un état de
+dépendance vis-à-vis de la permanence de la matière inerte. Sans
+descendre jusque dans le détail des sciences qui se partagent ces deux
+ordres, Taine en a fait en quelque sorte la philosophie ; nous avons vu
+les conclusions auxquelles il s'est arrêté dans son étude du inonde
+physique. Poussant plus loin ses investigations, il a recherché les lois
+qui dominent l'évolution de la matière vivante, et plus particulièrement
+de celle portion d'elle-même qu'on appelle la race humaine. Aussi bien,
+la psychologie trouve-t-elle dans l'homme son véritable objet ; et somme
+toute, la philosophie de Taine n'en a pas d'autre.</p>
+<p>Après s'être efforcé de percer le mystère qui entoure la cause première,
+le dieu dont l'homme est un des membres, après avoir établi les
+principes du monde dont il est un atome, il fallait étudier ses
+alentours immédiats, les sociétés qui enveloppent sa naissance et
+conditionnent son développement. L'étude des sociétés humaines, qui a
+toujours été au premier rang des préoccupations intellectuelles de
+Taine, constitue l'objet d'une science qu'on a appelée la sociologie.</p>
+<p><pb/></p>
+<p>— 81 —</p>
+<p>Tous les phénomènes sociaux s'expliquent par le jeu de cette loi :
+toutes les lois qui régissent la société humaine dérivent d'elle. Quel
+que soit le phénomène social que l'on envisage, son apparition et sa
+nature s'expliquent toujours par</p>
+<p>M'aclibn de Irois facteurs : la race, le milieu et le moment.</p>
+<p>\ jfaçons de senlir et de penser, que manifeste une</p>
+<p>liportion de l'humanité, et qui la distinguent des</p>
+<p>(autres portions, dotées elles-mêmes de carac\</p>
+<p>carac\</p>
+<p>1 Sluart Mill, Auguste Comte el le Positivisme, p. 11. — Cité par
+Dcfourny, La Sociologie Positiviste, p. 21.</p>
+<p><pb/></p>
+<p>— 85 —</p>
+<p>2. Uisl. LUI. Angl, Préface, p. xxv.</p>
+<p><pb/></p>
+<p>— 86 —</p>
+<p>Des individus, ces modifications pénètrent dans la race el s'y
+implantent,, de telle sorte que les caractères de la race se dessinent
+d'après les conditions du milieu. Or, les hommes se sont établis dans
+différents milieux ; ils ont donc dû s'y accommoder, s'y adapter : cl
+dès lors les différences qui existaient entre ces diverses conditions
+matérielles, ont déterminé dans le cours de longs siècles, des
+différences correspondantes dans la structure du corps cl par celles-ci
+dans le tempérament et la structure mentale des peu1.</p>
+<p>peu1. de Voyage, p. 331.</p>
+<p><pb/></p>
+<p>— 87 —</p>
+<p>de1. Fontaine cl ses Faites, p. 313.</p>
+<p><pb/></p>
+<p>— 88 —</p>
+<p>meure, et, partant, des croisements de race, ou tout au moins un
+changement dii milieu physique, c'est-à-dire une émigration et la lente
+impression d'un nouveau climat ; bref, une transformation du tempérament
+et de la structure corporelle. Quand, dans le même pays, le sang reste à
+peu près pur, le même fonds d'âme et d'esprit qui s'est montré dans les
+premiers grarîds-pères se retrouve dans les derniers petits-enfants 1. »</p>
+<p>Les « forces du dehors » constituent le deuxième facteur primordial, le
+milieu, et sont i principalement, le climat, les circonstances
+politiques et les conditions sociales. La grande 'force du dehors, c'est
+le climat ; l'action des deux autres est postérieure a CéîïéTles forces
+du dedans. Les façons de penser et de sentir qui caractérisent un peuple
+expliquent, en effet, ses institutions et son histoire ; elles sont
+fonction de la race qui les engendre et qui la crée *. Au (contraire, le
+climat est une force antérieure aux [forces du dedans, qui se transforme
+en quelnue sorte en ces forces internes ; mais la transformation n'est
+jamais complète et le milieu physique continue d'agir, soit pour main1.</p>
+<p>main1. de l'Art, Tome II, pp. 230-251 J</p>
+<p>2. ItistfLitl Angl, Préface, pp. iv-v. —I</p>
+<p><pb/></p>
+<p>— 89 —</p>
+<p>L'influence du climat est donc prépondérante ; il n'y a pas de plus
+grande puissance.</p>
+<p>1. Ibidem, pp. xxvi 6 xtit</p>
+<p><pb/></p>
+<p>— 96 —</p>
+<p>Le caractère d'un peuple, sa mentalité, sont donc en relation intime
+avec les conditions du milieu dans lequel il s'est développé.</p>
+<p>« Tout sort du climat ; la tête humaine ne fait que reproduire et
+concentrer la nature qui l'environne 2. »</p>
+<p>tl La Fontaine el ses Fables, pp. 8-9. — Voyage en Italie, Tome I, pp.
+35-30. — Carnet» de Voyage, p II. „2. Carnets de Voyage, p. 102.</p>
+<p><pb/></p>
+<p>— 91 —</p>
+<p>« Les conditions font les caractères, car le caractère n'est que
+l'ensemble des sentiments habituels, lesquels naissent de notre état
+journalier. Nos occupations et nos habitudes sonl comme une température
+morale qui fortifie et redresse notre Ame, ou l'affaiblit et la fait
+ramper. .. Nous naissons tous et nous croissons d'un mouvement spontané,
+libres, élancés, comme des plantes saines et vigoureuses. On nous
+transplante, on nous redresse, on nous émonde, on nous courbe. L'homme
+disparaît, la machine reste ; chacun prend les défauts de son état, et</p>
+<p>1. Le» Origines. Cf. La Révolution, Tome I, pp. 322-323. ]</p>
+<p><pb/></p>
+<p>— 92 —</p>
+<p>de ces travers combinés naît la société humaine *. » v</p>
+<p>Il y a un troisième facteur dont il importe de tenir compte dans l'étude
+de la formation des sociétés humaines ; c'est le facteur que Taine a
+appelé le moment.</p>
+<p>Beaucoup d'auteurs ont cru que Taine avait</p>
+<p>1. La Fontaine et ses Fables, pp. I2J 13!). j</p>
+<p>2. Ilisl. LUI Angl, p. xxix-xxx. ~~~^</p>
+<p><pb/></p>
+<p>— 93 —</p>
+<p><pb/></p>
+<p>— 94 —</p>
+<p>L'histoire de l'humanité n'est que le récit du jeu combiné des facteurs
+primordiaux, véritables divinités, maîtresses des destinées de l'homme.
+Ces forces omnipotentes ne sont pas des êtres métaphysiques cachés au
+sein des cho$ ses : elles sont ces choses elles-mêmes. Le cliI mat ne
+désigne, en effet, que le degré de température, la configuration du sol
+et la couleur du ciel, le milieu physique que constitue un endroit
+quelconque de notre planèlc. Divers animaux y vivent, parmi lesquels
+l'homme, le mieux orga\</p>
+<p>orga\ Itisl. LUI. Angl, Préface, p. xxxi. — La Fontaine, p. 213. ^Voyage
+en Italie, T. I, pp. 381-385.</p>
+<p><pb/></p>
+<p>— 95 —</p>
+<p>2. Uist. LUI Angl, Préface, pp. xvt-xvit.</p>
+<p>3. Ibidem, pp. xvtit-m.</p>
+<p><pb/></p>
+<p>— 96 —</p>
+<p>« A présent supposez que cet élément commun reçoive du milieu, du moment
+ou de la race des caractères propres, il est clair que tous les grou-</p>
+<p><pb/></p>
+<p>— 97 —</p>
+<p>2. Wfal. LUI. Andl^ffome II, p. ftfZ&gt;\</p>
+<p>3. Ibidem, TomoflT^f JJ 7.1 \|Jw</p>
+<p>4. Ibidem, Tome Ir^p. 46 fct. ^-Wftjïr* III, pp. 141 A 143.</p>
+<p>Tb!ne- ' \ X . Jf / y</p>
+<p><pb/></p>
+<p>— 98 —</p>
+<p><pb/></p>
+<p>- 99 —</p>
+<p>veloppée, et nulle puissance ne peut se développer tout entière, sinon
+dans le pays où elle se rencontre naturellement et chez tous, où
+l'éducation la nourrit, où l'exemple la fortifie, où le caractère la
+soutient, où le public la provoque *. »</p>
+<p>• 1. La Fontaine et ses Fables, pp. 343-314.</p>
+<p><pb/></p>
+<p>— 100 - .</p>
+<p>grand fleuve, nous avons chacun un petit mouvement, et nous faisons un
+peu de bruit dans le large courant qui nous emporte ; mais nous allons
+avec les autres et nous n'avançons que poussés par eux l. »</p>
+<p>\ 1. Essai sur TileLive, pp. 10-11.</p>
+<p>2. Essais de Critique. Madame de la Fayette, p. 265.</p>
+<p><pb/></p>
+<p>— 101 —</p>
+<p>Les facteurs primordiaux apparaissent donc comme des forces
+omnipotentes, et l'histoire de l'humanité n'est que l'histoire de leur
+puissance souveraine et universelle.</p>
+<p>Mais il importe de bien caractériser le mode de leur action. Quand on
+dit que l'étal général j des esprits et des moeurs, auquel celle-ci
+abou-/ lit, produit les intelligences el les institutions, on emploie le
+mot produire d'une façon impro-/ pre. « On ne doit pas dire que l'époque
+produit) l'écrivain ; ce mot est excessif, s'il n'est pas qualifié et
+restreint. Par exemple, pour les écrivains... chacun esl né avec son
+tour particulier d'esprit. Pascal était autre que lîoileau ; mais lous
+les deux ont reçu une éducation semblable, au moins dans les grands
+traits, différente do l'éducation qu'auraient reçue Ronsard el
+Montaigne, de l'éducation que recevront plus lard Voltaire et
+Montesquieu 2. »</p>
+<p>I. Note» sur l'Angleterre, p. 44. — La Fontaine el ses Fables, pp.
+150-151. — Voyage en Italie, Tome II, p. 191. f?rï'i7,~Wm&lt;nV, pp'.ÏOTÏÔôTA</p>
+<p><pb/></p>
+<p>— 102 —</p>
+<p>lais1. Philosophes classiques, p. 80. — ///si. LUI. Anyl., Touie</p>
+<p>iv, p. sn.</p>
+<p><pb/></p>
+<p>— 103</p>
+<p>sant se développer que telle ou telle espèce, excluant plus ou moins
+complètement les autres *. »</p>
+<p>Seuls percent les génies qui conviennent au^\ milieu, comme seules
+naissent les institutions, I surgissent les événements ou éclosent les
+oeuvres qui correspondent au degré de température morale. C'est 1S tout
+te sens de la loi desy facteurs primordiaux. t ■</p>
+<p>D'autres; lois régissent les faits sociaux ; mais elles n'agissent que
+dans les limites d'une subordination étroite : « Les arts, les sciences,
+les moeurs, les événements de l'économie politique et domestique ont
+leurs lois qui tiennent aux autres et toutes s'unissent en une seule 8. »</p>
+<p>1. Philosophie de l'Art, Tome I, pp. 55-56.</p>
+<p>2. Essai sur TilelAte, p. 180.</p>
+<p><pb/></p>
+<p>— 104 —</p>
+<p>Cette conception de la sociologie lui semble heureuse :</p>
+<p>Q. Essais de Critique. M. Troplong et Al. de Monlalemberl, 326-27.</p>
+<p><pb/></p>
+<p>— 105 —</p>
+<p><pb/></p>
+<p>— 100 —</p>
+<p>soumettent par contre-coup, dès que l'un des précédents tombe sous nos
+prises l ».</p>
+<p>•%</p>
+<p>Au sommet de celte hiérarchie se trouve la loi des Facteurs Primordiaux.
+Quelle est la valeur de cette loi ?</p>
+<p>i 1. Essais de Critiqve, Préface, p. xxiv.</p>
+<p><pb/></p>
+<p>— 107 —</p>
+<p>C'est le cas de la loi des Facteurs Primordiaux. Pour qu'elle eût le
+caractère d'une véritable loi, il aurait fallu montrer la nécessité des
+rapports qui rattachent tout phénomène social A ses générateurs. Taine
+nous fait voir que souvent, très souvent môme, un individu ou un
+événement quelconque est le produit de la race ■du milieu et du moment.
+Or, pour que ce fait pût être érigé en loi, il aurait fallu démontrer la
+nécessité et l'universalité&lt;du rapport ïju'il accuse et qui n'est
+peut-ôtrejjue contingent. En fait, il est des cas nombreux où la loi ne
+se vé1.</p>
+<p><pb/></p>
+<p>— 108 —</p>
+<p>rifie pas l. Donc il n'y a 1£, somme toute, qu'une tendance, un fait
+général, et la loj q\\\ l'exprime doit être prise comme une formule,,
+très commode assurément, très féconde môme en résultats originaux et
+précieux.</p>
+<p>recherf~J. Paul Lacombe, La Psychologie des individus et des so~ J
+eiélés, chez Taine, historien des Littératures. Paris, Alcan, 1906..
+1^2. Paul Lacombe, op. cit., p. 246. f\</p>
+<p><pb/></p>
+<p>— 109 —</p>
+<p>1. Emile Faguel, Politiques et Moralistes du SIX' siècle, Troi sième
+série, II. Taine, pp. 365 et 368.</p>
+<p><pb/></p>
+<p>— no —</p>
+<p><pb/></p>
+<p>— 111 —</p>
+<p>Question insoluble, et que la théorie de la race, du milieu et du moment
+n'a pas fait avancer d'un pas l. »</p>
+<p>1 Victor Giraud, Essai sur Taine. Paris, Hachette, 1902.</p>
+<p><pb/></p>
+<p>— 112vraies</p>
+<p>112vraies considère de grandes multitudes, sont au plus haut point
+douteuses lorsqu'on considère des individus... l »</p>
+<p>. | l. Essais de Critique, p. 109.</p>
+<p><pb/></p>
+<p>— 113 —</p>
+<p>Taine. &gt; • 8</p>
+<p><pb/></p>
+<p>— 114 —</p>
+<p>\ 1. Essais de Critique, pp. 233-236.</p>
+<p><pb/></p>
+<p>— 115 —</p>
+<p>la nature nous coule ne servent qu'une fois * ».</p>
+<p>Ces circonstances sont infiniment nombreuses; aussi le nombre des
+combinaisons possibles estil indéfini.</p>
+<p>|. Essai sur Tite-Lice, p. 223.</p>
+<p><pb/></p>
+<p>— 110 —</p>
+<p>La remarque est très juste : Taine n'a pas tenu compte de tous les
+éléments qui entrent en ligne de compte pour la résolution du problème:
+c'est pourquoi la loi qu'il a posée est trouvée si souvent en défaut.</p>
+<p>Telle quelle, dans ses termes incomplets, elle est une formule
+qui'classe a posteriori^'qui or1.</p>
+<p>or1. Causeries du Lundi. Extraits publiés par (luslave I.unson. Paris,
+Garnicr, 1900, pp. 561-5G2.</p>
+<p><pb/></p>
+<p>— 117 —</p>
+<p>Taine est déterministe ; nous rapporterons plus loin ses principes en
+cette malière. Or, il affirme — nous l'avons vu plus haut — que la
+connaissance des lois de la nature, et plus particulièrement des lois
+qui régissent notre acliI.</p>
+<p>acliI. Raoul Blanchard, la Flandre. Etude géographique de la plaine
+flamande. Paris, Colin, 1006. On trouve dans cet ouvrage une 1res
+hftureuso application de la méthode de Taine, pp. 7, 3687, 41t. -~J</p>
+<p><pb/></p>
+<p>— 118 —</p>
+<p><pb/></p>
+<p>— 119 —</p>
+<p>rait-on voir la possibilité d'une « modification » quelconque ? Nous ne
+modifions pas, par notre intervention, les événements de l'histoire ;
+nous les déterminons, sans doute, mais lorsque nous intervenons dans la
+série des causes, nous ne changeons pas la suite des effets. L'hypothèse
+déterministe exclut la liberté de cette intervention ; dès lors, cette
+intervention déterminée par des lois que nous subissons, détermine
+certains effets, sans doute, mais dans l'enchaînement nécessaire,
+inéluctable, de ceux-ci, il n'y a rien de changé ni de modifié.</p>
+<p>Serait-ce le cours ordinaire de l'histoire qui se trouverait modifié par
+notre intervention? Qu'est-ce que ce cours ordinaire de l'histoire, si
+ce n'est celui que nous avons constaté aux époques antérieures? Dès
+lors, si nous affirmons notre pouvoir de le modifier dans l'avenir, nous
+ne faisons que trahir notre ignorance des lois qui nous régissent et que
+nous subissons.</p>
+<p>On pourrait dire de la loi des Facteurs Primordiaux, ce que Taine disait
+des principes</p>
+<p><pb/></p>
+<p>— 120 —</p>
+<p>I. Derniers Essais de Critique. Herbert Spencer, pp. «00-201.</p>
+<p><pb/></p>
+<p>- 121 —</p>
+<p>produisent et renouvellent le pêle-mêle changeant dont il est assailli.
+Il veut toucher les deux ou trois passions qui mènent l'homme, les
+quelques facultés maîtresses qui composent la race, les quelques
+circonstances générales qui façonnent la société et le siècle *. »</p>
+<p>Rien de mieux, en effet ; mais la conjecture ne peut usurper les droits
+de la vérité.</p>
+<p>1. La Fontaine el ses Fables, p. 159.</p>
+<p><pb/></p>
+<p>CHAPITRE V</p>
+<p>L'HOMME. — LA PSYCHOLOGIE</p>
+<p><pb/></p>
+<p>— 123 --</p>
+<p>I. Lettre 6 M. Georges Lyon. Vit, Tome IV, pp. 332-333.</p>
+<p><pb/></p>
+<p>-- 124 —</p>
+<p>( I. Vie, Tome IV, p. 333.</p>
+<p><pb/></p>
+<p>— 125 —</p>
+<p>projet, et la mort le terrassa avant qu'il pût remettre la main à
+l'oeuvre *.</p>
+<p>1. On a retrouvé dans ses papiers les notes qu'il avait réunies en vue
+de cet ouvrage sur la volonté. Elles oui été publiées dans la Ile eue
+Philosophique au mois de novembre 1900.</p>
+<p><pb/></p>
+<p>— 126 —</p>
+<p>Dans celte hypothèse, « tous les problèmes concernant un être
+quelconque, moral ou physique, seraient au fond des problèmes de
+mécanique 2 ».</p>
+<p>'. J. De l'Intelligence, Tome II, pp. 117 cl 119. Note. . \ 2. Ibidem,
+p. 453. Note. — Vie, Tome III, pp. 238-39.</p>
+<p><pb/></p>
+<p>-^127 —</p>
+<p>positiviste en psychologie poussait les conclu* sions jsqu'au seuil de
+la métaphysique.</p>
+<p>L'objet propre de la psychologie est donc la sensation, puisque lous les
+événements psychologiques s'y réduisent ; et il faut l'étudier dans
+l'homme, parce que c'est chez lui que nous la trouvons dans son
+exemplaire le plus qualifié* et qu'elle s'y offre aux prises de la
+méthode introspeclive.</p>
+<p>Le moi sentant n'a d'autre réalité que celle de ses événements ; il
+n'est pas un principe substantiel dont les sensations seraient l'acte :
+« la substance spirituelle est un fantôme créfr</p>
+<p>1. De l'Intelligence, Tome I, p. 7.</p>
+<p><pb/></p>
+<p>— 128 —</p>
+<p>1. Ibidem, p. 8.</p>
+<p><pb/></p>
+<p>— coopérations et modifications, cachée sous elles, durable en leur
+absence l ».</p>
+<p>Evénements el possibilité permanente de ces mômes événements, il n'y a
+rien d'autre dans le moi.</p>
+<p>« Il faut laisser de côté les mots de raison, d'intelligence, de
+volonté, de pouvoir personnel et même dé moi, comme on laisse de côté
+les mois de force vitale, de .force médiatrice, d'âme végétative ; ce
+sont des métaphores littéa.</p>
+<p>littéa. Philosophes classiques, pp. 250-251. — De l'Intelligence, ne I,
+pp. 341-315. . De l'Intelligence, Tome II, p. 217.</p>
+<p>Taine. 9</p>
+<p><pb/></p>
+<p>~ 130 —</p>
+<p>La psychologie humaine ne peut donc avoir d'autre objet que les
+opérations de l'âme qui sont toute l'âme ; il faut rejeter la conception
+spiritualistc qui considère ces opérations comme les actes passagers de
+quelque chose de permanent ; l'âme n'est qu'une série indivisée de
+phénomènes.</p>
+<p>Il importe donc de bien définir la sensation et d'en démêler avec
+précision les caractères essentiels.</p>
+<p>« La sensation est ce premier événement intérieur connu sans
+intermédiaire, accompagné d'images associées qui le situent, excité par
+un» certain état des nerfs et des centres nerveux» état inconnu et qui
+d'ordinaire est provoqué en nous par le choc des objets extérieurs. »</p>
+<p>La sensation est donc un phénomène inter|L</p>
+<p>inter|L Tome I, pp. 123124; j 2. Ibidem, Tome I, p. 100.</p>
+<p><pb/></p>
+<p>— 131 —</p>
+<p>Parfois la sensation naît en l'absence d'un objet extérieur ; elle
+suscite dans ce cas un simulacre qui paraît réel, mais qui n'a pas de
+correspondant réel en dehors du sujet connaisT</p>
+<p>connaisT pp. 167-169.</p>
+<p>A». Ibidem, Tome II, p. 71.</p>
+<p>Ls. Les Philosophes classiques, pp. 44 45.</p>
+<p><pb/></p>
+<p>— 132 —</p>
+<p>1. Ibidem, p. 45 46. . '</p>
+<p>2. De l'Intelligence, Tome II, pp. 168-160.</p>
+<p><pb/></p>
+<p>— 133 —</p>
+<p>nerf et des centres nerveux, qui par leur ébranlement la font naître ». i</p>
+<p><pb/></p>
+<p>— 134 —</p>
+<p>Tels sont les caractères de la- sensation : elle /^</p>
+<p>1. De l'Intelligence, Tome I, pp. 327-328. — Vie, Tome III, p. 255. L.2.
+Ibidem, PpT3j&amp;3fci\ — Vie, Tome II, p. 183. — Dernière Essais de
+Critique, p." 187.</p>
+<p><pb/></p>
+<p>— 135 —</p>
+<p>L De l'Intelligence, Tome I, p. 25.</p>
+<p><pb/></p>
+<p>— 130 —</p>
+<p>Ïl. Ibidem, pp. 125 127. 2. Ibidem, pp. 27 a 29. ,</p>
+<p><pb/></p>
+<p>— 137 -■*</p>
+<p>mais il est lo « substitut d'une expérience impossible * ».</p>
+<p>Quand nous voyons une série d'objets semblables, il naît en nous une
+série « d'innombrables petites émotions qui, au terme de notre examen
+prolongé, se résument en une impression d'ensemble, par suite en une
+poussée finale, en une tendance définitive... qui provoque une
+expression, cl entre autres expressions, un nom 3 ».</p>
+<p>« Une idée générale n'est qu'un nom pourvu</p>
+<p>1. De l'Intelligence, Tome I, p. 31 3. Ibidem., p. 36. 3. Ibidem, pp. 40
+41.</p>
+<p><pb/></p>
+<p>— 138 —</p>
+<p>de deux caractères. Premier caractère : la propriété d'être évoqué par
+la perception de tout Individu de la classe. Second caractère : la
+propriété d'évoquer en nous les images des individus de celte classe et
+de celle classe seulement * ».</p>
+<p>I. De VIntelligence, Tome 1, pp. 51-52.</p>
+<p><pb/></p>
+<p>— 139 —</p>
+<p><pb/></p>
+<p>— 140 —</p>
+<p>Mais ne nous imaginons pas qu'il y ait là</p>
+<p><pb/></p>
+<p>— 141 —</p>
+<p>« Quand il s'agit de mots, nous pouvons marquer les divers degrés de cet
+effacement. Si une page est manuscrite, nous en comprenons le sens plus
+difficilement que si elle est imprimée ; noire attention se porte en
+partie sur la forme extérieure des caractères, au lieu de se porter tout
+entière sur le sens qu'ils ont ; nous remarquons dans ces signes, non
+seulement leur emploi, mais encore leurs particularités personnelles.
+Mais, au bout d'un temps, celles-ci ne nous frappent plus ;... dès lors
+dans le manuscrit comme dans l'imprimé, il nous</p>
+<p><pb/></p>
+<p>— 142 —</p>
+<p>semble que nous ne suivons plus des mots, mais des idées pures l. »</p>
+<p>L'idée générale n'est donc qu'un mot général, cl nos pensées les plus
+abstraites ne sojit donc, en dernière analyse, que des résidus de
+sensations.</p>
+<p>i I. Oc l'Intelligence, Tome 1, pp. 67 ô 71. — Vie, Tome Hf, Y 235.</p>
+<p><pb/></p>
+<p>— 143 -rchercher,</p>
+<p>Il s'agit donc de déterminer la cause de nos associations d'idées. Le
+problème est d'une importance capitale.</p>
+<p>con1. l'Intelligence, Tome II, pp. 300301.</p>
+<p><pb/></p>
+<p>— 144 —</p>
+<p><pb/></p>
+<p>— 145 —</p>
+<p>fini. Nous ne sommes plus capables seulement de connaissances relatives
+et bornées ; nous sommes capables aussi de connaissances absolues et
+sans limites ; par les axiomes et leurs suites, nous tenons des données
+qui non seulement s'accompagnent l'une l'autre, mais dont l'une enferme
+J'autre... Puisque... les deux données sont telles, que la première
+enferme la seconde, nous établissons par cela même la nécessité de leur
+jonction ; partout où sera la première, elle emportera la seconde,
+puisque la seconde est une partie d'elle-même et qu'elle ne peut se
+séparer de soi... Leur liaison est donc absolue el universelle, et les
+propositions qui les concernent ne souffrent ni doutes, ni limites, «ni
+conditions, ni restrictions l. »</p>
+<p>Les itjées sont donc associées, selon Taine, en vertu d'une connexion
+nécessaire ; nos axiomes, nos propositions générales, nos lois sont le
+fruit d'une analyse : l'un des deux termes est contenu dans l'autre, et
+la nécessité qui nous les fait réunir dans un couple est la nécessité du
+principe d'identité.</p>
+<p>Ï"h De l'Intelligence, TomeJU^pj». ,3J8„èJ&amp;JL— Le mémo passage e Irouve
+dans Téfonie V de YtîUl. Lilt. Anglaise, pp. 405-406. - Tatne. 10</p>
+<p><pb/></p>
+<p>— 140 — ,</p>
+<p>*</p>
+<p>Or, Taine est nettement objectiviste ; il le trahissait rien qu'à
+définir la perception extérieure une hallucination vraie ; il entend par
+hallucination vraie, celle qui correspond aux choses extérieures. « Par
+vérité d'une perception — écrivait-il — j'entends sa convenance avec son
+objet ; je veux dire qu'elle soit subjectivement ce que l'objet est en
+soi !. » — Dès lors l'halluI.</p>
+<p>l'halluI. Tome I, p. 110.</p>
+<p><pb/></p>
+<p>— 147 —</p>
+<p>cination est vraie, lorsque le simulacre qui la suscite reproduit
+fidèlement l'objet extérieur.</p>
+<p>Taine n'indique pas quels sont les fondements de cette certitude,
+comment s'établit la correspondance rigoureuse entre la connaissance "ef
+la chose, quels sont les moyens dont nous dis-' posons pour contrôler
+nos hallucinations et</p>
+<p>ri. De l'Intelligence, Tome II, p. 192. 2. Ibidem, Tome I, pp. 235-236.</p>
+<p><pb/></p>
+<p>— 148 —</p>
+<p>faire le départ entre les hallucinations vraies et les vraies
+hallucinations ; il se contente d'affirmer sans tenter une explication.
+Il professe ici une sorte de conjîaroee^ogmatistej. il croit à
+l'excellence de notre mécanisme intellectuel, et il en fait profession :
+« Je crois que la science absolue, enchaînée, géométrique est possible l. »</p>
+<p>« La vérité ne me fuit pas, j'en tiensvle principe ; je n'ai pas
+l'explication universelle, mais j'ai le principe de cette explication,
+et sans plus douter, ni flotter, j'avance tous les jours dans la
+connaissance de la vérité. Je vois, je crois, je sais. Je crois de toute
+la puissance de nïon être ; je ne puis pas ne pas croire, puisque toutes
+les certitudes logiques, psychologiques, métaphysiques se réunissent
+pour m'affermir dans l'absolue certitude où j'ai trouvé le parfait repos...</p>
+<p>J'ai voulu plus que de la géométrie et je l'ai 3. »</p>
+<p>Il est assez étrange d'entendre un des initiateurs de la psychologie
+expérimentale, — c'està-dire d'une môlhode nouvelle en psychologie, à
+laquelle on doit des découvertes précieuses, mais qui laisse entrevoir
+tant d'horizons incon»[l.</p>
+<p>incon»[l. Tome I, p. 47. 'M t. Vie, Tome I, pp. 71-72.</p>
+<p><pb/></p>
+<p>— 149 —</p>
+<p>*%</p>
+<p><pb/></p>
+<p>— 150 —</p>
+<p>mot ou une étiquette désignant* l'ensemble des •connaissances, de même
+la volonté n'est qu'une étiquette désignant l'ensemble des volitions.
+Ici comme là, il n'y a pas de faculté au sens où l'entendent les
+spiritualisles : si on conserve le mot, il faut le définir comme on l'a
+défini plus chaut : une faculté est une possibilité permanente de
+certains événements sous certaines conditions 1. « Ni la volonté, ni la
+résolution, ni son Lefficacité, ni aucune force ne sont des êtres... Il
+n'y a dans le monde que des fails et des rapports nécessaires » ; la
+volonté en exercice n'est qu'un cas particulier des liaisons générales
+et nécessaires que nous constatons entre deux faits ou événements 2.</p>
+<p>Lorsque nous analysons les faits, nous constatons, en effet, que nos
+déterminations sont des étals d'âme qui provoquent certains actes ; la
+volonté ou le pouvoir personnel « n'est que la force prédominante d'une
+idée... la qualité périssable d'une idée périssable 8. »</p>
+<p>A côté des sensations « cognitives », il y a des sensations « impulsives
+», capables de trans-.</p>
+<p>2. Les Philosophes classiques, pp. 72-73. — De l'Intelligence, Tome I,
+pp. 337-342. — Tome II, pp. 305-306.</p>
+<p>.3. Les Philosophes classiques, pp. 215-216.</p>
+<p><pb/></p>
+<p>151 —</p>
+<p>Une autre échelle graduée s'établit au même " point de vue de la force
+impulsive entre les sen- / salions et leurs dérivées : cetle force va en
+décroissant de la sensation ou perception actuelle, aux simulacres ou
+images, de ceux-ci aux idées abstraites ou noms généraux, de celles-ci
+aux idées abslraites pures. Toujours au même point de vue, on remarque
+que l'élément, de nos sensations qui concerne le futur prime l'élément
+qui concerne le passé, et que le présent prime^ le futur et le passé.</p>
+<p>La force impulsive s'accroît encore du caractère des circonstances dans
+lesquelles elle naît, c'est-à-dire de l'actualité de nos
+représentalions, de la probabilité.ou de la certitude des événements
+qu'elles annoncent, de la précision avec laquelle, elles apparaissent,
+de l'attention</p>
+<p><pb/></p>
+<p>— 152 —</p>
+<p>du sujet, du rapport qui existe entre le sujet el la représentation :
+lorsque celle-ci sera le fruit d'une expérience personnelle, elle aura
+évidemment une force impulsive plus déterminante qu'un banal lieu commun 1.</p>
+<p>Nous touchons au terme de- celte recherche</p>
+<p>sur la nature de nos déterminations : la tenIdance</p>
+<p>tenIdance et définitive est ce qu'on ap1.</p>
+<p><pb/></p>
+<p>153 —</p>
+<p>pelle une volition, une résolution, et la volonté chez l'homme n'est que
+la possibilité permanente de la fixation des tendances prédominantes.</p>
+<p>Dès lors, c'est une erreur d'affirmer que l'homme se détermine ; il est
+déterminé. Tous ses actes sont le résultat des tendances que font naître
+en lui ses connaissances : la force impulsive que chacune d'elles
+possède, entre en conflit avec ses voisines : la détermination résulte
+de l'état d'équilibre momentané que provoque l'intervention d'une
+tendance prédominante qui se fixe définitivement.</p>
+<p>Cette théorie sur la volonté rencontre de front la doctrine
+spirilualisle sur le Libre Arbitre, qui affirmerait, selon Taine, que la
+volonté est la faculté pure de produire des résolutions.</p>
+<p>I. Bévue Philosophique, op. cit.</p>
+<p><pb/></p>
+<p>— 154 —</p>
+<p>conduite est fixée mathématiquement selon les différences d'énergie de
+ces ressorts : il n'intervient pas dans le conflit de ses tendances par
+l'exercice d'une faculté qui pourrait choisir l'une d'entre elles.</p>
+<p>ré\ Itist. LUt. Angl, Tome IV, p. 128.</p>
+<p><pb/></p>
+<p>— 155 —</p>
+<p>L Philosophie de l'Art, Tome II, p. 110. — Vie, Tome II, pp. 121122. —
+Iltst. Litt. Angl, Tome I, p. xv. — Tome II, pp. 39 ■et «). — Tome V, p.
+156.</p>
+<p><pb/></p>
+<p>— 150 —</p>
+<p>La machine humaine joue fatalement ; nous sommes le jouet de lois
+immuables qui nous enveloppent et nous maîtrisent 1.</p>
+<p>L'être moral est une gerbe lumineuse, composée d'une « infinité de
+fusées, toules de môme</p>
+<p>L Thomas Oraindorge, p. 263. — Nouveaux Essais de Critique, pp. 15-16.</p>
+<p><pb/></p>
+<p>— 157 —</p>
+<p>Mais si nous connaissons la nature de ces fusées, il nous reste à
+rechercher la manière dont elles se réunissent pour former cette gerbe
+lumineuse qui est nous-mêmes. Les opérations de l'âme forment un
+ensemble organisé et coordonné, de telle sorte que chaque être moral
+présente des caractères propres, et constitue une individualité
+distincte. D'où provient celte orientation permanente qui se dessine
+dans la trame de nos opérations?</p>
+<p>L De l'Intelligence, Tome I, pp. 7 et 9. -« 2. Essai sur Tite-Lice,
+Préface, pp. vn-vtii. — La théorie de la « faculté maîtresse » est
+considérée généralement comme le principe de la Critique de Taine. Nous
+pensons que l'étude de cette ■- théorie doit rentrer dans l'examen de sa
+psychologie : car si elle sert comme méthode de critique, elle est avant
+tout une doctrine psychologique. v,</p>
+<p><pb/></p>
+<p>.—■•158 —</p>
+<p>qu'il y a dans chacun dendus un certain état psychologique résultant
+d'un certain genre de goût et de talent, d'une certaine disposition
+d'esprit et d'âme, de ce « cortège de préférences et de répugnances, de
+facultés et d'insuffisances »• qui constituent la tournure de son esprit
+et la qualité de son caraclère. Cela ne veut pas dire que l'aine soit
+autre chose que l'ensemble de ses opérations el de ses facultés, qu'elle
+possède une faculté générale qui organisât ses mouvements et ses actes ;
+mais ces opérations et ces facultés s'organisent d'elles-mêmes : «
+les.choses morales ont, comme les choses physiques, des dépendances et
+des conditions l. » Les qualités d'une âme dépendent les unes des autres
+; l'une d'elles étant donnée, les autres ne peuvent être différentes ;
+si l'une varie, les autres varient d'une façon proportionnelle ;
+parlant, elles forment un système comme un corps organisé, elles
+s'enchaînent et se conditionnent mutuellement. * „</p>
+<p>Pour s'en convaincre, il suffit de regarder autour de soi ; celui qui
+prend la peine de noter les caractéristiques d'un esprit, non seulement
+« aura le sentiment vague de cel accord mutuel</p>
+<p>1. Estais de Critique, l'réfaee, pp. vmix.</p>
+<p><pb/></p>
+<p>— 159 —</p>
+<p>qui harmonise les diverses facultés d'un esprit, mais encore il en aura
+la perception distincte ; il pourra prouver par voie logique que telle
+qualité, la violence ou la sobriété d'imagination, l'aptitude oratoire
+ou lyrique, constatée sur un point doit étendre son ascendant sur le
+reste. Par un raisonnement continu, il reliera aussi les divers
+penchants de l'homme qu'il examine, sous un petit nombre d'inclinations
+gouvernantes dont ils se déduisent el qui les expliquent, et il se
+donnera le spectacle des admirables nécessités qui rattachent entre eux
+les fils innombrables, nuancés, embrouillés de chaque être humain *. »</p>
+<p>I. Essais de Critique, Préface, pp. x-xt. V</p>
+<p><pb/></p>
+<p>— 160 —</p>
+<p>puisque « les mouvements de l'automate spirituel qui est notre être,
+sont aussi réglés que ceux du monde matériel où il est compris *. -»
+L'homme se sentira plus près de la nature, et il comprendra pourquoi, à
+certaines heures, son âme rentre si aisément « dans sa patrie primitive,
+dans l'assemblée silencieuse des grandes formes, dans le peuple paisible
+des êtres qui ne pensent pas 2. »</p>
+<p>*%</p>
+<p>augmcn1. sur Tile-Llve, Préface, p. vit.</p>
+<p>2. Essais de Critique, p. 391.</p>
+<p><pb/></p>
+<p>— 161 —</p>
+<p>1. Victor Giraud, Essai sur Taine, pp. 80-81.</p>
+<p>2. Lucien Lévy-Bruhl, Ilislory of Modem Philosophy in France. London,
+Kegan-Trenéh and C\ 1899, pp. 431.</p>
+<p>Taine. 11</p>
+<p><pb/></p>
+<p>— 162 —</p>
+<p>I. Derniers Essais de Critique, p. 201.</p>
+<p><pb/></p>
+<p>163 —</p>
+<p><pb/></p>
+<p>— 164 —</p>
+<p>est très facile d'afhVmer que la substance spirituelle est une illusion
+créée par la conscience ; encore siérait-il d'en produire des preuves.
+Or, on n'en trouve pas dans Y Intelligence ; on n?y rencontre que des
+affirmations gratuites et des explications qui très souvent n'expliquent
+rien. Que signifie en effet cette définition de la</p>
+<p>^faculté : une possibilité permanente de certains</p>
+<p>'événements sous certaines conditions? Ayant</p>
+<p>| constaté que certains événements surgissent sous certaines conditions,
+Taine en induit que</p>
+<p>* ces événements sont possibles sous ces conditions, toujours possibles,
+que dès lors la faculté</p>
+<p>- Taine a donc outré la portée de la méthode</p>
+<p>I. Cf. Itohert Flint, tlistory of the Phitosophy o\ Hhlory, Hislorical
+Philosophy in France ând french foelgium and Swilzerland. Kdimbourg et
+Londres, W. Blackwood, 1893, pp. 636-637.</p>
+<p><pb/></p>
+<p>— 165 —</p>
+<p>sensa1. Barzellotti, La Philosophie de II. Taine. Traduit de l'itaiien
+par Auguste Dictrich, p. 197. Bibliothèque de Philosophie contemporaine.
+Paris, Alcau, 1900.</p>
+<p><pb/></p>
+<p>— 166 —</p>
+<p>Mais il importe de considérer d'un peu plus près quelques-unes des
+théories psychologiques de Taine.</p>
+<p>Après examen de la nature du moi, il conclut que, « en lant que composé
+de forcesd de pouvoirs, le moi n'est lui-même qu'une entité verbale et
+un fantôme métaphysique. Ce quelque chose/l'intime, donl les facultés
+étaient les différents aspects, disparaît avec elles ; on voit
+s'évanouir et rentrer dans la région des mois la substance une,
+permanente, distincte des événements '. »</p>
+<p>» Nous ne pouvons admettre cette théorie qui prétend que l'âme n'est pas
+distincte de ses opérations. Elle laisse, en effet, inexpliqué un fait
+de conscience universel : l'homme a le sçnI.</p>
+<p>sçnI. l'Intelligence, Tome I, p. 313.</p>
+<p><pb/></p>
+<p>— 167 —</p>
+<p>. r _ _ j</p>
+<p><pb/></p>
+<p>— 168 —</p>
+<p>Nous ne pouvons admettre davantage la théorie qui fait de la perception
+extérieure une « hallucination vraie ».</p>
+<p>Pour qui l'examine de près, l'objection se présente spontanément à
+l'esprit : vous diles que nos perceptions extérieures sont des
+hallucinations vraies, c'est-à-dire des représentations qui</p>
+<p>^sonl subjectivement ce que l'objet est en soi. Si vous appelez vraies
+certaines hallucinations, c'est que les hallucinations ne sont pas
+toujours conformes aux choses ; vous avez donc pu constater cette
+conformité dans certains cas?</p>
+<p>"7 Mais comment le pourriez-vous si vous ne connaissez pas les choses
+elles-mêmes, si vous n'atteignez pas les objets extérieurs, mais
+seulement des simulacres intérieurs qui les repré'senlcnt? Comment
+pourriez-vous dès lors disI.</p>
+<p>disI. L. Km pari, De la connaissance humaine. Lettre* è M. II. Taine.
+Paris, Librairie Henri Aniéré, 1872, p. 07-68.</p>
+<p><pb/></p>
+<p>— 169 —</p>
+<p>linguer vos hallucinations en vraies et fausses, selon qu'elles sont ou
+non conformes aux objets extérieurs, alors que vous ne disposez d'aucun
+moyen pour constater celte conformité ?</p>
+<p>La vérité de vos hallucinations n'est pas garantie, en effet, par le
+témoignage de vos voisins, pas plus que la fausseté des hallucinations
+d'un fou n'est établie par le démenti de ses médecins. La vérité de vos
+perceptions extérieures n'est que plus probable que celle des
+hallucinations du fou. Mais est-ce sur des probabilités qu'on base les
+principes d'une science ?</p>
+<p><pb/></p>
+<p>Nous avons dit plus haut que Taine avait</p>
+<p>1. Lucien Roure, llippolyte Taine. Etudes philosophiques. Paris,
+T.olhiellcux. pp. 28-29.</p>
+<p><pb/></p>
+<p>— 171 —</p>
+<p><pb/></p>
+<p>- 172 —</p>
+<p>« nous conduit, chose inattendue, en plein moyen-âge. Elle est une
+solution du problème des Univcrsaux, si vivement agité par cette
+philosophie scolastique pour laquelle il professa un si parfait dédain ;
+el celte solution est le nominalisine...</p>
+<p>Une pareille conception s'impose, lorsqu'on nie l'exislcnce d'un
+principe immatériel, et cetle négation chez Taine, était logique, on
+pourrait dire nécessaire. Or, cetle théorie, explique-t-elle les faits ?
+Nous ne le pensons pas ; elle laisse subsister une lacune très
+importante qui rend l'explication inadéquate et inefficace.</p>
+<p>L'analyse de nos idées générales nous révèle, en effet, qu'elles sont
+plus qu'un nom, puisqu'elles peuvent exister en l'absence dé tout nom.
+M. Empart le fait très bien voir :</p>
+<p>« Pour concevoir la propriété qui se rencon1.</p>
+<p>rencon1. de Margerie, H. Taine. Paris, Poussielgue, 1894, pp. 57 et 61.</p>
+<p><pb/></p>
+<p>— 173 —</p>
+<p>1. L. Emparl, op. cit., pp. 109-110,</p>
+<p><pb/></p>
+<p>— 174 —</p>
+<p>Aussi bien cette défaillance scientifique devaitelle l'amener à
+d'inévitables contradictions ; elles sont la rançon de ces altitudes
+systématiques, de ces obstinations injustifiées auxquelles
+l'indépendance orgueilleuse conduit des esprits souvent sincères.</p>
+<p>Nous avons fait remarquer plus haut que la théorie de l'hallucination
+vraie eût dû, logiquement, le mener au scepticisme et au subjecti-</p>
+<p><pb/></p>
+<p>— 175 ~</p>
+<p>1. Amedée do Margerie, op. cit., p. 100.</p>
+<p><pb/></p>
+<p>— 176 —</p>
+<p>1 que le second est en quelque sorte contenu dans le premier. Par
+conséquent nos connaissances I ont une valeur absolue et universelle. «
+Cette conviction réfléchie el motivée de l'accord de la pensée et des
+choses inspire tout ce chapitre (sur les Idées) et se retrouve dans les
+suivants. Il n'est plus question de savoir si sa psychologie lui permet
+des vues si hautes l. »</p>
+<p>1. Ibidem, p. 162.</p>
+<p>2. G. Barzellotti, op. cit., p. 14, note 1.</p>
+<p><pb/></p>
+<p>— 177 —</p>
+<p>Dès lors, si Taine avait été logique, il eût été kantien. Mais il
+répugnait par nature au scepticisme ; il avait foi dans In valeur de la
+science, et il l'affirmait hautement, fût-ce au prix d'illogismes.
+L'oeuvre y perd, mais l'homme y gagne : car ses contradictions
+trahissent la parfaite sincérité d'esprit qui l'empêcha de s'obstiner
+dans l'erreur, et de se roidir jusqu'au bout contre la vérité.</p>
+<p>Peut-on considérer comme une doctrine définitive les « Notes sur la
+volonté » que nous avons analysées plus haut?</p>
+<p>Taine. IÏ</p>
+<p><pb/></p>
+<p>— 178 —</p>
+<p>\[ Pour Taine, le mécanisme do la volonté est une dépendance du
+mécanisme de l'intelligence: les volitions résultent de la fixation des
+tendances prédominantes, c'est-à-dire de la force impulsive qui affecte
+toute sensation.</p>
+<p><pb/></p>
+<p>— 179 —</p>
+<p>Le troisième argument n'est pas meilleur ; il s'appuie sur une pétition
+de principe, il suppose admis ce qui est question : un événement pouvant
+surgir ou ne pas surgir, ayant surgi, il serait sans cause, puisqu'il
+pouvait aussi ne pas surgir. C'est très mal comprendre le problème de la
+liberté humaine que de le poser en ces termes. Il s'agit précisément de
+savoir si l'homme a le pouvoir de se déterminer ; ce pouvoir élant nié,
+l'événement qui a surgi serait sans cause, évidemment : mais c'est là
+l'objet môme 1 du débat enlre le déterminisme el le libre ar-^ bilre.</p>
+<p>Nous touchons ici au problème le plus délicat de la psychologie. La
+solution défendue par Taine lui était imposée par des exigences de
+système. Aussi bien n'a-t-il pas pris la peine d'étudier sérieusement la
+question, et l'on peut supposer que son ouvrage sur la Volonté, s'il lui
+avait été donné de l'écrire, aurait contenu</p>
+<p><pb/></p>
+<p>— 180 —</p>
+<p>des arguments où la sincérilé el la saine réflexion auraient eu une plus
+grande part.</p>
+<p><pb/></p>
+<p>— 181 —</p>
+<p>♦\</p>
+<p>D'ailleurs il n'est pas d'ouvrage de Taine qui sollicite moins la
+conviction que Y Intelligence. On lui trouve une allure constante
+d'hypothèse ; les faits s'accumulent el l'induction s'arrête sur un «
+peut-être ». Il semble que Taine s'en</p>
+<p><pb/></p>
+<p>— 182 —</p>
+<p>I. Derniers Essais de Critique pp. 190-197. -2. G. Barzellotti, op.
+cit., p. 200.</p>
+<p><pb/></p>
+<p>— 183 —</p>
+<p>Il semble donc que ce soit avec raison que nous mettions en doute
+l'importance du rôle de YIntelligence, dans l'influence que la
+philosophiç.de Taine pourrait exercer sur la formation,, des esprits.
+Elle a marqué une réaction el une transition dans la conception el
+l'évolution de la psychologie ; mais on oubliera l'une et on méconnaîtra
+l'aulre.</p>
+<p><pb/></p>
+<p>CHAPITRE VI</p>
+<p>LES INSTITUTIONS. LA RELIGION. L'ORGANISATION SOCIALE ET POLITIQUE.</p>
+<p>L'ANALOGIE très marquée que révèle la sociologie de Taine entre
+l'histoire humaine et l'histoire naturelle, se poursuit et s'accentue
+dans l'étude des institutions sociales. La formation des sociétés
+s'effectue sous l'empire de la loi des Facteurs Primordiaux ; l'action
+combinée de la race, du milieu et du moment, crée des températures
+morales dont la diversité se traduit pajî la diversité des nationalités
+et des civilisations. « S'il y a des climats dans le monde physique, il
+y en a aussi dans le monde moral l. » Et de même que le climat physique
+détermine par l'espèce de ses éléments, par le degré de sa température
+et par la configuration du sol où il règne, l'espèce de</p>
+<p>1. Nouveaux Essais de Critique. Racine, p. 115.</p>
+<p><pb/></p>
+<p>— 185 —</p>
+<p>Dans la sociologie spéciale, il s'agira donc d'étudier l'action
+prolongée des Facteurs Primordiaux. Par le degré de la température
+morale qu'ils créent au sein d'une société, ils déterminent non
+seulement la nature des talenls et des aptitudes d'un peuple, mais
+encore l'espèce des institutions et la trame des événements qui
+constituent sa civilisation et dessinent</p>
+<p><pb/></p>
+<p>— 186 —</p>
+<p>na1. Essais de Critique. Madame d'Aulnoy, p. 6.</p>
+<p><pb/></p>
+<p>— 187 —</p>
+<p>lurelle et l'histoire humaine se poursuit ici rigoureusement.</p>
+<p><pb/></p>
+<p>— 188 —</p>
+<p>I. Essais de Critique, Préface, pp. xxix-xxx.</p>
+<p><pb/></p>
+<p>— 189 —</p>
+<p>« Entre une charmille de Versailles, un raisonnement philosophique et
+théologique de Malebranche, un précepte de versification chez Boileau,
+une loi de Colbert sur les hypothèques, un compliment d'antichambre à
+Marly, une sentence de Bossuet sur la royauté de Dieu, la distance
+semble infinie et infranchissable ; nulle liaison apparente. Les faits
+sont si dissemblables qu'au premier aspect on les juge tels qu'ils se
+présentent, c'est-à-dire isolés et séparés. Mais les fails communiquent
+entre eux par les définitions des groupes où ils sont compris, comme les
+eaux d'un bassin par les sommets du versant d'où elles découlent. Chacun
+d'eux est une action de cet homme idéal et général autour duquel se
+rassemblent toutes les inventions et toutes les particularités de
+l'époque ; chacun d'eux a pour cause quelque aptitude ou inclination du
+modèle régnant. Les diverses inclinations ou aptitudes du personnage
+s'équilibrent, s'harmonisent, se tempèrent les unes les autres sous
+quelque penchant ou faculté dominante, parce que c'est le même esprit cl
+le même coeur qui a pensé, prié, imaginé et agi, parce que c'est la même
+situation générale cl le même naturel inné qui ont façonné et régi les
+oeuvres séparées et diverses, parce que c'est le même sceau qui</p>
+<p><pb/></p>
+<p>— 190 —</p>
+<p>s'est imprimé différemment en différentes matières 1. »</p>
+<p>suiI. de Critique, Préface, p. xv-xvi.</p>
+<p><pb/></p>
+<p>191 —</p>
+<p>vant. Ici comme dans le monde physique, lacondition est suffisante et
+nécessaire ; si elleest présente, l'oeuvre ne'peut manquer ; si elle est
+absente, l'oeuvre ne peut apparaître l. »</p>
+<p>Il nous faut maintenant examiner d'un peu plus près l'élaboration que
+subissent les institutions qui accompagnent toute civilisation humaine.</p>
+<p>I. Ibidem, pp. xvt-xvrr.</p>
+<p><pb/></p>
+<p>— 192 —</p>
+<p>La religion est un de ces grands ordres de faits qui composent une
+civilisation et, dans cet ordre, plus manifestement peut-être que dans
+les autres, apparaît l'action toute puissante de ces divinités du monde
+social, les Facteurs Primordiaux. Dans chaque religion, se retrouve
+l'empreinte des façons de penser et de sentir qui constituent le
+caractère dislinctif d'une race; -chaque religion est comme un miroir
+dans lequel se reflètent le milieu où elle est née et le moment qui l'a
+vue naître ; elle est en quelque sorte l'indice, le signe révélateur de
+l'espèce des facteurs qui ont suscité son apparition et guidé son
+développement.</p>
+<p>1. Voyage aux Pyrénées, p. 186.</p>
+<p>2. Les origines. L'Ancien Régime, p. OT3. — Ilitt. LUI. Angl., .Préface,
+p. xxxvi.</p>
+<p><pb/></p>
+<p>- 193 ~-</p>
+<p>: l. Ilist. I.ilt. Angl., Tome I, pp. 157-139-I6M61. —Tome IIïT") pp.
+3S0-381. — Tome V, p. 271. — l'i&gt;, Tome II, p. W. — Nou~teoux</p>
+<p>Taine n</p>
+<p><pb/></p>
+<p>— 194 —</p>
+<p>La naïveté des premiers âges de l'humanité Me mettait pas d'obstacle à
+l'éclosion du mythe;</p>
+<p>1. Derniers Estait de Critique. Sainte Odile el Iphigénie en Taurtde,
+pp. 77-79. — Carnets de Voyage, p. 130.</p>
+<p><pb/></p>
+<p>— 195 —</p>
+<p>1. Voyage en Italie, Tome 1, pp. 8 el 59.</p>
+<p><pb/></p>
+<p>— 196 —</p>
+<p>Le christianisme n'a pas d'autre origine ; si les attaches avec le
+milieu sont ici moins apparentes que dans les autres religions, c'est
+que des circonstances extérieures sont venues modifier le cours
+ordinaire de l'élaboration des religions. « Le christianisme est une
+religion de seconde poussée, qui contredit l'instinct naturel ». L'état
+social qui l'a suscité devail, en effet, imprimer en lui ce caractère
+antinalurel : « il déclare que le monde est mauvais et que l'homme est
+gâté ; et certes au siècle où il naquit cela était indubitable. Il faut
+donc, selon lui, que</p>
+<p>"~- 1. Nouveaux Essais de Critique. Le Bouddhisme, pp. 271-275. — Cf.
+l'article publié par Taine dans les Débals du 7 février 1869, sur
+Camille Selden : l'Esprit moderne en Allemagne, publié en appendice a
+l'ouvrage de V. Giraud, op. cit., pp. 241-246.</p>
+<p><pb/></p>
+<p>— 197 —</p>
+<p>1. Philosophie de l'Art, Tome II, pp. 145-40-</p>
+<p><pb/></p>
+<p>— 198 —</p>
+<p>1. Nouveaux Essais de Critique. Le Bouddhisme, pp. 286-287.</p>
+<p><pb/></p>
+<p>- 199 —</p>
+<p>Or, « leur point do vue était le seul auquel les multitudes échelonnées
+au-dessous d'eux pouvaient se mettre. Pour des centaines de générations,
+il n'y avait d'accès que par leur voie aux choses divines ' ».</p>
+<p>1. Le* origines. Ancien Régime, pp. 272-273. — Hisl. Lilt. Angl., Tome
+II, pp. 315, 486 487. — Les Philosophes classiques, p. 290.</p>
+<p>2. Les origines. La Révolution, Tome III, pp. 414-415. _,</p>
+<p><pb/></p>
+<p>— 200 —</p>
+<p>A ce litre la religion rentre donc dans l'élude des phénomènes sociaux ;
+elle n'est pas seulement la vie intérieure des âmes, elle est aussi le
+grand ressort de leur activité extérieure et sociale ; il n'est pour
+ainsi dire pas de peuple dont la destinée ou le sort n'ait été influencé
+par la religion qu'il a pratiquée. La philosophie sociale, pour être
+complète, devra donc entreprendre l'étude du phénomène religieux.</p>
+<p>Taine n'y a pas manqué et il s'est efforcé de déterminer les étapes de
+la genèse do toute religion. En elle-même, la religion est un rêve
+poétique, un poème légendaire qui éclot dans les âmes sous le choc des
+émotions qu'y produit le spectacle de la nature. On divinise les choses
+parce que les choses sont divines : chaIque paysage a son dieu. Les
+fondateurs de reuijjion ne font que préciser et interpréter ce que</p>
+<p>. 1, Ibidem, Ancien Régime, pp. 270-271.</p>
+<p><pb/></p>
+<p>— s&gt;oï —</p>
+<p>leurs contemporains ont dans le coeur ou dans l'imagination : leur
+doctrine se transmet do génération en génération et elle devient alors
+une des formes du préjugé héréditaire, c'est-à-dire une véritable force
+sociale ; car une doctrine, qu'elle soit religieuse, sociale, politique,
+ou môme scientifique, ne devient active qu'en tant qu'elle revêt la
+forme du préjugé héréditaire.</p>
+<p>Et alors aussi elle entre véritablement dans le domaine des fails
+sociaux, elle devient une institution sociale.</p>
+<p>inslilu1. otigines. Ancien Régime, p. 275.</p>
+<p><pb/></p>
+<p>— 202 —</p>
+<p>I, Noies sur VAnglelerre, p. 217.</p>
+<p><pb/></p>
+<p>— 203 —</p>
+<p>Ces lois se résument ainsi : les pays d'organisation démocratique sont
+dans un état d'in-i. fériorité vis-à-vis des pays d'organisation aris-II
+tocratique. Taine prétendait induire celle con-l clusion d'une
+expérience plusieurs fois renou-J velée.</p>
+<p>« Sans aristocratie, une civilisation n'est pas ] complète ; il lui
+manque les grandes vies in- * dépendantes, largement développées,
+affranchies de tout souci mesquin, capables de beauté comme une oeuvre
+d'art. Quelqu'un a dit : « Guerre aux châteaux, paix aux chaumières! »
+Je crois qu'il vaudrait mieux dire : « Paix aux chaumières et aux
+châteaux ! » Proud'hon sou-</p>
+<p><pb/></p>
+<p>— 204 —</p>
+<p>hailait voir la France couverte de petites maisons propres, dans chaque
+maison une famille demi-villageoise' et demi-bourgeoise, alentour un
+petit champ et un jardin, toul le sol ainsi réparti ; partout du
+travail, de l'égalité, de l'aisance et des potagers. Au point de vue de
+l'historien c'est le voeu d'un maraîcher; s'il n'y avait plus que des
+légumes la campagne serait bien laide. Je n'ai pas de parc, et pourtant
+mes yeux sont contents d'en voir un ; seulement, il faut qu'il soit
+accessible et bien gouverné. Il en est de même des grandes vies ; elles
+font parmi les petites l'office des parcs parmi les jardinets et les
+cultures. L'un fournit les arbres séculaires, les pelouses de velours,
+la délicieuse féerie des fleurs accumulées el des 'poétiques avenues.
+L'autre entretient certaines élégances de moeurs et certaines nuances de
+sentiments, permet la grande éducation cosmopolite, nourrit une
+pépinière d'hommes d'Etat *. »</p>
+<p>L'aristocratie constitue donc une classe indispensable au bon
+fonctionnement de nos sociétés civilisées ; ses membres n'ont pas leur
+horizon borné par les exigences d'un métier, ils sont plus indépendants
+que ceux qui luttent conslam1</p>
+<p>conslam1 sur l'Angleterre, p. 208. — Les Origines. La Révolution, T. I.</p>
+<p><pb/></p>
+<p>— 205 —</p>
+<p>Assurément, l'organisation aristocratique ne va pas sans inconvénients :</p>
+<p>« Naturellement, un pareil cercle est fermé el maintient strictement ses
+limites ; l'institution aristocratique, comme toutes les autres, a ses
+inconvénients. Thaçkeray, dans tous ses écrits, a décrit et raillé
+amèrement ce système de clôtures sociales, l'effort des inférieurs pour
+s'introduire et des supérieurs pour se barricader l.»</p>
+<p>I. Ibidem, pp. 191-192.</p>
+<p><pb/></p>
+<p>— 206 —</p>
+<p>L'organisation démocratique en nivelant les classes, a supprimé cetle
+pépinière d'hommes d'Etat qu'étaient les classes supérieures. Une
+pareille constitution de l'Etal présente des inconvénients multiples ;
+nous allons relever un de ses effets les plus dommageables au bon
+fonctionnement de l'organisation politique : l'esprit de fonctionnarisme.</p>
+<p>Ce qui distingue en réalité les diverses formes de gouvernement, c'est
+le degré plus ou moins élevé de l'intervention des pouvoirs publics.
+Ceux-ci ont un minimum d'attributions, qui leur reviennent
+nécessairement parce qu'il n'y a</p>
+<p>1. Carnets de Voyage, pp. 33 31</p>
+<p><pb/></p>
+<p>— 207 —</p>
+<p>Il en est de même des aulrcs appellations : aristocratie, théocratie,
+oligarchie, monarchie constitutionnelle... ; elles ne désignent que les
+titulaires dés attributions d'Etal. Ce qui, en fait, distingue ces
+différents régimes, c'est le nombre d'attributions accidentelles dont
+ils bénéficient.</p>
+<p><pb/></p>
+<p>— 208 —</p>
+<p>parIfaite l'interventionisme de l'Etat est plus absorbant ; d'où il
+semble qu'on puisse déduire cette loi d'équilibre social : la perfection
+de l'organisation sociale est en raison inverse du quantum de
+rinterventionisme de l'Etat.</p>
+<p>mo\ de son évolution historique 1 — hasard heureux, si ce concours amène
+l'un des régimes, hasard regrettable s'il amène l'autre : car</p>
+<p>( 1. Essais de Critique. M. Troplong cl M. de Montalembert, pp. 324-323.</p>
+<p><pb/></p>
+<p>— 209 —</p>
+<p>Les circonstances dont le concours a provoqué l'appariton de ce régimo
+en France, sont, les unes politiques, les autres sociales.</p>
+<p>Et ces circonstances, sociales par leur aboutissement, mais
+intellectuelles et morales par leur origine, se résument dans
+l'influence exer•</p>
+<p>exer• . M</p>
+<p><pb/></p>
+<p>— 210 —</p>
+<p>cée par la philosophie du XVIII* siècle. Les découvertes scientifiques
+faites au cours du siècle, eurent, comme conséquence immédiate, un
+chan-" gement radical dans la manière de voir et de juger les hommes et
+les choses. Auparavant, le point de vue d'après lequel on les
+envisageait, et notamment la question capitale de l'origine de l'homme,
+c'était le point de vuo de la Révélation ; maintenant, fort de l'acquis
+scientifique on se place au poinl de vue opposé, celui de l'observation
+pure '.</p>
+<p>Aux découvertes scientifiques incomplètes qui déterminèrent cette
+volte-face, on appliqua le moule classique, c'est-à-dire, cet outillage
+vieillot et usé de raisonnements abstraits, de généralisations vagues,
+de belles phrases vides et de grands mots creux. On retrouve ici cette
+forme d'esprit qui fit, par toule l'Europe, l'âge classique : c'était «
+l'indépendance de la raison raisonnante, qui, écartant l'imagination,
+s'affranchissant de la tradition, pratiquant mal l'expérience, trouve
+dans la logique sa reine, dans les mathématiques son modèle, dans le
+discours son organe, dans la société polie son auditoire, dans les
+vérités nuageuses son emploi, dans</p>
+<p>1. Les originet. Ancien Régime, p. 228.</p>
+<p><pb/></p>
+<p>— 211 —</p>
+<p>l'homme abstrait sa matière, dans l'idéologie sa formule, dans la
+Révolution française sa gloire et sa condamnation, son triomphe et sa
+fin x. »</p>
+<p>Toutes les utopies du Contrai social et de Y Encyclopédie sont nées do
+celle rencontres de l'acquis scientifique incomplet avec l'esprit
+classique. Débitées avec la naïveté puérile et la vanité pédante d'un
+spéculatif de cabinet, apôtre de la Raison, comme un Jean-Jacques, un
+Diderot ou un Condorcct, elles ne pouvaient faire grand mal. Mais elles
+sont devenues le credo de cervelles étroites et courtes qui les ont
+appliquées de force et tout entières. L'Homme abstrait, les Droits de
+l'Homme, la Souveraineté du peuple, tous les dogmes du socialisme,
+égalitaire et niveleur, on sait « quelle progéniture ces simulacres
+métaphysiques ont enfantée; combien d'avortons non-viables et
+grotesques, combien de chimères monstrueuses et malfaisantes 3. »</p>
+<p>1. Ilisl. LUI. Angl., Tome III, p. 33. ,2. Les orlginet. Régime Moderne,
+Tome I, pp. 33-35.</p>
+<p><pb/></p>
+<p>— 212 —</p>
+<p>Taine ne rapporte pas d'exemple du régime opposé. Il ne pouvait dès lors
+déterminer a priori les circonstances dont le concours fait naître ce
+régime. Aussi bien est-il vis-à-vis du régime centralisateur — le seul
+dont nous trouvions dans les Origines la genèse exposée — un régime
+négatif puisque sa caractéristique est la réduction au minimum possible
+de l'action gouvernementale. C'est en l'envisageant de cette façon
+seulement que Taine pouvait en parler.</p>
+<p><pb/></p>
+<p>— 213 —</p>
+<p>ne peuvent remplir convenablement leur, mission ; l'Etat absorbe toutes
+les fonctions, il prétend assumer toutes les besognes. Or, « l'Etat est
+mauvais chef de famille, mauvais industriel, agriculteur et
+commerçant... médiocre administrateur de la province el de la commune,
+philanthrope sans discernement, directeur incompétent des Beaux-Arts, de
+la science, de l'enseignement et des Cultes » parce que « son ressort
+tout extérieur est insuffisant el trop faible pour soutenir et pousser
+les oeuvres qui ont besoin d'un moteur interne, comme l'intérêt privé,
+les affections de famille, le patriotisme local, la curiosité
+scientifique, l'instinct de charité, la foi religieuse *. »</p>
+<p>La grande faute du gouvernement centraliste est de méconnaître le «
+principe des spécialités ». Une môme main ne peut manier habilement tous
+les outils dont se sert une nation pour satisfaire ses besoins cl
+parfaire ses besognes. Chacun a ses outils propres, que seul il manie
+convenablement avec souplesse et économie ; la charité a ses hospices,
+les beaux-arts ont leurs musées et leurs académies, la finance a ses
+banques, la science a ses écoles, la religion a ses</p>
+<p>I. Les origines. Régime Moderne, Tome I, pp. 188187 J</p>
+<p><pb/></p>
+<p>— 214 —</p>
+<p>L'Etat, lorsqu'il devient'trop absorbant, remplit donc mal les fonctions
+des individus auxquels il se substitue ; et il remplit plus mal encore
+les lonctions des corps qu'il prétend remplacer : son action est
+essentiellement maladroite et stérile 2.</p>
+<p>conf"7!. p. 177. Note. — Ilist. LUI. Angl, Tome H, P- «0. I 2. Les
+origines. La Révolution, Tome I, p. 221 cl Tomo III, p. 492</p>
+<p><pb/></p>
+<p>— 215 —</p>
+<p>naître. Et, en effet, le député que je&lt; charge de mon mandat, comment le
+connaitrais-je ? « Rien ne m'atteste son honorabilité ni sa compétence ;
+il n'a point de diplôme ou de répondant comme le précepteur ; il ne
+m'est point garanti par sa corporation comme le médecin... Je ne le
+connais que par sa profession de foi emphatique et vague, par des
+déclamations de journal, par des bruits de salon, de café ou de rue *. » ,</p>
+<p>1. Les originel. Ln Révolution, Tome III, p. 131</p>
+<p><pb/></p>
+<p>— 216 —</p>
+<p>La représentation n'est donc pas, comme dans la démocratie centralisée,
+fictive, mais réelle ; elle est la représentation des intérêts sociaux et</p>
+<p>ri. Ibidem, p. 419. 2. Ibidem, pp. 4231-21.</p>
+<p><pb/></p>
+<p>— 217 —</p>
+<p><pb/></p>
+<p>— 218 —</p>
+<p>La tendance centralisatrice! dans les pays</p>
+<p>1. Notes sur l'Angleterre, pp. 218 A 220.</p>
+<p>2. Les origines. Ancien Régime, p 81.</p>
+<p><pb/></p>
+<p>— 219 —</p>
+<p>1. Vie, Tome III, Appendice, pp. 3?033&lt;V</p>
+<p><pb/></p>
+<p>— 220 —</p>
+<p>La défiance est poussée jusque sur le terrain religieux ; les
+associations religieuses sont proscrites comme les autres, peu importe
+qu'elles soient « comlcmplalivcs et inoffensives, ou labo\</p>
+<p>labo\ Vie, Tome IV, Appendice. L'association. On y Irome le» 1 dernières
+pages écrites par Taine, par lesquelles devait s'ouvrir Ile dernier
+volume des Origines, p. 352.</p>
+<p><pb/></p>
+<p>— 221 —</p>
+<p>1.' Ibidem, pp. 356-357. Taine vise ici le décrel du 29 mars 1SS0.</p>
+<p><pb/></p>
+<p>— 222 —</p>
+<p>~~- 1. Les origines. Régime Moderne, Tome III, pp. 360-361. — Ancien
+Régime, p. 35.</p>
+<p><pb/></p>
+<p>— 223 —</p>
+<p>*%</p>
+<p>1. Ibid. Régime Moderne, Tome III, pp. 313311.</p>
+<p><pb/></p>
+<p>— 224 —</p>
+<p><pb/></p>
+<p>— 225 —</p>
+<p>Pour lui, les institutions d'un peuple sont nécessairement conditionnées
+par les caractères du climat moral où elles éclosent, et toutes ensemble
+sont conditionnées et coordonnées par l'effet d'une tendance
+prédominante, d'une « faculté maîtresse ». On retrouve ici, élargie, une
+des théories de sa psychologie.</p>
+<p>mora1. Flint, Ilistory 0/ the Phitosophy 0/ History, op. cit., pp. 033 631.</p>
+<p>Taine. 15</p>
+<p><pb/></p>
+<p>— 226 —</p>
+<p>les et les sciences naturelles, a fini par les identifier.</p>
+<p>*%</p>
+<p>Il n'est pas d'étude que Taine ait abordé avec</p>
+<p><pb/></p>
+<p>— 227 —</p>
+<p><pb/></p>
+<p>— 228 —</p>
+<p>déterminent les aptitudes de la race el les nécessités du milieu.</p>
+<p>Une étude môme superficielle des religions montre combien cette
+affirmation est fausse. Si elle était exacte, il devrait apparaître
+clairement que la religion que professe un peuple ou une race doit ôlre
+nécessairement celle qu'il a embrassée. Taine prétend que par' une
+rencontre admirable, chaque peuple a entendu la voix unique qui seule
+pût interpréter les émotions qui germaient dans les âmes. « La rencontre
+serait admirable, effectivement — écrit M. La!</p>
+<p>I. Paul Lacombe, De l'esprit classique dan» la Révolution, Irançaise
+selon Taine, Reçue de Métaphysique et de Morale, septembre 1907, pp.
+580-581.</p>
+<p><pb/></p>
+<p>— 229 —</p>
+<p><pb/></p>
+<p>— 230 —</p>
+<p>plus d'étrangers... Le temple fut ouvert a quiconque crut en Dieu... il
+y eut désormais un enseignement religieux, qui ne se donna pas
+seulement, mais qui s'offril, qui se porta au devant des plus éloignés,
+qui alla chercher les jplus indifférents. L'esprit de propagande
+remplaça la loi d'exclusion V»</p>
+<p>On aperçoit ici, plus manifestement peut-ôlre que partout ailleurs,
+l'insuffisance de la théorie des milieux, et nous sommes donc fondés à
+répéter que cette théorie ^n'indique que quelquesuns des éléments qui
+conditionnent l'évolution de l'humanité il la genèse de ses institutions.</p>
+<p>1. Fustel de Coulanges, La Cité Antique. Paris, Hachette. 1803, op.
+459-460.</p>
+<p><pb/></p>
+<p>231 —</p>
+<p>Tout en contestant le caractère de nécessité absolue attribué par Taine
+aux causes qui ont provoqué l'avènement d'un régime de centralisalion à
+outrance, nous pensons qu'il a très heureusement démêlé la série des
+conséquences qu'un pareil régime suscite dans l'économie d'une
+organisation sociale. 11 est très exact d'affirmer que l'intervention
+abusive de l'Etat dans les matières qui ne rentrent pas dans le champ de
+sa compétence naturelle, y produit des troubles et des perturbations
+néfastes. L'Etat n'est pas qualifié pour organiser l'enseignement, pour
+se substituer aux associations indépendantes, pour, exproprier
+l'initiative privée dans les affaires et dans les oeuvres qui ont besoin
+d'un moteur interne et indépendant. Son aclion est trop uniforme et trop
+générale pour remplir efficacement les services multiples qui
+conditionnent le gouvernement d'une nation. Il semble que Taine ait vu
+très clair dans ce danger qui menace toutes les nations organisées
+d'après les principes de la Révolution française.</p>
+<p>Quoi qu'on dise de la valeur de la méthode historique qui a présidé aux
+recherches des Origines de la France contemporaine, ces conclu-</p>
+<p><pb/></p>
+<p>— 232 —</p>
+<p>Mais, en toute hypothèse, ces défauts de méthode ne pourraient amoindrir
+que la valeur historique des Origines ; ils ne pourraient enlever aux
+résultats d'une analyse de pure philosophie sociale, leur efficacité
+probante et leur portée.</p>
+<p>Il appartient aux historiens de contrôler la valeur des Origines, au
+point de vue de leur exactitude historique et de leur sincérité.</p>
+<p><pb/></p>
+<p>CHAPITRE VII</p>
+<p>L'ESTHETIQUE.</p>
+<p>L'OBJET de l'Esthétique est de rechercher l'explication complète des
+beaux-arts et de l'art en général. La méthode peut être conçue de deux
+façons: elle sera tantôt historique, c'est-à-^ dire qu'elle prendra pour
+point de départ des laits ; tantôt dogmatique, c'est-à-dire qu'elle
+prendra pour point de départ des dé\initions.</p>
+<p>« Notre esthétique, disait-il, est moderne et diffère de l'ancienne en
+ce qu'elle est historique et non dogmatique, c'est-à-dire qu'elle n'impose</p>
+<p><pb/></p>
+<p>— 234 —</p>
+<p>1. Phil. de l'Art, Tome I, pp. 1118.</p>
+<p><pb/></p>
+<p>— 235 —</p>
+<p>pas, et celles qu'elle hasarde ont un caractère strictement expérimental.</p>
+<p>une-sensa1. Tome II, p. 72.</p>
+<p><pb/></p>
+<p>— 230 —</p>
+<p>lion agréable, noble, élevée, désintéressée, source de plaisir parce que
+cause d'augmentalion de noire action pensante.</p>
+<p>L'esthétique moderne n'exige pas d'autres préambules théoriques. Quand
+on s'est rendu compte de ce qui constitue la beauté, et de la manière
+dont les produits de l'activité humaine l'acquièrent, la manifestent et,
+partant deviennent des oeuvres d'art, on peut aller de l'avant</p>
+<p>1. Phil. de l'Art, T. I, pp. 41-4?. )</p>
+<p><pb/></p>
+<p>— 237 —</p>
+<p>Aussi, la Philosophie de VArl a-t-elle l'allure d'une histoire de l'Art
+; mais c'est de l'histoire organisée, de l'histoire qui doit prouver des
+théories et soutenir un système. Taine n'a d'ailleurs jamais compris
+l'histoire que de cette façon. Son esthétique semble être tout entière
+dans les conclusions qui se dégagent de l'exposé des faits, mais elle
+est aussi dans les raisonnements que le système inspire.</p>
+<p>Les faits étudiés par Taino sont nombreux ; il y a une vue d'ensemble
+sur les quatre grands moments de la civilisation européenne, l'anliquité
+grecque et romaine, le moyen âge féodal et chrétien, les monarchies
+nobiliaires et régulières du XVIIe siècle, et la démocratie industrielle
+régie par les sciences, dans laquelle nous vivons aujourd'hui ; il y a
+une étude minutieuse' et détaillée de la peinture de la Renaissance en
+Italie, de la peinture dans les PaysBas, et de la sculpture en Grèce.</p>
+<p><pb/></p>
+<p>— 238 —</p>
+<p>La loi de la production artistique peut s'énoncer ainsi : « L'oeuvre
+d'art est déterminée par un ensemble qui est l'état général de l'esprit
+et des moeurs environnantes. »</p>
+<p>La preuve expérimentale de cette loi ressort de l'examen des faits ;
+Taine y a consacré une très large étude ; nous venons d'en rappeler
+l'objet.</p>
+<p>1. Phil. de l'Art, T. I, pp. 49-50. — Voyage en Italie, T. I, p. 5/</p>
+<p><pb/></p>
+<p>— 239 —</p>
+<p>Nous avons vu plus haut la façon dont la race, le miljcu et le moment
+façonnent les institutions et le génie d'un peuple. Ces facteurs créent
+une température morale dont le degré n'est compatible qu'avec une
+certaine nature de talents et certains caractères d'institutions.</p>
+<p>1. Derniers Essais de Critique. L'Arl. p. 306.</p>
+<p>2. Vie, Tome I, p. 79.</p>
+<p><pb/></p>
+<p>— 240 —</p>
+<p>Recherchez les caractères et les éléments de cet état préféré, et vous
+constaterez qu'il est toujours en concordance parfaite avec les besoins
+de la race et les nécessités du climat.</p>
+<p>Or, les oeuvres d'arl, dans leur ensemble, tra1.</p>
+<p>tra1. de Critique. Madame d'Aulnoy, p. 317.</p>
+<p><pb/></p>
+<p>— 241 —</p>
+<p>duisent toujours celte tendance vers l'état préféré : « les arts se
+modèlent sur les goûts, comme un bronze sur un moulé x ».</p>
+<p>Taine a longuement développé dans sa P/iilosophie de VArt, un cas très
+simple, « simplifié exprès », pour faire voir comment la température
+morale agit sur les oeuvres d'art. En voici les grandes lignes : supposé
+un état d'esprit dans lequel la Iristesse est prédominante, comment
+agira-t-il sur la production artistique?</p>
+<p>« D'autre part, l'artiste a été élevé parmi des contemporains
+mélancoliques ; partant les idées qu'il a reçues dans son enfance et
+celles qu'il</p>
+<p>i. Derniers Essais de Critique. Les Beaux-Arts en France, p. 55. Taine. 16</p>
+<p><pb/></p>
+<p>— 242 —</p>
+<p>« Par cette série de barrières, tout passage sera fermé aux oeuvres
+d'art qui voudraient manifester la joie. Si l'artiste franchit la
+première, il sera arrêté par la seconde, et ainsi de suite...</p>
+<p><pb/></p>
+<p>— 243 —</p>
+<p>La dernière partie du livre traite de l'Idéal dans l'Art. Nous y
+reviendrons dans l'examen des normes de la philosophie de Taine.</p>
+<p>Taine s'illusionnait en prétendant que son esthétique est moderne ; la
+méthode historique qu'il a prétendu suivre impose des conditions
+auxquelles il n'a pu se soumettre.</p>
+<p>Au fond, la formule de son esthétique est</p>
+<p>I. Ml. de l'Art, Tome I, pp. 57 &amp; C3.</p>
+<p><pb/></p>
+<p>— 244 —</p>
+<p>Cet emploi factice de la méthode positiviste</p>
+<p><pb/></p>
+<p>— 245 —</p>
+<p>Taine concevait la Renaissance italienne comme une renaissance de
+l'antiquité classiI.</p>
+<p>classiI. Schlof, Kritik der Tatnetchen Kunsllheorie. — Wien und Leipzig.
+1906. M. Schlaf est un « converti » : grand ad-1 mlrateur de
+l'esthétique de Taine, il en est revenu, et il en donne 1 tlnns celle
+brochure une critique serrée et sévère.</p>
+<p><pb/></p>
+<p>— 246 —</p>
+<p>*"* 1. Adolfo Venturi, Taine, historien de l'Art. Lettre a Monsieur lo
+Professeur Giacomi Barzellotti. Publiée en appendice n l'ou\rage de
+Baizelotti, oj.&gt; cit., pp. 422-423.</p>
+<p><pb/></p>
+<p>— 247 —</p>
+<p>plupart des résultats qu'on prétend établir. Les progrès artistiques ne
+suivent pas une évolution unilinéaire ; il y a, au sein de toute
+civilisalion, des tendances diverses, des défaillances., partielles, des
+floraisons soudaines et exceptionnelles. Taine ne l'a jamais compris; de
+là, „ la méconnaisance de certaines formes d'art, le dédain pour des
+mérites souvent très réels, le silence et l'oubli pour toutes les
+manifestations artistiques qui "contredisent sa formule ou débordent de
+ses cadres '.</p>
+<p>La formule de l'esthélique de Taine aura l'utilité que présentent toules
+les Ihéories bien., faites ; car, « ce sont, écrit M. Anatole France,
+des étagères indispensables pour ranger les faits dans des compartiments
+a ». Or, le classement artificiel correspond souvent, dans une</p>
+<p>1. Jules Désirée, Notes sur les Primitifs italiens. Sur quelque*
+Peintres de Sienne. Bruxelles, Dietrich, 1003, p. 15 et sq. 2 Anatole
+France, dans le Temps du 12 mars 1S93Â</p>
+<p><pb/></p>
+<p>— 248 —</p>
+<p>L R. P. At, Taine, philosophe, esthète, historien. Paris, Arthur
+Savaèto, p 32.</p>
+<p><pb/></p>
+<p>DEUXIÈME PARTIE</p>
+<p>LES NORMES</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHAPITRE VIII</p>
+<p>LA MORALE.</p>
+<p>1. Essai sur TileLtce, p. 330. — llist. LUI. Angt., T.IV.p.Mfc^) —
+Essais de Critique, Michèle!, p. 131. /</p>
+<p><pb/></p>
+<p>— 252 —</p>
+<p>est un ensemble de tendances instinctives qui se fixent selon leur force
+propre. Dès lors, la morale, pour être efficace, doit rechercher quels
+sont ces instincts, les conditions de leur apparition et les éléments de
+leur force prédominante.</p>
+<p><pb/></p>
+<p>— 253 —</p>
+<p>• heur tel quel auquel il peut aspirer, l'indication essentielle est
+donnée par ses instincts, que ses instincts prédominants sont indiqués
+par l'histoire... 1. »</p>
+<p>En réunissant les éléments de morale, qu'on trouve de temps en temps
+sous la plume de</p>
+<p>" 1. Vie, Tome III. Appendice. Extrait des notes préparatoires pour les
+Origines, pp. 310-311. «. Vie, Tome IV, pp. 172173.</p>
+<p><pb/></p>
+<p>— 254 —</p>
+<p>Taine, on peut se faire une idée de la morale scientifique qu'il rêvait
+d'écrire.</p>
+<p><pb/></p>
+<p>—.255 —</p>
+<p>/ 1. Vie, Tome II, p. 31.</p>
+<p>I 2. Itist. Lilt. Angl., Tome II, p. 487.</p>
+<p><pb/></p>
+<p>— 256 —</p>
+<p>1. Ibidem, p. 413.</p>
+<p><pb/></p>
+<p>— 257 —</p>
+<p>Donc, ce que nous jugeons honnête de nos jours, ne l'aurait pas été, il
+y a deux siècles, pour nos aïeux, et ne l'est peut-être pas aujourd'hui
+pour d'autres peuples. L'honnêteté des actes et le jugement qui la fonde
+sont un produit du milieu, un caprice de la race ou (lu moment.</p>
+<p>1. Nouveaux Essais de Critique. Uenaud de Montautan, pp. 334335.</p>
+<p>Taine. i;</p>
+<p><pb/></p>
+<p>— 258</p>
+<p>"~~Y k'ssais de Critique. Fléchier, p. 12. — La Fontaine et ses Fables,
+p. 55. — Ilisl. LUI. Angl., T. IV, p. 403. - T. V, pp. 142143. — Voyage
+aux Pyrénées, pp. 313-315.</p>
+<p><pb/></p>
+<p>— 259 —</p>
+<p>[ I. Vie, Tome II, p. 240.</p>
+<p>j 8. Ibidem, Tome I, p. 101. — Jffef. Lilt. Angl, T. III, p. 102. -
+VTome IV, p. 400.</p>
+<p><pb/></p>
+<p>- 260 —</p>
+<p>Celle môme connaissance conditionne l'obtention du bonheur auquel
+l'homme peut prétendre. Et ici, il faut savoir regarder la vie bien . en
+face, renoncer aux illusions et aux chimères: ! « le parfait répugne à
+la vie 4 ». Il faut donc</p>
+<p>1. La Rochefoucauld. Maximes morales. REVUE DE I.'INSÎIUJCTION</p>
+<p>PUBMOUE, 19 avril 1855. , 2. Jlisl. LUI. Angl., T. IV, pp. 118119:
+Les-Philosophes claisique*.</p>
+<p>claisique*. 280-282. j 3. Derniers essais de critique. Sainte-Odile et
+îphtgénic en Tnuj ride, p. W. • ! ,4. Ibidem, p. 89.</p>
+<p><pb/></p>
+<p>— 261 —</p>
+<p>savoir limiter ses aspirations et refréner ses dé* sirs. « Cette
+humanité dont nous sommes les fils et qui vit en chacun de nous est une
+Niobé dont les enfants tombent incessamment sous les flèches des archers
+invisibles ; les fils et les filles blessés s'abattent et palpitent ;
+les plus jeunes cachent leur tête dans la robe de leur mère ; l'une,
+encore vivante, lève des bras inutiles vers les meurtriers célestes.
+Elle, froide et raidie, se redresse sans espérance cl, élevée un instanl
+au-dessus des sentiments humains, elle aperçoit avec admiration et avec
+horreur le nimbe éblouissant et funéraire, les bras tendus, les flèches
+inévitables, l'implacable sérénité des dieux ' ». &gt;</p>
+<p>La révolte nous rendrait plus malheureux encore ; le but vers lequel
+nous devons porter</p>
+<p>[I. Carnets de Voyage, p. 211. 2. Derniers Essais de Critique. Oleyre,
+p. 241</p>
+<p><pb/></p>
+<p>— 262 —</p>
+<p>\ 1. Jlist. LUI. Angl., T. I, pp. 305. — T. IV, pp. 20-21, 419, 423. 4-
+Vie, T. I, pp. 52-53.</p>
+<p>12. Thomas flrnindorge, pp. 329-330.</p>
+<p>13. Ibidem, p. 207.</p>
+<p><pb/></p>
+<p>— 263</p>
+<p>j Ce stoïcjsjne^pourra nous cuirasser d'orgueil j contre l'atteinte des
+« rouages stupides » de ! la grande mécanique dans laquelle il faut
+vivre,* il nous apprendra la résignation froide et pacifiante devant
+l'universelle nécessité des événements et des êtres, pour ne laisser au
+coeur que l'espoir d'un éternel sommeil au sortir de cette vie misérable
+et stérile \</p>
+<p>\1. Phil. de rArl, Tome II, p. 288.</p>
+<p>12. Nouveaux Essai» de Critique. Marc-Aurèle, pp. 95, 107-108.</p>
+<p>|3. Vie, Tome IV, p. 274.</p>
+<p>|4. Vie, Tome I, pp. 256 — et 01."</p>
+<p><pb/></p>
+<p>— 264 —</p>
+<p>D'une façon délibérée et réfléchie, nous ne pouvons haïr ou flétrir les
+criminels, car leurs méfaits sçnt toujours le résultat d'une tendance
+prédominante dont la force intrinsèque « annihile l'influence des
+tendances opposées. Nous réprimandons un coupable, parce que nous
+ignorons les motifs, les déterminants de son action, et nous le
+réprimandons d'aulanl plus que nous les connaissons moins. Mais,
+considérant</p>
+<p>1. Estai* de Critique. La Bruyère, pp 8 9</p>
+<p><pb/></p>
+<p>— 205 —</p>
+<p>les crimes c|ans tous leurs éléments, dans toutes les phases de leur
+perpétration, nous ne pouvons pas plus les flétrir que nous ne
+flétrissons la monomanie incendiaire ou homicide l.</p>
+<p>1. Notes sur la Volonté. Revue Philosophique; lot. cil, pp. 4M cl sq.</p>
+<p><pb/></p>
+<p>— 266 —</p>
+<p>propre, spontanément, avec une initiative complète, avec une
+responsabilité entière, et que l'artifice d'analyse par lequel on
+distingue ses principaux moteurs, ses engrenages successifs et les
+distributions de son mouvement primitif n'empêchent pas le tout qui est
+elle-même, de tirer de soi son élan et sa direction, c'est-à-dire son
+énergie et son effort *. »</p>
+<p>&lt;&lt; Si l'on nie la détermination absolue des volitions humaines, il n'y a
+plus de science morale, plus de prévision ; si l'homme peut améliorer sa
+condition, son esprit et son âme, c'est seulement parce que les
+événements internes sont rigoureusement et mutuellement dépendants ; là
+connexion des faits qui nous donne notre empire sur le monde physique
+nous donne aussi notre empire sur le monde moral 3. »</p>
+<p>De même, il est « impossible, sans le déter[</p>
+<p>déter[ Essais de Critique. Préface, pp. xxttxxm. ! 2. Vie, Tome IV, p.
+292. ^ 3. Ibidem, Tome II, p. 353.</p>
+<p><pb/></p>
+<p>— 207 —</p>
+<p>minisme, de fonder le droit de punir, la justice du châtiment *. »</p>
+<p>1. Ibidem, Tome IV, p. 292.</p>
+<p><pb/></p>
+<p>— 208 —</p>
+<p>: ; • U Lo mot responsabilité peut êlre compris do</p>
+<p>Je n'entends pas, cependant, celte réfutation: telle action que je pose,
+je ne puis pas ne pas la poser, puisque je ne suis pas libre: j'en suis
+cependant responsable, parce que le penchant dont elle csl le résultat
+m'appartient ou qu'en le prenant dans la situation générale ou dans le
+caractère national, il m'est devenu personnel au premier chef. Certains
+penchants m'appar-</p>
+<p><pb/></p>
+<p>— 260 —</p>
+<p>tiennent, dit-on ; soit, mais j'ai dû les recevoir, puisqu'il m'est
+impossible d'en créer librement en moi. D'aulrcs penchants, je les ai
+pris dans le milieu, mais c'est une métaphore que ce mot prendre pour
+signifier l'action subie par moi de la part de ce facteur.</p>
+<p>Mais alors, comment ma responsabilité peutelle être engagée? Suis-je
+responsable de mes i actes par le seul fait qu'ils s'accomplissent par I
+mes organes ou qu'ils résultent de tendances qui sonl en moi, bien que
+je n'en sois pas l'auteur?</p>
+<p>Mais alors l'animal est responsable au même^ titre que l'homme. Chez
+l'animal comme chez 11 l'homme, naissent des désirs, des tendances, ^
+auxquels tous deux obéissent nécessairement en accomplissant les aclcs
+que déterminent ces appélitions selon leur véhémence respective. — Les
+désirs se fixent, en effet, en nous d'après leur force propre : leur
+fixation constitue la série de nos volitions. Quand on admet le dé- \
+lerminisme psychologique, la morale ne peut j plus être qu'un système de
+dressage. A cela j pourtant Taine ne se pouvait résoudre, et sans égard
+aux contradictions dans lesquelles il versait, il a voulu maintenir dans
+sa morale la</p>
+<p><pb/></p>
+<p>— 270 —</p>
+<p>notion de la responsabilité qui suppose un agent libre l.</p>
+<p>.l.BarzcIlotti, op. cit., p. 290. v ' 2. Notes sur la Volonté, loc.
+cit., pp. 401-165.</p>
+<p><pb/></p>
+<p>— 271 —</p>
+<p>Taine reconnaît l'empire sur notre vie morale ; dès lors, au sens où il
+définit le fatalisme, il est fataliste, et il était parfaitement logique
+lorsqu'il affirmait que nous sommes le jouet de « puissances fatales »
+cl de « forces indestructibles l ».</p>
+<p>Taine a manqué de logique en voulant concilier et identifier le
+déterminisme psychologique et la responsabilité.</p>
+<p>symy Nouveaux Essais de Critique, pp. 201-262. — llist. LUI. Anal.,
+Cjome I, p. 402.</p>
+<p><pb/></p>
+<p>97°</p>
+<p>vlv ^^</p>
+<p>Cette conclusion est contre la morale, sans doute, mais elle n'est pas
+contre le déterminisme. Quand on a affirmé que la vue de leur nécessité
+intérieure rend les vices de l'homme</p>
+<p>I. Vie, Tome IV, pp. 288-289.</p>
+<p><pb/></p>
+<p>— 273 —</p>
+<p>En réalité, Taine a reculé devant l'application pratiqué de ses
+principes, et il a préféré la contradiction et le démenti, aux
+conséquences immorales que sa probité condamnait. M. Paul Bourget a
+appelé cela « l'aventure intellectuelle de M. Taine ».</p>
+<p>Taine. 18</p>
+<p><pb/></p>
+<p>— 274 —</p>
+<p>Tl n'est pas de meilleur argument contre certaines doctrines que ce
+divorce entre une très vaste intelligence et un très grand coeur.</p>
+<p><pb/></p>
+<p>CHAPITRE IX</p>
+<p>LA LOGIQUE.</p>
+<p><pb/></p>
+<p>— 270 —</p>
+<p>l'idéal dans l'esprit ». Il s'agit donc ici d'une science normative.</p>
+<p>L'homme est enfermé en lui-même, « il n'aperçoit que ses étals
+intérieurs, tout passagers et isolés ; il s'en sert pour désigner des
+états extérieurs ». Tout ce qu'il peut faire dès lors, c'est examiner
+ces élats intérieurs qui se déroulent en lui, les lier et les additionner.</p>
+<p><pb/></p>
+<p>— 277 —</p>
+<p>1. Hisl. LUI. Angl., Tome V, p. 397.</p>
+<p>2. Le» Philosophes classiques, p. 253. — Hisl. LUI. Angl., T. V, l»p\
+398 et 406.</p>
+<p><pb/></p>
+<p>— 278 -</p>
+<p>donc un extrait ; « un nom commun est abslrait parce qu'il désigne un
+extrait, c'est-à-dire une portion d'individu, laquelle se retrouvo dans
+tous les individus du groupe l. »</p>
+<p>1. De l'Intelligence, Tome I, p. 35.</p>
+<p>2. /fi*l. Lilt. Angl., Tome V, p. 399. 3 De l'Intelligence, Tome II, p.
+258.</p>
+<p><pb/></p>
+<p>— 279 —</p>
+<p>«</p>
+<p>contradicJ. p. 275</p>
+<p><pb/></p>
+<p>'— 280 —</p>
+<p>toires, la conception empirique, et la concep/ lion métaphysique, pour
+lesquelles il manifestait une égale inclination. Par celle théorie, il
+réconcilia dans son propre esprit Spinoza et Hume, Hegel et Condillac l.</p>
+<p>Après avoir abstrait, il falit- définir. Définir, c'est rechercher dans
+les objets ou dans les faits, les éléments générateurs de ces objets ou
+faits. « La définition est la proposition qui marque dans un objet, la
+qualité d'où dérivent les autres et qui ne dérive point d'une autre
+qualité a. »</p>
+<p>L'abstraction et la définition sont les antécédents du syllogisme :</p>
+<p>1. Lucien Lévy-Bruhl, llislory of Modem Philosophy in France p. 425. r
+2. Uist. Lilt. Angl., Tome V, p. 401. 'y. 3. Ibidem, p. 405.</p>
+<p><pb/></p>
+<p>— 281 —</p>
+<p>reslrieI l'Intelligence, Tome II, pp. 405 et 4n7. ,:</p>
+<p><pb/></p>
+<p>—. 282 —</p>
+<p>« Les axiomes sont des théorèmes... qu'on se dispense de prouver, soit
+parce que la preuve en est très facile, soit parce que la preuve en est
+très difficile. En d'autres termes, ce sont des propositions
+analytiques, où le sujet contient l'attribut soit d'une façon très
+visible, ce qui rend l'analyse inutile, soit d'une façon très marquée,
+ce qui rend l'analyse presque impraticable 2. »</p>
+<p>Par Yinduction, j'isole des portions des phénomènes qui me sont connus
+par l'expérience ; j'abstrais des faits complexes que j'y rencontre, des
+faits plus simples que je suppose être la cause des phénomènes que
+j'expérimente ; l'in1.</p>
+<p>l'in1. LUI. Angl., Tome V, p. 405. 2 De l'Intelligence, Tome 11, p. 336.</p>
+<p><pb/></p>
+<p>— 283 —</p>
+<p>duction est donc « le triomphe de l'abstraction * ».</p>
+<p>La connaissance de nos différentes opérations « logiques », nous permet
+de considérer notre aclivité intellectuelle par une vue d'ensemble.</p>
+<p>H Nous voyons maintenant les deux grands moments de la science, et les
+deux grandes apparences de la nature. Il y a deux opérations,
+l'expérience et l'abstraction ; il y a deux royaumes, celui des faits
+complexes et celui des faits simples. Le premier est l'effet, le second
+la cause. Le premier est contenu dans le second et s'en déduit, comme
+une conséquence de son principe. Tous deux s'équivalent, ils sont une
+seule chose considérée sous deux aspects 2 .»</p>
+<p>scien[1. Lilt. Angl., Tome V, p. 407-408. 2. Ibidem, p. 408.</p>
+<p><pb/></p>
+<p>— 284 —</p>
+<p>ces, enfantent les religions et les philosophies 1.</p>
+<p>La méthode impose une double discipline ; la première est analytique, la
+seconde est abstractive. L'analyse doit porter d'abord sur les mois. Or,
+« analyser... c'est traduire. Traduire, c'est apercevoir sous les signes
+des faits distincts 2. »</p>
+<p>Après avoir analysé les mots, il faut analyser les choses ; pour
+analyser le mot, je l'ai traduit.</p>
+<p>1. Les Phltosophes classique», pp. 174 170.</p>
+<p>2. Le» Philosophes classique», p. 323.</p>
+<p>3. Ibidem, p. 331.</p>
+<p><pb/></p>
+<p>— 285 —</p>
+<p>l/ Ibidem, pp. 332-343. 2, Ibidem, p. 351.</p>
+<p><pb/></p>
+<p>— 286 —</p>
+<p>un accompagnement ou en un antécédent unique, c'est forcément cet
+antécédent ou cet accompagnement qui est notre inconnue ».</p>
+<p>Vient ensuite la méthode des différences : « soit un caractère connu, et
+prenons deux casr le premier où il soit donné, le second où il ne soit
+pas donné... Puisque le caractère connu est présent dans l'un el absent
+dans l'autre, sa condition inconnue est présente dans le premier et
+absente dans le second ; partant elle ne peut être une des
+particularités par lesquelles les deux cas se ressemblent... »</p>
+<p>Ces deux méthodes en suggèrent une troisième : la méthode des variations
+concomitantes : Nous pouvons démêler la condition inconnue, « en
+constatant dans un des accompagnements ou des antécédents du caractère
+connu, des variations exactement correspondantes aux variations du
+caractère connu ».</p>
+<p>j I De l'Intelligence, Tome II, pp. 312 a 324.</p>
+<p><pb/></p>
+<p>— 287 —</p>
+<p>* *</p>
+<p>Très manifestement l'auteur de YIntelligence est soucieux de voir que sa
+psychologie simpliste ne diminue en rien la valeur de nos opérations
+intellectuelles. Qu'il y ait réussi,, rien n'apparaît moins clairement,
+et nous avonsfait remarquer plus haut la foncière disproportion qui se
+manifeste, dans le système de Taine,- entre les facultés cognitives et
+leurs opérations, entre les théories sur la connaissance cl les</p>
+<p><pb/></p>
+<p>— 288 —</p>
+<p><pb/></p>
+<p>— 289 —</p>
+<p>confiante dans les vastes généralisations qu'il x édifiait sur des
+fragments d'expérience. Il n'est pas de question qu'il ait envisagée,
+sans qu'il y trouvât l'occasion d'irne vue d'ensemble sur l'unité de
+l'univers. Sa tournure d'esprit « classique et française » l'y poussait,
+et nous retrouvons dans sa Logique, cette préoccupation de rechercher
+dans toules les sciences, une &lt;» avenue » vers la métaphysique.</p>
+<p>Taine.</p>
+<p>«9</p>
+<p><pb/></p>
+<p>CHAPITRE X</p>
+<p>LA POLITIQUE.</p>
+<p>| 1. Essais de Critique. M. Troplong et M. de Monta!emberl, î p. S26.</p>
+<p><pb/></p>
+<p>-- 291 —</p>
+<p><pb/></p>
+<p>— 292 —</p>
+<p>sion naturelle de l'ouvrage, car il y aurait indiqué les voies où la
+France devra un jour trouver la guérison de ses maux et la réparation de
+ses erreurs l. »</p>
+<p>♦S</p>
+<p>Taine a fait une véritable apologie de la religion au point de vue
+social. Lorsqu'une religion a, pendant plusieurs siècles, saturé la
+sensibilité poétique et mystique d'une race, elle est devenue un préjugé
+héréditaire, c'est-à-dire une forme de la raison. Or, non seulement, «
+de tous les grands poèmes où la raison humaine s'est cachée sous
+l'imagination humaine, la religion est le plus auguste 2, » mais il est
+aussi le plus bienfaisant. — Tel est le cas du christianisme qui, «
+après dix-neuf siècles est encore, pour quatre cent millions de
+créatures humaines, l'organe spirituel, la grande paire d'ailes
+indispensables pour soulever l'homme au-dessus de lui-même s. » Et c'est
+un besoin, pour beaucoup de créatures humaines, de s'élever au-dessus
+d'elles-mêmes, au-dessus des misères d'une vie trop amère ou trop
+prosaïque,</p>
+<p>1. Gabriel Monod, Renan, Taine, Michelct, p. 120.</p>
+<p>2. Essais de Critique. Madame d'Aulnoy, pp. 300-361.</p>
+<p>T^^Les Origines. Régime Moderne, T. III, p. 148. — Nouveaux A Entais de
+Critique. Léonard de Vinci, p. 351.</p>
+<p><pb/></p>
+<p>— 293 -rtrop</p>
+<p>A cette heureuse influence sur les âmes, la religion ajoute une
+influence sur l'état social luimême. Dans les sociétés où la religion
+n'exerce pas son action civilisatrice et bienfaisante, « les moeurs
+privées et publiques se dégradent. En Italie pendant la Renaissance, en
+Angleterre sous la Restauration, en France sous la Convention et le
+Directoire, on a vu l'homme se faire païen... ; la cruaulé et la
+sensualité s'étalaient, la société devenait un coupe-gorge et un mauvais
+lieu.</p>
+<p><pb/></p>
+<p>— 294 —</p>
+<p>pour enrayer le glissement insensible par lequel, incessamment et de
+tout son poids originel, notre race rétrograde vers ses bas-fonds : et
+le vieil Evangile, quelle que soit son enveloppe présente est encore
+aujourd'hui le meilleur auxiliaire de l'instinct social l. »</p>
+<p>La religion entrelient dans le monde une « chaleur » qui lui est
+nécessaire. Les hommes n'ont rien trouvé qui pût la remplacer. Elle a
+donc au point de vue social des titres incontestables. En elle-même,
+elle est un produit de l'imagination humaine ; aussi varie-t-elle selon
+le degré et l'espèce d'imagination des différentes races. Toules les
+religions sont des chi-; mères, mais toules sonl bienfaisantes, parce
+que une religion engendre une morale, el qu'une morale change une
+barbarie en civilisation 2.</p>
+<p>corl. Origines. Régime Moderne, T. III, p 147 2. llist. LUI. Angl., T.
+IV, p. 171.</p>
+<p><pb/></p>
+<p>— 295 — -</p>
+<p><pb/></p>
+<p>.-,206 —</p>
+<p>Enfin, il y a un « dernier système, le plus injuste et le plus
+malfaisant de tous — celui où le matelol, le passager sans le sou, les
+vendeurs d'allumettes et de cirage, le peuple et la populace, bref le
+nombre domine. Alors le point de vue auquel tout est conduit est
+socialiste, et habituellement... le procédé par lequel tout est conduit
+est la huée, le lapage, la révolte perpétuelle, avec fausses manoeuvres,
+voies d'eau, faux atterrissements, mauvais résultats financiers,
+accidents gravés au navire...</p>
+<p>« En résumé, le Gouvernement le plus juste et le plus capable de bien
+gérer la chose publique, doit cumuler ces trois systèmes et faire usage
+de ces trois forces : - 1° De la royauté héréditaire et de l'aristocra-.</p>
+<p><pb/></p>
+<p>- 297 —</p>
+<p><pb/></p>
+<p>— 29.8 —</p>
+<p>absorbante, et elle permettra l'application d'un régime de
+décentralisation où l'initiative privée pourra s'épanouir pleinement.</p>
+<p>Cette mission de l'Etat doit être déterminée par son but même :</p>
+<p>Cette définition du but de l'Etat se justifie surtout historiquement.</p>
+<p>« Après le tumulte dès invasions et de la conquête, au plus fort de la
+décomposition sociale, parmi les combats quotidiens que se livraient les
+forces privées, il s'est élevé dans chaque so^ ciété européenne une
+force publique cl cette force publique qui s'est maintenue pendant des
+siècles, subsiste encore aujourd'hui. »</p>
+<p>C'est l'Etat, une grande épée publique, « que deux intérêts ont forgée ;
+il en fallait une de cette taille, d'abord contre les glaives paCY</p>
+<p>paCY T. III. - I6»dem, p. 331.</p>
+<p><pb/></p>
+<p>— 290 —</p>
+<p>Le principe de la réduction des prérogatives de l'Etat aux limites des
+nécessités de sa mission domine toule cette matière. Sa mission,</p>
+<p>1. Le* Origine». La Révolution, T. III, pp. 132-133. ^</p>
+<p>2. Ibidem, T. I, p. 188. I</p>
+<p>3. Vie, T. I, p. S6. 7</p>
+<p><pb/></p>
+<p>— 300 —</p>
+<p>" '1. Les Origines. La Révolution, T. III, pp. 136-137-138. 2. Vie T.
+IV. Appendice. L'Association, p. 351 et sq.</p>
+<p><pb/></p>
+<p>— 301 —</p>
+<p>•%</p>
+<p>Une égale défiance vis-à-vis de l'intervention de l'Etal doit inspirer
+le régime de l'enseigne-... ment ; et ici plus jalousement peut-être que
+partout ailleurs, il importe d'empêcher l'Etat de s'arroger des
+prérogatives qui ne rentrent pas dans sa mission. Un enseignement
+officiel heurte de front des intérêts sociaux et des droits individuels.</p>
+<p>En effet, l'enseignement officiel et uniforme, est lourd et
+disproportionné. L'Etat est trop haut, trop loin, trop abstrait pour
+être instituteur : il ne connaît pas les besoins locaux ni les exigences
+particulières. Or, on ne peut oublier que seules fonctionnent
+convenablement « les institutions qui naissent, spontanément, sur place.
+Elles s'adaptent aux circonstances,</p>
+<p>1. Les Origines. La Révolution, T. IV, p. 144.</p>
+<p><pb/></p>
+<p>-•- 302 —</p>
+<p>1 1. Ibidem. Régime Moderne, T. II, p. 34.</p>
+<p>I 2. Ibidem, T. III, P- 356, note.</p>
+<p>1 3. Ibidem. La Révolution, T. III, pp. 147-140. •</p>
+<p><pb/></p>
+<p>._ 303 —</p>
+<p>1. Vie, T. IV, pp. 9899.</p>
+<p><pb/></p>
+<p>•—30V —</p>
+<p>Taino se prononce donc nettement en faveur de la liberté do
+l'enseignement, et d'une liberté absolue, écartant toute intervention de
+l'Etal.</p>
+<p>La religion est une chimère menteuse et décevante, mais elle est
+bienfaisante, et, dans la mission qu'elle remplit, elle est
+irremplaçable. Tout autre qu'elle échouerait dans l'oeuvre de
+moralisàlion et de civilisation qu'elle accomplit au sein des sociétés
+humaines. N'intervenez pas dans cette oeuvre délicale et difficile, car
+vous la détruiriez.</p>
+<p>Ne souffrez que le moins possible l'intervention de l'Etat dans
+l'organisation sociale et politique de votre pays. Demandez-lui d'être un</p>
+<p><pb/></p>
+<p>— 305 —</p>
+<p>1. Phil. de l'Art, T. II, pp, 119-180.</p>
+<p>2. Vie, T. II, p. 121.</p>
+<p>Tainj. ao</p>
+<p><pb/></p>
+<p>— 306 —</p>
+<p>Laissez faire, laissez passer ; ce faisant, vous résoudrez toutes les
+qucslions sociales.</p>
+<p>« Je lui avais procuré, écrit-il, un document auquel il attacha grand
+prix : c'était 1' « Etat des congrégations, communautés et associations
+religieuses autorisées et non autorisées » que M. Brisson, précurseur de
+M. WaldeckRousseau, avait fait chasser dès 1878. A la suite de celle
+communicalion, j'eus avec lui, avant l'une de nos séances académiques,
+une assez</p>
+<p><pb/></p>
+<p>— 307 —</p>
+<p>Etait-ce le même homme qui, quelques années auparavant, écrivait, à
+propos des couvents de Toulouse :</p>
+<p>1. Conile d'IIaussonville, La correspondance de Taine. Article publié
+dans le Gaulois et reproduit par le XX' Siècle du 8 mai 1904.</p>
+<p>2. Carnets de Voyage, p. 286. — Voyage en Italie, 'l. I, pp. 69, 110.
+165, 275. — T. II, pp. 212 213.</p>
+<p><pb/></p>
+<p>— 308 —</p>
+<p>« Comment un esprit aussi consciencieux, aussi pénétrant, aussi élevé
+que celui de Taine — se demande M. Giraud — n'a-t-il pas senli que, pour
+répudier définitivement une croyance, une doctrine qui a soutenu la vie
+morale</p>
+<p><pb/></p>
+<p>— 300 —</p>
+<p>En matière religieuse, Taine a vécu toute sa vie sur une équivoque. Pour
+lui. la réconcilia-? lion entre la Science et la Foi devait rester à
+jamais impossible ; la Science ne peut admettre le mystère, parce
+qu'elle ne peut adrnetlre qu'il y ait des bornes et des limites à
+l'intelligence humaine, et la Foi, c'est l'affirmation du mystère
+insondable et définitif. Or, Taine avait la religion de la Science ; il
+ne pouvait donc être l'adepte de la Foi.</p>
+<p>« Telle élait l'origine de son opposition intime au catholicisme, et
+cela dans les moments mêmes où il en parlait avec le plus d'intelligente
+sympathie : on se rappelle les pages célèbres qui dans les Origines,
+terminent les chapitres sur l'Eglise : d'un accent moins âpre, el1.</p>
+<p>el1. Giraud, La personne et l'oeuvre de Taine d'après ta correspondance.
+Revue de» Deux Monde*. V février 1903, p. 549.</p>
+<p><pb/></p>
+<p>— 310 —</p>
+<p>« Pour la religion, ce qui me semble incompatible avec la science
+moderne, ce n'est pas le christianisme mais le catholicisme actuel et</p>
+<p><pb/></p>
+<p>- 311 —</p>
+<p>romain : au contraire, avec le protestantisme large et libéral, la
+conciliation est possible *. » Mais ces déclarations n'établissent
+qu'une préférence hypothétique. Si * Taine avait dû choisir, il aurait
+choisi le protestantisme. Il n'en restait pas moins Yincroyant de la
+quinzième année. M. Gabriel Monod dit très bien : « Il avait le respect
+de l'âme humaine ; il en savait la faiblesse et se gardait de porter la
+main sur ce qui peut la fortifier contre le mal ou la consoler dans la
+douleur. C'est ce qui explique la démarche, mal comprise de
+quelques-uns, par laquelle ce libre-penseur, catholique de naissance, a
+exprimé le désir d'être enterré selon le rite protestant. Son- aversion
+pour l'esprit de secte, pour les manifestations bruyantes, pour les
+discussions oiseuses lui faisait redouter un enterrement civil qui
+aurait pu paraître un acte d'hostilité contre la religion et lui attirer
+des hommages inspirés plus par le désir de contrister les croyants que
+par celui d'honorer sa mémoire... Un enterrement catholique, d'autre
+part, eût supposé un acte d'adhésion et une sorte de désaveu de ses
+doctrines. Il savait que l'Eglise protestante pouvait lui</p>
+<p>1. Vie, T. IV, pp. 326 et 333.</p>
+<p><pb/></p>
+<p>— 312 —</p>
+<p>accorder des prières tout en respectant son indépendance, et sans lui
+attribuer des regrets ou des espérances qui étaient loin de sa pensée l. »</p>
+<p>Lorsque Taine remarqua chez M. Paul Bourget, qui avait été un des
+confidents de sa pensée, les premiers indices d'une évolution qui devait
+le ramener au catholicisme, il lui écrivait, non sans une certaine
+mélancolie :</p>
+<p>&lt;( Peut-être la voie que vous prenez-, votre idée de l'inconnaissable,
+d'un au-delà, d'un noumène, vous conduira-t-elle vers un port mystique,
+vers une forme du christianisme. Si vous y trouvez le repos et la santé
+de l'âme, je vous y saluerai non moins amicalement qu'aujourd'hui 2. »</p>
+<p>•%</p>
+<p>s'ac^'</p>
+<p>\ 1. Gabriel Monod, op. cit., pp. 145-110. \ 2. l'iV, T. IV, p. 293. ,</p>
+<p><pb/></p>
+<p>— 313 —</p>
+<p>créditer de plus en plus et d'après laquelle l'apparition de ce grand
+ouvrage historique aurait marqué dans l'oeuvre de Taine une orientation
+nouvelle et un changement de doctrine. Il y aurait désormais deux l'aine
+: celui d'avant 1870, et celui des Origines.</p>
+<p><pb/></p>
+<p>— 314 —</p>
+<p>D'autre part, les Origines sont une condamnation sévère du régime issu
+de la Révolution. Pour Taine, cet événement a provoqué une déviation
+dans l'évolution naturelle de la France depuis 1789 2.</p>
+<p>Or, l'on peut se demander comment, dans un système de déterminisme
+naturaliste, une pareille déviation est concevable. Rien n'échappe à
+l'empire des lois naturelles. Comment dès lors admettre l'idée d'un
+échec de ces lois? D'ailleurs Taine lui-même n'écrivait-il pas vers 1865
+: « Plus je vois la France, plus elle me semble avoir la constitution
+qui lui convient 3 ».</p>
+<p>Assurément, non. M. Paul Bourget, dans</p>
+<p>1. Derniers Essais de Critique. Du suffrage universel et de la manière
+de voler, p. 151. ... 2. Vie, T. III, p. 2C9. ^ 3. Carnets de Voyage, p.
+189.</p>
+<p><pb/></p>
+<p>— 315 —</p>
+<p>une très belle étude, a victorieusement défendu la mémoire de Taine
+contre pareilles insinuations</p>
+<p>et une très mince attention. Même en 1871,</p>
+<p>»—</p>
+<p>1. Paul Bourget, Les deux Taine. Dans: Etudes cl Porliails. Sociologie
+et Littérature. Paris, Pion, 1006, p. 86.</p>
+<p><pb/></p>
+<p>— 310 —</p>
+<p>lorsqu'il écrivit sa brochure sur le suffrage universel, celte
+inexpérience était toujours aussi grande. Après vingt ans de recherches
+patientes et de labeur ininterrompu, il parla en connaissance de cause,
+et s'il lui est arrivé de se contredire dans le détail, il a maintenu
+jusqu'au bout la rigidité de sa doctrine et l'inflexibilité de ses
+principes.</p>
+<p>I Ce qui a changé chez Taine, et ceci d'une Ifaçon très notable, c'est
+son altitude d'esprit et [sa manière de juger. La sérénité calme du
+déterministe et du naturaliste a disparu dans les</p>
+<p>\Ovigines. On l'a noté plusieurs fois.</p>
+<p>II ne se contente pas ici d'écrire et d'analyser ; il juge, il s'indigne
+; au lieu de montrer simplement dans la chute de l'ancien régime, dans
+les violences de la Révolution, dans les gloires et la tyrannie de
+l'Empire, une succession de faits nécessaires et inévitables, il parle
+de fautes, d'erreurs, de crimes... * »</p>
+<p>1. Gabriel Monod, op. cit., p. 167. — Henry Michel, L'idée de l'Etal.
+Essai critique. Pari?, Hachette, 1896, pp. 531 è 537.</p>
+<p><pb/></p>
+<p>— 317 —</p>
+<p>Le changement chez Taine n'est donc que</p>
+<p>J. Barzcliolti, op. cit., pp. 309-310.</p>
+<p><pb/></p>
+<p>— 318 —</p>
+<p>superficiel ; il est dans l'attitude, non dans la pensée. Le seul
+reproche qu'on puisse lui adresser, c'est un reproche d'illogisme, non
+de contradiction.</p>
+<p>Si les admirables pages sur l'Eglise ne peuvent constituer pour les
+défenseurs de celle-ci un véritable argument d'apologétique, elles sont
+tout au moins, sous la plume d'un Taine, un éloge et un aveu d'un rare
+prix. On y rencontrerait de même des arguments singulièrement efficaces
+contre toules les doctrines néfastes qui ont trouvé dans la Révolution
+Française, leur origine immédiate ou leur initiation lointaine.</p>
+<p><pb/></p>
+<p>CHAPITRE XI</p>
+<p>L'IDÉAL DANS L'ART.</p>
+<p>L'art n'a pas d'autre but que de rechercher et d'exprimer la beauté de
+la Nature. L'art necrée pas la beauté ; elle est dans les choses avant
+de passer dans les oeuvres. Aussi bien, l'émotion la plus haute et la
+plus profonde naît-elle plus spontanément et plus entièrement au contact
+des choses naturelles qu'en présence des oeuvres d'art. Taine a souvent
+exprimé la préférence qu'il accordait aux premières : seules elles
+donnent un plaisir parfait et une jouissance entière *. Les oeuvres
+d'art ne sont belles qu'en tant qu'elles expriment et reproduisent la
+beauté naturelle.</p>
+<p>Il y a des arls qiîj imitent et des arts qui n'i--</p>
+<p>1. Voyage en Italie, T. I. p. ?39.</p>
+<p><pb/></p>
+<p>— 320 — *</p>
+<p><pb/></p>
+<p>— 321 —</p>
+<p>de formation comme aux mêmes règles de critique... x »</p>
+<p>La créature architecturale ou musicale n'est pas un amas de pierres
+symétriques ou une succession de notes harmonisées, mais « une sorte
+d'être intelligent, expressif, tout imprégné de la pensée intérieure qui
+le fonde et le soutient 2 ».</p>
+<p>Le but de l'art est donc en quelque sorte de corriger la nature, puisque
+c'est opérer une sélection dans l'amas des caractères et des éléments
+naturels, et construire un agencement</p>
+<p>1. Phil. de l'Art, T. Il, p. 238. \</p>
+<p>2. Derniers Essais de Critique. Jfihiile Boulmy, pp. 101105.</p>
+<p>Taine. ,i</p>
+<p><pb/></p>
+<p>-— 322 —</p>
+<p>I. Phit. de l'Art, II, p. 224.</p>
+<p><pb/></p>
+<p>— 323 —</p>
+<p>Considérons ce principe dans son application la plus significative, dans
+son application « à</p>
+<p><pb/></p>
+<p>— 324 —</p>
+<p>« A la surface de l'homme sont des moeurs, des idées, un genre d'esprit
+qui durent trois ou quatre ans ; ce sont ceux de la mode et du moment.
+Un voyageur qui est allé en Amérique ou en Chine ne retrouve plus le
+même Paris qu'il avait quitté. Il se sent provincial et dépaysé ; la
+plaisanterie a changé d'allures ; le vocabulaire des clubs et des petits
+théâtres est différent ; l'ëlégant qui tient le haut du pavé n'a plus la
+même sorle d'élégance... ; les variations de la toilette mesurent les
+variations de ce genre d'esprit ; de tous les caractères de l'homme
+c'est le plus superficiel et le moins stable.</p>
+<p>&lt;( Au dessous s'élend une couche de caractères un peu plus solides ;
+elle dure vingt, trente, quarante ans, environ une demi-période
+historique. Nous venons d'en voir finir une, celle qui eut son centre
+aux alenlours de 1830. Vous en trouverez le personnage régnant dans
+YAntony d'Alexandre Dumas... En somme, c'est le plébéien de race neuve,
+richement doué de facultés et de désirs, qui, pour la première</p>
+<p><pb/></p>
+<p>— 325 —</p>
+<p>fois, arrive aux sommets du monde, étale avec fracas le trouble de
+son,esprit et de son coeur. Ses sentiments et ses idées sont ceux d'une
+génération entière ; c'esl pourquoi il faut laisser passer une
+génération pour les voir disparaître.</p>
+<p>&lt;( Si fermes et stables que soient ces types, ils finissent. Nous
+voyons, depuis quatre-vingts ans, le Français engagé dans le régime
+démocratique, perdre une portion de sa politesse, la plus grande partie
+de sa galanterie, échauffer, diversifier et altérer son style, entendre
+d'une façon nouvelle tous les grands intérêts de la société et de
+l'esprit. Un peuple, dans le cours de sa longue vie, traverse plusieurs
+renouvellements . semblables, et pourtant il reste luimême ,non
+seulement par la continuité des générations qui le composent, mais
+encore par la</p>
+<p><pb/></p>
+<p>— 320 —</p>
+<p><pb/></p>
+<p>— 327 —</p>
+<p>« Tel est l'ordre dans lequel se superposent les couches de sentiments,
+d'idées, d'aptitudes et d'instincts qui composent une âme humaine. Vous
+voyez comment, en descendant des supérieures aux inférieures, on les
+trouve toujours plus épaisses, et comment leur importance se mesure à
+leur stabilité '. »</p>
+<p>On peut donc, parmi les caractères et les éléments qui constituent l'âme
+humaine, établir une échelle de valeur croissante selon le degré de leur
+importance. Pareillement, on- peut y établir une seconde échelle selon
+le degré de leur bienfaisance :</p>
+<p>« Les caractères s'y classent, selon qu'ils sont plus ou moins nuisibles
+ou salutaires, par la grandeur de la difficulté ou de l'aide qu'ils
+introduisent dans notre vie, pour la détruire ou la conserver.</p>
+<p><pb/></p>
+<p>— 328 —</p>
+<p>&lt;c II s'agit donc de vivre, et, pour l'individu, la vie a deux
+directions principales : ou il connaît, ou il agit ; c'est pourquoi on
+peut distinguer en lui deux facultés principales, l'intelligence et la
+volonté. D'où il suit que tous les caractères de la volonté et de
+l'intelligence qui aident l'homme dans l'aclion et la connaissance sont
+bienfaisants, et les contraires malfaisants.»</p>
+<p>Mais il ne suffit pas de considérer l'homme isolé ; il faut aussi le
+voir dans son groupe.</p>
+<p><pb/></p>
+<p>— 320 —</p>
+<p><pb/></p>
+<p>— 330 —</p>
+<p>« Tantôt le caractère est une de ces puissances primitives et mécaniques
+qui sont l'essence des choses : tantôt il est une de ces puissances
+ultérieures et capables de grandir, qui marquent la direction du monde ;
+et l'on comprend pourquoi, l'art est supérieur, lorsque, prenant pour
+objet la nature, il manifeste tantôt quelque portion profonde de son
+fonds in1.</p>
+<p>in1. de l'Art, T. Il, p. 257.</p>
+<p>2. Ibidem, p. 289.</p>
+<p><pb/></p>
+<p>— 331 —</p>
+<p>développement !. »</p>
+<p>Que si l'on établit enfin, parmi les oeuvres d'art, une troisième
+échelle croissante, selon le degré de convergence de leurs effets, l'on
+sera en mesure de les classer définitivement dans l'ordre hiérarchique
+de la beauté qu'elles possèdent et de la valeur qu'elles acquièrent.</p>
+<p>« Plus l'artiste a démêlé et fait converger dans son oeuvre des éléments
+nombreux et capables d'effet, plus le caractère qu'il veut mettre en
+lumière devient dominateur ; l'art tout entier lient en deux paroles :
+manifester en concentrant 2. »</p>
+<p>« Le chef-d'oeuvre est celui dans lequel la plus grande puissance reçoit
+le plus grand développement \ »</p>
+<p>1. Ibidem, pp. 313-314.</p>
+<p>2. Ibidem, p. 324.</p>
+<p>3. Ibidem p. 315.</p>
+<p><pb/></p>
+<p>— 332 —</p>
+<p>*</p>
+<p>M. de Margerie, parlant des considérations assez inaltendues qu'on
+rencontre dans YIdéal dans l'Art, juge que la philosophie de Taine y
+trouve un supplément de valeur morale : « A</p>
+<p>« 1. Carnets de Voyage, p. 45.</p>
+<p>v 2. Voyage en Italie, T. I, pp. 4-5. — T. II, pp. 910. | 3. Hisl. LUI.
+Angl., T. IV, p. 423.</p>
+<p><pb/></p>
+<p>— 333 —</p>
+<p>défaut de l'ascension dialectique dont on s'est fermé les chemins, il
+s'opère, en dépit de la doctrine et de ses négations, une ascension
+esthétique '. »</p>
+<p>accrois1. de Margerie, op. cil, p. 307. — Cf. Brunciiôre, L'art ej^la
+Morale. Discours de combat, l" série.</p>
+<p>2. Gabriel Monod, op. cit., p. 132.</p>
+<p><pb/></p>
+<p>— 334 —</p>
+<p>sements ou annihilent ceux de la première. Considérées dans leur
+ensemble, une pareille distinction n'est pas reccvablc, puisque ces
+forces se conditionnent l'une l'autre ; mais considérées isolément,
+après analyse, rien ne pourrait empêcher un déterministe d'examiner les
+points de vue nouveaux introduits par cette analyse.</p>
+<p>« Ce qui lui manquait le plus — écrit-il — c'était... l'expérience
+technique proprement dite. Lui qui n'avait jamais conçu ni exécuté une
+oeuvre d'arl figurative, il ne pouvait, com-</p>
+<p><pb/></p>
+<p>— 335 —</p>
+<p>Quoi qu'on puisse arguer de la méthode et des principes de la
+Philosophie de l'Art, il reste que l'esthétique normative de Taine
+constitue une ascension vers un idéal plus élevé et plus humain, une
+sorte de trêve aux rigueurs du déterminisme implacable et rigide.</p>
+<p>1. Bar/ellolli, op. cit., pp. 206-207.</p>
+<p><pb/></p>
+<p>CHAPITRE XII</p>
+<p>CONCLUSION.</p>
+<p>La tâche est délicate, sans doute, mais elle est singulièrement
+facilitée par le caractère en quelque sorte « statique » de cette
+philosophie; Il"n'y"a pas eu d'évolution dans la pensée de Taine : telle
+elle inspirait les conclusions du</p>
+<p><pb/></p>
+<p>— 337 '—</p>
+<p>irnmo'l Monod, op. cit, pp. 130-13lN</p>
+<p>Taine. J a*</p>
+<p><pb/></p>
+<p>— 338 —</p>
+<p>biliseï* pour toujours l'intelligence de Taine dans les cadres d'une
+conception philosophique où toutes ses théories et toules ses doctrines
+vinrent plus lard se ranger. Celte influence primordiale et indélébile
+qui s'exerça sur lui est celle de £pkte«€r?</p>
+<p>Taine a raconté lui-même les circonstances qui déterminèrent
+l'orientation définitive de sa pensée. Il avait quinze ans lorsqu'il
+abandonna ses convictions religieuses.</p>
+<p><pb/></p>
+<p>— 339 —</p>
+<p><pb/></p>
+<p>_ 340 —</p>
+<p>Taine traversait une crise, mais elle n'était pas religieuse, elle était
+philosophique. La perte de la foi chez lui, « ne fut point une
+révolution sanglante, mais une découverte tranquille *; » Il voulait
+contrôler tous les « acquis » de son intelligence et il abandonna tout
+ce qui ne faisait pas certitude raisonnée en elle. Tout croula devant
+cet esprit critique, mais parmi les ruines accumulées par lui,
+subsistait la volonté d'un dogmatique par nature et par tempérament, du
+futur croyant de la science qui voulait des certitudes.</p>
+<p>pou1. Giraud, La ptrtonne et l'auvre de Taine, toc. cit., pp. &amp;16-547.</p>
+<p><pb/></p>
+<p>— 341 —</p>
+<p>vais embrasser tout l'horizon philosophique, comprendre l'opposition des
+systèmes, voir la naissance des opinions,, découvrir le noeud des
+divergences et la solution des difficultés l. »</p>
+<p>l'abstrac1. T. I, p. 25.1</p>
+<p>2. Nouveaux Essaya de Critique. Franz Wcepke, p. 321.</p>
+<p>3. Vie, T. I, p. 75.</p>
+<p><pb/></p>
+<p>— 342 —</p>
+<p>Ce sonl ceux dont Taine s'est servi. Le second surtout fut efficace ;
+Taine lui doit les principes fondamentaux de sa psychologie. A son avis,
+« la méthode de Condillac est un des chefs-d'oeuvre de l'esprit humain \
+» Il lui a emprunté celte théorie « très féconde... mais</p>
+<p>1 Paul Lacombe, La psychologie des individus et des sociétés chez Taine.
+Paris, Alcnn, 1906, p. 302.</p>
+<p>2. Vie, T. I, p. 151.</p>
+<p>3. Ibidem, p. 217.</p>
+<p>4. Les Philosophes classiques, pp. 133131.</p>
+<p>5. Ibidem, p. 17. — Lévy-llruhl, op. cit., p. 4i?2</p>
+<p><pb/></p>
+<p>— 343 —</p>
+<p>sans développements ni preuves suffisantes, qui pose que toules nos
+idées générales se réduisent ù des signes \ »</p>
+<p>Il faul encore citer, parmi les influences subies par Taine, deux noms
+pour lesquels il professait une admiration qui est allée jusqu'à
+l'acceptation des doctrines : Goethe et Marc-Aurèle. 1</p>
+<p>« Goethe est le trait d'union par lequel, dans ^ la pensée de Taine, la
+conception spinozisle de</p>
+<p>1. De l'Intelligence. Préface, p. 5.</p>
+<p>2. Vie, T. III, pp. 216-217.</p>
+<p>3. Borzeliotti, op. cit., p. 09, noie 1.</p>
+<p><pb/></p>
+<p>— 344 —</p>
+<p>Marc-Aurèle a inspiré toute la morale pratique de Taine ; ses Pensées
+étaient l'un de ses livres de chevet : « Marc-Aurèle est mon catéchisme
+2. »</p>
+<p>Herder prétend expliquer dans ses grandes lignes, l'histoire de
+l'humanité par l'action de</p>
+<p>1. Ibidem, p. 39.</p>
+<p>2. Vte, T. I, p. 173.</p>
+<p><pb/></p>
+<p>— 345 —</p>
+<p>1. Herder, Idées sur la philosophie de l'histoire de l'humanité,
+1781-1787. Traduction Edgar Quinet, 1834. Livre XII, chap. VI.</p>
+<p><pb/></p>
+<p>— 340 —</p>
+<p>rassemblé dans un système très cohérent un •ensemble de doctrines de
+provenance très diverse.</p>
+<p><pb/></p>
+<p>— 347 —</p>
+<p>Ce jugement de M. Boulmy nous paraît résumer d'une façon très heureuse
+l'influence que Taine a exercée sur la littérature et la philosophie de
+la deuxième moitié du XIXe siècle en France.</p>
+<p>J. Boulmy, op cit., pp. 0-7. — Gabriel Monod, op. cil., p. 197.</p>
+<p><pb/></p>
+<p>— 348 —</p>
+<p>« En fait, le grand livre des Origines a marqué le point de départ du
+vaste renouveau d'idées</p>
+<p>' 1. Victor Giraud, Essai sur Taine, chap. IV.</p>
+<p><pb/></p>
+<p>— 349 —</p>
+<p>conservatrices que nous voyons se propager aujourd'hui. Le
+tradilionnalisme par positivisme, celle doctrine si féconde en
+conséquences encore incalculables, relève de lui l. »</p>
+<p>M. Bourget voulait désigner le groupe de Y Action française qui a fait
+des doctrines contrerévolutionnaires son programme et de la
+contreRévolution son objet. Les Origines sont la principale source de
+cette doctrine nouvelle. M. L. Dimier, un des chefs les plus écoulés du
+groupe, écrivait en 1907 :</p>
+<p>« Sans Taine, les enseignements de Bonald et de Maislre, la critique de
+Rivarol n'eussent point rappelé l'opinion, repris leur premier rang dans
+une vulgarisation de la contre-révolution. La doctrine
+contre-révolutionnaire est aussi ancienne que la Révolution ; le
+mouvement contre-révolutionnaire dans les intelligences françaises date
+de 1870, que parut le premier volume de YHistoirè de la Révolution de
+Taine' 8. » |</p>
+<p>C'est là, semble-t-il, l'orientation que tend *2P prendre l'influence
+exercée par Taine. Son système philosophique aura perdu son crédit,</p>
+<p>1. Paul Bourget, Les deux Taine,' loc. cit., p. 113. , 2. L. Dimier,.le»
+mallre* de la contre-révolution au XIX* «iêcle. \ParIs, Nouvelle
+librairie nationale, 1907, p. 188. — CI. D. Parodi,</p>
+<p>Traditionalisme et positivisme. Revue de synthèse historique.</p>
+<p>Paris, 1900. T. XIII, pp. 265 et sq. -^</p>
+<p><pb/></p>
+<p>— 350 —</p>
+<p><pb/></p>
+<p>— 351 —</p>
+<p>écrivait au lendemain de la mort du grand penseur :</p>
+<p>I. E. M. de Vogué, op. cit., pp. 291-292.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>TABLE DES MATIÈRES.</p>
+<p>Avant-propos ' p. IX</p>
+<p>Préface p. XI</p>
+<p>CHAPITRE I. La vie de Taine.</p>
+<p>Notes biographiques p. 1</p>
+<p>Bibliographie p. 26</p>
+<p>PREMIÈRE PARTIE. LES CAUSES.</p>
+<p>CHAPITRE II.</p>
+<p>Les cames dernières. La métaphysique.</p>
+<p>Exposé de la métaphysique de Taine. — Son principe fondamental. — La
+métaphysique est la recherche des premières causes, c'est-à-dire des
+lois générales. — La métaphysique de Taine est un panthéisme
+naluralistc. — Démonstration et preuves. — L'argument des c trois
+possibilité» ». — Il n'existe qu'un seul &lt;Hro dont la manifestation
+revêt deux formes. — L'essence de toute chose est une série de lois
+superposées. — L'argument psychologique.</p>
+<p>— Le panthéisme est une religion. . . p. 37 Critique de la métaphysique
+de Taine. — Taine a</p>
+<p>— Examen de l'argument des « trois possibilités ».</p>
+<p>Taine 93</p>
+<p><pb/></p>
+<p>— 354 —</p>
+<p>CHAPITRE III. \ Les causes subordonnées. Le monde.</p>
+<p>Exposé de la cosmologie de. Taine. — La matière sensible telle qu'elle
+nous apparaît, est un fantôme créé par les sens ; il n'y a de réel en
+elle que les lois qu'elle manifeste. — L'identité de nature de</p>
+<p>• tous les êtres : le panvitalisme. — Il n'y a pas de substances, mais
+seulement des systèmes de faits. p. 70</p>
+<p>Critique de la cosmologie de Taine. — L'extension do la psychologie qui
+aboutit au panvitalisme, ne repose sur aucune preuve. — Le devenir des
+choses est inexplicable par les théories de Taine sur la constitution de
+la matière sensible. . . p. 78</p>
+<p>CHAPITRE IV. La société.</p>
+<p>Critique de la sociologie de Taine. — La loi des Facteurs Primordiaux
+n'est qu'une formule qui dé-</p>
+<p><pb/></p>
+<p>— 355 —</p>
+<p>signe une tendance ou un fait général. — Critiques injustifiées de MM.
+Lacombe, Faguet et Giraud. — Critique très heureuse de Sainte-Beuve. —
+L'utilité pratique de la théorie des milieux est illusoire dans
+l'hypothèse déterministe. — La vérification décisive manque aux
+principes de la sociologie de Taine p. 106</p>
+<p>CHAPITRE V. L'homme. La Psychologie.</p>
+<p>Exposé de la psychologie de Taine. — Conception générale. — La notion du
+moi. — La sensation, sa nature et sa fonction. — Identité du phénomène
+physiologique et du phénomène psychique, -r- Vue d'ensemble sur
+l'activité psychologique ; les substitutions de signes. — La formation
+des idées générales. — Les associations d'idées. — Le point de vue
+critériologique . p. 122</p>
+<p>La Volonté. — Sa nature et son mécanisme. — Les preuves du déterminisme
+psychologique. . p. 149</p>
+<p>La théorie de la « faculté maîtresse ». — L'organisation de l'âme
+humaine p. 156</p>
+<p>Critique de la psychologie de Taine. — Son originalité ; la méthode
+expérimentale. — Taine a outré la portée de celte méthode ; il a
+converti l'abstention provisoire en une négation absolue. — Les
+empreintes du système. — Examen de la notion du moi. — Les
+contradictions de la théorie de 1' c hallucination vraie». — Examen de
+la doctrine sur les idées générales. — Les conséquences logiques des
+principes de la psychologie de Taine au point de vue critériologique p. 160</p>
+<p>Examen des preuves du déterminisme psychologique p. 177</p>
+<p>Examen de la théorie de la « faculté maîtresse ». p. 180</p>
+<p>Jugement d'ensemble sur la psychologie de Taine. p. 181</p>
+<p><pb/></p>
+<p>— 366 —</p>
+<p>CHAPITRE VI.</p>
+<p>Les Institutions. La religion. L'organisation sociale et politique.</p>
+<p>Exposé des théories de Taine. — L'objet de la sociologie spéciale ;
+l'action prolongée de la loi des Facteurs Primordiaux. — Les choses
+morales, comme les choses physiques, ont des dépendances et des
+conditions p. 181</p>
+<p>La religion. — Les étapes de sa genèse. — L'origine du christianisme. —
+Le « préjugé héréditaire ». — La religion est une force sociale ... p. 192</p>
+<p>L'association. — Elle ne peut subsister dans les pays d'organisation
+démocratique. — Les associations religieuses p. 218</p>
+<p>L'enseignement. — Les inconvénients de l'intervention de l'Etat en cette
+matière. ... p. 222</p>
+<p>Critique des théories de Taine. — La sociologie spéciale est une
+application immédiate de la loi des Facteurs Primordiaux. — Taine a
+identifié les sciences morales et les sciences naturelles : en
+conséquence, ses théories sociales sont trop systématiques. — La genèse
+des religions : l'explication naturaliste est insuffisante et sans
+preuves. — Leur caractère de nécessité absolue mis a part, les théories
+sur l'organisation sociale et politique, sur l'association et sur
+l'enseignement, constituent des principes très heureux de philosophie
+sociale, p. 223</p>
+<p><pb/></p>
+<p>— 357 —</p>
+<p>CHAPITRE VIL L'Esthétique.</p>
+<p>Critique de l'esthétique de Taine. — Elle n'est qu'en apparence,
+historique et moderne. — En réalité, elle est dogmatique : Taine procède
+par voie déductive. — Les préoccupations systématiques ont faussé les
+résultats de ses recherches historiques, p. 243</p>
+<p>DEUXIÈME PARTIE.</p>
+<p>LES NORMES.</p>
+<p>CHAPITRE VIII. La Morale.</p>
+<p>Exposé de la morale de Taine. — La méthode historique en morale. — Le
+principe déterministe. —- Les deux objets de la morale. — La moralité
+des actes de l'homme. — Son caractère de relativité. — La solidarité
+humaine. — De l'idéal dans la vie : le bonheur. — Le stoïcisme. — La
+conciliation du déterminisme psychologique et de la responsabilité p. 251</p>
+<p>Critique de la Morale de Taine. — Taine a prétendu lui conserver son
+caractère de science normative. —- La conciliation du déterminisme et de
+la respon-</p>
+<p><pb/></p>
+<p>— 358 —</p>
+<p>CHAPITRE IX. La Logique.</p>
+<p>Exposé de la Logique de Taine. — L'abstraction : son rôle et ses
+résultats. — La définition. — Le syllogisme. — L'axiome. — Vue
+d'ensemble sur les différentes opérations intellectuelles. — La méthode
+p. 275</p>
+<p>CHAPITRE X. La Politique.</p>
+<p>Exposé des théories sociales de Taine. — La religion : ses bienfaits au
+point de vue social. — L'organisation sociale et politique: les
+bienfaits du système traditionaliste et héréditaire. — Le rôle do l'Etat
+: principe de la réduction de ses prérogatives aux limites des
+nécessités de sa mission. — Le régime de l'enseignement : nécessité de
+respecter en cette matière, l'initiative privée . . . . p. 290</p>
+<p><pb/></p>
+<p>— 359— ,</p>
+<p>CHAPITRE XI. L'Idéal dans l'Art.</p>
+<p>Exposé de la doctrine de Taine. — Le but de l'art. — Les règles à
+observer dans la production dès oeuvres d'art. — Les oeuvres d'art se
+hiérarchisent en une échelle de valeur croissante selon le degré
+d'importance et de bienfaisance du caractère exprimé par elles, et selon
+le degré do convergence des effets qu'elles emploient pour l'exprimer,
+p. 319</p>
+<p>CHAPITRE XII.</p>
+<p>Conclusion. &lt;^rmj?*N^</p>
+<p>Les influences subies par Taine. —-/4^/^hfluenc$£, qu'il a exercées. -—
+La partie diiral^/derfon^syV^ tème philosophique U*3-il P»fâ3l&gt;?</p>
+<p>FLN..</p>
+<p>Imprimé par DeicKe, De Brouwer «t Cie, LILLB — PARIS — BRUCKI.</p>
+    </div>
+    </body>
+  </text>
+</TEI>

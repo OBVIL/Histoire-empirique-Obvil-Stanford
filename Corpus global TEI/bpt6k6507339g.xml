@@ -1,0 +1,3183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Saint-Victor, Paul de (1827-1881)">Paul de Saint-Victor</author>
+<title>Victor Hugo / par Paul de Saint-Victor</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Saint-Victor, Paul de (1827-1881)</author>, <title>Victor Hugo / par Paul de Saint-Victor</title>, <date>1892</date>,description :,416 pages
+</bibl>
+<publisher>Calmann-Lévy (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k6507339g</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1892">1892</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>BIBLIOTHÈQUE CONTEMPORAINE —, ,</p>
+<p>PAUL DE SAINT-VICTOR</p>
+<p>VICTOR HUGO</p>
+<p>PARIS CALMANN LÉVY, ÉDITEUR RUE AUBER, 3, ET BOULEvAnD DES ITALIENS, 15
+A LA LIBRAIRIE NOUVELLE</p>
+<p>1892</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>VICTOR HUGO</p>
+<p><pb/></p>
+<p>CALMANN LÉVY, ÉDITEUR</p>
+<p>ŒUVRES</p>
+<p>DE</p>
+<p>PAUL DE SAINT-VICTOR</p>
+<p>Format in-8°</p>
+<p>ANCIENS ET MODERNES 1 Vol.</p>
+<p>LES DEUX MASQUES : Tome I. Les Antiques. - Eschyle. 1 vol.</p>
+<p>Tome II. — Sophocle, Euripide, Aristophane, Calidasa 1 vol.</p>
+<p>Format gr. in-18</p>
+<p>BARBARES ET BANDITS. La Prusse et la Commune. 1 vol.</p>
+<p>HOMMES ET DIEUX. 1LE THÉA TRE CONTEJI{PORAIN. 1 — VICTOR HUGO. 1-</p>
+<p><pb/></p>
+<p>VICTOR HUGO</p>
+<p>PAR</p>
+<p>PAUL DE SAINT-VICTOR</p>
+<p>C- L</p>
+<p>PARIS CALMANN LÉVY, ÉDITEUR ANCIENNE MAISON MICHEL LÉVY FRÈRES 3, RUE
+AUBER, 3 1892 Droits de reproduction et de traduction réserves.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>NOTE DES EDITEURS</p>
+<p><pb/></p>
+<p>de juger souverainemenl. A une époque où Marion Delorme et Hernani
+étaient proscrits du théâtre, comme leur auteur était proscrit de la
+France, le Critique de la Presse ne manqua jamais une occasion
+d'entretenir les lecteurs de ces grandes œuvres littéraires et
+poétiques. La publication des lJfisérables fut même acclamée, dans ce
+journal, avec tant d'éclat, avec une admiration si noble et si
+contagieuse, qu'elle parut sans doute un danger public.</p>
+<p>Paul de Saint-Victor eut ainsi, au temps de l'Empire, le courage de son
+admiration. Vers 1858, il devint l'ami de l'illustre exilé. Des lettres,
+de plus en plus fréquentes et cordiales, furent échangées entre eux.
+Celles de Victor Hugo ont été précieusement conservées. Quand le jour
+sera venu de les livrer au public, on verra quel lien étroit unissait le
+poète et le critique et dans quelle estime réciproque ils se tenaient
+l'un l'autre. Paul de Saint- Victor avait été choisi par Victor Hugo
+pour être un</p>
+<p><pb/></p>
+<p>des exécuteurs testamentaires, je crois qu'ils étaient cinq, de ses
+dernières volontés.</p>
+<p>Nous avons cru que le public accueillerait avec plaisir la réunion
+des.pages que Paul de Saint-Victor, dans le cours de sa carrière de
+journaliste, a consacrées aux créations de Victor Hugo. La diversité des
+œuvres a fait naître la diversité des jugements.</p>
+<p>On retrouvera ici tous les points saillants de l'esthétique du Critique,
+et l'exposé de ses croyances littéraires.</p>
+<p>Dans l'esprit des éditeurs, le volume qu'ils présentent aujourd'hui au
+public, — bien que complet et homogène, peut être considéré comme le
+quatrième et dernier volume des Deux Masques. A quel ouvrage, en effet,
+ce beau titre des Deux Masques pourrait-il mieux appartenir, qu'au
+théâtre de Victor Hugo où le rire et les pleurs, ainsi que dans la
+mosaïque des Studj de Florence, semblent accolés dans une incessante
+opposition.</p>
+<p>Bien que l'auteur ait fermé son livre après Beaumarchais, l'examen des
+ouvrages dramatiques de Marie-Joseph Chénier, de Fabre d'Églantine, de
+Ducis,</p>
+<p><pb/></p>
+<p>PAUL LACROIX et ALIDOR DELZANT.</p>
+<p><pb/></p>
+<p>1</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le jardin était grand, profond, mystérieux, Fermé par de hauts murs aux
+regards curieux,</p>
+<p><pb/></p>
+<p>Semé de fleurs s'ouvrant ainsi que des paupières, Et d'insectes vermeils
+qui couraient sur les pierres, Plein de bourdonnements et de confuses
+voix ; Au milieu, presque un champ ; dans le fond, presque un [bois.</p>
+<p>Les trois frères se faisaient un monde de cet enclos de verdure,
+découvraient ses recoins et exploraient ses broussailles, prenaient son
+puisard pour un océan et ses massifs pour des forêts vierges. — Plus
+tard, le jardin des Feuillantines, transformé, mais reconnaissable,
+deviendra, dans les Misérables, le cadre de « l'Idylle de la rue Plumet
+». On le retrouve encore, au milieu des plus sombres pages du Dernier
+jour d'un condamné.</p>
+<p>Ce premier séjour aux Feuillantines ne fut qu'une étape. Le pas accéléré
+était l'allure de</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>La terre tremblait sous lui ; de temps en temps, des coups de fusils
+rayaient, comme des éclairs, les vitres des voitures : l'orage, n'osant
+éclater, grondait sourdement autour du convoi. Les maisons désignées,
+dans les villes où l'on s'arrêtait, s'ouvraient et se refermaient, comme
+des tombes, sur les étrangers.</p>
+<p><pb/></p>
+<p>» Celle qui vous ouvrait n'était pas l'hospitalité.</p>
+<p><pb/></p>
+<p>» et la nourriture ; ils ne devaient rien de plus.</p>
+<p>» Au premier coup de marteau, ils se retiraient, » avec leurs enfants et
+leurs domestiques, dans » leur pièce la plus reculée, s'y enfermaient et
+at» tendaient, emprisonnés chez eux, que les Fran» çais fussent
+repartis. Vous n'entendiez ni un » pas ni une voix. Les petits enfants
+se taisaient, » farouches. C'était le silence et l'anéantissement » du
+sépulcre. La maison était morte. »</p>
+<p><pb/></p>
+<p>A Madrid, madame Hugo s'installe dans le palais Masserano, éblouissant
+de luxe et rayonnant d'or; mais les enfants ne font que le traverser.</p>
+<p><pb/></p>
+<p>L'Alcazar de Ségovie l'introduisait dans les merveilles du monde
+oriental ; la cathédrale de Burgos lui révélait l'architecture du Moyen
+Age, dans sa plus riche floraison ; un jacquemart fantastique, sortant
+d'une horloge de cette sévère église, au milieu des statues sacrées et
+des effigies sépulcrales, lui faisait vaguement comprendre que le
+grotesque peut se mêler au tragique, sans le diminuer et sans l'avilir.
+Les fiers portraits, noircis par le temps, de la galerie du</p>
+<p><pb/></p>
+<p>palais Masserano, se rangeaient dans sa mémoire, et y préparaient la
+scène de don Ruy Gomez.</p>
+<p>Les rois allaient vite, en ce temps dont le canon sonnait toutes les
+heures ; la royauté de Joseph s'écroule, comme un château en Espagne. Le
+général Hugo, ruiné et dépouillé de ses titres, quille la Castille et
+vient en France défendre héroïquement Thionville contre l'invasion. Sa
+femme et ses enfants avaient regagné, déjà, leurs chères Feuillantines,
+Mais Victor et Eugène quittent bientôt ce frais jardin pour la sombre
+cour de la pension Cordier. Ce fut là, entre les classes de la-</p>
+<p><pb/></p>
+<p>Jupiter aima Latone, Et moi, j'aime le tonneau.</p>
+<p>Le faux romantisme d'Ossian y mêle ses teintes</p>
+<p><pb/></p>
+<p>L'esprit a son enfance, comme le corps ; il vagit avant de parler; il
+imite les allures et les mouvements des autres, avant d'agir et de se
+mouvoir par lui-même. La banalité précède presque toujours
+l'originalité. Shakespeare commence par des pastiches italiens ; Molière
+débute par des plagiats de farces foraines ; Balzac gâche cent volumes,
+avant d'élever un livre durable. Rien n'est perdu, d'ailleurs, de cet
+apprentissage des grands maîtres.</p>
+<p>Une fable arabe raconte qu'un pâtre, devenu visir, se plaisait à
+contempler sa flûte de roseau et son sayon grossier, précieusement
+enfermés dans un coffret de cèdre. De même, les grands écrivains peuvent
+relire, avec fierté, leurs premiers essais. Leur génie est en germe dans
+ces</p>
+<p><pb/></p>
+<p>La lutte commença, solitaire d'abord et tout intérieure. Avant de
+conquérir la gloire, il fallait ga-</p>
+<p><pb/></p>
+<p>gner le pain quotidien. Jamais jeunesse ne fut plus stoïque et plus
+sevrée de plaisirs. A. cette époque, Victor Hugo vécut un an avec sept
+cents francs. Le jeune Marius des Misérables est son portrait, dans ces
+sombres heures. Il subit, comme lui, « les jours sans pain, les nuits
+sans sommeil, » les soirs sans chandelle, l'âtre sans feu, les se»
+maines sans travail, la dignité refoulée, les » besognes quelconques
+acceptées, les dégoûts, » l'amertume, l'accablement ».</p>
+<p>Son génie a gardé la marque de cette âpre épreuve : elle le grandit, en
+le raidissant ; elle accrut sa hauteur, en augmentant sa fierté.</p>
+<p>Dans ce travail forcé et souvent ingrat, dans ce stage obscur et
+laborieux de la gloire, le poète</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le zèle de l'art brûlait toutes les âmes, la poésie était dans l'air, on
+se passionnait pour des idées, comme pour des maîtresses. De toutes
+parts, jaillissaient des sources nouvelles ; les néophytes de l'art
+libre se jetaient dans les littératures étrangères, comme les compagnons
+de Colomb dans les îles vierges de l'Amérique. Les peintres et les
+sculpteurs fraternisaient avec les poètes.</p>
+<p>Le théâtre était une des vocations de Vidor Hugo. Cette forme de la
+pensée qui s'expose et</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Cette grande révolution littéraire de 1830, que l'on calomnie
+aujourd'hui, et que, plus tard, on glorifiera, ne s'est pas faite, quoi
+qu'on en dise, contre les vrais chefs-d'œuvre de l'École classi-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>des dieux inconnus. Les réactions auront beau faire, elles ne
+restaureront pas leurs petits grands hommes ; elles ne nous ramèneront
+pas aux pensums et aux férules des vieilles Poétiques. « Ceci a tué cela
+! »</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LES DRAMES</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHAPITRE PREMIER</p>
+<p>HERNAN'I</p>
+<p>La première représentation d'Hernani fut une bataille : la
+représentation qui fêtait son cinquantenaire a été une apothéose. On se
+battait, il y a cinquante ans, autour du poète : on a couronné son
+buste, sur la scène, aux applaudissements d'une salle enthousiaste, qui
+n'avait qu'une voix pour l'acclamer et qu'une âme pour l'admirer.</p>
+<p><pb/></p>
+<p>Qu'il y a loin de cette souveraineté consacrée, aux haines et aux
+hostilités d'autrefois ! Le Temps, auquel Eschyle dédiait ses tragédies,
+est le collaborateur des grands maîtres: s'ils créent pour lui, il
+travaille pour eux; la propagande des années est irrésistible. On
+s'insurge, d'abord, contre les chefs-d'œuvre imprévus, qui déconcertent
+les préjugés et qui effraient la routine. Mais, de jour en jour, le
+poète poursuit son œuvre, et son initiation se divulgue ; la route
+d'Eleusis, qui n'était suivie que par quelques fidèles, se couvre
+bientôt d'une foule innombrable ; le cénacle élargi devient un public.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le pâle essaim des Électres et des Iphigénies de second ordre s'effaça,
+devant les fières héroïnes de l'Espagne et de l'Italie. Les ilêmes
+confidents de la tragédie cherchant leurs maîtres, parmi les ruines des
+colonnades pseudo-corinthiennes, ne trouvèrent plus que des mannequins;
+et les fossoyeurs de Shakespeare enterrèrent jovialement ces revenants
+de la guerre de Troie et de la bataille de Pharsale.</p>
+<p>Bernani a gardé son caractère d'héroïque jeunesse, son ardeur de lutteur
+entrant dans l'arène, son vol d'aiglon montant vers l'idéal et défiant
+l'orage. Un vent de printemps sacré s'en exhale; la verdeur du génie y
+fleurit, sous l'azur du rêve.</p>
+<p>Le Temps n'a fait que l'embellir et que l'accomplir : il a versé, sur
+lui, cette chaleur harmonîeuse</p>
+<p><pb/></p>
+<p>qu'il répand sur les fresques et sur les sculptures des grands maîtres.
+Ses violences se sont apaisées, ses crudités ont mûri. Ce qui paraissait
+une tache est devenu une touche magnifique ; tel angle, qui blessait les
+yeux, a pris la vigueur du plus fier contour.</p>
+<p>Ce vers : Oui, de ta suite, ô roi, de ta suite ! — j'en suis.</p>
+<p><pb/></p>
+<p>Il eût été si simple, en effet, que l'hidalgo répondît par un
+alexandrin, de style noble, qui aurait corrigé l'incongruité d'une
+question si basse :</p>
+<p>Du haut de ma demeure, Seigneur, l'airain enfin sonne la douzième heure.</p>
+<p>La pendule aurait été ainsi mise sous globe, et la nudité de « Minuit »
+aurait été présentable, sous la chemise de cet euphémisme.</p>
+<p>Et le fameux vers:</p>
+<p>— Vous êtes mon lion superbe et généreus.</p>
+<p><pb/></p>
+<p>nouveau César, aux rêves et aux joies de sa jeunesse congédiée :
+Éteins-toi, cœur jeune et plein de flamme !</p>
+<p>Laisse régner l'esprit que longtemps tu troublas.</p>
+<p>Tes amours désormais, tes maîtresses, hélas !</p>
+<p>C'est l'Allemagne, c'est la Flandre, c'est l'Espagne.</p>
+<p>Mais tu l'as, le plus doux et le plus beau collier, Celui que je n'ai
+pas, qui manque au rang suprême, Les deux bras d'une femme aimée et qui
+vous aime.</p>
+<p>Qu'il parait noble et touchant le regret du jeune empereur, se
+dépouillant de son amour, au moment où il prend la pourpre, pour en
+investir son rival !</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ments immenses d'horizons, est la patrie dramatique de Victor Hugo,
+comme elle fut celle de Corneille. C'est de cette aire qu'il a pris son
+vol.</p>
+<p><pb/></p>
+<p>L'ardente mobilité du caractère d'Hernani se ressent de l'agitation
+perpétuelle, de l'incessant soupçon du proscrit. Il est possédé par
+l'inquiet démon qui hante les bannis chassés au désert.</p>
+<p><pb/></p>
+<p>L'amour le retient, la vengeance l'entraîne ; il se débat, entre ces
+deux passions extrêmes, comme entre une furie et un ange. Figure
+tragique et romanesque, où le gentilhomme ennoblit le bandit ; où le
+brigand aussi, par instants, éclipse et assombrit le seigneur.</p>
+<p><pb/></p>
+<p>C'est de haut en bas qu'elle se défend contre don Carlos :</p>
+<p>Altesse ! tu n'as pas le cœur d'un Espagnol !</p>
+<p>Don Ruy Gomez de Silva est un type unique, au théâtre. Il y a de
+l'Arnolphe et du Bartholo, dans ce barbon amoureux de sa nièce et
+pupille, mais il y a aussi du Don Diègue ; et le ridicule n'oserait pas
+plus approcher de lui, que le singe, d'un vieux lion, rêvant dans son
+antre.</p>
+<p><pb/></p>
+<p>Rien de touchant comme cette grandeur suppliante ; car, incliné devant
+Dona Sol, Ruy Gomez se redresse, superbement, en face de tout autre.</p>
+<p>Inférieur en idéalité aux autres personnages du</p>
+<p><pb/></p>
+<p>drame, Don Carlos s'élève, d'acte en acte, et finit par les dominer.
+C'est avec une justesse savante et profonde, que Victor Hugo a buriné,
+dans son drame, ce Charles-Quint « avant la lettre » et avant
+l'histoire. L'audace, tempérée de prudence, l'ambition sceptique, la
+violence contenue par un froid bon sens, tous les traits du futur César
+percent, déjà, sous le masque aventureux du prince libertin. Mais, au
+quatrième acte, l'inspiration du poète descend sur l'empereur élu, comme
+la flamme d'un sacre miraculeux ; elle le transforme et l'idéalise ;
+elle évoque, derrière lui, pour le grandir, l'ombre immense de
+Charlemagne, et fait découler, de ses lèvres, le pardon d'Auguste
+tombant sur Cinna.</p>
+<p>Au premier acte, l'amour d'Hernani est grand ; mais le dévouement de
+Dona Sol, se jetant dans</p>
+<p><pb/></p>
+<p>Ici se déroule l'admirable scène des Portraits.</p>
+<p>C'est le ban et l'arrière-ban des aïeux, levé par le vieillard qui est
+leur petit-fils. Il était seul contre Don Carlos, mais il frappe à
+chacun de ces cadres, noircis par le temps, et, du fond de leurs toiles
+sombres, de graves personnages semblent descendre, le casque au front,
+le bâton de commandement ou l'épée au poing, droits, sous leurs armures
+rongées par la rouille. Le plus vieux, « Don Silvius, qui fut consul de
+Rome, » douze fois séculaire, immémorial, presque fabuleux, croise, sur
+son baudrier goth, la chlamyde antique. Entouré de ces grands fantômes,
+Ruy Gomez s'avance vers le roi, qui le somme de livrer son hôte, et
+Carlos recule, devant cette légion vénérable, sortie du passé pour
+défendre l'honneur de la race, menacé dans celui de son descendant.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ces deux moitiés de Dieu, le Pape et l'Empereur !</p>
+<p>Comme l'ascète, dans sa caverne, sur une tète de mort, l'empereur rêve
+et médite, sur le globe terrestre, devant le sépulcre de Charlemagne. Le
+théâtre n'a pas de rencontre plus sublime que ce colloque entre le César
+levant et le César couché, depuis tant de siècles, dans les ténèbres du
+tombeau. La crypte, interrogée, rend son oracle ; un souffle de paix
+sort du sarcophage entr'ouvert.</p>
+<p>Charlemagne ordonne, Charles-Quint pardonne : Je t'ai crié : « Par où
+faut-il que je commence? »</p>
+<p>Et tu m'as répondu : « Mon fils, par la clémence ! »</p>
+<p><pb/></p>
+<p>délicieux, baigné de clair de lune et de rêverie ; ils s'enivrent de
+fraîcheur et de solitude, de mélancolie et de tendresse. Mais le cor
+retentit, lointain et lugubre : c'est le chasseur qui vient tuer la
+proie prise dans son filet. C'est le Serment oublié, qui somme le
+parjure de l'accomplir. C'est un homme de pierre, comme le Commandeur,
+qui vient arrêter l'époux, dans son lit nuptial, et le conduire au
+sépulcre. Dona Sol fait un suprême effort pour arracher le vivant au
+spectre. Puis, quand elle a perdu tout espoir, elle boit, avant lui, le
+poison ; elle l'entraîne amoureusement au tombeau. Ils expirent dans une
+étreinte ; ils rendent, dans leur premier baiser, le dernier soupir.</p>
+<p><pb/></p>
+<p>CHAPITRE II</p>
+<p>t</p>
+<p>MARION DELORME</p>
+<p>Marion Delorme est le premier en date des drames du poète, et c'en est
+aussi le plus jeune.</p>
+<p>S'il n'a pas la fermeté magistrale, la certitude d'exécution souveraine
+qui marquèrent bientôt toutes ses œuvres, il a le charme de la jeunesse,
+son enthousiasme ardent et tendre, une candeur grave, une foi profonde,
+la fleur du génie. On y sent la verdeur du « printemps sacré »
+littéraire qui régnait alors ; un soufle lyrique y circule ; les larmes
+y coulent, comme de source vive. Dès que l'action lui ouvre une issue,
+la poésie pure bat des ailes et prend son essor. JSlarion Delorme n'est
+pas le plus grand, mais il est, peut-être, le plus touchant de tous les
+drames de Victor Hugo.</p>
+<p><pb/></p>
+<p>Cette Marion, transfigurée par le poète, ne semblait guère digne d'un si
+grand honneur.</p>
+<p>A travers ces commérages indistincts, on entrevoit une fille de bonne
+maison, déclassée par son tempérament et par son humeur, courant les
+bordées de la vie galante, sous le pavillon de son nom et de sa famille
+; nullement reniée par les siens, qui vivaient des miettes de son luxe.</p>
+<p>L'enfant prodigue entretenait ses parents.</p>
+<p>Tallemant raconte qu'étant allée, un jour, solli-</p>
+<p><pb/></p>
+<p>Marion fut donc une femme du Demi-Monde, que nous n'avons pas découvert.
+Ce fut elle qui, avant Ninon de Lenclos, créa cette sphère interlope. On
+se rappelle l'étrange souhait de ces deux</p>
+<p><pb/></p>
+<p>grandes dames de Brantôme, s'écriant, au récit des licences et des
+voluptés de Venise : — « Hélas !</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>On entrevoit même Richelieu, dans cette intrigue de camarilla. Au milieu
+de sa sombre vie, si terriblement affairée, ce grand homme avait des
+lubies galantes. Le visir en barrette tournait parfois au sultan. Il
+eut, dit-on, la fantaisie de Marion Delorme, et la fit venir chez lui,
+déguisée en page. Lui-même s'était travesti en cavalier, pour le
+rendez-vous. Il la reçut, botté, la plume au feutre, et vêtu d'un habit
+de satin gris-de-lin,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>encore. La liste de ses peccadilles était longue, car il lui fallut dix
+confessions, en deux jours, pour la dérouler. — « On la vit morte, — dit
+Tallemant, — durant vingt-quatre heures, sur son lit, avec une couronne
+de pucelle. Enfin le curé de Saint-Gervais dit que cela étoit ridicule. »</p>
+<p>Cette couronne virginale que la Marion réelle ne méritait point de
+porter, Victor Hugo l'a reposée sur son front, par ce vers superbe et
+touchant :</p>
+<p>Et son amour me fait une virginité !</p>
+<p>Au milieu de la foule confuse qui chemine dans les sentiers de la basse
+histoire, le poète a pris cette courtisane quelconque, assez vulgaire,en
+somme, sans physionomie bien distincte ; il l'a régénérée de son
+souffle, il l'a trempée dans les larmes du repentir et de la douleur, et
+il en a fait le type rayonnant de la pécheresse réhabilitée par l'amour.</p>
+<p>La vraie vertu de Marion, c'est que, plus Didier est malheureux, plus
+elle l'aime. Au premier acte, lorsqu'il n'est qu'un bâtard, inconnu et
+pauvre, il la trouble plus qu'il ne la pénètre. A Dame Rose, qui lui
+demande, - « le Monsieur do</p>
+<p><pb/></p>
+<p>Çà, je crois qu'il me fait de la théologie.</p>
+<p>Serait-ce un huguenot?</p>
+<p><pb/></p>
+<p>— Elle se rejette pourtant, tête basse, dans ce bourbier, qu'il faut
+traverser, pour délivrer son amant; et ce baptême de la fange vaut celui
+du feu, qui purifiait les martyrs.</p>
+<p><pb/></p>
+<p>Frappe-moi, laisse-moi dans l'opprobre où je suis, Repousse-moi du pied,
+marche sur moi, — mais fuis !</p>
+<p>Marion ne se trompait pas, au premier acte : il y a du huguenot dans
+Didier. Il y a aussi du plébéien révolté et sombre, tel qu'on aimait à
+le peindre en 1830. Il est trop évident qu'il n'est pas de son temps. Le
+nuage de mélancolie vague qui l'enveloppe n'aurait pu se former, dans
+l'atmosphère, claire et nette, du dix-septième siècle. Le poète a mis,
+dans cette création toute lyrique, les aspirations, troubles et
+confuses, qui chargeaient l'air de l'époque. Quelques années plus tard,
+il aurait précisé, d'un trait plus vivant, ce personnage nébuleux. Trop
+moderne pour le</p>
+<p><pb/></p>
+<p>drame, il paraît maintenant légèrement vieilli.</p>
+<p><pb/></p>
+<p>Quand au Cardinal-duc je redirai, ce soir, ¡La conversation que nous
+venons d'avoir.</p>
+<p>J'en suis fâché pour vous. Désormais, prenez garde 1</p>
+<p>Un frère ? Non, madame!</p>
+<p>Puis, il ajoute avec une malice réfléchie :</p>
+<p>Ah ! si fait, j'ai MONSIEUR !</p>
+<p>Mais une lueur de poésie passe sur ces humeurs noires et les illumine
+soudainement:</p>
+<p>Je changerais mon sort au sort d'un braconnier.</p>
+<p>Oh ! chasser tout le jour, en vos allures franches, N'avoir rien qui
+vous gêne et chanter sous les branches, Rire des gens du roi, chanter
+pendant l'éclair, Et vivre libre, au bois, comme l'oiseau dans l'air !</p>
+<p>On croit entendre une fanfare lointaine inspirer et accompagner ces
+paroles. C'est l'élan d'une âme comprimée, se rejetant vers sa vraie</p>
+<p><pb/></p>
+<p>Saint-Simon fut tenu, par lui, en estime et amitié, « parce que, quand
+il sonnait du cor, il ne bavait point dedans ». L'Angely prend le bon
+moyen, dans le drame, pour obtenir la grâce de Didier et de Saverny,
+lorsqu'il les lui vante comme deux fameux fauconniers.</p>
+<p><pb/></p>
+<p>Ainsi fait-il, avec l'Angely, dans le drame ; et ce spleen royal, bercé
+par le glas des grelots d'un bouffon lugubre, rappelle les plus sombres
+scènes du Roi Lear. Le comique même qui s'y mélange, est amer. L'Angely,
+depuis un quart d'heure, le promène dans un cimetière ; ce ne sont que
+linceuls secoués et fosses entr'ouvertes. Sur quoi Louis XIII s'écrie,
+avec un soupir :</p>
+<p>Oui la vie est bien sombre, et la tombe est sereine.</p>
+<p>— Si je ne t'avais pas pour m'égayer un peu.</p>
+<p>Ce portrait, si vrai de tant de côtés, doit pour-</p>
+<p><pb/></p>
+<p>tant être rectifié par la réflexion. Ne raillons pas trop le sceptre de
+roseau et la couronne dérisoire de Louis XIII. Il eut du moins, se
+jugeant luimême, le mérite de ne les porter qu'en effigie.</p>
+<p>L'histoire doit lui tenir compte, comme d'une vertu, de l'abdication
+qu'il fit de sa volonté et de sa puissance, entre les mains de son grand
+ministre. N'est-ce pas une grandeur morale que cette minorité résignée ?
+Il haïssait Richelieu, et pourtant, dans l'intérêt de l'État, avec une
+inertie généreuse, il se plia au joug de son dur génie.</p>
+<p>Louis XIII avait, au plus haut degré, la conscience du devoir. «
+L'honneur de la couronne, » comme on disait alors, n'était pas un vain
+mot pour lui. Il languit et dort, sur le trône ; mais que le clairon
+sonne contre l'Espagne ou l'Empire, il se réveille, se redresse,
+redevient le maître et le roi. Son indolence tombe, comme un manteau,
+sous les pieds de son cheval de bataille ; la couronne repousse, sur son
+front, en casque d'éclat et de gloire. Ce n'est plus le roi somnolent de
+Saint-Germain et du Louvre ; c'est un paladin de l'Arioste, l'épée
+haute, piquant son destrier d'un éperon d'or.</p>
+<p><pb/></p>
+<p>J'arrive au grand acteur, qui, quoique invisible, remplit le drame de
+Victor Hugo, — comme il l'a dit, lui-même, autre part, — de son esprit
+et de sa puissance :</p>
+<p>Cette grande ombre, dans la pièce, elle apparaît toute sanglante, avide
+de têtes coupées et affamée de tortures ; au dénouement même, on la voit
+venir, dans un palanquin, se repaître du supplice des deux condamnés.
+Cette évocation sinistre est injuste. La pitié, si puissante sur lui, a
+trompé le poète ; en troublant son cœur, elle a égaré son jugement.
+Certes le Cardinal-duc fut un tragique personnage ; mais il jouait le
+premier rôle dans une tragédie historique, où la vie même de la France
+était en suspens. Si l'on se rend compte du redoutable devoir de ce
+prêtre, chargé du salut de l'État et des affaires de l'Europe, lequel
+n'avait, pour point d'appui, que la fa-</p>
+<p><pb/></p>
+<p>On a fort exagéré, d'ailleurs, ses prétendues cruautés. A entendre la
+tirade du vieux marquis de Nangis, il semble que, comme un pacha
+oriental, il n'ait gouverné qu'en coupant des têtes. Tout compte fait,
+on trouve que quarante condamnés</p>
+<p><pb/></p>
+<p>La hache de bourreau, qu'il étendait entre les épées des duellistes,
+peut paraître cruelle, au premier aspect. Mais le duel, sous Louis XIII,
+n'était pas ce qu'il est devenu depuis, le remède héroïque de l'honneur
+blessé, que nulle autre réparation ne saurait guérir. C'était une mode,
+un fanatisme, une épidémie, un délire ; et, plus son</p>
+<p><pb/></p>
+<p>prétexte était fou, frivole, chimérique, plus la fête était belle, et
+plus glorieuse la rencontre. —</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>n'est pas plus sûr de remplir sa charge, lorsqu'il fait passer aux âmes
+le fleuve infernal.</p>
+<p>« Je n'en eus pas d'autres que les ennemis de » l'État, » répondit-il,
+en se tournant contre la muraille. Et le grand ministre alla rendre ses
+comptes au Roi suprême, sans plus de remords que l'Ange exterminateur,
+lorsqu'il remontait au ciel, teint du sang de ses missions vengeresses.</p>
+<p>Le jeune marquis de Saverny fait un charmant contraste au vieux marquis,
+son grand oncle.</p>
+<p>C'est la noblesse de cour, vis-à-vis de la seigneurie féodale ; une
+fleur de galanterie germée</p>
+<p><pb/></p>
+<p>sur la souche rugueuse de la Chevalerie. La figurine vaut la statue.
+Rien de plus joliment français que ce blondin de fine souche. Qu'il est
+brave, hardi et léger ! Quel piquant mélange d'amabilité et
+d'impertinence ! Il rit, en face de la mort, comme un page au nez d'une
+méchante duègne.</p>
+<p><pb/></p>
+<p>Mais quels insignes attentats N'ont fait Machault et LafTemas !</p>
+<p><pb/></p>
+<p>se sert de ces valets de gibet, en les méprisant, et leurs noms ne
+méritent pas de rester attachés au sien. Les chacals rongent les restes
+des proies du lion, mais ils ne chassent pas en sa compagnie.</p>
+<p>Ce ne sont que des silhouettes, mais profilées d'un trait incisif qui
+les fait vivre et mouvoir. Et avec quel art souple et libre le poète
+s'est assimilé le langage du temps ! Que de tournures cavalières, encore
+rehaussées par la fière allure de son style!</p>
+<p>La vieille langue se fond, dans ses vers, comme deux vins généreux, qui,
+mêlés ensemble, composent un breuvage d'une puissante saveur.</p>
+<p><pb/></p>
+<p>CHAPITRE III</p>
+<p>LUCRÈCE BORGIA</p>
+<p>Le drame de Victor Hugo remet en question ICI. personne même de Lucrèce
+Borgia. Elle ne fut pas, il faut le dire, le monstre venimeux qu'il a
+fait, ce monstre dans lequel rien ne tressaille, si ce n'est l'organe, à
+demi physique, qu'ont aussi les femelles des fauves: les entrailles de
+la mère. Née dans l'antre des Borgia, on la confond volontiers avec son
+horrible famille. Il est plus facile d'écraser que de débrouiller un
+nœud de serpents. Les contemporains n'ont laissé d'elle que des
+portraits de profil : ici, c'est un ange, là, c'est un démon ; les uns
+la canonisent, les autres la damnent. Pas de milieu pour Lucrèce, pas de
+purgatoire : le ciel ou</p>
+<p><pb/></p>
+<p>l'enfer. En y regardant de près cependant, comme l'historien allemand
+Grégorovius l'a fait récemment, on reconnaît en Lucrèce une femme plus
+éloignée du démon qu'elle ne l'est de l'ange.</p>
+<p>C'est son père, et c'est aussi son frère, qui lui ont légué leur
+renommée exécrable. Son plus grand crime est d'avoir été la fille
+d'Alexandre VI et la sœur de César Borgia.</p>
+<p>Quand le Pape s'absentait de Rome, c'était elle qui décachetait les
+missives, répondait aux dépêches et convoquait le Sacré Collège. La
+fabuleuse papesse Jeanne semblait revivre et régner en elle.</p>
+<p><pb/></p>
+<p>Papa, Duce et Lucretia, sorore sua, præsentibus et adspicientibus.</p>
+<p>Hic jacet in tumulo Lucretia nomine, sed re Thaïs ; Alexandri filia,
+sponsa, nurus.</p>
+<p>Sannazar répète cet infâme grief, dans un distique injurieux: « Ainsi
+donc, Lucrèce, ce sera toujours un Sextus qui te convoitera ! Mais,
+cette fois, ô horreur 1 ce Sextus est ton propre père. »</p>
+<p>Ergo te aeinper cupiet, Lucretia, Sextus !</p>
+<p>0 fatum diri numinis ! Hic, pater est.</p>
+<p><pb/></p>
+<p>Après eux, et d'après eux, Guichardin, dans son Histoire d'Italie,
+revient sur cette rumeur infamante. « Le bruit courait, dit-il, — si
+pourtant une telle énormité est digne de créance, — que Lucrèce Borgia
+avait non seulement ses deux frères pour amants, mais encore son père. »</p>
+<p>Ce cri terrible fait trembler la salle : l'avertisse-</p>
+<p><pb/></p>
+<p>ment tragique qu'il recèle évoque, autour de Lucrèce, trois spectres
+sanglants. Il faut dire pourtant que l'histoire l'acquitte de ces trois
+divorces, dont un seul fut consommé par la mort.</p>
+<p><pb/></p>
+<p>D'une autre part, des témoins favorables, amis enthousiastes, se lèvent
+en foule, pour contredire les rares ennemis qui l'ont diffamée. C'est
+d'abord un de ces ambassadeurs vénitiens, dont la sagacité était
+proverbiale, qui voyaient tout, qui devinaient tout, l'envers des
+trames, le dessous des cartes, l'intérieur des âmes et des caractères.
+Les portraits royaux qui abondent dans leurs Rapports sont des modèles
+de pénétration : leur</p>
+<p><pb/></p>
+<p>plume vaut le pinceau des peintres de leur pays ; ce sont les Titien et
+les Tintoret de la politique.</p>
+<p>Dès qu'elle est mariée au duc Alphonse d'Esté, et qu'elle arrive à
+Ferrare, un concert de louanges</p>
+<p><pb/></p>
+<p>s'élève autour de Lucrèce et ne s'arrête plus. Contraste étrange avec la
+figure démoniaque dont on l'a masquée, le trait de physionomie de cette
+blonde, aux yeux bleus, était la plus riante et la plus aimable gaieté.
+Continuamente allegra e ridente, dit Cagnolo de Parme. On a d'elle une
+correspondance avec Bembo, son sigisbée platonique ; et Laure, répondant
+aux sonnets de Pétrarque, ne consolerait pas sa passion, sans espoir,
+avec une plus fine et plus chaste malice. Venllsta, gentile, graziosci,
+amabile; ces épithètes reviennent sans cesse, autour de son nom, dans
+les écrits des contemporains.</p>
+<p>Aimée de son mari, auquel elle donna trois enfants, Lucrèce gouverna,
+pendant ses absences, son petit État, avec une sagesse exemplaire. Elle
+protégea magnifiquement les lettres et les arts ; sa cour, polie et
+décente, devint célèbre dans toute l'Italie. Hercule Strozzi la met sur
+un autel et la nomme la « divine Borgia », celestis Borgia. — Sardi et
+Gerardi l'appellent « une femme » accomplie, une dame ornée de toutes
+les ver» tus ». Rarissima donna, donna bellissima e d'ogni virtù.
+-Liberoni dit qu'elle « faisait les délices » de ses sujets, et qu'elle
+était un trésorpour tous».</p>
+<p><pb/></p>
+<p>La prima inscrizion ch'agli occhi accorrc, Con lung ohonnor, Lucrezia
+Borgia noma ; La cui belleza e onesta preporrl Deve a l'antical, a sua
+patria Roma.</p>
+<p><pb/></p>
+<p>De telles louanges, trop imméritées, auraient pris le sens d'une
+sanglante ironie, et on peut, au moins, y croire en partie.</p>
+<p>Quoi qu'il en soit, Victor Hugo a pleinement usé de son droit, en
+faisant de Lucrèce, la Furie, aux entrailles de mère, qu'il a lancée
+dans son drame.</p>
+<p>Lucrèce Borgia n'est point un de ces personnages en plein jour, au type
+authentique, aux traits fixés par la tradition, que, sous peine de faux
+historique, il est interdit de refaire. Sa vie, en fin de compte, est
+restée dans un douteux clair-obscur.</p>
+<p>Si ce n'est toi, c'est donc ton frè..c !</p>
+<p>Cette logique du loup de la fable devient une morale de lion, dans le
+drame traité par un maître. Dans les ténèbres du passé, rôdent des lignées</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Au second acte, se dresse, de toute ta hauteur, la grande scène entre
+Alphonse de Ferrare et</p>
+<p><pb/></p>
+<p>Lucrèce Borgia, un des plus beaux duels de caractère qui soient au
+théâtre : Le Couple, comme écrit le poète, au-dessus de l'acte qui le
+contient.</p>
+<p>Vous souvient-il de l'admirable portrait d'un duc d'Urbin, par Bronzino,
+qui figurait dans la galerie Pourtalès ? C'est un jeune homme,
+représenté debout et de face, une main sur la hanche, l'autre posée sur
+la tranche d'un livre entr'ouvert.</p>
+<p><pb/></p>
+<p>L'imagination croit voir le portrait du Bronzino prendre souffle et vie,
+lorsque la toile, se relevant</p>
+<p><pb/></p>
+<p>sur le second acte, montre Alphonse d'Esté assis sur son fauteuil ducal
+et méditant sa vengeance.</p>
+<p>On sent que sa résolution est prise et qu'elle est immuable,
+irrévocable. Avant de nous montrer sa femme essayant de le fléchir, le
+poète nous fait tâter le bronze dont cet homme est fait.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>gnure d'une bague, de la respiration d'un parfum.</p>
+<p>Le drame n'a jamais eu d'invention plus terrible que celle de ce souper
+de Ferrare, servi par la Mort. La splendeur du banquet, l'ivresse des con-</p>
+<p><pb/></p>
+<p>Je ne sais de comparable, dans le monde poé-</p>
+<p><pb/></p>
+<p>tique, au souper de Ferrare, que le dernier festin des Prétendants, dans
+l'Odyssée, avec les augures qui le menacent, les prophéties qui
+l'assombrissent, le vin qui s'ensanglante dans les coupes, et le rire
+sardonique, furieux, inextinguible, qui s'empare de ses convives
+infatués. « Ils riaient » — dit Homère — « avec des mâchoires étrangères. »</p>
+<p>La dernière scène, entre Lucrèce et Gennaro, est d'une anxiété
+suffocante. On a reproché au poète de retenir, sur les lèvres de
+Lucrèce, jus* qu'au dernier soupir, le mot décisif, ce cri : « Je suis
+ta mère ! » qui ferait tomber le couteau des mains de son fils. Mais on
+oublie qu'il ne s'agit pas seulement, pour elle, de lui révéler une
+maternité haïssable ; ce cri lui apprendra encore qu'il est le fils d'un
+inceste. Horreur sur horreur !</p>
+<p>On comprend donc que la misérable recule jusqu'au bout, et qu'elle
+n'accouche que sous le fer du parricide, de ce suprême et monstrueux
+secret.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHAPITRE IV</p>
+<p>MARIE TUDOR</p>
+<p>Je ne mets pas Marie Tudor au rang des grands drames poétiques de Victor
+Hugo ; mais elle fait une fière figure, entre Angelo et Lucrèce Borgia,
+dans la trilogie de ces drames véhéments, grandioses, pittoresques,
+resplendissants de couleur et de pompe scénique, tout en relief et tout
+en dehors, où le poète fait revivre le seizième siècle, sous ses traits
+terribles. Aucune de ses pièces n'a été plus bruyamment attaquée.</p>
+<p>On a nié sa vraisemblance, raillé son intrigue ; on s'est scandalisé de
+ses hardiesses et de ses violences. Entre tous ces blâmes, je n'en
+admets qu'un, mais trop essentiel et trop grave pour n'être pas formulé.</p>
+<p><pb/></p>
+<p>Mais Marie Tudor n'est pas, comme Lucrèce, une figure de second plan et
+de clair obscur.</p>
+<p><pb/></p>
+<p>Mais Marie l'écarta, d'elle-même, le jugeant trop vieux pour le mariage
+et trop timoré pour la royauté. Prince-consort, mari inpartibus, le
+cardinal défroqué aurait été deux fois neutre. Il n'y avait pas, dans
+cette pourpre usée, et presque monastique, l'étoffe d'un amant.</p>
+<p><pb/></p>
+<p>gardé trace de cette esclandre galante, érigée en crime de lèse-majesté.
+Ce Trogmorton n'y paraît que, comparse obscur, dans la conspiration de
+Dudley. Sa tête tombe obscurément, avec celles du chevalier Kingston et
+d'Udal. S'il avait été l'amant de la reine, cette tête aurait fait un
+autre bruit, en roulant sur l'échafaud du Tyburn.</p>
+<p>Reste le lord Courteney, son cousin, qui fut, un instant, son prétendant
+officiel. Il paraît prouvé que Marie l'aima,mais en toute vertu et en
+tout honneur, comme le fiancé de son choix. Or, Courteney était jeune et
+d'humeur galante : la reine avait trente-huit ans, était vieille avant
+l'âge, rechignée et laide. Qui a vu son portrait peint par Antonio Moro,
+au Musée de Madrid, n'oublie plus ce front gonflé d'idées sombres, ces
+yeux perçants et froids qui dardent le soupçon, la moue méchante de ses
+lèvres sèches. La fleur qu'elle tient étonne dans sa main, comme une
+rose sortie d'une ronce. L'ensemble compose un triste et fâcheux visage.
+On dirait la duègne de l'inquisition. Courteney voulait bien la
+couronne, mais la tête qui la portait l'effraya. Il courut les filles,
+se lança dans les équipées, jeta son sceptre futur par-dessus les
+moulins de Greenwich. Marie re-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>lire, d'un aventurier italien, est aussi méconnaissable que le serait,
+par exemple, Catherine Il de Russie transformée en matrone austère.</p>
+<p>Ceci dit, aucune autre réhabilitation de Marie Tudor n'est possible. En
+fait de supplices et de cruautés, Victor Hugo a plutôt atténué
+qu'exagéré ce règne meurtrier. Cette honnête femme fut une méchante
+femme ; cette hermine avait des dents et des instincts de hyène. S'il
+n'y a pas de bourbier dans son histoire, il y a un charnier. « Tous les
+parfums de l'Arabie, » — comme dit Shakespeare, — « tous les encens de
+l'apologie, toutes les ablutions de l'excuse ne laveront pas la marque
+que l'histoire a incrustée sur son nom: The Bloody Mary, Marie la
+Sanglante. »</p>
+<p><pb/></p>
+<p>Marie était dans le droit du temps, en frappant de la hache
+Northumberland et Thomas Wyat, Gui.dfort et Suffolk.</p>
+<p>On lui accorde moins facilement la tête de Jane Grey. Cette jeune femme
+de seize ans, poussée au trône, malgré elle, par des mains violentes, et
+qui régna neuf jours, moins que ne vivent les fleurs du printemps, cette
+« reine de la fève », comme l'appelait M. de Noailles, est la plus
+touchante des victimes. On la voit, les yeux bandés, promenant ses
+petites mains sur le billot, pour trouver la place où mettre sa tête,
+comme un enfant qui cherche son berceau dans l'obscurité.</p>
+<p>Le cœur se révolte et les larmes coulent, et l'on s'écrierait
+volontiers, avec le juge qui la condamna et que le remords de son arrêt
+frappa de démence : «Éloignez, éloignez cette dame, de devant mes yeux !
+» Allons pourtant jusqu'au bout des concessions sanguinaires. Marie avait</p>
+<p><pb/></p>
+<p>épargné Jane Grey prise en flagrant délit sur son trône. La vie de la
+fille répondait de la loyauté du père, complice gracié de l'usurpation.
+Le duc de Suffolk, en s'insurgeant une seconde fois avec Thomas Wyat,
+rompait ce pacte et perdait ce gage.</p>
+<p>Son règne n'est qu'une longue marche au supplice ; un historien anglais,
+en le racontant, a pu l'appeler un Martyrologe. C'est le docteur Rogers
+allant au bûcher, au milieu de ses dix en-</p>
+<p><pb/></p>
+<p>fants qui l'assistaient et le consolaient : « En sorte, — écrit
+Noailles, dans une dépêche, — qu'on aurait dit qu'ils le conduisaient à
+quelque joyeux mariage. » Il chantait des psaumes, au milieu du feu, et
+la flamme, entrant dans sa bouche, interrompit seule son psaume commencé.</p>
+<p>— C'est Hooper, l'évêque de Glocester, brûlé en trois fois, dans un
+petit feu de bois vert. Il y avait d'abord trop peu de bois, on en
+rapporta ; mais la fumée, chassée par le vent, ne l'étouflait pas. On
+l'entendait, demi-brûlé, crier : « Du bois !</p>
+<p>la Croix : « Que tu m'es chère, s'écria-t-il, croix</p>
+<p>6</p>
+<p><pb/></p>
+<p>de mou Sauveur! Sois la bienvenue, vie éternelle! »</p>
+<p><pb/></p>
+<p>Lîradfort, prédicateur célèbre, brûlé avec un</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>écartât pour donner un peu d'air au feu. Alors la poudre fit explosion,
+et des lambeaux de chair calcinée volèrent en éclats autoul' du poteau.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>se faire Musulmans ou juifs. « Il medesimo ja» riano della macometana
+relicjione ove délia ju» dea, purque il rè mostrassi di credere e volere
+» cosi, e accomodariansi a tutte. »</p>
+<p>« Nous savons qu'ils sont les hommes de Dieu, » c'est pourquoi nous ne
+pouvons nous empêcher » de dire : Que Dieu les fortifie ! » Et la foule
+répondait : Amen ! Quand Élisabeth monta sur le</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Écoutez parler, aux moments de crises, leurs rois et leurs reines, leurs
+grandes dames et leurs gentilshommes. C'est un ouragan de violences,</p>
+<p><pb/></p>
+<p>un débordement d'invectives ; la passion s'y montre toute nue, la colère
+y pousse les cris de la fièvre chaude. Or, jamais poètes, plus que
+ceuxlà, ne reflétèrent leur époque. Leurs œuvres en sont la copie toute
+vive ; les personnages qui les remplissent n'ont fait qu'un bond, de la
+réalité, sur la scène. L'histoire est là, d'ailleurs, pour les confirmer
+; et la Marie Tudor est prouvée, autant qu'on peut l'être, par deux
+reines du même temps et du même pays.</p>
+<p><pb/></p>
+<p>A la place de Marie Tudor et de Fabiani, mettez Élisabeth et le comte
+d'Essex : le drame reprend une vérité absolue, et le second acte,</p>
+<p><pb/></p>
+<p>si discuté, redevient un tableau d'histoire. C'étaient, entre la reine
+et l'amant, des scènes pareilles aux rixes des rues. Un jour qu'elle le
+morigénait, selon sa coutume, pendant une séance du Conseil, Essex lui
+ayant tourné le dos, elle « l'envoya au diable » et lui donna un soufflet.</p>
+<p>Le comte, furieux, fit le geste de tirer l'épée du fourreau, en
+s'écriant qu'il « n'eût pas enduré » pareille insulte de la main du roi
+Henri VIII, » et qu'il la supporterait encore moins d'un roi » en jupons ».</p>
+<p>Ilarrington, un de ses officiers qui, dans la mtme journée, fut appelé
+par elle, a laissé une vive peinture de l'état où il la trouva. «
+Lorsque j'arrivai en sa présence, » — raconte-t-il, « elle</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le parti-pris admis, quels formidables effets le poète a tirés, dans son
+second acte, de Marie Tudor amoureuse et jalouse ! D'abord l'invitation
+au mensonge: l'Italien entraîné dans la fourberie, comme par des bras de
+sirène, et qui s'y plonge et s'y enfonce, bercé par les mélodies de
+l'amour, sans se douter qu'un gouffre s'entr'ouvresouslui.</p>
+<p>Elle éclate enfin! Son cœur se dégonfle,etla rage s'en échappe, comme un
+torrent débordé.Elle tient</p>
+<p><pb/></p>
+<p>En trois scènes, l'homme est saisi, meurtri, dévoré parla fureur, qui
+s'abat sur lui.</p>
+<p>On a critiqué, comme invraisemblable et comme inutile, le faux régicide,
+attesté par Gilbert, dont Marie se sert pour perdre Fabiani. Mais, sous
+le règne même des Tudor, la loi gardait un reste de prestige. Les têtes
+branlaient sur toutes les épaules; encore fallait-il un prétexte pour
+les faire tomber. Fabiani, d'ailleurs, comme il le dit en se redressant,
+est un étranger, sujet du roi de Na-</p>
+<p><pb/></p>
+<p>Le troisième acte est aussi puissant dans l'émotion, que le second dans
+l'épouvante. Quelle scène que celle où Jane et la reine se rencontrent
+devant l'échafaud mystérieux, où l'un de leurs amants va monter ! Jane
+se croit sûre, d'abord, du salut de Gilbert ; elle a guidé son évasion,
+elle l'a vu partir dans la barque. Mais Marie lui dit qu'elle</p>
+<p><pb/></p>
+<p>Mais Marie repousse sa prière, avec l'égoïsme de la passion rassurée.
+Alors un pressentiment redresse la jeune fille; elle ne croit plus que
+ce soit Gilbert qui marche au supplice, et son accent est tel, qu'il
+ébranle la reine jusqu'au fond de l'âme. Un changement subit se produit
+en elles: l'espérance de l'une et le désespoir de l'autre se déplacent.
+Tandis que le cœur de Jane s'éclaire, celui de Marie s'assombrit. Rien
+d'émouvant et rien de frappant, comme ce renversement subit de
+situations et de rôles. L'anxiété poignante qu'il</p>
+<p><pb/></p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHAPITRE V</p>
+<p>RUY BLAS</p>
+<p>L'esclave subit la servitude, le laquais l'a volontairement acceptée. On
+peut se figurer le peuple chargé de chaînes ou tournant la meule ; on ne
+l'imagine pas portant une livrée et sommeillant dans une antichambre.</p>
+<p>Ce que, selon moi, Ruy Blas représente sous la forme la plus extrême, ce
+qui fait la sympathie qu'il inspire et la vérité de sa situation morale
+c'est la disproportion de la réalité et du songe,</p>
+<p><pb/></p>
+<p>Tel est, selon moi, le sens intime et vivant du personnage de Ruy Blas;
+ce qui, dans son ascension excentrique, le rapproche de l'éternelle
+vérité humaine.</p>
+<p><pb/></p>
+<p>trame ses actions, conduit ses amours, dénoue ses intrigues, combine ses
+expédients et ses ruses.</p>
+<p>cieuses Ridicules ; et il n'y a pas, au dénouement, assez de soufflets
+et de coups de bâton pour châtier ces maroufles qui ont osé jouer à
+l'amour. « Allons, camarade », s'écrie mélancoliquement Mascarille, «
+allons chercher fortune autre part. Je vois bien qu'on n'aime ici que la
+vaine 1</p>
+<p><pb/></p>
+<p>apparence, et qu'on n'y considère pas la vertu toute nue. »</p>
+<p>Remis sur le terrain de l'Espagne du dix-septième siècle, Ruy Blas est
+moins invraisemblable qu'on ne pourrait croire. Un laquais amoureux
+d'une reine et ministre! Cette aventure, fabuleuse au premier aspect, a
+fait jeter des cris de scandale.</p>
+<p><pb/></p>
+<p>Mais, d'abord, Ruy Blas n'est un laquais, ni pour la reine ni pour la
+cour d'Espagne, puisqu'il ne leur apparaît que sous le nom d'un seigneur
+de haute maison et d'illustre rang. Les pseudo-classiques, il y a trente
+ans, se récrièrent fort sur ce faux César. En revanche, ils croyaient
+fermement aux faux Smerdis de leurs tragédies. La littérature, comme la
+jurisprudence, a ses erreurs en deçà, qui sont des vérités au delà.</p>
+<p>Rien de moins rare, d'ailleurs, sous les gouvernements absolus des deux
+derniers siècles, que ces coups de théâtre de la destinée tirant un
+homme d'en bas pour le porter au pinacle. Les filières, les stages, les
+promotions successives, par lesquels tout candidat au Pouvoir doit
+forcément passer aujourd'hui, n'existaient pas alors. La faveur du
+prince, comme un aigle d'apothéose, pouvait enlever ses élus, du fond de
+la foule, et les transporter subitement jusque sur les marches du trône.
+Les exemples abondent de ces métamorphoses aussi merveilleuses que
+celles qu'Ovide a chantées : car l'instinct des rois de l'ancien régime
+était d'écarter des affaires les grands seigneurs et les gentilshommes,
+pour y introduire ce qu'on appelait alors les « hommes de néant ».</p>
+<p><pb/></p>
+<p>Leurs ministres de prédilection étaient ceux qu'ils avaient créés et
+façonnés de leurs mains. Sous sa façade si hautaine de hiérarchies
+nobiliaires, le dix-septième siècle est, au fond, gouverné par des
+roturiers et des plébéiens. Tandis que les grands seigneurs paradent
+dans les galeries du palais, ce sont eux qui régissent et qui
+administrent, qui tiennent les clefs du Trésor et la dispensation des
+emplois. La toute-puissance de Mazarin, petitfils d'un ouvrier de
+Palerme, et fils d'un valet de chambre du connétable Colonna,
+l'élévation de Dubois, galopin d'un régent de collège, sont-elles moins
+prodigieuses que l'avènement de Ruy Blas ?</p>
+<p>Gourville, laquais de M. de La Rochefoucauld, mène les intrigues de la
+Fronde, devient ambassadeur en Allemagne et finit par épouser la fille
+de son maître. Presque tous les ministres de Louis XIV sont des robins à
+peine décrassés.</p>
+<p>Saint-Simon, lorsqu'il scrute leurs origines, prend l'air d'un grand
+seigneur en manchettes, qui fouillerait dans de la poussière.</p>
+<p>Mais c'est en Espagne, surtout, que ces jeux du hasard et de la fortune
+amènent des veines étonnantes d'où jaillissent les plus étranges destinées.</p>
+<p><pb/></p>
+<p>solitaire et morne dans le cloître où l'étiquette l'emprisonne, a des
+fantaisies de calife ; d'un esclave il fait un visir. Le favoritisme se
+transmet, de règne en règne, comme une monomanie dynastique. Marie-Anne
+d'Autriche, la mère de Charles II, prend pour confident un obscur
+hidalgo nommé Vénézuela. Toutes les nuits, il a de longs - entretiens
+avec elle. On l'appelle el du en de de la reina, « l'esprit follet de la
+reine », Orry, un rat de cave de gabelle, gouverne le royaume avec la
+princesse des Ursins. Alberoni, fils d'un jardinier de Parme, moitié
+prestolet, moitié marmiton, devient premier ministre absolu et remue le
+monde. Plus tard, le chanteur Farinelli, un castrat italien, prend sur
+Ferdinand VI l'influence que les eunuques exerçaient sur les Césars
+byzantins; il tient, pendant tout son règne, le rang d'un Maire du
+palais. Je passe Godoï, le guitariste, amant de la reine, et vrai roi
+d'Espagne, tant que règna Charles IV.</p>
+<p>Ruy Blas aurait, on le voit, des références dans l'histoire, pour
+appuyer sa transformation, quand même le poète ne l'aurait pas
+enveloppée de tant de précautions et de voiles. Il en aurait aussi pour
+justifier l'aisance avec laquelle il la porte,</p>
+<p><pb/></p>
+<p>Madame d'Aulnoy, dans son Voyage et ses Mémoires d'Espagne, note en cent
+endroits cette pompe générale : « Les pauvres même, dit-elle, ont de la
+gloire. Quand ils demandent l'aumône, c'est d'un air impérieux et
+dominant. Si on les refuse, il faut que ce soit avec civilité, en leur
+disant : « Caballero, que votre Grâce me par-</p>
+<p><pb/></p>
+<p>Victor Hugo, on le voit, n'a rien exagéré et rien inventé. Cosas de
+Espana ! pourrait-il répondre aux critiques, et il serait, répliquant
+ainsi, dans l'exactitude et la vérité.</p>
+<p><pb/></p>
+<p>Son imagination s'est empreinte des lignes dures, des couleurs
+tranchées, des mœurs sérieuses et hautaines de la terre du Cid. Sa
+pensée en a contracté un pli allier et grandiose, qui ne s'est pas
+effacé. Chaque fois qu'il revient en Espagne, par le drame ou la poésie,
+c'est le roi dans son royaume, c'est le seigneur rentrant dans son fief.</p>
+<p><pb/></p>
+<p>miraculeusement ranimé. Il y a quelques années, écrivant une étude sur
+la Cour despagîîe sous Charles II, je m'étais entouré des matériaux
+fournis par l'époque ; j'avais consulté tous les documents, feuilleté
+toutes les chroniques, relu toutes les relations et tous les mémoires.
+Mon étude écrite, je rouvris Ruy Blas. Quelle surprise et quel
+éblouissement ! Ce fragment de siècle que je venais d'exhumer de tant de
+recherches, je le retrouvais, vivant et mouvant, dans l'harmonie d'un
+drame admirable. Le souffle d'un grand poète ressuscitait subitement
+l'ossuaire de faits et de choses, que j'avais péniblement rajusté.</p>
+<p>Derrière lui, le poète a placé le sinistre profil perdu de Gudiel ; on
+entreverrait aussi, dans</p>
+<p><pb/></p>
+<p>cette ombre, Machiavel, sous le noir habit d'un familier de
+l'Inquisition. Le Saint-Office n'apparaît pas, dans le drame ; mais
+quelque chose de son terrorisme a passé dans l'âme de Salluste. Elle a
+la noirceur particulière aux hommes trempés dans ses flammes. Ce démon
+sort de ce volcan. A l'état normal, il a la dureté, le poli et le froid
+du bronze; que la haine vienne l'enflammer, ce bronze va bouillonner et
+rugir. Ce sera le flot de lave qui ravage et emporte tout.</p>
+<p><pb/></p>
+<p>L'Espagne est le pays des extrêmes. Vis-à-vis de l'égoïsme endurci de
+Salluste, le poète a placé la générosité débraillée de César,
+l'insouciance folle, en face de Yatra cura. C'est un monde que cette
+mirifique création. Tous les gueux, tous les gitanes, tous les
+aventuriers des Castilles se sont incarnés dans ce chevalier de joyeuse
+figure.</p>
+<p>Rassemblez, en une diète fantastique, l'immense peuplade des bohêmes de
+la poésie : Zafari en sera proclamé le roi légitime. Que de jactance</p>
+<p><pb/></p>
+<p>et que de folie ! Que de grandesse sous sa misère ! Dans ses incartades
+les plus divagantes, je crois voir Don Quichotte exécutant des cabrioles
+sur la Roche-Pauvre. Sa gaieté est inextinguible ; sa moquerie lance des
+rayons, son ironie a des ailes, les jeux de lumière de sa fantaisie
+feraient pâlir celle du Mercutio de Shakespeare. Comme l'habit de
+Buckingham, la cape en dents de scie de ce zingaro sème une pluie de
+perles.</p>
+<p><pb/></p>
+<p>Madame d'Aulnoy en rapporte cent traits incroyables. Quand une dame de
+la cour se faisait saigner, le chirurgien trempait dans son sang un
+mouchoir; l'amant lui payait cette relique en vaisselle d'or ou d'argent
+: l'usage prescrivait de ne pas donner moins de six mille pistoles. « Un
+homme aimerait mieux ne manger toute l'année que des</p>
+<p><pb/></p>
+<p>Les intrigues platoniques duraient des années.</p>
+<p>« Il y a des gens qui s'aiment, depuis deux ou trois ans, sans s'être
+jamais parlé. » Bien plus, la Cour avait ses Fous d'amour officiels. On
+les appelait Embevecidos, c'est-à-dire enivrés d'amour. Même lorsqu'ils
+n'étaient pas Grands, ils pouvaient rester couverts devant le roi et la
+reine.</p>
+<p>Ils étaient censés éblouis par la vue de leurs maîtresses, et incapables
+de voir autre chose et de savoir où ils se trouvaient. Le roi leur
+permettait l'irrévérence, comme le sultan souffre l'insulte et
+l'insolence des fakirs.</p>
+<p><pb/></p>
+<p>La Reine nous fait comprendre l'immense amour de Ruy Blas, cet amour qui
+a la ferveur de l'adoration et les éblouissements de l'extase.Quelle
+pure douceur, quelle tristesse charmante ! La suavité de la femme du
+Nord l'enveloppe comme d'une transparence. Dans cette Cour sèche et
+brûlante, au milieu de ces personnages qui se découpent en relief, sous
+la lumière crue du Midi, elle apparaît comme azurée par un vaporeux
+clair de lune.</p>
+<p><pb/></p>
+<p>sa couronne devant le génie. Scène ravissante et poignante ! C'est Ixion
+embrassant sa divinité dans la nue. On croit entendre, au loin, un vague
+bruit d'orage : don Salluste approche et va survenir.</p>
+<p><pb/></p>
+<p>Quel drame résulte de ce conflit de passions et de caractères
+rassemblés? A quoi bon le dire?</p>
+<p>Ruy Blas est dans la mémoire et l'esprit de tous.</p>
+<p>Il enchante, depuis quarante ans, les imaginations et les âmes. On le
+sait par cœur, c'est le mot.</p>
+<p>Mais, lorsqu'il entend ce mot révélateur, sa mé-</p>
+<p><pb/></p>
+<p>On s'est encore récrié sur l'arrivée de la Reine au rendez-vous nocturne
+qu'elle croit donné par Ruy Blas, de cette Reine que le deuxième acte
+nous montre captive d'une étiquette inflexible.</p>
+<p>Le cérémonial de Versailles était presque aussi rigoureux que celui du
+palais de Madrid. La duchesse de Bourgogne s'en échappait pourtant, pour
+aller rejoindre Nangis ou Maulevrier, sous les charmilles du parc
+assombri.Les filles de Louis XIV étaient bien gardées : Saint-Simon n'en
+rapporte</p>
+<p><pb/></p>
+<p>pas moins leurs étranges équipées de nuit. Toute prison a ses brèches,
+toute captivité a ses évasions.</p>
+<p><pb/></p>
+<p>lement, de son illusion rayonnante, dans l'horrible réalité ; le spectre
+de sa servitude qui reparaît devant lui, sous sa livrée portée par son
+maître; la torture morale que lui inflige ce bourreau cynique,
+l'envoyant fermer la fenêtre, lorsqu'il lui parle de sauver l'Espagne ;
+la folle saynette de Don César, gambadant dans le sombre piège dont il
+renoue les fils, en croyant les rompre.</p>
+<p>Que dire du style, la plus belle langue dramatique qu'on ait jamais
+parlée au théâtre ? Rien n'égale la vigueur, la soudaineté, la
+souplesse, le luxe exquis, la solennité pénétrante de ce vers, qui
+détache l'image, qui grave la pensée, qui monte, d'un coup d'aile, au
+plus haut de la passion et de la grandeur, pour planer dans la rêverie
+ou redescendre au caprice grotesque et au détail fami-</p>
+<p><pb/></p>
+<p>lier. Et pas une faiblesse, dans les spirales de son vol ; pas une
+fatigue dans cet essor perpétuel !</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LES ROMANS</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHAPITRE PREMIER</p>
+<p>LES MISÉRABLES</p>
+<p>Saint Jérôme parle, quelque part, d'un « discours casqué » : sermo
+galeatus. Il y a aussi du casque et de l'épée dans les livres de Victor
+Hugo ; la bataille s'engage naturellement autour d'eux.</p>
+<p>Leur épigraphe pourrait être ce chant de Norma : Guerra ! Guerra ! Le
+poète est si fort et si absolu, il éveille tant d'admirations et il
+attroupe tant d'hostilités ; il est si impossible de rester devant lui
+dans l'indifférence, que ceux qui n'acceptent pas sa domination
+littéraire comme une royauté, doivent la subir comme une tyrannie.</p>
+<p>Si ses poésies et ses drames, qui ne soulevaient que des questions
+d'art, ont déchaîné des tempêtes, que devait faire cette vaste épopée des</p>
+<p><pb/></p>
+<p>Misérables qui remue, retourne et fouille en tous sens les misères
+sociales, c'est-à-dire ce qu'il y a de plus irritable et de plus
+susceptible au monde ?</p>
+<p><pb/></p>
+<p>On sort de sa lecture, attristé, mais non irrité. Les Misérables sont,
+avant tout, un livre de bonne volonté.</p>
+<p>Ceci dit, on nous permettra de prendre notre point de vue dans le
+monument, et de l'envisager</p>
+<p><pb/></p>
+<p>surtout sous son aspect littéraire. D'autres discuteront les doctrines
+et les théories du penseur ; nous choisissons la meilleure part, celle
+d'admirer le grand poète, l'artiste prodigieux, le maître souverain,
+dont l'œuvre immense, si merveilleusement agrandie, sera une des gloires
+de cette grande époque.</p>
+<p>Au seuil de son Enfer, Dante évoque des figures célestes, parmi
+lesquelles Lucie, symbole de la Grâce : « Lucie ennemie de quiconque est
+cruel »</p>
+<p>Lucia, inimica di ciascun crudele.</p>
+<p>C'est un portrait digne d'un autel que celui de ce juste, ou pour mieux
+dire de ce saint: « Dieu n'est que charité » Deus caritas est.
+Monseigneur Bienvenu est l'Imitation vivante de ce Dieu, dont parle
+l'Apôtre. Il aime les pauvres jus-</p>
+<p><pb/></p>
+<p>Sœur Simplice, l'hermine de la vérité, offre plus</p>
+<p><pb/></p>
+<p>tard un au Ire exemple de cette suavité surprenante de touche et de
+teinte. La grâce des forts est incomparable : le miel de Samson, ce miel
+fait par des abeilles sauvages dans la gueule d'un lion du désert, est
+plus exquis que celui des ruches.</p>
+<p><pb/></p>
+<p>Victor Hugo, dans ses Misérables, renverse l'ordre de l'épopée du Dante
+: c'est par le Paradis qu'il commence ; il fait planer un ange sur
+l'abîme où il va descendre. L'Évêque disparaît, après avoir traversé le
+seuil du livre, mais il y laisse son esprit. Un homme, racheté par lui
+de la perdition, va le continuer dans le sacrifice : l'âme du saint
+entrera dans le corps du pécheur, et recommencera, avec lui, une autre
+existence.</p>
+<p>Jean Valjean apparaît au livre suivant. Je ne sais, dans aucune
+littérature, de scène plus terrible que l'entrée du forçat libéré dans
+la ville de D.</p>
+<p>Cet homme, exténué, affamé, sordide, que l'auberge chasse, que le
+cabaret repousse, que l'en-</p>
+<p><pb/></p>
+<p>fant lapide, que le chien mord, que la ville vomit dans la campagne avec
+un dégoût indigné, et qui y rôde, par une nuit sans étoiles, la rage
+dans le cœur et le souffle aux dents, fait songer au Caïn biblique,
+errant « fugitif et agité sur la terre ».</p>
+<p><pb/></p>
+<p>quelque sorte, ce cerveau sauvage, avec la sûreté de l'aruspice lisant
+dans les entrailles du taureau ou du loup.</p>
+<p>Jean Valjean, se levant la nuit pour voler l'Évê-</p>
+<p><pb/></p>
+<p>Le lecteur retrouve Jean Valjean, au volume suivant, transformé par une
+métamorphose sociale et morale. Le bandit est devenu un juste ; le
+forçat est maire de la petite ville de Montreuil.</p>
+<p><pb/></p>
+<p>pays ; l'estime le défend, le respect le protège contre toutes les
+recherches du passé. Il vit entouré de bénédictions. C'est alors que
+l'expiation commence par la surveillance de Javert, qui entre dans
+l'action, tel qu'il en sortira, avec une inflexible raideur.</p>
+<p>Cette création offre, d'ailleurs, une nouvelle</p>
+<p><pb/></p>
+<p>preuve de l'impartialité qui préside au livre.</p>
+<p>Javert est impersonnel, pour ainsi dire, tant il se confond avec la
+fonction qu'il exerce : il y a de la fatalité dans sa cruauté.</p>
+<p>Le drame n'est pas tant dans le sacrifice de Jean</p>
+<p><pb/></p>
+<p>L'auteur a intitulé cet étonnant chapitre: Tempête sous un crâne. Les
+émotions poignantes qu'il fait éprouver ne sauraient se comparer, en
+effet, qu'au spectacle des péripéties d'un naufrage.</p>
+<p>On voit cette conscience en détresse ballottée par le flux et le reflux
+des idées contraires: il y a des moments où elle se laisse aller à
+l'entraînement de l'action mauvaise ; elle défaille, elle agonise, elle
+va succomber; puis, d'un élan généreux, elle remonte éperdument vers la
+vérité et vers la</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Approchez-vous, cette face, qui semblait grotesque, devient lamentable ;
+son rire abruti fait pleurer. Il y a du cri de la bête surmenée ou
+martyrisée, dans les paroles ahuries et incohérentes qu'il adresse aux
+juges ; il y a aussi de l'effort du muet qui voudrait parler et qui ne
+peut pousser que de rauques bégaiements. Il me rappelle encore ces
+patients du Dante, rampants et comme incrustés sous les énormes pierres
+qu'ils traînent, dans les cercles du Purgatoire. En s'avançant, le poète
+entend sortir de ces masses informes une plainte lamentable : Piu non
+posso ! « Je n'en puis plus ! »</p>
+<p><pb/></p>
+<p>Quelle poignante et navrante histoire ! Cela commence par une idylle et
+finit par la fosse commune. Fantine parcourt ce long intervalle, avec la
+rapidité d'un corps roulant dans un gouffre.</p>
+<p><pb/></p>
+<p>Cet excellent morceau de critique sur les Misérables n'a pas été continué.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHAPITRE II</p>
+<p>LES TRAVAILLEURS DE LA MER</p>
+<p>Ce grand livre comble un vide dans le monde créé par Victor Hugo ; il y
+ajoute tout un élément.</p>
+<p>Mais ce n'est plus par golfes et par perspec-</p>
+<p><pb/></p>
+<p>tives que l'Océan apparaît dans son dernier livre : il l'envahit tout
+entier, il l'environne, il l'assiège, comme l'île qui est le lieu de la
+scène, comme l'écueil qui en est le point culminant. Né d'une
+cohabitation de quatorze ans avec la Mer, ce livre la concentre et
+l'étalé sous tous ses aspects.</p>
+<p>La mer règne donc dans ce grand livre ; elle le limite et elle le domine
+; elle s'y reflète dans sa splendeur et dans sa fureur, dans ses
+rayonnements et dans ses ténèbres, dans les métamorphoses infinies de
+ses formes et de ses couleurs.</p>
+<p>Et ce n'est pas seulement sa face visible, c'est son âme secrète, sa
+volonté occulte, son acharnement opiniâtre ; c'est le concert mystérieux
+de ses forces sourdes et aveugles, que le poète exprime et pénètre.
+L'Océan, dans sa lutte contre Gilliatt, nous apparaît comme un être doué
+de volonté, capable de haine, exercé aux ruses, sa-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ment. Le vent la poussait sans hâte et sans bruit. Elle prenait peu à
+peu possession de l'Océan. Elle venait du nord-ouest, et le navire l'a-</p>
+<p><pb/></p>
+<p>paraissait plus pâle et comme malade. Le peu qu'on entrevoyait du ciel
+ressemblait aux bandes d'air, sales et tachées d'huile, d'un vieux décor
+de théâtre. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>nia. La transparence des mots réfléchit la limpidité des couleurs ; la
+magie des métaphores évoque, comme une incantation, la féerie des choses
+: c'est un enchantement et un éblouissement.</p>
+<p><pb/></p>
+<p>La tempête remplit un livre entier du roman.</p>
+<p>C'est tout un drame naturel, avec son exposition de nuages et de
+murmures menaçants, ses péripéties de trombes et de rafales, son
+tragique dénouement d'ouragans et de coups de foudre.</p>
+<p>L'observation la plus exacte s'y mêle au lyrisme le plus grandiose.
+Qu'on se figure le rapport d'un météorologue, écrit dans le style de
+l'Apocalypse.</p>
+<p>C'est d'abord l'immense trémolo des souffles et des vagues qui
+s'accordent et qui se concertent ; puis, vient le dénombrement homérique
+des Vents, accourant des quatre points du ciel, au rendez-vous de
+l'orage. Les nuages s'entassent, assise par assise : « Cette muraille de
+l'air montait tout d'une pièce, en silence. On eût dit l'effrayant talus
+de l'abîme. C'était quelque chose comme le lever d'une montagne d'ombre
+entre la terre et le ciel. »</p>
+<p>Bientôt des étages se forment, dans ce rempart menaçant du ciel ; on
+voit s'y dessiner les meurtrières qui vont vomir la pluie et la grêle.</p>
+<p>Le premier coup de tonnerre éclate et démasque, comme des batteries de
+combat, les cataractes et les éclairs récelés dans la nuée immense.</p>
+<p>« Averse, ouragan, fulgurations, fulminations,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>haut encore qu'entre le double abîme de l'Océan et du ciel.</p>
+<p><pb/></p>
+<p>Quel ravissant prologue que le Mot écrit sur une page blanche, qui ouvre
+le livre. Gillialt passe dans un chemin blanchi par l'hiver. Déruchette,
+une délicieuse fille du pays, marche devant lui, se retourne avec un
+sourire, écrit du bout du doigt son nom sur la neige, et disparaît
+derrière la haie d'un sentier, comme Galatée sous les saules. — « 0
+Galatée ! » — s'écrie le Polyphème de Théocrite — « plus blanche que le
+lait caillé, plus délicate que l'agneau, plus glorieuse que le pur
+taureau, plus âpre que le raisin vert. ! » Ce mot tracé sur la neige,
+que va fondre le premier rayon, s'inscrit, comme une entaille, dans le
+cœur vierge et naïf du jeune pêcheur. Il y couve, comme un feu de pâtre,
+sous un tas de cendres. Aucune démarche, nulle déclaration. Les mois et
+les années se passent, et Gilliatt n'a fait que rôder autour de la
+maison où vit Déruchette; il tourne autour du cercle de l'enchanteresse,
+sans risquer d'y mettre</p>
+<p><pb/></p>
+<p>le pied ; il n'ose lui parler qu'avec la voix lointaine de sa cornemuse.</p>
+<p>De ce sauvetage d'une machine, Victor Hugo va faire toute une épopée.
+Rien de plus simple et rien de plus grand. Cette humble donnée contient
+autant d'héroïsme que les fables de la Mythologie et que les légendes de
+la Chevalerie. Gilliatt, allant sauver la machine de Mess Lethierry,
+c'est Persée délivrant Andromède exposée au dragon marin; c'est Roland
+tuant l'Orque qui va dévorer</p>
+<p><pb/></p>
+<p>Angélique. Pour être pétrifié, le monstre qu'il combat n'est pas moins
+terrible que ceux qu'affrontaient les anciens héros. L'écueil des
+Douvres vaut l'Hydre deLerne.</p>
+<p>L'âme du livre est justement dans ce travail cyclopéen, soutenu par
+l'inspiration de l'amour. Le dévouement de Gilliatt se mesure aux masses
+qu'il soulève et aux charpentes qu'il construit : sa grandeur morale à
+celle des obstacles physiques qu'il renverse et qu'il assouplit. Quel
+intérêt plus piquant, d'ailleurs, que celui de ce mécanisme in</p>
+<p><pb/></p>
+<p>On ne saurait trop admirer la puissance technique déployée par Victor
+Hugo dans le compte rendu de ce travail gigantesque, et l'énergique
+précision avec laquelle il manie tout un outillage de mots exacts,
+spéciaux, pittoresques, pour le rendre sensible aux yeux du lecteur. On
+voit se dresser et s'enchevêtrer ce vaste système de poutres et de
+cordes, de poulies et de cabestans ; on suit du regard la machine,
+isolée de sa coque, encadrée entre des câbles, équilibrée par des
+chaînes, jusqu'au moment où elle descend, intacte et droite, dans la
+barque.</p>
+<p><pb/></p>
+<p>blant de madriers et de planches, dont il répare les brèches sous la
+mitraille de la foudre. « Il semblait étonner l'abîme. Il allait et
+venait sur la Durande branlante, faisant trembler le pont sous ses pas,
+frappant, taillant, coupant, tranchant, la hache au poing, blême aux
+éclairs, échevelé, pieds nus, en haillons, la face couverte des crachats
+de la mer, grand dans ce cloaque de tonnerres. » Il n'y a rien de plus
+superbe dans les gigantomachies de la Fable et dans les guerres de
+l'Histoire, que cet homme qui se bat avec la Nature en fureur.</p>
+<p><pb/></p>
+<p>Gillialt a vaincu la mer, mais il est vaincu par la femme, perfide et
+irresponsable comme elle.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHAPITRE III</p>
+<p>QUATRE-VINGT-TREIZE</p>
+<p>Ces craintes ont été superbement démenties.</p>
+<p><pb/></p>
+<p>Quatre-vingt-treize est un livre de paix, de conciliation, de justice.
+J'y rencontre sans doute des pages qui m'étonnent, des vues et des
+effets d'optique grossissante qui déconcertent mon jugement. Il m'est
+impossible d'admettre que la Convention soit « le point culminant de
+l'histoire. »</p>
+<p>Un chaos n'est pas un sommet. Qued'avortements dans le sang, pour
+quelques lois bienfaisantes, semées sur le roc et jetées au vent, qui ne
+purent germer que longtemps après ! Robespierre, avec sa médiocrité
+sèche et crispée ; Marat, ce gnome de la guillotine, ce fakir du
+meurtre, ne sont point des « Titans », comme l'auteur le dit quelque
+part. Rien de plus surprenant, au contraire, que le contraste de leur
+petitesse et de leur bassesse avec les événements gigantesques sur
+lesquels la Destinée les jucha.</p>
+<p><pb/></p>
+<p>narchie est aussi hautement portée dans Quatrevingt-treize, que le
+drapeau de la république ; les paladins du Passé y tiennent tête aux
+soldats de l'Idée nouvelle.</p>
+<p>Pero che come in su la cerchia tonda, Montereggion di torri s'incorona,
+Cosi la proda cbe'l pozzo circonda,</p>
+<p>Torregiavan, di mezza la persona, Gli borribili giganti, cui minaccia ,
+Giove, del cielo anchora, quando tona,</p>
+<p><pb/></p>
+<p>On comprend, d'ailleurs, que les vérités de Quatre-vingt-neuf, masquées
+des crimes de Quatre-vingt-treize, lui paraissent des monstruosités
+haïssables. C'est un mauvais instrument de propagande, qu'une guillotine
+en tournée. « Monsieur le vicomte, » — dit-il, au dénouement du livre, à
+son neveu Gauvain, entrant dans sa prison pour le</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ce chef inexorable, le poète, après l'avoir montré féroce dans les
+hautes œuvres de la guerre civile, l'attendrit d'un élan de bonté sublime.</p>
+<p><pb/></p>
+<p>L'action grandiose dé l'oncle a pour pendant l'action sublime du neveu
+faisant évader Lantenac, le remplaçant dans la prison et sur l'échafaud.
+C'est le côté idéal de la Révolution, que Victor Hugo a personnifié dans
+Gauvain. Noble et candide figure illuminée par la pure aurore des idées
+nouvelles, tandis que celle de son aïeul est assombrie par le crépuscule
+sanglant du passé.</p>
+<p><pb/></p>
+<p>Quelques chefs vendéens ne furent ni moins humains, ni moins magnanimes.
+Au milieu de cette guerre impie, s'étend, comme un champ clos, où
+combattent des adversaires dignes d'être des frères d'armes : Hoche,
+Lescure, La Rochejacquelein, Marceau ; partie carrée de vaillants, élite
+contre élite ; conflit éblouissant d'épée d'é-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>C'est l'image de Gauvain dépeçant sa conscience, pour y chercher son
+devoir.</p>
+<p><pb/></p>
+<p>résonnent comme des flèches d'or perçant les écailles d'un serpent
+sacré. Mais, tout en le déclarant horrible, Victor Hugo n'est pas
+éloigné de le trouver grand. « Cimourdain, dit-il, était sublime, mais
+sublime dans l'isolement, dans l'escarpement, dans la lividité
+inhospitalière, sublime dans un entourage de précipices. Les hautes
+montagnes ont cette virginité sinistre. »</p>
+<p>Il m'est impossible d'admettre cette sublimité déprimée par la cruauté.
+Les plus malfaisants et les plus haïssables des êtres sont ceux de
+l'espèce que Cimourdain représente. Mieux vaut, mille fois, un sceptique
+humain, que des.</p>
+<p>bourreaux convaincus, érigeant le supplice en culte et l'échafaud en
+autel. A un certain degré de rigueur, l'étroitesse d'esprit devient une
+scélératesse, accessible seulement aux idées mauvaises. C'est par les
+fentes que se glissent et que s'introduisent les serpents. Le fanatisme
+n'est point une vertu, l'idée fixe dans la fureur ne fait pas le génie.
+Il serait trop commode de passer grand homme, pour avoir su tuer de
+sang-froid.</p>
+<p><pb/></p>
+<p>Ceci dit, le génie du poète fait une grandiose tragédie de la double
+exécution du condamné et du juge. Celte guillotine dressée contre le
+donjon féodal, comme une monstrueuse catapulte qui va lui jeter la tête
+de son dernier suzerain, ce</p>
+<p><pb/></p>
+<p>Dans l'admirable prologue qui ouvre le livre, quand le bataillon la
+trouve sous le bois fouillé</p>
+<p><pb/></p>
+<p>On a reproché au poète cette maternité de femelle, et l'espèce de
+stupeur idiote dont la Fléchard reste frappée dans tout le récit. Mais
+ce dénûment d'intelligence fait partie de sa misère et aussi du type
+qu'elle incarne. Ce que représente la Fléchard, c'est cette foule
+d'êtres, presque anonymes, tant ils sont obscurs, que les révolutions et
+les guerres déracinent de leur inerte existence, et roulent au hasard,
+comme des feuilles mortes, sans qu'ils puissent comprendre ce que leur
+veut cette tempête. Victimes inaperçues, broyées sous des roues dont
+elles ne voient ni le conducteur, ni le char, ni l'idole ou le dieu
+qu'il porte, et qui les écrase fatalement, pour arriver à</p>
+<p><pb/></p>
+<p>son but. Comme les expiations des cultes antiques, toutes les grandes
+crises sociales réclament des sacrifices de troupeaux humains. La
+Fléchard, dans son effarement et son ignorance, dans son hébétement
+consterné, dans sa stupeur pathétique, concentre admirablement cette
+masse sacrifiée. Les plaintes et les imprécations les plus éloquentes ne
+vaudraient pas ses cris indistincts, ses paroles inarticulées. Elles
+expriment tout un monde de douleurs inintelligibles ou muettes.</p>
+<p>L'hécatombe mugit, elle ne parle pas.</p>
+<p><pb/></p>
+<p>ravissantes, il compose une idylle céleste, teinte des couleurs de
+l'aube et de l'innocence. Des sons confus qui bruissent sur leurs
+lèvres, il fait une mélodie délicieuse. Il écoute germer leurs idées
+naissantes, comme l'homme du conte écoute pousser les brins d'herbe. Ce
+que disent ces petites âmes, encore enfermées dans les limbes, il
+l'entend et il le répète. On voit poindre sous sa plume les vagues
+lueurs de leur esprit comme les étoiles percent, sous le doigt qui les
+cherche, dans l'ombre du ciel.</p>
+<p><pb/></p>
+<p>Entre les personnages secondaires, tous marqués du trait décisif qui
+caractérise les moindres créations de Victor Hugo, le sergent Radoub est
+en première ligne. Il pourrait s'appeler Légion, car il concentre
+quatorze armées. C'est le type du vieux troupier plébéien, qui doit être
+plus tard le grognard du premier Empire, terrible et bon, cordial et
+martial, ayant, sous ses moustaches fauves, le rire d'un enfant et le
+quolibet d'un loustic.</p>
+<p>Ce fier soldat revit, dans Radoub, avec une admirable puissance. Un
+Charlet agrandi, porté au génie, en donnerait l'idée. C'est une joie et
+c'est une surprise, que d'entendre le poète parler, par sa bouche,
+l'argot soldatesque. Son souffle passe sur ces trivialités de camp
+parisien, et cela devient une langue héroï-comique, digne d'une épopée
+en gaieté. Les lazzi de Radoub fontle bruit</p>
+<p><pb/></p>
+<p>d'un joyeux tonnerre. Quand il se lève, tout sanglant, au conseil de
+guerre, et qu'il vote pour l'acquittement de Gauvain avec un débordement
+de paroles irritées, superbes, grossières, bouillonnantes, c'est une
+explosion d'âme humaine, que n'égalerait aucune éloquence. On croit voir
+le ciel reflété par un ruisseau de faubourg.</p>
+<p>On sait avec quelle puissance Victor Hugo évoque ces créatures
+fantastiques, où la réalité se mêle au symbole, où la fumée de l'ombre
+enveloppe le corps du vivant. L'Imânus a le vague horrible, le mystère
+lugubre et immémorial des monstruosités légendaires. On dirait un ogre
+enrôlé dans les bandes de la Chouannerie. Il rassemble, en lui, tout ce
+que les guerres de paysans ont de bestialité et de sauvagerie : la
+vieille terre celtique donne, en lui, son plus noir produit. L'Imânus
+semble dater du temps où l'on égorgeait des hommes, avec des couteaux de
+silex, sur les dalles plates des dolmens.</p>
+<p><pb/></p>
+<p>Ces personnages se délachent sur le fond simple d'une action épique.
+L'art puissant du maître a été non pas de compliquer, mais de concentrer
+son sujet. Sur quelques lieues de terrain, dans une petite armée
+assiégeant une poignée d'hommes, il a fait tenir toutes les grandeurs et
+toutes les fureurs de la guerre civile. Un mouvement superbe remplit
+cette étroite enceinte ; des tableaux admirables, des épisodes terribles
+ou ravissants s'y déroulent.</p>
+<p><pb/></p>
+<p>comme un bulletin militaire, et c'est héroïque comme un chant d'Iliade.</p>
+<p><pb/></p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LES POÉSIES</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHAPITRE PREMIER</p>
+<p>LA LÉGENDE DES SIÈCLES ':</p>
+<p>(Deuxième série).</p>
+<p>Se mai contiga che il poema sacro A1 quale ha posto mano e cielo e
+terra, Si che m'ha fatto piu anni macro,</p>
+<p>Vinca la crudelta, che fuor mi serra Del bello ovile ov'io dormi agnello
+Nimico a lupi che gli danno guerra, Con altra voce omai, con altro vello
+Ritornaro poeta, ed in sul fonte Delmio battesmo, prendero il capello</p>
+<p>« Si jamais il advient que le poème sacré, auquel ont mis la main le
+ciel et la terre, si bien qu'il m'a rendu maigre pendant tant d'années,</p>
+<p><pb/></p>
+<p>» Triomphe de la cruauté qui me tient en dehors du beau bercail, où je
+dormais agneau, ennemi des loups qui lui font la guerre ; » Avec une
+voix autre désormais, avec une chevelure autre, je reviendrai poète, et,
+sur les fonts de mon baptême, je prendrai la couronne. »</p>
+<p>Je me rappelais ces vers de Dante « l'ancien », (« Shakespeare l'ancien
+», c'est ainsi que Victor Hugo a nommé Eschyle), en lisant la nouvelle
+série de la Légende des Siècles. C'est dans l'exil que Victor Hugo a
+commencé « ce poème sacré, auquel ont mis la main le ciel et la terre »
+; plus heureux qu'Alighieri, c'est dans la patrie qu'il l'achève, dans
+le pays qui lui a donné, si jeune, le baptême de la renommée, et qui le
+couronne aujourd'hui de gloire. Il y est revenu « avec une voix autre et
+avec d'autres cheveux » ; mais son génie s'est fortifié, au lieu de
+s'affaiblir avec l'âge.</p>
+<p>Son crépuscule a l'éclat du midi le plus rayonnant. La date
+d'anniversaire, dont il marque ce nouveau livre, est inscrite sur une
+table d'airain, qui attend une autre olympiade. La vieillesse ne
+s'accuse, chez lui, que par les éclats et les aspérités de la force ; si
+l'on peut appeler vieillesse</p>
+<p><pb/></p>
+<p>cette auguste maturité qui reverdit toujours, sans se flétrir par aucun
+côté. Les années ne font qu'élargir le cercle de son activité souveraine
+; son règne ne connaît ni décadence ni déclin. Il bat son plein, à
+l'heure où tant de grands esprits se retirent. Les idées qu'il porte,
+les œuvres qu'il conçoit, rempliraient une réitération d'existence.</p>
+<p>About, my brains! « A l'œuvre, mon cerveau ! »</p>
+<p>Ce cri de guerre de Macbeth est sa devise de chaque jour. L'exception
+intellectuelle semble appeler l'exception physique: on lui souhaite et
+on lui prédit une longévité d'élection. On entend de loin un Carmen
+sasciilare, chanté, au couchant de ce Siècle, par cette voix qui en a
+salué l'aurore.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>dans l'histoire, et s'y installaient avec une autorité hautaine et
+terrible. Les spectres se faisaient chair, les revenants revivaient.</p>
+<p>Depuis Dante et depuis Shakspeare, aucune littérature n'avait rien
+produit de pareil.</p>
+<p><pb/></p>
+<p>L'admiration se lasserait plus vite, que l'énergie surhumaine, que la
+création acharnée de cet infatigable génie.</p>
+<p>J'eus un rêve, le mur des Siècles m'apparut.</p>
+<p>C'était de la chair vive avec du granit brut, Une immobilité faite
+d'inquiétude, Un édifice ayant un bruit de multitude, Des trous noirs
+étoilés par de farouches yeux, Des évolutions de groupes monstrueux, De
+vastes bas-reliefs, des fresques colossales.</p>
+<p>Et laplume poursuit sur cette paroi visionnaire, comme la main de feu
+sur la muraille de Ninive, peignant et sculptant, en vers majuscules, la
+mêlée des générations déroulée sur le fond des âges.</p>
+<p>Songe d'un Piranèse de la pensée, endormi dans les ruines de la Babel
+humaine. On sait ce qu'il y a d'architectural dans le génie de Victor Hugo.</p>
+<p>Magister de lapidibus vivis, « maître des pierres vives », l'auteur de
+Notre-Dame de Paris mérite-</p>
+<p><pb/></p>
+<p>rait ce nom, que prenaient les constructeurs des vieilles cathédrales.
+Le peintre du burg de Corbus, dans Éviradnus, et d'Heidelberg, dans Le
+Rhin, pourrait y ajouter aussi celui de « maître des pierres mortes ».
+L'édifice et le débris, le monument et les décombres lui appartiennent
+également. Le rêve même affecte, dans son esprit, des formes et des
+structures d'édifice. Il le construit sur des coupes plastiques, il
+bâtit l'ombre, il pétrifie l'impalpable. On se souvient de l'étonnant
+morceau des Feuilles dautomme : Pente de la Rêverie:</p>
+<p>Or, ce que je voyais, je doute que je puisse Vous le peindre : c'était
+comme un grand édifice, Formé d'entassements, de siècles et de lieux ;
+On n'en pouvait trouver les bords ni les milieux.</p>
+<p>A quarante ans de distance, le poète a repris cette vision ébauchée ; il
+l'a étendue, et il l'a creusée ; il l'a grandie et approfondie. La
+rêverie a pris la dimension d'une Apocalypse historique subitement
+ébranlée, et dont l'écroulement forme les lacunes béantes, les monceaux
+confus, que hante la légende, et où il va chercher les fantômes qu'il
+rappelle au monde des vivants.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>iconoclaste des Dieux en est aussi le statuaire le plus magnifique. Il
+les taille dans le marbre incorruptible, dans l'or pur, dans l'ivoire
+sans tache; il reconstruit superbement, autour d'eux, leurs Olympes et
+leurs Walhallahs ; il leur remet la foudre ou l'arc, le sceptre ou la
+coupe, en main.</p>
+<p>On se rappelle l'éblouissant Olympe du Satyre, rapetissé jusqu'à
+l'effacement, parle Sylvain fauve qui se dévoile Pan, et qui grandit
+démesurément devant les Dieux. La même idée a produit deux poèmes
+sublimes dans le nouveau livre.</p>
+<p>Suprématie, c'est le Ciel indien, peint dans son vague redoutable, où
+les Dieux flottent et se décomposent, nuées éphémères d'un rêve éternel.</p>
+<p><pb/></p>
+<p>Une lumière ayant les yeux d'une figure.</p>
+<p>Indra arrive enfin, sûr de la victoire ; il sait tout, il voit tout, il
+embrasse tout ; il est le diamètre de l'infini, il en est aussi la
+circonférence : qui donc pourrait lutter contre lui?</p>
+<p>— « Vois-tu ce brin de paille ? »</p>
+<p>Dit l'étrange clarté d'où sortait une voix.</p>
+<p>Indra baissa la tête et cria : — « Je le vois, Lumière, je te dis que
+j'embrasse tout l'être ; Toi-même, entends-tu bien, tu ne peux
+disparaître De mon regard, jamais éclipsé ni décru ! »</p>
+<p>—LA peine eut-il parlé, qu'elle avait disparu.</p>
+<p><pb/></p>
+<p>Je ne sais rien d'aussi grand dans aucune théologie humaine, que cette
+disparition plus évidente qu'une apparition.</p>
+<p><pb/></p>
+<p>0 stupeur ! il finit par distinguer, au fond De ce gouffre où le jour
+avec la nuit se fond, A travers l'épaisseur d'une brume éternelle, Dans
+on ne sait quelle ombre énorme, une prunelle.</p>
+<p>Jupiter pâlit, les Immortels se teignent de l'ombre qui passe sur son
+front :</p>
+<p>Alors le Titan, grave, altier, porlant les marques Des tonnerres, sur
+lui tant de fois essayés, Ayant l'immense aspect des sommets foudroyés,
+Et la difformité sublime des décombres, Regarda fixement les Olympiens
+sombres, Stupéfaits sur leur cime, au fond de l'éther bleu, Et leur
+cria, terrible : « 0 Dieux, il est un Dieu 1 »</p>
+<p><pb/></p>
+<p>comme un gant de guerre, leur rocher tombé. Il tient pour eux contre les
+Dieux d'Homère et d'Hésiode, en qui il ne voit que des tyrans triomphants.</p>
+<p>Les cataclysmes géologiques réprimés parle Quos ego de la Nature normale
+et vitale, les forces barbares de l'âge de pierre et de l'âge de fer,
+domptés par la Raison et par la Justice plus ou moins parfaitement
+incarnées.</p>
+<p>Je ne me figure pas du tout un Éden, peuplé d'Encelades et de Briarées.
+Un Paradis terrestre, ayant pour Adams des colosses, capables de
+déraciner ses chênes d'une secousse, différerait peu d'un Enfer.
+N'est-ce pas justement la gloire bienfaisante des Dieux de la Grèce
+d'avoir ramené aux proportions humaines cette difformité chao-</p>
+<p><pb/></p>
+<p>Le poète s'est, d'ailleurs, magnifiquement rectifié lui-même, dans ses
+légendes helléniques, dont chacune pourrait porter, comme les livres
+d'Hérodote, le nom d'une Muse. La Grèce, dressée par les Dieux qu'il
+maudissait avant, s'y montre dans l'héroïque gymnase des grandes guerres
+Médiques, radieuse de force et de jeunesse, d'énergie civique, de grâce
+ingénue. Les Trois</p>
+<p><pb/></p>
+<p>Et chacun de ces coups de fouet toucha Neptune.</p>
+<p>Alors ce dieu, qu'adore et que sert la Fortune,</p>
+<p><pb/></p>
+<p>Mouvante comme lui, créa Léùnidas, Et de ces trois cents coups il fit
+trois cents soldats.</p>
+<p>Gardiens des monts, gardiens des lois, gardiens des villes.</p>
+<p>Et Xerxès les trouva débout aux Thermopyles.</p>
+<p>Quel coup de tridenl asséné de main de poète !</p>
+<p>Quel mythe superbe et tel que le génie grec n'en a pas créé de plus beau
+! Cette flagellation qui se fait légion ; l'insulte fécondée, enfantant
+ses vengeurs !</p>
+<p><pb/></p>
+<p>fracas d'armes se heurtent confusément sous les nues. Morceau fatidique,
+où la splendeur grecque flamboie des images extraordinaires de la Bible.</p>
+<p>On croit entendre les chars vivants d'Ézéchiel rouler dans le ciel
+d'Apollon. Acceptons l'augure qu'il recèle. Le poète prophétise ; vates
+est un de ses noms.</p>
+<p>Donne-la mol, que je la presse Vite sur mon cœur enflammé, Je veux bien
+mourir, ô déesse !</p>
+<p>Mais pas avant d'avoir aimé.</p>
+<p>Le battement des ailes de l'abeille attique semble rythmer ces strophes
+vaillantes et char-</p>
+<p><pb/></p>
+<p>mantes, elles ont son miel et son aiguillon. C'est une mélodie qui danse
+dans de la lumière.</p>
+<p>Toute l'histoire des invasions barbares est résumée dans ce dialogue
+farouche, enveloppé de brume, où l'on entend sans rien voir, et crié
+plutôt que parlé, qui monte d'une clairière nocturne et descend du
+créneau d'un camp.</p>
+<p>Un type persistant revient dans cette ronde de</p>
+<p><pb/></p>
+<p>Le Romancero du Cid est une harangue de haut en bas et de cap en pied,
+faite par le vieux</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>proscrit reste un féal. Le vieux coursier rue dans l'attelage, mais sans
+verser la royauté qu'il traîne en rongeant son frein : — Le roi est le
+roi. Je baisse mes yeux ; j'en ôle Tout regard audacieux.</p>
+<p>Entre sans peur, roi, mon hôte, Cor il n'est qu'un astre aux cieux.</p>
+<p>Cet astre de la nuit noire, Roi, ce n'est pas le bonheur, Ni l'amour, ni
+la victoire, Ni la force : c'est l'honneur !</p>
+<p>Et moi, qui, sur mon armure, Ramasse mes blancs cheveux, Moi, sur qui le
+soir murmure, Moi, qui vais mourir, je veux</p>
+<p>Que le jour où, sous son voile, Chimène prendra le deuil, On allume à
+cette étoile Le cierge de mon cercueil.</p>
+<p>Tout le poème est écrit en quatrains de vers de sept pieds, et ce
+rythme, brusquement allègre, fait l'effet d'un tambour de basque frappé
+en cadence sur un bouclier. C'est une saltation sonore, dont les rimes
+craquent, comme les joints d'une panoplie qui s'agite et qui gesticule :
+pyrrhique</p>
+<p><pb/></p>
+<p>Quelques-uns sont bergers dans les grands terrains vagues, Champs que
+les bataillons ont légués aux troupeaux, Mers de plaines ayant les
+collines pour vagues, Où César a laissé l'ombre de ses drapeaux.</p>
+<p><pb/></p>
+<p>.,.</p>
+<p>Ils récoltent, au bas des monts, comme en Provence, Du vin qu'ils font
+vieillir dans des outres de peau ; Le fisc, quand il leur fait payer la
+redevance, Leur fait l'effet du roi qui leur tend son chapeau.</p>
+<p>Cid est le pasteur de cette peuplade pacifique, l'aîné de ces hommes,
+plus que leur seigneur. 11 fraternise avec le laboureur, il tutoie le
+pâtre. On le voit s'asseoir, comme fera plus tard Don Quichotte, son
+revenant burlesque, mais grand encore, dans la boutique et sur
+l'escabeau du barbier.</p>
+<p>Cependant Santos arrive, dans sa pompe de gala, dans son train de faste,
+et Ruy Diaz le reçoit dans son écurie ; il lui donne audience devant le
+râtelier de son cheval Babieça.</p>
+<p><pb/></p>
+<p>La jument, grasse alors comme un cheval de moine, Regardait son seigneur
+d'un regard presque humain, Et le bon Cid, prenant dans l'auge un peu
+d'avoine, La lui faisait manger dans le creux de sa main.</p>
+<p>Le petit roi le prend de haut, parlant au nom d'un plus grand ; il conte
+les griefs et les doléances de la cour : Le Cid offusque Son Altesse ;
+son échine est trop inflexible ; son baisemain est trop familier. Il
+n'humilie pas assez ses Victoires devant l'étiquette de la Servidumbre ;
+il a des regards et des sourires de lèse-majesté.</p>
+<p>CI Votre bouche en parlant sourit avec tristesse.</p>
+<p>On sent que le rci peut avoir Burgos, Madrid, Tuy, Badajoz, Léon, soit ;
+mais que Son Altesse N'aura jamais le coin de la lèvre du Cid.</p>
+<p>» Le vassal n'a pas droit de dédain sur le maître.</p>
+<p>On vous tire d'exil ; mais, Cid, écoutez-moi, Il faut dorénavant qu'il
+vous convienne d'être, Aussi grand devant Dieu, moins haut devant le roi.</p>
+<p>î&gt; Pour apaiser l'humeur du roi, fort légitime, Il suffit désormais que
+le roi, comme il sied, Sente qu'en lui parlant vous avez de l'estime. »</p>
+<p>— Babieçi frappait la litière du pied,</p>
+<p><pb/></p>
+<p>Rouvrez le Romancero espagnol, vous n'y trouverez pas un chant de cette
+grandesse, une scène de cette taille. Tout ce qu'il contient d'orgueil
+naïf, de noblesse native, de rusticité superbe, de saveur cordiale, y
+est exprimé, comme un suc de citron sauvage, sous une main qui mûrit
+tout ce qu'elle pressure. Ces rapsodes errants de la lande et de la
+sierra cherchaient et attendaient leur Homère ; après dix siècles, ils
+l'ont rencontré.</p>
+<p>D'autres grands vieillards surgissent, après le Cid, dans la Légende des
+Siècles, chênes de cette forêt épique, témoins de la droiture et de la
+vertu des grands âges, foudroyants ou foudroyés, mais toujours dressés
+contre l'iniquité et la tyrannie.</p>
+<p>Le Comte Félibien, errant dans Sienne prise d'assaut par les reîtres des
+Médicis, rencontre, au coin d'une rue, un enfant tué dans le ventre
+ouvert de sa mère. Il maudit ces meurtriers qui massacrent l'avenir
+pêle-mêle avec le présent.</p>
+<p>Rien de pathétique comme cette imprécation vénérable : l'homme séculaire
+pleurant sur l'embryon atrocement détruit dans son nid sacré.</p>
+<p>Welf, Castellan d'Osbor est un petit drame, aussi grand, dans son
+raccourci, que les Bur-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Tant le rire est aisé derrière les vaincus.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le vieux héros sentit un frisson sur sa joue, Que dans l'ombre, d'un
+geste auguste et souverain, Caressait doucement la grande main d'airain.</p>
+<p><pb/></p>
+<p>C'est la statue du Commandeur jetée dans un nouveau moule, en sortant
+plus grande, douce, au lieu d'être terrible. Qu'elle est
+merveilleusement auguste et touchante, cette caresse d'un fantôme de
+bronze, confirmant, sur la joue, toujours puérile pour lui, d'un
+vieillard, l'autorité paternelle !</p>
+<p><pb/></p>
+<p>L'Idylle du Vieillard, — Voix d'un enfant cfun an, - est la note finale
+de ces mélodies.</p>
+<p>Des sons confus qui bruissent sur la lèvre d'un nouveau-né, le poète
+fait un chant, plus pénétrant et plus tendre que ceux des virtuoses de
+l'églogue et du madrigal. Il écoute germer les idées naissantes, comme
+l'homme du conte écoute pousser les brins d'herbe. Ce que dit la petite
+âme, encore flottante dans le clair obscur de la vie, il l'entend et il
+le traduit. On voit poindre les vagues lueurs de l'esprit courant sous
+la plume, comme les étoiles percent, sous le doigt qui les cherche, dans
+l'ombre du ciel. Il n'y a que les Génies, pour comprendre ainsi la
+langue des oiseaux :</p>
+<p><pb/></p>
+<p>Que dit-il ? Croyez-vous qu'il parle ? — J'en suis sûr.</p>
+<p>L'enfant apporte un peu de ce Ciel dont il sort; Il ignore, il arrive :
+homme, tu le recueilles !</p>
+<p>Il aie tremblement des herbes et des feuilles.</p>
+<p>La jaserie, avant le langage, est la fleur Qui précède le fruit, moins
+beau qu'elle et meilleur</p>
+<p>(Si c'est être meilleur qu'être plus nécessaire).</p>
+<p>L'enfant candide, au seuil de l'humaine misère, Regarde cet étrange et
+redoutable lieu, Ne comprend pas, s'étonne, et, n'y voyant pas Dieu,
+Balbutie, humble voix confiante et touchante; Ce qui pleure finit par
+être ce qui chante.</p>
+<p>Ses premiers mots ont peur comme ses premiers pas</p>
+<p><pb/></p>
+<p>qui vont en faire creuser une large comme un gouffre, décidera de la
+défaile ou de la victoire. La consigne est de s'y faire tuer, jusqu'à
+six heures, homme par homme. Cet humble charnier réclame une hécatombe
+vouée au salut de l'armée.</p>
+<p>La petite troupe exécute stoïquement sa consigne ; les balles et les
+boulets la déciment. Elle n'entend que le bruit de la bataille perdue
+sous la neige ; elle est la cible de l'immense artillerie lointaine, qui
+la vise et qu'elle ne voit pas.</p>
+<p>Une batterie tonnante, entrecoupée de grands cris, donnerait l'idée de
+ce bulletin cordial et martial, concis et rapide ; les vers y font feu
+roulant.</p>
+<p>On sait combien la guerre est familière au poète, il l'a chantée, sous
+tous ses aspects. Sa force l'attire vers les actions et les exploits des
+forts ; son style prend, pour les raconter, le tranchant du glaive et la
+sonorité du clairon. Aucune déclamation et aucune emphase : le ton est
+celui d'une bonhomie soldatesque aussi véridique qu'héroïque. Ces
+soldats, requis pour la mort, font leur devoir en le trouvant dur ; ils
+supportent, en jurant, cette corvée mortelle. Les grognements des
+grognards interrompent, par endroits, le grondement des obus :</p>
+<p><pb/></p>
+<p>« Nous étions les gardiens du centre, et la poignée D'hommes sur qui la
+bombe, ainsi qu'une cognée, Va s'acharner ; et j'eusse aimé mieux être
+ailleurs. »</p>
+<p>.-.-</p>
+<p>Je songeais, méditant, tout bas, cette consigne. »</p>
+<p>J'aperçus des clartés qui s'approchaient de nous.</p>
+<p>Sanglant, sur une main et sur les deux genoux, Je me traînai. Je dis : —
+« Voyons où nous en sommes? »</p>
+<p>J'ajoutai: - « Debout tous! » Et je comptai mes hommes.</p>
+<p>— « Présent » ! dit le sergent; — « Présent Il ! dit le gamin.</p>
+<p>Je vis mon colonel venir, l'épée en main : - « Par qui donc la bataille
+a-t-elle été gagnée?</p>
+<p>- Par vous, » dit-il. — La neige était de sang baignée.</p>
+<p>Il reprit: — « C'est bien vous, Hugo? C'est votre voix?</p>
+<p>— Oui. — Combien de vivants êtes-vous ici? — Trois. »</p>
+<p><pb/></p>
+<p>Le Cimetière d'Eylau et Jean Chouan, qui se suivent, d'une page à
+l'autre, dans le livre, montrent ainsi Victor Hugo, comme il le disait
+il y a quarante ans :</p>
+<p>« Fidèle au double sang qu'a versé dans sa veine Son père, vieux soldat,
+sa mère, Vendéenne. »</p>
+<p><pb/></p>
+<p>L'œuvre de Victor Hugo, si grandiose et, par endroits, si terrible, est
+toute jonchée des vols et des ébats de ces anges. On dirait les Amours
+du Corrège enroulés, par groupes et par grappes, autour des fresques de
+Michel-Ange. Petit-Paul fera verser autant de larmes que les Pauvres Gens.</p>
+<p><pb/></p>
+<p>Dans la Guerre civile, un enfant sauve son père, sergent de ville,
+taillé dans la rigidité de Javert, de la multitude furieuse qui va
+l'engloutir.</p>
+<p>Ses prières naïves, ses cris suppliants remuent les entrailles de
+l'émeute, et l'acharnement de la foule vient s'apaiser sur ce petit
+être, comme au grain de sable sur lequel Dieu brise l'Océan.</p>
+<p><pb/></p>
+<p>Plus loin, c'est la Question sociale incarnée, décharnée plutôt, dans
+une petite fille de cinq ans, larve d'un spectre de joie, qui rôde,
+affamée et déguenillée, par les rues, l'œil haineux et la bouche amère,
+vaguement irritée de sa damnation terrestre qu'elle ne comprend pas.</p>
+<p>La quantité d'enfer qui tient dans un atome Étonne le penseur, et je
+considérais Cette larve, pareille aux lueurs des forêts, Blême,
+désespérée, avant même de vivre, Qui, sans pleurs et sans cris, d'ombre
+et de terreur ivre, Rêvait et s'en allait, les pieds dans le ruisseau,
+Némésis de cinq ans, Méduse du berceau.</p>
+<p>Innocente encore, bientôt prostituée : le cloaque autour duquel tourne
+sa triste mère l'attire fatalement.</p>
+<p>Ne détournez pas la tête de cette rencontre navrante ; réfléchissez et
+compatissez. Ce grand souci des faibles écrasés, des proscrits du sort,
+des martyrs de l'abandon et du dénûment, est la vertu du génie de Victor
+Hugo. Il fait crier les plaies d'une façon si poignante et si pathétique,</p>
+<p><pb/></p>
+<p>qu'il faut bien qu'on se retourne et qu'on s'en émeuve. Cette cruauté
+est une charité : une société n'est pas une femmelette ; il est permis
+d'irriter ses nerfs, si c'est pour réveiller sa conscience.</p>
+<p><pb/></p>
+<p>La pensée finale de Victor Hugo sur le grand Mystère allerne entre une
+immense tristesse et un espoir infini. Le sentiment du néant humain, la
+suprématie de la mort absorbant toutes les puissances et dissolvant
+toutes les forces, semblent accabler parfois son esprit. Job sur son
+fumier, le Bouddha sous le figuier où Nirvana lui fut révélé, l'ascète
+de la Thébaïde s'étonnant qu'on bâtit encore des maisons et des villes,
+n'ont pas jeté sur le monde un regard plus chargé d'angoisse.
+Rappelez-vous les Pleurs dans la nuit et YHorror, des Contemplations, le
+Zin-Zizimi) de la première Légende. Quel orgue de cathédrale a jamais
+fait gronder et gémir de Dies irse si lugubres !</p>
+<p>Ce nouveau livre a des psaumes plus désolés, des lamentations plus
+tristes encore, sur la vanité des œuvres de l'homme. Quelle effrayante
+parabole que les Sept Merveilles du monde !</p>
+<p>Cela semble écrit sur des entassements qui vont choir, sur des dômes qui
+vont s'écrouler, avec le charbon ardent qui brûla la bouche d'Isaïe.</p>
+<p><pb/></p>
+<p>liefs divins et ses purs frontons ; les Jardins de Babylone, leurs
+arbres plantés dans l'air par Sémiramis ; le Mausolée, son tombeau
+sublime, moins grand encore que le cœur de la veuve d'où il est sorti ;
+le Jupiter Olympien, sa majesté taillée par Phidias dans l'ivoire et
+l'or ; le Phare, sa lumière sidérale et inextinguible, qui supplée, Sur
+les eaux, dans les nuits fécondes en désastres, A l'inutilité magnifique
+des astres;</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>jet sur le ciel, et que, comme le Dragon oriental, il aspire les astres
+et dévore les constellations.</p>
+<p>Parce que l'astre luit, l'homme aurait tort de croire Que le ver du
+tombeau n'atteint pas cette gloire ; Hors moi, rien n'est réel ; Le ver
+est sous l'azur comme il est sous le marbre ; Je mords, en même temps
+que la pomme sur l'arbre, L'étoile dans le ciel.</p>
+<p>Non, tu n'as pas tout, monstre, et tu ne prends point l'âme ; Cette
+fleur n'a jamais subi ta bave infâme ; Tu peux détruire un monde, et non
+souiller Caton.</p>
+<p>.-.-..,</p>
+<p>Tu n'es que le mangeur de l'abjecte matière.</p>
+<p>La vie incorruptible est hors de ta frontière ; Les âmes vont s'aimer
+au-dessus de la mort.</p>
+<p>Tu n'y peux rien ! Tu n'es que la haine qui mord.</p>
+<p>Cette certitude, il la développe en paraphrases enthousiastes, dans
+l'aurore qui se lève sur la nuit, où les sages veillent, Clartés dàmes,
+dans les promesses éblouissantes de Tout le Passé et</p>
+<p><pb/></p>
+<p>Tout f Avenir. La réponse tombe, de toute part, sur l'objection
+ténébreuse, en pluie de lumière.</p>
+<p>Cette foi ardente, c'est Dieu qui l'inspire, ce Dieu, que le poète adore
+avec tremblement et ravissement. Pour ceux mêmes qui restent fidèles aux
+révélations et aux dogmes, mais qui admettent que la simple croyance en
+Dieu domine toutes les autres, le Temple idéal, que Victor Hugo lui a
+construit au fond de son livre, semblera digne de contenir et de
+manifester sa grandeur.</p>
+<p>Nul ne pourra lever le voile aux plis de pierre : Personne ne saura s'il
+est une paupière Pouvant s'ouvrir, un œil pouvant verser des pleurs Sous
+ce masque, et s'il est quelqu'un sous les ampleurs</p>
+<p><pb/></p>
+<p>De ce suaire, aux yeux humains inabordable, Et tous contempleront
+l'Ignoré formidable.</p>
+<p>Pourtant on sentira que ce spectre n'est pas La haine, le glacier, le
+tombeau, le trépas; Qu'il semble un spectre étant sous le plus 'ourd des
+voiles, Mais que ce noir linceul peut-être est plein d'étoiles ; On
+sentira qu'il aime et que l'on est devant Le seul être, le seul esprit,
+le seul vivant.</p>
+<p>Cette horreur sacrée qui saisissait les anciens dans la profondeur des
+forêts, on l'éprouve en parcourant cet édifice abstrait, muet, incolore,
+qui semble surgir sous une incantation de vers solennels, comme les
+pierres s'édifiaient d'ellesmêmes, en murs et en tours, au son de la
+lyre des aëdes antiques. Le Déisme manquait d'église, il aura désormais,
+dans le monument symbolique, son Haggia-Sophia et son Temple de Jérusalem.</p>
+<p><pb/></p>
+<p>cule ignée, entourée d'atomes réflecteurs, qui se croit le centre du
+firmament. La Voie lactée et les Nébuleuses l'aveuglent, en lui jetant
+leurs poussières de constellations. Mais la voix de Dieu retentit dans
+l'infini, sur ces lampes folles, et fait vaciller leurs lueurs :</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHAPITRE II</p>
+<p>CHANSONS DES RUES ET DES BOIS</p>
+<p>Quand le sentier qui monte aux cimes est rapide, Bien souvent, fatigués
+du soleil, nous aimons Boire au petit ruisseau tamisé par les monts.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>On entre par un prologue dantesque dans ce livre en fête. Le Cheval en
+défend l'entrée, comme le Dragon celui du jardin où croissent les pommes
+d'or. Ce Cheval, c'est le Génie du poète déshabitué des prairies et
+n'aspirant plus qu'aux abîmes.</p>
+<p><pb/></p>
+<p>Je l'avais saisi par la bride ; Je tirais, les poings dins les nœud
+Ayant dans les sourcils la ride De cet effort vertigineux.</p>
+<p>Tout génie, élevant sa coupe, Dressant sa torche, au fond des cieux,
+Superbe, a passé sur la croupe De ce monstre mystérieux.</p>
+<p>Il traverse l'Apocalypse; Pâle, il a la Mort sur son dos.</p>
+<p>Sa grande aile brumeuse éclipse La lune devant Ténédos.</p>
+<p>Le cri d'Amos, l'humeur d'Achille Gonfle sa narine et lui sied ; La
+mesure du vers d'Eschyle, C'c,.,t le battement de son pied</p>
+<p>Ce Pégase, agrandi et transfiguré, n'est-il pas l'image de la poésie
+française, telle que Victor</p>
+<p><pb/></p>
+<p>Hugo l'a faite, avec les poètes de son groupe ?</p>
+<p>Quel élargissement d'envergure ! quels espace, nouveaux ouverts, dans le
+monde et dans l'infini, au coursier correct et cadencé, dont les plus
+grands élans ne franchissaient pas la double cime du Parnasse classique !</p>
+<p>Pégase mis au vert, l'Ode enchaînée ronge son frein et replie ses ailes,
+et les Chansons s'envolent, sonores et joyeuses, comme des bandes
+d'oiseaux, nombreuses et radieuses, comme les grappes d'une ruche
+essaimée. C'est un éblouissement et un ravissement ; un printemps qui
+fait explosion ; de la musique dans de la lumière ; la volupté revêtue
+des couleurs du rêve. Le magique désordre de la féerie remplit les rues
+et les bois. La flûte de l'Enchanteur les peuple d'apparitions
+délicieuses, évoquées des points les plus lointains du réel et de
+l'idéal. Les nymphes dansent avec les paysannes ; Pan maraude dans le
+bois de Meudon ; le Satyre épie Jeanne errante sous les ombrages de
+Ville-d'Avray.</p>
+<p>Mille images opposées se heurtent, avec un éclat de rire joyeux ou
+moqueur ; mille rayons réfractés se croisent et produisent, en
+s'amalgamant, des colorations fantastiques. D'une stance</p>
+<p><pb/></p>
+<p>Dès le seuil du livre, le poète donne l'Ordre du jour de Floréal. Il
+sonne, pour ainsi dire, la diane du Printemps : fanfare éclatante et
+fraîche, qu'on dirait soufflée dans une de ces trompettes du triomphe
+antique, autour desquelles serpentaient des fleurs: J'embouche, sur la
+montagne, La trompette aux longs éclats.</p>
+<p>Sachez que le printemps gagne La bataille des lilas.</p>
+<p>L'oiseau chante, l'agneau broute ; Mai, poussant des cris railleurs,
+Crible l'hiver en déroute D'une mitraille de fleurs.</p>
+<p>Cette richesse printanière déborde, avec profu-</p>
+<p><pb/></p>
+<p>Sa voix donne la note aux chansons des nids ; son haleine parfume les
+souffles de l'air; le battement de son cœur ému rythme les sanglots des
+sources et les rumeurs des feuillages. Le Bois de Meudon entonne sur
+elle un épithalame amoureux, que domine le plain-chant ironique de son
+curé Rabelais. La splendeur de la saison, mêlée au luxe de la toilette,
+compose ce ravissant fouillis du Dizain de femmes, où le frou-frou de la
+soie s'accorde si mélodieusement au bruissement des feuilles.</p>
+<p>Dans la merveilleuse symphonie nocturne des</p>
+<p><pb/></p>
+<p>Et clla si sedca, Ilumile in tanta gloria, Coverta gia de l'amoi'oso nemho.</p>
+<p>Plus magnifique encore envers sa maîtresse, le poète fait tomber sur
+elle une pluie d'étoiles.</p>
+<p>Les deux amants, sous la nue, Songent, charmants et vermeils.</p>
+<p>L'immensité continue Ses semailles de soleils.</p>
+<p>Tas de feux tombants qui percent Le zénith vaste et bruni, Braise énorme
+que disperse L'encensoir de l'Infini.</p>
+<p>Des tableaux charmants, d'une fantaisie enchanteresse ou d'une réalité
+pénétrante, entrecoupent ces hymnes d'amour. Ici, c'est la Lecture de</p>
+<p><pb/></p>
+<p>Platon, où, sous un rayon du soleil d'Athènes qui jaillit du livre
+entr'ouvert, la grisette se métamorphose en déesse. Là, c'est le Duel de
+juin, cette querelle héroï-comique, où la jarretière de Jeanne, qui fait
+dégainer deux rapières, se transforme si galamment en insigne de l'Ordre
+d'amour : « Je suis marquis, dit-il, et vous?</p>
+<p>— Chevalier de la Jarretière ! »</p>
+<p><pb/></p>
+<p>qui semblent des sérénades de Mozart transposées sur le mode du vers, et
+cette tendre et ravissante apothéose du Nid, exalté comme le
+chef-d'œuvre de Dieu, au-dessus de tous les prodiges de la terre et du
+firmament.</p>
+<p>La seconde partie, intitulée Sagesse, se distingue de la première par
+une inspiration plus calme et plus grave. Les groupes amoureux et
+folâtres disparaissent des paysages, redevenus silencieux. Le jardin
+d'Armide, dépeuplé de ses nymphes, reprend la solennité de la solitude.
+C'est XÉglise, c'est cette merveilleuse cathédrale naturelle faite de
+plantes, de branches et de fleurs, qui pourrait être la paroisse
+d'Obéron et de Titania.</p>
+<p>Une haute rose trémière Dressait, sur le toit de chardons.</p>
+<p>Ses cloches pleines de lumière, Où carillonnaient les bourdons.</p>
+<p>A la place de Lise ou de Jeanne, voici venir le Semeur, dont l'austère
+silhouette déploie, sur la brume du soir, un geste d'une incomparable
+grandeur : Il marche dans la plaine immense, Va, vient, lance la graine
+au loin, * Rouvre sa main et recommence.</p>
+<p>Et je médite, obscur témoin,</p>
+<p><pb/></p>
+<p>Pendant que, déployant ses voiles, L'ombre, où se mêle une rumeur,
+Semble élargir juqu'aux étoiles Le geste auguste du semeur.</p>
+<p>La gloire sous ses chimères Et sous ses chars triomphants Met toutes les
+pauvres mères Et tous les petits enfants.</p>
+<p><pb/></p>
+<p>Notre bonheur est farouche : C'est de dire : Allons! mourons !</p>
+<p>L'acier luit, les bivacs fument.</p>
+<p>Pâles, nous nous déchaînons ; Les sombres âmes s'allument Aux lumières
+des canons.</p>
+<p>Le Souvenir des vieilles guerres fait un admirable contraste aux satires
+de la victoire et de la conquête. Un capitaine de la république tombe,
+en Navarre, sous l'escopette d'un prêtre espagnol.</p>
+<p>On s'empare de celui-ci, on va le passer par les armes ; mais la
+physionomie du mort est si douce et si magnanime, qu'elle obtient la
+grâce de son meurtrier ; L'abbé fut pris. — (, Qu'on nous l'amène 1
+Qu'il meure ! » — On forma le carré ; Mais on vit que le capitaine</p>
+<p>Voulait faire grâce au curé.</p>
+<p>On chassa du pied ce jésuite, Et le mort semblait dire : Assez !</p>
+<p>Quoi qu'il dut regretter la suite De nos grands combats commencés.</p>
+<p><pb/></p>
+<p>val, gagna une dernière bataille. Tout ce petit poème a l'accent
+héroïque et bref d'une chanson de Romancero. Le poète fait des obsèques,
+d'une grandeur castillane, au vieux soldat tombé en Espagne, et il les
+termine par cette austère vision d'un labarum militaire :</p>
+<p>Nous tenions tous nos armes prêtes A cause des pièges du soir.</p>
+<p>Le croissant brillait sur nos têtes, Et nous, pensifs, nous croyions
+voir, Tout en cheminant dans la plaine, Vers Pampelune et Teruel, Le
+hausse-col du capitaine, Qui reparaissait dans le ciel.</p>
+<p><pb/></p>
+<p>Approche, que je te déboucle.</p>
+<p>Je te lâche, ôte ton licol, Rallume en tes yeux l'escarboucle.</p>
+<p>Quitte ces fleurs, quitte ce pré, Monstre! Tempé n'est pas Capoue.</p>
+<p>Sur l'Océan, d'aube empourpré, Parfois l'ouragan calme joue.</p>
+<p>(</p>
+<p>, Redeviens ton maître : va-t'en Cabre-toi, piaffe, redéploie » Tes
+farouches ailes, Titan, °., 4 Avec la fureur de la joie.</p>
+<p><pb/></p>
+<p>Cheval, devance l'aquilon.</p>
+<p>Toi la raison, toi la folie, L'échappé du bois d'Apollon, Le dételé du
+char d'Élio !</p>
+<p>Vole au-dessus de nos combats, De nos succès, de nos désastres, Et qu'on
+aperçoive d'en bas Ta forme sombre sous les astres.</p>
+<p>Et l'ode poursuit sur ce ton de tempête, submergeant, sous le
+redoublement de ses strophes, comme sous une marée montante, les
+prairies, les vergers, les jardins de la pastorale. C'est le bruit de la
+grande mer, couvrant le murmure des ruisseaux jaseurs.</p>
+<p>Tel est ce livre, éclatant, étrange, mélangé, qui donne l'idée d'un bal
+masqué, plein de masques extravagants, de femmes ravissantes, et dans
+lequel se seraient glissés des fantômes. L'exécution étonne ceux même
+qui ont étudié Victor Hugo dans tous les détails de son orchestration
+poétique. Le rythme semble être devenu l'élément naturel de sa pensée :
+il la porte, comme l'air porte l'oiseau; elle y roule, elle y nage, elle
+s'y déploie, elle y monte, avec des mouvements d'une rapidité
+éblouissante. Imaginez je ne sais quel instrument</p>
+<p><pb/></p>
+<p>magique qui contiendrait en lui toutes les voix d'un immense orchestre,
+depuis le soupir voilé du hautbois jusqu'au rauque éclat du clairon.</p>
+<p>Ceci dit, j'accorde les défauts, aussi âpres et aussi saillants que les
+nœuds d'un chêne et les aspérités d'une montagne: concetti bizarres, méta-</p>
+<p><pb/></p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>j CHAPITRE III j.</p>
+<p>j L'ANNÉE TERRIBLE</p>
+<p>Avant de louer ce grand livre, j'ai besoin pourtant d'en écarter
+quelques pages. Si mon admiration est entière, mon adhésion ne l'est
+pas. Des douze chants de ce calendrier tragique, il en est six que je
+n'accepte point tout entiers. Dans une des pièces du volume, le poète
+compare magnifiquement les traces que nos affreuses catastrophes ont
+imprimées sur son âme aux vestiges d'un</p>
+<p><pb/></p>
+<p>piétinement de bêtes fauves sur une vaste plaine :</p>
+<p>Ceux qui regarderaient mon esprit dans cette ombre, Le trouveraient
+couvert des empreintes sans nombre De tous ces jours d'horreur, de
+colère et d'ennui, Comme si des lions avaient marché sur lui.</p>
+<p>Ces événements n'ont pas seulement meurtri sa pensée, ils l'ont aussi
+quelquefois troublée.</p>
+<p>La grande bonté qui fait le charme de son fier génie, cet amour des
+faibles et des souffrants qui palpite dans son œuvre entière, semblent
+déconcerter son jugement. Sa conscience est trop droite, sans doute,
+pour pencher du côté du meurtre, de l'incendie, du ravage; du côté, oùla
+colonne</p>
+<p><pb/></p>
+<p>Je ne puis le suivre sur cette limite indécise qu'il trace entre le bien
+et le mal. Il m'est impossible d'admettre, comme dans les Deux Trophées,
+l'espèce d'équilibre qu'il s'efforce d'établir entre l'armée de
+Versailles et la jacquerie parisienne.</p>
+<p>Le grand poète que je vénère et que j'aime me pardonnera de me séparer
+de lui au seuil de cette</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>de Jérusalem, ne trouveraient pas une plus sublime image, pour peindre
+l'horizon sinistre d'une ville assiégée : L'Occident était blanc,
+l'Orient était noir ; Comme si quelque bras sorti des ossuaires Dressait
+un catafalque aux collines du soir, Et sur le firmament déployait deux
+suaires.</p>
+<p>Et la nuit se fermait ainsi qu'une prison.</p>
+<p>L'oiseau mêlait sa plainte au frisson de la plante.</p>
+<p>J'allais. Quand je levais mes yeux vers l'horizon, Le couchant n'était
+plus qu'une lame sanglante.</p>
+<p>Ailleurs, ce sont les Forts grondant, la nuit, autour de l'enceinte,
+avec une vigilance formi-</p>
+<p><pb/></p>
+<p>dable. Leurs voix tonnantes retentissent, dans les vers du poète, comme
+les abois d'une meute farouche et fidèle:</p>
+<p>D'échos en échos cent voix terribles roulent.</p>
+<p>Comme c'est beau ces Forts qui dans cette ombre aboient!</p>
+<p>Un des canons qui défendaient le rempart avait été baptisé du nom de
+Victor Hugo. Le baptême du feu, c'est le poète qui le lui donna, dans
+une invocation frémissante, où il fait, entre lui et le bronze sorti de
+la forge, une sorte d'alliage enflammé et d'amalgame héroïque : La lutte
+nous attend ; viens, ô mon fils étrange !</p>
+<p>Doublons-nous l'un par l'autre et faisons un échange, Et mets, ô noir
+vengeur, combattant souverain, Ton bi-onze dans mon cœur, mon âme en ton
+airain.</p>
+<p>L'échange proposé semble s'être accompli ; il y a de l'éclair et de la
+mitraille dans ces poèmes braqués contre l'ennemi. Telle pièce, avec ses
+sor-</p>
+<p><pb/></p>
+<p>ties violentes, ses tirades profondes, ses imprécations redoublées et
+infatigables, rappelle le feu roulant des batteries. Telle autre,
+portant une pensée ou un anathème qui éclate, en jetant des flammes,
+après avoir décrit la parabole d'un long rythme, fait songer au
+rayonnement foudroyant d'une bombe. Avec quel mépris indigné le poète
+déshonore les victoires féroces de la Prusse !</p>
+<p>Comme il les diffame et les destitue ! Comme il leur arrache leurs
+lauriers souillés, pour s'en taire une verge et les flageller !</p>
+<p>Soit, princes! Vautrez-vous sur la France conquise.</p>
+<p>Oui, le corps souillé, froid, sinistre désormais, Quand on les prend de
+force en des étreintes viles, C'est tout ce qu'on obtient des vierges et
+des villes.</p>
+<p>A la fin de la même pièce, surgit ce groupe michelangesque, qu'on se
+représente planant au dessus d'un triomphe impie :</p>
+<p><pb/></p>
+<p>Tourne le dos, se tait, refuse de rien voir, Et l'on distingue, au fond
+de ce firmament noir, Le morne abaissement de leurs trompettes sombres.</p>
+<p>L'ironie, dans l'Année terrible, n'est pas moins cruelle que la colère.
+Des rires amers et mordants traversent, par endroits, ces poèmes
+courroucés.</p>
+<p>Les rapines prussiennes y sont saisies et marquées, la main dans le sac.
+Du couteau de Shylock croisé avec le glaive d'Attila, le poète fait un
+trophée dérisoire qu'il suspend au-dessus du camp recéleur. Les
+Prouesses Borusses sont le chefd'œuvre de cette raillerie irritée. C'est
+une Colonne Trajane parodiée où serpenteraient des caricatures
+sculpturales : hordes pillardes remplaçant les légions épiques, caisses
+prises d'assaut, Alarics portant sur leurs dos les Maleck-Adel des
+pendules, épées sondant des caves et crochetant des serrures.</p>
+<p><pb/></p>
+<p>'- ,..</p>
+<p>On renverse un empire et l'on coupe une bourse.</p>
+<p>César, droit sur un char dit : Payez-moi ma course !</p>
+<p>On massacre un pays, le sang est encore frais ; Puis, on arrive, avec le
+total de ses frais ; On tarife le meurtre, on cote la famine.</p>
+<p>-. .-.</p>
+<p>Et Schinderhannes met le faux nez du dieu Mars.</p>
+<p>Le poète a aussi des pages admirables sur le reniement universel de la
+France par les nations étrangères. Grant ne lavera pas la tache de boue,
+dont il l'accuse d'avoir sali l'étendard d'étoiles des États-Unis. Le «
+nommé Bancroft » qui, pendant le siège, donna son coup de pied à
+l'agonie de Paris mourant, restera souillé de sa basse injure.</p>
+<p>Elle retombe sur lui, changée en ordure, par la magie d'un vers méprisant.</p>
+<p>Qu'importe l'affront vil qui tombe de cet homme?</p>
+<p>Qu'importent les néants qui passent et s'en vont?</p>
+<p>Sans faire remuer la tête énorme, au fond Du désert où l'on voit rôder
+le lynx féroce, Le stercoraire peut prendre, avec le colosse Immobile à
+jamais sous le ciel étoile, Des familiarités d'oiseau vite envolé.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Et l'illustre Hector ôta son casque, et le déposa resplendissant sur la
+terre. Et il baisa son fils bien-aimé, et, le berçant dans ses bras, il
+supplia Zeus et les autres dieux. »</p>
+<p><pb/></p>
+<p>lade, et l'aïeul la supplie de vivre, et, avec une ineffable tristesse,
+il la menace de partir avec elle, si elle ne rentre pas dans la vie :</p>
+<p>Si je ne vous vois pas gaie et rose et très forte, Si, triste, vous
+rêvez, Si vous ne fermez pas derrière vous la porte Par où vous arrivez.</p>
+<p>Je croirai qu'en ce monde où le suaire au lange Parfois peut confiner,
+Vous venez pour partir, et que vous êtes l'Ange Chargé de m'emmener.</p>
+<p><pb/></p>
+<p>Au milieu, presque un champ; dans le fond, presque un bois.</p>
+<p>Plus tard, le jardin des Feuillantines, transformé mais reconnaissable,
+est devenu, dans les blisérables, le cadre de « L'idylle de la rue
+Plumet ».</p>
+<p><pb/></p>
+<p>iMaintenant on est vieux comme lui. Le voilà.</p>
+<p>Ici la vie était de la lumière ; ici Marchait, sous le feuillage en
+avril épaissi, Sa mère qu'il tenait par un pan de sa robe.</p>
+<p>Que de grandes pages encore dans les derniers mois du livre ! Si je ne
+pénètre pas trop avant, c'est qu'on y marche au milieu des flammes.</p>
+<p>— Va-t'en, drôle ! — L'enfant s'en va. — Piège grossier.</p>
+<p>Et les soldats riaient avec leur officier.</p>
+<p><pb/></p>
+<p>— La mort stupide eut honte, et l'officier fit grâce.</p>
+<p>Enfant, je ne sais point, dans l'ouragan qui passe Et confond tout, le
+mal, le bien, héros, bandits, Ce qui dans ce combat te poussait ; mais
+je dis Que ton âme ignorante est une âme sublime.</p>
+<p>La Gloire au front te baise, ô toi si jeune encore !</p>
+<p>Doux ami, dans la Grèce antique, Stésichore T'eût chargé de défendre une
+porte d'Argos; Cynégire t'eût dit: Nous sommes deux égaux!</p>
+<p><pb/></p>
+<p>On graverait ton nom sur des disques d'airain; Et tu serais de ceux qui,
+sous le ciel serein, S'ils passent près du puits ombragé par le saule,
+Font que la jeune fille, ayant, sur son épaule, L'urne où s'abreuveront
+les buffles haletants, Pensive, se retourne et regarde longtemps.</p>
+<p>Fermons le livre sur cette page homérique.</p>
+<p>Le temps apaisera ses violences et conciliera les discordes dont il
+porte l'empreinte. Il leur survivra, par la grande âme qui l'anime, par
+la force héroïque et le style superbe dont elle est vêtue.</p>
+<p>Le génie n'est d'aucun parti ; s'il se pose, un in-</p>
+<p><pb/></p>
+<p>En sortant de la représentation des Perses d'Eschyle, les Athéniens
+couraient vers les temples et frappaient sur les boucliers suspendus aux
+autels, en criant: « Patrie! Patrie ! » On pousse le même cri, après
+avoir lu ce livre qui ne célèbre pourtant que des défaites et des
+deuils. Le pays qui l'a inspiré peut être assuré de revivre : de tels
+chants ne retentissent pas autour d'un tombeau</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHAPITRE IV</p>
+<p>L ART D'ÊTRE GRAND-PÈRE</p>
+<p><pb/></p>
+<p>mais Gargantua sort, par sa taille et par sa nature fabuleuse, de
+l'espèce humaine. Au dix-septième siècle, Corneille ignore l'enfant, ou
+il le dédaigne.</p>
+<p>Racine cache Astyanax sous une périphrase, comme sous un pli de la
+draperie d'Andromaque.</p>
+<p><pb/></p>
+<p>Les années ont passé, l'adversité est venue.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Il commence par le bégayement, par ce prélude de la parole où le poète
+démêle des chanls tristes et des chants divins, le finale du ciel et
+l'ouverture de la vie. Les mages antiques comprenaient et expliquaient
+la langue des oiseaux ; Victor Hugo entend et note, en mélodies
+angéliques, la musique confuse des berceaux :</p>
+<p>Jeanne, qui dans les yeux a le myosotis, Et qui, pour saisir l'ombre,
+entr'ouvrant ses doigts frêles,.</p>
+<p>N'a presque pas de bras, ayant encor des ailes, Jeanne harangue, avec
+des chants où flotte un mot, Georges, beau comme un dieu qui serait un
+marmot.</p>
+<p><pb/></p>
+<p>C'est ce dessous divin de la vaste harmonie, Le chuchotement, l'ombre
+ineffable et bénie, Jasant, balbutiant des bruits de vision, Et
+peut-être donnant une explication, Car les petits enfants étaient, hier
+encore, Dans le ciel, et savaient ce que la terre ignore.</p>
+<p>Quand il a fini de chanter, le berceau s'endort.</p>
+<p>Jeanne endormie, ce titre reparaît quatre fois dans le livre, comme dans
+l'œuvre de Raphaël, le Sommeil de l'Enfant Jésus : tableaux aussi purs
+que ceux du peintre, et d'une limpidité plus profonde.</p>
+<p>Elle fait, au milieu du jour, son petit somme ; Car l'enfant a besoin du
+rêve plus que l'homme: Cette terre est si laide, alors qu'on vient du
+ciel !</p>
+<p>Oh ! comme nous serions surpris si nous voyions, Au fond de ce sommeil
+sacré, plein de rayons, Ces paradis ouverts dans l'ombre, et ces
+passages D'étoiles, qui font signe aux enfants d'être sages, Ces
+apparitions, ces éblouissements t</p>
+<p>Le poète, incliné sur la petite fille endormie</p>
+<p><pb/></p>
+<p>Ne la réveillez pas ! Cela dort, une rose.</p>
+<p>Jeanne au fond du sommeil médite, et se compose Je ne sais quoi de plus
+céleste que le ciel.</p>
+<p>De lys en lys, de rêve en rêve, on fait son miel, Et l'âme de l'enfant
+travaille, humble et vermeille, Dans les songes, ainsi que dans les
+fleurs l'abeille.</p>
+<p>Ces songes enchantés, il va les décrire, recomposer leurs molles
+arabesques qui tremblent, dans un suave clair obscur: reines au manteau
+d'azur, bons géants, lutins familiers, forêts de fleurs hantées par des
+fées.</p>
+<p>Plus d'un dira plus tard : « Bon Dieu, tu me trompais ? »</p>
+<p>Mais le bon Dieu répond, dans la profondeur sombre : — « Non, ton rêve
+est le cid. Je t'en ai donné l'ombre.</p>
+<p>Mais ce ciel, tu J'auras. Attends l'autre berceau, La tombe. »</p>
+<p><pb/></p>
+<p>doux encore, renouant les rêves de la terre aux extases de l'éterniLé.</p>
+<p>Une autre fois, Jeanne s'est endormie, tenant dans sa main le doigt de
+son grand-père. Il ne le retire pas, de peur de l'éveiller, et, tout en
+la regardant dormir, il lit des papiers injurieux qui le calomnient et
+l'outragent. Des huées lointaines grondent autour de ce nid où murmure
+un souffle :</p>
+<p>Ainsi viennent en foule autour de moi crier Toutes ces voix jetant
+l'affront sans fin, sans trêve.</p>
+<p>Cependant l'enfant dort, et, comme si son rêve Me disait : « Sois
+tranquille, ô père, et sois clément ! »</p>
+<p>Je sens sa main presser la mienne doucement.</p>
+<p>Idée divinement touchante : l'enfant, averti, par la seconde vue du
+rêve, qu'on injurie son aïeul, et le consolant, par une caresse
+rassurante, des déchirements de la vie.</p>
+<p><pb/></p>
+<p>Jeanne veut donc la lune, et le grand-père dit « Pourquoi pas? » Et,
+comme les magiciennes de laThessalie, il la ferait descendre du ciel
+dans son tablier, si la lyre avait la puissance de leur tambour
+enchanté. Il la ravirait volontiers aux télescopes des astronomes, pour
+la faire luire, de plus près, aux yeux éblouis de la petite fille :</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>mot de l'énigme que propose le Sphinx éternel.</p>
+<p><pb/></p>
+<p>Créez des monstres ; lacs, forêts, avec vos monts, Vos noirceurs et vos
+bruits, composez des mammon3 Abîmes, cc ndensez en eux toutes vos
+gloires, Donnez-leur vos rochers pour dents et pour mâchoires Pour voix
+votre ouragan, pour regard votre horreur:</p>
+<p>.-.- .-.c.c</p>
+<p>Mais ce que de ta verve, ô Nature, j'attends, Ce sont les Béhémoths et
+les Lévialhans.</p>
+<p><pb/></p>
+<p>Être le Bénoni d'une douce biche aux pis maternels, aux yeux caressants,
+passe encore ; mais grelotter sur le charnier d'une caverne, jouet d'une
+griffe dont une caresse peut tuer, page frissonnant d'un ogre à
+crinière, c'est une affreuse aventure.</p>
+<p>Le pauvre petit prince était fort malheureux ; D,ns l'antre
+qu'emplissait la grande voix bourrue, Blotti, tremblant, nourri d'herbe
+et de viande crue, Il vivait, presque mort et d'horreur hébété.</p>
+<p>Un chevalier de passage vient sommer le lion de rendre l'enfant: le lion
+broie l'armure comme</p>
+<p><pb/></p>
+<p>un os, en tire l'homme comme une moelle, le dévore et se recouche sur
+son lit de branches.</p>
+<p>Un ermite arrive ensuite, non plus en combattant, mais en suppliant: le
+lion l'exorcise de son goupillon d'écume, de son grognement courroucé.</p>
+<p>Alors le roi organise une grande chasse de nuit, pour forcer le repaire
+du noir receleur.</p>
+<p>Un tourbillon de dards le cribla. Le lion, Pas plus que sous l'orage
+Ossa ni Pélion Ne s'émeuvent, fronça son poil, et, grave, austère,
+Secoua la plupart des flèches sur la terre.</p>
+<p>Cependant le lion est irrité du guet-apens qu'on lui a tendu. Il monte
+sur le sommet qui domine la ville, et lance au roi sa proclamation.</p>
+<p><pb/></p>
+<p>Roi ! tu m'as attaqué d'une manière vile!</p>
+<p>Le peuple s'est réfugié dans les caves. Le lion marche lentement par les
+rues désertes, portant le petit prince évanoui dans sa gueule. Il entre
+dans le palais ouvert, parcourt ses salles, aussi vides, sous leurs
+plafonds d'or, que les plaines de son empire, sous le rouge soleil de
+midi. La terreur de son approche a refait, autour de lui, dans l'immense
+cité, la nudité du désert.</p>
+<p><pb/></p>
+<p>Par-dessus les jouets qui couvraient une table, Le lion avança sa tête
+épouvantable, Sombre en si majesté de monstre et d'empereur, Et sa proie
+en sa gueule augmentait son horreur.</p>
+<p>L'enfant le vit, l'enfant cria: — « Frère ! mon frère !</p>
+<p>Ah ! mon frère !» — et debout, rose dans la lumière Qui la divinisait et
+qui la réchauffait, Regarda ce géant des bois, dont l'œil cÍlt fait
+Reculer les Tiphons et fuir les Biiarées.</p>
+<p>Qui sait ce qui se passe en ces têtes sacrées?</p>
+<p>Elle se dressa droite, au bord du lit étroit, Et menaça le monstre avec
+son petit doigt.</p>
+<p>Quelle féerie magnifique et tendre! Quel motif de fresque pour décorer
+une nursery idéale ! La domination de la faiblesse, la magie du charme,
+la toute-puissance de l'enfance n'ont jamais élé plus glorieusement
+célébrées. L'Éros des sculptures antiques, chevauchant un lion dompté
+par un frein de fleurs, et l'éperonnant de son talon rose, est moins
+triomphant que cette petite fille, qui ouvre, d'un geste puéril, une
+gueule en fureur et lui fait rendre sa proie. Dans le Rouet cCOmphale,
+des Contemplations, le poète nous montrait tous les monstres terrassés
+par Hercule, rô-</p>
+<p><pb/></p>
+<p>dant autour de la quenouille, victorieuse de leur vainqueur, et fixant
+sur elle un œil humilié. Hercule lui-même, Thésée, Samson, tous les
+grands belluaires de la mythologie et de la légende, s'inclineraient
+devant l'enfant de ce fabliau merveilleux. Il y a plus de force dans la
+douce menace de son petit doigt, que dans les coups de leurs massues et
+dans les tranchants de leurs glaives.</p>
+<p>Je suis sorti de la volière, Tenant toujours l'oiseau : je me suis
+approché Du vieux balcon de bois, par le lierre caché.</p>
+<p>0 renouveau ! soleil ! tout palpite et tout vibre, Tout rayonne; et j'ai
+dit, ouvrant la main : « Sois libre! »</p>
+<p>L'oiseau s'est évadé dans les rameaux flottants, Et dans l'immensité
+splendide du printemps, Et j'ai vu s'en aller au loin la petite âme,
+Dans cette clarté rose où se mêle une flamme; Dans l'air profond, parmi
+les arbres infini?, Volant au vague appel des amours et des nids,</p>
+<p><pb/></p>
+<p>Planant éperdument vers d'autres ailes blanches, Ne sachant quel palais
+cho's'r, courant aux branches, Aux fleurs, aux flots, aux bois
+fraîchement reverdis, Avec l'effarement d'cnlrer au paradis.</p>
+<p>Alors, dans la lumière et dans la transparence, Regardant cette fuite et
+cette délivrance, Et le pauvre être ainsi disparu dans le port, Pensif,
+je me suis dit : « Je viens d'être la mort ! »</p>
+<p>Après les récits, les chansons ; et c'est une merveille que d'entendre
+cette voix épique se mettre au frais et vague diapason des rondes
+enfantines.</p>
+<p>De tout temps, le grand poète a eu le double don du colossal et du
+délicat : de la même haleine dont il remplit les clairons, il souffle
+des perles. Ces couplets ailés seraient dignes de faire tourner les</p>
+<p><pb/></p>
+<p>Elfes de Shakspeare, dans la prairie bleuâtre, autour de ces cercles
+d'herbes réservés, « que la brebis ne mord pas ».</p>
+<p>Dansez, les petites filles, Toutes en rond.</p>
+<p>En vous voyant si gentilles, Les bois riront.</p>
+<p>Dansez, les petites reines, Toutes en rond.</p>
+<p>Les amoureux sous les frênes S'embrasseront.</p>
+<p>Dansez, les petites belles, Toutes en rond.</p>
+<p>Les oiseaux avec leurs ailes Applaudiront.</p>
+<p><pb/></p>
+<p>Je ne sais plus quand, je ne sais plus où, Maître Yvon soufflait dans
+son biniou.</p>
+<p>La sorcière assise allonge sa lippe ; L'araignée accroche au toit son
+filet; Le lutin reluit dans le feu follet, Comme un pistil d'or dans
+unetnlipe.</p>
+<p>Toutes ces « Choses du soir » défilent affolées, comme des ombres
+chinoises, sur la toile noire de la nuit éclairée par un rayon de lune.
+Ce serait presque effrayant, et les petites trembleraient, si un refrain
+rassurant ne leur montrait des enfants, roses comme elles, groupés sous
+la lampe du logis bien clos.</p>
+<p>La faim fait rêver les grands loups moroses, La rivière court, le nuage
+fuit,</p>
+<p>Derrière la vitre où la lampe luit, Les petits enfants ont des têtes roses.</p>
+<p><pb/></p>
+<p>Berquin retouché par Victor Hugo, la puérilité transfigurée par le génie
+qui s'incline vers elle et qui la caresse, quelle attrayante et
+touchante surprise ! Imaginez encore Michel-Ange faisant du Chardin.</p>
+<p>L'enfant deviendra un homme, la femme s'épanouira dans la petite fille.
+L'aïeul, devançant le temps, leur parle de loin. Il les sèvre, avec le
+vin des forts, du lait exquis dont il a nourri leur esprit naissant. Il
+écrit Ce que les Petits liront, quand ils seront grands. La Chanson
+d'Ancêtre enthousiaste et grave comme une saltation héroïque, a déjà
+fait faire au petit éphèbe les premières armes de l'âme.</p>
+<p>Frappez, écoliers, Avec les épées, Sur les boucliers.</p>
+<p><pb/></p>
+<p>Un jour, je vis passer une femme inconnue.</p>
+<p>Cette femme semblait descendre de la nue ; Elle avait sur le dos des
+ailes, et du inirl Sur sa bouche entr'ouverte, et dans ses yeux le ciel.</p>
+<p>Mais, elle, — devant l'angj en vain l'homme se tait, — Vit ma pensée, et
+dit : « Faut-il qu'on t'avertisse ?</p>
+<p>Tu me crois la pitié : fils, je suis la justice. »</p>
+<p><pb/></p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHAPITRE V</p>
+<p>LA PITIÉ SUPRÊME</p>
+<p>La pitié est la vertu du génie de Victor Hugo.</p>
+<p>Elle s'épanche dans son œuvre entière et elle la pénètre ; elle en est
+l'âme et l'inspiration perpétuelle.</p>
+<p>La harpe du poète ne vient plus seulement, comme celle de David, apaiser
+les fureurs de Saül, mais les absoudre et leur pardonner.</p>
+<p>D'où vient le despote et qui le produit? — Le mi-</p>
+<p><pb/></p>
+<p>lieu de corruption où il s'est formé, l'adulation sucée avec le lait, la
+lésion du cerveau déformé par des mains perverses, l'encouragement de la
+sénilité qui l'entoure, le vertige de la toute-puissance sans obstacle
+et sans garde-fou. Dès les premières pages de son livre, le poète
+présente, dans un terrible exemple, l'image de l'enfance couronnée,
+dépravée par la flatterie. Louis XV est né beau et pur, comme les lys
+qui jonchent son berceau. On voit s'épanouir cette fleur royale, sous un
+souffle de vers enchanteurs :</p>
+<p>Regardez cet enfant de cinq ans ; la feuillée N'a pas d'oiseau plus pur,
+plus frais, plus ébloui ; La bénédiction semble sortir de lui.</p>
+<p>Son regard ingénu fait l'effet d'un pardon, Et l'homme le plus dur
+lui-mêm) est sans défense, Devant cette adorable et radieuse enfance.</p>
+<p>Pourtant on sent en lui la pauvre âme asservie, La faiblesse profonde et
+sombre de la vie ;</p>
+<p><pb/></p>
+<p>Si beau qu'il soit, c'est l'homme avec son frêle esprit; C'est de
+l'infirmité charmante, qui sourit ; Notre fragilité redoutable et
+frivole Se mêle, ombre terrestre, a sa blanche auréole ; Son pas
+tremble, et son front ploie ainsi qu'on roseau; Mais il n'en est pas
+moins l'innocent de berceau.</p>
+<p>Il a cinq ans. A une fête de saint Louis, on le mène, aux Tuileries,
+voir tirer un feu d'artifice.</p>
+<p><pb/></p>
+<p>Et Louis Quinze est fait !</p>
+<p><pb/></p>
+<p>Quel revers aux Orientales du poète, que cet intérieur de sérail où le
+sultan, enfumé d'encens, hideux au dedans, splendide au dehors, croupit
+sur son trône, comme une idole mangée par les vers sous sa dorure et ses
+escarboucles 1</p>
+<p>Avez-vous médité sur l'horreur du sultan?</p>
+<p>Une lueur de perle argente son caftan.</p>
+<p><pb/></p>
+<p>11 voit un paradis de vagues avenues, De bains lascifs, d'oiseaux, de
+fleurs, de femmes nues, Parle vitrail qui s'ouvre au fond du corridor:
+Il a sur son turban la lune aux cornes d'or, L'astre qui fait l'éclipsé
+et qui fait la démence.</p>
+<p>Son pouvoir est un champ que la mort ensemence.</p>
+<p>Afin qu'il fût despote, afin qu'il lut vainqueur, A cet homme lugubre on
+a coupé le cœur.</p>
+<p>Son trône est un charnier, sa ville est un décombre ; Cent monstres,
+blancs et noirs, gardent son palais sombre, D'un maître épouvantable
+esclaves effrayants, Le couvent, jour et nuit, de leurs yeux
+flamboyants, Et se penchent, hais de l'homme et de la femme, Eunuques de
+la chair sur l'eunuque de l'âme.</p>
+<p>La plaidoirie se poursuit, ardente et pressante, prenant toutes les
+formes de l'argument, tous les tons du lyrisme et de l'éloquence,
+exaltée souvent jusqu'au paradoxe de l'amnistie et de la clémence.</p>
+<p><pb/></p>
+<p>Messie de l'Inde. Mais, si l'esprit résiste parfois, si l'objection du
+libre arbitre contredit la fatalité absolvant le mal, le cœur est
+entraîné par ce flot de douceur, d'apaisement, de bonté, qui recouvre et
+qui lave tout, comme un fleuve sacré d'eau lustrale. « Tous les aromates
+de l'Arabie ne nettoieraient pas cette petite main », dit lady Macbeth
+errante dans les corridors de Dunsinane.</p>
+<p>Vous plaignez les proscrits? Occupez mieux vos larmes: Plaignez le
+proscripteur. Soupçon, angoisse, alarmes,</p>
+<p><pb/></p>
+<p>Le venl râle la nuit, pendant son insomnie ; Pâle, il prête l'oreille ;
+il écoute le cri De Pathmos, de Syène ou de Sinnarnar".</p>
+<p>S'il dort, quel songe ! 11 voit Tibère lui sourire, Brutus rôder, Caton
+saigner, Tacite écrire ; Il a beau vivre, idole au fond d'un tourbillon,
+Mettre dans toute bouche ou l'hymne ou le bâillon : Que dira l'avenir?
+Il se sent responsable Des fièvres de l'exil, de la plage de sable, Du
+marais, du soleil, et du zèle d'en bas, Du geôlier harcelant ces fers et
+ces grahats.</p>
+<p>La conclusion du livre est dans son titre même : une Pitié suprême ; et
+cette pitié, le poète la résume dans l'admirable légende de Jean Huss.</p>
+<p>Elle diffère un peu de la tradition historique.</p>
+<p>0 sancta simplicitas ! « 0 sainte simplicité ! »</p>
+<p><pb/></p>
+<p>dans le cœur d'une pauvre vieille, qui se fait, par piété, servante de
+vos bourreaux ; excuser sa férocité naïve, et l'absoudre, et la louer
+presque avec cette miséricordieuse ironie : l'idéal de la grandeur de
+l'âme n'a jamais été au delà.</p>
+<p>La variante de Victor Hugo est, s'il se peut, plus touchante encore.
+C'est sur le bourreau lui-même, sur le hideux manœuvre de l'horrible
+supplice, qu'il fait tomber les novissima verba du martyr : Il
+approchait, courbé, plié, souillé, méchant, Honteux, de l'échafaud
+cariatide affreuse ; Il surveillait l'endroit où l'âtre ardent se
+creuse, Il venait ajouter de l'huile et de la poix ;</p>
+<p>Et Jean Huss, par le feu léché lugubrement, Leva les yeux nu ciel et
+murmura : &lt;/ Pauvre homme ! »</p>
+<p><pb/></p>
+<p>« Il y a de formidables lours de cathédrale, — a écrit Victor Hugo
+quelque part, — comme, par exemple, la Giralda de Séville, qui semblent
+faites, tout entières, avec leurs spirales, leurs escaliers, leurs
+sculptures, leurs caves, leurs cœcums, leurs cellules aériennes, leurs
+chambres sonores, leurs cloches, leur plainte et leur flèche, et toute
+leur énormité, pour porter un Ange, ouvrant, sur leur cime, ses ailes
+dorées. »</p>
+<p>La Pitié suprême, posée sur la hauteur de son œuvre, me rappelle cet
+Ange ouvrant ses ailes dans les nues. Et l'image sera complète, si on le
+voit inclinant ses yeux, émus d'une pitié céleste, sur les monstres
+hurlants qu'écrase la corniche du monument.</p>
+<p><pb/></p>
+<p>CHAPITRE VI</p>
+<p>L'ANE</p>
+<p>« Samson trouva la mâchoire d'un âne : il étendit la main, il la prit,
+et tua avec elle mille Philistins. — Samson dit: « Avec la mâchoire d'un
+» âne j'ai frappé une troupe, deux troupes; avec » la mâchoire d'un âne,
+j'ai frappé mille hommes. »</p>
+<p><pb/></p>
+<p>se fait dire le poète, dans le prologue de ce dernier livre, et il
+répond sublimement: — Je fais mon devoir de flambeau.</p>
+<p>Mais cette ardeur qui dévorerait d'autres esprits ne fait qu'accroître
+le sien ; elle le nourrit, au lieu de le consumer.</p>
+<p>Par un temps d'orage, ils donnent l'hospitalité de</p>
+<p><pb/></p>
+<p>Le rôle que l'âne joue, dans le Nouveau Testament, n'est pas moins
+privilégié, ni moins distinctif. L'âne réchauffe de son haleine Jésus
+enfant, dans sa crèche ; il porte la Sainte Famille fuyant</p>
+<p><pb/></p>
+<p>Le moyen âge, lui aussi, consacra l'animal de Béthléem et de la Fuite en
+Egypte. Le peuple voyait, dans la croix noire qu'il porte sur son dos,
+le blason sacré de la monture du Sauveur.</p>
+<p>11 croyait que, pendant la nuit de Noël, la parole lui était donnée, et
+qu'il conversait alors avec le bœuf, son vieux compagnon de la Crèche.</p>
+<p><pb/></p>
+<p>Notre-Dame des Orgues, sous la garde de quatre chanoines, qui, deux fois
+par an, les promenaient en procession par les rues.</p>
+<p>« La prose chantée, on conduisait l'âne devant un râtelier garni de
+chardons, puis on chantait l'oftice. « A la fin de la messe », dit la
+Rubrique de la Fête, « le prêtre, tourné vers le peuple, au lieu de
+chanter lté missa est! braira par trois fois, ter hihinabit, et le
+peuple, au lieu de répondre :</p>
+<p><pb/></p>
+<p>Deo gratias, répondra trois fois : Hinham, Hinham, Tlinham ! »</p>
+<p>Le résultat ?</p>
+<p>Sur quoi, l'Ane, soufflé par le poète, entonne</p>
+<p><pb/></p>
+<p>hardiment son réquisitoire. C'est d'abord la cohue des docteurs et la
+mêlée des doctrines entrechoquées dans un sabbat admirablement pittoresque.</p>
+<p><pb/></p>
+<p>Et tombant, surgissant, passantes éternelles, S'évitant, se cherchant,
+les quatre sombres ailes Se poursuivent toujours, sans s'atteindre jamais.</p>
+<p>L'intérieur est plein d'on ne sait quel brouillard.</p>
+<p>Le râle du savoir s'y mêle au cri de l'art.</p>
+<p>0 machine farouche 1 on dirait que les meules Sont vivantes, et vont, et
+roulent toutes seules i Et l'on entend gémir l'esprit humain broyé: Tout
+l'édifice a l'air d'un monstre foudroyé.</p>
+<p>On s'appelle, on s'entr'aide, on s'insulte, on se hèle : On gravit,
+charge aux reins, la frémissante échelle ; Sous les pas des douteurs, on
+voit trernbler des ponts.</p>
+<p>","</p>
+<p><pb/></p>
+<p>Les meules, ébranlant la Tour de leur tangage, Échangent, sous la roue,
+on ne sait quel langage ; Les portas, pleines d'ombre, en tournant sur
+leurs gonds, Ont l'air de grommeler de monstrueux jargons.</p>
+<p>L'œuvre est étrange ; on voit les engrenages moudre Le bien, le mal, le
+faux, le vrai, l'ombre, la foudre, Et les réalités et les illusions.</p>
+<p>A mesure qu'aux trous des cribles, noire ou blanche, La mouture, en
+poussière aveuglante, s'épanchc; La Mort la jette aux vents, ironique
+meunier : On entend cette poudre affirmer et nier, Disputer, applaudir,
+et pousser des huées, Et rire en s'envolant dans les fauves nuées ; Et
+des bouches au loin s'ouvrent avidement A ces atomes fous que la nuit va
+semant.</p>
+<p>• ♦ • • ♦ • • •</p>
+<p>Et d'autres travailleurs montent d'autres fardeaux, Chacun ayant son sac
+de songes sur le dos; Et les quatre ailes vont, dans l'ouragan qui
+passe, Si vastes, qu'en faisant leur cercle dans l'espace, La basse est
+dans l'enfer et la haute est au ciel.</p>
+<p>Je viens de ce moulin formidable, Babel !</p>
+<p>Un des dons étonnants du génie de Victor Hugo est de faire passer une
+même idée par des formes d'un renouvellement magnifique. Ce monument de
+tumulte et de confusion, il le montre maintenant immobilisé dans une
+enfilade de doctes rayons. Imaginez Piranèse, ce Michel-Ange de</p>
+<p><pb/></p>
+<p>D'où sortent des lueurs, des visions, des songes, Et des mains que les
+morts mettent sur les vivants.</p>
+<p><pb/></p>
+<p>Je plains l'infortiat, qu'une puce escalade, Si la puce, agitant son
+stylet radieux, Saute, atôme effrayant, la largeur de la terre, Et la
+hauteur d'un siècle, et se nomme Voltaire.</p>
+<p>« Si les lions savaient peindre ! » disait un lion d'apologue, devant un
+tableau représentant un de ses semblables terrassé sous le genou d'un
+athlète.</p>
+<p>Dieu lui livre L'enfant, du paradis des anges encore ivre ;</p>
+<p><pb/></p>
+<p>Ce poète des géants est aussi, par excellence, le poète des petits.</p>
+<p>Après les enfants, les génies persécutés et bafoués par l'homme, qu'ils
+rachètent de la servitude des barbaries et des ignorances ; les grands
+flambeaux éteints par les crachats de la foule ; les précurseurs,
+conduits par les rétrogrades, sous une grêle de pierres, sous une
+tempête de huées, dans ces glorieux cabanons qui se sont appelés tour à
+tour la prison de Socrate, l'exil de Dante, le cachot de Galilée, Vin
+pace de Campanella.</p>
+<p>N'a qu'un débarcadère, appelé Charenton.</p>
+<p>La mercuriale se poursuit sur tous les tons et sur tous les modes,
+lyrique et comique, altière et</p>
+<p><pb/></p>
+<p>railleuse, avec des éclats de tonnerre, passant du coup de fouet au coup
+d'aile. L'Ane tourne, en poussant son cri de trompette, autour du morne
+phalanstère, bâti sur la table rase du passé, où le Communisme veut
+parquer l'humanité, numérotée comme au bagne; et ses murs grisâtres
+s'écroulent, découvrant l'horrible société que cela ferait.</p>
+<p>Un monde social sans pères, ( tabli Sur l'immensité morne et blême de
+l'oubli : Ils combinent Lycurgue et le pacha du Caire !</p>
+<p>L'homme enregistré naît et meurt sous une équerre : Le pied doit
+s'emboîter dans le niveau ; le pas Doit, avant de s'ouvrir, consulter le
+compas ;</p>
+<p>L'Ane se rappelant sans doute d'avoir tourné, pendant de longs siècles,
+dans l'ornière circulaire des puits primitifs proteste aussi contre le
+système et l'excès contraire : l'idolâtrie du passé, l'embaumement de
+l'usage, le recommencement éternel du fils radotant le père et du
+petit-fils rabâchant l'aïeul!</p>
+<p><pb/></p>
+<p>Ceux-ci, pires encor, sont l'extrême contraire , A force d'être fils, on
+cesse d'être frère; Le père, par l'aïeul, est lui-même éclipsé ;
+L'ancêtre seul existe : il se nomme Passé ; Il est l'immense chef
+vénérable et stupide ; Sa barbe est la sagesse, et le beau, c'est sa
+ride ; Il est mort ; c'est pourquoi lui seul est proclamé Vivant, et
+d'autant plus patent, qu'il est fermé.</p>
+<p>Jamais de novateurs, d'inventeurs, de prophètes ; Jamais de conquérants,
+toujours des héritiers ; Toujours les mêmes pas dans les mêmes sentiers
+; Le squelette lui-même entre leurs mains s'encroûte.</p>
+<p><pb/></p>
+<p>Mais c'est toujours, hélas ! du côté des tueurs, Que ton enthousiasme a
+le plus de lueurs ; Et, stupide, tu dis : « la bataille est gagnée 1 »
+Quand un boucher t'a fait une large saignée.</p>
+<p><pb/></p>
+<p>lune », les yeux tournés vers le firmament, le front plein de rêves.</p>
+<p><pb/></p>
+<p>vincible espérance dans leur motfinal, qui est Dieu.</p>
+<p>Tout marche au but ; tout sert. Il ne faut pas maudire.</p>
+<p>Le bleu sort de la brume, et le mieux sort du pire ; Pas un nuage n'est
+au hasard répandu ; Pas un pli du rideau du temple n'est perdu ;
+L'éternelle splendeur lentement se dévoile.</p>
+<p>Laisse passer l'éclipsé, et tu verras l'étoile !</p>
+<p>Du fond de l'idéal, Dieu serein nous fait signe; Et, même par le mal,
+par les fausses leçons, Par l'horreur, par le deuil, ô Kant, nous
+avançons !</p>
+<p>L'homme fait son progrès de ce qui fut son vice ; Le mal transfiguré,
+par degrés, fait le bien.</p>
+<p>Ne désespère pas et ne condamne rien.</p>
+<p>Dieu ne veut pas que rien, même l'obscurité, Même l'erreur qui semble ou
+funeste ou futile, Que rien puisse en criant: « Quoi ! j'étais inutile ! »</p>
+<p>Réponse admirablement consolante, mais qui paraît un peu brève. Une
+seule strophe, pour repousser trois mille vers éclatants de pessimisme</p>
+<p><pb/></p>
+<p>acéré, c'est assez pour la sécurité du penseur ; c'est trop peu,
+néanmoins, pour celle du lec'teur. Kant aurait pu réfuter l'Ane, par
+endroits, si de son monologue il avait fait un dialogue.</p>
+<p>Non, la science n'est pas vaine, puisque, dégagée des pesantes entraves
+qui ont si longtemps retardé sa marche, elle conquiert la Nature, en la
+sillonnant de ses voies exactes. Il y a des parties mortes, dans les
+bibliothèques, comme il y a des cimetières dans les villes; elles n'en
+sont pas moins les cités vivantes et nourricières de l'esprit humain. Le
+moulin de Babel moud autant de blé que d'ivraie. L'École garde encore
+bien des traces de la vieille crasse pédantesque ; elle s'en nettoie
+pourtant par degrés; l'air d'une éducation plus douce, la lumière d'un
+enseignement plus clair et plus harmonieux y pénètrent. L'homme reste,
+sans doute, un être cruellement imparfait ; mais, s'il ne s'est point
+sensiblement amélioré luimême, depuis tant de siècles, il a amendé ses
+lois et ses mœurs : l'atmosphère de la vie sociale s'est
+merveilleusement adoucie.</p>
+<p>Qui sait mieux cela que Victor Hugo, lui, le voyant de l'idéal, l'apôtre
+inspiré du progrès, le psalmiste des Terres promises, vers lesquelles sa</p>
+<p><pb/></p>
+<p>L'exécution est prodigieuse ; jamais la pensée de Victor Hugo n'a mordu
+plus fortement l'airain de son style. Ce qui le caractérise dans ce
+poème, c'est une sorte de concision gnomique, ou, pour mieux dire,
+lapidaire, qui frappe presque chaque vers au coin du proverbe. L'idée se
+ramasse dans un mot, la métaphore se profile d'un trait ; les raccourcis
+abondent, comme dans certaines fresques des maîtres. L'intensité de la
+couleur n'est pas moins frappante. Tous les tons se heurtent, sans
+dissonnances, dans cette langue unique ; tous les contrastes s'y fondent
+dans une violente harmonie. La caricature magistrale scintille sur le
+vers burlesque ; tel morceau semble un duo de</p>
+<p><pb/></p>
+<p>Dante alternant avec Rabelais. Et partout le détail exquis, déroulé en
+vives spirales d'arabesques, sur la forte ampleur des ensembles ; Yalta
+fantasia de la rime, éclatant en accords si rares, qu'ils font songer à
+des timbres d'instruments de musique inconnus.</p>
+<p>Un bas-relief de la cathédrale de Chartres montre un âne accroupi dans
+une stalle de chantre, et jouant gravement du rebec. Le poème de VAne
+vient d'enchâsser une sculpture semblable, dans le monument colossal de
+Victor Hugo. Mais, au lieu du rauque instrument gothique, cet Ane
+transfiguré tient la grande lyre où résonnent toutes les voix du siècle,
+et dont le monde retentit depuis soixante ans.</p>
+<p><pb/></p>
+<p>CHAPITRE VII</p>
+<p>LES QUATRE VENTS DE L'ESPRIT</p>
+<p><pb/></p>
+<p>Le héros des deux pièces est le Duc Gallus, coq de haute Cour, qui a,
+pour ergot un éperon d'or, et pour crête, un cimier ducal ; coq
+grisonnant, d'ailleurs, et légèrement déplumé. Gallus, landgrave de
+Souabe, a cinquante ans, et il est assis sur un trône usurpé. Son frère
+aîné, en mouraut, lais-</p>
+<p><pb/></p>
+<p>sait un fils parfaitement légitime : Gallus ne supprima pas l'enfant.
+Nous sommes en plein dixhuitième siècle, le temps de ces férocités
+mérovingiennes est passé. Au lieu de le cloîtrer dans un monastère, il
+l'a interné dans une forêt.</p>
+<p>Mon frère mort, l'ennui Me prit. Être sujet d'un marmot, c'était rude ;
+Je fis je ne sais plus trop quelle platitude A Kaunitz, et je fus
+reconnu duc régnant.</p>
+<p>Je me débarrassai du mioche, en l'éloignant.</p>
+<p>Dans ces bois, comme fils d'un vieux maître de forge.</p>
+<p>Je l'ai fait élever. C'est l'étudiant George.</p>
+<p>Incognito, tout seul avec toi, sans escorte, Je viens, de temps en
+temps, voir comment il se porte.</p>
+<p>Il ne se doute pas qu'il est duc.</p>
+<p>Cette couronne dérobée ne pèse d'ailleurs, pas plus qu'une plume, au
+front de Gallus : pas un repentir etpas un scrupule ; raison d'État
+entraîne grâce d'État.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Gallus est en chasse, quand la comédie s'ouvre.</p>
+<p>Moi 1 des crimes, fi donc ! Mais des vices, parbleu !</p>
+<p>C'est dans un burg vieux d'une forêt de la Souabe, que Gallus croit
+dénicher cette Chimère, qu'il a vue sans doute voltiger en rêve, sous le
+ciel de lit des romans de Laclos et de Crébillon fils. Il s'est
+introduit, avec Gunich, dans la place, vaste salle en ruine, ouverte aux
+vents par ses volets descellés, où « le dénûment rustique se mêle au
+délabrement seigneuriale.</p>
+<p><pb/></p>
+<p>— Que sais-tu d'elle ?</p>
+<p>- Rien. — Son nom, c'est tout. Nella.</p>
+<p>Donc, c'est dans ce taudis qu'habite cette fille ?</p>
+<p>- Avec son père.</p>
+<p>- Seule en ce burg !</p>
+<p>- Sans famille.</p>
+<p>- Elle a tous les attraits, me dis-tu ?</p>
+<p>- Héunis.</p>
+<p>- Le plus beau des oiseaux dans le plus laid des nids!</p>
+<p>Mais voici la fée qui rentre dans sa ruine : elle n'est pas seule, elle
+s'appuie au bras d'un jeune homme, en qui le duc Gallus a reconnu son
+neveu.</p>
+<p>Carambolage !</p>
+<p>Cependant les pas et les voix se rapprochent, le jeune couple entre dans
+la salle, et poursuit son dialogue d'amour. On sait comment Victor Hugo
+fait chanter les âmes printanières. Il y a un seul obstacle au mariage
+des deux amants : l'orgueil du père, ruiné comme son burg, déchu comme
+sa tour, qu'on voit par la fenêtre, courbé sur sa charrue, dans le pré
+voisin, mais en qui les préjugés de race restent enracinés jusqu'au fond de</p>
+<p><pb/></p>
+<p>l'être. George se désespère. Nella l'encourage.</p>
+<p>Le père est bon, Dieu les aidera.</p>
+<p>- Tu serais roi, T'aimerais-je mieux?</p>
+<p>— Non, mais tu serais ma femme !</p>
+<p>— George, dites-moi : Vous. Ne troublez pas mon âme.</p>
+<p>Avant qu'il parle, elle lui tend, par la lucarne, sa main, qu'il baise
+avec des transports passionnés. Rien de plus chaste et de plus charmant.</p>
+<p>Gallus a tout vu et tout entendu; il s'entête pourtant dans ses projets
+séducteurs. Sa fatuité tient bon, sa rouerie se pique. Si George a se?</p>
+<p>C'est ici que Nella se révèle dans son auguste innocence : moitié
+princesse, moitié paysanne ; âme altière et cœur ingénu. Nullement
+étonnée de la brusque entrée de cet inconnu, elle répond</p>
+<p><pb/></p>
+<p>Ou bien, tout en causant, je couds, près de sa chaise.</p>
+<p>Puis, mon père me tend ses bottes, je les ôte.</p>
+<p>— Ensuite ?</p>
+<p>Il m'embrasse, et l'on va dormir.</p>
+<p><pb/></p>
+<p>..Mais par des cheveux blancs le cœur n'est pas pris.</p>
+<p>— J'aime les cheveux blancs, et non les cheveux gris,</p>
+<p>Nul moyen d'éblouir cette servante aux allures de reine : le Duc l'a
+essayé, en écartant son habit qui découvre sa plaque et son grand cordon.</p>
+<p>Monsieur, si vous croyez me faire de l'effet, Parce que vous ouvrez
+votre habit, de manière A montrer un crachat sous votre boutonnière, Et
+dans votre gilet le coin d'un cordon bleu, Vous vous trompez !</p>
+<p>Et elle écarte les volets du portrait en pied d'un homme de guerre, en
+uniforme de feld-maréchal, avec le même grand cordon que porte le duc.
+Celui-là, c'est l'aïeul.</p>
+<p>Voici l'autre portrait, tracé en vers, d'une mé-</p>
+<p><pb/></p>
+<p>Je sais qu'il eut le tort d'être pour le vaincu.</p>
+<p>Le vainqueur le frappa : l'on mit sous le séquestre Ses fiefs
+seigneuriaux, rayés de l'ordre équestre Puis, on le fit soldat ; le
+bur-g fut son exil.</p>
+<p>Il laboure son champ. Lui, cousin des margraves Quoiqu'il fût le plus
+brave au milieu des vieux braves, Les jeunes officiers n'ont pas l'air
+de le voir, 11 fait le blé, je fais le pain. Calme, le soir, Il s'en
+revient, traînant le soc parmi les plaines, Tandis que le soleil descend
+dans les grands chênes.</p>
+<p>Il regarde souvent ce portrait, son trésor.</p>
+<p>Et moi, je suis sa fille et je suis sa scrvante, Et c'est ce qu'on
+appelle être un homme déchu.</p>
+<p><pb/></p>
+<p>le bas de la robe de cette vierge, dont, en entrant, il voulait
+chiffonner le fichu. Mais le poète lui prête un élan sublime, pour le
+tirer de sa sotte esclandre. George arrive, croyant trouver Nella seule
+: en même temps, entre le baron, accoutré d'un haillon de laboureur
+par-dessus son habit de soldat. Le Duc dénonce les amours des deux
+jeunes gens au vieillard, leurs rendez-vous furtifs, dont il a été le
+témoin caché. Le père s'indigne.</p>
+<p>George, furieux, provoque le vil espion, qui a violé leur chaste secret.</p>
+<p>— Ton nom ?</p>
+<p>Sur quoi, Gallus se redressant d'un mouvement superbe : - Je suis
+Gallus, landgrave de Souahe, Le frère du feu duc régnant, George premier.</p>
+<p>L'Allemagne n'a pas de famille plus grande, Et, monsieur le baron
+d'Holburg, je vous demande En mariage, ici, votre fille Nella Pour mon
+neveu, le duc George deux, que voilà.</p>
+<p><pb/></p>
+<p>Je cherche un grain de mil et je trouve une perle,</p>
+<p>Un paysage de halle champêtre, une route qui serpente entre les arbres,
+sur le versant d'une colline. En bas, une maisonnette pauvre; Peaud'Ane
+pourrait y loger. Devant, une source encadrée de pierres frustes dans un
+massif de</p>
+<p><pb/></p>
+<p>Vous avez du bonheur, hein ? Plus d'une jalouse.</p>
+<p>Vous sentez bien que moi qui suis un gros fermier Ayant acquêts et baux
+francs de droit coutumier,</p>
+<p><pb/></p>
+<p>Etre madame Harou, quel sort pour une fille !</p>
+<p>Moi, pas. Ah ! par exemple, il faudra travailler.</p>
+<p>Nos bans sont publiés. Je vous ai fait cadeau Du parapluie, afin que,
+s'il tombe trop d'eau, On ne s'en serve point, parce qu'il est en soie.</p>
+<p>Et nous nous marions tantôt. Vive la joie !</p>
+<p>Lison avait rêvé autre chose, un prince Azur, entrant, un astre au
+front, dans sa chambre, et lui disant: « Je t'offre un palais ! »</p>
+<p>(t Ce n'est pas ça », dit-elle, en considérant maître Harou. Elle s'est
+fait de l'amour une vision de luxe, d'oisiveté, de délices ; la chute
+est rude, de tomber de ce paradis dans le taudis de ce rustre. Mais la
+misère est là, plus hideuse encore</p>
+<p><pb/></p>
+<p>— Un homme fait de flamme !</p>
+<p>Croquons-la !</p>
+<p>Lison, tentée, s'effarouche d'abord et hésite, mais la résistance n'est
+pas longue. Voici Harou, qui revient la prendre pour la noce, dans sa
+carriole infecte où grince un violon. Gallus l'enlève</p>
+<p><pb/></p>
+<p>Quelle féerie que ce prologue enchanteur, couleur du songe et couleur du
+temps. Une Eve de Watteau, tentée par un Satan rococo ! Un merveilleux
+tableau, décoré et machiné par le plus grand despoètes. La musique même
+n'y manque pas, et ce sont ses vers.</p>
+<p>Et, plein d'extase, ainsi que jadis Salomon Je regarde sortir d'une
+perle un démon.</p>
+<p>Cependant le vieux Gunich flaire un amour sérieux sous cette railleuse
+insouciance. À son avis,</p>
+<p><pb/></p>
+<p>le prince est le dévot honteux de cette idole, dont il.se dit l'athée,
+tout en la comblant de dons et d'offrandes.</p>
+<p>Prenez garde 1 Quelque chose se passe au fond de votre cœur.</p>
+<p>Vous êtes un captif, qui se drape en vainqueur.</p>
+<p>C'est une maladie étrange, propre aux hommes ,¡.. Très corrompus, blasés
+exquis comme nous sommes D'idolâtrer avec dédain, et d'être pris Parfois
+profondément, tout en disant : « Je ris ! »</p>
+<p>Est-on jaloux ? fi donc! Tendre? quelle bêtise !</p>
+<p>Si quelqu'un vous pénètre et dans votre âme lit, On se fâche ; on se
+sent comme en flagrant délit.</p>
+<p>Jouer les Arnolphes, aux pieds d'une fille qu'il a ramassée sur un grand
+chemin ! Pour qui le prend ce plat confident? Gunich insiste. Tous les
+matins Zabeth reçoit un bouquet et unécrin, de deux amoureux clandestins
+; un troisième fait jouer, sous ses fenêtres, une aubade. Gunich a percé
+le le mystère de cette trinité galante.</p>
+<p>Le premier, le jeune offrant des roses, C'est vous. L'autre, plus vieux,
+donnant ces belles choses, Ces diamants, c'est vous. Le troisième, à
+genoux, Aussi lui, le seigneur des aubades, c'est vous.</p>
+<p><pb/></p>
+<p>0 stupide espion 1 voleur plus bête encore !</p>
+<p>Que ne suis-je encor roi, pour que je te décore De l'ordre d'ânerie
+inventé tout exprès !</p>
+<p>.,.</p>
+<p>Faut-il qu'au point du jour, sous tes volets, je rôde?</p>
+<p>Dois-je faire couler la perle et l'émeraude En rivières, autour de ton
+vieux cou ridé ?</p>
+<p>Dois-je te déclarer Sultane Validé.</p>
+<p>"'-"-</p>
+<p>Trouves-tu qu'être aimable est au-dessous de moi V Trop de distance !
+Elle est goton, et je suis roi.</p>
+<p>Non, bélitre ! Elle est femme, et je suis gentilhomme.</p>
+<p>Être amoureux ! Jamais. Non. Mais être économe, Non plus. Garder son
+cœur, dépenser son argent, C'est ma mode</p>
+<p>Ainsi va-t-il, boudant âprement contre son jeu, étincelant et désespéré
+; tenant, jusqu'au bout, la triste gageure de sa rouerie, qui n'est, au
+fond, que la pudeur de son âge, se déchirant aux paradoxes qu'il lance
+et aux saillies qu'il aiguise. Rien d'é-</p>
+<p><pb/></p>
+<p>mouvant comme ce dialogue monté au ton d'un âcre comique, qu'on sent
+plein d'angoisses étouf fées et de sanglots ravalés !</p>
+<p><pb/></p>
+<p>C'est l'amour. Je n'ai pas ce pain sacré de l'âme, Et je me sens haïe,
+et je me vois infâne.</p>
+<p>Soyez maudit!</p>
+<p>Sa colère monte et prend des accents de vengeresse tenant un coupable.
+Chaque mot marque, chaque trait déchire. Il semble qu'on entende frémir
+un fer rouge ou siffler un fouet.</p>
+<p>Monseigneur ! monseigneur ! que vous ai-je donc fait?</p>
+<p>Qu'avcz-vous fait de moi ? L'aveugle, mal conduit, Maudit son guide
+traître. Hélas ! j'étais la nuit, Et vous avez été la mauvaise lumière.</p>
+<p>Vous fûtes l'incendie et j'étais la chaumière.</p>
+<p>Ah ! duc ! vous m'avez fait une affreuse arrivée Dans la chute, par
+l'âcre et fausse ascension Et par l'enivrement dans la perdition !</p>
+<p>Oui, j'étais l'alouette. Est-ce un crime ? Hélas ! être, Moi, la pauvre
+aile folle, et vous le miroir traître, Ce fut notre destin. Moi, vaine
+et sans effroi ; Vous, sans frein et frivole ! A quoi bon être roi, Si
+l'on n'a dans le cœur quelque haute chimère ?</p>
+<p>Créer ! rien n'est plus beau ; vous avez, duc féal, Voulu réaliser enfin
+cet idéal, Le but noble où le cœur d'un grand prince s'applique, El
+c'est pourquoi je suis une fille publique 1</p>
+<p><pb/></p>
+<p>Un, c'est le paradis, et l'enfer, c'est plusieurs.</p>
+<p>J'ignorais! ils savaient. Un jour, Tremblante, nue, Je me suis vue au
+fond de l'opprobre, ingénue !</p>
+<p>On ne sait pas toujours quel est le grain qu'on sème.</p>
+<p>On s'imagine avoir le droit de s'omuser, Et que, puisqu'on nous dore, on
+peut bien nous briser !</p>
+<p>.Où donc êtes-vous, fleurs des champs?</p>
+<p>Elle se reporte vers l'avenir, misérable sans doute, dont elle a été
+détournée ; elle s'entrevoit tombant dans quelque passion hasardeuse et
+sombre. Tout au moins, c'eût été le gouffre et non point la boue.</p>
+<p>Mais, direz-vous, avoir ce lourd fermier pour maître M'eût froissée, et
+j'aurais eu quelque amant? Peut-être.</p>
+<p>J'eusse pu rencontrer. oui, pourquoi le nier ?</p>
+<p>Quelque âpre aventurier des bois, un braconnier.</p>
+<p>Que sais-je ? un voleur 1 oui, dans l'antre et dans l'ortie,</p>
+<p><pb/></p>
+<p>Et je vivrais ainsi, pauvre avec l'homme sombre, Habitant le halier, la
+fuite, le décombre, Aussi hors de la loi que l'aigle et le vautour, Nue,
+en haillons, sans gîte. — Eh bien, j'aurais l'amour!</p>
+<p>Et j'entendrais, peut-être, en cette vie amère, Une petite voix qui me
+dirait : « Ma mère ! »</p>
+<p>Et mon voleur aurait de l'estime pour moi</p>
+<p>Vous êtes prince et vieux, deux choses que je hais, Eh bien, pourtant,
+peut-être, hélas ! nos vains souhaits Gardent au fond de l'ombre une
+porte fermée ; Je vous aurais aimé, si vous m'aviez aimée !</p>
+<p>Dix fois il a voulu l'interrompre ; mais on n'arrête, pas un torrent qui
+roule vers l'abîme. Tout d'un coup, elle tire de son corsage une bague
+italienne qui recèle le plus violent des poisons, et qu'elle approche de
+ses lèvres.</p>
+<p>Qu'a-t-elle dans la main, grand Dieu ?</p>
+<p>- Ce qui délivre.</p>
+<p><pb/></p>
+<p>Une nuit, vous étiez ivre, usage des grands.</p>
+<p>Je vous ai pris ceci.</p>
+<p>- L'anneau !</p>
+<p>- Je vous le rends.</p>
+<p>— Ciel ! mais c'est un poison ! la mort terrible et prompte.</p>
+<p>— Boire la mort n'est rien, quand on a bu la honte.</p>
+<p>Adieu, je prends mon vol, triste oiseau des forêts.</p>
+<p>Personne ne m'aima, je meurs.</p>
+<p>Je t'adorais !</p>
+<p><pb/></p>
+<p>cri d'amour. Je ne sais rien, au théâtre, de plus déchirant et de plus
+poignant.</p>
+<p>Le Livre Satirique égale les Châtiments par la puissance de la pensée et
+l'éclat acéré du style.</p>
+<p><pb/></p>
+<p>sur lequel ce passant fixe l'inexplicable lueur de ses yeux ! »</p>
+<p>Que de grandes pages terriblement humifiantes sur les vanités de la
+gloire et de la puissance !</p>
+<p>Il semble qu'on entende rouler la tête de mort que les Anciens jetaient
+entre les coupes du banquet, dans ces vers qui sonnent le creux du néant
+humain :</p>
+<p>On est le grand passant -d'Arcolé et d'Iéna ; On est le cavalier de la
+victoire ; on a Pour soleil Austerlitz et pour ombre Brumaire,Si bien
+que Juvénal vous prend aux mains d'Humè,'è ; Cela n'empêche pas le
+sternum d'exister.</p>
+<p>Qui frappe? C'est la mort qui vient tous déboLler.</p>
+<p><pb/></p>
+<p>Sire !</p>
+<p>Hélas ! mon prince, on meurt brutalement et vite.</p>
+<p>Il suffit d'un cheval emporté, d'un gravier Dans le flanc, d'une porte
+entrouverte en janvier, D'un rétrécissement du canal de l'urètre, Pour
+qu'au lieu d'une fille on voie entrer un prêtre.</p>
+<p>Ailleurs, ce sont les hiérarchies du cimetière, les préséances du
+sépulcre, que raille une autre satire ; et c'est d'un masque
+tragi-comique de squelette, que semblent sortir ces poignants sarcasmes :</p>
+<p><pb/></p>
+<p>Quant aux morts indigents, on leur donne congé; On chasse d'auprès d eux
+le sanglot prolongé ; Et le pauvre n'a pas le droit de pourriture.</p>
+<p>Un jour, on le déblaie. On prend sa sépulture, Pour grandir d'une toise
+un monument pompeux.</p>
+<p>- Misérable, va-t'en ! Deviens ce que tu peux.</p>
+<p>Quoi ! tu prétends moisir ici, parmi ces marbres, Faire boucher le nez
+aux passants, sous ces arbres, Te carrer sous cette herbe, être au fond
+de ton trou Charogne comme un autre, et tu n'as pas le sou !</p>
+<p>Qu'est-ce que ce mort-là, qui n'a rien dans sa poche !</p>
+<p>Le Livre lyrique est un enchantement per-</p>
+<p><pb/></p>
+<p>pétiiel : mélodies et mélancolies, voix de la pensée et murmures du
+rêve, épanchements intarissables du cœur, élans éperdus de l'àme vers
+l'impénétrable Infini. Ces poèmes, nés dans l'exil, sont attristés de sa
+teinte ; sur leurs pages les plus rayonnantes, l'idée de la France
+absente projette sa grande ombre. Telle pièce — Aux Oiseaux et aux
+Nuages — semble un chant de flûte pastorale, qu'interromprait une
+clameur d'angoisse : 0 vierges du zénith, nuées, 0 doux enfants de
+l'air, oiseaux, Blancheurs par l'aube saluées, Que contemple l'œil bleu
+des eaux ;</p>
+<p>Vous, qu'Ève nomma la première ; Vous, pour qui le Dieu redouté Fit cet
+abîme, la lumière, Et cette aile, la liberté.</p>
+<p>Que dit-on, dans la nuit sereinr, Que pense-t-on, dans la clarté, De
+toute cette honte humaine, Qui rampe sous l'immensité ?</p>
+<p>« Ce qu'il y a au fond du bassin de Pilate », on pourrait intituler
+ainsi le morceau qui suit. Il faut choisir entre le bien et le mal : qui
+ne proteste</p>
+<p><pb/></p>
+<p>pas contre l'iniquité, pactise avec elle ; abstention est complicité.
+C'est l'idée que concentre cette image sublime, où le Calvaire apparaît
+vaguement dans l'eau trouble, qu'ont salie, sans s'y purifier, les mains
+équivoques.</p>
+<p>Tel qui renie un meurtre en est le vrai ministre.</p>
+<p>Trois gibets, deux voleurs se tordant sous les cordes, Les cieux
+mystérieux, ,pleins. de miséricordes S'ouvrant pour recevoir l'affront,
+Et, sur la croix du centre, en une nuit sans lune, Un Juste couronné
+d'épines; dont chacune Purce une étoile sur son front!</p>
+<p>Ce long exil que Victor Hugo a subi d'un cœur si hautement inflexible,
+quelques pages du Livre lyrique nous en donnent le journal intime :
+tristesses sans doute, regrets déchirants de la patrie perdue, souvenirs
+en larmes des nids vides et des tombeaux délaissés : mais aussi joies
+profondes du devoir fièrement accepté, approbations</p>
+<p><pb/></p>
+<p>de la conscience satisfaite, paix de l'âme contente d'elle-même et
+qu'aucune tempête du sort ne saurait troubler.</p>
+<p>a marché sur lui pour le prendre.</p>
+<p>Il venait, sur la terre sombre ; Son pas sonnait comme un marteau.</p>
+<p>Maintenant il me tient dans l'ombre, Et son ongle est sur mon manteau.</p>
+<p>Mais, au lieu d'angoisse et de peine, J'ai le calme et la joie au cœur.</p>
+<p>Le lion s'est mie, dans l'arène, ,</p>
+<p>A lécher le gladiataur.</p>
+<p><pb/></p>
+<p>Qu'importe ce que souffre Mon atome, au hasard emporté dans le gouffre ?</p>
+<p>D'autres ont plus souffert qui valaient mieux que moi.</p>
+<p>Tout est bien.</p>
+<p>Crois-tu pas que je veux pleurnicher mon exil ?</p>
+<p>Cette terre étrangère elle-même, dont il constate le froid presque
+hostile, ce rocher anglais aussi dura gravir, que l'était, pour Dante,
+la scala d'altrui, le poète la bénit et la remercie : il paie, en vers
+magnifiques, sa précaire hospitalité.</p>
+<p>Sois bénie, île verte, amour du flot profond !</p>
+<p>Là, le lutteur serein, naufragé de la vie, Pense, et, sous l'œil de
+Dieu, sur cet écueil vermeil, Laisse blanchir son âme, ainsi que le
+soleil Blanchit sur le gazon les linges des laveuses.</p>
+<p>j L'idée du suicide hante parfois la nostalgie des proscrits : les
+strophes de Pati barrent le passage, avec une admirable éloquence, à
+l'évasion de ces prisonniers de la vie. Pourquoi trainer une chaîne
+qu'un stylet peut rompre ? Pourquoi lan-</p>
+<p><pb/></p>
+<p>guir sur une destinée incurable, quand le remède héroïque est là, dans
+une coupe avalée d'un trait?</p>
+<p>Brutus a-t-il mal fait? Caton avait-il tort ?</p>
+<p>Oui, Caton a mal fait ; oui, Brutus avait tort ; Le sage est mal sorti,
+l'intrépide est mal mort.</p>
+<p>Le suicide est une fuite.</p>
+<p>Dieu, qui seul a le droit d'éteindre le flambeau, Quand ces grands
+essoufflés sont entrés au tombeau, Ne leur a dit qu'un mot : « Trop vite
+! »</p>
+<p>Entre ces poèmes austères, gazouillent ou soupirent des chansons ailées,
+qui feront leurs nids dans toutes les mémoires : vol de colombes
+voyageuses lancées vers la France, et qui lui portent l'amour du plus
+glorieux de ses fils : Proscrit, regarde les roses ?</p>
+<p>Mai joyeux, de l'aube en pleurs Les reçoit toutes écloses; Proscrit,
+regarde les fleurs?</p>
+<p><pb/></p>
+<p>- Je PL-lise Aux roses que je semai.</p>
+<p>Le mois de mai, sans la France, Ce n'est pas le mois de mai.</p>
+<p>C'est le Super flumina de la proscription.</p>
+<p>D'autres strophes battent de l'aile sur le rivage, vers les chères
+tombes qu'elles ne peuvent rejoindre, et auxquelles elles envoient leurs
+sanglots lointains : Si je pouvais, — mais, ô mon père, 0 ma mère, je ne
+peux pas, — Prendre pour chevet votre pierre, Hélas !</p>
+<p>Si je pouvais, ô ma colombe, Et toi, mère qui t'envolas, M'agenouiller
+sur votre tombe, Hélas!</p>
+<p>Oh ! vers l'étoile solitaire Comme je lèverais les bras!</p>
+<p>Comme je baiserais la terre, Hélas !</p>
+<p>La mer baigne ces poèmes de l'exil, et on peut</p>
+<p><pb/></p>
+<p>dire qu'elle les cerne, comme tous les autres livres qui en sont datés.
+Dans la première partie de son œuvre, Victor Hugo peignait la mer avec
+une incomparable largeur, mais par rencontres seulement et par
+échappées. Depuis ses dix-huit ans de cohabitation avec l'Océan, ce
+n'est plus par golfes et par perspectives, qu'il apparaît dans cette
+œuvre ; il l'envahit tout entière, il l'environne et il la pénètre en
+tous sens ; il s'y reflète dans ses splendeurs et dans ses fureurs, dans
+ses rayonnements et dans ses ténèbres, dans les métamorphoses infinies
+de ses formes et de ses couleurs.</p>
+<p>Et ce n'est pas seulement sa face visible, c'est son âme secrète, sa
+volonté occulte, le concert mystérieux de ses forces sourdes et aveugles
+que le poète interroge.</p>
+<p><pb/></p>
+<p>Au fond des vagues sans nombre, On voit, sous l'épaisseur sombre Du flot
+bruni, Leur bouche, ouverte et terrible, Qui boit la stupeur horrible De
+l'infini.</p>
+<p>La statue, surnaturellement animée, descend</p>
+<p><pb/></p>
+<p>Les deux fantômes équestres débouchent sur le carrefour, où triomphe,
+dans une attitude olympienne, Louis XIV, foulant aux pieds de son cheval
+quatre Nations abattues.</p>
+<p>Quel est ton crime, ô toi qui vas, tête sinistre, Plus pâle que le
+Christ sur son noir crucifix?</p>
+<p>- Je suis le petit-fils de votre petit-fils.</p>
+<p>- Et d'où viens-tu ?</p>
+<p><pb/></p>
+<p>- C'est la fin, dit la tête au regard sombre et doux.</p>
+<p>- Et qui donc l'a construite ?</p>
+<p>— 0 mes pères, c'est vous 1</p>
+<p>Quel rêve ! quel symbole ! Qu'on se figure la statue du commandeur
+triplée et jetée dans un nouveau moule, agrandie aux proportions de
+l'histoire, et en sortant, cent fois plus tragique.</p>
+<p>Sur leur passage, les trois rois d'outre-tombe sont poursuivis par les
+malédictions des Masques</p>
+<p><pb/></p>
+<p>grimaçants du Pont-Neuf, emblèmes du peuple écrasé par eux. Il les
+confondent, tous les trois, dans la même haine.</p>
+<p><pb/></p>
+<p>mis en coupe réglée, l'agriculture renaissante, le travail encouragé,
+l'industrie créée, un profond et cordial souci des souffrances du peuple. —</p>
+<p>En revanche, quel jugement décisif et irrévocable, que ce portrait de
+Louis XV, modelé, en quelque sorte, dans la boue sèche dont sa lâche
+nature fut pétrie ! Ici, pas un ton forcé, pas un trait grossi ; mais
+l'invectiye exacte, l'indignation précise, l'autopsie d'une âme
+gangrenée et d'un règne pourri, faite d'un vers qui a la certitude du
+scalpel, par le maître du mépris et de la colère.</p>
+<p><pb/></p>
+<p>Ce quatrième-HI, comment le raconter?</p>
+<p>Venu pour tout corrompre et pour tout éhonter, Il ne fut pas le roi du
+sang, mais de l'écume.</p>
+<p>L'autre était le soleil, il vint, et fut la brume ; Il fut l'impur
+miasme, il fut l'extinction De la dernière haleine et du dernier rayon ;
+Il répandit, sur l'âme humaine exténuée, Tout ce que le bourbier peut
+jeter de nuée.</p>
+<p>D'autres rois ont été flairés par les orfraies ; Ils ont été les pleurs,
+les tortures, les plaies, Les terreurs, les fléaux ; celui-ci fut
+l'affront; On vit, sous lui, le front de la France, ce front Où la lueur
+de Dieu s'épanouit et monte, Apprendre la courbure horrible de la honte;
+0 deuil ! le drapeau franc et la peur mariés ; Deux vils sauve-qui-peut,
+en même temps, criés Ici par la faillite, et là, par la déroute ; La
+vieille honnêteté publique croulant toute; L'honneur mort; dans un
+siècle, un seul jour : Fontenoy ; Ce règne est une cave, et, sous ce
+lâche roi, Tout s'éclipse, grandeur, victoire, exploits célèbres; Et, de
+mille fils noirs traversant les ténèbres, Tout au fond, arrêtant dans
+leur vol vers l'azur La grâce, la beauté, la jeunesse au front pur, Son
+lit sombre rayonne en toile d'araignée.</p>
+<p>Et cependant la terre est d'aurore baignée,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Quelque horrible pilier de l'antique édifice ; Au fond du Parc-aux-Cerfs
+rêvant le Saint-Office ; Ayant le mal pour but, la fange pour chemin ;
+Ténébreux, soupçonné de bains de sang humain ; Foulant aux pieds le
+droit et la vertu, chimères ; Infâme, soulevant des émeutes de mères;
+Froid regard, pied sali, front hautain, cœur fermé : Comment nommer ce
+roi. sinon le Bien-Aimé ?</p>
+<p>On le méprise tant, ce malheureux, qu'on pleure.</p>
+<p>Monstre! il suffit qu'un fou d'une épingle l'effleure, Pour que ce
+Prusias devienne un Busiris, Pour qu'on voie, au milieu de l'horreur et
+des cris, Cent tourments, plus d'enfer que n'en a rêvé Dante, Le feu,
+l'arrachement des membres, l'huile ardente, Le plomb fondu qui fait d'un
+coupable un martyr, Toute une éruption de supplices sortir De son
+égratignure élargie en cratère.</p>
+<p>0 misérable ! il est le dégoût de la terre ; Il est l'éclat de rire
+insolent de vingt rois ; Et l'histoire lui tend l'opprobre et lui dit: «
+Biis ! »</p>
+<p><pb/></p>
+<p>personne ne le descendra de la hauteur d'infamie, où le génie de Victor
+Hpgo l'a dressé.</p>
+<p>1</p>
+<p>FIN</p>
+<p><pb/></p>
+<p>TABLE</p>
+<p>Note des éditeurs. 1 VICTOR HUGO.,.,.,..,.. i LES DRAMES I. IIernani. ,
+, , 25 II. Marion Delorm 43 HI. Lucrèce Borgh. 69 IV. Marie Tudor. 89 V.
+Huy Blas. 117 LES ROMANS</p>
+<p>I. Les Misérabl cs. 143 II. Les Travailleurs de la mer. 161 III.
+Quatrc-vingt-treize. 181 LES POÉSIES I. La Légende des Siècles (deuxième
+s-h-ir)., 205 IL Les Chansons des rues et des bois.,. 255 III. L'Année
+terrible. 273 IV. L'Art d'être grand-père. 291 V. La Pitié suprêe. 315
+VI. L' A ne. 325 VII. Les quatre vents de l'Esprit 345</p>
+<p>FIN DE LA TABLE.</p>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>DERNIÈRES PUBLICATIONS</p>
+<p>FORMAT GRAND IN-t8 A 3 FR. 50 LE VOLUME</p>
+<p>ARMAND D'ARTOIS vol.</p>
+<p>Le Capitaine Ripaille. 1 ÉMILE AUGIER Théâtre complet, 7 F. BRUNETIÈRE
+Conférences de l'Odéon.. 1 ÉDOUARD CADOL Mademoiselle Raymonde 1 TH.
+CAHU Combat d'amours. 1 MADAME E. CARO Fruits amers. 1 A. CHABOT Le,
+Marquis de SaintEtienne. 1 ALEXANDRE DUMAS FILS Nouveaux Entr'actes. 1
+CH. EDMOND Jean Dhasp. 1</p>
+<p>ÉTINCELLE vol.</p>
+<p>Josette. 1 ANATOLE FRANCE La Vie littéraire. 4 GYP Mariage civil. 1
+LUDOVIC HALÉVY Karikari. 1 EUGÈNE LABICHE Théâtre complet. 10 ANATOLE
+LEROY-B EAULIEU La Papauté, le Socialisme et la Démocratie' 1 PIERRE
+LOTI Fantôme d'Orient. 1 J. RICARD Moumoute. 1 J LÉON DE TINSEAU Mon
+oncle Alcidc. 1</p>
+    </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Bossert, Adolphe (1832-1922)">Adolphe Bossert</author>
+<title>Schopenhauer : l'homme et le philosophe / A. Bossert</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Bossert, Adolphe (1832-1922)</author>, <title>Schopenhauer : l'homme et le philosophe / A. Bossert</title>, <date>1904</date>,description :,360 pages
+</bibl>
+<publisher>Hachette (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k76012v</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1904">1904</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p>COUVERTURE SUPERIEURE ET INFERIEURE EN COULEUR</p>
+<p><pb/></p>
+<p>A. BOSSERT</p>
+<p>SCHOPENHAUER l'HOMME ET LE PHILOSOPHE</p>
+<p>Un'y n rien de plus facile,</p>
+<p>mais aussi rien de plus inutile</p>
+<p>que de</p>
+<p>PARIS LIBRAIRIE HACHETTE ET Cie 79, BOULEVARD SAINT-GERMAIN, 79</p>
+<p>1904</p>
+<p><pb/></p>
+<p>BIBLIOTHEQUE VARIÉ, FORMAT IN-16</p>
+<p>PUBLICATIONS PHILOSOPHIQUES</p>
+<p>ROUILLER, de l'Institu La vraie cons- de psychologie et de</p>
+<p>morale. 1 vol.</p>
+<p>-Nouvelle Etudes familières de psychologie et de morale. 1 vol.</p>
+<p>-Questions de morale pratique 1 vol. CARO (È,) de l'Académie française
+Etudes morales sur le temps présent; 5" édition.1 vol.</p>
+<p>L'idée de Dié et ses nouveaux criliques 9e-édition. 1 vol.</p>
+<p>Le matérialisme et la science; 5e édition. 1 vol.</p>
+<p>Problèmes de morale sociale; V édit. 1 vol.</p>
+<p>FOUILLÉE, membre de l'Institut L'idée moderne du droit en Allemagne, en
+An- gleterre et en France 4eédition.1 vol. La science sociale
+contemporaine; 3e édition. 1 vol.</p>
+<p>La propriété sociale et la démocratie. 2° édition. 1 vol.</p>
+<p>La philosopl.ie de Platon; 9* édition. Tome 1 Théorie des idées et de
+l'amour. Tome il Esthétique, morale et religion platonicienne.</p>
+<p>Tome III Histoire du platonisme et de ses rapportas avec le christianisme.</p>
+<p>Tome IV Easais do philosophie phiLOnicienne.</p>
+<p>FRANCK (Ad.), de l'ingtilnt Essais de critique philosophique. 1 vol.</p>
+<p>-Nouveaux Essais de critique philosophi ER (Ad.): Traité des facultés de</p>
+<p>l'aine; 4è édition. 3 vol.</p>
+<p>Ouvrage couronné por l'Académie française.</p>
+<p>GRÉARD (0,), de l'Académie françoise De la morale de Plutarque; 5e
+édition Oarrage couronné par l'Académie française.</p>
+<p>JOLY, profeseenr ia la Faculté des lettres de Paris Psychologie des
+grands hommes, 1 vol.</p>
+<p>Psychologie comparée l'homme et ranimal; 3° édition. 1 vol.</p>
+<p>Ou'nge couronné par l'Académie des sciences morales et politiques.</p>
+<p>Le socialisme chrétien. 1 vol.</p>
+<p>JOUFFROY (Th.): Cours de droit naturel; 5" édition. 2 vol.</p>
+<p>Cours d'esthétique; 4" édition, 1 vol. Mélanges philosophiques 7e édit.
+1 vol. Nouveaux Mélanges philosophiques; 4e édition. 1 vol. MARTHA (C.),
+de l'Institut Les mord listes sous l'empire romain; 7e édition. 1 vol.</p>
+<p>Ouvrage couronné par l'Académie français. Le poème de Lucrèce, 5e
+édition. 1 voL Ouvrage couronné par l'Académie française. Etudes morales
+sur l'antiquité; 3* édit. -Lâ délicatesse dans l'art; 3* édit.1 vol.
+PRÉVOST-PAPADOL Etudes sur les mo- ralistes français; 1e édition. 1 Vol.
+SIMON (Jules), de l'Académie française La liberté politique 5e édition.
+1 vol. -La liberté de conscience, 6e édition. 1vol. ouvrage couronné par
+l'Acad'mie française. TAINE Les philosophes classique de XIXe siècle en
+France 8e éditon.1 vol. De L'intelligence 9' édition. 2 vol. Philosophie
+de l'art 9e édition.2 vol. THAMIN (R.), recteur de l'Académie de. Hennes
+Un problème moral dans l'anti- quilé. 1 vol.</p>
+<p>morales et politiques.</p>
+<p>Ouvrage eouroooé par l'Académie des sciences morales et poligiques.</p>
+<p><pb/></p>
+<p>SCHOPENHAUER L'HOMME ET LE PHILOSOPHIE</p>
+<p><pb/></p>
+<p>OUVRAGES DU MÊME AUTEUR</p>
+<p>PUBLIÉS PAR LA LIBRAIRIE HACHETTE ET Cie</p>
+<p>( BIBLIOTHÈQUE VAMÉE )</p>
+<p><pb/></p>
+<p>SCHOPENHAUER</p>
+<p>L'HOMME ET LE PHILOSOPHE</p>
+<p>Il n'y a rien de plus facile,</p>
+<p>mais aussi rien de plus inutile</p>
+<p>que de réfuter un philosophe.</p>
+<p>(SCHOPENHAUER.)</p>
+<p>PARIS</p>
+<p>LIBRAIRIE HACHETTE ET Cie BOULEVARD SAINT- GERMAIN, 79</p>
+<p>1904</p>
+<p><pb/></p>
+<p>PRÉFACE</p>
+<p>La vie de Schopenhauer a été racontée par Wilhelm Gwinner et par Édouard
+Grisebach. La biographie de Gwinner est l'œuvre d'un ami qui a une
+grande admiration pour le génie du maître, tout en faisant ses réserves
+sur la doctrine; elle est précieuse par les documents qu'elle renferme
+et par les renseignements intimes que possédait l'auteur'. Le livre plus
+succinct de Grisebach est un modèle de précision et d'exactitude; il est
+le résultat de longues et 1. Wilhelm Gwinner, Arthur Schopenhauer aus
+peésônlichem Umgange dargestellt, Leipzig, 1862; 2e édition, refondue et
+considérablement augmentée, sous le titre de Schopenhauers Leben,
+Leipzig, 1878.</p>
+<p><pb/></p>
+<p>2. Arthur Schopenhauers admmtliche Werke, 6 vol., Leipzig, 1873-1874; 2e
+éd., 1877. Frauenatædt avait publié précédemment Aus Schopenhauers
+handschrijtliehem Nachlaas Abhandlungen, Anmerkungen, Aphoris- men und
+Fragmente, Leipsig, 1854.</p>
+<p><pb/></p>
+<p>plus fidèle aux intentions de l'auteur a été donnée par Grisebach 1.</p>
+<p>2. Kuno Fischer, Geschichte der neuern Philosophie, 8' vol.: Arthur
+Sohopenhauer, Heidelberg, 1g93.</p>
+<p>3. Un Bouddhiste contemporain en Allemagne ( Revue des Deux Mondes, 15
+mars 1876); article reproduit dans les Etudes et Réflexions dan
+pessimiste, Paris, 1901.</p>
+<p>4. Th. Ribot, la Philosophie de Schopenhauer, Paris, 1874; 9e éd., 1903.
+5. La Philosophie de Schopenhauer (Revue des Deux Mondes, 1- octobre
+1886) la Philosophie de Schopenhauer et la conséquences du pessimisme
+(Revue du Deux Mondes, 1" novembre 1890) articles reproduits dans lea
+Questions de critique et dans les Ruais sur la littérature contemporaine.</p>
+<p><pb/></p>
+<p>1. Ludwig Schemann, Sehopenhauer-Briefe, Leipzig 1893. Eduard Grisebach,
+Schopenhauer Briefe, Leipzig (Reclam). Grisobach a publié aussi nn
+recueil deconversations: Sehopenhauers Gesphräche und Selbstgespräche,
+Berlin, 1898.</p>
+<p><pb/></p>
+<p>SCHOPENHAUER</p>
+<p>1</p>
+<p>LES PARENTS</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1. Jugendleben und Wanderbilder, Brunswick, 1839.</p>
+<p><pb/></p>
+<p>II</p>
+<p>L'ÉDUCATION</p>
+<p>ARTHUR avait cinq ans quand la famille, fuyant devant l'occupation
+prussienne, s'établit dans la ville libre</p>
+<p><pb/></p>
+<p>Arthur Schopenhauer s'est sans doute souvenu des leçons et des
+expériences de sa jeunesse, quand plus tard il a tracé ce parallèle
+entre l'éducation naturelle et l'éducation artificielle</p>
+<p><pb/></p>
+<p>3. Erinnerungen von einer Reise in den Jahren 1803, 1804 und 1805; 3
+parties, Rudolstadt, 1813, 1814 et 1817.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>III</p>
+<p>LE COMPTOIR</p>
+<p>ARTHUR Schopenhauer assure et on peut le croire sur parole qu'il n'y eut
+jamais au monde un plus</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>2. Schemann, Schopexhauer-Briefe.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>décor. Bref, je souhaiterais que tu puisses l'entendre une »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Elle lui montre ensuite les deux routes qui s'ouvrent devant lui d'un
+côté, une vie aisée et considérée dans une grande ville, avec des
+relations dans tous les grands ports de l'Europe de l'autre, un effort
+surhumain pour rattraper le temps perdu, et, au bout, une existence
+laborieuse, simple et retirée, avec l'estime de quelques-uns et la
+satisfaction que donne la noblesse du but poursuivi. « Considère tout
+cela, ajoute-t-elle, et choisis. Mais, ton choix fait, n'hésite plus et
+ne faiblis pas, et tu atteindras sûrement le but que tu te seras
+proposé, quel qu'il soit. Je ne te dis pas de ne pas me tromper, car je
+connais ta pure et profonde loyauté mais, je t'en conjure les larmes aux
+yeux, ne te trompe pas toi-même. Entre en conseil avec toi, sérieusement
+et honnétement il s'agit du bonheur de ta vie et de la joie de mes vieux
+jours, car ce n'est que de toi et de ta sœur que je puis attendre encore
+une compensation pour ma jeunesse perdue. Je ne supporterais pas de te
+savoir malheureux, surtout si je devais me reprocher d'avoir causé ton
+malheur par trop de condescendance. »</p>
+<p>C'est en cette circonstance que Johanna Schopenhauer se montre sous son
+meilleur jour. Elle marque bien,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>et de s'identifier avec une manière d'être qui, de son point de vue
+élevé, devrait lui paraître infiniment mesquine. L'homme passe sur un
+pont dont il ne connaît pas les fondements il suit son petit sentier,
+sans penser d'où il vient, ni où il va, et ne considérant toujours que
+le pas prochain. » D'autres indications précieuses devaient être
+contenues dans ses lettres; nous n'en avons que le reflet dans les
+réponses de sa mère.</p>
+<p><pb/></p>
+<p>IV</p>
+<p>LES ÉTUDES CLASSIQUES</p>
+<p>Fanow calculait que, avec la connaissance qu'il avait des langues
+modernes, avec l'expérience qu'il</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Arthur accepta tout. Son unique pensée était de 1. Qwinner,
+Schoptnhauers Leben.</p>
+<p><pb/></p>
+<p>Les dernières lignes contiennent en germe tout un 1. Non me alloqui
+aokbat. (Vita curriculum, 1819.)</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>V</p>
+<p>L'UNIVERSITÉ</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>empruntera au premier sa théorie de la connaissance, en la modifiant
+dans les termes plutôt que dans le fond au second, sa vision sublime des
+Idées, dans lesquelles il trouvera l'inspiration et la règle de la
+poésie et des arts. Il composera ainsi un pessimisme d'une espèce
+particulière, qui n'abdiquera d'un côté que pour se reprendre de
+l'autre, et qui se relèvera du spectacle déprimant de la réalité par la
+contemplation idéale.</p>
+<p><pb/></p>
+<p>VI</p>
+<p>LA THÈSE DE DOCTORAT</p>
+<p>SCHOPENHAUSH avait reçu une éducation cosmopolite. « L'Allemagne, dit-il
+dans un de ses aphorismes,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>nements, dit Leibnitz, sont fondés sur deux grands principes celui de la
+contradiction, en vertu duquel nous jugeons faux ce qui en enveloppe, et
+vrai ce qui est opposé ou contradictoire ou faux et celui de la raison
+suffisante, en vertu duquel nous considérons qu'aucun fait ne saurait se
+trouver vrai ou existant, aucune énonciation véritable, sans qu'il y ait
+une raison suffisante pour qu'il en soit ainsi et non pas autrement 1. »
+Au premier principe, Leibnitz ramène les vérités nécessaires et absolues
+au second, les vérités contingentes, qui dépendent d'autres vérités. Sur
+le premier, il fonde les sciences exactes sur le second, les sciences
+morales et philosophiques.</p>
+<p>1. Monadologie, 31, 82.</p>
+<p>2. Mdaon ou de la Vsrtm</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1. Concept, Begriff; conception, lnbegriff.</p>
+<p>2. § 26.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1. Traduction de J.-A. Cantacuzène, Paris, 1882.</p>
+<p>2. La Doctrine de la science (Wissenschatslehre) de Fichte est appelée
+par Schopenhauer Wissenachaftsleere (le Yida de science).</p>
+<p><pb/></p>
+<p>VII</p>
+<p>SCHOPENHAUER ET GŒTHE</p>
+<p><pb/></p>
+<p>Il a juré de tenir en échec tous nos philosophes actuels. Il faudra voir
+si ces messieurs voudront l'admettre dans leur corporation. Pour moi, je
+lui trouve de l'esprit le reste ne me regarde pas.</p>
+<p><pb/></p>
+<p>« On voudrait bien nourrir quelque bonne pensée, si l'on pouvait la
+transfuser dans un autre sang pareil. — Mais ta bonne pensée, coulée
+dans une veine étrangère, se mettra en dispute avec toi-même.</p>
+<p>« Volontiers je m'imposerais encore la charge du maître, si les élèves
+ne devenaient pas des maîtres du premier coup 2. »</p>
+<p>L'école de Weimar ne compte qu'une seule génération d'écrivains. Si, au
+premier groupe très éclatant, celui de Wieland, de Gœthe, de Herder, de
+Schiller, un second groupe avait succédé, renouvelant sans les alté1.
+Vitoe curriculum, 1819.</p>
+<p>2. Epigrammatisch Lahmung, dans les poésies de Gœthe.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>2. Lettre du 12 juillet 1852.</p>
+<p><pb/></p>
+<p>2. Dintzer, onvrage cité.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>mais dont le ton très personnel, quoique très respectueux, n'était pas
+fait pour le faire revenir sur sa détermination. Tantôt Schopenhauer
+insinuait que Goethe, en prenant le travail de son disciple sous son
+patronage, « en tenant l'enfant sur les fonts de baptême », trouverait
+l'occasion de rectifier lui-même, de sa pleine initiative et avec la
+vraie conscience du savant, des erreurs que ses adversaires ne
+manqueraient pas tôt ou tard de lui reprocher; tantôt, avec une
+franchise un peu outrecuidante, il semblait faire de Goethe un
+précurseur qui lui avait préparé les voies</p>
+<p>1. Schamsnn, Ioavrage cité.</p>
+<p><pb/></p>
+<p>Gœthe, qui acceptait la critique, lorsqu'elle était sérieuse, pour ses
+ouvrages littéraires, supportait mal la contradiction quand il
+s'agissait de sa théorie des couleurs. Il croyait bien, du reste, malgré
+l'avis de Schopenhauer, avoir élevé sa pyramide jusqu'au sommet. Un
+jour, bien plus tard, Eckermann ayant risqué devant lui une objection
+sur un point de détail, il lui répondit « Il se passe pour ma théorie
+des couleurs ce qui s'est passé pour la doctrine chrétienne. On croit
+quelque temps avoir des disciples fidèles, et, avant qu'on s'en doute,
+ils se séparent de vous et forment une secte. Vous êtes un hérétique,
+comme les autres car vous n'êtes pas le premier qui m'ait abandonné. Je
+me suis séparé des hommes les meilleurs, pour des divergences sur
+quelques points de ma théorie. des, couleurs. n Eckermann ajoute « II me
+cita des noms connus 1. » L'un de ces noms était sans doute celui de
+Scho·- penhauer. Goethe lui renvoya son manuscrit, sur sa demande, le 23
+janvier 1816, en l'accompagnant d'une lettre où il disait « Tenez-moi au
+courant de vos occupations, auxquelles je ne manquerai jamais de
+m'intéresser.Je suis trop vieux pour m'approprier les manières de voir
+des autres mais j'aime bien m'instruire, historiquement et dans la
+mesure du possible, de ce qu'ils ont pensé et de ce qu'ils pensent
+encore. » Le traité de Schopenhauer parut quatre mois après, et, dès le
+4 mai, Gœthe en recevait le premier exemplaire.</p>
+<p>Plus tard, rédigeant ses Annales, et rappelant ses souvenirs de 1816,
+Gœthe disait « Dans la discussion sur les couleurs, le docteur
+Schopenhauer se rangea de mon côté comme un ami bienveillant. Nous
+traitâmes différentes questions en commun, mais enfin nous 1.
+Conversations d'Eckermann, 19 lévrier 1829.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>VIII</p>
+<p>LA THÉORIE DES COULEURS</p>
+<p><pb/></p>
+<p>2. De la aamattou, chap. ui.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>détermine la vitesse différente de cette rotation ellemême et le double
+mouvement des globules lumineux Gœthe a raison de dire que le grand
+philosophe complique parfois inutilement les problèmes simples.
+Malebranche simplifie la théorie de Descartes et lui donne en même temps
+une forme plus acceptable. Il remarque que la transmission de la lumière
+a de l'analogie avec celle du son. Il distingue, dans la lumière comme
+dans le son, une tonalité, qui est précisément la couleur, et une
+intensité, qui ne dépend que de la force de l'impression produite.</p>
+<p>« Il est certain, dit-il, que les couleurs dépendent naturellement de
+l'ébranlement de l'organe de la vision. Or, cet ébranlement ne peut être
+que fort et faible, ou que prompt et lent. Mais l'expérience apprend que
+le plus et le moins de la force ou de la faiblesse de l'ébranlement du
+nerf optique ne change point l'espèce de la couleur, puisque le -lus et
+le moins de jour, dont dépend le plus et le moins de cette force, ne
+fait point voir ordinairement les couleurs d'une espèce différente et
+tout opposée. Il est donc nécessaire de conclure que c'est le plus et le
+moins de promptitude dans les vibrations du nerf optique qui change les
+espèces des couleurs, et par conséquent que la cause de ces sensations
+vient primitivement des vibrations plus ou moins promptes de la matière
+subtile qui compriment la rétine. a Ainsi il en est de la lumière et des
+diverses couleurs comme du son et des différents tons. La grandeur du
+son vient du plus et du moins de force des vibrations de l'air grossier,
+et la diversité des tons du plus et du moins de promptitude de ces mêmes
+vibrations, comme tout le monde en convient. La force ou l'éclat des
+couleurs vient donc aussi du plus et du moins de force des vibrations,
+non de l'air, mais de la matière subtile,</p>
+<p><pb/></p>
+<p>et les différentes espèces de couleurs du plus et du moins de
+promptitude de ces mêmes vibrations. »</p>
+<p>Malebranche ajoute « Mais il faudrait voir sur cela les expériences
+qu'on trouvera dans l'excellent ouvrage de M. Newton 1. »</p>
+<p>Gœthe, au moment de formuler sa théorie, qui dans sa pensée devait
+renverser celle de Newton, n'avait 1. Voir: Histoire de l’Académie
+royale du icienm, année 1599 et Malebranche, De la Recherche d4 ld
+Vérité, seizième éclaireissement.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>2. Optique physiologique, deuxième partie, § 19.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>clair fixé sur an corps, c'est le blanc, qui n'est pas encore une
+couleur. L'obscur, matérialisé et spécifié, c'est le noir. Entre les
+deux extrêmes se place la couleur; c'est la liaison entre la lumière et
+l'obscurité, et c'est cette liaison, spécifiée, qui donne seulement la
+couleur 1. » Ainsi c'est la notion, une entité abstraite, qui détermine
+la solution d'un problème scientifique. Ne faut-il pas que la nature
+entre dans les compartiments que le philosophe lui présente? Au reste,
+la lumière, l'obscurité et la couleur, c'étaient l'affirmation, la
+négation et la conciliation, la thèse, l'antithèse et la synthèse,
+c'est-à-dire une de ces trilogies sur lesquelles Hegel édifiait son
+système, et qui se portaient l'une l'autre comme les arcs superposés
+d'une façade gothique.</p>
+<p>2. L'édition de 1854 était la troisième forme du traité la secoude était
+une traduction latine, que Schopenhauer avait faite, en 1830, sous le
+titre de Theoria colorum physiologica eademque primaria, pour la
+collection des Scriptores ophthalmologici minores de Justue Radina.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>vers nous, et qui constitue telle ou telle couleur, ou enfin par les
+vibrations communiquées par eux au milieu propre de la lumière, et
+portées jusqu'au fond de notre œil 1. »</p>
+<p>2. Ueber das Sehn und dis Farben, chap. lor,</p>
+<p><pb/></p>
+<p>La théorie de Schopenhauer est, en somme, un complément du chapitre de
+Gœthe sur les couleurs physiologiques. Quant aux couleurs physiques et
+chimiques, celles qui sont produites par la réfraction ou renvoyées par
+la surface des corps, ni Goethe ni Schopenhauer ne les expliquaient 2.
+La science expéri1. Parerga und Paralipomena, deuxième partie, § 103.</p>
+<p>2. « Pour ce qui est de la couleur chimique, elle est évidemment une
+modification particulière de la surface des corps, mais tellement fine
+que nous ne pouvons la reconnaître ni la distinguer Cette modification
+ne se manifeste que par la faculté de provoquer</p>
+<p><pb/></p>
+<p>telle ou telle partie déterminée de l'activité de la rétine faculté qui
+est encore pour nous une quaütas occulta, » (Ueber da8 Sehn und dit
+Farben, 13.)</p>
+<p><pb/></p>
+<p>IX</p>
+<p>DRESDE</p>
+<p>Les représentations théâtrales, les auditions de musique religieuse ou
+profane, la vue des chefs-d'œuvre de la peinture et de la sculpture,
+élevaient l'esprit public et créaient un courant d'idées libérales. La
+séparation entre les artistes ou les gens de lettres et la bourgeoisie
+aisée était moins marquée qu'ailleurs. Mais aussi, la porte était toute
+grande ouverte au</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>« Nous devînmes aussitôt, malgré nos disputes perpétuelles,
+d'inséparables compagnons. Je n'ai bien compris que plus tard combien
+j'ai profité dans ton commerce. Peut-être aussi n'aurais-tu rien pu
+m'apprendre, si je n'avais été mûr et prédestiné pour la contagion de
+ton pessimisme.</p>
+<p><pb/></p>
+<p>2. Eine Groteske, Cassel, 1882. Schemann, Schopenhauer- Ifriefe, p. 469.</p>
+<p><pb/></p>
+<p>1. Morgenblatt fur gebildete Leser, 1859, w 22.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>X</p>
+<p>L'ITALIE</p>
+<p>Nous sommes très incomplètement renseigaés sur le séjour de Schopenhauer
+en Italie. Ce qu'il appelle</p>
+<p>Schopenhauer possédait assez bien l'italien pour converser avec les
+habitants et pour se mettre au courant de la littérature plus tard, il
+apprit même les dialectes. Parmi les grands poètes de l'Italie, c'était
+Pétrarque qu'il lisait de préférence. Ce qu'en vrai moraliste il
+cherchait avant tout dans la poésie, c'était l'expression</p>
+<p><pb/></p>
+<p>« Je te remercie mille fois, mon cher Arthur, de ce que Rome, ce mot
+magique, ne m'ait pas effacée de ton 1. Nachlass, éd. Grisebach, 4° ToL
+Neue Pardipomena, § 258. 2. Elles ont d'abord été publiées par Gwinner
+(Schopenhauers Leben, p. 188 et suiv.).</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>commencement et la fin, c'est mon amour pour toi. Adio 1 »</p>
+<p><pb/></p>
+<p>Schopenhauer s'était mis en rapport avec les artistes allemands de Rome;
+mais il se trouva dès l'abord en 1. Dans une autre lettre, du mois de
+novembre, elle diaait encore «Je ne t'aurais jamais cri capable d'une
+telle passion. » (Owinner, encrage cité, p. 20t).</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>loppait un jour au Calé greco, lieu de réunion des « Chevaliers de la
+Table ronde», les avantages de la mythologie grecque, offrant à
+l'artiste, dans les dieux de l'Olympe, une série de formes consacrées
+pour les variétés typiques de la nature humaine. Un sculpteur
+l'interrompit en disant « Nous avons pour cela les douze apôtres.
+Laissez-moi donc, répliqua Schopenhauer, avec vos douze Philistins de
+Jérusalem 1 » Un cri de réprobation général accueillit ces paroles.
+Schopenhauer s'isola de plus en plus de ses compatriotes il ne fréquenta
+plus guère que les voyageurs de passage, surtout les Anglais, qui lui
+paraissaient les plus libres de préjugés.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>XI</p>
+<p>MERLIN</p>
+<p>T trouble momentané jeté dans ses finances fut une des causes qui
+déterminèrent Schopenhauer à</p>
+<p>chercher un appui et une ressource dans l'enseignement universitaire
+mais ce ne fut pas la seule. Les témoignages d'estime qu'il avait reçus
+de quelques hommes compétents ne pouvaient le consoler d'être ignoré du
+public et de la jeunesse studieuse. Le seul moyen de sortir d'un
+isolement contre lequel son orgueil se révoltait, c'était un cours
+professé dans l'une ou l'autre des grandes universités allemandes. Kant
+avait enseigné, Hegel enseignait encore, et ses disciples, après avoir
+reçu sa doctrine de sa bouche, la portaient dans toutes les régions de
+l'Allemagne. Schopenhauer ne devait-il pas, lui aussi, chercher à
+conquérir par la parole l'influence que ses écrits ne paraissaient pas
+devoir jamais lui procurer</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>2. Lettre au professeur Lichtenstein, du mois de décembre 1819 chez
+Gwinner et Grisebach.</p>
+<p>3. Arthur Schopenhauer priroatim aenis per hebdomadsm horis universam
+tradet philosophiam, i. e. doctrinam de essentia muttdi et mente humana.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le retour fut moins heureux. A Munich, où Scho-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1. Lettre sn directeur de la revae, du 21 décembre 1829 chsz Gwinner, p.
+343.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>XII</p>
+<p>SCHOPENHAUER ET KANT</p>
+<p>C fut une erreur de Schopenhauer de croire ou plutôt de se persuader que
+Fichte, Schelling et Hegel</p>
+<p><pb/></p>
+<p>Hegel ont abordé la doctrine du maître chacun par un autre côté. Mais
+ils sont tous deux disciples de Kant, de même que Platon et Aristote,
+quelque opposés qu'ils paraissent, tiennent l'un et l'autre, en
+définitive, de l'enseignement de Socrate.</p>
+<p>Le point capital de la philosophie de Kant, c'est le caractère relatif
+et conditionnel du savoir humain. Notre connaissance se compose de nos
+jugements, et nos jugements se fondent sur nos perceptions. Or, ce que
+nous percevons, ce ne sont pas les choses mêmes, mais l'image des choses
+que nos sens nous transmettent. En d'autres termes, notre savoir est
+fait d'apparences. Nous voyons tout sous les conditions du temps et de
+l'espace, qui sont comme les formes de notre sensibilité. Un être qui
+vivrait en dehors du temps et de l'espace ne percevrait rien de ce que
+nous percevons. Et, par la même raison, tout ce qui est en dehors du
+temps et de l'espace, l'éternel, l'infini, l'absolu, nous échappe, et
+toutes les idées que nous nous en faisons ne peuvent être que
+chimériques c'est « le fruit défendu » dont il faut s'abstenir. La
+philosophie est descendue, comme au temps de Socrate, du ciel sur la
+terre. La métaphysique n'est plus une construction ambitieuse, ayant la
+prétention d'embrasser l'universalité des choses et d'expliquer le
+mystère de la création elle est devenue « la science des limites de la
+raison humaine 1 ».</p>
+<p>La faculté de connaître se manifeste, selon Kant, sous trois formes
+successives elle est d'abord sensibilité ou faculté de percevoir,
+ensuite intelligence ou faculté de juger, enfin raison ou faculté de
+coordonner les jugements et de les réduire en système. La sensibilité,
+1. Trâume eines Geisterschers erläutert durch Trâume der Metaphysik, 1766.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>vouloir vivre qui réside au sein de la nature et qui anime tous les
+êtres créés.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>contradiction formelle, ne faut-il voir qu'un manque de précision,
+peut-être même un manque volontaire. Est-il bien possible d'être précis
+dans la définition d'une chose qu'on présente d'abord comme une incog-'
+nue? Schopenhauer continue « En réalité, la perception sensible est et
+demeure uniquement notre représentation c'est le monde comme
+représentation. Pour ce qui est de l'étre en soi de ce monde, nous ne
+pouvons l'atteindre que par une méthode toute différente, celle que j'ai
+employée. Il faut pour cela invoquer le témoignage de la conscience, qui
+nous fait voir dans la volonté l'être en soi de notre propre existence
+phénoménale. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Kant maintient les idées de la raison, parce qu'il se propose de leur
+donner plus tard une existence réelle dans la Critique de la raison
+pratique, où il montre. que la loi morale, étant absolue, suppose un
+législateur également absolu, et que la liberté, conséquence de
+l'obligation morale, suppose la responsabilité, la rémunération finale,
+l'immortalité de l'âme. Le système de Kant est ainsi, en bien des
+points, un compromis et même un conflit entre la sagacité de son esprit
+critique et les besoins de son âme religieuse.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>XIII</p>
+<p>LE MONDE COMME REPRÉSENTATION</p>
+<p>T A faculté de connattre est, pour Schopenhauer comme pour Kant, tour à
+tour sensibilité, intelli-</p>
+<p><pb/></p>
+<p>2. L'allemand dit wirkend et wirklich, deux mots ayant une racine commune.</p>
+<p><pb/></p>
+<p>nécessaire c'est une opération de l'entendement pur, et non une
+déduction de la raison, non une combinaison d'idées et de jugements
+d'après des lois logiques 1. »</p>
+<p><pb/></p>
+<p>renferme et peut renfermer est dans cette dépendance nécessaire
+vis-à-vis du sujet et n'existe que pour le sujet. Le monde est
+représentation 1. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>« Le temps n'est pas un simple mouvement ou une transformation
+quelconque des corps. Au contraire, tout mouvement, toute transformation
+n'a lieu qu'en 9</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>identifier nos représentations avec la réalité des choses, il repose,
+selon Schopenhauer, sur une pétition de principe.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>XIV</p>
+<p>L'INTELLIGENCE ET LA RAISON</p>
+<p>L'ESPACE et le temps, ces conditions premières de toute connaissance, ne
+sont que des cadres vides</p>
+<p>c'est la causalité qui les remplit elle est le lien entre l'espace et le
+temps. L'espace seul, c'est l'étendue fixe et immobile; le temps seul,
+c'est le flux incessant et insaisissable. Le temps et l'espace réunis,
+c'est la durée, la substance qui demeure, quand la forme et la qualité
+changent.</p>
+<p>Schopenhauer ne distingue pas la matière de la causalité ce sont pour
+lui des termes synonymes. En 1. Die Welt aIs Wille und Yoratellung,
+suppléments ail premier livre, chap. iv.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>2. C'est-à-dire, d'après ce qui précède, entre notre corps et les objets
+extérieurs.</p>
+<p>3. Die Weit ala Wille und Vorstellung, livre Ier, § 6.</p>
+<p><pb/></p>
+<p>2. Dis Einfalt.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>prévoyance n'est autre chose que la conduite réfléchie de la vie 1.</p>
+<p>« L'animal sent et perçoit l'homme, en outre, pense et sait tous les
+deux veulent. L'animal communique son impression et son humeur par des
+gestes et des cris; l'homme communique ses pensées parle langage, ou,
+par le langage aussi, il les dissimule.</p>
+<p><pb/></p>
+<p>communs sous un concept unique 1, la communication de la vérité, la
+propagation de l'erreur, toute pensée et toute invention, tous les
+dogmes et toutes les superstitions.</p>
+<p>2. Livre l-, g 8.</p>
+<p><pb/></p>
+<p>Schopenhauer insiste beaucoup sur ce point. Les vérités générales
+rentrent tellement les unes dans les autres, que toute démonstration est
+semée d'écueils. Seul le fait particulier, dûment constaté, offre un 1.
+Livre I", § 12.</p>
+<p>2. Livre ln, § 14.</p>
+<p><pb/></p>
+<p>Il va sans dire que Schopenhauer rejette de prime 1. Supplément* au
+premitf livre, chap. th.</p>
+<p><pb/></p>
+<p>10</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Si notre raison peut nous égarer, soit dans la recherche philosophique,
+soit même dans la conduite de 1. « A recevoir tant de cervolles
+étrangères, et si fortes et si grandes, il est nécessaire que la sienne
+se foule, se contraigneet rapetisse, pour faire place aux autres. »
+(Montaigne, Essais, livre Ier, cliap. suv Du pédantisme.)</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>XV</p>
+<p>LE MONDE COMME VOLONTE</p>
+<p>S CHOPENHAUER vient de montrer, après Kant, que notre intelligence ne
+nous fait connaître que des phénomènes, c'est-à-dire des apparences, et
+qu'elle ne nous apprend rien sur la réalité des choses. Et comme ces
+apparences, ces images que nos sens nous présentent, ces représentations
+que nous nous formons des objets, sont dans notre esprit, et ne sont que
+là, c'est nousmêmes, en quelque sorte, que nous regardons dans le monde
+extérieur; nous nous dédoublons dans un mirage. Une illusion perpétuelle
+nous environne et nous enveloppe, forme une barrière entre nous et les
+choses, et nous empêche de sortir de nous-mêmes. Y a-t-il un moyen de
+dissiper cette illusion?</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>motifs, pour la volonté raisonnable, qui n'est que la manifestation la
+plus claire du vouloir. Il faut que nous isolions par la pensée
+l'essence intime et immédiatement connue de cette manifestation, et que
+nous la transportions' sur les autres manifestations plus faibles et
+plus obscures du même vouloir 1. »</p>
+<p><pb/></p>
+<p>matière, et qui attire la pierre vers la terre et la terre vers le
+soleil1. »</p>
+<p>2. Cause, Ur84Che; excitation, Reiz; motif, Motiv.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>nom de voloreté, qui désigne la chose en soi de tout ce qui apparait à
+la surface de ce monde, l'unique fond de tous les phénomènes 1. »</p>
+<p>2. Livre II, 1 26.</p>
+<p><pb/></p>
+<p>2- Livre II, § 26.</p>
+<p><pb/></p>
+<p>« Nous arrivons enfin au point où l'individu qui représente l'Idée ne
+peut plus se procurer, par les simples mouvements résultant de
+l'excitation, la nourriture qu'il doit s'assimiler. De là, la nécessité
+de la locomotion déterminée par des motifs, et, par con-</p>
+<p><pb/></p>
+<p>1. Livre Il, § 27.</p>
+<p><pb/></p>
+<p>XVI</p>
+<p>LA PRIMAUTÉ DE LA VOLONTÉ</p>
+<p>nrr pourrait bien, en y regardant de près, trouver une contradiction
+dans le rapport que Schopenhauer établit entre nos facultés.
+L'intelligence est, pour lui, une fonction du cerveau il emploie même
+souvent les deux termes l'un pour l'autre. Or, le cerveau est une partie
+du corps, qui est lui-même un produit de la volonté. Comment
+l'intelligence vient-elle après coup éclairer la volonté, sa mère ? Il
+faut se souvenir ici, comme en plusieurs autres points, d'une parole de
+Schopenhauer «Il n'y a rien de plus facile, mais aussi rien de plus
+inutile que de réfuter un philosophe. »</p>
+<p>Quoi qu'il en soit, l'intelligence, tout en éclairant la volonté, lui
+reste inférieure. Schopenhauer a développé cette idée dans un long
+supplément, qu'il a intitulé De la primauté de la volonté dans la
+conscience de nous-mëmea, et qui contient, indépendamment de la thèse
+fondamentale, un grand nombre d'observations personnelles et
+intéressantes 1.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>L'intelligence joue si bien le rôle secondaire dans</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>L'intelligence et la volonté sont donc, au fond, indépendantes l'une de
+l'autre. Mais c'est dans celle-ci, c'està-dire dans les penchants, dans
+les habitudes, dans le</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ainsi toute notre expérience du monde nous démontre la primauté de la
+volonté et de ce qui en dépend, et quand nous interrogeons notre
+conscience, elle nous répond de même. La jeunesse, l'âge mûr, la
+vieillesse, les accidents de notre vie, le hasard de nos rencontres,
+mille circonstances influent sur le cours de nos idées et les modifient
+sans cesse. Mais sur quoi repose, en fin</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1. Die Welt als Wüle und Vorstellung, livre IV, § 54.</p>
+<p><pb/></p>
+<p>XVII</p>
+<p>LES IDÉES PLATONICIENNES</p>
+<p>LE BEAU</p>
+<p>« Quand les nuages passent dans le ciel, les figures</p>
+<p><pb/></p>
+<p>« Ce qui apparaît dans le nuage, dans le ruisseau, n'est que la plus
+faible répercussion de cette volonté qui s'annonce plus parfaite dans la
+plante, plus parfaite encore dans l'animal, et avec toute sa perfection
+dans l'homme. Pour celui qui a saisi cela, et qui sait distinguer la
+volonté de l'Idée et l'Idée du phénomène, les événements de ce monde ne
+seront plus que les signes révélateurs de l'Idée de l'homme. Dans les
+aspects multiples de la vie humaine, dans le changement incessant des
+événements, il ne considérera que l'Idée, seule permanente et
+essentielle, en qui le vouloir vivrc a trouvé son expression la plus
+complète, et qui se montre sous ses différentes faces dans les qualités,
+les passions, les erreurs et les prérogatives du genre humain égoïsme,
+haine, amour, crainte, audace, légèreté, stupidité, ruse, esprit, génie,
+etc., qui tous se concrètent diversement dans les individus, et jouent
+devant nous la grande et la petite comédie du monde, où c'est tantôt un
+fétu, tantôt une couronne qui fait mouvoir les acteurs. Il finira même
+par s'apercevoir que tout se paste dans le monde comme dans les drames
+de Gozzi,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>culière, c'est l'Idée, la forme éternelle, la manifestation immédiate de
+la volonté. o La pensée de Schopenhauer, dépouillée de la terminologie
+de son système, est que l'idéal n'est pas un objet d'analyse, mais de
+contemplation, et que l'art, qui s'en inspire, est un jeu de la
+fantaisie, jouissant librement du spectacle de l'univers, et affranchie
+des besoins et des misères de l'existence commune telle était aussi
+l'opinion de Schiller, cet autre disciple de Kant. La contemplation,
+ainsi comprise, est une sorte d'union mystique avec la nature. « Celui
+qui se sera ainsi absorbé et perdu dans la contemplation de la nature,
+croira sentir au fond de lui-même qu'il est devenu la condition et, pour
+ainsi dire, le support du monde et de toute existence objective il ne
+verra plus dans celle-ci que le corrélatif de sa propre existence. Il
+aura attiré la nature en lui; elle ne sera plus qu'un accident de son
+être. Il pourra dire avec le poète « Ces monts, ces flots, ces nuages «
+ne sont-ils pas une partie de mon âme, et moi une « partie d’eux-mêmes 1 ?»</p>
+<p>La contemplation pure et désintéressée, et l'union intime avec la
+nature, qui en est la suite, telle est la première condition de l'art et
+le résumé de toutes sea règles. L'art a son origine dans la connaissance
+des Idées, et son but est la communication de cette connaissance. Son
+objet le distingue essentiellement de tous les ordres de sciences. Les
+sciences naturelles et les sciences historiques reposent sur le principe
+de la causalité. Les sciences mathématiques étudient le temps et
+l'espace. Les unes et les autres ont pour objet le phénomène,
+c'est-à-dire le monde qui change. 1. Livre III, § 34. Are not the
+mountains, waves and skies a part Of me and of my soul, as I of thsm-
+(Lord Byron. Childe Harold, chant IIL)</p>
+<p><pb/></p>
+<p>2. Waa in schwankender Ercheinung schwebt, Befestiget mit dauemden
+Gedanken. (Pauat, Prologue dans le ciel.)</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Au-dessous de l'homme, le monde végétal, par la variété de ses formes et
+l'immobilité de ses attitudes, devient aisément un objet de
+contemplation. Quel est l'homme, même d'une intelligence ordinaire, qui
+soit absolument insensible au charme d'un beau paysage ?</p>
+<p><pb/></p>
+<p>Le sentiment du beau et le sentiment du sublime ont donc un élément
+commun, la contemplation indépendante de la volonté. Le sentiment du
+sublime contient un élément de plus, le rapport d'hostilité que nous
+reconnaissons entre l'objet contemplé et nous, et dont nous sommes
+obligés de faire abstraction. Il s'ensuit qu'il y a des transitions
+entre le beau et le sublime, des degrés dans le sublime, selon que ce
+dernier élément se présente avec plus ou moins de force et d'instantanéité.</p>
+<p><pb/></p>
+<p>nous la surmontons aussitôt c'est un degré inférieur du sublime.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>XVIII</p>
+<p>LES ARTS</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Tous ces sentiments, la musique les reproduit dans leur généralité. Elle
+n'exprime pas telle ou telle douleur, telle ou telle joie, mais la joie
+et la douleur mêmes, quel que soit l'être humain qui les éprouve, quelle
+que soit la cause qui les ait provoquées. Elle donne la quintessence du
+sentiment, sans aucune nuance parti-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>XIX</p>
+<p>L'HISTOIRE ET LA POÉSIE</p>
+<p>ART a pour domaine la nature entière; mais l'humanité reste toujours son
+objet principal. L'artiste</p>
+<p>n'est-il pas un homme, et le monde n'est-il pas « sa représentation » ?
+Quoi d'étonnant qu'il se mette en imagination au centre de ce monde où
+pourtant il tient une si petite place, et que les choses qui
+l'environnent, y compris les cieux étoilés, ne lui apparaissent plus que
+comme un fond de tableau, comme un décor sur la scène où se joue le
+drame de sa destinée</p>
+<p>Dévoiler la destinée humaine, c'est aussi l'œuvre de la poésie, et c'est
+enfin la tâche que se donne l'histoire. Mais l'histoire et la poésie,
+tout en ayant, en apparence, le même objet, l'envisagent par des côtés
+différents, et l'intérêt qu'elles offrent au philosophe n'est pas le même.</p>
+<p>Schopenhauer a toujours manifesté un injuste mépris pour l'histoire. Lui
+qui n'estimait en tout que l'aperception directe, la vue immédiate des
+choses, comment pouvait-il apprécier l'histoire, qui ne se fonde que sur
+le témoignage d'autrui ? Dans sa jeunesse, sa mère lui reprochait déjà
+de négliger les historiens pour les poètes 1, et plus tard il ne changea
+rien, sur ce point, 1. Voir plus haut, p. 8-9.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Schopenhauer n'estpas moins sévère pour cette science qui tient un peu
+de l'histoire et beaucoup de la philosophie, et qu'on appelle la
+philosophie de l'histoire. Il la</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>La définition est excellente, mais elle n'est pas en parfait accord avec
+ce que Schopenhauer vient de dire dans le même chapitre. Si, en effet,
+l'humanité est</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>poésie comme en chimie, consiste obtenir chaque fois le précipité que
+l'on veut 1. »</p>
+<p>1. Livre III, 51.</p>
+<p><pb/></p>
+<p>Le premier des genres poétiques, et pour la de l'exécution et pour la
+puissance de l'impression produite, c'est la tragédie. Elle a pour objet
+« de montrer le côté terrible de la vie, les douleurs sans nombre et les
+angoisses de l'humanité, le triomphe de la méchanceté, le règne narquois
+du hasard, la perte irrémédiable du juste et de l'innocent; elle est le
+symbole vivant du monde et de notre existence». L'essence du genre
+tragique est « de nous mettre sur le chemin de la résignation ». Tout ce
+que Schopenhauer voit dans la tragédie peut s'y trouver en effet, mais
+ne s'y trouve pas nécessairement. Il est même certain que Shakespeare et
+Corneille, aussi bien que Schiller et 1. Suppléments au troisième livre,
+chap. XXXVII.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>pâle souvenir. L'art fixe l'image passagère, et fait durer l'instant
+fugitif. De même, dans la vie, celle des nations comme celle des
+individus, que de forces perdues 1 Que d'hommes qui ne peuvent donner
+leur mesure, parce que l'époque ne leur est pas favorable, ou que le
+hasard les contrarie 1 L'art ne souffre pas de tels accidents. Quand le
+poète crée un caractère, il le place dans des situations où il puisse se
+déployer et se montrer sous toutes ses faces. En même temps, par la
+forte empreinte qu'il lui donne, il le grave dans notre imagination.
+L'homme qui a le sens artistique arrête par la pensée le cours du tempa
+il oublie que ce n'est qu'un spectacle mouvant qu'il a devant les yeux,
+et que lui-même fait les frais de la représentation. L'art est le grand
+réparateur, le grand consolateur, au milieu de l'instabilité et de la
+dispersion des choses.</p>
+<p><pb/></p>
+<p>XX</p>
+<p>LA LIBERTÉ. LE CARACTÈRE</p>
+<p>N ous arrivons au point culminant de la philosophie de Schopenhauer, à
+l'aboutissement final de toutes</p>
+<p><pb/></p>
+<p>2. L'assertion est inexacte, du moins pour Spinoos voir l'inhrodncfion
+des Principes de la philosophie cartésienne.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>personne et dans sa conduite, chacun de nous, dans son sens intime, se
+juge libre jusque dans la moindre de ses actions particulières, et
+s'imagine que dans chaque cas donné il pourrait agir indifféremment de
+telle ou telle manière. C'est seulement par l'expérience et après
+réflexion qu'il reconnaît que son action jaillit avec une entière
+nécessité du choc de son caractère avec les motifs. »</p>
+<p>Les derniers mots indiquent de quelle manière, selon Schopenhauer, nos
+actes sont déterminés. L'acte dépend du motif, et le motif tient au
+caractère. C'est donc, en dernière analyse, le caractère qui règle la
+direction de notre activité.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le caractère acquis est donc le fruit de la connaissance de nous-mêmes.
+Instruits par l'expérience, nous savons ce que nous voulons et ce que
+nous pouvons « nous avons fait provision de maximes que nous tenons
+toujours sous la main », et que nous appliquons aux cas particuliers
+enfin nous réglons notre conduite avec réflexion, comme si elle était le
+résultat, non plus de notre volonté, mais de notre pensée.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>XXI</p>
+<p>LA DOULEUR DE VIVRE</p>
+<p><pb/></p>
+<p>Telle est la vie humaine, dans son apparition générale et commune. Toute
+fugitive qu'elle est, elle pourrait encore nous plaire, si du moins elle
+n'exigeait rien de nous. Mais il faut que nous la remplissions avec des
+actes. Chaque être est, pour son compte, une personnification du vouloir
+vivre universel. Or, vouloir vivre, c'est faire effort. Quand l'effort
+est contrarié, il se traduit par une souffrance. Quand il abo itit, il
+procure une satisfaction mais cette satisfaction dure peu, car elle est
+suivie aussitôt d'un nouvel effort; et cette continuité d'efforts, lors
+même qu'ils seraient tous heureux, cause un état d'inquiétude, qui est
+encore une souffrance.</p>
+<p>Donc vouloir vivre, faire effort et souffrir, telles sont les trois
+phases invariables de toute existence. La 1. Die Welt als Wille und
+Vorstellung, livre IV, § 58.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>de Schopenhauer; mais cette partie suffit pour le distinguer des
+pessimistes purs, des apôtres de la désespérance. Quant aux optimistes
+déclarés, il les engage, pour se convaincre que le monde est mauvais, à
+visiter les hôpitaux, les lazarets, les prisons, les retraites où se
+cache la misère. Il oublie que dans ces mêmes lieux se montre aussi la
+vertu que lui-même estime la première de toutes, la sympathie humaine,
+la pitié.</p>
+<p><pb/></p>
+<p>l'eflort,c'est l'état naturel, c'est l'expansion libre, spontanée et
+irrésistible des êtres. Schopenhauer ne manque aucune occasion de
+censurer les philosophes qui, dédaigneux de l'expérience, posent en tête
+de leur système un principe dont ils extraient le contenu par voie de
+déduction. Pourtant c'est bien un principe de ce genre qui forme la base
+de sa théorie morale.</p>
+<p>Il continue « L'effort, c'est la douleur. » Oui, répondra le « plat
+optimiste », si l'effort excède les forces de l'être. Mais la nature
+elle-même n'a-t-elle pas marqué la limite où l'effort doit s'arrêter?
+Cette limite, c'est la fatigue. L'effort, la fatigue, le repos, tel est
+le rythme de l'activité humaine. Il y a un effort sain, qui mesure son
+élan, qui se soulage dans le repos, et qui est accompagné de jouissance,
+comme toutes les manifestations naturelles de la vie; et il y a un
+effort malsain, surexcité par la passion, qui se précipite, s'épuise et
+souffre. Schopenhauer n'a vu que le dernier c'est un côté de la vie,
+surtout de la vie artificielle, compliquée, fiévreuse, créée par un
+certain état de société; ce n'est pas la vie tout entière; ce n'est pas,
+surtout, la vie simple, primitive et vraie, telle que la nature l'a faite.</p>
+<p><pb/></p>
+<p>que sa peinture fait illusion, et il nous semble réellement, en le
+lisant, que le monde misérable où il nous introduit est le seul monde
+qui existe.</p>
+<p><pb/></p>
+<p>XXII</p>
+<p>L'INDIVIDU ET L'ESPÈCE</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Telle est la frrme sous laquelle Schopenhauer prétend renouveler
+l'ancienne doctrine de la métempsycose mais il préfère, dit-il, pour sa
+théorie, le nom de palingénéaie 2. La métempsycose est le passage de
+l'âme une et indivisible d'un corps dans un autre; la palingénésie est
+une renaissance avec l'adjonction d'éléments nouveaux, 1. Suppléments au
+quatrième livre, chap. XLIII.</p>
+<p>2. Pararga und Paralipomena, deuxième partie, § 140.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Schopenhauer veut résoudre l'éternelle énigme de la 1. Suppléments au
+quatrième line, chap, na.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>2. Ces délires sacrés, eu désirs sans mesure,</p>
+<p>Déchaînés dans vos flancs comme d'ardents easaima,</p>
+<p>Qui s'agite en vos seins.</p>
+<p>(Mme Ackermann, l'Amour et la Mort.)</p>
+<p>Ne supprimez point.</p>
+<p>Quelque petit savant qui veut venir au monde.</p>
+<p>(Molière, les Femmes savantes.)</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>XXIII</p>
+<p>L'AFFIRMATION ET LA NÉGATION</p>
+<p>DE LA VOLONTÉ</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>2. Schopenhauer emploie les deux expressions de Gewissensbiss et
+Gewissensangst la première (la morsure de la conscience) marque une
+impression momentanée et douloureuse, la seconde un état d'inquiétude
+prolongé.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>sagesse orientale « Tu es ceci. » Celui qui comprend tout ce que cette
+formule implique, est sur la voie de la vertu et du salut.</p>
+<p>L'homme entre alors dans le nirvana bouddhique, dans le repos éternel.
+Par ce mot, faut-il entendre le néant ? Ce serait mal comprendre
+l'évolution morale dont les étapes successives viennent d'être
+indiquées. S'il ne s'agissait que d'entrer dans le néant, la voie la
+plus courte serait le suicide. Mais le suicide, loin d'être une négation
+de la volonté, en est au contraire l'affirmation la plus énergique.
+L'homme qui se donne la</p>
+<p><pb/></p>
+<p>1. Livre IV, § 71.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>« Dans un monde qui est composé, pour les cinq sixièmes au moins, de
+coquins, de fous et d'imbéciles, chacun de ceux qui appartiennent au
+sixième restant doit se faire une règle de conduite de se retirer
+d'autant plus loin qu'il se sent plus différent des autres, et toujours
+le plus loin possible. Il doit se persuader que le monde est un désert
+où il sera toujours seul, et cette persuasion doit devenir chez lui un
+sentiment habituel. Comme les murs d'une chambre rétrécissent le champ
+du regard, qui ne s'étend que devant la nature, ainsi la société
+rétrécit mon esprit, et la solitude seule lui ouvre l'espace. »</p>
+<p><pb/></p>
+<p>Or on a souvent établi des parallèles entre la vie de Schopenhauer et sa
+doctrine. Mais peut-être s'est-on trop facilement autorisé de quelques
+faits particuliers, plus ou moins exactement rapportés, pour le meure en
+contradiction avec lui-même. Vu dans l'ensemble de sa carrière,
+Schopenhauer est bien l'homme de sa doctrine. Il n'a jamais eu d'autre
+but que de la formuler, de l'expliquer et de la répandre, et il en a
+donné la représentation vivante dans sa personne.</p>
+<p><pb/></p>
+<p>XXIV</p>
+<p>L'ENSEMBLE DU SYSTÈME</p>
+<p><pb/></p>
+<p>strictement arrêté 1. » Une telle manière de composer peut être une
+condition de variété et d'intérêt, mais il est incontestable qu'un peu
+plus de ciment aurait consolidé l'édifice.</p>
+<p>2. Même recueil, § 637.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Un point de doctrine qui embarrassait beaucoup les premiers disciples,
+c'était la double face de la chose en soi, qui est un principe
+métaphysique, et qui pourtant ne se manifeste que par ses effets dans
+l'ordre physique. Schopenhauer ne se lassait pas de dire qu'il
+n'entendait pas sortir du domaine de l'expérience, qu'il ne voulait
+connaître que ce qui est, sans s'inquiéter de savoir pourquoi cela est.
+Pourtant la volonté, principe de toute existence, cause médiate ou
+immédiate de tous les phénomènes, n'était-ce pas un grand pourquoi qu'il
+soulevait, et auquel il se chargeait de répondre? On connatt l'histoire
+de ces deux élèves d'une école d'artillerie, qui, ayant été mis aux
+arrêts, charmaient leurs loisirs par la lecture de Schopenhauer, et qui
+lui posèrent cette question « Si la volonté est indivisible, si elle est
+tout entière dans chaque individu, ne s'ensuit-il pas que chacun peut à
+son gré la détruire, et détruire en même temps le monde dont elle est
+l'unique soutien,</p>
+<p><pb/></p>
+<p>Schopenhauer n'était nullement le docteur inflexible et irréfragable que
+l'on imagine d'ordinaire. Il avait l'intelligence plus souple que le
+caractère. Vingt-cinq ans séparent la première et la seconde édition de
+son principal ouvrage, et dans l'intervalle son esprit s'apaisa et
+mûrit. Les derniers suppléments de la seconde édition dénotent une
+pensée moins rigide que certaines parties de la première. Dans un
+chapitre intitulé l'Ordre du salat, il envisage la douleur comme un
+moyen de purification morale, et il cite l'Hymne dc la Douleur de
+Lamartine. Pour la plupart des hommes, c'est la souffrance personnelle
+qui les éclaire et les sauve pour le petit nombre, et sans doute pour
+les philosophes, c'est le spectacle des douleurs du monde 2. Une
+dissertation qui date de la même époque, et qui fut insérée au premier
+volume des Parerga et Paralipomena, a pour titre Spéculation
+transcendante sur l'apparente préméditation qui règne dans la destinée
+de chacun 3, 1. Schemann, Schopenhauer-Briefe, p. 406 et 240.</p>
+<p>2. Die Weit a1s Wille und VorsteUung, suppléments au quatrième livre,
+chap. xux Die Heilsordnung.</p>
+<p>3. Transcendente Spekulation über die anscheinende Absichtlichkeit im
+Schicksale des Einzelnen.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>XXV</p>
+<p>FRANCFORT</p>
+<p><pb/></p>
+<p>2. Haus-, Wald- und Feldmärchen, 2 vol., Leipzig, 1844 Anna, 2 vol.,
+Leipzig, 1815 Bine ddmische Geschichte, Brunswick, 1848.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>a fallu reprendre notre vie autrement, avec d'autres relations, pour des
+raisons économiques.</p>
+<p>2. Dem Leben enispringen durch irgered einen Gewaltschritt. On a vu Flns
+haut (p. 242-243) que Schopenhauer rejette le suicide comme conséquence
+de sa doctrine. Mais il parait bien que la</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>2. Ueber den Willen in der Natur. Eire Erörterung der Destätigungen,
+welche die Philosophie des Yerfassers seit ihrem Auftreten, durch die
+empirischen Wsssenschaftrn erhalten hat, Francfort, 1836.</p>
+<p><pb/></p>
+<p>phie », et la préface contenait une sortie vigoureuse contre « la
+philosophie du non-sens absolu », l'hégélianisme.</p>
+<p>1. Schemann, Gespräche und Brieficechael mie A. Schopenhauer, aus dem
+Nachlasse voa K. Bähr, Leipzig, 1894, p. 34.</p>
+<p><pb/></p>
+<p>XXVI</p>
+<p>LES DEUX MÉMOIRES SUR LA MORALE</p>
+<p><pb/></p>
+<p>2. Chap. tn Der Wille vor dem Berousstsein audtrer Dinge.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1. Die moralische Triebfeder.</p>
+<p>2. § 22, Metaphysische Grundlage.</p>
+<p><pb/></p>
+<p>Établir ainsi deux séries d'actions, les unes morales, les autres
+immorales ou simplement non morales, les opposer les unes aux autres et
+les expliquer par le ressort intime qui les provoque, tel est, pour
+Schopenhauer, l'unique objet de la science des mœurs et le fondement de
+la science, c'est précisément l'ensemble de ces ressorts ou de ces
+mobiles, qui tiennent au caractère de chaque individu. Sa philosophie
+tout entière, sa morale comme sa psychologie et sa métaphysique, est
+théorique. Le précepte, selon lui, est impuissant, aussi longtemps qu'il
+n'est pas accompagné d'une adhésion libre, et dès lors il devient
+inutile. 1. § 14, Antimoralische Triebfedern.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>deux mémoires couronnées » sous un titre commun. Lorsqu'il apprit son
+échec, son indignation ne connut pas de bornes. Il réunit en effet les
+deux mémoires sous ce titre les Deux Problèmes fondamentaux de la morale
+1. Il eut soin d'indiquer, sur le titre même, que le second mémoire
+n'avait pas été couronné par la Société Royale de Danemark, et, dans une
+longue préface, il réfuta point par point les motifs sur lesquels
+s'appuyait le jugement. Vingt ans après, quand parut la seconde édition,
+son animosité n'était pas encore calmée, et, dans une nouvelle préface,
+il coiffa du bonnet d'âne les « illustrissimes » membres de la Société,
+et il voua, une fois de plus,'les summi philosophi au mépris de la
+postérité.</p>
+<p>1. Die beiden Grvndprobleme der Ethik, Francfort, 1841.</p>
+<p><pb/></p>
+<p>XXVII</p>
+<p>LES PREMIERS DISCIPLES</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Une grande unité d'esprit régnait dans ce premier 1. Ueber den
+Materialismus, mne Wahrheit und sein Irrtum, Leipzig, 1856.</p>
+<p>2. Franenstsedt a réduit la philosophie de Schopenhauer nom forme de
+lettres il en a publié deux séries, l'ane en 1854, l'antre après la mort
+de Schopenhauer, en 1876. Les lettres que Schopenhauer lui adressa se
+trouvent chez Grisebach, Schopenhauers Briefe, p. 142-355.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>son ressort en elle-même. Becker aurait pu lui répliquer que la volonté
+n'est pas un automate et que c'est même pour cela qu'on peut lui
+attribuer une essence. Sur cette même question de la négation de la
+volonté, Frauenstædt exprime une fois cette idée que, si la volonté est
+la chose en soi, elle ne peut jamais cesser d'être. Ici Schopenhauer
+flaire de l'hégélianisme, et il répond sur un ton plus vif</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>manifestations volontaires; ce qu'elle fait de plus est presque un abus.
+Et l'on veut que cette intelligence saisisse, sonde, approfondisse les
+conditions primordiales de l'être ? Elle en est si peu capable, que si
+la solution de ces problèmes nous était révélée en effet, nous n'y
+comprendrions absolument rien, et que nous resterions aussi sages que
+devant. »</p>
+<p><pb/></p>
+<p>XRV1II</p>
+<p>« PARERGA ET PARALI POMENA »</p>
+<p>Ls seconde édition du Monde comme volonté et comme représentation
+n'avait pas eu plus de succès</p>
+<p><pb/></p>
+<p>2. Allnsion au principal onrrage de Jean-Jacques Engel, Dsr Philosoph
+fur dit Weit, (Leipsig, 1775-1777).</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>2. Parerga und Paralipomena: Fragmente sur Geschichte der Philosophie, §
+13, note.</p>
+<p>3. Die Welt ab Wille und Vortteïlung, suppléments au qaatrième livre,
+chap. XLVIII.</p>
+<p>4. Fragmente sur lieachicbee der Philosophie, § 13, note.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>vaient leur pleine justification dans les derniers écarts de la
+philosophie hégélienne. L'État n'était-il pas, pour Hegel, « la forme
+réelle de l'Idée », participant du caractère absolu de celle-ci L'Etat,
+tel qu'il s'était constitué après la réaction de 1815, devenait ainsi,
+soit dans l'ensemble de ses institutions, soit dans la personne du
+souverain, un idéal intangible, une norme aussi tyrannique que
+l'ancienne théologie.</p>
+<p><pb/></p>
+<p>mais aussi sans l'entraver La vérité a ses pèlerins, consacrés et
+équipés par la nature, qui s'acheminent vers son temple auguste qu'on ne
+leur adjoigne pas un compagnon qui n'a d'autre souci que de trouver son
+repas du soir et un gîte pour la nuit Il leur mettrait des pierres sur
+la route, pour les faire marcher du même pas quelui.</p>
+<p><pb/></p>
+<p>philosophe; il n'enseignait pas sa propre doctrine dans sa chaire. »</p>
+<p><pb/></p>
+<p>XXIX</p>
+<p>LA CÉLÉBRITÉ</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>2. Briefe über die Schopenhauersche Philosophie, Leipzig,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>XXX</p>
+<p>LES DERNIÈRES ANNÉES</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>« Quelque chose de chinois, pensai-je.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>2. Il s'agit des deux articles publiés par la Westminster Review, en
+1852 et 1853.</p>
+<p><pb/></p>
+<p>Au reste, si des relations plus étroites avaient pu s'établir entre ces
+deux hommes, on pourrait dire entre ces deux volontés également
+absolues, ils se seraient trouvés en désaccord sur d'autres points
+encore. Quand Richard Wagner chargea, en 1854, un de ses amis de
+remettre en son nom un exemplaire de l'Anneau du Nibelung, « comme
+témoignage d'admiration et de 1. Lettre no 168.</p>
+<p>2. Un fragment de ce projet de lettre a été publié par les Bayrische
+Blätter de 1886, p. 101.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1. Voir Karl Baehr, p. 13.</p>
+<p><pb/></p>
+<p>elle doit pouvoir se traduire en poésie car la poésie est la mère de
+tous les arts 1. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>2. Voir Foucher de Carcil, Hegel et Schopenhauer, Paris, 1862, p. 1î3;
+et Challemel-Lacour, Un Bouddhiste contempo-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>inanimé, sans que ses traits trahissent la moindre altération.</p>
+<p>2. Grisebach, Schopenhauer, p. 323.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>XXXI</p>
+<p>L'ÉCRIVAIN</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1. Nietzsche, Schopenliauer ait Erzieher, au ler volume dea Œuvres
+complbtee, Leipzig, 1895.</p>
+<p><pb/></p>
+<p>2. Essais, livre II, chap. XVIII.</p>
+<p><pb/></p>
+<p>de grands écrivains allemands n'ont pas échappé, c'est d'abord
+l'obscurité, résultant d'une subordination exacte, où les compartiments
+de la phrase ne répondent pas aux divisions logiques de l'idée; c'est
+ensuite la surabondance, la tentation de vouloir tout dire, de vouloir
+exprimer les moindres nuances. Une période bien faite est comme un
+édifice bien distribué dans ses parties elle a son corps principal et
+ses dépendances elle a aussi son rythme, qui la rapproche du style
+poétique. Telle est la période de Gœthe, et celle de Schopenhauer. Les
+phrases de Schopenhauer sont parfois longues elles se lisent néanmoins
+sans embarras et sans fatigue. Les incidentes s'adaptent l'une sur
+l'autre et rayonnent autour de leur axe, comme une végétation naturelle
+le rameau se greffe sur la branche, la branche sur le tronc, et l'air et
+le soleil circulent au travers 1.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>plus facilement de la tête sur le papier qu'ils ne remontent du papier à
+une autre tête 1. »</p>
+<p>2. Même et apitre, 2U.</p>
+<p>3. Die Welt als Wille und Vorstellung, suppléments au premier livre,
+chap. xv.</p>
+<p><pb/></p>
+<p>2. Chap. xxut Ueber Schriftstellerei und Stil, § 233.</p>
+<p><pb/></p>
+<p>En voici un seul exemple. Comme tout notre savoir est fait d’apparences,
+on peut se demander si notre vie est autre chose qu'un long rêve. Kant
+répond que ce qui distingue le rêve, c'est que les images qu'il nous
+présente ne sont pas reliées entre elles par la loi de causalité.
+Schopenhauer lui objecte queles détails d'un 1. Die,Welt ah Wiue und
+Vorstellung, suppléments au premier livre, chap. vu.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>XXXII</p>
+<p>LES SUCCESSEURS</p>
+<p><pb/></p>
+<p>2. Voir le dernier chapitre, Die Eschatologie der Rtaldialektik.</p>
+<p><pb/></p>
+<p>1. Charakterologie, 1er vol., chap. XIII. -Bahnaen caractérise
+l'enseignement courant par un jeu de mote Die Köpfe werden als Töpfe
+behandelt, und das Resultat sind Tröpfe.</p>
+<p>8. Édouard de Hartmann a combattu la philosophie de Bahnsen du point de
+vue de sa propre doctrine. Deux de ses articles, tirés de la revue
+Unsere Zeit (1876, nos 21 et 22), ont été traduits dans la Revue
+philosophique (janvier et février 1877). Il a fait une critique spéciale
+de la Realdialektik (Philnaophische Monatshefte,</p>
+<p><pb/></p>
+<p>L'Inconscient dirige tous les êtres vers une fin déterminée, avec autant
+de sûreté et de précision que le ferait une Providence qui se rendrait
+compte des moyens qu'elle emploie et des ressorts qu'elle fait agir.
+L'Inconscient «ne connaît ni la fatigue, ni la maladie il n'hésite
+jamais, ne se trompe jamais il a la sagesse absolue ». Il a créé, entre
+tous les mondes que sa 1881, t. XVII, p. 227-260). Bahnsen a répondu
+dans la préface de son second volame.</p>
+<p>1. Philosophie dea Unbewussten, Berlin, 1869 10e édit. augmentée, 3
+vol., Leipzig, 1890 première partie, chap. IV. Traduction française, par
+D. Nolen, 2 vol., Paris, 1877.</p>
+<p><pb/></p>
+<p>pensée embrassait, le meilleur monde possible mais ce monde, tel qu'il
+est, est encore mauvais il doit disparaître, et il vaudrait mieux qu'il
+n'eût jamais été.</p>
+<p><pb/></p>
+<p>ingénieuse des inventions de notre industrie, l'imagination peut se
+donner carrière 1 0.</p>
+<p>2. Die Geburt der Tragödie, oder Griechemhum undr Pessimitmus, Leipzig,
+1872; an 1er volume des Œuvres complètes (12 vol., Leipzig, 1895-1897).</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>TABLÉ DES MATIERES</p>
+<p><pb/></p>
+<p>XXII. — L'individu et l’espèce. N7 XXIII. — L’affirmation et la négation
+de la volonté. 237 XXIV. L'ensemble du système 248 XXV. Francfort. 258
+XXVI. Les deux mémoires sur la morale 2M XXVII. — Les premiers disciples
+278 XXVIII. — Parerga et Paralipomena 291 XXIX. La célébrité. 302 XXX. —
+Les dernières années. 3i0 XXXI. — L'écrivain 328 XXXII. — Les
+successeurs. 339 FIN</p>
+    </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Boissier, Gaston (1823-1908)">Gaston Boissier</author>
+<title>Cicéron et ses amis : étude sur la société romaine du temps de César (13e éd.) / par Gaston Boissier,...</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Boissier, Gaston (1823-1908)</author>, <title>Cicéron et ses amis : étude sur la société romaine du temps de César (13e éd.) / par Gaston Boissier,...</title>, <date>1905</date>,description :,429 pages
+</bibl>
+<publisher>Hachette (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k205940x</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1905">1905</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p>CICËRON</p>
+<p>ET SES AMIS</p>
+<p>ÉTUDE SUR LA SOCIETE ROMAINE DU TEMPS DE CÉSAR</p>
+<p>GASTON BOISSIER</p>
+<p>UEL'ACA[))~nEFHANÇA~SE</p>
+<p>TREfZ[EMEEI))T)ON</p>
+<p>PARIS</p>
+<p>LIBRAIRIE HACHETTE ET C'~ c,</p>
+<p>79, tiOULEVAHD SA)NT-GER!t)A)N, ?9</p>
+<p>1905</p>
+<p>1 Dmit, d, IL d, rp.produ"~ion rher"b.</p>
+<p><pb/></p>
+<p>CICÉRON</p>
+<p>ET SES AMIS</p>
+<p><pb/></p>
+<p>OUVRAGES DE M. G. BOISSIER</p>
+<p>PUBLIÉS PAR LA LIBRAIRIE HACHETTE ET C"</p>
+<p>B!BLiOTHÈQUE VARtÉE, FORMAT !N-t6 BROCHÉ Chaque volume, 3 fr. 50</p>
+<p>Cicéron et ses amis. t3* édition. Un vol.</p>
+<p>La Religion romaine d'Auguste aux Antonins. S' édition. Deux vol.</p>
+<p>Promenades archéologiques. Rome et Pompéi; 8* édition. Un vol.</p>
+<p>Nouvelles Promenades archéologiques. Horace et Virgile; 5' édition. Un vol.</p>
+<p>L'Afrique romaine. Promenades archéologiques en Algérie et en Tunisie.
+2' édition. Un vol.</p>
+<p>La fin du paganisme. Étude sur les dernières luttes religieuses en
+Occident au tv° siècle; 4* édition. Deux vol.</p>
+<p>L'Opposition sous les Césars. 4° édition. Un vol.</p>
+<p>Tacite. 2° édition. Un vol.</p>
+<p>La Conjuration de Catilina. Un vol.</p>
+<p><pb/></p>
+<p>INTRODUCTION</p>
+<p>LES LETTRES DE CICÉRON</p>
+<p>ctcÉRoa. t</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>elle assiste. Le style de ses lettres s'élève quand elle les raconte,
+et, comme Cicéron, elle devient éloquente, sans y songer. Quelque
+admiration que me causent la grandeur des pensées et la vivacité des
+tours dans ce beau morceau de Cicéron sur César que je citais tout à
+l'heure, je suis encore plus touché, je l'avoue, de la lettre de Mme de
+Sévigné sur la mort de Louvois, et je trouve plus de hardiesse et
+d'éclat dans ce dialogue terrible qu'elle établit entre le ministre qui
+demande grâce et Dieu qui refuse.</p>
+<p><pb/></p>
+<p>vembre, on l'accuse d'avoir été honteusement malveillant dans la même
+affairer C'est que Cicéron ne juge guère que par ses impressions, et
+dans une âme mobile comme la sienne, les impressions se succèdent vite,
+aussi vives, mais très-différentes.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CICÉRON</p>
+<p>DANS LA VIE PUBLIQUE ET DANS LA VIE PRIVÉE 1</p>
+<p>LA VIE PUBLIQUE DE CICÉRON</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Qu'y a-t-il de vrai dans ces violences? Quelle confiance doit-on avoir
+dans ces hardiesses d'une critique révolutionnaire? Quel jugement
+faut-il porter sur la conduite politique de Cicéron? L'étude des faits
+va nous l'apprendre.</p>
+<p>t</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Cicéron avait consigné le résultat de ses réflexions et de ses études
+dans des écrits politiques dont le plus important, la République, ne
+nous est parvenu que 'De te~ ii, t.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>CtCËBON. 3</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>II</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>C'est &amp; quelques pas de l'homme qui avait ordonné les proscriptions, en
+face de ceux qui les avaient faites et qui en profitaient, que Cicéron
+parlait ainsi. Qu'on juge de l'effet que devaient produire ses paroles
+Elles exprimaient' les sentiments secrets de tout le monde, elles
+soulageaientla conscience publique, forcée de se taire et humiliée de
+son silence. Aussi le parti démocratique éprouva-t-il depuis ce jour la
+plus vive sympathie pour cet éloquent jeune homme qui protestaitavec
+tant de courage contre un régimeodieux. C'est ce souvenir qui jusqu'à
+son consulat lui conserva si fidèlement la faveur populaire. Toutes les
+fois qu'il souhaitait quelque magistrature, les citoyens accouraient en
+foule au champ de Mars Pro. JRosc..4me)' 46. Pro Rose. Amer., 29. 8 Pro
+Rose. ~mfy., 52.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>i Voir, sur l'exil de Cicéron et ia politique qu'il suivit après son
+retour, l'étude sur César et Cicéron, 1" partie.</p>
+<p><pb/></p>
+<p>ni</p>
+<p><pb/></p>
+<p>sénat, je lui aurais donné le vingt-quatrième coup de poignard. » Au
+contraire, c'est de nos jours, dans une époque toute démocratique, après
+la révolution française, qu'au nom même de la révolution et de )a.
+démocratie on a soutenu avec le plus d'avantage le parti de César, et
+qu'on a mis dans tout son jour le profit que l'humanité a tiré de sa
+victoire.</p>
+<p><pb/></p>
+<p>avec Atticus ou Curion, les motifs que lui donnaient les deux partis
+pour l'attirer dans leurs rangs.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>eicMON. 5</p>
+<p><pb/></p>
+<p>chefs Varron, Cicéron et Catou, c'est-à-dire deux petits bourgeois
+d'Arpinum et de Réate, et le descendant du paysan deTusculum.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1 Voyez l'Histoire de ~Mc~&lt;M/e f7a&lt;M ~anh'~tt'fe de M. Walton.t.II.ch.ix,</p>
+<p><pb/></p>
+<p>ouvert les rangs de l'armée aux plus pauvres citoyens (capite censi).
+Ces malheureux, ne trouvant pas d'autre ressource, s'étaient faits
+soldats. Faute de mieux, ils avaient achevé la conquête du monde, soumis
+l'Afrique, la Gaule et l'Orient, visité la Bretagne et la Germanie, et
+la plupart d'entre eux, les plus braves et les meilleurs, étaient restés
+dans ces lointaines expéditions. Pendant ce temps, les vides que
+faisaient dans la cité tous ceux qui partaient et ne revenaient pas se
+remplissaient mal. Depuis que Rome était puissante, il y venait des gens
+de toutes les parties du monde, et l'on pense bien que ce n'étaient pas
+les plus honnêtes. A plusieurs reprises elle essaya de se défendre
+contre ces invasions d'étrangers mais elle avait beau faire des lois
+sévères pour les éloigner, ils revenaient toujours se cacher dans cette
+immense ville sans police, et une fois qu'ils y étaient établis, les
+plus riches avec de l'argent, les autres avec des complaisances ou des
+ruses, finissaient par obtfnir le titre de citoyens. Ceux qui l'avaient
+plus naturellement encore et sans avoir besoin de le demander, c'étaient
+les affranchis. Sans doute la loi ne leur accordait pas du premier coup
+tous les droits politiques; mais après une ou deux générations, toutes
+ces réserves disparaissaient, et le petit-fils de celui qui avait tourné
+la meule et qu'on avait venau sur le marché des esclaves votait les lois
+et nommait les consuls comme un Romain de vieille race. C'est de ce
+mélange d'affranchis et d'étrangers que se tormait alors ce qu'on
+appelait encore par habitude le peuple romain, peuple misérable, qui
+vivait des libéralités des particuliers ou des aumônes de l'État, qui
+n'avait plus ni souvenirs, ni traditions, ni esprit politique, ni
+caractère national, ni même moralité, car il ne connaissait pas ce qui
+fait l'honneur et la dignité de la vie dans les conditions les plus
+basses, le travail. Avec un peuple pareil, la république n'était plus
+possible. C'est</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>IV</p>
+<p>Xon mnte revell r</p>
+<p>EMBimem quam te comptectar, Roma, tuumque</p>
+<p>~omeo, libertas, et inanem prosequar umbram.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Plut., Cie., 48.</p>
+<p><pb/></p>
+<p>LA VIE PRIVEE DE CICÉRON</p>
+<p>II</p>
+<p>1</p>
+<p><pb/></p>
+<p>s .Parad. 6. Qui honeste rem (/tfce)'tt)?&lt; Mtercahf)'s faciendis, operis
+da))d)'&lt;, publicis sMnteHtH~ etc.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>11</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>CtCtM!t. 7</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>tv. 1</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>III</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ad /&lt;tHt., XVI, 2~ ~Mt. ad Cic., H, 3.</p>
+<p><pb/></p>
+<p>IV</p>
+<p><pb/></p>
+<p>un crime que Cicéron ne pardonnait pas. Ses esclaves aussi l'aimaient
+beaucoup. H se loue de la fidélité qu'ils lui ont temoignée dans ses
+malheurs, et nous savons qu'au dernier moment ils voulaient se faire
+tuer pour lui, s'il ne les en avait empêchés.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>d'ici sous votre nouvel aspect! Il me semble que je vous vois acheter
+des instruments rustiques, causer avec le fermier, ou garder au dessert,
+dans un pan de votre robe, des semences pour votre jardin t Mais,
+propriétaire et affranchi, Tiron n'était pas moins au service de son
+maître que lorsqu'il était son esclave.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>?</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>ATTICUS</p>
+<p><pb/></p>
+<p>est adressée. Ce personnage est assurément l'un des plus curieux d'une
+époque importante, et il mérite qu'on se donne la peine de l'étudier
+avec quelque soin. 1</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Il</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>C'est encore un problème parmi tant d'autres dont la C'est le mot de
+Tacite pessimum veri affectus ucooMWt ~t&lt;a cuiquc ittilitas.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>CtCERON. 10</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>les plus beaux pour son ami. Les livres achetés, il fallait les mettre
+en place; aussitôt Atticus expédiait son bibliothécaire Tyrannion avec
+ses ouvriers, qui peignaient les rayons, collaient les feuilles de
+papyrus détachées, mettaient des étiquettes sur les rouleaux et
+disposaient tout dans un si bel ordre que Cicéron, enchanté, écrivait «
+Depuis que Tyrannion a arrange mes livres, on dirait que ma maison a
+pris une âme 1. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1 Cui potest esse vila vitalis ut ait .E'KKtMs, qui MOM tn amici mutua
+benevolentia congMtescati'(Cicéron, deAnMctt., 6.)</p>
+<p><pb/></p>
+<p>in</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>~«tC., t0.</p>
+<p><pb/></p>
+<p>C~ELIUS</p>
+<p><pb/></p>
+<p>homme d'esprit qui riait de tout, et il se trouvait avec lui plus à
+l'aise qu'avec des gens comme Caton ou Brutus, dont la raideur
+l'effrayait. Il le défendit devant les tribunaux, quand une femme qu'il
+avait aimée essaya de le perdre, et ce plaidoyer est assurément un des
+plus agréables qui nous restent de lui. Plus tard, lorsqu'il fut forcé
+d'aller en Cilicie, il le choisit pour son correspondant politique. Par
+un hasard heureux, les lettres de Cselius nous sont parvenues avec
+celles de Cicéron, et il n'y en a point dans tout ce recueil qui soient
+plus spirituelles et plus piquantes. Rassemblons tous les détails qui y
+sont épars; essayons de refaire, en les recueillant, l'histoire de
+Cselius, et par elle d'avoir une idée de ce qu'était alors la jeunesse
+romaine. Il n'est pas sans intérêt de la connaître, car elle a joué un
+rôle important, et c'est d'elle surtout que César s'est servi pour la
+révolution qu'il voulait accomplir.</p>
+<p>1</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>versait une crise dont les causes, qui remontent loin, méritent d'être
+connues. I[ faut en dire quelques mots pour qu'on puisse se rendre
+compte de la grave atteinte qu'avaient reçue les moeurs publiques.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>CtctM". 12</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Dans ces réunions de gens d'esprit, dont beaucoup étaient des
+personnages politiques, la politique n'était Catull. Carm., 86.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Les amours de Clodia et de Catulle finirent fort tris tement. Clodia ne
+se piquait pas d'être fidèle, et elle ne justifiait que trop son amant
+quand il lui écrivait « Les promesses que fait une femme, il faut les
+confier au vent ou les écrire sur l'eau qui s'enfuit 1. Catulle, qui se
+savait trompé, s'en voulait de le souffrir I) se raisonnait, il se
+grondait et ne se corrigeait pas. Malgré toute la peine qu'il prenait
+pour se donner du courage, l'amour était le plus fort. Après des luttes
+douloureuses .qui déchiraient son cœur, il revenait triste et soumis aux
+pieds de celle qu'il ne pouvait s'empêcher parfois de mépriser, et qu'il
+aimait toujours. x J'aime et je hais, disait-il vous me demandez comment
+cela peut se faire, je n'en sais rien; mais je sens bien qu'il en est
+ainsi, et mon âme en est torturée 2. » Tant de souffrance et de
+résignation ne touchait guère Clodia. Elle s'enfonçait de plus en plus
+dans d'obscures amours, et il fallut bien que le pauvre poète, qui
+n'avait plus d'espérance, s'éloignât d'elle pour jamais. La rupture de
+Clodia et de Caelius fut beaucoup plus tragique. C'est par un procès
+criminel que leur amour se dénoua. Cette Cat. Carm., 70. s Ca&lt;. CatW).. 85.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>arrive-t-il que, comme ils ne peuvent être ni chefs ni soldats, et qu'il
+leur est impossible de s'attacher aux. autres ou d'attacher les autres à
+eux, ils finissent par se trouver seuls.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>&lt;8~7.</p>
+<p>CfCtt)0! 13</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>au milieu d'un danger si réel, chez un homme qui avait conquis des
+royaumes et conduit de si grandes affaires, passe l'imagination.</p>
+<p><pb/></p>
+<p>Une fois qu'il se fut engagé lui-même, Cœlius n'eut Ad fam., VHt, 15.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>sa prudence, mais lui se la reprochait comme un crime. Il accusait
+amèrement sa faiblesse, son âge, son amour du repos et de la paix. Il
+n'avait plus qu'une pensée, c'était de partir au plus vite. « Je ne puis
+supporter mes regrets, disait-i); mes livres, mes études, ma philosophie
+ne me servent de rien. Je suis comme un oiseau qui veut s'envoler, et je
+regarde toujours du côté de la mer n</p>
+<p><pb/></p>
+<p>III</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Quand les généraux de César qui avaient tant de De fMMc.,15.</p>
+<p><pb/></p>
+<p>Peut-être faut-il expliquer la composition du parti '«., !x,l9.Ad.4«.,
+ix, 18.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>H est facile maintenant de comprendre quelles raisons avait Cœlius de se
+plaindre, et comment cette ambition, que les dignités de l'ancienne
+république n'avaient pas Ad A«., x, 4.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>CictRON. 14</p>
+<p><pb/></p>
+<p>Mais César n'était pas seulement venu pour détruire un gouvernement, il
+voulait en fonder un autre, et il n'ignorait pas que sur la spoliation
+et la banqueroute on ne peut rien établir de solide. Après s'être servi
+sans remords du programme de la démocratie pour renverser la république,
+il comprit qu'un rôle nouveau commençait pour lui. Le jour où il fut
+maître de Rome, son instinct d'homme d'État et son intérêt de souverain
+en firent un conservateur. En même temps qu'il tendait la main aux
+hommes modérés des partis anciens, il n'avait</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>plus longtemps, dignus vir cui mens melior et t)~a longior cotit~tsset !)</p>
+<p>/M&lt;. orat., x, t.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CÉSAR ET CICÉRON</p>
+<p>i</p>
+<p>CICÉRON ET LE CAMP DE CÉSAR</p>
+<p>DANS LES GAULES</p>
+<p>Cicéron ne se trompait pas lorsqu'il disait un jour à</p>
+<p>César « Après nous, il y aura de grands débats sur</p>
+<p>votre compte, commeil y en a eu parmi nous-mêmes 1. })</p>
+<p>H est certain que c'est le personnage de l'histoire sur</p>
+<p>lequel on discute encore avec le plus d'acharnement.</p>
+<p>Aucun n'a excité plus de sympathies ni soulevé plus de</p>
+<p>colères, et il faut reconnaître qu'il semble y avoir en lui</p>
+<p>de quoi justifier les unes et les autres. On ne peut ni</p>
+<p>l'admirer ni le blâmer sans quelques réserves, et il at-</p>
+<p>tire toujours de quelque côté ceux qu'il repousse d'un</p>
+<p>autre. Les gens même qui le détestent le plus et qui ne</p>
+<p>peuvent pas lui pardonner la révolution politique qu'i) &amp;</p>
+<p>ou quand ils lisent ses écrits, se sentent saisis pour lui</p>
+<p>d'une complaisance secrète.</p>
+<p>Plus ce personnage est complexe et discuté, plus il</p>
+<p>Pfo Marcello, u.</p>
+<p><pb/></p>
+<p>1</p>
+<p>Quand Cicéron revint de l'exil auquel Cludius l'avait fait condamner
+après son consulat, son retour fut un véritable triomphe. Brindes, où il
+débarqua, célébra son arrivée par des fêtes publiques. Tous les citoyens
+des municipes qui bordaient la voie Appienne l'attendaient sur la route,
+et il arrivait de toutes les fermes voisines des pères de famille avec
+leurs femmes et leurs enfants pour le voir passer. A Rome, il fut reçu
+par une multi-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>sait pas d'élection ou d'assemblée populaire sans que le sang coulât. «
+Le Tibre, dit Cicéron en parlant d'un de ces combats, fut rempli des
+corps des citoyens, les égouts publics en furent comblés, et l'on fut
+forcé d'étancher avec des éponges le sang qui ruisselait du forum 1. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>II</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>'~OtMKt.,n,13.</p>
+<p>ttCiM!). t0</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ou seulement 42, si l'on place sa naissance en 654. Voir, sur ce point,
+une note intéressante dans la Vie de César, liv. II, chap. t".</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Properce, et formait une sorte de transition et de lien vivant entre les
+deux plus illustres époques de la littérature latine.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ces deux épigrammes sont assez peu galantes, mais il faut les pardonner
+au mari malheureux de l'aigre Pomponia.</p>
+<p><pb/></p>
+<p>A~ Q'tM&lt; i. 2.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ad fam., vtt, 7.</p>
+<p><pb/></p>
+<p>III</p>
+<p><pb/></p>
+<p>tourage, que de recueillir avec soin les détails épars qu'elles
+contiennent.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ce qui était remarquable surtout dans cet entourage de César, c'est
+l'amour qu'on y avait pour les )e&lt;tres.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Tels étaient les rapports que Cicéron entretenait avec César et ses
+officiers pendant la guerre des Gaules. Sa correspondance, qui nous en
+conserve le souven iren nous faisant mieux connaître les goûts et les
+préférences de tous ces gens d'esprit, nous les fait paraître t Ad
+Quint., i, t5. s Ad Quint., II,16. Cic., -R;'t&lt;&lt;. 72. et Pline, Hist.
+nat., vu, 30.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>II</p>
+<p>LE VAINQUEUR ET LES VAINCUS APRÈS PHARSALE</p>
+<p>Que de regrets ne dut-il pas éprouver alors, si sa pensée se reporta à
+quelques années en arrière et s'il se ressouvint de son retour
+triomphant de l'exil Dans cette même ville, où on l'avait reçu avec tant
+de fêtes, il était contraint de débarquer furtivement, de cacher ses
+licteurs, d'éviter la foule et de ne sortir que de nuit. Il y passa onze
+mois, les plus tristes de sa vie, dans l'isolement et l'anxiété. Son
+cœur était déchiré de tous les côtés, et ses affaires domestiques ne lui
+causaient pas moins de chagrin que les événement? publics. Son 'A~~«.,vn,7.</p>
+<p><pb/></p>
+<p>Ad Att., xi, 20, je lis cognitionem au lieu de notMwent qui ne me semble
+pas avoir de sens.</p>
+<p>CtCttMM.</p>
+<p><pb/></p>
+<p>Sa conduite était désormais toute tracée. Il devait au grand parti qu'il
+avait servi et défendu de se tenir en dehors du gouvernement nouveau. Il
+lui fallait chercher dans la philosophie et les lettres un emploi utile
+de son activité, et se créer une retraite honorable loin des affaires
+publiques, dont il ne pouvait plus s'occuper avec honreur. Il l'avait
+bien compris lorsqu'il disait &lt;t (. onserAd /&lt;MM., rx, 1.</p>
+<p><pb/></p>
+<p>1</p>
+<p>Ils se réconcilièrent facilement, malgré tous les motifs qu'ils avaient
+de s'en vouloir. Le goût des plaisirs de l'esprit qui les réunissait
+était plus fort chez eux que toutes les antipathies politiques. La
+première irritation passée, ils revinrent l'un vers l'autre avec cette
+aisance '~dA«.,xvi,31.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ad Atf., ix, 20.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le plus beau moment de la clémence de César, c'est Pharsale. Il avait
+annoncé d'avance, lorsqu'il entra en Italie, qu'on ne verrait pas
+recommencer les proscriptions. « Je ne veux pas imiter Sylla, disait-il
+dans une lettre célèbre, et qui fut sans doute fort répandue. Inaugurons
+une nouvelle façon de vaincre, et cherchons notre sûreté dans la
+clémence et la douceur'. » II ne démentit pas d'abord ces belles
+paroles. Après la victoire il 'Ad~K., ix, 7.</p>
+<p><pb/></p>
+<p>II y avait donc, après Pharsale, un certain nombre d'exilés en Grèce et
+dans l'Asie qui attendaient avec impatience qu'on leur donnât la
+permission de revenir chez eux, et qui ne l'obtinrent pas tous. Les
+lettres de Cicéron nous rendent le service de nous en faire connaître
+quelques uns Ce sont des gens de toute condition et de toute fortune,
+des négociants et des fermiers de l'impôt aussi bien que des grands
+seigneurs. A côté d'un Marcellus, d'un Torquatus d'un Domitius, il y a
+des perL'amnistie générale, dont parle Suétone, n'eut lieu qu&lt;= beaucoup
+plus tard.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ctctMt). m</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>sa vie, que son esclavage n'avait pas été sans quelque honneur; quievi
+cM)n caquet dt~)M&lt;a(e 1.</p>
+<p>11</p>
+<p><pb/></p>
+<p>Il faut avouer cependant que d'ordinaire il était raide et obstiné, dur
+pour lui-même et sévère aux autres. C'était la pente de son humeur; il y
+ajouta par sa volonté. La nature n'est pas seule coupable de ces
+caractères entiers et absolus qu'on rencontre, et une certaine</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Pro Mw., 35.</p>
+<p><pb/></p>
+<p>Et qui voulez-vous donc qui pour vous sollicite? il répond aussi
+fièrement que Caton</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>nemi du mensonge il avait un de ces esclaves, appelés nomenclateurs, qui
+savaient le nom et la profession de tous les citoyens de Rome, et il
+s'en servait, comme les autres, pour faire croire aux pauvres électeurs
+qu'il les connaissait. « N'est-ce pas abuser et tromper le public?
+disait Cicéron, et Cicéron n'avait pas tort. Ce qu'il y a de plus
+triste, c'est que ces concessions, qui compromettent la dignité et
+l'unité d'un caractère, ne servent de rien on les fait généralement de
+mauvaise grâce et trop tard elles n'effacent pas le souvenir des
+rudesses passées et ne gagnent plus personne. Ma)gré ses sollicitations
+tardives et l'aide de son nomenclateur, Caton n'arriva point au
+consulat, et Cicéron le blâme sévèrement des maladresses qui le firent
+échouer. Il pouvait sans doute se passer d'être consu) mais la
+république avait besoin qu'il le fût, et aux yeux de beaucoup de bons
+citoyens c'était presque l'abandonner et la trahir que de favoriser, par
+des raffinements de scrupules et des exagérations d'honnêteté, le
+triomphe des plus méchants.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>jugéf isufnsante, César lui-même entra dans la lice et. au milieu des
+soucis que lui causait la guerre d'Espagne, {! composa t'AM~-CatoK.</p>
+<p>CtciROS. 20</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>III</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Il était certainement impossible de trouver un gouver-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>BRUTUS</p>
+<p>SES RELATIONS AVEC CICÉRON</p>
+<p>La liaison de Cicéron et de Brutus dura dix ans. Le recueil des lettres
+qu'ils s'écrivirent dans cet intcrvaUe devait être volumineux, puisqu'un
+grammairien en cite le neuvième livre. Elles sont toutes perdues, à
+l'excepCtC~KON. 2t 1</p>
+<p><pb/></p>
+<p>ï</p>
+<p>Atticus, l'ami de tout le monde, les rapprocha. C'était vers l'an 700
+peu de temps après que Cicéron fut revenu de l'exil, et au milieu des
+troubles que suscitait Clodius, un de ces agitateurs vulgaires comme
+Catilina, par lesquels César épuisait les forces de l'aristocratie
+romaine, pour en avoir un jour plus facilement raison. La situation que
+Cicéron et Brutus occupaient alors dans la république était fort
+différente. Cicéron avait rempli les fonctions les plus élevées, et y
+avait rendu d'illustres services. Son talent et sa probité en faisaient
+un auxiliaire précieux pour le parti aristocratique, auquel il s'était
+attaché; il n'était pas sans influence auprès du ~euple, que charmait sa
+parole; les provinces l'aimaient 1 L'authenticité de ces lettres a été
+souvent contestée depuis le siècle dernier. Tout récemment encore la
+question a été débattue en Allemagne avec beaucoup de vivacité, et un
+critique distingué, F. Hermann de Gœttingne. a publié des mémoires
+très-remarquables, et auxquels il me semble difficile de répondre, pour
+établir qu'elles sont bien de Brutus et de Cicéron. J'ai résumé ses
+principaux arguments dans les Recherches sur la manière dont furent
+recueillies les lettres de Cicéron ch. v.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Cicéron subit le charme comme les autres, mais ce ne fut pas sans
+résister. Son amitié avec Brutus a été pleine de troubles et d'orages,
+et, malgré la communauté de leurs opinions, il s'est élevé plus d'une
+fois entre eux des discussions violentes. Leurs dissentiments
+s'expliquent par la diversité de leurs caractères. Jamais deux amis ne
+se ressemblèrent moins. Il n'y avait pas d'homme qui semblât plus lait
+pour la société que Cicéron il y apportait toutes les qualités qui sont
+nécessaires pour y réussir, une grande flexibilité d'opinion,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ad Ait., V!. 1.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ad ~«., xi, 4. fam., xv, 15.</p>
+<p>cicËnott.</p>
+<p><pb/></p>
+<p>Il</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>plane on dirait qu'il ne se soucie plus que des éloges et de l'amitié de
+Brutus.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Plut., Brut 12.</p>
+<p><pb/></p>
+<p>III</p>
+<p><pb/></p>
+<p>ment une de ces dictatures temporaires, nécessaires dans les États
+libres après une époque d'anarchie, qui suspendent la liberté, mais ne
+l'anéantissent pas? S'agissaitil de recommencer Marius et Sylla,
+auxquels la république avait survécu ? A la rigueur, on pouvait le
+croire, et rien n'empêche de supposer que plusieurs des officiers de
+César, ceux surtout qui, détrompés plus tard, conspirèrent contre lui,
+ne l'aient alors pensé.</p>
+<p><pb/></p>
+<p>Tout parti commence par se chercher un chef. Si l'on</p>
+<p><pb/></p>
+<p>A cette pression de l'opinion publique, qui disposait de Brutus, et
+l'engageait sans son aveu, il fallait bien</p>
+<p><pb/></p>
+<p>Ad /'fMK., xv, 18. De 0/?c., n, 7.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>'~M&lt;. 97.</p>
+<p>CiCÉRON</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>J Epist. Bt-xt., i, 17. s Quint., ix, 3.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Il faut cependant remarquer qu'il y a plusieurs lettres de Cassius dans
+la correspondance de Cicéron et que quelques-unes sont spirituelles et
+fort gaies. On y trouve même des calembours. (Ad /a)?t., xv, 19.)</p>
+<p><pb/></p>
+<p>De Bell. civ., 11, 113. Plutarque raconte la même chose et presque dans
+les mêmes termes.</p>
+<p><pb/></p>
+<p>IV</p>
+<p>Brutus fut bien réellement le chef de la conjuration, quoiqu'il n'en ait
+pas eu la première pensée. Cassius, qui l'avait formée, aurait pu seul
+lui disputer le droit de ia diriger. Peut-être en eut-il un moment
+l'intention. Nous voyons qu'il proposa d'abord un plan de conduite où se
+retrouve toute la violence de son caractère. H voulait qu'on tuât avec
+César ses principaux amis, et surtout Antoine. Brutus s'y refusa, et les
+autres conjurés furent de son opinion. Cassius lui-même finit par se
+rendre, car il faut remarquer que, quoique impérieux et hautain, il
+subissait, lui aussi, l'ascendant de Brutus. I) essaya plusieurs fois de
+s'y soustraire mais, après beaucoup d'emportements et de menaces, il se
+sentait vaincu par la froide raison de son ami c'est donc Brutus qui a
+vraiment conduit toute l'entreprise.</p>
+<p><pb/></p>
+<p>Après la mort de César, les conjurés sortirent du sénat en agitant leurs
+épées et en appelant le peuple. Le</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>surtout quand il voit avec quelle facitit" on trafique des votes dans
+les élections. Néanmoins, t.M!: marchait encore 'avec une apparente
+régularité, et. les choses allaient du branle qu'elles avaient reçu.
+Dans une situation pareille, et quand un État ne va plus que par
+l'habitude d'aller, tout est perdu, si ce mouvement s'arrête un seul
+jour. Or, avec César les vieux rouages cessèrent de jouer.
+L'interruption ne fut pas longue, mais la machine était si délabrée
+qu'en s'arrêtant elle croula de toutes parts. Ainsi les conjurés ne
+pouvaient pas même refaire ce 'lui existait avant la guerre civile, et
+cette dernière o[):fe de république, si imparfaite qu'elle fût, était
+perdue pour toujours.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>oetMtt. 94</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>tant d'Italie que le consul Pansa finit par se plaindre et menaça
+d'arrêter au passage les recrues de Brutus Les étudiants d'Athènes, et
+parmi eux le fils de Cicéronet )e jeune Horace, quittèrent leurs études
+et s'enrô)èrent sous lui. En quelques mois, Brutus était maître de toute
+la Grèce, et il avait huit légions.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Epist. Brut., t, 17.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>OCTAVE</p>
+<p>LE TESTAMENT POLITIQUE D'AUGUSTE</p>
+<p><pb/></p>
+<p>nouveau, recherchaient son amitié, et celui qui fonda l'empire
+l'appelait son père.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ï</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>qu'il s'empresse d'ajouter « J'ai porté mes armes sur terre et sur mer
+dans le monde entier, soutenant des guerres contre les citoyens et les
+étrangers. Victorieux, j'ai pardonné aux citoyens qui avaient survécu au
+combat, et quant aux nations étrangères qu'on pouvait épargner sans
+danger, j'ai mieux aimé les conserver que de les détruire. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>CfCtBON. 26</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>II</p>
+<p>Je voudrais, après avoir analysé ce monument curieux, dire en quelques
+mots l'impression qu'il me laisse sur celui qui l'a écrit.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Mais en le souhaitant je ne l'ai pas connu.</p>
+<p>Dans sa possession j'ai ttouvé pour tous charmes D'effroyables soucis,
+d'éternelles alarmes.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>III</p>
+<p><pb/></p>
+<p>pas assez affermi; il le redevint plus tard, quand il s'aperçut que la
+faveur publique lui échappait. Ce règne, qui commence par proscrire les
+hommes, finit par brûler les livres. C'est seulement dans l'intervalle
+qui sépare ces rigueurs que la correspondance de Cicéron put être publiée.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>FIN.</p>
+<p><pb/></p>
+<p>TABLE DES MATIERES</p>
+<p>tNThODUCTMN. –Les lettres de Cicéron. 1 CICÉRON DANS LA VIE PUBLIQUE ET
+PRIVÉE. 2u LaviepubliquedeCiceron. 25 LavieprivéedeCicéron. ? ~T~us. (29
+C~Enus. La jeunesse romaine au temps de César.. 167 C-~SARETCtCÉRON. 221
+Cicéron et le camp de César dans les Gaules. 22t Le vainqueur et les
+vaincus après Pharsale. 273 SMJTUS. –Ses relations avec Cicéron. 321
+OCTAVE. Le testament politique d'Augusi.c 381 FIN DE LA TABLE DES
+MAT!I'~U!S.</p>
+<p><pb/></p>
+<p>BIBLIOTHÈQUE VARIÉE FORMAT IN-16, BROCHÉ</p>
+<p>Albert (Maurice) Les médecins ~j'~c~ûT~omc.ivo].</p>
+<p>Les théàtres de la foire. 1 vol. Ouvrage eooroun6 par l'Académie française.</p>
+<p>Albert (Paul) La poésie, études sur les chefs-d'œuvre des poètes de tous
+les temps et de tous les pays.ll" édition.IvoL</p>
+<p>–Z.apro~e,étudcssur]eschefsd'Œuvrc des prosateurs de tous les temps et
+de tous les pays; 8° édition.! 1 vol.</p>
+<p>La littérature française au xvti'~M~; 10' édition. 1 vol. La littérature
+française au xvut° siècle; 9° édIUon. 1 vol. La littérature /r&lt;ttti'aM~
+au x)X° siècle; les origines du romantisme T édition. 2 vol.</p>
+<p>~art'etM morales et littéraires. 1 vol.</p>
+<p>Poètes et poésies; 3' édit. 1 vol. Angellier (Aug.) Le chemin des
+sa!~07tN,poésics.1.vo).</p>
+<p>A fam&lt;e perdue, poésies. 1 vol. Anthologie grecque, traduite sur le
+texte publié par F. Jacobs, avec</p>
+<p>LIBRAIRIE HACHETTE ET C" ~9, BOULEVARD SAMT-GEMtAttt. A PARIS.</p>
+<p>A 3 FR. 50 LE VOLUME</p>
+<p>PUBLICATIONS</p>
+<p>LITTÉRAIRES, mSTORt~UES, PIIILOSOPIIIQUES SCIENTIFIQUES, ARTISTIQUES, ETC.</p>
+<p>des notices sur les poètes de l'Anthologie. 2 vol.</p>
+<p>Aristophane:~E'u~'e~&lt;:o~/)/e/M,traducLion française par M.C. Poyard;
+'10"ed)Uon.lvo!.</p>
+<p>Barine (Arvède) Portraits de femmes (Mme Carlyle. George Eliot. Une
+détraquée.–Ua Un couvent de femmes en Italie au .xvfsiècte.–Psycbo!ogic
+d'une sainte); 4" édition. 1 vol.</p>
+<p>Essais et fantaisies. 1 vol. Princesses et grandes dantes; Sédition. 1 vol.</p>
+<p>.CounycûM et gens de peu. 5" édi.tion.lvot.</p>
+<p>JV~ro~cs (Hotï'niann, Quincey, Ed~rdPoe,G.deNervat).lvoL Saint F,'ançois
+d'Assise et la lépende des trois compagnons. 4~ édition. 1 vol.</p>
+<p>La jeunesse de la Grande Jt/~demo!'M~e(1627-!653). 3" édition. Ivo!.
+Louis XI et la Grande Mademoiselle (1652-)6~3). 1 vol.</p>
+<p>Benoist(A.)~ recteur de l'Académie deMontpeHier:~i'M&lt;ttdecr~t~fte
+dramatique (George Sand, Musset, Feuillet. Augier, Dumas fils). 1 vol.</p>
+<p><pb/></p>
+<p>Bentzon (Mme Th.) Questions américaines. 1 vol.</p>
+<p>Promenades en Russie. 1 vol. Les Amcrtcatne~ chez elles. 1 vol. Berger
+(A.) Histoire de ~'e/o~tfenec latine depuis ~'or~ne de Rome jusqu'à
+Cicéron, publiée par M. V. Cucheval; 4' édition. 2 vol.</p>
+<p>Berger (Eu g.) Le vicomte de ~rtibeau, Mirabeau-Tonneau (17541792). 1 vol.</p>
+<p>Berger (G.) L'école française de peinture, depuis ses origines jusqu'à
+la fin du rè~nede Louis XIV. 1 vol.</p>
+<p>Berlioz (-H.) Voir Tiersot.</p>
+<p>B ersot Mesmer, le magnétisme animal, les tables tournantes et les
+esprits 5~ édition. 1 vol.</p>
+<p>Un moraliste, études et pensées, précédées d'une notice biographique par
+Edmond Scherer et d'une photographie de M. Bersot; 5" édition. 1 vol.</p>
+<p>Bertrand, dé l'Académie française Éloges académiques. 2 vol.</p>
+<p>La religion romaine d'Auguste aux Antonins; 5~ édition. 2 vol.
+Promenades archéologiques Rome 6~ ~ompet 8~ édit. 1 vol. Nouvelles
+Promenades archéoloy~ues Horace et Virgile; 5~ édition. 1 vol.</p>
+<p>Ouvrage couronné par l'Académie</p>
+<p>fraaçaise.</p>
+<p>Voir Cucheval.</p>
+<p>Boissier (suite) L'Afrique romaine. Promenades archéologiques en Algérie
+et enTunisie.Sédition. 1 vol.</p>
+<p>L'opposition sous les Ce~r~;4°éd. 1 vol.</p>
+<p>T~tt ~K cfK petyftn~me; 4" édition.</p>
+<p>1 La vo ~n dts paganisme; 4° édition. –~c~e.2"édition.lvol.</p>
+<p>–Cœtcc&lt;c/t!~&lt;?r;5°édit.lvol. Gû~Ac, ses précurseurs et ses
+contemporains; 4° édition. 1 vol. -La légende chevaleresque de Iristan
+et lseltlt. Essai de littérature comparée.1vol.</p>
+<p>~cAoRe~A~Mer, l'homme et le philosophe. 1 vol.</p>
+<p>Essais sur la littérature allemande. 1 vol.</p>
+<p>Bouché-Leclercq, membre de l'Institut Lecons d'histoire grecque.</p>
+<p>1YOÏ.</p>
+<p>Bouillier, de t'Institut ~'7j~t;M&lt; et les Académies de province. 1 vol.
+Nouvelles Etudes familières de psychologie et de morale. 1 vol.
+-Questions de morale pratique.1 vol. Bréal (M.), de l'Institut Quelques
+mots sur l'instruction publique en France; 5~ édition. 1 vol.</p>
+<p>Essai de Sémantique, science des significations. 3" édit-ion, revue. 1 vol.</p>
+<p>Brédif (L.), recteur honoraire de l'Académie de Besancon L'élo- quence
+po~xe en ~rcce;~emo~- ~Aene 2" édition. 1 vol.</p>
+<p><pb/></p>
+<p>Brunetièrc.del'Acadéunefrancaise: jE&lt;M critiques sur l'histoire de la
+littérature française. 7 vol.</p>
+<p>L'évolution de la poésie lyrique CM ~'Ya7!ce au xix" siècle; 3" édition.
+2 vol.</p>
+<p>Les époques du &lt;A~re français (1636-1850). (Conférences de r0déon.) 5"
+édition, revue et corrigée. 1 vol.</p>
+<p>Ouvrago. couronné par l'Académie</p>
+<p>française.</p>
+<p>t" earte La littérature française au âge. Pascal. Mmo de</p>
+<p>Sévigné. Molière. Racine.</p>
+<p>Montesquieu. Voltaire. La litté-</p>
+<p>rature française sous le premier Em-</p>
+<p>pira;!)" édition.ivot.</p>
+<p>2e eertc:LeB Précieuses.–Bossuct et Fénelon. Massillon. Mari-</p>
+<p>vaax. La direction de la tibrairie</p>
+<p>sousMatosherbcs. Galiani. -Dide-</p>
+<p>rot. Le théâtre de la Révolution;</p>
+<p>6~ édition.iTfi.</p>
+<p>3' ~rta Descartes. Pascal. Le</p>
+<p>sa a.- Prévost.</p>
+<p>VortaireetRousseau.–Ctassiquea</p>
+<p>et romantiques; 5e édition. t vol.</p>
+<p>40 &lt;orfc: Alexandre Hardy. -Le roman français au xvn' sièc!o. Pascal.</p>
+<p>Jansénistes et Cartésiens. La</p>
+<p>pbitosophiedoMoiicra.–Montes-</p>
+<p>quieu.–Voltaire.–Rousseau.–</p>
+<p>Les romans de Mme daStiië[;4&lt;'édi-</p>
+<p>tic.. 1 vol.</p>
+<p>8''«!'t'tft:Laref'ormodeMatherboet et t'évotution des genres. La phi-</p>
+<p>!osopbio de Bossuot.–La critique de</p>
+<p>Bayfe. La formation de l'idée de</p>
+<p>progrès.–Lecaracteroessentie] de</p>
+<p>f:rif[:t;e française. 4sédition.1 vol.</p>
+<p>6&lt;'Mftc: La doctrine évolutive et l'Histoire de la [itteraturo. Les fabtiaM</p>
+<p>du moyen {¡go et l'origine des contes.</p>
+<p>-Un précurseur de la pteiaao~Mau-</p>
+<p>rice Scavo. Corneille. L'esth&amp;</p>
+<p>tique de Boileau. Bossnet. Les</p>
+<p>Mémoires d'un homme heureux.</p>
+<p>Classique ou romantique T André Ché-</p>
+<p>nier.- Le cosmopolitisme et la HUé-</p>
+<p>rature nationale. 1 vol.</p>
+<p>T a~rtc Un épisope de la vie de Ronsard.–VaogetaN et ta théorie de</p>
+<p>l'usage. –Jean de la Fontaine. La</p>
+<p>langue de Molière. La Bibliothèque de</p>
+<p>Bossuot. L'évolution d'un geure</p>
+<p>Latragédiod'evotutiOlitd'unpoeto:</p>
+<p>Victor Huco: La littérature euro-</p>
+<p>péenne au XIXe siècle. Appendice.</p>
+<p>1 vol.</p>
+<p>Brunetière (suite) Victor ~o, leçons faites par les élèves do l'Ecole
+normale supérieure. 2 vol.</p>
+<p>Byron(Lord) (E'uur~coH!p~~M, traduites de t'angl. par Benjamin Laroche.
+4 vol., qui se vend. sépar.</p>
+<p>I. C/t~de-~aro~. 1 vol. H.</p>
+<p>Poémea. 1 vol IfI. Uramea.</p>
+<p>j vol. IV. Don Juan. 1 vol.</p>
+<p>Cabart-Danneville, sénateur La ~c?!$~ de nos cd/M. 1 vol.</p>
+<p>Caro (E.), de l'Académie française: L'idée de ~t'ett c&lt; ses ~OMuc&lt;tM;c
+critiques; 10' édition. 1 vol.</p>
+<p>Ouvrage couronné par t'Acadomie française. 1</p>
+<p>Le m~~rifï~t~mc et la science; 6*~ édition. 1 vol.</p>
+<p>J!/&lt;~a~M et portraits. 2 vol. Poètes et romanciers. 1 vol. -Philosophie
+et philosophes. 1 vol. Variétés littéraires. 1 vol.</p>
+<p>Carrau (L.), ancien maître do conférencos a la Faculté des lettres de
+Paris Etude sur la théorie de l'évolution aux points de vue
+psychologique, religieux et moral. 1 vol.</p>
+<p>Carraud (Mme Z.) Le livre des jeunes ~e~, simple. correspondance. 1 vol.</p>
+<p>Cervantes Don Quichotte, traduit de l'espagnol par M. L. Viardot. 2 vol.</p>
+<p>Charmes (F.), membre de l'Institut: .Z~t~'?;! historiques et
+diplomatiques. 1 voL</p>
+<p>Chateaubriand Le génie du chris~a~MMe. 1 vol.</p>
+<p>Les martyrs et le dernier des Abencerages. 1 vol.</p>
+<p>Atala; René; les 2Va;cA~. 1 vol. Voir Giraud.</p>
+<p>Chavanon (t.) et G. Saint-Yves Joac/tïmJtfur~(1767-lSi5). 1 vol. Ouvrage
+couronna par t'Acad~tnio</p>
+<p>des sciences morales et politiqacs.</p>
+<p>Chefs-d'oeuvre des littératures étrangères (Traduction des). Voir ~yron,
+Cervantes, Dante, Ossian, Shakespeare.</p>
+<p><pb/></p>
+<p>Chefs d'œuvre de la littérature grecque (Traduction des). Voir:
+Anthologie f/MC~t~, Aristophane, Diodore de Sicile, Eschyle, ~~rïpide,
+~ro~o~e, Homère, ~ttc~en, Plutarque, Sophocle, Thucydide, Xénophon.</p>
+<p>Chefs-d œuvre de la littérature latine (Traduction des). Voir Juvénal et
+~r~e, Lucrèce, P~it~, Sénèque, Tacite, Tite-Live, Virgile,</p>
+<p>Ven'M mortes, Thébaïde, Judée. 1 vol.</p>
+<p>-tf(/M anglaises. 1 vol.</p>
+<p>Sanctuaires et paysages d'Asie. 1 vol.</p>
+<p>Colson Les chemins de /'er et le budget. 1 vol.</p>
+<p>Compayré, inspecteur général de l'Instruction publique Histoire critique
+des 'foc~W~M de l'éducation en 7~'ance ~~ts xvi~ ~ëc~; ~édit.2vol.</p>
+<p>–JT/u~es-~ttrt'eMe~nëmënt et sur reduca~o~.lvot.</p>
+<p>Cottin (P.) et Hénault Mémoires du sergent Bourgogne; 4' édition. 1 vol.
+Coubertin L'éducation anglaise en France. 1 vol.</p>
+<p>-Universités transatlantiques. 1 vol. ~Vo~es sur l'éducation publique. 1
+vol.</p>
+<p>Coynart (Ch. de): Une sorcière au xvin" siéc/e ~ttrte-Anne de la Ville
+(1630~725). 1 vol.</p>
+<p>Les malheurs d'une grande dame ~ousZ.OM;s~V.lvot.</p>
+<p>Cruppi (Jean) Un avocat journaliste au xviii" N!ec~ Linguet. 1 vol.
+Cucheval(V.), professeur honoraire au lvcée Condorcet Ilistoire de
+l'éloquence latine depuis la mort t/e Cicéron /tt~~M'a l'avènement
+d'ft~rteM(43av;mtJ.-C.,m' après J.-C-). 2 vol.</p>
+<p>Ouvrages couronnés par l'Académie franc"ise.</p>
+<p>Ouvrage couronné par l'Académie</p>
+<p>frnnçaise et par l'ACadémio des</p>
+<p>sciences morales et politiques.</p>
+<p>Ouvrage couronné par l'Académie</p>
+<p>françaisa.</p>
+<p>VoirSer~er.</p>
+<p>Dante La divine comédie, traduction P. A. Fiorentino; 13' édition. 1 vol.</p>
+<p>Daudet (E.) N'M;oïre des eo~/)!- rations royn~~es~u .U~t sous la
+7Mt;o~tOH(l'790-1793). 1 vol. avec 2 cartes.</p>
+<p>Le roman d'un conventionnel. Hérault de Séchelles et les Darnes de
+Bellegarde. 1 vol.</p>
+<p>Dehérain (H.) Études sur rA/'r~tiCSoudan oriental, Ethiopie, Afrique
+équatoriale, Afrique du sud. 1 vol. avec 11 cartes.</p>
+<p>Ouvraga couronné pnr t'Acadcmie</p>
+<p>fraaçniso.</p>
+<p>L'expansion des jPoe~ au ~A'° siècle. 1 vol. avec huit cartes. Deltour,
+ancien inspecteur pcné!~ de l'instruction publique Les ~nemis de Racine
+au xvn' siècle; 5" édition. 1 vol.</p>
+<p>Ouvrage couronne par l'Académie</p>
+<p>fr3nç1\i~e.</p>
+<p>Deschanel (E.), ancien professeur au Collège de France Etudes sur
+Aristophane; 3~ édition. 1 vol. Dieulafoy (Marcel), de l'tnstLtut Le roi
+David. 1 vol.</p>
+<p>Diodore de Sicile Bibliothèque historique, traduite et annotée par M. F.
+Hœfer. 4 vol.</p>
+<p>Doniol (H.) La Basse-Auvergne, sol, population, personnages,
+description. 1 vol.</p>
+<p>Du Camp (M.), de l'Académie française .Part~e~ or~~nM,.?es/onc~ons, sa
+vie 9' édit. 6 vol.</p>
+<p>Ze~ convulsions de Paris; 8" édition. 4 vol.</p>
+<p>/.a Croix rouge de 7'~ance, société de secours aux blessés militaires de
+terre et de mer. 1 vol.</p>
+<p>i?OMueïtt7's ~(~'e~6s. 2 vol. ~c crépuscule; 2° édition. 1 vol. Dugard
+La Société &lt;tme)'tCfttne; 2~ édition. 1 vol.</p>
+<p>Ouvrage, couronné par l'~lcadémie</p>
+<p>fntncai~e.</p>
+<p>Eschyle Les tragédies, traduction française par M. Ad. Bouillet. 1 vol.</p>
+<p><pb/></p>
+<p>Estournelles de Constant (Baron d') La vie de province ett Grèce. 1 vol.
+Euripide T/te~rg et /7'a~m6~ traduction française par Hinstin. 2 vol.</p>
+<p>Expansion (1') de la France et la diplomatie. Hier, aujourd'hui. 1 vol.
+Fabre (J.) Washington, libérateur de l'Amérique. 1 vol.</p>
+<p>Figuier fL.) .o~'edMmeT'tjet~etM: dans es temps modernes; 3' édition. 4
+volumes, qui se vendent séparément.</p>
+<p>Le lendemain de la mort ou La vie future selon la science 10* édition. 1
+vol.</p>
+<p>Vies des savants illustres de l'antiquité; 2&lt; édition. 2 vol.</p>
+<p>Filon (A.) Mérimée et ses amis.1 vol. La caricature en Anj?~erre. 1 vol.
+Flammarion (C.) Contemplations sctëJ~ï~tM;4* édition. 2 vol. Fleury
+(Comte) Les Drames de /iMtoire. Mesdames de France pendant remi~ration,
+Madame de LavaletLe; Gaspar Hauser. 1 vol.</p>
+<p>Fouillée, membre de l'Institut La philosophie de Platon; 2' édition: 4 vol.</p>
+<p>L'enseignement au point de vue national. 1 vol.</p>
+<p>L'idée moderne du droit. 5'édition: 1 vol.</p>
+<p>J~tt sctence MC~e con~emporaïne o° édition. 1 vol.</p>
+<p>Franck (Ad.), de l'Institut Essais de er~~uëp/n~o~/t~ue. 1 vol.
+~VbMueau:c essais de critiguephiloNOp/t!'?M6. 1 vol.</p>
+<p>Funck-Brentano ~e~eH~M e~ arcA~c~ Je la Bastille, avec préface par M. V.
+Sat-dou; 7" édition. 1 vol.</p>
+<p>Tome 1 Théorie des idées et de</p>
+<p>l'amour (épuiaé.)</p>
+<p>Tome II Esthétique, morale et reti-</p>
+<p>gion J~la\o~lf~ir~' du plntonisme el</p>
+<p>Tome Ùt Histoire du pintoniamo et</p>
+<p>Tod~os~vr~Pt~¡td~C ~ttl~t~~i~iae~</p>
+<p>Tomo tV Essais de philosophie p)a-</p>
+<p>tonicieoHe.</p>
+<p>Funck-Brentano (suite) Le drame des poisons; 6' édition. 1 vol.
+jC'e~Œïre du collier, d'après de nouveaux documents. 5" édit. i vo). La
+mort de la 7'f!ne, les suites de l'affaire du Collier, d'après de
+nouveaux documents recueillis en par- r- tic par A. Bcgis. 4° édition. 1
+vol. Les nouvellistes, avec la collaboration de M. Paul d'Estrée;2"
+édition. 1 vol.</p>
+<p>Fustel de Coulants, de l'Institut: La cité antique; 18' édition. 1 vol.
+Ouvrage couronné par t'Academta française.</p>
+<p>Garnier (Ad.) Traï~ des facultés de l'dme; 4* édition. 3 vol.</p>
+<p>Ouvrage courooa6 par l'Académie française.</p>
+<p>Gauthiez (P.): L'Italie du xvt'~tec/e. -6'~n~'n (~492--155G). 1 vol.
+Gautier (E.) L'année scte?~ï~&lt;yue et industrielle de L. Figuier, 190t. à
+1904. 4 vol.</p>
+<p>Gebhart(E.), de l'Académie françaises L'lialie mystique, histoire ~c la
+Renaissance religieuse au moyen âge; 4' édition. 1 vol.</p>
+<p>Moines et ~)apM; édition. 1 vol. Au son des Cloches, contes et légendes;
+3' édition. 1 vol.</p>
+<p>Con~eu~ florentins du moyen d;ye. 2" édition, 1 vol.</p>
+<p>Geoffroy Saint-Hilaire (Etiennc) Lettres écrites d'f/yp~e recueillies et
+publiées avec une préface par M. E.-T. Hamy,de l'Institut. 1 vol. Girard
+(J.), de l'Institut /~u~ sur la poésie grecque. 1 vol.</p>
+<p>j~~ sur 27tucyd~e. 1 vol.</p>
+<p>Ouvrego couronné par l'Académie</p>
+<p>française.</p>
+<p>Giraud (Ch.) La maréchale de Vil/Œ 1 vol.</p>
+<p>Ouvrage couronné par l'Académie françniso.</p>
+<p>C/ta~eMtt&amp;y~H~, études littéraires. 1 vol.</p>
+<p><pb/></p>
+<p>Glachant (P. et V.) Papiers d'autrefois. 1 vol.</p>
+<p>~ssat critique sur le &lt;/)ea&lt;re de Vt'etc'' ~M~o. 2 vol.</p>
+<p>Goumy (E.) Les latins (Plaute et Térence Cicéron Lucrèce Catulle César
+Salluste Virgile Horace). 1 vol.</p>
+<p>Grandeau (L.), directeur de la station agronomique de l'Est Etudes
+agronomiques. a volumes, qui se vendent séparément.</p>
+<p>Gréard(O.), de l'Académie française De la morale de Plutarque; 6'
+édition. 1 vol.</p>
+<p>Z'e'dMeatton ~M femmes par les /'?Btmes. Etudes et portraits ;6* édit. 1
+vo).</p>
+<p>~dMcafion et !Mt)'MC&lt;ton; 4 vol.</p>
+<p>.t~udM économiques sur l'anti~ut&lt;ë. 1 vol.</p>
+<p>Banotaux (G.) Études historiques sur le xvi' et le xvir siècle en
+France. 't vol. 1.</p>
+<p>Hauréau (B.), de l'Institut Bernard Délicieux et l'inquisition
+albigeoise (1300-1320). 1 vol.</p>
+<p>Hayem (J.) Quelques réformes dans les écoles prtmatres. 1 vol.</p>
+<p>Heimweh L'Alsace. 1 vol.</p>
+<p>Henry (Victor) Les littératures de fAde. 1 vol.</p>
+<p>Hérodote Histoires traduction francaise avec notes par P. Giguet; T
+édit. 1 vol.</p>
+<p>Ouvrage couronné par l'Académie</p>
+<p>fraoçaise.</p>
+<p>ouvrage couronaB par l'Académie</p>
+<p>française.</p>
+<p>Enseignement primaire; 4· 6dit.</p>
+<p>l vol.</p>
+<p>EKSet'~nattt~nt Mcondat're 2* édit.</p>
+<p>2 ?ot.</p>
+<p>Enseignement supdrieur; 2" édit. i vo).</p>
+<p>Hinstin (G.), CAe/'s-d'fBuore des orateurs attiques, traduction
+nouvelle. 1 vol.</p>
+<p>Homère &lt;Et&lt;!)res complètes, traductmn française par P.
+Giguet;15'édition. 1 vol.</p>
+<p>HùI)ner(Comted6):~omMtOideftt&lt;&lt;OMr du monde (1871); 8' édition. 2 vol.
+Sixte-Quint d'après des correspondances diplomatiques inédites; 2'
+édition. 2 vol.</p>
+<p>Ideville (H. d') Journal ffun diplom~~e en Allemagne €&lt; en Grèce
+(Dresde, Athènes,1867-1868); 2' édition. 1 vol.</p>
+<p>Jacqmin (F.) Les chemins de /er pendant la guerre de ~7t)-«7&lt;; S*
+édition. 1 vol.</p>
+<p>Joly (H.), de l'Institut Psychologie des grands hommes. 1 vol.
+Psychologie compaT'ee rAomtMe et l'animal; 4" édition. 1 vol.</p>
+<p>Ouvrage couronné par l'Académie des sciences morales et politiques.</p>
+<p>Le socialisme chrétien. 1 vol. Jouffroy (Th.) Cours de droit naturel; 5'
+édition. 2 vol.</p>
+<p>.Me~M~es philosophiques; 6' édition. 1 vol.</p>
+<p>Juglar (L.), docteur ès lettres Le style daMS les arts et sa
+st~nt/tCtition historique. 1 vol.</p>
+<p>Ouvrage coaronné par !'Académic française.</p>
+<p>Jullian (C.), professeur au CoHege de France Vercingétorix, avec 7
+cartes et plans. 3' édit. 1 vol.</p>
+<p>Ouvrage couronné par l'Académie</p>
+<p>trança~se.</p>
+<p>JusseraDd (J.) Les Anglais au moyen fiye 2 vol.</p>
+<p>La vie .«de en Angleterre et les</p>
+<p>routea au d'IV· siAcle.</p>
+<p>1 tôt.</p>
+<p>Ouvrage couronné par l'Académie française.</p>
+<p>L'épopée mt/stt'~tte d~ tVt~t'ant Lon~land. 1 vol.</p>
+<p>Juvénal et Perse 6EucrM, suivies des Fragments de Lucilius, de Turnus et
+de Sulpicia. Traduction publiée avec les imitations et des notices par
+E. Despois. 1 vol.</p>
+<p><pb/></p>
+<p>Kergomard (Mme) L'éducation m&lt;t&lt;e)'MeHed&lt;tMi'eeo!e;3'édttion. 2 vol.</p>
+<p>KovaIewsky~Sophie): Souvenirs d'enfance, ecrits par elle-mème, traduits
+du suédois, et suivis do sa biographie, par Mme A.-Ch. Lefuer,
+duchcssedeCajaneUo.lvol.</p>
+<p>Laffitte (P.) Le ~u~race universel et lerégimeparlementatre; 2'éd.l vol.
+Lafoscade (L.), professeur agréée au tyeeo de Litie Le théâtre d'Alfred
+de j)7;~i!et. 1 vol.</p>
+<p>Lamartine G~uwe~, 22 vol.</p>
+<p>Z&lt;t société française au ~77" siècle, d'après dix romans d'aventures. 1
+vol.</p>
+<p>Lapaaze(H.):.M~tttt~&lt;&lt;u!-t'&lt;tr&lt; français. 1 vol.</p>
+<p>Larchey (Lorëdan) Les cahiers du capitaine Coignet (1799-1815), pubtiés
+d'après le manuscrit original;nouveneédition.lvoï.</p>
+<p>Journal du canonnier ~t'tCftrd (1792-1802); 2' édition. 1 vol.</p>
+<p>Larroumot(G.),membre del'Institut: La comédie de Molière; 6' édition. 1
+vol.</p>
+<p>Etudes d'A~tott'e et de critique dramatiques. 1 vol.</p>
+<p>Nouvelles études d'histoire et de cr!'&lt;~t&lt;e dramatiques. 1 vol.</p>
+<p>Etudes de littérature et d'art. 2 vol.</p>
+<p>~/&lt;t!t)&lt;tMx, sa vie et ses œuvres 2'édition.Ivo).</p>
+<p>L'art et l'état en 7''rft)tce. 1 vol.</p>
+<p>Premidrasméditotionepoétiquee.l 1 v. méditations. 1 vol.</p>
+<p>llarmoniea poétiques. 1 vol.</p>
+<p>flecueillementa podliquee. t vol.</p>
+<p>Jocelyn. 1 vol.</p>
+<p>La chute d'un ange. 1 vol.</p>
+<p>Voyage en Onent. 2 vol.</p>
+<p>Conhdencea. 1 vol.</p>
+<p>Nouvelles confidences. t vol.</p>
+<p>Lectures pour tous. 1 vol.</p>
+<p>Le manuecrit da ma mdre. 1 vol.</p>
+<p>Histoire de. Gt'rondt'nt. 6 vol.</p>
+<p>Coft-t&lt;p&lt;!n&lt;i&lt;tnef(tS01-tS5a).tTO).</p>
+<p>Chaque ouvrnge se vend népnrémeot.</p>
+<p>Ouvrage couronné par l'Aeadémie</p>
+<p>fraaçnise.</p>
+<p>Larroumet(G.), membre de l'tnstiLut (suite) Petits portraits et notes
+d'art. 2 vol.</p>
+<p>–Z~eT'nterspor~t~.tvoI.</p>
+<p>La Sizeranne (Robert de) Zape~turc anglaise contemporaine; ses origines
+préraphaélites, ses maitres actuels, ses caractéristiques. 3' édition. 1
+vol.</p>
+<p>TÏu~Atn e&lt; la religion de la beauté; Coédition.1vol. avec2portraits. Le
+miroir de la vie, essais sur l'évolution esthétique, avec 34 gravures. 1
+vol.</p>
+<p>Les C~e~~ons esthétiques contemporaines. 1 vol.</p>
+<p>Latreille (C.) ~(ïMcon Ponsard et la fin du théâtre romantique. 1 vol.
+avec portrait.</p>
+<p>Laugel(A.): Études scientifiques. Iv. v. L'Angleterre politique et
+sociale. 1 vol.</p>
+<p>La Vaulx (C~" de) ~eï-?e mille kiloHte~res en ballon. 1 vol.</p>
+<p>Laveleyû(E. de): Éludes et essais. v. La Prusse et l'Autriche depuis
+Sadowa. 2 vol.</p>
+<p>Lavisse(E.), de l'Académie française: j~dMSMr~tM&lt;otrede~'ruM6'j
+4'édit.lvol.</p>
+<p>Essais NMr t'A~ema~ne )'mpt!rtN~; 2' édition. 1 vol.</p>
+<p>Lavollée (Ch.) Essais de littérature et d'histoire. 1 vol..</p>
+<p>Le Breton (A.) Le roman au xvi!* siècle. 1 vol.</p>
+<p>Oavraga couronn6 par l'Acndémie</p>
+<p>française.</p>
+<p>Leger (Louis), de l'institut Russes e~~uM,études politiques et
+littéraires. 3 vol.</p>
+<p>iM série Les Slaves et la civilisation. Formatioti de ta natioDahtù
+russe. Les débuts de la littératuro russe. La femme et la aoci6t6 russe
+au xvt" siècle, etc. 1 vol. (epuMee.)</p>
+<p>20 série: Le développement intellectuetdetaRussio.–Lacotnëdie russe au
+xvut' siècle Von Vizine. Les premières années de Cathenoe Il. En Bohême,
+notes da voyage. 1 vol.</p>
+<p>3e 6crte Un précorEcur Rndistchev.</p>
+<p>Les Russes en l''rnnce. Le</p>
+<p>Cosareviteb en Orient. L'ensoi-</p>
+<p>gnement du Russe. Adnm Afickio-</p>
+<p>wicz. -Mickieaicz et Yuucbkine.</p>
+<p>La littérature tchùquo. 1 vol.</p>
+<p>~e monde slave, études politiques c~t~er&lt;n?'e~3vol.</p>
+<p>–ouuepttrd'Mn~jfafop/t~e.lvol.</p>
+<p><pb/></p>
+<p>La satire e~ France, ou la littérature militante au xvr* siècle 3'
+édition. 2 vol.</p>
+<p>La ~)o~!e patriotique en France ûttmoyenc~e.ivol.</p>
+<p>La poMt'e patriotique en France dans &lt;es temps modernes, du
+xvt'auxtx*siecte.2vol.</p>
+<p>La comédie en France au xvin* et au xix' siècles. 4 vot.</p>
+<p>Lenthéric La région du .BtM-.HMtte. 1 vol.</p>
+<p>Leroy-Beaulieu (A.), de l'tnstitut Un homme d'jË~at russe (Nieotas
+Mitutine), d'après sa correspondance écrite. Etude sur la Russie et la
+Pologne pendant le règne d'Atexandret[(1855-1872).l'voI. Lévy
+(Raphaël-Georges) Mélanges /mftncïer~. 1 vol.</p>
+<p>Levy-Bruhl L'Allemagne depuis /.et&amp;nh (Essai sur le développement de la
+conscience nationale en Allemagne, 1700-1848). 1 vol.</p>
+<p>Uchtenberger (E.), professeur a la r'acuité des lettres de Paris:
+Ti'tude sur les poésies lyriques de Gœ&lt;/te;2° édition. 1 vol.</p>
+<p>Liégeard ,(S.) Au caprice de la plume (Etudes Fantaisies Critique).1 vol.</p>
+<p>/fetes et combats. 1 vol.</p>
+<p>ouvrage couronné par l'Académie</p>
+<p>fraacatse.</p>
+<p>Ouvrage couronné par l'Académie</p>
+<p>française.</p>
+<p>Ouvrage couronné par l'Académie française.</p>
+<p>Loir (Maurice) et de CacquerayJ'eutena.nts de vaisseau La marine et le
+progrès. 1 vol.</p>
+<p>Luce (S.), de l'institut Jeanne d'Arc Domremy; 2" édition. 1 vol. La
+France ~otdan~ guerre de Cen&lt; Ans, épisodes historiques et vie privée
+aux xi v'ctxv'sicdes; 2'édition.2vol.</p>
+<p>Luchaire (A.), de l'fnstit.ut /nnocent III, Rome et 1'llalie. 1 vol.
+Innocent III, la Croisade des Albigeois. 1 vol.</p>
+<p>Lucien &lt;Fuure~ complètes, traduction française par M. Talbot; 5"
+édition. 2 vol.</p>
+<p>Lucrèce De la nature, traduction française par M. Patin; 2" édition. 1 vol.</p>
+<p>Malherbe Œ'Mures poétiques, réimprimées pour le texte sur l'édition
+publiée par M. Lud. Lalanne dans la collection des Grands Écrivains de
+la France. 1 vol.</p>
+<p>Cette édition ne comprend pas les notes. Maréchal (H.) Rome, souvenirs
+d'un mustcten. i vol.</p>
+<p>Ouvrage couronné par l'Acndenn(] frnoçaise.</p>
+<p>Martha (C.), de l'Institut Les moralistessous l'empireromain; 7e
+édition. 1 vol.</p>
+<p>Ouvrage courouué par l'2.cadémie française.</p>
+<p>ZepoëjMe de Lucrèce; 5' édition. 1 vol.</p>
+<p>Oavrage couronné par l'Académie</p>
+<p>française.</p>
+<p>J~udes morales sur l'antiquité; 3" édition.1vol.</p>
+<p>La délicatesse dans l'art; 3' édition. 1 vol.</p>
+<p>Propos d'Espagne. 1 vol. Masson:soree~et'ïee~se&lt;fttce des poisons. 1 vol.</p>
+<p><pb/></p>
+<p>Mézières (A.), de l'Académie francaise:t&lt;tAe~e~rc.se~&lt;xtf~'ese&lt; ses
+critiques; 6" édition. 1 vol.</p>
+<p>Prédécesseurs et contemporains de ~es/)e&lt;t?'e; 4" édition. 1 vol.
+Contemporains et successeurs de</p>
+<p>Shakespeare; 4° édition. 1 vol.</p>
+<p>Il ors de -~ro.nce Italie, Espagne, Angleterre,Grèce inoderne;2"édttiOM.
+1 vol.</p>
+<p>Vie de ~ftra~ettK.l vol.</p>
+<p>C~~c, les œuvres expliquées par la vie (1795-1832). 2 vol.</p>
+<p>–ar~Me. Etude d'après de nouveaux documents. 3" édition. 1 vol.</p>
+<p>Ouvrage couronné par l'Académie française.</p>
+<p>illorts et u~nn~. 1 vol.</p>
+<p>Michel (Henri) Le Quarantième Fauteuil. 1 vol.</p>
+<p>A~o~eN aur renseignement secondaire. 1 vol.</p>
+<p>Propos de morale. 3 vol.</p>
+<p>Michelet (J.) L'insecte; 13' édition. 1 vol.</p>
+<p>–OMefïu; 19" édition.1vol.</p>
+<p>Millet (R.) La France provinciale. Vie sociale. Mccurs administratives,
+1 vol.</p>
+<p>Mismer (Ch.) Souvenirs d'un drag'ond&lt;arnïee de Crimée. 1 vol.
+~Ott);eKt7's de la ~ar~ntçuc et'du ~/e.c!e.lvol.</p>
+<p>Souvenirs du monde muNi~n~n. 1 vol.</p>
+<p>Monnier (M.) Les aïeux de Figaro. 1 vol.</p>
+<p>Ces trois ouvrages ont été couronnés pu</p>
+<p>l'Académie française.</p>
+<p>Montemit(E.):Att~e(et'ree&lt;sM colonies australes j 26 édition.1vol.
+T~/pe$ littéraires et fantaisies MtM/t~ttM.~VoL</p>
+<p>-Essais sur la littérature &lt;m~se. 1 vol.</p>
+<p>Les écrivains modernes de l'Angleterre. 3 vol.</p>
+<p>ir° série (Lpuiede).</p>
+<p>S'M'rte:Mistres!!GMMt.–MiStressBrowning.–GeorgaBorrow.</p>
+<p>–Alfred TconyMo.tvot.</p>
+<p>3· néri~ Aathonp Trollopo. Miss</p>
+<p>Yonge. Charlos Kingsley. Los</p>
+<p>souvenirs d'un écolier anglais.</p>
+<p>~~D~~i~rêd~iité~1~i~~1~r nn~IiCll.D</p>
+<p>contre fiacrédulité, t vol.</p>
+<p>~t'urea e~ dmM des pays d'Ort'en~. 1 vol.</p>
+<p>C/tOSM du Nord et di&lt; J)/M!. 1 vot. ~/e'~n~M ert&lt;&lt;M(VictorHngo–Edgar
+Quinet Michelet Edmond About). 1 vol.</p>
+<p>Libres opinions morales et politiques 2° édition. 1 vol.</p>
+<p>Dramaturges et romanciers. 1 vol. Heures de lecture d'un eriiMMe. 1 vol.</p>
+<p>Esquisses littéraires. 1 vol.</p>
+<p>Voir Sdakespeare.</p>
+<p>Mouy (Comte de) Discours tur f/tMtoire de France. 1 vol.</p>
+<p>Nisard, de l'Académie française ~i'ude~demŒu~c~decrï~~ttesttr les poètes
+latins de la décadence; 5''édition.2vot.</p>
+<p>Noblemaire (S.) En congé (Egypte, Ceylan, Sud de l'Inde).3'cdit.lvo).
+~.ua; Indes (Madras, Nizam, Cashmire, Bengale). 2"edit.lvoi. Nourrisson
+(J.), de l'Institut Les ~'t't-esdet~i'jyiMeiatfTte.ieurvie, leurs
+écrits, leur temps. 2 vol.</p>
+<p><pb/></p>
+<p>Paris (G.), de l'Académie française La poésie du moyen d~e, leçons et
+lectures. 2 vol.</p>
+<p>~e~en~es du moyeK-dye. 2~ éd.l vol. Roûcevilux.–Le Paradis da ta Rine
+Sibylle. La Légende du Tana-</p>
+<p>-La littérature française au moyen d;?e; 3e .édition revue. 1 vol.</p>
+<p>Patin Etudes sur les tragiques grecs; 8" édition. Trois parties qui se
+vendent séparément</p>
+<p>Etudes sur la poésie latine; 3" édition. 2 vol.</p>
+<p>Discours et mélanges littéraires. 1 vol.</p>
+<p>Pellissier Le mouvement littéraire au xix' siècle; 7' édition, t vol.
+Ouvrage couronné par l'Académie française.</p>
+<p>Perthuis (C" de) d~ert de ~y~!e, l'Euphrate et la ~~opo~mîe. 1 vol.
+Pichat (Laurent) Gaston. 1 vol. Picot (G.), de l'institut La réforme
+JtfdïCïaiT'e en France. 1 vol.</p>
+<p>RMtot~e des Etats généraux; 2" édition. 5 vol.</p>
+<p>Plaute Les con~ïes, traduction française par M. Sommer. 2 vol.
+Plutarque: Les vies des hommes illustraduction française par M. Talbot.
+4 vol. –Œuures morales et apures diverses, traduction française par M.
+Béto- laud. 5 vol.</p>
+<p>Pomairols(Ch.d~) Lamartine. Etude de morale et d'esthétique. 1 vol.</p>
+<p>Ir° série Les origines de la littéra-</p>
+<p>ture française La chanson de</p>
+<p>Roland; t:n~:le~itn8~:r~rte Charle-</p>
+<p>magne L'ange et I ermite; L'art</p>
+<p>d'aimer; Pnulin Paris et la litière-</p>
+<p>ture au moyen à~e.3° édition. 1 vol.</p>
+<p>2e série La litterature française du</p>
+<p>au° siècle; L'esprit normand en</p>
+<p>Angleterre Les contes orientaux</p>
+<p>dans la littérature française au moyen</p>
+<p>Age; La légende du mari aux deux</p>
+<p>femmes; La parabole des trois</p>
+<p>anneaux; Siger de Brabant La litté-</p>
+<p>rature française au xtv° siècte; La</p>
+<p>poésie française au xv° siée le. 1 vol.</p>
+<p>bauser. Le Juif Errant. Le</p>
+<p>Lai do t'Oisafet.</p>
+<p>~tudce aur Eechy7e, i vol.</p>
+<p>Etudes sur Sophocle. 1 vot.</p>
+<p>Études sur Euripirse. 2 vol.</p>
+<p>Voir Lucrèce.</p>
+<p>Ouvrage qui a obtenu en 1874 le grand</p>
+<p>prix Gobert.</p>
+<p>Ouvrage couronné par l'Académie française.</p>
+<p>Ouvrage couronné par l'Académie</p>
+<p>française.</p>
+<p>prévost-Paradol Études sur les moralistes français; 8e édition. 1 vol.
+–.Ë'M~tStM'u~o~eHHtue~e~e; 5' édition. 2 vol.</p>
+<p>Quinet (Edgar). Œ'uuï'escompMte~. 30 vol.</p>
+<p>Génie des religions. 6e édition. 1 vol.</p>
+<p>LesJésuttes.– L'ultramontanisme, He édition.! 1 vol.</p>
+<p>Le christianisme et la révolution frao- çiitse.6"6dHion.lvo).</p>
+<p>Les révolutious d'Italio. 50 éditioD.2 vol,</p>
+<p>Marnix de Sainte-Aldegonde. Philo-</p>
+<p>sopbie de l'histoire de France. 46 édi-</p>
+<p>tion, 1 vol.</p>
+<p>Les Allemagne et Italie.</p>
+<p>3'cdition.tvo).</p>
+<p>philosophie de l'histoire. Essai sur</p>
+<p>ilerder.–Examen de via de Jésus. Origine des dieux.–L'Eg!iso de Brou. Ue
+édition. 1 vol.</p>
+<p>La Grèce moderne.–Histoire de la poÉsie.S'Édition.lvoj.</p>
+<p>M.esvacaocaseaEsp~gtio.5eediLlvm. Ahasvérus. Tablettes du Juif errant.
+6eed!HoQ.tvot.</p>
+<p>PromÈthée.– Les esclaves. f édit. t v. Napotëonfpoe[ne).(Eptt~f.)lvoL
+~~vres</p>
+<p>L'Enseignement ffupeupte.–Œuvras</p>
+<p>politiques avant l'exil. 8e édition. 1 vol.</p>
+<p>Histoire demesidees(A.utubiographn:). f Édition.ivot.</p>
+<p>Merlin l'Enchanteur. 2° éditioa. 2 vol. La rÉvotulion. t0° édition. vo).</p>
+<p>Canipagno de 18t5. ~e édition. 1 vol.</p>
+<p>La Création. 3'édition.iivof.</p>
+<p>LeLiTredet'MiiÉ.–Larevotut.iou religieuse au xixe siècle. Œuvres
+politiques pendaQtt'exiLS~édit. voL Le siège do Paris.–Œuvres politique</p>
+<p>après l'exil. édition.lvot.</p>
+<p>LaRÉpubliqua.–Cofuiitions de régénération de la Franco. 2e édition. t vol.</p>
+<p>L'esprit nouveau. 5° édition. 1 vol.</p>
+<p>Le~énie~rec.l'édition.lvot.</p>
+<p>Chaque ouvrage se vend séparémont.</p>
+<p>jË'a:~at~ de ses ceuurM. 1 vol. Ralston Contes populaires de la Russie.
+1 vol.</p>
+<p>Reinach (Joseph) Études de littérature et d'histoire. 1 vol.</p>
+<p>Ricardou, docteur ès lettres, professeur au lycée Charlemagne: La
+critique littéraire, étude philos. 1 v. Richter (J.-P.) Q?uu7'es
+diue~c~. Etude et traduction française par M. Emile Rousse. 1 vol.</p>
+<p><pb/></p>
+<p>Bitter (Eug.), doyen de la faculté des lettres de Geneve:(t/'&lt;tm!~ee«a
+jeunesse dé J.-J. Rousseau. 1 vol. Uuvrage couronaé par l'Acndémie</p>
+<p>Rochard (D' Jules) L'éducation de nos filles, 1 vol.</p>
+<p>CMMhom d'hygiène sociale. 1 vol. Rosebery (Lord) Napoléon; la dernière
+phase. 4~ édition. 1 vol. Rousset(C.), de l'Académie française:
+Ilistoire de h: guerre de Crt'm~e; 3'édition.2 vo).</p>
+<p>Ruinat de Gournier &lt;/n amout' de philosophe, Bernardin de Saint-Pierre
+et Félicite Didot. 1 vol. avec S grav. Saint-Simon (Duc de) Mémoires,
+puMies par MM. Chéruel et Ad. Régnier fils et cotiationnés de nouveau
+pour cette édition sur le manuscrit autographe. 92 vol. Lo tome XXI
+contient le Snppje-</p>
+<p>Scènes et j)or&lt;rŒt't~, choisis dans les Mémoires, par M. de Lanneau;
+5'édition.2voi.</p>
+<p>Sainte-Beuve Port-Royal; 6'édition, revue et augmentée. 7 vol. Saintine
+(X.): f!ceto~;54' édition. 1 vol.</p>
+<p>Sohneider (R.), agrégé des lettres //0mtrte, l'Ame des cités et des
+paysages. 1 vol.</p>
+<p>SchrcBder (V.), professeur au lycée Carnet L'abbé Prévost, sa v]e et ses
+romans. 1 vol.</p>
+<p>Sénèque le Philosophe ŒttcrM centplètes, traduction française par M. J.
+Baillard. 2 vol.</p>
+<p>Shakespeare G?m)fM complètes, traduites de l'anglais par M. E. Montégut.
+10 volumes, qui se vendent séparément.</p>
+<p>Ouvrage couronné par i'AMdémia</p>
+<p>Les tomes 1, et HI comprennent</p>
+<p>fraaçaise.</p>
+<p>meW, publiépnrM.doBoislisle,otlo</p>
+<p>tOtnc'XXIt, )a Tabte atphabÉtiqu'o des Mémoires, rédigée par M. Paul</p>
+<p>Uuérin,</p>
+<p>françorse.</p>
+<p>tes comédies: tes tomes tV, Vêt et VI, les tragédies; les tomes VII,
+\'lUet&lt;X,iesdram(a;tetomeX, C~mt'ehtn', les poèmes, les petits poèmes et
+les sonnets.</p>
+<p>Simon (Jules), de l'Académie francaise:Z&lt;[Mer&lt;epo&lt;!&lt;ue;5'édit. 1 vol.</p>
+<p>–&amp;er~c!m7e;5'édition.Ivoi. –~c~euoï'?'7'cdition.'ivoi. Ouvrago couronné
+par t'ANdenno</p>
+<p>française,</p>
+<p>Simonin (L.):Z€~pof~ de la Grande~ftjyne.lvo).</p>
+<p>Spencer (Herbert) 7!'ft;~ et Commentaires, trad. de l'anglais. 1 vol.
+Spuller (E.) At; ministère de l'instruction put~Ke. Discours,
+allocutions, circulaires. 2 vol.</p>
+<p>t" série (tSMj.tvoi.</p>
+<p>2°serie()8!)3-tS9t).tvol.</p>
+<p>–/&lt;a/nenntt!'a.ivo!.</p>
+<p>Ouvrage couronné par l'Académie</p>
+<p>française.</p>
+<p>-Des réputations &lt;&lt;M!'atr&lt; Essais de morale etd'histoire, série.tvo). La
+famille et les amis de Montaigne. Causeries autour du sujet. 1 vol.</p>
+<p>Tacite &lt;Ett!'rescompM&lt;M,traduites en français par J.-L. Burnouf. 1 vol
+Taine (H.), de l'Académie française: ~Mftt.)M)'yt&lt;e-Z!M;7'edit.lv. v.
+Ouvrage eouroanô par l'Académie</p>
+<p>frençniso.</p>
+<p>–~MftM critique et d'histoire; 9' édition. 1 vol.</p>
+<p>Nouveaux Essais de cr~t'y!fe et t~'AM~ûM'e; 7~ édition. 1 vol.</p>
+<p>Z)emM)'&lt; Essais de critique et d'histoire. 3' édition. 1 vol.</p>
+<p>~Ft'~Ot'T'e de la littératureanglaise; 11' édition. 5 vol.</p>
+<p>La Fontaine et ses fables; 16' édition. 1 vol.</p>
+<p>Les philosophe. classiques du xix* siècle en France 8' éd. 1 vol.</p>
+<p><pb/></p>
+<p>Taine (H.) (sui)e): Voyage aux Pyré)iees;16"édition.lvo!.</p>
+<p>–~Vûtesst[rrAn~~e&lt;erre;12'édition. 1 vol.</p>
+<p>–A'o&lt;ea~MT'Pfï?~s:uteefoptntons de T'edenc-TAomas Graindorge; 15'
+édition. 1 vol.</p>
+<p>Carnets de voyage, notes sur la province (1S63-1865). 1 vol.</p>
+<p>-Voyage en/f~ie;l~édit.2vol., qui se vendent séparément «.</p>
+<p>–DH~tttfe~'p'eMce;10° édition. 2vol. –P/t~oM/)/t!e~&lt;Q:ft;-ti'édit.'2vol.
+-Les Origines de la France contemporaine; 35" édition. 11 vol.</p>
+<p>Table analytique. 1 fr.</p>
+<p>Thamin (R.), recteur de l'Académie de Bordeaux Un problème moral
+d'aM~'aïttî~U!J'ë;étudedeca.suistique stoicienne. 1 voL</p>
+<p>Thucydide Histoire dela guerre du Peloponèse, traduction française
+parM.Bétant.lvoL</p>
+<p>Tiersot (S.): ~cc~or ~erftO~ et la société de son temps. 1 vol.</p>
+<p>Tome Ù. F~rt~co et Rome.</p>
+<p>Tome Il. f~torrnee et Veniae,</p>
+<p>L'ANCIEN RÉGIME. 2 vol.</p>
+<p>LA RÉVOLUTION. 6 vol. /AMr-</p>
+<p>c~te. 2 vol. La Conquête</p>
+<p>jacobine. 2 vol. Le Gouver-</p>
+<p>nement révolutionnaire. 2 vol.</p>
+<p>LE RÉGIME MODERNE. 3 vol.</p>
+<p>Ouvraga couronné par fAcudémie</p>
+<p>Irançaise.</p>
+<p>Ouvrage couronné par l'Académie des</p>
+<p>Sciences morales et politiques.</p>
+<p>Ouvrage couronné par t'Académie</p>
+<p>française.</p>
+<p>Sannazer). t vol.</p>
+<p>série (L'Arioste -Guichardin).t vol.</p>
+<p>Valbert Hommes et choses d'Allemagne. 1 vol.</p>
+<p>tommes et choses du temps présent. 1 vol.</p>
+<p>Varigny (De) L'Océan .Pact/ï~e. 1 vol.</p>
+<p>Les grandes /ort!tnes aux ÉtatsUnis et en Angleterre. 1 vol.</p>
+<p>Vignon (L.) Z'e~p~otta~on de notre emptre colonial. 1 vol.</p>
+<p>Vilïetard de Laguérie Trois mois avec le Maréchal ûyama. 1 vol. Virgile
+Œttures comptes, traduotion française par M. CabaretDupaty. 1 vol.</p>
+<p>Waduington (Ch.), de l'Institut La pA~osopAïe ancienne et la critique. 1
+vol.</p>
+<p>Wallon, de l'Institut Vie de ~V. Jésus-Christ, selon la concordance des
+quatre évangélistes; 3~ édH.voL Lasainte Bible, résumée dans son
+histoire et dans ses enseignements (Ancien et Nouveau Testament);
+2'editton.Svot.</p>
+<p>La Terreur, études critiques sur l'histoire de la Révolution fraQcaise;
+5' édition. 2 vol.</p>
+<p>Jeanne d'Arc; T" édition. 2 vol.</p>
+<p>Ouvrage qui a obtenu de "Académie</p>
+<p>fmnçai-e le grand prix Go~ert.</p>
+<p>.E~op'es académiques. 2 vol. Weil(H.),de l'Institut. Études sur le drame
+anitoue. 1 vol.</p>
+<p>~tu~e sur l'antiquité srrec~Me. 1 v. Xénophon &lt;EutJres complètes,
+traduction française par M. Talbot; 5&lt; édition. 2 vol.</p>
+<p>Zurlinden (Général) La guerre de ~70-~ 3~ édition, -t vol.</p>
+    </div>
+    </body>
+  </text>
+</TEI>

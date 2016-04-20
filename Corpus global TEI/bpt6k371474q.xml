@@ -1,0 +1,1591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Firmery, Joseph Léon (1853-1913)">Joseph Léon Firmery</author>
+<title>Goethe, par Firmery,...</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Firmery, Joseph Léon (1853-1913)</author>, <title>Goethe, par Firmery,...</title>, <date>1890</date>,description :,236 pages
+</bibl>
+<publisher>Lecène, Oudin et Cie (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k371474q</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1890">1890</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p>COLLECTION DES CLASSIQUES POPULAIRES</p>
+<p>GOETHE</p>
+<p><pb/></p>
+<p>EN VENTE DANS CETTE COLLECTION</p>
+<p>Prix de chaque volume, broché. ... 1 50 — — cart, souple, tr. rouges. 2 50</p>
+<p>Chaque volume contient de nombreuses illustrations HOMÈRE, par A. COUAT,
+Recteur de l'Académie de Lille, 1 vol.</p>
+<p>VIRGILE par A. COLLIGNON, agrégé des lettres, professeur de rhétorique
+au VIRGILE, Lycée de Nancy, 1 vol.</p>
+<p>CICÉRON, par M. PELUSSON, agrégé des lettres, inspecteur d'Académie, 1 vol.</p>
+<p>LES CHRONIQUEURS, par A. DEBIDOUR, doyen de la Faculté des</p>
+<p>PREMIÈRE SÉRIE: Villehardouin ; — Joinville, 1 vol.</p>
+<p>DEUXIÈME SÉRIE : Froissart ; — Commines, 1 vol.</p>
+<p>LA FONTAINE, par EMILE FAGUET, docteur ès lettres, professeur de LA
+FONTAINE, rhétorique au Lycée Janson-de-Sailly, 1 vol.</p>
+<p>CORNEILLE, par LE MÊME, 1 vol.</p>
+<p>Mme DE SÉVIGNÉ, par R. VALLERY-RADOT, 1 vol.</p>
+<p>MOLIÈRE par HIPPOLYTE DURAND, agrégé des lettres, inspecteur général
+honoraire de l'instruction publique, 1 vol.</p>
+<p>J. ROUSSEAU, Faculté des lettres de Poitiers, 1 vol</p>
+<p>BUFFON,</p>
+<p>par II, LEBASTEUR, professeur de rhétorique au Lycée de ChamFLORIAN,</p>
+<p>ChamFLORIAN, LÉO CLARETIE, professeur agrégé des lettres au Lycée de Douai,</p>
+<p>VICTOR HUGO, par ERNEST DUPUY, inspecteur de L'Académie de Paris</p>
+<p>MICHELET, par F. CORRÉARD, professeur agrégé d'histoire au lycée
+Charlemagne, 1 vol.</p>
+<p>SHAKESPEARE, par JAMES DARMESTETER, professeur au Collège de</p>
+<p>CERVANTÈS, PAR LUCIEN BIART, 1 vol.</p>
+<p>EMILE AUGIER, par II, PARIGOT, professeur de rhétorique au Lycée</p>
+<p><pb/></p>
+<p>Goethe sur son lit de mort,</p>
+<p><pb/></p>
+<p>NOUVELLE COLLECTION DES CLASSIQUES POPULAIRES</p>
+<p>GOETHE</p>
+<p>PAR</p>
+<p>FIRMERY</p>
+<p>PROFESSEUR DE LITTERAIRE ÉTRANGÈRE A LA FACULTÉ DES LETTRES DE LYON</p>
+<p>Un volume orné de nombreuses reproductions.</p>
+<p>PARIS</p>
+<p>LECÈNE, OUDIN ET Cie, ÉDITEURS</p>
+<p>17, RUE BONAPARTE, 17</p>
+<p>1890</p>
+<p>Tout droit de traduction et de reproduction réservé.</p>
+<p><pb/></p>
+<p>GOETHE</p>
+<p>CHAPITRE PREMIER.</p>
+<p>L'ENFANCE ET LA JEUNESSE DE GOETHE. SON SÉJOUR</p>
+<p>AUX UNIVERSITÉS DE LEIPZIG ET DE STRASBOURG.</p>
+<p><pb/></p>
+<p>A l'époque de la naissance de Wolfgang, il était marié depuis un an avec
+Catherine Elisabeth Textor, tille du schultheiss de Francfort. Le
+schultheiss était le président du sénat, une sorte de chef du pouvoir
+exécutif. Madame la conseillère Goethe, Frau</p>
+<p><pb/></p>
+<p>donc par le nombre des armées plus rapprochée de son fils que de son
+mari. Elle fut en effet, pendant l'enfance de Wolfgang, la joyeuse
+compagne de ses jeux, et plus tard sa grande amie et sa confidente. La
+mère de Goethe est une des figures les plus oriFrau</p>
+<p>oriFrau la mère de Goethe.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>« Nous autres garçons, raconte-t-il dans ses Mémoires, nous avions tous
+les dimanches des réunions où chacun de nous devait produire des vers
+composés par lui. À cette occasion, il m'arriva quelque chose
+d'extraordinaire, qui me causa longtemps un grand trouble. Je ne pouvais
+m'empêcher de regarder mes poésies comme les meilleures. Mais je
+remarquai bientôt que mes rivaux, qui lisaient des choses fort
+médiocres, étaient dans le môme cas et n'avaient pas une moindre opinion
+d'eux-mêmes. Ce qui me paraissait plus singulier encore , c'est qu'il y
+avait parmi nous un brave garçon, que j'aimais beaucoup, mais qui était
+absolument incapable de composer des travaux de ce genre, et qui faisait
+faire ses vers par son précepteur. Or, non seulement il estimait que ses
+poésies étaient les meilleures de toutes, mais encore il était persuadé
+qu'il les avait faites lui-même. Ayant sous les yeux le spectacle de
+telles erreurs</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Goethe le lui avec admiration ; ses enfants le dévoraient avec
+enthousiasme.</p>
+<p>Le conseiller Goethe.</p>
+<p>« Dans nos heures de liberté, cachés dans quelque coin,</p>
+<p><pb/></p>
+<p>et désespéré entre Satan et Adramaleck, qui avait été précipité dans la
+mer Rouge. Le rôle du premier, comme étant le plus énergique, m'était
+échu ; l'autre, un peu plus larmoyant, fut choisi par ma soeur. Les
+malédictions mutuelles des deux démons nous étaient devenues familières,
+et nous saisissions toutes les occasions pour nous saluer avec ces
+expressions infernales.</p>
+<p>Mais ce goût que le jeune Wolfgang montre de si bonne heure pour la
+poésie, cette facilité précoce qu'il apporte dans ses exercices de
+versification, sont d'une importance fort secondaire pour le
+développement ultérieur de son génie. Goethe devait</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Après l'évacuation de Francfort par les Français (décembre 1762), le
+travail régulier reprit son cours sous la direction du conseiller..
+Bientôt Goethe eut fait assez de progrès dans l'étude des langues pour</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ainsi les femmes qu'il a connues ou aimées deviennent les admirables et
+tragiques héroïnes de ses poèmes. Cette fois cependant il semble que
+l'imagination ait été presque seule en jeu.</p>
+<p>Quoi qu'il en soit, sa vocation se dessinait d'une façon de plus en plus
+marquée.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>encore et, pendant quelque temps, il se servit de préférence du français
+dans ses correspondances. Il rima même en français.</p>
+<p>C'est qu'aussi on l'avait dégoûté de la poésie allemande. On lui avait
+ouvert les yeux sur la pauvreté des modèles qu'il avait suivis, sur la
+pauvreté de toute la littérature allemande. On avait exercé sur ses vers
+la critique la plus impitoyable.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>sans plus s'inquiéter des discussions littéraires, sans se soucier de la
+critique.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Goethe pourtant n'en fut complètement persuadé que lorsqu'Annette épousa
+le docteur Kanne, l'un des habitués de la pension de son père. Le
+souvenir d'Annette resta longtemps plein de vie dans l'esprit du poète,
+et lui fournit plus tard des traits pour la</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>il se livrait pour s'en consoler, et aussi quelques imprudences commises
+dans le maniement des acides dont il se servait pour la gravure. Bref,
+Goethe tomba gravement malade.</p>
+<p>Les dix-huit mois que Goethe passa alors dans la maison paternelle
+furent l'époque la plus triste de sa vie. Sa santé se remettait
+difficilement, il eut même plusieurs fois des rechutes fort graves. Le
+plus souvent il restait dans sa chambre où sa soeur Cornélie lui tenait
+compagnie. Mais celle-ci ne contribuait</p>
+<p><pb/></p>
+<p>de Wolfgang opposé une resistance maussade aux règlements et aux leçons
+de son père ; en réalité elle était en révolte contre l'autorité
+paternelle. Le sourd mécontentement qu'il rencontrait en sa fille, la</p>
+<p>Cornélie Goethe.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>aussi sérieux, aussi sûr de lui-même, aussi conscient du but à
+poursuivre, que son père l'eût souhaité et qu'il devait le devenir plus
+tard. Il n'avait que 20 ans. A l'extrême ardeur de son tempérament,
+bouillant</p>
+<p>et impétueux, était venue s'ajouter encore une sorte d'excitabilité
+nerveuse que lui avait laissée sa maladie. Cependant tout est mieux
+équilibré, la bizarrerie n'est plus qu'une aimable originalité ; son
+caractère est plus égal ; sa folle gaîté fait la joie et le bonheur de
+tous ses camarades et n'en blesse plus aucun ; l'exubérance juvénile
+sait se contenir en d'heureuses</p>
+<p><pb/></p>
+<p>limites. Sa puissante imagination transfigure, exagère, embellit ou
+assombrit tout ce qu'il éprouve et tout ce qu'il voit, mais de moins en
+moins elle est l'unique guide et la seule maîtresse de sa vie, où se
+fera de plus en plus sentir l'empire d'une saine raison et d'un grand
+sens moral. Dans son aspect extérieur, il semble non moins avoir gagné à
+sa maladie. Il est fort beau. Ses yeux noirs et vifs, son front où se
+révèle le génie, l'harmonie de ses traits, sa belle stature imposent à
+la fois la sympathie et le respect.</p>
+<p>Qu'on s'imagine maintenant, entre ces vastes et fertiles pâturages et
+ces agréables bosquets, tout le reste du ter¬</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>par-dessus les ruisselets. Jamais elle ne perdait la respiration et
+restait toujours dans le plus parfait équilibre. »</p>
+<p>D'une main légère nous répandons — de petites fleurs,</p>
+<p><pb/></p>
+<p>de petites feuilles, — de bonnes et jeunes divinités printanières, qui
+se jouent sur un mince ruban.</p>
+<p>Zéphyr, prends-le sur tes ailes, — va le nouer autour de la robe de ma
+bien-aimée ! — ainsi parée, elle se place devant le miroir, — dans toute
+sa gaieté.</p>
+<p>Voyez-la entourée de roses, — jeune elle-même comme une rose ; — un
+regard, cher amour ! — et je suis richement récompensé.</p>
+<p>Partage les sentiments de mon coeur, — tends-moi librement la main, — et
+que le lien qui nous unit — ne soit pas seulement un mince ruban, une
+faible guirlande de roses. »</p>
+<p>Le moment était venu en effet où Goethe devait</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>CHAPITRE II.</p>
+<p>LA RÉVOLUTION DE 1773. — GOETZ DE BERLICHINGEN ET WERTHER.</p>
+<p>On a dit, avec raison, que la date de 1773, l'année où parut le Goetz de
+Berlichingen, a dans l'histoire littéraire la même importance que la
+date de 1789 dans l'histoire politique. C'est en effet en cette année
+que s'accomplit, par un coup d'éclat, une révolution dès longtemps
+préparée : la poésie moderne s'affirme en face de la poésie antique, le
+romantisme commence la lutte définitive contre la littérature classique.</p>
+<p><pb/></p>
+<p>connaissance de notre langue et de notre littérature.</p>
+<p>Sans doute la grammaire que, d'après son propre aveu, Goethe avait fort
+négligée, se vengeait parfois et lui faisait commettre de fréquentes
+incorrections.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>côté d'une nation et d'une littérature jeunes encore et qui n'avaient
+jusqu'alors donné que des espérances.</p>
+<p><pb/></p>
+<p>Angleterre qui a été au XVIIIe siècle la grande institutrice de
+l'Europe. Richardson avait pour la première fois introduit la
+bourgeoisie dans la littérature. Du roman elle s'était élevée au
+théâtre, et en se substituant aux princes et aux héros de la tragédie
+classique, elle ébranlait tout cet édifice régulier, élégant et
+harmonieux, où ils avaient coutume de se montrer. Elle conquérait la
+scène française elle-même : la comédie larmoyante de Nivelle de la
+Chaussée et la tragédie bourgeoise de Diderot commencent la ruine de la
+tragédie et préparent l'avènement du drame. Lessing, en Allemagne,
+s'était engagé dans la même voie, et par la sûreté de sa science, la
+vivacité et la chaleur de sa critique, l'âpreté de son talent donnait à
+cette révolte instinctive contre la domination de la tragédie classique
+le caractère d'une lutte consciente et acharnée. Au-dessus de Racine et
+de Corneille, qu'il accablait de son injuste mépris, il plaçait, pour
+servir de modèle aux futurs poètes de l'Allemagne, le grand dramaturge
+anglais, Shakespeare.</p>
+<p><pb/></p>
+<p>C'est au mois de septembre 1770 que Goethe vit Herder pour la première
+fois.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Herder</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>« Si c'est ma destinée d'être votre planète, je veux l'être, volontiers
+, fidèlement; mais, comprenez bien ceci : j'aimerais mieux être Mercure,
+la plus petite des sept planètes qui tournent avec vous autour d'un même
+soleil, que la première des cinq qui tournent autour de Saturne. »</p>
+<p><pb/></p>
+<p>kespeare et Rousseau l'occupent et l'inspirent (1). Shakespeare devient
+le dieu et l'oracle des amis de Goethe.</p>
+<p>(1) Consulter dans la même collection Shakespeare par J. Darmesteter et
+J.-J. Rousseau par L. Ducros.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>« Celui que tu n'abandonnes pas, ô Génie, ni la pluie, ni l'orage ne
+peuvent souffler l'effroi dans son coeur.</p>
+<p>Celui que tu n'abandonnes pas, ô Génie, malgré la nuée pluvieuse, malgré
+la chute des grêlons, il chantera, comme l'alouette là-haut dans les airs.</p>
+<p>Celui que tu n'abandonnes pas, ô Génie, de tes ailes de feu, tu
+l'élèveras au-dessus du sentier boueux ; il marcherait, sans enfoncer,
+sur la boue qu'avait laissée le déluge, léger, sublime, semblable à
+Apollon pythien.</p>
+<p>Entourez-moi, ô Muses, ô Grâces ; vous êtes pures comme le cristal des
+eaux, vous êtes pures comme la moelle même de la terre; vous planez
+autour de moi et moi je plane audessus des eaux , au-dessus de la terre
+, semblable aux dieux. »</p>
+<p>Mais tout cela, souvenirs de Strasbourg et de</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Quelques mois après, l'Allemagne étonnée applaudissait la première
+édition du Goetz de Berlichingen.</p>
+<p><pb/></p>
+<p>C'est une oeuvre admirable, pleine de vie et d'in¬</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Il ne part pas ; il viole ses serments, abandonne Goetz et Marie, épouse
+Adélaïde de Walldorf qui l'a subjugué, et, poussé par elle, trame la
+perte de Berlichingen avec d'autant plus d'ardeur que l'existence même
+du chevalier est pour lui un reproche continuel. Et, quand il a
+triomphé, que la vie de Goetz est entre ses mains, la fausseté et la
+perfidie de sa femme éclatent, il voit l'abîme où il est tombé, se
+repent encore une fois et, avant de mourir lui-</p>
+<p><pb/></p>
+<p>même, met tout en oeuvre pour sauver la vie de sa noble victime.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Et maintenant que je vois tout le mal que m'ont fait les partisans des
+règles dans leur sombre cachot, que je vois combien d'âmes libres y
+rampent encore emprisonnées, mon coeur se briserait dans ma poitrine, si
+je ne leur déclarais pas la guerre, si je ne cherchais pas chaque jour à
+battre en brèche leurs remparts...</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>(1) L'Amtmann est le bailli.</p>
+<p><pb/></p>
+<p>avant que le morceau ne fût coupé, puis tout heureux s'enfuyait vivement
+avec son goûter, ou, s'il était d'un caractère plus calme, s'en allait
+paisiblement vers la porte, afin de voir les étrangers et la voiture qui
+devait emmener leur chère Lotte. « Je vous demande pardon, dit-elle , de
+vous avoir</p>
+<p>Charlotte Buff.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>fois de dire bonjour aux petits, et nous continuâmes notre route. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Avec le monologue d'Hamlet, on répétait aussi la</p>
+<p><pb/></p>
+<p>page célèbre où Rousseau défend le suicide. Werther, dans le roman,
+plaide avec force en faveur de la liberté et du droit qu'on a de se tuer
+soi-même. Goethe avait plus d'une fois joué avec cette pensée du
+suicide, l'un des éléments de la sentimentalité d'alors :</p>
+<p><pb/></p>
+<p>Les Souffrances du jeune Werther sont décrites dans une série de lettres
+du héros. La forme épisto¬</p>
+<p><pb/></p>
+<p>Dès le début du roman, nous pénétrons jusqu'au</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Frère, le seul souvenir de ces heures me fait du bien. L'effort même que
+je fais pour me rappeler ces sensations indicibles, pour te les
+exprimer, élève mon âme au-dessus d'elle-même et me fait ensuite sentir
+doublement l'angoisse de l'état où je me trouve.</p>
+<p><pb/></p>
+<p>cachée dans l'universelle nature, qui ne produit rien qui</p>
+<p>ne détruise son voisin et soi-même; je ne vois plus rien qu'un monstre
+qui dévore sans cesse avec d'infatigables mâchoires. »</p>
+<p>À une situation qui fait naître dans son esprit une si profonde
+mélancolie, il n'y a que deux issues : la fuite : Werther n'a pas le
+courage d'y songer ; la mort : il en rêve, il en parle souvent. Mais en
+attendant il ne sait prendre aucune résolution ; sa passion s'accroît
+sans cesse et sans cesse lui apporte de nouvelles douleurs. Goethe sait
+peindre cet état de son âme avec une énergie et en même temps une
+variété extraordinaires. Ces pages, écrites il y a plus d'un siècle et
+qui ont fait verser tant de larmes, n'ont rien perdu encore de leur
+puissance pathétique. La pénible irrésolution de Werther finit par
+engendrer en lui un état voisin de la folie.</p>
+<p>Enfin il se décide, quitte brusquement Lotte, sans</p>
+<p><pb/></p>
+<p>lui dire adieu, persuadé qu'il aura le courage de ne plus la revoir.</p>
+<p><pb/></p>
+<p>son dégoût de la vie. On a souvent blâmé ce nouveau motif. On a cru y
+voir un manque d'unité dans la marche du récit comme dans le caractère
+du héros. Le plus illustre des critiques qui ont soulevé cette
+objection, c'est Napoléon Ier, qui savait son Werther par coeur et qui
+discuta cette question avec Goethe lui-même.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>d'en faire le représentant de toute une époque.</p>
+<p>En effet, il ne se contente plus de se torturer lui-même, il devient
+insupportable aux autres, irritable, querelleur. La nature extérieure,
+on est en hiver, ne lui offre que de lugubres spectacles.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>« Un voisin vit la lumière et entendit le coup. Mais comme tout resta
+calme ensuite, il n'y fit pas autrement attention.</p>
+<p>Lorsque le médecin arriva auprès du malheureux, il le trouva par terre;
+il n'y avait plus d'espoir ; le pouls battait; les membres étaient tous
+paralysés. Il s'était tiré dans la tête, au-dessus de l'oeil droit ; la
+cervelle avait été projetée. On pratiqua une saignée ; le sang coula, il
+respirait toujours.</p>
+<p>Le sang sur le dossier du fauteuil permettait de conclure qu'il avait
+accompli cet acte, étant assis devant son bureau ; il était tombé
+ensuite, s'était roulé en convulsions autour du siège. Il gisait en face
+de la fenêtre, sans force, sur le dos ; il était complètement habillé,
+botté, en frac bleu avec un gilet jaune.</p>
+<p><pb/></p>
+<p>De la stupeur d'Albert, de la douleur de Lotte, je ne dirai rien.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>CHAPITRE III.</p>
+<p>LES DERNIÈRES ANNÉES DE GOETHE A FRANCFORT. —</p>
+<p>EGMONT.</p>
+<p><pb/></p>
+<p>et les mêmes excès, et, pour que la ressemblance fût plus frappante, le
+costume lui-même a joué un certain rôle chez les révolutionnaires
+littéraires des deux nations. Werther dit dans une de ses lettres:</p>
+<p>Mais les poètes de l'Ecole nouvelle n'étaient pas les seuls dont Goethe
+reçût l'hommage. La gloire qu'il venait de s'acquérir par ses oeuvres,
+avait porte son nom par toute l'Allemagne. Il était en relations avec
+presque tous les écrivains en renom, et tous s'exprimaient sur lui avec
+un singulier mélange d'affection et de respect, parfois de crainte. L'un
+d'eux, qui était venu le voir, écrivait : « Goethe était avec</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>de plusieurs drames ou poèmes épiques, il en écrivait d'assez longs
+fragments. Les héros de ces poèmes inachevés étaient tous des hommes
+supérieurs, des Titans, de grands génies qui avaient bouleversé le
+monde, qui avaient répandu dans l'univers des idées nouvelles ;
+c'étaient Jules César, le Juif-Errant, Mahomet, Prométhée. Ces héros, le
+jeune poète, tout plein lui-même d'une prodigieuse vigueur et d'une
+irrésistible ardeur, eût su leur prêter un langage digne d'eux.</p>
+<p><pb/></p>
+<p>qu'un sujet lui souriait, et quand il avait cessé de l'intéresser, il
+l'abandonnait.</p>
+<p><pb/></p>
+<p>Est-ce cette fleur de jeunesse, cette figure aimable, — ce regard plein
+de feu et de bonté, — qui t'enchaînent avec une puissance infinie ? — Si
+je veux résolument me séparer d'elle, — si je veux être fort et la fuir,
+— au même instant mes pas me ramènent vers elle.</p>
+<p>Et par ce fil magique, — que rien ne peut briser, — la</p>
+<p><pb/></p>
+<p>belle et folle jeune fille — me tient captif malgré moi ; —</p>
+<p>grandchose? il y avait même entre les deux familles une différence de
+religion qui était considérée comme</p>
+<p><pb/></p>
+<p>« Non ! il n'est point de ménagerie si variée que celle de ma Lili !
+elle y possède les animaux les plus étranges ; elle les y attire, elle
+ne sait elle-même comment. Oh ! comme ils sautillent, courent, trottent,
+agitent leurs ailes rognées, ces pauvres prisonniers, dans un tourment
+d'amour qui n'est jamais apaisé !</p>
+<p><pb/></p>
+<p>Mais aussi, quels regards, quel son de voix, quand elle appelle : Pipi !
+Pipi ! Si par hasard passait l'aigle de Jupiter, la colombe de Vénus, le
+paon vaniteux lui-même, j'en fais le pari, ils viendraient, s'ils
+entendaient cette voix, même de loin.</p>
+<p>Ah! dieux ! s'il est en votre pouvoir de rompre ce charme magique,
+quelles actions de grâces je vous rendrai, si vous me procurez la
+liberté ! Mais, lors même que vous me laisseriez sans secours — non ! ce
+n'est pas en</p>
+<p><pb/></p>
+<p>vain que j'étends ainsi mes membres, je le sens, je le jure, j'ai de la
+force encore ! »</p>
+<p><pb/></p>
+<p>Pourtant, pendant son voyage, la pensée de Lili le poursuivait sans
+relâche. En vain il espérait que les beautés de la nature le guériraient
+de son amour :</p>
+<p>Oui, dans cette atmosphère pure Je puise un sang nouveau.</p>
+<p>Sur ton sein, ô Nature,</p>
+<p>Que tout est doux et beau !</p>
+<p>Le flot balance la nacelle Au rythme des rameurs ;</p>
+<p>On voit fuir devant elle Les neigeuses hauteurs.</p>
+<p>Pourquoi donc, ô mon oeil, est ta paupière close? .</p>
+<p>Rêves, rêves dorés, reviendrez-vous toujours ?</p>
+<p>Je vous chasse ! fuyez, rêves, couleur de rose !</p>
+<p>Ici je trouve aussi la vie et les amours.</p>
+<p>Dans le flot cristallin</p>
+<p>Se mirent mille étoiles.</p>
+<p>Un brouillard gris, de voiles</p>
+<p>Couvre le bleu lointain.</p>
+<p>Zéphyr fait onduler la crête Du grand bois jaunissant ;</p>
+<p>Dans le flot se reflète Le pampre mûrissant.</p>
+<p>Au sommet du Saint-Gothard, comme il est sur le point de descendre en
+Italie, ces « rêves dorés » l'assaillent avec plus de violence que jamais.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>« Pourquoi m'attirer aussi irrésistiblement — au milieu de ce luxe ? —
+Bon jeune homme, n'étais-je donc pas heureux — dans ma nuit solitaire?</p>
+<p>Enfermé dans ma petite chambre, — je reposais au clair de lune ; — tout
+inondé de sa lumière mystérieuse, je m'endormais d'un léger sommeil.</p>
+<p>Je rêvais alors les heures dorées — d'une félicité sans mélange ; —
+j'avais senti sa chère image — tout entière au fond de mon coeur.</p>
+<p>« Désormais le printemps en fleurs n'est pas plus ravissant — pour moi,
+dans les campagnes. — Où tu es,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Dans l'Egmont que nous peint le poète, il ne reste du personnage
+historique que le nom et le costume. Egmont était d'un âge assez avancé
+; il était marié, père de sept enfants. Le poète le représente jeune et
+lui supprime sa famille. En revanche, il lui donne beaucoup de lui-même.
+C'est le Goethe exubérant et gai, dont le Goethe sentimental n'altérait
+point la bonne humeur, le Goethe qui passe ses journées en</p>
+<p><pb/></p>
+<p>parties de campagne avec une société joyeuse de jeunes gens et de jeunes
+fille, ou prend part avec ardeur aux fêles données en l'honneur de Lili.
+Egmont est un brillant cavalier, généreux, humain, léger. Vivre et
+laisser vivre, c'est toute sa philosophie. Le comte Oliva lui écrit pour
+lui reprocher ses folies et ses imprudences. Egmont s'écrie :</p>
+<p>Le portrait de cet Egmont ne serait pas complet, s il n'aimait pas. Mais
+l'objet de cet amour, où le brillant cavalier, l'illustre général
+va-t-il le chercher ? Est-ce parmi les nobles dames des cours
+prin-cières que le comte d'Egmont, prince de Garves, gouverneur de la
+Flandre et de l'Artois, a choisi celle qui doit égayer sa vie, au pied
+de laquelle il dépose tous les trésors de son esprit et de son</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>« Non, moi je ne pourrais jamais m'en tirer dans le grand monde ! La
+régente est pourtant une femme d'une autre espèce que nous autres,
+pauvres couturières et cuisinières. »</p>
+<p>Claire est un peu plus ardente et plus énergique que Marguerite. Goethe
+met dans sa bouche une fort jolie chanson, dont la traduction fait
+malheureusement disparaître le charme naïf.</p>
+<p>« Battez le tambour, — faites résonner le fifre ! — Mon bien-aimé en
+armes conduit les troupes, — tient haut sa lance, — et commande ses
+gens. — Comme mon coeur bat ! — comme mon sang bouillonne ! — Oh ! que
+n'ai-je un pourpoint, — des chausses, un casque !</p>
+<p>Je le suivrai hors des portes — d'un pas courageux. — J'irais par les
+provinces, — j'irais partout avec lui ! — Les ennemis cèdent déjà, —
+sans ménager, nous tirons dessus. — Quel bonheur sans pareil, — d'être
+un homme ! »</p>
+<p>« Ecoutez, amis ! Voisins, écoutez ! Dites, que ferons-nous pour Egmont?</p>
+<p>Un charpentier. — Que veut cette enfant ? Faites-la taire !</p>
+<p><pb/></p>
+<p>Le charpentier. — Mais qu'as-tu, jeune fille?</p>
+<p>Claire. — Pouvez-vous vous méprendre? C'est du comte que je parle, je
+parle d'Egmont.</p>
+<p>Un tailleur. — Ne le nomme pas, c'est un nom qui tue.</p>
+<p>Le tailleur. — Dieu aie pitié de nous ! Il va y avoir un malheur !</p>
+<p>Un marchand. — Ne la laissez pas faire ! Emmenez-la !</p>
+<p>Claire. — Pensez-vous que je sois un enfant? une folle ? — Il faut que
+vous m'écoutiez, et vous m'écouterez ; car, je le vois, vous êtes sous
+le coup de la surprise et vous ne pouvez vous retrouver vous-mêmes dans
+votre propre coeur. Laissez un instant dans l'oubli le danger présent et
+jetez un coup d'oeil sur le passé, un passé tout récent. —Tournez vos
+regards vers l'avenir. Est-ce que vous pouvez vivre ?</p>
+<p><pb/></p>
+<p>Le charpentier. — Compère, allons-nous-en</p>
+<p>Claire. — Et moi, je n'ai pas de bras comme vous, je ne suis pas forte
+comme vous ; mais j'ai ce qui vous manque en ce moment : le courage et
+le mépris du danger! Ah! si mon souffle pouvait vous enflammer ! Si, en
+vous prenant sur mon sein, je pouvais vous échauffer et vous animer !
+Venez, je marcherai au milieu de vous ! De même qu'un étendard, flottant
+au vent, bien qu'inoffensif par lui-même, guide une armée de vaillants
+guerriers, ainsi mon esprit secouera ses flammes autour de vous, et
+l'amour et le courage réuniront en une armée terrible le peuple qui
+hésite et se disperse. »</p>
+<p>Mais ses efforts sont vains. Si elle n'a pu le sauver, elle veut du
+moins accompagner Egmont dans la tombe, et elle s'empoisonne.</p>
+<p><pb/></p>
+<p>CHAPITRE IV.</p>
+<p>WEIMAR. — L'ITALIE. — LES POÈMES CLASSIQUES :</p>
+<p>Iphigénie en Tauride, le Tasse, Hermann et Dorothée.</p>
+<p>Une heureuse occasion s'ofïrit bientôt de sortir de</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p><pb/></p>
+<p>Ses amis étaient inquiets ; les uns, moralistes rigoureux, lui
+reprochaient les excès de sa conduite ; les autres craignaient de le
+voir perdu pour les lettres. Aux uns et aux autres il répondit par une
+allégorie poétique d'une superbe allure :</p>
+<p>« Depuis de longs jours et de longues nuits mon navire était prêt. —
+Dans l'attente de vents favorables, avec des amis fidèles, — puisant
+dans les coupes pleines le courage et la patience, — j'étais dans le port.</p>
+<p>Et leur impatience était extrême. — Ah ! que nous voudrions te voir
+accomplir le voyage rapide ! — que nous voudrions te voir sur la pleine
+mer ! L'abondance des biens</p>
+<p>— t'attend sur les rives de ces mondes lointains. — A ton retour, dans
+nos bras tu trouveras — amour et louange.</p>
+<p>Un matin on entend un tumulte ; — et les cris de joie des matelots nous
+arrachent au sommeil. — Tout vit, s'agite et se meut, — pour s'embarquer
+au premier souffle propice.</p>
+<p>Et les voiles se gonflent sous le vent, — et le soleil nous chauffe de
+ses rayons les plus doux, — les voiles courent, et courent les hautes
+nuées, — et sur le rivage, là-bas, nos amis nous font entendre — encore
+leurs chants joyeux, dans l'ivresse du plaisir — célébrant les joies du
+voyage, telles que le premier départ — que les premières nuits passées
+sous le ciel étoile.</p>
+<p>Mais des vents variables, envoyés par Dieu, le poussent</p>
+<p><pb/></p>
+<p>— le navigateur abaisse prudemment les voiles. — Avec le navire, ballot
+rempli d'angoisses, jouent — les vents et les flots.</p>
+<p>Et sur la rive lointaine, se tiennent — amis et parents ; ils tremblent
+sur la terre ferme. — Ah! que n'est-il resté ici ! — Ah ! cette tempête
+! Malheureux jouet de la fortune !</p>
+<p>— Doit-il périr ainsi, celui que nous aimons ? — Ah ! le doit-il ? Ah !
+le pourrait-il ? ô dieux !</p>
+<p>Mais il se tient virilement au gouvernail, — avec le navire jouent les
+vents et les flots, — les vents et les flots ne jouent pas avec son
+coeur. — D'un regard dominateur il mesure l'abîme courroucé, — et il a
+confiance, qu'il échoue ou qu'il aborde — en ses dieux ! »</p>
+<p><pb/></p>
+<p>Il en a pleine conscience, lorsque, en 1786, il se rend en Italie, où il
+fait un séjour de deux ans. Sur ce sol classique, il se sent
+complètement délivré de tout ce qui reste du passé ; il lui semble que
+c'est une vie nouvelle qui commence :</p>
+<p><pb/></p>
+<p>L'Iphigénie est la première en date des poésies classiques de Goethe, et
+c'en est le chef-d'oeuvre. Elle était complètement terminée quand il
+était venu en Italie ; mais il l'avait écrite en prose. Il lui donne
+maintenant cette forme définitive et parfaite que nous admirons
+aujourd'hui et qui ne peut être comparée qu'aux plus belles oeuvres de
+Racine.</p>
+<p>Ce qui avait d'abord séduit Goethe dans ce sujet, c était le caractère
+d'Oreste. Oreste, victime des dieux, était de la famille de ces héros
+titanesques qu'il aimait. Oreste, poursuivi par les Euménides,</p>
+<p><pb/></p>
+<p>Iphigénie est une sainte, une madone. « Le coeur pur, les mains pures »,
+cette expression revient plusieurs fois dans ses discours. Diane l'a
+transportée sur les rives de la Tauride, pour y être la prêtresse de son
+temple. Mais les sacrifices humains, qui étaient en usage dans ce culte,
+lui inspirent la plus profonde horreur. Grâce au charme qui émane de
+toute sa personne, elle exerce un</p>
+<p><pb/></p>
+<p>Toujours présente aux lieux dont elle est séparée,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Car je ne vois que trop le danger qui nous presse.</p>
+<p>Hélas ! mon triste sort me fait toujours plus peur.</p>
+<p>Ne puis-je donc garder l'espoir qu'avait mon coeur?</p>
+<p>Doux espoir qui charma toujours ma solitude ! Subirons-nous sans fin un
+destin aussi rude ?</p>
+<p>Il n'est rien cependant d'éternel sur la terre !</p>
+<p>Le bonheur finit bien, pourquoi pas la misère ?</p>
+<p>Ainsi donc, vainement j'avais compté, plus tard,</p>
+<p><pb/></p>
+<p>Pouvoir seule, d'un coeur, comme d'une main pure, Au foyer paternel
+laver toute souillure !</p>
+<p>A peine dans mes bras je presse un frère, enfin Gueri d'un mal obscur
+par un pouvoir divin,</p>
+<p>C'est celui qu'autrefois les Parques ont chanté Lorsque Tantale fut du
+ciel précipité.</p>
+<p>Au sort d'un noble ami profondément sensibles,</p>
+<p>Leur coeur fut attristé, leurs chants furent terribles. La nourrice
+souvent nous l'a redit jadis,</p>
+<p>Quand nous étions enfants, et je l'ai d'elle appris.</p>
+<p>Craignez, habitants de la terre, Craignez les dieux et leur colère, Car
+dans les impassibles mains De ces éternels souverains La toute-puissance
+réside,</p>
+<p>Et leur caprice est leur seul guide.</p>
+<p>Qu'il craigne surtout leurs fureurs, L'homme comblé de leurs faveurs !
+Au sein des espaces sublimes,</p>
+<p>Dans la nue, au bord des abîmes, Du festin se font les apprêts,</p>
+<p>Et les sièges d'or sont tout prêts.</p>
+<p><pb/></p>
+<p>Mais qu'il s'élève une dispute,</p>
+<p>Les hôtes chassés, dans leur chute Sont précipités jusqu'au fond De
+l'enfer obscur et profond,</p>
+<p>Où, liés, dans un dur supplice,</p>
+<p>Ils attendent en vain justice.</p>
+<p>Eux pourtant, près des tables d'or,</p>
+<p>A leurs festins restent encor,</p>
+<p>Puis ils s'en vont de cime en cime,</p>
+<p>Et vers eux monte, de l'abîme,</p>
+<p>Le râle étouffé des Titans,</p>
+<p>Nuage invisible d'encens.</p>
+<p>Il est mainte race maudite,</p>
+<p>Qu'avec soin leur regard évite,</p>
+<p>Ces traits parlant d'un doux visage,</p>
+<p>Où revit encor leur image.</p>
+<p>Ainsi les Parques ont chanté,</p>
+<p>Et dans la noire obscurité Qui remplit l'infernale voûte L'antique exilé
+les écoute,</p>
+<p>Branle la tête, soucieux (1). »</p>
+<p>(1) Legrelle, Iphigénie en Tauride, traduite en vers français.</p>
+<p><pb/></p>
+<p>c'est la noblesse immaculée de son coeur, c'est la pureté et la sainteté
+de sa conduite ; le roi barbare en est touché, et en lui jetant un
+mélancolique adieu, lui permet de s'en retourner en Grèce avec son frère
+et Pylade.</p>
+<p><pb/></p>
+<p>Cette princesse Eléonore est une digne soeur d'Iphigénie, plus moderne ;
+moins tragique, mais plus douce; moins belle, mais plus élégante. Son
+amie, la comtesse Sanvitale, lui dit :</p>
+<p>« Tu jouis de toutes choses avec calme et pureté ; pour moi, quand j'ai
+le coeur plein, il faut que je dise aussitôt ce que je sens vivement;
+toi, tu sens mieux, tu sens pro¬</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>vie réelle, et l'entraîne aux actes les plus irréfléchis. C'est avec un
+art admirable que Goethe a su nous peindre cet état d'esprit, et le
+mettre, pour ainsi dire, avec évidence sous nos yeux. Dans la première
+scène, par exemple, où le Tasse joue un rôle, la princesse a mis sur sa
+tête une couronne de lauriers. Il s'est d'abord modestement défendu de
+cet honneur, qu'il trouve hors de proportion avec ses mérites. Il finit
+par se rendre ; mais il ajoute :</p>
+<p>« Eh bien ! laissez-moi donc m'en aller cacher ma confusion ;
+laissez-moi cacher mon bonheur clans les bosquets profonds, comme j'y ai
+plus d'une fois caché mes douleurs... »</p>
+<p><pb/></p>
+<p>Malheureusement, le plan du Tasse a subi des changements successifs; la
+fin ne répond plus aux données du commencement ; l'action est vague, le
+dénouement incertain. Toute force tragique fait défaut et le drame ne
+nous offre qu'une série de longues conversations. Il est vrai que la
+langue en est admirable et qu'au point de vue du style et de la
+versification, le Tasse est le chef-d'oeuvre de la littérature allemande.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>les oeuvres composées depuis le retour d'Italie. L'une des plus belles,
+c'est Hermann et Dorothée.</p>
+<p>Rien n'est plus simple que les événements que nous raconte cette idylle.
+Les habitants de la rive gauche du Rhin fuient devant les armées
+françaises, ou plus exactement devant les excès de la Terreur. Une
+troupe de ces émigrés passe non loin de la petite ville qui est la
+patrie d'Hermann. La charité et la curiosité attirent tous les habitants
+sur le lieu de leur passage. L'hôtelier du Lion-d'Or et sa femme ont
+chargé leur fils d'aller leur porter des secours divers. Hermann leur
+rend compte de son expédition :</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Tout en reconnaissant l'exactitude de ce récit, l'hôtelier ne partage
+pas l'avis de sa femme, il ne veut pas d'une fille sans dot :</p>
+<p>« Le commencement de toutes choses est difficile, et ce qu'il y a de
+plus difficile, c'est le commencement du ménage. L'homme a besoin de
+beaucoup de choses, et chaque jour, tout devient plus cher; il faut donc
+aviser aux moyens d'acquérir de l'argent. Aussi j'entends bien, mon
+Hermann, que tu m'amènes une épouse avec une belle dot. Car un brave
+garçon mérite d'avoir une fille riche, et quel bonheur, quand avec la
+femme qu'on aime, entrent aussi dans la maison des corbeilles et des
+coffres remplis de choses utiles. Ce n'est pas en vain que la mère de
+famille prépare pendant plusieurs années pour sa fille la toile d'un
+tissu fin et solide; ce n'est pas en vain que les parrains lui font
+cadeau de belle argenterie, et que le père enferme dans son secrétaire
+la pièce d'or devenue rare ; car avec toutes ces richesses, la jeune
+fille doit un jour réjouir le jeune homme qu'elle aura choisi. Oui, je
+sais comme une femme se trouve heureuse dans une maison où elle
+reconnaît ses meubles dans la cuisine et dans les chambres, et le lit et
+la table dont elle a elle-même fourni le linge. Je ne voudrais voir ici
+qu'une jeune femme bien pourvue; car celle qui est pauvre, finira par</p>
+<p><pb/></p>
+<p>être méprisée de son mari, et il regardera comme une servante, celle qui
+est entrée comme une servante avec son petit paquet. »</p>
+<p>Le voyageur, qui sent les ombres s'approcher,</p>
+<p>Emplit encor ses yeux de la clarté divine,</p>
+<p>Puis, dans le bois obscur, aux flancs noirs du rocher, Partout où vont
+ses pas, partout, plaine ou colline,</p>
+<p>Voit toujours devant lui resplendir un rayon,</p>
+<p>Un beau reflet doré qui court et qui scintille ;</p>
+<p>Ainsi, devant Hermann, aimable illusion !</p>
+<p>Apparaît en tous lieux la douce jeune fille.</p>
+<p>Il croit la voir là-bas dans le sentier des blés ;</p>
+<p>Mais bientôt il s'arrache au rêve qui l'enchante,</p>
+<p>Et du côté du bourg tourne ses yeux troublés,</p>
+<p>Non, ce n'est plus un rêve, elle a dans chaque main Une cruche inégale
+et qu'elle tient par l'anse. .</p>
+<p>Il s'approche et lui dit, tandis qu'elle s'étonne ;</p>
+<p><pb/></p>
+<p>« 0 généreuse enfant, je te retrouve ici,</p>
+<p>Et toujours de nouveau compatissante et bonne,</p>
+<p>Pourquoi venir ainsi, seule, vers la fontaine?</p>
+<p>Les autres boivent l'eau du bourg. Oh ! je comprends.</p>
+<p>Oui, l'eau de cette source est meilleure et plus saine,</p>
+<p>Et tu portes encor ce doux soulagement</p>
+<p>A celle que sauva ton amour empressée. »</p>
+<p>La jeune fille alors le saluant gaîment :</p>
+<p>Puisque j'ai rencontré l'étranger bienfaisant</p>
+<p>Qui nous a secourus dans la misère extrême,</p>
+<p>Car l'aspect de celui qui nous fit un présent</p>
+<p>Nous réjouit autant que le présent lui-même.</p>
+<p>Venez, oh ! vous verrez le fruit de vos bienfaits</p>
+<p>Et vous serez béni des pauvres créatures...</p>
+<p>Mais voulez-vous savoir pourquoi je viens exprès</p>
+<p>Puiser ici ces eaux abondantes et pures?</p>
+<p>Deux mots vous diront tout: légers, imprévoyants,</p>
+<p>Nos amis ont conduit leurs boeufs, leur attelage,</p>
+<p>Ils ont de tous côtés sali l'eau du village.</p>
+<p>Dans les auges aussi tout leur linge a passé.</p>
+<p>Les ruisseaux sont troublés... la foule est ainsi faite :</p>
+<p>Et, pour ce qui suivra, nul ne s'en inquiète. »</p>
+<p>Ils descendent alors par les larges degrés ;</p>
+<p>L'aimable enfant se penche et puise aux flots dorés; Hermann prend
+l'autre cruche et se penche avec elle,</p>
+<p>Et tous les deux, au fond du limpide miroir,</p>
+<p>Regardent, dans le bleu du ciel qui s'y reflète,</p>
+<p>Leurs visages heureux s'approcher, se mouvoir,</p>
+<p>Se saluer gaîment d'un doux signe de tête.</p>
+<p>Mais la timidité naturelle d'Hermann l'empêche de se déclarer. Il n'ose
+plus expliquer le but de sa</p>
+<p><pb/></p>
+<p>— Parlez, comment vous trouvez-vous ici sans voiture et sans chevaux,
+loin de l'endroit où je vous ai vu pour la première fois ?</p>
+<p>Hermann pensif baissait la paupière. Il lève ensuite un regard paisible
+vers Dorothée, l'attache avec tendresse sur les yeux de la jeune fille,
+et il sent que son coeur se calme et se rassure. Cependant lui parler de
+son amour, il ne l'aurait pu ; le regard de la jeune personne
+n'annonçait point un sentiment semblable et commandait une réponse
+dictée par la raison. Il se décide aussitôt, et, avec le ton d'une douce
+confiance :</p>
+<p><pb/></p>
+<p>— Partons, reprit-elle : on blâme les jeunes filles qui se retardent
+près des fontaines, et cependant il est si agréable de s'entretenir à
+côté d'une source jaillissante.</p>
+<p>Ils se lèvent, se retournent, et, jetant un dernier regard sur la
+source, ils éprouvent un doux regret.</p>
+<p>En silence, elle prend les cruches et monte les degrés, suivie de celui
+qui l'aime ; il veut la soulager en se chargeant d'une des cruches.</p>
+<p><pb/></p>
+<p>— Puisse, dit Hermann, l'orage qui nous menace nous éviter de la grêle
+et des torrents de pluie, car tout promet la plus belle récolte !</p>
+<p><pb/></p>
+<p>— Que ton coeur te le dise, lui répondit-il, et suis librement ce qu'il
+te dira.</p>
+<p>Mais il ne hasarde pas un mot de plus, quoique l'heure soit si favorable
+; il craint de s'attirer un non.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Cette situation, que Dorothée a acceptée, amène de légers incidents qui
+retardent un instant le dénouement et font mieux ressortir le caractère
+de la jeune fille.</p>
+<p>Les jeunes gens arrivent chez l'hôtelier, père d'Hermann.</p>
+<p><pb/></p>
+<p>Mais la jeune fille, navrée jusqu'au fond de l'âme d'une raillerie qui
+lui parait insultante, reste immobile ; une rougeur subite se répand sur
+son visage et sur son cou ; néanmoins elle se contient, elle rassemble
+ses esprits, et dit ensuite au vieillard, sans cacher son chagrin :</p>
+<p>Enfin tout s'explique et s'arrange, et le pasteur peut célébrer avec
+joie les fiançailles et unir les deux jeunes gens.</p>
+<p>« Alors Hermann s'avançant vers Dorothée :</p>
+<p><pb/></p>
+<p>Elle élève vers le jeune homme des yeux où règne l'émotion la plus tendre.</p>
+<p>Le pasteur avait dispersé les incertitudes des autres assistants. Mais
+la jeune fille se présente avec grâce au père, s'incline devant lui,
+pénétrée de respect et d'affection, et lui baisant la main qu'il retirait :</p>
+<p>Aussitôt le père l'embrasse, en cachant ses larmes. La mère s'approche
+d'elle avec confiance, et la baise tendrement : leurs mains, l'une dans
+l'autre, s'agitent en signe d'amitié ; les deux femmes en pleurs gardent
+le silence.</p>
+<p>Alors le bon et judicieux pasteur se hâte de saisir la main du père, et
+lui tire, non sans peine, du doigt potelé, l'anneau nuptial ; il prend
+l'anneau de la mère, et unit les deux jeunes gens.</p>
+<p>De cette simple histoire Goethe a su tirer un merveilleux parti ; si
+l'on voulait faire ressortir toutes</p>
+<p><pb/></p>
+<p>« elle traverse avec rapidité les deux longues cours, passe devant les
+étables et les solides bâtiments des granges, entre dans le vaste jardin
+qui s'étend jusqu'aux murs de la cité ; chemin faisant, elle voit avec
+plaisir les progrès de chaque plante, redresse les tuteurs sur lesquels
+reposent les branches du pommier chargées de fruits, et du poirier
+pliant sous le poids des siens; elle dégage promptement le chou
+vigoureux et rebondi de quelques chenilles ; car une femme active ne
+fait point un pas qui soit inutile.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ment leur repas, et les bergers s'asseyaient, sous son ombrage, sur les
+bancs de pierre et de gazon.</p>
+<p>— Ma mère, dit-il étonné, vous m'avez fait une surprise.</p>
+<p>Et il se hâtait d'essuyer ses pleurs, expression de ses</p>
+<p>sentiments généreux.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>CHAPITRE V.</p>
+<p>LES ROMANS. — Wilhelm Meister.</p>
+<p><pb/></p>
+<p>de ces modifications dans la pensée et dans le talent du poète.</p>
+<p>Ces réserves faites, le Wilhelm Meister n'en est pas moins une oeuvre
+digne de notre étude et de notre admiration, le roman le plus varié et
+le plus profond, le plus réaliste et le plus poétique, le plus riche de
+caractères et d'enseignements, et, dans ses premières parties au moins,
+le plus touchant, le plus amusant, le plus intéressant que nous offre
+toute la littérature allemande.</p>
+<p>Wilhelm Meister est un jeune homme que sa fa¬</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>« Corneille, si je puis m'exprimer ainsi, a peint de grandes âmes et
+Racine des gens du grand monde. Quand je lis les pièces de ce dernier,
+je me représente toujours le poète, qui vit au milieu d'une cour
+brillante, qui a devant les</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>tous ses défauts, malgré tous ses vices, une des plus aimables figures
+qu'ait dessinées la plume de Goethe.</p>
+<p><pb/></p>
+<p>et je ne sais quel écho des antiques poèmes homériques jettent une sorte
+de reflet idéal sur ces deux robustes et rustiques héros. Dans le
+Wilhelm Meister, pour représenter la poésie, l'idéal, l'aspiration vers
+les hautes régions où disparaissent les misères et les platitudes de
+notre humanité, Goethe a créé tout exprès deux personnages : Mignon et
+le Harpiste.</p>
+<p><pb/></p>
+<p>« Le lendemain, après que les danseurs de corde furent partis, Mignon se
+montra tout de suite et s'approcha de Wilhelm qui faisait de l'escrime
+avec un acteur du nom de Laërte.</p>
+<p>— Où étais-tu fourrée ? demanda Wilhelm d'un ton amical. Tu nous as
+causé beaucoup d'inquiétude. L'enfant ne répondait pas et le regardait.</p>
+<p>— Combien as-tu payé ? demanda l'enfant fort sèchement.</p>
+<p>— Cent ducats, répliqua Laërte; si tu peux les rendre, tu seras libre.</p>
+<p>— C'est beaucoup ? demanda l'enfant.</p>
+<p><pb/></p>
+<p>— Je veux servir, répliqua-t-elle.</p>
+<p>« Un soir en rentrant, Wilhelm trouva Mignon qui l'attendait et
+l'éclaira pendant qu'il montait l'escalier. Lorsqu'elle eut déposé la
+lumière, elle lui demanda la permission de lui faire voir un tour
+d'adresse. Il eût volontiers répondu: non, surtout parce qu'il ne savait
+pas ce que ce pouvait être, mais il était incapable de rien refuser à
+cette bonne créature. Elle sortit, et revint bientôt. Elle portait sous
+le bras un tapis qu'elle étendit par terre. Wilhelm la laissa faire.
+Elle apporta ensuite quatre flambeaux et en mit un sur chaque coin du
+tapis. Un petit panier avec des oeufs, qu'elle alla chercher, fit voir
+plus clairement quel était</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>su le jouer. Elle lui avait aussi pour sa peine offert quelque argent,
+qu'il n'avait pas voulu accepter.</p>
+<p>Ces souffrances morales se manifestent parfois aussi chez Mignon par des
+douleurs physiques. Eprouve-t-elle une émotion un peu vive, elle porte les</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le vieillard charme ses auditeurs par des improvisations variées, et
+quand Wilhelm lui demande ce qu'il désire pour sa récompense, il répond
+par la ballade suivante :</p>
+<p>— Donne-la au chancelier que tu as — et fais-lui porter encore cette
+charge d'or — avec ses autres charges,</p>
+<p>Je chante, comme chante l'oiseau — qui demeure dans les branches. — La
+chanson qui jaillit de mon gosier — est une récompense, qui récompense
+richement; — mais, s'il m'est permis de demander, je te demande une chose :</p>
+<p>— fais-moi donner un verre du meilleur vin — dans un pur cristal.</p>
+<p>Mignon représente l'aspiration vers l'idéal tou¬</p>
+<p><pb/></p>
+<p>jours poursuivi et toujours inaccessible; le vieillard représente la
+poésie de la douleur et des regrets. Il y a dans sa vie un mystère
+effrayant, un crime, auquel il fait allusion dans ses chants.</p>
+<p>Un amoureux se glisse, tout doucement, — pour voir si sa belle est seule
+; — ainsi se glissent auprès de moi, jour et nuit, — auprès de moi
+solitaire, la peine ; — auprès de moi solitaire, le tourment ! —</p>
+<p>Ah ! quand un jour enfin je serai — solitaire dans ma tombe, — alors
+enfin, ils me laisseront seul ! »</p>
+<p>Ces deux personnages originaux, Mignon et le</p>
+<p><pb/></p>
+<p>Connais-tu la maison ? son toit repose sur des colonnes,</p>
+<p>— brillant est le salon, étincelants les appartements, — et des statues
+de marbre se dressent et me regardent : — pauvre enfant, que t'a-t-on
+fait ? — La connais-tu bien ?</p>
+<p>Connais-tu la montagne et ses sentiers qui montent jusqu'aux nues ? —
+Dans le brouillard le mulet cherche son chemin, — dans des cavernes
+habite l'antique engeance des dragons ; — le rocher tombe, et sur lui se
+précipite le</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>sa personne. Elle peut ainsi représenter cette voix secrète qui si
+longtemps avait appelé Goethe vers le pays où les citronniers
+fleurissaient, et auprès de Wilhelm la poésie, l'idéal, au milieu de la
+réalité prosaïque où il se débat.</p>
+<p><pb/></p>
+<p>« elle s'y refusa, prit son luth, s'assit sur un pupitre élevé et chanta
+avec une grâce indicible :</p>
+<p>Et les êtres célestes qui m'accueilleront là-bas — sont purs et sans
+tache ; — et nul vêtement, nulle draperie — ne voile les corps
+transfigurés.</p>
+<p>Sans doute j'ai vécu sans soucis matériels, sans durs labeurs, — et
+pourtant j'ai éprouvé de profondes douleurs. — La souffrance m'a
+vieillie avant l'âge. — Rendez-moi une jeunesse éternelle. »</p>
+<p><pb/></p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHAPITRE VI.</p>
+<p>LES POÉSIES LYRIQUES.</p>
+<p>Avec quelle facilité au contraire naissent ses poésies lyriques ! Comme
+du premier coup elles</p>
+<p><pb/></p>
+<p>trouvent leur forme achevée et parfaite ! Elles se présentent sous sa
+plume, sans qu'il les ait cherchées et, pour ainsi dire, sans qu'il en
+ait conscience. Le jour, il se surprend en train de chanter un Lied ; la
+nuit, dit-il dans ses Mémoires,</p>
+<p><pb/></p>
+<p>laissant aller au charme du rythme, en vous berçant de l'harmonie des
+vers. Et ne craignez pas l'ennui qu'engendre la monotonie. L'inspiration
+est variée comme la vie de Goethe ; et la forme est sans cesse nouvelle.</p>
+<p>Le rideau de ma voisine Se soulève lentement.</p>
+<p>Elle va, je l'imagine,</p>
+<p>Prendre l'air un moment ;</p>
+<p>On entr'ouvre la fenêtre : Je sens mon coeur palpiter.</p>
+<p>Mais hélas ! ce n'est qu'un rêve ; Ma voisine aime un lourdaud, Et c'est
+le vent qui soulève Le coin de son rideau.</p>
+<p>Mais Goethe ne pouvait longtemps s'enfermer dans</p>
+<p><pb/></p>
+<p>Quand il se précipite des flancs élevés — du roc escarpé, — le jet de
+l'onde pure, — il tombe en gracieuse poussière, en flots nuageux — sur
+le rocher poli, — et, facilement accueilli, — il descend paisiblement, —
+avec un doux murmure, — vers le bas du vallon.</p>
+<p>Sur un lit aplani — il serpente dans la vallée fleurie, —</p>
+<p>et dans le miroir de ses eaux — baignent leur visage</p>
+<p>toutes les étoiles.</p>
+<p>Le vent est de l'onde — l'amoureux galant ; — le vent</p>
+<p><pb/></p>
+<p>bouleverse dans leurs profondeurs — les vagues écumantes.</p>
+<p>« Hâte-toi, Kronos ! — Allons, trotte et fais bruire les roues ! — Le
+chemin descend une pente rapide ; — de. dégoût et de vertige — me
+remplit ta lenteur. — Allons! sans crainte des cahots, — sur les
+cailloux et les ornières, trotte ! — Vite, entrons dans la vie !</p>
+<p>Encore une fois — ce pas essoufflé ! — Comme tu montes péniblement cette
+côte ! — Courage donc ! Hâte-toi ! — Que l'espérance te soutienne dans
+tes efforts.</p>
+<p><pb/></p>
+<p>Immense, superbe, sublime, le coup d'oeil — que d'ici nous pouvons jeter
+sur la vie ! — De cime en cime — plane l'esprit éternel — et nous donne
+le pressentiment d'une vie éternelle.</p>
+<p>Sur le côté de la route, ce toit qui t'offre un abri, — t'attire — et
+sur le seuil le regard de cette jeune fille, — qui te promet un
+rafraîchissement. — Rafraîchis-toi ; et moi aussi, jeune fille,
+donne-moi cette boisson écumante, — ce frais regard qui respire la santé.</p>
+<p>Ivre du dernier rayon, — entraîne-moi, une mer de feu — dans mon regard
+ébloui, — entraîne-moi sous le porche ténébreux des enfers !</p>
+<p>Fais sonner ta trompe, postillon, — que ta course plus rapide rende les
+roues plus bruyantes , — afin que l'Orcus apprenne notre arrivée, — afin
+que sur le seuil, — l'hôte affable vienne nous recevoir. »</p>
+<p>Mais cette forme de l'ode et du dithyrambe ne convenait qu'aux grands
+sujets et aux violents éclats de passion. Pour exprimer des sentiments
+plus tendres ou plus intimes, Goethe se sert du Lied. Le Lied, c'est la
+chanson populaire. En ce sens, il</p>
+<p><pb/></p>
+<p>LA ROSE DES BOIS.</p>
+<p>« Un enfant vit une petite rose, — une petite rose dans le bois; — elle
+était jeune et fraîche comme l'aurore. — Il courut vite pour la voir de
+près, — la vit avec un grand plaisir, — la petite rose, petite rose
+rouge — la petite rose des bois.</p>
+<p><pb/></p>
+<p>Et le cruel enfant cueillit — la petite rose des bois. —</p>
+<p>— Petite rose se défendit et piqua ; — mais rien n'y fît, ni cris, ni
+pleurs ; — il lui fallut bien le souffrir ; — petite rose, petite rose
+rouge, — petite rose des bois. »</p>
+<p>L'une s'appelle Susanne, — l'autre Anne-Marie ; — la troisième, je ne la
+nommerai point, — parce qu'elle m'appartiendra un jour.</p>
+<p>Là-bas dans cette vallée, — l'eau fait tourner une roue.</p>
+<p>— Elle ne moud que de l'amour,— du malin jusqu'au soir.</p>
+<p>La roue du moulin est brisée, — tout a une fin, l'amour</p>
+<p><pb/></p>
+<p>aussi ; — et quand deux coeurs qui s'aiment, se quittent,</p>
+<p>— joyeux jadis, en deuil a mis. »</p>
+<p>C'est le bégaiement de la douleur. Goethe aussi chante les regrets que
+chante la séparation: mais il leur donne une extraordinaire profondeur
+de mélancolie dans ces Plaintes du pâtre :</p>
+<p>« Là-haut sur cette montagne, — je me tiens bien souvent, — courbé sur
+mon bâton, — et je regarde en bas dans la vallée.</p>
+<p>Là, de belles fleurs — la prairie entière est couverte ;</p>
+<p>A l'abri de la pluie, de l'orage et de la tempête — je me mets sous un
+arbre. — La porte là-bas reste fermée. — Mais tout, hélas ! n'est qu'un
+rêve.</p>
+<p>Un arc en-ciel se montre — au-dessus de cette maison !</p>
+<p>— Mais elle, elle s'en est allée — bien loin dans le pays. Bien loin
+dans le pays et plus loin encore, — peut-être</p>
+<p>— le pâtre souffre tan t! »</p>
+<p>C'est encore un chant populaire qui a fourni le cadre et l'idée du Lied
+suivant :</p>
+<p>Quand l'éclat du soleil dore la mer profonde,</p>
+<p>Quand d'un reflet d'argent la lune éclaire l'onde,</p>
+<p>Quand sur le grand chemin s'élève la poussière;</p>
+<p>Je t'aperçois ;</p>
+<p><pb/></p>
+<p>La nuit sur le sentier du passant solitaire,</p>
+<p>Je t'aperçois.</p>
+<p>Si la vague en montant se brise sur la grève,</p>
+<p>J'entends ta voix.</p>
+<p>Si je vais sous l'ombrage interroger mon rêve,</p>
+<p>J'entends ta voix.</p>
+<p>Quoique tu sois bien loin, mon coeur, suivant son maître,</p>
+<p>Mais le soleil se couche et Vesper va paraître...</p>
+<p>« Toi qui habites les cieux, — qui apaises toute douleur et toute
+souffrance, — qui au coeur de celui qui est doublement malheureux, —
+verses un double baume. — Ah ! je suis las de cette vie agitée ! —
+Pourquoi toute cette douleur et toute celte joie !</p>
+<p>Douce paix, — viens, ah ! viens dans ma poitrine ! »</p>
+<p>(1) Traduit par M. Alfred des Essarts.</p>
+<p><pb/></p>
+<p>Ah ! qui me rendra les beaux jours,</p>
+<p>Les beaux jours des premières amours !</p>
+<p>Ah ! qu'il me vienne encore une heure,</p>
+<p>Une seule du temps que je pleure !</p>
+<p>Dans ma retraite, plein d'ennui,</p>
+<p>Songeant au bonheur qui m'a fui,</p>
+<p>J'entretiens sans cesse mes craintes,</p>
+<p>J'exhale sans cesse mes plaintes.</p>
+<p>Ah ! qui me rendra les beaux jours,</p>
+<p>Les beaux jours des premières amours (1) !</p>
+<p>(1) Traduit par M, Marmier.</p>
+<p><pb/></p>
+<p>« J'ai beaucoup essayé ; j'ai dessiné, gravé sur cuivre, — peint à
+l'huile ; maintes fois aussi j'ai pétri l'argile ;</p>
+<p>Mais avec inconstance, et je n'ai rien appris, rien produit; — il est un
+seul talent où je sois presque passé maître :</p>
+<p>L'art d'écrire en allemand. Et ainsi, poète malheureux, je dissipe —
+dans la plus ingrate matière, hélas! ma vie et mon art. »</p>
+<p>Et dans une autre :</p>
+<p>« Que voulut faire de moi la destinée? Il serait téméraire — de le
+demander ; car le plus souvent elle ne veut pas faire grand'chose de nous.</p>
+<p>Faire de moi un poète? Elle y serait parvenue. — si la langue ne se fût
+pas montrée absolument rebelle. »</p>
+<p><pb/></p>
+<p>Sur les sommets Toute chose Repose.</p>
+<p>Dans la forêt L'oiseau se tait.</p>
+<p>Dans la plaine tout dort, et tout dort sur le faîte,</p>
+<p>Le jour ne tardera pas,</p>
+<p>Où toi, poète,</p>
+<p>Aussi tu dormiras.</p>
+<p>Qui s'aperçoit, s'il n'en est prévenu, que le traducteur a cherché des
+rimes longues, ose, aite, as ?</p>
+<p><pb/></p>
+<p>Ueber allen Gipfeln Ist Ruh,</p>
+<p>In allen Wipfeln</p>
+<p>Spürest du</p>
+<p>Kaum einen Hauch :</p>
+<p>Die Vögelein schweigen im Walde.</p>
+<p>Warte nur ! balde</p>
+<p>Ruhest du auch.</p>
+<p>Il présidait au repas royal, — les chevaliers autour de lui, dans la
+haute salle des ancêtres, — en son château sur la mer.</p>
+<p><pb/></p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>Là, le vieux buveur se leva, — but la dernière goutte ardente de la vie,
+— et jeta la sainte coupe — en bas, dans les flots.</p>
+<p>Il la vit tomber, s'emplir — et s'enfoncer tout au fond de la mer. — Ses
+yeux se fermèrent ; — plus jamais ne but une goutte. »</p>
+<p>Cette admirable chanson a été maintes fois traduite en vers français ;
+mais tous les traducteurs ont échoué (1); ils n'ont pu rendre le charme
+tout particulier de la ballade. Le dernier couplet surtout, d'une si
+touchante mélancolie, où l'on entend comme le bruit d'un sanglot
+étouffé, ne saurait se transporter dans aucun autre idiome.</p>
+<p>Fais vibrer rapidement les cordes, — et puis jette un</p>
+<p>(1) La traduction qui me semble la meilleure est celle de Gérard de Nerval.</p>
+<p><pb/></p>
+<p>Ah! qu'il me semble triste ainsi, en lettres mortes — noir sur blanc, ce
+Lied, — qui dans ta bouche peut charmer divinement, — peut déchirer le
+coeur! »</p>
+<p><pb/></p>
+<p>« Comme la nature resplendit — lumineuse autour de moi ! — Comme le
+soleil brille ! — Comme la plaine est riante !</p>
+<p>Des fleurs sortent — de chaque branche, — et mille voix — de chaque
+buisson, et la joie et le bonheur — de chaque poitrine. — O terre, ô
+soleil ! — ô plaisir ! ô délices !</p>
+<p>O amour, ô amour ! — Splendide et doré, — comme les nuages du matin —
+sur ces coteaux !</p>
+<p>Tu bénis magnifiquement — les fraîches campagnes, — et la création
+entière — au milieu des parfums des fleurs.</p>
+<p>O jeune fille, ô jeune fille, — comme je t'aime ! — comme ton oeil
+brille ! — et comme tu m'aimes !</p>
+<p>Ainsi l'alouette aime — le chant et l'air pur, — ainsi les fleurs du
+matin — aiment la brise du ciel.</p>
+<p>Comme je t'aime — d'un coeur ardent — toi qui me donnes jeunesse — et
+joie et courage,</p>
+<p>Qui m'inspires des danses — et des chants nouveaux ! Sois heureuse
+éternellement — comme tu m'aimes ! »</p>
+<p>« Epanouis-toi, feuillage — de la treille, — autour de ma croisée! —
+Enflez-vous plus pressés, — grains jumeaux de la grappe, — et mûrissez
+plus vite et plus nourris ! —</p>
+<p><pb/></p>
+<p>Le soleil paternel vous couve — de ses derniers rayons, — autour de vous
+se fait sentir — du ciel propice — l'influence fécondante ; — la lune
+vous rafraîchit — de son haleine aimable, — et hélas ! de mes yeux —
+tombent sur vous — de l'amour éternellement vivifiant — les larmes, qui
+se pressent et éclatent ! »</p>
+<p>C'est parfois une simple image, qui fait ressortir le sentiment avec
+plus de force et de clarté et lui donne quelque chose de plastique et de
+sensible :</p>
+<p>« Laisse, laisse mes yeux le dire Cet adieu qui meurt dans ma voix.</p>
+<p>Gomme il est lourd ! comme il déchire !</p>
+<p>Et j'ai tant de force parfois !</p>
+<p>Ah ! maintenant notre amour même N'apporte avec lui que chagrin.</p>
+<p>Froide est la bouche que j'aime,</p>
+<p>Faible ton serrement de main.</p>
+<p>Et je n'aurai plus de couronne.</p>
+<p>C'est le printemps qui t'environne,</p>
+<p>Mais l'automne est venu pour moi (1). »</p>
+<p>La peinture des sentiments vagues, des états de l'âme dont on ne peut
+découvrir la cause immédiate, de cette Sehnsucht, dont j'ai parlé, est
+un des points où Goethe excelle. Dans le Lied suivant, intitulé
+Consolation dans les larmes, il a chanté ces émotions indéfinissables
+qui nous mettent dans les yeux des pleurs délicieux, ce qu'il appelle
+lui-même dans une autre de ses poésies: la volupté de la mélancolie.</p>
+<p>(1) Traduit par M. Marmier</p>
+<p><pb/></p>
+<p>Tes amis joyeux te convient. — Oh ! viens sur notr sein ! — Et quelle
+que soit la perte que tu aies faite, — ne crains pas de nous la confier !</p>
+<p>Dans vos fêtes bruyantes, vous ne pouvez comprendre — ce qui me
+tourmente et me rend malheureux, — Oh ! non, je n'ai rien perdu, — et
+pourtant cela me manque tant!</p>
+<p>Allons! rassemble vite tes forces ! — tu es dans la fleur de la
+jeunesse. — A ton âge on a de la vigueur— et l'ardeur de la conquête.</p>
+<p>Oh ! non, je ne puis le conquérir; — c'est trop loin de moi. — C'est si
+haut ! c'est si beau et si brillant, — comme cette étoile là-bas.</p>
+<p>Les étoiles on ne les désire pas, — on jouit de leur splendeur, —on
+élève ses regards vers elles avec ravissement — dans les nuits sereines.</p>
+<p>Et moi je lève mes regards avec ravissement — pendant des jours entiers
+; — laissez-moi passer les nuits dans les larmes — aussi longtemps que
+je pourrai pleurer ! »</p>
+<p>Dans les cieux qui font silence Du soleil le char s'élance.</p>
+<p>Ah ! faut-il que, dans son cours,</p>
+<p>Il redouble encor mes peines</p>
+<p>Et les tiennes !...</p>
+<p>C'ést ainsi de tous les jours...</p>
+<p><pb/></p>
+<p>La nuit même, plus de trêves :</p>
+<p>Je conserve dans les rêves Le secret de ma douleur ;</p>
+<p>Des fantômes de nos peines</p>
+<p>Mes nuits pleines Me rejettent au malheur.</p>
+<p>Des vaisseaux que les vents chassent Sous mes yeux les voiles passent,</p>
+<p>Vers son port chacun s'en va ;</p>
+<p>Mais au coeur il est des peines</p>
+<p>Surhumaines Que nul vent n'emportera.</p>
+<p>Aujourd'hui pourtant j'apprête Mes plus beaux habits de fête ;</p>
+<p>Car c'est fête pour eux tous.</p>
+<p>Ils ignorent quelles peines Sont les miennes,</p>
+<p>Quel mystère est entre nous.</p>
+<p>Ma pauvre âme se déchire ;</p>
+<p>Mais, voyez, je sais sourire Et montrer un joyeux front...</p>
+<p>A quand la fête où mes peines</p>
+<p>Et les tiennes Avec nos jours finiront (1) ?</p>
+<p>(1) Traduit par Emile Deschamps. Les trois derniers vers sont chez</p>
+<p>Goethe ; « Si ces douleurs étaient mortelles — pour mon coeur —</p>
+<p>Oh ! depuis longtemps je serais morte! »</p>
+<p><pb/></p>
+<p>mélancoliques ; il sait aussi être spirituel et gai. Il a écrit des
+chansons d'une jolie facture, d'un rythme presque dansant, qui sont
+devenues populaires. Les étudiants les chantent dans leurs réunions
+bruyantes, les vignerons aux vendanges, les paysans au soir des jours de
+moisson. S'agit-il tout simplement de célébrer un anniversaire, d'écrire
+un prologue pour une cérémonie publique et une fête intime, le poète
+sait trouver des tournures originales et charmantes et, le plus souvent,
+mêler quelque grande pensée, heureusement exprimée, aux sentiments que
+lui inspire la circonstance.</p>
+<p><pb/></p>
+<p>particulier sur les ballades écossaises, qui avaient été recueillies par
+Percy, et d'en mettre en lumière le caractère sombre et la puissance
+dramatique. Bürger, abandonnant la manière de Moncrif, qu'il avait
+adoptée d'abord, écrivait aussitôt la célèbre ballade de Lenore, dont un
+vers au moins : « Les morts vont vite », est devenu populaire en France,
+et la ballade, désormais cultivée par tous les poètes, devenait un des
+plus beaux joyaux de la poésie allemande,</p>
+<p>C'est, par exemple, la terreur de l'enfant dans les ténèbres que nous
+montre</p>
+<p>LE ROI DES AULNES ;</p>
+<p>C'est le père avec son enfant.</p>
+<p><pb/></p>
+<p>De son bras crispé de tendresse,</p>
+<p>Contre sa poitrine il le presse,</p>
+<p>Et de la bise il le défend.</p>
+<p>— Mon fils, d'où vient qu'en mon sein tu frissonnes ?</p>
+<p>•Couronne au front, en long manteau ?...</p>
+<p>— Mon fils, c'est un brouillard sur l'eau.</p>
+<p>« Viens, cher enfant, suis-moi dans l'ombre ; « Je t'apprendrai des jeux
+sans nombre ;</p>
+<p>« J'ai de magiques fleurs et des perles encor,</p>
+<p>« Ma mère a de beaux habits d'or. »</p>
+<p>— N'entends-tu point, mon père (oh! que tu te dépêches !) Ce que le roi
+murmure et me promet tout bas?</p>
+<p>— Endors-toi, mon cher fils, et ne l'agite pas...</p>
+<p>C'est le vent qui bruit parmi les feuilles sèches.</p>
+<p>« Veux lu venir, mon bel enfant ? oh ! ne crains rien ! « Mes filles, tu
+verras, te soigneront si bien !</p>
+<p>« La nuit, mes filles blondes « Mènent les molles rondes...</p>
+<p>« Elles te berceront,</p>
+<p>« Danseront, chanteront. »</p>
+<p>— Mon père, dans les brumes grises</p>
+<p>Vois ses filles en cercle assises !</p>
+<p>— Mon fils, mon fils, j'aperçois seulement « Les saules gris au bord des
+flots dormant.</p>
+<p>« Je t'aime, toi ; je suis attiré par ta grâce !</p>
+<p>« Viens, viens donc ! Un refus pourrait t'être fatal ! »</p>
+<p>— Ah! mon père ! mon père ! Il me prend... il m'embrasse...</p>
+<p>Le Roi des aulnes me fait mal !</p>
+<p>Et le père frémit et galope plus fort ;</p>
+<p>Il serre entre ses bras son enfant qui sanglote,,.</p>
+<p><pb/></p>
+<p>Dans ses bras l'enfant était mort (1) !</p>
+<p>C'est l'attrait mystérieux et puissant qu'exerce sur nous une eau
+profonde et pure, dans</p>
+<p>LE PÊCHEUR.</p>
+<p>L'onde gémit, la vague se balance. — Le pêcheur suit du bord,</p>
+<p>Dans un profond silence, Sa ligne où pend la mort. Soudain, tandis qu'il
+rêve, S'agitent les roseaux ;</p>
+<p>Puis une femme élève Son beau corps sur les eaux.</p>
+<p>« La lune au lac se mire,</p>
+<p>« Le roi du jour s'y plaît ;</p>
+<p>« Deux fois on les admire,</p>
+<p>« Plus beaux dans leur reflet.</p>
+<p>« L'azur du ciel qui nage,</p>
+<p>« Tous ces mouvants tableaux,</p>
+<p>« Et ta flottante image</p>
+<p>« T'appellent sous les flots. »</p>
+<p>(1) Traduit par Emile Deschamps.</p>
+<p><pb/></p>
+<p>L'onde gémit, la vague se balance,</p>
+<p>Et mouille son pied nu ;</p>
+<p>Son coeur troublé s'élance Vers un charme inconnu.</p>
+<p>La nymphe parle et chante...</p>
+<p>Pour lui trop doux attrait !</p>
+<p>Il cède, il suit la pente,</p>
+<p>L'eau s'ouvre, il disparaît (1).</p>
+<p>Quels que soient les mérites de ces traductions, elles ne peuvent donner
+qu'une faible idée du texte même. Rien n'a jamais été écrit de plus
+parfait que le Pêcheur en particulier. La ballade est ciselée comme une
+fleur dans une pierre précieuse. La construction des strophes, le
+rythme, les césures, une coupe devers originale qui lui donne le
+balancement de la vague, l'harmonie et la douceur insinuante des
+séduisantes paroles qu'adresse au pêcheur « la femme humide », la vérité
+et la nouveauté des images, la hardiesse des épithètes qui dans un mot
+évoquent tout un tableau : l'admiration ne sait où fixer ses préférences.</p>
+<p>LA VIOLETTE.</p>
+<p>(1) Traduit par Emile Deschamps.</p>
+<p><pb/></p>
+<p>vint une jeune bergère — d'un pas léger, l'humeur joyeuse</p>
+<p>— là-bas, là-bas — au bout du pré, et elle chantait.</p>
+<p>— Et si je meurs, je meurs du moins — par elle, par elle</p>
+<p><pb/></p>
+<p>CHAPITRE VII,</p>
+<p>LES DERNIÈRES ANNÉES DE LA VIE DE GOETHE. — LE</p>
+<p>Faust.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Quelques semaines auparavant, il terminait le cinquième acte du second
+Faust et y écrivait ces vers : « La trace des jours que j'ai passés sur
+la terre ne périra point malgré les siècles. »</p>
+<p><pb/></p>
+<p>résumé et de conclusion, les traits les plus, originaux du génie de
+notre poète.</p>
+<p>(1) Ce nom vient du grec et signifie, selon les uns, ennemi de la
+lumière ; selon les autres, ennemi de Faust.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>XVIIIe siècle. Mais Lessing attira l'attention de ses contemporains sur
+le parti que l'art dramatique pouvait tirer de cette légende populaire
+et vraiment nationale. Lui-même avait commencé une tragédie de Faust.
+Elle a été perdue; mais peu importe, Lessing avait réhabilité Faust et
+lui avait rendu l'attrait d'un héros grand et tragique.</p>
+<p><pb/></p>
+<p>« Quoi! tu demandes pourquoi ton coeur — est ainsi anxieux et oppressé
+dans ton sein? — Pourquoi une douleur inexplicable — arrêté en toi tout
+mouvement de vie ! — Au lieu de la nature vivante — dans laquelle le
+créateur a placé l'homme, — tu n'es entouré, au milieu de la poussière
+et de la moisissure —que de squelettes et d'ossements. — Fuis ! sors,
+cours dans la vaste campagne. — Où pourrais-je te saisir, ô nature
+infinie ? — Où vous trouverai-je, ô puissantes mamelles, source de toute
+vie — auxquelles sont suspendus le ciel et la terre ? — vers lesquelles
+un ardent désir attire mon coeur flétri ? — Vous jaillissez, vous
+abreuvez ; et je me consume ainsi en vain ! »</p>
+<p>Et quand, attiré invinciblement par la puissante et ardente prière de
+Faust, l'esprit évoqué apparaît, ce n'est point le diable de la légende,
+le Lucifer de Marlowe, c'est la personnification même de la nature,
+c'est l'Esprit de la terre. Mais insuffisamment pré¬</p>
+<p><pb/></p>
+<p>Goethe ne s'était pas tracé un plan rigoureux. Il comptait s'en tenir
+aux lignes générales du drame populaire. Il se contente d'abord
+d'esquisser quelques tableaux ; il nous montre Faust exerçant dans la
+taverne d'Auerbach les traits de magie que lui</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Avec quelle charmante naïveté elle entretient le savant docteur Faust de
+ses occupations domestiques !</p>
+<p>Faust. — Sans doute, vous êtes souvent seule ?</p>
+<p>Marguerite. — Oui, notre ménage est bien petit — mais encore faut-il
+qu'on en prenne soin. — Nous n'avons pas de servante, il faut que je
+cuise, balaye, tricote, — et couse,</p>
+<p><pb/></p>
+<p>et que je coure du matin au soir ; — et ma mère en toutes choses est si
+regardante ! — Non pas précisément qu'elle ait tant besoin de se
+restreindre — nous pourrions nous donner des aises bien mieux que
+d'autres. — Mon père nous a laissé un joli bien, — une petite maison et
+un petit jardin hors des portes. — Mon frère est soldat, ma petite soeur
+est morte.</p>
+<p>Faust. — Un ange, si elle te ressemblait !</p>
+<p>Marguerite. — C est moi qui l'élevais, et elle m'aimait de tout son
+coeur. — Elle était née après la mort de mon père.</p>
+<p>Faust. — Tu as certainement éprouvé le bonheur le plus pur</p>
+<p>Combien jolie encore est la scène où elle interroge Faust sur ses
+sentiments religieux :</p>
+<p>Dis-moi, où en es-tu avec la religion ?— Tu es un homme foncièrement
+bon, — mais je crois que tu n'en fais pas grand cas.</p>
+<p>Faust. — Laisse cela, mon enfant ! Tu sens que je t'aime.</p>
+<p><pb/></p>
+<p>Marguerite. — Ce n'est pas bien, il faut y croire !</p>
+<p>Faust. — Il faut ?</p>
+<p>Marguerite. — Ah ! si j'avais quelque pouvoir sur toi ! — Tu ne
+respectes pas non plus les saints sacrements.</p>
+<p>Faust. — Je les respecte.</p>
+<p>Goethe se sert encore habilement du contraste pour mieux faire ressortir
+les traits de cette belle et douce figure. Mieux que dans ses paroles et
+ses actions, la distinction naïve de Marguerite, l'innocente bonté de
+son coeur se révèlent quand elle est aux côtés de la Marthe vulgaire.
+Méphistophélès éprouve lui-même pour elle tout le respect dont son âme
+diabolique est capable. Elle, au contraire, ressent une instinctive
+aversion pour la méchanceté, les sarcasmes railleurs, le froid égoïsme
+du compagnon de Faust.</p>
+<p><pb/></p>
+<p>O daigne, daigne,</p>
+<p>Mère dont le coeur saigne,</p>
+<p>Pencher ton front vers ma douleur !</p>
+<p>L'épée au coeur,</p>
+<p>L'âme chagrine,</p>
+<p>Tu vois ton fils mourir sur la colline.</p>
+<p>Ton regard cherche le ciel.</p>
+<p>Tu lances vers l'Eternel Des soupirs pour sa misère,</p>
+<p>Pour la tienne aussi, pauvre mère !</p>
+<p>Qui sentira jamais</p>
+<p>L'affreux excès De la douleur qui me déchire ?</p>
+<p>Ce que mon coeur a de regrets,</p>
+<p><pb/></p>
+<p>Ce qu'il craint et ce qu'il désire,</p>
+<p>Toi seule, toi seule le sais.</p>
+<p>En quelque endroit que j'aille,</p>
+<p>Un mal cruel travaille Mon sein tout en émoi.</p>
+<p>Je pleure, pleure, pleure ;</p>
+<p>Mon coeur se brise en moi.</p>
+<p>Et le premier rayon Du soleil m'a surprise Sur mon séant assise,</p>
+<p>Dans mon affliction.</p>
+<p>Ah ! sauve-moi de la mort, de l'affront Daigne, daigne,</p>
+<p>Toi dont le coeur saigne,</p>
+<p>Vers ma deuleur pencher ton divin front (1).</p>
+<p>C'est son frère qui vient lui faire de violents reproches, et qui,
+traîtreusement assassiné par Méphistophélès, meurt en la maudissant ;
+c'est enfin, dans la cathédrale, pendant qu'aux funérailles de sa mère,
+le lugubre Dies irae retentit sous les voûtes, sa conscience qui prend
+une voix et lui fait un terrible tableau de sa situation.</p>
+<p>(1) Traduit par M. Blaze de Bury.</p>
+<p><pb/></p>
+<p>la couronne est dénouée, les fleurs sont jetées au vent. — Ne me saisis
+pas aussi violemment ! — Epargne-moi ! Que t'ai-je fait ? — Ne me laisse
+pas te supplier en vain.</p>
+<p>Elle finit cependant par le reconnaître :</p>
+<p>Faust, s'efforçant de l'emmener. — Viens ! viens !</p>
+<p>Marguerite. — Oh ! reste ! — Je reste avec tant de plaisir où tu restes
+toi-même!</p>
+<p>Faust. — Viens ! suis-moi ! Ma bien-aimée, prends courage ! — Je te
+serrerai sur mon coeur avec une ardeur plus grande que jadis; — mais
+suis-moi, c'est tout ce que je te demande.</p>
+<p>Marguerite. — Est-ce bien toi ? Est-ce toi sûrement ?</p>
+<p>Faust. — C'est moi, viens !</p>
+<p>Marguerite. — Tu délies mes chaînes, — tu me reprends sur</p>
+<p>ton sein ; — d'où vient que tu n'as pas horreur de moi ? —</p>
+<p>Et sais-tu, mon ami, qui est la femme que tu viens délivrer ?</p>
+<p>Tu t'en vas ! O Henri ! si je pouvais te suivre !</p>
+<p><pb/></p>
+<p>avec une conscience coupable encore ! — Quel misérable sort d'aller à
+l'étranger ! — Et ils finiraient pourtant par me saisir !....</p>
+<p>Faust. — Le jour paraît, ma bien-aimée, ma bien-aimée.</p>
+<p>Quelle est cette chose qui se dresse du sol? — Lui, lui ! renvoie-le !
+Que vient-il faire en ce lieu saint ? — C'est moi qu'il veut !</p>
+<p>Faust. — Tu dois vivre !</p>
+<p>Méphistophélès. — Elle est jugée !...</p>
+<p>Voix d'en haut. — Elle est sauvée !</p>
+<p>Mais cette Marguerite et ce Faust n'ont plus rien de commun avec les
+personnages de la légende. Il est même un point de leur histoire, telle
+que nous la raconte le poète, que nous ne comprenons pas biens</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Connais-tu Faust ?</p>
+<p>Méphistophélès. — Le docteur ?</p>
+<p>Le Seigneur. — Mon serviteur.</p>
+<p>Méphistophélès. — Certes, il vous sert d'une étrange sorte.</p>
+<p>Méphistophélès. — Que pariez-vous ? Il sera perdu pour vous, — si vous
+me donnez la permission — de l'amener doucement sur ma route.</p>
+<p>Le Seigneur. — Aussi longtemps qu'il vivra sur la terre, aussi longtemps
+tout t'est permis. — L'homme s'égare aussi longtemps qu'il marche au but
+avec effort.</p>
+<p>— qu'un homme bon, dans ses confuses aspirations — garde pourtant la
+conscience du droit chemin.</p>
+<p>C'est également une sorte de pari que Méphistophélès vient proposer à
+Faust.</p>
+<p><pb/></p>
+<p>Méphistophélès. — Tope !</p>
+<p>Méphistophélès. — Songes-y bien ! nous ne l'oublierons pas.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>des spectateurs sont fort amusantes ; chacun reçoit de cet idéal de
+beauté une impression différente, beaucoup y trouvent force critiques à
+faire ; mais Faust qui doit expliquer la pantomime que font ses ombres,
+s'exprime avec un enthousiasme toujours croissant. En vain de son trou
+Méphistophélès lui crie : mais calmez-vous ! vous sortez de votre rôle ;
+il se passionne de plus en plus, il se sent jaloux de Paris, il veut
+saisir Hélène et l'arracher de ses bras. Une explosion se produit, Faust
+tombe évanoui et Méphistophélès l'emporte sur ses épaules. Ainsi
+l'ambition, le grand rôle qu'il peut jouer dans l'empire n'ont pu
+satisfaire Faust. Il a vu un idéal nouveau et sur-le-champ s'en est épris.</p>
+<p><pb/></p>
+<p>Dans toutes ces scènes, Goethe a semé une foule d'épigrammes contre
+l'Allemagne qu'il a connue, contre la philosophie et la science de son
+époque. Il s'y moque un peu de lui-même aussi, de son titanisme
+d'autrefois, et ce passage forme une contre-partie ironique au début du
+poème. Malheureusement cet Homunculus n'est pas purement l'invention
+d'une imagination en bonne humeur, c'est aussi un symbole qu'il est fort
+difficile d'expliquer. L'allégorie et l'allusion règnent ici en
+maîtresses et cet épisode est l'un des plus obscurs de la tragédie.</p>
+<p><pb/></p>
+<p>Cependant les deux compagnons de Faust ont eu leurs aventures aussi.
+Homunculus a trouvé la fin de sa courte existence ; il est venu se
+heurter contre le char de Galathée, le flacon dans lequel il est
+toujours enfermé, s'est brisé, et il s'est évaporé. Méphistophélès, le
+diable du Nord et du Moyen-Age, se</p>
+<p><pb/></p>
+<p>Nous avons laissé Faust en route pour les Enfers. Goethe s'était proposé
+de décrire son expédition. Il devait se jeter aux pieds de Proserpine et
+la supplier avec tant d'ardeur et d'éloquence que, profondément émue,
+l'épouse de Pluton lui aurait permis d'emmener, comme jadis Orphée,
+celle qu'il venait chercher. Mais le vieillard de 80 ans ne s'était plus
+senti la force d'exécuter ce plan et d'écrire ce discours, et il nous
+met sans transition en lace d'Hélène elle-même.</p>
+<p>Cet épisode débute par un magnifique pastiche de la tragédie grecque :
+Hélène revient de Troie. En débarquant sur le sol de la Grèce, son époux
+Ménélas lui a ordonné de le précéder au palais ; il reste au bord de la
+mer pour passer ses troupes en revue ; elle pendant ce temps doit faire
+les préparatifs d'un sacrifice. Mais quelle sera la victime ? Ménélas
+n'en a point parlé ! Ne serait-ce pas elle-même ? Aux portes du palais,
+Hélène s'arrête et exprime au choeur de jeunes Troyennes qui l'ont
+suivie, ses pressenti¬</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>le retour d'Italie ; Hélène est le symbole de l'art classique, auquel
+Goethe s'est alors attaché ; Faust est ici le poète révolutionnaire du
+Goetz et du Werther, le représentant de la poésie romantique.</p>
+<p>Faust a quitté le pays de Grèce où il a fait un si</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>A ces mots, il tombe et meurt : Méphistophélès triomphe :</p>
+<p>Il semble donc que le démon ait gagné son pari.</p>
+<p>« Le corps gît là, et si l'âme veut s'en échapper, je lui montrerai
+rapidement le pacte signé de son sang. »</p>
+<p>En effet, dans la légende, Faust devient la proie du diable. Mais quoi !
+le poète pourra-t-il condamner son héros ? Ce Faust n'est-ce pas
+lui-même ? N'ont-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>oeuvre. Il n'est pas un genre auquel il se soit exclusivement attaché ;
+s'il en est où il ne s'est point élevé au-dessus du médiocre, comme la
+comédie et l'épigramme, il s'est du moins essayé dans tous. Il n'en est
+pas non plus où il se soit répété, où il ait seulement apporté les mêmes
+procédés; il n'y a pas une manière, un style, une langue de Goethe; il y
+en a plusieurs.</p>
+<p>Musset nous l'appelions « le patriarche de la littérature moderne. »</p>
+<p><pb/></p>
+<p>TABLE DES MATIÈRES</p>
+<p>Pages</p>
+<p>CHAPITRE I. — L'enfance et la jeunesse de Goethe. Son séjour aux
+Universités de Leipzig et de Strasbourg..</p>
+<p>7</p>
+<p>CHAPITRE II. — La révolution de 1773. — Goetz, de Berlichingen et Werther</p>
+<p>43</p>
+<p>91</p>
+<p>CHAPITRE IV. — Weimar — L'Italie. — Les poèmes classiques : Iphigénie en
+Tauride, le Tasse, Hermann et Dorothée...</p>
+<p>113</p>
+<p>CHAPITRE V. — Les romans : Wilhelm Meister. ......</p>
+<p>153</p>
+<p>CHAPITRE VI . — Les poésies lyriques</p>
+<p>173</p>
+<p>CHAPITRE VII. — Les dernières années de la vie de Goethe. — Le Faust...</p>
+<p>201</p>
+<p><pb/></p>
+<p>TABLE DES GRAVURES</p>
+<p>Pages</p>
+<p>Goethe sur son lit de mort</p>
+<p>4</p>
+<p>Frau Rath, la mère de Goethe. ...........</p>
+<p>9</p>
+<p>Le Conseiller Goethe</p>
+<p>13</p>
+<p>Cornélie Goethe</p>
+<p>30</p>
+<p>33</p>
+<p>Herder...</p>
+<p>51</p>
+<p>Charlotte Buff...</p>
+<p>69</p>
+<p>103</p>
+<p>115</p>
+<p>Fac-similé de l'écriture de Goethe...</p>
+<p>87</p>
+<p>08</p>
+<p>POITIERS. — TYPOGRAPHIE OUDIN.</p>
+    </div>
+    </body>
+  </text>
+</TEI>

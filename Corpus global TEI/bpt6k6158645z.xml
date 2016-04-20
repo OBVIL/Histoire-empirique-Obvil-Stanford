@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Huot, Paul (1816-1870)">Paul Huot</author>
+<title>Étude sur le Roman de la Rose, par M. P. Huot,... et Rapport par M. Mauge Du Bois-des-Entes,... publiés par la Société archéologique de l'Orléanais</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Huot, Paul (1816-1870)</author>, <title>Étude sur le Roman de la Rose, par M. P. Huot,... et Rapport par M. Mauge Du Bois-des-Entes,... publiés par la Société archéologique de l'Orléanais</title>, <date>1853</date>,description :Comprend : Rapport,78 pages
+</bibl>
+<publisher>impr. de A. Jacob (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k6158645z</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1853">1853</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/></p>
+<p>ÉTUDE</p>
+<p>SUR LE</p>
+<p>ROMAN DE LA ROSE,</p>
+<p>PAE M. ff&gt;. MÏJOT ,</p>
+<p>HE'iIMlE PE LA SOCIÉTÉ ARCHËOLOGIQllE DE L'ORLÉAMIS. -</p>
+<p>et</p>
+<p>RAPPORT</p>
+<p>PAR M. MAUGE DU BOIS-DES-ENTES,</p>
+<p>■MEMBRE LE L\ IIL'JE SOUÉrL.</p>
+<p>PUBLIÉS PAR LA SOCIÉTÉ ARCHÉOLOGIQUE DE L'ORLËIMIS.</p>
+<p>ORLÉANS,</p>
+<p>GATINEAU, LIBRAIRE, RUES ROYALE ET JEANNE-D'ARC.</p>
+<p>PARIS,</p>
+<p>DUMOULIN, LIBRAIRE, QUAI DES AUGUSTINS, 15. 1853.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>ÉTUDE</p>
+<p>SUR LE</p>
+<p>ROMAN DE LA ROSE,</p>
+<p>PAR M. P. HUOT,</p>
+<p>51EJinnE DE I.A SOCIÉTÉ ARCHÉOLOGIQUE DE L'ORLÉANAIS,</p>
+<p>et</p>
+<p>RAPPORT</p>
+<p>PAR M. M AUGE DU BOIS-DES-ENTES,</p>
+<p>MEMBRE DE LA MÊME SOCIETE.</p>
+<p>PUBLIES PAR LA SOCIETE ARCHEOLOGIQUE DE L'ORLEANAIS.</p>
+<p>A ORLEANS,</p>
+<p>DE L'IMPRIMERIE D'ALEX. JACOB,</p>
+<p>RUE SAINT-SAUVEUR, M.</p>
+<p>1853.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>ÉTUDE</p>
+<p>SUR</p>
+<p>LE ROMAN DI LA ROSE.</p>
+<p><pb/></p>
+<p>— u —</p>
+<p>Le livre de Guillaume de Lorris a pour titre :</p>
+<p>Cy est le Romant de la Rose</p>
+<p>Où l'art d'amours est toute enclose.</p>
+<p>11 établit, dès son début, que les songes ne sont pas toujours
+mensonges, témoin Macrobe, ung aucteur très-affable, qui raconte le rêve
+de Scipion. Donc, Guillaume croit aux rêves, et il va nous en raconter
+un qu'il fit, vers le vingtième an de son âge, époque où l'amour -prend
+le péage des jeunes gens. — Ce n'est pas seulement pour le public, ce
+n'est pas pour se faire un nom dans les lettres qu'il a entrepris ce
+travail, ce n'est pas au hasard qu'il lui a donné ce nom de roman de la
+Rose, car celle pour qui il l'a empris</p>
+<p>C'est une dame de hault pris Qui tant est digne d'estre aimée, Qu'elle
+doit rose estre clamée.</p>
+<p>G'élaiL au mois de mai, au temps que tout rit et s'égaie, que la nature
+si gaie se treuue. qu'elle veut avoir robe neuve, que la pauvreté</p>
+<p><pb/></p>
+<p>— 5 —</p>
+<p>ne se souvient plus où elle a tout l'hiver été, que les amants
+soupirent, que les oiseaux chantent, sur la branche, leurs chants
+gracieux. Une nuit, il lui sembla qu'il était matin; il se lève, se lave
+les mains et prend dans son aiguiller une aiguille d'argent dont il coud
+ses manches ; sa toilette terminée, il sort de la ville et s'en va emmy
+les champs; là, il rencontre une rivière, et sur ses bords un verger
+dont les murs, d'une grande hauteur, sont ornés de peintures
+allégoriques ; on y voit représentées :</p>
+<p>HAINE, femme de très-mauvais courage, et, par la tête, entortillée
+hideusement d'une touaille.</p>
+<p>FÉLONIE, qui félonnement est faite.</p>
+<p>VILENIE, fausse créature, médisante, qui semble de dépit et d'ordure
+pleine.</p>
+<p>AVARICE, qui semble morte de faim, vêtue d'une robe usée et tenant en
+main une bourse où elle n'aurait pas mis le poing, fût-ce pour sauver sa
+vie.</p>
+<p>TRISTESSE, qui bien montrait, par sa couleur, qu'elle avait au coeur
+grand'douleur.</p>
+<p>VIEILLESSE, dont tout le corps était séché, la taille courbée et la
+démarche lente.</p>
+<p>PAPELARDISE, qui bien semblait être hypocrite, qui fait dehors la
+marmiteuse.</p>
+<p>Enfin POVRETÉ, nue quasi comme un ver.</p>
+<p><pb/></p>
+<p>— 6 —</p>
+<p>ces longues descriptions comme on en rencontre trop souvent dans le
+poème de Guillaume. Molinet, lui, y a vu autre chose, car sous chaque
+personnage du roman, il cherche une moralité ; son livre a pour titre :</p>
+<p>Cy est le Roman de la Rose Moralisé cler et net Translaté de rime en
+prose Par votre humble Molinet.</p>
+<p>. Voici donc comment il moralise ce début du trouvère de Lorris.</p>
+<p>Et pour préserver ses mains blanches Du hasle, en chascune eut un gant.</p>
+<p><pb/></p>
+<p>A besongner peu se mettait ; Car quand bien peignée elle était, Bien
+parée et bien attournée, Elle avait faite sa journée.</p>
+<p>Que fussent anges empennés.</p>
+<p>Pour ce qu'on en fait en Lorraine De plus belles qu'en nul domaine.</p>
+<p><pb/></p>
+<p>— 8 —</p>
+<p>Or, savez-vous qui fut sa mie? Ce n'était ni Courtoisie ni Oiseuse,
+c'était Lyesse.</p>
+<p>La mieux disant des bien disants Qui, dès son âge de dix ans, De son
+amour lui fit octroy.</p>
+<p>Le dieu d'Amours, cil qui despart</p>
+<p>C'est lui qui les amans attise</p>
+<p>Et qui abat l'orgueil des braves,</p>
+<p>Et fait des grands seigneurs esclaves,</p>
+<p>Qui fait servir reine et princesse,</p>
+<p>Et repentir nonne et abbesse.</p>
+<p>Il semblait que ce fust un ange Descendant droitement du ciel.</p>
+<p>Auprès de lui se tenait son varlet, nommé Doux-Regard qui portait en
+main les deux arcs de son maître, deux arcs turquois, l'un grossier et
+tortu, l'autre poli et bien travaillé, avec des flèches pour chacun
+d'eux ; celles de l'arc poli, garnies de pointes d'or, avaient chacune
+leur nom : la meilleure était Beauté, la seconde Symplesse,</p>
+<p>L'une de celles qui moins blesse ;</p>
+<p>Franchise, empennée de valeur et de courtoisie ; Compagnie, et enfin
+Beau-Semblant, la moins dangereuse de toutes. Les cinq flèches de l'arc
+tortu sont : Orgueil, Vilenie, Félonie, Honte, Convoitise et Despérance.</p>
+<p>L'Amour était entouré de divers personnages, dame Beauté, d'abord,</p>
+<p>Simple comme une espousée Et blanche comme fleur de lys.</p>
+<p>puis, dame Richesse,</p>
+<p>Une dame de grand hautesse,</p>
+<p>De grand prix et de grande affaire.</p>
+<p><pb/></p>
+<p>— 9 —</p>
+<p>Nul n'eût osé se mettre mal avec elle, chacun l'appelait sa dame, car</p>
+<p>Ce n'est mie d'hui ni d'hier</p>
+<p>Que riches gens ont grand puissance.</p>
+<p>Qui guérissait du mal de dens.</p>
+<p>Une autre dame de la compagnie de l'Amour, c'est Largesse, qui descend
+en droite ligne du lignage d'Alexandre; grand éloge de Largesse, et
+vitupération à!Avarice ; les avares peuvent avoir des terres, des
+châteaux, de riches et fertiles plantations,</p>
+<p>Mais il n'ont pas planté d'amis.</p>
+<p>C'est là, selon moi, un de ces vers heureux qui font oublier les
+longueurs et les allégories du trouvère de Lorris. Franchise, Courtoisie
+et Jeunesse, au visage riant, ferment la marche.</p>
+<p>Laurent, serrez ma haire avec ma discipline !</p>
+<p>L'Amour se promène dans le jardin, et Guillaume ne manque pas celte
+occasion d'énumérer tous les arbres, fruits et fleurs qui y croissent,
+sans oublier même les épices, clous de girofle et régalice; puis les
+animaux, daims, chevreuils, écureuils et connils. Mais pendant qu'il se
+promène ainsi, l'Amour a pris sournoisement l'un de</p>
+<p>2</p>
+<p><pb/></p>
+<p>— 10 —</p>
+<p>Qui démontrait que là-dessus Mourut le très-beau Narcissus.</p>
+<p>Il s'y décide cependant, et s'explique la mésaventure de son
+prédécesseur ; au fond de l'eau, il y avait un miroir magique, et ce qui
+augmente le danger, c'est que sur les bords, le dieu d'Amour a semé de
+sa graine,</p>
+<p>Laquelle encombre la fontaine.</p>
+<p>Il y a tendu ses filets où viennent se prendre les jeunes filles et les
+damoiseaux :</p>
+<p>Amour ne veut autres oiseaulx.</p>
+<p>Par telle guise Qu'il n'entama pas la chemise.</p>
+<p><pb/></p>
+<p>— 11 —</p>
+<p>Ne fut ne vieille ne chenue,</p>
+<p>Ne fut trop maigre ne trop grasse,</p>
+<p>Ne fut trop haute ne trop basse....</p>
+<p>Pour ce, ajoute-t-il,</p>
+<p>Pour ce laissez-moi du tout faire, Car vous pourriez gaster l'affaire Et
+perdre tout votre françois.</p>
+<p><pb/></p>
+<p>— 12 —</p>
+<p>Honte prend la défense, et dissuade Jalousie de croire les rapports de
+Malebouehe; mais un autre personnage,</p>
+<p>Ici, Messieurs, finit le roman de Guillaume de Lorris, ou plutôt, dans
+le manuscrit publié par M. Méon, il y avait encore cent cinquante-deux
+vers où il développait le noeud de l'action; mais Jehan de Meung les a
+retranchés et en a ajouté... dix-huit mille !</p>
+<p>Voyons maintenant comment Molinet a moralisé ce que nous venons de lire.</p>
+<p>Guillaume, nous l'avons vu, avait commencé son oeuvre en l'honneur d'une
+dame de hault pris.- Dans sa pensée, c'était avant tout</p>
+<p><pb/></p>
+<p>— 13 —</p>
+<p>« A ta Royale Majesté, très-noble prince, par la grâce de Dieu, « Roy
+des François, Phillippes-le-Quart, je, Jehan de Meung, qui, « jadis, en
+romans de la Rose, puisque Jalousie eut mis en prison « Bel-Accueil,
+enseignai la manière du chaslel prendre et de la rose</p>
+<p><pb/></p>
+<p>— 14 —</p>
+<p>« cueillir, et translatai de latin en françois le livre de Végète de «
+chevalerie , et le livre des Merveilles de Hirlande , et le livre des «
+Épistres de Pierre Abeillard et Héloïse sa femme, et le livre d'Aelred,
+« de spirituelle amitié, envoyé ores Boëce, de consolation, que j'ai «
+translaté en françois, jaçoit ce qu'entendes bien le latin. »</p>
+<p>Comme sont ores ces blancs moines (Citeaux), Ces noirs et ces réglez
+chanoines, Ceulx de l'Ospital, ceulx du Temple.</p>
+<p><pb/></p>
+<p>— 15 —</p>
+<p>Mais bien presque toutes les saintes -Qui saintes sont, seront et
+furent, Qui par l'Eglise sont priées, Furent chastes et mariées, Et
+mains beaux enfants enfantèrent, Voire les onze mille vierges Qui devant
+Dieu tiennent leurs cierges.</p>
+<p>... Nature n'est pas si sotte</p>
+<p>D'avoir fait naistre Marotte</p>
+<p>Tant seulement pour Robichon</p>
+<p>Se l'entendement y ûchon,</p>
+<p>Ne Robichon pour Mariette</p>
+<p>Ne pour Agnès, ne pour Perette;</p>
+<p>Ains nous a fait, beau fils, n'en doubtes,</p>
+<p>Toutes pour tous et tous pour toutes,</p>
+<p>Chascune pour chascun commune</p>
+<p>Et chascun commun pour chascune.</p>
+<p>Et la terre même partyrent (partagèrent),</p>
+<p>Et au partyr (partage) bornes y mirent,</p>
+<p>Et quant les bornes y mettoyent,</p>
+<p>Maintefois s'entrecombattoyent</p>
+<p>Et se tollurent ce qu'ils purent.</p>
+<p>Les plus forts les plus grants parts eurent.</p>
+<p>Supprimez la mesure et la rime, et surtout les inversions, traduisez
+chaque mot de ce vieux langage par son équivalent actuel, et vous
+trouvez dans ces six vers la fameuse formule de M. Proudhon : « La
+propriété, c'est le vol. »</p>
+<p><pb/></p>
+<p>— 16 —</p>
+<p>Le philosophe de Ferney dira plus tard :</p>
+<p>Le premier qui fut roi fut un soldat heureux.</p>
+<p>Au XIIIe siècle, l'expression est moins nette, moins concise surtout,
+mais la pensée est la même :</p>
+<p>Un grant villain entr'eux eslurent,</p>
+<p>Le plus corsu de quanqu'ils furent (de tous tant qu'ils étaient),</p>
+<p>Le plus ossu et le greigneur (le plus grand).</p>
+<p>Et le firent prince et seigneur.</p>
+<p>vient le consoler ; elle lui conseille de ne plus rester sous les lois
+de l'Amour :</p>
+<p>Si tu le suis, il te suyvra ; Si tu le fuis, il s'enfuyra.</p>
+<p><pb/></p>
+<p>— 17 —</p>
+<p>Elle lui explique ensuite fort longuement quelles sont les différentes
+sortes d'amour. Et d'abord, qu'est-ce que l'amour en général?</p>
+<p>Est maladie de pensée Entre deux personnes annexe, Franches entr'eulx,
+de divers sexe, Venant aux gens, par ardeur née, De vision désordonnée.</p>
+<p>Notre humble et povre Molinet a dû se pâmer d'aise, quand il est tombé
+sur ce passage.</p>
+<p>Fortune est perverse et contraire.</p>
+<p>Pour être heureux, il n'est pas besoin de ses dons, il suffit d'être
+content de son sort; voyez l'homme du peuple, le travailleur (comme on
+dit aujourd'hui) :</p>
+<p>Ces ribaux ont le coeur si bas, Portant sacs de charbon en grève Que la
+peine point ne leur grève.</p>
+<p><pb/></p>
+<p>— 18 —</p>
+<p>Toute leur gaigne et leur épargne Et puis vont les fardeaux porter, Par
+plaisir, pour eux déporter, Et loyalement leur vie gaignent, Car embler
+ne tollir ne daignent Puis revont au tonnel et boivent Et vivent comme
+vivre doivent. Celui est riche en habondance Qui bien cuide avoir
+suffisance.</p>
+<p>Voyez, au contraire, le marchand, l'usurier, celui qui veut s'enrichir à
+tout prix; il réussit, il fait de bons profits; est-il heureux? non :</p>
+<p>Car de riens désir il n'a tel Que d'acquérir aultrui chastel ;</p>
+<p>C'est la destresse, c'est l'ordure , C'est l'angoisse qui touiours dure,
+C'est la douleur, c'est la bataille Qui lui détranche la couraille (1),
+Et le destraint en tel deffaut, Que, plus acquiert, plus lui deffaut.</p>
+<p>Mais par charité nette et pure.</p>
+<p>La richesse est faite pour se dépenser et non pour s'amasser, et</p>
+<p>les riches</p>
+<p>Ils craignent d'en perdre, d'en dépenser un sou ;</p>
+<p>Mais s'on les avait tous pendus, Leurs avoirs seraient despendus.</p>
+<p>(1) Qui lui donne des tranchées aux entrailles.</p>
+<p><pb/></p>
+<p>— 19 —</p>
+<p>Car tel y pourroit mettre main, Qui tout emporteroit demain.</p>
+<p>Si les hommes s'aimaient comme ils le doivent, les rois n'auraient pas
+besoin de gardes; pourquoi donc, autour d'un roi, cinq cents ou cinq
+mille sergents? par honneur, par vaillance, dit-on communément :</p>
+<p>Mais Dieu sçay bien tout le contraire, Car c'est la peur qui leur fait
+faire.</p>
+<p>Si le roi sortait seul, emportant avec lui quelque grand masse d'or et
+de pierres précieuses qu'il a en son trésor, les larrons le
+dépouilleraient et le tueraient, de peur, s'ils le laissaient échapper vif,</p>
+<p>Qu'il ne les fist où que soit prendre Et par force les mener pendre :</p>
+<p>Par sa force? — non, par ses hommes;</p>
+<p>Car sa force ne vaut deux pommes Contre la force d'un ribault. Par ses
+hommes? Parfoy je ment Ou je ne dis pas proprement.</p>
+<p>Ils ne sont pas ses hommes, c'est lui qui est le leur,</p>
+<p>Et le roy tout seul demourroit Si tost que le peuple vouldroit. Car leur
+bonté ni leur prouesse, Leur corps, leur force, leur sagesse Ne sont pas
+siennes ; rien n'y a ; Nature bien les luv nia.</p>
+<p><pb/></p>
+<p>— 20 —</p>
+<p>Si les hommes s'aimaient comme ils le doivent, les médecins ne feraient
+pas payer si cher leurs visites, les avocats leurs plaidoiries, les
+juges leurs épices :</p>
+<p>A sa fille le chief couppa,</p>
+<p>Briefment juges font trop d'oultrages ; Lucainle dit, qui fut moult
+sages, Qu'onques vertus et grand pouvoir Ne peut unis ensemble veoir ;
+Et sachent que s'ils ne s'amendent Et ce qu'ils ont mal pris ne rendent,
+Le puissant Juge pardurable En enfer avecques le diable Leur en mettra
+au cou les latz. Je n'en mets hors roys ni preslats Ni juge de
+quelconque guise Soit séculier ou soit d'église.</p>
+<p>Tu peux aimer généralement Tous ceux du monde loyaulment; Ayme-les tous
+autant comme ung, Au moins de l'amour du commun ; Garde que tel envers
+tous soyes</p>
+<p><pb/></p>
+<p>— 21 —</p>
+<p>Où le roy perdit comme un fols Roys, chevaliers, pions et fols.</p>
+<p>Aucune fois il faut baiser</p>
+<p>La main qu'on voudrait qui fust arse.</p>
+<p>Promettez fort, sans délayer Comment qu'il aille du payer.</p>
+<p><pb/></p>
+<p>— 22 —</p>
+<p>Comme un gasteau qu'on coupe en quatre.</p>
+<p>C'est le chemin de Trop-donner, Folle largesse le fonda.</p>
+<p>Mais ce chemin est impraticable, si l'on n'est pas conduit par dame
+Richesse; l'ami qui donne ce conseil est devenu pauvre pour avoir voulu
+prendre cette voie, sans posséder les ressources nécessaires, et quand</p>
+<p>Fortune m'eust ainsy mis Je perdy. très tous mes amis.</p>
+<p>Mettre en prison Pour plaigerie et pour hostage Et nies biens vendre et
+mettre en gage.</p>
+<p><pb/></p>
+<p>— 23 —</p>
+<p>Du povre besongneux A qui Honte a la bouche close Qui sa mesaise dire
+n'ose, Mais souffre, s'enclost et se cache Que nul sa povreté ne sache
+Et montre le plus bel dehors. Ainsy je le faisoye alors.</p>
+<p>C'était un véritable ami que cet homme généreux; que dis-je? c'était mon
+seul ami; il en est toujours ainsi. On compte des compagnons par
+centaines; mais d'amis, on n'en a qu'un. Exemple : Pirithous et Thésée.</p>
+<p>Indigence ou mendicité : Plusieurs de vous se mocqueroient Qui de rien
+ne vous aideroient.</p>
+<p>Néanmoins il ne faut pas oublier de faire des présents aux gardiens pour
+faciliter les voies, car tout le monde aujourd'hui est avide d'argent.
+Autrefois il n'en était pas ainsi. Ici l'ami fait une longue digression
+sur l'âge d'or ; alors il n'y avait ni roi ni prince, les époux
+s'aimaient et ne se trompaient pas; aujourd'hui, c'est bien différent;
+on ne devrait jamais prendre femme; qu'elle soit belle ou laide, pauvre
+ou riche, peu importe : si elle est belle, les</p>
+<p><pb/></p>
+<p>— 24 —</p>
+<p>N'était point ainsy au bel âge ; N'était lors nul pèlerinage Ne nul
+n'avoit la mer passée.</p>
+<p>Ici encore de la mythologie ; c'est la conquête de la Toison d'or par
+Jason. Avec lui il ramena Convoitise, Avarice et Povreté avec son fils
+Larrecin, qui a pour maîtresse demoiselle Taverne,</p>
+<p>Qui les larrons guide et gouverne.</p>
+<p>Tous ces personnages, venus sur le vaisseau de Jason, ne tardèrent pas à
+corrompre les hommes qui</p>
+<p>Paisiblement vivoient,</p>
+<p>Car naturellement s'aimoient,</p>
+<p>et les femmes, et c'est grand dommage,</p>
+<p>(1) Renvoysiées, aimant le plaisir, du verbe renvoysier, sauter, danser.</p>
+<p><pb/></p>
+<p>— 25 —</p>
+<p>Et d'abord, il ne faut pas la battre, car celui qui bat sa femme et veut
+ensuite l'apaiser, c'est comme celui qui</p>
+<p>Le chat a peur et ne revient pas. Si, au contraire, c'est elle qui le
+bat, il ne doit pas se revenchier, il doit la remercier,</p>
+<p>pourvu, toutefois,</p>
+<p>Que son bon service lui pleust.</p>
+<p>S'il commet lui-même quelque infidélité, il doit se garder de donner des
+rendez-vous en des lieux où les deux rivales puissent se rencontrer,
+car, en pareil cas, une femme est plus terrible qu'une léonnesse</p>
+<p>Quand allaicte ses léonceaulx ,</p>
+<p>ou qu'un serpent</p>
+<p>Quand on lui marche sur la queue.</p>
+<p>En pareil cas, l'infidèle n'a qu'un moyen d'apaiser la délaissée, c'est
+de lui prouver matériellement que c'est une faute passagère, et de jurer
+qu'il ne recommencera pas; en tout cas, il doit tenir secrètes les
+bontés que les dames peuvent avoir pour lui :</p>
+<p>Amour veult celer ses joyaux.</p>
+<p>Si sa femme ou sa mie tombe malade, il doit être pour elle doux et
+serviable; il doit faire voeu, si elle guérit, d'aller remercier Dieu</p>
+<p>En maints loingtains pèlerinages ;</p>
+<p><pb/></p>
+<p>— 26 — il doit lui tenir des discours</p>
+<p>Tout farcis de playsans mensonges , Que, quand vient au soir qu'il se
+couche Tout seul en sa chambre, en sa couche,</p>
+<p>il ne peut fermer l'oeil, poursuivi qu'il est par son image, tourmenté
+qu'il est par la pensée qu'elle souffre.</p>
+<p>Avec tout cela, l'amant ou le mari sera-t-il sûr de la fidélité de sa dame?</p>
+<p>Pas plus que s'il tenoit en Seine Une anguille parmy la queue.</p>
+<p>De même que l'anguille, la femme est</p>
+<p>une beste Qui de fouyr est toute preste ; Tant est de diverse nuance Que
+nul n'y doit avoir fiance.</p>
+<p>Telle est l'opinion de Jehan de Meung sur les dames, et deux siècles
+après lui, le roi François Ier ne fera que paraphraser ces deux derniers
+vers, lorsqu'il écrira sur le vitrail de Chambord :</p>
+<p>Souvent femme varie, Bien fol est qui s'y fie.</p>
+<p>Qu'il ne se peut d'elles deffendre,</p>
+<p>Tant est ebays et surpris</p>
+<p>De leur beaulté et de leur pris.</p>
+<p>Car il n'est femme, tant soit bonne,</p>
+<p>Vieille ou jeune, mondaine ou nonne,</p>
+<p>Ne si religieuse dame,</p>
+<p>Tant soit chaste de corps et d'âme,</p>
+<p>Si l'on va sa beauté louant</p>
+<p>Qui ne se délecte en l'oyant.</p>
+<p>L'amant se promet de profiter des conseils de l'ami et prend congé</p>
+<p><pb/></p>
+<p>— 27 —</p>
+<p>de lui, mais il s'en va tout droit au chemin de Trop-donner. Il y trouve
+dame Richesse qui en barre l'entrée et refuse de le laisser passer. Il a
+beau la supplier, elle lui répond qu'elle ne le connaît pas, qu'ils
+n'ont rien de commun ensemble, et que ce sentier tout semé de délices
+n'est pas fait pour de pauvres besongneux comme lui.</p>
+<p><pb/></p>
+<p>— 28 —</p>
+<p>Cette moralité de Molinet nous semble aujourd'hui parfaitement ridicule
+; mais c'était le goût du temps, et il faut que ce goût ait été bien
+répandu, bien généralement accepté, pour qu'un homme comme Marot y ait
+sacrifié lui-même. Or, Clément Marot a publié une édition du Roman de la
+Rose, encore si estimé de son temps, qu'il dit, dans sa préface, que
+tout homme lettré le place dans le lieu le plus honorable de sa
+bibliothèque , au plus haut anglet de sa librairie, et le poète en titre
+du roi François Ier moralise ainsi l'allégorie de la Rose :</p>
+<p>« Tiercement, nous povons entendre par la rose la glorieuse « Vierge
+Marie par ses bonlez , doulccurs et perfections de grâce,</p>
+<p><pb/></p>
+<p>— 29 —</p>
+<p>« desquelles je me lais pour le présent. Et sachez que ceste virgi«</p>
+<p>virgi« rose n'est aux hérétiques facille d'avoir et n'y eust-il seule«</p>
+<p>seule« que Malebouche qui les empesche d'approcher de sa bonté,</p>
+<p>(.( car ils ont mal d'elle parlé, voulant dénigrer et maculer son naturel</p>
+<p>« honneur, en disant qu'il ne la fault saluer et appeler Mère de</p>
+<p>A pitié et miséricorde : c'est la blanche rose que nous trouverons</p>
+<p>« en Hierico, plantée, comme dit le sage : Quasi plantatio Rosoe in</p>
+<p>« Hierico.</p>
+<p>« Quarlement, nous povons par la rose comprendre le souverain</p>
+<p>« bien infini et la gloire d'éternelle béatitude, laquelle comme vrais</p>
+<p>« amateurs de sa doulceur et aménité perpétuelles pourrons obtenir</p>
+<p>« en évitant les vices qui nous empeschent et ayant secours des</p>
+<p>« vertus qui nous introduiront au verger d'infinie lyesse, jusqu'au</p>
+<p>(( rosier de tout bien et gloire qui est la béatifique vision de l'es«</p>
+<p>l'es« de Dieu. »</p>
+<p>Certes, ce n'est pas là</p>
+<p>De Marot l'élégant badinage ;</p>
+<p>Adieu Lion qui ne mords point, Lion plus doux que cent pucelles.</p>
+<p>Cette épître était une bluelte sans conséquence, mais dans une
+publication aussi importante que celle du Roman de la Rose, s'il eût eu
+toute sa liberté d'appréciation , il n'eût pas tenu ce langage béatement
+amphigourique; cherchons donc ailleurs l'explication de cette anomalie.</p>
+<p>Maître Clément sentait le fagot, comme on disait alors, on le
+soupçonnait d'hérésie, et la faveur constante du roi son maître l'avait
+seule préserve des poursuites que devaient lui susciter la légèreté et
+la liberté de son langage. On sait qu'il fut blessé et pris en même temps</p>
+<p><pb/></p>
+<p>— 30 —</p>
+<p>Vilenie Doy fouyr et que ne mesdie ; Salut doy tost donner et rendre ; A
+dire ordure ne doy tendre; A toutes femmes honourer Me fault en tout
+temps labourer, Orgueil fuyr, cointe me tiengne, Joly et resjouy
+deviengnc, A larges cslre m'abandonne, En ung seul lieu tout mon cueur
+donne.</p>
+<p><pb/></p>
+<p>— 31 —</p>
+<p>Voyés Guillaume de Lorris</p>
+<p>A qui Jalousie se contraire</p>
+<p>Fait tant d'angoisse et de mal traire,</p>
+<p>Qu'il est en danger de mourir.</p>
+<p>C'est bien assez pour moi d'avoir perdu mes poètes chéris : Tibulus,
+Cahdus, Gallus et Ovides,</p>
+<p>Qui bien sceurent d'amour traictier.</p>
+<p>Il ne faut pas que Guillaume meure de déplaisir,</p>
+<p>Car, pour ma grâce desservir, Doit-il commencer un rommans, Où seront
+mis tous mes commans.</p>
+<p>Mais il ne pourra le terminer, il mourra, le pauvre</p>
+<p>Guillaume Dont le tombel soit plain de baustne, D'encens, de mirre et
+d'aloez Tant m'a servy, tant m'a loez.</p>
+<p>Et puis viendra Jean Clopinel</p>
+<p>Au cueur gentil, au cors ysnel (dispos) ,</p>
+<p>Me servira toute sa vie</p>
+<p>Sans avarice, sans envie.</p>
+<p>Et quand Guillaume cessera Jehan si le recommencera Après sa mort, que
+je ne mente, Au trespassé plus de quarante.</p>
+<p><pb/></p>
+<p>— 32 — Jehan Clopinel n'est pas encore né, mais, ajoute l'Amour, je prie</p>
+<p>Lucina, la déesse D'enfantement, qu'il voint qu'il naisse Sans mal et
+sans encombrement Si qu'il puist vivre longuement.</p>
+<p>Je l'affubleroy de mes esles,</p>
+<p>Et lui chanteroy notes telles</p>
+<p>Que, puisqu'il sera hors d'enfance</p>
+<p>Endoctriné de ma science,</p>
+<p>Si flageolera nos paroles</p>
+<p>Par quarrefours et par escoles</p>
+<p>Selon le langage de France.</p>
+<p>Son oeuvre sera un oeuvre admirable, et</p>
+<p>Que Vénus y soit présente, Votre mère qui moult est sage.</p>
+<p>A quoi l'Amour répond :</p>
+<p>Ma mère est ; je la crains d'enfance Et lui porte grand'révérence.</p>
+<p>mais bien la saurons</p>
+<p>Mander quand besoin en aurons.</p>
+<p><pb/></p>
+<p>— 33 —</p>
+<p>Cela n'empêche pas le petit dieu d'exposer complaisamment, et dans une
+tirade non moins longue, sa généalogie mythologique, et il semble assez
+fier de son lignage ,</p>
+<p>Car onc de meilleur ne fut nuls? Par mes trois oncles, Neptunus,
+Jupiter, Pluto, par mantin (ma tante) Juno la vieille que tant aym Que
+je vouldroye qu'elle fust arse.</p>
+<p>dans sa baronie Avec Abstinence, sa mye,</p>
+<p>un nouveau personnage qui pourra leur être utile dans leur entreprise,
+et que l'on nomme Faux-Semblant !</p>
+<p>Ce Faux-Semblant est un assez méchant drôle, et sa mie ne vaut pas
+beaucoup mieux. Le trouvère de Meung a voulu peindre, sous la figure de
+ces deux personnages, les hypocrites de son temps, et plus spécialement
+les ordres monastiques.</p>
+<p>L'Amour connaît ce Faux-Semblant, et il lui fait un accueil assez brutal
+; il lui dit, entre autres gracieusetés :</p>
+<p>Tu es faux traistre</p>
+<p>Et larron trop démesuré. Plus de cent fois t'es parjuré.</p>
+<p>Faux-Semblant ne s'en défend pas et expose avec impudence les</p>
+<p><pb/></p>
+<p>— 34 —</p>
+<p>doctrines et les actes de ses pareils. Ce dialogue entre lui et l'Amour
+n'a pas moins de douze cents vers, que nous allons analyser, et dont
+quelques passages méritent d'être cités.</p>
+<p>Faux-Semblant est fils de Barat, vieux mot dont la langue judiciaire a
+conservé le dérivé dans celui de baraterie.</p>
+<p>Rarat engendra Faux-Semblant Qui va les cueurs des gens emblant ; Sa
+mère eut nom Ypocrisie La larronesse, l'a honnye.</p>
+<p>Quanta Faux-Semblant lui-même, voici comment il commence sa profession
+de foi :</p>
+<p>Je suis avec les orgueilleux, Les usuriers, les artilleux, Qui les
+mondains honneurs convoitent Et les grans besongnes exploitent Et vont
+querant les grans pitances, Et pourchassent les accointances Des
+puissans hommes, et les suyvent Et se font povres et se vivent Des bons
+morceaulx délicieux Et boivent des vins précieulx, Et la povreté ils
+vous preschent Et les grandes richesses peschent.</p>
+<p>Et plus loin :</p>
+<p>Cil a robe religieuse</p>
+<p>Doncques est-il religieux.</p>
+<p>Cet argument est vicieux</p>
+<p>Et ne vault une vieille royne (grenouille) ;</p>
+<p>La robe ne fait pas le moyne.</p>
+<p>Les oeuvres regarder devez Si vous n'avez les yeux crevez, Quelconques
+robes qu'ils en aient Ne de conques estats qu'ils soyent,</p>
+<p><pb/></p>
+<p>— 35 —</p>
+<p>Soit clerc, soit lay, soit homme ou femme, Soit sergent, soit abbesse ou
+dame.</p>
+<p>Faux-Semblant n'a pas de préjugés, et tout en jugeant sévèrement ses
+pareils, il marche dans leurs voies ;</p>
+<p>Car, sans faillir traistre suis né, Et pour larron Dieu m'a jugé. Car
+Protheus qui se souloit Muer en tout ce qu'il vouloit Ne sceut onc tant
+Rarat ne guille Comme je fais.</p>
+<p>Il change d'habit et de contenance selon l'occasion, tantôt chevalier,
+tantôt moine, tantôt disciple, tantôt maître, tantôt page, tantôl
+prince; et sa mère, Contrainte-Abstinence, se fait demoiselle ou dame,
+nonne ou abbesse. Le tout pour embaclerles gens.</p>
+<p>11 a, du reste, un privilège qui fait sa force et sa richesse ; tandis
+que le clergé séculier ne peut exercer son ministère que dans des lieux
+déterminés, il peut lui, confesser ou absoudre par toute la chrétienté,
+ce que ne peut faire aucun prélat,</p>
+<p>Fors l'aposlole seulement.</p>
+<p>C'est contre la sainte escripture Qui commande au pasteur honneste
+Connaistre le dueil de sa beste.</p>
+<p>Toutefois , Faux-Semblant et ses pareils n'abusent pas de ce privilège;
+ils laissent volontiers au clergé séculier povres femmes, povres hommes,
+et se contentent des riches</p>
+<p>Si que j'auroy les brebis grasses Et les pasteurs auront les maigres.</p>
+<p><pb/></p>
+<p>— 36 —</p>
+<p>Et se prélats veulent groucer,</p>
+<p>Car bien se devront courroucer</p>
+<p>Quand ils perdront leurs grasses bestes,</p>
+<p>Tel coup leur donroy sur les testes</p>
+<p>Et je leur feroy telles bosses</p>
+<p>Qu'ilz en perdront mitres et crosses.</p>
+<p>J'aimeroye mieulx l'accointance Cent mille fois du roy de France Que
+d'ung povre, par Nostre Dame ! Posé qu'il eust aussy bonne âme ; Quand
+je voy tous nuds ces truands Trembler, sur ces fumiers puans, De froit,
+de fain crier et braire, Ne m'entremetz de leur affaire. S'ils sont en
+l'ostel-Dieu portez, Ne seront par moi confortez, Car d'une aumosne
+toute seule Ne me paistraient-ils pas la gueule.</p>
+<p>Ceux qui tout ont sans rien avoir.</p>
+<p>S'il ne fait venir en haste Chevreaux lardez, connils en paste</p>
+<p><pb/></p>
+<p>— 37 —</p>
+<p>Ou de porc au moins une longe, Il aura de corde une allonge A quoy on le
+menra brusler Si qu'on l'entendra bien hurler D'une grant lieue tout
+entour.</p>
+<p>Certainement je vous mocquasse Et pour péchié ne le laissasse.</p>
+<p>Et l'auteur ajoute :</p>
+<p>Le Dieu sourit de la merreille Chascun s'en rit et s'en merveille Et
+disent : Vecy bon sergens A qui se doivent fier gens.</p>
+<p>Rref, l'Amour admet Faux-Semblant et l'investit de la charge de roi des
+ribauds. Il se dirige ensuite vers le château, avec ses barons, pour en
+attaquer les quatre portes, ainsi qu'il a été décidé dans le conseil.</p>
+<p>De larrecin eut un bourdon Qu'il receut de Barat pour don De triste
+pensée roussi ; Escbarpe eut plaine de soucy, Et avait ceinte une
+ceiuture Tissue de Maie-Nature</p>
+<p>Ils s'approchent de Malebouche avec une contenance pleine de
+componction, et lui exposent qu'ils sont de pauvres pèlerins parcourant
+le monde pour faire leur salut et celui des autres, et prêcher aux
+tièdes la parole de Dieu; ils lui demandent, en conséquence,</p>
+<p><pb/></p>
+<p>— 38 — l'hospitalité dans le château et la permission de lui adresser</p>
+<p>Un beau sermon en brief parole.</p>
+<p>Malebouche leur répond que l'ostel leur est ouvert; quant au ser mon,
+ajoute-t-il,</p>
+<p>Dites ce qu'il vous plaira , J'écouteray ce que sera.</p>
+<p>Et aux voisins et aux voisines</p>
+<p>les allées et venues fort suspectes de ce jouvenceau. Faux-Semblant lui
+réplique :</p>
+<p>Sire, ce n'est pas évangile Tout ce qu'on dit parmy la ville.</p>
+<p>Car je suis d'ordre, et si suis prestre.</p>
+<p>Le pénitent s'agenouille devant son nouveau confesseur, lequel</p>
+<p><pb/></p>
+<p>— 39 — avait, avant de partir, glissé dans sa manche un rasoir</p>
+<p>Il saisit Malebouche par le cou, lui coupe la langue, puis, aidé de
+Contrainte-Abstinence, il le jette dans le fossé, et ouvre la porte du
+château, après avoir égorgé les soudards normands qui en gardaient
+l'entrée, lesquels s'étaient enivrés et dormaient dans leur corps-degarde.</p>
+<p>La porte ouverte, les barons de l'Amour, Faïntise, Largesse et
+Convoylise pénètrent dans la forteresse, et rencontrent la Vieille qui
+est plus spécialement chargée de la garde de Bel-Accueil; elle a
+grand'peur et leur demande ce qu'ils veulent faire d'elle, quand ils
+l'auront prise....</p>
+<p>. . . Prise, douce mère tendre, Nous ne venons pas pour vous prendre,
+Mais tant seulement pour vous veoir.</p>
+<p>Un chappelet de fleurs nouvelles,</p>
+<p>comme gage de sa tendresse.</p>
+<p>Car point ne ressuscitera.</p>
+<p>Cet argument la décide : de gardienne qu'elle était, elle devient
+entremetteuse, et il s'établit entre elle et Bel-Accueil un dialogue de
+deux mille quarante-trois vers, où l'on rencontre, au milieu d'une foule
+de longueurs que nous signalerons, des passages extrêmement</p>
+<p><pb/></p>
+<p>— 40 —</p>
+<p>Le plus courtois varlet du monde, Qui de toutes grâces abonde, Plus de
+mille fois vous salue, Car je le vy en une rue, Alors qu'il passoit par
+la voie, Par moi ce chappcl vous envoie.</p>
+<p>Bel-Accueil veut savoir qui il est, car ce chapelet de fleurs pourrait</p>
+<p>de tel lieu venir</p>
+<p>Qu'il ne le pourroit retenir.</p>
+<p>Si fait, reprend la Vieille,</p>
+<p>C'est le varlet que vous sçavez ;</p>
+<p>Ses intentions sont pures, et d'ailleurs</p>
+<p>Vous lui saurez bien dénier</p>
+<p>S'il requiert choses qu'il ne doive,</p>
+<p>S'il fait folie, qu'il la boive !</p>
+<p>Mais il n'est pas fou, il est sage, beau, preux et hardy,</p>
+<p>Tant a le cueur plain de noblesse</p>
+<p>Qu'il surpasseroit en largesse</p>
+<p>Le roy Artus, voire Alexandre</p>
+<p>D'or et d'argent comme ceulx eurent.</p>
+<p>Bel-Accueil, ému, frémit, tremble etlressault,</p>
+<p>Rougist, paslist, perd contenance,</p>
+<p>Quoi qu'il luy en dust advenir. . .</p>
+<p><pb/></p>
+<p>— 41 -rAussi,</p>
+<p>-rAussi, bientôt ce vers, qui est de tous les temps : Mais.... supposé
+que je le prenne?</p>
+<p>Puis la crainte : Jalousie le saurait et me tuerait; que répondraije, si
+Jalousie me demande d'où il vient?</p>
+<p>Responses aurez plus de vingt,</p>
+<p>réplique la Vieille. Mais encore?</p>
+<p>Se response meilleur n'avez Dictes que je le vous donnay. Bien sçavez
+que tel renom ay Que n'aurez blasme ne vergogne De prendre rien que je
+vous donne. Bel-Accueil, sans dire autre chose, Prend le chappel et puis
+le pose Sur ses crins blonds.</p>
+<p>Dedans son mirouer se mire.</p>
+<p>C'est faux texte, c'est faulse lettre.</p>
+<p>Agir autrement, c'est un mensonge, c'est un parjure, m'objecterez-vous.
+Eh! qu'importe?</p>
+<p>Juppiter et les dieux ryoient Quand les amants se parjuroient, Et quand
+Juppiter asscuroit Juno sa femme et luy juroit Le palu d'enfer
+haultement, 11 se parjuroit faussement.</p>
+<p><pb/></p>
+<p>— 42 —</p>
+<p>Saincts et sainctes, moustiers et temples Quant les dieux leur donnent
+exemples.</p>
+<p>C'est folie,</p>
+<p>Par saint Lieffroy de Meung, De ne vouloir amis fors ung.</p>
+<p>Énée n'a-t-ilpas abandonné Dido, la royne de Cartilage, qui l'avait reçu
+pauvre,</p>
+<p>Et revestu, chaussé, repu, Las et fuitif du beau pays De Troyes dont il
+fut nays ?</p>
+<p>Elle avait fait</p>
+<p>Ses nefs refaire Pour le servir et pour lui plaire.</p>
+<p>Elle lui avait donné, pour son amour avoir,</p>
+<p>Sa cité, son corps, son avoir.</p>
+<p>Énée, en retour, lui jura</p>
+<p>Que sien fust tousjours et sera Ne jamais ne la laissera. Mais celle
+guère n'en jouyt, Car le maulvais si tost s'enfouyt Et, sans congé, par
+mer navie Dont la belle perdit la vie.</p>
+<p>Elle prit une épée dans sa chambre , la dressa encontrement la</p>
+<p>pointe, puis</p>
+<p>Parmi le corps se la ficha Tel dueil eust dont il la tricha.</p>
+<p>Et Philis qui se pend pour Démophon, et Paris qui quitte OEnone</p>
+<p><pb/></p>
+<p>— 43 —</p>
+<p>pour Hélène, et pourtant il avait écrit ses serments avec son coustel
+sur l'écorce d'un peuplier</p>
+<p>Dessus la rive, au lieu de charte : Si ne valurent une tarte.</p>
+<p>Et lui fist avoir la toyson Par son art et par sa poison.</p>
+<p>Et Jason l'abandonne,</p>
+<p>Le faux, le desloyal, lelyerres (larron),</p>
+<p>Enfin,</p>
+<p>Mille exemples dire et sçauroye</p>
+<p>Les beaux crins de sa teste blonde, il faut qu'elle</p>
+<p>Face tant que l'on luy apporte Cheveulx de quelque femme morte,</p>
+<p>teles cornes</p>
+<p>Que ne cerf, ne beuf ne licornes S'ils se devoyent effronter Ne puissent
+telz cornes porter.</p>
+<p><pb/></p>
+<p>— 44 —</p>
+<p>Et s'ils ont mestier d'estre tainctes Taigne-les en jus d'herbes paintes.</p>
+<p>Et si elle perd ses couleurs vermeillettes, elle doit avoir</p>
+<p>En sa chambre, dedans ses boetes des onguents et du fard pour y suppléer.</p>
+<p>S'elle a beau col et gorge blanche,</p>
+<p>elle doit faire en sorte que sa robe</p>
+<p>Que cil qui sa robe tranche</p>
+<p>Si très bien la luy escolette</p>
+<p>Que sa chair paraist blanche et nette ,</p>
+<p>Demi pied derrière et devant.</p>
+<p>Si, au contraire, elle a de grosses épaules, elle doit s'habiller de
+robes montantes de fin drap ; si ses mains sont mal faites ou rouges ou
+tachetées,</p>
+<p>. . Ses mains dedans ses gants mette ; S'elle a pied lais, estroit se
+chausse,</p>
+<p>et si elle a mauvaise haleine,</p>
+<p>Qu'elle garde si bien sa bouche Que près du nez aux gens ne touche.</p>
+<p>Le rire et les larmes ne sont pas indifférents non plus.</p>
+<p><pb/></p>
+<p>— 45 —</p>
+<p>En telle guyse qu'elles veulent ;</p>
+<p>mais l'homme</p>
+<p>ne se doit mouvoir</p>
+<p>S'il veoit telles larmes pleuvoir Aussi espais que quand il pleut,</p>
+<p>De contenance contenable.</p>
+<p>Du bout des doigts le morcel touche Que vouldra porter en sa bouche.</p>
+<p>Elle ne doit pas salir ses lèvres</p>
+<p>De souppe, d'aulx ne de chair grasse Ne que trop de morceaux n'entasse.</p>
+<p>Mais boive petit et souvent.</p>
+<p>Elle ne doit pas s'enivrer, car une femme ivre dit tout ce qu'elle</p>
+<p>pense,</p>
+<p>Et n'a point en soy de deffense.</p>
+<p><pb/></p>
+<p>— 46 —</p>
+<p>et, en outre, il peut en résulter des accidents fâcheux ; on a vu des
+gens tomber ainsi de leur siège en arrière ou de côté, et se briser
+teste ou bras ou caste :</p>
+<p>De Palinurus luy souvienne Qui gouvernoit la nef d'Énée ; Veillant,
+Favoit bien gouvernée, Mais quand dormir l'eust envaï Du gouvernoil en
+mer cheï.</p>
+<p>Il faut aller aux processions, aux noces, aux jeux, aux festes, aux
+caroles,</p>
+<p>Car en tels lieux tient ses écoles Le dieu d'Amours</p>
+<p>Avant de partir, la coquette doit avoir attentivement consulté son miroir,</p>
+<p>Les espaules, les costés meuve Si noblement que l'on ne trouve Nulle de
+plus bel mouvement.</p>
+<p>Qu'en marchant elle fasse voir la gentillesse de ses souliers, qu'elle
+doit porter tout petits,</p>
+<p>Et si sa robe longue</p>
+<p>Trop près du pavement s'incline, qu'elle la relève de côté ou devant</p>
+<p>Comme pour prendre un peu de vent,</p>
+<p>et fasse en sorte que ceux qui la voient passer admirent la belle forme
+de sa jambe.</p>
+<p><pb/></p>
+<p>— 47 — Elle doit laisser voir aussi sa riche aumosniere</p>
+<p>et si elle porte un manteau, elle doit savoir le manoeuvrer :</p>
+<p>Et luy souvienne de la roue Que le paon fait avec sa queue.</p>
+<p>D'autres préceptes sont encore professés par la Vieille, nous nous en
+interdisons la reproduction.</p>
+<p>Autant il y a de cynisme dans le hideux proxénétisme de la Vieille,
+autant il y a de grâce et de convenance dans la réponse de Bel-Accueil.
+— Madame, lui dit-il,</p>
+<p>Madame, quand vous m'enseignez Votre art tant débonnairement, Je vous en
+mercy humblement, Et quand parlé m'avez d'aimer Du doux mal où tant a
+d'amer, Ce m'est trop estrange matière. Rien n'en sçay fors par
+ouy-dire, Ne jamais n'en qniers plus savoir. Quand vous me reparlez
+d'avoir Qui soit par moy grant amassez, Ce quej'ay me suffist assez.
+Mais du varlet que vous me dictes, Qui tant a grâces et mérites</p>
+<p>S'il a grâces, si luy demeurent. Ne le hay pas certainement Ni ne l'ayme
+encore fermement.</p>
+<p>J'ai accepté son présent, comme gage d'un amour qui grandira sans doute,
+et je voudrais le voir pour le remercier.</p>
+<p>Bien puissiez-vous venir amy, Amy de Dieu soyez beny.</p>
+<p>Allez le chercher, madame, puisque vous êtes sa messagère, le</p>
+<p><pb/></p>
+<p>— 48 —</p>
+<p>moment en est propice ; Jalousie est en campagne, qu'il se hâte avant
+qu'elle ne revienne,</p>
+<p>Mais que sagement se contienne Et se garde de tout oultrage.</p>
+<p>La Vieille court, en effet, chercher l'amant ; celui-ci épanche sa joie
+dans un monologue où il remercie mentalement pour la part qu'ils ont eue
+au trépas de Malebouche, Faux-Semblant</p>
+<p>Et dame Abstinence-Contrainte, Qui de Faux-Semblant est enceinte, Prête
+d'enfanter l'Antéchrist.</p>
+<p>Il pénètre non-seulement dans le château, mais jusque dans la chambrette
+de Bel-Accueil qui lui fait un accueil des plus affables et lui dit
+entre autres paroles :</p>
+<p>S'il est céans riens qui vous plaise, Bien vueil que vous en ayez aise
+Et en faictes vostre plaisir.</p>
+<p>Le vilain que maulx loups l'estrangle ! Il s'estoit musse en un angle
+Par derrière et nous aguettait,</p>
+<p>Dangier auquel viennent se joindre ses deux aides, Honte et Peur.</p>
+<p><pb/></p>
+<p>— 49 —</p>
+<p>danger, et qu'il pourrait bien payer les fredaines et les discours de
+Faux-Semblant et de la Vieille.</p>
+<p>Voici donc comment il se défend.</p>
+<p>Il s'adresse d'abord au lecteur, et lui dit, en parlant de son livre :</p>
+<p>Si vo pry, seigneur amoureux Pour les jeux d'amours savoureux, Que se
+vous y trouvez paroles Semblant trop bauldes ou trop foies, Vous pry que
+le me pardonnez.</p>
+<p>Il s'adresse ensuite aux dames :</p>
+<p>Si vous pry, toutes vaillans femmes, Soyent damoyselles ou dames,
+Amoureuses ou sans amys, Que se mots y trouvez ja mys Qui semblent
+mordans ou ehennins Encontre les moeurs féminins Que ne m'en vueillés
+pas blasmer.</p>
+<p>Je n'ai jamais eu l'intention, ajoute-t-il, de dire rien de fâcheux</p>
+<p>Contre femme qui soit en vie. Ainsy donc, dames honourables, S'il vous
+semble que je dis fables, Pour ce, menteur ne me tenés, Mais aux auteurs
+vous en prenez Qui en leurs livres ont escriptes Les paroles que j'en ay
+dictes.</p>
+<p>Je n'y fais riens fors reciter.</p>
+<p>Enfin, dit-il, quand j'ai fait parler Faux-Semblant, mon dessein n'a pas
+été</p>
+<p>De parler contre homme vivant Sainte religion suyvant, Ni qui sa vie use
+en bonne oeuvre De quelque robe qu'il se cueuvre.</p>
+<p>7</p>
+<p><pb/></p>
+<p>— 50 — J'ai pris mon arc et ma flèche et j'ai tiré contre</p>
+<p>Les delloyaux gens, les maudites Que Jésus appelle ypocrites.</p>
+<p>Et s'il arrive qu'au devant de mes traits</p>
+<p>Aucun nom de son gré se mette</p>
+<p>Qui dessus soy le coup reçoyve Puis se plaint que je l'ay navré, Coulpe
+n'en a y ne ja n'auré,</p>
+<p>« C'est aux vrais dévots que je veux partout me justifier sur la «
+conduite de ma comédie, et je les conjure de tout mon coeur de « ne pas
+condamner les choses avant que de les voir, de se défaire « de toute
+prévention, et de ne point servir la passion de ceux dont « les grimaces
+les déshonorent.</p>
+<p>C'est qu'en effet, si le Tartuffe descend, comme Faux-Semblant, ainsi
+que nous l'avons dit plus haut, de Papelardise la marmiteuse, on peut
+dire aussi que le Tartuffe c'est Faux-Semblant lui-même</p>
+<p><pb/></p>
+<p>— 51 —</p>
+<p>Non-seulement c'est la pensée, mais c'est aussi presque le langage de
+Jehan de Meung.</p>
+<p><pb/></p>
+<p>— 52 —</p>
+<p>Revenons au château que veulent prendre les barons del'Amour. Dangier
+sort de la place pour engager l'action ; il est armé de pied en cap, et
+porte une massue faite d'un bois très-dur que Y on nomme bois de refus.
+Franchise, du côté des assaillants, s'avance pour le combattre ; elle
+est armée d'une lance</p>
+<p>Qu'elle apporta belle et polie</p>
+<p>De la forêt de tuerie,</p>
+<p>Le fer fut de doulce prière.</p>
+<p>Son écu est bordé de jointures de mains, de promesses et convevenances,</p>
+<p>Couloré très mignottement ; Vous eussiez dit certainement Que Largesse
+le lui bailla.</p>
+<p>Découlant de pleurs et de larmes ;.</p>
+<p><pb/></p>
+<p>Son écu est bordé de doux gémissements.</p>
+<p>Jusques aux dens l'eust pourfendu Quand Dieu amené un bacheler Que l'on
+appelle Bien-Celer.</p>
+<p>Citeron est une montaigne Dedans un bois en une plaine.</p>
+<p>Elle est là, se livrant au plaisir de la chasse avec le bel Adonis, Son
+doulx ami au cueur joly.</p>
+<p>Ou plutôt leur chasse est terminée; ils se reposent au bord d'un
+ruisseau où leurs chiens se désaltèrent; leurs arcs, leurs flèches et
+leurs épieux sont appuyés contre un arbre, derrière eux, et ils causent :</p>
+<p>Jolyement se déduysoient Et les oysillons escoutoient Par les rainseaulx
+tout environ.</p>
+<p>Et courez après hardiment.</p>
+<p>Mais n'attaquez jamais, lui dit-elle, ceux qui Mettent en deffense leur
+corps.</p>
+<p><pb/></p>
+<p>— 54 — Chassez tant qu'il vous plaira</p>
+<p>Cerfs, biches, chevraulx et chievres , Regnards et daims, connils et
+lièvres; mais</p>
+<p>Ours, loups, lyons, sangliers, deffens, N'y chassez pas, mon chier enfans</p>
+<p>Adonis écoute ces couseils et promet de les suivre : Tout oltroya pour
+paix avoir.</p>
+<p>Mais il ne les suivit pas, il ne crut pas aux avis de la déesse ;</p>
+<p>Ne la crut pas, puis en mourut.</p>
+<p>Ici, l'auteur raconte la mort d'Adonis et le désespoir de Vénus; puis il
+ajoute, en manière de moralité :</p>
+<p>Reaux seigneurs, quoi que vous advienne, De cest exemple vous souvienne.</p>
+<p>Et lorsque vos dames vous donnent de bons conseils</p>
+<p>Croyez-les comme patenostres.</p>
+<p>Et les physiciens eux-meismes One nuls eschapper n'en veismes , Pas
+Hypocrate ne Galions Tant fussent bons physiciens, Rhavis, Constantin,
+Avicenne, Y ont tous laissé leur couenne.</p>
+<p><pb/></p>
+<p>— 55 —</p>
+<p>Toutes herbes, toutes fleurettes</p>
+<p>Que valetons et pucelettes</p>
+<p>Vont, au printemps, es bois cueillir ;</p>
+<p>il peut représenter</p>
+<p>De belles dames bien parées , Rien pourtraictes, bien figurées;</p>
+<p>il peut sculpter des bacheliers, des rois,</p>
+<p>Bien figurés et bien pourtraicts;</p>
+<p>mais, quel que soit son talent,</p>
+<p>Ne les fera pas eux aler, Vivre, mourir, sentir, parler.</p>
+<p>L'auteur nous représente Zeuxis causant avec dame Nature et lui
+demandant pourquoi elle pleure ; elle lui répond fort longuement que le
+monde ne va pas comme elle veut, que les femmes sont indiscrètes et
+divulguent les affaires de leurs maris.</p>
+<p>A mon avis morte serait,</p>
+<p>S'il ne luy saillait de la bouche.</p>
+<p>Et ici, Jehan de Meung, qui avait une vieille rancune contre les dames
+de son temps, nous donne le discours d'une femme qui veut savoir le
+secret de son mari.</p>
+<p><pb/></p>
+<p>— 56 —</p>
+<p>sa conscience tranquille et pourrait bien être un remords ; sa femme
+veut s'en assurer :</p>
+<p>Sire, dit-elle, quelles nouvelles? Qui vous fait ainsi soupirer ?</p>
+<p>Dites-le-moi, nous sommes seuls, nous</p>
+<p>Les personnes de tout le monde (Vous le premier, moi la seconde) Qui
+nous devons le mieux aimer.</p>
+<p>Deux époux qui s'aiment n'ont pas de secret l'un pour l'autre ;
+dites-moi ce qui vous tourmente? personne ne vous entendra, tout le
+monde dort depuis long-temps, les parois</p>
+<p>Sont ospesses plus d'une toyse,</p>
+<p>notre lit est placé loin des fenestres,</p>
+<p>Et, de ma main, bien m'en remembre , Ay fermé l'huys de notre chambre.</p>
+<p>Le mari répond :</p>
+<p>Il ne peut en une chair estre,</p>
+<p>Tout ung sont doncques les cueurs nostre ;</p>
+<p>Le mien avez et j'ay le vostre.</p>
+<p>Riens n'en doit donc le vostre avoir</p>
+<p>Que le mien ne puisse sçavoir.</p>
+<p>Pour ce, vous pry que me le dictes</p>
+<p><pb/></p>
+<p>— 57 —</p>
+<p>Le mari garde le silence. — Ah ! vous ne voulez pas me le dire? et vous
+m'appellerez ensuite votre doulce amye ,</p>
+<p>Doulce soeur et doulce compaigne! A qui pelez-vous tel châtaigne?</p>
+<p>Moi qui n'ai rien de caché pour vous, moi qui vous livre toutes les choses</p>
+<p>Que j'ay dedans mon cueur encloses,</p>
+<p>moi</p>
+<p>Qui laissay pour vous père et mère, Oncles et soeurs, neveux et frère !</p>
+<p>Oh ! vous ne m'aimez pas, je le vois, bien ; vous me méprisez, vous me
+croyez capable de vous trahir :</p>
+<p>Donc, suis-je des autres la pire, Quand vos secrets ne m'osez dire ? Je
+voy toutes ces aultres femmes Qui sont de leurs hostels les dames, Et
+leurs marys en eux se fient.</p>
+<p>Car je ne suis pas jongleresse, Vilotière ni tanceresse.</p>
+<p>Par le très beneuré saint Pierre Que ce sera secret soubz pierre.</p>
+<p><pb/></p>
+<p>— 58 —</p>
+<p>Et pleure sur luy larmes maintes Entre tous les baisières faintes.</p>
+<p>Le mari est vaincu,</p>
+<p>Adonc, le malheureux lui conte</p>
+<p>Son grand dommage et sa grand'honte</p>
+<p>Et quand l'a dit, il s'en repent.</p>
+<p>Il n'a pas pu sa langue taire, 11 veut cel d'autruy retenir !</p>
+<p>Elle le fera tenir coy</p>
+<p>Elle a bien matière de quoy.</p>
+<p>Avis aux époux confiants.</p>
+<p>Beaux seigneurs, gardez-vous de femmes, Si vos corps aimez et vos âmes,</p>
+<p>Fuyez, fuyez, fuyez, fuyez, Fuyez, enfants, fuyez tel beste!</p>
+<p>Je ne prétends pas, toutefois, ajoute Clopinel, que vous maltraitiez vos
+femmes ; au contraire,</p>
+<p><pb/></p>
+<p>— 59 — Laissez-leur conduire la maison, laissez-les achapter ou vendre;
+je ne vous dis pas non plus de ne rien leur confier de ce qui vous
+intéresse, mais ne leur dites que les choses</p>
+<p>Qui n'ont besoin d'estre couvertes.</p>
+<p>Et comme Jehan de Meung appuie toujours sa proposition sur un exemple
+historique, ce chapitre se termine par l'histoire de Samson et de Dalila.</p>
+<p>Au chapitre suivant, nous trouvons dame Nature en conférence avec
+Genius, son chapelain ; celui-ci s'assied dans une chaise</p>
+<p>Jouxte de son autel assise.</p>
+<p>Tant m'honoura, tant me tint chiere, Qu'il m'établit sa chambrière.</p>
+<p>Il mit sous ma loi tous les éléments et tous les êtres de la création ;
+tous m'obéirent,</p>
+<p>Fors une seule créature.</p>
+<p>Cette créature, c'est l'homme ; les astres suivent leur cours sans
+dévier; le soleil, après avoir éclairé la terre, se cache et transmet sa
+lumière</p>
+<p><pb/></p>
+<p>— 60 —</p>
+<p>Autrement, ceux qui bien feroient Ja loyer avoir n'en devraient Ni cil
+qui de pescher se maine Jamais n'en devroit avoir paine, Se telle estoit
+la vérité Que tout fust par nécessité.</p>
+<p>Dieu est tout-puissant; soit; il sait toute chose de toute éternité ;
+mais sa puissance n'est pas incompatible avec la liberté ; c'est une
+chose, j'en conviens,</p>
+<p>Tout homme oeuvre par franc vouloir, Soit pour jouir ou pour douloir.</p>
+<p>En un mot, l'homme a la liberté morale,</p>
+<p>Il se peut toujours garantir, S'il peut dedans son cueur sentir Que
+pesché vueille estre son maistre.</p>
+<p>Il n'en est pas de même dans l'ordre matériel : l'homme ne peut prévoir
+ni empêcher les modifications que Dieu apportera au cours des choses, à
+moins qu'il' ne reçoive un avertissement d'en haut, comme Deucalion et
+Pyrrha, lors du déluge.</p>
+<p>Ils s'en échappèrent Par la nacelle où ils entrèrent,</p>
+<p>et</p>
+<p>Pourquoi Deucalion et Pyrrha? Pourquoi Clopinel ne prend-il</p>
+<p><pb/></p>
+<p>— 61 —</p>
+<p>pas pour exemple l'arche de Noé ? Parce qu'il lui faut arriver à
+l'épisode des pierres changées en hommes sous la main de Deucalion , en
+femmes sous celles de Pyrrha.</p>
+<p>Les rats mêmes l'estrangleroient, Quand au berceau le trouveroient.</p>
+<p>Ici, Jehan de Meung énumère tous les avantages que l'homme a tiré de son
+intelligence, et les conquêtes qu'il a faites sur la nature ; il s'étend
+spécialement sur les mirouers, les miroirs ardents</p>
+<p>Qui ardent Les choses qui en eulx regardent.</p>
+<p>Les miroirs de réfraction, où les angles sont combinés de telle sorte
+que les objets paraissent allongés, raccourcis, renversés, etc., et le
+miroir grossissant, par qui</p>
+<p>Toutes choses très petites Si grans et si grosses sont veues.</p>
+<p>Si Mars et Vénus avaient connu cet instrument, ils n'auraient pas été
+pris aux filets de Vulcain ; car le forgeron céleste en eût-il fait les
+fils</p>
+<p>Plus subtils que fil d'araigne, %</p>
+<p>ils eussent paru aux amants aussi gros que des cables</p>
+<p>Et ils n'y fussent pas entrés.</p>
+<p>Il y a beaucoup de désordre dans cette confession de Nature ; les
+transitions n'y sont nullement ménagées et chaque chose y vient plutôt
+selon le caprice de l'auteur, que par un enchaînement logique des idées;
+ainsi, après cette dissertation sur l'intelligence et l'industrie</p>
+<p><pb/></p>
+<p>— 62 —</p>
+<p>Les princes ne sont pas dignes</p>
+<p>Que les cours du ciel donnent signes</p>
+<p>De leur mort plus que d'un autre home,</p>
+<p>Car leur corps ne vaut une pome</p>
+<p>Oultre le corps d'un charruyer</p>
+<p>Ou d'un clerc ou d'un escuyer.</p>
+<p>Que le gentilhome Est de meilleure condicion Par noblesse de nacion Que
+ceux qui la terre cultivent : Je réponds que nuls n'est gentils S'il
+n'est aux vertus ententifs ; Nul n'est vilain que par son vice.</p>
+<p>S'il fallait établir une distinction de rang entre les hommes, les vrais
+nobles seraient les hommes lettrés, les clercs, bien plutôt que les
+princes ni les rois</p>
+<p>Qui ne sçavent de la lecture.</p>
+<p>Aussi, dans l'antiquité, les philosophes et les poètes étaient-ils
+comblés de biens et d'honneurs ;</p>
+<p>11 n'en est plus ainsi ; les pauvres poètes</p>
+<p>S'en vont en estrange terre Et sueffrent les grants povretés Comme
+mendians et endebtés.</p>
+<p><pb/></p>
+<p>— 63 —</p>
+<p>Et pourtant</p>
+<p>Us sont plus gentilshomes Que ceux qui vont chasser aux lièvres Et que
+ceux qui sont coustumiers De prendre oiseaulx aux esperviers.</p>
+<p>Enfin, terminant comme elle a commencé, dame Nature fait l'é loge de
+toutes les créatures placées sous ses lois, qui toutes lui obéissent,
+excepté l'homme, dont elle trace, en ces termes, un portrait peu flatté :</p>
+<p>Orgueilleux est, meurtrier, lierre (voleur),</p>
+<p>Fel (félon), convoiteux, avar, trichierre (trompeur),</p>
+<p>Désespéré, glout (glouton), mesdisant</p>
+<p>Et hayneux, autruy mesprisaut,</p>
+<p>Mescreant, envieulx menteur,</p>
+<p>Parjure, très mauvais vanteur,</p>
+<p>Inconstant, fol et variable,</p>
+<p>Idolastre, désagréable,</p>
+<p>Traictre, desloyal, ypocrite,</p>
+<p>Et paresseux et</p>
+<p>Après avoir achevé sa confession, qui est plutôt un réquisitoire contre
+l'espèce humaine, dame Nature envoie son chapelain Genius en ambassade
+auprès de l'Amour, pour encourager ses barons. Genius se débarrasse de
+sa chasuble, de son aube et de son rochet,</p>
+<p>Puis il part pour son ambassade, tandis que sa souveraine rentre dans sa
+forge. Arrivé sur le théâtre de l'action , l'envoyé de Nature monte sur
+un grand échafaud</p>
+<p>Et fait signe que tous se taisent,</p>
+<p>puis commence un sermon sur les commandements de Nature.</p>
+<p><pb/></p>
+<p>— 64 —</p>
+<p>Amen, amen, fiât, fiât!..</p>
+<p>Pygmalion fut un faiseur d'images, qui vivait chastement.</p>
+<p>Il fit uneymaige d'ivere (ivoire), si belle et si parfaite,</p>
+<p>Qu'Amours en ses réseaux l'enlace.</p>
+<p>Mais ne cueuvre pas le visaige Car ne veult pas tenir l'usaige Des
+Sarrazins qui d'estamines Couvrent le chief aux Sarrazines Tant sont
+plains de jalouse rage.</p>
+<p><pb/></p>
+<p>De Jehan de Meung s'enfle le cours de Loire.</p>
+<p>C'est qu'en effet Guillaume de Lorris et Jehan de Meung donnent ensemble
+le signal de l'élan de la pensée et du perfectionnement progressif du
+langage. Avec eux commence, sinon encore une ère nouvelle, au moins un
+temps d'essor, de travail et d'enfantement, dont la postérité ne peut ni
+méconnaître ni dédaigner les bienfaits.</p>
+<p>Et ce ne fut pas au XVIe siècle seulement que celte double justice leur
+fut rendue. Le Roman de la Rose fut l'oeuvre importante du XIIIe et du
+XIVe. Pendant deux cents ans, on le considéra comme le plus grand effort
+de l'esprit humain.</p>
+<p>Ce qui prouve l'émotion profonde qui suivit son apparition dans le monde
+intelligent de cette époque, c'est l'enthousiasme des louanges, la
+vivacité des critiques et l'amertume des attaques dont ce poème fut
+l'objet.</p>
+<p>Le rang social qu'occupaient nos deux écrivains favorisait d'ailleurs le
+développement et l'éclat de leur renommée. Guillaume était frère d'Eudes
+de Lorris, chanoine et chevecier de l'église d'Orléans, dignités
+auxquelles il joignit celle de conseiller au parlement en 1258.
+L'héroïne de ses pensées était une dame dont, le nom ne nous est point
+parvenu, mais que la discrète galanterie de son adorateur signale ainsi :</p>
+<p>Cele por qui ge l'ai empris C'est cele qui tant a de pris Et tant est
+digne d'estre amée Qu'el doit estre Rose clamée.</p>
+<p>10</p>
+<p><pb/></p>
+<p>— 74 —</p>
+<p>Lui-même dit, dans un de ses poëmes, son Testament :</p>
+<p>Diex m'a trait sans reproche de jonesce et d'enfance, Diex m'a par
+maints périls conduit sans meseheance, Diex a donné aux miex honnour et
+grant chevance, Diex m'a donné servir les plus grans gens de France.</p>
+<p>(1) Orthographe de LEMAIRE, Antiquités d'Orléans.</p>
+<p><pb/></p>
+<p>— 75 —</p>
+<p>plus que maligne aurait un jour désarmé les jolies et blanches mains qui
+ne voulaient rien moins que le fustiger (1).</p>
+<p>Il fut maudit, mais il fut lu.</p>
+<p>En 1459, un poète, resté inconnu, composa contre le Roman de la Rose un
+poème intitulé : l'Amant entrant dans laforest de Tristesse.</p>
+<p>(1) « Que la plus pécheresse</p>
+<p>« Me donne le premier coup !</p>
+<p><pb/></p>
+<p>— 76 —</p>
+<p>Un autre poète prit la défense des dames et combattit l'oeuvre de
+Guillaume et Clopinel par un écrit en vers qui commence ainsi :</p>
+<p>Cy est le chevalier aux dames, De grande beauté et prudence , Qui pour
+les garder de touts blasmes, Fait grand prouesse et grand vaillance.</p>
+<p>En même temps, aux âmes chancelantes, qu'une sainte retraite prépare aux
+pieuses solennités de Noël et rend plus accessible aux enseignements de
+la.parole, le troisième et le quatrième dimanche de l'Avent, il jette,
+du haut de la chaire, un anathème énergique contre la fatale publicité
+de l'oeuvre objet de ses saintes colères :</p>
+<p>« S'il n'existait, dit-il, qu'un seul exemplaire du Roman de la « Rose,
+qu'il m'appartint et qu'il valût mille livres, je le brûlerais « plutôt
+que de le vendre, pour le publier comme on l'a fait. »</p>
+<p><pb/></p>
+<p>Il ajoute : « Si je savais que l'auteur n'ait pas fait pénitence, je «
+ne prierais pas plus pour lui que pour Judas, et ceux qui pren« nent à
+le lire un coupable plaisir accroissent son châtiment soit « dans
+l'enfer, s'il y est, soit dans le purgatoire (1). »</p>
+<p>Huit jours auparavant, l'illustre prédicateur s'écriait : « De tels «
+livres devraient être brûlés par ordre des confesseurs, comme, par «
+exemple, Ovide et une partie du Roman de la Rose (2). »</p>
+<p>C'est ainsi qu'un secrétaire de Charles VI qualifiait ce poème d'Opus
+profundum memorioe percelebre , et il prêche une espèce de croisade
+contre ses adversaires, qu'il appelle des calomniateurs et des envieux.</p>
+<p>(i) Si esset mihi liber Romancii de Rosâ qui est unions et valeret mille
+pecuniarum libras, comburerem eum poilus quàm ipsum venderem ad
+publicandum eum sicut est.</p>
+<p>Si scirem ipsum. non egisse poeniteniiam, non potiùs rogarem pro eo
+quant Juda, et augmentant hi qui in malo eum legunt poenam suarn, si est
+damnatus, vel in purgalorio.</p>
+<p>(Sou. GEHSO.N : Opéra, 4a pars, p. 555. Sermo dom 4a adventûs contra
+luxuriam).</p>
+<p>(2) Hi qui eos relinent (libros moventes ad luxuriam) deberent compelli
+per eorum confessons ad comburendos eos aul lacerandos ne ipsi vel alii
+amplius peccarent sicut Ovidius est vel pars Romancii de Rosâ.</p>
+<p><pb/></p>
+<p>Un écrivain du temps de Charles VIII s'écrie, en parlant de Jehan de
+Meung, « qu'il fut moult pi'ofond en la science d'astrologie et homme c&lt;
+de bien meslé es autres sentences, il composa le Roman de la Rose ;&lt; où
+il montre bien son sçavoir. Celluy roman est tissu de si très « diverses
+tremmes (trames), que peu de gens entendent la profondeur « d'iceluy. »</p>
+<p>Il ne craint pas de traiter de fous les théologiens qui ont osé censurer
+le Roman de la Rose.</p>
+<p>Le père Bouhours, ce jésuite affable et poli, dont on disait qu'il ne
+condamnait personne et excusait tout le monde, pense que notre langue
+doit beaucoup aux deux poètes qui nous occupent : « Jehan « de Meung ,
+dit-il, peut-être surnommé le père et l'inventeur de « la langue
+française, et le Roman de la Rose est le premier livre c français qui
+ait eu quelque réputation. »</p>
+<p>Enfin, le poète anglais Chaucer s'empara de cette oeuvre et s'efforça
+d'en reproduire les beautés par une imitation qui conserva le même titre
+: The Romant of the Rose, et qui ne fut pas sans succès chez nos voisins
+d'outre-mer. Le manuscrit sur lequel il s'est exercé fut sans doute
+celui que l'on connaît sous le nom de Manuscrit de la bibliothèque
+d'Oxford.</p>
+<p>Il y eut de nombreuses copies du Roman de la Rose. Malheureusement, la
+fidélité du texte primitif ne fut pas, de la part des calligraphes du
+temps, l'objet d'un grand scrupule. Trop savants, sans doute, pour se
+plier au joug du texte, ils ignoraient l'art essentielle(1)</p>
+<p>essentielle(1) liv. Vil, ch. 5.</p>
+<p><pb/></p>
+<p>— 79 —</p>
+<p>ment moderne d'expédier une copie sans se permettre d'en lire
+l'original, et ils oubliaient qu'en pareil cas la servilité est un mérite.</p>
+<p>Clément Marot lui-même, tout en admirant leur oeuvre, y porta une main
+quelque peu téméraire. Rajeunir des centenaires n'est pas chose facile ;
+son édition du Roman de la Rose, qui parut en 1527 et fut réimprimée en
+1538 par Guillaume Le Bret, eut le tort d'en altérer la grâce et
+l'originalité saris en exclure les passages empreints d'une blâmable
+licence.</p>
+<p><pb/></p>
+<p>.— 80 —</p>
+<p>A. MAUGE.</p>
+    </div>
+    </body>
+  </text>
+</TEI>

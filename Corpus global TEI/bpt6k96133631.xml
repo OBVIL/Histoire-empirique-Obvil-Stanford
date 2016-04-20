@@ -1,0 +1,3161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Des Guerrois, Charles (1817-1916)">Charles Des Guerrois</author>
+<title>Lucien ou De la décadence</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Des Guerrois, Charles (1817-1916)</author>, <title>Lucien ou De la décadence</title>, <date>1920</date>,description :,424 pages
+</bibl>
+<publisher>Alphonse Lemerre éditeur (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k96133631</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1920">1920</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>CHARLES DES GUERROIS</p>
+<p>ŒUVRES POSTHUMES</p>
+<p>LUCIEN</p>
+<p>OU DE LA</p>
+<p>DÉCADENCE</p>
+<p>PARIS</p>
+<p>ALPHONSE LEMERRE, ÉDITEUR</p>
+<p>27-31, PASSAGE CHOISEUL, 27-31</p>
+<p>MCMXXI</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>Luciei) ou de fa Décadence</p>
+<p><pb/></p>
+<p>EXTRAITS DU TESTAMENT</p>
+<p>DE</p>
+<p>M. CHARLES DES GUERROIS</p>
+<p>« Je désire que, lors de la publication de chaque Volume de « mes
+Œuvres, un exemplaire sur vergé de chaque Volume soit « envoyé aux
+Bibliothèques Nationales de Paris, Arsenal, «. Mazarine, Sorbonne, et
+Saint-Pétersbourg, B*'***, V*****, « Rome, Florence, Madrid, Lisbonne,
+Copenhague, « Stockholm, Christiania, Harvard Collège IBostOn),
+naturellement a Troyes. — Ce désir est une prescription.
+............................</p>
+<p>« Je termine ici ce codicille</p>
+<p>« Charles DES GUERROIS. »</p>
+<p><pb/></p>
+<p>CHARLES DES GUERROIS</p>
+<p>ŒUVRES POSTHUMES</p>
+<p>LUCIEN</p>
+<p>OU DE LA</p>
+<p>DÉCADENCE</p>
+<p>PARIS</p>
+<p>ALPHONSE LEMERRE, ÉDITEUR</p>
+<p>27-31, PASSAGE CHOISEUL, 27-31</p>
+<p>MCMXX</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LUCIEN ou DE LA, DECADENCE</p>
+<p>~ INTRODUCTION.</p>
+<p>Lucien, pourquoi choisi comme sujet.</p>
+<p>Philosophie des décadences.</p>
+<p>Eloquence, ce qu'elle est aux époques de décadence.</p>
+<p>Christianisme, ce qu'il est et son action au temps de Lucien.</p>
+<p><pb/></p>
+<p>C'est le règne du sophisme et des sophistes : oh! non plus le sophisme
+mal appris, la logique barbare, l'argument cornu des écoles de la
+dialectique éléenne, mais le - sophisme élégant, bien élevé, digne de la
+cour des princes et de la table des riches, le sophisme d'Hérode Atticus
+et de Polémon, le sophisme qui rit, qui joue, qui disserte, le sophisme
+des paroles bien arrangées, des périodes bien agencées, des mots à
+effet, frère en un mot de cette poésie qui cherche les idées dans le
+dédale des phrases, parmi les forêts plus ou moins enchantées
+qu'habitent les paroles</p>
+<p>Paganisme ce qu'il conserve de puiss:mce.</p>
+<p>Le monde antique entre les deux sagesses.</p>
+<p>Sophisme, règne sur le munde.</p>
+<p>Poésie</p>
+<p>des décadcnces.</p>
+<p><pb/></p>
+<p>La superstition, au reste, qui est, en son sens restreint, la corruption
+des idées religieuses, a bien d'autres applications : elle est la forme
+de toutes les choses sérieuses en décadence : la récitation du poète
+salarié, rassemblant ses auditeurs sur des bancs empruntés et cherchant
+de grands effets plutôt que de beaux vers, est la superstition de la
+poésie qui n'a plus de fidèles ; la sophistique brillante des écoles
+d'Athènes, d'Alexandrie, de Tarse, de Smyrne, d'An-</p>
+<p>Superstition ; sa puissance en bien des genres au lumps de Lucien.</p>
+<p>Les diverses superstitions.</p>
+<p><pb/></p>
+<p>1</p>
+<p>Étrange ressemblance de notre temps avec le temps de Lucien ! Etrange
+ressemblance, préparée par un siècle entier de philosophie et
+d'influence dissolvante. Un paganisme philosophique, tantôt ouvertement
+déclaré, comme dans Voltaire et Diderot, tantôt déguisé plus ou moins
+habilement comme chez ceux de nos contemporains qui, respectueux pour la
+forme envers le Christianisme, vont emprunter au paganisme tout leur
+idéal de bonne vie et d'éloquence, un paganisme philosophique a régné
+chez nous, en maître et souverain. Une réaction pourtant s'est faite :
+le Christianisme, appuyé sur ce fonds immortel des</p>
+<p>Le monde, victime qui ne veut pas être sauvée.</p>
+<p>Ressemblance de noire temps et du temps de Lucien.</p>
+<p><pb/></p>
+<p>Voltaire, Lucien du xviii, siècle.</p>
+<p>Son influence jusque sur nous.</p>
+<p><pb/></p>
+<p>quoiqu'ils le soient plutôt du Bottom de Shakspeare (i), les autres par
+haine persistante des choses que l'auteur de Candide a haïes, et qui
+accusent leurs dépravations de cœur, d'esprit et d'âme.</p>
+<p>Lucien, comme Mercure et Charon (dans les Contemplateurs) est monté sur
+les sommets les plus élevés du Parnasse et de l'Ossa couverts de neige,
+et il a vu ces païens du dix-neuvième siècle s'agitant dans leur
+faiblesse orgueilleuse pour diviniser leurs plus mesquines passions; il
+les a écoutés faisant des dithyrambes en l'honneur de leurs</p>
+<p>(i) Dans Midsummer-Nightts Dream. Obéron lui impose une tête d'âne, ce
+qui nç change pas bea Ur,p sa nature.</p>
+<p>Lucien, contempteur du pag.inistiie, auxiliaire sans le vouloir, du
+christianisme.</p>
+<p>Paganisme de l'époque actuelle.</p>
+<p><pb/></p>
+<p>Mieux nul Lucien que Voltaire rôles opposes.</p>
+<p><pb/></p>
+<p>Lucien, tel que nous nous le représentons, est de ceux dont parle Erasme
+dans sa préface — dédicace' (en tête de Y Éloge de la Folie) adressée à
+Thomas Morus, gens parmi</p>
+<p>Lucien</p>
+<p>est le sourire parmi les grands</p>
+<p>Anciens.</p>
+<p><pb/></p>
+<p>Lucien, par la tournure de son esprit qui semble le plus souvent moins
+celui d'un écrivain que celui d'un causeur facile, Lucien est, lui
+aussi, homme avec les hommes : les autres ont l'air bien souvent d'être
+des dieux avec leurs adorateurs.</p>
+<p>(1) Avact-dernier feuillet, rO, édition de Bâle, 1780.</p>
+<p>T. Morus, pourquoi</p>
+<p>Henri VIII le fit chancelier.</p>
+<p>Lucien semble un causeur.</p>
+<p><pb/></p>
+<p>« Je ne connais aucun fard ; je ne sais point mettre une pensée sur mon
+front, en renfermer une autre dans mon cœur. » ,</p>
+<p>Lucien ne se lit point, avec indifférence il suscite la pensée et la
+fait éclore bien souvent accompagnée d'un sentiment de plaisir ; mais ce
+plaisir ne saurait être de la sympathie, cette sympathie que fait naître
+un noble but poursuivi par le lecteur en commun avec un écrivain,
+quoique avec inégalité de forces et de talent. Lucien a cÓurageusement
+attaqué l'erreur, mais sans amour pour la vérité ; nulle croyance élevée
+et généreuse n'a inspiré cette plume mordante et habile, ce grec syrien
+a raillé les vices sans amour pour la vertu, les sophistes sans amour
+pour les philosophes, les déclamateurs sans goût pour les éloquents ; ir
+a insulté au mensonge qu'il trouvait partout maître autour de lui, sans
+adoration pour la vérité : la vérité souveraine l'eût trouvé aussi
+railleur, aussi impitoyable. Un seul mot explique cette énigme : Lucien
+est scep-</p>
+<p>Lucien, sa franchise d'attaque et de parole.</p>
+<p>Lucien, suscite la pensée, pas la sympathie.</p>
+<p>Lucien, sceptique.</p>
+<p><pb/></p>
+<p>La Folie fait son propre éloge, et exalte ces illusions douces qui sont
+comme le miel de toute la vie humaine ; die ajoute (i) :</p>
+<p>(l) Enc. Mor. p. 169. Edition de Bâle.</p>
+<p>Lucien, sa doctrine est au fond celle d'Erasme et de Rabelais.</p>
+<p>Lucien, Érasme, se contentent des vérités d'une heure.</p>
+<p><pb/></p>
+<p>Et pourtant, chez Érasme, en cela encore imitateur de Lucien qui a tant
+raillé ces pauvres morts, alors qu'ils se lamentent dans le dernier
+passage et la suprême barque, la tristesse de la vie est touchée de main
+de maître. C'est une idée de génie du Hollandais d'avoir mis la vie
+humaine sous la protection de la Folie ; sans elle, aucun entre tous les
+hommes ne pourrait supporter les maux qui accablent l'espèce.</p>
+<p>Érasme. Idée de génie.</p>
+<p>1</p>
+<p><pb/></p>
+<p>La science nuit au bonheur, les plus fous sont les plus sages, les plus
+ignorants possèdent la meilleure de toutes les sciencès. Ne prenez pas
+cela pour des boutades; c'est bien la pensée du siècle, c'est bien le
+résumé des instincts de cette Renaissance brillante et sensuelle —
+sensuelle par les désirs, par les goûts et même par l'intelligence, —
+amoureuse des beaux spectacles et des jouissances raffinées, cette
+Renaissance qui faisait des cardinaux du pape Léon X les successeurs
+d'Aristippe et de Lucien, des épicuriens et des sceptiques.</p>
+<p>C'est une chose bien étrange que l'identité qui se remarque entre le
+temps de Lucien et le temps d'Érasme : la question posée au temps de
+l'un, et qu'ont décidée la science des docteurs, la vertu des sages, le
+sang des martyrs, les passions, les corruptions et les frivolités du
+monde la renouvellent au temps de l'autre : l'irrévocable</p>
+<p>Science, nuit au bonheur, les fous sont les sages.</p>
+<p>Problème identique au temps de Lucien et d'Erasme.</p>
+<p><pb/></p>
+<p>Dieu sauva le Christianisme par la Réforme ; il sauva l'âme par le
+déchirement du corps ; de ce mal terrible, l'hérésie, le schisme, la
+guerre, il fit sortir le bienfait, il purifia par l'orage.</p>
+<p>Au temps de Lucien, le spectacle fut moins déchirant pour l'esprit, il
+fut en même temps plus redoutable aux yeux. Le sang des martyrs coulant
+sur les échafauds et dans les tortures est une vue moins douloureuse que
+celle des esprits en guerre contre l'unité, contre la vérité ; c'est le
+triomphe de l'âme par la douleur acceptée, cherchée, ambitionnée comme
+un bienfait. Lucien qui avait vu les dissolutions de l'Asie, de cette
+Asie qui, comme le dit Ci-</p>
+<p>Réforme,l son. rôle après les paganismes de la Renaissance.</p>
+<p><pb/></p>
+<p>(I).... Habet Asia susPicionem [u"urid! quamdam... (Pro M/lrana, cap. V).</p>
+<p>(2) Onlamenla qltidam Iricliniis aut porlicibus auferunl de sePlllchris.
+Le latin de Julien est loin de valoir son grec. (Voyez ses Lettres et
+ses autres ouvrages).</p>
+<p>Cicéron, x mot sur l'Asie.</p>
+<p>Julien sa loi contre la violation païenne des tombeaux.</p>
+<p>Lucien, comme Érasme, il'a pas le besoin de l'idéal, manque de sympathie
+liuliiaint!.</p>
+<p>Lucien, sophiste en combattant les sopiiistes.</p>
+<p><pb/></p>
+<p>(1) Adrien avait été élu par les légions de Syrie.</p>
+<p>(2) Voir le Lucien OU l'Ane, et les Amorts.</p>
+<p>Adrien, l'empereur sophisle.</p>
+<p>Lncien peint les vices sans les flétrir.</p>
+<p><pb/></p>
+<p>FIN DE L'INTRODUCTION.</p>
+<p>(1) Voir la Préface dç Bourdelot, in f° 16r5.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LUCIEN OU DE LA DÉCADENCE</p>
+<p>CHAPITRE PREMIER.</p>
+<p>Réflexions sur les décadences.</p>
+<p>Les commencements de Lucien.</p>
+<p>Ce grand édifice élevé, agrandi, achevé par la conquête, allait tomber
+et se détruire par les moeurs : les immenses scandales, les débauches
+imprudentes et triomphantes de</p>
+<p>Monde Romain, au II" siècle, va périr par les mœurs.</p>
+<p><pb/></p>
+<p>Tu regere imperio populos, Romane, memento,</p>
+<p>il n'allait être bientôt plus qu'un souverain de parade, un souverain
+déchu dès lors dans les desseins de la Providence,</p>
+<p>Lucien, aecusa- leur du IIe siècle.</p>
+<p>Nuage autour de l'humanité ail ii, siècle.</p>
+<p><pb/></p>
+<p>Lucien, ce qu'il a vu.</p>
+<p><pb/></p>
+<p>(1) Suetone.</p>
+<p>(2) Sénèque, Epit. 95.</p>
+<p>(3) Lampride, Vie d'Héliog., 19, 20, 23 et 24, édition Sçhrevelius, 1661.</p>
+<p>Amos, prophète.</p>
+<p>Luxe au ii- siècle.</p>
+<p><pb/></p>
+<p>(1) Vie d'Apollonius, Liv. J, ch. 7.</p>
+<p>(2) Albe.. Fr. 1856, n° 24, p. 499, coL. 1.</p>
+<p>(3) Le savant archéologue aurait pu remarquer que Cicéron, (Tusc.
+Qucest. V, 3S) rapporte deux vers dont la pensée est toute pareille.</p>
+<p>Hac habui qUa! edi, quaque exsaturata libido Hausit ; at illa manent
+plura et praclara relicta.</p>
+<p>On la retrouve également dans l'Anthologie grecque.</p>
+<p>Les vers de Cicéron sont traduits de ceux de Chœrile qu'on lisait sur le
+tombeau de Sardanapale. C'est tout juste l'opposé de la belle pensée
+spiritualiste que nous trou vons dans des vers de Cratès cités par
+Plutarque, et qui ont été traduits ainsi par Xy- lander</p>
+<p>Hd!e babui, didici studio qUd! pulcbrn, CUnld!lld!. Me quibus instruxere.</p>
+<p>Ménage de son côté, les a traduits ainsi</p>
+<p>Tantum habui quantum didici, quaniumque labore PercePi, et studio;
+rapuit sed cætera fastus.</p>
+<p>Apollonius, mot aux habitants de Tarse.</p>
+<p>Païens cynisme dans les inscriptions tumulaires.</p>
+<p><pb/></p>
+<p>lâchement les yeux. Les Barbarés se tenaient prêts. Sur la ligne
+immense, du Danube aux Pyrénées, de l'Euxin au Rhin, de l'Apennin à
+Carthage, ils épiaient en grande im- patience ces voluptueux couronnés
+de roses, prosternés aux pieds des Lalagés, des Chloés et des Lydies qui
+n'avaient plus d'Horace, des Délies qui n'avaient plus de Ti- bulle, des
+Cynthies qui n'avaient plus de Properce; et un frémissement lointain
+passait sur ce monde que n'avaient pu défendre pour toujours, et même
+pour longtemps Ger... manicus, Trajan et Marc-Aurèle.</p>
+<p>Pour envisager ces spectacles navrants et resplendissants, il fallait la
+fermeté du coup-d'œil; pour le rendre, il fallait la verve indignée d'un
+Juvénal, ou l'ironie, comment dirai-je?..... L'ironie de Lucien, cette
+ironie où la grâce se mêle au scepticisme convenait mieux pour rendre
+ces spectacles divers que l'indignation même des vertueux et des sages :
+elle convenait par cela seul qu'elle était sceptique : Lucien
+représentait l'époque par la raillerie même qu'il lui adressait, acérée
+et charmante, sans cette véhémence qui repousse les légers, sans cette
+sévérité qui effraie- les indifférents, plus épris du plaisir littéraire
+que de l'en-, seignement moral.</p>
+<p>Le pédantisme des érudits et traducteurs est parfois bien perfide sans
+en avoir l'air et sans qu'ils en aient conscience eux-mêmes. L'abbé
+Gail, qui a traduit en 1798 les Dialogues' des Morts et les Dialogues
+des Dieux sous le titre assez ambitieux et trompeur de Mythologie
+dramatique de Lucien, nous dit en comparant son auteur aux poètes qui
+ont aussi mis en oeuvre les données mythologiques, le poète de l'Iliade,
+l'auteur de l'Énéide : « Tandis qu'ils (ces poètes) nous offrent tout au
+plus de riants tableaux qui charment l'imagination, notre auteur, non
+moins ingénieusement érudit, mais plus philosophe, se propose avant tout
+d'instruire. » Vous vous récriez, cela vous paraît une .idée
+singulièrement bizarre et puérile de transformer le sceptique railleur
+en pédagogue. Ecoutez ce qui suit : « Je .ne finirais point '</p>
+<p>Barbares, épient leur moment sur toute la ligne.</p>
+<p>Lucien, son ironie rend bien .les spectacles de son temps.</p>
+<p>Pédantisme des traducteurs : . Gail, Lucien moraliste. -</p>
+<p><pb/></p>
+<p>si je voulais analyser sa morale; il suffira de dire que sous un
+badinage vif et léger il cache les plus sérieuses leçons, et que sa
+gaieté n'est qu'un artifice adroit pour faire mieux goûter une morale
+sévère. »</p>
+<p>Dialogues de Lucien, leur sens profond.</p>
+<p><pb/></p>
+<p>tier, plus gai qu'eux, sur le fleuve infernal où ils laissent tomber
+leurs larmes silencieuses :</p>
+<p>C'est la danse macabre, quatorze siècles avant Holbein.</p>
+<p>(i) Dtyden's Life of Lllciall, en tête de la traduction, London, 4 vol.
+in-Se. Cette traduction sans valeur était de différentes mains, et faite
+sur celle d'Ablancourt, non pas sur le iexte grec, non pas même d'après
+les traductions latines.</p>
+<p>. Monde, vieux au temps de Lucien,</p>
+<p>Dryden, mot remarquable sur Lucien.</p>
+<p>Juvénal et Lucien.</p>
+<p><pb/></p>
+<p>Lucien, atticisme de langage.</p>
+<p>Lucien a tout vu par la médaille et par le revers, et dit tout.</p>
+<p>Lucien, agent puissant de</p>
+<p>' décomposition pour la société antique.</p>
+<p><pb/></p>
+<p>Suidas, invention ridicule</p>
+<p>sur Lucien.</p>
+<p>Lucien, né en Syrie.</p>
+<p>Lucien chez un sculpteur.</p>
+<p>Le bloc</p>
+<p>de marbre brisé.</p>
+<p><pb/></p>
+<p>L'oncle Boileau.</p>
+<p>Lucien avocat.</p>
+<p><pb/></p>
+<p>Avocats. Leur portrait fait par A. Marcellin.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Guider comme d'un frein la bouche d'un témoin, Empêtrer de procès un sot
+qui les écoute,</p>
+<p>Tourner le sens des lois et s'en glorifier,</p>
+<p>Poésies françaises de Scévole de Sainte-Marthe.</p>
+<p>Sainte-Marthe, vers sur les avocats.</p>
+<p><pb/></p>
+<p>Nous verrons si Lucien ne s'exagère pas un peu les choses en les prenant
+ainsi sur le ton d'un Aristote ou d'un Platon. Jean Bourdelot, qui a
+fait une édition de Lùcien (i) prend pour bonne la parole de l'auteur
+des dialogues, et le range sans hésitation et d'emblée dans le chœur
+sacré, juste au beau milieu des 'grands philosophes. Il prend de là
+occasion de tracer un tableau de l'âge d'or de la philosophie comme
+Platon ne l'aurait jamais imaginé, et qui n'a certainement jamais existé
+que dans la pensée des savants du seizième et du dix-septième siècle.
+Les philosophes de ce beau temps, suivant leur ingénieux historien,
+n'avaient qu'un désir, celui de servir le genre humain, d'aider la
+nature dans l'enfantement de ses jeunes merveilles, partu-</p>
+<p>Bourdelot, met Lucien dans le chœur des grands philosophes.</p>
+<p><pb/></p>
+<p>rienlem naturam sedula sagacitate juvare, ils n'avaient qu'un goût,
+celui de la perfection; les rois eux-mêmes n'avaient de bonheur que la
+philosophie, de cour qu'un cercle de philosophes. S'ils avaient la
+pourpre et les faisceaux, c'était pour mettre le tout aux pieds des
+philosophes. Un beau temps, celui où la philosophie était assise près
+des - ~ dieux dans le ciel, où elle commandait aux puissants et
+empruntait leur autorité sur la terre ! '</p>
+<p>A ce tableau d'enchantement, ce singulier commentateur, chez qui
+l'imagination semble être la faculté dominante fait succéder-, sans
+transition et par le seul progrès de l'abondance et des richesses, le
+-luxe et la corruption. La mollesse dès lors est partout, les vices sont
+souverains; ceux qui étaient jadis de grands et respectés philosophes,
+tissent le vent et les toiles d'araignées; leurs paroles ne sont plus
+qu'une vapeur légère, et c'est avec cela qu'ils attirent la jeunesse
+imprudente qui les écoute. Tous ou presque tous n'ont plus qu'uhe idée,
+fouler aux pieds la sainte image de la vérité. Quelques sages seulement,
+Épic- tète, Musonius, Favorinus, Démonax, Nigrinus, voyaient avec
+douleur cette ruine de l'esprit humain, et n'osant plus professer la
+philosophie sous son vrai nom de Sagesse, la déguisaient sous le nom de
+Science. C'est alors que paraît Lucien, peu attendu, il faut le dire, en
+pareilles circonstances, et dont le digne panégyriste fait une sorte de
+deus ex machina : il célèbre son apparition en termes magmafiques et
+pompeux comme pour un sauveur.</p>
+<p><pb/></p>
+<p>tions de toute sortes, jamais la parole ne lui fit défaut. Que veut-il,
+dans ses Dialogues, si ce n'est corriger les erreurs attachées à
+la'condition humaine, et tenir en éveil l'esprit par la surveillance de
+soi-même? Quand a-t-il gardé le silence, dès qu'il s'agissait de
+susciter la pénétration de l'esprit humain ? Que n'a-t-il pas dit dans
+le but de faire disparaître la honte et la souillure des vices? »</p>
+<p>(1) V. Fabricius, Bib. Grecque, T. 3, p. 486.</p>
+<p>Lucien, père de l'Eglise.</p>
+<p><pb/></p>
+<p>gieuses de l'oncle original de l'original abbé Bourdelot : (i)</p>
+<p>« Dans sa jeunesse, on vit Lucien plaider au barreau d'Antioche, ville
+de Syrie; mais, comme il y réussissait médiocrement, il abandonna la
+rhétorique et l'arène judiciaire pour se tourner du côté où se tiennent
+les écrivains avec leur plume; il fit comme les philosophes pyrrhoniens,
+ qui n'affirment rien, mais qui, en toutes choses, pè- sent le
+pour et le contre, sans se prononcer jamais : l'épi- gramme qui est en
+tête de ses écrits en fait foi. »</p>
+<p>Les éloges si peu mesurés de Bourdelot peuvent facile- : ment passer
+pour des plaisanteries ; mais on est étonné de voir le judicieux
+Fabricius accueillir gravement le juge- ment de son enthousiaste
+collaborateur, et accepter de ses mains le mot de philosophie, prendre
+soin d'expliquer et de préciser le genre de cette philosophie (2). :</p>
+<p>il tenait ainsi pour vraie cette parole de quelques-uns, suivant
+laquelle « la science éloigne de la droite intelli,- gence des choses
+ceux qui n'ont sous les yeux que les livres et les pensées dont ils nous
+entretiennent. »</p>
+<p>Je le répète : en dépit de toutes ces belles définitions, Lucien est
+principalement sophiste, du moins au commencement de sa carrière; plus
+tard, il verra les horizons s'a-</p>
+<p>(I) Gilberti Cognati pra:fatio prxmissa Editioni ejusdem.</p>
+<p>(2) Bib. gr. T. 3, p. 486.</p>
+<p>(3) In COl1vivio Philosophorum,</p>
+<p>G. Cousin, paroles judicieuses sur Lucien.</p>
+<p>Lucien grandit</p>
+<p>ù mesure qu'il vécut.</p>
+<p><pb/></p>
+<p>grandir autour de lui, il sentira le génie se développer. Pour
+l'instant, voici l'état des choses : d'avocat il se fait sophiste. C'est
+dans l'ordre, l'analogie est grande entre ces deux professions,
+puisqu'il n'y a entre elles que la différence du faux particulier au
+faux général.</p>
+<p>C'est donc le métier du sophiste qu'il allait principalement exercer,
+c'est la gloire du sophiste qu'il allait conquérir en Gaule, où nous le
+voyons, dans une des phases de sa jeunesse, réunir autour de lui un
+cercle nombreux d'auditeurs prodigues de leur argent et de leurs
+applaudissements. Lucien s'est chargé de nous l'apprendre, et cette
+fois; loin de s'en faire accroire, il a prononcé sans sourciller le mot
+de sophiste : (i).</p>
+<p>(1) Apologia pro mercede Conduclis.</p>
+<p>Lucien rénssit comme sophiste.</p>
+<p>Sophistes, qu'est- ce que leur art ?</p>
+<p><pb/></p>
+<p>/</p>
+<p>on déclamait tout, pour tromper cette oisiveté de l'âme, de plus en plus
+étrangère aux grands objets, qui seuls ont le pouvoir de la retenir en
+la captivant.</p>
+<p>(2) Philostr. Vie d'Apoll. L. 1, c. 4.</p>
+<p><pb/></p>
+<p>-l'étaient pour les autres, qui ne l'étaient pas pour eux- mêmes (1).</p>
+<p>C'était un métier bien porté que celui de la déclamation.</p>
+<p>Auguste avait déclamé en public et jusque dans les camps, sans compter
+Néron qui faisait des poèmes sur l'incendie de Rome et qui les déclamait
+devant Rome assemblée.</p>
+<p>Veras agitant lites, raptore relicto,</p>
+<p>■Fusa venena silent, malus ingralitsque marilus,</p>
+<p>Et qux jaht veteres sanent mortaria cæcos Juv. Sat. vn v, - [178.</p>
+<p>Vers de la Médée d'Euripide, cité deux fois par Plutarque, mais qui ne
+se trouve plus dans la tragédie du poète, telle que nous l'a%-oiis on le
+range aussi parmi les fragments de Ménandre. Quelle qu'en soit
+l'origine, Cicéron l'a traduit ainsi (Irpist. ad Famil., Lib. VII, ep.)</p>
+<p>Qui ipse sibi sapiens prodesse non guid, vequidijnnm sapit.</p>
+<p>Déclamations, les empereurs eiix-memcs s'en inèlaient.</p>
+<p>Juvénal les professeurs d'cliiquence.</p>
+<p>Euripide, mot sur les solihistes.</p>
+<p><pb/></p>
+<p>Quintilien, de son côté, nous donne un aperçu de ces causes fictives
+qu'il avait, lui du moins, discutées avec tant de profit dans son école
+: « Ces prestiges, ces réponses d'oracles, ces fléaux imaginaires qui
+désolent un pays, ces marâtres plus cruelles que celles des poètes
+tragiques, cent autres choses encore dont on nous fait de vaines
+descriptions, tout cela n'a rien de commun avec la pratique du barreau.
+» Lib. viii, c. 10.</p>
+<p>Quis bene dicentem Basilum ferat? Accipiat te Gallia, vil potius
+matriculd caussidicorum Africa, si placuit -mėrcedem, ponere linguce.
+Juv.. sat. vn</p>
+<p>[v. 147 et s.</p>
+<p>« Qui supporterait Basile tout beau diseur qu'il est?</p>
+<p>Quintilien, les avocats et les professeurs</p>
+<p>d'éloquence.</p>
+<p>,-ophiste, pOlir lui toutes les faveurs. Dernier écho de la philosophie.</p>
+<p><pb/></p>
+<p>Il est impossible, en lisant ce détail des voyages de Lucien, de ne pas
+faire une remarque : Quoi ! cet homme'de</p>
+<p>.- (i) Valère-Maxime, Liv. viii, ch. 9.</p>
+<p>Hégésias les suicides. ..</p>
+<p>Lucien, heureux sophiste, parcourt le monde.</p>
+<p>Lucien, le peu qu'il nous apprend des pays qu'il a traversés.</p>
+<p><pb/></p>
+<p>De la Gaule où il avait prolongé son séjour, Lucien fut - entraîné à
+Rome par le désir de faire briller sur ce grand théâtre son heureuse
+éloquence. La Rome qu'il allait voir était la Rome des suprêmes élans
+guerriers, la Rome des corruptions et des fermentations malsaines, la
+Rome de Marc-Aurèle et de Lucius Verus, des luttes avec les Mar-</p>
+<p>Obscn-alion et decl.-tmation, incompatibles.</p>
+<p>La Rome des aboiiiinations.</p>
+<p><pb/></p>
+<p>(l) Geographi graeci Minores T. 2 p. 62 et s.</p>
+<p>Juvénal, complète Lucien.</p>
+<p>Juvénal.</p>
+<p>La toilette et les bourreaux.</p>
+<p><pb/></p>
+<p>Est pretium curae penitus cognoscere toto Quid faciant agitentque die.
+Si nocte maritus I Aversus jacuit, periit libraria : ponunt Cosmetae
+tunicas, tarde venisse Liburnus Dicitur, et poenas alieni pendere somni
+-Cogitur. Hic frangit ferulas, rubit ille flagello, Hic scutica. Sunt
+quas tortoribus annua præstent. Verberat atque obiter faciam linit;
+audit amicas, Aut latum pictas vestis considerat aurum,</p>
+<p>Et caedit, donec lassis cedentibus : Exi,</p>
+<p>Intonat horrendum, jam cognitione peracta.</p>
+<p>(Sat. VI, v. 475 et suiv.)</p>
+<p>(1) Celui qui porte la litière, venu apparemment de ce pays d'hommes
+robustes. Les Liburniens étaient çomme les Auvergnats de Rome.</p>
+<p><pb/></p>
+<p>- Quanta est gula quae sibi totos</p>
+<p>Ponit apros; animal propter convivia natum ? Poena tamen praesens, cum
+tu deponis amictus Turgidus, et crudum pavonem in balnea portas. Hinc
+subitie mortes atque intestata senectus.</p>
+<p>It nova, nec tristis, per cunctas fabula coenas ; Ducitur iratis
+plaudendum funus amicis.</p>
+<p>.. (Sat. I, v. 161 et suiv.)</p>
+<p>.... Despicias tu</p>
+<p>Forsitan imbelles Rhodios, unctamque Corinthum,</p>
+<p>_ Despicias merito. Quid enim resinata juventus</p>
+<p>Cruraque totius facient tibi lævia gentis ?</p>
+<p>_ (Satire viii v. 113 et s.).</p>
+<p>« ^Peut-être mépriseras-tu les Rhodiens sans courage, Corinthe qui se
+noie dans les parfums. Que vaut cette jeu-</p>
+<p>Juvénal Voracité romaine</p>
+<p>Grecs-toinbés duis le mépris.</p>
+<p>Juvcnnl cité.</p>
+<p><pb/></p>
+<p>Juvénal continue.</p>
+<p>Horrida vitanda est Hispania, Gallicus axis Illyricumque latus</p>
+<p>Curandum in primis ne magna injurias fiat Fortibus et miseris ; tolles
+licet omne quod usquam est Auri atque argenti, scutum gladiumque
+relinques, Et jacula et galeam. Spoliatis arma supersunt.</p>
+<p>Les nations non dégénérées.</p>
+<p>Lucien a relrouvé la Rome</p>
+<p>de Juvénal.</p>
+<p><pb/></p>
+<p>Luciell, quel intèrèt pouvaient avoir ses déclamations.</p>
+<p><pb/></p>
+<p>Lucien renonce aux déclamations.</p>
+<p>/</p>
+<p><pb/></p>
+<p>CHAPITRE II.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>un poste administratif dont on ne saurait bien- exactement déterminer la
+nature, mais qui avait son importance, et qui éta-it probablement
+quelque chose comme une préfecture, avec adjonction de certaines
+fonctions quasi judiciaires. Il avait dès.lors publié presque tous ses
+ouvrages et assuré sa renommée.</p>
+<p>Lucien, fonctionnaire en Egypte.</p>
+<p>Érasme a caractérisé Lucien avec charme.</p>
+<p><pb/></p>
+<p>(1) Tantmn obli,,,t in dicendo graliæ, t,iiiiim ili i;,'enimdo
+felicilalis, etc. Ce latin d'Érasme se fait lire avec grand plaisir.
+Gilbert Cousin, dans sa Préface, édition de 1563, a trouvé ce charmant
+passage de bonne prise; il se l'est approprié sans dire seulement où il
+l'avait pris. Au reste, ce morceau, qui est la dédicace du Gallus, et
+qui se trouve dans les traductions de Lucien faites par Érasme, a été
+aussi recueilli parmi ses lettres : c'est la 5e du livre xxix.</p>
+<p>Érasme, traducteur de Lucien.</p>
+<p><pb/></p>
+<p>être hardi pour entreprendre 'de mettre ces pages grecques en beau
+latin) il traduisait le Toxaris, le Timon, le Coq ou le Songe, et
+quelques autres dialogues encore. Thomas Morus, qui doit être chancelier
+d'Angleterre, traduit aussi en les admirant, un certain nombre de pages
+de Lucien, le Cynique, le Ménippe, le Philopseudes. Pour Érasme, auteur
+des Colloques, comme pour Érasme, auteur de l' Éloge de la Folie, Lucien
+est un maître, un maître qui n'a pas perdu ses leçons. Dans la lecture
+assidue de ses écrits ils ont puisé l'habitude de la bonne plaisanterie,
+de l'aisance parfaite de la pensée, Érasme et l'auteur de l'Utopie.</p>
+<p>(i) Letronne, dans un article du Journal des Savants sur la Luciade ou
+l'Am de Lu- cius de Patras, avec le texte grec par Courier, 1 vol.
+in-12, 1818.</p>
+<p>Letronne, ce qu'il dit de Lucien.</p>
+<p><pb/></p>
+<p>Si, comme l'observe sir William Temple, « de tous les hommes qui vivent
+dans l'espace d'un millier d'années, pour un homme qui devra être un
+grand poète, il y en a - mille chez qui on trouverait l'étoffe de
+généraux ou de ministres aussi grands que tous ceux dont l'histoire
+conserve le nom », si cette observation est vraie, elle est applicable à
+l'homme d'esprit en littérature tout aussi justement qu'au poète
+lui-même : ils ne sont pas rares, les généraux et les ministres; ils ne
+se trouvent pas partout, les hommes d'esprit d'un certain ordre :
+combien en compte- t-on dans le monde? Trois ou quatre, Lucien, Erasme,
+Swift, Voltaire et un petit nombre d'autres qu'il faut chercher et qui
+ne sont plus de cet ordre.</p>
+<p>Lucien n'est point un ennemi de la philosophie : tout au contraire, il
+se forme de merveilleuses et splendides</p>
+<p>W. Temple; mot sur le poète, applicable</p>
+<p>Hommes d'esprit dans les lettres, combien on en compte.</p>
+<p>Lucien, railleur des faux philosophes, n'est point un ennemi de la
+philosophie.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>(i) Essai sui- la Société des Gens de lettres et des Gmiids, P. 371 et
+372 du T. Ier des</p>
+<p>Mélanges de li/lr'n¡!1Ire. Amsterdam, 1763, in-12.-</p>
+<p>D'Alembert : son humeur contre Lucien.</p>
+<p><pb/></p>
+<p>Oh ! s'il pouvait revenir quelque jour pour se défendre contre cesphilosophes
+ et ces philosophies sans mesure, comme il leur dirait, le
+bon railleur de Samosate (car la</p>
+<p>(2) Nigrimis, T. I, n° 36, p. 57.</p>
+<p>L'âme et la flèche.</p>
+<p>Les rieurs et les philosophes.</p>
+<p><pb/></p>
+<p>défense avec les esprits de cette sorte, c'est nécessairement toujours
+un peu l'attaque) : « 0 pédants de la sagesse, quelle règle et quelle
+mesure nous donnez-vous ? Et qu'il serait facile, ô imprudents, de vous
+accabler de vos propres' leçons, de vous juger avec vos propres
+jugements ! 0 sages, n'avez-vous .su jamais ce que c'est que folie? Ne
+vous êtes- vous jamais inclinés qu'au seuil de ces temples lumineux -et
+sereins dont nous parle un des vôtres, un grand poète du moins, et ce
+titre permet bien des choses :</p>
+<p>.... Sapientum templa serena.</p>
+<p>. (Lucrece).</p>
+<p>Revenez un peu sur la terre, 6 mortels radieux, foulez un peu ce sol sur
+lequel nous nous traînons, nous qui n'a- vons ni vos essors ni vos
+enthousiasmes, nous surtout qui - n'allons point nicher comme des aigles
+dans les aires sublimes de l'Encyclopédie ? »</p>
+<p>Que répondrait d'Alembert, surtout s'il revenait de chez mademoiselle de
+Lespinasse, ou s'il allait souper chez ma- dame Geoffrin?</p>
+<p>Biographes. Eloges enthousiastes de Lucien.</p>
+<p><pb/></p>
+<p>(1) Préface de son Édition, in f°, 1615,</p>
+<p>Lucien devenu un saint personnage.</p>
+<p>Bourdelot, ses exagérations sus Lucien.</p>
+<p><pb/></p>
+<p>Vous le voyez : Lucien a été un Orphée dans le siècle des Commode : il a
+changé les bêtes en hommes, et en philosophes encore.</p>
+<p>Comme on le pense bien, ceux qui ne font pas de Lucien toute l'estime
+qu'il mérite, ceux qui laissent percer un</p>
+<p>(1) Je ne me charge pas de justifier les métaphores du biographe.</p>
+<p><pb/></p>
+<p>On ne comprend bien un homme qu'en le voyant au milieu de son siècle et
+de ses contemporains : quelque émi- nent qu'ait été un personnage, il ne
+domine jamais assez ceux qui l'environnent pour n'en recevoir pas bien
+des reflets, et ces reflets jettent une lueur singulière sur les traits
+et lap hysionomie qu'on étudie. Or, quels sont les contemporains de
+Lucien ? Ils sont nombreux et illustres en bien des genres : il y a
+parmi eux des sophistes, des historiens, des moralistes, des savants,
+des philosophes, des compilateurs. Nommons parmi eux en première ligne
+le biographe des hommes illustres, Plutarque, voix qui, du fond des
+sanctuaires païens, envoie quelques hauts accents de philoso-</p>
+<p>Le vrai Lucien n'est ni un saint, ni un monstre.</p>
+<p>Contemporains de Lucien.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>B;ivle it'a point J'arlicle sur</p>
+<p>Lucien.Pourquoi?</p>
+<p><pb/></p>
+<p>(1) Somuillnt, T. Ier.</p>
+<p>Le Songe, de Lucien.</p>
+<p><pb/></p>
+<p>des choses honnêtes, l'ardeur pour les choses meilleures ; car tout
+cela, c'est le pur ornement de l'âme. Tu sauras tout ce qui est de
+l'antiquité ; tout ce qui est convenable de faire dans le présent te
+sera révélé, et avec moi encore tu auras le don de pénétrer dans
+l'avenir : tout ce qui fait partie de l'ensemble des choses divines et
+des choses humaines, je te le ferai connaître. » (i)</p>
+<p>Le Nigrinus. Intérieur d'un philosophe platonicien au IIe siècle.</p>
+<p><pb/></p>
+<p>Les deux capitales : Athènes et Rome.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ils avaient quelque droit de tonner contre les vices de cette société de
+perdition, ceux qui avaient distribué leur</p>
+<p>Apologistes chrétiens. Leur rôle.</p>
+<p>13. Justin : Tableau des abominations romaines.</p>
+<p><pb/></p>
+<p>Wieland</p>
+<p>Ce qu'il dit du Nigrinus.</p>
+<p><pb/></p>
+<p>rel de ses périodes et d'un certain luxe de rhéteur. On voit qu'il n'est
+pas encore exercé dans ce genre ; aussi son Ni- grinus tient-il le
+milieu entre les dialogues socratiques et ceux du vrai genre de Lucien. »</p>
+<p>Christianisme : son influence grandit.</p>
+<p>Philosophes ; la curée.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>raître au jour. dans son ensemble solide et riche, ce grand monument de
+l'opulence des sophistes grecs :</p>
+<p>Hérode Atticus, son stade</p>
+<p>en marbre blanc.</p>
+<p>Mœurs singulières .</p>
+<p><pb/></p>
+<p>Le sophiste d'en haut.</p>
+<p>Le sophiste d'en bas.</p>
+<p><pb/></p>
+<p>(1) Dans le De Mercede Conductis.</p>
+<p><pb/></p>
+<p>CHAPITRE III.</p>
+<p>Le Timon. Lucien s'attaque aux Dieux.</p>
+<p>Le Timon de Lucien, qui n'a pas fait sur la nature humaine d'aussi
+profondes révélations, qui ne les a pas réalisées en des scènes aussi
+-variées, aussi poignantes d'émotion que le Timon du ..seizième siècle,
+est pourtant un dialogue, je dirais presque une comédie où le cœur
+humain n'est pas médiocrement étudié et compris. C'est un coup de maître
+de Lucien d'avoir mis dans cette poitrine la haine des hommes comme un
+baume, comme un bonheur : Kat. Ôvojxa [JLSV eVriv 6 Mta-âvôpw7roç
+FTÏÏUrrov.</p>
+<p>Le Timoi</p>
+<p>Le Timon de Lucien et celui de Shakspearc.</p>
+<p>L'analyse septentrionale.</p>
+<p><pb/></p>
+<p>Le Timon de Shakspeare a encore une supériorité immense sur celui de
+Lucien : celui-ci n'a que la malédiction sur les lèvres et dans le cœur;
+il hait les hommes sans retour et sans mélange ; la haine du Timon
+septentrional qui laisse loin derrière elle la haine et l'a malédiction
+grecque pour l'énergie passionnée, cette haine, toute vigoureuse qu'elle
+est, a cependant son mélange encore de sympathie et d'adoucissement :
+Flavius, l'honnête intendant, remet comme un rayon de pur soleil dans
+cet ensemble attristé et morne; et enfin, cette épitaphe même qui se lit
+sur le tombeau du Misanthrope, où la malédiction devient comme une
+plainte mêlée au bruit des flots de hl mer, n'est-ce pas comme la
+réconciliation humaine, le. cri de la pitié sur cette argile qui court
+avec délices aux crimes, aux ingratitudes, et qui va se dissoudre
+demain! Ah ! la marque du grand esprit, du vrai et excellent génie est
+dans le limon de Shakspeare jusqu'au point de faire palpiter le cœur de
+joie et d'orgueil sur l'homme qu'il a si bien peint, sur le chef-d'œuvre
+qui s'est accompli dans cette perfection.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Mercure emmène donc Plutus. Tout d'un coup il s'écrie. Ou'est-ce cela,
+ami ? Je te savais aveugle, je ne te savais pas boiteux.</p>
+<p><pb/></p>
+<p>Mercure lui demande encore : Mais quand tu les veux laisser là, comment
+se fait-il que ta fuite soit si rapide sur le chemin que tu ne peux voir ?</p>
+<p>Je n'ai, répond Plutus, des pieds agiles, des, yeux clairvoyants que
+pour saisir l'occasion de m'enfuir.</p>
+<p>En ce moment, on entend un bruit de fer touchant le , rocher : c'est
+Timon qui creuse le sol pierreux de la montagne : avec lui est le
+Travail; la Pauvreté, le Courage et</p>
+<p><pb/></p>
+<p>Jupiter le veut, réplique Mercure, et la Pauvreté quitte le terrain,
+emmenant les siens, le Travail et la Sagesse.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>d'ailleurs la loi que je fais et que j'inscris parmi les lois : Ne plus
+me mêler aux hommes, jamais plus, n'en connaître pas un, les mépriser
+tous. Amitié, hospitalité, autels de la Miséricorde, pures bagatelles !
+Bagatelles, avoir pitié de celui qui pleure, secourir le pauvre, fouler
+aux pieds les lois, abîmer les moeurs ! Comme les loups je vivrai, Timon
+sera mon unique ami. Que tous les autres soient pour moi des ennemis,
+tendant des pièges. Si je m'abouche avec quelqu'un, que je sois impur;
+si j'en aperçois un seulement, que le jour où il me sera apparu soit
+maudit ! Point d'alliance avec eux, point de trêve ; qu'ils me soient
+comme des statues de marbre et d'airain, que le désert s'étende entre
+eux et moi Mon nom préféré sera le Misanthrope, la rudesse morose, la
+colère inhumaine sera mon caractère. Si je vois quelqu'un dans les
+flammes et près de périr, je prétends éteindre le feu avec de l'huile et
+de la poix.</p>
+<p>« La plus grande ambition n'en a pas la moindre apparence , lorsqu'elle
+se rencontre dans une impossibilité absolue d'arriver où elle aspire.</p>
+<p>« On fait souvent du bien, pour pouvoir impunément faire du mal » ; et
+tant d'autres, où le sévère moraliste ne voit dans la vertu qu'une
+impuissance d'arriver au vice.</p>
+<p>Timon continue : Mais il est de grande importance que tout le monde
+sache que je suis riche ; ils en pourront aller se pendre de dépit.</p>
+<p><pb/></p>
+<p>Nous avons ici une scène de comédie observée sur le vif. Gnathonidès
+accable Timon de louanges et de félicitations. Timon répond par des
+aménités dans le genre de vautour vorace; et l'autre ne s'en fâche, ni
+ne s'en étonne : Toujours le mot pour rire, dit-il. Mais où est le dîner
+? J'ai appris en ton honneur et pour te les chanter, de nouveaux
+dithyrambes.</p>
+<p>Tu chanteras sur le mode élégiaque en l'honneur de ce hoyau, et ce sera
+même très pathétique, réplique Timon. — Et il le frappe comme il le dit.
+0 Hercule ! s'écrie le parasite. Heu ! heu! je t'accuserai devant
+l'Aréopage pour m'avoir fait dés blessures, poursuit en gémissant
+l'infortuné Gnathonidès. Tu m'accuseras bientôt de meurtre, répond le
+Misanthrope, et il frappe de plus belle.</p>
+<p>Non, dit l'autre qui pour un moment ne se départirait pas de sa lâcheté
+mendiante ; non; mets sur la blessure un baume d'or; l'or est excellent,
+pour arrêter le sang. — Timon le chasse impitoyablement.</p>
+<p><pb/></p>
+<p>Mais comment cela se peut-il? Je n'ai jamais concouru aux Jeux Olympiques.</p>
+<p>Timon s'étonne : Déméa n'a jamais été marié. — Mais, Dieu aidant, je me
+marierai l'an prochain, et je me donnerai des enfants. Le premier qui
+viendra (ce sera un garçon) je le nomme Timon.</p>
+<p>Ici un coup de hoyau vengeur fait justice de ces flatteries outrées.
+Déméa ne remercie pas comme le parasite. Lucien sait trop bien observer
+et rendre les nuances des caractères : le rhéteur n'a pas, comme
+rhéteur, de prédilection pour une cause plutôt que pour une autre ; il
+se porte, suivant que son intérêt le dirige, vers les extrêmes opposés.
+Aïe ! Aïe ! s'écrie-t-il, veux-tu envahir la tyrannie, Timon, toi qui
+frappes des hommes libres, toi qui n'es peut-être ni citoyen, ni libre.
+Mais tu paieras bientôt et pour tes autres crimes, et pour avoir brûlé
+la citadelle.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Je ne suis point comme les autres, répond Thrasyclès, qui se sont hâtés
+de venir ici, émerveillés de ton opulence : ce quLles attirait, c'était
+l'or, c'était l'argent, c'était l'espoir de bons repas. Moi, tu le sais,
+du- pain grossier me suffit; un peu de cresson me fait un repas des
+dieux; si je ' veux aller jusqu'au raffinement, j'y ajoute un peu de sel.</p>
+<p><pb/></p>
+<p>(I) Luctani Opuscula, Erasmo interprete, f° 56.</p>
+<p>Ébauche de Lucien, tableau</p>
+<p>de Shakspeare.</p>
+<p><pb/></p>
+<p>Et il y a loin encore de la pioche brutale du Timon grec aux simples
+paroles, mais paroles vengeresses ! du poète :</p>
+<p>Timon sortant de sa caverne :</p>
+<p>Va-t-en ! qui es-tu?</p>
+<p>Flavius. M'avez-vous oublié, maître?</p>
+<p>Timon. Pourquoi me demandes-tu cela? J'ai oublié tous ~ les hommes : si
+tu avoues que tu es un homme, je t'ai oublié.</p>
+<p>Flavius. Les dieux me sont témoins que jamais un pauvre intendant n'a
+ressenti un chagrin plus vrai pour son maîtr-e ruiné, que le chagrin
+attesté par mes yeux.</p>
+<p>Timon. Quoi, tu pleures! approche-toi plus prés; je veux donc t'aimer
+parce que tu es une femme et que tu ne veux rien de commun avec ces
+hommes de rocher : il faut le rire où la voiupté pour qu'ils pleurent,
+eux. La pitié est endormie.. Un temps étrange, où le rire a des larmes,
+où les pleurs ne sont pas des pleurs !</p>
+<p>7</p>
+<p><pb/></p>
+<p>Flavius. Je vous supplie de me reconnaître, mon bon seigneur, d'accepter
+ma douleur, et tant que durera cette dernière et pauvre opulence, de me
+garder comme votre intendant.</p>
+<p><pb/></p>
+<p>Flavius. Oh! laissez-moi rester près de vous, comme votre soutien, maître.</p>
+<p>Timon. Si les malédictions te font peur, ne reste pas; fuis pendant que
+la bénédiction demeure et que tu es libre; jamais ne revois les hommes,
+et que jamais les hommes ne te voient, (i)</p>
+<p>(I) Timon of Athenis, Acte iv, sc. dern.</p>
+<p>L'Halcyon,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>CHAPITRE IV.</p>
+<p>Dialogues des dieux.</p>
+<p>Les Dialogues des morts.</p>
+<p>-Parle, dit Mercure; aussi bien nous devons attendre ici l'aigle qui
+doit manger ton foie, et nous ne saurions</p>
+<p>Le Prométhée.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Pour récompense de ses leçons et de ses raisonnements, le couple
+Olympien laisse Prométhée en compagnie de l'aigle dont le bec va
+s'enfoncer dans sa chair.</p>
+<p>Ainsi l'homme, avec une hardiesse incomparable, est posé en face des
+dieux : il se lève, il est debout, fier, généreux et fort, représentant
+avec majesté et grandeur l'énergie et l'audace humaines, après l'heure
+de l'émancipation. Prométhée a beau dire qu'il est dieu; il est homme
+par les entrailles et par la sympathie ; par la volonté et par le cœur
+il est entré dans l'humanité. Et je ne puis m'empêcher de remarquer que
+Lucien, qui ailleurs a été peu respectueux envers le Christianisme, a
+cédé ici,</p>
+<p>L'homme hardiment posé en face des dieux.</p>
+<p><pb/></p>
+<p>Son Prométhée a des traits du Christ, qu'on ne retrourverait pas dans le
+Prométhée d'Eschyle, plus grand encore, mais plus farouche, et qui' n'a
+point en lui ces teintes sublimes de la mansuétude' divine et humaine.</p>
+<p>.tesses de notre nature et de notre intelligence.</p>
+<p>Lucien a tout vu en petit, les dieux aussi bien que les hommes, mieux
+que les hommes. On pourrait appeler les vingt-six Dialogues des dieux
+(T. 2), l'Olympe vu par le petit côté. Les dieux y apparaissent avec
+leurs vices et leurs travers, les déesses y sont montrées en déshabillé
+&amp;1 avec leurs péchés mignons, Séléné amoureuse d'Endy- mion (1), Junon
+jalouse de Latone et la piquant avec dej paroles de dépit qu'on lui rend
+bien.</p>
+<p>Dans un des Dialogues des dieux, Jupiter est mis en pré.sence de
+Prométhée. et le souverain de l'Olympe qui fini</p>
+<p>»... Cruel, descends aux doux ombrages,</p>
+<p>Aux ombrages d'un bas, faciles, sans outrages</p>
+<p>Pour tes membres légers tout sanglants des buissons,</p>
+<p>Au sommeil de midi, plaisance des gazons,</p>
+<p>Entr'ouvre les rameaux, penche une épaule nue,</p>
+<p>A ce beau front qui dort une haleine, un baiser.</p>
+<p>Prométhée et Jupiter.</p>
+<p><pb/></p>
+<p>Ht puis Junon l'acariâtre se met de la partie et reproche aigrement à
+Jupiter ses fredaines. L'introduction de Ganymède dans l'Olympe l'a mise
+de fort mauvaise humeur; et</p>
+<p>Dieux ridicules ou odieux.</p>
+<p>Junon, sa man- vaise humeur.</p>
+<p><pb/></p>
+<p>Nous voyons bientôt après Vulcain, d'un grand- coup de hache, faire
+sortir Minerve de la cervelle de Jupiter.</p>
+<p>Ces dialogues des dieux sont l'Iliade par le petit côté.</p>
+<p>Jupiter, dans Homère, se querelle avec Junon, mais il fait, trembler
+l'Olympe d'un froncement de son sourcil ; d'une parole sévère, il fait
+rentrer dans le devoir les déesses et Junon elle-même qui se sont
+avisées d'un petit complot; dans Lucien, il ne fait pas même trembler un
+dieu de troisième ordre, et tout le monde se moque de lui. Il semble que
+le blasphémateur, comme on le nommait un peu hyperboliquement dans
+l'antiquité, ait voulu dégrader, en les rapprochant tout près de nous et
+en les montrant crûment sous des formes matérielles présentées sans
+intermédiaire au regard de son lecteur, ces inventions belles et
+fécondes de la mythologie qui cachent les mys- - tères de l'intelligence
+et de l'âme humaine.</p>
+<p>Dans le dialogue dixième, Mercure, qui fait le rôle de - portier, et
+qui, en cette qualité, se montre parfaitement revêche et maussade,
+repousse sans façon Neptune qui veut entrer chez Jupiter : c'est que
+Jupiter vient de mettre au monde l'enfant de.Sémélé, Dyonysos, qui, au
+moment où sa mère avait été foudroyée, fut mis en dépôt dans la cuisse
+du dieu : et il est un peu affaibli des suites de cette couche originale.</p>
+<p><pb/></p>
+<p>« Qui fait trembler les rameaux du laurier d'Apollon ? Qui ébranle son
+autel? Loin, loin tous les profanes! De son beau pied, Phœbus touche le
+seuil du sanctuaire. Ne vois-tu pas? le palmier de Délos s'incline
+doucement</p>
+<p><pb/></p>
+<p>devant lui, le cygne chante son beau chant dans les airs. » (i)</p>
+<p>(2) Callim. Hymne d Diane v. 1-3, et 40-43.</p>
+<p><pb/></p>
+<p>peut plus retourner aux autres; bref, la beauté est répandue autour de
+moi ; elle s'est emparée de moi tout entier, et 'je m'indigne de ne
+pouvoir comme Argus voir avec tout mon corps. »</p>
+<p>Le marché aux csdayes.</p>
+<p>Jugement de Paris.</p>
+<p>Mercure et le laquais d'Harpagon.</p>
+<p>Paganisme, vice radical du système.</p>
+<p><pb/></p>
+<p>-</p>
+<p>Nam omnes mortales diis sunt freti; sed tamen</p>
+<p>Vidi ego deis fretos saspe multo decipi.</p>
+<p>« Tous les hommes ont les dieux pour appuis, ce qui n'empêche pas que je
+n'aie vu beaucoup de ces protégés des dieux trompés dans leurs desseins
+et de leur attente. »</p>
+<p>Lucrèce,</p>
+<p>les dieux.</p>
+<p>Plaute, vives épig"amm,es contre les dieux.</p>
+<p><pb/></p>
+<p>Hac autem Veneri complacuerunt, dit Dcemones :</p>
+<p>« Elles sont les favorites de la déesse. »</p>
+<p>Le marchand Labrax répond avec une rare impudence :</p>
+<p>Habeat si argentum, debit :</p>
+<p>Dans Plaute encore, nous trouvons un dialogue digne de Lucien pour la
+raillerie dont il est assaisonné : c'est dans le Pseudolus (III, 2).
+Plaute met en scène un cuisinier qui prétend donner la plus haute idée
+de ses talents, et voici quel langage il lui prête. Le cuisinier
+commence par débiter des détails de préparations culinaires, et il
+continue : 1</p>
+<p>Ubi omnes patinas fervent, omneis aperio,</p>
+<p>Is odos demissis pedibus in caelum volat, Eum in odorem caenat Jupiter
+cotidie.</p>
+<p>Ballio.</p>
+<p>Si nusquam is coctum, quidnam casnat Jupiter ?</p>
+<p>Cocus.</p>
+<p>It incasnatus cubitum.</p>
+<p>« Dès que tous les plats jettent leurs vapeurs, j'ouvre toutes les
+fenêtres : l'odeur, les pieds en bas, monte vers le ciel : c'est tous
+les jours le dîner de Jupiter.</p>
+<p>Ballion.</p>
+<p>Mais si tu n'avais rien sur les fourneaux, comment dînerait Jupiter ?</p>
+<p>Le cuisinier.</p>
+<p>Il irait se coucher sans souper. »</p>
+<p>Et Juvénal, le grave Juvénal, il se moque sans retenue, lui aussi, de la
+prétendue puissance de ces dieux qui ne</p>
+<p>Juvénal raille aussi les dieux.</p>
+<p><pb/></p>
+<p>sont rien, qui ne font rien : on croirait entendre Lucien , quand le
+poète vient nous di're :</p>
+<p>.... Audis,</p>
+<p>Juppiter, hxc, nec labra moves, cum mittere vocem Debueras, vel
+marmoreus, vel aheneus? Aut cur In carbone tuo charta pia thura soluta</p>
+<p>Ponimus, et sectum vituli jecur, albaque porci Omenta ? Ut video, nullum
+discrimen habendum est V Effigies inter vestras, statuamque Bathylli. ;</p>
+<p>(Sat. XIII, v, 114 et suiv.).</p>
+<p>Tarpeias venerande rector aulae, ' Quem salvo duce credimus Tonantem,</p>
+<p>Quum votis sibi quisque te fatiget,</p>
+<p>Et poscat dare quae dei potestis,</p>
+<p>Nil pro me mihi, Jupiter, petenti Ne succensueris velut superbo : Te pro
+Caesare debeo rogare.</p>
+<p>Pro me debeo Caesarem rogare.</p>
+<p>Martial, Liv. vn, ep. 60. ;</p>
+<p>Martial ne ménage pas les dieux païens.</p>
+<p><pb/></p>
+<p>Voici, chez le même Martial, qui est encore plus fort, mais toujours
+dans le 'même ton :</p>
+<p>- Ad csenam, si me diversa vocaret in astra</p>
+<p>Hinc invitator Cæsaris, inde Jovis,</p>
+<p>Astra licet propius, Palatia longius essent,</p>
+<p>Responsa ad Superos hasc referenda darem :</p>
+<p>Quaerite qui malit fieri conviva Tonantis, Me meus in terris Jupiter
+ecce tenet.</p>
+<p>Lib. IX, ep. 92</p>
+<p>Le dédain pour ces dieux impuissants est-il marqué d'un trait assez net,
+assez vif ? Il me semble que cela en dit plus que toutes les
+dissertations du monde.</p>
+<p>Prandebat sibi quisque deus ; nec turba deorum Talis ut est hodie ;
+contentaque sidera -paucis Numinibus miserum urgebant Atlanta minore
+Pondere.</p>
+<p><pb/></p>
+<p>Lucien se moque du deuil extérieur, il se moque de la douleur de l'âme :
+quel besoin les morts ont-ils de nos pleurs ? Quel besoin ont-ils des
+pains que nous mettons.</p>
+<p>Du Deuil : pages blâmables de Lucien.</p>
+<p><pb/></p>
+<p>Mettons ici en regard de Lucien, faisant foin et raillerie de tout, non
+-seulement de la forme païenne, mais de la pensée spiritualiste en
+elle-même, mettons la prière éloquente que l'ùn des plus religieux parmi
+les Romains de son temps, en commençant un plaidoyer dont le succès
+intéressait le salut de l'État, adressait aux dieux. Voici les paroles
+de Cicéron défenseur de Rabirius (n° II) : ce qui nous intéresse est
+l'idée religieuse indépendamment de sa forme :</p>
+<p>cc Au commencement de cet important débat, où la vie, l'honneur, toute
+l'existence sont en jeu, j'implore un regard favorable de Jupiter, le
+dieu très grand et très bon, - ainsi que des autres dieux et déesses
+immortels, dont la bienveillance assiste et régit cette république plus
+que ne le font la prudence et les lumières des hommes : je les supplie
+de faire que ce jour luise pour mon client comme le jour du salut, et
+pour l'État, comme le jour qui affermira ses fondements. » (i)</p>
+<p>(i) Quje quum ita sint, primum, quod in tanta dimicatione capitis, famx,
+fortu- narnmque omnium fieri necesse est, ab Jove optimo maximo,
+cæterisque diis dea- busque immortalibus, quorum ope et auxilio multo
+magis haec respublica quam ra- tione hominum et co"silio gubernatur,
+pacem ac veniam peto ; precorql1e ab iis ut hodiernum diem ad ejus
+salutem conservandam, et ad rem publicam constituendarrj illuxisse
+patiantur. (Pro Rabirio, ie° 2.)</p>
+<p>Cicéron, prière aux dieux.</p>
+<p>Dialogues de la mer.</p>
+<p><pb/></p>
+<p>Lucien qui a nommé Polyphême n'a garde de laisser échapper une si belle
+occasion de l'introduire en personne et de nous le montrer proférant
+près de son père Neptune des plaintes amères contre Ulysse dont la ruse
+mauvaise l'a privé de son œil unique.</p>
+<p><pb/></p>
+<p>Dialogues des Morts.</p>
+<p><pb/></p>
+<p>sances s'adressent au potentat qui n'est j&gt;Lus ; CC Comment es-tu tombé
+du ciel, Lucifer, toi qui te levais si brillant au ' matin ? Comment
+es-tu tombé sur la terre, toi qui blessais les nations. » Et ce qui suit.</p>
+<p>Quoiqu'il en soit, le dialogue des nforts - ne pouvait revendiquer une
+origine plus illustrer Lucien donc a un ancêtre, mais un ancêtre
+probablement inconnu, et qui-lui laisse toute son originalité. ,</p>
+<p><pb/></p>
+<p>Lucien, c'est le monde de son temps qu'il raille dans ses Dialogues des
+Morts.</p>
+<p>Monde ancien, se condamne lui-mème.</p>
+<p>Lassitude universelle dumondeantique.</p>
+<p><pb/></p>
+<p>Poursuite des héritages.</p>
+<p>Rire funèbre.</p>
+<p><pb/></p>
+<p>« Hé quoi donc! suis-je de pire condition que les cygnes lesquels quand
+ils cognoissent et se sentent plus prochains de leur fin, c'est à
+l'heure que plus souvent et plus doucement ils chantent, qu'ils
+n'avoient accoutumé</p>
+<p>(1) Platon, le Péhdon traduit dn grec en français par Loys le Roy, dit
+Regius, Paris, 1559 in-40 p. 129. (Ce volume contient avec le Phédon
+d'autres oeuvres encore).</p>
+<p><pb/></p>
+<p>au paravant en leurs vies, se réjouissant d'aller vers le Dieu auquel
+ils sont consacrés. »</p>
+<p>Ainsi font les époques de décadence : incapables de distinguer entre les
+grandes choses et leur fantôme ironique, elles confondent tout dans
+l'insulte, le philosophe et le sophiste, Socrate et le dernier rhéteur
+de tréteaux ou d'amphithéâtre.</p>
+<p>Lucien, personnifié dans Ménippe.</p>
+<p>Raillerie le beau n'en souffre pas.</p>
+<p><pb/></p>
+<p>adorée, M. de la Mousse lui disait : Tout cela pourrira, Mademoiselle —
+Oui, monsieur, mais cela n'est point encore pourri (i).</p>
+<p>Il est dommage que le rhéteur se retrouve dans ces pages : les
+enseignements y sentent le lieu commun : c'est la brièveté de la vie, la
+fragilité de la jeunesse, tout cela pourtant relevé par la manière de
+dire et par la raillerie.</p>
+<p>(1) Lettre 1054 de Mme de Sévigné, 19 fév. 1690. Editon Monmerqué in-12,
+T. xi.</p>
+<p>Recette des compositions de Lucien.</p>
+<p><pb/></p>
+<p>Une épigramme d'Ausone, traduisant une épigramme grecque incerti
+auctoris, résume en quelque sorte la morale des Dialogues des Morts de
+Lucien (i) : *</p>
+<p>« Diogène le Cynique vit chez les morts ton ombre, ô Crésus, le plus
+riche des rois. Il s'arrête, et le corps ébranlé par la violence du rire
+: « De quoi te servent maintenant tes richesses, ô roi opulent? Te voilà
+isolé comme moi, plus pauvre encore que moi ; car tout ce que j'avais,
+je le porte avec moi ; mais toi, Crésus, de tous tes trésors tu n'as
+rien apporté avec toi. »</p>
+<p>(1) Voici le texte de cette épigramme :</p>
+<p>Effigiem, rex Croese, tuam, ditissime regum,</p>
+<p>Vidit apud Manes Diogenes Cynicus.</p>
+<p>Constitit, utque procul, majore cachinno</p>
+<p>Concussus, dixit Quid tibi divitiæ</p>
+<p>Nunc prosunt, regum ô ditissime; cum sis</p>
+<p>Sicut ego solus, me quoque pauperior?</p>
+<p>Nam quæcumque habui, mecum fero, cum nihil ipse Ex tantis, tecum, Cræse,
+feras, opibus..</p>
+<p>(2) Necyoma-ntia, T. m.</p>
+<p><pb/></p>
+<p>(1) çontempJantes, T. iii.</p>
+<p>(2) Ce même dialogue Necyomaniia, tout-à-l'heure cité.</p>
+<p>Les</p>
+<p>Contemplateurs.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Lucien, comme de juste, n'est pas pour eux. Dans un dialogue qu'il a
+intitulé le Passage, ou le Tyran, (Trajeclus,</p>
+<p>I ollmtur in altum</p>
+<p>Ut lapsu graviore ruant.</p>
+<p>Lucien et M--de Sévigné.</p>
+<p>Lucien n'est pas pour les riches et les puissants.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Lucien, il ne faut pas tomber sons sa grille.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHAPITRE V.</p>
+<p>Lucien et les Philosophes.</p>
+<p><pb/></p>
+<p>Lucien ne perd pas la tête au milieu de ces menaces ; il ' prétend qu'il
+a été le sincère admirateur de la philosophie, et il le dit dans. une
+page toute pleine d'une grâce antique, d'un charme délicieux :</p>
+<p>Le Pêcheur ou les Ressuscités.</p>
+<p>Lucien mis en scènc dans les</p>
+<p>Pêcheurs.</p>
+<p><pb/></p>
+<p>Tactique de tous les temps on se dit philosophe pour combattre lesphilosophes
+ ; on se dit chrétien pour mieux déguiser la guerre qu'on
+fait au Christianisme.</p>
+<p>Platon se défie de lui. Ce serait, au dire du philosophe, donner le
+champ au cheval. Car, dit-on, tu es un rhéteur, un disputeur; par des
+paroles subtiles, des discours étudiés, tu séduiras le juge et le
+tourneras en ta faveur.</p>
+<p><pb/></p>
+<p>Non, répond Lucien, je vous prends pour juges, et la</p>
+<p>Philosophie même.</p>
+<p>Où donc trouver la Philosophie ? où trouver l'introu- vable ? Platon qui
+est tolérant et qui ne croît pas avoir la Philosophie sous clé pour lui
+seul, qui nous apparaît ainsi</p>
+<p><pb/></p>
+<p>Nous la rencontrerons ici près dans le Céramique, où elle viendra tantôt
+au retour de l'Académie, avec intention de se promener sous le Portique,
+comme elle fait tous les jours. Mais la voici : c'est bien son extérieur
+de décence, son regard clément, et cet air méditatif qui lui sied en
+marchant.</p>
+<p>La Philosophie n'est pas trop rébarbative, elle convient de bonne 'grâce
+qu'elle a eu tort, et la cause se plaide. Diogène porte la parole comme
+accusateur : il ne faut pas</p>
+<p>(i) Dein Syria per spatiosara interpatet diffusa planitiem-Hanc
+nobilitat Antiochioe, mundo cognita civitas, cui non certaverit alia
+advectitiis ita affluere copiis, et internis, et Laodiceæ, et Apamia,
+itemque Silencia, jam inde a primis auspiciis florentissimoe, Amm.
+Marcell. L. xiv, c. 8.</p>
+<p><pb/></p>
+<p>La défense de Lucien est habile, et dans le ton narquois qu'on attend de
+lui. Diogène, dit-il, a. bien déblatéré contre moi; il n'en a pas dit
+encore assez. Et là-dessus 'il recommence de plus belle le portrait
+satirique des faux philosophes. Il est bien permis de se moquer de ces
+menteurs, de ces charlatans, de ces saltimbanques ; mais rien de tout
+cela ne vous regarde, ô Platon, ô Chrysippe. Vous avez avec eux la
+parenté qu'Hercule aurait avec un singe.</p>
+<p>(1) Nom que prend Lucien, pour indiquer la franchise de ses paroles.</p>
+<p><pb/></p>
+<p>Le Pécheur :</p>
+<p>Cette œuvre est- elle du IIe siècle ou du xix,.</p>
+<p><pb/></p>
+<p>« Du matin jusqu'au soir, le philosophe se livre assi- duement à
+l'étude, en attendant qu'on vienne le consulter. Il porte dans son cœur
+la sincérité, en attendant qu'on l'élève aux dignités. Il met de
+l'énergie dans ses actions, en attendant qu'on le choisisse. Voilà
+comment il se comporte en sa personne.. v</p>
+<p>« Le philosophe,a des habits et un, chapeau convenables.</p>
+<p>Dans tout ce qu'il fait, il est très attentif. 11 a de la difficulté à
+entrer dans les honneurs, mais il en sort facilement Partout où il
+réside ou demeure momentanément, le philosophe a un air grave et sévère
+Ses paroles sont toujours précédées de la vérité, ses actions sont
+toujours d'une parfaite droiture Loin de se désoler des approches de la
+mort, il l'attend avec une certaine satisfaction, et en attendant, il
+continue d'avoir soin de sa personne en ne négligeant aucun de ses devoirs.</p>
+<p>« Le philosophe ne regarde pas l'or et le jade comme des objets précieux
+: ce qu'il tient pour précieux, c'est la sincérité et la pureté du cœur.
+Il ne cherche point à</p>
+<p>Le philosophe chez les sages</p>
+<p>Chinois.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>« Le philosophe n'est pas partial pour ceux qui pensent comme lui, ni
+hostile, envers ceux qui ont des opinions différentes. » (1)</p>
+<p>En vérité, si cela n'avait pas été écrit six ou sept siècles avant
+Lucien, on pourrait croire que le lettré Chinois a voulu répondre au
+satirique grec, et lui montrer dans un portrait achevé, la contre-partie
+de ses philosophes sensuels et dégradés. — Mais ce portrait chinois
+n'est peut-être, comme tant d'autres, qu'un portrait de fantaisie, un
+idéal jamais réalisé. —- Il a été réalisé, du moins en Chine, s'il faut
+en croire un missionnaire chrétien, un jésuite, le savant Père Le Comte,
+qui a tracé du philosophe païen un beau portrait : le jésuite parle
+d'une personne, non plus d'un être abstrait :</p>
+<p>(1) Li-Ki, tr. p. Callerv.</p>
+<p>(2) Nouveaux Mémoires de Iii Cliiiie, Lettre 7, p. 334.</p>
+<p>Le P. Le Comte</p>
+<p>Portrait qu'il trace du vrai philosophe.</p>
+<p><pb/></p>
+<p>A côté de ce portrait de philosophe tracé par le plus illustre des
+lettrés' chinois, achevé par le missionnaire chrétien, mettons l'idéal
+philosophique qu'a formulé un philosophe qui a vécu aux temps mêmes de
+Lucien, et d'autant plus grand qu'il était empereur : il s'appellc MarcAurèle
+ : l</p>
+<p>(1) Pensées de Marc-Aurèle, trad. p. de Joly (1771).</p>
+<p>Marc-Au rôle son idéal phitosophiilue.</p>
+<p><pb/></p>
+<p>CHAPITRE VI.</p>
+<p>Le Parasitisme littéraire.</p>
+<p>Les Grecs; les Patrons.</p>
+<p>Philosophes, leur habilete complaisante.</p>
+<p><pb/></p>
+<p>Des sages qui vendent leurs conversations, des philosophes pris aux
+figues de l'hameçon, aux gens de lettres qui se mettent aux gages des
+riches qui les paient, il n'y a que la main; ou plutôt ce sont les mêmes
+personnages sous une'forme diverse, mais également avilis et tirant d'un
+même sac ou les arguments philosophiques qui se débitent dans les écoles
+pour de l'argent, #ou des bons mots qui égaient le triclinium. Le traité
+dont je veux parler (2) contient la peinture la plus curieuse des mœurs
+littéraires de</p>
+<p>(1) Entretiens mémorables, trad. de Lévesque.</p>
+<p>(2) De mercede couductis Pofenliul1I Familiaribus.</p>
+<p>Mœurs littéraires de la décadence, peintes dans le De Mercede conductis.</p>
+<p><pb/></p>
+<p>Ingenium velox, audacia perdita, sermo -</p>
+<p>Promptus et Isoeo torrentior. Ede quid illum Esse putes. Quemvis hominem
+seium attulit ad nos. Grammaticus, rhetor, geometres, pictor, aliptes,
+Augur, schoenobates^ medicus, magus, omnia novit</p>
+<p>Grasculus esuriens : in coelum, jusseris, ibit.</p>
+<p>Ad summum, non Maurus etat, nec Sarmata, nec Thrax, Qui sumpsit pennas,
+mediis sed natus Athenis.</p>
+<p>« C'est l'esprit qui court, l'audace qui se précipite, la parole qui se
+presse pius rapide que l'éloquence .d'Isée'. Que croyez-vous qu'il soit?
+Tout, il réunit tout en sa personne, il est tous les personnages :
+grammairien, rhéteur, géomètre, peintre, baigneur, augure, danseur de
+corde, médecin, magicien, il sait tout, ce petit grec affamé. Dites-lui
+de prendre son vol vers le ciel, il le prendra. Ce</p>
+<p>Grecs, peints par Juvénal.</p>
+<p><pb/></p>
+<p>n'était point un maure, un thrace ni un sarmate, celui qui s'attacha des
+ailes aux épaules, il était né en pleine Athènes. »</p>
+<p>Cicéron avait fait de ces mêmes Grecs un portrait qui n'est pas non plus
+-très flatteur. Tout en disant qu'il respecte infiniment cette nation
+d'où viennent les choses de l'art et de l'esprit, il n'omet pas un des
+traits de leur pire physionomie. Il commence (i) par insister sur les
+scrupules des Romains appelés en justice. « Comme il craint, le Romain,
+de rien dire sous l'inspiration de la colère ou de la passion! Comme il
+se reprocherait de dire plus ou moins qu'il ne faut ! » Et il ajoute en
+parlant des' Grecs : « Pensez-vous que ceux-ci soient de même ? Ils se
+font un jeu d'un serment et d'une déposition. Pour eux, votre estime
+n'est rien; un mensonge impudent fait leur fortune; c'est le profit,
+c'est la gloire, c'est l'applaudissement ! »</p>
+<p>(1) Pro Flacco, v.</p>
+<p>Cicéron et les</p>
+<p>Grecs.</p>
+<p><pb/></p>
+<p>« Mets dans ta pensée que tu vas dans la province d'Achaïe, la vraie
+Grèce, la pure Grèce, où la civilisation, les belles-lettres,
+l'agriculture même peut-être, ont pris,</p>
+<p>Pline le Jeune :</p>
+<p>Les Grecs.</p>
+<p><pb/></p>
+<p>Singulière destinée de ces Grecs! D'une part, tous les respects pour
+eux, de l'autre tous les dédains. Juvénal, Martial les accablent de
+leurs hyperboles outrageuses ; Cicéron, Pline le Jeune ne trouvent pas
+d'expressions assez enthousiastes pour peindre leur révérence et leur
+amour pour cettè terre des nobles pensées et des beaux-arts.</p>
+<p>Et pour dire la vérité, ce contraste qui est dans les appréciations est
+aussi dans les choses ; le Græculus esuriens vient de la patrie de
+Socrate ; ce bouffon parasite est né dans la patrie d'Hérodote et du
+libre Thucydide.</p>
+<p><pb/></p>
+<p>..... Quum possis honestius illic</p>
+<p>Et tremere, et sordes farris mordere canini.</p>
+<p>A ces festins outrageants, vous n'avez point de coupe d'or comme le
+maître, ou si l'on veut .bien vous en confier Une, l'esclave ne vous
+quitte pas des yeux, tant -on a peur' des tentations de votre pauvreté.
+On refuse au malheureux parasite jusqu'au droit de boire de la même eau
+-que le maître (v. 53). Il faut aussi qu'il se contente _de pain noir et
+moisi-, pendant que le maître mange le pain de fine fleur de farine.</p>
+<p>(1) Voir également Pline le Jeune, L. n, ep. 7, où l'on trouve des
+détails analogues.</p>
+<p><pb/></p>
+<p>Les parasites infimes, les gens sans aveu, les gens sans pain, pouvaient
+accepter cela ; mais les autres, les philosophes, les gens de lettres,
+les rhéteurs, les hommes bien élevés, ou réputés tels? — Ils ne
+reculaient pas : des philosophes, des rhéteurs, des musiciens, des gens
+que l'art devait élever au-dessus de ces bassesses, les acceptaient avec
+résignation, avec empressement même, et pour des prix dont nous avons
+dit la valeur, pour des plaisirs de table ou de vanité.</p>
+<p>(2) Philostrate, Vie dapolloiiii(s, vii, 25.</p>
+<p>Philosophes et rhéteurs accèptent tout pour un peu de plaisir.</p>
+<p>Richesse, ses privilèges.</p>
+<p><pb/></p>
+<p>« Ajouterai-je, dit Cicéron, que cela ne s'éloigne point de nos mœurs,
+d'inviter nombre de personnes ? »</p>
+<p>Enfin vous êtes agréé, vous faites partie de la maison de ce riche qui
+vous engage. C'est ici que va commencer- la vie de l'homme de lettres en
+cage, et nous allons être</p>
+<p>(1) C'est ainsi qu'il faut traduire jj.yâé 7Tp0i7i£p0ÛvjÇ, lie discrepes
+ab illo, et non pas ayez les mêmes coiileurs, la même \ivrie, comme l'a
+entendu l'abbé Massieu, qui nous avertit doctement, en s'appuyant sur ce
+passage, que les anciens connaissaient donc les livrées. La citation
+n'est pas concluante, on le voit.</p>
+<p><pb/></p>
+<p>dans la confidence de cette vie mercenaire. Que de sujétions, quelles
+corvées !</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>D'Alembert : Liberté, Vérité,</p>
+<p>Pauvreté.</p>
+<p><pb/></p>
+<p>qu'il subit, par le vil salaire qu'il a accepté, il ne l'est pourtant
+pas dans le fond ; il ronge son frein comme un lion en cage, il regrette
+sa liberté, ses amis, ses entretiens littéraires et ses libres
+promenades ; il n'a aucun des misérables talents qui dans sa condition
+nouvelle ont seuls prix et valeur; il ne sait faire rire personne, et
+s'il s'y essaie cependant, il est comme un personnage qui sous le masque
+tragique voudrait jouer la comédie.</p>
+<p>Le dénouement est digne de cette triste farce dont le pauvre philosophe
+a été la victime. La fleur de ses années s'est flétrie au service du
+maître impitoyable. Maintenant</p>
+<p><pb/></p>
+<p>Tel est cet admirable morceau, relevé dans Lucien de toutes les grâces
+de ce style facilement attique.</p>
+<p>Adulation, ses formes changeanles. L'adulation moderne.</p>
+<p><pb/></p>
+<p>(r) Apologia pro mercede conductis, T. m.</p>
+<p>Apologie des gens de lettres.</p>
+<p>Lucien et ses excuses.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Lucien, transformé : sophistique — bon sens.</p>
+<p><pb/></p>
+<p>(i) Dans le Curculio.</p>
+<p>Les parasites dans Plaute,,</p>
+<p><pb/></p>
+<p>leur infliger, Le parasite, au temps de Lucien, est devenu un personnage
+beaucoup plus respectable, beaucoup moins outragé. Il n'a pas toujours
+en effet cet air humilié sous lequel il nous est apparu dans les maisons
+des grands et pb-ursuiv-ant un salaire qui lui échappe souvent.</p>
+<p>Le railleur va lui décerner une glorification, presque une apothéose,
+(r) Il ne faut pas, bien entendu, prendre cet éloge trop au sérieux.; le
+lyrisme même que le railleur a mis en œuvre n'est que la forme plus
+marquée de la plaisanterie.</p>
+<p>Le Parasite, de Lucien.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>CHAPITRE VII.</p>
+<p>Un apologiste de la religion chrétienne, Tatien, né en Assyrie comme
+notre écrivain, qui avait vu de près et bien les philosophes les
+définissait : « Des aveugles qui dissertent avec des sourds. »</p>
+<p>Près de ces possesseurs et maîtres de la sagesse, Ménippe a voulu
+s'enquérir de la nature de l'univers, persuadé que leur grande barbe,
+leur manteau troué et leur pâleur étaient des indices certains de leur
+science. Ils lui ont demandé une grosse somme pour l'instruire, et
+encore payée d'avance, la moitié du moins. Pour les récompenser, Ménippe
+fait ainsi leur portrait : « Leur impudence, ami, l'au'dace prodigieuse
+de leurs discours te ferait rire. Ces hommes que tu vois ramper sur la
+terre sans s'élever d'un pouce plus haut que nous autres, dont la vue
+n'est pas plus perçante que celle du premier venu, et quelques-uns même
+devenus aveugles par l'âge ou le défaut d'exercice</p>
+<p>(I) Icaro-Menippe, T. VII.</p>
+<p>L'Icaro Minippe.</p>
+<p><pb/></p>
+<p>Tous sont en possession de la vérité, et pas un ne s'accorde avec aucun
+autre. Fatigué de ces contradictions, de ces hypothèses absurdes,
+Ménippe a voulu s'assurer des choses par lui-même, et se rappelant
+l'exemple des aigles d'Ésope, il a été constater de visu l'état du ciel.</p>
+<p><pb/></p>
+<p>Lucien, essentiellement destructeur.</p>
+<p>Colloque de la Lune et de Ménippe.</p>
+<p>Raillerie aristo- phancsquc transportée au ciel.</p>
+<p><pb/></p>
+<p>rappeler l'histoire des Géants. Après quoi, tout en cheminant par le
+ciel, en compagnie de Ménippe, vers l'endroit d'où l'on entend ce qui se
+dit sur la terre, il demande au voyageur si le blé est cher là-bas, si
+les légumes-ont eu assez de pluie, si les pillards du temple de Dodone
+sont pris. Il est fort plaisant.,de voir le maître des dieux faire de
+telles questions : c'est la raillerie aristophanesque transportée de la
+terre au ciel même, et appliquée aux dieux au lieu de l'être aux simples
+mortels.</p>
+<p>Voyons, dis-moi un peu, continue Jupiter qui est en bonne humeur, ce que
+les hommes pensent de moi. La question est scabreuse. Cependant Ménippe,
+qui connaît mieux la cour qu'il n'en a l'air, ne ma nque pas de dire un
+peu hypocritement qu'on le respecte comme on doit respecter le souverain
+des dieux.</p>
+<p><pb/></p>
+<p>Jupiter ne voit pas si loin, et il en veut aux philosophes, gens qui
+introduisent dans le monde un trouble universel par leurs impiétés et
+leurs impertinences envers les dieux. Jupiter ne flatte pas le portrait :</p>
+<p>Jupiter ne ménage pas les couleurs de sa palette, et enchérit encore
+quand il montre ces maîtres de tempérance</p>
+<p>(1) Tatien, Discours apologé/ique adressé aux Grecs.</p>
+<p>Philosoph-es, portrait que</p>
+<p>Jupiter fait d'eux dans Lucien.</p>
+<p><pb/></p>
+<p>Aussi, quand lé rapporteur irrité demande aux dieux leur avis, un cri
+unanime et terrible lui répond : La foudre ! Soit, répond Jupiter, / la
+foudre. Pour les dieux malheureusement c'est fête, fête pour quatre mois
+(i) ; et Jupiter - se respecte trop pour commettre un sacrilège et
+frapper en ce temps. La justice aura son cours quand on sera sorti de
+ces jours de la prière et de la clémence.</p>
+<p>Lucien, -en maint endroit, et ici encore, s'est bien moqué des
+philosophes partagés en mille sectes, dont chacune prétend être en
+possession exclusive de la vérité, tout en professant, ceux-ci et
+ceux-là, des doctrines qui sont le feu et l'eau. Lucien a raison : la
+philosophie, qui constate la libre hardiesse de l'esprit humain,
+témoigne aussi d&amp; sa faiblesse. L'auteur des Vies Ii l'encan, du
+Pêcheur, de l'Icaro-Ménippe, se rapporte, comme s'il s'était entendu
+avec eux, aux docteurs de l'Eglise. Voici par exemple ce que dit
+Hermias, dans l'ouvrage intitulé Iri-i- sio Philosophorum, inséré dans
+toutes les collections des Pères et dans le Saint Justin d'Oxford,
+traduit enfin par extrait dans l'ouvrage de Nonotte intitulé : Les
+Philosophes</p>
+<p><pb/></p>
+<p>des trois premiers Siècles. Voici comment Hermias parle des philosophes
+et de leurs contradictions :</p>
+<p>C'est presque une page de Lucien.</p>
+<p>Hermias, comment il parle des philosophes.</p>
+<p>Démonax</p>
+<p><pb/></p>
+<p>Mœurs attiques la grâce.</p>
+<p><pb/></p>
+<p>celle qu'il avait préférée regardait cela comme un bonheur; les enfants
+même, qui ne se distinguent pas toujours par ces respects attendris, se
+pressaient autour du vieux maître pour lui offrir des fruits.</p>
+<p>Hermotime.</p>
+<p>Les sectes philosophiques. *</p>
+<p><pb/></p>
+<p>Tout l'imparfait de son écoi-ce humaine.</p>
+<p>laquelle suivre? Grand embarras!</p>
+<p><pb/></p>
+<p>Le dialogue affecte ici très heureusement la forme socratique. Lycinus
+veut savoir d'Hermotime de quelle secte il est : celui-ci répond qu'il
+est de la secte stoïcienne. Et comment y es-tu entré? demande Lycinus :
+tu n'as pas consulté sans doute les Stoïciens, car leur témoignage a peu
+de poids dans leur propre cause; tu n'as pas consulté apparemment les
+autres sectes : des adversaires n'auraient pas manqué de te dissuader
+d'entrer chez les Stoïciens. Tu ne t'es adressé ni aux uns ni aux
+autres, tu as d-onc consulté. des ignorants. Hermotime l'avoue avec
+quelque embarras, et puis il confesse qu'il s'est consulté aussi luimême,
+ et qu'il a été pris en voyant l'extérieur tout de convenance de
+cette secte qui repousse la mollesse des sectes épicuriennes et le
+négligé des Cyniques. Lycinus répond : Tu veux me faire une plaisanterie
+: ce sont les statues qu'on juge ainsi sur l'extérieur, sur le vêtement
+; les plus belles sont celles qu'un Phidias, un Alcamène, un ^ Myron ont
+revêtues des plus belles formes, des plus élégantes draperies ; mais
+s'il faut transporter cette règle dans l'appréciation des philosophies,
+comment feront ceux qui, étant-aveugles, voudraient cependant philosopher?</p>
+<p>Luciqp, caractère critique de son</p>
+<p>œuvre.</p>
+<p><pb/></p>
+<p>l'on n'y peut arriver sans un guide ; mais les guides sont nombreux et
+ne ' s'accordent pas : l'un vous indique une route facile, semée de
+fleurs, traversant des prairies, des ruisseaux délicieux, l'autre semée
+d'écueils, avec la soif pour compagne.</p>
+<p>Quel guide choisir? quel chemin prendre ?</p>
+<p>Hermotime entre dans le vif de l'argumentation en disant :</p>
+<p>Mais pour décider que deux et deux font quatre, il n'est pas besoin
+d'avoir consulté tous les mathématiciens de la terre ; quand même tous
+les mathématiciens du monde me diraient que deux et deux font cinq, cela
+n'en serait pas plus vrai. Ne changeons pas la question, répond
+Lycinus-: 'les dogmes, de la philosophie sont obscurs, bien loin d'être
+démontrés comme les vérités matbématiques. Et Hermotime qui n'a pas fait
+son cours de philosophie sous M. Cousin ne sait pas lui faire la réponse
+que nousvindi- quions tout-à-l'heure : Qu'il y a'des vérités démontrées
+par elles-mêmes, des vérités évidentes et nécessaires,</p>
+<p><pb/></p>
+<p>Mais, insiste Hermotime, quand j'achète du vin, je n'ai pas besoin de
+boire toute la pièce pour savoir s'il est bon et pour décider pour ou
+contre; je goûte dans une coupe, et je connais la pièce entière. Eh bien
+! il en est de même de la philosophie ; il n'est pas besoin d'épuiser
+jusqu'aux derniers principes et aux dernières consé_quences les dogmes
+de chaque système pour en connaître la valeur ; un coup d'œil sur les
+vérités que chaque système proclame suffit.</p>
+<p>Philosophie : Faut-il boire toute la coupe ou l'effleurer seulement ?</p>
+<p>Philosophes et cabaretiers. y</p>
+<p><pb/></p>
+<p>o</p>
+<p>Lucien doit avoir son rang dans, l'histoire de la philosophie.</p>
+<p>Dialogue, veut un procédé un peu brusque.</p>
+<p><pb/></p>
+<p>Cette philosophie avait dans Lucien un adversaire redoutable, non pas
+seulement parce qu'il est un railleur, la plaisanterie même la plus
+heureuse n'a pas une haute valeur philosophique. Vauvenargues a dit : «
+La plaisanterie la mieux fondée ne persuade point, tant on est accoutumé
+qu'elle se fonde sur de faux principes. »</p>
+<p>L'auteur d'Hermotime savait saisir, avec la force et la justesse d'un
+esprit sérieux, les philosophies par leur point faible, et produire avec
+assurance ses observations sceptiques.</p>
+<p>^ (1) T. VII. -</p>
+<p>Vauvenargues : Mot sur la plaisanterie.</p>
+<p>Le Bacchus.</p>
+<p>Lucien, le fer caché sous le lierre</p>
+<p><pb/></p>
+<p>Lucien, après tout, ne s'en fait pas accroire, et ne s'efforce pas,
+comme on a tant de fois essayé de le faire depuis lui, de persuader à
+ses lecteurs qu'il est la .seule plume sensée, mordante et spirituelle;
+il serait plutôt tenté de faire assez bon marché de son talent et de son
+œuvre.</p>
+<p>l'un ni l'autre en mes pages. Ailleurs peut-être vous rencontrerez ces
+précieuses richesses; pour moi, je suis simple et ne sais pas les
+artifices de la parole : ne venez donc pas avec de trop hautes
+espérances, dans la crainte de les voir déçues. Oh ! le pauvre homme !
+Antoine aussi était un homme très simple. (V. le Jules César de
+Shakspeare).</p>
+<p>L'Ambre</p>
+<p>ou les Cygnes.</p>
+<p>Lucien ne s'en fait pas accroire.</p>
+<p><pb/></p>
+<p>CHAPITRE VIII</p>
+<p>. Sophistes et Rhéteurs. — La Sophistique.</p>
+<p>(1) C'est la Folie qui parle. Mwrias Encomium. Ed. de Bâle, in-Sa, p. 17°.</p>
+<p>Le Maître des Rhéteurs.</p>
+<p><pb/></p>
+<p>science et qui n'exige aucun de ces efforts qui prennent sur la vie et
+le bonheur, la sophistique sait encore ajouter au plaisir par les
+jouissances qu'elle procure.</p>
+<p>Les compositions. sophistiques de Lucien sont des amplifications dans le
+genre de celles qu'on peut faire dans les' collèges communaux les plus
+arriérés, dans les écoles reculées où circulent moins d'idées que
+d'exemplaires du De Viris. Tel est le Tyrannicida (T. IV).</p>
+<p>L'Empire</p>
+<p>Romain. domaine des sophistes,</p>
+<p>Compositions sophistiques de Lti,ien.</p>
+<p>Le Tyranllicida.</p>
+<p><pb/></p>
+<p>Érasme a fait dans le même sens du même morceau une réponse, une
+déclamation très longue et très verbeuse, pleine de mots éloquents, de
+phrases disertes, mais qui n'ont pas la vivacité énergique de celles de
+son ami le futur Chancelier, (i).</p>
+<p>(i) Voir le Volume intitulé Lucialli Opriscula, Erasmo iiiterprete.
+151g, in-8°. C'est au reste dans ce même volume que se trouve le morceau
+cité de Thomas Morus.</p>
+<p>Morus réponse au Tyrannicida.</p>
+<p>Érasme</p>
+<p>sa réponse au Tyrannicida. -</p>
+<p><pb/></p>
+<p>Les sujets de déclamation sophistique choisis par Lucien ne nous
+donneraient pas, si nous nous y reportions exclusivement, une haute idée
+de l'art qui passionnait les auditoires antiques. Ce serait bien le cas
+de répéter avec Fénelon (i) : « Je ne souffre point dans ma république
+d-e gens oisifs qui amusent les autres, et qui n'aient point d'autre
+métier que celui de parler. »</p>
+<p>C'est le triomphe de la phrase simple, éloquente, abondante et vive. Ils
+avaient un tel besoin de débiter des paroles, ces rhéteurs, qu'ils'
+prononçaient des discours publics jusque sur la mort de leurs fils. (2).</p>
+<p>(1) Dial. sur l'Eloquence,</p>
+<p>(2) Disc. 2 3 d'Himerius, sur la mort de son fils Rufinus. Philostratomm
+Opera- Eunapius et lIlimerills. Collection Didot.</p>
+<p><pb/></p>
+<p>Apollonius interrogé une fois par Euxène pourquoi il n'écrivait rien :
+C'est, dit-il, que je n'ai pas encore gardé le silence. Et dès ce
+moment, il garda le silence pendant cinq ans, observant et mettant les
+choses dans sa mémoire comme dans un trésor (i). Cette méthode de
+perfectionne-</p>
+<p>(1) Vie d'Apollonius, par Philostrate, L. 1, c. 14. De ces lèvres
+silencieuses, après la méditation sortaient des prières comme celle-ci «
+0 Soleil, envoie-moi aussi loin qu'il te semble bon pour toi et pour moi
+; fais-moi la grâce de connaître les gens de bien, de ne point connaître
+les méchants et de n'en être point connu ),. Phil. L. I, ch. 31 ; et
+cette autre, toute chrétienne</p>
+<p>« 0 Dieux, faites-moi la grâce d'avoir peu et de n'avoir besoin de rien.
+» Philost.</p>
+<p>L. l, ch. 34.</p>
+<p>Sophistes, les Silicis que</p>
+<p>Irailaienl les plus distingués.</p>
+<p>Éloquence parlementaire chez les sophistes.</p>
+<p>Apollonius, mot - sur le silence.</p>
+<p><pb/></p>
+<p>Lucien, nous le savons par lui-même (Zeuxis, T. IV), était très suivi et
+très applaudi dans ses exercices déclamatoires et ses leçons de rhéteur,
+qui étaient alors le complément indispensable de toute éducation bien
+faite ; sa modestie même s'en effarouchait quelquefois * mais
+l'empressement élogieux de ses auditeurs ne faisait que redoubler.</p>
+<p>Le Scythe, de</p>
+<p>Lucien.</p>
+<p>Lucien très suivi dans ses déclamations.</p>
+<p><pb/></p>
+<p>L'appréciation critique que le rhéteur nous donne ici de lui-même est
+précisément la nôtre : nous ajouterons seulement aux louanges de ses
+contemporains la grâce du discours dont ils ne parlaient pas et qui est
+cependant le mérite réel et durable de Lucien, celui que lui a reconnu
+un juge excellent et délicat, M. BQissonade (1) : c'est presque, il faut
+le dire, la seule recommandation de ces pages que Lucien a mises, je ne
+sais trop pourquoi, dans la collection de ses oeuvres, car elles n'y
+ajoutent pas une idée.</p>
+<p>1 (1) Art. Lucien de la Biographie Universelle.</p>
+<p>Le style, mérite des compositions déclamatoires de Lucien.</p>
+<p>Le Maître des Rhéteurs.</p>
+<p><pb/></p>
+<p>Ces préceptes satiriques sont un tableau des mœurs oratoires de l'époque
+: telle est du moins leur prétention affichée ; ils nous disent ce que
+c'était, au temps de Lucien, que la profession de sophiste ou de
+rhétenr. La première</p>
+<p><pb/></p>
+<p>L'art dé Démosthène et d'Hypéride, et celui de Platon et de Socrate,
+confondus en un seul, en étaient là, et c'est en réalité ce que les
+décadences font des plus belles facultés du génie humain. Mais il n'est
+que juste après cela d'ajouter que les pages de Lucien sont empreintes
+d'une exagé- tation évidente : la satire n'est guère possible sans
+l'emploi des verres, grossissants.</p>
+<p>(i) Matter, T. 2, p. 4°.</p>
+<p>bophistes : ils ne sont pas responsables de lout le mal dans le monde
+antique.</p>
+<p>Sophistes une image de la philoso,phie subsiste en eux. 1</p>
+<p><pb/></p>
+<p>Tous les philosophes n'étaient pas ces parasites sans pudeur que nous
+avons vus dans le De Merccde conduclis; tous les sophistes et les
+rhéteurs n'étaient pas ces indignes</p>
+<p>{2) Eunapius, de Viits Philosophors"lI tt Sophislar/lm, 1616.</p>
+<p>Sophistes : ceux qui méritent d'être honorés.</p>
+<p><pb/></p>
+<p>(1) Philostrate, Vie de Polémon.</p>
+<p><pb/></p>
+<p>(i) Historia Áugusta, in Cassio, c. 3.</p>
+<p>Empereurs, ont ambitionné la gloire des sophistes.</p>
+<p>Sophistes, presque rois.</p>
+<p>Décadence romaine l'esprit y condnisait</p>
+<p><pb/></p>
+<p>(1) Les Lapithes, T. )x.</p>
+<p>L'argent.</p>
+<p>Les Lapithes, ou le Banquet des Philosophes.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Sénèque sous Néron, Marc-Aurèle, contemporain des premières décadences
+de l'empire romain, rachètent bien des phrases vides, bien des
+déclamations de sophistes et des vices de rhéteurs. Ce qui reste donc de
+vrai, c'est que nous sommes dans la décadence d'une société, et d'une
+civilisation, et que plus les sociétés et les civilisations ont été
+brillantes, plus elles laissent après elles, quand elles commencent à
+s'éclipser, de ténèbres et de laideurs.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>CHAPITRE IX</p>
+<p>Les Amours et les Courtisanes.</p>
+<p>Amores, vilaines pages.</p>
+<p>Dialogues des Courtisanes.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>La pièce de Plaute qui a pour titre Iruailentus est, sur ; le sujet des
+courtisanes, un excellent et vivant commentair des dialogues où Lucien a
+spécialement reproduit les</p>
+<p>(1) Voir le roman d'Aga/boll.</p>
+<p>Courtisanes de Lucien, les hétaires.</p>
+<p>Plante, les courtisanes chez ce poète,</p>
+<p><pb/></p>
+<p>.... Nam ecastor neminem</p>
+<p>Mage amat corde atque animo suo, siquidem habes fun- dum atque oedes.</p>
+<p>Cet Astaphie a des maximes impitoyables : s'il est dans' le besoin,
+dit-elle en parlant du pauvre Dinarque, il faut</p>
+<p><pb/></p>
+<p>bien qu'il nous laisse faire bonne chère ; la vie a ses retours ; ainsi
+va le monde.</p>
+<p>Les hétaïres de Lucien ne sont pas indignes de ces courtisanes du vieux
+poète latin, et on voit par les échantillons que nous avons donnés de
+leurs gestes, faits et paroles, qu'elles sont bien en effet de la-même
+famille, considérant un amant comme un fonds de terre, une rivale comme
+un voleur qui vient vous dépouiller, estimant le premier suivant ce
+qu'il rapporte, et employant contre l'autre tous les moyens comme en un
+cas de légitime défense. *</p>
+<p><pb/></p>
+<p>CHAPITRE X.</p>
+<p>Lucien romancier.</p>
+<p>/</p>
+<p>Dans ces Dialogues des Courtisanes, Lucien était presque un auteur
+comique ; dans l'ouvrage qu'il a intitulé Lucius ou l'Ane, il est
+tout-à-fait romancier. L'Ane est bien un roman avec sa fable, son
+développement, sa contexture d'incidents, ses suspensions calculées
+d'intérêt et son dénouement ménagé et habilement caché. Il est à
+regretter qu'on y trouve des peintures licencieuses, et telles qu'une
+plume moderne n'en écrirait jamais, pas même celle de Lemercier dans les
+Quatre Métamorphoses ; de ces pages dont les traducteurs, quelque bonne
+volonté qu'ils aient d'ailleurs,'sont obligés de resserrer en une ligne
+le terrible détail.</p>
+<p>L'Ane de Lucien</p>
+<p><pb/></p>
+<p>(i) Amyot nous l'a traduit, ainsi que Daphnis et Ch/ge,</p>
+<p><pb/></p>
+<p>et des roses, s'en voit toujours écarté. Après bien des mésaventures,
+bien des misères et des coups, cette heure de la métamorphose et du
+salut arrive enfin ; et cette scène où l'âne, héros du livre, est exposé
+en public pour des prouesses que nous ne définirons pas ici, n'est pas
+la moins curieuse du roman.</p>
+<p>(3) 1818, in-12 Et dans ses Œuvres complètes, 4 vol. ino8n. Sautelet,
+IS3°. Dans le même volume sont les essais de traductions d'Hérodote,
+fragments du Liv. Ier, Liv. III, fin du Liv. vin, commencement du Liv.
+ix Plus Laplmis el Chloi, et Péri- elès, traduction libre et abrégée de
+Plniarque.</p>
+<p>-. (4) Journal des Savants, 1819. ~-</p>
+<p>L'Ane : Quel j en est l'auteur.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>*</p>
+<p>L'Histoire véritable.</p>
+<p><pb/></p>
+<p>Voici que ces singuliers bataillons arrivent en présence de l'armée
+ennemie. Les ânes qui servent de trompettes dans les deux armées sont
+chargés de donner le. signal, et le combat s'engage. L'armée de la Lune
+où se distinguent quatre vingt mille hippogypes, vingt mille
+lachanoptères, grands oiseaux dont chaque plume est une immense feuille
+de laitue, trente mille puces sagittaires, chacune grande</p>
+<p><pb/></p>
+<p>comme deux éléphants, trente mille anémodromes, sans compter le reste,
+cette armée donne avec toute son impétuosité sur l'armée rivale, non
+moins singulièrement composée : les hippofourmis, les moucherons
+archers, infanterie légère, mais tenace, et d'autres corps nons moins
+remarquables, font figure dans cette armée de Phaéton : le "choc
+s'engage, il est terrible. Enfin les guerriers de la Lune sont
+vainqueurs, et dressent deux trophées.</p>
+<p><pb/></p>
+<p>Lucien a été d'autres fois imité plus heureusement dans toutes sortes de
+voyages imaginaires : il y a toute une collection sous ce titre. Je ne
+signalerai aucune imitation; je ferai un seul rapprochement. Nous
+trouvons dans Firdous : (Livre des Rois traduit en français pour les
+heureux du monde en un magnifique volume in-folio) un voyage digne de
+tous ceux de l'Histoire véritable. Le roi Kaus veut explorer le ciel, il
+se fait porter dans unqc7 nacelle faite de bois d'aloës et soutenue par
+des aigles. Aux quatre coins du char aérien sont plantées quatre
+javelines. Au sommet de chaque javeline est fixé un morceau de chair de
+bouc. Les aigles placés plus bas volent de toute la force de leurs ailes
+pour atteindre le morceau friand et emportent rapidement la nacelle. Le
+roi Kaus est emporté aune prodigieuse hauteur; puis enfin, les ailes
+fatiguées des aigles se rabattent vers la terre, et déposent
+l'extravagant voyageur dans une affreuse solitude. ,</p>
+<p><pb/></p>
+<p>CHAPITRE XI.</p>
+<p>Lucien dans son sérieux.</p>
+<p>La bonne rhétorique.</p>
+<p>(I) T. IV. Quomodo Historia sit covscril enda.</p>
+<p>(2) Mémoires de l'Académie des Inscr. T. XXV.</p>
+<p>Traite sur la manière d'écrire l'histoire.</p>
+<p><pb/></p>
+<p>(3) Lucien, au commencement de ce traité même. 1</p>
+<p>Maladies: chaque ^ époque a la sienne.</p>
+<p>Diogène</p>
+<p>et son tonneau.</p>
+<p><pb/></p>
+<p>Préceptes de Lucien : application qu'on en peut faire aux historiens nos
+contemporains</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>(i) Samosate était la capitale de la Commagène.</p>
+<p><pb/></p>
+<p>pages d'histoire improvisée qui coulent comme l'eau et qui sont lues
+cependant.</p>
+<p>Historien : qualités qu'il doit réunir.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>il doit s'en rapporter aux témoignages qu'il a pu recueillir, en
+s'attachant de préférence aux témoins qui lui semblent avoir le plus
+d'impartialité. Recueillir les témoignages et en former un corps, c'est
+son premier devoir : il y mettra ensuite les justes ornements.</p>
+<p>Tels sont les principes les plus essentiels que développe excellemment
+Lucien, résumés en ce précepte salutaire d'écrire toujours en vue de la
+vérité et de la postérité. Il termine : Si quelqu'un profite déniés
+conseils et écrit l'histoire suivant les vues que j'ai développées, je
+n'aurai pas écrit en vain; sinon j'aurairoulé mon tonneau dans le
+Cranée. (i) On ne peut trop s'étonner que de tels conseils, dictés par
+la saine raison, par le plus simple bon sens, aient été si parfaitement
+oubliés qu'ils semblent s'adresser comme des satires ;i la plupart des
+historiens nos compatriotes et nos contemporains. Ah ! Diderot avait
+bien raison- de relire chaque année la grammaire; les préceptes de cette
+science peuvent bien sortir de la mémoire, quand nous voyons les
+indications du bon sens, dont Lucien a été uniquement l'organe, tomber
+si facilement dans l'oubli et même dans le dédain.</p>
+<p>(2) Voici le passage de Cicéron, qui se rapporte aux commentaires de
+César : a Commentarios quosdam scripsit rerum suarum, valde quidem
+probandos : nudi enim sunt;--recti et venusti, omni ornatio orationis
+tanquam veste detracta. Sed dum voluit alios habere unde parata sumerent
+qui vellent scribere historiam, ineptis gra- tum fortasse fecit qui
+volunt illa cal.imistris inurere, sanos quidem homines a scri- bendo
+deterruit.</p>
+<p>Autre passage de Ciceron Nihil est in historia pura et illustri
+brevitate dulcius.» Ibid.</p>
+<p>Bon sens : combien ses préceptes s'oublient</p>
+<p>- vite.</p>
+<p><pb/></p>
+<p>Fénelon dit aussi (Dial. s. l'Elog. 593 : « Le bel esprit (lisez fausse
+éloquence, haute couleur, etc.) a le malheur d'affaiblir les grandes
+passions qu'il prétend orner. »</p>
+<p>Et il dit encore (Ib. p. 577) dans un ordre d'idées qui cherche le beau
+dans la pensée plutôt que dans l'ornementation : « On doit faire en
+sorte que le discours aille toujours croissant, et que l'auditeur sente
+de plus en plus -le poids de la vérité. » Mais que dis-je? et ne vais-je
+pas faire sourire nos contemporains, habitants d'un Olympe radieux, en
+remettant sous leurs yeux épris de toutes les transfigurations, ces
+belles simplicités de l'histoire naissante ? Ils se moqueraient de moi
+si j'osais leur rappeler ks noms de Rollin, de Hume, de Robertson.</p>
+<p>(2) Dans son hssay on History, first Epistle, v. 63 et s.</p>
+<p><pb/></p>
+<p>vie qui jettent dans ta prose attique une immortelle douceur ! » -</p>
+<p>Et en simple prose, dans des notes variées et curieuses, qui sont la
+partie la plus intéressante de ses œuvres de poète, (i) il dit encore
+ceci :</p>
+<p>(1) Londres, 6 vol. in-8°.</p>
+<p>(2) Cêst le n° 41, que nous avons résumé plus haut.</p>
+<p>(3) T. VI.</p>
+<p>(4) Il faut les rapprocher de celles d'Hérodote, Livre IV, où
+l'historien nous a laissé sur les Scythes de si curieux récits,</p>
+<p>Toxaris - L'amitié.</p>
+<p><pb/></p>
+<p>Scythes : traits de noeui-s caractéristiques.</p>
+<p><pb/></p>
+<p>L'amitié est l'inspiration du Toxariï. Un autre sentiment non moins
+noble, non moins élevé respire dans l'Eloge de</p>
+<p>(1) Hérodote, L. IV, n° 62.</p>
+<p>(2) Ibid. n° 66.</p>
+<p>Hérodote détails de mœurs Scythes ; -la Barbarie héroïque.</p>
+<p>Éloge</p>
+<p>de Démosthènc.</p>
+<p><pb/></p>
+<p>(3) T. IX.</p>
+<p>- (4) T. IX, p. 142. Nos 12-14.</p>
+<p><pb/></p>
+<p>Thomas juge comme je le fais moi-même cet 'Éloge de Démosthène dans son
+ouvrage trop déprécié, l'Essai sur les Eloges. Il fait d'abord une
+intéressante analyse de l'oeuvre de Lucien; il ajoute : « Telle est à
+peu près l'idée- et le plan de cet Éloge. La première moitié a cet
+agrément qui caractérise presque tous les ouvrages de Lucien; la
+dernière est pleine de grandeur ; elle est digne des plus beaux temps de
+la Grèce. On dirait que Lucien a pris le ton de Démosthène pour le
+louer. » (2).</p>
+<p>Mais ce n'est pas, je crois, l'expression d'un bon sentiment que nous
+trouverions dans les Epistolœ Saturnales. (3) Ces Épitres sont précédées
+d'un dialogue entre Saturne et</p>
+<p>-(i) Plutarque, Vu- de Démosthène ; Pausanias, Att.</p>
+<p>(2) T. l, Ch. IX, p. 91, in-12. -</p>
+<p>(3) T. IX.</p>
+<p>Epistolœ Saturnales.</p>
+<p><pb/></p>
+<p>Le prêtre païen sa condition.</p>
+<p><pb/></p>
+<p>Problême social posé par Lucien.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>poules toutes plumées étendront leurs ailes et s'échapperont de la
+cuisine. Pour comble de malheur, les plus beaux et les plus jeunes
+échansons deviendront chauves tout d'un coup et briseront maladroitement
+vos plus belles amphores.</p>
+<p>La Navigation ou les Souhaits.</p>
+<p><pb/></p>
+<p>(I) Adversus inMe/um, T. VIII.</p>
+<p>Lucien respecte les lettres.</p>
+<p>Le Cynique — Le Mondain de</p>
+<p>Voltaire.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>CHAPITRE XII.</p>
+<p>Le Paganisme dans les temples et hors des temples. — L'Olympe.</p>
+<p>De Dea Syria.</p>
+<p><pb/></p>
+<p>Lucien, ce qu'il avait vit dans les temples.</p>
+<p><pb/></p>
+<p>qu'elle avait traversé Lucien. En ces lieux, le fondateur qui avait eu
+la reine Stratonice pour collaborateur dans son œuvre architecturale et
+sacrée, a laissé son esprit encore survivant chez les Galles, prêtres
+furibonds de la Déesse : prêtres chantturs et joueurs de flûte et de
+tambour, qui précipitent du haut du temple les victimes destinées au
+sacrifice, et qui, quand ils meurent eux-mêmes, ont pour tombeau les
+pierres dont leurs collègues couvrent leur cadavre. Tout ce détail si
+particulier et qui nous entraîne bien loin des banalités générales se
+présente, je le répète, avec l'attrait d'une singularité véridique.</p>
+<p>L'Assemblée des dieux.</p>
+<p>Épuration de l'Olympe.</p>
+<p><pb/></p>
+<p>(I) T. VI. Jupiler ConfutaHis-Jupiter iragcedus.</p>
+<p>(2) bistitutionum, L. V, cap. 19.</p>
+<p>Paganisme, n'a\ait point 'enseiqnement officiel Lactance cité.</p>
+<p><pb/></p>
+<p>(1) T. VII,.p. 203, n° 5.</p>
+<p>Jupiter aux abois.</p>
+<p><pb/></p>
+<p>Tu as lu comme moi les poèmes d'Homère, dit le Cynique au dieu, et tu y
+as vu que rien n'arrive sans la volonté des Parques, que tout dépend du
+fil qu'elles allongent ou qu'elles accourcissent sous leurs doigts. Cela
+est-il vrai pour vous comme pour les hommes? Jupiter vou- - drait bien
+faire le mystérieux : Il ne t'est pas donné de pénétrer ces secrets,
+Cynique, lui dit-il; mais-le Cynique ne se laisse pas arrêter par ces
+faux-fuyants, il lui faut une</p>
+<p>(i) Iliade, Lib. VIII. v. 17 et suiv. -~,</p>
+<p>Ironie, ses vastes proportions chez Lucien.</p>
+<p><pb/></p>
+<p>Ainsi finit cette ironie immense, dans le développement de laquelle
+Lucien est fout entier, avec toute sa verve, avec tout son esprit, mais
+aussi avec tout son cynisme d'incrédulité.</p>
+<p>On pourrait croire que Lucien, dans ces pages où il bous montre les
+dieux sous le joug et- débordés par les Destins ou Parques, a exagéré à
+plaisir, au gré de ses fantaisies toutes sceptiques. Je veux faire voir
+clairement ici, en traduisant un passage d'Hérodote (i), que Lucien
+s'est contenté de mettre sous forme de raillerie acérée l'histoire</p>
+<p>(i) Lib. 1, nO 91.</p>
+<p><pb/></p>
+<p>Jupiter</p>
+<p>le Tragédien.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Jupiter, comme de raison, ne s'émeut pas plus qu'un ministre
+constitutionnel : laissons parler ce criailleur, dit-il, et moquons-nous
+du reste. Neptune, qui est quelque</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Les choses ainsi préparées, Lucien met en scène les deux adversaires qui
+se disputent en termes de crocheteurs plutôt qu'avec les formes de
+l'argumentation philosophique. Timoclès ne se fait pas faute d'injures,
+et Jupiter n'est pas avare de ses cris Courage, Timoclès! n'épargne pas
+les gros mots, tu n'as que cette ressource; du reste, si tu te mêles de
+raisonner, ton adversaire te rendra muet comme un poisson. N'est-ce pas
+chose plaisante d'entendre Jupiter exprimer ainsi sa confiance dans sa
+cause et dans son avocat? Timoclès croit opposer un excellent argument à
+son adversaire athée en lui mettant sous les</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>(i) C'est peut être dans Ce passage que S. Brandt a puisé l'idée de son
+Vaisseau des FOlls, dont nous aurons occasion de parler plus tard.</p>
+<p><pb/></p>
+<p>Aussi, après avoir lu les blasphèmes spirituels, mais étroits de notre
+Syrien, on éprouve le besoin d'écouter une haute parole :</p>
+<p>(1) Le Divorce, Tome V des OE,,t,re, Co,,,plètes.</p>
+<p>Le paganisme en lambeaux.</p>
+<p><pb/></p>
+<p>troisième, c'est l'art, c'est l'habileté toujours assujettie aux deux
+premiers. » (2)</p>
+<p>Lucien, Voltaire.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>trines dont il se constituait l'adversaire, assez de vie, de force et de
+colère pour que, le combat ne fût ni sans gloire ni sans chances
+apparentes pour ceux qui ne tenaient pas,</p>
+<p>comme les grands Docteurs de l'Église, le fil des destinées éternelles :
+le Christianisme, au temps de Voltaire, n'avait point la colère, s'il
+avait la vie.</p>
+<p>(1) Dans Fabricius, Btb. Grceca, T. III, p. 487.</p>
+<p>Lut ien a-t-il été chrétien ?</p>
+<p><pb/></p>
+<p>Singulier temps, singulier esprit ! Lucien ne croit point au paganisme,
+et il attaque les chrétiens ; il combat le mensonge et ne veut point de
+la vérité. Les martyrs montent sur les bûchers honorables que dressent
+pour eux les empereurs, représentants de la puissance religieuse sous
+ses formes antiques ; Pérégrin, en pleins jeux Olympiques, monte sur le
+bûcher qu'a dressé sa propre et inconcevable vanité ; il se brûle pour
+être applaudi, et le monde qui a vu les martyrs des Saints, d'où germent
+les vertus, les hauts enseignements, se moque de ce martyre ridicule et
+apprêté d'un histrion qui ne sait que faire de la vie, et qui s'en
+débarrasse, ne pouvant la rendre ni utile ni glorieuse.</p>
+<p>(1) Scholiastes groecuç, ad librum de Morte Peregrini.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHAPITRE XIII.</p>
+<p>Des Charlatanismes et des Supercheries dans l'antiquité.</p>
+<p>(1) De Morte Perigrhii, T. VIII.</p>
+<p>La mort de Pérégrin</p>
+<p><pb/></p>
+<p>Aulu-Gelle en pouvait parler savamment, il était ami de Pérégrin et
+Fallait voir souvent dans une cabane où il demeurait près d'Athènes. Il
+le cite comme un homme grave et constant, qui s'était attaché des
+disciples, entre autres Théagène. Lucien a quelquefois nommé ce dernier.
+Ammien Marcellin (Liv. XXIX) l'appelle un illustre philosophe et loue
+beaucoup sa mort. Philostrate la donne au moins comme une preuve
+d'intrépidité.</p>
+<p>Le morceau où Lucien s'est moqué de Peregrinus avec un mauvais goût
+cruel, demeure curieux cependant par le jour qu'il jette sur les mœurs
+d'une philosophie en déca-</p>
+<p>(l; Liv. XII, c. Il.</p>
+<p>Lucien en danger de la vie.</p>
+<p>Décadence : férocité des âmes,</p>
+<p><pb/></p>
+<p>Bùcher de Peregrinus, distraction pour la foule.</p>
+<p>Les Fugitifs.</p>
+<p><pb/></p>
+<p>« Il y eut dans .l'antiquité, dit le moqueur français, des.sophistes qui
+furent aux philosophes ce que les singes sont aux hommes. » (i)</p>
+<p>(i) Voltaire, le Philosophe ignorant, § 46. Philosophie, T. 2, Edon
+Renouard.</p>
+<p>Sophistes, définis par Lucien.</p>
+<p>Voltaire, mot sur les sophistes.</p>
+<p>Alexandre oii le.faitx Devi-n.</p>
+<p><pb/></p>
+<p>(i) Voir sa Vie dans Philostrate.</p>
+<p>Les charlatans qui se dupent eux-m^mes et les charlatans qui dupent les
+autre*.</p>
+<p>Magie des imposteurs.</p>
+<p><pb/></p>
+<p>l'humanité, qui n'est autre que la multitude, la vile multitude, l'eau
+trouble où chacun a le droit de pêcher.</p>
+<p><pb/></p>
+<p>Alexandre, les Mormons.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>des pays les plus mystérieux de l'Inde, et en revanche ils portaient à
+ces magiciens beaucoup d'argent.</p>
+<p>Ce serpent du faux prophète Alexandré n'était pas absolument une
+invention nouvelle : nous le retrouvons dans le satirique Juvénal : les
+Galles menaçaient les dames romaines qui avaient péché du serpent
+d'argent :</p>
+<p>Ille petit veniam quoties non abstinet uxor Concubitu. sacris
+observandisque diebus; Magnaque debetur violato poena cadurco, ' Et
+movisse caput visa est argentea serpens.</p>
+<p>- « Il faut demander grâce toutes les fois que votre femme a oublié la
+chasteté aux jours sacrés où elle est prescrite : le lit offensé réclame
+une peine rigoureuse, et l'on voit alors le serpent d'argent remuer la
+tête. »</p>
+<p>Juv. Sat. VI, v. 535 et suiv.</p>
+<p>Mais que serait un prophète privé de la communication avec ces dieux
+qu'il peut faire vivre ou revivre, un prophète qui ne rendrait pas
+d'oracles? — Bien peu de chose - assurément dans cette antiquité qui
+attachait un prix si merveilleux aux révélations de l'avenir interdit à
+l'intelligence usant de ses procédés ordinaires. Alexandre rendra donc
+des oracles, c'est chose décidée, et toutes ses jongleries n'étaient que
+le préliminaire obligé de l'établissement de son autorité comme
+révélateur des choses futures.</p>
+<p>Le temple s'est élevé pendant les premières exhibitiôns de l' aventurier
+; le sanctuaire est prêt ; il n'attend plus que la voix qui viendra
+illuminer ces obscures intelligences çiliciennes : laissez-le faire,
+l'habile homme, il sait son</p>
+<p><pb/></p>
+<p>Alexandre d'ailleurs connait le style des oracles et ne déroge pas aux
+habitudes si fort en usage dans les sanctuaires pythiques ; il
+s'enveloppe de l'obscurité convenable ; il multiplie les amphibologies,
+ou s'il daigne quelquefois s'expliquer plus clairement, il a soin de ne
+pas ménager les promesses d'héritages, de succès conquis, de- fortunes
+accomplies ; mais il ne manque pas de rejeter toutes ces promesses dans
+un avenir assez éloigné; il ajoute surtout, avec une prudence fort digne
+d'éloges : tout cela arrivera si je le veux et si mon prophète Alexandre
+(c'est le dieu qui parle, c'est Esciilape) se porte médiateur pour vous
+et se fait l'interprète de vos prières.</p>
+<p>Ils savaient bien ce qu'il fallait prédire A leurs dupes, ces habiles
+charlatans, instruits aux mystères du cœur</p>
+<p><pb/></p>
+<p>,. JEre minuto Qualia.cumque volesjudasi somnia vendunt;</p>
+<p>Spondet amatorem tenerum, vel divitis orbi -Testamentum ingens, calidae
+pulmone columbas Tractato, Armenius vel Commagenus aruspex.</p>
+<p>Juvénal, Sat. VI, v. 547 et suiv.</p>
+<p>Le cœur humain est le même partout et dans tous les temps, et ceux qui
+le font leur dupe le savent bien : leurs procédés ne varient guère.</p>
+<p>Cœur humain, toujours le même.</p>
+<p>Beau revenu que procure l'imposture.</p>
+<p><pb/></p>
+<p>Là-dessus, on le pense bien, grand concours de peuples : on se presse,
+on s'étouffe autour du sanctuaire d'où partent ces prodigieuses
+révélations. Sacrifices et révélations se multiplient : double aubaine
+pour le prophète, disciple chéri du dieu. Cet oracle n'avait-il pas été
+prononcé :</p>
+<p>Honorez mon ministre et mon prophète. Pour moi je dédaigne les
+richesses, je n'en veux que pour lui.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Singulière influence d'tin charlatan dans</p>
+<p>l'État.</p>
+<p><pb/></p>
+<p>La fin du faux prophète, qui avait eu la maladresse de se laisser
+pénétrer par un œil comme celui de Lucien, fut</p>
+<p>Lucien se inoqne d'Alexandre.</p>
+<p><pb/></p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHAPITRE XIV.</p>
+<p>De la religion de Lucien.</p>
+<p>Le Philopatris.</p>
+<p><pb/></p>
+<p>Jupiter et une raillerie contre les disciples du Christ; Au</p>
+<p>Lucien, nullement chrétien.</p>
+<p><pb/></p>
+<p>(1) Mémoires de l'Acad. des Inscr. T. VIII p. 110.</p>
+<p>Evhémère ;</p>
+<p>SexlusEmpiricus.</p>
+<p>La Double" Accusation.</p>
+<p><pb/></p>
+<p>Procès entre la Rhétorique et le Dialogue.</p>
+<p><pb/></p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHAPITRE XV.</p>
+<p>Les petites choses dans Lucien.</p>
+<p>Mais l'Éloge de la Mouche (T. VIII) n'intéresse en rien l'esprit humain
+; cela intéresse tout au plus la vaine curiosité de ceux qui se
+demandent comment on peut parler sur des riens en disant de charmantes
+choses et en ne disant rien du tout.</p>
+<p>Cet Éloge de la Mouche rappelle bien des rhapsodies pour le moins
+inutiles et où le badinage disparait pour ne</p>
+<p>Sophistique, discute des sujets intéressants pour l'esprit humain.</p>
+<p><pb/></p>
+<p>Lucien du moins a mis dans cet Éloge de la Mouche quelque chose qui en
+déguise la nullité en chassant la monotonie; il a su y faire entrer des
+descriptions fort bie.n faites et gracieuses de l'insecte qui vole et
+bourdonne : la gaze de ces ailes diaphanes se retrouve sous cette plume
+qui court et effleure, presque comme elle pourrait le faire sous la
+plume heureuse et poétique de Bernardin de Saint- Pierre. Laissez
+l'éloge si vous voulez, et prenez cette portion de vive et légère
+anatomie, elle gardera son intérêt. Je retrouve un vice pareil et une
+beauté analogue dans un morceau que Lucien a intitulé Tragédie de la
+Goutte, rpayonodciypa. Le vice de ce dialogue (T. X), c'est d'être un</p>
+<p>(1) Apud Platonem, de Republica, Lib. 2. -</p>
+<p>(2) Philostr, Vie d'Apoll. L. 4 c. 3°.</p>
+<p>Tragopodngra.</p>
+<p><pb/></p>
+<p>« Hai ! hai ! s'écrie le patient soudainement frappé (v. 296 et s.) je
+n'en puis plus, je me meurs,, le mal aveugle a transpercé tous mes
+membres. La foudre de Jupiter ne blesse pas ainsi, le flot de la mer n'a
+pas de ces fureurs, la trombe qui éclate n'a pas cette violence.
+N'est-ce pas la morsure de Cerbère que je sens? N'est-ce pas la dent
+d'une vipère? Ma tunique a-t-elle été trempée dans du sang du Centaure ?
+Pitié, déesse, pitié, je n'ai point de remède contre toi ; de toi nul ne
+saurait triompher parmi les mortels. En tout point tu es la maîtresse
+victorieuse des hommes. »</p>
+<p>(1) Voir dans les Œuvres du philosophe américain le Dialogue de Franklin
+et de la Goutte.</p>
+<p><pb/></p>
+<p>Stobée, faisait bien l'éloge de la fièvre quand il avait la fièvre. (i)</p>
+<p>L'Éloge de la Mouche, la Tragédie de la Goutte ont probablement servi à
+amuser quelques-unes de ces matinées, où les désœuvrés et les ennuyés de
+Rome et de l'Empire Romain ouvraient avidement leurs deux oreilles aux.
+paroles creuses que les déclamateurs et les poètes de commande voulaient
+bien prodiguer en faveur de ces auditoires bienveillants, comme ceux qui
+écoutent chez nous Lamartine historien de la Russie, annaliste de la
+Turquie, répétiteur de l'esprit humain. Le métier était bon pour ceux
+qui avaient su conquérir la faveur publique.</p>
+<p>« Il emprunte une maison, il loue des banquettes, il répand des
+programmes. »</p>
+<p>On se faisait applaudir jusqu'au barreau par des gens gagés, tant il
+faut avoir la bourse bien garnie pour prendre place parmi les diserts :</p>
+<p>Tanti constat ut sis disertissimus (Pline le Jeune. Lib. 2, ep. 14.)</p>
+<p>Nil recitas, et vis, Mamerce, poeta videri.</p>
+<p>Quidquid vis esto, dummodo nil recites.</p>
+<p>Martial. Lib. II, ep. 88.</p>
+<p>Les matinées littéraires des Poètes et Déclamateurs.</p>
+<p><pb/></p>
+<p>« Tu veux qu'on te prenne pour un poète,'Mamercus, et tu ne récites rien
+; sois tout ce qu'il te plaira, pourvu que tu ne récites rien ».</p>
+<p>Nemo dabit regum quanti subsellia constent,</p>
+<p>Et quas conducto pendent anabathra tigillo, Quaeque reportandis posita
+est orchestra cathedris.</p>
+<p>Juv. Sat. VII, v. 4S et s.</p>
+<p>« Aucun de ces riches (littéralement de ces rois) ne te rendra ce que
+t'ont coûté ces banquettes que tu leur offres, tes gradins de louage,
+tes sièges d'orchestre qu'il faut déménager la séance finie. »</p>
+<p>Ces poètes et ces déclamateurs devenaient quelquefois cependant un fléau
+public : c'est que le déclamateur n'était pas toujours Lucien, le poète
+n'était pas toujours Stace.</p>
+<p>Semper ego auditor tantum ? nunquamnc reponam Vexatus toties rauci
+Theseide Codri ?</p>
+<p>Impune ergo mihi recitaverit ille togatas,</p>
+<p>Hic elegos ? Impune diem consumpserit ingens Telephus ? aut summi plena
+jam margine libri Scriptus et in tergo, necdum finitus Orestes? ' J
+uven. Sat. i, v. i - 6.</p>
+<p>Poètes et déclamateurs,quelquefois déclamateurs,quelquefois fléau.</p>
+<p><pb/></p>
+<p>m'aura-t-il', sans que je me venge, consumé tout un jour, ou cet Oreste
+qui remplit tout un rouleau, qui déborde sur le revers, et n'est pas
+fini encore ? »</p>
+<p><pb/></p>
+<p>CHAPITRE XVI.</p>
+<p>Lucien poète. — Les Épigrammes.</p>
+<p>(1) Bibliotkéque Grecque-latine, 2 parties, grand in-8°.</p>
+<p><pb/></p>
+<p>lument sur parole, et d'accepter aveuglément tout ce qu'ils nous ont
+donné sous le nom du célèbre Syrien ? Je crois qu'il nous est permis
+tout au moins de douter. Ce doute a été partagé par Zwinger, suivant
+lequel la chose fait question : Sub judice lis est. (1)</p>
+<p>C'est bien cela; il y a plus de tristesse que de rire dans ce'coup d'œil
+jeté sur la vie humaine :</p>
+<p>(i) V. la Préface De Vila et Scriptis Luciani de Zwinger reproduite dans
+la réim- , pression de l'éditiou G. Cousin, Bàle, 1602, 4 vol. in-8°.</p>
+<p><pb/></p>
+<p>« Tout est mortel pour les mortels ; tout nous échappe, et si les choses
+restent, c'est nous qui échappons aux choses. »</p>
+<p>Je crois retrouver encore Lucien dans cette épigramme : « Tant que tu
+seras heureux (i), les hommes te seront amis, les dieux te seront amis,
+et facilement ils écouteront tes prières. S'il t'arrive malheur, nul ne
+te sera plus ami, tout se tournera contre toi : la balance si elle
+penche nous entraîne avec elle ». (2)</p>
+<p>Toutes les épigrammes ne sont pas de ce ton : dans la 22e, Lucien rend à
+la grammaire (on sait quelle est chez les anciens l'étendue de ce mot
+qui comprend toutes les belles-lettres, et particulièrement l'art du
+rhéteur), un hommage qui ne doit pas nous étonner : Lucien serait un
+ingrat s'il n'avait pas aimé cette noufrice bienveillante qui lui a
+donné la renommée et l'aisance pendant sa vie, et qui mort, lui a laissé
+l'héritage de la gloire :</p>
+<p>« Salut, Grammaire, ô science de salut, remède contre les maux : déesse,
+chante la colère (3). A toi sont dus les dons les plus magnifiques, sur
+tes autels l'encens ne devrait pas cesser de fumer. »</p>
+<p>Si cette épigramme est de Lucien, la XXVIIe ne doit pas lui appartenir :
+aussi n'a-t-elle pas été admise dans l'édition Didot :</p>
+<p>(1) Littéralement Tant que tu ne donneras pas sur l'écueil, Mlî 7TTOCttoV.</p>
+<p><pb/></p>
+<p>Bytus peut n'être qu'une exception digne de raillerie, et jamais Lucien
+ne s'est fait faute d'une raillerie bien ou mal appliquée. -</p>
+<p>J'admettrais aussi la IXe épigramme supplémentaire</p>
+<p>(XXXIIe de Didot).</p>
+<p>« Le corbeau deviendra blanc, la tortue aura des ailes avant que vous
+trouviez un rhéteur de Cappadoce ayant le sens commun. »</p>
+<p>Lucien aura rencontré quelque rivalité cappadociènne gênante et sans
+valeur.</p>
+<p>« Enfant de cinq ans et dont le nom fut Callimaque, la mort qui ne
+s'attendrit point m'a ravi avant soucis et douleurs : ne pleure point
+sur moi : si peu de vie m'a été donné, petite aussi a été ma part de
+maux. »</p>
+<p><pb/></p>
+<p>La XXXVIIIe épigramme enfin (dans l'édition Didot; elle manque à
+l'édition de Deux-Ponts), est le type de toutes celles qui ont été
+faites depuis contre les médecins :</p>
+<p><pb/></p>
+<p>NOTE. — Pour le lecteur curieux, je joins ici dans une Note l'indication
+comparée des épigrammes de Lucien contenues dans chacune des éditions de
+Deux-Ponts et Didot : la première termine la série des éditions
+anciennes; l'autre peut tenir lieu des éditions nouvelles. Les épigrammes
+ suivantes se trouvent dans l'édition de Dtiux- Ponts, et n'ont
+pas été reproduites dans l'édition Didot : ce sont la 7e, la 13 e7, la
+15e, la 17e, la 20e, la 21e, la 24e, la 25e, la 27e, la 32e. Au résumé,
+dix épigrammes manquent dans l'édition Didot, sans que la raison de
+cette omission soit exposée. En revanche, l'édition Didot donne 4
+épigrammes nouvelles (non pas 5 , comme il est dit dans la Préface); ce
+sont': la 36e, la 37e, la 38e et la 42e, dont le premier vers manque.
+Les éditeurs de Deux-Ponts ont même donné les deux premiers vers de la
+36e; la suite leur a paru trop obscène pour- être imprimée, même en
+grec; elle l'est en toutes lettres dans l'édition Didot, et même la
+traduction latine. Cela vaut mieux, ces grandes publications ne sont pas
+pour des enfants.</p>
+<p><pb/></p>
+<p>CHAPITRE XVII.</p>
+<p>Lucien érudit.</p>
+<p>L'érudition et les Erudits.</p>
+<p><pb/></p>
+<p>C'est chose bien morte par elle-même qu'e l'érudition : la discussion,
+la dispute si l'on se sent assez heureusement doué pour en soutenir les
+assauts, devient un excellent moyen de mettre un peu de vie dans cette
+mort, un peu d'animation dans ce calme d'où il semble que rien ne puisse
+sortir, et les tempêtes encore moins que tout le reste.</p>
+<p>Lucien, guide en toutes choses érudites.</p>
+<p>Bains chez les anciens.</p>
+<p><pb/></p>
+<p>Balnea sexcentis ct pluris porticus in qua Gestetur dominus quoties
+pluit. '</p>
+<p>« On dépense six cent mille sesterces pour des bains et plus encore pour
+une galerie où le maître s.e puisse faire traîner quand il pleut. »</p>
+<p>Sat. VII, v. 178-79.</p>
+<p>Et encore aux vers suivants :</p>
+<p>j Parte alia, longis Numidarum fulta columnis</p>
+<p>Surgat, et algentem rapiat coenatio solem.</p>
+<p><pb/></p>
+<p>dant son édilité 170 bains pour le public. Ammien Mar- cellin a vu les
+bains des Romains grands comme des provinces. (1)</p>
+<p>Sénèque dit que les chambres des bains ordinaires étaient semblables au
+palais d'un prince (2). Stace enfin s'accorde avec tout cela (3) :</p>
+<p>Nil ibi plebeium, nusquam Temesæ a notabis Æra, sed argento felix
+propellitur unda, Argentoque cadit, labrisque nitentibus instat, -
+Delicias mirata suas.</p>
+<p>« Rien ici ne sent le peuple, nulle part tu ne verras l'airain vulgaire
+; de l'argent est chassée cette onde heureuse, l'argent reçoit le flot :
+pressé contre ces lèvres brillantes,</p>
+<p>il s'étonne de cette éclatante destinée. »</p>
+<p>« Le Peuple Romain hait le luxe chez les ^particuliers, il , aime la
+magnificence publique; il ne' yeut point de la pro-' fusion dans les
+festins, il veut encore moins de la négligence rustique; il sait
+distinguer ce qu'exigent les temps et les devoirs ; il admet en leur
+lieu le travail et le plaisir. » -</p>
+<p>Cette distinction ne se faisait plus au temps de Lucien; et un
+particulier, pourvu' qu'il fût riche, se croyait fort bien en droit
+d'égaler et de surpasser les magnificences impériales : de Peuple
+Romain, il n'en est plus question.</p>
+<p>(I) III modum provinciarum exsirurtn lavacra. Liv. XVI.</p>
+<p>(2) Lib. XIII, Ep. 86.</p>
+<p>(3) Silves, Liv. i. In Balmo EinlSci.</p>
+<p><pb/></p>
+<p>« Que celui qui entreprend une œuvre (sV/ov) l'annonce au regard par le
+dehors de loin éclatant. »</p>
+<p>. « Lucien, après avoir fait cette intéressante description, ,ajoutè :
+Qu'on ne me dise pas que je me suis donné un sujet peu digne de revêtir
+les ornements de l'éloquence. A ceux qui lui feraient cette objection,
+il répond très bien :</p>
+<p><pb/></p>
+<p>(i) Oixos, T. VIII.</p>
+<p>1</p>
+<p>la Maison.</p>
+<p><pb/></p>
+<p>parole : le spectacle lui fait comme une excitation. Le beau se coule
+par les yeux jusque dans l'âme; et la parole même se modèle sur les
+ornements parmi lesquels elle se produit ».</p>
+<p>Malherbe.</p>
+<p><pb/></p>
+<p>Peintures anciennes.</p>
+<p><pb/></p>
+<p>Philostrate le jeune n'est pas moins éloquent au début de ses Icones : «
+Ne refusons point aux arts le droit de se perpétuer éternellement, en
+n'osant point lever les yeux sur l'antiquité ; et si l'excellence a été
+atteinte par quelques- uns de nos prédécesseurs, ne craignons point
+d'entrer par l'émulation en lutte avec eux, en couvrant d'un prétexte
+notre lâcheté ; mais marchons sur les traces de ceux qui nous ont
+enseigné la route : si nous arrivons au but, nous aurons fait quelque
+chose dont on se souviendra; si nous restons en chemin, nous aurons du
+moins la louange de</p>
+<p>(i) Philostrate le Jeune est bien le petit-fils et non le neveu de
+Pliilostrate l'Ancien, s'il faut l'en croire du moins, de préférence aux
+érudits. Voir le commencement des Icones où il appelle l'ancien
+Philostrate |W/Tp07TaTtop.</p>
+<p>Philosl rate . et Lucten.</p>
+<p><pb/></p>
+<p>paraître animés du désir de rivaliser avec Les belles œuvres. »</p>
+<p>Le morceau intitulé Aétion (T. IV) nous reporte encore au même ordre
+d'idées : l'art en est également le sujet. Les amateurs y peuvent puiser
+des notions curieuses sur l'art dans l'antiquité. La première page, sur
+Hérodote, quoique fort belle et nous représentant avec vivacité le goût
+que les Grecs avaient pour l'éloquence et le beau langage, n'a point un
+intérêt égal : nous savons tous en effet cette histoire d'Hérodote
+applaudi aux jeux Olympiques par tout un peuple venant écouter avec
+enthousiasme ces chants qui étaient comme des hymnes : úp.vnr:¡xç, dit
+Lucien en parlant de l'antique et admirable historien. Mais sur Aétion,
+le peintre, nous sommes bien moins renseignés, et notre curiosité,
+naturellement est bien,plus vive.' Lucien nous fait voir ce peintre
+mettant sous les yeux des' Grecs rassemblés aux Jeux Olympiques un
+tableau de sa composition : c'est la première exposition, le premier Salon.</p>
+<p>Aétion.</p>
+<p>Peinture :</p>
+<p>le premier Salon.</p>
+<p><pb/></p>
+<p>Quel salon que celui-là, éclairé du plein soleil de la Grèce, et rempli
+des voix de cent mille spectateurs. Cela vaut bien une baraque aux
+Champs-Elysées, ou même une salle du Louvre, du Louvre de Henri II et de
+Charles IX.</p>
+<p>(1) Juvénal, Sat. XIII.</p>
+<p>Lucien , ell Ilacédoine,</p>
+<p><pb/></p>
+<p>(i) Pella, autrefois capitale de la Macédoine, était déserte au temps de
+Lucien. (V. l'Alexandre, n° 6). Cette capitale était alors Thessalonique.</p>
+<p>Un tableau de</p>
+<p>Zeuxis.</p>
+<p><pb/></p>
+<p>Une chose très singulière et très digne de remarque, c'est le besoin
+qu'avaient les Grecs — je parle maintenant de la race en général et non
+plus de ces intelligences choisies qui font les artistes — de briller,
+d'être vus, d'être admirés : ces natures méridionales mettaient en bien
+des cas le brillant avant le beau. Ainsi les Grecs, au moins ceux du
+temps de Lucien — avec Lucien nous sommes au temps de la décadence, ne
+l'oublions pas, et toutes les res-</p>
+<p>Artistes grecs, épris de la beauté.</p>
+<p><pb/></p>
+<p>Néron, ou dii, Percement de l'Isthme.</p>
+<p><pb/></p>
+<p>(1) Philostrate, Vie d'Apollonius, Liv. IV, ch. 35.</p>
+<p>1(2) Philostrate, Liv. V, c. 19.</p>
+<p>Un feuilleton musical chez Lucien.</p>
+<p><pb/></p>
+<p>Je ne voudrais pas répondre que les Grecs n'ont pas applaudi un peu à
+cette mimique exagérée ; mais.ils ont certainement applaudi beaucoup au
+brillant chanteur, qui venait de si loin et descendait de si haut pour
+charmer leurs oreilles délicates. Julien (mais Julien était un barbare,
+un Mœsien) ne se laisse pas séduire facilement : Appollon, dans la
+Satire des Césars, ouvrage de cet empe-</p>
+<p><pb/></p>
+<p>(1) Jul. Imp. Opera. Seb. Cramoisy, 1630, in-4°, pars secunda, p. 11.</p>
+<p>(2) ripOTXaXea, ri Hpaz).'/);. Prafatio, seu Hercules, T. VII.</p>
+<p>L'Hercule Gaulois.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>L'auteur de l'admirable traité De Senectute a dû, dans l'Élysée des
+vieillards souriants, saluer ce beau passage.</p>
+<p>(1) V. dans Hérodote, pour l'explication de ces mots passés en proverbe. Le</p>
+<p>Livre VI, ch. 127-130, et particulièrement le ch. 129.</p>
+<p>i~</p>
+<p>r</p>
+<p>Lucien, ingéniense justification de sa vieillesse éloquente.</p>
+<p>Lucien, mine de Mémoires pour l'Acadéinie des Inscriptions.</p>
+<p><pb/></p>
+<p>Lucien, la Danse.</p>
+<p><pb/></p>
+<p>instruments accompagnant ce spectacle, et les pieds frappant la mesure
+en cadence, tout cela fait un ensemble ridicule en vérité, et bien peu
+digne d'un homme libre, d'un homme tel que toi. L'oreille avait fait dps
+captifs, des compagnons d'Ulysse ; toi, c'est par les yeux que tu te
+laisses réduire en servitude.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHAPITRE XVIII. 1</p>
+<p>Enchantements et Superstitions.</p>
+<p>L'Ami des - Mensonges.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>(i) Il est question de ces livres des Egyptiens dans la Vie
+d'Apollonius, par Philos, trate.</p>
+<p><pb/></p>
+<p>Médecine - magique. — Recettes.</p>
+<p><pb/></p>
+<p>-, .tt tous les assistants de louer la sagesse cachée dans L'observation
+du Libyen.</p>
+<p>Mais, hasarde modestement Tychiade, croyez-vous pouvoir guérir par des
+incantations ou au moyen d'objets que l'on porterait sur soi, des maux
+qui résident uniquement au dedans?</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Les païens voulaient des miracles en se moquant des miracles ; mais les
+devins, en empruntant aux chrétiens, l'apparence de leurs miracles, se
+servent de leur art divinatoire même pour amener la ruine du
+Christianisme. Dioclétien a pris ses résolutions terribles contre les
+chrétiens ; cependant il veut encore un appui, et il le cherche dans
+l'art magique : Tagès, leur chef, l'excite, tant qu'il peut contre les
+chrétiens (1). Le même empereur fait</p>
+<p>(1) Laclant. De Morte, c. y&gt;.</p>
+<p>Parodie de l'Évangile.</p>
+<p>Les vieux Turcs.</p>
+<p>Dioclétien, per- . sécution, art magique.</p>
+<p><pb/></p>
+<p>consulter aussi l'oracle d'Apollon : la persécution com- mencera-t-elle?
+— L'oracle conseille la persécution.</p>
+<p>Un passage de Sozomène montre bien dans tout son -jour cette hostilité
+tantôt sourde, tantôt avouée, de l'esprit de magie contre l'esprit de
+l'Evangile. L'historien parle de l'empereur Julien : 1</p>
+<p>Les païens en invoquant l'art magique contre le Christianisme, croyaient
+élever puissance contre puissance ; et il fallut bien des années, bien
+des siècles pour tirer d'eux l'aveu qu'ils n'étaient pas les plus forts.
+Ils étaient ruinés avant que cet aveu leur échappât. "</p>
+<p>Chose singulière ! La superstition des peuples vieillis a son image et
+son modèle dans la superstition des peuples qui naissent; la vieillesse
+va rejoindre l'enfance. Nous avons entendu Lucien. Écoutons maintenant
+Hérodote, le rapprochement se fera de lui-même, il nous aura suffi de
+l'indiquer. Voici donc ce que raconte Hérodote (IV, 15) :</p>
+<p>(2) SOZOIl). L. V. c. 3.</p>
+<p>Vieillesse et enfance des peuples. — Superstition.</p>
+<p>Aristée, le poètc- corbeau.</p>
+<p><pb/></p>
+<p>Fantômes s'ébat- tant mieux aux approches de l'aurore.</p>
+<p>Justinien, démon.</p>
+<p><pb/></p>
+<p>(1) Procope, AvE'xd'Ó't'O!:, trad. par Isambert, Paris, F. Didot.</p>
+<p>- (2) L'analyse des idées, la logique.</p>
+<p><pb/></p>
+<p>Remarquez la malice de faire jouer au ^philosophe le rôle actif dans
+cette scène.</p>
+<p>— Tu nies tout, répond Ion avec mauvaise humeur. Nieras-tu aussi les
+démons et ceux qui les chassent du corps des possédés moyennant un
+modique salaire ?</p>
+<p>Tychiade nie effrontément, il n'a pas la vue assez subtile pour
+apercevoir les démons comme les Platoniciens</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1</p>
+<p>Là-dessus, grande curiosité de savoir cette histoire.</p>
+<p>Eucrate continue :</p>
+<p>C'est là-dessus que le médecin Antigone, abondant dans le sens
+d'Eucrate, raconte les tours que lui joue chaque nuit l'Hippocrate qu'il
+a dans sa maison. Et les</p>
+<p>(i) Alopex, bourg de l'Attique.</p>
+<p><pb/></p>
+<p>I.</p>
+<p><pb/></p>
+<p>Une ballade de Gcelhe dans Lucien-</p>
+<p><pb/></p>
+<p>Eucrate se tire d'affaire avec esprit, on le voit.</p>
+<p>( i) On reconnaît ici l'original dé la spirituelle ballade de Goethe,
+qu'on a intitulée gn'français l'App,-eiiti Sorçicr.</p>
+<p><pb/></p>
+<p>Anacharsis. Bon sens sérieux.</p>
+<p><pb/></p>
+<p>rence pour hôte et pour ami, décidé par ta réputation, par ce que j'ai
+entendu dire des lois que tu as écrites,, des mœurs excellentes que tu
+as fait adopter, des utiles institutions que tu as établies, de la belle
+harmonie que tu as mise dans le gouvernement. Instruis-moi donc, je suis
+ton disciple : sans boire, sans manger, avec bonheur je resterais là
+près de toi, et tant que la voix ne te manquerait pas, je t'écouterais
+exposer tes idées sur le gouvernement et lesJois.</p>
+<p>A cette invitation pressante, '-Solon répond avec une gravité qui n'a
+rien de dur :</p>
+<p>Éduc.ilions des Grues bol lo peinture qu'en fait Lucien.</p>
+<p><pb/></p>
+<p>Mais qu'on était loin, au temps de Lucien, qu'on était loin d'Anacharsis
+et de Solon! Tout se constituait au temps de ces philosophes, tout s'en
+allait au temps du railleur syrien. Les philosophes étaient devenus des
+sophistes; il y avait encore des Platon de boue, cOlllme- l'a dit
+énergiquement Philostrate (Il fj), 0 7r). i,(,J 11 ). La philosophie
+qui, au temps des maîtres de l'Ionie et de l'Attique était une hante
+distinction de sagesse, de savoir et de vertu, n'était plus, au temps de
+Lucien, qu'une profession qu'on prenait pour s'enrichir : le plus grand
+philosophe était celui qui avait le plus grand nombre d'écoliers, je ne
+dis pas de disciples, celui qui au bout de chaque journée</p>
+<p>IHOMI des Gr.'l's</p>
+<p>la furre de lYmie et il 11 corps.</p>
+<p>Les Platon de houe.</p>
+<p><pb/></p>
+<p>Gibbon, mot sur la profession des ariiies.</p>
+<p>(i) Chute et Décadence, T. i, ch. 1.</p>
+<p><pb/></p>
+<p>CHAPITRE XIX.</p>
+<p>Le Temps et l'Esprit de Lucien.</p>
+<p>Lucien a pris son parli des dégradations de l'humanité.</p>
+<p>L'hunianilé qui s'en va, l'humanité qui naît.</p>
+<p><pb/></p>
+<p>manque; on lirait les dix volumes de ses ouvrages, page par page, ligne
+par ligne, on n'y trouverait pas une pensée généreuse, un seul cri
+d'admiration.</p>
+<p>C'est un signe du temps, c'est un Symptôme grave de la toute-puissance
+de la morale sophistique de voir Minos</p>
+<p>l,ticieil, ce qu'il a, ce qui lui n (i e.</p>
+<p>Hommes distingues, viennent toujuurspn lotir teliii.s.</p>
+<p>Soslralt», liberté et necessite.</p>
+<p><pb/></p>
+<p>(1) Dernier dialogue des morts,</p>
+<p>Lucien, délices d'Krasuie et des esprits de celte treinpe.</p>
+<p>Gailé&gt; de Lucien, Rabelais, Swifl,</p>
+<p>Voltaire.</p>
+<p><pb/></p>
+<p>Incomparable : oh oui! incomparable. Si l'on veut connaître bien
+clairement la différence qu'il y a entre un moqueur de nature et un bel
+esprit qui veut faire le plaisant, qu'on lise après celui des ouvrages
+de Lucien qu'on voudra choisir, l' Assemblée des dieux ou Les Pêcheurs,
+qu'on dise</p>
+<p>Voltaire, dernier descendant de Lucien.</p>
+<p><pb/></p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHAPITRE XX.</p>
+<p>Les Imitateurs de Lucien.</p>
+<p>Lucien, très mUé.</p>
+<p><pb/></p>
+<p>la pensée : et puis, quand vous avez tout cela,' il vous manque
+peut-être encore un point, l'indéfinissable je ne sais quoi, où Lucien
+excelle.</p>
+<p>Le problème qui était posé au temps de Lucien était bien près de se
+dénouer au temps de Julien. Constantin,</p>
+<p>(i) Il s'est dédommagé dans les Discours où il loue, même avec récidive,
+l'empereur Constantin, le Soleil, etc. V. Juliani lvtp. Opera. S.
+Cramoisy Paris 1630, in 4°,</p>
+<p>Julien, imitateur de Lucien.</p>
+<p><pb/></p>
+<p>mort en 337, quand Julien n'avait encore que six ans (1), avait dit le
+mot décisif sur la question. La question se posait ainsi : Le vieux
+monde- s'affaissera-t-il dans une décadence irrémédiable, ou
+renaîtra-t-il sous une forme nouvelle en un monde plus jeune ?—
+Constantin avait jugé en faveur du monde nouveau.</p>
+<p>(i) Né en 331,</p>
+<p>(2) La Satire des Césars, qui a été traduite en français par Spanheim le
+savant a trouvëAnoyen d'égarer les 25 pages de ce petit ouvrage dans un
+gros volume in-40. Elle a été traduite aussi par l'abb é de la Bleterie,
+2 vol. in-12, avec la Vie de l'Emp. -ionien .</p>
+<p><pb/></p>
+<p>don est petit; mais le donataire voudra bien faire entrer en ligne de
+compte la bienveillance qui a inspiré de lui faire ce don de si peu de
+valeur. '</p>
+<p>Au reste, il fallait que Lucien eût passé, par le inonde, pour que
+Julien jpût avoir et réaliser l'idée de faire la satire des empereurs.
+Il fallait que les dieux eussent été bafoués, pour que les empereurs —
+cette autre majesté — pussent</p>
+<p>(i) Trad. La Bleterie.</p>
+<p>(2) Dés l'âge de 14 ans, il avait été confiné, par l'ombrageux empereur
+Constance, dans un château-de Cappadoce, où il passa sa jeunesse dans la
+solitude, -</p>
+<p>Julien, Satire des Césars.</p>
+<p><pb/></p>
+<p>tomber dans le domaine de la satire. Mais pourquoi César se serait-il
+plaint quand Jupiter ne disait mot?</p>
+<p>(1) Je n'emprunte point ici la traduction de la Blcterie qui s'éloigne
+trop du texte, et iiii d'ailleurs est faible.</p>
+<p>Le Misopogon.</p>
+<p><pb/></p>
+<p>l'auteur du De Mercede Conductis et du Nigrinus : le^temps de l'un n'est
+que le prolongement du temps de l'autre.</p>
+<p>(i) De Dea Syria, Lucitis, Sive dsinus, eiç.</p>
+<p>Trouvères,</p>
+<p><pb/></p>
+<p>Avant de rechercher les traces de Lucien au moyen-âge, il faudrait
+toutefois se poser une question qui ne me paraît pas claire : Lucien
+a-t-il été connu au moyen-âge?</p>
+<p>Vita;: lampada fradllnl.</p>
+<p>(2) Fournier, Dictionn. Bibliog., Hallam, Hist. lill. des XVc-XVllc
+siècles, T. 2, p. 2. Brunet.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>(1) V. dans la collection Jannet, diverses pièces des Poésies des XVe el
+XVIe siècle Je ne signale aucune page en particulier; j'indique plutôt
+l'ensemble. Qli'on ne cherche pas le détail, mais peut-être l'inspiration.</p>
+<p>(2) Edition G. Cousin, T. l, p. 810,</p>
+<p>, Rencontres idéales.</p>
+<p><pb/></p>
+<p>avait droit de reconnaître la part d'inspiration qu'il avait apportée !</p>
+<p>« Ille sic adamalur, sic rapiiur, sic leritur manibus studio sa
+jllwnlulis, ut et patri tuo</p>
+<p>Juerit subinde typis excutlendus, et mihi novis arcessionibtls identtdem
+locupletandus.</p>
+<p>Érasme, Folie —</p>
+<p>Colloques.</p>
+<p><pb/></p>
+<p>Ironie oblique d'Érasme.</p>
+<p>Eloge de la Folie.</p>
+<p><pb/></p>
+<p>(I) Postrtmo milli morionts magis desipere videntur, quam hi quos
+christianæ pietatis ardor semel arripuit; adeo sua profundunt, injurias
+negligunt, falli sese patiuntur; etc. MMptX? EyxWjitOV.</p>
+<p>Érasme, demi-</p>
+<p>Lucien.</p>
+<p><pb/></p>
+<p>jours; et il n'importe pas qu'Érasme ait été ce qu'on appelle dans le
+monde un bonxbrêlien : cette hostilité dont je parle, il la ressentait à
+son insu; elle était mise en- lui par l'esprit même de la Renaissance,
+qui soufflait dé toutes parts. Érasme était nourri de Lucien, il en
+avait longuement sucé tout l'esprit. Inspiration naturellement peu
+compatible avec le Christianisme:</p>
+<p>f</p>
+<p>Lucien, son portrait au physique.</p>
+<p>Érasme, peint par Holbein,</p>
+<p><pb/></p>
+<p>(i) Vie d'Érasme, 2 vol. in-U, Paris 17S7. T. Ier p. 108-114.</p>
+<p><pb/></p>
+<p>L'Éloge de la Folie est une plaisanterie un peu longue, c'est une
+imitation de Lucien en un volume. Une imitation de Lucien moins
+populaire, mais où il y a plus d'invention peut-être et plus de génie,
+(si l'on considère l'idée première), sinon plus de verve dans
+l'exécution, c'est le Vais- seau des Fous de Sébastien Brandt. Le
+jurisconsulte allemand (telle est la qualité de Sébastien Brandt) ne
+fait pas du genre humain en masse un tas de fous; il sépare de
+l'ensemble ceux que la folie a touchés ; il les jette, sans</p>
+<p>Le Vaisseau des Fous, de Brandt.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>passions ou les fausses idées : comme le dit très bien le traducteur
+latin Locher, (i) professeur de rhétorique et élève de Brandt, chacun
+peut voir comme en un miroir les traits de. son âme et de sa vie
+fidèlement représentés (f° X).</p>
+<p>Sébastien Brandt avait mis la main sur une idée heureuse; il ne lui a
+manqué que le génie: et la vetve pour en tirer un chef-d'œuvre. Brandt
+n'a fait avec cette idée très heureuse que des centons moraux plus
+éloquents et _ plus abondants que ceux qui avaient cours d'ordinaire.</p>
+<p>(i; Locher parle non sans grâce et sans attendrissement de ces rapports
+avec son maitre :</p>
+<p>Mcmini dulciter me pucrum stipendiis felicis Academiæ sub te præceptore
+meruisse.</p>
+<p>O dulces confabulationes quas sermone tuo suavissįme. condiţas, publico
+in auditorio te profitente accepimus, auribus in que tęnellis et adhuc
+propter pubertatis mqllitudi- nem strepentibus salutares ac benivolas
+solitæ tuse facundiæ diciplines exbibuisti. (Stltltljem Navis, Latine
+vertit Jac. Locher, 1497, in-40 f° 71. Lpcher (mSme f°-J parle de
+certains critiques qui, cvm el ipsi nihil sapiatil, ingenii ta-men
+asperiiudine.rn in alios veriunt. L'espėce n'en est pas perdue.</p>
+<p>Cymba/urn. Mundi, de B. des</p>
+<p>Poriers.</p>
+<p><pb/></p>
+<p>Les auteurs de la Satyre Ménippée, beaux esprits savants, avaient bien
+lu, on peut l'affirmer, leur Lucien, et ils s'en sont souvenus : par
+Érasme dont ils sont les proches parents, ils touchent au Grec du
+deuxième siècle. Au reste, cette imitation étant plutôt dans l'esprit
+que dans le détail, il suffit de la signaler en général, sans, en
+rechercher avec pédantisme des preuves qu'on ne trouverait peut-être pas
+sans forcer : c'est une inspiration commune plutôt encore qu'une imitation.</p>
+<p>(3) Voir sur les EpistoZæ Obscurorum Virorum et sur Ulric de Hutten, un
+article du Magasin Encyclopédique, 1805, T. 1, p. 49-99, et une notice
+du P. Niceron, T. XV e XX. Cette notice est très curieuse.</p>
+<p>Satyre Ménippée.</p>
+<p>Epistolx Obscu- rorum Virorum. Ulric de Hullen.</p>
+<p><pb/></p>
+<p>Il contient des imitations très direétes et très évidente de Lucien.
+Lucien avait fait la guerre aux faux philosophe: Les Viri Obscuri
+renouvellent cette guerre contre des fau philosophes d'une nouvelle
+espèce : ces faux philosophe sont les théologiens, on s'en doute sans
+peine, et le auteurs s'en expliquent d'ailleurs fort clai'remënt en plu
+d'un endroit. Pour montrer combien cette imitation es réelle et directe,
+je ne citerai qu'un seul passage. Je l, prends dans un dialogue joint
+aux Épîtres et qui est intitul, Dialogus novus el mire festivus, ex
+quorumdam virorun salibus cribratus, non- minus eruditionis quam
+macaronice complectens. (Ed011 de Francfort-sur-le-Mein, in-12, 1643" P.
+15 3-54).</p>
+<p>Lupoldus. — Devons-nous permettre que ce latiniseui</p>
+<p>Reuchlin se gausse de notre théologie ?..</p>
+<p>Érasme. — Bons dieux ! qu'ai-je entendu ?</p>
+<p>Érasme. — Dis un peu.</p>
+<p>Reuchlin. — Ils m'ont rebattu les oreilles de tant d'inep-j ties, que je
+ne sais par où commencer. 1 Érasme. — Dis ce qui te viendra d'abord en
+mémoirej ' je n'en demande pas davantage. j</p>
+<p><pb/></p>
+<p>Reuchlin. — Il faut donc que je parle. Ils condamnent les Lettres.</p>
+<p>Érasme. — Toutes ?</p>
+<p>Reuchlin. — Toutes.</p>
+<p>Érasme. — Même les bonnes ?</p>
+<p>Reuchlin. — Rien que les bonnes.</p>
+<p>Érasme. — Et les mauvaises ?</p>
+<p>Reuchlin. :— Oh ! c'est tout ce qu'ils aiment.</p>
+<p>.veut point d'ornement, c'est la barbarie.</p>
+<p>; -Érasme. — Est-ce vrai ?</p>
+<p>Reuchlin. — Vrai ! des paysans, des vieilles femmes, des ignorants
+idiots .y mettraient plus d'élégance et de pureté.</p>
+<p>Érasme. — Et quelle profession est la leur?</p>
+<p>Reuchlin. — Je ne sais, je crois pourtant qu'ils s'affublent du -nom de
+théologiens.</p>
+<p>Je supplie les lecteurs parcourant cette page d'un écrivain qui a eu son
+jour, de croire que je n'ai pas ajouté un mot au texte latin, imprimé il
+y a 350 ans. J'ai traduit syllabe pour syllabe, ce qui montre qu'il n'y
+a rien de nouveau 'sous le soleil, pas même les adversaires, un peu
+vieillis aujourd'hui, dès études classiques. On voit encore ailleurs (1)
+Gratius, la principale victime de Hutten, mais le représentant des
+théologiens d'alors, déplorer que les humanités du temps (isti
+humaniste), avec leur nouveau</p>
+<p>(1) Dans les Ep. Objc. Vir., Lib. i, p. 18.</p>
+<p><pb/></p>
+<p>latin, mettent en déroute des auteurs comme Alexandre Remi, Cornu, etc.</p>
+<p>Lucien n'aurait pas mieux trouvé et pas mieux dit.</p>
+<p>« Voici ce que je vous ai promis; voici les, premiers traits de la
+morale de ces bons pères jésuites, de ces hommes' éminents en doctrine
+et en sagesse, qui §ont tops conduits par la sagesse divine, qui est
+plus assurée que toute la philosophie. Vous pensez peut-être que je
+raille? Je le dis sérieusement, où plutôt ce sont eux-mêmes qui le
+disent dans leur livre intitulé : Imago primû-Sœculi. Je ne fais que.
+copier leurs paroles, aussi bien que dans la suite ,de cet éloge C'est
+une société d'hommes ou plutôt d'anges qui a été prédite par Isaïe en
+ces paroles : Aile Anges prompts et légers. La prophétie n'en est-elle
+pas claire?</p>
+<p>(I) MmiPpus, sive Dialogorum šatiricorrma Centuria; Cosmopoli, Anno 1618. ^</p>
+<p>(2) Lugd. Batav. 1632.</p>
+<p><pb/></p>
+<p>Ce sont des esprits d'aigles ; c'est une troupe de Phénix, un auteur
+ayant montré depuis peu qu'ij y en avait plusieurs : ils ont changé la
+face de la chrétienté. Il le faut crQire, puisqu'ils le disent. »</p>
+<p>Et le balancement des opinions les unes par les autres !</p>
+<p>Pascal en ,sait l'art aussi bien que Lucien :</p>
+<p>« Le bon Père surpris de ce discours me répondit : Dites-vous vrai ? Je
+ne savois rien de cela. Notre opinion n'est que probable; le contraire
+est probable aussi ». (Huitième Lettre, des Juges).</p>
+<p>Hélas ! c'est le scepticisme et le chaos des opinions qui sort de ce
+balancement des idées, ce n'est pas un principe de foi-et d'action — la
+foi et l'action, les deux besoins des sociétés comme des individus.</p>
+<p>Vo y âges -d-e Gu lliver.</p>
+<p>Swift, Lucien.</p>
+<p><pb/></p>
+<p>Voltaire, Lucien.</p>
+<p><pb/></p>
+<p>(1) Avant-Propos des Romans, T. 59 et 60, édition Baudouin, 1825-26.</p>
+<p>/</p>
+<p>Le divin naturel.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Scarron peut exciter encore une sorte de rire nerveux où l'esprit n'a
+guère de part ; l'homme de goût rira peut-être aussi, s'il ne veut pas
+se faire trop dédaigneux et puritain; mais il jouira peu, parce que
+l'offense sera voisine et que le goût sera trop blessé.</p>
+<p>Il y a une veine de Lucien, naturelle ou empruntée, dans Scarron; un
+autre poète, Saint-Amant, s'en est souvenu aussi. Si on me dit que Saint
+Amant n'était pas un érudit, mais un pilier de cabaret, qu'il
+fréquentait plus les buveurs que le garde des livres de la Bibliothèque
+du Roi-, je répondrai qu'il était de l'Académie Française, qu'il y
+tenait son bout, et qu'en général on exagère singulièrement cette
+prétendue ignorance des poètes viveurs. Viveurs si vous voulez, viveurs
+tant qu'il vous plaira, mais curieux avant tout. Voyez, je vous prie, ce
+passsage de Saint-Amant (Le Melon, T. 1, p. 202, Ed. Jannet).</p>
+<p>Après que Jupiter avec son tonnerre,</p>
+<p>Eut fait la pétarade aux enfants de la terre,</p>
+<p>Et que les dieux, lassés, revinrent d'un combat, '</p>
+<p>Où Pan perdit ses gants, Apollon son rabat,</p>
+<p>Mars l'un de ses souliers, Pallas une manchette, Hercule, par un trou,
+l'argent de sa pochette, Mercure une jartière et Bacchus son cordon,</p>
+<p>Après, dis-je, ce choc où l'asne de Silène</p>
+<p>Aux plus mauvais garçons fit enfin perdre haleine, Par l'extrême frayeur
+que sa voix leur donna, etc.</p>
+<p>Je ne répondrais pas que Saint-Amant ait lu les 82 ou les 171 traités de
+Lucien, mais entre deux bouteilles il a jeté un coup d'œil sur
+rassemblée des dieux, je le gagerais, et cela lui a suffi pour attraper
+la note.</p>
+<p>De nos jours encore et jusque sous nos yeux, Lucien a été imité avec
+talent. Courier qui, il y a trente ou trente- cinq ans, amusait nos
+pères, est un imitateur adroit et heureux de Lucien. Mais son imitation
+est bien détournée. Courier qui fait, comment dirai-je, le bonhomme? non ;</p>
+<p>Courier.</p>
+<p><pb/></p>
+<p>Nous avons surtout'parlé des imitations qui reproduisent l'esprit de
+Lucien dans son ensemble et dans sa physionomie, autant que cela se peut
+jamais. Si nous voulions énumérer les imitations de détail, ce serait à
+l'infini. Si Lucien reprenait son bien partout où il le trouve, il
+ferait contribuer bien des gens. De ces emprunteurs, la plupart fort
+discrets, nous rappelleroffs seulement quelques-uns.</p>
+<p>Les débiteurs de Lucien.</p>
+<p><pb/></p>
+<p>Parmi les modernes qui, sans s'approprier l'esprit général et la manière
+de Lucien, le rappellent heureusement par le détail partiel, nous ne
+devons pas oublier Cyrano de Bergerac. Cyrano qui une fois, (dans son
+Agrippine) a su monter sa voix au ton tragique, a cherché</p>
+<p>(1) C'est une remarque de Josias Mercier dans ses notes sur Aristénète.</p>
+<p><pb/></p>
+<p>Cela est délicat et charmant, c'est du Lucien et du meilleur. Nous ne
+sommes pas justes envers quelques-uns de nos anciens auteurs. Nous
+prenons le trait saillant de leur physionomie et nous n'allons pas au
+delà. Ainsi de Cyrano de Bergerac : nous en faisons volontiers un
+bouffon extravagant, et sous le bouffon il y a un écrivain de talent ;
+mais il nous faudrait prendre la peine de l'aller chercher, nous aimons
+les étiquettes rédigées en un mot : Bouffon, pédant, homme d'esprit,
+cela se place si facilement dans le casier de la mémoire, il ne faut
+point d'effort pour l'y mettre, point d'effort pour l'y retenir,- nous
+avons horreur des nuances.</p>
+<p>Ainsi les auteurs de Voyages imaginaires n'ont pas mis Lucien à
+contribution moins que les conteurs et</p>
+<p><pb/></p>
+<p>Le Sage, Diable</p>
+<p>Boiteux.</p>
+<p><pb/></p>
+<p>« L'écolier profita sûrement plus dans une nuit avec Asmodée qu'il
+n'avait fait dans toute sa jeunesse avec tous'</p>
+<p><pb/></p>
+<p>les docteurs d'Alcala; ceux-ci l'avaient rebuté par leur morale
+éternelle, au lieu que dans le boiteux il trouva un maître habile qui,
+dans un tableau réjouissant, lui faisait sentir parfaitement les défauts
+des hommes et le corrigeait adroitement sans l'accabler de leçons
+ennuyeuses. »</p>
+<p>Talia sunt nymphis retuli,t quae fama marinis</p>
+<p>Multa per alternas dicta dedisse vices :</p>
+<p>Quid jara, quid caecum non posse putemus Amorem, - Te quoque formosuin
+si, Polypheme, facit?</p>
+<p>Lais anus Veneri speculum dico, dignum habeat se ^ ^Eterna aeternum
+forma ministerium :</p>
+<p>At mihi nullus in hoc resus, quia cernere talem i' Qualis sum nolo,
+qualis eram nequeo.</p>
+<p>(1) L'édon Gilbert Cousin et Sambuc nous donne les vers de Georges et
+aussi une ^ imitation en vers de ce même dialogue par un poète nomme
+Georges Sabinus. T. 1. p.' 199 et 201.</p>
+<p>Lucien, chacun l'a pillé en détail.</p>
+<p>Lucien, bien des fuis traduit.</p>
+<p><pb/></p>
+<p>(i) On les trouve dans le volume intitulé Lllcicmi Opusctila, fo 134,
+in-"8°.</p>
+<p>Érasme, traducteur de Lucien.</p>
+<p><pb/></p>
+<p>pourtant, avec quelques précautions oratoires que bon nombre de passages
+ont été traduits par lui nonchalamment et comme en dormant
+(somniculose). (i)</p>
+<p>« Je vous envoie ce faux devin, ce scélérat qui mieux que personne vous
+mettra sur la voie pour saisir et produire au jour les impostures de
+ceux qui, par des miracles de leur magie, par de fausses inventions
+religieuses, au moyen de pardons supposés, ou de tous autres prestiges
+de ce genre, font illusion au vulgaire. »</p>
+<p>(1, Avertissement au lecteur de cette tradon. In-40 1655, Paris,
+Cramoisy. Ce petit volume.in-4° se termine par une double Épitaphe de
+Claude Saumaise et par une élégie grecque sur la mort de Balzac. Cette
+Élégie est adressée Ad 1 itiyn.</p>
+<p>(2) Luciani Opuscula, f° 172, in-So. C'est en tête du Philopseudes.
+Voici le passage :</p>
+<p><pb/></p>
+<p>Peuple des traducteurs.</p>
+<p><pb/></p>
+<p>(I) Haganorz, per lohannem Sere. Le volume contient encore Dialogi
+Amatorii IV</p>
+<p>Chiliano ŲanSlleto interprete ; Plutarchi de Educn(ione Libellus, J.
+Molt{e,' interprete.</p>
+<p>Savants du xvr siècle, leur pensée en traduisant Lucien.</p>
+<p>V. Obsopœus, invective contre le moyen-âge.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>-La Croix du Maine dit 1581.</p>
+<p>1 (1) Bibl. franc. T. V. p. 190.</p>
+<p><pb/></p>
+<p>grec ; enfin il a pu faire lire Lucien au siècle de Louis XIV, et dans
+une langue qui ne s'éloignait pas trop de la belle langue de cette
+époque privilégiée. C'est beaucoup pour un traducteur. Ménage, dont le
+défaut n'était pas de "ne savoir pas le grec, disait de la traduction de
+d'Ablancourt belle infidèle (i), et un savant, Mathieu Slade, a fait
+là-dessus une épigramme grecque : on la peut voir dans la Bibliothèque
+Grecque de Fabricius, T. III, p. 507.</p>
+<p>Nous avons parlé de deux autres traductions. La première est celle de
+l'abbé Massieu (1781, 6 vol. in-I2) qui traduisait sur le latin, et qui
+traduisait, ce qui est pis</p>
+<p>(1) Mettagiana.</p>
+<p>(2) Mélange de traductions du grec, du latin et de l'anglais, in-8°
+1779, Paris.</p>
+<p><pb/></p>
+<p>(1) Deux fois traducteur de Properce, en vers (1813) et en prose, dans
+la Collection Nisard. -</p>
+<p><pb/></p>
+<p>(1) Expressions de Courier lui-mème, Préface de la Luciade, T. 2 des
+Œuvres, p. II, 1830 in-8°.</p>
+<p><pb/></p>
+<p>Les Italiens ont une version en leur langue de la main de Spiridion
+Lusi. En espagnol, quelques parties de Lucien ont été traduites par
+Francisco de Herrera et Iuan de Jarava.</p>
+<p>Wieland ne s'est pas contenté de traduire Lucien ; il a de plus fait un
+roman intitulé Pérégrinus Protée, dont l'idée lui a été suggérée par le
+morceau qui porte le même titre. Il y repousse toutes les accusations
+que l'auteur grec a portées contre ce héros singulier des Jeux
+Olympiques, ce conquérant d'une victoire que Pindare n'a pas célébrée.</p>
+<p>(1) 4 vol. in-8° 1780.</p>
+<p>(2) 2 vol. in-4°, 1830.</p>
+<p><pb/></p>
+<p>Schœll (1), dans cette- apologie; voit un « tour de force d'esprit » je
+ne sais trop pourquoi. J'y vois tout simplement un peu de paradoxe, et
+Dieu sait si nous n'en avons pas vu bien d'autres.</p>
+<p>(1) Extraits de Lucien et de Xértophon, in-12, 1786, Un autre volume,
+également in-12, (1784), contient le texte, et aussi les Dialogues des
+Morts, texte et traduction.</p>
+<p>(2) Histoire de la Liti. Grecque, T. IV, p. 272.</p>
+<p>(3) Dans les Prolégomènes de l'Édition de Deux-Ponts, T. 1, p. LXXX.</p>
+<p><pb/></p>
+<p>CHAPITRE XXI.</p>
+<p>Les éditions de Lucien.</p>
+<p>Il me faut dire ici un mot des éditions de Lucien. Je m'abriterai pour
+ce compte-rendu sommaire, sous l'autorité d'un maître respecté, M.
+Boissonnade.</p>
+<p>Vient ensuite l'édition d'Alde l'ancien, 1503, in-folio, incorrecte,
+recherchée pour sa belle exécution et parce qu'il est rare de la trouver
+complète. Cette édition doit réunir aux œuvres de Lucien les ouvrages de
+Philostrate et les Images de Callistrate.</p>
+<p>Ces éditions sont purement grecques ; il y en a bien d'autres, dont on
+peut voir la suite dans Schœll, T. IV, p. 180. Celles que j'ai désignées
+sont les plus importantes.</p>
+<p>Je dois indiquer maintenant les éditions grecques- latines, ou même les
+éditions purement latines. On en trouverait beaucoup, si l'on voulait
+indiquer en détail les</p>
+<p><pb/></p>
+<p>Jean Le Clerc, le très laborieux auteur des Bibliothèques Universelle,
+Choisie, etc. (1), a donné en 1687 une édi-</p>
+<p><pb/></p>
+<p>tion fort incorrecte, mais renfermant tous les commentaires antérieurs
+et les scbolies d'un anonyme tirées des papiers d'Isaac Vossius,
+Amsterdam, 2 vol. in-8°. Ces deux volumes forment une des parties les
+plus rares de la Collection des Variorum (1).</p>
+<p>L'édition de Deux-Ponts, cette belle édition en dix volumes in-8°
+(1789-93) dont je me suis principalement servi, est la répétition de
+cette édition, mais on s'est abstenu d'y reproduire le Lexicon, dont les
+éditeurs d'alors n'ont pas voulu faire les frais. Sauf cette omission,
+l'édition de Deux-Ponts est très commode : elle contient les notes
+étendues et souvent excellentes des principaux commentateurs de Lucien,
+Jean Brodeau, Gilbert Cousin (Cognâtus), Bourdelot, Théod. Marcile,
+Jacques Paulmier de Grentemesnil (Palmerius), Tanneguy Le Fèvre (lanaquillus
+ Faber) François Guyet, Grœvius, Gronovius, Jean Le Clerc, Louis
+Kuster, Moïse Du Soul, (Solanus) Tibère Hemsterhuys, Jean-Mathias
+Gessner, Jean-Frédéric Reitze.</p>
+<p>(2) Ces nouvelles traductions sont ordinairement les anciennes, avec des
+pièces de rapport qui leur donnent air de nouveauté.</p>
+<p><pb/></p>
+<p>Retour aux manuscrits.</p>
+<p><pb/></p>
+<p>tants, le Tragopodâgra et le Ocypous. Dindorf a de plus ajouté d'après
+l'Anthologie Palatine, deux ou trois épi- grammes.</p>
+<p>On a conservé dans cette édition la traduction latine commencée par
+Hemsterhuys, lequel avait lui-même conservé la'traductiôn de Du Soul,
+(Solanus), pour le Nigrinus, et cellfe de T. Le Fèvre pour le Timon,</p>
+<p>Le texte Didot est un bon texte, mais qui ne dispense pas de la lecture
+de l'édition de Deux-Ponts, ou de sa sœur aînée, l'édition in-4°, pour
+la connaissance des plus essentiels commentaires et des principales
+variantes.</p>
+<p>Lucien a été beaucoup traduit, beaucoup commenté souvent édite : il a eu
+naturellement aussi beaucoup de panégyristes, de détracteurs et
+d'appréciateurs plus ou moins impartiaux, plus ou moins désintéressés.
+Dès l'anti. quité commencent les uns et les autres. Suidas faisait du
+Syrien un blasphémateur et un impie, et le jetait comme une proie aux
+chiens enragés. Le patriarche Photius, qui nous a conservé tant
+d'extraits et de notices précieuses</p>
+<p><pb/></p>
+<p>(I) Erasmus noster adamantinum omnium superstitionum insectatorem eum
+voca- vit. G. Cousin, 1563, Prėface.</p>
+<p><pb/></p>
+<p>(I) Luciani Opuscula, Erasmo int., in-8°, fo 24.</p>
+<p>Les traducteurs venus depuis ont reproché aux traductions d'Erasme .
+leur inexactitude ; elles ont du moins un air de bonne' grâce et de
+jeunesse.</p>
+<p><pb/></p>
+<p>En revanche, le grand contemporain de&gt; Montaigne, Shakspéare, a lu et
+bien lu, dans quelque exemplaire latin de la main d'Érasme,
+probablement, le Tikion, et il s'en est souvenu avec génie, comme il se
+souvenait de tout, de Plutarque et d'Holingshed/</p>
+<p>Une chose m'étonne plus que la négligence de Montaigne, c'est l'oubli de
+Bayle. Bayle, dans son Dictionnaire historique et critique, n'a pas
+d'article sur Lucien : serait-ce qu'on n'aime pas beaucoup plus ceux
+dont on a hérite largement que ceux mêmes qu'on doit avoir pour
+héritiers? Car Bayle est un parent incontestable de Lucien; il tient de
+lui, sinon la plaisanterie attique et gaie, au moins le scepticisme, ce
+scepticisme aiguisé et dialectique qui est son trait distinctif.</p>
+<p><pb/></p>
+<p>Boileau estime Lucien parce qu'il sait plaisanter; il ne fait pas de cas
+des Césars de Julien par la raison contraire. Aussi condamnait-il les
+dialogues des morts où règne trop de sérieux, comme ceux que l'on voyait
+éclore de son temps et qui par ce caractère sombre ressemblent si peu à
+, ceux de Lucien. (L. Racine, Mémoires sur J. Racine, p. 264).</p>
+<p>(1) Hist. des Emp. T. I, p. 404.</p>
+<p>(2) Biilioih. anc. etrnod., T. XV, 1721.</p>
+<p><pb/></p>
+<p>mais qui était cncore un libertin dans les moeurs et qui ne se faisait
+pas scrupule de dire des ordures et de vivre apparemment comme il
+écrivait. Je n'ai garde d'excuser cela. Mais dans les ténèbres du
+paganisme, et dans un temps où les philosophes des sectes plus austères
+et plus sages dans la doctrine étaient scandaleux,- il n'était pas
+difficile de mépriser toute philosophie et de tomber dans le libertinage. »</p>
+<p>« A Lucien, aux Champs-Élysées.</p>
+<p>Illustre mort,</p>
+<p>Il est bien juste qu'après avoir pris une idée qui vous appartient, je
+vous en rende quelque sorte d'hommage. L'auteur dont on a tiré le plus
+de secours dans- un livre' est le vrai héros de l'Épître dédicatoire ;
+c'est lui dont on peut publier les louanges avec sincérité ef qu'on doit
+choisir pour protecteur. Peut-être on trouvera que j'ai été bien hardi
+d'avoir osé travailler sur votre plan ; mais il me semble que je l'eusse
+été encore davantage si j'eusse travaillé sur un plan de mon
+imagination. J'ai quelque lieu d'espérer que le dessein, qui est de
+vous, fera passer les choses, qui sont de moi ; et j'ose vous dire que,
+si par hasard mes Dialogues avaient un peu de succès, ils vous feraient
+plus d'honneur que les vôtres mêmes ne vous en ont fait, puisqu'on
+verrait que cette idée est assez agréable pour n'avoir pas besoin d'être
+bien exécutée. J'ai fait tant</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>(1) Comme dans l'Exaiiiett important de Milord Bolingbroke.</p>
+<p>(2) Dialogues et Entretiens philosophiques, Dial. X. -</p>
+<p>(3) C'est du Philopatris mot pour mot.</p>
+<p><pb/></p>
+<p>« A l'égard des ouvrages philosophiques, tels que Cicéron, Lucrèce,
+Sénèque, Epictète, Pline, Lucien en faisaient contre les superstitions
+'de leur temps, je ne me pique point d'imiter ces grands hommes. »</p>
+<p>Frédéric II, de son côté, pour donner idée du mérite de Voltaire, a
+employé le nom de Lucien ; mais il l'a fait avec une emphase singulière
+(27 juillet 1775). « Pour trouver un Voltaire dans l'antiquité, il faut
+rassembler le mérite de cinq ou six grands hommes, d'un Cicéron, d'un
+Virgile, d'un Lucien et d'un Salluste ; et dans la Renaissance des
+Lettres, c'est la même chose, il faut englober un Guiehardin, un Tasse,
+un Arétin, un Dante, un Arioste, et encore ce n'est pas assez. » Quel
+assemblage! quelle confusion ! quels noms rapprochés !</p>
+<p>L'Année littéraire appelait presque aussi risiblement (1778, T. I, p.
+11, Discours sur la Critique) Lucien « un nouveau Socrate moins
+vertueux, mais plus plaisant et plus enjoué que l'Athénien. »</p>
+<p>D'Alembert restait mieux dans la mesure quand il disait, dans son Essai
+sur la Société des Gens de lettres et des Grands, où il se montre à
+quelque endroit si ridiculement sévère contre Lucien, mais où d'ailleurs
+il donne aux gens de lettres des conseils- d'indépendance et de dignité,
+qui méritent tous éloges et qui n'étaient certes pas déplacés, même au
+dix-huitième siècle : « Lucien, qu'on peut appeler le</p>
+<p><pb/></p>
+<p>/ Swift des Grecs, parce qu'il se moquait de- tout comme lui, même de ce
+qui n'en valait pas la peine,... (p. 371). » Le Franc de Pompignan qui,
+dans ses essais cfe traduction, a beaucoup raccourci Lucien et lui a
+donné la couleur moderne, ce qui est la manière d'être inexact la plus
+blessante pour ceux qui suivent l'original d'un œil jaloux et
+consciencieux, a dit de Lucien avec assez de naïveté : « Il - est peu
+d'écrivains aussi agréables. Son enjouement ne l'empêche pas d'être
+quelquefois solide. »</p>
+<p>Thomas, dans l'Essai sur les Éloges, rencontrant Lucien qui lui
+appartient par l' Éloge de Démosthène, l'a apprécié comme il suit. Il
+marque et définit le don de ridicule qui est celui de l'auteur grec, et
+il ajoute (Ch. IX, T. I, p. 88) :</p>
+<p>(1) Lycée, irc partie, L. iii, ch. 3 Des divers Genres de Littérature
+chez les Anciens. Édition de 1813, in-12, T. IV, p. 143-44.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Il se sérait mieux entendu avec Courier et surtout avec Boissonnade qui
+n'a point abusé de la qualité de savant et très savant pour être pédant,
+et qui a parlé de Lucien</p>
+<p>(1) Histoire de la Décadence et de la Chute de l'EmPire romain, ch. a.</p>
+<p><pb/></p>
+<p>1 grecs. — Excellente louange, et que beaucoup voudraient avoir méritée,
+(i)</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CONCLUSION,</p>
+<p>Distribution des rôles dans l'action de l'intelligence huniaine.</p>
+<p><pb/></p>
+<p>Après tout, n'affectons pas de mépriser ces temps qui ont leur beauté
+encore, et où l'on voit les jeunes hommes,</p>
+<p>(1) Voir Préface de la Mythologie dramatique de Lucien, et Préface des
+Extraits de Lucien et de Xinopbon.</p>
+<p>(2) Fabricius, Bibliothèque-grecque, T. III, p. 487 &gt; cite le passage du
+schohaste.</p>
+<p>Lucien, penseur- destructeur.</p>
+<p>1</p>
+<p>Lucien, épicurien sceptique.</p>
+<p>Le monde au temps de Lucien: le rire lui suffit.</p>
+<p><pb/></p>
+<p>(1) Philostrate, Vie d'Apollonius, Liv. VI, ch. Ill.</p>
+<p>(2) Vie d'Apoll., Liv. VII, ch. 4.</p>
+<p>Grands spectacles de ces temps. —</p>
+<p>Apollonius.</p>
+<p><pb/></p>
+<p>(1) Imagines.</p>
+<p>(2) Diog. Laert.</p>
+<p><pb/></p>
+<p>rence toujours. la même : accueillons tous ces aspects, sachons
+connaître toutes ces physionomies, .et de la diver- sité des détails
+faisons résulter la beauté harmonieuse de l'ensemble. Acceptons Lucien
+comme nous acceptons 'Pindare et Platon, acceptons Aristophane comme
+nous acceptons Eschyle et Sophocle.</p>
+<p>Ce sera ma conclusion dernière.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>\</p>
+<p>TABLE</p>
+<p>Morts 101 CHAPITRE V. — Lucien et les Philosophes -.... 131 CHAPITRE VI.
+— Le Parasitisme littéraire. Les Grecs ; les</p>
+<p>Patrons 145</p>
+<p>CHAPITRE VIL — Les Philosophes encore : Raillerie, Mœurs</p>
+<p>CHAPITRE XII. — Le Paganisme dans les temples et hors</p>
+<p>des temples. L'Olympe. 229</p>
+<p>' CHAPITRE XIII. — Des Charlatanismes et des Supercheries dans
+l'antiquité 2r»l CHAPITRE XIV. — De la religion de Lucien 271 • CHAPITRE
+XV. — Les petites choses dans Lucien ........ 277</p>
+<p><pb/></p>
+<p>CHAPITRE XVI. — Lucien poète. Les Épigrammes 283 CHAPITRE XVII. — Lucien
+érudit 289 CHAPITRE XVIII. — Enchantements et Superstitions 311 CHAPITRE
+XIX. — Le Temps et l'Esprit de Lucien ........ 331 CHAPITRE XX. — Les
+Imitateurs de Lucien 337 CHAPITRE XXI. — Les éditions de Lucien 381
+CONCLUSION. ,!, .... 1............................ 399</p>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>AUTRES OUVRAGES DE CHARLES DES GUERROIS</p>
+<p>POÉSIE</p>
+<p>SOUS LE BUISSON, premiers chants, un volume in-12. PAYSAGES, un volume
+in-i2.</p>
+<p>PRO PATRIA, Iambes et.Élégies, un volume in-I2.</p>
+<p>SONNETS ET PETITS POÈMES, un volume in-12.</p>
+<p>Nos GRANDES PAGES, un volume in-I2.</p>
+<p>A LA MORT DE VICTOR HUC.0 : cinq sonnets. Plaquette in-I2. ETUDE SUR
+MISTRESS ELIZABETII BROWNING, suivie de ses Quarante-quatre « SONNETS
+PORTUGAIS » et de quelques autres de ses poèmes, un volume in-ia.</p>
+<p>LA FRANCE HÉROÏQUE, un volume in-I2.</p>
+<p>TIMON D'ATHÈNES, traduit de Shakspeare, avec une Introduction, un volume
+in-I2.</p>
+<p>PAROLES DE POÉSIE, un volume in-I2.</p>
+<p>Au PAYS DES EPÉES, un volume in-I2.</p>
+<p>AcuOer, Poèmes de l'àme qui chante, un volume in-I2, FRANCE TOUJOURS, un
+volume in-I2.</p>
+<p>VARIATIONS SUR DES THÈMES VIRGILIENS, un volume in-I2. DEMI ToNs A
+DEMI-VOIX, un volume in-I2,</p>
+<p>DANS LE MONDE DE L'ART, un volume in-I2.</p>
+<p>VIREVOLTES ET CARONADES, un volume in-I2.</p>
+<p>CHANSONS ET RAYONS, un volume in-I2.</p>
+<p>NOTES EPIQUES, un volume in-I2.</p>
+<p>LE POÈME DE LA CATHÉDRALE, un volume in-I2.</p>
+<p>ENTRE CIEL ET TERRE, un volume in-I2.</p>
+<p>POÈMES INQUIETS, un volume in-I2.</p>
+<p>POÈMES APAISÉS, un volume in-I2.</p>
+<p>DEPUIS, un volume in-I2.</p>
+<p>POÈMES ANTHOLOGIQUES, un volume in-I2.</p>
+<p>DANS LE MONDE DES IDÉES, un volume in-I2.</p>
+<p>AUTOMNES ET REVERDIES, un vol. in-I2,</p>
+<p>AUTOUR DE PORT-ROYAL, un vol. in-I2.</p>
+<p>PROSE</p>
+<p>PENSÉES DE L'ART ET DE LA VIE, un volume in-So,</p>
+<p>JEAN PASSERAT, Poète et Savant, un volume grand in-8*.</p>
+<p>LE PRÉSIDENT BouniER,sa vie, ses ouvrages et sa bibliothèque, un volume
+in-8".</p>
+<p><pb/></p>
+<p>ŒUVRES POSTHUMES DE CHARLES DES GUERRES</p>
+<p>POÉSIE</p>
+<p>IDÉAL ET TERRE A TERRE, un volume in-12. SILENCE DE L'OMBRE, un volume
+in-I2.</p>
+<p>ENIGME DE -LA MORT, ùn volume in-I2.</p>
+<p>CITTA DOLENTE, un volume in-12.</p>
+<p>Du MYSTÈRE AU MYSTÈRE, un volume in-12.</p>
+<p>VITA PERACTA, un volume in-I2.</p>
+<p>POÈMES DE NATURE ET d'iNTtMtTE, un volume in-I2.. PENDANT QU'IL EST
+JOUR, un volume in-I2.</p>
+    </div>
+    </body>
+  </text>
+</TEI>

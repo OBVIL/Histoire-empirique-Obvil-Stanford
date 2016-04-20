@@ -1,0 +1,4247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Anonyme">Anonyme</author>
+<title>Histoire poétique tirée des poètes français, avec un dictionnaire poétique. Édition revue et corrigée</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author></author>, <title>Histoire poétique tirée des poètes français, avec un dictionnaire poétique. Édition revue et corrigée</title>, <date>1833</date>,description :,263 pages
+</bibl>
+<publisher>Ve Maire-Nyon (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k6128376n</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1833">1833</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p>HISTOIRE</p>
+<p>POÉTIQUE,</p>
+<p>TIRÉE DES POÈTES FRANÇAIS*</p>
+<p><pb/></p>
+<p>TARIS. IMPRIMERIE DE CASIMIR,</p>
+<p>Rue de la Vieille-Monnaie, n&lt;&gt; 12.</p>
+<p><pb/></p>
+<p>POÉTIQUE,</p>
+<p>TIRÉE DES POÈTES FRANÇAIS,</p>
+<p>AVEC</p>
+<p>UN DICTIONNAIRE</p>
+<p>POÉTIQUE.</p>
+<p>ÉDITION REVUE ET CORRIGÉE.</p>
+<p>PARIS,</p>
+<p>A LA LIBRAIRIE CLASSIQUE</p>
+<p>DE M™ V*e MAIRE-NYON,</p>
+<p>QUAI CONTI , H° l3.</p>
+<p>1835.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>AVERTISSEMENT.</p>
+<p>i</p>
+<p><pb/></p>
+<p>ij , AVERTISSEMENT.</p>
+<p>« des moeurs, et n'y laisser non - seule« ment aucune histoire, mais
+aucune « expression qui pût blesser le moins « du monde des oreilles
+chastes et « chrétiennes. » C'est sur ce plan que Ton a travaillé ; et
+pour le remplir plus siirement, on a puisé Y utile dans les meilleures
+sources, et Y agréable dans les poètes français.</p>
+<p><pb/></p>
+<p>AVERTISSEMENT. jUJ</p>
+<p>action , et se passer sous leurs yeux/ Ils connaissent les auteurs que
+l'on cite, et vivent, pour ainsi dire, avec eux. Les livres qui traitent
+de la Fable existaient, pour la plupart, au moment où Rollin écrivait ;
+il en parle avec éloge, et n'en souhaite pas moins l'ouvrage dont il
+trace le plan , et qui paraît être exécuté dans ce volume.</p>
+<p><pb/></p>
+<p>JV AVERTISSEMENT.</p>
+<p>« droits de nos poètes où la connaissance « de la Mythologie était mise
+en pra« tique 5 » ce qui avait paru suffisant pour excuser un défaut
+qu'il n'était pas possible d'éviter.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE,</p>
+<p>TIRÉE</p>
+<p>DES POÈTES FRANÇAIS.</p>
+<p>ORIGINE DE LA MYTHOLOGIE.</p>
+<p>LIA Mythologie n'est point autre chose que la connaissance de la Fable
+ou de l'Histoire poétique.</p>
+<p>Ce premier égarement fut suivi d'une idolâtrie plus marquée, et, dans un
+sens, moins excusable. Vers l'an du inonde 2700, Ninus, fils de Bélus,
+empereur des Assyriens,</p>
+<p><pb/></p>
+<p>D \ HISTOIRE POETIQUE.</p>
+<p>Bientôt une foule d'idoles Usurpa l'encens des mortels : Dieux sans
+force, orncmens frivoles De leurs ridicules autels. Amoureux de son
+esclavage, Le monde offrit un fol hommage Aux monstres les plus odieux :
+L'insecte eut des demeures saintes ; Et par ses désirs et ses craintes,
+L'homme aveugle compta ses dieux.</p>
+<p>LAMOTTE.</p>
+<p>Les premiers étaient placés au ciel, ou te-</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 7</p>
+<p>naient le premier rang sur la terre, dans la mer et aux enfers : comme
+Saturne , Cybèle, Jupiter, Junon, Apollon, Diane., Bacchus, Mercure,
+Yénus,. Mars, Neptune, Amphitrite, Pluton, Proserpine, etc. Les seconds
+étaient placés sur la terre, dans la mer et aux enfers , mais n'y
+tenaient qu'un rang très-inférieur aux premiers, dont ils dépendaient
+même pourïa plupart : tels étaient le dieuPan ; les déesses Flore, Paies
+et Pomone ; les Nymphes , les Tritons, etc. , et tous les dieux des
+fleuves, des rivières, des bois, des campagnes , des villes , des
+carrefours, des rues, des maisons, etc. Les demi-dieux étaient les héros
+qui descendaient de quelque dieu, soit du côté paternel, soit du côté
+maternel, ou. dont le père ou la mère avait cet avantage, comme Persée ,
+Hercule, Thésée , Castor et Pollux, Jason, Orphée, Cadmus, Achille, etc.</p>
+<p>On rendait encore les honneurs divins aux vices et aux vertus, que l'on
+transformait en dieux o.u en de'esses : on bâtissait des temples et l'on
+faisait des sacrifices en l'honneur de l'Envie, de la Fraude yfde la
+Calomnie, de la Discorde, de la Fureur, de la Guerre , etc. ; de la
+Fidélité, de la Justice, de la Piété, de la Vérité, de la Liberté , de
+la Paix, etc.</p>
+<p>Les malheurs de la ville de Thèbes, l'expédition des Argonautes ou
+l'enlèvement de la-Toison d'or, la guerre de Troie et tous le*</p>
+<p><pb/></p>
+<p>8 HISTOIRE POÉTIQUE.</p>
+<p>héros qui s'y sont distingués, forment encore une partie considérable de
+la Mythologie.</p>
+<p>Oui, c'est toi, peintre inestimable, Trompette d'Achille et d'Hector,
+Par qui de l'heureux siècle d'or, L'homme entend le langage aimahlc, Et
+voit dans la variété Des portraits menteurs de la Fable, Les rayons de
+la vérité.</p>
+<p>11 voit l'Arbitre du tonnerre Réglant le sort par ses arrêts ; Il voit
+sous les yeux de Cérès Croître les trésors de la terre ; 11 reconnaît le
+dieu des mers, A ces sons qui calment la guerre Qu'Éole excitait dans
+les airs.</p>
+<p>Plus heureux, si son coeur n'aspire Qu'aux douceurs de la liberté,</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 9</p>
+<p>Astrée est la divinité Qui lui fait chérir son empire ; S'il s'élève au
+sacré vallon, Son enthousiasme est la lyre Qu'il reçoit des mains
+d'Apollon.</p>
+<p>Ainsi, consacrant le système De la sublime fiction, Homère, nouvel
+Amphion , Change, par la vertu suprême De ses accords doux et sarnns,
+Nos destins , nos passions même, Eu êlres réels et vivans.</p>
+<p>Ce n'est plus l'homme qui, pour plaire ,</p>
+<p>Etale ses dons ingénus: '</p>
+<p>Ce sont les Grâces, c'est Vénus,</p>
+<p>Sa divinité tutélaire ;</p>
+<p>La sagesse qui brille en lui,</p>
+<p>C'est Minerve dont l'oeil l'éclairé,</p>
+<p>Et dont le bras.lui sert d'appui.</p>
+<p>L'ardente et fougueuse Bellone Arme son courage aveuglé ; Les frayeurs
+dont il est troublé, Sont le flambeau de Tisiphone; Sa colère est Mars
+en fureur ; Et ses remords sont la Gorgone, Dont l'aspect le glace
+d'horreur.</p>
+<p>ROUSSEAU.</p>
+<p>C'est au langage de la Fable que la poésie est redevable des qualités
+qui la distinguent : lui seul l'embellit, l'élève, et lui donne ces</p>
+<p><pb/></p>
+<p>:l6 HISTOIRE POÉTIQUE.</p>
+<p>Là, pour nous enchanter, tout est mis en usage ;</p>
+<p>Tout prend un corps , une âme, un esprit, un visage,,</p>
+<p>Chaque vertu devient une divinité :</p>
+<p>Minerve est la Prudence, et Vénus la Beauté.</p>
+<p>Ce n'est plus la vapeur qui produit le tonnerre,</p>
+<p>C'est Jupiter armé pour effrayer la terre.</p>
+<p>Un orage terrible aux yeux des matelots,</p>
+<p>C'est Neptune en courroux qui gourmande les flots.</p>
+<p>Écho n'est plus un son qui dans l'air retentisse ,</p>
+<p>C'est une Nymphe, en pleurs qui se plaint de Narcisse.</p>
+<p>Ainsi, dans cet amas de nobles fictions ,</p>
+<p>Le poète s'égaie en mille inventions ,</p>
+<p>Orne, élève, embellit, agrandit toutes choses ,</p>
+<p>Et trouve sous sa main des fleurs toujours cclosi'S.</p>
+<p>BolLEAU.</p>
+<p>Les poètes'né méritent ce titre honorable , qu'autant qu'ils suivent les
+difféiens sentiers tracés par la Fable; s'ils s'en écartent, ils ne sont
+plus que de • froids versificateurs. Quel agrément, quel intérêt
+pourrait se trouver dans un sujet dénué des grâces de-la Fable, que l'on
+appelle communément les grâces de la poésie !</p>
+<p>Qu'Enée et ses vaisseaux, par le vent écartés, Soient aux bords
+africains d'un orage emportés , Ce n'est qu'une aventure ordinaire et
+commune, Qu'un coup peu surprenant des traits de la Fortune. Mais que
+Junon, constante en son aversion ,</p>
+<p><pb/></p>
+<p>.HISTOIRE POETIQUE. JJ</p>
+<p>Poursuive sur les flots les restes d'Ilion ;</p>
+<p>Qu'Éole, en aa faveur, les chassant d'Italie, ,, t r.</p>
+<p>Que Neptune en courroux, s'élevant sur la mer&gt;,.</p>
+<p>D'un mot calme les flots, mette la paix dans-ï'air,</p>
+<p>Délivre les vaisseaux , des syrtes les arrache ;</p>
+<p>Sans tous ces ornemens, le vers tombe en langueur,</p>
+<p>La poésie est morte, ou rampe sans vigueur;</p>
+<p>Le poète n'est plus qu'un orateur timide,</p>
+<p>Qu'un froid historien d'une fable insipide.</p>
+<p>EOILEAU.</p>
+<p>Otez Pan et sa flûte, adieu les pâturages ;</p>
+<p>Otez Pomone et Flore, adieu les jardinages :</p>
+<p>Des roses et des lis le plus superbe éclat,</p>
+<p>Sans la Fable, en nos versT n'aura rien que de plat.</p>
+<p>Ce n'est pas que j'approuve en un sujet chrétien Un auteur follement
+idolâtre et païen ; Mais, dans une profane et riante peinture,</p>
+<p><pb/></p>
+<p>Ï2 HISTOIRE POÉTIQUE.</p>
+<p>BOILEAU.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. l3</p>
+<p>PREMIERE PARTIE DE LA FABLE.</p>
+<p>LES, DIEUX, DU PREMIER ORDRE.</p>
+<p>/'</p>
+<p>Tous les poètes remontent jusqu'au Chaos /</p>
+<p>et conviennent que c'était une masse informe,</p>
+<p>dans laquelle le ciel, la terre , la mer et tous</p>
+<p>les élément se trouvaient confondus.</p>
+<p>Avant que l'air, les eaux et la lumière, Ensevelis dans la masse
+première , Fussent éclos, par un ordre immortel, Des vastes flancs de
+l'abîme éternel, Tout n'était rien. La Jiature enchaînée., , Oisive'et
+morte, avant que d'être née, Sans mouvement, sans forme, sans vigueur,
+N'était qu'un corps abattu dé langueur, Un'sombre amas de principes
+stériles, | De l'existence élémens immobiles. . Dans ce chaos ( ainsi
+par nos aïeux, Fut appelé ce désordre odieux ), En pleine paix sur son
+trône affermie, ' ■-</p>
+<p>Les élémens pêle-mêle diffus,</p>
+<p><pb/></p>
+<p>l4 HISTOIRE POÉTIQUE.</p>
+<p>ROUSSEAU.</p>
+<p>De ce Chaos est sorti le Destin, divinité allégorique représentée tenant
+sous ses pieds le globe de la-terre, ;et d^tn? ses.mains une urne dans
+laquelle est renfermé le sort des hommes: Oh croyait ses arrêts
+irrévocables : son pouvoir était si grand, que tous'les autres dieux
+lui.étaient..subordonné.s. On l'appelait indifféremment, le Sort ou le
+JDestin. On prétend encore qu'il avait un -livre où les destinées des
+hommes étaient'écrites :</p>
+<p>VotiAim.</p>
+<p><pb/></p>
+<p>/</p>
+<p>HISTOIRE POÉTIQUE. ï5</p>
+<p>Quelquefois on représente le Destin dans un temple ou dans un palais
+fermé par cent portes d'airain, et environné de remparts qui en
+défendent l'entrée. Dorât décrit ainsi le temple du Destin :</p>
+<p><pb/></p>
+<p>h&amp; HISipytE-POÉTIQUE.</p>
+<p>: : jOnvré l'abîme où disparaît la vie,</p>
+<p>D'un bras de fer courbe le front des rois, Tient sous ses pieds la terre
+assujétie, Et dit au Temps : « Exécute mes lois. »</p>
+<p>Les poètes enseignent que le Temps est chargé d'exécuter les ordres du
+Destin :</p>
+<p>VOLTAIRE.</p>
+<p>LE CIEL.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 1</p>
+<p>A ce discours chacun fait éclater</p>
+<p>Son allégresse ; et saus plus consulter,</p>
+<p>Tout ce grand choeur, qu'un même zèle anime</p>
+<p>Ayant franchi les vastes champs de l'air,</p>
+<p>Au .firmament, demeure pacifique</p>
+<p>Du dieu des Cieux, reprend sa place antique.</p>
+<p>Le Ciel les voit inclinés devant lui j</p>
+<p>Et d'un souris, garant de son appui,</p>
+<p>Je sais, dit-il, quel motif vous amène ,</p>
+<p>Le grand partage où vous aspirez tous.</p>
+<p>ROUSSRAU.</p>
+<p>SATURNE.</p>
+<p><pb/></p>
+<p>l8 HISTOIRE POÉTIQUE.</p>
+<p>Ce vieillard qui, d'un vol agile, Fuit sans jamais être arrêté , Le
+Temps, cette image mobile De l'immobile éternité, A peine du sein des
+ténèbres, Fait éclore les faits célèbres, Qu'il les replonge dans la
+nuit : Auteur de tout ce qui doit être, Il détruit tout ce qu'il fait
+naître, A mesure qu'il le produit.</p>
+<p>ROUSSEAU.</p>
+<p>Saturne ayant lu dans le livre du Destin.,</p>
+<p>que Jupiter envahirait son royaume, voulut</p>
+<p>• prévenir ce malheur. Il déclara la guerre à</p>
+<p>son fils, et lui tendit des embûches où il</p>
+<p><pb/></p>
+<p>HISTOIRE POETIQUE. 19</p>
+<p>FONTBHELLI.</p>
+<p>Les quatre Ages ont cependant, chez les poètes, un rapport plus immédiat
+au règne de Saturne.</p>
+<p><pb/></p>
+<p>20 ' HISTOIRE POÉTIQUE.</p>
+<p>L'Age d'or est le plus célèbre , parce qu'il prête davantage aux charmes
+de la poésie, et parce qu'il est plus agréable de peindre le bonheur des
+hommes, que les maux dont ils ont été la proie. Cet âge est proprement
+le règne de Saturne : on vivait alors dans l'innocence , et la terre
+produisait d'elle-même , sans avoir besoin d'être cultivée.</p>
+<p>La Terre, féconde et parée, Mariait l'Automne au Printemps ; L'ardent
+Phébus, le froid Borée, Respectaient l'honneur de ses champs : Partout,
+les dons brillans de Flore Sous ses pas s'empressaient d'éclore, Au gré
+du Zéphyr amoureux : Les moissons, inondant les plaines, N'étaient ni le
+fruit de nos peines, Ni le prix tardif de nos voeux. -.</p>
+<p>Mais, pour le bonheur de la vie, C'était peu que tant de faveurs ;
+Trésors bien plus dignes d'envie , Les vertus habitaient les coeurs.
+Pères, enfans, époux sensibles, Nos devoirs, depuis si pénibles,
+Faisaient nos plaisirs les plus doux ; Et l'égalité naturelle, Mère de
+l'amitié fidèle, Sous ses lois nous unissait tous.</p>
+<p>LAMOTTF..</p>
+<p>L'Age d'argent marque le temps où Saturne , chassé du ciel, se réfugia
+dans l'Italie et y enseigna l'agriculture, la terre devenant</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 21.</p>
+<p>LAHOTTE.</p>
+<p>L'Age d'airain est le temps qui suivit le règne de Saturne : les hommes,
+devenus médians, virent tous les vices, remplacer leurs vertus :</p>
+<p>Aux cris de l'Audace rebelle Accourt la Guerre au front d'airain ; La
+rage en ses yeux étincelle, Et le fer brille dans sa main : Par le faux
+Honneur qui la guide, Bientôt, dans son art parricide, S'instruisent les
+peuples entiers; Dans le sang on cherche la gloire l Et, sous le beau
+nom de Victoire, Le meurtre usurpe les lauriers.</p>
+<p>LAMOTIE.</p>
+<p>L'Age de fer est le temps où la terre, souillée par des crimes, ne
+produisait plus rien :</p>
+<p><pb/></p>
+<p>22 HISTOIRE POETIQUE.</p>
+<p>Fureur, trahison mercenaire, L'or vous enfante ; j'en frémis ! Le frère
+meurt des coups du frère, Le père de la main du fils ! L'honneur fuit,
+l'intérêt l'immole; Des lois que partout on viole, Il vend le silence ou
+l'appui j Et le crime serait paisible, Sans le remords incorruplible Qui
+s'élève encor contre lui.</p>
+<p>LAMOTTE.</p>
+<p>Pendant la courte durée De cet Age radieux , Qui vit la terre honorée De
+la présence des dieux, L'hommeinstruit par l'habitude , Marchant avec
+certitude Dans leurs sentiers lumineux, Imitait sans autre étude Ce
+qu'il admirait en eux.</p>
+<p>ROUSSEAU.</p>
+<p>Quelque brillantes que soient les peintures de l'Age d'or, on sent
+qu'elles ne sont que d'agréables mensonges :</p>
+<p>Mais sous tes saintes lois, croirai-je Que l'homme ait eu le privilège</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 23</p>
+<p>De fixer jadis ses plaisirs P Ou ce règne si favorable N'est-il qu'un
+fantôme agréable, Né de nos impuissans désirs ?</p>
+<p>LAJIOTIE.</p>
+<p>CYBELE.</p>
+<p>Cybèle, épouse du Ciel, mère de Saturne, était la déesse de la terre, et
+la mère de tous les dieux : c'est pourquoi on l'appelle la grande mère.
+On lui attribue la fécondité de la terre :</p>
+<p>ROUSSEAU.</p>
+<p>Il ne faut point la confondre avec une autre Cybèle, fille du Ciel et de
+la Terre, épouse de Saturne, et plus connue sous le nom de Rhée ou de
+Vesta :</p>
+<p>Les humains vertueux, sous le sceptre de Rhée, Virent du siècle d'or la
+trop courte durée.</p>
+<p>GRESSBT.</p>
+<p><pb/></p>
+<p>24 HISTOIRE POÉTIQUE.</p>
+<p>On suppose que cette seconde Cybèle régna sur la terre avec Saturne ; et
+on lui attribue souvent le bonheur dont les hommes jouissaient pendant
+l'Age d'or.</p>
+<p>Et si l'aimable Cybèle ) Sur cette terre infidèle</p>
+<p>Daignait redescendre encor, Pour faire vivre avec elle ' Les vertus de
+l'Age d'or.</p>
+<p>ROUSSEAU.</p>
+<p>JUPITER.</p>
+<p>Jupiter, fils de Saturne et de Cybèle, était appelé le Père des Dieux et
+des Hommes. Il</p>
+<p><pb/></p>
+<p>HISTOIRE POETIQUE. . 23</p>
+<p>fut élevé secrètement dans l'île de Crète par les Corybantes, qui
+dansaient en frappant sur des bassins d'airain , pour empêcher que
+Saturne entendît les cris de cet enfant. Il fut allaité par la chèvre
+Amalthée , qu'il changea dans la suite en constellation , et la plaça au
+ciel. Les Nymphes, qui avaient pris soin de son enfance, eurent une des
+cornes de cette chèvre : elle leur produisait tout ce qu'elles
+voulaient. C'est ce qu'on appelle la corne d'Abondance.</p>
+<p>Les dieux ont partagé le monde, Et leur pouvoir est différent ; Mais ton
+vaste empire comprend Les cieux, l'enfer, la terre et l'onde : Les dieux
+ont partagé le monde, Mais tu réunis tout sous un pouvoir plus grand.</p>
+<p>FoHTERELLE.</p>
+<p>Les Titans, ou les Géans, fils de la Terre et de Titan, entreprirent de
+rétablir leur père sur le trône, et d'en chasser Jupiter. Ils s'as2</p>
+<p>s'as2</p>
+<p><pb/></p>
+<p>26 HISTOIRE POÉTIQUE.</p>
+<p>semblèrent dans les champs de la Thessalie, où ils mirent plusieurs
+montagnes les unes sur lès autres, afin d'escalader le ciel :</p>
+<p>MALHERBE.</p>
+<p>VOLTAIRE.</p>
+<p>MALHERBE. '</p>
+<p>Tous les Dieux effrayés quittèrent le ciel,</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 27</p>
+<p>excepté Bacchus, et se sauvèrent en Egypte, où ils prirent, pour se
+cacher, différentes formes d'animaux, d'arbres et de plantes. Les
+Égyptiens prétendaient sans doute, par ce trait de fable dont ils sont
+les inventeurs , justifier la stupide confiance avec laquelle ils
+adoraient jusqu'aux légumes qui croissaient dans leurs jardins.</p>
+<p>Le haut Olympe en ses antres humides Vit bouillonner le sang des Aloïdes
+: Sous Pélion Mimas fut abîmé ; Et dans le creux de son gouffre
+enflammé, Le mont voisin de l'amante d'Alphée Mugit encor des soupirs de
+Typhée.</p>
+<p>ROUSSEAU.</p>
+<p>L'Olympe, le mont Ossa et le Pélion, qui sont dans la Thessalie , furent
+les montagnes principales dont les Titans se servirent pour escalader le
+ciel. Les poètes ont prétendu que Typhoé était enseveli sous l'Etna,
+montagne de Sicile , qui vomit des tourbillons de feu et de matières
+enflammées :</p>
+<p>Typhée, enchaîné dans ce gouffre D'où partent la flamme et le soufre Que
+vomit l'effroyable Etna,</p>
+<p><pb/></p>
+<p>28 HISTOIRE POÉTIQUE.</p>
+<p>Jadis, de sa prison profonde, Donna des secousses au monde, Dont le dieu
+des morts s'étonna.</p>
+<p>LAMOTTE.</p>
+<p>Quinault célèbre ainsi la victoire de Jupiter sur les Géans :</p>
+<p>Us sont ensevelis sous la masse pesante</p>
+<p>Des monts qu'ils entassaient pour attaquer les cieux :</p>
+<p>Nous avons vu tomber leur chef audacieux</p>
+<p>Faisons de leur repos rougir les Immortels. Du feu des cieux je me suis
+rendu maître ;</p>
+<p>LAMOTIE.</p>
+<p><pb/></p>
+<p>HISTOIRE POETIQUE. 2g</p>
+<p>Jupiter, pour punir cette orgueilleuse audace, ordonna à" Vulcain
+d'enchaîner Prométhée sur le mont Caucase , où un vautour mangerait son
+foie, qui renaîtrait toujours pour éterniser ce tourment. Dans la suite
+des temps, Hercule tua le vautour et détacha du rocher Prométhée.</p>
+<p>lgnores-tu donc encore Que tous les fléaux tirés De la boîte de Pandore,
+Se sont du monde emparés ; Que l'ordre de la nature Soumet la pourpre et
+la bute Aux mêmes sujets de pleurs ; Et que, tout fiers que nous sommes,
+Nous naissons tous faibles hommes, . Tributaires des douleurs?</p>
+<p>ROI'SSEAL'.</p>
+<p><pb/></p>
+<p>30 HISTOIRE POÉTIQUE.</p>
+<p>L'Espérance seule resta au fond de cette boîte, devenue célèbre sous le
+nom de la Boîte de Pandore. Rousseau a renfermé dans ces vers tout ce
+que l'on peut dire et savoir de mieux sur ce sujet :</p>
+<p>ROUSSEAU.</p>
+<p>Les métamorphoses de Jupiter sont souvent célébrées par les poètes. Il
+se changea en Sa-</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 3l</p>
+<p>tyre pour surprendre Antiope, dont il eut Zéthus et Amphion ; en pluie
+d'or, pour pénétrer dans la tour d'airain où était enfermée Danàé, fille
+d'Acrisius, roi d'Argos, qui fut la mère de Persée :</p>
+<p>LAMOTTE.</p>
+<p>Par quel enchantement Ce fier taureau fend-il le sein de l'onde1?"- Ah!
+malgré son déguisement-, ' '"- :" L'on connaît le maître du mondé.' '■;</p>
+<p>LÀ GRAHGÉ-GHASCEL.</p>
+<p>Il prit la figuré d'un cyghe pôiir'tromper Léda, épouse de Tyndare.3 roi
+d'OEb.alie, et ïrièrè de Castor, de Pollux , d'Ëélèhe et de
+"Clytemnestre, que l'on appelle souvent les Tyndarides :</p>
+<p>Satyre, aigle, serpent, cygne aux brillantes ailes Ou taureau traversant
+les flots :</p>
+<p><pb/></p>
+<p>3a HISTOIRE POÉTIQUE.</p>
+<p>Cent fois il a daigné, sous cent formes nouvelles, Peupler le monde de
+héros,</p>
+<p>LAMOTTE.</p>
+<p>Jupiter prit la forme de Diane pour tromper Calysto, l'une des nymphes
+de cette déesse ; il en eut 'Arcas : Junon le changea en ours avec
+Calysto. Jupiter les plaça au ciel : on les appelle la Grande Ourse , et
+Bootès,</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE, 33</p>
+<p>ou la Petite Ourse. Alcmène fut aussi trompée par Jupiter, qui avait
+pris la figure. d'Amphytrion, son époux :</p>
+<p>Passe encor de le voir, de ce sublime étage, Dans celui des hommes venir.</p>
+<p>Si, dans les changemens.où son humeur l'engage,</p>
+<p>A la nature humaine il s'en voulait tenir ; Mais de voir Jupiter
+taureau, Serpent, cygne, ou quelque autre chose ; Je ne trouve point
+cela beau,</p>
+<p>Et ne m'étonne pas si parfois on en cause.</p>
+<p>MOLIÈRE.</p>
+<p>Et Jupiter assis sur le trône des airs,</p>
+<p>Ce dieu qui d'un clin d'oeil ébranle l'univers,</p>
+<p>Et dont les autres dieux ne sont que l'humble escorte,</p>
+<p>Leur imposa silence, et parla de la sorte.</p>
+<p>ROUSSEAU.</p>
+<p>Muscs ! donnez au maître du tonnerre</p>
+<p>Le premier rang dans vos nobles chansons :</p>
+<p>Il est tout, il remplit les cieux, l'onde , la terre;</p>
+<p>GnESSET.</p>
+<p><pb/></p>
+<p>34 HISTOIRE POÉUQUE.</p>
+<p>JUNON.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 35</p>
+<p>QuiHAULT.</p>
+<p><pb/></p>
+<p>.4T 3&amp; HISTOIRE POÉTIQUE.</p>
+<p>caractérisent bien l'orgueil de cette déesse impérieuse :</p>
+<p>ROUSSEAU.</p>
+<p>Des filles de Prétus les fureurs sont connues ; Leurs vains mugissemens
+insultèrent les nues, ' Mais leur délire ardent, leurs stupides fureurs,
+N/ont jamais de la Crète égalé les horreurs.</p>
+<p>GRESSET .</p>
+<p><pb/></p>
+<p>; „ ^HISTOIRE'" POÉTIQUE. .37</p>
+<p>Junon présidait aux mariages ; on l'invo,-_&gt; quait alors par des voeux,
+et on-lui faisait de * grands sacrifices :</p>
+<p>O toi qui de l'hymen défends les sacrés noeuds,</p>
+<p>O Junon , puissante déesse !</p>
+<p>LINOTTE.</p>
+<p>Elle présidait aussi aux accouchemens ; et alors on l'invoquait sous le
+nom de Lucine :</p>
+<p>Hàtez-vous , ô chaste Lucine, Jamais plus illustre origine Ne fut digne
+de vos faveurs. &lt;</p>
+<p>ROUSSEAU.</p>
+<p>En ce moment, Iris, plus vite que Roree, Messagère des dieux, fend la
+plaine azurée,</p>
+<p>LAMOTTE.</p>
+<p>Junon, voulant la récompepser de ce qu'elle lui annonçait toujours
+d'heureuses</p>
+<p>3</p>
+<p><pb/></p>
+<p>38 HISTOIRE POÉTIQUE. ,}</p>
+<p>nouvelles, la changea en arc, et la plaça au ciel : c'est ce que nous
+appelons l'Arc-en-ciel, et quelquefois l'Iris.</p>
+<p>APOLLON.</p>
+<p>Ainsi, tant que d'Admète il fut l'heureux pasteur, Des champs
+thessaliens il fit tout le bonheur.</p>
+<p>LAMOTTE.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 3g</p>
+<p>En jouant au palet avec son ami Hyacinthe, il eut le malheur de le tuer.
+Il le métamorphosa en une fleur qui porte le même nom, et regretta
+long-temps cet ami fidèle :</p>
+<p>GRESSET.</p>
+<p>O dieu de la clarté ! vous réglez la mesure Des jours, des saisons et
+des ans,</p>
+<p><pb/></p>
+<p>4o HISTOIRE POÉTIQUE.</p>
+<p>C'est vous qui produisez dans les fertiles champs</p>
+<p>Les fruits, les fleurs et la verdure ; Et toute la nature</p>
+<p>N'est riche que de vos présens.</p>
+<p>La nuit, l'horreur et l'épouvante S'emparent du séjour que vous
+abandonnez ;</p>
+<p>Tout brille, tout rit, tout nichante ,</p>
+<p>Dans les lieux où vous revenez.</p>
+<p>QulRAULT.</p>
+<p>Épaphus, fils de Jupiter et d'Io, jouant un jour avec Phaéton , eut une
+querelle avec lui ; et, pour l'humilier, il lui contesta sa naissance.
+Phaéton lui répondit :</p>
+<p>Vos yeux sont fermés par l'envie ;</p>
+<p>Malgré vous , ils seront ouverts ; J'espère que le dieu qui m'a donné la
+vie M'avoûra pour son fils aux yeux de l'univers.</p>
+<p>QUINAULT.</p>
+<p>Plein d'impatience de l'emporter sur son rival, il va trouver Clymène,
+sa mère, qui le confirme dans son projet :</p>
+<p>Mon dessein sera beau , dussé-je y succomber;</p>
+<p>Quelle gloire si je l'achève! Il est beau qu'un mortel jusques aux cieux
+s'élève,</p>
+<p>11 est beau même d'en tomber.</p>
+<p>QUIKAULT.</p>
+<p>En conséquence de cette résolution téméraire , Phaéton monte au palais
+du Soleil par le secours de Minerve. Apollon , apercevant son fils, se
+dépouille de ses rayons, et jure par le Styx de lui accorder tout ce
+qu'il de-</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 4*</p>
+<p>mandera, comme un gage de la tendresse paternelle. Phaéton demande et
+obtient la grâce de conduire le char du soleil pendant un jour. A peine
+est-il sur l'horizon que les chevaux, ne reconnaissant point la main qui
+les conduisait ordinairement, prennent le mors aux dents. Tantôt le
+soleil embrase le ciel, tantôt il s'approche si près de la terre qu'il
+lui fait craindre une combustion prochaine :</p>
+<p>Roi des dieux, armez-vous ; il n'est plus tempsd'attendre :</p>
+<p>Les cieux ne peuvent s'en défendre. . . .</p>
+<p>QUIKAULT.</p>
+<p>Jupiter, surpris de ce désordre, foudroie Phaéton, et le précipite dans
+le Pô, fleuve d'Italie, que les poètes appellent communément l'Eridan.
+Clymène aurait dû prévenir le malheur de son fils, que Protée lui avait
+prédit :</p>
+<p>Dieux ! je frémis ! que vois-je? ô dieux ! Tremblez pour votre (ils ,
+ambitieuse mère !</p>
+<p>Où vas-tu , jeune téméraire? Tu dois trouver la mort dans la gloire où
+tu cours.</p>
+<p>QuiHAUtT.</p>
+<p><pb/></p>
+<p>4a HISTOIRE POÉTIQUE.</p>
+<p>Cygnus, ami de Phaéton, fut si touché de cette mort, que Jupiter le
+métamorphosa en cygne. Lampétuse , Lampétie et Phaéluse, appelées
+communémentlesHéliades, pleurèrent la mort de Phaéton, leur frère, avec
+tant de sincérité , que , pour les récompenser, Jupiter les changea en
+peupliers, et leurs larmes en ambre.</p>
+<p>ROUSSEAU.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE, A3</p>
+<p>Je fréquentais alors les sources d'Hippocrène, D'où , selon mes désirs,
+les vers coulaient sans peine : Eloigné, dès long-temps, de ces bords
+enchantés, J'ai presque du Permesse oublié les beautés; Et l'Hélicon,
+jadis mon séjour ordinaire , Aujourd'hui me paraît une terre étrangère.</p>
+<p>CAMPISTRON.</p>
+<p><pb/></p>
+<p>44 HISTOIRE POÉTIQUE.</p>
+<p>Quelle est cette fureur soudaine? Le mont sacré m'est dévoilé , Et je
+vois jaillir l'Hippocrène Sous le pied du cheval ailé. Un dieu, car j'en
+crois cette flamme Que son aspect verse en mon âme, Dicte des lois aux
+chastes Soeurs ; ' L'immortel laurier le couronne , Et sous ses doigts
+savans résonne Sa lyre, maîtresse des coeurs.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 4^</p>
+<p>' Chez les filles de Mémoire Allez appvendre l'histoire De ce serpent
+abhorré , Dont l'haleine détestée, De sa vapeur empestée, Souilla leur
+séjour sacré.</p>
+<p>Lorsque la terrestre masse Du déluge eut bu les eaux, Il effraya le
+Parnasse Par des prodiges nouveaux. Le ciel vit ce monstre impie , Né de
+la fange croupie Au pied du mont Pélion , Souffler son infecte rage
+Contre le naissant ouvrage Des mains de Deuc;ilîon.</p>
+<p>Mais le bras sflr et terrible Du dieu 'jui donne le jour Lava dans son
+sang horrible L'honneur du docte séjour. Bientôt de la Thessalie, Par sa
+dépouille ennoblie , Les champs en furent baignés ; 'Et du Cépliise
+rapide Son corps affreux et livide Grossit les flots indignés.</p>
+<p>• ROUSSEAU.</p>
+<p>Dans les autres temples, c'étaient des prêtres ou des prêtresses qui
+rendaient les oracles : ils se plaçaient sur un trépied, invoquaient
+Apollon par des hurlemens horribles ; ils entraient en fureur, et
+donnaient leurs ré3.</p>
+<p>ré3.</p>
+<p><pb/></p>
+<p>46 HISTOIRE POETIQUE.</p>
+<p>Ou tel que d'Apollon le ministre terrible , Impatient du dieu dont le
+souffle invincible</p>
+<p>Agite tous ses sens, Le regard furieux , la tête échcvelée, Du temple
+fait mugir la demeure ébranlée Par ses cris impuissans.</p>
+<p>ROUSSEAU.</p>
+<p>Il y avait auprès de Dodone, ville d'Epire, une forêt consacrée à
+Jupiter, dont les arbres rendaient des oracles ; on l'appelait la forêt
+de Dodone:</p>
+<p>Arbres sacrés, rameaux mystérieux , Troncs célèbres , par qui l'avenir
+se révèle, Temples que la nature élève jusqu'aux cieux, A qui le
+printemps donne une beauté nouvelle, Chênes divins, parlez tous; Dodone,
+répondez-nous.</p>
+<p>LAMOTTE.</p>
+<p>Daphné, fille du fleuve Pénée, évitant les poursuites d'Apollon , fut
+métamorphosée en laurier. Ce dieu s'en fit une couronne qu'il porta
+toujours, et voulut que le laurier lui fût consacré, qu'il servît de
+prix aux talens et fût la récompense des poètes :</p>
+<p>Auxplus savans auteurs, comme auxplusgrands guerriers, Apollon ne promet
+qu'un nom et des lauriers.</p>
+<p>BOILEAU.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. fa</p>
+<p>LES MUSES.</p>
+<p>Les Muses étaient filles de Jupiter et de Mnémosyne, ou la déesse de
+Mémoire. Elles étaient au nombre de neuf: Calliope, Clio, Erato,
+Melpomène, Thalie , Euterpe, Polymnie, Terpsichore et Uranie :</p>
+<p>Des empires divers Clio chante la gloire , Des rois, des conquérans,
+assure la mémoire,</p>
+<p>Calliope, accordant la lyre avec la voix, Eternise en ses vers
+d'héroïques exploits.</p>
+<p><pb/></p>
+<p>48 HISTOIRE POÉTIQUE.</p>
+<p>D'un spectacle agréable employant l'artifice, Thalie, en badinant, sait
+démasquer Le vice.</p>
+<p>Melpomène , avec pompe étalant ses douleurs ,</p>
+<p>Nous charme , en nous forçant de répandre des pleurs.</p>
+<p>Erato des Amours célèbre les conquêtes,</p>
+<p>Euterpe a de la flûte animé les doux sons, Aux plaisirs innocens
+consacre ses chansons.</p>
+<p>Polymnic a du geste enseigné le langage, Et l'art de s'exprimer des yeux
+et du visage.</p>
+<p>De l'esprit d'Apollon une vive étincelle Des filles de Mémoire anime les
+concerts :</p>
+<p>Et chef de leur tionpe immortelle, Il rassemble en lui seul tous les
+talens divers.</p>
+<p>DAKCIIET.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. %Op</p>
+<p>Préludent leurs plus doux concerts.</p>
+<p>LAMOTTE.</p>
+<p>Elles inspirent les poètes, que l'on appelle les nourrissons des Muses,
+ou leurs favoris, et les forment au vrai goût de la poésie. Elles seules
+peuvent assurer la gloire des héros par des vers dignes d'immortaliser
+leurs exploits :</p>
+<p>Vo&lt; vertus étouffées N'éclaireront jamais les yeux de l'avenir.</p>
+<p>Vous arrosez le champ de ces ny,mplirs sublimes; Mais vous savez aussi
+que vos faits magnanimes Ont besoin de lauriers cueillis dans leur
+vallon : Ne cherchons point ailleurs la cause sympathique</p>
+<p>De l'alliance antique Des favoris de Mars avec ceux d'Apollon.</p>
+<p>ROUSSEAU.</p>
+<p><pb/></p>
+<p>5o HISTOIRE POÉTIQUE,</p>
+<p>main gauche. Auprès d'elle sont les poèmes d'Homère et de Virgile,
+l'Iliade, l'Odyssée et l'Enéide :</p>
+<p>De la superbe Calliope</p>
+<p>La trompette frappe les airs.</p>
+<p>Que vois-je ? elle me développe</p>
+<p>Les secrets du vaste univers.</p>
+<p>Les cieux , les mers, le noir Cocyte,</p>
+<p>L'Elysée où la paix habite ,</p>
+<p>Sa voix enfante les miracles,</p>
+<p>Et, pour triompher des obstacles,</p>
+<p>Dispose du pouvoir des dieux.</p>
+<p>LAMOTTE.</p>
+<p>Melpomène, les yeux en larmes, De cris touchans vient me frapper. Quel
+art me fait trouver des charmes Aux pleurs que je sens m'échapper? La
+pitié la suit gémissante ;v La terreur toujours menaçante</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 5l</p>
+<p>La soutient d'un air éperdu. Quel infortuné faut-il plaindre P Ciel !
+quel est le sang qui doit teindre Le fer qu'elle tient suspendu?</p>
+<p>LAMOTTE.</p>
+<p>LAMOTTE.</p>
+<p><pb/></p>
+<p>52 HISTOIRE POÉTIQUE.</p>
+<p>De tous nos mouvemens es-tu donc la maîtresse?</p>
+<p>Tiens-tu notre coeur dans tes mains? Tu feins le désespoir, la haine, la
+tendresse ;</p>
+<p>Et je sens tout ce que tu feins.</p>
+<p>A tes gestes choisis une vue attentive</p>
+<p>De tes desseins suivrait le cours;</p>
+<p>LAMOTTE.</p>
+<p>Quelle Muse de fleurs nouvelles, Qu'assemble un (hoix ingénieux, Fait
+des guiilandes immortelles, Ornement des rois et des dieux? Elle chante,
+au gré de son zèle, Le fils enjoué de Sémèle , Ou l'aveugle fils de
+Vénus ; Et quelquefois dans les alarmes, Elle ose, pour le dieu des
+armes, Négliger l'Amour et Bacchus.</p>
+<p>LAMOTTE.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. - 55.</p>
+<p>Qu'entends-je? Euterpe an pied d'un hêtre,</p>
+<p>Chantant les troupeaux , les jardins,</p>
+<p>Du son d'une flûte champêtre</p>
+<p>Réveille les échos voisins.</p>
+<p>Deux bergers que sa voix enchante,</p>
+<p>Des biens tranquilles qu'elle chante</p>
+<p>Viennent étudier le prix ;</p>
+<p>Et tous deux osent auprès d'elle,</p>
+<p>Sur une musette fidèle,</p>
+<p>Redire ce qu'ils ont appris.</p>
+<p>LAMOTTE.</p>
+<p>LAMOTTE.</p>
+<p><pb/></p>
+<p>54 HISTOIRE POÉTIQUE.</p>
+<p>droite une trompette, et un livre dans la gauche :</p>
+<p>Mais la déesse de Mémoire, Favorable aux noms éclatans , Soulève
+l'équitable histoire Contre l'iniquité du temps; Et, dans le registre
+des âges, Consacrant les nobles images Que la gloire lui vient offrir,
+Sans cesse en cet auguste livre Notre souvenir voit revivre Ce que nos
+yeux ont vu périr.</p>
+<p>ROUSSEAU.</p>
+<p>Non, ce n'est point assez de vos charmans concerts,</p>
+<p>Une Muse vous manque encore. Croyez-vous réunir les suffrages divers</p>
+<p>Sans le secours de Terpsichore? C'est en vain qu'aujourd'hui des chants
+mélodieux</p>
+<p>Sur la scène appellent les Grâces; Si la danse n'amuse et ne charme les
+yeux, L'ennui suit les plaisirs et vole sur leurs traces.</p>
+<p>FUSELIER.</p>
+<p>DIANE.</p>
+<p>Diane, soeur d'Apollon , fille de Jupiter et de Latone, est distinguée
+par les poètes</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. §5</p>
+<p>sous trois rapports diffère n s : ce qui lui a fait donner le nom de
+iri/ile Hécate. On l'appelle la Lune ou Phébé dans le ciel, Diane sur la
+terre, Hécate dans les enfers. Les trois fonctions qui lui sont propres
+se trouvent bien, détaillées dans ces vers :</p>
+<p>Brillant astre des nuits, vous réparez l'absence</p>
+<p>Du dieu qui nous donne le jour ;</p>
+<p>Régner dans les vastes forêts ; Votre noble loisir sait imiter la guerre
+: Les monstres, dans vos jeux, succombent sous vos traits. Jusque dans
+les enfers votre pouvoir éclate ; Les mânes en tremblant écoulent votre
+voix;</p>
+<p>Au redoutable nom d'Hécate, Le sévère Pluton rompt lui-même ses lois.</p>
+<p>FoNTENELLE.</p>
+<p>Les poètes confondent presque toujours Hécate avec Proserpine ; elle
+n'avait cependant point d'autre pouvoir aux enfers que celui de retenir
+pendant cent ans, sur les bords du Styx , les ombres de ceux qui
+n'avaient point été inhumés.</p>
+<p><pb/></p>
+<p>56 HISTOIRE POÉTIQUE.</p>
+<p>tenant un arc d!une main, et de l'autre une flèche. Elle porte un
+croissant sur le haut du front, et un carquois sur les épaules :.elle
+est quelquefois montée sur un char traîné par des biches. On lui donne
+un port majestueux, et un air de modestie mêlée de fierté.</p>
+<p>ROUSSEAU.</p>
+<p>On l'appelle ordinairement la chaste. Diane, parce qu'elle ne voulut
+jamais se marier ; et qu'elle changea en cerf le chasseur Actéon, qui
+avait eu la témérité de la regarder dans le bain. On dit cependant
+qu'elle aima le berger Endymion ; mais elle n'est plus alors la déesse
+de la chasse :</p>
+<p>Dans cette cour charmante , La déesse qui vous conduit, Brille comme ,
+au milieu des astres de la nuit, Du jeune Endymion on voit briller
+l'amante.</p>
+<p>ROUSSEAU.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 5/}</p>
+<p>fable. La sévérité de Diane est bien moins incertaine : ,elle chassa de
+sa compagnie la nymphe Calysto , qui s'était laissé surprendre par
+Jupiter. Aréthusê étant poursuivie par le chasseur Alptiée , Diane
+changea la Nymphe enfontaine, pour la tirer du danger, et le chasseur en
+fleuve , pour le punir de sa témérité.</p>
+<p>La déesse tira une vengeance plus cruelle d'Aïthée , épouse d'OEnée ,
+roi de Calydou.</p>
+<p>Cette reine avait prétendu que ses filles étaient plus belles que Diane :</p>
+<p>Et toi, fille du dieu qui lance le tonnerre, Diane, qui toujours m'as
+déclaré la guerre, Si mon orgueil a pu si long-temps l'irriter, Par mon
+abaissement je vais te contenter.</p>
+<p>LA GKANGE-CHAKCEI..</p>
+<p>D'autres disent que le roi avait oublié Diane dans ses sacrifices : quoi
+qu'il en soit, la déesse irritée envoie dans les plaines deCalydon un
+sanglier monstrueux, qui porte partout une désolation cruelle :</p>
+<p>LA GKAKGE-CIIAKCEI,.</p>
+<p>Méléagre, vainqueur du sanglier, en offrit la. hure à. Atalante,
+princesse d'Arcadie ,</p>
+<p><pb/></p>
+<p>58 HISTOIRE POÉTIQUE;</p>
+<p>Je vis de l'Achéron les filles inflexibles ,</p>
+<p>Les Parques, aux mortels si fières, si terribles,</p>
+<p>S'approcher de mon lit, et, pour comble d'horreur,</p>
+<p>Par ces mots effrayans augmenter ma terreur :</p>
+<p>Reine, malgré Diane et toute sa puissance,</p>
+<p>Nous te venons d'un fils annoncer la naissance ;</p>
+<p>Eteins, et de nos mains prends ce flambeau fatal :</p>
+<p>Il te donne sur eux un empire suprême ;</p>
+<p>Jamais le feu sans toi ne le peut consumer ;</p>
+<p>Jamais autre que toi ne. le peut allumer;</p>
+<p>Mais tremble, et quelque jour garde-toi de toi-même.</p>
+<p>LA GRAKGE-CHAKCEL.</p>
+<p>Je reconnais Diane, et son courroux vengeur! Le poison qui me ronge ,
+augmente sa fureur. Dieux ! je brûle , et je sens, dans mes veines
+ardentes, Couler, au lieu de sang, des flammes dévorantes.</p>
+<p>LA GRAKGE-CHANCBI.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 5g</p>
+<p>Althe'e s'applaudit d'abord de la cruelle vengeance qu'elle tire de son
+fils :</p>
+<p>Dans ce funeste état c'est moi qui l'ai réduit: Le flambeau de ses jours
+était en ma puissance ; Le feu l'a consumé, j'ai pressé ma vengeance ;
+De son ingratitude il a reçu le prix.</p>
+<p>DAKCHET.</p>
+<p><pb/></p>
+<p>€o HISTOIRE POÉTIQUE.</p>
+<p>sien , voulant faire parler de lui, et ne pouvant ou ne voulant point
+s'immortaliser par quelque belle action , brûla ce temple, le jour même
+qu'Alexandre le Grand naquit en Macédoine: ce fut le sixième jour de
+juillet, l'an du monde mil six cent quatre-vingt dix-huit. Les six
+autres merveilles du monde étaient : Le Colosse de Rlw/es , statue
+d'airain, •qui représentait un homme d'une grandeur prodigieuse, placée
+debout sur deux tours / qui défendaient l'entrée du port de l'île de
+'Rhodes ; les plus grands mâts des vaisseaux passaient librement entre
+les jambes 'de cette statue. Elle avait cent cinq pieds de liaut. Un
+marchand juif en acheta les débris, «t en chargea neuf'cents chameaux.</p>
+<p>Le Mausolée , ou le tombeau de Mausole, Toi de Carie. Son épouse
+Artémise ne pouvait se consoler de la mort de ce prince :</p>
+<p>Ainsi, quand Mausole fut mort, Artémise accusa le Sort, De pleurs se
+noya le visage, Et dit aux astres innocens ' Tout ce que fait dire la
+rage, Quand elle est maîtresse des sens.</p>
+<p>MALHERBE.</p>
+<p>Pour adoucir sa douleur, elle fit bâtir ce tombeau avec des soins et des
+frais immenses ? et le rendit si magnifique, qu'il mérita</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 6l</p>
+<p>Le temple pouvait passer lui-même pour Une merveille ; il était orné de
+tout ce que la peinture et la sculpture pouvaient offrir de plus rare et
+de plus précieux ; les plus beaux marbres , le bronze, l'or et l'ivoire,
+décoraient l'intérieur de ce bâtiment, dont l'architecture était admirable.</p>
+<p>On dit que Phidias pria le dieu de lui marquer, pir quelque signe, si
+son travail lui était agréable, et qu'aussitôt la foudre frappa,</p>
+<p>4</p>
+<p><pb/></p>
+<p>62 HISTOIRE POÉTIQUE.</p>
+<p>le pavé du temple, dans un endroit que l'on montrait, et où l'on avait
+placé une urne de bronze.</p>
+<p>Le Phare d'Alexandrie : ce superbe édifice, ouvrage de Sostrate ,
+Gnidien , fut bâti sous le règne de Ptolémée Philadelphe , qui y employa
+des sommes immenses. Audessus d'un palais de inarbre blanc s'élevait une
+tour carrée , bâtie du même marbre , et d'une hauteur extraordinaire :
+c'était un composé de plusieurs galeries soutenues les unes sur les
+autres par de riches colonnes. Du haut de cet édifice , où l'on allumait
+tous les soirs un fanal pour éclairer l'entrée du port, on prétend que
+l'on découvrait tous les vaisseaux qui abordaient l'île de Rhodes,
+quoiqu'elle fût éloignée d'environ deux cents lieues. Il ne reste plus
+rien aujourd'hui de ce monument célèbre. /</p>
+<p>Les Jardins et les Murs de habjlone : ouvrages qui rendirent immortelle
+Sémiramis, reine d'Egypte, et qu'elle avait fait construire avec autant
+de solidité que de magnificence :</p>
+<p>Que la reine, en ces lieux brillans de sa splendeur, De son puissant
+génie imprime la grandeur! Quel art a pu former ces enceintes profondes
+, Où VEuphrate égaré porte en tribut s«9 ondes,</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 63</p>
+<p>Ce temple, ces jardins dans les airs soutenus, Ce vaste mausolée où
+repose Ninus ?</p>
+<p>VOLTAIRE.</p>
+<p>Ces jardins, d'une beauté surprenante , étaient très-vastes, et soutenus
+en l'air par des colonnes. Quinte Curce en fait une description fort
+détaillée au commencement de son cinquième Livre.</p>
+<p><pb/></p>
+<p>64 HISTOIRE POÉTIQUE.</p>
+<p>placée assise, et toute couverte de diamans. Les historiens qui ont
+parlé de ces miracles de l'art écrivaient dans des temps si éloignés de
+celui où on éleva les pyramides, que le nom des rois qui en exécutèrent
+le dessein, était entièrement oublié.</p>
+<p>BACCHUS.</p>
+<p>Bacchus était fils de Jupiter et de Sémélé, fille de Cadmus, roi
+d'Athènes :</p>
+<p>Comme souverain de la foudre T'aima la fille de Cadmus, Qui, malgré toi
+réduite en poudre, A peine te laissa Iiacchus.</p>
+<p>LAMOTTE.</p>
+<p>Junon , voulant se venger de Sémélé, mit tout en oeuvre pour piquer sa
+vanité. Vous pouvez , lui disait-elle, passer pour l'épouse de Jupiter :</p>
+<p>Exigez qu'aux Thébains lui-même il vienne apprendre</p>
+<p>Un choix pour vous si glorieux ; Qu'armé de son tonnerre il se montre à
+vos yeux;</p>
+<p>Que par le Styx if jure de descendre Avec tout l'appareil du souverain
+des dieux, Tel qu'aux yeux de Junon il paraît dans les cieux.</p>
+<p>LAMOTTE.</p>
+<p>Sémélé obtint cette grâce, quoique diffici-</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 65</p>
+<p>Bacchus, devenu grand, parcourut toute la terre, fit la conquête de
+l'Inde, et revint en Egypte où il enseigna aux hommes l'agriculture :</p>
+<p>CORKEltLE.</p>
+<p>Les conquêtes de Bacchus sont célèbres : on le regarde même comme le
+plus puissant des dieux après Jupiter. Il en était an moins le plus
+comageux : il fut le seul qui osa rester</p>
+<p>4-</p>
+<p><pb/></p>
+<p>6&amp; HISTOIRE POÉTIQUE.</p>
+<p>dans le ciel pendant la guerre des géans. On dit qu'il s'était changé en
+lion pour les combattre :</p>
+<p>C'est lui qui, des ftls de la Terre Châtiant la rébellion, Sous la forme
+d'un fier lion Vengea le maître du tonnerre; Et par lui les os de Rhécus
+Furent brisés comme le verre, Aux yeux de ses frères vaincus.</p>
+<p>ROUSSEAU.</p>
+<p>Il est ordinairement regardé moins comme le dieu des guerriers que comme
+celui du vin, parce que ce fut lui qui, le premier, planta la vigne et
+inventa la vendange.</p>
+<p>ROUSSEAU.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 67</p>
+<p>Puissant dieu des raisins, digne objet de mes voeux,</p>
+<p>En tous lieux je prétends te suivre.</p>
+<p>ROUSSEAU.</p>
+<p><pb/></p>
+<p>68 '' HISTOIRE POÉTIQUE.</p>
+<p>De ces Ménades révoltées Craignons l'impétueux courroux. Tu sais
+jusqu'où ce dieu jaloux Porte ses fureurs irritées, Et quelles tragiques
+horreurs , Des Lycurgues et des Pcnthées Payèrent les folles erreurs.</p>
+<p>ROUSSEAU.</p>
+<p>Penthée était un roi de Thèbes. Par mépris pour les dieux , il fit
+emprisonner Bacchus qui passait dans ses Etats. Le dieu s'échappa de la
+prison, et Penthée fut mis en pièces par sa propre famille, qui avait
+été frappée de fureur.</p>
+<p>MERCURE.</p>
+<p>Ce dieu, fils de Jupiter et de Maïa, avaît la charge d'interprète et de
+messager des dieux, mais surtout de Jupiter :</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. f-" 6p/</p>
+<p>t Moi qui suis, comme on sait, en terré et-daris les cieux Le fameux
+messager du souverain des dieux ; Et qui, sans rien exagérer, Par tous
+les emplois qu'il me donne , Aurais besoin , plus que personne, D'avoir
+de quoi me voiturer.</p>
+<p>^ MOLIÈRE.</p>
+<p>Toi qui d'une ardeur empressée Sers le maître de l'univers, Prends tes
+ailes, ton caducée, Vole, et va rouvrir les enfers. Cherche l'ombre de
+Roquelaure ; D'un ami qui le pleure encore C'était la plus chère moitié
+; Va, ce seul espoir me soulage, Va lui porter le tendre hommage Que lui
+rend ma triste amitié.</p>
+<p>LAMOTTE.</p>
+<p>Mercure était lui - même honoré comme le dieu de l'éloquence, du
+commerce et des voleurs.</p>
+<p><pb/></p>
+<p>&lt;JO '" HISTOIRE POETIQUE.</p>
+<p>On le regardait comme le dieu du commerce , parce qu'il avait inventé
+les poids, les mesures , et ce qui fait la science du négociant ; son
+nom seul semble l'indiquer : il vient du mot latin mercatura, qui
+signifie le commerce.</p>
+<p><pb/></p>
+<p>-HISTOIRE POÉTIQUE. ïjl</p>
+<p>gagner, et fut changé en cette pierre qui découvre la nature du métal
+qu'on lui fait toucher.</p>
+<p>LAHOTM.</p>
+<p><pb/></p>
+<p>52 "' HISTOIRE POETIQUE.,,</p>
+<p>VÉNUS.</p>
+<p>ROUSSEAU.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. &gt;: tâ</p>
+<p>Elle croit voir son fils, il en a tous les charmes ; Jamais rien de plus
+beau ne parut sous les cieux. , ROUSSEAU.</p>
+<p>Les poètes lui donnent plusieurs enfans : Cupidon ou l'Amour, les trois
+Grâces , l'Hymen, Priape et Enée; ils ajoutent qu'elle est. encore la
+mère des Ris, des Jeux et des Plaisirs , qu'ils représentent sous la
+forme de génies , ou de petits enfans ailés. On raconte beaucoup de
+merveilles de la ceinture de Vénus : c'était un tissu qui renfermait
+toutes les grâces , et faisait infailliblement aimer la personne qui le
+portait. Junon vint un jour consulter Vénus sur les moyens qu'elle
+pourrait employer pour regagner le coeur de Jupiter :</p>
+<p>Vénus lui donne alors sa divine ceinture , Ce chef-d'oeuvre sorti des
+mains de la nature.</p>
+<p>En prenant ce tissu, que Vénus lui présente, Junon n'était que belle ;
+elle devint charmante : Les Grâces et les Ris, les Plaisirs et les Jeux,
+Surpris, cherchent Vénus, doutent qui l'est des deux.</p>
+<p>LAMOTTE.</p>
+<p>5</p>
+<p><pb/></p>
+<p>ru\ HISTOIRE POÉTIQUE.</p>
+<p>chants, de danses, de débauches infâmes. Les poètes n'en parlent que
+rarement, et avec horreur. '</p>
+<p>Au superbe festin tous les dieux invités Partageaient le bonheur des
+époux enchantés ; La main de la Discorde, entr'ouvrant un nuage, Du
+désordre prochain fait briller le présage; Elle tient un fruit d'or, où
+ces mots sont écrits : Le sort a la plus belle a réservé ce prix.</p>
+<p>LAMOTTE.</p>
+<p>Junon, Pallas et Vénus se soumirent volontiers au jugement de Paris ,
+fils de Priam, roi de Troie, et se rendirent sur le mont Ida, dans la
+Phrygie :</p>
+<p>Vénus reçoit la pomme,</p>
+<p>LAMOTTE.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 7§</p>
+<p>De sa grâce extrême Minerve elle-même Reconnaît le prix ; Et par sa
+surprise Junon autorise Le choix de Paris.</p>
+<p>ROUSSEAU.</p>
+<p>Déesses, jadis adorées Dans ces abondantes contrées Où Céphise roule ses
+eaux, Que mon hommage vous attire ; Grâces, venez toucher ma lyre, Et
+tirez-en des sons nouveaux.</p>
+<p>LAMOTTE.</p>
+<p>CUPIDOIV.</p>
+<p><pb/></p>
+<p>^6 HISTOIRE POÉTIQUE.</p>
+<p>Dans une obscurité profonde, Je porte au hasard mon flambeau : Otez à
+l'Amour son bandeau, Vous rendez le repos au monde.</p>
+<p>ROUSSEAU.</p>
+<p>On lui donne un caractère de malignité cruelle ; et, quoiqu'enfant, il
+passe pour le plus puissant des dieux :</p>
+<p>VOLTAIRE.</p>
+<p>Cupidon aima Psyché, que Vénus persécuta au point de la faire mourir de
+douleur ; Jupiter lui rendit la vie, et lui donna l'immortalité. On la
+représente avec des ailes de papillon.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 77</p>
+<p>Sur les bords fortunés de l'antique Idalie,</p>
+<p>Lieux où finit l'Europe et commence l'Asie,</p>
+<p>S'élève un vieux palais respecté par les temps :</p>
+<p>La nature en posa les premiers fondemens ;</p>
+<p>Et l'art, ornant depuis sa simple architecture,</p>
+<p>Par ses travaux hardis surpassa la nature.</p>
+<p>Là, tous les champs voisins peuplés de myrtes verts,</p>
+<p>N'ont jamais ressenti l'outrage des hivers.</p>
+<p>Partout on voit mûrir, partout on voit éclore</p>
+<p>Et les fruits de Pomone et les présens de Flore ;</p>
+<p>Et la terre n'attend, pour donner ses moissons,</p>
+<p>Ni les voeux des humains, ni l'ordre des saisons.</p>
+<p>L'homme semble y goûter dans une paix profonde,</p>
+<p>Tout ce que la nature, aux premiers jours du monde,</p>
+<p>De sa main bienfaisante accordait aux humains ,</p>
+<p>Un éternel repos, des jours purs et sereins,</p>
+<p>Les douceurs , les plaisirs que promet l'abondance,</p>
+<p>Les biens du premier âge, hors la seule innocence.</p>
+<p><pb/></p>
+<p>78 HISTOIRE POÉTIQUE.</p>
+<p>VOLTAIRE.</p>
+<p>VULCAIN.</p>
+<p>C'est Vulcain qui fait le tonnerre Dont le maître des dieux épouvante la
+terre.</p>
+<p>LAMOTTE.</p>
+<p>Dans ces antres fameux, où Vulcain , nuit et jour, Forge de Jupiter les
+foudroyantes armes,</p>
+<p><pb/></p>
+<p>HISTOIRE POETIQUE. 7g</p>
+<p>Vénus faisait remplir le carquois de l'Amour :</p>
+<p>Les Grâces lui prêtaient leurs charmes, Et son époux, couvert de feux
+étincelans, Animait en ces mots les Ci dopes brûlans :</p>
+<p>Que l'airain écume et bouillonne ;</p>
+<p>Que mille daids en soient formés ;</p>
+<p>Que, sous nos marteaux enflammés,</p>
+<p>A grand bruit l'enclume résonne.</p>
+<p>ROUSSEAU.</p>
+<p>MINERVE.</p>
+<p>Minerve, ou Pallas, sortit du cerveau de Jupiter, armée de pied en cap ;
+pour la mettre au monde, ce dieu se fit donner un coup de hache sur la
+tête par Vulcain. On distingue cette déesse sous deux rapports : ou
+comme la déesse de la guerre, et alors on l'appelle Pallas ; ou comme la
+déesse de la sagesse et des beaux-arts, et on l'appelle alors Minerve :</p>
+<p>O Minerve savante I O guerrière Pallas 1 Que , par votre faveur
+puissante , Une félicité charmante Nous offre, chaque jour, mille
+nouveaux appas 1 Animez nos coeurs et nos bras,</p>
+<p><pb/></p>
+<p>$0 HISTOIRE POÉTIQUE.,,»</p>
+<p>Rendez la victoire constante,</p>
+<p>Conduisez nos soldats ;</p>
+<p>Partout devant leurs pas Jetez le trouble et l'épouvante.</p>
+<p>QUIKAULT.</p>
+<p>ROUSSEAU.</p>
+<p>Après que les dieux eurent quitté la terre, on prétend que le Ciel
+envoya Minerve habiter parmi les hommes, afin qu'elle les dédommageât de
+la perte qu'ils faisaient par la retraite de tous les Immortels :</p>
+<p><pb/></p>
+<p>HISTOIRE POETIQUE. OI</p>
+<p>Minerve, dis-je, appui de mes autels, Au lieu de vous, reste près des
+mortels, Pour éclairer de ses vives lumières L'obscurité de leurs
+faibles paupières. Allez , ma fille, allez chez les humains Faire
+observer mes. ordres souverains : Guidez leurs .pas, soutenez leur
+faiblesse; Dans leur esprit versez votre richesse ; Daignez enfin, dans
+les terrestres lieux, Leur tenir lieu de tons les autres dieux. Ils
+trouveront en vous leur bien solide : Nul dieu ne manque où Minerve réside.</p>
+<p>ROUSSEAU.</p>
+<p>5.</p>
+<p><pb/></p>
+<p>«8)2 HISTOIRE POÉTIQUE. ,</p>
+<p>Pallas , Ou Bellone , présidait aux combats :</p>
+<p>A leurs légions indomptables Bellone inspire la fureur : Le bruit,
+l'épouvante et l'horreur, Devancent leurs flots redoutables; Et la mort
+remet dans leurs mains Ces tonnerres épouvantables Dont elle écrase les
+humains.</p>
+<p>ROUSSEAU.</p>
+<p>Pallas, la barbare Pallas,</p>
+<p>Fut jalouse de mes appas , Et me rendit affreuse, autant que j'étais
+belle : Ma tête est fière encor d'avoir pour ornement</p>
+<p>Des serpens, dont le sifflement</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 8j$</p>
+<p>N'ont rien de si terrible</p>
+<p>Qu'un regard de mes yeux.</p>
+<p>QUIKAULT.</p>
+<p>MARS.</p>
+<p><pb/></p>
+<p>'84 'HISTOIRE POÉTIQUE.</p>
+<p>aux combats. Le caractère de ce dieu est bien . rendu dans ces vers que
+Rousseau met dans la bouche de Jupiter :</p>
+<p>Ce portrait de Mars achèvera de le faire connaître :</p>
+<p>Loin devant lui la farouche terreur,</p>
+<p>D'un bras sanglant, d'une voix menaçante,</p>
+<p>Chasse la peur et la froide épouvante.</p>
+<p>Plus près du dieu, l'intrépide valeur,</p>
+<p>Le glaive haut, l'oeil fier, l'âme rassise,</p>
+<p>Porte en tous lieux la mort qu'elle méprise. -</p>
+<p>Du char d'acier, chef-d'oeuvre de Vulcain,</p>
+<p>L'activité tient les rênes en main ;</p>
+<p>Fiers tourbillons, ses coursiers indomptables</p>
+<p>Sèment au loin des feux inévitables.</p>
+<p>Ce dieu terrible, environné d'éclairs,</p>
+<p>Brise, en passant, les sceptres, les couronnes;</p>
+<p>Frappe les rois écrasés sous leurs trônes,</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. -85</p>
+<p>Lance la foudre, ébranle l'univers,</p>
+<p>Et fait trembler Pluton, en peuplant les enfers.</p>
+<p>DE LA NOUE.</p>
+<p>Ah ! lorsque ton orgueil languissant dans les chaînes Où les fils
+d'Aloûs te faisaient soupirer, Pourquoi, trop peu sensible aux misères
+humaines, Mercure, malgré moi, vint-il t'en délivrer?</p>
+<p>ROUSSEAU:</p>
+<p><pb/></p>
+<p>■86 HISTOIRE POÉTIQUE.</p>
+<p>Pendant le siège de Troie, où tous les dieux, divisés entr'eux de
+sentimens et d'intérêts , avaient pris différens partis, et se
+confondaient même souvent dans la mêlée, Mars combattait contre les
+Grecs, en faveur des Troyens, et fut blessé par Diomède :</p>
+<p>Telle autour d'Ilion, la mort livide et blême Moissonnait les guerriers
+de Phtygie et d'Argos, Dans ces combats affreux où le dieu Mars lui-même
+De son sang immortel vit bouillonner les flots.</p>
+<p>ROUSSEAU.</p>
+<p>LES noms des principaux habitans de l'Olympe se retrouvent dans ce que
+l'on appelle le ciel céleste poétique. On a même emprunté de la fable
+les noms que portent la plupart des étoiles qui brillent au firmament.
+Comme ce détail mènerait trop loin, on se contentera de parler ici des
+grandes planètes et des signes du Zodiaque.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. « $7</p>
+<p>Tout ce grand choeur, qu'un même zèle anime</p>
+<p>Ayant franchi les vastes champs de l'air,</p>
+<p>Au firmament, demeure pacifique</p>
+<p>Du dieu des cieux, reprend sa place antique j</p>
+<p>Le Ciel les voit inclinés devant lui,</p>
+<p>Et, d'un souris garant de son appui,</p>
+<p>Je sais , dit-il, quel motif vous amène ;</p>
+<p>Le grand partage où vous aspirez tous.</p>
+<p>Dans mes états, comme aîné de ma race,</p>
+<p>Saturne aura la plus illustre place;</p>
+<p>Est le séjour dont je l'ai nommé roi.</p>
+<p>Entre les dieux nés pour lui rendre hommage,</p>
+<p>Trois seulement auront leur apanage ;</p>
+<p>Le reste , en cercle autour de lui placés,</p>
+<p>A le servir ministres empressés,</p>
+<p>Lui formeront une cour sans égale ,</p>
+<p>Digne d'un dieu que ma faveur signale.</p>
+<p>Au second rang , Jupiter,et sa cour,</p>
+<p>Plus loin de moi, mats plus voisins du jour,</p>
+<p>Établiront leur règne et leur puissance;</p>
+<p>Et, près de lui postés pour sa défense ,•</p>
+<p>Quatre grands dieux, marchant sous ses drapeaux,</p>
+<p><pb/></p>
+<p>88 » HISTOIRE POÉTIQUE.</p>
+<p>. Lui serviront de gardes, de flambeaux.</p>
+<p>Mars et Vénus, et Mercure son frère^</p>
+<p>Iront, comme eux, régir chacun leur spilçse.</p>
+<p>Phébus enfin , de mes feux éclairé ,</p>
+<p>Phébus, l'honneur de l'Olympe sacré,</p>
+<p>Ira , sur vous, sur la nature entière, . Dans le soleil répandre la
+lumière.</p>
+<p>Telle est pour vous la faveur de mes lois :</p>
+<p>Jouissez-en. Partez. Mais toutefois,</p>
+<p>En vous donnant de si pompeux domaines,</p>
+<p>Ne croyez pas que j'adopte vos haines,</p>
+<p>Ni que je veuille, au gré de vos chagrins,</p>
+<p>Aux dieux créés les passions permises</p>
+<p>Sont devant moi tremblantes et soumises.</p>
+<p>Le Ciel, auteur de tant d'êtres semés ,</p>
+<p>N'obéit point aux sens qu'il a formés.</p>
+<p>Le Zodiaque est un cercle qui marque le cours annuel du soleil. Il
+renferme douze constellations appelées Signes, et qui répondent aux
+douze mois de l'année ; voici leurs noms :</p>
+<p>Le Taureau ; c'est celui dont Jupiter prit la forme pour enlever Europe.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 89</p>
+<p>Les Gémeaux ; c'est-à-dire, Castor et Pollux.</p>
+<p>L'Ecrevisse ; elle fut placée au ciel par Junon, après "avoir été
+écrasée sous les pieds d'Hercule, contre lequel elle venait secourir
+l'Hydre de Lerne.</p>
+<p>La Vierge, Astrée ou la justice ; selon d'autres, Erigone, fille d'Icare
+, qui se pendit de désespoir, en apprenant la mort de son père.</p>
+<p>La Balance d'Astrée , déesse de la Justice, qui se retira dans le ciel
+pendant le siècle de fer.</p>
+<p>Le Capricorne ; c'est la chèvre Amalthée, qui nourrit Jupiter dans son
+enfance.</p>
+<p>Les Poissons, dont Vénus et Cupidon prirent la forme pour se dérober à
+la fureur du géant "Typhon,</p>
+<p><pb/></p>
+<p>igO HISTOIRE POÉTIQUE.</p>
+<p>DIVINITÉS MARITIMES.</p>
+<p>NEPTUNE.</p>
+<p>Est-ce Apollon et Neptune Qui sur ces rocs sourcilleux Ont, compagnons
+de fortune, Bâti ces murs orgueilleux?</p>
+<p>BOILEAU.</p>
+<p>Le roi Laomédon refusant le salaire dont il était convenu, Neptune
+inonda les travaux , et suscita un monstre marin qui désolait le rivage.
+Il fit sa paix avec Jupiter, s'occupa du soin de gouverner l'empire des
+eaux, et épousa Amphitrite, fille de l'Océan et de Doris :</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. &lt;jï</p>
+<p>Les Tritons, rassemblés de mille endroits divers, Autour d'elle
+flottaient sur l'onde tempérée;</p>
+<p>Et les filles du vieux Nérée Faisaient devant son char retentir leurs
+concerts.</p>
+<p>ROUSSEAU.</p>
+<p>Neptune est ordinairement représenté sur un char en forme de coquille,
+et traîné par des chevaux marins , qui le font voler sur la surface des
+eaux. Il a pour sceptre un trident, et pour garde des Tritons :</p>
+<p>Il s'avance entouré d'une superbe cour: Tel jadis il parut aux regards
+d'Amphitrite,</p>
+<p>L'Hyménée et le dieu d'amour.</p>
+<p>ROUSSEAU.</p>
+<p>Amphitrite est représentée dans le même appareil ; mais elle n'a point
+de sceptre ni de trident.</p>
+<p>Les Harpies étaient des monstres qui avaient</p>
+<p><pb/></p>
+<p>g2 HISTOIRE POETIQUE.</p>
+<p>une tête de femme, des oreilles d'ours, le corps d'un vautour , des
+ailes de chauve-souris , et des griffes aux pieds et aux mains. Elles
+infectaient tout ce qu'elles touchaient : les plus connues s'appelaient
+Aëllo, Ocypète et Céléno.</p>
+<p>L'Océan était regardé comme le père des fleuves, des rivières et des
+fontaines. Il épousa Téthys, fille du Ciel et de la Terre, dont il eut
+Nérée et Doris, qui se marièrent ensemble et eurent un grand nombre de
+filles connues sous le nom de Nymphes. Ces déesses ont des noms
+diflérens, selon la différence de leurs emplois.</p>
+<p>Les Néréides sont les nymphes de la mer ;</p>
+<p>Les Naïades, celles des fleuves, des rivières et des fontaines ;</p>
+<p>Les Dryades, celles des campagnes :</p>
+<p>ROUSSEAU.</p>
+<p>Les Hamadryades sont les nymphes des forêts ; les Napées , celles des
+bocages et des prairies ; et les Oréades, celles des montagnes.</p>
+<p>]j'Océan eut encore un fils appelé Prothée, qui conduisait les troupeaux
+de Neptune :</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. g3</p>
+<p>C'est ici que Prothée amène les troupeaux</p>
+<p>Du dieu qui règne sur les eaux ;</p>
+<p>Il se plaît sous ce frais ombrage : L'avenir est pour lui sans ombre et
+sans nuage.</p>
+<p>QUINAULT.</p>
+<p>Prothée avait une connaissance parfaite de l'avenir, sur lequel il ne
+s'expliquait jamais que par force. Quand on voulait l'y contraindre , il
+se changeait en eau, en feu, en bête féroce, et sous toutes les formes
+qu'il pouvait imaginer pour s'échapper des mains qui le retenaient.</p>
+<p>Des mortels indiscrets.</p>
+<p>ROUSSEAU.</p>
+<p>Les poètes placent encore au nombre des divinités maritimes Glaucus,
+Eole, les Syrènes, les deux Scylles, Ino et Mélicerte.</p>
+<p>Glaucus était un bon pêcheur qui, voyant les poissons qu'il posait sur
+une certaine herbe reprendre de la force et sauter dans l'eau, s'avisa
+de manger de cette herbe : aussitôt il se précipita dans la mer. Neptune
+le changea en Triton.</p>
+<p>Eole, fils de Jupiter, était le dieu des vents,</p>
+<p><pb/></p>
+<p>g4 HISTOIRE POETIQUE.</p>
+<p>qu'il tenait enchaînés dans le creux d'un rocher :</p>
+<p>Qu'Eole en ses gouffres enchaîne Les vents ennemis des beaux jours,
+Qu'il dompte leur bruyante haleine, Et ne permette qu'aux Amours De
+voler sur l'humide plaine.</p>
+<p>ROUSSEAU.</p>
+<p>ROUSSEAU.</p>
+<p>Ulysse, revenant du siège de Troie, fut très-bien reçu d'Éole, qui lui
+fit présent de plusieurs outres qui renfermaient les Vents. Ses
+compagnons eurent la curiosité d'y toucher ; les Vents s'échappèrent, et
+causèrent</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. g5</p>
+<p>4</p>
+<p>une tempête qui fit périr tous les vaisseaux d'Ulysse.</p>
+<p>Eole avait sa cour dans les Ses Eoliennes, voisines de la Sicile. On
+représente les Vents sous la figure de jeunes enfans ailés ; on les
+appelle les fils ou les sujets d'Eole.</p>
+<p>Les Syrènes, filles de l'Océan et d'Amphitrite , étaient trois monstres,
+moitié femmes et moitié poissons , qui, par la douceur de leurs chants,
+attiraient les voyageurs, afin de les dévorer :</p>
+<p>FONTESELLE.</p>
+<p>CharybdeetScyllaétaientdeux gouffres trèsvoisins, au milieu desquels il
+fallait passer pour aborder en Sicile. Le passage était si dangereux,
+qu'il a donné lieu au proverbe : « Tomber « dans Charybde pour éviter
+Sçylia. «Les poètes</p>
+<p><pb/></p>
+<p>g&amp; HISTOIRE POÉTIQUE; ; ' f 't</p>
+<p>disent que Scylla, fille de Phoi-cys j ïût changée par Circé en un
+monstre envirpnné de chiens toujours»aboyans, et qu'elle-, se précipita
+-dans la mer :</p>
+<p>Il peint cette Scylla, dont les monstres avides Engloutissent au fond de
+leurs gouffres perfides Les nochers gémissans, et les tristes vaisseaux
+D'Ulysse poursuivi par le tyran des eaux.</p>
+<p>GRESSET.</p>
+<p>LAMOTTE.</p>
+<p>As-tu donc pu penser que, tranquille, je visse Ton fils ravir au mien le
+trône d'Eurydice?</p>
+<p><pb/></p>
+<p>» •*" HISTOIRE POETIQUE. ~ g7</p>
+<p>De son sang altérée, au sortir du berceau, J'ai voulu de ses jours
+éteindre le flambeau.</p>
+<p>LA GRAKGE-CHASCEL.</p>
+<p>Thémisto prit pour sa confidente Ino même qu'elle ne connaissait pas, et
+la chargea de donner des habits blancs aux deux plus jeunes enfans
+d'Atbamas, et d'habiller les autres en noir. Ino lit tout le contraire,
+et Thémisto tua ses propres enfans. Elle reconnut son erreur , se perça
+de désespoir ; et, dans une imprécation contre Athamas, elle annonça les
+malheurs que lui préparait la haine de Junon :</p>
+<p>LA GRANGE-CHAHCE!,.</p>
+<p>6</p>
+<p><pb/></p>
+<p>g8 HISTOIRE POÉTIQUE.</p>
+<p>DIVINITES DES ENFERS.</p>
+<p>PLUTON.</p>
+<p>PLUTON , troisième fils de Saturne et de Cybèle , régnait dans les
+enfers; on prétend que, peu content de son sort, il se plaignait du
+partage que Jupiter avait fait du royaume de leur père :</p>
+<p>Je suis roi des enfers, Neptune est roi de l'onde; Nous regardons avec
+des yeux jaloux Jupiter, plus heureux que nous; Son sceptre est le
+premier des trois sceptres du monde. , QUIMAÙLT.</p>
+<p><pb/></p>
+<p>HISTOIRE POETIQUE. ,gg</p>
+<p>O mes compagnes ! ô ma mère !</p>
+<p>O vous, maître des dieux, mon père!....</p>
+<p>Cris impuissans et vains regrets !</p>
+<p>An char la terre ouvre une voie,</p>
+<p>LAMOTTE.</p>
+<p>Cérès chercha sa fille par tout le monde, et la trouva enfin aux enfers,
+où elle descendit, sur la parole de la nymphe Aréthuse. Cyané avait vu
+l'enlèvement ; mais elle perdit la voix, et fut changée en ruisseau, au
+moment qu'elle allait instruire Cérès du sort de Proserpine :</p>
+<p>Ah ! quel malheur nouveau! Cyané perd la voix, et n'est plus qu'un
+ruisseau.</p>
+<p>Les dieux n'ont pu souffrir qu'une nymphe sincère</p>
+<p>M'ait découvert mes ennemis secrets; Je ne saurai donc pas sur qui
+lancer les traits De ma juste colère.</p>
+<p>QCINAULT.</p>
+<p><pb/></p>
+<p>100" HISTOIRE POETIQUE.</p>
+<p>Aux arrêts du Destin les dieux doivent souscrire ; C'est vainement qu'on
+y veut résister.</p>
+<p>QUINAULT.</p>
+<p>LAMOTTE.</p>
+<p>Qu'entends-je?le Tartare s'ouvre ; Quels cris ! quels douloureux accens 1</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 101</p>
+<p>A mes yeux la flamme y découvre</p>
+<p>Mille supplices renaissans. .</p>
+<p>Là, sur une rapide roue,</p>
+<p>Ixion, dont le ciel se joue ,</p>
+<p>Là, le coeur du géant rebelle -,</p>
+<p>Fournit une proie éternelle</p>
+<p>A l'avide faim du vautour.</p>
+<p>' LAMOTTE.</p>
+<p>Tithius, géant dont le corps couvrait un espace de neuf arpens, fut tué
+par Apollon et Diane, pour avoir insulté Latone. Jupiter le fit
+enchaîner aux enfers, où un vautour lui déchirait le foie, qui
+renaissait toujours :</p>
+<p>Autour d'une tonne percée,</p>
+<p>Se lassent ces nombreuses soeurs,</p>
+<p>Qui sur les frères de Lyncée</p>
+<p>Vengèrent de folles terreurs.</p>
+<p>Sur cette montagne glissante</p>
+<p>Elevant sa roche roulante, '</p>
+<p>Sisyphe gémit saris secours ;</p>
+<p>3i%.W -■) 6.</p>
+<p><pb/></p>
+<p>I.Q3 BISTOrRE POETIQUE.</p>
+<p>Chante cette épouse empressée, Dont Minos condamna les soeurs ;
+Qui,(Saintement parjure , osa sauver Lyncée De leurs parricides fureurs.</p>
+<p>LAMOTTE.</p>
+<p>Danaùs était roi d'Argos, et fils de Bel ou Bélus : ce qui fait donner
+quelquefois aux Danaïdes le nom de Béhdés.</p>
+<p>Sisyphe, fils d'Eole, fameux brigand, fut tué par Thésée, et condamné à
+rouler au haut</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. IO"3</p>
+<p>' d'ùtle montagne escarpée un rocher qui retombait sans cesse.</p>
+<p>Et vous, troupe savante en noires barbaries, Filles de l'Achéron,
+Pestes, Larves, Furies, Frères, soeurs; si jamais notre commerce étroit
+Sur vous et vos serpens me donna quelque droit, Sortez de vos cachots
+avec les mêmes (In m m es Et les mêmes tourmens dont vous gênez les âmes.</p>
+<p>PIERRE CORUEILLE.</p>
+<p>Les Furies, ou les Euménides présidaient aux supplices dont on punissait
+les médians. Elles étaient filles de l'Achéron et de la Nuit : on les
+appelait Alecton, Mégère et Tisiphone. Leur seul aspect faisait trembler
+: elles étaient</p>
+<p><pb/></p>
+<p>104 HISTOIRE POÉTIQUE.</p>
+<p>coiffées de couleuvres, et toujours armées de serpens et de torches
+ardentes :</p>
+<p>Monarque esclave de Pluton, Va , tu changeras de langage, Quand tes yeux
+verront Alecton Qui veille en ce sombre rivage. Ajax la vit : il tremble
+encor; Paris la craint auprès d'Hector : Elle est pire que les Chimères
+: D'un flambeau toujours allumé Son bras sanguinaire est armé, Et son
+front monstrueux est orné de vipères.</p>
+<p>ROUSSEAU.</p>
+<p>En arrivant aux enfers , les âmes, appelées communément Ombres ou Mânes
+,,trouvaient Caron, vieillard dur et inflexible , fils de l'Erèbe et de
+la Nuit, lequel était chargé de leur faire passer les fleuves dans une
+barque où l'on n'entrait point sans payer :</p>
+<p>Vous qui voulez passer, venez, Mânes errans,</p>
+<p>Venez, avancez, tristes Ombres,</p>
+<p>Payez le tribut que je prends,</p>
+<p>Ou retournez errer sur ces rivages sombres.</p>
+<p>QUIHAULT. \</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. , Io5</p>
+<p>-Les fleuves qui environnaient les enfers étaient le Styx, le Cocyte,
+l'Achéron , le Léthé et le Phlégéton :</p>
+<p>Fleuves affreux, qui, par vos noirs torrens , Défendez le retour des
+royaumes funèbres; Par les Mânes plaintifs sur vos rives errans,</p>
+<p>Par vos éternelles ténèbres, Par les sermens des Dieux, dont vous êtes
+garans,</p>
+<p>Ecoutez-nous , dieux redoutables : Que nos voeux, que nos cris, vous
+trouvent favorables !</p>
+<p>LAMOTTE.</p>
+<p>Le Styx, le plus célèbre de tous ces fleuves , faisait sept fois le tour
+des enfers. Quand les dieux avaient juré par ses eaux, ils n'osaient
+point être parjures ; et si quelqu'un d'eux révoquait ce serment, J'en
+jure par le Styx, il était privé de la divinité pendant cent ans :</p>
+<p>Le Styx. . . est certain fleuve</p>
+<p>Qu'on trouve en allant en enfer, Dont, après le trépas, chaque mortel
+s'abreuve, De peur que des défunts la bile ne s'émeuve,</p>
+<p>A cause du changement d'air.</p>
+<p>Pour la moindre petite chose</p>
+<p>Qu'un dieu l'atteste faussement,</p>
+<p>Il est irrèmissiblement.</p>
+<p>Dégradé de l'apothéose,</p>
+<p>~"~ BOURSAULT.</p>
+<p>Le Cocyte environnait le Tartare, et ne grossissait que des larmes des
+médians. Achéron, fils du Soleil et de la Terre, ayant</p>
+<p><pb/></p>
+<p>106 HISTOIRE POÉTIQUE.</p>
+<p>Le fleuve Léthé est le même que le fleuve d'Oubli. Les Ombres étaient
+obligées de boire de son eau, et aussitôt elles oubliaient le passé.</p>
+<p>Avec mes ondes favorables ,</p>
+<p>J'en répands l'oubli dans les coeurs.</p>
+<p>LAMOTTE.</p>
+<p>Le Phlégéton ne roulait que des flammes liquides.</p>
+<p>On parle souvent de l'Érèbe, fils du Chaos et de la Nuit, qui fut mis au
+nombre de ces fleuves, pour avoir secouru les Titans ; mais on le
+confond alors avec l'Achéron , ou avec quelque autre des cinq fleuves.
+Souvent on le prend pour la nuit-même, où pour le dieu qui préside à
+cette nuit éternelle dont les affreuses ténèbres rendent si effrayant
+l'empire des morts.</p>
+<p><pb/></p>
+<p>HISTOIRE POETIQUE. IO17</p>
+<p>A mes pieds s'abaisse Cerbère : J'ai calmé sa rage ordinaire; Ses
+regards ne menacent plus, Ses oreilles sont altenti\es, Et de ses trois
+gueules oisives Les burlemens sont suspendus.</p>
+<p>LAMOTTE.</p>
+<p>Aussitôt que les Mânes étaient arrivés aux enfers, ils paraissaient
+devant les trois juges, Minos,Éaque et Rhadamante. Minos, fils de
+Jupiter et d'Europe, était le chef de ces juges : il tenait une urne
+dans laquelle les destinées des hommes étaient renfermées. Eaque, fils
+de Jupiter et d'Egine, ayant perdu tous - ses sujets par la peste ,
+obtint que les fourmis de son royaume fussent changées en hommes, et les
+appela Myrmidous'.: ils suivirent Achille au siège de Troie. Ces deux
+juges avaient été sur la terre des rois judicieux, équitables, et on les
+crut dignes de juger tous les hommes :</p>
+<p>Sous l'heureux ministère Du vieux Eaque et de Minos, son frère, De
+Jupiter tous deux fils adorés, Et tous deux rois sur la terre honorés.</p>
+<p>ROUSSEAU. •</p>
+<p><pb/></p>
+<p>108 HISTOIRE POÉTIQUE.</p>
+<p>Rhadamante, roi _ de Lycie, fils de Jupiter et d'Europe, ou d'Égire,
+avait rendu ses sujets si heureux , qu'ils en firent un dieu ; mais les
+poètes disent que le Sort le nomma seulement pour aider Minos et Eaque à
+juger les Ombres. Personne n'était dispensé de paraître devant ces
+juges, dont les arrêts s'exécutaient sur-le-champ :</p>
+<p>ROUSSEAU.</p>
+<p>On place aussi aux enfers les trois Parques, Clotho , Lachésis et
+Atropos, filles de l'Enfer et de la Nuit. La vie des hommes, dont elles
+filent la trame, est entre leurs mains. Les différentes soies qu'elles
+emploient dans leurs ouvrages forment la différence des jours heureux et
+malheureux :</p>
+<p>Les Parques d'une même soie Ne dévident pas tous nos jours, Ni toujours
+par la même voie Ne font les planètes leurs cours.</p>
+<p>MALHERBE.</p>
+<p>Clotho tient la quenouille, Lachésis tourne le fuseau, Atropos coupe le
+fil avec des ci-</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. I.09</p>
+<p>seaux. On leur adresse des voeux pour le bonheur et la conservation de
+la vie ; on prétend même que le sort des empires et des, âges est entre
+leurs mains , et qu'elles en filent aussi les destinées :</p>
+<p>GRESSET.</p>
+<p>Dieux souverains des demeures profondes Que le Cocyte arrose de ses
+ondes ; Pâles tyians de ces lieux abhorrés, Que l'oeil du jour n'a
+jamais éclairés ; Chaos, Erèbe, Eumcnides, Gorgones, Styx, Aehéron,
+Parques et Tisiphones, Terrible Mort, effroi de l'univers, Et si Pluton
+souffre encore aux enfers Quelque puissance aux mortels plus fatale ,
+Que lardez-vous? venez, troupe infernale, Puisque le ciel a remis en vos
+mains Le châtiment des coupables humains.</p>
+<p>' ROUSSEAU.</p>
+<p>Les poètes placent aussi dans le royaume de</p>
+<p>1</p>
+<p><pb/></p>
+<p>HO HISTOIRE POETIQUE.</p>
+<p>)</p>
+<p>Pluton les Champs-Elysées, qui sont le séjour des hommes vertueux. Le
+bonheur que l'on y goûte est parfait :</p>
+<p>Un ciel plus pur, des astres plus sereins, Eurent créés pour ces champs
+souterrains. Ils ont aussi leurs soleils, leurs étoiles ; La nuit pour
+eux n'a point de tristes voiles : Dans des forêts de lauriers toujours
+verts, Sur des gazons de fleurs toujours couverts, Parmi les jeux, ces
+ombres fortunées Coulent en paix leurs' saintes destinées.</p>
+<p>ROUSSEAU.</p>
+<p>Hors des atteintes de l'envie ,</p>
+<p>Le sort qu'on goûte en ces climats</p>
+<p>N'est plus, ainsi que notre vie,</p>
+<p>La triste attente du trépas :</p>
+<p>Jouissant de tout ce qu'il aime,</p>
+<p>Chacun porte le plaisir même</p>
+<p>Peint sur un visage riant :</p>
+<p>Ignorent l'inquiète crainte</p>
+<p>Et le désir impatient.</p>
+<p>LAMOTTE.</p>
+<p>On n'accordait ces récompenses qu'aux, yer~</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. III</p>
+<p>Ceux qui jadis, par des lois équitables,</p>
+<p>Ont adouci des peuples intraitables,</p>
+<p>Ou qui, cherchant la guerre et les hasards,</p>
+<p>Pour leur pays sont morts aux champs de Mars.</p>
+<p>ROUSSEAU.</p>
+<p>Aimable dieu, de qui la main dispense Ce qui rend les mortels heureux,</p>
+<p>Votre vaste puissance Piéunit pour vous tous les voeux : En vous
+cherchant, la peine devient chère; On se fait de vous voir le plus
+charmant plaisir : Le bonheur même de vous plaire En irrite encor le désir.</p>
+<p>LAMOTTE.</p>
+<p><pb/></p>
+<p>112 HISTOIRE POETIQUE.</p>
+<p>SECONDE PARTIE DE LA FABLE.</p>
+<p>LES DIEUX DU SECOND ORDRE.</p>
+<p>DIVINITES TERRESTRES.</p>
+<p>CÉRÈS, fille de Saturne et de Cybèle, présidait aux moissons : elle
+avait enseigné aux hommes l'agriculture. Les poètes la confon-</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. Il3</p>
+<p>dent quelquefois avec Cybèle ; elle en est cependant distinguée, et par
+ses emplois , et par ses attributs :</p>
+<p>Par mes soins, les champs de Cybèle, De fruits et de moissons viennent
+d'être couverts : De mes dons précieux la richesse nouvelle Brille par
+mes travaux en cent climats divers; Et quand de tant de biens j'ai
+comblé l'univers, Les dieux percent mon coeur d'une douleur mortelle.</p>
+<p>QUIIJACLT.</p>
+<p>Elle se plaint ici de l'enlèvement de sa fille Proserpine, qu'elle
+chercha par toute la terre, sans prendre aucun repos ; ou dit qu'elle
+avait placé sur le mont Etna deux flambeaux qui l'éclairaient dans ses
+courses'. On la représente couronnée d'épis, tenant d'une main une
+faucille, et de l'autre une poignée d'épis mêlés de pavots.</p>
+<p>Paies était la déesse des pâturages , des bergers et des troupeaux. On
+la confond souvent avec Cérès et Cybèle.</p>
+<p>Pomoue présidait aux fruits. Elle était l'épouse de Verlumne, dieu de
+l'automne.</p>
+<p>Flore , déesse des fleurs et du printemps , avait épousé Zéphyre ; on la
+représente ornée de guirlandes, et portant une corbeille de fleurs. Ses
+fêtes s'appelaient les Jeux Floraux ; elles étaient célébrées par des
+femmes qui couraient et dansaient, un jour et une nuit,</p>
+<p><pb/></p>
+<p>II4 HISTOIRE POÉTIQUE.</p>
+<p>Tous les ans, d'un lait pur une coupe t'est due , Priape, c'est assez
+pour un dieu tel que toi ; Si mon troupeau s'accroît, j'ornerai ta
+statue, Et dans tous nos jardins nous chérirons ta loi.</p>
+<p>GRESSET.</p>
+<p>Cornus était le dieu des festins, et présidait aux fêtes et aux parures.
+On le représente avec un chapeau de fleurs, et portant un flambeau.</p>
+<p>Momus, fils du Sommeil et de la Nuit, se fit chasser du ciel, en
+punition de ses plaisanteries :</p>
+<p>Tu vois l'objet de la haine des dieux, Dans le censeur de leurs caprices
+; Us m'ont banni du ciel; et le maître des cieux . Veut jouir en paix de
+ses vices. C'est toi désormais que je sers ; Souffre que sur tes pas
+pour jamais je m'engage, Et que du nectar que je perds , Ton vin
+charmant me dédommage.</p>
+<p>LAMOTTE.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. . Tl5</p>
+<p>La Nuit est la déesse des ténèbres, et fille du Ciel et de la Terre. On
+la représente en long habit de deuil, parsemé d'étoiles. Elle épousa
+l'Erèbe, dont elle eut Morphée , dieu du Sommeil.</p>
+<p>Ce dieu n'est quelquefois considéré que comme le principal ministre du
+Sommeil, et chargé d'endormir les hommes en les touchant avec une plante
+de pavots, ensuite de leur présenter les songes sous différentes figures.</p>
+<p>On dit cpie le Sommeil a son palais dans un antre inconnu , où les
+rayons du soleil ne peuvent pénétrer. La porte est garnie de pavots et
+d'herbes assoupissantes; le fleuve d'Oubli roule doucement ses eaux
+autour de ce palais. Le dieu repose sur un lit fermé de rideaux noirs ,
+et environné par les Songes , divinités infernales qui lui sont
+subordonnées, et que l'on représente avec des ailes de chauves-souris.
+Les songes que l'on envoyait aux hommes , passaient par deux portes
+différentes : l'une de corne, et l'autre d'ivoire. La première était
+pour ceux qui présidaient aux visions véritables ; ceux qui ne formaient
+que de vaines illusions sortaient par la seconde.</p>
+<p><pb/></p>
+<p>1 l6 ■&amp; . HISTOIRE POÉTIQUE. *</p>
+<p>Le Silence, que les Egyptiens appellent Harpocrnte. et les Grecs
+iSigallion, est une divinité allégorique, représentée sous la figure
+d'un homme ou d'une femme qui tient un doigt sur la bouche.</p>
+<p>Thémis, fille du Ciel et de la Terre, est la déesse de la justice ; elle
+a eu deux enfans de Jupiter : la Loi et la Paix. On la représente avec
+un bandeau sur les yeux, tenant une balance d'une main, et de l'autre
+une épée :</p>
+<p>Je vois une auguste déesse, De qui la droite vengeresse Fait briller un
+glaive tranchant; Dans sa gauche est une balance, Que ni fraude
+ni.violence Ne forcent au moindre penchant.</p>
+<p>C'est Thémis; oui, c'est elle-même :</p>
+<p>Orné de l'éclat le plus beau,</p>
+<p>Son front porte ce diadème</p>
+<p>Que l'erreur prend pour un bandeau.</p>
+<p>LAMOTTE.</p>
+<p>La Paix est représentée couronnée de laurier, portant d'une main une
+petite statue de Plutus, et de l'autre une branche d'olivier. Elle se
+réfugie dans le ciel, quand la guerre vient la chasser de la terre :</p>
+<p>Aimable Paix , vierge sacrée, Descends de la voûte azurée : Viens voir
+tes temples relevés,</p>
+<p><pb/></p>
+<p>HISTOIRE POETIQUE. '' II7</p>
+<p>Et ramène au sein de nos villes Ces dieux bienfaisans et tranquilles Que
+nos crimes ont soulevés.</p>
+<p>ROUSSEAU.</p>
+<p>Descends du ciel, divine Astrée; Ramène-nous ces jours heureux , Oii des
+mortels seule adorée , Seule tu comblais tous leurs voeux.</p>
+<p>LAMOTTE.</p>
+<p>Quelle est cette déesse énorme , Ou plutôt ce monstre difforme, Tout
+couvert d'oreilles et d'yeux , Dont la voix ressemble au tonnerre, Et
+qui des pieds touchant la terre, Cache sa tête dans les cieux? C'est
+l'inconstante Renommée, Qui, sans cesse les yeux ouverts , Fait sa revue
+accoutumée</p>
+<p>1*</p>
+<p><pb/></p>
+<p>II8®; HISTOIRE POÉTIQUE.</p>
+<p>Dans tous les coins de l'univers : * Toujours vaine , toujours errante,</p>
+<p>Et messagère indifférente Des vérités et de l'erreur, Sa voix-, en
+merveilles féconde, "î Va chez tous les peuples du monde Semer le bruit
+et la terreur.</p>
+<p>ROUSSEAU.</p>
+<p>La Fortune est représentée debout ou assise sur une roue qui tourne sans
+cesse , et cpii est le symbole de son inconstance. Les poètes disent
+qu'elle est chauve , aveugle, et la regardent comme l'arbitre souveraine
+de tous les événemens humains :</p>
+<p>Pourquoi d'une plainte importune Fatiguer vainement les airs? Aux jeux
+de l'aveugle Fortune, Tout est soumis dans l'univers.</p>
+<p>ROUSSEAU.</p>
+<p>Némésis, fille de Jupiter et de la Nécessité, était la déesse de la
+vengeance ; on l'appelle aussi Adraslée. Elle punit ou récompense ,
+selon le mérite, et venge les droits de l'équité. Ses châtimens les plus
+sévères sont pour les ingrats , et pour ceux qui abusent des dons de la
+Fortune, ou se laissent séduire par la flatterie :</p>
+<p><pb/></p>
+<p>HISTOIRE POETIQUE. % ng</p>
+<p>C'est elle dont les yeux, certains, inévitables , -£</p>
+<p>Percent totis les replis de nos coeurs insensés; Et nous lui répondons
+des éloges coupables Qui nous sont adressés.</p>
+<p>ROUSSEAU.</p>
+<p>On la représente avec des ailes, armée de serpens et de torches
+ardentes, et une couronne sur la tête.</p>
+<p>ROUSSEAU.</p>
+<p><pb/></p>
+<p>120 * HISTOIRE POÉTIQUE.</p>
+<p>Le même poète dit que ce monstre habite un antre creusé au pied du
+Parnasse. La description qu'il en fait est vive, animée, et dans le vrai
+caractère de cette divinité allégorique Ï</p>
+<p>La Discorde, chassée du ciel par Jupiter, est venue exciter encore plus
+de troubles</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE, ~fW-l2i</p>
+<p>parmi les hommes , qu'elle n'en causait pai-mi les dieux; on la
+représente armée d'un flambeau, d'un serpent et d'un poignard. Elle ne
+respire que la fureur et les combats.</p>
+<p>Ce monstre impétueux , sanguinaire, inflexible, De ses propres sujets
+est l'ennemi terrible : Aux malheurs des mortels il borne ses'desseins.
+Le sang de son parti rougit souvent ses mains. Il habile en tyran dans
+les coeurs qu'il déchire ; Et lui-même it punit les forfaits cjn'il
+inspire. Son haleine en cent lieux répand l'aridité : Le fruit meurt en
+naissant dans son germe infecté; Les épis renversés sur la terre
+languissent, Le ciel (.Vu obsemeit, les astres en palissent; Et la
+foudre en éclats ttui gronde sous ses pieds, Semble annoncer la mort aux
+peuples effrayés.</p>
+<p>VOLTAIRE.</p>
+<p>DIVINITÉS CHAMPÊTRES.</p>
+<p>PAN , Diane, Apollon , les Faunes , les Sylvains, Peuplent ici vos bois
+, vos vergers, vos montagnes. La ville est le séjour des profanes
+humains; Les dieux régnent dans les campagnes.</p>
+<p>ROUSSEAU.</p>
+<p><pb/></p>
+<p>122 HISTOIRE POETIQUE.</p>
+<p>Pan, fils de Mercure , tenait le premier rang parmi les divinités
+champêtres ; il était l'inventeur de la flûte , et le dieu des bergers,
+cj.es bois et des prairies :</p>
+<p>Pan trouva le premier cet art ingénieux De former sur la ilùleun son
+harmonieux. Pan règne sur nos bois, il aime nos prairies; C'est le dieu
+des bergers et de leurs bergeries.</p>
+<p>GRESSET.</p>
+<p>Pour fuir le dieu des bois, plongée au fond des eaux,</p>
+<p>Syrinx fut transformée en d'utiles roseaux ;</p>
+<p>Pan embrassait les joncs qui cachaient sa bergère:</p>
+<p>Il tira des soupirs de leur lige légère ;</p>
+<p>Répétèrent les sons des premiers chalumeaux.</p>
+<p>GRESSET.</p>
+<p>Pan n'habitait que les campagnes et le mont Ménale où il
+conduisaitsouvent ses troupeaux,</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 123</p>
+<p>C'est ainsi que l'on représente encore les Satyres, les Faunes , les
+Sylvains , dont on dit que Pan est le père.</p>
+<p><pb/></p>
+<p>Il&gt;4 HISTOIRE POETIQUE»</p>
+<p>Les Satyres tout hors d'haleine, 4k- .Conduisant les Nymphes des bois,</p>
+<p>""Au son du fifre et du hautbois, 1 Dansent par troupes dans la. plaine ;</p>
+<p>Tandis que les Sylvains lassés</p>
+<p>Pot lent l'immobile Silène</p>
+<p>Sur leurs thyrscs entrelaces.</p>
+<p>ROUSSEAU.</p>
+<p>Quel dieu sur leurs doux sons formera notre voix!</p>
+<p>]Ne reverrons-nous plus paraître dans nos bois</p>
+<p>Les Faunes, les Sjlvains, les Nymphes , les Dryades,</p>
+<p>Les Silènes lardif, , les humides Naïades,</p>
+<p>Et le dieu Pan lui-même, au bruit 'de nos chansons,</p>
+<p>ROUSSEAU.</p>
+<p>La nymphe Echo, fille de l'Air et de la Terre, aimait Narcisse qui
+n'était épris que de lui seul. Elle en sécha de douleur, et fut
+métamorphosée en rocher :</p>
+<p><pb/></p>
+<p>* • * • • *</p>
+<p>HISTOIRE POÉTIQUE. J3.5</p>
+<p>* La triste amante de Narcisse Ne se plaignait de son caprice Qu'en
+répétant ses propres mots. Telle est l'impuissance où nous sommes j
+Toujours muets sur les grands hommes, Dont nous sommes les vains échos.</p>
+<p>LAMOTTE.</p>
+<p>Narcisse , fils de Céphîse et de Liriope, se trouvait si beau , qu'il
+n'aimait que lui-même. Il fut métamorphosé en une fleur qui, porte son
+nom :</p>
+<p>Au bord d'une fontaine</p>
+<p>Narcisse goûtait le repos ;</p>
+<p>De lui-même une image vaine</p>
+<p>Se présente h lui dans les flots.</p>
+<p>Veut-il embrasser ce qu'il aime,</p>
+<p>L'eau se trouble, et l'image fuit; Quand^elle reparaît, son plaisir est
+extrême; En s'approchant encor, son espoir se détruit ;</p>
+<p>Toujours séparé de lui-même , 11 s'échappe sans cesse, et toujours se
+poursuit,</p>
+<p>LAMOTTE.</p>
+<p>DIEUX DOMESTIQUES.</p>
+<p>LE nombre de ces dieux , ainsi que le pouvoir qu'on leur attribuait,
+dépendait uniquement du caprice ou de la superstition des familles.
+Chaque maison, et mime chaque</p>
+<p><pb/></p>
+<p>15.6 HISTOIRE POÉTIQUE.</p>
+<p>appartement avait ses dieux domestiques ; on le&gt; appelait communément
+Lares, ou Pénates. Les uns présidaient aux royaumes et aux provinces ;
+les autres, aux villes et aux maisons : ceux-ci, aux rues et aux
+carrefours ; ceux-là, aux portes et aux grands chemins. Les bornes qui
+séparent les champs étaient même regardées comme autant de divinités ,
+que l'on appelait les dieux Termes.</p>
+<p>Les Lares et les Pénates étaient fils de Mercure et de la naïade Lara,
+ou Larunde. On les honorait sons la figure de petites statues, et on les
+invoquait clans toutes les occasions où leur protection pouvait être de
+quelque utilité, soit pour écarter les maux, soit pour obtenir des
+succès heureux.</p>
+<p>Enée, prince troyen , est célèbre par sa piété envers les dieux, mais
+surtout pour avoir sauvé de l'incendie de Troie les dieux tutélaires de
+celte ville.</p>
+<p>Chaque personne avait encore une divinité qui lui était propre , et que
+l'on appelait Génie. Il naissait avec l'homme, et périssait avec' lui.
+On distinguait deux sortes de Génies : les uns blancs , et de bon augure
+; les</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 127</p>
+<p><pb/></p>
+<p>128 HISTOIRE POÉTIQUE.</p>
+<p>TROISIÈME'PARTIE DE LA FABLE.</p>
+<p>LES DEMI-DIEUX ET LES HEROS.</p>
+<p>Mais vous ne savez pas que son épée</p>
+<p>De l'horrible Méduse a la tête coupée;</p>
+<p>Que sur son bouclier il la porte en tous lieux,</p>
+<p><pb/></p>
+<p>HISTOIRE POETIQUE. 120</p>
+<p>Et que c'est fait de vous, s'il en frappe vos yeutf. • On dit que ce
+prodige est pire qu'un tonnerre ; Qu'il ne faut que le voir pour n'être
+plus que pierre, Et que naguère Atlas , qui ne s'ensuit cacher, A cet
+aspect fatal devint un grand rocher.</p>
+<p>PIERRE CORNEILLE.</p>
+<p>Atlas , fils de Jupiter et de Climène, refusa de recevoir chez lui
+Persée, qui, pour s'en venger, lui montra la tète de Méduse, et le
+changea en une haute montagne : on dit qu'il soutient le ciel sur ses
+épaules, soit parce que le mont Atlas est fort élevé, soit parce qu'il y
+eut un célèbre astronome appelé Allas.</p>
+<p>QUIKAULT.</p>
+<p><pb/></p>
+<p>l30 HISTOIRE POÉTIQUE.</p>
+<p>Et quand la nuit aura tendu ses voiles, Vos corps semés de nouvelles
+étoiles , Du haut du ciel éclairant les mortels , Leur apprendront qu'il
+vous faut des autels.</p>
+<p>Y. CORBEILLE.</p>
+<p>Le plus vaillant gucriier s'abuse D'oser tout espérer de l'edort de son
+bras ;</p>
+<p>Si vous voulez vaincie;Méduse , Portez le bouclier de la sage l'allas.</p>
+<p>Que la vertu et la prudence , Quand elles sont d'intelligence, Achèvent
+d'exploits glorieux! Le monstre le plus furieux Leur fait vainement
+résistance.</p>
+<p>QUIMAULT.</p>
+<p>HERCULE était fils de Jupiter et d'Alcmène, épouse d'Amphitryon.
+Électrion, roi de My~</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE.. l3l</p>
+<p>Et je mettrai tout le monde</p>
+<p>Au point d'envier ton sort.</p>
+<p>Tu peux hardiment te flatter</p>
+<p>De ces espérances données;</p>
+<p>C'est un crime que d'en douter,</p>
+<p>Les paroles de Jupiter</p>
+<p>Sont des arrêts des destinées.</p>
+<p>MOLIÈRE.</p>
+<p>Junon épuisa tous les efforts de sa haine contre ce fils de Jupiter.
+Elle fit naître Eurysthée avant lui, afin qu'en qualité d'aîné il eût
+une sorte d'empire sur son frère ; elle en-</p>
+<p><pb/></p>
+<p>l32 HISTOIRE POÉTIQUE'.'</p>
+<p>•voya deux horribles serpens qui, se glissant dans le berceau d'Hercule,
+allaient le dévorer ; mais il les mit en pièces de ses propres mains :</p>
+<p>Les premiers instans de sa vie,</p>
+<p>De la Discorde et de l'Envie</p>
+<p>Verront éteindre le flambeau. '</p>
+<p>11 renversera leurs trophées; -</p>
+<p>Et leurs couleuvres étouffées</p>
+<p>Seront les jeux de son berceau.</p>
+<p>ROUSSEAU.</p>
+<p>D'abord il fallait tuer le lion de la forêt de Uémée, qui ravageait tout
+le pays. Hercule</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. lî&gt;3</p>
+<p>Un sanglier terrible était sur le mont Erymanthe, et ravageait les
+champs de l'Arcadie : Hercule le prit, et le présenta tout vivant à
+Eurysthée.</p>
+<p>Une biche, qui avait des pieds d'airain et des cornes d'or, ne nuisait
+pas moins aux campagnes voisines du mont Ménale , qui est en Arcadie :
+Hercule la poursuivit pendant une année entière, et la perça de flèches.</p>
+<p>11 acquit encore plus de gloire, p.ir la défaite des Amazones qu'il
+attaqua auprès du fleuve Thermodon. Les Amazones étaient des</p>
+<p><pb/></p>
+<p>l34 HISTOIRE POÉTIQUE.</p>
+<p>femmes guerrières, qui habitaient la Scythie. Elles élevaient leurs
+filles dans l'exercice des armes ; elles estropiaient ou tuaient leurs
+enfans mâles.</p>
+<p>Hercule signala sa force et son adresse, en nettoyant les écuries
+d'Augias, roi d'Elide , fils du Soleil : elles répandaient l'infection
+dans toute la Grèce ;</p>
+<p>En domptant un taureau féroce , que Neptune , dans sa colère, avait
+produit pour la ruine entière de la Grèce ;</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. l35</p>
+<p>Ces douze travaux heureusement terminés, Hercule que l'on appelle
+souvent Alcide, parcourut l'Univers pour le purger des monstres et des
+tyrans, et pour soulager les malheureux :</p>
+<p>Aux coupables mortels Alcide fait la guerre,</p>
+<p>Dans le sein des tyrans il porte le trépas 5 Et pour en dél'i\rer la
+terre , Le foudre est inoins fort que son bras.</p>
+<p>LAMOTTE.</p>
+<p>Il entreprit ensuite la jonction de l'Océan avec la Méditerranée : ce
+qu'il exécuta en séparant les deux montagnes Calpe'e et Abyla, pour
+former un détioit qui est'celui de Gibraltar ; ces deux montagnes, dont
+la première</p>
+<p><pb/></p>
+<p>' 4ï36</p>
+<p>4ï36 POÉTIQUE.</p>
+<p>est dans l'Andalousie et la seconde sur la côte d'Afrique, s'appellent
+les Colonnes d'Hercule. Ce héros voulant les faire servir de monumens à
+sa gloire , y grava cette inscription : Non plus ultià. « On ne peut
+aller au-delà. » L'Oracle avait ordonné que, pour apaiser Apollon et
+Neptune irrités contre Laomédon, roi de Troie, on exposerait tous les
+ans une jeune Troyenne au monstre cpii désolait la Troade Le sort tomba
+sur llésione, fille de Laomédon. Hercule convint avec ce prince de la
+délivrance d'Hésione : ce qu'il exécuta en tuant le monstre ; mais le
+parjure Laomédon, refusant de donner les chevaux qu'il avait promis, fut
+tué, et les murs de Troie furent renversés par la main d'Hercule :</p>
+<p>L'ingrat Laomédon , digne de son malheur, De l'invincible Hercule
+éprouva la valeur.</p>
+<p>LA GRAAGE ClIAKCEL.</p>
+<p>LA GRAKGE-CIIAKCEL.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE.' iZ'J</p>
+<p>Alceste ayant appris que le sort était tombé sur Admète son époux, se
+présenta pour accomplir l'oracle :</p>
+<p>LA GRAKGE-ClIAKCEr..</p>
+<p><pb/></p>
+<p>l38 HISTOIRE POÉTIQUE.</p>
+<p>Ainsi, traversant l'Achéron, Hercule fit peur h Caron, Quand sa
+pesanteur immortelle Fit trop enfoncer sa nacelle..</p>
+<p>VOITURE.</p>
+<p>Dieu puissant, venge-moi d'un mortel qui m'outrage; Son coeur, dès le
+berceau, triomphe de ma rage : Ma honte et mon dépit croissent par ses
+travaux; Blesse Alcide : il est temps de vaincre ce héros.</p>
+<p>LAUIOTTE.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 13g</p>
+<p>Ne te souvient-il plus du voile inestimable Que Nessus expirant remit
+entre tes mains? Du sang dont il est teint la vertu redoutable Veut
+renverser les projets des humains.</p>
+<p>CAMPISTRON.</p>
+<p>Et mes tourmens , Bien loin de s'affaiblir, redoublent leurs atteintes.</p>
+<p>CAMIHSTRON.</p>
+<p>Hercule sentait un feu dévorant qui coulait dans ses veines. Pour finir
+ce supplice, il se jeta sur le bûcher qu'il avait préparé. Philoctète
+renferma dans une urne les cendres de ce héros ,' qui lui avait remis
+les flèches teintes du sang de l'hydre de Lerne, sans les-</p>
+<p><pb/></p>
+<p>l4o HISTOIRE POÉTIQUE.</p>
+<p>Mes perfides neveux , les cruels Pallantides , Désavouaient en moi le
+sang des Êrecthides; Comme fils supposé , faisaient tout leur effort
+Pour me priver du troue en conspiiant ma mort. Pour les jours de mon
+fils redoutant leur furie, Loin de moi son enfance en secret fut nourrie
+: Près des inurs de Trézène , un berger eu prit soin Dans un lieu
+solitaire, et presque sans témoin ; Et surtout je voulus, par un ordre
+sévère , Qu'il lui lût sa naissance , et passai pour son père, Et, pour
+ne rien omettre en ce péril pressant, Un fer, inarqué du nom qu'il reçut
+en naissant, Fut mis alors par moi sous un autel champêtre , Afin qu'en
+le montrant il se fît reconnaître.</p>
+<p>DELAFOSSE.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. ï^.1</p>
+<p>DELAEOSSE.</p>
+<p>Aricie échappa seule au massacre de sa famille :</p>
+<p>RACINE.</p>
+<p>Résolu de périr par un noble trépas,</p>
+<p>Jaloux du nom d'Hercule , et marchant sur ses pas,</p>
+<p>J'entrepris de venger et d'affranchir la terre</p>
+<p>De monstres, de médians échappés au tonnerre.</p>
+<p>DELAFOSSE.</p>
+<p><pb/></p>
+<p>Iq;2 HISTOIRE POÉTIQUE.</p>
+<p>chez lui tous les étrangers, les faisait étendre sur un lit de fer , et
+leur coupait la partie des jambes qui en excédait la longueur, ou les
+écartelait.</p>
+<p>Il coupa et dispersa les membres de Périphète, qui ne se nourrissait que
+de chair humaine. Ce monstre est connu sous le nom du géant d'Epiclaure
+, ville du Péloponnèse. Thésée délivra les campagnes de Marathon, ville
+de l'Attique , d'un taureau furieux; et l'Etolie, d'un horrible sanglier
+envoyé parDiane :</p>
+<p>Ce héros intrépide Consolant les mortels de l'absence d'Aleide ; Les
+monstres étouffés, et lis brigands punis; Procuste , Cercyon , et
+Scyrron , et Sinnis , Et les os dispersés du géant d'F.pidanic , Et la
+Crète fumant du sang du Minolaure.</p>
+<p>RACINE.</p>
+<p>Le Minotaure était un monstre moitié homme et moitié taureau, que .les
+poètes feignent avoir été mis au monde par Pasiphaé,</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. lfô</p>
+<p>épouse de Minos, roi de Crète. Ce prince, pour venger la mort de son
+fils Androgée, que les. jeunes gens d'Athènes avaient tué , parce qu'il
+remportait toujours sur eux le prix des jeux publics, obligea les
+Athéniens de lui envoyer chaque année sept de leurs enfans, choisis par
+le sort, pour être dévorés par le Minotaure. Thésée , tout jeune encore,
+forma le généreux projet d'affranchir sa patrie de ce tribut honteux et
+cruel :</p>
+<p>Ce monstre, homme et taureau, qu'un fol amour fit naître, Qui du sang
+des humains brûlait de se repaître, Sous le fer de Thésée enfin perdit
+le jour. Le héros lient le lil qui trace son retour; Tandis qu'un peu
+plus loin Ariane tremblante Craint que le sort cruel ne trompe son
+attente; Les yeux au labyrinthe , et les mains vers les cieux, Au
+secours de Thésée elle appelle les dieux.</p>
+<p>LAUIOTTE.</p>
+<p>Le Minotaure était renfermé dans un labyrinthe dont il n'était pas
+possible de trouver l'issue ; Ariane , fille de Minos , facilita
+l'entreprise de Thésée, en lui donnant un peloton de fil, parle moyen
+duquel il lai fut aisé de revenir sur ses pas, après avoir tué le
+Minotaure.</p>
+<p>Ce labyrinthe est célèbre parmi les poètes : ils l'appellent souvent le
+Dédale, du nom de celui qui l'avait bâti. C'était un composé de bosquets
+et de bâtimens disposés ayee tant</p>
+<p><pb/></p>
+<p>l44 HISTOIRE POÉTIQUE.</p>
+<p>ROUSSEAU.</p>
+<p>Quand je devrais, nouvel Icare, De ma"chute orgueilleuse étonner
+l'univers, Je veux, sur les pas de Pindare, M'élever jusque dans les airs.</p>
+<p>LA GRANGE-CIIASCEL.</p>
+<p>En partant pour son expédition contre le</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. , ifâ</p>
+<p>Laissons aux Scythes inhumains Mêler dans leurs banquets le meurtre et
+le carnage ;</p>
+<p>Les dards du Centaure sauvage Ne doivent point souiller nos innocentes
+mains.</p>
+<p>ROUSSEAU.</p>
+<p>Les Centaures étaient si bons cavaliers, qu'ils semblaient ne faire
+qu'un même corps avec leurs chevaux : ce qui a donné lieu aux poètes de
+feindre qu'ils étaient moitié homme et moitié cheval. Les Lapithes
+habitaient la Thessalie, et tiraient leur nom de Lapithe , fille
+d'Apollon. Ces géans étaient si vains, que leur orgueil avait passé en
+proverbe ; on</p>
+<p>9</p>
+<p><pb/></p>
+<p>disait : Aussi arrogant ou plus vain qu'un Lapithe.</p>
+<p>Vingt-quatre ans avant la prise de Troie , Thésée et Pirithoùs
+enlevèrent Hélène , qui fut reprise par Castor et Pollnx ; ensuite ils
+descendirent aux enfers pour enlever Proserpine :</p>
+<p>On dit même, et ce bruit est partout répandu, Qu'avec Pirithoùs aux
+enfers descendu , Il a vu le Cocyte et les rivages sombres, Et s'est
+montré vivant aux infernales ombres ; Mais qu'il n'a pu sortir de ce
+triste séjour, Et repasser les bords qu'on passe sans retour.</p>
+<p>RACINE.</p>
+<p>Pirithoùs fut dévoré par Cerbère ; et Thésée resta aux enfers, jusqu'au
+temps où Hercule vint le délivrer. Ils firent ensemble la guerre aux
+Amazones; et Thésée épousa Hippolyte , reine de ces femmes guerrières,
+dont il eut un fils qui porta le même nom. Phèdre, fille de Minos et de
+Pasiphaé , que Thésée avait épousée en secondes noces, conçut pour le
+jeune Hippolyte des sentimens qui leur furent trèsfunestes.</p>
+<p>Noble et brillant auteur d'une triste famille , Toi, dont ma mère osait
+se vanter d'être fille , Qui peut-être rougis du trouble où tu me vois,
+Soleil ! je te viens voir pour la dernière fois.</p>
+<p>RACINE.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. ï$7</p>
+<p>Et toi, Neptune , et toi, si jadis mon courage D'infâmes assassins
+nettoya ton rivage, Souviens-toi que, pour prix de mes efforts heureux,
+Tu promis d'exaucer le premier de mes voeux.</p>
+<p>RACIHE.</p>
+<p>Il ne fut que trop exaucé. Neptune envoya un monstre marin qui, par ses
+mugissernens, effraya les chevaux d'Hippolyte :</p>
+<p>Tout fuit ; et sans s'armer d'un courage inutile,</p>
+<p>Dans le temple voisin chacun cherche un asile.</p>
+<p>Hippolyte lui seul, digne fils d'un héros,</p>
+<p>Arrête ses coursiers, saisit ses javelots,</p>
+<p>Pousse au monstre, et d'un dard lancé d'une main sûre,</p>
+<p>Il lui fait dans le flanc une large blessure.</p>
+<p>De rage et de douleur le monstre bondissant</p>
+<p>Vient aux pieds des chevaux tomber en mugissant.</p>
+<p>A travers les rochers la peur les précipite : L'essieu crie et se rompt.
+L'intrépide Hippolyte Voit Voler en éclats tout son char fracassé.</p>
+<p><pb/></p>
+<p>l48 HISTOIRE POÉTIQUE.</p>
+<p>\</p>
+<p>J'ai vu, seigneur, j'ai vu votre malheureux fils</p>
+<p>Traîné par les chevaux que sa main a nourris;</p>
+<p>Il veut les rappeler, et sa voix les effraie.</p>
+<p>Ils courent ; tout son corps n'est bientôt qu'une plaie.</p>
+<p>J'arrive; je l'appelle; et, me tendant la main,</p>
+<p>Il ouvre un oeil mourant, qu'il referme soudain.</p>
+<p>RACINE.</p>
+<p>Castor et Pollux , connus sous le nom de Tyndarides, sont le plus beau
+modèle que l'antiquité nous donne de l'amour fraternel. Ils étaient fils
+de Léda, épouse de Tyndare, roi d'OEbalie, contrée du Péloponnèse.
+Jupiter s'était changé en cygne pour surprendre Léda ; elle mit au monde
+Hélène et Pollux, Castor et Clytemnestre : les deux premiers étaient
+enfans de Jupiter, et les deux autres, de Tyndare.</p>
+<p>Hélène épousa Ménélas, roi de Sparte ou</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. ifo</p>
+<p>Jupiter fit l'homme semblable A ces deux jumeaux que la Fable Plaça
+jadis au rang des dieux; Couple de déités bizarre,</p>
+<p><pb/></p>
+<p>l5o. HISTOIRE POÉTIQUE,</p>
+<p>Tantôt habitans du Ténare, El tantôt citoyens des cieux.</p>
+<p>ROUSSEAU.</p>
+<p>Ah ! prince , songez-vous que trois monstres ensemble Sont unis dans ee
+monstre affreux? A son aspect il n'est rien qui ne tremble : De sa
+brûlante haleine il pousse mille feux.</p>
+<p>Tu. CORNEILLE.</p>
+<p><pb/></p>
+<p>-i , HISTOIRE POÉTIQUE. l5l</p>
+<p>Le monstre couvrira de torrens enflammés Nos campagnes fumantes ; Et nos
+champs ne seront semés Que des restes affreux de victimes sanglantes.-</p>
+<p>TH. CORNEILLE.</p>
+<p>Les Amazones et les Solymes sentirent bientôt les efforts de son bras ;
+et ses victoires lui méritèrent la main de Philoné, fille d'Iobates, roi
+de Lycie :</p>
+<p>Après avoir vaincu deux nations guerrières, Bellérophon amène en ces
+lieux fortunés</p>
+<p>Les Amazones prisonnières,</p>
+<p>Et les Solymes enchaînés.</p>
+<p>TH. CORNEILLE.</p>
+<p>Bellérophon est un héros vertueux : son insensibilité pour les avances
+de Sténobée, épouse de Proclus, roi d'Argos, pensa lui coûter la vie.</p>
+<p>Jason n'est pas moins fameux par ses aventures avec Médée, que par la
+conquête de la Toison d'or :</p>
+<p>Retraçons aujourd'hui la célèbre entreprise Qui conduisit Jason sur les
+bords de Colchos,</p>
+<p><pb/></p>
+<p>%5z HISTOIRE POÉTIQUE.</p>
+<p>Et montrons ce que peut la vertu d'un héros, Lorsque le ciel la favorise.</p>
+<p>GKESSET.</p>
+<p>De Grecs une troupe vaillante Enleva la Toison brillante Que gardait le
+dragon de Mars : En vain son haleine enflammée, Et ses dents , mères
+d'une armée , En étaient les affreux remparts.</p>
+<p>LAHOTTE.</p>
+<p>On appelle ces héros les Argonautes, soit parce que le vaisseau qu'ils
+montèrent se nommait Argo, soit parce que la plupart des braves qui s'y
+embarquèrent étaient du royaume d'Argos :</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE.' l53</p>
+<p>Argonautes fameux, demi-dieux de la Grèce , Castor, Pollux, Orphée ; et
+vous, heureux Jason, Vous de qui la valeur, et l'amour, et l'adresse,
+Ont conquis la Toison.</p>
+<p>VOLTAIRE.</p>
+<p>P. CORBEILLE.</p>
+<p>Deux taureaux indomptés sont les premiers remparts</p>
+<p>A tracer sur la plaine un pénible sillon.</p>
+<p>Aussitôt du sein de la terre</p>
+<p>Tes yeux verront de toutes parts</p>
+<p>Sortir des escadrons épars, Qui se rassembleront pour te livrer la
+guerre. Ce n'est pas tout encore, un dragon furieux Fait dans ce lieu
+terrible une garde constante ; Jamais le doux sommeil n'approcha de ses
+yeux ; Rien ne saurait tromper sa fureur vigilante.</p>
+<p>ROUSSEAU.</p>
+<p><pb/></p>
+<p>I&amp;js» HISTOIRE POÉTIQUE.</p>
+<p>Jason vainquit ces monstres ; mais ce ne fut qu'avec le secours de
+Médée, fille d'Aëte, dont les enchantemens étaient nécessaires pour ne
+pas rendre inutile la valeur de ce héros :</p>
+<p>Toute la Nature est soumise A ses affreux commandemens:</p>
+<p>L'enfer la favorise, Elle confond les élémens, Le ciel même est troublé
+par ses enchantemens.</p>
+<p>QUINAULT.</p>
+<p>Tel est mon sort, que la Toison ravie Me doit coûter le sceptre, et
+peut-être la vie; De sa perte dépend celle de tout l'Etat : En former un
+désir, c'est faire un attentat.</p>
+<p>P. ConNEII.LE.</p>
+<p>Médée mit en pièces son frère Absyrte, et en dispersa les membres le
+long du chemin, afin de retarder la course d'Aëte. Arrivée au palais
+d'Éson, père de Jason, et le voyant accable' sous le poids des années,
+elle le rajeu,-r jiit :</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. . -.*ï€Ç</p>
+<p>Je me souhaiterais la fortune d'Eson,</p>
+<p>Qui vieil comme je suis, revint contre nature</p>
+<p>En sa jeune saison ! - sMALHERBE.</p>
+<p>sMALHERBE.</p>
+<p>s</p>
+<p>P. CORBEILLE.</p>
+<p><pb/></p>
+<p>l56 HISTOIRE POÉTIQUE.</p>
+<p>P. CORNEILLE.</p>
+<p>Accoutumée au crime, et savante en poison, Voycj es qu'elle a fait pour
+acquérir Jason ! Et ne présumez pas, quoi que Jason vous die, Que, pour
+le conserver, elle soit moins hardie.</p>
+<p>P. CORNEILLE.</p>
+<p>En effet, elle empoisonna toute la famille royale, et massacra deux fils
+qu'elle avait eus de Jason :</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. jf£rçSi</p>
+<p>jf£rçSi fils ont .péri par un coup inhumain, Dans leur flanc innocent tu
+conduisais sa main.</p>
+<p>GRESSET.</p>
+<p>DELAFOSSE.</p>
+<p>Jason s'empara d'Iolchos, capitale de la Thessalie, où il était né , et
+où il avait assemblé les Argonautes. Il eut un règne tranquille, et
+jouit long-temps de la gloire qu'il s'était acquise par la conquête de
+la Toison d'or.</p>
+<p>ORPHEE.</p>
+<p><pb/></p>
+<p>l58 HISTOIRE POÉTIQUE;</p>
+<p>Suspends la rage menaçante De tant de monstres furieux.</p>
+<p>ROUSSEAU.</p>
+<p>Ce demi - dieu était fils de Clio et d'Apollon. Il en avait reçu le
+talent de toucher de la lyre avec tant d'art, que, par la vertu de ses
+sons , il égala au moins les plus grands héros de son temps :</p>
+<p>LA GRAKGE-CKAHCEL.</p>
+<p>Un mortel, qui l'eût cru? jusqu'au sombre rivage,</p>
+<p>Par ses divins accens, s'est ouvert un passage ;</p>
+<p>De tout ce qui l'entend il dis ipe l'horreur :</p>
+<p>Et Caron, enchanté sur la rive infernale,</p>
+<p>L'a reçu sans effort dans la barque fatale. ^r"</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. l5g</p>
+<p>LA GRAKGE-CHAITCEL.</p>
+<p>Orphée descendit aux enfers pour y chercher Eurydice , son épouse , que
+la piqûre d'un serpent avait fait mourir, le jour même de ses noces :</p>
+<p>Le sombre roi du Styx, aux tendres airs propice, Fut touché des accords
+de l'époux d'Eurydice.</p>
+<p>GRESSET.</p>
+<p>Heureux et malheureux Orphée !</p>
+<p>Ne pouvais-tu de ton trophée</p>
+<p>T'assurer un moment plus tard? t</p>
+<p>L'enfer te rendait sa captive ;</p>
+<p>Mais, hélas ! ton amour t'en prive</p>
+<p>Par un impatient regard.</p>
+<p>'-"»" LAMOIIE.</p>
+<p><pb/></p>
+<p>IÔÔ HISTOIRE POÉTIQUE.</p>
+<p>CADMUS.</p>
+<p>Après avoir erré sur la terre et sur l'onde, s-.,,</p>
+<p>Sans trouver Europe ma soeur ; vA</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. l6l</p>
+<p>Après avoir en vain cherché son ravisseur,</p>
+<p>Le ciel termine ici ma course vagabonde ;</p>
+<p>Et c'est pour obéir aux oracles des dieux,</p>
+<p>Qu'il faut m'arrêter en ces lieux.</p>
+<p>QUINAULT.</p>
+<p>Va, Cadmus, que rien ne t'étonne ; Va, ne crains ni Junon , ni le dieu
+des combats :</p>
+<p>Ose secourir Hermione ; Tu vois dans ton parti la guerrière Pallas.</p>
+<p>QUINAULT.</p>
+<p>Les murs de Thèbes furent construits d'une façon plus merveilleuse : on
+dit que les pierres venaient se ranger au son de la lyre d'Amphion? fils
+de Jupiter et d'Antiope , reine de Thèbei^ç Les poètes ne parlent guère
+de ce</p>
+<p><pb/></p>
+<p>IÔ2 , HISTOIRE POÉTIQUE.</p>
+<p>prodige, sans parler de celui qu'opéra aussi la lyre d'Arion :</p>
+<p>CAÎIPISTRON.</p>
+<p>THEBES.</p>
+<p>Viens servir l'ardeur qui m'inspire, Déesse, prête-moi ta lyre, Ou celle
+de ce Grec vanté Dont l'impitoyable Alexandre, Au milieu de Thèbes en
+cendre, Respecta la postérité.</p>
+<p>RoltSSEAUJ&amp;l S</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE., l63</p>
+<p>VOLTAIRE.</p>
+<p>OE&amp;e ayant découvert qu'il n'était point</p>
+<p><pb/></p>
+<p>l64 HISTOIRE POÉTIQUE.</p>
+<p>fils de Polybe, alla consulter l'Oracle , et apprit qu'il trouverait son
+père dans la Phocide, province de la Grèce. OEdipe s'y rendit, et tua
+Laïus, en lui disputant le passage dans un chemin fort étroit. Thèbes
+était alors désolée par un monstre appelé Sphinx : il avait la tête
+d'une femme, le corps d'un chien, les ailes et la queue d'un dragon ,
+les pieds et les ongles d'un lion. Il proposait une énigme aux passans,
+et les dévorait s'ils ne la devinaient pas :</p>
+<p>VOLTAIRE.</p>
+<p>Ne porter qu'un faux jour dans son obscurité,</p>
+<p>C'était de ce prodige enfler la cruauté;</p>
+<p>Et les membres épars des mauvais interprètes</p>
+<p>Ne laissaient dans ces murs que des bouches muettes.</p>
+<p>Mais , comme aux grands périls le salaire enhardit,</p>
+<p>Le peuple offre le sceptre, et la reine son lit. , t</p>
+<p>De cent cruelles morts cette offre est tôt suivie.*',;,</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 1.65</p>
+<p>J'arrive ; je l'apprends; j'y hasarde ma vie. Au pied du roc affreux,
+semé d'os blanchissans, Je demande l'énigme, et j'en cherche le sens ;
+Et, ce qu'aucun mortel n'avait encor pu faire , J'en dévoile l'image, et
+perce le mystère.</p>
+<p>P. CORNEILLE.</p>
+<p>OEdipe répondit au Sphinx , que son animal est l'homme, qui, dans
+l'enfance, se traîne sur les pieds et sur les mains, dans l'âge viril se
+soutient sur les deux pieds, et dans la vieillesse s'appuie sur un bâton
+qui lui sert d'un troisième pied :s</p>
+<p>Le monstre, furieux de se voir entendu, Venge aussitôt sur lui tant de
+sang répandu, Du roc se lance en bas, et s'écrase lui-même. La reine
+tint parole, et j'eus le diadème.</p>
+<p>CORNEILLE.</p>
+<p>OEdipe , sans le savoir, épousa sa mère, et monta sur le trône de son
+père, qu'il avait tué sans le connaître. Les premiers momens de son
+règne parurent heureux ; et les Thébains se félicitaient que le sort
+leur eût donné un roi si vertueux et si sage :</p>
+<p><pb/></p>
+<p>l66 HISTOIRE POÉTIQUE.</p>
+<p>Les dieux nous ont conduits de supplice en supplice : La famine a cessé
+, mais non leur injustice ; Et la contagion , dépeuplant nos Etats,
+Poursuit un faible reste échappé du trépas.</p>
+<p>VOLTAIRE.</p>
+<p>Un grand crime impuni cause votre misère : Par le sang de ma race il se
+doit effacer;</p>
+<p>Le ciel ne se peut satisfaire; Et la fin de vos maux ne se fera point voir,</p>
+<p>Que mon sang n'ait fait son devoir.</p>
+<p>LAMOTTE.</p>
+<p>Je suis , oui, je le suis, ce fils abandonné ;</p>
+<p>Je suis fils de Jocaste , et je connais mon crime.</p>
+<p>Grands dieux ! ne tonnez plus, prenez votre victime.</p>
+<p><pb/></p>
+<p>» HISTOIRE POÉTIQUE. ' f6j</p>
+<p>LAMOTTE.</p>
+<p>OEdipe avait eu de Jocaste deux fils, Etéocle et Polynice , et deux
+filles, Antigone et Ismène. Les deux princes firent paraître, dès leur
+enfance, une haine mutuelle, qui alarmait souvent OEdipe :</p>
+<p>LAMOTTE.</p>
+<p>RACINE.</p>
+<p><pb/></p>
+<p>l68 HISTOIRE POÉTIQUE. .j, . '</p>
+<p>Etéocle et Polynice se firent une guerre sanglante , dans laquelle toute
+la Grèce prit parti et se partagea. On fit souvent des propositions de
+paix ; mais la haine des deux frères y mit toujours un obstacle
+invincible :</p>
+<p>Je connais Polynice et son humeur allière : Je sais bien que sa haine
+est encor tout entière ; Je ne crois pas qu'on puisse en arrêter le
+coursj Et, pour moi, je sens bien que je le hais toujours.</p>
+<p>RACINE.</p>
+<p>D'un geste menaçant, d'un oeil brûlant de rage, Dans le sein l'un de
+l'autre ils cherchent un passage.</p>
+<p>Le roi, frappé d'un coup qui lui perce le flanc, Lui cède la victoire,
+et tombe dans son sang. Polynice, tout fier du succès de son crime,
+Piegarde avec plaisir expirer sa victime.</p>
+<p>RACINE.</p>
+<p><pb/></p>
+<p>*</p>
+<p>HISTOIRE POÉTIQUE. 169</p>
+<p>Lesxorps de ces malheureux frères furent mis sur le même bûcher, pour y
+être brûle's, selon la coutume de ce temps-là. On vit aussitôt la flamme
+se diviser d'elle-même, et faire connaître que la mort n'avait pu
+éteindre une haine dont on n'avait point encore d'exemple.</p>
+<p>TROIE.</p>
+<p>Quelque célèbre que soit, chez les poètes , la ville de Thèbes, celle de
+Troie, capitale de la Troade, en Phrygie , l'emporte infiniment par le
+nombre et la qualité de ses rois, par la durée d'un siège de dix ans,
+qui fut très - fécond en événemens mémorables, et par lès suites de
+cette guerre , aussi funeste aux Grecs vainqueurs qu'aux Troyens
+vaincus. Il semble que cetle expédition ne devait être favorable qu'aux
+poètes grecs, romains et français. Sophocle et Euripide y puisèrent le
+sujet de leurs plus belles tragédies; Homère , celui de ses deux poèmes
+épiques, l'I10</p>
+<p>l'I10</p>
+<p><pb/></p>
+<p>fJO HISTOIRE POÉTIQUE. lt</p>
+<p>liade et l'Odyssée ; Virgile en retrace l'image dans son Enéide ; et
+c'est sur les murs où dans les campagnes de Troie que nos plus grands
+poètes ont choisi les héros qui furent le plus généralement applaudis
+sur la scène française.</p>
+<p>Avant que d'entrer dans le détail de la guerre de Troie , il est à
+propos de faire connaître les héros qui s'y sont distingués : nous
+commencerons par les Grecs.</p>
+<p>Atrée et Thyeste étaient fils dé Pélops et</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. I7T,</p>
+<p>d'Hippodamie. Atrée épousa Erope, que Thyeste lui enleva : "</p>
+<p>CllÉBlLLON.</p>
+<p>Rien ne peut arrêter mes transports furieux ; Je voudrais me venger,
+fût-ce même des dieux : Du plus puissant de tous j'ai reçu la naissance,
+Je le sens au plaisir que me fait la vengeance.</p>
+<p>CRÉBILLON.</p>
+<p>Soyez doncles garans du salut de Thyeste, Coupe de nos aïeux, et vous,
+dieux que j'atteste 1</p>
+<p>Mais que vois-je,perfide?Ah! grands dieux! quellehorreurl</p>
+<p><pb/></p>
+<p>I72 HISTOIRE POETIQUE.</p>
+<p>CRÉBILLON.'</p>
+<p>Atrée avait fait égorger les deux fils de Thyeste, et lui en avait
+présenté le sang dans la coupe. On dit que le Soleil ne parut point ce
+jour - là, afin de n'être pas le témoin d'un si noir attentat :</p>
+<p>C'est cette colère funeste Qui jadis a nourri Thyeste Du sang d'un fils
+qu'elle immola; Festin détestable et parjure, Et qui 6urprit plus la
+nature, Que le Soleil qui recula.</p>
+<p>LAMOTTE.</p>
+<p>La Fable offre encore plus d'un exemple de ces crimes affreux, et des
+châtimens sévères dont ils furent suivis.</p>
+<p>Térée , roi de Thrace, fut métamorphosé en épervier , au moment qu'il
+poursuivait Progné, son épouse, pour la punir de lui</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE." I7S</p>
+<p>avoir servi les membres de son fils Ithys. Progné prétendait venger, par
+cet attentat, sa soeur Philomèle, que Térée retenait prisonnière , après
+lui avoir coupé la langue :</p>
+<p>GRESSET.</p>
+<p>Progné fut changée en hirondelle, et Philomèle en rossignol.</p>
+<p>Toute la famille d'Atrée porta la peine du crime qu'il avait commis.
+Plisthène, fils d'Atrée , fut père d'Agamemnon et de Ménélas, que l'on
+appelle souvent les Atrides, du nom de leur aïeul :</p>
+<p>VOLTAIRE.</p>
+<p>Agamemnon épousa Clytemnestre, dont il eut Oreste, Electre et Iphigénie.</p>
+<p>Ménélas était roi de Sparte ou Lacédémone, frère d'Agamemnon , époux
+d'Hélène, et l'un des héros qui se signalèrent au siège de Troie.</p>
+<p>Nestor, fils de Nélée et de Chloris, avait seul</p>
+<p>10.</p>
+<p><pb/></p>
+<p>1^4 HISTOIRE POÉTIQUE...</p>
+<p>Plus ardent autrefois , plus prudent aujourd'hui, De mes conseils du
+moins je te promets l'appui; De ces jeunes guerriers je conduirai
+l'audace. Ils lanceront les traits, j'en marquerai la place; Et, de
+l'expérience éclairant la valeur, Mon âge emploiera bien l'avantage du
+leur.</p>
+<p>LAMOTTE.</p>
+<p>LAMOTTE.</p>
+<p>Achille mérite le premier rang parmi les héros qui se rendirent célèbres
+au siège de Troie, Il était fils de Thétis et de Pelée. Sa mère l'avait
+plongé dans le Styx, afin de le rendre invulnérable ;</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. |^5.</p>
+<p>LAMOTTE.</p>
+<p>Elle le tenait par le talon, et c'était le seul endroit où il pût être
+blessé. On le confia aux soins du centaure Chiron , qui ne le nourrit
+que de moelle de lion. Il était encore enfant, lorsque sa mère lui
+proposa le choix de vivre long- temps sans gloire , ou de mourir jeune
+tout couvert de lauriers. Il préféra la gloire aux années :</p>
+<p>Je puis choisir, dit-on , ou beaucoup d'ans sans gloire. Ou peu de jours
+suivis d'une longue mémoire; Mais, puisqu'il faut enfin que j'arrive au
+tombeau, Voudrais-je, de la terre inutile fardeau, Trop avare d'un sang
+reçu d'une déesse, Attendre chez mon père une obscure vieillesse, Et,
+toujours de la gloire évitant le sentier, Ne laisser aucun nom, et
+mourir tout entier.</p>
+<p>RACINE.</p>
+<p>Le Destin avait résolu qu'Achille périrait devant Troie, et que cette
+ville ne serait jamais prise que par la présente et la valeur çhï</p>
+<p>ce héros :</p>
+<p>i</p>
+<p><pb/></p>
+<p>176 HISTOIRE POÉTIQUE.</p>
+<p>Que votre vie, ailleurs et longue et fortunée, Devant Troie en sa fleur
+doit être moissonnée.</p>
+<p>RACINE.</p>
+<p>Ulysse, cependant, zélé pour sa patrie,</p>
+<p>Il étale aux yeux des princesses</p>
+<p>Des ornemens et des richesses Dignes de relever l'éclat de leur beauté :
+Achille avec dédain envisage leurs charmes, Mais d'un trouble soudain il
+paraît agité Quand, parmi ces atours, il voit briller des armes Qui
+semblent l'accuser de son oisiveté.</p>
+<p>LA GRANGE-CHANCEL.</p>
+<p><pb/></p>
+<p>HISTOIRE POETIQUE. lff</p>
+<p>Quittez les jeux, fuyez les charmes ;</p>
+<p>Rougissez d'un honteux repos ;</p>
+<p>Le carnage et le bruit des armes</p>
+<p>Sont les vrais plaisirs des héros.</p>
+<p>LA GRANGE-CHANCEL.</p>
+<p>Achille ne respirait que la gloire. H suivit Ulysse avec joie , et
+quitta en héros Déidamie , fille de Lycomède , qu'il avait épousée, et
+dont il avait un fils nommé Pyrrhus, que nous verrons marcher sur les
+traces de son père :</p>
+<p>LA GRANGE-CHANCEL. -</p>
+<p>Ulysse, fils de Laërte, roi d'Ithaque, avait contrefait l'insensé, pour
+se dispenser d'entrer dans la ligue des princes grecs. Un jour qu'il
+labourait follement le rivage de la mer, Palamède plaça Télémaque,
+encore enfant, devant le soc de la charrue. Ulysse la détourna avec
+adresse, de crainte de blesser son fils, et</p>
+<p><pb/></p>
+<p>Jiffi HISTOIRE POÉTIQUE^</p>
+<p>Ajax, fils d'Oïlée, roi de Locres, passait pour le plus vaillant des
+Grecs après Achille. Neptupe le fit périr dans les eaux, pour le punir
+d'une impiété dont il avait toujours fait gloire.</p>
+<p>Diomède se rendit immortel par mille exploits , et surtout en blessant
+Mars et Vénus.</p>
+<p><pb/></p>
+<p>HISTOIRE PÔÉTIQUÉi i*jf§</p>
+<p>RACINE.</p>
+<p>La fugitive Hélène et son époux nouveau Montaient, impatiens, ce funeste
+vaisseau,</p>
+<p><pb/></p>
+<p>l8o HISTOIRE POÉTIQUE.</p>
+<p>LAMOTTE.</p>
+<p>Les princes de la Grèce s'assemblèrent pour venger cette insulte, et
+jurèrent de renverser la ville de Troie.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 1-81s'imagina</p>
+<p>OEnone, savez-vous quel ennui me tourmente ? On me veut arracher des
+lieux où je vous voi. J'étais berger; vous receviez ma foi :</p>
+<p>Mon bonheur passait mon attente. Mais je reviens de Troie , où j'ai vu,
+malgré moi,</p>
+<p>Que ma fortune est trop brillante : J'ai reçu les respects d'une cour
+éclatante</p>
+<p>Qui fait trembler tout sous sa loi. En vous le racontant, ma douleur en
+augmente: "</p>
+<p>Chère OEnone, j'apprends que je suis fils du roi.</p>
+<p>FOKTENELLE.</p>
+<p>u</p>
+<p><pb/></p>
+<p>l82 HISTOIRE POÉTIQUE.</p>
+<p>Mais Calchas est ici ; Calchas si renommé, Qui des secrets des dieux fut
+toujours informé. Le Ciel souvent lui parle : instruit par un tel
+maître, 11 sait tout ce qui fut et tout ce qui doit être.</p>
+<p>RACINE.</p>
+<p>Vous armez contre Troie une puissance vaine , Si, dans un sacrifice
+auguste et solennel,</p>
+<p>Une fille du sang d'Hélène De Diane, en ces lieux, n'ensanglante
+l'autel. Pour obtenir les vents que le Ciel vous dénie,</p>
+<p>Sacrifiez Iphigénie. ° ! RACINE.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. l83</p>
+<p>devant Troie, dont ils formèrent aussitôt le siège. Tout leur réussit
+d'abord ; mais Achille s'était^ brouillé avec Againeumon, qui lui avait
+enlevé sa captive Briséis , fille de Brisés, prêtre de Jupiter , et ne
+voulant plus mener ses troupes au combat, les choses changèrent de face :</p>
+<p>Lorsque, de nos combats me disputant le prix,</p>
+<p>L'injuste Aganiemnon m'enleva Briséis,</p>
+<p>Dans ma tente enfermé, tout brûlant de colère,</p>
+<p>J'eus beau voir la fortune aux Grecs partout contraire ,</p>
+<p>Pour eux aucun secours ne me sembla permis,</p>
+<p>Et par cette retraite, utile aux ennemis,</p>
+<p>Je fis plus pour Piiam que tous les dieux de Troie.</p>
+<p>Tll. CoRKEILLE.</p>
+<p>Tantôt ce guerrier terrible, Des Grecs épouvantés embrase les vaisseaux;</p>
+<p>Tantôt son bras invincible Fait rougir de leur sang et la terre et les
+eaux.</p>
+<p>OAIIPISTUOK.</p>
+<p>Patrocle , fils de Ménoetius et de Sthénélé, prit lesanr.es d'Achille,
+dont il était l'ami</p>
+<p><pb/></p>
+<p>l84 HISTOIRE POÉTIQUE.</p>
+<p>A quel excès d'horreur la vengeance l'égaré !</p>
+<p>Ce n'est plus un héros, c'est un tigre barbare.</p>
+<p>Il insulte au cadavre; il lui perce les pieds,</p>
+<p>Le traîne, et du tombeau faisant trois fois le tour,</p>
+<p>De l'horreur du spectacle il fait pâlir le jour.</p>
+<p>LAMOTTE.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. l85</p>
+<p>mourut sur-le-champ. Apollon lui-même avait conduit la flèche :</p>
+<p>A peine il a du coup senti la rude atteinte,</p>
+<p>Qu'il tombe ; et, d'un regard qui fait naître la crainte ,</p>
+<p>Il faut céder, dit-il, au destin qui m'abat;</p>
+<p>Je meurs. Du lâche coup dont la rigueur m'entraîne ,</p>
+<p>L'infamie était due au ravisseur d'Hélène.</p>
+<p>TH. CORBEILLE.</p>
+<p><pb/></p>
+<p>l86 HISTOIRE POÉTIQUE.</p>
+<p>ils construisent un grand cheval de bois, dans lequel ils renferment
+beaucoup de soldats armés, et se retirent dans l'île de Tènédos , en
+faisant dire aux Troyens que ce cheval est une réparation qu'ils font à
+Minerve.</p>
+<p>TH. CORNEILLE.</p>
+<p>Les Troyens se défendent en désespérés , et ne cèdent qu'au nombre qui
+les accable. Pyrrhus exerce des cruautés inouïes. Il pénètre au palais
+de Priam , immole ce prince avec toute sa famille, au pied d'un autel où
+il s'était réfugié :</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. 187</p>
+<p>Alors, il t'en souvient, pour venger ma patrie,</p>
+<p>Dans le palais forcé, quelle fut ma furie!</p>
+<p>J'arrive tout sanglant aux lieux où Polyxène</p>
+<p>Attendait le moment de sa perte certaine.</p>
+<p>Embrassaient un autel arrosé de leurs pleurs.</p>
+<p>DELAFOSSE.</p>
+<p>Eh bien ! de votre père</p>
+<p>Troie en cendres n'a point assouvi la colère</p>
+<p>Mon sang Tons les délais sont ici superflus.</p>
+<p>DELAFOSSE.</p>
+<p>Andromaque, fille d'Eétion, roi de Thèbes, épouse d'Hector, avait caché
+son fils Astyanax dans le tombeau de ce héros. Ulysse l'en retira par
+adresse , et le fit précipiter du haut d'une tour. Pyrrhus emmena
+Andromaque en Epire et l'épousa.</p>
+<p>Hélène, qui était la cause de cette guerre y se cacha dans le temple de
+Minerve, et regagna les bonnes grâces de Ménélas, en lui li-</p>
+<p><pb/></p>
+<p>l88 HISTOIRE POÉTIQUE; 1</p>
+<p>vrant Déiphobe, fils de Priam, qu'elle avait épousé après la mort de
+Paris, tué par Pyrrhus dans un combat singulier.</p>
+<p>Les Grecs ayant réduit en cendres la ville de Troie, après en avoir
+massacré tous les habitans, partagèrent entre eux les dépouilles, et
+reprirent le chemin de leur patrie :</p>
+<p>Ce ne fut qu'après dix années D'épreuve et de travaux constans, Que ces
+glorieux combattans Triomphèrent des destinées, Et que loin des bords
+phrygiens, Ils emmenèrent enchaînées Les veuves des héros troyens.</p>
+<p>ROUSSEAU.</p>
+<p><pb/></p>
+<p>iHISTOIRE POÉTIQUE. 189</p>
+<p>Agamemnon, entrant dans son palais en vainqueur , fut assassiné par
+Egisthe, que Clytemnestre avait épousé pendant la guerre de Troie :</p>
+<p>LA GRANGE-CHANCEL.</p>
+<p>Errant et malheureux, De haïr une mère il eut le droit affreux ; Né pour
+souiller sa main du sang qui l'a fait naître, Tel fut le sort d'Oreste ,
+et son dessein peut-être.</p>
+<p>VOLTAIRE.</p>
+<p>Electre, fille d'Agamemnon, qui avait sauvé Oreste , traitée en esclave
+dans le palais de ses pères, traînait des jours malheureux : ■» 11.</p>
+<p><pb/></p>
+<p>îqO HISTOIRE POETIQUE.</p>
+<p>Esclave dans les lieux d'où le plus grand des rois A l'univers entier
+semblait donner des lois, Qu'a fait aux dieux cruels sa malheureuse
+fille? Quel crime contre Elec're arme enfin sa famille? Une mère en
+fureur la hait et la poursuit; Ou son frère n'est plus, ou le cruel la
+fuit. {</p>
+<p>CRÉEILLOI".</p>
+<p>C'est peu qu'en d'autres mains la perfide ait remis Le sceptre qu'après
+loi devait porter ton fils; Et que , dans mes malheurs , Kgislhe qui me
+brave , Sans respect, sans pitié , traite Electre en esclave.</p>
+<p>CRÉRILLOK.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. igi</p>
+<p>Quelle horreur me saisit? Grâce au ciel, j'entrevoi</p>
+<p>Dieux ! quels ruisseaux de sang coulent autour de moi!</p>
+<p>RACINE.</p>
+<p>J'appris que, pour venger le trépas de son père, Ayant trempé ses mains
+dans le sang de sa mère, Tourmenté, déchiré de ce crime odieux,-
+Également haï des hommes et des dieux, 11 en traînait partout l'idée
+épouvantable ; Et que , pour expier ce meurtre détestable, Avec un seul
+vaisseau , guidé par sa fureur, Au sein de vos États, au fond.de votre
+coeur Portant au sacrilège une main résolue, Il venait de Diane enlever
+la statue.</p>
+<p>LA GRAKGE-CHAKCEL. Oreste était le seul dont Thoas désirât la</p>
+<p><pb/></p>
+<p>ig3 HISTOIRE POÉTIQUE.</p>
+<p>LA GRANGE-CHANCEL.</p>
+<p>Oreste et Pylade tuèrent Thoas, pour le punir de ses cruautés ,
+enlevèrent la statue de Diane, et revinrent dans la Grèce avec
+Iphigénie. Tel fut le terme des malheurs qui affligèrent la famille
+d'Agamemnon.</p>
+<p>Idoménée, roi de Crète, fut assailli d'une horrible tempête en revenant
+du siège de Troie ; pour échapper au naufrage, il implora le secours de
+Neptune , et promitavec serment de lui immoler le premier de ses sujets
+qu'il rencontrerait dans son île :</p>
+<p>Sauve des malheureux si voisins du naufrage, Dieu puissant! m'écriai-je,
+et rends-nous au rivage. Le premier des sujets rencontré par son roi,</p>
+<p>A Neptune immolé satisfera pour moi</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. ig3</p>
+<p>Je me sentis glacer en revoyant ces bords.</p>
+<p>Je les trouvai doscrls ; tout avait fui l'orage.</p>
+<p>Un seul homme alarmé parcourait le rivage :</p>
+<p>Il semblait de ses pleurs mouiller quelques débris.</p>
+<p>J'en approche en tremblant.... hélas! c'était mon fils.</p>
+<p>A ce récit fatal, tu devines le .reste.</p>
+<p>Et mon malheureux fils eut le temps de voler</p>
+<p>Dans les bras du cruel qui devait l'immoler.</p>
+<p>CRÉEILLOIV.</p>
+<p>Ulysse erra pendant dix ans sur toutes les mers, et n'échappa aux
+dangers qu'il avait courus, que parla protection de Minerve, qui
+l'accompagnait partout :</p>
+<p>Minerve accorde son secours,</p>
+<p>Les Lcstrigons et le Cyclopc x</p>
+<p>Ont beau s'armer contre ses jours :</p>
+<p>Aidé de cette intelligence ,</p>
+<p>Il triomphe de la vengeance</p>
+<p>De Neptune en vain courrouce;</p>
+<p>Par elle il brave les caresses</p>
+<p>Des Syrèncs enchanteresses</p>
+<p>Et les breuvages de Circé.</p>
+<p>ROUSSEAU.</p>
+<p><pb/></p>
+<p>194 HISTOIRE POÉTIQUE.</p>
+<p>J'ai le Soleil pour père , Et je tiens de lui ce grand art Qui, dans
+tous les lieux qu'il éclaire, Aux honneurs de son rang me donne tant de
+part.</p>
+<p>TH. CORNEILLE.</p>
+<p><pb/></p>
+<p>HISTOIRE POÉTIQUE. Ig5</p>
+<p>Dans le sein de la mort ses noirs enchantemens</p>
+<p>ROUSSEAU,</p>
+<p>Ulysse fit naufrage , et aborda dans l'île de Calypso. Cette nymphe mit
+tout en usage pour le retenir, et lui promit de le rendre immortel :</p>
+<p>Pour fixer le volage Ulysse ,</p>
+<p>Jouet de Neptune irrité,</p>
+<p>En vain Calypso, plus propice,</p>
+<p>Lui promet l'immortalité :</p>
+<p>Peu touché d'une île charmante ,</p>
+<p>A Pluton, malgré son amante, s</p>
+<p>De ses jours il soumet le fil ;</p>
+<p>Aimant mieux dans sa cour déserte</p>
+<p>Descendre au tombeau de Laërte,</p>
+<p>Qu'être immortel dans un exil.</p>
+<p>GRESSET.</p>
+<p><pb/></p>
+<p>I06 HISTOIRE POÉTIQUE.</p>
+<p>Ulysse, après vingt ans d'absence, De disgrâces et de travaux , Dans le
+pays de sa naissance Vit finir le cours de ses maux.</p>
+<p>ROUSSEAU.</p>
+<p><pb/></p>
+<p>HISTOIRE POETIQUE. ' ig^</p>
+<p>Quelque fabuleuses ,que paraissent toutes les histoires répandues dans
+la Mythologie,</p>
+<p><pb/></p>
+<p>ig8 HISTOIRE POÉTIQUE.</p>
+<p><pb/></p>
+<p>HISTOIRE POETIQUE.</p>
+<p>'99</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>TABLE</p>
+<p>DES NOMS ET DES MATIÈRES</p>
+<p>TllOPRE A SERVIR DE IUCTIOSTErAIRE POÉTIQUE.</p>
+<p>Pages</p>
+<p>Abondance (corne d'). 25</p>
+<p>Absyrte, frère de Médée, mis en pièces par</p>
+<p>sa soeur. 154</p>
+<p>Abyla, une des colonnes d'Hercule. 135</p>
+<p>Achéloiis, fleuve vaincu par Hercule. 138</p>
+<p>Achéron, fleuve des enfers. 105-106</p>
+<p>Achille, fils de Thétis et de Pelée , est rendu</p>
+<p>invulnérable. ' 174</p>
+<p>Est élevé par le centaure Chiron. 89</p>
+<p>Préfère la gloire aux aimées. 175</p>
+<p>Est caché par sa mère et découvert par</p>
+<p>Ulysse. 176</p>
+<p>Se brouille avec Agamemnon. 183</p>
+<p>Tue Hector. 184</p>
+<p>Yeut épouser Polyxène, et périt par la main</p>
+<p>de Paris. ibid.</p>
+<p>Les Grecs lui élèvent un tombeau, sur lequel Polyxène est immolée. 187 A
+quel titre il était placé au rang des dieux. 7 Acrise, roi d'Argos ,
+père de Danaé. 31-128 Est tué par Persée. 130 Acléon, changé en cerf par
+Diane. 56</p>
+<p><pb/></p>
+<p>202 TABLE DES NOMS</p>
+<p>Pages</p>
+<p>Admète, roi de Thessalie , époux cl'Alceste.</p>
+<p>136-137 Ses troupeaux sont gardés par Apollon. 38-70 Adonis, chasseur. 72</p>
+<p>Adrastée, US. foy. jVémésis. /</p>
+<p>Aëllo, une des Harpies. . 92</p>
+<p>Aële, reçoit la Toison d'or. 152</p>
+<p>Elle lui est enlevée. 154</p>
+<p>Agamemnon, fils de Plistliène, petit-fils d'Atrée.</p>
+<p>d'Atrée.</p>
+<p>Époux de Clytemnestre. 149</p>
+<p>Quels étaient ses ancêtres. 170</p>
+<p>Est déclaré chef de l'armée des Grecs. ibid.</p>
+<p>Sacrifie sa fille Iphigénie. 182</p>
+<p>Se brouille avec Achille. ' 183</p>
+<p>Est assassiné par Egisthe et Clytemnestre. 189</p>
+<p>Sa mort est vengée par Oreste. 190</p>
+<p>Age d'or. 19-20-22-23-24</p>
+<p>Astrée en faisait le bonheur. 117</p>
+<p>Age d'argent. 20</p>
+<p>Age d'airain. 21</p>
+<p>Age de fer. ibid.</p>
+<p>Ages (les quatre). 19</p>
+<p>Age'nor; roi de Phénicic. 31</p>
+<p>Père de Cadmus et d'Europe. 160</p>
+<p>Aglaé, une des trois Grâces. 75 -</p>
+<p>Aigle de Jupiter. 34</p>
+<p>Ce dieu en prend la forme. 32</p>
+<p>Ailes du Temps. 18</p>
+<p>De Mercure. - 69-71</p>
+<p>De Cupidon. 75</p>
+<p>De Psyché. 76</p>
+<p>Ailes de Dédale et d'Icare. 144-198</p>
+<p>„-..^'</p>
+<p><pb/></p>
+<p>., ET DES MATIÈRES. 2o3</p>
+<p>Pages</p>
+<p>Air, père d'Écho. 124</p>
+<p>Ajax, fils d'Oïlée. _ 178</p>
+<p>^Ijax, fils de Télamon. ibid.</p>
+<p>Alcmènc, trompée par Jupiter. 33</p>
+<p>Épouse d'Amphitryon et mère d'Hercule.</p>
+<p>131-132 Alcyonc, fille d'Éole. 94</p>
+<p>Alcyons, oiseaux qui fontleur nid sur la mer. ibid. Aleclon, une des
+Furies. 103-104</p>
+<p>Alectryon, écuyer de'Mars. 8,5</p>
+<p>Alexandre , iils de Priam. 180. Voy. Paris. Alexandre, le Grand , roi de
+Macédoine. Le temple d'Éphèse est brûlé le jour même de sa naissance. C0</p>
+<p>Au sac de Thèbes, il épargne la maison de Pindare. 162</p>
+<p>Alexandrie; description du Phare , l'une des</p>
+<p>sept merveilles du monde. 62</p>
+<p>Aloïis; ses fils emprisonnent Mars. 85</p>
+<p>Alpliec, changé en fleuve par Diane. 57</p>
+<p>Allhéé, reine de Calydon, se rend odieuse à</p>
+<p>Diane. ibid.</p>
+<p>Fait périr Méléagre. 58</p>
+<p>Se tue elle-même. 59</p>
+<p>Amalthèe, nom de la chèvre qui allaita Jupiter. 25 Elle est placée au
+ciel. ibid. Au nombre des signes du zodiaque. 89</p>
+<p><pb/></p>
+<p>2o4 TABLÉ DES NOMS $</p>
+<p>Pages</p>
+<p>Amalthëe ; sa peau couvre l'égide de Pallas. 82</p>
+<p>Amathonle. ' 73 Amazones, femmes guerrières, vaincues par</p>
+<p>Hercule. 134-135</p>
+<p>Par Bellérophon. 151</p>
+<p>Par Thésée et Pirithoùs. 146</p>
+<p>Ambre, larmes des Héliades. 42</p>
+<p>Ambroisie, nourriture des dieux. 32</p>
+<p>Ammnn, nom que les Égyptiens donnent à</p>
+<p>Jupiter. 34</p>
+<p>Amour, fils de Yénus. 73-75. Voy. Cupidon.</p>
+<p>Amour fraternel. 148-149</p>
+<p>Amphion, fils de Jupiter et d'Antiope. 9-31</p>
+<p>Musicien célèbre. 161</p>
+<p>Amphitrile, mise au rang des dieux. 7</p>
+<p>Épouse de Neptune. 90</p>
+<p>Comment on la représente. 91</p>
+<p>Amphitryon , époux d'Alcmène. 33-131</p>
+<p>Anchisc, prince troyen. 72</p>
+<p>Pèred'Énée. 196</p>
+<p>Androgëe, fils de Minos. 143</p>
+<p>Andromaque, épouse d'Hector. 187</p>
+<p>Andromède, délivrée par Persée. 129</p>
+<p>Changée en constellation. 130</p>
+<p>Anlée, puni par Hercule. 135</p>
+<p>Anligone, fille d'OEdipe. 167</p>
+<p>Antiope, mère d'Amphion. 31-161</p>
+<p>Antre, habité par l'Envie. 120</p>
+<p>ParCacus. 135</p>
+<p>Apollon, fils de Jupiter et de Latone. 38</p>
+<p>Mis au rano- des dieux. 7</p>
+<p>Père d'Orphée. 158</p>
+<p>Dieu des bergers. 38</p>
+<p><pb/></p>
+<p>ET DES MATIERES. 20O</p>
+<p>* PaE.es</p>
+<p>Bâtit les murs de Troie. 39-90</p>
+<p>Se venge de Laomédon. 39</p>
+<p>Conduit le char du Soleil. ibid.</p>
+<p>la Musique et des Beaux-Arts. 42 Emblème de l'enthousiasme poétique. 9
+Dieu des poètes. 42 De la Poésie. 43 Des Oracles. 44 Chef et maître des
+Muses. 4 3 Rassemble en lui seul tous les talens. 48 Change la nymphe
+Castalie en fontaine. 43 Poursuit Daphné. 46 Punit le satyre Marsyas. 47
+Et le roi Midas. ibid. Fait vivre Nestor pendant trois âges d'homme. 174
+Est volé par Mercure. 70 Lieux fameux par ses oracles. 44-45 Ses
+temples. ibid. Pourquoi le laurier lui était-il consacré. 46 Comment
+est-il représenté. 39-42 Apothéose. 105 Arbres qui rendaient des
+oracles. 46 Arc de Cupidon. 75 Arc-en-ciel. 37-38 Arcadie. 123
+Arcadiens, honorent particulièrement le</p>
+<p>dieu Pan. ibid.</p>
+<p>Arcas, fils de Jupiter et de Calisto. 32</p>
+<p>12</p>
+<p><pb/></p>
+<p>206 * TABLE DES NOMS</p>
+<p>Pages'</p>
+<p>Are'thuse, nymphe changée en fontaine. 57</p>
+<p>Argo, nom du vaisseau que montaient les</p>
+<p>Argonautes. 152 Argonautes, troupe de héros qui firent la conquête de la
+Toison d'or. ibid. Célèbres dans l'histoire de la Fable. 7 Argos, ville
+de Grèce. , 149 Argus, surveillant de Jupiter. 35 Garde Io, ibid. Est
+endormi, tué par Mercure, et changé en paon. ibid. Ariane, fille de
+Minos. 143 Aricie, fille de Pallante. 141 Avion, musicien célèbre. 162
+Arrêt du Sort et du Destin. . 14-15-16 Des trois Juges des Enfers.
+107-108 Arle'mise , épouse de Mausole. 60 Ascagne, fils d'Ënée. 196
+Ascalaphe, fils de la Nuit et de l'Achéron.</p>
+<p>l'Achéron.</p>
+<p>Asope, père de Platée. 35</p>
+<p>Assaracus, princetroyen. 180</p>
+<p>Astrée, ou la Paix. 117</p>
+<p>Emblème de l'Age d'or. 9</p>
+<p>Déesse de la Paix. 117</p>
+<p>Sa balance est placée an ciel. 89</p>
+<p>Astres. 53</p>
+<p>Astronomie ; la déesse qui y préside. ibid.</p>
+<p>Astyanax, fils d'Hector. 187</p>
+<p>Alalanle, épouse de Méléagre. -58</p>
+<p>Acharnas, fils d'Éole. 152</p>
+<p>Époux d'Ino. 96-97</p>
+<p><pb/></p>
+<p>EX DES MATIERES. 20T</p>
+<p>Pases</p>
+<p>Objet de la haine de Junon. 97</p>
+<p>Possesseur du bélier qui portait la Toison</p>
+<p>d'or. 152</p>
+<p>Athènes; son origine et sa gloire. 81</p>
+<p>Athéniens, punis par Minos. 143</p>
+<p>Atlas, observait les astres. 198</p>
+<p>Est changé en rocher. 129</p>
+<p>Hercule soutient le ciel en sa place. 135</p>
+<p>Atrée, aïeul d'Agamemnon. 149-173</p>
+<p>Sa haine contre Thyeste. 171-172</p>
+<p>Alrnpos, une des trois Parques. 108</p>
+<p>Attributs des Muses. 49-50-51-52-53-54</p>
+<p>De Mourus. 115</p>
+<p>Augias, roi d'Élide. 134</p>
+<p>Aulide, ville de Béotie ; l'armée des Grecs</p>
+<p>s'y rassemble. 182</p>
+<p>Autel de Diane, en Tauride. 59</p>
+<p>Aviron, attribut du Temps. * 18</p>
+<p>Babylonc ; ses murs et ses jardins. 62</p>
+<p>Bacchanales, fêtes en l'honneur de Bacchus. 67</p>
+<p>Bacchantes, prêtresses de Bacchus. ibid.</p>
+<p>Elles mettent en pièces Orphée. 160</p>
+<p>Bacchus, Iils de Jupiter et de Sémëlé. 64</p>
+<p>Mis au î-ano des dieux. 7</p>
+<p>Sa naissance. 65</p>
+<p>Reste seul dans le ciel avec Jupiter. 27</p>
+<p>Ses conquêtes ; son courage pendant la</p>
+<p>guerre des géans. 65-66</p>
+<p><pb/></p>
+<p>2o8: TABLE DES NOMS</p>
+<p>Papes</p>
+<p>Penthée. 68</p>
+<p>Les sacrifices cju'on lui faisait. 67</p>
+<p>Ses fêtes étaient célèbres. ibid.</p>
+<p>Comment on le représente. 66</p>
+<p>Baguette de Mercure. 71</p>
+<p>Balance de Thémis. . 116</p>
+<p>Signe du zodiaque. 89</p>
+<p>Banaeau de Thémis. 116</p>
+<p>De Cupidon. 75</p>
+<p>Barque de Caron. 104</p>
+<p>Battus, changé en pierre de touche. 70-71</p>
+<p>Beauté; déesse qui y préside. . 72 Bel. 102. Foy. Bélus.</p>
+<p>Bélides, nom donné aux Danaïdes. 102 Bélier, sous la forme duquel les
+Égyptiens</p>
+<p>adoraient Jupiter. 3 4</p>
+<p>Qui portait la Toison d'or. 152</p>
+<p>Signe du zodiaque. 88 Bellérophon, combat la Chimère. 150-151</p>
+<p>Triomphe des Amazones et des Solymes ;</p>
+<p>épouse Philoné. 151</p>
+<p>Bellone, déesse de la Guerre. 82</p>
+<p>Emblème du courage. 9</p>
+<p>Comment on la représente. 82</p>
+<p>Bélus, empereur des Assyriens. 5</p>
+<p>Roi de Tyr, père de Didon. 197</p>
+<p>Père de Danaùs. .102</p>
+<p>Bergers, chargés d'élever Neptune. 90</p>
+<p>Pourquoi Apollon est leur dieu. 38</p>
+<p>Biche aux pieds d'airain. 133</p>
+<p><pb/></p>
+<p>ET DES MATIERES. , 20g</p>
+<p>Pages</p>
+<p>Bident, sceptre de Pluton. 100</p>
+<p>Boite de Pandore. 29-30</p>
+<p>Bootès, constellation. . 32</p>
+<p>Bouclier de Minerve, sa vertu. 130</p>
+<p>DePallas. 82</p>
+<p>Brennus, sa défaite. 122</p>
+<p>Briarée, l'un des Titans. 26</p>
+<p>Brisëis, captive d'Achille. 183</p>
+<p>Brisés, prêtre de Jupiter. ibid.</p>
+<p>Brodequins. 51</p>
+<p>Bûcher d'Hercule. 139</p>
+<p>D'Étéocle et de Polynice. 169</p>
+<p>Bus iris, roi d'Egypte, puni par Hercule. 134</p>
+<p>Cacus, tué par Hercule. 135</p>
+<p>Cadmus , père d'Ino. 96</p>
+<p>Frère d'Europe. 31</p>
+<p>Cherche sa soeur Europe, bâtit la ville de Thèbes, délivre Hermione.
+160-161</p>
+<p>Et l'épouse. 161</p>
+<p>Cadmus, père de Sémélé. 64</p>
+<p>A quel titre il était placé parmi les dieux. 7</p>
+<p>Caducée, son origine. 71'</p>
+<p>Son usage. ibid.</p>
+<p>Calchas, fameux devin. 182</p>
+<p>Calisto, mère d'Arcas. 172</p>
+<p>Nymphe de Diane. 32</p>
+<p>Sa métamorphose. , 32-172</p>
+<p>Calliope, une des neuf Muses. 47-49</p>
+<p>Gomment on la représente. 49</p>
+<p>Calomnie, honorée comme une divinité. 7</p>
+<p>12. -</p>
+<p><pb/></p>
+<p>210 TABLE DES NOMS</p>
+<p>Pages</p>
+<p>Calpé, une des colonnes d'Hercule. 136</p>
+<p>Calydon. 57-59-138</p>
+<p>Calypso, nymphe. 195</p>
+<p>Capharëe, promontoire. 188</p>
+<p>Capricorne, signe du zodiaque. 89</p>
+<p>Caron; son emploi aux Enfers. 104</p>
+<p>Il reçoit dans sa barque Hercule vivant. 137</p>
+<p>Et Orphée. _ 158</p>
+<p>Carthage , bâtie par Didon. 197</p>
+<p>Cassiope, punie par Junori. 129</p>
+<p>Changée par Jupiter en constellation. 130</p>
+<p>Castalie, nymphe changée en fontaine. 43</p>
+<p>Castor, fils de Tyndare et de Léda. 31-148</p>
+<p>Reprend sa soeur Hélène. 146</p>
+<p>Est changé en astre. 150</p>
+<p>Mis au nombre des signes du zodiaque. 89</p>
+<p>Placé au ciel avec son frère. 150</p>
+<p>Dont il partage l'immortalité. 149</p>
+<p>A quel titre il est au rang des dieux. 7</p>
+<p>Caucase, mont célèbre, sur lequel Prométhée</p>
+<p>fut enchaîné. 29 .</p>
+<p>Cécrops, fondateur d'Athènes. 81</p>
+<p>Ceinture deYénus. 73</p>
+<p>Célc'no, une des Harpies. 92</p>
+<p>Centaure Chiron. 38</p>
+<p>Un des signes du zodiaque. 89</p>
+<p>Centaure Nessus. 138-139</p>
+<p>Centaures, défaits par Thésée. 145</p>
+<p>Céphée, roi d'Egypte, père d'Andromède. 129</p>
+<p>Céphise, père de Narcisse. 125</p>
+<p>Gardien des Enfers. 106</p>
+<p>Dévore Pirithoùs. 146</p>
+<p><pb/></p>
+<p>ET DES MATIERES. 211</p>
+<p>PaSes</p>
+<p>Est enchaîné par Hercule. 106</p>
+<p>Cercyon , fameux brigand. ' 142</p>
+<p>Cérès, fille de Saturne et de Cybèle. 112</p>
+<p>Mère de Plutus. 111</p>
+<p>Perd sa fille Proserpine. . 113 La cherche par toute la terre, et la trouve</p>
+<p>aux enfers. ' 99-113</p>
+<p>Comment on la représente. 113</p>
+<p>Ceyx , époux d'Alcyone. 94 Champs-Elysées. 110. Voy. Elysée.</p>
+<p>Chaos, ce qu'il était. 13</p>
+<p>Les poètes le font père du Destin. 14 Les poètes font naître Érèbe du
+Chaos et</p>
+<p>de la Nuit. 106</p>
+<p>Char du Soleil. 39-41 Charybde, punie par Hercule et changée en</p>
+<p>monstre. . 96</p>
+<p>Gouffre voisin de Sicile. 95</p>
+<p>Ulysse l'évite. 194</p>
+<p>Chaste Diane. 56</p>
+<p>Chastes Soeurs, Filles de Mémoire, noms</p>
+<p>que l'on donne aux Muses. 4 8</p>
+<p>Chersonèse Taurique. *'" 182</p>
+<p>Cheval de bois. , 186</p>
+<p>Chevaux du char du Soleil. 39</p>
+<p>Chevaux marins. 91</p>
+<p>Cheveu d'or de Ptérélaus. 131</p>
+<p>Chèvre Amalthée. 25</p>
+<p>Un dés signes du zodiaque. 89</p>
+<p>Cliironle centaure. 38</p>
+<p><pb/></p>
+<p>212 TABLE DES NOMS</p>
+<p>Pages</p>
+<p>Nourrit Achille. 89-175</p>
+<p>Un des signes du zodiaque. 89</p>
+<p>Chloris, mère de Nestor. 173</p>
+<p>Ciel, confondu dans le chaos. 13</p>
+<p>Le père et le plus ancien des dieux. 16</p>
+<p>Leur assigne des places. 17-87-88</p>
+<p>Ciel ; il est appelé l'Olympe. 34</p>
+<p>On y place les dieux du premier ordre. 6</p>
+<p>Ciel céleste poétique. 86</p>
+<p>Circé, fameuse magicienne, change Scylla en</p>
+<p>monstre. 96</p>
+<p>Ulysse évite ses enchantemens. 194-195</p>
+<p>Ciseaux des Parques. 108</p>
+<p>Claros, ville d'Ionie. 44</p>
+<p>Climène, mère de Phaéton. 40-41</p>
+<p>Mère d'Atlas. 129</p>
+<p>Mère de Prométhée. 28</p>
+<p>Clio, une des neuf Muses. 47-53</p>
+<p>Mère d'Orphée. 158</p>
+<p>Comment on la représente. 53</p>
+<p>Clotho , une des trois Parques. 108-109</p>
+<p>Clytemnestre, fille deLéda. 31-148</p>
+<p>Épouse d'Agamemnon, qu'elle assassine.</p>
+<p>149-189 Cocyle, fleuve des enfers. 105</p>
+<p>Colchide. 88</p>
+<p>Colonnes d'Hercule. 136</p>
+<p>Colosse de Rhodes, une des sept merveilles</p>
+<p>du monde. 60</p>
+<p>Combat singulier d'Étéocle et de Polynice. 168 Combats; la déesse qui y
+préside. 82</p>
+<p><pb/></p>
+<p>ET DES MATIÈRES. * 2l3</p>
+<p>Pages</p>
+<p>Comédie ; la déesse qui y préside. 51</p>
+<p>Comèlhe, fille de Ptérélaiis. 131</p>
+<p>Commerce, le dieu qui y préside. 70</p>
+<p>Cornus, dieu des festins. 114</p>
+<p>Conque marine, trompette des Tritons. 91</p>
+<p>Constellations. 25-88-89-130</p>
+<p>Corne d'abondance. 25</p>
+<p>Corybantes. ibid.</p>
+<p>Cothurne. 50</p>
+<p>Couleuvres des Furies. 104</p>
+<p>Coupe d'Atrée. 171-172</p>
+<p>Couronne de laurier. 42</p>
+<p>Récompense des poètes. 46</p>
+<p>Créon, roi de Corinthe. 156</p>
+<p>Crète, île célèbre ; Jupiter y est élevé. 25</p>
+<p>Elle est ravagée par la peste. . 193</p>
+<p>Creuse, épouse de Jason. 156</p>
+<p>Croissant de Diane. 56</p>
+<p>Cupidon. 73-74</p>
+<p>Fils de Vénus et de Mars. 75</p>
+<p>Description de son temple. 77</p>
+<p>Son caractère. 76</p>
+<p>Comment on le représente. 75</p>
+<p>Culte qu'on lui rend. 76</p>
+<p>Cyané, nymphe changée en ruisseau. 99</p>
+<p>Cybèle. 23-24</p>
+<p>Mise au rang des dieux. 7</p>
+<p>Sauve Jupiter. 18</p>
+<p>Et Neptune. 90</p>
+<p>Elle est distinguée de Cérès. 113</p>
+<p>Comment on la représente. 23</p>
+<p>Cyclop es, forgerons de Vulcain. 7 8</p>
+<p><pb/></p>
+<p>2l4 3 TABLE DES NOMS</p>
+<p>Pages</p>
+<p>Tués par Apollon. 38</p>
+<p>Cygne ; Jupiter en prend la forme. 31</p>
+<p>Cygnus , ami de Phaéton. 42</p>
+<p>Cyrianesse, punie par Junon. 36</p>
+<p>Cyrrha, ville de laPhocide. 44</p>
+<p>Cylhéron, mont célèbre. 71-163</p>
+<p>Danaé. 31 Bière de Persée. 128 Danaïdes, filles de Danaùs. 159 Leur
+supplice aux enfers. 101-102 Danaùs, roi d'Argos. 102 Danse ; la déesse
+qui y préside. 54 Daphné; sa métamorphose. 46 Dardanus, fondateur de
+Troie. 179 Dauphin, attiré par les sons de la lyre d'Arion. 162 Dédale.
+143-144 Avait trouvé le moyen de faire aller les</p>
+<p>Déesse de mémoire. 47-54</p>
+<p>Aux cent voix. 117</p>
+<p>Des beaux-arts. 79</p>
+<p>Des combats. 82</p>
+<p>Des chasseurs. 55</p>
+<p>De la vengeance. 118</p>
+<p>Déesses des eaux. 92</p>
+<p>Des forêts. ibid. Du sacré vallon, nom donné aux Muses. 48</p>
+<p><pb/></p>
+<p>ET DES MATIERES. *' 2l5</p>
+<p>Pages</p>
+<p><pb/></p>
+<p>2l6 * TABLE DES NOMS</p>
+<p>Pages</p>
+<p>Tue le géant Tithius. 101</p>
+<p>Transporte Hippolyte en Italie. 148</p>
+<p>Et Iphigénie dans la Chersonèse Taurique. 182</p>
+<p>Sa statue est enlevée par Oreste et Pylade. 192</p>
+<p>Comment elle est représentée. 55-56</p>
+<p>Didon, reine de Cartilage. 197</p>
+<p>Qui préside aux mines d'or et d'argent. 111</p>
+<p>Dieux du premier ordre. 6-13</p>
+<p>Du second ordre. 6-112</p>
+<p>Le rang qu'ils tenaient sur la terre, dans</p>
+<p>la mer et aux enfers. 7</p>
+<p>Leur nombre, la différence mise entre eux.</p>
+<p>6-7-87-88</p>
+<p>Ils quittent le ciel. 26</p>
+<p>Habitent la terre. 22-27</p>
+<p>Sont indignés contre Jupiter. 29</p>
+<p>Se partagent en faveur des Grecs et des</p>
+<p>Troyens. 179</p>
+<p>Dieux domestiques. &gt; 125</p>
+<p>Dieux Termes. 126</p>
+<p>Dinias, père d'Hécube. 180</p>
+<p>Diomède, roi de Thrace. 134</p>
+<p>Diomède, se distingue au siège de Troie. 174</p>
+<p>Blesse le dieu Mars. 86</p>
+<p>Enlève le Palladium. 83-185</p>
+<p>Dioné, nymphe qu'on dit être la mère de</p>
+<p>Vénus. 72</p>
+<p>Discorde, honorée comme une divinité. 7</p>
+<p>Son caractère etson portrait. 121-122</p>
+<p>Elle régnait sur le chaos. 13</p>
+<p><pb/></p>
+<p>.ET DES MATIERES. i 2I7.</p>
+<p>Pages</p>
+<p>belle. , , 74</p>
+<p>Divinités eélestes. 13</p>
+<p>Ten*estres. 112</p>
+<p>Maritimes. 90-93-98</p>
+<p>Infernales. 98</p>
+<p>Champêtres. 121</p>
+<p>Allégoriques. 14-18-112-121</p>
+<p>Doctes Fées, doctes Soeurs, noms donnés</p>
+<p>aux Muses. 48</p>
+<p>Dodone, forêt célèbre, dont les arbres rendaient des oracles. 46 Drios,
+épouse de l'Océan et mère d'Amphiç</p>
+<p>trite. 90</p>
+<p>Doris, fille de l'Océan, épouse de Nérée et</p>
+<p>mère des Nymphes. 92</p>
+<p>Qui dévore les compagnons de Cadmus. 161</p>
+<p>Dryades, nymphes des campagnes. 92-124</p>
+<p>Eaque, l'un des trois Juges aux enfers. 107</p>
+<p>Echanson de Jupiter. 32</p>
+<p>Échecs (jeu d'). 178 Echo, nymphe. 10-124</p>
+<p>Êcrevisse, l'un des signes du zodiaque. 89</p>
+<p>Ecuries d'Augias. 134</p>
+<p>Eéuon, père d'Andromaque. 187</p>
+<p>Egée, roi d'Athènes, père de Thésée. 140</p>
+<p>Se précipite dans la nier. 145</p>
+<p>Egée (la mer). 44</p>
+<p>Égêon , un des Titans. 26</p>
+<p>Egide , bouclier de Pallas. 82</p>
+<p>■••&gt; La tête de Méduse y est attachée. ibid.</p>
+<p>i3</p>
+<p><pb/></p>
+<p>àï8 TABLE DES NOMS</p>
+<p>' »v &gt; Pajges</p>
+<p>Egirie, mère d'Eaque. " i'07</p>
+<p>Égire, mère de Rhadamante. 108</p>
+<p>Egisthe, épouse Clytemnestre. 149-189</p>
+<p>Assassine Agamemnon. ibid.</p>
+<p>En est puni. 149-190</p>
+<p>Egypte, sert de retraite aux Dieux. 27</p>
+<p>Ses pyramides. 63</p>
+<p>Egyptus , oncle des Danaïdes. 102</p>
+<p>Electre, mère de Dardanus. 179</p>
+<p>Fille d'Agamemnon. 149-173</p>
+<p>Ses malheurs. 190</p>
+<p>Electrion, père d'Alcmène. 130</p>
+<p>Elémen's, confondus dans le chaos. 13</p>
+<p>Eloquence; le dieu qui y préside. 70</p>
+<p>La déesse qui y préside. 49 Elysée, séjour des hommes vertueux après</p>
+<p>leur mort. il0-111</p>
+<p>Il est soùs l'empiré de Plutoii. 100</p>
+<p>Empire dePluton. ibid.</p>
+<p>Enceladc, un des Titans. 26</p>
+<p>De Circé. 194-195</p>
+<p>Endymion. 56</p>
+<p>Énée, fils de Vénus. 73</p>
+<p>Sa piété envers l'es dieux. 126</p>
+<p>Perd ses vaisseaux. 10</p>
+<p>enltalie. 196-197</p>
+<p>Enéide, poème de Virgile. 50</p>
+<p>Enfers. ' 98</p>
+<p>Quels dieux y tiennent le premier rang. 7</p>
+<p>Énigme proposée jffer lé Sphinx. 164</p>
+<p><pb/></p>
+<p>ET DES MATIERES. 2ig</p>
+<p>Pages</p>
+<p>avec Phaéton. 40 Épée de Thémis. 116 Ephèse, célèbre par le temple de
+Diane. 59 Description de ce temple. ibid. Éphialtes, géant célèbre, fils
+d'Aloeiis. 26 Épidaure (le géant d'), ville du Péloponnèse. 142 Epire.
+46 Epimêthée, frère de Prométhée. 29 Erato , une des neuf Muses.
+47-48-52 Comment on la représente. 52 Ércbe, fils du Chaos et de la
+Nuit. 106 Père de Caron , 104 EtdeMorphée. 115 Ce qu'il est en effet.
+106-109 Ereclhée, oncle des Pallantides. 140-141 Erichlhonius , roi de
+Troie. 180 Eridan, fleuve d'Italie. 41 Érigone, fille d'Icarius. 89</p>
+<p><pb/></p>
+<p>220 TABLE DES NOMS</p>
+<p>Pages</p>
+<p>Erymanthe, mont célèbre. 133</p>
+<p>Erope, épouse d'Atrée. 171</p>
+<p>Erostrate, brûle le temple d'Éphèse. 69-60</p>
+<p>Esculape, fils d'Apollon. 38</p>
+<p>Apprend la médecine du centaure Chiron. ibid.</p>
+<p>Est foudroyé par Jupiter. 38</p>
+<p>Eso/i, rajeuni par Médée. 154-155</p>
+<p>Espérance, restée dans la boîte de Pandore. 30</p>
+<p>Étéocle , fils d'OEdipe. 167</p>
+<p>Lui fait la guerre et périt. 168</p>
+<p>Ethon, un des chevaux du Soleil. 39</p>
+<p>Etna, montagne qui vomit des tourbillons de</p>
+<p>feu. 27</p>
+<p>Vulcain y établit ses forges. 78</p>
+<p>Cérès y place deux flambeaux. 113 Etoiles; leurs noms sont, pour la
+plupart,</p>
+<p>empruntés de la Fable. 86</p>
+<p>Elolie, délivrée par Thésée. 142</p>
+<p>Euménides. 103-109. y~oy. Furies.</p>
+<p>Euphrosine, une des trois Grâces. 75</p>
+<p>Eurydice, épouse d'Orphée. 159-160</p>
+<p>Europe, enlevée par Jupiter. 3 I</p>
+<p>Mère de Minos et de Rhadamante. 107-108</p>
+<p>Une des quatre parties du monde. 31</p>
+<p>Euroias, fleuve célèbre. 39</p>
+<p>Euripide, poète grec. 169</p>
+<p>Euryalc, une des trois Gorgones. 128</p>
+<p>Eurysthée, frère d'Hercule. 131</p>
+<p>En exige douze travaux. 132</p>
+<p>Ewyte, un des Titans. 26</p>
+<p>Euterpe, une des neuf Muses. 47-48-52</p>
+<p><pb/></p>
+<p>ET DES MATIERES. 22 r</p>
+<p>Pa,!..»</p>
+<p>Comment on la représente. 52</p>
+<p>Èyène, fleuve. 138</p>
+<p>Evocations. 109</p>
+<p>Fable., son origine. 5</p>
+<p>Etendue et perfectionnée par les poètes. 8</p>
+<p>Elle seule embellit la poésie., 10-11</p>
+<p>Elle lui donne des grâces. ibid.</p>
+<p>L'usage que l'on en doit faire. 11-12</p>
+<p>C'est d'elle qu'on a emprunté les noms de</p>
+<p>la plupart des étoiles. 86</p>
+<p>Elle conduit jusqu'aux époques fixes de</p>
+<p>l'histoire. 197</p>
+<p>Utilité qu'elle procure. , 198-199</p>
+<p>Faune, dieu des bois. 123</p>
+<p>Comment on le représente. ibid.</p>
+<p>Faunes, divinités champêtres. 123-124</p>
+<p>Faux, attribut du Temps. 18</p>
+<p>Favoris des Muses, nom donné aux poètes. 49</p>
+<p>Festins, le dieu qui y préside. 114</p>
+<p>Fêtes de Bacchus. 67</p>
+<p>Fidélité, honorée comme une divinité. 7</p>
+<p>Fil d'Ariane. 143</p>
+<p>Filles de l J4chéron,nom donné aux Parques. 58</p>
+<p>Filles de Mémoire, nom donné aux Muses. 48</p>
+<p>Firmament, demeure des dieux. 17-87</p>
+<p>Flambeau de la Discorde. 121</p>
+<p>Flèches de Cupidon. 75</p>
+<p>D'Hercule. 139</p>
+<p>Fleuve d'oubli. 106</p>
+<p>Fleuves des Enfers. 100-105-106</p>
+<p>Floraux, jeux en l'honneur de Flore. 113</p>
+<p><pb/></p>
+<p>222 TABLE DES NOMS</p>
+<p>Pagea</p>
+<p>Flore, déesse des fleurs. 1 f 8.</p>
+<p>Le rang qu'elle tenait sur la terre. 7</p>
+<p>Comment on la représente. 113</p>
+<p>Flotte des Grecs, composée de douze cent</p>
+<p>quatre-vingt-dix voiles. 181</p>
+<p>Flûte, inventée parle dieu Pan. 122</p>
+<p>De Pan. 11</p>
+<p>D'Euterpe. • 48-52</p>
+<p>Forges de Vulcain. 78</p>
+<p>Fortune (la). 118</p>
+<p>Foudre (la) de Jupiter. 34</p>
+<p>Fourmis changées en hommes. 107</p>
+<p>.Fraude (la), honorée comme une divinité. 7</p>
+<p>Fureur (la), honorée comme une divinité. ibid. Fureurs d'Oreste. 190-191</p>
+<p>Furies, leur emploi aux enfers. 103</p>
+<p>Fuseau des Parques. 108-109</p>
+<p>Ganymède, fils de Tros. 180 Enlevé par Jupiter. 32-179 Un des signes du
+zodiaque. 89 Gaulois, veulent piller le temple de Delphes. 122 Géans ,
+fils de Titan et de la Terre. 25</p>
+<p>Voy. Titans et Cyclopes.</p>
+<p>Géant d'Épidaure. 142</p>
+<p>Gémeaux. 150</p>
+<p>Signe du zodiaque. 89</p>
+<p>Génie, divinité. 126</p>
+<p>Génies blancs et noirs. 126-127</p>
+<p>Géryon , roi d'Espagne. 134 Gibraltar, détroit qui joint la Méditerranée</p>
+<p><pb/></p>
+<p>ET DES MATIERES,. 22Î</p>
+<p>Pages</p>
+<p>Gtlaucus, roi de Corinthe, père de Bellérophon. '•* 150 Pêcheur, changé
+eu dieu marin. 93</p>
+<p>Gnide, temple célèbre. 73.</p>
+<p>Gorgone, emblème des remords que cause</p>
+<p>le crime. " 9</p>
+<p>Méduse. 43,</p>
+<p>Gorgones. IPj}</p>
+<p>Combattues par Persée. 128 Leurs noms. ibid.</p>
+<p>Grâces, filles de Vénus. 73,</p>
+<p>Leurs noms. 75</p>
+<p>Elles sont l'emblème des qualités aimables, 9</p>
+<p>Et invoquées par les poètes. 75</p>
+<p>entre les dieux. 6</p>
+<p>Quelle était leur ambition. 81 Surprennent la ville de Troie, s'en rendent</p>
+<p>les maîtres, etc. 185-186</p>
+<p>En partagent les dépouilles. 188 Quels étaient leurs chefs pendant cette</p>
+<p>guerre. 178</p>
+<p>Guerre (la), honorée comme une divinité. 7</p>
+<p>Son portrait. 21</p>
+<p>Guerre de Troie. 169</p>
+<p>Célèbre dans l'histoire de la Fable. 7</p>
+<p>Ses causes. 179</p>
+<p>Ses succès. 188 Ses suites. 188-189</p>
+<p><pb/></p>
+<p>224 TABLE DES NOMS</p>
+<p>Page»..</p>
+<p>Maine d'Atrée et de Thyeste. 171-1 Ti" '</p>
+<p>Ses effets dans Ëtéocle et Polynice. 167-168-169 Hamadryades, nymphes
+des forêts. 92</p>
+<p>Harmonie ; on lui attribue l'ordre qui règne</p>
+<p>dans l'univers. - 13</p>
+<p>Harpies, filles de Neptune et d'Amphitrite. 91</p>
+<p>Hxrpocrate , nom donné au Silence. 116</p>
+<p>Héb-1, déesse de la jeunesse. 32-34-179</p>
+<p>Remplacée par Ganymède. 89</p>
+<p>- Épouse Hercule. 140</p>
+<p>Hécate (triple). Son pouvoir aux enfers. 55</p>
+<p>Hector, prince troyen. 178-180</p>
+<p>Reconnaît Paris. 181</p>
+<p>Ses exploits pendant le siège de Troie.</p>
+<p>178-179-183-184</p>
+<p>Sa mort et ses funérailles. 184</p>
+<p>Homère a célébré sa gloire. 8</p>
+<p>Hécube, épouse de Priam. 180</p>
+<p>Hélène, fille de Jupiter et de Léda. 31-148</p>
+<p>Enlevée par Thésée et Pirithoùs, 146</p>
+<p>Par Paris. 179</p>
+<p>Se réconcilie avec Ménélas. 187</p>
+<p>Sa mort. 149</p>
+<p>Hélénus, fils de Priam. 180</p>
+<p>Héliades, soeurs de Phaéton. 42</p>
+<p>Hêlicon. 43</p>
+<p>H elle. 88</p>
+<p>Hellespont; origine de ce nom. ibid.</p>
+<p>Hercule, fils de Jupiter et d'Alcmène. 130</p>
+<p>Sa brillante destinée. ' 131</p>
+<p>' Est élevé par le centaure Chiron. 89</p>
+<p>Persécuté par Junon. 36-89</p>
+<p><pb/></p>
+<p>ET DES MATIÈRES. 225</p>
+<p>;" On l'appelle Alcide. 135</p>
+<p>Délivre Prométhée , 29-135</p>
+<p>Hésione. 136</p>
+<p>Descend aux enfers, et en retire Alceste.</p>
+<p>107-137</p>
+<p>Enchaîne Cerbère et s'en fait suivre. 106-137</p>
+<p>Punit Charybde, 96</p>
+<p>Antée, 135</p>
+<p>Laomédon, 136</p>
+<p>Le centaure Nessus. 139</p>
+<p>Massacre la famille de Nélée. 174</p>
+<p>Laisse amollir son courage ; file aux pieds</p>
+<p>d'Omphale; épouse Déjanire. 138</p>
+<p>Samort etsonapothéose. 139-140</p>
+<p>Est mis au rang des dieux. 6</p>
+<p>A quel titre. 7</p>
+<p>Hcrmione,mère d'fno. 96</p>
+<p>LJélivrée par Cadmus, 161</p>
+<p>Qu'elle épouse. ibid.</p>
+<p>Héros célèbres dans l'histoire de la Fable. 7</p>
+<p>Mis au rang des demi-dieux. 128</p>
+<p>Hésione, tante de Paris. 179</p>
+<p>Délivrée par Hercule, -, 136</p>
+<p>Et emmenée dans la Grèce. 1S0</p>
+<p>Reprise par Paris. 179</p>
+<p>Ilespéridcs. 135</p>
+<p>Heures ; elles nourrissent Vénus. 72</p>
+<p>Ilippocrène. 43</p>
+<p>Hippodamie, épouse de Pélops, mère d'Atrée</p>
+<p>d'Atrée de Thyeste. 170-171</p>
+<p>Épouse de Pirithoùs. 145</p>
+<p>i3.</p>
+<p><pb/></p>
+<p>22Ô TABLE DES NOMS '</p>
+<p>Page» ;</p>
+<p>Hippolyte, reine des Amazones. 146</p>
+<p>Fils de Thésée, calomnié par Phèdre. 147</p>
+<p>Punimalgréson innocence. 147-148</p>
+<p>Sauvé par Diane. 148</p>
+<p>Hirondelle. Voy. Progné. 173</p>
+<p>Histoire, déesse qui y préside. 53</p>
+<p>En quel sens on peut l'appeler le Père des</p>
+<p>dieux. 8</p>
+<p>Ses poèmes. ' 50</p>
+<p>Lune. 5</p>
+<p>Aux rois et aux héros. 6-7</p>
+<p>Aux vertus et aux vices. 7</p>
+<p>Hyacinthe, tué par Apollon, et métamorphosé en fleur. 39 Hydre de Lerne.
+. 89-1 Si? Hymen, fils de Vénus. 7â Hypermncslre, l'une des Danaïdes, sauve</p>
+<p><pb/></p>
+<p>ET DES MATIERES. 227</p>
+<p>Pages</p>
+<p>Iliade, poème d'Homère. 60</p>
+<p>Ilion, nom de la ville de Troie. 86-180</p>
+<p>Voy. Troie.</p>
+<p>Ilus , roi de Troie. 180</p>
+<p>Inachu.s, père d'Io. 35</p>
+<p>Indes, conquises par Bacchus. 65</p>
+<p>Ino, fille de Cadmus, mère de Mélicerte. 96</p>
+<p>Élève Bacchus dont elle était la tante"! 65</p>
+<p>Trompé Thémisto. 97</p>
+<p>Se précipite dans la mer. ibid. Est mise au rang des divinités
+maritimes. 93-97</p>
+<p>lo, fille d'Inachus, gardée par Argus. 35</p>
+<p>lobâtes, roi de Lycie , père de Pbiloné. 151</p>
+<p>lolchos, capitale de la Thessalie. 88-157</p>
+<p>lole; Hercule veut l'épouser. 139</p>
+<p>Ionie. 44-59 Iphigénie, fille d'Agamemnon et de Clytemnestre. 149-173</p>
+<p>Reconnaît son frère Oreste, 192</p>
+<p>Et revient dans la Grèce. ibid.</p>
+<p>Ipponoé, punie par Junon. 36</p>
+<p>Iris, messagère de Junon. 37</p>
+<p>Est métamorphosée en arc-en-ciel. 38</p>
+<p>Ismène, fille d'Oildipe. 167</p>
+<p>Italie, retraite de Saturne. 19</p>
+<p>Et d'Énée. 197 Ithaque, patrie d'Ulysse. 177-196</p>
+<p>Ithys, filsdeTérée. 173</p>
+<p>liile, fils d'Énée. 196</p>
+<p>Ixion, ses crimes et son supplice. 101</p>
+<p><pb/></p>
+<p>228 TABLE DES NOMS</p>
+<p>Pages</p>
+<p>Janus, roi d'Italie, mis au rang des dieux. 19</p>
+<p>Japet, père de Prométhée. 28</p>
+<p>Jardins de Babylone. 62</p>
+<p>Des Hespérides. 128</p>
+<p>Hercule en enlève les pommes d'or. 135</p>
+<p>Dieu qui y préside. 114</p>
+<p>Jasion, père de Plutus. 111 Jason entreprend la conquête de la Toison</p>
+<p><pb/></p>
+<p>ET DES MATIERES. 22g</p>
+<p>Pages</p>
+<p>Présidait aux mariages et aux accouchemens.</p>
+<p>accouchemens.</p>
+<p>Dispute le prix de la beauté. 74</p>
+<p>Emprunte la ceinture de Vénus. 73</p>
+<p>Effets de sa jalousie. 35</p>
+<p>De sa haine. 97-131-138</p>
+<p>De sa vengeance. 64-65-129</p>
+<p>Sa colère cause la guerre de Troie. 179</p>
+<p>Comment on la représente. 37</p>
+<p>Jupiter, mis au rang des Dieux. 6-7</p>
+<p>Sauvé par Cy bêle. 18</p>
+<p>Défait les Titans. ibid.</p>
+<p>Les foudroie. 27</p>
+<p>Remet son père sur le trône. 25</p>
+<p>Épouse Junon , et partage l'empire du</p>
+<p>monde avec ses frères. ibid.</p>
+<p>Crée des hommes. - 28</p>
+<p>Et leur envoie la sagesse. 80-81</p>
+<p>Se rend maître du tonnerre. * 27</p>
+<p>En est surnommé l'arbitre. 8</p>
+<p>Trompe Danaé, 128</p>
+<p>Alcmène. 131</p>
+<p>Surprend Léda. 148</p>
+<p>Jupiter; ses différentes métamorphoses. 3031-32-33-131</p>
+<p>Refuse déjuger les trois .déesses qui sedisputaient</p>
+<p>sedisputaient prix de la beauté. 74</p>
+<p>A Pélops. 170</p>
+<p>Change Lycaon en loup, et Arcas en ours. 172</p>
+<p><pb/></p>
+<p>23 0 TABLE DES NOMS</p>
+<p>Pages ■</p>
+<p>Foudroie Phaéton. 41</p>
+<p>Précipite Vulcain du haut du ciel, 78 Sous quelle idée les poètes le
+représentent.</p>
+<p>33. Noms qu'on lui donne. 24-34</p>
+<p>La forêt de Dodone lui était consacrée. 46</p>
+<p>Il est l'emblème du tonnerre. 10 Est au D ombre des Planètes. 86-87</p>
+<p>Comment on le représente. 34 Jupiter Indigète*, nom sous lequel Énée était</p>
+<p>des sept merveilles du monde. 61</p>
+<p>Justice, honorée comme une divinité. 7 Sa balance est changée en
+constellation , et mise au nombre des signes du</p>
+<p>Zodiaque. 89</p>
+<p>Labyrin thede Crè te. 143</p>
+<p>Lachésis, une des trois Parques. 108</p>
+<p>Laè'rtc, père d'Ulysse. „ 177</p>
+<p>Laïus, roi de Thèbes. 163</p>
+<p>Est tué par son fils OEdipe. 164 Lampëtie , soeur de Phaéton, une des
+Héliades.</p>
+<p>Héliades. Lampéluse, soeur de Phaéton , une des Héliades.</p>
+<p>Héliades.</p>
+<p>Lance de Pallas. 82" Laomédon , roi de Troie, fils d'Ilus, père</p>
+<p>de Priam. Ï80</p>
+<p>Est puni par Neptune. 90</p>
+<p>Par Apollon, 39. Par Hercule. 136</p>
+<p>Lapilhe, fille d'Apollon. 145</p>
+<p><pb/></p>
+<p>ET DES MATIÈRES. 231</p>
+<p>( - Pages</p>
+<p>Lares , dieux domestiques. ibid.</p>
+<p>Larmes des Héliades. ' 42</p>
+<p>Des médians. 105</p>
+<p>Larunde, nymphe. 126</p>
+<p>Larves, divinités infernales. 103</p>
+<p>Latinus, père deLavinie. 197</p>
+<p>Laione, mère d'Apollon et de Diane. 38</p>
+<p>Est la récompense des poètes et des guerriers, ibid. Lavinie, épouse
+d'Énée. 197' Léarque, fils d'Atbamas. 97 léda, épouse de Tyndare. 148</p>
+<p>Trompée par Jupiter. 31</p>
+<p>Ses enfans. 148-149-150</p>
+<p>Lemnos, île célèbre par les forges de Yuicain.</p>
+<p>Yuicain.</p>
+<p>Zer/ie, marais célèbre. 133</p>
+<p>Leslrigons , peuple de Cyclopes. 194</p>
+<p>Léthé, un des fleuves des Enfers. ' 105-106</p>
+<p>Il coule autour du palais du Sommeil. 115</p>
+<p>Liberté, honorée comme une divinité. 7</p>
+<p>Lion de la forêt de Némée. , 132</p>
+<p>Un des signes du Zodiaque. 89</p>
+<p>Lipare ou Lipara. 78</p>
+<p>Lirinpe, mère de Narcisse. 125</p>
+<p>Livre du Destin. 1.4-16-18</p>
+<p>De Clio. v 54</p>
+<p><pb/></p>
+<p>232 TABLE DES NOMS</p>
+<p>Page»</p>
+<p>Loi (la) , fille de Thémis. . 116</p>
+<p>Lune (la), est adorée par les hommes. ,5</p>
+<p>Différens noms qu'on lui donne. 55</p>
+<p>Voyez Diane.</p>
+<p>Lune, planète. 86-87</p>
+<p>Lybie, mère de Busiris. 134</p>
+<p>Lycaon , changé en loup. 172</p>
+<p>Emblème de la cruauté des hommes. 198</p>
+<p>Lycomède, roi de Scyros. i 176</p>
+<p>Lycurgue, puni par Bacchus, 68</p>
+<p>Lyre d'Apollon. 42</p>
+<p>Enlevée par Mercure. 70</p>
+<p>De Calliope. 47</p>
+<p>D'Érato, 52. D'Amphion. 161</p>
+<p>D'A rion , 162. D'Orphée. 158</p>
+<p>De Pindare. 162</p>
+<p>Lysippe, punie par Junon. 36</p>
+<p><pb/></p>
+<p>ET DES MATIÈRES. 233</p>
+<p>Pages</p>
+<p>Toison d'or. 153</p>
+<p>Rome lui était consacrée. 85</p>
+<p>Il est blessé au siège de Troie. 86-178</p>
+<p>Comment on le représente. 85</p>
+<p>Il est délivré par Mercure. ibid.</p>
+<p>Mars, planète. 86-87-88</p>
+<p>Marsyas, puni par Apollon. 47</p>
+<p>Massue d'Hercule. 140</p>
+<p>De Melpomène. 50</p>
+<p>Masque tragique. ibid.</p>
+<p>Comique. 51</p>
+<p>Mausole, roi de Carie. 60</p>
+<p>Mausolée , bâti par Artémise. ibid.</p>
+<p>Mausolées; leur origine. 61</p>
+<p>Médée , trahit son père en faveur de Jason,</p>
+<p>154. Rajeunit Eson, fait périr Pélias, 154155.</p>
+<p>154155. ses enfans. 156</p>
+<p>Méduse, une des trois Gorgones. 43</p>
+<p>Est combattue par Persée. 128</p>
+<p>Pégase naît de son sang. 129</p>
+<p>Ses jours dépendent de la conservation</p>
+<p>d'un flambeau. . 58</p>
+<p>Il meurt. 58-59</p>
+<p>Mélicerte, fils d'Ino. 96</p>
+<p><pb/></p>
+<p>234 TABLE DES NOMS</p>
+<p>Pages</p>
+<p>Se précipite dans la mer ; y est changé en</p>
+<p>dieu marin. 93-97</p>
+<p>Melpomène, une des neuf Muses. 47-48</p>
+<p>Comment on la représente. c, 50</p>
+<p>Mémoire (déesse de), 47</p>
+<p>Ménadcs, 67. ^oyez Bacchantes.</p>
+<p>Ménale , mont célèbre. 122-133</p>
+<p>Ménélas , fils de Plisthène. 173</p>
+<p>Roi de Sparte. 148-173</p>
+<p>Époux d'Hélène. 148-173-187</p>
+<p>Ménoetius, père de Patrocle. 183</p>
+<p>Mer (la), confondue dans le Chaos. 13</p>
+<p>Quels dieux y tiennent le premier rang. 7</p>
+<p>Mercure , fils de Jupiter et de Maïa. 68</p>
+<p>Mis au rang des dieux. 7</p>
+<p>Ses différons emplois. 68-69-70</p>
+<p>Il est le dieu de l'éloquence, du commerce</p>
+<p>et des voleurs. 70</p>
+<p>Le père des dieux domestiques. 126</p>
+<p>Utire Mars de sa prison. • 85</p>
+<p>Eudort Argus et le tue. 35-70</p>
+<p>Comment on le représente. 70-71</p>
+<p>Mercure, planète. 86-87-88</p>
+<p>Merveilles du monde ; il y en avait sept. 59</p>
+<p>Leurs noms et leur description. 59-60-61-6263-64</p>
+<p>59-60-61-6263-64 des dieux. 68</p>
+<p>Messagère de Junon. 37</p>
+<p>Mesures inventées par Mercure. ' 70</p>
+<p>Métamorphoses de Jupiter. 30-31-32-33</p>
+<p>De Prothée. 93</p>
+<p><pb/></p>
+<p>ET DES MATIÈRES. 235</p>
+<p>Pages</p>
+<p>Méthrès, père de Didon. 197</p>
+<p>Midas, puni par Apollon. ,47</p>
+<p>Mimas, un des Titans. 27</p>
+<p>Minerve; sa naissance et ses emplois. 79</p>
+<p>Elle est l'emblème de la Sagesse. 9</p>
+<p>Son nom désigne la Prudence. 10</p>
+<p>Le Ciel l'envoie sur la terre. 80-81</p>
+<p>Se dispute avec Neptune. 81</p>
+<p>Grèce. ibid.</p>
+<p>L'olivier lui est consacré. 83</p>
+<p>Et accompagne toujours Ulysse. 178-193</p>
+<p>Sous quels rapports on la distingue. 79</p>
+<p>Comment on la représente. 80</p>
+<p>Minos, roi de Crète, punit les Athéniens. 143</p>
+<p>Chef des juges aux enfers. 107-108</p>
+<p>Minotaure, monstre fameux. 142-143</p>
+<p>Tué par Thésée. 143</p>
+<p>Mnémosyne , mère des Muscs. 47</p>
+<p>Momus, fils du Sommeil et de la Nuit. 114</p>
+<p>Mont sacré, demeure d'Apollon et des</p>
+<p>Muses. 43-44</p>
+<p>Morphëe -, dieu du sommeil. 115 Murs de Babylone, une des sept merveilles</p>
+<p>du monde. 62</p>
+<p>Muses. 47</p>
+<p>Disciples d'Apollon. 43</p>
+<p>Filles de Jupiter et de Mnémosyne. - 47</p>
+<p>Leurs noms et leurs différens emplois,</p>
+<p>47-48-49</p>
+<p><pb/></p>
+<p>236 TABLE DES NOMS</p>
+<p>Paso»</p>
+<p>Elles ont les trois Grâces pour compagnes. 75 Partagentles honneurs et
+le pouvoir d'Apollon. 48 Et président aux sciences, aux beaux-arts</p>
+<p>On les appelle chastes soeurs. 44</p>
+<p>Neuf soeurs. 48</p>
+<p>, Filles de Mémoire. 45</p>
+<p>Doctes Fées , etc. 48</p>
+<p>Comment on les représente. 49-50-51-52-5354</p>
+<p>49-50-51-52-5354</p>
+<p>Myrmidons. 107</p>
+<p>Mythologie; signification propre de ce terme. 5</p>
+<p>Son origine. ibid.</p>
+<p>Ce qui en forme une partie considérable.</p>
+<p>7-8-9 Les^allégories utiles qu'elle présente. 198</p>
+<p>Naïades, nymphes des fleuves, des rivières</p>
+<p>et des fontaines. 92-124</p>
+<p>Napées, nymphes des prairies. 92</p>
+<p>Narcisse. 10</p>
+<p>Sa métamorphose. 125</p>
+<p>Nature (la) ; ce qu'elle était avant l'existence</p>
+<p>du monde. 13</p>
+<p>Nauplus, père dePalamède. 178</p>
+<p>Nécessité, mère deNémésis. 118</p>
+<p>Nectar, boisson des dieux. 32-179</p>
+<p>Nélée, père de Nestor. 173</p>
+<p>Némée, forêt célèbre. 132</p>
+<p>Némésis, déesse de la vengeance. i 18</p>
+<p>Comment on la représente. 119</p>
+<p><pb/></p>
+<p>ET DES MATIÈRES. 237</p>
+<p>Pages</p>
+<p>Néphèles, épouse d'Athamas. 152</p>
+<p>Neptune, dieu de la mer: sa naissance. 90</p>
+<p>Est mis au rang des dieux. ' 6-7</p>
+<p>Partage l'empire du monde avec ses frères. 25 Est chassé du ciel. 90</p>
+<p>Privé de la divinité. 39</p>
+<p>Bâtit les murs de Troie. 39-90</p>
+<p>Épouse Amphitrite. 90</p>
+<p>Favorise Latone. 38</p>
+<p>Fait périr Ajax. 178</p>
+<p>Exauce les voeux de Thésée. 147</p>
+<p>Se venge de Laomédon. 39-90</p>
+<p>Se dispute avec Minerve. 81</p>
+<p>Fait naître le cheval Pégase. ibid.</p>
+<p>Il est l'emblème de la tempête. 10</p>
+<p>Comment on le représente. 91</p>
+<p>Nérée, fils de l'Océan , père des nymphes.</p>
+<p>91-92</p>
+<p>Néréides, nymphes de la mer. 92</p>
+<p>Nessus, centaure tué par Hercule. 138</p>
+<p>Voile trempé dans son sang. 139</p>
+<p>d'Hercule. ' 174</p>
+<p>Vit trois cents ans. ibid.</p>
+<p>Son retour dans ses états, après la guerre</p>
+<p>de Troie. 189</p>
+<p>Neuf Soeurs , nom donné aux Muses. 48</p>
+<p>Ninus, empereur des Assyriens. 5</p>
+<p>Noces de Thétis et de Pelée. 74</p>
+<p>Nourii'snns des Muses, nom donné aux</p>
+<p>) poètes. 49</p>
+<p>Nuit (la), déesse des ténèbres. 115</p>
+<p><pb/></p>
+<p>238 TABLE DES NOMS</p>
+<p>Pages</p>
+<p>Épouse du Chaos. 106</p>
+<p>Comment on la représente. 115</p>
+<p>perpétuel. 24</p>
+<p>Nymphes. 92</p>
+<p>Le rang qu'elles tiennent parmi les dieux. 7 Leurs danses. 123-124</p>
+<p>Elles élèvent Jupiter. _, 25</p>
+<p>Sont chargées de l'éducation de Bacchus. 65</p>
+<p>Océan, fils de Neptune. 91</p>
+<p>Père d'Amphilrile. 90</p>
+<p>Des fleuves, et époux de Thétis. 92 Ocypète, une des Harpies. ibid.</p>
+<p>Odyssée, poème d'Homère. 50 OEdipe est exposé sur le mont Cilhéron, et</p>
+<p>sauvé par un berger. 163 Tue son père. 164 Devine l'énigme proposée par
+le Sphinx. 165 . Épouse sa mère. ibid. Se crève les yeux et s'exile. 166
+Après avoir partagé l'autorité souveraine entre ses fils. 167 OEil du
+monde, nom donné au Soleil. 120 OEnée , roi de Calydon. 57 Père de
+Déjanire. 138 OEnomaùs, roi d'Élide, vaincu par Pélops. ' 170 OEnone ,
+nymphe du mont Ida. 181 CE la, mont célèbre par la mort d'Hercule. 139
+Oïlêe, père d'Ajax. 178 Oiseaux du lac Stymphale. 133</p>
+<p><pb/></p>
+<p>ET DES MATIÈRES. 23g</p>
+<p>Pages</p>
+<p>Olivier, produit par Minerve. S1</p>
+<p>Olympe, montagne de Thessalie. 26-27-61</p>
+<p>Séjour des dieux. 34"</p>
+<p>Noms de ses habitans. 36</p>
+<p>Olympie, ville célèbre. 61</p>
+<p>Olympien (Jupiter), une des sept merveilles</p>
+<p>du monde. ibid.</p>
+<p>Ombres, jugées aux enfers. 107</p>
+<p>Elles boivent de l'eau du fleuve Léthé. 106</p>
+<p>Leur séjour. 100</p>
+<p>Comment elles arrivent aux enfers. 104</p>
+<p>Leurs récompenses. 110-111</p>
+<p>Leurs supplices. 101-102-103-104</p>
+<p>Omphale, reine des Lydiens. 138</p>
+<p>Oracle ; en quelles occasions on le consultait</p>
+<p>principalement. 166</p>
+<p>Oracles d'Apollon. 44</p>
+<p>Comment on les rendait. 44-45</p>
+<p>Oréades, nymphes des montagnes. 92</p>
+<p>Oreste , fils d'Agamemnon. 173</p>
+<p>Et de Clytemnestre. 149</p>
+<p>Venge la mort, de son père. 149-190</p>
+<p>Est en proie aux Furies. 190-191</p>
+<p>Enlève la statue de Diane. 192</p>
+<p>Orgies , fêtes en l'honneur de Bacchus. . 67</p>
+<p>Origine de la Fable. 5</p>
+<p>des Romains. 85</p>
+<p>Orion , changé en constellation, 89</p>
+<p>demi-dieux. 7</p>
+<p><pb/></p>
+<p>24o TABLE DES NOMS</p>
+<p>Pages</p>
+<p>158-169160 descend aux enfers pour y chercher</p>
+<p>Eurydice. 159</p>
+<p>Endort Cerbère. 107-168</p>
+<p>Est mis en pièces par les Bacchantes. 160</p>
+<p>Ossa, mont célèbre. 27-61</p>
+<p>Othus, géant, fils d'Aloeùs. 2C</p>
+<p>Oubli (fleuve d'). 106</p>
+<p>; Ourse (la grande et la petite), constellations. 32-33-172 Ouvrage de
+Pénélope. 196</p>
+<p>Paix, honorée comme une divinité. 7</p>
+<p>Fille de Jupiter et de Thémis. 117</p>
+<p>Comment on la représente. 116</p>
+<p>Palais du Destin. 15</p>
+<p>Du Soleil. 40</p>
+<p>Du Sommeil. 115</p>
+<p>Palamède, invente les jeux de dés et d'échecs. 178</p>
+<p>Palémon , dieu des ports de mer. - 97 Voyez Mélicerte.</p>
+<p>Paies , déesse des bergers, etc. 113</p>
+<p>Le rang qu'elle tenait sur la terre. 7</p>
+<p>Palladium, statue de Minerve. 83</p>
+<p>D'Athènes. ibid.</p>
+<p>De Troie. 83-185</p>
+<p>Est enlevé par Ulysse et Diomède. ibid.</p>
+<p>Pallante, frère d'Egée. 140</p>
+<p>Pallaniides , enfans de Pallante. ibid.</p>
+<p>Pallas, déesse de la guerre. 79-82</p>
+<p>Emblème de la prudence militaire. *°</p>
+<p><pb/></p>
+<p>ET DES MATIÈRES. 24l</p>
+<p>Pages</p>
+<p>Fait son présenta Pandore. 29</p>
+<p>Dispute le prix de la beauté. 74</p>
+<p>Aide Prométhée. &gt;, 28</p>
+<p>Protège Cadmus. 161</p>
+<p>Comment on la représente. 82</p>
+<p>Voyez Minerve. Pan, dieu des bergers. 122</p>
+<p>Le rang qu'il tenait sur la terre. 7</p>
+<p>Ses danses. 124</p>
+<p>Comment on le représente. 123</p>
+<p>Pandore , fille des dieux. 29-30</p>
+<p>Reçoit un présent de chacun d'eux. 29</p>
+<p>Emblème des maux qui affligent les hommes, 30</p>
+<p>Panique (terreur). 122</p>
+<p>Paphos. 73</p>
+<p>Paris, fils de Priam ; sa naissance et son éducation. 180-181 Juge les
+trois déesses qui se disputaient la</p>
+<p>pomme d'or. 74</p>
+<p>Est reconnu par Hector. 181</p>
+<p>HaïdeJunon, 36. Enlève Hélène. 149</p>
+<p>Cause la guerre de Troie. 179</p>
+<p>Fait périr Achille. 184</p>
+<p>Est tué par Pyrrhus. 188</p>
+<p>Parnasse, montagne habitée par les Muses. 43</p>
+<p>Parques, filles de l'Enfer et de la Nuit. 108</p>
+<p>Leur emploi. ibid.</p>
+<p>sont attachés les jours de Méléagre. 5S</p>
+<p>Pasiphaé, épouse de Minos, mère de Phèdre. 146</p>
+<p>Mère du Minotaure. 142</p>
+<p>i4</p>
+<p><pb/></p>
+<p>242 TABLE DES NOMS</p>
+<p>Pages</p>
+<p>Passions, érigées en divinités. 121</p>
+<p>Médée. 155</p>
+<p>Pélion , montagne célèbre. 26-27-45</p>
+<p>Pélops, fils de Tantale. 103</p>
+<p>Pénée, père de Daphné. 46</p>
+<p>Pénélope , épouse d'Ulysse, mère de Télémaque.</p>
+<p>Télémaque.</p>
+<p>Penlhée, puni par Bacchus. 68</p>
+<p>Périphèle, géant puni par Thésée. 142</p>
+<p>Permesse, fontaine consacrée aux Muses. 43</p>
+<p>Persée, fils de Jupiter et de Danaé. 31-128</p>
+<p>Combat les Gorgones. 128</p>
+<p>Délivre Andromède. 129</p>
+<p>Est changée en constellation. 130</p>
+<p>A. quel titre il est mis aux rang des demidieux. 7</p>
+<p><pb/></p>
+<p>ET DES MATIÈRES. 243</p>
+<p>Pages</p>
+<p>Pestes, divinités infernales. 103</p>
+<p>Peupliers. 42</p>
+<p>Phaéton; sa querelle avec Épaphus. 40</p>
+<p>Monte au palais du Soleil. ibid.</p>
+<p>Conduit le char de son père ; est foudroyé *par Jupiter, 41</p>
+<p>Les regrets que cause sa mort. 42</p>
+<p>Phaétuse, soeur de Phaéton. ibid.</p>
+<p>Phare d'Alexandrie, une des sept merveilles</p>
+<p>"du monde. 62</p>
+<p>Phébé, 55. Voyez Diane. Phébus , nom d'Apollon. 39</p>
+<p>Le rang que le Ciel lui assigne. 88</p>
+<p>Phèdre, épouse de Thésée. 146</p>
+<p>Phidias, sculpteur très-célèbre. 61</p>
+<p>Phlégëton, un des fleuves des enfers. 105-106 Phlégon, un des chevaux du
+Soleil. 39</p>
+<p>Philoclète, ami d'Hercule. 13 9</p>
+<p>Philomèle, changée en rossignol. 173</p>
+<p>Philoné, épouse de Bellérophon. 151</p>
+<p>Phocidc, province de la Grèce. 44 , 164</p>
+<p>Phorcys , père de Scylla. 96</p>
+<p>Phryxus, fils d'Athamas. 88</p>
+<p>Enlève le bélier qui portait la Toison d'or. 152 Picus, père du Dieu
+Faune. 123</p>
+<p>Pierre, du touche. 71</p>
+<p>Piété (lu), honorée comme une divinité. 7</p>
+<p>Pindare, poète grec, dont Alexandre honora</p>
+<p>la mémoire. 162</p>
+<p>Pinde, montagne consacrée aux Muses. 43</p>
+<p><pb/></p>
+<p>244 TABLE DES NOMS</p>
+<p>Pages</p>
+<p>Pirithoùs, ami de Thésée. 145</p>
+<p>Reste aux enfers, où il était descendu pour enlever Proserpine. 146</p>
+<p>Plaisirs, enfans de Vénus. 73</p>
+<p>Planètes. 86-87</p>
+<p>Platée , fille d'Asope. 35</p>
+<p>Plisthène, fils d'Atrée, père d'Agamemnon</p>
+<p>et de Ménélas. 173</p>
+<p>Plnla , mère de Tantale. 103</p>
+<p>Pluie d'or. 31, 128</p>
+<p>Plulon, fils de Saturne et de Cybèle. 98</p>
+<p>Mis au rang des dieux. 7</p>
+<p>Partage l'empire du monde avec ses frères, 25</p>
+<p>Enlève Proserpine. 98</p>
+<p>Son palais est gardé par Cerbère. x 106</p>
+<p>On le confond souvent avec Plutus. 111</p>
+<p>Comment on le représente. 100</p>
+<p>Plutus, dieu des richesses. 111</p>
+<p>Pô, fleuve d'Italie. 41</p>
+<p>Comment il convient d'en régler l'usage. 11-12</p>
+<p>Poésie héroïque; la déesse qui y préside. 49</p>
+<p>Lyrique, la déesse qui y préside. 52</p>
+<p>Pastorale, la déesse qui y préside. ibid.</p>
+<p>Sont appelés Favoris et Nourrissons des</p>
+<p>Muses. 49</p>
+<p>Montent le cheval Pégase. 43</p>
+<p>Vont rêver, se promener dans le sacré</p>
+<p>Vallon, et boire de l'eau d'Hippocrène. ibid. Ils sont inspirés par
+Apollon 42</p>
+<p><pb/></p>
+<p>ET DES MATIÈRES. 245</p>
+<p>Pages</p>
+<p>Et par les Muses. 49</p>
+<p>Poids, inventés par Mercure. 70</p>
+<p>Poignard de la Discorde. 121</p>
+<p>De Melpomène. ' , 50</p>
+<p>Poissons, un des signes du Zodiaque. 89</p>
+<p>Polixo, fait pendre Hélène. 149</p>
+<p>Pollux, fils de Jupiter et de Léda. 31, 148</p>
+<p>Va reprendre sa soeur Hélène. 146</p>
+<p>Est changé en astre, et placé au ciel avec son frère. 150</p>
+<p>A quel titre il est compté parmi les demidieux. 7 Pollux , un des signes
+du Zodiaque. 89 Polybe, roi de Corinthe, adopte OEdipe</p>
+<p>pour son fils. 163</p>
+<p>Polymnie , une des neuf Muses. 48, 51</p>
+<p>Comment on la représente. 51</p>
+<p>Polyn ce, fils d'OEdipe. 167</p>
+<p>Et périt. ibid.</p>
+<p>Polyphème, Cyclope; son aventure avec</p>
+<p>Ulysse. 194</p>
+<p>Est immolée sur le tombeau de ce héros. 187 Pomme d'or, jetée par la
+Discorde. 74</p>
+<p>Prix de la beauté. 36-74</p>
+<p>Pommes d'or, du jardin des Hespérides. 135</p>
+<p>Le rang qu'elle tenait sur la terre. 7</p>
+<p>Porte d'ivoire et de corne pour les songes. 115</p>
+<p>i4»</p>
+<p><pb/></p>
+<p>2^6 TABLE DES NOMS</p>
+<p>Paf*es</p>
+<p>P-rêtres d'Apollon. 45</p>
+<p>Prêtresses d'Apollon. 44-45</p>
+<p>Pre'tus. 36</p>
+<p>Priant, roi de Troade. 178-180</p>
+<p>Relève les murs de sa capitale. 180 '</p>
+<p>Est attaqué par les Grecs. 181-183</p>
+<p>Meurt de la main de Pyrrhus. 186</p>
+<p>Fable qui désigne son retour. 94</p>
+<p>Priape, fils de Vénus. 73</p>
+<p>Dieu des jardins. 114</p>
+<p>Comment ou le représente. ibid.</p>
+<p>Privilèges des Vestales. 24</p>
+<p>Prix de la beauté. 74</p>
+<p>Proclus , roi d'Argos. 161</p>
+<p>Procusfn, fameux brigand puni par Thésée. 141</p>
+<p>Prog/ië changée en hirondelle. 173</p>
+<p>Prnméthée, imite Jupiter, et en est puni. 28-29</p>
+<p>11 est délivré par Hercule. 135</p>
+<p>Il avait humanisé un peuple grossier. 198</p>
+<p>Proserpine., fille de Cérès, est mise au rang</p>
+<p>des dieux. 7 Est enlevée par Plr.ton. 98 Refuse de suivre sa mère. 99
+Thésée Cl Pirithoiisen1reprennent.de l'enlever. 146 On la confond
+souvent f.\cr Hécate. 55 Prothée, fds de l'Océan. !&gt;2 Ses différentes
+métamorphoses. 93 Il prédit le malheur de Phaéton. 41 Psyché, persécutée
+par Vénus. 76 Comment on la représente. 76</p>
+<p><pb/></p>
+<p>ET DES MATIÈRES. 247</p>
+<p>Pages</p>
+<p>Ptérélaûs, roi de Télèbe. 131</p>
+<p>Meurt en perdant le cheveu d'or qu'il avait sur la tête. ibid.</p>
+<p>Pylade, ami d'Oreste. - 191</p>
+<p>Veut mourir en sa place. 192</p>
+<p>Pyramides d'Egypte, au nombre des merveilles du monde. 63 Pyroïs, un des
+chevaux du Soleil. 39 Pyrrhus, fds d'Achille. 177 Arrive devant Troie
+pour y venger la mort</p>
+<p>de son père. 185</p>
+<p>Fait périr Priam. 186</p>
+<p>Tue Paris dans un combat singulier. 188</p>
+<p>Python, serpent tué par Apollon. 44-45</p>
+<p>Pylhonisse, prêtresse d'Apollon; pourquoi</p>
+<p>on l'appelle ainsi. 44</p>
+<p>Quenouille des Parques, 108</p>
+<p>d'Hercule. 138</p>
+<p>Raison, emblème qui la représente. 80</p>
+<p>Rémus, fils de Mars. 85</p>
+<p>Renommée, son emploi ; comment on la représente. 117</p>
+<p>On l'appelle Déesse ou Nymphe aux cent voix. 11</p>
+<p>Rhadamanie, un des Juges aux Enfers. 107-108 Rhéa Sylvia, mère de
+Romulus et de Rémus. 85 Rhécus, un des Titans, 66</p>
+<p>Rhée. 23. Voyez Cybcle.</p>
+<p>Rhétorique ; la déesse qui y préside. 51</p>
+<p>Rhodes , île célèbre. 60</p>
+<p>Hélène s'y retire et y trouve la mort. 149</p>
+<p><pb/></p>
+<p>248 TABLE DES NOMS '</p>
+<p>Paeei</p>
+<p>Ris , enfans de Vénus. , 73</p>
+<p>Rocher de Sisyphe. 102-103</p>
+<p>Romains ; comment ils relèvent la gloire de</p>
+<p>leur origine. 85</p>
+<p>Rome ; sa situation. 19</p>
+<p>Ses fondateurs. 85</p>
+<p>Est particulièrement consacrée au dieu</p>
+<p>Mars. ibid.</p>
+<p>Romulus, fils de Mars, fondateur de Rome. ibid.</p>
+<p>Rossignol. 168. Voyez Philomcle.</p>
+<p>Roue de fortune. 118</p>
+<p>D'Ixion. 101, 159</p>
+<p>Rutules, peuple d'Italie. 197</p>
+<p><pb/></p>
+<p>ET DES MATIÈRES. 249</p>
+<p>PaiM</p>
+<p>Ce dieu est un emblème du Temps. 198</p>
+<p>Comment il est représenté. 18</p>
+<p>Saturne, planète. 86</p>
+<p>Satyre Marsyas, puni par Apollon. 47</p>
+<p>Satyres, divinités champêtres. , 123-124</p>
+<p>Sceptre de Junon. 37</p>
+<p>De Polvmnie. 51</p>
+<p>De Neptune. 91</p>
+<p>DePlùton: 100</p>
+<p>Sciences et Beaux Arts-, leur mère, . 81</p>
+<p>Scorpion, signe du Zodiaque. 89</p>
+<p>Scylla, changée en monstre. 96</p>
+<p>Gouffre voisin de la Sicile. 95</p>
+<p>Ulysse l'évite. 194</p>
+<p>Scylles, divinités maritimes, 93</p>
+<p>Scyron, fameux brigand, puni par Thésée. 141</p>
+<p>Scyros, île où Achille, fut caché par sa mère. 176</p>
+<p>Sémélé, mère de Bacchus. 64</p>
+<p>Est réduite en cendres. 65</p>
+<p>Sémiramis, reine d'Egypte. 62</p>
+<p>Ce qui l'a rendue immortelle, ibid.</p>
+<p>Serment par le Stvx. 105</p>
+<p>Par Castor et Pollux. - 150</p>
+<p>Des princes grecs contre Troie. 180</p>
+<p>Serpent, attribut du Temps. 18</p>
+<p>De la Discorde. 121</p>
+<p>Serpens de Némésis. 118</p>
+<p>Des Furies. • 104</p>
+<p>De l'Envie. , 119</p>
+<p>Étouffés par Hercule. 132</p>
+<p>Séparés par Mercure. 71</p>
+<p>Autour de la tête de Méduse. 82</p>
+<p>Siège de Troie; on le forme. 183</p>
+<p><pb/></p>
+<p>250 TABLE DES NOMS</p>
+<p>Pages</p>
+<p>Sigalion, nom donné an Silence. ll 16</p>
+<p>Son triomphe. 124</p>
+<p>Sinnis, fameux brigand, puni par Thésée. 142 Sinon, trompe les Troyens. 186</p>
+<p>Sisyphe, fameux brigand. - 102-159</p>
+<p>Soeurs d'Apollon , nom donné aux Muses. 48 Soie des Parques. 108</p>
+<p>Soleil, adoré comme un dieu, 5</p>
+<p>Son char. 39</p>
+<p>Différens noms qu'on lui donne. ibid.</p>
+<p>Soleil, planète. 86-87</p>
+<p>Solymes, vaincus par Bellérophon. 151</p>
+<p>Sommeil, père deMomus. 114</p>
+<p>Description de son palais. 115</p>
+<p>Songes. ibid.</p>
+<p>Sophocle, poète grec. 169</p>
+<p>Sort (le), divinité allégorique. 14</p>
+<p>Sostrate, architecte célèbre. 62</p>
+<p>Sphinx, propose son énigme : elle est devinée;</p>
+<p>il se précipite dans la mer. 164-165</p>
+<p>Comment on le représente. 164</p>
+<p>Statue de Bélus. 6</p>
+<p>De Diane. 59</p>
+<p>De Jupiter Olympien, une des merveilles du monde. 61</p>
+<p>Sténobëe , mère des Prétides. 36</p>
+<p>Slénnbée, reine d'Argos , épouse de Proclus.</p>
+<p>Proclus.</p>
+<p><pb/></p>
+<p>ET DES MATIÈRES. 25l ; P.gei Slénone, une des Gorgones. 128 Slhénélé,
+mère de Patrocle. 183 Slymphale, lac fameux. 133 Slyx, fleuve des
+Enfers. 105 Achille y est plongé, et en devient invulnérable. 171
+Sylvain, dieu des forêts. ,Jâ3 Sylvains , divinités champêtres. 123-124
+Syrènes , divinités maritimes. 93-95 Syrinx, nymphe changée en roseaux.
+122 Syrles ; écueils. 11</p>
+<p>Table des Dieux. 32</p>
+<p>Tantale, un des ancêtres d'Agamemnon. 170</p>
+<p>Son crime et son supplice. 103-170</p>
+<p>Il représente les avares. 198</p>
+<p>Tartare , séjour des médians après leur</p>
+<p>mort. 100-103</p>
+<p>Taureau, dont Jupiter prit la forme. 31-88</p>
+<p>Des campagnes de Marathon. 142</p>
+<p>Tué par Hercule. 134</p>
+<p>Taureau , un des Signes du Zodiaque. 88</p>
+<p>Taureaux qui gardaient la Toison d'or. 152-153154</p>
+<p><pb/></p>
+<p>252 TABLE DES NOMS</p>
+<p>Pages</p>
+<p>De Cupidon. Vf 7</p>
+<p>De Minerve. 83</p>
+<p>De Delphes ; les Gaulois veulent le piller. 122</p>
+<p>Temples d'Apollon. -44</p>
+<p>DeDiane. 59</p>
+<p>De Vénus. 73</p>
+<p>Tienips (le), divinité allégorique : il est le</p>
+<p>même que Saturne. 18</p>
+<p>Est soumis au Destin. 16</p>
+<p>Comment on le représenté. 18</p>
+<p>Ténare. ' 100</p>
+<p>Voyez Tarlare. Ténédos, île célèbre par les oracles d'Apollon. 44 Les
+Grecs s'y retirent pour tromper lés Troyens. 186 Térée, changée en
+épervier. 172 Termes, dieux domestiques. 126 Terpsichnre , une des neuf
+Muses. 47-48-54 Comment on la représente. 54 Terre (la), confondue dans
+le Chaos. 13 Les dieux qui y tenaient le premier rang. 7 Terreur
+Panique; origine de ce proverbe. 122 Tête de Méduse. 128-129 Téthys,
+épouse de l'Océan. 92 Teucer, roi de Troie. 180 Thalie, une des neuf
+Muses. 47-48-51 Comment on la représente. 51 Thalie, une des trois
+Grâces. 75 Thèbes, bâtie par Cadmus 161 Et par Amphion. 161-162 Elle est
+renversée par Alexandre le Grand. 162 Désolée par un monstre. ï *&gt; *</p>
+<p><pb/></p>
+<p>ET DES MAÏIÈBES. 253</p>
+<p>Pages</p>
+<p>Par la famine et la peste, 165-166 Et par une guerre sanglante. 168
+Cette ville est célèbre dans l'histoire poétique. 7 Thémis, déesse de la
+j ustice. 116 Guide les magistrats. 8 Comment on la représente. 116
+Thémisto, épouse Athamas. 96 Trompée par Ino, elle tue ses enfans. 97
+Thermodon , fleuve célèbre. 133 Thésée; sa naissance et son éducation.
+140 Il marche sur les traces d'Hercule. 141 Tue le Minotaure, et sort du
+Labyrinthe. 143 Gagne l'amitié de Pirithoiis, qui devientle</p>
+<p>Mars. 85</p>
+<p><pb/></p>
+<p>254 TABLE DES NOMS</p>
+<p>Pages</p>
+<p>Thracia , fille de Mars. 85</p>
+<p>Thyeste, enlève Érope. 171</p>
+<p>Atrée s'en vengeparune perfidie. 171-172</p>
+<p>Thyrse de Bacchus ; sa description. 67</p>
+<p>Thyrses des Bacchantes. ibid.</p>
+<p>Des Sylvains. 124</p>
+<p>Tisiphone, une des Furies. 103</p>
+<p>Emblème de la frayeur. 9</p>
+<p>Tisiphones, divinités infernales. 109</p>
+<p>Titan, fils du Ciel. 17</p>
+<p>Ses enfans. 26</p>
+<p>Leur défaite. 27-28-61!</p>
+<p>Tiihius, géant; son supplice aux enfers. 101</p>
+<p>Toison d'or ; un bélier la portail. 88</p>
+<p>Les Argonautes en font la conquête. 150-151152-153-154</p>
+<p>150-151152-153-154</p>
+<p>Son enlèvement est célèbre dans l'Histoire</p>
+<p>poétique. 7</p>
+<p>Tonnerre ; Jupiter s'en rend le maître. 27</p>
+<p>Tour d'airain qui renfermait Danaé. 31</p>
+<p>Tragédie; la déesse qui y préside. 50</p>
+<p>Trépied sacré. 44</p>
+<p>Trident, sceptre de Neptune. 91</p>
+<p>Tritons, fils et gardes de Neptune. 91</p>
+<p>Le rang qu'ils tenaientparmi les dieux. 7</p>
+<p>Comment on les représente. 91</p>
+<p>Troacle ; sa position. 180</p>
+<p><pb/></p>
+<p>ET DES MATIÈ11ES. 255</p>
+<p>Pages</p>
+<p>Troie, ville célèbre dans l'histoire poétique. 7 Est bâtie par Neptune.
+' 90</p>
+<p>Et Apollon. 39</p>
+<p>Les Grecs arrivent avec leur flotte, et en</p>
+<p>forment le siège; 182-183</p>
+<p>Durée de ce siège. 185-188</p>
+<p>Combien il fut meurtrier. 188</p>
+<p>Quelles furent les causes de cette guerre. 36149</p>
+<p>36149</p>
+<p>Trompette de Calliope. 49</p>
+<p>Trompette àe Clio. 54</p>
+<p>De la Renommée. 117</p>
+<p>Des Tritons. 91</p>
+<p>Trône du Destin. 15</p>
+<p>Tros, roi de Troie. 179-180</p>
+<p>Troyens, leurs chefs pendant la guerre</p>
+<p>contre les Grecs. 178</p>
+<p>Turnus, combat contre Énée, et périt. 197</p>
+<p>Tyndare , époux deLéda. 31-148</p>
+<p>Tyndarides. ibid.</p>
+<p>Voyez Castor et Pollux.</p>
+<p>Typhée, Typhoé, Typhon ou Typhus, géant</p>
+<p>d'une taille énorme. 26</p>
+<p>Enseveli sous le mont Etna. 27</p>
+<p>Fait fuir Vénus et Cupidon. 89</p>
+<p>Ulysse , fils de Laërte, veut se dispenser d'aller au siège de Troie. 177</p>
+<p>Se déguise en marchand pour reconnaître</p>
+<p>Achille. 176</p>
+<p>Dispute les armes d'Achille. 178</p>
+<p>Enlève le Palladium. 83-l«5</p>
+<p><pb/></p>
+<p>256 . TABLE DES NOMS</p>
+<p>. Pages</p>
+<p>Est bien reçu d'Éole qui lui donne des</p>
+<p>vents. 94</p>
+<p>Évite les pièges desSyrènes. 95</p>
+<p>Est toujours guidé par Minerve. 80</p>
+<p>de cette déesse. 193-194</p>
+<p>Tombe sous les coups de son fils Télégone. ibid.</p>
+<p>Uranie, une des neuf Muses. 47-53</p>
+<p>Comment on la représente. 53</p>
+<p>Urne, qui renferme le sort des hommes. 14-15 Dès trois juges aux enfers.
+107</p>
+<p>Fallôn (Sacré), séjour d'Apollon et des</p>
+<p><pb/></p>
+<p>ET DES MATIÈRES. 257</p>
+<p>Pasfs</p>
+<p>Remplit de flèches le carquois de Cupidon. 79</p>
+<p>Est blessée au siège de Troie. 178</p>
+<p>Quels furent ses temples. 73</p>
+<p>Quel culte on lui rendait. ibid.</p>
+<p>Comment on la représente. 74</p>
+<p>Vénus, planète. 86-87-88</p>
+<p>Vérité, honorée comme une divinité. 7</p>
+<p>Cachée sous les portraits de la Fable. 8</p>
+<p>Verseau, un des Signes du Zodiaque. 89</p>
+<p>Vertumne, dieu de l'Automne. 113</p>
+<p>Vertus, érigées en divinités. 10-121</p>
+<p>Onleurrendles honneurs divins. 7</p>
+<p>Vesta, la même que Cybèle. 23</p>
+<p>Vestales. ibid.</p>
+<p>Vices, érigés en divinités. 121</p>
+<p>On leur rend les honneurs divins. 7</p>
+<p>Victoire de Jupiter. 27-28-61</p>
+<p>Vie des hommes, filée par les Parques. 108</p>
+<p>Vierge (la), un des signes du Zodiaque. 89</p>
+<p>Vin; le dieu qui y préside. 66</p>
+<p>Voeux adressés aux Parques. 109</p>
+<p>Voie lactée. 132</p>
+<p>Voile trempé dans le sang du centaure Nessus.</p>
+<p>Nessus.</p>
+<p>Voleurs ; Mercure en était le dieu. 70</p>
+<p>Vulcain, fils de Junon, précipité du ciel par</p>
+<p>Jupiter. 34</p>
+<p>Est le dieu du feu, forge les foudres de</p>
+<p>Jupiter. 78</p>
+<p>Fabrique Pandore. 29-30</p>
+<p>Enchaîne Prométhée sur le mont Caucase. 29</p>
+<p><pb/></p>
+<p>258 TABLE DES NOMS ET DES MATIERES.</p>
+<p>Pages</p>
+<p>Surprend Mars et Vénus. 85</p>
+<p>Comment on le représente. 79</p>
+<p>Zéphyre, époux de Flore. 11 3</p>
+<p>Porte Vénus dans l'île de Chypre. 72</p>
+<p>Zélhus, fils de Jupiter et d'Antiope. 31</p>
+<p>Zodiaque. 86</p>
+<p>Ses douze signes. 88-89</p>
+<p>FIN DE I.A TABLE DES MATIERES.</p>
+    </div>
+    </body>
+  </text>
+</TEI>

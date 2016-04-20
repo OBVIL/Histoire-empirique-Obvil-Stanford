@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Wilmart, Jules (1848-1885)">Jules Wilmart</author>
+<title>La Tragédie et le drame, essai de critique littéraire sur les classiques de la tragédie grecque et de la tragédie française, par Jules Wilmart,... Thèse présentée à la Faculté de philosophie et lettres de l'Université de Bruxelles</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Wilmart, Jules (1848-1885)</author>, <title>La Tragédie et le drame, essai de critique littéraire sur les classiques de la tragédie grecque et de la tragédie française, par Jules Wilmart,... Thèse présentée à la Faculté de philosophie et lettres de l'Université de Bruxelles</title>, <date>1873</date>,description :,98 pages
+</bibl>
+<publisher>impr. de Bruylant-Christophe (Bruxelles)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k5846211c</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1873">1873</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>ET</p>
+<p>LE DRAME.</p>
+<p>ESSAI. DE CRITIQUE LITTÉRAIRE</p>
+<p>.SUR LES,.CLASSIQUES DE LA TRAGÉDIE GRECQUE ET DE LA TRAGÉDIE FRANÇAISE</p>
+<p>PAR</p>
+<p>JULES WILMART,</p>
+<p>DOCTEUR EN PHILOSOPHIE ET LETTRES, AVOCAT.</p>
+<p>THÈSE</p>
+<p>PRÉSENTÉE A LA FACULTÉ DE PHILOSOPHIE ET LETTRES DE L'UNIVERSITÉ DE
+BRUXELLES.</p>
+<p>BEUXELLES,</p>
+<p>IMPRIMERIE. BRUYLANT-CHRISTOPHE &amp; COMPAGNIE</p>
+<p>33, RUE BLAES. ^</p>
+<p>1875</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LÀ TRAGEDIE ET LE DRAME.</p>
+<p><pb/></p>
+<p>UNIVERSITE DE ÊRUXELLES.</p>
+<p>MM. N.-C. SCHMIT, recteur.</p>
+<p>EDÔ, VAN BEMBEL, pro-recteur. .'.,"</p>
+<p>J. VANSCHOOR, administrateur-inspecteur. ; '</p>
+<p>F. DE CONTRERAS, secrétaire-trésorier. :. ".-*'■</p>
+<p>FACULTÉ DE PHILOSOPHIE ET LETTRES.</p>
+<p>EDG. VAN BEMMEL, )</p>
+<p>L. VANDER KINDERE, professeur extraordinaire. : S. VAN DE WETER,
+professeur honoraire.</p>
+<p>- \ .</p>
+<p>Le Président de la Faculté de philosophie et lettres de l'Université de
+Bruxelles, autorise l'impression de la thèse présentée par M. Jules
+Wilmart, docteur en philosophie et lettres, sans entendre approuver ni
+improuver les opinions de l'auteur. Bruxelles, le 20 mars 4873.</p>
+<p>J.-J. ALTMEYER.</p>
+<p>Bruxelles. — Typ. BnuvLAMT-CnRieTopiiE &amp; Q:</p>
+<p><pb/></p>
+<p>LA TRAGÉDIE</p>
+<p>ET</p>
+<p>LE DRAME.</p>
+<p>ESSAI DE CRITIQUE LITTÉRAIRE</p>
+<p>SUR LES CLASSIQUES M^(SfeiGÉ^IÏ\GRECQTJE ET DE LA TRAGÉDIE FRANÇAIS!?</p>
+<p>PAK</p>
+<p>.JULES WILMART,</p>
+<p>jAVDOreUR EN PHILOSOPHIE ET LETTRES, ~^^ AVOCAT.</p>
+<p>THESE</p>
+<p>PRÉSENTÉE A LA FACULTÉ DE PHILOSOPHIE ET LETTRES DE L'UNIVERSITÉ DE
+BRUXELLES.</p>
+<p>BRUXELLES,</p>
+<p>IMPRIMERIE BRUYLANT-OHRISTOPHE &amp; COMPAGNIE,</p>
+<p>33, RUE BLAES.</p>
+<p>1873</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHAPITRE PREMIER.</p>
+<p>L'ART ET LE THÉÂTRE.</p>
+<p>1</p>
+<p><pb/></p>
+<p>6 CHAPITRE PREMIER.</p>
+<p><pb/></p>
+<p>' , . LART ET LE THEATRE. .7</p>
+<p>Il ne suffit pas d'être avec les hommes, il faut encore être l'un d'eux.</p>
+<p>« "With them and one of them tl), &lt;•</p>
+<p>Quelles que soient cependant les splendeurs des différents genres de
+poésie, il n'en est aucun qui ait, autant que le théâtre, attiré
+l'attention universelle.</p>
+<p>(1) Byron disait : « But not one of them. « Mais en réalité et quelle
+que soit l'originalité de cet homme extraordinaire, elle ne consiste que
+dans l'excès même de certains seLtiments humains qui flt.de Byron
+l'homme du Childe Marold's Pelgrimage et du Don Juan,</p>
+<p><pb/></p>
+<p>8 . CHAPITRE. PREMIER.</p>
+<p>Mais si celte passion, si cette vérité, et, pour le dire aussi, cette
+grandeur de la vérité nous étonnent dans les oeuvres de la Grèce, si
+nous y voyons cette vénération profonde et touchante de l'homme pour les
+générations qui l'ont précédé, vers lesquelles il se retourne encore
+avec respect comme le voyageur qui s'éloigne pour tou-</p>
+<p><pb/></p>
+<p>L'ART ET LE THÉÂTRE. 9</p>
+<p>D'autre part, le théâtre moderne doit-il être répudié tout entier, ou
+dirons-nous qu'au défaut de la France il s'est trouvé d'autres peuples
+plus heureux, dotés d'un véritable théâtre? Le problème vaut la peine
+qu'on s'y arrête, et, quelques difficultés qu'il présente, nous
+tenterons de le résoudre. •</p>
+<p>On conçoit qu'un genre si important, le théâtre n'ait pu manquer
+d'attirer l'attention de la critique moderne. C'est ce qui arriva. Mais
+au lieu de pénétrer l'art lui-même, les législateurs du Parnasse ne
+s'attachèrent souvent qu'aux formes extérieures et matérielles
+Considérer les grands poètes comme des modèles qu'il faut suivre sans
+jamais s'en écarter, comme les personnifications parfaites d'un art
+parfait, sans tenir compte ni des temps ni des lieux ; faire des
+généralités de ce qui n'est que particulier, des nécessites de ce qui
+n'est qu'accidentel, remplacer le sentiment par la réflexion ; telle a
+été leur continuelle erreur. Ils ont voulu</p>
+<p><pb/></p>
+<p>10 CHAPITRE PREMIER.</p>
+<p>Quelle fut l'origine de tous ces mécomptes? Aristote,</p>
+<p>(1) N. Lemercier, Cours analyt. de littér. générale.</p>
+<p><pb/></p>
+<p>LART ET LE THEATRE. 11</p>
+<p>qui n'occasionna pas m oins-d'erreurs en littérature que de subtilités
+en philosophie, et qui, après avoir donné naissance aux imbroglios de la
+scolastique, devint le tyran des poètes.</p>
+<p>Pour comble de.maux, on se souvint qu'Horace avait formulé des préceptes
+sur la poésie et le théâtre. L'épître aux Pisons érigée en oracle
+s'appela l'Art poétique. On compléta les lacunes d'Aristote par Horace,
+et, des deux combinés, on fit une sorte de loi des XII Tables que les
+théoriciens modernes, comme autant de préteurs, interprétaient,
+complétaient, sans jamais en tempérer la sévérité surannée. «
+Adjuvabant, supplebant, non corrigebant, »</p>
+<p><pb/></p>
+<p>12 CHAPITRE PREMIER.</p>
+<p>s'écrie Boileau, plus aristotélique qu'Aristote.</p>
+<p>Puis vinrent les romantiques, qui combattirent les classiques et
+regardèrent tous les poètes anciens comme n'ayant jamais eu vie. Ils
+adorèrent ce qu'on avait brûlé, brûlèrent ce qnon avait adoré, et
+remplacèrent Sophocle par M. V. Hugo. C'était tomber de Charybde en
+Scylla, d'une servitude dans une; autre</p>
+<p><pb/></p>
+<p>LART ET LE THÉÂTRE. 13</p>
+<p>servitude; mais le coup était hardi, et l'on triompha comme au temps de
+Jodelle et de Ronsard.</p>
+<p>Toutes les fois qu'un homme de génie s'est élevé, tous se sont lancés
+sur sa trace, et, dans une admiration maladroite, ont copié de lui
+non-seulement les qualités, mais encore jusqu'aux moins pardonnables
+défauts. Critiques et poètes, non contents de contempler les beautés du
+monument, ont voulu scruter les plus minces détails de sa construction,
+et ils ont cru que l'arf pouvant se traduire en formule, il ne
+s'agissait que de connaître cette formule pour avoir du génie. Mais ce
+qui faisait la richesse du génie est devenu notre misère, et la loi
+découverte a cessé d'être féconde entre nos mains, parce que cette loi,
+n'étant que l'allure du génie, ne pouvait être réduite en abstractions.</p>
+<p>On pourrait objecter que l'art doit avoir des règles, et que ces-règles
+ne naissent que de l'examen des chefsd'oeuvre. A quoi servirait la
+critique littéraire, sinon à</p>
+<p><pb/></p>
+<p>14 CHAPITRE PREMIER.</p>
+<p>nous montrer comment nous devons envisager l'art pour produire des
+compositions dignes de lui?</p>
+<p>« Mais, a dit un critique de notre siècle (1), ces chefs-d'oeuvre de la
+Grèce en éloquence et en poésie ne sont-ils pas reconnus de toutes les
+nations comme les types invariables de la perfection de l'art? »</p>
+<p>Non. L'art change, comme tout change ici-bas, et la perfection n'existe
+pas plus dans l'OEdipe-Roi que dans la métaphysique d'Aristote. L'cbrèç
+ïya. philosophique produisit la scolastique; c'est l'àuroç s&lt;pa
+littéraire qui produisit la poésie alexandrine.</p>
+<p>rafraî(1) Lemercier, Cours analyt. de littér. générale.</p>
+<p><pb/></p>
+<p>LART ET LE THEATRE. 15</p>
+<p>chir sans cesse, la vraie source d'Hippocrène qui fait les poètes, qui a
+fait Shakespeare comme Homère, Molière comme Aristophane et Caldéron.</p>
+<p>L'étude de l'art n'en est pas moins un moyen puissant pour arriver à
+l'art même. Elle éveille la sensibilité de l'âme et la rend ainsi plus
+tendre aux émotions de la nature; Ainsi considérée elle n'est plus un
+but, mais un moyen, et loin de nous faire perdre notre originalité
+propre, elle l'assure, au contraire, en nous remettant plus directement
+sous l'empire de la nature.</p>
+<p>Tous les arts, dit-on, ont leurs lois particulières ; la poésie, pas
+plus que la peinture ou la sculpture, ne peut s'en passer. Il est vrai ;
+mais faisons tout d'abord cette -remarque nécessaire, que s'il y a
+réglementation, c'est pour les manifestations matérielles, pour les
+moyens mis en oeuvre, pour les procédés, nullement pour l'essence de
+l'art qui ne pourrait jamais faire l'objet d'un code.</p>
+<p>Or, si nous envisageons la question de ce point de vue, nous observons
+tout d'abord que la poésie n'emploie qu'un procédé, la parole, tandis
+que les moyens dont</p>
+<p><pb/></p>
+<p>16 CHAPITRE PREMIER. '</p>
+<p><pb/></p>
+<p>LART ET LE THEATRE. 17</p>
+<p>En un mot, tous les arts, ayant au fond le même objet, qui est
+l'interprétation humaine de la nature, ' échappent aux lois exclusives
+des écoles. Cependant la manifestation de l'idée étant chose différente
+de l'idée elle-même exigera généralement l'étude des relations entre
+le-fond et la forme, tandis qu'en poésie la forme coïncide intimement
+avec le fond, au point de ne former qu'une seule unité.</p>
+<p><pb/></p>
+<p>18 CHAPITRE PREMIER.</p>
+<p>• A cette harmonie, que nous recherchons partout dans les oeuvres de la
+création, est due la prépondérance du beau dans les arts. Le beau
+n'étant en effet qu'une harmonie visible, il était raisonnable que
+l'homme s'en saisît tout d'abord, et vît dans les splendeurs naturelles
+les manifestations vivantes de cette harmonie univer(1)</p>
+<p>univer(1) de Cromwell.</p>
+<p><pb/></p>
+<p>LART ET LE THEATRE. 19</p>
+<p>selle qu'il devinait sans s'en rendre compte. Le beau devint ainsi
+l'objet de l'admiration des peuples, tandis que le laid et le difforme
+ne nous offrant que disparates et contradictions furent rejetés comme
+indignes.</p>
+<p>(1) Préface de Cromwell.</p>
+<p><pb/></p>
+<p>.20 . CHAPITRE PREMIER.</p>
+<p>suivant les temps et les' lieux. Il n'y a pas de lois pour le ridicule,
+et rien ne nous dit qife le roi Midas,. Silène et les satyres n'aient
+pas été autrefois, pour les Grecs, aussi grotesques que FalstafFou
+Sa-ncho le sont aujourd'hui pour nous.</p>
+<p>(1) Préface de Cromwell.</p>
+<p><pb/></p>
+<p>• L'ART ET LE THEATRE. 21.</p>
+<p>• 2</p>
+<p><pb/></p>
+<p>22 CHAPITRE PREMIER. ^</p>
+<p>Quelle sera maintenant la*matière de l'art?" - -</p>
+<p>Si l'on tient compte de ce que nous avons établi jusqu'ici, la réponse
+est facile. C'est la nature en tant que nous en apercevions les rapports
+avec nous, ou, si l'on veut, le coeur de l'homme mis en présence de la
+nature. / ' ' ' -</p>
+<p>Si la nature, si le monde objectif reste sensiblement le même,, l'homme
+et le coeur humain changent suivant les temps, et par conséquent aussi
+les rapports de la nature avec l'homme. L'art ne peut donc être
+immuable; il se transforme incessamment suivant la marche des idées.
+Cette marche continue, perpétuelle, c'est le développement de l'art (1),
+c'est cette sève toujours en mouvement qui fait pousser les jeunes
+rameaux et délaisse lès vieilles branches trop faibles pour soutenir le
+struggle oflife, la concurrence vitale.</p>
+<p>Copier l'art ancien, l'imiter en s'inspirant uniquement du passé, c'est
+greffer sur l'arbre vivant des branches mortes et tombées.</p>
+<p>Ainsi donc, l'art subit des métamorphoses perpétuelles pour s'incarner
+toujours plus complet dans chacune d'elles : ce sont les étapes de l'art
+vers la perfection, et la dernière incarnation étant la seule en</p>
+<p><pb/></p>
+<p>LART,ET LE THÉÂTRE. 23</p>
+<p>rapport avec les idées actuelles, nous pouvons dire : l'art doit être
+actuel.</p>
+<p>Parmi les variations, en effet, que subissent l'esprit et le coeur
+humains dans le cours des âges, il s'en faut que tout soit changement.
+L'homme, tout en se transformant, ne perd pas son identité et, si l'on
+me pardonne une expression hégélienne, il se fait autre en restant le
+même : « il devient. » Pour tout dire en un</p>
+<p>(1) De même que Hamlet, le drame du douté et de la douleur
+septentrionale, n'a pu éclore que dans la Grande-Bretagne après Luther,
+la Dévotion de la croix, ce drame dit symbole méridional et de la
+croyance effrénée, n'a pu naître, germer et mûrir qu'entre les Pyrénées
+et Gibraltar. (Ph. Çhasles, Études sur le drame espagnol.)</p>
+<p><pb/></p>
+<p>24 CHAPITRE PREMIER.</p>
+<p>mot, l'homme du temps actuel n'est que l'homme du temps passé, plus ou
+moins modifié.</p>
+<p>Les peuples passent, et l'humanité reste. Avec les peuples passent aussi
+les idées et les manifestations de l'art purement nationales. Avec
+l'humanité restent les id'tes humaines et les manifestations humaines de
+l'art.</p>
+<p><pb/></p>
+<p>CHAPITRE IL</p>
+<p>ORIGINE ET DÉVELOPPEMENTS DU THÉÂTRE GREC ET OU THÉÂTRE FRANÇAIS.</p>
+<p>Sans entrer dans trop de détails sur les origines du théâtre, il importe
+d'étudier brièvement les conditions dans lesquelles il prit naissance
+chez les Français et chez les Grecs.</p>
+<p>Groupés dans le bassin oriental de la Méditerranée, vivant sous un
+climat des plus favorables, il était naturel que les Grecs, avec leur
+imagination vive, ardente, toute méridionale, entendissent l'art
+autrement que nos hommes du Nord. Ni la nature ni l'homme ne sont chez
+nous ce qu'ils étaient dans l'Attique, et vainement voudrait-on
+reproduire dans l'art des effets que l'on n'a, pas ressentis. Chaque
+pays a son. aspect particulier qui ne peut être saisi que par suite
+d'une longue habitude,</p>
+<p><pb/></p>
+<p>26 _ CHAPITRE II.</p>
+<p>D'un côté comme de l'autre, l'objet de l'art est le même, mais la nature
+étant différente, l'art doit l'être aussi. On ne peut transplanter
+certains arbres du Midi dans le Nord. C'est pourtant ce qu'ont essayé de
+faire les tragiques français.</p>
+<p>D'autre part, les temps aussi, nous l'avons vu, sont de puissants
+modificateurs de l'art; La muse antique est muette ensevelie sous
+l'Hélicon.</p>
+<p><pb/></p>
+<p>ORIGINES DES THEATRES GREC ET FRANÇAIS. 27</p>
+<p>Les États grecs avaient beau se goûvèrnér*chacun d'après ses propres
+lois, tous se reconnaissaient, se proclamaient d'une commune origine, et
+les divers peuples de la race hellénique, malgré les rivalités qui
+souvent les • divisèrent, se regardaient cependant comme d'une même
+famille. Il n'y avait que deux genres d'hommes pour les Grecs, les
+Hellènes et les Barbares. Tous les Grecs avaient au fond lès mêmes
+dieux, les mêmes moeurs, le même esprit. Tous fraternisaient aux jeux
+olympiques, priaient aux mêmes autels de Delphes, de Dodone ou
+d'Épidaure. Tous enfin avaient le même langage.</p>
+<p>Il y avait, il esterai, des dialectes, mais ils différaient fort peu les
+uns des autres, et né constituaient que des variétés, comm&amp;les États
+dans la nation,, sans affaiblir l'évidente unité; souvent même on
+employait plusieurs dialectes dans la même oeuvre, comme dans la
+tragédie par exemple, pu le dialecte est attique et le choeur dorien
+(1), et tels auteurs abandonnent spontanément leur dialecte maternel
+pour en employer un autre plus approprié au but qu'ils se proposent ou
+plus consacré par l'usage. Ainsi Inexistence de dialectes particuliers,
+aulieu défaire</p>
+<p><pb/></p>
+<p>-la ruine de la langue grecque, fit précisément sa richesse.</p>
+<p>Il y,a plus. Les classes élevées de la société étant généralement les
+seules qui pussent étudier et parler l'idiome national reconnu.en
+France, il en résulta qu'au " lieu d'être l'expression de la nation tout
+entière, la . langue française passa au service des classes élevées,
+tandis qu'il ne restait au peuple que les vieux dialectes . dégénérés en
+patois. ,</p>
+<p><pb/></p>
+<p>-ORIGINES DES THÉÂTRES GREC ET ERÀNÇÀIS. / 29</p>
+<p>On peut dire que, sous un gouvernement démocrar tique, l'art étant la
+propriété du peuple tout entier, devient l'expression complète et fidèle
+du peuple; tandis que,sous le régime despotique, où le seigneur est
+tout, où le peuple nest rien, il se rétrécit au point de..-n'être plus
+que l'expression d'un homme, et de</p>
+<p><pb/></p>
+<p>30 ; : - CHAPITRE II. ;-'\ r"- y)n■/,</p>
+<p>Mais si un homme, si une cour peuvent oublier la nature au point de
+n'avoir presque plus rien dé commun avec elle, il n'en est pas de même
+d'un pèûplév La nature chassée du palais reste debout sur là;^ placé
+publique, et tandis que la cour n'accordera sa-bienveillance qu'à
+l'exaltation de sëë propres grandeurs, le peuple, sans orgueil et: sans
+bassesse, verra îdâïÉ chaque chose sa convenance et sa beauté-naturelle-, r</p>
+<p>La tradition n'eut pas cette force en France. Sans' faire observer que
+les Français ne furent jamais un peuple d'imagination, comme il n'y
+avait guère de' communauté d'origine ou de moeurs entre les divers</p>
+<p><pb/></p>
+<p>ORIGINES DES THEATRES GREC ET FRANÇAIS. 3]</p>
+<p>« Nulle race en Europe n'est moins poétique, »dit M. Taine en parlant
+des Français. Le Grec avait commencé par la poésie; le Français débuta
+par la prose. Les premiers prosateurs grecs sont encore des poètes ;</p>
+<p><pb/></p>
+<p>32 CHAPITRE II. -</p>
+<p>il ne leur manque que lé mètre. Il ne manque 1 aux premiers poètes
+français que d'abandonner la rime pour rester prosateurs.</p>
+<p>L'imagination grecque avait donné naissance au merveilleux ; la même
+imagination le développa. La poésie eh fit son plus bel ornement.</p>
+<p><pb/></p>
+<p>, ORIGINES DES THEATRES GREC ET FRANÇAIS. ; 33</p>
+<p>Une, politiquement, la nation française était divisée de toutes les,
+autres manières. Le peuple esclave n'avait d'autre histoire que
+l'histoire de ses rois, que rien n'avait pu poétiser. Les trouvères
+n'avaient chanté que pour leurs princes et leurs dames. Il n'y eut point
+en France de rhapsodes.nationaux. L'épopée n'y pouvait naître : , il
+fallut s'en passer. :" . .-</p>
+<p><pb/></p>
+<p>34 CHAPITRE II.</p>
+<p>Ce n'est pas de l'épopée cependant, que la tragédie devait naître, mais
+du dithyrambe.</p>
+<p>Des choeurs chantaient les louanges de Bacchus ; dans ces chants, on
+intercala comme intermèdes des récits dont .les aventures du dieu
+'firent d'abord tous les frais, mais qui ne tardèrent pas a leur devenir
+complètement étrangers. . ;</p>
+<p>Cette action se développa devant le choeur, témoin idéal-du drame,
+interprète lyrique transmettant aux spectateurs les impressions que
+lui-même avait ressenties. •</p>
+<p><pb/></p>
+<p>ORIGINES DES THÉÂTRES GREC ET FRANÇAIS. 35</p>
+<p>Lyrisme, tragédie, drame, telles sont les trois phases du théâtre grec.</p>
+<p>Enthousiasme,foi,réflexion, ou exaltation, croyance, philosophie, telles
+sont les trois phases de l'esprit grec, et chacune d'elles a laissé son
+empreinte au théâtre.</p>
+<p>En France, le théâtre se développe d'une tout autre</p>
+<p><pb/></p>
+<p>36. - CHAPITRE II. " , '..•'-</p>
+<p>On cria miracle.-Le poète fut couronné. On sacrifia le bouc tragique »
+more majorum » et le vieux théâtre français avec lui.</p>
+<p>Quelles furent les conséquences de cette révolution littéraire dont on
+fit alors tant de bruit, de laquelle on data tous les progrès du
+théâtre, que l'on appela la Rénaissance? '</p>
+<p>« La question desavoir, dit M. Nisard, combien il importait pour cette
+branche de la littérature nationale que l'esprit français fût renouvelé
+par la Renais-</p>
+<p><pb/></p>
+<p>ORIGINES DES THEATRES GREC ET FRANÇAIS'; '; 37</p>
+<p>'{l),ïïist:'de la littérature française, chap. III. (2) ïbid.</p>
+<p><pb/></p>
+<p>38 CHAPITRE II. . ,</p>
+<p>Pour le dire en passant, la Renaissance et la Réforme, arrivées presque
+en même temps", furent deux révolutions en sens inverse; Jodelle fut en
+littérature l'opposé de Luther en religion.</p>
+<p>Que veut Luther? Ruiner le vieux principe' d'autorité en matière
+religieuse, remplacer le vieil esprit, de '.Rome par l'esprit nouveau de
+la Germanie, le convenu par le vrai, la foi par l'examen, là
+servitude-par l'indépendance. -,.'..</p>
+<p>Partout en Europe couvaient des idées nouvelles</p>
+<p><pb/></p>
+<p>0RIGrN.ES DES THÉÂTRES GREC ET FRANÇAIS. 39</p>
+<p>que l'antiquité n'avait pas même soupçonnées, mais si Vivacés, que
+quelques étincelles les allument de tous côtés, en dépit des
+persécutions. Il semblait "naturel que l'esprit se renouvelant prendrait
+une forme nouvelle.</p>
+<p>Comment aussi encadrer dans la forme antique la pensée du XVT 9 et du
+xvne- siècles? Cette forme antique elle-même, dont on se montrait. si
+jaloux, l'avait-on bien comprise? Était-ce le théâtre ancien que Jodelle
+avait ressuscité? Les poètes français surent-ils rajeunir la scène
+grecque en l'imitant, ou se contentèrent-ils de la continuer par une
+copie fidèle? C'est dans Corneille et dans Racine que nous devons
+chercher la solution de cette question. \ &gt;' _</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHAPITRE III.</p>
+<p>LES FAUX TRAGIQUES.</p>
+<p>Dans une comparaison du théâtre français avec le théâtre grec, Eschyle
+doit être passé sous silence. Eschyle, en effet, ne se rattache guère au
+théâtre que par la forme, et, ainsi que nous l'avons expliqué, il est
+plus lyrique que tragique ou dramatique. Ni Corneille ni Racine n'ont
+jamais prétendu marcher sur ses pas, et, dans leurs imitations du
+théâtre grec, c'est sur Euripide et Sophocle qu'ils ont surtout tenu les
+yeux. Racine, faisaît de Sophocle son. étude favorite, et Corneille,
+lorsqu'il formulait les lois du théâtre, sans puiser di-. rectement dans
+les tragiques, s'appuyait toujours des préceptes " d'Aristote,-, auquel
+l'CB iipe-Roi servait de type. _..</p>
+<p><pb/></p>
+<p>42: CHAPITRE III. ;</p>
+<p>Précisons d'abord la signification de ce mot « tragédie ». que l'on n'a
+pas toujours compris.</p>
+<p>. « La tragédie, dit M. Nisard, est la représentation d'une action
+importante où figurent des personnages illustres animés de passions dont
+le choc doit'produire un événement funeste. »</p>
+<p>Cette définition nous paraît incomplète. Elle n'établit pas suffisamment
+la différence entre.la tragédie et le drame. Or, la tragédie, fille de
+l'épopée, doit pouvoir être distinguée du drame, qui voit l'homme, non
+plus poétisé par la tradition, mais tel que l'a saisi la réflexion
+philosophique.</p>
+<p><pb/></p>
+<p>'LES FAUX TRAGIQUES. .43</p>
+<p>"phique, mais tels que les hommes en ont gardé 1e poé: tique souvenir.</p>
+<p>d'a• On veut les reconnaître sans qu'ils se nomment. La peinture des
+caractères et des moeurs ne sera pas la même dans la tragédie que dans
+le drame. Le poète dramatique devra avant tout consulter la nature; le
+poète tragique la tradition, c'est-à-dire la nature agrandie, embellie
+par l'imagination des peuples.</p>
+<p><pb/></p>
+<p>44 . CHAPITRE III.</p>
+<p>Disons donc que la tragédie est la représentation d'une action fameuse
+où figurent des personnages illustres, tels qu'ils ont été popularisés
+par l'épopée ou la légende.-</p>
+<p>Qu'on se figure cette assemblée de citoyens poètes réunis au théâtre
+d'Athènes, l'imagination exaltée par. les récits d'Homère, glorieux du
+passé de leur nation-, fanatiques de la noblesse de leur patrie. Ils
+sont les descendants directs des héros et des dieux. C'est une déesse
+qui protège la ville, Pallas Athéné, dont la statue d'ivoire resplendit
+au Parthénon ; ce sont des héros et des dieux qui l'ont fondée, ce sont
+des héros et des dieux qui donnent leurs noms aux dix tribus de l'Attique.</p>
+<p>Ils sont là, tous, anxieux, sans voix, les yeux fixés sur la scène.</p>
+<p><pb/></p>
+<p>LES FAUX TRAGIQUES. .45</p>
+<p>A ce théâtre, qui portait si haut la gloire de la patrie, opposons le
+théâtre de Louis XIV.</p>
+<p><pb/></p>
+<p>46 CHAPITRE III.</p>
+<p>théâtre sinon pour voir le roi et faire un peu du -roi soimême au milieu
+de tout ce monde aristocratique, bavard, étourdi, remuant, élégant,
+emplumé, doré, enrubanné, contempteur du pauvre peuple et portant la
+livrée du maître? " Pourquoi viéndrait-on au théâtre sinon parce
+qu'ainsi le veulent l'étiquette et le goût du jour? Ne croyez pas que
+l'on y vienne pour la pièce. Quelle est-elle d'abord? Bon nombre
+l'ignorent. On joue Andromaque. Qu'est-ce, Andromaque? Plus d'un évite
+la réponse par un sourire équivoque. Au reste, qu'importe Andromaque? Et
+l'auteur...? — Bah! un roturier venu l'on ne sait d'où, qu'on appelle
+Racine, qui s'est, on ne sait trop comment, fourré dans les salons de
+madame de Rambouillet.</p>
+<p><pb/></p>
+<p>LES FAUX TRAGIQUES. . 47</p>
+<p>« Je souffre tous les maux que j'ai faits devant Troie.</p>
+<p>« Vaincu, chargé de fers, de regrets consumé,</p>
+<p>« Brûlé de plus de feux que je n'en allumai ;</p>
+<p>« Tant de soins, tant de pleurs, tant d'ardeurs inquiètes.,</p>
+<p>« Hélas, fus-je jamais si cruel que vous l'ête&amp;4 «</p>
+<p>Le roi approuve du geste. Bravo Pyrrhus ! — Bien, Racine ! — Un bien
+galant homme que ce Pyrrhus ! — , Et Racine, un bien tendre auteur ! —=
+Oui, reprend une précieuse, furieusement tendre !</p>
+<p>Ce que nous venons de dire d'Andromaque, on pourrait le. dire de la
+plupart des pièces de Racine et de Corneille ; .de Phèdre, d'Iphigénie,
+de Britannicus, d'Horace, de Rodogune, etc.. En effet, si. la tragédie
+est telle que nous l'avons définie, n'est-il pas évident que nous ne
+pouvons les regarder comme des tragédies? que l'action'd'Andromaque
+n'est pas fameuse chez nous? que Pyrrhus n'est aucunement illustre dans
+notre pays</p>
+<p><pb/></p>
+<p>48 CHAPITRE III,.</p>
+<p>où son nom n'est pas plus connu que celui d'Hermione? qu'événements et
+personnages sont parfaitement ignorés et ne peuvent faire en France,
+comme en Grèce, les frais d'une;véritable tragédie?</p>
+<p>Avant d'entrer plus avant dans les détails de la tragédie française,
+disons un mot du cadre dans lequel . nos poètes modernes ont prétendu
+l'enfermer d'après les modèles antiques;</p>
+<p>La tragédie grecque était simple, sobre de détails, unissant au plus
+haut point l'indépendance àTa régularité (i), ne prenant jamais que fort
+peu de développements.</p>
+<p>Cette suppression du choeur dans nos tragédies clas- '</p>
+<p>(1) « Irrégularité involontaire, » dit M. Taine des poésies grecques'.
+Mist. de la littér, anglaise, liv; I, chap. I, §8,</p>
+<p><pb/></p>
+<p>LES FAUX TRAGIQUES. . .49</p>
+<p>On dira que le génie n'est pas arrêté par une difficulté de ce genre.
+Quand l'immortel Molière, dans la première scène du Tartufe, nous
+présente ses personnages, nous les saisissons d'un coup et chacun tout
+entier. -C'est que les caractères du Tartufe nous sont connus avant leur
+entrée en scène : Molière ne nous les fait pas connaître, il nous les
+fait reconnaître.</p>
+<p><pb/></p>
+<p>50 GHAPITRE IH. '</p>
+<p>future : je ne connaîtrai pas assez ces nobles étrangers pour
+sympathiser beaucoup avec eux. Ils n'ont ni monlangage ni mon coeur, et
+leurs actions ne me paraissent que fort peu logiques.</p>
+<p>Ce n'est pas aux seules tragédies fabuleuses que s'applique cette
+remarque. Les tragédies historiques de Corneille sont dans le même cas.
+Cinna, Rodogune et les Horaces ne sont guère mieux connus chez nous et
+de nos jours que le serpent de Cadmus ou les infidélités de Thésée. -</p>
+<p><pb/></p>
+<p>LES-FAUX TRAGIQUES. 51</p>
+<p>discours les plus simples et les plus naturels, avec quelle morgue il se
+trompe quand il affirme que la tragédie est finie au deuxième acte,
+combien enfin, avec toute sa science, il est resté cependant étranger à
+l'esprit de la tragédie antique.</p>
+<p>Saint-Évremont n'est pas plus'heureux quand il avance « que la tragédie
+des anciens ^aurait fait une perte heureuse en perdant ses dieux avec
+ses oracles et ses devins, » quand en parlant de TOEdipe-Roi il ose «
+assurer que rien au monde ne nous paraîtrait plus barbare,, plus
+funeste, plus opposé aux vrais sentiments qu'on doit avoir (1). » La
+vérité est que SaintÉvremont, comme Voltaire, jugeait la tragédie
+antique avec son coeur moderne. Il a raisonné en bel esprit français au
+milieu des païens antiques, et le même homme qui déplore l'immoralité du
+théâtre grec, qui stigmatise le sacrifice d'Iphigénie, eût donné des
+applaudissements aux, fanatiques orgies de Nôarque et de Polyeucte!</p>
+<p><pb/></p>
+<p>Mais il en est ainsi de toute tragédie renouvelée des anciens. '..."•■</p>
+<p>Lemercier en convient. « Dans la tragédie, dit-il, la hardiesse des
+grands caractères,Téminence des pensées, le choc nouveau des passions
+extraordinaires s'élevant parfois au-dessus des communs esprits, n'ont
+plus pour vrais juges et pour défenseurs qu'une minorité d'hommes
+habiles (1). » Venant de Lemercier, cet aveu ne peut être suspect.</p>
+<p>Ce n'est pas. cependant que l'antiquité ne. puisse jamais être
+introduite sur le théâtre moderne. Shakespeare mit en scène Antoine et
+Cléopâtre, la mort de Jules César.- Mais nous, verrons combien
+Shakespeare diffère de Corneille dans la manière dont il a traité les
+sujets d'histoire acienne.</p>
+<p>.(1) Lemercier voudrait faire rentrer l'art dans la science, mais
+Schlegel a raison contre lui.</p>
+<p><pb/></p>
+<p>LES FAUX TRAGIQUES. 53'</p>
+<p>reconnaître dès l'abord comme Grecs et. comme hommes, tandis que le
+cerveau seul du poète les ayant enfantés en France, ils ne purent jamais
+perdre ce caractère d'abstraction qui accompagne fatalement les oeuvres
+de réflexion pure.</p>
+<p>: Que l'antiquité ne fut pas reproduite dans la tragédie française,
+c'est ce qui ressort de la simple lecture des tragiques français. Autant
+la nature et la simpli-</p>
+<p><pb/></p>
+<p>54 CHAPITRE III.</p>
+<p>cité régnent dans les oeuvres de Sophocle, autant les .oeuvres de Racine
+et de Corneille, sous une fausse apparence antique, laissent voir de
+manières et d'afféterie.</p>
+<p>£(I) Préface de Cromwell.</p>
+<p><pb/></p>
+<p>ES FAUX TRAGIQUES. 55</p>
+<p>La voilà, cette épopée d'Homère aux « proportions gigantesques et
+démesurées. » Il est vrai que les héros et les rois y jouent les
+principaux rôles; mais qu'importent lès noms? Ce sont des hommes. Ils
+n'ont rien de commun avec les héros et les rois de la tragédie moderne.</p>
+<p>(1) Les dieux mêmes donnaient aux héros la crainte ou l'audace.</p>
+<p>(2) Odyssée, chant XVI. ,</p>
+<p><pb/></p>
+<p>56 CHAPITRE III.</p>
+<p>On réunit en faisceau les petites galanteries de cour, les fades
+délicatesses des salons aristocratiques, l'honneur pointilleux, le
+courage écervelé des matamores gentilshommes, et de tout cela, revêtu
+des couleurs antiques, on fait, suivant les besoins du moment, un
+Antiochus, un Achille, un Alexandre, un Hamilcar.</p>
+<p>Ulysse peut souper des-reliefs de la veille en eom(lj</p>
+<p>eom(lj Ph. Chasles.</p>
+<p>(2) M. Nisard ne trouve pas étonnant le moins du monde que les héros de
+Corneille soient si populaires en France ; c'est' que, dit-il, « nous
+aussi nous sommes un peuple de héros I » Histoire de la littérature
+française, par M. Nisard. .</p>
+<p><pb/></p>
+<p>LES FAUX TRAGIQUES. 57</p>
+<p>(1) Histoire du théâtre et de l'art dramatique,</p>
+<p>(2) Ibidem^</p>
+<p><pb/></p>
+<p>58 CHAPITRE III.</p>
+<p>empreinte personnelle les vices et les vertus qu'il possède (1). » ;</p>
+<p>(1) Histoire de la littérature a«pZafee,chap.III,parM.Taine, vol. II.</p>
+<p>« Ces vertus que la morale et les discours généraux nous représentent
+les mêmes prennent un air différent par la différence de l'humeur et du
+génie des personnes qui les possèdent. » (Saint-Evremont, de la tragédie
+ancienne et moderne,)</p>
+<p><pb/></p>
+<p>LES FAUX TRAGIQUES. 59</p>
+<p>Mais ce n'était pas assez pour les tragiques français de dédaigner en
+tout la simple nature pour adopter une fausse perfection et des
+sentiments d'emprunt. Avec l'affectation et l'enflure, qui accompagnent
+toujours l'oubli du naturel, était venue la rhétorique qui, au lieu du
+seul mot de passion qui eût suffi, plaça les longs discours et les
+plaidoyers sans fin. Une princesse ne. peut mourir sur la scène sans
+exprimer les sentiments</p>
+<p>(1) Acte III, se. 6, Iphigénie en Aulide.</p>
+<p>(2) Acte II, se. !5, Horace.</p>
+<p>(3) Acte IV, se. 3, Andromaque.</p>
+<p>(4) Vers 683 et suiv., 805 et suiv., Antigone.</p>
+<p>(5) Vers 549 et suiv., Les Trachiniennes■</p>
+<p><pb/></p>
+<p>60 CHAPITRE III.</p>
+<p>Jusqu'ici c'est la tragédie mythologique surtout que</p>
+<p>(2) Vers 356 et suivants, Antigone.</p>
+<p>' (3) Vers 806 et suivants; 876 et suivants.</p>
+<p><pb/></p>
+<p>• LES FAUX TRAGIQUES. . " 61</p>
+<p><pb/></p>
+<p>62 CHAPITRE III.</p>
+<p><pb/></p>
+<p>vv" : LES FAUX TRAGIQUES. , 63</p>
+<p>hë le fut jâniais la mythologie ou l'histoire- ancienne, Ptr que nous y
+croyions ou non, ses naïfs récits éveil- , lent toujours plus d'un
+lointain souvenir. La mémoire dU passé apparaît donc ici plus vivace que
+dans Tes tragédies de inythologie ou d'histoire. Sans doute, ce n'est
+mdans Esther ni dans Athalie que nous irons chercher une peinture vraie
+de l'homme; maisle'poète ne pouvait mieux faire, empêché qu'il était par
+la civilisation de son époque,-trop éloignée des temps qu'il avait à
+peindre, et par le faUx goût de la grandeur que les Français ont
+introduit jusque dans l'histoire divine avec le raffinement des
+sentiments et des pensées, différents en cela des-Anglais, chez lesquels
+des moeurs plus patriarcales j une popularité plus grande de la Bible
+(1) et une certaine tournure particulière du génie riational ont fait de
+la poésie sacrée anglaise la digne fille de celle de Moïse et des
+prophètes.</p>
+<p>,.. (1) La lecture de la Bible, autorisée sous Henri VIII, exerça
+bientôt une influence considérable sur l'esprit anglais. Aujourd'hui
+encore, la Bible et le Prayer-Êook sont les livres les plus populaires
+de toute la Grande-Bretagne. On les lit, on les commente, on les
+explique au coin</p>
+<p><pb/></p>
+<p>64 - CHAPITRE HT/: 7' .:;</p>
+<p><pb/></p>
+<p>LES FAUX TRAGIQUES. ; 65</p>
+<p>"que par les..passions et les caractères, et vainement y chercherait-on
+les conditions d'une véritable tragédie.</p>
+<p>Heureux le.théâtre français s'il avait persisté dans la route nouvelle
+inaugurée par le Cid! Il eût. inévitablement rencontré le drame. Mais le
+succès de Cor-</p>
+<p><pb/></p>
+<p>66 " CHAPITRE III.</p>
+<p>neille ne fut alors guère considéré que comme une heureuse témérité, et
+le poète lui-même, comme s'il eût été honteux de son audace, se hâta de
+reprendre le joug des anciens qu'il avait failli secouer dans un moment
+de génie.</p>
+<p><pb/></p>
+<p>CHAPITRE IV.</p>
+<p>LE DRAME.</p>
+<p>Nous disons que le drame est la représentation d'une</p>
+<p><pb/></p>
+<p>(38 CHAPITRE IV- ::</p>
+<p>action importante. Il ne peut être, en effets-question ici d'une action
+fameuse. îl n'est nullement nécessaire dans le drame que l'action soit
+fameuse ;; si parfois il en est ainsi, c'est un pur accident. Mais
+l'action^(doit être importante en ce sens:qu'elle: doit surtout donner
+carrière; aux grandes passions humaines.</p>
+<p>Ainsi considéré, le drame n'est pas, on le-voit, exclusivement
+romantique. C'est d'un point de vue plus : élevé, en dehors des .écoles,
+que nous l'envisageons.</p>
+<p>Si Ton remarque que le drame, ne s'appuyant en rien sur le souvenir
+poétique^ du passé, se résume principa- [ lement dans le jeu des grandes
+passions humaines, on verra qu'il a ceci de commun/avec la comédie^
+qu'il a pour objet le coeur de l'homme.. Seulement, tandis que: là:
+comédie ne réside que dans les circonstances ordi-- haire's de la vie,
+le. drame est surtout dans, un concours : de circonstances
+extraordinaires oùles passions déchaînées, se .révélant dans, un
+développèmpnt complet, sont plus.propres à,bouleverser les âmes. .;...</p>
+<p>.La. tragédie est toujours 'plus ou moins dramatique.• ,Ses:héros,
+"bienqu'agrandis par l'imagination, ne. noué, sont pas cependant
+étrangers;, leurs: passions .-sont'au. fond celles de la généralité des
+hom mes; ;.</p>
+<p><pb/></p>
+<p>LE DRAME. 69.</p>
+<p>Les personnages du premier sont des individus, ceux du second sont des
+types, c'est-à-dire des généralités individualisées. Reproduire
+fidèlement sur la scène les héros d'une nation, c'est le principal
+mérite du poète tragique. S'il y réussit, il Verra la réalité sous
+l'imagination, l'homme derrière l'individu, et la tragédie,</p>
+<p>5</p>
+<p><pb/></p>
+<p>70 CHAPITRE IV.</p>
+<p>devenant ainsi le miroir de l'homme, sera" dramatique.</p>
+<p><pb/></p>
+<p>',"'.- LE DRAME;-:.. '■71</p>
+<p>tet: les héros historiques et mythologiques Ponform.es aux idées qu'en
+avaient les anciens, si-Corneille pt Racine, moins scrupuleux et plus
+hardis, les avaient actualisés,eh transportant sur la scène antique
+l'esprit etiles ^passions modernes, il y a lieu de. croire qu'ils.
+^SPF^âentïpai^-dansnne certaine mesure, faire revivre en France le
+dran^dlEuripide., : c ^</p>
+<p>modé(1) se sert de mythes pour produire des-situations où il peut mettre
+des hommes de son temps dans l'agitation morale et dans une émotion
+passionnée.» (Ôttfried Mûllôr, Histoire de la litéràture grecque.
+Euripide.) ' :..''_(2) Hercule furiewo, vers 1236.</p>
+<p>(3) Ibidem, vers 1287-1292. ■'•'</p>
+<p>(4) Ibidem, vers1314-1319*</p>
+<p><pb/></p>
+<p>72 CHAPITRE TV.</p>
+<p>rer son langage impie (i) et lance des pierres aux acteurs (2) _</p>
+<p>(2) Sénèqùè, epist. 115.. '</p>
+<p>(3) Voyez' Études sur les tragiques grecs, de Patin, liv. I.</p>
+<p><pb/></p>
+<p>théâtre, la révolution opérée par Euripide ne. fit^' au Contraire,
+qu'achever son développement. •',,-'</p>
+<p>sym,(1) la discussion entre Amphitryon et Lycus Sur le cas que l'on.doit
+faire des archers, vers 187 et suivants A'Hercule furieux; lés débats
+d'Hécube et de Polymnestor plaidant leur cause devant Agamem: non.
+ÇHéçube, vers 1132-1152.) . ., .</p>
+<p><pb/></p>
+<p>74 CHAPITRE IV.'</p>
+<p>pathie, si nous pouvons ainsi parler, qui nous fait ressentir comme
+nôtres les sentiments et les passions d autrui (i). On a dit de lui
+qu'il n'a pas la magnificence de Sophocle, et cela est vrai si par ce
+mot on entend le calme grandiose empreint dans toutes les créations du
+poète de Colone; mais si la.simple nature, si les spectacles de la vie
+humaine ont aussi leur grandeur, comment pourrait-on la refuser au poète
+qui en a le mieux reproduit les naïves beautés?</p>
+<p>(2) « Etre hissé sur des éohasses et mis en mouvement aveô des fils</p>
+<p><pb/></p>
+<p>LE DRAME. 75</p>
+<p>« Mon-père, Cessez de vous troubler, vous n'êtes point trahi. Quand vous
+commanderez, vous serez obéi, »</p>
+<p>etc. (2).</p>
+<p>; Mais je crains bien que M. Patin ne soit seul dé son avis. Iphigénie
+ne parle point, pour ainsi dire, de son malheur. Elle obéit sans effort,
+et si elle regrette quelque chose, c'est de donner des ennuis à
+Clytemnestre,</p>
+<p>de marionnettes par quelque Français auteur de tragédies! » ditMoor,
+dans les Brigands de Schiller.</p>
+<p>(2) Acte IV, se. IV, Iphigénie en Aulide. Racine.</p>
+<p><pb/></p>
+<p>'76 ; CHAPITRE:-rV, ,</p>
+<p><pb/></p>
+<p>LE DRAME.- 77</p>
+<p>* - ' ' * - ■</p>
+<p>Ce n'est pas ainsi qu'avaient compris le théâtre les -Anglais et lés
+Espagnols (1). Comme autrefois lès Grecs, ils regardèrent autour d'eux
+et marchèrent de leurs proprés forces. Le théâtre d'Euripide était
+l'expression vivante de la Grèce et de l'antiquité. Shakespeare et
+Caldéron représentent l'Espagne, l'Angleterre et Tes temps modernes.</p>
+<p>Shakespeare et Caldéron, deux génies, d?un genre tout différent, mais
+deux génies ; le premier remuant le coeur de l'homme, le second celui de
+la nation.</p>
+<p>Né dans- un pays où la galanterie et la chevalerie</p>
+<p><pb/></p>
+<p>78 ' CHAPITRE TV.</p>
+<p>. (1) «.L'imitation, de l'antiquité ne domina jamais en Espagne, attendu
+que le's esprits y étaient plutôtportôs vers la vie réelle et présente.
+» (Histoire universelle de C. Cantu, ch. XXXIX.)</p>
+<p><pb/></p>
+<p>LE DRAME: :^9 .</p>
+<p>VuVde Ta raison ; mais Caldéron n'est pas •philosophe^ iT est Espagnol;
+Né lui dites pas que «. A segreto agravio segreta venganza » est féroce
+; helui dites pas que la « Devocion de-la Cruz » est d'un fanatisme
+révoltant : le poète est plus féroce, plus fanatique',, plus "Espagnol
+que les Espagnols. D'ailleurs, sont-ce: des. ?êxéimplés de morale que
+nous allons" chercher dans VOrèstie d'Eschyle,' l'Electre de Sophocle,
+la Médée ^d'Euripide? ;'-^f'" - ; \;.'"&gt;" ''■■■'■'.• ■_..'.■' ; —
+Comment, dira-fc-Pn, Caldéron ne sera pashumain et il ne sera pas
+national? Il remuera le coeur de sa hâtion et le coeur de l'homme jamais?</p>
+<p>Observant d'abord le monde qui l'environne,. Shakespeare , génie. non
+moins méditatif qu'observateur,, ne.</p>
+<p><pb/></p>
+<p>80 CHAPITRE XV.</p>
+<p>Mais, pourrait-on objecter, que seront de tels hommes autre chose que
+des abstractions pures?</p>
+<p>Il est vrai, et c'est ici justement qu'éclate le génie de Shakespeare,
+qu'ayant isolé la nature essentielle de l'homme de ses accidents pour la
+reconstituer au moyen des éléments divers qu'il avait trouvés épars dans
+le monde réel, il ait eu l'art d'harmoniser ces éléments au point que la
+vie s'en soit immédiatement emparée. La vie de l'être n'est que
+l'harmonie parfaite de ses parties, comme sa mort n'en est que la
+discordance, et cette harmonie, en vain la raison seule, armée de la
+logique, voudrait-elle la parfaire, elle n'en reproduit que l'image,
+comme un cadavre est l'image d'un corps vivant. .</p>
+<p>Le génie est le souffle créateur qui donne l'harmonie et la vie, qui
+individualise l'abstraction.</p>
+<p>, Caldéron reproduit poétiquement les Créations de la nature.
+Shakespeare surprend le. secret de la nature et crée comme elle.
+Prométhée a dérobé le feu du ciel. -</p>
+<p><pb/></p>
+<p>LE DRAME* . 81</p>
+<p>(1) Voyez page41.</p>
+<p><pb/></p>
+<p>82 CHAPITRE TV. .</p>
+<p>(1) Julius Coesar, Antôny and Cleopàtra.</p>
+<p><pb/></p>
+<p>C'est que Racine et Corneille n'écrivent que de la tête, tandis que
+Shakespeare et Caldéron écrivent du coeur. La réflexion ne comprendra
+pas toujours les premiers, le coeur sentira toujours les seconds (1).</p>
+<p>(1) « D'autres peuvent .écrire de la tête, mais Shakespeare écrivait du
+coeur, et le coeur le comprendra toujours... Aussi ses écrits
+contiennent l'esprit, le parfum, si je puis employer'ce mot, du siècle
+dans lequel il a vécu. » (Washington Irving's Sketch-Book, Mutability of
+Littérature.) -</p>
+<p><pb/></p>
+<p>84- CHAPITRE TV.</p>
+<p><pb/></p>
+<p>THESES.</p>
+<p>ï. L'art né peut être enfermé dans les écoles, et les critiques se sont
+trompés quand ils ont pensé le soumettre â des lois fixés.</p>
+<p>2. Il y a entré la tragédie et le drame la même différence qu'entre</p>
+<p>l'épopée et l'histoire. Tous deux ont leur raison d'être et leur objet
+distinct.</p>
+<p>3. Comme l'art se transforme suivant la marche des idées et la diversité</p>
+<p>des lieux, il était impossible que la tragédie grecque fût jamais
+populaire en France. . ,</p>
+<p>4. La tragédie s'est développée d'une manière toute factice en France.</p>
+<p>5. Les réformateurs du théâtre français, lors de la renaissance, se sont</p>
+<p>isolés de leur époque sans se rapprocher de l'antiquité.</p>
+<p>6. La tragédie classique française n'a pas de place dans l'histoire de</p>
+<p>7. Le Cid est la seule pièce de Corneille ayant une véritable valeur</p>
+<p>8. Les classiques modernes sont plus loin des classiques anciens que</p>
+<p>les romantiques ; Shakespeare et ÇfJderonpia^près de Sophocle et
+d'Euripide que Racine et Corneifl1k\V''-v ' h/\ ~ ' .</p>
+    </div>
+    </body>
+  </text>
+</TEI>

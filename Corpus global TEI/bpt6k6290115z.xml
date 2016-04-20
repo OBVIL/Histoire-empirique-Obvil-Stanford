@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Grimod de La Reynière, Alexandre-Balthazar-Laurent (1758-1837)">Alexandre-Balthazar-Laurent Grimod de La Reynière</author>
+<title>Lorgnette philosophique trouvée par un R. P. capucin sous les arcades du Palais-royal, et présentée au public par un célibataire.... Partie 1</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Grimod de La Reynière, Alexandre-Balthazar-Laurent (1758-1837)</author>, <title>Lorgnette philosophique trouvée par un R. P. capucin sous les arcades du Palais-royal, et présentée au public par un célibataire.... Partie 1</title>, <date>1785</date>,description :,172 pages
+</bibl>
+<publisher>l'auteur (Londres)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k6290115z</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1785">1785</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/></p>
+<p>LORGNETTE PHILOSOPHIQUE.</p>
+<p>Premiere Partie m ..m m. I I m</p>
+<p><pb/></p>
+<p>NOMS DES LIBRAIRES, Chez lesquels on trouve également le presnt Ouvrage.</p>
+<p>Veuve DUCHESNE t rue S. Jacques.</p>
+<p>BAI LL Y, rue Saint-Honoré.</p>
+<p>MÉRIGOT jeune, quai des Augultins.</p>
+<p>Veuve ESPRIT , au Palais-Royal.</p>
+<p>BELIN, rue Saint-Jacques.</p>
+<p>BRU NET, rue de Marivaux.</p>
+<p>GUILLOT, rue S. Jacques.</p>
+<p>PETIT, Quai de Gêvres.</p>
+<p>eus SAC. rue du Vieux Colombier.</p>
+<p>PICHARD, quai des Théatins.</p>
+<p>D v » O 1S , pacage du Perron , au Palais-Royal.</p>
+<p><pb/></p>
+<p>LORGNETTE PHILOSOPHIQUE, Trouvée par un R. P. Capucin sous les Arcades
+du Palais - Royal, &amp; présentée au Public Par un CÉLIBATAIRE.</p>
+<p>PREMIERE PARTIE.</p>
+<p>-Difficile est propric communia dicere HOR.</p>
+<p>A LONDRES, Et st trouv* ii PARIS , Ches t'AUTEUR, Rue des Champs Elyftes*</p>
+<p>M. DCC. LXXXV.</p>
+<p><pb/></p>
+<p>Avis des Libraires.</p>
+<p>c</p>
+<p>ET Op'ifci'!c oui plaira neut être aux</p>
+<p>Nous avons préféré de l'imprimer dans le format petit in-12, tant pour
+la fatisfaâion du Public ( qui paroît donner ?ujourd'hui la préférence
+aux éditions Lilliputiennes, ) qu'afin de pouvoir l'établir au prix
+modique de a liv. Sf. les i vol. broches , prix auquel beaucoup de
+personnes peuvent atteindre, &amp;': que nous conserverons irrévocablement
+même dans les éditions subséquentes.</p>
+<p>La souscription pour le Journal de Neufchatel , annoncée au revers du
+frontispice des Réflexions , ell toujours ouverte chez L'AUTEUR
+seulement, au prix de 24 liv. franc de port par tout le Royaume. Il fera
+distribué incessamment un Prospectus raisonné de cet Ouvrage, regretté
+du Public, &amp; que l'on peut regarder comme une continuation du JourILll
+Jes Théâtres,</p>
+<p><pb/></p>
+<p>PRÉFACE D V</p>
+<p>CAPUCIN.</p>
+<p>M E promenant l'au.</p>
+<p>tre jour au Palais Royal vers le foir , comme c'en ma coutume, je sentis
+rouler fous mes pieds quelque chose. En y faisant plus d'attention,</p>
+<p><pb/></p>
+<p>je m'apperçus que c'étoit un rouleau de papiers.</p>
+<p>Aussi avide fureteur de Bouquins que d'autres pourroient l'être de
+Jolies femmes, je m'empressai de ramasser celuici , &amp; j'abrégeai ma
+promenade pour jouir plutôt de ma découverte. Ren.</p>
+<p>tré dans ma Cellule , je feuilletai bien vite mon</p>
+<p><pb/></p>
+<p>petit trésor, &amp; je crus m'appercevoir qu'il ne me feroic pas inutile.</p>
+<p>L'Ouvrage paroissoitêtre du seiziéme siecle par le caractere de
+l'écriture ; mais tout ce qu'il contenoic pouvoit s'appliquer au
+dix-huitiéme. Ce rapprochement piqua ma curiosité. Je me hâtai de
+transcrire ce</p>
+<p><pb/></p>
+<p>D'abord le titre manquoit absolument, Se l'on fait que dans ce siecle
+philosophique , où la loquacité du raisonnement a remplacé le génie de
+l'invention , ce n'est pas une chose aisée que d'ima-</p>
+<p><pb/></p>
+<p>giner un titre piquant.</p>
+<p>Ce premier obstacle, j'en fais ici l'aveu ? re-</p>
+<p><pb/></p>
+<p>buta ma paresse Naturellement ennemi du travail , il far - niente est ma
+plus douce occupation, &amp; celle qui s'accorde le mieux avec mon cara&amp;ere.
+D'ailleurs il ne falloit pas feulement imaginer un titre au manuscrit
+donc le hasard m'avoit rendu possesseur ; l'Ouvrage</p>
+<p><pb/></p>
+<p>En un mot, j'avois trouvé un assez bon tableau,</p>
+<p><pb/></p>
+<p>mais il avoit besoin d'une bordure travaillée avec art pour réussir
+auprès des connoisseurs.</p>
+<p>Ces réflexions rabattirent beaucoup de ma joie,&amp; refroidirent toutà-fait
+mon zele. J'aurois Volontiers fait au Public un cadeau dont sa
+reconnoissance auroit bien su me dédomma-</p>
+<p><pb/></p>
+<p>ger ; mais je ne voulois pour cela prendre aucune peine : semblable à
+beaucoup de gens, je ne faisois cas du produit qu'autant qu'il n'étoit
+pas une fuite du travailDans ces circonstances j'appris qu'il existoit à
+Paris &amp; non loin de notre Couvent, un Jeune-homme, qui ache-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>le bon tems étoit paffé.</p>
+<p>Souvent dupe, presque toujours malheureux , &amp; cependant rarement plaint
+, le Célibataire avoit pris la ferme réfo.</p>
+<p>lution de ne plus imprimer que Ces pro pres Ouvrages; trois éditions
+consécutives d'un petit Opuscule moral , que tout le monde a voulu</p>
+<p><pb/></p>
+<p>Il me reçut honnêtement, me conta ses malheurs, m'expliqua ses</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>me, réveiller Ton ardeur, &amp; ranimer en lui cet amour de la vertu, &amp;
+cette haine profonde du vice, que neuf mois de silence sembloient avoir
+endormis.</p>
+<p>Je ne me trompai pas tout-à-fait. Lorsque je fus le revoir , il parut
+desirer que l'Ouvrage fût imprimé ; mais il</p>
+<p><pb/></p>
+<p>On dit que les Capucins font de braves gens, &amp;</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ce d'un Capucin) parut l'ébranler , il promit tout &amp; tint davantage.</p>
+<p>Cela m'a prouvé, entr'autres choses, qu'il ne vit guère dans la
+Bonnecompagnie , où l'on fait ordinairement tout le contraire; car,
+lorsque je retournai pour l'encourager dans son travail, je le trouvai
+entièrement</p>
+<p><pb/></p>
+<p>terminé , &amp;même enrichi de notes, &amp; autres petites fournitures en usage
+dans les salades foidisant philosophiques.</p>
+<p><pb/></p>
+<p>niere honnête d'apprendre au Public ce donc il est nécessaire de
+l'informer pour qu'il y comprenne quelque chose.</p>
+<p>La feconde , que je l'imprimerois aux dé- pens des son ds de notre
+Communauté, dont il se chargeoit feulement de faire les avances fous
+notre garantie solidaire.</p>
+<p>L Part. B</p>
+<p><pb/></p>
+<p>J'espere que le Public ne fera pas repentir le Célibataire de son
+honnêteté, ni moi de ma confiance.</p>
+<p>Il est tems de le laisser</p>
+<p><pb/></p>
+<p>Je ne finirai point cette Capucinade sans prévenir le Public que FOu-</p>
+<p><pb/></p>
+<p>vrage que nous lui donnons est véritablement fort ancien , ce que j'ore
+lui certiifer, foi de Capucin indigne. En conséquence nous nous
+emprefîons de désavouer toutes clefs, interprétations malignes,
+portraits satyriques ou aplications personnelles que l'on pourroit en
+faire. Dans</p>
+<p><pb/></p>
+<p>tous les siecles &amp; dans tous les pays les hommes onc eu les mêmes
+passions &amp; les mêmes vices.</p>
+<p>La forme feule en avarié, &amp; les mœurs ont toujours été subordonnées aux
+caracteres, dans la même proportion que les modes le font aux capri.</p>
+<p>ces qui les enfantent.</p>
+<p>Cela rne conduiroit na-</p>
+<p><pb/></p>
+<p>I K. L.</p>
+<p><pb/></p>
+<p>François, l'Histoire de la Lorgnette, que nous offrons aujourd'hui au
+Public.</p>
+<p><pb/></p>
+<p>de l'usage que nous prétendons en faire.</p>
+<p>Lorsqu'on publie un Ouvrage, il faut se dépêcher de faire la part de
+l'Envie, comme l'on fait en Angkterre la bourse des Voleurs. Heureux si
+elle ne s'attache qu'aux préliminaires, ou qu'elle attende pour mordre
+le Livre, que le Public en aitdéterminé le succès. Nous osons l'ef-</p>
+<p><pb/></p>
+<p>pérer d'autant mieux , que ce n'est pas aux productions indifférentes
+qu'elle s'attache préférablement.</p>
+<p>Que ce titre foit bisarre, impertinent ou ridicule, ce n'est plus
+notreaffaire ; il fuflit qu'il stimule la curiosité , &amp; qu'il donne
+envie de lire l'Ouvrage.</p>
+<p><pb/></p>
+<p>Vous nous avez accusés de</p>
+<p><pb/></p>
+<p>cynisme 6c d'impudence dans nos Réfléxionx sur le Plaisir; c'elt en
+partie pour nous disculper de ce reproche, que nous vous livrons cet
+Opuscule ; nous espérons qu'après l'avoir lu, vous louerez notre
+politefle antécédente &amp; notre indulgence primitive.</p>
+<p>Le Capucin, dans sa Préface , n'a pu vous apprendre le nom du premier
+Auteur de la Lorgnette. Nous ne fammes pas plus savans ni mieux</p>
+<p><pb/></p>
+<p>informés. Mais quand nous le saurions, nous n'en garderions pas moins le
+silence, &amp; vous devinez bien pourquoi.</p>
+<p><pb/></p>
+<p>satisfaisant pour nous , 6c plus que nous n'aurions jamais osé nous
+promettre de notre zele 6c de nos foins.</p>
+<p>Quoi qu'il en foit &gt; que la</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>EN fait de personnalités ôc d'applications, l'on ne con-</p>
+<p><pb/></p>
+<p>noît point en France de principes certains, ôc d'après lesquels on
+puisse asseoir un laifannement. Essayons d'en poser quelques-uns.</p>
+<p><pb/></p>
+<p>voulons fâcher personne.</p>
+<p>Il s'agit feulement de savoir où le pinceau de l'obfervatcur peut
+s'arrêter sans blesser les convenances faciales , &amp; si la Satyre qu'on a
+trop souvent affet-It-4 de confondre avec la calomnie, n'a pas des
+droits aussi sacrés qu'imprescriptibles.</p>
+<p>Despréaux , qui en ce genre comme en beaucoup d'autres , fera toujours
+un modelé unique &amp; un législateur respecable , Def-</p>
+<p><pb/></p>
+<p>préaux nous a prouvé que la Satyre differe du libelle autant que la
+franchise est éloignée de l'adulation. Il a par Tes Ouvrages immortels ,
+posé les bornes du genre, 6c lorsque l'on a lu Perse, Martial, Horace, &amp;
+sur-tout Juvénal, on doit convenir que le Poëce François a plutôt
+resserré que franchi les limites de son empire.</p>
+<p>Laissons donc aux Philosophes modernes le foia de prouver que le Chantre du</p>
+<p><pb/></p>
+<p>Lutrin est un Poëce sans feu, sans verve &amp; sans fecondi* lé ( 1) ;.</p>
+<p>(1 ) Fy i,redion de M. Marmontel, Secrétaire perpétuel de l'Acad. Franç.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>On fait qu'Aristophane avoit étendu ses droits beaucoup plus loin ; mais
+il écrivoit dans une République, &amp; le Théâtre d'Athènes n'était pas
+gouverné par des Archontes.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>de Ces Caractères. Jamais cependant ce grand Moraliste n'a essuyé de
+persécutions, &amp; son généreux courage n'a point eu d'autres revers à
+soutenir que la haine des sots y &amp; la rage impuiflante de ceux qu'il
+avoit peints dans ses Ouvrages.</p>
+<p>D'après ces exemples fameux, qui osera douter &amp; des droits du
+Philofoplie observateur, &amp; de l'étendue de son domaine, &amp; de la liberté
+de sa puissance ? Tout est</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>( i ) Nous ferions tentés de croire qu'il y a quelque mystere caché (ous
+cette dénomination, &amp; que ces trois Messsieurs ne font qu'une même pec*
+sonne, Note des Editeurs,</p>
+<p><pb/></p>
+<p>AVIS AU LECTEU R.</p>
+<p>pose autant de chapitres. Noufr avons été temis d'abord de Juivre* cette
+marche ; mais réfléchifjmt</p>
+<p><pb/></p>
+<p>qu'un peu de confujlon jetteroit en ii. t.,ne-teins de la variété dans
+un Ouvrage , que son peu d'étendue dijémjè d'être méthodique; que de
+cette diversitê de matières naîtraient peut-être des contrastes piquans
+, souvent agréables par leur originalité, nous avons préféré de ne
+suivre aucun ordre régulier , &amp; le Légijlateur du Par11llffe, lui- même,
+semble nous avoir tracé cette route lordquil dit dans son Art poétique ,
+Voulez-vous du Public mériter les amours Sans cesse en écrivant variez
+vos discours; Un style trop égal &amp; toujours uniforme, En vain brille à
+nos yeux : il faut qu'il nous endorme.</p>
+<p>Nous nous eflimerons très-heureux</p>
+<p><pb/></p>
+<p>si la peur d'un mal ne nous a pas conduits dans un pire, &amp; si, au lieu
+d'endormir les Lecteurs blâsés, nous n'avons pas tenus peut-ltre un peu
+trop éveillés les Lecteurs difficiles.</p>
+<p>Un Ecrivain qui lâche un Ou.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>gemens de MM. les Composîteurs n la feuille, nous apprendra i f nous
+avons réussi dans nos projets, &amp; si le fiel diflillé dans l'absinthe
+dont nous avons assaisonné notre Lorgnette, a paru mitigé convenablement
+par les ingrédiens plus doux que nous avons tâché de répandre dans sa
+confection.</p>
+<p><pb/></p>
+<p>Dernier Préliminaire.</p>
+<p>LA justification de cet Ouvrage ayant forcé de laisser un blanc dans cet
+endroit , nous nous empressons de le rem.</p>
+<p>pu comme certaines gens mal intentionnés ont voulu le faire croire :
+mais que la vue du pauvre Célibataire , fatiguée par l'exercice
+continuel de (a Lorgnette , a besoin de Ce repoftr quelque tems pour
+recouvrer sa perfi).* cacité naturelle.</p>
+<p><pb/></p>
+<p>LORGNETTE PHILOSOPHIQUE.</p>
+<p>f '-&gt; il ne vois que les sots heureux dans le monde. Ils ne sentent
+point ce qu'on leur dit ; ils admirent tout, ou ils n'admirçnt rien. Ils
+n'ont point d'envieux » point d'inquiétude. Ils se contentent de tous
+les plaisis ; ils parviennent aux plus grandes dignitis s &amp; font
+ordinairement les</p>
+<p><pb/></p>
+<p>plus riches. Modigr voudroit n'avoir jamais écrit, &amp; être tout-à-fait sot.</p>
+<p>1- 3 -&gt; L'univers peut se comparer à</p>
+<p><pb/></p>
+<p>une grande salle de Bal. Les fats en font les honneurs; ils y rient, ils
+y dansent, ils y boivent. Les fages au contraire se tiennent fous le
+masque dans un coin, observant tout, ne disant mot , &amp; braquant de tous
+côtés leur Lorgnette pliilofophique.</p>
+<p><pb/></p>
+<p>Médecin » un Prédicateur, ou un Avocat.</p>
+<p>Les mots anciens font refpcéhlbJes parce qu'ils naquirent des besoins.
+Les mots nouveaux font ridicules parce qu'ils naissent des superfluités.
+Quoi de plus insupportable que le dictionnaire d'un Petit-Maître ou
+d'une Coquette , c'est-à-dire des trois quarts des gens avec lesquels on
+est obligé de vivre ?</p>
+<p>(-6.) Bien des gens se taisent par</p>
+<p><pb/></p>
+<p>C- 7 -: D La vraie modestie est rare, mais on la retrouve encore quels</p>
+<p><pb/></p>
+<p>quefois même chez les Auteurs.</p>
+<p>La fausse est tout-à-fàit passée de mode , parce qu'on a reconnu qu'elle
+n'étoit autre chose qu'un rafinement d'orgueil , &amp; qu'en ce genre il
+vaut encore mieux être vain de bonne foi, que modeste avec hypocrisie.</p>
+<p>Il ajoute qu'il est le Poëte du siecle, le génie par excellence, &amp; que
+ses Ouvrages refleront.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>tant rafiné sur les ragoûts, tant retourné les meubles &amp; les ajustemens,
+que rassasiés, épuisés &amp; excédés de jolies choses, nous.</p>
+<p>Ee 10 * La vérité n'et f réellement belle que lorsqu'elle est nue. Mais
+on l'a tant ornée de pompons , d'agrémens &amp; de fanferluches, qu'on en a
+fait une mafcandc.</p>
+<p><pb/></p>
+<p>12 Les gens du monde d'aujourd'hui ne nous offrent que différentes
+manieres d'être durs 5 on rafïne sur l'avarice &amp; l'inhumanité, comme
+l'on rafinoit autrefois sur la douceur &amp; la bienfaisance.</p>
+<p><pb/></p>
+<p>C i-t § Quelques phrases décousues, quelques exclamations hors daeuvre,
+quelques traits hardis, quelques faillies libertines, quel-</p>
+<p><pb/></p>
+<p>C' 'S *3 Je voudrois qu'il fut d'usage d'appcller un bon Auteur Votre
+Excellence, &amp; la plupart des Grands, Votre Impertinence.</p>
+<p>Chaque animal ne doit-il pas avoir un nom qui le caraétérife r 6 Tout ce
+qu'on chante doit</p>
+<p><pb/></p>
+<p>être noté, tout ce qu'on dit doit être imprimé : c'est le génie du
+siecle. On dresse une manufacture de livres de musique &amp; de philosophie,
+comme l'on établit une Fabrique de Draps, d'Indiennes ou de Sparterie.</p>
+<p>C- is 0 1 Quelle efl cette espece de petit singe tout vieux &amp; tout</p>
+<p><pb/></p>
+<p>E 19 -&gt; Il n'y a point de rapfodics qu'on n'ait mises en histoire ,
+point de fermons qu'on n'ait refondus en discours moraux.</p>
+<p><pb/></p>
+<p>point de roman qui n'aie produit des élégies, des chansons &amp; des
+épigrammes. En vérité , les boutiques de nos .Libraires ne font plus
+guère aujourd'hui que des magasins de sottises.</p>
+<p><pb/></p>
+<p>bon goût, faute de pouvoir imaginer des extravagances nouvelles.</p>
+<p>21 J'entre dans un cercle composé de l'élite de la bonne Compagnie.
+J'entends parler ThlAtr.</p>
+<p>par des gens qui ignorent les premieres relIe. de l'Art dramatique ;
+jouissances par des impuiflans ; politique par des ignorans ; finance
+par des gens ruinés 1 guerre par des Abbés ; économie rurale par des
+femmes galantes. Je fors au plutôt, 5e croit ouir des Eunuques dif-</p>
+<p><pb/></p>
+<p>ferter sur les plaisirs du Sérail, ou des Quinie- Vingts juger les
+tableaux du Sallon.</p>
+<p>€~3~ Les nOfflS d'Homere de Virgile</p>
+<p><pb/></p>
+<p>C- 21 * Ridax se félicite de ses belles connoitlances. Fils d'un
+Bourgeois enrichi, il se trouve dans le centre du plus beau monde.</p>
+<p>Il est admis aux pétits soupers,</p>
+<p><pb/></p>
+<p>Mais on crie cet alphabet bien plus haut, &amp; on le répete bien</p>
+<p><pb/></p>
+<p>*26* Tout est enthousiasme chez certains peuples &amp; chez certaines gens.
+ils ne parlent &amp; n'écrivent que par exclamations. Ils se font un jargon
+de tous les superlatifs, &amp; les matieres qu'ils traitent font à-coup-sûr
+des riens.</p>
+<p><pb/></p>
+<p>qu'on veut peindre de grands sentimens ou des affections vives, il faut
+néceftairemcnt avoir recours aux termes les plus simples, &amp; la douleur
+dit plus que le désespoir.</p>
+<p>$2$$ Il y a dea villes entieres qu'on pourroit nommer deç Ménageries. On
+ne voit que du poil &amp; du plumage de couleurs différentes. L'on n'y
+entend que siffle, bai'l., &amp; hurler. Et l'un n'y attrape ,que des coups
+de bcc &amp; de griffes. Sanèrlo, par exemple ca de ce nombre,</p>
+<p><pb/></p>
+<p>fo 29 4 Lorgnez les Sirapiens entre cinq &amp; six heures du foir, &amp; vous
+douterez s'ils méritent le nom d'hommes. Je leur pardonne cependant de
+courir le matin toute la ville en courtauts de boutique, &amp; de paroître
+Seigneurs l'après-midi. Il est juste d'aller gagner le matin de quoi
+s'habiller le foir; &amp; ce n'est pas d'aujourd'hui que le luxe efl
+alimenté par l'industrie. Car nous n'ofcrions lui donner son véritable
+nom depuis que tant d'honnêtes gens se mêlent de l'exercer.</p>
+<p><pb/></p>
+<p>C- 30 &gt; Il y a des pays où les hommes font comme des abricots.</p>
+<p>On ne les choiSit jamais dans leur point de maturité. On les met en
+place , ou trep jeunes?</p>
+<p>ou trop vieux.</p>
+<p>3* La Jalousie est la plus terrible passion qui puisse agiter un cœur
+sensible , &amp; à-coup -sur celle qui rend le plus iot un homme d'cfprit.
+Le moyen de s'en guérir est de tâcher de se faire une raison de certaines</p>
+<p><pb/></p>
+<p>choses, &amp; sur-tout d'éviter de s'en affurcr.</p>
+<p>$32$ On a dit que les Moines ré.</p>
+<p>vérencieux croient comme des cruches qui ne se baissoient que pourfe
+remplir. On pourroit appliquer la même comparaison aux Courtisans qui
+font plus demandeurs, moins meritans que les Moines, &amp; à-coup-sûr bien
+plus inutiles.</p>
+<p>£ 3? 3* Le véritable Amour est trèsrare , &amp; l'on fait que depuis</p>
+<p><pb/></p>
+<p>long-tems le pauvre compagnon Fut enterré sur les bords du Ligncn.</p>
+<p>Mais il est remplacé par un sentiment faux , exagéré , vicieux &amp;
+pufillanimc. On dcfire une femme sans l'aimer , comme on la posi"tdc
+sans l'eslimer , &amp; comme on en jouit sans la chérir.</p>
+<p><pb/></p>
+<p>C- 3s -&gt; Lorsque les Femmes ont patté l'âge de plaire , elles enragent,
+&amp; se font dévotes. Il faut qu'elles comptent bien sur l'indulgence de
+Dieu pour lui offrir ainsi ce dont les hommes ne veulent plus.</p>
+<p>C- 36 e Les Femmes font moins fausses qu'on ne se l'imagine. Plus fines
+que diflimulces , plus discretes qu'hypocrites, elles ne se donnent plus
+guère la peine de jouer un sentiment auquel on ne croit plus. Elles font
+coquettes ou.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>qu'une telle Fcre a occupe tout Sirap pendant six mois , &amp; a fait écrire
+vingt brochures ?</p>
+<p>~o~ Tout ce que desire un Marchand , c'est de vendre ; tout ce</p>
+<p><pb/></p>
+<p>que demande un Acheteur, c'est de payer le moins possible; tout ce que
+veut un Grand, c'est de ne pas payer du tout. Nous connoissons une
+ville, où chacun est satisfait felon fun desir ; mais nous nous
+garderons de la nommer.</p>
+<p>£ 41$ Soixante vieux imbccilles se rassemblent tous les jours dans un
+Jardin public pour commenter les gazettes ; armer toutes les Puissances
+; balancer leurs intérêts ; fron d er les opérations des gens en place,
+&amp; régir le</p>
+<p><pb/></p>
+<p>Gouvernement. Le chef renchérit sur tous les autres par son ignorance &amp;
+la profonde opinion qu'il a d? tu)-me.uc. Il me fcinble chaque fois que
+je passe parlà, voir une Oie qui prêche aux dindons.</p>
+<p><pb/></p>
+<p>On a remarqué que les Nations sérieuses aiment les Théâ.</p>
+<p><pb/></p>
+<p>très bouffons, &amp; qu'au contraire les Nations badines prcferent les
+Théâtres graves &amp; austeres. Les Spectales ne plairoient-ils donc à
+l'homme qu'autant qu'ils le tirent hors de luimême ?</p>
+<p><pb/></p>
+<p>lociété également faite pour énerver leur raient &amp; corrompre leurs pei
+sonnes.</p>
+<p><pb/></p>
+<p>de véritables enfans, mais des enfans qui gouvernent le monde.</p>
+<p><pb/></p>
+<p>On m'a appris le nom de ces singuliers individus ; mais je ne le
+répéterai point, parce qu'il ne faut pas tout imprimer.</p>
+<p>Les Grands ont raison de t</p>
+<p><pb/></p>
+<p>faire dire souvent qu'ils ne font pas visibles ; la plupart doivent
+rougir de se faire voir.</p>
+<p><pb/></p>
+<p>vise de prcfque tous les Sirapiens.</p>
+<p>La Coquetterie est aux femmes ce que l'air est aux oiseaux.</p>
+<p>Si cette passion ne fait pas l'éloge de leur esprit , il faut convenir
+au moins qu'elle ne</p>
+<p><pb/></p>
+<p>prouve rien contre leur coeur ; car, à-coup-sur , une Coquette n'en a
+pas &amp; n'en aura jamais.</p>
+<p>&lt; £ H Er rugit adsalices , &amp; Ce cupit ante videri.</p>
+<p>Les Femmes comme l'un voit on~</p>
+<p><pb/></p>
+<p>toujours été les mcmes. Et si nous ne craignions de passer pour mcchans
+, nous offrions ajouter qu'elles font peut-êrre aujourd'hui meilleures
+qu'elles n'ont jamais etc.</p>
+<p><pb/></p>
+<p>ont, pour jouer le rôle d'Er.</p>
+<p>prlt-fort, &amp; nous leur conseil.</p>
+<p>* S6 -&gt; Je marche la tête haute dans les rues de Sirap, &amp; j'y coudoie
+effrontément l'être important que par-tout ailleurs il me faudrait
+feveteft Je ne puis m'empêcher de bénir au « dedans de moi ce Pavé
+philcfophique qui rétablit lifta l'égalité parmi les hommes.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>lent aujourd'hui depuis le 27 Novembre jusqu'au 19 Février.</p>
+<p>Ah ! pourquoi f faut-il donc tout vous dire?</p>
+<p>%Ï9 Il y a des Hommes folem-</p>
+<p><pb/></p>
+<p>acia qui semblent toujours représenter une décoration de Temple ou de
+Théâtre. Ils ne rient jamais, portent la tête haute, Se ne parlent que
+par ientence. Ils donnent leurs avis comme des ordres, ôc battent des
+mains pour applaudir) comme un Pédant donne des férules.</p>
+<p>Scrupuleux observateurs de l'étiquette qu'ils re font faite, ils favent
+précisément jusqu'où ils doivent reconduire ceux qui les visitent, &amp; de
+combien de lignes courbes doit être une révérence.</p>
+<p>Ils assignent des jours iletirs Habits pour paroître en public »</p>
+<p><pb/></p>
+<p>Ces hommes ont ils du mérite ?</p>
+<p>— Non. De l'esprit ? - Non.</p>
+<p>Du caraélere ? — Non. De la sottise ? Oui j oui, oui; quarante-quatre
+pages d'affirmatifs.</p>
+<p>~.o~o«~ Lorsque vous entendrez dire constamment beaucoup de mal d'un
+Etre quelconque , pariez àcoup-sûr que ce n'efi pas un homme médiocre.
+L'Envie ne s'attache qu'aux talens, comme la Foudre ne tombe que sur les
+grands édifices.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>révérences, ils font faire tout ce qu'ils veulent, &amp; rendent tout le
+monde content.</p>
+<p>e 63 -:,b Soit raison , foit prudence, foit amour de sa confervatlon, la
+fureur des Duels s'est singuliérement rallentie depuis dix ans.</p>
+<p>Vous trouverez dans le monde des gens qui vous soutiendront d'un grand
+fang-froid que c'efl un mal, &amp; que l'on est beaucoup moins poli depuis
+qu'on ne s'entr'égor- ge plus si fou vent. Pour moi, excepté ces
+Spadassins tolérés qui f; décorent du nom de Maître en</p>
+<p><pb/></p>
+<p>fait d'armes, je ne vois perfonnc qui puisse raisonnablement soutenir
+une pareille thcfe.</p>
+<p>Ç 54 On se plaint de la multitude des Ouvrages nouveaux &amp; du grand
+nombre des Auteurs, l'on a tort. Quel mal en r&lt;.' ru Irc-t-il ?</p>
+<p><pb/></p>
+<p>6 Il cft du bon ton de déclamer aujourd'hui contre le beau Siecle de
+Louis XIV. L'on afsecte de répéter que les Ouvrages qu'il a produits
+manquent ab.</p>
+<p><pb/></p>
+<p>~07~ On a tellement abusé de la Significaticn des mots, &amp; dé-</p>
+<p><pb/></p>
+<p>nature leur acception réciproque, que l'on est aujourd'hui le Serviteur
+de tout le monde sans que pour cela on serve en effet réellement pprfonne.</p>
+<p>Ç 68$</p>
+<p>Je plains mes Enfans qui ont de l'esprit, dit Clorinde ; car s'ils
+étoient des sots, ils fercient fortune comme leur Oncle : grande vérité
+que l'exemple ccnfirme malheureusement tous les jours.</p>
+<p>C- 69 -:&gt; Les Pliilofophes qui ne veu-</p>
+<p><pb/></p>
+<p>1- 7 0 -&gt;.</p>
+<p><pb/></p>
+<p>* 71 -On déclame souvent contre les Moines, &amp; l'on a tort. Ils vivent de
+leurs biens; fructifient par la consommation territoriale le pays qu'ils
+habitent ; font » en général, instruits, obliger 11, humains,
+hospitaliers; que ceux qui leur jettent la pierre se rendent justice A
+leur tour, &amp; l'on cessera bientôt d'injurier &amp; de poursuivre ccs pauvres
+Solitaires.</p>
+<p>Cm 72 0&gt; On compte, dans Sirap seul, Quarante millions d'argent employés
+en Boucles de souliers.</p>
+<p><pb/></p>
+<p>Il nous semble que ce PhiJofophe juge les Sirepiennes avec bien de
+l'indulgence , car nous connoissons beaucoup de gens</p>
+<p><pb/></p>
+<p>qui n' y ont encore trouve ni l'une ni l'autre.</p>
+<p>C-7Y e Lorsque je vois dans le beau Jardin des Illuirethes un faquin de
+Marbrier savonner Brutus *</p>
+<p><pb/></p>
+<p>faire la barbe au vieux Anchise, &amp; fouiller de ses grossiers
+attouchemens la chaste Lucrece ; je ne puis m'empêcher de plaindre le
+fort de ces Héros infortunés , que cant de gloire auroit dû préferv er,
+ce me sèmble, d'une destinée aufli malencontreuse.</p>
+<p><pb/></p>
+<p>mais s'il faut la chercher dans une tournure libertine , une misc
+provoquante , &amp; un minois chiffonné , nous conviendrons volontiers que
+presque toutes les Sirapiennes font Jolies.</p>
+<p><pb/></p>
+<p>$78$ Cléante entraîné dans une partie de jeu , &amp; friponné par</p>
+<p><pb/></p>
+<p>des Messieurs de Bonne - com- pagnie, n'a pu depuis huit jours,
+s'acquitter encore toutà-fait d'une perte immense * qui doit déranger sa
+fortune &amp; ruiner ses Créanciers : SaintFirmin , qui, par une erreur de
+nom, se trouve avoir reçu de province une Lettre-de-change dcftince pour
+un autre, en profite sans scrupule, trouve moyen de se la faire payer ,
+même avant l'échéance, &amp; tourne la chose en plaisanterie lorsque le Pot
+aux lofts d1 découvert. On demande lequel de Cléante ou de Saint-Firmin
+a le plus de droits</p>
+<p><pb/></p>
+<p>convenons aussi qu'il doit regner entre toutes une connexité réciproque
+, indispensable pour l'harmonie de tout régime social.</p>
+<p>(*) Que l'on prenne garde que nous ne disons pas des Honnêtes gens, car
+alors il n'y auroit plus de Problème.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>C'est le moment des Parties, &amp; le lieu le plus commode pour tous les
+arrangemens de cette nature. Ce genre de coquetterie, qui n'a lieu que
+depuis quelques années , &amp; dont les Etrangers font Couvent dupes &amp;
+victimes, a fait en peu de tems des progrès rapides. Enfin nous
+connoissons telles Femmes, qui calcu lant bien leur Journée, &amp; fachant à
+une heure près le prix du tems, n'arrivent au Spectacle que lorsque les
+autres en fartent. Cela peut s'appeller, je crois, faire ses Affaira
+avec précision.</p>
+<p><pb/></p>
+<p>Te1 Homme s'estime malheu.</p>
+<p>reux parce qu'il n'a que 30000 livres de rente, &amp; que dix Valets pour le
+servir : tel autre avec cent pifloles de revenu se croit au comble dù
+bonheur. Tous deux peuvent avoir raison , parce que tout est relatif,
+dans ce meilleur des Mondes possibles.</p>
+<p>C- 8 s -&gt; Ce n'est guère que dans les grandes villes, qu'un Philosophe
+peut exercer avec fruit le talent d'observer. Tout y est pour lui</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>font agréables, &amp; moins il semble qu'on les habite : cette manie ne
+feroit-elle pas une nouvelle preuve de la contradiction qui regne entre
+nos Mœurs &amp; nos Actions ?</p>
+<p>ou faut-il soupçonner qu'en se fuyant eux-mêmes, nos Grands suivent pour
+la premiere fois, peut-être, l'impulsion irrésistible de leur conscience ?</p>
+<p>^•89^ Si les Gens de lettres vouloient s'accorder entr'eux , il est
+certain qu'ils gouverneroient le monde. Quand se persuaderont-ils donc
+enfin de la nécessité d'être unis ? De leur concorde naîtra</p>
+<p><pb/></p>
+<p>toujours leur considération &amp; leur force : c'et f une vérité dont les
+gens du monde font tellement persuadés , qu'ils ne négligent aucuns
+moyens pour brouiller les Auteurs ; &amp; il faut leur rendre cette juflice,
+ils y réussissent souvent , &amp; savent tirer de cette désunion , un
+merveilleux parti.</p>
+<p><pb/></p>
+<p>lettres, &amp; le fecond aux gens du monde. L'homme de bien se retrouve
+volontiers avec lui-même; Il n'en est ras ainli des autres.</p>
+<p>Ee 91</p>
+<p>Il est une Politesse plus humiliante que la fierté, c'est celle des
+Grands. Mais je ne vois plus guère que les gens du petit peuple qui
+veulent bien encore y croire. Pour peu que l'on ait quelque connoissance
+du monde, &amp; sur-tout de la Cour, l'on fait apprécier ces simagrées bêtes
+&amp; sottes inventées par l'Orgueil pour dispenser d'être honnête.</p>
+<p><pb/></p>
+<p>Fontenelle disoit : Lorsqu'un Grand veut se familiariser avec moi, je le
+repousse avec le Refpeft. Jç fuis plus franc ou plus cynique que
+Fontenelle; car j'avoue que je les repousse avec d'autres armes !.</p>
+<p>£ 53$ Honestè vivere ; altetum non lædere; ruum cuique tribuendi :
+Maximes fondamentales de la conduite d'un galant - homme ; mais vous ne
+trouverez à-coupsur aucun de ces principes dans le Catéchisme, &amp; moins
+encore peut-être dans le cœur de MM. les gens du Monde.</p>
+<p><pb/></p>
+<p>P4 L'on asMe de mépriser l'Univerfité aussi-tôt qu'on en eil dehors , &amp;
+de traiter dans le monde de Pédans, ceux qui conservent encore
+quelques-uns des bons principes puisés dans le fein de cette mere à
+jamais respectable. Cependant un bon Observateur muni d'une Lorgnette
+trèsordinaire, trouvera , je crois, plus de Pédans au milieu de la
+Bonne-compagnie, que dans tout le Pays Latin ; &amp; certainement les
+premiers font bien plus insupportables, &amp; à-coup-sûr bien plus sots que
+les autres.</p>
+<p><pb/></p>
+<p>Qèos &amp; L'Education publique fcrnit assurément celle qui convicndroit le
+mieux aux gens du monde s'ils savoient en profiter.</p>
+<p>Elle entretient l'Emulation, développe l'Esprit, forme le Caractère , &amp;
+polit les Mœurs. Je voudrois feulement que les Maîtres n'oubliaffent pas
+si Couvent, que , dans les Collèges, l'égaliré doit être la baie de
+l'infirudion morale , &amp; qu'un PRINCE Ecolier ne vaut mieux que ses
+Camarades , qu'autant qu'il les surpasse en connoissances &amp; en vertu.</p>
+<p>Ce qui, félon notre Lorgnette, a toujours été fort rare.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>£ î&gt;7 *5 Aux Disputes littéraires qui partageoient autrefois les Cassés
+de Sirap , &amp; les métamorphosoient en autant de Foyers d'instruction, ont
+succédé des Disputes politiques qui ennuyent tous les gens d'esprit, &amp;
+n'apprennent rien aux autres. Après un Joueur je ne connois rien de plus
+bête ni de plus complettement foc qu'un Nouvelliflt; il me semble voir
+un Enfant jetter des pierres contre un mur, ou bien un Lilliputien
+essayer de mouvoir un Rocher.</p>
+<p><pb/></p>
+<p>Îrp8 On se plaint de n'avoir plus ni bonnes Pieces ni de bons Acteurs.
+On voudroit voir naître tous les dix ans un le Kain, un Prdville, une
+Saint-Val, un Aufrefnc, un Molé, &amp; un Moliere. Mais il nous semble,
+qu'avant tout, il faudroit commencer par former un Public; car celui qui
+fréquente aujourd'hui nos Spectacles, n'est, â-coup-sûr, lui-même en
+état de former personne.</p>
+<p>C- 99 Defprcaux est le Poëte des Gens de lettres , Corneille</p>
+<p><pb/></p>
+<p>celui des Héros ; Racine, celui des Ames fcnfiblcs; M. de Voltaire, des
+cnfans &amp; des femmes.</p>
+<p>ioo Il y a vingt ans que j'entends louer M. de Voltaire, &amp; le louer
+d'une manière aussi exclusive que révoltante. Je ne puis m'accoutumer à
+ces éloges immodérés qui rendront la postérité très-ré.</p>
+<p>vete sur le compte de cet homme</p>
+<p><pb/></p>
+<p>célébre; &amp; dût-on m'accuser de barbarie , j'aimerois mieux avoir fait
+Rhadamiste, que toutes les Tragédies de l'Auteur d'Irene.</p>
+<p>E 101 * Dans un siecle qui re pique de Raison , de Philosophie , &amp;
+principalement de Gofit , dans un siecle qui a remplacé immédiatement
+celui de Louis XIV, dans le dix-huitième siecle, enfin ( puifqu'il faut
+l'appeller par son nom ) un misérable Chantre de Bergeries a osé dans je
+ne fais quel Poeme, proclamer M. de Voltaire, Vainqueur des deux Rivaux
+qui partagent U Secne.</p>
+<p><pb/></p>
+<p>Les Gens de lettres se font aflerrw blés pour décider quelle efpcce de
+punition méritoit un tel blaspheme. Plusieurs opinoient pour une
+amende-honorable aux pieds des tombeaux de Corneille &amp; de Racine ;
+d'autres plus indulgens confeilloicnt feulement l'Ellebore ; mais avant
+que la délibération fût finie , l'on reçut par I9 petite Poste la
+nouvelle que le Blasphémateur venoit d'être élu Membre de la premiere
+Académie des Sirapiens.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>~'10~t~</p>
+<p>La Bienfaisance Aéjîntcrejjee est la plus aimable des vertus, mais c'est
+aussi la plus rare.</p>
+<p>Combien de gens ne donnent qu'afin qu'on le fâche , &amp; qui, lorsqu'ils
+ont laissé échapper un écu de leurs mains avares, cou-</p>
+<p><pb/></p>
+<p>rent faire enregistrer leur aumône dans le plus insipide, le plus niais
+, le plus plat , mais par une conséquence néceCfaire , le plus lu des
+Journaux Sirapiens.</p>
+<p>€•107$ L'on compte, l'un portant l'autre, Quatorze Accidens par jour
+occafionncs dans les rues de Sirap par les Voitures. De ces quatorze
+accidens mettons qu'il n'y en ait que jix de mortels , ( &amp; il y en a
+davantage, ) cela fait donc par an Deux mille cent quatre-vingt-dix
+citoyens d'immolés au plaisir barbare d'aller en Carrosse. Ceci,</p>
+<p><pb/></p>
+<p>je crois, n'a pas bcfoi n de commentaire.</p>
+<p><pb/></p>
+<p>0 10 9 Je ne connois pas au monde de meilleur peuple que les SIRAPIENS.
+Ils font doux, honnêtes ,obligeans , confians , spirituels &amp;
+hofpiraliers. On les accuse d'être intérêts &amp; defians, cela peut ltrc ;
+j'ai remarqué cependant que ceux qui leur faifoicnt cc reproche ,
+manquoient rarement de les rendre leurs dupes.</p>
+<p>$II0«3 Un homme d'esprit a dit assez ptaifàmment, que présenter des
+ouvrages a la plupart des Libraires ) c'est offrir des couleurs</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>E 113 * C'est une chose étonnante que la facilité avec laquelle les
+Marchands de Sirap accordent</p>
+<p><pb/></p>
+<p>S? 114^ Le Grand monde change les Passions, comme le grand air les
+liqueurs spiritueuses ; il leur enleve leur énergie ,</p>
+<p><pb/></p>
+<p>&amp; ne leur laifle que leur amertume.</p>
+<p>ù 6</p>
+<p><pb/></p>
+<p>c- 117 '9 C'est moins souvent encore l'avarice que la crainte de se
+compromettre , qui empêche de Secourir les malheureux. On ne voit que
+pusillanimité lorsqu'il s'agit de venir au secours d'un</p>
+<p><pb/></p>
+<p>opprimé , &amp; l'on craint plus d'offcnfer un Grand , que l'on ne desire
+faire une bonne action.</p>
+<p><pb/></p>
+<p>tête tant foit peu raifonnablc.</p>
+<p>Un coup-d'œil sur les moyens d'obtenir les faveurs de la Fortune, ou
+feulement un regard sur la plupart de ceux qui les possédent, ne doit-il
+pas suffire pour dégoûter.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>son Amour-propre que sa Aloddlic.</p>
+<p>12 Cigogne a le col long, la démarche niaise i l'œil hebété.</p>
+<p><pb/></p>
+<p>que d'être complettement sot J la Tienne est assurée.</p>
+<p>124.</p>
+<p>Je manque d'appétit aux DU ners de la prétendue Bonnecompagnie , &amp; je
+dévore aux Tables d'hôte. J'ai cherché long.</p>
+<p>tems la raison de cette préférence (que la qualité des mets ne peut
+justifier même au Nom de Jesus (4),) &amp; je crois l'avoir enfin trouvée.
+Ne feroit-ce point parce que la contrainte énerve l'appé-</p>
+<p>(4) Le Nom de Jesus lit la meilleure Auberge de Pari» , pour le maiyre £
+t le rendez-vous de toute la NobieHc du quartier r.lontof&lt;;ued ei riiM
+adjacenm les Vendredi S Samedi de chaque fematne. Cette Maison tenue
+auionr.l'h''¡ par Madame la Veuve Rouard. est digne a rouI rearci» des
+succès dont elle jouit depuis Icine-tsiTU.</p>
+<p>voyrï pour le surplus la troisiéme édition du Fi'fltmtns Philefefhiqucs
+sur ta Plaisir, patc S4.</p>
+<p><pb/></p>
+<p>tit , &amp; que la liberté le développe f Il est tout simple que l'on mange
+beaucoup avec des gens qu'on ne connoît pas, &amp; très-naturel que l'on ne
+mange pas du tout avec ceux qu'on connoît trop bien.</p>
+<p>4* 126 -&gt; Si la Consomption &gt; l'Ennui,</p>
+<p><pb/></p>
+<p>c- 127 e DuU-je me faire siffler par tous les gens de Bonne - com-</p>
+<p><pb/></p>
+<p>c- 128 Les Comédiens se plaignent des Auteurs , les Auteurs se plaignent
+des Comédiens; c'etf une dispute interminable &amp; qui</p>
+<p><pb/></p>
+<p>ne cessera , je crois, que lorsque les premiers pourront rencontrer de
+bonnes pieces, &amp; les autres se procurer de bons Acteurs.</p>
+<p>e: J29 -:&gt; Y a-t-il rien de plus beau dans la nature que le coup-d'œil
+de la HALLE de Sirap l'Eté, vers trois ou quatre heures du matin ri
+C'est l'assemblage des dons les plus brillans de Pomone &amp; de Flore.
+C'est le résultat de toutes les richesses des pays les plus fertiles ;
+l'Univers entier apporte ses trésors aux pieds des Sirapiens, qui,
+plongés dans un</p>
+<p><pb/></p>
+<p>profond sommeil, reçoivent ce tribut confiant &amp; diurne avec une
+indifférence que je ferois fort tenté de nommer ingratitude.</p>
+<p><pb/></p>
+<p>font fortis de leur à-plomb ; &amp; je crains que des deux côtés ils n'aient
+perdu l'équilibre.</p>
+<p>131 Oronte a pris une maîtresse. Ce n'ell sûrement pas lu beauté qui l'a
+guidé dans son choix, il suffit de voir cet objet préféré pour en être
+convaincu. Ce n'est pas non plus l'esprit, il suffit de l'entendre pour
+en être persuadé. Qui donc a pu séduire Oronte ? Cest ce que nous
+apprendrons de luimême lorsqu'il aura cessé d'être amoureux ; ou ( ce
+qui revient à-peu-près au même ) lorsqu'il aura recouvré l'usage de la vue.</p>
+<p><pb/></p>
+<p>13 2 Il n'y a point de pays au monde où les Femmes soient plus coquettes
+qu'àSirap , &amp; je ne crois pas qu'il y en ait en même-tcms un où les
+maris soient plus tranquilles. Cette bénignité tiendroit.</p>
+<p><pb/></p>
+<p>€"33$ Autres Questions pour les Amateurs. Pourquoi l'amour retrécit-il
+toutes les facultés, même en doublant l'énergie de leurs sensations ?
+Pourquoi fait - il presque toujours un sot d'un homme d'esprit, tandis
+qu'il pro.</p>
+<p>duit sur les femmes l'effet contraire ? Pourquoi enfin le moment de
+l'aveu est - il celui du déclin de la passion la plus ardente ? Allons
+MM. les Concoureurs, évertuez-vous.</p>
+<p><pb/></p>
+<p>se trouver au bout de trente années d'observation &amp; de travaux, la dupe
+du premier minois chiffonné qui voudra s'amuser de lui. Le cœur de ce
+sexe. aimable est un abyme immense, mais dont les bords font enchantés.
+Personne encore, que je fâche, n'a pu en trouver le fond. Ces Dames en
+s'applaudiflànt elles - mêmes ,, rient de nos efforts, &amp; de nous voir
+perdre en méditations vaines un tems qui pourroitmême, auprès d'elles,
+être beaucoup mieux employé ; il est juile d'en convenir.</p>
+<p>C- 13 e -&gt; Ce qui pique le plus une Fem-</p>
+<p><pb/></p>
+<p>me n'est pas précisément le mal qu'on dit d'elle, c'est de savoir qu'on
+n'en parle pas du tout.</p>
+<p>Soyons de bonne foi. cette Réflexion ne peut-elle pas aussi l'appliquer
+un peu aux Auteurs r E 136 -&gt; La Considération que le monde accorde aux
+divers Etats est presque toujours en raison inverse de leur utilité. On
+méprise le Boulanger qui nous nourrit j on flatte le Turcnret qui nous
+dépouille ; on refpeae le grand Seigneur qui nous opprime.</p>
+<p>C- 13 7 UJe n'ai jamais compris coJnoi</p>
+<p><pb/></p>
+<p>Le Son chasse la Pensée , vérité d'un très-grand sens, &amp;qui nous
+explique aussi le goût de beaucoup de gens pour la musique.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>son excellente Comédie des Dchors Trompeurs, l'un des Ouvrages les plus
+estimables qu'on ait mis depuis long-tems au Thlâtre.</p>
+<p>Nous y renvoyons les incrédules.</p>
+<p>e 141 &gt; Un Proverbe Persan dit qu'on reçoit l'homme félon l'habit qu'il
+port e, &amp; qu'on le recon-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>pour impoli, ou de ne rien faire.</p>
+<p>Il est vrai, qu'après tout, les sots ne font pas obligés de connoître le
+prix du tems, &amp; moins encore celui d'un homme d'esprit que d'un autre.</p>
+<p>144 Méfiez-vous des caresses des</p>
+<p><pb/></p>
+<p>gens du monde, elles font intéressées &amp; perfides , souvent l'un Se
+l'autre : Experto crede Roberto.</p>
+<p><pb/></p>
+<p>ques, consulté par les puHrances.</p>
+<p>Un Sot faym cil sot plu* qu'un Sot igooranc* x, Fin de la premiere
+Partie. ,.</p>
+<p>!</p>
+    </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Boissier, Gaston (1823-1908)">Gaston Boissier</author>
+<title>Le poète Attius : étude sur la tragédie latine pendant la République : thèse présentée à la Faculté des lettres de Paris / par G. Boissier,...</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Boissier, Gaston (1823-1908)</author>, <title>Le poète Attius : étude sur la tragédie latine pendant la République : thèse présentée à la Faculté des lettres de Paris / par G. Boissier,...</title>, <date>1857</date>,description :,150 pages
+</bibl>
+<publisher>E. Giraud (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k5544501p</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1857">1857</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LE</p>
+<p>POETE ATTIUS</p>
+<p>ÉTUDE</p>
+<p>SUR LA TRAGÉDIE LATINE</p>
+<p>PENDANT LA REPUBLIQUE</p>
+<p><pb/></p>
+<p>Paris. - Imprimerie P.-A. BOURDIER et Ce, rue Mazarine, 30.</p>
+<p><pb/></p>
+<p>LE</p>
+<p>POETE ATTIUS</p>
+<p>ÉTUDE</p>
+<p>SUR LA TRAGÉDIE LATINE</p>
+<p>PENDANT LA REPUBLIQUE</p>
+<p>PAR</p>
+<p>GASTON BOISSIER</p>
+<p>ANCIEN ÉLÈVE DE L'ÉCOLE NORMALE</p>
+<p>PROFESSEUR DE RHÉTORIQUE AU LYCÉE DE NIMES.</p>
+<p>DOCTEUR ES LETTRES.</p>
+<p>PARIS</p>
+<p>ETIENNE GIRAUD, LIBRAIRE</p>
+<p>Rue Dauphine, 6</p>
+<p>NIIMES LOUIS GIRAUD, LIBRAIRE</p>
+<p>Boulevard Saint-Antoine</p>
+<p>1857</p>
+<p>Reserve de tous droits de reproduction et de traduction.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>A M. PATIN,</p>
+<p>MEMBRE DE L'ACADÉMIE FRANÇAISE,</p>
+<p>PROFESSEUR DE POÉSIE LATINE</p>
+<p>A LA FACULTE DES LETTRES DE PARIS.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>INTRODUCTION</p>
+<p>Horace a donné cet éloge aux poètes latins, qu'ils ont essayé tous les
+genres :</p>
+<p>Nil intentatum nostri liquere poetae 1 ;</p>
+<p>1 Hor., De Art. poet., 283.</p>
+<p><pb/></p>
+<p>- 4 -</p>
+<p>1 A. Gelle,N. A. XVII, 21. «Et, Pacuvio jam sene, Attius.» - 2
+L'aventure racontée par Valère-Maxime ( III, 7, 1 1) prouve qu'il savait
+conserver sa dignité dans ces relations délicates, et qu'il n'essayait
+pas de gagner la faveur des grands par les moyens ordinaires aux
+rhéteurs et aux sophistes grecs, parasites éhontés des grandes maisons.
+- 3 Cic, Pro Arch., X. - 4 Cic, Philipp., X, 4. - 5 Voir surtout Vell.
+Paterc, I, 18.</p>
+<p><pb/></p>
+<p>1 Vell. Patt., loc. cit.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LE</p>
+<p>POETE ATTIUS</p>
+<p>ÉTUDE</p>
+<p>SUR LA TRAGÉDIE LATINE</p>
+<p>PENDANT LA RÉPUBLIQUE.</p>
+<p>CHAPITRE PREMIER.</p>
+<p>OPINION DES ANCIENS SUR LA TRAGÉDIE LATINE.</p>
+<p>A défaut des savants ouvrages que Varron avait composés sur cette
+matière et qui sont perdus, Cicéron suffit pour nous apprendre l'opinion
+de ses contemporains. Nous voyons qu'il ressent pour les poètes tragi-</p>
+<p><pb/></p>
+<p>- 8 -</p>
+<p>sur1 De opt. gen., 6 : «Ennium, Pacuvium et Attium potius quam Euripidem
+et Sophoclem legunt. » Id , De fin., I, 2.</p>
+<p><pb/></p>
+<p>- 9 -</p>
+<p>1 Cic. Tusc, I, 2. - 2 Id., De fin., I, 2. - 3 Id., ad Her., I, 14. II,
+13. -4 Hor., Sat. I, 10, 55:</p>
+<p>Quum de se loquitur non ut majore reprensis.</p>
+<p><pb/></p>
+<p>- 10 -</p>
+<p>Il est certain qu'au moment où écrivait Horace une connaissance plus
+approfondie des lettres grecques avait rendu le goût plus éclairé et
+plus difficile. En même temps, avec l'empire qui naissait, on
+s'éloignait de l'austérité et de la rudesse républicaines. Les habitudes
+devenaient plus délicates, les manières plus recherchées, la vie plus
+élégante. Dans la société, on ne s'accommodait plus de cette urbanité
+rustique que Cicéron prisait tant; dans les lettres, on trouvait les
+vieux auteurs négligés et grossiers. C'était l'opinion d'Horace et celle
+aussi d'une partie de ses contemporains.</p>
+<p>Mais l'opinion contraire avait encore des partisans nombreux et
+passionnés, qui s'en tenaient aux écrivains du temps passé et ne
+voulaient pas admirer les gloires nouvelles. Ce sentiment était
+habilement entretenu par les ennemis d'Horace, qui trouvaient commode de
+le combattre par ses devanciers. C'est ainsi que la question devint pour
+lui toute personnelle, et que, pour se</p>
+<p>1 Virg., Egl., VIII, 10, - 2 Quint., I, 8. - 2Tac, De Orat. dial. XXI.</p>
+<p><pb/></p>
+<p>- 11 -</p>
+<p>1 Hor., Epist. II, 1, 80. - 2 Quint., X, 1 : « Ab Horatio dissentio qui
+Lucilium fluere lutulentum et esse aliquid quod tollere possis putat.
+Etc.» - 3 Hor., Epist. II, 1, 66 et 67. - 4 Hor., Ars poet., 262.- 5
+Hor., Epist., II, 1, 167.</p>
+<p><pb/></p>
+<p>- 12 -</p>
+<p>1 Hor., Epist. II. 1, 78:</p>
+<p>Nec veniam antiquis, sed honorem et praemia posci.</p>
+<p>- 2 Hor., Epist. II, 1, 165:</p>
+<p>Et placuit sibi, natura sublimis et acer.</p>
+<p>- 3 Hor., Ars poet., 886 et sq. - 4 Hor., Epist. II, 1, 166. - 5Quint.,
+X, 1.</p>
+<p><pb/></p>
+<p>- 13 -</p>
+<p>1 Seneq., (ap. A. Gell., XII, 2. ) : « Ut Ennianus populus agnosceret in
+novo carmine antiquitatis aliquid. » -2 Quint., VIII, 3.</p>
+<p><pb/></p>
+<p>- 14 -</p>
+<p>doute, qu'il se montre reconnaissant pour eux, et qu'il leur promet
+libéralement l'immortalité:</p>
+<p>Ennius arte carens, animosique Attius oris Casurum nullo tempore nomen
+habent 1.</p>
+<p>1 Ovid" Amor.,I, 15.- 2 Tac, De Orat.dial.,XXII.- 3 Id.XX : «Veternum
+Attii et Pacuvii; » Perse, I, 76: « Venosus liber Atti... verrucosa
+Antiopa. » -4 Pers., loc. cit. - 3 Mart., XI, 90:</p>
+<p>Attonitusque legts terrai frugiferaï, Attius et quidquid Pacuviusque
+vomunt.</p>
+<p><pb/></p>
+<p>- 15 -</p>
+<p>brillent plus par le génie naturel que par le travail, que leurs
+ouvrages sont souvent rudes et imparfaits. C'était, dit-il, moins leur
+faute que celle de leur époque. Mais, en revanche, il loue chez eux
+l'élévation des pensées, la gravité du style, la grandeur des
+caractères, et il recommande d'aller chercher dans leurs ouvrages cette
+noblesse de sentiments, cette énergie virile, sanctitas et virilitas,
+que son siècle ne connaît plus '.</p>
+<p>1Quint., I, 8, et X, 1. - 2 T. L., VII, 2. - 3 Cic, Tusc, I, 16.</p>
+<p><pb/></p>
+<p>- 16 -</p>
+<p>1 Cic, De fin., V, 22; - de Amic, 7. - 2 Cic, pro Sext., 50. - 2 Cic, ad
+Att. epist., II, 19.</p>
+<p><pb/></p>
+<p>- 17 -</p>
+<p>Tullius, qui libertatem civibus stabiliverat 2.</p>
+<p>2</p>
+<p><pb/></p>
+<p>- 18 -</p>
+<p>1 Suet., in Aug., LXXXIX.</p>
+<p><pb/></p>
+<p>CHAPITRE II.</p>
+<p>DU CARACTERE DES PRINCIPAUX POETES TRAGIQUES LATINS.</p>
+<p>I. Ennius et Pacuvius.</p>
+<p>Les écrivains latins, en nous faisant connaître le succès de la tragédie
+latine, nous donnent de précieuses indications sur le caractère et le
+talent des poètes qui y ont réussi. C'est d'ordinaire en les comparant
+qu'ils les distinguent, et ils les opposent entre eux pour mieux faire
+ressortir leurs qualités par le contraste. Il ne sera donc pas inutile,
+si nous voulons bien saisir la physionomie d'Attius, d'esquisser
+rapidement celle de ses devanciers.</p>
+<p>1 Hor., Epist., II, 1, 70. - 2 Cic, Brut., XVIII.</p>
+<p><pb/></p>
+<p>- 20 -</p>
+<p>1 Cic, De Senect., V. - 2 Hor., Epist., I, 19, 7 :</p>
+<p>Ennius ipse pater nunquam, nisi potus, ad arma Prosiluit dicenda.</p>
+<p>- 3 Cat., De re rust., V. - 4 Enn., Telam., 2. Je citerai, dans le cours
+de ce travail, les tragiques latins d'après la nouvelle édition publiée
+par M. Otto Ribbeck. Leips., 1852.</p>
+<p><pb/></p>
+<p>- 21 -</p>
+<p>1 Cic, ad Her.,IV, 4. - 2 Il introduit dans ses satires (Non. V,
+Propinare) un interlocuteur qui lui parle ainsi :</p>
+<p>Enni poeta, salve, qui mortalibus Versus propinas flammeos medullitus.</p>
+<p><pb/></p>
+<p>- 22 -</p>
+<p>Quidquam quisquam cuiquam quod conveniat neget2. Stultu'st qui cupita
+cupiens cupienter cupit 3.</p>
+<p>Pacuvius forme avec Ennius un parfait contraste.</p>
+<p>1 Cic, Orat., XI : « Ennio delector, ait quispiam, quod non discedit a
+communi more verborum; Pacuvio, inquit alius... multa apud alterum
+negligentius. » - 2 Enn., tac, 55. - » Enn., Phoenix, 1. - 4 A. Gelle,
+XVIII, 5.</p>
+<p><pb/></p>
+<p>- 23 -</p>
+<p>Il nous est plus facile de vérifier ce que disent les anciens du soin de
+l'expression chez Pacuvius : « Tous ses vers, dit Cicéron, sont élégants
+et travaillés 5. » Et, en effet, on en trouve un grand nombre où ce
+travail est manifeste. Tels sont, par exemple, ces vers de l'Atalante :</p>
+<p>Vultum alligat quae tristities?... Quae aegritudo insolens mentem
+attentat tuam 6 ?</p>
+<p>Celui-ci, que les poètes postérieurs n'ont pas dédaigné d'imiter :</p>
+<p>Nunc primum opacat flore lanugo genas 7.</p>
+<p>1 Pline, Hist. nat., XXXV, 4. - 2 Varron, dans A. Gelle, VII, 14 : «
+Uberis dignilas atque amplitudo est.» -3 Cic, ad Her., IV, 4. - 4A.
+Gelle, I, 24. -3 Cic, Orat., XI. - 6 Pacuv., Atal., 11 et 12. - 7
+Pacuv., inc, 10.</p>
+<p><pb/></p>
+<p>- 24 -</p>
+<p>Cedo tamen pedem tuum Iymphis flavis, flavum ut pulverem Manibus isdem,
+quibus Ulixi saepe permulsi, abluam, Lassitudinemque minuam manuiim
+mollitudine 1.</p>
+<p>1 Pac, Niptra, I, et A. Gelle, II, 26. - 2 Cic, Brut., LXXIV.</p>
+<p><pb/></p>
+<p>- 25 -</p>
+<p>II. Attius. - La tragédie d'Atrée.</p>
+<p>1 Cic , ad Herenn., II, 27. - 2 Pacuv., Chrys., 6. - 5 Cic, De Opt.
+gen., I : « Itaque licet dicere et Ennium summum epicum poetam, et, cui
+ita videtur, Pacuvium tragicum, et Caecilium fortasse comicum. »</p>
+<p><pb/></p>
+<p>- 26 -</p>
+<p>Nous avons quelques fragments de cette tragédie d'Atrée qui fut
+peut-être le premier ouvrage d'Attius; cherchons si nous y pourrons
+trouver la trace des qualités et des défauts que Pacuviùs signalait. 1</p>
+<p>1 A. Gelle, XIII, 2. - 2 Inc. inc. fab. 55 :</p>
+<p>En impero Argis, sceptra mini liquit Pelops, Qua Ponto ab Helles atque
+ab Ionio mari Urgetur isthmus.</p>
+<p>3 Att., Atrée, 7 et 8. - 4 AU., Atrée, 3 :</p>
+<p>Iterum Thyestes Atreum attractatum advenit, Iterum jam adgreditur me et
+quietum exsuscitat. Major mini moles, majus miscendum'st malum Qui illus
+acerbum cor contundam et comprimant.</p>
+<p><pb/></p>
+<p>- 27 -</p>
+<p>« Att., Atrée, 4 et 5. - 2 Att., Atrée, 12. - 3 Att., Atrée, 13. - 4
+Att., Atrée, 14. - 5 AU., Atrée, 10 ; incert. Att., 1 ; Atrée, 46 et 17 :</p>
+<p>Ne cum tyranno quisquam, epulandi gratia</p>
+<p>Accumbat mensam auteamdem vescatur dapem...</p>
+<p>Multi iniqui atque infideles regno, pauci benivoli...</p>
+<p>Ipsus hortatur me frater ut meos malis miser</p>
+<p>Manderem natos...</p>
+<p>Egone Argivum imperium attingam, aut Pelopia digner domo?</p>
+<p>Quo me ostendam? quod templum adeam? quem ore funesto alloquar?</p>
+<p><pb/></p>
+<p>- 28 -</p>
+<p>1 Att., Atrée, 15. - 2 Att., Atrée, 18. -3 Cic, De Orat., III, 58. - 4
+Quint., X, 1.</p>
+<p><pb/></p>
+<p>- 29 -</p>
+<p>1 Ovid.. Am., I, 15.-2 Hor., Epist., Il, 1,56.- 3 Vell. Pat., II, 9.</p>
+<p><pb/></p>
+<p>CHAPITRE III.</p>
+<p>DES OUVRAGES D' ATTIUS.</p>
+<p>1 Hier., in Chron. Euseb. -2 Cic, Brut., XXVIII. - 3 Donat, De tragoedia
+et comoedia (Térenc Lemaire, I, XLIII), laisse entendre qu'il avait
+écrit des comédies, mais il n'en reste aucune trace. - 4 Voir la
+singulière hypothèse de M. Osann (Analect. critic., etc. Berlin, 1816),
+si victorieusement réfutée par M. Madwig (Opusc. academ.,I, 87).</p>
+<p><pb/></p>
+<p>- 31 -</p>
+<p><pb/></p>
+<p>- 32 -</p>
+<p>1 Nonius (V. Mertaret.), Accius Antenoridis... Idem Deiphobo.</p>
+<p><pb/></p>
+<p>- 33 -</p>
+<p>1 Cic, Tusc, II, 11.</p>
+<p><pb/></p>
+<p>- 34 -</p>
+<p>En présence de toutes ces raisons, et surtout de l'affirmation
+catégorique de Cicéron, je suis peu ému, je l'avoue, d'un texte de
+Nonius, qui, citant un de ces vers, l'attribue au Prométhée d'Attius 3.
+Pour expliquer ce texte, Mercier 4 suppose que Cicéron peut avoir
+transporté dans sa traduction une belle expression d'Attius. Et, en</p>
+<p>1 Cic, Tusc, II, 8... « Voces apud Sopboclem in trachiniis... » ; 10, «
+Veniat AEschylus ».- 2 Cic, De divin., I, 11. -3 Non. (V. Adulat.).- 4
+Merc, in Non., 93.</p>
+<p><pb/></p>
+<p>- 35 -</p>
+<p>Néanmoins, en supprimant avec une sévère critique toutes les pièces que
+les divers éditeurs ont eu tort de ranger sous le nom d'Attius, il nous
+reste encore de lui les titres de 46 ou 4T tragédies, et on peut
+supposer qu'ils ne nous sont pas tous parvenus. Une pareille fécondité
+donne, il faut le reconnaître, quelque fondement aux reproches d'Horace
+qui accuse tous ces vieux poètes de fuir le travail et d'écrire vite;
+Mais le peuple était plus sensible alors au mérite de la nouveauté qu'à</p>
+<p>1 Voir Ribbeck, p. 97 et 268.</p>
+<p><pb/></p>
+<p>- 36 -</p>
+<p>celui de la perfection, et les édiles réclamaient sans cesse des pièces
+nouvelles.</p>
+<p>Avant d'examiner les fragments de ces pièces, arrêtons-nous un moment à
+leurs titres. On peut prendre, rien qu'en les parcourant, une idée du
+théâtre d'Attius, et voir de quel côté son génie et le goût du public le
+portaient.</p>
+<p><pb/></p>
+<p>- 37 -</p>
+<p>memnon. Il a tiré huit tragédies de la guerre de Thèbes et des faits qui
+s'y rattachent ; ce sont : les Phéniciennes, l'Antigone, la Thébaïde, le
+Ménalippe, les Épigones, l'Alcmoeon, l'Alphésibée et l'Ériphyle. Mais
+aucun événement n'a plus souvent inspiré Attius que la guerre de Troie ;
+il y a pris le sujet de quatorze pièces. Quelquesunes représentent le
+sort des Troyens après la chute de leur patrie, Déiphobe assassiné, les
+malheurs d'Hécube et d'Ilione, Andromaque essayant de défendre son fils,
+tandis que Troie s'abîme au milieu des tonnerres et des tourbillons 1.
+D'autres, remontant plus haut, nous font assister aux attaques des
+Grecs, aux luttes que Troie soutint avant de périr, et tirent tout leur
+intérêt du tableau de la guerre et des combats.</p>
+<p>sou1 Troad., 2. - 2 Pacuv., Arm. judic, 13.</p>
+<p><pb/></p>
+<p>- 38 -</p>
+<p>1 Enn., Iphig., 3, et Att., Telephe, 2. - 2 Att., Epinaus., 9. - 3 Att.,
+Nycteg. - 4 Enn., Hect. lustra, 9:</p>
+<p>AEs sonit, franguntur hastae, terra sudat sanguine. - 5 Att., Epinaus.,
+11 :</p>
+<p>Martes armis duo congressos crederes. -6 Pacuv., Niptra, 10. - 7 Att ,
+Epinaus., 13.</p>
+<p><pb/></p>
+<p>CHAPITRE IV.</p>
+<p>DE LIMITATION DES POETES GRECS DANS LA TRAGEDIE D'ATTIUS.</p>
+<p>I. Comment les poètes latins imitaient-ils les Grecs?</p>
+<p>La première question qu'on se fait quand on étudie les tragiques latins,
+c'est de se demander quelle était chez eux la part de l'imitation et
+celle de l'originalité.</p>
+<p>Ces deux affirmations si opposées s'expliquent cependant, quand on
+regarde de près les fragments qui nous restent de la tragédie latine.
+Nous sommes d'abord frappés d'en trouver un certain nombre où le poète
+s'efforce visiblement de suivre l'auteur grec ; il se contente de le
+traduire, et c'est une curieuse élude que de voir comment il y réussit.
+D'ordinaire il efface les expressions colorées, il supprime ou abrège de
+gracieux détails, il</p>
+<p>1 Cic, De fin., 1, 2.- 2 Cic, Acad., I, 3.</p>
+<p><pb/></p>
+<p>- 40 -</p>
+<p>Quod est ante pedes nemo spectat, coeli scrutantur plagas 2.</p>
+<p>Tantôt, ne se contentant plus d'amplifier son texte, le poète latin y
+joint librement ses propres idées. Dans</p>
+<p>1 Eurip., Iphig., 936. -2 Enn., Iphig., 8.</p>
+<p><pb/></p>
+<p>- 41 -</p>
+<p>Je sais bien que quelques critiques allemands 4 expliquent ces
+différences que l'on trouve entre le modèle et la copie en supposant que
+les pièces grecques ont eu</p>
+<p>1 Enn., Hecub., 3 : Heu me miserum! interii : pergunt lavere sanguem
+sanguine.</p>
+<p>- 2 Enn., Hecub., 10 :</p>
+<p>Juppiler tibi summe tandem maie re gesta gratulor !</p>
+<p>- 3 Enn., Iphig., 9 :</p>
+<p>Acherunlem nunc obibo, ub mortis thesauri objacent.</p>
+<p>- 4 Osann., Analec. crit., etc., ch. V, VI et VII.</p>
+<p><pb/></p>
+<p>- 42 -</p>
+<p>1 Diom., III : « Latini scriptores quoque plures personas in fabulis
+introduxere, ut spatiosiores frequentia facerent. »</p>
+<p><pb/></p>
+<p>- 43 -</p>
+<p><pb/></p>
+<p>- 44 -</p>
+<p>Vos qui regalis corporis custodias Agitatis 2.</p>
+<p>Qu'il y a loin de ces soldats si pompeusement interpellés aux humbles
+serviteurs qui, chez Sophocle et Euripide, font les affaires des rois
+grecs I</p>
+<p>1 Enn., Médée, 5, et Patin, Étud. sur les trag., II, 388. - 2 Naevius,
+Lycurg., 5. - 3 Enn., Iphig., 7, et Att., Arm.jud,, 10.</p>
+<p><pb/></p>
+<p>- 45 -</p>
+<p>Quae tibi in concubio verecunde et modice morem gerit 2.</p>
+<p>1 Eurip., Hec, 829. - 2 Enn., Hec., 9.</p>
+<p><pb/></p>
+<p>- 46 -</p>
+<p>contentent de les indiquer, Rien n'est plus éloigné de leur esprit que
+ce soin de faire ressortir, en la condensant, une situation théâtrale;
+Au contraire, ils la développent avec calme, comme pour nous en faire
+jouir plus longtemps. Chez les Romains, la première condition du succès
+était de frapper fortement les spectateurs. Aussi les poètes
+recherchaient-ils des scènes plus vives et ces coups de théâtre qui
+saisissent même un public distrait. M. Patin 1 l'a fait remarquer à
+propos de ce beau combat d'amitié dans l'Iphigénie en Tauride. Pacuvius
+a rendu la scène bien plus vive qu'Euripide. Elle n'est plus chez lui
+une discussion solitaire, où les deux amis pèsent leurs raisons avec
+calme et solennité. C'est en présence de Thoas que la querelle s'élève
+et au moment même du sacrifice. « Quelles acclamations retentissent au
+théâtre, dit Cicéron, quand on entend ces mots : Je suis Oreste ! et que
+l'autre répond : Non, c'est moi qui suis Oreste ! et lorsqu'enfin ils
+font cesser les incertitudes du fui qui ne sait lequel choisir, en
+demandant tous deux la mort 2 ! »</p>
+<p>fessor1 Étude sur les trag. grecs, III, 304. - 2 Cic, De fin., V, 22</p>
+<p><pb/></p>
+<p>- 47 -</p>
+<p><pb/></p>
+<p>- 48 -</p>
+<p>1 Cic, Tusc, II, 21 : « Pacuvius hoc melius quam Sophocles ». - 2 Cic,
+pro Rabir. post., XI. - 3 Par exemple, il n'y a rien dans le</p>
+<p><pb/></p>
+<p>- 49 -</p>
+<p>dans Euripide, avec autant de violence que dans ce beau vers des
+Phéniciennes d'Attius :</p>
+<p>Egredere, exi, effer te, elimina urbe 1 !</p>
+<p>grec d'aussi vif que ces deux vers cités par Cicéron (Tusc, IV, 36):</p>
+<p>Quis homo te exsuperavit unquam gentium impudentia? - Quis tête autem
+malitia ?</p>
+<p>1 Att., Phoeniss., 7. - 2 Enn., Cresph.; 3 :</p>
+<p>Injuria abs te afficior indigna, pater. Nam si improbum esse Cresphontem
+existimaveras, Cur me huic locabas nuptiis ? Sin est probus, Cur talem
+invitam invitum cogis linquere?</p>
+<p>4</p>
+<p><pb/></p>
+<p>- 60 -</p>
+<p>1 Plaut., Stich., I, 2, 72:</p>
+<p>Nam aut olim, nisi tibi placebant, non datas oportuit, Aut nunc non
+oequum 'st abduci, pater, illisce absentibus.</p>
+<p>- 2 Ennius (Andr., 2) avait joué sur le sens du mot Andromaque en grec;
+Varron le lui reproche, parce que cette étymologie n'était pas claire en
+latin. Varr., De ling. lat, VII, 82, Ed. Egger</p>
+<p><pb/></p>
+<p>- 51 -</p>
+<p>1 Hor., Epist., II, 1, 166.</p>
+<p><pb/></p>
+<p>- 52 -</p>
+<p>c'est Cicéron qui nous l'apprend 1 ; et il semble que quelque chose de
+cette différence subsiste jusque dans leurs fragments mutilés. Ils
+avaient donc chacun une figure distincte qu'ils ne tenaient pas de leur
+modèle, c'est-à-dire que, malgré leurs imitations, ils étaient jusqu'à
+un certain point originaux.</p>
+<p>II. De l'invention dans les pièces d'Attius.</p>
+<p>1 Cic, De orat., III, 7 : « Quam sunt inter sese Ennius, Pacuvius ,
+Attiusque dissimiles! »</p>
+<p><pb/></p>
+<p>- 53 -</p>
+<p><pb/></p>
+<p>- 54 -</p>
+<p>suivant de plus près le texte, trouver des beautés qu'ils avaient
+négligées. Ainsi, Attius pouvait être nouveau de deux manières : en
+cherchant chez les poètes grecs quelque veine moins explorée et en
+modifiant plus librement leurs pièces, c'est-à-dire en étant plus
+imitateur d'un côté, plus original de l'autre.</p>
+<p>Veler fatorum terminus sic jusserat !</p>
+<p><pb/></p>
+<p>comme le docte Pacuvius se sentait entraîné vers les tirades
+philosophiques d'Euripide.</p>
+<p>1 Att., Philoct., 1:</p>
+<p>Inclute, parva prodite patria,</p>
+<p><pb/></p>
+<p>- 56 -</p>
+<p>Nomine celebri claroque potens Pectore, Achivis classibus auctor, Gravis
+Dardaniis gentibus ultor, Laertiade!</p>
+<p>1 Att., Phil., 7:</p>
+<p>. .. Cui potestas si detur, tua Cupienter malis membra discerpat suis.</p>
+<p>- 2 AU., Phil., 6 et 3:</p>
+<p>Contra est eundum cautim et captandum mini... Ubi habet? Urbe, agrone?</p>
+<p>- 3 Varr., De ling. lat., VII, 11 : « Ea enim loca designat quum dicit,
+etc.»</p>
+<p>- 4 Att., Phil., 2:</p>
+<p>Lemnia praesto Littora rara et celsa Cabirum Delubra tenes, mysteria queis</p>
+<p><pb/></p>
+<p>- 57 -</p>
+<p>exPristina consaepta sacris... . . . Volcania templa sub ipsis Collibus,
+in quos delatus locos Dicitur alto ab limine coeli... Nemus expirante
+vapore vides, Unde ignis cluet mortalibus clam Divisus : eum dictus
+Prometheus Clepsisse dolo poenasque Jovi Fato expendisse supremo.</p>
+<p>1 Cette scène d'Eschyle est mentionnée dans Dion-Chrysostôme. Orat.,
+LII.) - 2 Att., Phil., 10 et 11 :</p>
+<p>. . . Pinnigero non armigero in corpore Tela exercentur hoec abjecta
+gloria...</p>
+<p>. . . Jaceo in lecto humido, Quod ejulatu, questu, gemitu, fremitibus
+Resonando mutum flebiles voces refert.</p>
+<p><pb/></p>
+<p>- 58 -</p>
+<p>pressions de Sophocle. Philoctète, apercevant Ulysse, lui demande son
+nom et les motifs de son voyage :</p>
+<p>Quis tu es, mortalis, qui in deserta et tesqua te apportes loca 1?</p>
+<p>Tt'vef JTOT' IÇ y?v riivSs vot.VTÛ.tô nl«.Tr&gt; KaTéff^sr', OÛT' svoppov,
+OÛT' otzov^iévuv 2;</p>
+<p>Et plus loin, lorsque Philoctète, heureux de revoir un</p>
+<p>sauvage :</p>
+<p>Quod te obsecro, aspernabilem Ne haeç toetritudo mea me inculta faxit 3,</p>
+<p>Ka! p4 fi'Sxvoj Ast'&lt;7avTSç ÈxjrayAjJT' àmsypewfiévoii 4.</p>
+<p>1 Att., Philoct., 13.- 2 Soph., Philoct,, 220. -3 Att., Philoct., 11. -
+4 Soph., Philoct., 225. - 5 AEsc., Didot, p. 201.</p>
+<p><pb/></p>
+<p>- 59 -</p>
+<p>des rochers escarpés ! Le mal me dévore. Cette terrible blessure, cet
+ulcère qui me brûle éteignent en moi la vie 1 ! »</p>
+<p>Ainsi l'on entrevoit dans le Philoctète qu'Attius avait complété parfois
+Eschyle par Sophocle. Ce mélange est plus apparent encore dans le
+Jugement des armes. On lit parmi les fragments de la pièce d'Attius le
+vers suivant, lourdement traduit de Sophocle dans les adieux d'Ajax :</p>
+<p>Virtuti sis par, dispar fortunis patris 2 !</p>
+<p>C'est la preuve que la célèbre discussion qui faisait le fonds de la
+tragédie d'Eschyle n'avait pas semblé suffisante au poëte latin, et
+qu'il y avait ajouté sans façon, en manière d'épilogue, la mort d'Ajax,
+d'après Sophocle.</p>
+<p>1 Att., Philoct., 19:</p>
+<p>Heu ! qui saisis fluctibus mandet Me ex sublimo vertice saxi? Jam jam
+absumor ; conficit animam Vis vulneris, ulceris sestus.</p>
+<p>- 2 Att., Arm. judic, 10.</p>
+<p><pb/></p>
+<p>- 60 -</p>
+<p>Rectius Iliacum carmen deducis in actus, etc. 2.</p>
+<p>Travailler ainsi, sans doute, ce n'est pas être complètement original;
+car le fonds des sujets que traitait Attius venait de la Grèce; c'est
+aux poètes grecs qu'il prenait les divers incidents de ses drames, et
+son style</p>
+<p>2 Att., Nyctegr., 6; Hom., Iliad., X, 243. - 2 Hor., Ars poet., 129.</p>
+<p><pb/></p>
+<p>- 61 -</p>
+<p><pb/></p>
+<p>CHAPITRE V.</p>
+<p>DU DÉVELOPPEMENT DE L'INTRIGUE ET DES CARACTÈRES DANS LA TRAGÉDIE D'ATTIUS.</p>
+<p>On né peut parler de la tragédie latine sans que l'esprit ne se reporte
+involontairement aux pièces de Sénèque, qui en sont demeurées le type,
+et ne se demande d'abord s'il n'est pas permis de juger les oeuvres qui
+sont perdues par celles qui restent, et si le théâtre romain n'a pas eu
+le même caractère aux différents moments de son existence.</p>
+<p><pb/></p>
+<p>- 63 -</p>
+<p>stater en même temps qu'elles abondaient de cette qualité qu'un peuple
+illettré cherche avant tout au théâtre.</p>
+<p>na1 Med., I :</p>
+<p>Tanta moles labitur Fremebunda ex alto ingenti sonitu et spiritu.</p>
+<p><pb/></p>
+<p>- 64 -</p>
+<p>L'action ainsi vivement engagée, il n'est guère probable que dans le
+reste de la pièce le poëte la laissât Janguir. Nous le pouvons conclure,
+même de quelques vers isolés, comme celui-ci des Epigones :</p>
+<p>Age, age, amolire, amitte, cave vestem attigas 3!</p>
+<p>Proe se undas volvit, vortices vi suscitat : Ruit prolapsa, pelagus
+respergit, reflat, lta dum interruptum credas nimbum volvier, Dum quod
+sublime ventis expulsum rapi Saxum aut procellis, vel globosos turbines
+Existere ictos undis concursantibus: Nisi quas terrestris pontus strages
+conciet, Aut forte Triton fuscina evertens specus Subter radices penitus
+undanti in freto Molem ex profundo saxeam ad coelum erigit.</p>
+<p>1 Att., Med., 2 :</p>
+<p>Sic aut inciti atque alacres rostris perfremunt Delphini.</p>
+<p>- 2 Att., Med., 3 :</p>
+<p>Silvani melo Consimilem ad auris cantum et auditum refert.</p>
+<p>- 3 Att., Epig., 15.</p>
+<p><pb/></p>
+<p>- 65 - Et le suivant, des Phéniciennes, que j'ai cité plus haut :</p>
+<p>Egredere, exi, effer te, elimina urbe 1 !</p>
+<p>1 Att., Phaeniss., 7. -2 Att., Eurysac., 1 :</p>
+<p>Super Oceaui stagna alta patris Terrarum anfracta revisam.</p>
+<p>- 3 Att., Eurys., 3 et 6:</p>
+<p>Proh Di immortales! Speciem humariam... Invisitatam egregiam, indignam
+clade et squalitudine. Tu mihi autem quod quaero abs te enoda et qui sis
+explica.</p>
+<p>5</p>
+<p><pb/></p>
+<p>- 66 -</p>
+<p>Hiccine est ille Telamo, modo quem gloria ad coelum extulit, Quem
+adspectabant, cujus ob os Graii ora obvertebant sua? - Apud ipsum adstas 2.</p>
+<p>1 Att., Eurys., 7 :</p>
+<p>Nam ea oblectat spes serumnosum hospitem Dum id quod miser est clam esse
+censet alteros.</p>
+<p>Qui alteri exitium parat, Eum scire oportet, sibi paratum pestem ut
+participet parem.</p>
+<p><pb/></p>
+<p>- 67 -</p>
+<p>1 Att., Antig., 5 et 4</p>
+<p>Attat, nisi me fallit in obitu</p>
+<p>Sonitus...</p>
+<p>Heus, vigiles, properate, expergite,</p>
+<p>Pectora tarda sopore, exsurgite!</p>
+<p>- 2 Hor., Ars poet., 180.</p>
+<p><pb/></p>
+<p>- 68 -</p>
+<p>En quel affreux pays Par cinq bouches l'Euxin reçoit le Tanaïs.</p>
+<p><pb/></p>
+<p>- 69 -</p>
+<p>1 Att., Brut. 2.</p>
+<p><pb/></p>
+<p>- 70 -</p>
+<p>aller la trouver, dit quelqu'un dans l'Ilione. Mais la porte s'ouvre 1.
+» Et ces mots : La porte s'ouvre, valvoe sonunt, se retrouvent plusieurs
+fois dans les fragments des autres pièces; ce qui n'indique ni beaucoup
+d'adresse ni une grande variété. Mais si ces imperfections choquaient
+quelques esprits lettrés, Lucilius, par exemple, qui les reprochait à
+Attius, probablement elles n'étaient guère aperçues du public. Il se
+souciait peu que les personnages fussent introduits avec plus ou moins
+de vraisemblance, pourvu que leur arrivée amenât quelqu'une de ces
+scènes dramatiques qui lui plaisaient tant.</p>
+<p><pb/></p>
+<p>- 71 -</p>
+<p>1 Inc. inc, 32 :</p>
+<p>Vidi te, Ulixes, saxo sternentem Hectora,</p>
+<p>Vidi tegentem clipeo classem Doricam :</p>
+<p>Ego tune pudendam trepidus bortabar fugam.</p>
+<p>2 Att., Armor. jud., 5 et 4 :</p>
+<p>Nam tropoeum ferre me a forti viro Pulchrum est : si autem vincar, vinci
+a tali nullum mi est probrum In quo salutis spes supremas sibi babet
+summa exerciti.</p>
+<p>3 Seneq., Controv., X.</p>
+<p><pb/></p>
+<p>- 72 -</p>
+<p>Nunc si me matrem mansues misericordia</p>
+<p>Capsit</p>
+<p>Qui erit, qui non me spernens, incilans probris,</p>
+<p><pb/></p>
+<p>- 73 -</p>
+<p>peut-être, exhalait sa colère contre les Grecs qui sont venus ravager sa
+patrie et dont la cruauté ne peut jamais se rassasier de sang 1. Puis,
+apercevant Hélène, elle la foudroie de ce vers énergique :</p>
+<p>Te propter tot tantasque habemus vastitates funerum 2 !</p>
+<p>Enfin on a remarqué que l'Antigone d'Attius va plus loin que celle de
+Sophocle, et qu'au lieu de ce reproche timide envers les Dieux :</p>
+<p>Ti ypii fis TÀV (WOTTJVOV sèj ôeoùç Irt BAéwsiv 3;</p>
+<p>elle accuse leur indifférence avec un emportement qu'imitera plus tard
+la Didon de Virgile :</p>
+<p>Jamjam Neque regunt Di, neque profecto Deum summus rex omnibus curat .</p>
+<p>Sermone indecorans, turpi fama differet?</p>
+<p>Heu! cor ira fervit caecum, amentia rapior ferorque!</p>
+<p>1 Att., Astyan., 1 et 8. - 2 Att., Astyan., 7.- 3 Soph., Antig., 922. -
+4 AU., Antig., 5. -3 Lessing, Laocoon, 41.</p>
+<p><pb/></p>
+<p>- 74 -</p>
+<p>Heu me miserum, cum baec recordor, cum illos reminiscor dies 1 !</p>
+<p>1 Att, Eurys., 8. - 2 Att., Meleag., 7:</p>
+<p>Remanet gloria apud me, exuvias dignavi Atalantae dare.</p>
+<p>-3 Att., Ath., 7, - 4 Att., Ath., 4 et 5:</p>
+<p>Hostem ut profugiens inimici invadam in manus?... Cujus sit vita
+indecoris, mortem fugere turpem haud convenu.</p>
+<p><pb/></p>
+<p>- 75 -</p>
+<p>sombre et si résolu, qu'il faut placer ce vers, le plus beau peut-être
+et le plus profond qu'ait inspiré le sentiment du remords :</p>
+<p>Veritus sum arbitras, atque utinam memet possim obliscier 1 !</p>
+<p>1 Att., Ath., 2.</p>
+<p><pb/></p>
+<p>CHAPITRE VI.</p>
+<p>DU CARACTERE NATIONAL DE LA TRAGEDIE LATINE.</p>
+<p>1. Tragédies tirées de l'histoire grecque. - Comment les Romains les
+ont-ils accueillies?</p>
+<p><pb/></p>
+<p>- 77 -</p>
+<p><pb/></p>
+<p>- 78 -</p>
+<p>1 Tit.-Liv., VII, 2. Voir, pour l'explication de cet important passage,
+le savant travail de M. Stieve : De rei scenicss apud Romanos origine,
+Berl., 1828. -2 C'est ainsi que l'entend Casaubon, De Satir,
+graec.poes., II, 1 : «Porro fabularum compositione inventa refrixit
+initio satura. »</p>
+<p><pb/></p>
+<p>- 79 -</p>
+<p>J'ajoute que s'il fallait voir dans l'introduction des Atellanes
+l'indice d'une résistance nationale au théâtre</p>
+<p>1 Tit.-Liv., VII, 2 : « Nec ab histrionibus pollui passa est. » - 2 Cic,
+Epist. ad fam., IX, 16. -3 Schol. vet. in Juven., sat. VI: «Ut quidquid
+laerymarum et tristitiae coegissent in tragicis affectibus hujus
+spectaculi ludus detergeret. »</p>
+<p><pb/></p>
+<p>- 80 -</p>
+<p>1 Tit.-Liv., XXVII, 37.- 2 A. Gelle, III, 3.</p>
+<p><pb/></p>
+<p>1 Plaut., Asinar., prol.</p>
+<p><pb/></p>
+<p>- 82 -</p>
+<p>1 Plaut., Ménech., prol.:</p>
+<p>Hoc argumentum graecissat, tamen Non atticissat, verum sicilicissitat.</p>
+<p>- 2 Plaut., Ménech., prol. :</p>
+<p>Atque hoc poetae faciunt in comoediis : Omnes res gestas esse Athenis
+autumant, Quo illud vobis Graecum videatur magis.</p>
+<p><pb/></p>
+<p>- 83 -</p>
+<p>1 Afran., Compit. (Ribbeck, Comic latin, relliq.) :</p>
+<p>Fateor, sumpsi non ab illo modo, Sed ut quisque habuit, conveniret quod
+mihi, Quod me non posse melius facere credidi, Etiam ab latino.</p>
+<p>- Terent., Heautont., prol.</p>
+<p><pb/></p>
+<p>- 84 -</p>
+<p>Contendunt Graecos, Graios memorare soient sos 4.</p>
+<p>de1 Curcul., II, 3, 12. - 2 Plaut., Most., IV, 2, 44.- 3 Plaut., Asin.,
+I, 3, 47. - 4 Festus, qui cite ce vers (p. 445, éd. Dac), l'explique par
+la ressemblance du grec et du latin. Mais Scaliger fait très-justement
+remarquer qu'il est inutile de chercher d'autre explication que</p>
+<p><pb/></p>
+<p>- 85 -</p>
+<p>Quod Graeca lingua longos per temporis tractus Hos pavi.</p>
+<p>1 Bernardi, Mém. de l'Acad. des Insc. et Belles-Lettres, nouvelle série,
+t. 8,1827. - 2 Enn., Ann.:</p>
+<p>Moribus antiquis res stat Romana.</p>
+<p><pb/></p>
+<p>- 86 -</p>
+<p>1 Plut., Cat. - 2 Pline, Hist. nat., XXIX. 7. - 2 Plut., Cat - 4 Pline,
+loc. cit.</p>
+<p><pb/></p>
+<p>- 87 -</p>
+<p>Probablement, il ne fut pas difficile d'exciter ces scru1</p>
+<p>scru1 De fin., 1, 2; Acad, I, 3, - 2 A, Gelle, XI, 2, - 3 Festus, v°
+Spatiator. - 4 Vell. Pat., I, 15. - 3 Val, Max., II, 4.</p>
+<p><pb/></p>
+<p>- 88 -</p>
+<p>volon1 De Orat., II, 14. -8 Cic, De Orat., II, 8. - 8 Cic. De Orat., I,
+58 : « Nec quisquam est qui... non Teucrum Pacuvii malit quant
+Manilianas venalium vendendorum leges ediscere. » - 4 Cic, Orat., LXIII.
+- 5 Cic, De Orat., II, 36 : « Semper ego existimavi jucundiorem et
+probabiliorem huic populo oratorem fore qui primum quam minimal»
+artificii alicujus, deinde nullam Graecarum rerum significationem daret»</p>
+<p><pb/></p>
+<p>- 89 -</p>
+<p>tairement des fautes pour ne point paraître trop savant 1. Cicéron se
+croit obligé, dans ses Verrines, d'appeler une futilité, nugatorium 2 ,
+le goût des beaux-arts, et il se pique de n'y rien entendre. Mais ouvrez
+sa correspondance, et vous verrez quel soin il prend de se faire envoyer
+d'Athènes des Minerves ou des Mercures en marbre pentélique pour orner
+sa bibliothèque 3.</p>
+<p>Que conclure de ces faits, sinon que ce mépris qu'on affectait pour les
+lettres et les arts n'était le plus souvent qu'un mensonge officiel et
+convenu? Il entrait dans le rôle d'un magistrat, ou même d'un citoyen à
+la tribune, d'étaler ces sentiments. La gravité romaine exigeait que,
+dans la vie publique, on eût l'air de dédaigner tout ce que Rome tenait
+d'une source étrangère. Mais, une fois qu'on avait déposé la prétexte,
+et qu'on n'était plus sur le forum, on s'empressait de converser avec
+les philosophes des diverses écoles et d'étudier les chefsd'oeuvre de la
+Grèce ; on allait applaudir au théâtre les tragédies d'Attius, qui en
+offraient quelque image, sans plus se soucier du patriotisme jaloux
+qu'on avait affiché.</p>
+<p>1 Cic, ad Att., I, 19, - 2 Cic, in Verr., IV, 14. - 3 Cic, ad Attic, I,
+4, 8, 9, etc.</p>
+<p><pb/></p>
+<p>- 90 -</p>
+<p>A Rome, ces noms étaient encore plus connus, ces</p>
+<p><pb/></p>
+<p>- 91 -</p>
+<p>II. Tragédies tirées de l'histoire romaine. - Fabulae proetextatae.</p>
+<p><pb/></p>
+<p>- 92 -</p>
+<p>1 Hor., Ars poet., 288:</p>
+<p>Vel qui proetextas, vel qui docuere togatas.</p>
+<p>- 2 Donat., De tragoed. et comaed., XLV : « Comoediam et tragoediam
+togatam primo Livius Andronicus reperit. » M. Osann, (Anal, crit., etc.,
+44) suppose qu'il faut lirepalliatam.</p>
+<p><pb/></p>
+<p>- 93 -</p>
+<p>1 Naev., Frag. inc. comoed., 5, éd. Ribb.:</p>
+<p>Libéra lingua loquemur ludis liberalibus.</p>
+<p>- 2 Neuk., De fab. togat. Rom., 66. M. Ribbeck y voit une fabula
+proetextata. - 3 Varr., De ling. lat., VII, 54 et 107. - 4 Donat. in
+Ter. Adelph., 4, 1.- 5 A. Gell., IV, 4: « In libro qui Scipio
+inscribitur. » - 6 Ribb., Comic. lat. rell.. préf., IX.</p>
+<p><pb/></p>
+<p>- 94 -</p>
+<p>On suit de loin, dans les fragments d'Attius, la marche de son ouvrage.
+Il y était d'abord question de ces</p>
+<p>1 Tite-Live, X, 30.</p>
+<p><pb/></p>
+<p>- 95 -</p>
+<p>Clamore et gemitu templum resonit coelitum 4 ! L'autre pièce romaine
+d'Attius est plus célèbre en1</p>
+<p>en1 X, 28. - 2 Att., AEnead., 4 .</p>
+<p>Te sancte venerans precibus, invicte, lnvoco Portenta ut populo,
+patrioe, verruncent bene.</p>
+<p>- » Att., AEnead., 7 et 11 :</p>
+<p>Fateor; sed saepe ignavit fortem in spe expectatio,..</p>
+<p>Patrio exemplo et me dicabo atque animam devoto hostibus.</p>
+<p>- 4 Att., AEnead., 2.</p>
+<p><pb/></p>
+<p>- 96 -</p>
+<p>1 V. sur le Brutus l'article de M. Patin, Journ. des sav., déc. 1843.
+J'ai transcrit ici sa traduction. - 2 Att., Brut.:</p>
+<p>Quam jam quieti corpus nocturno impetu Dedi, sopore placans artus
+languidos, Visum est in somnis pastorem ad me appellere Pecus lanigerum
+eximia pulchritudine, Duos consanguineos arietes inde eligi
+Praeclarioremque alterum immolare me. Deinde ejus germanum cornibus
+conitier, In me arietare, eoque ictu me ad casum dari: Enim prostratum
+terra, graviter saucium, Resupinum in coelo contueri maxumum Mirificum
+facinus : dextrorsum orbem flammeum Radiatum solis liquier cursu novo.</p>
+<p><pb/></p>
+<p>- 97 -</p>
+<p>Qui recte consulit, consul cluat 2,</p>
+<p>ou se rappelant avec regret le bon roi Servius Tullius et ses
+institutions si populaires :</p>
+<p>1 Att., Brut., 2 :</p>
+<p>Rex, quae in vita usurpant homines, cogitant, curant, vident,</p>
+<p>Quaeque agunt vigilantes agitantque, ea si cui in somno accidunt,</p>
+<p>Minus mirum est, sed Di rem tantam haud temere improviso offerunt.</p>
+<p>Proin vide, ne quem tu esse hebetem députes seque ac pecus,</p>
+<p>Is sapientia munitum pectus egregie gerat,</p>
+<p>Teque regno expellat : nam id quod de sole ostentum est tibi</p>
+<p>Populo commutationem rerum portendit fore</p>
+<p>Perpropinquam. Haec bene verruncent populo! nam quod dexterum</p>
+<p>Cepit cursum ab laeva signum praepotens, pulcherrume</p>
+<p>Auguratum est rem Romanam publicam summam fore.</p>
+<p>- 2 Att., Brut.,3.</p>
+<p><pb/></p>
+<p>- 98 - tullius, qui libertatem civibuq stàbillverat 1,</p>
+<p>Nocte intempesta nostram devenit domum ».</p>
+<p>1 Att., Brut., 4.- 5 Att., Brut., 5.</p>
+<p><pb/></p>
+<p>- 99 -</p>
+<p>1 Cic, Philipp., 1,15; X, 4; Epist. ad Att., XVI, 2, 5.</p>
+<p><pb/></p>
+<p>- 100 -</p>
+<p>a pu distinguer cinq ou six pièces tirées de l'histoire romaine ; encore
+ne sont-elles pas toutes hors de contestation.</p>
+<p>1 Lange (Vindic. tragoed. Rom., 15 et seq.) a indiqué toutes ces raisons.</p>
+<p><pb/></p>
+<p>- 101 -</p>
+<p>ne pense, car ils ne furent jamais entièrement esclaves de l'auteur
+qu'ils imitaient. Ils auraient cherché les sujets étrangers aux luttes
+politiques : l'histoire romaine n'en manquait pas, et Tite-Live en offre
+un grand nombre dont les poètes modernes ont tiré profit. S'il leur
+était interdit de montrer au théâtre l'histoire de Coriolan, comme a
+fait Shakespeare, ne pouvaient-ils pas, comme Corneille, y représenter
+celle d'Horace? Il faut croire enfin que la gravité romaine était moins
+scrupuleuse qu'on ne le prétend, puisqu'elle souffrit de voir sur la
+scène un Décius et un Paul-Émile, et nous ne savons pas que Décimus
+Brutus en ait voulu au poëte Attius, son ami, d'avoir représenté, dans
+une tragédie, le premier Brutus chassant les rois.</p>
+<p>Il faut nécessairement, pour expliquer le petit nombre de ces fabuloe
+proetextatoe et le peu de trace qu'elles ont laissé, reconnaître
+qu'elles n'obtinrent pas un grand succès et qu'elles frappèrent
+médiocrement le peuple. C'est qu'en effet elles n'étaient pas une
+innovation aussi complète qu'on l'a supposé. Il ne faudrait pas croire
+d'abord que Rome fût entièrement absente même des pièces imitées du
+grec. Sans parler de ces prologues, aujourd'hui perdus, où le poëte,
+s'adressant au public, lui parlait des affaires présentes et le
+félicitait de ses victoires 1, que de choses, dans le cours même de
+l'ouvrage , devaient rappeler les moeurs et les usages du forum? Il est
+probable que souvent les personnages</p>
+<p>1 Plaut., Amphit., prol. 41:</p>
+<p>Nam quid ego memorem, ut alios in tragoediis Vidi, Neptunum, Virtutem,
+Victoriam, Martem, Bellonam, commemorare quae bona Vobis fecissent.</p>
+<p><pb/></p>
+<p>- 102 -</p>
+<p>Vestigia garaec 2 Ausi deserere.</p>
+<p><pb/></p>
+<p>- 103 -</p>
+<p>1 Hor., Epist., II,1,57:</p>
+<p>Dicitur Afrani toga convenisse Menandro.</p>
+<p><pb/></p>
+<p>- 104 -</p>
+<p>pas une véritable originalité, une fois ce premier charme évanoui, le
+succès ne tint. pas.</p>
+<p><pb/></p>
+<p>CHAPITRE VII.</p>
+<p>DE LA POESIE LYRIQUE DANS LES TRAGÉDIES D' ATTIUS.</p>
+<p>1 Hor., Ars poet., 3255</p>
+<p>Romani pueri longis ratlonibus assem Discunt in partes centum diducere...</p>
+<p>- 2 Hor., Epist., I, 3, 12.</p>
+<p><pb/></p>
+<p>- 106 -</p>
+<p>On ne sera donc pas surpris que le choeur eut peu d'importance dans la
+tragédie latine. Ce qui le prouve, c'est qu'il n'avait pas, comme en
+Grèce, une scène qui lui fût réservée, et nous voyons dans Vitruve que
+l' orchestra, était occupée par les chaises des sénateurs 2,</p>
+<p>1 Hor., Od., IV, 2, 30. - 2 Vitr., V, 6 : « Ita latius factum fuerit
+pulpitum quam Graecoram, quod omnes artifices la scena dant operam, in
+orchestra autem senatorum suntsedibus loca désigna ta. » -3 Varr., De
+ling. lat., VI, 60, 93 ; A. Gell., XIX, 10.</p>
+<p><pb/></p>
+<p>- 107 -</p>
+<p>Otio qui nescit uti, plus negoti Habet, quam quum est negotium in
+negotio. Etc. 2.</p>
+<p><pb/></p>
+<p>- 108 -</p>
+<p>Il est vrai que les grammairiens latins, qui ont traité ces matières, ne
+font jamais mention des cantica qu'en parlant de la comédie. Faut-il
+conclure de leur silence que ces monologues lyriques lui étaient
+spécialement réservés, et qu'il n'y en avait pas dans la tragédie
+latine? je ne le pense pas, et voici les raisons qui m'empêchent de le
+croire 1.</p>
+<p><pb/></p>
+<p>- 109 -</p>
+<p><pb/></p>
+<p>110 -</p>
+<p>1 Wolff., De Cantico, etc., 15. - 2 Seneq., Controv., 2.</p>
+<p><pb/></p>
+<p>_ 111 _</p>
+<p>surtout au début; des héros tragiques, Hercule Agamemnon?</p>
+<p>1 Herm., Elem. doctr. met., 169. - 2 Arist., Poet., IV, et Cic, Orat,,
+LVII. - 3 Hor" Ars poet., 81.- 4 Enn., Méd., 14.</p>
+<p><pb/></p>
+<p>- 412 -</p>
+<p>1 Enn., Alcm., 3. -,Enn., Andromach., 9. - 8 Cic, Tuscul., III, 19. - 4
+Don., De trag. et com., L. Je lis ce passage avec la correction proposée
+par Lange (Vind. Rom. trag. 45) : « Illius, qui hujusmodi modos
+faciebat, nomen, et scriptoris et actoris superponebant. » - 5 Cic, De
+Orat., III, 26. - « Diom., III.</p>
+<p><pb/></p>
+<p>- 113 -</p>
+<p>1 Don., De trag. et com., L : « Hujusmodi adeo carmina ad tibias fiebant
+ut, his auditis, multi ex populo ante discerent quam fabulam acturi
+scenici essent, etc.» Cic, Acad., II, 7: «Primo inflatu tibicinis
+Antiopam esse aiunt aut Andromacham. - 2 Cic, De divin., I, 31.</p>
+<p>8</p>
+<p><pb/></p>
+<p>- 114 -</p>
+<p>Adest, adest fax obvoluta sanguine atque incendio ! Multos annos latuit
+: cives, ferte opem et restinguite 2.</p>
+<p>C'est son frère Paris ; elle le voit juger les trois déesses</p>
+<p>1 Enn., Alex., 6:</p>
+<p>Sed quid oculis rabere visa es derepente ardentibus ? Ubi illa tua paulo
+ante sapiens virginali, modestia ? - Mater, optumarum multo mulier
+melior mulierum, Missa sum superstitiosis ariolationibus; Namque Apollo
+fatis fandis dementem invitam ciet. Virgines sequalis vereor, patris mei
+meum factum pudet, Optumi viri. Mea mater, tui me miseret, mei piget :
+Optumam progeniem Priamo peperisti extra me ; hoc dolet Men obesse,
+illos prodesse, me obstare, illos obsequi</p>
+<p>- 2 Enn., Alex., 6.</p>
+<p><pb/></p>
+<p>- 115 - et conduire avec lui Hélène, cette furie Spartiate :</p>
+<p>Eheu, videte! Judicabit inclutum judicium inter deas tris aliquis : Quo
+judicio Lacedoemonia mulier, Furiarum una, adveniet 1.</p>
+<p>Jamque mari magno classis cita Texitur : exitium examen rapit : Advenit,
+et fera velivolantibus Navibus complevit manus littora 2.</p>
+<p>« Ce n'est plus Cassandre, dit Cicéron; c'est le dieu enfermé dans son
+sein qui parle par sa bouche 3. »</p>
+<p>1 Enn., Alex., 7. - 2 Enn., Alex., 6. - 2 Cic, De divin., I, 31.- 4 Non.
+V. Temerius: «Sed Euripidis qui choros temerius in fabulis... »</p>
+<p><pb/></p>
+<p>- 416 -</p>
+<p>Jam jam stupido Thessala somno Pectora languentque senentque 4 !</p>
+<p>1 Att., Bacch., 6 :</p>
+<p>Ubi sanctus Cythaeron Frondet viridantibus fetis.</p>
+<p>- 2 Att., Bacch., 3. - 3 Seal., in Varr., 88. M. Ribbeck ne conserve que
+les trois derniers vers donnés par Macrobe, et sur lesquels il ne peut y
+avoir aucun doute. AU., Bacch., 5. -4 Att., Teleph., 2.</p>
+<p><pb/></p>
+<p>- 117 -</p>
+<p>il faut reconnaître que, depuis Ennius, la poésie lyrique a fait un
+progrès singulier, et que nous sommes loin des grossières allitérations
+par lesquelles le vieux poëte exprimait la même pensée dans le choeur de
+l'Iphigénie.</p>
+<p>1 Att., Eurys., 1. - 2 Att. Eurys., 13. - 3 Att., Phil., 19 ; Antig., et
+4; Astyan 10.</p>
+<p><pb/></p>
+<p>- 118 -</p>
+<p>1 Mart., IX, 12.</p>
+<p><pb/></p>
+<p>- 119 -</p>
+<p>catalec1 OEdip., act. II et III; Agam., act. III et IV, et le monologue
+de Médée, act. IV, où l'on peut voir une imitation des anciens cantica.</p>
+<p><pb/></p>
+<p>- 120 -</p>
+<p><pb/></p>
+<p>CHAPITRE VIII.</p>
+<p>DU STYLE D'ATTIUS.</p>
+<p>1 Fest., 508 . « Scribas proprio nomine antiqui et librarios et poetas
+vocabant. »</p>
+<p><pb/></p>
+<p>- 122 -</p>
+<p>1 Varron ap. Non. V. Ignoscite :</p>
+<p>Domum ut feratis e theatro litteras. - 2 Varr., De ling. lat., IX, 17.</p>
+<p><pb/></p>
+<p>- 123 -</p>
+<p>1 Quint., I, 3.-3 Journ. des sav,, janv, 1884,</p>
+<p><pb/></p>
+<p>- 124 -</p>
+<p>Non genus virum ornat, generi vir fortis loco 1;</p>
+<p>ou ce fragment de l'Égysthe, dans lequel un personnage, Clytemnestre
+peut-être, résumait sa ferme politique :</p>
+<p>Neque fera hominum pectora Fragescunt, donec vim imperi persenserint 2.</p>
+<p>Le style, ordinairement fort et rude, y paraît quelquefois aussi
+travaillé que chez Pacuvius. On y trouve des expressions heureuses et
+colorées, et un certain souci de l'élégance qui prouvent qu'Attius,
+quoique naturellement porté vers l'énergie, ne négligeait pas cependant</p>
+<p>Erras, erras ; nam exsultantem te et praefidentem tibi Repriment
+validae; legum habenae atque imperi insistent jugo.</p>
+<p><pb/></p>
+<p>- 125 -</p>
+<p>Flucti immisericordes »...</p>
+<p>Mare quum horreret fluctibus 2. Vela ventorum animae immittere 3.</p>
+<p>Pour représenter l'éclat d'une armée rangée en bataille :</p>
+<p>AEre atque ferro fervere, Insignibus florere 4.</p>
+<p>Pour exprimer les regrets d'une mère : Quis florem liberum invidit mihi 5?</p>
+<p>ou l'énergie d'un vieillard que l'âge n'a point glacé : Quanquam
+exsangue 'st corpus mi atque annis putret 6.</p>
+<p>On rencontre même, dans ces fragments, quelques descriptions dont le
+premier mérite est d'être vraies, et qui parfois ne manquent pas
+d'éclat. Dans l'OEnomaüs, ce tableau du laboureur éveillant ses boeufs,
+le matin, pour les conduire au travail, dans les champs humides de rosée
+7, devait plaire chez un peuple qui gardait tant de traces de la vie
+rustique. Il est question, dans les Phi1</p>
+<p>Phi1 Clytemn., 4. - 2 Att., Med., 8. - 3 Att., Myrmid., 2. - 4 Att.,
+Teleph., 14. Virgile, OEn., VII, 804. a imité cette expression: «
+Florentes aere catervas. » - 5 Att., Melanipp., 1. -6 Att., Erigon., 7.
+Attius imite ici un beau vers de Pacuvius, Teucer, 17 :</p>
+<p>Quanquam annisque et setate hoc corpus putret.</p>
+<p>- 7 Att., OEnon., 1.</p>
+<p><pb/></p>
+<p>- 126 -</p>
+<p>Crepitu clangente cachinnat 1.</p>
+<p>Enfin le Cythéron est représenté, dans les Bacchantes, tantôt éclatant
+de lumière, tantôt obscurci par les tempêtes 2, et ce poétique tableau
+ne se retrouve pas dans la pièce d'Euripide; ce qui semble nous indiquer
+que la poésie latine prenait plus d'assurance en elle-même, puisque, non
+contente de traduire les images si fréquentes dans les tragédies
+grecques, elle en créait de nouvelles.</p>
+<p>l'u1 Phinid., 2. - 2 Att., Bacch., 18. - 3 Polyb., II, 22.</p>
+<p><pb/></p>
+<p>- 127 -</p>
+<p>sage a eu tort de laisser perdre, soit parce qu'ils évitaient des
+périphrases, soit parce qu'ils rendaient vivement la pensée. A la fin du
+dix-septième siècle, après cette grande époque qui, ce semble, laissait
+peu de place aux regrets, La Bruyère et Fénelon osaient se plaindre
+qu'on se fût montré trop difficile pour le vieux français; ils
+signalaient des mots heureux, des tournures gracieuses qu'on aurait dû
+garder, et accusaient les délicats d'avoir appauvri notre langue. De
+même, malgré l'éclat du siècle d'Auguste, on peut regretter que l'usage
+se fût quelquefois montré trop sévère envers le vieux langage. C'est ce
+que pensaient de grands écrivains de ce siècle. Quintilien nous apprend
+que Virgile ne dédaignait pas les vieilles tournures et les anciens mots
+'. Horace lui-même, si opposé aux écrivains du temps de Sylla, conseille
+de leur emprunter ces termes expressifs, speciosa vocabula rerum, qu'on
+avait laissé périr dans la poussière et l'abandon 2. Aulu-Gelle mettait
+ce conseil en pratique, et il raconte qu'au sortir d'un repas chez le
+poète Lucius Paulus, repas de savant, où l'on faisait surtout grande
+chère d'érudition, il notait avec un de ses amis les mots heureux des
+anciens tragiques pour en enrichir son langage 3.</p>
+<p>1 Quint., VIII, 3. - 2 Hor., Epist., II, 2,116. -3 A. Gelle, XlX, 7.</p>
+<p><pb/></p>
+<p>- 128 -</p>
+<p>Après avoir loué cette précision et cette netteté dans l'expression, il
+faut ajouter que la phrase au contraire est quelquefois traînante, soit
+parce qu'elle est lourdement construite, soit parce qu'elle est
+embarrassée d'épithètes maladroitement placées. C'est qu'en effet le
+génie seul rencontre ces expressions heureuses et brillantes, et il peut
+y avoir des écrivains de génie au début des littératures. Il semble même
+qu'alors, étant moins gênés par les convenances et la délicatesse, plus
+libres d'oser, ils trouvent sans peine ces termes expressifs et colorés
+qui sont plus rares en d'autres époques où, le goût étant plus
+scrupuleux, l'esprit est quelquefois plus timide. Mais l'art d'agencer
+les phrases, de trouver les proportions qui leur conviennent, ne
+s'acquiert pas du premier coup. D'ordinaire, les littératures qui
+débutent y réussissent mal, et le français de Montaigne, si vif et si
+brillant, ne connaît pas encore la conduite régulière ni la juste mesure
+des phrases. Ce n'est pas qu'on ne trouve quelquefois chez Attius des
+vers d'un tour net et facile. Ils sont fréquents surtout dans</p>
+<p><pb/></p>
+<p>- 129 -</p>
+<p>Ut me depositum et moerentem nuntio repentino alacrem Reddidisti, atque
+excitasti ex luctu in loetitudinem 1.</p>
+<p>1 Att., Alcum., 2.</p>
+<p><pb/></p>
+<p>- 130 -</p>
+<p>1 Hor., Epist. II, 1, 66.</p>
+<p><pb/></p>
+<p>CONCLUSION</p>
+<p>1 Cic, pro Arch., III. - 2 Cic, De orat., III, 50; Parad., III.</p>
+<p><pb/></p>
+<p>- 132 -</p>
+<p>fé1 Jugurth., 85 : « Neque litteras graecas didici ; parum placebat eas
+discere. » - 2 Cic, pro Arch., IX. - 8 Cic, pro Arch., X : « Cordubae
+natis poetis pingue quiddam sonantibus atque peregrinum, etc. » - 4 Cic,
+pro Arch., X. - 5 Cicéron parle du mime Tutor, qui lui semble tout à
+fait plaisant, oppide ridiculus. De orat., II, 64.</p>
+<p><pb/></p>
+<p>- 133 -</p>
+<p>condité d'ouvrages, de ce succès populaire d'artistes éminents, que le
+théâtre est alors plein de vie, et dans un de ces moments heureux où la
+sève abonde?</p>
+<p>1 Cic, ad Famil., IX, 15 : «Salsiores quam illi Atticorum et vere Romani
+sales, s - 2Hor., Epis t., II, 1,160. -3Non., v° Cepe.</p>
+<p><pb/></p>
+<p>- 184 -</p>
+<p><pb/></p>
+<p>- 135 -</p>
+<p>et de ses amis, Rotrou ou quelque autre, imitant sa manière, porté au
+grand, comme lui, et l'on aura une image assez exacte de la tragédie
+d'Attius.</p>
+<p>Je sais bien que les critiqués de ce temps parlent avec les plus grands
+éloges de la Médée d'Ovide et du Thyeste de Varius; et nous devons bien
+reconnaître, puisque ces témoignages sont unanimes, que c'étaient des
+oeuvres de talent. Mais aucun de ces témoignages ne nous dit
+positivement que le succès de ces pièces ait dépassé le cercle des
+esprits lettrés et qu'elles aient passionné le peuple au théâtre. Il
+faut bien croire qu'elles n'ont pas été populaires, puisque nous voyons,
+dès cette époque, la tragédie abandonnée et en décadence. Des
+chefs-d'oeuvre applaudis par la foule auraient au moins prolongé son
+existence de quelques années ; or c'est au siècle, même d'Auguste, au
+moment où paraissaient le Thyeste et la Médée, qu'on inventa la
+pantomime qui, dès son début, domine au théâtre et n'y souffre pas de</p>
+<p><pb/></p>
+<p>- 136 -</p>
+<p>1 C'est celle que M. Patin a développée dans le Journal des savants,
+mars 1839.</p>
+<p><pb/></p>
+<p>- 137 -</p>
+<p>d'impor1 pro Muren., XXXVI. -2 Fest. Dac, 81.</p>
+<p><pb/></p>
+<p>- 438 -</p>
+<p>1 Hor., Ars poet., 211 :</p>
+<p>Accessit numerisque modisque licentia major.</p>
+<p>- 2 Cic , De leg., II, 15. - 3 Hor., Ars poet., 202 et sq. - 4 Cic, pro
+Arch., VII : « Ergo ne ille corporis motu tantum amorem sibi conciliarat
+a nobis omnibus, etc. » Voir aussi Macrobe, Sat., II, 10.</p>
+<p><pb/></p>
+<p>- 139 -</p>
+<p>1 Cic, ad Fam., VII, 1. - 2 Hor., Epist., II, 1, 187 et sq.</p>
+<p><pb/></p>
+<p>- 140 -</p>
+<p>1 Tac, De orat., II.</p>
+<p><pb/></p>
+<p>- 141 -</p>
+<p>1 Seal., in Varr., 94.</p>
+<p>FIN.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>TABLE</p>
+<p>INTRODUCTION 3</p>
+<p>CHAPITRE Ier. Opinion des anciens sur la tragédie latine. 7 CHAPITRE II.
+Du caractère des principaux poëtes tragiques</p>
+<p>latins 19</p>
+<p>I. Ennius et Pacuvius. 19</p>
+<p>II. Attius. - La tragédie d'Atrée 25</p>
+<p>CHAPITRE III. Des ouvrages d'Attius 30</p>
+<p>CHAPITRE IV. De l'imitation des poëtes grecs dans la tragédie latine 39</p>
+<p>I. Comment les poëtes latins imitaient-ils les Grecs? 39</p>
+<p>U. De l'invention dans les pièces d'Attius 52</p>
+<p>CHAPITRE V. Du développement de l'intrigue et des caractères dans la
+tragédie d'Attius 62</p>
+<p>CHAPITRE VI. Du caractère national de la tragédie latine. 76</p>
+<p>I. Tragédies tirées de l'histoire grecque. - Comment</p>
+<p>les Romains les ont-ils accueillies? 76</p>
+<p>II. Tragédies tirées de l'histoire romaine. - Tabulée praetextatae. 91</p>
+<p>CHAPITRE VII. De la poésie lyrique dans les tragédies</p>
+<p>d'Attius 105</p>
+<p>CHAPITRE VIII. Du style d'Attius.. 121</p>
+<p>CONCLUSION 131</p>
+<p>FIN DE LA TABLE.</p>
+<p>Impr. de BOURDIER et Ce rue Mazarine, 30.</p>
+    </div>
+    </body>
+  </text>
+</TEI>

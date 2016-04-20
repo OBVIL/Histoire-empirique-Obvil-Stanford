@@ -1,0 +1,2266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Mickiewicz, Ladislas (1838-1926)">Ladislas Mickiewicz</author>
+<title>Adam Mickiewicz : sa vie et son oeuvre (Deuxième édition) / Ladislas Mickiewicz ; avec un portrait par Théophile Bérengier</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Mickiewicz, Ladislas (1838-1926)</author>, <title>Adam Mickiewicz : sa vie et son oeuvre (Deuxième édition) / Ladislas Mickiewicz ; avec un portrait par Théophile Bérengier</title>, <date>1858</date>,description :,392 pages
+</bibl>
+<publisher>A. Savine (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k405675b</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1858">1858</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p>LADISLASqp^IBWip^U^7</p>
+<p>ADAM MICKIEWICZ SA VIE ET SON OEUVRE</p>
+<p>AVEC UN PORTRAIT PAR THÉOPHILE BÉRENGIER</p>
+<p>DEUXIÈME ÉDITION</p>
+<p>1» A U I S</p>
+<p>NOUVELLE LIBRAIRIE PARISIENNE</p>
+<p>ALBERT SAVINE, ÉDITEUR 18, RUE DROITOT, 18</p>
+<p>1888</p>
+<p>Tous droits réservés.</p>
+<p><pb/></p>
+<p>ADAM MICKIEWICZ SA VIE ET SON OEUVRE</p>
+<p><pb/></p>
+<p>EN VENTE A LA MÊME LIBRAIRIE</p>
+<p>Envoi FRANCO au reçu du prix en un mandat ou en timbres-poste.</p>
+<p>ISAAC PAVLOVSKY</p>
+<p>Souvenirs sur Tourguéneff, 2e édition.</p>
+<p>NAPOLÉON BONAPARTE</p>
+<p>Œuvres littéraires, 2e édition.</p>
+<p>SHELLEY</p>
+<p>Œuvres poétiques complètes, 3 volumes.</p>
+<p>JACINTO VE3DAGUER</p>
+<p>L'Atlantide, poème catalan. 2e édition.</p>
+<p>LÉON TIKHOMIROV</p>
+<p>La Russie politique et sociale, 4e édition.</p>
+<p>Conspirateurs et Policiers, 2° édition.</p>
+<p>LÉON HUGONNET</p>
+<p>Chez les Bulgares, 2° édition.</p>
+<p>MARINA POLONSKY</p>
+<p>Causes célèbres de la Russie, 3e édition.</p>
+<p>HENRI CONTI</p>
+<p>L'Allemagne intime, 4e édition.</p>
+<p>FRANÇOIS LOYAL</p>
+<p>L'Espionnage allemand en France, 3e édition. V. ALMIRALL</p>
+<p>L'Espagne telle qu'elle est, 3° édition.</p>
+<p>FÉLIX RABBE</p>
+<p>Shelley, sa vie et ses oeuvres, 2° édition. Prix 4 fr.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LADISLAS MICKIEWICZ</p>
+<p>ADAM MICKIEWICZ SA VIE ET SON OEUVRE</p>
+<p>AVEC UN PORTRAIT</p>
+<p>PA)t</p>
+<p>THÉOPHILE BÉRENGIER</p>
+<p>PARIS</p>
+<p>NOUVELLE LIBRAIRIE PARISIENNE</p>
+<p>ALBERT SAVINE, EDITEUR 18, RUE DROUOT, 18</p>
+<p>1888</p>
+<p>Tous droits réservés.</p>
+<p><pb/></p>
+<p>PREFACE</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Oui, on va répétant que le génie est une névrose, un développement
+anormal de plusieurs cellules du cerveau, et qu'il n'y a de bien
+conformé que les intelligences moyennes, les cœurs étroits et les âmes
+positives. L'émotion indéfinissable et délicieuse qui nous saisit au
+spectacle d'une action</p>
+<p><pb/></p>
+<p>sublime ou d'un chef-d'œuvre nous prouve que l'infirme, c'est l'homme
+médiocre. Nous comprenons que l'étude et l'imitation du génie nous
+avancera dans le chemin de la perfection. Le genre humain n'a jamais
+progressé autrement. Les fortes individualités remorquent les
+retardataires. Elles ne sont plus de ce monde que leur tradition et
+leurs œuvres facilitent toujours la marche ascensionnelle de ceux qui
+gravissent péniblement une voie que leurs prédécesseurs ont non
+seulement franchie en quelques bonds, mais qu'ils ont rendue plus
+praticable et plus sûre en y laissant la trace lumineuse de leur passage.</p>
+<p>Ladislas Mickiewicz.</p>
+<p><pb/></p>
+<p>ADAM MICKIEWICZ</p>
+<p>1</p>
+<p>ANNÉES i&gt;'enfance ET D'ADOLESCENCE. Pbemièhes POÉSIES ET phem1er amoub.
+– PUBLICATION DES OEUVRES. pffllomathes ET PHILARÈTES. PERSÉCUTION,
+EMPRISONNEMENT ET CONDAMNATION PAR UKASE IMPÉRIAL.</p>
+<p><pb/></p>
+<p>Adam Mickiewicz. Le génie intuitif de Michelet lui a fait saisir que ce
+sont les grands hommes des diverses parties de la Pologne qui forment et
+cimentent son unité morale (1). Edgard Quinet a recueilli l'anecdote
+suivante « Un général polonais (l'illustre Dembinski) m'a raconté que,
+dans l'une des dernières guerres contre la Russie, ayant conduit son
+corps d'armée sur les bords du Niemen sans intention de le franchir, il
+voulut savoir pourtant si l'autre rive était restéepolonaise. Pour cela,
+il rassembla la musique de ses régiments, et il lui fit jouer un des
+vieux airs de la patrie. A peine les premierssons eurent-ils traversé le
+fleuve qu'il s'éleva de la terre qu'on ne pouvaitatteindre – c'était, je
+crois, Kowno un murmure confus de voix qui consola le cœur du vieux
+soldat (2). »</p>
+<p>A ce murmure confus devaient succéder des strophes inspirées qui, du
+fond de la Lithuanie, retentirent jusqu'aux confins extrêmes de la
+Pologne et qui résonnent toujours.</p>
+<p>Enfant, Adam Mickiewicz fut témoin de l'admiration suscitée par
+l'héroïsme des légionnaires, et il entendit bénir les victoires
+remportées par Napoléon sur les oppresseurs de la Pologne. Bientôt la
+Grande Armée traversa la Lithuanie en triomphe pour y repasser en
+déroute spectacle extraordinaire qui remua profondément l'âme d'Adam
+Mickiewicz.</p>
+<p>(3) Préface des Esclaves, p. xxx. Édit. Bruxelles, 1853.</p>
+<p><pb/></p>
+<p>avec le dernier détachement russe. Les traînards voulurent piller et
+incendier la ville. Chobrzynski la préserva et distribua aux habitants
+le blé qui restait en magasin. En deuil alors de mon père, je vis entrer
+l'armée polonaise en pleurant de joie. On me soupçonna de regretter les
+Russes. Ce reproche me blessa douloureusement et je ne pus de longtemps
+l'oublier (j).</p>
+<p>A une leçon du Collège de France, du 23 décembre 1847, Michelet cita une
+autre réminiscence de la même époque</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>(2) Mémorial de François, Mickiewicz.</p>
+<p>(3) Notes d'EustacheJanuszkiewicz.</p>
+<p><pb/></p>
+<p>Les chansons et les contes populaires se gravèrent de bonne heure dans
+la mémoire d'Adam Mickiewicz. N'est-il pas étrange, faisait-il observer
+le 25 juin 1846, en parcourant des recueils de chansons populaires,
+publiés cette (1 ) Mémorial de François Mickiewicz.</p>
+<p><pb/></p>
+<p>(%) Mémorial de François Mickiewicz. Les armes de la Pologne sont un
+aigle blanc, celles de la Lithuanie un cavalier.</p>
+<p><pb/></p>
+<p>(1) Notes inédites d'un ami d'Adam Mickiewicz.</p>
+<p>(2) Mémorial de François Mickiewicz.</p>
+<p><pb/></p>
+<p>Mon âme est incarnée dans ma patrie. Moi, la patrie, ce</p>
+<p>n'est qu'un. Je m'appelle million, car j'aime et je souffre</p>
+<p>pour des millions d'hommes. Je regarde ma patrie infortu-</p>
+<p>née comme un fils regarde son père livré au supplice de la</p>
+<p>roue; je sens les souffrances de toute une nation comme la</p>
+<p>mère ressent dans son sein les souffrances de son enfant (1).</p>
+<p>entre Adam Mickiewicz et ses frères, il l'a dépeinte lui-</p>
+<p>Sois certain, lui écrivait-il, que toutes mes actions pro-</p>
+<p>viennent du terrain où nous avons grandi, au foyer pater-</p>
+<p>nel. Cela m'est souvent une consolation de penser que nous</p>
+<p>autres, frères, quoiqu'ayant si peu de rapports entre nous,</p>
+<p>nous sommes pourtant sûrs les uns desautres. Je sais que tu</p>
+<p>ne doutes pas que, n'importe en quelle circonstance, tu nous</p>
+<p>trouveras et moi et Alexandre et Georges (s'il vit) aussi pleins</p>
+<p>C'est une rare consolation ici-bas que de pouvoir du moins</p>
+<p>être spirituellement d'accord, si nous ne pouvons nous être</p>
+<p>d'aucune utilité sur la terre.</p>
+<p>Nicolas Mickiewicz, en mourant, le 16 mai 1812, en</p>
+<p>pleine guerre, laissa un lourd fardeau sur les épaules</p>
+<p>de sa veuve. Beaucoup des clients que l'avocat considé-</p>
+<p>famille. Unjuge,Terasie\vicz, l'aida de ses conseilsdans</p>
+<p>ces conjonctures difficiles, et Alexandre Mickiewicz re-</p>
+<p>(1) Voir les D;iady dans Chefs-d'œuvre poétiques d'Adam Mi-</p>
+<p>ckiewicz, p. 235, Paris. Charpentier.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le loyalisme polono-russe avait été circonscrit dans le cercle de
+quelques familles aristocratiques. Le pays luimême fut toujours partisan
+de la France. Les légions</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Beaucoup de documents de cette époque sont des (1) Voir Mémoires du
+prince Adam Czartoryski et correspondance arec Alexandre V'. 2 vol.
+Paris, 1887.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Des promenades hors de Vilna, dont les environs sont ravissants, des
+débats philosophiques et littéraires,</p>
+<p><pb/></p>
+<p>des lectures et des conférences absorbaient les loisirs de l'Université.</p>
+<p>Une amourette avait précédé ce grand amour.</p>
+<p>Revenez-moi, mes chevaliers.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Karylla est la première plainte amoureuse du poète. En lisant Boccace,
+il sera tombé sur ce passage</p>
+<p>Les frères de Lisabetta avaient assassiné son amant. Lisabetta,
+inconsolable, après avoir enveloppé la tête du mort</p>
+<p><pb/></p>
+<p>Il a consigné dans un de ses poèmes l'histoire de cet amour. Cette
+histoire, il l'a écrite en quelque sorte sous les yeux des amis
+confidents de sa passion, et avec la certitude d'être lu par Maryla
+c'est sous ce nom qu'il chanta Marie Wereszczaka. Il souffrit trop pour
+se taire, mais nul des témoins de ce drame ne l'accusa d'avoir dénaturé
+la vérité (2).</p>
+<p>Maryla ne dut jamais être belle. Elle avait une physionomie expressive,
+des manières simples et une conversation attrayante. Elle fut fidèle à
+ses amis dans l'adversité et patriote ardente. En subissant le choix de
+ses parents au lieu de suivre jusqu'au bout l'impulsion (1) Le
+Décaméron, iv* journée, v" nouvelle.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Les lettres de Maryla ne sont pas datées. 11 est dès lors difficile de
+déterminer leur succession d'une ma-</p>
+<p><pb/></p>
+<p>r~</p>
+<p>Samedi, de mon boudoir (1).</p>
+<p>Adieu donc, cher monsieur Thomas. Portez-vous bien et soyez tranquille.
+Le soleil renaîtra après cette éclipse, il paraîtra plus brillant.
+Adieu, encore une fois, n'oubliez pas une amie absente.</p>
+<p>M.</p>
+<p>(1) L'original est en français.</p>
+<p>(2) Prénom de Zan.</p>
+<p><pb/></p>
+<p>La note dominante de cette première lettre, c'est la confiance. Maryla
+se flatte de ne pas céder aux objurgations des siens. La santé de
+Mickiewicz, bourrelé d'inquiétude, périclitait. Dans la lettre suivante,
+Maryla réclame sa présence ou au moins une lettre de lui. 2 février, an
+soir.</p>
+<p>Les consolations de la religion ne me suffisent pas.</p>
+<p><pb/></p>
+<p>je ne sais quels tristes pressentiments, la mélancolie noire m'assaille
+sans cesse. Cher monsieur Thomas, vous auriez pitié de moi, si vous
+pouviez vous pénétrer de mes souffrances.</p>
+<p>(2) Frère de Maryla.</p>
+<p><pb/></p>
+<p>que l'amitié que j'éprouve pour lui durera tant que mon âme animera mon
+être.</p>
+<p>Votre tout dévouée amie,</p>
+<p>MARIE.</p>
+<p>Dimanche, Brazelce.</p>
+<p><pb/></p>
+<p>redoute de tristes résultats, car la force de perservérer fait défaut.</p>
+<p>Je compte (1) encore rester ici jusqu'au retour du messager ainsi
+j'espère que vous voudrez bien m'honorer de quelques lignes de votre
+main par cette occasion, monsieur Thomas.</p>
+<p>;2) L'original est en français.</p>
+<p><pb/></p>
+<p>Depuis quelques jours, je souffre un horrible mal d'yeux. A peine
+puis-je griffonner ces quelques lignes. Si monsieur Zan a la bonté de
+m'écrire quelques mots, que ce soit con molto di precauzione.</p>
+<p><pb/></p>
+<p>Mercredi, Bolceniki.</p>
+<p>Veuillez m'aviser par quelques mots de la date de votre départ de Vilna,
+cher monsieur Thomas, parce que Michel veut s'y rendre pendant que vous
+vous y trouvez, afin de vous y voir.</p>
+<p>MARIE.</p>
+<p><pb/></p>
+<p>Je vous prie de vous souvenir parfois ,de votre amie. MARIE.</p>
+<p><pb/></p>
+<p>̃</p>
+<p>· Le 18(1).</p>
+<p>Vous souffrez, mon ami. Vous êtes malheureux'; vous vous négligez.
+Dites-moi ce qui cause vos souffrances et quel remède il leur faut.
+Oubliez-moi, mon ami, s'il le faut pour votre bonheur et votre
+tranquillité. S'il ne fallait que mon amour pour votre bonheur vous
+seriez trop heureux. Mais non; au lieu de contribuer en quelque sorte à
+votre bonheur, c'est moi seule qui suis la cause de tous vos malheurs.
+Vous ne pouvez vous imaginer combien cette idée me cause de peine.</p>
+<p>Soyez raisonnable, mon ami; ne négligez pas vos talents. Oubliez cet
+amour (lui fait votre malheur. S'il faut, pour votre tranquillité que tu
+(sic) ne me revoies plus, j'y consens. Je vous douiie mes pleins
+pouvoirs d'agir comme il vous plaira, pourvu que vous soyez heureux et
+tranquille. La seule chose (1) Ce billet est en français dans l'original.</p>
+<p><pb/></p>
+<p>que je vous recommande, c'est de conserver votre santé. Pensez qu'elle
+est bien chère pour moi.</p>
+<p>Soyez grand, mon ami.</p>
+<p>Puisque vous allez entreprendre, Monsieur, une nouvelle traduction du
+Werther de Gœthe qui a gâté par un vilain dénouement le plus beau roman,
+prêtez-lui plus de sentimeutalité, pour qu'il place sa félicité dans les
+sentiments du cœur et soit le plus heureux des hommes, tout en
+paraissant ne pas l'être aux yeux du monde.</p>
+<p>Je suis d'accord avec vous, Monsieur, sur un point, c'est (i) Ces mots
+sont en français dans l'original.</p>
+<p>1</p>
+<p><pb/></p>
+<p>Votre amie dans toute la force du terme,</p>
+<p>Marie.</p>
+<p>Cette lettre n'est pas trop désolée. Maryla s'imaginait avoir du temps
+devant elle. Les communications secrètes duraient toujours et la jeune
+fille faisait des pro-</p>
+<p><pb/></p>
+<p>jets pour le mois de juillet. La lettre qui suit dut avoir pour résultat
+d'attirer Mickiewicz auprès d'elle. Dimanche, minuit (1), ),</p>
+<p>Je me sers du prétexte de vous renvoyer le journal pour pouvoir vous
+griffonner quelques lignes. C'est une démarche trop hardie de ma part et
+peut-être blâmable, mais, dans la situation où je me trouve, je peux
+bien alléguer un passage de votre poésie</p>
+<p>« Pour me juger, ce n'est pas avec moi, c'est en moi qu'il il faut être
+(2). »</p>
+<p>Agréez un million de remercîments pour la divine poésie que vous avez eu
+l'extrême complaisance de m'envoyer. Elle est très jolie, je la lis et
+relis mille fois, admirant toujours votre génie et vos talents.</p>
+<p>(2) Ce vers est naturellement cité en polonais par Maryla. Il est tiré
+d'une poésie, datée du 17 avril 182] le Xautonnier, qui se tCTmine ainsi
+« Si je me précipite où me pousse le désespoir, il y aura des pleurs sur
+ma folie et un blâme de mon ingratitude, car vous distinguez moins bien
+que moi ces nuées noires. De loin, vous n'entendez pas l'ouragan tordre
+les cordages ici, la foudre frappe, vous n'avez là-bas que l'éclair. A
+côté de moi, sous les coups de tonnerre, c'est en vain que d'autres
+voudraient ressentir ce que j'éprouve. Nous ne sommes justiciables de
+nul autre que de Dieu, l'our me juger, ce n'est pas avec moi, c'est en
+moi qu'il faut être. »</p>
+<p>(3) « Je ne sais pas. »</p>
+<p><pb/></p>
+<p>Adieu. Envoyez-moi votre adresse, car je ne sais pas où vous logez à
+présent.</p>
+<p>Oh! que je désire vous voir avant mon départ de ces contrées Je compte
+encore rester ici jusqu'au 2 juillet. Adieu, encore une fois.
+Portez-vous bien et soyez heureux. Je fais tous les jours des vçeux pour
+votre bonheur. Puisse l'Être Suprême exaucer mes prières! Il fait déjà
+bien tard, tout le monde dort, je vous souhaite aussi un bon sommeil et
+des rêves agréables.</p>
+<p>Dans toute la force du terme, votre amie. Brûlez ce chiffon. Les yeux me
+font mal et je ne vois presque rien.</p>
+<p>Mickiewicz accourut pour avoir avec Maryla l'explication finale. Elle ne
+pouvait avoir lieu qu'en tête-àtête. Le billet de Maryla est ainsi conçu</p>
+<p>Ici se joua la scène du poème des Ayeux:</p>
+<p>C'était la plus belle des nuits. Je vois une larme dans ses yeux.
+Demain, dis-je, je pars. Adieu, répondit-elle tout bas. Oublie. Elle
+cueille une feuille, me la tend Là, dit-elle en montrant la terre, voilà
+ce qui nous reste. Adieu. Et dans la longue allée elle disparaît comme
+un éclair. Adam Mickiewicz garda cette feuille avec les lettres de
+Maryla et son portrait.</p>
+<p>(1) Uzlowski.</p>
+<p><pb/></p>
+<p>Les parents de Maryla avaient compris qu'il devenait prudent de brusquer
+les choses et fixé la noce au 2 février 1821.</p>
+<p><pb/></p>
+<p>(2) Libraire de Vilna.</p>
+<p><pb/></p>
+<p>le lire en entier, tellement le premier volume m'a ennuyée. L'intrigue
+est laide et ennuyeuse, elle se déroule au milieu de comédiens. Mais,
+comme dit le proverbe: chacun son goût. Faites-moi savoir, mon cher
+Henri, comment vous vous trouvez du climat de Bolceniki. Êtes-vous tous
+en bonne santé ?. Ne manquez pas de m'écrire par la présente occasion.
+Comment vous amusez-vous en ville, voyez-vous souvent vos compagnons de
+voyage et mentionnez-vous quelquefois votre amazone? A peine hors du
+lit, je monterai ma llourie et je me proménerai. Il me sera doux de
+revoir les lieux où nous avons passé tant de fois. Si ces chers moments
+pouvaient revenir pour moi II ne m'en est resté que la souvenance.
+Saluez de ma part l'impoli M. Adam et tâchez de m'obtenir de lui ses
+Ballades qui viennent de paraître. Vous me ferez une grande grâce.</p>
+<p>Votre affectionnée tante,</p>
+<p>MARIE.</p>
+<p>(1) Wereszczaka, frère de Maryla.</p>
+<p><pb/></p>
+<p>(2) Laurent Putkamer.</p>
+<p>(3) Propriété de la famille Wereszczaka.</p>
+<p><pb/></p>
+<p>Adam Mic.kiewicz.</p>
+<p><pb/></p>
+<p>MARIE.</p>
+<p>Brûlez ce griffonnage. Je bénis la Providence qui vous a éloigné du pays
+où le choléra-morbus fait des ravages terribles.</p>
+<p>(i) En français dans l'original.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>(2) Propriété du comte Chreptowicz, chez lequel Adam Mickiewicz était en
+villégiature.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>.a. 3.</p>
+<p>Le sentiment et la foi m'en disent plus que le verre et l'œil du savant.
+Tu connais les vérités mortes ignorées du</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>cœurs honnêtes. » Kopczynski était mort le 14 février 1816, après avoir
+reçu des mains de Stanislas Potocki, ministre de l'Instruction publique
+du royaume de Pologne, une médaille d'or comme gage de la reconnaissance
+publique que lui valait précisément sa grammaire. Ne pouvant atteindre
+l'auteur, Alexandre Ier se vengea sur l'œuvre, et par l'ukase du 14 août
+1824 il ordonna que « les livres pernicieux, comme, par exemple, la
+grammaire polonaise de Kopczynski, non seulement ne pourraient être
+remis en usage, mais qu'encore les exemplaires qu'on trouverait dans les
+écoles seraient saisis et détruits ».</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ainsi ce tuteur, convaincu d'avoir essayé de supprimer la pupille dont
+il avait préalablement croqué la fortune, ne voyaitiïen dans ce petit
+accident qui lui fermât l'accès des fonctions publiques! Moins chanceux
+(1) Lelewel.</p>
+<p>t</p>
+<p><pb/></p>
+<p>La révolution de novembre 1830 saisit, dans les papiers du grand-duc
+Constantin, un rapport du professeur Onacewicz, du 11 décembre 1829, où
+il qualifiait Novosiltzof de « célibataire usé par la débauche et avide
+de plaisirs »; où il signalait que tes mêmes personnes remplissaient
+l'office de dénonciateurs, de membres de commission d'enquête et
+dejugeset arrachaient des aveux aux enfants pendant que monsieur le
+sénateur</p>
+<p><pb/></p>
+<p>s'amusait avec la princesse Zoubof (1). Les étudiants subirent d'affreux
+tourments.</p>
+<p>"̃ Combien, disait Onacewiez au grand-duc, de scènes tragiques se
+passèrent alors! Marian Piasecki, en se jetant par la fenêtre, se cassa
+la jambe Teraïewicz se coupa la gorge; madame Glazer fut atteinte
+d'aliénation mentale en apprenant le malheur de son fils. »</p>
+<p>L'Université de Vilna succomba sous ces coups et le recteur Pelikan put
+chanter victoire dans un rapport du 13 mai 1828</p>
+<p>(1) Voir le document dans Lelewel.</p>
+<p><pb/></p>
+<p>(1) Transformé en prison par les Russes et où Mickiewicz avait été
+enfermé depuis le 23 octobre 1823 jusqu'au commencement d'avril 1824.</p>
+<p><pb/></p>
+<p>Il</p>
+<p>EXIL A Saint-Pétersbourg, A ODESSA ET A Moscou.– Françoise ZALESKA ET
+CAROLINE SOBANSKA. VOYAGE EN CRIMÉE. AMITIÉS RUSSES. APPARITION DES
+SONNETS ET DE CONRAD WALLENROD. EMBARQUEMENT POUR L'ALLEMAGNE.</p>
+<p>Après lui avoir ouvert les portes de sa prison, le Gou-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Deux lettres de François Malewski donnent encore</p>
+<p><pb/></p>
+<p>quelques détails sur la dernière partie de la route. Le 1" novembre
+1824, il écrit de Riga</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>(i) Quelqu'un s'appropria, eu 1836, un album que Mickiewicz avait laissé
+trainer sur la table de son salon et qui, outre une description d'une
+prairie Américaine par Féuimore Cooper, contenait encore les témoignages
+d'amitié de plusieurs Décembristes. Il est possible que cet album n'ait
+pas été détruit, qu'il réapparaisse un jour et comble de fâcheuses lacunes.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Je serai d'abord tout toile, puis mouton, enfin loup et ours. Je
+gagnerai Odessa par Witebsk, Mohilef, Tchernikof, Kief, Elisabetgrad.</p>
+<p>(1) Marché.</p>
+<p>(2) Mickiewicz.</p>
+<p>(3) Jezowski.</p>
+<p><pb/></p>
+<p>Odessa regorgeait de familles polonaises des provincesadjacentes, etla
+maisonde madameFrançoiseZaleska</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Odessa, 21 avril 1828.</p>
+<p>J'ai vu madame Sobanska, mais elle n'a pas de lettres, du moins elle me
+l'a dit. Elle m'a priée de permettre que Gattorno lui copie votre
+portrait et la vue de Nowogrodek. Vous pouvez concevoir combien cela m'a
+coûté de ne</p>
+<p><pb/></p>
+<p>Les compagnons d'exil d'Adam professaient le plus respectueux
+attachement pour madame Zaleska qui leur témoignait de son côté beaucoup
+de sensibilité.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>endroit, c'eût été s'exposer inutilement. Le guide tartare me promit de
+revenir chercher ce malheureux et en quelques minutes j'eus dépassé la
+gorge fatale.</p>
+<p>Au milieu de la nuit, je me levai pour l'aller voir. Je n'espérais
+presque plus le trouver en vie. Je traversai une rue sale et boueuse
+comme toutes les rues desvillages tartares et j'atteignis la hutte où on
+l'avait déposé. II se tenait assis sur son lit, enveloppé dans sa robe
+de chambre, la figure encore meurtrie, tuméfiée, noire ou bleue. Devant
+lui se dressait une table de jeu il faisait une partie de cartes avec un
+ami. Les Russes ont la vie dure.</p>
+<p><pb/></p>
+<p>Le climat en Crimée est froid, les pluies sont fréquentes. Dans la
+saison des pluies, l'eau tombe en telle abondance qu'il est impossible
+de voyager, les routes sont impraticables. 11 faut excepter pourtant la
+bande de territoire resserré entre les montagnes et la mer. Cette partie
+de la Crimée est un des plus beaux endroits de la terre. Le ciel y est
+aussi limpide et le climat aussi doux qu'en Italie. Mais la verdure y
+est plus belle. On y rencontre des bois et de l'ombre, ce qu'on trouve
+si rarement en Italie.</p>
+<p><pb/></p>
+<p>Je les ai vu faire des chandelles. Ils égorgeaient des moutons, leur
+enlevaient la peau, puis les jetaient bouillir dans des chaudières et
+recueillaient la graisse qui flottait sur l'eau. Ils en confectionnaient
+des chandelles que le Francais le plus delicat aurait pu manger. Quant
+aux moutons, ils en possédaient de telles quantités qu'ils n'en
+utilisaient que la peau et la graisse.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>quer de la viande succulente des autels de Dagon et de Baal, acceptent
+allègrement, par-dessus le marché, le joug de ces divinités et humilient
+leur esprit devant elles.</p>
+<p>1.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>0 chant national sainte arche d'alliance</p>
+<p>Entre les temps anciens et les temps d'aujourd'hui, Le peuple en toi
+dépose avec persévérance</p>
+<p>Les armes des guerriers qui furent son appui,</p>
+<p>Le précieux tissu de toutes ses pensées</p>
+<p>Et de ses sentiments les fleurs entrelacées.</p>
+<p>Arche tant que ton peuple encore te défend,</p>
+<p>Nul ne peut te briser ancien chant populaire, Comme un archange pur tu
+restes triomphant;</p>
+<p>De nos vieux souvenirs gardant le sanctuaire</p>
+<p>Tu possèdes la voix de l'ange du Seigneur,</p>
+<p>Parcourt la multitude et va de ville en ville</p>
+<p>Et si l'on ne sait point, parmi la foule vile,</p>
+<p>Le nourrir de douleur et l'abreuver d'espoir,</p>
+<p>11 fuit dans les rochers, aux débris il se glisse,</p>
+<p>Et du fond du désert dit les temps d'autrefois.</p>
+<p>Tel, lorsque l'incendie embrase l'édifice,</p>
+<p>Le rossignol s'enfuit, se pose sur les toits</p>
+<p>Et quand le toit s'écroule, il vole aux forêts sombres, Et répétant
+encor, d'une sonore voix,</p>
+<p><pb/></p>
+<p>Dresde, ce 17 octobre 1874.</p>
+<p>Cher Monsieur Vladislas,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>fichets, et qu'il se souvenait d'avoir soupiré, en Russie, pour une
+personne plutôt laide et sans la moindre préten tion</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Et, quand vient-le moment réveille les héros (1).</p>
+<p>En outre, l'oppression étrangère dégrade les caractères et cette
+dégradation la perd. Après l'insurrection de 1863, le Gouvernement russe
+lâcha sur les provinces polonaises une tourbe de fonctionnaires chargés
+d'ameuter les paysans contre les propriétaires et d'annihiler le
+polonisme. Besogne lucrative et qui exigeait un (1) Pierre Dupont.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le tsar intervenait dans les moindres détails relatifs aux condamnés
+politiques, généralement pour empirer</p>
+<p><pb/></p>
+<p>(2) Izwiestnomu Polskomu Poetu.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>111</p>
+<p>PRAGUE ET WENCRSLAS HANKA. Weimar ET Goethe. – PÉRÉGRINATIONS EN ITALIE.
+ANASTASIE DE Klustine ET HENRIETTE ANKWICZ. Excursion EN SUISSE ET
+RETOUR A ROME. STROPHES A LA MÈRE POLONAISE. ACHEMINEMENT VERS LA
+Pologne. Attbnte EN Posnanie. SÉJOUR A DRESDE ET DÉPART POUR PARIS.</p>
+<p><pb/></p>
+<p>(1) A Saint-Pétersbourg.</p>
+<p><pb/></p>
+<p>Mickiewicz visita Prague et emporta le meilleur souvenir de cette ville
+et de la chaleureuse réception du grand érudit tchèque Wenceslas Hanka.
+A Carlsbad, où il prit les eaux, le poète froissa encore quelques
+amourspropres. Malewski l'en avisa aussitôt. Le 30 novembre 1829,
+Mickiewicz lui répondit, sans s'émouvoir outre mesure de cette tempête
+dans un verre d'eau</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>son commerce, il s'abstint de le prendre comme confident et éprouva
+quelque soulagement de sa séparation d'avec lui.</p>
+<p><pb/></p>
+<p>6.</p>
+<p>Le 20 août, comme il pleuvait, madame Ottilie envoya sa voiture les
+chercher. Voici comment Odyniec portraiture Goethe</p>
+<p>Gœthe salua légèrement, tendit la main aux visiteurs et leur dit</p>
+<p>« Pardon, Messieurs, que je vous ai fait attendre. 11 m'est très
+agréable de voir des amis de Mme SzymaA</p>
+<p><pb/></p>
+<p>nowska, qui m'honore également de son amitié. Elle est charmante comme
+elle est belle, et gracieuse comme elle est charmante. »</p>
+<p>« Je sais par expérience, ajouta-t-il, que c'est aussi malaisé que
+d'aller contre le vent. »</p>
+<p>Mickiewicz lui répondit:</p>
+<p>Gœthe exprima le regret de ne connaître aucune langue slave</p>
+<p>Le diner fut de seize couverts. Goethe, en montrant du doigt une
+demoiselle, dit:</p>
+<p>« C'est la petite-fille de notre Schiller. »</p>
+<p>II fut de très belle humeur, plaisantant parfois, mais revenant vite à
+de hautes questions philosophiques. Un convive, par exemple, ayant
+soutenu que dans cha-</p>
+<p><pb/></p>
+<p>que science la théorie doit précéder la pratique, Gœthe répliqua
+qu'elles doivent toujours aller de pair, « car il n'est pas donné aux
+hommes de créer d'âmes sans corps. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>vœu, improvisa la traduction de son Faris, qu'Odyniec et Pavie notèrent.
+Victor Pavie raconte ainsi cette séance (l)</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>plus criantes lacunes, son intarissable disciple intervenait et suppléait.</p>
+<p>Weimar, le 30 août 1829.</p>
+<p>Gubthk.</p>
+<p>Le 31 août, il visita le champ de bataille d'Iéna en</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>7</p>
+<p>n</p>
+<p><pb/></p>
+<p>Adam Mickiewicz tenait un journal de voyage àl'insu de son compagnon.
+Quand ce dernier insista pour lire (1) Voir les Letlres de voyage
+d'Odyniec, t. I"r.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ville, il s'y recueille et y scrute avec ferveur le secret de la
+destinée de Byron et de celle de Napoléon. Odyniec, qui l'écoute, garde
+une impression si durable que le récît que voici, écrit par lui au
+retour d'une promenade au Lido, a, cette fois, le reflet lumineux des
+pensées de Mickiewicz</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Plus les antiquités chrétiennes et payennes vous sont familières, plus
+on a de compétence artistique et plus Rome vous impose. Il n'y a pas de
+cité qu'Adam Mickicwicz ait étudiée avec autantd'ainour. «Rome,
+écrirat-il en 1851, est l'unique ville, après Nowogrodek et Vilna, que
+je connaisse beaucoup mieux que Paris. » Sa productivité littéraire y
+fut cependant presque</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>7.</p>
+<p>n</p>
+<p><pb/></p>
+<p>Le 18 décembre, M1"5 de Klustine inscrit sur son journal « Hier matin le
+poète Mickiewicz m'a enchantée par son esprit. » Le 28 décembre, elle va
+se montrer en costume de la cour d'Henri III chez la comtesse Ankwicz. «
+Les yeux de Mickiewicz, écrit-elle, se sont allumés et j'attends au
+moins une ode en mon honneur. » Le 21 avril 1830 elle écrira «
+Mickiewicz me plait infiniment. Je ne puis démêler ce qu'il pense de moi. »</p>
+<p>(i) De Klustine, frère de M"* Anatasie.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ankwicz, jeune fille d'une rare élévation d'âme et qui devait mourir
+sœur de charité sont les seuls vestiges que ce charmant intermède ait
+laissé dans les œuvres du poète (1).</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Car il n'ira pas, comme les anciens chevaliers, planter la croix
+triomphante sur Jérusalem, ou, comme les soldats du monde moderne,
+labourer le champ de la liberté et, de son sang, arroser la terre c'est
+d'un espion inconnu que lui</p>
+<p><pb/></p>
+<p>viendra le défi c'est un tribunal parjure qu'il devra combattre pour
+champ de bataille, il aura un cachot sous terre, et sa sentence, un
+ennemi puissant la prononcera. Vaincu, pour monument funéraire il lui
+restera le bois desséché de la potence pour toute gloire, quelques
+pleurs de femmes et les longs entretiens nocturnes de ses compatriotes.</p>
+<p>Le 2 novembre 1847, dans un discours noté sur l'heure même, Mickiewicz,
+certain de l'imminence d'une révolution, débutait ainsi</p>
+<p><pb/></p>
+<p>munications. Par suite de ce concours de circonstances, le poète ne
+quitta Rome que le 19 avril 1831. En Posnanie, les Prussiens gardaient
+jalousement la frontière, et bientôt survint la nouvelle que l'armée
+polonaise émigrait.</p>
+<p>Mais ces réalités épouvantables s'affirmèrent peu à</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Mickiewicz sentit l'inspiration lui revenir aussi abon-</p>
+<p><pb/></p>
+<p>Mais Varsovie a succombé, et Ordon a mis le feu aux poudres plutôt que
+de se rendre. Le poète conclut ainsi</p>
+<p>Pour une bonne cause, l'œuvre de destruction est sacrée comme l'œuvre de
+création. Dieu a prononcé le mot Sois! Dieu prononcera aussi le mot
+Péris! Lorsque la foi et la liberté auront disparu de chez les hommes,
+lorsque le despotisme et l'orgueil insensé auront inondé la terre, comme
+les Russes la redoute d'Ordon, Dieu, châtiant la race des vainqueurs,
+souillée de crimes, fera sauter la terre comme Ordon fit sauter sa redoute.</p>
+<p><pb/></p>
+<p>Réponds. car je tire contre ta nature si je ne la réduis pas en poudre,
+j'ébranlerai l'immensité de tes domaines, je lancerai ma voix jusqu'aux
+dernières limites de la création. D'une voix qui retentira de génération
+en génération, je m'écrierai que tu n'es pas le père du monde mais que
+tu en es</p>
+<p>Une autre voix que celle du poète achève la pluase en murmurant</p>
+<p>Le Tsar</p>
+<p>Ce mot, qui lui est soufllé, le poète ne le prononcera pas il s'arrêtera
+au seuil du blasphème, parce que ses imprécations partent non de
+l'orgueil individuel, mais de la douleur nationale. Le monologue de
+Conrad, des milliers de Polonais le répétèrent en demandant au Créateur
+la raison des prospérités d'un Alexandre III ou d'un Bismarck, mais
+quiconque d'entre eux « beaucoupaimé, aimé toute une nation » entrevoit
+« le vengeur qui la ressuscitera » et cesse bientôt de maudire ses
+souffrances, puisqu'elles doivent hùter l'heure où la Pologne sera</p>
+<p><pb/></p>
+<p>détachée de cette croix « aux bras longs comme l'Europe entière, et qui
+est formée de trois peuples desséchés comme de trois arbres morts ».</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>IV</p>
+<p>L'émigration. LE LIVRE DES PÈLERINS POLONAIS ET LE POÈME LE SIEUR
+ThADÉE. MICKIEWICZ AU LIT DE MORT DE SON AMI ÉTIENNE GARRZYNSKr. SON
+INTIMiTÉ AVEC Lamennais ET MONTALEMBSRT. SA FERVEUR RELIGIEUSE ET SON
+MARIAGE. SA LIAISON AVEC mlchelbt ET QUINET. SES ESSAIS EN LANGUE
+français: Appréciation dk GEORGE SAND. Difficultés DE SA SITUATION.
+PROJET d'établissement EN SUISSE.</p>
+<p>f</p>
+<p>Xavier de Maistre a dit</p>
+<p>Destine aux grands travaux,</p>
+<p>De voir couler leurs jours, perdus pour la patrie,</p>
+<p>Dans un obscur repos.</p>
+<p><pb/></p>
+<p>horrible cauchemar. Beaucoup d'émigrés polonais eussent volontiers,
+selon l'expression de Lacordaire, «menacé, comme Ajax, du tronçon de
+leurs épées, la majesté des dieux. » Il y eut forcément de virulentes
+récriminations, de maladives impatiences et des accusations passionnées.
+Déséquilibrés par l'infortune, les émigrés devenaient plus sensibles aux
+influences ambiantes. Les Polonais, immobilisés en majeure partie en
+France, allaient-ils s'inféoder aux systèmes qui s'y disputaient la
+prépondérance ? S'éprendraient -ils de cette Royauté soi-disant
+citoyenne et au fond peureuse et félonne, de ce parlementarisme bavard
+et vénal, de cette opposition bruyante, mais vide?</p>
+<p>Simple témoin des péripéties de 1831, Mickiewicz fut plus bouleversé du
+spectacle de ce drame que s'il en eût été un des acteurs, parce que les
+périls auxquels on voit exposé un être qui vous est chervous
+remuentplusprofondément que ceux qu'on affronte soi-même. Il rêva de
+sanctifier l'exil, d'épurer les âmes, de métamorphoser les régiments
+polonais rejetés loin de leur patrie en une sorte de légion thébaine
+qu'aucun martyre ne saurait plus épouvanter. Le poète exhala dans le
+Livre desPèlerins polonais les sentiments éveillés en lui par l'héroïsme
+de la lutte, son dénouement fatal, et les conséquences néfastes de la
+dispersion.</p>
+<p><pb/></p>
+<p>La Revue des Deux-Mondes (juin 1833), aussitôt l'apparition du Livre des
+Pèlerins polonais, en disait: Combien est digne de respect et de
+sympathie ce fils de la Pologne, cet Adam Mickiewicz, qui console et
+soutient ses compatriotes dans l'exil, en leur montrant dans l'avenir
+leur patrie ressuscitée et la vraie liberté triomphante dans l'Europe
+entière On ne,peut lire sans émotion le Livre des Pèlerins polonais.</p>
+<p>Dans une autre Revue française on lisait:</p>
+<p>Deux poèmes nous sont venus cette année le premier de Pologne, cette
+Palestine du Nord, le second d'Italie, cette Grèce d'Occident. L'un
+sublime de simplieité, gros d'une sainte colère, palpitant d'une haine
+céleste, tel qu'un psaume de David; l'autre sublime de douceur, divin de
+résignation, plein de prière et d'amour, tel qu'une épître de saint Jean
+deux chefs-d'œuvre jumeaux, comme l'ancien et le nouveau Testament
+appelés, celui-ci, Livre des Pèlerins polonais, par Adam Mickiewicz,
+celui-la, Mes prisons, par Silvio Pellico.</p>
+<p><pb/></p>
+<p>Mademoiselle, vous me gâtez beaucoup trop, selon votre ancienne
+habitude, en rue témoignant une reconnaissance exagérée pour le peu de
+lignes que vous voulez bien me permettre de vous adresser de temps à
+autre. Je voudrais pouvoir vou-s donner aujourd'hui quelques détails inté-</p>
+<p><pb/></p>
+<p>ressants sur nos chers réfugiés, mais je ne sais rien, je n'en ai point
+rencontré en province, je n'ai trouvé que leur trace et les souvenirs
+qu'ils avaient laissés dans plusieurs villes. Je le dis du reste à
+Madame votre mère.</p>
+<p><pb/></p>
+<p>CH. DE MONTALEMBERT.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>parmi les libéraux catholiques, anciens partisans de l'Avenir, qui sont
+les seuls en France qui goûtent ce livre, proscrit par les faux libéraux
+du Courrier et par les absolutistes. Ne riez pas trop, je vous prie, de
+mon charlatanisme. Je ne manquerai pas de vous envoyer un exemplaire de
+cette belle œuvre, dès qu'elle sera imprimée.</p>
+<p>J'ai fvu dans les journaux le mariage de votre amie M"e Airey, et la
+mort de son père, le général.</p>
+<p>Pardonnez, je vous prie, ce griffonnage, mais je suis très (i) Cousine
+de M1" Ankwicz.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>préconiser un système quelconque de régénération nationale.</p>
+<p><pb/></p>
+<p>(1) Les articles publiés par Mickiewicz dans le journal en question ont
+paru, traduits en français, dans le volume des œuvres posthumes de
+l'auteur intitulé La politique du XIX siècle.</p>
+<p><pb/></p>
+<p>Eutin, dans huit ou dix jours, j'espère vous expédier plusieurs
+exemplaires de ma traduction des Ksiengi (i) pour laquelle j'implore de
+nouveau votre indulgence. L'impression en est entièrement terminée on
+n'attend plus qu'un avantpropos de moi.</p>
+<p><pb/></p>
+<p>Enfin, je suis devenu membre de la Société littéraire polonaise que le
+prince Czartoryski a formée ici, et qui a pour but de réunir et de
+publier tous les documents, renseignements, qui peuvent intéresser la
+nationalité polonaise</p>
+<p><pb/></p>
+<p>Ch. de MONTALEMBERT. ]</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Quand S. Morawski communiqua ces détails au poète, Mickiewicz se
+trouvait dans une situation pleine d'ana-</p>
+<p><pb/></p>
+<p>logie avec celle de Céline Szymanowska. L'opposition de parents riches à
+un mariage que le poète avait rêvé cessait, après qu'il se fut convaincu
+qu'il devait chercher sa félicité ailleurs.</p>
+<p>A Paris, dit S. Morawski dans des mémoires inédits, j'ai servi
+d'intermédiaire au mariage de Céline Szymanowska et d'Adam Mickiewicz
+exilé, et j'ai de la sorte uni plus intimement encore par des liens de
+famille deux inséparables amis d'école.</p>
+<p><pb/></p>
+<p>des consolations dans le bonheur domestique, tant qu'il est possible
+d'avoir un chez soi. Quoique nous ne possédions tous les deux aucune
+fortune, tant que nous vivrons, nous aurons un morceau de pain. Tu sais
+que je me préoccupe peu de l'avenir et que cela n'empoisonne en rien ma
+félicité que d'ignorer ce qu'elle durera. Céline est la femme que je
+cherchais, courageuse contre toutes les adversités, contente de peu,
+toujours gaie.</p>
+<p>Selon une expression d'une de ces lettres postérieures, Mickiewicz eut
+toujours le pain du jour, rarement celui du lendemain. Ce pain du jour
+fut souvent sur le point de faire défaut. Eustache Januszkiewicz, qui
+fut de longues années un éditeur très méritant et publia plusieurs des
+chefs-d'oeuvres polonais éclos dans l'émigration, tenait un journal dont
+nous extraierons quelques passages</p>
+<p>Le 7 septembre, une fille naquit au poète. Le 18 août 1836, le journal
+de Januszkiewicz n'est pas plus rassurant. Il écrit</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ment dans les riches archives de l'hôtel Lambert. Voici une lettre du
+prince Adam Czartoryski, datée du 22 juin 1836:</p>
+<p>Monsieur. J'ai eu l'honneur de recevoir la lettre par laquelle vous
+m'annoncez que M. Mickiewicz n'ayant pas, d'après les documents que l'on
+a mis sous vos yeux, le caractère de réfugié politique, on ne saurait
+lui attribuer de subsides.</p>
+<p>Déjà, en 1823, victime de la persécution russe et mal noté</p>
+<p><pb/></p>
+<p>Agréez, Monsieur, l'expression de ma considération trèsdistinguée.</p>
+<p>Adam CZARTORYSKI.</p>
+<p>Les ministres reviennent d'autant plus rarement sur leurs décisions
+qu'elles sont plus absurdes. M. de Gasparin répondit, le 1er août 1836.</p>
+<p>MINISTÈRE DE L'INTÉRIEUR.</p>
+<p>C1BIKET</p>
+<p>dit soiiS'SecnHaire d'htat.</p>
+<p>Monsieur, j'ai fait examiner de nouveau l'affaire de M. Mickiewicz et ne
+puis que vous faire connaître l'imposssilnlité de lui allouer des
+subsides, attendu que ce célèbre poëte polo-</p>
+<p><pb/></p>
+<p>Agréez, Monsieur, l'assurance de ma considération distinguée.</p>
+<p>Le Pair de France, sous-secrétaire d'État de l'intérieur, Gasparin.</p>
+<p><pb/></p>
+<p>c Le plus grand malheur pour l'homme politique, c'est</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>rebelle et s'acharnent encore contre la victime, encensant son bourreau.
+0 justice tu as disparu de la terre!</p>
+<p>MONTALEMBERT.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>quotidienne que nous avions d'y voir arriver le choléra qui était avec
+fureur àNaples.</p>
+<p><pb/></p>
+<p>La scission du poète avec Montalembert est encore relatée par un autre
+ami de Mickiewiczqui cite, sous la date du 7 avril 1851, les paroles
+suivantes</p>
+<p>(2) Journal inédit de Charles Sienkiewicz.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>L'amitié de Mickiewicz, Quinet et Michelet n'a jamais</p>
+<p><pb/></p>
+<p>subi la moindre altération. Leurs noms furent bientôt associés par
+l'égale popularité et l'analogie de tendances de leur enseignement au
+Collège de France.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>v</p>
+<p>COURS DE LITTÉRATURE LATINE A L'UNIVERSITÉ DE LAUSANNE. ENSEIGNEMENT DE
+LA LITTÉRATURE SLAVE AU COLLÈGE DE France. – PRÉDICATIONS D'ANDRÉ
+TOWIANSKI A PARIS ET leur INFLUENCE SUR LES LEÇONS DE MICKIEWICZ.
+SUSPENSION DE CES LEÇONS ET DÉPART DU POÈTE POUR rûmb</p>
+<p>Je n'ai été en état de m'occuper de quoi que ce soit. Je n'ai pendant ce
+temps rien pu lire, car je ne comprenais même pas ce que je lisais. J'ai
+plus souffert que je ne saurais l'exprimer.</p>
+<p>Ses amis de Lausanne ne l'oubliaient pas. Il lui fallut attendre que sa
+femme fut entièrement rétablie et ce n'est qu'en juin 1839 qu'il reprit
+le chemin de la Suisse. Les dévouements ne lui manquèrent pas. Outre
+Juste Olivier, il eut d'autres alliés, et notamment Melegari,</p>
+<p><pb/></p>
+<p>Juste Olivier dit encore</p>
+<p><pb/></p>
+<p>Sa leçon d'installation eut lieu en octobre 1839 et produisit la plus
+grande sensation. Adam Mickiewicz</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>quité latine. Or son esprit se trouvait alors irrésistiblement entraîné
+vers d'autres sphères.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le poète arguait auprès de ses amis de Lausanne de la crainte que sa
+femme éprouvait du goitre pour sa fille; mais en réalité il délaissait
+l'oasis paisible pour s'en aller occuper un poste de combat.</p>
+<p><pb/></p>
+<p>deur et de la naïveté des mœurs héroïques, des épopées, des odes, des
+pièces de théâtre, tous les genres qui sont cultivés aux grandes époques
+littéraires, des annales où sont retracées la plupart des guerres qui
+ont amené la constitution de l'Europe moderne, les traditions des
+schismes religieux qui ont rangé sous l'église grecque les Slaves de
+l'Orient et du Nord, et sous l'église latine, les slaves de l'Occident,
+un passé plein de grandes choses et de grands noms, Lazare, Huniade,
+Etienne Batory, Sobieski, Pierre [er, tout cela formerait la matière
+d'un enseignement tel qu'il convient d'en doter le Collège de France,
+riche de faits nouveaux qui intéressent au même degré la France et
+l'Europe et que de longues années d'études ne pourront épuiser.
+(Moniteur Universel.)</p>
+<p><pb/></p>
+<p>Cousin répondit que les langues slaves étaienl riches en monuments. Il
+ajouta:</p>
+<p>Le nouvel enseignement mettrait la France en communication
+intellectuelle avec une race qui compte soixante millions d'habitants
+entre la mer Adriatique et la mer Glaciale, entre les Carpatheset le
+mont Uural. Il est digne de la France</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>lité qui a reçu de si cruelles atteintes. » (Moniteur Universel du 8
+juillet 1840.)</p>
+<p>Et vous êtes devenus la pierre de touche des princes et des docteurs de
+ce monde; car dans votre pèlerinage, est-ce que les mendiants ne vous
+ont pas plus secouru que les princes? Et dans vos combats, dans vos
+prisons et dans vos misères, est-ce qu'une prière ne vous a pas plus
+nourri que la science des Voltaire et des Hegel, qui sont comme du
+poison, et que la science des Guizot et des Cousin, qui sont comme des
+moulins vides?</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le 5 décembre, madame de Pons écrit dans son journal</p>
+<p>La Providence a voulu que Napoléon eût en tout une destinée unique et
+prodigieuse; après une carrière d'abord éblouissante de prospérité, puis
+accablante de revers et d'amertumes, après cinq années pendant
+lesquelles, sans que son courage faiblît, il a réalisé aux yeux de
+l'univers le supplice de Prométhée, après cette monstrueuse agonie, la
+terre s'en empare et le couvre de son poids funèbre. Maïs, comme la
+puissance cachée d'un volcan, les restes du grand homme</p>
+<p><pb/></p>
+<p>Le 16 décembre 1840, madame de Pons, au retour de la cérémonie, lui
+consacre des lignes palpitantes de l'émotion générale</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>fi.</p>
+<p>Mickiewicz, sauf l'année passée en Suisse, n'avait guère quitté Paris
+depuis six ans. Il manquait cependant de l'année de résidence exigée par
+la loi pour la naturalisation et, au lieu d'être nommé professeur, il
+fut simplement chargé provisoirement du cours. Le Courrier Français du
+21 décembre 1840 releva ce mot de provisoirement:</p>
+<p><pb/></p>
+<p>aucune façon M. Letronne, administrateur du Collège de France, à
+l'espèce d'épigramme qu'il s'est permise ou que l'on a permise en son nom.</p>
+<p><pb/></p>
+<p>Le lendemain de l'inauguration du cours d'Adam Mickiewicz, c'est-à-dire
+le 23 décembre, la communication suivante parut au Moniteur</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>L'incurie de l'Europe, qui néglige de les connaître aumoment où ils la
+menacent, lui a fourni le texte d'un rapprochement qui saisira les
+esprits. Il a rappelé Tacite décrivant les mœurs des Germains au milieu
+des Romains inattentifs, et pendant que ces tribus promenaient dans
+leurs forêts l'avenir du monde, t Vous êtes les fils de ces barbares »,
+a dit Mickiewicz aux Français qui l'écoutaient.</p>
+<p><pb/></p>
+<p>Le 25 décembre, le Courrier Français insérait un essai de justification
+de M. Letronne</p>
+<p>Paris, 34 décembre</p>
+<p>Monsieur,</p>
+<p><pb/></p>
+<p>Voilà, Monsieur, qui est bien grave. Je pense que vous vous seriez
+abstenu de ces reproches et de ces insinuations, si vous aviez connu les
+termes de l'arrêté ministériel dont l'exécution m'était confiée. Cet
+arrêté est du 8 septembre il a été pris et signé par M. Cousin, par le
+ministre auquel on doit la création de cette chaire nouvelle et que
+personne assurément ne soupçonnera d'avoir voulu faire une supercherie,
+ni montrer de la malveillance envers M. Adam Mickiewicz. Or cet arrêté
+porte</p>
+<p>Agréez, etc.</p>
+<p>Letronne</p>
+<p>Administrateur du Collège de France.</p>
+<p>Le journal fit suivre cette lettre d'observations aigredouces</p>
+<p>Les explications de M. Letronne atténuent le fait que nous</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>M. Letronne, que le polonisme effarouchait, sa fille. épousa en 1857 un
+émigré polonais.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Veuillez agréer, Monsieur, la nouvelle assurance de mes sentiments les
+plus distingués.</p>
+<p>Letronne.</p>
+<p>Léon Faucher pressa Mickiewicz de se mettre par la naturalisation à
+l'abri des caprices de ministres futurs. Mais le poète, qui considérait
+le régime orléaniste comme un fait purement accidentel, ne se décida pas
+au serment.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>L'idée d'une rénovation universelle travaillait alors les âmes. Les
+Saints-Simoniens et toutes les écoles socialistes la cherchaient dans
+une organisation plus rationnelle de la société. Mickiewicz n'admettait
+qne le progrès précédé d'une régénération morale. Towianski s'affirmait
+(i) Lettre de Jérôme Bonkowski.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>12</p>
+<p>19</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>(i) Jules Michelet et ses enfants, par Eugène Noël, 1878. Le li avril
+Issl, un agrandissement de cette médaille a été placé au Collège de
+France, dans la salle où parlèrent Mickiewicz, Michelet et Quinet.
+Ernest Renan qui, en qualité d'administrateur du Collège de France,
+présida cette cérémonie, a dit « Michelet, Quinet,</p>
+<p><pb/></p>
+<p>Un autre contemporain, le docteur Clavel, ruminant le passé, écrira en
+1862 «-</p>
+<p><pb/></p>
+<p>cours de Mickiewicz fut suspendu. A une leçon où il parlait des misères
+et de la grandeur morale du paysan slave, il avait fait distribuer à
+l'auditoire une lithographie représentant un paysan polonais en haillons
+et une autre fois l'image de Napoléon Ier pleurant sur la carte
+d'Europe. Il expliqua plus tard ainsi sa conduite dans ces circonstances</p>
+<p>Villemain lui offrit même une mission littéraire en Italie. v Mais il ne
+m'était pas plus possiblede me dé(1) Entretiens notés par M. Armand Levy.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>– ̃ ~C"</p>
+<p>malheur, le talent et la poésie peuvent avoir communiqué un peu
+d'exaltation, mais dont les premiers écrits étaient tous empreints d'un
+caractère si religieux et consacrés par un si pieux traducteur. Je ne
+puis donc légèrement admettre des accusations dirigées contre un
+étranger, contre un absent, contre un poète. (Approbation.)</p>
+<p>M.'Glais-Bizoin. Ces outrages sont des éloges.</p>
+<p>M. le Ministre de l'instruction publique.- Mais non, pas le moins du monde.</p>
+<p><pb/></p>
+<p>Le livre si ridiculement attaqué par M. de l'Espinasse, c'était les
+Pèlerins polonais.</p>
+<p>Le gouvernement de Louis-Philippe éloigna les professeurs qui
+passionnaient la jeunesse, et celle-ci se refroidit progressivement. A
+l'heure des désastres nationaux, il y eut quelques lueurs touchantes,
+mais la flamme nécessaire pour cmbraser ies âmes ne brûla pas sur
+l'autel de la patrie. Les étudiants se garèrent des entraînements
+humanitaires, rien ne les détourna plus</p>
+<p><pb/></p>
+<p>du soin de leur carrière, et leurs facultés d'enthousiasme se dépensent
+au Chat Noir et dans d'autres cabarets.</p>
+<p>Michelet a toujours soutenu qu'en face de la Sorbonne qui représente la
+tradition, le Collège de France représente l'innovation, et que lui et
+ses collègues furent suspendus indûment et en violation de l'institution
+qu'on prétendait protéger. Frappé le dernier des trois, il imprima
+quelque temps les leçons qu'on ne lui permettait plus de prononcer, et
+on lit dans son cours de 1847</p>
+<p>Pourquoi vouloir donner la couleur d'un événement fortuit</p>
+<p><pb/></p>
+<p>Sur le déclin de sa vie, Michelet reviendra une fois encore sur ce
+passé, et il dira dans le Paris-Guide Ce qui a caractérisé le nouvel
+enseignement, tel qu'il parut au Collège de France, c'est la force de la
+foi, l'effort pour tirer de l'histoire non une doctrine, mais un
+principe d'action, pour créer plus que des esprits, mais des âmes et des
+volontés. Par un bonheur singulier et qui prouve que ces pensées
+n'étaient pas proprement miennes, mais le génie de notre âge, c'est que
+le même chemin fut suivi en même temps par deux esprits éminents, Quinet
+et Mickiewicz, venus des deux bouts du monde, d'imagination très diverse
+et cependant concordant entre eux et avec moi par le sens profond de la
+vie, de l'âme populaire. Dès longtemps Quinet et moi nous marchions
+parallélementsur des lignes très rapprochées. Mickiewicz, sous des
+formes différentes, nous était uni par le cœur, par le fond de la pensée
+même. En reconnaissant</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>de tous les Polonais. L'auditoire était plus nombreux encore que de
+coutume, tous étaient venus de meilleure heure. A peine les portes
+furent-elles ouvertes que des cris Vive la Po. logne! retentirent et des
+quêtes s'organisèrent sur tous les bancs. Cinq gros sacs furent déposés
+sur la chaire et, quand M. Michelet entra, l'auditoire, passez-moi
+l'image, était comme une immense pompe aspirante. A l'agitation
+extraordinaire avait succédé un silence avide. M. Michelet leur dit net
+et avec une parfaite sérénité « Le droit est éternel, i L'effet fut
+immense. Après un silence de quelques secondes, tant le saisissement
+avait été universel, il y eut comme un embrassement de tous les cœurs la
+salle aurait dû crouler sous les trépignements et les applaudissements.
+Puis, M. Michelet, sans autre allusion, reprit le sujet de son cours, la
+nationalité. Il profita de la ferveur de son auditoire pour réclamer, au
+nom de la morale, au nom du droit, contre la violence, contre la
+terreur, contre la doctrine du salus populi Ceux qui se vantent d'avoir
+sauvé le peuple par la terreur ne savent point si le peuple voulait être
+sauvé par l'infamie. Non, le succès n'est pas tout, le salut n'est pas
+tout. 11 ne faut pas le salut du peuple, il faut le salut de l'honneur.
+» Ici développement sur la Révolution française. L'histoire semblait
+parler pour la première fois sur cette époque. « Notre histoire n'est
+point celle de la Restauration, l'école fataliste qui a glorifié le
+succès; notre philosophie n'est point celle de la Restauration. Et il
+cita un passage de Cousin que j'extrais textuellement de la neuvième
+leçon du 19 juin 1828, p. 37 « J'espère avoir démontré, dit M. Cousin,
+que, puisqu'il faut bien qu'il y ait un vaincu et que le vainqueur est
+toujours celui qui doit être accuser le vain4 queur et prendre parti
+contre la victoire, c'est prendre parti contre l'humanité et se plaindre
+du progrès de la civilisation. Il faut aller plus loin, il faut prouver
+que le vaincu doit être</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>De la manière la plus simple, répondit le poète en riant. Deux
+marchandes de la halle se prendront, parexemple, aux cheveux un
+attroupement se formera autour d'elles, et Louis-Philippe sera chassé.</p>
+<p>Le 21 janvier 1848, Adam Mickiewicz partit pour Rome, accompagné de son
+ami Edouard Giericz.</p>
+<p><pb/></p>
+<p>VI</p>
+<p>CRÉATION A ROME d'une LÉGION POLONAISE. MARCHE DE ROME A MILAN. RETOUR
+EN FRANCE. FONDATION DE LA TRI-</p>
+<p>BUNE DES PEUPLES. TRACASSERIES POLICIÈRES. RÉVOCA-</p>
+<p>TION DU PROFESSORAT AU COLLÈGE DE FRANCE. MICKIE-</p>
+<p>WICZ A LA BIBLIOTHÈQUE DE L'ARSENAL. SES RAPPORTS AVEC</p>
+<p>LES NAPOLÉONS. IL PERD SA FEMME. Mission EN ORIENT.</p>
+<p>MORT A CONSTANTINOPLE. OBSÈQUES A MONTMORENCY.</p>
+<p>Adam Mickiewicz affectionnait singulièrement Rome.</p>
+<p>lui, la papauté est définitivement la force dirigeante. S'il s'y refuse,
+je ne sais ce qui arrivera. La Providence n'offre pas deux fois une
+occasion telle que celle-ci.</p>
+<p>Rien n'indiquait encore que Pie IX perdrait cette</p>
+<p>1</p>
+<p><pb/></p>
+<p>Il- i3.</p>
+<p><pb/></p>
+<p>se réinstallèrent, au nom du peuple, dans cette École, dont ils avaient
+été exclus au nom du Roi. Ils n'oublièrent pas leur collègue.</p>
+<p>En ceci, Michelet se trompe. Mickiewicz n'allait pas voir une Révolution
+en Italie. Il pressentait que l'Italie serait le pays le plus disposé à
+accorder aux Polonais leur drapeau, ce que l'avenir confirma pleinement.
+Voici l'allocution de Michelet le 6 mars 1848</p>
+<p>La France ne peut pas s'abstenir. Elle ne voit rien au monde, qu'elle
+puisse appeler étranger. Elle se retrouve et se reconnait, comme pensée
+et tradition, chez les nations lointaines. Et elles la regardent et s'y
+reconnaissent toutes.</p>
+<p><pb/></p>
+<p>Entre elles, une seule différence les unes parlent et crient A nous les
+autres pleurent, et ce sont elles qui ne peuvent parler encore, dont
+l'appel est le plus ardent.</p>
+<p>Ce fauteuil est celui de la Pologne.</p>
+<p>Mais la Pologne, qu'est-ce que c'est?</p>
+<p>Le représentant le plus général des souffrances universelles. En elle,
+je vois le peuple souffrant.</p>
+<p>C'est l'Irlande et la famine. C'est l'Allemagne et la censure,la lyranie
+de la pensée sur le peuple penseur entre tous. C'est l'Italie,
+Messieurs, en ce moment suspendue entre la vie et la mort, comme cette
+âme du Jugement dernier de Michel-Ange. La mort et la barbarie la tirent
+en bas, mais la France la tire en haut. Elle est sauvée de ce jour. et
+que personne n'y touche 1</p>
+<p>Oui, Messieurs, tous les drapeaux de l'Europe, je les vois flotter sur
+ce siège. J'y vois dix nations en pleurs, qui sortent de leur tombeau.</p>
+<p><pb/></p>
+<p>et qu'un moment, du moins, l'humanité ravie se dise: Jesavais bien que
+j'étais une et qu'il n'y a qu'un peuple au monde (1) 1</p>
+<p>Vers cette époque, un ami de Mickiewicz, ayant accompagné la femme du
+poète chez Michelet, entendit celui-ci lui dire</p>
+<p>(2) Lettre de J. Bonkowski au Président de la ville de Cracovie.</p>
+<p><pb/></p>
+<p>Madame et amie, Quinet m'a dit vous avoir vue et vous avoir expliqué le
+peu de succès de nos démarches. Notre lettre et celle de Mickiewicz (1)
+avaient pourtant été envoyées aux deux journaux des Écoles et au club
+principal des étudiants.</p>
+<p>J. MICHELET.</p>
+<p>Mais quand il faut briser le joug des oppresseurs,</p>
+<p>Liberté, poésie et guerre sont trois sœurs.</p>
+<p><pb/></p>
+<p>Ce n'est qu'après avoir conclu sa convention avec les Lombards que
+Mickiewicz repassa les Alpes pour</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Dès mars 1848, Mickiewicz exprima la conviction que la République en
+France ne durerait pas et que le pouvoir reviendrait aux Napoléons. Un
+de ses amis, le comte Grabowski, écrivait de Rome, le 7 mars 1848, au
+frère ainé du poète:</p>
+<p>Selon Adam, le gouvernement républicain ne se maintiendra pas c'est un
+régime transitoire une main puissante se saisira ensuite de l'autorité,
+pulvérisera et anéantira les bavards. Pour nous, nous gagnerons le ciel
+ou retomberons dans un abîme plus profond.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>(1) Entretiens d'Adam Mickiewicz notés par Armand Lévy.</p>
+<p><pb/></p>
+<p>A l'occasion du coup d'État, mon père me donna cinq francs pour mes
+menus plaisirs, en me disant de m'amuser ce jour-là</p>
+<p>Parce que l'événement qui venait de se produire mettrait infailliblement
+la France aux prises avec les puissances copartageantes de la Pologne.</p>
+<p><pb/></p>
+<p>Vous alliez avoir les proscriptions d'Antoine, d'Octave et de Lépide.
+Vous avez Octave de suite. De quoi vous plaignez vous?</p>
+<p>II est vraiment incroyable que les mêmes raisons de suspicion existant
+avant 1848 soient invoquées aujourd'hui, qu'elles devraient être des
+recommandations.</p>
+<p><pb/></p>
+<p>Soldat d'une époque où les Polonais et les Français se sentaient le plus
+intimement unis; d'une époque où les Polonais et les Français ont fait
+les plus grandes choses qui aient jamais illustré leur nation; d'une
+époque ou les noms de Polonais et de Français jetaient le plus vif
+éclat, je porte la santé de celui dont le nom nous rappe'ie rette
+époque. Puisse-t-il nous redonner ces sentiments dont le souvenir nous
+rend encore heureux!</p>
+<p>Le banquet projeté n'eut pas lieu.</p>
+<p><pb/></p>
+<p>Cher et illustre ami. J'ai le cœur brisé de voire nouvelle persécution.
+Ah nous entrons dans un dge barbare, ennemi de la pensée! Je l'ai dit à
+mon cours. J'ai dit aussi que vous seul aviez été vrai prophète. Vous
+seul avez prévu.</p>
+<p><pb/></p>
+<p>J'ai regardé alors autour de moi, et je me suis adjoint la personne qui,
+avec mon gendre, représente le plus ma pensée. Elle a été formée par mes
+livres, comme lui par mon enseignement.</p>
+<p>Je vous serre la main et de cœur.</p>
+<p>J. Mjchelet.</p>
+<p><pb/></p>
+<p>Monsieur et cher ami, je veux bien être le témoin d'un acte qui est pour
+vous une promesse de bonheur. Vous avez raison de penser qu'un tel acte
+ne doit pas être accompagné de formules fetériles. Les magistrats de
+l'église sont aujourd'hui ceux qui comprennent le moins l'institution du
+mariage. Et c'est l'un des plus grands malheurs de l'époque actuelle.</p>
+<p>Votre dévoué,</p>
+<p>Adam Mickiewicz.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>autant qu'il fûten lui, les ennuis du service. Lors des prédications
+Saint-Simoniennes, Laurent de l'Ardèche avait élevé la voix en faveur de
+la Pologne. Historien de Napoléon Ier, ses idées concordaient, sur
+beaucoup de points, avec celles de mon père, qui eut bientôt dans son
+supérieur hiérarchique un ami dévoué.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Les complications orientales, en 1853-1854, éveil-</p>
+<p><pb/></p>
+<p>laient dans les cœurs polonais les espérances les plus vives. Le jour où
+l'armée française débarqua en Crimée. Henri Sluzalski arriva avec le
+journal qui contenait cette grande nouvelle et la proclamation de
+Saint-Arnaud. « Que dit-il dans sa proclamation? » s'écria-t-on de
+toutes parts. « Oh! » répondit Sluzalski en parodiant la proclamation de
+Bonaparte en Egypte, « il dit aux troupes Soldats, du haut de ces
+collines quarante mille moutons vous contemplent »</p>
+<p><pb/></p>
+<p>constances appréciables des seuls initiés peuvent égarer le jugement
+d'observateurs superficiels. Des médiocrités littéraires qui n'osaient
+même se présenter chez Mickiewicz ont, sous forme de mémoires, vulgarisé
+des anecdotes d'estaminet ou de grossières inventions personnelles.
+L'avenir nous réserve sans doute d'autres surprises de ce genre. Quels
+que soient les mensonges qu'on forge, Céline Mickiewicz, si elle les eût
+prévus, les eût dédaignés. Elle aurait droit qu'on gravât sur son
+cercueil les beaux vers du poème de Conrad Wallenrod</p>
+<p>En la reconduisant ait cimetière Montmartre, mon</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Veuillez, monsieur le Ministre, agréer l'assurance de ma haute
+considération.</p>
+<p>A. CZARTORYSKI.</p>
+<p>Depuis les réformes introduites en Turquie par le Sultan Mahmoud et que
+le gouvernement actuel ne cesse de développer, il s'est établi des
+rapports de plus en plus fréquents entre les chrétiens de la Turquie
+ainsi que les habitants des principautés Danubiennes et les peuples de
+l'Occident. Les événements actuels laissent prévoir que ces rapports
+auront un nouveau caractère plus intime encore, et qu'ils s'affermiront.</p>
+<p><pb/></p>
+<p>Le Ministère de l'Instruction publique désirerait avoir des
+renseignements précis sur la nature et l'étendue de cette influence,
+ainsi que sur les centres principaux des populations chrétiennes où elle
+s'exerce, où elle apparaît plus manifeste.</p>
+<p>1° Il désirerait avoir le tableau exact des établissements scientifiques
+et littéraires qui existent maintenant chez les chrétiens habitant la
+Turquie et les principautés du Danube;</p>
+<p>Avoir connaissance de leurs lois d'organisation Quelles sont les
+méthodes suivies dans les Ecoles publiques et les livres classiques
+maintenant en usage;</p>
+<p>Quels sont les auteurs occidentaux les plus connus et les plus
+populaires, et les livres que l'on y a traduits; Comparer la proportion
+des écrivains allemands et français pour les livres traduits;</p>
+<p>Y a-t-il dans les Bibliothèques quelques manuscrits, soit anciens soit
+du moyen âge, qui concernent la littérature classique de l'Occident?</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le lecteur n'oubliera pas que ce sont les épanchements d'un émigré
+polonais que le repos ronge et que la seule perspective de l'action
+enivre. En traduisant la prose d'Henri Sluzalski, nous respecterons plus
+d'une excentricité de langage, car, sous nos retranchements,
+l'originalité du personnage disparaîtrait entièrement. 11 et 12
+septembre 1855.</p>
+<p><pb/></p>
+<p>que, fort affairé, il était plus pressé d'en être débarrassé Dans la
+soirée, il jeta les yeux sur le paquet et s'aperçut que c'était
+simplement un pamphlet rimé contre lui! Il le jeta au feu sans le lire,
+mais en riant de bon cœur des politesses faites au drôle qui l'avait
+apporté.</p>
+<p>¡</p>
+<p>Marseille, 12 septembre, 11 h. du soir.</p>
+<p>Henri reprend le 13 septembre</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ces tiroirs de bois 1res commodes s'ils étaient plus longs et si les
+locataires des étages supérieurs n'étaient point malades.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>13.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Nous nous sommes réveillés, écrit-il le 16 septembre,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>A la même date, Armand Levy écrit de Malte</p>
+<p>Dimanche 16 septembre 1855.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>18 septembre.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>19 septembre.</p>
+<p><pb/></p>
+<p>pas goûtés. Minos, un petit Grec de Smyrne, attrape sur le rivage deux
+douzaines et demi de hérissons de mer qu'il nous accommode c'est un
+détestable régal.La quarantaine se compose d'un bâtiment qui n'a que les
+quatre murs et devant lequel monte la garde une sorte de brigand. J'ai
+peur que la Grecque n'y expire non de maladie,mais de faim. Notre
+paquebot se remet en marche.</p>
+<p>20 septembre.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>21 septembre.</p>
+<p>Non loin de l'île de Tenedos, nous faisons notre entrée dans la mer de
+Marmara. Nous apercevons distinctement le tom-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Maintenant le journal d'Henri s'arrête, mais ses lettres vont alterner
+avec celles d'Armand Levy et d'Adam Mickiewicz lui-même.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>16</p>
+<p>Ce même jour Henri n'a que le temps de tracer quelques lignes</p>
+<p><pb/></p>
+<p>Le 27 il date sa lettre de Galata, mais il n'y a ni mimeront nom de rue,
+ajoute t-il.</p>
+<p><pb/></p>
+<p>marches d'Adam Mickiewicz, elles dépeindront même avec plus de détails
+quelques-uns de ces types bizarres qui semblent suspendus entre
+l'Occident et l'Orient Péra, jeudi 27 septembre 185o.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Samedi 27 septembre 18S5.</p>
+<p>Venise, c'est Constantinople en miniature. J'ai visité d'autres mosquées
+encore, quand il n'y a pas de réunions de fidèles, on entre sauf à
+donner un baktchich en cadeau aux gardiens. Encore me dit-on que cette
+facilité n'existe que depuis la guerre actuelle. Autrefois il fallait un
+firman du Sultan qui s'obtenait assez difficilement et coûtait assez
+cher aussi se réunissait-on toujours un certain nombre. Mais depuis que
+nous protégeons sa Hautesse, la curiosité anglaise s'est passée de
+permission et s'est satisfaite d'ellemême. Et tous ont fait comme les
+Anglais. Mais chacun y apporte un respect que l'on est loin de garder
+dans SaintPierre de Rome. Le culte n'est pas encore regardé ici comme</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Nous dirons rétrospectivement l'ordre d'idées dans lequel travailla Adam
+Mickiewicz. Nous essayerons en</p>
+<p><pb/></p>
+<p>attendant d'interrompre le moins possible l'enchaînement des lettres de
+ses compagnons de voyage.</p>
+<p>Il ajoute le 3</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Mes souhaits de bonne santé et mes embrassements,</p>
+<p>Adam MICKIEWICZ.</p>
+<p><pb/></p>
+<p>Armand Levy me transmettait sous le pli de la lettre de mon père le
+billet suivant</p>
+<p>Le 7 octobre, Henri exhalait sa joie dans les lignes suivantes</p>
+<p>Quoique je ne sois pas encore devenu fou de bonheur. Dieu sait ce qu'il
+adviendra de moi. Comme j'aime ma patrie et comme l'honneur m'est cher,
+il n'y a pas de régiment au monde plus solide que le premier régiment
+kozak. Je jette</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>est heureux d'avoir revu son vieil ami; le général ne se possède pas de
+joie; demain nous chasserons au sanglier avec des épieux. Le paysage est
+des plus pittoresques. Le mercredi 9 octobre, Armand Lévy écrivait de
+Bourgas</p>
+<p><pb/></p>
+<p>“ Le 18 octobre, Armand Levy écrit</p>
+<p>Le 20 octobre, Henri Sluzalski décrit avec sa verve ordinaire l'épisode
+le plus riant de ce voyage qu'assombrirent bientôt la vue de discordes
+intestines</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>(t) Le Français.</p>
+<p><pb/></p>
+<p>4 18</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>geurs y découvrent de si agréable. Parlez-moi du cheval, c'est très
+différent.</p>
+<p><pb/></p>
+<p>(i) Cyprien Norwid, poète polonais contemporain.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le 1er novembre, Levy m'écrivait</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Autre lettre le 4 novembre</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Mickiewicz put enfin quitter l'hôtel et Levy l'annonce le 8 novembre</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>impossible de donner une idée de la multiplicité des costumes que l'on
+voit ici tantôt c'est un Tcherkesse avec sa longue capoté brune et sa
+garniture de cartouches, dix sur chaque côté de la poitrine, et son haut
+bonnet garni de fourrures tantôt un Persan avec sa robe orientale et son
+bonnet noir en peau de mouton; ailleurs un Grec avec son nez d'aigle et
+son large bonnet rouge plus loin le Turc, et puis les Européens de
+toutes nations. Chacun de ces costumes, qui ferait bondir d'étonnement
+nos Parisiens, passe ici complètement inaperçu.</p>
+<p><pb/></p>
+<p>purifier. En face même du lit du capitaine que je visitais se trouvaient
+des officiers russes. Aujourd'hui un officier français partant donnait
+une poignée de main aux officiers russes en retour recevait d'eux en
+parfait français un souhait de bonne santé. Sans doute ainsi un jour
+fraterniseront les deux peuples, mais il faut pour cela que de grands
+actes de réparation aient eu lieu. Nulle alliance n'est bonne sans
+justice, car elle manque de bénédiction.</p>
+<p>Il ajoute dans un cahier de notes</p>
+<p>(i) Entretiens notés par Armand Levy.</p>
+<p><pb/></p>
+<p>Deux fois mon père avait rencontré sur sa route ce terrible fléau, en
+1832 et en 1849. A Constantinople, le choléra s'est en quelque sorte
+acclimaté. Ses ravages augmentent ou diminuent d'intensité, mais il ne
+disparaît jamais entièrement.</p>
+<p>Le choléra semble coïncider en Europe avec les déceptions qui ont suivi
+jusqu'ici trop souvent les grandes secousses morales.</p>
+<p>Au prince Adam Czartoryski, hôtel Lambert, Paris. Constantinople, 27
+novembre.</p>
+<p>SLUZALSKI, Ahmand LEVY.</p>
+<p>Le 3 décembre, une lettre de Levy apporta les détails suivants</p>
+<p>Votre pauvre père nous a été enlevé comme par un coup de</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Dans une note, écrite le surlendemain de la mort de Mickiewicz, Levy dit</p>
+<p>Mon cher Kalinka,</p>
+<p>Tous les officiers portaient le crêpe au bras et au sabre. :s soldats
+portaient leur fusil en deuil; les clairons étaient ssi garnis de crêpe.
+Les soldats étaient en tuniques, haa-sac sur le dos, capote pliée, shako
+couvert en toile cirée.</p>
+<p><pb/></p>
+<p>Le char funèbre, traîné par des bœufs couverts en noir, avait été donné
+par l'hôpital français. Sluzalski portait l'uniforme d'officier
+supérieur, et Levy de soldat du 1er régiment des Cosaques. Lord
+Strafford a envoyé un de ses secrétaires.</p>
+<p>LEVAL.</p>
+<p>Le 7 janvier I806, Levy écrit</p>
+<p><pb/></p>
+<p>A Paris, le service funèbre eut lieu le 21 janvier. Un ami de
+Mickiewicz, Félix Wrotnovrski, en rend compte ainsi</p>
+<p>Un vieil ami de Mickiewicz, le poète Bohdan Zaleski, parla au cimetière</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>voix contre voix, sur la note des mélodies nationales oubliées. Et où
+sont ces journées harmonieuses?</p>
+<p>Ces temps merveilleux, ces jours de bonheur et de gloire, comme les
+feuilles d'érable que le vent roule ont été emportées on ne sait où.</p>
+<p>Notre Adam, je te dis adieu au nom de la Lithuanie Je te (1) Soeur du
+prince Adam Czartoryski, et qui ne voulut plus connaître son fils, parce
+qu'il avait porté les armes contre la Pologne.</p>
+<p><pb/></p>
+<p>Après les soucis, les luttes, les douleurs de cette existence terrestre,
+Céline et Adam, réunis dans ce commun tombeau, que la paix soit avec
+vous dans le Seigneur, dans l'infini des temps et de l'espace</p>
+<p>Selon la coutume observée dans notre émigration, je jette dans cette
+fosse une poignée de terre polonaise, de terre des rives du Dnieper.</p>
+<p>( Après que des prêtres polonais eurent récité sur la tombe VAve Maria,
+Bolulaa Zaleski ajouta:</p>
+<p>Sainte Vierge qui défend la brillante Czenstochowa et qui resplendis à
+Ostrobrama (1), toi protectrice de Nowogrodek et (4) Czenstochowa et
+OstroLrama sont deux sanctuaires vénérés,</p>
+<p><pb/></p>
+<p>de son peuple fidèle, par un miracle, reconduis ton poète dans sa patrie</p>
+<p>Charles Edmond Chojecki, en décrivant ce coin du</p>
+<p>Campo-Santo de l'exil polonais, où, en un si petit espace, repose tant
+de gloire, dorment tant de souvenirs, rappelle que chaque année, le 21
+mars, l'émigration polonaise s'y rend en pèlerinage et il ajoute</p>
+<p><pb/></p>
+<p>tionale de son pays Son corps repose ici sous quelques pelletées de
+terre, mais son esprit embrasse au loin de vastes contrées. Il erre dans
+l'ombre, insaisissable aux Cosaques et aux sbires du tzar, de hameau en
+hameau, de maison en maison, comme un soufle, de bouche en bouche, et il
+amasse de saintes colères contre les oppresseurs. Oui, pour qui sait
+voir, Mickiewicz mort est, avec tant de martyrs, de toutes les forces
+vives de la patrie la plus vivante encore.</p>
+<p><pb/></p>
+<p>Dossier d'Adam Miokiewioz (1).</p>
+<p>Le Ministre, secrétaire d'État au département de l'instruction publique</p>
+<p>Vu la loi du 15 juillet 1840, portant création d'une chaire de langue et
+littérature slave au Collège de France,</p>
+<p>ARRÊTE</p>
+<p>Cousin.</p>
+<p>(2) Voir: Bulletin des Lois du Royaume de France, année 1841. Loi qui
+ouvre m crédit pour la création d'nne chaire de langue et</p>
+<p><pb/></p>
+<p>Rapport de police.</p>
+<p>10 août 1842.</p>
+<p>M. Mickiewicz entraîne des Français. C'est pour la première fois depuis
+les carbonari que les fractions politiques polonaises cherchent des
+liaisons intimes avec les gens du pays. Il me semble que le fait est
+assez grave.</p>
+<p>Rapport de police.</p>
+<p>22 janvier 1844.</p>
+<p>Jeudi dernier, M. Michelet a dit devant un nombreux auditoire « Quant à
+Mickiewicz, c'est un homme dont la tête est entourée d'une lumière
+divine c'est plus qu'un poète c'est un prophète. »</p>
+<p>Rapport du 4 mai 1844.</p>
+<p>Adam Mickiewicz a érigé sa chaire en tribune et fait du cours de
+littérature qui lui est confié un enseignement politique.</p>
+<p>Rapport du 21 mai 1844.</p>
+<p><pb/></p>
+<p>Vive Adam Mickiewicz! Toutes les autres dames polonaises (il y en avait
+une trentaine) étaient très émues.</p>
+<p>Rapport du 29 mai 1814.</p>
+<p>t</p>
+<p>Le portrait a été distribué en plusieurs exemplaires au public, puis a
+été repris par le Suisse et par ordre de M. Mickiewicz, parce qu'il n'a
+pas encore été déposé.</p>
+<p>Paris, 31 mai 1814.</p>
+<p>Monsieur le Préfet,</p>
+<p>Les manifestations étranges sur lesquelles vous avez justement appelé
+mon intention ont cessé, je l'espère. Le cours de M. Mickiewicz ne doit
+pas avoir lieu aujourd'hui ni jours suivants. S'il en était autrement,
+une mesure immédiate serait prise et j'aurais soin de vous en informer.
+Je vous prie de me faire connaître s'il se passe aujourd'hui quelque
+chose au Collège de France où, selon toute apparence, le professeur ne
+sera pas attendu par son auditoire ordinaire.</p>
+<p>Recevez, etc.</p>
+<p>Le Pair de France, Ministre de l'instruction publique,</p>
+<p>Villeuâin.</p>
+<p><pb/></p>
+<p>Rapport de polioe.</p>
+<p>Le 27 septembre 1844, M. Mickiewicz a été appelé chez le</p>
+<p>Ministre. Depuis, une grande consternation règne parmi les sectaires de
+Towianski.</p>
+<p>Note de l'ambassadeur de France auprès du Roi des Belges.</p>
+<p>16 novembre 1844.</p>
+<p>Le Ministre, secrétaire d'État au département de l'instruc-</p>
+<p>tion publique,</p>
+<p>ARRÊTE</p>
+<p>M. l'administrateur du Collège de France est chargé de</p>
+<p>l'exécution du présent arrêté.</p>
+<p>SALVANUY.</p>
+<p><pb/></p>
+<p>Rapport de police.</p>
+<p>3 avril 1845.</p>
+<p>Rapport de police.</p>
+<p>19 août 1845.</p>
+<p>On assure que M. Mickiewicz se croit transporté au ciel depuis que son
+profil est immortalisé.</p>
+<p>Extrait d'un rapport de police du 20 décembre 1847.</p>
+<p><pb/></p>
+<p>Rapport de police du 20 janvier 1848.</p>
+<p>Paris, le 16 août 1848.</p>
+<p>Monsieur le Ministre,</p>
+<p><pb/></p>
+<p>Cet ordre de choses doit-il continuer ?</p>
+<p>Le congé subsistera-t-il ?</p>
+<p>Le professeur fera-t-il le cours?</p>
+<p>Son suppléant sera-t-il continué ?</p>
+<p>Ce sont des questions qui doivent être décidées pour que je puisse
+rédiger l'affiche du cours.</p>
+<p>Je vous prie d'agréer, etc.</p>
+<p>L'Administrateur du Collège de France,</p>
+<p>LETRONNE.</p>
+<p>Rapport de police</p>
+<p>3 octobre 1848.</p>
+<p>Le sieur Towianski, mis en liberté le 20 septembre sur l'ordre du
+général Bertrand, président de la commission militaire, demande à
+quitter la maison de santé Puzin pour se rendre dans le midi de la France.</p>
+<p>Paris, le 8 janvier 1849.</p>
+<p>Monsieur le Ministre l'instruction publique,</p>
+<p><pb/></p>
+<p>Pour les professeurs du Collège de France</p>
+<p>V Administrateur par interirn,</p>
+<p>E. BURNOUF (1).</p>
+<p>Nous Ministre, secrétaire d'Etat au département de l'instruction publique,</p>
+<p>Arrêtons</p>
+<p>Article premier. M. Cyprien Robert continuera de sup(i) M. Fùlloux
+écrivit sur cette lettre « Consulter M. Cousin. »</p>
+<p><pb/></p>
+<p>Falloux.</p>
+<p>Ministère de l'Intérieur.</p>
+<p>6 septembre 1849.</p>
+<p>Monsieur le Préfet,</p>
+<p>Agréez, Monsieur le Préfet, l'assurance de ma considération distinguée.</p>
+<p>J. DUFAURE.</p>
+<p><pb/></p>
+<p>Monsieur le Préfet,</p>
+<p>Veuillez agréez, etc.</p>
+<p>Le Ministre de l'instruction publique et des cultes,</p>
+<p>CABINET</p>
+<p>du</p>
+<p>Ministre do l'Intérieur.</p>
+<p>On désire se renseigner sur M. Mickiewicz. A-t-il rompu avec les anciens
+journalistes de la Tribune des Peuples? Quelle est son attitude depuis?</p>
+<p>A fournir d'urgence.</p>
+<p>29 mars 1852.</p>
+<p>H. Fortoul.</p>
+<p>Avril 1832.</p>
+<p>4 mai 1852.</p>
+<p><pb/></p>
+<p>13 mai 1852.</p>
+<p>Faire prendre auprès du Ministre des affaires élrangèrer les
+renseignements indiqués par M. Pietri.</p>
+<p>Faire deux copies du rapport de M. Pietri.</p>
+<p>H. FORTOUL.</p>
+<p>A. M. de Turgot.</p>
+<p>18 mai 1852.</p>
+<p>Monsieur le Ministre et cher collègue,</p>
+<p>M. le garde des sceaux m'a prié de lui faire connaître mon avis sur une
+demande de naturalisation formée parM. Adam Mickiewicz, ex-professeur de
+littérature slave au collège de France.</p>
+<p>En outre, M. Mickiewicz paraîtrait s'être activement occupé, après
+février, de la formation d'une légion polonaise et il aurait parcouru
+l'Italie, lors de l'insurrection qui y a éclaté, avec un drapeau qu'il
+prétendait être béni par le Saint-Père, qui lui a donné uu démenti
+officiel.</p>
+<p><pb/></p>
+<p>Je ne doute pas, Monsieur le Ministre et cher collègue,</p>
+<p>Agréez, etc.</p>
+<p>H. Fortoul.</p>
+<p>A S. B. M. Fortoul.</p>
+<p>Paris, 2 juin 1852.</p>
+<p>Monsieur le Ministre et cher collègue,</p>
+<p>Pour répondre au désir que vous m'avez fait l'honneur de</p>
+<p>J'ai l'honneur de vous annoncer que ces recherches n'ont</p>
+<p>Agréez, etc.</p>
+<p><pb/></p>
+<p>30 août 1852</p>
+<p>Rapport</p>
+<p>Nous avons fourni, le 9 avril courant, les renseignements demandés le 2
+du même mois.</p>
+<p>Les antécédents politiques du poète Adam Mickiewicz sont assez bien
+connus. Cependant, il existe un fait assez grave, reste pour ainsi dire
+ignoré. On se rappelle qu'élevé sous le gouvernement de Louis-Philippe à
+la chaire de littérature slave au Collège de France, il fut révoqué (1).</p>
+<p>On se souvient que sa nomination avait rencontré une vive opposition de
+la part de l'ambassade russe et que les difficultés n'avaient été
+aplanies qu'après de long pourparlers. On voulut connaître les diverses
+phases de cette intrigue et, par suite de quelques indiscrétions, on
+apprit que pour obtenir l'abstention du prince de Pahlen, M. Mickiewicz
+avait (1) Le 4 mai, le préfet de police transmit au ministre, sous sa
+propre signature, le rapport de son agent l'officier de paix Hébert, en
+y faisant des changements que nous donnons entre [ ]</p>
+<p><pb/></p>
+<p>La conduite de M. Mickiewicz est aujourd'hui plus réservée. Néanmoins il
+est difficile d'admettre que les événements de décembre aient modifié
+ses dispositions envers le gouvernement du Prince-Président. En effet,
+il est positif que Mickiewicz n'a pas abandonné ni désavoué la doctrine
+de Towianski, bien que la division règne parmi les sectaires qui
+tiennent encoredes réunions chez l'ancien professeur. Or, il est reconnu
+dans l'émigration polonaise que les adeptes du prétendu prophète ont
+constamment montré de l'aversion contre l'ordre de choses actuel et que
+leur manière de voir ne s'est pas mo difiée.] ]</p>
+<p>Actuellement, la conduite politique de M. Mickiewicz est empreinte de
+prudence, de réserve, on pourrait même dire de dissimulation et il
+serait difficile de savoir si les évènements de décembre ont quelque peu
+modifié ses dispositions</p>
+<p><pb/></p>
+<p>envers le pouvoir présidentiel, contre lequel il ne fait extérieurement
+aucune opposition.</p>
+<p>Non seulement M. Mickiewicz n'a pas abandonné ni désavoué ces doctrines
+de Towianski, mais encore il existe entre ces deux hommes une entente
+intime, cordiale et plus complète que jamais, bien que la division règne
+parmi les sectaires du prophète.</p>
+<p>Ceux-ci tiennent régulièrement des réunions chez M. Mickiewicz dans
+lesquelles figurent principalement le colonel Kamienski, Januszkiewiez
+etChodzko.</p>
+<p>La Tribune des Peuples n'a eu de fait que deux fondateurs réels M.
+Branicki, bailleur de fonds, et M. Mickiewicz comme rédacteur en chef.</p>
+<p>Ce dernier n'a pas rompu ses relations avec les anciens collaborateurs
+de cette feuille, et son intimité est très grande avec Branicki dont il
+est l'oracle dans toutes les questions politiques ou littéraires. C'est
+le comte qui soutient et paie la pension de ses enfants.</p>
+<p>D'un autre côté, quelques Polonais font observer qu'ayant, dans ses
+leçons au Collège de France, parlé fréquemment avec éloge de l'empereur
+Napoléon, Mickiewicz doit être partisan des idées politiques du
+Prince-Président, mais le plus grand nombre répond que le poète
+professeur a voulu plutôt jeterdu ridicule sur le nom impérial en le
+couvrant du manteau des doctrines anti-religieuses de Towianski eten
+le,'proclamant le Messie des idées nouvelles. A l'appui de leur opinion,
+ceuxci font valoir que M. Mickiewicz a dit dans son cours que la chute
+de l'Empereur était justifiée par sa politique, puisqu'ayant trahi et
+étouffé la liberté, il devait périr.</p>
+<p><pb/></p>
+<p>[En résumé, Monsieur le Ministre, les renseignements qui précédent
+semblent plus que suffisants pour motiver le rejet de la demande formée
+par M. Mickiewicz.</p>
+<p>Veuillez agréer, etc.</p>
+<p>Le Préfet de Police.</p>
+<p>PIETRI</p>
+<p>Police municipale.</p>
+<p>Rapport 19990.</p>
+<p>8 novembre 1852.</p>
+<p>RAPPORT</p>
+<p>̃i nouvelles qui circulent en ce moment dans l'émigration polonaise sont
+empreintes d'un certain intérêt. On rapporte que le poète Adam
+Mickiewicz va être nommée sur les instances de la princesse Mathilde, au
+poste de Conservateur de la Bibliothèque de l'Arsenal.</p>
+<p>Ce bruit a produit une fâcheuse impression sur les émigrés qui, en
+général, considèrent M. Mickiewicz comme un agent russe qui, de tout
+temps, a fait de la propagande en faveur de la Russie contre la France,
+et qui est, au fond, l'adversaire du gouvernement actuel.</p>
+<p><pb/></p>
+<p>On ajoute que M. Mickiewicz, pour se faire pardonner son passé, a rompu,
+ostensiblement du moins, avec tous les sectaires du prophète Towianski.</p>
+<p>On sait de la manière la plus positive que l'ambassade russe, qui est
+très bien informée de ce qui se passe, a connaissance de ces menées dont
+elle se montre très inquiète et auxquelles elle assigne un but
+révolutionnaire.</p>
+<p><pb/></p>
+<p>II circule un bruit au sujet du Prince Napoléon. On raconte que ce
+personnage s'entoure de tous les réfugiés qui sont le plus hostiles au
+Prince-Président contre lequel on laisse échapper des menaces.</p>
+<p>L'officier de paix,</p>
+<p>Hébert.</p>
+<p>6 janvier 1834.</p>
+<p>L'Empereur, monsieur le Préfet, 'me charge de vous communiquer la note
+ci-jointe concernant M. Towianski (1), polonais déporté, et de vous
+prier de m'adresser les renseignements que vous pourrez vous procurer
+sur cet étranger. ALBERT DE Dalmas.</p>
+<p>Conolusion de la réponse du Préfet.</p>
+<p>3i janvier 1854.</p>
+<p>Hébert.</p>
+<p>(1) Voir la Correspondance d'Adam Mickiewickz avec André Towianski, 2e
+vol., p. 156.</p>
+<p><pb/></p>
+<p>Rapport de police de l'agent polonais.</p>
+<p>17 janvier 1834.</p>
+<p>M. Adam Mickiewicz m'a dit II faut boire beaucoup pour être inspiré par
+l'esprit divin.</p>
+<p>Date des déplacements d'A. Mickiewicz selon la police.</p>
+<p>1343 9 octobre. M. Mickiewicz est de retour depuis huit jours. 1843 18
+mai. M. Mickiewicz est parti pour la Suisse de son logis, 1, rue
+d'Amsterdam.</p>
+<p>1846 4 février. Mickiewicz est parti pour Zurych.</p>
+<p>1846 25 mai. Mickiewicz est revenu de Suisse.</p>
+<p>1847 10 juillet. M. Mickiewicz part samedi prochain avec toute sa
+famille aux bains de mer pour six semaines.</p>
+<p>MINISTÈRE</p>
+<p>Aa Note pour</p>
+<p>l'ihstrcctioh publique</p>
+<p>ET des CULTES.</p>
+<p>Paris, le Août 1855</p>
+<p>Division.</p>
+<p>IJureau D. l 'f d .t d</p>
+<p>"_au Depuis les réformes introduites dans</p>
+<p>l'Empire turc par le sultan Mahmoud et que son successeur n'a cessé de
+développer, des rapports de plus en plus fréquents se sont établis entre
+les chrétiens de lit Turquie et des principautés danubiennes et les
+peuples de l'Occident. Les événements actuels et les conséquences qui en
+découlent ne peuvent qu'affermir ces rapports et les rendre plus
+intimes. La protection desintéressée dela France luiconciliela bien-</p>
+<p><pb/></p>
+<p>Lors de nos luttes en Algérie, le Ministre de l'Instruction publique
+Monsieur Villemain, a dirigé les recherches des savants vers la
+découverte de plus d'un document précieux chez les Arabes. Aujourd'hui
+que la bravoure de nos soldats rétablit en Orient la prépondérance de
+nos armes, il a paru opportun de s'enquérir sur les lieux mêmes de tout
+ce qui peut éclairer l'histoire des Turcs et des populations de leur
+Empire sous le point de vue civil et religieux. 11 est utile aussi de
+constater, comme l'a fait il y a quinze ans Monsieur Cousin pour la
+Hollande et la Prusse, quel est l'état de l'Instruction publique dans
+l'Empire turc, quels sont les progrès survenus depuis quelques années, et</p>
+<p><pb/></p>
+<p>Monsieur le Ministre de l'Instruction publique désirerait avoir le
+tableau exact des établissements scientifique et littéraires qui
+existent maintenant chez les chrétiens de la Turquie et dans les
+pricipautés Danubiennes et savoir Quelles y sont, en matière
+d'instruction publique, les lois, ordonnances et coutumes actuellement
+en vigueur</p>
+<p>Quels sont les rapports entre la hiérarchie ecclésiastique et les
+personnes employées dans les établissements d'instruction publique</p>
+<p>Quelles sont les méthodes suivies dans les écoles publi. ques et quels
+sont les livres présentement en usage</p>
+<p>Quels sont les auteurs occidentaux les plus connus et les plus
+populaires et les livres qu'on a traduits;</p>
+<p>Quelle est la proportion des traductions d'auteurs allemands et
+d'auteurs français</p>
+<p>S'il y a dans les bibliothèques, dans les monastères, quelques
+manuscrits soit anciens, soitdu moyen âge qui concernent la littérature
+classisque proprement dite ou celle de l'Occident.</p>
+<p><pb/></p>
+<p>De la Serbie on ira en Valachie et en Moldavie. On verra aussi la
+Dobroutscha.</p>
+<p>MINISTÈRE</p>
+<p>imlHE9 de" ÉTBÂHGÈllEg. Paris, le 7 septembre i855 Cabinet.</p>
+<p>Monsieur, M. Adam Mickiewicz, qui</p>
+<p>vous remettra cette lettre, se rend en Turquie chargé d'une mission par
+M. le ministre de l'Instruction publique. Je vous prie de vouloir bien
+l'accueillir avec bienveillance et de lui rendre les services qui
+dépendront de vous.</p>
+<p>Agréez, Monsieur, l'assurance de ma haute considération. A. WALEWSKI</p>
+<p><pb/></p>
+<p>AU NOM DE L'EMPEREUR DES FRANÇAIS,</p>
+<p>Nous Ministre, secrétaire d'Etat des affaires étrangères, prions les
+officiers civils et militaires chargés de maintenir l'ordre public dans
+l'intérieur de la France et dans tous les pays amis ou alliés de
+l'Empire français de laisser librement passer M. Adam Mickiewir.z se
+rendant en Turquie, chargé d'une mission du ministère de l'Instruction
+publique et de lui donner aide et protection en cas de besoin.</p>
+<p>A. Walewski.</p>
+<p>Chancellerie de l'ambassade de France près la Porte ottomane. Extrait du
+registre des actes de l'état civil.</p>
+<p>Acte de décès de Adam Mickiewicz.</p>
+<p>Et ont signé après lecture faite, constaté par nous, Lucien</p>
+<p><pb/></p>
+<p>Rouet, chancelier de l'ambassade de France près la Porte ottomane,
+faisant fonctions d'officier de l'état-civil.</p>
+<p>A Constantinople, les jour, mois et an susdits.</p>
+<p>(Signé) S. Drozdowski, A. Gaillard.</p>
+<p>L. ROUET.</p>
+<p>Collationné au registre par nous Lucien Rouet, chancelier de l'ambassade
+de France près la Porte ottomane.</p>
+<p>A Constantinople, le 29 novembre 1855.</p>
+<p>ROUET.</p>
+<p>i</p>
+<p>Paris, le 30 novembre 1835.</p>
+<p>Monsieur l'administrateur,</p>
+<p>Recevez, Monsieur l'administrateur, l'assurance de ma considération très
+distinguée.</p>
+<p>Le Minisire de l'instruction publique et des cultes.</p>
+<p>Pour le ministre</p>
+<p>Le chef du Secrétariat,</p>
+<p>Charles FORTOUL.</p>
+<p>MINISTÈRE</p>
+<p>de</p>
+<p>L'iKSTRCCTION PDBL1QDB</p>
+<p>«r DES cultes. Paris le 7 janvier J856.</p>
+<p>Secrétariat.</p>
+<p>i» Bureau Prince, j'ai l'honneur de vous informer que je viens de
+prescrire l'ordonnancement en votre</p>
+<p><pb/></p>
+<p>Veuillez agréer, Prince, l'assurance de ma haute considération.</p>
+<p>Le Ministre de l'instt'uction publique et des cultes,</p>
+<p>H. FORTOUL.</p>
+<p>M. le prince Czartoryski.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>INDEX BIBLIOGRAPHIQUE</p>
+<p>ŒUVRES FRANÇAISES</p>
+<p>Semaine de miel d'un conscrit. Fragment des mémoires d'un sergent
+polonais. Livraison de la Revue du Nord, de mai 1835.</p>
+<p>Notice biographique et littéraire sur Alexandre Pouebkine, dans le n" 1,
+du 25 mai 1837, du Globe, revue des sciences, des arts et des lettres,
+Paris.</p>
+<p>La comédie infernale examinée par A. Mickiewicz dans ses leçons du
+Collège de France (Revue indépendante du 10 mai 1843.)</p>
+<p><pb/></p>
+<p>Les Slaves, cours professé par Adam Mickiewicz (1840-41) et publié
+d'après les notes sténographiées. 5 vol. in-8*. Paris, 1849, au Comptoir
+des Imprimeurs-Unis, quai Malaquais, n° 15. Ainsi les 3 premiers volumes
+parurent en 1849 les 2 vol. édités précédemment forment les t. IV et V
+de cette édition, au moyen d'un changement de titres et de faux-titres.
+Un autre changement de ce genre permit de faire figurer ces 5 vol. comme
+les t. VII-X1 de l'édition polonaise des œuvres de l'auteur de 1860-61.
+Enfin, en 1866, on modifia encore une fois les titres, faux-titres et
+couverture de cet ouvrage en y ajoutant une préface de Ladislas
+Mickiewicz. Zjwila, légende lithuanienne, par Adam Mickiewicz, retrouvée
+et publiée, texte et traduction en regard, par Ladislas Mickiewicz, avec
+eau-forte. 1 vol. in-16 de 31 p. Paris, 1866, librairie du Luxembourg,
+prix 3 fr. 11 en a été tiré quelques exemplaires sur papier de luxe avec
+titre en couleur, -v</p>
+<p>Histoire populaire de Pologne, par Adam Mickiewicz, publiée avec notes
+et chapitre complémentaire, par Ladislas Mickiewicz. 1 vol. in-18, p.
+XXIV et 617. Paris, Hetzel, 1867, prix: 3 fr.</p>
+<p>Drames polonais d'Adam Mickiewicz. 1° Les confédérés de Bar 2° Jasinski
+ou les deux Polognes, publiés pour la première fois. 1 vol. gr. in-16 p.
+XVf et 85. Paris, 1867, librairie du Luxembourg, prix 3 fr. Il en a été
+tiré quelques exemplaires sur papier de luxe avec titre en couleur.</p>
+<p><pb/></p>
+<p>La politique du XIX. siècle, par Adam Mickiewicz, avec préface et
+annotations par Ladislas Mickiewicz, l' Politique polonaise articles du
+Pèlerin Polonais 2° Politique française et uni• verselle: articles de la
+Tribune des Peuples 3° Le Tsarisme, la Pologne et Napoléon (avec l'image
+de Napoléon pleurant sur la carte d'Europe). 1 vol. in-18 p. LXXXII et
+306. Paris, 1870, librairie du Luxembourg, prix 5 fr.</p>
+<p>Mélanges posthumes d'Adam Mickiewicz, publiés avec introduction, préface
+et notes, par Ladislas Mickiewicz. Première série I. Dramespolonais: Les
+confédérés deBar-JacquesJasinski.11. Roman militaire et roman
+prophétique: Lasemainedemield'un conscrit, le premier chapitre des
+guerres futures.-Ill. Critique littéraire Goethe et Byron, Alexandre
+Pouchkine. 1 vol. in-18, p. XXIV et 368. Paris, 1872, librairie du
+Luxembourg, prix 3 fr. 75 c. Vie de Saint Adalbert, apôtre du Nord et
+patron de la Pologne, par Adam Mickiewicz, br. in-16 de 16 p. Paris,
+1876, librairie du Luxembourg. Prix 5 fr.</p>
+<p>Hélanges posthumes d'Adam Mickiewicz, publiés avec introduction,
+préfaces et notes par Ladislas Mickiewicz. Deuxième série. 1. Légendes
+Lithuaniennes Zywila, Karylla. – M. Proverbe '• Ce que femme préfère.
+III. Notices littéraires Dépouillement des bibliothèques et musées de
+Pologne. La mort de Garczynski. Coup d'osil sur les Dziady et fragment
+de la 1" partie. – IV. Apologétique du romantisme De la poésie
+romantique, réponse aux critiques de Varsovie. 1 vol. in-18, p. CXL et
+569. Paris, 1879, librairie du Luxembourg, prix 8 fr.</p>
+<p>TRADUCTIONS ET COMPTES RENDUS</p>
+<p>Sonnets d'Adam Mickiewicz. Article de E. Héreau (d'après la critique
+publiée par le prince Viazemsky dans le Télégraphe de Moscou, n° 7,
+année 1827), inséré p. 711, t. XXXVII de la Revue encyclopédique, ou
+analyse raisonnée des productions les plus remarquables dans les
+sciences, les arts industriels, la littérature et</p>
+<p><pb/></p>
+<p>les beaux-arts, par une réunion de membres de l'Institut et d'autres
+hommes de lettres. Paris, 1828.</p>
+<p>Konrad Wallcnrsd, récit historique, tiré des Annales de Lithuanie et de
+Prusse, le Faris et les sonnets de Crimée, traduits du polonais par
+Félix Miaskowski et G. Fulgence, ornés du portrait de l'auteur. 1 vol.
+in-8'. Paris, 1830. Librairie de Sédillot, prix; 3 fr. 75 c.</p>
+<p>Examen des oeuvres deîlieluewicz, dans un article publié sous le voile
+de l'anonyme, par Sigismond Krasinski, livraison d'octobre 1830 de la
+Bibliothèque Universelle, de Genève. Mickiewicz, article de Léonard
+Chodzko dans la Biographie universelle des Contemporains Paris, 1826-1833.</p>
+<p>Konrad Wallenrod, roman historique, traduit du polonais d'A. Mickiewicz.
+1 vol. in-32, p. 163. Paris, 1830, Gagniard et A. J. Denain. (Traduction
+anonyme de M. Jastrzembski.)</p>
+<p>Du parti polonais et do la tendance des peuples de l'Europe (articles
+d'Adam Mickiewicz, traduits du journal Pielgrzym Pois Ici (le Pèlerin
+Polonais), p. 317-324 de l'ouvrage: Souvenirs de la Pologne historiques,
+statistiques et littéraires. 1 vol. gr.-in*. Paris, 1833.</p>
+<p>Evangile de la nation polouaise pendant son pèlerinage, trad. par Louis
+Lemaitre. In-8", 31 p. Paris, 1833.</p>
+<p><pb/></p>
+<p>Le chant du chasseur, paroles de Mickiewicz, musique de Kotkowski.
+Paris, 1833.</p>
+<p>A la mère Polonaise, trad. par M. Baze, avocat. Agen, 1833,réimprimédans
+l'opuscule intitulé: Rocznica Rowolucyi polskiej (l'anniversaire de la
+Révolution polonaise).</p>
+<p>Fragments des Dziady, traduits par M.Burgauddes Marets. 2' partie dans
+le journal le Polonais, p. 179-189, vol. 1". Paris, septembre 1833.</p>
+<p>La mère polonaise, trad. inédite (anonyme) dans le journal le Polonais,
+p. 282, vol. 1e', septembre 1833.</p>
+<p>Le livre des Pèlerins polonais, critique signée H. R. dans le journal le
+Polonais, vol. 1", p. 229-240, octobre 1833.</p>
+<p>Livre des Pèlerins polonais, traduit par le comte Charles de
+Montalembert. Contrefaçon belge qui a eu deux éditions et possède de
+plus que l'édition française une préface de 11 p. signée: Un ami des
+Polonais. Bruxelles, J. J. Tircher, 183i.</p>
+<p>Ballades polonaises. 1° Czaty (le guet), 2' Twardowska (la corvée), p.
+117-124 de la Revue étrangere de la littérature et des sciences. Paris,
+1834.</p>
+<p>Fragments des Dziady, traduits en français par M. Burgand des Marets, 4'
+partie, dans le journal le Polonais, 2' vol. p. 71-75 et 115-120. Paris,
+février 1834.</p>
+<p>A une mère polonaise, trad. en vers par M. Baze, avocat, dans le journal
+le Polonais, p. 31, vol. 3, 1834.</p>
+<p>Les Ajeux ou la fête des morts, seconda et troisième parties, poème
+traduit du polonais par M. Boyer-Nioche. 1 vol. in-16Paris, 1834.</p>
+<p>Dziady ou la fête des morts, poème traduit du polonais (par M. Burgaud
+des Marets),! vol. in- 12. p. Vil et 174, Paris, 1834. Le sieur Thadée,
+poème de Mickiewicz, critique dan» le journal le Polonais, vol. 5, p.
+44. Paris, juillet 1835.</p>
+<p>(•razyna, poème d'Adam Mickiewicz, trad. par Christien Ostrowski, dans
+le vol. Suit d'exil. Paris 1836.</p>
+<p><pb/></p>
+<p>Sainte-Beuve a donné un compte-rendu de cette traduction dans le 4» vol.
+du journal le Polonais, p. 444. Paris, juin 1836. Konrad Wallcnrod,
+trad. par Loison. 1vol. in-8°. Paris, 1836. Le joueur de Lyre, esquisse
+de mœurs lithuaniennes, trad. de Mickiewicz par Christien Ostrowski dans
+le t. Il' de la Pologne historique, littéraire et monumentale. Paris, 1837.</p>
+<p>Pharis, la redoute d'Ordon, la mère polonaise et le joueur de Lyre,
+trad. de Mickiewicz par Christien Ostrowski, dans la Semaine d'exil.
+Paris, i837. Pharis et le joueur de lyre, trad. par Ostrowski, se
+trouvent également dans la Brise du Nord, V édition. Paris, 1838, 2'
+édition, 1839.</p>
+<p>De la poésie de Mickiewicz, dans l'article De la;littérature polonaise
+au xixe siècle, trad. de V Athénéum, livraison de la Revue Britannique
+de septembre 1838.</p>
+<p>George Sand, Essai sur te drame fantastique, Goethe, Byron, Mickiewicz,
+dans la livraison du te' décembre 1839 de la Revue des Deux-Mondes
+(réimprimé dans le vol. Impressions littéraires). 1 vol. in-18, Paris,
+Iletzel, 1862.</p>
+<p>Dans la Revue Suisse, sous la rubrique Littérature étrangère, article
+sur Mickiewicz (par F. Frossard, pasteur), t. III, Lausanne, 1840.</p>
+<p>A Hickiewicz, après une lecture du Faris, poésie par L. Delàtre. Revue
+Suisse, t. III, 1840. Il y est dit en note « La librairie de Marc
+Ducloux se propose de publier une édition du Livre des Pèlerins
+polonais, traduit par le comte Charles de Montalembert,</p>
+<p><pb/></p>
+<p>Œuvres d'Adam Mickiewicz, professeur de littérature au Collège de
+France, traduction nouvelle par le comte Christien Ostrowski, 2 vol.
+in-12. Paris, 1841, H. L. Delloye, éditeur. Autre édition en 1845.</p>
+<p>Adam Mickiewicz, poésie par M. Martin, dans la Revue de Paris du 30
+octobre 1842.</p>
+<p>De la littérature slave, par M. Mickiewicz (Revue Indépendante du 10
+avril 1843).</p>
+<p>Loubens (Charles). I/Eglisc officielle et le Messianisme, par Adam
+Mickiewicz [Revue Indépendante du 25 mai 1846). Thomas (Alexandre).
+Appréciations sur Mickiewicz dans La Propagande russe en Pologne, et La
+propagande démocratique en Pologne, n" de la Revue des Deux-Mondes des
+1b août 1846 et l" avril 1848.</p>
+<p>Légion des croisés polonais (atfiche in 4°). Paris, 10 mai 1848.</p>
+<p>Principes de la Pologne renaissante, in-4°. Paris, 1848. Démonstrations
+des Florentins en l'honneur d'A. Mickie. wicz et des croisés polonais,
+in-4°. Paris, 1848.</p>
+<p>Œuvres poétiques complètes d'Adam Mickiewicz, tradnction nouvelle
+d'après l'édition originale de 1844, par Christien Ostrowski. 3' édition
+ornée de deux planches en taille-douce, 2 vol. in-i8, Paris, Pion frères
+et Victor Lecou, 1849.</p>
+<p>Konrad Wullenrod et Grazyna, traduits par Christien</p>
+<p><pb/></p>
+<p>Ostrowski dans l'édition illustrée publiée avec textes polonais,
+français et anglais par Jean Tysiewicz. 1 vol. in-4°, 208 p., avec
+portrait. Paris, 1831.</p>
+<p>Erdan. Les mystiques polonais (t. II de la France mystique, p- 299-478).
+1 vol. in-18. Paris, 1851.</p>
+<p>Les aveux, le Presbytère, traduction en vers français par P. Dubois,
+précédée d'une préface par A. David, 1 vol. in-8. Paris, Gabriel jeune
+1851.</p>
+<p>Les quatre littératures slaves. parCyprien Robert (Revue des Deux-Mondes
+du 15 décembre 1852).</p>
+<p>Julian Klaczko. La Crimée poétique (traduction des sonnets d'Adam
+Mickiewicz, (Revue contemporaine des 30 avril et 15 mai 1855.)</p>
+<p>Micrologie d'Adam Mickiewicz (par M. Juste Olivier), dans la chronique
+de Paris de la Revue Suisse, déc. 1855.</p>
+<p>Œuvres poétiques complètes d'Adam Mickiewicz traduites du polonais par
+Christien Ostrowski, 5e édition ornée de deux planches en taille-douce,
+2 vol. in- 12. Paris, 1859. Firmin-Didot. LesTOâncs, poèmed'Adam
+Mickiewicz, suivi de quelques poésies fugitives du même auteur, traduit
+par le comte Michel Borch. i vol. in-8" de 176 p. orné d'une
+lithographie. Vilna, 1859.</p>
+<p>Paul île Saint-Vincent (Budzynski), Mickiewicz. (Livraisons du 15
+novembre 1859 et du 29 février 1860 de la Revue Conletnporaine.)</p>
+<p>l'outille (Edmond), pseudonyme d'Edmond Mainard. Adam Mickiewicz, sa vie
+et sa croyance, esquisse biographique, impressions, souvenirs, 1 vol.
+in-18. Paris, 1862. Une autre édition parue la même année, sous le titre
+« Le prophète national de la Pologne, esquisse sur la vie et la croyance
+d'Adam Mickiewicz », ne diffère de lu précédente que par l'absence d'une
+lettre-préface d'Alexandre Chodzko qui figure en tète de la première.</p>
+<p>Chojeclti (Charles-Edmond). De l'esprit poétiquedelaLithuanie, l'oeuvre
+d'Adam Mickiewicz (livraison de la Revue Contemporaine du 28 février 1802).</p>
+<p>Traduction libre du do IHatki Polki de Mickiewicz, in 8° de 8 p. signé
+P. N. B. (Pierrre-Napoléon-Bonaparte). Paris, Paul Dupont, 1804.</p>
+<p>A la mère polonaise, traduit de Mickiewicz par P. M. K. Br. in-8' de 8
+p. Tarnopol, 1864.</p>
+<p><pb/></p>
+<p>La Pologne captive et ses trois poètes, Mickiewicz, Krasinski, Slowacki
+(par Charles-Edmond Chojecki). 1 vol. in-18. Leipzig, 1864.</p>
+<p>Le livre de la IValion polonaise et des Pèlerins polonais, traduction
+nouvelle par Armand Levy, avec introduction et commentaires par Ladislas
+Mickiewicz, édition illustrée,titre rouge et encadrement de couleur, 1
+vol. in-18. Paris, Dentu, 1884.</p>
+<p>A une mère polonaise, trad. du comte Charles de Montalembert, dans Le
+Pape et la Pologne, br. in-8". Paris 1869. Conrad Wallcnrod, légende
+historique, d'après les chroniques de Lithuanie et de Prusse, traduction
+de l'un des fils de l'auteur avec introduction d'Armand Levy et neuf
+gravures sur acier d'après Antoine Zaleski. 1 vol. in-4°. Paris, 1866,
+librairie du Luxembourg.</p>
+<p>Les Slaves. Histoire et littérature des nations polonaise, boême, serbe
+et russe par Adam Mickiewicz, introduction par Ladislas Mickiéwicz, br.
+in-8" de 8 p. Paris, 1866, librairie du Luxembourg. Chardon (J.).
+Littérature polonaise. Etude sur Adam Mickiewicz,br. in-8". Versailles,
+18G6. (Extrait des mémoires dela Société des sciences morales, des
+lettres et des arts de Seine-et-Oise.)</p>
+<p>Premiers siècles de l'histoire de Pologned'Adam Mickiewicz, traduit du
+texte polonais inédit par le fils de l'auteur. i vol. in-18. Paris 1867,
+librairie du Luxembourg. Prix 3 fr. 50 c.</p>
+<p>Dans le Paris-Guide, par les principaux écrivains et artistes de la
+France, première partie jugement, p. 139-141, de Michelet sur
+Mickiewicz, dans le chapitre du Collège de France, et p. 1093-1097 de
+Charles-Edmond, dans le chapitre la Colonie polonaise. Paris, 1867,
+Lacroix et O.</p>
+<p><pb/></p>
+<p>Hickiewicz, article du Magasin pittoresque (juin 1870), avec
+reproduction d'après un dessin de Gilbert du médaillon de Mickiewicz par
+A. Préault au cimetière de Montmorency.</p>
+<p>mémorial de la Légion polonaise de 1848, créée en Italie par Adam
+Mickiewicz, publication faite d'après les papiers de son père, avec
+préface et notes, par Ladislas Mickiewicz. 1 vol. in-18, p. XLIX et 536.
+Paris, 1877, librairie dui.Luxembourg. Prix Bfr. r.</p>
+<p>Trois pensées de Mickiewicz et la Primevère, trad. dans le vol. Fables
+et poésies polonaises publiées par le comte V. H. de Rochetin, précédées
+d'une lettre de Henri Martin. 1 vol. in-18, Paris, 1874.</p>
+<p>Monsieur Thadéede « Soplira », où le dernier procès en Lithuanie sui
+generis, récit historique en douze chants, par Adam Mickiewicz, trad. en
+vers par Charles de Noire-Isle(pseudonyme du comte Charles
+Przezdziecki). 2 vol. in-18, t. 1, p. 307, t. Il, p. 318. Paris,
+1876-1877, 5 fr. le vol. Plon et C'«.</p>
+<p>Cycle Lithuanien. Première partie Adam Mickiewicz, Edouard Odyniec. Ce
+vol. contient les poésies lyriques de Mickiewicz, les deux romances de
+Wallenrod, les stances d'amour, les sonnets, les aïeux, trad. par M. de
+Noire-Isle. 1 vol in-18, p. 309. Nice. chez Visconti, Paris, chez Marpon
+et Flammarion 1880. Prix 3 fr. 50. M. de Noire-Isle a publié sous le
+titre de •.l'oèlesiltuslres de la Pologne au XIX. siècle, une collection
+de traductions qui sont d'inconscientes, mais grotesques parodies.</p>
+<p>Primevère, poésie de Mickiewicz, dans la Revue slave, dirigée par A. de
+Fontaine, trad. de Sylvère Granvil, 1880.</p>
+<p><pb/></p>
+<p>Chefs-d'œuvre poétiques d'Adam Mickiewicz, traduits par lui-même et par
+ses fils, et suivis du livre de la nation polonaise et des Pèlerins
+polonais, avec une notice sur la vie de l'auteur par Ladislas
+Mickiewicz, 1 vol. in-18, p. 391. Paris, Charpentier, 1882. Les origines
+slaves, par Adam Mickiewicz, 1 vol. in-18, p. XV et SI. Paris, librairie
+du Luxembourg, 1882.</p>
+<p>Le 30- anniversaire de la mort d'Adam Mickiewicz, article suivi de la
+traduction en vers de la ballade d'Alpujarra tirée de Konrad Wallenrod,
+et de l'Orage, passage du 10° livre de Thadée Soplitza, par V. G.
+(Venceslas Gasztowt), dans le numéro du 20 nov. 1885 du Bulletin
+littéraire, scientifique et artistique polonais, publié par les soins de
+l'association des anciens élèves de l'École Polonaise, br. in-8°, Paris
+1885.</p>
+<p>Le Luth des poètes slaves, recueil des compositions choisies de la
+littérature et des chansons nationales des peuples slaves comparées avec
+leurs textes nationauxet traduites par Julien-SoltykRomansky, 2°
+livraison. Les sonnets de Tauride, par Adam Mickiewicz, 1 br. in-8\
+Dresde, Blochmaum, 1885.</p>
+<p>La redoute d'Ordon, d'après Adam Mickiewicz, par Jules Per rin, br.
+in-8°. Paris, Reiff, 1887.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>TABLE DES MATIÈRES</p>
+<p>Pnges</p>
+<p>Préface v 1</p>
+<p>Années d'enfance et d'adolescence. Premières poésies et</p>
+<p>premier amour. Publication des œuvres. Philomates et Phi-</p>
+<p>larètes. Persécution, emprisonnement et condamnation par</p>
+<p>ukase impérial 1 II</p>
+<p>ZaJeska et Caroline Sobanska. Voyage en Crimée. Amitiés</p>
+<p>russes. Apparition des Sonnets et du poème de Conrad</p>
+<p>Wallenrod. Embarquement pour l'Allemagne. 58 III</p>
+<p>Prague et Wenceslas Hanka. Weimaret Goethe. Pérégrina-</p>
+<p>tions en Italie. Anastasie de Klustine et Henriette Ankwicz.</p>
+<p>Polonaise. Acheminement vers la Pologne. Attente en Pos-</p>
+<p>L'émigration. Le Livre des Pèlerins Polonais et le poème le</p>
+<p>sieur Thadée. Mickiewicz au lit de mort de son ami Etienne</p>
+<p>Garczynski. Son intimité avec Lamennais et Montalembert.</p>
+<p><pb/></p>
+<p>Sa ferveur religieuse et son mariage. Sa liaison avec Quinet et
+Michelet. Ses essais en langue française. Appréciations de George Sand.
+Difficultés de la situation. Projet d'établissement eu Suisse 135 V</p>
+<p><pb/></p>
+<p>L'Espagne telle qu'elle est, 2e édition ..“ 1 FERNAND BEISSIER</p>
+<p>Le Galoubet, 5e édition 1 Prudence Raynaud 1 i PAIX 1IEI.ON ET GEORGES
+PRICE</p>
+<p>Paris qui Passe, i# édition 1 KLÉM1R BOIIIGES</p>
+<p>Sous la Hache, 21 édition 1 Le crépuscule des Dieux, nouvelle édition 1
+CHARLES DE BRÉ</p>
+<p>Le Roman du Prince Impérial, 7« édition l j CHARLES 11UET</p>
+<p>Madame la Connétable l Contes moqueurs l Médaillons et Camées 1 ROBERT CAZE</p>
+<p>Paris Vivant, i* édition i ROBERT CIIARLIE</p>
+<p>Le Poison Allemand, 3e édition. 1 ALBERT GUI</p>
+<p>Institution de demoiselles, 4« l'diljon 1 La Petite Fée, 2» édition i
+HENRI GJ&gt;NTI</p>
+<p>L'Allemagne intime, 4" édition. 4 PAIX CINISf J</p>
+<p>L'Année littéraire iÔ85,2«éd. JULES HOCHE</p>
+<p>Le Vice sentimental, 2. édition. 1 La Fiancée du Trapèze I Causes
+célèbres de l'Allema- gne 1 L.-l'. LAFORÈT</p>
+<p>La Femme du Comique, préfare d'KMiLK il oiek, 2e édition t CAMILLE
+LIOIONNIER</p>
+<p>Noëls Flamands, 2&lt;i édition 1 Peintres de la Vie, 2e édition. I JULES
+LERMIXA</p>
+<p>Nouvelles histoires incroyables, 2e édition ( AUGUSTE I.EPAGE</p>
+<p>Une déclassée, î" édition 1 PAUL LHEIIRKI'X x</p>
+<p>L'Hôtel Pigeon, %e édition 1 JEAN LORRAIN</p>
+<p>Les Lepillier, 2* édition i Très Russe, 2e édition 1 FRANÇOIS LOYAL</p>
+<p>L'espionnage Allemand en France, 3» édition 1 JACQUES I.O/.ÊUE</p>
+<p>Baudemont, 4" édition I Mariages aux champs, 2e édit 1 l'Ai I. MAHGI EDITE</p>
+<p>Tous Quatre, 2" édition 1 La confession posthume, 2« éd. 1 Maison
+ouverte, i" édition 1 TANCRÈDK MARTEL</p>
+<p>La Main aux dames, 2» édit. i La Parpaillote, 3" édition 1 paris païen.
+2' édition 1 t</p>
+<p>EN VENTE A LA MtMt L I B HTA I H 1 1</p>
+<p>.u.u.u-</p>
+<p>V. ALMIRAL</p>
+<p>I GEORGES MAILLARD</p>
+<p>L'Organiste, 3° édition 1 OSCAR MÉTKNIER</p>
+<p>La Grâce, 2- édi lion i Bohême bourgeoise, 2' édition. 1 Outre-Rhin, î«
+édition 1 GEORGES MEYNIÉ</p>
+<p>L'Algérie juive, 3' édition i Les Juifs en Algérie, 2c édition. 1 ISAAC
+PAVLOVSKY</p>
+<p>Souvenirs sur Tourguéneff, 2« édition 1 ÉMILE PIERRE</p>
+<p>A Plaisir, 2e édition i A LBF.RT PINARD</p>
+<p>Madame X., "2° édition l PAUL P01R0T</p>
+<p>A quoi tient l'Amour, 2' édit 1 JEAN RAMEAU</p>
+<p>La Vie et la Mort, 2' édition. 1 EDOUARD ROD</p>
+<p>L'Autopsie du docteur Z. l J.-H. ROSSY</p>
+<p>Nel! Horn (de l'armée du Salut), 2" édition 1 Le Bilatéral, roman
+parisien de mœurs révolutionnaires, î« édition.. 1 L'Immolation, 2*
+édition 1 LÉO ROl'ANET</p>
+<p>Chambre d'Hôtel, 2« édition 1 Maxime Everault, 2- édition 1 CAMILLE DE
+SAINTE-CROIX</p>
+<p>La Mauvaise Aventure, 2' édit. i Contempler, 2« édition 1 ALBERT SAVINE</p>
+<p>Les Etapes d'un naturaliste ( LOUIS TIERCELIN</p>
+<p>Amourettes, 2" édition l Les Anniversaires 1 La Comtesse Gendelettre i
+LÉON TIKHOHIROV</p>
+<p>Conspirateurs et Policiers (souvenir s d'un proscrit rutse. i Russie
+Politique et Sociale, édition 9 COMTE 1EON TOLSTOÏ</p>
+<p>Ma Confession, trad. ioku, 3e éd. 1 Que faire 7 ».e édition 1 Dernières
+Nouvelles, 2e édition 1 L'École de Yasnaïapolîana,3e éd. 1 Pour les
+enfants, 3» édition i LÉO TRÉZENICK</p>
+<p>L»s Gens qui s'amusent, 2e éd. i A. \ANDAM</p>
+<p>Affaire Colin-Camphell,2eédit. 1 JULES VIDAL</p>
+<p>Un cœur fêlé, 2e édition .1 9 Blanches Mains, 2' édition i CHARLES
+V1RMA1TRB</p>
+<p>Paris qui s'efface, 2e édition l Paris-Escarpe, 9« édition. 1
+Paris-Canard, 2- édition 1 Paris-Boursicotier, Réédition., t KALIXT DK
+WOLSKI</p>
+<p>La Russie juive, 3* édition t</p>
+    </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,3629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Vinet, Alexandre (1797-1847)">Alexandre Vinet</author>
+<title>Oeuvres d'Alexandre Vinet ; V, I-III. Études sur la littérature française au XIXe siècle... : texte de l'édition posthume de 1848, revu et complété d'après les documents originaux. Lamartine et Victor Hugo / Alexandre Vinet ; précédé d'une préface par Paul Sirven,...</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Vinet, Alexandre (1797-1847)</author>, <title>Oeuvres d'Alexandre Vinet ; V, I-III. Études sur la littérature française au XIXe siècle... : texte de l'édition posthume de 1848, revu et complété d'après les documents originaux. Lamartine et Victor Hugo / Alexandre Vinet ; précédé d'une préface par Paul Sirven,...</title>, <date>1911</date>,description :,556 pages
+</bibl>
+<publisher>G. Bridel (Lausanne)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k96114786</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1911">1911</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>ALEXANDRE VINET</p>
+<p>ÉTtJDES</p>
+<p>~</p>
+<p>\ : lit1. SVjl LA</p>
+<p>LITTÉRAIRE FRANÇAISE</p>
+<p>AU XIXE SIÈCLE</p>
+<p>TOME TROISIÈME</p>
+<p>SAINTE-BEUVE, EDGAR QUINET,</p>
+<p>MICHELET, ETC.</p>
+<p>TEXTE DE L'ÉDITION POSTHUME DE 1848</p>
+<p>REVU ET COMPLÉTÉ D'APRÈS LES DOCUMENTS ORIGINAUX</p>
+<p>ET PRÉCÉDÉ D'UNE PRÉFACE</p>
+<p>PAR</p>
+<p>PAUL SIRVEN</p>
+<p>LAUSANNE</p>
+<p>GEORGES BRIDEL &amp; Cie</p>
+<p>PARIS</p>
+<p>LIBRAIRIE FISCHBACHER</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>ÉTUDES</p>
+<p>SUR LA</p>
+<p>LITTÉRATUMIPRANCAISE AU XIXE SIÈCLE</p>
+<p>TOME TROISIÈME</p>
+<p><pb/></p>
+<p>ŒUVRES D'ALEXANDRE VINET</p>
+<p>--~;le série : Critique littéraire.</p>
+<p>V</p>
+<p>Tome troisième.</p>
+<p>Publication de la Société d'édition Vinet fondée le 23 avril 1908.</p>
+<p><pb/></p>
+<p>ALEXANDRE VINET</p>
+<p>1</p>
+<p>ÉTUDES</p>
+<p>SUR LA</p>
+<p>LITTÉRATURE FRANÇAISE</p>
+<p>AU XIXE SIÈCLE</p>
+<p>TOME TROISIÈME</p>
+<p>SAINTE-BEUVE, EDGAR QUINET,</p>
+<p>MICHELET, ETC.</p>
+<p>TEXTE DE L'ÉDITION POSTHUME DE 1848</p>
+<p>REVU ET COMPLÉTÉ D'APRÈS LES DOCUMENTS ORIGINAUX</p>
+<p>ET PRÉCÉDÉ D'UNE PRÉFACE</p>
+<p>PAR</p>
+<p>PAUL SIRVEN</p>
+<p>LAUSANNE</p>
+<p>GEORGES BRIDEL &amp; Cie</p>
+<p>PARIS</p>
+<p>LIBRAIRIE FISCHBACHER</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>PRÉFACE</p>
+<p>1 C'est celle que Vinet avait recueillie dans ses Essais.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>pitre particulièrement intéressant de l'histoire de Vinet, et de celle
+de Sainte-Beuve. Ce chapitre, après quelques autres, nous avons tenté de
+l'écrire.</p>
+<p>SAINTE-BEUVE</p>
+<p>En janvier 1832, Vinet donnait au Semeur un article sur « la poésie
+sacrée », dans les dernières lignes duquel il touchait aux Consolations
+de Sainte-Beuve :</p>
+<p>M. Sainte-Beuve, disait-il, a de l'intimité ; il connaît le fort et le
+faible de la vie, et la poésie des choses communes ; il pourrait moduler
+des chants pour les âmes simples, mais il n'a pas pris encore assez de
+leçons de l'Ami des simples.</p>
+<p>Vinrent ensuite, en 1834, les deux articles sur Volupté 1. Je lis dans
+l'Agenda de Vinet:</p>
+<p>26 juillet 1834 : Reçu du « Semeur » Volupté de Sainte-</p>
+<p>Beuve.</p>
+<p>29 juillet : Lu Volupté.</p>
+<p>1 De ces deux articles, l'un fut recueilli par Vinet dans ses Essais,
+d'où il passa dans les Mélanges. Dans la présente édition, il figure
+dans le volume Ier de Philosophie morale et sociale, pages 216-233 ;
+c'est un article où il n'est point parlé de Sainte-Beuve et de son
+livre. L'autre article n'avait jamais été recueilli. Et c'était grand
+dommage, car c'est un des meilleurs de Vinet et des plus fins. On le
+trouvera plus loin.</p>
+<p><pb/></p>
+<p>31 juillet : Fait un premier article sur Volupté.</p>
+<p>1er août : Envoyé au Semeur le premier article sur</p>
+<p>Volupté.</p>
+<p>Ces notes nous montrent que Vinet lisait, pensait, écrivait avec une
+certaine rapidité. Et quand on pense que deux jours sur trois il était
+malade ! et qu'il était surchargé d'occupations !</p>
+<p>Volupté est bien remarquable. Je me réjouis du bien que j'en pourrai dire.</p>
+<p>Et d'une autre lettre, également inédite, du même au même (1 er août) :</p>
+<p>Vous devez recevoir aujourd'hui un premier article sur Volupté ; je
+venais de vous l'expédier quand votre lettre m'est parvenue. Il y a des
+choses délicieuses dans ce livre. Savez-vous comment vit M. Sainte-Beuve ?</p>
+<p>Sainte-Beuve remercia Vinet dans les termes que voici ;</p>
+<p><pb/></p>
+<p>1 La lettre est adressée au journal le Semeur. Sainte-Beuve ne
+connaissait pas encore Vinet.</p>
+<p>2 Il ne l'aurait pas remercié non plus deux ans d'avance, et la date de
+1832 que donnent les éditeurs de la Correspondance de Sainte-</p>
+<p>Beuve (Paris, Calmann-Lévy, 1877) est évidemment fausse.</p>
+<p><pb/></p>
+<p>1 Sainte-Beuve, t. I, p. 196.</p>
+<p>2 Il faut noter aussi, dans cet article, le rapprochement que fait</p>
+<p><pb/></p>
+<p>« moi intime » et les mieux juger ; tandis que Sainte-Beuve aimait à
+tout savoir, non seulement pour juger, mais pour le plaisir de tout
+étaler. Il faisait de l'histoire naturelle, mais pas uniquement, comme
+il l'assurait, celle des esprits.</p>
+<p>Vinet remercia Sainte-Beuve de son article ; voici comment :</p>
+<p>Monsieur,</p>
+<p><pb/></p>
+<p>J'apprends, Monsieur, que notre Lausanne espère obtenir de vous un cours
+de littérature cet hiver, et ce cours aura pour sujet Port-Royal ! Il y
+a longtemps que je me réjouissais de vous lire ; avec quel intérêt ne
+vous enten- drai-je pas sur une école que je connais trop peu, mais qui
+m'est si chère par le peu que j'en connais 1</p>
+<p>Veuillez agréer, Monsieur, avec mes remerciements, l'hommage de ma
+respectueuse considération.</p>
+<p>VINET.</p>
+<p>Montreux, 27 septembre 1837 1.</p>
+<p>La lettre est longue ; elle est, de plus, bien connue. On m'excusera
+cependant de la remettre sous les yeux du lecteur. Elle fait naître
+quelques réflexions et appelle quelques observations. Elle frappe tout
+d'abord par l'ex-</p>
+<p>1 Portraits littéraires, III, éd. 1864, p. 510.</p>
+<p><pb/></p>
+<p>Ce qu'il y a cependant de plus notable dans la lettre de Vinet, c'est
+l'idée qu'il se fait de l'auteur de Volupté. Est-il bien vrai que
+celui-ci se soit proposé, lui aussi, de veiller « aux intérêts sacrés de
+la vie humaine » ? Vinet a-t-il</p>
+<p>1 Je lis dans la Correspondance de Sainte-Beuve avec M. et Mme</p>
+<p>Juste Olivier, p. 41, dans une lettre d'Olivier du 8 octobre 1837 :</p>
+<p>15 septembre et de la lettre qu'on vient de lire.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Voici le passage :</p>
+<p>Peu de mois avant sa fin, en mai 1869, dans un entretien dont les
+détails nous ont été conservés, Sainte-Beuve exprimait le vœu d'une
+publication complète de la correspondance de Vinet. Ce vœu n'a pas été
+rempli ; sur un millier de lettres, les éditeurs en ont donné environ
+deux cents.</p>
+<p>Sainte-Beuve ajoutait (je cite encore Frédéric Chavannes) :</p>
+<p>La pensée complète de Vinet ne se trouvera que dans sa correspondance.
+Il écrivait pour le public, par conscience, en se posant devant un point
+de vue unique et exclusif. Sa correspondance intime doit nous le rendre
+tel qu'il était.</p>
+<p>C'était un esprit élevé, jamais contentieux dans la discussion...</p>
+<p>Et Sainte-Beuve concluait pas ces mots (je cite toujours</p>
+<p>Frédéric Chavannes) :</p>
+<p>S'il vivait encore devant les opinions d'aujourd'hui, il n'aurait qu'à
+monter d'une marche.</p>
+<p><pb/></p>
+<p>Toutefois, on peut donner des propos que cite Frédéric Chavannes une
+interprétation moins rigoureuse. Il y a des articles de Vinet, ceux, par
+exemple, qu'il a écrits sur Jocelyn ou sur la Divine Epopée, qui sont
+quelque peu théologiques et qui sentent la dissertation ; il y en a
+d'autres, ceux, par exemple, où il juge le Prométhée de Quinet, dans
+lesquels il a peut-être employé de bien gros mots : « Le panthéisme
+n'est-il pas ici avec ses conséquences les plus extrêmes et son aspect
+le plus hideux ? » — Or, il est certain que dans sa correspondance, du
+moins dans ce qu'on connaît de sa correspondance, Vinet ne dogmatise
+point et garde toujours un ton modéré. Il est donc possible que
+Sainte-Beuve ait cru pouvoir faire en toute justice deux parts dans les
+écrits de Vinet, et qu'il préférât le Vinet de la Correspondance, jamais
+contentieux, au Vinet de certains articles où il s'agissait de mettre le
+public en garde et où, par conscience, l'auteur discute, dispute et
+parfois gronde.</p>
+<p>Il est vrai que Schérer dit aussi que personne n'aurait été plus effrayé
+que Vinet des conséquences de sa méthode</p>
+<p><pb/></p>
+<p>M. Ph. Bridel a bien voulu, en me communiquant ce texte, le faire suivre
+du commentaire que voici :</p>
+<p>1 Etudes critiques sur la littérature française, 1 (1863).</p>
+<p><pb/></p>
+<p>Pourquoi la fit-il disparaître ?</p>
+<p><pb/></p>
+<p>Je cherche depuis plusieurs heures, dans la quatrième édition de la
+Chrestomathie de M. Vinet, la jolie lettre de</p>
+<p>1 Correspondance inédite de Sainte-Beuve avec M. et Mme Juste</p>
+<p>Olivier. Paris, Mercure de France, 1904.</p>
+<p>2 Benjamin Constant et Madame de Charrière.</p>
+<p><pb/></p>
+<p>Voici le passage :</p>
+<p>1 Lettres d'Alexandre Vinet, II, 235.</p>
+<p>1882. Elle est datée du 4 mai 1846.</p>
+<p><pb/></p>
+<p>point du tout que Hochet ait fabriqué cette pièce. Hochet, dit-il, était
+les d'Hacqueville de Benjamin Constant... mais peut-être ne sait-on pas
+ce que c'est que d'être les d'Hacqueville de quelqu'un ? Voici
+l'explication telle qu'on la trouve dans Sainte-Beuve, Causeries du
+lundi, I, p. 50 :</p>
+<p>» que je lui avais ordonné ne lui plaît pas, je lâche la bride à</p>
+<p>» toutes ses bontés et lui laisse la liberté de son écritoire.</p>
+<p>» Paris et voit tous les jours ce qui y reste : ce sont les d'Hacque-</p>
+<p>» ville. » C'est ainsi qu'elle le nomme, et elle continue d'en parler
+comme s'il était plusieurs.</p>
+<p>Si donc Hochet était les d'Hacqueville de Benjamin Constant, c'était un
+homme obligeant, qui se multipliait pour son service, mais ce n'était
+évidemment pas un faussaire. Aussi bien Hochet ne nous est-il pas tout à
+fait inconnu. Il a publié les lettres de Mme du Châtelet au comte
+d'Argental et fait quelques articles sur les ouvrages de Mme de Staël
+dans le monde de laquelle il vivait. J'ignore si, comme Vinet l'assure,
+la lettre du petit Constant avait été conservée par lui, et si c'est de
+son portefeuille qu'elle s'est envolée ; je dis seulement que Vinet ne
+le considère ni comme un mystificateur ni comme un mystifié, et qu'il ne
+met point en doute l'authenticité de l'épître.</p>
+<p><pb/></p>
+<p>1 Rudler : Bibliographie critique des ouvrages de B. Constant.</p>
+<p>Armand Colin, 1908.</p>
+<p><pb/></p>
+<p>Vinet « retrancha la lettre quand il fut établi qu'elle était l'œuvre
+d'un mystificateur » ?</p>
+<p>Voici : On lit dans Sainte-Beuve, Portraits de Femmes, p. 445, note 2 :
+« L'authenticité de cette lettre a été depuis révoquée en doute ; ce ne
+serait qu'un pastiche qui a trompé de bons juges. » La note est au bas
+d'une des pages de l'article sur Mme de Charrière (1839).</p>
+<p><pb/></p>
+<p>qu'après 1856 que Sainte-Beuve donne comme assuré — non par lui-même, il
+est vrai, mais s'il n'assure rien lui-même, il accepte l'assurance qu'on
+lui donne — que la lettre est un faux, et ce n'est qu'en 1864 qu'il
+nomme le faussaire.</p>
+<p>Ce qu'il fit de mieux dans ce genre (le pastiche) fut une prétendue
+lettre qui courut sous le nom de Benjamin Constant... Sainte-Beuve, tout
+en la reproduisant, conçut des doutes sur la précocité d'un enfant de
+cet âge, mais il la donna néanmoins, d'après M. Vinet, dans son article sur</p>
+<p>Benjamin Constant et Mme de Charrière. Plus tard il y mit un correctif
+qui la restitue d'une manière définitive.</p>
+<p>Cette note est signée : Le dernier secrétaire de Sainte-</p>
+<p>Beuve, et datée de 1880.</p>
+<p>M. Troubat savait donc — et cela n'a rien de surprenant — que le
+correctif était de 1864 ; que ce n'était que longtemps après avoir
+reproduit la lettre dans son article, que Sainte-Beuve « avait restitué
+définitivement » la dite lettre. Et cependant la fin de sa note ne peut
+signifier autre chose sinon que Vinet, en la faisant disparaître de sa
+Chres- tomathie, avait su, lui aussi, que c'était une fausse pièce,
+c'est-à-dire que Vinet avait su dès 1840 ce que Sainte- Beuve n'aurait
+appris que quinze ou vingt ans après ; ce qui est parfaitement
+invraisemblable.</p>
+<p><pb/></p>
+<p>1 Le renseignement m'est fourni par M. Ph. Bridel, qui l'a puisé dans un
+catalogue de librairie daté de 1855.</p>
+<p><pb/></p>
+<p>au bord du lac de Genève. » Sainte-Beuve n'avait pu manquer de
+s'intéresser aux lettres de Livry, dans lesquelles Châtelain feint que
+Jacques de Sainte-Beuve s'attriste au sujet des productions de son neveu
+: Volupté, Consolations, etc....</p>
+<p>On s'étonnera peut-être que Sainte-Beuve, connaissant si bien Châtelain
+et son talent de pasticheur, ne lui ait jamais demandé si la lettre de
+Benjamin était sortie, comme on le disait, « de sa fabrique ». Le fait
+est qu'il ne le lui a jamais demandé.</p>
+<p>M. Reymond.</p>
+<p><pb/></p>
+<p>Il en a même donné un facsimile dans la Bibliographie critique des
+ouvrages de Benjamin Constant (1908).</p>
+<p><pb/></p>
+<p>Bruxelles, le 19 novembre 1779.</p>
+<p>Je voudrais pouvoir vous dire de moi quelque chose de bien satisfaisant,
+mais je crains que tout ne se borne au physique ; je me porte bien et je
+grandis beaucoup. Vous me direz que si c'est tout, il ne vaut pas la
+peine de vivre. Je le pense aussi, mais mon étourderie renverse tous mes
+projets. Je voudrais qu'on pût empêcher mon sang de circuler avec tant
+de rapidité, et lui donner une marche plus</p>
+<p><pb/></p>
+<p>1 Et non aurore.</p>
+<p>2 Et non le grand monde.</p>
+<p>% Et n III fantaisies.</p>
+<p>Et non : je ne sais pas quand....</p>
+<p>s Et non qu'on craint.</p>
+<p><pb/></p>
+<p>Aimez-moi toujours et faites-m'en donner l'assurance.</p>
+<p>BENJAMIN 1.</p>
+<p>Le principe auquel ma faiblesse m'a conseillé de me tenir, c'est de ne
+parler que des auteurs avec lesquels je n'ai eu aucun rapport personnel
+; et vous avez lu l'article de M. Sainte-Beuve. (Inédit.)</p>
+<p>Il lut donc et trouva le moyen de rendre compte. Le premier de ses deux
+articles était parti et le second l'allait suivre, quand il prit
+connaissance ou se ressouvint d'un petit ouvrage de Sainte-Beuve qui
+avait paru quelques mois auparavant, le 15 mars, dans la Revue des DeuxMondes
+ et qui s'appelle Madame de Pontivy.</p>
+<p>Tout le monde connaît aujourd'hui et jusque dans les</p>
+<p>1 C'est la signature que porte le manuscrit.</p>
+<p>2 Sur Grandpierre: voir Alexandre Vinet, par Eugène Rambert ; quatrième
+édition, revue et augmentée par Ph. Bridel, p. 621.</p>
+<p><pb/></p>
+<p>Vinet lut Madame de Pontivy avec « une douloureuse admiration ».
+Assurément, comme on le peut voir dans les deux articles sur Pensées
+d'Août, il se doutait bien un peu que Sainte-Beuve n'avait pas renoncé
+au monde autant qu'il le laissait entendre, mais il n'avait pas prévu
+Madame de Pontivy.</p>
+<p><pb/></p>
+<p>31 décembre 1837.</p>
+<p><pb/></p>
+<p>Voici la lettre :</p>
+<p>1 La même duchesse de Broglie, dont les moindres paroles, dit</p>
+<p>Jules Levallois dans son Sainte-Beuve, faisaient autorité dans le monde
+doctrinaire, avait été scandalisée par les Poésies de Joseph</p>
+<p>Delorme. Les Consolations l'avaient sans doute réconciliée avec</p>
+<p>Sainte-Beuve.</p>
+<p><pb/></p>
+<p>1 Rambert : Alexandre Vinet, p. 345-347, et Lettres de Vinet, II, 45.</p>
+<p>2 Léon Séché : Sainte-Beuve, I, 207.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Au surplus, Vinet — qui n'était point du tout un naïf — comprit très
+bien Sainte-Beuve. Il lui répondit le lendemain, 2 janvier 1838, dans
+les termes suivants :</p>
+<p>Par quoi Vinet aurait-il été touché si profondément, et même édifié, —
+ce qui, soit dit entre nous, me paraît un peu fort, — sinon par la
+preuve d'absolue confiance que lui donnait Sainte-Beuve, et surtout par
+l'évidente sincérité d'une confession entière ? Non point que Vinet
+entendît jouer auprès de Sainte-Beuve le rôle d'un confesseur ; il
+voulait seulement pouvoir l'aimer, et pour cela lire dans son cœur.
+Après cela, s'il souhaitait que Sainte-Beuve partageât sa foi, c'est
+avec le plus grand respect de la conscience de son correspondant qu'il
+en exprime le vœu.</p>
+<p>1 Lettres de Vinet, II, 48.</p>
+<p><pb/></p>
+<p>1er janvier 1838.</p>
+<p>Il voudrait « pouvoir la communiquer », mais il se rend compte qu'il ne
+le peut pas. Et il ne peut y avoir de doute</p>
+<p>A. Vinet, d'après sa correspondance inédite avec Lutteroth (1891), mais
+sans date, et de telle façon que ce jugement semble avoir pour original
+et pour base les leçons sur Port-Royal entendues par Vinet.</p>
+<p>Les premières lignes sont, je crois, inédites.</p>
+<p>2 n y a une distinction entre l'expression et l'assurance d'un voeu '
+qui me semble un tantinet subtile.</p>
+<p><pb/></p>
+<p>Si l'on en doutait encore, je signalerais ce passage de l'agenda en date
+du 25 février 1838 :</p>
+<p>Visite de M. Sainte-Beuve, qui me laisse lire dans son cœur.</p>
+<p>Les mots soulignés, remarque Rambert (4e édition, p. 347), sont écrits
+en chiffres, selon l'habitude de Vinet, quand il s'agit de détails intimes.</p>
+<p>Que lut Vinet dans le cœur de Sainte-Beuve ? Il ne nous l'a pas dit,
+mais il est certain qu'il y lut, et qu'après avoir lu il parla. La
+passion de Sainte-Beuve n'était pas éteinte, ou du moins la blessure
+n'était pas cicatrisée. Vinet dut le panser, lui faire entrevoir une
+existence nouvelle : c'est sans doute au sortir d'une de ces entrevues
+où il laissait « lire dans son cœur » qu'il écrivait ces vers :</p>
+<p>Pauvre orage de l'âme, où donc est ta rigueur ?</p>
+<p>Qu'as-tu fait de tes flots, orage de mon coeur ?</p>
+<p>..................</p>
+<p>J'en ai fini avec les Pensées d'Août et la dame de Pontivy ; je passe
+aux articles sur Port-Royal. Il conviendrait sans doute ici de rappeler
+les différentes circonstances de la nomination de Sainte-Beuve à
+l'Académie de Lausanne,</p>
+<p>1 Poésies complètes, p. 430.</p>
+<p><pb/></p>
+<p>22 déc. 1837 : Belle leçon sur Jansénius.</p>
+<p>12 fév. 1838 : Très belle leçon sur les Provinciales.</p>
+<p>La plupart de ces notes sont brèves ; parfois elles sont plus
+explicites. Voici celle du 26 janvier 1838. Sainte-Beuve, nous dit
+Rambert 2, « avait fait entrevoir la veille que le jour viendrait
+peut-être où, de progrès en progrès, la majorité des hommes trouverait
+la vie assez douce pour que la sombre apologie de Pascal n'eût plus de
+raison d'être ». Vinet écrit dans son agenda : « Comment une question de
+conscience individuelle, de foi, pourrait-elle devenir une question de
+majorité ? »</p>
+<p>1 Sainte-Beuve dit : le même jour (Port-Royal, I, 515). Ce n'est pas
+exact. Vinet fut installé le 1er nov. 1837 et Sainte-Beuve le</p>
+<p>* Ouvr. cité, p. 344.</p>
+<p><pb/></p>
+<p>Vendredi 26 janvier 1838.</p>
+<p>1 Lettres de Vinet, II, 51.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>2 Paris, Calmann-Lévy, 1892.</p>
+<p><pb/></p>
+<p>des choses de la pensée. En 1839, après un voyage qu'il avait fait en
+Italie, passant par Lausanne, Sainte-Beuve alla entendre Vinet, que
+peut-être il n'avait pas entendu, faute de loisirs, l'année d'avant. Et
+voici comme il évoque ce souvenir dans l'article nécrologique qu'il
+donna aux Débats en 1847 :</p>
+<p>1° De l'agenda :</p>
+<p>11 mai 1840 : Reçu de M. Sainte-Beuve le premiervolume de Port-Royal.</p>
+<p>17 mai : Commencé la lecture de P.-R. de Sainte-Beuve.</p>
+<p><pb/></p>
+<p>23 mai : Ecrit pour le Courrier suisse un article sur le</p>
+<p>Port-Royal de M. S.-B.</p>
+<p>29 mai : Achevé le premier volume de P.-R.</p>
+<p>24 octobre 1840 : Préparé un article sur P.-R.</p>
+<p>13 nov. : Commencé un article sur P.-R.</p>
+<p>17 déc. : Commencé le 2e article sur P.-R.</p>
+<p>18 déc. : Continué...</p>
+<p>19 déc. : Achevé et expédié...</p>
+<p>2 janv. 41 : Envoyé au Semeur, avec un errata pour mon 2e article sur
+P.-R., quelques réflexions sur le culte de la Vierge.</p>
+<p>24 nov. 1840 : Voici enfin un premier article sur Port- Royal : je ferai
+tout mon possible pour que le second ne tarde pas.</p>
+<p>Suivent quelques additions et corrections que Lutteroth a fait imprimer
+telles que Vinet les lui envoyait sans tenir compte — et il a eu raison
+— du désir exprimé par Vinet qu'il leur donnât une forme plus châtiée.</p>
+<p>Sainte-Beuve, qui n'avait plus revu Vinet depuis son</p>
+<p><pb/></p>
+<p>Rambert, p. 348. J'en extrais ce qui suit 1 :</p>
+<p>1840).</p>
+<p><pb/></p>
+<p>voyais toute une destinée d'étude, de sacrifice et d'humble et constante
+action. Je ne veux pas dire tout ce que j'en pense de peur de vous
+fâcher et de vous détourner de m'écrire encore...</p>
+<p>M. Vulliemin me disait que vous aviez l'idée d'une histoire de saint
+François de Sales : oh ! songez-y, je vous en prie ! Quel sujet entre
+vos mains, et quelle preuve de charitable union 1.</p>
+<p>Cher Monsieur,</p>
+<p>2 C'était le cours sur Chateaubriand et Mme de Staël.</p>
+<p><pb/></p>
+<p>Et ce qu'il faut dire aussi, c'est que cette confession de</p>
+<p>Sainte-Beuve. Mais j'ai tort de dire dans les lettres ; je crois bien
+qu'il n'y en a qu'une seule, et c'est celle du 4 mai</p>
+<p>1846, celle où il est question du petit Constant, de son chef-d'œuvre,
+et de Hochet les d'Hacqueville. J'en ai cité une partie plus haut. Voici
+le reste :</p>
+<p>J'ai sucé tout votre rayon de miel, monsieur, au moment où je vous écris
+1. Miel est bien le mot, alors même que votre bonté n'aurait pas semé
+ces deux volumes de mots si bienveillants et si doux pour moi. Veuillez
+croire que rien ne m'échappe de ce qu'il y a dans cette attention
+d'exquis en soi-même et de précieux pour moi ; et permettez-moi d'être
+encore plus sensible au premier qu'au second de ces mérites. Que ne
+puis-je vous remercier mieux ! Mais j'ose m'assurer que mes paroles vous
+font lire dans mon cœur et que vous voyez bien, sans autre témoignage,
+combien je suis touché...</p>
+<p>1 Vinet remercie Sainte-Beuve de l'envoi des deux premiers volumes des
+Portraits contemporains, où se trouvait le portrait de</p>
+<p>Vinet.</p>
+<p><pb/></p>
+<p>Et encore, trois semaines plus tard :</p>
+<p>M. Vinet, en réfutant Soumet, est véritablement tombé dans le cauchemar
+qui a suivi sa chute2; ce livre n'est que ridicule ; le succès ici n'a
+été que factice ; tout le monde s'en moque ou personne n'en parle.
+Est-il possible de faire une telle dépense de larmes et d'encens à
+l'encontre d'une telle fadaise 3 ?</p>
+<p>Et encore, le 2 juin :</p>
+<p>Et toujours, du 19 juin 1842 :</p>
+<p>M. Vinet est puni par où il a péché ; pourquoi s'occupe- t-il, avec son
+beau talent, des Soumet, des Guiraud, des sots? Ils lui répondent ; il
+doit leur répliquer : cela n'a plus de</p>
+<p>1 A Mme Olivier, 27 avril 1841. Correspondance inédite, p. 262.</p>
+<p>2 Voir Rambert, ouvr. cité, p. 402 et suiv.</p>
+<p>3 A la même, 18 mai 1841, ibid., p. 265.</p>
+<p>4 A la même, id., p. 268.</p>
+<p><pb/></p>
+<p>fin ; au lieu de se moquer d'eux une bonne fois, ou mieux, de les punir
+tout d'abord d'un éternel silence 1.</p>
+<p>Sainte-Beuve, qui s'était brouillé ensuite avec lui, comme d'ailleurs
+avec beaucoup de gens, et qui paraît avoir eu un mauvais caractère 2 :</p>
+<p>Un peu monté de ton, mais c'est Sainte-Beuve qui avait raison, mille
+fois raison. Après cela, sa colère tomba vite comme on peut bien croire 4.</p>
+<p>1 Id., id., p. 295. Les principaux articles de Vinet sur Guiraud se
+trouvent dans le volume de Philosophie religieuse, p. 251-339.</p>
+<p>* Voir Michaut : Etudes sur Sainte-Beuve, Paris, Fontemoing,</p>
+<p>1905, une longue étude sur Michiels et Sainte-Beuve.</p>
+<p>8 A Mme Olivier, id., p. 305.</p>
+<p>Ce n'est pas la première fois que M. de Sainte-Beuve est battu sur mon
+dos. s, Et le 4 nov. 1842 : « Voici l'article sur le livre de M. Michiels.</p>
+<p>Quel qu'il soit, je puis me féliciter de la disposition dans laquelle je
+l'ai écrit, et je suis d'autant plus sûr que l'auteur n'y trouvera
+aucune trace d'amour-propre blessé, que j'ai parfaitement oublié</p>
+<p><pb/></p>
+<p>Toujours Vinet sur Guiraud : quelle monomanie ! (A</p>
+<p>Olivier, 29 mai 1845 1.)</p>
+<p>Et en note (la note est de M. Léon Séché) :</p>
+<p>Le petit volume inédit est le Livre d'Amour. Ce passage prouve le
+respect profond que Sainte-Beuve avait pour</p>
+<p>Vinet.</p>
+<p>Je finis par une citation qui me paraît résumer tout ce</p>
+<p>ce qui pouvait me faire de la peine dans ce livre très intéressant. »</p>
+<p>(A. Vinet, d'après sa correspondance avec H. Luttel'oth,par Ed. de</p>
+<p>Pressensé, p. 55 et 56.)</p>
+<p>1 Même volume, p. 326.</p>
+<p>* Il s'agit plus probablement d'un petit volume sur La Bruyère et La
+Rochefoucauld, qui parut en décembre 1842 ; seulement, si c'est bien
+cela, la lettre que je cite d'après M. Séché serait mal datée.</p>
+<p><pb/></p>
+<p>L'histoire des relations de Sainte-Beuve et de Vinet, c'est l'histoire
+d'une belle amitié.</p>
+<p>QUINET</p>
+<p>Voici quelques notes relatives aux articles de Vinet sur l' Ahasvérus et
+le Prométhée.</p>
+<p>Ahasvérus :</p>
+<p>Agenda: — 6 juillet 1834 : Après-midi, nous avons lu quelque chose
+d'Ahasvérus, de Quinet.</p>
+<p>17 juillet : Lu une partie d'Ahasvérus.</p>
+<p>18 juillet : Lu jusqu'au bout le Ahasvérus d'Edgar Quinet. 21 juillet :
+J'ai fait la plus grande partie de l'article sur</p>
+<p>Ahasvérus.</p>
+<p>1 William Espérandieu, ancien juge au Tribunal d'appel du canton de
+Vaud, mort en 1876 ; grand ami de Juste Olivier et de</p>
+<p><pb/></p>
+<p>1834) :</p>
+<p>Mon cher ami,</p>
+<p>Prométhée :</p>
+<p>Agenda: — 17 avril 1838 : Achevé hier le 3e vol. de l'Histoire de
+France, de Michelet, et aujourd'hui le Prométhée, de Quinet. — Lettre de
+M. Am. Prévost (au sujet de Prométhée).</p>
+<p>17 juin : continué, mais languissamment, l'art. sur Pr. 18 juin :
+expédié le 1er art. sur Pr.</p>
+<p>19 juin : commencé un 2e art. id.</p>
+<p>1 Inédit.</p>
+<p>2 Inédit. Ces textes proviennent des Archives Vinet de la Bibliothèque
+de la Faculté de théologie de l'Eglise libre du canton de</p>
+<p>Vaud.</p>
+<p><pb/></p>
+<p>21 juin : continué le 2e article sur Prométhée.</p>
+<p>22 juin : achevé id.</p>
+<p>23 juin : expédié id.</p>
+<p>30 juin : commencé le 3e article sur Pr.</p>
+<p>2 juillet : continué id.</p>
+<p>3 juillet : achevé id.</p>
+<p>6 juillet : revu et expédié id.</p>
+<p>14 juillet : Lettre de M. Lutteroth. Me remercie de mes articles et de
+leur sévérité.</p>
+<p>18 juin: Cet article sera suivi, D. a. [= Dieu aidant] d'un deuxième et
+dernier, qui, je l'espère, ne se fera pas attendre.</p>
+<p>Je vous en aurai ainsi expédié sept, coup sur coup ; de quoi je
+mériterais plutôt d'être blâmé que remercié, si j'avais eu le choix
+entre les faire tout de suite ou ne les faire jamais. J'y ai employé les
+dernières heures d'un loisir qui ne reviendra pas pour moi de longtemps
+; et quand il reviendra, il ne sera plus temps de parler des ouvrages
+dont ces articles présentent l'analyse 1.</p>
+<p>22 juin : Hélas ! il y aura un troisième article, pour l'examen
+littéraire de l'ouvrage !</p>
+<p>24 juin : Mon loisir expire dès ce jour et pour longtemps. Je ne sais
+pas même trop bien quand je pourrai faire mon 3e article sur Prométhée.
+— Je vous ai envoyé hier le 2e article sur Prométhée. Ces 2 articles
+sont deux chapitres, auxquels j'aurais donné des titres si j'avais osé.</p>
+<p><pb/></p>
+<p>MICHELET2</p>
+<p>Histoire de France, 3e volume.</p>
+<p>Agenda: — 17 avril 1838. Achevé hier le 3e vol. de l'Histoire de France,
+de Michelet.</p>
+<p>11 juin : Continué un article sur le 3e volume de Michelet. 12 juin :
+Achevé et envoyé l'art. sur Michelet, 3e vol.</p>
+<p>9 juillet : envoyé au Semeur une addition pour l'article sur Michelet.</p>
+<p>1 Inédit.</p>
+<p>2 Une étude de Vinet, insérée dans le Semeur du 12 mars 1845, sur le
+livre de Michelet: Du prétre, de la femme, de la famille, prendra place
+dans le volume de cette édition intitulé : Variétés théologiques.</p>
+<p><pb/></p>
+<p>introduire ce qui suit, en taillant peut-être les deux bouts un peu
+autrement.</p>
+<p>(Ici un morceau a été coupé par Lutteroth, sans doute pour être donné à
+l'imprimerie.)</p>
+<p>Histoire de France 4e, 5e et 6e volumes.</p>
+<p>7 février 1844 : Continué la lecture de Michelet.</p>
+<p>28 id. : Parcouru le 5e volume de Michelet.</p>
+<p>13 février 1847 : Commencé un article sur les tomes IV et V de Michelet.</p>
+<p>14 id. : Continué l'article sur Michelet.</p>
+<p>17 : Achevé le premier article.</p>
+<p>19 : Envoyé au Semeur l'article sur Michelet.</p>
+<p>27 : Travaillé au 2e article sur M.</p>
+<p>28 : Achevé le 2e article.</p>
+<p>3 mars : Envoyé au Semeur le 2e article sur Michelet.</p>
+<p>18 février 1847 : Je vous envoie, cher ami, le premier des</p>
+<p>1 L'article sur Michelet III a paru le 25 juillet. Lettre inédite.</p>
+<p>(Archives Vinet).</p>
+<p>2 Archives Vinet.</p>
+<p><pb/></p>
+<p>22 mars 47 (de Vinet fils) : Dans le second article sur Michelet, à
+l'endroit où mon père dit, d'après Commines, que Louis XI fut plus
+malheureux que ses victimes, il faudrait renvoyer en note aux Mémoires
+de Commines, livre VI, chap. 12.</p>
+<p>Dans l'addition envoyée pour ce même article, tout au commencement, au
+lieu de plus que Mr. M. ne paraît le croire, il faudrait mettre : plus
+que MT. M. ne le fait entendre.</p>
+<p>24 mars 47 (de Mme Vinet) : Dans une lettre que vous aurez reçue par M.
+de Faye, mon mari vous demande le nouveau volume de M. Michelet.</p>
+<p><pb/></p>
+<p>MIGNET</p>
+<p>Agenda : 1er juillet 1843 : Visite de M. L. Bridel1, qui m'apporte une
+lettre de M. Lutteroth, avec les Mélanges de</p>
+<p>M. Mignet et des brochures.</p>
+<p>4 juillet : Lu, dans les Mélanges de Mignet, le morceau sur la guerre de
+la succession.</p>
+<p>19 oct. : Achevé le premier article sur Mignet.</p>
+<p>20 id. : Envoyé au Semeur l'article achevé hier.</p>
+<p>11 décembre : Achevé l'article (second) sur Mignet, commencé hier.</p>
+<p>14 déc. : Envoyé au Semeur le deuxième article sur Mignet.</p>
+<p>SOUMET</p>
+<p><pb/></p>
+<p>7 janv. 1841: J'ai parcouru la Divine Epopée. Quelle idée ! quel
+christianisme ! En vérité, le catholicisme a d'imprudents amis.</p>
+<p>13 janv. : Le plus tôt que je pourrai, j'enverrai 2 articles sur le
+poème de M. Soumet, dont je viens d'achever la lecture.</p>
+<p>J'espère vous envoyer bientôt le 2e art.</p>
+<p>4 mars (après longue maladie) : Vous avez trop de bonté de vous
+inquiéter du travail que m'a fait faire l'achèvement de mon 1er art. sur
+la Div. Epopée : je n'ai eu, en toute vérité, que quelques lignes à
+ajouter. J'espère pouvoir, sans beaucoup de peine, faire dans peu de
+temps le 2e art., que je crois avoir tout entier dans la tête. Ma
+convalescence est lente et pénible ; et ce moment n'en est pas le meilleur.</p>
+<p>18 mars : J'espère vous envoyer bientôt le 2e art. sur la</p>
+<p>Div. Epopée.</p>
+<p>7, 8 et 9 avril (longue lettre où il est question de la Divine</p>
+<p>Epopée.)</p>
+<p><pb/></p>
+<p>LETTRE DE VINET A SOUMET.</p>
+<p>Montreux, 5 juin 1841.</p>
+<p>Monsieur,</p>
+<p><pb/></p>
+<p>réplique correspondait mal avec l'idée d'un respect sincère et d'une
+admiration vive, ma plume aurait très mal servi ma pensée.</p>
+<p><pb/></p>
+<p>Je ne dirai plus qu'un mot : un homme dont l'autorité est bien grande
+(il suffirait de le nommer), trouve que je n'ai pas été complètement
+juste ; j'ose lui répondre que, si je ne l'ai pas été, c'est que je n'ai
+pas eu le temps de l'être. Je serai heureux, Monsieur, si vous croyez à
+la droiture de mon intention, et si vous ne doutez ni de la sincérité de
+mon admiration, ni de celle du respect avec lequel j'ai l'honneur
+d'être, Monsieur, votre très humble et très obéissant serviteur.</p>
+<p>VINET.</p>
+<p>RÉPONSE DE SOUMET A VINET.</p>
+<p>Ce 20 août 1841.</p>
+<p>Monsieur,</p>
+<p>Comment avez-vous pu croire que ma susceptibilité s'était alarmée de
+votre réponse insérée dans le Semeur ? J'espérais que l'ouvrage dont
+vous aviez rendu un compte si magnifique, vous avait révélé mon âme et
+que vous ne pouviez me supposer atteint des misérables vanités si
+communes aujourd'hui dans notre littérature. Le sentiment de la
+reconnaissance est le seul qui m'eût été inspiré par vos beaux articles,
+renfermant assez d'éloges pour consoler de toutes les critiques.</p>
+<p><pb/></p>
+<p>Mais je m'aperçois que mon ardeur philosophique m'entraîne trop loin.</p>
+<p>Pardon si je n'ai pas tracé moi-même cette lettre, mes pauvres yeux me
+refusent leur secours.</p>
+<p>Agréez, je vous prie, le témoignage de mes sentiments les plus distingués.</p>
+<p>ALEX. SOUMET.</p>
+<p>461 de la quatrième édition et au livre de M. de Pressensé :</p>
+<p>A. Vinet d'après sa correspondance avec H. Lutteroth. (Paris,</p>
+<p>1891.)</p>
+<p>GUTTINGUER</p>
+<p>Agenda : — 11 juin 1835 : Après un dîner très sobre, j'ai passé une
+demi-journée des plus pénibles..... Ecrit deux pages de l'article sur
+Arthur.</p>
+<p>12 juin: Achevé le 1er art. sur Arthur.</p>
+<p>14 juin: J'ai fait une partie du 2e art. sur Arthur.</p>
+<p>15 juin : J'ai achevé mon 2e art. sur Arthur.</p>
+<p>16 juin: Corrigé et expédié le 1er art. sur Arthur.</p>
+<p>23 juin : Envoyé le 2e art. sur Arthur.</p>
+<p><pb/></p>
+<p>30 mai 1837 : Je vous remercie de l'intention où vous êtes de m'envoyer
+la nouvelle édition d'Arthur. Si j'en parle, ce ne sera pas longuement;
+je ne le puis; mais j'en dirai quelque chose, en renvoyant aux
+précédents articles mes lecteurs et M. Guttinguer lui-même, qui, je
+crois, ne les a pas lus. Ne pourrait-on pas les lui envoyer ?</p>
+<p>5 sept. 1837 : J'ai cru qu'il était convenable de répondre directement à
+M. Guttinguer ; puis-je vous prier de lui faire parvenir ma lettre,
+après en avoir pris connaissance ? Je ne l'ai point signée ; mais si
+vous jugiez nécessaire que M. Guttinguer connût les cinq lettres de mon
+nom, après quoi il ne me connaîtra pas plus qu'avant, je vous prie de
+les lui tracer.</p>
+<p>3 octobre 1837 : Je regrette que vous n'ayez pas lui la lettre de M.
+Guttinguer. Sa première, bienveillante mais réservée, était bien loin de
+me faire attendre celle-ci. Elle m'a vivement surpris et touché. Elle
+est pleine d'affection, d'effusion et de confiance ; bien sérieuse ; je
+devrais y répondre ; ce devoir m'attire et m'effraie ; je ne suis fait,</p>
+<p>1 C'est-à-dire : j'accepte d'en rendre compte.</p>
+<p>2 Cette lettre a été reproduite dans de Pressensé : A. Vinet d'après sa
+correspondance avec Lutteroth, p. 238-242.</p>
+<p><pb/></p>
+<p>DROUINEAU</p>
+<p>Agenda: — 6 février 1834 : Fait un article sur les Confessions poétiques
+de M. Drouineau.</p>
+<p>1 Voir Lettres de Vinet, II, p. 38.</p>
+<p>2 Il y a un article sur le Manuscrit vert dans le Semeur, mais il n'est
+pas de Vinet. Pas plus qu'un autre sur l' Ironie.</p>
+<p><pb/></p>
+<p>7 février : Envoyé au Semeur l'art. sur Drouineau.</p>
+<p>10 id. : J'ai du regret de quelques phrases de mon article sur M.
+Drouineau. Sans être injuste, j'ai l'air de l'être, et de me contredire.
+Il faudrait prier avant d'écrire, et après avoir écrit.</p>
+<p>25 janvier 34 : Un bon moment, s'il vient (mais ce ne sera pas
+aujourd'hui) m'acquittera envers M. Drouineau. ...Pour Bacon, mon
+respect pour lui exige quelques délais et un peu plus de façon que je
+n'en ferai avec le fondateur du néochristianisme. Tout cela est bien
+faible ; ne faut- il pas le dire ?</p>
+<p>SOUVESTRE</p>
+<p>31 id. : Visite de Mme Falkner. Elle parle de l'article de M. Souvestre
+que j'ai lu trop légèrement et dont je n'ai pas été assez affecté. Je
+rougis que mon premier mouvement</p>
+<p>1 Revue des Deux-Mondes, leI oct. 1836. L'article est intitulé :</p>
+<p>La ville de Bâle, Holbein et les Bernouilli.</p>
+<p><pb/></p>
+<p>n'ait pas été de réclamer auprès de lui sur ce qu'il dit de l'Université
+de Bâle.</p>
+<p>19 nov : Reçu du Semeur le roman de Riche et pauvre. 20 : Achevé la
+lecture de Riche et pauvre.</p>
+<p>21 : Commencé un article sur Riche et pauvre.</p>
+<p>22 : Continué l'art. id.</p>
+<p>26 : Achevé l'art. id.</p>
+<p>27 : Refait, sur les avis de Sophie [Madame Vinet], la conclusion de mon
+article sur R. et P..</p>
+<p>28 : Envoyé au Semeur l'art. sur R. et P.</p>
+<p>Je ne puis me priver plus longtemps du plaisir de vous dire ce que j'ai
+éprouvé de reconnaissance, mêlée de beaucoup de confusion, en lisant il
+y a peu de jours ce que vous avez bien voulu dire de moi dans la Revue
+des Deux-Mondes... Si je ne m'y suis pas retrouvé, Monsieur, je vous y
+ai retrouvé avec votre indulgence et votre bonne amitié...</p>
+<p>Extrait du Post-Scriptum (Vinet y proteste contre le jugement trop
+sommaire que Souvestre avait fait, dans son article, de l'Université de
+Bâle. — Voir Agenda, 31 oct., passage cité plus haut.)</p>
+<p>On me fait remarquer qu'une phrase [de votre article] pourrait, contre
+votre intention, faire croire qu'aucun professeur de notre Université
+n'est connu hors de Bâle. Vous avez voulu dire : n'est connu en France,
+où en effet les noms de de Wette, Hagenbach et Wakernagel ne sont pas
+souvent répétés. En Allemagne, ils jouissent d'une grande
+considération... Ces hommes honoreraient des universités florissantes...
+M. Bernouilli est connu, même en France, mais uniquement parmi les
+économistes... 2.</p>
+<p>1 1 Inédit (Archives Vinet.) — 1 Inédit (Archives Vinet.)</p>
+<p><pb/></p>
+<p>G. SAND</p>
+<p>Agenda : — 16 déc. 1834 : Vinet note qu'il vient d'achever la lecture de
+«l'infâme roman de Jacques par George Sand ».</p>
+<p>2 juillet 1837 : Lu quelques lettres d'Un voyageur par G. Sand. Assez
+souvent je ressens pour cet auteur une vive sympathie intellectuelle et
+artistique ; une autre plus profonde, jamais.</p>
+<p>Dans un article du Semeur (1843)1 Vinet mentionne « les funestes
+déclamations de l'infortunée qui a rendu célèbre le nom de George Sand
+», et, plus loin, il écrit : « ...des romans trop fameux ont dégoûté les
+femmes elles-mêmes du rôle de la femme émancipée, et l'odieuse figure de
+Lélia reste debout aux confins du pays des chimères, pour en défendre
+l'entrée 2. »</p>
+<p>1 Inédit (Archives Vinet.)</p>
+<p>2 Article sur le Mariage au point de vue chrétien, par Mme de</p>
+<p>Gasparin.</p>
+<p>PAUL SIRVEN.</p>
+<p><pb/></p>
+<p>POST-SCRIPTUM</p>
+<p>P. S.</p>
+<p><pb/></p>
+<p>SAINTE-BEUVE</p>
+<p>1</p>
+<p>VOLUPTÉ1</p>
+<p>2 vol. in-8° — Paris 1834.</p>
+<p>1 Semeur (20 août 1834). Cet article sur Volupté a été précédé d'un
+autre article sur le même ouvrage, mais d'un genre tout différent. On le
+trouvera dans le premier volume de Philosophie morale et sociale, p. 216
+— 233. — P. S.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>C'est parce que M. Sainte-Beuve, presque le premier parmi ses pareils,
+l'a ainsi compris1, que nous disons avec assurance qu'il l'a compris.
+Son livre est l'histoire d'une âme défigurée par le péché, ramenée à
+Dieu par le repentir, et lentement épurée par l'amour divin. C'est un
+pèlerinage angoissé et douloureux dont la croix est le sommet.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Burrhus, je vous croirai quand...</p>
+<p>Mais, croyez-moi, l'amour est une autre science.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Mais mon chien s'élançait en joyeux aboiements vers elle, et sautait
+follement vers l'essaim pour le saisir : celui-ci, tournoyant alors et
+redoublant de murmure, s'élevait avec une lenteur cadencée dans un rayon
+de soleil.</p>
+<p><pb/></p>
+<p>En général, la crainte de retomber dans les formes connues, le besoin de
+l'inusité se font trop sentir dans le style de M. Sainte-Beuve. Il
+harcèle la langue, il la tourmente pour lui faire dire où elle a caché
+ses trésors ; mais le bien mal acquis ne prospère pas ; et l'auteur est
+souvent incorrect en pure perte. Que</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le côté orgueilleux choqué (il s'agit de M. de Couaën vivement froissé
+par Amaury dans une discussion politique) n'avait manifesté aucun émoi,
+n'avait gardé aucune trace ni rancune, et tout était allé retentir et
+faire offense au sein d'une idée si dissemblable (la jalousie
+conjugale). Mais peut-être aussi n'était-ce de sa part qu'un résultat de
+sagacité rapide, et se disait-il qu'indifférent et désorienté comme je
+l'étais en politique, pour le prendre sur un ton si inaccoutumé avec
+lui, il fallait qu'il y eût en moi altération et secousse dans d'autres
+sentiments plus secrets.</p>
+<p>Lorsqu'on se jette dans l'action sociale avant d'être guéri et pacifié
+au dedans, on court risque d'irriter en soi bien des germes équivoques.</p>
+<p>Toutes les fois que je tombais ainsi net, sans qu'il y eût rien
+prochainement de ma faute, je me sentais libre, responsable encore ; il
+y a toujours dans la chute assez de part de</p>
+<p><pb/></p>
+<p>(Lisez aussi, p. 125 et 129 du second volume, des passages excellents
+sur la dureté des voluptueux et sur la grossièreté inhérente aux
+passions impures, même dans le plus haut monde. Ce dernier morceau est
+d'une vérité terrible.)</p>
+<p>Dans cette disposition intérieure de spiritualité, la vigilance est
+perpétuelle; pas un point ne reste indifférent autour de nous pour le
+but divin ; tout grain de sable reluit. Un pas qu'on fait, une pierre
+qu'on ôte, le verre qu'on range hors du chemin de peur qu'il ne blesse
+les enfants ou ceux qui vont les pieds nus, tout devient significatif et
+source d'édification, tout est mystère et lumière dans un mélange
+délicieux. Qui sait-on? — Dieu le sait, c'est là, en chaque résultat, le
+doute fécond, l'idée rassurante qui survit.</p>
+<p><pb/></p>
+<p>Je finis par recommander au lecteur quelques pages admirables (II,
+166-171) sur cette vérité : que tous les défauts réels qui, selon le
+monde, viennent d'être trop chrétien, viennent, au contraire, de ne
+l'être pas assez.</p>
+<p><pb/></p>
+<p>II</p>
+<p>PENSÉES D'AOUT</p>
+<p>Poésie. 1 vol in-18.</p>
+<p>PREMIER ARTICLE 1</p>
+<p>Heureux dont le langage, impétueux et doux,</p>
+<p>En servant la pensée est plutôt au-dessous ;</p>
+<p>Qui, laissant déborder l'urne de poésie,</p>
+<p>N'en répand qu'une part, et sans l'avoir choisie ;</p>
+<p>Et dont la sainte lyre, incomplète parfois,</p>
+<p>Son défaut m'est aimable et de près m'édifie'...</p>
+<p>1 Semeur, 3 janvier 1838. — 1 A M. Achille du Clésieux.</p>
+<p><pb/></p>
+<p>sée, ce genre de préoccupation si rare dans le temps où nous vivons,
+mériterait toujours d'être signalé.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>seconde immensité se déployer entre elle et son dernier objet, entre
+elle et la réalité de ce qu'elle sait et la substance ce de qu'elle a cru.</p>
+<p><pb/></p>
+<p>Tu te révoltes, tu t'irrites,</p>
+<p>0 mon Ame, de ce que tel</p>
+<p>Ne comprend pas tous tes mérites</p>
+<p>Et met ton talent sous l'autel ;</p>
+<p>Tu t'en aigris ! mais, Ame vaine,</p>
+<p>Pourquoi, d'un soin aussi profond,</p>
+<p>De ce que d'autres te surfont ;</p>
+<p>De ce que tout lecteur sincère,</p>
+<p>Te prenant au mot de devoir,</p>
+<p>Te tient en son estime chère</p>
+<p>Bien plus que tu ne sais valoir ?</p>
+<p>Oh ! plus sage, mieux attristée,</p>
+<p>Tu souffrirais amèrement</p>
+<p>De la faveur imméritée</p>
+<p>Plus que de l'injure, estimant</p>
+<p>Que dans cette humaine monnaie</p>
+<p>Ton prix encor est tout flatteur,</p>
+<p>Et que bien pauvre est la part vraie</p>
+<p>Aux yeux du seul Estimateur1 !</p>
+<p>1 Tu te révoltes, tu t'irrites, etc.</p>
+<p><pb/></p>
+<p>Ce qu'il y a de chrétien dans les Pensées d'Août, ce ne sont pas tant
+les passages où les mots sacramentels du christianisme sont prononcés,
+où ses dogmes sont rappelés ou directement appliqués : ce sont ceux
+surtout où les gens du monde ne chercheront pas le christianisme, et ne
+verront que de la psychologie plus ou moins contestable, ou de la morale
+en dehors des lieux-communs et des délicatesses de la morale courante.
+Le christianisme n'est</p>
+<p><pb/></p>
+<p>pas seulement une doctrine ; c'est un point de vue : un site d'où l'on
+voit toutes choses, et toutes choses sous un aspect original et nouveau.</p>
+<p><pb/></p>
+<p>tention, ce que le présent volume nous apporte, ce sont des pensées
+intimes, trop intimes peut-être pour la poésie sensible, dont elles
+répriment l'essor et amortissent la couleur.</p>
+<p>La flamme, je l'étouffé, et je retiens ma voix1,</p>
+<p>1 A Alfred de Musset.</p>
+<p><pb/></p>
+<p>Le siècle aborde cette même idée, mais par d'autres côtés, et dans un
+autre esprit peut-être. M. Sainte-Beuve et lui se rencontrent sans
+s'entendre. Quelque faveur que les circonstances paraissent promettre à
+la poésie des choses modiques, peu de gens sauront qu'il valait
+poétiquement la peine de traiter tel ou tel sujet que M. Sainte-Beuve a
+médité avec amour. Ne s'étonne-t-on pas quelquefois en voyant vers
+quelles fleurs inodores et ternes l'abeille dirige son vol ? Je ne sais
+si beaucoup de gens se douteront de l'importance morale et de</p>
+<p>1 Sonnet. A M. Roger d'A.</p>
+<p><pb/></p>
+<p>l'intérêt poétique du premier morceau du recueil, et qui a donné son
+titre au volume entier ? Verra- t-on dans Monsieur Jean, si profond, si
+touchant, autre chose que l'extraordinaire d'une situation ?</p>
+<p>Et qui voudra convenir que l'histoire suivante était, comme on eût dit
+jadis, le juste sujet d'un poème :</p>
+<p>Avec ses deux enfants, sa fidèle couvée !</p>
+<p>Veuve, et chaste, et sévère, et toute au deuil pieux, Elle les a, seize
+ans, élevés sous ses yeux</p>
+<p>Au cœur le souvenir long, sérieux et sûr.</p>
+<p>Mais aujourd'hui qu'il faut que son fils se décide</p>
+<p>A quelque état, jeune homme et docile et timide, Elle n'a pas osé le
+laisser seul venir ;</p>
+<p>Elle le veut encor sous son aile tenir ;</p>
+<p>Elle veut le garder de toute impure atteinte, Veiller en lui toujours
+l'image qu'elle a peinte (Sainte image d'un père 1), et les devoirs écrits</p>
+<p>Elle est venue. En vain chez sa fille innocente, L'ennui s'émeut parfois
+d'une compagne absente,</p>
+<p>Et l'habitude aimée agite son lien :</p>
+<p>La mère, elle, est sans plainte et ne regrette rien. Mais si son fils,
+dehors qu'appelle quelque étude, Est sorti trop longtemps pour son
+inquiétude,</p>
+<p>Si le soir, auprès d'elle, il rentre un peu plus tard, Sous sa question
+simple observez son regard I Pauvre mère ! elle est sûre, et pourtant sa
+voix tremble. 0 trésor de douleurs, -- de bonheurs tout ensemble ! Car,
+passé ce moment, et le calme remis,</p>
+<p>Comme aux soirs de province, avec quelques amis Retrouvés ici-même, elle
+jouit d'entendre</p>
+<p>(Cachant du doigt ses pleurs) sa fille, voix si tendre, Légère, qui
+s'anime en éclat argenté,</p>
+<p>Au piano, — le seul meuble avec eux apporté1.</p>
+<p>1 La voilà, pauvre mère, etc.</p>
+<p><pb/></p>
+<p>Perçons, perçons la terre, on les retrouve encor1 !</p>
+<p>1 A M. Villemain.</p>
+<p><pb/></p>
+<p>1 MONTAIGNE, Essais. Livre II, chapitre XVIII.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>DEUXIÈME ARTICLE 1</p>
+<p>1 Semeur, 10 janvier 1838.</p>
+<p><pb/></p>
+<p>image de sa vie, c'est toute sa vraie philosophie. C'est en même temps
+le résultat de la vie sociale, et le moyen de cette vie ; c'est une
+indispensable condition d'ordre, de ralliement, et par conséquent de
+progrès ; c'est le talisman de notre Babel. Quoi d'étonnant si un
+instinct universel veille d'un soin jaloux sur un vocabulaire et sur une
+grammaire dont l'altération rendrait imminentes et la confusion des
+langues et la dispersion, non plus des tribus, mais des forces de la
+société. Veiller sur la langue, c'est veiller sur la société même.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Nous craignons que ces détails ne paraissent subtils ; cependant nous
+sommes sûrs de rendre une impression réelle. Quoi qu'il en soit, il est
+clair que</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>la beauté des sons est nécessairement sacrifiée dans un pareil système ;
+et un poète qui sait faire les vers (ce recueil même le prouve) a le
+pénible courage de fuir la mélodie, les beaux accents, les mots sonores
+et vibrants, les chutes pleines et retentissantes, presque toute la
+mélopée dont notre langue est susceptible ; on dirait parfois qu'il
+affectionne les mots arides et lourds, les rencontres dures, la plus
+franche ineuphonie.</p>
+<p>Je ne doute pas, au reste, qu'une synthèse très peu réfléchie n'ait
+dicté quelques-uns des plus beaux vers qu'on connaisse ; vers enfantés
+d'un coup, vers jetés en fonte et rapidement, pendant que leurs éléments
+confondus bouillonnaient encore. Une analyse rigoureuse n'en laisserait
+subsister qu'un bien petit nombre. Les poètes de l'antiquité sont pleins
+de ces expressions vagues mais délicieuses, de ces inexactitudes
+sublimes ou touchantes, qui font le tourment du grammairien loyal. A
+quelle forme consacrée de la langue latine répond le sunt lacrymœ rerum
+de Virgile ? Il y a des choses qui sont jugées par leur effet, adoptées
+ou rejetées d'acclamation, et où l'analyse ne doit pas toucher. De ce
+nombre sont quelques vers des Pensées d'Août, ceux-ci, par exemple :</p>
+<p>Bocagère et facile il se montrait la gloire 1...</p>
+<p>Chemin creux sous des bois dans le torrent d'exil</p>
+<p>Après tout cela, il faut bien convenir que la parole, même celle du
+poète, est une analyse de la</p>
+<p>1 Pensée d'Août. — 2 Monsieur Jean.</p>
+<p><pb/></p>
+<p>pensée ; qu'elle doit méthodiquement décomposer le sentiment qui se
+forme dans l'âme de l'écrivain, et qui va, soutenu par elle, se reformer
+dans l'âme du lecteur. Il y a synthèse au point de départ, et synthèse
+au terme final, l'analyse remplit l'intervalle. Et cette analyse est
+logique ; elle est bien différente de cette espèce de manipulation qui
+combine entre elles plusieurs substances pour en tirer une nouvelle,
+mais qui ne crée rien d'organique. La parole est une mécanique, non une
+chimie.</p>
+<p>On peut louer M. Sainte-Beuve d'avoir cherché le secret, qu'il a trouvé
+souvent,</p>
+<p><pb/></p>
+<p>D'un vers rajeunissant qui charme avec détour 1.</p>
+<p>1 Pensée d'Août.</p>
+<p>2 Le premier de ces deux morceaux appartient au recueil intitulé</p>
+<p>Vie, poésies et pensées de Joseph Delorme, publié par Sainte-Beuve</p>
+<p>en 1829, le second aux Consolations, publiées en 1830. (Editeurs).</p>
+<p><pb/></p>
+<p>Certes, la Grèce antique est une sainte mère,</p>
+<p>L'Ionie est divine : heureux tout fils d'Homère !</p>
+<p>Heureux qui, par Sophocle et son roi gémissant,</p>
+<p>S'égare au Cythéron, et tard en redescend !</p>
+<p>Et pourtant des Latins la Muse modérée</p>
+<p>De plain-pied dans nos mœurs a tout d'abord l'entrée.</p>
+<p>Sans sortir de soi-même, on goûte ses accords ;</p>
+<p>Presque entière on l'applique en ses plus beaux trésors</p>
+<p>Elle garde aisément ses beautés réfléchies.</p>
+<p>Combien d'esprit bien nés, mais surchargés d'ailleurs</p>
+<p>De soins lourds, accablants, et trop inférieurs,</p>
+<p>Dans les rares moments de reprise facile,</p>
+<p>D'Horace sous leur main ou du tendre Virgile</p>
+<p>Lecteurs toujours épris, ne tiennent que par eux</p>
+<p>Au cercle délicat des mortels généreux !</p>
+<p><pb/></p>
+<p>La Muse des Latins, c'est de la Grèce encore ;</p>
+<p>Son miel est pris des fleurs que l'autre fit éclore.</p>
+<p>N'ayant pas eu du ciel, par des dons aussi beaux,</p>
+<p>Travailla le nectar dans sa fraude pieuse,</p>
+<p>Le scella dans l'amphore, et là, sans plus l'ouvrir,</p>
+<p>Jusque sous neuf consuls lui permit de mûrir.</p>
+<p>Le nectar, condensant ses vertus enfermées,</p>
+<p>A propos redoubla de douceurs consommées,</p>
+<p>Prit une saveur propre, un goût délicieux,</p>
+<p>Digne en tout du festin des pontifes des Dieux1.</p>
+<p>1 A M. Palin.</p>
+<p><pb/></p>
+<p>siècle, mais surtout cette image d'une douleur tant multipliée par le
+christianisme, celle d'une âme forcée par ses principes de condamner
+l'objet qu'elle admire et qu'elle aime. C'est toute une tragédie que
+l'histoire de Monsieur Jean ; c'est, en même temps, toute une histoire
+du monde moderne et de la France actuelle. Beaucoup de personnes
+peut-être n'ont vu dans ce morceau que des vers durement brisés ;
+pourquoi n'y pas voir surtout cette âme brisée par le combat, et dans le
+même homme le fils tendre demandant grâce au chrétien fervent pour un
+père illustre et infortuné ?</p>
+<p>La tendresse, la chair, en un sens se décide ;</p>
+<p>2 Monsieur Jean.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1 Madame de Pontivy. — Ce morceau de Sainte-Beuve, publié en 1837 dans
+la Revue des Deux-Mondes, se trouve aussi dans ses</p>
+<p>Critiques et Portraits littéraires, tome IV. (Editeurs.)</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>III</p>
+<p>PORT-ROYAL</p>
+<p>Tome 1 er. - 1840.</p>
+<p>PREMIER ARTICLE 1</p>
+<p>1 Semeur, 2 décembre 1840. - 2 Evangile selon saint Marc, IV, 27.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>chercher en pleine théologie ni en plein Port-Royal ; je me bornerai à
+ramasser, dans les recoins du sujet, des passages tels que ceux-ci :</p>
+<p>Les mondains sont de tout temps les mêmes sur certains chapitres : moins
+la vérité en soi, que la considération ; moins la vertu, que l'honneur 1.</p>
+<p>Bien des jours de la vie des saints, comme de celle des heureux, se
+ressemblent : ce sont des labeurs tout réels, arides, épineux, sans
+cesse recommençants sur cette terre, qui ont bien leur secrète joie, qui
+ont surtout leur lutte obscure. C'est par l'étude suivie, réfléchie et
+presque contrite, par une étude plutôt mêlée de prière, non point dans
+ce genre d'exposition sérieuse, mais extérieure et trop littéraire, où
+l'imagination et la curiosité ont tant de part, qu'il les faudrait
+aborder. 3</p>
+<p>1 Page 96. — 2 Page 88. — 3 Page 189.</p>
+<p><pb/></p>
+<p>1 Page 190. — z Page 460.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>comme sous l'action d'un greffe divine, ces forces que la grâce ne
+détruit pas, ces besoins qu'elle ne nie pas. Il est beau de montrer les
+vents d'orage devenant une haleine pacifique, et le divin, coulant dans
+la forme du caractère individuel, devenir humain sans en être moins
+divin. Il n'est pas moins intéressant de faire voir ce qu'ont pu
+devenir, en sortant du lit que le christianisme leur avait creusé,
+certaines tendances que la civilisation fortifie et que peut-être elle a
+créées. On croira aisément que des observations de ce genre ne manquent
+pas dans le livre de M. Sainte-Beuve ; nous n'en citerons qu'un exemple :</p>
+<p>1 Page 199.</p>
+<p><pb/></p>
+<p>C'est toujours du plus près possible qu'il faut regarder les hommes et
+les choses : rien n'existe définitivement qu'en soi. Ce qu'on voit de
+loin et en gros, en grand même si l'on veut, peut être bien saisi, mais
+peut l'être mal ; on n'est très sûr que de ce qu'on sait de très près 2.</p>
+<p>1 Page 158. — 2 Page 82.</p>
+<p><pb/></p>
+<p>On a fort approuvé les historiens qui donnent une</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1 Page 134. — 2 Page 420.</p>
+<p><pb/></p>
+<p>DEUXIÈME ARTICLE 1</p>
+<p>1 Semeur, 30 décembre 1840.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>M. Sainte-Beuve a d'autant mieux été le poète de</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Les Jésuites, quelque pureté d'intention qu'on</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>parlé. Ce trait méritait d'autant plus de n'être pas omis, qu'il se
+sépare de presque tous les autres par un caractère particulier, aucun
+autre dogme, si ce n'est celui de l'autorité, ne traçant entre le
+catholicisme et les communions protestantes une limite mieux tranchée :
+la doctrine du purgatoire peut seule.... » (P. S.)</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Lieux charmants, prisons volontaires,</p>
+<p>On me bannit en vain de vos sacrés déserts ;</p>
+<p>Le suprême Dieu que je sers</p>
+<p>Fait partout les vrais solitaires1 !</p>
+<p><pb/></p>
+<p>Point d'amour ! et partout le spectre de l'amour !</p>
+<p>Cloîtres silencieux, voûtes des monastères,</p>
+<p>C'est vous, sombres caveaux, vous qui savez aimer !</p>
+<p>1 Livre I, chapitres V et VI.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>au fond, l'homme sensible se cache et se retrouvera ; on l'attend, on
+l'épie, et lorsqu'une larme l'a trahi, on s'écrie avec une sorte de joie
+et de soulagement :</p>
+<p>De ses stoïques yeux j'ai vu des pleurs couler 1</p>
+<p><pb/></p>
+<p>trop savoir comment, et sans y avoir tâché, on connaît son homme.
+Saint-Cyran est répandu ainsi dans la moitié du livre de Port-Royal ;
+toutefois M. Sainte-</p>
+<p>Nous citerons les deux premières :</p>
+<p><pb/></p>
+<p>1 Pages 354-356. — 2 Geschichte von Port-Royal, von Dr. HER-</p>
+<p>MANN REUCHLIN. Erster Band. 1839.</p>
+<p><pb/></p>
+<p>Il faut finir, et il me semble que je n'ai rien dit.</p>
+<p>1 Pages 142-143.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>EDG-AR QUINET</p>
+<p>1</p>
+<p>AHASVÉRUS</p>
+<p>1 vol. 111-8°. — Paris 1834.</p>
+<p>PREMIER ARTICLE 1</p>
+<p>1 Semeur, 30 juillet 1834.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>de l'amante du poète, beauté telle que pas une ville, dans un jour de
+fête, n'est si remplie que l'escalier où elle monte chaque jour, enfin
+avec la création des mondes représentée (par un démon, il est vrai)
+comme un passe-temps de Jéhovah, qui fait des ronds en crachant dans le
+puits de l'abîme.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>dans la région extra-légale des pensées de l'auteur ; comme il y a des
+lois entre les hommes qui vivent hors de la société générale, il y a des
+lois pour l'imagination entraînée hors des limites du possible ; et
+souvent vous aurez lieu d'admirer la justesse dans l'audace et la vérité
+dans le délire.</p>
+<p><pb/></p>
+<p>haleine est une année ». Quand les sphinx de granit sont en scène, il
+leur faut « pour serrer leurs bandeaux autour de leurs fronts, toute une
+vie de patriarche ; pour se coucher sur leurs croupes de lionnes, toute
+une vie d'empire ». Une tirade absorbe des générations ; entre une
+question et la réplique, il y a place pour une dynastie. Le costume de
+ces personnages, leurs traits, leurs voix, leurs armes, résume, simultanise
+ une longue histoire, une période du genre humain. De l'exposition
+au dénoûment, un infini s'étend.</p>
+<p><pb/></p>
+<p>que le fleuve les redise en passant dans les villes ».</p>
+<p>Une fleur de Syrie a recueilli le message des astres.</p>
+<p>Ma tête, dit-elle, ploie sous la lumière des étoiles ; mon calice se
+gonfle de rosée, comme un cœur se remplit d'un secret qu'il voudrait
+répéter... Je porte un secret dans mon calice, j'ai le secret de
+l'univers, qui lui est échappé en songe pendant la nuit, et point de
+voix pour le redire. Ah 1 dites - moi où est la ville la plus proche.
+Est-ce Jérusalem ? ou est-ce Babylone ? Que les passants viennent
+cueillir le mystère qui charge ma couronne et fait baisser ma tête. 1</p>
+<p>Babylone se lève, aux premiers jours de l'univers pour puiser dans ses
+urnes la pensée de l'Eternel, avant que sa source ne tarisse. Goutte à
+goutte, elle tombe des étoiles et de la voûte du ciel, et de chaque
+feuille de palmier... Hâtons nous ; qui sait si le temps ne viendra pas
+où l'univers, après des siècles, sera comme une fleur toute fanée, ...et
+si les lèvres des hommes ne presseront pas en vain la coupe où nous
+buvons, et qui n'aura plus alors ni parfum, ni breuvage éternel ? 2</p>
+<p>6 Page 44. — 2 Page 47.</p>
+<p><pb/></p>
+<p>Viennent les rois d'Orient avec leurs présents, avec une couronne que
+Marie voit revêtue intérieurement d'épines sanglantes, que les rois
+mages prennent pour des clous d'or ; les bergers se croient écon-</p>
+<p>6 Page 79.</p>
+<p><pb/></p>
+<p>duits ; mais l'enfant Jésus refuse la couronne que lui présentent les
+mages ; il ne veut rien des royautés de la terre ; « il aime mieux que
+mille idoles d'ivoire avec ceux qui les ont faites la couleur de la
+rosée sous les pieds des bergers ; il aime mieux que le pays des rois,
+le pays où la chaumière soupire, où la grotte pleure, où la feuille
+sanglote ». Confus et désolés, les rois mages se retirent ; ils sentent
+toute la portée des dédains sublimes de l'enfant-Dieu. « Tout s'efface,
+disent-ils ; nos corps s'évanouissent; nos royautés, dans nos mains,
+deviennent de la cendre ; nos majestés s'évaporent comme un brin de
+fumée au feu d'un berger ». L'Orient est condamné; l'Orient s'endort
+dans la rêverie et dans la volupté. Assis au bord des fleuves, « il
+compte les vagues qui passent ; pas une ne lui rapportera les jours qui
+ont été ». — « Passant, » dit alors le sphinx, « passant qui chantez si
+bien, savez-vous donc s'il n'y a plus au Liban du bois de Judée, de quoi
+tailler une croix ? 1 » — L'Orient veut crucifier celui qu'il voulait
+couronner.</p>
+<p>Après un intermède, où trois démons se moquent entre eux de l'œuvre de
+l'Eternel depuis la création jusqu'au moment où l'action est parvenue,
+la seconde journée commence par les plaintes du Désert, qui gémit de ne
+pouvoir s'étendre jusque sur Jérusalem et la couvrir de son manteau de
+sables avant le moment où Jésus doit mourir. Puis le poète nous
+transporte dans Jérusalem, sur le chemin du Calvaire, au moment où la
+foule y conduit Jésus. Elle passe avec le divin condamné devant la
+maison d'Ahasvérus. La foule, personnage du drame, accable d'invective
+sa victime. « La voix de ce peuple, dit Ahasvé-</p>
+<p>1 Page 96.</p>
+<p><pb/></p>
+<p>1 Page 116. — 2 Page 121. — 3 Page 182.</p>
+<p><pb/></p>
+<p>1 Page 193. — 2 Page 214.</p>
+<p><pb/></p>
+<p>1Pages 254-6.</p>
+<p><pb/></p>
+<p>pèlerin. Ce qu'elle propose, elle le réfute ; ceet^alest</p>
+<p>1 Page 265.</p>
+<p>SAINTE-BEUVE</p>
+<p><pb/></p>
+<p>pas bon, mais le contraire ne vaut rien ; il faut choisir entre deux
+écueils, entre deux manières de périr ; la mort même ne tranche pas le
+nœud, la mort ne raccommode rien.</p>
+<p><pb/></p>
+<p>cloche qui hurle, ne savez-vous pas qu'il n'y a point de</p>
+<p>Christ ? l'entendez-vous ? il n'y a point de Jésus de Nazareth ; il n'y
+a point de Seigneur du jugement dernier. Plus de deuil, il n'est pas
+mort ; plus d'épouvante, il ne vit pas.</p>
+<p>Réjouissez-vous dans la pointe de l'épi, dans le rayon de l'étoile, dans
+la goutte de rosée, dans la cime de l'arbre, comme vous faisiez au
+premier jour du monde avant d'avoir appris son nom. — « Joseph ! lui dit
+Rachel, dis que le ciel est ici, je le croirai ; dis, si tu veux, que
+ces dalles froides sont les tapis de lumière du firmament, je le
+croirai; mais ne dis pas qu'il faut se réjouir. Oh ! ta joie me fait
+trop de mal ! » -1</p>
+<p>L'âme des hommes, dit-il, était morte dans leur sein ; et ils
+attendaient encore debout qu'une pensée, une espérance, quelque nom,
+quelque dieu oublié, vînt ranimer</p>
+<p>1 Pages 337-340. — 2 Pages 345. — 3 Page 369.</p>
+<p><pb/></p>
+<p>leur vie dans leur poitrine. Les enfants regardaient dans les yeux de
+leurs mères ; et les trouvant vides, sans larmes et sans pensée, ils
+criaient tout effrayés : Ma mère, laissez moi 1... 1</p>
+<p>Non seulement l'humanité, mais l'univers tout entier a cessé de croire ;
+l'univers aussi doit mourir ; « la création sans foi se détache brin à
+brin des mains du</p>
+<p>oui, prie encore. Ah ! si je pouvais croire!... Douleur sans nom,
+douleur sans voix, douleur sans forme, que l'infini exhale comme
+l'encensoir l'encens, qu'attends-tu aussi pour disparaître ? La dernière
+étoile a lui, les cieux s'éteignent ; éteins donc avec toi ce rayon dans
+mon coeur, et n'oublie pas ce soir de dissiper d'un souffle cette vapeur
+de ma pensée. 3</p>
+<p>1 Page 395. — 2 Page 388. — 3 Page 385. — 1 Page 398.</p>
+<p><pb/></p>
+<p>L'aigle a vu un corps humain qui, trois fois vainement, cherche à
+rajuster sur son tronc sa tête coupée ; c'est Louis XVI, ou plutôt la
+famille des Bourbons. Il a vu trois enfants « au sommet du monde » ; ce
+sont trois enfants qui, nés pour le trône, sont morts ou tombés devant
+sa première marche ; il voit, sous les saules de Sainte-Hélène, un
+empereur debout, dont le nom l'épouvante, mais qui le rassure en lui
+disant que les aigles le connaissent ; cet empereur demande des
+nouvelles de ses généraux, de son trône, de sa colonne, de sa gloire, et
+l'aigle, après lui avoir répondu « Votre gloire use ma paupière »,
+retourne vers celui qui l'a envoyé.</p>
+<p>— Il ne s'est pas perdu, dit l'oiseau, nous l'avons ramassé et emporté
+sur nos ailes dans les bois du ciel... — Donc, terre de France, dit
+alors Paris, levons-nous !... Allons voir si nous nous sommes trompés
+quand nous buvions notre sang comme l'eau, quand nous poussions la roue
+de notre chariot de guerre, et quand nous faisions depuis mille ans la
+sentinelle sur le bord de la haute tour que le genre humain s'était bâtie.1</p>
+<p>Un seul homme sur la terre ne s'est pas aperçu que le monde passe ;
+c'est Albert-le-Grand. Dans son laboratoire, il cherche le dernier mot
+de l'univers, avec une parfaite confiance de le trouver ; s'il le manque,</p>
+<p>1 Page 420.</p>
+<p><pb/></p>
+<p>1 Page 441. — 2 Page 443.</p>
+<p><pb/></p>
+<p>1 Page 445. — 2 Page 463. — 3 Page 496.</p>
+<p><pb/></p>
+<p>...ne peut plus s'asseoir. Il demande la vie et non pas le repos. Au
+lieu des degrés de sa maison du Calvaire, il voudrait monter jusqu'au
+Christ les degrés de l'Univers, blanchir ses souliers de la poussière
+des étoiles, monter toujours, de mondes en mondes, de cieux en cieux,
+sans jamais redescendre.2</p>
+<p>1 Page 509. — 2 Page 515. — 3 Pages 516-517.</p>
+<p><pb/></p>
+<p>Voyez ! deux âmes amoureuses qui ont longtemps pleuré, et dont un poète
+m'a parlé, vivent ici dans un même sein, dans un même cœur, et ne font
+plus qu'un ange... Dans une seule poitrine tressaillent deux bonheurs,
+deux souvenirs, deux mondes. Moitié homme, moitié femme, pour deux vies,
+ils n'ont qu'un souffle. Et quand ils effleurent mes cordes, ils n'ont
+tous deux qu'une bouche pour dire : Est-ce ta voix ? Est-ce la mienne ?
+Je n'en sais rien. 2 Ainsi, désormais, cieux et terre sont fiancés.
+C'est au bout de l'univers qu'ils se doivent marier. Ensemble ils seront
+un archange infini, qui sous son vol cachera toute vallée amère. La
+terre sera le corps plus vil, et plus pesant pour ramper. Les cieux
+seront les ailes azurées, déployées et plus sublimes pour planer...</p>
+<p>Chœur final.</p>
+<p>Tout finit par un accord. Le mystère est clos... Spectateurs, rentrez,
+sans bruit, comme auparavant, chacun dans votre peine commencée, où
+votre vie doit s'user... En rentrant chez vous, écoutez encore ce
+murmure de l'infini qui gronde après nous, — et ce soupir, — et ce
+silence a</p>
+<p>1 Page 521. — 2 Page 528. — 3 Page 528.</p>
+<p><pb/></p>
+<p>Sur le Golgotha du ciel, recommence ta passion. Dans le champ du potier
+où je fais sécher l'argile de mes vases, resème-toi une seconde fois
+dans le tombeau... Redescends dans la mort, comme un hôte dans son
+caveau, pour en rapporter la vie ; et va chercher encore un peu de ta
+poussière dans ton nouveau sépulcre, pour pétrir un nouveau monde, un
+nouveau ciel et un nouvel Adam. 1</p>
+<p>1 Page 540.</p>
+<p><pb/></p>
+<p>Au bas de la page, vous lisez ces mots en lettres gothiques :</p>
+<p>Icy finit le mystère d'Ahasvérus.</p>
+<p>Priez pour celui qui l'écrivit. 2</p>
+<p>DEUXIÈME ET DERNIER ARTICLE 3</p>
+<p>1 Page 542. — 2 page 544.</p>
+<p>3 Semeur, 6 août 1834. [Publié dans les Essais (1837) et réimprimé dans
+les Mélanges (1869) p. 187 et suiv.]</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Dieu, et ce n'est que pour lui ; si nous ne vivons pas pour lui, nous ne
+vivons pas. Le livre de M. Quinet est triste et n'est pas sérieux.</p>
+<p>Que le poète se rappelle ce qu'il a dit : « Après l'amour, après la foi,
+l'art est beau, l'art est saint. Ce n'est pas le ciel, mais ce n'est
+plus la terre. » Mais hors de la vérité, où est la sainteté de l'art ?</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ici s'arrête le raisonnement, mais seulement ici. Il est impossible, en
+partant des aveux de M. Qui- net, de ne pas arriver au point où nous
+nous arrêtons. Nous le défions d'éviter l'entraînement de son bon sens
+sur cette route où il a marqué un premier pas. Mais si le point où nous
+parvenons n'est pas le seuil de l'Evangile, ce point est le seuil du
+désespoir, et d'un bien autre désespoir que celui de son livre !</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Quand nous parlons de philosophie, nous avouons bien que Pierre, Jean et
+Paul ne fournissent aucun renseignement direct sur le sujet et l'objet,
+sur l'unité et la dualité, sur le Dieu-monde et le monde-Dieu ! mais il
+n'y a pas grande apparence que d'autres nous en procurent davantage ; et
+quand on réfléchit que, de l'aveu même de ces derniers 1, la conscience
+du bien et du mal est la seule chose certaine, la seule</p>
+<p>1 Fichte reconstruit la réalité des existences, la foi au monde
+extérieur, sur la base de la loi morale.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Notre admiration pour le style d'Ahasvérus n'est pas sans mélange.
+L'auteur a trop fait passer de son sujet dans son langage le gigantesque
+et l'énorme. Le procédé connu de faire ressortir la grandeur de l'objet
+par une brusque opposition d'expressions familières revient chez lui
+avec une intention si marquée et si fréquemment, qu'on dirait parfois
+une gaieté moqueuse. Une poussière d'empires, un boisseau d'étoiles, des
+montagnes entassées dont l'Eternel se fait un banc pour s'asseoir,
+toutes ces images sont multipliées avec un peu d'indiscrétion. On peut
+humilier par de semblables contrastes l'orgueilleuse petitesse de
+l'homme ; mais il ne faut pas confondre le colossal avec le grand.
+L'imagination se fatigue d'autant plus vite de ces contrastes qu'ils
+l'ont d'abord plus vivement frappée.</p>
+<p>POST-SCRIPTUM</p>
+<p><pb/></p>
+<p>La réclamation de M. Quinet est une réclamation d'artiste. Elle ne lève
+aucunement le scandale de son livre, je veux dire le scandale qu'il
+excite en nous autres, nourris dans les traditions chrétiennes et dans
+la foi des aïeux. Les explications de l'auteur ne nous empêchent pa^ de
+sentir dans tout son ouvrage une affreuse saveur d'athéisme. Qu'est-ce que</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Pour finir, le livre de M. Quinet, comme expression de désespoir,
+m'avait paru bien triste ; comme expression d'orgueil, il me paraît bien
+plus triste encore.</p>
+<p><pb/></p>
+<p>On a pu voir, au commencement de notre premier article, que notre
+admiration pour le style d'Ahasvérus n'est pourtant pas sans mélange....</p>
+<p><pb/></p>
+<p>II</p>
+<p>PROMÉTHÉE</p>
+<p>Un volume in-8°. — 1838.</p>
+<p>PREMIER ARTICLE 1.</p>
+<p>De la substance propre du christianisme.</p>
+<p>1 Semeur, 1er août 1838.</p>
+<p><pb/></p>
+<p>riture et l'éducation. L'antiquité grecque, celle du moyen âge, avaient
+besoin d'un nom propre pour une pensée qui les obsédait ; quand on est
+impatient de trouver, et que tout peut servir, on ne cherche pas
+longtemps ; la tradition livre des noms, je dirais presque les premiers
+venus, c'est Prométhée, c'est Faust ; la forme première est trouvée ; le
+poème s'ébauche sous le ciseau grossier du peuple ; et alors seulement
+viennent les poètef, Eschyle, Gœthe, entre les mains de qui l'intention
+primitive se précise ou se modifie.</p>
+<p><pb/></p>
+<p>Ne pouvant se dissimuler que l'homme est entouré</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>J'avoue que cette explication ne m'explique pour-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1 III" Partie, II.</p>
+<p><pb/></p>
+<p>Le chant du désespoir en un hymne de grâce 1 ;</p>
+<p>1 IIIe Partie, VI.</p>
+<p><pb/></p>
+<p>ces choses 1. » Nous ferons entrevoir au moins le caractère et les
+tendances de cet esprit vraiment élevé, en transcrivant pour nos
+lecteurs les lignes qui terminent cette même préface :</p>
+<p>1 Page XLV.</p>
+<p><pb/></p>
+<p>DEUXIÈME ARTICLE 2.</p>
+<p>La religion de la grâce.</p>
+<p>1 Pages LI-LIV. — - Semeur, 8 août 1838.</p>
+<p><pb/></p>
+<p>C'est qu'il n'y a pas de milieu ; c'est qu'un dogme aussi capital ne
+peut être d'une nature indifférente et ne constituer qu'une erreur
+oisive ; c'est que, s'il est une erreur, c'est une erreur monstrueuse et
+mortelle et, en revanche, que s'il est vérité, c'est la vérité par
+excellence, la vérité des vérités. Il a donc semé dans le monde, il y
+sème encore ou la vie ou la mort, rien de moins ; et, par une
+conséquence nécessaire, il faut ou adopter cette vérité sans réserve, ou
+la rejeter absolument ; et, comme elle n'est pas dans le christianisme,
+mais qu'elle est le christianisme tout entier, c'est le christianisme
+qu'il faut, d'une manière absolue, épouser ou proscrire.</p>
+<p>Tout doit dépendre en morale, et, par conséquent, tout doit de proche en
+proche dépendre aussi en civilisation de la réponse qu'obtiendra cette
+question : L'homme, en tant qu'être moral et responsable, a-t-il besoin
+d'une rédemption, d'une rançon ? et cette ran-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Pour la traiter complètement, il faudrait, ayant déterminé la notion
+chrétienne de la rédemption, la placer en face de son contraire ou de sa
+négation ; bien entendu que, sous sa négation ou son contraire, nous
+comprenons tous les systèmes qui affectent aussi le nom de rédemption,
+sans y attacher la même idée que le christianisme. Essayons de donner
+quelque idée d'un travail que nous ne pouvons pas exécuter.</p>
+<p>La première condition d'un bon règlement de la vie humaine (et sous ce
+mot nous comprenons la vie intérieure et extérieure, réfléchie et
+relative, privée et publique, individuelle et collective), c'est de
+prendre pour point de départ une idée vraie de notre nature actuelle,
+une juste appréciation de notre situation morale. Il n'y a que la vérité
+qui soit féconde ; il n'y a, si nous osons nous exprimer ainsi, que la
+vérité qui soit vraie, c'est-à-dire qui produise des effets vrais. Tout
+système qui repose sur une fiction, sur un fait sans réalité, ne peut
+conduire que dans un défilé sans issue, et, dans sa tortueuse route,
+toucher le vrai che-</p>
+<p><pb/></p>
+<p>1 Evangile selon saint Jean, III, 3.</p>
+<p><pb/></p>
+<p>et ce que le cœur de l'homme lui offre, entre ce que Dieu veut et ce que
+veut l'homme. C'est de cette idée, ou plutôt de ce fait, que la morale
+doit partir, sous peine, comme j'ai dit, d'être fausse.</p>
+<p><pb/></p>
+<p>1 Première épitre de saint Jean, IV, 16.</p>
+<p><pb/></p>
+<p>qui, avec la justice, porte la santé dans ses rayons ; saint autel, où
+la loi se satisfait, s'assouvit pour ainsi dire dans les souffrances du
+Juste, et se tait enfin devant ce sang qui prend une voix, et crie de
+meilleures choses que celui d'Abel.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1 Première épître de saint Jean, III, 20.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>force il inculque l'autre principe, qui croirait qu'il restera de
+l'espace au premier ? Puis, quand on étudie le christianisme dans la vie
+du chrétien, on découvre avec admiration que chacun de ces principes
+rivaux paraît occuper toute l'âme.</p>
+<p><pb/></p>
+<p>Mais d'où part cette restauration superficielle et pourtant précieuse de
+la société humaine, si elle ne part point des individus ? et ne faut-il
+pas que ceux- ci d'abord, et quelques-uns plus que les autres, aient été
+atteints par la doctrine de la rédemption et modifiés par elle ? La
+société elle-même serait-elle peut-être un individu distinct,
+susceptible d'être persuadé, et pourvu de la faculté de croire, d'aimer
+et d'obéir ? Tout cela doit passer par des âmes individuelles. On en
+conviendra sans peine ; mais alors il faudra convenir aussi que ces âmes
+individuelles, par qui doit commencer l'effet désiré, ne peuvent être
+efficacement touchées par une idée de rédemption qui ne serait pas celle
+de l'Evangile. On essaye néanmoins de leur en présenter d'autres. Et
+ici, comment ne pas admirer cette espèce de courant qui fait dériver
+incessamment vers la vérité ceux que leurs opinions en éloignent le plus
+! Pas une reli-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>TROISIÈME ARTICLE 1</p>
+<p>La fable el le poème de Prométhée.</p>
+<p>1 Semeur, 15 août 1838.</p>
+<p><pb/></p>
+<p>matières est un privilège et une grâce. Cette inintelligence de
+l'Evangile, ayant été prophétisée, se tourne en preuve de l'Evangile ;
+le scandale prédit cesse d'être un scandale.</p>
+<p>Or, si M. Quinet avait rencontré le vrai sens de l'Evangile, et tout
+d'un temps j'ajoute, s'il l'avait accepté, aurions-nous eu Prométhée tel
+que nous l'avons ? non, certes ; mais aurions-nous eu Promé- tbée
+chrétien ?</p>
+<p>Quel est le rapport de l'art et de la religion ? Ne sont- ils, au fond,
+qu'une seule et même chose ? Concourent- ils au même objet ? Ou, s'il en
+est autrement, en quoi diffèrent-ils ? Jusqu'où peut s'étendre sans
+impiété le mélange du profane et du sacré ?</p>
+<p><pb/></p>
+<p>tème religieux de la Grèce primitive. Combien d'hérésies ne
+découvrirait-on pas chez les tragiques, par qui surtout s'est opérée la
+transformation du génie antique 1 Où est le symbole qu'ils n'aient
+changé ? Où est la tradition qu'ils aient respectée 1 ?</p>
+<p>1 Pages XXXIV-XXXVI.</p>
+<p><pb/></p>
+<p>1 Pages XXXIX-XLI.</p>
+<p>2 Epître de saint Jacques, 1, 17.</p>
+<p><pb/></p>
+<p>1 Article du Semeur, du 17 janvier 1838, sur les Poésies chrétiennes de
+F. Chavannes. Cet article a été réimprimé en 1851, dans les</p>
+<p>Etudes sur la Littérature française au XIXe siècle, t. III, p. 241; nous
+l'insérerons dans un autre volume.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ne sera-t-il pas permis de la comparer au sol où l'agriculteur a déposé
+la semence d'une plante ? La semence paraît s'y décomposer. Nulle
+puissance pourtant, ni dans le sol ni ailleurs, n'atteint ni ne divise
+la substance intime de la plante, le germe du germe ; de même que ce sol
+encore, en décomposant l'enveloppe d'un germe plus excellent, la chair
+de l'homme trépassé, laisse intact le germe impérissable de cet
+organisme, le vrai corps du corps et la vraie substance de l'homme. Mais
+autour de cet immortel atome s'accomplit pour la plante, on peut le
+dire, une suite indéfinie de résurrections. C'est comme une poésie, une
+création incessamment renouvelée et toujours diverse, le développement
+varié d'un immuable principe, l'efflorescence inépuisable d'une fibre
+qui ne se décompose point et même ne se voit point.</p>
+<p><pb/></p>
+<p>l'a trouvée, tout ce qu'il a pu et voulu faire, c'est de la rendre
+chrétienne : mais de la poésie chrétienne est encore de la poésie.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Qu'est-ce que ce Dieu iniermédiaire qui n'est pas médiateur, puisque
+Prométhée a fait les frais de la médiation ? Où donc est ici le
+hors-d'œuvre et le double emploi ? Est-ce Prométhée ? est-ce
+Jésus-Christ ? ou si Jésus-Christ est purement Dieu, et non Dieu- homme,
+quelle attribution, quelle part, dans toute l'œuvre, réserve-t-on au
+Père éternel ?</p>
+<p><pb/></p>
+<p>Prométhée, où le trouver, si le plus antique document qui nous en garde
+le dépôt n'est lui-même qu'un commentaire sur d'autres commentaires
+d'une tradition dont on ne peut assigner la date ?</p>
+<p><pb/></p>
+<p>1 Darkness visible. (MILTON, Paradis Perdu. Chant 1, vers 63.)</p>
+<p>— Ed.</p>
+<p><pb/></p>
+<p>que les premiers progrès, ont eu lieu dans la famille de Caïn !</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Du milieu des cités le concert qui s'élance</p>
+<p>Des premiers jours du monde a rompu le silence ;</p>
+<p>Les rois instruisent le néant 1".</p>
+<p>Et la cité qui vient d'éclore,</p>
+<p>Des vagissements de l'aurore</p>
+<p>Remplit l'antre des léopards 2".</p>
+<p>Mais ce Caucase (le Calvaire), où peut-il être ?</p>
+<p>Où donc vois-tu, dans ce vallon,</p>
+<p>L'absinthe sécher et renaître</p>
+<p>Sous le prophétique aquilon 3 ?</p>
+<p>1 Ire Partie, IV. — 2 Ibid. — a IIe Partie, V.</p>
+<p><pb/></p>
+<p>Et l'on aimera mieux, je pense, trouver un non- sens qu'un sens dans ces
+vers du chœur des Sibylles :</p>
+<p>Le dieu ! le dieu nouveau qui gonfle ma poitrine.</p>
+<p>(Notez bien qu'il s'agit du Christ.)</p>
+<p>Dans mes yeux il étincelle.</p>
+<p>C'est lui qui court dans ma veine</p>
+<p>Je le sens dans toutes choses,</p>
+<p>Dans le calice des roses,</p>
+<p>Dans les pleurs des nations</p>
+<p>Dans le cirque des lions,</p>
+<p>Quand le thyrse se balance,</p>
+<p>Quand la bacchante s'élance</p>
+<p>Vers la couche des plaisirs ;</p>
+<p>Dans la lyre qui le brave 1...</p>
+<p>1 IIe Partie, VIII. — 2 [Ne faut-il pas lire : «une autre sortes ?]</p>
+<p><pb/></p>
+<p>Je suis un peu confus d'être arrivé au terme de cette longue analyse
+sans avoir presque parlé du plan et de la marche de l'ouvrage. Il est
+trop tard pour réparer cette faute. On a compris d'ailleurs que cet
+ouvrage est la trilogie qu'Eschyle avait tout entière embrassée, mais
+dont nous n'avons, de la main de ce poète, que la partie moyenne, le
+Prométhée enchaîné. Le premier acte de M. Quinet nous montre les
+premiers humains sortant des mains de Prométhée, le feu ravi par ce
+prophète aux entrailles des volcans, la civilisation prophétisée,
+l'humanité, sous le nom d'Hésione, bégayant ses premières paroles et se
+saisissant de la vie avec transport. La vengeance des dieux s'accomplit,
+au second acte,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>IV</p>
+<p>FRAGMENT DU POÈME DE</p>
+<p>PROMÉTHÉE</p>
+<p>PAR M. EDGAR QUINET 1</p>
+<p>CHŒUR DE SÉRAPHINS</p>
+<p>Comme on lave l'autel après le sacrifice,</p>
+<p>Ainsi de chants de paix abreuvons les esprits ; Du milieu des déserts
+que la source jaillisse</p>
+<p>Des cantiques taris.</p>
+<p>Qui pensait que jamais l'archange du Caucase, Des liens de la mort pût
+rejeter le faix,</p>
+<p>Et qu'en son cœur aride et fendu comme un vase,</p>
+<p>Dieu répandît la paix ?</p>
+<p>0 terre ! oublîras-tu qu'en tes vallons funèbres, L'esprit s'est
+affranchi des ongles du vautour, Qu'au doute dévorant, compagnon des
+ténèbres,</p>
+<p>A succédé l'amour ?</p>
+<p>Liée au désespoir, l'âme, aveugle captive,</p>
+<p>En un monde désert, de poisons s'enivrait ; Parmi de noirs serpents, sur
+sa couche plaintive,</p>
+<p>L'ennui la dévorait.</p>
+<p>Comme un rameau des bois que l'hiver a flétri, D'un flot pur abreuvée,
+elle reprend sa sève ;</p>
+<p>Et son mal est guéri.</p>
+<p>De la prison des sens, par une route sainte,</p>
+<p>Un penser la ravit vers des cieux inconnus.</p>
+<p>Des fers qu'elle a portés elle cherche l'empreinte,</p>
+<p>Et ne la trouve plus.</p>
+<p>1 Semeur, 22 août 1838.</p>
+<p><pb/></p>
+<p>De son flanc s'il repaît les oiseaux de la nuit,</p>
+<p>A la fin, dans son cœur luit l'éternelle aurore</p>
+<p>Que la colombe suit.</p>
+<p>UN SÉRAPHIN.</p>
+<p>Sur un Caucase ardent les nations gémissent ; J'ai vu des peuples rois
+qu'on liait au rocher. Quand sera le vautour, sous qui les cœurs périssent,</p>
+<p>Immolé par l'archer ?</p>
+<p>LE CHŒUR.</p>
+<p>Tout vautour en son nid se dévorant lui-même, L'injustice avec lui voit
+son règne finir.</p>
+<p>Des serres du passé toujours l'archer suprême</p>
+<p>Délivre l'avenir.</p>
+<p>HÉSIONE.</p>
+<p>(Elle sort de sa tombe.)</p>
+<p>Qui l'eût dit ? les morts ressuscitent. Voici qu'au fond du noir tombeau,</p>
+<p>Les ténèbres se précipitent;</p>
+<p>Et le sépulcre est un berceau.</p>
+<p>Dans les flancs de l'urne agitée,</p>
+<p>Voyez ! le nouveau Prométhée</p>
+<p>Des morts recueille les débris.</p>
+<p>Il répare l'homme fragile ;</p>
+<p>Et d'une impérissable argile</p>
+<p>Il environne les esprits.</p>
+<p>Le divin potier, d'une eau sainte,</p>
+<p>Epure l'âme neuve encor.</p>
+<p>Au vase il donne son empreinte,</p>
+<p>Et le noir limon devient or.</p>
+<p>Vase de joie et d'abondance,</p>
+<p>Dans sa main comme par une anse,</p>
+<p>Il tient mon cœur par l'espérance.</p>
+<p>Quelle main pourrait me briser ?</p>
+<p>Dans l'abîme où tout va descendre,</p>
+<p><pb/></p>
+<p>Je puise en Dieu pour le répandre ;</p>
+<p>Il a retrouvé sous ma cendre</p>
+<p>L'amour que rien ne peut user.</p>
+<p>Me prêtant une aile de flamme,</p>
+<p>La mort, invisible sculpteur,</p>
+<p>Enfin retranche de mon âme</p>
+<p>Le souvenir de la douleur ;</p>
+<p>Et comme autour d'une statue</p>
+<p>D'or et de bronze revêtue,</p>
+<p>L'éclat de la pierre abattue</p>
+<p>Jaillit sous les coups du ciseau ;</p>
+<p>Ainsi les pensers de la terre,</p>
+<p>Voiles des sens, pesant mystère,</p>
+<p>Loin de moi volent en poussière</p>
+<p>Sous l'heureux souffle du tombeau.</p>
+<p>LE CHŒUR.</p>
+<p>0 cieux ! redirez-vous encore</p>
+<p>Que le flambeau des morts pâlit,</p>
+<p>Que l'aube aussi se décolore,</p>
+<p>Que dieu même s'ensevelit ?</p>
+<p>De lui-même il renaît. Eau vive, intarissable, Vit-on jamais les jours
+répandus sous le sable,</p>
+<p>Se perdre dans la mort ?</p>
+<p>Dieu jaillira d'abord.</p>
+<p>Loin de son temple et de Sion,</p>
+<p>Au fond d'un siècle sacrilège,</p>
+<p>Il se cache comme un lion.</p>
+<p>Rien ne trahit le dieu retiré chez l'impie ;</p>
+<p>Les peuples des déserts.</p>
+<p>Mais soudain il rugit ; le monde fait silence ; Le cri du dieu redouble
+; et d'un bond il s'élance</p>
+<p>Sur le pâle univers.</p>
+<p><pb/></p>
+<p>UN SÉRAPHIN.</p>
+<p>Tel aussi l'aigle dans la nue</p>
+<p>Remonte au séjour des esprits,</p>
+<p>Et cache son aile étendue</p>
+<p>Au sein des foudres assoupis.</p>
+<p>Cependant, au vallon, dans leurs fangeux repaires</p>
+<p>Les petits des vipères</p>
+<p>Redisent : il est mort.</p>
+<p>Mais soudain s'élançant au séjour du tonnerre,</p>
+<p>Il étreint de sa serre</p>
+<p>Le serpent dans son fort.</p>
+<p>LE CHŒUR.</p>
+<p>Sors du nuage, aigle ou colombe !</p>
+<p>Lion, sors de l'obscurité !</p>
+<p>Espérance, sors de la tombe !</p>
+<p>Grand dieu, sors de l'impiété !</p>
+<p>Assez tu t'es caché sous des images vaines ;</p>
+<p>La nuit se prolongeant, assez de lourdes chaînes</p>
+<p>Ont pesé sur les cœurs.</p>
+<p>Enfin ton front ridé se couronne de joie.</p>
+<p>Dans l'antre du tombeau, tu délivres ta proie</p>
+<p>Des terrestres langueurs.</p>
+<p>Ainsi l'homme vient les mains vides,</p>
+<p>Et de dieu retourne comblé.</p>
+<p>Trop longtemps sous des cieux arides Ses pleurs dans l'enfer ont coulé.</p>
+<p>Vers l'abîme il penchait, résolu de maudire ;</p>
+<p>Chantait l'hymne de mort.</p>
+<p>Mais un doigt le frappant sous sa fausse cuirasse, Le chant du désespoir
+en un hymne de grâce</p>
+<p>S'est converti d'abord.</p>
+<p><pb/></p>
+<p>MICHELET</p>
+<p>HISTOIRE DE FRANCE</p>
+<p>Tome I et II. — 1833.</p>
+<p>PREMIER ARTICLE 1</p>
+<p>l Semeur, 4 juin 1834.</p>
+<p><pb/></p>
+<p>dait en ressemblance avec les époques plus modernes ; avec les traits
+extérieurs de chaque époque a reparu sa physionomie, sa pensée ; et dès
+lors seulement la philosophie de l'histoire a retrouvé un terrain
+solide, où ses pas ont pu s'imprimer sans crainte.</p>
+<p>Toutefois, le génie français, naturellement impatient, et toujours
+pressé de conclure, se lasse quelquefois de l'investigation, et se
+permet sur le chemin de l'abstraction des incursions prématurées. Les
+rênes du raisonnement tombent parfois encore des mains fatiguées de la
+critique, et de temps en temps on peut craindre que le génie historique,
+nouvel An- thée, ne se laisse soulever du terrain des faits qu'il a sans
+cesse besoin de toucher, et ne perde l'haleine et la vie dans les
+redoutables étreintes de l'Hercule de la spéculation. Et ce qu'il y a de
+fâcheux dans la tendance actuelle de la spéculation, c'est qu'elle
+connive, sans en avoir peut-être le dessein ni la conscience, aux
+progrès funestes de l'indifférentisme moral. Sous les auspices de
+l'histoire, le fatalisme des idées devient de proche en proche la
+doctrine de tous les esprits.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>L'ouvrage entier est pénétré de la même sève morale que ce beau passage.
+C'est un des principaux charmes de cette lecture. Vous ne vous sentez
+point accablé par la supériorité intellectuelle de l'auteur, parce que
+sa candeur, sa confiance en vous, l'aban-</p>
+<p>1 Tome II, page 622.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>gence et de l'âme, si vous ne l'avez illuminée par des détails
+sensibles. Je ne me flatte de connaître un peu l'histoire de la
+révolution française que depuis que je l'ai lue dans le Moniteur et dans
+le journal de Prudhomme. Toute expression qui résume un fait le décolore
+et le dessavoure ; d'ailleurs aucune expression de ce genre ne peut
+recouvrir exactement toutes les parties du fait ou de l'individualité
+qu'elle prétend nommer. Tout fait, toute individualité a sa mesure, sa
+forme propre, que rien ne nomme. Dites qu'un homme était violent,
+chargez cet adjectif de surépithètes, extensives, restrictives,
+n'importe ; vous n'aurez encore désigné qu'une espèce ; redoublez, vous
+n'indiquerez qu'une espèce encore ; l'individualité n'est pas atteinte.
+Mais décrivez ce fait, ou faites agir ce personnage, alors nous le
+connaîtrons. Aidé d'un adjectif abstrait, personne, je parle même des
+grands esprits, ne recomposera un caractère, et ne s'en procurera
+l'apparition, l'expérience.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>DEUXIÈME ARTICLE1</p>
+<p>1 Semeur, 11 juin 1834.</p>
+<p><pb/></p>
+<p>telle était la nature de cette substance neutre en apparence, que
+lorsqu'elle cessait de l'être, c'était pour exalter et renforcer les
+mêmes éléments qui venaient de la féconder. Réunis, assimilés aux
+Romains, les Gaulois deviennent les premiers parmi les Romains. Leurs
+grandes aptitudes se révèlent, et parmi les dernières gloires de
+l'Empire défaillant, plusieurs sont des gloires gauloises. Peu s'en faut
+qu'au troisième siècle la Gaule ne devienne 'Empire.</p>
+<p><pb/></p>
+<p>1 Tome I, page 103.</p>
+<p><pb/></p>
+<p>Ce germe précieux et délicat, sans cesse menacé par les intempéries du
+moyen âge, fut réchauffé dans le sein maternel de l'Eglise. Elle fut
+l'asile de tous ces droits nouveau-nés que nous voyons aujourd'hui
+adultes et forts. Chose bizarre pour nos oreilles modernes ! La
+civilisation éclôt dans les monastères.</p>
+<p>L'ordre de saint Benoît donne au monde ancien, usé par l'esclavage, le
+premier exemple du travail accompli par des mains libres. Pour la
+première fois, le citoyen humilié par la ruine de la cité, abaisse les
+regards sur cette terre qu'il avait méprisée. Il se souvient du hr¡vail
+ordonné au commencement du monde dans 'arrêt porté sur Adam. Cette
+grande innovation du travail libre et volontaire sera la base de
+l'existence moderne 1.</p>
+<p>En même temps l'idée de liberté apparaît dans la théologie. Une voix
+celtique, celle du breton Pélage, proclame dans le domaine de la
+religion cet indivi-</p>
+<p>1 Tome I, page 111. — 1 Tome I, page 112.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ou leur résistant avec opiniâtreté, demeure en témoignage vivant des
+jours anciens qu'il perpétue encore. D'une part, son génie matérialiste,
+le principe d'égalité qu'il a posé prématurément, ont été les causes de
+sa ruine. Ici, il périt lentement comme un arbre qui se décompose sur
+place et couvre ses racines de ses propres débris ; c'est le pays de
+Galles, la Cornouaille, la Haute-Ecosse. Là, ce même élément, doué d'une
+fécondité funeste, foisonne, couvre la terre comme de l'herbe, et
+s'embarrasse dans sa force ; c'est « la pauvre vieille aînée de la race
+celtique, » c'est l'Irlande !</p>
+<p>Les temps sont accomplis pour le monde germanique. Bien différent du
+monde gaulois, l'imper- sonnalité, le respect de l'idée, par conséquent
+une haute sociabilité, est le trait dominant de son caractère. Les Goths
+et les Burgundes, premiers enva-</p>
+<p><pb/></p>
+<p>1 Tome I, page 191.</p>
+<p><pb/></p>
+<p>la Gaule une seconde fois. Etrange spectacle ! dans cette enchère de la
+Gaule et de son avenir, c'est aux moins offrant, c'est aux plus barbares
+que sont adjugés la Gaule et son avenir.</p>
+<p>Ainsi l'Eglise payait bien cher les services qu'elle rendait. Elle
+perdait en pureté ce qu'elle gagnait en influence. Corrompue par sa
+puissance même, une réforme était devenue nécessaire. Cette réforme vint
+de l'Eglise d'Irlande, alors célèbre, et eut pour agent principal saint
+Colomban ; mais cette réforme,</p>
+<p>1 Tome I, page 201.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>nationaux, et l'on peut bien dire, sous ce rapport, que le vœu populaire
+les substitua aux descendants de Mérovée.</p>
+<p>1 Table du tome I. — Voir aussi pages 308-311.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1 Tome I, page 352. — 2 Tome I, page 365.</p>
+<p><pb/></p>
+<p>peuvent encore mettre quelque ordre dans le désordre absolu où se trouve
+le pays 1. »</p>
+<p>1 Tome I, page 383.</p>
+<p><pb/></p>
+<p>Cette race va-t-elle, du premier coup, restaurer la royauté ? Nullement
+: car encore une fois, il n'y a pas eu de révolution ; le pouvoir, en
+tombant des mains d'une famille, a été ramassé tel qu'il était,
+c'est-à-dire chétif, par la famille qui se trouvait le plus près de lui.</p>
+<p>Pendant longtemps, dit l'auteur, le roi n'aura guère plus d'importance
+qu'un duc ou un comte ordinaire...</p>
+<p>Dans l'abaissement où l'avaient réduite les derniers Carlovingiens, la
+royauté n'était plus qu'un nom, un souvenir bien près d'être éteint ;
+transférée aux Capet, c'est une</p>
+<p>1 Tome I, page 413.</p>
+<p>2 AUG. THIERRY, Lettres sur l'Histoire de France. Lettre XII.</p>
+<p><pb/></p>
+<p>l Tome I, page 430. — 3 Tome I, page 434.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>HISTOIRE DE FRANCE,</p>
+<p>Tome III — 1838.</p>
+<p>1 Semeur, 25 juillet 1838. ....</p>
+<p><pb/></p>
+<p>doute la vieille Europe, les Normands du douzième siècle, le moyen âge
+tout entier ; mais vous connaîtrez mieux encore le dix-neuvième siècle.</p>
+<p><pb/></p>
+<p>ne retrouve que chez peu d'autres ; ses allures ont une franchise rare ;
+on sent une âme qui a sauvé sa jeunesse de ces influences perfides qui
+font, dans le monde littéraire de nos jours, tant de vieillesses
+prématurées.</p>
+<p><pb/></p>
+<p>et indépendante ; si, enfin, quelque chose de stoïque et de tendre
+annonçait ce tempérament qui fait de l'homme un homme entier, et de
+l'historien un historien complet.</p>
+<p><pb/></p>
+<p>Jupiter 1.</p>
+<p>1 Tome III, page 113. — 2 Tome III, page 108.</p>
+<p><pb/></p>
+<p>Peut-être ne faut-il pas demander s'il est permis d'écrire l'histoire
+ainsi, mais s'il est permis de la penser d'une manière qui rende
+nécessaire un style pareil. Car c'est le mérite du style de M. Michelet,
+le mérite de ses défau+s mêmes, de ne pouvoir être séparé de l'âme et de
+l'esprit de l'écrivain. C'est ce qui rend, chez lui, supportable et même
+intéressante telle chose qui, chez d'autres, ne tenant pas de si près au
+cœur de l'historien, nous donnerait plus d'impatience que de plaisir.
+Est-ce donc ainsi qu'il faut penser l'histoire ? Est-ce ainsi qu'on la
+concevra, qu'on l'écrira un jour ? Je l'ignore : et qui peut prévoir
+toutes les formes que l'âme pourra lui donner ? et qui pourrait
+condamner absolument telle ou telle de ces formes, quand elle a été un
+sentiment de l'homme, sa vie, avant d'être son œuvre ?</p>
+<p>Il y a un rapport étroit entre la rectitude du sens moral et la droiture
+de l'esprit. La première semble parfois donner la seconde ; le bon cœur
+donne du</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>de tout et de tous ; mais s'y fier, sans y vouloir concourir
+personnellement, c'est remettre, peu virilement, les intérêts de la
+vérité entre les mains du temps ; et si vous regardez de près, vous
+verrez que nos expressions sont encore trop flatteuses, et que cette
+démission de la pensée et de la conscience au profit d'un je ne sais
+quoi qu'on nomme le temps, implique une profonde indifférence pour la
+vérité, si ce n'est la négation de la vérité même.</p>
+<p><pb/></p>
+<p>Il y avait danger pour les premiers qui paraîtraient devant le roi. Mais
+ces populations des côtes, qui, tous les jours, bravent la colère de
+l'Océan, n'ont pas peur de celle d'un homme. Il se trouva sur-le-champ,
+dans cette petite ville dépeuplée par la famine, six hommes de bonne
+volonté, pour sauver les autres. Il s'en présente tous les jours autant
+et davantage dans les mauvais temps, pour sauver un vaisseau en danger.
+Cette grande action, j'en suis sûr, se fit tout simplement, et non
+piteusement, comme l'imagine le chapelain Froissart 2.</p>
+<p>Qui se plaindrait de voir arracher la décoration d'une salle de
+spectacle, si, ouvrant au regard une échappée vers l'horizon, elle lui
+dévoilait soudain un paysage réel, avec toutes les sublimités ou les
+grâces dont la nature ect susceptible ? Je ne me plains pas davantage
+d'une supposition qui fait éva-</p>
+<p>l Tome III, page 417. — 2 Tome III, page 335.</p>
+<p><pb/></p>
+<p>nouir le pileux, quoique délicieux récit de Froissart. M. de
+Chateaubriand, qui en a fondu les couleurs dans celle? de son magique
+pinceau, jette dans son récit ces deux phrases près desquelles
+paraissent d'un ton bien austère et bien dur celles de M. Mi- chelet :</p>
+<p>Les noms de Jean d'Aire, de Pierre et de Jacques de</p>
+<p>Wissant sont presque ignorés, et tout le monde sait celui d'Eustache de
+Saint-Pierre. Et c'est pour cela que, parmi les six victimes, les deux
+seules qui n'ont pas de désignation dans nos chroniques doivent être
+réputées les plus illustres ; tout Français doit leur tenir compte de
+l'oubli de l'histoire ; tout Français doit rendre un tribut d'hommages à
+ces immortels sans noms, comme les anciens élevaient des autels aux
+dieux inconnus 1.</p>
+<p>Cela est fort beau ; mais entre les deux citations, je pense qu'on peut
+hésiter.</p>
+<p>1 CHATEAUBRIAND. (EUlu'cs complètes. Tome V ter, page 108.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>premières causes de ce que l'ancienne histoire avait coutume d'appeler
+causes ! « Ce qui me dégoûte de l'histoire, disait Madame de Deffand, c
+est de penser que tout ce que nous voyons sera de l'histoire un jour. »
+Je crois bien qu'elle avait ses raisons d'être dégoûtée ; mais elle
+disait vrai : Tout ce que nous voyons, c'est-à-dire tous les traits
+essentiels d'une époque, tout ce qu'elle fait et tout ce qu'elle pense,
+sera de l'histoire, du moins pour qui saura tout comprendre et tout
+ressentir. Il faut, pour lui imprimer ce caractère, non seulement un
+savoir encyclopédique, les facultés réunies de l'homme d'affaires et du
+contemplatif, mais encore, si l'on peut s'exprimer ainsi, une âme très
+diverse, sympathique et recueillie, sociable et solitaire, le sens des
+grandes choses et l'intérêt pour les petites, un esprit haut et
+populaire, la force qui élance et la force qui contient. Il me semble
+qu'en disant ce qu'est l'histoire au point de vue des modernes, j'ai dit
+quelques-uns des caractères qui distinguent M. Mi- chelet.</p>
+<p>Il en faut convenir : une pitié douloureuse, conti-</p>
+<p><pb/></p>
+<p>Elle ne s'en va pas pourtant ; elle marche vers un</p>
+<p><pb/></p>
+<p>Il est difficile de ne pas être touché de ce naïf récit.</p>
+<p>Ces paysans qui ne se mettent en défense qu'en demandant permission, cet
+homme fort et humble, ce bon géant, qui obéit volontiers, comme le saint
+Christophe de la légende,</p>
+<p><pb/></p>
+<p>1 Tome III, page 422.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>HISTOIRE DE FRANCE</p>
+<p>PREMIER ARTICLE l</p>
+<p>Trojani belli scriptorem, Maxime Lolli,</p>
+<p>Dum tu declamas Romae, Praeneste relegi 2.</p>
+<p>Je n'ignore ni ne rejette absolument tout ce qui</p>
+<p>1 Semeur, 24 mars 1847. — a HORACE, Epîtres. Livre I, épître II.</p>
+<p>Praeneste l'historien de la guerre de Troie. (P. S.)</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>prouver, dit-il, ne prouve-t-il pas sans cesse ? Et connaissez-vous
+beaucoup de récits plus remplis d'intentions que le sien ? Les paroles
+d'un homme qui fait autorité en ces matières pourraient être invoquées
+dans cette question, si toutefois c'en était une. « Vouloir, dit M.
+Daunou, que l'historien ne soit ému par aucun des événements qu'il
+raconte, vouloir que sa narration n'offre la couleur d'aucun genre
+d'idées politiques, philosophiques, religieuses, ne serait-ce pas
+dénaturer, dégrader l'histoire, la transformer en chronique, et
+l'effacer du nombre des productions de l'art d'écrire, puisqu'enfin où
+il ne reste ni pensée ni sentiment, il n'y a plus d'art. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Au cœur de ce Paris, vers la Grève, s'élevaient deux églises, deux
+idées, Saint-Jacques et Saint-Jean.</p>
+<p>Le Sauveur de la France devait être une femme. La</p>
+<p>France était femme elle-même.</p>
+<p>1 Tome IV, pages 53, 93, etc.</p>
+<p><pb/></p>
+<p>Aucune des subdivisions du genre historique (puisque enfin les mémoires
+ne sont pas de l'histoire) ne comporte l'extrême désinvolture qui
+caractérise</p>
+<p><pb/></p>
+<p>çussent.</p>
+<p>L'âme gisante est pour lui (le diable) un jouet qu'il tourne et pelote.</p>
+<p>Ils se trouvèrent d'accord pour sacrifier le trop conciliant</p>
+<p>Montaigu. Ce pauvre diable n'avait, après tout, péché que par peur.</p>
+<p>Dans mainte guerre d'Italie, on avait sur leur passage pris soin
+d'empoisonner les vins. Peine perdue, tout passait, vin et poison ; les
+Suisses ne s'en portaient que mieux.</p>
+<p>1 Tome IV, pages 57, 187, etc.</p>
+<p><pb/></p>
+<p>1 Le quatrième et le cinquième volumes.</p>
+<p><pb/></p>
+<p>des effusions de cœur admirables, mais des vues historiques de l'intérêt
+le plus positif.</p>
+<p>Au premier coup d'œil, la période comprise entre l'avènement de Charles
+VI et celui de Louis XI est plus triste qu'intéressante. Azincourt et la
+Pucelle arrêtent seuls le premier regard. Mais que d'autres choses, non
+pas plus poétiques ni plus belles, mais aussi grandes pour le moins au
+point de vue de l'histoire et de la Providence ! La situation politique
+et matérielle, l'état intellectuel et religieux de la France, dans le
+cours de ces quatre-vingts années, réclament</p>
+<p>2 Esaïe, XL, 28.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Elle chantait déjà, faute d'idées ;</p>
+<p>car un siècle qui n'a pas d'idées ne chante pas : aussi le quinzième
+n'a-t-il pas chanté, et toute sa poésie 1</p>
+<p>1 Ceux qui seraient tentés de nous objecter Charles d'Orléans d'une
+part, et de l'autre Alain Chartier, Villon, l'avocat Patelin, peuvent
+aisément supposer quelle serait notre réponse. Nous saisissons cette
+occasion d'exprimer notre étonnement de ce que M. Michelet ce créateur
+de l'histoire intime, a gardé un silence presque absolu sur la poésie et
+le théâtre, sous les deux prédécesseurs de Louis XI.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>que nous avons sous les yeux. L'auteur a traité ce sujet avec autant de
+candeur que d'amour.</p>
+<p>DEUXIÈME ARTICLE1</p>
+<p>Avant d'exprimer la particulière et très haute estime que nous faisons
+du dernier de ces trois volumes, recueillons-nous quelques moments
+devant l'image qu'il a laissée dans notre esprit, d'une époque aussi
+digne d'attention que digne de pitié.</p>
+<p>Ces vingt-deux années (1461-1483), dans les limites desquelles ,'enferme
+le règne de Louis XI, sont, du quinzième siècle, ce qui en résume le
+mieux le caractère : c'est le pur, le véritable quinzième siècle. L'âge
+moderne n'est pas encore là, mais c'en est fait du moyen âge, et le
+temps, si l'on nous permet de faire cet emprunt au langage militaire,
+marque le pas entre ces deux ères ou entre ces deux mondes.</p>
+<p>1 Semeur, 31 mars 1847.</p>
+<p><pb/></p>
+<p>1 Histoire des Ducs de Bourgogne, tome IX, pages 96-97.</p>
+<p><pb/></p>
+<p>1 Tome VI, pages 286, 290.</p>
+<p><pb/></p>
+<p>1 Bibliothèque universelle de Genève. Année 1846 ; pages 535 et</p>
+<p>537. De l'éloquence naturelle.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1 Tome VI, page 490.</p>
+<p><pb/></p>
+<p>chose, et l'un des soins de la politique de Louis XI fut de ménager
+Paris. Mais ce grand et misérable Paris, il fallut que ce prince le
+repeuplât comme Ro- mulus avait peuplé sa ville naissante, en y conviant
+les malfaiteurs de tous les pays et les crimes de toutes les sortes.</p>
+<p>1 « Il avait de bonnes et vertueuses parties en lui », dit Comines, qui
+s'étend avec complaisance sur les qualités de son premier maître.</p>
+<p>(Livre V, chapitre IX.)</p>
+<p><pb/></p>
+<p>Que nul ne s'occupa plus vivement de l'industrie et du commerce, et que
+la France ne doit pas oublier que c'est au plus mal vêtu de ses rois
+qu'elle doit l'établissement de ses manufactures d'étoffes d'or et de
+soie; qu'aucun roi n'exécuta avec plus de succès que lui le plan
+heureusement conçu par ses prédécesseurs de briser le joug seigneurial
+que les</p>
+<p>Français supportaient avec tant d'impatience; que, dans les</p>
+<p><pb/></p>
+<p>deux premières années seulement du règne de ce prince, plus de cinqante
+communes reçurent de lui des immunités, des droits véritables, une
+protection efficace ; qu'elles obtinrent des consuls, un conseil
+municipal, une maison commune, un sceau et un trésor particulier; que le
+soin de la police, de la garde de la ville, de son administration
+intérieure, le jugement de la plupart des contestations furent confiés à
+ces magistrats, etc., etc. : qu'ainsi se ranima cet esprit municipal que
+les Romains avaient apporté dans les Gaules, qui donne vraiment une
+patrie aux habitants d'une cité, et qui, observé dans toutes ses
+périodes, expliquerait bien des phénomènes de notre esprit public. »</p>
+<p>L'inexpérience indocile</p>
+<p>Du compagnon de Paul-Emile</p>
+<p>Fit tout le succès d'Annibal.</p>
+<p><pb/></p>
+<p>1 Voir tome VI, pages 38 et 418.</p>
+<p>2 Mémoires de Comines, livre XI, chapitre XII.</p>
+<p><pb/></p>
+<p>1 Le culte de la fortune est de tous les temps ; l'adoration sérieuse et
+systématique de la force est une des maladies de notre époque : elle a
+pénétré jusque dans les théories littéraires. Voyez, sur cette religion
+nouvelle, quelques pages aussi énergiquement écrites que nettement
+conçues, dans le second volume des Portraits littéraires de</p>
+<p>M. Sainte-Beuve.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>MIGNET</p>
+<p>NOTICES ET MÉMOIRES HISTORIQUES</p>
+<p>2 volumes in-Bo. — 1843.</p>
+<p>PREMIER ARTICLE 1</p>
+<p>1 Semeur, 29 mai 1843.</p>
+<p><pb/></p>
+<p>mais nous ne rougirons pas de confesser que si l'auteur du premier de
+ces ouvrages éveille en nous une grande attente, il l'a de beaucoup
+dépassée. Il ne nous a pas trompé, mais comblé.</p>
+<p><pb/></p>
+<p>1 Tome I, page 358.</p>
+<p><pb/></p>
+<p>tendue d'esprit et la rare intelligence de celui pour qui elle n'a pas
+même été une difficulté.</p>
+<p>1 Tome I, page 108.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Quoique les principes moraux y fussent (dans ce système d'éducation
+nationale) l'objet d'urie forte sollicitude et d'un enseignement suivi,
+on cherchait trop leur certitude dans le raisonnement et leur sanction
+dans l'utilité. Les sentiments que l'esprit ni ne donne, ni ne démontre,
+y prenaient la forme d'idées ; la morale y reposait sur l'intérêt, qui
+peut bien la servir, mais non la fonder ; l'honnêteté y était professée
+comme une science, et la vertu recommandée comme un calcul h</p>
+<p>1 Tome I, page 115.</p>
+<p><pb/></p>
+<p>L'auteur termine par ces mots la notice sur Tal- leyrand :</p>
+<p>La mesure de ce langage n'est assurément pas sans force, et de toute
+autre manière peut-être l'auteur eût dit moins bien ; mais qu'aurait
+pensé de cette manière de conclure un auteur du dix-septième et même du
+dix-huitième siècle ? Il l'aurait approuvée après coup, mais non pas
+imaginée.</p>
+<p>1 Tome I, page 160.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>J'ai parlé. de M. Mignet parce qu'il en fallait parler ; libre de faire
+autrement, je l'aurais laissé parler lui-même. Tant que je ne l'ai pas
+cité, transcrit abondamment, il me semble que je n'ai rien dit. Je
+n'aurai pas dit non plus tout ce que je voudrais dire quand j'aurai
+enrichi cet article d'une ou deux citations qui ne présenteront pas,
+tant s'en faut, toutes les faces principales d'un talent si accompli ;
+mais si elles en mettent quelques parties en relief, ce sera toujours
+quelque chose, et certainement assez pour exciter vivement la curiosité
+du lecteur, ou ce que j'appellerais plus volontiers son appétit
+intellectuel. — Voici la fin de l'éloge de Sieyès :</p>
+<p><pb/></p>
+<p>L'ascension de Bonaparte au pouvoir et les signes précurseurs de sa
+chute sont retracés avec autant d'esprit que d'éloquence dans les deux
+morceaux que nous rapprochons ; le premier est tiré de la notice sur
+Talleyrand ; nous prenons le second dans celle sur M. Raynouard :</p>
+<p>1 Tome I. page 2fi.</p>
+<p><pb/></p>
+<p>1 Tome I, page 126.</p>
+<p><pb/></p>
+<p>se réalise, que par un seul changement qui dure, lui avait entrepris de
+tout refaire selon ses plans. Aussi succombait-il sous cette puissance
+méconnue des choses qui se compose des traditions du passé, des intérêts
+du présent, des idées de ceux qui pensent, des passions de ceux qui
+souffrent ; qui élève les grands hommes qui la secondent, et rétablit
+l'équilibre menacé du monde par la chute des grands hommes qui lui
+résistent.</p>
+<p>Dans un autre article nous rendrons compte des</p>
+<p>Mémoires dont le second volume est composé.</p>
+<p>DEUXIÈME ARTICLE 2</p>
+<p>1 Tome I, page_346. — - Semeur, 27 décembre 1843.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>civilisation ? ou du moins cette civilisation fut-elle le support ou le
+véhicule de cette divine philosophie ? On ne voit rien de tout cela ; on
+ne voit, dans l'admirable récit de M. Mignet, que quelques natifs du
+pays des Bretons ou de la verte Erin, quelques moines, quelques hommes
+du peuple, dont toute la sagesse était dans leur foi, et dont l'Evangile
+était la seule théorie sociale.</p>
+<p><pb/></p>
+<p>devaient conduire qu'aux pieds du Dieu sauveur.</p>
+<p>1 Tome II, page 59. — * Tome II, page 111. — 3 Tome II, page 10.</p>
+<p><pb/></p>
+<p>Il est, cependant, bien loin de notre pensée de méconnaître la part du
+christianisme dans la grande</p>
+<p><pb/></p>
+<p>1 Tome II, page 23.</p>
+<p><pb/></p>
+<p>Au reste, le côté spirituel de l'œuvre de Boniface et de Sturm est peu
+relevé par l'auteur, et ce qu'il dit ne fait pas bien comprendre comment
+cette nouvelle religion fit ce que toutes les autres, y compris celle de
+Moïse, n'avaient pas même tenté ; il ne remonte pas au principe de
+l'impulsion qui précipitait au-devant des hordes barbares tous ces «
+soldats pacifiques, » et qui, transmise par eux, dressait au combat du
+martyre les persécuteurs de la veille.</p>
+<p>1 Tome II, page 61.</p>
+<p><pb/></p>
+<p>1 Tome II, page 63.</p>
+<p><pb/></p>
+<p>1 Tome II, page 126. — 2 Tome II, page 127.</p>
+<p><pb/></p>
+<p>1 Tome II, page 163.</p>
+<p><pb/></p>
+<p>Au reste, l'œuvre de la royauté, œuvre d'instinct, d'empirisme et
+d'intérêt personnel, ne pouvait être parfaite. M. Mignet le reconnaît et
+le fait bien sentir :</p>
+<p>Tout était cependant loin d'être uni sur le sol, semblable dans les
+mœurs, régulier dans l'administration.</p>
+<p>Les restes de l'ancien ordre de choses qui avait consisté dans le
+démembrement du territoire et dans l'isolement des individus,
+s'apercevaient encore partout. Il y avait encore</p>
+<p>1 Le second mémoire est parfaitement résumé dans quelques pages du
+quatrième. (Tome II, pages 440-446.)</p>
+<p><pb/></p>
+<p>Néanmoins, l'œuvre de la royauté fut grande selon</p>
+<p>1 Tome II, page 236. — 2 Tome II, page 238.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ciel. Il est même, nous croyons l'avoir fait sentir, de grandes erreurs
+qui semblent avoir servi le genre humain, non pas elles toutefois, mais
+la vérité mêlée avec elles. Ce n'est que dans la vérité centrale qu'il
+n'y a point d'approximation, d'incertitude et de mutabilité ; là
+seulement expire le pouvoir des temps et celui des lieux. Tu in te
+mânes, nos autem in experimentis voluimur.</p>
+<p><pb/></p>
+<p>1 Tome II, page 321. — 2 Tome II, page 322.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ce dernier sur lequel il dit ce mot remarquable :</p>
+<p>« Il eut les intentions de toutes les choses qu'il fit, ce qui n'arrive
+pas toujours aux grands hommes »</p>
+<p>Mais écoutons M. Mignet parler de Mazarin :</p>
+<p>1 Tome II, page 452.</p>
+<p><pb/></p>
+<p>1 Tome II, page 453.</p>
+<p><pb/></p>
+<p>imparfaite qu'elle est, est moins imparfaite et toujours plus avancée
+que la plupart des individus dont elle se compose ; c'est que l'homme
+est toujours en arrière de son œuvre, précisément parce que son œuvre ne
+lui appartient pas ; et qu'enfin si la perfectibilité est la loi de la
+société, la conversion est celle de l'individu.</p>
+<p>Qui est-ce qui disait donc : La rigueur des principes et une volonté
+sainte sont nécessairement en désaccord avec la force des choses ?</p>
+<p>1 Tome, II page 170-171.</p>
+<p><pb/></p>
+<p>ALEXANDRE SOUMET</p>
+<p>LA DIVINE ÉPOPÉE</p>
+<p>2 volumes in-8°. — 1840.</p>
+<p>PREMIER ARTICLE 1</p>
+<p>Comme un fleuve tari ce monde était passé.</p>
+<p>De son grand univers dans l'infini lancé,</p>
+<p>Dieu venait d'enlever la merveille éclatante,</p>
+<p>Comme d'un camp nomade on enlève la tente.</p>
+<p>Il ne restait plus rien que le ciel et l'enfer.</p>
+<p>Et l'ange du chaos, de son trône de fer,</p>
+<p>Séparait, entouré de visions funèbres,</p>
+<p>Le divin Paradis du séjour des ténèbres 2.</p>
+<p>1 Semeur, 10 mars 1841. — 2 Chant I.</p>
+<p><pb/></p>
+<p>Ces élans, ces bonheurs, ces fruits que notre main Cueille si rarement
+aux arbres du chemin, Près des célestes biens semblent tous disparaître
+; C'est le néant perdu sous les splendeurs de l'être.</p>
+<p>Et tombant de leur lèvre en perles cristallines.</p>
+<p><pb/></p>
+<p>Ces mots sont virtuels, ces mots sont tout puissants ; De la création
+germes phosphorescents,</p>
+<p>Types mystérieux où la nature existe</p>
+<p>Comme un chef-d'œuvre au fond des rêves de l'artiste, Et qui seuls ont
+peuplé l'air et l'onde et les bois, Quand Dieu les prononça pour la
+première fois.</p>
+<p>Ces mots sont lumineux, et leurs flammes dorées Evoquent des objets les
+formes éthérées,</p>
+<p>On voit en écoutant</p>
+<p>La parole, ici-bas, n'a qu'un douteux empire,</p>
+<p>Sous nos mots nuageux l'enthousiasme expire,</p>
+<p>Et voudrait, remuant, tourmentant son tombeau, Des ombres du langage
+affranchir son flambeau.</p>
+<p>Le poète, lui seul, retrouve en son domaine</p>
+<p>Quelques titres perdus de la pensée humaine.</p>
+<p>Lui seul peut entrevoir le mystère oublié,</p>
+<p>Que suspend l'univers sur l'homme humilié ;</p>
+<p>Lui seul peut le traduire en oracles de flamme, Quand le ciel retentit
+sous le vol de son âme ; Quand, de ses pleurs sacrés sa lyre humide
+encor, Aux pieds du Dieu vivant monte d'un seul accord 1.</p>
+<p>Au centre de ces félicités et de ces extases, Dieu,</p>
+<p>1 Chant I.</p>
+<p><pb/></p>
+<p>Raphaël 1 Raphaël 1 viens le premier</p>
+<p>Qu'il ne t'en resta plus pour vivre, jeune athlète !</p>
+<p>Toi ! martyr de ce Christ que tu peignais encor ;</p>
+<p>Artiste, au Ciel ravi par l'élan du Thabor !</p>
+<p><pb/></p>
+<p>Tes vierges dans l'Eden se sont donc envolées</p>
+<p>Et ton éternité s'enchante de les voir 1</p>
+<p>Eve et Adam sont auprès de leur poète, unis ensemble comme sur la terre
+; car le ciel a ses hymens, hymens toujours bien assortis ; les âmes
+bienheureuses se choisissent les unes les autres sans hésitation, et
+s'unissent mystiquement.</p>
+<p>Et les heureux époux,</p>
+<p>Sans fin, selon l'esprit, croissent et multiplient</p>
+<p>En pensers, en sagesse, en louanges de feu 2.</p>
+<p>Il y a pourtant au sein de ce peuple bienheureux une célibataire et une
+infortunée : Sémida, la plus belle des vierges du ciel, comme elle fut
+la plus belle des filles de la terre ; si belle et si touchante</p>
+<p>Que son sourire aurait, sous le glaive enflammé, Rouvert le paradis
+qu'Eve s'était fermé 3.</p>
+<p>« La triste bienheureuse » a laissé son cœur sur la terre ; je me trompe
+: dans les enfers. Dernière des filles d'Eve sur le globe qui s'en
+allait mourir, elle aima le dernier des fils d'Adam, Idaméel, qui avait
+hérité de toute la beauté de l'homme comme elle de toute la beauté de la
+femme ; vase d'élite et de réprobation qui avait recueilli tout le génie
+et tout l'orgueil de la race humaine, de même que l'âme de la belle
+Sémida concentrait toute la piété de l'Eglise chrétienne, dont elle est
+le dernier représentant. Sémida revit dans le séjour des anges; Idaméel
+a été précipité dans le repaire des démons, où son génie et son audace
+l'ont fait roi, et où Satan vaincu</p>
+<p>1 Chant I. — 2 Chant I. — * Chant II.</p>
+<p><pb/></p>
+<p>A la terre d'exil comparent la patrie,</p>
+<p>et lui disent</p>
+<p>Combien, s'il veut aimer, son cœur pur aimera,</p>
+<p>Sous les rameaux penchés de leurs grands bois d'amra;</p>
+<p>Combien est embaumé d'aloès et de rose,</p>
+<p>Pour le sommeil d'un ange, un palais d'argyrose.</p>
+<p>En vain leur tendre sollicitude</p>
+<p>Balance sur ses nuits, dans leurs écharpes d'or,</p>
+<p>Des songes plus légers qu'un vol d'alexanor 1</p>
+<p>Au grand jour des alarmes,</p>
+<p>Quand la terre vivait.</p>
+<p>MADELEINE.</p>
+<p>Elle vit dans tes larmes 2 ! ! !</p>
+<p>1 Chant II. — 2 Chant II.</p>
+<p><pb/></p>
+<p>veut réunir les deux amants ; mais ce dessein en renferme ou du moins en
+suppose un autre. Sauver le roi des enfers, c'est sauver l'enfer ; c'est
+sauver les princes et les captifs de la cité douloureuse ; c'est opérer
+le rétablissement final dans une étendue qu'aucun théologien n'a jamais
+rêvée. Il le fera pour l'amour de Sémida, car aucune autre pensée ne
+l'occupe, aucun autre intérêt ne le détermine. Entre la prière de Sémida
+et la résolution du Christ il n'y a que ces mots :</p>
+<p>Durant neuf de ces jours que l'infini mesure,</p>
+<p>De Sémida, sa fille, il sonda la blessure 1.</p>
+<p>Mais l'amour pourra-t-il vaincre l'éternité 2 ?</p>
+<p>Le poète nous transporte ensuite dans l'enfer, séjour de la haine, de la
+colère et de l'orgueil, empire de la mort ; car la mort règne encore où
+l'on ne peut mourir, et, ne pouvant plus frapper, elle domine encore par
+l'épouvante qu'elle inspire. Cette description de l'enfer, contre-partie
+de celle du ciel,</p>
+<p>1 Chant II. — 2 Chant II.</p>
+<p><pb/></p>
+<p>est fondée sur la même pensée. Tout le mal terrestre s'est versé dans
+l'enfer comme dans un gouffre ; tout ce mal s'y cristallise, pour ainsi
+dire, et s'y perpétue ; l'intellectuel, le moral s'y matérialise, y
+prend une forme visible, sans cesser d'être moral et intellectuel. Le
+signe devient la chose signifiée ; la métaphore et son objet se
+confondent ; les deux mondes de l'esprit et des sens n'y forment plus
+qu'un monde. L'auteur a treize fois de suite bravé les difficultés de
+cette idée dans la description de treize différents supplices. Le
+premier est celui d'un</p>
+<p>.... condamné que le bout d'une chaîne Suspendait dans un puits de feu
+de la géhenne.</p>
+<p>La chaîne était immense ; et chaque anneau de fer, Prodigieux travail
+admiré de l'enfer,</p>
+<p>Emprisonnait une âme au dur métal mêlée,</p>
+<p>Sur la flamme autrefois dans le moule coulée.</p>
+<p>Et le noir réprouvé, des effrayants chaînons</p>
+<p>Les noms accusateurs et d'hommes et de femmes : Car c'est lui dont
+l'exemple avait perdu ces âmes 1.</p>
+<p>Le quatrième est un poète, qui a fait de son génie un usage coupable : «
+Il chantait, » dit l'ati 'Leur, mais</p>
+<p>Chaque image, étalant son luxe oriental,</p>
+<p>Chaque puissante strophe, en déployant son aile Dans l'air volcanisé de
+la nuit éternelle,</p>
+<p>Soudain prenait un corps venimeux et brûlant,</p>
+<p>Se transformait en hydre, en céraste volant 2.</p>
+<p>1 Chant III. — 2 Chant III.</p>
+<p><pb/></p>
+<p>Et, comme enveloppé dans un linceul de sang,</p>
+<p>Jamais de ce miroir son spectre n'est absent.</p>
+<p>Si son front, dans l'horreur d'une convulsion,</p>
+<p>Se rejette en arrière et fuit la vision,</p>
+<p>Un souffle faible et lent murmure — Parricide ! — Une main apparaît dans
+l'obscurité vide,</p>
+<p>Une main de vieillard, une main sans couleur</p>
+<p>Et dont lui-même un jour augmenta la pâleur !</p>
+<p>Elle descend sur lui, flétrie et décharnée ;</p>
+<p>Saisit par les cheveux sa tête condamnée,</p>
+<p>Courbe le criminel écumant et hagard,</p>
+<p>Et sur son châtiment ramène son regard 1.</p>
+<p>Au milieu de ce peuple de suppliciés règne Ida- méel, victime lui-même
+d'un supplice invisible et sans forme, mais plus intime, Idaméel qui
+n'est soutenu contre le sentiment d'une torture infinie que par un
+orgueil infini. Dans ce cœur qui dut être le trône même du crime, les
+images innocentes et les affections pures de la terre subsistent.
+Idaméel règne dans l'enfer, et Sémida dans le cœur d'Idaméel. Ce
+recueillement dans la haine et dans l'amour est interrompu par la
+clameur du peuple infernal qui demande des fêtes. Idaméel, « verbe
+puissant du mal, » fait un signe et tout se dispose, ou plutôt tout est
+prêt pour l'amusement des démons, dont le cœur, pour nous servir d'une
+expression d'un vieux mystère,</p>
+<p>« enrage de joie. »</p>
+<p>Bientôt des réprouvés l'orgie en feu commence.</p>
+<p>Elle agrandit au loin son cercle de démence,</p>
+<p>Et les treize cités que l'enfer réunit,</p>
+<p>Dressant sur les rochers leurs spectres de granit,</p>
+<p>1 Chant III.</p>
+<p><pb/></p>
+<p>S'émeuvent ; et chacune, en la fête ondoyante,</p>
+<p>Vomit, de ses vieux flancs, quelque pompe effrayante.</p>
+<p>Et d'enfer en enfer, la fête multiplie,</p>
+<p>En s'épanouissant, son luxe et ses couleurs :</p>
+<p>C'est le mancenillier ouvrant toutes ses fleurs.</p>
+<p>Elle vole et rugit immense, universelle ;</p>
+<p>Comme un tigre joyeux chaque antre la recèle.</p>
+<p>La fête est sous les rocs, la fête est sur les monts ;</p>
+<p>Elle vogue, en chantant, sur le lac des démons,</p>
+<p>Cent volcans allumés lui servent de flambeaux.</p>
+<p>La fête, renaissant de tombeaux en tombeaux,</p>
+<p>Comme un fleuve écumeux descend dans les abîmes,</p>
+<p>Rejaillit, en hurlant, jusqu'aux plus hautes cimes 1.</p>
+<p>Idaméel, non pas le dernier-né, mais le dernier trépassé de la race
+humaine, fut arraché par le fer des flancs de sa mère expirante. La
+foudre, au même instant, consumait son père. Son enfance fut livrée aux
+enseignements d'un vieil Hébreu, versé dans les plus noires sciences. Il
+apprit de lui, dans les temples souterrains d'Eléphanta, des secrets
+d'une ineffable horreur, et, suçant tous les venins de la science
+humaine, devint, tout jeune encore, l'ennemi et le</p>
+<p>1 Chant IV.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Après avoir salué l'Europe,</p>
+<p>Vieux continent penseur, cerveau de notre globe 1,</p>
+<p>Peuple qui te disais roi des antiquités,</p>
+<p>Avant que la science, étudiant tes songes,</p>
+<p>De ta carte céleste expliquât les mensonges 1 Peuple de Confutzée, aux
+pentes du Thibet,</p>
+<p>Filant tes arts mesquins, sans amour et sans joie, Comme sur tes mûriers
+le ver filait la soie ;</p>
+<p>Et d'un œil indécis mesurant ta grandeur</p>
+<p>A tes magots lustrés, types de la laideur !</p>
+<p>Jamais ton pas tremblant ne bondit sur la terre</p>
+<p>Au rythme impétueux des hymnes de la guerre.</p>
+<p>Par tes timides lois ton génie arrêté</p>
+<p>De l'instinct du castor eut l'immobilité,</p>
+<p>Et comme ton empire, en éteignant sa flamme,</p>
+<p>Un mur infranchissable emprisonnait ton âme.</p>
+<p>Il revient en Egypte où il trouve son peuple abattu et désolé au sein de
+l'abondance. Un seul miracle a été refusé au nouveau Prométhée ; l'hymen
+est stérile. Le fleuve des générations est tari. Une seule femme sur la
+terre peut devenir l'Eve d'un nouveau</p>
+<p>1 Chant VI. — 2 Chant VI.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Mon rêve est accompli... Sainte métamorphose ! ! !</p>
+<p>De ma vie, ô Seigneur, tu me rends la moitié.</p>
+<p>Le bûcher des douleurs a son apothéose ;</p>
+<p>Je lisais l'avenir écrit dans ta pitié !</p>
+<p>J'enlevais, dans l'espoir qu'on appelait démence,</p>
+<p>La borne où ta justice arrêtait ta clémence.</p>
+<p>Je devançais le vol de cet hymne au saint lieu,</p>
+<p>J'agrandissais le jour que ton regard colore ;</p>
+<p>Dans mon cœur je sentais éclore</p>
+<p>Le beau lis du pardon sous l'haleine de Dieu 1.</p>
+<p>DEUXIÈME ARTICLE 2</p>
+<p>1 Chant XII. — 2 Semeur, 21 avril 1841.</p>
+<p><pb/></p>
+<p>1 Luc, XII, 48.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Mais ce qu'il importe de remarquer, c'est que, dans tous les cas que
+nous avons supposés, le chrétien n'est point obligé de se diviser, de se
+séparer de lui-même ; sa conscience de chrétien n'est point en
+souffrance ; elle ne subit point une position fausse</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>beau dans les détails ? Si l'admiration est inséparable de la sympathie,
+la beauté de votre poème (je parle toujours de l'ensemble) est nulle et
+non avenue pour lui. La douleur qu'il éprouve, et que renouvelle chacune
+de vos inventions, intercepte les impressions littéraires qu'il pourrait
+recevoir.</p>
+<p><pb/></p>
+<p>1 Epigraphe de la Divine Epopée.</p>
+<p><pb/></p>
+<p>C'est ici la montagne où, lavant nos forfaits,</p>
+<p>Il voulut expirer sous les coups de l'impie ;</p>
+<p>1 Zaïre. Acte II, scène III.</p>
+<p><pb/></p>
+<p>Et ailleurs :</p>
+<p>La Puissance, l'Amour avec l'Intelligence,</p>
+<p>Unis et divisés, composent son essence a.</p>
+<p>Et encore :</p>
+<p>Et lui découvre un Dieu sous un pain qui n'est plus 2.</p>
+<p>1 La Henriade. Chant X. — 2 Ibid.</p>
+<p>a On nous fait sur l'épisode d'Abbadona, dans le poème du Messie, une
+objection que nous examinerons plus tard.</p>
+<p><pb/></p>
+<p>résulte une couleur menteuse qui n'a point de nom et n'en peut point
+avoir, des tons faux et sourds, une incohérence d'expression, dont tout
+le monde ne se rend pas compte, mais que tout le monde sent. Toutefois,
+l'offense étant négative, on ne voit pas distinctement le christianisme
+nié dans une de ses parties, affirmé dans l'autre, et l'arbitraire
+individuel se jouant dans les traditions des siècles. L'héritage peut
+sembler intact, et cette illusion qui sauve au lecteur la plus
+désagréable des impressions, épargne au poète de la part du lecteur ce
+désaveu accablant dont le plus grand talent ne saurait se relever. Mais
+comme reconstruction arbitraire de la tradition, rien n'a été tenté, je
+le crois, de plus audacieux que la Divine Epopée.</p>
+<p>Ce n'est pas, certes, sur un seul point que les données fondamentales du
+christianisme sont altérées dans ce poème ; mais nous ne pouvons tout
+relever. Il vaudrait la peine, cependant, de signaler la manière dont M.
+Soumet fait mourir le globe de la terre. Il est de foi, pour le
+chrétien, que ce globe périra soudainement dans une immense
+conflagration, et passera, comme dit saint Pierre, « avec un bruit
+sifflant de tempête 1. » L'universelle mort le surprendra tout vivant ;
+sa fin sera tragique ; et qui sait si cette mort lui survenant au plus
+haut période de son développement, il ne sera pas, comme le héros d'un
+panégyrique fameux, « enseveli dans son triomphe ? » Quelle voix avait
+murmuré cette fatale sentence aux oreilles de l'antiquité ? Je ne sais,
+mais elle l'a connue, et ses poètes en ont parlé. Chez M. Soumet, au
+contraire, l'univers meurt de</p>
+<p>1 2 Pierre, III, 10.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>miers parents, ou même seulement leurs noms. Au contraire, l'auteur de
+la Divine Epopée se place sur le terrain et au beau milieu de la
+révélation chrétienne, pour nier implicitement ce qu'elle affirme, ou du
+moins pour affirmer ce qu'elle n'affirme pas.</p>
+<p>Mais le premier grief ne peut pas nous arrêter longtemps en présence de
+celui qui porte sur le sujet même de la Divine Epopée. Ce poème a pour
+sujet, et devrait avoir pour titre, l'Enfer racheté par une seconde
+passion de Jésus-Christ.</p>
+<p>Mais laissons le titre, et revenons au sujet, qui est bien l'Enfer
+racheté par une seconde passion du Christ. Ceci peut se passer de
+commentaire. Chrétien ou non chrétien, il n'est personne qui ne sente
+que le dessein annoncé dans ce peu de mots porte en lui-même sa propre
+négation, le principe de sa</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1 Romains, X, 6 et 7. — 2 Hébreux, VI, 6. — * Ibid.</p>
+<p><pb/></p>
+<p>1 Colossiens, I, 24.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Au reste, cette répétition arbitraire de la passion de l'Homme-Dieu est,
+dans le nouveau poème, exactement ce qu'elle pouvait être : un petit
+événement en comparaison de la première passion. Forcément, l'auteur a
+marqué la distance qui sépare les deux faits. Il ne conçoit pas sans
+doute la première incarnation autrement que l'Evangile ne la présente,
+je veux dire comme l'effet d'un dessein librement et</p>
+<p>1 Matthieu, XXVI, 68.</p>
+<p>2 [Il semble qu'il faille remplacer ce premier que par: pas].</p>
+<p><pb/></p>
+<p>1 Nombres, XXIII, 19.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>TROISIÈME ARTICLE 1.</p>
+<p>Couvrir d'autres clartés l'Evangile agrandi 2 ;</p>
+<p>ou lorsqu'il fait dire au Christ même, crucifié sur le Calvaire infernal :</p>
+<p>Peu nous importe qu'après avoir professé, comme seule digne de Dieu et
+du Christ, une clémence inépuisable et illimitée, il rentre
+involontairement dans</p>
+<p>1 Semeur, 12 mai 1841. — * Chant XI. — 3 Ibid.</p>
+<p><pb/></p>
+<p>Mon sillon de douleurs ne peut plus s'allonger...</p>
+<p>Je ne puis rien pour toi, quand tu serais ma mère 111</p>
+<p>J'ai payé ton salut, ne viens pas m'apporter</p>
+<p>1 Chant IX.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1 HORACE, Art Poétique.</p>
+<p><pb/></p>
+<p>1 Jean, II, 4.</p>
+<p><pb/></p>
+<p>Oh ! par quels souvenirs serais-tu donc liée</p>
+<p>A la terre d'exil de nous tous oubliée 1 ?</p>
+<p>Eve ne lui dirait pas, lorsqu'elle aventure son voJ vers les régions
+inférieures :</p>
+<p>La femme doit trembler, enfant, je te le dis,</p>
+<p>A chaque pas nouveau fait hors du Paradis 2.</p>
+<p>Mais les anges sur toi ne peuvent rien peut-être?</p>
+<p>Il te faut regarder la femme pour renaître</p>
+<p>LA FEMME a dû guérir le mal qu'elle avait fait 4.</p>
+<p>Et l'on ne lirait pas un peu plus loin :</p>
+<p>La récolte de Dieu par l'amour fut doublée 1).</p>
+<p>Cet amour n'est pas l'amour divin ; c'est un amour de femme que, dans le
+monde, on croit distinguer</p>
+<p>1 Chant II. — 1 Chant IX. — * Chant XI. — f. Chant XII. —</p>
+<p>6 Chant XII.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Pour les enfants du ciel le charme le plus doux,</p>
+<p>C'est que chacun s'endort dans le bonheur de tous 1 ?</p>
+<p>1 Chant Ier.</p>
+<p><pb/></p>
+<p>Dans le même passage il définit le bonheur :</p>
+<p>Fait des rayons de l'ange et des pleurs de la femme 1.</p>
+<p>Lorsque sur les élus, de plus près, brille et tombe</p>
+<p>Un regard créateur de la sainte colombe,</p>
+<p>Au plus profond du cœur il fait éclore en eux</p>
+<p>(Prodige renaissant du toucher lumineux)</p>
+<p>D'autres trésors de paix, d'autres élans d'extase,</p>
+<p>Comme un rayon du jour fait naître une topaze</p>
+<p>Dans les climats heureux où l'amour se plait tant ;</p>
+<p>Où l'air a la douceur des soupirs qu'il entend ;</p>
+<p>Où Golconde, aux yeux noirs, vient baigner odorante</p>
+<p>J'irai plus loin quand j'examinerai le style de M. Soumet. Si
+l'afféterie et la mignardise se mêlent,</p>
+<p>1 Chant Ier. — 2 Ibid.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Oh ! lamentable Christ, tu ne crois plus en toi ;</p>
+<p>Ta dernière agonie est de manquer de foi 1 !!!</p>
+<p>1 Chant X. - 2 ylatthieu, XXVII, 46. — 3 Jean, XIX, 30. —</p>
+<p>4 Jean, XIII. 1.</p>
+<p><pb/></p>
+<p>1 Daniel, V, 27.</p>
+<p><pb/></p>
+<p>1 Apocalypse, XIV, 13.</p>
+<p><pb/></p>
+<p>Oui! je suis ton image et ton vivant miroir,</p>
+<p>Et dans mes traits bénis c'est toi que tu peux voir !...</p>
+<p>Ma gloire sous tes pas fleurit de toutes parts,</p>
+<p>Je t'appelle mon père, avec un pur délire 1.</p>
+<p>Le mot délire n'est que trop juste, mais un pur délire ! Y pensez-vous
+bien ? Un chrétien qui se dit le père de ses œuvres ! Et quelle part
+faites-vous donc au Père des esprits ? Que n'avez-vous dit plutôt que le
+racheté est le fils de ses œuvres et que ses œuvres elles-mêmes sont les
+filles de Dieu ? Pour être beaucoup plus vrai, cela serait-il moins
+poétique ?</p>
+<p>Si tu m'aimes en Dieu, viens me chercher toi-même.</p>
+<p>Il me doit ce miracle - !</p>
+<p>L'élément primitif de la grande Géhenne,</p>
+<p>Celui dont tout émane aux enfers, c'est la haine 3.</p>
+<p>Cela est faux en philosophie comme en religion ; mais cela eût faux
+surtout au point de vue adopté par l'auteur, et l'on ne peut s'étonner
+assez qu'après avoir énuméré avec complaisance certains éléments du
+péché, la haine et la colère, il ne trouve, sur le troisième qui est
+l'orgueil, que ces deux vers insignifiants et gonflés de mots :</p>
+<p>* Chant 1er. — * Chant IX. — 3 Chant III.</p>
+<p><pb/></p>
+<p>Le troisième élément du lamentable empire,</p>
+<p>C'est l'orgueil, air maudit que tout damné respire 1.</p>
+<p>sa pure voix, même dans son délire,</p>
+<p>Chantait plus près de Dieu que la céleste lyre 3.</p>
+<p>Et puis j'en verserai (de mon sang) la coupe deux fois pleine,</p>
+<p>Comme les doux parfums de sainte Madeleine,</p>
+<p>1 Chant III. — 2 Chant II. — a Chant II.</p>
+<p><pb/></p>
+<p>Sur tes pieds, Sémida, sur tes pieds glorieux ;</p>
+<p>Et ce sang ravivé, ruisseau mystérieux,</p>
+<p>Abreuvera de paix, de joie et d'innocence,</p>
+<p>Du mystique printemps la riche efflorescence.</p>
+<p>Le lis d'Eucharistie en des flots de fraîcheur</p>
+<p>De son pur vêtement baignera la blancheur.</p>
+<p>Dans la grande moisson plus de tiges brisées :</p>
+<p>Et ces gouttes de sang, ineffables rosées,</p>
+<p>Topazes de splendeur, perles et diamants,</p>
+<p>Chastes saphirs sortis du creuset des tourments,</p>
+<p>Luiront au front des saints que ton aile environne 1...</p>
+<p>Encore si le poème de M. Soumet n'offrait point de plus grandes
+inconvenances ! Mais le défaut de tact religieux y est porté beaucoup
+plus loin. Parler ainsi, c'est prendre l'engagement de citer.</p>
+<p>Jésus-Christ, dans sa première passion, vit debout, au pied de la croix,
+saint Jean et sa mère, le disciple bien-aimé et celle que tous les
+siècles appelleront bienheureuse. C'est sur ces personnes saintes que,
+selon la belle expression de Saurin, ses regards allaient mourir. Pour
+témoins solennels et pour consolateurs de l'agonie de Jésus au Calvaire
+nfernal, M. Soumet amène deux réprouvés. Françoise de Rimini et son
+adultère amant remplacent Jean et Marie-Madeleine. Ce rapprochement que
+le poète devait éviter, il le brave, il l'a cherché, il ne veut pas
+qu'il nous échappe :</p>
+<p>Il croira voir, trompé par votre front qui prie,</p>
+<p>Pleurer, près de saint Jean, Madeleine-Marie 2.</p>
+<p>1 Chant X. — 2 Chant XI.</p>
+<p><pb/></p>
+<p>Si nous faisions pleurer en disant notre histoire...</p>
+<p>C'est qu'un soupir de vous semblait s'y faire entendre !</p>
+<p>Nous aimer dans l'abîme, oh ! c'était vous attendre1 !</p>
+<p>l Chant XI. — 1 Bm&lt;AXGi'.r.. Les deux Sœurs de Charité.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>En se tenant si loin du véritable sentiment, l'auteur se tient encore
+plus loin de la vraie spiritualité. Il n'y en a point dans la Divine
+Epopée, et nulle part aussi peu que dans les endroits dont elle serait
+l'unique et l'indispensable beauté. On dirait que quand l'auteur étend
+la main pour la saisir, elle lui échappe, ne laissant en son pouvoir que
+de vaines images. Dei images peuvent être spirituelles, et je comprends
+par exemple que celle? du Cantique des Cantiques remuent profondément,
+dans une âme religieuse, la</p>
+<p>1 Télémaque, livre XIX.</p>
+<p><pb/></p>
+<p>faculté qu'on peut appeler mystique ; il ne faut pas les presser
+beaucoup pour en faire découler des flots de cette manne secrète ; mais
+en sort-il une seule goutte de ces vers qui devraient en être tout
+pleins, et où l'on sent très bien l'imitation involontaire du cantique
+de la grande amie ?</p>
+<p>MADELEINE</p>
+<p>Où donc êtes-vous, Christ, notre souffle adorable ?</p>
+<p>SÉMIDA</p>
+<p>La fleur de l'amandier vous cherche ainsi que nous.</p>
+<p>MADELEINE</p>
+<p>Les échos endormis au fond des bois d'érable, S'éveillent en disant :
+Christ, où donc êtes-vous 1 ?</p>
+<p>SÉMIDA</p>
+<p>A l'humble nictantès dans la nuit fleurissant...</p>
+<p>MADELEINE</p>
+<p>Non, le ciel est trop vaste ; et parmi ses aurores, Dans ses bois de
+palmiers, sous ses frais mélodores, Nous nous égarerions...</p>
+<p>EVE</p>
+<p>Oui, mes filles, venez, venez...</p>
+<p>MADELEINE</p>
+<p>Moi, j'attendrai.</p>
+<p>Le parfum de ses pieds dort sous ma chevelure,</p>
+<p>Et de mon cœur d'amante embaume la blessure...</p>
+<p>1 Chant IX. — - VIRGILE. Eglogue 1.</p>
+<p><pb/></p>
+<p>Je suis de sa famille,</p>
+<p>Comme la grenadille</p>
+<p>Fleur de la passion 1.</p>
+<p>1 Chant IX.</p>
+<p><pb/></p>
+<p>la simplicité presque rustique de ces vers, que l'école moderne trouvera
+peut-être bien nus :</p>
+<p>Comme un cerf altéré brame</p>
+<p>Après le courant des eaux,</p>
+<p>Ainsi soupire mon âme,</p>
+<p>Seigneur, après tes ruisseaux !</p>
+<p>Elle a soif du Dieu vivant,</p>
+<p>Et s'écrie en le suivant :</p>
+<p>Mon Dieu, mon Dieu, quand sera-ce</p>
+<p>Que mes yeux verront ta face 1 ?</p>
+<p>1 Psaume XLII.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>l KLOPSTOCK, Le Messie, chant XIX, v. 91.</p>
+<p><pb/></p>
+<p>ment orthodoxes. On oublie aisément la nature de l'ange, la nature de la
+chute, pour ne voir qu'une âme pénitente et attendrie. Abbadona en est
+peut- être le type le plus touchant ; dans ses douleurs, dans ses
+prières, dans la grâce qui lui est accordée, tout le fond du
+christianisme se retrouve. Les sucs les plus purs de l'Evangile
+abreuvent ces pages admirables ; hérésie pour hérésie, on doit regretter
+que celle de M. Soumet n'ait pas porté sur le même point, et ne soit pas
+de la même étoffe. Nous ne pouvons transcrire ici cet épisode célèbre ;
+mais nous supplions nos lecteurs de le relire, dans l'original ou dans
+une traduction, n'importe.</p>
+<p>1 Les mots entre crochets n'ont pas été reproduits dans les éditions
+antérieures. P. S.</p>
+<p><pb/></p>
+<p>1 Les lignes entre crochets n'ont pas été reproduites dans les éditions
+antérieures. Voir note de la page précédente. [P. S.]</p>
+<p><pb/></p>
+<p>QUATRIÈME ARTICLE 1.</p>
+<p>l Semeur, 19 mai 1841.</p>
+<p><pb/></p>
+<p>Ce sujet, je le répète, est compris dans celui qu'a</p>
+<p>1 1 Corinthiens, XV, 26.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>L'ordonnance de la Divine Épopée est belle, vraiment épique. Chacun de
+ses douze chants semble sonner une des grandes heures d'un jour de
+l'année éternelle :</p>
+<p><pb/></p>
+<p>One such day</p>
+<p>As heaven's great year brings forth 1.</p>
+<p>l MILTON, Paradis Perdu, chant V. « Un de ces jours qu'amène la grande
+année du ciel)) — trad. Chateaubriand]</p>
+<p><pb/></p>
+<p>vent ; et l'entrée de Jésus-Christ dans le royaume infernal, prévue par
+le lecteur et mystérieusement annoncée au milieu même du récit d'Idaméel
+par une commotion soudaine de tout l'enfer, est admirablement placée
+après cette histoire de l'Antéchrist racontée par l'Antéchrist lui-même.
+Dès lors tout marche vers le dénoûment avec la majestueuse lenteur d'un
+torrent de lave, mais sans plus de repos et de relâche que la lave, et
+le regard s'attache avec une ardeur pleine d'anxiété sur les scènes de
+la seconde rédemption. Nous ne parlons, on le voit, que de l'ordonnance
+du poème ; nous faisons abstraction de tout le reste. Si le chant que
+l'auteur a intitulé Drame paraît suspendre l'action et l'intérêt, ce
+n'est pas une faute de plan, mais d'exécution ; car cette répercussion
+de la passion chez les amis du Christ, déplorant son absence, invoquant
+son retour, était susceptible d'une beauté morale et mystique dont le
+poète, malheureusement, ne l'a pas dotée.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1 Jacques, II, 19.</p>
+<p><pb/></p>
+<p>Nous citerions volontiers toute cette controverse étrange ; obligé de
+nous borner, nous transcrirons seulement quelques vers pris dans deux
+endroits différents, et où l'incrédulité sceptique se caractérise
+admirablement elle-même :</p>
+<p><pb/></p>
+<p>Le doute est le seul dieu dont la voix leur réponde ; Car les vents du
+chaos ont soufflé sur le monde.</p>
+<p>0 poètes ! pourquoi faire mentir vos vers ?</p>
+<p>Cet enfant du hasard en a pris tous les traits.</p>
+<p>Si pour contempler l'homme on quitte la nature, L'énigme déplacée en
+devient plus obscure, Et ma multiple forme, au sourire moqueur,</p>
+<p>Est moins inexplicable encor que votre cœur 1. o ...............</p>
+<p>(1 Te le dirai-je, roi ?</p>
+<p>Au matin de mes jours je rêvai comme toi ; Fatigué, tourmenté, sur mon
+rocher énorme,</p>
+<p>De l'énigme du monde et de ma triple forme,</p>
+<p>Je voulus la comprendre, et selon mon pouvoir, Distraire mes ennuis dans
+l'orgueil du savoir.</p>
+<p>Je partis, j'explorai l'univers......</p>
+<p>Et je vis, immobile au pied de ma colonne, Jérusalem mentir autant que
+Babylone ;</p>
+<p>Et lorsque j'entendis vagir le Christ naissant, Long rêve douloureux
+d'un monde vieillissant, Mon œil le reconnut sous ses mythes étranges,</p>
+<p>Et le sang d'Adonis teignait encor ses langes.</p>
+<p>Et mon savoir moqueur, en riant, compara L'agneau de Bethléem au taureau
+de Mithra ;</p>
+<p>Et je dis, soulevant le voile de Marie :</p>
+<p>C'est la mère d'Horus qui change de patrie.</p>
+<p>Dieu n'est point Cesse donc d'ameuter les enfers Contre ce nom rival,
+mort avec l'univers 2. »</p>
+<p>L'art de définir est peut-être celui que M. Soumet possède le mieux ;
+mais la définition la plus poétique n'est pas en elle-même une poésie
+tout entière. La poésie, en général, ne définit pas les objets : elle
+les montre, elle leur donne une forme. Ce que nous de-</p>
+<p>1 Chant IV - 2 Chant VIII.</p>
+<p><pb/></p>
+<p>Cette critique renferme un éloge: du moins elle exclut une critique,
+celle qui voudrait ne voir dans la Divine Epopée qu'un ample recueil de
+beaux vers. Certes il y a mieux que de beaux vers dans le poème de M.
+Soumet ; mais, convenons-en, il y en a tant</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>lecteurs que la douceur ou la sonorité des syllabes dont ils sont
+formés. C'est au vocabulaire spécial de la science, non au dictionnaire
+de tout le monde, que sont empruntés les noms suivants, qui sont
+harmonieux, mais qui pour nous ont le tort de ne rien nommer : l'avonis,
+le nicianiès, l'osmonde, le mélosflore, l'amra, le cymophane,
+l'argyrose, le nialel, l'amphisbène, l'anacandaia, le lophire, l'aurone,
+l'astiale, le coldor, et beaucoup d'autres. Nous ne voudrions pas faire
+rire aux dépens de notre ignorance en confessant, au cas que ces noms
+soient généralement connus, que nous du moins nous ne les connaissons
+pas. Autant eût valu, du temps de Boileau :</p>
+<p>Huer la synecdoque et la métonymie,</p>
+<p>Grands mots (disait-il), que Pradon croit des termes de chimie 1.</p>
+<p>1 BOILEAC, Epître X.</p>
+<p><pb/></p>
+<p>dans ces trois mots que trois combinaisons de syllabes mélodieuses.</p>
+<p>Chaque souffle de l'air est un enfant qui vole 1 ;</p>
+<p>1 Chant Ior.</p>
+<p><pb/></p>
+<p>On dirait qu'au Seigneur nous restons plus fidèles</p>
+<p>En regardant le nid des mêmes hirondelles 1.</p>
+<p>1 Chant VI.</p>
+<p><pb/></p>
+<p>Qu'un seul homme de moins rend la gloire déserte l !</p>
+<p>L'Egypte,</p>
+<p>Où la gloire jamais ne crut qu'aux épitaphes</p>
+<p>1 Chant III. — : Chant VI.</p>
+<p><pb/></p>
+<p>Autel où descendit sur le géant du glaive (Napoléon)</p>
+<p>Le sacre du malheur pour l'absoudre d'un rêve 1 !</p>
+<p>Les globes mesurés circulaient dans sa tête 2.</p>
+<p>Mais l'affectation de la force nous trouvera tous plus indulgents que
+celle de la grâce. Le paradis, les femmes, les anges de la Divine Epopée
+rappellent trop le style des gravures de keepsake. Tout, dans l'ordre
+des idées de paix, de bonheur, d'harmonie, y porte le caractère de la
+femme. Tout est viril dans l'enfer, tout est féminin dans le ciel. Ce
+que l'auteur veut nous faire aimer, il le fait léger, impalpable,
+transparent, rosé, parfumé, mélodieux ; le style est tout velouté, tout
+enrubané, tout plein de mielleuses cajoleries ; la vraie grâce, celle
+dont Milton a décoré l'épouse du premier homme, n'est p int rare dans ce
+poème, mais trop souvent elle dégénère en mignardise. On ne rencontre
+que trop de vers comme ceux-ci :</p>
+<p>Les beaux lis de ses pieds que ton regard altère t.</p>
+<p>Rêve dont l'aile rose a rafraîchi mon front6.</p>
+<p>Avec tes grands yeux noirs, dis, que vois-tu, ma fille ?</p>
+<p>1 Chant VI. — 2 Chant VIII. - * Luc, XIX, 10. — * Chant IX.</p>
+<p>— 6 Chant V.</p>
+<p><pb/></p>
+<p>Toi, que vois-tu, ma fille, avec tes grands yeux bleus' ?</p>
+<p>Je vois un ciel plus beau dans tes regards bleuir</p>
+<p>C'est quand il lui est permis d'être lui-même sous le nom de ses
+personnages, c'est encore quand il sort de son sujet, que M. Soumet est
+éloquent et magnifique. Son poème qui n'est pas parfait, est tout rempli
+de poèmes parfaits ; car ce sont plus que de beaux vers, ces
+comparaisons étendues, ces descrip-</p>
+<p>1 Chant IX. — 2 Chant IX. — 3 Chant I.</p>
+<p><pb/></p>
+<p>Voici la peinture du cheval se débattant sous le cavalier qui le dompte :</p>
+<p>Lorsqu'un chef africain veut dompter les élans</p>
+<p>D'un sauvage étalon, roi des sables brûlants,</p>
+<p>Dans sa nerveuse main frissonne prisonnière :</p>
+<p>Il s'élance, retombe, et deux genoux d'acier Etreignent puissamment les
+flancs bruns du coursier. L'animal étonné, qu'un poids nouveau
+tourmente, Bat son poitrail en feu de sa bouche écumante, Elargit ses
+naseaux, et redouble, heurtés,</p>
+<p>Ses bonds tumultueux au vertige empruntés.</p>
+<p>Son œil indépendant brille en topaze bleue :</p>
+<p>En panache de guerre il agite sa queue ;</p>
+<p>Par ses hennissements il réclame, irrité,</p>
+<p>Loin des jeux du Djérid, l'air de la liberté : S'allonge, s'accourcit,
+se penche, se dérobe ;</p>
+<p>Ses veines en réseau se gonflent sous sa robe.</p>
+<p>Il cache sous ses crins, attristés de l'affront,</p>
+<p>L'étoile de sa race empreinte sur son front ;</p>
+<p>Saute comme un bélier, tourne comme un orage, Sans pouvoir loin de lui
+secouer l'esclavage.</p>
+<p>S'il se dresse en fureur, l'homme, tel qu'un serpent, A son cou qui
+frémit s'enlace et se suspend ; Aiguillonne ses flancs, s'il part comme
+la foudre ;</p>
+<p>S'il se renverse et roule, et sillonne la poudre,</p>
+<p>Son vainqueur suit sa chute, et sans quitter le crin, Soumet sa bouche
+ardente aux morsures du frein.</p>
+<p><pb/></p>
+<p>Ainsi j'asservirai l'amour, flamme irritée, Tourbillon qui m'entraîne en
+sa course indomptée 1.</p>
+<p>Les vers qui suivent sont un tableau de l'industrie, ou plutôt de
+l'industrialisme moderne :</p>
+<p>Le monde se divise, et de ce double camp La moitié la plus vaste échappe
+au Vatican.</p>
+<p>Le vieux catholicisme, enfin forcé d'absoudre, Amoindrit chaque jour le
+cercle de sa foudre. Alors le doute règne et suit en hésitant</p>
+<p>D'un espoir tourmenté le mirage inconstant.</p>
+<p>Et soudain, adorant l'ombre qui l'enveloppe, L'âge de l'industrie, avare
+et dur cyclope, Semble emprunter leur force aveugle aux éléments, Pour
+étouffer l'esprit entre ses bras fumants :</p>
+<p>Le monde dégradé prend la vapeur pour âme ! Fournaise où ne se trempe
+aucun mâle ressort, Nul bouclier divin de ses forges ne sort ;</p>
+<p>Qu'on nous permette encore de citer le morceau suivant sur la Russie :</p>
+<p>1 Chant V. - 2 Ibid.</p>
+<p><pb/></p>
+<p>Aux limites du globe adossée et durcie, Colosse de frimas, la sauvage
+Russie,</p>
+<p>Ce fut un éléphant monté par la victoire, Qui, fier d'avoir courbé sous
+ses pesantes lois La Perse où je (Napoléon) voulais exiler ses exploits,
+Revient vers l'Occident avec ses tours guerrières ; Sa trompe de
+l'Europe arrache les barrières ; De son ciel despotique il nous porte la
+nuit. Ecrasant quelquefois le czar qui le conduit, Dotant son dur pays
+des délices du nôtre, Avançant chaque siècle un pied après un autre,
+Ainsi que le Danube il traverse le Rhin ;</p>
+<p>Son sillon d'esclavage est creusé dans l'airain. S'il se couche un
+moment sur le sol qu'il dérobe, Il prend, pour son sommeil, tout un côté
+du globe ; Et pour sortir vainqueur du funeste défi, Au monstre
+belliqueux cinq cents ans ont suffi1.</p>
+<p>Mais rien n'est peut-être plus grandiose, et ne donne aussi bien la
+mesure de M. Soumet, que le morceau par lequel s'ouvre son poème, et qui
+présente son dessein sous une forme allégorique :</p>
+<p>1 Chant VI.</p>
+<p><pb/></p>
+<p>Un grand aigle, planant sur un ciel nuageux,</p>
+<p>Veut savoir s'il est roi de l'empire orageux,</p>
+<p>Son vol s'y plonge... il vient, l'aile sur sa conquête, Se placer, comme
+une âme, aux flancs de la tempête ; Et surveiller, de près, tous les
+feux dont a lui</p>
+<p>Ce volcan voyageur qui s'élance avec lui.</p>
+<p>Mais brisé dans sa force, il hésite, il tournoie ; L'horizon de la
+foudre autour de lui flamboie,</p>
+<p>Et, sous le vent de feu courbant son vol altier,</p>
+<p>Ce roi de la tempête en est le prisonnier.</p>
+<p>Emblème tourmenté de l'existence humaine,</p>
+<p>Un tourbillon l'emporte, un autre le ramène ;</p>
+<p>Son cri royal s'éteint au bruit tonnant des airs ; Un éclair vient
+brûler son œil rempli d'éclairs. Alors, tout effaré, comme un oiseau de
+l'ombre,</p>
+<p>Ou pareil, dans la nue, au navire qui sombre,</p>
+<p>On voit, aux profondeurs de cet autre .océan, Flotter, demi-noyé,
+l'aigle aveugle et béant.</p>
+<p>La grêle bat son flanc qui retentit... L'orage, Comme un premier
+trophée, emporte son plumage.</p>
+<p>Il cherche son soleil : mais, d'ombres tout chargé, Sur un écueil des
+cieux le soleil naufragé</p>
+<p>A perdu, comme lui, son lumineux empire :</p>
+<p>Son disque défaillant dans le nuage expire ;</p>
+<p>Et l'ouragan, vainqueur de son triste flambeau, Engloutit l'aigle et
+l'astre en un même tombeau 1.</p>
+<p>Nous citerions une quantité de morceaux dignes de figurer avec ceux-ci :
+ainsi la description de Con- stantinople 2 ; le Stabat de Pergolèse 3 ;
+la fête de</p>
+<p>1 Chant Ier. — 2 Chant IV. — 3 Chant Ier. — 4 Chant IV. —</p>
+<p>5 Chant VII.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>— Et qui semblait porter, magnifique parure,</p>
+<p>Une triple auréole au lieu de chevelure 2.</p>
+<p>... Que sous son froid ciseau ne rencontrerait pas,</p>
+<p>Des formes du génie essayant le mélange,</p>
+<p>Phidias évoqué pour sculpter un archange 3.</p>
+<p>Ici c'est un vers tout entier qui marque le pas entre deux autres :</p>
+<p>Afin d'y consacrer, merveille illuminée,</p>
+<p>Du marteau de Cambyse et du sceptre romain 6.</p>
+<p>— Sentiez-vous auprès d'eux, charme qu'on ne peut dire,</p>
+<p>Se fondre votre cœur dans leur premier sourire 6 ?</p>
+<p>Le procédé est souvent appliqué avec beaucoup d'adresse et de bonheur ;
+mais les vers qu'on vient de lire prouvent que ce bonheur n'est pas
+constant. Dans un distique tel que celui-ci :</p>
+<p>1 Chant IV. — * Chant V. — 8 Chant V. — * Chant VI. — 8 Chant</p>
+<p>VI. - « Chant VI.</p>
+<p><pb/></p>
+<p>OEdipe enfin triomphe ; aveugle radieux,</p>
+<p>L'Euménide pour lui frappe aux portes des Dieux 1 ; la cheville est un
+clou d'or ; mais trop souvent c'est une cheville et qui n'est pas même
+rivée.</p>
+<p>LETTRE DE SOUMET A VINET 2</p>
+<p>MONSIEUR,</p>
+<p>Permettez-moi de vous remercier de la constance infatigable avec
+laquelle vous avez analysé mon poème ; c'est pour moi un beau triomphe
+d'avoir attiré l'attention d'un critique aussi haut placé que vous, et
+je profiterai avec empressement et bon-</p>
+<p>1 Chant V.</p>
+<p>' Numéro du 2 juin 1841.</p>
+<p><pb/></p>
+<p>heur, pour ma prochaine édition, de quelques idées développées dans
+votre dernier article.</p>
+<p>Voici ce qu'on lit dans ma préface :</p>
+<p><pb/></p>
+<p>Jamais profession de foi fut-elle plus entière ? pourquoi donc élever un
+débat qu'elle rend impossible ? pourquoi s'armer de tout un Dieu contre
+le néant d'un rêve épique ? pourquoi invoquer l'éternelle vérité à
+propos d'un livre où l'auteur a écrit lui-même sur le frontispice :
+MENSONGE ! ! !</p>
+<p>Je m'arrête ... Mais peut-être votre devoir de</p>
+<p><pb/></p>
+<p>J'ai l'honneur d'être avec une haute considération,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>ALEXANDRE SOUMET.</p>
+<p>Paris, ce 21 mai 1841.</p>
+<p>RÉPONSE DE VINET 1</p>
+<p>M. Soumet a rendu justice au sentiment qui nous a rendu sévère envers
+son ouvrage. Il ne nous appartenait pas de l'être pour notre compte ;
+mais nous étions tenu de l'être pour le compte des principes ; la
+conscience même de notre faiblesse ne nous en</p>
+<p>1 Semeur, 2 juin 1841.</p>
+<p><pb/></p>
+<p>dispensait pas. M. Soumet l'a compris, et nous l'en remercions.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Mais non, non, il n'en est point ainsi, et je désavoue l'une et l'autre
+supposition. Non, il ne raille ni ne badine, celui qui nous fait part,
+avec une si noble candeur, des expériences de sa vie, celui qui a connu
+« les miraculeux apaisements de la miséricorde divine, » celui qui a
+senti « la force rédemptrice triompher en lui du désespoir, » et «
+Jésus- Christ descendre lui-même pour le racheter dans l'enfer de son
+âme. » Nous bénissons ces touchantes paroles qui nous rendent l'homme et
+le chrétien où nous n'avions rencontré que le poète, et nous lui offrons
+de bon cœur, de bien bas sans doute, la main d'association.</p>
+<p>Notre estime pour M. Soumet sort de cette courte polémique aussi entière
+que notre admiration pour son talent. Une critique sérieuse est si
+rarement acceptée, alors même qu'on ne la redoute pas ! M. Soumet, en
+l'accueillant, en l'honorant, s'il nous est permis de le dire, a bien
+montré quel il est, et nous a fait comprendre qu'en fait de procédés et
+de sentiments, il est franc de toute hérésie 1.</p>
+<p>A. V.</p>
+<p>1 La lettre de Vinet est suivie, dans le Semeur de ce Post-scripium :</p>
+<p><pb/></p>
+<p>LETTRE DE VINET A SOUMET</p>
+<p>Montreux, 5 juin 1841.</p>
+<p>Monsieur,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Je ne dirai plus qu'un mot : un homme dont l'autorité est bien grande
+(il suffirait de le nommer), trouve que je n'ai pas été complètement
+juste ; j'ose lui répondre que, si je ne l'ai pas été, c'est que je n'ai
+pas eu le temps de l'être. Je serai heureux, Monsieur, si vous croyez à
+la droiture de mon intention, et si vous ne doutez ni de la sincérité de
+mon admiration, ni de celle du respect avec lequel j'ai l'honneur d'être,</p>
+<p>Monsieur, votre très humble et très obéissant serviteur.</p>
+<p>VINET.</p>
+<p>RÉPONSE DE SOUMET A VINET</p>
+<p>Ce 20 août 1841.</p>
+<p>Monsieur,</p>
+<p>Comment avez-vous pu croire que ma susceptibilité s'était alarmée de
+votre réponse insérée dans le Semeur ? J'espérais que l'ouvrage, dont
+vous aviez rendu un compte si magnifique, vous avait révélé mon âme et
+que vous ne pouviez me supposer atteint des misérables vanités si
+communes aujourd'hui dans notre littérature. Le sentiment de la
+reconnaissance est le seul qui m'eût été inspiré par vos beaux articles,
+renfermant assez d'éloges pour consoler de toutes les critiques.</p>
+<p><pb/></p>
+<p>Mais je m'aperçois que mon ardeur philosophique m'entraîne trop loin.</p>
+<p>Pardon si je n'ai pas tracé moi-même cette lettre, mes pauvres yeux me
+refusent leur secours.</p>
+<p>Agréez, je vous prie, le témoignage de mes sentiments les plus distingués.</p>
+<p>Alex. SOUMET.</p>
+<p><pb/></p>
+<p>ULRIC GUTTINGUER</p>
+<p>ARTHUR, OU RELIGION ET SOLITUDE</p>
+<p>Un volume in-8°. — 1834.</p>
+<p>PREMIER ARTICLE 1</p>
+<p>1 Semeur, 24 juin 1835.</p>
+<p><pb/></p>
+<p>L'oeuvre de Dieu pour la conversion des âmes est évidemment construite
+sur un plan ; ce plan lui-même a dû être pris sur les dispositions
+actuelles de la nature humaine ; l'adaptation de l'œuvre au plan, et du
+plan aux données psychologiques et naturelles, constitue sans doute un
+véritable système ; la conversion, par conséquent, et le salut s'opèrent
+d'après un système ; et des observations mille fois répétées ont dû
+faire démêler dans l'histoire du plus grand événement moral, je veux
+dire de la conversion, un ordre général que les théologiens ont appelé
+l'ordre de la grâce divine, et qu'ils ont essayé de retracer. Mais bien
+des causes, qu'on peut facilement supposer sans que je les indique, ont
+de plus en plus, dans la pensée des théologiens, resserré vers son
+centre le cercle immense où se meut librement et par mille
+circonvolutions, la divine miséricorde du Père des esprits. La marche de
+la conversion a été écrite une fois pour toutes, son histoire
+invariablement tracée, toutes les âmes sommées, pour ainsi dire, de
+partir du même point et d'arriver par le même</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>constances de tout genre des données premières que Dieu a disposées à
+l'avance, les observer avec une attention tranquille, n'écrire
+l'histoire des faits qu'après les faits accomplis, et jamais l'histoire
+de chaque fait comme celle d'un autre, et enfin nous réjouir, en
+rapprochant toutes ces histoires, de voir, du sein de leur infinie et
+brillante diversité, ressortir une unité majestueuse, l'unité des grands
+traits et non celle des formes et des incidents ?</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>« Il n'est pas bon que l'homme soit seul 1. » L'association, quelque
+abus qu'on en fasse, est pourtant la condition de presque tous les
+développements ou perfeo tionnements. Mais si rien ne s'accomplissait
+hors d'elle, aurait-on l'occasion de constater d'une manière irrécusable
+ce que peut, dans l'absence de tout intermédiaire, la vérité mise en
+contact avec l'âme ou l'intelligence ? Le résultat, dans des cas
+pareils, pourra manquer de perfection, de plénitude, de régularité ;
+mais il sera pur, le document sera authentique, le témoignage sera naïf
+; et bien des instructions précieuses pourront en ressortir pour les
+esprits attentifs et réfléchis, surtout pour le. esprits candides.</p>
+<p>1 Genèse, II, 18.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Pour aujourd'hui, je me sépare d'Arthur, mais c'est pour y revenir
+bientôt : puissè- je y ramener mon lecteur 1</p>
+<p><pb/></p>
+<p>DEUXIÈME ARTICLE 1.</p>
+<p>1 Semeur, 1er juillet 1835.</p>
+<p><pb/></p>
+<p>mieux jouir du coup d'œil ; je restai saisi d'une grande et sainte
+admiration.</p>
+<p>1 Arrivée dans la solitude.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Les maximes contenues dans l'Ancien Testament me paraissent témoigner au
+même degré d'une haute sagesse et d'une civilisation très avancée.</p>
+<p>L'étude des événements qu'il renferme est souvent triste et d'une
+atrocité qui jette dans l'âme le doute le plus amer, et presque le
+désespoir.</p>
+<p>Il en est tout autrement de la méditation de la sagesse répandue en tant
+d'endroits de ce livre des livres, de cette source de poésie, de morale,
+de prudence et de piété. La sagesse y prend souvent un langage adorable,
+piquant, enchanteur, spirituel et divin 1.</p>
+<p>1 De la Bible.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Que je porte légèrement le poids des fautes passées ! et cependant que
+ces fautes sont grandes !</p>
+<p>Mon Dieu ! cette sécurité est-elle un piège de votre immortel ennemi, de
+celui des hommes, ou un signe de votre clémence et de votre prédilection ?</p>
+<p>Eh 1 de quoi, mon Dieu, me récompenseriez-vous ?</p>
+<p>Si j'avais eu la force de faire le mal tout entier, ne l'aurais- je pas
+fait ? N'en ai-je pas eu l'intention, la volonté ? Ne l'ai-je pas tenté
+? Ne vous ai-je pas maudit avec fureur de m'avoir retiré les moyens de
+le faire ? N'ai-je pas pleuré, avec des cris de rage, de l'impuissance
+où vous m'aviez mis de ne pas devenir le plus misérable et le plus
+infortuné des hommes ? Ne vous ai-je pas maudit pour cette dernière voix
+que vous aviez placée dans mon cœur, qui criait sans cesse pour
+m'arrêter, et m'arrêtait sur les bords du plus profond de l'abîme ?
+N'ai-je pas fait comme celui qui insulterait l'homme qui l'aurait retiré
+du précipice, parce qu'il l'en aurait enlevé sanglant et déchiré ? De
+quoi donc puis-je me prévaloir envers vous, ô Seigneur ! et comment
+ai-je mérité la paix que vous m'accordez ?</p>
+<p>Ah ! que vous me rendez confus et reconnaissant1 1</p>
+<p>1 Méditations. 1.</p>
+<p><pb/></p>
+<p>Nous le demandons, ne vaut-il pas mieux sentir ces choses que de les
+savoir ?</p>
+<p>Si vous m'épargnez vos châtiments, ô mon Dieu ! c'est que vous lisez
+dans mon âme tout cet amour qui m'est venu pour vous. Mais puis-je faire
+valoir cet amour comme un mérite, quand c'est un don si grand de votre
+grâce, quand j'y trouve tant de bonheur 1 ?</p>
+<p>1 De la Prière..</p>
+<p><pb/></p>
+<p>1 Méditations. XI.</p>
+<p><pb/></p>
+<p>La bonne, interdite et surprise, me dit : « C'est ce vieux auquel
+Monsieur fait donner du pain... Il est bien malheureux ! »</p>
+<p>— Mais, c'est que...vraiment!... Oh! n'est-ce pas, Monsieur, il est
+affreux ! »</p>
+<p>1 Fragments. VIII.</p>
+<p><pb/></p>
+<p>Contemplons ! admirons ! adorons !... Qu'elles sont ravissantes, les
+fleurs du ciel échappées des mains de tes anges,</p>
+<p>ô Seigneur !</p>
+<p>Nous nous sommes prescrit de ne relever que les côtés les plus sérieux
+du livre que nous examinons</p>
+<p>1 Fragments. XI.</p>
+<p><pb/></p>
+<p>1 Knapp, poète allemand, a montré, dans un admirable morceau sur la
+cathédrale de Strasbourg, comment on peut parler de ces monuments en
+poète et en chrétien. Voir la Christoterpe de 1833.</p>
+<p>2 M. Nisard, dans son beau livre sur les poètes latins de la décadence,
+a signalé ce caractère dans la littérature de notre époque.</p>
+<p><pb/></p>
+<p>causes profondes ; il est l'effet, en même temps que le symbole, de
+l'état actuel de la morale et de la société.</p>
+<p>Ce ne sont plus de ces clartés limpides et douces qu'il faut aux hommes
+de ce siècle ; ce sont des feux rouges et éclatants, auxquels on se brûle.</p>
+<p>Les voix calmes ne sont plus entendues. Les honnêtes gens eux-mêmes sont
+en colère. Ce ne sont que passions et violences dans les affaires
+publiques et particulières.</p>
+<p>C'est que l'Evangile est oublié, méconnu, repoussé... C'est que, d'un
+autre côté, la jeunesse s'enflamme aux écrits d'éloquence, sublime, il
+est vrai, dans quelques parties, mais violente, passionnée, égarée, dont
+on la nourrit.</p>
+<p>C'est que ces écrits si pleins d'images, de mouvements et de toutes
+sortes de magies, ne contiennent au fond ni vérité divine ni sagesse.</p>
+<p>Et quand ce ne sont point de ces paroles retentissantes, enflammées, ce
+sont des discussions, des analyses d'une remarquable finesse et
+subtilité ; c'est une dissection, une anatomie du corps social, savante,
+si l'on veut, profonde et curieuse ; mais tout cela encore trop
+difficile, trop ardu, et poussant les esprits vers une recherche ardente
+de vérités</p>
+<p><pb/></p>
+<p>Qu'aucun autre docteur ne m'explique tes lois ;</p>
+<p>Que toute créature, en ta sainte présence,</p>
+<p>S'impose le silence</p>
+<p>Et laisse agir ta voix 2.</p>
+<p>Encore une remarque, et que le génie de la critique nous laisse en
+repos. La préface d'Arthur nous fait en-</p>
+<p>1 Contemporains. — 2 P. CORNEILLE, traduction de l'Imitation de</p>
+<p>Jésus-Christ.</p>
+<p><pb/></p>
+<p>TROISIÈME ARTICLE 2.</p>
+<p>Deuxième édition d' « ARTHUR». — 1837.</p>
+<p>1 Arthur a été publié, en 1834, sans nom d'auteur. (Edit.)</p>
+<p>2 Semeur, 26 juillet 1837.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Qu'il soit bien entendu, au reste, que c'est la forme générale, le
+cadre, que nous nous permettons de critiquer ; le fond nous a paru, en
+général, solide et précieux autant que touchant. Nous aimons à
+reconnaître partout une âme sérieuse et mûrie. L'intention toute
+chrétienne de l'auteur nous est évidente. Nous le louons en particulier
+d'avoir été sobre, ou plutôt de s'être entièrement abstenu de ces
+détails de passion que ses souvenir- lui fournissaient en trop grande
+abondance, et qui pouvaient aisément tenter un talent de la nature du
+sien. t( Quel que soit, dit-il, le dessein moral de la</p>
+<p><pb/></p>
+<p>1 Introduction.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1 Esaïe, VIII, 20. - 2 Math. XII, 45; Luc, XI, 25. - 3 Jean,</p>
+<p>X, 28.</p>
+<p><pb/></p>
+<p>O Navis, referent in mare te novi</p>
+<p>Fluctus1 !....</p>
+<p>et quelque chose peut-être de ce qui suit...</p>
+<p>1 HORACE, Odes, Livre I, ode XIV : « 0 navire 1 de nouveaux flots
+t'emporteront vers la haute mer » [si tu t'éloignes du port.] P. S.</p>
+<p><pb/></p>
+<p>GEORGE SAND</p>
+<p>A propos du livre de M. le comte</p>
+<p>THÉOBALD WALSH</p>
+<p>1 Semeur, 14 juin 1837.</p>
+<p><pb/></p>
+<p>Quand on voit la littérature d'un peuple revêtir simultanément deux
+caractères si opposés, on se demande peut-être ce que devient le fameux
+axiome :</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Tel fut le mouvement des esprits, lorsque, vers le 18 brumaire, la
+littérature se présenta de nouveau pour embellir les bienfaits de
+l'ordre renaissant et les loisirs de la paix intérieure. Ce que cette
+nouvelle littérature apporta d'idées subversives de tout ordre ne
+saurait s'imaginer. La liberté du divorce jusqu'au point d'une
+promiscuité brutale, l'adultère élevé presque au rang de vertu, la
+maternité hors du mariage rendue respectable, le suicide préconisé, et
+partout les croyances religieuses mises en état de suspicion,</p>
+<p><pb/></p>
+<p>telles sont les idées que les romans et les drames de cette époque
+recommandèrent avec sérieux, avec une chaleur passionnée, et, on doit le
+dire, avec l'accent de la conviction.</p>
+<p><pb/></p>
+<p>Sous l'Empire, la morale et la religion, l'ordre social par conséquent,
+devinrent choses officielles, vérités de convention. La littérature de
+cette époque est généralement une honnête littérature ; tout tend au bon
+et au vrai, mais c'est un vrai sans portée, un bon sans élan; le
+désordre extérieur se tait,, mais rien ne se construit, rien ne prend
+vie ; en morale</p>
+<p><pb/></p>
+<p>comme en religion, cette période n'a rien fondé ni rien préparé.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ÉMILE SOUVESTRE</p>
+<p>RICHE ET PAUVRE</p>
+<p>2 vol. in-8°. — 1836 1.</p>
+<p>1 Semeur, 7 décembre 1836.</p>
+<p><pb/></p>
+<p>humanitarismes, l'un de tête et l'autre de coeur ; nous avons dit notre
+avis sur le premier : assurons le second de notre sympathie. Il se
+trompe, nous en avons la conviction ; mais il n'y aurait pas de plus
+belle erreur, si l'erreur pouvait être belle.</p>
+<p><pb/></p>
+<p>M. Souvestre, l'un de ces esprits d'élite qui se sont aimantés au
+contact du saint-simonisme, est bien loin de se faire un objet d'art,
+c'est-à-dire un jeu, des souffrances de l'humanité ; mais il ne s'est
+pas toujours défendu de cette amertume que le christianisme transforme
+en une tristesse calme et sérieuse. L'indignation déborde dans son
+Echelle de Femmes, ouvrage plein d'imagination et d'esprit, et, ce qui
+vaut mieux encore, d'une compassion généreuse, où l'on voit l'auteur
+chercher dans tous les rangs de la société la preuve qu'un sexe tout
+entier est la victime des iniquités de l'autre. Il est impossible d'être
+plus vrai dans le détail, plus poignant, plus douloureux ; impossible de
+s'identifier plus complètement avec chaque souffrance, d'en mieux
+exprimer tout le fiel. On est positivement malheureux de cette lecture
+où le talent et l'esprit semblent devenir pour l'âme des instruments de
+supplice ; on trouve l'auteur cruel envers son lecteur, et même envers
+la-portion de l'humanité dont il plaide la cause ; on le trouve cruel
+envers lui-même, qu'il a contraint de séjourner au milieu de tant de
+douleurs pour en recueillir les moindres sanglots. On sent (et c'est ce
+qui rend l'impression presque désespérante), on sent que toutes choses
+ont pu, ont même dû se passer ainsi ; et sans peine on se porterait
+garant du moindre détail de chacune de ces histoires. Mais, aprèù tout,
+on se demande ri l'écrivain a été</p>
+<p><pb/></p>
+<p>Toutefois il est beau d'espérer, et plus beau encore de se dévouer sans
+espérance ; mais, au reste, quand est-on guéri d'espérer ? On ne
+croirait pas</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1 Après avoir montré le malheur d'être pauvre, il semble que</p>
+<p>Chirurgien de marine, récit inséré dans la Revue de Paris du 6 novembre
+1836, et dont nous détachons deux fragments :</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>1 Psaume LI, 7. - 2 Matthieu, XXVI, 11.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>l'idéal de la médiocrité d'âme, des caractères effacés</p>
+<p>Souvestre jaillissent des faits, comment ces faits eux-mêmes se tournent
+en maximes, et comment la simple narration devient chez lui de
+l'enseignement :</p>
+<p><pb/></p>
+<p>tres doués d'un esprit moins négatif ou de passions plus vives eussent
+critiqué et calomnié, uniquement pour faire quelque chose.</p>
+<p>Et pourtant il y avait bien aussi dans cette enfant de douces et de
+séduisantes grâces ! Descendue du piédestal et dépouillée de ses
+draperies de déesse, cette pauvre fille eût été charmante ; mais la
+poésie de son âme était, comme celle de son visage, plus aimable
+qu'élevée ; il lui manquait ce quelque chose de grave et de saint qui
+marque les natures d'élite. C'était un de ces anges terrestres auxquels
+il n'était poussé que deux ailes, la tendresse et la bonté, ailes trop
+faibles pour l'emporter dans les sphères sublimes de l'amour. Un bonheur
+de la terre lui suffisait, et elle n'avait jamais désiré les sacrifices.</p>
+<p><pb/></p>
+<p>Ces citations feront apprécier l'un des mérites par lesquels l'auteur de
+Riche et Pauvre a remplacé celui des créations aventureuses qui nous
+portent sans</p>
+<p>1 Tome I, Chapitres VII et VIII.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Sans contredit, le dévouement est l'unique consolation et l'unique
+bonheur ; et cette idée est, en morale, la porte qui s'ouvre entre
+l'erreur et la vérité. Mais cette porte, il faut la passer. Or, l'idée de</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Je n'ai pas su me garantir des longueurs que je</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>GUSTAVE DROUINEAU</p>
+<p>CONFESSIONS POÉTIQUES 1</p>
+<p>1 Semeur, 12 février 1834.</p>
+<p><pb/></p>
+<p>A la vérité, l'auteur a pu être bien aise de faire une expérience en
+même temps qu'une confession. Il a</p>
+<p><pb/></p>
+<p>voulu (c'est lui qui nous l'apprend) faire entrer la psychologie dans le
+domaine de la poésie. Louable dessein, s'il n'était pas accompli depuis
+longtemps. La poésie, en tant qu'elle fait de l'homme son objet, n'est
+guère autre chose que de la psychologie appliquée. Si elle ne traite pas
+les questions ex cathedrâ, elle n'en est pas pour cela moins vraie,
+moins instructive ; elle l'est davantage peut-être ; et elle a la
+vivacité par-dessus. Je ne sais si les poètes dramatiques ne sont pas
+les premiers des psychologistes ; du moins est-il vrai de dire, avec
+Vauvenargues, « qu'il est plus facile de caractériser les hommes que de
+faire qu'ils se caractérisent eux-mêmes. »</p>
+<p><pb/></p>
+<p>parlaient d'eux-mêmes que peu et rarement ; et si de temps en temps ils
+prenaient une place dans un coin de leurs tableaux, l'œil du lecteur les
+cherchait avec complaisance dans ce réduit modeste ; et le peu qu'ils
+révélaient d'eux-mêmes, arraché d'ordinaire par une vive émotion, était
+précieusement recueilli.</p>
+<p><pb/></p>
+<p>de sa jeunesse. Il a mêlé, fondu tous ses chagrins ensemble, les plus
+mystiques avec les plus vulgaires, et en a composé une sorte de maladie
+poétique dont il dit avoir été guéri par la foi.</p>
+<p>Je ne me suis pas dit dans un stérile orgueil :</p>
+<p>« Mon feu ranimera notre foi presque éteinte. »</p>
+<p>L'hôte nouveau se tient humblement près du seuil.</p>
+<p>Nous ne le croyons pas. D'abord, parce que la des-</p>
+<p><pb/></p>
+<p>Pourquoi ne consulter que vos tristes sciences !</p>
+<p>N'entendez-vous jamais crier vos consciences ?</p>
+<p>Mais il n'approfondit point cette idée ; et le fait qui domine dans la
+religion de tous les peuples, qui a créé</p>
+<p><pb/></p>
+<p>Le sens dans lequel on reçoit l'Evangile détermine jusqu'au ton et aux
+couleurs dont on fait usage pour</p>
+<p><pb/></p>
+<p>le célébrer. Je n'ai pas besoin que M. Drouineau me récite son credo
+pour savoir quelle est la nature de son christianisme. Son style est un
+symbole tout entier, du moins un symbole négatif. Jamais un chrétien
+dans le sens des apôtres et des pères n'eût trouvé sous les arceaux des
+vieilles basiliques quelque chose qui s'appelle</p>
+<p>Volupté rêveuse des pleurs.</p>
+<p>Je ne sais si le P. Berruyer lui-même, qui a traduit la Bible en roman,
+eût dit que Jésus-Christ sur le Calvaire était</p>
+<p>Heureux de ses douleurs qui rachetaient la terre.</p>
+<p>Enfin, je ne crois pas qu'aucun interprète candide de la doctrine
+évangélique en reconnût l'esprit et le langage dans les vers suivants :</p>
+<p>Heureux qui, de la foi méditant le mystère,</p>
+<p>Dans le cœur d'une épouse, habile solitaire,</p>
+<p>Cultive l'humble enclos tracé par ses aïeux,</p>
+<p>Elève ses enfants dans la crainte des cieux,</p>
+<p>Et s'exerce aux vertus : les vertus sont les ailes</p>
+<p>Qui rapprochent les cœurs des voûtes éternelles.</p>
+<p><pb/></p>
+<p>En vain pour rappeler ces beaux rêves qu'on pleure</p>
+<p>Comme on songeait alors on ne peut plus songer.</p>
+<p><pb/></p>
+<p>Mais jamais dans les airs mon aile balancée</p>
+<p>N'a fermé sans fléchir la courbe commencée.</p>
+<p>Et, seul, j'encourageai ma fierté délaissée</p>
+<p>A languir, auguste rebut.</p>
+<p>ni, comme dans la même pièce :</p>
+<p>Un nom 1 c'est un garant pour les écrits de l'homme,</p>
+<p>Il faut en renouer le culte interrompu.</p>
+<p>Il évitera les ellipses dures et les appositions disgracieuses que
+présentent les vers suivants :</p>
+<p>Tout repose harmonie</p>
+<p>La foi</p>
+<p>Porte les monts, dans l'Idumée</p>
+<p>Brille étendard....</p>
+<p>... Le bloc du granit colossal,</p>
+<p>Etendu lourdement, abrupte seigneurie.</p>
+<p>Mais on me la ravit esclave par l'hymen.</p>
+<p>Rêvant des traits de femme, ange qui m'appartienne.</p>
+<p><pb/></p>
+<p>C'est un souple parler, naïve poésie,</p>
+<p>Qui se plaît dans le coeur ;</p>
+<p>et il ne gâtera plus sa diction par des expressions comme les suivantes,
+qui sont de véritables contorsions du style :</p>
+<p>De ses tremblantes mains élevant sur sa tête</p>
+<p>Le prestige lointain du calice doré.</p>
+<p>Le tiède éclat du jour.</p>
+<p>La nature</p>
+<p>Vous imprègne de son repos.</p>
+<p>Le ciel</p>
+<p>Ce sublime manteau de mondes tacheté.</p>
+<p>Par sa tendresse évaporant sa vie.</p>
+<p>Le malheur me tient-il d'un bras raide et plombé ?</p>
+<p>Jamais plombé n'a eu cette acception.</p>
+<p>Quand on est fustigé d'une voix qui dit : Va !</p>
+<p>Qui l'aime ne saurait l'aimer du bout des lèvres.</p>
+<p>Mais par instants il faut briser ce deuil.</p>
+<p>Méditer l'ouragan qui mange les rivages,</p>
+<p>etc., etc.</p>
+<p>Il ne dira donc plus :</p>
+<p>Byron loin d'Ecosse emporté ;</p>
+<p>pas davantage :</p>
+<p>Il en est de plus bel le ;</p>
+<p>encore moins :</p>
+<p>Toi qui donne une éternité.</p>
+<p>et :</p>
+<p>Elle qui m'eût partout suivie.</p>
+<p>Il ne lui en coûtera plus rien de choisir de préférence</p>
+<p><pb/></p>
+<p>Un cœur tel que le tien devait être nié,</p>
+<p><pb/></p>
+<p>APPENDICE</p>
+<p>PORT-ROYAL, PAR M. SAINTE-BEUVE</p>
+<p>Tome Ier J.</p>
+<p>1 Courrier suisse, 29 mai 1840. Voir Préface p. XLIV.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>peut l'être mal ; on n'est très sûr que de ce qu'on sait de très près 1. »</p>
+<p>1 Tome Ier, page 83.</p>
+<p><pb/></p>
+<p>surés et les mieux sentis (cela marche de front) aux grandes
+manifestations d'un principe divin dans les personnages éminents de
+cette histoire. Ce livre est, pour le moins, un livre de bonne foi.</p>
+<p>triste de Port-Royal dans nos riantes contré^:;Ces-res- souvenirs nous
+honorent ; n'oserons-nous p^ dire qi(J:ls honorent l'écrivain célèbre
+qui s'est compila içs jsènïet'</p>
+<p>dans son ouvrage ?</p>
+<p><pb/></p>
+<p>TABLE DES MATIERES</p>
+<p>Pages</p>
+<p>PRÉFACE V</p>
+<p>I. SAINTE-BEUVE.</p>
+<p>CHAPITRE PREMIER : VOlUpté 1 CHAPITRE DEUXIÈME : Pensées d'août ... 19</p>
+<p>Premier article 19 Deuxième article 32</p>
+<p>CHAPITRE TROISIÈME : Port-Royal .... 48</p>
+<p>Premier article 48 Deuxième article 62</p>
+<p>II. EDGAR QUINET.</p>
+<p>CHAPITRE PREMIER : Ahasvérus 85</p>
+<p>Premier article 85 Deuxième article 107 Post-scriptum 122</p>
+<p>CHAPITRE DEUXIÈME : Prométhée .... 127</p>
+<p>Premier article 127 Deuxième article 141 Troisième article 160</p>
+<p>III. MICHELET.</p>
+<p>CHAPITRE PREMIER : Histoire de France</p>
+<p>(Ier et IIe volume) 185</p>
+<p>Premier article 185 Deuxième article 195</p>
+<p>CHAPITRE DEUXIÈME : Histoire de France</p>
+<p>(IIIe volume) ......... 211</p>
+<p><pb/></p>
+<p>Pages</p>
+<p>CHAPITRE TROISIÈME : Histoire de France</p>
+<p>(IVe, Ve et VIe volumes).... 227</p>
+<p>Premier article 227 Deuxième article 240</p>
+<p>IV. MIGNET.</p>
+<p>Notices et Mémoires historiques 254</p>
+<p>Premier article 254 Deuxième article 265</p>
+<p>V. ALEXANDRE SOUMET.</p>
+<p>VI. ULRICH GUTTINGUER.</p>
+<p>Arthur ou Religion et Solitude 382</p>
+<p>Premier article 382 Deuxième article 393 Troisième article 407</p>
+<p>VII. GEORGE SAND.</p>
+<p>(A propos du livre du comte Théobald Walsh) 420</p>
+<p>VIII. ÉMILE SOUVESTRE.</p>
+<p>L'Echelle des femmes et Riche et Pauvres... 433</p>
+<p>IX. GUSTAVE DROUINEAU.</p>
+<p>Confessions poétiques 454</p>
+<p>APPENDICE. SAINTE-BEUVE.</p>
+<p>:by\</p>
+<p>Port-Royal ......... J 3 M •.. i &lt;\. 466</p>
+<p>i</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>Volumes publiés par la Société d'Edition Vinet</p>
+<p>DISCOURS SUR QUELQUES SUJETS RELIGIEUX</p>
+<p>Texte avec les variantes des éditions successives.</p>
+<p>Préface de A. CHAVAN.</p>
+<p>Prix : 10 fr.</p>
+<p>NOUVEAUX DISCOURS</p>
+<p>SUR QUELQUES SUJETS RELIGIEUX</p>
+<p>Texte avec les variantes des éditions successives.</p>
+<p>Préface de A. CHAVAN.</p>
+<p>Prix : 8 fr.</p>
+<p>ÉTUDES</p>
+<p>SUR LA</p>
+<p>LITTÉRATURE FRANÇAISE AU XIXe SIÈCLE</p>
+<p>Préfaces de P. SIRVEN.</p>
+<p>Tome 1er. Mme DE STAEL ET CHATEAUBRIAND</p>
+<p>Prix: 12 fr.</p>
+<p>Tome II. LAMARTINE ET VICTOR HUGO</p>
+<p>Prix : 10 fr.</p>
+<p>Tome III. SAINTE-BEUVE, EDGAR QUINET, MICHELET, ETC.</p>
+<p>Prix : 12 fr.</p>
+<p>PHILOSOPHIE MORALE ET SOCIALE</p>
+<p>Préfaces de PH. BRIDEL.</p>
+<p>Tome 1er. — Prix : 10 fr.</p>
+<p>Tome Il. — Prix : 10 fr.</p>
+<p>PHILOSOPHIE RELIGIEUSE</p>
+<p>Préface de Pu. BIUDEL.</p>
+<p>Prix : 14 fr.</p>
+    </div>
+    </body>
+  </text>
+</TEI>

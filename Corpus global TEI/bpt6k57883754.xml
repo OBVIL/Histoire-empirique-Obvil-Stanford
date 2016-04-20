@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Lisle, Jacques-Alric">Jacques-Alric Lisle</author>
+<title>Essai sur les théories dramatiques de Corneille, d'après ses discours et ses examens, thèse pour le doctorat, présentée à la Faculté des lettres de Paris, par J.-A. Lisle,...</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Lisle, Jacques-Alric</author>, <title>Essai sur les théories dramatiques de Corneille, d'après ses discours et ses examens, thèse pour le doctorat, présentée à la Faculté des lettres de Paris, par J.-A. Lisle,...</title>, <date>1852</date>,description :,138 pages
+</bibl>
+<publisher>A. Durand (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k57883754</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1852">1852</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>ESSAI</p>
+<p>SUR LES</p>
+<p>DE</p>
+<p>D'APRÈS SES DISCOURS ET SES EXAMENS</p>
+<p>PAR</p>
+<p>J. A. LISLE</p>
+<p>PARTS.</p>
+<p>AUGUSTE DURAND, LIBRAIRE,</p>
+<p>RUE DES GRÈS, 5.</p>
+<p>1852.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>ESSAI</p>
+<p>SUR LES</p>
+<p>DE</p>
+<p>CORNEILLE,</p>
+<p>D'APRES SES DISCOURS ET SES EXAMENS.</p>
+<p>THÈSE POUR LE DOCTORAT</p>
+<p>PRESENTEÉ A LA FACULTÉ DES LETTRES DE PARIS</p>
+<p>PAR J.-A. LISLE,</p>
+<p>DACHELIER ÈS-SCIENCES, LICENClÉ ES-LETTRES ET EN DROIT.</p>
+<p>PARIS</p>
+<p>AUGUSTE DURAND, LIBRAIRE</p>
+<p>RUE DES GRÉS, 5.</p>
+<p>1852.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>A M. A, BIX 10,</p>
+<p>ANCIEN REPRESENTANT DU PEUPLE,</p>
+<p>Hommage de reconnaissance et d'affection.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>ESSAI</p>
+<p>SUR LES THÉORIES DRAMATIQUES</p>
+<p>D APRES</p>
+<p>SES DISCOURS ET SES EXAMENS.</p>
+<p>AVANT-PROPOS.</p>
+<p>S'il est une question qui ne soit pas neuve, c'est celle des théories
+générales de l'art dramatique ; mais ce sont les théories de Corneille
+qui font l'objet de celte étude.</p>
+<p>On demande souvent si c'est l'art ou la nature qui fait les poètes; et
+bien des gens semblent croire que la poésie est une fleur privilégiée .
+qui naît sans semence et se développe sans culture. Ce n'était pas
+l'opinion d'Horace, qui cependant devait s'y connaître :</p>
+<p>« Qui studet optatam cursu contingere metam , Milita tulit fecitque
+puer, sudavit et alsit (1). »</p>
+<p>On peut sans doute , dans les oeuvres du génie, faire une large part à
+l'inspiration ; mais il en faut réserver une tout</p>
+<p>(l) llor. Art. poet , 412.</p>
+<p><pb/></p>
+<p>— 6 —</p>
+<p><pb/></p>
+<p>— 7 —</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>PREMIERE PARTIE.</p>
+<p>Du but de la tragédie.</p>
+<p>Quel est le but de la tragédie? C'est de plaire (1), répond Corneille.
+Il est vrai qu'il ajoute, c'est de plaire selon les règles ; mais il est
+aisé de voir que c'est par esprit de conciliation; peut-être un peu par
+ironie, et comme Molière aurait pu dire de la médecine, qu'elle est
+l'art de guérir selon les règles de la Faculté. Il emploie ici, ce me
+semble, pour mettre en défaut ses critiques, un stratagème qu'il
+affectionne. Ce qu'il pense et qu'il n'ose dire, il le cherche, il le
+trouve, il le met au besoin dans Aristote; et, après avoir montré ses
+adversaires en révolte flagrante contre le maître, il intervient et
+offre sa médiation. Il se donne ainsi des airs de modération et
+d'impartialité qui lui gagnent le lecteur ; et, au lieu d'un avocat qui
+plaide sa cause, on croit voir un juge plein de bonhomie et d'équité,
+dont l'unique souci est d'accommoder les parties et de les satisfaire
+toutes deux.</p>
+<p>Depuis longtemps, tous les docteurs en poésie dramatique, pensant
+ennoblir l'art qu'ils enseignaient, avaient professé que le but de la
+tragédie était d'instruire et non de plaire. Aussi, voyez Corneille
+commencer l'attaque : « Bien que, selon Aristote, le seul but de la
+poésie dramatique soit de plaire aux spectateurs;.... » et comme il sait
+bien que cette proposition mal sonnante ne passera pas sans combat, il
+l'arme</p>
+<p>(1) Cor. disc. I.</p>
+<p><pb/></p>
+<p>-- 10 -</p>
+<p>D'ailleurs les spéculatifs répondaient par cette fameuse ligne sur la
+purgation des passions, qui a soulevé tant de querelles non encore
+pacifiées. Ai' ÊXÉOU xai « Employant la terreur et la pitié pour purger
+les passions de ce genre (2). »</p>
+<p>Que signifie cette phrase ? Paul Beni en avait compté dans les
+commentateurs quinze explications différentes ; ce qui lui avait donné
+l'idée d'en ajouter une seizième de sa façon. Il serait dangereux de
+s'engager dans ce dédale : cependant comme ces quelques mots ont occupé
+tous les esprits d'élite au XVIIe siècle, il est nécessaire de s'y
+arrêter un instant.</p>
+<p>On se demande d'abord quelles sont ces passions qui sont purgées par la
+pitié ou la terreur tragique. A ne consulter que le texte, il semble que
+ce soient la pitié et la terreur ellesmêmes; et c'est en effet le sens
+adopté par les traducteurs les plus autorisés. Dans son traité de
+Constitutione tragica, qui n'est qu'une paraphrase de la poétique
+d'Aristote, Daniel Heinsius commente ainsi ce passage : « Quae si recte
+adhibeantur (horror et miseratio) defectum suum atque éxcessum expiant
+et purgant, mediocritatem vero relinquunt(3). » Explication que Sarasin
+développe en ces termes, dans son dis(1)</p>
+<p>dis(1) 15, 4. — (2) Poet. 7, 2 ( trad. de M. Egger ). (3) De Const. tr.
+Ed. 1612, p. 30.</p>
+<p><pb/></p>
+<p>— 11 —.</p>
+<p>Entre ces deux partis si opposés, Corneille préfère naturellement celui
+qui ne proscrit pas les poètes. Il ne se contente</p>
+<p>(1) Sar. disc. sur la trag.</p>
+<p>(2) Egger. trad. de la poet. not. —(3) Id. ibid.</p>
+<p>(4) St.-Evi. De la trag. anc. et mod. — (5) piat. Rep 3.</p>
+<p>2.</p>
+<p><pb/></p>
+<p>- 12 —</p>
+<p>(1) Cor. Disc., 2.</p>
+<p>(2) Dac. Trad. de la poét. préface et notes. Aussi est-il sévèrement
+repris par Lessing (Dram. 78, 81), qui veut qu'il n'y ait de purgation
+que pour la terreur et la pitié, cl les passions qui en dépendent.</p>
+<p>(3) Cor. Disc. 2.</p>
+<p><pb/></p>
+<p>— 13 —</p>
+<p>(1) Ar. pol. 8, 7.</p>
+<p>(21 Corn. Edit. de Voll. Disc. 2, note.</p>
+<p>(3) Sar. Disc, sur la trag.</p>
+<p><pb/></p>
+<p>—- 14 —</p>
+<p>(1) Obs. sur le Cid. — (2) Sent, de l'Acad. sur le Cid. (3) La Mesn.
+Poét. S. — (4) La Mesn, Poét. S. (5) Sar. Disc, sur la trag.</p>
+<p><pb/></p>
+<p>— 15 —</p>
+<p>(1) Cor. Disc. 1.</p>
+<p>(2) Ar. Poét. 14, 9,</p>
+<p><pb/></p>
+<p>- 16 -</p>
+<p>C'est aussi pleinement l'opinion de Corneille; et si dans sa vieillesse,
+quand l'âge et quelques revers l'avaient rendu prudent, il accordait à
+ses critiques qu'il ne fallait plaire que selon les règles, il avait
+parlé bien autrement dans la franchise de la jeunesse, et dans la fierté
+de ses premiers succès. En 1634, lorsqu'il achevait la Suivante et
+commençait le Cid, il ne craignait pas de dire dans une préface : «
+Notre premier</p>
+<p>gagnons la voix publique ; autrement, notre pièce aura beau être
+régulière, si elle est sifflée au théâtre, les savants aimeront mieux
+dire que nous avons mal entendu les règles, que de nous donner des
+louanges, quand nous serons décriés par le consentement général de ceux
+qui ne voient la comédie que pour se divertir (2).</p>
+<p>d'Or(1) 3, 1 ; 7,13 et 15 ; 16, 10, etc. — (2) Ep. déd. de la Suivante.
+(3) Mol. Crit. de l'Éc. des fem.</p>
+<p><pb/></p>
+<p>— 17 —</p>
+<p>(1) Rac. Ep. déd. d'Androm.</p>
+<p>(2) Arte nuevo de bacer comedias en este tiempo. T. IV, édil. de 1776.</p>
+<p><pb/></p>
+<p>— 18 —</p>
+<p>Sunt lacrymae rerum et mentem mortalia tangunt.</p>
+<p>« Il y a donc ici des larmes pour l'infortune ; il y a des coeurs
+sensibles aux revers qui menacent tous les mortels ! »</p>
+<p>Sous un autre point de vue, le théâtre est une tribune, une chaire même,
+et la chaire dont les conseils sont écoutés avec le plus d'attention et
+de recueillement. Là, point de ces distractions, point de ces
+préoccupations, dont la sainteté du lieu ni le beau langage de l'orateur
+ne préservent pas toujours l'auditoire le plus dévot. Tout entier aux
+puissantes émotions qui le dominent, le spectateur s'oublie lui-même.
+Les senti(1)</p>
+<p>senti(1) Font. Psyché, 1.</p>
+<p><pb/></p>
+<p>— 19 —</p>
+<p>Mais aussi il faut reconnaître que c'est dans la défense de la vérité,
+dans la création du beau, que le génie éclate dans sa splendeur. Qu'on
+relise les chefs-d'oeuvre que l'admiration de la France entière a
+consacrés, et qui sont, après deux cents ans,</p>
+<p>Jeunes encor de gloire et d'immortalité;</p>
+<p>on y retrouvera , exprimés en un langage simple autant que grand (1),
+toutes les saines idées qui sont l'aliment des esprits</p>
+<p>(1) Cette grandeur sans faste et sans enflure, qui est la vraie
+grandeur, a été remarquée même par les étrangers : « Chez nous, dit un
+critique anglais, il n'est pas rare de trouver un langage noble et
+sonore', mais la pensée qu'il recouvre est frivole ou commune. Dans les
+anciennes tragédies, au contraire,</p>
+<p><pb/></p>
+<p>— 20 —</p>
+<p>et aussi, j'en conviens, dans celles de Corneille et de Racine , les
+expressions ne sont grandes, qu'autant que la pensée les porte et les
+élève. » Spect., n° 39.</p>
+<p>(2) Rac. Préf. de Phèdre.</p>
+<p><pb/></p>
+<p>_ 21 —</p>
+<p>On s'étonne par fois que la tragédie puisse être un divertissement, et
+l'on demande quelle est cette saveur étrange qu'on trouve dans les
+larmes qu'elle fait couler. Il y a dans Lucrèce deux vers célèbres :</p>
+<p>Suave mari magno, turbantibus oequora ventis , Et terra magnum alterius
+spectare laborem (3).</p>
+<p>(1) La Mesn. Poét. 8. — (2) Corn. Disc. 1. — (3) Lucr. 2, 1. (4) Spect.
+Num. 418.</p>
+<p><pb/></p>
+<p>— 22 —</p>
+<p>que par comparaison ; et nous avons besoin, pour nous sentir</p>
+<p>« Il s'en faut bien, dit La Fontaine, que la tragédie nous</p>
+<p>renvoie chagrins et mal satisfaits car si nous apportons</p>
+<p>(2) Plat. Phédon.</p>
+<p><pb/></p>
+<p>23 —</p>
+<p>sui(1) Font, Psych. 1. —(2) Risposta alla lettera di Ranieri de'
+Calsabigi, (3) Aristoph Grenouilles.</p>
+<p><pb/></p>
+<p>— .24 —</p>
+<p>vant Sénèque, l'homme de bien aux prises avec la fortune ; ou ce qui est
+plus terrible encore, l'homme d'honneur aux prises avec ses passions.</p>
+<p>Mais, si le but de la tragédie est d'inspirer la pitié et la terreur, il
+semble que plus on aura vivement excité en nous ces deux sentiments,
+plus la tragédie sera sublime. C'est une doctrine qui ne manque pas de
+partisans.</p>
+<p>Enfin, peut-être aurait-il conclu en ces termes: « Il est possible
+d'exciter la terreur et la pitié au moyen de la décoration ; mais il est
+possible aussi de les faire naître de la suite des événements, ce qui
+est bien préférable et d'un meilleur poëte. Il faut en effet que la
+fable soit disposée de telle sorte que, sans rien voir, en entendant
+seulement ce qui se passe, on frissonne et l'on pleure sur les
+événements : et c'est ce qui arrive quand on entend l'OEdipe. Il y a
+bien moins d'art à</p>
+<p>(1) Ar. poét., 7, 22, — (2) Aristophane. Archaniens.</p>
+<p><pb/></p>
+<p>— 25 —</p>
+<p>produire ces effets par le spectacle, et c'est l'affaire des décorateurs
+(1). »</p>
+<p>Soit qu'on parle ou qu'on écrive, en effet, l'important est de savoir à
+qui l'on s'adresse.</p>
+<p>Centurioe seniorum agitant expertia frugis, Celsi proetereunt austera
+poemata Rhamnes (2) ; .... Nec si quid fricti ciceris probat aut nucis
+emptor AEquis accipiunt animis, donantve corona(3).</p>
+<p>(1) Arist. Poet. 15. I. — (2) Hor. art. Poét. 341, (3) Id. 249, (4 )
+Metast, Estratto della poet. d'Ar. 9.</p>
+<p>3</p>
+<p><pb/></p>
+<p>— 26 —</p>
+<p>savons bien que ce n'est qu'une fiction. Mais quand on nous la raconte,
+nous croyons tout sans peine, parce que nos yeux qui auraient pu nous
+détromper, ne peuvent point contrôler le récit (3). »</p>
+<p>• (1) Hor. Art. poet., 185. — (2) Corn. Disc. 2 (3) Dryd. Ess. of dram.
+poesy.</p>
+<p><pb/></p>
+<p>— 27 —</p>
+<p>(1) Préface d'Andromaque.</p>
+<p>C'est donc sur l'abbé d'Aubignac, et non pas sur Corneille, que tombe
+cette critique si juste d'Addison : « Si quelque chose pouvait faire
+excuser un pareil meurtre, ce serait qu'il eût été commis dans un
+soudain mouvement de</p>
+<p>(') Corn. Exam, d'Horace.</p>
+<p>3.</p>
+<p><pb/></p>
+<p>— 28 —</p>
+<p>(*) Spect. Nom. 44.</p>
+<p><pb/></p>
+<p>- 29 —</p>
+<p>(2) De Visé rapporte qu'il dit un jour devant des gens dignes de foi : a
+M. de Corneille ne me vient pas visiter, ne vient pas consulter ses
+pièces avec moi, ne vient pas prendre de mes leçons, toutes celles qu'il
+fera seront critiquées, »</p>
+<p><pb/></p>
+<p>30 —</p>
+<p>les réduits et les ruelles, dans les cercles de dames et de jeunes gens
+qu'ils trouvaient des alliés redoutables.</p>
+<p>(1) De Beauchamps, Recherches sur le théâtre français,</p>
+<p><pb/></p>
+<p>— 31 —</p>
+<p>Boisrobert prit ses précautions, et les Français eurent le bon goût
+d'applaudir avec enthousiasme (1).</p>
+<p>Sçavoir dissimuler est le scavoir des rois.</p>
+<p>(2) Pélisson, Hist. de l'Acad, — (3) Sar. Disc, sur la trag.</p>
+<p><pb/></p>
+<p>— 32 —</p>
+<p>(1) La Mesn. poét. 5. — (2) D'Aub. Prat. du th. 2, 1. (3) Scud. Mort de
+César. — (4) Sar. Disc, sur la trag.</p>
+<p><pb/></p>
+<p>— 33 —</p>
+<p>mais aussi le divin cardinal ne rendait pas d'oracles en leur faveur (1).</p>
+<p>Ces satisfactions n'appaisont point une âme : Qui les reçoit, n'a rien ;
+qui les fait, se diffame. Et de tous ces accords l'effet le plus commun
+, C'est de déshonorer deux hommes au lieu d'un.</p>
+<p>C'était le temps où venait d'être porté l'édit contre les duels, dont
+ces quatre vers faisaient évidemment la satire.</p>
+<p><pb/></p>
+<p>— 34 —</p>
+<p>mieux surtout ses précautions et ses défiances quand il aborda certaines
+théories; ses concessions qui paraissent timides et qui ne sont que
+prudentes , ses insinuations qui semblent des banalités et qui sont des
+traits de courage. On reconnaîtra qu'il ne faut pas toujours prendre ses
+aveux pour des articles de foi ; que souvent sa pensée ne se laisse pas
+voir au premier coup d'oeil, mais se dérobe et se fait chercher, et,
+comme la nymphe timide, s'enfuit et se cache tout en désirant d'être
+aperçue :</p>
+<p>Et fugit ad salices et se cupit ante videri.</p>
+<p><pb/></p>
+<p>DEUXIÈME PARTIE.</p>
+<p>Du choix du sujet.</p>
+<p>Nous n'avons examiné jusqu'ici que des théories générales : nous
+arrivons aux préceptes spéciaux. Mais, dès le premier pas, nous trouvons
+une question préjudicielle qu'il faut décider tout d'abord. Quelle peut
+être la valeur des règles en matière de poésie dramatique? L'abbé
+d'Aubignac répondrait que ce sont des lois inviolables, " sans
+lesquelles il ne se peut rien dire ni rien faire de raisonnable sur le
+théâtre ; » et il ne ferait qu'exprimer l'opinion de son temps, du moins
+quant aux règles d'Aristote.</p>
+<p>(1) Corn. Disc. 2.—(2) Corn. Epit. dédic, de la Suiv. (3) Corn. Préf, de
+Clitandre.</p>
+<p><pb/></p>
+<p>— 36 —</p>
+<p>(1) Corn, Examen de Mélite. — (2) Corn. Disc. 2. — (3) Corn. Disc. 2.
+(4) Corn. Disc. 1.</p>
+<p><pb/></p>
+<p>— 37 -</p>
+<p>poli(1) Epit. dédic, de Médée. — (2) Crit. de l'Éc. des fem.</p>
+<p><pb/></p>
+<p>Lors(1) Jugements des critiques sur la tragédie grecque,</p>
+<p><pb/></p>
+<p>— 39 —</p>
+<p>qu'il « reconnaît l'action comme la plus importante des parties
+constitutives de la tragédie , et n'accorde aux moeurs qu'un rang
+secondaire ; il peut être plus ou moins conforme au vrai système de
+l'art, mais il contredit certainement la pratique ordinaire des poëtes
+grecs, qui semblent toujours s'être proposé pour objet principal la
+peinture des moeurs, et s'être servis seulement de l'action comme d'un
+moyen (1). » Ainsi Aristote a donné l'exemple de l'indépendance, et
+c'est encore l'imiter que de se permettre d'innover. Corneille luimême
+ose revendiquer ce droit, en se couvrant, il est vrai, de l'autorité de
+Tacite (2) : - Non omnia apud priores meliora, sed nostra quoque oetas
+multa laudis et artium imitanda posteris tulit. » Ailleurs il ose
+soupçonner qu'il y a deux ou trois situations » que peut-être Aristote
+n'a su prévoir, parce qu'on n'en voyait point d'exemple sur les théâtres
+de son temps (3 ). »</p>
+<p>(1) Pat. Jug. des crit. sur la trag. grecq. —(2) Corn. Disc. 2, (3)
+Corn. Disc, 3.</p>
+<p><pb/></p>
+<p>— 40 —</p>
+<p>(1) Scud. Obs. sur le. Cid.</p>
+<p>(2) Corn. Disc. 2. — (3) Ar. Poét. 15, 11. (4) Ar. Poét. 10, 8.</p>
+<p><pb/></p>
+<p>— 41 —</p>
+<p>aux sujets historiques, comme laissant un champ plus libre aux créations
+du génie.</p>
+<p>(1) Corn. Disc. 2. — (2) Volt. not. au 2e disc. — (3) Corn. Disc. 1. (4)
+On lit aussi dans l'Art poétique de Lope de Vega :</p>
+<p>Por argumento la tragedia lieno</p>
+<p>I.a historia , y la comedia et fingimiento.</p>
+<p>( Arte nuevo de hacer comedias en este tiempo. T. IV.)</p>
+<p><pb/></p>
+<p>— 42 —</p>
+<p>puisse dire ce qu'ils sont et ce qu'ils doivent être. Il ne veut pas
+qu'un sujet de tragédie soit tout d'invention, « parce que le fait
+n'étant connu de personne, n'obtiendrait pas cette vénération, cette
+confiance préventive, qu'il croit nécessaire (1)."</p>
+<p>(1) Parere delp autore sulla Rosmunda.</p>
+<p><pb/></p>
+<p>— 43 —</p>
+<p>Qu'on laisse donc aux romanciers les exploits mensongers et les vaines
+douleurs des héros imaginaires. Le pays des chimères est leur domaine.
+Mais la muse tragique a trop de grandeur et de majesté pour pouvoir
+paraître dignement sur</p>
+<p>(1) Ar. poét. 10, 8. —(2) Id. 15, 19 (3) Corn. Disc. 1.</p>
+<p><pb/></p>
+<p>_ 44 —</p>
+<p>un théâtre si peu solide. " Une des grandes supériorités que j'ai
+remarquées dans la tragédie française, dit Dryden, c'est qu'elle
+s'appuie toujours sur quelque fait connu de l'histoire. En ce point, les
+Corneille et les Racine n'ont imité les anciens que pour les surpasser
+(1). » Voltaire a beau dire que nous avons des tragédies de pure
+invention qui ont eu des succès durables : malgré de réelles beautés,
+son Orphelin ele la Chine, aussi bien que l'Abufar de Ducis, a vu finir
+ses triomphes. On y sent je ne sais quoi de fabuleux et de faux qui
+glace l'intérêt et décourage l'admiration ; les personnages ont beau
+gémir, on sent qu'ils ne gémissent que pour accomplir le précepte :</p>
+<p>Pour me tirer des pleurs, il faut que vous pleuriez;</p>
+<p>et dans toutes leurs plaintes, on reconnaît trop la voix et l'accent du
+poëte.</p>
+<p>L'histoire et la fable étaient donc également vraies aux yeux du peuple
+athénien. Supposez deux tableaux, dont l'un représente quelque grande
+scène de la nature ou de la vie des hommes, tandis que l'autre ne
+montrera que des êtres</p>
+<p>(1) Dryd. ess. of dram. poesy. — (2) Ar. poét. 10, 8.</p>
+<p><pb/></p>
+<p>— 45 —</p>
+<p>(1) Ar. poét. 15, 10. — (2) Corn. Disc. 2.</p>
+<p><pb/></p>
+<p>— 46 —</p>
+<p>vraisem(1) ess. of dram. poesy. — (2) Voll. not. au 2e disc, de Corn.</p>
+<p>(4) Corn. Disc. 2. — (5) Id. ibid. —[(6) Volt. not. au 2e disc, de Corn.</p>
+<p><pb/></p>
+<p>— 47 —</p>
+<p>(1) Corn. Disc. 2.</p>
+<p><pb/></p>
+<p>— 48 —</p>
+<p>vraisemblables, c'est-à-dire paraître vrais, c'est-à-dire qu'ils ne
+doivent choquer ni la raison, ni le sens commun : cette vraisemblance
+obtenue , qu'elle soit particulière ou générale, ordinaire ou
+extraordinaire, qu'importe, quand les spectateurs sont satisfaits ?</p>
+<p>Cependant, s'il n'est point la passion tragique par excellence, il n'en
+est pas moins éminemment dramatique.</p>
+<p>De cette passion la sensible peinture</p>
+<p>Est pour aller au coeur la route la plus sûre.</p>
+<p>(1) Corn. Disc. 1,</p>
+<p><pb/></p>
+<p>— 49 —.</p>
+<p>(1) Dryd. Ess. ol'dram. poesy.</p>
+<p><pb/></p>
+<p>— 50 —</p>
+<p>(■1) Ar. poét. 7, 2. — (2) Corn. Disc. 1. (3) Volt. not. au 2e disc. de
+Corn.</p>
+<p><pb/></p>
+<p>— 51 —</p>
+<p><pb/></p>
+<p>— 52 —</p>
+<p>(1) Corn. Dise. 2. — (2) Mol. Crit. de l'Éc. des fem.</p>
+<p><pb/></p>
+<p>— 53 —</p>
+<p>(1) Cor. Disc. 2.</p>
+<p>(2) Volt. not. au 2e disc. de Corn.</p>
+<p>(3) Ar. poét. 14, 2 (trad. de M. Egger).</p>
+<p><pb/></p>
+<p>— 54 —</p>
+<p>(1) Corn. Disc. 2.</p>
+<p>(2) Corn. Disc. 2.</p>
+<p><pb/></p>
+<p>— 55 —</p>
+<p>Quant aux caractères tout-à-fait méchants , quant aux francs scélérats
+considérés comme héros de tragédie, ce qu'en dit Aristote est pleinement
+approuvé par Corneille : il nous suffira donc de le citer :</p>
+<p>(1) Corn. Disc. 2. Racine (Préface d'Andromaque ) comprend tout ce
+chapitre comme Corneille.</p>
+<p>(2) V. Ar. poét. 14,10. — (3) Ar. poét. 14, 9.</p>
+<p>(4) Lessing la refuse hautement en son nom ( V. Dramaturgie, e. 82).</p>
+<p>(5) Ar. poét. 14, 2 (trad. de M. Egger). — (6) Corn. Disc. 2.</p>
+<p><pb/></p>
+<p>— 56 — .</p>
+<p>(1) Corn. Disc. 2. — (2) V. Rac, Préf. de Phèdre.</p>
+<p><pb/></p>
+<p>— 57 —</p>
+<p>J'avoue avec franchise que je n'entends point l'application de</p>
+<p>ces règles, ou du moins quelque favorable interprétation, pour n'être
+pas obligés de condamner beaucoup de poëmes que nous avons vus réussir
+sur nos théâtres (1). » Ces poëmes, ce sont les chefs-d'oeuvre de
+Corneille.</p>
+<p>Non content de marquer le rang et le caractère des héros tragiques,
+Aristote ne craint pas de fixer les rapports qu'il faut établir entre
+eux. Tout ce passage est d'une netteté rare et d'une admirable
+profondeur; voici la paraphrase qu'en a faite Corneille :</p>
+<p>- Pour nous donner les moyens d'exciter cette pitié, qui fait de si
+beaux effets sur nos théâtres, Aristote nous donne une lumière. « Toute
+action, dit-il, se passe ou entre des " amis, ou entre des ennemis, ou
+entre des gens indifférents « l'un pour l'autre. Qu'un ennemi tue ou
+veuille tuer son « ennemi, cela ne produit aucune commisération, sinon en</p>
+<p>(1) Corn. Disc. 2. — (2) Corn. Disc. 2. — (3) Corn. Disc. 2</p>
+<p><pb/></p>
+<p>— 58 —</p>
+<p>» C'est donc un grand avantage pour exciter la commisération, que la
+proximité du sang, ou les liaisons d'amour ou d'amitié entre le
+persécutant et le persécuté, le poursuivant et le poursuivi, celui qui
+fait souffrir et celui qui souffre ; mais il y a quelque apparence que
+cette condition n'est pas d'une nécessité absolue (1). » Il y a en effet
+grande apparence.</p>
+<p>Aristote n'est pas encore satisfait. Il a marqué les liens d'affection
+ou de parenté qui doivent unir les principaux acteurs; il se fait fort
+de déterminer tous les rapports même accidentels qui peuvent exister
+entre eux. Il n'en trouve que trois sortes, qu'il range par ordre de
+mérite; trois, ni plus ni moins, Qu'on juge de l'embarras de Corneille,
+pour faire entrer dans ces étroites caté(1)</p>
+<p>caté(1) Disc. 2. — (2; Art. poét. 15, 12-15.</p>
+<p><pb/></p>
+<p>— 59 —</p>
+<p>(1) Corn. Disc. 2. — (2) Met. Estr. della poes. d'Ar., 14.</p>
+<p>5.</p>
+<p><pb/></p>
+<p>— 60 — -</p>
+<p>Qu'importe, en effet, qu'on inspire la terreur et la pitié, ou bien la
+pitié toute seule, pourvu qu'on charme son auditoire? Et même, ne
+pourrait-on pas penser avec Métastase, « que l'admiration pour la vertu,
+représentée sous mille aspects différents, comme dans l'amitié, dans la
+reconnaissance, dans l'amour de la patrie, dans la générosité envers des
+ennemis, etc., produirait des effets aussi grands et aussi bons que la
+terreur et la pitié aristotéliques ; et aurait l'avantage de</p>
+<p>(1) Less. Dram. 81-83. — (2) Dramaturgie, 81.</p>
+<p><pb/></p>
+<p>- 61 —</p>
+<p>(1) Met. Estr. della poet. d'Ar. 14. — (2) Corn. Exam. de Nic. (3)
+St.-Ev. De la trag. anc. et mod.</p>
+<p><pb/></p>
+<p>TROISIEME PARTIE.</p>
+<p>De la manière de traiter le sujet.</p>
+<p>CHAPITRE I.</p>
+<p>DE L'ACTION EN GÉNÉRAL.</p>
+<p>(1) Ar. poét. 7, 11-18.</p>
+<p><pb/></p>
+<p>— 63 —</p>
+<p>Pour ces derniers, il se donne le plaisir de leur apprendre : « Que le
+mariage n'est point un achèvement nécessaire pour la tragédie heureuse.
+C'est le péril d'un héros qui la constitue, et lorsqu'il en est sorti,
+l'action est terminée. Bien qu'il ait de l'amour, il n'est point besoin
+qu'il parle d'épouser sa maîtresse quand la bienséance ne le permet pas,
+et il suffit d'en donner l'idée après en avoir levé tous les
+empêchements, sans lui en faire déterminer le jour. Ce serait une chose
+insupportable que Chimène en convînt avec Rodrigue dès le lendemain
+qu'il a tué son père; et Rodrigue serait ridicule s'il faisait la
+moindre démonstration de le désirer (3). » N'est-ce pas</p>
+<p>(1) Corn. Disc. 1. —(2) Scud. Ex. du Cid. — (3) Corn. Disc. 1.</p>
+<p><pb/></p>
+<p>— 64 —</p>
+<p>une bonne manière de se justifier d'avoir marié Chimène, que de
+s'excuser de ne l'avoir point fait (1)?</p>
+<p>Veut-on voir le poëte éclaircir encore cette théorie par un exemple 1</p>
+<p>Aristote continue cette exposition avec une clarté, une simplicité, une
+profondeur, admirables. Nous n'aurons garde d'y rien changer.</p>
+<p>(1) V. Ex. des Horaccs, du Cid, etc. — (2) Ar. poét. 8, 2-3. (3) Corn.
+Disc. 1. —(4) Ar, poét. 8, 3 (trad. de M. Egger).</p>
+<p><pb/></p>
+<p>— 65 —</p>
+<p>(1) Ar. poét. 8, 49 (trad. de M. Egger).</p>
+<p>() W. Schlegel , Cours de litt. Dram, 10.</p>
+<p><pb/></p>
+<p>— 66 —</p>
+<p>" Puisque donc, pour les autres genres d'imitation, l'unité de l'oeuvre
+est dans celle du sujet, la fable qui imite l'action doit n'en imiter
+qu'une seule, une complète, et dont les parties doivent être disposées
+de telle sorte qu'on n'en puisse déranger ou enlever une sans disjoindre
+et altérer l'ensemble. Car ce qui peut être dans un tout ou n'y pas
+être, sans qu'il y paraisse, ne fait pas partie du tout ( 1 ). »</p>
+<p>Voici maintenant le commentaire de Corneille : « Je tiens donc que
+l'unité d'action consiste dans la comédie en l'unité d'intrigue, ou
+d'obstacle aux desseins des principaux acteurs, et en l'unité de péril
+dans la tragédie, soit que son héros y succombe, soit qu'il en sorte. Ce
+n'est pas que je prétende qu'on ne puisse admettre plusieurs périls dans
+l'une, et plusieurs intrigues ou obstacles dans l'autre, pourvu que de
+l'un on tombe nécessairement clans l'autre ; car alors la sortie du
+pred'action,</p>
+<p>(1) Ar. poét. 9 (trad. de M. Egger).</p>
+<p><pb/></p>
+<p>— 67 —</p>
+<p>mier péril ne rend point l'action complète, puisqu'elle en attire un
+second ; et l'éclaircissement d'une intrigue ne met point les acteurs en
+repos, puisqu'il les embarrasse dans une nouvelle.</p>
+<p>(1) Corn. Disc. 3.</p>
+<p>(2) Corn. Exam. d'Hor. et de Théod.</p>
+<p><pb/></p>
+<p>— 68 —</p>
+<p>la dernière scène du cinquième acte, quand ils se réunissent tous sur la
+scène pour le dénoûment (1 ). »</p>
+<p>CHAPITRE II.</p>
+<p>DES UNITÉS DE TEMPS ET DE LIED.</p>
+<p>(1) Dryd. Es. ofdram. poesy.</p>
+<p>(2) D'Aub. Prat. du théât. 2, 7. — (3) Id. ibid.</p>
+<p><pb/></p>
+<p>— 69 —</p>
+<p>(1) D'Aub. Pral.du théàt. 2, 6. — (2) Id.ibid.2,7.</p>
+<p><pb/></p>
+<p>— 70 —</p>
+<p><pb/></p>
+<p>— 71 —</p>
+<p>appe{1} Patin, Etudes sur les tragiques grecs ; W. Schlegel, Cours de
+litt. dram. ; Lessing, Dramaturgie; Villemain, Cours de litt.</p>
+<p><pb/></p>
+<p>— 72 -</p>
+<p>lées les unités. Il suffit de considérer leur allure si naturelle et si
+vive, leurs mouvements capricieux et hardis, pour s'assurer qu'ils ne
+les ont jamais connues. Il ne faut ni les louer ni les blâmer, d'avoir
+observé ou violé la règle : ils n'en ont pas soupçonné l'existence. Si
+donc on peut admirer en eux cette harmonie, cet ensemble, cette
+proportion, qui sont les conditions presque indispensables de la beauté,
+dans les oeuvres des artistes , fréquemment aussi peut-on y rencontrer
+ce beau désordre, où parfois le génie semble se complaire.</p>
+<p><pb/></p>
+<p>— 73 —</p>
+<p>(1) D'Aub. Prat. du théât. 2, 2.— (2) Ar. poét. 6, 7 (trad. de M.Egger).</p>
+<p>6</p>
+<p><pb/></p>
+<p>— 74 —</p>
+<p>gé(1) Prat. du théât. 2, 7.</p>
+<p><pb/></p>
+<p>— 75 —</p>
+<p><pb/></p>
+<p>— 76 —</p>
+<p>En un obscur désert elle sera menée , Sauvage, inhabité, puis sous un
+antre creux On l'enfermera vive en un roc ténébreux.</p>
+<p>Ce n'était pas apparemment dans un désert obscur, sauvage et inhabité,
+que Créon était allé chanter sa victoire. Cependant, un moment après, ce
+lointain désert se trouve transporté sur la scène avec son antre creux
+et son roc ténébreux, car Antigone s'écrie :</p>
+<p>(1) César de Grevin. — (2) Garnier, Antigone.</p>
+<p><pb/></p>
+<p>— 77 —</p>
+<p>Ainsi tout d'abord , les poëtes ont observé la règle sans y songer, puis
+ils l'ont violée sans s'en apercevoir; bientôt la violation de la loi
+devient si manifeste, qu'elle a tout l'air d'être préméditée.</p>
+<p><pb/></p>
+<p>— 78 -</p>
+<p>(1) Garnier, Marc-Antoine.</p>
+<p><pb/></p>
+<p>— 79 —</p>
+<p>tout entier dans la Poétique de Scaliger. Au livre III qu'il a intitulé
+l'Idée, sans doute parce qu'il avait la prétention d'y réaliser le type
+immatériel et immortel de tous les genres de poésie, il nous a donné
+l'ébauche d'une tragédie. Le sujet est tiré des Métamorphoses d'Ovide :
+c'est la fable de Ceyx et d'Alcyone :</p>
+<p>ACTE I. Alcyone se lamente sur le départ de Ceyx.</p>
+<p>ACTE II. Le prêtre fait un sacrifice, et s'entretient avec Alcyone et sa
+nourrice : un autel, un feu sacré, pieuses sentences.</p>
+<p>ACTE III. Un messager annonce qu'il s'est élevé une tempête , et raconte
+les bruits qui courent.</p>
+<p>ACTE IV. Troubles et craintes. Le bruit se confirme, des matelots
+annoncent le naufrage.</p>
+<p>ACTE V. Alcyone inquiète promène sa vue sur les flots : elle aperçoit au
+loin un cadavre, et, reconnaissant son époux, elle veut se donner la
+mort ; mais tous deux sont changés en oiseaux (1).</p>
+<p>A) Scal. Poét. 3.</p>
+<p><pb/></p>
+<p>— 80 —</p>
+<p>Ne serait-ce pas en haine de cette confusion dont ils étaient choqués
+dans les drames populaires, que nos réformateurs auraient conçu cette
+passion fanatique pour la simplicité et la régularité ? Dans leur
+souverain mépris pour les mystères, ils prirent le contre-pied de ce
+système pour la perfection de l'art. Dans les mystères, les acteurs se
+comptent par centaines; en conséquence, ils en restreignirent le nombre
+autant que possible. Dans les mystères, tout est en action et en
+spectacle, jusqu'aux voyages et aux accouchements'; aussi mirent-ils
+tout en récits et en discours; enfin, comme il était impossible de
+découvrir clans les mystères une apparence d'unité, un semblant d'ordre
+et de symétrie, ils prirent pour modèles ces tragédies de Sénèque, dont
+la majestueuse immobilité leur semblait l'idéal de l'ordre et de
+l'harmonie.</p>
+<p><pb/></p>
+<p>— 81 —</p>
+<p>« Res autem ipsoe ita disponendee sunt, ut quam proxime accédant ad
+veritatem... nam mendacia maxima pars hominum odit. Itaque nec prselia
+illa aut oppugnationes quse ad Thebas duabus horis conficiuntur placent
+mibi ; nec prudentis poetae est efficere ut Delphis Athenas, aut Athenis
+Thebas, momento temporis quispiam proficiscatur. Apud ^Eschylum
+interficitur Agamemnon, ac repente tumulatur ; adeoque cito,</p>
+<p>vix ut actor respirandi tempus habeat Argumentum ergo</p>
+<p>brevissimum accipiendum est. »</p>
+<p>On voit que dans ce passage il n'est nullement question d'unité; le mot
+même n'est pas prononcé. De quoi s'agit-il uniquement? De la
+vraisemblance. C'est en effet le principe nouveau qui devait faire une
+révolution dans le théâtre.</p>
+<p><pb/></p>
+<p>— 82 —</p>
+<p>Si dans les arts il suffisait de la liberté pour enfanter des</p>
+<p>(4) D'Aub. Prat. du théât. 2, 7. V. aussi Castelvetro, Poét. d'Ar. S,
+(2) D'Aub. Prat. du théât. 2, 6.</p>
+<p><pb/></p>
+<p>— 83 —</p>
+<p>Le grand homme du temps, le poëte en possession de la faveur et de
+l'admiration de ses contemporains, c'était Hardy, qui devait être oublié
+dix ans plus tard ; mais alors, il était immortel. On lui adressait des
+compliments en vers et en prose dans toutes les langues ; on le sacrait
+poëte royal en français, poeta regius en latin, et en grec ce qui
+voulait dire, je crois, non pas comme il semble, le poëte du roi, mais
+le roi des poëtes (1).</p>
+<p>Tu parais sur ces arbrisseaux Comme un grand pin de Silésie ; Un océan
+de poésie Parmi ces murmurants ruisseaux.</p>
+<p><pb/></p>
+<p>— 84 —</p>
+<p>(1) Préface des chastes et loyales amours de Théagene et de Chariclée.</p>
+<p>(2) Id. ibid.</p>
+<p><pb/></p>
+<p>— 85 — ,</p>
+<p>sommeil du vieux poëte, il eut grand succès dans les écoles / d'où
+devaient sortir tout armés, comme d'un autre cheval de bois, les
+vaillants champions des trois unités.</p>
+<p>(1) OEuv. de Hardy. Préf. du t. VI.</p>
+<p><pb/></p>
+<p>— 86 —</p>
+<p>d'elle-même, devient totalement gueuse en passant par leur friperie. »
+Et puis, sentant que tout lui échappe, le passé comme l'avenir, il
+exhale en ces mots son désespoir : « L'oracle du grand Ronsard
+s'accomplit de nos jours. La poésie passe désormais chez quelque autre
+nation plus judicieuse ( 1 ) ! »</p>
+<p>(2) Préf. de la Didon. — (3) D'Aub. Diss. sur Sertorius. (4) Corn.
+Préface de Mélite,</p>
+<p><pb/></p>
+<p>— 87 —</p>
+<p><pb/></p>
+<p>— 88 —</p>
+<p>(2) Raissyguier. Préf. d'Aminte. — (3) Corn. Préf. de Clitandre</p>
+<p><pb/></p>
+<p>— 89 —</p>
+<p>l'exemple de cet auteur peut servir de règle Disons, sans</p>
+<p>faire tort aux nouveaux, qu'un seul Hardy entendait mieux</p>
+<p>que personne la disposition du théâtre Il en savait les erres</p>
+<p>mieux que personne J'aime son génie et non pas ses vers,</p>
+<p>et ne puis souffrir que de faibles potirons m'empêchent de voir</p>
+<p>une si grande lumière On ne voit en ceux qui le méprisent</p>
+<p>que des paroles oiseuses et de mauvaises pensées, dont ils</p>
+<p>(t) Traité de la disposition du poëme dramatique et de la prétendu règle
+de XXIIII heures (anonyme).</p>
+<p>() Fontenelle, t. III. éd. de 1742.</p>
+<p><pb/></p>
+<p>— 90 —</p>
+<p>(1) De la disposition du poème dramatique et de la prétendue règle de
+XXIIII heures (anonyme).</p>
+<p><pb/></p>
+<p>— 91 —</p>
+<p><pb/></p>
+<p>— 92 —</p>
+<p>Mais ce grand succès fut bien surpassé l'année suivante par celui du
+Cid. On sait que sa beauté devint proverbiale, et que Richelieu, dans
+tout l'éclat de ses triomphes, fut jaloux de sa gloire. C'était le
+moment de s'écrier avec Scudéry :</p>
+<p>« Le soleil s'est levé, retirez-vous, étoiles ! »</p>
+<p>Si ces preuves ne suffisaient pas, on en trouverait d'autres, soit dans
+ses préfaces, soit ailleurs. Qu'on me permette seulement une citation :</p>
+<p>Voici ce qu'où lit dans la Comédie des Comédiens de Scudéry, représentée
+en 1634, date certaine. C'est un comédien du temps, qui fait le
+catalogue du répertoire de sa troupe: «Nous avons toutes les pièces de
+feu Hardy... nous avons encore Pyrame et Thisbé de Théophile... nous
+avons aussi la Sylvie, Chriséide et la Syhanire; Vlnfidelle confidente
+et la Philis de Scire (*) ; les Bergeries de M. Racan ; le Lygdamon, le
+Trompeur puni (**), Mélile, Clitandre, la Veuve (*"}, la Bague de
+l'oubli (**"*), et tout ce qu'uni mis en lumière, les plus beaux esprits
+du temps. » Comment ! la Sophonisbe aurait été représentée en 1629, et
+en 1634 on l'aurait oubliée, quand on se souvient de la Sylvanire et de
+la Sylvie représentées huit ou neuf ans auparavant? Il le faut bien, à
+moins que Scudéry ne se soit entendu avec son ami Mairet pour le rajeunir.</p>
+<p>(1) St.-Evremont. Diss. sur la trag. de Racine, intitulée Alexandre.</p>
+<p>(*) Pièces de Raissyguier. — ( **) ld. de Scudéry. — (*) Id. de
+Corneille. () Id. de Rotrou.</p>
+<p><pb/></p>
+<p>— 93 —</p>
+<p>tée pour être refaite. Il suffira donc d'en constater les résultats.</p>
+<p>« Pour prouver que le Cid péchait contre l'unité d'action, contre la
+vraisemblance et les bonnes moeurs ; que l'auteur avait eu tort de
+resserrer en vingt-quatre heures des événements qui tiennent quatre
+années dans l'histoire il se crut</p>
+<p>obligé de s'armer des poétiques tant anciennes que modernes, et suivant
+le mot de Corneille, il se fit tout blanc d'Aristote,</p>
+<p>d'Heinsius et d'Horace Mairet qui fut comme le second</p>
+<p>(1) Ste-Beuve, Hist. du théàt. français. — (2) Préf. de Proserpine.</p>
+<p><pb/></p>
+<p>— 94 —</p>
+<p>Cependant il n'avait pas manqué de louer les règles ; il avait même
+établi la nécessité de leur obéir : « Le but du poëte</p>
+<p>est de plaire selon les règles de son art pour plaire selon</p>
+<p>les règles de son art, il a besoin de renfermer son action dans</p>
+<p>l'unité de jour et de lieu , cela est d'une nécessité absolue</p>
+<p>(1) Préface de Panthée. —(2) Diss. sur Sophonisbe. — (3) Corn. Disc. 2.
+(4) Corn. Disc. 3.</p>
+<p><pb/></p>
+<p>- 95 —</p>
+<p>Je ne crois pas que Rodogune en demande guère davantage, et peut-être
+qu'elles suffiraient pour Cinna (1). »</p>
+<p>(1) Corn. Disc. 3. —. (2) Comédie des Comédiens.</p>
+<p><pb/></p>
+<p>- 96 —</p>
+<p>des attaques d'autant plus dangereuses qu'elles sont moins attendues.</p>
+<p>(i) Corn. Disc. 2. — (2, Id. Disc. 3. — (3) Ar. poét. 6, 7. (4) D'Aub.
+Diss. sur Sertorius,</p>
+<p><pb/></p>
+<p>— 97 —</p>
+<p>(1) D'Aub. Prat. du théàt. 2, 7. — (2) Id. ibid.</p>
+<p>(3) Corn. Disc. 3. Dryden, dans son Essai sur la poésie dramatique, fait
+la même remarque, et cite même le mot de Corneille : « C'est assez bien
+employer un temps si court. V. aussi Métastase, Estr. della poet, d'Ar. S.</p>
+<p><pb/></p>
+<p>— 98 —</p>
+<p>Qu'il fait marcher la tragédie. .... Ça I messieurs les auteurs,
+payez-moi de ma peine.</p>
+<p>(1) D'Aub. Diss. sur Sert. — (2) D'Aub. Prat. du théât. 2, 6.</p>
+<p><pb/></p>
+<p>— 99 —</p>
+<p>(1) Corn. Disc. 3. — (2) Id. ibid.</p>
+<p>(3) Alfieri lui-même, qui n'a pas craint de s'imposer des règles plus
+étroites que celles de Racine, ne reconnaît obligatoire que l'unité
+d'action. (Parère dell'autore sulla sceneggiatura.)</p>
+<p>(4) Corn. Disc. 3. — (5) Corn. Disc. 2.</p>
+<p><pb/></p>
+<p>— 100 -</p>
+<p>d'autre principe, d'autre fondement que la vraisemblance, qui dispense
+de la vraisemblance.</p>
+<p><pb/></p>
+<p>— 101 —</p>
+<p>Que Corneille ait fait cette remarque, rien de plus naturel : il ne
+s'était pas fait le champion des unités. Mais ce qui étonne davantage ,
+c'est la complaisance avec laquelle la développe l'abbé d'Aubignac : "
+Mais une chose bien plus étrange, dit-il naïvement, et pourtant
+très-véritable, j'ai vu des gens qui travaillaient depuis longtemps au
+théâtre lire ou voir un poëme par plusieurs fois, sans reconnaître ni la
+durée du temps, ni le lieu de la scène, ni la plupart des circonstances
+des actions les plus importantes, pour en découvrir la vraisemblance
+(2). » Et notre abbé de s'applaudir de sa pénétration, sans voir que
+cette observation fait encore mieux ressortir la vanité de ses règles
+que la finesse de son esprit. N'y a-t-il pas, en effet, grande
+apparence, comme l'a remarqué un savant critique, en citant ce passage «
+que l'espèce de vraisemblance qu'on recherche par l'unité de lieu et par
+celle de temps, est en réalité la plus indifférente pour l'esprit du
+spectateur (3)? « Comment! cette fameuse règle n'aurait-elle donc plus
+d'objet ni de principe? Tout ce grand édifice manquerait-il par le
+fondement?</p>
+<p>« Est inter Tanaïm quiddam socerumque Viselli (4). »</p>
+<p>(1) Corn. Disc. 3. — (2) D'Aub. Prat. 2, 2. (3) Eg. Trad. de la poét.
+d'Ar., not. au ch, 6. (,'&lt;) Met. Estr. della poet. d'Ar. 5.</p>
+<p><pb/></p>
+<p>— 102 —</p>
+<p>(1) Patin. Et. sur les trag. grées, t. i, p. 360, (2) Volt,, not. au
+dise. 3 de Corn.</p>
+<p><pb/></p>
+<p>— 103 —</p>
+<p>« Vous avez beau chanter et tirer le rideau,</p>
+<p>Vous ne me trompez pas : je n'ai point passé l'eau (1). »</p>
+<p>Nous n'avons pas cette prétention, pouvait-on répondre. Est-ce que par
+hasard quand vous venez voir Ci/ma, et qu'on vous figure le palais
+d'Auguste, vous avez la bonté de croire que vous avez passé les monts,
+que vous êtes admis aux conseils de l'empereur, et que le maître du
+monde romain va vous faire l'honneur de déclamer devant vous des vers
+français ?</p>
+<p>(1) Visionnaires. — (2) Met. Estr. della poet. d'Ar. 5.</p>
+<p><pb/></p>
+<p>—- 104 —</p>
+<p>transformer l'hôtel de Bourgogne en un palais de Palmyre?</p>
+<p>(2) Corn. Disc. 3.. V. aussi les Exam. de la Galerie du palais, de la
+Suivante, etc.</p>
+<p>(*) Arte nuevo de bacer cemedias en este liempo</p>
+<p><pb/></p>
+<p>— 105 —</p>
+<p>pa(1) Estr. della poet d'Ar. 5.</p>
+<p>8</p>
+<p><pb/></p>
+<p>— 106 —</p>
+<p>Admettons cependant la pensée de Corneille : ce qui est vrai pour un
+portrait, l'est-il pour un-tableau? est-ce l'imitation toute seule,
+l'imitation servile qui fait la gloire de l'art? Pour nous émouvoir,
+nous charmer, nous ravir en admiration., lui suffit-il de nous montrer
+la nature commune, la nature</p>
+<p>(1) Corn. Disc. 3. —(2) Ar. poét. 16,10.</p>
+<p>(3) Met. Estr. della poet. d'Ar. S. — (4) Spect. Num, 418.</p>
+<p><pb/></p>
+<p>— 107 —</p>
+<p>Largior hic campos tether et lumine vestit Purpureo, solemque suum, sua
+sidéra norunt.</p>
+<p>L'artiste et le poëte doivent être en quelque sorte des révélateurs : il
+ne leur suffit pas de connaître la terre, il faut qu'ils aient un
+pressentiment, et comme une prescience des choses du ciel.</p>
+<p>CHAPITRE III.</p>
+<p>DES MOEURS OU CARACTÈRES.</p>
+<p>Les moeurs, selon Aristote, doivent avoir quatre qualités.</p>
+<p>Il faut d'abord qu'elles soient excellentes (). Ce précepte n'est pas
+des plus clairs ; aussi n'a-t-il pas manqué de soulever des querelles.
+Scudéry, La Mesnardière et autres voyaient dans cette excellence
+réclamée par le philosophe, la bonté morale, la vertu ; et en
+conséquence ils n'ouvraient la</p>
+<p><pb/></p>
+<p>_ 108 —</p>
+<p>(1) Préface d'Andromaque. — (2) Corn. Disc. 1. (3) Ar. poét. 16, 3. —
+(4) Id. 16, 10.</p>
+<p><pb/></p>
+<p>— 109 —</p>
+<p>(1) Corn. Disc. 1. Sur ce sujet, Métastase (Eslr. della poet. d'Ar. 15)
+n'a guère l'ait que traduire Corneille.</p>
+<p>(2) Bal/.. Diss. sur la trag. — (3) Corn. Disc. 1.</p>
+<p><pb/></p>
+<p>— 110 —</p>
+<p>Sit Medea ferox invictaque ....</p>
+<p>Gardez-vous de donner, ainsi que dans Clélie ,</p>
+<p>H, ,</p>
+<p>produiront(1) 24, 621.</p>
+<p><pb/></p>
+<p>— 111 —</p>
+<p>.... Servetur ad imum Qualis ab incoepto processerit, et sibi constet.</p>
+<p>Il est clair que si l'on représente un caractère capricieux, il faudra,
+pour observer la règle, le faire constamment inconstant.</p>
+<p>(4)?</p>
+<p>(1) St.-Evrem. Sur les poèmes des anciens. — (2) Coru. Disc. 1. (3) Ar.
+poét. 7,13. — (4) Ar. poét., 7, 20. V. aussi id. 16, 2,</p>
+<p><pb/></p>
+<p>- 112 —</p>
+<p>CHAPITRE IV.</p>
+<p>DES ACTIONS PARTICULIÈRES OU SUBORDONNÉES.</p>
+<p>« Bien que l'action du poëme dramatique doive avoir son unité, il y faut
+considérer deux parties, le noeud et le dénoûment. « Le noeud est
+composé, suivant Aristote, en partie de " ce qui s'est passé hors du
+théâtre, avant le commencement « de l'action qu'on y décrit, et en
+partie de ce qui s'y passe : le « reste appartient au dénoûment. Le
+changement d'une for« tune en l'autre fait la séparation de ces deux
+parties. Tout « ce qui le précède est de la première, et ce changement
+avec » ce qui le suit regarde l'autre (1). » Le noeud dépend entiè(I)</p>
+<p>entiè(I) poét. 19, l.</p>
+<p><pb/></p>
+<p>— 113 —</p>
+<p>narration du passé Il y a des intrigues qui commencent</p>
+<p>d'ac(-1) Disc. 3.</p>
+<p><pb/></p>
+<p>— 114 —</p>
+<p>(1) Corn. Disc, 1. — (2) Volt. nol. au dise. 1 de Corn. (3) Corn. Disc. 1.</p>
+<p><pb/></p>
+<p>115 -</p>
+<p>terreur qui produit dans la tragédie un effet si admirable et si
+nécessaire.</p>
+<p>Ainsi le noeud doit être formé dès le premier acte ; dans les trois qui
+suivent, il doit se serrer de plus en plus sans jamais se rompre.</p>
+<p>Que le trouble toujours, croissant de scène en scène, Au comble parvenu
+, se débrouille sans peine.</p>
+<p>Il y a cependant quelquefois dans une pièce des personnages secondaires
+, des faits particuliers qu'on pourrait retrancher sans interrompre la
+suite des événements ; c'est ce qu'on appelle des épisodes, des faits et
+des personnages épisodiques. « Les uns et les autres, dit Corneille,
+doivent avoir leur fondement dans le premier acte et être attachés à
+l'action princi(1)</p>
+<p>princi(1) poét. 11, 3. — (2) Corn. Disc. 1. — (3) Ar. poét. 11, 3.</p>
+<p><pb/></p>
+<p>— 116 —</p>
+<p>pale, c'est-à-dire y servir de quelque chose, et particulièrement ces
+personnages épisodiques doivent s'embarrasser si bien avec les premiers
+qu'une seule intrigue brouille les uns et les autres. Aristote blâme
+fort les épisodes détachés et dit &lt;&gt; que les mauvais poëtes en font par
+ignorance, et les bons en faveur des comédiens pour leur donner de
+l'emploi (1 ). » L'infante du Cid est de ce nombre, et on la pourra
+condamner ou lui faire grâce par ce texte d'Aristote, suivant le rang
+qu'on voudra me donner parmi nos modernes(2).</p>
+<p>(1) Ar. poét. 10,10. —(2) Corn. Disc. 1.</p>
+<p><pb/></p>
+<p>— 117 —</p>
+<p>nécessaire que chaque acte laisse une attente de quelque chose qui se
+doive faire dans celui qui suit (1). -</p>
+<p>(1) Corn. Disc. 3. — (2) Id. ibid. — (3) Id. ibid.</p>
+<p><pb/></p>
+<p>- 118 -</p>
+<p>Corneille faisait ici sans s'en douter la critique du théâtre anglais. «
+Vous ne verrez jamais, dit Dryden, une pièce française finir par un
+simple changement de volonté, artifice ingénieux qui est la ressource
+ordinaire de nos poëtes pour terminer leurs pièces (2). »</p>
+<p>(1) Corn. Disc. 1. — (2) Dryd. Ess. of dram, poesy. (3) Corn. Disc. 3.</p>
+<p><pb/></p>
+<p>— 119 -</p>
+<p>cinquième acte soit la conclusion logique des prémisses posées dans les
+quatre premiers.</p>
+<p>Tout ce qu'on dit de trop est fade et rebutant.</p>
+<p>Il faut donc réserver toute la catastrophe pour le cinquième acte, " et
+même la reculer vers la fin autant qu'il est possible. Plus on la
+diffère, plus les esprits demeurent suspendus, et l'impatience qu'ils
+ont, de savoir de quel côté elle tournera,</p>
+<p>(1) Dans la Mort d'Achille de Benserade. — (2) Corn. Disc. 1. (3 D'Aub.
+Diss. sur Sert. —(4) Exam. d'Horace, du Cid, etc.</p>
+<p><pb/></p>
+<p>— 120 —</p>
+<p>(1) Tragédie de Tristan.</p>
+<p><pb/></p>
+<p>— 121 -</p>
+<p>l'accu(1) de Mélite.</p>
+<p><pb/></p>
+<p>— 122 —</p>
+<p>Tu n'as fait le devoir que d'un homme de bien.</p>
+<p>N'oublie-t-elle pas un peu trop promptement sa douleur, et peut-on
+concevoir un tel vers dans sa bouche, devant le corps sanglant de son
+père? Il nous est permis, du reste, de blâmer cette scène ; Corneille
+lui-même ne la justifie qu'en la déclarant une brillante absurdité (1).</p>
+<p>(1) Exam. du Cid.</p>
+<p><pb/></p>
+<p>— 123 —</p>
+<p>(1) Exam. de Pompée. —(-2) Vill. Cours de litt, sur le XVIIIe siècle.</p>
+<p><pb/></p>
+<p>— 124 —</p>
+<p>Quant au théâtre français, en généra], nous y retrouvons encore les deux
+mêmes influences contraires de cette poétique c elle lui a donné d'un
+côté ce qu'elle lui retirait de l'autre. Comme il est peu vraisemblable
+qu'il se passe un grand nombre d'incidents en un même jour et en un même
+lieu, on a dû voir nécessairement sur la scène française plus de paroles
+que d'actions, et moins d'événements que de pensées. Comment y faire
+entrer ces grandes peintures historiques, si justement admirées dans le
+théâtre anglais? L'histoire ne marche pas si vite ; et ce n'est pas en
+quelques heures que se font les révolutions qui changent les empires. Il
+faut aux événements secondaires qui les annoncent, les préparent ou les
+expliquent, le temps d'arriver; il faut aux diverses causes qui les
+produisent le temps de naître, de se développer et d'agir. Aussi, quels
+sont les chefs-d'oeuvre de notre scène? Le Cid, Polyeucte, Cinna,
+Andromaque, Phèdre, Athalie, sujets fa-</p>
+<p><pb/></p>
+<p>- 125 —</p>
+<p>(I) Crit, de Soph.</p>
+<p><pb/></p>
+<p>— 126qui</p>
+<p>Vu et lu,</p>
+<p>A Paris, en Sorbonne, le 1er novembre 1852,</p>
+<p>Par le doyen de la Faculté des Lettres de Paris,</p>
+<p>J. VICT. I.E CLERC.</p>
+<p>Permis d'imprimer, le 2 novembre 1832,</p>
+<p>Le Recteur de l'Académie de la Seine,</p>
+<p>CAYX.</p>
+<p><pb/></p>
+<p>TABLE.</p>
+<p>Pages</p>
+<p>AVANT-PROPOS 5</p>
+<p>PREMIÈRE PARTIE. — Du. but de la tragédie 9</p>
+<p>DEUXIÈME PARTIE.— Du choix du sujet 35</p>
+<p>TROISIÈME PARTIE. — De la manière de traiter le sujet 62</p>
+<p>Chapitre 1er. — De l'action en général 62</p>
+<p>— II. — Des unités de temps et de lieu 68</p>
+<p>— III. — Des moeurs ou caractères 107</p>
+<p>— IV. — Des actions particulières ou subordonnées. . 112</p>
+<p>IMPR. DE W. REMQUET ET cie, R. CARANCIERE, 5.</p>
+    </div>
+    </body>
+  </text>
+</TEI>

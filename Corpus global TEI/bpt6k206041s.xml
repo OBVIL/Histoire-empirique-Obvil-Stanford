@@ -1,0 +1,3684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Biré, Edmond (1829-1907)">Edmond Biré</author>
+<title>Dialogues des vivants et des morts / par Edmond Biré ; préf. par Armand de Pontmartin</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Biré, Edmond (1829-1907)</author>, <title>Dialogues des vivants et des morts / par Edmond Biré ; préf. par Armand de Pontmartin</title>, <date>1872</date>,description :,384 pages
+</bibl>
+<publisher>Lecoffre fils (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k206041s</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1872">1872</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p>DIALOGUES</p>
+<p>DES VIVANTS ET DES MORTS</p>
+<p><pb/></p>
+<p>`Du même auteur,</p>
+<p>^Lbs Poètes LAURÉATS DE l'Académie FRANÇAISE</p>
+<p>Recueil des poèmes couronnés depuis 1800, avec une introduction (1671
+1800) et des notices biographiques et littéraires', par Edmond Biré et
+Émile Grimaud. 2 vol. in- 18 jésus.</p>
+<p>VICTOR HUGO ET LA RESTAURATION Étude historique et littéraire,</p>
+<p>Un vol. in-18 jésus.</p>
+<p><pb/></p>
+<p>DIALOGUES</p>
+<p>DES VIVANTS ET DES MORTS</p>
+<p>PAR</p>
+<p>EDMOND BIRÉ</p>
+<p>PRÉFACE</p>
+<p>PAR ARMAND DE PONTMARTIN</p>
+<p>TAT^IS</p>
+<p>LECOFFRE FILS ET C" ÉDITEURS go, rué Bonaparte, go</p>
+<p>1872</p>
+<p><pb/></p>
+<p>PRÉFACE</p>
+<p><pb/></p>
+<p>PRÉFACE</p>
+<p>Pour bien apprécier le livre que je suis heureux et fier de présenter au
+public, reportons-nous en idée vers ces jours néfastes où Paris et la
+France, affolés de douleur, d'humiliation et de rage, semblaient se
+liguer avec nos vainqueurs pour achever l'oeuvre de désolation et de
+ruine. On eût dit un malade, pris d'un accès de fièvre chaude,'
+déchirant de ses mains brûlantes l'appareil de ses plaies et déjouant
+par ses violences le dernier effort de ceux qui essayaient de le sauver.
+Partout la menace, la haine, la récrimination stérile, le présage
+sinistre, en attendant le massacre et l'incendie; la province subissant
+le contre-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Revue des deux mondes passée dans</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>supérieurs aux nouveaux. Vous, tribuns démagogues, esclaves de vos
+électeurs, mendiants de popularité, qui prétendiez dompter les monstres,
+que vous êtes loin d'Hercule et de Thésée! Vous, parleurs de clubs et de
+brasseries, agitateurs de trottoir, courtisans de la'plèbe,vous ne valez
+pas les Gracques, et c'est de vous que le poète pourrait dire</p>
+<p>« Quis tulerit Cnacchos de seclitione querenles ? »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>sérié de griefs, consignés dans leurs anciens' ouvragez contre le régime
+impérial' et les souvenirs'du'premier Empiré. Je résume les' impressions
+dé cette piquante est instructive lecture' en- 'quatre noms,'
+qui'expliquent les faillites' de notre-patriotisme, les illusions- --de
+notre: vanité ̃ nationale i les funestes effets dé notre chauvinisme
+militaire, la persistance de' notre mauvaise fortuné, et enfin
+l'avortement provisoire dé iios'dèrnièrés- espérances :-V'ol^ taire,
+Napoléon, Gambetta, M. Thiërs.;</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Hé bien, disons-le hardiment, le pays, le peuple, la capitale, qui,
+entre Sadowa et Wissembourg, entre la menace et le désastre, n'a rien
+trouvé de plus ingénieux, de plus libéral et de plus français que de
+revernir la gloire de Voltaire et d'installer la statue de l'ami de
+Frédéric pour souhaiter la bienvenue aux soldats de Guillaume et de
+Bismark, ce peuple, ce pays, cette capitale n'ont, hélas que trop</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Mais silence Le temps marche, et nos malheurs ont marché plus vite
+encore. Aux bar-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>N'y aurait-il, dans les Dicclogaces des vivants</p>
+<p><pb/></p>
+<p>cl des morts, que ce beau chapitre,-Le Cinq Mai 1871 ce serait assez
+pour nous donner en vie de les lire et de les méditer après les avoir luis.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>comme neige tout en restant rouge, traité par M. Thiers de puissance à
+puissance, en paix avec sa conscience, et invoquant, non pas l'oubli qui
+amnistie, mais la mémoire qui récompense. Et la France, sa victime, ne
+lui a pas donné tort Et la démocratie, sa dupe, lui a donné raison Nous
+aurions, hélas u créer un mot, fait de stupeur et d'épouvante, de
+douleur et de désespoir, pour exprimer ce que nous avons ressenti,
+depuis deux ans, sous les coups réitérés qui nous écrasent. Hé bien! je
+le déclare, une de mes plus vives et plus douloureuses surprises a été
+la résurrection politique de M. Gambetta!</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Que dire de M. Thiers ? L'étudier sans passion est bien difficile nous
+attendions beaucoup de lui, et nos espérances d'hier sont nos mécomptes
+d'aujourd'hui. Dans le moment unique où le salut pouvait sortir de
+l'excès de</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>c Oui, l'on revient toujours</p>
+<p>A ses premiers amours »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>prendre que.sa grandeur eût commencé le jour où ses grandeurs auraient
+fini, et que le sacrifice qui eût abrégé son pouvoir aurait éternisé son
+nom. Il ne recueillera pas même le fruit de cet étroit calcul; il a été
+la fatalité de trois monarchies il ne sera pas la Providence de la
+République.</p>
+<p><pb/></p>
+<p>trospective, la prodigieuse mémoire de l'auteur équivaut ici au plus
+inflexible des réquisitoires. De ces citations sans réplique jaillissent
+deux vérités qui caractérisent en entier et dessinent de pied en cap le
+Thiers de 1872. hélas! et ses électeurs de 1871. Cet habile homme que
+nous avons tous nommé, le 8 février, comme le type le plus parfait d'une
+réparation dans le sens monarchique, a été et est resté révolutionnaire
+jusqu'aux moelles; ce libre et judicieux esprit en qui nous avons aimé
+surtout l'antipode et l'antidote de l'impérialisme, a servi de trait
+d'union entre la gloire de Napoléon Ier et l'avénement de Napoléon IIl
+quod erat demonstrandunij comme disent les géomètres.</p>
+<p>S'il est vrai, comme nous le rappellent ces curieux et ingénieux
+Dialogues, que, parmi les acteurs ou les comparses, passés ou présents,
+de la comédie lugubre, du mélodrame grotesque dont notre honneur et
+notre argent paient les frais, bien peu aient compris, accepté ou
+accompli leur tâche, que les sauveurs aient été rares ou impuissants,
+les maléfices innombrables et terribles, que la politique- et la guerre
+nous aient également trahis en la personne et par la faute de nos
+défenseurs</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Cannes, /2 avril 1872.</p>
+<p><pb/></p>
+<p>LA STATUE DE VOLTAIRE</p>
+<p><pb/></p>
+<p>1</p>
+<p>LA STATUE DE VOLTAIRE</p>
+<p>Voltaire, M. de Bisinark et M. Edmond About. La scène se passe aux
+Champs-Elysces puis sur le square du boulevard du Prince-Eugène, à
+Paris, dans la nuit du 1" mars 1871.</p>
+<p>VOLTAIRE IL M. de Bismark.</p>
+<p>M. DE BISMARK, en costume de cuirassier.</p>
+<p><pb/></p>
+<p>VOLTAIRE.</p>
+<p>On y voit en effet ma statue je suis M. de</p>
+<p>Voltaire.</p>
+<p>M. DE bismark, lui serrant la main.</p>
+<p>Ah! monsieur de Voltaire, que je suis donc char-</p>
+<p>̃' VOLTAIRE, souriant.</p>
+<p>Je crois qu'il était midi bien sonné lorsque l'em-</p>
+<p>pereur Napoléon est monté dans son carrosse.</p>
+<p>M. DE BISMARK.</p>
+<p>Je ne m'endors jamais sans avoir lu quelques</p>
+<p><pb/></p>
+<p>Avec quel dédain vous y parlez de la France et des Français, de ces
+pauvres Welches, comme vous les appelez si plaisamment Ce matin encore,
+je relisais avec délices votre fameuse lettre du 2 septembre 1767 « Le
+fond des Welches sera toujours sot et grossier. Allez, mes Welches, Dieu
+vous bénisse vous êtes la ch.se du genre humain. » (Il rit et se frotte
+les mains.)</p>
+<p>VOLTAIRE.</p>
+<p>De terreur panique est atteint;</p>
+<p>Que dans Rosbach on vous a peint (2). »</p>
+<p>M. DE BISMARK..</p>
+<p>(') Op. cit., mai 1775.</p>
+<p>(2) Op. cit.. 27 avril 1775.</p>
+<p><pb/></p>
+<p>Héros du Nord, je savais bien</p>
+<p>Que vous avez vu les derrières</p>
+<p>Des guerriers du roi très-chrétien,</p>
+<p>A qui vous taillez des croupières (1 ).</p>
+<p>VOLTAIRE.</p>
+<p>Frédéric faisait lui-même de bien jolis vers.</p>
+<p>M. DE BISMARK.</p>
+<p>Ce peuple sot et volage</p>
+<p>Aussi vaillant an pillage</p>
+<p>Que lâche dant les combats. »</p>
+<p>VOLTAIRE, riant.</p>
+<p>Cette peinture de mes Welches a fait longtemps mes délices.</p>
+<p>M. DE BISMARK, de même.</p>
+<p>(') Op. cil., 2 mai 1758.</p>
+<p>(2) Op. cit., 28 mai 1775.</p>
+<p><pb/></p>
+<p>VOLTAIRE.</p>
+<p>M. DE BISMARK.</p>
+<p>Si je n'ai pu être le témoin de vos triomphes et y applaudir, si je n'ai
+pu voir l'annexion de l'Alsace et le démembrement de la Lorraine, j'ai
+vu le démembrement de la Pologne c'est ma consolation. M. DE BISMARK.</p>
+<p><pb/></p>
+<p>(2) Lettres de l'impératrice de Russie et de M. de Voltaire,, février 1769.</p>
+<p>(3) Op. cil., 18 octobre 1771.</p>
+<p><pb/></p>
+<p>VOLTAIRE.</p>
+<p>(') Op. cit., 18 mai 1770.</p>
+<p><pb/></p>
+<p>rez, mais je sais que l'aigle de Prusse va bien loin. Je supplie cet
+Aigle de daigner jeter sur moi, chétif, du haut des airs où il plane, un
+de ces coups d'œil qui raniment le génie éteint ('). »</p>
+<p>M. DE BISMARK (bas).</p>
+<p>Le plat valet (Haut). Monsieur de Voltaire, on n'écrit pas en meilleur
+français!</p>
+<p>VOLTAIRE.</p>
+<p>(A ce moment, M. EdmondAbout qui, depuis le commencement de la scène,
+marche religieusement derrière l'ombre de Voltaire, et que M. de Bismark
+n'a pas encore aperçu, s'avance et s'incline).</p>
+<p>VOLTAIRE, le présentant.</p>
+<p>M. Edmond About, lauréat de l'Université de France, auteur de la Grèce
+contemporaine, de Rome contemporain, de YEgypte contemporaine. (A M.
+About). Allons, mon ami, offrez vos Ci) Lettres du roi de Prusse et de
+il. de Voltaire, 16 octobre 1772.</p>
+<p><pb/></p>
+<p>De quelle langue?</p>
+<p>VOLTAIRE.</p>
+<p>Oui.</p>
+<p>M. DE BISMARK.</p>
+<p>Parbleu de la langue qu'il a dans sa bouche. Je crois qu'il n'ira pas
+emprunter celle de son voisin.</p>
+<p>VOLTAIRE.</p>
+<p>Je vous dis de quel idiome, de quel langage? M. DE BISMARK.</p>
+<p>Ah c'est une autre affaire.</p>
+<p>VOLTAIRE.</p>
+<p>Non.</p>
+<p>VOLTAIRE.</p>
+<p>Grec?</p>
+<p>M. DE BISMARK.</p>
+<p>Non.</p>
+<p>VOLTAIRE.</p>
+<p>Italien?</p>
+<p>M. DE BISMARK.</p>
+<p>Non.</p>
+<p>VOLTAIRE.</p>
+<p>Turc?</p>
+<p><pb/></p>
+<p>M. DE BISMARK.</p>
+<p>Non.</p>
+<p>VOLTAIRE.</p>
+<p>Français ?</p>
+<p>M. DE BISMARK.</p>
+<p>Non, non alsacien, alsacien, alsacien.</p>
+<p>VOLTAIRE.</p>
+<p>Ah alsacien. Fort bien, notre jeune homme est justement de Saverne.</p>
+<p>M. ABOUT.</p>
+<p>M. ABOUT.</p>
+<p>Montsir de Pismark, je salue en vus un crand homme, un frai baladin.</p>
+<p>M. DE BISMARK.</p>
+<p>Hein qu'est-ce que cela veut dire?' Je suis un baladin!</p>
+<p>VOLTAIRE.</p>
+<p>Au contraire, il dit que vous êtes un vrai paladin. Vous oubliez qu'en
+ce moment il parle alsacien.</p>
+<p>M. DE BISMARK.</p>
+<p>Ah! c'est vrai.</p>
+<p><pb/></p>
+<p>M. ABOUT.</p>
+<p>M. DE BISMARK.</p>
+<p>Je les écouterai avec le plus vif plaisir.</p>
+<p>M. ABOUT, récitant.</p>
+<p><pb/></p>
+<p>comme un seul homme, et la défaite de nos armées montra ce que pouvait
+l'unité allemande ('). »</p>
+<p>M. DE BISMARK.</p>
+<p>Nous en ferons quelque chose.</p>
+<p>M. ABOUT, continuant.</p>
+<p>M. DE BISMARK, se caressant la moustache.</p>
+<p>Tout cela est aussi bien pensé que bien écrit.</p>
+<p>M. ABOUT.</p>
+<p>(1) Op. cil., p. 10.</p>
+<p><pb/></p>
+<p>de lui aplanir les voies. Aujourd'hui surtout, le Régent du royaume, S.
+A. R. le prince de Prusse, paraît être l'objet d'une adoration poussée
+jusqu'au fanatisme. Nous sommes heureux d'apprendre que l'unité
+allemande a trouvé son centre et rien ne pouvait nous être plus agréable
+que de voir la nation se grouper autour d'un esprit ferme et d'un cœur
+droit ('). »</p>
+<p>M. DE BISMARK.</p>
+<p>Bon jeune homme!</p>
+<p>VOLTAIRE.</p>
+<p>Monsieur le comte, ce n'est pas parce que c'est mon élève, mais je puis
+dire que j'ai sujet d'être content de lui, et que tous ceux qui le
+voient en parlent comme d'un garçon qui n'a point de méchanceté..</p>
+<p>(Tout en causant, Voltaire, M. de Bismark et M. About sont arrivés sur
+le square du boulevard du Prince-Eugène, au pied de la statue de Voltaire.)</p>
+<p>M. DE BISMARK, devant les yeux.</p>
+<p>Tiens. c'est votre statue.</p>
+<p>VOLTAIRE.</p>
+<p>Oui, c'est celle qui m'a été élevée, dans les derniers jours de
+l'Empire, entre Forbach et Sedan, avec le produit de la sousciption
+Havin, JEre (') Op. cit., p. 14. C'est l'empereur Guillaume, alors
+Régent de Prusse, que célébrait ainsi M. About en 1860.</p>
+<p><pb/></p>
+<p>Havino, M. Henri Chevreau étant préfet de la Seine, Henrico Consule (').</p>
+<p>M. DE BISMARK.</p>
+<p>Votre statue, monsieur de Voltaire, sera beaucoup</p>
+<p>Par les lois, par les arts, et surtout par la guerre:</p>
+<p>(On entend dans le lointain une musique militaire jouant</p>
+<p>une marche triomphale.)</p>
+<p>VOLTAIRE.</p>
+<p>Qu'est-ce que cela ?</p>
+<p>M. DE BISMARK.</p>
+<p>C'est l'avant-garde de l'armée prussienne qui</p>
+<p>entre dans Paris.</p>
+<p>(') Gettres du roi de Prusse et de M. de Yoltaire, 1" mai 1775.</p>
+<p><pb/></p>
+<p>VOLTAIRE.</p>
+<p>(Le soleil se lève et dore de ses premiers rayons le toit de la mairie
+du Xh arrondissement, la mairie du citoyen Mottu.)</p>
+<p>VOLTAIRE.</p>
+<p>Voici le jour. Adieu, mes amis.</p>
+<p>(Son ombre s'évanouit dans les airs. Le bruit de la musique se rapproche).</p>
+<p>Ah! malheureux que je suis! Qu'ai-je fait? (Il s'évanouit sur le pavé.)</p>
+<p>M. DE DISMARK, très-légèrement. ému.</p>
+<p>Pauvre garçon! (Relevant les yeuœ vers la sta- tue de Voltaire.) Toutes
+réflexions faites, je la laisserai.ici cette statue, au cœur. même de
+Paris, n'est pas pour me déplaire. Un homme n'a cessé, Op. cit., 1"
+septembre 1740.</p>
+<p>(3) Op. cil., juin 1742.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>A LA PORTE DE LA CHAMBRE</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>II</p>
+<p>A LA PORTE DE LA CHAMBRE</p>
+<p>M. Glais-Bizoin, M. de Tillancourt, le marquis d'Andelarre, le vicomte
+de Meaux, M. Victor de Laprade, M. Vitet, premier huissier, second
+huissier, groupes de députés.</p>
+<p>La scène se passe au Grand-Théâtre de Bordeaux, dans la salle des
+Pas-Perdus, le jour de l'ouverlure de l'Assemblée nationale (12 février
+1871).</p>
+<p>SCÈNE PREMIÈRE.</p>
+<p>M. glms-bizoin, entrant par la gauche; PREMIER huissier, auprès de la
+porte de droite.</p>
+<p>M. GLAIS-BIZOIN.</p>
+<p>Personne encore</p>
+<p>PREMIER huissier, Rapprochant-</p>
+<p>Bonjour, monsieur Glais-Bizoin. Est-ce que Vous ne me remettez pas ?
+Nous sommes pourtant</p>
+<p><pb/></p>
+<p>(M. Glais-Bizoin garde le silence.)</p>
+<p>L'HUISSIER, poursuivant.</p>
+<p>92,308 M. un soupir.</p>
+<p>L'HUISSIER.</p>
+<p>l'huissier.</p>
+<p>Lorsque nous connaîtrons le résultat des votes</p>
+<p><pb/></p>
+<p>J'enrage. Je sais depuis ce matin, et ce faquin saura dans une heure,
+s'il ne le sait déjà, que je n'ai pas été réélu. Faute de
+quatre-vingt-dix-neuf mille voix, j'ai perdu mon siège.</p>
+<p>(Depuis le commencement de la scène, plusieurs représentants sont entrés
+dans la salle.)</p>
+<p>L'HUISSIER.</p>
+<p><pb/></p>
+<p>également M. Saint-Marc Girardin, M. Roger (du</p>
+<p>Nord), M. Dufaure et M. Vitet, qui causent, en ce</p>
+<p>moment, avec lui. M. Corne, qui leur fait un signe</p>
+<p>de tête en passant, est de 1837. Voici M. Rivet et</p>
+<p>n'est-ce pas M. de Peyramont ? Oui, c'est bien lui.</p>
+<p>Vous rappelez-vous, monsieur Glais-Bizoin, ce que</p>
+<p>Timon en a dit « C'est un orateur de longue cau-</p>
+<p>se, sans méthode, mais non pas sans chaleur, et</p>
+<p>qui serait éloquent, s'il prenait de bons ciseaux,</p>
+<p>bien affilés, bien coupants, et s'il rognait les trois</p>
+<p>quarts de son discours et la moitié du reste. »</p>
+<p>La peste soit du maraud et de ses citations!</p>
+<p>L'HUISSIER.</p>
+<p>Pauvre Timon S'il revenait au monde, il pour-</p>
+<p>rait se croire ici dans son atelier. Ce nouvel arri-</p>
+<p>vant n'est-il pas justement le comte Jaubert, qui</p>
+<p>posait devant lui, dès 1836, et dont il a tracé une</p>
+<p>si piquante esquisse « Jaubert a la parole alerte</p>
+<p>qui fait son entrée. On dit qu'il a été nommé dans</p>
+<p>vingt-sept départements. C'est trop pour un hom-</p>
+<p>me seul. Il y en a tant qui se contenteraient d'être</p>
+<p>élus une seule petite fois N'est-ce pas, monsieur</p>
+<p>Glais-Bizoin? (L'huissier rit.)</p>
+<p><pb/></p>
+<p>M. glais-bizoin, avec un rire forcé.</p>
+<p>Oui, certes, mon ami. (A part.) Je ne sais qui me retient de lui casser
+sa baguette sur. les épaules l'huissier.</p>
+<p>Autour de M. Thiers voltige un escadron d'anciens députés, M. de
+Corcelles, M. Mathieu de la Redorte, M. de Lasteyrie, M. Buffet, M.
+Baze, M. Daru. Tous réélus</p>
+<p>M. glais-bizoin, rêveur.</p>
+<p>Réélus</p>
+<p>l'huissier.</p>
+<p>SCÈNE II.</p>
+<p>M. GLAIS-BIZOIN, M. DE TJLLANCOURT, puis LE MARQUIS D'ANDELARRE, airtres
+député.</p>
+<p>M. DE TILLANCOURT.</p>
+<p><pb/></p>
+<p>M. GLAIS-BIZOIN,</p>
+<p>Comme on peut se porter, lorsque les électeurs ne veulent plus de vous.</p>
+<p>M. DE TILLANCOURT.</p>
+<p>M. GLAIS-BIZOIN, d'un air modeste.</p>
+<p>Tillancourt, votre affection pour moi vous rend trop indulgent.</p>
+<p>M. DE TILLANCOURT.</p>
+<p>M. glais-bizoin vivement.</p>
+<p>Il vous a dit cela, Tillancourt? il vous a dit cela?</p>
+<p><pb/></p>
+<p>M. DE TILLANCOURT.</p>
+<p>M. GLAIS-BIZO1N.</p>
+<p>Tillancourt, vous allez trop loin.</p>
+<p>M.' DE TILLANCOURT.</p>
+<p>Je ne sais si vous pensez comme moi, Tillancourt mais je n'ai jamais
+compris que l'on pût nier l'infaillibilité.</p>
+<p><pb/></p>
+<p>M. DE TILLANCOURT.</p>
+<p>Comment, Glais-Bizoin, vous êtes infaillibiliste? Vous</p>
+<p>Créjnieux, qui l'eût dit? Fourichon, qui l'eût cru?</p>
+<p>M. CLAIS-BIZOIN.</p>
+<p>M. DE TILLANCOURT.</p>
+<p>A la bonne heure!</p>
+<p>M. GLAIS-BIZOIN.</p>
+<p>Je veux parler de l'infaillibilité d'Aristote. Quand je songe qu'il
+s'est trouvé des gens assez fous pour la méconnaître, pour la repousser
+avec mépris M. DE TILLANCOURT.</p>
+<p>M. GLAIS-BIZOIN.</p>
+<p><pb/></p>
+<p>Ruy-Blas, pas une de ses pièces où il n'ait insulté la royauté</p>
+<p>M. DE TILLANCOURT.</p>
+<p>M. GLAIS-BIZOIN.</p>
+<p>M. DE TILLANCOURT.</p>
+<p>Et vous en aviez le droit, Glais-Bizoin. Y a-t-il rien, en effet, dans
+le théâtre de ce Victor Hugo, qui vaille votre grande scène du chien
+enragé cette scène ne sortira jamais de ma mémoire. Je crois y assister
+encore. C'est au second acte, n'estce pas ?</p>
+<p><pb/></p>
+<p>M. GLAIS-BIZOIN.</p>
+<p>Oui, mon excellent ami, acte II, scène VII.</p>
+<p>M. DE TILLANCOURT.</p>
+<p>M. GLAIS-BIZOIN, se tournant vers eux.</p>
+<p>Lantara, c'est le nom du chien.</p>
+<p>M. DE TILLANCOURT, continuant.</p>
+<p>(1) Le vrai Courage, comédie en trois actes et en prose, par A. •
+Glais-Bizoin, député. Acte u, scène vu</p>
+<p><pb/></p>
+<p>(Les députés, de plus en plus nombreux, se pressent autour de M. de
+Tillancourt.et de M. Glais-Bizoin. Une émotion profonde est peinte sur
+tous les visages. )</p>
+<p>LE MARQUIS D'ANDELARRE.</p>
+<p>Continuez, Tillancourt, je vous en prie.</p>
+<p>M. DE TILLANCOURT.</p>
+<p>LE MARQUIS D'ANDELARRE, avec émotion.</p>
+<p>M. DE TILLANCOURT.</p>
+<p>Précisément, monsieur le marquis. Voici les paroles de Clorinde elles ne
+sortiront jamais de ma mémoire « Valentin! Valentin! Il ne m'écoute pas.
+Il court vers La Bouvardière, qui lui fait des signes de détresse; il le
+rejoint et l'aide à</p>
+<p><pb/></p>
+<p>LE MARQUIS D'ANDELARRE.</p>
+<p>Et elle meurt ?</p>
+<p>M. DE TILLANCOURT.</p>
+<p>Marquis, rassurez-vous. Valentin, le dos toujours appuyé contre l'arbre,
+attend le chien de piedferme et lui enfonce son épée si vigoureusement
+derrière l'oreille, que Lantara tombe raide mort, la tête fixée au sol
+où il reste sans mouvement, comme un papillon cloué au mur par une
+épingle'. (Un soupir de soulagement s'échappe de toutes les poitrines.
+Les députés qui entourent M. Glais-Bizoin lui adressent de chaleureuses
+félicitations. )</p>
+<p>M. DE TILLANCOURT.</p>
+<p>Vous le voyez messieurs, la pièce de mon ami Glais-Bizoin a du feu, de
+la passion, du style elle a surtout du chien. (Murmures d'approbation
+dans l'auditoire.)</p>
+<p>1 Le vrai Courage. Acte n, scènes vin ix et xn.</p>
+<p><pb/></p>
+<p>SCÈNE III.</p>
+<p>Les mêmes, LE SECOND IIUISSIER, puis M. DE MEAUX, h1. VICTOR DE LAPRADE
+ET M. VITET.</p>
+<p>LE SECOND HUISSIER, entrant.</p>
+<p>Messieurs, la séance va commencer.</p>
+<p>Vos titres ont toujours quelque chose de rare.</p>
+<p>Garnier-Pagès ?</p>
+<p>M. DE TILLANCOURT.</p>
+<p>M. GLAIS-BIZOIN, stupéfait.</p>
+<p>Du génie ? Arago ? Ah oui, l'Autre.</p>
+<p><pb/></p>
+<p>M. DE TILLANCOURT.</p>
+<p>M. GLAIS-BIZOIN, avec un sourire mêlé d'une larme.</p>
+<p>Ce brave Chambolle</p>
+<p>M. DE TILLANCOURT.</p>
+<p>Où le député Chambolle rédigeait le Siècle, que rédigea depuis le député
+Havin.</p>
+<p>M. DE MEAUX, en passant demi-voix).</p>
+<p>La sottise est de tous les Siècles.</p>
+<p>M. DE TILLANCOURT.</p>
+<p>Quel affreux jeu. de Meaux.</p>
+<p>(M. Glais-Bizoin, que les souvenirs évoqués par M. de Tillancourt ont
+plongé dans un doux ravissement, veut entrer avec lui dans la salle des
+séances.)</p>
+<p>SECOND HUISSIER.</p>
+<p>Daignez m'excuser, monsieur Glais-Bizoin, mais</p>
+<p><pb/></p>
+<p>je ne puis vous laisser entrer. Je vais vous faire donner une place dans
+la loge réservée aux anciens députés.</p>
+<p>Ah c'est vrai malheureux que je suis J'oubliais que je ne suis plus député.</p>
+<p>Plus ne m'est rien, rien ne m'est plus.</p>
+<p>(Il contemple avec désespoir la porte de la salle. Entrent M. Victor de
+Laprade et M. Vitet.)</p>
+<p>Debout, foulant du pied le vil serpent dans l'herbe, L'archange est là,
+le glaive en main, calme et superbe L'oeil fixé sur la porte, Adam pâle
+éperdu,</p>
+<p>Contemple, frémissant, le Paradis perdu.</p>
+<p>M. vitet.</p>
+<p>Laprade, avant d'entrer, écoutez une cbose</p>
+<p>Un député ne doit jamais parler qu'en prose.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>MAITRE JACQUES. CRÉMIEUX</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>III</p>
+<p>MAITRE JACQUES. CREMIEDX"</p>
+<p>Maître Crémieux, Henri Rochefort, deux marchands de journaux.-M.
+Glais-Bizoin, personnage muet.</p>
+<p>Me CRÉMIEUX, seul.</p>
+<p>L'Assemblée nationale va se constituer définitivement aujourd'hui. sans
+moi et sans GlaisBizoin</p>
+<p>(Entre le citoyen Rochefort en costume d'artilleur de la garde nationale
+de Paris.)</p>
+<p>ROCHEFORT.</p>
+<p>Bonjour, mon cher collègue. J'arrive de Paris où j'ai eu, comme vous le
+savez sans doute, un assez joli succès, 163,248 voix.</p>
+<p>CRÉMIEUX, s'efforçant de sourire.</p>
+<p>Ce succès ne m'étonne point: les Parisiens n'ont pas voulu mettre la
+lanterne sous le boisseau. (') Ce dialogue a été publié pour la première
+fois le 10 mars 1871.</p>
+<p><pb/></p>
+<p>ROCHEFORT, lui ser-ranl la main.</p>
+<p>Me CRÉMIEUX.</p>
+<p>ROCHEFORT.</p>
+<p>Je n'affirmerais pas qu'il ait fait grand mal aux Prussiens. Ce qui est
+certain, c'est que, si les soldats de Guillaume ont pris tous les canons
+des forts, ils n'ont pas touché au canon de Rochefort. Me CRÉMIEUX.</p>
+<p>Ah! parfait parfait</p>
+<p>ROCHEFORT.</p>
+<p><pb/></p>
+<p>bia CRÉMIEUX.</p>
+<p>Vous vous étiez enrôlé dans un bataillon de marche ?</p>
+<p>rochefort, avec embarras.</p>
+<p>me CRÉMIEUX.</p>
+<p>Excellente idée! Ainsi, vous combattiez. inLr'l'c muros.</p>
+<p>Iliacos ultra muros pitgnatur et intrà.</p>
+<p>ROCHEFORT.</p>
+<p>Cette Commission était très-sérieuse, je vous assure, et comptait dans
+son sein les hommes les plus énergiques de Paris, Floquet, Dorian,
+Flourens, Martin Bernard, Bastide et Dréo, le gendre de notre collègue
+Garnier-Pagès. A propos Garnier-Pagès a-t-il été élu en province ?</p>
+<p>M" CRÉMIEUX, avec ztne satisfaction mal dissimulée.</p>
+<p>ROCHEFORT.</p>
+<p>Ah bien oui, il n'est même pas arrivé bon soixantième.</p>
+<p>Me crémieux poussant un soacpir de soulagement.</p>
+<p>Ce pauvre Garnier-Pagès!</p>
+<p><pb/></p>
+<p>ROCHEFORT.</p>
+<p>Entre nous, je ne donnerais pas 45 centimes pour qu'il eût été nommé.
+Mais ce n'est point de cela qu'il s'agit pour le moment. Débarqué de ce
+matin, j'ignore entièrement ce qui s'est passé en province depuis cinq
+mois, depuis que vous avez quitté Paris avec Fourichon et Glais-Bizoin.
+Nous recevions bien de temps en temps des nouvelles par nos pigeons,
+mais je ne l'étais point assez,pas n'est besoin de vous le dire, pour
+croire un traître mot des messages que ces honnêtes volatiles nous
+apportaient sous leurs ailes. (Il fredonne) Pigeons, vous que la Muse
+antique</p>
+<p>Attelait au char des Amours,</p>
+<p>Où volez-vous?.</p>
+<p>Me CRÉMIEUY.</p>
+<p>ROCHEFORT.</p>
+<p>Me CRÉMIEUR.</p>
+<p>ROCHEFORT.</p>
+<p>Au ministre de la guerre.</p>
+<p><pb/></p>
+<p>MO CRÉMIEUX.</p>
+<p>Attendez donc, s'il vous plaît.</p>
+<p>ltOCIIEFOUT.</p>
+<p>Eh bien quel a été votre premier acte comme ministre de la guerre ?</p>
+<p>MO CRÉMIEUX.</p>
+<p>J'ai commencé par chercher un homme, et pour cela.</p>
+<p>ROCIIEFORT souriant.</p>
+<p>Vous avez allumé votre lanterne?</p>
+<p>MO CRÉMIEUX, de même.</p>
+<p><pb/></p>
+<p>ROCHEFORT.</p>
+<p>nie CRÉMIEUX.</p>
+<p><pb/></p>
+<p>ROCHEFORT,.</p>
+<p>Je vois cela d'ici la Tour de Babel.</p>
+<p>MC CRÉMIEUX.</p>
+<p>ROCHEFORT.</p>
+<p>Qu'est-ce que cela prouvait ?</p>
+<p>MO CRÉMIEUX.</p>
+<p>ROCHEFORT.</p>
+<p>Puisqu'il l'avait acheté Et Garibaldi lui-même, qu'en faisiez-vous ?</p>
+<p><pb/></p>
+<p>MC CRÉMIEUX.</p>
+<p>nOCHËFORT.</p>
+<p>Me CRÉMIEUX.</p>
+<p><pb/></p>
+<p>KOCHEFORT.</p>
+<p>Pour dorer la pilule. Est-ce tout ?</p>
+<p>M» CRÉMIEUX.</p>
+<p>Non, certes. J'ai tué le prince Frédéric-Charles, j'ai tué le prince
+royal, j'ai tué le roi Guillaume. ROCHEFORT.</p>
+<p>Me CRÉMEUX.</p>
+<p><pb/></p>
+<p>sures; Bismark était mort de maladie de Moltke était mort de vieillesse.</p>
+<p>ROCHEFORT.</p>
+<p>Et Guillaume ?</p>
+<p>Mû CRÉMIEUX.</p>
+<p>Guillaume? Il était mort de rage et de désespoir. ROCHEFORT.</p>
+<p>Les gens que vous tuez se portent assez bien.</p>
+<p>Et avez-vous su qui était dans le cercueil mystérieux ?</p>
+<p>MO CRÉMIEUX.</p>
+<p>Il paraît que c'était le duc de Nassau.</p>
+<p>ROCHEFORT.</p>
+<p>Tiens! justement celui dont l'armée, composée de vingt-quatre hommes et
+de six officiers avait tant amusé Victor Hugo qui en parle quelque part
+dans ses Lettres sur le Rhin redevenues aujourd'hui un livre de
+circonstance, et que je relisais hier en wagon. « Au loin, sur la rive
+opposée, sous de beaux noyers qui ombragent une pelouse, on voit
+manœuvrer les soldats de M. de Nassau en veste verte et en pantalon
+blanc, et l'on entend le tambour tapageur d'un petit duc souverain (')
+.» Hélas! les soldats de M. de Nassau sont maintenant les soldats de M.
+de Moltke. (Après quelques instants de silence.) C'est égal, votre (')
+Le Rliin, T. I, p. 323.</p>
+<p><pb/></p>
+<p>MO CRÉMIEUX.</p>
+<p>Très-joli, très-joli.</p>
+<p>ROCHEFORT.</p>
+<p>Vous êtes trop bon; mais pendant que vous portieN ainsi Malbrougli eaa
+terre que faisiez-vous, mon cher maître, pour délivrer Strasbourg? MO
+CRÉMIEUX..</p>
+<p>ROCHEFORT,</p>
+<p>Le Français, né malin, créa. le télégramme</p>
+<p>MO CRÉMIEUX.</p>
+<p>Un beau matin, il fallait en finir, je publie une dépêche ainsi conçue «
+Les renseignements sur Strasbourg sont très-bons. On peut être certain
+qu'il tiendra plus d'un mois. La défense est assurée. » Enthousiasme
+général. Joie indicible.</p>
+<p><pb/></p>
+<p>ROCHEFORT.</p>
+<p>Me CRÉM1EUX.</p>
+<p><pb/></p>
+<p>ROCHEFORT.</p>
+<p>Me CRÉMIEUX.</p>
+<p>Attendez, ceci s'adresse au ministre de la justice.</p>
+<p>(Il prend sur une chaise sa robe de garde des sceaux, la passe par
+dessus sa tunique de général et remplace son. képi, aux galons d'or, par
+une toque aux galons d'argent.)' ROCIIEFORT.</p>
+<p>Cedant arma togce. (Bas.) Qu'il est laid</p>
+<p>Dame Nature eût pu le créer mieux.</p>
+<p>Armé, c'est le dieu Mars désarmé, c'est l'Amour.</p>
+<p><pb/></p>
+<p>MO CRÉMIEUX.</p>
+<p>J'ai destitué.</p>
+<p>ROCHEFORT.</p>
+<p>Naturellement.</p>
+<p>MC CRÉMIEUX.</p>
+<p>J'ai destitué, destitué, destitué. J'ai destitué des procureurs
+généraux, j'ai destitué des substituts, j'ai destitué des juges de paix.</p>
+<p>ROCHEFORT, faisani la moue.</p>
+<p>C'est peu de chose.</p>
+<p>Me CRÉMIEUX.</p>
+<p>J'ai rendu un décret brisant l'inamovibilité des juges (') j'ai cassé
+des premiers présidents.</p>
+<p>ROCHEFORT.</p>
+<p>C'est mieux.</p>
+<p>Me CRÉMIEUX.</p>
+<p>ROCHEFORT.</p>
+<p><pb/></p>
+<p>Me CRÉMIEUY.</p>
+<p>ROCHEFORT, attendri.</p>
+<p>Crémieux, vous êtes beau comme l'antique! Oui, vous me rappelez, en ce
+moment, Glais-Bizoin et vous, ces nobles vieillards dont parle, au début
+de l'un de ses sonnets, le poëte Ronsard</p>
+<p>II ne faut s'esbahir, disaient les bons vieillards,</p>
+<p>Devant le mur troyen voyant passer Hélène,</p>
+<p>Si pour telle beauté nous souffrons tant de peine;</p>
+<p>Notre mal ne vaut pas un seul de ses regards.</p>
+<p><pb/></p>
+<p>revoir, mon bon. (Il sort en sifflottant un air de la Belle-Hélène.)</p>
+<p>PREMIER MARCHAND.</p>
+<p>DEUXIÈME MARCHAND.</p>
+<p>Un sou, la liste de tous les députés avec leurs adresses Un sou</p>
+<p>MO CRÉMIEUX.</p>
+<p>(Il ferme brusquement la fenêtre. -La porte s'ouvre. Entre 31.
+Glais-Bizoin. Sans échanger une parole, ils tombent dans les bras l'un
+de l'autre et mêlent leurs larmes. Tableau.)</p>
+<p><pb/></p>
+<p>MERCURE ET GAMBETTA</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>IV</p>
+<p>MERCURE. ET GAMBETTA"</p>
+<p>Mercure, Caron, Gambetta.</p>
+<p>(Mercure est, avec Gambetta., sur les bords de l'Aclaéron; Caron est
+dans sa barque.)</p>
+<p>CARON.</p>
+<p>MERCURE.</p>
+<p><pb/></p>
+<p>Mais ne renversera-t-il pas aussi ma barque, qui est vieille et qui fait
+eau partout ? Pourquoi vas-tu te charger de telle marchandise ? Il
+valait mieux le laisser parmi les vivants. Son ombre me fait peur.
+Comment s'appelle-t-il ?</p>
+<p>MERCURE.</p>
+<p>Gambetta. N'en as-tu pas ouï parler ?</p>
+<p>CARON.</p>
+<p>Ce pauvre Caron a de singulières façons de parler depuis qu'il est
+devenu romantique pour avoir passé le bon poëte Auguste Vacquerie,
+l'ombre de l'Ombre ,de Victor Hugo. (Haut.) Allons, Gambetta, ne nous
+attardons pas sur la rive.</p>
+<p><pb/></p>
+<p>CARON.</p>
+<p>N'est-ce pas lui qui a soutenu dernièrement, contre le philosophe Jules
+Simon, cette lutte épique dont les péripéties ont tenu, pendant cinq
+jours, les deux mondes en suspens?</p>
+<p>MERCURE.</p>
+<p>CARON.</p>
+<p>Raconte-moi.cela, Mercure.</p>
+<p>MERCURE.</p>
+<p>CARON.</p>
+<p>Et que faisait pendant ce temps Gambetta</p>
+<p><pb/></p>
+<p>pour parer les bottes que Simon lui portait ainsi sans relâche?</p>
+<p>MERCURE.</p>
+<p>CARON.</p>
+<p>Ses jours étaient-ils menacés ?</p>
+<p><pb/></p>
+<p>MERCURE.</p>
+<p>Et comment finit ce terrible duel?</p>
+<p>MERCURE.</p>
+<p>A grands coups de troncs d'arbre, ainsi que des géants. Pour la
+cinquième fois, voici que la nuit tombe.</p>
+<p>Gambetta tout coup, aigle aux yeux de colombe,</p>
+<p>S'arrête et dit</p>
+<p>« Simon, nous n'enfinirons point.</p>
+<p>Tant qu'il nous restera quelque tronçon au poing,</p>
+<p>Nous lutterons ainsi que lions et panthères.</p>
+<p>Ne vaudrait-il pas mieux que nous devinssions frères?</p>
+<p><pb/></p>
+<p>Ecoute, j'ai du vin, mon hardi compagnon,</p>
+<p>Vidons un broc ou deux.</p>
+<p>-Je veux bien, dit Simon.</p>
+<p>Et maintenant buvons, car l'affaire était chaude. »</p>
+<p>Ils burent du Limoux, département de l'Aude (*)</p>
+<p>CARON.</p>
+<p>MERCURE.</p>
+<p>GAMBETTA.</p>
+<p>Moi, je prétends y passer mes jours le plus doucement du monde, ci la
+fczçon antique, entre Epicure et Anacréon. Pluton peut dormir en paix:
+Jupiter me garde de conspirer contre lui Pour Proserpine, je lui dirai
+des nouvelles de la Sicile qu'elle a tant aimée je peux lui en donner de
+toutes fraîches, que je tiens de mon illustre ami (') Voyez, dans la
+Lcgende des Siècles, le Mariage de Roland..</p>
+<p><pb/></p>
+<p>MERCURE.</p>
+<p>CARON.</p>
+<p>Cinq cent mille talents ? C'est beaucoup pour un- homme seul. Cet Emile
+Ollivier, que j'ai passé l'autre jour, et qui nous énumérait les siens
+avec tant de complaisance, ne se vantait pas d'en posséder la dixième
+partie</p>
+<p>MERCURE.</p>
+<p>Eh mon ami, je ne parle point ici des talents de l'orateur ni de ceux de
+l'homme d'Etat. Je parle d'or en ce moment. Au lieu de talents, mettons
+des drachmes, si tu l'aimes mieux il en a dépensé, en moins de quatre
+mois, plus de deux milliards ('). CARON.</p>
+<p>Deux milliards Plus de deux milliards de drach(') La drachme valait 95
+centimes environ; le talent valait 5,000 drachmes.</p>
+<p><pb/></p>
+<p>mes! Monsieur Gambetta, donnez-vous donc la peine d'entrer dans ma barque.</p>
+<p>GAMBETTA.</p>
+<p>Excusez-moi mais de ces deux milliards, il ne me reste rien, pas même
+l'obole nécessaire pour payer mon passage.</p>
+<p>CARON.</p>
+<p>MERCURE.</p>
+<p>GAMBETTA.</p>
+<p>J'ai exercé la dictature, il est vrai, mais c'était pour sauver mon pays
+envahi par les barbares</p>
+<p><pb/></p>
+<p>MERCURE.</p>
+<p>Les as-tu chassés, ces barbares? Et ton pays, l'as-tu sauvé ? La
+dictature ne peut avoir qu'une excuse le succès. Cette excuse,
+oserais-tu l'invoquer ?</p>
+<p>GAMBETTA.</p>
+<p>GAMBETTA.</p>
+<p>Sans doute. A Trochu surtout.</p>
+<p>MERCURE.</p>
+<p>Et cependant le général Trochu a remporté une des plus grandes victoires
+du siècle.</p>
+<p>GAMUETTA.</p>
+<p>Mercure, vous voulez rire.</p>
+<p>MERCURE.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>siens avaient été délogés de toutes leurs positions et refoulés sur
+Versailles Paris était débloqué La France était sauvée</p>
+<p>CARON.</p>
+<p>MERCURE.</p>
+<p>Et ces morts disaient vrai. Cette grande victoire du peuple de Paris n'a
+jamais existé que dans l'imagination du citoyen Gambetta et sur les
+murailles couvertes du papier blanc de ses proclamations.</p>
+<p>GAMBETTA.</p>
+<p>CARON.</p>
+<p>A beau mentir qui vient de haut.</p>
+<p>MERCURE.</p>
+<p>Tu es allé bien plus loin le 1er décembre suivant. Ce jour-la un ballon
+apporta la nouvelle de la sortie du 30 novembre l'aéronaute cette fois
+était muni des rapports officiels; donc, pas d'erreur poss</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Tu sais maintenant comment Gambetta éclairait la province sur la
+situation de Paris; voici comment il éclairait le gouvernement de Paris
+sur les opérations militaires de la province. Le 12 janvier 1871, le
+prince Frédéric-Charles entrait au Mans l'armée du général Chanzy,
+battue, désorganisée, hors d'état de reprendre de longtemps
+l'offerisive, se retirait en désordre sur Laval. Le 14 janvier, Gambetta
+adressait au citoyen Jules Favre une dépêche où il lui disait « Chanzy
+s'est remis de son échec d'hier. Je ne peux pas me lasser de vous le
+redire, et chaque fois avec plus d'insistance il faut sortir, sans
+esprit de retopr. Près de 300.000 hommes vous ont abandonnés depuis cinq
+jours, pour courir, les uns sur Chanzy, les autres sur Bourbaki. Vous
+n'avez autour de vous qu'un simple cercle de feu, derrière lequel nos
+audacieux et habiles ennemis dérobent tous leurs mouvements » L'armée
+prussienne devant Paris n'a jamais dépassé 236.000 hommes (s).</p>
+<p>(') La République française, n° du 15 février, 1872.</p>
+<p><pb/></p>
+<p>CARON.</p>
+<p>Si de 300.000 l'on retranche 236.000, il reste.</p>
+<p>MERCURE.</p>
+<p>Tu n'y es pas, Caron, c'est 300.000 hommes qu'il s'agit de retrancher de
+236.000.</p>
+<p>CARON.</p>
+<p>Mais l'opération est impossible</p>
+<p>MERCURE.</p>
+<p>On voit bien, mon pauvre Caron, que tu n'as pas été l'École
+polytechnique comme cet illustre M. de Serres, le chef d'état-major de
+Gambetta, qui échafaudait, sur de si merveilleux calculs, de si beaux
+plans de campagne.</p>
+<p>CARON.</p>
+<p>Qu'est-ce que c'est que ce M. de Serres, dont il avait fait son chef
+d'état-major?</p>
+<p>MERCURE.</p>
+<p>Ce M. de Serres, qui ne se nomme point de Serres, mais Wieezflinski, est
+un jeune Polonais qui a reçu de Gambetta des lettres de grande
+naturalisation, en même temps que des titres de noblesse.</p>
+<p>CARON.</p>
+<p>Je croyais que ces titres avaient été abolis par la République française.</p>
+<p><pb/></p>
+<p>MERCURE.</p>
+<p>Tu croyais peut-être aussi, mon pauvre Caron, qu'elle avait aboli le
+Cabinet noir ?</p>
+<p>CARON.</p>
+<p>Assurément.</p>
+<p>MERCURE.</p>
+<p>CARON, lisant.</p>
+<p>GAMBETTA.</p>
+<p>Oseriez-vous prétendre, Mercure, que vous-'même, lorsque vous faisiez le
+service de la correspondance de l'Olympe, vous n'avez jamais violé le
+secret des lettres ?</p>
+<p>MERCURE.</p>
+<p>Comme avec irrévérence</p>
+<p>Parle des dieux ce maraud!</p>
+<p>Caron, conduis-le, sans tarder davantage, devant les trois juges et
+devant Pluton. Tu les avertiras de ma part que c'est un homme capable de</p>
+<p><pb/></p>
+<p>faire révolter tous les morts et de bouleverser le plus paisible de tous
+les empires la punition qu'il mérite, c'est de ne voir aucune femme et
+de se taire toujours (').</p>
+<p>En entendant ces mots, Gambetta courbe la tête et s'assied au fond de la
+barque qui s'éloigne du rivage.</p>
+<p>(') Voici la fin du Dialogue de Fénelon qne nous avons cité plus haut:</p>
+<p>CAI1ON.</p>
+<p>̃ Je donnerai de bons mémoires contre lui, et je crois qu'il passera fort
+mal son temps parmi les ombres s'il n'a plus de mauvaises intrigues il y
+faire.</p>
+<p><pb/></p>
+<p>MAITRES ET VALETS</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>V'.</p>
+<p>MAITRES ET VALETS</p>
+<p>$mile Ollivier, Léon Gambetta, Philis et Laurier.</p>
+<p>La seènc se passe aux Champs-Elysées.</p>
+<p>ÉmiLE rêveiir, zcn gros portefeuille, sous le bras.</p>
+<p>Sono i popoli di Francia umili ed ubbidien-</p>
+<p>lissimi. C'est Machiavel qui fait cette remarque</p>
+<p>dans les Ritratti. Paolo Sarpi et beaucoup d'autres</p>
+<p>dit, au livre troisième de son traité Della pérfe-</p>
+<p>zione della vita politica. (Levant les ye2cx et</p>
+<p>baissant la voix). Mais quel est ce personnage</p>
+<p>qui semble écouter ce que je dis et qui me regarde</p>
+<p>d'un si mauvais oeil?. Je ne me trompe point,</p>
+<p>c'est mon ancien collègue Gambetta'.</p>
+<p>Ces citations pédantes, cet air satisfait, cette</p>
+<p>magnifique paire de lunettes. c'est bien lui, c'est Émile Ollivier. (Lui
+frappant sur l'épaule.) Eh bien ma vieille, comment va ?</p>
+<p><pb/></p>
+<p>ÉMILE, rec-ulant de trois pas.</p>
+<p>Gardez monsieur, ces façons d'agir et de parler pour vos anciens amis,
+les habitués de la GrandeChaumière et du café Procope. Je crois en avoir
+aperçu quelques-uns, là-bas,- sous les arbres, qui jouent aux dominos.</p>
+<p>LÉON.</p>
+<p>Ma foi, c'est un beau jeu. L'esprit s'y développe,</p>
+<p>ÉMILE.</p>
+<p>Je dis, monsieur, qu'il serait séant de traiter avec un peu plus de
+respect un ancien ministre. LÉON.</p>
+<p>Ministre, la belle affaire Ah ça, depuis que vous êtes venu souper chez
+les Morts, suivant l'heureuse expression de cet excellent M. Troplong,
+vous ignorez donc complétement ce qui se passe là-haut ? Apprenez que,
+moi aussi, j'ai été ministre. Ed' anchi' io.</p>
+<p>ÉMILE, avec incrédulité..</p>
+<p>Ministre? Vous, ministre ? Et de quoi? Quel portefeuille aviez-vous ?</p>
+<p>(') Alfred de Musset, Diafogue entre Dupont et Durand.</p>
+<p><pb/></p>
+<p>LÉON.</p>
+<p>J'en avais deux, celui de l'intérieur et celui de la guerre.</p>
+<p>ÉMILE, se rapprochant.</p>
+<p>Comment c'est vrai? Vous aviez deux portefeuilles ?</p>
+<p>LÉON.</p>
+<p>Deux en même temps.</p>
+<p>ÉMILE poussant un soupir.</p>
+<p>Pour moi, je n'avais que les sceaux mais j'étais, en revanche, le
+principal ministre, le chef du Cabinet, et, en l'absence de l'Empereur,
+je présidais le Conseil.</p>
+<p>LÉON, négligemment.</p>
+<p>Pendant un trimestre et plus, j'ai été dictateur, rien que cela</p>
+<p>ÉMILE, stupéfait.</p>
+<p>LÉON.</p>
+<p>Et le mot était aussi heureux que juste. C'était bien, en effet, un
+Sadoioa, c'est-à-dire une victoire</p>
+<p><pb/></p>
+<p>Oh ne faites pas attention. Ce n'est rien. C'est Philis, qui ne me
+quitte pas plus que mon ombre. Mais, si je ne me trompe, il y a aussi
+quelqu'un derrière vous.</p>
+<p>LÉON.</p>
+<p><pb/></p>
+<p>Le cyprès, qui toujours croît auprès du laurier,</p>
+<p>D'une sombre couronne environne Laurier.</p>
+<p>Laurier n'est pas du bois.</p>
+<p>LAURIER.</p>
+<p>Je crois, Philis, que tu fais rimer Laurier.</p>
+<p>PHILIS.</p>
+<p>Avec guerrier? Le ciel m'en préserve!</p>
+<p>LAURIER.</p>
+<p>.Que dis-tu donc ?</p>
+<p>PHILIS.</p>
+<p>Oh mon Dieu je répète le vieux refrain</p>
+<p>Nous n'irons plus au bois</p>
+<p>Les lauriers sont coupés</p>
+<p>( Ces deux ombres s'évanouissent. )</p>
+<p>LÉON.</p>
+<p><pb/></p>
+<p>guerre, le mien n'est pas moins indissolublement uni aux événements qui
+en ont signalé la fin, et j'ose dire qu'ici la fin a été digne du
+commencement. Ce que vous aviez entrepris avec un coeur léger, je l'ai
+continué avec un front d'airain. (') J'ai eu sur vous cet avantage de
+diriger des armées.</p>
+<p>ÉMILE.</p>
+<p>Des armées ? Et combien ?</p>
+<p>LÉON.</p>
+<p>L'armée de la Loire, l'armée du Nord, l'armée de l'Est, sans parler des
+douze camps dont j'avais décrété la formation et qui devaient contenir
+deux millions de soldats. Je nommais et je révoquais les généraux; je
+jetais sur le papier des plans pour la campagne et des proclamations
+pour la ville; je copiais de mon mieux les bons modèles. Je copiais les
+membres de la Convention, et je jurais comme eux de faire un pacte avec
+la Victoire ou avec la Mort.</p>
+<p>EMILE.</p>
+<p>Vous me faites trembler (Il se détourne une seconde fois.)</p>
+<p>LÉON.</p>
+<p>Rassurez-vous, mon ami vous savez bien qu'on ne se tue pas pour si peu.
+Je copiais le dauphin, (') Dépêche de M. Gambetla il MM. Jules Favre et
+Trocliu, 13 janvier 1871.</p>
+<p><pb/></p>
+<p>ÉMILE.</p>
+<p>Lequel? Napoléon Ier ou Napoléon III?</p>
+<p>LÉON.</p>
+<p>EMILE.</p>
+<p><pb/></p>
+<p>LÉON.</p>
+<p>Vous voulez dire sans doute Girardin ? Est-ce que le pauvre diable ?.</p>
+<p>Emile, haussant des épaules.</p>
+<p>LÉON.</p>
+<p>EMILE.</p>
+<p>(')'Tout en signalant la manceuvre électorale qui contribua si
+puissamment au succès du plébiscite du 8 mai 18îo, il convient;</p>
+<p><pb/></p>
+<p>LÉON.</p>
+<p>Mon génie étonné tremble devant le sien.</p>
+<p>(Ils s'arrêtent au pied d'un escalier de marbre, devant un superbe
+édifice dont la façade renferme des milliers de petites niches avec des
+milliers de statues).</p>
+<p>pour cire juste, de -reconnaître que le complot de Mourons et de ses
+co-accusés était aussi réel qu'il était affreux. Les déclarations de
+Flourens lui-même ne permetlcnt pas de conserver a cet égard le plus
+léger doute.</p>
+<p><pb/></p>
+<p>LÉON.</p>
+<p>Peste quel cercle Dante Alighieri n'avait</p>
+<p>pas prévu celui-là.</p>
+<p>ÉMILE.</p>
+<p>C'est Morny qui en est le président. Il sera ravi</p>
+<p>de faire votre connaissance. Nous vous présenterons tous les deux, et je
+puis vous donner l'assurance que vous ne serez pas blachboulé. En
+attendant, vous pouvez toujours venir visiter les salons. (Ils
+gravissent les marches de l'escalier j Donnez-vous donc la peine d'entrer.</p>
+<p>LÉON.</p>
+<p>Veuillez passer le premier.</p>
+<p>EMILE.</p>
+<p>Après vous.</p>
+<p>LÉON.</p>
+<p>Après vous.</p>
+<p>ÉMILE.</p>
+<p>Après vous, s'il vous plaît.</p>
+<p>(A peine ont-ils franchi le seuil, que Philis arrive d'un</p>
+<p>côté el Lmerier de l'autre).</p>
+<p>LAURIER, apercevant PIIILIS. (Bas.)</p>
+<p>Ecce iterum Philis! ce républicain inflexible</p>
+<p>par M- Philis, 1855.</p>
+<p><pb/></p>
+<p>Simple, modeste, sage</p>
+<p>Et beau comme Philis,</p>
+<p>Porter sur son visage</p>
+<p>Des roses et des'lis,</p>
+<p>Sur son manteau de bure</p>
+<p>Des feuilles d'olivier</p>
+<p>Eh gai! c'est la parure</p>
+<p>De l'ami d'Ollivier.</p>
+<p>PHILIÀ, apercevant laurier. (Bas.)</p>
+<p>Faire un discours habile</p>
+<p>Que nul ne trouve long;</p>
+<p>Au-dessus de la Ville</p>
+<p>S'élever en ballon;</p>
+<p>Unir en conscience</p>
+<p>Au pampre le laurier</p>
+<p>Eh gai! c'est la science</p>
+<p>De l'ami de Laurier.</p>
+<p>LAURIER.</p>
+<p>Puisque nos maîtres se sont donné la main, notre devoir, Philis,
+n'est-il pas de faire comme eux? (Il Lui tend la main, que Philis saisit</p>
+<p><pb/></p>
+<p>avec empressement.J Ils se sont embrassés; embrassons-nous, Philis.</p>
+<p>(Ils se jettent dans les bras l'un de l'autre).</p>
+<p>PHILIS.</p>
+<p>Qu'allons-nous devenir ? Depuis qu'Ollivier n'est plus là, je suis comme
+une Ombre en peine.</p>
+<p>LAURIER.</p>
+<p>Tu t'embarrasses de peu. En serviteurs fidèles, nous devons imiter nos
+maîtres et suivre de notre mieux leurs exemples.</p>
+<p>PHILIS.</p>
+<p>D'accord.</p>
+<p>LAURIER.</p>
+<p>Eh bien! Philis, notre chemin est tout tracé.</p>
+<p>(Montrant du doigt la porte d'un cabaret, au-dessus de laqtielle un
+petit tableau en terre cuite représente deux hommes qui portent une
+amphore)</p>
+<p>Nos maîtres sont au cercle entrons au cabaret. )</p>
+<p>PHILIS.</p>
+<p>Après vous.</p>
+<p>LAURIER.</p>
+<p>Après vous.</p>
+<p>PHILIS.</p>
+<p>Après vous, s'il vous plaît.</p>
+<p><pb/></p>
+<p>LE CINQ MAI 1871</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LE CINQ MAI 1811</p>
+<p>Napoléon Jar, le Concierge du Corps législatif, Invalides et
+Gardes-nationaux.</p>
+<p>SCÈNE Ir»</p>
+<p>AUX INVALIDES.</p>
+<p>NAPOLÉON 1er, sortant de son tombeau et redardant autour de lui.</p>
+<p><pb/></p>
+<p>De quel plébiscite?</p>
+<p>NAPOLÉON.</p>
+<p>De celui du 8 mai 1870.</p>
+<p>LE PREMIER INVALIDE.</p>
+<p>Vous le savez, parbleu, aussi bien que nous.</p>
+<p>NAPOLÉON.</p>
+<p>Faites comme si je ne le savais pas, et veuillez me répondre vous
+m'obligerez infiniment.</p>
+<p><pb/></p>
+<p>NAPOLÉON, rayonnant.</p>
+<p>Plus de sept millions de Oui Merci, mes amis, merci mille fois.</p>
+<p>(OnentendducâtédeVanvesetd'Issy le bruit du canon. Napoléon s'arrête et
+écoute).</p>
+<p><pb/></p>
+<p>SCÈNE II.</p>
+<p>Devant la présidence du Corps législatif.</p>
+<p>NAPOLÉON.</p>
+<p>Quel président ?</p>
+<p>NAPOLÉON.</p>
+<p>Hé le président Schneider.</p>
+<p>LE CONCIERGE.</p>
+<p>M, Schneider est ailleurs (').</p>
+<p>NAPOLÉON.</p>
+<p>Le Corps législatif est donc en vacances ?</p>
+<p>LE CONCIERGE.</p>
+<p><pb/></p>
+<p>NAPOLÉON.</p>
+<p>Je vous assure, monsieur le concierge.</p>
+<p>LE CONCIERGE, d'un ton goguenard..</p>
+<p>Je vois ce que c'est. Monsieur arrive de Quimper-Corentin par la
+diligence qui descend rue Notre-Dame-des-Victoires. Hé bien puisqu'il en
+est ainsi, apprenez donc que le Corps législatif a été envahi et dissous
+le 4 septembre 'dernier; que le général Bergeret lui-même occupe
+présentement l'hôtel de la présidence, et que la Chambre est transformée
+en un atelier de cartouches. Sur ce, monsieur le rural, bonne nuit.- (Il
+ferme la porte de la loge.)</p>
+<p><pb/></p>
+<p>SCÈNE III.</p>
+<p>LE FACTIONNAIRE,</p>
+<p>On ne passe pas.</p>
+<p><pb/></p>
+<p>NAPOLÉON.</p>
+<p>Je vais chez l'Empereur.</p>
+<p>LE FACTIONNAIRE, part.</p>
+<p>C'est un fou. (Haut.) L'Empereur n'y est pas.</p>
+<p>NAPOLÉON.</p>
+<p>LE FACTIONNAIRE.</p>
+<p>NAPOLÉON, avec enthousiasme.</p>
+<p>LE FACTIONNAIRE, bas.</p>
+<p>(Quelqzces coups de canon se (ont entendre du côté de l'Arc-de-Triomphe).</p>
+<p><pb/></p>
+<p>NAPOLÉON.</p>
+<p>Dites-moi, mon ami, qui est-ce qui fait tirer le canon ?</p>
+<p>LE FAGTIONNAIRE.</p>
+<p>Qui? M. Thiers.</p>
+<p>NAPOLÉON.</p>
+<p>2 Thiers, tlisloére du Consulat et de t'Empire, tome XII, avertissement.</p>
+<p><pb/></p>
+<p>SCÈNE IV.</p>
+<p>Dans la rue de Rivoli.</p>
+<p>Deux compagnies du 112e bataillon, venant de l'Hôtelde-Ville-, et se
+rendant sur la place de la Concorde traversent la rue. La musique joue
+l'air du SALUT DE LA France. i</p>
+<p>NAPOLÉON, avec satisfaction.</p>
+<p>Je reconnais cet air-là. (Il fredonne :)</p>
+<p>Veillons au salut de l'Empire</p>
+<p><pb/></p>
+<p>Mais quel est cet uniforme ? (A un passant.) Monsieur, pourriez-vous me
+dire quels sont ces soldats ?</p>
+<p>LE PASSANT.</p>
+<p>Monsieur, ce sont des fédérés.</p>
+<p>NAPOLÉON.</p>
+<p>LE SECOND PASSANT.</p>
+<p>Monsieur, je crois qu'il y en a deux cent cinquante.</p>
+<p>NAPOLÉON.</p>
+<p>Deux cent cinquante bataillons de fédérés! C'est admirable Heureux Paris
+Heureuse France</p>
+<p><pb/></p>
+<p>Vieux communard, va (Haut) Bonne nuit, citoyen.</p>
+<p>NAPOLÉON avec étonnement.</p>
+<p>Citoyen</p>
+<p>SCÈNE V.</p>
+<p>Sur la place Vendôme.</p>
+<p>NAPOLÉON, regardant la colonne.</p>
+<p>Il avait petit chapeau</p>
+<p>Avec redingote grise.</p>
+<p><pb/></p>
+<p>LE GARDE NATIONAL.</p>
+<p>NAPOLÉON,</p>
+<p>Le général Trochu est-il sorti ?</p>
+<p>LE GARDE NATIONAL.</p>
+<p>Il a été remplacé par le général Vinoy.</p>
+<p>NAPOLÉON.</p>
+<p>Ah Je connais le général Vinoy, et..</p>
+<p>LE GARDE NATIONAL.</p>
+<p>Le général Vinoy a été remplacé par le général Bergeret lui-même.</p>
+<p><pb/></p>
+<p>NAPOLÉON.</p>
+<p>Je croyais que le général Bergeret était au Corps législatif?</p>
+<p>LE GARDE NATIONAL.</p>
+<p>En effet, il a été remplacé ici par le général Dombrowski.</p>
+<p>NAPOLÉON.</p>
+<p>Hé bien celui-ci.</p>
+<p>LE GARDE NATIONAL.</p>
+<p>Le général Dombrowski a cédé la place au général Cluseret.</p>
+<p>NAPOLÉON.</p>
+<p>Est-il possible ? Ce dernier du moins.</p>
+<p>LE GARDE NATIONAL.</p>
+<p>Ce dernier a eu pour successeur le colonel Rossel.</p>
+<p>NAPOLÉON, part.</p>
+<p>Bergeret, Dombrowski, Cluseret et Rossel. Si j'en connais pas un, je
+veux être pendu! (Haut) Excusez-moi, monsieur, mais il s'est donc passé
+ici, depuis dix mois, des choses extraordinaires ? LE CAItDE NATIONAL.</p>
+<p>Ah! ça! d'où sortez-vous ? Revenez-vous de l'autre monde?</p>
+<p>NAPOLÉON.</p>
+<p>Peut-être.</p>
+<p><pb/></p>
+<p>LE GARDE NATIONAL riant.</p>
+<p>Je parie que vous êtes monsieur Benoît.</p>
+<p>NAPOLÉON.</p>
+<p>Quel monsieur Benoît?</p>
+<p>LE GARDE NATIONAL.</p>
+<p>NAPOLÉON.</p>
+<p>C'est justement ce qui m'arrive. De tout ce qui a eu lieu depuis le 6
+mai de l'année dernière, je ne sais rien, absolument rien.</p>
+<p>LE GARDE NATIONAL, part.</p>
+<p>NAPOLÉON.</p>
+<p>Bravo 1</p>
+<p>LE GARDE NATIONAL.</p>
+<p>(') Voyez Papiers et Correspondance de la famille impéniale, I, 202,
+Ptatt de romatn de la ntain de l'Empereur.</p>
+<p><pb/></p>
+<p>NAPOLÉON, livide.</p>
+<p>Il a au moins vendu chèrement sa liberté ?</p>
+<p>LE GARDE NATIONAL, haussant les épaules.</p>
+<p>II tiré du fourreau son épée encore vierge, et l'a remise au roi de
+Prusse, qui s'est empressé de la refuser il a ensuite allumé une
+cigarette, et tout a été dit. La capitulation de Sedan avait lieu le se=
+septembre. L'Empire croulait trois jours plus tard.</p>
+<p>NAPOLÉON.</p>
+<p>Le 4 septembre! Je comprends maintenant pourquoi Schneider n'est plus au
+Corps législatif.</p>
+<p>LE GARDE NATIONAL.</p>
+<p>A quelles conditions ?,</p>
+<p>LE GARDE NATIONAL.</p>
+<p>Au prix de cinq milliards, de l'abandon de l'Alsace et d'une partie de
+la Lorraine. Le 1èr</p>
+<p><pb/></p>
+<p>NAPOLÉON.</p>
+<p>Et qu'ont fait les Parisiens pendant ces trois jours ?</p>
+<p>LE GARDE NATIONAL.</p>
+<p>La garde nationale s'est emparée de tous les canons, de toutes les
+munitions, de toutes les armes restées dans la ville.</p>
+<p>NAPOLÉON, relevant la tête.</p>
+<p>Et avec ces armes, avec ces canons, vous avez marché sur les Prussiens
+vous les avez chassés de ces rues et de ces places qu'ils osaient
+souiller de leur présence</p>
+<p>LE GARDE NATIONAL.</p>
+<p>Pas si bêtes, mon bonhomme.Nous avons gardé nos canons et nos chassepots
+pour un meilleur usage. (La canonnade redouble. d'intensité.) Tenez,
+entendez-vous? C'est la batterie du Pointdu -Jour qui tire sur l'armée
+de Versailles.</p>
+<p>NAPOLÉON.</p>
+<p>Que voulez-vous dire ?</p>
+<p>LE GARDE NATIONAL Ù part.</p>
+<p><pb/></p>
+<p>NAPOLÉON.</p>
+<p>Et les Prussiens ?. les Prussiens sont partis ?</p>
+<p>LE GARDE NATIONAL.</p>
+<p>LE GARDE NATIONAL.</p>
+<p><pb/></p>
+<p>NAPOLÉON, absorbé dans ses pensées.</p>
+<p>Quellehonte (Levant les yeux sur la colonne.) Hélas on n'est plus fier
+d'être Français lorsqu'on regarde la colonne</p>
+<p>LE GARDE NATIONAL.</p>
+<p>Regardez-la bien, monsieur Benoît, votre colonne. Vous ne la verrez pas
+longtemps.</p>
+<p>NAPOLÉON.</p>
+<p>Pourquoi cela?</p>
+<p>LE GARDE NATIONAL.</p>
+<p>NAPOLÉON.</p>
+<p>En effet, il s'en échappe une odeur.</p>
+<p>LE GARDE NATIONAL.</p>
+<p><pb/></p>
+<p>loigne. Le bruit de la canonnade devient plus violent que jamais.)</p>
+<p>NAPOLÉON.</p>
+<p>(Napoléon se redresse; il veut jeter un dernier regard sur la colonne',
+mais le courage lui manque, et sans oser lever les yeux, il reprend le
+chemin des Invalides).</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LA BARQUE</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>"VII</p>
+<p>LA BARQUE*</p>
+<p>Caron, Mercure, plusieurs morts, Proudhon. Le Boeuf, Marguerite
+Bellanger, l'empereur Guillaume, le prince de Bismark, Rouher, Renan, lé
+prince de Hohenzollern, le comte de Moltke, Garibaldi, Littré, Victor Hugo.</p>
+<p>Sur la rive du Styœ.</p>
+<p>CAItON.</p>
+<p>LES MORTS.</p>
+<p>Comment faire ?</p>
+<p>1 Voyez Lucien, Dialogues des Dlorls, a': Caron, Mercure, plusieurs
+morts; Ménippe; Charmolêus Lampichus, Damasias, un p/itlosophc; un orateur:</p>
+<p><pb/></p>
+<p>CARON.</p>
+<p>Tu as raison, et nous allons suivre cette marche. Quel est celui qui se
+présente le premier ? PROUDHON.</p>
+<p>MERCURE.</p>
+<p><pb/></p>
+<p>PMUDHON.</p>
+<p>Tu ne te trompes pas, Mercure, c'est bien un ruminant c'est Le Bœuf.</p>
+<p>LE BŒUF.</p>
+<p>Major général de l'armée du Rhin. Voici mon portefeuille de ministre de
+la guerre et mon b'âton de maréchal de France.</p>
+<p>PROUDIION..</p>
+<p><pb/></p>
+<p>et souviens-toi, lorsque tu seras sur l'autre rive, de ne jamais
+t'approcher du groupe où Soult et Masséna, Macdonald et Davoust, Lannes
+et Gouvion Saint-Cyr devisent entre eux des choses de la guerre, car si
+tu t'avisais de les vouloir fréquenter, tu pourrais bien recevoir, mon
+pauvre Le Bœuf, le coup de pied de Lannes. Si tu m'en crois, tu prendras
+tes quartiers dans cette prairie dont parle quelque part Sénèque, et où
+chaque animal trouve ce qui lui est propre: Canis leporem, Ciconia lacer
+tam, Bos herbam. Mais qui va là?</p>
+<p>MARGUERITE BELLANGER.</p>
+<p>Margueite Bellanger, comtesse de Montretout. CARON.</p>
+<p>MERCURE.</p>
+<p>Mon pauvre Caron, la saison d'effeuiller les marguerites est passée pour
+toi comme pour moi. Ne crains-tu pas que cette belle fille ne réponde à
+tes soupirs par ce couplet de Béranger, le poëte favori de son seigneur
+et maître</p>
+<p>Je n' suis qu'un' bouqu'tière et je n'ai rien,</p>
+<p>Mais d' vos soupirs je m' lasse</p>
+<p>Monsieur l' croqu'-mort, car il faut bien</p>
+<p>Vous dir' vot' nom-z-en face.</p>
+<p><pb/></p>
+<p>CARON piqué. •</p>
+<p>Mercure, je la trouve mauvaise.</p>
+<p>(11 prend un paquet de lettres, entouré d'une faveur rose, que lui remet
+Marguerite Bellanger et qu'il serre dans la coiffe de son pétase.)</p>
+<p>GUILLAUME.</p>
+<p>Guillaume, empereur d'Allemagne.</p>
+<p>MERCURE.</p>
+<p>Et pourquoi, Guillaume tout cet attirail ?</p>
+<p>GUILLAUME.</p>
+<p>Comment! fallait-il donc, Mercure, qu'un empereur vînt ici tout nu ?</p>
+<p>(1) Voyez dans les Papiers et Corrcspondance de la famille impé- rialc,
+i, pages 56 clsuiv., les lctlrcsdeM1" Marguerite Bellanger.</p>
+<p><pb/></p>
+<p>c MERCURE.</p>
+<p>Un empereur, non, mais un mort Dépose-moi tout cela.</p>
+<p>GUILLAUME.</p>
+<p>MERCURE.</p>
+<p>Jette aussi par terre ton orgueil, Guillaume, ton dédain de la justice
+et ton mépris de l'humanité ils chargeraient trop la barque, s'ils y
+montaient avec toi.</p>
+<p>GUILLAUME.</p>
+<p>Mais laisse-moi au moins mon sceptre et ma couronne</p>
+<p>MERCURE.</p>
+<p>Non pas il faut les abandonner aussi.</p>
+<p>GUILLAUME.</p>
+<p>Et maintenant ? tu le vois j'ai tout quitté.</p>
+<p>MERCURE.</p>
+<p><pb/></p>
+<p>GUILLAUME.</p>
+<p>MERCURE.</p>
+<p>Tu peux monter. Et toi, qui parais si pressé</p>
+<p>de le suivre, qui es-tu donc ?</p>
+<p>bismark, en uniforme de cuirassier.</p>
+<p>Je suis le prince de Bismark. J'accompagne par-</p>
+<p>Laisse-le approcher, afin que je puisse le voir</p>
+<p>MERCURE.</p>
+<p>Sois tranquille, Caron. (A M. de Bismark.)</p>
+<p>Commence par dépouiller ton titre de prince et</p>
+<p><pb/></p>
+<p>BISMARK.</p>
+<p>Puisqu'il le faut, je m'y résigne. Je te demande, Mercure, de conserver
+seulement deux choses.</p>
+<p>MERCURE.</p>
+<p>Et lesquelles ?</p>
+<p>BISMARK.</p>
+<p>Mon uniforme et mon casque de cuirassier.</p>
+<p>MERCURE.</p>
+<p>J'en suis désolé, mon prince, mais cela ne se peut pas. (M. de Bismark
+ôte son uniforme et son casque.) Je crois que maintenant je puis le
+laisser passer.</p>
+<p>PROUDHON.</p>
+<p>Il porte encore sous l'aisselle quelque chose de fort lourd.</p>
+<p><pb/></p>
+<p>MERCURE.</p>
+<p>Qu'est-ce donc, Proudhon?</p>
+<p>PROUDHON.</p>
+<p>La fourberie, Mercure, qui lui a été très-utile pendant sa -vie.</p>
+<p>(M. de Bismark va rejoindre l'empereur Guillaume. Le prince de
+Ilohenzollern qui, pendant le dialogue entre Mercure et M. de Bismark, a
+ôté son uniforme et ses décorations, son casque et ses bottes, se
+présente pour. passer.) MERCURE, le regardant avec admiration.</p>
+<p>Quel gaillard Blond, épais et charnu, un véritable Hercule du Nord, sans
+doute un de ces honnêtes géants qui vident beaucoup de chopes, donnent
+et reçoivent de bons coups de pointe et meurent sans avoir fait parler
+d'eux. Ton nom ? LE PRINCE DE HOHENZOLLERN.</p>
+<p>Léopold-Guillaume-Gharles de HohenzollernSigmaringen.</p>
+<p>MERCURE.</p>
+<p><pb/></p>
+<p>LE PRINCE DE HOHENZOLLERN.</p>
+<p>Mercure, laisse-moi passer; tu le vois, je suis nu; je n'ai absolument
+rien gardé, pas même mon beau fourneau de porcelaine j'ai cassé ma pipe.
+MERCURE.</p>
+<p>LE PRINCE DE HOHENZOLLERN.</p>
+<p>C'est fait, et je ne pèse pas plus que les autres morts.</p>
+<p>MERCURE.</p>
+<p>LE COMTE DE MOLTKE</p>
+<p>J'ai battu la France et l'Autriche, et ma patrie reconnaissante m'a
+donné cette récompense. Je suis le comte de Moltke. J'ai défait
+l'Autriche en six semaines et la France en six mois. Dans cette dernière
+campagne, mes troupes ont livré, en 180</p>
+<p><pb/></p>
+<p>jours, lfiO engagements victorieux et gagné 16 grandes batailles. Elles
+ont pris 120 drapeaux, 7,000 canons, 26 forteresses, 500,000 soldats,
+12,000 officiers, 300 généraux, 4 maréchaux, sans parler d'un empereur.</p>
+<p>MERCURE.</p>
+<p>Le fait est qu'il vaut mieux n'en parler point. LE COMTE DE MOLTKE.</p>
+<p>MERCURE.</p>
+<p>PROUDHON.</p>
+<p>MERCURE.</p>
+<p>Allons, quitte d'abord ce grotesque accoutrement, et puis après tout le
+reste. Par Jupiter qu'il a</p>
+<p><pb/></p>
+<p>GARIBALDI.</p>
+<p>Je vais m'en défaire, puisque tu le veux.</p>
+<p>PROUDHON.</p>
+<p>Fais-lui donc ôter aussi, Mercure, ce fil qui sort de dessous son
+manteau et traîne derrière ses talons.</p>
+<p>MERGUIIE.</p>
+<p>Je ne l'avais pas vu. (A Garibaldi.) Ole moi cela.</p>
+<p>PROUDHON.</p>
+<p>C'est le fil dont se servait le comte de Cavour pour mettre cette
+marionnette en mouvement et lui faire jouer un rôle dans la comédie dont
+il était l'auteur. L'habile imprésario tirait la ficelle et Polichinelle
+battait le Barigel. Mais depuis que Cavour est mort, le pauvre
+Polichinelle n'a plus su que se faire battre par le commissaire.</p>
+<p>MERCURE pendant que Garibaldi qravit les degrés de l'échelle.</p>
+<p>Adieu, seigneur; adieu, seigneur Polichinelle.</p>
+<p><pb/></p>
+<p>proudhon. (Il essuie ses lunettes, les remet, et montrant du doigt un
+nouvel arrivant.)</p>
+<p>Mercure, je te présente le citoyen Littré.</p>
+<p>CARON.</p>
+<p>Mais ce n'est pas un homme, c'est.</p>
+<p>PROUDHON.</p>
+<p>Il va vous dire lui-même ce qu'il est.</p>
+<p>LITTRÉ.</p>
+<p>Je suis « un animal mammifère, de l'ordre des primates. »</p>
+<p>CARON Mercure.</p>
+<p>MERCURE.</p>
+<p>C'est une classe de singés.</p>
+<p>CARON.</p>
+<p>Ah très-bien (Bas, après avoir attentiven2ent regardé M. Littré.) Il
+pourrait bien avoir raison. LITTRÉ, reprenant.</p>
+<p>C'est bien cela</p>
+<p>(t) Dictionnaire des Sciences médicales, par MM. Liltré et Chartes
+Robin, art. Homme.</p>
+<p><pb/></p>
+<p>PROUDHON, IG Liltré.</p>
+<p>Où as-tu pris .ce bel habit décoré de palmes vertes ? Tu n'étais
+cependant pas académicien. Je me souviens qu'en 1863 l'Académie
+française te repoussa avec éclat.</p>
+<p>LITTRÉ.</p>
+<p>Il est vrai; mais, en 1871, elle a fait amende honorable et m'a reçu
+dans son sein, encore bien que je n'eusse pas posé ma candidature.</p>
+<p>PROUDHON.</p>
+<p><pb/></p>
+<p>anatomiquement, l'ensemble des fonctions du</p>
+<p>cerveau et de la moelle épinière, et, considéré</p>
+<p>physiologiquement, l'ensemble des.fonctions de la</p>
+<p>sensibiLité encéplaalique ('). ̃»</p>
+<p>Que dit-il là? Et quelle langue parle-t-il? Serait-</p>
+<p>ce du français par hasard •?</p>
+<p>MERCURE.</p>
+<p>Non, c'est du littréen.</p>
+<p>PROUDHON.</p>
+<p>Tu as prêché la guerre sociale, déclarant que</p>
+<p>autres, leur place dans l'arène commune: Du con-</p>
+<p>ouvert, et les prolétaires ainsi que les rois, la dé-</p>
+<p>clarent quand, avec la permanence de leurs griefs,</p>
+<p>l'occasion s'en trouve n. » Tu as été le véritable</p>
+<p>précurseur de la Commune de Paris, ayant écrit,</p>
+<p>la France .entière le droit de suffrage et le conférer</p>
+<p>uniquement aux ouvriers de Paris qui, par leurs</p>
+<p>lumières, leur vigueur et leur dévouement, étaient</p>
+<p>seuls capables de prendre en mains le gouverne-</p>
+<p>ment des choses, et qu'il fallait, de la sorte, faire</p>
+<p>de Paris le grand électeur pour toute la France.</p>
+<p>(') Dictionnaire des sciences médicales, art. Esprit, Idée, Ame.</p>
+<p>(2) La Revue positive, n' de décembre 1871.</p>
+<p><pb/></p>
+<p>Pends-toi, brave Proudhon, tu n'avais pas trouvé celle-là!</p>
+<p>LITTRÉ.</p>
+<p>Vous avez beau rire, Mercure, et vous aussi, Proudhon, il n'en reste pas
+moins qu'au lendemain de la Commune j'ai été nommé membre de l'Académie
+française, au premier tour de scrutin.</p>
+<p>PROUDHON.</p>
+<p>Et quels étaient les parrains de ta candidature? LITTRÉ.</p>
+<p>M. Thiers et M. Guizot.</p>
+<p>PROUDHON.</p>
+<p><pb/></p>
+<p>PROUDHON, apercevant M. Renan.</p>
+<p>Pressons-nous, maître Renan, l'heure s'avance. Remets-moi les soixante
+mille francs que tu as reçus de Napoléon pour faire ce voyage d'Orient
+d'où tu as rapporté le plus fameux de tes livres. Dépose les
+quatre-vingt mille francs que Michel Lévy t'a comptés pour avoir donné à
+Jésus le baiser de Judas.</p>
+<p>PROUDHON.</p>
+<p>Eh! eh Judas n'avait reçu que trente deniers Renan a reçu quatre-vingt
+mille francs. Que l'on ose encore nier le progrès!</p>
+<p>MERCURE.</p>
+<p><pb/></p>
+<p>ERNEST RENAN.</p>
+<p>PROUDHON.</p>
+<p>Eh oui, mon ami, nu comme un Papou (').</p>
+<p>MERCURE.</p>
+<p>PROUDHON.</p>
+<p>Secoue bien ses cheveux longs, gras et collés aux tempes; ilscachent,
+j'en suis sûr, deux ou trois cents peut-être.</p>
+<p>MERCURE.</p>
+<p>Prends l'échelle. Tu pleures? Je croyais que tu étais un philosophe</p>
+<p>ERNEST RENAN.</p>
+<p>Je pleure, hélas sur ce pauvre Jésus. « Ses souffrances ne sont-elles
+pas pour attendrir les meilleurs coeurs ? Sa légende n'est-elle pas pour
+provoquer des plus beaux yeux des larmes sans fin (») ? »</p>
+<p>PROUDHON.</p>
+<p>Il ment; c'est autre chose qui le chagrine.</p>
+<p>(') &gt; Je ne vois pas de raison pour qu'un Papou soit immortel. E.
+llenan, Revue des Deux Mondes, janvier 1860, p. 378.</p>
+<p>(') Vie de Jésus, p. 259.</p>
+<p><pb/></p>
+<p>MERCURE.</p>
+<p>Quoi donc?</p>
+<p>PROUDHON.</p>
+<p>MERCURE.</p>
+<p>A un autre. En voici un qui ne pleure pas et qui m'a l'air d'un bon vivant.</p>
+<p>PROUDHON.</p>
+<p>C'est Rouher, le Démosthènes de Saint-Flour.</p>
+<p>MERCURE.</p>
+<p>Eh bien! l'orateur, quitte-nous cet immense fleuve de paroles,
+antithèses, périodes, exclamations, solécismes, barbarismes, et tout ce
+qui donne du poids au discours.</p>
+<p>(') Voy. Papiers et Correspondaiace de la famille impériale, l, 179. (')
+Une médaille en or lin, d'uue valeur de 300 fr., a été frappée en
+l'honneur de Brébant, le restaurateur. Elle porte sur sa face Pendant</p>
+<p>le siège de Paris</p>
+<p>quelques personnes ayant</p>
+<p>acconlumé de se réunir chez M. Bréhant,</p>
+<p>ous les quinze jours, ne s'j sont pas, une seule</p>
+<p><pb/></p>
+<p>ROUHER.</p>
+<p>Tiens, je ne les ai plus.</p>
+<p>MERCURE.</p>
+<p>Dépose aussi ton titre de vice-empereur, ta mèche et ta calotte de velours.</p>
+<p>PROUDHON.</p>
+<p>0 Rouher, un conseil. Bismark est ici. Qu'il ne te voie pas arriver avec
+ta tliéorie des trois tronçons, cela le ferait trop rire.</p>
+<p>CARON.</p>
+<p>une villc de deux millions</p>
+<p>d'âmes assiégées.</p>
+<p>1870-1871.</p>
+<p>Au revers</p>
+<p>A</p>
+<p>M. Paul BRÉBANT</p>
+<p>Ernest Renan, Ch. Edmond) P. dc Saint-Victor, Thurot, M. Berlhelot. J.
+Bertrand, Cli. Blanc, Marcy,</p>
+<p>Scherer, E. de Goncoti l't, Dumcsnil, Th. Gautier, A. Nciïtzer, A. Hébrard.</p>
+<p><pb/></p>
+<p>vantage pour faire couler ma barque au fond du fleuve.</p>
+<p>VICTOR HUGO.</p>
+<p>Qu'importe que Rouher sur le Pont-Neuf se carre</p>
+<p>PROUDHON, se retournant.</p>
+<p>Tiens, un vers des Châtiments! Mais c'est Hugo</p>
+<p>en personne, plus sombre et plus majestueux que amais. Il a pris son air
+des grands jours.</p>
+<p>MERCURE.</p>
+<p>Il dit des vers, écoutons-le.</p>
+<p>VICTOR HUGO.</p>
+<p>Vainement le penseur, dans ses essors funèbres,.</p>
+<p>Heurte son âme d'ombre au plafond de ténèbres;</p>
+<p>11 tombe, il meurt, son temps est court,</p>
+<p>Et nous n'entendons rien dans la nuit qu'il nous lègue</p>
+<p>Que ce que dit tout bas la création bègue</p>
+<p>A l'ombre du tombeau sourd. or</p>
+<p>Le pied sent dans la nuit le dos mou du cloporte.</p>
+<p>MERCURE.</p>
+<p>Mon vieux, ton vers est beau;</p>
+<p>Mais il est, entre nous, triste comme la porte</p>
+<p>De l'humide tombeau.</p>
+<p>VICTOR HUGO.</p>
+<p>Depuis quatre mille ans que, courbé sous la haine;</p>
+<p>Perçant sa tombe avec les débris de sa chaîne,</p>
+<p>Fouillant le bas, creusant le haut,</p>
+<p>11 cherche il s'évader travers la nature,</p>
+<p>L'esprit-forçat n'a pas encor fait d'ouverture</p>
+<p>A la voûte du ciel-cachot.</p>
+<p><pb/></p>
+<p>MERCURE.</p>
+<p>Que nous chantes-tu là?</p>
+<p>VICTOR IIUGO.</p>
+<p>Ce que, dans la nuit somire,</p>
+<p>M'a dit la bouche d'ombre (').</p>
+<p>(Il passe la main ster son front, rejetté ses cheveux ela arrière et
+continue.)</p>
+<p>L'horreur emplit cet antre, infâme vision</p>
+<p>Toute l'impureté de la création</p>
+<p>Tombe et vient échouer sur cette sombre rive.</p>
+<p>Au fond, on entrevoit, dans une ombre où n'arrive</p>
+<p>Pas un reflet de jour, pas un souffle de vent,</p>
+<p>Quelque chose d'affreux qui fut jadis vivant</p>
+<p>Des mâchoires, des yeux, des ventres, des entrailles,</p>
+<p>Des carcasses- qui font des taches aux murailles;</p>
+<p>Tout est fétide, abject, plein de boue et de sang.</p>
+<p>caron il Vidai' Hugo.</p>
+<p>Sais-tu que tu n'es pas follement amusant?</p>
+<p>A Mercure.</p>
+<p>Et de cet instrument je ne veux pas médire;</p>
+<p>Je ne saurais pourtant laisser ce malheureux</p>
+<p>En abuser ainsi pendant une heure ou deux.</p>
+<p>MERCURE, riant.</p>
+<p>Tu ne trouves pas, Caron, de rime en erdre.</p>
+<p>Sur ce terrain, crois-moi, ne combats point Victor</p>
+<p>Hugo,; rappelle-toi le dicton Ne sutor</p>
+<p>UUi crepidam.</p>
+<p>(') Contemplations, Il, p. 347 et suivantes.</p>
+<p>(5) Châtiments, p. 239.</p>
+<p><pb/></p>
+<p>CARON, d'un ton bourru.</p>
+<p>Soit. Tu vois que la nuit tombe</p>
+<p>Et que, sans plus ouïr tous ces vers d'outre-tombe,</p>
+<p>Besoin est d'en finir et de le mettre il nu,</p>
+<p>Ainsi que tu ferais avec un inconnu.</p>
+<p>MERCURE.</p>
+<p>C'est juste, Caron. (A Victor Hugo.) Viens, et tout d'abord Avec ton
+képi neuf, ton amour pour la pose. [dépose, Laisse ta carmagnole et ton
+habit de Pair,</p>
+<p>Tous tes discours, cotés bien au-dessous du pair,</p>
+<p>Tes hymnes et tes chants pour le premier Empire ('),</p>
+<p>Tes lettres sur le Rhin et ton IYillian2 Sleahspeare.</p>
+<p>D'Islande, proférant son formidable han,</p>
+<p>Depuis Claude rrollo, la Sachette, Fantine,</p>
+<p>Esmeralda, Cosette et sa grâce enfantine,</p>
+<p>Et le forçat V:rljean, cet admirable gueux.</p>
+<p>Et Monsieur Thénardier.</p>
+<p>phoudhon.</p>
+<p>Une fiére canaille</p>
+<p>MERCURE.</p>
+<p>A l'eau Carmagnole Babet et Gueulcmer,</p>
+<p>La pieuvre et Gilliat, Travailleurs de la mer!</p>
+<p>A l'eau l'Homme qui rit.</p>
+<p>(')\ Car j'ai ma mission! car armé d'une lyre,</p>
+<p>Plein d'hymnes irrités ardcnls s'épanclier;</p>
+<p>Je garde le trésor des gloires de l'Empire;</p>
+<p>Je n'ai jamais souffert qu'on osât y toucher</p>
+<p>Victor Hugo, les Hayons et les Ombrés-.</p>
+<p><pb/></p>
+<p>PROUDHQN.</p>
+<p>Lu par l'homme qui hâillu</p>
+<p>MERCURE.</p>
+<p>A ce jeu-là, Proudhon, il ne faut pas qu'on triche, Et si tu veux rimer,
+que ta rime soit riche.</p>
+<p>PROUDHON.</p>
+<p>J'y ferai de mon mieux.</p>
+<p>CARON.</p>
+<p>Quand aurez-vous fini?</p>
+<p>MERCURE.</p>
+<p>Un peu de patience. (A Victor Hugo,.) A l'eau ton Ilernani, Dona Sol, et
+Lucrèce et Marion Delorme.</p>
+<p>Prends pitié de Caron, qui nous attend sous l'orme, MERCURE.</p>
+<p>Jette il l'eau Triboulet, Gennaro, Frédéric</p>
+<p>Barberousse, Ruy Blas.</p>
+<p>PROUDHON.</p>
+<p>As-tu vu Frederick</p>
+<p>Dans Ruy Blasi II était superbe dans ce rôle.</p>
+<p>CARON.</p>
+<p>Palsambleu, messeiôneurs, trouvez-vous cela drôle?</p>
+<p><pb/></p>
+<p>mercure, continuant.</p>
+<p>Jette avec don César, plus délabré que Job ('),</p>
+<p>Les Burgraves du rhin, Magnus et le duc Job.</p>
+<p>PROUDHON.</p>
+<p>Rhadamante, Alinos, Eaque, autres burgraves, Devraient le condamner,
+pour tant de méfaits graves, A lire jusqu'au bout le duc Job, que Laya,</p>
+<p>Au Théâtre-Français, en prose délaya.</p>
+<p>VICTOR HUGO.</p>
+<p>Ah jamais</p>
+<p>MERCURE.</p>
+<p>Calme-toi. Laisse encore, et pour cause,</p>
+<p>Tes Contemplations et ta métempsycose (1),</p>
+<p>Et ces folles Chansons qa'l;ros vieux et poussif</p>
+<p>Te dicta.</p>
+<p>PROUDHON.</p>
+<p>Le poète est un moineau lascif</p>
+<p>C'est Veuillot qui l'a dit.</p>
+<p>MERCURE.</p>
+<p>Je garde, pour les lire,'</p>
+<p>Tes Odes, qu'envieraient les maîtres de la lyre.</p>
+<p>Je garde aussi ces vers au souflle pur, ardent,</p>
+<p>Immortel pilori de l'Homme de Sedan</p>
+<p>Qui frissonne, courbé comme une touffe d'herbes, Lorsque passent sur lui
+tes Châtiments superbes. Allons, adieu.</p>
+<p>(.-lu moment où Yiclor Nugo vu metlre le pied dans la barque, Caron
+l'arrête et lui dit )</p>
+<p>Qu'as-tu dans la main?</p>
+<p>(') Plus délabré qne Job et hlns fier &lt;|ue Dragnncc.</p>
+<p>Ituy Blas, acte i, scène il.</p>
+<p>(5) Voyez dans les Contemplations, tome il, l'leurs dans Il! /luit, et
+Ce que dit la Bouche d'Ombre.</p>
+<p><pb/></p>
+<p>VICTOR HUGO.</p>
+<p>Mon mouchoir.</p>
+<p>PROUDHON.</p>
+<p>Un torchon radieux</p>
+<p>MERCURE.</p>
+<p>Ami, laisse-le choir</p>
+<p>Et monte.</p>
+<p>CARON.</p>
+<p>Enfin levons l'ancre.</p>
+<p>(La barque s'éloigne.)</p>
+<p>MERCURE, resté sur le rivage.</p>
+<p>Une molle brise</p>
+<p>De la nef qui s'éloigne enfle la voile grise,</p>
+<p>Et la barque sans bruit glisse sur le flot noir.</p>
+<p>(Agitant le mouchoir de Victor Hugo, qu'il a ramassé.)</p>
+<p>Sans rancune, Caron, et vous, amis, bonsoir</p>
+<p>[On entend des cris aigus poussés par Marguerite Bellanger et que domine
+bientôt la voix de Proudlron, assis auprès du gouvernail et chantant )</p>
+<p>Taisez-vous donc, Margot la belle,</p>
+<p>Et ne jetez pas les hauts cris</p>
+<p>L'Enfer ne vaut-il pas Paris ?</p>
+<p>Elle pleure, supplie, appelle.</p>
+<p>Malgré sa plainte et ses clameurs,</p>
+<p>On l'emporta dans la tartane.</p>
+<p>Dans la galère capitane</p>
+<p>Nous étions quatre-vingts rameurs.</p>
+<p><pb/></p>
+<p>LE NUMÉRO 606</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>VIII</p>
+<p>LE NUMERO BOB.'</p>
+<p>SCÈNE PREMIÈRE.</p>
+<p>m. JULES SIMON, entrant et déposant sur une table son portefeuille en
+peau de chagrin.</p>
+<p>il. le président. Ils (MM. Jules Simon et Henri Martin) étaient
+adhérents et non pas membres de l'Internationale?</p>
+<p>AI. Fribourg. Ils étaient membres de l'Internationale, et si je fais
+appel il mes souvenirs, je me rappellerais parfaitement que c'est LE
+numéro 60C qni a été rcmis M. Jules Simon par moi-même. (Enquête
+parlementaire sur l'insurreclion du 18 mars, tome lI, pages 575 et 576.)</p>
+<p><pb/></p>
+<p>SCÈNE II</p>
+<p>M. JULES SIMON, UN HUISSIER, M. ERNEST PICARD. l'huissier annonçant.</p>
+<p>Monsieur Picard.</p>
+<p>(M. Picard serre la main de if. Simon, prend un fauteuil et s'assied en
+face de son ancien collègue. L'huissier se retire.)</p>
+<p><pb/></p>
+<p>ni, PICARD, avec un sourire.</p>
+<p>Eh bien! vous êtes toujours ministre'</p>
+<p>M. SIMON, avec un'soupir.</p>
+<p>Comme vous le voyez.</p>
+<p>M. PICARD.</p>
+<p>M.. SIMON.</p>
+<p>Je ne sais ce que vous voulez dire, Picard ?</p>
+<p>M. PICARD.</p>
+<p><pb/></p>
+<p>n'était point de chasser Dieu, ni de chasser les Prussiens, c'était de
+sauver la République.</p>
+<p>M. PICARD.</p>
+<p>Sans doute, sans doute, vous avez mille fois</p>
+<p>les destinées de la France, l'auteur du Cabaret de Luslucrn et (l'Une
+Invasion de griselles a été maire de Paris, et même, s'il faut s'en
+rapporter il la déposition du général Ducrot dans l'Enquête
+parlementaire sur le 4 septembre. un maire de derrière les fagots.</p>
+<p>(2) Outre M. Motlu, la commission comptait parmi ses membres</p>
+<p>M. Clemenceau, M. Henri lSrisson, M. Massol, NI. Georges Pouchet, NI.
+Taxile Delord, M. Charles Sauvestre, etc.</p>
+<p>(3) L'arrêté du citoyen Mottu est du 30 septembre 1870.</p>
+<p><pb/></p>
+<p>M. SIMON.</p>
+<p>Où voulez-vous en venir?</p>
+<p>M. PICARD.</p>
+<p>Vous trouvez que je suis un peu long en commençant ? Que voulez-vous,
+mon ami?</p>
+<p>Ce que je sais le mieux, c'est mon commencement.</p>
+<p><pb/></p>
+<p>M. SIMON.</p>
+<p>PICARD.</p>
+<p>e) Les maires et les écoles pendant k sfAge, Paris, 1871, chez Douniol.</p>
+<p><pb/></p>
+<p>M. SIMON.</p>
+<p>Mesdames Chenu et Coignet sont des dames parfaitement honorables.</p>
+<p>M. PICARD.</p>
+<p>A qui le dites-vous ? C'est le 5 janvier, vous vous le rappelez sans
+doute, que commença le bombardement de Paris et que les premiers obus
+éclatèrent sur les quartiers de la rive gauche. (1) La commission des
+dames était composée de M"" J. Simon, Carnot, Coignet, Alanuel, Chenu,
+Daubié, Delon, Goudchaux, Léonic Fleury, Julie Toussaint, Léon Béquet,
+Lucie Lachaux, MarchoffGirard, de Friedberg et Gandon.</p>
+<p>(') Rapport présenté ait nom de la commission des dames chargées
+primaire, par M"' Coignet, p. G. Paris, imprimerie administrative de
+Paul Dupont. 1871.</p>
+<p><pb/></p>
+<p>M. SIMON.</p>
+<p>M. PICARD.</p>
+<p>Peste la phrase est belle. presque aussi belle que celle de Jules Favre
+Pas 2cne pierre de nos forteresses, pas un pouce de notre territoire!
+Gounouilhou a dû publier la vôtre dans la Gironde Je suis sûr qu'elle
+aura fait merveille sur les bords de la Garonne.</p>
+<p>M. SIMON.</p>
+<p><pb/></p>
+<p>Ce n'est point moi qui ai écrit cet article.</p>
+<p>'M. SIMON.</p>
+<p>Si ce n'est vous, c'est donc votre frère.</p>
+<p>M. PICARD.</p>
+<p><pb/></p>
+<p>M. SIMON.</p>
+<p>Oui, elle parle bien, très-bien. Elle parle peutêtre seulement un peu trop.</p>
+<p><pb/></p>
+<p>M. PICARD.</p>
+<p><pb/></p>
+<p>M. SIMON.</p>
+<p>Mais elle a eu lieu, votre fête, et elle a assez fait parler d'elle.</p>
+<p>M. PICARD.</p>
+<p>J'ai télégraphié au recteur de Lyon « N'autorisez pas la fête des Écoles. »</p>
+<p>M. PICARD.</p>
+<p>Vous voyez bien.</p>
+<p>M. SIMON.</p>
+<p>Attendez un peu. Lorsque je télégraphiai au recteur de ne pas accorder
+son autorisation, je savais très-bien que son autorisation n'était pas
+nécessaire. L'article 8 de la loi du 20 juin 1854 dispose en effet que «
+les attributions déférées aux recteurs, par la loi du 15 mars 1850, en
+ce qui concerne l'instruction primaire publique ou libre, sont exercées
+par les préfets. » Ce même article porté que les préfets sont placés,
+pour ces questions</p>
+<p><pb/></p>
+<p>d'enseignement primaire, so2cs l'autorité du ministre de l'instruction
+publique et des cultes.</p>
+<p>M. PICARD.</p>
+<p>M. SIMON.</p>
+<p>Rien</p>
+<p>M. PICARD.</p>
+<p>M. SIMON.</p>
+<p>Rien</p>
+<p>M. PICARD.</p>
+<p>M. SIMON.</p>
+<p>Rien</p>
+<p>M. l'ICARD, riant.</p>
+<p>Rien Rien Rien Ah ah C'est parfait. Je vous fais amende honorable, mon
+ami, et je confèsse que, dans cette affaire de Lyon, votre conduite a
+été irréprochable. Il est d'autres points, malheureusement, sur lesquels
+je crains bien qu'il ne vous .soit plus difficile de vous justifier.</p>
+<p>M. SIMON.</p>
+<p>Et lesquels, s'il vous plaît?</p>
+<p><pb/></p>
+<p>M. PICARD.</p>
+<p>Le jour où l'Assemblée, sur la proposition de M. de Cazenove de Pradine,
+un soldat du pape, un fils des preux. (IL rit.)</p>
+<p>M. SIMON.</p>
+<p>M. PICARD.</p>
+<p>Tout Picard que je suis, je suis un bon apôtre.</p>
+<p><pb/></p>
+<p>Qui veut voyager loin ménage sa monture;</p>
+<p>Buvons, mangeons, dormons et faisons feu qui dure. M. PICARD.</p>
+<p><pb/></p>
+<p>(2) Le Devoir, p. 419.</p>
+<p>(3) Le Vernir, p. 420.</p>
+<p><pb/></p>
+<p>m. simon, vivement.</p>
+<p>Vous .savez bien que je ne fais pas profession de la religion catholique.</p>
+<p>M. PICARD, continuant de lire.</p>
+<p>« S'ils en recommandent aux autres les pratiques, sans s'y soumettre,
+ils faussent et corrompent les esprits et donnent l'exemple de l'orgueil
+le plus monstrueux. La fin ne justifie pas les moyens et le .mensonge
+n'est jamais permis donc ils offensent la morale. Si l'on se rend
+coupable, pour mentir une fois, et sur des sujets de peu de conséquence,
+que dire de cet apostolat du mensonge, qui trompe les hommes sur leur
+plus grand intérêt ?. On sème le mensonge, on ne récolte que
+l'hypocrisie ('). » Dieu me garde.</p>
+<p>M. simon, raillant.</p>
+<p>Ah vous croyez donc en'Dieu ?</p>
+<p>M. PICARD.</p>
+<p><pb/></p>
+<p>M. simon, avec amertume.</p>
+<p><pb/></p>
+<p>M. PICARD.</p>
+<p><pb/></p>
+<p>A quoi M. Jules Simon répondit On me demande si je suis communiste! (Ce
+n'était pas cela qu'on lui avait demandé.) Non, mille fois non.</p>
+<p>On veut savoir si je suis socialiste. Si par socialiste, on entend un
+homme qui désire voir réorganiser la propriété, et organiser le travail,
+oui, je suis socialiste.</p>
+<p><pb/></p>
+<p>M. SIMON.</p>
+<p>M. PICARD, avec fermeté.</p>
+<p>Je n'irais pas dîner chez les princes. Déjeuner, je ne dis pas. Mais ne
+nous écartons pas de.notre sujet. Vous, si longtemps député de Paris,
+vous n'avez pas défendu Paris. Ce jour-là, le 10 mars 1871, pour
+conserver votre portefeuille, vous avez docilement suivi le bataillon
+des ruraux.</p>
+<p>M. SIMON.</p>
+<p>M. PICARD.</p>
+<p><pb/></p>
+<p>M. SIMON.</p>
+<p>De sorte que, suivant vous, nous n'avons, en ce moment, qu'une
+république borgne. Cela se pouvait dire sous Gambetta; mais aujourd'hui,
+sous M. Thiers.</p>
+<p>M. PICARD.</p>
+<p>M. SIMON.</p>
+<p>Tout ce que M. Thiers a si bien dit, je le pensais. Je ne suis point de
+ceux qui méconnaissent les services rendus par la .garde civique. On ne
+me verra pas grossir les rangs de ses insulteurs ni m'associer aux
+railleries dirigées contre elle par tant de prétendus beaux esprits, par
+notre ex-collègue Victor Hugo, notamment.</p>
+<p>M. PICARD.</p>
+<p>Comment 1 Victor Hugo, l'homme au képi</p>
+<p><pb/></p>
+<p>M. SIMON, prenant un volume dans sa bibliothèque.</p>
+<p>M PICARD, riant.</p>
+<p>Entre nous, la page est jolie.</p>
+<p>M. SIMON, avec indignation.</p>
+<p>Jolie.! jolie! Pour moi, je trouve ces plaisanteries détestables. Tenez,
+je puis bien vous le dire, le jour où j'ai été nommé ministre a été un
+des plus beaux jours de ma vie, mais le plus beau, oui, le plus beau de
+tous a été celui où j'ai été nommé capitaine de la 3e du 5e de la 2e!</p>
+<p>M. PICARD, bas.</p>
+<p>Prudhomme, va</p>
+<p>(') Claude Cueux, par Victor Hugo. Juillet 1834.</p>
+<p><pb/></p>
+<p>M. simon, continuant.</p>
+<p>Le jour où madame Simon a bouclé mon ceinturon autour de ma poitrine et
+attaché elle-même mon sabre, où elle m'a mis mon hausse-col Cela fut
+long, car les mains de madame Simon étaient tremblantes d'émotion, mais
+que cela fut doux (Il verse quelques larmes.)</p>
+<p>M. PICARD.</p>
+<p>M. SIMON.</p>
+<p>La majorité avait sur cette question un parti pris; il a bien fallu
+céder. Viennent des élections générales aussi bonnes que l'ont été les
+élections partielles du 2 juillet vienne une Chambre favorable au
+rétablissement de la garde nationale, et vous verrez si je ne vote pas.</p>
+<p>M. PICARD.</p>
+<p>Tout le contraire de ce que vous avez voté l'autre jour Je n'en ai
+jamais douté.</p>
+<p><pb/></p>
+<p>M. SIMON.</p>
+<p>Vraiment, je vous admire. Quel Caton vous faites Il est fâcheux
+seulement que l'on vous ait vu, vous l'auteur du décret qui abolissait
+l'impôt du timbre sur les journaux, déposer vous-même sur le bureau de
+l'Assemblée le projet de loi qui rétablissait cet impôt Votre
+puritanisme n'a eu qu'un tort il s'est révélé le lendemain du jour ou
+vous avez cessé d'être ministre.</p>
+<p>M. PICARD</p>
+<p>Moi, du moins, j'ai donné ma démission.</p>
+<p>M. SIMON.</p>
+<p>M. PICARD.</p>
+<p>Il vous sied bien de railler mon nom, vous qui avez renoncé au vôtre</p>
+<p><pb/></p>
+<p>M. SIMON, baissant la tête.</p>
+<p>M. PICARD.</p>
+<p>Qui a pu vous y obliger ?</p>
+<p>M. SIMON.</p>
+<p>M. PICARD, feuilletant le volume.</p>
+<p>Il est, en effet, plein de grâce et de fraîcheur. Ah charmant charmant
+(Il lit.)</p>
+<p>Voici la nuit envolée,</p>
+<p>Le jour revient, quel bonheur</p>
+<p>Les larmes de la rosée</p>
+<p>(A part.) Toujours des larmes</p>
+<p>(t) Plaintes du vent, par dules Suisse. Paris, Odion-Lepeintre, éditeur.</p>
+<p><pb/></p>
+<p>(Il reprend.) Les larmes de la rosée</p>
+<p>Argentent l'ormeau en fleur.</p>
+<p>Ce dernier vers est faux, mais le sentiment est si vrai Cette strophe
+serait célèbre si elle était signée Alphonse de Lamartine</p>
+<p>M. SIMON.</p>
+<p>Malheureusement, mon ami, LES PLAINTES DU VENT étaient signées Jules
+Suisse, et il ne s'en est pas vendu trois exemplaires. Mon éditeur me
+déclara qu'il n'achèterait plus mes livres, si je ne changeais mon nom,
+et il m'imposa celui de Simon, prétendant que le public aurait plus tôt
+fait d'accepter un Simon que centSuisses. J'eus la faiblesse de céder et
+aujourd'hui je voudrais reprendre mon nom que je ne le pourrais plus.</p>
+<p>M. PICARD.</p>
+<p>Il est certain que si vous vous avisiez maintenant de vous appeler Jules
+Suisse, vous dérouteriez la France et l'Europe. Mais passe encore de
+changer de nom; ce qui ne se peut pardonner, c'est de changer d'opinion,
+comme vous l'avez fait, sur toutes les questions, sur toutes,
+entendez-vous. Adversaire de l'enseignement religieux dans les écoles
+publiques, vous avez écrit des circulaires pour l'exécution de la loi
+qui impose cet enseignement philosophe, vous démontrez dans vos vilres
+que la religion naturelle repousse le culte et</p>
+<p><pb/></p>
+<p>(2) Ibid., p. 149</p>
+<p>(3) Ibid., p. 172.</p>
+<p>(4) Ibid., Discours sur la séparation de l'Eglise et de l'Elat.- La
+Liberté de conscience, Introduction.</p>
+<p><pb/></p>
+<p>de la J. Simonie! Vous les entretenez respectueusement de la liturgie et
+de vos pieux desseins pour restaurer dans l'Église de France la musique
+religieuse et le plain-chant, vous, Simon, vous le fondateur de la
+Liberté de penser (') la revue la plus anticatholique qui fut jamais
+Hier, vous multipliiez vos écrits en l'honneur de la Religion
+naturelle'; vous multipliez maintenant vos circulaires,</p>
+<p>(?.) La Politique radicale, 1). 38.</p>
+<p><pb/></p>
+<p>échange Quelles belles pages n'avez-vous pas écrites, quelles belles
+harangues n'avez-vous pas prononcées pour demander l'abolition de la
+peine de mort Et, lorsqu'on a fusillé par milliers les fédérés
+parisiens, vos anciens électeurs, vous n'avez pas protesté</p>
+<p>M. SIMON.</p>
+<p><pb/></p>
+<p>M. PICARD.</p>
+<p>M. SIMON.</p>
+<p>Oui, comme il est vrai qu'Assi, interrogé par vous, le jour de son
+arrestation, vous a répondu que si vous n'étiez pas ministre (vous
+l'étiez encore), vous brigueriez l'honneur d'être son avocat. M. PICARD.</p>
+<p>M. SIMON.</p>
+<p>Mon collégue ? Que voulez-vous dire ?</p>
+<p>M. PICARD.</p>
+<p>Que vous êtes, comme lui, membre de Y Internationale,</p>
+<p><pb/></p>
+<p>M. SIMON.</p>
+<p>Allons donc A qui ferez-vous croire.</p>
+<p>M. PICARD.</p>
+<p>Arrêtez-vous, mon cher ami.</p>
+<p>M. SIMON, troublé.</p>
+<p>Que parlez-vous de m'arrêter ?</p>
+<p>ni. PICARD, riant.</p>
+<p>M. SIMON, bas.</p>
+<p>Comment ont-ils pu se procurer ce registre?</p>
+<p>M. PICARD.</p>
+<p>Je n'oublierai jamais le jour où fut présenté le projet de loi contre
+les membres de l'Internationale. Quand on vota sur l'urgence, vous vous
+levâtes, avec toute la droite, le front haut, le sourire aux lèvres. Ah
+vous êtes un homme fort, Simon vous serez ministre longtemps encore.</p>
+<p>M. SIMON.</p>
+<p>Et vous, Picard, vous pleurerez longtemps encore parce que vous ne
+l'êtes plus.</p>
+<p><pb/></p>
+<p>M. PICARD.</p>
+<p>m. simon, blême.</p>
+<p>606</p>
+<p>ni. PICARD.</p>
+<p><pb/></p>
+<p>coup elle passe, pour arriver, par des souterrains; elle essuie des
+affronts; elle prend des airs serviles, elle rampe sur ses naains et sur
+ses genoux; elle baise la terre; elle se fait la servante des criminels.
+Il n'est pas d'abaissement qu'elle ne subisse, dans l'espoir de domine?'
+('). »</p>
+<p>Et maintenant, sans rancune. Venez-vous faire une promenade avec moi
+dans le parc ?</p>
+<p>m. SIMON.</p>
+<p>M. PICARD.</p>
+<p>Eh bien! ce sera pour une autre fois. Au revoir, très-cher.</p>
+<p>(Il sort en fredonnant un couplet de son collègue et ami, lll. E'dgar
+Quinet)</p>
+<p>Écoutez je vois dans la plaine</p>
+<p>Une coupe d'albâtre pleine.</p>
+<p>Non, c'est une vigne en son clos,</p>
+<p>Une aigle et ses petits éclos.</p>
+<p>Non non Ce n'est point une vigne</p>
+<p>Mariée Il l'acacia</p>
+<p>Sous son voile blanc comme un cygne,</p>
+<p>C'est madame Laetitia (2).</p>
+<p>(t) Le Devoir.</p>
+<p>(2) Napoléon, poème, par M. Edgar Quinet.</p>
+<p><pb/></p>
+<p>SCÈNE III</p>
+<p>(Se levant et saisissant son portefeuille; d'une voix émue mais /'erme)</p>
+<p><pb/></p>
+<p>Devant les quolibets de la mauvaise presse,</p>
+<p>Je croiserai les bras indigné, mais serein</p>
+<p>Portefeuille adoré, que sur mon cœur je presse,</p>
+<p>Sois ma force et ma joie et mon pilier d'airain</p>
+<p>Je ne fléchirai pas Paris, ô ville sainte,</p>
+<p>Je ne remettrai plus les pieds dans ton enceinte</p>
+<p>Paris, j'oublîrai tout, oui, tout, hors le Devoir 1</p>
+<p>A Versaille, où je puis rendre encor des services,</p>
+<p>Je resterai.</p>
+<p>(Avec mélancolie.)</p>
+<p>J'irai, pendant les soirs d'été,</p>
+<p>Contempler les jardins, la pièce d'eau des Suisses,</p>
+<p>Et le grand escalier que Musset a chanté.</p>
+<p>Quand Larcy, cet ancien, Rémusat, ce vieillard,</p>
+<p>Quand ils seraient suivis par le jeune Goulard,</p>
+<p>Par l'ingénu Lefranc ou Dufaure l'austère</p>
+<p>Je ne saurais, pour moi, quitter le ministère</p>
+<p>Si l'on n'est plus que quatre, eh bien, j'en suis Si même Ils ne sont
+plus que trois,</p>
+<p>(Pressant de nouveau son portefeuille sur son cœur.)</p>
+<p>je garde encor cela.</p>
+<p>S'il en demeure deux, je serai le deuxième,</p>
+<p>(') Voir, dans les Châtiments de Victor Hugo, la pièce Ultima verba.</p>
+<p><pb/></p>
+<p>LES TRACASSERIES</p>
+<p>DE M. MORTIMER-TERNAUX</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>IX</p>
+<p>LES TRACASSERIES</p>
+<p>DE M. MORTIMER-TERNAUX</p>
+<p>M. Thiers. M. Mortimer-Ternaux. M. Raudot. La scène se passe au palais
+de Versailles dans la salle de la bibliothèque de l'Assemblée nationale.
+Tableaux d'Horace Vernet représentant la prise de Constantine, le
+bombardement de Saint-Jeand'Ulloa, l'attaque de la citadelle d'Anvers.
+Prés de la porte d'entrée, les bustes en marbre de Dupont (de l'Eure)
+etdu général Cavaignac. A droite, une table sur laquelle sont placés des
+journaux et des revues. A gauche, une autre table avec tout ce qu'il
+faut pour écrire.</p>
+<p>SCÈNE PREMIÈRE!</p>
+<p>M. MORT IMER-TERNAUX, punis M. THIERS.</p>
+<p>M. MORTIMER-TERNAUX.</p>
+<p>Vous me surprenez lisant un de vos volumes. (f) Ces pages ont paru dans
+la Revue de Brelagne et de Vendée (novembre 1871), accompagnées de la
+note suivante</p>
+<p>« Pendant que ce Dialoguc était sous presse, nous avons eu la douleur
+d'apprendre la mort de M. Mortimer-Ternaux. Il laisse ina-</p>
+<p><pb/></p>
+<p>ni. THIERS.</p>
+<p>M. MORTIMER-TERNAUX.</p>
+<p><pb/></p>
+<p>M. TH1ERS.</p>
+<p>M. MORTIMER-TERNAUX.</p>
+<p>Le voici. Je causais avec lui de la Révolution;</p>
+<p>M. Morlimer-Ternaux. Je proteste contre l'expression dont</p>
+<p>M. Thicrs vient de se servir.</p>
+<p>DI. Thiers. J'ai raison, je l'affirme, j'ai raison. Je main-</p>
+<p>.Je ne puis pas gouverner dans de telles conditions. Je de-</p>
+<p>M. Thiers. Ma démission est prête. (Mouvement.)</p>
+<p>hl. Morlimer-Ternaux.– Je fais juges l'Assemblée et la France</p>
+<p>entière de la question de savoir si j'ai dans une seule de mes paroles
+attaqué M. le Président du Conseil.</p>
+<p>31. Thiers. Oui, monsieur, je me tiens pour attaqué et pour of-</p>
+<p>M. Mortimer-Ternaux. .Il n'y a pas eu la moindre équivoque</p>
+<p>dans mes paroles. Le Journal officiel pourra le constater. Je n'ai point
+attaqué, ni par des équivoques, ni par des paroles, M. le Président du
+Conseil. (Assez! assez f) Je regrette d'être oublié, sans motif, d'une
+amitié qui datait de trente ans.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>u. TIIIERS, avec un air triomphant.</p>
+<p>M. MOftTIMER-TERNAUX.</p>
+<p><pb/></p>
+<p>M. TIIIERS, brusquement.</p>
+<p>Je connais cette lettre.</p>
+<p>M. MORTIMER-TERNAUX.</p>
+<p><pb/></p>
+<p>Et sur cette mort, qui a eu un si profond et si douloureux
+retentissement dans l'Allemagne entière, sur les circonstances qui l'ont
+accompagnée, sur cette lettre qui éclaire d'une si vive lumière le
+caractère de Napoléon, son sanglant mépris pour la justice, dont il
+invoquait les formes et dont il dictait les arrêts, il n'y a rien, je le
+répète, dans tout votre ouvrage, rien, pas une ligne, pas un mot. Je
+reconnais, du reste, que vous avez remplacé ce récit par des détails
+très-complets et sans doute beaucoup plus intéressants sur le cérémonial
+du mariage de l'empereur Napoléon avec l'archiduchesse Marie-Louise.</p>
+<p>M. THIERS.</p>
+<p>M. TIIIERS..</p>
+<p>Vraiment. Et où sont vos preuves ?</p>
+<p>M. MORTIMER·TERNAUX.</p>
+<p>Mes preuves rempliraient plusieurs volumes. Je m'en tiendrai, si vous
+voulez bien le permettre, à</p>
+<p><pb/></p>
+<p>quelques têtes de chapitres. Inauguré par un crime, l'attentat du 18
+brumaire, le Consulat fut couronné par un autre crime,-l'assassinat du
+duc d'Enghien.</p>
+<p>M. THIERS.</p>
+<p>Comment dites-vous?</p>
+<p>M. MORTMER-TERNAUX.</p>
+<p>(2) Op. cit., p. 605.</p>
+<p>(3) Loc. cil.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>(') Op. cit., t. II, p. 369.</p>
+<p><pb/></p>
+<p>m. THIERS, dont les lunettes d'or lancent des rayons jattnes. Allons,
+dites le mot, accusez-moi de faux.</p>
+<p>M. MORTIMER-TERNAUX.</p>
+<p><pb/></p>
+<p>lettres et cela vaut-il qu'on s'y arrête? Dans tout votre ouvrage, dans
+ces vingt volumes qui ne contiennent pas moins de 12,000 pages.</p>
+<p>M. THIERS.</p>
+<p>M. MORTIMER-TERNAUX.</p>
+<p>La rectification est vraiment d'une haute importance.</p>
+<p>Histoire dit Consulat et de l'Empire, t. VIII, p. 148.</p>
+<p>(2 Ibid.. t. VIII, p. 149-150.</p>
+<p><pb/></p>
+<p>M. MORTIMER-TERNAUX.</p>
+<p>Comment Paurais-je fait si je n'étais pas né ?</p>
+<p>(2) l6id., t. VIII, p. 150-152.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>tenue, la police n'en conservait pas moins la faculté d'empêcher la
+vente et la circulation. Enfin, les imprimeurs et les libraires
+pouvaient être privés de leurs brevets dans le cas où ils auraient
+imprimé un écrit, approuvé par la police, mais signalé, plus tard, comme
+contraire aux devoirs des sujets envers le souverain et la sûreté de
+l'Etat. De ce décret, si bien fait pour susciter des œuvres généreuses,
+indépendantes et fortes, vous ne dites pas un mot; mais, en revanche,
+vous écrivez cette phrase « La littérature française, naalgré
+l'influence de Napoléon, demeurait nulle et sans inspiration ('). » Ah!
+tenez, monsieur Thiers, ce n2algré l'influence de Napoléon, est presque
+aussi beau que le fameux quoi qu'on die.</p>
+<p>M. thiers, retirant ses lunettes et les tortillant entre ses doigts.</p>
+<p>(t) Ikd., t. VIII, p. 151.</p>
+<p><pb/></p>
+<p>Vous vous tourmentez vainement.</p>
+<p>Croyez-vous que vos dents impriment leurs outrages</p>
+<p>Sur tant de beaux ouvragés?</p>
+<p>Ils sont pour vous d'airain, d'acier, de diamant.</p>
+<p>M. MORTIMER-TERNAUX souriant.</p>
+<p><pb/></p>
+<p>M. THIERS, part.</p>
+<p>Ce misérable Cuvillier-Fleury</p>
+<p>M. MORTIMER-TERNAUX.</p>
+<p>M. THIERS.</p>
+<p>Vous qui raillez si bien, monsieur Ternaux, ne vous est-il jamais arrivé
+de mettre les pieds dans les bureaux du Constitutionnel, et ne serait-ce
+point là, par hasard, que nous nous serions vus pour la première fois,
+vers 1825 ?</p>
+<p>M. MORTIMER-TERNAUX.</p>
+<p>Peut-être bien. Je ne laissais pas cependant, dès cette époque, malgré
+toute l'habileté et toute l'éloquence de vos articles, de trouver assez
+étrange</p>
+<p><pb/></p>
+<p>cette politique qui plaçait les idées libérales sous le patronage du
+bonapartisme, qui célébrait les avantages du gouvernement parlementaire
+et professait une admiration sans bornes pour le gouvernement de
+Napoléon, qui confondait dans un même amour la charte et le petit
+chapeau, la liberté de la presse et la redingote grise, pardon «
+l'enveloppe grise ('). »</p>
+<p>M. THIERS.</p>
+<p>Eh bien monsieur, ne vous en déplaise, je suis resté, en 1871, l'homme
+de 1825. Ces idées qui inspiraient le Constitutionnel et qui ont inspiré
+mon Histoire du Consulat et de l'Empire, je les ai encore. Je ne change
+jamais mes idées anciennes, entendez-vous, jamais</p>
+<p><pb/></p>
+<p>M. MORTIMER-TERNADX.</p>
+<p><pb/></p>
+<p>Mme de Staël d'aller en Angleterre et de la diriger sur l'Amérique.</p>
+<p>M. THIERS.</p>
+<p>Cette lettre de Rovigo est partout.</p>
+<p>M. MORTINER-TERNAUX.</p>
+<p><pb/></p>
+<p>avec les faits les plus éclatants, avec les documents les plus. publics,
+a bien pu user d'une égale liberté avec les correspondances et les
+pièces inédites remises entre ses mains ?</p>
+<p>M. THIERS.</p>
+<p>Je me suis promis d'être calme et de vous écouter avec patience. Mais il
+est pourtant des insinuations que je ne saurais supporter. Oseriez-vous
+prétendre, Monsieur, que j'ai falsifié les pièces dont je me suis servi ?</p>
+<p>M. MORTIMER-TERNAUX.</p>
+<p>Telle n'est point ma pensée. Ce que je veux dire, monsieur Thiers, c'est
+que l'historien doit être un juge, et vous n'êtes qu'un avocat. Votre
+Histoire n'est qu'un plaidoyer, en vingt volumes, en faveur de Napoléon
+plaidoyer qui témoigne d'un prodigieux labeur, d'un immense talent
+d'exposition et d'une merveilleuse habileté mais enfin plaidoyer et non
+jugement.</p>
+<p>M. THIERS.</p>
+<p>« J'ai lu, relu et annoté de ma main les innombrables pièces contenues
+dans les archives de l'État, les 30,000 lettres composant la
+correspondance personnelle de Napoléon, les lettres, non moins
+nombreuses, de ses ministres, de ses généraux, de ses aides de camp, et
+même des agents de</p>
+<p><pb/></p>
+<p>sa police enfin, la plupart des mémoires manuscrits conservés dans le
+sein des familles ('). »</p>
+<p>M. MORTIMER-TERNAUX.</p>
+<p>(M. Baudot est entré depuis quelques instants dans la salle et paraît
+écouter avec un vif intérêt.)</p>
+<p>SCÈNE II</p>
+<p>M. THIERS, M. MORTIMER-TERNAUX, M. RAUDOT. M. RAUDOT.</p>
+<p>Pardon, Messieurs, si je vous dérange. Je venais consulter le Moniteur.</p>
+<p>M. MOItTIMER-TERNAUX.</p>
+<p>Vous n'êtes pas de trop, mon cher monsieur Raudot.</p>
+<p>(t) T. XII, Avertissement, p. 2.</p>
+<p><pb/></p>
+<p>M. THIERS.</p>
+<p>Un homme d'esprit comme vous, monsieur Raudot, n'est de trop nulle part.</p>
+<p>M. RAUDOT, s'inclinant.</p>
+<p><pb/></p>
+<p>(Lisant)</p>
+<p>AU GÉNÉRAL JUNOT</p>
+<p>l'aris, 4 février 1806.</p>
+<p>Et trois jours après, au même</p>
+<p>7 février.</p>
+<p>t'en intention est que le village qui s'est insurgé pour se rer.dre à
+Bobbio soit brûlé; que le prêtre qui est entre les mains de l'évêque à
+Plaisance soit fusillé et que trois ou quatre cents des coupables soient
+envoyés aux galères. Brillez un ou deux gros villages, qu'il n'en reste
+pas trace.</p>
+<p>Au prince Eugène</p>
+<p>10 mai.</p>
+<p><pb/></p>
+<p>est vrai, il faut le faire fusiller. Il est temps enfin de faire un
+exemple de ces prêtres, et tout est permis au moment de la rentrée. Que
+cela soit fait vingt-quatre heures après la réception de ma lettre,
+c'est un exemple utile.</p>
+<p>Au même, le 28 mai</p>
+<p>Au roi Joseph</p>
+<p>Saint-Cloud, 30 juillet 1806.</p>
+<p>Et.le 17 août:</p>
+<p>On n'est pas plus tendre Vous avez lu, relu, et annoté de votre naain
+ces lettres et toutes celles; vous savez si elles sont nombreuses! où
+Napoléon conjugue avec le même entrain le verbe brûler et le verbe
+fusiller. Voici tout ce que</p>
+<p><pb/></p>
+<p>M. THIERS.</p>
+<p>Non certes, de pareils actes ne sauraient obtenir mon approbation. Mais,
+au demeurant, il s'agissait de révoltés, d'ennemis du nom français, de
+ces Italiens que Napoléon considérait comme la pire canaille et avait-il
+si grand tort ?</p>
+<p>M. RAUDOT.</p>
+<p>A ses yeux, les autres nations ne valaient pas mieux que les Italiens,
+du moment qu'elles lui résistaient. Il ne vit jamais dans les patriotes
+espagnols que des bandits et dans les patriotes (') Ilistoire du
+Consulat et de l'Empire, t. VII, p. 9. (Septembre 4806).</p>
+<p><pb/></p>
+<p>Le 12 janvier « L'opération qu'a faite Belliard est excellente. Il faut
+faire pendne il Madrid une vingtaine des plus mauvais sujets. Demain,
+j'en fais pendre dix-sept connus par tous les excès. Si l'on ne
+débarrasse pas illadrid d'une centaine de ces boute-feu, on n'aura rien
+fait. Sur ces cent, faites-en fusiller douze ou quinze et enroyez le
+reste aux galères. »</p>
+<p>Encore des lettres, monsieur Thiers, que vous avez lues, relues et
+annotées. et passées sous silence, jugeant sans doute inutile de faire
+remarquer qu'en Espagne, comme en Italie, comme partout où sa domination
+s'exerçait, Napoléon tenait pour non avenues les décisions de la justice
+lorsqu'elles n'étaient pas conformes il ses passions.</p>
+<p><pb/></p>
+<p>Il est vrai que, si vous aviez fait connaître ces lettres et toutes
+celles du même genre qui abondent dans la Correspondance de Napoléon
+2er, il vous eût été difficile de dire que « Dieu, après l'avoir fait si
+grand, l'avait fait bon aussi (*</p>
+<p>M. TIIIERS.</p>
+<p>M. MORTIMER-TERNAUX, Ù part.</p>
+<p>Comment diable reconnaître qu'un visage est beau lorsqu'il est couvert
+d'un caillot de sang ? M. TIIIERS.</p>
+<p>« Il descendit vivement de cheval, souleva la tête du blessé, l'appuya
+sur son genou, et avec un spiritueux actif réveillant la vie près de
+s'éteindre Il en reviendra, dit-il en souriant. C'est autant de sauvé
+(2)! »</p>
+<p>M. MORTIMER-TERNAUX.</p>
+<p>(»} Op. cil., XX, p, 714.</p>
+<p><pb/></p>
+<p>ni. RAUDOT, qui a pris dans la bibliothèque un tolume du Journal de
+l'Empire.</p>
+<p><pb/></p>
+<p>M. MORTIMER-TERNAUX, part.</p>
+<p>Ah! je vois maintenant pourquoi M. Thiers dit le nommé Hofer. Histoire
+d'imiter le grand homme.</p>
+<p>M. raW^jt, continuant.</p>
+<p>« Espèce de brigand qui s'est couvert de crimes dans -la dernière
+campagne de Prusse et qui avait obtenu le grade de colonel. » A
+Dusseldorf, capitale du grand-duché de Berg, la Gazette officielle
+publia, en tête de son numéro du 17 mai, une Note où l'on distingue
+aisément l'empreinte de la griffe impériale « Il est temps de prévenir
+les habitants du grand-duché de Berg sur le compte de Schill. M. le
+général Lestocq, gouverneur de Berlin, écrit officiellement pour (')
+Journal de l'Empire, n° du 7 mai 1809.</p>
+<p><pb/></p>
+<p>(') Journal de l'Empire, n' du 23 mai 1809.</p>
+<p><pb/></p>
+<p>M. THIERS.</p>
+<p>M. RAUDOT.</p>
+<p>Mais M. Ternaux ne le sait peut-être pas, bien qu'il ait lu vos vingt
+volumes.</p>
+<p>nI. MORTIMER -TERNAUX.</p>
+<p>Je l'ignore complètement.</p>
+<p>(2) Id., numéro du 16 décembre 1809.</p>
+<p>(3) Bulletin des lois, avril 1814.</p>
+<p><pb/></p>
+<p>M. MORTIMER-TERNAUX.</p>
+<p>Avouez tout de même, monsieur Raudot, que dispersée est bien joli. Vous
+auriez dit vous, brutalement « Il y en eut onze de fusillés et trois
+cent soixante d'envoyés au bagne. » Fi donc le bagne!</p>
+<p>Ne concevez-vous point ce que, dès qu'on l'entend,</p>
+<p>De quelle étrange image on a l'âme blessée,</p>
+<p>Sur quelle sale vue il traîne la pensée?</p>
+<p>N'en frissonnez-vous point? et pouvez-vous, Monsieur,</p>
+<p>Aux suites de ce mot résoudre votre cœur?</p>
+<p>(') Ilisloire du Consulat et de l'Empire, t. X, p. 390.</p>
+<p><pb/></p>
+<p>Dispersée au contraire est un mot honnête, qui ne réveille aucune image
+pénible, qui ne blesse personne et surtout n'offense pas la mémoire de
+Napoléon.</p>
+<p>Ah que ce dispersée est d'un goût admirable</p>
+<p>M. THIERS.</p>
+<p>Il paraît que vous en tenez toujours pour Molière, monsieur Ternaux;
+mais vos railleries me touchent peu et vous trouverez bon que je n'y
+réponde point. (Se tournant vers M. Raudot.J Je ne disconviens pas qu'il
+n'y ait quelque chose de fondé dans vos observations; mais prenez garde
+que les hommes dont vous épousez ici la cause étaient des étrangers;.
+gardons notre pitié pour les Français.</p>
+<p>M. RAUDOT.</p>
+<p>« Vous êtes investi, mon cher général, de tous les pouvoir, oui, de tous
+les pouvoirs. Agissez aussi librement que si vous étiez au milieu de
+l'Allemagne..La mesure d'avoir</p>
+<p><pb/></p>
+<p>Au général Brune, qui a remplacé Hédouville, il écrit le 14 janvier «
+N'épargnez pas les communes qui se conduiraient mal. Brîclez quelques
+métairies et quelques gros villages dans le Morbihan. »</p>
+<p>Au général Gardanne, le 11 février</p>
+<p>&lt;t Je vous envoie, citoyen général, un de mes aides de camp pour rester
+auprès de vous et m'apporter la nouvelle de la prise ou de la mort de
+Frotté; il faut que cela finisse. Tachez d'avoir en vos mains le baron
+de Commargues, commandant la ire division; le chevalier de Monceau,
+commandant la 2e division; le nommé Lavi Dubois, commandant la 3e
+division; d'Hauteville, Memecourt (dit Fortu-</p>
+<p><pb/></p>
+<p>Au général Bernadotte, le 4 juin</p>
+<p>« Faites donc arrêter et fusiller dans les vingt-quatre heures ce
+misérable Georges. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>lieu de réviser tout le procès. Que faut-il penser de ce témoin
+monsieurs Thiers?</p>
+<p>M. THIERS.</p>
+<p>Vous abusez de quelques omissions sans importance vous tirez parti de
+quelques faits isolés et vous vous efforcez d'en faire sortir une
+conclusion générale. Ce procédé n'est avoué ni par la bonne foi ni par
+la raison.</p>
+<p>M. RAUDOT.</p>
+<p><pb/></p>
+<p>M. THIERS.</p>
+<p>M. RAUDOT.</p>
+<p>Que diriez-vous d'un historien qui, écrivant</p>
+<p><pb/></p>
+<p>M. TH1ERS.</p>
+<p>Dans ce volume, cependant, j'ai plus d'une page sévère contre l'empereur.</p>
+<p><pb/></p>
+<p>M. MORTIMER-TERNAUX.</p>
+<p>Je m'en suis aperçu, Madame, étant par terre.</p>
+<p>(Un mouvement fébrile s'empare des doigts de M. Thiers, qui brise ses
+lunettes. La pendule de la salle sonne une heure.)</p>
+<p>M. THIERS.</p>
+<p>Il est une heure. Je suis obligé de vous quitter, monsieur Raudot, pour
+me rendre dans le sein de la commission chargée d'examiner le crédit de
+80,000 francs demandé pour payer les frais du plébiscite du 8 mai 1870.</p>
+<p>M. MORTIMER-TERNAUX.</p>
+<p>Vous êtes-vous quelquefois demandé, monsieur Thiers, pour combien de
+millions de o2ci votre Histoiré du Consulat et de l'Empire était entrée
+dans les résultats des plébiscites impériaux ?</p>
+<p>M. THIERS.</p>
+<p><pb/></p>
+<p>SCÈNE III..</p>
+<p>M. MORTlMER-TERNAUX, M. RAUDOT.</p>
+<p>M. RAUDOT, riant.</p>
+<p>Il y a longtemps que je ne m'étais autant amusé M. mortimer-ternaux, de
+même.</p>
+<p>Et moi donc!</p>
+<p>M. RAUDOT.</p>
+<p>M. MORTIMER-TERNAUX.</p>
+<p>M. RAUDOT.</p>
+<p><pb/></p>
+<p>CY-GIST NAPOLÉON PREMIER</p>
+<p>ENTERRÉ UNE PREMIÈRE FOIS A SAINTE-HÉLÈNE</p>
+<p>ET UNE SECONDE FOIS AUX INVALIDES,</p>
+<p>RESSUSCITÉ PAR M. TI-IIERS</p>
+<p>ET ENTERRÉ ICI</p>
+<p>POUR LA TROISIÈME FOIS ET POUR TOUJOURS</p>
+<p>PAR NAPOLÉON TROIS.</p>
+<p>(M. Mortimer-Ternauœ et M. Raudot sortent ensembde bras dessus bras
+dessous. )</p>
+<p><pb/></p>
+<p>UN BANQUET CHEZ PLUTON</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>x</p>
+<p>UN BANQUET CHEZ PLUTON</p>
+<p>MM. Troplong, de Boissy, Sainte-Beuve, le général Husson, Émile Augier,
+le baron Charles Dupin, Persil, Dupin aîné, Mocquart, Prosper Mérimée,
+le général Piat, Nisard, de Sacy, Victor Cousin et Platon.</p>
+<p>Une vaste salle, ornée de colonnes et de statues. Autour d'une table
+couverte de mets et de vins, de fruits et de fleurs, sont rangés un
+grand nombre de convives, a la tète chenue. Dans le fond de la salle,
+Platon et Victor Cousin sont debout et observent, pareils aux deux
+philosophes que Couture a peints dans son tahlcau des liomains de la
+décadence, au musée du Luxembourg.</p>
+<p>M. TROPLONG.</p>
+<p><pb/></p>
+<p>M. DE BOISSY.</p>
+<p>Permettez, monsieur le président.</p>
+<p>M. TROPLONG.</p>
+<p>Monsieur de Boissy, vous n'avez pas la parole.</p>
+<p>M. DE BOISSY.</p>
+<p>M. TROPLONG.</p>
+<p>LE GÉNÉRAL IIUSSON ET LE GÉNÉRAL PIAT, ensemble.</p>
+<p>Un vieux soldat sait souffrir et se taire</p>
+<p>Sans murmurer.</p>
+<p>M. DE BOISSY.</p>
+<p>Me taire, moi, me taire 1 Ce serait mourir deux fois, et c'est bien
+assez d'une. Comment admettre, d'ailleurs, que le Règlement d'ici-bas ne
+permette pas au moins l'Ombre d'une interruption ?</p>
+<p><pb/></p>
+<p>M. EMILE AUGIER ,on voisin.</p>
+<p>Devant l'Ombre d'un auditeur,</p>
+<p>J'ai vu l'Ombre d'un orateur,</p>
+<p>Qui prononçait une harangue</p>
+<p>Et qui, pour humecter sa langue,</p>
+<p>Au beau milieu de son morceau,</p>
+<p>Buvait l'ombre d'un verre d'eau.</p>
+<p>M. TROPLONG.</p>
+<p>L'incident est clos. L'ordre du jour.</p>
+<p>M. DE BOISSY.</p>
+<p>Que parlez-vous d'ordre du jour dans le royaume des ténèbres ? (Murmures
+prolongés.)</p>
+<p>M. TROPLONG.</p>
+<p>M. DUPIN AINÉ.</p>
+<p>« Le gouvernement de B*v* était militaire la voix des lois était
+étouffée par le cliquetis des armes toute la considération semblait
+réservée aux soldats Togœ cedebant armis. »</p>
+<p>M. PERSIL.</p>
+<p>Je demande la parole.</p>
+<p>M. SAINTE-BEUVE.</p>
+<p>Je la demande également.</p>
+<p><pb/></p>
+<p>M. DUPIN ABVÉ.</p>
+<p>« N* ne règne plus, mais toutes ses lois nous restent, et ce sont ces
+lois qui ont fait le malheur de la nation française. Notre bonheur
+dépend donc de leur prompte abolition ('). »</p>
+<p>M. ÉMILE AUGIER, Ct son voisin,</p>
+<p>Les B., les N. voltigeaient sur son bec.</p>
+<p>M. TROPLONG.</p>
+<p>Excusez-moi, monsieur Dupin, si je vous interromps.</p>
+<p>M. DE BOISSY.</p>
+<p>bl. TROPLONG.</p>
+<p>Sous un sceptre de fer tout un peuple abattu,</p>
+<p>A force de malheur, a repris sa vertu</p>
+<p>Tarquin nous a remis dans nos droits légitimes:</p>
+<p>Le bien public est até de. l'excès de ses crimes.</p>
+<p>Dans cette brochure, M. Dupin ne désigne jamais le nom de l'Empereur que
+par son initiale, suivie de trois étoiles.</p>
+<p><pb/></p>
+<p>bien très-bien/ Mouvement marqué. d'approbation.) Monsieur Dupin, je
+vous prierai de nous dire quel est ce B. et cet N. dont vous venez de
+parler.</p>
+<p>M. DUPIN AINÉ.</p>
+<p>M. TROPLONG.</p>
+<p>Mais encore.</p>
+<p>M. DUPIN AINÉ.</p>
+<p>Eh bien puisque vous m'y forcez, puisque vous voulez absolument que je
+dise ce nom dont les syllabes brûlent mes lèvres, je le ferai, quoi
+qu'il m'en coûte l'homme dont j'ai parlé est Napoléon Bonaparte (Pro
+fonde sensation.)</p>
+<p>Son nom jamais n'attristera mes vers.</p>
+<p>M. TROPLONG.</p>
+<p>M. Persil a la parole.</p>
+<p>M. PERSIL.</p>
+<p>Je ne dirai qu'un mot « Le code pénal façonné par Buonaparte est l'œuvre
+d'un tyran (').</p>
+<p>(') Plaidoyer de M" Persil, pour M. Bavons prononcé devant la cour
+d'assises de la Seine, le 31 juillet 1819.</p>
+<p><pb/></p>
+<p>M. MOCQUART.</p>
+<p>J'estime, en ce qui me concerne, que « les dispositions du Code pénal de
+1810, relatives aux crimes politiques, ne se peuvent comparer qu'aux
+lois de Tibère ('). »</p>
+<p>M. DE BOISSY.</p>
+<p>Tu quoque, Mocquart</p>
+<p>M. TROPLONG.</p>
+<p>Monsieur Sainte-Beuve, vous avez la parole.</p>
+<p>M. SAINTE-BEUVE.</p>
+<p>« Le pouvoir de .Bonaparte était impudemment despotique (?). (Très-bien!
+très-bien !j Ses guerres étaient insensées (5). »</p>
+<p>M. LE BARON CHARLES DUPIN.</p>
+<p>Monsieur le président, je demande la parole.</p>
+<p>M. SAINTE-BEUVE.</p>
+<p>(2) M. Sainte-Beuve, Revue des Deux Alondes, septembre 1834.</p>
+<p>(3) Le même, Revue des Deux Dlondes, décembre 1832.</p>
+<p><pb/></p>
+<p>M. ÉMILE AUGIER, son VOÏSill.</p>
+<p>Rien d'humain ne battait sous son épaisse armure;</p>
+<p>Sans haine et sans amour.</p>
+<p>Le même, Revue des Deux 31ondes, février 1834.</p>
+<p><pb/></p>
+<p>M. SAINTE-BEUVE, continuant.</p>
+<p>M. MÉRIMÉE.</p>
+<p><pb/></p>
+<p>M. DE BOISSY.</p>
+<p>Je proteste. Je n'accorderai jamais qu'un enfant de la perfide Albion
+puisse jouerun beau rôle. Pour moi, en ce monde- ci comme dans l'autre,
+je ne cesserai de demander qu'une armée française traverse la Manche et
+fasse une descente en Angleterre. Ce jour-là, encore bien que je ne sois
+plus que l'Ombre de moi-m'ême, je m'enrôlerai en qualité de .tambour.</p>
+<p><pb/></p>
+<p>Voyez-vous ce brave marquis</p>
+<p>Ne rêvant que peuples conquis,</p>
+<p>Ne trouvant pas la Manche large,</p>
+<p>Et qui, pour mieux battre la charge,</p>
+<p>S'exerce la nuit et le jour</p>
+<p>A frapper l'ombre d'un tambour,</p>
+<p>Comme un timbalier en goguette,</p>
+<p>Avec l'ombre d'une baguette.</p>
+<p>M. TROPLONG.</p>
+<p>Veuillez continuer, monsieur Mérimée.</p>
+<p>M. MÉRIMÉE.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>M. SAINTE-BEUVE.</p>
+<p>M. MÉRIMÉE.</p>
+<p>Assurément.</p>
+<p>M. TROPLONG.</p>
+<p>Messieurs, si personne ne demande plus la parole.</p>
+<p>M. LE BARON CHARLES DUPIN.</p>
+<p>Pardon, monsieur le président, je l'ai demandée au moment où M.
+Sainte-Beuve.</p>
+<p>M. TROPLONG.</p>
+<p>M. LE BARON CHARLES DUPIN.</p>
+<p><pb/></p>
+<p>de cette vérité, trop longtemps méconnue, je désirerais apporter
+quelques chiffres, car je ne sais rien, pour ma part, qui soit plus
+éloquent Et mundum regunt numeri.</p>
+<p>M. NISARD ET M. DE SACY.</p>
+<p>Très-bien très-bien</p>
+<p>M. LE BARON CHARLES DUPIN.</p>
+<p>(') Forces productives et commerciales de la Fiance, par le baron
+Charles Dupin, 1827. lntroduction, pages 3 et 4.</p>
+<p><pb/></p>
+<p>PLATON, M. Victor Cousin.</p>
+<p>Ah ça, mon cher traducteur, que sont donc ces hommes et d'où sortent-ils
+? Si j'en juge par ce que nous venons d'entendre, Napoléon n'avait pas
+d'ennemis plus irréconciliables, et ils appartenaient sans doute à
+quelque société secrète ayant pour but le renversement de l'Empire ?</p>
+<p>VICTOR COUSIN.</p>
+<p>M. TROPLONG.</p>
+<p>Vive l'Empereur</p>
+<p>M. DE BOISSY.</p>
+<p>Monsieur le président, je demande.</p>
+<p>M. TROPLONG.</p>
+<p>La séance est levée.</p>
+<p><pb/></p>
+<p>PLATON, ic M. Victor Cousin.</p>
+<p>Je n'y comprends plus rien. Ces fougueux ennemis de l'Empire,</p>
+<p>VICTOR COUSIN.</p>
+<p>Etaient justement les membres du Sénat impérial.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>L'ACADÉMIE AUX ENFERS</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>XI</p>
+<p>L'ACADEMIE AUX ENFERS</p>
+<p>1</p>
+<p>RÉCEPTION DE M. JULES FAVRE.</p>
+<p>M. Victor Cousin, M. Jules Favre, Pierre Corneille, le chancelier
+Séguier, M. Villemain, La Fontaine, M. Viennet, M. Pingard, la Comtesse,
+la Marquise, la Baronne, MM. Dupin, Ollivier et Legouvé. Académiciens
+anciens et modernes. Le théâtre représente une grande salle entourée de
+tribunes. Au fond, sur une estrade, une table couverte d'un tapis de
+drap noir, et trois fauteuils recouverts en velours rouge. Bien que l'on
+soit cu été, du feu dans la cheminée.</p>
+<p>SCÈNE PREMIÈRE</p>
+<p>M. PINGARD, LA COMTESSE LA MARQUISE, LA BARONNE. M. PINGARD.</p>
+<p>Allons, mesdames, encore un peu de patience* Nous entrerons en séance
+dans une petite demi-</p>
+<p><pb/></p>
+<p>LA BARONNE, posant un doigt sur sa bouche.</p>
+<p>Chut!</p>
+<p>M. PINGARD.</p>
+<p>LA COMTESSE.</p>
+<p>Pardon, je ne saisis pas très-bien.</p>
+<p>M. PINGARD,.</p>
+<p>Je prends un exemple pour mieux me faire entendre. Lorsque nous avons
+perdu, il y a quatre</p>
+<p><pb/></p>
+<p>ans, M. Victor Cousin, nous avons choisi, pour le remplacer, M. Jules
+Favre, qui est venu prendre séance le 23 avril 1868.</p>
+<p>LA MARQUISE.</p>
+<p>Je me le rappelle parfaitement; j'y étais.</p>
+<p>M. PINGARD, s'inclinant.</p>
+<p>Ah! c'est vous, madame la marquise Vous étiez une de nos fidèles.</p>
+<p>LA MARQUISE.</p>
+<p>Et je' compte sur vous, mon cher monsieur Pingard, pour avoir toujours
+de bonnes places. J'espère bien ne pas manquer une seule de vos
+nouvelles séances. Retrouver ici l'Académie française, cela va changer
+pour moi l'enfer en paradis. Mais j'ai interrompu votre intéressante
+explication continuez, je vous en prie.</p>
+<p>M. PINGARD.</p>
+<p>Je vous disais, mesdames, que M. Jules Favre, successeur de M. Cousin,
+avait fait l'éloge de ce dernier, dans la séance du 23 avril 1868. Eh
+bien! aujourd'hui, M. Jules Favre étant mort, c'est M. Victor Cousin qui
+va le recevoir, et qui, durant une demi-heure.</p>
+<p>LA MARQUISE.</p>
+<p><pb/></p>
+<p>M. PINGARD.</p>
+<p>Oui, madame. Au palais Mazarin, les discours ne duraient jamais moins de
+deux heures. Ici, défense expresse de parler pendant plus de trente ou
+quarante minutes.</p>
+<p>LA. MARQUISE, avec désespoir.</p>
+<p>Les séances ne dureront donc plus qu'une heure au lieu de quatre ?</p>
+<p>M. PINGARD.</p>
+<p>LA MARQUISE.</p>
+<p><pb/></p>
+<p>M. PINGARD.</p>
+<p>LA BARONNE, bas.</p>
+<p>Nu comme le discours d'un Académicien.</p>
+<p>LA MARQUISE.</p>
+<p>Mais, savez-vous bien, monsieur Pingard que ce n'est point seulement une
+réforme que vous nous annoncez là; c'est une révolution.</p>
+<p>M. PINGARD.</p>
+<p>LA COMTESSE, lc la baronne.</p>
+<p>Je tremble pour.</p>
+<p>LA BARONNE, posant zcn doigt sur sa bo'2lChe.</p>
+<p>Chut (Mettant son lorgnon.) Monsieur Pingard, que veut dire ceci? Je
+vois dans l'hémicycle plus de quarante fauteuils, beaucoup plus.</p>
+<p><pb/></p>
+<p>M. PINGARD.</p>
+<p>Sans doute, madame. L'Académie aux enfers se compose de tous les membres
+qui en ont fait partie depuis sa fondation, et il y en a ici au mois
+quatre cents.</p>
+<p>LA BARONNE.</p>
+<p>Quatre cents! Dans ce cas, ils doivent avoir de l'esprit comme quarante.</p>
+<p>M. PINGARD.</p>
+<p>Quel homme aimable que M. Brifaut, et quelle jolie collection ce serait
+que celle de ses billets du matin Pour qui ce banc recouvert de velours
+rouge ?</p>
+<p>M. PINGARD.</p>
+<p>C'est le banc des cardinaux, réservé au cardinal de Luynes, au cardinal
+d'Estrées, au cardinal de</p>
+<p><pb/></p>
+<p>Polignac, au cardinal de Bernis, au cardinal Maury et au cardinal de
+Bausset. Cette bergère est celle de M. de. Florian et de M. Bergeret.</p>
+<p>LA COMTESSE.</p>
+<p>LA COMTESSE.</p>
+<p>M. PINGARD.</p>
+<p>A M. Emile Ollivier.- Au centre de l'hémicycle se trouve la sellette du
+récipiendaire.</p>
+<p>LA BARONNE.</p>
+<p>Est-ce possible? Non, je ne me trompe point. Là-bas, dans ce coin, c'est
+bien une chaise per. M. PINGARD, rougissant et baissant les yeux.</p>
+<p>Oui, madame la baronne, c'est la chaise. la chaise de M. Vatout.</p>
+<p>LA MARQUtSE, détournant la conversation.</p>
+<p>Pourriez-vous me dire, monsieur Pingard, si ces, messieurs ont formé
+leur bureau?</p>
+<p>M. PINGARD.</p>
+<p>Certainement. M. Corneille, l'aîné, a été élu président. M. Racine, le
+père, avait de nombreux</p>
+<p><pb/></p>
+<p>LA COMTESSE.</p>
+<p>M. PINGARD.</p>
+<p>Fort heureusement, madame la comtesse. (D'un air galant.) Sans vous,
+mesdames, sans votre gracieuse intervention et votre balsamique
+influence, sans l'atmosphère pleine de douceur et de charme que vous
+créez autour d'elle, que deviendrait l'Académie française? Vous n'en
+êtes pas seulement le sourire et le rayon, vous en êtes l'âme et la vie.</p>
+<p>LA COMTESSE.</p>
+<p>Ah! monsieur Pingard, vous oubliez que votre nouveau règlement proscrit
+le compliment et la phrase! Qui avez-vous choisi pour chancelier? M.
+PINGARD.</p>
+<p><pb/></p>
+<p>LA MARQUISE.</p>
+<p>Il était mort, en homme d'esprit, la veille du plébiscite.</p>
+<p>M. PINGARD.</p>
+<p>LA MARQUISE.</p>
+<p>Il me tarde de les voir.</p>
+<p><pb/></p>
+<p>M. PINGARD.</p>
+<p>LA BARONNE, vivement.</p>
+<p>Montrez-la moi.</p>
+<p>Af. PINGARD.</p>
+<p>LA BARONNE.</p>
+<p>Quelle est ensuite cette belle jeune fille, si simplement vêtue, qui a
+presque l'air d'une enfant, mais d'une enfant sublime?</p>
+<p>M. PINGARD.</p>
+<p>LA BARONNE.</p>
+<p><pb/></p>
+<p>LA COMTESSE.</p>
+<p>Pour le prix de vertu?</p>
+<p>M. PINGARD.</p>
+<p>Oh! non.</p>
+<p>LA BARONNE.</p>
+<p>Oui, c'est bien elle. C'est bien Mme Louise Colet, née Revoil. N'est-ce
+pas, monsieur Pingard?</p>
+<p>M. PINGARD, avec un soupir.</p>
+<p>Hélas oui, madame.</p>
+<p>LA BARONNE.</p>
+<p>M. PINGARD.</p>
+<p>Au second rang, Mme Cornuel cause avec Mme de Sévigné qui a auprès
+d'elle la plus jolie fille de France. A la direction de leurs regards,
+je soupçonne que Mme Colet pourrait bien être, en ce moment, la cause et
+la victime de leur belle humeur.</p>
+<p>LA BARONNE.</p>
+<p>(') Mot de bim' Cornuel sur M"' de Scudéry, qui était fort noire de peau.</p>
+<p><pb/></p>
+<p>M. PINGARD.</p>
+<p>(Bas.) Il paraît que notre baronne a lu Tallemant des Réaux. (Haut.)
+Voici la porte de la tribune qui s'ouvre M. le duc de Noailles introduit
+Mme de Maintenon. (Les dames qui entourent M. Pingard montent s2cr leurs
+chaises et regardent, qui avec un lorgnon, qui avec une jumelle.)
+Voyez-vous maintenant Mme Récamier au bras de M. de Châteaubriand?</p>
+<p>LA BARONNE, riant.</p>
+<p>Oh quel affreux turban</p>
+<p>M. PINGARD.</p>
+<p>Ne riez pas, madame la baronne. Ce turban, c'est Mme de Staël, c'est
+Corinne, conduite, non par Oswald, mais par le duc de Broglie, son gendre.</p>
+<p>LA MARQUISE.</p>
+<p>LA COMTESSE.</p>
+<p>Mon front était si fier de sa couronne blonde,</p>
+<p>Anneaux d'or et d'argent tant de fois caressés!</p>
+<p>Et j'avais tant d'espoir quand j'entrai dans le monde,</p>
+<p>Orgueilleuse et les yeux baissés!</p>
+<p><pb/></p>
+<p>Pauvre femme! comme ses cheveux ont grisonné</p>
+<p>LA BARONNE.</p>
+<p>C'est la faute du mari.</p>
+<p>M. PINGARD.</p>
+<p>Hé! hé ce n'est plus la Muse de la patrie, cette éblouissante jeune
+fille qui récitait si bien ses vers, avec un front d'inspirée, avec un
+timbre de voix précis et sonore, telle que nous l'a peinte M. Hersent,
+gracieusement entourée de cette écharpe bleu-clair, couleur de ses yeux.</p>
+<p>Elle chante, et, devant son écharpe légère,</p>
+<p>Corinne courberait l'orgueil de son laurier.</p>
+<p>Je n'oublierai jamais cette séance de l'Académie française où M110
+Delphine Gay fut couronnée pour avoir chanté le dévouement des sœurs de
+SainteCamille pendant la peste de Barcelone. C'était le 16 avril 1822.</p>
+<p>LA MARQUISE, piquée.</p>
+<p>Êtes-vous folle, ma chère? En 1822! C'est l'année où je suis entrée aux
+Oiseaux.</p>
+<p>LA BARONNE.</p>
+<p>J'y ai été élevée moi aussi j'y suis entrée en 1846.</p>
+<p><pb/></p>
+<p>LA MARQUISE.</p>
+<p>(A part.) Et vous en êtes sortie avec une tête de linotte. (Haut, M.
+Pingard.) N'est-ce pas la duchesse de Liéven que j'aperçois au fond de
+la tribune ?</p>
+<p>M. PINGARD.</p>
+<p>Elle-même. Elle cause avec Mme Guizot.</p>
+<p>LA MARQUISE.</p>
+<p>E.n attendant mieux.</p>
+<p>M. PINGARD.</p>
+<p>LA COMTESSE, LA BARONNE, LA MARQUISE, avec Vivacité.</p>
+<p>Montrez-nous cette loge, monsieur Pingard</p>
+<p>M. PINGARD.</p>
+<p>LA BARONNE.</p>
+<p><pb/></p>
+<p>LA COMTESSE.</p>
+<p>Et vous gagneriez votre pari si je ne me trompe,</p>
+<p>ces trois messieurs ne sont autres que Molière, Pascal et Balzac.</p>
+<p>LA MARQUISE.</p>
+<p>M. PINGARD.</p>
+<p>de Dijon tous les deux. Il s'approche de M. Poquelin, et trouve moyen de
+le dérider. Je donnerais bien quelque chose pour savoir ce qu'il lui a
+dit. LA BARONNE.</p>
+<p>Eh! mon Dieu, monsieur Pingard, Piron dit à</p>
+<p>Molière Ces hommages posthumes, ce buste de marbre, l'inscription qui le
+décore, tout cela, c'est de la moutarde de Dijon après dîner.</p>
+<p>LA COMTESSE, frappant dans ses mains.</p>
+<p>Oh la drôle de chose Il faut venir en ce</p>
+<p><pb/></p>
+<p>sation avec Pascal. M. de Balzac rit de son bon gros rire, et les grands
+yeux tristes, la noble et pâle figure de Pascal s'illuminent d'un
+sourire presque joyeux. De quoi peuvent-ils bien parler? LA BARONNE.</p>
+<p>LA COMTESSE.</p>
+<p>(i) Revue Parisienne, par H. de Balzac, 25 août 1840. Lettre sur
+l'Ilistoire de Port-Royal par M. Sainte-Beuve.</p>
+<p><pb/></p>
+<p>M. PINGARD.</p>
+<p>SCÈNE II</p>
+<p>LES MÊMES, PIERRE CORNEILLE, LE CHANCELIER SÉGUIER, m. villemain, M.
+VICTOR COUSIN, M. JULES favre', M. émile OLLIVIER, W. DUPIN, M. LA
+FONTAINE, lx. VIENNET. GROUPES NOMBREUX D'ACADÉMICIENS.</p>
+<p>Les tribunes achévent de se remplir, ainsi que l'hémicycle. A deux
+heures et quart, le bureau de l'Académie, composé de Pierre Corneille,
+du chancelier Séguier et de M. Villemain, fait son entrée, accompagné de
+M. Victor Cousin et de</p>
+<p><pb/></p>
+<p>Messieurs,</p>
+<p>(•) Discours de réception de M. J. Favre.</p>
+<p><pb/></p>
+<p>Ce beau front, cette auréole, ce feu, cette flamme, ces éclairs, tout
+cela, messieurs, c'était moi-même; et si j'ai reproduit ici ce passage,
+ce n'est pas, croyez-le bien, par vaine complaisance, ni pour vous
+signaler ce style prétentieux, ces images banales autant
+qu'incohérentes, cet instrument pénétré d'un feu intérieur, dont on ne
+doit pas pouvoir jouer longtemps, s'il est de bois, et dont
+l'embouchure, s'il est de cuivre, doit quelque peu brûler les lèvres
+non, si j'ai cité ces lignes, beaucoup trop flatteuses pour moi, c'est
+afin de vous faire mieux sentir combien est vif le regret que j'éprouve
+d'être obligé de mettre en regard de ce portrait celui de M. Jules
+Favre, tel qu'il m'est apparu la première fois qu'il m'a été donné de
+l'entendre.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>abondance et une sûreté singulièrement remarquables. Ce n'était plus le
+paysan du Danube ou du Rhône; c'était Isocrate plaidant contre la couronne.</p>
+<p><pb/></p>
+<p>qu'il est naturel ('). » (Hilarité générale. Tous les regards se
+tournent vers M. Dupin)</p>
+<p>M. COUSIN, continuant.</p>
+<p>(2) Circulaire du li mars 1848.</p>
+<p>(3) Déposition de III. Jules Favre dans l'enquète Quentin-Bail-» chart.</p>
+<p><pb/></p>
+<p>Des hauteurs de la théorie, il ne dédaignait point de descendre aux
+détails de la pratique, et notre confrère, M. Émile Ollivier, alors
+.commissaire général de la République dans les Bouches-du(1) Circulaires
+des 8 et 11 mars 18A8.</p>
+<p><pb/></p>
+<p>Rhône, nous a conservé ce précieux fragment d'une lettre que lui
+adressait M. Jules Favre « La candidature de M. Thiers doit être
+combattue par tous les moyens possibles, et le gouvernement provisoire
+attend de vous les plus grands efforts pour que vous en fassiez justice
+('). » M. Emile Ollivier suivit docilement ces instructions M. Thiers ne
+fut pas nommé. Ç Tous les yeux se portent sur la ganache de M. Ollivier._)</p>
+<p>M. COUSIN.</p>
+<p><pb/></p>
+<p>n'être pas ministre des affaires étrangéres il le sera.</p>
+<p>Vingt-deux années devaient s'écouler pour lui avant la venue de ce jour
+désiré et fatal.</p>
+<p><pb/></p>
+<p>J'ai dit qu'au point de vue politique les discours de M. Jules Favre
+appelaient également plus d'une réserve. Comment oublier, en effet,
+qu'aveuglé par la passion révolutionnaire, il a salué de ses
+applaudissements l'unité de l'Italie? Il n'a pas vu, il n'a pas voulu
+voir qu'elle allait enfanter l'unité de l'Allemagne; que du comte de
+Cavour naîtrait le comte de Bismark. Et lorsque l'ambition de M. de
+Bismark, favorisée par les fautes de Napoléon III, eut rendu la guerre
+entre l'Allemagne et la France inévitable et prochaine; lorsqu'il fallut
+réorganiser notre armée, M. Jules Favre s'épuisa en efforts, hélas
+couronnés de succès, pour empêcher cette</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>chimère dans le grand salon du château de Ferrières</p>
+<p>En effet, moins de quinze jours après ce discours de M. Jules Favre, M.
+de Bismark descendait dans l'arène. Armé de toutes pièces, il secouait
+la candidature du prince de Hohenzollern au trône d'Espagne, comme le
+toréador agite le lambeau de pourpre qui irrite le taureau. Napoléon III
+se précipita tête baissée sur le haillon rouge et s'enferra. Il tomba
+dans le cirque de Sedan.</p>
+<p><pb/></p>
+<p>ni une pierre de nos forteresses. » Cela dit, il partit pour Ferrières,
+afin d'entamer avec M. de Bismark des négociations qu'il avait lui-même
+rendues impossibles, et pour avoir avec l'bnpitoyable chancelier
+allemand une discussion académique. Il ne sortit, il ne pouvait sortir
+de l'entrevue de Ferrières que deux circulaires celle de M. Jules Favre
+fut la plus longue.</p>
+<p>L'heure fatale sonna pour Paris, comme elle allait sonner pour la
+province. Le 4 septembre 1870, M. Jules Favre avait solennellement juré
+de se faire tuer, ainsi que tous ses collègues (') il prit en
+conséquence le chemin de Versailles, et, le 28 (') Séance iu Corps
+législatif dit 4 septembre 1870</p>
+<p>M. Jules Favre.- Il faut que nous constituions immédiatement un
+gouvernement provisoire.</p>
+<p>Quelques voix. A l'Hôtel-de- Ville, alors.</p>
+<p>M. Jules Favre.- Ce gouvernement prendra en mains les destinées de la
+France; il combattra résolument l'étranger, il sera avec vous, et
+d'avance chacun de ses membres jure de se faire tuer jusqu'au dernier.</p>
+<p>Cris nombreux, Nous aussi! Nous aussi Nous le jurons tous 1- Vive la
+République</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Trois mois plus tard, il pleurait parce qu'il l'avait obtenue, et la
+France et l'Europe s'étonnaient de la quantité de larmes que peuvent
+contenir les yeux d'un vieil avocat.</p>
+<p><pb/></p>
+<p>Mais le lâcher en attendant,</p>
+<p>Je tiens pour moi que c'est folie,</p>
+<p>Car de le rattraper il n'est pas trop certain.</p>
+<p>LA FONTAINE M. VIENNET son voisin.</p>
+<p>De qui sont ces vers ?</p>
+<p>M. VIENNET.</p>
+<p>De vous, parbleu</p>
+<p>M. COUSIN.</p>
+<p><pb/></p>
+<p>M. Jules Favre tenait encore dans sa main crispée la feuille de papier
+qui avait fait couler sa (') Wuyr,, poésies, par M. Jules Favre.</p>
+<p>(2) Lettre de M. Laluyé au rédacteur de la Vérité, 22 juillet 1871.
+Voyez cette lettre dans .les Procès célèbres Affaire Jules Favre et
+Laluyé, p. 16 et suivantes.- Cette courte brochure est plus éloquente
+que les longs discours de M. Jules Favre, et leur survivra.</p>
+<p><pb/></p>
+<p>barque. Recueillie par M. Pingard, cette feuille est en ma possession.
+La voici</p>
+<p>Un mouvement de curiosité ardente se manifeste dans</p>
+<p>toute la salle, particulièrement 'dans la tribune où se trouvent la
+baronne, la comtesse et la marquise. 1\1. Cousin, agitant la feuille de
+papier sur laquelle sont fixés tous les regards</p>
+<p>JE NE LA LIRAI PAS (Marques bruyantes de</p>
+<p>désappointement.) NON, JE NE LA LIRAI PAS M. Victor Cousin se rassied au
+milielt d'applaudissements mêlés de murmure. Au moment où il a montré la
+lettre de M. Laluyé, M. Jules Favre est tombé en syncope. On s'empresse
+autoicr de lui et on le replace sur la sellette. Un silence de mort
+règne dans, la salle où retentissent, comme un glas funèbre, ces paroles
+qui s'échappent des lèvres frémissantes de.M. Jules Favre</p>
+<p>« JE RECONNAIS QUE J'AI ÉTÉ COUPABLE J'AI</p>
+<p>PRÉSENTÉ MON ENFANT A L'OFFICIER DE L'ÉTAT CIVIL AVEC L'INDICATION DE SA
+PATERNITÉ. J'AVAIS PERDU LA TÈTE. ET QUAND CETTE ENFANT FUT BAPTISÉE,
+SES PÈRE ET MÈRE FURENT DÉSIGNÉS COMME MARIÉS (1). »</p>
+<p>M. Pingdrd, avec l'aide de bl. Legouvé emporte lcors de</p>
+<p>la salle Me Jules Favre toujours évanoui. L'Assemblée se sépare au
+milieu de la plus vive agitation.</p>
+<p>(1) Affaire Juks Favre et Laluyë, p. 29.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>L'ACADÉMIE AUX ENFERS</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>XII</p>
+<p>L'ACADEMIE AUX ENFERS</p>
+<p>LES BÉVUES ACADÉMIQUES.</p>
+<p>MM. Sainte-Beuve, Jules Janin, Pingard. M. SaintMarc Girardin, le
+général Husson. MM. Cousin, Villemain, Ampère, Cuvillier-Fleury Xavier
+Marmier, Mignet, Guizot, Scribe, Patin, de Barante, Camille Doucet,
+Lamartine, Alfred de Vigny, Alfred de Musset, Salvandy, Montalembert,
+Flourens, le duc de Broglie autres immortels.</p>
+<p>UN VALLON AUX Champs-Elysées, DE GRANDS arbres SUA LE BORD D'UN RUISSEAU
+QUI ARROSE DES PRÉS FLEURIS. ON ENTEND DANS LE BOCAGE LE CHANT DES OISEAUX.</p>
+<p>La scène se passe en 189..</p>
+<p><pb/></p>
+<p>SCÈNE PREMIÈRE.</p>
+<p>M. JULES JANIN, M. SAINT-MARC GIRARDIN, PUIS M. PINGARD.</p>
+<p>M. Jules Janin s'appuie péniblement sur le</p>
+<p>bras de M. Saint-Marc Girardin.</p>
+<p>M. JULES JANIN.</p>
+<p>Hélas! hélas! on m'entraîne dans les lieux'</p>
+<p>sombres C'est Pluton c'est Pluton son regard m'obsède sa main m'appelle
+dieu barbare où me pousses-tu (') ?</p>
+<p>M. SAINT-MARC GIRARDIN.</p>
+<p>Allons, allons, mon cher ami, reprenez un peu</p>
+<p>M. JULES JÀNIN. lui serrant la main.</p>
+<p>Merci, mon cher ami, mille fois merci, ces deux</p>
+<p>mots latins ont suffi pour me ranimer. Umbrosam vallem! Ah! je renais à
+l'existence.</p>
+<p>M. SAINT-MARC GIRARDIN, bas.</p>
+<p>Puisque mon cordial opère si bien, je ne ferais</p>
+<p>(') Euripide, Alceste.</p>
+<p><pb/></p>
+<p>peut-être pas mal de lui en administrer encore quelques gouttes. (Haut.)</p>
+<p>Devenere locos lœtos, et amœna vireta</p>
+<p>Fortunatorum nemorum, sedesque beatas.</p>
+<p>M. JULES JANIN.</p>
+<p>Encore! Encore!</p>
+<p>M. SAINT-MARC GIRARDIN, continuant.</p>
+<p>Largior hic campos œther et lumine vestit</p>
+<p>Purpureo, solemque suum, sua sidera norunt.</p>
+<p>M. JULES JANIN.</p>
+<p>M. SAINT-MARC GIRARDIN, avec joie.</p>
+<p>Je vous retrouve enfin, mon cher ami. Vous citez du latin; donc, vous
+êtes. guéri. Et maintenant que vous y voyez clair, regardez celui dont
+la main vous appelle ce n'est pas Pluton, c'est un dieu plus propice,
+c'est notre ami Pingard.</p>
+<p>M. JULES JANIN, reconliaissalat M. Pingard, qui s'avance vers eux.</p>
+<p>Pingard Oui, c'est bien lui quel bonheur m. PINGARD, s'inclinant.</p>
+<p>M. Saint-Marc M. Jules Janin</p>
+<p>Soyez lès bienvenus, messieurs, dans Elseneur.</p>
+<p>La mort, qui n'épargne pas même les immortels,</p>
+<p><pb/></p>
+<p>s'est du moins montrée clémente envers vous, en vous frappant tous les
+deux le même jour.</p>
+<p>M. JULES JANIN.</p>
+<p>La pensée que j'allais faire route avec un aussi aimable compagnon de
+voyage a certainement adouci pour moi les tristesses du départ. Ce n'est
+point cependant sans un désespoir profond, mon cher monsieur Pingard,
+que j'ai quitté la terre, et ma charmante épouse et mon riant châlet.</p>
+<p>Linquenda tellus et dormis, et placens</p>
+<p>Uxor.</p>
+<p>M. PINGARD.</p>
+<p>M. JULES JANIN.</p>
+<p>M. PINGARD, rougissant.</p>
+<p>Oui, oui, monsieur Janin. Vous avez peut-être appris que ces Messieurs,
+lorsqu'ils ont constitué</p>
+<p><pb/></p>
+<p>leur bureau, ont choisi pour secrétaire perpétuel M. Villemain. Quelques
+jours après, ils ont bien voulu me nommer leur huissier perpétuel.</p>
+<p>M. SAINT-MARC GIRARDIN.</p>
+<p>Si j'avais été là, mon cher monsieur Pingard, c'est avec bien du plaisir
+que je vous aurais donné ma voix.</p>
+<p>M. JULES JANIN.</p>
+<p>Et moi de même. Personne, je le sais, n'est plus dévoué que vous à
+l'honneur et au bien de la Compagnie. Vous maintenez intact le dépôt de
+nos antiques usages; vous êtes, mieux que pas un de nous, au courant de
+notre glorieux passé, et vous connaissez, aussi bien que Villemain
+lui-même, nos annales domestiques, domestica facta. Vous êtes la
+tradition vivante de l'Académie.</p>
+<p>M: PINGARD.</p>
+<p>Vivante vivante On voit, monsieur Janin, que vous avez toujours le petit
+mot pour rire.</p>
+<p>M. JULES JANIN.</p>
+<p>Pensez-vous que notre réception ait lieu dès jeudi prochain? Si ce que
+m'a dit Saint-Marc Girardin est exact, c'est M. Sainte-Beuve, mon
+prédécesseur, qui prononcera mon éloge. Je serais bien aisé de le voir
+auparavant.</p>
+<p><pb/></p>
+<p>M. PINGARD.</p>
+<p>M. SAINT-MARC GIRARDIN.</p>
+<p>M. PINGARD, riant.</p>
+<p>M. Picard, bombardé ambassadeur en Belgique Mais cela est aussi drôle,
+savez-vous? que M. Jourdain, déguisé en mamamouchi ?</p>
+<p>M. SAINT-MARC GIRARDIN.</p>
+<p>Dites-moi le nom des Cinq du Sénat, je vous en prie.</p>
+<p><pb/></p>
+<p>M. PINGARD.</p>
+<p>M. SAINT-MARC GIRARDIN.</p>
+<p>Comment! M. Troplong?</p>
+<p>M. PINGARD.</p>
+<p>M. JULES JANIN.</p>
+<p>Le pauvre homme</p>
+<p>M. PINGARD.</p>
+<p>Vous dites bien, le pauvre homme Il était, avec tout cela, le plus
+malheureux du monde, parce qu'il était atteint d'une maladie qui
+pardonne rarement, et il croyait que Sainte-Beuve l'en pourrait
+peut-être guérir il avait la fièvre verte.</p>
+<p>Voyez en tête des Nouveaux Lundis, tome XII, la préface de M. Troubat,
+dernier secrétaire de' M. Sainte-Beuve.</p>
+<p><pb/></p>
+<p>M. JULES JANIN.</p>
+<p>Ah! je connais cela. J'ai eu cette fièvre pendant six ans, et j'ai
+failli en mourir. C'est bien autre chose que la fièvre quarte, la fièvre
+des Quarante La fièvre jaune elle-même est moins redoutable que la
+fièvre verte! Infortuné Troplong! II est mort sans avoir pu s'asseoir
+dans le fauteuil de ses rêves:</p>
+<p>M. SAINT- MARC GIRARDIN.</p>
+<p>Blondel, Chassiron, Royer, Troplong, cela fait quatre. Quel était le
+cinquième ?</p>
+<p>M. PINGARD.</p>
+<p>M. JULES JANIN.</p>
+<p>Ce mot du brave général Husson rappelle Clovis, devant lequel on
+racontait la Passion du Christ, et qui s'écria, mettant la main sur son
+épée « Ah! si j'avais été là, avec mes Francs! » De même, le vieux
+sénateur « Ah si j'avais été là. avec mes trente mille francs! »</p>
+<p>M. PINGARD.</p>
+<p>(') Op. cil., p. VIII.</p>
+<p><pb/></p>
+<p>SCÈNE II.</p>
+<p>LES MÊMES, LE GÉNÉRAL HUSSON m. SAINTEBEUVE, armé du parapluie avec
+lequel il frappa un jour un académicien sur la place Saint-Sulpice.</p>
+<p>M. JULES JANIN, faisant quelques pas au devant de M. Suinte-Beuve.</p>
+<p>Mon cher confrère, que je suis heureux de vous revoir et de vous serrer
+la main</p>
+<p>M. SAINTE-BEUVE.</p>
+<p>Je suis ravi, de mon côté, de pouvoir enfin vous exprimer ma
+reconnaissance pour la bienveillance avec laquelle vous avez parlé de
+moi devant l'Académie en venant occuper mon fauteuil, dans la séance du
+9 novembre 1871.</p>
+<p>M. JULES JANIN.</p>
+<p>M. SAINTE-BEUVE.</p>
+<p><pb/></p>
+<p>M. JULES JANIN.</p>
+<p>Oh! monsieur! d'une bouche telle que la vôtre, un tel éloge est sans
+prix. N'êtes-vous pas le prince des critiques ?</p>
+<p>M. SAINTE-BEUVE.</p>
+<p>Vous savez bien, mon cher monsieur Janin, que ce titre vous appartient.
+La voix publique vous l'a décerné et la voix publique ne se trompe pas.</p>
+<p>LE GÉNÉRAL HUSSON, avec zcn gros rire.</p>
+<p>Vox populi, vox Dei.</p>
+<p>M. SAINTE-BEUVE.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>M. SAINT-MARC GIRARDIN.</p>
+<p>M. JULES JANIN, avec un soupir.</p>
+<p>Rex ercct JEneas nobis</p>
+<p>M. SAINTE-BEUVE.</p>
+<p>« Le Lys dans la Vallée a paru a Saitit-Pétersbourg en octobre, novembre
+et décembre 1835. Le premier article du Lys dans la Vallée a para il
+Paris, dans la Revue, (Revue de Paris,) le vingt-trois novembre. H. de
+Balzac; Historique dit procès auquel a donné lieu le Lys dans la Vallée,
+page XX. La première édition en dent volumes in-8° a été mise en vente
+le 1" juin 1836.</p>
+<p><pb/></p>
+<p>M. JULES JANIN.</p>
+<p>Sitôt que je suis agité,</p>
+<p>Je prends ton livre, ô Sainte-Beuve,</p>
+<p>Et m'endors avec Volupté I</p>
+<p>M. SATNTE-BEUVE.</p>
+<p>M. JULES JANIN.</p>
+<p>Précisément, dans ces jours de-terreur et d'angoisses, où, rencontrant
+un de nos confrèresc'était, je crois, le 2a février 1848, vous lui
+disiez « Je suis hors de moi. Concevez-vous un</p>
+<p><pb/></p>
+<p>tel bouleversement politique ? Non, qu'on nous rende Louis XIV, qu'on
+nous donne le czar Nicolas, tout, tout, plutôt que ceci! »</p>
+<p>M. SAINTE-BEUVE.</p>
+<p>A MES AUDITEURS DE LAUSANNE.</p>
+<p>Pensé et formé sous leurs yeux, ce livre leur appartient.</p>
+<p><pb/></p>
+<p>M. JULES JANIN.</p>
+<p>Eh bien! oui, c'est vrai, je n'ai pas coupé les feuilles de votre livre,
+me rappelant le mot de</p>
+<p><pb/></p>
+<p>Balzac sur le premier volume de votre Port-Royal « En vérité, Madame, en
+coupant le livre, sans savoir que, littéralement, l'ennui se coupait au
+couteau. ('). »</p>
+<p><pb/></p>
+<p>dans beaucoup d'histoires de ce temps, est désigné par ces initiales
+P.-R (').</p>
+<p>M. SAINTE-BEUVE.</p>
+<p>Ce Balzac dont vous ne rougissez pas, Monsieur, d'invoquer contre moi le
+témoignage, était un misérable. Une odeur de crap2cle s'exhale de ses
+œuvres. C'était un monstre, entendez-vous bien, un véritable MONSTRE (').</p>
+<p>M. SAINT-MARC GIRARDIN.</p>
+<p>M. SAINTE-BEUVE.</p>
+<p>(2) Voyez a l'appendice du tome 1 de Porl-Royad les pages de M.
+Sainte-Beuve sur M. de Balzac.</p>
+<p><pb/></p>
+<p>Étude sur Virgile, interrompue au douzième chant de V Enéide, est un des
+meilleurs travaux. » Mais pour peu que vous eussiez tenu cette Étude en
+vos mains, vous auriez vu, Monsieur, qu'elle avait été interrompue au
+sixième chant et non pas au douzième.</p>
+<p>M. JULES JANIN.</p>
+<p>M. SAINTE-BEUVE.</p>
+<p>Que voulez-vous dire ?</p>
+<p>M. JULES JANIN.</p>
+<p><pb/></p>
+<p>M. de Maupas, au lieu de deviser avec nous dans cette douce vallée, vous
+gémiriez au fond de l'horrible cachot réservé aux suicides</p>
+<p>Florrida deindè tenent mœsli loca, q2ci sibi letlaunz</p>
+<p>Insontes peperere manu, lucemque perosi</p>
+<p>Projecere animas</p>
+<p>nI. SAINTE-BEUVE.</p>
+<p>M. SAINT-MARC GIRARDIN.</p>
+<p>A quoi bon me prononcer sur une hypothèse qui n'a jamais pu se
+présenter? Comment admettre que jamais Académicien se soit permis,
+vis-à-vis de ses confrères et du public, un pareil manque de respect, et
+les ait pu traiter avec un pareil sansgêne ?</p>
+<p>M. SAINTE-BEUVE.</p>
+<p>Cela ne s'est vu, en effet, qu'une fois, le jour où M. Janin est venu
+prendre séance. En voulez-vous</p>
+<p><pb/></p>
+<p>« Hélène, cette reine de l'Iliade et de l'Odyssée, honneur de l'Attique
+q. » Hélène était aussi (') Page 53.</p>
+<p><pb/></p>
+<p>Quod Priamus gaudere senex post Hectora posset,</p>
+<p>Hoc fuit ille igilur tantorum victor, Achille,</p>
+<p>LE GÉNÉRAL iiussoN, regardant M. SainteBeuve avec admiration.</p>
+<p>Quel homme!</p>
+<p>(Pendant les dernières paroles de 111. Sainte-Beuve, plusieurs immortels
+sont venus se joindre ait groupe- que forment MM. Jules Janin,
+Saint-Marc Girardin,, SainteBeuve et Husson.)</p>
+<p>(i) Métamorphoses, livre XII.</p>
+<p><pb/></p>
+<p>.SCÈNE III.</p>
+<p>LES MDIES, MM. COUSIN, VILLEMAIN, AMPÈRE, CUVILLIER-FLEURY, XAVIER
+MARMIER MIGNET, GUIZOT, DE BARANTEet autres immortels.</p>
+<p>Après avoir rappelé quelque part une fable de Phèdre, vous ajoutez « Je
+traduis une fable de Phèdre, qui traduisait lui-même un passage de
+Plutarque. » Phèdre, mort l'an 14 de -notre ère, traduisant Plutarque,
+né trente six ans plus tard, en l'an 50, cela me fait un peu l'effet
+d'une fable. Après la fable, l'histoire. « La ville de Cannes est
+doublement célèbre par la victoire remportée par Annibal sur les Romains
+et par le débarquement de Bonaparte. » Depuis le jour où vous avez fait
+cette découverte, la ville de Cannes est devenue triplement célèbre. «
+Laissons parler Tacite, c'est vous, Monsieur, qui dites cela, laissons
+parler Tacite que je traduis comme un lettré doit traduire, et voyez
+quel admirable sujet de tragédie Alfieri a manqué là. Sous le consulat
+de Décimius Junius et de Quintus Hatérius, Néron (il venait d'avoir
+seize ans) avait épousé Octavie, fille de Claude et cVAgrippine; ainsi
+Octavie était, par sa mère, la propre sœur de Néron. » Tacite n'a garde
+de dire cela; Octavie était fille de Claude et de</p>
+<p><pb/></p>
+<p>Messaline; elle- était la propre sœur, non de Néron, mais de
+Britannicus, ce qui n'est pas précisément la même chose ac sorôrem
+Britannici Octaviam ('). « Au temps de Plaute, il y avait trois sortes
+d'acclarnations l'acclamation au Sénat pour les princes; on s'inclinait
+en criant Vive Néron! Vive Tibère! » Vous ne vous trompez guère, en cet
+endroit, que de deux cents ans Plaute était contemporain de Caton
+l'Ancien. Entendezvous d'ici, Monsieur Saint-Marc Girardin, Caton
+l'Ancien criant, de toute la force de ses poumons Vive Néron! ou Vive
+Tibère!</p>
+<p>M. JULES JANIN.</p>
+<p>Excusez-moi, Monsieur, si je suis moins familier que vous avec
+l'histoire du Sénat je n'ai point été, comme vous, payé pour cela.</p>
+<p>M. SAINTE-BEUVE.</p>
+<p>Nec imbellem féroces</p>
+<p>Progenerant aquilœ columbam</p>
+<p>(') Tacite, Annales, XIII, 16.</p>
+<p><pb/></p>
+<p>M. SAINT-MARC GIRARDIN.</p>
+<p>M. SAINTE-BEUVE.</p>
+<p>Eh bien?</p>
+<p>M. SAINT-MARC GIRARDIN.</p>
+<p>Eh bien, ce n'est pas Horace qui a dit cela; c'est Juvénal, dans sa
+dixième satire</p>
+<p>Orandum est ut sit mens sana in corpore sano.</p>
+<p>Cela n'est pas beaucoup plus grave, après tout, que d'éditer, comme vous
+l'avez fait, la Correspondance de Voltaire, et de citer inexactement un
+de ses vers les plus connus. (Après avoir tourné plusieurs feuillets de
+son CAHIER VERT.) « Soyons fiers, –j'ai noté ce passage dans votre
+article des Débats du G23 avril 1863, soyons fiers des progrès de
+l'industrie et de la civilisation, et répétons avec Voltaire</p>
+<p>Le siècle heureux que ce siècle de fer j</p>
+<p>Voltaire a dit, en un vers bien plus vif</p>
+<p>0 le bon temps que ce siècle de fer</p>
+<p><pb/></p>
+<p>(A M. Jules Janin.)</p>
+<p>Cedite, romani scriptores, cedite, graii;</p>
+<p>Nescio quid mnjus nascitur Iliade! (2)</p>
+<p>At. sainte-beuvE; poursuivant.</p>
+<p>LE général husson, qzci contemple M. SainteBeuve avec une admiration
+croissante.</p>
+<p>Quel homme Quel homme</p>
+<p>(1) Ilistoire de la littérature dramatique, Il, p. 45.</p>
+<p>(2) Lib. Il. Eleg, XXXVI.</p>
+<p><pb/></p>
+<p>M. SAINTE-BEUVE.</p>
+<p>Ce Sénèque, Monsieur, est un excellent homme.</p>
+<p>LE GÉNÉRAL HUSSON.</p>
+<p>Etait-il de Paris?</p>
+<p>M. SAINTE-BEUVE.</p>
+<p>Non, il était de Rome.</p>
+<p>M. COUSIN.</p>
+<p><pb/></p>
+<p>M. SAINTE-BEUVE.</p>
+<p>M. VILLEMAIN.</p>
+<p><pb/></p>
+<p>chercherait dans tout Horace une strophe sur ce rhythme</p>
+<p>Nox et tenebrœ, et nubila</p>
+<p>Confusa mundi et hirbida,</p>
+<p>Lux intrat, albescit polus,</p>
+<p>Christus venit, discedite.</p>
+<p>Dans un autre de mes ouvrages, j'ai fait chanter le Dies irœ aux
+chrétiens du F» siècle et un très-spirituel érudit (') m'a prouvé depuis
+que cette magnifique prose des morts Dies irœ, dies illa, avait été
+composée par Thomas de Celano, au XIIIe siècle!</p>
+<p>M. AMPÈRE.</p>
+<p>M. CUVILLIER-FLEURY.</p>
+<p>(3) Acte II, scène V.</p>
+<p><pb/></p>
+<p>nr. XAVIER MARMIER.</p>
+<p>Comment ne me serais-je pas trompé, moi le dernier et le plus indigne de
+tous les académiciens? J'ai souvenance qu'un jour je me suis permis
+d'appeler « Campe, l'auteur du RoMnson Suisse, le plus habile, le plus
+populaire de tous les imitateurs de Daniel Foë (2), » oubliant que
+l'auteur du Robinson Suisse était M. Wyss.</p>
+<p>M. SAINTE-BEUVE.</p>
+<p>Allons, ce n'est pas un cas pendablé.</p>
+<p>(J) Journal dcs Débats, 29 mars l8â7.</p>
+<p>(2) L'Union, 23 septembre 1859.</p>
+<p><pb/></p>
+<p>SCÈNE IV.</p>
+<p>LES mêmes, M. EUGÈNE SCRIBE, mm. BAYARD, MÉLESVILLE, GERMAIN DELAVIGNE,
+DUPIN, MOREAU, DELESTRE-POIRSON, DUVEYRIER, SAUVAGE, ROOGEMONT,
+SAINTINE, MAZÈRE, ET PLUSIEURS AUTRES COLLABORATEURS DE M. SCRIBE.</p>
+<p>m. SCRIBE, M- Pingard, en montrant ses collaborateurs Ces Messieurs sont
+avec moi. CM. Pingard les laisse passer.)</p>
+<p>M. Villemain.</p>
+<p><pb/></p>
+<p>M. GUIZOT.</p>
+<p>Ce n'est point en 1348, mais en 1359, pendant le siège de Dinan par le
+duc de Lancastre, qu'eut lieu le combat de Bertrand Duguesclin et de
+Thomas de Cantorbéry.</p>
+<p>M. SAINTE-BEUVE.</p>
+<p>Un duel! Nous ne pouvons, vieillard, combattre ensemble. (') La
+Bretagne, par J. Janin, 18-45, page 202.</p>
+<p><pb/></p>
+<p>M. MIGNET.</p>
+<p>M. SA1NTE.-BEUVE.</p>
+<p>Eh bien, Robertson se trompait. Ecoutez plutôt 1\1. Janin « Il y a une
+compensation aux plus (') M. Guizot, l'llistoire de France racontée ü
+anes petits-enfants I; p. 535;</p>
+<p>(2) La Brclagne, par J. Janin, page 182.</p>
+<p><pb/></p>
+<p>M. DE BARANTE.</p>
+<p>Jeanne d'Arc ayant délivré Orléans en 1429, il y avait, en 1855, non pas
+trois cents, mais quatre cent vingt-six ans.</p>
+<p>M. sainte-beuve, tournant plusieurs j'euillets de son CAHIER VERT.</p>
+<p>(2) Journal des Dé6ats, 25 mai 1855.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>M. SCRIBE.</p>
+<p>(2) Académie française, séance du 28 janvier 1836.</p>
+<p><pb/></p>
+<p>Scribe, qui s'élait avancé de quelques pas, marche par ntégaz·de, en se
+retournant, sur te pied dit général Husson.) LE GÉNÉBAL IIUSSON.</p>
+<p>Maladroit</p>
+<p>M. SCRIBE.</p>
+<p>Tiens! je vous ai marché sur le pied. La belle affaire (A demi-voix.)
+Asinus asinum fricat ('). LE GÉNÉRAL IIUSSON, furieux.</p>
+<p>Je vous entends fort bien, Monsieur.</p>
+<p>M. SCRIBE.</p>
+<p>Bah! vous entendez le latin?</p>
+<p>LE GÉNÉRAL IIUSSON.</p>
+<p>Oui, Monsieur, et vous m'en rendrez raison.</p>
+<p>M. SCRIDE.</p>
+<p><pb/></p>
+<p>A trente pas l'un sur l'autre on s'avance.</p>
+<p>LE GÉNÉRAL HUSSON.</p>
+<p>Ce sera au sabre, Monsieur.</p>
+<p>M. TIIIERS.</p>
+<p>Au sabre diavolo (Il fredonne en regardant le général</p>
+<p>Oui, j'en conviens, toute l'armée</p>
+<p>Ne compte pas deux guerriers tels que lui (0).</p>
+<p>(Le général Husson roule des yeux terribles). M. SAINTE-DEUVE.</p>
+<p>(2) Le Colonel, par le même.</p>
+<p>(3) Le Colonel, par le même.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>M. SAINT-MARC GIRARDIN.</p>
+<p>(2) Op. cit., IV, p. 301.</p>
+<p>(3) Op. cit., Il, iW.</p>
+<p>Journal des Savants, février 1868.</p>
+<p><pb/></p>
+<p>(2) Voy. Mémoires inédils dc Lamartine, (1790-1815.)</p>
+<p>(?) licuuc des Deux Mondes, 1" septembre 1868.</p>
+<p>(4) Portraits contemporains, I, p. 408.</p>
+<p><pb/></p>
+<p>(2) Revue des Deux Mondes, tome III, 1831.</p>
+<p><pb/></p>
+<p>Si mon récit est inexact, il est pourtant authentique, car le passage a
+été écrit d'après uneconversation directe de Victor Hugo lui-même. -M.
+SAINT-llfAItG GIRARDIN.</p>
+<p>M. SAINTE-BEUVE.</p>
+<p><pb/></p>
+<p>M. SAINT-MARC GIRARDIN.</p>
+<p>Le fils de Louis Racine était, en effet, l'intime ami de Le
+Brun-Pindare. Il partit en 1754 pour Ca;ix, et nous trouvons au livre I
+des Odes de Le Brun, une ode intitulée A mon ami le jeune Racine,
+partant pour CADIX, et quittant les Muses pour le commerce</p>
+<p>Quoi! tu fuis les neuf Soeurs pour l'aveugle Fortune! Tu quittes
+l'Amitié qui pleure en t'embrassant</p>
+<p>Tu cours aux bords lointains où Cadix voit Neptune L'enrichir en le
+menaçant.</p>
+<p>Des reflux troublant l'harmonie,</p>
+<p>Autour de la froide Ilibernie</p>
+<p>(') Voyez Causeries du Lundi, article sur Lebrnn-Pindare. La même
+assertion se retrouve an tome III des Xouceaux Lundis, p. ï0, dans un
+article de M. Sainte-Beuve sur les Lettrcs inédites de Jean Raciae et de
+Louis lacine.</p>
+<p><pb/></p>
+<p>L'onde bondit de toutes parts;</p>
+<p>Tandis que sa vague rapide</p>
+<p>Va, sous les colonnes d'Alcide,</p>
+<p>De Cadix noyer les remparts.</p>
+<p>Toi qui grondes sur ces rivages,</p>
+<p>Mer! si tu connais la Pitié,</p>
+<p>Epargne au moins dans tes ravages</p>
+<p>L'objet de ma tendre amitié.</p>
+<p>Reviens. la mer s'élance. Arrête!</p>
+<p>Vois, crains, fuis ces flots suspendus!</p>
+<p>Ils retombent! Dieux! la tempête</p>
+<p>M. SAINTE-BEUVE.</p>
+<p>« Hippias est administrateur-général. Comment cela, bon Dieu? Hippias,
+le 24 juillet, s'est foulé le bras en (') Odes de Le Brun, livre II, ode
+XVIII.</p>
+<p><pb/></p>
+<p>M. VICTOR COUSIN.</p>
+<p>La Bruyère n'eût pas désavoué ce croquis.</p>
+<p>M. JULES janin d'un air modeste.</p>
+<p>Il est certain que le jour où j'ai écrit ces lignes j'ai été assez
+heureusement inspiré.</p>
+<p>M. SAINT-MARC GIRARDIN.</p>
+<p>Mais cette page est de moi</p>
+<p>M. sainte-beuve, faisant l'étonné.</p>
+<p>Comment! de vous! Je l'ai copiée au tome III de V Histoire cle la
+littérature dramatique, page 108, et M. Janin la donne bel et bien comme
+de lui.</p>
+<p>M. SAINT-MARC GIRARDIN.</p>
+<p>Je l'ai écrite au lendemain des journées de Juillet et publiée dans le
+Jo2crnccl des Débats du 16 août 1830. Charles Labitte l'a citée au cours
+de l'article qu'il m'a consacré dans la Revue des Deux Mondes du ter
+février 184S, et je l'ai reproduite dans mes Souvenirs d'un journaliste.</p>
+<p><pb/></p>
+<p>Excusez-moi, mon cher ami, je ne puis m'expliquer cela que par une
+erreur de mon copiste.</p>
+<p>M. SAINT-MARC GIRARDIN, souriant.</p>
+<p>Il paraît que les Jules jouent de malheurs avec leurs copistes ('</p>
+<p>M. SAINTE-BEUVE.</p>
+<p><pb/></p>
+<p>(') 1832, I·' série, t. XXXVII.</p>
+<p>(') Conles fantastiques et contes littéraires, édition de 1832, 4 vol.
+in-12. Contes fantastiques et contes littéraires, édition de 1863, 1
+vol. in-18.</p>
+<p>(3) Voy. Les supercheries littéraires dévoilées par J.-M. Quérard, tome
+II, I" partie.</p>
+<p><pb/></p>
+<p>Il. Janin, exaspéré, essaie de lever sa canne sur M. Sainte-Beuve.)</p>
+<p>M. SAINTE-BEUVE.</p>
+<p>Frappe, mais écoute.</p>
+<p>(M. Seinte-Beuve saisit, d'une main, la canne de M. Jules-Janin, et, de
+l'autre, le menace avec sonparapluie. MM. Pingard, Saint-Marc Girardin,
+Cousin, Scribe, Husson, se jettent entre les deux adversaires. Cris,
+tumulte. Au bruit, accourent MM. Doucet, Lamar tine et plusieurs autres
+académiciens.)</p>
+<p><pb/></p>
+<p>SCÈNE V.</p>
+<p>LES mêmes, MM. CAIiILLE doocet, LAMARTINE, ALFRED DE VIGNY, ALFRED DE
+MUSSET, SALVANDY, PATIN, MONTALEMBERT, FLOURENS, LE DUC DE BROGLIE.
+GROUPE D'ACADÉMICIENS.</p>
+<p>m. CAMILLE DOUCET.</p>
+<p>Qu'est-ce donc? Qu'y a-t-il?</p>
+<p>M. pingard, troublé.</p>
+<p>Oh! mon Dieu, rien, rien absolument. C'est M. Janin et M. Sainte-Beuve
+qui échangent.</p>
+<p>M. CAMILLE DOUCET.</p>
+<p>Ah je vois ce que c'est M. Sainte-Beuve, étant chargé de faire l'éloge
+de M. Janin, s'occupe en ce moment de lui prendre mesure.</p>
+<p>M. SAINTE-BEUVE.</p>
+<p>Précisément.</p>
+<p>M. JULES JANIN.</p>
+<p>Eh bien! lorsque viendra le jour de la séance, répétez devant tous ces
+messieurs tout ce que vous m'avez fait entendre depuis une heure; dites
+que je suis un pédant, un plagiaire et un ignorant; dites, si. cela vous
+plaît, que je suis un âne. mort; mais dites aussi, Monsieur, que je n'ai
+jamais eu d'autre ambition que d'être hornme de lettres</p>
+<p><pb/></p>
+<p>Et cum fnrtunâ statque seditque {ides 1</p>
+<p><pb/></p>
+<p>M. DE LA51ARTINE.</p>
+<p>Comment! M. Sainte-Beuve aurait fait cela? Il aurait dit du mal de
+quelqu'un, lui, ce pieux et tendre rêveur, heureux d'admirer comme
+d'autres sont heureux de comprendre! Je n'oublierai jamais, pour mon
+compte, les pages enthousiastes qu'il m'a consacrées.</p>
+<p>M. JULES JANIN.</p>
+<p>M. ALFRED DE VIGNY, serrant la main de Lamartine,</p>
+<p>Mon noble ami, de telles injures ne sauraient vous atteindre.</p>
+<p>M. JULES JANIN.</p>
+<p>Puisque vous voilà, Monsieur de Vigny, écoutez le passage qui vous
+concerne.</p>
+<p>M. ALFRED DE VIGNY.</p>
+<p>Vous rentrerez au ciel une couronne au front,</p>
+<p>Et vous me trouverez en larmes, en prière,</p>
+<p><pb/></p>
+<p>Adorant du dehors l'éclat du sanctuaire,</p>
+<p>Et, pour tâcher de voir, épiant le moment</p>
+<p>Où chaque hôte divin remonte au firmament.</p>
+<p>Et si, vers ce temps-là, mon heure est révolue,</p>
+<p>Si le signe certain marque ma face élue,</p>
+<p>Devant moi roulera la porte aux gonds dorés;</p>
+<p>Vous me prendrez la main, et vous m'introduirez ('). M. JULES JANIN.</p>
+<p>M. ALFRED DE VIGNY, Suffoqué.</p>
+<p>Oh!</p>
+<p>M. JULES JANIN.</p>
+<p>Approchez, mon cher Musset, c'est votre tour. « Musset a un merveilleux
+talent de pastiche. (') Sainte-Beuve, LES CONSOLATIONS, XXVI. {A Alfred
+de Vigny). (2) Sainte-Beuve. Notes et pensées.</p>
+<p><pb/></p>
+<p>M. ALFRED DE MUSSET, riant</p>
+<p>Ah! daignez m'épargner le reste</p>
+<p>Sainte-Beuve, loc. cil.</p>
+<p><pb/></p>
+<p>M. JULES JANIN.</p>
+<p>Pour vous, Monsieur de Salvandy, il n'y a qu'une phrase, mais je ne sais
+si je dois.</p>
+<p>M. DE SALVANDY.</p>
+<p>Oh! allez, je ne crains rien. M. Sainte-Beuve ne m'a-t-il pas adressé,
+quand j'étais ministre de l'instruction publique, la lettre la plus
+aimable, la plus gracieuse.</p>
+<p>M. JULES JANIN.</p>
+<p>Eh bien! voici .votre portrait, après la lettre « M. de Salvandy n'est
+pas un sot c'est le sot. » m. DE SALVANDY, s'élançant sur M. Sainte-Beuve.</p>
+<p>Misérable</p>
+<p>Je suis sûr, mon cher collègue, qu'il ne m'a pas mieux traité que vous,
+et cependant il me comblait moi aussi de ses éloges, lorsque j'étais au
+ministère. Il m'adressait les épîtres les plus flatteuses; il m'écrivait</p>
+<p>Si vous, charmant esprit et la fusion même,</p>
+<p>Vous, le passé vivant et la langue qu'on aime,</p>
+<p>La plus pure aujourd'hui, regrettable demain,</p>
+<p>Vous le goût nuancé glanant sur tout chemin,</p>
+<p>Vous le prompt mouvement etla nature encore. (1).</p>
+<p>(') PENSÉES d'août, épître iL)! Villemain.</p>
+<p><pb/></p>
+<p>M. JULES JANIN.</p>
+<p>Hélas! Monsieur Villemain, vous connaissez: aussi le vers de notre
+excellent confrère Camille Doucet</p>
+<p>Tout se commence en vers et se termine en prose.</p>
+<p>(1) Sainte-Beuve, Notes et pensées.</p>
+<p><pb/></p>
+<p>M. JULES JANIN.</p>
+<p>Maintenant, je bois du lait.</p>
+<p>Sainte-Beuve, loc. cit.</p>
+<p><pb/></p>
+<p>Triple gredin Ah il y a du Bergamasque en moi Mais il y a en toi du
+Trissotin, du de Sade et du. Sainte-Beuve!</p>
+<p>M. JULES JANIN.</p>
+<p>Calmez-vous, Monsieur Cousin; souvenez-vous que vous êtes philosophe</p>
+<p>M. COUSIN, toujours furieux.</p>
+<p>M. JULES JANIN.</p>
+<p>(2) Revue des Deux Mondes, 15 janvier 1837.</p>
+<p><pb/></p>
+<p>M. DE MONTALEMBERT, souriant.</p>
+<p>M. JULES JANIN.</p>
+<p>M. DE MONTALEMBERT.</p>
+<p>Avouez du moins, Monsieur Sainte-Beuve, que ce pauvre Phanor n'a jamais
+hanté la cuisine. Laridon pourrait-il en dire autant ?</p>
+<p><pb/></p>
+<p>M. JULES JANIN.</p>
+<p>M. flourens, avec douceur.</p>
+<p>Ce n'est pourtant pas moi qui ai défini M. Sainte-Beuve: Une vipère sur
+un fumier! (Depuis quelque temps tons les académiciens se sont peu peu
+éloignés de M. Sainte-Beuve, qui n'a plus auprès de lui que le général
+Husson. )</p>
+<p>M. LE DUC DE BROGLIE.</p>
+<p>Messieurs, vous m'avez fait l'honneur de me choisir, il y a quelque
+jours, pour votre Directeur. (') Tome X, p. 10.</p>
+<p>(') Sainte-Beuve Notes et pensées.</p>
+<p><pb/></p>
+<p>TOUS LES ACADÉMICIENS.</p>
+<p>Oui, oui, adopté</p>
+<p>M. LE DUC DE BROGLIE.</p>
+<p>M. Sainte-Beuve, au nom de l'Académie, je prononce contre vous la peine
+de la quarantaine, et, en mon nom particulier, je vous interdis à
+perpétuité de me saluer, quand nous nous rencontrerons.</p>
+<p><pb/></p>
+<p>SCÈNE VI.</p>
+<p>M. SAINTE-BEUVE, M. JULES JANIN, LE GÉNÉRAL HUSSON.</p>
+<p>NI. JULES JANIN.</p>
+<p>Eh bien, général, vous restez ?</p>
+<p>LE GÉNÉRAL HUSSON.</p>
+<p>Oui, je reste. Je n'abandonnerai pas mon collègue dans son malheur. Je
+suis loin d'approuver ses procédés envers ces messieurs de l'Académie.
+Mais, après tout, ces querelles littéraires me touchent peu, Ah si M.
+Sainte-Beuve avait attaqué le Sénat, ce serait autre chose</p>
+<p>M. JULES JANIN.</p>
+<p>Croyez-vous donc qu'il ait épargné davantage ses collègues du Sénat ?
+Vous aimez beaucoup le baron Charles Dupin ?</p>
+<p>LE GÉNÉRAL HUSSON.</p>
+<p>Si je l'aimais Un si excellent homme, si charmant, et qui parlait si bien</p>
+<p>m. JULES JANIN, rouvrant son carnet.</p>
+<p>Apprenez donc ce que M. Sainte-Beuve en a dit dans ses petits papiers «
+Le baron Charles Dupin Ni chair, ni poisson; un savant bu demi-savant
+qui, depuis près de cinquante ans, parle de tout, se mêle de tout,
+rabâche de tout;</p>
+<p><pb/></p>
+<p>LE GÉNÉRAL HUSSON, éperdu.</p>
+<p>e De grâce pas un mot de plus</p>
+<p>M. JULES JANIN.</p>
+<p>Encore celui-ci. « J'allais oublier le dernier mot qui le résume l'homme
+de France le plus ennuyeux »</p>
+<p>LE général- husson, essuyant une grosse larme.</p>
+<p>Adieu, Monsieur Sainte-Beuve Adieu. pour jamais! (Détournant la tête.)
+Monsieur Janin, je vous suis.</p>
+<p>(LE GÉNÉRAL HUSSON opère Sa sortie, M. Jules Janin</p>
+<p>exit. )</p>
+<p>(') Sainte-Beuve, Noies et pensées.</p>
+<p><pb/></p>
+<p>SCÈNE VII.</p>
+<p>M. SAINTE-BEUVE, Seul.</p>
+<p><pb/></p>
+<p>TABLE</p>
+<p>PRÉFACE. VII 1. La Statue de Voltaire. 3 IL A la porte de la Chambre. 21
+Ill. Maître Jacques. Crémieux. 39 IV. Mercure et Gambetta. 57 V. Maîtres
+et valets. 75 VI. Le Cinq 89 VII. La Barque. 111 VIII. Le Numéro 139 IX.
+Les Tracasseries de M. 177 X. Un Banquet chez Pluton. 223 XI. L'Académie
+aux enfers i. Réception de Jules Favre 241</p>
+<p>XII. L'Académie aux enfers Les Bévues académiques. 279</p>
+<p><pb/></p>
+<p>ERRATA</p>
+<p>Page 34, ligne 6, au lieu de Deslongeais, lire Deslongrais.</p>
+<p>Page 46 ligne 1, au lieu de Oublions, lire Oubliions. Page 76, ligne 22,
+au lieu de Ed'anchi'io, lire Ed'anch'io.</p>
+<p>Page 81 ligne 20, au lieu de pris, lire repris.</p>
+<p>Page 114, ligne 13 au lieu de Margueite) lire Marguerite.</p>
+<p>Page 146, ligne 8, au lieu de: Je terminai, lire Je terminais.</p>
+<p>Page 157, lignes 15 et 16, supprimer: dupays.</p>
+<p>Page 165, ligne 27, au lieu de: vilres, lire livres.</p>
+<p>Page 244, ligne 11, au lieu de: les discours, lire: le discours.</p>
+<p>Page 257, ligne 18, au. lieu de M. Lafontaine, lire: La Fontaine.</p>
+<p>Page 259, ligne 24, au lieu de: Cours des pairs, lire: Cour des pairs.</p>
+<p>^antes- Imp. Vincent Forest et Êmile Grimaud, place du Commerce, 4.</p>
+    </div>
+    </body>
+  </text>
+</TEI>

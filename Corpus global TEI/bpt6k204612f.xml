@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Montesquiou, Robert de (1855-1921)">Robert de Montesquiou</author>
+<title>Le Mort remontant / Robert de Montesquiou</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Montesquiou, Robert de (1855-1921)</author>, <title>Le Mort remontant / Robert de Montesquiou</title>, <date>1922</date>,description :,136 pages
+</bibl>
+<publisher>Émile-Paul frères (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k204612f</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1922">1922</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p>MORT REMONTANT</p>
+<p>LE</p>
+<p><pb/></p>
+<p>IL A ÉTÉ TIRÉ DE CET OUVRAGE</p>
+<p>Quatre cent quatre-vingts exemplaire sur vélin non satiné numérotés de a
+500,</p>
+<p>Et cent exemplaires d'auteur (hors commerce).</p>
+<p>JUSTIFICATION DU TIRAGE</p>
+<p>? ~04</p>
+<p><pb/></p>
+<p>ROBERT DE MONTESQUIOU</p>
+<p>LE</p>
+<p>MORT REMONTANT</p>
+<p>SAINTES LETTRES.</p>
+<p>PARIS</p>
+<p>ÉMILE-PAUL FRERES, ÉDITEURS 100, Faubourg Saint-Honoré, 100</p>
+<p>4 Place Beauvau</p>
+<p><pb/></p>
+<p>DU MÊME AUTEUR 1,</p>
+<p>POÉSIE</p>
+<p>-SEPT VOLUMES DE L'ÉDITION RICHARD (Edition définitive)</p>
+<p>I. Les Chauves-Souris.</p>
+<p>II. Les Hortensias Bleus.</p>
+<p>III. Le* Chef des Odeurs Suaves.</p>
+<p>IV.' Le Parcours du Rêve au Souvenir.</p>
+<p>V. Les Paons.</p>
+<p>VI. Les Perles Rouges.</p>
+<p>VII. Les Prières de Tous.</p>
+<p>yni.</p>
+<p>L'HÉROÏSME DE LA MÉLANCOLIE /.Po~M~ Guerre)</p>
+<p>I. Les Offrandes Blessées.</p>
+<p>II. Sabliers et Lacrymatoires. III. Un Moment du Pleur Éternel.</p>
+<p><pb/></p>
+<p>,,(Études et Essais)</p>
+<p>VII. Têtes d'Expression.</p>
+<p>VIII. Têtes Couronnées.</p>
+<p>XI. Diptyque de Flandre, Triptyque de France. XII. Élus et Appelés.</p>
+<p>XIII. Le Mort Remontant.</p>
+<p>I. Une Petite Mademoiselle.</p>
+<p>II. La Trépidation.</p>
+<p>(Grande monographie de la Comtesse de Castiglione).</p>
+<p>I. Les Pas Effacés. (Mémoires). 2 vol.</p>
+<p>1. Le Dernier Pli des Neuf Voiles 2 vol. II. Les Quarante Bergères (6
+séries)</p>
+<p>LE,DOMAINE DU CHOIX</p>
+<p>I. Roseaux Pensants.</p>
+<p>II. Autels Privilégiés.</p>
+<p>III. Professionnelles Beautés.</p>
+<p>IV. Altesses Sérénissimes.</p>
+<p>V. Assemblée de Notables.</p>
+<p>VI. Brelan de Dames.</p>
+<p>IX. Majeurs et Mineurs.</p>
+<p>X. Les Délices de Capharnaüm.</p>
+<p>SCÈNES DE MŒURS MONDAINES</p>
+<p>La Divine Comtesse.</p>
+<p>POUR PARAITRE POSTHUMES</p>
+<p>PROSD</p>
+<p>v</p>
+<p>POÉSIE</p>
+<p><pb/></p>
+<p>Lorsque Barrés fut promu de l'Académie Française, la Presse, toujours à
+l'affût du vieux neuf, se mit en tête de retrouver et de reproduire la
+première œuvre publiée par le récent Académicien, qui s'y prêta, non
+sans accompagner son consentement</p>
+<p>des réflexions modestement orgueilleuses, de mise en ces sortes de
+circonstances..On .y voyait notamment que Monsieur France n'avait pas
+perdu le souvenir de la première publication de l'écrivain, même en
+avait fait le sujet d'une dédicace, et je n'en suis pas surpris, car
+l'oeuvre, pour juvénile qu'elle</p>
+<p><pb/></p>
+<p>soit dans certains, de ses développements, n'en.est pas moins
+impressionnante dans sa donnée, qui met en présence le génie coniiant,
+finalement exploité, et l'arriviste médiocre, qui ne craint pas, lui, de
+s'approprier l'oeuvre d'un autre, impudemment volé tM ~y~'cMZo mortis.</p>
+<p>Bien entendu, la monstrueuse substitution réussit, et l'horrible geai se
+pavane, toute</p>
+<p>Cette nouvelle est pleine de frisson, je viens de la relire, après
+l'avoir plusieurs fois relue, et ce frisson, elle me le communique à
+nouveau, comme tout ce'qui renferme un élément de vérité déguisée, intro-</p>
+<p><pb/></p>
+<p>duite dans une fiction, par la volonté ou par le hasard.</p>
+<p>Aussi bien, cette nouvelle me semble-t-elle</p>
+<p>r</p>
+<p>Maurice Barrès, qui n'ignore pas l'attirance exercée sur moi par cette
+nouvelle, me dit de ne pas oublier, en la lisant, qu'elle est~ l'œuvre
+d'un enfant.isolé un enfant singulièrement perspicace</p>
+<p><pb/></p>
+<p>milées. En un mot.Yse taire, ou chanter son propre chant.</p>
+<p><pb/></p>
+<p>sympathique malheureux, qui court après</p>
+<p>le talent et meurt de son amour effréné du beau~.</p>
+<p><pb/></p>
+<p>lecture.</p>
+<p><pb/></p>
+<p>La scène que traverse cette lueur révélatrice, est poignante, et
+Monsieur Barrès a beau s'en défendre, il l'a traitée avec maî-</p>
+<p>t</p>
+<p>trise. Elle rappelle celle où Madame Raquin, paralysée, essaie de tracer
+du doigt la révélation du meurtre de son fils, mais les circonstances
+diffèrent et elle garde son originalité propre..</p>
+<p>Le crime est accompli, et.le louche Ferraz installe définitivement .sa
+renommée, surtout sa fortune, non dans une coquille disponible, comme
+fait le Bernard l'Hermite, mais dans une coquille dont il a dévoré
+l'habitant,' après lui avoir percé le cœur. Et une fois de plus se
+trouve réalisée cette parole d~Hello, que j'ai prise pour épigraphe, de
+ma &lt;: Trépidation la'pensée la plus pleine de frisson que je connaisse «
+Le monde est un trompe-l'œil, immense, épouvantable en même temps que
+vérinée,</p>
+<p><pb/></p>
+<p>Maintenant qu'est-ce que Monsieur Paul Bourget venait faire en cette
+affaire où on (l) Dans son Étude sur Baudelaire.</p>
+<p>(2) Rapprocher du passage de Fourier cité dans &lt;F~</p>
+<p>et ~e~M sur le même sujet de la haine de la vérité</p>
+<p><pb/></p>
+<p>essais. »</p>
+<p>(2) Veuillot l'aurait appelé « /&lt; fM~e&lt;Me!&lt;~ ?.</p>
+<p><pb/></p>
+<p>Un daignait qui ne fut pas pour moi moins « plein de charmes que .le «
+quoiqu'on die » des Femmes ~a~a~</p>
+<p>Daignons sourire.</p>
+<p>Je me souviens d'avoir lu dans un</p>
+<p>« 0 pauvre Juvigny, pauvre être solitaire, Le plus grand de tous ceux
+que j'ai connu sur terre »</p>
+<p><pb/></p>
+<p>Tu-mourus. On eût dit un dieu lassé des choses,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Richepin place si haut, mais sur lequel il ne donne pas de détails? Je
+l'ai interrogé vainement, sans obtenir que des réponses évasives et des
+réticences.</p>
+<p>J'ai insisté, j'espérais décider l'auteur dé</p>
+<p>Certes, je ne veux pas insinuer que Riche-</p>
+<p>pin pourrait être le Karl Ferraz .d'Adrien Juvigny (de tels traits ne
+sont pas dans son. caractère, et je l'en félicite) il n'aurait pu</p>
+<p>l'être que de Ponchon, heureusement bien vivant et que Richepin à
+d'ailleurs toujours exalté.</p>
+<p>J'ai. encore différé, attendant toujours de</p>
+<p>voir se lever « l'heure divine comme disait Villiers, de voir un de ces
+« trois où</p>
+<p>&lt;</p>
+<p><pb/></p>
+<p>Je veux donc essayer, non pas d'éclairer entièrement (l'avenir s'en
+chargera) mais de</p>
+<p>documenter l'irritante énigme.</p>
+<p><pb/></p>
+<p>Un curieux instinct de sa sauvegarde, et</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>Deux Lettres d'Adrien Juvigny</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>PREMIÈRE LETTRE</p>
+<p>Douai.</p>
+<p>9 Mai.</p>
+<p>,r</p>
+<p><pb/></p>
+<p>0 vieux pays gardien de tes mœurs domestiques, Noble Flandre. etc. »</p>
+<p>les lanternes éclairent les madones au coin</p>
+<p><pb/></p>
+<p>des rues, les pignons taillés en .escalier, c'est de tout point un
+charmant séjour, et</p>
+<p>je voudrais pouvoir me dire comme Horace ~f~/t? quod non simut esses,
+&lt;-&lt; /a?/MM</p>
+<p>t.</p>
+<p>Mais cette présence-là, c'est tout 1.</p>
+<p>(2).?..</p>
+<p><pb/></p>
+<p>«. dis-lui tout bas en confidence</p>
+<p><pb/></p>
+<p>Vois-tu, mon ami, la poésie va se perdre, tomber dans le dramatique, les
+phrases coupées, les interjections, le verbiage nerveux et sautillant de
+Sardou 1</p>
+<p>Sois tranquille, je ne lis pas de journal,</p>
+<p><pb/></p>
+<p>C'est aussi pour te donner plus vite de mes nouvelles que je ne te
+recopie pas ma grande pièce (a) de 282 vers, composée dans les
+circonstances suivantes. –Du calme, mon ami, du calme, du calme i</p>
+<p>Je l'ai vu</p>
+<p>IL m'a parlé!</p>
+<p>Voyons, du calme Lui, le Maître 1 J'ai encore la nèyre, je ne sais si je
+pourrai avoir suffisamment de sang-froid pour -te donner un rapport
+exact et circonstancié de cette entrevue. Essayons. 0 mon (i) Thiers.</p>
+<p>(z) Qu'est-eÙe devenue ?</p>
+<p><pb/></p>
+<p>Si tu as reçu une lettre de Gand, le 27 ou 28 mars, tu dois te rappeler
+que la présence</p>
+<p>Les difficultés étaient très grandes. Le</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>'aussi! J'entrai. Il n'y avait presque personne.</p>
+<p><pb/></p>
+<p>A cinq heures du soir, j'allai quérir un garçon, et, comme dans les
+romans de</p>
+<p><pb/></p>
+<p>Dumasse, je fis briller un /OM~ ses regards avides (ceci est beau comme
+l'antique !) il ne l'accepta pas! &lt;K rai mes ordres, monsieur A, mon
+grand regret, il m'est impossible de vous donner une autre réponse
+Monsieur Victor Hugo est absent!</p>
+<p>Deux autres tentatives ne réussirent pas</p>
+<p><pb/></p>
+<p>caries, je' finis par me reconnaître, on débouche Rue Royale, on enfile
+une petite ruelle, la voiture s'arrête sur une grande place nue et
+morne, ornée d'une statue</p>
+<p><pb/></p>
+<p>d'André Vésale, l'anatomiste. -La dame descend devant le numéro 4:</p>
+<p>Je me promène un petit quart d'heure devant la maison. Nous sommes Place
+des Barricades. Toutes les maisons se ressemblent le numéro 2 et le
+numéro 4 n'en font qu'une. Deux étages, une porte verte: Soudainement,
+j'entends au-dessus de moi un bruit et des rires une des fenêtres du
+premier étage, au numéro 4, s'entr'ouvre, je vois se pencher sur moi
+deux têtes d'enfants aux fronts cyclopéens. Cela me suf6t. Le cœur me
+bondit dans la poitrine. Je</p>
+<p>sonne.</p>
+<p>Une très jolie jeune fille, vêtue de bleu, ouvre et me considère avec
+une attention mêlée d'une sorte de pitié sympathique. Le fait est que
+mon aspect devait être des plus hétéroclites. Ruisselant de sueur,
+épuisé par tant de marches et 'de contremarches,</p>
+<p><pb/></p>
+<p>couvert de poussière; l'air (égaré, représente-toi cette caricature.</p>
+<p>«.Monsieur Victor Hugo est sorti, Monsieur si c'est une communication
+que vous puissiez me transmettre. »</p>
+<p>« Mademoiselle, je suis désespéré. Je retourne en France, ce soir il
+m'est absolument indispensable de voir Monsieur Victor Hugo aujourd'hui
+même; si je. n'y parviens pas, ce sera, pour moi un contre-</p>
+<p><pb/></p>
+<p>temps des plus fâcheux, je ne puis vous en dire les conséquences, mais
+croyez bien sincèrement, Mademoiselle, que ce sera, encore une fois, un
+très grand chagrin pour moi~</p>
+<p>La -jeune fille réfléchit quelques instants, et me dit « Monsieur Victor
+Hugo sera de retour dans une heure. Écrivez une lettre et
+remettez-la-moi. »</p>
+<p>« Un jeune homme de vingt ans, qui, dès les premiers temps de son
+éducation intellectuelle, n'a cessé de vénérer dans Monsieur 'Victor
+Hugo l'incarnation de l'Art 'et de la Patrie, souhaiterait, avant de
+retourner en France, obtenir de son admiré Maître, quelques paroles
+d'encouragement</p>
+<p><pb/></p>
+<p>pour son apprentissage de poète et de citoyen.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>d'attendre cinq minutes. Monsieur Victor Hugo va descendre. » (Textuel.)</p>
+<p>Descendre!</p>
+<p>Je jetai autour de moi un regard troublé. J'aurais voulu me coucher à
+terre, le front ~dans la poussière. L'appartement était noyé dans lé
+demijour.</p>
+<p>Je distinguai devant moi une magnifique pendule de chêne sculpté,
+représentant un cerf dix-cors, perdu dans le plus curieux</p>
+<p><pb/></p>
+<p>renverser d'admiration. Au bas de l'un/on lisait:</p>
+<p>SPECTRA RERUM ORIENTE DIE.</p>
+<p>V. H.</p>
+<p>Au bas d'un autre</p>
+<p>Alice et Charles ~gw~Mt~ la table du Diable. Pour toi, mon C~</p>
+<p>V. H.</p>
+<p>« Regardant entrer le COM~)</p>
+<p>2° Les coudes sur la table, mesurant « Z~c~r vertige où s'abîme son ~~M~.</p>
+<p><pb/></p>
+<p>Au bas:</p>
+<p>« Pensant aux, M~cra~Z~~</p>
+<p>3° Les bras croisés d'un air de défi au</p>
+<p>bas:</p>
+<p>Des pas se firent entendre dans l'escalier.</p>
+<p>Je crus que j'allais mourir. Je ne fais pas de phrases.</p>
+<p>« Je crus entendre un Dieu dans l'abîme marcher! » La porte s'ouvrit je
+vis une magnifique tête de vieillard, barbe entièrement blanche, fixer
+sur moi deux yeux. oh! quels yeux! Oh note bien ceci, je suis froid en
+ce moment comme un procès-verbal, je constate. Absolument, rien ne peut
+donner l'idée de ce regard. Il s'enfonce droit dans l'âme,</p>
+<p><pb/></p>
+<p>veux.</p>
+<p>source.</p>
+<p><pb/></p>
+<p>Ce fut le Dieu qui me tira d'embarras. « C'est vous,. Monsieur, me
+dit-il. Entrez donc. J'ai lu votre lettre avec beaucoup d'intérêt.</p>
+<p>Je profitai de cette entrée en matière pour m'excuser de mon insistance.
+« Du tout, du tout. C'est -moi qui vous remercie. » '(~.)</p>
+<p>L'auteur de J?M~ de la Légende des Siècles me remerciant, moi! abîme Il
+me poussa doucement par les épaules et me fit entrer dans 'son cabinet,
+donnant sur. la place, où flamboyait dans un cadre un magnifique
+Rembrandt authentique. « Asseyez-vous, Monsieur, je vous prie. » Tout
+cela-sur un ton de voix très doux, très vibrant. IL s'assit auprès de
+moi. Vous êtes Français, Monsieur Je fus très humilié d'être -pris pour
+un Belge, mais je répondis néanmoins avec</p>
+<p><pb/></p>
+<p>t</p>
+<p>excessivement médiocres x-, se rassurant toutefois sur l'avenir de la
+France, parce que « la France est une idée, et qu'une idée ne meurt pas</p>
+<p><pb/></p>
+<p>le fameux vers</p>
+<p>« Marchands de grec marchands de latin cuistres [dogues!~] ~]</p>
+<p><pb/></p>
+<p>De verre pour frémir, d'airain po~r résister. VICTOR HUGO.</p>
+<p><pb/></p>
+<p>Voilà</p>
+<p>Mon ami, je n'ajoute qu'un mot. Cet ~M~o~r~~ MOM~ ~~C/M~ ~M commun. NOUS
+le ferons- encadrer et suspendre dans la salle des réunions du Cénacle (i).</p>
+<p>(i) Évidemment un projet d'association.</p>
+<p><pb/></p>
+<p>VOS VERS SONT TRÈS BEAUX. VOUS ÊTES UN JEUNE ET GRAND CŒUR.</p>
+<p>vant les rites antiques. Un très noble et très érudit poète, Philoxène
+Boyer, a écrit ceci «L'admiration du génie porte avec elle</p>
+<p>DEUXIÈME LETTRE</p>
+<p>PARTIE OFFICIELLE</p>
+<p>Bruxelles, 7\2 W~ï.</p>
+<p>JE VOUS REMERCIE.</p>
+<p>VICTOR HUGO.</p>
+<p>PARTIE NON OFFICIELLE</p>
+<p>Douai, 7~ mai.</p>
+<p>A ybcc p~tc~z'M~M. Zeus d'abord, sui-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>voir Comme l'Édeh chanté dans la première pièce de la Légende, ses yeux
+luisent</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>incurable de ce peuple d'agents de change, de policiers et de souteneurs
+de filles. Il y a; toujours dans cette même Légende des Siècles, un mot
+superbe qui m'a paru la réponse indirecte de notre Dieu. aux prétendus
+gens de lettres du Figaro et du G&lt;xM-</p>
+<p>~y c'est lorsque Éviradnus, le grand che-</p>
+<p>valierd'Alsace, répond tranquillement aux deux assaillants qui se
+jettent sur lui avec ce cri &lt;s: C'est un vieux 2-</p>
+<p>« Rois, un vieux de mon temps vaut deux jeunes du vôtre &gt;&gt;</p>
+<p><pb/></p>
+<p>0 mon ami, quand je pense qu'un vil Màgnard a bien osé dite « M. Victor
+Hugo, en fait de politique, est toujours demeuré inférieur au dernier
+garçph de bureau.</p>
+<p>A propos d'Éviradnus, un vers du même poème te représente exactement
+l'aspect dû Maître</p>
+<p><pb/></p>
+<p>(Hélas non, cette jeunesse s'en va tous les jours, et j'en vois le fond)</p>
+<p>« Comme un prodigue en pleurs le fond du coffre-fort! »</p>
+<p><pb/></p>
+<p>Ne te récrie pas surtout. J'ose affirmer que chacun connaît parfaitement
+la mesure</p>
+<p>v J</p>
+<p><pb/></p>
+<p>de ses forces, mieux que .tout autre. Je ne connais rien de plus bête
+que les éternelles lamentations des Philistins « Pourquoi vous déner
+ainsi .de vous-même? Si vous. étiez plus pénétré de votre propre valeur,
+vous verriez tout ce que vous êtes capable de faire, etc., etc. Remarque
+bien ceci. Un enfant ou un homme qui se montre partout et envers tous
+timide et réservé est nul ou inférieur. Lorsqu'on se sent grand et fort,
+on a conscience de sa grandeur, de sa force, et cette conscience éclate
+dans les gestes, dans la voix, dans tout le corps. S.ouvent une heureuse
+ou noble pensée vous redresse au physique et au moral; ces pensées</p>
+<p>&lt; qui font que le soir l'artiste chez son hôte Rentre le cœur plus fier
+et la tête plus haute. » Au contraire, lorsqu'on ne sent en soi qu'un</p>
+<p><pb/></p>
+<p>imitateur intelligent, mais sans avenir, naturellement on a la démarche
+moins assurée, le regard moins brillant, le visage moins ferme.. J'en ai
+connu beaucoup de ceux-là. Je les ai toujours plaints de tout mon cœur,
+mais je ne les ai jamais trompés par les lieux communs en usage «
+Essayez et vous verrez Tous les esprits distingués ont désespéré
+d'eux-mêmes comme vous » parce que ce sont des mensonges éhontés. Non,
+il ne suffit pas de vouloir pour pouvoir.</p>
+<p>Chansons des Rues</p>
+<p><pb/></p>
+<p>« Si le passé se reconstruit</p>
+<p>Dans toute son horreur première, Si l'abime fait de la nuit,</p>
+<p>0 cheval, fais de la lumière</p>
+<p>Comme sur l'enclume un forgeur, Sur les brumes universelles,</p>
+<p>Abats-toi, fauve voyageur,</p>
+<p>&lt;? puissant faiseur d'étincelles Faisant subitement tout voir</p>
+<p>Une éclaboussure d'étoiles »</p>
+<p><pb/></p>
+<p>toire dont j'ai retenu le début « Cette dame</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Répandit aux pieds du Sauveur Pareils aux flots de parfum rare Qu'en
+pleurant, la sœur de Lazare De ses longs cheveux essuya</p>
+<p>Pleurs' abondants comme les vôtres,0 le plus tendre des apôtres</p>
+<p>Avan~ le jour d'Alleluia!</p>
+<p><pb/></p>
+<p>Et toi, Muse, ô jeune immortelle »</p>
+<p>de cette étude « si maternellement bonne,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>tant son histoire de la littérature, je suis</p>
+<p>'1</p>
+<p>tombé dès les premières pages, sur cette définition inouïe</p>
+<p>J'ai cru d'abord que je perdais la tête, et puis que c'était une farce
+de l'auteur, une farce dans le genre sérieux et compassé qui lui est
+propre. Pas du tout, c'est imprimé, et ce n'est pas du tout écrit dans
+un sens</p>
+<p><pb/></p>
+<p>termes, un ~y~cï' immuable, souverain, éternel,'etc., identique par
+essence au beau et au bien ces inepties se perpétuent dans
+l'enseignement, c'est nécessaire (ou'serait mal « L'expression des
+vérités générales c'est-à-dire que le dernier mot de l'Art nous est
+donné dans les satires de Bôileau_sur l'honneur, et autres lieux communs
+rapetassés de la vieille, rhétorique, d'avant 89, c'est-à-dire
+l'apothéose du commun, du vague et ,du plat. Comme c'est</p>
+<p>bien l'esprit de l'École 1</p>
+<p><pb/></p>
+<p>Après l'École, le professorat, la peinture</p>
+<p><pb/></p>
+<p>qui nous était réservé. Non, comme tu le dis, plutôt la Morgue!</p>
+<p><pb/></p>
+<p>v</p>
+<p>(2) Chapitre des vilains goûts.</p>
+<p><pb/></p>
+<p>.f</p>
+<p>Je vois tout en sombre faut-il te le dire? Je ne crois pas que le brevet
+de licencié, une fois dans notre poche, puisse nous être une garantie
+sérieuse et suffisante contre les</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>ne puis pas compter sur des leçons du côté des personnes qui pourraient
+m'aider, il y a indifférence méritée et dissentiment' plus mérité
+encore. Ce sera la vie des Réfractaires de J. Vallès (livre magniûque).
+Laissons cela, causons. du roman de Valérie, de Madame de Krudner, que
+je, relis, sans</p>
+<p>cesse.</p>
+<p><pb/></p>
+<p>sacrés de Fantiquité, dont la blancheur et la délicatesse étonnent les
+regards, elle garde dans son sein une flamme subtile et toujours
+vivante. » Gustave appelle encore son amour une fièvre dévorante et
+délicieuse. Faut-il avoir aimé pour trouver de ces mots</p>
+<p><pb/></p>
+<p>&lt; Aimer, c'est voir, sentir, rêver, &lt;ro~M~/ L'esprit plus grand s'ajoute
+au coeur le plus tendre. » t</p>
+<p>Ces lettres sont très belles, d'abord et surtout par ce que leur auteur
+appelle « l'élan d'âme Elles pratiquent éminemment &lt;x le</p>
+<p>Culte des Héros comme l'appelle Carlyle, dans le livre portant ce titre,
+auquel Juvigny ne fait d'ailleurs pas allusion, bien que je le voie,
+plus tard, citer ce grand écrivain; mais la phrase citée par Juvigny, de
+Philoxène Boyer, renferme l'essence du sentiment contenu dans le titre
+de l'Écossais et de son ouvrage.</p>
+<p><pb/></p>
+<p>La touchante admiration du jeune homme, pour son héros, le lui fait
+proclamer un « dieu Je veux bien, mais j'aimerais une différence
+établie, avec le Dieu vrai, par l'emploi de la majuscule pour celui-ci
+seulement, comme je viens de-le marquer moimême. Faute de quoi,
+lorsqu'il écrit ensuite mon Dieu! on ne sait plus s'il parle du</p>
+<p><pb/></p>
+<p>Grand Poète; ou du Père Eternel et il y a confusion.</p>
+<p>« Un faible cœur, qu'un esprit troublé ronge Résiste peu, mais ne vit
+pas longtemps. »</p>
+<p><pb/></p>
+<p>nées et chastes, qui ne le consolent que pour</p>
+<p>le torturer.</p>
+<p>Les deux lettres ne vont pas seules, il y en a plusieurs autres. Outre
+que leur matière les situe toutes, la seconde porte une indication de
+date, la seule 71, la même que nous indiquent les événements relatés.
+Les autres lettres ne revêtent que des indications de quantièmes et de
+mois, mais consécutifs ce sont bien des successives étapes de la même
+année. Les villes d'où ces missives ~sont envoyées au correspondant
+mystérieux, se nomment Douai; Valenciennes, c'est la fin de l'exode
+Flamand de ce pèlerin passionné, si douloureux Une seule de ces lettres,
+datée de janvier, la dernière, indique évidemment 72, L'an suivant,
+Juvigny mourra.</p>
+<p>J'avais d'abord résolu de ne publier que les deux premières de ces
+épîtres; celles-là,</p>
+<p><pb/></p>
+<p>l'enthousiasme les illumine, l'amertume n'y atteint le sarcasme que par
+l'ironie, les perspectives ne font encore qu'efûeurer l'épouvante.</p>
+<p>` Je décide aujourd'hui d'emprunter des fragments aux autres lettres qui
+sont entre mes mains, ils nous permettront de pénétrer plus avant dans
+cette âme divine et damnée, que je n'aurai peut-être plus l'occasion
+d'aborder; mais je serais heureux d'avoir allumé un incendie qui éclaire
+ce' que je souhaite moi-même ardemment connaître encore de ce fascinant
+inconnu.</p>
+<p>La troisième lettre, datée de Valenciennes, du 10 mars, n'est encore que
+de littérature, mais, on le verra, singulièrement avertie, et avisée.</p>
+<p><pb/></p>
+<p>« Nos fera ca?~-MZ~ domuit Germania pube!</p>
+<p>«, Que nos idées, nos espérances, nos ébauches, nos rêves
+s'entre-croisent nuit et jour, sans relâche Opérons avec l'activité la
+plus fiévreuse notre ravitaillement intellectuel.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>« Comme vous êtes loin, paradis parfumés, Où, sous un clair azur.</p>
+<p>Comme vous êtes loin, etc. »</p>
+<p>n'a. pas été soutenue'chez notre grand poète par l'étude de certaines
+pièces des Contem~a~'oM.~ celle-ci par exemple</p>
+<p>Jeunes amours, si vite évanouies, Vous êtes l'aube et lemattn du cœur,
+Charmez l'enfant, extases inouïes! Et quand te soir vient avec la
+douleur, Charmez encor nos âmes éblouies, Jeunes amours si vite évanouies</p>
+<p>« Rien de plus curieux que de suivre et de retrouver ces traces. Dans
+Coppée, elles</p>
+<p><pb/></p>
+<p>&lt; Alors qu'on est si belle, on doit être si bonne! ~Zc ~j~a~/J</p>
+<p>&lt; Puisque vous êtes beau, vous êtes bon sans doute » (DE VIGNY:.)</p>
+<p>~~M~.</p>
+<p>« A l'hôpital, sur les champs de bataille</p>
+<p>(HÉGÉSIPPE MoREAU.)</p>
+<p><pb/></p>
+<p>&lt;maispourêtresincère,</p>
+<p>L'inutile ici-bas, c'est le plus nécessaire. » (Le Passant.) J</p>
+<p>« L'inutile, pour moi, c'était le nécessaire » (ANTON! DESCHAMPS.)</p>
+<p>(Dernières Heures.) J</p>
+<p><pb/></p>
+<p>pète deux fois une expression des plus impropres.</p>
+<p>'« Angélus se mourait, martyr délicieux. »</p>
+<p>« Martyr délicieux, il le lui fait subir</p>
+<p>« Un martyre peut être-délicieux, non pas celui qui l'endure, ce sont
+des entorses au bon sens (i).</p>
+<p><pb/></p>
+<p>6</p>
+<p><pb/></p>
+<p>incarnation de l'Art et de la Patrie &lt;x A ce soir, une deuxième missive
+datée de la bonne ville de Douai. »</p>
+<p><pb/></p>
+<p>Cette lettre est la dernière dans laquelle apparaisse encore de
+l'éq.uilibre, un ingénieux sentiment critique, la dévotion aux
+sentiments exaltés pour les idées et les personnes. Sur tout cela se
+pose le nom de Douai, comme une colombe sur un cratère. Qui sait
+l'influence secrète que pouvait exercer sur le malheureux près de
+disparaître, l'âme tendre de Marcelline, on le sait originaire de ce
+lieu quelle avait chéri, qu'elle désignait de ce vers' charmant</p>
+<p>&lt;</p>
+<p>avisions trop funestes, lui faire éprouver</p>
+<p><pb/></p>
+<p>encore un peu de calme, le dernier. Mais l'orage gronde, écoutons-le.</p>
+<p>Valenciennes, &lt;Ma'MC~ ~'MZM.</p>
+<p>&lt;: La meilleure philosophie est celle qui unit le sarcasme de la gaîté à
+l'indulgence du mépris.</p>
+<p>(t) Suivent des pages saisissantes et pleines de fris- son, mais que je
+ne crois pas devoir imprimer ici, pour</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>z</p>
+<p>spirales de l'enfer littéraire sont, dans Balzac, gazonnées et
+doux-fleurantes. Et puis,</p>
+<p><pb/></p>
+<p>penses-y bien, tous les jours que Dieu fait, ils voient défiler dans
+leurs bureaux la même procession d'abrutis, de provinciaux, de petits
+jeunes' gens, apportant, les uns, des recherches sur les origines de la
+race gaëlique, les autres, des acrostiches sur les catins en vogue,
+ceux-ci avec des chut!!l mystérieux, l'éreintement d'un sous-chef des
+affaires étrangères, ceux-là, des articles de fond sur la question
+ouvrière ou les mystères de l'IN-TER-NA-TIO-NA-LE. Pauvres diables une
+fois dans les vagues de ce-maëlstrom de la déveine et de l'impuissance,
+vous n'y échapperez pas, et nous autres nous roulerons avec eux jusqu'au
+fond du gouffre où il y a des pleurs et des grincements de dents. Tous
+les jours il nous faudra recommencer la chasse, éperonnés par l'épique «
+laissez votre adresse », comme l'hùmanité par le « marche marche » dans</p>
+<p><pb/></p>
+<p>les morceaux choisis de Bossuet. Marcher</p>
+<p>4.</p>
+<p><pb/></p>
+<p>plications et en platitudes, quelque nullité haut placée vous fait
+envoyer régent de septième au collège communal de Marvéjols. J'en sais
+beaucoup, de ces misérables</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>&lt;: Enfance, ayez pitié de la sombre jeunesse! » « Cri perdu</p>
+<p>&lt;: Sois comme un loup blessé qui se tait pour mourir, Et qui mord le
+couteau de sa gueule qui saigne. La vie est ainsi faite, il nous la faut
+subir,</p>
+<p><pb/></p>
+<p>vantable crève-cœur ce serait, bien plus sinistre que toute cette
+accumulation de misères Quand bien même les caprices de la destinée
+feraient étinceler autour de nous</p>
+<p>t-élle jusqu'à. te faire mourir, immortalité fatale, bourreau qui
+promets un trône, et mène par le ruisseau et l'hôpital, jusqu'au trou
+commun où les squelettes se gênent? Cette magnifique apostrophe ne
+s'adresse</p>
+<p><pb/></p>
+<p>&lt;: Manger de trois jours l'un, s'interdire le yin et l'amour, avoir
+froid, passer les nuits,</p>
+<p><pb/></p>
+<p>qu'est-ce que cela auprès du monologue intérieur que voici et que nous
+recommencerons toutes les heures</p>
+<p>gage plus original ces idées que tu te crois personnelles, et qui
+pourtant, après avoir erré faméliquement aux grilles de tous les
+journaux et de toutes les revues, crèvent sur un grabat et
+s'ensevelissent dans. l'ou-</p>
+<p><pb/></p>
+<p>bli Vaniteux imbécile essaie seulement d'écrire une nouvelle, laisse-la
+dormir quinze jours dans ton tiroir après quoi relis une des œuvres de
+jeunesse de Balzac, et compare Compare aussi tes pauvres alexandrins
+essoufflés, sans force, sans ardeur, avec la moindre production d'un de
+ces .Pa~M~CMZ~Mr~ que tu méprises si. fort. « Un des plus inconnus a
+fait ces quatre vers sur une Arlésienne</p>
+<p>Et ses belles formes égates Promettent aux regards tentés La saveur des
+nuits conjugales Et F espoir des maturités.</p>
+<p>« Est-ce que toi, en piochant nuit et jour, tu réaliseras jamais ce
+marmoréen dans l'idée et dans l'expression? Allons donc! Pourtant dans.
+deux cents ans, qui connaî-'</p>
+<p><pb/></p>
+<p>tra le nom d'Alfred des Essarts! Et toi tu espères la gloire ?.</p>
+<p>vie que d'une chambre lorsqu'il y fume. »</p>
+<p>Je n'ai pas voulu interrompre le cours et l'élan de cette lettre
+poignante, sans, cela j'aurais insisté sur le rapport, évidemment
+fortuit, qui m'apparaît et me frappe entre ces deux correspondants,
+desquels l'un nous</p>
+<p><pb/></p>
+<p>est inconnu, et les personnages mis en scène par Barrès, dans sa
+nouvelle « Le Chemin de l'Institut dont j'ai parlé en tête de cet
+article. M'est avis que, songeant aux œuvres « péniblement limées de son
+compagnon, Boursault se serait exprimé, comme Juvigny, dans ce
+désillusionnant monologue, dont Karl Ferraz a dû médiocrement goûter
+l'apostrophe sans déguisement je crois le voir et l'entendre, avec -&lt;:
+quelque chose de vexé, ~CM-y y~'C~f dans la voix en écoutant son ami
+clamer &lt;x Tu te crois du talent, tu té crois un poète original, il y a
+des milliers d'individus mieux doués, qui exprimeront mieux, et dans un
+langage plus original, ces idées que tu te crois personnelles. Vaniteux
+imbécile Essaie seulement d'écrire une nouvelle, relis une des œuvres de
+jeunesse de Balzac, et compare! Compare tes pauvres</p>
+<p><pb/></p>
+<p>Mais l'infortuné, le pythique Jean Boursault, tanné, boucané dansées
+pensées corrosives et naïvement emporté dans sa démonstration, n'a pas
+vu dans le~regard de son interlocuteur, ce « quelque chose de vexé que
+ne pardonnent pas les Karl Ferraz.</p>
+<p>&lt; A qui Job comparait son faux ami Sépher. »</p>
+<p><pb/></p>
+<p>Ce dénouement, bien que la dernière phrase de la lettre précédente
+sous-entende</p>
+<p><pb/></p>
+<p>Quoi qu'il en soit lé voile des illusions agonisantes s'est déchiré, aux
+regards terrifiés de Juvigny, sur un seuil entre tous</p>
+<p>horrible, et le malheureux poète s'est sou-</p>
+<p>venu du vers de Polyeucte</p>
+<p>« Où me conduisez-vous ? A la Mort A la [Gloire!~]</p>
+<p><pb/></p>
+<p>mais il s'en est souvenu pour le travestir et par quelle sinistre variante</p>
+<p>« Où me conduisez-vous ? A la Gloire A .1 [la Morgue ~]</p>
+<p><pb/></p>
+<p>comme tu vas voir, vieux d'un siècle, bien</p>
+<p>r</p>
+<p><pb/></p>
+<p>nouveauté Delescluze, 22 fr. 50, bon teint. Élargissez-moi mon Billioray
+au-dessus du genou, etc. x'</p>
+<p>« Un pas retentissant fait tressaillir la nuit, C'est toi, maigre Rot)a,
+que viens-tu faire » et les descriptions orgiaques où ~pc~M~y</p>
+<p><pb/></p>
+<p>rime invariablement avec &amp;Z~&lt;3~ lanternes. A notre tour de renier nos
+anciennes admirations. Pauvre Musset !'il a beau se</p>
+<p>« Lorsque dans lè désert la cavale sauvage. » Tous ces morceaux pris à
+part sont assurément magnifiques, du plus grand style, comparables, sauf
+de déplorables faiblesses,aux chefs-d'œuvre du grand art, mais l'oeuvre</p>
+<p><pb/></p>
+<p>est manquée, parce qu'il n'y a pas d'unité. Un'brouillard d'absinthe
+voltigeait devant les yeux éteints du poète la force de volonté
+nécessaire pour créer et maintenir debout un personnage lui avait
+échappé depuis longtemps déjà. Voici pour preuve</p>
+<p><pb/></p>
+<p>&lt;: Et lui aussi, le proconsul Raoul Rigault, il a cru que c'était arrivé
+Et il a modelé</p>
+<p><pb/></p>
+<p>ses effets de torse d'après les héros ci-dessus L'ombre d'une ombre</p>
+<p>« Mon ami, j'ai trouvé deux bien beaux</p>
+<p>vers:</p>
+<p><pb/></p>
+<p>« L'amour fait tout vaincre, tout croire,</p>
+<p>Tout espérer et tout sounrir!~ »</p>
+<p>« Devine l'auteur Racine (Œuvres Spirituelles).</p>
+<p>« Et, pour bouquet ~~M~, comme disent les mystiques, voici un mot de
+Sainte Thérèse</p>
+<p>« La vie est une nuit dans une mauvaise auberge. » « La première série
+de notre correspondance, commencée en Juin dernier, touche sans doute à
+son terme. »</p>
+<p><pb/></p>
+<p>Évreux. Dimanche 5 y~~n't~y.</p>
+<p>« Paris capitule. La France est morte</p>
+<p>« Nous avions bien prévu ce dénouementlà, nous autres Toi qui
+m'écrivais, le 14: &lt;xje ne sais quoi me promet une prochaine rentrée.
+moi qui t'avais envoyé dès les premiers jours de Janvier, poussé par la
+même obsession, le mot sinistre « Paris se rendra » Je ne puis te dire à
+quel point je suis de plus en plus frappé de cette correspondance.
+Courage, courage, Balzac nous serrerait la main, nous sommes des voyants.</p>
+<p><pb/></p>
+<p>&lt;: Et je suis comme toi, j'ai beau faire, mon cœur</p>
+<p>&lt;: Veut oublier et ne peut pas</p>
+<p><pb/></p>
+<p>Napoléon III aurait encore la majorité. Quand je te dis que j'en suis sûr</p>
+<p>&lt;x 0 mon Dieu, quel homme Quel visionnaire Peut-on comprendre comment,
+lui (!) Sur ce point, ils sont d'accord, mais il déteste cet écrivain
+qui parlait mal du « Dieu », pas Jéhovah, Hugo. It devait cependant
+admirer sa manière. H cite te mot de Soulary, qui n'avait que peu de
+talent, mais qui avait trouvé une formule frappante.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>tout autant,' et il faut se salir les mains si l'on veut fricoter. Si je
+vous parle ainsi du monde, il m'en a donné le droit, je le connais.
+Croyez-vous que je le blâme? du tout. Il a toujours été ainsi. Les
+moralistes ne le changeront jamais. Il est parfois plus ou moins
+hypocrite, et les moralistès disent alors qu'il a ou n'a pas de mœurs.
+C'est le propre langage de la raison.</p>
+<p>C'est fini. Il se tuait et s'en rendait compte. Sommes-nous en droit de
+croire que le perfectionnement intellectuel (dont</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>qu'il en est sorti, entre 76 et 82, mais pour quelle ,inhumation plus
+digne et surtout plus durable? Ceci, j'avoue que je ne le distingue pas
+et qu'il en résulte pour moi un grave malaise.. Qui avait assumé la
+charge de cette dépouille, je suppose, vénérable pour quelqu'un et, on
+le voit, méri-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>pour son camarade, pareillement angoissé, me paraît expliquer y~o~~ sans
+tombe! Oui, oui je le veux pour l'honneur, pour la réhabilitation de ce
+correspondant invisible, lui-même aura sombré dans le torrent de la vie
+dévorante et miséreuse, aura disparu avant l'âge « sous le funèbre
+vêtement et, pour cette raison trop péremptoire, il n'a pu s'acquitter
+du devoir de conscience et, de tendresse que lui créaient tant de
+démonstrations de confiance et d'ardeur fraternelles.</p>
+<p>« Tu graveras cela sur'ma tombe écrivait Juvigny, or rien n'est gravé
+sur aucune tombe, car je ne vois pas même de tombe! Et comment imaginer,
+je vous le" demande, que pour toute réponse au vœu suprême formulé in
+extremis, par un alter ego de cette envergure, ce dernier n'ait entendu
+retentir que la silencieuse injonction de se</p>
+<p><pb/></p>
+<p>ranger « au trou commun où les squelettes ~e~M&lt;(i)</p>
+<p>(i) L'écriture~de Juvigny est excessivement petite, mais lisible, pas un
+mot ne m'a échappé; sa ponctuation est abusive, tous les signes
+nécessaires s'y trouvent, mais ce n'est pas tout il y a encore une sorte
+de tiret, qui n'en est pas un, bien que parfois on doive le tenir pour
+tel; je l'ai laissé quand je l'ai distingué, j'ai supprimé l'autre, mais
+différencier n'est pas toujours aisé. Cet autre n'est appréciable que
+comme trait de caractère, on dirait un ~MeweM&lt; de la plume. Des lettres
+écrites currente calamo ne sont pas des textes irréfragables, j'ai fait
+du mieux que j'ai pu, ajoutant quelques signes convenus, pour la netteté
+du texte, presque uniquement des guillemets, pour ne pas laisser
+l'écrivain paraitre s'approprier le bien d'autrui, ce qui n'était
+certainement pas son intention.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LACR YMABILITER.</p>
+<p>SOMMAIRES</p>
+<p>DES</p>
+<p>Treize Volumes de cette Série</p>
+<p>1</p>
+<p>ROSEAUX PENSANTS.</p>
+<p>i. Le Sphynx. (Ingres.)</p>
+<p>2. Le Buffon de l'Humanité. (Grandville.) 3. Les Sept Châteaux de
+l'Ombre. (Dessins spirites.) 4. Une Diadumène. ~~M~M F~~ts/A.~</p>
+<p>5. Bécanes et Broderies. (Aperçus Féministes.) 6. Le Mobilier Libre.</p>
+<p>7. Orfèvre et Verrier. (Gallé et Lalique.) 8. Une Victime.</p>
+<p>g. Japonais d'Europe.</p>
+<p>10. D~o T~Mo~o. (Saint Expedit.)</p>
+<p>11. Pour et Contre. (L'Exposition de igoo.) i2. Table d'Harmonie.</p>
+<p>8.</p>
+<p><pb/></p>
+<p>i~. Artistes de Profession.</p>
+<p>i~. Le Quatuor des Masques.</p>
+<p>15. L'Enlumineur. (Georges d'Aramon). 16. ~V(M~!e&lt;.</p>
+<p>II</p>
+<p>AUTELS PRIVILÉGIES.</p>
+<p>ORDO.</p>
+<p>a</p>
+<p>i. Félicité. (Desbordes-Valmore.)</p>
+<p>z. Le Dieu. (Leconte de Lisle.)</p>
+<p>3. Pauvre Lélian. (Paul Verlaine.)</p>
+<p>4. L'Aède. (Mistral.)</p>
+<p>5. Roses Pensantes. (Comtesse de Noailles.) 6. L'Apôtre. (Ernest Hello.)</p>
+<p>7. Un seul Goncourt. ·</p>
+<p>8. Tolstoï Esthéticien.</p>
+<p>o. Le Grand Oiseau. (Léonard de Vinci.)</p>
+<p>io. Le Voyant. (William Blake.)</p>
+<p>11. Le Spectre. (Burne Jones.)</p>
+<p>12. Un Mythologue. (Arnold Bœklin.)</p>
+<p>r3. Vernet Triplex. j</p>
+<p>14.' Alice et Aline. (Ctiassériau.)</p>
+<p>15..F~MAtOM. (Ghys.)</p>
+<p>16. Le Potier. (Carriès.)</p>
+<p>17. Les Noces d'Argent de la Voix 'd'Or. (Sarah Bernhardt.)</p>
+<p><pb/></p>
+<p>18. Le Masque. (La Duse.)</p>
+<p>19. Un Féministe. (Helleu.)</p>
+<p>20. Apollon aux Lanternes. (Versailles.)</p>
+<p>21. La. République de Saint-Frùsquin. (Monte-Carlo.) P&lt;M&lt;S'~t~MMt.</p>
+<p>III</p>
+<p>PROFESSIONNELLES BEAUTÉS.</p>
+<p>DÉDICACE AU MARQUIS DE CLERMONT-TONNERRE. PROFESSIONNELLES BEAUTES.</p>
+<p>Cft~'MMe~'MC~.</p>
+<p>a</p>
+<p>i.PfoDoMo.</p>
+<p>2. Le Pavillon des Muses. =</p>
+<p>3. Recluse de Beauté. (Comtesse de Castiglioné.) 4. Deux Muses.
+(Comtesse de Noailles et Madame Mardrus.)</p>
+<p>5. Le Docteur ès-Nuits. (Docteur Mardrus.)</p>
+<p>6. Le Pervers. (Aubrey Beardsley.)</p>
+<p>7. Fleurs de Raffaëlli.</p>
+<p>8. Femmes de Gandara.</p>
+<p>a. Fleurs et Femmes d'Helleu.</p>
+<p>10. Une Tête d'HeIleu.</p>
+<p>11. L'Impératrice des Rosés. (Madeleine Lemaire.) 12. Un Maître-Femme,
+(Louise Breslau.)</p>
+<p>13. Un Narcisse Bourgeois. (Bruyas.)</p>
+<p>14. La Sonnette. (Madame Aubernon.)</p>
+<p>15. Du Droit de tracer des Caricatures.</p>
+<p><pb/></p>
+<p>i6. Une Liquidation Nationale. (Exposition de 1900.) iy. Pays des
+Aromates.,</p>
+<p>IV ALTESSES SÉRËNISSIMES.</p>
+<p>DÉDICACE A MAURICE BARRES.</p>
+<p>ALTESSES SËRÉNISSIMES.</p>
+<p>'0</p>
+<p>i. Le Lapidaire et le Refuge des Dieux: (Gustave Mpreau.)</p>
+<p>2. L'Enchanteur. (Besnard.)</p>
+<p>3. Le Séducteur. (Boldini.)</p>
+<p>4.- Le Pavé Rouge. (Sargent.)</p>
+<p>5. L'Animateur. (Rodin.)</p>
+<p>6. Lettré Ouverte au Prince Troubetzkoy.,</p>
+<p>7. Variations sur la Boite de Pandore.</p>
+<p>8. Le Jubilé d'Olympio.</p>
+<p>9. Le Charme du Vendredi-Saint.</p>
+<p>10. Le. Huitième Sage et le Onzième Juste. (Louis Ménard.).</p>
+<p>II..0&lt;! V~~Ma.</p>
+<p>12. Bleu du Ciel avant les Pleurs. (Gravure en couleurs.) 13.
+Appartements Verts. (Versailles.) i~. L'Air de Jouvence. (Engadine.)</p>
+<p>15. Encycliques Mondaines.</p>
+<p>7'roMVot'x.</p>
+<p><pb/></p>
+<p>v</p>
+<p>ASSEMBLÉE DE NOTABLES</p>
+<p>DEDICACE A HENRI BATAILLE.</p>
+<p>a</p>
+<p>f</p>
+<p>i. Un Portraitiste Lyrique. (Laszlô.)</p>
+<p>2. Beardsley en Raccourci.</p>
+<p>3. 7~~M7''&lt;HMï.(LéopoldStevens.)</p>
+<p>5. Le Péril Doré.</p>
+<p>6. Les Pierres qui meurent.</p>
+<p>7. Les Amis de Sèvres.</p>
+<p>8. -Un Sénat de Femmes.</p>
+<p>o. Dames d'Automne.</p>
+<p>10. L'Académicienne.</p>
+<p>11. La Rosette des Rosés.</p>
+<p>12. Le Balzac de l'Enfance. (Comtesse de Ségur.) ig. Madame Mondanité et
+Monsieur Monde. i~. Du Snobisme.</p>
+<p>15. Panachés.</p>
+<p>16. Souveraines d'Outre-Mer.</p>
+<p>18. Thalies d'Été. (Théâtre d'Orange.)</p>
+<p>10. Ames de Bois. (Marionnettes.)</p>
+<p>20. La Cage des Masques. (Album de Rouveyre.) 21. Les Miroirs Malins.
+(Humoristes.)</p>
+<p><pb/></p>
+<p>22. Mylord Chat. 23. Génovines.</p>
+<p>DÉDICACE AU PROFESSEUR RoBiN.</p>
+<p>BRELAN DE DAMES.</p>
+<p>I. Musées pour rire. (La Marquise de Blocqueville.) 2. Les Mirlitons
+Azurés. (La Duchesse de Rohan.) 3. La. Shéhérazade de t'Encre Bleue.
+(Madame Bulteau.) VII</p>
+<p>DÉDICACE A PIERRE LOTI.</p>
+<p>TETES D'EXPRESSION.</p>
+<p>i. Le Livre Effeuillé. (Princesse Bibesco.) · 2. Tout Chemin mène à
+Rome. (André Maurel.) 3. Le Film Immobile. (Panorama de Sem.) 4. Les
+Dessins du Bouveret.</p>
+<p>5. Un Musée pour de, Bon. (Musée de. Bayonne.) 6. Parois Enchantées.
+(Exposition de Bakst.) 7. Cambrioleurs d'Anies. (M" Brooks.)</p>
+<p>8. Enluminures. (Mademoiselle Feurgard.)</p>
+<p>VI</p>
+<p>BRELAN DE DAMES.</p>
+<p>TÈTES D'EXPRESSION.</p>
+<p><pb/></p>
+<p>ç. Extrême-Orientale. (Estampes Japonaises.)</p>
+<p>10. Un Peintre Alpiniste. (Vitelleschi.)</p>
+<p>n. Les Verres Forgés. '(Rétrospective de Gallé.) 12. Une Collaboration
+entre Devéria et Lancret. (Hahn.) 13. Terpsichore et Hygie. (Isadora
+Duncan.) 1~. Galas Printaniers. (Ballets russes.)</p>
+<p>i~. La Danse des Sept Voiles. (Ida Rubinstein.) &lt;. 16. Une Pelletée de
+Roses. (Mikhaïl.)</p>
+<p>17. Un Nouveau Bienfait de la Science.</p>
+<p>18. De l'Arrivisme au Muflisme.</p>
+<p>iQ. La Politesse de' l'Avenir.</p>
+<p>20. La Revanche des Nains.</p>
+<p>21. Les Grands Minimes.</p>
+<p>22. Le ConSt de Paon.</p>
+<p>VIII</p>
+<p>TÊTES COURONNÉES.</p>
+<p>DEDICACE AU DOCTEUR COUCHOUD.</p>
+<p>COMPTE COURANT.</p>
+<p>TÊTES COURONNÉES.</p>
+<p>.a</p>
+<p>i. L'Archange d'Or.,(Le Saint Sébastien de d'Annunzio.) 2. L'Ombre des
+Flèches.</p>
+<p>3. Saints d'Israël. (Baron et Baronne Adolphe de Rothschild.)</p>
+<p>4. L'Ami du Voleur de Soleil. (Camille Groult.) 5. Le Météore. (Edmond
+Rostand.)</p>
+<p><pb/></p>
+<p>6. Le Beau Cavalier. (Gustave Jacquet.) y. Le Moulin du'Livre. (Charles
+Meunier.) IX</p>
+<p>MAJEURS ET MINEURS.</p>
+<p>DÉDICACE AU PROFESSEUR PoZZI.</p>
+<p>MAJEURS ET MINEURS.</p>
+<p>'9</p>
+<p>i. Précurseurs et Distancés.</p>
+<p>2. L'Oiseau Expiatoire. (Léonard de Vinci.) 3. Le Roman de'la Terre et
+du Ciel. (d'Arinunzio.) 4. La Pharmacie d'Académus. (Michel Manzi.) 3.
+L'Ile du Docteur Carrel.</p>
+<p>6. La Rose Noire. (La Joconde.)</p>
+<p>7. L'Étoile-Fleur.</p>
+<p>8. Les Larmes d'Argent et les Violettes Blanches. 9. Une Larme de
+Soufre. (Judith Gautier.)</p>
+<p>io. La Gounodyssée (Madame Weldon.) n. Dialogue des Moribonds.</p>
+<p>12. Concours de Légataires.</p>
+<p>/x</p>
+<p>LES DÉLICES DE CAPHARNAUM.</p>
+<p>DEDICACE A MADAME ÉMUE STRAUS. LES DÉLICES DE CAPHARNAUM.</p>
+<p><pb/></p>
+<p>i. Inutiles Plaintes.</p>
+<p>2. La Scène du Théâtre et la Scène du Monde. 3. Le Nouveau Règne du
+Silence. (Le Cinéma.) 4.LaFête"chezMaria".</p>
+<p>5. Du Côté Pratique des Couronnes.</p>
+<p>6. Propos Interrompus et Enchaînement d'Idées. 7. Une Étoile
+Pittoresque. (Mademoiselle Mistinguett.) 8. Le Pardon Arraché.</p>
+<p>9. L'Enfant Gâté.</p>
+<p>10. Le Multiple Sosie.</p>
+<p>11. Farifan-Gaga.</p>
+<p>12. La Délectation Morose.</p>
+<p>13~ L'Embusqué Nu..</p>
+<p>14. LeGoûtduJour.</p>
+<p>DIPTYQUE DE FLANDRE, TRIPTYQUE DE FRANCE DEDICACE A BOLDINI.</p>
+<p>DIPTYQUE ET TRIPTYQUE.</p>
+<p>i. Le Peintre aux Billets. (Alfred Stevens.) 2. Le Pasteur de Cygnes.
+(Georges Rodenbach.)</p>
+<p>i. -*Le Broyeur de Fleurs. (Adolphe Monticelli.) 2. L'Inextricable
+Graveur. (Rodolphe Bresdin.)</p>
+<p>XI</p>
+<p>Au PAYS DES CIELS .SONORES.</p>
+<p>Au DELA DES FORMES.</p>
+<p><pb/></p>
+<p>3. La Porte Ouverte au Jardin fermé du Roi. (S. Mallarmé.)</p>
+<p>Griffonnages en différents Sens.</p>
+<p>XII</p>
+<p>ÉLUS ET APPELÉS.</p>
+<p>DÉDICACE A MADAME IDA RUBINSTEIN. ËI.US ET APPELÉS.</p>
+<p>i. Le fatal prodige de Plutarque. (Madame Ida Rubinstein.)</p>
+<p>2. Watteau Belligérant.</p>
+<p>3. Le Peintre Turc etc. (Liotard et Mind.) 4. La Faillite d'un Marchand
+de Bonheur" (C.Fourier.) 5. Baudelaire Vestel.</p>
+<p>6. Une Mise au Point. (Albert Samain.)</p>
+<p>7. Le Loup et l'Agnelle. (Montluc et Vàlmore.). 8. Un Auteur Difficile.
+(Raymond Roussel.) 9. Le Missel Ambigu.</p>
+<p>10. Le .Crépuscule des Bondieuseries. (Lourdes.) 11. La Reine Soliveau.
+(Le Ruban Rouge.)</p>
+<p>XIII</p>
+<p>-Le Mort Remontant. (Adrien Juvigny.)</p>
+<p><pb/></p>
+<p>ACHEVÉ DWM/~M</p>
+<p>huit juin mil neuf cent vingt-deux sur les presses de</p>
+<p>L'IMPRtMEniECRLEANAISE aOrléans</p>
+<p>pour</p>
+    </div>
+    </body>
+  </text>
+</TEI>

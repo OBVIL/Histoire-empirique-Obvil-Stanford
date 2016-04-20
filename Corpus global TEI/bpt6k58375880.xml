@@ -1,0 +1,4081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Friedel, Adrien Chrétien (1753-1786)">Adrien Chrétien Friedel</author>
+<title>Nouveau théâtre allemand . Par MM. Friedel et de Bonneville</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author></author>, <title>Nouveau théâtre allemand . Par MM. Friedel et de Bonneville</title>, <date>1782</date>,description :Comprend : Goetz de Berliching, avec une main de fer, drame historique,308 pages
+</bibl>
+<publisher>[s.n.] (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k58375880</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1782">1782</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/></p>
+<p>THÉÂTRE</p>
+<p>SEC MM i ï.</p>
+<p>Qui ànt paru avec succès sur lès Théâtres des Capitales de VAllemagne; T</p>
+<p>DOUZIEME VOLUME.</p>
+<p><pb/></p>
+<p>AVI S.</p>
+<p>JLjjpiix des douze Volumes du nouvcauThéatre Allemand, est de 48 livres,
+Yoitsianc par la Poste, On les trouve</p>
+<p>A Paris, au Cabinet de Littérature Allemande , rue Saint'Honoré , au
+coin de la rue de Richelieu.</p>
+<p>CheSja Veuve. DVCHESNB, Libraire, rue Saint-Jacques, v -"" M Temple du
+Coût. ''</p>
+<p>Chez COUTURIER fils, Imprimeur-Libraire, Quai des Augustins, au Coq.
+■.■.■■&lt;Ï'\??Ï*..</p>
+<p>Chez BRUWET , Lìbrajrç, rue de Mari vaux jffjàcé. de* '? la Comédie
+Italienne. v ' " "*" "us-'' ív</p>
+<p>Chez NYON l'aîné, Imprimeur-Libraire, rue du Jardiner.</p>
+<p>Chez BARROIS le jeune, Libraire, Quai deVAugustinf,' A VersailUs&gt; chez
+BLAIZOT, Libraire ,VfùVjSato|f. ' A Dejptu. Au Bureau de la Librairie
+des S»vansV A Ltipjìtk, che* M. DÏCK.</p>
+<p>* ■! :; £W F&amp;AN CM. •":■■'"-</p>
+<p>Poutirccòyoir les Volumes, franc de pO|t:patM Poste &gt; on</p>
+<p>- i*adreíTera directement á Pariî, au Cabinet de Littérature</p>
+<p>Allemande, á M, Fál^pBj., P&gt;ofeíTeuf des Pages, du Roi.</p>
+<p>11 fam affranchir U lettre de demande &amp; le port de</p>
+<p>. J'^ent. • ................</p>
+<p><pb/></p>
+<p>NOUVEAU</p>
+<p>THÉ ïiìl^E</p>
+<p>,-j</p>
+<p>. ALLEMAND.</p>
+<p>PAR MM, ÈRIEPEL ET DE BONNEPlLÍJS,</p>
+<p>POUZIEME VÔLÚMg.</p>
+<p>^a——rasai if 'rr'' —aaáuimjH»; •</p>
+<p>*r*v</p>
+<p>rr&gt;,</p>
+<p>X</p>
+<p>f s.' •■'■• * '• .f -</p>
+<p>t *T3 ■'«&amp;«.'*&gt; s t**l</p>
+<p>ií P^í A/5,</p>
+<p>:•*</p>
+<p>M. DCC. LXXXV.</p>
+<p>Ane Approbation &amp; Privilège du Roi,</p>
+<p><pb/></p>
+<p>CHOIX</p>
+<p>DE PETITS ROMANS,</p>
+<p>CONTES, ANECDOTES, PIECES AGRÉABLES, 6cci</p>
+<p>Traduits de l'AUemánd</p>
+<p>Par MM, FR1EDEL &amp; DE BONNEVILLE,</p>
+<p>jf\pRè$ avoir donné ûn Recueil de toutes les Pièces tiui ònt parti avlc
+succès fur les théâtres des Capitales de VAIIemagne, nous voulons
+essayer de faire connoître, dans un autre genre y la littérature
+Allemande moderne.</p>
+<p>Nous publierons incessamment » en6vQ!.(/t?i»dei4ol *p pages,
+urìçholiàcpethsRoh\anst Contes, Pièces agre'abies, &amp;'c : 8i comme</p>
+<p>3u'une Tragédie de Lefjing, &amp; trois autres petites Pièces ont il existât
+des traductions. Ces auatre Pièces, que nous étions bien aise d'avoir
+dans notre collection, font : La mort d'Adam, dans le neuvième volume,
+dont la traduction, froide &amp; infidèle, fi, 11 y a dix ans, une
+réputation j Mìjs Sara Sampson, dans le dixième vol. traduite par MM*</p>
+<p><pb/></p>
+<p>Junker &amp; Llefiault\ les six Plats, áàrirfe n*. f0U 9c le Bon Fils, dans
+leÏ»\ vol. traduits par J.H, E. En comparant ces traductions dans les
+morceaux sublimes, &amp; pour la vérité du dialogue, on pourra juger si nous
+avons 1 cherché 4 profiter des traductions faites avant les nôtresQuels</p>
+<p>Nous donnerons le titre général de</p>
+<p>Littérature Allemande • t</p>
+<p><pb/></p>
+<p>• (4)</p>
+<p>On souscrit pouf ces Contes &amp; petits Romans, chez M. FMEDBI,. Professeur
+des Pages du Roi, au Cabinet de Lit* tératare Allemande, rye
+Salnt-Honoré, au coin de la rue de Richelieu( 1)*</p>
+<p>P. iS*. Nous donnerons dans le sixième íc dernier vol, de ce Recueil,
+une Notice fur les différens Auteurs quo nous aurons traduits*</p>
+<p>li) On y troun aujjì lt$dou\t vol, in-8*. du Nouveau Thíktio Alíemíiid,
+par MM. FjìiEDgi fie De Bojtxtviiis. Prix4% UvK fort front dant toul It
+Royaumt,</p>
+<p>Et des Tabjet pour faciliter l'étude de la langue allemande j, p»K
+ït)erie.4cl&lt;Pr9fsfçgï4«iP.ag«»dyRoíi . . ...</p>
+<p><pb/></p>
+<p>LES</p>
+<p>.VOLEURS,</p>
+<p>TE A GEBIE</p>
+<p>.' .'''PAR</p>
+<p>M. SCHILLER.</p>
+<p><pb/></p>
+<p>NOTICE</p>
+<p>SUR Mr SCHILLER.</p>
+<p>M. Schiller n'est point un de ces gens dont il est parlé au livre des
+Maximes, qui ressemblent aux Vaudevilles que tout le monde chante un
+certain temps, quelque fades &amp; dégoûtans qu'ils soient. C'est un jeune
+Écrivain quiparoît sait pour étonner son siécle de la vigueur de son
+génie.. Sa destinée intéresse tout être qui pense.</p>
+<p>Quoique l'ensemble &amp; presque tous les détails de fa Piece soient du plus
+mauvais goût, les traits sublimes qu'on y rencontre en assez grand
+nombre, &amp; fur-tout un horrible intérêt, vous attachent, malgré vous, à
+des scènes toujours plus affreuses.</p>
+<p><pb/></p>
+<p>Jeunesse de cette Ville, f élite de la Noblesse, jurent d'être comme lui
+des Anges exterminateurs, Dans l'âge heureux de l'amitié, de l'amour, de
+l'héroïfme, ils se lient par des serrhens presque aussi féroces</p>
+<p>3ué ceux de Catilina. Heureusement le hasard fit écouvrir cette
+conjuration, dont les effets auroient été affreux. Impressions
+terribles, qui prouvent toute l'énergie des pinceaux de M. Schiller.
+C'est un fait connu de toute l'Allemagne.</p>
+<p>Après un succès aussi extraordinaire, l'Auteur imprime aujourd'hui que
+fa Piece est détestable, &amp; il a vraiment raison ? mais il faut
+l'entendre parler lui-même dans le Prospectus d'un Ouvrage périodique
+qu'il va publier, &amp; qui aura pour objet tout ce qui intéresse les moeurs,</p>
+<p>&lt;e Mon penchant pouf la Poésie, blessoit, diíoit-on, les loix
+dePinstitut dans lequel j'étois élevé. (2) Mon enthousiasmé a lutté
+pendant dix années entières contre un état pour lequel mon coeur n'étoit
+pointfait; mais la passion pour la Poésie est terrible &amp; dévorante comme
+le premier amour. Ceux qui cròyoient l'étouffer, l'ont entretenue brûlante.</p>
+<p>[ì] A Wurtemberg.</p>
+<p>(%) L'Ecolc Militaire du Ltuc de Wurtemberg</p>
+<p><pb/></p>
+<p>H</p>
+<p>Que le climat fous lequel je fuis né soit toute mon excuse. Si des
+plaintes (ans nombre portées contre cette Piece, il en tombe une feule
+fur moi, c'est d'avoir osé peindre des hommes, deux ans avant d'en avoir
+trouvé. ''■.</p>
+<p>Les Voleurs me coûtent ma famille, ma Patrie. ;—Dans un âge où c'est
+encore la voix du grand nombre qui fixe notre inquiétude , &amp; détermine
+nos senti mens &amp; nos pensées, où le sang bouillant d'un ieune homme se
+ranime aux doux regards qui l'applaudisient, où mille pressentimens
+d'une grandeur future entourent son âme exaltée, &amp; QÙ il entrevoit déja
+dans l'aVenir la divine immortali-</p>
+<p><pb/></p>
+<p>' À présent, toutes mes relations Tont dissoutes* Le Public seul est
+aujourd'hui mon étude, mon Souverain, mon Père. C'est lui seul que je
+crains, que je respecte. Je ne sais quoi de sublimé s'empare de moi à
+cette idée : Je n'aurai pour juge que le c^oeur de l'hòmme. w*"* '</p>
+<p>(ì) Le Duc de WUrtemberg.</p>
+<p><pb/></p>
+<p>PERSONNAGES.</p>
+<p>MAXIMILIEN DE MOÒR, Comte régnant,</p>
+<p>CHARLES, 1 F.Igt</p>
+<p>FRANÇOIS,/</p>
+<p>AMÉLIE, soNiéce.</p>
+<p>HERMANN, Fils naturel d'un Gentilhomme:</p>
+<p>SPIEGELBERG/v</p>
+<p>SCHWEIZER, J</p>
+<p>5CHUFTERLE, V| se ^ ^ ^ RQLLE^,:: l RAZMANN, 1 &gt;</p>
+<p>kOstìS^^Ì); V ^y</p>
+<p>UN HOMME; DE ROBE. DÂNÍÉLV, vìèux Domestiquer **';;;;'.;■;</p>
+<p>UN DOMESTIQUE. "</p>
+<p>PLUSIEURS VOLÇUR&amp; , js</p>
+<p><pb/></p>
+<p>LES</p>
+<p>VOLEURS,</p>
+<p>ACTE PREMIER*</p>
+<p>SCENE PREMIERE.</p>
+<p>EN FRANCONIE.</p>
+<p>Un Sallon dans le Château du Comte de Moor.</p>
+<p>FRANÇOIS, LE COMTÉ DE MOOR.</p>
+<p>FRANCO I s.</p>
+<p>JMUIS vous portez»vous bien, mon Père? Vous êtes pâle. Tome Xlh B</p>
+<p><pb/></p>
+<p>1$ LES VOLEURSi L B COMTE. Je me porte bien, mon fils. — Qu'avois-tu à
+me dire?</p>
+<p>F\R ANÇOHI</p>
+<p>La poste est arrivée,. — Une lettre de notre Correspondant de Leipzig...,</p>
+<p>L B C o M T B vivement.</p>
+<p>Des nouvelles de mon fils Charles ?</p>
+<p>FRANÇOIS.</p>
+<p>L B C o M T B.</p>
+<p>Dieu ! Dieu, que vais-je apprendre 1 '</p>
+<p>FRANÇOIS détournant la vue»</p>
+<p><pb/></p>
+<p>f R A G E D I E. ip</p>
+<p>»—Mais vous obéir est mon triste devoir, mon premier devoir, vous, devez
+donc me plaindre.</p>
+<p>L E C o M T E.</p>
+<p>FRANÇOIS. C'est donc ainsi mon père ? LaifTez-moi aller. -—Voulez-vous
+qu'aujourd'hui encore nous arrachions nos cheveux fur votre cercueil ?</p>
+<p>L E C o M T E.</p>
+<p>FRANÇOIS tirant une lettre de fa poche,</p>
+<p>Vous connoîssez notre Correspondant! Tenez» je donnerois un doigt de ma
+main droite pour oser dire que de fa plume impure découle un noir
+poison.—-Rappeliez votre fermeté. Pardonnez, íi je ne vouslaifle pas
+vous-même lire cette lettre* II m*est impossible de vous accabler d'un
+seul coup*</p>
+<p>Blj</p>
+<p><pb/></p>
+<p>20 L ES VOLEUR S,</p>
+<p>L E C O M TB,</p>
+<p>D'un seul coup&gt; — d'un seul coup.--«Mon fils, tu m'épargnes la
+vieillefle. (ì)</p>
+<p>FRANÇOIS lit,</p>
+<p>L B C o M T B. Assez, —- assez, mon Mis 1</p>
+<p>FRANÇOIS. Je vous ménage.— « On a par-tout envoyé son</p>
+<p>( t ) Du erfpahrst tnlr die Krutke* Tu m'épargnes la Béquille,</p>
+<p><pb/></p>
+<p>TR A G É DIE. aï</p>
+<p>LE C o M T E pleurant amèrement,</p>
+<p>fAon NOM ! Mon nom respectable 1</p>
+<p>FRANCO I S.</p>
+<p>Oh s'il pouvoit ne pas porter le nom de Moor ! Pourquoi faut-U que mon
+coeur palpite si vivement pour lui: tendrefle impie, que je ne puis
+étouffer, qui m'accuscra un jour au tribunal dé Dieu!</p>
+<p>L E C O M T E.</p>
+<p>Oh mes espérances I — mes songes dorés 1</p>
+<p>FRANÇOIS.</p>
+<p>Biij</p>
+<p><pb/></p>
+<p>Ah ! regardez donc cette tête hardie, entreprenante I Comme il forme de
+grands desseins qui éclipsent les héroïques actions des Cartouches &amp; des
+Ho oc a r ds. — Et quand ces germes superbes seront en pleine
+maturitél..... Quelle perfection d'ailleurs peut-on espérer dans un âge
+si tendre ? — Peut • être, mon Père, aurez - vous encore le bonheur de
+le voir chef de quelque troupe honorable qui habite le sacré silence des
+forêts, &amp; qui foulage le voyageur fatigué de la moitié de son fardeau. —
+Peut-être , avant dé) mourir, pou r rez-vous encore faire un pèlerinage</p>
+<p>(t) Ces mots sent en François dans l'orlginal</p>
+<p><pb/></p>
+<p>TR A GËD IE. á|-</p>
+<p>L B C O M T E.</p>
+<p>Et toi aussi, mon François, &amp; toi aussi ? O mes eufans I Comme ils
+frappent droit au cceur 1</p>
+<p>FRANÇOIS.</p>
+<p>Bív</p>
+<p><pb/></p>
+<p>af' LES VQ%ïlVKS^</p>
+<p>., sy t',:tL}Er C O *t T n, '•'.'."■-■■•■■:"</p>
+<p>Pardonne-moi, mon enfant, ne murmure point contre un Père trompé dans
+ses plus douces espérances. Le Dieu qui m'en voie des larmes par
+Charles, me donnera ta main, mon François, pour</p>
+<p>les essuyer.</p>
+<p>',,?,;:",:" ■■* F;RA N ç o ì s. . . ; '*</p>
+<p>FR A ,N Ç O I s. Convenez donc—que si vous pouviez ne, pas nommer ce
+fils, votre fils, vous seriez un homme heureux»</p>
+<p>LE C O M T B.</p>
+<p><pb/></p>
+<p>TRAGÉDIE, a?</p>
+<p>me l'apporta, je le pris dans mes bras : O ciel 1 ne suis-je pas un
+homme heureux?</p>
+<p>L B C o M T E.</p>
+<p>Oh que d'années U entasse fur ma tête I</p>
+<p>LE COMTE vivement* François ! François 1 Toi, tu voudrois que je
+maudifle mon fils ?</p>
+<p>FRANÇOIS,</p>
+<p>Non,-—non* Votre fils Vous ne devez</p>
+<p>pas le maudire. Qui appeliez - vous votre fils?</p>
+<p>fait tout ce qui est en son pouvoir pour abréger</p>
+<p>la vôtre?</p>
+<p>L K C o M T r.</p>
+<p>Un fils fans tendresse 1 hélasi c'est toujours mon fils 1</p>
+<p><pb/></p>
+<p>â* LES VOLEURS, FRANÇOIS.</p>
+<p>L B COMTE.</p>
+<p>Châtiment trop juste ! — Je fuis seul coupable í</p>
+<p>FRANÇOIS.</p>
+<p><pb/></p>
+<p>7 K AG ÉDIE. a7</p>
+<p>L E C O M T E.</p>
+<p>Je lui écrirai que je l'abandonne !</p>
+<p>FRANÇOIS. C'est bon, c'est sage*</p>
+<p>L B C O M T E.</p>
+<p>Et je lui écrirai : Ne parois jamais devant</p>
+<p>moi</p>
+<p>FRANÇOIS.</p>
+<p>Cela produira un bon effet.</p>
+<p>LBCOMTB avec épanchement.</p>
+<p>Que tu ne fois changé*</p>
+<p>FRANÇOIS.</p>
+<p>Très-bîen, très-bien. — Mais s'il vient couvert</p>
+<p>Père, &amp; par ses doucereuses caresses obtenir son</p>
+<p>pardon, &amp; qu'il aille aussi-tôt se moquer de sa</p>
+<p>foiblesse dans les bras de ses prostituées ? •. •.</p>
+<p>Ne faites pas cela, mon Père! II reviendra de</p>
+<p>pardonné.</p>
+<p>LE COMTE»</p>
+<p>II faut donc que je lui écrive fur le champ, (7/ va pour sortir.)</p>
+<p><pb/></p>
+<p>*&amp; LES VOLËÛás,</p>
+<p>F R A N Ç O I S.</p>
+<p>Ecoutez, encore un mot, mon Père. Je crains votre colère*, elle pourroit
+vous faire écrire des paroles trop dures qui lui fendroient le coeur ,
+•— &amp; — aussi... ♦ Mais ne croyez-vous pas qu'il regardera déja comme un
+pardon, une lettre de votre propre main? Je crois qu'il fera mieux de me
+charger de lui écrire.</p>
+<p>L E G o M T Bi</p>
+<p>Eh bien , mon fils, écris lui..*-*• Ah ! pour moi, c'a m'auroit brisé le
+coeur, Écris-lui,,..</p>
+<p>FRANÇOIS ttnterrompant.</p>
+<p>Eh bien, c'est convenu ?</p>
+<p>LBCOMTB.</p>
+<p>Écris lui que mille larmes de sang, que mille nuits fans sommeil....
+Mais ne porte pas mon fils au désespoir.</p>
+<p>FRANÇOIS. ^</p>
+<p>Ne voudriez-vous pas vous mettre au lit, mon Père? Cela vous a fait bien
+du mal,</p>
+<p>'LBCOMTB.</p>
+<p>Écris-lui que le coeur d'un Père, ... Je te le dis encore, ne porte
+point mon fils au désespoir* [11 sort accablé de douleur,)</p>
+<p><pb/></p>
+<p>X RA Q É D I E.r 2$</p>
+<p><pb/></p>
+<p>3P LES VÒ tÊtìïlS,</p>
+<p>briser ce lien des âmes qui n'a pas de prise fur la mienne* Elle m'a
+refuséJes douces émotions de l'amour, son éloquence voluptueuse.—La
+force fera mes droits, &amp; j'extirperai autour de moi tout ce qui
+m'empêche d'agir en maître. (ì)</p>
+<p><pb/></p>
+<p>TRAGÉDIE; $i</p>
+<p>S CE NE II,</p>
+<p>FRANÇOIS, AMÉLIE qui marche d'un pat languissant, paroît dans (enfoncement,</p>
+<p>FRANÇOIS,</p>
+<p>A M é h ì B s^Jfraie, &amp; le mesure d'un long regard.</p>
+<p>Toi, ici ? Je le desirois, — C'est toi que je vou. lois, toi seul 1 —
+toi seul dans toute la création.</p>
+<p>FRANÇOIS,</p>
+<p>Que je fuis,heureux 1 Moi seul dans Timmenfe création. ^</p>
+<p><pb/></p>
+<p>3a hES VOLEURS,</p>
+<p>A H B t l B.</p>
+<p>Toi, toi seul !-—Brûlante &amp; affamée, je languis , je voudrois,.. ». J'ai
+soif de toi. Reste , je t'en conjure. —- Je me sens soulagée quand je
+puis te maudire en face* (ì)</p>
+<p>FRANÇOIS.</p>
+<p>A moi ce traitement? Mon enfant, tu te trompes ; va trouver le Père 1</p>
+<p>AKU IB.</p>
+<p>Le Père?—-Un Père qui sert son fils fur la</p>
+<p>table du désespoir I dans son château il s'enivre de</p>
+<p>vins exquis, &amp; il carefle ses membres flétris dans</p>
+<p>l'édredon voluptueux, tandis que son grand &amp;</p>
+<p>magnanime fils manque du nécestaire. — Rou-»</p>
+<p>giflez, inhumains 1 Ames féroces &amp; cadavéreuses',</p>
+<p>vous êtes la honte de l'humanité I — Son fils</p>
+<p>unique!</p>
+<p>FRANÇOIS.</p>
+<p>Je croyois qu'il en avqit deux.</p>
+<p>A M É L I B. ,</p>
+<p>Oui 1 H mérité deux fils tels que toi I—Sur sonì</p>
+<p>( ì) Wennich rheinenSchraerz in dein Angesichtgeifern kann; Quand je
+puis te cracher ma douleur au visage. ■'*■';.*). ':''■%</p>
+<p>lìt</p>
+<p><pb/></p>
+<p>TRAGÉDIE.- jî,'</p>
+<p>Ht de mort, il étendra ses mains livides vers son Charles, &amp; frémira
+d'effroi en faifìslant la main glacée de son François. — Oh il est doux
+1 délicieux d'être maudit par un Père !</p>
+<p>FRANÇOIS.</p>
+<p>Tu es en délire, mon amie, je te plains.</p>
+<p>A M B L ì p.</p>
+<p>Òh je t'en prie. -— Plains-tu ton frère? —Non, barbare, tu le hais 1 Tu
+me hais aussi, j'espère?</p>
+<p>FRANÇOIS. ^</p>
+<p>Je t'aime comme moi-même, Amélie, A M R L ì B.</p>
+<p>Si tu m'aimes, peux-tu me refuser une seule</p>
+<p>prière ? .</p>
+<p>FRANÇOIS.</p>
+<p>Aucune, aucune I Si tu ne demandes pas plus</p>
+<p>que ma vie.</p>
+<p>AMÉLIE.</p>
+<p>Tome XII, C</p>
+<p><pb/></p>
+<p>54 LÊS VOLEURS, FRANÇOIS.</p>
+<p>AMÉLIE émue,</p>
+<p>* Oui, je l'avoue. En dépit de vous, barbares, je veux le dire au monde
+entier, — Je l'aime.</p>
+<p>FRANÇOIS.</p>
+<p>Cest inhumanité, c'est cruauté de récompenser ainsi tant d'amour !
+d'oublier celle. • • • AMÉLIE vivement.</p>
+<p>M'oubJier?</p>
+<p>FRANÇOIS.</p>
+<p><pb/></p>
+<p>TRAGÉDIE. Jj</p>
+<p>FR.AMÇ'OIS,</p>
+<p>Cest un trait infime. •— Encore fi ce n'étoit</p>
+<p>que cela» — De quelque prix que soit un anneau,</p>
+<p>—Peut-être la façon lui a-t-elle déplu. —Peutêtre</p>
+<p>—Peutêtre l'a-1-il changé contre un plus bel</p>
+<p>anneau.</p>
+<p>A M é L ì B.</p>
+<p>Mais MON anneau 1—MOU anneau ì</p>
+<p>FRANC OI S.</p>
+<p>ÁM B L l B.</p>
+<p>Sous quels traits, monstres ? -</p>
+<p>c i|</p>
+<p><pb/></p>
+<p># LES VOLEURS,</p>
+<p>F RA N Ç O I S.</p>
+<p>A H É'i ì B '/&lt; détourne,</p>
+<p>'Et'</p>
+<p>Ah 1 — calomniateur, fans pudeur ! FRANCO! S.</p>
+<p>Ce Charles te fait horreur? SonJmage seule: t'inspire du dégoût ? Va
+dose le regarder ton Charles, beau, divin! un Ange, I Va respirer avec</p>
+<p><pb/></p>
+<p>TRAGÉDIE; • &amp;</p>
+<p>AMÉLIE, avec un transport de joie.</p>
+<p>Ah mon cher Charles ! Je te reconnois ! Je te revois aussi beau que tu
+étois, ;—Tout ce qu'il a dit est mensonge. — Ne sais-tu pas, misérable.,
+qu'il est impossible.... (Françoisrefle comme enseveli dans un morne
+silence, &amp; tout-à-coup se détourne 9 &amp; sort, Amélie l'arréte,) Où vas-tu
+? Est-ce ta honte que tu fuis?</p>
+<p>F R A N ç ois cachant son visage.</p>
+<p><pb/></p>
+<p>3$ LES VOLEURS,</p>
+<p>AMÉLIE fi jette afin col.</p>
+<p>Frère de mon Charles, bon &amp; sensible François I</p>
+<p>FRANÇOIS»</p>
+<p>AMÉLIE branlant la tête.</p>
+<p>Non, non, par la chaste lumière du ciel! pas une goutte de son sang, pas
+une étincelle de son génie, — rien de fa sensibilité.</p>
+<p>FRANÇOIS.</p>
+<p>Dans une belle soirée, la derniere, avant son départ pour Leipzig, il
+m'emmena avec lui dans ce berceau, qui vous a vu tant de fois assis
+ensemble dans les douces rêveries de l'amour. —</p>
+<p><pb/></p>
+<p>Nous restâmes long-temps fans oser respirer* — Enfin, il prend ma main,
+8c tout baigné de larmes t Je quitte Amélie, s'écrie-t-il d'une voix
+éteinte, je ne fais, —• j'ai un pressentiment que c'est pour toujours. —
+Ne l'abaadonne pas, mon frère, — sois son ami, — son Charles t — íi
+Charles—la perdoit pour toujours, (il se jette aux genoux d'Amélie, &amp; If
+aise sa main avec transport \ — &amp; Charles ne reviendra— jamais, &amp; je lui
+ai donné une promesse sacrée.....</p>
+<p>AMÉLIE recule dPejfroì,</p>
+<p>Traître, tu es démasqué. C'est dans ce même berceau qu'il m'a fa|t
+promettre que jamais un autre amour —mêmeaprès fa mort — Vois-tu combien
+tu es impie, un exécrable monstre.— Sors de mes yeux. T .</p>
+<p>F R A N Ç O I S.</p>
+<p>Tu ne me connois pas, Amélie, non tu ne me connois pas.</p>
+<p>AMÉLIE,</p>
+<p>Oh c'est en ce moment que je t'ai bien connu» Et tu voudrois lui
+ressembler? Devant toi, il auroit pleuré pour moi? Devant toi?—-II
+auroit plutôt écrit mon nom sur la potence. Sors. F R A N Ç o ì s.
+Tíim'ófienses.</p>
+<p><pb/></p>
+<p>*ô LES V O L E U R S,</p>
+<p>AMÉLIE.</p>
+<p>Sors, te dis-je» Tu m'as dérobé une. heure précieuse 1 Qu'elle soit
+prise sur ta vie.</p>
+<p>F R A N ç o ì s.</p>
+<p>Tu me hais,</p>
+<p>AMÉLIE.</p>
+<p>Je te méprise. Sors.</p>
+<p>FRANÇOIS frappant la terre dans sa fureur.</p>
+<p>forcené,) Ì</p>
+<p>AMÉLIE.</p>
+<p><pb/></p>
+<p>T R À G Ê "Ò ÎE. 4t</p>
+<p>SCENE III,</p>
+<p>Sur les frontières de la Saxe.</p>
+<p>V NE A V B E R G E.</p>
+<p>CHARLES M O O R seul se pro* mene avec impatience.</p>
+<p><pb/></p>
+<p>*3 LES VOLEURS,</p>
+<p>usé le seuil de ma porte pour arracher une poignée de misérables dettes.
+— J'a vois beau leur ferrer la main', avec un épanchement du cceur t «je
+ne vous demande qu'un jour 1 » Prières, serment, ils n'entendent rien.
+Leur âme recouverte d'une triple peau de bouc, ne s'amollit point par
+des larmes. — ( ì )</p>
+<p>SCENE I F.</p>
+<p>SPIEGELBERG avec des lettres, CHARLES M O O R.</p>
+<p>SPIEQBLB E R G,</p>
+<p>M o OR.</p>
+<p>Et quoi donc de nouveau ?</p>
+<p>SPIEGELBERO.</p>
+<p>( ì ) II y a dans le texte : Les prières, les strmtns^ l\s larmes
+rebondissent fur leur peau de bouc.</p>
+<p><pb/></p>
+<p>TR A G EPI B, ft</p>
+<p>M o o lu</p>
+<p>La paix en Allemagne!</p>
+<p>SPIEOELBBRG.</p>
+<p>II y a de quoi se pendre. — Le droit du plus fort détruit pour toujours
+— toute espèce de guerre défendue, (ous peine de mort.—Meurtre &amp; mort 1
+«-* Crève Moor. — Des plumes griffonéront, où jadis nos glaives
+tranchans....</p>
+<p>MOOR jette son sabre avec colère.</p>
+<p><pb/></p>
+<p>4* LES VOLEURS,</p>
+<p>les petits-fils de BARBEROVSSE. Je veux dans ms bois paternels oublier
+de combattre»</p>
+<p>SPIBOBLBBRG. Comment diable I Tu ne voudrois pas jouer l'Enfont
+prodigue, j'espère? Un homme comme toi, dont l'épée a plus écrit fur les
+figures que trois Secrétaires n'en pourroient barbouiller fur les loix
+dans une année-bissextile ! Fi donc ! Rougis de honte. — II ne faut pas
+que le malheur fasse d'un grand homme un lâche.</p>
+<p>S P I B G B L B B R G.</p>
+<p><pb/></p>
+<p>T R A G ÊDIE. 4/</p>
+<p>MOOR.</p>
+<p>Malédiction sur toi pour m'avóir rappelle mon crime ! Malédiction sur
+moi pour l'avoir commis l — C'était dans les vapeurs du vin &amp; mon cceur
+«Wendoit pas les vanteries de ma langue.</p>
+<p>5 p ì E G E L B E R G branlant la tête.</p>
+<p>MOOR avec humeur.'' '</p>
+<p>II me semble qu'il n'y a plus rièrí pour éprouver notre courage : où ne
+Pavons nous pas déployé? '</p>
+<p>S P I B G E L B E R G.</p>
+<p>6 Londres ! En y saluant quelqu'un de bon-homme,</p>
+<p><pb/></p>
+<p>$ò* LES VÒÈÊURS,</p>
+<p>M oo R avec ironie. Comment? tu en es là, déja?]</p>
+<p>[S P I B G B L B B R G.</p>
+<p>Je crois que tu n'as pas grand'-confiance en ma capacité. Attends, que
+jem'échausse, &amp; tu verras des miracles s'opérer. Ta petite cervelle
+ébranlée, se retournera dans la tête, quand mon génie enfantera ses
+grands desseins. (Frappantla table,) César, ou rien, Aut Csfar, aut
+nihil. Tu seras jaloux de moj.</p>
+<p>M o o R le regarde,</p>
+<p>Maurice l</p>
+<p>SPIBGELBBRG vivement»</p>
+<p>Oui ! jaloux—là, dans le coeur, toi, &amp; vous</p>
+<p><pb/></p>
+<p>TR À G ÉixiíE, 1 &gt;*.' ,j#</p>
+<p>tous, vous ferez tous jaloux de moi. Toute vòtxe intelligence ne pourra
+comprendre les plans ruses que j'inventerai. Quel jour tout à-coup
+m'éçlairel De grandes pensées crépusculent dans mon âme, des plans de
+géant se forment dans mon cerveau créateur. Maudit sommeil de. ma raison
+» (fi frappant la tète) qui enchaînoit nia force &amp; mes espérances. — Je
+m'éveille, je sens qui je fuis, ^ ce que je dois devenir ! Va,
+laisse-moi. Vous serez tous nourris de mes bienfaits*</p>
+<p>M o o R.</p>
+<p>Tu es un sot. C'est le vin qui gasconne clans ta cervelle.</p>
+<p>SPIEGELBERG encore plus animé. .</p>
+<p>« Spiegelberg, dira-t-on, es tu sorcier, Spie»&gt; gelbergr C'est dommage
+que tu ne sois pas »&gt; Général « dira le Roi, tu aurois fait passer les
+»» Turcs, de frayeur, par une boutonnière. J'enÌ&gt; tends les Médecins
+gémir: Cet homme est » inexcusable de n'avo)r pas étudié la Médecine; »
+il eut inventé un nouveau remède universel I -.» Ah t diront les Sully,
+avec un soupir, pour» quoi n'a-t-il pas donné dans la finance; en* »
+pressant la pierre, par fa magie il en eut exprimé &gt;» de l'or» » Et le
+nom de Spiegelberg volera d'Orient en Occident. —Et vous, lâches, vous</p>
+<p><pb/></p>
+<p>resterez dans la, fange souillés,:. tandis que Spiegelberg d'un vol
+sublirrie, s'élève au temple de; la gloire.--*-^- ... ;y
+;.."...'.-,..,..:,■•. stJio</p>
+<p>. Mo p n. -,1.^ ... ^*</p>
+<p>SCENE</p>
+<p><pb/></p>
+<p>¥RA sJÊbi É. $</p>
+<p>S CE NE F.</p>
+<p>SCHWEIZER, GRIMM, ROLLER, SCHUFTERLE. LES PRÉCÉDENS.</p>
+<p>R O L L B R*</p>
+<p>V&gt;AVEZ-VOUS qu'on nous cherche?</p>
+<p>G R I M M,</p>
+<p>arrêtés ?</p>
+<p>MOOR.</p>
+<p>Je n'en fuis pas étonné. N'importe. N'avezvous pas vu Razmahn? Ne vous
+a-t-il pas dit qu'il avoit une lettre pour moi ?</p>
+<p>R O L L B R.</p>
+<p>Je te crois ; car il y a long - temps qu'il te</p>
+<p>cherche.</p>
+<p>Mo o R.</p>
+<p>Ou èst-il? Ou? où? ( // veut sortir,) '</p>
+<p>R O L L B R.</p>
+<p>Reste» Nous, lui avons dit de se rendre icu (Tu trembles t — • Tome X1L D</p>
+<p><pb/></p>
+<p>jo LES VOJ^EUUS,</p>
+<p>MOOR.</p>
+<p>Je ne tremble pas. Et pourquoi trembleroisjé? Camarades, cette
+lettre*■.. Réjouissez-vous aveo moi. Je fuis le plus heureux des hommes,
+pourquoi tremblerois-je ? (Schneider s'affted â la place de Spiegelberg
+&amp; boit fin vin. )</p>
+<p>S CE NE VI. RAZMANN, LES PRÉCÉDENS.</p>
+<p>MOOR volant vers lui. V^AMARADE , camarade, la lettre, la lettre.</p>
+<p>JR A 2 M A N K lui donnant la lettre, qu'U ouvre avec précipitation,</p>
+<p>Qu'as-tu donc? Tu deviens còmme ce mur.</p>
+<p>MOOR, ,</p>
+<p>De la main de mon frère t</p>
+<p>U.</p>
+<p>R O L L B B.</p>
+<p>G R I M A).</p>
+<p><pb/></p>
+<p>TRAGÉDIE ft</p>
+<p>S C H U F TE R L B.</p>
+<p>Son esprit bat la campagne» Je crois qu'il fait</p>
+<p>des vers.</p>
+<p>R o L L B R.</p>
+<p>Spiegelberg 1. Hé, Spiegelberg !**.L'animal n'entend pas.</p>
+<p>GRIMM te secoue,</p>
+<p>Holla, hé I Dis donc íi tu rêves?</p>
+<p>R o L L E R courant après lui.</p>
+<p>Moorl Où vas-tu Moor? Qu'a$-tu?</p>
+<p>G R I M M.</p>
+<p>Qu'a-t il?qu'a-t-il donc? II est pâle comme un mort.</p>
+<p>(î) Ces mots font en François dans Vorìqìnal,</p>
+<p>bij</p>
+<p><pb/></p>
+<p>S% L ES VOLEURS,</p>
+<p>M O O R.</p>
+<p>. Perdu [ perdu 1 ( H sort en désespéré, )</p>
+<p>G R I M M.</p>
+<p>, II faut qu'il ait reçu de belles nouvelles. Voyons 'donc cela.</p>
+<p>R o L L E R ramasse la .lettre, &amp; Ut, ,</p>
+<p>\ Malheureux frère, •— Le commencement est</p>
+<p>gai. — En deux mots, il faut quejè te dise qu'il ne</p>
+<p>te reste'aucune espérance. U peut sen aller , dit ton</p>
+<p>Pere\ où ses infamies le conduiront* U dit encore,</p>
+<p>que tu ne dois pas espérer d'obtenir jamais grâce</p>
+<p>fi tu venois pleurer a ses genoux, tu peux compter</p>
+<p>que tu serois régalé de pain &amp; d'eau dans le</p>
+<p>plus profondfiuterrein des tours de son château,</p>
+<p>plumes a*aigle, &amp; tes ongles comme les serres d'un</p>
+<p>vautour. Ce font cès propres paroles, 11 réordonne</p>
+<p>définir la lettre, Adieu pour toujours t je te plains,</p>
+<p>FRANÇOIS DE MOOR.</p>
+<p>S c H w E I z E R. v</p>
+<p>Du pain &amp; deTeaul Une belle vie! Non, je</p>
+<p><pb/></p>
+<p>TRAGÉDIE. &amp;</p>
+<p>S C H W fi í ZE R.</p>
+<p>Que dit cette bête ? Cet âne veut penser pour nous tous?</p>
+<p>SPIEGELBERG.</p>
+<p>R O L LEE.</p>
+<p>Eh bien, nous serions des lâches, tu dis vrai,, • Mais ce que tu veux
+entreprendre nous peut-il tirer de ce mauvais pas? Dis.</p>
+<p>SPIEGELBERG avec un éclat de rire plein de suffisance.</p>
+<p>Diij</p>
+<p><pb/></p>
+<p>te L ES VOLEURS,</p>
+<p>RA à; Kl A N rt. [-\</p>
+<p>C'est fort pour un coup d'eflaij c'est sans doute un ouvrage de
+caste-col, cela coûtera pour le moins la tête.</p>
+<p>v S PIEGE L B ERG.</p>
+<p>S c H V,.B ì z B R.</p>
+<p>R A Z M A N K.</p>
+<p>SPIEOBLBE R G.</p>
+<p>R ô L L B R. Pourquoi tant de paroles perdues ? Si, avec ds</p>
+<p><pb/></p>
+<p>TUA G ÊD IE. » ff</p>
+<p>la raison, on peut le comprendre, fi, áVec du courage,. on peut
+l*éxécutet (î). -s. Parle.</p>
+<p>S PI B o B L B E R o.</p>
+<p>Ecoutez donc. (U se met au milieu d'eux± &amp; les regarde d'un air effaré,
+) S'il coule encore dans vos veines une goûte du sang dèshéros Allemands
+— venez» ~ Nous voulons établir notre demeuré dans les forêts
+bohémiennes, y raslembler une bande de Voleurs, &amp;.«.... Comme vous me
+regardez ? Votre peu de courage s'est-il déja glacé?</p>
+<p>R O L L E R»</p>
+<p>Tu n'es pas, il est vrai, le premier fripon qui ait regardé par-dessus
+la potence, &amp; cependant — quel autre choix</p>
+<p>S P I B G B L B B R G.</p>
+<p>(1) Prythee —peace: I dare do ail that may become a mán, who dares do
+more, îsrioné.</p>
+<p>Arre*u+* Tòse tout ce qu'un homme peut oser ì qui osé davantage* ne
+l'est plus,</p>
+<p>MACBETH , Scène derniere du X". Atte, D iv</p>
+<p><pb/></p>
+<p>S6 LËS VOLEURS,</p>
+<p>R o ;L;L s R.</p>
+<p>Tu es un Maîtrc-orateur * Spiegelberg, lorsqu'il s'agit de faire d'un
+honnête homme iui fripon.^—•' Mais dites moi donc, vous autres, qu'est
+devenu Moor ?</p>
+<p>S P I B G E L B B R G.</p>
+<p>Honnête, dis,tu ? Çrois-tu qu'alors tu serois moins honnête, Roller?
+Qu'appelles-tu honnête? Débarrasser des riches malheureux d'un tiers de
+leurs inquiétudes, qui chassent loin d'eux le doux sommeil &amp; les songes
+dorés \ faire circuler l'argent embarrassé dans des canaux impurs, rétablit</p>
+<p>W——m i i m m» n „,—M—————mtmmm</p>
+<p>«! ) Passer par les courroies.</p>
+<p><pb/></p>
+<p>TRÍÂG ËDI E. st</p>
+<p>R O L LEE.</p>
+<p>S P I E G E L B E R G.</p>
+<p>Et cela tentait peur, eccur de * lièvre ? Maint génie universel qui
+auroit pu réformer le monde 1, est pourri entre le ciel &amp; la terre} &amp; ne
+parlet-on pas d'un tel génie des siécles entiers ? n'est il pas
+l'éternel entretien de la postérité qui l'admire?</p>
+<p>(t) La j?oten«e. • :</p>
+<p><pb/></p>
+<p>En maître i Spiegelberg, en maître ! Comme un autre Orphée &gt; tu as
+assoupi ta bête hurlante, ma conscience. Prends*moi tout entier, me voilà»</p>
+<p>G R t MM.</p>
+<p>SCHUFTERLE,</p>
+<p><pb/></p>
+<p>-*- Charlatans ^-vLotterie •— Aìchymilles, des filouX) tous pelé mêle. —
+Celui qui fait l'ossre la plus raisonnable m au ra. — Prends cette main,
+cousin.. ;</p>
+<p>SÒH w El 2 B B s'approche lentement,</p>
+<p>Maurice— tu es un grand homme I ou pour mieux dire, un cochon aveugle a
+trouvé un gland.</p>
+<p>R OIXBSJ après m profond silence ^pen* dant lequel il promené un long
+regatd fur Schweiicer,</p>
+<p>Et toi aussi ami? (II lui tend ta main droite avec chaleur, ) Roller &amp;
+Schweizer — fût-ce pour entrer dans les enfers.</p>
+<p>S V t E GEL B B R G bondissant de joie,</p>
+<p>T o V s, en buvant d'un trait* Vivats</p>
+<p>S P I B G B L BER G.</p>
+<p><pb/></p>
+<p>&lt;fe LES VOLEURS,</p>
+<p>S c H w E ì z E R entre ses dents.</p>
+<p>S'il n'est pas fur la relie. (Ils vont pour sortir,)</p>
+<p>ROLLER.</p>
+<p>Doucement, mes enfans, doucement, où allezvous ? II faut que l'animal
+ait aussi une tête. Sans chef, Rome &amp; Sparte ont péri,</p>
+<p>SPIEGELBERG avec souplesse.</p>
+<p>R O L L E R.</p>
+<p>.... '.-V</p>
+<p>Si l'on pouvoit espérer —-&lt;s'il étòit possible d'imaginer.,.. Je
+désespère de son consentement.</p>
+<p>S P I E G EL B E'R Gi</p>
+<p>Et pourquoi en désespérer, mon bon ami ?</p>
+<p>.Tout difficile qu'il soit de gouverner le vaisseau</p>
+<p>contre les flots soulevés par l'órage, quelque pé*</p>
+<p><pb/></p>
+<p>TRAGEDIE. ó*i</p>
+<p>sent que soit le poids des couronnes..... Parle hardiment, mon enfant,
+«— Peut-être — peut-être sera-t'il possible.de l'attendrir.</p>
+<p>R O L L B R.</p>
+<p>SPIEGELBERG fi détournant</p>
+<p>avec humeur, I/imbécilie! " ' .</p>
+<p>SCENE FI I,</p>
+<p>&gt;.'■' MOOR.</p>
+<p><pb/></p>
+<p>62 LES VOLEURS,</p>
+<p>.ROLLER.</p>
+<p>MOOR.</p>
+<p>W R O t l E R.</p>
+<p>Ecoute donc, Moor, ce que je te dis.</p>
+<p><pb/></p>
+<p>TRAGÉDIE. cV</p>
+<p>M O O B,</p>
+<p>G R I M M.</p>
+<p>Ecoute donc, Moor, écoute, ta, fureurt'erripêche de rien entendre»</p>
+<p>M o o R.</p>
+<p>Fuis l loin de moi. Ton nom n'estil pas Hommes N'es-tupas né de la femme
+? — Ne souille pas mes regards, toi qui as un vifag'e d'homme ! — jfe</p>
+<p>faist£ «-~ Celui qui me diroit où il faut frapper</p>
+<p><pb/></p>
+<p>oy LES VOLEURS,</p>
+<p>pour briser, pour anéantir le germe de tous les hommes, — il seroit mon
+ami, mon Ange, mon Dieu.——Je veux .'adorer.</p>
+<p>R o L L B R.</p>
+<p>Eh bien, nous serons tes amis, laiíle-nous donc parler.</p>
+<p>G R I M M.</p>
+<p>Viens avec nous dans les forêts Bohémiennes, nous voulons y rassembler
+une bande de Voleurs, &amp; toi. • ». ( Moor le regarde fixement,)</p>
+<p>S C H f E I Z E R,</p>
+<p>Tu seras notre Capitaine 1II faut que tu sois notre Capitaine 1</p>
+<p>S P ì E G B L B B R G furieux, fi jette datis un fauteil.</p>
+<p>Esclaves &amp; lâches ! -</p>
+<p>M p o R,</p>
+<p>Tous'</p>
+<p><pb/></p>
+<p>TRAGEDIE. b*?</p>
+<p>MOOR.</p>
+<p>Tome XII. . %</p>
+<p><pb/></p>
+<p>66 LES VOLEURS, MOOR.</p>
+<p>Tous jettent leur chapeau en Vair,</p>
+<p>Nous sommes tous contens, ( Spiegelberg ris d'un vilain rire, )</p>
+<p>MOOR.</p>
+<p>SPIEGELBERG qui est resté fiùl.</p>
+<p>Tu n'y a pas mis la trahison.</p>
+<p>( ì ) By heav'n l'JI-imke a ghost os hiin that leui nié., » • P a r lè
+ciel, je sais un speílre de celui qui ofi -- &amp;c. '"" ' '■' HAMIET, Aélehri</p>
+<p>Fin du premier A fie, '</p>
+<p><pb/></p>
+<p>T R A G É D I E. *7</p>
+<p>A C TE lï.</p>
+<p>SCENE PREMIERE.</p>
+<p>FRANÇOIS DE MOOR pensif dans fa chambre,</p>
+<p><pb/></p>
+<p>6*8 LES V O LEURS,</p>
+<p><pb/></p>
+<p>V</p>
+<p>TRAGÉDIE. ©&gt;</p>
+<p>S C E N E I I. F RA N Ç O I S, H E R M A N N.</p>
+<p>F R A N ç o ì s d'un air décidé.</p>
+<p>ALLONS. ( Hermannentre. ) Ah 1 Deus ex ma* china! Hermann 1</p>
+<p>H B R MAN N.</p>
+<p>Pour vour servir, mon Gentilhomme.</p>
+<p>FRANÇOIS lui donnant la main,</p>
+<p>Tu n'óbJiges point un ingrat.</p>
+<p>H B R M A N N.</p>
+<p>J'en ai des preuves,</p>
+<p>HERMANN.</p>
+<p>J'écoute avec mille oreilles.</p>
+<p>FRANÇOIS.</p>
+<p>Je te connois. —• Un homme décidé 1 — Uns coeur de soldat'. — Mon Père
+t'a bien offensé , Hermann.</p>
+<p><pb/></p>
+<p>70 LES VOLEURS,</p>
+<p>HERMANN.</p>
+<p>Que le diable m'emporte, si je l'oublie !</p>
+<p>FRANÇOIS,</p>
+<p>HERMANN.</p>
+<p>J'est toujours mon plus ardent désir mon</p>
+<p>Gentilhomme ; je vous remercie.</p>
+<p>/</p>
+<p>F R A N Ç O I S.</p>
+<p>Vraiment, Hermann ? Defires-tu vraiment que je sois maître?—Mais mon
+Père a la moelle d'un lion, &amp; je fuis son fils cadet,</p>
+<p>HERMANN.</p>
+<p>Je voudrois bien que vous fûífìez Paîné, &amp;</p>
+<p>que votre Père eut le^sang appauvri d'un pulroonique.</p>
+<p>pulroonique.</p>
+<p>hFRANÇOIS.</p>
+<p><pb/></p>
+<p>TRAGEDIE. ' 71</p>
+<p>d'Edelreich</p>
+<p>HERMANN.</p>
+<p>Mille tonnerres, pourquoi faui-il que vous m'en</p>
+<p>fassiez souvenir ?</p>
+<p>FRANÇOIS,</p>
+<p>Mon frère te l'a soufflée.</p>
+<p>HERMANN, II le payera.</p>
+<p>F R A N ç o 1 s.</p>
+<p>Elle t'a donné un refus. Je crois même qu'il t'a jette en bas de
+l'esealier. '</p>
+<p>HERMANN.</p>
+<p>Pour m'en venger, je le jetterai dans Penser.</p>
+<p>FRANÇOIS.</p>
+<p>H B R M AN N furieux.;</p>
+<p>Par les éclairs , Forage &amp; le tonnerre ; arrêtez.^</p>
+<p>Eiv</p>
+<p><pb/></p>
+<p>7* LES VOLEURS,</p>
+<p>F A R N Ç O I S.</p>
+<p>II te conseilloit de vendre tes Lettres de noblesse pour faire
+raccommoder tes bas.</p>
+<p>HERMANN. Je lui arracherai les yeux avec ces ongles-là.</p>
+<p>HERMANN frappant des pieds.</p>
+<p>Je veux l'écrâser, — je Técrâserai sous mes pieds.</p>
+<p>FRANÇOIS lui frappant fur l'ipaule.</p>
+<p>H É R M A N N.</p>
+<p>Je ne resterai pas tranquille, que je ne le saisisse, que je ne le soûle
+ïous més pieds, t</p>
+<p><pb/></p>
+<p>&gt;0.T^Á^^Ê:^Ì;Ë. . ;; ; '; 7$</p>
+<p>FRAUÇOIS» ;</p>
+<p>Pas si orageux, Hermann, approche 1 Tu auras Amélie.</p>
+<p>H B R M A N N.</p>
+<p>Je l'aurai, en dépit de Lucifer, il faut que je l'aie!</p>
+<p>FRANÇOIS.</p>
+<p>Tu l'aurás, te dis-je, &amp; de ma main, —approche. —Tu ne fais pas,
+peut-être, que Charles est autant que déshérité.</p>
+<p>HERMANN s'approchant,</p>
+<p>FRANÇOIS.</p>
+<p>Sois calme, écoute, — tu en sauras une autre* fois davantage. Oui, te
+dis-je — depuis onze mois, il est comme exilé. Mais le vieillard se
+repent déja du pas trop précipité, que cependant, (ilsourit)
+je.Pespere.au moins, il n'a pas fait de lui-même^ Auflì la Edelreich le
+pourfuit-elle fans relâche par ses reproches &amp; par ses pleurs. Tôt ou
+tard, i| le fera chercher aux quatre coins du Globe, &amp; íi on le trouve,
+adieu Hermann, bon soir. Humblement tu pourras alors lui ouvrir la
+portière de son caroíïè, lorsqu'il ira au temple pour l'épouser.</p>
+<p><pb/></p>
+<p>7* L E S VOLE U R S,</p>
+<p>HERMANN,</p>
+<p>FRANÇOIS.</p>
+<p>Le Père bientôt lui cédera sa Comté, te vivra dans la solitude de son
+château. — — A présent cette tête superbe &amp; fougueuse se rit des
+haïsfiurSfâes envieux} —&amp; moi qui voulois te faire homme importante
+riche, moi-même, Hermann, je serai humblement prosterné devant
+l'orgueilleux.</p>
+<p>HERMANN avec chaleur.</p>
+<p>Non, aussi vrai que je m'appelle Hermann, cela ne sera pas. S'il reste
+encore une étincelle d'esprit sous ce front là, cela ne sera pas.</p>
+<p>FRANÇOI S.</p>
+<p>HERMANN décidé,</p>
+<p>Partez donc, que faut-il que je fasse ?</p>
+<p><pb/></p>
+<p>TR AGÉD ÏE. 7*</p>
+<p>FR A N ÇOJ S*</p>
+<p>H B R M A N N.</p>
+<p>Me croira-t'on ?</p>
+<p>FRANÇOIS.</p>
+<p>HERMANN.</p>
+<p>Et l'on dira alors t Vive le nouveau maître François de Moor.</p>
+<p>FRANÇOIS lui carreffant la joue, Tu es sin I — — Car, vois*tu &gt; comme cela,</p>
+<p><pb/></p>
+<p>7$ LES VOLEURS,</p>
+<p>HERMANN.</p>
+<p>Que dites «vous? ( Avec joie,) La bombe rentreroit plutôt dans son
+mortier. Comptez fur moi, Laiflez-moî faire, Adieu.—</p>
+<p>FRANÇOIS court, &amp; lui crie t</p>
+<p><pb/></p>
+<p>T R À G ÈPIË. 77</p>
+<p>S CE NE I IL</p>
+<p>LE COMTE WXO O K endormi, A M EL IE.</p>
+<p>AME LIE.</p>
+<p>Do t/c B MB NT — doucement—^il sommeille. (Elle s'arrêté devant le
+vieillard, ) Comme il est bon I respectable I —«—Voilàcomme on peint les
+Saints! Non, je ne puis me fâcher contre toi, bon vieillard 1 Je ne puis
+m'irriter contre ces augustes cheveux blancs. (Effeuìtletant sur te
+vieillard un bouquet de roses,) Sommeille dans le parfum des roses I
+—Que dans le parfum des roses, Charles t'apparoilîe dans tes songes} —</p>
+<p><pb/></p>
+<p>7&amp; LES VOLEUR S, éveille-toi dans le parfum des roses, — je veux aller
+m'endormir fous le romarin. ( Elle s'éloigne,)</p>
+<p>L s COMTE en songe.</p>
+<p>Mon Charles ! mon Charles I mon Charjes 1</p>
+<p>AMÉLIE s'arrête, &amp; revient lentement.</p>
+<p>LE C O M T B toujours en songe.</p>
+<p>•A M B L ì B s'élance, &amp; Vkveille en sursaut. Réveillez-vous, mon oncle,
+Ce n'étoit qu'un songe.</p>
+<p>LB Ç O M T B a demi-éveillt,</p>
+<p>II n'étoit pas là? Je ne pressois pas fa main ?</p>
+<p>Je ne respire pas le doux parfum (le ses roses ?</p>
+<p>songes?</p>
+<p>AMÉLIE recule,</p>
+<p>L'as-tu bien entendu, Amélie?</p>
+<p>LB COMTB./6 réveille, Où fuis-je donc ? Tu es lâ, toi, ma nièce ?</p>
+<p><pb/></p>
+<p>TRAGEDIE. #</p>
+<p>A M É L I E.</p>
+<p>Vous dormiez d'un sommeil digne d'envie.</p>
+<p>L B C O M T E.</p>
+<p>Je revois mon Charles. Pourquoi mon réVé a-t il été interrompu ?
+J'aurois peut-être obtenu mon pardon de fa bouche ?</p>
+<p>AMÉLIE îoúl enflammé. Des Anges ne conservent pas de haine. — U vous
+pardonne. (Pressant doucement sa main.) Pere/de Charles, je vous
+pardonne. L B C 0 M T E. Non ma fille. Cette pâleur mortelle fur tes
+joues, m'accuse encore, malgré ton coeur. Pauvre fille 1 J'ai flétri la
+joie de ta jeunesse. Ne pardonne point—seulement ne me maudis pas.</p>
+<p>A M R L IB.</p>
+<p>L'amour ne connoît qu'une seule malédiction. {Baisant ta main du
+vieillardavectendreffe.)hi\ voici. L B C O M T E qui s'est levé.</p>
+<p>Que trouvé-je donc là? Des roses, ma fille? Tu semés des roses fur
+l'assassin de ton Charles ? AMÉLIE.</p>
+<p><pb/></p>
+<p>«o LES VOLEURS,</p>
+<p>s •</p>
+<p>L E C O M T E.</p>
+<p>AMÉLIE fi précipitant vers le portrait,</p>
+<p>Charles 1</p>
+<p>LE COMTE*</p>
+<p>AMÉLIE.</p>
+<p>Oh, jamais je n'oublierai ce jour 1 —qui ne reviendra plus pour Amélie 1
+Comme il étoit assis devant moi, les rayons dorés du soleil couchant
+rehaufloient la fraîcheur de son teint mâle &amp; radieux, ses beaux cheveux
+noirs flottoient amoureusement, A tous les cpupii de pinceau, la jeune
+fille anéantissoit te Peintre JÏQ pinceau tomboit, &amp; mes lèvres
+tremblantes sovouroient ses traits avec ivresse. L'original, tout
+entier, s'enracinoit dans mon cçeur,— il ne</p>
+<p>tomboit</p>
+<p><pb/></p>
+<p>L E. C o M T B. Continue, continue. Tes images me rajeunie sent. O ma
+fille, votre amour me rendoit íi heu* reuxl</p>
+<p>AMÉLIE les yeux encore attachés fur le tableau. Non, hon, non, çe n'est
+pas lui 1 ce n'est pas Charles!—(Montrant fin front &amp; fin coeur,) C'est»
+là, c'est-là, — si refíemblant — &amp; si différent. Le pinceau ne peut rien
+retracer de son âme céleste qui se peignoit dans ses regards, — Loin de
+moi, cène sont que des traits communs, &amp; je netois.v,, qu'une écoliere.</p>
+<p>S C E NE I V, DANIEL, LES PRÉCÉDENS.</p>
+<p>D A) N I B L.</p>
+<p>L B C o M T B.</p>
+<p>II n'y a qu'une chose au monde importante pour moi, tu le fais,' Amélie.
+—Est-ce un malheureux Tome XII F</p>
+<p><pb/></p>
+<p>Ça L#S VOLEURS,</p>
+<p>qui a besoin de mes secours r\ II ne s'en retournera pas en soupirant. (
+Daniel sort. ) AMÉLIE. * Si c'est un Mendiant, qu'il monte tout de</p>
+<p>fuite.</p>
+<p>L B C o M T B.</p>
+<p>Amélie, Amélie, épargne ma vieillesse.</p>
+<p>SCENE V.</p>
+<p>FRANÇOIS, HERMANN déguisé, DANIEL, LES PRÉCÉDENS.</p>
+<p>F RA N Ç O I S.</p>
+<p>XJB voilà, cet homme» II a, dit-il, pour Vous d'affreuses nouvelles.
+Pouvez-vous les entendre?</p>
+<p>L 8 C o M T B.</p>
+<p>Je n'en crains qu'une. Approché, mon ami, parle fans détours, Donnez-lui
+du vin.</p>
+<p>H B R M A N K déguisant sa voix.</p>
+<p>Monseigneur, ne vous irritez pas contré un infortuné, s'il vous perçoit
+le coeur malgré lui. Je luis étranger, mais vous, je vous connois bien,
+vous étés le Père de Charles de Moor.</p>
+<p>L E C O M T B,</p>
+<p>. D'où fals-tu cela ?</p>
+<p><pb/></p>
+<p>: T R ÂGÉ D I E. 85</p>
+<p>*■&gt;-'■"' U ER MA NN.</p>
+<p>í'ài connu vôtre fils.</p>
+<p>A M Ê LIE sè levant précipitamment,</p>
+<p>II vit? lui? Tu le connois? Où est-iU où? où est-il ? ( E//e f eut
+sortir. )</p>
+<p>L B C 0 M T t,</p>
+<p>Tutòiitiois mon fils?</p>
+<p>f K 8 R M&gt; tí M.'"/./'</p>
+<p>Ne me regarde pas, Amélie.</p>
+<p>' H E R M AN'IÍ,</p>
+<p>On lui donna un drapeau. Ii suivit Mathias, toujours Vainqueur. Nous
+avons couché sous la même tente, U parla beaucoup de son vieux</p>
+<p>Fi)</p>
+<p><pb/></p>
+<p>84 L E S V O LEUR S,</p>
+<p>Père, de jours autrefois plus heureux — d'espérances évanouies — Les
+larmes nous en venoient aux yeux.</p>
+<p>LE COMTE cachant sa tête dans un couffin.</p>
+<p>Assez, aflez.</p>
+<p>HERMANN.</p>
+<p>Nous avons eu, huit-jours après, une chaude bataille.—Je puis vous
+assurer que votre fils s'y est conduit en brave guerrier. Il a fait des
+prodiges de valeur aux yeux de toute l'armée. Cinq régimens tour-à-tour
+relevés, &amp; il est resté» Une pluie de feu tomboit de tout côtés, &amp; votre
+fils est resté. Une balte lui avoit écrasé la main droite, il a pris le
+drapeau de la main gauche, &amp; il est resté,</p>
+<p>À M û L ì B dans Venthousiasme.</p>
+<p>Et ii est resté} mon Père, il est resté.</p>
+<p><pb/></p>
+<p>V ■&lt; TRAGÉDIE. 8;</p>
+<p>bien, s'est-il écrié, en retirant fa main gauche , que tout brave soldat
+suive, comme-moi, son Général, .&amp; bientôt il a exhalé sa grande âme.</p>
+<p>F R A • N ç o ì s s'approchant, comme un t furieux, de Hermann,</p>
+<p>A M É L ì B fi réveille comme d'un sommeil de mort. Amélie — &amp; son
+dernier soupir. L B \C.o.M T a avec des cris affreux.</p>
+<p>Ma malédiction t'a précipité dans la mort 1 dans le désespoir!</p>
+<p>HERMANN.</p>
+<p>Voici le glaive, &amp; aussi un portrait qu'il tira</p>
+<p>Fiij</p>
+<p><pb/></p>
+<p>$6 LES VOLEURS,</p>
+<p>FRANÇOIS faisant (étonné.</p>
+<p>A M É L ì B s'approche avec fureur de Hermann,</p>
+<p>Fourbe, lâche, &amp; vendu. (Elle le saisit rudement, )</p>
+<p>HERMANN.</p>
+<p>Par le ciel, Amélie, c'est le tien, C'est le tien, c'est vraiment le tien !</p>
+<p>AMÉLIE lui rendant le portrait, Le mien, le mien I oh ciel 1 ô terre 1</p>
+<p>LB COMTE fi déchire le visage, &amp; crie,</p>
+<p>Oh 1 oh I oh I Ma malédiction est la cause de fa mort 1 —- de son
+désespoir I</p>
+<p>FRANÇOIS. A iV.ure de la séparation éternelle, il a pensé</p>
+<p><pb/></p>
+<p>TRAGÉDIE. *7</p>
+<p>L B • G O M T B.</p>
+<p>C'est moi qui l'ai maudit, qui l'ai tué, qui l'ai fait ntourir désespéré I</p>
+<p>H fi R M A N N troublé &amp; vraiment ému.</p>
+<p>AMÉLIE courant après lui* Reste, reste» Quelle a été sa derniere parole ?</p>
+<p>HERMANN fi retournant, Amélie 1 — (U fort,)</p>
+<p>\ A M É L I B.</p>
+<p>Amélie?—Non, tu n'es point un fourbe, —Il est donc vrai ? ìt est vrai I
+qu'il est mort I—mort t — (Elle chancelle quelque temps, O presque
+évanouie, soupire en tombant \ ) Mortl-« Charles,</p>
+<p>est mort I</p>
+<p>FRANÇOIS»</p>
+<p>Flv</p>
+<p><pb/></p>
+<p>88 LES VOLEURS,</p>
+<p>À M É L I E.</p>
+<p>De son sang ?</p>
+<p>FRANÇOIS.</p>
+<p>Est*ce donc que je rêve? Vois donc ces caractères tracés avec du sang :
+François y n abandonne point Amélie. Vois donc, vois ! Et de l'autre
+côté! Amélie&gt; la tout-puissante Mort a brisé tes firmens. — Vois-tu à
+présent, vois-tu ? . II l'a écrit d'une main mourante, il l'a écrit avec
+le sang de son coeur, il l'a écrit sur le bord íolemnel de l'Éternité.</p>
+<p>AMÉLIE.</p>
+<p>Dieu saint, Dieu t c'est sa main. — II ne m'a jamais aimé. (Ellefort.)</p>
+<p>FRANÇOIS frappant du pied.</p>
+<p>Malédiction I tout mon art échoue contre cette tête de fer.</p>
+<p>L B C p M T B.</p>
+<p>. Malheureux vieillard !— Ne m'abandonne pas ma fille. — François,
+François, rends-moi mon filsl</p>
+<p>FRANÇOIS,</p>
+<p>. Qui lui a donné la malédiction ? Qui a précipité ton fils dans
+Thorreur des combats, dans la</p>
+<p><pb/></p>
+<p>TR AG Êp LE» fy</p>
+<p>mort, dans le désespoir? — Oh c'était un excellent jeune homme.-r
+Malédiction sur ses bourreaux,</p>
+<p>Malédiction, malédictionI Damnation 1 Malédiction fur le Père qui a
+assafliné son grand fils, C'est moi qu'il a aimé jusques dans la morts
+ppur me venger, il s'est précipité dans les combats &amp; dans la mort. Je
+fuis un monstre I un monstre 1</p>
+<p>FRANÇOIS.</p>
+<p>LE COMTE,</p>
+<p>fiís.</p>
+<p>FRANÇOIS.</p>
+<p>N'excitez pas ma fureur, Je vous abandonne dans la mort. —</p>
+<p>L B COMTE.</p>
+<p><pb/></p>
+<p>SCENE VI.</p>
+<p>LE COMTE DE MOOR/e«/.</p>
+<p>\gUE mille malédictions foudroyantes te poursuivent I tu as volé mon
+fils dans nies bras. — ( 11 tombe épuisi. ) Oh ! oh ! oh ! Désespéré, —
+&amp; ne point mourir. — Ils fuyent, ils m'abandonnent dans la mort,—mon bon
+Ange s'est enfui, ces Anges tutélaires s'éloignent de l'afïaslin aux
+cheveux blancs.—Oh ! oh ! oh ! Personne ne veutil, par pitié, soutenir
+ma tête , personne ne veut-il délivrer mon áme ? Point de fils I point
+de filles ! point d'amis 1 — Des Hommes 1 — Personne ne veut,... Seul I
+abandonné 1 desespéré, &amp; ne point mourir. (// soupire, &amp; s'évanouit, ) '</p>
+<p>AMÉLIE entre d'un pas silencieux, tapperçoit, &amp; jette un cri.'</p>
+<p>Mort, tout est mort. (Ellefort désespérées)</p>
+<p><pb/></p>
+<p>t&amp;ÂGÈVtm ©!</p>
+<p>S C E NE VIL</p>
+<p>Les Forêts de Bohême.</p>
+<p>RAZMANN arrive d'un côté, &amp; SPIEGELBERG d'un autre côté, avec une bande
+de vi VoleUrs, \ s RAZMANN.</p>
+<p>hois le bien venu, camarade de guerre, sois le bien venu dans les forêts
+de Bohême. ( Ils s'embrassent. ) Dans quel coin du monde la tempête
+t'avoit-elle jette ? D'où le vent t'amene-t-il, mon camarade?</p>
+<p>S P t B OB îiBÉSO,</p>
+<p>RAZMANN.</p>
+<p>Je le crois, je le crois* Tu as fait parler de toi dans les^Gazettes.
+Mais où diable as tu ra-</p>
+<p><pb/></p>
+<p>oâ LES r VQLEURS,</p>
+<p>massé tous ces bandits? — Grêle &amp; tempête, tu nous en amène un petit
+bataillon , tu es un excellent recruteur!</p>
+<p>SB I E O.B L B.E R G,</p>
+<p>RAZMANN rit.</p>
+<p>Àvec ces Messieurs-là, tu seras bien accueilli du Capitaine. — II a
+aussi déja engagé de braves gens.</p>
+<p>SPIEGELBERG avec humeur.</p>
+<p>Tais-toi donc, avec ton Capitaine, — &amp; les miens, en comparaison.— Pah!</p>
+<p>R A Z MAN N.</p>
+<p>Eh bien- oui ! Ils peuvent avoir des doigts fort exercés, —mais je te
+dis que la réputation; de notre Capitaine a déja tenté d'honnêtes gens.</p>
+<p>S P I E G E L BERG.</p>
+<p>Tant pis»</p>
+<p><pb/></p>
+<p>TRAGÉDIE; * p$</p>
+<p>S CENE VI ÏI.</p>
+<p>G R I M M accourt avec précipitation, LES PRÉCÉDENS.</p>
+<p>RAZMANN.</p>
+<p>G R I M M.</p>
+<p>RAZMANN.</p>
+<p>Quoi donc ? quoi donc ?</p>
+<p>G R I M M.</p>
+<p>Roller est pendu, &amp; quatre autres avec lui.</p>
+<p>RAZMANN.</p>
+<p>Roller? Quoi ? Depuis quand ? — D'où le faisítu?</p>
+<p>G R I M M.</p>
+<p>II y a trois semaines qu'il étoit au cachot, nous</p>
+<p><pb/></p>
+<p>Pi LES V OL È.URS, n'en savions rien. 11 a été interrogé trois fois, &amp;
+nous n'en savions rien* On lui a donné la question extraordinaire pour
+qu'il dénonçât son Capitaine. — Ce brave garçon n'a rien avoué : hier,
+on lui a lu fa sentence, &amp; ce matin, il est allé en poste rejoindre le
+diable.</p>
+<p>RAZMANN.</p>
+<p>Malédiction I Le Capitaine lesait-il ?</p>
+<p>G R I M M,</p>
+<p>II ne l'a su que.d'hier. II écume de rage comme Un sanglier. Tu sais
+qu'il a toujours fait le plus grand cas de Roller, &amp; la torture encore
+qu'on lui a fait souffrir !—Nous avons porté, pour le sauver de sa
+prison, échelles &amp; cordes j en vain. Même le Capitaine, déguisé en
+Capucin, est entré dans la prison , il a voulu changer avec lui
+d'habits, Roller a toujours refusé. A présent, le Capitaine a juré.,..
+Un serment qui nous a tous glacés d'effroi ! —R Je lui allumerai une
+torche funèbre fi effrayante, ». que jamais Roi n'aura eu de fi
+horribles funé»&gt; railles; je les brûlerai [tout vivans. » — J'ai peur
+pour la Ville. Depuis long-temps, il a une dent contre elle, parce qu'il
+y a trop tíe bigoterie, &amp; tu fais que lorsqu'il a dit t «Je veux le
+faire 1 &gt;» c'est comme fi nous autres , nous l'avions déja fait.</p>
+<p><pb/></p>
+<p>TRA G EPIE» $s</p>
+<p>R A Z M A N N.</p>
+<p>Mais, mon Dieu, ce pauvre Roller ! le pauvre Roiìer.</p>
+<p>SPIEGELBERG.</p>
+<p>SuiS'je auprès d'une potence ì Je ne ferme que l'ail droit,
+EtjedìSiPènds-ytoutfcul, te plus sot de nous deux, ce n'est pas moi,</p>
+<p>RAZMANN fi levant en sursaut.</p>
+<p>Paix 1 un coup de fusil ! ( On entend au loin un grand tumulte &amp; des
+coups de fusils de tout côtés.)</p>
+<p>S P I B G E L B K R G,</p>
+<p>Encore un autre 1</p>
+<p>R A Z MANN.</p>
+<p>Encore ! C'est le Capitaine. ( On entend chanter aulòin avec des
+transports de joie.)</p>
+<p>Les Nurembergeois ne pendent personne Avant de tes avoir pris,</p>
+<p><pb/></p>
+<p>o* L ÙS' VOLEURS,</p>
+<p>RAZMANN.</p>
+<p>C'est Roller, c'est Roller s que mille diables m'emportent !</p>
+<p>Les voix de SCHWEIZBR &amp; ROLLER.</p>
+<p>Razmann, Grimm , Spiegelberg, Razmann 1</p>
+<p>RAZMANN.</p>
+<p>Roller, Schweizer I Eclair, tonnerre, grêíe &amp; tempête 1 (Ils courent au
+devant d'eux,</p>
+<p>S C E N E I X, , .'. ,</p>
+<p>LB VOLEUR MOOR sautant de cheval,</p>
+<p>De par la sorge|Ì|^tdAÊty&lt;s.donc refluse cité de la Rolie ? /' ":&gt;r\</p>
+<p><pb/></p>
+<p>T RA G É D I E. 07</p>
+<p>S P I E G E L B E R G,</p>
+<p>Es-tuson ombre? Ou suis-je un imbécille? Es* tu Roller en chair &amp; en os?</p>
+<p>^R o L L E R ne pouvant respirer.</p>
+<p>C'est moi-même tout vivant, c'est Roller tout entier. D'où crois-tu que
+je vienne ?</p>
+<p>G R I M M»</p>
+<p>R o L L B R.</p>
+<p>Oui vraiment, il y avoit bien encore quelque chose de plus» Je viens
+tout droit du Gibet. Laisse-mol d'abord respirer. Schweizer te
+racontera...... Donnez-moi un verre d'eau-de-vie 1</p>
+<p>— O mon Capitaine ! Où est mon Capitaine ?</p>
+<p>RAZMANN*</p>
+<p>Tomd3l&amp;ïm*iï%\?£\ « •</p>
+<p><pb/></p>
+<p>\tf L ES VO L E U R S, ROLLER' avale un grand verre d'eau-de-vie.</p>
+<p>S c H w B ì ZE B.</p>
+<p>Ah c'est une farce vraiment comique. Nous apprenons la veille par nos
+espions que Roller en avoit jusques par-deíïus la tête, &amp; que íi le ciel
+ne se hâtoit de crouler, demain, — c'est-àdire, aujourd'hui, il seroit
+forcé de prendre la route universelle (i). Allons, dit le Capitaine, que
+ne risque pas un ami ! — Nous le sauverons, ou nous ne pourrons pas le
+sauver, ce que je promets bien, c'est que plus d'un avec lui seront le
+grand voyage* Toute la bande reçoit ses ordres. Nous lui dépêchons un
+courier qui lui fait</p>
+<p>(i) II y a dans le texte t Den weg allts fteisches gehtn tníijsen, faire
+le chemin de toute chairs Bible de Luther. Voyez auflì la derniere
+préface de la Bible grecque &amp; latine de Morin* Sed Gfegorio vlám
+univerfie carnis ingrefo* fcc, / ;,</p>
+<p><pb/></p>
+<p>TRAGÉDIE. SJ&gt;</p>
+<p>savoir nos projets, en lui jettant un petit papier</p>
+<p>dans fa soupe*</p>
+<p>R o L i E R.</p>
+<p>J'ai désespéré du succès 1</p>
+<p>S c H w El ZE R.</p>
+<p>déGij</p>
+<p><pb/></p>
+<p>IOO LES VOLEURS,</p>
+<p>taché, &amp; que l'enfer en étoit baissé de dix mille toises.</p>
+<p>R o L L E B.</p>
+<p>RAZMANN.</p>
+<p><pb/></p>
+<p>TRAGEDIE, iojì</p>
+<p>' ; Rot L E R.</p>
+<p>— &amp; par-deísus tout, les démons que j'cntendois déja se réjouir de mon
+arrivée. — Non , pour tous les trésors de Mammon, je ne voudrois pas y
+passer une seconde fois. Mourir est quelque chose de plus qu'une
+cabriole d'Arlequin, &amp; les angoisses de la mort sont plus affreuses que
+la mort.</p>
+<p>S PI B G E L B E R C?,</p>
+<p>Gli. uj</p>
+<p><pb/></p>
+<p>i02 LES VOLEURS,</p>
+<p>SCHWEIZER.</p>
+<p>Si la Ville se faisoit une fête de voir dépecer notre camarade comme un
+cochon engraiíïé, pourquoi diable nous ferions-nous un scrupule de tuer
+la Ville pour sauver notre camarade ? Ne sí is tu pas, Shufterle,
+combien il y a eu de morts?</p>
+<p>S C H U B T E R L B.</p>
+<p>On dit quatre-vingt-trois. La tour déja en a écrasé soixante.</p>
+<p>LE V. MOOR d'un grand sérieux, Roller, tu as coûté cher.</p>
+<p>SCHUFTERLE.</p>
+<p><pb/></p>
+<p>TRAGEDIE, 103</p>
+<p>L E V. MOOR,</p>
+<p>Òh les pauvres malheureux! Des vieillards, dis-tu, &amp; des enfans ?</p>
+<p>S C H U F T E R L E,</p>
+<p>Oui, par le diable. Et des malades, des femmes en couche, ou prêtes
+d'accoucher. En passant par hasard près une de ces baraques, j'entends
+des lamentations} j'y jette les yeux, &amp; je vois que c'étoit un enfant
+par terre, sous la table, où le feu alloit prendre,*—Pauvre petit, ai-je
+dit, tu meurs ici de froid, va te chausser, &amp; je l'ai jette dans le feu.</p>
+<p>LE V. MOOR.</p>
+<p>Giv</p>
+<p><pb/></p>
+<p>104 LES V O L E URS,</p>
+<p>&amp; faire une reviie qui vous fera frémir. (Ils sortent en tremblant )</p>
+<p>SCENE X,</p>
+<p>LE VOLEUR MOOR seul,fi promené avec agitation,</p>
+<p><pb/></p>
+<p>TRAGEDIE. iof</p>
+<p>SCENE XI,</p>
+<p>ROLLER, LE VOLEUR MOOR.</p>
+<p>ROLLER hors d'haleine,</p>
+<p>S C E N E XII. GRIMM, LES PRÉCÉDENS.</p>
+<p>\ G R I M M.</p>
+<p>CAPITAINE, Capitaine, ils ont découvert nos* traces; quelque mille de
+soldats cernent le milieu de la forêt,</p>
+<p><pb/></p>
+<p>loó* LES VO L EU R S,</p>
+<p>S C E N E, XIII.</p>
+<p>SPIEGELBERG, LES PRÉCÉDENS.</p>
+<p>SPIEGELBERG.</p>
+<p>AH, mon Dieu, mon Dieu, mon Dieu, nous sommes pris, rompus, écartelés,
+des milliers de huííards, de dragons, de chasseurs s'avancent au galop
+vers les hauteurs, &amp; tous nos passages sont assiégés, (Le Voleur Moor
+fort,)</p>
+<p>SCENE XIV.</p>
+<p>SCHWEIZER, RAZMANN, SCHUFTERLE, bande de Voleurs entrant de tous
+côte}s;&amp;hMS PRÉCÉDENS, ROLLER,</p>
+<p>* GRIMM &amp; SPIEGELBERG.</p>
+<p>' S C H V Ê I Z E K. v</p>
+<p>Jr&amp;H, nous les avons donc arrachés [de leurs lits? Réjouis-toi donc,
+Roller? II y a long-temps que j'ai souhaité de me battre avec des
+cavaliersdepain-de munition. — Où est le Capitaine? Toute la bande
+est-el!e raflemblée ? Nous ne manquons pas de poudre, j'efpere?</p>
+<p><pb/></p>
+<p>TRAGÉDIE. 107</p>
+<p>R ptiiB R, .</p>
+<p>S c H w El z E R»</p>
+<p>Tant mieux. Ils risquent leur vie pour dix krewpr} &amp; nous, ne
+combattons-nous pas pour la vie &amp; pour la liberté? — Nous tomberons fur
+eux comme le déluge , nous les frapperons comme la foudre. — Où diable
+est donc le Ça» pitaine?</p>
+<p>S P I B G EL BER G.</p>
+<p>II nous abandonne dans ce besoin. N'y a-t-il donc plus moyen de leur
+échapper ? S c H y E 1 z B R.</p>
+<p>R A z M A N N.</p>
+<p>Le Capitaine ! le Capitaine !</p>
+<p><pb/></p>
+<p>io8 LES VOLEURS,</p>
+<p>SCENE 'XV. '</p>
+<p>LE VOLEUR MOOR entre lentement, LES PRÉCÉDENS.</p>
+<p>S C H \T B I Z B B.</p>
+<p>Ha! je leur ouvrirai le ventre avec mon couteau de chasse. Conduis-nous
+fur eux, Capitaine ! Nous te suivrons jusques dans la gueule de la mort,</p>
+<p>L E V. M o o R.</p>
+<p>Chargez tous les fuíils, Vous avez aíïez de poudre? v</p>
+<p>SCHWEIZER se levé en sursaut,</p>
+<p>R A Z M A N N.</p>
+<p><pb/></p>
+<p>TRAGÉDIE. top</p>
+<p>L B V. M o o B,</p>
+<p>A merveille'; une partie de la bande montera sur les arbres, ou se
+cachera dans les taillis, &amp; sera feu fur eux en embuscade,</p>
+<p>S c H w E ì z B R.</p>
+<p>L E V. M o o R, .</p>
+<p>Nous autres, comme des Furies, tombons fur eux, en flanc.</p>
+<p>S c H V B ì z B R.</p>
+<p>J'en fuis, moi.</p>
+<p>L E V. M o O*R\</p>
+<p>II faut en même temps que chacun de nous fasse retentir son siflet, &amp;
+galoppe dans la forêt, pour que notre nombre en devienne plus terrible.
+Détachez jfous nos chiens, qu'on les irrite, &amp; qu'ils s'élancent dans
+leurs rangs, qu'ils y jettent le désordre, « les fassent tomber sous
+votre feu. Roller, Schweizer &amp; moi, nous trois , nous combattrons où
+l'ennemi sera le plus fort.</p>
+<p><pb/></p>
+<p>íio LES V0 L EURS,</p>
+<p>SCENE XVI. UN COMMISSAIRE, LES PRÉCÉDENS.</p>
+<p>G R I M M.</p>
+<p>HA ! voici déja un chien de la Justice qui s'avance.</p>
+<p>SCHWEIZER.</p>
+<p>Tuez-le tout de fuite, &amp; qu'il ne parle pas*</p>
+<p>L B V. M o o R.</p>
+<p>Paix ! Je veux l'entendre.</p>
+<p>LE COMMISSAIRE,</p>
+<p>Avec votre permission , Messieurs, Je fuis chargé de toute la puiflance
+de la Justice, &amp; là, aux environs, huit cents soldats veillent fur tous
+les cheveux de ma tête*</p>
+<p>S c H v E ì z E R. .v</p>
+<p>Une clause touchante pour se conserver chez nous l'estomach chaud. .</p>
+<p>LE V. Mo OR.</p>
+<p>Tais-toi, camarade, Parlez, &amp; en peu de mots, Monsieur. Qu'y a-t-il pour
+vous servir ?</p>
+<p><pb/></p>
+<p>TRAGÉDIE. m</p>
+<p>LB COMMISSAIRE.</p>
+<p>LE V. MOOR appuyé sur son épée.</p>
+<p>Par exemple»...</p>
+<p>LE COMMISSAIRE.</p>
+<p>L E V. M o ó R.</p>
+<p>C'est un chef-d'oeuvre d'éloquence jusqu'ici; mais au fait. Que me veut
+apprendre par vous le très-refpectable Magistrat ?</p>
+<p><pb/></p>
+<p>'M LES VOLEURS,</p>
+<p>LB COMMISSAIRE.</p>
+<p>LE VI MOOR.</p>
+<p>L'entendez-vous, Schweizer &amp; Roller?—— Mais continuez.</p>
+<p>LB COMMISSAIRE* Ecoute donc avec quelle bonté, avec quelle patience les
+Juges te traitent, scélérat. Si tout de fuite tu te soumets, si tu
+implores ta grâce &amp; la modération des peines, alors la sévérité même
+sera miséricorde, la Justice ne sera plus qu'une Mère aimante, — elle
+fermera les yeux fur la moitié de tes crimes, &amp; S'EN TIENDRA,— penses-y
+bien, — AU SUPPLICE DE LA ROUE*</p>
+<p>SCHWEIZER,</p>
+<p>( ì ) II y a dans le texte : Der rothe Sast aus allen</p>
+<p>ROLLER</p>
+<p><pb/></p>
+<p>T R. À G E D I E. nj</p>
+<p>ROLLER.</p>
+<p>Capitaine ! — Ouragan 1 Tempête &amp; enfer 1 — Capitaine! T-Comme il mord
+sa lèvre inférieure! Faut-il que je dresse ce drôle, la tête en bas,
+comme une quille?</p>
+<p>LE V. MOOR.</p>
+<p>préschwelsslachem Pour que le jus rouge forte par tous ses pores</p>
+<p>Tome XII, H</p>
+<p><pb/></p>
+<p>ii4 LES VOLEURS,</p>
+<p>LE COMMISSAIRE.</p>
+<p>Se peut il qu'un scélérat soit encore siffler!</p>
+<p>LE V. M O O B.</p>
+<p><pb/></p>
+<p>T R A G E D I E. íi;</p>
+<p>dos avec mépris.)</p>
+<p>i</p>
+<p>L E C O M M I S S A I R E.</p>
+<p>L'entendez-vous aussi ? l'entendez»vous? PourHij</p>
+<p>PourHij</p>
+<p><pb/></p>
+<p>u6 L ES V O LEURS,</p>
+<p>quoi.Vous étonner? pourquoi rester là, embarassés ? La Justice vous
+offre la liberté, &amp; déja vous êtes réellement ses prisonniers, -—Elle
+vous fait grâce de la vie, &amp; ce n'est point unefanfaronade,car, fur ma
+foi, vous êtes jugés.—Elle promet honneurs &amp; charges, &amp; quel peut être
+votre partage, quand vous seriez Vainqueurs , que malédiction, ignominie
+&amp; persécutions* Elle vous reconcilie avec le ciel, &amp; vous êtes vraiment
+damnés. Vous tous, vous n'avez pas un cheveu qui n'entre dans les
+enfers. Ré fléchi fiezvous encore? Choisiflez • vous encore? Est-il si
+pénible de choisir entre le ciel &amp; í'enser ? Aidezmoi donc, Monsieur.</p>
+<p>L B C O M M I S S A I R E*</p>
+<p>Comment s'appelle ce démon qui pàrle pat fa bouche ?</p>
+<p>LE V. MOOR.</p>
+<p><pb/></p>
+<p>-î' TRAGÉDIE. 117</p>
+<p>ayoir? *~&gt; Oh ne le croyez pas 1 Vous n'êtes pas Moor. — Vous êtes de
+malheureux bandits, misérables instrumens de mes grands desseins,
+méprisables comme la corde entre les mains du Bourreau, — Des Voleurs ne
+peuvent pas tomber comme tombent les Héros. — Les Voleurs ont droit,de
+trembler quand la mort s'approche, Entendez-vous les trompettes qui
+retentissent dans ces forêts ! Voyez les éclairs sinistres de leurs
+sabres menaçans I Comment ? encore irrésolus ? Avez-vous perdu* toute
+raison ? Êtes-vous en délire? —Je ne vous remercie point pour ma vie, &amp;
+j'ai honte de votre sacrifice, ( On entend au.loin le fin des instrumens
+guerriers, )</p>
+<p>LE COMMISSAIRE étonné.</p>
+<p>Je perds la raison, &amp; je m'enfuis, A t-on jamais rien entendu de
+semblable ?</p>
+<p>L B V. M 0 0 R*</p>
+<p>Hiij</p>
+<p><pb/></p>
+<p>1Ï8 LES VOLEURS,</p>
+<p>— Quel est le premier qui abandonne son Capitaine dans le besoin?</p>
+<p>. R ô L IB R, avec un geste féroce.</p>
+<p>Et quand l'enfer nous auroit entourés neuf fois, (U brandit son sabre
+autour de sa tête.) qui n'est pas un chien enragé, qu'il fauve son
+Capitaine l</p>
+<p>S c H vtr s ì z B R déchire le pardon, 0 jette les morceaux au ne% du
+Commissaire.</p>
+<p>La grâce est dans nos balles ! Décampe, canaille. Dis au Magistrat qui
+t'envoie, que dans la Bande de Moor, tu n'as pas trouvé un traître*</p>
+<p>— Va-t'en. — Sauvez le Capitaine I sauvez le Capitaine 1</p>
+<p>TOUS, avec de grands cris, v</p>
+<p>Sauvez, sauvez, sauvez le Capitaine 1</p>
+<p>LE V. MOOR détachant fa main avec force &amp; avec des transports de joie.</p>
+<p><pb/></p>
+<p>TR^AOÉDIE, *i*</p>
+<p>Fin du second A fie.</p>
+<p>H iv</p>
+<p><pb/></p>
+<p>120 LE S V OLE U R S,</p>
+<p>wrSL t/ JU &amp;U JL JL Jto</p>
+<p>AMÉLIE pensive dans un jardin, FRANÇOIS arrive, Us font tous deux en
+grand deuil.</p>
+<p>FRANÇOIS.-</p>
+<p>leur joie.</p>
+<p>AMÉLIE.</p>
+<p>Troublé leur joie? Les chants .funèbres qui ont accompagné ton Père au
+tombeau doivent retentir encore dans ton oreille. ( I )</p>
+<p>(î) Hamlet, dans un monologue (scène ive, acte 1". ) apostrophe fa mère,
+qui a osé prendre un nouvel époux :</p>
+<p>E'er thoseshoes were old with which she'follow'd my poor father's body,
+&amp;c. V</p>
+<p>« Avant même d'avoir use'ces souliers, qui ont suivi » le corps de mon
+pauvre Père * &amp;c. »</p>
+<p>Hamlet dit â Horatio*. dans une autre scène : The funcral bak'd méats
+did coldly furnhh forth the matriage. tables.</p>
+<p>* Les mets funèbres, servis aux noces, n'étoient » pas refroidis, &amp;c. »</p>
+<p><pb/></p>
+<p>T R A G ÈD I E. 12*</p>
+<p>F R A NÇ O I S,</p>
+<p>Veux-tu donc éternellement larmoyer? Laisse</p>
+<p>les morts dormir, &amp; rend les vivans heureux. Je</p>
+<p>viens. • ...</p>
+<p>A M'J§ L ì E.</p>
+<p>\ Quand t'en iras-tu?</p>
+<p>FRANÇOIS,</p>
+<p>Oh, que cette fierté sombre n'obscurcisse point</p>
+<p>tes regards 1 Tu m'affliges, Amélie. Je viens te</p>
+<p>dire*....</p>
+<p>AMÉLIE,</p>
+<p>II faut bien que j'entende, François de Moor est aujourd'hui souverain
+maître,</p>
+<p>FRANC o ì s.</p>
+<p>A M É L ì E. Jamais, jamais, Je ne fuis pas assez peu sensible pour
+écarter un si doux souvenir par des idées de fêtes &amp; de festins*</p>
+<p><pb/></p>
+<p>i*2 LES VO LEURS,</p>
+<p>FRANÇOIS.</p>
+<p>AMÉLIE.</p>
+<p>Pourquoi la foudre ne fend-elle pas la scélérate langue qui a prononcé
+ces horreurs» Tu as assassiné mon amant, &amp; tu pourrois espérer d'être
+mon époux? Tu</p>
+<p><pb/></p>
+<p>T R AGE D I E. 125</p>
+<p>A M EL l'B. '</p>
+<p>FRANÇOIS,</p>
+<p>Tu rie le feras pas. Je fais encore plier l'orgueil opiniâtre, — Un
+cloître &amp; des murs,</p>
+<p>AMÉLIE.</p>
+<p>...-..".* FRANÇOIS. Ha 1 ha I C'est cela ? —Prends garde. Tu viens de
+m'enscigner, l'art de te désespérer. Ma tête hé* rissée de serpens &amp; de
+flammes, comme une furie, armé de fouets vengeurs, chaflera ton Charles
+de ta pensée. Comme un dragon enchanté, couché sur un trésor, lWriblè
+image de François sera toujours entre toi &amp; le souvenir de ton
+Bien-aimé. — Par les cheveux, tu seras traînée aux autels, je lèverai,
+fur toi mon poignard, &amp; de ton âme épouvantée, je ferai sortir le
+serment nuptial.</p>
+<p>A M É L 1 B lui donne un soufflet. Prends d'abord ceci pour dot.</p>
+<p><pb/></p>
+<p>í2f L ES V O L EUR S,</p>
+<p>FRANÇOIS s'irrite.</p>
+<p>Pardonne-moi, François. ( Lorsqu'il veut tem* brasser, elle lui arrache
+son épée (r s'éloigne avec au* . dace*) Vois-tu, scélérat, ce qu'à
+présent je pourrois faire de toi ? — Je fuis femme ; mais une femme dans
+fa fureur.—Ose donc; &amp; ce fer.... &amp;la main de mon oncle conduira la
+mienne pour l'enfoncer dans ton sein. Fuis fur le champ. ( Elle te chaffe.)</p>
+<p>(t) II y a dans le texte t Speie feuer und Mord aus den Àugen, CRAC n G
+feu &amp; meurtre PAR. LES YEUX*</p>
+<p><pb/></p>
+<p>TRAGEDIE. i2St</p>
+<p>A M É LIE seul. J</p>
+<p>SCENE II.</p>
+<p>LES ENVIRONS DU DANUBE.</p>
+<p>LES VOLEURS campés fur une hauteur fous des arbres y tes chevaux
+paissent fur le penchant de la COLLINE,</p>
+<p>L B VOLEUR MOOR.</p>
+<p><pb/></p>
+<p>las L%Si VOLEURS,</p>
+<p>G R I M M.</p>
+<p>Et il y a long«temps qu'il n'y a plus de vin dans nos outres. — Comme le
+soleil se couche là-bas majestueusement.</p>
+<p>LE V» M o o R perdu dans ta contempla* tion du soleil couchant,</p>
+<p>C'est ainsi qu'un héros meurt, digne d'adorations 1</p>
+<p>G R I M M.</p>
+<p>Tu parois bien ému.</p>
+<p>L B V. M o o R.</p>
+<p>Dans ma jeunesse, — c'étoit ma pensée favo•</p>
+<p>favo• de vivre comme lui,' ( regardant toujours te</p>
+<p>soleil couchant) de mourir comme lui. ( Voulant</p>
+<p>étouffer sa douleur, ) C'étoit une pensée de jeune</p>
+<p>homme. v</p>
+<p>G R I M M.</p>
+<p>Je le crois.</p>
+<p>L B V. MOOR abaissant son chapeau fur fis yeux,</p>
+<p>II fut un temps, *,, Laissez*mol seul, mes camarades*</p>
+<p><pb/></p>
+<p>f R À G È t) I E. 107</p>
+<p>GAI MM.</p>
+<p>Moor! Moorî Que diantre a-t-il? Comme il change de couleur I</p>
+<p>RAZMANN.</p>
+<p>O tous lés diables ! Qu'a-t-il donc ? Se trouvet-il mal ?</p>
+<p>LE V. M oo R* %</p>
+<p>II fut un temps où je ne pouvois dormir quand j'avois oublié ma prière
+avant de me coucher.</p>
+<p>G R ì M M.</p>
+<p>Es-tu en délire ? Veux-tu revivre (ì) tes années de jeunesse ?</p>
+<p>L B V. MOOR posant sa tête sur la poitrine de Grimm,</p>
+<p>Camarade, camarade!</p>
+<p>GRIMM.</p>
+<p>Allons donc 1 Ne sois donc pas un enfant, je</p>
+<p>t'en prie.</p>
+<p>L B V. M o o R.</p>
+<p>Ah, si je l'étois 1 —Si je le redevenois encore!</p>
+<p>(i) Hofmeistern.. Veux-tu te laisser gouverner, comme par un Précepteur,
+partes années de jeunesse ì</p>
+<p><pb/></p>
+<p>128 LES VO LEURS,</p>
+<p>GRIMM.</p>
+<p>Fi donc, fi donc. Ranime-toi, Moor. Regarde ce paysage pittoresque —
+cette belle soirée —</p>
+<p>L B V, M 0 0 B.</p>
+<p>Oui, mes amis, ce monde est íi beau.,,,</p>
+<p>GRIMM, Eh bien, cela s'appelle parler.</p>
+<p>L B V. M o o B. Cette terre, si magnifique.... .</p>
+<p>GRIMM.' \</p>
+<p>Bien, trcs-bien —j'aime cela, au moins.</p>
+<p>L E V. M o o R.</p>
+<p>Et moi si assreux, dans ce beau monde I — Et moi, un monstre fur cette
+terre magnifique 1 (11 tombe en arriére, ) L'enfant prodigue I</p>
+<p>GRIMM avec attendrissement,</p>
+<p>Moor ! Moor 1 ^</p>
+<p>L B V. M o o R.</p>
+<p>Mon innocence I mon innocence 1 — Voyez, tout est sorti pour se
+réchausser au doux rayons du. printemps. — Pourquoi faut-il que dans cet
+air si pur, si frais pour eux, je respire tous les</p>
+<p>feux</p>
+<p><pb/></p>
+<p>TR A G ÊDÏE, tap</p>
+<p>feuxde l'enfer.(i)—Lorsque tout estíiheureux!—• Quand la bienfaisante
+paix les a tous réunis. — Le 'monde entier une famille, &amp; un Père
+là-haut —•qui n'est pas mon Père!— Moi seul exclus, l'enfant prodigue !
+— Moi íeul rejette du partage des élus — (Se reculant avec fureur,)
+Entouré d'aflaflîns,—de reptiles impurs—«attaché au crime avec des
+chaînes de fer. —</p>
+<p>larme !</p>
+<p>G R i M M aux autres*</p>
+<p>Un peu de patience , la crise commence déja à</p>
+<p>diminuer.</p>
+<p>( t ) Warum ich allein die Hoelle faugen au; deti Freuden dés Himmeîsf
+Pourquois tt-il que moi seul je suce Tenfer daní les joies du ciel*</p>
+<p>Tome XII* I</p>
+<p><pb/></p>
+<p>130 L ES VOLEURS,</p>
+<p>LB V. MOOR,</p>
+<p>II fut un temps où elles couloient fì volontiers! — O jours de la paix!—
+ô château de mon Père, — ô belle verdure, ô vallées, faites pour
+l'enthousiasme ! Scènes célestes de mon enfance! —Ne reviendrez-vous
+jamais ?—Ne rafraîchirezVous jamais mon sein brûlant, par un foufle
+délicieux?— Nature, porte avec moi le deuil ! Elles ne reviendront
+jamais ; elles ne rafraîchiront ja* mais mon sein de leur foufle
+bienfaisant, elles font pafíées, passées ! — pour toujours !</p>
+<p>SCENE III.</p>
+<p>LES PRÉCÉDENS, SCHWEIZER, avec son chapeau plein d'eau*</p>
+<p>S c H w E i z E R#</p>
+<p>ílois, Capitaine. Voici assez d'eau; fraîche comme la glace,</p>
+<p>G il I M M.</p>
+<p>Tu saignes. QuVs-tu donc fait? S c H'v B I ZE R. Une
+plaifanterieVinibécille, qui a manqué me</p>
+<p><pb/></p>
+<p>.' TiVAG ÉDIÈ; JJ*</p>
+<p>LE V. M o o R lui rend U chapeau, &amp; lui essuie le visage*</p>
+<p>On ne verroit pas les découpures que les Cavaliers bohémiens ont fait
+fur ton front, — Ton eau étoit bonne, Schweizer, — Ces coups de sabre te
+vont bien»</p>
+<p>S C R f El ZEB,</p>
+<p>Bah ! — II y a encore de la place pour trent* autres. ' • '-</p>
+<p>L E V. M o o R,</p>
+<p>Oui,mes enfans, — c'étoit une chaude journée $ — &amp; qu'un ami de perdu. —
+Mon Roller est mort d'une belle mort. Où il est tombé, on lui auroic
+élevé un monument éternel, s'il n'e'toit pas mort pour moi,
+Contentez-vous de çà, ( II essuie une larme en soupirant,) Vous
+rappeliez-vous combien d'ennemis, font restés fur la place?</p>
+<p>ni</p>
+<p><pb/></p>
+<p>jja LES VOLEURS,</p>
+<p>S C H W B I 25 B R* ì</p>
+<p>Soixinte hussards, — quatre-vingt-treize dragons , près de quarante
+chasseurs,—en tout, deux</p>
+<p>cents.</p>
+<p>Ls V. M o o R,</p>
+<p>Deux cents pour.un ! -—Chacun de vous a des droits far cette tête! (
+Otant son chapeau &amp; mettant son poignard sus son front.) Je levé mon
+poignatd, &amp; aussi vrai que j'ai une âme ! je ne vous abandonnerai jamais,</p>
+<p>S c H y K i z E R.</p>
+<p>Ne jure pas ! Tu ne fais pas (i un jour tu devenois heureux, le repentir
+peut-être,.,.</p>
+<p>LE V. M o o R.</p>
+<p>Par les restes de mon Roller, je ne vous abandonnerai jamais I</p>
+<p><pb/></p>
+<p>TRAGEDIE. 133</p>
+<p>S CE NE IF. -</p>
+<p>KOSINSKY, LES PRÉCÉDENS.</p>
+<p>JUANS ces environs, ont-ils dit, je le rencontrerai,—hé ! holla! Quels
+font ces visages? — Seroit-ce? —Comment, fi ceux-là,... Ce sont
+eux-mêmes I — Je vais leur parler.</p>
+<p>G R I M M,</p>
+<p>K O S I N S K Y,</p>
+<p>: • 4</p>
+<p>Excusez, Meilleurs. Je ne fais encore fi je m'a* dresse bien ou mal ?</p>
+<p>LE V. M o o R.</p>
+<p>Et qui faut-il que nous soyons pour être ce que vous cherchez?</p>
+<p>Ko s 1 N s K Y. Des HOMMES*</p>
+<p>S C H W E I Z B R.</p>
+<p>Est-ce que nous l'aurions prouvé, Capitaine? » I iij</p>
+<p><pb/></p>
+<p>â34 LES VOLEURS,</p>
+<p>, K O S I N S KY»</p>
+<p>Je cherche des hommes qui regardent la more en face , &amp; qui laissent
+jouer autour d'eux le danger, comme un serpent apprivoisé; qui prisent
+plus la liberté que la vie, que l'honneur ; dont le nom seul console le
+pauvre &amp; l'opprimé, rend les plus courageux lâches, &amp; faste pâlir les
+tyrans.</p>
+<p>SCHWEIZERÍJ» Capitaine*</p>
+<p>J'aime ce garçon-là,-** Ecoute, bon ami, tu as trouvé tes gens.</p>
+<p>K O S I N S K Y.</p>
+<p>Je le pense, &amp; j'espère bientôt, mes frères. •—Vous pourriez m'indiquer
+mon homme, car je cherche votre Capitaine, lé grand Comte de Moor.</p>
+<p>S c H w EI z B R lui donne la main avec s chaleur*</p>
+<p>Cher enfant, nous sommes camarades,</p>
+<p>LE V. M o o R s*approchant.</p>
+<p>Connoîtriez-vous le Capitaine ?</p>
+<p>ROSINSKY,</p>
+<p>C'est toi — dans ces traits,, M , Qui peut te</p>
+<p><pb/></p>
+<p>T R A G ÉDÏE. 13;</p>
+<p>S c H w K 1 z E R. Le bandit !</p>
+<p>L B Vé Mo OR,</p>
+<p>Et qui vous^amene vers moi ?</p>
+<p>K o s 1 N s K Y.</p>
+<p>LE V, Mo OR,</p>
+<p>En voici encore un rejette par le ciel 1 — Con*</p>
+<p>tinuez.</p>
+<p>K o s 1 N s K y.</p>
+<p>Je me fuis fait soldat. Le malJieur m'a persécuté jusques dans cet
+état,—Je partois pour les Indes, &amp; mdh bâtiment s'est brisé contre des</p>
+<p>(1) Marîus,</p>
+<p>Iiv '.</p>
+<p><pb/></p>
+<p>13$ h ES V O LEURS,</p>
+<p>rochers i ritn que des plans manqués, — Enfin j'ai entendu se répandre
+I* bruit de tes exploits, ou aíTaisinats, comme ils les appellent, cV
+j'ai fait un voyage de cent quarante mille dans l'inébranlable deflein
+de t'oftrir mes services, fi tu daignes les agréer, — Je t'en conjure ,
+digne Capitaine» ne les refuse pas.</p>
+<p>SCHWBIZER faisane une gambade*</p>
+<p>L B V. M o o R.</p>
+<p>Ton nom?</p>
+<p>K o s i N s K Y. Kosinsky,</p>
+<p>L B V. M o o R.</p>
+<p>KOSINSKY.</p>
+<p>Je fais ce que tu veux dire. J'ai vingt-quatre ans, mais j'ai vu des
+épées étinceler, &amp; j'ai entendu fifler les balles.</p>
+<p><pb/></p>
+<p>TRA GED IE. 137</p>
+<p>L B V. M o o R.</p>
+<p>S c H w B 1 z E R.</p>
+<p>LE V. M o o R,</p>
+<p>Parce que tes fredaines n'ont pas réussi au gré de tes désirs, tu viens
+trouver un aíïassin, &amp; tu veux devenir un aíïassin ? — Assassin I —
+Jeune homme, entends tu ce mot là? Tu t'es couché trapquillement après
+avoir coupé des têtes de pavots, mais porter un meurtre fur son âme...,</p>
+<p>KOSINSKY,</p>
+<p>Je répondrai sur mon âme de tous les meurtres dont tu m'auras chargé.</p>
+<p>( i ) Cet anachronisme seroit impardonnable, si l'on avoit jamais toit
+de louer un grand homme.</p>
+<p><pb/></p>
+<p>Ij* LES VOLEURS,</p>
+<p>L B Vé M 0 0 R,</p>
+<p>Comment? tu as tant d'esprit ? Veux-tu prendre un homme par la
+flatterie. D'ou fais tu que je ne fais pas de mauvais rêves, &amp; que je ne
+pâlirai point fur mon lit de mort ? Combien as*tu déja fait de choses
+avec cette idée : // faut que sen rends compte,</p>
+<p>v K O S I N s k Y.</p>
+<p>. Ma foi, bien peu jusqu'ici ; cependant je puis te citer mon voyage
+vers toi, noble Comte.</p>
+<p>L B V. M ó o R.</p>
+<p>Ton Gouverneur, fans faire semblant de rien, t'auroit-il fait lire la
+vie de Robin, ( On devroit envoyer aux galères cette ignorante canaille.
+) qui a fans doute échauffe ton imagination d'enfant, &amp; allumé en toi la
+folle envie d'être un grand homme? Ës-tu insatiable de gloire &amp;
+d'honneur? Veux tu acheter Pimmortalité par des assassinats ? Pense,
+jeune ambitieux, que jamais lauriers ne verdissent pour des aflassins !
+Aucun triomphe ne fuit les victoires d'un brigand, — c'est toujours les
+malédictions, les dangers, la mort, righominie——Vois-tu la potence
+là-bas fur la colline ?</p>
+<p>$! f i E o E h B B R o se promenant avec humeur,</p>
+<p>Ah que c'est bête ! C'est abominable, impar-</p>
+<p><pb/></p>
+<p>TRAGÉD JE. m</p>
+<p>KOSINSKY.</p>
+<p>Que peut craindre, qui ne craint pas la mort?</p>
+<p>LE V. M o o R.</p>
+<p><pb/></p>
+<p>i^ô LES VOLEURS,</p>
+<p>KOSINSKY, Non, je ne fuirai jamais, Si ma prière ne peut t'émouvoir,
+écoute mes malheurs. — Tu me forceras toi même de m'armer du poignard
+vengeur , tu,.,,, Asseyez-vous tous ici par terre &gt; &amp; prêtez-moi une
+oreille attentive.</p>
+<p>L E V. M O O Rj</p>
+<p>J'écouterai.</p>
+<p>KOSINSKY.</p>
+<p>Sachez donc que je fuis Gentilhomme bohérnois, &amp; que par la mort
+prématurée de mon Père, je devins maître d'un fief considérable. Les
+environs.... c'étoit un Paradis 1 -~:car il y habitoit un Ange, une
+fille embellie de toute la fraîcheur de la florissante jeunesse,&amp; chaste
+comme la lumière du ciel, Mais pourquoi vous en parler. Vous ne
+m'entèndez pas. — Vous n'avez jamais aimé^(i) vous ne fûtes jamais aimé !</p>
+<p>S c H "W E i z E R.</p>
+<p>-Doucement, doucement, Comme le visage du Capitaine s'enflamme !</p>
+<p>L s V. M o o R.</p>
+<p>Laiflez-moi. r-Je t'écouterai une autre fois,</p>
+<p>(i) Imité de Nathaniel Lee,</p>
+<p><pb/></p>
+<p>TRAGÉDIE. 141</p>
+<p>»~demain, un autre jour, quand j'aurai vu du,</p>
+<p>sang..</p>
+<p>KOSINSKY.</p>
+<p>S C H "W E I Z E R,</p>
+<p>Et cependant. •.. continue» Je sens ce qui va</p>
+<p>venir,</p>
+<p>K o s 1 N s K Y.</p>
+<p><pb/></p>
+<p>S.CHVBI Z E R,</p>
+<p>Ne l'ai-je pas dit ?</p>
+<p>K o N í N s K Y.</p>
+<p>S c H w B IZifi, Que fisrtu alors î</p>
+<p>K o s í N s K y. Je restai là, comme frappé de mille tonnerres.</p>
+<p><pb/></p>
+<p>TR A GÉDI&amp; Í4J</p>
+<p>SCHWEIZER frappant du pied la terre.</p>
+<p>Et il ne lui arriva rien, Et tu sortis fans avoir</p>
+<p>rien fait ?</p>
+<p>KOSINSKY.</p>
+<p>Je fus chargé de fers, accusé , poursuivi criminellement, &amp;, — remarquez
+bien cela , — par grâce singulière, chaste de la principauté comme un
+scélérat, On sait présent au Ministre de tous mes biens. Mon Amélie,
+épuisée de soupirs &amp; de</p>
+<p>(í) Der hcclllschi Kuppltr, Ils n'osent'pas nommer, diroit Montaigne,
+les emplois dont ils s'enorgueillissent.</p>
+<p><pb/></p>
+<p>144 % ES V O L EU R S,</p>
+<p>larmes, reste entre les griffes du tigre, tandis que ma vengeance jeûne
+courbée fous le joug du despotisme.</p>
+<p>SCHWEIZER se leve"9 &amp; contre une borne aiguse son épée* '</p>
+<p>LE V. M o o R qui depuis long-temps se promenoìt dans une agitation
+violente, semble tout~â-coupse calmer, &amp; dit aux Voleurs :</p>
+<p>LES VOLEURS.</p>
+<p>Oùr Quoif</p>
+<p>L E V. M o o R.</p>
+<p>Mais par 1 espérance du ciel...,</p>
+<p>S C H V E I Z E R.</p>
+<p>Moi, traître? — Va jusqu'aux enfers, je t'y suivrai,</p>
+<p>LB</p>
+<p><pb/></p>
+<p>ÍR AGÉ b iEí ttf</p>
+<p>( US partent, )</p>
+<p>Fin du troisième A8e.</p>
+<p>TomeXlh &amp;■</p>
+<p><pb/></p>
+<p>44$ L E^ VO L E X? 11$,</p>
+<p>; v A CITE ï W</p>
+<p>SCENE PREMIERE.</p>
+<p>Une Galerie dans le Château de Moor,</p>
+<p>LE VOLEUR MOOR, fous le nom de Comte • de Brandy &amp; AMÉLIE devant un
+portrait* Un habit de Religieuse fur la table*</p>
+<p>LE V. MOOR très-êmu,</p>
+<p>LE V. MOOR comme perdu dans k plaisir que lui cause le portrait de son
+Père,</p>
+<p>Oh, un excellent homme, — un digne homme ! — Et il ne feroit plus ?</p>
+<p>AMÉLIE. Ainsi passent sans retour nos plus doux plaisirs. ( Prenant la
+main de Moor avec douceur») Comte! aucune félicité ne mûrit fous la lune.</p>
+<p><pb/></p>
+<p>. ÍRAGÉD I É» 147</p>
+<p>L B V. M o o R,</p>
+<p>AMÉLIE.</p>
+<p>Oui, je l'ai faite, — tout vit, pour mourir tristement. — Nous ne
+gagnons que pour perdre,-— nos ctóurs ne s'intéressent aux objets que
+pour les perdre avec douleur.</p>
+<p>LE V. M o o R d'un regard fixe*</p>
+<p>AMÉLIE.</p>
+<p>Rien..—Tout, — Rien.</p>
+<p>L B V. M o o R.</p>
+<p>AMÉLIE,</p>
+<p>Demain j'espère. —Voulez-vous continuer notre promenade, M, le Comte?</p>
+<p>IL E V. Moon,</p>
+<p>Déja ? — A qui ce portrait-là, fur la droite ? je me trompe, ou c'est
+une physionomie malheureuse.</p>
+<p>Kij</p>
+<p><pb/></p>
+<p>148 L ES VOLEURS,</p>
+<p>A M É LI E.</p>
+<p>Ce portrait A GAUCHE , c'est le fils du Comte, aujourd'hui Seigneur.</p>
+<p>LE V. MOOR.</p>
+<p>Fils unique ?</p>
+<p>AMÉLIE»</p>
+<p>Venez,—venez» —</p>
+<p>LE V. M O O R.</p>
+<p>Mais ce portrait-là, fur la droite ì</p>
+<p>AMÉLIE,</p>
+<p>Vous ne voulez pas descendre dans le jardin ?</p>
+<p>L E V. M o o R.</p>
+<p>Mais ce portrait-là, fur la droite?—Tu pleures, Amélie r</p>
+<p>( Amélie ^éloigne précipitamment* )</p>
+<p><pb/></p>
+<p>TR A G ÈDIE, 14P</p>
+<p>S C E N E 11.</p>
+<p>LE V 01 E U R M O O R seul*</p>
+<p>( t ) Die góldenen maìenjahre der Kndben\eìt» Le* armées-de-may d'or du
+tempí de.h jeuncfle,</p>
+<p>K iij</p>
+<p><pb/></p>
+<p>i;o LES VOLEURS,</p>
+<p>— il faut que je l'embrasse. — Je ve.ux avaler encore le poison de cette
+volupté, qui embrasera tous mes sens; &amp; puis je pars — aussi loin que
+pourront me conduire les mers &amp; —le désespoir. (II sorts)</p>
+<p>SCENE ÌIL</p>
+<p>FRANÇOIS DE MOOR plongé dans une rêverie profonde*</p>
+<p>(t) Ostgesehenes, Souvent-vu.</p>
+<p>(t) Vetdtrbentwchtigts* Eticeînt de te perdre.</p>
+<p><pb/></p>
+<p>T R AG É t&gt; î E. ïjí</p>
+<p>SCENE IF. DANIEL, FRANÇOIS DE MOOR. .'</p>
+<p>+ D A M I E I,</p>
+<p>\^U'ORDONNEZ-VOUS, mon Maître?</p>
+<p>FRANÇOIS, après Vavoir regarde long* temps avec attention,</p>
+<p>Rien 1 Sors I Verse-moi du vin dans ma coupe, — mais vîte. ( Daniel fort* )</p>
+<p>S C E NE V*</p>
+<p>FRANÇOIS seul,</p>
+<p>Kiv</p>
+<p><pb/></p>
+<p>*ja LES VOLEURS,</p>
+<p>SCENE FI.</p>
+<p>FRANÇOIS DE MOOR, DANIEL,</p>
+<p>avec du vin.</p>
+<p>FRANÇOIS*</p>
+<p>JMlETs-le ici.— Regarde-moi fixement l — Comme tes genoux chancellent 1
+— comme tu trembles 1 Avoiie, vieillard. Qu'as-tu fait ì</p>
+<p>DANIEL.</p>
+<p>Rien, fur ma pauvre âme, aussi vrai que Dieu est là-haut.</p>
+<p>FRANÇOIS.</p>
+<p>Bois cé vin. — Quoi? tu hésites? Parle ! Vîte r Qu'as-tu jette dans le
+vin ?</p>
+<p>DANIEL.</p>
+<p>Ah morvDieut Comment? Moi? dans le vin? FRANÇOIS.</p>
+<p>. C'est du poison que tu as jette dans fe vin* N'es-tu pas pâle comme la
+neige ? Avoue ! avoiie! Qui te l;a donné ? N'est-ce pas le Comte.. • • •
+C'est le Comte qui te l'a donné.</p>
+<p><pb/></p>
+<p>TRAGÉDIE. ifí</p>
+<p>P A N I EL.</p>
+<p>Le Comte? Jésus-Marja ILe Comte ne m'a rien donné.</p>
+<p>Je veux t'étrangler, que tu deviennes bleu , menteur, blanchi dans la
+trahison 1 RIEN ?—Et pourquoi êtes-vous fourrés toujours ensemble? Lui &amp;
+toi &amp; Amélie? Et que chuchottez-vous ensemble ? Ne promene-t-elle pas
+fur cet homme des yeux effrontés, elle qui affecte tant de modestie à
+regarder tout le monde ? N'ai-je pas vu comme elle a laissé tomber deux
+larmes surtives dans le vin, que derrière mon dos il précipitait dans
+son gosier avide, comme S'il eut voulu avaler verre &amp; tout» Oui je l'ai
+vu — dans la glace, je l'ai vu de mes yeux.</p>
+<p>DANIEL.</p>
+<p>Dieu qui fait tout, fait fì j'y entends une syllabe.</p>
+<p>FRANÇOIS.</p>
+<p>Veux-tu le nier ? Veux-tu me dire en face que j'en ai menti? Quels
+complots avez-vous machinés pour vous.débarrafler de moi? D"e
+m'étrangter dans mon sommeil ? N'est-ce pas ? De me</p>
+<p><pb/></p>
+<p>t/4 L ES VÒ LEU R S,</p>
+<p>couper la gorge en me rasant?) De rn'empoisonner dans du vin, ou du
+chocolat ? — Avoiie donc. Ou de me donner dans ma soupe un sommeil
+éternel ? Avoiie, vîte 1 Je sais tout.</p>
+<p>DANIEL,</p>
+<p>, Que Dieu me protège quand je ferai dans la peine, comme il est certain
+que je vous dis la Vérité.</p>
+<p>FRANÇOIS,</p>
+<p>DANIEL,</p>
+<p>Jamais, mon maître,</p>
+<p>FRANÇOIS,</p>
+<p>* II t'a dit, par exemple t qu'U t'avoit déja connu, — que tu devrois
+presque U connoître, — qu'un jour le voile qui couvroit tes yeux
+tomberoìt, —</p>
+<p>que , Comment ? II ne t'auroit rien dit de tout</p>
+<p>cela?</p>
+<p>DANIEL.</p>
+<p>Pas la moindre chose»</p>
+<p><pb/></p>
+<p>, &lt; TRAGÉDIE. ISS.</p>
+<p>F R A N Ç 0 1 S.</p>
+<p>Qu*ilfe vengèroit — :—* de la plus horrible vengeance !</p>
+<p>D A N I B L.</p>
+<p>Pas un mot.</p>
+<p>FRANÇOIS.</p>
+<p>Comment? rien du tout. — Rappelíe-tot bien — qu'il a connu
+SINGULIÈREMENT le défunt Seigneur — TRÈS - PARTICULIÈREMENT —* qriil
+Vavoit AIMÉ —INFINIMENT —compte un FILS aime son Père*</p>
+<p>DANIEL.</p>
+<p>Je me rappelle, je crois, lui avoir entendu dire quelque chose de
+semblable.</p>
+<p>FRANÇOIS effrayé*</p>
+<p>II l'a dit? II l'a vraiment dit? II a dit qu'il étoit mon frère ? *</p>
+<p>DANIEL.</p>
+<p><pb/></p>
+<p>i$6 L ES VOL EUR S,</p>
+<p>, F R A N ç OIS.</p>
+<p>Assez. Va, cours, faute, cherche-moi Her-&gt; mann. (Danielsort*)</p>
+<p>SCENE IF.</p>
+<p>FRANÇOIS fiut.</p>
+<p><pb/></p>
+<p>T R A GÍ DTE. is?t</p>
+<p>S CE NE FUI.</p>
+<p>HEfcMANN, FRANÇOIS DE MOOR, FRANC OIS.</p>
+<p>JOLA , sois le bien venu, mon Eurypale ! instrument armé de mes profonds
+de (le in s.</p>
+<p>H E R M A N N d'un ton brusque.</p>
+<p>Vous m'avez fait demander» Comte.</p>
+<p>FRANÇOIS.</p>
+<p>H E R M A K N entre ses dents.</p>
+<p>Vraiment?</p>
+<p>FRANÇOIS.</p>
+<p>Le dernier coup de pinceau au tableau.</p>
+<p>H E R M A N N,</p>
+<p>Aha 1</p>
+<p>FRANÇOIS étonné.</p>
+<p>H E R M A N N avec fierté*</p>
+<p>Sans façon, s'il vous plaît» Pour CE que nous</p>
+<p><pb/></p>
+<p>i;8 LES VOLEURS,</p>
+<p>FRANÇOIS avec réserve*</p>
+<p>Hm. — Quelles paroles donc ?</p>
+<p>H E R M A N N avec malice* Tu auras Amélie, te dis-je,—&amp; de ma main* —</p>
+<p>FRANÇOIS étonné*</p>
+<p>Hermannl</p>
+<p>H E R M A N K toujours fur le mime ton</p>
+<p>,'".'■.'■_.'. k</p>
+<p>Comte Moor ?</p>
+<p>; : -..VA</p>
+<p>change. Rien A TOI.—J'ai envoyé, chercher tìermann,</p>
+<p>H E R M îA NK, Sans .détours 1 -—Pourquoi nVa-t-on &lt; fait àc-</p>
+<p><pb/></p>
+<p>TRAGÉDIE. ijp</p>
+<p>courir ici ? — Pour être dupe encore, pour tenir l'échelle au voleur ?
+Que je vous serve d'aíïaflm pour deux liards ? Ou me voulez * vous autre
+chose?</p>
+<p>FRANÇOIS avec réflexion*</p>
+<p>A propos !—po'jr .ne point oublier .'essentiel, en nous échauffant l'un
+&amp; l'autre, — mon Valetde*Chambre te l'auras dit fans doute ? — Je
+voulois te, parler de la dot,—</p>
+<p>H B R M A N N.</p>
+<p>FRANÇOIS avec noblesse*</p>
+<p>H E K M A N N avec ironie*</p>
+<p>Ce ne sera pas du moins d'encourir votre disgrâce? Celui qui est irrité
+contre lui-même, crairitil votre disgrâce ? Fi, Moor l J'abhorre déja en</p>
+<p><pb/></p>
+<p>x6o LES VOJiÊURS,</p>
+<p>PRÉSBNT L*ESCLAVB ?</p>
+<p>FR Á N Ç O Ï S trèssouple,</p>
+<p>Ami, fois donc raisonnable, &amp; ne te parjure pas.'' .-</p>
+<p>H B R MA N N.</p>
+<p>F R A N ç OIS.</p>
+<p>Malédiction fur cet argent de Judas. C'est rengagement</p>
+<p><pb/></p>
+<p>TRAGEDIE, xit</p>
+<p>gagement de l'enfer» Vous avez déja cru corrompre mon coeur par ma
+pauvreté, — mais vous Vous êtes trompé , Comte , &amp; trompé de beaucoup.
+—Cette autre bourse pleine d'or m'est, on ne peut plus utile, — pour
+nourrir CERTAINES GENS,</p>
+<p>FRANÇOIS effrayé*</p>
+<p>Hermann ! Hermann! ne me laisse pas imaginée de toi CERTAINES choses. —
+Si tu en faisois plus —que tu ne dois, — tu serois horrible, Hermann l</p>
+<p>HERMANN avec joie.</p>
+<p>F R A N Ç O I S hors de toute contenance*</p>
+<p>H É R MA N N fifiant dans ses doigts.</p>
+<p>Ahlerm$!</p>
+<p>Toi* pït* L</p>
+<p><pb/></p>
+<p>x62 LES VOLEURS, FRANÇOIS se mordant les lèvres,</p>
+<p>II est donc vrai, &amp; sera toujours vrai ! qu'aucun fil fous le soleil
+n'est aussi foible, &amp; ne se caste aussi aisément que les noeuds dont se
+lient les scélérats.</p>
+<p>H E R M N N,</p>
+<p>FRANÇOIS se levé brusquement, &amp; dit avec un rire méchant*</p>
+<p>Et dans cette découverte, CERTAINES GENS remporteront infiniment
+d'honneur !</p>
+<p>HERMANN battant des mains*</p>
+<p><pb/></p>
+<p>TRAGÉDIE. ttf</p>
+<p>FRANÇOIS s*élançant sur le mur pour saisir un pistolet •</p>
+<p>HERMANN tire promptement de sa poche une terçerole, &amp; le couche en joue*</p>
+<p>FRANÇOIS laisse tomber le pistolet, &amp; se rejette dans son fauteuil,
+comme un homme qui a perdu la tête*</p>
+<p>HERMANN.</p>
+<p>»</p>
+<p>(II sort*)</p>
+<p>L ij</p>
+<p><pb/></p>
+<p>i6* LES VOL E U R S,</p>
+<p>S C E NE IX.</p>
+<p>FR A N Ç O IS seul*</p>
+<p>- autant qu'un homme en peut avoir.—Si unéglace me trahissoit ? ou mon
+ombre ? ou l'air ébranlé par mon bras assassin ? ( ï ) je frémis, la
+terreur</p>
+<p>- ( í ) 11 y a dans le texte : Oder der Wind hieîner moerdcriscben
+Bevegung ì pu le vent de mon geste meurtrier.</p>
+<p><pb/></p>
+<p>T R A G E D I E. i&lt;?;</p>
+<p>boucle mes cheveux &amp; sèche la moelle de mes os calcinés, ( Un poignard
+caché sous son habit, tombe,) Je ne fuis pas lâche, —j'ai le cceur trop
+tendre, — oui, c'est cela l — Ce sont les convulsions de la vertu
+mourante. — Je l'admire. ~- II faudroit que je fusse un monstre pour
+tuer de mes mains mon propre frère. Non ! non ! non I Loin de moi cette
+pensée, — ces restes d'humaPour</p>
+<p>d'humaPour de tout l'inrérêr, répandu dans les scènes qui vont suivre,,
+il est tflèntiel de lire avec attention ce monologue. M, Schiller, comme
+un Poète lyrique , ne parle gueres que par ellipse:- » &amp; dans une langue
+dont la clarté fait le caractère,- il est difficile de le faire entendre.</p>
+<p>Liij</p>
+<p><pb/></p>
+<p>166 L ES VOLEURS,</p>
+<p>nité que je sens en moi, je veux les respecter.</p>
+<p>— Je ne veux pas tuer, -*• Triomphe, Nature,</p>
+<p>— &amp; moi ausli je sens encore quelque chose qui reflemble à
+l'arnour.—Qu'il vive ! ( UJort, )</p>
+<p>S C E N E X*</p>
+<p>UN JARDIN.</p>
+<p>AMÉLIE est seule sous un berceau où viennent aboutir plusieurs allées
+couvertes*</p>
+<p>« A u pleures, Amélie ?» — &amp; il a dit cela avec une expression, — une
+expression. • • • J'ai cru sentir le temps se rajeunir, &amp; tous les jours
+heureux de l'arnour, tous les printemps d'or s'épanouir. ( i ) — Le
+roíignol chantoit comme il chante en ce moment, &amp; j'étois ivre de joie,
+il me pressoit contre son coeur» — Ah oui ! si les âmes des morts ont
+commerce avec les vivans, cet étranger est l'Arige, íè génie de
+Charles.— Vois-tu, coeur faux &amp; perfide, avec quel artifice jU embellis
+ton parjure? Non I non I Sors de mon âme, tu me fais horreur 1 Loin de
+mon cceur,</p>
+<p>(í) Die goldenehJFmhlinge der Liebe, X&lt;cstPrin* temps d'or de l'arnour.</p>
+<p><pb/></p>
+<p>TRAGEDIE, jf57</p>
+<p>Liv</p>
+<p><pb/></p>
+<p>IÓS L ES VOLEURS,</p>
+<p>SCENE XI.</p>
+<p>A M É L I E, HERMANN vient le long dyune allée converte.</p>
+<p>(í) JUA mèche est allumée. — Que la bombe éclate, dût-elle me briser en
+mille pièces. (Haut.) Mamselle Amélie, Mamselle Amélie.</p>
+<p>AMÉLIE effrayée* Un espion! Que cherchès-tu ici ?&gt; •HERMANN.</p>
+<p>-^A.M.;1Ï,;I E*.</p>
+<p>Pour des offenses, je n'ai point de mémoire, fais-moi grâce de tes
+nouvelles.</p>
+<p><pb/></p>
+<p>TRAGÉDIE. io&gt;</p>
+<p>HERMANN*</p>
+<p>Ne pleurez-vous pas un amant ?</p>
+<p>AMÉLIE le mesure d'un long regard.</p>
+<p>HERMANN jettant devant lui un regard</p>
+<p>sombre* Haine &amp; amour.</p>
+<p>AMÉLIE avec amertumes</p>
+<p>■&gt; Y a-t-il quelqu'un qui aime fous cette zone?</p>
+<p>HERMANN roulant des regards féroces autour de lui*</p>
+<p>AMÉLIE tendrement,</p>
+<p>UnFWe!</p>
+<p>H B R M A N N*</p>
+<p>Ils vivent í ( /// s'enfuit* )</p>
+<p><pb/></p>
+<p>lyb LES VOLEURS,</p>
+<p>SCENE XII*</p>
+<p>LE VOLEUR M Ô O R venant le long (tune allée couverte, AMÉLIE qui est
+restée pétrifiée y je levé presque en délire*</p>
+<p>AMÉLIE.</p>
+<p>V/HARLES vit ! ( Elle veut courir après Hermann, &amp; rencontreçr~le Voleur*)</p>
+<p>LE VI'MOOBI'</p>
+<p>Où courez-vous donc l'ceil en feu, Mademoiselle ? (í).</p>
+<p>AMÉLIE.</p>
+<p>Engloutis-moi, terre. — Lui !</p>
+<p>LE V. MOOR,</p>
+<p>Je venois vous faire mes adieux. Mais l—Ciel • Dans quelle émotion
+faut-il que je vous trouve?</p>
+<p>AMÉLIE.</p>
+<p>Adieu, Comte. — Restez. — Que je serois</p>
+<p>(í) Wohin se sturmiseh raeln Frvléin l Où si orageux sèment, Mademoiselle ì</p>
+<p><pb/></p>
+<p>TRAGEDIE. 171</p>
+<p>heureuse si vous ne fussiez pas venu en ce moment ! -r» Ah ne
+fûssiez-vous jamais venu !</p>
+<p>LE V. MOOR.</p>
+<p>Vous auriez donc été heureuse alors? — (S$ détournant tout-à-coup, ) Adieu.</p>
+<p>AMÉLIE f arrête.</p>
+<p>LE V.' M o o R. '</p>
+<p>VOUS m'assassinez,</p>
+<p>A M É LIE</p>
+<p>Món cceur si pur, avant que mes yeux ne vous aient vu. — Oh
+puistent-ils, pour toujours s'é^ teindre, ces yeux, qui ont souillé mon
+cceur.</p>
+<p>L E V. M o o R.</p>
+<p>A M é L 1 E, *</p>
+<p><pb/></p>
+<p>*#* LES VOLEURS,</p>
+<p>jure ! — Détournez dé moi ces regards qui remp'iflent mon âme de
+trouble. C'est lui, que l'imagination perfide m'offre tout entier dans
+ces regards. —Partez, venez sous la forme o?un Crocodile, je m'en
+trouverai mieux.</p>
+<p>LE VOLEUR Mo o R a vec le plein regard de tamour (í).</p>
+<p>Tu mens, jeune tille 1</p>
+<p>A M É L í B plus tendrement*</p>
+<p>LE VI MO p R, V'</p>
+<p>(t) Mit dm volten Blick dir Liebe*</p>
+<p>(&amp;) Deine Kusse brcnnen wie Feucr. Tes baisers bríL' lent comme dit feu*
+Meíne Seele brennt in ihneni Mon áme brále eh euxt</p>
+<p><pb/></p>
+<p>T R A G É D IJ&amp; 17^</p>
+<p>A M É LIE.</p>
+<p>LE V. M o o a.</p>
+<p>Le Fort qui te voit trembler succombe! Ici je prends racine I ( II cache
+son visage dans le sein. d'Amélie, ) C'est-LA que je veux mourir.</p>
+<p>AMÉLIE dans un grand désordre*</p>
+<p>Fuis. —Laissez-moi. Qu'as-tu fait? — Eloigne , tes lèvres. (Elle veut en
+vain le repousser,) Un feu sacrilège se glisse en mes veines, — (
+Tendre* ment &amp; tout en larmes,) Fajloit-il que tu vinsses dès plus
+éloignés rivages pour éteindre un amour qui a défié la mort? ( Le
+serrant plus fortement contre son sein* ( Que Dieu te le pardonne, jeune
+homme.</p>
+<p>LB V. MOOR dans les bras a*Amélie,</p>
+<p>A M" É lî E avec attendrissement &amp; en délire.</p>
+<p><pb/></p>
+<p>t-* Í* E o V O LEUR S,</p>
+<p>LE VOLEUR MOOR iéloigne comme en délire.</p>
+<p>Quelque enfer me guette ! Je fuis íi heureux 1 ( // attache ses regards
+fur Amélie* )</p>
+<p>AMÉLIE voyant briller Vanneau que Charles lui avoit donnés se levé avec
+emportement*</p>
+<p>Tu es encore au doigt de la criminelle ? Devols-tu être témoin comment
+Amélie se rit de ses fer mens? —Va-t-en. — ( Elle arrache Vanneau de son
+doigt, &amp; le donne au Voleur*) Prends-le, —prends-le, séducteur chéri,-*-
+&amp; avec lui mon PLUS-SACRÉ , mon TOÚT — mon Charles, (ElU tombe sur le
+banc de gaçpn, )</p>
+<p><pb/></p>
+<p>TRAGÉDIE. I7|.</p>
+<p>"»: LE V. MOOR pâlit,</p>
+<p>— C'est ce même anneau que je lui donnai pour gage de l'alliancé. —■
+Entre dans l'Enfer, Amour. Mon anneau m'est rendu !</p>
+<p>AMÉLIE effrayée*</p>
+<p>Dieu ! Qu'as-tu ?—Tu roules fur moi des regards féroces.—Tes lèvres font
+pâles comme la neige 1</p>
+<p>— Infortunée 1 se passe-t-elle si rapidement, la joie du crime ? mt</p>
+<p>LE W* MOOR maître de lui-même.</p>
+<p>Rien, rien, — ( Levant les yeux au ciel, ) Je suis encore un homme \ (Il
+ôte son anneau, &amp; te met au doigt d*Amélie, ) Prends aussi CELur-cr—
+CELUt-ct — douce furie de mon cceur, &amp; aveu lui, mon PLUS-SACRÉ, » • •
+mon Toux — mon Amélie t</p>
+<p>A M.É L í B se levant tout-A-coup.</p>
+<p>Ton Amélie?</p>
+<p>LE V. MOOR avec attendriffement.</p>
+<p>Oh une fille cmi m'étoit si chere &amp; fidèle comme les Anges, En nous
+quittant elle m'avoit donné son diamant pour adieu, Je lui laissai le
+mien pour gage d'une' alliance éternelle. On lui dit que</p>
+<p><pb/></p>
+<p>vf6 LE? VOLEURS,</p>
+<p>l'étois mort, elle est restée fidèle au mort» 0.1 lui apprit ensuite que
+je vivois encore, &amp; alors elle a violé la foi qu'elle m*avoit jurée, Je
+vole dans ses bras. — C'étoit la volupté des Immortels l — Sens le coup
+de foudre quia frappé mon coeur ! j$lle nie rend mon diamant. Jo lui ai
+rendu son diamant.</p>
+<p>AMÉLIE .étonnée, regardé ta terre. C'est singulier I Horrible, singulier
+! ^ L B V. M o o R.</p>
+<p>AMÉLIE. Malheureuse J — parce qu'elle t'a repoussé»</p>
+<p>L B V. M o o R.</p>
+<p>Malheureuse pour m'avoir donné un baiser, lorsqu'elle cessoit de m'étre
+fidèle.</p>
+<p>AMÉLIE avec une douleur douce»</p>
+<p>Oh alors elle est bien malheureuse. —La bonne filleI Qu'elle soit ma
+soeur! — Mais il existe encore un meilleur monde.—</p>
+<p>LE</p>
+<p><pb/></p>
+<p>T R AGE DIE. 177</p>
+<p>L s V. M o o R.</p>
+<p>Ou les voiles tombent, &amp; l'arnour qui a vu, recule
+d'horreur.—L'Eternitéest son nom,—Mon Amélie est une fille bien
+malheureuse»</p>
+<p>AMÉLIE avec un peu de malice»</p>
+<p>Est-ce que toutes celles qui t'aiment &amp; qui se nomment AMÉLIE, sont
+malheureuses?</p>
+<p>L B V. MOOR.</p>
+<p>Toutes, — lorsqu'elles pensent embrasser un Ange, &amp; qu'elles trouvent—
+un assassin dans leurs bras. —• Mon Amélie est une fille bien malheureuse,</p>
+<p>AMÉLIE dans t effort de Vexprejsion la plus douloureuse*</p>
+<p>Je la pleure !</p>
+<p>L B V. MOOR prend la main d'Amélie pour lui faire reconnoltre Vanneau
+quU vient de lui donner*</p>
+<p>Pleure sur toUmêmel (IIs'enfuit*)</p>
+<p>AMÉLIE qui a reconnu Vanneau»</p>
+<p>Charles 1 Charles! O ciel 1 ô terre l (Elle tombe évanouie* )</p>
+<p>Tome XII, M</p>
+<p><pb/></p>
+<p>V$ LES VQLEUlS,</p>
+<p>SCENE XI II»</p>
+<p>Une Forêt ; Clair de Lune* Les ruines d'un Château.</p>
+<p>Xa Bande DES, VOLEURS est couchée par terre* SPIEGELBERG &amp; RAZMANN
+arrivent en causant*</p>
+<p>R A Z M À N N.</p>
+<p>JUA nuit s'avance, — &amp; le Capitaine qui n'est point encore arrivé.</p>
+<p>S P I B OB L B B R G. 4</p>
+<p><pb/></p>
+<p>T R A G É D I E. .i'7$</p>
+<p>R A 2 MANN.</p>
+<p>faire ?</p>
+<p>SPIEGELBERG,</p>
+<p>R A 2 M A N K.K</p>
+<p>Ha Satan, —de quels liens enlaces-«tu mon coeur!</p>
+<p>S P I B G EL BERG.</p>
+<p>Cela auroit pris? — Bon I Suis-mol donc. J'ai bien remarié par quel
+chemin il s'est échappé. Viens. Deux pistolets manquent rarement, &amp; puis</p>
+<p>SCBVSIUR fi teve enftcret*</p>
+<p>Mij</p>
+<p><pb/></p>
+<p>i8o L ES VOLEURS,</p>
+<p>vue de l'ennemi 1 — J'ai alors juré fur mon âme.,; Meurs, aflaslin. (
+Ils tirent Vépée &amp; se battent* )</p>
+<p>TOUS LES VOLEURS se lèvent, &amp; crient:</p>
+<p>Au meurtre ». au meurtre 1 — Schvreizer, — Spiegelberg. — Séparez-Iès,—</p>
+<p>ScHwEi^ER ayant poignardé Spiegelberg*</p>
+<p>Tiens 1 — crève I — Soyez tranquilles camarades.—Que cette chasse de
+lapin ne vous effraie pas, Cet animal jaloux a toujours haï le
+Capitaine, &amp; n'a pas une feule blessure fur fa peau huileuse, --«Cette
+vile canaille I C'est par le dos qu'il veut assassiner des hommes ! d&amp;i
+hommes par derrière! —Des sueurs de sangontelles desséché nòs joues pour
+que nous sortions du monde comme des lâches ? Bête brute ! Nous
+sommes-nous couchés fous le siflement des balles &amp; fous des flots
+brûlans de fumée pour crever empoisonnés comme des rats ?</p>
+<p>; G R í M M. v</p>
+<p>Diable ! Le Capitaine fera furieux. S c H w B í z K R,</p>
+<p><pb/></p>
+<p>XKAG^nm*^t</p>
+<p>G R í M M/en sursaut* j^-</p>
+<p>"" Un coup de pistolet! Un autre l Hòllà, le Çapî aine. '■■'•..-«ê. Ko s
+IN s K y.</p>
+<p>Un moment l II faut qu'il tire un troisième cou^ de pistolet. ( On
+entend U coup)</p>
+<p>; G RI M M.;; -</p>
+<p>C'est lui! c'est lui ! Cache-toi, SchWeizer, -laisse-moi lui parler.
+(Ilssonnent du cor»)</p>
+<p>S CENE XI V* &gt;</p>
+<p>Sois le bienvenu, mon Capitaine 1—J'ai été un peu vif pendant ton
+absence» (II te conduit près du Mort* ) Sois juge entre moi &amp; celui-ci*
+C'est par derrière qu'il a voulu t'atfassirter. •: ;</p>
+<p>L B V* Mo OR s'étonne &gt;ù dit avec chaleur**</p>
+<p>O doigt inconcevable é* Némésis vengeresse 1 N'est-ce pas lui dont la
+voix de Syrene nous a</p>
+<p>Miij</p>
+<p><pb/></p>
+<p>*fct LÉS VOLEURS,</p>
+<p>SCHf B I Z B B» ;\</p>
+<p>Par Dieu, c'est moi qui l'ai fait, &amp;, mille diables, ce n'est pas ce que
+j'ai fait de plus mal dans ma vie. (U jette son épée dessus le mort$&amp;
+s'en va de mauvaise humeur* )</p>
+<p>L B V. M o o R pensif*</p>
+<p>J'entends». • •. • Roi des cieux ! — J'entends — les feuilles defléchées
+tombent. — Mon automne est venu. Otez celui-ci de mes yeux, ( On emporte
+le corps dé Spiegelberg* )</p>
+<p>G R I M M.</p>
+<p>Donne nous des ordres, Capitaine. Que faut'</p>
+<p>Bientôt,—bientôt tout est rempli. Je me suis perdu moi-même en allant ».
+• • • Prenez vos cors, &amp; sonnez, il faut que je me re-berce dans les
+jours de ma force,—Sonnez du cor 1</p>
+<p>KOSINSKY. II est minuit. Capitaine, Le sommeil pesé sur</p>
+<p><pb/></p>
+<p>T $ A Q K D I E. ^83</p>
+<p>npus comme du plomb. Depuis trois jours nou$ n'ayons pas sermé les yeux»</p>
+<p>LE V» MO O R. ^</p>
+<p>Le sommeil balsamique tombe-1*il donc auílî siir les yeux des assassins
+? Pourquoi me fuit-il ? J*ái été comme un lâche ou un imbécilje. —
+SONNEZ,—-je ì'ordonne ! — ílsout que j'entende une musique guerrière
+pour que mon génie enr dormi se réveille. ( îls jouent une marche. Le
+Voleur Moor irès-pénsif, se promené devant eux, &amp; a*un geste *. les sait
+tous cesser, ) Allez vous-en. Bonne nuit, demain je vous parlerai.</p>
+<p>LES VoLEURsse couchent par terre, &amp; lui disent tun après Vautre &lt;</p>
+<p>Bon soir, Capitaine. (Ils s'endorment*)</p>
+<p>SCENE XV. LE VOLEUR MOOR' fiut, veille*</p>
+<p>Profondsilence*</p>
+<p>VNB longue — longue nuit. Elle n'aura jamais d'aurore!--Croyez* vous que
+je tremblerai ? Ombres des mes Étranglés* je ne tremblerai point»—Vos
+gémissantes agonies, votre</p>
+<p>Miv</p>
+<p><pb/></p>
+<p>i84 LES VOLEURS,</p>
+<p>— Où ? où me conduiras-tu ? Terré étrangère, encore ignorée ! L'humanité
+succombe, accablée de cette estrayante image, les fibres se détendent,
+&amp;Timagination, linge malicieux des sens, fait bondir des fantômes devant
+nos yeux effrayés,</p>
+<p>— Non, non, un homme ne doit point trembler.</p>
+<p>(t) Peçilíus \ Athénien célèbre pour setter en fonte tòutêi sottes de
+figures* 11 fit le taureau d'airain si renommé de Phakris» Roi
+d*Àgrígetité, aujourd'hui Gîrgenti en Sicile, dans lequel ce tyran
+faisoit jettér íes criminels ; &amp; a&gt;ant m!s le feu par-desfous, le cri de
+ces malheureux semblait are le mugissement d'un taureau» Perillus, pour
+récompense d'un si beí ouvragé, fut le premier que ce Princtí ctud fit
+brûler dans ce taureau d'airaiiu</p>
+<p><pb/></p>
+<p>T R ÂGÉ DIE. iBf</p>
+<p><pb/></p>
+<p>m L ES V O LÉ U R S,</p>
+<p>SCENE XVI.</p>
+<p>LES l&amp;ÉCÉDENS, HERMANN arrive, ensile UNE VOIX dans la tour*</p>
+<p>HERMANN.</p>
+<p>su k í x 1 paix I Horribles hûrlemens ! C'est la Chouette ! — Le Village
+sonne minuit. — Bien ! Tout dort. — Le remords seul veille — &amp; — la
+Vengeance. ( U s*approche de la tour, &amp; frappe, ) Monte, homme de
+douleur» —Habitant de la tour, ton repas est prêt. L B V. M o o R recule
+en frémissant*</p>
+<p>Qu'est-ce que j'entends ? U N E, Voix sortant de ta tour»</p>
+<p>Qui frappe ? Est-ce toi, Hermann, mon corbeau î (í)</p>
+<p>HERMANN. V</p>
+<p>C'est moi, Hermann, ton corbeau. Monte, approche de la grille, &amp; mange»
+— Tes Cama(t)</p>
+<p>Cama(t) Rabe.</p>
+<p><pb/></p>
+<p>T% A G E Ï&gt;I&amp; *8?</p>
+<p>rades de nuit (í) hurlent des chants horribles. Vieillard i tu manges
+avec appétit ?</p>
+<p>LA V o í x.</p>
+<p>J'avois grand faim. — Je te remercie, Envoyeur de Corbeaux» (2) pour ce
+pain dans le désert. Et comment se porte mon cher enfant Hermann?</p>
+<p>H E R MANN.</p>
+<p>Paix I — Ecoute»— C'est comme des gens qui ronflent ! — N'entends-tu rien ?</p>
+<p>LA. VOIX.</p>
+<p>Comment? Entends-tu quelque chose?</p>
+<p>HERMANN.</p>
+<p>J'entends le vent sifler au travers des fentes de la tour. Une musique
+de nuit qui fait que les dents vous claquent, &amp; que vos ongles
+bleuissent.■— Ecoute 1 encore! — II me semble toujours entendre ronfler.
+Tu as de la compagnie, Vieillard 1 — Hou ! hou 1 hou 1</p>
+<p>L A V o 1 x«</p>
+<p>Vois-tu quelque chose?</p>
+<p>(!) Cest-à-difô,, les Hiboux. (*)Cest-à*dÌre, Dieu,</p>
+<p><pb/></p>
+<p>m LESS VOLÉ u k S,</p>
+<p>H E R M A N N.</p>
+<p>Adieu, adieu ! — Affreux est ce désert ! — Redescends dans ton
+souterrein. —Ton Sauveur est près, ton Vengeur..... ( tf veut fuir* )</p>
+<p>LE VI MOOR s'approche en frémissant»</p>
+<p>Reste.</p>
+<p>H..RR.M.ANN iarréte*</p>
+<p>. Qui est là?</p>
+<p>L B V. M o OR.</p>
+<p>HERMANN s'avanpant.</p>
+<p>L B V. MOOR lui faisant fauter au loin -. son épée*</p>
+<p>(i) U veut parler des espions de François de Moor.</p>
+<p><pb/></p>
+<p>flTRï'A G Ê D IE. %$$</p>
+<p>H B R M A N N ; effrayé, recule,</p>
+<p>L A V o í x.</p>
+<p>Hélas ! Hermann, est-ce toi qui parles ? A qui parles-tu, Hermann?</p>
+<p>L B V. MOOR.</p>
+<p>Encore là-bas ? Qu'est-ce qui se passe ici ? ( courant vers la tour* )
+Quelque secret abominable est caché dans la tour. — Avec cette épée, je
+le découvrirai.</p>
+<p>HERMANN s*approche d'un pied tremblant*</p>
+<p>Etranger terrible, ferois-tu par hasard le LUTIN de ce désert ? — Ne
+serois-tu pas un des Sbires de la compensation inconcevable (i) qui font
+patrouille (a) dans ce bas monde, &amp; passent en revue les (j) Naissances
+de minuit* — Oh si tu l'es, fois le bien venu près de cette affreuse tour.</p>
+<p>(1) Dunkeln, obscure»</p>
+<p>(») Patrouliliren gehen. —(3) Die Geburten der Mitternacht, tes
+naissances de minuit * c'est-à-dire les ac« tiens noires, les crimes qui
+fouillent Us ténèbre de U nuit*</p>
+<p><pb/></p>
+<p>îpd L E^^V0L&amp;^ftS</p>
+<p>|i B Vf "$ P Q R,</p>
+<p>Tu l'as deviné, Voyageur de nuit. Ange exterminateur est mon nom &gt; j'ai
+des oi &amp; des membres comme toi. Est-ce un infortuné que les hommes ont*
+jette dans les fers ? Je veux briser ses chaînes»—Voix, fàis-toi donc
+entendre encore. Où est la porte ?</p>
+<p>H E R M A N N.</p>
+<p>Belzébut forceroit plus aisément les portes du ciel que toi CELLE-CI. —
+Retire-toi, Fort ; l'esprit des scélérats surpasse le sens des hommes.
+(U touche la tour de son épée* )</p>
+<p>L B V. MOOR.</p>
+<p><pb/></p>
+<p>TRAGEDIE. tpi</p>
+<p>S CENE XVII.</p>
+<p>LE VIEILLARD MOOR, LES PRÉCÉDENS.</p>
+<p>LE VIEILLARD MOOR.</p>
+<p>JE te rends grâces, ô mon Dieu! l'heure de ma délivrance est arrivée.</p>
+<p>L E V. M o o R,</p>
+<p>LE VIBILLA R b.</p>
+<p>Je ne fuis point un esprit, touche mes os, je vis. O misérable 6c
+douloureuse vie 1</p>
+<p><pb/></p>
+<p>1V% LES V 0 LEURS, L B V. M o o R.</p>
+<p>Quoi ? Tu n'as pas été enterré ?</p>
+<p>LE VIEILLARD»</p>
+<p>J'ai été enterré, C'est-à-dire , un chien mort gît dans le tombeau de
+mes Pères» —• Et moi, —. trois lunes entières que je languis dans cette
+sombre tour, où pas un rayon de lumière ne m'a éclairé., où jamais.un
+air doux &amp; pur ne m'a rafraîchi, où les aigres corbeaux croassent, où la
+chouette hurle ses présages sinistres.;</p>
+<p>L B V. M o Ò R»</p>
+<p>Ciel &amp; terre 1 Qui a fait cela ? [HERMANN avec une joie horrible* Unfils!</p>
+<p>L B VIEILLARD» Ne le maudis pas»</p>
+<p>L B V. M o o R.</p>
+<p><pb/></p>
+<p>TRAGÉDIE. ip'i</p>
+<p>H E R M AN N.</p>
+<p>C'est peut-être un démon qui a fait tout cela, mais moi je ne puis pas
+dire autrement. ( í ; Oui, son fils í</p>
+<p>LE V. MOOR comme une statue*</p>
+<p>O cahos éternel 1</p>
+<p>LE VIEILLARD.</p>
+<p>L s V. M o o R.</p>
+<p>Cette prière attendriroit des bêtes féroces ! ht VIEILLARD.</p>
+<p>(&lt; ) Und Wenjl d!« #&lt;*Ué ÚUÏ baflfcro: wufdeV // l-Mhset•devroit-U
+fairésMfuerou'fà</p>
+<p>1mM M</p>
+<p><pb/></p>
+<p>IP4 LES V O LE U R S,</p>
+<p>ses derniers adieux, c'étoit ma cruelle malédiction qui l'avoit jette
+dans les combats, dans la mort, dans le désespoir.</p>
+<p>HERMANN.</p>
+<p>Mensonge 1 Horrible imposture ! Ce lâche, cetoit MOI-MÊME , qu'il avoit
+acheté avec de sor &amp; des promesses, pour empêcher vos RECHERCHES fur ce
+lìls, &amp; dessécher tout-à-coup le reste de vos jours.</p>
+<p>LE VIEILLARD»</p>
+<p>Toi ? toi ? O ciel I Et c'étoit concerté 1 — J'ai été trompé?</p>
+<p>L E V. M o o R .en ^éloignant*</p>
+<p>L'entends-tu, Moor ? L'enunds-tu ? Un jour horrible commence à
+m'éclairer I HERMANN.</p>
+<p>Ecrâsez-moi comme un reptile impur 1 J'étois son complice, je supprimois
+les lettres de votre Charles Ì je changeois les vôtres, &amp; j'en faisois
+passer d'autres remplies de haine &amp; de cruauté. C'est. ainsi qu'on vous
+a trompé. —C'est ainsi qu'ils l'ont arraché de votre testament &amp; de
+votre coeur.</p>
+<p>LE V. MOOR dans le plus affreux déchirement de coeur»</p>
+<p>Et I'OUR CELA, Voleur &amp; assassin l (le poing</p>
+<p><pb/></p>
+<p>T R A G ÉD í E. ipjr</p>
+<p>xr la poitrine &amp; tantôt sur le front, ) Oh insensé ! insensé, insensé. —
+Des ruses infâmes.— Et POUR CELA Incendiaire &amp; assassin. ( II marche
+avec fureur»)</p>
+<p>LE VIEILLARD avec une colère qui iéteint*</p>
+<p>François, François l — Mais je ne veux plus maudire. — Et moi, qui n'ai
+rien vu, qui n'ai rien soupçonné» Malheur au Père indulgent &amp; aveugle 1</p>
+<p>L B Y. MOOR s*arrête*</p>
+<p>Et ce Père dans la tour ? ( II concentre fa doit» leur*) Ce n'est pas à
+moi de me plaindre, &amp; d'entrer en fureur, (Au Vieillard, avec un calme
+forcé») Continuez.</p>
+<p>LE VIEILLARD.</p>
+<p>Nij</p>
+<p><pb/></p>
+<p>L E V. MOOR,</p>
+<p>Ce n'est point possible 1 il faut que vos malheurs aient égaré votre
+raison»</p>
+<p>LE VIEILLARD.</p>
+<p><pb/></p>
+<p># R Á Ò t DIE. *P7</p>
+<p>L B V. MOOR.</p>
+<p>C'en est aflez» Levez-vous! coeurs de pierre! Dormentils d'un sommeil de
+fer 1 Allons, aucun d'eux ne s'éveille-tMl ? (Le Voleur Moor tire un
+coup de pistolet %au-dessus de fa bande endormie»)</p>
+<p>Niij</p>
+<p><pb/></p>
+<p>0 L ESSHV O ÌL E U R S,</p>
+<p>S CE N EX VIII.</p>
+<p>LES PRÉCÉDENS, &amp; LES VOLEURS</p>
+<p>qui se lèvent en sursaut.</p>
+<p>LES VOLEURS.</p>
+<p>L B Vi Moo R.</p>
+<p>Est-ce que cette histoire ne vous a pas fait sortir du sommeil?—Le
+sommeil éternel s'en fut éveillé ! Regardez, regardez, les loix du Monde
+ne font plus que des jeux du hasard; les tiens de la Nature font brisés
+; l'antique discorde est détachée dans les enfer*. Le fils a tué son Père»</p>
+<p>LES VOLEURS.</p>
+<p>Que dit le Capitaine?</p>
+<p>LE V. MOOR.</p>
+<p><pb/></p>
+<p>regardez| regardez, il s'est évanoui. *— Dans uii (buterrein, un fils a
+jette son fere tòút vivant, —Froid ! nudité 1 faim! soif! r-O regardez
+donc, regardez donc ! — C'est mon Père, je veux bien vóus en faire l'aveu.</p>
+<p>LES V o L BU IVS s*avancent, &amp; en~ tourent le Vieillard»</p>
+<p>Ton Père ? ton Père ?</p>
+<p>S C H w'..B í z E R Rapproche respectueusement, O se jette aux pieds du
+Vieillard,</p>
+<p>Père de mon Capitaine. Je baise la poussière de tel pieds ! Commande à
+mon poignard.</p>
+<p>LE V. MOOR,</p>
+<p>N iv</p>
+<p><pb/></p>
+<p>apo LES VOLEURS,</p>
+<p>LES VOLEURS.</p>
+<p>C'est un tour de Déliai ! Qu'ils disent encore que nous sommes des
+gueux. Non,, par tous les démons, nous n'avons jamais rien fait d'auflì
+assreux!</p>
+<p>L E V. M o o R.</p>
+<p><pb/></p>
+<p>T R A G E DIE. ftoi</p>
+<p>S c H w B í z E R.</p>
+<p>Commande, Capitaine, que faut-il faire?</p>
+<p>LE V. MOOR.</p>
+<p>SCHWEIZER»</p>
+<p>LE V. M O O R,</p>
+<p>Non, dès aujourd'hui je veux te payer. Jamais, Schweizer, mortel ne fut
+honoré comme toi ! •—Venge mon Père! (Schweizerse levé»)</p>
+<p><pb/></p>
+<p>«02 LES VOL EURS,</p>
+<p>S C II W E I Z B R.</p>
+<p>Grand Capitaine ! aujourd'hui, pour la première fois, tu m'as rendu
+orgueilleux. — Ordonne ! Quand, comment, où dois-je frapper?</p>
+<p>L R V. MOOR,</p>
+<p>SCHWEIZER»</p>
+<p>II suffit, Capitaine. Touche. ( il lui tend la main ) Ou tu ne verras
+personne, ou tu nous</p>
+<p><pb/></p>
+<p>T R A G ÉDI E. 30$</p>
+<p>verras deux. Anges exterminateurs de Schweizer, venez. ( // part, suivi
+d'une bande de Voleurs (f de Hermann, )</p>
+<p>L B V. MOOR,</p>
+<p>Vous autres, dispersez-vous dans la forêt» — Je reste ici.</p>
+<p>Fin du quatrième A8e.</p>
+<p><pb/></p>
+<p>fco* LES VOLEURS, •</p>
+<p>A C TE Vo</p>
+<p>SCENE PREMIERE.</p>
+<p>Une enfilade de plusieurs Chambres.</p>
+<p>FRANÇOIS DE MOOR en robe de chambre,, se précipite* DANIEL accourt sur
+ses pas*</p>
+<p>FRANÇOIS.</p>
+<p>TTRAHI ! trahi ! Les tombeaux vomiflent des Esprits. — L'empire de la
+mort réveillé du sorn* meil éternel mugit contre l'aflaíììn !—Qui remue là?</p>
+<p>DA NIE L avec inquiétude*</p>
+<p>Que le ciel ait pitié de nous ! Est-ce vous, Monseigneur, qui poussez
+des cris si horribles fous ces voûtes, que tous ceux qui dorment s'é«
+veillent en sursaut?</p>
+<p>FRANÇOIS.</p>
+<p><pb/></p>
+<p>TRAGÉDIE. ao;</p>
+<p>tu? Tout doit être éveillé, — armé* —qu'on charge tous les fusils. Les
+as-tu vus là-bas se glisser le long des corridors ?</p>
+<p>DANIEL.</p>
+<p>Qui, Monseigneur ?</p>
+<p>FRANÇOIS.</p>
+<p>Qui ? stupide! qui? D un cceur si froid, si vuide, m demandes qui ? —
+Ils mont saisi comme un étourdissement ! Qui? âne ! qui? des Esprits &amp;
+des démons ! La nuit, est-elle bien avancée ?</p>
+<p>DANIEL.</p>
+<p>On vient de crier deux heures.</p>
+<p>FRANÇOIS.</p>
+<p>Quoi? Cette nuit veut-elle donc durer jusqu'au jour du jugement ?
+N'as-tu point entendu de tumulte dans le voisinage ? des cris de
+victoire ? Un bruit de chevaux au galop? — Où est Char...» Le Comte,
+veux-je dire?</p>
+<p>DANIEL.</p>
+<p>Je ne fais pas, mon Maître.</p>
+<p>FRANÇOIS.</p>
+<p><pb/></p>
+<p>soct LES VOLEURS,</p>
+<p>côtes, avec ton maudit, je ne sais pas ! Et aussi des mendians conjurés
+contre moi. Ciel ! enfer I tout ! contre moi conjurés !</p>
+<p>DANIEL.</p>
+<p>Mon Maître. —</p>
+<p>FRANÇOIS.</p>
+<p>Non ! je ne tremble pas ! Ce n'étoit qu'un songe. Les morts ne
+ressuscitent point encore»</p>
+<p>— Qui dit que je tremble &amp; que je suis pâle ? Je me trouve si bien, si à
+mon aise.</p>
+<p>DANIEL»</p>
+<p>Vous êtes pâle comme la mort votre voix est étouffée, entrecoupée de
+soupirs»</p>
+<p>FRANÇOIS,</p>
+<p>J'ai la fièvre, je me ferai saigner demain»</p>
+<p>DANIEL»</p>
+<p>Oh vous êtes sérieusement malade.</p>
+<p>F R A N Ç O I S»</p>
+<p>— Et la maladie trouble la raison, &amp; nous donne des rêves bizarres &amp; qui
+tiennent du prodige. — Des rêves ne signifient rien , — n'est-ce pas,
+Daniel ? —- Les rêves viennent de l'estomach, &amp;</p>
+<p><pb/></p>
+<p>TRAGÉDIE. 307</p>
+<p>des rêves ne signifient rien. J'avois tout-à-l'heure un rêve très-gai. —
+( // tombe évanoui* )</p>
+<p>DANIEL.</p>
+<p>Dieu! Qu'est-ce donc? George, Conrade ; Bastien, Martin, Donnez
+feulement un signe. {II le'secoue,) Ecoutez par pitié..,. On va dire que
+je l'ai tué ! Que Dieu ait pitié de moi !</p>
+<p>FRANÇOIS troublé*</p>
+<p>DANIEL.</p>
+<p>O bonté éternelle ! — II a perdu la raison,</p>
+<p>FRANÇOIS se relevé foible*</p>
+<p>Où suis-je? —Daniel ? Qu'ai - je dit ? N'y fais pas attention. J'ai dit
+un mensonge, quelle chose j'aye pu tê dire. Viens ! soulevé - moi. —
+C'est un étourdifiement subit, —parce que_— parce que je — n'ai pas
+aflez dormi.</p>
+<p>DANIEL.</p>
+<p>Je veux appeller des secours, je veux faire appeller des Médecins.</p>
+<p><pb/></p>
+<p>ao8 LES VOLEURS,</p>
+<p>FRANÇOIS,</p>
+<p>DANIEL.</p>
+<p>coucher. Le repos vous vaudra mieux.</p>
+<p>&gt; FRANÇOIS.</p>
+<p>Non, je t'en prie, écoute-moi, &amp; moque*toí bien de moi, — Tiens, il me
+sembloit avoir fait un repas de Roi, &amp; mou cceur étoit joyeux j dans ma
+douce ivreffe, je sommeilloisfur le gazon, dans un des jardins du
+Château, &amp; tout-à-cou p—toutà-coup — mais je te prie de bien te moquer de</p>
+<p>moi»</p>
+<p>DANIEL.</p>
+<p>Tout-à-coup?</p>
+<p>FRANÇOIS,</p>
+<p>Un coup de foudre frappe mon oreille engourdie* je me levé en chancelant
+cV avec le frisson de la mort ; &amp; regarde, je vois tout l'horifon d'une
+feule flamme, &amp; les montagnes, les Villes &amp; les forêts se fondre comme
+la cire sur un brasier, &amp; mille tempêtes de vents irrités chassoient
+devtt eux les mers, le ciel &amp; la terre.</p>
+<p>DANIEL»</p>
+<p><pb/></p>
+<p>TRAGÉDIE. aop,</p>
+<p>DANIEL»</p>
+<p>C'est lé vrai tableau du dernier jugement.</p>
+<p>FRANÇOIS.</p>
+<p>DANIEL.</p>
+<p>Que Dieu ait pitié de moi.</p>
+<p>FRANÇOIS.</p>
+<p>Ils restoienttous immobiles, pâles comme la neige i l'attente horrible
+ferroit douloureusement tous les coeurs. Alors je crus entendre mon nom
+sortir le premier des éclairs de la montagne, &amp; la moële se gela dans
+mes os, &amp; mes dents frémissantes se choquoient comme des dents de fer.</p>
+<p>DANIEL.</p>
+<p>Oh, que Dieu vous pardonne l</p>
+<p>FRANÇOIS.</p>
+<p><pb/></p>
+<p>aio L ES VOLEUR S,)</p>
+<p>sreusej tous les yeux effrayés n'ôsoient rencontrer cet Nomme.
+Jeconnoissois le Vieillard. Ilcoupo une boucle de ses cheveux argentés,
+&amp; la jette..,</p>
+<p>la jette. • .' &amp; j'entendis une voix s'élancer</p>
+<p>comme la foudre de la fumée des rochers: Grâce, grâce, pour tous les
+pécheurs de la terre. &amp; de l'ftbîme. Tu es seul rejette. ( Longue pause*
+) Eh bien, tu ne ris pas ?</p>
+<p>DANIEL.</p>
+<p>Puis-je rire, quand je sens tous mes os tressaillir ? Les songes
+viennent de Dieu,</p>
+<p>FRANÇOIS»</p>
+<p>Fi donc, fi donc ! ne dis pas cela ! Appellemoi , te dis-je ! un sot,un
+imbécií!e&gt; un enfant. Appelle-moi comme tu voudras, je t'en prie,
+Daniel, moque-toi bien de moi.</p>
+<p>DANIEL.</p>
+<p>Les songes viennent de Dieu» Je vais le prier pour vous. ( // sort. ) v</p>
+<p>FRANÇOIS.</p>
+<p>Philosophie du peuple I Craintes d'un peuple superstieux ! —- II n'est
+pas encore décidé, si le Paílé n'est point paflé , &amp; s'íí trouve un oeil
+au-dessus des étoiles.— Hm, hm! Qui me l'a</p>
+<p><pb/></p>
+<p>-. TR A G ÉDIE. . au</p>
+<p>inspiré? Seroit»il donc là-haut un Vengeur?</p>
+<p>— Non, non ! — Oui, oui ! Quels horribles fiflemens : y a-t-il là-haut
+un Juge? Patoître cette nuit même devant le suprême Vengeur ! Non —*
+Mifé||ble vuide, où veut se cacher ton cceur lâche—ISQ^tf,au-dessus des
+étoiles, tout est désert, solitaire, íïui^. — Si cependant..... Non,
+cela n'est pas ! Je veufcflue cela ne soit pas.</p>
+<p>— Mais s'il étoit vrai ?.... mi malheureux, si tout est compté! si on te
+faisoit\çn comptfoès cette nuit I—Pourquoi ce frémissement ébjjjblet-il
+tous mes os ? — Mourir ! Pourquoi ce mot% qui n'est rien, a-t-il glacé
+tout mon sang? —</p>
+<p>Rendre compte au Vengeur là-haut Et s'il</p>
+<p>est juste,—s'il est juste?</p>
+<p>S CENE II.</p>
+<p>FRANÇOIS DE MOOR,</p>
+<p>UN DOMESTIQUE accourt tout effrayé*</p>
+<p>LE DOMESTIQUE.</p>
+<p>AMÉLIE s'est échappée, le Comte a disparu.</p>
+<p>Oij</p>
+<p><pb/></p>
+<p>2U LES VOLEURS,</p>
+<p>S CE NE 111.</p>
+<p>LESPRÉCÉDENS &amp; DANIEL, encore</p>
+<p>plus effrayé*</p>
+<p>■"*•■'• *" '</p>
+<p>D K.afin L,</p>
+<p>.MONSEIGNEUR, une troupe de Cavaliers de</p>
+<p>feu vient au galop le long de l'avenue. Ils crient ;</p>
+<p>Au meurtre, au meurtre. Tout le Village est en</p>
+<p>allarmes. i</p>
+<p>FRANCO r S.</p>
+<p>Va, fais sonner toutes les cloches ensemble, que tout le monde coure à
+l'église, se prosterne — Si prie pour moi. — Tous les prisonniers seront
+libres &amp; francs} je veux tout rendre aux pauvres, doublement,
+triplement. Je veux,.... Va donc, — appelle donc le Confesseur, que fa
+bénédiction chaste au loin mes péchés.—Tu n'es pas encore parti? (Le
+tumulte augmente*)</p>
+<p>DANIEL.</p>
+<p>Que Dieu me pardonne 1 Je ne fais, voulezvous sérieusement ce que vous
+demandez ? Vous qui avez si loin rejette la prière, &amp; qui tant de fois.....</p>
+<p><pb/></p>
+<p>fT R A G Ê D ÏE. aï?</p>
+<p>FRANCO I S.</p>
+<p>Tais-toi,* — Mourir l Vois-tu ? Mourir ? II fera trop tard ( On entend
+les cris de Schweizer* ) Prie donc, prie.</p>
+<p>DANIEL,</p>
+<p>Je vous l'ai toujours dit. — Vous méprisiez tant ía prière, mais prenez
+garde, prenez garde. Quand vous ferez dans la peine, &amp; que votre ame
+(1)...,.</p>
+<p>SCHWEIZER dans la rue devant le Château,</p>
+<p>FRANÇOIS.</p>
+<p>Ecoute ma prière, Dieu du ciel. — C'est pour la première fois. —
+Exauce-moi, Dieu du ciel !</p>
+<p>S C H W B í z E R encore dans la cour.</p>
+<p>Oiij</p>
+<p><pb/></p>
+<p>ai4 L£$ VO L E;URS,</p>
+<p>t f Q R I M M.</p>
+<p>Allez chercher des tisons enflammés. — Nous</p>
+<p>monterons, ou il descendra} je vais brûler son</p>
+<p>Château.</p>
+<p>FRANÇOIS prie*</p>
+<p>D. A N I EL.</p>
+<p>Je ne puis pas prier. ( frappant fa poitrine O son front,) Ici &amp; là,
+tout est vuide &amp; sec. (11 se levé* ) Non, je ne veux pas prier. DANIEL.</p>
+<p>Jesus-Maria! aidez-nous — sauvèz-nous, tout le Château est en feu.</p>
+<p>F RA to ç ois.</p>
+<p><pb/></p>
+<p>T R A G É D I E. ai£</p>
+<p>DAN Í EL.</p>
+<p>Que Dieu m'en garde ! Je ne voudrois envoyer personne trop tôt dans le
+ciel, bien moins encore*..</p>
+<p>. ;( 11 s'enfuit* )</p>
+<p>SCENE IV.</p>
+<p>FRANÇOIS DE MOOR seul, U regarde s'enfuir*</p>
+<p>Oiv</p>
+<p><pb/></p>
+<p>&amp;ìS -LE S V O LÉURS,</p>
+<p>S CE NE V. ......</p>
+<p>LE VIEILLARD MOOR assis fur une pierre* LE VOLEUR MOOR vis-à-vis de luu
+Quelques VOLEURS épars dans la forêt*.</p>
+<p>LE VOLEUR MOOR.</p>
+<p>JL VOUS fut cher, votre autre fils ?</p>
+<p>LE VIEILLARD.</p>
+<p>Tu le fais, ô ciel ! Pourquoi me fuis-je laissé tromper par les ruses
+d'un mauvais fils ? J'étois un Père heureux entre les Pères» Belles
+fleurs, mes enfans pleins d'espérances fieurissoient autour de moi» Mais
+—heure infortunée 1-Un mauvais génie est entré dans le coeur de mon
+second fils, je me confiai au serpent, — &amp; j'ai perdu .mes deux enfans !
+( // cache fin visage dans ses mains tremblantes* Le Voleur Moor
+^éloigne de lui») Oh) que je sens profondément ce que m'a dit Amélie Í
+c'est la vengeance elle-même qui a parlé par fa bouche. « Tu étendras en
+vain ta main mouP rante vers un fils ; en vain tu croiras saisir la main</p>
+<p><pb/></p>
+<p>/ T R A G È D I E. ûï%</p>
+<p>*&gt; brûlante de ton Charles, qui ne fera jamais près de » ton lit,,.. »
+(Le Voleur Moor,sans le regarder* lui tend la main.) Ah si tu étois la
+main de mon Charles! — Mais il habite loin d'ici la maison étroite, ( í
+) il dort déja du sommeil de fer, il n'entendra jamais la voix de ma
+douleur. — Malheureux Père ! Mourir dans les bras d'un étranger ! — Plus
+de fils,-—plus de fils pour me fermer les yeux !</p>
+<p>L E V. MOOR dans la plus violente émotion*</p>
+<p>II faut que cela soit en ce moment, — oui, dans ce moment. ( Aux
+Voleurs, ) Laissez - nous seuls» — Et cependant..... Puis-je lui rendre
+son fils ? —Je ne puis jamais lui rendre son fils ! — Non, je ne le
+ferai pas. Non.</p>
+<p>L E VIEILLARD»</p>
+<p>Ton fils, — oui, Vieillard, — (bégayant) ton fils-—est— éternellement
+perdul</p>
+<p>L E V I E I L L A R D.</p>
+<p>Eternellement?</p>
+<p>(t) C'est-àdire, le Corcueil.</p>
+<p><pb/></p>
+<p>p$ LgS VOLEURS,</p>
+<p>L E V. M ; o • o R regardant le ciel avec le plus affreux serrement de
+cceur»</p>
+<p>Oh, pour cette fois, seulement, ne permets point que mon âme succombe.—-
+Pour cette fois feulement, soutiens ma force épuisée !</p>
+<p>VIEIL L A R D.</p>
+<p>Eternellement, dis-tû ?</p>
+<p>L E V. M o OR.</p>
+<p>Ne demande plus rien, — Oui, te dis-je. éternellement»</p>
+<p>LE VIEILLARD.</p>
+<p>Etranger, étranger, pourquoi rnas-tu tiré de la tour?</p>
+<p>LE VIEILLARD /Í serrant contre son cceur*</p>
+<p>Pense que c'est le baiser d'un Père, &amp; moi, je penserai que je tiens mon
+Charles entre mes bras. —Tu peux pleurer?</p>
+<p><pb/></p>
+<p>T R A G EDI E. 2ïp</p>
+<p>L B V* M 6 o R» .</p>
+<p>Je pensois que c'étoit le baiser d'un Père. (II se jette afin col,
+Pause, On entend un bruit sourd) &amp; Von appetçoit la lueur qui précédé
+les flambeaux, qu*on ne voit point encore. Le Voleur Moor se levé
+avecprécìpiiatìon,)Ecoute&gt;hvet)geancç\aszccom' plir, ils viennent.
+(IIjette un regard fur le Vieillard, &amp; levé au ciel fis-yeux avec une
+sombre fureur») Agneau foustrant,embrâse&gt;moi delafureur du tigre
+sanguinaire} je veux te porter une telle victime, que tes astres se
+couvriront de ténèbres, &amp; que la nature se roidira d'un frémissement de
+mort. ( On découvre les flambeaux, le bruit augmente , on entend
+plusieurs coups de pistolet» ) LE VIEILLARD.</p>
+<p>LE V. MOOR dé T autre côté, les mains • levées au ciel, avec fureur»</p>
+<p>LE VIEILLARD. Hélas l — que dis-tu tout bas, étranger ?—C'est horrible !
+horrible !</p>
+<p><pb/></p>
+<p>jaao LES VOLEURS,</p>
+<p>LE V. M O O R.</p>
+<p>JB PRIE DIEU» ( Musique sauvage des Voleurs qiù arrivent» )</p>
+<p>L E V I E I L L A R D.</p>
+<p>Oh n'oublie pas mon François dans ta prière.</p>
+<p>LE V. MOOR a*une voix que la rage étouffe*</p>
+<p>Je ne L'OUBLIE PAS.</p>
+<p>LË VIEILLARD.</p>
+<p>SCENE VI.</p>
+<p>LES PRÉCÉDENS. SCHWEIZER paroit h premier, ensuite une troupe de VOLEURS
+\ au milieu d'eux, FRANÇOIS DE MOOR, les mains enchaînées*</p>
+<p>SCHWEIZER.</p>
+<p>TRI OMPHB , Capitaine ! — Le voici! — Mon honneur est dégagé. '</p>
+<p><pb/></p>
+<p>TRAGÉDIE. aii</p>
+<p>G R I M M.</p>
+<p>Nous l'avons arraché du milieu des flammes de son Château. — Ses vassaux
+ont pris la fuite.</p>
+<p>KOSINSKY.</p>
+<p>LE V. MOOR S''avance lentement* A François de Moor, dyune voix austère &amp;
+calme*</p>
+<p>FRANÇOIS DE M Q OR recule d'horreur*.</p>
+<p>Tonnerres , tombez fur moi ! Mon Père !</p>
+<p>LE VIEILLARD fi détourne en frémissant»</p>
+<p>Va. — Que Dieu te pardonne l — J'oublie,,..</p>
+<p>LE V. M o O 'R avec une horrible sévérité.</p>
+<p><pb/></p>
+<p>m-... LE s \yóLEir RS,</p>
+<p>Quoi / monstre ? Ta haine envers ma famille a poursuivi mon Père jusques
+dans cette tour ?</p>
+<p>•• -. H E R M À N N.</p>
+<p>• • ' '«f ■•</p>
+<p>L E V. M o OR.</p>
+<p>C'en est assez. — Emmenez ce Vieillard plus . avant dans la forêt.—' Je
+n'ai pas besoin ici des larmes d'un Père. (Us emmennent le Vieillard,
+qui est presque fans connoïffancé») Approchez &gt; Bandits. ( Us forment
+une demi-lune autour des deux frères, &amp;, les yeux hagards, ils restent
+appuyés fur leurs fusils» ) A présent, point de bruit. — Aussi vrai que
+j'espère le pardon de mes crimes 1—au premier qui feulement remuera fa
+langue avant mon ordre, je fais sauter la cervelle. — Paix.</p>
+<p>x (i) Bravo ! bravo ! Sô ist doeh keîn Teufel, so liiderlîch seîncn
+Vasállen in der ìetten. Lilge zu verlaíTen. Bravo I bravo I Aucun démon
+n*est donc affe\ lâche pour abandonner son vassal dans U dernier mensonge*</p>
+<p><pb/></p>
+<p>TRAGÉDIE. 3*3</p>
+<p>Ha ! monstre. Que ne puis-je cracher dans cette écume tout mon poison
+sur ta hideuse figure t</p>
+<p>— Oh c'est amer ! (II mord fis chaînes en pieu» rant» ) V</p>
+<p>LE V. MOOR dans une attitude majestueuse* .</p>
+<p>,-.'S,ca WB.IÏBB , après Une paufi.</p>
+<p><pb/></p>
+<p>224 LES V O LE U. R S,</p>
+<p>quelque chose de neuf? — La vie fi riche en joies I La mort, si pauvre
+en tourmens I (Frappant la terre, ) Parle, toi, je ne peux rien trouver.</p>
+<p>KOSINSKY.'</p>
+<p>SCHWEIZER.</p>
+<p>Moi qui ai blanchi dans les scènes de la douleur, je n'en pourrois
+inventer pour le punir. — N'at-il pas commis ces horreurs dans cette
+affreuse tour ? ne jugeons-nous pas auprès de cette horrible tour? —
+Allons, en bas ! Qu'il y pourrisse l</p>
+<p>LES V o LE u R s applaudissant avec beaucoup de tumulte.</p>
+<p>En bas ! en bas ! ( Ils veulent fi jetter sir François, )</p>
+<p>F R A N ç ois s"*élançant dans les bras de fin frère*</p>
+<p>Sauve-moi des griffes des astafiins t Sauve-moi, mon frère ! *</p>
+<p>LE V. MOOR avec un grandsang-froid* Tu m'as fait leur Chef. (François
+recule effrayé,) Me prieras-tu encore ?</p>
+<p>LES</p>
+<p><pb/></p>
+<p>V T R A GÌD I E» à%f</p>
+<p>LÉ s iV' o L E u R s avec un plus grand</p>
+<p>En bas 1 en bas! .</p>
+<p>LE V. M o "o R s* approche de fin frère , d'un air plein de noblesse &amp;
+de douleur» •</p>
+<p>Fils de mon Père , tu m'as volé mon ciel. Que cè crime ne pèse jamais
+fur toi. — Va dans. Penser, fils de corbeau» (í) Je te pardonne, mon
+frerè» (U Vembrdfje &amp; jenfùit. Les Voleurs pré" cipitent François dans
+le fouterrein , en jettant des éclats de rire») uï;</p>
+<p>LE V* Mo OR revient plongé dans fis réflexions»</p>
+<p>CHEF DE CES BRIGANDS r — — Providence éternelle, ici je frémis — &amp;
+j'adore ! — Eh bien, j'y veux croire, &amp; jë terminé toon ouvragé au but.—
+Le Vainqueur tonibe avec tant d'éclat dans le plus beau de ses combats.
+Avec ces nuages de</p>
+<p>(i) Rabenfohrí. Le corbeau est le symbole des ingrats* Tome XIL P</p>
+<p><pb/></p>
+<p>226* L £S VOL EUR S,</p>
+<p>pourpre &amp; d'azur, je veux m'évanouir. (í) Faites approcher le Père. (
+Quelques Voleurs s'écartent, &amp; vont chercher le Vieillard»)</p>
+<p>L B P B R E»</p>
+<p>Oílme conduisez-vous? Où est mon fils?</p>
+<p>LE V» Mo p R syavançant avec dignité*, &amp; un grand calme»</p>
+<p>Astres &amp; grain de fable ont chacun fa place dans la création. •—Ton fils
+a aussi LA SIENNE. Sois tranquille, &amp; assieds-toi.</p>
+<p>L B V í B í L L À R D fond en larmes*</p>
+<p>Plus d'enfans? Plus d'enfans du tout?</p>
+<p><pb/></p>
+<p>T R A 0 Ê D I E. as?</p>
+<p>L B Vi-M'ÓORi</p>
+<p>Sois câliné, &amp; aíïîécís-toî.</p>
+<p>LE V t ÉI L L A R D.</p>
+<p>Oh qu'ils ont un coeur tendre ces barbares 1 Ils retirent un Vieillard
+mourant des ombres d'un souterrelrt, pour lui dire i f Ès ENFANS SONT
+ÏUBSI Oh de grâce ! À votre pitié, mettez le comble, &amp; reprécipité^mòi
+daris la tour.</p>
+<p>LE VOLEUR MOOR saisit sa main avec vio* lence, &amp; la levé avec transport
+vers le ciel»</p>
+<p>L B V í BILLARD.</p>
+<p>L s V. M o o R d'une Vôìx cólere*</p>
+<p>Sexagénaire, ne parle plus ainsi» ( Avec plus de douceur &amp; avec
+douleur*) Si sa divinité tfíême échauffe les PÉCHEURS , tes Saints
+doiverìt^ils donc les íepouíTer? Et où trouveroii-tu des paroles pour
+lui demander pardon, si aú/oufd'hui — IL T'AVOJ* BÀPTlsitMìitèì</p>
+<p>Pi)</p>
+<p><pb/></p>
+<p>aaS LES VOLEURS, LE V í E j L L A R D amèrement, Baptise-t-on
+aujourd'hui avec du sang? . L B V. Mo OR.</p>
+<p>Que dis*tu? —Est-ce qqe. le désespoir révèle auífi la vérité? — Oui,
+Vje.ilMfd, la Providence peut aussi baptiser, avecjju sang. — G'ellavec
+du sang qu'elle a aujourd'hui baptisé pour toi,-^ Ses voies font
+merveilleuses &amp; terribles j — mais des larmes de joie couleront au bout
+de la carrière»</p>
+<p>Asvv L B. V í B í L L A R D,</p>
+<p>^OS les pleurerai-je ?</p>
+<p>LE V.MOOI se jettant dans ses bras-*</p>
+<p>Sur le cceur de ton Charles. ..</p>
+<p>L B VIEILLARD &gt; dans les transports de la joie paternelle*</p>
+<p>JVton jÇharî^s vit y</p>
+<p>L E V. Mo o R,</p>
+<p><pb/></p>
+<p>TRAGEDIE. 129</p>
+<p>L ES V O L E U R S.</p>
+<p>II y a du monde dans la forêt 1 des voix l</p>
+<p>LE VIEILLARD.</p>
+<p>Ces hommes sont-ils tes amis ? — Je crains presque leurs regards. .</p>
+<p>L E V. M o o R.</p>
+<p>»,</p>
+<p>Demande tout, mon Père, — ne me demande pas cela,</p>
+<p>SCENE FIL</p>
+<p>LES PRÉCÉDENS, AMÉLIE, les</p>
+<p>'• A M B L'I E. .»:,,.*'</p>
+<p>JLES morts, diféót-ils',sont ressuscitési àfa voix. •—Mon oncle est
+vivant,—est sorti de ces noirs souterreins. -^ Mon Charles 1 mon oncle !
+Où forit4ils?</p>
+<p>P")</p>
+<p><pb/></p>
+<p>Pjp LÇS VOLEURS,</p>
+<p>LE V» MOOR recule, en frémissant*</p>
+<p>Ce tableau fous mes yeux ?</p>
+<p>L B V í B i L L A R D se levé en tremblant*</p>
+<p>Amélie, ma nièce 1 Amélie !</p>
+<p>AMÉLIE fi jette jans les bras d,u Vkillard»</p>
+<p>Tu m'es rendu, mon père, -r &amp; mon Charles i — &amp; tout.</p>
+<p>L E V i B i L t, A R Pt</p>
+<p>Mon Charles vit ■** tout -» moi —tout. — Mpn Châties vit.</p>
+<p>Partons, Camarades, un démon m'a trahi.</p>
+<p>AMÉLIE s'échappe des embrajsemens du Père &amp; court dans les bras de
+Charles qu\lle embrasse ayeç extase*</p>
+<p>Je,;PaU Oh vous 4toilejîM.. Je,l'ai.</p>
+<p>LE V. M oo R» Ï Arrachez-la de mes bras ! —- Tuez-la,—tuez\%*r* WQÌ ,;
+yous,, tçms ! -tfQue le monde entier</p>
+<p>:; A M$ £ ? B. ;:. Mon époux! mon époux! tu es en délires Ah!</p>
+<p><pb/></p>
+<p>T Bí A G É D I Eè 2)t</p>
+<p>de raviísement 1 Pourquoi suis-je si insensible? Au milieu de ces
+torrens de joie, je fuis si froide.</p>
+<p>LE V I B I L L A RI).</p>
+<p>AMÉLIE.</p>
+<p>LE V. MOOR s'étant arraché des bras d'Amélie,</p>
+<p>Fuis 1 fuis 1 — La plus malheureuse des Prétendues ! — Regarde ,
+interroge, prête Toreille ! — Le plus malheureux des Pères! laide-moi
+m'enfuir pour toujours.</p>
+<p>AMÉLIE.</p>
+<p>Où ? Comment ? Amour ! Eternité I Joie infinie ! Et tu fuis ?</p>
+<p>LE V i E I L L A R b.</p>
+<p>Mon fils qui fuit? Mòn (ils qui s'enfuit?</p>
+<p>LE V» MOOR»</p>
+<p>C'est trop tard ! — C'est en vain ! -r- Ta malé*</p>
+<p>Piv</p>
+<p><pb/></p>
+<p>4ja LES^ V O LE y RS, diction»»... Père !.. • » • ne veuille pas
+savoir.—i Je suis.,, j'ai —ta malédiction^ ta./o/V/fcyà»**(i)
+malédiction, (Avec plus de fermeté») Meurs donc, Amélie ! E toi, mon
+Père, meurs ! Meurs' par moi pour la seconde fois, —- Ceux-là, que
+voici, qui t'ont sauvé, font des. Voleurs, des aflaílìrísf Ton fils est
+— leur Capitaine. -</p>
+<p>LE VIEIL LA R D»</p>
+<p>Dieu ! Mes enfans l ( II meurt, )</p>
+<p>( Comme un marbre inanimé, 'Amélie resie immobile» Toute la Bande garde
+un silence terrible, )</p>
+<p>LE V. MOOR dans fin désespoir, va fi frapper la tùe contre un chêne*</p>
+<p>T :</p>
+<p>(1) Vermeyntery mal-comprise Í que j'ai malheureusement prjse pqúr xz
+malédiction. Ta prétendue malédiction eut été amphibologique.</p>
+<p>(%) Sein irh die FJámmen/íc^ín an d en Wiegen der Soeiiglîngeí
+Voye^-vous des flammes lécher les berceaux des</p>
+<p><pb/></p>
+<p>T TR A OE DIE. afi</p>
+<p>A M E L ,i R\ comme fi réveillant de l éternel</p>
+<p>,- sommeil*</p>
+<p>Cela est vrai,;Maître du ciel. II dit"que cela est vrai, —-Qu'aide donc
+fait, Agneau fans {ache? J'aivaimé CELUI-CI. (2)</p>
+<p>Des langues de feu qui dévorent, &amp;c. rendent certainement
+rimagedel'Auteur, mais, qu'on y faflè attention, ces. mots qui font
+usés, n'ont plus la terreur de la surprise, leur pointure est émousiee,^
+ab àjsuetis non fit pasiìo* L'autre expreflìpii, neuve, saisit le coeurî
+comme frappé d'un coup de tonnerre, on se recueille pour en sentir toute
+Thorreur. '</p>
+<p>(!) Dieu, . (1) Tu m'as fait aimer un assajsvu</p>
+<p><pb/></p>
+<p>2H &amp; ES VOLEURS,</p>
+<p>L B V» M oo'ii,</p>
+<p>AMÉLIE fi précipite dans fis bras.</p>
+<p>L B V. Mo OR étonné,</p>
+<p>Est-ce un songe? siuVjeen délire? L'enferat*H</p>
+<p>L'enferat*H une ruse nouvelle pour me livrer à</p>
+<p>sa risée infernale? — Elie est dans les bras de</p>
+<p>sestastmt"</p>
+<p>A M é L f B. v</p>
+<p>Inséparable ,&amp; pour l'éternùé ! LE V. M O O B.</p>
+<p><pb/></p>
+<p>T R A G É D I E. atf</p>
+<p>lumière pleurent dans les bras des démons rentrés en grâce. — Mes furies
+étouffent leurs ferpens, L'enferest anéanti,—Je fuis heureux ! (IIcache
+fin visage fur lefimd*Âméliei un groupe touchant. Pause*)</p>
+<p>G R i M M i avançant avec fureur»</p>
+<p>Arrête, traître, fors de ses bras fur l'heure , •~* ou je te dirai un
+mot qui te fera frissonner,</p>
+<p>S c H w B i z B R met fin épée entre Moor &amp; Grimm*</p>
+<p>Pense aux forêts bohémiennes, Entends-tu? Tremble-tu? Je te dis de
+penser aux forêts bohémiennes» Parjure 1 où font tes fermens ?
+Oublie-t-on si vîte les blestures —la fortune,— l'honneur &amp; la vie, que
+nous avons méprisés pour, toi -*- lorsque nous soutenions la foudre»
+inébranlables comme des murs d'airain? N*as*tu, pas alors levé ta main,
+&amp;, par un ferment de fer, n'as-tu pas juré de n'abandonner jamais tes
+Camarades , qui ne t'ont jamais abandonné ? Homme fans honneur, fans foi
+1 Et tu veux être séduit * quand une femme pleure ?</p>
+<p>LES VOLEURS avec un bruit confus » , découvrent leur potrìne*</p>
+<p>Regarde ici, regarde l Connois-tu ces cica-</p>
+<p><pb/></p>
+<p>yt LES VOLEURS,</p>
+<p>LE V. MOOR se dégage des bras d'Amélie*</p>
+<p>C'est fini I Je voulois enfin retourner vers mon Père i mais CELUI qui
+est dans le ciel a dit: Non I — Ne roule pas ainsi de sombres regards,
+Amélie. — II n'a pas besoin de moi. — N'a-t-il pas des milliers de
+créatures? II peut si aisément se passer D'UN SEUL ÊTRE. — Cet uir'9
+c'est moi, Venez, Camarades» ( // se tourne vers la Bande,)</p>
+<p>Attends donc, arrête 1 un seul coup ! un coup mortel ! ËNÇORB ABANDONNÉE
+I (Touchant h garde de fin épèe d'une main tremblante») Tire donc ton
+épée, aye pitié de moi.</p>
+<p>, L B V. M 0 O R. &amp;</p>
+<p>La pitié est dans le cceur des tigres. Je ne tu» point, . i . . / ..</p>
+<p>AMÉLIE embrassant fis genoux*</p>
+<p><pb/></p>
+<p>TR A G ÊDIE, 237</p>
+<p>L B V. MOOR avec une grande rigueur*</p>
+<p>Veux-tu être seule heureuse ? Va t-'en 1 Je ne tue pas de femmes,</p>
+<p>AMÉLIE,</p>
+<p>L B V. M o OR comme un tigre ìíritéi</p>
+<p>Rétirez-vous, harpies. (II fi met entre leurs fufiìs&amp; Amélie, avec
+laplusterriblemajesté,) Qu'un</p>
+<p>(1 ) Feigherziger Prablér.Un lâche glorieux*</p>
+<p><pb/></p>
+<p>338 LES VOLEURS,</p>
+<p>LES VOLEURS les couchent tous deux enjoué, NOUS.</p>
+<p><pb/></p>
+<p>T R A G E DIE. fljf</p>
+<p>hx s VOLEURS en tumulte battent des mains,</p>
+<p>tìràvò! bravo I Cela s'appelle dégager son honneuren Prince de Voleurs.
+Bravo!</p>
+<p><pb/></p>
+<p>«40 L ESI V O L E U R S</p>
+<p>A M é, L i, È baignée Jans fin sang*</p>
+<p>Douce. (Elle lui tend la main9 n v expire, )</p>
+<p>LES VOLEURS s'appfêchantenfiùie»,</p>
+<p>■à,-' LI</p>
+<p><pb/></p>
+<p>TRAGÉDIE, 2&lt;*r</p>
+<p>L B V. M o o R.</p>
+<p>L B s V o L B u R s»</p>
+<p>Ah, lâche ! Que deviennent tes grands des-* seins ? C'étoient donc des
+bulles de savon, que le dernier soupir d'une femme fait éclater, (i)</p>
+<p>L B V, M o o R.</p>
+<p>cou(i) , que les râlemens de mort d'une femme*</p>
+<p>Tome XII* Q</p>
+<p><pb/></p>
+<p>iii iErVÒLE UrlS, rage. Servez un Roi qui combatte pour les droits de
+l'humanité. C'est avec cette,bénédiction que jè vous renvois. —
+Schweizer &amp; Kofínsky » restez;</p>
+<p>S CE NE VIII*</p>
+<p>LE VOLEUR MOOR, SCHWEIZER, KOSINSKY.</p>
+<p>L ë V. M o o R.</p>
+<p>( t ) Als dcine Niemalgefallene. — Que tes Jamais tombés,</p>
+<p><pb/></p>
+<p>T R A GÉPtl» Ù0</p>
+<p>( Schweizer &amp; Kosinsky fi cachent le visage P &amp; s'éloignent»)</p>
+<p>QiJ</p>
+<p><pb/></p>
+<p>$44 L ES V 0 LEURS,</p>
+<p>S CE NE I X &amp; derniere,</p>
+<p>LE V O LEU R MOOR seul*</p>
+<p>Fin du cinquième Acte*</p>
+<p><pb/></p>
+<p>LE</p>
+<p>BON F I L S|</p>
+<p>C O M JË'Jp-X JS EN U N' ACTE'</p>
+<p>E T E N P R O S E. PAR</p>
+<p>J, J. E N G EL.</p>
+<p>Collège de Joachlmithal á Beilln, a publié, en 1770, te bon Fiti.</p>
+<p>ta Pharmacie , Farce tuélee d'Ailettes, en troli actes. Une</p>
+<p>traduction Allemande du Diamant, de Collé, &amp; de l'Histolte de</p>
+<p>l'Abbé le Batteu*, fitr te» opinion* de* Philosophes, En 1774^</p>
+<p>il a donné le Page*/Comédie en un acte. En 17;; íc 1777, U</p>
+<p>Philosophe Mondain, ta 2 vol. En 1779» une traduction de ta</p>
+<p>Bonne Femme, detioldonl. En 17(0. une Lettre M. Reichard,»</p>
+<p>Zedlitt, súr la maniéré de développer ta Logique par tìtt dialogue*</p>
+<p>ftatonique*. II vient de publier cette année det Lettré, stir Van dt</p>
+<p>U Pantomime* dom tout Ici Amitturi «(tendent U fuite av« !m«.</p>
+<p>fátienee.</p>
+<p>Qilj</p>
+<p><pb/></p>
+<p>PERSONNAGES,</p>
+<p>JvODE , Laboureur, un Vieillard* RACHEL,/* Femme, '</p>
+<p>MARGUERITE, leur Fille, MICHEL, son Prétendu* CATHERINE, Mère de Michet,
+LE MAGISTER du Village* UN SERGENT, Recruteur, DES SOLDATS. DES PAYSANS,</p>
+<p>La lieu de la Scène tft, me place cham* pétre garnie dyarbres &gt; devant
+la maison de Rode* Dans Renfoncement y on découvre une petite colline.</p>
+<p><pb/></p>
+<p>L E</p>
+<p>, BON.FILSs</p>
+<p>SCENE PREMIERE.</p>
+<p>RODE sort de la maison , étendant les bras comme un homme qïii cherche à
+fi réveiller* '</p>
+<p>Qiv</p>
+<p><pb/></p>
+<p>â&amp; L É B O N F I L S, peut-être...... Peut-être que mon fils est levé</p>
+<p>SCENE II* RODE &amp; R ACHEL*</p>
+<p>R A C H B L.</p>
+<p>DBJÀ ici? Je ne favois pas ce que tu étois</p>
+<p>devenu*</p>
+<p>RODE.'</p>
+<p>R A c H E L affligée* Ah 1 — Peut-être ne fait-il plus rien 1</p>
+<p>R O D B.</p>
+<p>Toujours les mêmes inquiétudes? Croîs-moi donc 1 Nous le reverrons, j'en
+fuis sûr comme de</p>
+<p><pb/></p>
+<p>C O M Ê D I Ë. 249</p>
+<p>ma vie; car, vois-tu, je le demande tous les</p>
+<p>R A c H EL.</p>
+<p>ami i</p>
+<p>RODE branlant la tête»</p>
+<p>Le Roi lui paie son sang?</p>
+<p>R A c H E L»</p>
+<p>Certainement. Son sang &amp; sa vie*</p>
+<p>R O D E.</p>
+<p><pb/></p>
+<p>*fò LE BON FILS/</p>
+<p>R A c H B L en soupirant. Ah si la paix pouvoit se faire 1</p>
+<p>R o D H. On dit qu'elle est faite.</p>
+<p>R A c H B L.</p>
+<p>On dit, —ah oui, on dit, on dit ce qu'on</p>
+<p>veut.</p>
+<p>RODE.</p>
+<p>JBt-il faut qu'ils aient raison ^puisqu'il y a même déja des Régimens
+qui s'en retournent dans leurs quartiers.</p>
+<p>R A C H B L.</p>
+<p>Ah, si c'étoit vrai !</p>
+<p>R o D B.</p>
+<p>semaines»</p>
+<p>R A c H B L avec joie*</p>
+<p><pb/></p>
+<p>R o DE.</p>
+<p>Je reconnoîtrai bien mon fils, j'espère t</p>
+<p>R A c H E L.</p>
+<p>En habit d'Officier,y mon ami j tout couvert d'or, &amp; auflî un cordon &amp;
+une xroìx* — Tu m'as dit qu'il en avoit une?</p>
+<p>RODE. Certainement. II s'est tant distingué.</p>
+<p>R A G H E L.</p>
+<p>Je voudrois bien voir quel air il a.</p>
+<p>RODE.</p>
+<p><pb/></p>
+<p>ft* LE. Ba^LS,</p>
+<p>SCENE 1IL</p>
+<p>LES PRÉCÉDENS, LE MAGISTER.(i*^</p>
+<p>LE M A G I ST B R.</p>
+<p>SON jour, Père Rode, bon jour laraere</p>
+<p>RODE.</p>
+<p>Aha I Bon jour, M. le Magister. ( Vun &amp; t autre lui donnent la main*)</p>
+<p>LB MAGISTER.</p>
+<p>RODE,</p>
+<p>Femme, cela est vrai, au moins, — Je me fuis couché hier avant que
+Marguerite ne fût rentrée, A-t-elle apporté quelque chose ?</p>
+<p>R A C H B L. v</p>
+<p>Oh oui, elle a apporté quelque chose, &amp; aussi</p>
+<p>( t ) Der KUster veu^ire Bedeau &gt; Sacristain &amp; Maître d'école, paçcé que
+dans les Villages de TAllemagne, les trois efnplois n'en font qu'un» Ce»
+caractères itès-fréquens dahs les Wcce* Allemande) &gt; font un emploi
+particulier*/</p>
+<p><pb/></p>
+<p>€ Ô M É D I E. z$y</p>
+<p>une lettre» Mais elle dort encore de-si bon appétit, Faut-il que ]ë
+J'éveille ?</p>
+<p>R o D E.</p>
+<p>S CE NE I V*</p>
+<p>RODE, LE MAGISTER.</p>
+<p>RODE.</p>
+<p>LE MAGISTER.</p>
+<p>Il n'est pas possible 1 Chef d'un escadron ?</p>
+<p>RODE.</p>
+<p><pb/></p>
+<p>a# LE BON FI B $,</p>
+<p>L E M A G ISTEB, • ' N : • ;</p>
+<p>Mais qu'a-t-il donc fait encore de nouveau? Racontez-moi donc cela, père
+Rode,</p>
+<p>RODE,</p>
+<p>Ecoutez moi donc bien, Monsieur le Magister. Dans la derniere bataille
+...... près de......</p>
+<p>L K MAGISTER.</p>
+<p><pb/></p>
+<p>COMEDIE,; fyS</p>
+<p>R o u B en souriant* N'est-ce pas ?</p>
+<p>S CENE V.</p>
+<p>LES PRÉCÉDENS, RACHEfc, MARGUERITE.</p>
+<p>RA C HE L.</p>
+<p>3NE la gronde pas, je t'en prie, je l'ai trouvée</p>
+<p>levée.</p>
+<p>MARGUERITE.</p>
+<p>R A C H B L.</p>
+<p>C'est'à-dire, six.</p>
+<p>MARGUERITE en bâillant mcoru Le Maître de la Poste a dit douze. R A C M B U</p>
+<p>Oh, je devine» — II nous augmente, parce.</p>
+<p><pb/></p>
+<p>2S6 LE BON FILS,</p>
+<p>que ses appointement font augmentés» II fait pour nous au-dessus de ses
+forces, n'est-ce pas, mon ami?</p>
+<p>R O D B.</p>
+<p>Ce bon Frédéric $ je peux bien vivre avec six écus, peut-étre.</p>
+<p>MARGUERITE,</p>
+<p>Et le vin, mon Père que mon frère vous fait livrer par ce vieux Marchand
+au gros nez bleu— (en bâillant ) Comment l'appellez-vous ì — II est déja
+dans votre chambre. II y en a un panier tout plein.</p>
+<p>LE MAGISTER avec une grande? attention*</p>
+<p>Un panier tout plein ? Ah ! ah ! RODE.</p>
+<p>II y en aura une bouteille pour vous, M» le , Magister. Vous n'avez qu'à
+l'envoyer chercher, (Le Magister le remercie a*un air très-content,) —^
+Ce n'ést pas tout, il faui aussi en boire un coup avec moi pendant que
+vous me lirezla lettre. Allons, la iriere, apporte^nous une bouteille &amp;
+trois verres, &amp; aussi de quoi déjeûner : &amp; toi, Marguerite, donne ici
+une table &amp; deux chaises. Dépêche-toi. (Rachel6» Marguerite s'efi vont,)</p>
+<p>RACHEL</p>
+<p><pb/></p>
+<p>COMEDIE. *$%</p>
+<p>RAGHEI. rentrant dans la maison.</p>
+<p>Mais n'allez pas lire fans moi, au moins. Attendez, je vous en prie, que
+je fois là.</p>
+<p>SCENE VI.</p>
+<p>RODE, LE MAGISTER &amp; . . MARGUERITE, qui va &amp; vient pour servir le déjeûner*</p>
+<p>RODE.</p>
+<p>OUVREZ-la toujours, M. le Magister? nous n'ôterons pas ce qui est dedans
+pour cela, Je voudrois pourtant bien savoir ce qu'il nous dit de la
+paix, &amp; s'il viendra bientôt ?</p>
+<p>LE MAGISTER.</p>
+<p>De la paix, dites-vous? On en parle beaucoup;</p>
+<p>Est-ce que si la paix étoit signée on feroit tant de</p>
+<p>recrues?</p>
+<p>RODE.</p>
+<p>* LE M A G i s T E R.</p>
+<p>Vous savez bien qu'il est arrivé hier au soir un Sergent, àvec quelques
+soldats ?</p>
+<p>Tome XIJ% R</p>
+<p><pb/></p>
+<p>a;8 LE. BON FILS,</p>
+<p>RODE.</p>
+<p>Pour recruter? Seroit-il possible I</p>
+<p>LE MAGISTER.</p>
+<p>Mais très-postìble I Tous nos jeunes gens en ont presque la fièvre .de
+peur.</p>
+<p>RODE,</p>
+<p>Oh les imbécilles ! De quoi ont-ils peur ? — Sont-ils capables de
+servir, qu'ils marchent, qu'ils fervent le Roi» — Chaque homme aura son
+dernier jour, dit M. le Curé, le canon ou la fièvre; «'est égal ! M. le
+Magister, c'est égal I</p>
+<p>L E M A G I S T E R.</p>
+<p>Mais que diriez-vous, s'ilJ vous pêchoient le Prétendu de votre fille?
+C'est un jeune drôle, bien découplé I ~* Prenez-y garde. Roi) B. Oh que
+nennis pour celui-là, il n'y a pas d'inquiétude, v</p>
+<p>L B MAGISTER.</p>
+<p>Allons, allons, nous voulons eipérer qu'ils ne remmèneront pas.</p>
+<p>M A R Q V E R i T E . qui a de)a apporte la table, &amp; des chaises &amp; du
+vin, tire son Père par la manche.</p>
+<p>Papa—</p>
+<p><pb/></p>
+<p>COMÉDIE. a/g</p>
+<p>RODE, $</p>
+<p>Qu'est-ce c'est?</p>
+<p>MARGUERITE.</p>
+<p>Je voudrois bien vous prier de quelque chose»</p>
+<p>mon Papa.</p>
+<p>RODE.</p>
+<p>Je le veux bien, parle.</p>
+<p>MARGUERITE.</p>
+<p>RODE.</p>
+<p>Je parie que tu veux aller déjeûner avec lui?</p>
+<p>MARGUERITE un peu honteuse.</p>
+<p>Oúi, Papa.</p>
+<p>RODE,</p>
+<p>Rij</p>
+<p><pb/></p>
+<p>&amp;ÍQ LE &lt;B ON.FIL S,</p>
+<p>si tu.n'aimes, pa? tpn frère Frédéric, si tu ne Vaimes pas'autant que
+Père &amp; Mère !...</p>
+<p>&lt;ML E MA G I S T B R.</p>
+<p>Ha, le Prétendu, Père Rode, il lui est permis de l'aime^ er|core. plus
+que ses Père &amp; Mère. Allons, petite fille, ya t'en, va.</p>
+<p>RODE,</p>
+<p>Allons, allez,' puisque M. le Magister dit que.»</p>
+<p>M A R G U E R I T E.</p>
+<p>Oh oui » mon Papa, laissez-moi aller, Xje reviendrai tout de fuite comme
+un Vanneau, ( i ) ( bas' au Magister en passant devant lui, ) Je vous
+remercie bien,M. le Magister.</p>
+<p>, • , , ,M .; ■—,</p>
+<p>( i ) Petit oiseau qui ne perd jamais son nid de vue, &amp; qui syemprejse
+d'y rentrer dés que le páil qui l'en avoit fait sortir &gt; commerice à
+diminuer.</p>
+<p><pb/></p>
+<p>COMÉDIE. 261</p>
+<p>SCENE FIL</p>
+<p>R O D E, L E M A G I S TE Rs</p>
+<p>L n MAGISTER ouvrant la lettre,</p>
+<p>R o DE, /e coude.&amp; t oreille sur la table) est comme immobile,</p>
+<p>O mon cher &amp; bon Frédéric l</p>
+<p>L E M A G 1 s T E R.</p>
+<p>La paix étant.signée, c*est la derniere sois que je vous écris
+ducam0pour,.,,</p>
+<p>ït O DE. .</p>
+<p>Dieu soit lpiîé ! nous l'avóns donc enfin, la paix, Comme la pauvre
+femme va se réjouir í</p>
+<p>LE M A G I S T E R.</p>
+<p>Pour vous (envoyer Vargent du mòìs que vous, àpe^lábvhii dàççepier de
+votHfitsï</p>
+<p><pb/></p>
+<p>a&lt;te LE B O N FILS,</p>
+<p>RODE.</p>
+<p>Oui, mon fils.</p>
+<p>LK MAGISTER.</p>
+<p>L E M A G I S T E R.</p>
+<p>Ces jours derniers f mons ère 9 fàì goûté la plus grande joie que jyaie
+jamais eue de ma vie9 &amp; il faut pourtant que je vous raconte,,,.</p>
+<p>R. o D s avec une joie intérieure.</p>
+<p>Oui?—Qu'est-ce que c'est donc? Qu'est-ce que c'est? *</p>
+<p>LE M AGI S TE B.</p>
+<p><pb/></p>
+<p>COMEDIE. ao*$</p>
+<p>comme ils auront ouvert de grands yeux, ces Meflieurs de la noblesse 1
+—Eh bien? eh bien ?</p>
+<p>LE MAGISTER.</p>
+<p>11 m*adreffoit souvent la parole, &amp; nia donné sur ma conduite, des
+éloges que je ne méritois pas.</p>
+<p>RODE branlant la tête.</p>
+<p>Oui, mon fils!</p>
+<p>LE MAGISTER.</p>
+<p>Enfin il me demanda de quelle maison je des cendois, ohfétois né, qui
+étoit mon Père f</p>
+<p>R o D E riant en lui-même,</p>
+<p>LE MAGISTER.</p>
+<p>Je lui ai dit le nom de notre Village &amp; le vôtre. Sire &gt; lui ai-je
+répondu, vos sujets font tous également vos sujets, &amp; s'il est vrai que
+celui qui a le coeur le plus tendre, le plus juste, le plus fidèle, est
+celui qui vous foie le plus cher y f ose Vire que s ai y our Père le
+plus digne de vos sujets,</p>
+<p>R iv</p>
+<p><pb/></p>
+<p>ab* LÊ BON FILS, Je suis fier, &amp; me trouve heureux d'être son fils.
+Non,jexnele changeroispas pour tousAes Pères du monde, quoiqu'il soit
+pauvre Çtsàns oyeux illustres.</p>
+<p>RODE levant les maint.</p>
+<p>Bonté divine, c'est comme si je fentendois.</p>
+<p>LE MAGISTER.</p>
+<p>C'est â lui que je dois toute ma probité, &amp; tout mon ^ele pour
+votre-service, Dès ma plus tendre enfance, je lui ai entendu louer son
+bon Roi, le vrai coUrage O la vertu, — Q est ainsi que je parlois au
+Roi, mon Père) £ de la joie de pouvoir vous louer devant ce Roi que vous
+aime% tant, mes larmes couloient malgré moi, ( Rode essuie les siennes.)
+Le Roi louché de mon amour filiale, prit son verre, &amp; nfa porté votre
+santé, en présence de toute la tabljÊËen ìrfordonnant de vous le faire
+savoir, Ode vous assurer de fa bienveillance.</p>
+<p>RODE se levant.</p>
+<p>Oh, cela est-il possible, M. le Magister? Le Roi.... '.</p>
+<p>■., V\':LlB\'. 1\J A G rs T E R.V:;' '</p>
+<p><pb/></p>
+<p>COMÉDIE. *6$t</p>
+<p>RODE hors de lui-même, court vers fa maison, ouvre la porte, &amp; cries</p>
+<p>R A c H E L, -de tintérieur de la maison»</p>
+<p>Qu'est-ce c'est i mon ami?</p>
+<p>RODE,</p>
+<p>- Mais viens donc vîte, que je te conte, viens» te dis-je, viens donc.</p>
+<p>S CE NE VIII.</p>
+<p>LES PRÉCÉDENS, RACHEL.</p>
+<p>RODE.</p>
+<p>ÌVJLA bonne, chere femme 1 Quel fils tu m'as donné pourtant !</p>
+<p>R A c HB L pose sur la tablé le déjeuner, dont le Magister s'empare fans
+faire semblant de rien.</p>
+<p>-«Qu'y a^irdonc, mes enfans? Je fuis déja toute tremblante de joie.
+Avons-nous la paix ?</p>
+<p><pb/></p>
+<p>96$ LE BON FILS,</p>
+<p>R O D E.</p>
+<p>LE M A G I S TE R.</p>
+<p>Vive le Roi !</p>
+<p>R A c H E t. • l</p>
+<p>Vive le Roi!</p>
+<p>LE M A G I S T B ».„</p>
+<p>Ma foi! ( essuyant set lèvres ) plus on en boit, plus on en voudroit
+boire&gt; ;</p>
+<p><pb/></p>
+<p>COMEDIE, 267</p>
+<p>RODE,</p>
+<p>L B MAGISTER.</p>
+<p>Y pensez-vous 1 père Rotig» Ce feroit lui</p>
+<p>manquer de respect. "^</p>
+<p>R O D E.</p>
+<p>Qu'est-ce que vous dites donc? Lui manquer de respect ? — Le Roi, M. le
+Magister, est un homme comme nous tous, &amp; il doit se réjouir, je pense,
+quand on lui dit qu'on l'aime de tout son coeur,</p>
+<p>RACHEL.</p>
+<p>Mais, mon ami, si la paix est faite.... •</p>
+<p>v RO DE.</p>
+<p>Sans doute que la paix est faite, puisque notre fils nous J'écrit.</p>
+<p>RACHEL avec une tendreinquiétude,mettant lamain sur U bras de Rode, &amp; le
+regardant avec joie.</p>
+<p>Il revient donc, notre fils, mon ami ? Il viendra donc nóuï voir 1 Nous
+le reverrons?</p>
+<p><pb/></p>
+<p>Patience &gt; ma bonne Mère, nous allons savoir tout cela,</p>
+<p>RA C H B L. , .</p>
+<p>Ah s'il pouvoit venir feulement avant les noces de Marguerite t II
+doubleroit encore notre joie»</p>
+<p>RODE,</p>
+<p>R A c H,B i, émue,</p>
+<p>Je te remercia, mon ami.</p>
+<p>LE M A G I S T B R.</p>
+<p>* Et qu'il vive long-temps 1 (// trinque avec Rachel) &amp; qu'il soit
+heureux l</p>
+<p>R A c H E t.,</p>
+<p>. Je vous remercie, M, le. Magister,</p>
+<p>• RODE posantspn^verrê surla table.</p>
+<p><pb/></p>
+<p>COMEDIE. .aty,</p>
+<p>R A C K B L</p>
+<p>Oh lisez-nous donc la fin de fa lettre, M. le Magister Peut-être...</p>
+<p><pb/></p>
+<p>■.17&amp;: LE BON E I LS^</p>
+<p>S CENE IX. LES PRÉCÉDENS, MARGUERITE.</p>
+<p>MARGUERITE*</p>
+<p>Av secours 1 au secours I mon Père 1 les enrôlêurs.</p>
+<p>R A c H E L effrayée.</p>
+<p>Comment? Qu'est-ce qu'elle a donc?</p>
+<p>M A R GUERITE.</p>
+<p>Les enrôleurs, mon Père 1</p>
+<p>Remets-toi, ma fille, remets-toi» — Que t'estil donc arrivé ?</p>
+<p>MARGUERITE.</p>
+<p>Comme j'entrois chez Michel,...</p>
+<p>L B M A G I 8 T 8 B»</p>
+<p>Nous y voilà. Ils nous ont enlevé Michel,</p>
+<p>t• R A c n B L avec effroi. Ah fflon Dieu I mon Dieu I</p>
+<p><pb/></p>
+<p>COMEDIE. 2ji</p>
+<p>R O D B.</p>
+<p>L B M A G i s T E R.</p>
+<p>RODE avec humeur.</p>
+<p>MARGUERITE.</p>
+<p>pour vous.</p>
+<p>, R o D B.</p>
+<p>Innocente ! comme si tout le monde étoit de notre Village.</p>
+<p><pb/></p>
+<p>a7* LE'B 0 N F IL S,</p>
+<p>S.'CE N E X. LES PRÈCÉDENS, CATHERINE.</p>
+<p>C A T H E R I NE.</p>
+<p>Js n'en puis plus, je fuis morte dé frayeur.</p>
+<p>R A c H B L.</p>
+<p>Ah que je vous plains, pauvre Mère. Encoro si notre fils étoit ici à
+présent pour nous tirer de peine.</p>
+<p>R O D E»</p>
+<p>Allons, allons, il ne faut pas tant s'allarmer. Je fuisTeulement fâché
+d'être ainsi troublé dans le moment où nous étions tous si heureux de
+pensera mon fils. Le mal, peut-être, n'est pas si grand que vous
+.'imaginez. Ils ne vous enlèveront pas de la charrue votre fils unique.
+Cela n'est pas encore arrivé» Je veux aller lui parler, moi,—</p>
+<p>MARGUERITE.</p>
+<p>RACHE£.</p>
+<p><pb/></p>
+<p>COMEDIE. *73</p>
+<p>R A C H E L criant après lui.</p>
+<p>SCENE XI. RAGHEL, CATHERINE, LE MAGISTER,</p>
+<p>LE MAGISTER.</p>
+<p>C/o MM EN T l Affliger ainsi une pauvre veuve ì lui arracher le pain de
+la main 1</p>
+<p>CATHERINE.</p>
+<p>Ah, M. le Magister, je fuis encore si effrayée &gt; que mes pieds &amp; mes
+mains, que tout mon corps tremblent»</p>
+<p>L B MAGISTER lui donnant une</p>
+<p>chaise. Asseyez-vous, asseyez-vous, la Mère, Nous ne devons jamajs
+perdre courage, II faut toujours espérer de réussir.</p>
+<p>CATHERINE.</p>
+<p><pb/></p>
+<p>«74 LEiBOÍïMFI h S,</p>
+<p>L B M A G I ST B R.</p>
+<p>AUons, Mère Catherine, du courage, de la patience ; quand on aime Dieu
+comme vous, l'on doit avoir de la patience,</p>
+<p>R A C HE L quia toujours été dans la plus grande inquiétude.</p>
+<p>Ciel I du bruit dans le village ! pourvu qu'il n'arrive pas de malheur à
+mon pauvre homme? pourvu qu'il sache modérer fa vivacité I — Aile* jdonc
+voir un peu M* le Magister»</p>
+<p>L B M A G i s T B R.</p>
+<p>Moi? moi?</p>
+<p>R A c H B x.«</p>
+<p>Vous êtes un homme, qui en imposez, M» le Magister, un homme d'Eglise,</p>
+<p>L B MAO I S T B R.</p>
+<p><pb/></p>
+<p>ÇO M Ê D I E. 2ji</p>
+<p>f RA Ç H Et*</p>
+<p>Mais vous êtes notre ami, M. le Magister, &amp; vous ne voulez pas nous aider?</p>
+<p>LE M A G Z S T B R*</p>
+<p>SCENE $ II.</p>
+<p>LES PRÊCÉDENS, RODE, MARGUERITE, MICHEL, LE SERGENT, DES SOLDATS &amp; DES
+PAYSANS. 1</p>
+<p>CATHERINE accourant vers fin fils,</p>
+<p>C'EST toi» mon fils? — Oh ils m'ôteront la vie avant de t'arracher de
+mes bras.</p>
+<p>MARGUBRITB avec transport.</p>
+<p>Mon cher Michel» mon bon Michel.</p>
+<p>au</p>
+<p><pb/></p>
+<p>à&gt;j6 L E B O N F ILS, L B SERGE N T.</p>
+<p>Qu'on me l'emmene, allons 1 Que fervent ces piàilleries? Ce n'est pas
+avec cela qu'on m'attendrit. :</p>
+<p>R o D B prenant le Sergent par le bras.</p>
+<p>Ecoutez, que je vous parle&gt; moi.</p>
+<p>'Les P AY SAN s, Vun aprês t autre.</p>
+<p>Prendre le dernier d'une famille. — Un fils unique. — Non, !&lt;LROÌ ne
+l'entend pas comme cela, jamais il n'tpji le vouloir. —</p>
+<p>R o D^B aux Paysans.</p>
+<p>Taisez-vous, mes enfans, je vous prie&gt; vous rendrez le niai encore plus
+grand.</p>
+<p>LBSBRGBKT.</p>
+<p>Et quand vous crieriez dix fois plus fort, vous autres manans, (
+Frappant fur fa poche, ) Voici mes ordres, &amp; cela me suffit.</p>
+<p>LES PAYSANS, Vun aprês Vautre.</p>
+<p><pb/></p>
+<p>CO MÉDï E* aTX</p>
+<p>R 0 D B faisant signe aux Paysans de se taire.</p>
+<p>Ecoutez, mon cher Monsieur le Sergent, avec de bonnes paroles, on fait
+bien des choses,</p>
+<p>LE SERGE N T.</p>
+<p>De bonnes paroles ? Je n'attends' que cela, moi. Voyons, de quel poids
+font les vôtres?</p>
+<p>R o D E.</p>
+<p>d'asseire»</p>
+<p>LE S ERG B N T.</p>
+<p>dage.</p>
+<p>RODE.</p>
+<p>Mais écoutez feulement, mon cher Monsieur le Sergent.</p>
+<p>LE SERGENT s'appuyánt sur sa canne.</p>
+<p>Eh bien?</p>
+<p>RODE.</p>
+<p>Ce jeune homme est le Prétendu de ma fille, 6c fils unique j malgré tout
+cela, je feroisle pre*</p>
+<p>Siij</p>
+<p><pb/></p>
+<p>*7* LE tìÔNrFILS,</p>
+<p>L B SE R GENT.</p>
+<p>Et moi je dirois, vieux radoteur, que vous ne savez ce que vous dites.</p>
+<p>R o p B faisant un pas en arriére, ù mettant la main fur le côté.</p>
+<p>Comment, Monsieur? Êtes-vous Soldat ?</p>
+<p>LB SERGENT avec brutalité,</p>
+<p>Vous voyez bien que je le fuis 1</p>
+<p><pb/></p>
+<p>C 0 M É D I E, atfg</p>
+<p>R o D E.</p>
+<p>, LE SERGENT levant sa canne.</p>
+<p>Ah vieille cervelle 1 Vous osez ?.., ♦</p>
+<p>L B S P A Tt S A N S.</p>
+<p>Pas de violence, s'il vous plaît, pas de violence, R A c u EL inquiète,</p>
+<p>L B SERGENT étonné.</p>
+<p>Comment ? Vous ? Un fils Capitaine ?</p>
+<p>RODE. Au Régiment &lt;fe Schwanefeld, le Capitaine Rode, si vous le
+connoissez.—</p>
+<p>S lv</p>
+<p><pb/></p>
+<p>áSo LE BON FILS,</p>
+<p>L B SERGE N T.</p>
+<p>Seroit-íl possible 1 — "</p>
+<p>R o P E tout'à-coup avec familiarité.</p>
+<p>Oh vous le connoissez fans doute, mon cher M. le [Sergent, je le vois.
+Vous venez probablement de Tarmée, &amp; vous pourriez me raconter tout ce
+qu'a fait mon fils; (Aux Paysans,) Allez vous-en chez vous, mes enfans,
+allez, allez» — M» le Sergent boira un verre de vin.</p>
+<p>L B S E R G B N T.</p>
+<p>Soit. Je le veux bien. — Allez vous-en aussi vous autres, 6c
+attendez-moi. Je vous fuis, ( Ca&lt; thcrtne &amp; Marguerite qui espèrent
+qu'il leur rendra Michels s'en vont satisfaites dvec les Paysans,)</p>
+<p>Ko DE.</p>
+<p>Donne-nous une autre bouteille , la Mère» vîte.—( Au Sergent. ) C'est du
+vin délicieux 1</p>
+<p>Délicieux vraiment 1 Et cent fois trop bon pour cet insolent coquin.</p>
+<p><pb/></p>
+<p>COMÉDIE, m</p>
+<p>S CE NE XI I I.</p>
+<p>RODE, LE SERGENT -, LE MAGISTER, ensuite RA C H E L.</p>
+<p>L B SB R G B N T.</p>
+<p>C'EST donc dans le même Régiment que je fuis entré au service ? C'est
+donc le même Rode qui m'a presque brisé toutes les côtes ?</p>
+<p>; RODE.</p>
+<p>L E S E R G B N T.</p>
+<p>Je me setois bien passé de cet honneur-là. RODE lui présentant une verre
+de vin.</p>
+<p>Tant mieux, tant mieux.*-* Est-ce que mon fils appuie si fort quand il
+frappe? •»- (Rachel apporte une autre bouteille, )</p>
+<p>LB SERGENT, après avoir avalé son vin,</p>
+<p>Que le diable l'emporte 1 — Maltraiter ainsi un homme pour de pareilles
+misères, pour avoir</p>
+<p><pb/></p>
+<p>m LE' tíàú FÏ ris,</p>
+<p>bu un yerre de vin de plus que ne porte lordonnance.</p>
+<p>lordonnance.</p>
+<p>L E S B i G B NT. Comment? vous en êtes bien aise?</p>
+<p>v./.Ro D-B.: ,:. :, v,ê,</p>
+<p>1 Oui 1 —je fuis bien aile , M. le Sergent, que vous conrioiífiez mon
+fils, &amp; de ce que mon fils me resiemble tant dans l'amour de Tordre.
+J'aime Tordre, moi, j'aime Tordre. (LeSergent avale un vefrè'de vinii) '
+; '</p>
+<p>Et comme Vous venez fans doute de l'armée, mon cher M. le Sergent, &amp;que
+vous avez servi dans le Régiment où mon fils est Capitaine, vous savez
+peut-être s'il va bientôt Ce mettre en marche, &amp; s'il reviendra dans la
+garnison qu'il avoit avant fa guerre ? Si je reverrai bientôt mon fils,
+6c si je Taurai près de moi dans quelque Ville voisine?</p>
+<p><pb/></p>
+<p>COMÉDIE; »H</p>
+<p>R A c H B L.</p>
+<p>LE SERGENT.</p>
+<p>Allons, allons, ce que j'en fais, je vais bientôt vous Tapprendrej mais
+avant tout, donnez-moi encore un verre de vin,</p>
+<p>R o D S.</p>
+<p>De tout mon coeur, je fuis charmé que vou9 trouviez le vin bon. — C'est
+mon fils qui m'a donné ce vin pour réjouir ma vieillesse.</p>
+<p>L Ê SERGENT en avalant le vin.</p>
+<p>Brrr !</p>
+<p>L fi MAGÍSTER comme auparavant^</p>
+<p>Puiss«s-tu-boire du poison í C'en est fait de tout le panier.</p>
+<p>RODE avec transport.</p>
+<p>Et que savez-vous donc &gt; mon cher M. le Sergent?</p>
+<p>LE S E R G E V T.</p>
+<p>Je ne fais rien, — sinon que votre vin est alîez bon, 6c que J'en
+boirois encore davantage si je</p>
+<p><pb/></p>
+<p>^ LEvBÛN'FIBS,</p>
+<p>n'a vois pas bu d'abord avec trop de précipitation. -*~Brrr ! il me
+répugne, — Mais quand c'eût été du Champagneî, &amp; eûílîez-vous pour fils
+dix Capitaines, je vous dis qu'il me faut de Fargent, ou Michel
+marchera, Ainsi, décidez-vous.</p>
+<p>RODE.</p>
+<p>Comment, Monsieur ? Vous prenez de Targent?</p>
+<p>&amp; vous le prenez des propres sujets du Roi ?</p>
+<p>L B S B R GENT.</p>
+<p>Moi, tout comme le.Roi. Pourquoi pas? Si je vous rends Michel, il faut
+le remplacer par un autre, &amp; cela demande de Targent. Les soldats ne
+poussent pas en un jour commo Us chanv pignons» Trente écus, ou il
+marchera.</p>
+<p>R o D B.</p>
+<p>Trente écus ? Comment les trouver dans tout le Village ? ( // lui donne
+le paquet avec les doutée écus, ) En voici douze.</p>
+<p>L B SERGENT.</p>
+<p>Une belle misère 1 — (Repouffant la main de Rôde.) Si vous n'avez pas
+vous-même Targent, que la Mère de Michel en trouve.</p>
+<p>R O D B.</p>
+<p>Sa Mère ? Une pauvre infortunée qui n'a pour tout bien que Touvrage de
+son fils*</p>
+<p><pb/></p>
+<p>CO M ÊDÍ E. a8j|</p>
+<p>RACK B E. Ah par pitié, mon cher Monsieur.—</p>
+<p>L B SB R G B N T. Moi, pitié? &amp; de qui?</p>
+<p>RACK SI,</p>
+<p>De nous tous, que vous menacez de rendre malheureux} d'une jeune fille
+pleine d'innocence, jqui ne se consoleroit jamais de la perte de son
+Prétendu....</p>
+<p>L Ê SERGENT rit.</p>
+<p>. Elle est donc bien amoureuse, la petite ?</p>
+<p>R A C H B t,</p>
+<p>. D'une pauvre femme qui mourroit de faim 6c de douleur, fans le secours
+de son fils* 6c dont ^ leSTéìSOsdsvous-poursuivront fans ceíTe.</p>
+<p>LE SERGENT.</p>
+<p>LE MAGISTER en frissonne*</p>
+<p>Hm, hro, hm.»*w</p>
+<p><pb/></p>
+<p>0 LE BON FIJ^S,</p>
+<p>LE SB R G EN T.</p>
+<p>Oh oui, de la pitié 1 On vous casse bras &amp; jambes, comme rien» On ne
+voit que cela tous les jours»</p>
+<p>II faut qu'il ait fait quelque pacte avec le diable. Que Dieu ait pitié
+de nous tousl</p>
+<p>L E S B R G E N T.</p>
+<p>SCENE XIV.</p>
+<p>RODE, RACtiEL, LE MAGISTER;</p>
+<p>R o p B pesant Vargent d%un air triste,</p>
+<p><pb/></p>
+<p>COMÉDIE» 287</p>
+<p>R A C H EL.</p>
+<p>C'est un mensonge, mon ami, le mensonge d'un rn/cl^ant, Ce n'est pas là
+ce qui m'attriste ,A* \stât Marguerite ^uLvadeVeìiir-málheAíreiiferL</p>
+<p>^uLvadeVeìiir-málheAíreiiferL MAGISTER.</p>
+<p>Oui, vraiment, Rode. La Mère a raison» Votre fils est un brave &amp; honnête
+homme.</p>
+<p>RODE,</p>
+<p>R A c HE t,</p>
+<p>Mais, Marguerite » mon ami $ cette pauvre</p>
+<p><pb/></p>
+<p>ïéô LE 6 0ÍÎ FÍLS,</p>
+<p>Marguerite, comment pourrai-je la consoler?</p>
+<p>(Ils sortent,)</p>
+<p>S CE NE XV.</p>
+<p>LE MAGISTER seul, en marchant derrière eux, arrête ses regards fur la
+bouteille, &amp; revient fur ses pas,</p>
+<p>SCENE</p>
+<p><pb/></p>
+<p>C?© M feí) í Ë» aty</p>
+<p>\ S CE NE XV I. RODE, RACHEL, LE MAGISTER,</p>
+<p>R O D B.</p>
+<p>JUNCORE, quelque chose de nouveau?-— Mais *vous avez Pair tout joyeux,
+M. le Magister?</p>
+<p>L E M À G i s TE R. Oui l Qu'est-ce que vous me donnerez si je Vous fais
+rendre Michel, 6c aujourd'hui encore ? — ( Frappant sur la lettre, )
+C'est dit là, dans la lettre. .4 ,A .. . Ko D E*</p>
+<p>Dans la lettre? dans la lettre de mon fils?</p>
+<p>L B M A G t s T B R. Certainement. Votre fils arrive aujourd'hui.</p>
+<p>RODE. Aujourd'hui ? -^ Oh de grâce, M. le Magister, lîfez-moi cela vîte. A</p>
+<p>LE MAGISTER. Attendez, attendez. ( tl lit,) « Notre Régi" tnent, mon
+Père, a déja repu Vordre de retourner dans sa garnison, Vescadron que je
+commande passera tout ptqs de notre Pillage, le six du mois prochain, »&gt;
+— Voyez-vou^s, Rode, c'est comme qui diroit hier.</p>
+<p>Tome XII. T.</p>
+<p><pb/></p>
+<p>20 L E S&lt;?Ttt F3ÈS,</p>
+<p>R1 O DE.</p>
+<p>R A C H E L.</p>
+<p>Hier? 6c \\ n'est pas encore arrivé?</p>
+<p>L E M A G i s TER.</p>
+<p>Ecoutez, écoutez, « Au plus tard, mon Père, nous passerions le sept dans
+la matinée,» &lt;**• Cfest aujourd'hui, par conséquent. — « Et comme alors
+je ne ferai éloigné de notre Village que d%un quart de lieue, je
+laifferai mon escadron au Lieutenants &amp; jyirai vous voir ; au moins je
+vous verrai j &amp; je vous embrasserai, vous &amp; ma bonne Mère, de tout mon
+coeur,</p>
+<p>R o D B avec une grande vivacité,</p>
+<p>Oh quelle joie ! quelle'grande joie 1 II vient donc 1 — Je veux aller
+au-devant de lui dans les champs. Je veux déja de loin lui tendre les
+bras ; je veux lui crier, auíîî-tôt que je le verrai : O mon fils I ô
+mon cher fils l</p>
+<p>R A c H B If, Reste, reste. ( Elle arrête Rode, ) Comment pou r r ois-je
+te suivre, foible comme je fuis ? — Veux-tu donc qu'il imagine que je
+Taime moins, que toi ?</p>
+<p><pb/></p>
+<p>LE MAÌOIÎ T B B;</p>
+<p>Oui,.oui, Père Rode, restez, restez* Donnezmoi feulement lés douze écus,
+&amp; hâtons-nous.'</p>
+<p>KO D E.</p>
+<p>Les douze écus? Pourquoi faire? LE MAGISTER,</p>
+<p>R o p ».</p>
+<p>( Le Magister sort, en courant.)</p>
+<p>SCENE XV II RODE, R A C H EL.</p>
+<p>RA C H B£.</p>
+<p>JOfi grâce, ne t'en vas pas, mon ami. je t'en prie. Je ne faurois que
+Taire de moi.de^joie 6c fimpMbnce^^ teur, tu le découvriras de plus loin»</p>
+<p>T if</p>
+<p><pb/></p>
+<p>'ifcpa LE B ÔÌSÍ FILS,</p>
+<p>RODE.</p>
+<p>Ouil c'est ce que je veux faire. Tout mon sang s'est réchauffé.</p>
+<p>R A C H E L, pendant que Rode monte Jur la hauteur,</p>
+<p>!R'o D B sur la pointe des pieds &amp; la main sur les yeux.</p>
+<p>Pas encore, la Mère/le soleil m'éblouit.</p>
+<p>R A c H B r.</p>
+<p>Oh pourvu que notre joie n'ait pas été vaine 1 (Elle lui crie encore:)
+Tu ne vois donc rien encore, mon ami?</p>
+<p>R O D B.</p>
+<p>R A c H B £»</p>
+<p>Et notre fils ?</p>
+<p><pb/></p>
+<p>dOMEDlfc ûpfr</p>
+<p>RODE.</p>
+<p>R A C H B L.</p>
+<p>Ah, mon Dieu, qu'est-ce que j'éprouve en ce moment? II faut que je coure
+au-devant de lui. (Les bras étendus, elle fort, encourant, &amp; on les
+entend crier avec transport :) Mon fils I Ma Mère!</p>
+<p>S C E N E XV 111.</p>
+<p>LES PRÉCÉDENS, LE CAPITAINE.</p>
+<p>L B C A n T A i K B entrant dans le moment oh Rode vient de descendre.
+Dans les bras l'un de Vautre,</p>
+<p>TMI</p>
+<p><pb/></p>
+<p>4*4 LE BON FILS,</p>
+<p>de force» Je ne saurols te preíser contre mon coeur comme je le
+voudroisj mais ces larmes te disent que tu as un Père reconnoilTant.</p>
+<p>R A « H B L mettant la main sur Vépaule de son fils, &amp; tenant de Vautré
+une des siennes.</p>
+<p>Oh, pour cela, oui, mon fils, &amp; aussi une Mère récònnoiflarite.</p>
+<p>L B CAPITAINE.</p>
+<p>. Que parlez-vous donc là, de reconnoissánce, ma Mère? Est-ce vous ou
+moi ? Qui de nous deux doit être reconnoiílant ì</p>
+<p>R O D B.</p>
+<p>R A c H E L.</p>
+<p>Tu nous fais mille joies i des joies I » » » •</p>
+<p>LE CAPITAINE,</p>
+<p><pb/></p>
+<p>CïQrMEvD^I Ê* *9S</p>
+<p>R o D E.</p>
+<p>Oui, mon fils, je cours te la chercher, mon fils, j'y cours. (Se
+retournant, après avoir fait quelques pas, ) Je fuis si troublé 1II faut
+d'abord que je te dise. » » • •</p>
+<p>R A c H E t.</p>
+<p>Sans toi» mon cher fils, elle alloît peut-être devenir bien malheureuse
+j car toutàVheUre.»». ■&gt;' RODE.</p>
+<p>Un Sergent vient de nous enlever son Prétendu , heureusement qu'il est
+encore dans le</p>
+<p>Tiv</p>
+<p><pb/></p>
+<p>ty$ LE Iflf'filrS,</p>
+<p>Village. Il attend une somme de trente écus que* ' je lui ai fait
+promettre, espérant que tu alloîs venir. Oh quelle joie de te voir, mon
+filsl</p>
+<p>L E CAPITAINE.</p>
+<p>RODE.</p>
+<p>Bon Dieu ! comment pourrai-je m'en Unis! ' moi qui voudrois..,.
+J'aimerois bien mieux crier atout le mondes ILB&amp;T xal IL EST xcil</p>
+<p>(llfirt,)</p>
+<p>SCENE XIX,</p>
+<p>RACHEL, LE CAPITAINE.</p>
+<p>LE CAPITAINE. 11 regarde autour de /«/, &amp; prend ensuite la main de sa Mère.</p>
+<p><pb/></p>
+<p>j £ p M Ê£ I E» ap7</p>
+<p>que je çrioiíîlloís toujours pour mes jeux. — O douces années dé
+l'enfance I Heureuses années! •r-Par-tout où je porte mes regards, ma
+Mère, tout me rappelle des preuves de votre tendreiïe. — Mais qu'avez
+vous donc, ma Mère; vous ne me dites rien de votre joie ?</p>
+<p>R A c H E r,.</p>
+<p>LE CAPITAINE avec inquiétude.</p>
+<p>Qui vous affligé? Que pensez-vous?</p>
+<p>L E C A p I TA i N B.</p>
+<p>' Au'dcsius de vous ? Oh'chassez donc cette pensée l N'êtcs-vqus pas ma
+Mere?\§uis-je pas votre fils? Ne devez-vous pas m'être éternellement
+chere 6c respectable ? Ne fuis -je pas bien sûr qu'il n'y a pas un coeur
+au monde auquel je fois aussi cher qu'au vôtre ? Et le mien ne
+sentirat-il pas toujours pour vous, ce qu'il ne peut sentir pour
+personne? ( // laJ'erre contre son sein,</p>
+<p><pb/></p>
+<p>aoj LE BON FïLS,</p>
+<p>&amp; Vembrasse,) AhI croyez, ma Mère, que je vous aime de tout mon coeur,
+de toute mon âme, aufii tendrement que je vous ai toujours aimée.</p>
+<p>, R A C H E L,</p>
+<p>Oui • je le crois, car je l'ai bien mérité. Que de longues nuits j'ai
+passées auprès de ton Père toute baignée de larmes. Je craignois
+toujours de rre te plus revoir avant de mourir.</p>
+<p>SCENE XX. LES PRÊCÉDENS, MARGUERITE.</p>
+<p>QU'EST-CE qu'il y a donc, ma Mère, que mon Père m'envoiejc*-!^
+promptement? (Appercevant le Capitaine ; iVun air timide, ) Ah ! un
+Officier ì</p>
+<p>Ma Mère 1 Est-ce elle ? ( Sa Mère lui fait signe . qu'oui Ì &amp; il va pour
+Vembraffer, ) Quelle aimable fille l</p>
+<p>M A R G u fi R i T E se défendant* Fidonc,M,l'Ófficiert</p>
+<p><pb/></p>
+<p>COMÉDIE, a$p</p>
+<p>R A C H E L.</p>
+<p>LE C A P I TA i N B.</p>
+<p>Avec quels grands yeux elle me regarde I — Oui, ton frère, Marguerite,
+6c un frère que tu aimes bien, j'espère.</p>
+<p>MARGUERITE Rapprochant de lui avec amitié.</p>
+<p>LE CAPITAINE Vembrassan^</p>
+<p>L'aimable naïveté 1</p>
+<p>S CENE XXL</p>
+<p>LÈS PRÉCÉDÊNS, KODE, LE SERGENT, LEMAGISTEÍtsMICHEL, CATHERINE</p>
+<p>. &amp; quelques PAY3AN&amp; ■. . . .</p>
+<p>RODE montrant fin fils.</p>
+<p><pb/></p>
+<p>3co LE BON FILS,</p>
+<p>L B S E R OB N T interdit.</p>
+<p>Que vois-je ? Un Officier ? ( Û ôte respeûùeu*</p>
+<p>Les Payjans se regardent les uns les autres, &amp;</p>
+<p>ensuite regardent le Capitaine, Us ont Vair de fi</p>
+<p>RODÉ.</p>
+<p>LE CAPITAINE au Sergent.</p>
+<p>Vous usez ici de violence &gt; mon ami ? Où est; votre permission ?</p>
+<p>LE SERGENT la lui remet a*un air troublé,</p>
+<p>La voici, mon Capitaine. \</p>
+<p>LE CAPITAINE.</p>
+<p>De quelle Compagnie étes-vous ?</p>
+<p>LE S B R G B N T.</p>
+<p>Du Capitaine Blumtntahl,'</p>
+<p>LE CAPITAINE, aprés avoir regardé la permission.</p>
+<p>Et vous osez produire de pareils ordres? Je</p>
+<p><pb/></p>
+<p>COMÉDIE, 561</p>
+<p>Connois votre Capitaine , 6c je vous connois aussi, vous. Quel étoit
+votre projet? D'extorquer d'abord de l'argent de ces pauvres laboureurs,
+&amp; de profiter ensuite du voisinage de la frontière pour déserter?</p>
+<p>LE SERGENT a*un ak suppliant.</p>
+<p>Mon Capitaine.. ••.</p>
+<p>LE CAPITAINE.</p>
+<p>SCENE XX II &amp; derniere.</p>
+<p>RODE. RACHEL, LE CAPITAINE , LE MAGISTER, CATHERINE, MARGUERITE, MICHEL
+&amp; quelques PAYSANS.</p>
+<p>L E C A P I T AI NE.</p>
+<p><pb/></p>
+<p>Soi LE/BONM LS,</p>
+<p>CATHERINE &amp; M i c H E t.</p>
+<p>Ah, M. le Capitaine.</p>
+<p>LES PAYSANS syapprochant avee confiance.</p>
+<p>Ce brave Monsieur, il ne nous méprise pas. Soyez mille fois lè
+bien-venu, M. le Capitaine. —Oui,nous avons toujours eu bien du plaisir
+quand nous avons oui parler de vous. (Le Capitaine leur donne la main à
+tous, bouffi au Magister.) qui s*avance avec de grandes révérences, )</p>
+<p>i\ o D B.</p>
+<p>LE ÇÌAÎ Í T AI N B.</p>
+<p><pb/></p>
+<p>C O M E D I E. 303</p>
+<p>R A C H B L.</p>
+<p>Comment, mon fils, déja partir? RODE.</p>
+<p>Oh encore un instant. À peirìe t'avons-nous vu seulement I</p>
+<p>L B CAP 1 T A IN E.</p>
+<p>II faut que je parte absolument, mes chers païens. Soyez donc bien sûrs
+que mon coeur me retiendroit auprès de vous, si mon devoir, en ce
+moment, ne m'appelloit ailleurs. —- Oíerois-je vous demander une grâce
+avant de partir?</p>
+<p>R o D B 6c RA C H B x, Tout mon fils 1 tout I</p>
+<p>LE CAPITAINE.</p>
+<p>R OPE &amp; R A c H B L avec inquiétude.</p>
+<p>Mon cher fils.—</p>
+<p>LE CAPITAINE.</p>
+<p>Seroit-ce un bonheur pour moi, si ce n'en étoit pas un pour vous ?</p>
+<p><pb/></p>
+<p>30* LE BON FUS, &amp;c.</p>
+<p>RODE.</p>
+<p>Nous sommes vieux, mon cher fils, 6c nous attendons la mort. Laifle-nous
+mourir ici où nous avOns vécu. Laisse - nous mourir dans cette cabane,
+qui nous est si chere ! C'est dans cette cabane que tu es né :.que tu
+nous y viennes voir souvent, c'est tout ce que nous te demandons.</p>
+<p>L B CAPITAINE, Oh sûrement, j'y viendrai sûrement.) » / *&amp;&gt;</p>
+<p>R A C H E L.</p>
+<p>Et nous, mon cher fils, nous irons aussi te voir, ce fera pour nous
+autant de jours de fête ; 6c chaque fois, en allant 6c en revenant,
+pendant tout le chemin, nous remercierons Dieu de nous avoir donné un
+tel fils.</p>
+<p>Fin du ^ouiìméj^k^e^</p>
+<p><pb/></p>
+<p>TABLE</p>
+<p>DES PIECES DE THÉÂTRE,</p>
+<p>.Traduites dans ce Recueil.</p>
+<p>JL/ANS le premier volume» VHistoire abrégée du théâtre Allemand, Emilie
+Galottì, Tragédie en cinq Actes &amp; en Prose, par Leffìngy •— Clavìgo,
+Tragédie de M. de Goethe*</p>
+<p>* Dans le second vol. ïules de Tarente&gt; Tragédie en cinq Actes &amp; en
+Prose, par M. Leifewit\, — Le Comte d'Olsbach, Comédie en cinq Actes &amp;
+en Prose, par M. ■Brandes.</p>
+<p>Dansjte cinquième vol! Diego &amp; Léonor^ Tragédie en cinq^ctes&amp;ehÇíq||,
+par Vn\eu Et la Nouvelle Emma, Comédie en trois Actes, par le même.</p>
+<p>| 4)aqî ìç sixième v'oVJLe Père de Famille, Drame çn cinq</p>
+<p>'Actes &amp; en Proie ,«j&gt;ar le Baron de Gemmingen» VHôtel</p>
+<p>garni, Comédieencinq Actes &amp; en Prose, par Brandes*</p>
+<p>Dans le septième vol, Nathan le Sage, Drame eh cinq</p>
+<p><pb/></p>
+<p>Actf $ « «» Vírs, par Leffing, Philotas, Tragédie eo un Acte Se en
+Prose, pat le même.</p>
+<p>Dans le huitième vol. Elfride, Tragédie en crois Actes íc en Prose, pat
+M. Bertuch, Walwaìs &amp; Adélaïde , Drame en cinq Actes ft en Prose, parle
+Baron de Dahlhrg, Le Créancier, Comédie en irois Actes &amp; en Prose, pat
+M,Wchter,</p>
+<p>Dans le dixième vol. Mijs Sara Sampfon, Tragédie en cinq Actes &amp; en
+Prose, $&amp; Leffing, Eil'Attelage de Poste t Comédie en ttois Actes, parle
+Baron d'AZrenhof.</p>
+<p>Dans le douzième vol. Les Voleurs, Tragédie eh cinq •"Actes &amp; en Prose,
+par M. Schiller. •«« Le bon Fils, Comédie en un Acte &amp; en Prose, par M.
+Joachim EngeU '</p>
+<p>Cet Ouvrage a été commencé par M. Friedel, le'premier, de Janvier 1781,
+&amp; continué depuis le troisième volume par MM. Friedel &amp; de Bonneville,
+^Auteur de quelques Essais</p>
+<p>' de Poésie, publiés dans les Almánachs de&gt;^^i^v&amp; 83;</p>
+<p>'LeBonheurchampêtre, quelquesBmjfâens dii£kbe.de Job, ôyune Prophétie
+contre tyrfe/~Ê^^</p>
+<p><pb/></p>
+<p>A P P R O B A TIÒ N.</p>
+<p>ëj 'Al lu, par ordre de Monseigneur le Carde des Sceaux, un Manuscrit
+ayant pour titre t Ncuvtau Théatrt Allvnand, &amp; je n'y ai rien trouvé qui
+m'aitparu devoir en empêcher Timpreilìon. A Paris, le 20 Novembre i?li.
+BIA1N DE SAINMORE.</p>
+<p>PRIVILÈGE DU ROI,</p>
+<p><pb/></p>
+    </div>
+    </body>
+  </text>
+</TEI>

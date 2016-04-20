@@ -1,0 +1,2788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Delille, Jacques (1738-1813)">Jacques Delille</author>
+<title>L'Imagination. Tome 1 / , poëme par Jacques Delille. Deuxième édition accompagnée de notes historiques et littéraires (par d'Andrezel, L.-S. Auger, de Féletz, M.-G.-F.-A. Cte de Choiseul-Gouffier et de Sabran), et augmentée d'environ cinq cents vers nouveaux</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Delille, Jacques (1738-1813)</author>, <title>L'Imagination. Tome 1 / , poëme par Jacques Delille. Deuxième édition accompagnée de notes historiques et littéraires (par d'Andrezel, L.-S. Auger, de Féletz, M.-G.-F.-A. Cte de Choiseul-Gouffier et de Sabran), et augmentée d'environ cinq cents vers nouveaux</title>, <date>1825</date>,description :,302 pages
+</bibl>
+<publisher>L. G. Michaud (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k5458580k</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1825">1825</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/></p>
+<p>OEUVRES</p>
+<p>DE</p>
+<p>JACQUES DELILLE.</p>
+<p><pb/></p>
+<p>TREMBLAY, IMPRIMEUR A SENLIS.</p>
+<p><pb/></p>
+<p>L'IMAGINATION,</p>
+<p>POÈME</p>
+<p>PAR JACQUES DELILLE.</p>
+<p>DEUXIÈME ÉDITION,</p>
+<p>ACCOMPAGNEE DE KOTES HISTORIQUES ET LITTÉRAIRES , ET AUGMENTÉE B'ENYIRON
+CINQ CENTS VERS NOUVEAUX.</p>
+<p>TOME PREMIER.</p>
+<p>rA PARIS,</p>
+<p>CHEZ L. G. MICHAUD, LIBRAIRE,</p>
+<p>PLACE DES VICTOIRES , N°. 3.</p>
+<p>M. DCCC. XXV.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LIMAGINATÏON,</p>
+<p>POËME EN HUIT CHANTS.</p>
+<p>T. VIII. L irangin. I.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>ÉPITRE</p>
+<p>A MADAME DELILLE.</p>
+<p>O TOI, de tous les biens le plus chéri mon coeur, ,Qui m'adoucis les
+maux, m'embellis le bonheur; Dont la raison aimable et la sage folie,
+Quand du crime légal les sanglants attentats Jetaient autour de nous les
+pmbres du trépas,,</p>
+<p>M'ont tant de fois, dans ma mélancolie, Consolé de la mort et presque de
+la vie !</p>
+<p>Reçois l'hommage de ces vers., Douce distraction de mes chagrins amers.</p>
+<p>A qui de mon plus cher ouvrage Plus justement pouvais-je offrir
+l'hommage? Le sujet t'avait plu, ma muse l'embrassa ;</p>
+<p>Et cet ouvrage commença . ( Que cette époque m'intéresse ! ) iLe jour
+même où pour toi commença ma tendresse : Ce jour, un seul regnïd suffit
+pour m'enflammer; Car te montrer? c'est plaire, et te voir c'est
+t'uimer. Oh ! par combien de douces sympathies</p>
+<p>Nos limes étaient assorties !</p>
+<p>Pour le malheur même pitié,</p>
+<p>Même chaleur dans l'amitié,</p>
+<p><pb/></p>
+<p>4 ÉPITKE</p>
+<p>Pareil dédain pour la richesse,'</p>
+<p>Pareille horreur pour la bassesse ; Mêmes soins du présent, même oubli
+du passé,</p>
+<p>Dont bientôt de notre mémoire Tout, hormis tant d'amour, peut-être un
+peu de gloire,</p>
+<p>Va pour jamais être effacé. t</p>
+<p>Dans les revers même constance,</p>
+<p>Surtout la même insouciance</p>
+<p>De l'impénétrable avenir : Que 'dis-je ! avec la Mort et sa lugubre escorte</p>
+<p>Le Temps, dont je ressens l'affront, Déji sur moi portant ses mains arides,</p>
+<p>De ses inefîàçables ride» Laboure mon visage et sillonne mon front.
+[Qu'importe, si je puis, 'dans mon heureuse ivresse, Reprendre
+quelquefois et ma lyre et mes chants !</p>
+<p>Mais je n'ai plus ces sons touchants ) ^Qu'embellissait encor ta voix
+enchanteresse ! é^</p>
+<p>Jadis mes vers présomptueux Chantaient de l'univers les nombreux
+phénomènes,</p>
+<p>Les frais vallons, les monts majestueux ; Des bataillons armés le choc
+tumultueux, Des volcans embrasés les fureurs souterraines , Et le volcan
+bien plus impétueux De nos discordes inhumaines. .Quelquefois, déployant
+de plus liantes scènes, Je prétais aux jardins de plus riches couleurs.</p>
+<p><pb/></p>
+<p>A MADAME DELILLE. 5</p>
+<p>Ecoute donc, avant de me fermer les yeux, Ma dernière prière et mes
+derniers adieux : Je le l'ai dit, au bout de cette courte vie, i Ma plus
+chère espérance et ma plus douce envie,''</p>
+<p>C'est de dormir au bord d'un clair ruisseau , A l'ombre d'un vieux chêne
+ou d'un jeune arbrisseau f</p>
+<p><pb/></p>
+<p>6 . ÉP1TRE</p>
+<p>Que ce lieu ne soit pas uuc profane enceinte ;' . Que la religion y
+répande l'eau sainte, Et que de notre foi le signe glorieux, Où s'immola
+pour nous le Rédempteur du monde; M'assure, en sommeillant dans cette
+nuit profonde, De mou réveil viotorieux(l).</p>
+<p>Là, quand le ciel voudra que je succombe,' Dans le repos des champs
+place mon humble tombe. Tu n'y pourras graver ces titres solennels Qui
+survivent aux morts, et qu'au sein Ses ténèbres' Emporte dans l'horreur
+de ses caveaux funèbres ; L incoiTigible orgueil des fragiles mortels :</p>
+<p>Au lieu de es honneurs suprêmes, Du néant vaniteux emphatiques emblèmes,
+Place sur mon tombeau quelqu'un de ces écrits Que ton goût apprécie et
+que ton coeur inspire,</p>
+<p>Que tu venges par un souris</p>
+<p>Des insultes de la satire.</p>
+<p>Il ne reçut point en hommage</p>
+<p>(') Madame Dclille a dignement acquitté cette dette dfl la piété et de
+la tendresse conjugale. ( Voy. laiVolice nisIfori^ue, tom. I, pag. lviij.)</p>
+<p><pb/></p>
+<p>'A' MADAME DEL1LLE. Ces nobles attributs, ces hrilrants écussons Qui
+d'une race illustre accompagnent les noms ; Mais ce tableau fameux, son
+plus sublime'ouvrage, Du Christ transfiguré majestueuse image, Par la
+force et l'audace aux Romains enlevé, Et de ses derniers jours
+chef-d'oeuvre inachevé. kQuel ornement pompeux, quelle riche hécatombe</p>
+<p>Eut égalé des tributs si flatteurs? Un si touchant trophée attendrit
+tous les coeurs, Et la Gloire, en pleurant, lui vint ouvrir la tombe.</p>
+<p><pb/></p>
+<p>g ËPITRE</p>
+<p>Ma muse encor rendra quelques tristes accents ;</p>
+<p>Car, tu le sais, cette aimable déesse Qui s'empara de moi quand je reçus
+le jour,</p>
+<p>La Poésie, a la vive allégresse Préfère, pour former sa cour, Et la
+Mélancolie, et la douce Tristesse, Filles rêveuses de l'Amour.</p>
+<p>O de mon sort souveraine maîtresse ! Je leur vouai mon coeur en te
+donnant ma foi : Et tout ce que les dieux ont d'une main féconde</p>
+<p>Versé de biens et de plaisirs au monde N'égale pas l'espoir d'être
+pleuré par toi.</p>
+<p>Que des muses audacieuses</p>
+<p>Dans leur rimes ambitieuses</p>
+<p>De la rustique sépulture</p>
+<p>Se rendre ma fragilité. Toi, viens me voir dans mon asile sombre! La,
+parmi les rameaux balancés mollement, La douce illusion te montrera mon
+ombre</p>
+<p>Assise sur mon monument ; Là, quelquefois, plaintive et désolée, Pour me
+charmer encor dans mon triste séjour, Tu viendras visiter, au déclin
+d'un beau jour,</p>
+<p><pb/></p>
+<p>'A MADAME DELILLE.; Par toi ces lieux me seront l'Elysée : Le ciel y
+versera sa plus douce rosée ; L'ombre y sera plus fraîche, et les gazons
+plus verts; Les vents plus mollement caresseront les airs ;</p>
+<p>Et, si jamais tu te reposes Dans ce séjour de paix, de tendresse et de
+'deuil,</p>
+<p>Des pleurs versés sur mon cercueil Chaque goutte, en tombant, fera
+naître des roses.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>PRÉFACE.</p>
+<p>CE poëme a été commencé dans l'année 1785, et fini en 179,4-
+L'intervalle de ces deux dates a été marqué par de grands événements,
+dont on y retrouvera quelques traces. Cette observation m'a paru
+nécessaire, car il est juste que chaque époque soit chargée de sa propre
+responsabilité.</p>
+<p>Deux inconvénients sont attachés aux ouvrages long-temps annoncés : le
+public se venge de ces retards par un jugement trop rigoureux; les
+lectures qu'en a faites l'auteur, soit dans le monde, soit dans les
+sociétés littéraires, les fragments qui en sont connus, lui donnent, au
+moment de sa publication, un air de vieillesse qui le décolore.</p>
+<p><pb/></p>
+<p>13 PREFACE.</p>
+<p>des choses, De rerum naturù, c'est-à-dire sur le monde entier et sur
+tout ce qu'il renferme ; sujet assurément beaucoup plus vague, beaucoup
+plus étendu, et donlj'lmagination ne seroit qu'une faible partie, ce qui
+n'empêche pas que ce poëme ne soit un des plus magnifiques et un des
+plus précieux monuments de l'antiquité. La grande étendue d'un sujet est
+plutôt un avantage qu'un inconvénient; l'important est d'en diviser les
+masses en parties bien distinctes et bien circonscrites.'</p>
+<p>C'est ce que je me suis proposé de faire, comme on le verra dans le plan
+que je trace ici de l'ensemble du poëme, et des différentes parties qui
+le composent.</p>
+<p>CHANT PREMIER.</p>
+<p>L'homme sous le rapport intellectuel.</p>
+<p><pb/></p>
+<p>PREFACE. i3</p>
+<p>CHANT DEUXIÈME.</p>
+<p>L'homme sensible.</p>
+<p>Influence de l'imagination sur le bonheur; les plaisirs de l'illusion
+suppléant aux plaisirs réels; l'imagination, dédaignant le présent, se
+rejette vers le passé par le souvenir, et vers l'avenir par la
+prévoyance.-Le</p>
+<p>T. VIII. t'imasui. l. 3</p>
+<p><pb/></p>
+<p>i4 PREFACE,</p>
+<p>CHANT TROISIÈME.</p>
+<p>Impression des objets extérieurs.)</p>
+<p><pb/></p>
+<p>PRÉFACE. i5</p>
+<p>donne d'attraits même aux spectacles les plus terribles, les batailles,
+les volcans. .Quels objets font naître et entretiennent la mélancolie,
+la tristesse, l'épouvante et l'horreur; nuances qui séparent et
+distinguent ces diverses affections; les objets riants, leur définition;
+peinture de quelques objets de ce genre; effets de la grandeur sur
+l'imagination ; la grandeur dans les ouvrages de la nature, les forêts,
+la mer et les montagnes; grandeur du spectacle du ciel; l'homme,
+chef-d'oeuvre de la création, et affectant plus vivement l'imagination
+que tous les autres objets, par l'impression de ses sentiments ;
+éloquence du discours, du geste et surtout du regard : un coup d'oeil de
+Marius désarmant son assassin.</p>
+<p>CHANT QUATRIÈME.</p>
+<p>Impression des lieux.</p>
+<p><pb/></p>
+<p>16 PREFACE,</p>
+<p>même, le lieu de la scène avec l'action qu'on y représente, un champ de
+bataille avec le combat dont il est le théâtre.</p>
+<p><pb/></p>
+<p>PREFACE. 17</p>
+<p>exemple de ces impressions, tiré d'un fait arrivé dans les catacombes de
+Rome.</p>
+<p>, CHANT CINQUIÈME.</p>
+<p>Les arts.</p>
+<p><pb/></p>
+<p>18 PREFACE.</p>
+<p>mécaniques, l'horlogerie, l'imprimerie, la</p>
+<p>navigation.</p>
+<p>CHANT SIXIEME.</p>
+<p>Le bonheur et la morale.</p>
+<p><pb/></p>
+<p>PREFACE. -,i9</p>
+<p>de ses lectures par son âge et ses besoins ; nécessité de réprimer
+l'activité de l'imagination dans les circonstances malheureuses;
+l'ingratitude; perte de sa fortune, de ses amis; l'exil et surtout la
+captivité; nécessité de s'occuper dans ces différentes situations, et
+d'opposer les distractions Vux chagrins : exemple de Pélisson.</p>
+<p>CHANT SEPTIÈME.</p>
+<p>La politique.</p>
+<p><pb/></p>
+<p>20 PREFACE,</p>
+<p><pb/></p>
+<p>FRËFACli. 21</p>
+<p>. CHANT HUITIÈME.</p>
+<p>Les cultes.</p>
+<p>Contemplation de l'Etre suprême, première source de toute perfection;
+distance que notre faiblesse met entre nous et la Divinité-, besoin d'un
+culte qui nous en rapproche, et nous rende plus présente l'idée d'un
+Dieu vengeur et rémunérateur. Sources diverses 4es différents cultes
+créés par la reconnaissance, la crainte, l'espoir, l'intérêt et
+l'orgueil; les bienfaiteurs de leur patrie, premier objet du culte dans
+l'antiquité; les vices et même les crimes partagèrent quelquefois avec
+la vertu les honneurs d'un culte public; apothéose des empereurs romains
+; la crainte, source plus commune encore que la reconnaissance d'un
+grand nombre de croyances religieuses; forme hideuse qu elle prête aux
+dieux créés par elle; voeu du poëte en faveur des Africains élevés dans
+ces cultes bizarres et funestes; divinités indiennes formées sur le
+modèle des dieux insouciants d'Epicure. Jjcs dieux créés par l'intérêt;
+fête des Maldives consacrée aux vents par un peuple navigateur.
+Influence de l'orgueil sur quelques cérémonies religieuses ; le singe adoré</p>
+<p><pb/></p>
+<p>23 PRÉFACE,</p>
+<p><pb/></p>
+<p>PREFACE. 'a3</p>
+<p><pb/></p>
+<p>2'f PREFACE,</p>
+<p>Raphaël veut peindre le Fils de Dieu, dont la divinité triomphante de sa
+mortalité passagère remonte vers le ciel : la divinité dans tout l'éclat
+de sa gloire ne peut seule remplir toute l'idée de ce grand peintre;</p>
+<p><pb/></p>
+<p>PRÉFACE. 25</p>
+<p>'T. VIII. L'lra.i"in. I. 3</p>
+<p><pb/></p>
+<p>26 PREFACE.</p>
+<p><pb/></p>
+<p>PRÉFACE. 27</p>
+<p><pb/></p>
+<p>28 PRÉFACE.</p>
+<p>Avant de peindre le pouvoir de l'imagination, il étoit nécessaire de
+décomposer J homme dans sa double organisation d'être •intellectuel et
+d'être sensible, car c'est de ces deux sources que dérivent ses idées et
+ses sentiments, sur lesquels l'imagination exerce une si vive influence.
+Plus on observe le monde physique et moral, plus on aperçoit la
+correspondance éternelle que la nature a établie entre eux : c'est
+d'après ce principe que doit être écrit un poeme philosophique. Tout,
+ouvrage de ce genre a pour objet des vérités physiques ou des vérités
+morales. Dans" le premier cas, le poëte, pour rendrcv plus intéressantes
+les peintures du monde matériel, doit les rapprocher des vérités
+morales, et trouver entre elles des rapports ingénieux. Ce sont ces
+images qui donnent aux idées abstraites de la morale et de la
+métaphysique un corps, une figure et un ivêtement, comme je l'ai dit
+dans le premier chant de ce poëme :</p>
+<p>Tout entre dans l'esprit pnr la porle des sens.</p>
+<p>Et, sous ce rapport, on peut dire que la poésie est matérialiste; ces
+rapprochements peuvent se faire ou par la peinture immé-</p>
+<p><pb/></p>
+<p>PREFACE. 29</p>
+<p>Bu n o!&gt;ilc o-énn lels les flots ondulcux</p>
+<p>Vont façonner leurs bords, ou sont moulés par eux.</p>
+<p>Si je veux expliquer comment les idées sont réveillées les unes par les
+autres, je mé rappelle L'étincelle qu'on approched'un amas de poudre,
+dont les grains, s embrasant de proche en proche, produisent un vaste
+incendie :</p>
+<p><pb/></p>
+<p>3o P.RËFACE.</p>
+<p>Des astres inconnus peuplent le firmament ; .Une étincelle a fait ce
+vaste embrasement.</p>
+<p>Avec le même avantage et le même succès, les idées morales viennent se
+joindre aux peintures du monde physique ; ainsi. lorsque dans un éloge
+de la rose, j'ai voulu peindre les émanations de son parfum, j'ai dit:</p>
+<p>Mais ce genre de composition demande une grande variété de
+connaissances, qui ne peut s'acquérir que par de longues études, ou
+mieux encore par de longs voyages. C'est par ce double moyen qu'Homère,
+Virgile, le Tasse et Milton ont enrichi leurs poëmcs</p>
+<p><pb/></p>
+<p>PREFACE. 3i</p>
+<p>Heureux qui, dans ses vers, sait d'une voix légère Passer du grave au
+doux, du plaisant au sévère !</p>
+<p>Horace semble avoir tracé les devoirs du poëte philosophe, dans ces vers
+pleins de sens et de finesse :</p>
+<p>Defendentc viçcm modo rhetoris, alque poelae î Interdum urbani,
+parcenlis viribus, alquo Extcnuanlis cas consulto.</p>
+<p><pb/></p>
+<p>32 PREFACE.</p>
+<p><pb/></p>
+<p>PREFACE. 33</p>
+<p>» Une ordonnance monotone et symétri-</p>
+<p><pb/></p>
+<p>3£ PRÉFACE,</p>
+<p>» Ce travail achevé, je vous retins encore dans les champs; nous
+n'avions point de Géorgiques françaises. Celles de Virgile, si parfaites
+dans l'exécution, semblaient incomplètes dans leur plan. Il ne noup
+avait point présenté l'homme des champs jouissant de tous les plaisirs
+que peut offrir la campargne, étudiant tous les aspects variés des
+saisons, observant la nature pour en mieux jouir, se rendant heureux, et
+répandant autour de lui son bonheur. L'agriculture dont il a dicté les
+lois n'est que l'agri-</p>
+<p><pb/></p>
+<p>PREFACE. 35</p>
+<p>n'appar(') ne pouvons mieux faire que de renvoyer'le lecteur a la
+préface de l'Homme des Champs, où l'auteur n exposé lui-même l'intention
+de ce poème. ( A'otc des éditeurs,}</p>
+<p><pb/></p>
+<p>33 PREFACE,</p>
+<p><pb/></p>
+<p>PRÉFACE. 37</p>
+<p>I. VIII. l'imagin. I. 1</p>
+<p><pb/></p>
+<p>38 PRÉFACE,</p>
+<p>souvent embarrassé de l'appareil des articles et des verbes auxiliaires,
+plus d'un connaisseur indulgent n'a pas trouvé ce travail inutile pour
+l'accroissement de. vos richesses poétiques.</p>
+<p>A ces mots, le Génie me sourit, me jeta</p>
+<p><pb/></p>
+<p>PREFACE. 3g</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHANT PREMIER.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>L'IMAGINATION,</p>
+<p>vPOËME.</p>
+<p>CHANT PREMIER'</p>
+<p>L'HOMIftE SOUS LE «APPORT IOTEtXEÇfrOEI,.</p>
+<p><pb/></p>
+<p>-44 L'IMAGINATION.</p>
+<p><pb/></p>
+<p>CHANT I. 45</p>
+<p><pb/></p>
+<p>jJ6 ' L'IMAGINATION.,</p>
+<p><pb/></p>
+<p>'CHANT I. 47</p>
+<p>Cependant des objets la trace passagère S'enfuirait loin de nous comme
+une ombre légère, Si le ciel n'eût créé ce dépôt précieux Où le goût,
+l'odorat, et l'oreille, et lef yeux, .Viennent de ces objets déposer les
+images, La mémoire. A ce nom se troublent tous nos sages : Quelle main a
+creusé ces secrets réservoirs? Quel dieu range avec art tous ces
+nombreux, tiroirs ,</p>
+<p><pb/></p>
+<p>48 L'IMAGINATION.</p>
+<p><pb/></p>
+<p>CHANT I. 49</p>
+<p>T. VIII. L'imogin. i. 5</p>
+<p><pb/></p>
+<p>5o L'IMAGINATION.</p>
+<p><pb/></p>
+<p>CHANT I. 5»!</p>
+<p>Endure ses affronts, partage ses tortures, D'intarissables pleurs arrose
+ses blessures ; Tantôt, dans les langueurs d'un ineffable amour. En Une
+longue extase elle épuise le jour ; Et la bouche entr'ouverle, immobile
+et pâmée,' Elle succombe au Dieu dont elle est consumée (G) i) Tant ce
+pouvoir divin, cet ascendant vainqueur ; Domine sa pensée et subjugue
+son coeur!</p>
+<p>Du pinceau, de l'aiguille emprunte ses couleurs. Brille de diamants , se
+nuance de fleurs,</p>
+<p><pb/></p>
+<p>6» L'IMAGINATION.</p>
+<p>En longs replis flottants fait ondoyer sa moire ,"</p>
+<p>Ou, plus ambitieuse en son brillant essor,</p>
+<p>Sur l'aimable Vaudchamp va s'embellir encor (8)&lt;</p>
+<p>Ainsi, toujours veillant et toujours agissante L'Imagination peint,
+exagère, enfante j Même lorsque la nuit ramène le repos, Quand tout
+dort, et les vents , et les bois , et les flots, Qui ne sait son
+pouvoir? Tel que l'airain sonore, Qu'on cesse de frapper et qui résonne
+encore ; Telle qu'une fois lancé, le rapide vaisseau Se souvient de la
+rame et vole encore sur l'eau : iAinsi, dans le sommeil, lame préoccupée
+Obéit aux objets dont elle fut frappée ; Xinsi la nuit du jour retrace
+le tableau ; 'Ainsi de nos pensers nos rêves sont l'écho.</p>
+<p><pb/></p>
+<p>CHANT 1. 53</p>
+<p>Peindrai-je d'un amant le délire et les songes ? C'est pour lui que
+Morphéeest riche eu doux mensonges ; D'espérance, d'amour, de désir
+palpitant, Il Voit l'objet qu'il aime, il l'écoute, il l'entend; Il
+croit voir sur sa bouche, où le refus expire, Mollement se répandre un
+languissant sourire; Il croit voir, l'entourant des plus aimables
+noeuds, S'étendre et s'arrondir ses bras voluptueux ;</p>
+<p><pb/></p>
+<p>Si L'IMAGINATION.</p>
+<p>li reçoit ses baisers, ses caresses brûlantes :</p>
+<p>Tout son corps a frémi sous ses mains caressantes.</p>
+<p>La nuit fait envier ses prestiges au jour,</p>
+<p>Et trempe ses pavots du nectar de l'amour (,J\</p>
+<p>Ainsi, dans ces erreurs, par un charme suprême,' Revit tout ce qui
+plaît, revit tout ce qu'on aime. Tels', dans la douce paix des Champs
+Élysieris, On peint de ces beaux lieux les heureux citoyens' Idolâtrant
+encor l'erreur qu'ils ont chérie , Vaines ombres, qu'amuse une ombre de
+la yie (' 5) • Les uns d'Amour encor suivant les douces lois. D'autres
+au son du luth croyant mêler leur voix, Ceux-ci faisant voler des chars
+imaginaires, Et tous , comme ici-bas, heureux par des chimères.</p>
+<p><pb/></p>
+<p>CHANT I. 55</p>
+<p>Comme un énorme poids son or sur lui retombe, Et des 9pectres sanglants
+l'entraînent dans la tombe,</p>
+<p>Oublîrai-je vos dons, rêves consolateurs ? Providence du pauvre, ils
+charment ses malheurs. Un songe heureux remplit ses celliers et ses
+granges D'abondantes moissons, de fertiles vendangés. • Un songe le fait
+roi, lui donne des sujets ; Il rêve de trésors, de sceptres, de palais.
+Trop court enchantement ! trop passager délire ! Le réveil lui ravit
+sceptre, couronne, empire; Mais il garde l'espoir, l'espoir, son seul
+flatteur y Et les illusions , ces doux rêves du coeur.</p>
+<p>Et la cause tantôt rappelle les effets. Ainsi le bienfaiteur retrace
+les. bienfaits^</p>
+<p><pb/></p>
+<p>56 L'IMAGINATION.</p>
+<p><pb/></p>
+<p>CHANT I. f7.</p>
+<p>Voyez nos factions : c'est la fureur des flots :</p>
+<p>Nos jours sont un orage , et la France un chaos.</p>
+<p>Mais l'histoire surtout, dans ses pages fidèles ,</p>
+<p>Les succès , les revers, les peuples et les rois,</p>
+<p>Les siècles écoulés, et le siècle où nous sommes ,</p>
+<p>Les grands événements, et surtoutles grands hommes»</p>
+<p>Le poignard de Caton et la flèche de Tell ;</p>
+<p>Et des derniers Romains si je lis les annales f</p>
+<p>Des petits et des grands les discordes fatales , \</p>
+<p>Le luxe subjuguant ces rois de l'univers,</p>
+<p>Les esclaves s'armant des débris de leurs fers ;</p>
+<p>Les harangues des chefs, leurs sanglants artifices,</p>
+<p>L'ambition féroce égorgeant ses complices,</p>
+<p>Des registres de morts les tableaux odieux,</p>
+<p>L'oubli de tous les droits, né de l'oubli des dieux ;</p>
+<p>Les riches dépouillés, et la guerre civile</p>
+<p>Partageant aux vainqueurs jusqu'aux champs de Virgile,</p>
+<p>L'Imagination compare ces tableaux,</p>
+<p>Et dans les maux passés croit voir nos propres maux :</p>
+<p>Par des effets plus sûrs encore et plus puissants,' Le contraste nous
+frappe en de contraires sens ;</p>
+<p><pb/></p>
+<p>58 L'IMAGINATION.</p>
+<p>L'Imagination mesure l'intervalle ;</p>
+<p>Veut changer de tableaux, pour changer de plaisir.</p>
+<p>Voyez-vous, sous le ciel de l'ardente Italie (I6J,</p>
+<p>Virgile regretter la fraîche Thessalie?</p>
+<p>Oh ! qui le portera sous ces riants berceaux,</p>
+<p>Dans ces noires forêts, au bord de ces ruisseaux?</p>
+<p>Des personnes, des lieux-, la grandeur éclipsée,</p>
+<p>Par l'effet du contraste attache la pensée.'</p>
+<p>Ainsi contre ces murs^ monument de l'orgueil ,'</p>
+<p>Où Rome antique étonne;et lasse encor notre oeil ^</p>
+<p>Et qu'abandonne au temps sa fille négligente,</p>
+<p>&lt;Jue Sylla meure en proie aux insectes hideux ('7}</p>
+<p>Qui de la pauvreté sont les hôtes houteux,</p>
+<p>Vainqueur dans Orchomène, et le bourrsau de Rome! i&gt;</p>
+<p>Et son casque tendu sollicite un denier!</p>
+<p>J'admire, en gémissant, tant de maux et de gloire ,</p>
+<p>■Et les dons ée l'aumône aux mains de la victoire.</p>
+<p>Tantôt, pleurant ton sort, descendu de si haut,,</p>
+<p>Tantôt, de Marius méditant le naufrage,</p>
+<p>Je mêle ses débris aux débris de Caithagc;</p>
+<p>Et si je ne craignais d'éveiller nos douleurs,</p>
+<p>Quels désastres plus grands feraientcoulcr nos pleurs ,</p>
+<p><pb/></p>
+<p>CHANT I. 5$</p>
+<p>Enfin, par le hasard d'un heureux voisinage, Une image souvent éveille
+une autre imago. Sans être ressemblants , ni contraires entre eux, Les
+objets plus voisins sont-plus contagieux ;</p>
+<p><pb/></p>
+<p>Co L'IMAGINATION.</p>
+<p><pb/></p>
+<p>CHANT I. 61</p>
+<p>T. VIII. l'ïmagin. I„ 6</p>
+<p><pb/></p>
+<p>Sa L'IMAGINATION.</p>
+<p>Si le chien montagnard hérite de sa race</p>
+<p>L'adresse paternelle aussi-bien que l'audace ;</p>
+<p>Si l'oiseau de son oeuf sait briser la prison ;</p>
+<p>Si, de ses murs de cire élevant la cloison,</p>
+<p>L'abeille géomètre a su par elle-même,</p>
+<p>Dans ses angles savants, résoudre un grand problème;</p>
+<p>Sous son aile inquiète assemble ses petits ;</p>
+<p>Si, quand le tigre au loin poursuit sa course errante,</p>
+<p>Le buffle, sans le voir, se roule d'épouvante;</p>
+<p>Si l'instinct est si prompt et si sûr dans ses lois (") ?</p>
+<p>La sublime raison a-t-ellc moins de droits ?</p>
+<p>Je sais que de l'instinct notre raison diffère :</p>
+<p>L'une agit librement, l'autre est involontaire;</p>
+<p>L'instinct veut deviner. la raison veut savoir;</p>
+<p>L'un sait mieux pressentir, et l'autre mieux prévoir;</p>
+<p>L'une luit par degrés, l'autre soudain s'enflamme;</p>
+<p>L'un est l'éclair des sens , l'autre le jour de l'âme;</p>
+<p>Enfin, quand la raison hésite et flotte encor,</p>
+<p><pb/></p>
+<p>CHANT I. 63|</p>
+<p>Et si ce doux produit de l'homme et de la femme Est l'extrait le plus
+pur de leurs sens, de leur âme, Pourquoi n'auraient-ils pas déposé dans
+son sein Du tableau de la vie un informe dessin ? Je sais que les
+leçons, l'âge, l'expérience, '*•</p>
+<p><pb/></p>
+<p>6j L'IMAGINATION.</p>
+<p>Mais jusqu'où de l'esprit s'étendra la culture ? Jusqu'où doit le savoir
+féconder la nature ? Les Muses aiment peu de longs raisonnements r Un
+récit dira plus que de froids arguments.</p>
+<p><pb/></p>
+<p>CHANT I. 65</p>
+<p><pb/></p>
+<p>■&amp;\ L'IMAGINATION.</p>
+<p><pb/></p>
+<p>CHANT I. 67</p>
+<p><pb/></p>
+<p>68 L'IMAGINATION.</p>
+<p>Il veut partir; il veut, loin de ces bords sauvages,</p>
+<p>Des peuples policés recueillir ies usages.</p>
+<p>Tel l'arbre montagnard, dont le sommet mouvant</p>
+<p>Ne boit que la rosée et n'obéit qu'au vent,</p>
+<p>S'en va dans les jardins , oubliant la nature,</p>
+<p>Implorer l'arrosoir et subir la culture.</p>
+<p>En vain lesyeux en pleurs, la douleur dan« le seinf3?)',</p>
+<p>Son père en cheveux blancs s'oppose a son dessein.</p>
+<p>« O mon fils! disait-il, quelle ardeur téméraire</p>
+<p>Te fait chercher si loin une terre étrangère ?</p>
+<p>Où t'emporte l'amour d'un dangereux honneur?</p>
+<p>Que peut-on regretter, quand on a le bonheur ?</p>
+<p>De quoi nous serviront ces arts d'un autre monde ?</p>
+<p>Rendront-ils de nos mers la pêche plus féconde ?</p>
+<p>Un ciel plus bienfaisant brillera-t-il pour nous ?</p>
+<p>L'air que nous respirons en sera-t-il plus doux ?</p>
+<p>Nos fruits plus savoureux, l'onde plus salutaire?</p>
+<p>En aimeras-tu mieux ton pays et top père?</p>
+<p>De ces arts si vantés connaître les bienfaits ?</p>
+<p>Regarde ces débris épars sur ce rivage.</p>
+<p>Que dis-je ! ah ! loin de moi ce funeste présage !</p>
+<p>Quel est, si je te perds, l'espoir de mes vieux ans ?■</p>
+<p>Abjure, mon cher fils , ces projets imprudents,</p>
+<p>Et, si tu n'en crois pas mes secrètes alarmes,</p>
+<p>Écoute mes sanglots, et vois couler mes larmes. » &gt;</p>
+<p><pb/></p>
+<p>CHANT I. 6g|</p>
+<p>Il dit; et le coeur plein d'espérance et d'alarmes; 'A ces derniers
+adieux joint un torrent de larmes. On l'entoure, on l'emporte, et ses
+pleurs et les cris A son palais encor redemandent son fils.</p>
+<p>A peine cependant le jeune et fier sauvage De la riche Albion a touché
+lo rivage, Dieux! quels furent sa joie et son ravissementt .Tout était
+nouveauté, prodige, enchantement.</p>
+<p><pb/></p>
+<p>;?o L'IMAGINATION.'</p>
+<p>Tout ce nombreux concours des villes opulentes, '</p>
+<p>Les pompes de la scène, et l'orgueil des,palais,</p>
+<p>Les glaces répétant et doublant les objets ,</p>
+<p>Les ports, les arsenaux , le sénat, les lycées,</p>
+<p>Tout formait son esprit. Tel l'onyx brut encor,</p>
+<p>Dont la terre a long-temps recelé le trésor,</p>
+<p>Perd,sous les mains de l'art son écorce grossière.</p>
+<p>Et de son sein poli réfléchit la lumière.</p>
+<p>Son bonheur fut entier jusqu'au funeste jour.</p>
+<p>Où la jeune Willis lui fit sentir l'amour.</p>
+<p>Plus que d'un sentiment, avide d'un hommage ^_</p>
+<p>La coquette Willis était vaine et volage t</p>
+<p>Willis ne connut point cette discrète ardeur</p>
+<p>D'une amante sans art, qui des plaisirs du coeur.</p>
+<p>Sepénétre en secret, et ne veut de sa flamme</p>
+<p>Pour juge que l'Amour, pour témoin que son âme.'</p>
+<p>L'éclat seul l'attirait, et son orgueil charmé</p>
+<p>Aimerait moins Boo, s'il était moins aimé.</p>
+<p>Aussi quand il fallut quitter ce grand théâtre,</p>
+<p>Ces,pompes,.ces vains bruits que sou coeur idolâtre,</p>
+<p>Un,injuste dégoût refroidit son ardeur :</p>
+<p>Boo le ressentit jusques au fond du coeur;</p>
+<p>Le chagrin destructeur s'alluma dans ses veines :</p>
+<p>Ainsi que les plaisirs, il ressentait les peines.</p>
+<p>"AlorH'ucs premiers jours et ses premiers plaisirs,</p>
+<p>Ses innocents travaux et ses hqureux loisirs,</p>
+<p><pb/></p>
+<p>CHANT I.- 7„</p>
+<p><pb/></p>
+<p>7a L'IMAGINATION,</p>
+<p><pb/></p>
+<p>CHANT 1. 7â</p>
+<p>T. VI». I, Inugm. i«</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>' NOTES</p>
+<p>RU CHANT PREMIER,</p>
+<p>Écrire sur PImagination, c'est peiàdre en peintre] a dît M. de BoufUers;
+et il faut que ce peintre se peigne lui-même. Mais quel peintre ! celui
+de l'univers , de l'infiui ,'qui anime, qui élève la,nature en y
+joignant l'idéal. Tout ce qu'on voit, tout co qu'on sent, tout ce qu'on
+pense, tout!ce qu'on rêve. entrait nécessairement dans cet immense
+tableau : il fallait fixer la mobilité, saisir ce qui est plus prompt
+que l'éclair; enchaîner ce qn'il y a en nous -de plus indépendant de
+nous-mêmes.</p>
+<p><pb/></p>
+<p>98 fttitES</p>
+<p>On ne'peut assez admirer avec quel art et quelle'</p>
+<p><pb/></p>
+<p>CU CHANT I. -fi</p>
+<p>(') Mois heureux, après lui, l'ahù de la sagesse Qui, disciple de Pope,
+élève de Lucrèce, Sans masque, sans cothurne ot sans illusion,</p>
+<p>b'un style simple cl vrai fait parler la raison I</p>
+<p>i</p>
+<p>Lucrèce et Pope ont fondé leur réputation sûr des poèmes qui ne sont ni
+épiques, ni dramatiques, ni purement didactiques. Ils ont intéressé
+sans. action et sans caractères ; ils ont instruit</p>
+<p><pb/></p>
+<p>r,S NOTES</p>
+<p>(^J Mais le toucher, grands dieux ! j'en atteste Lucrèce, ' Le toucher,
+toi des sens, les surpasse eD richesse.</p>
+<p>11 est reconnu que le tact ou le toucher est,le</p>
+<p><pb/></p>
+<p>DU CHANT I. 79</p>
+<p>Ou plutôt tous les sens sont le toucher Ini-mênn..</p>
+<p>• i. i1 . ' &gt; '" s'-"w S'il 1 •</p>
+<p>connu , qui 1 a pius éprouve que Delille lui-</p>
+<p><pb/></p>
+<p>Bd NOTES</p>
+<p>( 3) Ainsi tout se répond,- et, doublant leurs plaisir») Tous les sens
+l'un de l'autre éveillent les désirs.</p>
+<p><pb/></p>
+<p>DÛ CEANf t, 6e</p>
+<p>tentes qu'elles le paraissent, et qu'elles aient une 1 - communication
+réciproque,qui, pour^tre invi- 1 »ible, n'en est pas moins réelle et
+constante.</p>
+<p>Le .poète, qui consacre un chant tout ontier</p>
+<p><pb/></p>
+<p>6a NOTES</p>
+<p>tMais que l'image d'une perception qui ne serait pas la perception
+elle-même ? N'at-on pas pris pour la perception de l'objet quelques
+circonstances ou quelque idée générale qui en effet la réveillent ?
+L'imagination, la mémoire,</p>
+<p><pb/></p>
+<p>'DU CHANT,I. 83</p>
+<p><pb/></p>
+<p>84 NOTES</p>
+<p>dpns cette entreprise tous les penchants vicieux (de j'homme, et tous
+les souvenirs quj ressemblent aux remords.</p>
+<p>[B) Elle succombe au Dieu dont elle est consumée.</p>
+<p><pb/></p>
+<p>DU CHANT I." 85</p>
+<p>(7) Ainsi, dans un amas de tissus précieux Quand Bertin fait briller son
+goût industrieux f L'étoffe obéissante en cent formes se joue...</p>
+<p>Les réputations établies sur la mode sont ~ comme e}le, frivoles et
+éphémères ; celle que les vers de Delille feront a mademoiselle Bertin
+durera sans doute davantage. Les poètes anciens ont quelquefois daigné
+consacrer le .*o.uvenir d/una marchande fameuse et d'un artiste agréable
+: il ne conviendrait pas aux Français d'être plus sévères, Pourquoi
+d'ailleurs les arts du luxe, ceux mêmes de la frivolité,
+n'obtiendraient-ils pas, comme les autres, leur portion d'élpge et
+d^encouragement? Ne sont-ils pas, comme eux, une branche d'industrie,
+etl'une des' sources de la prospérité des états?</p>
+<p>( 8) Surl'aimablp Vaudchamp va s'embellir encore.</p>
+<p>Le poè'te désigne mademoiselle Vaudchamp? 'depuis madame Delille.</p>
+<p>( 9) Et n'émigrer jamais !</p>
+<p>T. VIII. L'Imajin. I. 8</p>
+<p><pb/></p>
+<p>• 86 NOTES</p>
+<p>écrivain cependant s'est élevé avec une audace plus courageuse contre
+les erreurs et les crimes de</p>
+<p>"cette douloureuse époque? mais il ne pouvait s'empêcher dé plaindre, en
+les condamnant, les coupables instruments de cette sanglante et chi'</p>
+<p>chi' régénération.</p>
+<p>(IO) .En songe, un orateur, etc.</p>
+<p>Tout ee morceau est évidemment emprunté de Lucrèce, liv. IV, v. g63 et
+suiv.</p>
+<p>Causidici causas agere;etcomponere leges(videntnr), - Induperatores
+pugnare, oc pralia obire ; Eautoe contractum cum venlis ccrnere bellum ;
+, . Çios agere hoc autem et naturam quacrere rerum, etc.</p>
+<p>' En songe, l'orateur combat son adversaire ; L'ambitieux guerrier
+affronte le trépas ; Le pilote s'égare aux plus lointains climats ; Et
+moi-même, séduit par un noble délire, Dans les bras du sommeil je touche
+enoor m'a lyre : Je sonde la nature, elle inspire mes vers ; Et de ses
+grands secrets j'étonne l'univers. , , PONGEBVIIXE.</p>
+<p>inalté* ,&gt; sa piété, sa modestie au milieu des jpompfcs de son rang, sa
+patience et sa résignation dans les infortunes de sa famille et de son
+pays. Il- fallait que le charme de ses vertus fût bien touchant,
+puisqu'il adoucit jusqu'aux assassin» révolution^</p>
+<p><pb/></p>
+<p>DU CHANT I. 87</p>
+<p>(") En songe, au tendre ami'revoit l'ami qu'il pleure;. '</p>
+<p>Lucrèce, liv. IV, v. 764 :</p>
+<p>Ainsi l'homme abusé croit revoir, croit entendre Les amis dont la tombe
+a.recueilli la cendre.</p>
+<p>(' 3) Et trempe ses pavots du nectar de l'Amour.</p>
+<p>Lucrèce, même liv., v. io54 :' ;</p>
+<p>Nam si abest, quod âmes, praesto simulacre tninensunt Slins, et nomen
+dnlce obversatur ad aares.</p>
+<p>De quels brûlants désirs l'amant est dévoré ! Le fantôme charmant de
+l'objet adoré ..</p>
+<p>Le "suit pendant le jour, dans l'ombre le réveille, Et le nom qu'il
+chérit assiège son oreille.</p>
+<p>Tout ce morceau de's'sorigés e'sfàdmirahle dans Lucrèce, faible et
+commun dans Pétrone, qui l'a trop servilement imité. Delille en a pris
+ce qu'il y avait de mieux, et l'a encore embelli.</p>
+<p>(&gt; 4) Vaines ombres, qu'amuse, une ombre de la vie,' ,</p>
+<p>Ce passage rappelle l'endroit de l'Enéide, Jiv. VI, V. 654, où Virgile
+représente les ombré» des guerriers illustres se livrant, dans les
+Champs^-' Élysées, aux exercices qui avaient fait sur la terré Je charme
+et l'occupation de leurs jours.</p>
+<p><pb/></p>
+<p>!</p>
+<p>88 - NOTES</p>
+<p>Quae gratia ctlrruunt. Armorumque mit vivis, quae cura mlentes Pascere
+equos, eadem sequitur tellure repostos.</p>
+<p>Des armes et des char» le noble amusement A suivi ces guerriers sur Cet
+heureux rivage, Et de la vie encore ils embrassent l'image.</p>
+<p>J'aperçus l'ombre d'un cocher, Qui, tenant l'ombre d'une brosse, -"
+Nettoyait l'ombre d'un carrosse.</p>
+<p>{■5j Sous ses lambris pompeux, dans son alcôve d'or. Des Belges, que son
+nom fait tressaillir encor, L'affreux dévastateur, au milieu des nuits
+sombres, Des riches égorgés croit voir encor les ombres.</p>
+<p>Nous pensons que l'auteur désigne ici le duc id'Albe, qui se vantait
+d'avoir livré dix-huit millevictimes au bourreau pendant une
+administration, de six an», mais dont malheureusement l'histoire ne
+constate pas les remords (*). L'auteur d'une note insérée dans plusieurs
+éditions précédentes avait</p>
+<p>(*) Voyez son article dans la Btograplii'e universelle, t. I,p. 389,
+chez L. 6. Michaud, place des Victoires, n° 3/</p>
+<p><pb/></p>
+<p>DU CHANT I. 8g</p>
+<p>présumé que ces vers s'appliquaient « aux procon» » suis insolents...
+qui foulèrent aux pieds les peu'» pies de la Belgique en 1793 et -1794 &gt;
+et se gor» gèrent d'or et de sang. » Nous ne partageons pas cette
+opinion : Danton et Lacroix n'ont point joui tranquillement du prix de
+leurs forfaits; ils les ont expiés sur l'échafaud, et peut-être, en se
+gorgeant d'or dans les Pays-Bas, y ont-ils versé moins de »ang que le
+ministre des cruautés de Philippe II.</p>
+<p>(, 6) Voyez-vous, sous le ciel de l'ardente Italie, Virgile regretter la
+fraîche Thessalie?</p>
+<p>On sait que Vheureux Sylla C c'est ainsi qu'il se</p>
+<p>8.</p>
+<p><pb/></p>
+<p>0O NOTES</p>
+<p>nomma lui-même] , après avoir triomphé de M(r thridate et de Marius,
+subjugué la Grèce, donné des lois aux Parthes, dont les ambassadeurs le
+prirent pour le maître du monde, et gouverné les Romains avec une
+tyrannie sans exemple , ne craignit point de renoncer au pouvoir
+suprême, et brava long-temps, dans les délices d'une vie privée, la
+haine et la vengeance publique. Son insultante sécurité, au milieu des
+enfants et des ombres de ses victimes, est un exemple unique dans
+l'histoire; Créblllon lui doit un des plus beaux vers qu'il ait faits :</p>
+<p>- Sylla, couvert du sang romain,</p>
+<p>'Abdique insolemment le pouvoir souverain.</p>
+<p>C'est une idée grande çt juste, rendue avec un singulier .bonheur
+d'expression. Sylla se retira dans sa maison de campagne, près de
+Poiwzolcâ, et il y mourut d'une maladie pédiculaire, causée par l'excès
+de ses débauches.</p>
+<p>(«*) Bélisaîre ! A ce nop trembla le mondé entier. Et son casque tendu
+sollicite un denier ! '</p>
+<p><pb/></p>
+<p>DU CHANT I. g(</p>
+<p>{* ?) J'admire de sang-froid le snge Idome'nee, Et le prudent Ulysse, et
+le pieux Énée ; Mais qu'on me montre Achille, Achille, âme de feu, Dont
+la rage est 'd'un tigre, et les vertus d'un dieu, ne.</p>
+<p>Il est reconnu que les personnages les plus dramatiques sont ceux qui,
+par. la violence de</p>
+<p><pb/></p>
+<p>oi NQTÉ$</p>
+<p><pb/></p>
+<p>DU ÇHANf 1. 93</p>
+<p><pb/></p>
+<p>94 NOTES</p>
+<p><pb/></p>
+<p>DU CHANT I.' g5</p>
+<p><pb/></p>
+<p>'96 NOTES</p>
+<p>l'étendne de l'instinct? Il est éyfdent7 malgré l'autorité de Descartes,
+que les animaux sentent, comparent, choisissent, se souviennent, et sont
+guidés dans toutes leurs démarches par un senti-* ment d'amour de soi,
+que .l'expérience rend plus " on moins éclairé. Lactance a dit cru
+'excepté la re' Kgion , il n'est rien en quoi lès' bêtes ne particfcpent
+aux avantages de l'espèce humaine. Que faut-il en conclure? Les prodiges
+de l'instinct peuvent-ils expliquer les mystères de 1 ame? Les premiers
+mouvements de l'cnfanee, qui supposent une espèce de réflexion, sont-ils
+le résultat des idées innées que l'âme apporte au monde, ou des
+sensations que le corps éprouve en y entrant ? ' C'est encore ici qu'il
+faut s'écrier avec l'auteur de ce poème :</p>
+<p>Les secrets de l'âme sont plus nombreux et plus impénétrables que ceux
+que la nature a cachés dans les entrailles de la terre et dans la voûte
+des cieux.</p>
+<p>(ai) Si l'instinct est si prompt et si sûr dans ses lois.</p>
+<p>Voyez, sur ta Raison et l'instincl , l'épître m de Vhssai sur {'homme,
+dans la belle traduction de Delille, tome XVI de cette édition.</p>
+<p>(aa) De la ce mot fameux &lt;ru 'un sage a publié :</p>
+<p>« L'homme n'ignorait pas : il n'avait qu'oublié. »</p>
+<p>Ce.mot est de Platon, et ce système n'est pas</p>
+<p><pb/></p>
+<p>DU CHANT l. î 97</p>
+<p><pb/></p>
+<p>98, , NOTES u.</p>
+<p><pb/></p>
+<p>DU CHANT I. 99</p>
+<p>rie, qui redoutait moins l'influence de la métaphysique sur son armée,
+le rappela , le combla de biens et d'honneurs, le fit baron de l'empire
+et chancelier de l'université de Halle.</p>
+<p>Voit son amant tomber sous vingt coups de poignardj Et, tremblant d'un
+fer nu, roi pédant et frivole, SQB fils livre la guerre aux docteurs de
+l'école.</p>
+<p><pb/></p>
+<p>IOO NOTES</p>
+<p><pb/></p>
+<p>. DU CHANT I. . IOJ</p>
+<p>(J5) Au seio de cette mer qji'on nomme Pacifique,' L'île de Péliou lève
+son front antique.</p>
+<p>9-</p>
+<p><pb/></p>
+<p>IM NOTES</p>
+<p>(a^) Un vaisseau qu'Albion vit sortir de ses ports, Heureux dans son
+naufrage, échoua sur ses bords.</p>
+<p>Ce fut dans la nuit du 10 août 1^83 que l'y/;ilelopej paquebot de la
+compagnie des Indes orientales , commandé par le capitaine Henri Wilson,
+échoua sur les brisants qui environnent les îles Pelew du côté de
+l'ouest. Malgré la violence de la tempête ; l'équipage eut le temps de
+construire un radeau, sur lequel on transporta les armes et les
+prrncipâles 'provisions. Les 'Anglais s'établirent dans'un îlot désert,
+que les naturels du pays'appellent Orûolong. Ils trouvèrent chez ce
+peuple, qu'on'croyait anthropophage, la douceur ct'fémpresseinént de
+l'hospitalité la {'lus confiante. 11 serait trop'long'de .rapporter ici
+les détails de leur séjour, qui se prolongea jusqu'au 12 no-</p>
+<p><pb/></p>
+<p>DU CHANT I, ioî</p>
+<p>Ps) Dans le ravissement de ses nouveaux destins, Adieu l'Europe, adieu
+ses arts et ses festins !</p>
+<p><pb/></p>
+<p>io4 NOTES</p>
+<p>Cette résistance perpétuelle du roi de Pelew, qui est de l'invention du
+poëtc, est ici plus drar.matique que la simple vérité. Suivant la
+Relation, ce fut Abba-Thulle lui-même qui conçut le projet d'envoyer son
+fils Léc-Boo on Angleterre, et se» motifs n'étaient point d'un sauvage.
+La supériorité des arts de l'Europe, dont le capitaine Wilson et
+l'équipage de VAntelope ne pouvaient lui donner qu'uue faible idée,
+avait lait cependant une profonde impression sur son esprit : « Mes sujets,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>io6 'NOTES</p>
+<p>discours que prête au roi de Pelew l'historien du naufrage du capitaine
+Wilson, M. Georges Keate. Ce sauvage', plein de courage et de prudence,
+se sépara de''son fils avec un attendrissement pro-^ fond,'mais sans
+donner aucun signe de faiblesse ou d'incertitude.</p>
+<p>On a .retrouvé dans quelques îles de la mer du Sud l'usage des anciens
+Péruviens, de marquer les jours par des noeuds qu'on fait a des cordons
+de fil.</p>
+<p>Les Incas se servaient d'un grand nombre de cordons de différentes
+couleurs, pour régler le paiement de leurs troupes et les dénombrements</p>
+<p>(«) Les Anglnn donneront le nom de l'île au petit navire qu'ils y
+avaient construit.</p>
+<p><pb/></p>
+<p>DU CHANT I. io7</p>
+<p>3u peuple. On assure même que ces signes convenus pouvaient en partie
+remplacer l'écriture, et conservei le souvenir des actions mémorables et
+des grands événements.</p>
+<p>('9) Et toi, bonté du ciel, si je dois le revoir, etc.</p>
+<p>Si numina vestra Incolumem Pallanta mini, si fata reservunt; Si visurus
+eum vivo, tic. &gt;</p>
+<p>. . i</p>
+<p>AtKndrai-je en tremblant qu'un avis funéraire Vienne du coup fatal
+assassiner ton pfcre? Ali ! quV.vondrc plutôt, sans connaître ton sort.
+Meure d'un coup de foudre, et non pas de tn mort!</p>
+<p>(3o) Il di&lt;, et , l'oeil tourné vers la carte rhi'ria Où l'art ingénieux
+lui tmçnit. sa pallie,</p>
+<p><pb/></p>
+<p>io8 NOTES</p>
+<p>Tantôt vers ces écrits monuments de nos arts' ' Tournant languissamment
+ses douloureux regards,' 11 expire en sa fleur...</p>
+<p><pb/></p>
+<p>bV CHANT i: ib£.</p>
+<p>Vai point vu le capitaine Wilson ce matin ; mai* j'ai trouvé tous les
+domestiques en pleurs, et un «ir de tristesse sur tous les visages. Le
+caractère aimable du pauvre Lée-Boo l'avait fait regarder} par chaque
+personne de la famille, comme un</p>
+<p>frère ou un fils, etc » — La compagnie des</p>
+<p>(3l) S'ils ont fait quelques maux, ils en sont !e remède.</p>
+<p>ï. VIII. l'I-nagin. I. ' 10</p>
+<p><pb/></p>
+<p>mç&gt; ffOTES. DU CHAN.T I.</p>
+<p>artifiçieus,emenl combiné tombent d'eux.-mémes devant la simple
+expression de la vérité ; et l'éloquence des choses triomphe sans peine
+du vain appareil de£ mots.</p>
+<p><pb/></p>
+<p>CHANT DEUXIÈME.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LIMAGINATION,</p>
+<p>POÈME.</p>
+<p>CHANT DEUXIÈME.</p>
+<p>L'HOMME SENSIBLE,,.</p>
+<p>10.</p>
+<p><pb/></p>
+<p>ii£ L'IMAGlNÀTIOlCi</p>
+<p><pb/></p>
+<p>CHANT II.' 4»5</p>
+<p>Et le voeox, de permets, d'espérances suivie ( Remplit le canevas dçs
+scènes de la vie.</p>
+<p>Eu voulez-vous l'emblème, écoutes ce récit 1 Une femme charmante
+assemblait, m'a-t-on dit, A de petits soupers, très-grande compagnie ; '
+De sa table frugale, et souvent mal servie, Elle se plaignait seule,'
+ou'pfutôt se moquait ; Mais si l'Aï, l'Arbois, ou le Bordeaux manquait
+t3}', Si les plats clair-semés sc'fuyaient sur la tablé. Elle contait :
+soudain lagaité délectable Se répandait partout : les ris gagnaient ; le
+vin Etait délicieux, et le souper divin. Telle est l'iiliftioh, au grand
+banquet du monde :' • Où manque un bien réel, la douce erreur abonde ~.</p>
+<p><pb/></p>
+<p>n8 'L'IMAGINATION;</p>
+<p>Nos jours soient pour jamais retranchés de notre être î</p>
+<p>Non, non, le souvenir les reproduit toujours „</p>
+<p>Le souvenir au temps fait rebrousser son copra ; ,</p>
+<p>Et, tel que ce serpent que tranche un fer barbare,</p>
+<p>'Ainsi vers le passé revient le souvenir.</p>
+<p>Que dis-je ? L'Eternel, en le faisant renaître,</p>
+<p>Au sage emploi du temps nous invite peut-être.'</p>
+<p>îl nous dit : « Du présent placez bien les trésors,"</p>
+<p>Et que vos souvenirs ne soient ppint des remords,'</p>
+<p>Malheureux le mortel-que le remords tourmente P</p>
+<p>L'Imagination le nourrit et l'augmente.-</p>
+<p>Son serment, spn parjure, et le temple et l'autel ,"</p>
+<p>Et lui fait de son crime une longue torture.</p>
+<p>Mais l'âme, quelquefois, par le remords s'épure j,</p>
+<p>11 fait servir au bien le vice qui n'est plu»,</p>
+<p>Et cet enfant du crime est. garant des vertus.</p>
+<p><pb/></p>
+<p>CHANT II. M?</p>
+<p>Eh! qui n'en a connu les peines et les charmes? Qui n'a vers le passé
+détourné quelques larmes ï L'homme ingrat an passé goûte peu l'avenir.
+Npn, l'espoir ne vit guère où meurt le souvenir; Dans le même foyer tous
+deux ont pris, naissance £ Et le coeur sans regret languit sans
+jouissance. Et toi, du souvenir le plus noble attribut, Douce
+reconnaissance, accepte mon tribut ! Xe présent est le dieu que
+l'intérêt adore ; , Mais toi, vers le passé ton oeil se tourne encore;
+Si des dettes du coeur il s'était acquitté, « Cet homme se souvient u,
+disait l'antiquité.! Mais aux dieux, aux mortels, vainement redevables j
+Que d'âmes sans mémoire, et de coeurs insolvables !. Et, même dans
+l'amour, même dans l'amitié, Le doux ressouvenir n'cst-il pas de
+moitié?. Le temps serre les noeuds que l'instinct fit éclore ; On songe
+qu'on s'aima, pour s'aimer plus encore,' Trop heureux cependant, si
+toujours le passé Par ces doux souvenirs nous était retracé 1 Mais comme
+les penchants vertueux et paisibles ^ La mémoire nourrit les passions
+terribles, Surtout dans ces climats dont les âpres chaleurs l 'Ainsi que
+les poisons, exaltent les fureurs.. Là, par l'homme superbe une injure
+endtfrée Descend profondément daus son âme ulcérée, Pour lui plus de
+plaisir; sa barbe, ses cheveux, Croitrpnt jusqu'au trépas d'un mortel
+odieux;</p>
+<p><pb/></p>
+<p>Vi8 L'IMAGINATION.</p>
+<p><pb/></p>
+<p>CHANT II." tift</p>
+<p><pb/></p>
+<p>iao ^'IMAGINATION.</p>
+<p>Son ennemi l'a su; son adroite furie</p>
+<p>'Avait fait épier son départ, son retour,'</p>
+<p>Et jusqu'au lieu secret choisi pour son séjour."</p>
+<p>'Alors, tout palpitant d'une allégresse horrible ,</p>
+<p>,'Avec un ris féroce, avec un oeil terrible ,</p>
+<p>Parcourant ce lieu saint, ce temple, cet autel,</p>
+<p>« Séjour de piété, témoin d'un si long crime,'</p>
+<p>Je vous rends grâce enfin, je vous dois ma victime.'</p>
+<p>'Adieu ! gardez pour vous l'innocence et la paix,</p>
+<p>'Adieu! je vais jouir de cinq ans de forfaits. »</p>
+<p><pb/></p>
+<p>CHANT II. tas</p>
+<p>MaisTnrce corps mourant 6a haine vit encore; Il trempe le poignard dans
+le sang qu'il abhorre. Il l'emporte fumant de ce sang odieux ; Et cet
+objet funeste est toujours sous se? yeux: Horrible monument d'une
+horrible vengeance. Tant le pasré sur nous exerce do puissance !</p>
+<p>T. VIII. L'imogin. i. Il</p>
+<p><pb/></p>
+<p>iaa L'IMAGINATIONUn</p>
+<p>Le trépas même enfin , l'inflexible' trépas, Invoque l'Espérance, et
+n'en triomphe pas. Que dis-jc? Soir nos coeurs que né peut sa puissance?
+Elle-même souvent révoque l'a'sentcncc, Et, d'un corps affaibli ranimant
+les ressorts;" Elle est, comme des coeurs, bienfaitrice dés corps."' ■</p>
+<p><pb/></p>
+<p>CHAJVT M. t2î</p>
+<p><pb/></p>
+<p>ni L'IMAGINATION</p>
+<p><pb/></p>
+<p>CHANT II." ia5</p>
+<p><pb/></p>
+<p>«6 L'IMAGINATION.</p>
+<p><pb/></p>
+<p>QHANT II. ,»7</p>
+<p>Effroyables tableaux, où chaque.front -déploie , Ou sa douleur farouche,
+ou son horrible joie '.</p>
+<p><pb/></p>
+<p>**s8 L'IMAGINATION.</p>
+<p>Il n'est pas dans l'alcôve obscure et parfumée'</p>
+<p>Où le baiser s'empreint sur la bouche enflammée ; .</p>
+<p>Il est dans cette fête où, rencontrant leurs yeux,</p>
+<p>Et, pleins d'une langueur ineffable et profonde,</p>
+<p>Dans la fouleet le brait, ne sont plus qu'eux au monde j</p>
+<p>Il est aux bords déserts, où l'objet adoré,</p>
+<p>Seul vu, seul entendu, seut craint, seul désiré,'</p>
+<p>Remplit chaque pensée ou de joie ou de peine,</p>
+<p>Enflamme chaque sens et bat dans chaque veine;</p>
+<p>Il est dans la retraite, où le coeur amoureux</p>
+<p>Verse sur le papier le torrent de ses feux ;</p>
+<p>L'amant, en palpitant, prête une oreille avide;</p>
+<p>Hcurenx lorsque d'un pied posé timidement</p>
+<p>Le bruit vient l'avertir du fortuné moment,.</p>
+<p>Il est dans le réduit où la beauté sommeille,</p>
+<p>Où, de loin l'adorant., et n'osant qu'admirer.</p>
+<p>Il écoute son souille et craint de respirer ;</p>
+<p>Tandis que d'un beau corps l'inutile parure,</p>
+<p>Ces perks, ces rubis,, qu'ornait sa chevelure,</p>
+<p>Ces ornements d'un bras arrondi par l'ampur,'</p>
+<p>Ce corps où d'un beau sein le mobile contour</p>
+<p>fA ses impressions fit céder la baleine,</p>
+<p>Et, la montrant sans voile h son brûlant désir,</p>
+<p>Par cent pjaisjrs secrets deyancen*. le plaisir (M).</p>
+<p><pb/></p>
+<p>CHANT lî. 120</p>
+<p>3e passe ces moments de turbulente ivresse Où les 6ens régnent seuls, où
+l'illusion cesse. . Qu'en peignant des désirs l'impétueuse ardeur,
+Lucrèce dans ses vers alarme la pudeur (,a), Et fesse des accents de
+l'obscène licence Murmurer la sagesse et rougir l'innocence; Pour le
+sage lecteur un coupable mépris Jamais-d'un vers ùnour n'a souillé mes
+écrits* Je laisse donc couverts des ombres du mystère • &lt; Les traits
+dont s'effarouche une muse sévère.</p>
+<p><pb/></p>
+<p>»3o L'IMAGINATION.</p>
+<p>Autantauxcfeurs jaloux,qu'unnoivpoison consume,</p>
+<p>Elle fait des douleurs épuiser l'amertume,'</p>
+<p>Les fantômes brillants et les songes heureux ;</p>
+<p>Ce n'est qu'une fttrio évoquant des lieux sombres,</p>
+<p>Les spectres effrayants et les sinistres ombres^</p>
+<p>Voyez-le, ce jouet, ce tyran de l'amour :</p>
+<p>Lie malheureux! il craint et la nuit et le jour :</p>
+<p>Le jour sert des regards l'audace témérairer</p>
+<p>Et la nuit peut voiler un odieux mystère.</p>
+<p>Le co-nceui-s des cités, leurs pompes et leurs jeux^</p>
+<p>Tout nourrit, tout aigrit ses soupçons ombrageux.'</p>
+<p>Dans les champs, l'air, les eaux-, les fleurs et lezéphire,</p>
+<p>La forêt, le bosquet, tout contre lui conspire.</p>
+<p>(( Tous deux ils ont suivi ces sentiers écartés ;</p>
+<p>La lune, il m'en souvient, retirait ses clartés \,</p>
+<p>Ces lieux étaient si beaux \ ce bocage si sombre 1 ».' .</p>
+<p>Il part, il marche, il erre, il s'enfonce dans l'ombrej</p>
+<p>Un feu noir et sinistre allume son regard,'</p>
+<p>Que dis-je ! malheureux au sein du bonheur même," .</p>
+<p>11 jouit en tremblant de la beauté qu'il aime;</p>
+<p>Et ses plaisirs troublés le rendent aux tourments :</p>
+<p>Et si de son malheur l'assurance terrible</p>
+<p>Jette au fond de son âme une lumière horrible,</p>
+<p>Ab! qu'il est malheureux, puisqu'il n'espère plus |</p>
+<p>Comme il va regretter les maux qu'il a perdus!</p>
+<p><pb/></p>
+<p>CHANT II. lit</p>
+<p>Sur les pertes ducoeurnous pleurons chaque jourfi)^ ■Mais quels rtigrets
+pareils aux regret» de l'amour! J'ai chanté son pouvoir, ses plaisirs,
+ses prestiges; J'en ai peint-les effets : qui peindra ses prodiges ? Qui
+saura m'exprimer comment ses traits puissants Trompent la mort,
+l'absence , et les lieux, et les ans ?</p>
+<p>Voyez-vous ce visage où d'une âme flétrio Se point la douloureuse et
+lente rêverio ; Qui, gai-par intorvalie, et souvent dans les pleurs,-'
+Jusque dans son souris exprime ses douleurs?</p>
+<p><pb/></p>
+<p>i3a L'IMAGINATION.</p>
+<p>D'un amant qui n'est plus amante infortunée,'</p>
+<p>Elle l'attend toujours ; elle croit que la mer</p>
+<p>Dans les mêmes chemins, connus de sa tendresse,</p>
+<p>Cet invincible espoir la ramène sans cesse. 1</p>
+<p>Elle arrive... Son oeil jette de toutes parts</p>
+<p>Sur l'immense océan ses avides regards,</p>
+<p>Elle demande aux flots si des rives lointaines</p>
+<p>Le vent ramène enfin l'objet de tant de peines.</p>
+<p>Rien ne paraît. « Allons ! il reviendra demain » (*?),'</p>
+<p>Se dit-elle... et reprend tristement son chemin.</p>
+<p>Le lendemain arrive; elle vient dès l'aurore,</p>
+<p>L'attend, soupire... et part... pour revenir encore :</p>
+<p>Tant l'amour sait nourrir son triste enchantement!</p>
+<p><pb/></p>
+<p>CHANT II.' . -33</p>
+<p>A l'ombre de ces murs, ignorant les humains, Ce coeur si jeune encore
+ignorait les clraerins ;</p>
+<p>T. VIU. L'iuia^in. i. 12</p>
+<p><pb/></p>
+<p>t34 L'IMAGIN-ATION.</p>
+<p>Cependant sur son front je ne sais quel nuage; S'il n'en était l'effet,
+en semblait le présage : On eût dit, à-la voir, que l'instinct de son
+coeur, Même avant le plaisir, devinait la douleur; Kt les traits
+enchanteurs de la jeune Azélie Devenaient plus touchants par Sa
+mélancolie; Rien d'ailleurs ne troublait le calme de ses traits... Ah!
+puisse le malheur ne l'altérer jamais: -</p>
+<p>Des charitables soeurs implora l'assistance. '</p>
+<p>Jamais rien de plus beau ne parut sous les cieux t</p>
+<p>En longs et noirs anneaux s'assemblaient ses cheveux;</p>
+<p>Ëtincelaiervt encor sous- deux sourcils d'ébène ;</p>
+<p>Et son front noble et fier, où se peignait son coeur,</p>
+<p>S'embellissait encor de sa douce pâleur.</p>
+<p>TQI; moissonné trop tôt, tombe et lan guit sur l'herbeOu</p>
+<p>l'herbeOu sombre hyacinthe, ou le pavot superbe ('9) :</p>
+<p>Tel meurt avant le temps, sur la- terre touché-,</p>
+<p>Un lis que la charrue en passant a touché. Il fut reçu mourant dans le
+pieux' hospice'.- -</p>
+<p>Des soins hospitaliers'l'honorable exercice</p>
+<p>Distinguait Azélie entre toutes les soeurs;</p>
+<p>Son deyoip l'appela, près du lit de douleur*.</p>
+<p><pb/></p>
+<p>. . CHANT H- .«35,</p>
+<p>A' leur pre-aiei\abord leurs regards se cherchèrent : _ A leurs
+premiers-regards leurs coeurs se rencontrèrent,' Tant des rapports
+cachés le rapide ascendant Sait allumer bientôt l'amour le plus ardent!'</p>
+<p><pb/></p>
+<p>i36 L'IMAGINATION,</p>
+<p>Il conçoit un projet qui l'enivre d'avance.</p>
+<p>A peine relevé de ce lit douloureux-, ! Son oeil osa fixer Azélie et les
+cieux : « O fille vertueuse ! ô mon dieu tutélaire f Dit-il avec
+transport, que sert un vain mystère ? Nos feux se sont trahis ; et ces
+feux innocents Ne sont pas, tu le sais , le délire des sens ; Formés
+dans la douleur, nourris dans la souffrance,* Ils s'épurent encor par la
+reconnaissance. C'est par toi que je vis, daigne vivre pour moi ; Ne nie
+fais pas haïr des jours sauvés par toi. D'un amour malheureux trop
+malheureuse fille,' Tu n'as, on me l'a dit, ni parents ni famille ; Eh
+bien! ces sentiments qu'eût partagés ton coeur,' Sur moi seul réunis
+feront mieux mon honneur. Je suis libre, tu l'es : viens, ma chère
+Azélie, Viens, je veux te devoir le bonheur et la vie. »</p>
+<p>Tel .qu'un foible arbrisseau, dans la serre nourri J Ne quitte qu'à
+regret son doux et sûr abri ; En vain d'un ciel brillant la liberté
+l'appelle : Timide, il craint les yents et leur souffle infidèle.
+'Ainsi, les yeux baissés, rougissant de pudeur, Azélie, en pleurant,
+accepta son bonheur. Les beaux jours renaissaient, la terre était plus
+belle j Le fortuné Volnis s'embellissait comme elle, Et goûtait, retiré
+dans un riant séjour, Le repos, la santé, le printemps et ljtmour.</p>
+<p><pb/></p>
+<p>CHANT II. V37</p>
+<p>Que renaître au printemps est un charme suprême ! Mais combien les beaux
+jours sont plus beaux quand on aime! Tous deux savaient jouir de ces
+charjnes touchants : Le véritable amour se plaît toujours aux champs. «
+Vois-tu, disait Volhis, ces fleurs , cette verdure ? Du ruisseau libre
+enfin entends-tu le murmure ? Tout renaît au printemps, tout se ranime ;
+et moi ^ Dans mes beaux jours, hélas '. j'étais flétri sans toj. »</p>
+<p>Se reprochait d'avoir dégradé son amant : Le coeur voudrait toujours
+ennoblir ce qu'il aime. Azélio enferma son désespoir extrême ; Et Volnis
+de ce coeur sensible , mais discret, S'efforça vainement d'arracher le
+secret,</p>
+<p>i»</p>
+<p><pb/></p>
+<p>i3S L'IMAGINATION.</p>
+<p>Elle dit, et s'enfuit au fond de sa. retraite ; Dès lors rien ne calma
+sa tristesse secrète j Dès lors son tendreépoux, de moment en moment.
+Vit se décolorer ce yisage charmant ; Et, malgré ses secours, des âmes
+la plus belle S exhala doucement -de ee corps digue d'elle, •Comme au
+gré d'un feu pur s'exhale vers les cieux D'un beau vase d'albâtre un
+parfum précieux. . "M</p>
+<p><pb/></p>
+<p>CHANT II." „x3g</p>
+<p>Lorsqu'un hasard hcuieux, que l'on n'eût pu prévoir D'adoucir ses
+malheurs fit naître quelque espoir.</p>
+<p>Une jeune beauté d'une grâou accomplie, Dieux! comment pûtes-vous faire
+une autre Azélie ? De celle qui n'est plus intéressant portrait, De cet
+objet charmant rappelait chaque trait. C'était son doux maintien , son
+aimable indolence, Le charme de sa voix, celui de son silence ; On
+croyait voir son air, son visage, ses yeux. Deux gouttes de rosée ou du
+nectar des dieux.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>NOTES</p>
+<p>DU CHANT DEUXIÈME.</p>
+<p>(') Heureux, disait Virgile, heureux l'esprit sublima Qui peut de la
+nature approfondir l'abîme.</p>
+<p><pb/></p>
+<p>*£** NOTES</p>
+<p>qu'une suite éternelle de descriptions, sans mouvement et sans intérêt.
+Cependant les mêmes critiques font grâce auit poëmes didactiques, et
+daignent en compter quelques-uns parmi les monuments de l'art, en faveur
+des épisodes, qui réunissent le double intérêt -de l'action et, des
+passions. Mais les poëmes si improprement appelés descriptifs n'ont-ils
+pas le même avantage? Les épisodes,'soit historiques, soit dlhvention,
+ne font-ils pas disparaître la monotonie des descriptions , com-ne ils
+fécondent l'aridité des préceptes? Il y a plus, ces poëmes offrent
+souvent "«ne suite d'actions particulières, qui tiennent au fond du
+sujet ou qui s'y rattacheut ; les Métaniorfboses d'Ovide sont une foule
+de scènes épisodiques, qu'un fil ingénieux rassemble, plutôt qu'il ne
+les enchaîne; et dans ce genre, comme dans tous les autres, le poète
+peut faire agir plus Ou moins heureusement les passions, suivant la
+finesse de son goût et la fécondité de son talent. Il n'existe, je
+crois, dans aucune langue et dans aucun pays, un poëme estimé, qui soit
+une suite non interrompue de descriptions et de préceptes, de peintures
+et de leçons : celui do Lucrèce, regardé depuis dix-huit siècles, chez
+tous les peuples qui «ultivent les arts de l'esprit, comme uu très-beau
+monument de génie poétique, est peut-être celui de tous qui présente le
+plus de tableaux et le moins d'action.</p>
+<p>Pourquoi donc ces aristarques souverains, qui prononcent avec tant de
+confiance sur les limites</p>
+<p><pb/></p>
+<p>DU CHANT II: 143</p>
+<p>TJrjt enim fulgore suo, qui pnegravaf artes Infra se positas.</p>
+<p>f 1) Mais si l'Ai, l'Arbois, on le Bordeaux manquait, . Si les plats
+clair-semés se fuyaient sur la table , , (Elle contait...</p>
+<p><pb/></p>
+<p>-iH NOTES</p>
+<p>(') Oserai-je conter l'épouvantable histoire</p>
+<p>Dont Pérouse, en tremblant, garde er.coif la mémoire?</p>
+<p><pb/></p>
+<p>DU CHANT II. 't43</p>
+<p>(4 j II frappe, il entre, etfl.</p>
+<p>. souilla la fin de sa carrière par des traits multU plies de perfidie
+et de cruauté. On cite entre autres le suivant, Sa femme, la belle
+Vanina d'Ornnno,</p>
+<p>- ayant formé la courageuse résolution d'aller demander aux Génois la
+grâce de son mari, déclaré rebelle, et dont la tète avait été mise à
+prix, ce</p>
+<p>T. V1U. t'imjgin. i, l3</p>
+<p><pb/></p>
+<p>•i46 NOTES</p>
+<p>. monstre jura de layer dans le sang de cette infor'tunée</p>
+<p>-emportement, se relève, l'embrasse tendrement... et l'étrangle en même
+temps» Il périt lui-même peu de temps après ,• victime de-la perfidie
+dont il avait donné tant d'exemples; il fut lâchement</p>
+<p>• assassiné par un de ses capitaines.</p>
+<p>(5)Tién's, traître, tiens, voilà, etc.</p>
+<p>(6) Tel que ce double dieu, Janus aux deux visage», De son double regard
+embrassant l'a deux âge».</p>
+<p><pb/></p>
+<p>DU CHANT II.. tfy</p>
+<p>[Regardait d'un côté le siècle vieillissant,* ,</p>
+<p>De l'autre se tournait vers le siècle naissant... .,</p>
+<p>Janus, l'un des plus anciens rois d'Italie, ren^ dit ses peuples
+tellement heureux par ses vertjis. et sa sagesse', que les poètes ont
+feint que Saturne, chassé du ciel, se réfugia dans le Latium, et y
+apporta l'âge d'or. C'est Numa qui institua le culte de Janus. Ou le
+représentait asvec deux visages, emblème allégorique de la prudence,
+qui, cherchant toujours dans l'histoire du passé des leçons pour
+l'avenir, semble embrasser les deux âges. On donnait aussi le nom de
+Janus au premier mpis du calendrier romain, p?rce qu'il regarde, pour
+ainsi dire en même temps, l'année qui finit et celle qui commence.</p>
+<p>{1) Romancier consolant et fertile eD promesses,'; Soudain Cambon
+parait...-</p>
+<p>Les Français ont éprouvé deux fois , dans le même siècle, les tristes
+résultats de cette confiance téméraire et de ces richesses fictives,
+dont l'abus est toujours l'avant-coureur d'une misère certaine : mais la
+vogue des billets de Law, hypothéqués sur les trésors de Mississipi,
+attesté Tenu pire de l'imagination, plus que les assignats de Cambon,
+dont le crédit n'étais soutenu que par les échafauds : on connaît le mot
+de Barère. Cambon , d'ailleurs .n'était pas l'inventeur de ce dangereux
+système; il ne fit que le suivre et l'exagérer., Ses rapports sur les
+finances étaient sans doute des romans; mais l'espérance et l'imagination</p>
+<p><pb/></p>
+<p>liSS NOTES</p>
+<p>n'adoptaient point ses calculs, et l'on n'oubliera dp long-temps les
+arguments énergiques dont il se servait pour les appuyer.</p>
+<p>» ... L'enthousiasme public pour ces réunions,</p>
+<p>(*) Biographie.universelle, tome XXVIII, pfcge 4&lt;3 «■• suivantes. Cet
+article est de M. Biot.</p>
+<p><pb/></p>
+<p>DU CHANT II. 'i49</p>
+<p>Dans presque toutes les religions anciennes, et dans celles qu'on a
+trouvées chei les peuples du Nouveau-Monde, le fanatisme et la
+superstition, sacrifiaient des victimes humaines. Les hommes, abandonnés
+aux lumières de leur faible raison J</p>
+<p>t3.</p>
+<p><pb/></p>
+<p>iÇo NOTES</p>
+<p>(IO) Dans le cornet fatal le des a retenti ;</p>
+<p>Il s'agite, il prélude, il sort, il est sorti !' i</p>
+<p>Tous les yeux, tous les coeurs s'élancent sur sa trace; ïl hésite, il
+balance, il promet, il menace'; Mais il s'arrête enfin i le sort a
+prononcé, Et dans tous les regards son arrêt est tracé.</p>
+<p>i Par la crainte et l'espoir, i</p>
+<p>Battu, chassé, repris, de sa prisop sonore &gt;</p>
+<p><pb/></p>
+<p>DÛ CHANT II.' i»5*</p>
+<p>Le dez avec fracas part, rentre, parj- encore, 11 court, roule, s'abat,
+le nombre a prpnoncé. f</p>
+<p><pb/></p>
+<p>K -</p>
+<p>i5a! NOTES</p>
+<p>(l ') Par cent plaisirs secrets devancent le plaisir.</p>
+<p>' Le comble du triomphe serait, pour les vers de Pelille, de soutenir
+victorieusement ici la plus redoutable des comparaisons, avec la prose
+brûlante de Rousseau ; celui du bonheur, est de ne pas .'tpp rester
+au-dessous. Le lecteur, curieux de ces sortes de parallèles, peut
+rapprocher de ce beau morceau la lettre LIV, Partie Ve de la Nouvelle
+Héloïse.</p>
+<p>(") Lucrèce dans set vers alarme la pudeur.</p>
+<p>Tout ce morceau sur la jalousie paraît emprunté de 1 admirable épisode
+qui termine le chant dut Printemps, dans le poème desSnùoni de Thompson.</p>
+<p><pb/></p>
+<p>- , DU CHAIÏT II. i53</p>
+<p>But tliro' the heart Sliould jealousy ïts venom once diffuse, Tis tlien
+delighlful misery no more, But agony unmix'd, incessant gall, Çorroding
+every tliougfat, and blasting ail ^ Love's paradise, etc.</p>
+<p>(M) Sur les pertes du coeur nous pleurons chaque jour; Mais quels
+regrets pareils aux regrets de l'amour !</p>
+<p><pb/></p>
+<p>i54 NOTES</p>
+<p><pb/></p>
+<p>DU CHANT II. 1 i55</p>
+<p>tes victimes, et qu'il signale son funeste pouvoir par des faits
+éclatants recueillis par l'histoire, et transmis d'âge en âge (*). »</p>
+<p>Quoique cette peinture ressemble beaucoup au tableau tracé par Delille,
+il ne peut exister ici aucun soupçon d'imitation. Le même objet,
+considéré sous le même point de vue, a fait naître les mêmes idées et
+les mêmes observations.</p>
+<p>(' 5) Rien ne parait. « Allons ! il (deviendra demain»,] Se dit-elle...
+et reprend tristement scn chemin.</p>
+<p>(, 6) En l'un de ces hospices,!</p>
+<p>Dotés par les secours. et fondes par les main&gt; De ce pieux.Vincent,
+bienfaiteur des humains, Dont le modeste nom. digne dé la mémoire, De
+tous les conquérants anéantit la gloire...</p>
+<p>L'histoire moderne de la religion, dit le cardinal Maury, ne fournit pas
+de plus beau sujet de panégyrique que la vie de saint Vincent de Pauie,
+homme d'une sublime vertu et d'une assez, médiocre renommée, le meilleur
+citoyen que la Fiance ait eu, l'apôtre de l'humanité, qui, après</p>
+<p>(*) Mademoiselle de Clermoîit, Nouvelle /n'stori(j««.</p>
+<p><pb/></p>
+<p>i56 NOTES</p>
+<p><pb/></p>
+<p>DU CHANT II. 1157</p>
+<p>T. VIII. L'ima^in. I. l4</p>
+<p><pb/></p>
+<p>" *58 NOTES</p>
+<p>• laisser les plus touchants souvenirs.</p>
+<p><pb/></p>
+<p>DU CHANT II. i5g</p>
+<p><pb/></p>
+<p>160 NOTES</p>
+<p>(' 8) Tel ce chef-d'oeuvre heureux de l'amour et des arts ', La jeune
+Galatée enchantait les regards.</p>
+<p>(' 9) Tel moissonné trop tôt, tombe et languit sur l'herie, , Ou le
+sombre hyacinthe, ou le pavot superbe.</p>
+<p>('•"&gt;) Tant, avec ce penchant toujours d'intelligence, L'imagination lui
+prête de puissance !</p>
+<p>Cet épisode achève de prouver l'influence de l'imagination sur l'amour,
+et remplit heureuse-</p>
+<p><pb/></p>
+<p>DU CHANT II." ,61</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CHANT TROISIÈME.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>L'IMAGINATION,</p>
+<p>POEME.</p>
+<p>CHANT TROISIÈME.</p>
+<p>L'IMPRESSION DES OBJETS EXTÉRIEURS.</p>
+<p><pb/></p>
+<p>"iG6 L'IMAGINATION.</p>
+<p><pb/></p>
+<p>CHANT III. H67</p>
+<p>Voyez se colorer l'arc éclatant d'Iris ! Voyez l'émail changeant des
+pigeons de Cypris ; Et ces prismes vivants où le soleil se joue, Les
+oiseaux de Junon, épanouir leur roue !</p>
+<p><pb/></p>
+<p>168 L'IMAGINATION.</p>
+<p><pb/></p>
+<p>CHANT III. 169</p>
+<p>Vous frémissez d'effroi, si de fougueux soldats,</p>
+<p>Mais qu'une vaste armée, en un profond silence,</p>
+<p>Garde un calme imposant, et lentement s'avaDce (4),'</p>
+<p>Ce silence effrayant frappe bien plus mon coeur,</p>
+<p>Des mouvements heureux, des formes attrayantes,'</p>
+<p>Des couleurs mariant leurs teintes séduisantes,</p>
+<p>La beauté composa ces accords ravissants</p>
+<p>Qui subjuguent le coeur et captivent les sens;</p>
+<p>Quand mes chants aux beaux-arts l'offriront pour modèle."</p>
+<p><pb/></p>
+<p>i?o L'IMAGINATION:</p>
+<p>Comme Pallas aux dieux se montra tout armée', J Ç La grâce au don de
+plaire en naissant est formée : Belle dans son été, comme dans son
+printemps, Seule elle sait braver les injures du temps : L'aimable
+fantaisie arrange sa parure ; Zéphire, en se jouant, boucle sa
+chevelure; De riches diamants ne chargent pas sa main ; Son simple
+coloris rejette le carmin ; • Son maintien est aisé; la souple
+mousseline En plis inaffectés autour d'elle badine, Sa marche annonce
+aux yeux un enfant de Cypris ,' Et sa danse prévient les leçons de
+Vcstris. Où peut-on rencontrer ce doux moyen de plaire ? Est-ce chez la
+princesse, est-ce chez la bergère? Partout où la nature, en dépit de
+notre art, La fait naître en passant et la jette au hasard. 'Avec le
+même charme, aimable en toute chose, Elle parle ou se tait, agit ou se
+repose ;</p>
+<p><pb/></p>
+<p>CHANT III.' i7«</p>
+<p><pb/></p>
+<p>tjz IL'IMAGINATION. 1</p>
+<p>Sa décence la voile aux regards curieux,"</p>
+<p>Mais comme nous voyons, délicate et craintive,'</p>
+<p>Se flétrir sous nos mains la tendre sensitive,</p>
+<p>Un mot, un geste, tin rien alarme ses appas ;</p>
+<p>Le coeur vole au-devant de son doux embarras ;</p>
+<p>Son silence nous plaît, sa froideur même enflamme,</p>
+<p>Et la pudeur enfin est la grâce de l'âme.</p>
+<p>Elle vient en mes mains arrêter mon pinceau.</p>
+<p>D'orgueil, de modestie, ineffable mélange,</p>
+<p>Ainsi que le reproche elle craint la louange.)</p>
+<p>Et crains, en les'peignant, de profaner ses traits.'</p>
+<p>Toutefois vainement la nature féconde 'Aurait de tant d'appas orné
+l'homme et le monde; L'habitude bientôt eût flétri la beauté, **</p>
+<p>Si le ciel n'eût créé la douce nouveauté. » Voyez de l'univers la pompe
+monotone ! Toujours l'été brûlant fait place au doux automne; 1 Toujours
+, après l'hiver, vient le printemps; toujours ' Les jours suivent les
+nuits, les nuits suivent les jours. Les cieux même, au milieu de leurs
+pompeux spectacles, Aux yeux désenchantés ont perdu leurs miracles. La
+Nouveauté parait, et son brillant pinceau Vient du vieil univers
+rajeunir le tableau. C'est elle qui du nord fait briller les aurores,
+Enfante des héros les sanglants météores,</p>
+<p><pb/></p>
+<p>CHANT III. - i73</p>
+<p>i5:</p>
+<p><pb/></p>
+<p>»74 L'IMAGINATION.</p>
+<p>Des folles nouveautés a donné le signal,</p>
+<p>Tout s'ébranle, tout marche. (A cet ordre fatal,'</p>
+<p>Hardis fabricateurs d'incroyables systèmes,</p>
+<p>Des novateurs fougueux ont tout mis en problèmes :</p>
+<p>Les arts, les lois-, les moeurs, un superbe dégoût</p>
+<p>A tout dénaturé : le^temps, qui change tout,</p>
+<p>Se voit 'changé lui-même, et notre vieille année</p>
+<p>Avec ses mois nouveaux marche tout étonnée.</p>
+<p>O mes concitoyens, dites-moi de quel nom</p>
+<p>Se nomment aujourd'hui ma ville,-mon canton ('") ?</p>
+<p>Dans un pays nouveau chaque jour je m'éveille;</p>
+<p>Le lendemain insulte aux travaux de la veille ;</p>
+<p>La nouveauté qui suit vieillit la nouveauté ;</p>
+<p>Le désordre s'accroît par la rivalité ;</p>
+<p>On. s'empresse, on s'élance, on court dans la carrière ;</p>
+<p>Hâtons-nous, et gardons de rester en arrière;</p>
+<p>Atteignons., devançons nos rivaux confondus :</p>
+<p>Les crimes, surpassés sont des crimes perdus.</p>
+<p>Soudain les feux sont prêts,les haches étincellent : Sous la main des
+bourreaux des flots de sang ruissellent; D un massacre nouveau le
+massacre est suivi; Le peuple est fatigué, mais non pas assouvi :
+Grands, petits, peuple?, rois, trône, autel, tout s'efface. Ainsi,
+lorsque ligués dans les champs de la Thrace, De la Terre autrefois les
+fils audacieux Suc des monts entassés escaladaient les cieux, Les yen*
+épouvantés, dans les vastes campagnes, Tic reconnaissaient plus ni
+vallons ni montagnes,</p>
+<p><pb/></p>
+<p>CHATVT III. n75</p>
+<p><pb/></p>
+<p>j76 L'IMAGINATION.</p>
+<p>Tout oe que la nature accorde rarement.</p>
+<p>Voyez de cette fleur le ridicule amant :</p>
+<p>Si quelque autre avec lui partage sa richesse,"</p>
+<p>A cette horrible idée il sèche de tristesse ;</p>
+<p>Et dans sa serre avare enterré son trésor (").</p>
+<p>S'il est rare, est bientôt dispensé d'être utile.</p>
+<p>Géographie, histoire, et morale, et roman :</p>
+<p>Quel est l'auteur divin que d'un groupe idolâtre</p>
+<p>Est-ce Homère ou Platon? Non, c'est quelque feuillet</p>
+<p>D'un vieux tome échappé du bûcher de Servet (,a).</p>
+<p>Mais de cette frivole et vaine jouissance,</p>
+<p>Peut-être un court régit peindra l'extravagance.</p>
+<p><pb/></p>
+<p>CHANT III. i77</p>
+<p>Chacun a son pouvoir. Le mortel ignorant Souvent glisse sur eux d'an
+oeil indifférent : Pour lui restent cachés dans un nuage sombra Leurs
+tissus délicats, leurs nuances sans nombre; Mais un tact plus sensible,
+et des yeux plus parfaits,' 'A ma divinité révèlent ces secrets.
+Preno'ns donc son flambeau, ses regards et ses ailes, Et volons au pays
+des vérités nouvelles : Elle-même, en riant, me conduit par la main, Et
+dans ces lieux déserts m'aplanit le chemin.</p>
+<p>Non loin de lui s'élève un chêne fastueux Qui défia cent ans les vents
+impétueux ; Son sommet, revêtu d'un plus rare feuillage, Et sa mousse et
+ses noeuds décèlent son grand âge :</p>
+<p><pb/></p>
+<p>ii78 (L'IMAGINATION.</p>
+<p>Mais le culte et l'amour du peuple des hameaux Consacrehïsa vieillesse
+et ses derniers rameaux. Ainsi du ehêne antique ou du naissant arbuste,
+L'un paraît plus touchant, et l'autre plus auguste; L'un a pour lui
+l'espoir, l'autre le souvenir : L'un plaît dans le passé, l'autre dans
+l'avenir.</p>
+<p>Et combien parmi nous 3ont plus touchants encore L'être qui va finir,
+l'être qui vient d'éclore! « Laissez, laissez venir ces enfants jusqu'à
+moi », Disait cet homme-Dieu dont nous suivons la loi (" 4).' Eh ! qui
+sans intérêt peut voir le premier âge ? Il attire, il émeut, il
+attendrit le sage. 'Après tant de travaux et de périls divers, Hélas! il
+craint pour lui les maux qu'il a soufferts. Quels pièges vont l'attendre
+au sortir de l'enfance 1. Qu'il voudrait lui léguer sa longue expérience
+! !Ohër et fragile objet de tendresse et de soins , Il plaît par ses
+défauts , règne par ses besoins.' Hâtons-nous do le voir, tandis «ju'à
+son aurore .Tout est jeune et fleuri, frais et brillant encore. Qui sait
+ce que le sort lui garde de malheurs ? Quel qu'il soit, il paîra son
+tribut aux douleurs : /Tout homme doit pleurer, tel est l'arrêt suprême;
+L'homme bon sur autrui, l'homme dur sur lui-même. 'Ainsi, dans ce
+mélange et de crainte et d'espoir, L'esprit flottant désire , et tremble
+de prévoir; Et, dans le court tableau de l'homme qui commence,
+L'Imagination voit un lointain immense :</p>
+<p><pb/></p>
+<p>CHANT III. i79</p>
+<p>De l'enfance, pour nous, tel est le doux attrait. Avec moins de plaisir,
+mais non sans intérêt, L'Imagination regarde la vieillesse. Dans l'une
+tout commence, et dans l'autre tout cesse (•s); Maiî ces ruines même
+intéressent encor : Le vieillard du passé déroule le trésor. S'il fut le
+bienfaiteur ou l'ornement du monde, L'Imagination , en souvenirs
+féconde, Quand le présent ingrat semble l'abandonner, Des honneurs qu'il
+n'a plus revient l'environner : Ainsi le saint respect qui de loin le
+contemple H emplit toujours de Dieu les débris d'un vieux temple.
+Mélange de douceur et de sévérité, L'âge consacre encor sa sainte
+autorité : C'est le père, le chef, le roi de sa famille. Dans un Liège
+d'honneur, près d'un feu qui pétille, I! conte ; et l'écoutant de
+l'oreille et de l'oeil, Le groupe se resserre autour de son fauteuil.
+Douces moeurs, saint respect, amour de la vieillesse, Revenez parmi nous
+! et puisse la jeunesse, ' Pour son propre bonheur, abjurer ces travers
+Qui perdirent la France, et troublent l'univers !</p>
+<p>Des objets, quels qu'ils soient, qui fait les premiers ehairaesî Le
+besoin d'être ému. La terreur, les alarmes, Elles-mêmes pour l'homme ont
+un puissant attrait. Voyez-le, dominé par cet instinct secret, 'A Suivre
+un embrasement, contempler du rivage, 'A l'abri du danger, les horreurs
+du naufrage,</p>
+<p><pb/></p>
+<p>5i8o L'IMAGINATION.</p>
+<p>Repaître anx champs de Mars ses yeux épouvantés.</p>
+<p>Je sais que, rencontrant ces horribles beautés.</p>
+<p>Le philosophe passe en détournant la tête.</p>
+<p>Moi, qui dois voir en sage et décrire eu poète,</p>
+<p>Je veux les déployer ; je veux dans mes tableaux</p>
+<p>'Au pied de ces volcans, auprès de ces batailles,</p>
+<p>Du triste genre humain immenses funérailles :</p>
+<p>Tressaillant d'un plaisir mélangé de terreur,</p>
+<p>De ce mont élevé j'en contemple l'horreur;</p>
+<p>Ces casques, ces mousquets , ces cuirasses brillantes,</p>
+<p>Des rayons du soleil au loin étincelantes,</p>
+<p>Ce grand luxe des rois, ces pompes du trépas,</p>
+<p>Me parent un moment la scène des combats.</p>
+<p>Mais l'heure affreuse vient, et le signal s'apprête :</p>
+<p>.Tout s'émeut, tout frémit ; le coursier belliqueux</p>
+<p>'k l'instinct des guerriers joint son instinct fougueux j</p>
+<p>Comme eux discipliné, comme eux réglant sa rage,</p>
+<p>Il hennit, il bondit, mais contient son courage :</p>
+<p>La charge sonne : il part, il s'élance aux combats,</p>
+<p>Et le sable et le sang ont jailli sous ses pas ;</p>
+<p>Le fer luit, l'éclair brille et les tonnerres grondent;</p>
+<p>Des montagnes , des bois les échos leur répondent t!</p>
+<p>Les échos, qui, jadis chers aux dieux bocagers,</p>
+<p>N'avoient appris encor que les chants des bergers.'</p>
+<p>Telle qu'une ménade ardente, échevelée,</p>
+<p>L'Imagination se perd dans la mêlée :</p>
+<p><pb/></p>
+<p>CHANT III. 181,</p>
+<p>A' travers et la poudre, et le fer, et les feux ,</p>
+<p>Vagabonde, elle porte et ses pas et ses yeux,</p>
+<p>Et revient m'en tracer l'épouvantable image.</p>
+<p>Tout dégouttant de sang, le démon du carnage</p>
+<p>L'éblouissant fantôme ennoblit le trépas :</p>
+<p>Tout l'affronte ou l'attend, le reçoit ou le donne .</p>
+<p>Ici, la foudre abat ; là, le glaive moissonne ;</p>
+<p>Le fer croise le fer, les rangs foulent les rangs.</p>
+<p>Entendez-vous les cris des vainqueurs, des mourants?</p>
+<p>L'un de son assasin repousse la furie;</p>
+<p>Et, provoquant la rage, invoquant l'amitié,</p>
+<p>Et si j'interrogeais ces scènes dé~carnage!</p>
+<p>De ces guerriers mourants dans leur jeune saison,</p>
+<p>L'un a quitté sa vigne et l'autre sa moisson ;</p>
+<p>L'autre un art bienfaisant. Mais la patrie ordonne r</p>
+<p>Marchons; bravons ces feux, rompons cette colonne,</p>
+<p>Reprenons ces drapeaux déchirés et sanglants.</p>
+<p>•Ah ! combien va gémir ta mère désolée !</p>
+<p>Pleurez, amours ; beaux-arts , ornez son mausolée.</p>
+<p>Ainsi de ces grands chocs l'Imagiualion Reçoit, répand , i arie, accroît
+l'impression ; S'irrite ou s'attendrit, aime ou maudit la gloire, .
+Couronne les vainqueurs, gémit sur la victoire;</p>
+<p>' T. VIII. L'iinns.n. I, I 0</p>
+<p><pb/></p>
+<p>i8i LIMAGINATION:</p>
+<p>Et s'écrie,' en pleurant sur ces nobles forfaits : ' « C'était donc peu
+des maux que la nature a faits ! n</p>
+<p><pb/></p>
+<p>CHANT III. *83</p>
+<p><pb/></p>
+<p>'lÊVj L'IMAGINATION.</p>
+<p>L'homme rêve a ses maux sans en être attristé," Et la mélancolie accroît
+la volupté. __</p>
+<p><pb/></p>
+<p>CHANT III, ÎS5</p>
+<p><pb/></p>
+<p>i86 L'IMAGINATION.</p>
+<p>Soit que,' plus triste encor, de ses restqs flétris,</p>
+<p>Le séjour de la mort étale les débris.</p>
+<p>Voyez, ces monuments épais dans la poussière,</p>
+<p>Et l'humble asile où dort une cendre vulgaire;</p>
+<p>Et le marbre où les grands, également-mortels,</p>
+<p>Etalent leur néant en face des autels ;</p>
+<p>Tous sujçts du trépas, qui tous les sacrifie ,*</p>
+<p>Et ne fait qu'un monceau des débris de la vie :</p>
+<p>À rouvert leurs tombeaux ; tous passent devant moi :</p>
+<p>Que de crimes cachés, que de vertus obscures,</p>
+<p>Regardez ce mortel, ami ferme et discret,</p>
+<p>D'un ami dans la tombe il cacha le secret.</p>
+<p>Quelje est cette ombre, pâle, égarée et farouche?</p>
+<p>Les cris sourds duremoids s'échappent de sa bouche;</p>
+<p>Vénal exécuteur des vengeances des grands,</p>
+<p>Il servit en secret la haine des tyrans.</p>
+<p>Mais bientôt leur complice a suivi leur victime ;</p>
+<p>Instrument d'un forfait, il périt par un crime.</p>
+<p>Voyez-vous s'avancer cet homme aux cheveux blancs ?</p>
+<p>La gloire et la vertu couronnaient ses vieux ans ;</p>
+<p>Un avide héritier hâta sa dernière heure.</p>
+<p>Quelle est, plus loin de moi, cette vierge qui pleure?</p>
+<p>Eli* aima sans espoir, et mourut do douleur.</p>
+<p>Et toi, toi,, jeune enfant, moissonné dans ta fleur,</p>
+<p>Qui t'enleva sitôt de ce triste théâtre ?</p>
+<p>Péris-tu par les mains d'une injuste marâtre?</p>
+<p><pb/></p>
+<p>CHANT III. i8y</p>
+<p>Mais quels sons douloureux ont frappé mes esprits? Ah! de sa mère en
+pleurs n'entcnds-je pas les cris? Eh ! quelle image, ô dieux ! est plus
+triste et plus chère, Que le tombeau d'un fils et les pleurs d'une mère
+? Lu portrait dans la main, elle demande, aux. cieux, Elle demande encor
+ce fils si précieux, D'un adorable époux ressemblance adorée : .Telle,
+sur un rameau , Philomèle éplorée 'Accuse son malheur, et le pâtre
+inhumain (l 8) Qui-, remarquant son nid, a, de sa dure main, Ravi ses
+chers petits encor nus et sans aile, Hélas ! et vainement réfugiés sous
+elle. Aux rochers, aux vallons, aux échos des déserts, Sans cesse
+répétant ses lamentables airs, Seule dans l'ombre obscure elle pleure ,
+et l'aurore Seule sur son rameau l'entend gémir enoore,</p>
+<p><pb/></p>
+<p>,86 ^'IMAGINATION.</p>
+<p><pb/></p>
+<p>CHANT III. . 't8oi</p>
+<p>Qu'un reste d'habitants, par l'effroi dispersé; D'hoireur alors,
+d'horreur l'homme se sent glacé, Et croit voir célébrer, par la mort, la
+tempête, De l'ange affreux du mal l'épouvantable fête.</p>
+<p><pb/></p>
+<p>Hifp L'IMAGINATION:</p>
+<p>Ils consultent; leur coeur tressaille aiu moindre vent</p>
+<p>Qui fait fréomir près d'eux le feuillage mouvant.</p>
+<p>J'écoute, leurs projets de sang et de ruine :</p>
+<p>Leur parole menace, et. leur geste assassine, i</p>
+<p>Quel mortel pi;oscrira le oonseil redouté ?</p>
+<p>La victime est choisie', et l'arrêt est porté.</p>
+<p>Us partent. Dieu 1 sauvez le père de famille,</p>
+<p>Ses enfants adorés, sa jeune et tendre fille !</p>
+<p>Et;ne se trouve pas sur leur passage affreux!</p>
+<p>Mais que sont!, an milieu des discordes civiles, Les brigands des forêts
+près des brigands des villes; Eux qui, sous l'oeil des lois, dans le
+sein de la paix, Commandent le carnage et (lietent les forfaits ?
+Qu'ai-je entendu? quels cris! quels aceonts lamentables! O malheureux
+Paris! ô jours épouvantables! Des ppntifes sacrés, et des vieillards
+tremblants, Sans respect pour leursmaux et pour leurs cheveux blancs,'
+E.UX:, qui du ciel sur uous imploraient la clémence, Tombept, dans le
+lieu saint, égorgés sans défense. Quarante ans de travaux, quarante ans
+de vertus , Ne sauraient les sauver. L'un sur,l'autre abattus (2a), Cent
+ministres sanglants jonchent le sanctuaire. Dulau tombe content dans
+les, bras de son frère. Tout ce qu'ont de, cruel, tout ce qu'ont de
+touchant La foi, l'impiété, le juste «t le méchant, La rage, la pitié,
+la douleur, la nature, forme de mille accents le lugubre murmure :, r</p>
+<p><pb/></p>
+<p>CHANT III. ii'jpfr;</p>
+<p>Ah! quittons les horreurs de ces sombres tableaux • Que des objets
+riants délassent mes pinceaux! Mon âme en a besoin. Eh! qui, mieux que
+cette âme, Que des morts, des bourreaux, du fer et de la flamme, Que
+d'un si long malheur poursuit le souvenir, Vers les objets riants a
+droit de revenir? Mais, avant d'en traocr la poétique imagé, De la
+philosophie empruntant le langage, Des riantes beautés expliquons les
+attraits , Et quel heureux mélange 6n compose les traits!</p>
+<p><pb/></p>
+<p>i§2 L'IMAGINATION.</p>
+<p><pb/></p>
+<p>CHANT III. ,g3</p>
+<p>Et pour ma déité quels tableaux plus flatteurs 7 Qu'un beau jour, un
+beau ciel, desenfantset desfieursï</p>
+<p>T. VIU. t Iranglu. i. 17</p>
+<p><pb/></p>
+<p>ig3 L'IMAGINATION-'</p>
+<p>Ces murs sont mon trophée ; et, vainqueur du trépas,</p>
+<p><pb/></p>
+<p>CHANT III. i,oS</p>
+<p><pb/></p>
+<p>•196 L'IMAGINATION.</p>
+<p><pb/></p>
+<p>CHANT III. . - i97</p>
+<p><pb/></p>
+<p>ip8 L'IMAGINATION.</p>
+<p><pb/></p>
+<p>CHANT III. j9g</p>
+<p>Oui, quel que soit des cieux le superbe spectacle , L'homme aux regards
+de l'homme est le premier miracle. Le doux rayon parti des rives
+d'Orient N'égale point l'attrait d'un visage ciant. Voyez, dans son
+courroux, cette âme impétueuse ; La mer en sa colère e6t moins
+tumultueuse; Babylone en ruine afflige moins les yeux Que les traits
+désolés de l'homme malheureux." Tout ce que, pour frapper, nos, yeux et
+nos oreilles,,/ L'univers tout entier, renferme de merveilles, Les
+montagnes, les mers, le tonnerre, les ven,ts, Ebranlentmoins nos coeurs
+et frappent moins lcs.sen»,' Que de l'accent humain, l'énergique
+éloquence^ Que, co geste qui donne une voix au.silcuce.</p>
+<p><pb/></p>
+<p>aoo 'L'IMAGINATION</p>
+<p>Que dis-je? ces accents, tantôt fiers, tantôt doux,</p>
+<p>C'est l'oeil, oui, c'est l'oeil seul qui les rassemble tous.</p>
+<p>Dans sa noble structure, en prodiges féconde,</p>
+<p>Le plus frappant n'est pas de retracer le monde,</p>
+<p>De réfléchir les cieux, les forêts et les mers ;</p>
+<p>Mais de peindre cette âme, où se peint l'univers.</p>
+<p>Chef-d'oeuvre où s'épuisa tout l'art de la nature,</p>
+<p>L'oeil marque le remords , la paix d'une âme pure,</p>
+<p>Du noble enthousiasme il exprime le feu ;</p>
+<p>Il s'attendrit sur l'homme, il s'élève vers Dieu ;</p>
+<p>Il embellit les pleurs, anime le sourire ;</p>
+<p>Il caresse, il menace-, il accorde , ii désire 5</p>
+<p>Il brûle de fureur, s'enflamme d'amitié,</p>
+<p>Se mouille doucement des pleurs de la pitié.</p>
+<p>En de molles langueurs la volupté s'y noie.</p>
+<p>Ce n'est point la beauté qui fait son ornement;</p>
+<p>C'est mieux, c'est la raison , l'esprit, le sentiment ;</p>
+<p>Et dans ce cadre étroit sont peints en traits de flamme</p>
+<p>Tous les travaux des dieux, et tous les dons de l'âme.</p>
+<p>Il parle avant le geste , il parle avant la voix.</p>
+<p>Voyez, quand Marius aux prisons de Minturnc (3&lt;î )</p>
+<p>Assoupit un moment sa douleur taciturne,</p>
+<p>Le héros se réveille, et se levant soudain ,</p>
+<p>Avec cet air terrible où brillent la victoire ,</p>
+<p>Et tant de consultais, et quarante ans de gloire,'*</p>
+<p><pb/></p>
+<p>CHANT III. 20*</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>NOTES</p>
+<p>J)U CHANT TROISIÈME,</p>
+<p>(') Elle marche, et son portu trahi la déesse.</p>
+<p><pb/></p>
+<p>ao4 NOTES</p>
+<p>secret est trahi ; la divinité tout entière s'est</p>
+<p>manifestée :</p>
+<p>Bos;a cervice refulsit, Et vera incessu patuit dea. . ""■»</p>
+<p>JEn., I, 4og.</p>
+<p>Elle marche, et son port révèle une déesse.</p>
+<p>(') Sans avancer d'un pas, dévorant le chemin.</p>
+<p>The impatient courser ponts in every vein, And, pawing, scems' to beat
+tlie distant plain.</p>
+<p>Pereunt vestigia mille Ante fugam, absentemque feritgravisungulacampum.</p>
+<p>(4) Mais qu'une vaste armée, en un profond silence, Garde un cajme
+imposaut, et lentement s'avance.</p>
+<p>Cet effet du silence, observé par une armée qui s'avance au combat, est
+tellement vrai. tellement sûr, que les tacticiens et les hommes les plus
+expérimentés dans l'art, de la guerre ont toujours recommandé ce moyen
+de succès , et que dans une foule d'occasions il a amené de très-grands
+résultats. Les barbares indisciplinés poussent ordinal-</p>
+<p><pb/></p>
+<p>DU CHANT IIi; p.o5</p>
+<p>(5) Cette soudaineté que nous vante Montagne;</p>
+<p>Et l'heureux à-propos en tout temps l'accompagne.</p>
+<p>Cet infatigable vieillard,</p>
+<p>T. VIII. L'illl.ig.ii. i. 18</p>
+<p><pb/></p>
+<p>aoS NOTES</p>
+<p>Et sans doute le dieu du temps Sut préparer, sut choisir les instants,</p>
+<p>Ceux de parler, ceux de se taire ; Enfin, il fut heureux malgré ses
+cheveux blancs. .Un autre dieu naquit de ce tendre mystère,</p>
+<p>Cherchez la troupe des amours,</p>
+<p>La plus leste, la plus gentille,</p>
+<p>Vous l'y rencontrerez toujours ;</p>
+<p>■C'est un enfant de la famille.</p>
+<p>Le don de plaire promptement, Les rapides succès, les succès du moment','</p>
+<p>Forment surtout son apanage ;</p>
+<p>H est le dieu des courtisans, Et la faveur des cours est encor son
+ouvrage,' Même quand elle vient par les soins et les ans.</p>
+<p>ïl donne de la» vogue au sage,</p>
+<p>Quelquefois de l'esprit aux sots ; Le bonheur aux amants, la victoire
+aux héros 1 On ne le voit jamais revenir sur ses traces : H fait comme
+le temps, il plaît comme les Grâces,</p>
+<p>Et c'est le dieu de Và~propos.</p>
+<p>Et crains, en le» peignant, de profaner ses traits.</p>
+<p>i Nous avons pensé qu'on lirait avec quelque</p>
+<p>intérêt le morceau suivant, traduit d'un auteur allemand, Wieland, que
+plusieurs lecteurs connaissent au moins de nom, et que nous verrons sans
+doute tôt ou tard tfiomp'jcr du préjrigé qui</p>
+<p><pb/></p>
+<p>'DU CHANT III. 307</p>
+<p>continue d'élever une barrière entre la France et la littérature allemande.</p>
+<p><pb/></p>
+<p>2o8^ NOTES</p>
+<p>jamais en négligence ni en étourderie, et qui est toujours accompagnée
+de la plus noble décence et de la dignité la plus naturelle. — Pendant
+qu'il parlait ainsi avec un, grand air de bonhomie , je sentis une
+rougeur subite se répandre sur mon visage, en pensant que je ne faisais que</p>
+<p>jouer la comédie avec cet homme respectable.</p>
+<p>(7) Fait luire une comète, un Voltaire, nn Rousseau, Fait mugir un
+volcan, tonner un Mirabeau.</p>
+<p>On sent d'abord tout ce qu'il y a d'ingénieux, et de vrai surtout, dans
+ce rapprochement avec les grands phénomènes de la nature, de trois
+hommes diversement célèbres, qui ont été pour le monde moral ce que sont
+dans l'ordre physique les comètes et'les volcans. Nous ne dirons rien
+des deux premiers : leurs oeuvres et la révolution les ont jugés; et
+nous ne considérerons un moment le troisième que sous le rapport de
+celte désastreuse éloquence, qui, pour suivre dans son ap-</p>
+<p><pb/></p>
+<p>DU CnANT III. ao;)</p>
+<p>Xe) Et, jusqu'au fond du nord portant nos goûts divers, Le mauticquin
+despote asservit l'univers.</p>
+<p>• 8.</p>
+<p><pb/></p>
+<p>«io NOTES</p>
+<p>(?) Mais quels pays lointains, quels barbares climats De nos derniers
+malheurs ne retentissent pas ?</p>
+<p>C'est l'exclamation du chef des Troyens, retrouvant sur les murs du
+temple de Carthage oner image des revers de Troie :</p>
+<p>Quoe regjo in terris nostri non plena laboris ! JEn., I.464.</p>
+<p>P °) O mes concitoyens ! dites-moi de quel nom</p>
+<p>Se nomment aujourd'hui ma ville, mon canton ?</p>
+<p><pb/></p>
+<p>'DU CHANT III. ■an.</p>
+<p>On connaît le tuait d'un amateur, qui renchérit encore sur celui qu'on
+vient de lire. Il se croyait possesseur d'une fleur unique ; mais ayant
+appris qu'ilen existait mie pareille dans un jardin, il a.lln</p>
+<p><pb/></p>
+<p>2ia NOTES</p>
+<p>Je sais que dans Harlem plus d'un triste amateur Au fond de ses jardins
+s'enferme avec sa fleur ; Pour voir sa renoncule avec l'aube s'éveille ;
+D'une anémone unique admire la mencille. Ou, d'un rival heureux enviant
+le secret, Achète au poids de l'or les taches d'un oeillet. Laissez-lui
+sa manie et son amour bizarre : Qu'il possède en jaloux, et jouisse en
+avare. Les Jardins, ch. m.</p>
+<p>(I 3) Est-ce Homèie ou Pl3ton? Non, c'est quelque feuillet D'un vieux
+tome échappe du bûcher de Scrvet.</p>
+<p><pb/></p>
+<p>DU CHANT IIi: 2!3</p>
+<p>Comme on fit une perquisition sévère des ouvrages théologiques de
+Scrvet, pour les brûler comme lui, ils sont,devenus foit rares, et, .par</p>
+<p><pb/></p>
+<p>ÎI4 NOTES</p>
+<p>cette seule raison sans doute, ils sorrt très-estimés des bibliomanes.
+Les amateurs d'ouvrages échappés du bûcher ont, pour les guider dans
+leurs recherches , un Dictionnaire des livres condamnés au feu, en deux
+volumes in-8", par M. Peignot.</p>
+<p>('^lEt l'abondance enfin les.dépréciant tous, Comme il eût jeté l'or, il
+jette ses cailloux.</p>
+<p><pb/></p>
+<p>DU CHANT III. sn$</p>
+<p>(*5) Dans l'une tout commence, et dans l'autre tout cessa.</p>
+<p>Non, ce n'est point un vain système ,'• C'est an instinct profond
+vainement combattu, Et sans doute l'Être suprême Dans nos coeurs le
+grava lui-même, Pour combattre le vice et servir la vertu.</p>
+<p>Oui, vous qui, de l'Olympe usurpant le lonneire, Des étemelles lois
+renversez les autels j</p>
+<p>Lâches oppresseurs de la terre,</p>
+<p>Tremblez. iOus êtes immortels \</p>
+<p>El vous. vous, du maîletir victimes passagère*, Sur&lt;]ui voill -ut-d'un
+Dieu les regards paternels, iVoyagcurs d'un moment aux terres
+étraugèrts. Consolez-vous, vous êtes immortels !</p>
+<p><pb/></p>
+<p>ai6 NOTES</p>
+<p>Le poè'te qui, dans les jonrs de la plus absurde et de la plus honteuse
+dépravation, défendait avec tant de noblesse et d'éuergie une vérité qui
+est la base de la religion et de la morale (voyez la Notice, page xxx,
+et les Poésies fugitives, tome I, page 181). n'a pas besoin d'être
+justifié, quand il dit que tout cesse dans la vieillesse. Il est évident
+qu'il ne parle que de l'affaiblissement progressif de toutes nos facultés.</p>
+<p>(l 6) Je sors, j'erre 3 pas lents sur celte lave immense,</p>
+<p>Triste, inhospitalière, et calcule en silence</p>
+<p>Les temps, les temps lointains où la stérilité</p>
+<p>ment, par le progrès des années, les champs les plus fertiles'de la
+terre. Mais combien faut-il de siècles pour leur donner cette excessive
+fécondité, puisque après deux mille ans elles ne sont encore , en
+plusieurs endroits, que des rochers arides? Il y a près de Catane un
+espace très-considérable, dont le sol n'est qu'une lave profonde, à
+peine couverte de quelques végétaux clair-semés , et suri laquelle il
+est impossible de cultiver la vigne ou le blé. Cependant le
+chanoine"Recupcro , xjui a écrit une histoire de l'Etna, rapporte,
+d'après Diodore de Sicile, que cette lave est sortie du cratère dans une
+éruption du volcan qui eut lieu pendant la seconde guerre punique. La
+ville de Taormina envovait un détachement au secours do iSyracuse,
+assiégée par les Romains : les soldais</p>
+<p><pb/></p>
+<p>, DU CHANT IIi: * ai?</p>
+<p>^■1) Viens donc, viens, charme heureux des arts et des amours ? Je te
+chantai deux fois : inspire-moi toujours.</p>
+<p>Une dame, distinguée par la tournure originale et brillante de son
+esprit, a presque fait un système de l'influence de la mélancolie dans
+la littérature et dans les beaux-arts. Elle assure d'abord "qu'il n'y a
+rien dé grand et de philosophique sans</p>
+<p>T. VIII. Llnt-T'ill. i. ' 19</p>
+<p><pb/></p>
+<p>■ai8 ' NOTES</p>
+<p>C'est là, c'est ians l'obscurité, ()ne, fuyant le tumulte, et dans soi
+recueillie,</p>
+<p>Vient s'asseoir la Mélancolie.</p>
+<p><pb/></p>
+<p>DU CHANT III. a-rg</p>
+<p>Ces vei's ont, comme ceux de Delille, le caractère et le charme
+pénétrant de la mélancolie : les deux poètes l'inspirent en la définissant.</p>
+<p>(I*J Telle, sur un rameau, Philorhèlc cplorée</p>
+<p>Accuse son malheur, et le pâtre inhumain,etc.</p>
+<p>II n'est personne qui ne reconnaisse ici cette touchante comparaison de
+V'rgi'e, Ge'ory.IV,5n:</p>
+<p>Qualis populea meerens Philomela sub umbra Amissos queritur fétus, quos
+duras arator Obsefvans nido implumes detraxit; at illa Flet uoetem,
+ramoque sedeus misérabile carmen &gt;" Intégrât, et meestis late loca
+questibus iraplet.</p>
+<p>Delille l'avait rendue par ces vers pleins de douceur et d'harmonie :</p>
+<p>Telle sur un rameau, durant la cuit obscure, Philomèle plaintive
+attendrit la nature}. Accuse en gémissant l'oiseleur inhumuin,</p>
+<p><pb/></p>
+<p>220 NOTES</p>
+<p>Qui, glissant dans son nid une furtive main," Ravit ces tendres fruits
+que l'amour fit éclore, Et qu'un léger duvet ne couvrait pas encore.</p>
+<p>La critique lui reprocha d'avoir négligé quelques circonstances de cet
+intéressant tableau, telles que observans nido, miserablle carmen, tate
+loca questibus implel; et surtout la coupe savante du vers latin :</p>
+<p>Atilla Flet noctem, ramoque sedens, etc.</p>
+<p>Delille répondit en grand poëte, et traduisit avec une rigoureuse
+fidélité ce qu'il avait d'abord imité avec taut de charme et d'élégance.</p>
+<p>('^•Déité de Shakespeare, ô toi, qui des ténèbres - Aimes l'effroi
+tragique et les scènes funèbres.</p>
+<p><pb/></p>
+<p>'DU CHANT III. âat!</p>
+<p>devant lui les ombres menaçantes de ses nombreuses victimes. Ducis n'a
+pas osé tenter l'imitation de ces grands effets : nos convenances
+théâtrales les eussent repoussés.</p>
+<p>Nos musas colimus scveriores.</p>
+<p>f"&gt;) L'un sur l'autre abattus</p>
+<p>Cent ministres sanglants jonchent ie sanctuaire; ,DuIau tombe content
+daus Ie6 bras de son frère.</p>
+<p><pb/></p>
+<p>,»aa NOTES</p>
+<p><pb/></p>
+<p>D'U CHANT III. *Ï3</p>
+<p>fait verser le sang des patriotes du Midi? Je</p>
+<p>n'ai j urcais (;iit verser le sang de personne, ni fait</p>
+<p>je vais t'en faire, moi ! » A ces mots , ce misérable lui porte un coup
+de sabre sur le front. Le prélat le reçoit et reste immobile. Un second
+coup U fait chanceler; un troisième le renverse : il tombe en l'appuyant
+sur sa main gauche, sans pousser un cri, sans proférer une plainte.
+Alors un de ces scélérais lui enfonça sa pique dans la poitrine., avec
+tant de violence, que ie fer y resta : il monta sur son corps palpitant
+et le foula aux pieds !,..</p>
+<p><pb/></p>
+<p>aa4 NOTES</p>
+<p>suivrai du moins -celui que me donnent mes res-*</p>
+<p>pectables compagnons. »</p>
+<p>(ai) Reçois donc mon tribut ,'ô toi, de qui la main, Sur leur roc plus
+solide et plus dur que l'airain, ! Urava mes faibles vers !</p>
+<p>Leur niasse indestructible a fatigue le temps.</p>
+<p>(3 3) Aux mouvements des cieux tes mouvements répondent, Phébé règle tes
+flots ;' tes flots suivent son cours, Et, toujours menaçants, obéissent
+toujours.</p>
+<p>L'auteur du poëmc de la Navigation s'exprime ainsi (Chant I) sur le
+phénomène des marées :</p>
+<p>Secret de l'océan, ô flux mystérieux ! Paigneras-tu jamais, dévoiler à
+nos yeux.</p>
+<p><pb/></p>
+<p>DU CHANT III. 225.</p>
+<p>(a4) Monts augustes, c'est vous dont la cime idolâtre Du c^.'te de
+Mitlira fut le premier diéJtre.</p>
+<p>(35)Je ne vois qu'un grand cercle où se perd mon regard, Dont le centre
+est partout, et les bords nulle part.</p>
+<p>Pascal avait dit de l'ensemble de la création : « C'est une sphère
+infinie, dont le centre est partout, la circonférence nulle part.
+njAvant Pascal ,j</p>
+<p><pb/></p>
+<p>a26 NOTES DU CHANT III.</p>
+<p>(a 6) Voyez, quand Mari us aux prisons de Mînturhe Assoupit un moment sa
+douleur taciturne, Ce Cinûjre l'approcher un poignard a la main...</p>
+<p><pb/></p>
+<p>CHANT QUATRIÈME.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>L'IMAGINATION, •</p>
+<p>POEME. ■-</p>
+<p>CHANT QUATRIÈME.</p>
+<p>IMPRESSION DES LiEtIX.</p>
+<p>OH ! que l'homme sait bien embellir l'univers !</p>
+<p>Sans lui, du monde entier les spectacles divers 1</p>
+<p>Languissent sans attraits , sans intérêt, sans âme ;</p>
+<p>Mais, doué par les dieux d'une céleste fkmme,</p>
+<p>L'homme passionné les passionne tous,</p>
+<p>Donne aux fleurs la gaîté, donne auxmers leur courroux,</p>
+<p>La mémoire aux rochers, aux myrtes la tend'esse,</p>
+<p>Vétonnement aux uns, aux autres la tristesse :</p>
+<p>Lui rend les sentiments que lui prête son coeur.</p>
+<p>Eh! qui n'a pas connu ces rapports invisibles</p>
+<p>Des corps inanimés et des êtres sensibles ?</p>
+<p>Vea lieux même , les lieux savent nous émouvoir;</p>
+<p>J'en sentis les effets : j'en peindrai le pouvoir.</p>
+<p>Ou déserfs, ou peuplés, ou riants , ou sauvages, Les lieux frappent nos
+sens par diverses images. ,</p>
+<p>T. VIII. L'lill«Bm. I. JO .</p>
+<p><pb/></p>
+<p>23o L'IMAGINATION.</p>
+<p>Un lieu sauvage plaît par sa mile âpreté.</p>
+<p>Loin des jardins riants, de leur molle beauté 4</p>
+<p>Je vole, je m'enfonce aux champs où la Norwége (')</p>
+<p>Entasse jusqu'aux cieux ses colonnes deoicige,</p>
+<p>•Aux champs de Sibérie, aux bords où de Thulé</p>
+<p>La mer bat en grondant le rivage ébranlé.</p>
+<p>Les aigles, les vautours, au-dessus de ma tête,' 1</p>
+<p>Mêlent leur cri terrible au cri de la tempête.</p>
+<p>De ces monts, de ces rocs l'effroyable chaos ,</p>
+<p>Les flots avec fracas retombant sur les flots,</p>
+<p>Tout m'effraie et me plait. Mais lorsque ma pensée</p>
+<p>Par des objets riants veut être délassée,</p>
+<p>Dans un climat plus doux et sous un ciel plus pur j</p>
+<p>Je vole, avec Horace, aux vergers de Tibur (a).</p>
+<p>Aux lieux où l'Anio , dans sa chute rapide ,</p>
+<p>.Verse au loin la fraîcheur de sa poussière humide,</p>
+<p>A travers les rochers , les bois retentissants ,</p>
+<p>Je suis sa course agile et ses flots bondissants.</p>
+<p>Et toi, qui de Scnèquc alarmais la sagesse ('),</p>
+<p>Liou charmant, dont la mer, et la terre et les cieux</p>
+<p>Baie, enfin, je te vois; je vois tes frais bocages!</p>
+<p>C'est ioWqu'autrefois ces superbes Romains</p>
+<p>Venaient se délasser du malheur des humains.</p>
+<p>D'autres regretteront ces scènes fastueuses</p>
+<p>Où, parmi les concerts, les voix voluptueuses,</p>
+<p><pb/></p>
+<p>' CHA;NT iv. »ir</p>
+<p>Les danses et les chants , les fêtes et les arts, Chevaliers,
+magistrats, et consuls , et Césars, Dans ces palais hardis, usurpateurs
+do l'onde, Buvaient et le Falerne et les larmes du monde (&gt;).- Moi,
+simple ami des arts, du haut de ces coteaux Dont les ombres, le soir,
+descendent sur les eaux, A l'heure où sont unis, sur l'eau
+resplendissante, Le soleil expirant et la lune naissante, !Au murmure
+flatteur de l'onde qui s'endort,' De la vague qui vient expirer sur le
+bord, Et des zéphyrs légers glissant sur la verdure,' De tous ces sons
+lointains , concert de la nature,' Sur les temples, les monts, les îles
+d'alentour, J'égare en paix mes yeux : je passe tour à. tour Du paysage
+aux mers, des mers au paysage, Et conduis, en rêvant, les flots vers le
+rivage.</p>
+<p><pb/></p>
+<p>93s L'IMAGINATION.</p>
+<p>Vain espoir! ces beaux lieux s'ont un tourment déplus.</p>
+<p>Hélas! il porte envie aux heureux qu'ils pnt vus,</p>
+<p>'Au berger qui s'y plaît, au tendre objet qu'il aime,</p>
+<p>'A son troupeau paisible, aux oiseaux, aux lieux même ;</p>
+<p>'A ces lieux, dont le calme est si loin de son coeur!</p>
+<p>jCes gazons où respire une douce fraîcheur,</p>
+<p>Ce tapis si riant de la jeune verdure,</p>
+<p>Cette ombre si tranquille, et cette onde si pure,'</p>
+<p>Ces arbres amoureux entrelaçant leurs bras,</p>
+<p>11 veut des bords déserts , il veut des bois sauvages,"</p>
+<p>De noirs torrents, des troncs brisés parties orages ,</p>
+<p>Il veut des bords affreux tourmentés comme lui.</p>
+<p><pb/></p>
+<p>CHANT IV., a33</p>
+<p>i Ils rappellent cet âge, où notre âme et nos sens</p>
+<p>Par degrés essayaient leurs organes naissants.</p>
+<p>'Je l'éprouvai moi-même. Apres vingt ans d'absence,"</p>
+<p>De retour au'hameau qu'habita mon enfance,</p>
+<p>Dieux! avec quel transport je reconnus sa tour,</p>
+<p>Son moulin , sa cascade,-et les prés d'alentour!</p>
+<p>Ce ruisseau dont mes yeux tyrannisaient les ondes,</p>
+<p>(Rebelles comme moi, comme moi vagabondes;</p>
+<p>Ce jardin , ce verger, dont ma furtive main</p>
+<p>Cueillait les fruits amers, plus doux par le larcin ,</p>
+<p>Et l'humbe presbytère, et l'église sans faste ;</p>
+<p>Et cet étioit réduit que j'avais cru si vaste,</p>
+<p>Où, fuyant le bâton de l'aveugle au long bras,</p>
+<p>Je me glissais sans bruit, et ne respirais pas ;</p>
+<p>A'I'oeil de l'ennemi dérobait ma retraite ,</p>
+<p>i Où sur le sein d'Eglé, qui partageait ma peur,</p>
+<p>Uu précoce plaisir faisait battre mon coeur !</p>
+<p>O village charmant! ô riantes demeures ( 3) , Où, comme ton ruisseau,
+coulaient mes douces heures ï Dont les bois et les prés , et les aspects
+touchants, Peut-être ont fait de moi le poète des champs '. 'Adieu, doux
+Chanonat, adieu , frais paysages ! Il semble qu'un autre air parfume vos
+rivages-. Il semble que leur vue ait ranimé mes sens, M'ait redonné la
+joie , et rendu mon printemps.</p>
+<p>Cette clôture même où l'enfance captive Prête aux tristes leçous une
+oreille craintive,</p>
+<p>no.</p>
+<p><pb/></p>
+<p>a34 L'IMAGINATION.</p>
+<p>Qui de notis peut la voir sans quelque émotion?</p>
+<p>Là, je goûtai des arts les premières délices ;</p>
+<p>Là, mon corps se formait par de doux exercices.'.</p>
+<p>Ne vois-je point l'espace où, dans l'air s'élançant,</p>
+<p>S'élevait, retombait le ballon bondissant.</p>
+<p>loi, sans fcesëe allant, revenant sur ma trace,</p>
+<p>Je m'urhiUrais les vers de Virgile.et d'Horace.</p>
+<p>Je remportai la palme, et la douce victoire</p>
+<p>Pour la première fois me fit goûter la gloire;</p>
+<p>Beaux jours, qu'une autre gloire et de plus grands combats'</p>
+<p>Enfin quel lieu ne cède au lieu de la naissance?</p>
+<p>Que d'un instinct puissant les secrètes douceur*,</p>
+<p>Rappellent la pensée et ramènent les coeurs,</p>
+<p>Surtout lorsque imoosaut, ou sublime, ou sévère,</p>
+<p>Le sol frappe leé ^eux par un grand caractère.</p>
+<p>L'habitant de la plaine et des riants vallons,</p>
+<p>Insipidcment gais , ou tristement féconds,'</p>
+<p>Mais voyez l'habitant des rochers helvétiques : 'A-t-il quitté ces
+lieux, tourmentés par les vonts „ Hérissés de frimas, sillonnés de
+torrents? Dans les plus doux climats, dans leurs molles délices,, Jl
+regrette ses lacs, ses rocs, ses précipice»,</p>
+<p><pb/></p>
+<p>CHANT IV-. Î35</p>
+<p><pb/></p>
+<p>a36 L'IMAGINATION.</p>
+<p>Le tonnerre, les vents, et les flots, et les feux,</p>
+<p>Que n'avaient-ils point vu, point affronté tous deux! '</p>
+<p>Mais enfin , succombant aux injures de 1 âge,</p>
+<p>Le vaisseau vétéran , couché sur le rivage,</p>
+<p>De son corps déchiré dispersaient les éclats;'</p>
+<p>Le vieux nocher pleurait, et son âme attendrie.</p>
+<p>Croyait dans ce vaisseau regretter sa patrie :</p>
+<p>'Avec moins de douleur un monarque pieux</p>
+<p>Voyait son Ilion s'écrouler dans les feux..</p>
+<p>Que si l'on aime ainsi le lieu de ses souffrances,'</p>
+<p>Combien l'on doit chérir celui des jouissances !</p>
+<p>Choisi par le plaisir, marqué par le bonheur,</p>
+<p>Cest le témoin , l'ami, le confident du coeur. "</p>
+<p>Que j'aime ce moitel qui, dans sa douée ivresse ,'</p>
+<p>Plein d'amour pour les lieux où jouit sa tendresse,</p>
+<p>De ses doigts, que paraient des anneaux précieux,</p>
+<p>Détache un diamant, le jette, eit dit : « Je veux</p>
+<p>Qu'un autre aime après moi cet asile que j'aime,</p>
+<p>Et soit heureux aux lieux où jejefus moi-même('°) ; »</p>
+<p>Coeur noble et délicat! dis-moi quel diamant</p>
+<p>Egale un trait si pur, et vaut ton sentiment !</p>
+<p><pb/></p>
+<p>CHANT IV. 237</p>
+<p><pb/></p>
+<p>238 L'IMAGINATION.</p>
+<p>Poui îessâisif l'écrit, gage de tes amours,' t</p>
+<p>Ici du noir torrent je traversai le cours.</p>
+<p>Là, de ces vieux: rochers je gravissais les cimes,'</p>
+<p>Et mes sombres regards mesuraient les abîmes t</p>
+<p>Plus loin... » Couple imprudent, fuyez, quittez ces Keui!</p>
+<p>Hélaâ ! on y respire un air contagieux ;</p>
+<p>Fuyez, et vous sauvant de leur funeste charme,'</p>
+<p>Hâtez-vous d'y répandre une dernière larme.</p>
+<p><pb/></p>
+<p>• CHA\NT IV. 23g</p>
+<p>Leur nom, leur souvenir, leur noue vétusté:' Dans le sein ténébreux de
+ce bois écarté Contemplez ces débris d'une abbaye antique ,' Monument
+oublié du fa6te monastique. &gt;</p>
+<p>Tantôt d'un vieux château s'offre la masse épo^mp, Pompeusement bizarre
+et noblement informe.</p>
+<p><pb/></p>
+<p>?4o t'IMAGINATIONJ</p>
+<p><pb/></p>
+<p>1 CHANT IV.' a4i</p>
+<p>La lance au poing, portant brassard et gantelet, Fermé sur l'étrier, et
+le fer en arrêt ; ,</p>
+<p>Hélas! des nouveautés l'orgueil follement sage De cette antique gloire a
+flétri l'héritage.</p>
+<p>. Eh bien! fiers descendants de nos fameux Bouillons,' Des fiers
+Montmorencis, des Kohans, des Crillons, Montrez-vous dignes d'eux! osez,
+par la victoire, Surtout par la vertu , reconquérir leur gloire ; T.
+VIII. L'imouin. 1.. 21</p>
+<p><pb/></p>
+<p>2^ . L'IMAGINATION.</p>
+<p><pb/></p>
+<p>CHANT IV. . «43</p>
+<p><pb/></p>
+<p>244 L'IMAGINATION.</p>
+<p><pb/></p>
+<p>' CHANT IV. 245</p>
+<p>Bientôt l'oeil ailiigé ne reconnaîtra plus</p>
+<p>L'asile des beaux-arts'et celui des verttu 1</p>
+<p>Pour prix de tes travaux, dans un nouveau lycée,</p>
+<p>Un jour je te promets la couronne des arts. »</p>
+<p>Il dit; et dans le tond de leurs tombeaux épars,'</p>
+<p>Des Platons , des Solons les ombres 1 entendirent ;</p>
+<p>Du jeune voyageur tous les sens tressaillirent.</p>
+<p>'Aussitôt dans ces murs , berceau des arts naissants ,'</p>
+<p>Le Dessin le premier prend son crayon fidèle;</p>
+<p>Et tel qu'un tendre fils , lorsque la mort cruelle</p>
+<p>D'une mère adorée a teiminé le sort,</p>
+<p>A ses restes sacrés s'attache avec transport,</p>
+<p>Ainsi, par l'amour même instruit dans ces beaux lieux,</p>
+<p>Le Dessin, de la Grèce enfant ingénieux,</p>
+<p>Va chercher, va saisir, va tracer son image ;</p>
+<p>Et belle encor, malgré les injures de l'âge,</p>
+<p>Avec ses monuments, ses héros et ses dieux ,</p>
+<p>La Grèce reparait tout entière a nos veux. I , ' -</p>
+<p>L histoire ainsi l'apprend : sur ce ^lobc ou non"; sommes,</p>
+<p>Les lieux ont leur déclin aussi bien nue les hommes!</p>
+<p>Mais ces fameux revers et ces grands changements,</p>
+<p>Qu'ont fait naître autrefois le hasard et le tenus,</p>
+<p>Que lorsque sous nos jeux un violent orage</p>
+<p><pb/></p>
+<p>2^6 L'IMAGINATION.</p>
+<p>D'un séjour magnifique a détruit la splendeur,</p>
+<p>Et montre sa ruine auprès de sa grandeur.</p>
+<p>Voyez ces murs déserts ! là, le pompeux Versailles</p>
+<p>Etalait autrefois l'uigueil de ses murailles;</p>
+<p>Les princes et les grands, les députes des rois,</p>
+<p>Les intérêts rivaux, les vanités trompeuses,</p>
+<p>Sans cesse s'agitaient sur ces routes pompeuses;</p>
+<p>Là, venait eu silence, attendant un coup d'oeil,</p>
+<p>Aux pieds de la faveur s'agenouiller l'orgueil ;</p>
+<p>La volonté d'un seul faisait le sort du monde.</p>
+<p>Tant d'éclat iiritait l'univers ébloui ;</p>
+<p>Un orage a grondé, tout s'est évanoui !</p>
+<p>Où sont,les attributs de la toute-puissance,</p>
+<p>Cet appareil de gloire et de magnificence 7</p>
+<p>Le deuil et le silence habitent dans ces lieux;</p>
+<p>A peine un vieux gardien, triste et silencieux,</p>
+<p>Dans ces murs, qu'entouraient tant de fières cohortesv</p>
+<p>A quelques voyageurs ouvre en pleurant les portes;</p>
+<p>Et l'étranger, cherchant ces palais d autrefois,</p>
+<p>Jette encore une larme, et s'éloigne en silence ('7;.</p>
+<p><pb/></p>
+<p>CHANT IV. 347</p>
+<p><pb/></p>
+<p>a^8 L'IMAGINATION.</p>
+<p><pb/></p>
+<p>CHANT IV. «49</p>
+<p><pb/></p>
+<p>aoo L'IMAGINATION.</p>
+<p>Mais ton sol m est sacré, mais j'y viendrai toujours</p>
+<p>Demander d'heureux vers, et surtout d'heureux jours.</p>
+<p>Des divers lieux sur nous j'ai chanté l'influence; Presque tous de nos
+coeurs empruntent leur puissance t Ceux où l'astre du jour et l'homme
+sont absents, Seuls , par leur propre force, agissent sur nos sens. !A
+peine l'oeil entrouvre une faible paupière, Il veut voir son semblable ,
+il veut voir la lumière ; La pensée, il est vrai, connaît peu de
+déserts. Si l'on ne voit point 1 homme et ses traits toujours chers&gt; On
+vqit ses monuments ; les champs et la verdure Nous parlent des
+bienfaits, des sioins de la nature s Tantôt d'une rivière on suit les
+longs détours ; L'on voyage avec elle et l'on poursuit son cours. Mais
+quand l'homme accablé, qu'un longennui désole; Ne voit ni les humains,
+ni rien qui le console, Sa double solitude épouvante son coeur.</p>
+<p>Sous les cieux africains vovez le voyageur, Ces sables de Rosette ou des
+landes du Caire .Traverser lentement l'espace solitaire (al) ; Les
+torrents de poussière, et le» vents enflammés ,' Et la terre, et les
+eaux contre lui sont armés; Mais de ces champs poudreux la chaleur est
+moins rudç Que cette désolante et longue solitude. L'ennui, le triste
+ennui qui mesure le temps, Eternise ses jouis, ses heures , ses
+instants. Flétrie au seul aspect de ces lieux effroyables ^
+L'Imagination expire sur ces sables ;</p>
+<p><pb/></p>
+<p>CHANT IV. aj*</p>
+<p>Voyez-vous ce navire attendu sur les eaux; Tout est prêt : l'air
+fraîchit, la voile s'enfle ; Éole S'amuse en se jouant de chaque
+banderole; ' L'enfant pour la saisir vers el le étend les bras ; Autour
+des voyageurs dont on retient les pas, De parents et d'amis un groupe
+tout en larmes, D'un adieu prolongé goûte les tristes charmes; Et; du
+sommet d'un roc élevé dans les airs, Suit long-temps le vaisseau qui
+s'enfuit sur les mers.</p>
+<p>Sur ce vaste élément, d'abord l'Ame enhardie Se croit indépendante et se
+sent agrandie;</p>
+<p><pb/></p>
+<p>?.5î L'IMAGINATION.</p>
+<p>Il semble qu'étendant son vol illimite,</p>
+<p>Mais, hélas ! le bonheur demande peu d'espace t</p>
+<p>De ce désert sans fin l'homme bientôt se lasse;</p>
+<p>Bientôt dans son navire il croit voir sa prison.'</p>
+<p>Ses tristes compagnons qui languissent ensemble, 1</p>
+<p>Ce n est point le penchant,, le choix qui les rassemble J</p>
+<p>Leur ennui mutuel redouble son ennui;</p>
+<p>Il habite auprès d'eux, et vit seul avec lui.</p>
+<p>Ah ! quand pourront ses yeux entrevoir le rivage !</p>
+<p>Quelquefois l'abusant par une fausse image,</p>
+<p>L'imagination , dans un lointain confus,</p>
+<p>Lui montre un port, des tours, qui bien tôt ne sont plus:</p>
+<p>Leur fantôme trompeur s'efface comme un songe,</p>
+<p>Et l'immense océan devant lui se prolonge.</p>
+<p>Il faut entendre encor le bruit des matelots t</p>
+<p>Des cordages, des mâts , et des vents, et des flots;</p>
+<p>Toujours les cieux, toujours les noirsgonffrcs de l'onde,</p>
+<p>Et l'aquilon grondant sur la vague qui gronde.</p>
+<p>Hélas ! où sont ses champs, ses bois , ses prés fleuris,</p>
+<p>Ses foyers paternels et ses enfants chéris?</p>
+<p>Le regret, au départ^, en forma ses supplices;</p>
+<p>L'espérance, au retour, en fera ses délices.</p>
+<p>Il part, il vogue, avance, espère, et voit le port.</p>
+<p>Sa fille . ! en le quittant son adieu fut si tendre!</p>
+<p><pb/></p>
+<p>f^HART IV. àff3</p>
+<p>Des solitaires lieux j'ai tracé les effets : O toi, de qui ma muse
+éprouva les bienfaits ,' Quand ma voix va chanter le pouvoir des lieux
+sombre», O nuit ! inspire-moi.' Que de foÎ3, dans tes ombres,
+Recherchant ton silence et non pas ton repos , Et des eaux d'Hippocrène
+humectant tosi pavots, Du délire des vers j'éprouvai les délices! Du
+poëte , inspiré par tes veilles propice»,</p>
+<p>ï. VII!. L'inn^o. I, sa</p>
+<p><pb/></p>
+<p>a5', L'IMAGINATION.</p>
+<p>Jl semble que les chants soient plus doux et plus fiers?</p>
+<p>Pour lui le dieu du jour u'est plus le dieu des vers.</p>
+<p>Mais les amants heureux, mais les heureux poètes</p>
+<p>Tout être avec regret voit mourir la clarté ;</p>
+<p>Alors mon chien me jette un regard attristé,</p>
+<p>L'instinct des plantes même en chérit l'influence, ;</p>
+<p>Et la fleur du soleil pleure encor son absence ;</p>
+<p>Tout bénit ses faveurs; mais l'homme, enfant des dieux,</p>
+<p>L'homme, avant tout,chérit ce flambeau radieux;</p>
+<p>Il veut voir ses rayons, il veut sentir sa flamme,</p>
+<p>Et ce besoin des sens est un besoin de l'âme :</p>
+<p>Cet astre heureux console et charme nos ennuis.</p>
+<p>Que je plains la douleur dans le calme des nuits !</p>
+<p>De l'homme délaissé nourrit l'inquiétude!</p>
+<p>L'absence des objets rend ses maux plus présents ;</p>
+<p>Rien n'en distrait son coeur, son esprit, ni ses sens</p>
+<p>Exhalant en soupirs sa tristesse farouche ,</p>
+<p>De sa longue insomnie il tourmente sa couche;</p>
+<p>Tout son sang embrasé pvécipite%es flots ,</p>
+<p>Et, chassant de la nuit les funèbres vapeurs,</p>
+<p>Rend et le jour au monde, et l'espérance aux coeurs.</p>
+<p>Quels intrépides coeurs , quels courages célèbres ,</p>
+<p>N'ont été quelquefois émus par le9 ténèbres { ,</p>
+<p><pb/></p>
+<p>CHANT.IV, , »5S</p>
+<p>Sous les remparts de Rome et sous ses vastes plaine», Sont des antres
+profonds, des voûtes souterraines Quj, pendant deux mil le ans .creusés
+par les humains, Donnèrent leurs rochers aux palais des Romains; Avec
+ses rois, ses dieux et sa magnificence , Rome entière sortit de cet
+abîme immense. Depuis, loin des regards et du fer des tyrans, L'Eglise
+encor naissante y cacha ses enfants, Jusqu'au jour où du sein de cette
+nuit profonde, Triomphante, elle vint donner des lois au monde, Et
+marqua de sa croix les drapeaux des Césars. ' Jaloux &lt;Je tout connaître,
+un jeune amant des arts (a3), L'amour do ses parents, l'espoir de la
+peinture, Brûlait de visiter cette demeure osbeure,</p>
+<p><pb/></p>
+<p>a56 't'IMAGINSTION.-</p>
+<p><pb/></p>
+<p>CHANT IV. a57</p>
+<p>Ce lieu d'effroi, ce lieu d'un silence éternel,</p>
+<p>Et pour comble d'effroi, dans cette nuit funeste,</p>
+<p>Du flambeau qui le guide il voit périr le reste.</p>
+<p>Craignant que chaque pas, que chaque mouvement,'</p>
+<p>En agitant la flamme , en use l'aliment,'</p>
+<p>Quelquefois il s'arrête et demeure immobile.</p>
+<p>Vaincs précautions! Tout soin est inutile;</p>
+<p>Croit de l'affreuse nuit sentir l'obscurité.</p>
+<p>11 marche, il erre encor sous cette voûte sombre;</p>
+<p>Et le flambeau mourant fume et s'éteint dans l'ombre.</p>
+<p>Il gémit; toutefois d'un souffle haletant</p>
+<p>Vain espoir ! par le feu la cire consumée,</p>
+<p>Par degrés s'abaissan't sur la mèche enflammée,'</p>
+<p>'Atteint sa main souffrante, et de ses d,oigts vaincus</p>
+<p>Les nerfs découragés ne la soutiennent plus :</p>
+<p>De son bras défaillant enfin la torche tombe,</p>
+<p>Et ses derniers rayons ont éclairé sa tombe.</p>
+<p>O toi, qui d'Ugolin traças l'affreux tableau ,</p>
+<p>Terrible Dante, viens, prète-moi ton pinceau (, 5) f</p>
+<p>Prête-moi tos couleurs ; peins, dans ces noirs dédale»!</p>
+<p>Dans la profonde horreur des ombres sépulcrales,</p>
+<p>Ce malheureux qui compte un siècle par instants,</p>
+<p>Seul... ah! les malheureux ne son t pas seuls long-temps}</p>
+<p>'L'Imagination de fantômes funèbres</p>
+<p>Peuple leur solitude et remplit leurs ténèbres.</p>
+<p><pb/></p>
+<p>a5S L'IMAGINATION.'</p>
+<p>Le délire brûlant, le désespoir affreux,</p>
+<p>Qui vole avec la foudre, et que pare la gloire ;</p>
+<p>Mais lente, mais horrible, et traînant par la main</p>
+<p>La faim qui se déchire et se ronge le sein.</p>
+<p>Et quels regrets touchants viennent aigrir ses peines !</p>
+<p>Ses parents, ses amis qu'il ne reverra plus ! i</p>
+<p>Et ces nobles travaux qu'il laissa suspendus [</p>
+<p>Ces travaux qui devaient illustrer sa mémoire,</p>
+<p>Qui donnaient le bonheur et promettaient la gloire !</p>
+<p>Et celle dont l'amour, celle dont le souris</p>
+<p>Fut son plus doux éloge et son plus digne prix!</p>
+<p>Versés par le regret, et sécbés par la rage.</p>
+<p>Cependant il espère, il pense quelquefois</p>
+<p>Entrevoir des clartés , distinguer une voix.</p>
+<p>11 regarde, il écoute. Hélas! dans l'ombre immense,</p>
+<p>11 ne voit que la nuit, n'entend que le silence,</p>
+<p>Alors, dé son destin sentant tonte l'horreur,</p>
+<p>Son coeur tumultueux roule de rêve en rêve;</p>
+<p>II 6c lève, il retombe, et soudain se relève;</p>
+<p>fie traîne quelquefois sur de vieux ostements,</p>
+<p>Ce la mort qu'il veut fuir horribles monuments !"</p>
+<p><pb/></p>
+<p>CHANT IVJ a5ç/'</p>
+<p>Il sent, il reconnaît le fil qu'il a perdu,</p>
+<p>Et de joie et d'espoir il tressaille éperdu.,</p>
+<p>Ce fil libérateur, il le baisey il l'adore,</p>
+<p>Il s'en assure, il craint qu'il ne s'échappe encore;</p>
+<p>Il veut le suivre, il veut revoir l'éclat du jour.</p>
+<p>Je ne sais quel instinct l'arrête en ce séjour.</p>
+<p>A l'abri du danger, son âme encor tremblante</p>
+<p>Veut jouir de ces lieux et de son épouvante.</p>
+<p>A leur aspect lugubre, il éprouve en son coeur</p>
+<p>Un plaisir agité d'un reste de terreur;</p>
+<p>Enfin , tenant en main soTi conducteur fidèle ,</p>
+<p>Il part, il vole aux lieux où la clarté l'appelle.</p>
+<p>Dieux ! quel ravissement, quand il revoit les cieux</p>
+<p>Avec quel doux transport il promène sa vue</p>
+<p>Sur leur majestueuse et brillante étendue !</p>
+<p>La cité, le hameau, la verdure, les bois,</p>
+<p>Et, rempli d'une joie inconnue et profonde,</p>
+<p>Son coeur croit assister au premier jour du monde»'</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>NOTES</p>
+<p>P_U CHANT QUATRIÈME.</p>
+<p>('} Je vole, je m'enfonce aux lieux où la Norwégt Entasse jusqu'aux
+cieux ses colonnes de neige, / Aux champs de Sibérie, aux bords où de
+Tkulë La mer bat en grondant le rivage ébranlé. ^</p>
+<p><pb/></p>
+<p>a6z NOTES</p>
+<p>1'Islapde, vers la petite ile dcLoffoden. Il engloutit les baleines,
+quelquefois même les vaisseaux. « Enfin, dit un voyageur célèbre dans le
+Nord, tous les phénomènes les plus curieux dispersés sur le globe sont
+comme entassés et réunis en Islande. Les éléments des corps et les
+causes les plus opposées y paraissent dans un combat et dans un travail
+perpétuel, et surpassent, par leurs effets, tout ce que l'imagination la
+plus désordonnée pourrait enfanter pour épouvanter les hommes. Plusieurs
+volcans vomissent fréquemment des torrents de lave et de fumée. L'île
+est couverte de leurs débris accumulés depuis des siècles ; et des
+rochers énormes, des monts entiers se présentent entassés et bouleversés
+les uns sur les autres par l'effet de leurs terribles explosions, et par
+les tremblements de terre qui les précèdent ou les accompagnent.
+D'immenses glaciers s'offrent aux yeux , tantôt éblouissant et aveuglant
+le spectateur qui a gravi sur leur cimo, tantôt n'offrant qu'un aspect
+grisâtre et terreux qui déguise leur nature. Du sein de ce sol, couvert
+de frimas et de neige, sort une quantité innombrable de sources
+sulfureuses et bouillantes, qui quelquefois jaillissent en mugissant du
+milieu des plaines ou des collines, et s'élancent perpendiculairement à
+une prodigieuse hauteur, et quelquefois aussi coulent sans bruit du
+sommet des montagnes , et creusent des ravins étroits et profonds dans
+les glaces éternelles qui les cachent. Des cavernes immenses et des
+masses régulières de colonnes basaltiques sa</p>
+<p><pb/></p>
+<p>-DU CnANT IV. '5.^3</p>
+<p>voient de toutes parts : des îles de glace qui se détachent du pôle, et
+sur lesquelles voyagent des troupes d'ours amphibies, viennent
+fondre.sur la partie septentrionale de l'Islande, entraînent par leur
+épouvantable choc des rocs et des promontoires avancés, font disparaître
+des îlots, et, se fixant ensuite sur la côte, bloquent de leur masse
+resplendissante une vaste contrée pendant plusieurs mois, et y
+répandent, avec les animaux féroces qu'elles ont transportés, le froid
+et la famine. Quelquefois des pins et d'autres arbres résineux, que les
+flots charrient en grand nombre, s'allument par le frottement des
+glaçons qui s'entre-choquent; et le feu et la fumée qu'ils produisent
+font croire aux simples habitants de ces contrées que les glaces mêmes
+ont la propriété de s'enflammer. Souvent les phoques, les baleiues, les
+cachalots, les grands cétacés qui se plaisent dans ces mers
+septentrionales, périssent froissés et étouffés par le choc des glaces
+errantes ; ctjeurs cadavres, jetés sur le rivage, deviennent pour les
+habitants un foiblc dédommagement des désastres produits par la cause
+qui lcsleur procure. 11 ne se passe presque pas de nuit que des aurores
+boréales n'éclairent ces scènes majestueuses, dont elles augmentent par
+leur lumière éclatante l'horreur et la sublimité. Rarement elles
+présentent, comme dans les parties plus méridionales de l'Europe, un
+horizon rouge et immobile; mais elles se jouent avec des couleurs
+jaunes, vertes et pourpres enflammées,-tantôt ondoyantes, tantôt en</p>
+<p><pb/></p>
+<p>264 NOTES</p>
+<p><pb/></p>
+<p>DU CHANf IV. a65</p>
+<p>(a) Je vole, avec Horace, aux vergers de Tibur; Aux' lieux où l'Anio,
+dans sa chute rapide, Verse au loin la fraîcheur de sa poussière humide,</p>
+<p>Me nec tam paliens Lacedoemon, Nec tam Larissa; percussit campus opimae,</p>
+<p>Qnam domus Alhunea; resonantis, Et pnreeps Anio, ac 'iibunii lucus, et uda</p>
+<p>Mobilib'us pomaria rivis.</p>
+<p>Mais Sparte et les travaux, de sa jeunesse ardente</p>
+<p>A mes yeux offrent moins d'attraits ; J'aime moins et Larisse et ses
+riches guérets Que la fraîclio Albunée et sa grotte bruyante; L'Anio,
+qui des monts précipite ses eaux, Tibur et ses vergers qu'arrosent vingt
+ruîsseaux.</p>
+<p>DE VAIIXY.</p>
+<p>Tous les voyageurs ont essayé de décrire ce site enchanteur. « Comme ce
+fleuve en se précipitant, dit l'un d'entre eux, se brise tout entier en
+écume'. 1 comme il repousse les rayons de la lune sur ces arbres, sur
+ces monts, sur cet abîme, sur ces belles colonnes corinthiennes du
+temple de Vesta, revôT.</p>
+<p>revôT. J.'lirniirn. '• *^</p>
+<p><pb/></p>
+<p>aG6 ' NOTES</p>
+<p>tues 3c la clarté la plus douce et la plu» purel Ou sont les peintres et
+les poètes? » Ainsi tout homme vivement frappé des grandes beautés de la
+nature</p>
+<p>- poésie pittoresque.</p>
+<p>(3)Et toi, qui de Sénècjue alarmais la sagesse, Que Properce interdit à
+sa jeune maîtresse, etc.</p>
+<p>Tu modo quam primum corruptas desere Baias !</p>
+<p>Multis ista dabunl liltora ■dissidium : Litlora qua; fuerant enftis
+inimira pucllis.</p>
+<p>Ah ! perçant I!aioe crimen amoris aqua? !</p>
+<p><pb/></p>
+<p>DU CHANT IV. ab7</p>
+<p>Berlin, an sujet de son Eucharis ; et, comme l'élégiaque latin , il
+s'é&lt;irie dans son indignation :</p>
+<p>O bains de Spa, source impure et funeste, Puisent les vents et la flamme
+céleste Vous engloutir sous vos marbres rompus ! Aux lendres coeurs vous
+causez trop d'alarmes. Que d'amours vrais et de pudiques charmes, Dans
+ILUT saison, vos eaux ont corrompus !</p>
+<p><pb/></p>
+<p>a68 NOTES</p>
+<p><pb/></p>
+<p>&gt;DU CHANT IV. *6g</p>
+<p>mélancolique des rames qui sillonnent des flots éloignés, du bêlement
+des troupeaux répandus ■'dans les montagnes, des ondes qui expirent en
+murmurant sur les rochers, du frémissement des feuilles des arbres où
+les zéphyrs ne se reposent jamais, enfin de tous ces sons insensibles,
+épais au loin dans les cieux, sur les flots, sur la terre, qui forment
+en ce moment comme une voix incertaine , comme une respiration
+mélodieuse de la nature endormie. » ( Lettres sur l'Italie. )</p>
+<p>(4) Buvaient et le Falerne et les larmes du monde."</p>
+<p>Delillc récitait un jour ce morceau en présence du poète Lemierre :
+quand il en fut au vers que nous citons ici, l'auteur d'Hypermnestre
+l'interrompit en disant : '« Cela prouve au moins que les Romains
+mettaient quelquefois de l'eau dans leur vin. » Saillie qui ne serait
+que plaisamment ingénieuse , si elle ne décelait peut-être, dans
+l'auteur du fameux vers du siècle (*) , un sentiment de jalousie secrète
+contre l'auteur de tant de vers qui seront de tous les siècles.</p>
+<p>( 5) O village charmant ! ô riantes demeures,'</p>
+<p>Où, comme ton ruisseau, coulaient mes douces heures; ' Dont les bois et
+les prés, et les aspects touchants, i Peut-être ont fait de moi le
+poëte'des champs !</p>
+<p>'Adieu, doux diaconat, adieu, frais paysages!</p>
+<p>(*) Le trident de Neptune est le sceptre du monde.</p>
+<p><pb/></p>
+<p>a7o NOTES</p>
+<p>années. C'est un trait de ressemblance de plus' avec son illustre
+modèle. Virgile nomme souvent sa'chère Mantoue, et fait partager aux
+lecteurs l'attendrissement qu'il éprouve en parlant de sa patrie : mais,
+plus heureux que notre poète, Virgile a pu y mêler des souvenirs et des
+intérêts' de famille !</p>
+<p>Je remportai la palme, etc. - /</p>
+<p><pb/></p>
+<p>DU CHANT IV. a7i</p>
+<p>(5) Beaux jours, qu'une autre gloire et de plus grands combat»
+Rappelaient a Villars, mais qu'ils n'eftaçaient pas.</p>
+<p>Aucun peuple dans l'Europe moderne n'a porté plus loin que les Suisses
+cette espèce de pa~ triotismequi ne permet pas de trouvcrdelionheur loin
+du sol natal jetiez eux ce sentiment ne s'éteint jamais, et la plus
+légère circonstance le réveille</p>
+<p><pb/></p>
+<p>a7a NOTES</p>
+<p>(9) , Seul sur ses rocs arides,</p>
+<p><pb/></p>
+<p>! DU CHANT IV. 2-3</p>
+<p>l'eût forcé de supprimer cette dernière scène, dans sa traduction du
+chef-d'oeuvre de Sophocle ; mais il est douteux qu'il eût égalé, même en
+vers harmonieux , la prose éloquente de Fénélon. «O heureux jour! douce
+lumière, tu te montres enfin après tant d'années! je t'obéis,' je pars,
+après avoir salué ces lieux. Adieu, cher antre -% adieu, nymphes de ces
+prés humides : je n'entendrai plus le bruit sourd des vagues de cette
+mer; adieu, rivages où tant de fois j'ai souffert les injures de l'air;
+adieu, promontoires ou Écho répéta tant de fois mes gémissements ;
+adieu, douces fontaines qui me fûtes si amères ; adieu, ô terre de
+Lemnos! laisse-moi partir heureusement, puisque je vais où m'appelle la
+volonté des dieux et de mes amis. » ( Téiëmaque, liv. XV. )</p>
+<p>(, 0) Que j'aime ce mortel, qui, dans sa douce ivresse,' Plein d'amour
+pour les lieux où jouit sa tendresse, De ses doigts, que paraient des
+anneaux précieux, Détache un diamant, le jette, et dit : « Je veux
+(Qu'un autre aime après moi cet asile que j'aime, Et soit heureux aux
+lieux où je le fus moi-même !»,</p>
+<p>(") O charme de mon coeur, le tien est-il paisible?</p>
+<p>Tout le monde reconnaîtra dans ces vers uns</p>
+<p><pb/></p>
+<p>»y4 NCKTE3</p>
+<p><pb/></p>
+<p>DU CHANT IV. Ï-5</p>
+<p><pb/></p>
+<p>276 NOTES</p>
+<p>('J) Ces dômes, ces degrés dans les airs suspendus,* Conduisant au
+sommet d'une tour qui n'est plus, Et ces autels sans culte, et leurs
+saints sans oracles. Dont la vieille légende a vante les miracles.</p>
+<p>Là, dans la solitude en rêvant égaré,</p>
+<p>Quelquefois vouscroirez,au déclin d'un jour sombre,</p>
+<p>D'une Héloïse en pleurs entendre gémir l'ombre.</p>
+<p>(• 3) Tout cet asile enfin, séjour "de pénitence,</p>
+<p>D'orgueil, de piété, 'de savoir, d'ùmorance, ète.</p>
+<p><pb/></p>
+<p>DU CHANT IV. 5.77</p>
+<p>la Thébaïdc, cette terre qui offre tant de souvenir^ sacres et profanes.</p>
+<p>T. VIII. l/lmagin. I. î/f</p>
+<p><pb/></p>
+<p>278 NOTES</p>
+<p>f t le silence et la destruction se sont emparés de cette demeure
+désolée; encore un peu de temps, et la seule voix qui retentit dans ces
+ruines s'éteindra ai'ssi; encore un peu de temps, et ce corps misérable
+retournera en poudre, comme ces colonnes qui rampent sur la terre £près
+avoir touché jusqu'aux cieux. »</p>
+<p>Ce morceau' n'est qu'un fragment d'une plus longue description : il est
+tiré du roman de Merfluide,qui, malgré quelques légers défauts,a placé
+son auteur (madame Cottjn) au rang de nos plus aimables écrivains.</p>
+<p>('4) Toute la France en pompe y cacha Mirabeau.</p>
+<p><pb/></p>
+<p>DU CHANT IV. a7g</p>
+<p>(' 5) Hélas ! ce goût si pur, cette noble élégance, Des empires mûris
+marquent la décadence...</p>
+<p>Un écrivain remarquable par la profondeur de sa pensée et la vigueur de
+son expression, presque toujours éloquente et grave, quelquefois
+brillante et concise, l'auteur de la Législation primitive, a dit
+quelque part : « Les nations commencent et recommencent dans- les
+tentes, même celles qui finissent dans les boudoirs. » C'est l'abrégé de
+l'histoire de France, à. la fin du dix-huitième siècle. La première
+partie de cette observation convient également aux anciens Romains, et
+je la trouve dans ces beaux vers de Delille, où les soupers de Mécène,
+le luxe des Césars, ce goût si pur, cette molle élégance dans les arts
+et dans les moeurs, sont présentés comme les avant-coureurs d'une
+décadence prochaine.</p>
+<p>('") Le génie éploré de ces fameux remparts</p>
+<p>Distingua dans la foule un jeune amant des arts..."'</p>
+<p>M. le comte de Choiscul-Gouffier, auteur du Voyage pittoresque de la
+Grèce, un des plus beaux monuments élevés par l'opulence et le pouvoir à
+la gloire des arts et des lettres. L'Europe savante jouit enfin du
+second volume de cet ouvrage, trop long-temps interrompu par le?
+malheurs do la révolution. Delillo avait suivi M. de Choiseul jusqu'à
+Coustantinople-, il avait été, le .témoin da</p>
+<p><pb/></p>
+<p>a8o NOTES *</p>
+<p>ses infatigables recherches ; il connaissait mieux que personne la
+pureté de son goût, la noblesse de son caractère, et sa passion pour
+tous les beauxarts , qui le rendait digne de les protéger. Il voulut lui
+rendre un hommage éclatant; et dans la séance publique de l'Académie
+française pour la réception de M. de Choiseul, il lut ce fragment surla
+ Grèce et l'ancienne Rome, qui rappelait avec tant de grâce et de
+vérité les titi'es du récipiendaire. Les vers de Delille furent écoutés
+avec, transport et recueillis avec avidité; lui-.même il les a souvent
+répétés depuis dans les sociétés les' plus brillantes, et l'on peut se
+convaincre aisément, par la lecture de quelques ouvrages plus récents,
+que cette partie du poème de l'Imagination était connue depuis fort
+long-temps."</p>
+<p>(' 7) Jette encore une larme, et s'éloigne en silence.'</p>
+<p>(*) Poème des Jardins, ch. H.</p>
+<p><pb/></p>
+<p>DU CHANT IV.- a8x</p>
+<p>première, et son plus bel ounement ! » j</p>
+<p>aï-</p>
+<p><pb/></p>
+<p>»8a NOTES</p>
+<p><pb/></p>
+<p>DU CHANT IV. a83</p>
+<p>pinceau du Guide et du Titien. La plupart, dont la peau e9t d'une
+blancheur éblouissante, parées seulement de leurs beaux cheveux, dont
+les tresses tombaient sur leurs épaules,' et qui étaient parsemés de
+perles et de rubans, me représentaient</p>
+<p>parfaitement les Grâces Il y aurait beaucoup à</p>
+<p><pb/></p>
+<p>?82 NOTES</p>
+<p>(ao) Par le fer destructeur je les vis abattus ; Abattus au printemps !</p>
+<p>(JI) Sous les cieux africains voyez le voyageur, Des sables de Rosette,
+ou des landes du Caire, Traverser lentement l'espace solitaire.</p>
+<p>Les- environs de Rosette et les campagnes du Caire ne sont pas les lieux
+les plus solitaires de l'Egypte; mais il ne faut point exiger du poète
+l'exactitude rigoureuse qu'on demande aux géographes. Le tableau qu'il a
+tracé convient parfaitement au désert qu'on traverse en partant
+d'Alexandrie et aux sables brûlants qui forment l'isthme do Suez. Cet
+espace est d'une aridité complète;</p>
+<p><pb/></p>
+<p>DU CHANT IV, »85</p>
+<p>(") Au bord de ces fontaines,'</p>
+<p>Où, sur un mol amas de coussins fastueux, Le superbe Ottoman, triste et
+voluptueux, Enivré de ces sucs dont la vertu l'inspire, De ses rêves
+charmants entretient le délire.</p>
+<p>fc/usago de l'opium est une passion, générale</p>
+<p><pb/></p>
+<p>a8Q NOTES</p>
+<p><pb/></p>
+<p>DU CHANT IV. 287</p>
+<p>Ncscio quls teneros oculus mihi fascinât agnos.</p>
+<p>Ils croient même que le premierregard est leplus dangereux,-et c'est
+pour le détourner qu'ils ont soin de placer de l'ail et quelquefois des
+oeufs d'autruche sous le toit de leurs maisons.</p>
+<p>(,3)(a4)Jaloirxdetoutconnaïtre,un jeune amant des arts, L'amour de ses
+parents, l'espoir de la peinture. Brûlait de visiter cette demeure
+obscure, De notre antique foi vénérable berceau.</p>
+<p><pb/></p>
+<p>288 NOTES</p>
+<p><pb/></p>
+<p>DU CHANT IV 289</p>
+<p>(a5) O toi, qui d'Ugolin traças l'affreux tableau, Terrible Dante,
+viens, prête-moi ton pinceau. -</p>
+<p><pb/></p>
+<p>290 NOTES DU CHANT IV.j</p>
+<p>Cette horrible aventure est racontée dans le trentetroisième chant de
+l'Enfer du Dante, qui représente Ugolin s'acharnant sur 4e crâne de son
+barbare ennemi.</p>
+<p>la bocca sollevô dal fiero pasto, etc.</p>
+<p>. -C'est un des .plus beaux morceaux de la poésie italienne, et
+peut-être celui qui a-fixé le rang de ce grand poète; il est du moins
+vraisemblable qu'il serait peu Ju, quoiqu'il soit le créateur d'une
+langue , si sop poème n'était consacré par deux ou trois épisodes, tels
+que ceux du comte Ugolin et de Françoise de Rimini.</p>
+<p><pb/></p>
+<p>VARIANTES</p>
+<p>DU CHANT PREMIER.</p>
+<p>PAGE 441 VEBSI&gt;</p>
+<p>Je dirai ses attraits, etc,.</p>
+<p>Ce vers, et les dix-neuf qui le suivent, ne se trouvent pas dans les
+premières éditions. Le poète, après avoir dit;</p>
+<p>Je chante dans mes vers' l'Imagination, charme de l'univers ;</p>
+<p>Mais pour la célébrer, ma voix a besoin d eik. Où donc te rencontrer, etc.</p>
+<p>PAGE 46, VERS i.</p>
+<p>Mais,-avant Se chanter, etc.</p>
+<p>PAGE 68, VERS 27.</p>
+<p>PAGE 69, VEItS 18.</p>
+<p>O ciel, fais-moi mourir, fais-moi mourir sur l'heure.</p>
+<p>Après ce vers, on lit les quatre suivants dans, les précédentes éditions.</p>
+<p>Tandis que l'avenir se montre au moins dotueuxjf.</p>
+<p><pb/></p>
+<p>2S2 VARIANTES DC CHANT I.</p>
+<p>Tandis qu'un doux espoir encourage mes vceut; Tandis que, ô mon oh; r
+fils.! ô seul bien que j'adore ! Je puis te voir, t'entendre, et
+l'embrasser encore!</p>
+<p>PAGE 69, VEBS 23.</p>
+<p>On le prend, on l'emporte.</p>
+<p>-JAWE73, VBBS X," !</p>
+<p>Mais de vos sorts divers, etc.</p>
+<p><pb/></p>
+<p>VARIANTES</p>
+<p>DU GHANT DEUXIÈME.</p>
+<p>:*A&lt;rE ll t3, VERS 6.</p>
+<p>Qui fait pâlir des nuits l'inégale eotrrrière.' ,</p>
+<p>P.VG&amp; 121, vais 3,</p>
+<p>L'emporte •CBCOT fannmt de ce sang odieux.</p>
+<p>ÏUID. , VEHS 7.</p>
+<p>Mais d'un voi basa f\os prempt.</p>
+<p>PAGE 13g, VERS 3.</p>
+<p>Qu'en peignant dans ses vers l'impétueuse ardeur, Lucrèce, etc.</p>
+<p>PAGE i35, vins jg.</p>
+<p>Reçu» d'une autre main. *</p>
+<p><pb/></p>
+<p>VARIANTES</p>
+<p>DU CHANT TROISIÈME.</p>
+<p>PAGE l65, VERS II.</p>
+<p>Et même, quand des nerfs.</p>
+<p>PAGE 1705 VERS 3.</p>
+<p>Piquante sans recherche et sanc étourderic, el&amp;.</p>
+<p>•Tout ce morceau , jusqu'au vers ;</p>
+<p>Ou peut-on rencontrer ce doux moyen de plaire*/'</p>
+<p>PAGE 171, VERS 1 g. Mais je vois la pudeur s'avancer sur sa trace</p>
+<p>PAGE J 78, VEKS 7. Mais combien parmi nous.</p>
+<p>PAGE 179, VERS 2?..</p>
+<p>Dent la contagion menaça l'univers!</p>
+<p>PAGE 198, VERS 1. Enfin la nuit-revient.</p>
+<p><pb/></p>
+<p>VARIANTES</p>
+<p>DU CHANT QUATRIÈME.</p>
+<p>PAGE 2Î2, VERS r4". Il veut des lieux affreux.</p>
+<p>IBID.,VERS 26.</p>
+<p>PAGE a33, VERS 27.</p>
+<p>Les- lieux même, les lieux.</p>
+<p>PAGE 23g, VERS 26.</p>
+<p>On m'instruit qu'adorant un lâche scélérat, Toute la France en pompe y
+vint cacher Marat.</p>
+<p>PAGE 248.VERS 7.</p>
+<p>L'Amour même chérit les ombres du mystère.</p>
+<p>Tout ce qui suit, jusqu'au vers.</p>
+<p>Eh ! pourrai-je oublier, etc.</p>
+<p><pb/></p>
+<p>as$ VARIANTES Btf CHANÎ IV.</p>
+<p>TAGIS 549 &gt; vtBS '•</p>
+<p>Eh 1 pourrai-je oublier les lieux inspirateurs, Où l'on goiite des Srts
+les dc*s consolateurs ?</p>
+<p>PAGF. 253, VEns iG.</p>
+<p>Le coeur tout palpitant, il aborde, il arrive.</p>
+<p>FIS DE TOME rBE&amp;HEB DE LIMAGISAT10S.</p>
+<p><pb/></p>
+<p>TABLE DES MATIERES</p>
+<p>CONTENUES</p>
+<p>DANS CE VOLUME.</p>
+<p>PlEIACE XI</p>
+<p>L'IM AGITATION.'</p>
+<p>CnAST 1. . ' 4 ''</p>
+<p>NOTES du chant I 7 5</p>
+<p>CHAST H '. . .V- in</p>
+<p>NOTES du cliant II -, .•, 14r</p>
+<p>CHAUT III i63</p>
+<p>ROTES du chant III ...-». 2o3</p>
+<p>CIIAMT IV 227</p>
+<p>VAHIASTES .»,-. ., 2911</p>
+<p>F; S DE Ll TABLE.</p>
+    </div>
+    </body>
+  </text>
+</TEI>

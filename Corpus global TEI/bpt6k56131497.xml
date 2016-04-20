@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Caboche, Charles (1810-1874)">Charles Caboche</author>
+<title>De La Bruyère. Thèse présentée à la Facultée des lettres de Paris, par Charles Caboche,...</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Caboche, Charles (1810-1874)</author>, <title>De La Bruyère. Thèse présentée à la Facultée des lettres de Paris, par Charles Caboche,...</title>, <date>1844</date>,description :,88 pages
+</bibl>
+<publisher>Joubert (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k56131497</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1844">1844</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>DE</p>
+<p>LA BRUYÈRE.</p>
+<p><pb/></p>
+<p>PARIS.—IMPRIMERIE DE FAIN ET THUNOT,</p>
+<p>IMPRIMEURS DE L'UNIVERSITÉ ROYALE DE FRANCE,</p>
+<p>Rue Racine, 28, près de l'Odéon.</p>
+<p><pb/></p>
+<p>1844</p>
+<p>DE</p>
+<p>LA BRUYÈRE.</p>
+<p>THESE</p>
+<p>P R É S E N T É E</p>
+<p>A LA FACULTÉ DES LETTRES DE PARIS</p>
+<p>PAR</p>
+<p>CHARLES CABOCHE,</p>
+<p>LICENCIÉ.</p>
+<p>PARIS.</p>
+<p>JOUBERT, LIBRAIRE-ÉDITEUR,</p>
+<p>RUE DES GRÈS , 14 , PRÈS LA SORBONNE.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>DE</p>
+<p>LA BRUYÈRE.</p>
+<p>ïl y a peu de livres qui, du vivant de l'auteur, aient eu autant de
+succès, et qui aient été aussi avidement lus que le livre des
+Caractères; il y a peu d'auteurs aussi dont la vie nous soit moins
+connue que celle de La Bruyère : et quand on voit quelle place il
+occupait,quel vide il laissa, en mourant, dans l'amitié de Bossuet(1),
+et même dans les souvenirs si fugitifs de la cour ; quelle estime
+Saint-Simon (2), ce grand connaisseur des hommes, professait pour</p>
+<p>« C'a été pour vous une bien fâcheuse nouvelle que celle de la mort de »
+M. de La Bruyère ; toute la cour l'a regretté, et M. le prince plus que
+tous « les autres. »</p>
+<p>28 mai 1696.</p>
+<p>« Nous vous avons écrit la mort du pauvre M. de La Bruyère, et ce»
+pendant nous voyons que vous l'avez apprise par d'autres endroits. »</p>
+<p>30 juin 1696.</p>
+<p>16 juillet.</p>
+<p>(2) « Le public perdit après un homme illustre, par son esprit, par SOR</p>
+<p>1</p>
+<p><pb/></p>
+<p>— 2 —</p>
+<p>» style, et par la connaissance des hommes, je veux dire , La Bruyère</p>
+<p>«C'était d'ailleurs un fort honnête homme, de très-bonne compagnie, »
+simple, sans rien de pédant et fort désintéressé : je l'avais assez
+connu « pour le regretter, et les ouvrages que son âge et sa santé
+pouvaient faire » espérer de lui. »</p>
+<p>Saint-Simon, tome I, page 354 , éd. 1829.</p>
+<p><pb/></p>
+<p>— 3 —</p>
+<p>remarques si fines qui forment le chapitre du coeur, ou celui de la
+société, les apostrophes si hardies du chapitre des grands, où il puisa
+la noble liberté qui anime tout son livre.</p>
+<p>Toutefois, si tout ce siècle, qui accueillit l'ouvrage avec tant de
+passion, ne nous apprend rien de l'auteur, s'il ne nous reste de lui que
+son livre et les noms de ses amis, de ses protecteurs et de ses ennemis,
+peut-être sera-t-il permis d'aller chercher et surprendre dans le
+tableau de la société où il vécut, dans les moeurs des hommes qu'il
+fréquenta, des amis qui accueillirent son livre, des critiques qui le
+condamnèrent, quelques traits capables de nous faire mieux comprendre
+l'ouvrage, et connaître l'écrivain.</p>
+<p>Quelle fut la cause ou la raison de ce choix? A quels signes Bossuet
+sut-il deviner dans l'auteur futur des Caractères, qui s'ignorait encore
+lui-même, le maître capable de donner, suivant l'expression d'un
+contemporain, une excellente éducation (1), le philosophe</p>
+<p>(1) Saint-Simon, t. VIII.</p>
+<p><pb/></p>
+<p>— 4 —</p>
+<p>Ce n'est, du reste, ni un spéculatif ni un solitaire : persuadé que dans
+toutes les formes de gouvernement il y a le moins bon et le moins
+mauvais, il estime celui de son temps le meilleur, il s'y soumet; en
+raillant l'humeur frondeuse et toujours mécontente de Démophile, et
+l'enthousiasme aveugle et flatteur de Basilide, il remercie le roi de
+l'extinction de l'hérésie, du bannissement d'un culte</p>
+<p><pb/></p>
+<p>— 5 —</p>
+<p>(1) Du Souverain et de la République.</p>
+<p>(2) OEuvres de Bossuet, lett. div., 27 juill. 1691. (3).Des Grands, t,
+1, p, 262.</p>
+<p><pb/></p>
+<p>— 6 —</p>
+<p>(3) Du mérite personnel.</p>
+<p><pb/></p>
+<p>— 7 —</p>
+<p><pb/></p>
+<p>— 8 —</p>
+<p>(1) Eloge de M. de Malezieux, p. 318, t. VI, éd. 1758.</p>
+<p><pb/></p>
+<p>— 9 —</p>
+<p>Ce ne fut pas, ce semble, un faible avantage pour La Bruyère de se
+trouver transporté de bonne heure dans cette maison, où régnait en face
+du palais du roi, une aussi grande liberté de pensées et de paroles.
+C'était peu qu'elle lui offrît bien des sujets de réflexion, bien des
+traits, pour peindre, soit le vrai mérite, soit la politesse, soit
+l'esprit de conversation , soit même l'orgueil et les excès de la
+grandeur, de la naissance et de la fortune ; elle lui donna sa part de
+la liberté commune; il parla sans contrainte : il loua, il admira la
+vertu sincère, franche, comme le vainqueur de Rocroi, en dépit des
+règles et</p>
+<p><pb/></p>
+<p>— 10 —</p>
+<p>dés partis, admirait Corneille; il jugea , il blâma, et ce qui est plus
+audacieux , il peignit en traits immortels les ridicules et les vices de
+cette grande époque.</p>
+<p>(1) Dès la première édition de son livre, La Bruyère avait dit de ce
+recueil : le M. G. est immédiatement au-dessous de rien {Des Ouvrages de</p>
+<p>nous parlons.</p>
+<p><pb/></p>
+<p>Jamais auteur ne consulta le public avec une plus constante déférence
+jamais auteur ne corrigea et ne recorrigea davantage ; et par un heureux
+privilège, son ouvrage, loin de fondre tout entier au milieu de la
+critique, alla toujours s'augmentant, se modifiant, s'éclaircissant; la
+simplicité, la concision de sa pensée première disparurent, il est vrai
+; mais tel ou tel tableau, placé dans un jour plus favorable, tel trait,
+mis en relief, une grande partie de ces portraits si vifs, firent de son
+livre, non plus l'ouvrage de quelques connaisseurs, mais de tous ceux
+qui savent lire. Quelle différence en effet entre les huit éditions que
+La Bruyère</p>
+<p>homme qui avait de la vertu, il n'a point effleuré la liberté du choix</p>
+<p>par une importune sollicitation Il a désiré d'avoir cette distinction</p>
+<p><pb/></p>
+<p>— 12 —</p>
+<p>Que s'il devint ainsi écrivain et moraliste, dans la confidence et comme
+sous les yeux du public ; si, d'après ses conseils et ses besoins, sans
+en altérer en rien l'esprit, il modifia, changea ainsi la forme de son
+livre; n'est-il pas</p>
+<p>(1) Le privilège de la première édition est du 8 octobre 1687.</p>
+<p>Les deux premières éditions portent toutes les deux la date de l'année
+1688. Bibliothèque du roi. La première est de 360 pages.</p>
+<p>La.sixième est de 1691. Elle fut achevée d'imprimerie 1er juin 1691.
+Elle est de 587 pages.</p>
+<p>La septième est de 1692, et contient 679 pages. Toutes ces éditions sont
+intitulées : Caractères de Théophraste , avec les caractères ou moeurs
+de ce siècle, sans nom d'auteur.</p>
+<p>La huitième est de 1694.</p>
+<p>Je n'ai pu me procurer dans les bibliothèques de Paris, ni la troisième
+, ni la cinquième édition. Il nous apprend lui-même, dans sa préface,
+que la cinquième édition était de 1690.</p>
+<p><pb/></p>
+<p>— 13 —</p>
+<p>naturel de penser qu'avant la première édition, et quand le livre
+n'existait encore que dans sa pensée, l'image, le goût de ce public,
+qu'il représentait, et pour qui il écrivait, furent sans cesse devant
+ses yeux? Quels étaient donc alors les traits principaux de ce monde, à
+qui La Bruyère offrait avec tant de confiance, et qui accueillait avec
+tant d'avidité sa vivante image ? Quel était l'esprit de la cour qui a
+pu faire naître l'idée d'un pareil livre? Quels étaient ces grands qui
+protégeaient les hardiesses d'un peintre aussi sévère ?</p>
+<p><pb/></p>
+<p>— 14 —.</p>
+<p>(1) La Bruyère, du Souverain.</p>
+<p>(2) Lettres de madame de Maintenon, passim.</p>
+<p><pb/></p>
+<p>— 15 —</p>
+<p>(l) Lettres de madame de Maintenon, 3 janvier 1687.</p>
+<p>(2) Lettres de madame de Sévigné, 30 novembre 1688.</p>
+<p>(3) Du Souverain.</p>
+<p><pb/></p>
+<p>— 16 —</p>
+<p>(1) Ajouté au chapitre du Souverain, dans la sixième édition, 1691,
+l'année même de la mort de Lonvois.</p>
+<p><pb/></p>
+<p>— 17 —</p>
+<p>les intérêts de l'État avec ceux du prince, était la source de la
+prospérité publique, que le berger habillé d'or et de pierreries , était
+un inutile défenseur pour le troupeau, dans les mauvais jours: Que le
+berger était fait pour le troupeau, et non, le troupeau pour le berger.</p>
+<p>(1) Des Esp ils forts.</p>
+<p><pb/></p>
+<p>— 18 —</p>
+<p>(2) C'est ainsi du moins que nous expliquons tant de traits, hardis, tant</p>
+<p><pb/></p>
+<p>— 10 —</p>
+<p><pb/></p>
+<p>— 20 —</p>
+<p>Certaine philosophie Subtile, engageante et hardie,</p>
+<p><pb/></p>
+<p>— 21 —</p>
+<p><pb/></p>
+<p>— 22 —</p>
+<p>d'im» vient frapper nos oreilles L'instruction augmente , la foi di«</p>
+<p>di« L'incrédulité, quoique timide, n'est pas muette. »</p>
+<p><pb/></p>
+<p>— 23 —</p>
+<p>Regardant comme on vit et non pas comme on. pense.</p>
+<p>La Bruyère est plein de traits vifs, énergiques , frappants pour peindre
+l'indifférence et la grossièreté de ces hommes qui vont contre le train
+commun et les grandes règles, qui ont</p>
+<p>(1) Des Esprits forts.</p>
+<p><pb/></p>
+<p>— 24 -</p>
+<p>(I) Ou reconnaît ici les jugements de St-Simon.</p>
+<p><pb/></p>
+<p>— 25 —</p>
+<p>(1) Les hommes gâtés jusque dans la moelle des os par les ébranlements
+et les enchantements des plaisirs violents et raffinés , ne trouvent
+plus qu'une douceur fade dans les consolations d'une vie innocente : ils
+tombent dans les langueurs mortelles de l'ennui, dès qu'ils ne sont plus
+animés par la fureur de quelque passion. (Fénelon, Disc, pour la fête de
+l'Epiph.)</p>
+<p>(2) Des Esprits forts.</p>
+<p><pb/></p>
+<p>— 26 —</p>
+<p><pb/></p>
+<p>— 27 —</p>
+<p>la vie les quittera, et qu'il faut se hâter de jouir de ces présents
+d'un jour.</p>
+<p>(1)De la Société polie, chap. XXXVII.</p>
+<p><pb/></p>
+<p>— 28 —</p>
+<p><pb/></p>
+<p>— 29 —</p>
+<p>combat, il réfute le matérialisme, et le matérialisme est dans la
+société du Temple.</p>
+<p>(1) Théodicée de Leibnitz, par M. Emery.</p>
+<p><pb/></p>
+<p>— 30 —</p>
+<p>terrestres et grossiers, il apporta aussi sa preuve de l'existence de Dieu.</p>
+<p>Ici, il faut observer la marche opposée que suivent ces</p>
+<p><pb/></p>
+<p>— 34 —</p>
+<p>Nous recevonscet avantage, dit Descartes (Principes, 22), en prouvant,
+ainsi que nous l'avons, fait, l'existence de Dieu, que nous connaissons
+par ce même moyen ce qu'il est, autant</p>
+<p>(1) La Bruyère n'a point caché son goût pour Descartes : il dit des
+publicains : Iront-ils aussi loin dans la postérité que Descartes, hé
+Français et mort en Suède? (Desbiens de fortune, sixième édit. ) Dans le
+chap. Des jugements , il invoque un des principes de sa philosophie.</p>
+<p><pb/></p>
+<p>— 32 —</p>
+<p>que le permet la faiblesse de notre nature. Ainsi, de ce que nous avons
+l'idée d'un maître infini, Dieu est, et Dieu est infini; et de ce qu'il
+est infini, il est éternel, tout connaissant, tout puissant (1). La
+Bruyère, en fidèle disciple, suit la.même marche pour déterminer la
+nature de l'âme et dé ses attributs. L'âme, dit-il, est en moi ce qui
+pense; ce qui pense en moi, je ne me le suis pas donné: il vient donc de
+Dieu. Mais Dieu, en tant que créateur d'un être qui pense, exclut toute
+idée de matière; donc, mon être, qui pense, est esprit (2). Ainsi, l'âme
+est immatérielle, elle est pure, elle est simple, elle est incorruptible.</p>
+<p>Vient ensuite l'argument des causes finales, qu'a si richement développé
+et embelli l'inépuisable imagination de Fénelon, contre les objections
+les plus subtiles des épicuriens. Aux yeux de La Bruyère, l'argument des
+causes finales avait un mérite et comme un caractère particulier. Il
+croyait attaquer ses adversaires au coeur.</p>
+<p><pb/></p>
+<p>— 33 —</p>
+<p>Ce monde était pour eux un assemblage fortuit de la matière diversement
+arrangée, la vie un accident indifférent en lui-même, et la mort un
+retour au néant. Que faire alors dans cette vie? Jouir sans souci et
+avec passion de la jeunesse, de la fortune, de la naissance. Pour La
+Bruyère, la beauté, l'ordre, la décoration de l'univers, les effets de
+la nature si populaires et pourtant si méconnus, le concours régulier de
+tant de corps divers lui révèle une cause intelligente, dont M. Cousin
+semble avoir voulu marquer toute la puissance, quand il a écrit:</p>
+<p><pb/></p>
+<p>— 34 —</p>
+<p>Faut-il s'étonner de voir les esprits les plus graves de cette époque
+vivement préoccupés de l'état de l'éloquence</p>
+<p>(1) Essais de Nicole, tome II, 239.</p>
+<p><pb/></p>
+<p>Celui qui n'avait pas pour louer dignement Bossuet d'autre titre plus
+grand que celui de Père de l'Église, avait cette haute idée de la chaire
+chrétienne, qu'elle était la voix même du ciel, et comme la puissance de
+la religion. Sans la chaire, plus d'enseignement, et alors plus de
+réforme morale et religieuse pour le siècle, et, ainsi considéré,
+ce-chapitre devient nécessaire dans le livre des Caractères.</p>
+<p>Trois écrivains, surtout parmi les plus grands de celte époque, ont
+parlé de la chaire dans des ouvrages bien différents; tous trois ont
+montré la nature de sa lâche, le</p>
+<p>(1) Après ces grands écrivains, d'autres ont aussi parlé de la chaire:
+M.Arnaud, Réflexions sur l'éloquence des prédicateurs. Je pourrais citer
+une lettre où Duguet développe cette idée : Montrez la vérité et
+cachez-vous, t. lV .lett. 28. Et une autre de Nicole où il dit : Il n'y
+a que la vanité et les fausses idées qu'on a de la prédication, qui font
+que presque tous les pré dicateurs prêchent très-mal. Nouv., clt. XIII.</p>
+<p><pb/></p>
+<p>— 36 —</p>
+<p>Peut-être qu'en donnant cette haute idée des devoirs</p>
+<p>(1)M. Villemain.</p>
+<p><pb/></p>
+<p>— 37 —</p>
+<p>(1) Essais de Nicole, t. Il, 9.</p>
+<p>(2) C'est aussi le but que se propose Théophrastes v. le premier chapitre.</p>
+<p><pb/></p>
+<p>— 38 —</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>— 40 —</p>
+<p>(1) Si nous écoutions la raison, si elle avait en nous quelque autorité,
+avec quelle clarté nous ferait-elle connaître que ce qui est dans la
+matière n'a qu'une ombre d'être qui se dissipe, et que rien ne subsiste
+véritablement , effectivement, que ce qui est dégagé de ce principe de
+mort? Et nous sommes, au contraire , si aveugles et si malheureux, que
+ce qui est immatériel nous semble une ombre, un fantôme; ce qui n'a
+point de corps, une illusion; ce qui est invisible, une pure idée, une
+invention agréable.</p>
+<p>Bossuet, premier Sermon sur la Présentation prêché devant le roi.</p>
+<p><pb/></p>
+<p>— 41 —</p>
+<p><pb/></p>
+<p>— 42 —</p>
+<p><pb/></p>
+<p>— 43 —</p>
+<p>live, qu'en condamnant aux yeux des uns sa faiblesse, aux yeux des
+autres ses passions, il pourrait en tirer un utile enseignement.</p>
+<p><pb/></p>
+<p>—44—</p>
+<p><pb/></p>
+<p>— 45 —</p>
+<p><pb/></p>
+<p>— 46 —</p>
+<p>c'est que, pressé de tous côtés par les liens du corps, qui
+l'enchaînent, enfoncé et comme perdu dans le monde qui l'occupe tout
+entier, il échappe cependant de tous côtés aussi, et même par les
+preuves les plus éclatantes de ce honteux asservissement, il échappe,
+dis-je , et désire, et souhaite, et prétend saisir quelque chose qui lui
+appartienne, que ni le temps, ni les hommes ne soient capables de lui
+enlever. Les passions, dit La Bruyère, sont menteuses. Il n'y a point de
+vice qui n'ait une secrète ressent: blance avec quelque vertu et qui ne
+s'en aide (1).</p>
+<p>(1) Les vices* dit Bossuet, ont toujours un air d'infinité.</p>
+<p><pb/></p>
+<p>— 47 —</p>
+<p><pb/></p>
+<p>— 48 —</p>
+<p><pb/></p>
+<p>— 49 —</p>
+<p>Cette image fidèle, où venait se réfléchir avec vivacité chacun des
+traits de son temps, cette espèce de confession publique allait bien à
+une époque où chacun des beaux esprits avait fait son portrait, et
+analysé avec complaisance les plus légères imperfections de son visage
+et les faiblesses de son coeur (1). Là, plus de liberté ; La Bruyère
+lui-même ne parlait ni de lui-même , ni de son lecteur. Il parlait de
+Phédon et de Giton.</p>
+<p>(1) Fléchier n'a peut-être rien écrit de plus ingénieux que son propre
+portrait, et Fléchiernous a laissé des réflexions sur les différents
+caractères des hommes en XXII chapitres. Quelques-uns des titres
+rappellent ceux du livre de La Bruyère. D'Olivet (Hist. de l'Académie,
+t. II. p. 341) dit en parlant de l'influence que Bourdaloue exerça sur
+l'éloquence de la chaire : on ne vit que portraits, que caractères dans
+les sermons.</p>
+<p>4</p>
+<p><pb/></p>
+<p>— 50 —</p>
+<p>secrète : il ôtait en quelque sorte de dessus les yeux un bandeau qui
+aveuglait ; il faisait condamner , sans condamner lui-même, une pénible
+servitude. On devait le lire, on le lisait avec ardeur et passion , et
+quand il remarque que, depuis trente années, personne ne lit plus que
+pour lire, ce n'est pas pour lui qu'il parle. Tel était, en effet, l'art
+infini de son livre, telle était la vivacité de son esprit et de son
+style, tel était l'attrait irresislible de la vérité, qu'il n'éprouva
+jamais un pareil sort de son temps.</p>
+<p>Quand la malignité du public, cessa de voir dans ce livre des portraits
+de personnages vivants, l'auteur baissa peut-être dans l'esprit de ces
+hommes, curieux d'y retrouver une satire personnelle , mais il fut
+toujours l'auteur dès esprits délicats; d'Olivet reconnaît qu'il est
+plein de tours admirables et d'expressions heureuses qui n'étaient pas
+dans notre langue auparavant (1); il ajoute bien qu'il ne faut pas le
+lire sans défiance , que pour vouloir être trop énergique, il sort
+quelquefois du naturel; mais dans le jugement qu'il porte sur La
+Bruyère, d'Olivet semble surtout préoccupé des défauts de ses
+imitateurs, et Voltaire, si sévère juge en matière de goût, comme pour
+affaiblir un peu ces critiques, Voltaire fait de La Bruyère ce
+remarquable éloge (2) : « On peut compter parmi les » productions d'un
+genre unique les Caractères de La » Bruyère. Un style rigide, concis,
+nerveux, des exprèsCi)</p>
+<p>exprèsCi) de l' Académie, t. II, p. 336.</p>
+<p>(2) Siècle de Louis XIV, c. 32, beaux-arts.</p>
+<p><pb/></p>
+<p>— 51 —</p>
+<p>» sions pittoresques, un usage tout nouveau de la langue, » mais qui
+n'en blesse pas les règles, frappèrent le pu» blic. » Et Vauvenargues,
+si grand admirateur des bons écrivains, a dit : « L'éloquence de La
+Bruyère, ses tours » singuliers et hardis, et son caractère toujours
+original, » ne sont pas des choses qu'on puisse imiter (4). » Toutefois
+ce besoin de peindre, de rendre sensibles toutes les délicatesses de la
+pensée, cette nécessité d'avoir toujours le trait, comme disait Fénelon,
+ont pu amener dans son style quelques défauts : quelque chose d'un peu
+tourné el de trop travaillé ; un peu de recherche et d'affectation (2).</p>
+<p>Que s'il faut justifier, en les appliquant, quelques-unes de ces idées,
+je choisirai un chapitre, le plus court de tous, celui dont l'objet est
+le plus vain et le plus tyrannique, celui où brille du plus vif éclat ce
+style dont chaque trait, en quelque sorte, est un jugement : c'est le
+chapitre de la Mode. La mode est une espèce de tyran qui étend son
+action sur tout l'homme, sur son goût, sur son vivre, sur sa santé, sur
+sa conscience.</p>
+<p>Empire de la mode : absolu, universel, inévitable;</p>
+<p>(l)Vauvenargues, Caractères; préface; voir aussi : Caractères orateurs ;
+l'article de La Bruyère.</p>
+<p>(2) Pour la manière d'écrire toute nouvelle que Ménage admira beaucoup
+dans La Bruyère , il faut voir les remarques pleines de goût que
+d'Oliveta faites, Ilist. deVAcadémie, et que M. Sainte Beuvea
+développées dans son bel arlicle sur La Bruyère, 1836-1842 ainsi que des
+critiques sévères et justes de Condillac. Il est curieux de rapprocher
+de ces jugements ce que l'auteur dit, soit de quelques figures, soit de
+la langue de soi temps.</p>
+<p><pb/></p>
+<p>— 52 — assujettissant le goût, le vivre, la santé, et la conscience.</p>
+<p>Tableau de cet empire : ses excès, sa tyrannie insupportable, ses
+aveugles caprices.</p>
+<p>Vanité et misère de la mode, démontrées par la vanité et la misère même
+de son objet : par la vanité et la misère de ses résultats.</p>
+<p><pb/></p>
+<p>— 53 — soit chacun dans ses propres passions, dans ses moeurs
+particulières, s'effacent dans le chapitre des Esprits forts, devant la
+grandeur toute-puissante, devant la force infaillible de Dieu, comme
+devant leur fin dernière (1).</p>
+<p><pb/></p>
+<p>— 54 —</p>
+<p>où tout ce qui pense, où tout ce qui écrit se fait un honneur de servir
+ses passions avec une aveugle lâcheté (1)?</p>
+<p>Suivre et surprendre en quelque sorte dans l'homme les penchants, et
+comme les instincts secrets qui le rendent si docile et si ouvert aux
+influences de la société ; dans la société, les opinions régnantes, la
+puissance accordée aux</p>
+<p><pb/></p>
+<p>— 55 —</p>
+<p>(1) Au sujet de ce chapitre des Femmes, on peut remarquer qu'ici</p>
+<p><pb/></p>
+<p>— 56 —</p>
+<p>(1) Le cinquième chapitre de La Bruyère a pour titre : De la Société et
+de la Conversation. Il semble que ce soit le développement de cette
+pensée de Nicole : Il n'y a personne qui ne doive reconnaître que les
+discours des méchants ont emporté sa raison , qu'ils ont corrompu son
+esprit , et l'ont rempli de faux principes et de fausses idées , et même
+que ces faussetés qui naissent des discours des hommes y sont si
+fortement gravées, que personne n'en est fortement guéri dans ce monde.</p>
+<p>Nicole, Ess., t. Il, Dangers des entretiens des hommes , lre p., c. I.</p>
+<p><pb/></p>
+<p>— 57 —</p>
+<p>pauvreté. La ville, toujours et partout vaine et frivole, a ses
+coteries; elle a la grande et la petite robe, elle a, je dirai presque
+autant d'espèces de moeurs que de quartiers. La cour, vaine aussi, mais
+d'une vanité intéressée et ambitieuse, est comme un autre pays; elle a
+ses heureux et ses malheureux, tous esclaves de dures exigences. La
+naissance, la royauté, toujours prévenues par le respect, toujours sûres
+de l'obéissance, ne trouvent-elles pas aussi dans leur élévation et leur
+autorité d'infaillibles écueils ? En un mot, toutes ces distinctions
+établies, reconnues, consacrées, toutes ces classes grandes et petites,
+quoique emportées sans cesse en mille excès divers, n'estce pas le
+devoir du philosophe de les rappeler sous l'empire d'une même loi morale?</p>
+<p>(1) Nos chutes viennent ordinairement de nos faux jugements = nos faux
+jugements de nos fausses impressions, et ces fausses impressions du
+commerce que nous avons les uns avec les autres par le langage.</p>
+<p>Nicole , t II</p>
+<p><pb/></p>
+<p>— 58 —</p>
+<p>Arrivés au chapitre de l'Homme, nous tenons, pour ainsi dire, le noeud,
+nous sommes au centre de tout son ouvrage; nous comprenons pourquoi,
+dans un livre de morale, il y a un chapitre intitulé des Femmes, et un
+autre intitulé de l'Homme, comme s'il n'y avait pas pour les uns et pour
+les autres une même loi immuable dans son principe, invariable dans ses
+prescriptions ; c'est que, dans le dernier, laissant de côté les défauts
+ou les qualités d'exception qui ont fourni le chapitre des Femmes, il
+traiTe les défauts généraux qui tiennent de l'humanité, témoin Irène,
+qui, quoique femme, a son article dans le chapitre de l'Homme. Nous
+comprenons aussi pourquoi ce chapitre a été rejeté si loin, dans un
+livre où tous les autres ont été composés pour lui.</p>
+<p>C'est que, après avoir condamné l'homme dans ce qui le rend capable de
+société et dans les relations de la société, l'écrivain, resserrant
+davantage l'objet de ses observations, et entrant plus avant dans son
+sujet, devait alors, et alors seulement, traiter de l'homme et de ses
+passions, et ensuite de la société et de sa nature.</p>
+<p><pb/></p>
+<p>— 59 — Jugements, il rappelle la raison vive et l'esprit pénétrant des
+auteurs de la Logique , soit qu'il attaque l'empire injuste de la
+société sur notre liberté, les préjugés qu'elle nous impose, les
+coutumes auxquelles elle nous asservit: il réclame avec vivacité pour
+l'homme l'indépendance et la dignité. Qui a mieux senti toute la
+noblesse de l'âme, quand elle ne relève que d'elle-même et de ses
+devoirs, toute la beauté de la vie, quand elle suit une route ferme et
+invariable? Qui a mieux senti le prix du temps et de ces jours qu
+iéchappent et ne reviennent plus? La liberté, dit-il, n'est pas
+oisiveté, c'est le choix du travail et de l'exercice : êlre libre, c'est
+être seul arbitre de ce qu'on fait, ou de ce qu'on ne fait pas ; quel
+bien en ce sens que la liberté (1)!</p>
+<p>inju(1) Jugements.</p>
+<p><pb/></p>
+<p>— 60 —</p>
+<p><pb/></p>
+<p>— 61 —</p>
+<p>pre(1) des Passions, art. 190. De la satisfaction de soi-même. On
+retrouve la même liberté , la même hardiesse de parole pour confondre
+ceux qui croient être dévots, parce qu'ils récitent force prières,
+qu'ils portent des cheveux courts , qu'ils jeûnent, etc</p>
+<p><pb/></p>
+<p>— 62 —</p>
+<p>Ainsi, un des chapitres dont la forme a le plus changé,</p>
+<p><pb/></p>
+<p>— 63 —</p>
+<p>cha(1) me semble qu'on dit les choses encore plus finement qu'on ne peut
+les écrire, dit-il : chapitre de la Conversation. Peut-être y a-t-il
+dans cette pensée un moyen de concilier ce que disent de lui Saint-Simon
+et Boileau. Ce dernier parlait du livre, Saint-Simon de la conversation
+de l'auteur.</p>
+<p><pb/></p>
+<p>— 64 —</p>
+<p>(1) Saint-Augustin, de Doctrina Christ. IV, c. XXVII.</p>
+<p>(2) Traité des Passions, art. 70. La Bruyère, des Ouvrages de l'Esprit.
+Voir aussi la définition de la Mode.</p>
+<p><pb/></p>
+<p>— 65 —</p>
+<p>con5</p>
+<p><pb/></p>
+<p>— 66 —</p>
+<p>(1) Dans le chapitre du Mérite personnel, il avait dit d'abord : Dans la
+guerre , la distinction entre le héros et le grand homme est
+délicate.... Dans la 7e édition, 1692, il ajouta le portrait d'Emile, où
+l'on a voulu voir l'ensemble des qualités de Condé et de Turenne.</p>
+<p><pb/></p>
+<p>— 67 —</p>
+<p>couvreur, qui se trouvait, dès la première édition , il assigne pour
+sceau au vrai mérite, le désintéressement, et pour perfection, le
+sacrifice : ainsi, le mérite est assuré contre toute préoccupation
+étrangère. Il est indépendant, il est simple, il est incorruptible. Et
+le chapitre tient bien mieux sa place dans le livre , tel que nous avons
+cru le présenter.</p>
+<p>Dans le chapitre des Femmes et celui de la Mode.</p>
+<p><pb/></p>
+<p>— 68 —</p>
+<p>Il y avait d'ailleurs un autre rapport entre ces deux ou(lj</p>
+<p>ou(lj a aussi écrit sur le quiétisme quatre dialogues en vers ; il y
+raille beaucoup, comme La Bruyère, le langage inconvenant qui devenait à
+la mode ; on y lit:</p>
+<p>On doit honorer Dieu d'un culte raisonnable,</p>
+<p>Se faire un art d'aimer qui lui soit convenable,</p>
+<p>Purifier du feu d'une divine ardeur</p>
+<p>Quand on parle de lui, ses lèvres et son coeur,</p>
+<p>Et pour représenter ses faveurs invisibles,</p>
+<p>S'élever au-dessus des images sensibles. 4e dialogue. )</p>
+<p><pb/></p>
+<p>— 69 —</p>
+<p>Tout son but, c'est de rendre l'homme raisonnable; c'est de le détacher
+de l'action du monde, de le tirer en quelque sorte de la servitude : de
+là, la véritable place qu'il tient parmi les moralistes.</p>
+<p>La Bruyère est philosophe, cartésien, ami de Bossuet :</p>
+<p><pb/></p>
+<p>— 70 —</p>
+<p>il a dirigé son livre contre la société gassendiste des libertins, la
+société matérialiste des esprits forts : cette société a produit le
+dix-huitième siècle proprement dit.</p>
+<p>La Bruyère, n'est pas seulement cartésien dans le dernier chapitre de
+son livre, et dans la demonstration de l'existence de Dieu. Il l'est
+toujours, en ce sens, que s'il condamne les idées de grandeur, de
+fortune répandues dans le monde, c'est au nom de ces idées mieux
+définies et dégagées de tout élément étranger.</p>
+<p>vu et lu ,</p>
+<p>A Paris, en Sorbonne, le 3 septembre 1843</p>
+<p>Par le Doyen de la Faculté des Lettres de Paris, J. VICT. LE CLERC,</p>
+<p>Permis d'imprimer, L'Inspecteur général des études, chargé de
+l'administration de l'Académie , ROUSSELLE.</p>
+    </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,2251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Lanson, Gustave (1857-1934)">Gustave Lanson</author>
+<title>Montesquieu / par Gustave Lanson</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Lanson, Gustave (1857-1934)</author>, <title>Montesquieu / par Gustave Lanson</title>, <date>1932</date>,description :Collection : Réformateurs sociaux,216 pages
+</bibl>
+<publisher>F. Alcan (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k114232x</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1932">1932</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/></p>
+<p>RÉFORMATEURS SOCIAUX COLLECTION DE TEXTES DIRIGÉE PAR C. BOUGLÉ</p>
+<p>MONTESQUIEU</p>
+<p>MONTESQUIEU PAR</p>
+<p>Jj~ Gustave LANSON</p>
+<p>LIBRAIRIE FELIX ALCAN</p>
+<p><pb/></p>
+<p>LIBRAIRIE FÉLIX ALCAN</p>
+<p>RÉFORMATEURS SOCIAUX Collection de textes dirigée par C. BOUGLÉ</p>
+<p>Publiée avec le concours du Centre de documentation sociale de l'Ecole
+Normale Supérieure</p>
+<p>Volumes parus</p>
+<p>Condorcet, par Ferdinand Buisson.</p>
+<p>Enfantin, par S. CHARLÉTY.</p>
+<p>Fénelon, par Maxime LEROY.</p>
+<p>Jaurès, par E. VANDERVELDE. `</p>
+<p>Lamennais, par J. Paul-Boncour.</p>
+<p>Montesquieu, par Gustave LANSON.</p>
+<p>Albert de Mun, par MARC SANGNIER.</p>
+<p>Proudhon, par C. Bouglé.</p>
+<p>Chaque volume in-8 écu. 15 fr.</p>
+<p>Paraîtront ultérieurement</p>
+<p>Louis Blanc, par C. CHABRUN.</p>
+<p>Pecqueur, par Albert THOMAS.</p>
+<p>Jean-Jacques Rousseau, par Noëlle Roger. Fourier, par E. PoissoN.</p>
+<p>Sismondi, par E. HALÉVY.</p>
+<p>Les Physiocrates, par Augé-Laribé.</p>
+<p>Imp. E. Durand, 18, rue Séguier, Paris i I 15 francs ̃</p>
+<p><pb/></p>
+<p>FIN D'UNE SERIE DE DOCUMENTS EN COULEUR</p>
+<p><pb/></p>
+<p>MONTESQUIEU</p>
+<p><pb/></p>
+<p>RÉFORMATEURS SOCIAUX COLLECTION DE TEXTES</p>
+<p>^-– ̃•- directeur-adjoint de l'École Normale Supérieure</p>
+<p>MONTESQUIEU PAR</p>
+<p>Q. LANSON</p>
+<p>PARIS</p>
+<p>LIBRAIRIE FÉLIX ALCAN IO8, BOULEVARD SAINT-GERMAIN, r08</p>
+<p>1932</p>
+<p>Tous droits de traduction, reproduction et d'adaptation réservés pour
+tous pays</p>
+<p><pb/></p>
+<p>Collection publiée avec le concours du Centre de Documentation sociale
+de l'École Normale Supérieure</p>
+<p><pb/></p>
+<p>INTRODUCTION</p>
+<p>I. NOTES BIBLIOGRAPHIQUES ET BIOGRAPHIQUES</p>
+<p>1689, 18 janvier Naissance au château de la Brède de Charles de
+Secondat. Famille parlemen-</p>
+<p>taire « 350 ans de noblesse prouvée, »</p>
+<p>dira plus tard Montesquieu.</p>
+<p>1700-1705 Le jeune Charles de Secondat fait ses études chez les
+Oratoriens, au Collège de Juilly.</p>
+<p>Entre 1705 et 170g, il fait son Droit à</p>
+<p>l'Université de Bordeaux.</p>
+<p>1714 Charles de Secondat est reçu Conseiller au Parlement de Bordeaux.</p>
+<p>1715 II épouse Jeanne Lartigue, riche, un peu boiteuse, secrètement
+protestante.</p>
+<p>grand nombre de Discours littéraires et</p>
+<p>de Mémoires scientifiques (Sciences physi-</p>
+<p>ques et surtout Sciences naturelles).</p>
+<p>ment, avec sa fortune et son nom. Il est</p>
+<p>installé le 3 juillet.</p>
+<p>17 17. Essai sur la différence des génies, repris plusieurs</p>
+<p>O. LANSON 1</p>
+<p><pb/></p>
+<p>fois et devenant vers 1735-36, l'Essai</p>
+<p>sur les causes qui peuvent affecter les</p>
+<p>esprits et les caractères, non publié, mais</p>
+<p>dont le principal passera dans l'Esprit</p>
+<p>des Lois (Théorie du climat et ses effets,</p>
+<p>-L. XIV et suivants).</p>
+<p>1719. Projet d'une Histoire physique de la terre. 1721. Publication des
+Lettres Persanes, Cologne, P. Marteau, où l'auteur ne met pas son nom.</p>
+<p>livre.</p>
+<p>1722. Montesquieu rédige des remontrances de son Parlement sur un impôt
+nouveau.</p>
+<p>1723. Opuscule intitulé de la Politique (ce sont les chapitres XIII et
+XIV d'un Traité des Devoirs</p>
+<p>qui demeure inédit).</p>
+<p>1724. « A 35 ans j'aimais encore. »</p>
+<p>1724. Dialogue de Sylla et d'Eucrate (imprimé en 1745 dans le Mercure de
+France).</p>
+<p>1724. Réflexions sur 'la Monarchie universelle.' (Imprimé en Hollande,
+s. 1. n. d., en 1727.)</p>
+<p>1725. Le Temple de Gnide. (Publié d'abord en 1724 dans la Bibliothèque
+française.)</p>
+<p>gnie que le Roi ne donnerait pas son agré-</p>
+<p>avant est que Montesquieu ne réside</p>
+<p><pb/></p>
+<p>1728- 1730 Montesquieu désire entrer dans la carrière diplomatique il
+n'y parvient pas.</p>
+<p>1728-1731. Montesquieu voyage. Il visite Vienne, la Hon-</p>
+<p>grie, l'Italie, le Tyrol, la Bavière et le Wurtemberg, le Hartz, les
+bords du Rhin, la Hollande. Il séjourne en Angleterre, du mois d'octobre
+I729 au mois d'août 1731.</p>
+<p>Au retour d'Angleterre il se fait recevoir Franc-maçon.</p>
+<p>1734. Considérations sur la grandeur et la décadence des Romains, in-8°,
+Amsterdam.</p>
+<p>1748. L'Esprit des Lois. 2 volumes in-40, Genève.</p>
+<p>1724. Composition du Livre XIX.</p>
+<p>n'étant pas sans doute encore rédigé).</p>
+<p>Milieu de 1748 Addition en cours d'impression des Livres XXX et XXXI.</p>
+<p><pb/></p>
+<p>1748. Edition revue des Considérations.</p>
+<p>1750. Défense de l'Esprit des Lois et Eclaircissements. Genève.</p>
+<p>1752. Mémoire sur la Constitution (c'est-à-dire sur la Bulle
+unigenitus), non publié.</p>
+<p>1753. 1754- 1755.</p>
+<p>Lettre sur le Parlement, non publiée. Edition des Lettres Persanes avec
+supplément (onze lettres nouvelles et quelques réflexions). 10 février.
+Mort de Montesquieu.</p>
+<p>1758.</p>
+<p>Oeuvres de Montesquieu publiées par Richér, avec corrections tirées des
+papiers de l'auteur, Amsterdam, 3 vol. in-40.</p>
+<p>1875-1879. Oeuvres de Montesquieu publiées par Ed. de 1 Laboulaye, 7
+vol. in-8°.</p>
+<p>inédits Voyages, 2 vol. Pensées et frag-</p>
+<p>ments inédits, 2 vol.</p>
+<p>1900. Considérations, éd. Barckhausen, in-40. 1913. Lettres Persanes,
+éd. critique (collection des Textes Français modernes) publiée par Barck-</p>
+<p>hausen.</p>
+<p>1914. Correspondance de Montesquieu, publiée par Gebelin</p>
+<p>et Morize, 2 vol. in-8°.</p>
+<p>Pour les études, ouvrages ou articles auxquelles ont donné lieu la vie
+et l'œuvre de Montesquieu, voir G. Lanson, Manuel Bibliographique de la
+Littérature Française moderne, Nos 10. o8i-io. 236, p. 734744, et Supp.
+p. 1641.</p>
+<p><pb/></p>
+<p>Il faudrait ajouter aux indications données dans cet ouvrage sur les
+études dont l'Esprit des Lois a été l'objet, le remarquable travail de
+M. E. Carcassonne, Montesquieu et le problème de la Constitution
+française au XVIIIe siècle, Paris, in-8°, 1927.</p>
+<p>sibles leur nature, leurs lois</p>
+<p>fondamentales, leurs principes</p>
+<p>comment ces principes se main-</p>
+<p>tiennent ou se corrompent.</p>
+<p>IX-X. La protection de l'Etat</p>
+<p>et des sujets par</p>
+<p>la force militaire. La</p>
+<p>guerre.</p>
+<p>XI. La protection des indi-</p>
+<p>vidus au dedans la</p>
+<p>liberté. Le gouverne-</p>
+<p>ment Anglais.</p>
+<p>XII. La protection des indi-</p>
+<p>vidus au dedans</p>
+<p>la sécurité de la per-</p>
+<p>sonne et des biens</p>
+<p>justice et tribunaux.</p>
+<p><pb/></p>
+<p>L. XIV. Introduction de la notion d'espace localisation géographique des
+gouvernements et conséquences qui en résultent.</p>
+<p>L. XIV. Puissance du climat.</p>
+<p>XV-XVII. Effets du climat sur les Insti-</p>
+<p>XVIII-XIX. Modificateurs du climat le terrain (XVIII); l'esprit</p>
+<p>XXI-XXII. Commerce et monnaie, XXIII. Population.</p>
+<p>XXIV-XXV. Religion.</p>
+<p>XIII. Les moyens du gouver-</p>
+<p>nement finances,</p>
+<p>impôts.</p>
+<p>tutions esclavage (XV). Clôture des femmes et polygamie en Orient (XVI).
+Servitude politique et despotisme. (XVII.)</p>
+<p>général et les mœurs (XIX).</p>
+<p>L'esprit général et les</p>
+<p>mœurs, qui sont pour une</p>
+<p>bonne part sous la dépen-</p>
+<p>dance du climat, peuvent</p>
+<p>en contrebalancer dans une</p>
+<p>certaine mesure les effets</p>
+<p>tions dépendant principalement des trois forces gouvernement, climat et
+terrain, mœurs et esprit général.</p>
+<p><pb/></p>
+<p>L. XXVII-XXVIII,</p>
+<p>XXX-XXXI</p>
+<p>L. XXVI et XXIX</p>
+<p>Introduction de la notion de durée. Les gouvernements dans le temps
+évolution historique et changements. Etudes fragmentaires, auxquelles il
+faut joindre les Considérations sur les Romains.</p>
+<p>XXVII Lois romaines sur</p>
+<p>XXVIII</p>
+<p>XXX-XXXI</p>
+<p>les successions.</p>
+<p>Deux livres de théorie et de technique législatives.</p>
+<p><pb/></p>
+<p>XXVI Distinction des matiè-</p>
+<p>XXIX</p>
+<p>res législatives selon la nature des faits auxquels elles se rapportent.
+îi est très important de mettre chaque loi en rapport avec l'ordre
+naturel des choses. De la manière de composer les lois. Conseils et
+leçons pour les législateurs.</p>
+<p>III. SIGNIFICATION ET PORTÉE DE L' « ESPRIT DES LOIS »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Montesquieu posait en principe que tout ce qui était ou avait été avait
+sa raison d'être, qu'il n'était pas impossible de trouver. Toutes les
+lois de tous les peuples, si bizarres, absurdes ou atroces qu'elles
+parussent, étaient les produits des conditions naturelles et des
+réactions, naturelles aussi, de l'esprit humain conditions et réactions
+qu'une recherche sérieuse et bien conduite pouvait découvrir. Ainsi le
+dessein de l'auteur était de faire, d'abord, une œuvre de science,
+d'expliquer la prodigieuse variété des institutions humaines et de
+montrer que tout ce qui était, ou avait été, était fondé sur certaines
+causes physiques ou morales. C'est par ce dessein que Montesquieu a
+mérité d'être considéré comme le fondateur de la science politique et de
+la sociologie.</p>
+<p><pb/></p>
+<p>et le public ne s'y trompa point, circulait une pensée réformatrice, un
+sentiment aigu des imperfections de la législation française dans tous
+les domaines, et des maux qui en résultaient pour toute la nation.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>quieu a pu dégager de la Constitution anglaise et du jeu des
+institutions anglaises la formule idéale de son principe. Mais il est
+réel qu'en Angleterre même la division" des pouvoirs n'est pas
+rigouruesement établie, puisque, selon la description que Montesquieu
+lui-même nous fait de la Constitution anglaise, la Chambre des Lords,
+associée aux Communes dans le pouvoir législatif, dispose en outre, dans
+certains cas, d'attributions judiciaires.</p>
+<p>La balance qui résulte de leur antagonisme procure la liberté de la nation.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>La raison condamne toute violence et toute cruauté. Elle les condamne
+dans les lois, elle les condamne dans l'application des lois.</p>
+<p>La raison et l'humanité condamnent toute la législation du sacrilège à
+disparaître.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ce serait une vue bien étroite de ne voir, dans l'Esprit des Lois que la
+construction d'un mécanisme constitutionnel. Quelque importance que
+puisse avoir dans la pensée de Montesquieu et dans l'histoire politique
+du xixe siècle,</p>
+<p><pb/></p>
+<p>Chez Montesquieu, le sentiment se contient, et demeure toujours sous le
+contrôle de l'intelligence et de la raison.</p>
+<p><pb/></p>
+<p>Mais les hommes nés -pour conduire les peuples savent les acheminer par
+les passions aux résolutions que recommandent la raison et le bien de la
+patrie. C'est dans ce jeu que triomphe le génie politique.</p>
+<p><pb/></p>
+<p>sous la forme de sentiments confus et d'élans passionnés. Une nation se
+place d'autant plus haut dans l'échelle de la civilisation que la
+communication se fait plus facilement et plus complètement entre l'élite
+et la foule, et que la foule est plus pénétrée d'intelligence et de
+raison. Aussi Montesquieu déclare-t-il, dès sa préface « II n'est pas
+indifférent que le peuple soit éclairé. » Car de lui peut monter une
+force qui rende la besogne plus facile aux magistrats et aux législateurs.</p>
+<p><pb/></p>
+<p>mais le complète en l'épurant. Il en a donné la formule dans le passage
+bien souvent cité</p>
+<p><pb/></p>
+<p>J'ai suivi les habitudes de l'orthographe d'aujourd'hui, en conservant
+toutefois l'emploi ancien de o pour a dans les imparfait (avois,
+jaisois) dans les infinitifs de certains verbes (paroitre, connoitre) et
+dans certains substantifs et adjectifs (foiblesse, foible). Il m'a paru
+bon de marquer l'ancienneté du texte, sans toutefois en rendre la
+lecture incommode pour nos contemporains de culture moyenne.. • Gustave
+LANSON.</p>
+<p><pb/></p>
+<p>De l'Esprit des Lois ou du rapport que les lois doivent avoir avec la
+constitution de chaque gouvernement, les mœurs, le climat</p>
+<p>la religion, le commerce, etc.</p>
+<p>A quoi l'auteur a ajouté</p>
+<p>Des recherches nouvelles sur les lois romaines touchant les successions</p>
+<p>sur les lois françaises et sur les lois féodales A Genève, chez Barillot
+&amp; Fils</p>
+<p>(1748)</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>PRÉFACE</p>
+<p>J'ai d'abord examiné les hommes, et j'ai cru que, dans 15 cette infinie
+diversité de lois et de mœurs, ils n'étaient pas uniquement conduits par
+leurs fantaisies.</p>
+<p>J'ai posé les principes, et j'ai vu les cas particuliers s'y plier comme
+d'eux-mêmes, les histoires de toutes les nations n'en être que les
+suites, et chaque loi particulière 20</p>
+<p>Ligne 1. 1748 des [choses.</p>
+<p>Ligne 5. 1748 les Dieux.</p>
+<p>Ugne 13. 1748 On ne] peut le bien découvrir.</p>
+<p><pb/></p>
+<p>liée avec une autre loi, ou dépendre d'une autre plus générale.</p>
+<p>Je n'ai point tiré mes principes de mes préjugés, mais de la nature des
+choses.</p>
+<p>On ne trouvera point ici ces traits saillants qui semblent caractériser
+les ouvrages d'aujourd'hui. Pour peu qu'on voie les choses avec une
+certaine étendue, les saillies s'évanouissent elles ne naissent
+d'ordinaire que parce que l'esprit se jette tout d'un côté et abandonne
+tous les autres.</p>
+<p><pb/></p>
+<p>correction mais on voit encore les abus de la correction même. On laisse
+le mal, si l'on craint le pire on laisse le bien, si l'on est en doute
+du mieux. On ne regarde les parties que pour juger du tout ensemble on
+examine toutes les causes pour voir les résultats.</p>
+<p>Si je pouvais faire en sorte que tout le monde eût de nouvelles raisons
+pour aimer ses devoirs, son prince, sa patrie, ses lois, qu'on pût mieux
+sentir son bonheur dans chaque pays, dans chaque gouvernement, dans
+chaque poste où l'on se trouve, je me croirois le plus heureux des mortels.</p>
+<p>J'ai bien des fois commencé et bien des fois abandonné cet ouvrage j'ai
+mille fois envoyé au vent les feuilles que j'avois écrites1 je sentois
+tous les jours les mains</p>
+<p>i. Ludibria ventis. (M)</p>
+<p><pb/></p>
+<p>I4gne 10. 1748 en France] en Angleterre [et en Allemagne. 1. Bis patriœ
+cecidere manus. (M)</p>
+<p>2. Ed io anche son pittore. (M)</p>
+<p>2. E&lt;&lt; M SMC/~ SOK ~t«0~. (M)</p>
+<p><pb/></p>
+<p>AVERTISSEMENT DE L'AUTEUR</p>
+<p>Pour l'intelligence des quatre premiers livres de cet ouvrage, il faut
+observer que ce que j'appelle la vertu dans la république est l'amour de
+la patrie, c'est-à-dire l'amour de l'égalité. Ce n'est point une vertu
+morale ni une vertu chrétienne, c'est la vertu politique, et celle-ci
+est le ressort h qui fait mouvoir le gouvernement républicain, comme
+l'honneur est le ressort qui fait mouvoir la monarchie. J'ai donc appelé
+vertu politique l'amour de la patrie et de l'égalité. J'ai eu des idées
+nouvelles il a bien fallu trouver de nouveaux ,mots, ou donner aux
+anciens de nouvelles Io acceptions. Ceux qui n'ont pas compris ceci
+m'ont fait dire des choses absurdes, et qui seraient révoltantes dans
+tous les pays du monde, parce que dans tous les pays du monde on veut de
+la morale.</p>
+<p>2° II faut faire attention qu'il y a une très grande Zc différence entre
+dire qu'une certaine qualité, modification de l'âme, ou vertu, n'est pas
+le ressort qui fait agir un gouvernement, et dire qu'elle n'est point
+dans ce gouvernement. Si je disais, telle roue, tel pignon, ne sont
+point le ressort qui fait mouvoir cette montre, en conclurait-on qu'ils
+ne 20 sont point dans la montre ? Tant s'en faut que les vertus morales
+et chrétiennes soient exclues de la monarchie, que</p>
+<p><pb/></p>
+<p>même la vertu politique ne l'est pas. En un mot, l'honneur est dans la
+république, quoique la vertu politique en soit le ressort la vertu
+politique est dans la monarchie, quoique l'honneur en soit le ressort.</p>
+<p><pb/></p>
+<p>LIVRE PREMIER</p>
+<p>DES LOIS EN GÉNÉRAL</p>
+<p>CHAPITRE PREMIER</p>
+<p>Il y a donc une raison primitive et les lois sont les rapports qui se
+trouvent entre elle et les différents êtres, et les rapports de ces
+divers êtres entre eux.</p>
+<p>Les êtres particuliers intelligents peuvent avoir des lois qu'ils ont
+faites mais ils en ont aussi qu'ils n'ont pas faites. Avant qu'il y eût
+des êtres intelligents, ils étaient possibles ils avaient donc des
+rapports possibles, et par conséquent des lois possibles. Avant qu'il y
+eût des lois faites, il y avait des rapports de justice possibles. Dire
+qu'il n'y a rien de juste ni d'injuste que ce qu'ordonnent ou défendent
+les lois i. « La loi, dit Plutarque, est lareine de tous mortels et
+immortels ». Au traité Qu'il est requis qu'un prince soit savant (M).</p>
+<p><pb/></p>
+<p>positives, c'est dire qu'avant qu'on eût tracé de cercle tous les rayons
+n'étaient pas égaux.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>LIVRE DEUXIÈME</p>
+<p>DES LOIS QUI DÉRIVENT DIRECTEMENT DE LA NATURE</p>
+<p>DU GOUVERNEMENT</p>
+<p>CHAPITRE II</p>
+<p>Il a besoin, comme les monarques, et même plus qu'eux,</p>
+<p><pb/></p>
+<p>Comme la plupart des citoyens, qui ont assez de suffisance pour élire,
+n'en ont pas assez pour être élus, de même le peuple, qui a assez de
+capacité pour se faire rendre</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>LIVRE TROISIÈME</p>
+<p>DES PRINCIPES DES TROIS GOUVERNEMENTS</p>
+<p>CHAPITRE III</p>
+<p>Du principe de la démocratie</p>
+<p>Il ne faut pas beaucoup de probité pour qu'un gouvernement monarchique
+ou un gouvernement despotique se maintiennent ou se soutiennent. La
+force des lois dans l'un, le bras du prince toujours levé dans l'autre,
+règlent ou contiennent tout. Mais dans un état populaire il faut un
+ressort de plus, qui est la vertu.</p>
+<p>Ce fut un assez beau spectacle, dans le siècle passé, de voir les
+efforts impuissants des Anglais pour établir parmi eux la démocratie.
+Comme ceux qui avaient part aux affaires n'avaient point de vertu,'que
+leur ambition était irritée par le succès de celui qui avait le plus
+osé1, que</p>
+<p>}, Crotnwell (M). e</p>
+<p><pb/></p>
+<p>l'esprit d'une faction n'était réprimé que par l'esprit d'une autre, le
+gouvernement changeait sans cesse, le peuple, étonné, cherchait la
+démocratie, et ne la trouvait nulle part. Enfin, après bien des
+mouvements, des chocs et des secousses, il fallut se reposer dans le
+gouvernement même qu'on avait proscrit.</p>
+<p>Les politiques grecs qui vivaient dans le gouvernement populaire ne
+reconnoissoient d'autre force qui pût le soutenir que celle de la vertu.
+Ceux d'aujourd'hui ne nous parlent que de manufactures, de commerce, de
+finances, de richesses et de luxe même.</p>
+<p>Lorsque cette vertu cesse, l'ambition entre dans les cœurs qui peuvent
+la recevoir, et l'avarice entre dans tous. Les désirs changent d'objets
+ce qu'on aimait, on ne l'aime plus. On était libre avec les lois, on
+veut être libre contre elles. Chaque citoyen est comme un esclave
+échappé de la maison de son maître. Ce qui était maxime, on l'appelle
+rigueur ce qui était règle, on l'appelle gêne ce qui était attention, on
+l'appelle crainte. C'est la frugalité qui y est l'avarice, et non pas le
+désir d'avoir. Autrefois le bien des particuliers faisoit le trésor
+public mais pour lors le trésor public devient le patrimoine des
+particuliers. La république est une dépouille, et sa force n'est plus
+que le pouvoir de quelques citoyens et la licence de tous.</p>
+<p>l,igne 8. 1748 reconnoissant les [soutenir].</p>
+<p><pb/></p>
+<p>CHAPITRE V</p>
+<p>Que la ~~M n'est point le ~)~MC~~ du gouvernement monarchique</p>
+<p>Dans les monarchies, la politique fait faire les grandes</p>
+<p><pb/></p>
+<p>tère des courtisans ce ne sont point des choses de spéculation, mais
+d'une triste expérience.</p>
+<p>CHAPITRE VI</p>
+<p>Comment on ~M~~ vertu dans le gouvernement monarchique</p>
+<p><pb/></p>
+<p>qu'un qui soit homme de bien car, pour être homme de bien1, il faut
+avoir intention de l'être, et aimer l'état moins pour soi que pour
+lui-même.</p>
+<p>CHAPITRE VII</p>
+<p>Du ~MC~ monarchie</p>
+<p>Le gouvernement monarchique suppose, comme nous avons dit, des
+prééminences, des rangs, et même une noblesse d'origine. La nature de
+l'honneur est de demander des préférences et des distinctions il est
+donc, par la chose même, placé dans ce gouvernement.</p>
+<p><pb/></p>
+<p>LIVRE IV</p>
+<p>QUE LES LOIS DE L'ÉDUCATION DOIVENT ÊTRE RELATIVES AUX PRINCIPES DU
+GOUVERNEMENT</p>
+<p>CHAPITRE IV</p>
+<p>D~MC6 des C//ë~ de l'éducation chez les anciens et ~&lt;ï~~t nous</p>
+<p>La plupart des peuples anciens vivoient dans des gouvernements qui ont
+la vertu pour principe et, lorsqu'elle y étoit dans sa force, on y
+faisoit des choses que nous ne voyons plus aujourd'hui, et qui étonnent
+nos petites âmes. E; Leur éducation avait un autre avantage sur la nôtre
+elle n'étoit jamais démentie. Épaminondas, la dernière année de sa vie,
+disoit, écoutoit, voyoit, faisoit les mêmes choses que dans l'âge où il
+avait commencé d'être instruit. Aujourd'hui, nous recevons trois
+éducations différentes Io ou contraires celle de nos pères, celle de nos
+maîtres, celle du monde. Ce qu'on nous dit dans la dernière renverse
+toutes les idées des premières. Cela vient, en quelque partie, du
+contraste qu'il y a parmi nous entre les engagements de la religion et
+ceux du monde chose que les anciens ne je connaissaient pas.</p>
+<p><pb/></p>
+<p>CHAPITRE V</p>
+<p>De l'éducation dans le gouvernement républicain</p>
+<p>On peut définir cette vertu, l'amour des lois et de la patrie. Cet
+amour, demandant une préférence continuelle de l'intérêt public au sien
+propre, donne toutes les vertus jo particulières elles ne sont que cette
+préférence.</p>
+<p>I~igne 6. 1748 mot politique M~M~tM.</p>
+<p><pb/></p>
+<p>ses connoissances on l'est encore plus de leur donner ses passions.</p>
+<p><pb/></p>
+<p>LIVRE V</p>
+<p>QUE LES LOIS QUE LE LÉGISLATEUR DONNE</p>
+<p>DOIVENT ÊTRE RELATIVES AU PRINCIPE DU GOUVERNEMENT s</p>
+<p>CHAPITRE II</p>
+<p>Ce que c'est que la vertu dans l'état politique</p>
+<p>La vertu, dans une république, est une chose très simple c'est l'amour
+de la république c'est un sentiment, et non une suite de connaissances
+le dernier homme de l'état peut avoir ce sentiment, comme le premier.
+Quand le peuple a une fois de bonnes maximes, il s'y tient plus
+longtemps que ce qu'on appelle les honnêtes gens. Il est rare que la
+corruption commence par lui souvent il a tiré de la médiocrité de ses
+lumières un attachement plus fort pour ce qui est établi.</p>
+<p><pb/></p>
+<p>CHAPITRE III</p>
+<p>Ce que c'est que l'amour de la république</p>
+<p>dans la démocratie</p>
+<p>L'amour de la république, dans une démocratie, est celui de la
+démocratie l'amour de la démocratie est celui de l'égalité.</p>
+<p>L'amour de la démocratie est encore l'amour de la frugalité. Chacun
+devant y avoir le même bonheur et les mêmes avantages, y doit goûter les
+mêmes plaisirs, et former les mêmes espérances chose qu'on ne peut
+attendre que de la frugalité générale.</p>
+<p>Ainsi les distinctions y naissent du principe de l'égalité, lors même
+qu'elle paraît ôtée par des services heureux, ou par des talents
+supérieurs.</p>
+<p>t</p>
+<p><pb/></p>
+<p>sance dont un citoyen ne peut pas user pour lui, car il ne serait pas
+égal. Elles procurent des délices dont il ne doit pas jouir non plus,
+parce qu'elles choqueraient l'égalité tout de même.</p>
+<p>Le bon sens' et le bonheur des particuliers consiste beaucoup dans la
+médiocrité de leurs talents et de leurs fortunes. Une république où les
+lois auront formé beaucoup de gens médiocres, composée de gens sages, se
+gouvernera sagement composée de gens heureux, elle sera très heureuse.
+CHAPITRE XII</p>
+<p>De la puissance des peines</p>
+<p>L'expérience a fait remarquer que, dans les pays où les peines sont
+douces, l'esprit du citoyen en est frappé, comme il l'est ailleurs par
+les grandes.</p>
+<p>0. LANSON</p>
+<p><pb/></p>
+<p>Il ne faut point mener les hommes par les voies extrêmes on doit être
+ménager des moyens que la nature nous donne pour les conduire. Qu'on
+examine la cause de tous les relâchements on verra qu'elle vient de
+l'impunité des crimes, non pas de la modération des peines.</p>
+<p>Suivons la nature, qui a donné aux hommes la honte comme leur fléau et
+que la plus grande partie de la peine soit l'infamie de la souffrir.</p>
+<p>Que s'il se trouve des pays où la honte ne soit pas une Note i. 1748 la
+note manque.</p>
+<p>i. On fendoit le nez, on coupoit les oreilles (M).</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>LIVRE VII</p>
+<p>CONSÉQUENCES DES DIFFÉRENTS PRINCIPES</p>
+<p>DES TROIS GOUVERNEMENTS,</p>
+<p>PAR RAPPORT AUX LOIS SOMPTUAIRES, AU LUXE ET A LA CONDITION DES FEMMES</p>
+<p>CHAPITRE PREMIER</p>
+<p>Du luxe</p>
+<p>Ligne 13. 1748 d'une égalité ~/aM~ ~og~~Me~.</p>
+<p>Joigne 14. 1748 empMie qu'il y ait.</p>
+<p><pb/></p>
+<p>Quelques gens ont pensé qu'en assemblant tant de Teigne 8.1~8 en grand
+nombre, et si la plupart</p>
+<p>Note ligne 2. 1748 on] s'y [habille.</p>
+<p>i. Dans une grande ville, dit l'auteur de la fable des Abeilles, tome I,
+p. 133, on s'habille au-dessus de sa qualité pour être estimé plus qu'on
+n'est par la multitude. C'est un plaisir, pour un esprit faible, presque
+aussi grand que celui de l'accomplissement de ses désirs (M). I,'auteur
+de la Fa~e des &lt; est Mandeville,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>LIVRE HUITIÈME</p>
+<p>DE LA CORRUPTION DES PRINCIPES</p>
+<p>DES TROIS GOUVERNEMENTS</p>
+<p>CHAPITRE II</p>
+<p><pb/></p>
+<p>Il ne faudra pas s'étonner si l'on voit les suffrages se donner pour de
+l'argent. On ne peut donner beaucoup au peuple sans retirer encore plus
+de lui mais, pour retirer de lui, il faut renverser l'état. Plus il
+paraîtra tirer d'avantage de sa liberté, plus il s'approchera du moment
+où il doit la perdre. Il se forme de petits tyrans qui ont tous les
+vices d'un seul. Bientôt ce qui reste de liberté devient insupportable
+un seul tyran s'élève et le peuple perd tout, jusqu'aux avantages de sa
+corruption.</p>
+<p><pb/></p>
+<p>CHAPITRE III</p>
+<p>De ~S~~ d'égalité extrême</p>
+<p>Dans l'état de nature, les hommes naissent bien dans l'égalité mais ils
+n'y sauroient rester. La société la leur fait perdre, et ils ne
+redeviennent égaux que par les lois. Telle est la différence entre la.
+démocratie réglée et celle qui ne l'est pas, que, dans la première, on
+n'est égal que comme citoyen, et que, dans l'autre, on est encore égal
+comme magistrat, comme sénateur, comme juge, comme père, comme mari,
+comme maître.</p>
+<p>La place naturelle de la vertu est auprès de la liberté J mais elle ne
+se trouve pas plus auprès de la liberté extrême qu'auprès de la servitude.</p>
+<p>q</p>
+<p>CHAPITRE VI</p>
+<p>De la CO~TM~OM du ~MC~ la monarchie Comme les démocraties se perdent
+lorsque le peuple dépouille le sénat, les magistrats et les juges de
+leurs fonc-</p>
+<p><pb/></p>
+<p>Enfin elle se perd lorsqu'un prince méconnaît son autorité, sa
+situation, l'amour de ses peuples, et lorsqu'il ne sent pas bien qu'un
+monarque doit se juger en sûreté, comme un despote doit se croire en péril.</p>
+<p><pb/></p>
+<p>CHAPITRE VII</p>
+<p>Continuation du même sujet</p>
+<p><pb/></p>
+<p>CHAPITRE VIII</p>
+<p>D~g~ corruption</p>
+<p>du ~~MC~~ du gouvernement monarchique</p>
+<p><pb/></p>
+<p>LIVRE IX</p>
+<p>DES LOIS, DANS LE RAPPORT QU'ELLES ONT</p>
+<p>AVEC LA FORCE DÉFENSIVE</p>
+<p>CHAPITRE VII</p>
+<p>Réflexions</p>
+<p><pb/></p>
+<p>d'une bataille lorsqu'elle a chanté le général, n'aurait jamais été
+jusqu'au bout d'une entreprise qui ne peut manquer dans un pays sans
+manquer dans tous les autres, ni manquer un moment sans manquer pour
+toujours.</p>
+<p>CHAPITRE IX</p>
+<p>De la /o~ relative des états</p>
+<p>De la faiblesse des états voisins</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>QU'ELLES ONT AVEC LA FORCE OFFENSIVE</p>
+<p>Entre les citoyens, le droit de la défense naturelle n'emporte point
+avec lui la nécessité de l'attaque. Au lieu d'attaquer, ils n'ont qu'à
+recourir aux tribunaux. Ils ne peuvent donc exercer le droit de cette
+défense que dans les cas momentanés où l'on seroit perdu si l'on
+attendoit le secours des lois. Mais, entre les sociétés, le droit de la
+défense naturelle entraîne quelquefois la nécessité d'attaquer,
+lorsqu'un peuple voit qu'une plus longue paix en mettroit un autre en
+état de le détruire, et que l'attaque est dans ce moment le seul moyen
+d'empêcher cette destruction.</p>
+<p>LIVRE DIXIÈME</p>
+<p>DES LOIS, DANS LE RAPPORT</p>
+<p>CHAPITRE II</p>
+<p>De la guerre</p>
+<p><pb/></p>
+<p>Que l'on ne parle pas surtout de la gloire du prince sa gloire seroit
+son orgueil c'est une passion, et non pas un droit légitime.</p>
+<p>Il est vrai que la réputation de sa puissance pourroit augmenter les
+forces de son état mais la réputation de sa justice les augmenteroit
+tout de même.</p>
+<p>CHAPITRE III</p>
+<p>Du droit de conquête</p>
+<p>Du droit de la guerre dérive celui de conquête, qui en est la
+conséquence il en doit donc suivre l'esprit. Lorsqu'un peuple est
+conquis, le droit que le conquérant a sur lui suit quatre sortes de lois
+la loi de la nature, qui fait que tout tend à. la conservation des
+espèces la loi de la lumière naturelle, qui veut que nous fassions à
+autrui ce que nous voudrions qu'on nous fît la loi qui forme les
+sociétés politiques, qui sont telles que la nature n'en a point borné la
+durée enfin la loi tirée de la chose même. La conquête est une
+acquisition l'esprit d'acquisition porte</p>
+<p>a. LANBON</p>
+<p><pb/></p>
+<p>avec lui l'esprit de conservation et d'usage, et non pas celui de
+destruction.</p>
+<p>Les auteurs de notre droit public, fondés sur les histoires anciennes,
+étant sortis des cas rigides, sont tombés dans de grandes erreurs. Ils
+ont donné dans l'arbitraire ils ont supposé dans les conquérants un
+droit, je ne sais quel, de tuer ce qui leur a fait tirer des
+conséquences terribles comme le principe, et établir des maximes que les
+conquérants eux-mêmes, lorsqu'ils ont eu le moindre sens, n'ont jamais
+prises. Il est clair que, lorsquelaconquéte est faite, le conquérant n'a
+plus le droit de tuer, puisqu'il n'est plus dans le cas de la défense
+naturelle et de sa propre conservation.</p>
+<p>Ce qui les a fait penser ainsi, c'est qu'ils ont cru que le conquérant
+avoit droit de détruire la société, d'oîi ils ont conclu qu'il avoit
+celui de détruire les hommes qui la composent ce qui est une conséquence
+faussement tirée</p>
+<p><pb/></p>
+<p>d'un faux principe. Car, de ce que la société seroit anéantie, il ne
+s'ensuivroit pas que les hommes qui la forment dussent aussi être
+anéantis. La société est l'union des hommes, et non pas les hommes le
+citoyen peut périr, et l'homme rester.</p>
+<p>Du droit de tuer dans la conquête, les politiques ont tiré le droit de
+réduire en servitude mais la conséquence est aussi mal fondée que le
+principe.</p>
+<p>Ainsi le conquérant qui réduit le peuple en servitude doit toujours se
+réserver des moyens (et ces moyens sont sans nombre) pour l'en faire
+sortir.</p>
+<p>Je ne dis point ici des choses vagues.</p>
+<p><pb/></p>
+<p>CHAPITRE IV</p>
+<p>Quelques avantages du ~M~6 conquis</p>
+<p>Une conquête peut détruire les préjugés nuisibles, et mettre, si j'ose
+parler ainsi, une nation sous un meilleur génie.</p>
+<p><pb/></p>
+<p>LIVRE ONZIÈME</p>
+<p>DES LOIS QUI FORMENT LA LIBERTÉ POLITIQUE, DANS SON RAPPORT AVEC LA
+CONSTITUTION</p>
+<p>CHAPITRE II</p>
+<p>2. I~cs Moscovites ne pouvaient souffrir que le czar Pierre la leur fît
+couper. (M).</p>
+<p><pb/></p>
+<p>Ce que c'est que la liberté</p>
+<p>i. I,es Cappadociens refusèrent l'état républicain que leur offrirent
+les Romains. (M).</p>
+<p><pb/></p>
+<p>pouvoit faire ce qu'elles défendent, il n'auroit plus de liberté parce
+que les autres auraient tout de même ce pouvoir. CHAPITRE IV</p>
+<p>Continuation du même sujet</p>
+<p>Pour qu'on ne puisse abuser du pouvoir, il faut que, par la disposition
+des choses, le pouvoir arrête le pouvoir. Une constitution peut être
+telle que personne ne sera contraint de faire les choses auxquelles la
+loi ne l'oblige pas, et de ne point faire celles que la lui permet.</p>
+<p>CHAPITRE VI</p>
+<p>De la constitution d'Angleterre'</p>
+<p>Il y a dans chaque état trois sortes de pouvoirs la puissance
+législative, la ouissance exécutrice des choses i. Au chap. V,
+Montesquieu dlt r Il y a. une nation dans le monde qui a pour objet
+direct de sa constitution la liberté politique. Nous allons examiner les
+principes sur lesquels elle le fonde. S'ils sont bons, la liberté y
+paraîtra comme dans un miroir.</p>
+<p><pb/></p>
+<p>qui dépendent du droit des gens, et la puissance exécutrice de celles
+qui dépendent du droit civil.</p>
+<p>Par la première, le prince ou le magistrat fait des lois pour un temps
+ou pour toujours, et corrige ou abroge celles qui sont faites. Par la
+seconde, il fait la paix ou la guerre, envoie ou reçoit des ambassades,
+établit la sûreté, prévient les invasions. Par la troisième, il punit
+les crimes ou juge les différends des particuliers. On appellera cette
+dernière la puissance de juger et l'autre, simplement la puissance
+exécutrice de l'état.</p>
+<p>La liberté politique, dans un citoyen, est cette tranquillité d'esprit
+qui provient de l'opinion que chacun a de sa sûreté et, pour qu'on ait
+cette liberté, il faut que le gouvernement soit tel qu'un citoyen ne
+puisse pas craindre un autre citoyen.</p>
+<p>&lt;t</p>
+<p><pb/></p>
+<p>les résolutions publiques, et celui de juger les crimes ou les
+différends des particuliers.</p>
+<p><pb/></p>
+<p>faut que le peuple fasse par ses représentants tout ce qu'il ne peut
+faire par lui-même.</p>
+<p>L'on connoît beaucoup mieux les besoins de sa ville que ceux des autres
+villes, et on juge mieux de la capacité de ses voisins que de celle de
+ses autres compatriotes. Il ne faut donc pas que les membres du corps
+législatif soient tirés en général du corps de la nation mais il
+convient que, dans chaque lieu principal, les habitants se choisissent
+un représentant.</p>
+<p>Le grand avantage des représentants, c'est qu'ils sont capables de
+discuter les affaires. Le peuple n'y est point du tout propre ce qui
+forme un des grands inconvénients de la démocratie.</p>
+<p>Tous les citoyens, dans les divers districts, doivent avoir droit de
+donner leur voix pour choisir le représentant, excepté ceux qui sont
+dans un tel état de bassesse qu'ils sont réputés n'avoir point de
+volonté propre.</p>
+<p><pb/></p>
+<p>Le corps représentant ne doit pas être choisi non plus pour prendre
+quelque résolution active, chose qui ne seroit pas bien, mais pour faire
+des lois, ou pour voir si l'on a bien exécuté celles qu'il a faites,
+chose qu'il peut très bien faire, et qu'il n'y a même que lui qui puisse
+bien faire.</p>
+<p><pb/></p>
+<p>l,igne 7. x748 J'admets &lt;&amp;MM texte la leçon de 1~48, composée, seule
+acec~&lt;&lt;tM&lt; Le masculin, Composé, que donne 1758, fait COM~M~S.</p>
+<p>I~igne 25. 1748 puisse aussi avoir.</p>
+<p><pb/></p>
+<p>La puissance exécutrice doit être entre les mains d'un monarque, parce
+que cette partie du gouvernement, qui a presque toujours besoin d'une
+action momentanée, est mieux administrée par un que par plusieurs au
+lieu que ce qui dépend de la puissance législative est souvent mieux
+ordonné par plusieurs que par un seul.</p>
+<p>Si le corps législatif était un temps considérable sans être assemblé,
+il n'y aurait plus de liberté. Car il arriverait de deux choses l'une ou
+qu'il n'y aurait plus de résolution législative, et l'état tomberait
+dans l'anarchie ou que ces résolutions seraient prises par la puissance
+exécutrice, et elle deviendrait absolue.</p>
+<p>De plus, si le corps législatif étoit continuellement assemblé, il
+pourroit arriver que l'on ne feroit que suppléer de nouveaux députés à
+la place de ceux qui mourroient et dans ce cas, si le corps législatif
+étoit une fois corrompu, le mal seroit sans remède. Lorsque divers corps
+législatifs se succèdent les uns aux autres, le peuple, qui a mauvaise
+opinion du corps législatif actuel, porte avec raison ses espérances sur
+celui qui viendra après mais, si c'étoit</p>
+<p><pb/></p>
+<p>toujours le même corps, le peuple, le voyant une fois corrompu,
+n'espéreroit plus rien de ses lois il deviendroit furieux, ou tomberoit
+dans l'indolence.</p>
+<p>Le corps législatif ne doit point s'assembler lui-même car un corps
+n'est censé avoir de volontés que lorsqu'il est assemblé et, s'il ne
+s'assembloit pas unanimement, on ne sauroit dire quelle partie seroit
+véritablement le corps législatif, celle qui seroit assemblée, ou celle
+qui ne le seroit pas. Que s'il avoit droit de se proroger lui-même, il
+pourroit arriver qu'il ne se prorogeroit jamais ce qui seroit dangereux
+dans les cas où il voudroit attenter contre la puissance exécutrice.
+D'ailleurs, il y a des temps plus convenables les uns que les autres
+pour l'assemblée du corps législatif il faut donc que ce soit la
+puissance exécutrice qui règle le temps de la tenue et de la durée de
+ces assemblées, par rapport aux circonstances qu'elle connoît. Si la
+puissance exécutrice n'a pas le droit d'arrêter les entreprises du corps
+législatif, celui-ci sera despotique car, comme il pourra se donner tout
+le pouvoir qu'il peut imaginer, il anéantira toutes les autres
+puissances. Mais il ne faut pas que la puissance législative ait
+réciproquement la faculté d'arrêter la puissance exécutrice car
+l'exécution ayant ses limites par sa nature, il est inutile de la borner
+outre que la puissance exécutrice s'exerce toujours sur des choses
+momentanées. Et la puissance des tribuns de Rome étoit vicieuse, en ce
+qu'elle arrêtoit non seulement la législation, mais même l'exécution ce
+qui causoit de grands maux.</p>
+<p>Mais si, dans un état libre, la puissance législative ne I,igne a. 1748
+volonté.</p>
+<p><pb/></p>
+<p>Voici donc la constitution fondamentale du gouvernement dont nous
+parlons. Le corps législatif y étant composé de deux parties, l'une
+enchaînera l'autre par sa faculté mutuelle d'empêcher. Toutes les deux
+seront liées par la puissance exécutrice, qui le sera elle-même par la
+législative.</p>
+<p>I&lt;!gce ia. 1748 par la faquité.</p>
+<p><pb/></p>
+<p>Ces trois puissances~ devraient former un repos ou une inaction. Mais,
+comme par le mouvement nécessaire des choses elles sont contraintes
+d'aller, elles seront forcées d'aller de concert.</p>
+<p>La puissance exécutrice ne faisant partie de la législative que par sa
+faculté d'empêcher, elle ne saurait entrer dans le débat des affaires.
+Il n'est pas même nécessaire qu'elle propose,'parce que, pouvant
+toujours désapprouver les résolutions, elle peut rejeter les désicions
+des propositions qu'elle auroit voulu qu'on n'eût pas faites. Si la
+puissance exécutrice statue sur la levée des deniers publics autrement
+que par son consentement, il n'y aura plus de liberté, parce qu'elle
+deviendra législative dans le point le plus important de la législation.</p>
+<p>L'armée étant une fois établie, elle ne doit point dépendre
+immédiatement du corps législatif, mais de la puissance exécutrice et
+cela par la nature de la chose, son fait consistant plus en action qu'en
+délibération.</p>
+<p><pb/></p>
+<p>Si l'on veut lire l'admirable ouvrage de Tacite sur les mœurs des
+Germainsl, on verra que c'est d'eux que les Anglais ont tiré l'idée de
+leur gouvernement politique. Ce beau système a été trouvé dans les bois.</p>
+<p>Comme toutes les choses humaines ont une fin, l'état dont nous parlons
+perdra sa liberté. Rome, Lacédémone et Carthage ont bien péri. Il périra
+lorsque la puissance législative sera plus corrompue que l'exécutrice.</p>
+<p>0. tJtNBON 6</p>
+<p><pb/></p>
+<p>hommes s'accommodent presque toujours mieux des milieux que des
+extrémités ?</p>
+<p>Harrington, dans son Oceana, a aussi examiné quel était le plus haut
+point de liberté où la constitution d'un état peut être portée. Mais on
+peut dire de lui .qu'il n'a cherché cette liberté qu'après l'avoir
+méconnue, et qu'il a bâti Chalcédoine, ayant le rivage de Byzance devant
+les yeux. CHAPITRE VII</p>
+<p>Des monarchies que nous connaissons</p>
+<p>Les trois pouvoirs n'y sont point distribués et fondus sur le modèle de
+la constitution dont nous avons parlé. Ils ont chacun une distribution
+particulière, selon laquelle ils approchent plus ou moins de la liberté
+politique et, s'ils n'en approchoient pas, la monarchie dégénéreroit en
+despotisme.</p>
+<p><pb/></p>
+<p>LIVRE XII</p>
+<p>DES LOIS QUI FORMENT LA LIBERTÉ POLITIQUE, DANS SON RAPPORT AVEC LE CITOYEN</p>
+<p>CHAPITRE II</p>
+<p>De la liberté du citoyen</p>
+<p>La liberté philosophique consiste dans l'exercice de sa volonté, ou du
+moins (s'il faut parler dans tous les systèmes) dans l'opinion où l'on
+est que l'on exerce sa volonté. La liberté politique consiste dans la
+sûreté, ou du moins dans l'opinion que l'on a de sa sûreté.</p>
+<p>Cette sûreté n'est jamais plus attaquée que dans les accusations
+publiques ou privées. C'est donc de la bonté des lois criminelles que
+dépend principalement la liberté du citoyen.</p>
+<p>CHAPITRE IV</p>
+<p>Que la liberté est favorisée par la nature</p>
+<p>des peines et leur ~O~O~OM</p>
+<p>C'est le triomphe de la liberté lorsque les lois criminelles tirent
+chaque peine de la nature particulière du crime. Tout l'arbitraire cesse
+la peine ne descend point du caprice</p>
+<p><pb/></p>
+<p>Pour que la peine des sacrilèges soit tirée de la naturel de la chose,
+elle doit consister dans la privation de tous les avantages que donne la
+religion l'expulsion hors des temples la privation de la société des
+fidèles, pour un temps ou pour touj ours la fuite de leur présence les
+exécrations, les détestations, les conjurations.</p>
+<p><pb/></p>
+<p>armant contre eux le zèle des consciences timides et celui des
+consciences hardies.</p>
+<p>b</p>
+<p>i. I,e P. Bougerel (M).</p>
+<p><pb/></p>
+<p>toutes les peines qui sont de la juridiction correctionnelle, suffisent
+pour réprimer la témérité des deux sexes. En effet, ces choses sont
+moins fondées sur la méchanceté que sur l'oubli ou le'mépris de soi-même..</p>
+<p>Il n'est ici question que des crimes qui intéressent uniquement les
+mœurs, non de ceux qui choquent aussi la sûreté publique, tels que
+l'enlèvement et le viol, qui sont de la quatrième espèce.</p>
+<p>t</p>
+<p><pb/></p>
+<p>CHAPITRE V</p>
+<p>De certaines accusations</p>
+<p>qui ont particulièrement besoin de modération</p>
+<p>et de prudence</p>
+<p>Sous Manuel Comnène, le protestatorl fut accusé d'avoir</p>
+<p>I. NICÉTAS, Vie de Manuel Comnène, Uv. IV (M).</p>
+<p><pb/></p>
+<p>L'indignation croît lorsque l'on met dans la magie le pouvoir de
+détruire la religion. L'histoire de Constantinople2 nous apprend que,
+sur une révélation qu'avait eue un évêque qu'un miracle avait cessé à
+cause de la magie d'un particulier, lui et son fils furent condamnés à
+mort. De combien de choses prodigieuses ce crime ne dépendoit-il pas ?
+Qu'il ne soit pas rare qu'il y ait des révélations que l'évêque en ait
+eu une qu'elle fût véritable qu'il y eût eu un miracle que ce miracle
+eût cessé qu'il y eût de la magie que la magie pût renverser la religion
+que ce particulier fût magicien qu'il eût fait enfin cet acte de magie.</p>
+<p>i. Ibld (M).</p>
+<p>2. Histoire de l'empereur Maurice, par Théophylacte, ch. Xï (M.)</p>
+<p><pb/></p>
+<p>Sous le règne de Philippe-le-Long, les Juifs furent chassés de France,
+accusés d'avoir empoisonné les fontaines par le moyen des lépreux. Cette
+absurde accusation doit bien faire douter de toutes celles qui sont
+fondées sur la haine publique.</p>
+<p><pb/></p>
+<p>LIVRE TREIZIÈME</p>
+<p>DES RAPPORTS QUE LA LEVÉE DES TRIBUTS</p>
+<p>ET LA GRANDEUR DES REVENUS PUBLICS</p>
+<p>ONT AVEC LA LIBERTÉ</p>
+<p>CHAPITRE 1</p>
+<p>Des revenus de l'état</p>
+<p>Les revenus de l'état sont une portion que chaque citoyen donne de son
+bien pour avoir la sûreté de l'autre, ou pour en jouir agréablement.</p>
+<p>Pour bien fixer ces revenus, il faut avoir égard et aux nécessités de
+l'état, et aux nécessités des citoyens. Il ne faut point prendre au
+peuple sur ses besoins réels, pour des besoins de l'état imaginaires.</p>
+<p><pb/></p>
+<p>5</p>
+<p>10</p>
+<p>15</p>
+<p>20</p>
+<p><pb/></p>
+<p>CHAPITRE XII</p>
+<p>La règle générale reste toujours. Il y a, dans les états modérés, un
+dédommagement pour la pesanteur des tributs c'est la liberté. Il y a
+dans les états1 despotiques un équivalent pour la liberté c'est la
+modicité des tributs. Dans de certaines monarchies en Europe, on voit
+des provinces2 qui, par la nature de leur gouvernement politique, sont
+dans un meilleur état que les autres. On s'imagine toujours qu'elles ne
+paient pas assez, parce que, par un effet de la bonté de leur
+gouvernement, elles pourroient payer davantage et il vient toujours dans
+l'esprit de leur ôter ce gouvernement même qui produit ce bien, qui se
+communique, qui se répand au loin, et dont il vaudroit bien miéux jouir.</p>
+<p>i. En Russie, les tributs sont médiocres on les a augmentés depuis que
+le despotisme y est plus modéré. Voyez l'Histoire des Tartars, deuxième
+partie (M). 2. I,es pays d'états (M). “</p>
+<p><pb/></p>
+<p>CHAPITRE XV</p>
+<p>Abus de la liberté</p>
+<p>Les monarques de l'Asie ne font guère d'édits que pour exempter chaque
+année de tributs quelque province de leur empire2 les manifestations de
+leur volonté sont des bienfaits. Mais, en Europe, les édits des princes
+affligent même avant qu'on les ait vus, parce qu'ils y parlent toujours
+de leurs besoins, et jamais des nôtres. Il est impossible que nous ayons
+jamais de règle dans nos finances, parce que nous savons toujours que
+nous ferons quelque chose, et jamais ce que nous ferons. On n'appelle
+plus parmi nous un grand ministre celui i. Exposés au ch. xiv (Ed.)</p>
+<p>a. C'est l'usage des empereurs de la Chine (M).</p>
+<p><pb/></p>
+<p>qui est le sage dispensateur des revenus publics, mais celui qui est
+homme d'industrie, et qui trouve ce qu'on appelle des expédients.</p>
+<p>CHAPITRE XVII</p>
+<p>De l'augmentation des troupes</p>
+<p>Irigne 7. 1748 suivi (nos (Leçon gui n'offre pas de sens elle est
+rectifiée, et la leçon définitive introduite dans la liste des Fautes à
+corriger.</p>
+<p>1. Il est vrai que c'est cet état d'effort qui maintient principalement
+l'équilibre, parce qu'il éreinte les grandes puissances (M).</p>
+<p>2. Il ne faut pour cela que faire valoir la nouvelle invention des
+milices établies dans presque toute l'Europe, et les porter au même
+excès que l'on a fait les troupes réglées (M).</p>
+<p><pb/></p>
+<p>CHAPITRE XIX</p>
+<p>Qu'est-ce qui est plus convenable au prince</p>
+<p>et au Peuple, de la ferme ou de la régie des tributs ? La régie est
+l'administration d'un bon père de famille qui lève lui-même avec
+économie et avec ordre ses revenus. Par la régie, le prince est le
+maître de presser ou de retarder la levée des tributs, ou suivant ses
+besoins, ou suivant ceux de ses peuples. Par la régie, il épargne à
+l'état les profits immenses des fermiers, qui l'appauvrissent d'une
+infinité de manières. Par la régie, il épargne au peuple le spectacle
+des fortunes subites qui l'affligent. Par la régie, l'argent levé passe
+par peu de mains il va directement au prince, et par conséquent revient
+plus promptement 'au peuple. Par la régie, le prince épargne au peuple
+une infiI4gnc 8. 1748 leur fonds.</p>
+<p><pb/></p>
+<p>nité de mauvaises lois qu'exige toujours de lui l'avarice importune des
+fermiers, qui montrent un avantage présent dans des règlements funestes
+pour l'avenir.</p>
+<p>Des traitants</p>
+<p>On vit bien, dans les temps passés, des fortunes scandaleuses c'était
+une des calamités des guerres de cinquante ans mais pour lors ces
+richesses furent regardées comme ridicules, et nous les admirons.</p>
+<p>Il y a un lot pour chaque profession. Le lot de ceux qui Ifigne 3. 1748
+pour [des règlements.</p>
+<p><pb/></p>
+<p>LES REVENUS PUBLICS ET LA LIBERTÉ</p>
+<p>lèvent les tributs et les richesses, et les récompenses de ces richesses
+sont les richesses mêmes. La gloire et l'honneur sont pour cette
+noblesse qui ne connoît, qui ne voit, qui ne sent de vrai bien que
+l'honneur et la gloire. Le respect et la considération sont pour ces
+ministres et ces magistrats qui ne trouvant que le travail après le
+travail, veillent nuit et jour pour le bonheur de l'eprj^^ïTr^x</p>
+<p>a. LANSON</p>
+<p>?</p>
+<p><pb/></p>
+<p>LIVRE QUATORZIÈME</p>
+<p>DES LOIS DANS LE RAPPORT QU'ELLES ONT</p>
+<p>AVEC LA NATURE DU CLIMAT</p>
+<p>Combien les hommes sont différents</p>
+<p>Dans les pays froids on aura peu de sensibilité pour les plaisirs elle
+sera 'plus grande dans les pays tempérés dans les pays chauds, elle sera
+extrême. Comme on distingue les climats par les degrés de latitude, on
+pourroit les distinguer, pour ainsi dire, par les degrés de sensibilité.
+J'ai vu les opéras d'Angleterre et d'Italie ce sont les mêmes pièces et
+les mêmes acteurs mais la même musique produit des effets si différents
+sur les deux nations, l'une est si calme, et l'autre si transportée, que
+cela paraît inconcevable. Il en sera de même de la douleur elle est
+excitée en nous par le déchirement de quelque fibre de notre corps.
+L'auteur de la nature a établi que cette douleur seroit plus</p>
+<p>CHAPITRE II</p>
+<p>dans les divers climats</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>pays tempérés, vous verrez des peuples inconstants dans leurs manières,
+dans leurs vices mêmes, et dans leurs vertus le climat n'y a pas une
+qualité assez déterminée pour les fixer eux-mêmes.</p>
+<p>Contradiction dans les caractères de certains peuples du midi</p>
+<p><pb/></p>
+<p>Du temps des Romains, les peuples du nord de l'Europe vivoient sans
+arts, sans éducation, presque sans lois et cependant, par le seul bon
+sens attaché aux fibres grossières de ces climats, ils se maintinrent
+avec une sagesse admirable contre la puissance romaine jusqu'au moment
+où ils sortirent de leurs forêts pour la détruire.</p>
+<p>5</p>
+<p>10</p>
+<p>15</p>
+<p>20</p>
+<p>Ligne 18. 1748 sans art (mauvaise leçon conservée dans 1758 je corrige
+en arts).</p>
+<p><pb/></p>
+<p>Cause de l'immutabilité de la religion, des mœurs, des manières, des
+lois, dans les pays d'Orient</p>
+<p>Si, avec cette faiblesse d'organes qui fait recevoir aux peuples
+d'Orient les impressions du monde les plus fortes, vous joignez une
+certaine paresse dans l'esprit, naturellement liée avec celle du corps,
+qui fasse que cet esprit ne soit capable d'aucune action, d'aucun
+effort, d'aucune contention, vous comprendrez que l'âme qui a une fois
+reçu des impressions ne peut plus en changer. C'est ce qui fait que les
+lois, les mœurs1 et les manières, même celles qui paraissent
+indifférentes, comme la façon de se vêtir, sont aujourd'hui en Orient
+comme elles étaient il y a mille ans.</p>
+<p>Les Indiens croient que le repos et le néant sont le fondement de toutes
+choses, et la fin où elles aboutissent. i. On voit, par un fragment de
+Nicolas de Damas, recueilli par Constantin Porphyrogénète, que la
+coutume était ancienne en Orient d'envoyer étrangler un gouverneur qui
+déplaisoit elle étoit du temps des Mèdes (M.).</p>
+<p>CHAPITRE IV</p>
+<p>CHAPITRE V</p>
+<p>Que les mauvais législateurs</p>
+<p>sont ceux qui ont favorisé les vices du climat,</p>
+<p>et les bons sont ceux qui s'y sont opposés</p>
+<p><pb/></p>
+<p>Ils regardent donc l'entière inaction comme l'état le plus parfait et
+l'objet de leurs désirs. Ils donnent au souverain Etrel le surnom
+d'immobile. Les Siamois croient que la félicité2 suprême consiste à
+n'être point obligé d'animer une machine et de faire agir un corps.</p>
+<p>i. PanamanacV. Vovez Kircher (M).</p>
+<p>2. La Louhère, Relation de Siam, p. 446 (M).</p>
+<p>3. Foé veut réduire le cœur au pur vide. « Nous avons des yeux et des
+oreilles mais la perfection est de ne voir ni entendre une bouche, des
+mains, etc. la perfection est que ces membres soient dans l'inaction ».
+Ceci est tiré du dialogue d'un philosophe chinois rapporté par le P. Du
+Halde, t. III (M).</p>
+<p><pb/></p>
+<p>CHAPITRE VII</p>
+<p>Du monachisme</p>
+<p>En Asie, le nombre des derviches ou moines semble augmenter avec la
+chaleur du climat les Indes, où elle est excessive, en sont remplies on
+trouve en Europe cette même différence.</p>
+<p>Ligne 13. 1748 être] trop [oisifs.</p>
+<p>x. Que certaines lois des Indes favorisant la paresse. (Ëd.)</p>
+<p><pb/></p>
+<p>LES LOIS ET LA NATURE DU CLIMAT</p>
+<p>CHAPITRE XIII</p>
+<p>Effets qui résultent du climat d'Angleterre</p>
+<p>Ce caractère d'impatience n'est pas grand par lui-même, mais il peut le
+devenir beaucoup quand il est joint avec le courage.</p>
+<p>Il est différent de la légèreté, qui fait que l'on entreprend sans sujet
+et que l'on abandonne de même. Il approche plus de l'opiniâtreté, parce
+qu'il vient d'un sentiment des maux, si vif, qu'il ne s'affaiblit pas
+même par l'habitude de les souffrir.</p>
+<p>Ligne 3. 1748 Or [dans une nation 1748 affecteroit.</p>
+<p>Ligne 4. 1748 qu'elle porteroit.</p>
+<p><pb/></p>
+<p>déconcerter les projets de la tyrannie1, qui est toujours lente et
+foible dans ses commencements, comme elle est prompte et vive dans sa
+fin qui ne montre d'abord qu'une main pour secourir, et opprime ensuite
+avec une infinité de bras.</p>
+<p>La servitude commence toujours par le sommeil. Mais un peuple qui n'a de
+repos dans .aucune situation, qui se tâte sans cesse, et trouve tous les
+endroits douloureux, ne pourroit guère s'endormir.</p>
+<p>i. Je prends ici ce mot pour le dessein de renverser le pouvoir établi,
+et surtout la démocratie. C'est la signification que lui donnaient les
+Grecs et les Romains (M).</p>
+<p><pb/></p>
+<p>LIVRE XV</p>
+<p>COMMENT LES LOIS DE L'ESCLAVAGE CIVIL</p>
+<p>ONT DU RAPPORT AVEC LA NATURE DU CLIMAT CHAPITRE V</p>
+<p>De l'esclavage des nègres</p>
+<p>Le sucre serait trop cher, si l'on ne faisoit travailler la plante qui
+le produit par des esclaves.</p>
+<p>On ne peut se mettre dans l'esprit que Dieu, qui est un être très sage,
+ait mis une âme, surtout une âme bonne, dans un corps tout noir.</p>
+<p>Il est si naturel de penser que c'est la couleur qui constitue l'essence
+de l'humanité, que les peuples d'Asie, qui font des eunuques, privent
+toujours les noirs du rapport qu'ils ont avec nous d'une façon plus
+marquée,</p>
+<p><pb/></p>
+<p>On peut juger de la couleur de la peau par celle des cheveux, qui, chez
+les Égyptiens, les meilleurs philosophes du monde, étoit d'une si grande
+conséquence, qu'ils faisoient mourir tous les hommes roux qui leur
+tomboient entre les mains.</p>
+<p>Une preuve que les nègres n'ont pas le sens commun c'est qu'ils font
+plus de cas d'un collier de verre que de l'or, qui, chez des nations
+policées, est d'une si grande conséquence.</p>
+<p>De petits esprits exagèrent trop l'injustice que l'on fait aux Africains
+car, si elle était telle qu'ils le disent, ne serait-il pas venu dans la
+tête des princes d'Europe, qui font entre eux tant de conventions
+inutiles, d'en faire une générale en faveur de la miséricorde et de la
+pitié ? CHAPITRE VII</p>
+<p>A utrel origine du droit de l'esclavage</p>
+<p>i. Au ch. vi, Montesquieu a donné « la véritable origine du droit de
+l'esclavage », l'origine raisonnable et fondée sur la nature des choses
+(Ed.). »</p>
+<p><pb/></p>
+<p>Aristote! veut prouver qu'il y a des esclaves par nature et ce qu'il dit
+ne le prouve guère. Je crois que, s'il y en a de tels, ce sont ceux dont
+je viens de parler.</p>
+<p>Mais, comme tous les hommes naissent égaux, il faut dire que l'esclavage
+est contre la nature, quoique dans certains pays il soit fondé sur une
+raison naturelle et il faut bien distinguer ces pays d'avec ceux où les
+raisons naturelles mêmes le rejettent, comme les pays d'Europe, où il a
+été si heureusement aboli.</p>
+<p>Plutarque nous dit, dans la vie de Numa, que, du temps de Saturne, il
+n'y avait ni maître, ni esclave. Dans nos climats, le christianisme a
+ramené cet âge. CHAPITRE VIII</p>
+<p>Inutilité de l'esclavage parmi nous</p>
+<p>1. Politique, liv. I, chap., i (M).</p>
+<p><pb/></p>
+<p>Je ne sais si c'est l'esprit ou le coeur qui me dicte cet article-ci. Il
+n'y a peut-être pas de climat sur la terre oîi l'on ne pût engager au
+travail des hommes ilbres. Parce que les lois étaient mal faites, on a
+trouvé des hommes paresseux parce que ces hommes étoient paresseux, on
+les a mis dans l'esclavage.</p>
+<p>Il</p>
+<p><pb/></p>
+<p>CHAPITRE IX</p>
+<p>Des nations chez lesquelles la liberté civile</p>
+<p>est généralement établie</p>
+<p>On entend dire tous les jours qu'il serait bon que parmi nous il y eût
+des esclaves.</p>
+<p>Chapitre IX. Le chapitre VIII manque dans 1748.</p>
+<p><pb/></p>
+<p>LIVRE XVII</p>
+<p>COMMENT LES LOIS DE LA SERVITUDE POLITIQUE ONT DU RAPPORT AVEC LA NATURE
+DU CLIMAT</p>
+<p>CHAPITRE VI</p>
+<p>Nouvelle cause physique de la servitude de l'Asie et de la liberté de
+l'Europe</p>
+<p>En Asie, on a toujours vu de grands empires en Europe, ils n'ont jamais
+pu subsister. C'est que l'Asie que nous connaissons a de plus grandes
+plaines elle est coupée en plus grands morceaux par les mers et* comme
+elle est plus au midi, les sources y sont plus aisément taries, les
+montagnes y sont moins couvertes de neiges, et les fleuves moins
+grossisl y forment de moindres barrières. La puissance doit donc être
+toujours despotique en Asie; car, si la servitude n'y étoit pas extrême,
+il se feroit d'abord un partage que la nature du pays ne peut pas
+souffrir. En Europe, le partage naturel forme plusieurs états d'une
+étendue médiocre, dans lesquels le gouvernement des lois n'est pas
+incompatible avec le maintien de l'état au Ligne 10. 1748 par] les
+montagnes et [les mers.</p>
+<p>i. Les eaux se perdent ou s'évaporent avant de se ramasser, ou après
+s'être ramassées (M.)</p>
+<p><pb/></p>
+<p>Au contraire, il règne en Asie un esprit de servitude qui ne l'a jamais
+quittée et, dans toutes les histoires de ce pays, il n'est pas possible
+de trouver un seul trait qui marque une âme libre on n'y verra jamais
+que l'héroïsme de la servitude.</p>
+<p>0. LANSON</p>
+<p><pb/></p>
+<p>LIVRE DIX-NEUVIÈME</p>
+<p>DES LOIS DANS LE RAPPORT QU'ELLES ONT</p>
+<p>AVEC LES PRINCIPES QUI FORMENT L'ESPRIT GÉNÉRAL LES MŒURS ET LES
+MANIÈRES D'UNE NATION CHAPITRE IV</p>
+<p>Ce que c'est que l'esprit général</p>
+<p>Plusieurs choses gouvernent les hommes le climat, la religion, les lois,
+les maximes du gouvernement, les exemples des choses passées, les mœurs,
+les manières d'où il se forme un esprit général qui en résulte.</p>
+<p>A mesure que, dans chaque nation, une de ces causes agit avec plus de
+force, les autres lui cèdent d'autant. La nature et le climat dominent
+presque seuls sur les sauvages les manières gouvernent les Chinois les
+lois tyrannisent le Japon les mœurs donnoient autrefois le ton dans
+Lacédémone les maximes du gouvernement et les mœurs anciennes le
+donnoient dans Rome.</p>
+<p><pb/></p>
+<p>CHAPITRE V</p>
+<p><pb/></p>
+<p>CHAPITRE VI</p>
+<p>Qu'il ne faut pas tout corriger</p>
+<p>CHAPITRE IX</p>
+<p>De la vanité et de l'orgueil des nations</p>
+<p><pb/></p>
+<p>CHAPITRE X</p>
+<p>Du caractère des Espagnols et de celui des Chinois Les divers caractères
+des nations sont mêlés de vertus et de vices, de bonnes et de mauvaises
+qualités. Les heureux mélanges sont ceux dont il résulte de grands
+biens, et souvent on ne les soupçonneroit pas il y en a dont il résulte
+de grands maux, et qu'on ne soupçonneroit pas non plus.</p>
+<p>a. Liv. XL.ÏII (M).</p>
+<p><pb/></p>
+<p>CHAPITRE XI</p>
+<p>Réflexion</p>
+<p>CHAPITRE XXVII</p>
+<p>i. Par la nature du climat et du terrain (M).</p>
+<p>2. I&lt;e P. Du Halde, tome II (M).</p>
+<p><pb/></p>
+<p>J'ai parlé, au livre XI', d'un peuple libre j'ai donné les principes de
+sa constitution voyons les effets qui ont dû suivre, le caractère qui a
+pu s'en former, et les manières qui en résultent. ·</p>
+<p>Toutes les passions y étant libres, la haine, l'envie, la jalousie,
+l'ardeur de s'enrichir et de se distinguer, paroîtroient dans toute leur
+étendue et, si cela étoit autrement, l'état seroit comme un homme abattu
+par la maladie, qui n'a point de passions parce qu'il n'a point de
+forces. La haine qui seroit entre les deux partis dureroit, parce
+qu'elle seroit toujours impuissante.</p>
+<p>Ligne 2. 1748 qui] en [ont dû suivre.</p>
+<p>i. Ch. vi.</p>
+<p><pb/></p>
+<p>On craint de voir échapper un bien que l'on sent, que l'on ne connoît
+guère, et qu'on peut nous déguiser et la crainte grossit toujours les
+objets. Le peuple serait inquiet sur sa situation, et croiroit être en
+danger dans les moments même les plus sûrs.</p>
+<p>I&lt;igue 19. 1748 et que] l'[on.</p>
+<p><pb/></p>
+<p>IO</p>
+<p>&lt;&lt;</p>
+<p>Mais le corps législatif ayant la confiance du peuple, et étant plus
+éclairé que lui, il pourroit le faire revenir des mauvaises impressions
+qu'on lui auroit données, et calmer ces mouvements.</p>
+<p>Bientôt on verroit un calme affreux, pendant lequel tout se réuniroit
+contre la puissance violatrice des lois. Si, dans le cas où les
+inquiétudes n'ont pas d'objet certain, quelque puissance étrangère
+menaçoit l'état, et le mettoit en danger de sa fortune ou de sa gloire,
+pour lors, les petits intérêts cédant aux plus grands, tout se réuniroit
+ en faveur de la puissance exécutrice.</p>
+<p>Teigne 4. 1748 calmer] ses [mouvements,</p>
+<p>Ligne 8. 1748 des effets.</p>
+<p><pb/></p>
+<p>révolutions que forme la liberté ne sont qu'une confirmation de la liberté.</p>
+<p>Comme, pour jouir de la liberté, il faut que chacun puisse dire ce qu'il
+pense et que, pour la conserver, il faut encore que chacun puisse dire
+ce qu'il pense, un citoyen, dans cet état, diroit et écriroit tout ce
+que les lois ne lui ont pas défendu expressément de dire ou d'écrire.</p>
+<p>Il</p>
+<p><pb/></p>
+<p>elle-même, et se paieroit elle-même. Il pourrait arriver qu'elle
+entreprendroit au-dessus de ses forces naturelles, et feroit valoir
+contre ses ennemis d'immenses richesses de fiction, que la confiance et
+la nature de son gouvernement rendroient réelles.</p>
+<p>Pour conserver sa liberté, elle emprunteroit de ses sujets, et ses
+sujets, qui verroient que son crédit seroit perdu si elle étoit
+conquise, auraient un nouveau motif de faire des efforts pour défendre
+sa liberté.</p>
+<p>Si cette nation habitait une île, elle ne seroit point conquérante,
+parce que des conquêtes séparées l'affaibliroient. Si le terrain de
+cette île était bon, elle le seroit encore moins, parce qu'elle n'auroit
+pas besoin de la guerre pour s'enrichir. Et, comme aucun citoyen ne
+dépendroit d'un autre citoyen, chacun feroit plus de cas de sa liberté
+que de la gloire de quelques citoyens ou d'un seul.</p>
+<p>Si cette nation étoit située vers le nord, et qu'elle eût un grand
+nombre de denrées superflues, comme elle manqueroit aussi d'un grand
+nombre de marchandises que son cli-</p>
+<p><pb/></p>
+<p>mat lui refuseroit, elle feroit un commerce nécessaire, mais grand, avec
+les peuples du midi et, choisissant les états qu'elle favoriseroit d'un
+commerce avantageux, elle feroit des traités réciproquement utiles avec
+la nation qu'elle auroit choisie.</p>
+<p>Dans un état où d'un côté l'opulence seroit extrême, et de l'autre les
+impôts excessifs, on ne pourroit guère vivre sans industrie avec une
+fortune bornée. Bien des gens, sous prétexte de voyages ou de santé,
+s'exileraient de chez eux, et iroient chercher l'abondance dans les pays
+de la servitude même.</p>
+<p><pb/></p>
+<p>L'empire de la mer a toujours donné aux peuples qui l'ont possédé une
+fierté naturelle, parce que, se sentant capables d'insulter partout, ils
+croient que leur pouvoir n'a pas plus de bornes que l'océan.</p>
+<p>Ainsi, ce serait le destin de la puissance exécutrice d'être presque
+toujours inquiétée au dedans, et respectée au dehors.</p>
+<p>S'il arrivoit que cette nation devînt en quelques occa-</p>
+<p><pb/></p>
+<p>De plus, comme ils seroient en quelque façon garants des événements
+qu'une conduite détournée pourroit faire naître, le plus sûr pour eux
+seroit de prendre le plus droit chemin.</p>
+<p>A l'égard de la religion, comme dans cet état chaque citoyen auroit sa
+volonté propre, et seroit par conséquent conduit par ses propres
+lumières, ou ses fantaisies, il arriverait, ou que chacun auroit
+beaucoup d'indifférence pour toutes sortes de religions, de quelque
+espèce qu'elles fussent, moyennant quoi tout le monde seroit porté à
+embrasser la religion dominante ou que l'on seroit zélé pour la religion
+en général, moyennant quoi les sectes se multiplieroient.</p>
+<p>Il ne seroit pas impossible qu'il y eût dans cette nation</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>I</p>
+<p>mieux laisser sa réforme imparfaite que de souffrir qu'il fût réformateur.</p>
+<p>Les dignités, faisant partie de la constitution fondamentale, seroient
+plus fixes qu'ailleurs mais, d'un autre côté, les grands, dans ce pays
+de liberté, s'approcheroient plus du peuple les rangs seroient donc plus
+séparés, et les personnes plus confondues.</p>
+<p>Ceux qui gouvernent, ayant une puissance qui se remonte, pour ainsi
+dire, et se refait tous les jours, auroient plus d'égard pour ceux qui
+leur sont utiles que pour ceux qui les divertissent ainsi, on y verroit
+peu de courtisans, de flatteurs, de complaisants, enfin de toutes ces
+sortes de gens qui font payer aux grands le vide même de leur esprit. On
+n'y estimeroit guère les hommes par des talents ou des attributs
+frivoles, mais par des qualités réelles et de ce genre il n'y en a que
+deux les richesses et le mérite personnel.</p>
+<p>Il y auroit un luxe solide, fondé, non pas sur le raffinement de la
+vanité, mais sur celui des besoins réels et l'on ne chercheroit guère
+dans les choses que les plaisirs que la nature y a mis.</p>
+<p>On y jouiroit d'un grand superflu, et cependant les choses frivoles y
+seroient proscrites ainsi, plusieurs, ayant plus de bien que d'occasions
+de dépense, l'emploieroient d'une manière bizarre et dans cette nation
+il y auroit plus d'esprit que de goût.</p>
+<p>Comme on seroit toujours occupé de ses intérêts on n'auroit point cette
+politesse qui est fondée sur l'oisiveté et réellement on n'en auroit pas
+le temps.</p>
+<p>Joigne 24. 1748 dépenser.</p>
+<p><pb/></p>
+<p>L'époque de la politesse des Romains est la même que celle de
+l'établissement du pouvoir arbitraire. Le gouvernement absolu produit
+l'oisiveté, et l'oisiveté fait naître la politesse.</p>
+<p>Plus il y a de gens dans une nation qui ont besoin d'avoir des
+ménagements entre eux et de ne pas déplaire, plus il y a de politesse.
+Mais c'est plus la politesse des mœurs que celle des manières qui doit
+nous distinguer des peuples barbares. &gt;</p>
+<p>Les lois n'y étant pas faites pour un particulier plus que pour un
+autre, chacun se regarderoit comme monarque et les hommes, dans cette
+nation, seroient plutôt des confédérés que des concitoyens.</p>
+<p>(1. LANSON</p>
+<p><pb/></p>
+<p>De même, dans un gouvernement despotique, il est également pernicieux
+qu'on raisonne bien ou mal il suffit qu'on raisonne pour que le principe
+du gouvernement soit choqué.</p>
+<p>Aucun citoyen ne craignant aucun citoyen, cette nation serait fière car
+la fierté des rois n'est fondée que sur leur indépendance.</p>
+<p>Les nations libres sont superbes, les autres peuvent plus aisément être
+vaines.</p>
+<p>Mais ces hommes si fiers, vivant beaucoup avec euxmêmes, se trouveroient
+souvent au milieu de gens inconnus ils seroient timides, et l'on verroit
+en eux, la plupart du temps, un mélange bizarre de mauvaise honte et de
+fierté.</p>
+<p>Le caractère de la nation paraîtroit surtout dans leurs ouvrages
+d'esprit, dans lesquels on verroit des gens recueillis, et qui auraient
+pensé tout seuls.</p>
+<p>Dans les monarchies extrêmement absolues, les historiens trahissent la
+vérité, parce qu'ils n'ont pas la liberté de Ligne 22. 1748 qui
+[auraient pensé.</p>
+<p>ï,ign&lt;» -&gt;4. 1748 nous rend plus]] propre.</p>
+<p><pb/></p>
+<p>la dire dans les états extrêmement libres, ils trahissent la vérité, à
+cause de leur liberté même, qui produisant toujours des divisions,
+chacun devient aussi esclave des préjugés de sa faction qu'il le seroit
+d'un despote. Leurs poètes auroient plus souvent cette rudesse originale
+de l'invention qu'une certaine délicatesse que donne le goût on y
+trouveroit quelque chose qui approcheroit plus de la force de
+Michel-Ange que de la grâce de Raphaël. I,igne 3. 1748 les [divisions
+1748 chacun] deviendroit.</p>
+<p><pb/></p>
+<p>DES LOIS, DANS LE RAPPORT QU'ELLES ONT</p>
+<p>AVEC LE COMMERCE CONSIDÉRÉ</p>
+<p>DANS SA NATURE ET SES DISTINCTIONS</p>
+<p>LIVRE VINGTIÈME</p>
+<p>CHAPITRE II</p>
+<p>De l'esprit du commerce</p>
+<p><pb/></p>
+<p>ne discute pas toujours ses intérêt avec rigidité, et qu'on peut les
+négliger pour ceux des autres.</p>
+<p>CHAPITRE VII</p>
+<p>Esprit de l'Angleterre sur le commerce</p>
+<p>I,igne 18. 1748 Intérêts] de [commerce.</p>
+<p><pb/></p>
+<p>CHAPITRE XII</p>
+<p>De la liberté du commerce</p>
+<p>La liberté du commerce n'est pas une faculté accordée aux négociants de
+faire ce qu'ils veulent ce seroit bien plutôt sa servitude. Ce qui gêne
+le commerçant ne gêne pas pour cela le commerce. C'est dans les pays de
+la liberté que le négociant trouve des contradictions sans nombre, et il
+n'est jamais moins croisé par les lois que dans les pays de la servitude.</p>
+<p>L'Angleterre défend de faire sortir ses laines elle veut que le charbon
+soit transporté par mer dans la capitale elle ne permet point la sortie
+de ses chevaux s'ils ne sont coupés les vaisseaux1 de ses colonies qui
+commercent en Europe doivent mouiller en Angleterre. Elle gêne le
+négociant, mais c'est en faveur du commerce.</p>
+<p>CHAPITRE XIII</p>
+<p>Ce qui détruit cette liberté</p>
+<p>«</p>
+<p><pb/></p>
+<p>dises en faveur de l'état et l'objet des douanes est un certain droit
+sur cette même exportation, aussi en faveur de l'état. Il faut donc que
+l'état soit neutre entre sa douane et son commerce, et qu'il fasse en
+sorte que ces deux choses ne se croisent point et alors on y jouit de la
+liberté du commerce.</p>
+<p>La finance détruit le commerce par ses injustices, par ses vexations,
+par l'excès de ce qu'elle impose mais elle le détruit encore,
+indépendamment de cela, par les difficultés qu'elle fait naître et les
+formalités qu'elle exige. En Angleterre, où les douanes sont en régie,
+il y a une facilité de négocier singulière un mot d'écriture fait les
+plus A grandes affaires il ne faut point que le marchand perde un temps
+infini, et qu'il ait des commis exprès pour faire cesser toutes les
+difficultés des fermiers, ou pour s'y soumettrel.</p>
+<p>CHAPITRE XIV</p>
+<p>Des lois de commerce qui emportent la confiscation des marchandises</p>
+<p>Ligne 2. 1748 et importation (omission fautive dans 1758) – 1748 ne
+donne pas le mot aussi.</p>
+<p>Ligne 14. 1748 ni [qu'il ait des commis.</p>
+<p>x. Les réflexions de ce dernier paragraphe visent la France (Ed.).</p>
+<p><pb/></p>
+<p>Il est beau que la nation anglaise ait fait de cela un des articles de
+sa liberté.</p>
+<p>Dans la guerre que l'Espagne eut avec les Anglais en 1740, elle fit une
+loil qui punissoit de mort ceux qui introduiroient dans les états
+d'Espagne des marchandises d'Angleterre elle infligeoit la même peine à
+ceux qui porteroient dans les états d'Angleterre des marchandises
+d'Espagne. Une ordonnance pareille ne peut, je crois, trouver de modèle
+que dans les lois du Japon. Elle choque nos mœurs, l'esprit du commerce,
+et l'harmonie qui doit être dans la' proportion des peines elle confond
+toutes les idées, faisant un crime d'état de ce qui n'est qu'une
+violation de police.</p>
+<p>CHAPITRE XXI</p>
+<p>Du commerce de la noblesse dans la monarchie Il est contre l'esprit du
+commerce que la noblesse le fasse dans la monarchie.</p>
+<p>Titre. 1748 XIX, XII et XXI (au lieu de XXI, XXII, XXIII). Titre. 1748:
+Du commerce dans la Monarchie (omettant les mots de la Noblesse.) Ligne
+20. 1748 qui] a [le plus contribué.</p>
+<p><pb/></p>
+<p>CHAPITRE XXII</p>
+<p>Réflexion particulière</p>
+<p>Qu'on ne dise pas que chacun fera mieux sa profession lorsqu'on ne
+pourra pas la quitter pour une autre. Je dis qu'on fera mieux sa
+profession lorsque ceux qui y auront excellé espéreront de parvenir à
+une autre.</p>
+<p>Ligne 9. 1748 sans avoir (en omis).</p>
+<p>1. Effectivement cela y est souvent ainsi établi (M).</p>
+<p><pb/></p>
+<p>état d'y parvenir. Je n'examine pas si l'on fait bien de donner ainsi
+aux richesses le prix de la vertu il y a tel gouvernement où cela peut
+être très utile.</p>
+<p>I,igne 10. 1748 possession [honorable (leçon qui fait non-sens).</p>
+<p><pb/></p>
+<p>CHAPITRE XXIII</p>
+<p>A quelles nations il est désavantageux</p>
+<p>de faire le commerce</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>LIVRE VINGT-ET-UNIÈME</p>
+<p>DES LOIS, DANS LE RAPPORT QU'ELLES ONT</p>
+<p>AVEC LE COMMERCE, CONSIDÉRÉ DANS LES RÉVOLUTIONS QU'IL A EUES DANS LE MONDE</p>
+<p>CHAPITRE IV</p>
+<p>jPf~C~~ ~MC~ du commerce des anciens</p>
+<p>d'avec celui ~OM~</p>
+<p>Le monde se met de temps en temps dans des situations qui changent le
+commerce. Aujourd'hui le commerce de l'Europe se fait principalement du
+nord au midi. Pour lors la différence des climats fait que les peuples
+ont un grand besoin de marchandises les uns des autres. Par exemple, les
+boissons du midi portées au nord forment une espèce de commerce que les
+anciens n'avoient guère. Aussi la capacité des vaisseaux, qui se
+mesuroit autrefois par muids de blé, se mesure-t-elle aujourd'hui par
+tonneaux de liqueur.</p>
+<p><pb/></p>
+<p>CHAPITRE V</p>
+<p>Autres ~MC~S</p>
+<p>CHAPITRE XI</p>
+<p>Carthage et Marseille</p>
+<p>Carthage avoit un singulier droit des gens elle faisoit noyer~ tous les
+étrangers qui trafiquaient en Sardaigne et vers les colonnes d'Hercule.
+Son droit politique n'était pas (Titre) 1748 Chapitre VIII.</p>
+<p>i. Eratosthéne, dans Strabon, Mb. XVII, page 802 (M).</p>
+<p><pb/></p>
+<p>i. Voyez sou Périple, article de Carthage (M).</p>
+<p><pb/></p>
+<p>10</p>
+<p>i5</p>
+<p>20</p>
+<p>25</p>
+<p>5</p>
+<p>la témérité pour objet avec ce qui est l'effet d'une conduite ordinaire.</p>
+<p>Hannon remarqua sur sa flotte que le jour il régnoit dans le continent
+un vaste silence que la nuit on entendoit les sons de divers instruments
+de musique; et qu'on voyoit. partout des feux, les uns plus grands, les
+autres moindresl, Nos relations confirment ceci on y trouve que le jour
+ces sauvages, pour éviter l'ardeur du soleil, se retirent dans les
+forêts que la nuit ils font de grands feux pour écarter les bêtes
+féroces, et qu'ils aiment passionnément la danse et les instruments de
+musique.</p>
+<p><pb/></p>
+<p>Les Carthaginois étoient sur le chemin des richesses et, s'ils avoient
+été jusqu'au quatrième degré de latitude nord et au quinzième de
+longitude, ils auroient découvert la côte d'Or et les côtes voisines.
+Ils y auroient fait un commerce i. M. Dowde!. Voyez sa DMM~tOM sur le
+Périple (~HawtOM (M). I~igne 22.1748 parce qu'il n'y en a point.</p>
+<p>n. LANsnN</p>
+<p><pb/></p>
+<p>de toute autre importance que celui qu'on y fait, aujourd'hui que
+l'Amérique semble avoir avili les richesses de tous les autres pays ils
+y auroient trouvé des trésors qui ne pouvaient être enlevés par les
+Romains.</p>
+<p>3. Uvre VI (M).</p>
+<p>3. Il paraît par Pline que cet Ilimilcon fut envoyé en même temps
+qu'Hannott, et comme du temps d'Agathocle il y avait un Hannon et un
+Himilcon tous deux chefs des Carthiginois, M. Dodwel conjecture que ce
+sont les mêmes, d'autant plus que pour lors le République étoit
+florissante. Voyez sa dissertation sur le Périple ~Ha~ttOM (M).</p>
+<p>4. Voyez Festus Avienus (M).</p>
+<p><pb/></p>
+<p>Ligne 16. 174.8 et non une.</p>
+<p>t. STRABON, liv. 111, sur la fin (M).</p>
+<p>2. Il en fut récompense par le sénat de Carthage (M).</p>
+<p>3. TiTB-I~VE, -SM~eM&lt;!M&lt; de F~tM~e~MMS, seconde décade, liv. VI (M). 4.
+POLYBE, liv. III (M).</p>
+<p>5. Dans la partie sujette aux Carthaginois (M).</p>
+<p><pb/></p>
+<p>thage exception qui fait voir qu'on ne leur y préparoit pas un commerce
+avantageux.</p>
+<p><pb/></p>
+<p>CHAPITRE XX</p>
+<p>Comment le commerce se fit jour en E~&lt;?</p>
+<p>I,igne 19. 1748 par leurs] actions (sans doute faute typographique pour
+exactions).</p>
+<p>i. Voyez Aristote, .PoM&lt;~tM, !iv. I, chap. ix et x (M).</p>
+<p>2. Voyez, dans Marca Hispanica, les constitutions d'Aragon des années
+1228 et 1231 et, dans Brusset, l'accord de l'année 1206, passé entre le
+roi, la comtesse de Champagne, et Gui de Dampierre (M),</p>
+<p><pb/></p>
+<p>par les princes avec la même tyrannie chose qui consoloit les peuples,
+et ne les soulageoit pas.</p>
+<p>Joigne 14. 1748 Juifs] on ne les regardoit.</p>
+<p>i. SLOWE, Mt his Survey of London, liv. III, page 54 (M).</p>
+<p>3. En France, les Juifs étoient serfs, mainmortables. et les seigneurs
+leur tuccedoient. M. Drussel rapporte un accord de l'an 1206, entre le
+roi et Thibaut, 'omte de Champagne, par lequel il étoit convenu que les
+Juifs de l'un ne prête'oient point dans les terres de l'autre (M).</p>
+<p>«</p>
+<p><pb/></p>
+<p>Les théologiens furent obligés de restreindre leurs principes et le
+commerce, qu'on avoit violemment lié avec la mauvaise foi, rentra, pour
+ainsi dire, dans le sein de la probité.</p>
+<p>Ainsi nous devons aux spéculations des scolastiques tous les malheurs2
+qui ont accompagné la destruction du comNote 2. 1~48 Cette note manque
+dans 1748.</p>
+<p>2. Voyez, dans le Corps du Droit, la quatre-vingt-troisième Novelle de
+I&lt;éon, qui révoque la loi de Basile, son père. Cette loi de Basile est
+dans Herménopule, sous le nom de I~éon. Iiv. III, tit. vu, § 27 (M).</p>
+<p><pb/></p>
+<p>Et il est heureux pour les hommes d'être dans une situation où, pendant
+que leurs passions leur inspirent la pensée d'être méchants, ils ont
+pourtant intérêt de ne pas l'être.</p>
+<p>CHAPITRE XXI</p>
+<p>Découverte de deux nouveaux mondes;</p>
+<p>état de /'EWO~ cet égard</p>
+<p>La boussole ouvrit pour ainsi dire l'univers. On trouva l'Asie et
+l'Afrique, dont on ne connaissoit que quelques bords et l'Amérique, dont
+on ne connaissoit rien du tout. Les Portugais, naviguant sur l'Océan
+Atlantique, découvrirent la pointe la plus méridionale de l'Afrique ils
+virent une vaste mer elle les porta aux Indes orientales. Leurs Joigne
+13-16. 1748 omet les wo&lt;s la peusée.</p>
+<p><pb/></p>
+<p>périls sur cette mer, et la découverte de Mozambique, de Mélinde et de
+Calicut ont été chantés par le Camoëns, dont le poème fait sentir
+quelque chose des charmes de l'Odyssée et de la magnificence de l'Enéide.</p>
+<p>Les Portugais trafiquèrent aux Indes en conquérants. Les lois gênantes~
+que les Hollandais imposent aujourd'hui aux petits princes indiens sur
+le commerce, les Portugais les avoient établies avant eux.</p>
+<p>Christophe Colomb découvrit l'Amérique et, quoique l'Espagne n'y envoyât
+point de forces qu'un petit prince de l'Europe n'eût pu y envoyer tout
+de même, elle soumit deux grands empires et d'autres grands états.</p>
+<p>I~igne 13. 1748 qu']accessoire.</p>
+<p>t. Voyez la Relation de François Pirard, deuxième partie, chap. xv (M).</p>
+<p><pb/></p>
+<p>Pendant que les Espagnols découvroient et conquéroient du côté de
+l'occident, les Portugais poussoient leurs conquêtes et leurs
+découvertes du côté de l'orient ces deux nations se rencontrèrent elles
+eurent recours au pape Alexandre VI, qui fit la célèbre ligne de
+démarcation, et jugea un grand procès.</p>
+<p>I~gne 20. 1748 dont on ne trouve] guère d'exemple.</p>
+<p>x. I&lt;€S Anglais, les Français (Ed.).</p>
+<p><pb/></p>
+<p>la colonie et cela avec grande raison, parce que le but de
+l'établissement a été l'extension du commerce, non la fondation d'une
+ville ou d'un nouvel empire. Ainsi, c'est encore une loi fondamentale de
+l'Europe que tout commerce avec une colonie étrangère est regardé comme
+un pur monopole punissable par les lois des pays et il ne faut pas juger
+de cela par les lois et les exemples des anciens~ peuples, qui n'y sont
+guère applicables. Il est encore reçu que le commerce établi entre les
+métropoles n'entraîne point une permission pour les colonies, qui
+restent toujours en état de prohibition. Le désavantage des colonies qui
+perdent la liberté du commerce est visiblement compensé par la
+protection de la métropole2, qui la3 défend par ses armes ou la
+maintient par ses lois.</p>
+<p>2. Métropole est, dans le langage des anciens, l'état qui a fondé la
+colonie (M). 3. La, c'est telle ou telle colonie, impliqué dans le
+pluriel colonies (Ed.). 4. POLYBE, liv. III (M).</p>
+<p><pb/></p>
+<p>comme les Grecs avoient exigé du roi de Perse qu'il se tiendroit
+toujours éloigné des côtes de la mer~ de la carrière d'un cheval.</p>
+<p>L'extrême éloignement de nos colonies n'est point un inconvénient pour
+leur sûreté car, si la métropole est éloignée pour les défendre, les
+nations rivales de la métropole ne sont pas moins éloignées pour les
+conquérir. De plus cet éloignement fait que ceux qui vont s'y établir ne
+peuvent prendre la manière de vivre d'un climat si différent ils sont
+obligés de tirer toutes les commodités de la vie du pays d'où ils sont
+venus. Les Carthaginois2, pour rendre les Sardes et les Corses plus
+dépendants, leur avoient défendu, sous peine de la vie, de planter, de
+semer et de faire rien de semblable ils leur envoyaient d'Afrique des
+vivres. Nous sommes parvenus au même point, sans faire des lois si
+dures. Nos colonies des îles Antilles sont admirables elles ont des
+objets de commerce que nous n'avons ni ne pouvons avoir elles manquent
+de ce qui fait l'objet du nôtre.</p>
+<p>2. ARISTOTE, des Choses merveilleuses TiTE-IjVE, liv. VII de la seconde
+décade (M).</p>
+<p>tt</p>
+<p><pb/></p>
+<p>Enfin, la navigation d'Afrique devint nécessaire elle fournissoit des
+hommes pour le travail des mines et des terres de l'Amérique.</p>
+<p>i. T. II, p. iyo (M).</p>
+<p><pb/></p>
+<p>LIVRE VINGT-TROISIÈME</p>
+<p>DES LOIS, DANS LE RAPPORT QU'ELLES ONT</p>
+<p>AVEC LE NOMBRE D'HABITANTS</p>
+<p>CHAPITRE XV</p>
+<p>Ligne 11. 1748 omet anciennes.</p>
+<p>Ligne 12. 1748 ou [les fonds de terre.</p>
+<p><pb/></p>
+<p>CHAPITRE XXVII</p>
+<p>De la loi /&lt;~&lt;' en France pour encourager la propagation de ~S~C&lt;?</p>
+<p>i. Edit de 1666, en faveur des mariages (M).</p>
+<p><pb/></p>
+<p>CHAPITRE XXVIII</p>
+<p><pb/></p>
+<p>11</p>
+<p>Des hôpitaux</p>
+<p>a. t~NSON</p>
+<p><pb/></p>
+<p>Les richesses d'un état supposent beaucoup d'industrie. Il n'est pas
+possible que, dans un si grand nombre de branches de commerce, il n'y en
+ait toujours quelqu'une qui souffre, et dont par conséquent les ouvriers
+ne soient dans une nécessité momentanée.</p>
+<p>C'est pour lors que l'état a besoin d'apporter un prQmpt secours, soit
+pour empêcher le peuple de souffrir, soit pour éviter qu'il ne se
+révolte c'est dans ce cas qu'il faut des hôpitaux, ou quelque règlement
+équivalent:, qui puisse prévenir cette misère.</p>
+<p>Mais quand la nation est pauvre, la pauvreté particulière dérive de la
+misère générale et elle est, pour ainsi dire, la misère générale. Tous
+les hôpitaux du monde ne sauraient guérir cette pauvreté particulière au
+contraire, l'esprit de paresse qu'ils inspirent augmente la pauvreté
+générale, et par conséquent la particulière.</p>
+<p>t. Voyez i'x/0!~&lt;; &lt;/f' lit A'&lt;(~t&lt;' (/M~/f/tY&lt; par M. BnuM.t (M).</p>
+<p><pb/></p>
+<p>Joigne n. 1748 ci] qu'ils.</p>
+<p><pb/></p>
+<p>LIVRE VINGT-QUATRIÈME</p>
+<p>DES LOIS DANS LE RAPPORT QU'ELLES ONT AVEC LA RELIGION ÉTABLIE DANS
+CHAQUE PAYS, CONSIDÉRÉE DANS SES PRATIQUES ET EN ELLE-MÊME.</p>
+<p>CHAPITRE III</p>
+<p>Que le gouvernement modéré convient mieux</p>
+<p>d la religion chrétienne, et le gouvernement despotique mahométane</p>
+<p>Pendant que les princes mahométans donnent sans cesse la mort ou la
+reçoivent, la religion, chez les chrétiens, rend les princes moins
+timides, et par conséquent moins cruels. Le prince compte sur ses
+sujets, et les sujets sur le Titre. t~K dogmes (aw M&lt;M &lt;&lt;e pratiques).</p>
+<p><pb/></p>
+<p>prince. Chose admirable la religion chrétienne, qui ne semble avoir
+d'objet que la félicité de l'autre vie, fait encore notre bonheur dans
+celle-ci.</p>
+<p>C'est la religion chrétienne qui, malgré la grandeur de l'empire et le
+vice du climat, a empêché le despotisme de s'établir en Ethiopie, et a
+porté au milieu de l'Afrique les mœurs de l'Europe et ses lois.</p>
+<p>C'est ce droit des gens qui fait que, parmi nous, la victoire laisse aux
+peuples vaincus ces grandes choses, la vie, la liberté, les lois, les
+biens, et toujours la religion, lorsqu'on ne s'aveugle pas soi-même.</p>
+<p>On peut dire que les peuples de l'Europe ne sont pas Ligne lo-n. faire]
+renfermer.</p>
+<p>Ligne Ti. Sennao.</p>
+<p>Note. 1748 Poncet.</p>
+<p>i. Relation &lt;&lt;E~&lt;&lt;~&lt; par le sieur Ponce, médecin, au quatrième recueU de
+Z.&lt;-MfM AM/ta~M (M).</p>
+<p><pb/></p>
+<p>aujourd'hui plus désunis que ne l'étoient dans l'empire romain devenu
+despotique et militaire les peuples et les armées, ou que ne l'étoient
+les armées entre elles d'un côté, les armées se faisoient la guerre et
+de l'autre, on leur donnoit le pillage des villes et le partage ou la
+confiscation des terres.</p>
+<p>CHAPITRE V</p>
+<p>Que la ~t~K?M catholique COMM~ ~~M~</p>
+<p>$'a!CCO~MMO~ ~t~M~ d'une république</p>
+<p>Lorsqu'une religion naît et se forme dans un état, elle suit
+ordinairement le plan du gouvernement où elle est établie car les hommes
+qui la reçoivent et ceux qui la font recevoir n'ont guère d'autres idées
+de police que celles de l'état dans lequel ils sont nés.</p>
+<p>Quand la religion chrétienne souffrit, il y a deux siècles, ce
+malheureux partage qui la divisa en catholique et en protestante, les
+peuples du nord embrassèrent la protestante, et ceux du midi gardèrent
+la catholique. C'est que les peuples du nord ont et auront toujours un
+esprit d'indépendance et de liberté que n'ont pas les peuples du midi et
+qu'une religion qui n'a point de chef visible convient mieux à
+l'indépendance du climat que celle qui en a un.</p>
+<p>Dans les pays mêmes où la religion protestante s'établit, les
+révolutions se firent sur le plan de l'état politique. Luther, ayant
+pour lui de grands princes, n'auroit guère pu leur faire goûter une
+autorité ecclésiastique qui n'auroit</p>
+<p><pb/></p>
+<p>point eu de prééminence extérieure et Calvin, ayant pour lui des peuples
+qui vivoient dans des républiques, ou des bourgeois obscurcis dans des
+monarchies, pouvait fort bien ne pas établir des prééminences et des
+dignités.</p>
+<p>CHAPITRE VII</p>
+<p>Des lois de /C~O~ dans la religion</p>
+<p>Quand, par exemple, elle donne des règles, non pas pour le bien, mais
+pour le meilleur non pas pour ce qui est bon, mais pour ce qui est
+parfait, il est convenable que ce soient des conseils, et non pas des
+lois car la perfection ne regarde pas l'universalité des hommes ni des
+choses. De plus, si ce sont des lois, il en faudra une infinité d'autres
+pour faire observer les premières. Le célibat fut un conseil du
+christianisme lorsqu'on en fit une loi p~dr un certain ordre de gens, il
+en fallut chaque jour de nouvelles pour réduire les hommes à
+l'observation de celle-cil. Le législai. Voyez la 7~&amp;f/t&lt;f des HMteM~
+ecclésiastiques du ~~M~ ;&lt;M~, tome V, par M. Dupiu (M).</p>
+<p><pb/></p>
+<p>teur se fatigua, il fatigua la société pour faire exécuter aux hommes
+par précepte ce que ceux qui aiment la perfection auroient exécuté comme
+conseil.</p>
+<p>CHAPITRE VIII</p>
+<p>De l'accord des lois de la morale</p>
+<p>avec celles de la ~O~</p>
+<p>Dans un pays où l'on a le malheur d'avoir une religion que Dieu n'a pas
+donnée, il est toujours nécessaire qu'elle s'accorde avec la morale,
+parce que la religion, même fausse, est le meilleur garant que les
+hommes puissent avoir de la probité des hommes.</p>
+<p><pb/></p>
+<p>CHAPITRE X</p>
+<p>De la secte stoïque</p>
+<p>Elle n'outroit que les choses dans lesquelles il y a de la grandeur, le
+mépris des plaisirs et de la douleur. Elle seule savoit faire les
+citoyens elle seule faisoit les grands hommes elle seule faisoit les
+grands empereurs. Faites pour un moment abstraction des vérités révélées
+cherchez dans toute la nature, et vous n'y trouverez pas de plus grand
+objet que les Antonins. Julien même, Julien (un suffrage ainsi arraché
+ne me rendra point complice de son apostasie) non, il n'y a point eu
+après lui de prince plus digne de gouverner les hommes.</p>
+<p><pb/></p>
+<p>CHAPITRE XXIII</p>
+<p>Des /~s</p>
+<p>Lorsque Constantin établit que l'on ehômeroit le dimanche, il fit cette
+ordonnance pour les villes2, et non pour les peuples de la campagne il
+sentoit que dans les villes étoient les travaux utiles, et dans les
+campagnes les travaux nécessaires.</p>
+<p>2. Leg. 3, cod. F&lt;~s. Cette loi n'était faite sans doute que pour les
+païens (M).</p>
+<p>3. Ies catholiques sont plus vers le midi, et les protestants vers le
+nord (M).</p>
+<p><pb/></p>
+<p>sion des fêtes convcnoit donc plus aux pays protestants qu'aux pays
+catholiques.</p>
+<p>Inconvénient ~M transport ~'MM~ religion</p>
+<p>a &lt;</p>
+<p>i. Nouveaux voyages autour du inonde, tome II (M).</p>
+<p>Comme la Chine (1i,).</p>
+<p><pb/></p>
+<p>C(W~MM~&lt;OM du même sujet</p>
+<p>CHAPITRE XXVI</p>
+<p><pb/></p>
+<p>LIVRE VINGT-CINQUIÈME</p>
+<p>DES LOIS DANS LE RAPPORT QU'ELLES ONT AVEC L'ÉTABLISSEMENT DE LA RELIGION</p>
+<p>DE CHAQUE PAYS ET SA POLICE EXTÉRIEURE CHAPITRE V</p>
+<p>Des bornes que les lois ~OM~M~ mettre aux richesses du clergé</p>
+<p>Les familles particulières peuvent périr ainsi les biens n'y ont point
+une destination perpétuelle. Le clergé est une famille qui ne peut pas
+périr les biens y sont donc attachés pour toujours, et n'en peuvent pas
+sortir. Les familles particulières peuvent s'augmenter il faut donc que
+leurs biens puissent croître aussi. Le clergé est une famille qui ne
+doit point s'augmenter les biens doivent donc y être bornés.</p>
+<p>Titte. 1748 la [police.</p>
+<p><pb/></p>
+<p>Ces acquisitions sans tin paroisscnt t aux peuples si déraisonnables,
+que celui qui voudroit parler pour elles seroit regardé comme imbécile.</p>
+<p>Dans quelques pays de l'Europe, la considération des droits des
+seigneurs a fait établir en leur faveur un droit d'indemnité sur les
+immeubles acquis par les gens de mainmorte. L'intérêt du prince lui a
+fait exiger un droit d'amortissement dans le même cas. En Castille, où
+il n'y a point de droit pareil, le clergé a tout envahi en Aragon, où il
+y a quelque droit d'amortissement, il a acquis moins en France, où ce
+droit et celui d'indemnité sont établis, il a moins acquis encore, et
+l'on peut dire que la prospérité de cet état est due en partie à
+l'exercice de ces deux droits. Augmentez-les, ces droits, et arrêter la
+main-morte, s'il est possible.</p>
+<p>Rendez sacré et inviolable l'ancien et nécessaire domaine du clergé
+qu'il soit fixe et éternel comme lui mais laissez sortir de ses mains
+les nouveaux domaines.</p>
+<p>&lt;k</p>
+<p><pb/></p>
+<p>y avait mis cette maxime « Le clergé doit contribuer aux charges de
+l'état, quoi qu'en dise l'Ancien Testament. ? » On en conclut que
+l'auteur du mémoire entendoit mieux le langage de la maltôte que celui
+de la religion. CHAPITRE IX</p>
+<p>D~ la tolérance en fait de religion</p>
+<p>Nous sommes ici politiques, et non pas théologiens et, pour les
+théologiens mêmes, il y a bien de la différence entre tolérer une
+religion et l'approuver.</p>
+<p>II est donc utile que les lois exigent de ces diverses religions, non
+seulement qu'elles ne troublent pas l'état, mais aussi qu'elles ne se
+troublent pas entre elles. Un citoyen ne satisfait point aux lois en se
+contentant de ne pas agiter le corps de l'état il faut encore qu'il ne
+trouble pas quelque citoyen que ce soit.</p>
+<p><pb/></p>
+<p>CHAPITRE X</p>
+<p>Continuation du même sujet</p>
+<p>Voici donc le principe fondamental des lois pllitiques en fait de
+religion. Quand on est maître de recevoir dans un état une nouvelle
+religion, ou de ne la pas recevoir, il ne faut pas l'y établir quand
+elle y est établie, il faut la tolérer. CHAPITRE XII</p>
+<p>Des lois ~~Mt~</p>
+<p>II faut éviter les lois pénales en fait de religion. Elles impriment de
+la crainte, il est vrai mais, comme la religion a ses lois pénales aussi
+qui inspirent de la crainte, l'une est effacée par l'autre. Entre ces
+deux craintes différentes, les âmes deviennent atroces.</p>
+<p>i. Je ne parle point, dtuia tout ce chapitre, de la religion chrétienne,
+parce que, comme j'ai dit auteurs, la religion chrétienne est le premier
+bien. Voyez la fin du chapitre 1"' du livre précédent, et la Défens6 &lt;&lt;&lt;
+rEs~f« des Lots, eeconde partie (M). Cette note manquait dans ~748.</p>
+<p><pb/></p>
+<p>Le caractère de l'esprit Immain a paru dans l'ordre même des peines
+qu'on a employées. Que l'on se rappelle les persécutions du Japon~ on se
+révolta plus contre les supplices cruels que contre les peines longues,
+qui lassent plus qu'elles n'effarouchent, qui sont plus difficiles à
+surmonter, parce qu'elles paroisscnt moins difficiles,</p>
+<p>En un mot, l'histoire nous apprend assez que les lois pénales n'ont
+jamais eu d'effet que comme destruction. Joigne 4. 1748 qu'on ne laisse
+rien.</p>
+<p>x. Voycz le RCCISC7l GtCS v0ya~~es qui ont scrvi d l'établissc»rerat de
+la cona~agsaie i. Voyez le ~ceMC?7 des fo~ag'e.s' qui ont servi d
+r&lt;~M&lt;M&lt;'w&lt;'M&lt; de la cow/'ag)M'&lt;! des /7t~M, tome V, part. I, p. tf)2
+(M). – L&lt;t /eeM~CM part. 1, p. if)2 n'est pas donnée dans 1748.</p>
+<p>G. LANOON</p>
+<p><pb/></p>
+<p>CHAPITRE XIII</p>
+<p>Très humble remontrance aux inquisiteurs</p>
+<p>~S~M~ Portugal.</p>
+<p>L'auteur déclare que, quoiqu'il soit Juif, il respecte la religion
+chrétienne, et qu'il l'aime assez pour ôter aux princes qui ne seront
+pas chrétiens un prétexte plausible pour la persécuter.</p>
+<p>« Mais il faut avouer que vous êtes bien plus cruels que cet empereur.
+Vous nous faites mourir, nous qui ne croyons que ce vous croyez, parce
+que nous ne croyons pas tout ce que vous croyez. Nous suivons une
+religion que vous savez vous-mêmes avoir été autrefois chérie de Dieu
+nous pensons que Dieu l'aime encore, et vous pensez qu'il ne l'aime plus
+et, parce que vous jugez ainsi, vous faites passer par</p>
+<p><pb/></p>
+<p>« Vous vous privez de l'avantage que vous a donné sur les mahométans la
+manière dont leur religion s'est établie. Quand ils se vantent du nombre
+de leurs fidèles, vous leur dites que la force les leur a acquis, et
+qu'ils ont étendu leur religion par le fer pourquoi donc établissez-vous
+la vôtre par le feu ?</p>
+<p>« Mais, si vous ne voulez pas être chrétiens, soyez au t. C'est la
+source de l'aveuglement des Juifs, de ne pas sentir que l'économie de
+t'Rvan~He est dans l'ordre des desseins de Dieu, et qu'ainsi eltc est
+une suite de son immutabilité même (M).</p>
+<p><pb/></p>
+<p>20</p>
+<p>]</p>
+<p>]</p>
+<p>25 &lt;</p>
+<p>]</p>
+<p>moins des hommes traitez-nous comme vous feriez si, n'ayant que ces
+foibles lueurs de justice que la nature nous donne, vous n'aviez point
+une religion pour vous conduire, et une révélation pour vous éclairer.</p>
+<p>« Si le ciel vous a assez aimés pour vous faire voir la vérité, il vous
+a fait une grande grâce mais est-ce aux enfants qui ont eu l'héritage de
+leur père, de haïr ceux qui ne l'ont pas eu ?</p>
+<p>« Que si vous avez cette vérité, ne nous la cachez pas par la manière
+dont vous nous la proposez. Le caractère de la vérité, c'est son
+triomphe sur les cœurs et les esprits, et non pas cette impuissance que
+vous avouez lorsque vous voulez la faire recevoir par des supplices.</p>
+<p>« Si vous êtes raisonnables, vous ne devez pas nous faire mourir parce
+que nous ne voulons pas vous tromper. Si votre Christ est le fils de
+Dieu, nous espérons qu'il nous récompensera de n'avoir pas voulu
+profaner ses mystères et nous croyons que le Dieu que nous servons, vous
+et nous, ne nous punira pas de ce que nous avons souffert la mort pour
+une religion qu'il nous a autrefois donnée, parce que nous croyons qu'il
+nous l'a encore donnée.</p>
+<p>« Vous vivez dans un siècle où la lumière naturelle est plus vive
+qu'elle n'a jamais été, où la philosophie a éclairé les esprits, où la
+morale de votre Evangile a é~é plus connue, où les droits respectifs des
+hommes les uns sur les autres, l'empire qu'une conscience a sur une
+autre conscience, sont mieux établis. Si donc vous ne revenez pas de vos
+anciens préjugés, qui, si vous n'y prenez garde, sont vos passions, il
+faut avouer que vous êtes incorrigibles, incapables de I~ignc a7. 1748
+revenez] point.</p>
+<p><pb/></p>
+<p>« Voulez-vous que nous vous disions naïvement notre pensée ? Vous nous
+regardez plutôt comme vos ennemis que comme les ennemis de votre
+religion car si vous aimiez votre religion, vous ne la laisseriez pas
+corrompre par une ignorance grossière.</p>
+<p>« Il faut que nous vous avertissions d'une chose c'est que, si quelqu'un
+dans la postérité ose jamais dire que dans le siècle où nous vivons les
+peuples d'Europe étaient policés, on vous citera pour prouver qu'ils
+étaient barbares; et l'idée que l'on aura de vous sera telle qu'elle
+flétrira votre siècle, et portera la haine sur tous vos contemporains. »
+CHAPITRE XV</p>
+<p>De la propagation de la religion.</p>
+<p>Tous les peuples d'Orient, excepté les mahométans, croient toutes les
+religions en elles-mêmes indifférentes. Ce n'est que comme changement
+dans le gouvernement qu'ils craignent l'établissement d'une autre
+religion. A Calicut, c'est une maxime d'état que toute religion est bonnet</p>
+<p>Mais il n'en résulte pas qu'une religion apportée d'un pays très
+éloigné, et totalement différent de climat, de lois, de mœurs et de
+manières, ait tout le succès que sa sainteté i. Voyage de F~wfOM Pirard,
+ch. xxvn (M.)</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>LIVRE VINGT-SIXIÈME</p>
+<p>DES LOIS DANS LE RAPPORT QU'ELLES DOIVENT AVOIR AVEC L'ORDRE DES CHOSES</p>
+<p>SUR LESQUELLES ELLES STATUENT</p>
+<p>CHAPITRE XI</p>
+<p>Qu'il ne faut point ~g~ les tribunaux humains les maximes des tribunaux
+qui regardent l'autre vie. Le tribunal de l'inquisition, formé par les
+moines chrétiens sur l'idée du tribunal de la pénitence, est contraire à
+toute bonne police. Il a trouvé partout un soulèvement général et il
+auroit cédé aux contradictions, si ceux qui vouloient l'établir
+n'avoient tiré avantage de ces contradictions mêmes.</p>
+<p>Ce tribunal est insupportable dans tous les gouvernements. Dans la
+monarchie, il ne peut faire que des délateurs et des traîtres dans les
+républiques, il ne peut former que des malhonnêtes gens dans l'état
+despotique, il est destructeur comme lui.</p>
+<p>Titre. 1748 dans [t'ordre.~Z.~o~ fautive.)</p>
+<p><pb/></p>
+<p>5</p>
+<p>CHAPITRE XII</p>
+<p>Continuation du même sujet.</p>
+<p>Qu'il ne f aut point régler par les ~MC~S du droit politique les choses
+qui ~X~~ principes du droit civil.</p>
+<p>Ligne 3. 1748 des [deux personnes.</p>
+<p>Ligne 6. 1748 nie et paroît dans Fimpénitence et damné (texte brouillé
+et inintelligible).</p>
+<p><pb/></p>
+<p>Ces premières lois leur acquièrent la liberté les secondes, la
+propriété. Il ne faut pas décider par les lois de la liberté, qui, comme
+nous avons dit, n'est que l'empire de la cité, ce qui ne doit être
+décidé que par les lois qui concernent la propriété. C'est un
+paralogisme de dire que le bien particulier doit céder au bien public
+cela n'a lieu que dans les cas où il s'agit de l'empire de la cité,
+c'est-à-dire de la liberté du citoyen cela n'a pas lieu dans ceux où il
+est question de la propriété des biens, parce que le bien public est
+toujours que chacun conserve invariablement la propriété que lui donnent
+les lois civiles.</p>
+<p><pb/></p>
+<p>CHAPITRE XX</p>
+<p><pb/></p>
+<p>LIVRE VINGT-HUITIÈME</p>
+<p>DE L'ORIGINE ET DES RÉVOLUTIONS DES LOIS CIVILES CHEZ LES FRANÇAIS</p>
+<p>CHAPITRE XXXVII</p>
+<p>Comment les établissements de saint Louis</p>
+<p>tombèrent dans l'oubli</p>
+<p>CHAPITRE XXXVIII</p>
+<p>Continuation du même sujet</p>
+<p>Qu'est-ce donc que cette compilation que nous avons sous le nom
+d'Établissements de saint Louis ? Qu'est-ce que ce code obscur, confus
+et ambigu, où l'on mêle sans cesse la jurisprudence françoise avec la
+loi romaine où l'on parle comme un législateur, et où l'on voit un
+jurisconsulte où l'on trouve un corps entier de jurisprudence sur tous
+les cas, sur tous les points du droit civil ? Il faut se transporter
+dans ces temps-là.</p>
+<p>Saint Louis, voyant les abus de la jurisprudence de son temps, chercha à
+en dégoûter les peuples il fit plusieurs règlements pour les tribunaux
+de ses domaines et pour ceux de ses barons et il eut un tel succès, que
+Beaumanoir, qui écrivoit très peu de temps après la mort de ce</p>
+<p><pb/></p>
+<p>prince~, nous dit que la manière de juger établie par saint Louis étoit
+pratiquée dans un grand nombre de cours des seigneurs.</p>
+<p>CHAPITRE XXXIX</p>
+<p>Continuation du même sujet</p>
+<p>Les formes judiciaires introduites par saint Louis cessèrent d'être en
+usage. Ce prince avoit eu moins en vue la chose même, c'est-à-dire la
+meilleure manière de juger, que la meilleure manière de suppléer à
+l'ancienne pratique de I~gne 3. 1748 cours] de [seigneurs.</p>
+<p>i. Chap. Ma, page 309 (M.)</p>
+<p>t</p>
+<p><pb/></p>
+<p>juger. Le premier objet étoit de dégoûter de l'ancienne jurisprudence et
+le second, d'en former une nouvelle. Mais les' inconvénients de celle-ci
+ayant paru, on en vit, bientôt succéder une autre.</p>
+<p>De plus] les formes judiciaires.</p>
+<p>Ligne 16. 1748 Ainsi] les Etablissements [eurent.</p>
+<p>Ligne 19. 1748 les [mûrissent (les est supprimé dans la liste ~Fautes à
+corriger).</p>
+<p><pb/></p>
+<p>CHAPITRE XLI</p>
+<p>Flux et reflux de la juridiction ecclésiastique</p>
+<p>et de la juridiction laïque.</p>
+<p><pb/></p>
+<p>Renaissance du droit romain, et ce qui en résulta.</p>
+<p>Changements dans les tribunaux.</p>
+<p>(Titre). 1748 Changement.</p>
+<p>Ligne 10. 1748 le code obscur des Etablissements parut.</p>
+<p><pb/></p>
+<p>juger par pairs devint moins en usage1 celle de juger par baillis
+s'étendit.</p>
+<p>CHAPITRE XLIII</p>
+<p>Continuation du même sujet.</p>
+<p>i. l,e changement fut insensible. On trouve encore les paits employés du
+temps de Boutillier, qui vivoit en 1402, date de son testament, qui
+rapporte cette formule au livre I, titre xxi « Sire juge, en ma justice
+haute, moyenne, et basse, que j'ai en tel lieu, cour, plaids, baillis,
+hommes féodaux et sergents. ») Mais il n'y avait plus que les matières
+féodales qui se jugeassent par pairs. Ibid., liv. I, Ut. 1, p. 16) (M).</p>
+<p><pb/></p>
+<p>13</p>
+<p>LIVRE VINGT-NEUVIÈME</p>
+<p>DE LA MANIÈRE DE COMPOSER LES LOIS</p>
+<p>CHAPITRE XVI</p>
+<p>Des idées d'uniformité.</p>
+<p>Il y a de certaines idées d'uniformité qui saisissent quelquefois les
+grands esprits (car elles ont touché Charlemagne), mais qui frappent
+infailliblement les petits. Ils y trouvent un genre de perfection qu'ils
+reconnoissent, parce</p>
+<p>a. LANSON</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>LIVRE TRENTIÈME</p>
+<p>THÉORIE DES LOIS FÉODALES CHEZ LES FRANCS, DANS LE RAPPORT QU'ELLES ONT
+AVEC L'ÉTABLISSEMENT DE LA MONARCHIE.</p>
+<p>CHAPITRE XIV</p>
+<p>De ce qu'on appeloit census</p>
+<p>(Règle de méthode)</p>
+<p><pb/></p>
+<p>LIVRE TRENTE ET UNIÈME</p>
+<p>THÉORIE DES LOIS FÉODALES CHEZ LES FRANCS, DANS LE RAPPORT QU'ELLES ONT</p>
+<p>AVEC LES RÉVOLUTIONS DE LEUR MONARCHIE CHAPITRE X</p>
+<p>Richesses du clergé.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>TABLE DES MATIÈRES</p>
+<p>INTRODUCTION</p>
+<p>l'AGEa</p>
+<p>I. Notes bibliographiques et biographiques i II. Plan sommaire de
+l'Esprit des Lois '5 III. Signification et portée de l'Esprit des Lois 8
+DE L'ESPRIT DES LOIS</p>
+<p>Préface 27 Avertissement de l'auteur 31 LIVRE I</p>
+<p>CHAPmtBs Des lois en général.</p>
+<p>I. Des lois dans le rapport qu'elles ont avec les divers êtres 33</p>
+<p>LIVRE II</p>
+<p>Des lois qui dérivent directement de la nature du gouvernement.</p>
+<p>LIVRE III</p>
+<p>Des Principes des trois gouvernements.</p>
+<p>III Du principe de la démocratie 39 Jo</p>
+<p><pb/></p>
+<p>CHAPrrBBS Pages V. Que la vertu n'est point le principe du gouvernement
+monarchique 41</p>
+<p>VII. Du principe de la monarchie 43 LIVRE IV</p>
+<p>Les lois de l'éducation -doivent être relatives</p>
+<p>aux principes du gouvernement.</p>
+<p>IV. Différence des effets de l'éducation chez les anciens et parmi nous 44</p>
+<p>V. De l'éducation dans le gouvernement républicain 45</p>
+<p>LIVRE V</p>
+<p>Les lois que le législateur donne doivent être</p>
+<p>relatives au Principe du gouvernement.</p>
+<p>II. Ce que c'est que la vertu dans l'état politique 47</p>
+<p>III. Ce que c'est que l'amour de la république dans la démocr.itie 48</p>
+<p>XII. De la puissance des peines 49 LIVRE VII `</p>
+<p>Conséquences des différents principes des trois</p>
+<p>I. Du luxe 52</p>
+<p><pb/></p>
+<p>LIVRE VIII</p>
+<p>De la corruption des principes des trois</p>
+<p>gouvernements.</p>
+<p>Chapitres Paues II. De la corruption du principe de la démocratie. 55</p>
+<p>III. De l'esprit d'égalité extrême 57 VI. De la corruption du principe
+de la monarchie. 57</p>
+<p>VII. Continuation du même sujet 59 VIII. Danger de la corruption du
+principe du gouvernement monarchique 60</p>
+<p>LIVRE IX</p>
+<p>Des lois dans le rapport qu'elles ont</p>
+<p>avec la force défensive.</p>
+<p>VII. Réflexions 61 IX. De la force relative des états 62 X. De la
+faiblesse des états voisins 62 LIVRE X</p>
+<p>Des lois dans le rapport qu'elles ont</p>
+<p>avec la force offensive.</p>
+<p>II. De la guerre 64 III. Du droit de conquête 65 IV. Quelques avantages
+du peuple conquis. 68</p>
+<p><pb/></p>
+<p>LIVRE XI</p>
+<p>Des lois qui forment la liberté politique,</p>
+<p>dans son rapport avec la constitution.</p>
+<p>Chapitres Pages II. Diverses significations données au mot de liberté 69</p>
+<p>III. Ce que c'est que la liberté 70 IV. Continuation du même sujet 71 V.
+De la constitution d'Angleterre 71 VII. Des monarchies que nous
+connaissons. 82</p>
+<p>LIVRE XII</p>
+<p>Des lois qui forment la liberté politique</p>
+<p>dans son rapport avec le citoyen.</p>
+<p>II. De la liberté du citoyen 83 IV. Que la liberté est favorisée par la
+nature des peines et leur</p>
+<p>proportion 83</p>
+<p>V. De certaines accusations qui ont particulièrement besoin de modé-</p>
+<p>ration et de prudence 87</p>
+<p>%LIVRE XIII</p>
+<p>Des rapports que la levée des tributs et la grandeur des revenus pu
+blics ont avec la liberté.</p>
+<p>I. Des revenus dé l'état go VII. De la nature des impôts 91</p>
+<p><pb/></p>
+<p>Chamtbms PAGES XII. Rapport de la grandeur des tributs avec la liberté. 92</p>
+<p>XV. Abus de la liberté. 93 XVII. De l'augmentation des troupes 94 XIX.
+Qu'est-ce qui est plus convenable au prince et au peuple, de la</p>
+<p>ferme ou de la régie des tributs ?. 95</p>
+<p>XX. Des traitants 96 LIVRE XIV</p>
+<p>Des lois dans le ra p port qu'elles ont</p>
+<p>avec la nature du climat.</p>
+<p>II. Combien les hommes sont différents dans les divers climats 98</p>
+<p>III. Contradiction dans les caractères de certains peuples du midi 100</p>
+<p>IV. Cause de l'immutabilité de la religion, des mœurs, des manières, des
+lois,</p>
+<p>dans les pays d'Orient 101</p>
+<p>V. Que les mauvais législateurs sont ceux qui ont favorisé les vices du</p>
+<p>climat, et les bons sont ceux qui</p>
+<p>s'y sont opposés 102</p>
+<p>VII Du monachisme 103 XIII. Effets qui résultent du climat de
+l'Angleterre 104</p>
+<p><pb/></p>
+<p>LIVRE XV</p>
+<p>Comment les lois de l'esclavage civil ont</p>
+<p>du rapport avec la nature du climat.</p>
+<p>Chapitres Pages V. De l'esclavage des nègres 107 VII. Autre origine du
+droit de l'esclavage. 108</p>
+<p>VIII. Inutilité de l'esclavage parmi nous.. 109 IX. Des nations chez
+lesquelles la liberté civile est généralement établie. III</p>
+<p>LIVRE XVII</p>
+<p>Comment les lois de la servitude politique</p>
+<p>ont du rapport avec la nature du climat.</p>
+<p>VI. Nouvelle cause physique de la servitude de l'Asie et de la liberté</p>
+<p>de l'Europe 112</p>
+<p>LIVRE XIX</p>
+<p>Des lois dans le rapport qu'elles ont</p>
+<p>avec les principes qui forment l'esprit général,</p>
+<p>les mœurs et les manières d'une nation.</p>
+<p>nation 115</p>
+<p>VI. Qu'il ne faut pas tout corriger. 116 IX. De la vanité et de
+l'orgueil des nations 116</p>
+<p><pb/></p>
+<p>Chapitres Pages X. Du caractère des Espagnols, et de celui des Chinois 117</p>
+<p>le caractère d'une nation 119</p>
+<p>LIVRE XX</p>
+<p>Des lois dans le rapport qu'elles ont</p>
+<p>avec le commerce, considéré dans sa nature</p>
+<p>et ses distinctions.</p>
+<p>II. De l'esprit du commerce 132 VII. Esprit de l'Angleterre sur le
+commerce 133</p>
+<p>XII. De la liberté du commerce. 134 XIII. Ce qui détruit cette liberté
+134 XIV. Des lois de commerce qui emportent la confiscation des
+marchandises 135</p>
+<p>XXI. Du commerce de la noblesse dans la monarchie 136</p>
+<p>XXII. Réflexion particulière 137 XXIII. A quelles nations il est
+désavanta- s geux de faire la commerce 139</p>
+<p><pb/></p>
+<p>LIVRE XXI</p>
+<p>Des lois dans le rapport qu'elles ont</p>
+<p>avec le commerce considéré dans les révolutions</p>
+<p>qu'il a eues dans le monde.</p>
+<p>Chapitres Taobs IV. Principale différence du commerce des anciens d'avec
+celui d'aujour-</p>
+<p>d'hui. 141</p>
+<p>égard 152</p>
+<p>LIVRE XXIII</p>
+<p>Des lois dans le rapport u'elles ont avec lenombre des habitants</p>
+<p>XV. Du nombre des habitants par rapport aux arts. 158</p>
+<p>XXVII. De la loi faite en France pour encourager la propagation de
+l'espèce. 159</p>
+<p>XXIX. Des Hôpitaux 161</p>
+<p><pb/></p>
+<p>LIVRE XXIV</p>
+<p>Des lois dans le rapport qu'elles ont</p>
+<p>avec la religion établie dans chaque pays,</p>
+<p>considérée dans ses pratiques et en elle-même</p>
+<p>et le gouvernement despotique-</p>
+<p>la protestante s'accommode mieux</p>
+<p>d'une république 166</p>
+<p>VII. Des lois de perfection dans la religion 167</p>
+<p>VIII. De l'accord des lois de la morale avec celles de la religion 168</p>
+<p>XXVI. Continuation du même sujet 172 LIVRE XXV</p>
+<p>Des lois dans le rapport qu'elles ont</p>
+<p>avec l'établissement de la religion de chaque pays et sa police extérieure</p>
+<p>V. Des bornes que les lois doivent mettre aux richesses du clergé 173</p>
+<p>IX. De la tolérance en fait'de religion.. 175</p>
+<p><pb/></p>
+<p>Chapitres PAGES X. Continuation du même sujet 176 XII. Des lois pénales
+• 176 XIII. Très humble remontrance aux inquisiteurs d'Espagne et de</p>
+<p>Por tugal 178</p>
+<p>XV. De la propagation de la religion 181 LIVRE XXVI</p>
+<p>Des lois, dans le rapport qu'elles doivent avoir</p>
+<p>avec l'ordre des choses sur lesquelles elles stat2cent.</p>
+<p>XI. Qu'il ne faut point régler les tribu- ` naux humains par les maximes</p>
+<p>des tribunaux qui regardent</p>
+<p>l'autre vie 183</p>
+<p>XII. Continuation du même sujet 184 XV.. Qu'il ne faut point régler par
+les principes du droit politique les &gt;</p>
+<p>choses qui dépendent des prin-</p>
+<p>cipes du droit civil 184</p>
+<p>XX. Qu'il ne faut pas décider par les principes des lois civiles les</p>
+<p>choses qui appartiennent au</p>
+<p>droit des gens 186</p>
+<p>LIVRE XXVIII</p>
+<p>De l'origine et des révolutions des lois civiles</p>
+<p>chez les Français. ̃</p>
+<p>XXXVII. Comment les Établissements de saint Louis tombèrent dans l'oubli
+187</p>
+<p><pb/></p>
+<p>Chahtrm Pacibi XXXVIII. Continuation du même sujet 187 XXXIX
+Continuation du même sujet 188 XLI. Flux et reflux de la juridiction</p>
+<p>ecclésiastique et de la juri-</p>
+<p>diction laïque igo</p>
+<p>XLII. Renaissance du droit romain, et ce</p>
+<p>qui en résulta. Changements dans</p>
+<p>les tribunaux 191</p>
+<p>XLIII. Continuation du même sujet 192 LIVRE XXIX</p>
+<p>De la manière de composer les lois.</p>
+<p>sition des lois 193</p>
+<p>XVIII. Des idées d'uniformité 193 LIVRE XXX</p>
+<p>Théorie des lois féodales chez les Francs,</p>
+<p>dans le rapport qu'elles ont avec l'établissement</p>
+<p>de la monarchie.</p>
+<p>XIV. De ce qu'on appelait census. (Règle</p>
+<p>de méthode.) 195</p>
+<p>LIVRE XXXI</p>
+<p>Théorie des lois féodales chez les Francs,</p>
+<p>dans le rapport qu'elles ont avec les révolutions</p>
+<p>de leur monarchie.</p>
+<p>X. Richesses du defg^TTÀ&gt;&gt;»x. I9^ 1 t. ~;&gt;:</p>
+<p>Imprlm»1* Hn* T?r|"nn* tiniv«r*ttair«« de1 France. -£ Vendôme-Pari*
+DÉSACIDiFIÉ A SABLÉ ( ~l i ,c J r EN r DEC.199TJ</p>
+    </div>
+    </body>
+  </text>
+</TEI>

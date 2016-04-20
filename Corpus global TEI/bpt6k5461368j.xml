@@ -1,0 +1,3255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Vielé-Griffin, Francis (1864-1937)">Francis Vielé-Griffin</author>
+<title>La lumière de Grèce : Pindare ; Sapho ; la Légende ailée de Bellérophon Hippalide / Francis Vielé-Griffin</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Vielé-Griffin, Francis (1864-1937)</author>, <title>La lumière de Grèce : Pindare ; Sapho ; la Légende ailée de Bellérophon Hippalide / Francis Vielé-Griffin</title>, <date>1912</date>,description :,220 pages
+</bibl>
+<publisher>Éd. de la Nouvelle revue française (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k5461368j</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1912">1912</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>FRANCIS VIELE-GRIFFIN</p>
+<p>LA LUMIÈRE</p>
+<p>DE GRÈCE</p>
+<p>PINDARE — SAPHO LA LÉGENDE AILEE DE BELLÉROPHON HIPPALIDE</p>
+<p>ÉDITIONS DE LA</p>
+<p>NOUVELLE REVUE FRANÇAISE</p>
+<p>MARCEL RIVIÈRE &amp; Cie 31, RUE JACOB. PARIS</p>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>LA LUMIÈRE DE GRÈCE</p>
+<p><pb/></p>
+<p>OEUVRES ANTERIEUREMENT PUBLIEES PAR FRANCIS VIELÉ-GRIFFIN :</p>
+<p>CUEILLE D'AVRIL, premiers vers (épuisé)</p>
+<p>LES CYGNES, poésies, 1885-86 (épuisé)</p>
+<p>ANCAEUS, poème dramatique, 1885-87 (épuisé)</p>
+<p>JOIES, poèmes, 1888-89 (épuisé)</p>
+<p>LES CYGNES, nouveaux poèmes, 1890-91</p>
+<p>DIPTYQUE, (Le Porcher, Eurythmie) 1891 (hors commerce)</p>
+<p>LA CHEVAUCHÉE D'YELDIS et autres poèmes, 1893</p>
+<p>SWANHILDE, poème dramatique, 1893 (hors commerce)</p>
+<p>PALAI, poèmes, 1894 (épuisé)</p>
+<p>POÈMES ET POÉSIES, 1895 (épuisé)</p>
+<p>PHOCAS LE JARDINIER et autres poèmes dramatiques 1898</p>
+<p>LA PARTENZA, poème, 1899 (hors commerce)</p>
+<p>LA LÉGENDE AILÉE DE WIELAND LE FORGERON,</p>
+<p>1893-99 SAINTE AGNÈS, 1900 (hors commerce) SAINTE JULIE, 1902 (hors
+commerce) L'AMOUR SACRÉ, poèmes, 1903 édit. de luxe PLUS LOIN (la
+Partenza, l'Amour Sacré) 1904 POÈMES ET POÉSIES, nouvelle édition 1907
+SAPHO, poème, 1911 édit. de luxe</p>
+<p>TRADUCTION :</p>
+<p>LAUS VENERIS de Swinburne (épuisé)</p>
+<p>THRÈNE POUR LE PRÉSIDENT LINCOLN, poème d'après W. Whitman (épuisé)</p>
+<p><pb/></p>
+<p>FRANCIS VIELE-GRIFFIN</p>
+<p>LA LUMIERE</p>
+<p>DE GRECE</p>
+<p>PINDARE — SAPHO</p>
+<p>LA LÉGENDE AILÉE</p>
+<p>DE</p>
+<p>BELLÉROPHON HIPPALIDE</p>
+<p>ÉDITIONS DE LA</p>
+<p>NOUVELLE REVUE FRANÇAISE</p>
+<p>MARCEL RIVIÈRE &amp; CIE</p>
+<p>31, RUE JACOB, PARIS 1912</p>
+<p><pb/></p>
+<p>IL A ÉTÉ TIRÉ A PART</p>
+<p>30 EXEMPLAIRES SUR VERGÉ D'ARCHES</p>
+<p>RÉIMPOSÉS ET NUMÉROTÉS</p>
+<p>A LA PRESSE.</p>
+<p><pb/></p>
+<p>AU LECTEUR</p>
+<p>Celui qui construisit ces poèmes eût aimé les voir publier, comme le fut
+l' "Amour Sacré", sans nom d'auteur.</p>
+<p>Au milieu de moeurs littéraires assez basses, c'eût été, lui
+semblait-il, affirmer que le rythme et la pensée ont une valeur
+essentielle dont leur gratuité même est la marque.</p>
+<p>Lecteur, si tu as partagé son émotion humaine, si tu as communié avec
+lui dans la joie anonyme d'une heure de beauté, que t'importe son visage ?</p>
+<p>Si tu veux le revoir : penche-toi sur l'eau qui s'écoule.</p>
+<p>Paris, janvier 1912.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>PINDARE</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>CORINE DE TANAGRA</p>
+<p>AploitTiv fil) Tcpoèaiveiv TIÇ piperai fiôffloç afijxiv' TOVTO yè TOI èpéw'</p>
+<p>KaXwy fièv u&gt;v jjioïpâv re rep-avûiv Içfjécrov -)(pfi iravrl Xaû
+SEIKVVVCU' il êé TIÇ àvBpwnoMTi BEÔÇSOTOÇ aica ■jrpoiTTv^oi, ravrâv
+&lt;TK6T&lt;O Kpvnreiv EOIKCV.</p>
+<p>PINDARE, Frag. 151, 153.</p>
+<p>N'exhibons pas en public la blessure intime dont nous souffrons ;
+croyez-moi : c'est notre part de Beauté et de Joie qu'il faut étaler a
+la curiosité des foules; si le hasard des dieux nous égare vers le
+malheur ou la folie, que l'ombre et le secret les dérobent aux intrusions.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>PINDARE</p>
+<p>Vous êtes triste, Corine...</p>
+<p>CORINE, brusque, se retournant</p>
+<p>Que t'importe, adolescent nouveau venu,</p>
+<p>la tristesse de Corine,</p>
+<p>et qu'en sais-tu ?</p>
+<p>Avec tes grands yeux clairs, veux-tu</p>
+<p>me faire rire,</p>
+<p>comme une enfant qu'on fait rougir</p>
+<p>Tiens, vois : je ris.</p>
+<p>PINDARE</p>
+<p>Pardonnez-moi,</p>
+<p>vous ne savez d'où je viens, où je vais,</p>
+<p>sans doute ;</p>
+<p>mais n'êtes-vous pas Corine de Tanagra,</p>
+<p><pb/></p>
+<p>14 LA LUMIÈRE DE GRECE</p>
+<p>dont le nom, comme un souffle frais,</p>
+<p>sonne en gaîté sur toute route,</p>
+<p>de ville en ville ?</p>
+<p>Celle de qui, là-bas, vers les Cynocéphales,</p>
+<p>mon père redisait la chanson sur sa flûte,</p>
+<p>menant ma voix d'enfant rieuse de ce rire</p>
+<p>que vous voulûtes ?</p>
+<p>N'êtes-vous Corine, sans une égale,</p>
+<p>aux doigts dociles,</p>
+<p>Corine la gaîté ?</p>
+<p>je vous fixai des yeux,</p>
+<p>je vous ai dit : Corine ! — audacieux ;</p>
+<p>je suis Pindare, fils du Coryphée.</p>
+<p>CORINE</p>
+<p>On m'avait dit ton nom où court l'Alphée ;</p>
+<p>et, parlant des agones de ce soir,</p>
+<p>on te nommait, tantôt, l'un d'entre nos éphèbes.</p>
+<p>nous mène, en foule, vers Thèbes ?</p>
+<p>dont le nom dressa nos murailles ?</p>
+<p>Ta tête est pleine des fables qu'on répète,</p>
+<p>n'est-ce pas ?</p>
+<p><pb/></p>
+<p>PINDARE 15</p>
+<p>Crois-moi — ce temps est loin, si tu le guettes :</p>
+<p>nos vieux remparts las des batailles</p>
+<p>réclament des maçons, non des poètes.</p>
+<p>Comprends les mythes :</p>
+<p>le prince harmonieux, que Phoïbos même</p>
+<p>a tué dans ses fils, chantant leur thrène,</p>
+<p>s'est tué de son plectre — la lyre est lourde :</p>
+<p>le laurier verdoie chaque printemps,</p>
+<p>fleurit et ne couronne qu'une fois,</p>
+<p>se fane, se fait de bronze</p>
+<p>et n'est seyant qu'aux effigies :</p>
+<p>plutôt, | vois bien ce que tu quittes</p>
+<p>et vers quelle mort du coeur tu vas portant</p>
+<p>la lyre qui lasse vite</p>
+<p>toute énergie.</p>
+<p>La Muse, aux prières sourde,</p>
+<p>élit son amant entre dix milliers,</p>
+<p>sa bandelette, que l'on rêve ceindre,</p>
+<p>est pour un seul — les destins sont liés :</p>
+<p>la Muse choisit en pleurant qui doit l'étreindre.</p>
+<p>Quel vent de folie a soufflé du Pinde ;</p>
+<p>aviez-vous cru,</p>
+<p>jeunes chanteurs marchant par bandes</p>
+<p>comme un torrent sans cesse accrû,</p>
+<p>que son laurier est pour qui le demande</p>
+<p><pb/></p>
+<p>16 LA LUMIERE DE GRECE</p>
+<p>PINDARE</p>
+<p>chez Aleuas qui fêtait Simonide :</p>
+<p>mon père menait le choeur des aulétrices ;</p>
+<p>et qui regarde, écoute et, ne sachant, devine ;</p>
+<p>et quand celui de Céos eut chanté,</p>
+<p>tout pâle et coi —</p>
+<p>Lassos me dit : " Tu sais écouter, fils,</p>
+<p>tu sauras dire, aussi. "</p>
+<p>Et c'est pourquoi,</p>
+<p>retournant vers Argos, il s'en vint chez mon père</p>
+<p>et m'emmena dans Hermione d'Argolide ;</p>
+<p>j'y vécus de sa vie sévère</p>
+<p>tenant la lyre où vont mes doigts sans guide ;</p>
+<p>et lui, le soir, la flûte aux lèvres, rythmait l'ombre,</p>
+<p>me donnant de son art ce qu'on en peut donner ;</p>
+<p>je sais la cadence et le nombre :</p>
+<p>un soir Lassos s'est étonné</p>
+<p>m'écoutant dire un chant de Simonide...</p>
+<p><pb/></p>
+<p>PINDARE 17</p>
+<p>CORINE</p>
+<p>Tu connais Simonide ? celui qu'on paie,</p>
+<p>comme un chanteur de fête, de monnaies ?</p>
+<p>hors ton village vers Thèbes où bruit la lyre ?</p>
+<p>Vraiment, je ne sais de présage pire...</p>
+<p>Te voici tout intimidé !</p>
+<p>T'aurait-on dit que tu vendrais ton âme ?</p>
+<p>ainsi qu'on parle de leurs corps aux sottes femmes !</p>
+<p>Jeune homme, si tu rêves cela,</p>
+<p>car tu n'aurais pas d'âme, la voulant vendre.</p>
+<p>N'espère pas cela...</p>
+<p>(un silence ; elle semble attendre une réplique)</p>
+<p>Triste ? me disais-tu, mon beau muet ;</p>
+<p>non, je suis toute gaie,</p>
+<p>malgré mon air,</p>
+<p>de voir, après Aphrodité, Phoïbos vénal</p>
+<p>au bel or clair,</p>
+<p>au doux métal !</p>
+<p>Tu peux te vendre ; vois :</p>
+<p>même ce peu de gloire que donne un chant,</p>
+<p>ce peu de pure gloire — ton beau choix — 2</p>
+<p><pb/></p>
+<p>18 LA LUMIÈRE DE GRÈCE</p>
+<p>un Simonide le prend par surcroît,</p>
+<p>salissant la gloire même et ravalant</p>
+<p>la chaste muse, soeur ;</p>
+<p>car,</p>
+<p>bien que sans âme,</p>
+<p>il sait se feindre un coeur</p>
+<p>se faisant homme ou femme</p>
+<p>au gré de paroles parées ;</p>
+<p>et des miracles de sa voix il fait</p>
+<p>— riant en lui — pleurer ceux qu'elle atteint de ses flèches de joie
+incomparées...</p>
+<p>Le bel art vain...</p>
+<p>Simonide, dis-tu ?</p>
+<p>Certes, je hais son charme :</p>
+<p>souvent, chantant ses vers, je me suis tue</p>
+<p>mordant ma lèvre chaude d'une larme,</p>
+<p>honteuse, sachant vile et vénale la main</p>
+<p>qui traçait dans mon coeur ces mots de feu.</p>
+<p>Tout ce bel art est misérable et vain.</p>
+<p>Peut-être te vaudrait-il mieux rire en ta flûte,</p>
+<p>là-bas, vers les Cynocéphales, comme ton père ;</p>
+<p>et que la lyre est plus futile, encore, que vile...</p>
+<p>PINDARE</p>
+<p>Corine, n'est-ce pas que chante un dieu ?</p>
+<p>— Et qu'importe par quelles lèvres ? —</p>
+<p><pb/></p>
+<p>PINDARE 19</p>
+<p>— claire abondance —</p>
+<p>est feinte, aussi, Corine, et malgré vous ; et que — divinement — vous
+nous trompez</p>
+<p>— et malgré nous — ainsi que Simonide ;</p>
+<p>non pour de l'or sans doute — qu'importe cela ?</p>
+<p>qu'importe l'argile où le vin coule</p>
+<p>au bel enivrement,</p>
+<p>et que l'on brise vide ? —</p>
+<p>Voyez, je vous devine :</p>
+<p>vous nous trompez divinement,</p>
+<p>car vous êtes triste, Corine.</p>
+<p>(Un silence)</p>
+<p>CORINE</p>
+<p>Soit, je suis triste, pour toi, si tu le veux ;</p>
+<p>après autant de fous tu parais sage,</p>
+<p>voici ; mais songe aussi, avecque tes grands yeux,</p>
+<p>que, te parlant ainsi, se peut que je me rie :</p>
+<p>ma pensée est volage</p>
+<p>et mon rêve varie ;</p>
+<p><pb/></p>
+<p>20 LA LUMIÈRE DE GRÈCE</p>
+<p>ma gaîté est amère ;</p>
+<p>mon rire jaillit comme un cristal clair</p>
+<p>d'une vasque d'agate,</p>
+<p>et tel le jour sourd de la nuit.</p>
+<p>L'Art me lasse, la lyre est ingrate :</p>
+<p>toute la joie que je lui ai donnée</p>
+<p>et qui vous laisse faible et pâle, étonnée</p>
+<p>comme celui qui doute...</p>
+<p>avant de se ternir comme une rouille</p>
+<p>au beau manteau de gloire</p>
+<p>qu'on traîne, qu'on souille.</p>
+<p>Ma gloire est fausse et faiblit et m'échappe.</p>
+<p>d'entre les pampres et les grappes</p>
+<p>où l'ombre tourne et change...</p>
+<p>J'ai vu, un automne, après les vendanges,</p>
+<p>les bacchantes courir sur le sable clair</p>
+<p>laver la lie et l'orgie dans la mer</p>
+<p>— ainsi qu'au jour où Triton fut tué. Elles tournaient en ronde, le
+soir, évertuées,</p>
+<p><pb/></p>
+<p>PINDARE 21</p>
+<p>avec leurs chants étranges</p>
+<p>venus de l'Inde</p>
+<p>(les premiers que j'aie sus),</p>
+<p>enguirlandant le grand torse sans tête</p>
+<p>des souples chaînes de leurs beaux corps nus</p>
+<p>que rougit un dernier rayon du Pinde</p>
+<p>— ainsi je fus poète...</p>
+<p>Qu'importent Thèbes et ma lyre fleurie ?</p>
+<p>et que je pleure ou rie ?</p>
+<p>Je suis belle, mais on m'a vanté tous mes charmes ;</p>
+<p>je sais rire et leurrer...</p>
+<p>(Elle hésite, regardant Pindare)</p>
+<p>Enfant, tu me regardes avec des yeux de larmes ;</p>
+<p>moi qui fais rire, aurais-je fais pleurer ?</p>
+<p>Essuie cela — sois gai — écoute :</p>
+<p>sais-tu pas que la foule raille et nous persécute</p>
+<p>au hasard seul des cris de nos fous désespoirs ?</p>
+<p>et que sa joie infâme et lâche répercute</p>
+<p>la farouche douleur exhalée en nos soirs ?</p>
+<p>Que si tu veux te taire et souffrir de la vie</p>
+<p>la tourbe qui te hait te portera envie,</p>
+<p>et te voyant joyeux, elle te croira riche</p>
+<p><pb/></p>
+<p>22 LA LUMIÈRE DE GRECE</p>
+<p>la joie infâme hésite où le bonheur s'affiche;</p>
+<p>sois gai, car la vengeance est de paraître heureux ;</p>
+<p>regarde-moi !</p>
+<p>(Elle éclate de rire.)</p>
+<p><pb/></p>
+<p>MYRTIS D'ANTHÉDON</p>
+<p>Xpfjv jxiv KCLTO. Kaipov kpi)Tiov CpiTccaBal Ov/j.é, avv àXucia.</p>
+<p>PINDARE, Frag. 89.</p>
+<p>Il eût fallu cueillir ces fleurs d'amour,</p>
+<p>0 mon coeur,</p>
+<p>au printemps de son âge.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>Sur la lisière du bois de Cérès, en face de la mer.</p>
+<p>MYRTIS, comme pour rompre un silence pénibre</p>
+<p>...Toutes ces voiles qu'on voit rose pâle,</p>
+<p>le long du golfe,</p>
+<p>regarde :</p>
+<p>elles entrent,</p>
+<p>dans l'ombre projetée du promontoire,</p>
+<p>sous ce soleil oblique</p>
+<p>de fin d'été...</p>
+<p>Le soir</p>
+<p>sort du rivage et gagne les îlots</p>
+<p>avec le vent de terre, agile sur les flots...</p>
+<p>PINDARE, de voix lointaine</p>
+<p>Quelle réplique,</p>
+<p>Myrtis,</p>
+<p>— quand frôlerait ma lyre une aile de mouette —</p>
+<p>vaudra cet écho de ta voix que dit la mer...</p>
+<p>(Il fait signe d'écouter. — Un silence.)</p>
+<p><pb/></p>
+<p>26 LA LUMIERE DE GRECE</p>
+<p>MYRTIS, de voix émue</p>
+<p>Ton âme muette</p>
+<p>écoute ;</p>
+<p>mort amour a peur de se taire,</p>
+<p>mon coeur redoute,</p>
+<p>car l'ombre est là, avec l'automne, qui nous guette !</p>
+<p>PINDARE, se retournant avec vivacité</p>
+<p>Quel automne ! L'automne du monde ? Toute heure est bonne, toute
+blessure est féconde ; l'automne t'émeut ?...</p>
+<p>Les feuilles dans la bise comme des oiseaux, sous la flèche des vents</p>
+<p>— Le Sagittaire ! avant le Capricorne et les</p>
+<p>Le haut squelette des rocs surgi des mousses mortes?... Les feux des
+pâtres qui s'allument,</p>
+<p><pb/></p>
+<p>PINDARE 27</p>
+<p>au crépuscule, entre les cimes ?...</p>
+<p>(De voix plus douce.) Ah ! Myrtis, Myrtis, quel automne, encore ? Le
+tien ? le mien ? le nôtre ? Parce qu'une heure est autre, que le silence
+vient, ainsi qu'un crépuscule ? L'automne en nous, Myrtis ? Pour ce
+petit amour déchu et qui te blesse avec des souvenirs :</p>
+<p>telles les feuilles crispées et rousses des chênes que le printemps
+retrouve aux branches et que l'autre équinoxe sème aux prés en fleurs...
+L'Automne, Myrtis ! Myrtis aux hanches blanches, aux tendres fards, aux
+prestes mains !</p>
+<p>parce qu'un baiser fut comme une fleur et que l'année a passé comme un
+char et qu'elle nous laisse sa poussière aux mains ?...</p>
+<p>MYRTIS, avec un soupir</p>
+<p>Ah ! cette fois,</p>
+<p><pb/></p>
+<p>28 LA LUMIÈRE DE GRÈCE</p>
+<p>l'automne vient sur moi comme une nuit...</p>
+<p>(Un silence) La mer est froide et grise, malgré le ciel...</p>
+<p>PINDARE</p>
+<p>Parlons d'amour, tu veux parler d'amour...</p>
+<p>MYRTIS</p>
+<p>C'est toi qui parles de baisers flétris.</p>
+<p>PINDARE, de voix lasse</p>
+<p>Eh bien ! N'est-ce pas l'heure : les bois se courbent vers la mer ; il
+pleut, il pleure des feuilles.</p>
+<p>MYRTIS, de voix vive</p>
+<p>Soit ;</p>
+<p>tu n'as baisé sur ma bouche</p>
+<p>qu'un peu de chair ?</p>
+<p>ma couche</p>
+<p>ne te fut qu'un orgueil ?</p>
+<p>ma fierté, qu'un appât qui tente ?</p>
+<p>bien ;</p>
+<p>moi j'ai respiré avec ton souffle</p>
+<p>l'espace, le ciel clair, la mer et l'air !</p>
+<p><pb/></p>
+<p>PINDARE 29</p>
+<p>toute l'harmonie de tes lèvres chantantes</p>
+<p>ainsi qu'un jour d'été...</p>
+<p>et je vivais, impatiente — comme on souffre —</p>
+<p>j'étais ta lyre, un peu,</p>
+<p>ta lyre où frémit Dieu !...</p>
+<p>(sa voix retombe douce) Pour toi, j'étais donc une femme, une autre
+seulement ? une autre femme ?...</p>
+<p>PINDARE, vivement</p>
+<p>Une autre femme, maîtresse ?</p>
+<p>D'unes me furent amies</p>
+<p>— pauvresses ! —</p>
+<p>et moi, je les eusse appauvries</p>
+<p>du don d'amour avide ?</p>
+<p>je les eusse livrées, tout étourdies,</p>
+<p>aux joies qui vont de leurs mains vides</p>
+<p>faisant le geste d'éparpiller des fleurs,</p>
+<p>et couronnent toute beauté</p>
+<p>avec leurs bandelettes de rides !</p>
+<p>Et je leur eusse ôté</p>
+<p>leur peu de coeur !</p>
+<p>Une autre femme ?</p>
+<p>Quelles muses me prêtes-tu,</p>
+<p><pb/></p>
+<p>30 LA LUMIERE DE GRECE</p>
+<p>quel masque m'imposes-tu, quel rôle ? Tais-toi, plutôt ; le silence est
+meilleur, ô pauvre soeur, que ta parole.</p>
+<p>( Un silence ; il attend une réplique) (Avec ironie) Corine ?</p>
+<p>C'est elle que tu nommes dans ton âme ? Voici ma faute et tout mon blâme
+: elle était triste de ta gloriole des agones!</p>
+<p>— avec mes yeux, peut-être, j'imagine, —</p>
+<p>puis me suis laissé vaincre par Corine,</p>
+<p>lui donnant la victoire ainsi sur tous les deux ;</p>
+<p>mais sa victoire lui fut comme une honte,</p>
+<p>— car toute histoire se raconte —</p>
+<p>elle s'est crue bafouée par l'une et l'autre,</p>
+<p>me hait sans doute — te hait assurément —</p>
+<p>Myrtis...</p>
+<p>et voici que l'été est mort très doucement</p>
+<p>et te voici, ce soir,</p>
+<p><pb/></p>
+<p>PINDARE 31</p>
+<p>perplexe et attristée... (Elle veut parler) Ecoute encore : donc,</p>
+<p>toi, tu m'aimas pour ma gloire ; moi, je t'aimai pour ta double aristée
+: ton corps épanoui et pâle, ton esprit mâle.</p>
+<p>— Tu m'aimas comme une femme</p>
+<p>éprise de la joie de féconder une âme</p>
+<p>(ainsi qu'un homme</p>
+<p>l'a prise,</p>
+<p>passive)</p>
+<p>et d'être l'amant de ma muse vierge ;</p>
+<p>tu m'as donné le baiser de ta joie...</p>
+<p>J'étais un enfant, me voici un homme,</p>
+<p>par toi, sans doute, Myrtis ;</p>
+<p>mais toi...</p>
+<p>MYRTIS, de voix amère</p>
+<p>— comme tu dis ! —</p>
+<p><pb/></p>
+<p>32 LA LUMIERE DE GRECE</p>
+<p>Les rides m'ont couronnée aussi,</p>
+<p>l'or des épis</p>
+<p>se rouille et se fait chaume</p>
+<p>—: et c'est mon blâme :</p>
+<p>tu étais enfant et moi j'étais femme ;</p>
+<p>tu es un homme,</p>
+<p>donc, moi, je suis l'automne...</p>
+<p>Tais-toi</p>
+<p>(Elle se détourne.)</p>
+<p>PINDARE, de voix pressante</p>
+<p>Non, car vous êtes gaie, Myrtis, ma soeur ;</p>
+<p>voyez la vieille image du lierre,</p>
+<p>comme elle est vaine</p>
+<p>avec ses airs</p>
+<p>d'éternité sereine :</p>
+<p>car l'arbre qu'il étreint faiblit et meurt ;</p>
+<p>l'amour est autre,</p>
+<p>son étreinte farouche se dissout :</p>
+<p>la vie est née, elle résurgit en nous ;</p>
+<p>ce qui délie nos bras, c'est l'oeuvre éclose</p>
+<p>— il en est ainsi du mystère des choses —</p>
+<p>et par un baiser de ta frêle joie</p>
+<p>le bel enfant de triomphe est en moi.</p>
+<p><pb/></p>
+<p>PINDARE 33</p>
+<p>MYRTIS, d'une voix de reproche</p>
+<p>Avec tes mots nouveaux</p>
+<p>me feras-tu mon âme neuve ?</p>
+<p>PINDARE, solennel</p>
+<p>Ecoute, et vois la preuve ;</p>
+<p>je veux lire en ton âme même :</p>
+<p>la joie nouvelle</p>
+<p>vagit inconsciente encore en elle ;</p>
+<p>lis le poème :</p>
+<p>l'automne est sur nous fécond et subtil ;</p>
+<p>le beau désir sommeille et semble mort ;</p>
+<p>l'hiver pèse en douleur au champ durci ;</p>
+<p>mais toi,</p>
+<p>chante l'avril</p>
+<p>et que l'amour est fort !</p>
+<p>Et dis, aussi,</p>
+<p>au fond de toi :</p>
+<p>le givre pave au loin le sol fécond ;</p>
+<p>l'amour durcit en haine sur le sillon ;</p>
+<p>mais pour que germe enfin l'oeuvre conçue,</p>
+<p>le grain de mil</p>
+<p>il suffira qu'avril</p>
+<p>pleure les larmes tièdes de sa joie ! 3</p>
+<p><pb/></p>
+<p>34 LA LUMIÈRE DE GRÈCE</p>
+<p>Et la chanson renaît aux bois feuillus, le voile d'Aphrodite se reploie...</p>
+<p>(Un silence)</p>
+<p>MYRTIS, grave</p>
+<p>Ta haute voix est dure et douce et belle,</p>
+<p>mais je n'ai pas de larmes dans mes yeux...</p>
+<p>Va, fuis où l'avenir t'appelle</p>
+<p>d'une autre voix que mon pauvre passé ;</p>
+<p>va, fuis, sans un adieu ;</p>
+<p>fais vivre notre baiser immortel :</p>
+<p>mon rêve est dans ton âme et c'est assez...</p>
+<p>Oublie cette heure lasse...</p>
+<p>Tout mon sang vire, je ne suis plus moi...</p>
+<p>Adieu,</p>
+<p>tu es celui qui passe</p>
+<p>avec un miroir dont le rayon s'attarde,</p>
+<p>aveugle et luit de loin son leurre</p>
+<p>et puis, brusque, s'évanouit.</p>
+<p>Tu es comme l'arrière-été</p>
+<p>que toute la gloire d'automne farde</p>
+<p>de splendeur inouïe,</p>
+<p>qui meurt</p>
+<p>avant d'avoir été.</p>
+<p>Tu es comme le rouge Arès,</p>
+<p>prime étoile fêtée,</p>
+<p><pb/></p>
+<p>PINDARE 35</p>
+<p>qui sombre au crépuscule, avant, même, la nuit ! Va, ne diffère plus
+l'adieu fatal qu'en vain tu fardes et recules ; je n'ai plus mal...</p>
+<p>(Avec un rire) Va ton chemin ; je me reprends aussi ; je te regarde
+aller sans un souci que de la haute gloire de ta lyre, et, vers cet
+avenir où j'ai su lire en lettres d'or au péristyle des temples ton nom,
+impérieux comme un exemple, je dis : Pindare ! de la même voix que ceux
+qui disent lentement : Homère... Oublieuse qu'il fut aimé, dit-on, par
+Myrtis, une femme d'Anthédon...</p>
+<p>(Souriante) Vois : je me suis reprise ; embrasse-moi...</p>
+<p>(Elle fait un pas, mais se ressaisit.)</p>
+<p>(Froide) Adieu ! Même un baiser serait amer.</p>
+<p>(Il fait un pas, indécis, et sort. — L'ayant suivi du regard, elle se
+retourne, éblouie.)</p>
+<p>(Avec une dernière ironie) Je pleure ! Ce doit être de joie.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LASSOS D'HERMIONE</p>
+<p>0£Û Se ëvvarov LK fiekaivaç VVKTOQ àfxiavTOV bpaai &lt;paoç...</p>
+<p>PINDARE, Frag. 107.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>Un petit jardin en terrasse ; au fond, une grotte ; Lassos, dans l'ombre
+crépusculaire, joue de la lyre.</p>
+<p>Voix de PINDARE Lassos ! Ohé, Lassos !</p>
+<p>LASSOS</p>
+<p>Fils ! C'est toi ? Ton même pas qui sonne, dès la route d'Argos aux
+cailloux du sentier, ta même voix...</p>
+<p>(Pindare entre, l'embrasse filialement.)</p>
+<p>PINDARE</p>
+<p><pb/></p>
+<p>40 LA LUMIERE DE GRECE</p>
+<p>LASSOS</p>
+<p>Je t'avais reconnu de loin</p>
+<p>— l'oreille est bonne :</p>
+<p>l'herbe étouffa tes derniers pas, complice ! — Je te guettais, ici,
+depuis les premiers thyms, et nous voici aux foins... Mais, viens,
+approche, mon fils, je ne peux pas te voir : mes yeux se sont éteints,
+depuis des soirs...</p>
+<p>PINDARE, souriant</p>
+<p>avec ta subtile harangue !</p>
+<p>et cette feinte de n'y plus voir clair—dans l'ombre!</p>
+<p><pb/></p>
+<p>PINDARE 41</p>
+<p>LASSOS</p>
+<p>Non, non ! entends-moi bien ;</p>
+<p>mes yeux sont morts :</p>
+<p>les heures me dépassent sans nombre,</p>
+<p>je n'entends plus leurs pas de filles,</p>
+<p>et je ne sais plus nuits ni jours ;</p>
+<p>et, si je veille ou si je dors,</p>
+<p>l'ombre est la même autour de moi, enfant :</p>
+<p>je n'ai pas allumé de torche depuis des ans ;</p>
+<p>il doit faire noir ?...</p>
+<p>PINDARE</p>
+<p>Pardonne, père, je croyais...</p>
+<p>(A un geste de Lassos) Non, laisse ; j'aime l'ombre, aussi, du soir.</p>
+<p>LASSOS, gaiement</p>
+<p>Donc sieds-toi là, mon hôte</p>
+<p>— comme si j'y voyais — donne-moi ta main, et pense</p>
+<p>— Quand tu m'étais mon bel enfant choyé, pour une faute</p>
+<p>je te causais, ainsi, mes remontrances— : alors que tu montais, tantôt,
+la côte avec la nuit</p>
+<p><pb/></p>
+<p>42 LA LUMIÈRE DE GRÈCE</p>
+<p>qui suit</p>
+<p>et grimpe et te devance,</p>
+<p>vers le jour qui recule,</p>
+<p>elle mit son voile, enfin, devant tes yeux ;</p>
+<p>tu frissonnas peut-être, comme moi</p>
+<p>j'ai frissonné le long du crépuscule</p>
+<p>où j'ai marché des mois</p>
+<p>et qui se fit tout ombre et nuit :</p>
+<p>car j'entrai lentement dans les ténèbres</p>
+<p>où désormais je vis,</p>
+<p>vieillard funèbre...</p>
+<p>(Gaiement) Avec un peu de rire aux lèvres, encore ! comme en ma barbe
+blanche s'attardent des fils d'or, dit-on...</p>
+<p>Tu songes ? Eh bien ! que songes-tu ? Voyons !</p>
+<p>PINDARE</p>
+<p>Lassos,</p>
+<p>je songe que vos doigts,</p>
+<p>jadis,</p>
+<p>et que vos lèvres</p>
+<p>rythmaient l'ombre subtile en mots sans deuil,</p>
+<p>cependant que je vous livrais mon âme enfant,</p>
+<p>de toute sa belle fièvre ;</p>
+<p>si bien que l'ombre est claire sur le seuil ;</p>
+<p><pb/></p>
+<p>PINDARE 43</p>
+<p>et je songe</p>
+<p>que votre lyre m'a fait bon accueil, tantôt,</p>
+<p>les longues heures de route dans le matin : Thèbes et les lyres,
+Corinthe nue,</p>
+<p>et Argos martiale avec ses proues d'airain ;</p>
+<p>et puis la halte, au soir, entre ces oliviers...</p>
+<p>" Le rêve qui fut nous est tout ce qui demeure :</p>
+<p>la vie tourne liée avec sa ronde d'heures ;</p>
+<p>on songe de vieux songes, on refait les chemins..."</p>
+<p>Maintes fois, je suis revenu dans ce jardin,</p>
+<p>Lassos,</p>
+<p>bien que ce soir je sois auprès de vous</p>
+<p>pour la première fois depuis alors...</p>
+<p>Toute cette ombre autour de nous,</p>
+<p><pb/></p>
+<p>44 LA LUMIÈRE DE GRÈCE</p>
+<p>c'est l'ombre de ce premier soir, encore... Lassos,</p>
+<p>(Un silence.) Mais vous ? mais toi ? mon père...</p>
+<p>LASSOS</p>
+<p>...J'ai vécu lentement ma vieille vie assise entre mes années endormies
+qui rêvent dans l'ombre claire... Vois : les fugaces formes : bercées à
+quelque chant des feuilles ou de la mer, elles dorment ;</p>
+<p><pb/></p>
+<p>PINDARE 45</p>
+<p>et c'est un cri de joie,</p>
+<p>tantôt</p>
+<p>et tantôt comme un sanglot ;</p>
+<p>elles dorment en moi,</p>
+<p>souriantes ou malicieuses</p>
+<p>riant d'un rien ;</p>
+<p>joyeuses,</p>
+<p>ou tristes d'une vieille tristesse oubliée...</p>
+<p>Elles dorment leur rêve,</p>
+<p>menues, avec mon passé sur leurs lèvres</p>
+<p>aux doux mots familiers...</p>
+<p>Elles dorment, enfants d'alors, ou fillettes, ou filles,</p>
+<p>autour de ma vieillesse qui veille et bâille,</p>
+<p>recouvre, ça, l'une d'elles demi-nue</p>
+<p>qu'agite quelque ancien songe encor fébrile ;</p>
+<p>et par moments, cette vieille chevrotante</p>
+<p>chante, ou raille</p>
+<p>et puis se tait, comptant sur ses vieux doigts tremblants</p>
+<p>les jeunes heures qu'elle veille,</p>
+<p><pb/></p>
+<p>46 LA LUMIERE DE GRECE</p>
+<p>et les renombre...</p>
+<p>(Un silence) (Gaiement) Petit, l'heure est agile, j'ai vécu de ta gloire
+aussi, car le vent porte, jusqu'ici, le bruit des villes ; dis-moi ta
+vie, cette gloire virile, et ces soucis.</p>
+<p>PINDARE</p>
+<p>Elle s'en fut</p>
+<p>ma belle vie !</p>
+<p>vers le but inconnu</p>
+<p>et je l'ai suivie,</p>
+<p>docile, la trouvant belle ;</p>
+<p>que sais-je d'elle ?</p>
+<p>et que mon peu de gloire emplit le monde</p>
+<p>au point que tout est vain, petit et fruste</p>
+<p>et que j'ai honte</p>
+<p>sous la nuit auguste...</p>
+<p>Aussi, que t'en dirai-je ?</p>
+<p>La jeune vanité qui tôt s'allège ;</p>
+<p>qui parle — avec l'Infini derrière elle ! —</p>
+<p>et, s'étant retournée, se tait,</p>
+<p><pb/></p>
+<p>PINDARE 47</p>
+<p>peureuse, aphone et sotte ?... Quoi donc ?</p>
+<p>La rumeur des agones ? Althis, au clair de lune ? Les torches vives
+entre ses bosquets d'ombre sonores de ma prosodie ? Ou la fortune</p>
+<p>diverse de mon coeur d'enfant ou d'homme : ses joies ? leur nombre ?
+Corine la riante tristesse, Myrtis la triste joie... La vie ! mais
+qu'est-ce ? et que veux-tu de moi, père ?</p>
+<p>L'heure unique de vie est celle qu'on espère, les lendemains anticipés
+qu'on vit en soi sont morts avant de naître et le soleil retarde...</p>
+<p>(Un silence)</p>
+<p><pb/></p>
+<p>48 LA LUMIERE DE GRECE</p>
+<p>LASSOS</p>
+<p>Enfant, quel est ce deuil</p>
+<p>et quelle est donc cette attitude ?</p>
+<p>de regarder la vie identique et parée</p>
+<p>comme du seuil</p>
+<p>le prodigue se retourne</p>
+<p>vers l'ombre de la maison patriale,</p>
+<p>hésitant s'il veut fuir ou demeurer !</p>
+<p>Et quel est donc ce dégoût taciturne</p>
+<p>qui anticipe comme la lâcheté ?</p>
+<p>Demain n'est-il hier ? — et tu le sais :</p>
+<p>rentre ; la huche est pleine du pain de vie,</p>
+<p>la cendre du foyer sous un souffle s'avive,</p>
+<p>fais tienne la neuve flamme tôt jaillie</p>
+<p>— pleure même, une heure, si tu sais pleurer,</p>
+<p>mais laisse au coeur pauvre l'amertume évasive</p>
+<p>et cette lâcheté qui se récuse...</p>
+<p>PINDARE</p>
+<p>Sois juge ;</p>
+<p>écoute !</p>
+<p>Je sais des heures sans durée</p>
+<p>qui sont demain comme elles furent hier,</p>
+<p>sans cesse égales ;</p>
+<p>mais si tu doutes</p>
+<p>et si tu veux savoir</p>
+<p><pb/></p>
+<p>PINDARE 49</p>
+<p>si l'hommage des larmes dont Simonide est fier et pour lui seul, Lassos,
+écoute : ceux de Céos</p>
+<p>aux Poséidônia, songèrent aux théories, selon le rite de leur fête ; or,
+supputant le prix d'un chant de Simonide, et trouvant le prix fort</p>
+<p>— le vieillard est, dit-on, avide de gloire... et d'or</p>
+<p>et sait apprécier les choeurs qu'il mène —</p>
+<p>ils vinrent me chercher dedans Athènes,</p>
+<p>avec des lauriers et des phrases</p>
+<p>sans être dupe, j'acceptais et pris ma lyre.</p>
+<p>A la lune de Munychion,</p>
+<p>tout était prêt :</p>
+<p>les coryphées instruits, les voix d'accord ;</p>
+<p>la mer, qui' va vers Egine,</p>
+<p>tourne au large</p>
+<p>vers Cythère et la Crète,</p>
+<p>bleue, riait de rayons ;</p>
+<p>et tout le port,</p>
+<p>entre le treillis des agrès, 4</p>
+<p><pb/></p>
+<p>50 LA LUMIERE DE GRECE</p>
+<p>semblait d'argent mobile.</p>
+<p>Nous sortîmes du temple</p>
+<p>en silence,</p>
+<p>mais, dès le péristyle,</p>
+<p>la voix unique de vingt jeunes hommes</p>
+<p>jaillit</p>
+<p>— comme le premier rayon d'aube exulte,</p>
+<p>prémice, offrande de la vie ! —</p>
+<p>et monte, grande,</p>
+<p>rhythmée du murmure assourdi des voix adultes</p>
+<p>— et telle</p>
+<p>siffle la flèche de l'arc vibrant qu'elle débande</p>
+<p>et fait sonore au poing de Phoïbos ! —</p>
+<p>Et strophe sur strophe roulaient comme la mer</p>
+<p>avec le chant des alcyons sur elle,</p>
+<p>et tous les feux que fait jaillir la vague claire</p>
+<p>et l'ombre qu'elle roule entre ses flancs :</p>
+<p>le choeur monte et s'abaisse, marche et vire</p>
+<p>selon le rythme de Poseïdôn,</p>
+<p>et comme d'un vent</p>
+<p>ces marins de Céos en étaient ivres</p>
+<p>et pleuraient...</p>
+<p>Et Simonide et le jeune Bacchylide</p>
+<p>et tout le reste...</p>
+<p><pb/></p>
+<p>PINDARE 51</p>
+<p>pleuraient devant la majesté des nombres.</p>
+<p>Et moi, chantant, je vivais,</p>
+<p>Lassos,</p>
+<p>comme brûle la flamme,</p>
+<p>comme l'eau sainte humecte et boit le sel,</p>
+<p>comme l'air vole et vire,</p>
+<p>comme verdoie le printemps éternel</p>
+<p>et comme chante dans mon âme</p>
+<p>la grande lyre</p>
+<p>(Un long silence. Lassos tire quelques accords de sa lyre reprise)</p>
+<p>LASSOS, grave, dans l'ombre</p>
+<p>Les astres de la nuit !...</p>
+<p>La nuit...</p>
+<p>Fils,</p>
+<p>ta route sera longue encore</p>
+<p>après ce soir-ci d'Hermione</p>
+<p>et fait riche de joie mon vieil automne ;</p>
+<p>quoi qu'il t'en semble,</p>
+<p>entends ma voix de vieillard qui s'élève</p>
+<p>et tremble</p>
+<p>— comme un vent faible</p>
+<p>entre les feuilles de tes lauriers.</p>
+<p><pb/></p>
+<p>52 LA LUMIÈRE DE GRÈCE</p>
+<p>Ecoute :</p>
+<p>tu marcheras avec ton songe :</p>
+<p>les courbes des monts gris,</p>
+<p>les lignes de la mer,</p>
+<p>le semis clair des îles,</p>
+<p>l'ombre qui se rétracte et qui s'allonge,</p>
+<p>la grâce évoluante des filles,</p>
+<p>la svelte puberté des jeunes chairs</p>
+<p>convergent en ton regard la joie de vie.</p>
+<p>Prends tant d'amour au champ vivant des foules</p>
+<p>que ton être en déborde</p>
+<p>et fait ton âme saoule,</p>
+<p>et vibre sur l'abîme de la joie humaine</p>
+<p>comme une corde</p>
+<p>de la lyre immense ;</p>
+<p>laisse la haine</p>
+<p>qui fleurit et se fane sans semence.</p>
+<p>Prends toute la Scicanie qui broute et chante,</p>
+<p>la grande Grèce et ses moissons mouvantes,</p>
+<p>la Thrace où bruit l'interminable Thrène,</p>
+<p>Thèbes et sa lyre, la calme Laconie,</p>
+<p>la noble Athènes,</p>
+<p>toutes les îles de la mer voûtée</p>
+<p>et l'Argolie et l'Ionie,</p>
+<p>leurs langues et leurs amours, et leurs beautés,</p>
+<p>et bois l'Hellas entière en un regard ;</p>
+<p><pb/></p>
+<p>PINDARE 53</p>
+<p>joins les rayons épars,</p>
+<p>fais converger leurs joies,</p>
+<p>d'Est et d'Ouest, du Nord, du Sud,</p>
+<p>sois l'un et l'autre, puis tous :</p>
+<p>ils se rejoignent et montent</p>
+<p>vers la Cause qui se dénude ;</p>
+<p>et levant tes yeux vers le soleil ébloui</p>
+<p>aveugle-toi — et tu verras la Vie !</p>
+<p>(Un silence) Maintenant, Poète, que vois-tu ?</p>
+<p>PINDARE</p>
+<p>Sélèné s'en est allée,</p>
+<p>derrière le Taygète ;</p>
+<p>je vois Aphrodité voilée</p>
+<p>de son bleu voile</p>
+<p>qu'elle agite, voluptueuse...</p>
+<p>La belle étoile</p>
+<p>et le clair mythe !...</p>
+<p>Autour de nous tout dort,</p>
+<p>la mer est paresseuse,</p>
+<p>la brise est des Cyclades...</p>
+<p>LASSOS</p>
+<p>L'esprit déchoit ; tu vois la chair ;</p>
+<p><pb/></p>
+<p>54 LA LUMIERE DE GRECE</p>
+<p>c'est peu, regarde encore.</p>
+<p>PINDARE, perplexe Je vois...</p>
+<p>Je vois, par au-dessus des terres et de la mer, les astres de la nuit,
+par myriades !</p>
+<p>LASSOS</p>
+<p>Et maintenant, c'est trop de choses et tu n'y vois plus clair ; ferme
+les yeux, si tu l'oses ; que vois-tu ?</p>
+<p>PINDARE, souriant</p>
+<p>Je vois ce que tu vois, sans doute, maître ? LASSOS, très grave</p>
+<p>Non pas encore, enfant, peut-être :</p>
+<p>car moi,</p>
+<p>moi qui par maints chemins me suis rendu</p>
+<p>vers cette heure-ci, dont le pied pose</p>
+<p>plus sourdement, comme celle qui guette ;</p>
+<p>moi qui suis près du seuil par où l'on sort</p>
+<p>fiévreux ou calme, selon l'âge, vers la mort ;</p>
+<p>je vois, ô mon enfant, ô mon poète,</p>
+<p>la route où tout retourne vers l'identité,</p>
+<p>l'amour, l'espoir, la gloire, la beauté ;</p>
+<p>enfant, je vois la Nuit d'Éternité...</p>
+<p><pb/></p>
+<p>SAPHO</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>MNÉCÉDICE</p>
+<p>fivâaeadai Ttvâ tpa/Ât KCÙ vartpov âfifieuiv</p>
+<p>Quelqu'un, je crois, se souviendra dans l'avenir de nous.</p>
+<p>R. V.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>MNÉCÉDICE</p>
+<p>... Avant la nuit venue, avant la lune froide et nue, avant les
+flambeaux qu'on allume, que l'heure est pâle et fine ! Ce fut une claire
+journée...</p>
+<p>MNÉCÉDICE</p>
+<p>Ce choeur, tantôt, ces doux mots confondus aux rires des flûtes et qu'on
+devine, résonne encore et rit</p>
+<p><pb/></p>
+<p>60 LA LUMIÈRE DE GRÈCE</p>
+<p>gai, triste, ténu et lointain,</p>
+<p>comme la chute</p>
+<p>d'un ruisselet d'écume</p>
+<p>dans le grand vide de ma rêverie...</p>
+<p>— où donc mon rêve m'a-t-il menée ?...</p>
+<p>CHOEUR</p>
+<p>Hymen, hyménée...</p>
+<p>MNÉCÉDICE</p>
+<p>J'écoute,</p>
+<p>je crois écouter</p>
+<p>la clochette des chèvres d'Ida, frêle et claire,</p>
+<p>errante et suspendue</p>
+<p>sur l'abîme d'un antre ou de la mer</p>
+<p>dont monte, atténuée, l'âme indiscontinue...</p>
+<p>CHOEUR</p>
+<p>Hymen, hyménée... MNÉCÉDICE</p>
+<p><pb/></p>
+<p>SAPHO 61</p>
+<p>attardé sur la cime du Pinde</p>
+<p>et dont la robe blanche</p>
+<p>traîne encore jusqu'au Pantélique...</p>
+<p>dans l'aube d'avril, alors qu'un oiseau chante :</p>
+<p>le lourd baiser du soleil jeune qui donne froid :</p>
+<p>la voici frémissante de désir et de joie</p>
+<p>d'être sa proie...</p>
+<p>SAPHO, survenant et qui se penche sur elle</p>
+<p>Que fais-tu ? recherchant la solitude ainsi,</p>
+<p>Mnécédice, toi ma prude</p>
+<p>aux tresses d'ombre,</p>
+<p>au front d'ivoire poli,</p>
+<p>aux chastes attitudes ?</p>
+<p>Pourquoi serais-tu sombre ?</p>
+<p>toi plus gracieuse et plus jolie</p>
+<p>que cette délicate Gyrinna</p>
+<p>qu'emmène ailleurs l'époux ?</p>
+<p>Nous chanterons l'épithalame un soir, pour toi,</p>
+<p>en mots de joie si souples et si doux</p>
+<p>qu'ils seront comme l'étreinte des adieux</p>
+<p>fleurie de toutes nos roses moissonnées...</p>
+<p><pb/></p>
+<p>62 LA LUMIERE DE GRECE</p>
+<p>CHOEUR</p>
+<p>Hymen, hyménée...</p>
+<p>MNÉCÉDICE</p>
+<p>Ne plaise aux Dieux !</p>
+<p>O grande amie, mon songe ailé</p>
+<p>planait sur la mer aux cent mirages</p>
+<p>du vol capricieux de ces mouettes attardées,</p>
+<p>flottants pétales, fardés</p>
+<p>du reflet de ce jour qui meurt ;</p>
+<p>je rêve de mariage,</p>
+<p>moi que le chant exalte, ardent et chaste,</p>
+<p>du seul scintillement des astres ?</p>
+<p>Si, comme tes fines mains créatrices,</p>
+<p>la mienne, trop osée,</p>
+<p>frappait un jour la lyre d'ébène</p>
+<p>aux pures délices,</p>
+<p>selon le rythme apparié de Mytilène,</p>
+<p>tous mes voeux seraient exaucés...</p>
+<p>CHOEUR Hymne, hyménée, hymen...</p>
+<p><pb/></p>
+<p>SAPHO 63</p>
+<p>MNÉCÉDICE</p>
+<p>Pourtant, n'est-il pas triste,</p>
+<p>triste et doux,</p>
+<p>que Gyrinna s'en soit partie vers la demeure</p>
+<p>de l'époux,</p>
+<p>rompant la ronde où tournoyaient nos heures</p>
+<p>et que sa voix haute et si claire</p>
+<p>manque au beau choeur</p>
+<p>que mène, ici, Sapho, au gré d'Aphrodité ?...</p>
+<p>Maîtresse altière n'en es-tu pas attristée ?...</p>
+<p>Je reste comme étonnée...</p>
+<p>CHOEUR</p>
+<p>Hymen, hyménée</p>
+<p>SAPHO</p>
+<p>Mon âme est l'aînée de la tienne,</p>
+<p>Mnécédice aux beaux bras que tu lèves</p>
+<p>en un geste d'amphore</p>
+<p>dont ta voix est le vin ;</p>
+<p>je vois clair dans la nuit lesbienne,</p>
+<p>je pressens les aurores,</p>
+<p>ma pensée anticipe sur le jour qui s'en vient.</p>
+<p><pb/></p>
+<p>64 LA LUMIERE DE GRECE</p>
+<p>Autres sont mes tristesses,</p>
+<p>différentes sont mes joies ;</p>
+<p>Mnécédice et tes noires tresses,</p>
+<p>Mnécédice et ta grave voix ;</p>
+<p>l'hymen harmonieux guette ta chair sacrée :</p>
+<p>il t'entraînera vers la douleur qui crée,</p>
+<p>vers la vie vaste et saine,</p>
+<p>vers la joie identique, fatale et surhumaine</p>
+<p>en son rythme éternel ;</p>
+<p>un soir, assise au seuil de l'époux, épousée,</p>
+<p>tu nourriras d'un lait paisible et maternel</p>
+<p>le rêve de la femme en toi réalisé.</p>
+<p>MNÉCÉDICE</p>
+<p>Sapho qui mènes un choeur d'épithalame,</p>
+<p>Sapho dont la voix dans la nuit d'Ionie</p>
+<p>rêve et roule et rejoint</p>
+<p>le roucoulement des colombes,</p>
+<p>Sapho dont le chant soudain vibre et retombe</p>
+<p>comme l'aile en émoi des tourterelles,</p>
+<p>pourquoi donc es-tu vierge ?</p>
+<p>Pourquoi donc n'as-tu suivi l'époux ?</p>
+<p>Mais que sais-je? Qu'ai-je dit?... J'embrasse tes geno</p>
+<p>Pourtant</p>
+<p>n'oserai-je t'imiter, Sapho ?</p>
+<p>Ainsi que j'ai suivi de ma main sur la lyre</p>
+<p><pb/></p>
+<p>SAPHO 65</p>
+<p>ton geste sans défaut</p>
+<p>et le rythme ailé de ta voix essorée,</p>
+<p>de ma voix hasardée, premier vol d'oiselet,</p>
+<p>vers l'azur où la tienne monte et plane en chantant ?</p>
+<p>Claire enfant, le miel de tes lèvres adoucit nos mots graves.</p>
+<p>MNÉCÉDICE</p>
+<p>Si les mots graves et doux que tu poses</p>
+<p>sur nos lèvres dociles</p>
+<p>un sourire aux fossettes —</p>
+<p>n'étaient que jeux vains de poètes,</p>
+<p>y devrais-je brûler mon âme</p>
+<p>et mon corps de vierge</p>
+<p>et mon rêve de femme,</p>
+<p>pour m'abuser de mensonges ?</p>
+<p>Sapho dont la voix se prolonge</p>
+<p>en écho sur la mer aux cent îles</p>
+<p>sonores de ces mots d'amour rieurs et doux</p>
+<p>dont les roses fleurent l'émoi ;</p>
+<p>Sapho qui n'a pas voulu l'épithalame ;</p>
+<p>pourquoi bercerais-je un jour 5</p>
+<p><pb/></p>
+<p>66 LA LUMIÈRE DE GRÈCE</p>
+<p>sur le seuil de l'époux un enfant né de moi ?...</p>
+<p>SAPHO</p>
+<p>Prends ta lyre qui chante</p>
+<p>et nous dirons l'amour ;</p>
+<p>vous toutes,</p>
+<p>harmonieuses et bien-aimées,</p>
+<p>groupez le choeur, liez vos gestes et vos pas,</p>
+<p>variera l'antistrophe eurythmée.</p>
+<p>(Le choeur évolue au chant de Sapho) L'amour est désir, Mnécédicé, grain
+semé, fleur d'avril ; si l'amour possédait, Mnécédicé, que désirerait-il?</p>
+<p>Il désire et n'a pas, Mnécédicé ma prude, l'amour espère et craint : il
+est incertitude ; il doit craindre de perdre ce qu'il croit possèder une
+heure, sinon il n'est plus le désir, Mnécédicé, ma fleur.</p>
+<p>MNÉCÉDICE</p>
+<p>On suit le sentier, on se hâte ;</p>
+<p><pb/></p>
+<p>SAPHO 67</p>
+<p>— pourquoi, folle, te hâter de la sorte ?</p>
+<p>— Je ne sais, mais qui sait si au tournant, là-bas, où ma course m'emporte,</p>
+<p>l'amour ne m'a guettée depuis l'éternité?</p>
+<p>Si je n'étais folle, je ne courrais pas !</p>
+<p>Si je savais demain, veillerais-je, la nuit,</p>
+<p>Je cours sous le ciel clair comme un chant de poète</p>
+<p>au pas de l'heure qui toujours fuit ;</p>
+<p>je suis folle ? Non : J'aime ! Qui ? Je ne sais encore...</p>
+<p>CHOEUR</p>
+<p>La fièvre m'aveugle, amour chasse la nuit du rire rose de l'aurore.</p>
+<p>SAPHO</p>
+<p>Erinna, l'amour est l'amour</p>
+<p>de la beauté parfaite,</p>
+<p>car l'agile beauté dépasse le vol lourd</p>
+<p>où le désir halète ;</p>
+<p>son visage se ride d'angoisse,</p>
+<p>vers la Beauté rebelle ;</p>
+<p>de l'aile il défeuille les roses qu'il froisse</p>
+<p>en sa hâte vers elle ;</p>
+<p>s'il suit l'immortelle Aphrodité</p>
+<p>c'est qu'il recherche en elle la beauté surhumaine,</p>
+<p><pb/></p>
+<p>68 LA LUMIÈRE DE GRÈCE</p>
+<p>il n'est pas né de la déesse</p>
+<p>de Mytilène ;</p>
+<p>mais il n'a cesse</p>
+<p>qu'il ne nons guide et nous entraîne</p>
+<p>ardent et inclassé vers sa divinité.</p>
+<p>ERINNA</p>
+<p>Ce n'est pas toi que j'aime, c'est ton visage clair, ton sourire de miel ;</p>
+<p>qu'importe mon teint noir, si je t'aime, lumière de mes yeux, clarté du
+ciel ? Souris ; car je souffre ; ma douloureuse ivresse est risible et
+outrée ;</p>
+<p>mais, laisse : mon amour m'abat et me redresse : c'est par lui que je
+sais ta beauté ! L'amour, depuis des nuits de délice et d'effroi, m'a
+tenue, blessée, par la main ; j'aimais avant de t'avoir vue, mais
+c'était toi que j'aimais, glorieux matin ! Toi ! non pas même,
+peut-être, ô clair visage, ta beauté rayonnée</p>
+<p>m'aspire et je m'élève par dessus les nuages vers la divinité !</p>
+<p>CHOEUR</p>
+<p>Amour, toute splendeur filtre en ors aux feuillées ;</p>
+<p><pb/></p>
+<p>SAPHO 69</p>
+<p>ta main contre ma lèvre est ta nudité chaste ; la joie que j'appréhende,
+ailes multipliées, essaime mes désirs aux bleus jardins des astres, et
+je ferme les yeux pour sentir le frisson du souffle ambroisien des dieux
+contre mon front !</p>
+<p>SAPHO</p>
+<p>Si l'amour veut la joie, Andromèda,</p>
+<p>il la veut éternelle ;</p>
+<p>il ne souhaite étreindre la beauté</p>
+<p>qu'afin de se perpétuer en elle ;</p>
+<p>il veut revivre dans un corps</p>
+<p>ou renaître en un âme ;</p>
+<p>la beauté frêle n'est pas l'objet du grave amour,</p>
+<p>mais leur éternité !</p>
+<p>Car ne faut-il pas que demeurent immortels</p>
+<p>le reflet de la rose en l'onde qui s'écoule,</p>
+<p>au front de la beauté le baiser de l'amour ?</p>
+<p>ANDROMÈDA</p>
+<p>Oui, j'ai compris l'amour de Gyrinna la blanche</p>
+<p>appuyée sur l'époux après le sacrifice ;</p>
+<p>j'ai pleuré de la suivre des yeux, entre les branches,</p>
+<p>s'en aller loin de nous</p>
+<p>comme une heure s'enfuit</p>
+<p>en nos rires d'enfance :</p>
+<p><pb/></p>
+<p>70 LA LUMIÈRE DE GRÈCE</p>
+<p>je sais qu'elle rêvait de renaître en des fils et nous avons chanté son
+rêve qui commence.</p>
+<p>SAPHO</p>
+<p>...Celle-là... l'avez-vous pas compris ?</p>
+<p>Ma Démophilie et toi Mnécédice,</p>
+<p>oh ! celle-là, délice !</p>
+<p>qui naît féconde selon l'esprit...</p>
+<p>Dès sa jeunesse elle a porté en elle</p>
+<p>le germe vigilant de son génie ;</p>
+<p>dès bien avant la puberté,</p>
+<p>elle sut l'attrait de la beauté des clairs visages ;</p>
+<p>adolescente ardente et sage,</p>
+<p>elle s'est émue des belles lignes de la vie ;</p>
+<p>mais ce qu'elle a cherché en elles</p>
+<p>(ah ! que sa quête du bel amour fut belle !)</p>
+<p>c'est un reflet de toi, ô Beauté invisible,</p>
+<p>un écho de ta voix inouïe ;</p>
+<p>or, t'ayant reconnue, elle s'en est réjouie</p>
+<p><pb/></p>
+<p>SAPHO 71</p>
+<p>en un grand cri d'extase qui vibre sur le monde, car au contact
+impérieux de la Beauté elle a tressailli, soudain féconde, mère d'un
+rythme éternisant !</p>
+<p>ERINNA</p>
+<p>Notre gloire, si nous sommes belles,</p>
+<p>et si nos danses t'agréent, si nos voix te suivent,</p>
+<p>ce n'est pas d'être belles, ni d'être aimées,</p>
+<p>ce n'est pas que nos lyres résonnent</p>
+<p>au gré de nos doigts plus experts</p>
+<p>et donnent</p>
+<p>ni qu'en reflets sur nos grandes ailes</p>
+<p>la flamme des flambeaux coure et vive ;</p>
+<p>mais c'est d'être belles pour toi qui t'exaltes,</p>
+<p>Sapho, lyre d'or, voix unique,</p>
+<p>c'est qu'aux lignes ordonnées de nos gestes,</p>
+<p>aux poses drapées de nos tuniques</p>
+<p>tes grands yeux d'ombre ouverts, sur la nuit</p>
+<p>aient vu le rayon de la Beauté céleste,</p>
+<p>invisible pour d'autres,</p>
+<p>déchirer l'infini...</p>
+<p>SAPHO</p>
+<p>Désormais tout amour la possède,</p>
+<p><pb/></p>
+<p>72 LA LUMIÈRE DE GRÈCE</p>
+<p>la lie aux choses la fond en la vie ;</p>
+<p>les beaux fruits palpitent en sa main qui les cueille;</p>
+<p>les grands blés houlent ;</p>
+<p>en un chant de feuilles</p>
+<p>que les galets roulent</p>
+<p>la mer se diapre en prairie ;</p>
+<p>le ciel rit et sa joie en reflète l'orgueil :</p>
+<p>il naît de son baiser qu'effleure un jeune front</p>
+<p>un frisson de clarté pareil au bruit que font</p>
+<p>les battements mêlés d'ailes de tourterelles ;</p>
+<p>et l'enfant né de son âme</p>
+<p>étreinte par une âme</p>
+<p>est beau d'autant plus que leur âme est plus belle</p>
+<p>que le reflet de Dieu dans la chair de la femme...</p>
+<p>ATHIS</p>
+<p>Tes fils et tes filles,</p>
+<p>tes pensées,</p>
+<p>les voici : nos pas que tu guides,</p>
+<p>Voix divine,</p>
+<p>nos joues roses de gloire, nos lignes</p>
+<p>enlacées,</p>
+<p>notre choeur</p>
+<p>et nos voix qui s'élèvent en un chant cadencé</p>
+<p>né de toi et de nous...</p>
+<p><pb/></p>
+<p>SAPHO 73</p>
+<p>SAPHO</p>
+<p>O mes soeurs,</p>
+<p>bénies</p>
+<p>soient les femmes qui vous ont formées</p>
+<p>mais moi, Sapho, maternelle,</p>
+<p>n'ai-je engendré vos âmes</p>
+<p>harmonieuses !</p>
+<p>Ce chant, cette danse qui fondent</p>
+<p>au rythme des mondes</p>
+<p>la jeunesse et l'éternité,</p>
+<p>ne sont-ils nés de moi ? vos voix, vos pas ?</p>
+<p>N'est-elle, votre beauté !</p>
+<p>ma Vie féconde ?</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>ALCÉE</p>
+<p>Al S1 $)(EÇ 'iaXiov 'ifxepov r/ KaXtov, Kal fijf TI \?c.iirr)v y\G)aa
+ÈKVKa icâk'ov, aî'Swç K£ a ov KtyavEV binraT, &lt;L\X' eXeyeç wepl rai
+èticaiwç.</p>
+<p>ZaTréw</p>
+<p>Si tu avais eu le désir des choses nobles et belles, et si ta langue
+n'avait préféré une phrase vile, la pudeur n'aurait pas fait baisser tes
+yeux, mais tu aurais parlé selon la justice.</p>
+<p>R. V.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>SAPHO</p>
+<p>Ce murmure de l'eau, n'est-ce la voix lointaine</p>
+<p>de lèvres belles</p>
+<p>un souffle d'ailes ?</p>
+<p>On respire dans l'ombre un goût de fruit...</p>
+<p>ALCÉE</p>
+<p>Un éclat de la lune sur le golfe qu'elle moire</p>
+<p>flotte, là-bas, entre les branches du verger ;</p>
+<p>le bruissement continu de la mer,</p>
+<p>ample et léger,</p>
+<p>soutient le chant roulé des sources lestes ;</p>
+<p>ne dirait-on, ce soir,</p>
+<p>qu'Orphée aux lèvres encore chantantes,</p>
+<p><pb/></p>
+<p>78 LA LUMIERE DE GRECE</p>
+<p>porté par sa lyre vibrante aux brises, revient, bercé des flots, vers
+Methymna ?...</p>
+<p>SAPHO</p>
+<p>Voix d'Ionie trop douces, lèvres qu'on farde, n'est-il, dans tous vos
+murmurants échos, un son d'airain ?</p>
+<p>(des trompettes au loin se répondent)</p>
+<p>ALCÉE</p>
+<p>Les nôtres prennent la garde.</p>
+<p>SAPHO</p>
+<p>O nuit ardente d'insomnie !</p>
+<p>O clartés vives :</p>
+<p>nul mythe où ne s'inscrive</p>
+<p>la défaite de l'ombre</p>
+<p>en mots de joie :</p>
+<p>quel chant,</p>
+<p>Orphée, myste premier du nombre,</p>
+<p>quel sanglot de la grève, quel thrène des grands bois</p>
+<p>peut pallier ta mort ?</p>
+<p>Ta gloire lamentable est toute dévêtue</p>
+<p>du manteau d'or souillé que traînent les bacchantes...</p>
+<p>Pourtant</p>
+<p>le mythe négateur affirme et chante</p>
+<p><pb/></p>
+<p>SAPHO 79</p>
+<p>que, si le désir brutal tourbillonne et tue,</p>
+<p>la passion exalte et vivifie ;</p>
+<p>la vie est franche :</p>
+<p>la saveur de la brise ne m'assoiffe</p>
+<p>qu'autant qu'il est des fruits aux branches</p>
+<p>sous la nuit moite</p>
+<p>et que mes lèvres s'y étanchent ;</p>
+<p>qu'autant qu'il est des lèvres vives,</p>
+<p>des voix de filles, là-bas — écoute !</p>
+<p>(Choeurs lointains)</p>
+<p>ALCÉE</p>
+<p>Un fruit, un hymne ! C'est toi, Sapho...</p>
+<p>SAPHO</p>
+<p>Va cueillir de ta main</p>
+<p>le fruit sonore de la gloire qui, s'il choit,</p>
+<p>retentit comme un cri aux dalles</p>
+<p>et vibre au long du corridor des âges !</p>
+<p>ALCÉE</p>
+<p>Demain...</p>
+<p>Crois aux présages :</p>
+<p>les dieux acquiescent.</p>
+<p><pb/></p>
+<p>80 LA LUMIÈRE DE GRÈCE</p>
+<p>SAPHO</p>
+<p>L'attente énerve...</p>
+<p>Ce miroitement, ces chants me bercent ;</p>
+<p>il semble que l'on dorme ;</p>
+<p>le marbre est froid contre ma nuque ;</p>
+<p>là-haut, la nuit énorme</p>
+<p>s'ouvre et recule,</p>
+<p>s'élargit comme un geste harmonieux,</p>
+<p>beau rêve qui précise</p>
+<p>la forme redoutée des dieux...</p>
+<p>ALCÉE</p>
+<p>Comme ton âme est vaste,</p>
+<p>Sapho,</p>
+<p>les visions, par troupes,</p>
+<p>y tournent au rythme évolué des astres...</p>
+<p>SAPHO</p>
+<p>ALCÉE</p>
+<p>Je l'ai tendue aux grappes que tu presses, je me suis enivré d'un vin
+trop fort.</p>
+<p><pb/></p>
+<p>SAPHO 81</p>
+<p>SAPHO</p>
+<p>Ah ! qu'il t'exalte et qu'il t'impose</p>
+<p>— tresseur de rêves roses,</p>
+<p>vannier du bord de routes bleues —</p>
+<p>l'acte, enfin ! qui fera de ta pensée</p>
+<p>un geste qui crée,</p>
+<p>un geste de dieu, que dis-je ? d'homme ;</p>
+<p>Alcée, la gloire implacable te somme :</p>
+<p>elle est là-bas, derrière l'aube ardente,</p>
+<p>elle marche au pas des heures,</p>
+<p>elle vient...</p>
+<p>ALCÉE</p>
+<p>Sapho, la nuit</p>
+<p>est pâle et lente ;</p>
+<p>l'ombre (n'y as-tu pas songé ?)</p>
+<p>nous roule au pli léger</p>
+<p>d'un même manteau d'infini...</p>
+<p>Tresseuse de violettes,</p>
+<p>chaste Sapho, sourire de miel,</p>
+<p>cette heure n'est-elle nôtre encore, entre terre et ciel?</p>
+<p>pourtant je ne sais que te dire,</p>
+<p>la honte me retient...</p>
+<p>SAPHO</p>
+<p><pb/></p>
+<p>82 LA LUMIERE DE GRECE</p>
+<p>des choses sans noblesse,</p>
+<p>ne te suffirait-il des clairs mots anciens</p>
+<p>dont frémirent nos lyres ?</p>
+<p>La pensée belle</p>
+<p>se pare de paroles agiles comme des ailes ;</p>
+<p>si le désir du Vrai, du Beau, du Bien</p>
+<p>gerçait ta lèvre</p>
+<p>d'un feu pur et farouche,</p>
+<p>quelle honte fausserait ta voix ?</p>
+<p>quelle pudeur te clorait la bouche ?...</p>
+<p>Songes-tu qui nous sommes ?</p>
+<p>Quand l'esprit d'une femme étreintun cerveau d'homme,</p>
+<p>quel dieu rabat le vol des grandes âmes éprises ?</p>
+<p>De par quels gestes de méprises</p>
+<p>pendent, tout emmêlés,</p>
+<p>les écheveaux du beau métier de rêve</p>
+<p>Quel poids d'argile adhère aux sandales ailées ?...</p>
+<p>Alcée, au nom des dieux !</p>
+<p>Nos haines haut dressées,</p>
+<p>nos espoirs déployés</p>
+<p>au vent d'enthousiasme,</p>
+<p>n'ont-ils gréé pour la tempête un vaisseau clair ?</p>
+<p>Nos opulentes énergies,</p>
+<p>englouties et noyées,</p>
+<p><pb/></p>
+<p>SAPHO 83</p>
+<p>Le dégoût d'un vil démos asservi</p>
+<p>joyeux sous la morsure des verges</p>
+<p>pourvu qu'en aient saigné des flancs divins ;</p>
+<p>l'horreur des heures médiocres que mesure,</p>
+<p>rigide, avide, somnolente,</p>
+<p>la sagesse d'un Pittacos</p>
+<p>aveugle et sûr ;</p>
+<p>l'honneur des saintes élites,</p>
+<p>pur choix des dieux propices aux moins indignes ;</p>
+<p>l'ordre du clair cerveau que guette un bras d'athlète,</p>
+<p>soit qu'il lance le disque</p>
+<p>soit qu'il manie le plectre ;</p>
+<p>tout l'orgueil téméraire qui ose et risque ;</p>
+<p>L'Autan qui rit, approuve, fait signe,</p>
+<p>derrière ces heures-ci d'opprobre,</p>
+<p>au lendemain viril dont notre glaive,</p>
+<p>du haut en bas,</p>
+<p>va fendre le manteau de fille...</p>
+<p>Alcée, de tout cet horizon clair qui s'élève,</p>
+<p><pb/></p>
+<p>84 LA LUMIÈRE DE GRÈCE</p>
+<p>coeur débile, âme abâtardie,</p>
+<p>toi que j'ai convié comme un amant divin</p>
+<p>au chevet las de la Patrie</p>
+<p>pour un baiser fécond et surhumain</p>
+<p>tu n'en ferais, te retournant vers moi</p>
+<p>— ignominieusement, vers une femme —</p>
+<p>qu'une heure érotique et futile,</p>
+<p>qu'un frôlement de chair honteuse et vaine...</p>
+<p>ALCÉE</p>
+<p>O forme, ô voix ! ô gloire de Mytilène !</p>
+<p>SAPHO</p>
+<p>Si tu le veux, mais d'une volonté royale,</p>
+<p>je suis ta gloire réalisée !</p>
+<p>Agis, poète, ton poème :</p>
+<p>épouse ma pensée ;</p>
+<p>deviens toi-même.</p>
+<p>Je te sais brave</p>
+<p>(malgré ta pauvre histoire du bouclier jeté,</p>
+<p>ta lâcheté de bravade et ton masque</p>
+<p>désabusé)</p>
+<p>aime donc la gloire armée :</p>
+<p>prends l'épée et le casque ;</p>
+<p>ma forme, ma voix, mon ivresse t'exaltent ?</p>
+<p><pb/></p>
+<p>SAPHO 85</p>
+<p>sois digne d'elles et d'assumer leur poids sacré,</p>
+<p>vêts-toi des beautés qui te créent :</p>
+<p>Aime !</p>
+<p>Mais tu ne sais aimer :</p>
+<p>ton âme est en détresse ;</p>
+<p>penses-tu donc que l'amour s'assouvisse ?</p>
+<p>La soif n'est pas l'ivresse ;</p>
+<p>la passion n'est pas le vice.</p>
+<p>Si j'aime,</p>
+<p>ma passion me déifie :</p>
+<p>je deviens mon poème ;</p>
+<p>telle, jaillie des cordes de ma lyre,</p>
+<p>une harmonie,</p>
+<p>complexe et une,</p>
+<p>s'élargit sous le ciel, emplit la nuit,</p>
+<p>empiète sur l'immensité des dieux...</p>
+<p>et, m'élevant, je grandis comme une ombre rose; ces monts, tendus
+éperdument vers l'infini, soudain s'avivent :</p>
+<p><pb/></p>
+<p>86 LA LUMIÈRE DE GRÈCE</p>
+<p>cette île, désir captif, en moi s'est libérée ;</p>
+<p>mon rêve, fondu au sien que j'ai transfiguré,</p>
+<p>monte, sonore dans l'aube et rejoint l'empyrée</p>
+<p>le quadrige du jour</p>
+<p>se cabre et se déploie :</p>
+<p>je suis la joie,</p>
+<p>je suis l'amour,</p>
+<p>je suis la gloire de Mytilène</p>
+<p>qui plane et monte...</p>
+<p>ALCÉE</p>
+<p>O t'aimer, Sapho, dans la nuit !</p>
+<p>Te ravir, sans remords ni honte,</p>
+<p>aux dieux resplendissants !</p>
+<p>Grappes de violettes, tes boucles</p>
+<p>m'effleurent ;</p>
+<p>ton bras contre ma joue</p>
+<p>palpite comme le miroitement des vagues, des étoiles;</p>
+<p>ta voix est la brise du printemps sur la mer...</p>
+<p>SAPHO</p>
+<p>Sois donc la voile !</p>
+<p><pb/></p>
+<p>SAPHO 87</p>
+<p>nous dont le sang est comme un vin qui brûle,</p>
+<p>le sens divin d'une sagesse autre</p>
+<p>que celle qui borne de pierres le champ de vie,</p>
+<p>de formules brèves, de gestes courts ?</p>
+<p>ALCÉE</p>
+<p>Sapho, tu es la nuit même qui rêve et parle et raconte demain...</p>
+<p>SAPHO</p>
+<p>Non, laisse ma main...</p>
+<p>Je ne suis qu'une femme encore pour toi,</p>
+<p>ton désir rampe ;</p>
+<p>tu groupes autour de moi (que sert de feindre ?)</p>
+<p>la gloire, la nuit, la vie,</p>
+<p>pour leurrer ta pensée appesantie</p>
+<p>de l'espoir de m'étreindre ;</p>
+<p>un pauvre geste ravale ton rêve</p>
+<p>d'un sanglot, d'un soupir...</p>
+<p>ALCÉE</p>
+<p>Ta pensée m'enveloppe, ton haleine</p>
+<p>m'enivre,</p>
+<p>ta parole est un parfum...</p>
+<p><pb/></p>
+<p>88 LA LUMIÈRE DE GRÈCE</p>
+<p>SAPHO</p>
+<p>Alcée, Alcée,</p>
+<p>n'es-tu plus le poète</p>
+<p>dont je veux faire un dieu ?</p>
+<p>Le désir est sans but que celui qu'il s'assigne :</p>
+<p>ne verras-tu, dans ton image que reflètent</p>
+<p>mes yeux de ténèbres en mes boucles bleues,</p>
+<p>qu'un homme semblable aux autres,</p>
+<p>entre des bras de femme ?</p>
+<p>O désespoir !</p>
+<p>Ne sauras-tu transposer cet effroi sacré,</p>
+<p>dont ton corps tremble</p>
+<p>au contact de mes mains,</p>
+<p>S'il faut mourir,</p>
+<p>la beauté qu'elle assaille</p>
+<p>déforme et brise,</p>
+<p>ne saurais-tu survivre</p>
+<p>en procréant en un geste de gloire</p>
+<p>la neuve liberté de Mytilène ?</p>
+<p>ALCÉE</p>
+<p>Tu fais de moi le verbe d'un poème, Sapho ;</p>
+<p><pb/></p>
+<p>SAPHO 89</p>
+<p>en refermant mes bras sur ta pensée,</p>
+<p>j'étreins ta chair...</p>
+<p>Entends-moi bien :</p>
+<p>Cette heure de fièvre,</p>
+<p>si vaste que la fasse ton beau geste,</p>
+<p>si chaste que la crie ta lèvre,</p>
+<p>est palpitante comme ta gorge harmonieuse,</p>
+<p>est chaude et riche du parfum de ta voix ;</p>
+<p>te n'ai pas honte de t'aimer comme un homme</p>
+<p>ce rendez-vous me l'as-tu pas donné ?</p>
+<p>SAPHO</p>
+<p>Va, passe,</p>
+<p>si tu n'es plus qu'un homme</p>
+<p>qu'es-tu venu me parler bas dans l'ombre ?</p>
+<p>ALCÉE</p>
+<p>Non, mais écoute :</p>
+<p>si l'aube encore silencieuse et pâle,</p>
+<p>dont vont jaillir tantôt les voix sans nombre,</p>
+<p>pour ma gloire</p>
+<p>ou ma honte,</p>
+<p>s'ensanglante d'un meurtre expiatoire,</p>
+<p>ma main sera-t-elle moins prompte</p>
+<p>au flanc de Pittacos,</p>
+<p>ma voix moins sûre</p>
+<p><pb/></p>
+<p>90 LA LUMIÈRE DE GRÈCE</p>
+<p>un peuple mauvais courtisan de la déroute,</p>
+<p>pour ce que, dans ma barbe, et dans ma chevelure</p>
+<p>j'emporterai le parfum de tes violettes,</p>
+<p>Sapho ?</p>
+<p>Ah ! Sapho...</p>
+<p>SAPHO</p>
+<p>Laissons ; adieu... écoute...</p>
+<p>(Une trompette sonne du haut de l'Acropole) l'heure est venue... tu
+hésites, tu doutes ?</p>
+<p>ALCÉE, qui s'est dressé, se retournant vers elle Tu m'as grisé d'un vin
+trop fort !</p>
+<p>SAPHO</p>
+<p>Tu as jeté ton bouclier, Alcée,</p>
+<p>ton pauvre amour est nu ;</p>
+<p>hélas ! je l'aurais vêtu d'une armure d'or !</p>
+<p>Pour vaincre et non mourir,</p>
+<p>pour régner, non pour fuir ;</p>
+<p>je t'aurais fait un bouclier de diamant</p>
+<p>d'une larme sacrée,</p>
+<p>mais quoi...</p>
+<p>ALCÉE</p>
+<p>Sapho, ma joie, ma gloire !</p>
+<p><pb/></p>
+<p>SAPHO 91</p>
+<p>Ce sable pur,</p>
+<p>où nos pas emmêlés vont s'effacer</p>
+<p>sous le vent d'aube qui se lève,</p>
+<p>cette herbe de la grève</p>
+<p>que repousse ton pied impatient de femme,</p>
+<p>s'étreignant dans la flamme</p>
+<p>ne feraient qu'un cristal...</p>
+<p>Eh bien! n'es-tu pas la Fleur de Lesbos? Ah! ta joue...</p>
+<p>SAPHO, le repoussant Mais ton pauvre désir est de la boue !...</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>A LEUCATE</p>
+<p>... ôXXa tràv TÔXfiarov ...</p>
+<p>Mais il faut oser tout.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>Sapho que précède un guide rustique s'arrête au bord de la falaise ; le
+plateau en pente douce porte là-bas contre le ciel un petit temple ; le
+vent ondule dans les herbes tendres de munychion.</p>
+<p>SAPHO</p>
+<p>Eblouissante mer !</p>
+<p>Mer où s'en sont allées</p>
+<p>les joies ailées</p>
+<p>aux horizons de mon enfance,</p>
+<p>mer, seuil immense</p>
+<p>des propylées de l'infini !</p>
+<p>Ce vent mêlé au soleil rejailli</p>
+<p>soulève et chasse autour de mon poème</p>
+<p>un embrun de lumière,</p>
+<p>d'or liquide, de splendeur faits souffle !</p>
+<p>Et ton implacable beauté</p>
+<p>assaille</p>
+<p>ce long regard suprême</p>
+<p>encore d'un prodige :</p>
+<p><pb/></p>
+<p>96 LA LUMIERE DE GRECE</p>
+<p>quel portail rejeté</p>
+<p>du dieu qui s'y engouffre</p>
+<p>au galop glorieux du grand quadrige !...</p>
+<p>LE GUIDE</p>
+<p>Ce promontoire où blanchit de l'écume</p>
+<p>c'est l'extrême Céphalénie ;</p>
+<p>et si vous retournez la tête,</p>
+<p>clignant des yeux,</p>
+<p>au Sud, là-bas, derrière la brume,</p>
+<p>c'est Ithaque, la blonde.</p>
+<p>SAPHO</p>
+<p>qui tournent, se rejoignent, se confondent...</p>
+<p>Pour ne pas retracer dans la poussière</p>
+<p>leurs pas légers,</p>
+<p>le dieu n'a-t-il donné des ailes de lumière</p>
+<p>aux claires idées ?...</p>
+<p>LE GUIDE</p>
+<p>On domine la mer de cent coudées.</p>
+<p>Tantôt, autour de cet autel,</p>
+<p>les bergers s'en viendront, chacun avec sa belle,</p>
+<p><pb/></p>
+<p>SAPHO 97</p>
+<p>porter le lait caillé sur de ces claies</p>
+<p>qu'ils tressent de myrthe et d'oranger ;</p>
+<p>ils se groupaient aux sources alors que nous passions;</p>
+<p>on devrait entendre leur marche qu'ils rythment</p>
+<p>au son des flûtes de sureau ;</p>
+<p>nous voyons cela chaque saison que Zeus nous donne;</p>
+<p>il faut être bien jeune pour trouver du nouveau ;</p>
+<p>mais pour un étranger,</p>
+<p>SAPHO</p>
+<p>Va ; désormais je n'ai plus besoin de personne.</p>
+<p>LE GUIDE</p>
+<p>Faudra-t-il vous attendre tard ce soir ?</p>
+<p>Le passage est étroit dans les sables mouvants,</p>
+<p>il peut y avoir danger...</p>
+<p>SAPHO</p>
+<p>Non, laisse-moi,</p>
+<p>je n'aurai besoin de personne.</p>
+<p>LE GUIDE</p>
+<p>c' est qu'on travaille peu depuis l'automne</p>
+<p>et vous êtes bonne cliente... 7</p>
+<p><pb/></p>
+<p>98 LA LUMIÈRE DE GRÈCE</p>
+<p>SAPHO</p>
+<p>Tiens, prends encore ceci ; as-tu assez ?</p>
+<p>LE GUIDE</p>
+<p>Deux drachmes, ma parole ! C'est trop pour qu'on s'en vante ; •Apollon
+vous délivre de souci.</p>
+<p>LE GUIDE</p>
+<p>On est si pauvre par ici !</p>
+<p>Les sorts vous soient propices.</p>
+<p>(Se retournant sur le faîte) Méfiez-vous des pierres croulantes au bord
+du précipice,</p>
+<p>(il sort)</p>
+<p>SAPHO</p>
+<p>Ithaque, l'île nuptiale, l'île</p>
+<p>du bon Retour...</p>
+<p>On fuit la Crète</p>
+<p>divine et bestiale ;</p>
+<p>Une chaîne subtile</p>
+<p>qui s'allonge et se glisse</p>
+<p><pb/></p>
+<p>SAPHO 99</p>
+<p>jusqu'aux confins du monde</p>
+<p>t'a ramené du seuil même d'Hadès,</p>
+<p>Ulysse,</p>
+<p>vers la tombe...</p>
+<p>En vérité, pour qui s'est retourné,</p>
+<p>que reste-t-il</p>
+<p>du vaste amour inapaisé ?</p>
+<p>Grand vent tourbillonnant de joies</p>
+<p>qui chasse autour du monde</p>
+<p>— comme un vol de colombes — les feuilles claires et les baisers ; qui
+pousse et ploie</p>
+<p>nos barques jusqu'aux rives d'Asphodèles ;</p>
+<p>— ivresses d'avril</p>
+<p>aux pas ralentis qui se mêlent ; étreintes des grottes bleues ; brises
+des îles, fleurs matinales, élargissement des cieux... qu'en reste-il ?</p>
+<p><pb/></p>
+<p>100 LA LUMIÈRE DE GRÈCE</p>
+<p>voici le sable où poser vos pieds nus</p>
+<p>au départ matinal vers l'inconnu...</p>
+<p>Ithaque, tour de veille,</p>
+<p>qui blanchit, là-bas, sur la mer inquiète,</p>
+<p>guidant le nautonnier, même en son rêve,</p>
+<p>au port où le passé le guette ;</p>
+<p>lieu fixe, où la barque des races éclaboussée</p>
+<p>des écumes de l'aventure et du hasard</p>
+<p>s'amarre</p>
+<p>et clôt toute Odyssée...</p>
+<p>Paix des coeurs apaisés,</p>
+<p>calme du soir qui sourit et s'endort,</p>
+<p>devoirs accomplis,</p>
+<p>baisers du retour...</p>
+<p>O lèvres froides qu'avait brûlées l'amour,</p>
+<p>regards éteints où brillait une étoile,</p>
+<p>espoirs flétris, désirs domptés,</p>
+<p>velléités humaines,</p>
+<p>quel souffle d'ironie gonfle la voile</p>
+<p>qui vous ramène...</p>
+<p>pour vous confronter...</p>
+<p>(Le cortège des bergers passe en chantant vers le petit temple sans
+distraire la méditation de Sapho.)</p>
+<p><pb/></p>
+<p>SAPHO 101</p>
+<p>CHANTS ET DANSES</p>
+<p>BERGERS</p>
+<p>Nos troupeaux sont en ta garde, Apollon, berger d'Admète, nous te
+portons ces prémices dans la claie sur notre tête.</p>
+<p>BERGÈRES</p>
+<p>Apollon, qui te regarde, s'il ne referme les yeux, doit au moins baisser
+la tête.</p>
+<p>BERGERS</p>
+<p>Soyez nos guides, bergères, nous avons les yeux fermés que nos mains au
+moins se touchent.</p>
+<p>BERGÈRES</p>
+<p>Si nous étions mieux aimées on se fermerait la bouche.</p>
+<p>BERGERS</p>
+<p>Comment ça ?</p>
+<p><pb/></p>
+<p>102 LA LUMIÈRE DE GRÈCE</p>
+<p>BERGÈRES</p>
+<p>D'un long baiser ; mais la chose n'est pas aisée quand on porte sur la
+claie du fromage et du caillé ! Gardez les yeux bien fermés ; qui t'a
+baisé sur ta bouche ? Tu ne le sauras jamais !</p>
+<p>SAPHO</p>
+<p>Comme ces choses sont simples, incontestées,</p>
+<p>étranges :</p>
+<p>l'Épouse hautaine,</p>
+<p>l'oeuvre inlassée de ses deux mains</p>
+<p>et qui se venge,</p>
+<p>peut-être !</p>
+<p>L'orgueil du foyer où l'on file la laine,</p>
+<p>entre les femmes, assise ;</p>
+<p>le beau fils grandissant, habile aux armes,</p>
+<p>impatient, prompt aux méprises ;</p>
+<p>l'époux</p>
+<p>en vain espéré, toujours attendu</p>
+<p>et, chaque soir,</p>
+<p>la lampe allumée sous le porche,</p>
+<p><pb/></p>
+<p>SAPHO 103</p>
+<p>— geste patient de bienvenue de celle qui dort,</p>
+<p>calme et sans joie,</p>
+<p>— pire ! — sans remords...</p>
+<p>CHANTS ET DANSES</p>
+<p>BERGERS ET BERGÈRES</p>
+<p>Mêlons nos pas dans l'herbe,</p>
+<p>la flûte trille ; qu'un autre lie sa gerbe</p>
+<p>que l'été grille ; qu'un autre foule la grappe</p>
+<p>d'un pied agile ; Celle qui peut s'échappe, Celui qui veut l'attrape,</p>
+<p>garçons et filles.</p>
+<p>C'est bien, cela fut bien ainsi :</p>
+<p>que dans la course et sur la route,</p>
+<p>quiconque se retourne et doute</p>
+<p>si l'avenir n'est pas où s'en vont ses soucis,</p>
+<p>voie de ces choses immobiles et mortes</p>
+<p>et s'en émeuve</p>
+<p>qu'il referma, naguère</p>
+<p>sur l'ombre de sa veuve...</p>
+<p><pb/></p>
+<p>104 LA LUMIÈRE DE GRÈCE</p>
+<p>Ailleurs,</p>
+<p>qui sait quel sort d'opprobre et de malheur</p>
+<p>de Pénélope assise auprès de Clytemnestre ?</p>
+<p>Ici,</p>
+<p>tout accueil est sacré,</p>
+<p>ici, l'ardente chasteté recrée</p>
+<p>l'éternel lendemain paisible et tel</p>
+<p>la vie refait la nuit ce que défit le jour,</p>
+<p>Ithaque, de la mort et, même, de l'amour...</p>
+<p>Car l'amour et la mort s'en vont, main dans la main, par les sentiers
+des bois et par les grands chemins, sur le seuil entr'ouvert du jour
+sans lendemain ils ne se retournent pas...</p>
+<p>O tes heures, ma vie !</p>
+<p>O l'éphémère, la volontaire, deux fois mienne :</p>
+<p>puisque, la vivant, je la vis en moi ;</p>
+<p>comme elle enivre d'être ainsi intime</p>
+<p>et vaste du beau grand jour sublime</p>
+<p>qu'on s'approprie,</p>
+<p>heure par heure, en nourrissant sa joie !</p>
+<p>Avec du soleil dans les yeux</p>
+<p><pb/></p>
+<p>SAPHO 105</p>
+<p>plus fort que tout l'éclat du grand midi ;</p>
+<p>avec la force plus virile que le vent impétueux ;</p>
+<p>l'orgueil de dominer, selon son âme,</p>
+<p>le sourire de l'homme, le rire de la femme ;</p>
+<p>d'amasser, en un geste de moissonneur,</p>
+<p>au fil léger de sa faucille,</p>
+<p>les blés humains</p>
+<p>où palpitent et se terrent, oiseaux farouches,</p>
+<p>les coeurs</p>
+<p>qu'on apprivoise au baiser de sa bouche...</p>
+<p>CHANTS ET DANSES</p>
+<p>BERGÈRES</p>
+<p>Baisse la tête encore, je te couronnerai.</p>
+<p>BERGERS</p>
+<p>Entre tes tresses d'or ces fleurs je moissonnerai.</p>
+<p>BERGÈRES</p>
+<p>Si je te cédais cette fleur Qu'est-ce que tu donnerais ?</p>
+<p><pb/></p>
+<p>106 LA LUMIÈRE DE GRÈCE</p>
+<p>BERGERS</p>
+<p>Quelque chose, mon beau coeur, dont tu t'étonnerais.</p>
+<p>BERGÈRES</p>
+<p>Mais encore ?</p>
+<p>BERGERS</p>
+<p>Que tu pardonnerais.</p>
+<p>BERGÈRES</p>
+<p>O ce n'est rien qu'un baiser ?</p>
+<p>BERGERS</p>
+<p>En voici un autre pour l'effacer.</p>
+<p>SAPHO</p>
+<p>Qu'importe ?...</p>
+<p>Et que m'importe de n'être pas née telle</p>
+<p>que toi, fille d'Icarios,</p>
+<p>assise devant ta porte</p>
+<p>Si j'anticipe sur les heures immortelles ?</p>
+<p>Si ma jeunesse éternisée</p>
+<p>ne sait pas le devoir sublime de vieillir ?</p>
+<p><pb/></p>
+<p>SAPHO 107</p>
+<p>N'est-ce ma gloire ? de vivre</p>
+<p>au point que de mourir</p>
+<p>— alors que sur mes lèvres pleines comme des fruits</p>
+<p>sonne encore le chant des baisers vers la nuit —</p>
+<p>O l'essor de mon âme hardie qui se dénude :</p>
+<p>jetant, voile suprême, vers la nuit déicide</p>
+<p>sa chair vierge et sans ride,</p>
+<p>belle comme un poème !</p>
+<p>Ce corps harmonieux,</p>
+<p>lyre aux divins préludes,</p>
+<p>que n'aura déformé, ployé, brisé, souillé</p>
+<p>ni la maternité grosse d'un demi-dieu,</p>
+<p>ni la décrépitude...</p>
+<p>(Le choeur rustique a disparu, son chant s'entend encore dans le
+lointain ; vers Sapho, statue blanche au bord de l'abîme, le desservant
+du sanctuaire s'est avancé.)</p>
+<p>LE DESSERVANT</p>
+<p>Femme...</p>
+<p>Jeune fille, le jour s'achève ;</p>
+<p>mais votre tour est maintenant venu...</p>
+<p>interrompre votre rêve...</p>
+<p>Vous avez attendu ?</p>
+<p><pb/></p>
+<p>108 LA LUMIÈRE DE GRÈCE</p>
+<p>Notre temple, pourtant, est si peu fréquenté !</p>
+<p>Quelques grossiers bergers aux fêtes solennelles,</p>
+<p>— comme tantôt —</p>
+<p>une amante oubliée, un amant trop fidèle</p>
+<p>cherchant la guérison</p>
+<p>au vieux mal éternel !</p>
+<p>Je leur fais la leçon</p>
+<p>cent fois redite, toujours nouvelle !...</p>
+<p>Vrai, pour attendre ici, vous pouvez vous vanter</p>
+<p>d'avoir eu de la malechance ;</p>
+<p>mais vous avez eu raison de patienter :</p>
+<p>le dieu n'est jamais plus sensible et plus propice</p>
+<p>Vous venez pour un sacrifice ?</p>
+<p>Oui... prends ce collier,</p>
+<p>on y peut lire les noms des muses de Mitylène :</p>
+<p>Erinna, rire ensoleillé ;</p>
+<p>Gorgô au geste pur et Démophilia,</p>
+<p>harmonieuse ;</p>
+<p>Athis, incertaine comme une ombre sur le seuil ;</p>
+<p>l'enivrante Andromèda qui lui tend la main ;</p>
+<p>Télésippa, silencieux sourire, pas glissé ;</p>
+<p>Gongylla, mobile gazouillis de feuilles ;</p>
+<p>Eunéica, frêle et franche</p>
+<p><pb/></p>
+<p>SAPHO 109</p>
+<p>et la prude et grave Mnécédicé...</p>
+<p>Prends,</p>
+<p>et prends ces anneaux,</p>
+<p>N'est-ce, demain, les Munychia d'Athènes ?</p>
+<p>Les fêtes de la Vierge ?</p>
+<p>LE DESSERVANT</p>
+<p>Précisément.</p>
+<p>SAPHO</p>
+<p>Que tout est clair et beau !</p>
+<p>Le printemps fleurit une fois encore,</p>
+<p>et malgré Pittacos,</p>
+<p>au sourire de miel,</p>
+<p>LE DESSERVANT</p>
+<p>Oui, Arthémis de Munychie, ce soir,</p>
+<p>parée de la résille</p>
+<p>des violettes noires,</p>
+<p>au long des quais parmi le chant des filles ;</p>
+<p>le printemps naît :</p>
+<p><pb/></p>
+<p>110 LA LUMIÈRE DE GRÈCE</p>
+<p>Ici,</p>
+<p>des pâtres reviendront demain,</p>
+<p>avec des rameaux verts,</p>
+<p>des offrandes de lait, des fromages d'hiver ;</p>
+<p>on chantera quelque hymne époumoné,</p>
+<p>grotesque et brave,</p>
+<p>ce sera tout.</p>
+<p>— quelles foules, quelle opulence !</p>
+<p>quels choeurs unis et graves ! —</p>
+<p>J'y fis jadis,</p>
+<p>mes premières études d'hiérète...</p>
+<p>D'où êtes-vous, ma fille ?</p>
+<p>SAPHO</p>
+<p>Je viens de loin,</p>
+<p>par maints détours...</p>
+<p>Je vais vers le couchant...</p>
+<p>On dit que ce rocher guérit de tout amour ?</p>
+<p>LE DESSERVANT</p>
+<p>qui, aimant trop sa femme, souhaite l'aimer moins</p>
+<p>parfois, pour en aimer quelque autre,</p>
+<p><pb/></p>
+<p>SAPHO 111</p>
+<p>venait s'asseoir ici et, regardant la mer,</p>
+<p>oubliait Héra et se sentait fort</p>
+<p>pour quelque amour nouveau et fabuleux !</p>
+<p>comme un miroir qui reflète un visage ;</p>
+<p>elle fait sourire le sage :</p>
+<p>le peuple est un enfant qui aime croire.</p>
+<p>Voyons, cet amoureux, peut-on lui pardonner ? Reste-t-il quelque espoir
+?...</p>
+<p>SAPHO, sans entendre et que soulève sa vision</p>
+<p>Descente vertigineuse du Char !</p>
+<p>La mer est comme un brasier ;</p>
+<p>la roue de feu</p>
+<p>dont tout regard s'effare</p>
+<p>creuse une ornière de rayons ;</p>
+<p>il aspire le jour !</p>
+<p>Il semble qu'on recule vers l'ombre sans retour</p>
+<p>que soulève sa fuite</p>
+<p>en poussière de ténèbres...</p>
+<p>Je m'en irai dans le couchant ; je ne veux plus de nuit : je hais l'Erèbe !</p>
+<p><pb/></p>
+<p>112 LA LUMIÈRE DE GRÈCE</p>
+<p>derrière nos crépuscules</p>
+<p>il ouvre devant lui, au heurt de son timon,</p>
+<p>le flanc infécondé de l'infini,</p>
+<p>du sang torride de la Vie...</p>
+<p>(A poignées, elle effeuille au vent les fleurs de sa ceinture) Je
+m'éparpille vers toi avec ces roses, Phoïbos ; j'ose...</p>
+<p>me dresser vers ta force, comme une femme ; suivre cette poussière que
+lève un vent humide, accourue, ombre d'or au geste de ta flamme, sur la
+mer infinie, vers ta splendeur avide...</p>
+<p>Je veux tourbillonner aux jantes de tes roues</p>
+<p>mêlée au feu victorieux qui jaillit d'elles,</p>
+<p>boue d'étincelles,</p>
+<p>éclaboussant la nuit de ta gloire</p>
+<p>dont tout astre s'exalte :</p>
+<p>ah ! je veux</p>
+<p>vivre de ta victoire hennissante et sans halte !</p>
+<p>Prends-moi, dieu brutal,</p>
+<p><pb/></p>
+<p>SAPHO 113</p>
+<p>époux quotidien d'une aube pâle :</p>
+<p>j'ai peur de Sélèné, ta soeur, elle est trop belle ;</p>
+<p>je suis lasse des jeux, des chants, des danses lentes,</p>
+<p>du baiser des amants, du rire des amantes ;</p>
+<p>j'ai horreur de la nuit ; je hais l'éclat des lampes !</p>
+<p>Prends dans ta rude étreinte mon âme toute vive, hors de la vie étroite
+qu'élargissait en vain mon désir inouï, trop vaste et surhumain ;
+absorbe en ton brasier ma torche que j'y jette, propitiatoire, avec
+l'humble orgueil qui m'a faite l'égale, par moments, des ineffables
+formes que trace au firmament le rêve éclos de nous.</p>
+<p>Je n'aurai voulu qu'un dieu pour époux</p>
+<p>qui mêle mon sang vierge au sang du couchant ivre...</p>
+<p>M'abîmer dans l'étreinte énorme !</p>
+<p>M'unir, enfin, aux choses qui délivrent !..</p>
+<p>(Elle bondit éperdue et plane, oiseau clair, sur l'abîme où la nuit
+l'enveloppe.)</p>
+<p>8</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LA LÉGENDE AILÉE</p>
+<p>DE</p>
+<p>BELLÉROPHON HIPPALIDE</p>
+<p>A la pensée amie de Paul Valéry.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>I</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>La parole chanteuse envolée de sa bouche hésite et, par moment, tel un
+oiseau farouche que nourrit une fille naïve et maternelle, volette,
+cherchant l'azur où s'appuyait son aile, de la frise d'ébène au cèdre
+roux des plinthes et s'y pose, un instant, étonné et sans crainte ;
+telle, en sa jeune voix, grave tantôt ou claire, comme un battement
+d'aile une note étrangère au luxe des lambris et des rideaux d'Asie, à
+l'étroit et mieux née pour s'essorer dans l'air qui bondit, tournoyant,
+du large vers la plaine, résonne ;</p>
+<p>" Si vous vous souvenez ?</p>
+<p>— Puisque vous connaissez Corinthe... "</p>
+<p>— " Oui, je me souviens ", dit-elle, "la Terre et l'Eau</p>
+<p><pb/></p>
+<p>120 LA LUMIERE DE GRECE</p>
+<p>s'y fondent en une étreinte</p>
+<p>telle</p>
+<p>qu'on demeure étonné</p>
+<p>qu'une lutte éternelle, inlassée et farouche</p>
+<p>y noue deux éléments et que, sur ces deux bouches,</p>
+<p>la morsure— non le baiser !— mêle son amertume..."</p>
+<p>— " Oui, c'est cela", dit la voix mâle et claire,</p>
+<p>" la mer est une plaine, la plaine est une mer</p>
+<p>où l'herbe au vent du printemps houle et creuse</p>
+<p>ses sillons, vagues vertes, qui rejoignent</p>
+<p>la double mer</p>
+<p>où d'autres vagues aux dos d'écume</p>
+<p>semblent les brebis dispersées d'un troupeau tel</p>
+<p>qu'on le dénombre par mille milliers ;</p>
+<p>C'est là,</p>
+<p>sous ce grand ciel,</p>
+<p>que nous paissions de concert nos cavales ;</p>
+<p>vous connaissez la plaine :</p>
+<p>après Némée, au sortir des grands bois,</p>
+<p>elle apparaît soudain aval,</p>
+<p>entre les térébinthes,</p>
+<p>s'élargit et s'éploie,</p>
+<p>comme un grand tapis clair</p>
+<p><pb/></p>
+<p>BELLEROPHON 121</p>
+<p>— vous avez dû nous voir, sans le savoir,</p>
+<p>comme des points sombres qui galopions de front ?..."</p>
+<p>Sa voix défaille et s'interrompt,</p>
+<p>puis il reprend, cernant sa phrase lente :</p>
+<p>" Il croît de grands roseaux au long du golfe ;</p>
+<p>nous y poussions nos bêtes frémissantes ;</p>
+<p>leurs poitrails écarlates</p>
+<p>fendaient, proues vives, cette herbe géante</p>
+<p>tranchante comme des glaives ;</p>
+<p>et nous, les jeunes fous,</p>
+<p>cette phalange...</p>
+<p>C'était un jeu...</p>
+<p>Or c'est ainsi qu'un soir,</p>
+<p>Belléros, qui galopait au hasard,</p>
+<p>perdit l'assiette,</p>
+<p>s'engouffra et disparut, sans un cri !</p>
+<p>sans que, tout empêché des joncs fauchés,</p>
+<p>aveuglément rué vers l'ennemi,</p>
+<p>j'eusse vu ni où ni comment.</p>
+<p>Quand j'émergeai des joncs,</p>
+<p><pb/></p>
+<p>122 LA LUMIERE DE GRECE</p>
+<p>la nuit était tombée :</p>
+<p>les cavales hennissaient vers les étoiles ;</p>
+<p>je me vis seul ;</p>
+<p>l'ombre était pleine de doute ;</p>
+<p>un galop lointain sonnait sur la route ;</p>
+<p>et, croyant suivre Belléros,</p>
+<p>je regagnais le palais où mon père</p>
+<p>qui, préférant mon frère,</p>
+<p>me soupçonnant de jalousie infâme,</p>
+<p>m'accusant, sans recours, d'un fratricide,</p>
+<p>m'a poussé vers l'exil expiatoire...</p>
+<p>Et.moi, depuis,</p>
+<p>le cadavre de mon frère retrouvé</p>
+<p>— dès que le bûcher eut desséché l'eau saumâtre</p>
+<p>et que ses cheveux d'or où j'ai mêlé mes larmes</p>
+<p>ne furent qu'une cendre au creux de l'urne —</p>
+<p>j'assumai, comme un défi ! le surnom</p>
+<p>de meurtrier de Belléros : Bellérophon...</p>
+<p>Mon père m'a pardonné, dit-on, je crois ;</p>
+<p>mais, moi, je n'ai pas oublié sa voix,</p>
+<p>et ma honte de ce qu'elle disait ; ma honte</p>
+<p>est telle encore que le sang me monte</p>
+<p>aux joues et que ma lèvre en tremble encore</p>
+<p>et que, si j'entendais, comme un remords,</p>
+<p><pb/></p>
+<p>BELLÉROPHON 123</p>
+<p>sa voix m'appeler dans l'ombre inquiète ... je ne retournerais pas même
+la tête... "</p>
+<p>Glissée, presqu'en intruse,</p>
+<p>montée par la porte où miroite</p>
+<p>une mer sans repos qui s'élève et s'abaisse</p>
+<p>au long des pierres qu'elle use,</p>
+<p>la Lumière de Grèce</p>
+<p>flotte, légère et moite,</p>
+<p>aux solives de cèdre</p>
+<p>— tel un sourire aux lèvres voltige et s'efface et renaît...</p>
+<p>Elle inscrit, en passant, sur de l'ombre bleutée</p>
+<p>— comme au flanc d'une coupe —</p>
+<p>le geste harmonieux du conteur qui s'écoute, debout, chlamyde rejetée</p>
+<p>— grand haut-relief d'Egine</p>
+<p>que modèle, en se jouant, la clarté, de mille mains légères ;</p>
+<p>Et la reine imagine :</p>
+<p>la brume matinale au seuil de la clairière ;</p>
+<p>la nymphe intimidée</p>
+<p>qui cherche et fuit</p>
+<p>l'aventure divine...</p>
+<p><pb/></p>
+<p>124 LA LUMIERE DE GRECE</p>
+<p>entre ses coussins accoudée,</p>
+<p>inattentive au récit qu'elle devine,</p>
+<p>elle suit</p>
+<p>du lent regard voilé de ses longs cils mi-clos</p>
+<p>— mobile vision de beauté et de force — la pose pure du torse</p>
+<p>robuste et presque ailé</p>
+<p>au geste apparié des bras blancs et musclés ;</p>
+<p>et le profil, parfois, lui apparaît si beau</p>
+<p>qu'elle fuit le regard trop clair qui la pénètre,</p>
+<p>Elle étouffe ! Sa gorge est sèche ;</p>
+<p>pourtant la haute salle est fraîche</p>
+<p>et la brise filtrée au voile du linteau</p>
+<p>avive,</p>
+<p>de roses et de santal,</p>
+<p>le grand souffle salé de l'horizon natal...</p>
+<p>Quand plus tard, envolée du vaisseau fatidique, un soir de rêve, encore
+! sous ce même portique, la nouvelle annuitée la fera tressaillir</p>
+<p>— comme une aile vous frôle dans l'ombre —</p>
+<p><pb/></p>
+<p>BELLEROPHON 125</p>
+<p>L'image de sa soeur palpitante et pâmée aux bras du demi-dieu dont elle
+s'est crue aimée, — tel un éclair jailli assombrit même l'ombre — muera
+en désespoir l'ennui de son coeur vide, de sa vie sans éclat faisant
+comme une tombe et de son inertie un geste suicide...</p>
+<p>Elle se lève et marche sur les dalles:</p>
+<p>" Ah ! laisse, que j'achève !</p>
+<p>Et mon bonheur est tel que j'en ai mal ;</p>
+<p>Oui, ton père t'exile ;</p>
+<p>la belle affaire ! et que t'importe ?</p>
+<p>En rejetant derrière toi sa porte</p>
+<p>tu mures le passé comme au creux d'un tombeau;</p>
+<p>la soif de l'aventure n'exile-t-elle tout homme</p>
+<p>vers l'avenir plus beau ?</p>
+<p>On abandonne aux filles le foyer paternel !</p>
+<p>Ne te sens-tu des ailes ?</p>
+<p>Elargis ton essor</p>
+<p><pb/></p>
+<p>126 LA LUMIÈRE DE GRÈCE</p>
+<p>Ton frère, Belléros, est mort ?</p>
+<p>sans doute, et nul encore n'a pu fléchir les Sorts</p>
+<p>qui courbent jusqu'aux dieux;</p>
+<p>mais quoi ?</p>
+<p>On n'aime — tu le sauras, tu le sais —</p>
+<p>que pour la douleur et la mort :</p>
+<p>et nul n'a rappelé du chant d'une nénie</p>
+<p>ceux qui sont descendus vers l'Hadès improbable</p>
+<p>derrière le seuil de l'infini...</p>
+<p>Oui, je t'ai plaint, mais c'est assez te plaindre :</p>
+<p>N'as-tu pas l'Avenir !</p>
+<p>L'Avenir qu'on affronte ;</p>
+<p>c'est le Passé qu'il faut craindre !</p>
+<p>qui rampe derrière vous et vous frappe dans l'ombre;</p>
+<p>le beau fruit que l'aurore nous tend toujours en vain ;</p>
+<p>cependant qu'on hésite, il retient notre main,</p>
+<p>voile nos yeux de pleurs qu'il eût fallu répandre,</p>
+<p>jadis, dans la nuit morte où gisent dans leurs cendres</p>
+<p>les clairs avrils défunts et les étés perdus,</p>
+<p>les mots mystérieux qu'on n'a pas entendus,</p>
+<p>la joie de vivre offerte et qu'on a dédaignée,</p>
+<p>tout le sang infécond que nous avons saigné.</p>
+<p><pb/></p>
+<p>BELLEROPHON 127</p>
+<p>Car sais-tu ce que c'est que d'être la jeunesse ? d'être cela en quoi
+les grands espoirs renaissent de tant de coeurs, de tant de corps
+désespérés ? d'être un désir vivant, survie de mille ancêtres, d'être
+l'espoir permis et l'avenir promis ? Oh ! d'être !...</p>
+<p>Te dirais-je ta destinée ?...</p>
+<p>O mon oiseau des plaines, ô mon oiseau des mers,</p>
+<p>j'ai rêvé te garder ici comme une mère,</p>
+<p>mais, tordant les barreaux de la cage dorée,</p>
+<p>mon amour fut plus fort qu'un désir abhorré,</p>
+<p>et, pour mieux m'assurer contre l'autre folie,</p>
+<p>j'ai tranché le lien qui m'étouffe et te lie :</p>
+<p>j'ai trouvé dans mon coeur la force qui le tue ;</p>
+<p>par amour j'ai suivi la voie de la vertu ;</p>
+<p>oui, j'avouai mon rêve et montrai mon désir...</p>
+<p>en brisant mon espoir j'ai pleuré de plaisir !</p>
+<p>Le roi sait que je t'aime et croit que tu l'ignores,</p>
+<p>il t'envoie en Lycie où mon père en lisant</p>
+<p>ces tablettes de cire et ces signes tracés</p>
+<p>t'ouvrira l'avenir — et ce sera assez !</p>
+<p><pb/></p>
+<p>128 LA LUMIERE DE GRECE</p>
+<p>Mais va : l'heureux navire appareille et t'attend ! " " Reine !... "</p>
+<p>" — Adieu, je te regarde encore en souriant ; le navire appareille et le
+port est en fête ; souris-moi, et t'en va, sans détourner la tête... "</p>
+<p><pb/></p>
+<p>II</p>
+<p>Les tablettes ne doivent être ouvertes qu'après neuf jours de fêtes en
+l'honneur de l'hôte princier ; le jeune hellène irrite les courtisans
+asiatiques par sa simple prestance virile et la naïve narration de ses
+exploits. A la fin du neuvième banquet, Iobate rompt les scellés et lit,
+pour lui seul, que l'honneur outragé de Protéas réclame la mort du
+héros, son hôte : il l'envoie donc combattre la Chimère.</p>
+<p>9</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>Pour la neuvième fois, Iobate</p>
+<p>assemble sa noblesse ;</p>
+<p>pour la neuvième fois, qu'on abatte</p>
+<p>un boeuf dont les gueux se repaissent ;</p>
+<p>le vin lourd d'aromates</p>
+<p>où macère l'Asie...</p>
+<p>Et voici :</p>
+<p>Rafraîchie par le bain et la sieste,</p>
+<p>les boucles noires serrées aux bandelettes d'or,</p>
+<p>ointe d'huile embaumée,</p>
+<p>la robe lisérée d'une pourpre enflammée,</p>
+<p>bruyante, efféminée de la voix et du geste,</p>
+<p>la jeunesse d'Asie se mêle aux anciens d'âge.</p>
+<p>Clignotants sous le fard et couronnés de roses, laissant ruisseler l'or
+aux plis de robes amples qui traînent, feux changeant aux dalles de
+porphyre, ceux-ci s'indignent, aussi, que ce royal hommage</p>
+<p><pb/></p>
+<p>132 LA LUMIERE DE GRECE</p>
+<p>illustre un illustre inconnu,</p>
+<p>homme brutal du Nord arrivé presque nu,</p>
+<p>musclé en portefaix,</p>
+<p>qui, comme un matelot, vous jase</p>
+<p>des choses qu'il a vues ou faites, avec emphase ;</p>
+<p>de ces héros d'un jour que vous envoie la Grèce</p>
+<p>mille et une prouesses</p>
+<p>imaginaires et surhumaines !</p>
+<p>Celui-ci, par surcroît,</p>
+<p>ignorant même en l'art grossier de ses pareils,</p>
+<p>est capable, encore moins, de suivre de la voix</p>
+<p>le chant des flûtes d'Ionie...</p>
+<p>Silence !...</p>
+<p>Les trompettes, d'un cri, annoncent le roi et son hôte ; les voici : ils
+s'avancent...</p>
+<p>Pour fléchir les destins vigilants et contraires,</p>
+<p>invoque les Mères vénérables,</p>
+<p>Phoïbos l'Hiverneur,</p>
+<p>Héraclès Lycien ;</p>
+<p>on s'attable...</p>
+<p><pb/></p>
+<p>BELLÉROPHON 133</p>
+<p>Et, parmi l'éclatante tablée,</p>
+<p>une Heure insoucieuse, aux sandales ailées,</p>
+<p>passe au rythme des rires que scandent les crotales,</p>
+<p>danseuse agile entre les coupes qu'elle effleure ;</p>
+<p>elle est passée au vol de ses sandales,</p>
+<p>elle fuit...</p>
+<p>Et le roi fait un signe et le bruit</p>
+<p>des voix meurt en rumeur,</p>
+<p>la musique s'apaise ;</p>
+<p>et Bellérophon, pour la neuvième fois</p>
+<p>— qu'au roi ce conte plaise ! —</p>
+<p>doit narrer quelque histoire</p>
+<p>que sa mémoire pourvoie.</p>
+<p>Le silence est hostile ;</p>
+<p>mais sa coupe d'un trait épuisée</p>
+<p>fait sa pensée alerte et sa parole aisée :</p>
+<p>"Roi", dit-il,</p>
+<p>"Iobate, je ne sais</p>
+<p>ce que diront les signes tracés</p>
+<p>sur la cire et scellés</p>
+<p>des sceaux de l'Argiarque, ton gendre ;</p>
+<p>je dirai le dernier conte. "</p>
+<p>Il s'arrête ; d'aucuns rient ;</p>
+<p><pb/></p>
+<p>134 LA LUMIÈRE DE GRÈCE</p>
+<p>et certains, même, affectent</p>
+<p>une lassitude anticipée ;</p>
+<p>mais lui,</p>
+<p>le regard fixe et la tête levée,</p>
+<p>voit</p>
+<p>au cadre du portique qui découpe la nuit —</p>
+<p>une Étoile !</p>
+<p>Et tout, hors elle, lui paraît terne ;</p>
+<p>pour soi seul il poursuit,</p>
+<p>et l'heure qu'il évoque illumine sa face</p>
+<p>d'un rayonnement qui tombe de l'espace :</p>
+<p>par une nuit d'été, sous les étoiles ; j'y ai dormi ? j'y ai veillé?
+vous le direz...</p>
+<p>Vers l'aube,</p>
+<p>et dans le silence de l'herbe abondante,</p>
+<p>j'entends le pas de sabots trop légers ;</p>
+<p>et voici que, retourné,</p>
+<p>l'ombre d'un cheval m'apparaît !</p>
+<p>(Tu ne rêves que chevaux, me direz-vous ;</p>
+<p>attendez.)</p>
+<p><pb/></p>
+<p>BELLEROPHON 135</p>
+<p>Près de l'eau qu'y a fait jaillir l'antique Sisyphe,</p>
+<p>en l'abreuvoir de marbre,</p>
+<p>le Cheval puisait ;</p>
+<p>je le considérais en silence, tout étonné,</p>
+<p>car nulle bête, voire nul homme ne saurait</p>
+<p>franchir l'enceinte orgueilleuse de Glaucos ;</p>
+<p>or, soudain, hors de la mer, l'aurore jaillit,</p>
+<p>entre Salamis et Egine :</p>
+<p>et, hennissant et cabré,</p>
+<p>presque essoré,</p>
+<p>je vis Pégase...</p>
+<p>Les ailes battant au jour !</p>
+<p>Mais sa soif non désaltérée</p>
+<p>courba de nouveau l'encolure éblouie</p>
+<p>vers l'eau enflammée...</p>
+<p>Des jeunes se récrient :</p>
+<p>" Que ne l'as-tu dompté</p>
+<p>en lui passant le mors ? "</p>
+<p>Mais Bellérophon, qui s'est levé, poursuit</p>
+<p>d'un grand geste impétueux :</p>
+<p>d'étreindre en ses genoux le Cheval d'or ?"</p>
+<p>— " Tu me prendras en croupe ! " chevrote, ivre, un vieillard.</p>
+<p>— " Encore : encore ! "</p>
+<p><pb/></p>
+<p>136 LA LUMIÈRE DE GRÈCE</p>
+<p>et l'on choque les coupes ;</p>
+<p>le vin chauffe les têtes ;</p>
+<p>mais Iobate : " Mon hôte, il est tard ;</p>
+<p>voici l'heure assignée... "</p>
+<p>Il rompt les sceaux parmi le silence de fièvre ; et ses lèvres ni sa
+face immobile ne révèlent le secret des lettres de mort, ni la pensée
+nouvelle qu'on voit naître en l'effort de ses sourcils froncés.</p>
+<p>Or Bellérophon devine sa pensée :</p>
+<p>" Roi, voici neuf jours et neuf nuits</p>
+<p>que, dans la mollesse des festins et le bruit</p>
+<p>des harpes et du rire insolent de ceux-ci,</p>
+<p>je m'impatiente.</p>
+<p>C'est vers d'autres destins</p>
+<p>que s'est aventurée</p>
+<p>ma jeunesse que tente</p>
+<p>la gloire...</p>
+<p>Puissé-je, aussi bien, revaloir</p>
+<p>ton hospitalité opulente :</p>
+<p><pb/></p>
+<p>BELLÉROPHON 137</p>
+<p>qui soit mieux qu'un devoir ? "</p>
+<p>— " Tu parles bien haut ;</p>
+<p>Bellérophon ;</p>
+<p>pendant ces neuf jours de frairies</p>
+<p>on a ri, on a chanté la joie ;</p>
+<p>et, ce soir, pour la première fois,</p>
+<p>avant-courrières d'un orage,</p>
+<p>des paroles noires</p>
+<p>s'accumulent là-bas et, sourdement, résonnent ;</p>
+<p>Je n'eusse pas voulu qu'un souci</p>
+<p>étourdie, un peu grise,</p>
+<p>cette Joie fanfaronne</p>
+<p>règne seule en Lycie ?</p>
+<p>Ceux-ci ont supporté longtemps ta vantardise</p>
+<p>justifie ton orgueil et prouve ta valeur</p>
+<p>— Crois-moi, nous serons quittes ! — Agis, enfin, une prouesse</p>
+<p>plus convaincante et moins prolixe</p>
+<p>que tous tes contes :</p>
+<p>humilie notre Asie et fais-nous honte</p>
+<p><pb/></p>
+<p>138 LA LUMIÈRE DE GRÈCE</p>
+<p>Des applaudissements tonnent aux poutres de la salle,</p>
+<p>hurlement en rafale</p>
+<p>fait de cris d'ironie et de rage ;</p>
+<p>mais Bellérophon, redressé sous l'outrage,</p>
+<p>les dompte d'un regard qui arrête</p>
+<p>le tumulte, soudain, sur leurs lèvres muettes :</p>
+<p>" Protéas s'est vengé sans bassesse, dit-il,</p>
+<p>La salle éclate d'un rire haineux :</p>
+<p>" Il joue au demi-dieu! "</p>
+<p>un homme que son crime inexpié dévoue</p>
+<p>autour de toute proie humaine qui l'assaille;</p>
+<p>" ne pare-t-on de fleurs les victimes ? "</p>
+<p>se dit-il, écartant l'horreur des représailles</p>
+<p>divines,</p>
+<p>et ses lèvres qu'il serre ont un goût d'amertume :</p>
+<p><pb/></p>
+<p>BELLEROPHON 139</p>
+<p>un combat surhumain dont nul n'est revenu; allez tous...</p>
+<p>Et, les congédiant d'un grand geste courtois, sous les glaives croisés
+des gardes en arroi, au bruit des mains qu'on heurte, au cri d'airain et
+d'or des trompettes emplissant la nuit de leur émoi, il sort...</p>
+<p>L'âme du jeune héros déborde de la joie de celui qui se sent égal au
+plus beau sort.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>III</p>
+<p>Exalté par le désir de la gloire, le héros, resté seul, évoque, sous la
+nuit étoilée, le cheval Pégase qui l'emporte vers les ravins du Taurus
+,• il surprend et tue la Chimère et, tout frémissant de sa victoire, il
+regagne avant l'aube le péristyle du palais.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>La salle s'agrandit du tumulte apaisé ;</p>
+<p>le héros, immobile,</p>
+<p>reste seul ;</p>
+<p>une torche se meurt dans sa cendre affaissée</p>
+<p>parmi les coupes vides et les roses tassées ;</p>
+<p>s'arrête sur le seuil.</p>
+<p>Cette marche de marbre éblouie</p>
+<p>du reflet de la lune, qui l'inonde, allège,</p>
+<p>jusqu'en l'ombre des frises,</p>
+<p>la nuit des architraves,</p>
+<p>vêt de lueurs de rêve</p>
+<p>tout un léger cortège</p>
+<p>de dieux évertués et de déesses graves.</p>
+<p>La ville,</p>
+<p>dès longtemps endormie,</p>
+<p>indolemment au long du golfe s'étire ;</p>
+<p>les acclamations, les pas, les derniers rires</p>
+<p>s'éteignent ;</p>
+<p><pb/></p>
+<p>144 LA LUMIÈRE DE GRÈCE</p>
+<p>le port,</p>
+<p>où brille et saigne .un feu de veille,</p>
+<p>berce (au lent roulis de cent barques) de lourds sommeils.</p>
+<p>Venue des îles,</p>
+<p>tremblante aux doigts des palmes,</p>
+<p>muette,</p>
+<p>il monte de la mer une haleine rythmée</p>
+<p>qui s'apaise et renaît lente, tiède, embaumée :</p>
+<p>la nuit est comme un rêve de poète...</p>
+<p>impérieux et calme,</p>
+<p>Bellérophon s'apprête.</p>
+<p>Soudain !</p>
+<p>Un grand souffle l'entoure :</p>
+<p>en un froissement de plumes,</p>
+<p>le heurt de sabots trop légers</p>
+<p>aux marches qu'elle effleure</p>
+<p>projette l'ombre ailée...</p>
+<p>En un bond, il étreint en ses cuisses</p>
+<p>les flancs nerveux de l'Hippornide</p>
+<p>— délices —</p>
+<p>et jaillit vers la nuit</p>
+<p>ténébreuse et splendide !</p>
+<p><pb/></p>
+<p>BELLÉROPHON 145</p>
+<p>Né de l'air immobile</p>
+<p>et de l'essor divin qui l'emporte,</p>
+<p>l'ouragan l'enveloppe :</p>
+<p>il étouffe, il a froid, il est ivre...</p>
+<p>Sous lui,</p>
+<p>la ville claire aux ombres accusées</p>
+<p>s'éloigne, fuit :</p>
+<p>la mer</p>
+<p>luit et s'efface ;</p>
+<p>sur la plaine grise,</p>
+<p>tout là-bas, sous ses pieds,</p>
+<p>les lourds bois noirs épars se tassent ;</p>
+<p>la vitesse le grise ;</p>
+<p>mais l'étreinte du vent sur ses tempes</p>
+<p>boucle un casque d'acier.</p>
+<p>Au devant de son vol, en un geste d'appel, le Taurus dresse au ciel ses
+sommets éblouis où la neige étincelle contre l'immense nuit.</p>
+<p>Déjà, triomphant, il domine</p>
+<p>des gouffres 10</p>
+<p><pb/></p>
+<p>146 LA LUMIERE DE GRÈCE</p>
+<p>entr'ouverts dans ses flancs : plaies d'un monstre qui souffre...</p>
+<p>Le vol s'est ralenti et s'abaisse, prudent ; il plane, maintenant, sur
+un ravin étroit...</p>
+<p>Contre un roc en saillie, il la voit !</p>
+<p>—outrage hideux de l'Ombre aux astres humiliés—</p>
+<p>qu'éclaire en plein la lune :</p>
+<p>elle dort, repliée,</p>
+<p>provocatrice, immonde !</p>
+<p>D'un serrement de genoux,</p>
+<p>l'épée haute,</p>
+<p>et penché sur le cou</p>
+<p>de la bête céleste,</p>
+<p>le jeune héros plonge et, leste,</p>
+<p>frappe !</p>
+<p>Et s'élève</p>
+<p>— est-ce un songe ? est-ce un rêve ? —</p>
+<p>sur le souffle torride qu'exhale</p>
+<p>la gueule d'agonie :</p>
+<p>il tend aux constellations son glaive</p>
+<p>et leur dédie</p>
+<p>sa victoire, d'un rire</p>
+<p>où le Cheval ailé mêle sa joie hennie !</p>
+<p><pb/></p>
+<p>BELLÉROPHON 147</p>
+<p>L'aube pâlit, déjà, sur le seuil de l'aurore : tout là-bas, dans
+l'abîme, un moment,</p>
+<p>— meule de paille que la foudre allume — la Chimère, qu'un feu intérieur
+consume, flambe,</p>
+<p>éclaire l'ombre comme un météore et tombe en cendres...</p>
+<p>Cependant, son élan l'a porté jusqu'aux cimes ; il vire et glisse,
+maintenant, sur l'air</p>
+<p>— avec délice —</p>
+<p>vers la ville qu'il devine,</p>
+<p>tache blanche, là-bas, vers la mer.</p>
+<p>Il exulte de la voix et du geste !</p>
+<p>Et, penché sur l'encolure d'or,</p>
+<p>il baise le poil clair de la Bête céleste ;</p>
+<p>et, tantôt, d'un bond preste,</p>
+<p>il est debout, encore,</p>
+<p>au péristyle...</p>
+<p>l'épée fumante au poing,</p>
+<p>le bras vermeil,</p>
+<p>essoufflé et pareil</p>
+<p>de sa divinité...</p>
+<p><pb/></p>
+<p>148 LA LUMIÈRE DE GRÈCE</p>
+<p>Il se retourne et suit,</p>
+<p>vers la plaine infinie</p>
+<p>où paissent les troupeaux stellaires aux toisons d'or,</p>
+<p>le vol silencieux du beau Cheval sans mors.</p>
+<p><pb/></p>
+<p>IV</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>Derrière lui, furtif et agile,</p>
+<p>— cette fois — c'est un pas :</p>
+<p>une étoffe le frôle</p>
+<p>et l'évente d'un parfum d'avril ;</p>
+<p>une main s'est posée sur sa bouche,</p>
+<p>un baiser sur sa main ;</p>
+<p>et, contre son épaule,</p>
+<p>clarté chaude et soudaine,</p>
+<p>brume rose d'aurore, aube humaine :</p>
+<p>une chevelure d'or...</p>
+<p>C'est la vierge Philonoé, la soeur de celle</p>
+<p>qu'au rêve du tillac, naguère, il trouva belle,</p>
+<p>quand, voguant sous la nuit vers la gloire prédite,</p>
+<p>il crut voir sur les flots se lever Aphrodite,</p>
+<p>pour l'étreindre,</p>
+<p>et, tressaillant, sentit la brûlure d'une larme</p>
+<p>sur sa lèvre mêler son amertume au sel</p>
+<p>des embrums :</p>
+<p>" O mon Héros ", dit-elle, " ô mon dieu, je t'ai vu,</p>
+<p><pb/></p>
+<p>152 LA LUMIÈRE DE GRÈCE</p>
+<p>grande flamme jaillie de l'autel, t'élancer et t'éteindre ! Te voici
+revenu... "</p>
+<p>Et sa jeune folie l'enlace</p>
+<p>d'une telle ingénuité</p>
+<p>que leurs lèvres se joignent</p>
+<p>sous la nuit de leurs paupières closes,</p>
+<p>et prolongent l'éternité</p>
+<p>d'une minute, encore ! de luxe et de beauté,</p>
+<p>de saveur lumineuse, d'harmonieux parfum ;</p>
+<p>la minute de Vie</p>
+<p>unique pour chacun :</p>
+<p>Car le petit stylet qu'un geste de délire, Sténobée, a plongé dans ta
+chair qu'il déchire, n'a pas tué ton coeur ! et le sang de ta vie</p>
+<p>tout ton sang s'est tari, et le froid du matin t'envahit, et la mort
+prit ton âme ; et, de même</p>
+<p>— qu'un soleil trop puissant, hâtif et brutal aime le verger du
+printemps et boive d'un baiser</p>
+<p>de feu, insatiable et ivre, la rosée —</p>
+<p><pb/></p>
+<p>BELLÉROPHON 153</p>
+<p>la fleur de l'amandier frissonne et choit, glacée : c'est son premier
+regard, Reine, qui t'a tuée.</p>
+<p>Le roi est là, dans l'ombre, et qui écoute</p>
+<p>et entend et suppute et qui n'a pas de doute ;</p>
+<p>il a peur du héros invincible ; il médite</p>
+<p>pour parer sa vengeance quelque voie détournée :</p>
+<p>" Soit, ma fille ! " et sa voix est sonore et joyeuse,</p>
+<p>" Si le jeune vainqueur te veut mener épouse,</p>
+<p>je vous fiance ici ; mais laissez aux fileuses</p>
+<p>le temps de te tisser la robe d'épousée ;</p>
+<p>mais moins prompte, on l'a vu ! que ton glaive,</p>
+<p>est-il temps, déjà, de te reposer ?</p>
+<p>Quoi ! ma fille lierait de ses tresses</p>
+<p>ton bras que la gloire réclame ?</p>
+<p>On dirait encor que la Femme</p>
+<p>est perverse et traîtresse !</p>
+<p>Philonoé, ne faut-il pas qu'avant que d'être roi</p>
+<p>il conquière son royaume ?</p>
+<p>La Chimère est vaincue... mais aurons-nous la joie</p>
+<p>tant que celle qui défie tout homme</p>
+<p>au combat de haine ou d'amour,</p>
+<p><pb/></p>
+<p>154 LA LUMIÈRE DE GRÈCE</p>
+<p>l'invincible Amazone,</p>
+<p><pb/></p>
+<p>V</p>
+<p>Cependant, le peuple sceptique et léger apprend avec indifférence la
+mort de la Chimère, plaisante l'exploit du héros sans se détourner de sa
+tâche quotidienne. Les courtisans, de leur côté, équivoquent sur les
+prouesses nocturnes du jeune aventurier et sur la complaisance forcée du
+roi qui couvre mal un scandale.</p>
+<p>La ville, lasse de sa propre rumeur, fait de la Chimère ridiculisée le
+symbole du néant.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>Cependant,</p>
+<p>le jour banal enflamme la cime des cèdres,</p>
+<p>argente les clos d'oliviers,</p>
+<p>ruisselle en pluie pâle aux terrasses,</p>
+<p>rebondit, lavant l'ombre aux ruelles,</p>
+<p>inonde le marbre des quais.</p>
+<p>Sans effort, oiseuse et agile,</p>
+<p>belle ni laide — quotidienne —</p>
+<p>ménagère éveillant la demeure,</p>
+<p>la Vie blonde</p>
+<p>presse les pas, enfle les voix, emplit la ville</p>
+<p>— emplit le monde —</p>
+<p>de la mobilité de sa rumeur ;</p>
+<p>on marche</p>
+<p>— aujourd'hui c'est demain, c'est hier : — les pêcheurs étalent au soleil</p>
+<p>leurs filets pleins d'ombre ; on hisse deux voiles vermeilles qui
+claquent et s'enflent</p>
+<p><pb/></p>
+<p>158 LA LUMIÈRE DE GRÈCE</p>
+<p>comme les joues du vent qui les entraîne ;</p>
+<p>une fumée rabat sur le temple ;</p>
+<p>une trompette sonne sur le môle ;</p>
+<p>et le flot vous entoure et vous mène,</p>
+<p>étourdi de paroles,</p>
+<p>jusqu'aux halles où s'étale bigarrée</p>
+<p>la moisson encore vive de la mer</p>
+<p>et qui bruissent</p>
+<p>du caquet des commères.</p>
+<p>On écoute :</p>
+<p>— comme il courut cent fausses nouvelles, comme il en courra demain mille —</p>
+<p>on se jette au passage :</p>
+<p>" La Chimère a brûlé,</p>
+<p>le héros l'a occise !</p>
+<p>Et vous souriez, indécis</p>
+<p>attendant qu'on le redise ;</p>
+<p>tel réclame : " Rien qu'un témoin !</p>
+<p>" Elle a disparu, c'est notoire. "</p>
+<p>— " La belle affaire ! " riposte un botteleur de foin, " Qui me prouve
+qu'il l'ait tuée ? "</p>
+<p>— " Il profite d'une... comment dit-on ? "</p>
+<p>— " D'une coïncidence, parbleu ! "</p>
+<p>— " Ah ! pardon. "</p>
+<p><pb/></p>
+<p>BELLEROPHON 159</p>
+<p>Celui-là, qui resta muet,</p>
+<p>hoche la tête, clignant des yeux,</p>
+<p>laisse entendre d'une mimique</p>
+<p>qu'il connaît les feintes, les replis hasardeux,</p>
+<p>les secrets de la politique.</p>
+<p>au son d'une musique</p>
+<p>— ainsi naît une Gloire.</p>
+<p>C'est l'heure qu'on se montre au portique ; les nobles Lyciens,
+mollement accoudés,</p>
+<p>le si haut fait nocturne du futur gendre d'Iobate : " il chevauche — de
+nuit.</p>
+<p>— " Le roi l'a vu ? "</p>
+<p>— " Il chevauche Pégase, mon pauvre ami !</p>
+<p>— " Très sérieusement, mes chères amours, cette histoire de Chimère,</p>
+<p>est, entre nous, vieille de quatre jours : mon jardinier la connaissait ! "</p>
+<p>— " Moi, je la tiens de ma grand'mère : on la contait pendant que je
+naissais. "</p>
+<p>— " Je vous l'ai dit souvent... "</p>
+<p><pb/></p>
+<p>160 LA LUMIÈRE DE GRÈCE</p>
+<p>— "En effet."</p>
+<p>— "... le phénomène, de l'avis des savants, doit se consumer de son
+propre feu ; c'est fait : comme le peste, ça s'épuise. "</p>
+<p>— " Ils roucoulaient ; sans la nourrice ... "</p>
+<p>— " Erreur ! ils étaient seuls ; et, ma foi... "</p>
+<p>— " Il ne faudrait pas, quoi qu'on dise, tenir rigueur au roi</p>
+<p>d'un peu... " — " D'ingéniosité réparatrice ?"</p>
+<p>— " Si vous voulez. "</p>
+<p>— " Le gaillard qui croyait s'être assuré le trône part — je vous le
+donne en cent. "</p>
+<p>— " Comment, il part ? "</p>
+<p>— " Il part combattre l'Amazone. "</p>
+<p>— " Pauvre innocent ! "</p>
+<p>— " Bravo, Iobate ! "</p>
+<p>— " Après vous ! "</p>
+<p>— " Io hymen, hyménée ! "</p>
+<p>— " On tirera au sort. "</p>
+<p>— " Mon petit, tu radotes. "</p>
+<p>— " On doublera la dot !... "</p>
+<p>— " Décidément, c'est un beau jour. "</p>
+<p>— " Décidément, on vit mieux sans héros ", conclut, sentencieux, un
+vieillard demi-sourd.</p>
+<p><pb/></p>
+<p>BELLÉROPHON 161</p>
+<p>Les citadins sont obsédés de la Chimère :</p>
+<p>déjà, les geigneries des campagnards</p>
+<p>— grands crieurs de misère,</p>
+<p>qu'il s'agisse de pluie,</p>
+<p>de sécheresse ou de... Chimère ! —</p>
+<p>durant trois mois d'été ;</p>
+<p>grâce aux meilleurs poètes,</p>
+<p>tout y avait passé :</p>
+<p>les prêtres de Neptune nauégète</p>
+<p>et leurs prières ;</p>
+<p>la garde suburbaine, en y laissant des plumes !</p>
+<p>les femmes en renom, le roi, les maraîchères ;</p>
+<p>on avait chansonné la hausse des légumes,</p>
+<p>Bref, de cette Chimère et de ses faits et gestes,</p>
+<p>la ville en était lasse ;</p>
+<p>la mirifique histoire</p>
+<p>tournée en contes lestes :</p>
+<p>" Je vous fais grâce du reste... "</p>
+<p>fut, en effet, son coup de grâce.</p>
+<p>La Chimère morte, on refusa d'y croire ;</p>
+<p>même, on se défendait d'y avoir cru ;</p>
+<p>elle devint un néant dérisoire ; II</p>
+<p><pb/></p>
+<p>162 LA LUMIÈRE DE GRÈCE</p>
+<p>il s'organise des funérailles,</p>
+<p>des refrains s'improvisent, encore ! au long du port;</p>
+<p>et l'insolence de la canaille,</p>
+<p>l'effronterie toujours en éveil des gamins</p>
+<p>en corsaient les paroles</p>
+<p>d'un grand geste de bras qui simulait un vol...</p>
+<p>Ainsi naît un Symbole,</p>
+<p>ainsi se répercute un Geste surhumain.</p>
+<p>des cigales,</p>
+<p>qu'assis au péristyle et le front dans la main,</p>
+<p>le roi suppute encore,</p>
+<p>scrute et pèse l'Aventure inouïe,</p>
+<p>se reporte aux vieux textes,</p>
+<p>en augure, en tous cas, très peu de bien ;</p>
+<p>en appréhende, d'autres fois, fort peu de mal,</p>
+<p>sans en être trop sûr ;</p>
+<p>en fin de compte, reste perplexe.</p>
+<p>Evanouie, Philonoé,</p>
+<p>emportée vers sa couche,</p>
+<p>— sourire que sertit sa chevelure dénouée, —</p>
+<p>dans un rêve confus de désir et de fièvre,</p>
+<p>emmêle, illusion délicieuse et chaste,</p>
+<p><pb/></p>
+<p>BELLEROPHON 163</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>VI</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>Ombre fuyante au courant qui l'a prise,</p>
+<p>fait chevrotante, au ballottement des flots,</p>
+<p>le frêle cri d'adieu du batelier ;</p>
+<p>et, porté sur la brise,</p>
+<p>ce n'est plus qu'un sanglot</p>
+<p>qui se mêle au soupir des grands joncs de la rive...</p>
+<p>Depuis l'aube d'orgueil et d'audace ;</p>
+<p>après la Ville inattentive, active et sans pensée,</p>
+<p>sur qui son vol de Gloire a passé</p>
+<p>en ombre de nuée, inaperçu, sans trace...</p>
+<p>après le rire sceptique du portique</p>
+<p>où l'écho de son cri de Victoire dans l'azur</p>
+<p>fut un refrain impur...</p>
+<p>depuis cette barque hélée et la voile qu'on hisse</p>
+<p><pb/></p>
+<p>168 LA LUMIÈRE DE GRÈCE</p>
+<p>au clair vent d'Ionie</p>
+<p>dont se gonfle sa joue ;</p>
+<p>le clapotis rieur du flot contre la proue ;</p>
+<p>la course libératrice</p>
+<p>au gai sillage d'ironie...</p>
+<p>après les douces rives déroulées...</p>
+<p>les rames maniées au rythme d'un poème où s'exhalait la foi du héros en
+soi-même ; et le vent qui fléchit, essoufflé, qui fraîchit et reprend
+haleine...</p>
+<p>et le soir lumineux,</p>
+<p>l'estuaire franchi vent-arrière,</p>
+<p>les savantes bordées</p>
+<p>aux méandres élargis de la plaine...</p>
+<p>passé la gorge aux flots tumultueux,</p>
+<p>infranchissable,</p>
+<p><pb/></p>
+<p>BELLÉROPHON 169</p>
+<p>pour la première fois Bellérophon est seul !</p>
+<p>— l'Ombre rampe —</p>
+<p>Là-haut, contre une cime pâle, persiste</p>
+<p>A travers l'étendue,</p>
+<p>au-devant de la nuit,</p>
+<p>qui gravit l'orient ennuagé et terne,</p>
+<p>la Montagne prosterne</p>
+<p>sa grande ombre éperdue</p>
+<p>d'angoisse et d'agonie...</p>
+<p>Tel un poisson jailli du filet sur la grève</p>
+<p>laisse éteindre en la mort ses écailles splendides,</p>
+<p>la Rivière, soudain !</p>
+<p>— où vivaient aux sursauts des remous</p>
+<p>des nacrures cernées d'un feu joyeux de rides — se ternit et s'éteint...</p>
+<p><pb/></p>
+<p>170 LA LUMIÈRE DE GRÈCE</p>
+<p>Sous l'Ombre</p>
+<p>— submergeant, terrasses sur terrasses,</p>
+<p>le vaste étagement des rochers qu'elle atteint —</p>
+<p>la plaine, la forêt furtive — là-haut, les cèdres —</p>
+<p>se groupent et se massent ;</p>
+<p>les cent visages de sourire s'effacent :</p>
+<p>le monde s'unifie dans les ténèbres !...</p>
+<p>Ainsi,</p>
+<p>éparse, tantôt, aux détails de la route,</p>
+<p>aux jeux éblouissants de l'heure leste,</p>
+<p>sa Pensée, ressaisie,</p>
+<p>sous l'étreinte de la tristesse</p>
+<p>se résume en soucis.</p>
+<p>Il est seul, il a mal</p>
+<p>il s'adosse au rocher encor tiède ; il est fort, mais le coup fut brutal :</p>
+<p>comme un homme qu'emporte un char de fête au galop du quadrige</p>
+<p>— si la mobile joie de la course d'un brusque arrêt se brise — s'étonne
+appesanti d'un poids égal</p>
+<p><pb/></p>
+<p>BELLEROPHON 171</p>
+<p>ainsi Bellérophon, sous son élan brisé, — qu'il se gausse de l'aventure,
+qu'il en fasse risée — n'en hésite pas moins, gauche et lourd, au seuil
+de l'avenir ;</p>
+<p>Il sent peser sur lui le poids des souvenirs</p>
+<p>et, passivement, il voit venir son tour :</p>
+<p>Demi-dieu que domine une faiblesse humaine,</p>
+<p>va-t-il donc gémir et se plaindre ?</p>
+<p>il se redit les mots oubliés de la Reine :</p>
+<p>" C'est le Passé, enfant, qu'il faut craindre... "</p>
+<p>Tel un enfant, que lasse</p>
+<p>la trop belle histoire qu'on lui conte,</p>
+<p>n'y veut pas même croire,</p>
+<p>pour ne plus écouter s'en échappe,</p>
+<p>le plus humble détail, une herbe, un caillou rose ;</p>
+<p>tel, aussi,</p>
+<p>la passion d'Orgueil et de Courroux</p>
+<p>qui l'a tenu longtemps, attentif et docile,</p>
+<p><pb/></p>
+<p>172 LA LUMIERE DE GRECE</p>
+<p>au creux de ses genoux séniles</p>
+<p>de nourrice bavarde,</p>
+<p>l'énerve, soudain, d'un babil</p>
+<p>de Gloire et de Désastre :</p>
+<p>détourné de son rêve éblouissant et vaste,</p>
+<p>il chérit une herbe humble, humide de rosée !</p>
+<p>Et, face contre terre, il étouffe,</p>
+<p>un long sanglot dont il s'irrite :</p>
+<p>il ne veut pas que l'heure soit écoulée,</p>
+<p>n'accepte pas que la belle journée</p>
+<p>soit morte encore !</p>
+<p>il s'affale et s'endort</p>
+<p>dans l'herbe, de son long étendu :</p>
+<p>le poing crispé s'est détendu</p>
+<p>et, près de lui, compagne pâle et nue,</p>
+<p>s'allonge son épée.</p>
+<p><pb/></p>
+<p>VII</p>
+<p>// rêve ; il évoque son passé : Belléros, son frère, lui parle, puis,
+c'est l'ombre de Sisyphe, son aïeul ; mais sa jeune vaillance rejette le
+désespoir ; comme il a étendu les bras pour repousser les Chimères du
+passé, il les referme sur Antiope l'Amazone, qui s'est penchée sur son
+sommeil il étreint la Réalité.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>Les nuages courent...</p>
+<p>sur les cimes confuses ou, soudain, révélées...</p>
+<p>où — rayant les ténèbres —</p>
+<p>vient rebondir parmi les acanthes funèbres</p>
+<p>un fruit d'argent tombé du céleste verger...</p>
+<p>sur le fleuve qui brille, où le plisse son pied léger,</p>
+<p>la Lune glisse :</p>
+<p>chasseresse inlassée de cette nuit d'été, elle rajuste en ses cheveux le
+croissant d'or,</p>
+<p><pb/></p>
+<p>176 LA LUMIÈRE DE GRÈCE</p>
+<p>hâtive, et ramenant le voile ennuagé que sa course ou le vent, là-haut,
+écarte encore, éblouissant le fleuve, la forêt et la plaine d'un éclat
+de sa radieuse nudité...</p>
+<p>Artémis,</p>
+<p>abaissant tes yeux tendres,</p>
+<p>quand ta splendeur, soudain, enveloppe</p>
+<p>le sommeil du Héros,</p>
+<p>ne croirais-tu surprendre</p>
+<p>le blanc Dormeur, encore, au halo de clarté</p>
+<p>de l'antre de Carie ?</p>
+<p>Or, Bellérophon dort ;</p>
+<p>et, sur sa face, mouillée de larmes douces-amères,</p>
+<p>vous liriez son rêve</p>
+<p>dont le peureux mensonge est celui de la mère</p>
+<p>pour l'enfant que la fièvre brûle et blottit contre elle;</p>
+<p>et voici qu'en son âme lassée</p>
+<p>alternent, angoissantes ou trop belles,</p>
+<p>— selon le jeu, aussi, de nuages rapides —</p>
+<p>les ombres évoquées de son jeune passé,</p>
+<p>les clartés de sa foi téméraire et splendide :</p>
+<p>comme naguère,</p>
+<p>debout contre les joncs mobiles,</p>
+<p><pb/></p>
+<p>BELLEROPHON 177</p>
+<p>souriant mais plus pâle,</p>
+<p>Belléros aux yeux clairs</p>
+<p>lui parle</p>
+<p>de sa voix un peu rauque de meneur de cavales :</p>
+<p>" Petit, étire-toi ; il se fait tard :</p>
+<p>comme tu dors !</p>
+<p>ne fais pas l'étonné...</p>
+<p>Et lui :</p>
+<p>" Tu sais bien, frère, que tu es mort</p>
+<p>depuis cette autre année...</p>
+<p>" Soit ", dit la voix aimée,</p>
+<p>"je me suis arrêté,</p>
+<p>là-bas, au seuil de la mer bleue, un soir d'avril ;</p>
+<p>l'air était parfumé ;</p>
+<p>on riait haut, c'était un jeu</p>
+<p>de vivre...</p>
+<p>Je me suis endormi, sans être las,</p>
+<p>parmi les joncs...</p>
+<p>T'en souvient-il ?</p>
+<p>Nous nous aimions ;</p>
+<p>tous deux, nous étions ivres</p>
+<p>du vaste lendemain</p>
+<p>dont chaque heure qui t'entraîne</p>
+<p>t'éloigne encor de moi... 12</p>
+<p><pb/></p>
+<p>178 LA LUMIÈRE DE GRÈCE</p>
+<p>Oui, je suis mort, frérot ! Mais toi, Hipponoüs ? Bellérophon, mon frère ?</p>
+<p>Ta fuite vers Argos, le soupir de la Reine ;</p>
+<p>ton rêve sur la proue, l'Anadyomène ;</p>
+<p>les fêtes ennéadiques, le vol, la Chimère ;</p>
+<p>l'ombre des ruelles, le soleil de l'agora;</p>
+<p>la foule insoucieuse, bruyante, affairée ;</p>
+<p>ce cri d'adieu, tantôt, du batelier ;</p>
+<p>et même, dans l'herbe, ici, ton pauvre sanglot...</p>
+<p>Tout cela, n'est-ce le passé, frère, frérot ?</p>
+<p>N'est-ce la mort, aussi, tout cela, Hipponoüs ?</p>
+<p>Moi seul suis-je mort ? Ne meurs-tu en la seconde</p>
+<p>que bat ton coeur farouche au rythme enfiévré ?</p>
+<p>Cette heure, même, se meurt</p>
+<p>avec cet écho de ma voix dans l'ombre apaisée...</p>
+<p><pb/></p>
+<p>BELLEROPHON 179</p>
+<p>Le fruit qu'on mange est l'automne de l'antan :</p>
+<p>tu l'as attendu — comme tu l'as guetté ! —</p>
+<p>le passé pesait dans ta main quand tu l'as cueilli...</p>
+<p>Farderas-tu l'avenir avec une ombre effacée ? A toute fleur tu respires
+l'autre corolle fanée... Ces mots, je te les dis de lèvres anciennes :
+je suis le Passé, toutes tes jeunes années ! C'est cela, la Chimère
+blonde parmi les bleuets : toutes mes boucles blondes au vent dénouées
+et mes yeux d'azur, entre leurs nuées, qui mirent le rire de tes yeux,
+mon frère.. C'est moi, la Chimère ! qu'il te faut tuer... "</p>
+<p>La voix se fait lointaine</p>
+<p>et, confuse et poignante, se mêle</p>
+<p>au sanglot de qui rêve :</p>
+<p>" Vois!...</p>
+<p>la plaine immense où tu vas entrer.. Quel guide t'y accueille ? Qui t'y
+mènera ? De quelle veille est faite, encor, ta journée ? Le Passé,
+encor, t'y a devancé.; te va-t-il falloir revivre la vie hasardeuse et
+vaine des ancêtres que... les dieux ont tués.. "</p>
+<p><pb/></p>
+<p>180 LA LUMIERE DE GRECE</p>
+<p>" N'as-tu donc compris le sens du symbole ?</p>
+<p>Défiant la Mort, je l'ai enchaînée ;</p>
+<p>je suis immortel : n'es-tu pas moi-même encor ?</p>
+<p>dans ta volonté revit mon beau crime</p>
+<p>d'avoir défié l'Olympe assemblé !...</p>
+<p>Ce rocher que je pousse au faîte</p>
+<p>et qui retombe et que je pousse encore</p>
+<p>jusqu'au faîte d'où il roule vers l'abîme</p>
+<p>pour que je l'y aille chercher...</p>
+<p>Petit! c'est la Pensée ; c'est la Chimère...</p>
+<p>que même la Mort ne peut tuer...</p>
+<p><pb/></p>
+<p>BELLEROPHON 181</p>
+<p>— blasphème suprême dont le Néant s'irrite,</p>
+<p>velléité d'éternité —</p>
+<p>le Chef-d'oeuvre authentique</p>
+<p>Agis ton avenir : l'action c'est la joie</p>
+<p>illusoire mais surhumaine ;</p>
+<p>chaque heure — si tu l'as voulu — est ta proie,</p>
+<p>chaque minute est ton aubaine :</p>
+<p>La Chimère, la Chimère, la Chimère est en toi,</p>
+<p>petit poète !</p>
+<p>Tu roules, aussi, ton rocher vers le faîte ;</p>
+<p>mais c'est pour la première fois... "</p>
+<p>Bruit de pierre bondissant de rocher en rocher qui s'arrête sous bois,</p>
+<p>son dur éclat de rire heurte l'ombre trois fois et s'éteint dans la nuit.</p>
+<p>En un soupir d'angoisse, d'orgueil et d'énergie,</p>
+<p>le Héros se soulève,</p>
+<p>domptant l'indigne léthargie</p>
+<p>et défiant son rêve :</p>
+<p>ses deux bras étendus en un geste suprême</p>
+<p>pour repousser le Néant qui l'accable,</p>
+<p><pb/></p>
+<p>182 LA LUMIÈRE DE GRÈCE</p>
+<p>accueillent, ô volupté, l'étreinte de ta joie, frémissent et se
+referment sur ta seule Réalité, chair secourable !</p>
+<p><pb/></p>
+<p>VIII</p>
+<p>Bellérophon et Antiope s'éveillent dans l' aube, unis, pacifiés;
+soudain, au rayon de l' aurore, ils se voient pour la première fois et
+adorent leur beauté ; tout s'éclaire se précise, s'équilibre : la
+réalité est maîtresse.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>Du seuil de l'antre bleu...</p>
+<p>(N'entends-tu pas le cor ?</p>
+<p>Vers l'orée du bois noir tes nymphes te devancent)</p>
+<p>du seuil, où tu t'attardes encore,</p>
+<p>ta lumière rejaillie vers la voûte</p>
+<p>mêle ton clair mystère au néant ténébreux,</p>
+<p>créant ta joie, Artémis :</p>
+<p>Ainsi, sous bois, l'été,</p>
+<p>quand jaillit au visage</p>
+<p>le reflet d'un rayon</p>
+<p>hors la fontaine que l'herbe dérobait,</p>
+<p>on s'arrête, ébloui, la main aux yeux,</p>
+<p>avant de savourer la fraîche ivresse ;</p>
+<p>de même, émerveillée, agenouillée,</p>
+<p><pb/></p>
+<p>186 LA LUMIÈRE DE GRÈCE</p>
+<p>devant la splendeur blanche du demi-dieu, Antiope, vierge chasseresse,
+protège de la main son coeur blessé ;</p>
+<p>Et la nuit vaste qu'emplit le clair de lune,</p>
+<p>et le cri belliqueux de ses soeurs qui l'appellent</p>
+<p>de la huée nocturne des chouettes</p>
+<p>s'effacent :</p>
+<p>car toute la lumière de Vie,</p>
+<p>insoupçonnée et neuve,</p>
+<p>sourd palpitante de l'herbe</p>
+<p>et ses yeux s'en abreuvent...</p>
+<p>Et, quand s'ouvrent vers elle les bras blancs du dormeur, elle en chérit
+l'étreinte usurpée ; elle y confond sa chair...</p>
+<p>Un nuage, là-haut, voile sa destinée...</p>
+<p>Vers l'aube,</p>
+<p>sous la pâle nuit étoilée,</p>
+<p>" Tais-toi ! "</p>
+<p>et, d'un baiser, scellant sa bouche :</p>
+<p><pb/></p>
+<p>BELLEROPHON 187</p>
+<p>" Je ne te dirai pas : Qui es-tu ? "</p>
+<p>— sourit-il —</p>
+<p>" chair vive que je touche,</p>
+<p>femme que j'ai aimée ;</p>
+<p>car je sais mieux répondre :</p>
+<p>" Tu es la nuit d'été grave et tendre...</p>
+<p>" Tu es le parfum de ces sauges,</p>
+<p>la saveur en ma bouche du thym froissé...</p>
+<p>" Tu es cette fraîcheur de l'herbe sur ma paume... " Tu es la Certitude
+Nue.</p>
+<p>" Tu es ma mère que je n'ai pas connue,</p>
+<p>ma soeur qui n'est pas née ;</p>
+<p>tu es l'heure prédestinée</p>
+<p>dont nos désirs divins ont, jadis, convenu ;</p>
+<p>tu es le sanglot savoureux si longtemps contenu</p>
+<p>qu'il évoque en un rire la douleur pardonnée.</p>
+<p>" Quand, dans l'herbe affalé, j'en arrachais les touffes, meurtri d'une
+victoire inégalée, blotti contre ton seuil</p>
+<p><pb/></p>
+<p>188 LA LUMIÈRE DE GRÈCE</p>
+<p>où mon sanglot s'étouffe ;</p>
+<p>c'est ton étreinte que j'implorais,</p>
+<p>Terre maternelle qu'eût dédaignée mon pied ailé,</p>
+<p>Epouse de mon solitaire orgueil,</p>
+<p>Réalité !</p>
+<p>" Rire accueillant du ciel splendide,</p>
+<p>angoisse des Immortels</p>
+<p>qui, penchés sur leurs trônes,</p>
+<p>pâlissent de nos joies !</p>
+<p>Ne m'as-tu pas donné les fruits de l'Atlantide ?</p>
+<p>et toute fleur qui croît ?</p>
+<p>Les fleurs qui chantent avec des mots de fièvre ?</p>
+<p>Les fruits qui sont comme une proie aux lèvres ?</p>
+<p>Tout l'univers épars,</p>
+<p>ne l'ai-je pas étreint sous cette nuit ?</p>
+<p>Verger des Joies,</p>
+<p>n'ai-je pillé tes fruits ?... "</p>
+<p>Ils sont assis au talus de la route ;</p>
+<p>cependant qu'il lui parle,</p>
+<p>elle a posé la tête au creux de son épaule,</p>
+<p>elle écoute, immobile,</p>
+<p>et saurait sa pensée sans même une parole.</p>
+<p><pb/></p>
+<p>BELLEROPHON 189</p>
+<p>hautaine et énergique :</p>
+<p>comme celle qui se lève avant le jour</p>
+<p>— sereine et sans réplique, sans haine et sans amour.</p>
+<p>Le paysage se précise :</p>
+<p>le pré dévale</p>
+<p>jusqu'aux bords d'un ruisseau ouaté de brume,</p>
+<p>et, par delà, s'étale,</p>
+<p>puis monte aux flancs d'un tertre, entre des pins ;</p>
+<p>et, derrière, tout au loin,</p>
+<p>les cimes, étagées vers l'empyrée,</p>
+<p>Les rayons</p>
+<p>— comme d'une roue immense — jaillissent au Moyeu d'or</p>
+<p>qui tourne au ras de l'horizon :</p>
+<p>voici l'aurore !</p>
+<p>qui vêt le monde</p>
+<p>de joie si forte</p>
+<p>que la seule jeunesse l'accueille sans angoisse</p>
+<p>en sa chair où la sève abonde...</p>
+<p>Ils sont assis au talus du chemin,</p>
+<p><pb/></p>
+<p>190 LA LUMIÈRE DE GRÈCE</p>
+<p>et, d'un lent geste unique, détournés de l'aurore,</p>
+<p>ils se regardent...</p>
+<p>se voient !</p>
+<p>se possèdent des yeux pour la première fois :</p>
+<p>connaissent leur Beauté</p>
+<p>que cette double aurore</p>
+<p>illumine de certitude et dore</p>
+<p>de majesté :</p>
+<p>" Penses-tu, " lui dit-il,</p>
+<p>" qu'il soit une femme promise</p>
+<p>aux dieux suprêmes</p>
+<p>que tu n'égales, Hétaïre ? "</p>
+<p>— " Quelle déesse ", dit-elle,</p>
+<p>" n'envierait ma fiévreuse mortalité ? "</p>
+<p>Et, les yeux dans les yeux, ils boivent ta beauté,</p>
+<p>forme humaine, chair réelle,</p>
+<p>comme un nectar plus fort</p>
+<p>que n'en versa Hébé</p>
+<p>aux grands dieux titubant vers des couches mortelles.</p>
+<p><pb/></p>
+<p>IX</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>Cependant, tout s'anime :</p>
+<p>le long des grands chemins, aux lacets des sentiers,</p>
+<p>dévalé des collines,</p>
+<p>par groupes, par milliers</p>
+<p>— laboureurs aux couronnes d'épis ; bergers entourant une branche de pin
+d'une danse rustique ;</p>
+<p>vignerons brandissant des pampres en torsades —</p>
+<p>un peuple accourt ;</p>
+<p>et des chants alternés aux musiques</p>
+<p>laissent suivre</p>
+<p>— quand les masque un bosquet opaque de chênes verts— leur progrès inégal.</p>
+<p>Sur le sommet du tertre aux grands pins espacés,</p>
+<p>— les cortèges y convergent — on peut voir se dresser</p>
+<p>au geste sûr des bûcherons</p>
+<p>l'autel qu'on improvise</p>
+<p>où, déjà, fume vers le jour levant 13</p>
+<p><pb/></p>
+<p>194 LA LUMIÈRE DE GRÈCE</p>
+<p>l'encens des bois de sacrifice ; et le vent porte, enivrant l'air tout
+parfumé des pommes de pin aux flammes claires...</p>
+<p>Leurs yeux mirent la scène ;</p>
+<p>leur joie s'accorde aux hymnes</p>
+<p>la guirlande sonore ;</p>
+<p>cependant que les femmes</p>
+<p>enlacent le haut lieu de trophées embaumés,</p>
+<p>et que l'aurore</p>
+<p>rosit d'un feu de gloire</p>
+<p>le vol d'or des fumées...</p>
+<p>Mais lui, soudain, comme qui s'éveille,</p>
+<p>avisant un berger au pas hâtif</p>
+<p>qui passe sur la route en contre-bas :</p>
+<p>" Ami, qui fêtez-vous, là-bas ?</p>
+<p>Quel dieu ? "</p>
+<p>Le rustre se retourne sans s'arrêter :</p>
+<p>" Viens-tu de chez les Lotophages ?</p>
+<p>Ne sais-tu rien ? "</p>
+<p>Puis, de voix forte</p>
+<p>qu'il grossit des deux mains :</p>
+<p><pb/></p>
+<p>BELLEROPHON 195</p>
+<p>" Bellérophon a tué la Chimère ? " Et sa course l'emporte...</p>
+<p>Comme un dormeur, encore,</p>
+<p>qui, sortant du beau Songe qu'on regrette,</p>
+<p>s'émerveille de se voir</p>
+<p>l'hôte d'une Réalité plus belle</p>
+<p>et qui l'accueille, son rêve et lui ;</p>
+<p>le Héros a compris que la Gloire</p>
+<p>— la Gloire qu'il a guettée,</p>
+<p>naît, comme l'écho, d'une voix lointaine ;</p>
+<p>que, de la Vie répercutée,</p>
+<p>de bouche en bouche ou d'âge en âge,</p>
+<p>est faite la Légende surhumaine ;</p>
+<p>et que, de ceux qu'il vivifie,</p>
+<p>pas un n'a vu l'infixable soleil.</p>
+<p>Debout, la face au jour,</p>
+<p>tout l'être en fête,</p>
+<p>mais l'âme sans surprise,</p>
+<p>beau de son bel Amour,</p>
+<p>il accepte et respire en la brise</p>
+<p>les fumées de la Gloire qu'elle lui jette</p>
+<p>avec l'arome ardent des thyms</p>
+<p>qui parfumaient leur couche ;</p>
+<p><pb/></p>
+<p>196 LA LUMIÈRE DE GRÈCE</p>
+<p>Mais elle :</p>
+<p>" Belléropon l'Hippalide es-tu las ?</p>
+<p>— J'ai deviné ton nom, te voyant sous l'aurore — N'est-ce pas qu'il te
+restait encore</p>
+<p>une épreuve, un combat ? " Et lui :</p>
+<p>— " Ne m'as-tu pas aimée ?... Ta promesse est tenue,</p>
+<p>ton oeuvre est consommée...</p>
+<p>Ah ! n'as-tu pas versé le sang pur d'Antiope ?... "</p>
+<p>Mais il rit ;</p>
+<p>il dresse sur l'azur l'élan d'un demi-dieu ;</p>
+<p>au chant multiplié d'un peuple,</p>
+<p><pb/></p>
+<p>BELLEROPHON 197</p>
+<p>le ciel marie</p>
+<p>un cri divin...</p>
+<p>Les ailes frémissantes du Coursier qui se cabre</p>
+<p>éventent leur destin ;</p>
+<p>une Gloire d'or les enveloppe...</p>
+<p>L'Hippalide a bondi</p>
+<p>et son bras plus léger du clair poids d'Antiope</p>
+<p>la lie contre sa chair téméraire et superbe :</p>
+<p>" Jusque dans leur Olympe inaccessible,</p>
+<p>viens révéler aux dieux le sens de la Vie ! "</p>
+<p>La foulée des sabots effleure d'un souffle-l'herbe,</p>
+<p>et la Bête vermeille jaillit,</p>
+<p>flèche de feu, vers ta cible.</p>
+<p>SOLEIL!</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>TABLE</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>TABLE DES MATIERES</p>
+<p>PINDARE.</p>
+<p>Corine de Tanagra Il</p>
+<p>Myrtis d'Anthédon 23</p>
+<p>Lassos d'Hermione 37</p>
+<p>SAPHO.</p>
+<p>Mnécédice 57</p>
+<p>Alcée 75</p>
+<p>A Leucate 93</p>
+<p>LA LÉGENDE AILEE DE</p>
+<p>BELLÉROPHON HIPPALIDE.</p>
+<p>I 117</p>
+<p>II 129</p>
+<p>III 141</p>
+<p>IV 149</p>
+<p>V 155</p>
+<p>VI 165</p>
+<p>VII 173</p>
+<p>VIII 183</p>
+<p>IX 191</p>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>ÉDITIONS DE LA</p>
+<p>NOUVELLE REVUE FRANÇAISE</p>
+<p>Volumes in-8 couronne 3 fr. 50</p>
+<p>PAUL CLAUDEL : L'OTAGE. Drame en trois actes.</p>
+<p>CH.-L. PHILIPPE : LA MÈRE ET L'ENFANT Edition conforme au premier
+manuscrit.</p>
+<p>LETTRES DE JEUNESSE</p>
+<p>ANDRÉ GIDE : ISABELLE Récit.</p>
+<p>J. COPEAU ET J. CROUÉ : LES FRÈRES KARAMAZOV</p>
+<p>Drame en cinq actes d'après DOSTOIEVSKY.</p>
+<p>HENRI GHÉON : NOS DIRECTIONS</p>
+<p>(Réalisme et Poésie. — Notes sur le Drame poétique.</p>
+<p>— Du Classicisme. — Sur le vers libre, etc.)</p>
+<p>LE PAIN Tragédie populaire en quatre actes et cinq tableaux. Représentée
+au théâtre des Arts.</p>
+<p>JEAN SCHLUMBERGER : L'INQUIÈTE PATERNITÉ</p>
+<p>G. K. CHESTERTON : LE NOMMÉ JEUDI (UN CAUCHEMAR) Traduit de l'anglais
+par JEAN FLORENCE.</p>
+<p>FRIEDRICH HEBBEL : JUDITH</p>
+<p>Tragédie en cinq actes, traduite de l'allemand par GASTON GALLIMARD et
+PIERRE DE LANUX.</p>
+<p><pb/></p>
+<p>JACQUES RIVIÈRE : ÉTUDES</p>
+<p>(Baudelaire, Paul Claudel, André Gide, Ingres, Cézanne, Gauguin, Rameau,
+Bach, Franck, Wagner, Moussorgsky, Debussy, etc.)</p>
+<p>JEAN-RICHARD BLOCH : LEVY (PREMIER LIVRE DE CONTES)</p>
+<p>Volume in-8 tellière 5 fr. 00</p>
+<p>ANDRÉ GIDE : ISABELLE</p>
+<p>Volume in-8 couronne 2 fr. 50</p>
+<p>SAINTLÉGER LÉGER : ELOGES</p>
+<p>LÉON-PAUL FARGUE : POÈMES</p>
+<p>COVENTRY PATMORE : POÈMES</p>
+<p>(Traduction de PAUL CLAUDEL, précédée d'une étude sur Conventry Patmore
+par VALERY LARBAUD)</p>
+<p>POUR PARAITRE :</p>
+<p>Volume in-8 couronne 3 fr. 50</p>
+<p>PAUL CLAUDEL : L'ANNONCE FAITE A MARIE</p>
+<p>Mystère en quatre actes et un prologue.</p>
+<p>PIERRE HAMP : LE RAIL</p>
+<p>JEAN SCHLUMBERGER : LA MORT DE SPARTE Pièce en 4 actes, représentée au
+Théâtre National de l'Odéon.</p>
+<p>JULES IEHL : CAUËT</p>
+<p>ANDRÉ GIDE : LE RETOUR DE L'ENFANT PRODIGUE. PRÉCÉDÉ DE CINQ AUTRES
+TRAITÉS.</p>
+<p><pb/></p>
+<p>LA NOUVELLE REVUE FRANÇAISE</p>
+<p>PUBLIE CHAQUE MOIS :</p>
+<p>Un article de critique générale — des vers — un essai ou une nouvelle —
+un article de discussion — un roman — des chroniques régulières — des
+"Notes", courts articles de critique, rédigés par les collaborateurs de
+la revue, sur les manifestations littéraires ou artistiques qui leur
+paraissent les plus essentielles.</p>
+<p><pb/></p>
+<p>LA</p>
+<p>NOUVELLE REVUE FRANÇAISE</p>
+<p>A PUBLIÉ :</p>
+<p>DES ROMANS de : André Gide, Valery Larbaud, Charles-Louis Philippe,
+Henri Bachelin, Jean Giraudoux, Edouard Ducoté, André Ruyters, Jules Iehl.</p>
+<p>DES NOUVELLES de : Lucien Jean, Edmond Pilon, Edmond Jaloux, Jean
+Schlumberger, Jean Richard Bloch.</p>
+<p>DES POÈMES de : Paul Claudel, Emile Verhaeren, Comtesse de Noailles,
+Henri de Régnier, Francis Jammes, Henri Ghéon, Charles Vildrac, Georges
+Duhamel, Georges Chennevière, etc.</p>
+<p>DES DRAMES de : Paul Claudel.</p>
+<p>DES ARTICLES DE CRITIQUE, ESSAIS, SOUVENIRS de : Francis Vielé-Griffin,
+Comtesse de Noailles, Marguerite Audoux, Charles-Louis Philippe (
+journal de la vingtième année), Jules Romains, Michel Arnauld, Jacques
+Copeau, Jean Schlumberger, Henri Ghéon, etc.</p>
+<p>IL EST ENVOYÉ UN NUMÉRO SPÉCIMEN A QUICONQUE EN FAIT LA DEMANDE.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>ACHEVÉ D'IMPRIMER LE PREMIER MARS MIL NEUF CENT DOUZE PAR "THE ST.
+CATHERINE PRESS LTD" QUAI ST. PIERRE, BRUGES BELGIQUE</p>
+    </div>
+    </body>
+  </text>
+</TEI>

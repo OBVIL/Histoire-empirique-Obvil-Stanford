@@ -1,0 +1,3195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Guizot, François (1787-1874)">François Guizot</author>
+<title>Abailard et Héloïse, essai historique. Suivi des Lettres d'Abailard et d'Héloïse (Nouvelle édition entièrement refondue) / par M. et Mme Guizot ; traduites sur les manuscrits de la Bibliothèque royale par M. Oddoul,...</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Guizot, François (1787-1874)</author>, <title>Abailard et Héloïse, essai historique. Suivi des Lettres d'Abailard et d'Héloïse (Nouvelle édition entièrement refondue) / par M. et Mme Guizot ; traduites sur les manuscrits de la Bibliothèque royale par M. Oddoul,...</title>, <date>1853</date>,description :Comprend : Lettres d'Abailard et d'Héloïse / traduites sur les manuscrits de la Bibliothèque royale par M. Oddoul,494 pages
+</bibl>
+<publisher>Didier (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k5851104m</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1853">1853</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>ABAILARD &amp; HELOÏSE</p>
+<p><pb/></p>
+<p>PARIS.—IMPRIME CHEZ BONAVENTURE ET DUCESSOIS, quai des Grands-Augustins,
+55.</p>
+<p><pb/></p>
+<p>ABAILARD</p>
+<p>ET</p>
+<p>HELOISE</p>
+<p>ESSAI HISTORIQUE</p>
+<p>PAR</p>
+<p>M. ET MME GUIZOT</p>
+<p>SUIVI DES</p>
+<p>LETTRES D'ABAILARD ET D'HÉLOÏSE</p>
+<p>Traduites</p>
+<p>SUR LES MANUSCRITS DE LA BIBLIOTHEQUE ROYALE</p>
+<p>PAR M. ODDOUL.</p>
+<p>Nouvelle édition entièrement refondue</p>
+<p>PARIS</p>
+<p>DIDIER, LIBRAIRE-ÉDITEUR</p>
+<p>35, QUAI DES AUGUSTINS.</p>
+<p>1853</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>AVERTISSEMENT DE L'EDITEUR</p>
+<p>Nous avons réuni dans ce volume tous les documents qui retracent la vie
+et les sentiments de ces deux personnages, les premiers dans l'histoire
+de leur temps et dans les romans de tous les temps. La simple
+énumération des pièces contenues dans ce recueil suffira pour faire
+pressentir tout l'intérêt d'instruction et de curiosité affectueuse
+qu'il doit inspirer.</p>
+<p><pb/></p>
+<p>AVERTISSEMENT.</p>
+<p>6° Les Principaux témoignages des écrivains anciens concernant Abailard
+et Héloïse.</p>
+<p>7° Des fragments extraits de M. de Chateaubriand dans le Génie du
+Christianisme, et de M. Cousin dans son Introduction aux ouvrages
+inédits d'Abailard, sur ces deux brillants personnages, leur destinée et
+leurs écrits.</p>
+<p>DIDIER.</p>
+<p><pb/></p>
+<p>TABLE DES MATIÈRES</p>
+<p>Pages.</p>
+<p>AVERTISSEMENT de l'Éditeur.</p>
+<p>ESSAI HISTORIQUE sur la vie et les écrits d'Abailard et d'Héloïse,</p>
+<p>par M. et Mme GUIZOT. IV</p>
+<p>PRÉFACE du Traducteur des Lettres</p>
+<p>malheurs 41</p>
+<p>A Héloïse, sa bien-aimée soeur en Jésus-Christ, Abailard, son frère dans
+le même Jésus-Christ.</p>
+<p>A l'épouse du Christ, le serviteur du même Jésus-Christ. A Héloïse
+Abailard.</p>
+<p>A son maître sa servante.</p>
+<p>Sur l'origine des religieuses.</p>
+<p><pb/></p>
+<p>TABLE DES MATIERES.</p>
+<p>Fragments découverts et restitués en 1844 par M. Alex. Lenoble.</p>
+<p>A ma très-chère soeur Héloïse, respect et amour en JésusChrist.</p>
+<p>Apologétique de l'écolâtre Bérenger contre saint Bernard et</p>
+<p>les autres prélats qui ont condamné Abailard. 267</p>
+<p>de Pierre Abailard 305</p>
+<p>A Pierre, son très-révérend pasteur et père, vénérable abbé de Cluny,
+Héloïse, humble servante de Dieu et la sienne : l'esprit de la grâce du
+salut.</p>
+<p>A notre vénérable et très-chère soeur, servante de Dieu, Héloïse,
+supérieure et maîtresse des servantes de Dieu, son frère Pierre, humble
+abbé de Cluny ; la plénitude du salut par le Seigneur, et celle de notre
+amour en J.-C.</p>
+<p>Testimonia veterum, ou témoignages des Anciens concernant</p>
+<p>Héloïse et Abailard 333</p>
+<p>Extrait du Génie du Christianisme, par M. de Chateaubriand :</p>
+<p>HÉLOÏSE ET ABAILARD, AMOUR PASSIONNÉ 367</p>
+<p>Extrait des ouvrages inédits d'Abailard, par M. V. Cousin.. . 373</p>
+<p>Translations successives des cendres d'Héloïse et d'Abailard. 379</p>
+<p>Complaintes _ _ _ 385</p>
+<p>FIN DE LA TABLE.</p>
+<p><pb/></p>
+<p>ESSAI HISTORIQUE.</p>
+<p>SUR</p>
+<p>LA VIE ET LES ÉCRITS</p>
+<p>D'ABAILARD ET D'HÉLOÏSE</p>
+<p>JUSQU'AU CONCILE DE SENS,</p>
+<p>PAR M. GUIZOT.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>ABEILARD ET HELOISE</p>
+<p>ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>IV ESSAI HISTORIQUE</p>
+<p>Charlemagne essaya d'y ranimer les dernières étin-' celles de la
+civilisation mourante et de rendre au clergé l'influence morale, que
+personne alors ne croyait pouvoir et n'eût pu en effet placer ailleurs.
+Il institua des écoles, les remplit d'étudiants auxquels les dignités</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HÉLOÏSE. V</p>
+<p><pb/></p>
+<p>VI ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HELOÏSE. VII</p>
+<p><pb/></p>
+<p>VIII ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HELOÏSE. IX</p>
+<p><pb/></p>
+<p>X ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HELOÏSE. XI</p>
+<p>1 Caicilius Frey, médecin de la Faculté de Paris, fait du savoir
+d'Abailard cet éloge aussi grand que laconique : Hic solus scivit
+scibile quicquid erat.</p>
+<p><pb/></p>
+<p>XII ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HELOÏSE. XIII</p>
+<p><pb/></p>
+<p>XIV ESSAI HISTORIQUE</p>
+<p>1 La montagne Sainte-Geneviève se trouva pendant long-temps hors de
+l'enceinte de Paris; elle n'y était pas encore comprise lorsque l'abbaye
+fut fondée; ce ne fut qu'en 1221 que Philippe-Auguste l'y enferma en
+agrandissant les murs de Paris dans la partie méridionale. Ce roi, dit
+Rigord, engagea les propriétaires des vignes et des</p>
+<p><pb/></p>
+<p>SUR ABAÎLARD ET HELOÏSE. XV</p>
+<p><pb/></p>
+<p>XVI ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HELOÏSE. XVII</p>
+<p><pb/></p>
+<p>XVIII ESSAI HISTORIQUE</p>
+<p>Rien ne nous reste de cet enseignement qui fut pour la nation savante un
+événement si considérable. Nous ne trouvons, hors des écrits de Foulques
+et d'Héloïse, que peu de traces de l'événement même. On ne peut douter
+qu'Abailard n'ait été la plus grande gloire littéraire de son siècle ;
+mais les gloires littéraires ne retentissaient pas alors avec beaucoup
+d'éclat; le monde lettré de cette époque n'a pas de place dans
+l'histoire ; il en avait peu dans la société : ce qui n'intéressait que
+les doctes a été peu remarqué de leur siècle. Aussi estce hors de son
+temps et dans ses résultats postérieurs qu'il faut considérer
+l'importance du mouvement produit ou accéléré par Abailard.</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HELOÏSE. XIX</p>
+<p><pb/></p>
+<p>XX ESSAI HISTORIQUE</p>
+<p>Au milieu des classes aisées qui abondent toujours dans une grande
+ville, et se portent avec empressement vers tout ce qui peut intéresser
+leurs loisirs, Abai-</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HÉLOÏSE. XXI</p>
+<p><pb/></p>
+<p>XXIÏ ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HELOÏSE. XXIII</p>
+<p><pb/></p>
+<p>XXIV ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HÉLOÏSE. XXV</p>
+<p><pb/></p>
+<p>XXVI ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HÉLOÏSE. XXVII</p>
+<p><pb/></p>
+<p>XXVIII ESSAI HISTORIQUE</p>
+<p>de Denise. Là, elle accoucha d'un fils qui fut nommé Astrolabe ou
+Astralabe.</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HELOÏSE. XXIX</p>
+<p>parfaite réconciliation que confirmèrent des embrassements mutuels.</p>
+<p>C'est ainsi qu'Abailard nous a transmis les discours par lesquels
+Héloïse tâchait d'ébranler sa résolution ; et, malgré la forme oratoire
+que leur a donnée son récit,</p>
+<p><pb/></p>
+<p>XXX ESSAI HISTORIQUE</p>
+<p>Héloïse, dans ses lettres, les reconnaît pour siens, le remercie d'avoir
+daigné se les rappeler, lui reprochant toutefois d'omettre quelques-unes
+des raisons de son éloignement pour ce mariage, et celles sans doute
+qu'elle lui permettait le moins d'oublier.</p>
+<p><pb/></p>
+<p>SLR ABAILARD ET HELOÏSE. XXI</p>
+<p><pb/></p>
+<p>XXXII ESSAI HISTORIQUE</p>
+<p>Les épreuves monastiques étaient alors de peu de durée; et la résolution
+des deux époux avait été si</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HELOÏSE. XXXIII</p>
+<p>2</p>
+<p><pb/></p>
+<p>XXXIV ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HÉLOÏSE. XXXV</p>
+<p>La lettre de Foulques produisit sans doute son effet; du moins on ne
+voit pas qu'Abailard ait tenté de réaliser ses projets de vengeance.
+Peut-être aussi compritil bientôt qu'il devait peu compter sur l'appui
+de son monastère. L'abbaye de Saint-Denis était une de celles où n'avait
+pas pénétré la réforme; ses richesses, le voisinage de Paris et de la
+cour, y entretenaient les relâchements de la vie mondaine ; et, si l'on
+en croit Abailard, l'abbé, comme premier en dignité, surpassait encore
+en honteux désordres tout le reste de sa communauté.</p>
+<p><pb/></p>
+<p>XXXVI ESSAI HISTORIQUE</p>
+<p>Guillaume de Champeaux et Anselme, Técolâtre de Laon, étaient morts ;
+mais Àlbéric et Lotulphe, disciples</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HÉLOÏSE. XXXVII</p>
+<p><pb/></p>
+<p>XXXVIII ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HELOÏSE. XXXIX</p>
+<p><pb/></p>
+<p>XL ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HELOÏSE. XLI</p>
+<p><pb/></p>
+<p>XLII ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HELOÏSE. XLIIl</p>
+<p><pb/></p>
+<p>XI.IV ESSAI HISTORIQUE</p>
+<p>1 Abailard fut condamné sans être entendu, tant on craignait les effets
+puissants de sa logique. On peut lire dans Gervaise le détail des
+intrigues qui eurent lieu dans ce concile, et qui ne font pas grand
+honneurs aux prélats du XIIe siècle.</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HELOÏSE. XLV</p>
+<p><pb/></p>
+<p>XLVI ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HELOÏSE. XLVII</p>
+<p><pb/></p>
+<p>XXVIII ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HÉLOÏSE. XLIX</p>
+<p><pb/></p>
+<p>L ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HÉLOÏSE. LI</p>
+<p><pb/></p>
+<p>LII ESSAI HISTORIQUE</p>
+<p>toutes les lumières du temps travaillèrent dans le sens du parti
+théocratique.</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HELOÏSE. LIII</p>
+<p><pb/></p>
+<p>LIV ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HÉLOÏSE. LV</p>
+<p><pb/></p>
+<p>LVI ESSAI HISTORIQUE</p>
+<p>Au milieu de ces agitations, il crut entrevoir un port de salut. Les
+moines de Saint-Gildas de Ruys 1,</p>
+<p>1 Cette abbaye était située sur le bord de la mer, au bourg de Ruys,
+diocèse de Vannes, dans la Basse-Bretagne. Elle fut fondée, au VIe
+siècle, sous Chilpéric, fils de Mérovée, par saint Gildas, dit le Sage,</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HELOÏSE. LVII</p>
+<p>abbé d'un monastère d'Angleterre. Les religieux étaient de l'ordre de
+saint Benoît; ceux de la congrégation de Saint-Maur y furent introduits
+en 1649. Cette abbaye ne doit pas être confondue avec celle de
+Saint-Gildas-des-Bois, qui est dans le diocèse de Nantes.</p>
+<p><pb/></p>
+<p>LVIII ESSAI HISTORIQUE</p>
+<p>1 Héloïse, alors âgée de vingt-huit ans., venait d'obtenir par ses
+qualités nombreuses la dignité de prieure de la communauté d'Argenteuil.</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HÉLOÏSE. LIX</p>
+<p><pb/></p>
+<p>LX ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HELOÏSE. LXI</p>
+<p><pb/></p>
+<p>LXII ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>SUR ABAiLARD ET HELOÏSE. LXIII</p>
+<p><pb/></p>
+<p>LXIV ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HÉLOÏSE. LXV</p>
+<p>Cette lettre, moins arrangée que l'autre, est cependant plus
+déclamatoire et plus mêlée de citations. On dirait que, hvrée au
+désordre de son âme, Héloïse n'a pas été plus maîtresse de sa rhétorique
+que de sa passion.</p>
+<p><pb/></p>
+<p>LXVI ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HÉLOÏSE. LXVII</p>
+<p>moi, que dis-je? le bienfait suprême qui nous a sauvés tous deux. »</p>
+<p><pb/></p>
+<p>LXVIII ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HÉLOÏSE. LXIX</p>
+<p>(Ici s'arrête le manuscrit de cet ouvrage, qui n'a pas, été terminé. M.
+Guizot n'a pas voulu qu'il parût, ainsi incomplet, en tête de notre
+édition, et il y a ajouté, comme conclusion, les pages qui suivent.)</p>
+<p><pb/></p>
+<p>LXX ESSAI HISTORIQUE</p>
+<p>Deux récits nous restent des incidents qu'amena cette dénonciation, et
+du caractère qu'y déployèrent les deux rivaux : l'un est de Geoffroi,
+moine de Clairvaux, secrétaire et biographe de saint Bernard ; l'autre
+de Bérenger de Poitiers, disciple et apologiste d'Abailard. Je les
+citerai textuellement l'un et l'autre. Ils sont pleins l'un et l'autre
+d'exagération et peut-être de mensonge; et pourtant la vérité perce, à
+travers le langage passionné des contemporains, plus claire et plus vive
+que ne la montreraient les plus ingénieuses réflexions d'une critique
+savante.</p>
+<p>Dès que saint Bernard fut averti " des nouveautés profanes que
+renfermaient, tant dans leurs expressions que dans leur sens, les écrits
+de Pierre Abailard, l'homme de Dieu, dit Geoffroi, son biographe, qui,
+avec sa bonté et sa bénignité ordinaires, désirait redresser l'erreur
+d'Abailard, mais non le couvrir de confusion, lui adressa</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HÉLOÏSE. LXXI</p>
+<p>1 Concile de Sens, en 1140,</p>
+<p><pb/></p>
+<p>LXXII ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HELOÏSE. LXXIII</p>
+<p><pb/></p>
+<p>LXXIV ESSAI HISTORIQUE</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HELOÏSE. LXXV</p>
+<p><pb/></p>
+<p>LXXVI ESSAI HISTORIQUE</p>
+<p>en si grand nombre, nous y avons consenti Je vous</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HÉLOÏSE. LXXVII</p>
+<p>vous le demande lui-même, par lui-même, par nous, par cette lettre qu'il
+nous a supplié de vous écrire, par les porteurs qui vous la remettront,
+de permettre qu'il passe dans votre maison de Cluni le reste des jours,
+peu nombreux peut-être, de sa vie et de sa vieillesse ; en sorte que
+personne ne le puisse expulser de cette demeure, qu'il se réjouit, comme
+un passereau, d'avoir trouvée, de ce nid où il est heureux, comme un
+tourtereau , de s'être abrité. »</p>
+<p><pb/></p>
+<p>LXXVllI ESSAI HISTORIQUE</p>
+<p>proférait, sa conduite ne manifestait que des choses toujours divines,
+toujours philosophiques, toujours savantes. »</p>
+<p>C'est un beau droit de la sainteté de se montrer pleine d'une tendre
+compassion pour les douleurs des âmes tendres, même quand elles ne sont
+pas saintes. Héloïse répondit dignement au digne abbé de Cluni. Elle lui
+redemanda le corps d'Abailard, pour qu'il fût déposé dans une chapelle
+du Paraclet, selon son propre désir, lui recommanda leur fils Astralabe,
+qui avait si grand besoin d'un protecteur, et le conjura de lui envoyer,
+écrite et scellée de sa main, pour qu'elle fût suspendue au tombeau
+d'Abailard, l'absolution qu'il avait promis de lui donner.</p>
+<p>Vingt et un ans après, le 17 mai 1163, âgée aussi de soixante-trois ans,
+Héloïse descendit dans le même tombeau. Ils y reposent encore l'un et
+l'autre, après six cent soixante-quinze ans; et tous les jours de fraîches</p>
+<p><pb/></p>
+<p>SUR ABAILARD ET HÉLOÏSE. LXXIX</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>PREFACE DU TRADUCTEUR</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>PRÉFACE DU TRADUCTEUR</p>
+<p>0 anime affannatc Venite a noi parlar.</p>
+<p>DANTE..</p>
+<p><pb/></p>
+<p>4 PRÉFACE DU TRADUCTEUR.</p>
+<p>1 Héloïse fut déposée dans le même tombeau qu'Abailard , et la légende
+raconte que l'époux, se soulevant de sa couche mortuaire , ouvrit les
+bras pour recevoir l'épouse vingt ans attendue,</p>
+<p><pb/></p>
+<p>PREFACE DU TRADUCTEUR. 5</p>
+<p>nous offre dans sa personne un ravissant spectacle.</p>
+<p>Plus tard encore, après son mariage, elle repousse les félicitations qui
+lui sont adressées. Elle se refuse, par un magnanime mensonge, à
+l'honneur du rang qui lui appartient et dont toutes les femmes sont
+jalouses. Elle se ferme obstinément l'entrée du monde, et consent à
+souffrir près de son oncle toutes les colères et les vengeances de son
+orgueil blessé. Mais, loin des vallées ténébreuses où rampe l'égoïsme,
+où ne germent que des fruits de cendre, son pied, dont les anges adorent
+la trace, foule des cîmes baignées de clartés, et qui se parent de
+fleurs éternelles; une bénédiction céleste</p>
+<p><pb/></p>
+<p>6 PRÉFACE DU TRADUCTEUR.</p>
+<p><pb/></p>
+<p>PRÉFACE DU TRADUCTEUR. 7</p>
+<p>L'Essai historique placé au commencement de cet ouvrage donne le récit,
+exact des événements. Ce texte</p>
+<p><pb/></p>
+<p>8 PRÉFACE DU TRADUCTEUR.</p>
+<p>Nous voulons faire connaître la pensée intime des amants, telle qu'elle
+nous a été révélée par l'examen attentif de leurs lettres. Cette étude,
+nous l'espérons, ne sera pas sans intérêt pour le lecteur.</p>
+<p>Sur l'ordre d'Abailard, Héloïse, comme on sait, entra au couvent.</p>
+<p>Après l'accident dont il était victime, que fallait-il faire ?</p>
+<p>Abailard une fois au couvent, était-il convenable qu'Héloïse restât dans
+le monde ? N'était-ce pas évi-</p>
+<p><pb/></p>
+<p>PRÉFACE DU TRADUCTEUR. 9</p>
+<p>deminent reculer devant le voeu de chasteté ? N'étaitce pas avilir la
+première époque de leurs amours, et montrer ainsi qu'elle avait suivi
+l'instinct du plaisir et non l'impulsion de son coeur ? Le monde
+pardonne les fautes d'une grande passion, mais il flétrit avec raison
+les désordres vulgaires, Ne serait-il pas en droit de revenir sur son
+indulgence, et, de la part d'Héloïse, le refus d'embrasser la vie
+religieuse ne pouvait-il pas sembler une imitation tacite aux
+convoitises d'un nouvel amant ?</p>
+<p>Abailard n'admettait point la possibilité d'une chute ; mais enfin cette
+possibilité existait, et quand cette idée seule contenait pour lui tous
+les tourments de l'enfer, fallait -il, sur de vains scrupules de
+délicatesse, risquer le triste repos qui pouvait encore lui rester ?</p>
+<p>Un passage d'une lettre d'Héloïse a servi de texte au grief articulé
+contre Abailard. Dans un autre endroit,</p>
+<p><pb/></p>
+<p>10 PRÉFACE DU TRADUCTEUR.</p>
+<p><pb/></p>
+<p>PRÉFACE DU TRADUCTEUR. 11</p>
+<p>Oublions ce qui fut tout-à-fait du domaine ordinaire dans la conversion
+d'Héloïse. D'autres femmes auparavant, d'autres femmes depuis, ont
+accepté ou subi les mêmes conditions de vie, dont les privations
+n'auraient point été remarquées sans la célébrité des plaisirs dont
+elles étaient la suite. L'élément de notre admiration n'est donc pas
+dans un fait dont il faut rap-</p>
+<p><pb/></p>
+<p>12 PRÉFACE DU TRADUCTEUR.</p>
+<p>« Plaise au Ciel que je fasse de ce crime une digne pénitence, et que la
+longueur de mes expiations puisse balancer en quelque sorte les douleurs
+de votre supplice ! Ce que vous avez souffert un moment dans votre
+chair, je veux le souffrir toute ma vie dans la contrition de mon âme :
+du moins, après cette juste satisfaction, si quelqu'un peut encore se
+plaindre, ce sera Dieu, non pas vous. »</p>
+<p>A la vue d'un pareil sentiment, ne semble-t-il pas que l'Amour lui-même
+a passé devant nous, et que ces paroles sont une vertu sortie des bords
+divins de sa robe. ? C'est ici qu'il faut s'écrier avec le poëte :</p>
+<p>0 glorious trial of exceeding love, Illustrions évidence, example high !</p>
+<p>La magnanimité, dans sa radieuse couronne, n'a pas un diamant d'une plus
+belle eau.</p>
+<p>Au reste, les témoignages de cette nature ne sont pas rares dans l'amour
+extraordinaire d'Héloïse et d'Abailard.</p>
+<p><pb/></p>
+<p>PRÉFACE DU TRADUCTEUR. 13</p>
+<p>Deux années, urnes aux blancs cailloux, ont disparu Comme un inonde
+englouti, comme une Atlantide qui a</p>
+<p><pb/></p>
+<p>14 PRÉFACE DU TRADUCTEUR.</p>
+<p>A une époque toute échauffée des feux divins de l'enthousiasme, quelles
+immortelles couleurs l'amour n'at-il pas revêtues sous la main d'Héloïse
+et d'Abailard ? Le bonheur est le véritable domaine de l'amour. Pour
+qu'il monte sur son char, et qu'il réjouisse les deux de sa présence, il
+lui faut sa couronne de rayons lumineux, et son orient semé de roses, et
+le fluide d'or du zénith, et le manteau de pourpre de l'occident.—Nous
+avons le dieu sans ses attributs. Son autel est attristé par l'azur des
+bandelettes consacrées aux mânes et par les sombres rameaux du cyprès.</p>
+<p>Pourtant, si de ces deux correspondances, nées dans des temps si divers,
+et sous des impressions si différentes, Tune devait nous échapper, nous
+pensons que la plus précieuse nous est restée. La première aurait charmé
+nos yeux par de suaves tableaux, elle nous aurait délicieusement raconté</p>
+<p>Quanti dolci peusier, quanto disio Meno costoro al doloroso passo ;</p>
+<p><pb/></p>
+<p>PRÉFACE DU TRADUCTEUR. 15</p>
+<p>et sans doute, au lieu d'entrer brusquement dans cette vie aride et
+brûlée de souffrances, il nous eût été doux de traverser les frais
+ombrages de leurs courtes félicités. Mais celle que nous donnons ici
+paraîtra plus importante aux yeux de bien du inonde. Le secret des
+coeurs y est peut-être mieux déposé.</p>
+<p>Triste et amère royauté ! admiration trop chèrement achetée ! C'est sous
+le cilice de la religieuse que nous entrevoyons la femme ardente et
+passionnée : c'est par ses larmes seulement que nous pouvons juger des
+grâces de son sourire.— Le vase a dû être brisé pour qu'il nous fût
+permis d'en respirer le céleste parfum.</p>
+<p>Héloïse ne va point chercher de consolation dans la vie monastique. Nul
+dictame salutaire ne croîtra pour elle dans la terre inféconde du
+cloître ni dans le vase des pieuses mortifications. Pour elle il n'y a
+que deux événements dans sa vie, le jour où elle sut qu'elle était</p>
+<p><pb/></p>
+<p>16 PRÉFACE DU TRADUCTEUR.</p>
+<p><pb/></p>
+<p>PRÉFACE DU TRADUCTEUR. 17</p>
+<p>2</p>
+<p><pb/></p>
+<p>18 PRÉFACE DU TRADUCTEUR.</p>
+<p><pb/></p>
+<p>PRÉFACE DU TRADUCTEUR. 19</p>
+<p>Qui pourrait penser qu'une telle femme ait été payée d'ingratitude ?
+C'est pourtant ce qu'on a prétendu. On a été sévère pour Abailard. On a
+dit que de sa part la séduction d'Héloïse est une faute qui n'eut pas
+même l'amour pour excuse : que ce fut froidement, de propos délibéré,
+par passe-temps, qu'il trompa la confiance de Fulbert. On a établi entre
+les expressions des époux un parallèle fâcheux pour Abailard. On l'a
+traité de lâche pédant, d'homme dur et froid ; on en a fait un brutal,</p>
+<p><pb/></p>
+<p>20 PRÉFACE DU TRADUCTEUR.</p>
+<p><pb/></p>
+<p>PRÉFACE DU TRADUCTEUR. 21</p>
+<p>Quelle belle histoire on a gâtée ! Comme on a défloré cette délicieuse
+et candide légende, en faisant de l'homme un roué, et de la femme une
+maîtresse dupée !</p>
+<p><pb/></p>
+<p>22 PRÉFACE DU TRADUCTEUR.</p>
+<p>One fatal remembrance — one sorrow that throvre Its bleak shade alike
+o'er our joys and our woes— To wilich life nolhing darker nor brighter
+can bring, For wilich joy halh no balm — and affliction no sting.</p>
+<p><pb/></p>
+<p>PRÉFACE DU TRADUCTEUR. 23</p>
+<p>Non, non, pas d'indigne transaction avec les devoirs de leur habit ! Aux
+ondes lustrales de la religion Abailard ne mêlera point le flot troublé
+des souvenirs impénitents ! Il n'ira point compromettre la dernière</p>
+<p><pb/></p>
+<p>21 PRÉFACE DU TRADUCTEUR.</p>
+<p><pb/></p>
+<p>PRÉFACE DU TRADUCTEUR. 25</p>
+<p>N'allez pas prendre ses dissertations théologiques pour des
+hors-d'oeuvre, ni ses nombreuses citations de l'Écriture pour d'inutiles
+rhapsodies ; car il lui trace ainsi son itinéraire vers le ciel, il
+aplanit tous les obstacles, il sème son chemin des verts branchages et
+des fleurs Avariées des saints livires; il échelonne tout le long de sa
+route le noble cortége des Apôtres et des Pères de l'Église, qui
+l'animent de la voix et du geste, qui la bénissent, au passage, de leurs
+mains vénérables, qui la soutiennent, la consolent, la fortifient et
+l'accompagnent de leurs voeux. Et d'ailleurs ne marche-til pas lui-même
+avec elle ?</p>
+<p>Non, Abailard n'est pas pour Héloïse un froid pédagague. De cet arbre de
+science dont il veut lui faire goûter les fruits évangéliques, distille
+silencieusement une manne de tendresse qui nourrit son courage. Non, ce
+n'est pas un moine rigide qui ne laisse tomber de sa bouche que des
+anathèmes, et qui, d'une, main de fer, pétrit impitoyablement pour le
+ciel cette argile toute palpitante encore des passions de la terre. Aux
+amertumes du coeur toujours renaissantes, il opposera constamment la
+confiance du chrétien dans la volonté divine , aux</p>
+<p><pb/></p>
+<p>26 PRÉFACE DU TRADUCTEUR.</p>
+<p>ne teneras glacies secet aspera plantas.</p>
+<p>Héloïse est aussi pour lui une religion.</p>
+<p><pb/></p>
+<p>PREFACE DU TRADUCTEUR. 27</p>
+<p>A notre avis, l'amour éclate mieux dans cette stratégie attentive que
+dans un pêle-mêle effaré de sentiments. Nous y voyons autre chose que
+l'allure raide et</p>
+<p>1 Constance. V. Shakespeare.</p>
+<p><pb/></p>
+<p>28 PRÉFACE DU TRADUCTEUR.</p>
+<p>compassée de l'indifférence, autre chose qu'une sèche division et
+subdivision, autre chose enfin qu'une preuve du peu de retour que la
+passion d'Héloïse obtenait. Amour d'amant, amour de maître, amour de
+frère en Jésus-Christ, amour de la beauté, du génie, de l'âme, tout cela
+ne fait qu'un seul amour dans le coeur d'Abailard. Il aime Héloïse dans
+le passé, dans le présent, dans les siècles : et nous lui applaudissons
+avec un attendrissement mêlé d'admiration, lorsque, sentant que la terre
+lui manque, il l'étreint dans ses bras d'apôtre pour l'emporter au ciel
+avec lui.</p>
+<p><pb/></p>
+<p>PREFACE DU TRADUCTEUR. 29</p>
+<p>lard dans le cercle des damnés qui ont péché par la chair ! d'ouvrir
+pour lui ces espaces souffrants et muets de toute lumière, et de nous le
+montrer chassé, ramené, balayé perpétuellement sous les froids
+tourbillons de la rafale ! Au milieu de Troie en cendre, faut-il donc
+jeter de force sur les épaules tremblantes de Priam l'armure
+désaccoutumée ? faut-il égarer le glaive d'Hector dans sa main appesantie?</p>
+<p>Pour Abailard les mots sont le voile et non l'expression de son amour. A
+notre tour, cherchons les inflexions caressantes de la pensée plutôt que
+celles de la parole.</p>
+<p><pb/></p>
+<p>30 PRÉFACE DU TRADUCTEUR.</p>
+<p>Mais Héloïse a vu des deux si profonds et si rayonnants, qu'elle ne
+saurait préférer ceux qu'on lui propose.</p>
+<p>Elle capitule, mais elle ne veut du paradis qu'un petit coin, tant elle
+craint de se complaire, en quelque chose qui ne serait point Abailard,
+tant elle repousse le bonheur céleste même comme une pensée infidèle à
+Abailard.</p>
+<p><pb/></p>
+<p>PRÉFACE DU TRADUCTEUR. 31</p>
+<p><pb/></p>
+<p>32 PRÉFACE DE TRADUCTEUR.</p>
+<p>âme eu effet ne s'empare-t-elle point de tous les temps, ne
+touche-t-elle pas aux deux pôles de l'abîme, par les affections de mère
+ou d'épouse, de père ou d'ami, lorsque enrichie par l'abondance de ces
+sources sacrées, notre vie impatiente bouillonne comme un fleuve gonflé
+des crues de l'hiver, et déborde les rives de nos jours trop étroits?</p>
+<p>La pensée d'Abailard revêt toujours une forme adé-</p>
+<p><pb/></p>
+<p>PRÉFACE DU TRADUCTEUR. 33</p>
+<p>quate: sa gravité n'est jamais déshonorée par une vaine ornementation de
+paroles. Comme celui de tous les poètes, son discours a un pied nombreux
+; mais il est ferme, sobre, tranquille, dégagé de tous les terrestres
+ferments. Jamais Abailard n'ébranle les portes de sa prison, jamais il
+ne se débat dans le cadre d'airain où l'équerre catholique a renfermé et
+comprimé les mouvements de son coeur. L'amant n'a plus sur les lèvres
+d'autre feu que celui qu'elles empruntent au charbon de l'autel :
+l'homme est éteint, le style est moine.</p>
+<p>Mais l'amour n'a pas un langage obligé. L'amour transfigure tout. Les
+mots les plus indifférents peuvent devenir avec lui des courants
+magnétiques où deux âmes se rencontrent, des chemins où l'oeil ne peut
+les suivre, des ponts faits d'un seul cheveu et qu'elles parcourent
+audacieusement sans dévier jamais. Veut-on fixer la flamme et
+immobiliser le mouvement?</p>
+<p><pb/></p>
+<p>34 PRÉFACE DU TRADUCTEUR.</p>
+<p>poussière ne reprend pas les formes, et l'agitation, et tout le bruit de
+la passion humaine, du moins, au murmure confus qui bourdonne sous ces
+portiques déserts et dans ces galeries abandonnées, vous ne pourrez
+méconnaître quel tumulte majestueux les peuplait autrefois.</p>
+<p>La vue de ces lettres d'amour épurées par l'encens catholique vous
+rappellera les vieilles toiles espagnoles, au bas desquelles Zurbaran
+semble amonceler toutes les ombres et toutes les tristesses de la terre,
+pour les consoler d'en-haut par une espérance lumineuse et par des
+splendeurs de béatitude. Dieu n'y est pas, on ne voît que lui : l'homme
+y est seul, on ne le voit pas. Sur ces feuilles, si noblement refusées à
+l'expression d'une souffrance humaine, roule un pleur invisible.
+Soulevez chaque parole : ici crie une blessure, ici suinte une sueur
+glacée, ici pâlit une dernière goutte de poison. Tous les rameaux de ce
+myrte, quand vous y touchez, saignent ou gémissent. Arrêtez-vous devant
+le gladiateur, depuis qu'il est renversé sur l'arène. Examinez bien son
+visage : pas Un muscle n'est contracté; vous épiez sur sa bouche une
+plainte, une imprécation, un mot qui sera l'épopée de toutes ses
+douleurs : le mot né vient pas; votre poitrine se serre; le patient va
+mourir, il est mort..., vous n'avez rien entendu.</p>
+<p><pb/></p>
+<p>PRÉi'AOE DU TRADUCTEUR. 35</p>
+<p>en larmes, toute pleine d'une chère image et dès angoisses déchirantes
+de l'éternel adieu.</p>
+<p>Le style d'Héloïse a de belles démarches. Ses pensées, comme les déesses
+d'Homère et de Virgile, passent devant nos yeux avec leur regard fier et
+doux, l'or de leur chaussure et leur tunique de pourpre relevée au
+genou. J'ai bien peur, soit dit eh passant, d'avoir travesti toutes ces
+belles nymphes. Se reconnaîtrontelles au moins ? Cette vie que je leur
+ai donnée leur laissera-t-elle le souvenir de l'autre ? Que la
+métempsycose leur soit légère ! Dans les plis embarrassés de ma prose,
+j'ai souvent caché leurs pieds de neige et leurs fronts rougissants.
+Mais si j'ai pu faire apercevoir quelque blanche épaule; sous le toit de
+chaume où je les ai reçues, si elles ont laissé pour prix de
+l'hospitalité quelque chose des parfums de leur chevelure, c'est déjà
+beaucoup pour moi, l'imagination des lecteurs</p>
+<p><pb/></p>
+<p>36 PREEACE DU TRADUCTEUR.</p>
+<p>D'un autre côté, je me suis souvenu que les Grâces étaient appelées
+Décentes, et que les vierges de Sparte dansaient sans voile autour des
+chastes autels de Jumon. .</p>
+<p><pb/></p>
+<p>PREFACE DU TRADUCTEUR. 37</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LETTRE D'ABAILARD)</p>
+<p>ADRESSÉE A UN AMI,</p>
+<p>CONTENANT LE REGIT DE SES MALHEURS</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LETTRE D'ABAILARD</p>
+<p>ADRESSÉE A UN AMI,</p>
+<p>CONTENANT LE RÉGIT DE SES MALHEURS</p>
+<p><pb/></p>
+<p>42 LETTRE D'ABAILARD)</p>
+<p><pb/></p>
+<p>A UN AMI. 43</p>
+<p>Sa nouvelle prise d'habit ne lui fit point abandonner le séjour de Paris
+ni le goût qu'il avait pour la philosophie,</p>
+<p><pb/></p>
+<p>44 LETTRE D'ABAILARD</p>
+<p>et dans le monastère même où il s'était retiré par esprit de religion,
+il rouvrit; aussitôt un cours public d'enseignement.</p>
+<p>1 Voici la phrase de Porphyre :</p>
+<p>« Je ne chercherai point si les genres et les espèces existent par
+eux-mêmes ou seulement dans l'intelligence, ni, dans le cas où ils.
+existeraient par eux-mêmes, s'ils sont corporels ou incorporels, ni
+s'ils existent séparés des objets sensibles ou dans ces objets et en en</p>
+<p><pb/></p>
+<p>A. UN AMI. 45</p>
+<p>« Toute grandeur attire l'envie; les cimes élevées sont « seules battues
+par les vents. »</p>
+<p>Peu de temps après, voyant que la sincérité de son ardeur religieuse
+était fort suspectée de la plupart de ses élèves, et qu'ils murmuraient
+hautement sur sa conversion, parce qu'il n'avait pas quitté un moment
+Paris, il se</p>
+<p>faisant partie : ce problême est trop difficile et demanderait des
+recherches plus étendues</p>
+<p>(Traduction de M. Viol. Cousin.)</p>
+<p><pb/></p>
+<p>46 LETTRÉ D' ABAILARD</p>
+<p>Sur ces entrefaites, Luce, ma mère chérie, nie pressa de revenir en
+Bretagne; Bérenger, mon père, avait pris l'habit, et elle se préparait à
+imiter son exemple. Après là</p>
+<p>1 Ovide, Métamorphoses.... Discours d'Ajax.</p>
+<p><pb/></p>
+<p>A UN AMI. 47</p>
+<p>cérémonie, je revins en France, principalement dans l'intention
+d'étudier la théologie, que le même Guillaume de Champeaux enseignait
+alors avec beaucoup d'éclat dans son évêché de Châlons. Il avait eu pour
+maître dans cette science Anselme, de Laon, depuis longtemps regardé
+connue le plus grand théologien de l'Église.</p>
+<p>« L'ombré d'un grand nom était seule debout, comme un chêne altier dans
+une Campagne fertile 1. »</p>
+<p>Un jour, après la séance dé controverse, il arriva que</p>
+<p>1 Pharsale, chant ni.</p>
+<p><pb/></p>
+<p>48 LETTRE D' ABAILARD</p>
+<p><pb/></p>
+<p>A UN AMI. 49</p>
+<p><pb/></p>
+<p>50 LETTRE D'ABAILARD</p>
+<p>J'étais donc dévoré tout entier par la fièvre de l'orgueil et de la
+luxure, lorsque la grâce divine vint me guérir malgré moi de mes deux
+maladies, de la luxure d'abord, ensuite de l'orgueil : de la luxure en
+me privant des moyens de la satisfaire, et de l'orgueil, qui me venait
+principalement de ma science (selon la parole de l'Apôtre, la science
+enfle le coeur), en m'humiliant par la destruction de ce fameux livre
+dont j'étais si fier et qui fut brûlé. Je veux vous raconter cette
+double histoire dans l'ordre que les événements ont suivi. Les faits
+vous instruiront de</p>
+<p><pb/></p>
+<p>A UN AMI. 51</p>
+<p>la vérité mieux que tous les bruits qui vous sont parvenus.</p>
+<p><pb/></p>
+<p>S2 LETTRE D'ABAILARD</p>
+<p>commerce de lettres : la plume est plus hardie que la parole, et ainsi
+se perpétueraient des entretiens délicieux.</p>
+<p><pb/></p>
+<p>A UN AMI. 53</p>
+<p><pb/></p>
+<p>54 LETTRE D' ABAILARD</p>
+<p><pb/></p>
+<p>A UN AMI. 55</p>
+<p>de quel coeur brisé je gémissais sur l'affliction de cette chère enfant
+! et quel orage de chagrin souleva dans son âme le déshonneur dont
+j'étais publiquement couvert ! Dans le coup tefrible qui nous frappait,
+chacun de nous s'oubliait lui-même pour plaindre l'autre; chacun de nous
+déplorait une seule infortune, et ce n'était pas la sienne.</p>
+<p>Mais Fulbert ! Après son retour, il faillit devenir fou. Personne ne
+peut savoir la tempête de fureur qui bouillonnait, en lui. Pour exprimer
+son accablement et sa honte, il faudrait les avoir éprouvés soi-même.
+Mais que faire contre moi? quelles embûches me tendre?... Il l'ignorait.
+S'il me tuait, ou qu'il me blessât seulement dans quelque partie du
+corps, il craignait avant tout que sa nièce chérie ne fût victime de la
+vengeance des miens en Bretagne. Faire main basse sur moi et me réduire
+en chartre privée, c'était chose impraticable, car je me tenais
+soigneusement en garde contre toute surprise, convaincu</p>
+<p><pb/></p>
+<p>56 LETTRE D' ABAILARD</p>
+<p><pb/></p>
+<p>A UN AMI. 57</p>
+<p>« Es-tu délivré de femme ? ne cherche point de femme. « Si tu te maries,
+tu n'as point péché; si la vierge se « marie, elle ne péchera point;
+cependant ils seront sou« mis aux tribulations de la chair ; mais je
+veux vous « épargner. »</p>
+<p>Et plus bas :</p>
+<p>« Je veux que vous soyez sans inquiétude. »</p>
+<p><pb/></p>
+<p>58 LETTRE D'ABAILARD</p>
+<p><pb/></p>
+<p>A UN AMI, 59</p>
+<p>de lui imposer des temps, d'arrêt. Interrompez-la, elle vous abandonne.
+Soyez en garde contre les affaires : il ne s'agit pas de les
+débrouiller, mais de les éloigner de vous. »</p>
+<p>Ce que les moines véritablement dignes de porter ce nom acceptent chez
+nous en vue de l'amour de Dieu, les philosophes qui ont laissé une
+glorieuse mémoire chez les Gentils l'ont pratiqué par amour pour la
+philosophie. En effet, chez tous les peuples du monde, Gentils, Juifs ou
+Chrétiens, quelques hommes se sont toujours rencontrés, s'élevant
+au-dessus du vulgaire, par la foi ou la gravité des moeurs, et se
+séparant de la foule par une continence ou une austérité particulière.</p>
+<p><pb/></p>
+<p>60 LETTRE D'ABAILÀRD</p>
+<p>hommes qui semblaient l'emporter sur les autres parmi genre de vie digne
+d'éloges ; mais, interrogé un jour sur sa profession, il répondit qu'il
+était philosophe, c'est-à-dire désireux ou ami de la sagesse, trouvant
+qu'on ne pouvait sans orgueil faire profession d'être sage. »</p>
+<p><pb/></p>
+<p>A UN AMI. -61</p>
+<p><pb/></p>
+<p>62 LETTRE D'ABAILARD</p>
+<p>Le matin venu, toute la ville était rassemblée autour de ma demeure. Il
+me serait difficile ou plutôt impossible de rendre l'étonnement et la
+stupeur générale, le deuil mené autour de moi, les cris et les doléances
+dont, on me torturait, enfin tous les signes de désespoir qui jetaient
+le trouble et l'ébranlement dans mon esprit. Les clercs surtout, et
+spécialement mes disciples, me martyrisaient par leurs gémissements et
+leurs sanglots insupportables, en sorte que leur compassion était
+infiniment plus cruelle pour moi que ma blessure : sanglant et mutilé,
+je ne sentais que ma confusion, et je souffrais bien plus de ma honte que</p>
+<p><pb/></p>
+<p>A UN AMI. 63</p>
+<p>« Tout animal impuissant ne sera point offert au Seigneur 1. »</p>
+<p>« L'eunuque n'entrera point dans l'assemblée de l'Éternel 2. «</p>
+<p>abné1 chap. XXII.</p>
+<p>2 Deutironome, chap. XXIII.</p>
+<p><pb/></p>
+<p>04 LETTRE D'ABAILARD</p>
+<p>galion, en prenant le voile et en entrant, dans un monastère. Nous
+revêtîmes donc tous deux en même temps l'habit religieux, moi dans
+l'abbaye de Saint-Denis, elle dans le monastère d'Argenteuil dont j'ai
+parlé plus haut. Une foule de personnes voulurent soustraire sa jeunesse
+au joug de la règle monacale, en l'effrayant par la perspective d'un
+insupportable supplice ; tous les efforts de leur pitié furent inutiles
+; elle ne répondit qu'en laissant échapper comme elle put, entre les
+larmes et les sanglots, cette plainte de Cornélie :</p>
+<p>« O noble époux ! ma couche fatale ne devait pas te recevoir ! Ma
+fortune avait-elle donc ce droit sur une tête si haute? Quelle fureur
+impie m'a poussée dans tes bras, si je devais causer ton malheur?
+Maintenant lu vas être vengé; mais mon coeur va au-devant du
+sacrifice... 1 »</p>
+<p>En prononçant ces paroles, elle marcha vers l'autel, reçut des mains de
+l'évêque le voile bénit, et fit publiquement profession.</p>
+<p>1 Pharsale, chant VIII.</p>
+<p><pb/></p>
+<p>A UN AMI. 65</p>
+<p>5</p>
+<p><pb/></p>
+<p>66 LETTRE D'ABAILARD</p>
+<p><pb/></p>
+<p>A UN AMI. 67</p>
+<p>Ceux-ci, après avoir scruté et feuilleté le livre en tout sens, n'y
+trouvant rien qu'ils osassent produire contre moi</p>
+<p>1 Deutéron..., ch. XXXII, v. 31,</p>
+<p><pb/></p>
+<p>68 LETTRE D' ABAILARD,</p>
+<p>Ces rumeurs attisaient sans cesse de plus en plus la colère de mes
+rivaux. Un jour Albéric, machinant de me faire tomber dans quelque
+piége, vint me trouver avec quelques-uns de ses élèves. Après quelques
+discours de politesse, il dit qu'il avait noté dans mon livre certain
+passage dont il s'étonnait : Dieu ayant engendré Dieu, et Dieu n'étant
+qu'un, comment pouvais-je nier que Dieu se fût engendré lui-même? « Si
+vous voulez, lui répondis-je aussitôt, c'est une thèse que je vais
+soutenir rationnellement. —En pareille matière, reprit-il, nous ne
+tenons pas compte de la raison humaine ni de notre sentiment, nous nous
+attachons aux paroles seules de l'autorité. — Tournez, lui dis-je, la
+feuille du livre, et vous trouverez l'autorité. » Nous avions justement
+sous la main mon ouvrage, qu'il avait pris avec lui. Je me reportai au
+passage que je connaissais, et qui lui avait échappé, parce qu'il ne
+voulait voir dans mon livre que les choses capables de me nuire. Et la
+volonté de Dieu fit que je trouvai tout d'abord ce que je voulais :
+c'était la citation tirée de saint Augustin, sur la Trinité (liv. I) :</p>
+<p><pb/></p>
+<p>A UN AMI. 69</p>
+<p>« Vous savez tous, messeigneurs ici présents, que la science de cet
+homme, en tout genre, et l'éclat de son génie dans les diverses
+connaissances qu'il a embrassées,</p>
+<p><pb/></p>
+<p>70 LETTRE D'ABAILARD</p>
+<p><pb/></p>
+<p>A UN AMI. 71</p>
+<p>Cette dernière motion fut approuvée du légat et de tous les autres.
+Quelques instants après, le légat se leva pour aller célébrer la messe
+avant d'entrer au concile, et me fit transmettre par l'évêque Geoffroy
+l'autorisation qui m'était accordée de retourner dans mon monastère pour
+y attendre le résultat de la mesure qu'on avait adoptée.</p>
+<p><pb/></p>
+<p>72 LETTRE D'ABAILARD</p>
+<p><pb/></p>
+<p>A UN AMI. 73</p>
+<p>avec audace, s'écria dans le langage de Daniel : « Ainsi, fils insensés
+d'Israël, ne jugeant point et ne connaissant point la vérité, vous avez
+condamné le fils d'Israël. Revenez sur votre jugement, et jugez le juge
+lui-même, vous qui l'avez établi dans ses fonctions pour l'enseignement
+de la foi et le redressement de l'erreur : lorsqu'il devait juger, il
+s'est condamné par sa propfe bouche. L'innocence d'un homme a été
+dévoilée aujourd'hui par la miséricorde divine : délivrez-le, comme
+autrefois Susanne, de ses faux accusateurs. »</p>
+<p><pb/></p>
+<p>74 LETTRE D'ABAILARD</p>
+<p>persuadés que j'allais leur rester, me reçurent avec des transports de
+joie et me traitèrent avec mille attentions pour me consoler; mais leurs
+efforts étaient, inutiles.</p>
+<p><pb/></p>
+<p>A UN AMI. 75</p>
+<p>tudés licencieuses devaient leur rendre gênant au dernier point un homme
+qui ferait peser sur eux son indignation et ses censures.</p>
+<p><pb/></p>
+<p>-76 LETTRE D'ABAILARD</p>
+<p>Or il advint qu'un jour notre abbé vint au château même trouver le comte
+pour quelques affaires personnelles. J'en fus instruit, et je me rendis
+avec le prieur chez le comte, le priant d'intercéder en ma faveur auprès
+de notre abbé, pour qu'il m'accordât mon pardon et la permission de</p>
+<p><pb/></p>
+<p>A UN AMI. 77</p>
+<p><pb/></p>
+<p>78 LETTRE . D' ABAILARD</p>
+<p>racheter par une plus grande soumission au roi et des taxes plus fortes
+: ce qui m'avait fait espérer que j'obtiendrais sans difficulté
+l'assentiment du roi et de ses conseillers. Mon attente ne tut pas trompée.</p>
+<p>« Les sens sont comme des fenêtres par où les vices s'introduisent dans
+l'âme. La métropole et la citadelle de l'esprit ne peuvent être prises
+tant que l'armée ennemie</p>
+<p>1 Psaume LIV.</p>
+<p><pb/></p>
+<p>A UN AMI- 79</p>
+<p><pb/></p>
+<p>80 LETTRE D'ABAILARD</p>
+<p>« Les fils des prophètes, que l'Ancien-Testament nous représente comme
+des moines, se bâtissaient de petites cabanes vers le cours du Jourdain,
+et abandonnaient les villes et la société des hommes, pour aller vivre
+de grains broyés et d'herbes sauvages. »</p>
+<p><pb/></p>
+<p>A UN AMI. 81</p>
+<p>Profec6</p>
+<p><pb/></p>
+<p>82 LETTRE D'ABAILARD</p>
+<p><pb/></p>
+<p>A UN AMI. 83</p>
+<p><pb/></p>
+<p>84 LETTRE D'ABAILARD</p>
+<p>1 St. Norbert et St. Bernard.</p>
+<p><pb/></p>
+<p>A UN AMI. 85</p>
+<p><pb/></p>
+<p>80 LETTRE D' ABAILARD</p>
+<p>1 Psaume LX.</p>
+<p><pb/></p>
+<p>A UN AMI. 87</p>
+<p>1 Corinth., 7.</p>
+<p><pb/></p>
+<p>88 LETTRE D'ABAILARD</p>
+<p><pb/></p>
+<p>A UN AMI. 89</p>
+<p><pb/></p>
+<p>90 LETTRE D'ABAILARD</p>
+<p><pb/></p>
+<p>A UN AMI. 91</p>
+<p>1 Salomon, Proverb. XXII.</p>
+<p>2 Sermon LII.</p>
+<p>8 St. Paul, Rom. XII. '</p>
+<p><pb/></p>
+<p>92 LETTRE D'ABAILARD</p>
+<p>femmes de partager leurs excursions pieuses, et de les suivre partout où
+ils prêchaient l'Évangile, peut s'assurer en lisant l'Écriture que les
+Apôtres n'ont fait en cela qu'imiter l'exemple même du Sauveur. En effet
+il est écrit dans l'Évangile :</p>
+<p>1 St. Luc, chap. VIII, versets 2 et 3.</p>
+<p><pb/></p>
+<p>A UN AMI. 93</p>
+<p><pb/></p>
+<p>91 LETTRE D ABAILARD</p>
+<p>Rien n'est plus insupportable qu'une femme opulente '.</p>
+<p>Mais Satan a tellement semé les obstacles autour de moi, que je ne
+trouve aucun abri pour me reposer, ni seulement pour vivre. Errant et
+fugitif, il semble que je traîne partout la malédiction de Caïn. Je le
+répète, au dehors les</p>
+<p>1 Juvénal, Sat. VI.</p>
+<p><pb/></p>
+<p>A UN AMI. 95</p>
+<p><pb/></p>
+<p>96 LETTRE D'ABAILARD</p>
+<p>Le frère servant qui avait exécuté leur projet, épouvanté par le
+témoignage de sa conscience et par la preuve résultant du fait même,
+prit aussitôt la fuite.</p>
+<p>A travers tous ces périls un accident vint me surprendre : je tombai un
+jour de ma monture, et la main du Seigneur me frappa rudement, car j'eus
+les vertèbres du col brisées; cette chute m'abattit et m'affaiblit bien
+plus encore que mon premier malheur.</p>
+<p><pb/></p>
+<p>A UN AMI. 97</p>
+<p><pb/></p>
+<p>98 LETTRE D' ABAILARD</p>
+<p><pb/></p>
+<p>A UN AMI. 99</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LETTRE</p>
+<p>D'HÉLOÏSE A ABAILARD</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LETTRE</p>
+<p>D'HÉLOÏSE A ABAILARD</p>
+<p>A ABAILARD HÉLOÏSE.</p>
+<p>Vous n'avez que trop rempli la promesse que vous fai-</p>
+<p><pb/></p>
+<p>104 LETTRE D'HELOÏSE</p>
+<p>Vous n'avez oublié ni leurs suggestions ennemies, ni le bûcher qui
+dévora votre glorieux ouvrage de théologie, ni cette espèce de prison
+dont ils fermèrent sur vous les portes. Viennent ensuite les menées de
+votre abbé et de vos perfides frères, et la bouche calomnieuse de ces
+deux faux apôtres, déchaînée pour votre ruine par vos envieux, et la
+rumeur au loin suscitée par le nom de Paraclet donné, contre l'usage, à
+votre oratoire. Enfin les intolérables et incessantes vexations dont
+vous êtes accablé par ce cruel déprédateur et par ces détestables moines
+que vous appelez encore vos fils sont les derniers traits qui complètent
+ce triste tableau.</p>
+<p>Personne, je pense, ne pourrait lire ou entendre sans pleurer une
+histoire aussi touchante. Trop fidèles souvenirs qui ont renouvelé
+toutes mes douleurs ! Vos périls, que vous représentez toujours
+croissants, n'ont fait que les augmenter. Nous sommes toutes réduites à
+désespérer de votre vie, et chaque jour nos coeurs inquiets et nos
+poitrines palpitantes attendent pour dernière nouvelle le bruit de votre
+mort.</p>
+<p>Au nom du Christ, qui semble encore vous protéger pour son service, et
+dont nous sommes les bien petites servantes en même temps que les
+vôtres, ah ! nous vous en conjurons, daignez nous écrire fréquemment.
+Dites-nous au sein de quels naufrages vous êtes encore ballotté, nous</p>
+<p><pb/></p>
+<p>A ABULARD. 105</p>
+<p>Grâce au ciel, ce moyen vous reste encore de nous rendre votre présence;
+l'envie ne vous le défend point, aucune difficulté ne s'y oppose ; que
+les délais, je vous en supplie, ne viennent point de votre négligence.</p>
+<p><pb/></p>
+<p>106 LETTRE D'HÉLOÏSE</p>
+<p>Cette nouvelle plantation dans le champ du Seigneur est donc
+véritablement votre propriété. Elle est remplie de</p>
+<p><pb/></p>
+<p>A ABAILARD. 107</p>
+<p>Ces traités nombreux et étendus que les saints Pères ont comnposés avec
+tant de zèle pour instruire, pour encourager, ou même pour consoler les
+religieuses, vos excellentes lumières les connaissent mieux que notre
+faiblesse. Et ce n'est pas sans un élonnement pénible que j'ai remarqué
+votre long oubli pour les commenceinents si tendres de notre conversion.
+0 mon maître, rien n'a pu vous émouvoir en notre faveur, ni la charité
+chrétienne, ni votre amour</p>
+<p><pb/></p>
+<p>108 LETTRE D'HÉLOÏSE</p>
+<p>pour nous, ni les exemples des saints Pères. Vous m'avez abandonnée dans
+ma foi chancelante et dans le triste accablement de mon coeur. Votre
+voix n'a point réjoui mon oreille, vos lettres n'ont point consolé ma
+solitude.</p>
+<p>Jamais, Dieu le sait, je n'ai cherché autre chose en vous que vous-même.
+C'est vous, vous seul, non vos biens que</p>
+<p><pb/></p>
+<p>A ABAILARD. 109</p>
+<p><pb/></p>
+<p>110 LETTRE D'HÉLOÏSE</p>
+<p>vérité dans les paroles d'Aspasie, telles que les rapporte Eschine,
+disciple de Socrate. Cette femme philosophe, voulant réconcilier
+Xénophon et son épouse, fit d'abord valoir l'observation précédente, et
+la termina par le raisonnement que voici : « Dès l'instant que vous avez
+réalisé en vous cette question, qu'il n'y ait point sur la terre d'homme
+meilleur ni de femme plus aimable, sachez donc reconnaître et goûter
+sans trouble ce bonheur qui vous est communément départi d'être, vous,
+le mari de la meilleure femme, vous, la femme du meilleur mari. »</p>
+<p>Vous possédiez surtout deux talents qui devaient vous conquérir toutes
+les femmes : je veux dire ceux du poète</p>
+<p><pb/></p>
+<p>A ABAILARD. 111</p>
+<p>Dites-moi seulement, si vous le pouvez, pourquoi, depuis notre entrée en
+religion, que vous avez résolue sans me consulter, vous m'avez tellement
+négligée, tellement oubliée, qu'il ne m'a été donné d'obtenir ni votre
+présence pour retremper mon courage, ni même une lettre pour me faire
+supporter votre éloignement. Dites-le, je vous prie; si vous le pouvez,
+ou bien je dirai, moi, ce que je pense et</p>
+<p><pb/></p>
+<p>112 LETTRE D'HÉLOÏSE</p>
+<p>que tout le monde soupçonne. C'est la concupiscence plutôt que la
+tendresse qui vous a mis dans mes bras ; c'est l'ardeur du sang plutôt
+que l'amour. Vos désirs une fois éteints, tous ces empressements
+passionnés ont disparu.</p>
+<p><pb/></p>
+<p>A ABAILARD. 113</p>
+<p>Par ce Dieu même auquel vous vous êtes consacré, je vous conjure de me
+rendre votre présence de la manière qui vous est possible, c'est-à-dire
+par la vertu consolatrice de quelque lettre. Ainsi ranimée, je vaquerai
+du moins avec plus de ferveur au service divin. Autrefois, lorsque vous
+vouliez m'entraîner dans les jouissances mondaines, vous me visitiez
+sans cesse par vos lettres; chaque jour vos chansons plaçaient dans
+toutes les bouches votre Héloïse; toutes</p>
+<p><pb/></p>
+<p>114 LETTRE D'HÉLOÏSE A ABAILARD.</p>
+<p><pb/></p>
+<p>LETTRE</p>
+<p>D'ABAILARD A HÉLOÏSE</p>
+<p>A Héloïse, sa bien-aimée soeur en Jésus-Christ, Abailard, son frère dans
+le même Jésus-Christ.</p>
+<p><pb/></p>
+<p>110 LETTRE D'ABAILARD</p>
+<p>autrefois sur vos soeurs, c'est assez pour que mes exhortations et mes
+préceptes me paraissent tout-à-fait superflus. Pourtant, si votre
+humilité n'en juge pas de même, et que dans les choses qui ont rapport à
+Dieu vous vouliez être dirigée par mes instructions, dites-moi sur quel
+sujet je dois vous écrire, afin que je vous éclaire selon que Dieu m'en
+donnera le pouvoir.</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 117</p>
+<p>Il est écrit touchant les oeuvres de Dieu : « Il a dit, et elles furent.
+» Mais ici on rapporte qu'il dit que son peuple avait mérité
+l'affliction ; et pourtant, arrêté par la vertu de la prière, il
+n'accomplit point ce qu'il avait dit. Voyez donc quelle est la puissance
+de la prière, si nous prions dans le sens qui nous est ordonné, puisque
+le prophète ne iaissa pas d'obtenir en priant ce que Dieu lui avait
+défendu de demander, et le détourna de ce qu'il avait prononcé. Un autre
+prophète lui dit encore :" Au jour de la colère, souvenez-vous,
+Seigneur, de votre miséricorde. »</p>
+<p>Mais quiconque veut devenir un membre de l'Éternel dit avec le Psalmiste
+: « Je chanterai, Seigneur, votre miséricorde et votre justice. » — « La
+miséricorde, ainsi qu'il est écrit, fait monter le plateau de la
+justice. » — Il se souvient de cette menace de l'Écriture : « Justice sans</p>
+<p><pb/></p>
+<p>118 LETTRE D'ÀBAILARD</p>
+<p>Que cet exemple, ma soeur, encourage votre tendresse, et soit pour elle
+un gage de sécurité; Si les prières de cette femme furent si puissantes
+auprès d'un homme, ne doutez plus de tout ce que les vôtres peuvent
+obtenir pouf moi du Très-Haut. Dieu, qui est notre Père, aime sans doute
+ses fils plus tendrement que David n'aimait cette femme suppliante. Le
+foi d'Israël passait pour un homme pieux et miséricordieux ; mais Dieu
+est la piété et la miséricorde mêmes. Encore la femme qui suppliait
+David appartenaitelle au monde profane, et la sainteté d'une profession
+religieuse n'en avait pas fait l'épouse dé Dieu,</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 119</p>
+<p><pb/></p>
+<p>120 LETTRE D'ABAILARD</p>
+<p>« La femme vigilante est une couronne pour son mari.» Et plus loin : «
+Celui qui a trouvé une bonne femme a trouvé un grand bien, et il a reçu
+du Seigneur une source de joie. » Et ailleurs : « Une maison et des
+richesses sont</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 121</p>
+<p>données par les parents ; mais c'est le Seigneur lui-même qui donne une
+femme prudente, »</p>
+<p>Et dans l'Ecclésiastique :</p>
+<p>« Heureux le mari d'une bonne femme. »</p>
+<p>Et quelques lignes après :</p>
+<p>« La femme vertueuse est un excellent partage. »</p>
+<p>Et d'après l'autorité apostolique :</p>
+<p>« Le mari infidèle est sanctifié par la femme fidèle.» .</p>
+<p>C'est sans doute par cette importunité de la prière, si je puis ainsi
+parler, que Moïse amollit la sévérité de la justice divine et changea la
+terrible sentence.</p>
+<p><pb/></p>
+<p>122 LETTRE D'ABAILARD</p>
+<p>« RÉPONS. - Ne m'abandonnez pas, ne vous retirez pas de moi, Seigneur.</p>
+<p>« RÉPONS: - Ne m'abandonnez pas, Seigneur, qui êtes mon Père et le
+maître de ma vie, de peur que je ne tombe devant mes ennemis, et que le
+méchant ne se réjouisse de ma perte.</p>
+<p>« VERS. —Prenez vos armes et votre bouclier, et levezvous pour ma
+défense, de peur que mon ennemi ne se réjouisse.</p>
+<p>« PRIÈRE. —Dieu, qui, par votre humble serviteur,</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 123</p>
+<p>Enfin ce que je vous demande par-dessus toutes choses, c'est de reporter
+sur le salut de mon âme cette tendre inquiétude que les périls de mon
+corps vous ont inspirée.</p>
+<p><pb/></p>
+<p>124 LETTRE D'ABAILARD A HÉLOÏSE.</p>
+<p>C'est ainsi que vous pourrez me témoigner, quand je serai mort, combien
+vous m'avez chéri pendant la vie, en m'accordant le secours spécial et
+particulier de vos prières.</p>
+<p>Vivez, vous et vos soeurs, vivez et souvenez-vous de moi en Jésus-Christ.</p>
+<p><pb/></p>
+<p>LETTRE</p>
+<p>D'HÉLOÏSE A ABAILARD</p>
+<p>A ABAILARD HÉLOÏSE.</p>
+<p>Une autre chose encore a excité notre étonnement. Nous attendions des
+consolations, nous n'avons trouvé qu'un redoublement de chagrins : la
+main qui devait essuyer nos</p>
+<p><pb/></p>
+<p>126 LETTRE D' HÉLOÏSE</p>
+<p><pb/></p>
+<p>A ABAILARD. 127</p>
+<p><pb/></p>
+<p>128 LETTRE D'HÉLOÏSE</p>
+<p>Oh ! malheureuse des malheureuses ! infortunée des infortunées ! Votre
+amour m'avait trop élevée au-dessus de mon sexe. Renversée du haut de
+mon trône, j'ai tout expié par la grandeur de ma chute, et dans ma
+personne et dans la vôtre. Plus grande est l'élévation, plus terrible
+est la ruine ! Parmi les femmes de noble et puissante mai1</p>
+<p>mai1 Phars..., liv. II</p>
+<p><pb/></p>
+<p>A ABAILARD. 129</p>
+<p>Un homme surpris en adultère aurait assez chèrement payé son crime par
+le supplice que vous avez enduré. Ce que les autres méritent par
+l'adultère, vous l'avez encouru par le mariage, qui vous inspirait la
+confiance d'avoir racheté tous vos torts. Ce que les femmes adultères
+attirent aux complices de leurs désordres, votre légitime épouse vous
+l'a attiré. Et ce n'était plus au moment où la voix du</p>
+<p>9</p>
+<p><pb/></p>
+<p>130 LETTRE D' HELOÏSE</p>
+<p>L'Ecclésiaste dit aussi :</p>
+<p>« Mon esprit a considéré toute chose avec soin, et j'ai trouvé que la
+femme est, plus amère que la mort ; elle est le filet du chasseur : son
+coeur est un piége et ses mains</p>
+<p><pb/></p>
+<p>A ABAILARD. 131</p>
+<p>1 V. la Complainte d'Israël sur Samson, dans ce même volume;</p>
+<p><pb/></p>
+<p>132 LETTRE . D'HÉLOÏSE</p>
+<p>Plaise au ciel que je fasse de ce crime une digne pénitence, et que la
+longueur de mes expiations puisse balancer en quelque sorte les douleurs
+de votre supplice ! Ce que vous avez souffert un moment dans votre
+chair, je veux le souffrir toute ma vie dans la contrition de mon âme :
+du moins, après cette juste satisfaction, si quelqu'un peut encore se
+plaindre, ce sera Dieu, non pas vous.</p>
+<p><pb/></p>
+<p>A ABAILARD. 133</p>
+<p>Cette amertume du vrai repentir est bien rare, et saint Ambroise en fait
+la remarque : « J'ai, dit-il, trouvé plus de justes qui n'ont point
+failli, que de pécheurs relevés de ranathème par la pénitence. » Mais,
+hélas ! ces plaisirs de l'amour que nous avons goûtés ensemble m'ont
+trop doucement fascinée ! Je ne puis me défendre de les aimer, ni les
+bannir de ma mémoire. Ils enveloppent, mes pas ; ils poursuivent mes
+regards de leurs scènes adorées, et font pénétrer dans mes veines émues
+tous les feux du regret et du désir. L'éternel mirage plane encore, avec
+toutes ses illusions, sur mes nuits frémissantes.</p>
+<p>Pendant la solennité même du divin sacrifice, au moment où la prière
+doit être plus fervente et plus pure, ah ! j'en ai honte ! lest
+licencieux tableaux de nos plaisirs captivent tellement ce coeur
+misérable, que je suis plus occupée de ces indignités que de la sainte
+oraison. Je pleure non pas les fautes que j'ai commises, mais celles que
+je ne commets plus. Et non-seulement ce que nous avons fait, mais les
+heures, les lieux témoins de nos rapides félicités, chaque circonstance
+est victorieusement gravée dans mon souvenir avec votre image; tout
+recommence, je retombe dans tous nos délires, et ce passé qui me
+ressaisit et m'agite, même dans le sommeil je ne m'en repose point : des
+mouvements involontaires, des paroles qui m'échappent</p>
+<p><pb/></p>
+<p>134 LETTRE D'HÉLOÏSE</p>
+<p>viennent souvent trahir le dérèglement de mes pensées.</p>
+<p>Oh ! que je suis malheureuse, et qu'elle est bien faite pour moi cette
+plainte d'une âme gémissante : « Malheureux que je suis ! qui me
+délivrera de ce corps de mort 1 ? » Plût au ciel que je pusse ajouter
+avec raison ce qui suit : « C'est la grâce de Dieu par Jésus-Christ
+Notre-Seigneur. »</p>
+<p>Cette grâce vous a prévenu, ô mon bien-aimé : une seule plaie corporelle
+vous a guéri de ces blessures de l'âme, et, dans sa rigueur apparente,
+Dieu vous a sans doute moins maltraité. Il a fait comme un fidèle
+médecin, qui n'épargne point la douleur au malade, pourvu qu'il lui
+sauve la vie.</p>
+<p>Que je suis loin de votre tranquillité ! La fougue des sens et de la
+passion, une jeunesse qui toujours brûle et palpite, et la tant douce
+expérience que j'ai faite des voluptés, m'aiguillonnent sans relâche, et
+pressent ma défaite par des assauts dont la fragilité même de ma nature
+est complice.</p>
+<p>On dit que je suis chaste, c'est qu'on ne voit pas que je suis
+hypocrite. On prend la pureté de la chair pour de la vertu, comme si la
+vertu était l'affairé du corps et non de l'âme. Je suis honorée sur la
+terre; mais je n'ai aucun mérite devant Dieu, qui sonde les coeurs et
+les reins, et qui voit clair dans nos ténèbres.</p>
+<p>On loue ma religion dans un temps où ce n'est point une faible partie de
+la religion que l'hypocrisie; où pour être comblé de louanges il suffit
+de ne point heurter les préjugés des hommes. Sans doute il paraît,
+louable, et Dieu peut en quelque façon nous tenir compte de ne point
+scandaliser l'Église par de mauvais exemples, quoique la pureté de
+l'intention n'y soit pas ; car ainsi du moins nous ne donnons point aux
+infidèles l'occasion de blas1</p>
+<p>blas1 aux Rom., 7.</p>
+<p><pb/></p>
+<p>A ABAILARD. 135</p>
+<p>phémerle nom du Seigneur, et notre conduite ne diffame point dans le
+siècle l'ordre religieux auquel nous appartenons. Cela même est encore
+un don de la grâce divine qui, seule, avec le pouvoir de faire le bien,
+nous donne aussi la force de nous abstenir du mal. Mais en vain
+faisons-nous le premier pas s'il n'est suivi du second, car il est écrit
+: « Détourne-toi du mal et fais le bien. » Vainement encore
+accomplirons-nous l'un et l'autre précepte, si nous ne sommes point
+guidés, en l'accomplissant, par l'amour de Dieu.</p>
+<p><pb/></p>
+<p>136 LETTRE D'HÉLOÏSE</p>
+<p><pb/></p>
+<p>A ABAILARD. 137</p>
+<p>le danger est plus grand que jamais, puisque de votre côté mon mal
+d'incontinence est désormais sans remède,</p>
+<p>L'Autorité fortifie encore mon opinion. Écoutons saint Jérôme : «
+J'avoue ma faiblesse, dit-il, je ne veux point combattre dans
+l'espérance de vaincre, de peur qu'il ne m'arrive d'être vaincu ! »
+Pourquoi abandonner ce qui est certain, et poursuivre des choses
+incertaines ?</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LETTRE D'ABAILABD A HÉLOÏSE</p>
+<p>A l'épouse du Christ, le serviteur du même Jésus-Christ, A HÉLOÏSE
+ABAILARD,</p>
+<p><pb/></p>
+<p>140 LETTRE D'ABAILARD</p>
+<p>louanges, et vous me suppliez avec instance de ne plus vous en adresser
+par la suite.</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 141</p>
+<p><pb/></p>
+<p>142 LETTRE D'ABAILARD</p>
+<p>par l'époux lui-même, lorsqu'il dit : «Et ses dents sont plus blanches
+que le lait. »</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 143</p>
+<p>Elle parle encore avec sagesse lorsqu'elle dit, noire et belle comme
+elle est, que le roi l'a aimée et l'a introduite dans son cabinet,
+c'est-à-dire dans le secret et le repos de la contemplation, et dans
+cette couche dont elle parle encore ailleurs : « Durant les nuits, j'ai
+cherché dans ma couche celui qu'aime mon âme. » Son teint est noir, et</p>
+<p><pb/></p>
+<p>144 LETTRE D'ABAILARD</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 143</p>
+<p>40</p>
+<p><pb/></p>
+<p>146 LETTRE D'ABAILARD</p>
+<p>« Au nom du Christ, qui semble encore vous protéger pour son service, et
+dont, nous sommes les bien petites servantes, en même temps que les
+vôtres, ah ! nous vous en conjurons, daignez nous écrire fréquemment.
+Ditesnous au sein de quels naufrages vous êtes encore ballotté; nous
+avons besoin de le savoir. Il ne vous reste que nous seules dans le
+monde; laissez-nous notre part dans vos douleurs et dans vos joies. Les
+coeurs blessés trouvent quelques consolations dans la pitié qu'ils
+inspirent; un</p>
+<p><pb/></p>
+<p>À' HÉLOÏSE. 147</p>
+<p>fardeau soutenu par plusieurs est porté plus facilement et paraît, plus
+léger. »</p>
+<p>La mort qui tranche une vie misérable est toujours un bien, et ceux qui
+compatissent véritablement aux douleurs des autres, et qui en souffrent
+avec eux, désirent qu'elles soient terminées, même aux dépens de leurs
+affections, s'ils chérissent sincèrement ceux qu'ils voient ainsi dans</p>
+<p><pb/></p>
+<p>148 LETTRE D'ABAILARD</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 119</p>
+<p>mais intérieurement notre âme se réjouit de ces éloges. » Virgile aussi
+décrit un exemple de cette coquetterie dans la voluptueuse Galathée,
+dont la fuite appelle le plaisir sur ses traces, et qui, par un refus
+simulé, veut exciter encore les désirs de son amant :</p>
+<p>« Elle s'enfuit Sous les saules, dit le poète, mais elle brûle d'être
+vue auparavant. »</p>
+<p>Je parle ici en thèse générale, et je raconte l'histoire de bien des
+gens ; non que je craigne en vous de semblables artifices, je suis
+convaincu de votre humilité sincère; mais je veux vous voir éviter
+jusqu'aux paroles qui leur ressemblent, afin que les personnes qui vous
+connaissent imparfaitement ne soient jamais tentées de croire, selon la
+parole de saint Jérôme, que vous fuyez la gloire pour l'atteindre.
+Jamais l'éloge de ma bouche n'enflera votre coeur ; toujours il vous
+dirigera vers la perfection, et l'ardeur de votre zèle pour les vertus
+que je louerai en vous s'augmentera de tout le prix que vous attachez à
+me plaire. Mes éloges ne sont point, pour vous une attestation de
+sainteté, pour qu'ils vous inspirent de l'orgueil. On ne doit juger
+personne sur les panégyriques de l'amitié ni sur les diatribes de la haine.</p>
+<p><pb/></p>
+<p>150 LETTRE D'ABAILARD</p>
+<p><pb/></p>
+<p>A HELOÏSE. 151</p>
+<p>cas, la justice et l'éloge; pour moi la faute et le mépris. Personne ne
+les accuserait de cruauté; personne aussi ne prendrait pitié de moi.</p>
+<p><pb/></p>
+<p>152 LETTRE D'ABAILARD</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 153</p>
+<p>vrance. Comparez la maladie et la guérison. Cherchez maintenant la cause
+de tant d'indulgence, et admirez Dieu dans sa pitié et dans son amour.</p>
+<p><pb/></p>
+<p>154 LETTRE D'ABAILARD</p>
+<p>Plein de zèle, sans doute, mais d'un zèle mal éclairé, il a</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 155</p>
+<p><pb/></p>
+<p>156 LETTRE D'ARAILABD</p>
+<p>Ne vous affligez donc plus, ma chère soeur, je vous en conjure; cessez
+d'accuser un père qui nous corrige si tendrement; examinez plutôt ce qui
+est écrit : « Le Seigneur châtie ceux qu'il aime ; il corrige ceux qu'il
+reçoit au nombre de ses enfants. » Et ailleurs : « Celui qui épargne la
+verge, hait son fils. » Cette peine est passagère et non éternelle ;
+elle nous purifie, et ne nous perd pas.</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 157</p>
+<p>Prenez courage, écoutez le prophète : « Le Seigneur ne portera pas deux
+fois son jugement, et sa vengeance ne s'élèvera pas deux fois contre la
+même faute. » Écoutez cette parole souveraine et sortie de la bouche
+même de la Vérité : « Dans votre patience vous posséderez vos âmes. »
+D'où Salômon a dit : « L'homme patient vaut mieux que le courageux, et
+celui qui maîtrise son esprit, que celui qui force les villes. »</p>
+<p><pb/></p>
+<p>158 LETTRE D'ABAILARD</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 159</p>
+<p><pb/></p>
+<p>160 LETTRE D'ADAILARD</p>
+<p>volonté que Jésus-Christ a souffert pour vous; et par ses souffrances il
+retrempe votre âme aux sources d'une nouvelle vie, et vous délivre de
+tous les troubles du coeur. Portez donc vers lui, et non vers moi, je
+vous en conjure, toute votre dévotion, toute votre compassion, toute
+votre componction. Pleurez ce forfait d'injustice et d'abominable
+cruauté exercée sur la tête de l'innocent; et cessez de vous apitoyer
+sur la juste vengeance qu'on a tirée de moi, car c'est plutôt une faveur
+dont nous devons remercier le ciel.</p>
+<p>Prenez garde, Héloïse, de mériter la honte de ce reproche par lequel
+Pompée arrêta les plaintes de Cornélie :</p>
+<p>« Pompée vit encore après la bataille, mais sa fortune a péri; vous
+pleurez ce que vous aimiez 1. »</p>
+<p>Faites-y attention, je vous prie. Quelle honte, si votre coeur pouvait
+encore se complaire dans le souvenir de nos anciens égarements!</p>
+<p>Recevez donc, ma chère soeur, recevez, je vous prie, patiemment les
+épreuves qui nous ont été envoyées selon la miséricorde. C'est la verge
+d'un père et non l'épée d'un persécuteur. Le père frappe pour corriger,
+de peur que l'ennemi ne frappe pour tuer. Il blesse pour prévenir la
+mort et non pour la donner. Il enfonce le fer pour amputer le mal. Il
+blesse le corps et guérit l'ame. Il devait</p>
+<p>1 Lucain, Pharsale, chant VIII.</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 161</p>
+<p>tuer, il vivifie. Il arrête la gangrène et me laisse un corps sain. Il
+punit une fois, pour ne pas punir éternellement. Par la blessure dont un
+seul a souffert, il en sauve deux de la mort. Deux pour la faute, un
+seul dans le châtiment !</p>
+<p>Je me console aussi devoir mon mérite diminuer par la</p>
+<p><pb/></p>
+<p>162 LETTRE D'ABAILARD</p>
+<p><pb/></p>
+<p>À HÈLOÏSE. 163</p>
+<p><pb/></p>
+<p>161 LETTRE DABAILARD A HÉLOÏSE</p>
+<p>notre espérance, notre partage, notre attente, notre consolation,
+Seigneur, qui êtes béni dans tous les siècles ! Ainsi soit-il. »</p>
+<p>Salut en Jésus-Christ, épouse du Christ, salut en JésusChrist. et vivez
+pour lui. Ainsi soit-il.</p>
+<p><pb/></p>
+<p>LETTRE D'HÉLOISE A ABAILARD</p>
+<p>A son maître, sa servante.</p>
+<p><pb/></p>
+<p>406 LETTRE D'HÉLOÏSE</p>
+<p><pb/></p>
+<p>A ABAILARD. 167</p>
+<p>coeur des adolescents. Vénus bout dans leurs veines</p>
+<p>du feu dans du feu !»</p>
+<p><pb/></p>
+<p>108 LETTRE D'HÉLOÏSE</p>
+<p>Mais, sans vous citer les dispositions de la règle dont l'observation
+est impossible ou au moins dangereuse pour nous, convient-il que des
+religieuses sortent de leur couvent pour aller aux moissons et
+travailler aux champs? Une année de noviciat peut-elle suffisamment
+prouver la vocation</p>
+<p><pb/></p>
+<p>A ABAILARD). 169</p>
+<p>Il est certain que ceux qui ont écrit des règles pour les moines n'ont
+point parlé des femmes. Et même, en rédigeant ces statuts, ils savaient
+bien qu'ils ne pourraient jamais convenir aux femmes. Ils ont assez
+prouvé par là</p>
+<p><pb/></p>
+<p>170 LETTRE D'HÉLOÏSE</p>
+<p>Dans la question des jeûnes il relâche aussi quelque chose de la rigueur
+des statuts, selon la saison, la quantité de travail et la faiblesse des
+constitutions.</p>
+<p><pb/></p>
+<p>A ABAILARD. 171</p>
+<p><pb/></p>
+<p>172 LETTRE D'HÉLOÏSE</p>
+<p><pb/></p>
+<p>A ABAILARD. 173</p>
+<p>Il est des maisons désignées sous le nom de chanoines réguliers de saint
+Augustin, qui prétendent avoir une règle particulière, et ne se croient
+inférieurs en rien aux moines, quoiqu'ils fassent publiquement usage de
+linge et de viande. Si notre faiblesse pouvait égaler seulement la vertu
+de ces religieux, ne serait-ce pas beaucoup de notre part?</p>
+<p>On pourrait sans danger nous laisser plus de liberté sur notre
+nourriture, car la nature prévoyante a doué notre sexe d'une plus grande
+vertu de sobriété. Il est reconnu que les femmes vivent de très-peu de
+chose, et qu'elles n'ont pas besoin, comme les hommes, d'une
+alimentation substantielle : la physique nous enseigne aussi qu'elles
+s'enivrent plus difficilement.</p>
+<p><pb/></p>
+<p>171 LETTRE D'HÉLOÏSE</p>
+<p><pb/></p>
+<p>A ABAILARD. 175</p>
+<p>plus qu'ils n'ont promis, et de joindre des oeuvres surérogatoires aux
+obligations de leur piété. Le Verbe de vérité a dit lui-même : « Lorsque
+vous aurez accompli tout ce qui est ordonné, dites : Nous sommes des
+serviteurs inutiles, sans mérite et sans valeur; ce que nous avons fait,
+nous étions obligés de le faire, » C'est comme s'il disait : Vous êtes
+des gens inutiles, sans mérite et sans valeur, puisque, contents
+seulement d'acquitter ce que vous devez, vous n'ajoutez rien de votre
+propre mouvement.</p>
+<p><pb/></p>
+<p>176 LETTRE D'HÉLOÏSE</p>
+<p><pb/></p>
+<p>A ARA1LARD. 177</p>
+<p>12</p>
+<p><pb/></p>
+<p>178 LETTRE D'HÉLOÏSE</p>
+<p>Dites-moi, je vous prie, en quel endroit les viandes ont jamais été
+condamnées par le Seigneur ou interdites aux moines. Remarquez bien à
+quelle nécessité saint Renoit dut sacrifier, en tolérant, par une
+dispositon adoucie de la règle, le vin, qui est incontestablement la
+chose la plus dangereuse pour les moines, et qu'il avoue lui-même ne
+point leur convenir. Mais il a reconnu qu'il était impossible de
+persuader l'abstinence de cette liqueur aux moines de son temps.</p>
+<p><pb/></p>
+<p>À ABAILA11B. 179</p>
+<p><pb/></p>
+<p>180 LETTRE D'HÉLOÏSE</p>
+<p>Il appelle les éléments de ce monde les premiers rudi-</p>
+<p><pb/></p>
+<p>A ABAILARD. 181</p>
+<p>En effet, lorsque le Seigneur envoya les apôtres prêcher son Évangile,
+il devait, sans doute prévenir de leur part tout sujet de scandale.
+Cependant il leur permit d'user de tous les aliments sans restriction,
+puisqu'il leur ordonna, partout où ils seraient accueillis, de vivre
+absolument comme les autres, de manger et de boire ce qu'ils
+trouveraient sur la table. L'Apôtre, qui, par les lumières de l'esprit
+de prophétie dont il était éclairé, prévoyait que dans la suite on
+s'écarterait de cette céleste doctrine, qui est aussi la sienne, avertit
+son disciple Timothée d'y prendre garde; voici ses paroles : « Or
+l'Esprit dit expressément qu'aux derniers temps quelques-uns déserteront
+la foi, s'adonnant aux esprits séducteurs et aux doctrines des démons,
+enseignant des mensonges par hypocrisie, défendant de se marier,
+commandant de s'abstenir des aliments que Dieu a créés</p>
+<p><pb/></p>
+<p>182 LETTRE D'HÉLOÏSE</p>
+<p>» Que le Seigheur Jésus-Christ ait été sujet dans la réa-</p>
+<p><pb/></p>
+<p>A ABAILARD. 183</p>
+<p><pb/></p>
+<p>184 LETTRE D'HÉLOÏSE</p>
+<p><pb/></p>
+<p>A ABAILARD. 183</p>
+<p>loi l'y contraint. « Tout homicide, ainsi qu'il est écrit, n'aura point
+de part au royaume de Dieu. »</p>
+<p><pb/></p>
+<p>186 LETTRE D'HÉLOÏSE</p>
+<p>ser dans les choses extérieures ? C'est ce qui faisait dire au Psahnisté
+: « Vos voeux, Seigneur, sont en moi, et je vous les rendrai en actions
+de grâces.- » A cette parole ajoutez celle du poëte :</p>
+<p>Ne vous cherchez point hors de vous-mêmes.</p>
+<p><pb/></p>
+<p>A ABAILARD. 157</p>
+<p><pb/></p>
+<p>188 LETTRE D'HELOÏSE</p>
+<p>le repos de sa soeur, et se plaignait de porter seule le poids du jour
+et de la chaleur.</p>
+<p><pb/></p>
+<p>A ABAILARD. 189</p>
+<p>Adieu.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>- LETTRE B'ABAILARD A HÉLOÏSE</p>
+<p>Pur l'origine des Religieuses.</p>
+<p>Très-chère soeur, votre divin zèle m'a interrogé, tant en votre nom
+qu'en celui de vos filles spirituelles, sur l'ordre religieux auquel
+vous appartenez : je vais donc vous retracer sommairement, si je puis,
+son origine.</p>
+<p>Ainsi Jésus-Christ, qui est la fin de la justice et l'accomplissement de
+tous les biens, est venu dans la plénitude</p>
+<p><pb/></p>
+<p>192 LETTRE D'ABAILARD</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 193</p>
+<p>besoins intérieurs, et l'autre soulagea extérieurement sa lassitude.</p>
+<p>Par cette action Marie accomplit la prophétie de Daniel, qui avait
+prédit ce qui devait arriver, après l'onction du Saint des saints. Or,
+cette femme en donnant l'onction au Saint des saints prouve par cet acte
+respectueux qu'elle le</p>
+<p>13</p>
+<p><pb/></p>
+<p>194 LETTRE D'ABAILARD</p>
+<p>croit fermement celui que le prophète avait désigné. Quelle est donc, je
+vous prie, la bonté du Seigneur, ou quelle est donc la dignité des
+femmes, puisque c'est d'elles seulement qu'il veut recevoir l'onction
+sur sa tête et sur ses pieds? Quel est donc le privilége de ce faible
+sexe, pour qu'une femme vienne d'elle-même et de son propre mouvement
+oindre celui qui dès le moment de sa conception était l'oint du
+Saint-Esprit., et que par ce double sacre corporel elle ait marqué dans
+le Christ le Roi et le Pontife, en versant des aromates sur son corps
+mortel ?</p>
+<p>Saint Jérôme écrivant sur le Psaume XXVI nous apprend</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 190</p>
+<p><pb/></p>
+<p>196 LETTRE D'ABAILARD</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 197</p>
+<p>Jean, qui d'abord s'était enfui, raconte qu'il revint luimême au pied de
+la croix et qu'il resta près du crucifié; mais il préfère la
+persévérance des femmes, comme ayant été animé et rappelé par leur
+exemple. « Au pied de la</p>
+<p><pb/></p>
+<p>198 LETTRE D'ABAILARD</p>
+<p>croix, dit-il, se tenaient la mère de Jésus, et la soeur de sa mère,
+Marie, femme de Cléophas, et Marie-Madeleine. Jésus voyant donc sa mère
+et son disciple qui était auprès d'elle, etc. »</p>
+<p>Les apôtres aussi, dont le devoir est de reprendre les hommes de leurs
+fautes, et pour ainsi dire de mordre les</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 199</p>
+<p>Parmi elles cette bienheureuse pécheresse cherchant Jésus-Christ, et
+confessant qu'il est le Seigneur, dit : « Ils ont enlevé le Seigneur du
+tombeau. » Et encore : « Si vous l'avez enlevé, dites-moi où vous l'avez
+mis, afin que je l'emporte. » Les béliers, mieux que cela, les pasteurs
+du troupeau, prennent la fuite; et les brebis restent seules</p>
+<p><pb/></p>
+<p>200 LETTRE D'ABAILARD</p>
+<p>En effet, tandis que, selon saint Jean, Joseph d'Arimathie et Nicodème
+entouraient de linges le corps du Christ, et l'ensevelissaient avec des
+aromates, Marie-Madeleine, et Marie, mère de Joseph, au témoignage de
+saint Marc qui signale leur zèle, remarquaient, avec soin l'endroit où
+il serait déposé. Saint Luc en fait aussi mention lorsqu'il dit: «Les
+femmes qui avaient suivi, et qui étaient venues avec Jésus-Christ de la
+Galilée, virent le tombeau, et comment le corps était placé; et s'en
+retournant, elles préparèrent des aromates. » Elles ne crurent, pas ceux
+de Nicodème suffisants : elles voulurent y ajouter les leurs. Le jour du
+sabbat les empêcha d'exécuter leur dessein; mais, selon saint Marc,
+après le sabbat, Marie-Madeleine, Marie, mère de Jacques, et Salomé,
+vinrent de très-grand matin au tombeau, le jour même de la résurrection.</p>
+<p>Maintenant que nous avons montré leur dévotion, examinons quelle fut la
+récompense qu'elles méritèrent. D'abord la vision angélique les consola
+en leur apprenant que la résurrection du Seigneur était accomplie; enfin
+elles le virent elles-mêmes avant tout le monde et le touchèrent,
+Marie-Madeleine la première, dont le zèle était plus ardent, et ensuite
+en même temps que les autres, desquelles il est</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 201</p>
+<p><pb/></p>
+<p>202 LETTRE D'ABAILARD</p>
+<p>Les Actes des Apôtres, lorsqu'ils rapportent qu'aussitôt après
+l'ascension du Seigneur ses disciples revinrent du mont des Oliviers à
+Jérusalem, et qu'ils décrivent la piété de leur sainte congrégation, ne
+passent point sous silence la persévérance de la dévotion des saintes
+femmes : « Ils étaient tous persévérant unanimement en prières avec les
+femmes et Marie, mère de Jésus. »</p>
+<p>La preuve de la continence d'Etienne, c'est le choix</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 203</p>
+<p><pb/></p>
+<p>204 LETTRE D'ABAILARD</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 203</p>
+<p>qu'ils célèbrent vigiles, comme nous avons coutume de le faire. »</p>
+<p>L'éloge de la philosophie chrétienne, c'est-à-dire de la vie monastique
+également embrassée par les femmes et les hommes, se trouve consigné
+dans l'Histoire Triparlite, liv. 1er, chap. XI, en ces termes :</p>
+<p><pb/></p>
+<p>206 LETTRE D'ABAILARD</p>
+<p>passait sous ses yeux dans l'église d'Alexandrie, enseignée par saint Marc.</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 207</p>
+<p>Marie, ni même que les hommes aient eu un tambour ou un choeur ainsi que
+les femmes.</p>
+<p><pb/></p>
+<p>208 LETTRE D'ABAILARD</p>
+<p>a présenté son fils Samuel au Seigneur, et il demeura au service du
+temple où sa mère l'avait consacré, et il s'y acquitta des fonctions
+qu'on lui avait destinées. »</p>
+<p>Nous lisons aussi dans le même livre que le voeu rigoureux et la
+consécration des Nazaréens du Seigneur étaient également institués pour
+les deux sexes, selon les paroles que le Seigneur lui-même adresse à
+Moïse :</p>
+<p>« Parle aux enfants d'Israël, et dis-leur : L'homme ou la femme qui aura
+fait voeu de sanctification, et qui aura voulu se consacrer au Seigneur,
+s'abstiendra de vin et de tout ce qui peut enivrer. Ils ne boiront ni
+l'un ni l'autre de vinaigre fait avec le vin, ni d'autre boisson que la
+vigne peut produire ; tout le temps de leur consécration ils ne
+mangeront ni raisins nouveaux ni raisins secs. Tout le temps de leur
+séparation ils ne feront aucun usage de tout ce qui sort de la vigne,
+depuis le grain jusqu'au pépin. »</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 209</p>
+<p>14</p>
+<p><pb/></p>
+<p>210 LETTRE D'ABAILARU</p>
+<p>L'évangéliste s'étend avec une complaisance particulière</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 211</p>
+<p><pb/></p>
+<p>212 LETTRE D' ABAILARD</p>
+<p><pb/></p>
+<p>A HÉL0ÏSE. 213</p>
+<p>Fort de l'autorité du Seigneur, saint Jérôme osa blâmer</p>
+<p><pb/></p>
+<p>214 LETTRE D'ABAILARD</p>
+<p>Cassiodore et Claude, exposant ce passage, pensent qu'elle était
+diaconesse de cette église. « L'Apôtre, dit Cassiodore, fait entendre
+qu'elle fut diaconesse de l'églisemère, selon l'espèce d'apprentissage
+militant, qui est encore observé aujourd'hui chez les Grecs. L'Église ne
+leur refuse pas non plus le pouvoir de baptiser. »</p>
+<p>« Ce passage, dit Claude, nous enseigne par l'autorité apostolique que
+les femmes peuvent aussi entrer dans le ministère de l'Église, et que
+ces fonctions dans l'église de</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 215</p>
+<p><pb/></p>
+<p>216 LETTRE D'ABAILARD</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 217</p>
+<p><pb/></p>
+<p>218 LETTRE D'ABAtLARD</p>
+<p><pb/></p>
+<p>A HÉLOÏSE-. 219</p>
+<p><pb/></p>
+<p>220 LETTRE D'ABAILARD</p>
+<p>Cette admirable vertu des vierges excite dans l'Église les
+tressaillements d'une joie extraordinaire, ainsi que David l'avait
+prédit par ces paroles : « Des vierges seront amenées au roi ; » et
+ensuite : « Elles lui seront présentées dans la joie et dans
+l'allégresse; on les amènera dans le temple. » On croit que saint
+Matthieu, l'apôtre et l'évangéliste, a institué ou dicté le rituel de
+cette consécration, et c'est ce qui se trouve rapporté dans les actes de
+son martyre, car il mourut pour la défense de la virginité religieuse.
+Mais jamais les apôtres ne nous ont rien laissé par écrit touchant la
+consécration des clercs et des moines. C'est aussi du nom de la Sainteté
+que leur profession religieuse a tiré le sien, puisque du mot
+Sanctimonia, c'est-àdire sainteté, dérive celui de Sanctimoniales ou
+moinesses.</p>
+<p><pb/></p>
+<p>A HELOÏSE. 221</p>
+<p>C'est ainsi qu'en parlant, par la bouche de cet Apôtre, des. membres de
+son corps, qui est l'Église, comme s'il eût principalement recommandé
+l'honneur aux membres les plus faibles, il lui fait dire dans cette même
+épître aux Corinthiens :</p>
+<p>N'est-ce pas aux femmes qu'il a dispensé sans réserve les trésors de la
+grâce divine, quoique leur sexe fût le plus faible et le moins noble,
+tant par le péché originel que par sa nature ! Examinez-en les
+différents états, les vierges, les veuves, les femmes mariées, et même
+celles qui vivent dans les abominations du libertinage, et vous verrez
+en elles les plus grands effets de la grâce du Seigneur, selon les
+paroles de Jésus-Christ et de l'Apôtre : « Que les premiers soient les
+derniers, et les derniers soient les premiers ». Remarquez encore : « Là
+où il y a eu abondance de péché, qu'il y ait aussi surabondance de grâce. »</p>
+<p><pb/></p>
+<p>222 LETTRE D' ABAILARD</p>
+<p><pb/></p>
+<p>A HÉLOÏSÉ: 223</p>
+<p>On regarde comme un prodige de force et de vertu que David avec une
+fronde ait vaincu Goliath ; et la veuve Judith, sans pierre et sans
+fronde, et sans le secours d'aucune arme, s'avança contre toute une
+armée ennemie. Esther par sa seule parole délivre son peuple, et
+tournant contre ses ennemis le décret de proscription, les précipite
+eux-mêmes dans le piége qu'ils avaient tendu. C'est en mémoire de cette
+action remarquable que les Juifs ont institué une fête annuelle, ce que
+jamais ils n'ont fait pour les actions d'aucun homme, même les plus
+héroïques.</p>
+<p>Le démon, après toutes ses vaines persécutions contre le saint homme
+Job, connaissant la faiblesse humaine aux approches de la mort, dit : «
+L'homme donnera la peau d'aulrui pour conserver la sienne, et tout ce
+qu'il possède pour sauver sa vie. » En effet, l'horreur que nous inspire</p>
+<p><pb/></p>
+<p>224 LETTRE D'ABAILARD</p>
+<p><pb/></p>
+<p>A HÉL0ÏSE. 225</p>
+<p>4 5</p>
+<p><pb/></p>
+<p>226 LETTRE D'ABAILARD</p>
+<p>hymnes solennels, et pleurer, avec tous les témoignages d'une pieuse
+commisération, l'innocente vierge immolée 3.</p>
+<p>Voyez la grandeur de la grâce que l'arrivée de JésusChrist a répandue
+aussitôt, sur Elisabeth, qui était mariée, et sur Anne, qui était veuve.
+Zacharie, mari d'Elisabeth, et grand-prêtre du Seigneur, n'avait pas
+encore recouvré</p>
+<p><pb/></p>
+<p>À HÉLOÏSE. 227</p>
+<p>Si nous examinons jusque chez les Gentils ce don de -prophétie, que la
+Sibylle paraisse ici la première, et qu'elle nous dise ce qui lui a été
+révélé au sujet de Jésus-Christ. Si nous comparons avec elle tous les
+prophètes, et Isaïe lui-même, qui, suivant saint Jérôme, est moins un
+prophète qu'un évangéliste, nous verrons encore que cette grâce est bien
+plus éminente dans cette femme que dans tous les hommes. Saint Augustin,
+invoquant son témoignage, contre les -hérétiques, leur dit: « Écoutons
+la sibylle, leur devineresse, au sujet de Jésus-Christ :</p>
+<p>« Le Seigneur, dit-elle, a donné aux hommes fidèles un autre Dieu à
+adorer ; reconnaissez-le pour son Fils. »</p>
+<p><pb/></p>
+<p>228 LETTRE D'ABAILARD</p>
+<p>vers latins les vingt-sept vers grecs dont la prédiction est composée.
+Voici les sens de quelques-uns : : « En signe, du jugement, la terre se
+mouillera de sueur : un roi, qui doit vivre dans tous les siècles,
+descendra du ciel, revêtu, d'un corps humain, pour juger l'univers. »</p>
+<p>En réunissant les premières lettres de chaque vers grec, l'acrostiche
+donne : « Jésus-Christ, fils de Dieu, Sauveur.»</p>
+<p>Lactance cite aussi plusieurs prophéties de la sibylle au sujet de
+Jésus-Christ :</p>
+<p>Virgile, le plus grand de nos poëtes, connaissait sans doute cet oracle
+de la sibylle, puisqu'il y fait allusion dans sa quatrième églogue, où
+il prédit, sous le règne de CésarAuguste et le consulat de Pollion, la
+naissance miraculeuse d'un enfant qui devait être envoyé du ciel sur la
+terre pour effacer les péchés du monde et créer une ère pleine de
+merveilles. Cet événement avait été révélé au</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 229</p>
+<p>Pesez toutes les paroles de la sibylle, et vous verrez qu'elles
+renferment clairement ce que la foi chrétienne doit croire de
+Jésus-Christ. Et dans sa prophétie, dans ses écrits, elle n'a oublié ni
+sa divinité, ni son humanité, ni son arrivée pour les deux jugements :
+le premier, dans lequel il a été injustement condamné aux tortures de sa
+Passion; l'autre, par lequel il jugera justement le monde dans la
+majesté. Et en faisant mention de sa descente aux enfers et de la gloire
+de sa résurrection, elle s'est élevée au-dessus des prophètes et même
+des évangélistes, qui n'ont rien dit de sa descente aux enfers.</p>
+<p><pb/></p>
+<p>230 LETTRE D'ABAÏLARD</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 231</p>
+<p><pb/></p>
+<p>232 LETTRE d'ABALARD</p>
+<p>vilégié les femmes du bienfait de ce grand miracle. Ce qui fait dire à
+l'Apôtre, dans son épître aux Hébreux : « Les femmes ont recouvré leurs
+morts par la résurrection; » car cette jeune fille ressuscitée recouvra
+son propre corps, et les autres femmes eurent la consolation de voir
+revivre ceux dont elles pleuraient le trépas. Des preuves nombreuses
+nous attestent donc la constante faveur dont Jésus-Christ a honoré les
+femmes. Il voulut d'abord les combler de joie, en les rappelant
+elles-mêmes du sépulcre, ainsi que les personnes qui leur étaient chères
+: et n'ont-elles pas obtenu le plus glorieux des titres quand le Sauveur
+leur apparut, puisqu'elles furent choisies pour être les premiers
+témoins de sa résurrection ?</p>
+<p>« Filles de Jérusalem, dit-il, ne pleurez pas sur moi, mais pleurez sur
+vous-mêmes et sur vos fils ; car le jour est proche où l'on dira :
+Heureuses les stériles et les entrailles qui n'ont point enfanté ! »</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 233.</p>
+<p>Quand il prêchait, c'est encore une femme qui seule éleva la voix, du
+milieu de la foule, pour lui adresser ce magnifique éloge : «
+Bienheureuses les entrailles qui vous ont porté, et les mamelles qui
+vous ont nourri ! » Mais au cri de son âme et de la vérité le Seigneur
+opposa une douce réprimande, en lui répondant : « Et moi je vous dis à
+mon tour : Heureux ceux qui écoutent la parole de Dieu, et qui
+l'accomplissent! »</p>
+<p><pb/></p>
+<p>234 LETTRE D'ABAILARD</p>
+<p>avec justice aux hommes fidèles ; et, suivant la différence et d'état et
+de sexe, les premiers deviendront les derniers, et les derniers
+deviendront les premiers. .</p>
+<p>Nous ne voyons pas qu'un capuchon de moine ait jamais opéré un tel
+prodige. Nous savons bien qu'Élie divisa les eaux du Jourdain avec son
+manteau, et qu'Elisée s'en servit également pour s'ouvrir un passage
+dans le sein de la terre; mais le voile de cette vierge a sauvé une
+foule de Gentils des dangers qu'ils couraient pour leurs âmes et pour
+leurs corps, et par leur conversion il leur a ouvert le chemin du ciel.
+Une chose encore relève, la gloire de ces saintes femmes et la dignité
+de leur- rang, c'est qu'elles se</p>
+<p><pb/></p>
+<p>A HELOÏSE. 235</p>
+<p>Nous savons que les païens honoraient la virginité par d'éclatants
+honneurs, tandis que la malédiction de la Loi</p>
+<p><pb/></p>
+<p>236 LETTRE D'ABAILARU</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 237</p>
+<p><pb/></p>
+<p>238 LETTRE D' ABAILARD</p>
+<p>Si les hommes savent distinguer une perle dans un bourbier et séparer le
+grain de la paille, Dieu ne peut igno-</p>
+<p><pb/></p>
+<p>À HÉLOÏSE. 239</p>
+<p>rer les grâces qu'il a accordées aux infidèles, et haïr en eux ses
+bienfaits. Plus les faveurs dont ils les comble sont éclatantes, plus il
+prouve qu'il en est l'auteur, et que la méchanceté des hommes ne saurait
+les altérer; plus il nous enseigne quelles doivent être les espérances
+des fidèles, si les infidèles sont ainsi traités.</p>
+<p>Saint Augustin, dans son livre troisième de la Cité de Dieu, s'exprime
+ainsi : « Les anciens Romains enterraient toutes vives les prêtresses de
+Vesta convaincues d'incontinence. Quant aux femmes adultères, ils se
+contentaient de leur infliger quelques peines, et. ne les faisaient
+point mourir. » Ils établissaient une grande différence entre les deux
+crimes, et vengeaient plus cruellement la couche des dieux que celle des
+hommes.</p>
+<p><pb/></p>
+<p>240 LETTRE D'ABAILARD</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 211</p>
+<p>16</p>
+<p><pb/></p>
+<p>242 LETTRE D'ABAILARD</p>
+<p><pb/></p>
+<p>A HELOISE. 243</p>
+<p><pb/></p>
+<p>214 LETTRE D'ABAILAM)</p>
+<p>Nous voyons des vierges sans nombre imiter la chasteté de la mère du
+Sauveur, afin de pouvoir suivre l'Agneau dans toutes ses voies, tandis
+que nous connaissons peu d'hommes qui aient atteint cet état de
+perfection. Par amour pour la vertu, plusieurs se sont elles-mêmes donné
+la mort, pour conserver devant Dieu la pureté de cette chair qu'elles
+lui avaient consacrée; et leur martyre volontaire, loin d'être repris,
+leur a mérité l'honneur de la canonisation et la dédicace de plusieurs
+églises.</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 245</p>
+<p>Quelques femmes ont porté cet amour de la pureté au point de se revêtir,
+pour la protéger, des habits de l'autre sexe, malgré la défense de la
+loi, et de briller au milieu des moines par des vertus si éclatantes,
+qu'elles ont mérité de devenir abbés. C'est ainsi que sainte Eugénie,
+avec la pieuse complicité de l' évêque Hélénus, et même par son ordre,
+prit l'habit d'homme, et, baptisée par lui, fut admise dans un monastère
+de religieux.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LETTRE FABAILARD A HÉLOJSE</p>
+<p>A UKI-OÏSE ABAILARD.</p>
+<p>Pour accomplir ce travail voici ce que je me propose : je prendrai les
+meilleures règles suivies dans les couvents, les instructions que
+présentent les saintes Écritures, et les conseils de la raison, pour en
+faire un corps de doctrine. Vous êtes le temple spirituel du Seigneur :
+chargé de l'embellir, je veux l'orner en quelque sorte de peintures
+excellentes qui résument dans une oeuvre unique les perfections
+disséminées de plusieurs modèles.</p>
+<p><pb/></p>
+<p>248 LETTRE D'ABAILARD</p>
+<p><pb/></p>
+<p>A HÉLOISE 249</p>
+<p>SUIT LA REGLE DES RELIGIEUSES.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LETTRE D'ABAILARD A HELOÏSE 1</p>
+<p>(FRAGMENT)</p>
+<p>C'est, sur vos instantes prières, Héloïse, ma soeur, qui me fûtes chère
+autrefois dans le siècle, et qui aujourd'hui m'êtes plus chère en
+Jésus-Christ, que j'ai composé ces chants nommés Hymnes par les Grecs,
+et par les Hébreux Tchillim. Lorsque vous me pressiez de les écrire,
+vous et les saintes femmes qui habitent avec vous, j'ai voulu connaître
+les motifs de votre demande; car il me semblait superflu de vous
+composer de nouvelles hymnes, quand vous en possédiez tant d'anciennes ;
+je regardais d'ailleurs comme une espèce de sacrilége de préférer ou
+seulement d'égaler aux chants antiques des saints les chants nouveaux
+d'un pécheur.</p>
+<p><pb/></p>
+<p>252 LETTRE D'ABAILARD</p>
+<p>Parmi les diverses réponses que j'ai reçues de plusieurs d'entre vous,
+je me rappelle que vous particulièrement vous mettiez en avant ces
+raisons :</p>
+<p>« Vous ajoutiez que nous manquions d'hymnes spéciales pour le plus grand
+nombre des fêtes, telles que celles des Innocents, des Évangélistes et
+de ces saintes qui ne furent ni vierges ni martyres. Enfin, disiez-vous,
+il y a plusieurs de ces hymnes qui font mentir ceux qui les chantent, ou
+parce qu'elles ne s'appliquent pas au temps, ou parce que</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 253</p>
+<p><pb/></p>
+<p>251 LETTRE D'ABAILARD A HÉLOÏSE.</p>
+<p><pb/></p>
+<p>LETTRE D'ABAILAED A HELOISE</p>
+<p>(FRAGMENT)</p>
+<p>L'office du culte divin se compose de trois éléments. Le docteur des
+Gentils, dans l'Epître aux Ephésiens, l'établit ainsi quand il dit :</p>
+<p>« Ne vous enivrez pas dans le vin, qui renferme la luxure; mais
+remplissez-vous de l'Esprit, vous entretenant de psaumes, d'hymnes et de
+cantiques spirituels, chantant et psalmodiant, le nom du Seigneur dans
+vos coeurs. »</p>
+<p>Et encore dans l'Epître aux Colossiens, il dit :</p>
+<p>« Que la parole du Christ habite en vous abondamment et en toute
+sagesse; instruisez-vous et exhortez-vous les uns les autres par des
+psaumes, des hymnes et des cantiques spirituels, chantant de coeur et
+avec édification les louanges du Seigneur. »</p>
+<p>Les psaumes et les cantiques, ayant été fournis de toute antiquité par
+des livres canoniques, n'ont besoin ni de nos efforts, ni des travaux de
+personne pour être composés aujourd'hui,</p>
+<p><pb/></p>
+<p>256 LETTRE D'ABAILARD</p>
+<p>saint Marc, ajoute entre autres choses 1 Et un peu plus</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 257</p>
+<p>telle que nous l'avons donnée dans notre première préface. Mais comme
+les psaumes, en passant de l'hébreu dans une autre langue, ont perdu
+leur rhythme et leur mesure, c'est avec raison que l'Apôtre, écrivant
+aux Éphésiens, qui sont des Grecs, a séparé des psaumes les hymnes et
+les cantiques.</p>
+<p>Nous les avons composées, pour que vous le sachiez, de telle sorte qu'il
+y a double chant et double rhythme, une mélodie commune pour tous les
+nocturnes et une autre pour les chants diurnes.</p>
+<p>Nous n'avons pas omis non plus l'hymne de grâces après le repas, suivant
+qu'il est écrit dans l'Évangile : « Et ils sortirent après l'hymne
+récitée. »</p>
+<p>Et quant aux hymnes qui précèdent, en les composant nous avons été
+dirigés par cette pensée que les nocturnes doivent contenir les oeuvres
+de leurs fériés, et que les diurnes doivent contenir l'exposition
+allégorique ou morale de ces oeuvres ; si bien que l'obscurité de
+l'histoire soit réservée pour la nuit, et la lumière de l'exposition
+pour le jour.</p>
+<p>17</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LETTRE D'ABAILARD A HÊLOÏSE</p>
+<p>(FRAGMENT)</p>
+<p><pb/></p>
+<p>260 LETTRE D'ABAILARD A HÉL01SE.</p>
+<p><pb/></p>
+<p>LETTRE D'ABAILARD A HÉLOÏSE</p>
+<p>A ma très-chère soeur Héloïse, respect et amour en Jésus-Christ,</p>
+<p><pb/></p>
+<p>262 LETTRE D'ABAILARD A HÉLOÏSE.</p>
+<p>fesse, et comme un assaisonnement qui sera aisément goûté par des
+petites servantes du Seigneur. Pour les écrire et pour les classer, j'ai
+suivi l'ordre des fêtes célébrées par l'Église, et j'ai commencé par le
+commencement même de notre rédemption.</p>
+<p>SUIVENT LES SERMONS..</p>
+<p><pb/></p>
+<p>LETTRE D'ABAILAED A HÉLOÏSE</p>
+<p><pb/></p>
+<p>264 LETTRE D'ABAILARD</p>
+<p>Je crois aussi que le fils de Dieu a été fait fils de l'homme, et que
+l'unité de sa personne réside dans deux personnes et dans deux natures.
+Je crois qu'après avoir accompli les jours de son humanité, il a
+souffert, il est mort, il est ressuscité, il est monté au ciel, et qu'il
+viendra juger les vivants et les morts.</p>
+<p>Je crois fermement aussi que tous les péchés sont remis</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 265</p>
+<p>dans le baptême; que nous avons besoin de la grâce pour commencer le
+bien et pour l'achever, et que nous pouvons nous relever de la chute par
+la pénitence.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>APOLOGETIQUE DE L'ÉCOLATRE BÉRENGER</p>
+<p>CONTRE SAINT BERNARD, ABBÉ DE CLAIRVAUX,</p>
+<p>ET LES AUTRES PRÉLATS QUI ONT CONDAMNÉ PIERRE ABAILARD.</p>
+<p><pb/></p>
+<p>268 APOLOGÉTIQUE</p>
+<p>Depuis longtemps la renommée aux ailes rapides a répandu dans l'univers
+le parfum de ta sainteté, proclamé</p>
+<p><pb/></p>
+<p>DE L'ÉCOLATRE BÉRENGER. 269</p>
+<p><pb/></p>
+<p>270 APOLOGETIQUE</p>
+<p>« Nul arbre, ô Varus, ne sera planté avant la vigne sacrée.; »</p>
+<p>car le bachique délire célébré par le même poète :</p>
+<p>« Buvons, buvons, que nos pieds bondissent en liberté sur le sol ! »</p>
+<p>recevait une commémoration active. Oh ! qu'il vaudrait mieux écouter le
+poète Gallus, et le sage avertissement renfermé dans ces vers :</p>
+<p>« J'approuve le vin, si l'on en boit modérément, et il doit être
+approuvé. Si l'on en boit immodérément, je pense que le vin est un
+poison. »</p>
+<p><pb/></p>
+<p>DE LÉCOLATRE BÉUENGER. 271</p>
+<p>« C'est un trop grand crime d'égorger le respectable Falerne, et Bacchus
+repousse l'alliance des Naïades. »</p>
+<p>Chacun des pères du concile avait philosophiquement rempli son tonneau,
+et le vin n'était pas sans vertu. Ses chaudes vapeurs avaient tellement
+embarrassé leurs cerveaux, que tous les yeux se fermaient sous le poids
+d'un</p>
+<p><pb/></p>
+<p>272 APOLOGÉTIQUE</p>
+<p>C'est ainsi que les soldats endormis rendent témoignage en disant : «
+Tandis que nous dormions, les apôtres sont venus, et ont enlevé le corps. »</p>
+<p>Celui qui avait veillé le jour et la nuit dans la loi du Seigneur, est
+condamné par les prêtres de Bacchus. Le malade veut guérir le médecin.
+L'homme qui se noie désespère du salut de celui qui est en sûreté sur le
+rivage. Ainsi accuse l'innocence celui qui marche au gibet pour être pendu.</p>
+<p><pb/></p>
+<p>DE L' ECOLATRE RERENGER. 273</p>
+<p>« L'un, gonflé par la bonne chère, s'alourdit dans un sommeil passager;
+l'autre fait la moue, et déclame emphatiquement. Tel parle trop, tel ne
+dit rien ; l'un se promène, l'autre se tient coi. Ici des pleurs, plus
+loin des éclats de rire. Tous ont perdu la tête, et, de diverses
+manières, se montrent également fous. »</p>
+<p>mus18</p>
+<p><pb/></p>
+<p>271 APOLOGÉTIQUE</p>
+<p>cles engorgés, et dont la graisse liquéfiée dégoutte avec la sueur</p>
+<p><pb/></p>
+<p>DE L'ÉCOLATRE RÉRENGER. 275</p>
+<p><pb/></p>
+<p>273 APOLOGETIQUE</p>
+<p><pb/></p>
+<p>DE L'ÉCOLATRE BÉRENGER. 277</p>
+<p>tout le reste de cette lettre, où il épanche son coeur, respire
+l'orthodoxie des lignes suivantes 1 :</p>
+<p>1 Voyez plus loin le Fragment conservé par Bérenger.</p>
+<p><pb/></p>
+<p>278 APOLOGÉTIQUE</p>
+<p>Que le Père est la toute-puissance, le Fils une certaine puissance, que
+le Saint-Esprit n'est point une puissance ; Que l'Esprit saint,
+quoiqu'il procède du Père et du Fils, n'est point de la même substance ;</p>
+<p>Que l'homme, sans le renouvellement de la grâce, peut faire le bien ;</p>
+<p>Que Dieu ne peut faire plus qu'il ne fait, ni faire mieux qu'il ne fait,
+ni faire autrement qu'il ne fait ;</p>
+<p>Que l'âme du Christ n'est pas descendue aux enfers.</p>
+<p><pb/></p>
+<p>DE L'ÉCOLATRE BERENGER. 279</p>
+<p><pb/></p>
+<p>280 APOLOGÉTIQUE</p>
+<p><pb/></p>
+<p>DE L'ÉCOLATRE BÉRENGER. 281</p>
+<p>joie par des accents d'allégresse Tout-à-coup gémit la</p>
+<p>O parole digne d'un docteur catholique! ô fidèle con-</p>
+<p><pb/></p>
+<p>282 APOLOGÉTIQUE</p>
+<p>L'art te permet de commencer tel ouvrage que tu voudras, mais non pas de
+finir comme il te plaira ce que tu auras une fois commencé. C'est ce qui
+fait dire plus bas au même auteur :</p>
+<p>« Les peintres comme les poètes ont toujours eu le privilége de pouvoir
+tout oser; mais celle liberté qu'on leur accorde a pourtant ses bornes :
+il ne faut pas qu'ils accouplent les animaux doux avec les animaux
+féroces, qu'ils fassent naître le serpent de l'oiseau, ni l'agneau du
+tigre. »</p>
+<p>Les vaines idées de ton ouvrage sont comme les rêves d'un malade,</p>
+<p><pb/></p>
+<p>DE L'ÉCOLATRE BÉRENGER. 283</p>
+<p>même corps Par-ci, par-là, sont cousus quelques lambeaux</p>
+<p>de pourpre dont la vive couleur doit jeter un peu d'éclat sur l'ensemble. »</p>
+<p>« Un mot lâché ne revient plus. »</p>
+<p>« Ennius compose des vers lourds et sans grâce. C'est un génie
+vigoureux, mais l'art lui manque. »</p>
+<p>Voici un échantillon de sa poésie :</p>
+<p>« Omnes mortales sese laudari exoptant. » « Tous les mortels désirent la
+louange. »</p>
+<p>Mais puisqu'il est clair, même pour des aveugles, que tu as eu tort de
+mêler tes doléances aux chants d'hymen,</p>
+<p><pb/></p>
+<p>284 APOLOGETIQUE</p>
+<p>écoutons un peu tes mugissements tragiques. Entre autres choses, si je
+ne me trompe, la muse larmoyante de notre orateur fait ainsi
+l'inventaire de ses chagrins :</p>
+<p>« Il n'est plus, le frère que j'aimais ! il s'en est allé de la vie! Que
+dis-je? il a laissé la mort pour la vie véritable. Il n'est plus, mon
+frère bien-aimé, ce modèle de continence, ce miroir de pureté, cet
+anneau de religion ! Désormais qui m'animerait encore au travail ? qui
+adoucirait maintenant ma douleur? »—Et un peu plus loin : « Le boeuf
+regrette le boeuf; il sent qu'il est seul, et par de plaintifs
+mugissements il témoigne sa tendre affection. Le boeuf regrette le
+boeuf, son compagnon accoutumé de labour. »</p>
+<p>O mauvais juges de l'éloquence, que le vent de la voix balaie comme la
+poussière de la surface du sol ! Y a-t-il une pensée dans tout ce
+fatras? Des boursouflures, du papillotage, rien de nerveux, rien de
+vrai. Il se noie dans le</p>
+<p><pb/></p>
+<p>DE L'ECOLATRE BÉRENGER. 285</p>
+<p>flot de sa parole, et « la mort » tourne perpétuellement dans le cercle
+d'un ridicule syllogisme. Aussi le poëte a-t-il dit:</p>
+<p>" On se moque d'un musicien qui fait toujours vibrer la même corde. »</p>
+<p>Les mots étouffent sous leurs gazons luxuriants tous les germes de la
+pensée. Peut-être aussi, en multipliant ses redites, voulait-il singer
+Ulysse; car, dit la fable en parlant d'Ulysse,</p>
+<p>Mais les morts ne se relèvent point au son de pareils instruments; les
+morts ne sont point ranimés par les prestiges de l'éloquence. Quelqu'un
+a dit, et avec sagesse:</p>
+<p>« Au lieu des psaumes gémissants, pourquoi ce vain étalage de vers
+pompeux? Trois Miserere lui seraient plus utiles. »</p>
+<p><pb/></p>
+<p>286 APOLOGETIQUE</p>
+<p>Voici ce que tu as dit : « L'Apôtre a raison : notre berceau est dans
+les cieux. »</p>
+<p><pb/></p>
+<p>DE L'ÉCOLATRE BÉRENGER. 287</p>
+<p>Les hérétiques prétendirent que l'âme est une partie de la substance
+divine, mettant cette fable sous la protection du texte de la Genèse : «
+Et Dieu souffla sur la face d'Adam un esprit ou souffle de vie. » Saint
+Augustin les pulvérise en quelques mots : « L'esprit qui anime l'homme
+est appelé souffle. Il a été fait par Dieu, non pas de Dieu; car le
+souffle de l'homme n'est pas une partie de l'homme, et l'homme ne le
+fait pas de lui-même, mais de l'air qu'il reçoit en respirant et qu'il
+rend ensuite. »</p>
+<p><pb/></p>
+<p>288 APOLOGETIQUE</p>
+<p>Examinons maintenant les autres productions de ton génie.</p>
+<p>Un Romain se rengorge, et du haut de son goître te demande ce qu'il faut
+aimer, et dans quelle mesure il faut l'aimer. Tu lui réponds : «
+Autrefois, Aimeric, vous me demandiez des prières, vous ne m'adressiez
+pas de questions. » Et quelques lignes après : « Vous demandez ce qu'il
+faut aimer; je vous réponds en un mot : Dieu. »</p>
+<p>Un Romain, un grossier chameau, tout bossu d'arguments gaulois, saute
+par-dessus les Alpes pour s'enquérir de ce qu'il faut aimer, comme s'il
+n'avait auprès de lui personne qui puisse enseigner son ignorance. Notre
+philosophe lui recommande d'aimer, non pas la vertu, comme Chrysippe; ni
+le plaisir, comme Aristippe ; mais Dieu, comme un chrétien. Ingénieuse
+réponse, n'est-ce pas, et bien digne d'un savant homme ! Mais la plus
+misérable femmelette, le dernier des idiots sait cela. Les vieilles
+filandières font de cette philosophie transcendante en tissant leurs
+chausses. Et c'est ainsi que Dagan nous amuse de ses truïsmes du haut de
+son tréteau. Je citerai pour exemple quelques-unes de ces malices :</p>
+<p>« Je suis, dit-il, fils de ma mère. »</p>
+<p>« On fait le pain avec de la pâte. »</p>
+<p>« Ma tête est plus grosse que mon poing. »</p>
+<p>« Quand il est midi, c'est le jour. »</p>
+<p><pb/></p>
+<p>DE L'ÉCOLATRE BÉRENGER. 289</p>
+<p>qu'il fallait aimer Dieu, il a articulé une chose très-vraie, une vérité
+digne de tout notre respect; mais en ouvrant sa bouche pour dire une
+telle chose, il a ouvert la bouche pour rien; car personne ne doute de
+cela. Le Romain espérait entendre quelque chose d'extraordinaire, une
+révélation..., et notre archimandrite accouche d'une réponse que le
+premier rustaud pouvait faire comme lui. Toutefois, en déclarant que
+c'est Dieu qu'il faut aimer, il pousse sourdement la botte au Romain,
+qui, près du pape et du sacré collége, n'avait pas appris l'amour de
+Dieu, mais de l'or.</p>
+<p>Vient ensuite la mesure de cet amour : « La mesure d'aimer Dieu, dit-il,
+c'est de l'aimer sans mesure. »</p>
+<p>19</p>
+<p><pb/></p>
+<p>290 APOLOGÉTIQUE</p>
+<p>pauvreté et d'une impossibilité, quand tu lui enseignes qu'il faut aimer
+Dieu sans mesure.</p>
+<p>« Combien j'aime mieux celui qui parle d'une manière naturelle, »</p>
+<p><pb/></p>
+<p>DE LÉCOLATRE BÉRENGER. 291</p>
+<p>Adouci par de semblables exemples, tu aurais dû, si Abailard était
+blessé par les chutes de l'erreur, le placer sur ton cheval, et le
+ramener ainsi au bercail de la foi universelle. Plusieurs catholiques
+ont dit des choses répréhensibles, et cependant n'ont pas été pour cela
+notés d'hérésie. Hilaire, ce fléau de l'erreur, cet athlète de l'Église,
+a émis deux opinions que la réserve de l'Église n'admet pas.
+Premièrement, il affirme que le Christ n'a ressenti aucune douleur dans
+sa passion. A l'encontre de cette opinion, Claudien, prêtre de Lyon,
+homme trèschrétien, aussi subtil raisonneur qu'élégant écrivain,
+s'exprime en ces termes : « Si le Christ n'a ressenti aucune douleur
+dans sa passion, il n'y a point eu réellement de passion ; et s'il n'y a
+point eu réellement de passion 1. . .</p>
+<p>. ............. » Secondement,</p>
+<p>il dit que rien de ce qui est incorporel n'a été créé. « Ainsi donc,
+reprend Claudien, l'âme, puisqu'elle est incorporelle, n'a pas été
+créée. Et si elle n'a pas été créée, elle n'est pas une créature de
+Dieu. Malgré cela, dit le même</p>
+<p>1 Il y a ici une lacune dans le texte,</p>
+<p><pb/></p>
+<p>292 APOLOGÉTIQUE</p>
+<p>Claudien, la science du docteur en défaut n'a pas fait condamner dans
+Hilaire les mérites du confesseur de la foi, et l'Église, indulgente
+pour un de ses enfants de bonne volonté, lui a pardonné l'écart
+imprudent de sa discussion.» — Sans doute si Abailard eût parlé comme
+Hilaire, ton rigorisme fanatique l'aurait jugé digne d'être lapidé.</p>
+<p><pb/></p>
+<p>DE L'ÉCOLATRE BÉRENGER. 293</p>
+<p>Augustin, ennemi de ses propres erreurs, compose exprès pour les
+redresser le livre des Rétractations. Lactance, qui, d'après le
+témoignage d'Augustin lui-même, est sorti d'Egypte avec sa charge d'or,
+quoiqu'il foudroie les Gentils en défendant le Christ, rêve ensuite des
+propositions qui ne s'accordent point avec les dogmes et le</p>
+<p><pb/></p>
+<p>294 APOLOGETIQUE</p>
+<p>canon de l'Église. Il serait trop long de passer ici en revue le recueil
+de tous les anciens traités qui n'ont pas été si bien épurés au creuset
+de l'orthodoxie, qu'on ne puisse y découvrir plusieurs choses dignes de
+la verge de correction. L'apôtre Jacques dit avec vérité : « Nous
+faisons tous beaucoup de fautes; et si quelqu'un ne fait point de faute
+en parlant, c'est un homme parfait. »</p>
+<p><pb/></p>
+<p>DE L'ÉCOLATRE BÉRENGER. 295</p>
+<p>minerons ici cette première partie : dans la seconde, nous aborderons
+avec un esprit plus dispos la discussion que nous avons promise.</p>
+<p>CETTE SECONDE PARTIE N'EXISTE PAS, ET BERENGER RENONCA A L'ECRIRE, COMME
+ON LE VERRA DANS LA LETTRE SUIVANTE.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LETTRE DE BERENGER</p>
+<p>ÉVEQUE DE POITIERS,</p>
+<p>A L'ÉVÊQUE DE MENDE.</p>
+<p><pb/></p>
+<p>298 LETTRE DE BÉRENGER</p>
+<p>Quelques religieux jettent sur mes épaules un fardeau de damnation : sur
+ma tête innocente j'aperçois (périlleux honneur!) l'effrayant diadème de
+l'enfer. Ils disent, ces chers frères, que ma langue est un mal inquiet,
+et que l'envie seule a vomi mon livre contre l'abbé de Clairvaux. Car,
+ils l'attestent, c'est un homme d'une sainteté si grande, que, déjà
+voisin du ciel, il plane au-dessus des opinions humaines. Faiseurs
+d'apothéoses, vous êtes du saint bercail, et je vois bien vos blanches
+toisons : vous ne voulez pas être des serpents, mais des colombes;
+toutefois votre langue est infectée de folie. L'abbé n'est-il pas homme?
+N'est-il pas avec nous naviguant dans cette vaste mer, et forçant de
+bras comme nous, au milieu de reptiles sans nombre? Son navire vogue
+mieux, sa marche est plus prospère, mais les flots peuvent s'irriter.
+L'Auster n'a point juré de respecter sa mâture; Borée ne lui a pas fait
+sa soumission ; l'Eurus et le Notus n'ont point abdiqué leurs menaces,
+et peuvent lui réserver d'autres assauts; enfin, il n'a point arraché à
+Éole, roi des vents, une trève d'hostilités. Quel vin peut séjourner
+dans la poix sans changer de saveur? Aussi l'apôtre saint Paul
+désirait-il que son vin fût séparé de son vase de poix, et versé dans le
+vase de gloire, lorsqu'il disait : « Malheureux homme que je suis ! qui
+me délivrera de ce corps de mort ? » N'est-ce pas comme s'il disait : Je
+suis le vin de Dieu, et je suis dans la poix ; mais si je reste encore
+en compagnie avec elle, je crains de rapporter l'odeur de la poix à
+celui qui m'y a renfermé. L'abbé peut donc et monter en haut comme la
+flamme, et tomber en bas comme le limon. Il n'a pas encore sa demeure
+fixe au firmament, ce n'est pas encore un soleil ! Va pour une lune, si
+vous voulez. Que. personne au moins n'aille penser que c'est pour lui
+faire injure que j'ai pris la plume. A mon avis, il est le saint Martin
+de notre</p>
+<p><pb/></p>
+<p>A L'ÉVÊQUE DE MENDE. 299</p>
+<p><pb/></p>
+<p>300 LETTRE DE BÉRENGER</p>
+<p><pb/></p>
+<p>A L'ÉVÉQUE DE MENDE. 301</p>
+<p>une autorité capitale; et cependant Aristote osa noblement dire : «
+J'aime Socrate, mais j'aime encore mieux la vérité. »</p>
+<p><pb/></p>
+<p>302 LETTRE DE BÉRENGER</p>
+<p><pb/></p>
+<p>A L'ÉVÊQUE DE MENDE. 303</p>
+<p>« Je veux fuir plus loin que les steppes de la Sarmatie, plus loin que
+la mer Glaciale ; »</p>
+<p>car assurément elle est vraie, cette prophétie :</p>
+<p>« La fiction enverra la vérité en exil. »</p>
+<p>Le mot que vous me reprochez est une de vos fictions,</p>
+<p><pb/></p>
+<p>304 LETTRE DE BÉRENGER A L'ÉVÊQUE DE MENDE.</p>
+<p>A SON PÈRE ET A SON MAÎTRE</p>
+<p>G...:. ÉVÊQUE DE MENDE, PLEIN DE JOURS,</p>
+<p>QUE SA JEUNESSE SE RENOUVELLE COMME CELLE DE L'AIGLE !</p>
+<p>BÉRENGER.</p>
+<p><pb/></p>
+<p>LETTRE</p>
+<p>DE PIERRE LE VÉNÉRABLE</p>
+<p>AU PAPE INNOCENT II</p>
+<p>EN FAVEUR DE PIERRE ABAILARD.</p>
+<p>Au souverain Pontife, notre Père spécial, notre seigneur Pape INNOCENT,</p>
+<p>son humble frère PIERRE, abbé de Cluny;</p>
+<p>obéissance et amour.</p>
+<p><pb/></p>
+<p>300 LETTRE DE PIERRE LE VENERABLE</p>
+<p><pb/></p>
+<p>AU PAPE INNOCENT II. 307</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LETTRE</p>
+<p>D'HÉLOÏSE A ABAILARD</p>
+<p>Quand saint Jérôme admirait dans sainte Marcelle l'ardeur dont elle
+était enflammée pour les divines Écritures, par quel magnifique éloge
+n'a-t-il point relevé cette passion pour de semblables études ? Votre
+science le sait mieux que ma simplicité. Voici en quels termes il parle
+d'elle dans le livre premier de ses commentaires sur l'Épître de saint
+Paul aux Galates :</p>
+<p><pb/></p>
+<p>310 LETTRE D'HÉLOÏSE</p>
+<p>son esprit méditatif, ne s'accommodaient point d'une foi aveugle dans
+l'infaillibilité de mes jugements; elle contrôlait l'autorité par le
+raisonnement, elle examinait l'ensemble et les détails; et je sentais
+que j'avais moins une élève qu'un juge. »</p>
+<p><pb/></p>
+<p>A ABAILARD. 311</p>
+<p>SUIVENT LES QUESTIONS D'HELOÏSE, AU NOMBRE DE QUARANTE-DEUX, ET LES
+SOLUTIONS D'ABAILARD.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LETTRE</p>
+<p>DE PIERRE LE VÉNÉRABLE</p>
+<p>A HÉLOÏSE</p>
+<p>A sa respectable et très-chère soeur en Jésus-Christ, HELOÏSE, abbesse,</p>
+<p>son humble frère PIERRE, abbé de Cluny ;</p>
+<p>La lettre de votre Charité, que vous m'avez dernièrement envoyée par mon
+fils Thibault, m'est parvenue : je l'ai reçue avec joie, et je dirai, en
+considération de la personne qui l'avait écrite, avec le transport d'une
+pieuse amitié. J'ai voulu vous répondre aussitôt pour vous dire ce que
+j'avais dans le coeur ; mais les soins importuns et les exigences de mon
+administration, auxquelles je suis, la plupart du temps, et même presque
+toujours, obligé de céder, m'en ont empêché. Cependant, le premier jour
+qu'il m'a été permis de respirer au milieu de ce tracas, j'ai essayé
+d'exécuter mon projet. Je voulais au moins reconnaître par mon
+empressement cette affection dont votre lettre</p>
+<p><pb/></p>
+<p>314 LETTRE DE PIERRE LE VENERABLE</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 315</p>
+<p><pb/></p>
+<p>316 LETTRE DE PIERRE LE VENÉRABLE</p>
+<p>elle était faible par la chair dans le combat qu'elle a livré, plus elle
+apparaîtra glorieuse dans sa récompense éternelle.</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 317</p>
+<p>les hommes sur le champ de bataille. Car s'il est vrai, comme on le dit,
+que</p>
+<p>chez les Gentils, la reine des Amazones, Penthésilée, au rapport de
+l'histoire, combattit souvent avec son armée dans la guerre de Troie.
+Chez le peuple de Dieu, la prophétesse Débora nous est représentée, dans
+les livres saints, animant Barach le juge d'Israël contre les païens.
+Pourquoi donc les femmes qui marchent aux combats de la vertu contre le
+fort revêtu de ses armes, ne pourraientelles conduire les armées du
+Seigneur, lorsque Penthésilée, s'élevant au-dessus des convenances
+ordinaires, combattit de sa propre main contre les ennemis, et lorsque
+notre Débora souleva les hommes eux-mêmes pour la cause de Dieu, leur
+fit prendre les armes, et enflamma leurs courages ! Ensuite, après la
+défaite du roi Jabin, la destruction de l'armée des infidèles, et la
+mort de Sisara, leur général, elle chanta aussitôt un cantique, et le
+consacra dévotement aux louanges du Seigneur. Bien plus glorieuse sera
+la victoire que vous remporterez par la grâce de Dieu, vous et vos
+filles, sur des ennemis infiniment plus redoutables; bien plus glorieux
+aussi sera votre cantique, et vous le chanterez avec une joie si
+complète et si vive, que ni la joie ni le cantique ne cesseront plus
+jamais dans votre coeur. Vous serez pour les servantes de Dieu,
+c'està-dire pour l'armée céleste, ce que Débora fut pour le peuple juif.
+Et ce combat, dont le prix est inestimable, nul temps, nul événement ne
+viendra le ralentir : votre victoire seule y mettra un terme. Le nom de
+Débora, votre érudition le sait bien, signifie en langue hébraïque
+Abeille : vous serez encore en cela une Débora, c'est-à-dire une</p>
+<p><pb/></p>
+<p>318 LETTRE DE PIERRE LE VENERABLE</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 319</p>
+<p><pb/></p>
+<p>320 LETTRE DE PIERRE LE VÉNÉRABLE</p>
+<p>Ainsi vécut parmi nous cet homme simple et droit, craignant Dieu et se
+détournant du mal : ainsi nous l'avons</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 321</p>
+<p>Telle fut la fin qui couronna les jours du Maître, Pierre Abailard.
+Celui qui par la gloire de son enseignement avait rempli presque tout
+l'univers de sa parole et de son nom,</p>
+<p>21</p>
+<p><pb/></p>
+<p>322 LETTRE DE PIERRE LE VÉNÉRABLE</p>
+<p>Souvenez-vous donc de lui en Jésus-Christ, et recommandez-le avec
+sollicitude aux saintes soeurs qui servent avec vous le Seigneur, sans
+oublier dans vos prières les frères de notre congrégation, et les soeurs
+qui, par toute la terre, servent, selon leur pouvoir, le même Dieu que
+vous.</p>
+<p>Adieu.</p>
+<p>ÉPITAPHE DU MAITRE PIERRE ABAILARD</p>
+<p>COMPOSÉE</p>
+<p>PAR PIERRE LE VÉNÉRABLE abbé de Cluny.</p>
+<p>Le Socrate de la France, le Platon sublime de l'Occident, notre
+Aristote, l'égal ou le maître de tous les logiciens passés et présents;
+le prince reconnu de la science, dans tout l'univers : génie varié,
+subtil, pénétrant; vainqueur de tous les obstacles par la force de sa
+raison et la grâce de sa parole : tel était Abailard; mais il a</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 323</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LETTRE D'HÉLÔISE</p>
+<p>A PIERRE LE VENERABLE</p>
+<p>ABBÉ DE CLUNY</p>
+<p>A PIERRE, son très-révérend pasteur et père, vénérable abbé de Cluny,</p>
+<p>HÉLOÏSE, humble servante de Dieu, et la sienne:</p>
+<p>L'esprit de la grâce du salut.</p>
+<p><pb/></p>
+<p>326 LETTRE D'HÉLOÏSE A PIERRE LE VÉNÉRABLE.</p>
+<p>Souvenez-vous aussi, pour l'amour de Dieu, de notre fils Astralabe, qui
+est aussi le vôtre, afin d'obtenir pour lui une prébende de l'évêque de
+Paris ou de tout autre diocèse.</p>
+<p>Adieu; que le Seigneur vous garde, et nous accorde quelquefois la faveur
+de votre présence.</p>
+<p><pb/></p>
+<p>LETTRE DE PIERRE LE VÉNÉRABLE</p>
+<p>ABBE DE CLUNY,</p>
+<p>A H É L O Ï S E</p>
+<p>A notre vénérable et très-chère soeur, servante de Dieu, HÉLOÏSE,
+Supérieure et Maîtresse des servantes de Dieu, son frère Pierre, humble
+Abbé de Cluny La plénitude du salut par le Seigneur, et celle de notre
+amour en Jésus-Christ.</p>
+<p><pb/></p>
+<p>328 LETTRE DE PIERRE LE VÉNÉRABLE</p>
+<p>Je vous envoie aussi, comme vous l'avez demandé, l'absolution du Maître
+Abailard sur un parchemin, également écrite de ma main et scellée de mon
+sceau.</p>
+<p><pb/></p>
+<p>A HÉLOÏSE. 329</p>
+<p>ABSOLUTION DE PIERRE ABAILARD</p>
+<p>Moi, Pierre, abbé de Cluny, qui ai reçu Pierre Abailard comme moine de
+Cluny, et qui ai concédé son corps, transporté furtivement a Héloïse,
+abbesse, et aux religieuses du Paraclet,</p>
+<p>— Par l'autorité de Dieu tout-puissant et de tous les saints, je
+l'absous d'office de tous ses péchés.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>TESTIMONIA VETERUM</p>
+<p>ou</p>
+<p>TÉMOIGNAGES DES ANCIENS</p>
+<p>CONCERNANT HELOÏSE ET ABAILARD</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>TESTIMONIA VETERUM</p>
+<p>DE</p>
+<p>PETRO ABAELARDO ET HELOISSA 1</p>
+<p>OTHO EPISCOPUS FRISENGENSIS,</p>
+<p>LIB. I, DE REBUS GESTIS FRIDERICI I, IMPER. - CAP. XLVII, XLVIII ET
+XLIX. XIIe SIÈCLE.</p>
+<p>1 Nous avons sous les yeux une liste de cent soixante quinze auteurs qui
+ont parlé d'Abailard. Nous en citerons seulement quelques-uns, sans
+observer scrupuleusement l'ordre chronologique.</p>
+<p><pb/></p>
+<p>334 TESTIMONIA VETERUM.</p>
+<p><pb/></p>
+<p>TESTIMONIA VETERUM, 335</p>
+<p>Remense, et Leutaldo Novariense, Sabellianus haereticus judicatus,
+libros quos ediderat, propriâ manu ab episcopis igni dare coactus est :
+nullâ sibi respondendi facultate, eô quôd disceptandi in eo peritia ab
+omnibus suspecta haberetur, concessâ. Hase sub Lodovico seniore
+Francorum rege facta sunt.</p>
+<p>Cap. XLVIII.—Post haec, dùm rursùs pluribus diebus legeret, maximamque
+post se sociorum multitudinem traheret, sedente in urbe Româ Innocentio,
+in Franciâ vero Lodovico superioris Lodovici filio regnante, ab
+Episcopis abbateque Bernardo denuô ad audientiam apud Senonas evocatur,
+praesentibus Lodovico rege, Theobaldoque Palatino comite, et aliis
+nobilibus, de populoque innumeris. Ubi dùm de fide suâdiscuteretur,
+seditionem populi timens, Apostolicae Sedis praesentiam appellavit.
+Episcopi vero simul et abbas, missâ ad Romanam Ecclesiam legatione, ac
+eis pro quibus impetebatur capitulis, damnationis ejus sententiam in
+litteris reportaverunt</p>
+<p>« Quôd Pater sit plena potentia, Filius quaedam potentia, Spiritus
+sanctus nulla potentia.</p>
+<p>« Quôd Spiritus sanctus non sit de substantiâ Patris.</p>
+<p>« Quôd Spiritus sanctus sit anima mundi.</p>
+<p><pb/></p>
+<p>336 TESTIMONIA VETERUM.</p>
+<p>« Quôd non peccaverunt qui Christum ignoranter crucifixerunt. »</p>
+<p>Ipse verô non multis post diebus coràm fratribus suis fidem suam
+humiliter exponens, in eodem vitam finivit coenobio.</p>
+<p>TRADUCTION.</p>
+<p>nomment aujourd'hui Bretagne Dès son jeune âge, il</p>
+<p><pb/></p>
+<p>TESTIMONIA VETERUM. 337</p>
+<p>et délivré bientôt de l'obéissance envers son abbé, il se présenta
+derechef en public, et reprit le cours de ses leçons</p>
+<p>Chap. XLIX.—Celui-ci, connaissant que la sentence des évêques avait été
+confirmée par l'Église romaine, se retira dans le monastère de Cluny, et
+composa une Apologie, où il rejette en partie les textes hérétiques
+qu'on lui attribue, et proteste de son orthodoxie</p>
+<p>Peu de temps après, il mourut dans le même monastère, en présence de ses
+frères, et dans tous les sentiments de l'humilité et de la foi.</p>
+<p>SANCTUS BERNARDUS.</p>
+<p>EPISTOLA AD PAPAM INNOCENTIUM II.</p>
+<p>Habetis in Franciâ novum de Magistro theologum,</p>
+<p>qui ab ineunte aetate suâ, in dialecticâ lusit : nunc in Scripturis
+sacris insanit. Qui, dùm omnium quae sunt in coelo sursùm, et quae in
+terrâ deorsùm nihil praeter se</p>
+<p><pb/></p>
+<p>338 TESTIMONIA VETERUM;</p>
+<p>solum nescio quid nescire dignatur, ponit in coelo os suum.....</p>
+<p>TRADUCTION.</p>
+<p>Vous avez en France un théologien de fraîche date,</p>
+<p>naguère maître d'école, qui dès sa jeunesse s'est escrimé dans la
+dialectique, et déraisonne aujourd'hui sur les saintes Écritures. De
+toutes les choses qui sont au ciel et sur la terre, je ne sais ce qu'il
+daigne ignorer, si ce n'est lui-même. Aussi fait-il de sa voix l'écho du
+ciel</p>
+<p>GAUFRIDUS MONACHUS CISTERCIENSIS,</p>
+<p>IN EPISTOLA AD HENRICUM ALBANENSEM EPISCOPUM.</p>
+<p><pb/></p>
+<p>TESTIMONIA VETERUM. 339</p>
+<p>positi nostri est, in Franciam destinare ad monasterium, cujus abbas
+ex-titit, qui eumdem Librum composuit, et si recuperare potero,
+transcribi facere codicem totum, et mittere vobis. Credo enim quôd
+vestrae inquisitioni sufficere debeat ut cognoscatis, quae, quemadmodùm,
+quarè sint condemnata.</p>
+<p>TEULFUS,</p>
+<p>LIB. II ANNALIUM MORINIENSIS COENOBH.</p>
+<p>Petrus Abaelardus monachus et abbas, vir erat religiosus,
+excellentissimarum rector scholarum, ad quas penè de totâ latinitate
+viri litterati confluebant.</p>
+<p>JOANNES CORNUBIENSIS,</p>
+<p>IN EULOGIO.</p>
+<p><pb/></p>
+<p>340 TESTIMONIA VETERUM.</p>
+<p>ROBERTUS S. MARIANIAPUD AUTISSIODORUM MONACHUS,</p>
+<p>IN CHRONOLOGIA.</p>
+<p>Anno Domini MCXL, Senonis, praesente rege Ludovico, episcoporum et
+abbatum religiosorum fit conventus contra Petrum Abailardum. Hic ingenio
+subtilissimus, mirabilisque philosophus, qui construxerat coenobium in
+territorio Trecassino, in prato quodam ubi legere solitus fuerat. In quo
+sanctimoniales plurimas episcopali auctoritate congregavit, quod
+Paracletum nominavit. Quibus sanctimonialibus Heloissam quondàm uxorem
+suam religiosam feminam, et litteris tàm hebraïcis quàm latinis adprimè
+eruditam praefecit abbatissam. Quae verè ipsius amica magnam ei post
+mortem in assiduis precibus fidem conservavit, corpusque ejus de loco
+ubi obierat, transtulit ad praedictum coenobium.</p>
+<p>ROBERTUS ABBAS SANCTI MICHAELIS DE MONTE,</p>
+<p>IN APPENDICE AD SIGEBERTUM, SUB ANNUM MCXL.</p>
+<p>Senonis praesente rege Ludovico, episcoporum et abbatum religiosorum fit
+conventus contra Petrum Abaelardum, qui quâdam profanâ verborum vel
+sensuum novitate Ecclesiam scandalizabat, qui ab eis interpellatus, cùm
+esset responsurus, de justitiâ veritus, audientiam apostolicae Sedis
+appellavit, et sic evadens non multô post Cabiloni, ad Sanctum Marcellum
+obiit. —« Eadem refert Bernardus Guido in fine Innocentii II papae, nec
+non anonymus Chronici Lemovicensis scriptor. »</p>
+<p><pb/></p>
+<p>TESTIMONIA VETERUM. 341</p>
+<p>HENRICUS DE GANDAVO,</p>
+<p>LIB. DE ILLUSTRIBUS ECCLES. SCRIPTORIBUS CAP. XVI.</p>
+<p>AUCTARIUM HENRICI DE GANDAVO,</p>
+<p>CAP. III.</p>
+<p>Petrus dialecticus, cognomento Abailardus, subtili abusus ingenio,
+aliqua conscripsit, inter quae excellunt libri Theologiae, et liber, cui
+titulus, Scito te ipsum. Composuit et metrico stylo Hymnos in
+monasterio, quod vocatur Paraclitum, decantandos.</p>
+<p>CANONICUS SANCTI MARTINI TURONENSIS,</p>
+<p>IN CHRONICO AD ANNUM MCXL.</p>
+<p>Tunc Senonis praesente rege Ludovico, episcoporum et abbas tum factus
+est conventus contra magistrum Petrum Abailardum, qui quâdam profanâ
+verborum et sensuum novitate Ecclesiam perturbârat. Qui ab eis
+interpellatus, et de justifiâ veritus, ad apostolicae Sedis audientiam
+appellavit, et sic evadens non multô post Cabiloni, apud Sanctum
+Marcellum obiit. Construxerat enim coenobium in territorio Trecacensi,
+in prato quodam ubi legere solitus fuerat, quod Paraclitum nominavit, in
+quo sanctimo-</p>
+<p><pb/></p>
+<p>342 TESTIMONIA VETERUM.</p>
+<p>niales plurimas congregavit, et quamdam religiosam feminam quondàm
+uxorem suam, litteris latinis et hebraïcis eruditam, eis abbatissam
+praefecit. Quae verè ipsius arnica, magnam ei post mortem in assiduis
+precibus fidem servavit : corpusque ejus de loco ubi obierat, transtulit
+ad praedictum coenobium, in cujus tumulo hoc epitaphium est insertum.</p>
+<p>Est salis in titulo : Petrus hîc jacet Abailardus, Cui soli patuit
+scibile quicquid erat.</p>
+<p>TRADUCTION.</p>
+<p><pb/></p>
+<p>TESTIMONIA VETERUM. 343</p>
+<p>transporter son corps dans ce même couvent, et graver sur sa tombe
+l'épitaphe suivante :</p>
+<p>GUILLELMUS ABBAS SANCTI THEODORICI,</p>
+<p>EPISTOLA AD FRATRES DE MONTE DEI.</p>
+<p>INCERTUS AUCTOR, SED ANTIQUUS. Anno MCXLII obiit Petrus Abaelardus,
+peripateticus, etc. Anno MCLXIII obiit Heloissa, Paraclitensis diaconissa.</p>
+<p><pb/></p>
+<p>344 TESTIMONIA VETERUM.</p>
+<p>VIEUX POÈTE FRANÇAIS.</p>
+<p>1376.</p>
+<p>JEAN DE MEUNG, dit CLOPINEL.</p>
+<p>EXTRAIT DU ROMAN DE la Rose.</p>
+<p>Pierre Abayelart or confesse Que seur Heloys seur abesse Du Paraclit qui
+fu sa mye Acorder ne si uouloit mye Pour riens qui la teinst a fame Ains
+li faisoit la bonne dame Bien entendant et bien lectree Et bien amant et
+bien amee Argumens pour li chastier Quil se gardast de marier Et li
+prouoit par escriptures Et par raisons uiues et pures Condition de
+mariaige Combien que li fame soit saige Car les liures auoit bien leuz
+Bien estudiez et bien ueuz Et li murs femenins sauoit Car trestous en
+lui les auoit El requeroit que il amast Mes que nul droit ne reclamast
+Fors que de grace et de franchise Sans seignorie et sans mestrise</p>
+<p><pb/></p>
+<p>TESTIMONIA VETERUM. 345</p>
+<p>Et qui puet bien estudier Tout seul tout franc sans soi lier Et qu'il
+entendist a lestuide Qui de science nest pas uuide Et li redisoit
+toutesuoys Que plus plaisans ierent les ioyes El li solas plus en
+cressoient Quant plus atart sentreueoient Mes il si com escript nous a
+Qui tant lamoit, puis lespousa Contre son amonnestement Si li en
+mescheut malement. Car puisque furent ce mensemble A la cort dembedeus
+ensemble Dargentoil nonnain revestue</p>
+<p><pb/></p>
+<p>346 TESTIMONIA VETERUM.</p>
+<p>GUILLELMUS NANGIUS, MONACHUS SANCTI DIONYSII.</p>
+<p><pb/></p>
+<p>TESTIMONIA VETERUM. 347</p>
+<p>reddi solitum olim judicium de quinque pedibus, id est de re levissimâ ;
+cùm varias constitutae sint actiones de modicâ glande, de pisce, de ovo,
+l. I. ff. de glande leg. § Gallinarum instit. de rerum divis. l. Si
+proprietarius. ff. de damno infecto, cùmque verior interpretatio sumi
+debuerit ex. l. XII. tab. quâ cautum ut inter vicinorum praedia
+constitutis finibus, quinque pedum spatium relinqueretur, quo ire,
+agere, uterque dominus posset, ejusque spatii usucapio lege Maniliâ
+prohibita est, ut apud Tullium I. de LL. et Ag. Urbicum de limitibus.</p>
+<p>JACOBUS PHILIPPUS.</p>
+<p>IN SIPPLEMENTO SUPPLEMENTI CHRONICORUM.</p>
+<p>Baliardus, natus in Franciâ, peripateticus, et in omnibus scientiis
+doctissimus, floruit illis temporibus in civitate Parisiensi,
+composuitque multa opera lectu dignissima. Ille in quibusdam articulis
+fidei cùm videretur haesitare, in praesentiâ Ludovici Junioris et
+congregatione praelatorum doctissimorum coactus est recantare. Itaque
+non solùm ab illis dubiis aut erroribus liberum sese praestitit, sed
+arctâ devotione in vero monachatu reliquo vitae spatio permansit, cum
+aliquot discipulis in eremo permanens, vixitque et obiit in magnâ
+sanctitate.</p>
+<p>FRANCISCUS PETRARCHA,</p>
+<p>LIB. II DE VITA SOLITARIA. XIVe SIÈCLE.</p>
+<p>Jungam , inquit, tot veteribus philosophis unum recentiorem, nec valdè
+semotum ab aetate nostrâ ; quàm rectè nescio, sed apud quosdam, ut
+audio, suspectae fidei, et</p>
+<p><pb/></p>
+<p>348 TESTIMONIA VETERUM.</p>
+<p>profectô non humilis ingenii, Petrum illum cui Abaelardi cognomen est,
+qui, ut in historiâ suarum calamitatum longâ oratione ipse meminit,
+invidiae cedens, solitudinis Trecensis abdita penetravit : etsi non sinè
+magno undiquè studiosorum conventu, quos ex multis urbibus sibi
+solitario discipulos doctrinae celebris fama contraxerat ; sinè requie
+tamen optatâ, quant sibi radicitùs tenax livor odiumque convulserat.</p>
+<p>TRADUCTION.</p>
+<p>TRITHEME, ABBÉ DE SPANHEIM.</p>
+<p>Petrus, dialecticus Parisiensis, dictus Abaelardus, natione Gallus : vir
+in seculari philosophiâ eruditissimus, et in</p>
+<p>divinis Scripturis nobiliter doctus Claruit sub Conrado</p>
+<p>imperatore III, anno Domini MCXL.</p>
+<p>TRADUCTION.</p>
+<p>Pierre, dialecticien de Paris, connu sous le nom d'Abai-</p>
+<p><pb/></p>
+<p>TESTIMONIA VETERUM. 349</p>
+<p>lard, originaire de France : homme profondément versé dans la
+philosophie séculière, et qui porta toute l'élévation de son</p>
+<p>génie dans l'interprétation des saintes Écritures Illustre</p>
+<p>sous l'empereur Conrad III, l'an du Seigneur 1140.</p>
+<p>AMBOESIUS.</p>
+<p>PRAEFATIO APOLOGETICA PRO PETRO ABAELARDO. XVIe SIÈCLE.</p>
+<p>Heloissa verô, ut altera Susanna aut Esthera, pulchra et Deum timens,
+vetustissimos illos Mommorantios legitimâ agnatione contingens, canonici
+Parisiensis non notha,</p>
+<p><pb/></p>
+<p>350 TESTIMONIA VETERUM.</p>
+<p><pb/></p>
+<p>TESTIMONIA VETERUM. 331</p>
+<p><pb/></p>
+<p>352 TESTIMONIA VETERUM.</p>
+<p>ETIENNE PASQUIER.</p>
+<p>RECHERCHES DE LA FRANCE. XVIe SIÈCLE.</p>
+<p><pb/></p>
+<p>TESTIMONIA VETERUM. 353</p>
+<p>BERTRAND D'ARGENTRÉ.</p>
+<p>HISTOIRE DE BRETAGNE, LIV. I, CHAP. XI. XVIe SIÈCLE.</p>
+<p>Quant aux lettres et cognoissance des disciplines et sciences, il ne se
+peut dire un plus lettré homme, ny plus versé és disciplines, qu'estoit
+Pierre Abaelard, natif du bourg de Pallais, au diocese de Nantes, yssu
+de noble mai-</p>
+<p><pb/></p>
+<p>354 TESTIMONIA VETERUM.</p>
+<p><pb/></p>
+<p>TESTIMONIA VETERUM. 355</p>
+<p>les livres et par examen de ses propositions, sans l'écouter de bouche à
+les défendre, pour ce qu'en disputation contre les hérétiques on n'y
+profite jamais guère, car c'est sans cesse qu'on réplique.</p>
+<p>LIV. QUATRIESME, CHAP. ILIX.</p>
+<p>Pierre Abaelard (tel estait son surnom, pour avoir ainsi veu son seing
+en fort petite lettre au bas d'un acte en parchemin tiré des archives de
+l'abbaye des Romeraiz près</p>
+<p><pb/></p>
+<p>356 TESTIMONIA VETERUM.</p>
+<p><pb/></p>
+<p>TESTIMONIA VETERUM. 357</p>
+<p>Celuy lequel estant interrogé si Dieu est, respond qu'ouy; interrogé
+pourquoy il croit, respond qu'il void et list manifestement en ses
+oeuvres, en l'harmonie des cieux, aux plantes de la terre, aux animaux
+qui y sont, en l'ordre et consentement des choses qu'il ordonna, respond
+très mal, car de chercher le principe imperceptible des essences parmy
+les choses qui tombent soubs le sens, il n'y a ordre, c'est évacuer la
+foy. C'est un bon argument de recognoistre qu'il est, mais mauvais pour
+fonder qu'il est : celui qui dist, nul ne peut faire les choses que tu
+fais, s'il n'est envoyé de Dieu, arguoit probablement, mais non comme il
+falloit : car encore que l'envoyé n'eust rien fait de tel, il</p>
+<p><pb/></p>
+<p>358 TESTIMONIA VETERUM.</p>
+<p><pb/></p>
+<p>TESTIMONIA VETERUM. 359</p>
+<p><pb/></p>
+<p>360 TESTIMONIA VETERUM.</p>
+<p><pb/></p>
+<p>TESTIMONIA VETERUM. 361</p>
+<p><pb/></p>
+<p>362 TESTIMONIA VETERUM.</p>
+<p>Gallorum Socrates, Plato maximus Hesperiarum, Noster Aristoteles,
+logicis, quicumque fuerunt, Aut par, aut melior; studiorum cognitus orbi
+Princeps, ingenio varius, subtilis et acer, Omnia vi superans rationis,
+et arte loquendi, Abaelardus erat : sed tunc magis omnia vicit, Cùm
+Cluniacensem monachum moremque professus, Ad Christi veram transivit
+philosophiam. In quâ longaevae benè complens ultima vitae,</p>
+<p><pb/></p>
+<p>TESTIMONIA VETERUM. 363</p>
+<p>Philosophis quandoque bonis se connumerandum Spem dedit, undenas maio,
+revocante calendas.</p>
+<p>Rawlinson, d'après un manuscrit de la bibliothèque d'Oxonne, rapporte
+cette épitaphe d'Abailard, qu'il attribue au prieur Godfroi :</p>
+<p><pb/></p>
+<p>364 TESTIMONIA VETERUM.</p>
+<p>Errorum nebulae surgunt le, Petre, cadente, Si stares caderent, et te
+surgente jacerent.</p>
+<p>Gloria te celebrem fecit, tua fama perennem ;</p>
+<p>Nec potuit titulos mors abolere tuos : Invidit mors ipsa tibi qui causa
+fuisti</p>
+<p>Omnibus invidiae : mors inimica tibi. Jàm tua vocalis sententia facta
+realis</p>
+<p>Mors argumentum, sic tibi tumba locus. Haec in voce docens, haec in
+rebus didicisti,</p>
+<p>El moriendo probas quod moriatur homo.</p>
+<p>Petrus in hâc petrâ latitat, quem mundus Homerum</p>
+<p>Clamabat, sed jàm sidera sidus habent. Sol erat hic Gallis, sed eum jàm
+fata tulerunt,</p>
+<p>Ergo caret regio Gallica sole suo. Ille sciens quicquid fuit ulli
+scibile, vicit</p>
+<p>Artifices, artes absque docente docens. Undecimo maii Petrum rapuêre
+calendae,</p>
+<p>Privantes logices atria rege suo. Est satis in titulo : Petrus hîc jacet
+Abailardus !</p>
+<p>Huic soli patuit scibile quicquid erat.</p>
+<p>EPITAPHE D'HÉLOISE.</p>
+<p>Hoc tumulo abbatissa jacet prudens Heloissa. Paraclitum statuit, cum
+paraclito requiescit. Gaudia sanctorum sua sunt super alla polorum. Nos
+meritis precibusque suis exaltet ab imis.</p>
+<p><pb/></p>
+<p>TESTIMONIA VETERUM. 365</p>
+<p>CALENDARIUM ALTUD COENOBII PARACLITENSIS LATINUM.</p>
+<p>1 Imô per Innocentium II anno 1131, ut ex ipsius Innocentii litteris
+patet. Anno enim 1145 jàm obierat Abaelardus.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>HÉLOÏSE ET ABAILARD</p>
+<p>AMOUR PASSIONNÉ.</p>
+<p>EXTRAIT du Génie au Christianisme.</p>
+<p>L'amour ne fait entendre chez la dévote Julie que de mélodieux soupirs :
+c'est une voix troublée qui sort du sanctuaire de paix, un cri d'amour
+que prolonge, en l'adoucissant, l'écho religieux des tabernacles</p>
+<p><pb/></p>
+<p>368 HÉLOÏSE ET ABAILARD.</p>
+<p>Hélas ! tels sont les lieux où, captive, enchaînée, Je traîne dans les
+pleurs ma vie infortunée. Cependant, Abailard, dans cet affreux séjour,
+Mon coeur s'enivre encor du poison de l'amour.</p>
+<p><pb/></p>
+<p>HELOÏSE ET ABAILARD. 360</p>
+<p>O funeste ascendant, ô joug impérieux ! Quels sont donc mes devoirs, et
+qui suis-je en ces lieux? Perfide! de quel nom veux-tu que l'on te
+nomme? Toi, l'épouse d'un Dieu, lu brûles pour un homme! Dieu cruel !
+prends pitié du trouble où tu me vois; A mes sens mutinés ose imposer
+tes lois.</p>
+<p>Il était impossible que l'Antiquité fournît une pareille scène, parce
+qu'elle n'avait pas une pareille religion. On aura beau prendre pour
+héroïne une vestale grecque ou romaine, jamais on n'établira ce combat
+entre la chair et l'esprit qui fait le merveilleux de la position
+d'Héloïse. Souvenez-vous que vous voyez ici réunies les plus fougueuses
+des passions et une religion menaçante qui n'entre jamais en traité avec
+nos penchants.</p>
+<p><pb/></p>
+<p>370 HÉLOÏSE ET ABAILARD.</p>
+<p>Chères soeurs, de mes fers compagnes innocentes,</p>
+<p>Sous ces portiques saints colombes gémissantes,</p>
+<p>Vous qui ne connaissez que ces faibles vertus</p>
+<p>Que la religion donne..... et que je n'ai plus ;</p>
+<p>Vous, qui dans les langueurs d'un esprit monastique</p>
+<p>Ignorez de l'amour l'empire tyrannique ;</p>
+<p>Vous enfin, qui n'ayant que Dieu seul pour amant,</p>
+<p>Aimez par habitude, et non par sentiment ;</p>
+<p>Que vos coeurs sont heureux, puisqu'ils sont insensibles !</p>
+<p>Tous vos jours sont sereins, toutes vos nuits paisibles :</p>
+<p>Le cri des passions n'en trouble point le cours :</p>
+<p>Ah ! qu'Héloïse envie et vos nuits et vos jours !</p>
+<p>« — Heureuse la vierge sans tache qui oublie le monde et que le monde
+oublie ! L'éternelle joie de son âme est de sentir que toutes ses
+prières sont exaucées, tous ses voeux résignés. Le travail et le repos
+partagent également ses jours; son sommeil facile cède sans effort aux
+pleurs et aux veilles ; ses désirs sont réglés ; ses goûts toujours les</p>
+<p><pb/></p>
+<p>HELOÏSE ET ABAILARD. 371</p>
+<p>mêmes; elle s'enchante par ses larmes; et ses soupirs sont pour le ciel:
+La grâce répand autour d'elle ses rayons les plus sereins; des anges lui
+soufflent tout bas les plus beaux songes : Pour elle l'Époux prépare
+l'anneau nuptial; pour elle de blanches vestales entonnent des chants
+d'hyménée; c'est pour elle que fleurit la rose d'Eden, qui ne se fane
+jamais, et que les séraphins répandent les parfums de leurs ailes: Elle
+meurt enfin aux sons des harpes célestes, et s'évanouit dans les visions
+d'un jour éternel. »</p>
+<p><pb/></p>
+<p>372 HÉLOÏSE ET ABAILARD.</p>
+<p>de prolongement ou de reflet. Revenons aux idées religieuses, si nous
+attachons quelque prix aux oeuvres du génie : la religion est la vraie
+philosophie des beaux-arts, parce qu'elle ne sépare point, comme la
+sagesse humaine, la poésie de la morale, et la tendresse de la vertu.</p>
+<p>CHATEAUBRIAND, Génie du Christianisme, IIe partie, livre III, chapitre V.</p>
+<p><pb/></p>
+<p>OUVRAGES INÉDITS D'ABELARD</p>
+<p>POUR SERVIR</p>
+<p>A L'HISTOIRE DE LA PHLLOSOPHIE SCOLASTIQUE EN FRANCE, PUBLIES PAR M.
+VICTOR COUSIN.</p>
+<p>(Extrait de l'Introduction.)</p>
+<p>Ce nom est assurément un des noms les plus célèbres ; et la gloire n'a
+jamais tort : il ne s'agit que d'en retrouver les titres.</p>
+<p><pb/></p>
+<p>374 OUVRAGES INÉDITS D'ABÉLARD.</p>
+<p><pb/></p>
+<p>OUVRAGES INÉDITS D'ABÉLARD. 375</p>
+<p><pb/></p>
+<p>376 OUVRAGES INÉDITS D'ABELARD.</p>
+<p>1 Pour Descartes, voyez le Discours sur la méthode et toute sa
+Correspondance ; pour Abélard, la fameuse lettre, Historia calamitatum,
+où il s'accuse lui-même d'arrogance, et tous ses ouvrages. Othon de
+Freisingen, son contemporain, qui l'avait connu personnellement; s'en
+exprime ainsi, De gestis Friderici, lib. 1, cap. 47: « Tàm arrogans
+suoque tantùm ingenio confidens, ut vix ad audiendos magistros ab
+altitudine mentis suae humiliatus descenderet. »</p>
+<p>(Petri Aboelardi opera, in-4°, avec des notes de Duchesne.)</p>
+<p><pb/></p>
+<p>OUVRAGES INÉDITS D'ABÉLARD. 377</p>
+<p>Abélard et Descartes sont incontestablement les deux plus grands
+philosophes qu'ait produits la France, l'un au moyen-âge, l'autre dans
+les temps modernes</p>
+<p>(Après avoir fait connaître les doctrines d'Abelard « cet ardent génie,
+ce Descartes du douzième siècle » par une exposition qui est un modèle
+de clarté et de discussion philosophique, M. Cousin résume ainsi son
+opinion : )</p>
+<p><pb/></p>
+<p>378 OUVRAGES INÉDITS D'ABELARD.</p>
+<p>thèmes de deux conciles, sa périlleuse mais féconde méthode est devenue
+la méthode universelle de la théologie scolastique. Les erreurs
+s'effacèrent, et la méthode resta, comme une conquête de l'esprit
+d'indépendance.</p>
+<p>V. COUSIN.</p>
+<p><pb/></p>
+<p>TRANSLATIONS SUCCESSIVES</p>
+<p>DES CENDRES</p>
+<p>D'HELOÏSE ET D'ABAILARD</p>
+<p><pb/></p>
+<p>380 TRANSLATIONS DES CENDRES</p>
+<p>orner la tombe d'Abailard et d'Héloïse. Madame de Roucy de la
+Rochefoucauld, nièce de la précédente, dernière abbesse du Paraclet, fit
+graver cette épitaphe :</p>
+<p>HIC,</p>
+<p>SUB EODEM MARMORE, JACENT,</p>
+<p>HUJUS MONASTERII</p>
+<p>CONDITOR , PETRUS ABAELARDUS,</p>
+<p>ET ABBATISSA PRIMA HELOISSA,</p>
+<p>OLIM STUDIIS, INGENIO, AMORE, INFAUSTIS NUPTIIS,</p>
+<p>ET POENITENTIA,</p>
+<p>NUNC AETERNA, QUOD SPERAMUS, FELICITATE,</p>
+<p>CONJUNCTI.</p>
+<p>PETRUS OBIIT XX PRIMA APRILIS MCXLII,</p>
+<p>HELOISSA, XVII MAII MCLXIII.</p>
+<p>ICI,</p>
+<p>SOUS LA MEME PIERRE, REPOSENT</p>
+<p>DE CE MONASTÈRE</p>
+<p>LE FONDATEUR, PIERRE ABAILARD,</p>
+<p>ET LA PREMIÈRE ABBESSE, HÉLOÏSE,</p>
+<p>AUTREFOIS UNIS PAR L'ÉTUDE, LE GÉNIE, L'AMOUR, UN HYMEN MALHEUREUX,</p>
+<p>ET LA PÉNITENCE:</p>
+<p>MAINTENANT, NOUS L' ESPÉRONS, UNE ÉTERNELLE FÉLICITÉ</p>
+<p>LES RÉUNIT.</p>
+<p>PIERRE ABAILARD MOURUT LE XXI AVRIL MCXLII</p>
+<p>HÉLOÏSE, LE XVII MAI MCLXIII.</p>
+<p><pb/></p>
+<p>D'HELOÏSE ET D'ABAILARD. 381</p>
+<p>Sous le ministère de Lucien Bonaparte, il fut ordonné, en 1800, que les
+dépouilles mortelles des célèbres amants seraient transportées dans le
+jardin du Musée français, où M. Alexandre Lenoir, fondateur de cet
+établissement, leur fit construire une chapelle sépulcrale
+très-élégante, avec les plus beaux débris du Paraclet et de l'abbaye de
+SaintDenis. Un procès-verbal constate que, lors de l'ouverture du double
+cercueil, le 23 avril de la même année, on trouva dans la portion qui
+contenait les restes d'Abailard, une grande partie du crâne et de la
+mâchoire inférieure, les côtes, les vertèbres et la presque totalité des
+femora et des tibia. Dans la partie qui renfermait les restes d'Héloïse,
+on remarqua une tête entière, la mâchoire inférieure distinguée en ses
+deux parties primitives, les os des bras, des cuisses et des jambes dans
+leur parfaite intégrité.</p>
+<p>En 1815, le gouvernement concéda au Mont-de-Piété une grande partie du
+terrain d'abord assignée au Musée français, et, par suite de cette
+disposition, il fallut déplacer de nouveau le monument des célèbres
+époux. On le déposa dans la troisième cour de cet établissement national.</p>
+<p>En 1817, on transporta les cendres d'Abailard et d'Héloïse au cimetière
+du Mont-Louis, dans une des salles de l'ancienne maison du
+Père-Lachaise, qui leur servit d'asile</p>
+<p><pb/></p>
+<p>382 TRANSLATIONS DES CENDRES</p>
+<p>pendant environ cinq mois. Le 6 novembre de la même année elles furent
+placées; en présence du commissaire de police qui avait constaté l'état
+de leurs ossements, au cimetière du Père-Lachaise.</p>
+<p><pb/></p>
+<p>D'HÉLOÏSE ET D'ABAILARD. 383</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>COMPLAINTES</p>
+<p>AVERTISSEMENT DU TRADUCTEUR.</p>
+<p>Abailard, comme on sait, avait composé, en langue vulgaire, une foule de
+chants amoureux. Il ornait lui-même ses vers de « cette espèce de
+rhétorique sonore qui a, comme celle des paroles, ses grandes figures
+pour élever l'âme, ses grâces pour la toucher, ses ris et ses jeux pour
+la divertir » . Il exerçait aussi sur des sujets moins importants, mais
+qui paraissent plus graves, son double talent de poète et de musicien,
+et employait alors, de préférence, l'idiome latin.</p>
+<p>A cette seconde catégorie appartiennent les poëmes élégiaques qu'il a
+intitulés Complaintes, et qui se composent de</p>
+<p>25</p>
+<p><pb/></p>
+<p>386 COMPLAINTES.</p>
+<p>L'une de ces complaintes nous découvre aussi une tracé divine et
+jusqu'alors inaperçue du pied d'Héloïse. Au récit de la trahison de
+Dalida succède, dans la bouché d'Israël, une tirade fort riche en
+imprécations contre les femmes. De même,</p>
+<p><pb/></p>
+<p>COMPLAINTES. 387</p>
+<p>après la trahison du Philistin Fulbert, Héloïse déploré, dans sa 2e
+Lettre, l'attentat dont Abailard a été victime, et s'indigne d'en avoir
+été l'occasion ; puis, ne sachant comment s'humilier et se punir pour ce
+crime qui n'est pas le sien, et dont elle se croit pourtant responsable,
+elle finit par accuser en sa personne tout son sexe, " cet éternel fléau
+de l'homme ». Elle cite la malédiction du Livre des Proverbes et de
+l'Ecclésiaste ; elle accumule avec amertume les exemples d'Adam, de Job,
+de Samson, de David et de Salomon; et la haine fiévreuse dont elle est
+animée contre la femme ne s'arrête pas avant d'avoir épuisé dans tous
+ses détails la diatribe qui envenime la seconde partie de la Complainte
+d'Israël.</p>
+<p><pb/></p>
+<p>388 COMPLAINTES.</p>
+<p><pb/></p>
+<p>COMPLAINTES. 389</p>
+<p><pb/></p>
+<p>390 COMPLAINTES.</p>
+<p>En attendant, voici la traduction française des complaintes d'Abailard.</p>
+<p>Notes Tironiennes, vient de confirmer les brillantes promesses de son
+début, en nous donnant la clef des Neumes, ou anciennes notes musicales.</p>
+<p>Puisse l'éclatant succès, de M. Tardif appeler une. protection efficace
+sur les travaux paléographiques ! Cette protection serait le gage des
+plus précieuses découvertes. (Note de l'Editeur.)</p>
+<p><pb/></p>
+<p>COMPLAINTES</p>
+<p>COMPLAINTE DE DINA, FILLE DE JACOB.</p>
+<p>Moi, la fille d'Abraham, le rejeton d'Israël, moi, le sang glorieux des
+patriarches, enlevée par un homme incirconcis, je suis devenue la proie
+d'un impur Moabite. Opprobre d'une sainte race, j'ai été trompée par les
+jeux d'une nation ennemie.</p>
+<p>Pourquoi ai-je voulu voir les fêtes étrangères ? C'est pour mon malheur
+que j'ai été connue, en voulant les connaître.</p>
+<p>Sichem, né pour la perte de ton peuple, nom taché d'une honte éternelle
+dans notre postérité !</p>
+<p>En vain la circoncision a fait de toi un prosélyte, si elle n'a purifié
+ton infamie.</p>
+<p>Forcé de me ravir, ravi toi-même par ma beauté,—quel juge aurait pu te
+trouver exempt de faute?</p>
+<p>Ce n'est pas vous, Siméon et Lévi, pieux vengeurs, trop cruels toutefois !</p>
+<p>Vous avez enveloppé les innocents dans le châtiment du coupable. Le père
+lui-même a eu le coeur déchiré. - et pour cela vous avez encouru
+l'exécration.</p>
+<p>L'amour avait entraîné La faute avait été sanctifiée</p>
+<p>Le jugement ne devait-il pas tenir compte de la diminution de la faute?</p>
+<p>La jeunesse est légère, elle a peu de discernement. La sévérité des
+hommes prudents a été trop grande envers elle.</p>
+<p>La colère de mes frères aurait dû être adoucie par l'honneur que leur
+fit le prince du pays en épousant une étrangère.</p>
+<p><pb/></p>
+<p>392 COMPLAINTES.</p>
+<p>COMPLAINTE DE JACOB SUR SES FILS.</p>
+<p>De quel forfait un coup si cruel est-il l'expiation? Par quel péché
+ai-je mérité d'être frappé de ce glaive?</p>
+<p>Siméon, dans les fers, paye pour les fautes paternelles. Après leur mère
+et Benjamin, j'ai perdu ce qui me restait de joies.</p>
+<p>Joseph, la faveur du ciel était sur toi, et tes frères en furent jaloux
+: quels présages, ô mon fils, fallait-il voir dans tes songes ?</p>
+<p>Le soleil, la lune, les étoiles, les gerbes, j'y ai long-temps réfléchi,
+qu'annonçaient-ils donc par leurs prophéties mystérieuses?</p>
+<p>Et toi, le dernier de tes frères par l'âge, le premier de tous dans mon
+amour, toi que ta mère mourante appelait Bennoni, et que ton père dans
+la joie de son coeur nomma Benjamin;</p>
+<p>Par tes caresses, lu relevais la vieillesse abattue de ton. père ; tu me
+rendais Joseph par la grâce de ton allure ; tu me rendais ta mère par la
+beauté de ton visage.</p>
+<p>Tes lèvres balbutiantes, l'informe langage essayé par ta bouche débile,
+surpassaient en douceur tout le miel de l'éloquence.</p>
+<p>La consolation de mes deux grandes pertes était toute en</p>
+<p><pb/></p>
+<p>COMPLAINTES. 393</p>
+<p>Aussi avec toi je les ai perdus une seconde fois, et j'ai vécu trop
+long-temps. O mon fils, tu étais le plus petit par l'âge; mais, pour ton
+père comme pour ta mère, tu es le plus grand dans la douleur.</p>
+<p>COMPLAINTE DES VIERGES D'ISRAËL</p>
+<p>SUR LA FILLE DE JEPHTÉ DE GALAAD.</p>
+<p>Rassemblez-vous, vierges d'Israël ! formez les choeurs accoutumés! Que
+les hymnes lugubres se succèdent ! Accomplissez le rite gémissant de vos
+cérémonies. Arrivez les cheveux épars, le front chargé de tristesse,
+avec des larmes et des cris.</p>
+<p>Loin de vous les riches atours et les bijoux précieux. La fille de
+Jephté de Galaad, la vierge pure, immolée par son père, réclame
+aujourd'hui l'offrande anniversaire de vos élégies, et le rhythme de vos
+pieux concerts. Sa vertu a mérité ce funèbre hommage.</p>
+<p>O vierge, plus digne encore d'admiration que de larmes ! Où est l'homme
+qu'on pourrait lui comparer?</p>
+<p>Pour que le voeu de son père ne reste point sans effet, pour que la
+victime promise ne soit point dérobée au Seigneur, c'est elle qui
+console le peuple, elle qui tend sa gorge au couteau.</p>
+<p>A sa vue le père troublé, gémissant, change son allégresse en sanglots;
+car il se souvient de son voeu. Son triomphe est devenu le deuil de sa
+maison :</p>
+<p><pb/></p>
+<p>394 COMPLAINTES.</p>
+<p>« Tu as trompé mon espoir, ma fille, ô mon unique enfant, dit le
+capitaine. Ton erreur te fera payer cruellement notre joie, et cette
+victoire que le Seigneur nous a donnée sera ta perte ! »</p>
+<p>Elle répond : « Je remercie le ciel que mon ignorance fournisse pour une
+si grande cause une victime résignée comme moi, Abraham, voulant immoler
+son fils, ne put obtenir de Dieu cette faveur que son enfant.fût accepté
+de ses mains comme hostie.</p>
+<p>Mais vous m'accorderez un sursis de deux mois, pour que je puisse
+parcourir les vallées et les collines avec mes compagnes, et pleurer
+l'arrêt du Seigneur qui me prive de postérité, l'arrêt qui fait de ma
+mort la sanction nécessaire de la loi, et qui ne peut être racheté par
+la pureté d'une hostie qui ne connaît ni tache ni souillure. »</p>
+<p>Ce temps écoulé, la fille unique de Jephté revint près de son père.</p>
+<p>Elle se rend dans la partie réservée de ses appartements, elle dépose
+ses vêtements funèbres et ses voiles de deuil. Elle</p>
+<p><pb/></p>
+<p>COMPLAINTES. 398</p>
+<p>entre dans la salle du bain au milieu du cercle gracieux de ses
+compagnes. L'onde ranime son corps languissant, le purifie de la
+poussière du pèlerinage, et lui rend sa force et sa fraîcheur.</p>
+<p>Les jeunes filles apportent en pleurant diverses pâtes précieuses
+contenues dans des coffrets d'or. Les unes parfument la victime;
+d'autres disposent ses cheveux d'une main habile, et l'ornent pour le
+fiancé qui l'attend, le tombeau.</p>
+<p>Oh ! quelle explosion de douleur provoque de toutes parts ce sombre
+message, et par combien de lamentations il est accueilli ! Le capitaine
+presse le peuple éploré de bâter ses préparatifs, et sa fille presse les
+vierges ses compagnes de lui apporter ses vêlements et de l'habiller
+pour la mort comme elles l'auraient fait pour ses noces,</p>
+<p>L'une lui présente la tunique, une autre le mantelet de pourpre : des
+larmes ont mouillé la tunique; des larmes brillent sur le mantelet.</p>
+<p>L'or, les pierreries, les perles étincellent dans le collier qui orne sa
+poitrine, et empruntent un nouvel éclat aux pendants d'oreilles, aux
+bracelets et aux cercles d'or qui chargent les membres délicats de la
+jeune vierge.</p>
+<p>Qu'ajouterons-nous, que dirons-nous de plus? Faut-il ouvrir la source
+des larmes et des gémissements? Parcourons toute cette triste carrière
+puisque nous y sommes entrés.</p>
+<p>O juge insensé ! ô zèle égaré du prince ! — O père malheu-</p>
+<p><pb/></p>
+<p>396 COMPLAINTES.</p>
+<p>reux, destructeur de la postérité de sa fille unique qu'il anéantit par
+la mort.</p>
+<p>Répétez, jeunes filles, les louanges de la vierge glorieuse, de la
+sublime vierge d'Israël. N'oubliez jamais celle qui est votre orgueil !</p>
+<p>COMPLAINTE D'ISRAËL SUR SAMSON.</p>
+<p>Vos jugements, ô Dieu, sont un abîme. Plus ils sont cachés, plus ils
+sont redoutables : contre eux toute force est impuissante !</p>
+<p>Le plus robuste des hommes, celui qui avait été annoncé par un ange, le
+fougueux Nazaréen, le bouclier d'Israël, quel est le coeur de rocher qui
+ne s'apitoierait sur son malheur?</p>
+<p>Dalida le prive d'abord de sa chevelure sacrée. Ses ennemis ensuite lui
+ravissent les yeux.</p>
+<p>Dalida, pourquoi l'attirais-tu pour ce but impie? Qu'as-tu fait? Quelle
+récompense veux-tu conquérir au prix dé cet horrible forfait? Nulle
+faveur n'est longtemps conservée au traître.</p>
+<p>A vos moqueries, ô Philistins, répond déjà, dans son coeur</p>
+<p><pb/></p>
+<p>COMPLAINTES. 397</p>
+<p>ulcéré, la pensée qui vous sera fatale ! Il applique ses mains aux deux
+piliers de l'édifice, il confond son trépas dans celui de ses ennemis.</p>
+<p>Qui était plus saint que David ? Plus prudent que Salomon? A quel degré
+d'aveuglement et de folie la femme ne les a-t-elle pas conduits? Lequel,
+parmi les forts, a été énervé comme Samson le plus fort de tous?</p>
+<p>Adam, ce noble ouvrage de la main divine, la femme l'a aussitôt
+renversé. Il l'avait reçue pour son propre secours ; il a trouvé en elle
+un ennemi.</p>
+<p>Dès lors la femme a fabriqué les plus grandes flèches qui font périr les
+hommes.</p>
+<p>COMPLAINTE DE DAVID SUR ABNER,</p>
+<p>FILS DE NER, TUÉ PAR JOAB.</p>
+<p>O mon fidèle Abner, le plus brave des guerriers, l'amour et les délices
+de l'honneur militaire !</p>
+<p>Ce que n'a pu la force, la ruse l'a donc exécuté.</p>
+<p>Périsse comme toi celui qui t'a frappé ! Sa mort sera indigne des larmes
+que la tienne fait couler de tous les yeux.</p>
+<p>Tant que tu as été l'adversaire déclaré de mon règne, sans cesse tu
+t'élevais par l'éclat de nouveaux triomphes. Tu nous</p>
+<p><pb/></p>
+<p>398 COMPLAINTES.</p>
+<p>infligeais des pertes nombreuses. Nul revers n'a pu t'atteindre dans ta
+puissance !</p>
+<p>Puissant par la sagesse, homme parfait, forte muraille d'Israël, même
+lorsque ton glaive était tiré contre moi, tu m'aimais encore tendrement.</p>
+<p>Guerriers de l'armée, frappez vos poitrines, pleurez le grand Capitaine
+ainsi abattu. Que les princes de la justice étendent leurs mains sur
+l'exécrable meurtrier.</p>
+<p>COMPLAINTE DE DAVID SUR SAUL ET JONATHAS.</p>
+<p>Soulagement de mes douleurs, consolation de mes peines, ô ma lyre, c'est
+aujourd'hui que lu m'es nécessaire. Jamais je n'ai eu de plus poignante
+douleur, jamais de plus juste chagrin.</p>
+<p>Le carnage a dévoré nos guerriers, le Roi et son fils sont morts,
+l'ennemi est vainqueur, les chefs sont désolés, le peuple se désespère,
+le deuil est partout.</p>
+<p>L'orgueil d'Amaleck s'exalté sur les ruines d'Israël. La jubilation est
+dans le camp du Philistin, tandis que la Judée se dessèche dans les
+sanglots.</p>
+<p>Les fidèles sont insultés par la nation infidèle. Ceux qui s'élevaient
+contre la gloire du peuple de Dieu nous écrasent maintenant de leurs
+mépris.</p>
+<p>Le premier roi d'Israël est égorgé.</p>
+<p><pb/></p>
+<p>COMPLAINTES. 399</p>
+<p>Il a été vaincu par les Amalécites.</p>
+<p>L'élection du Seigneur est tombée dans l'outrage : l'outrage s'est
+attaqué au sacre du Prophète.</p>
+<p>Saül, le plus courageux des Rois! valeur invaincue de Jonathas ! Celui
+qui ne pouvait vous vaincre a eu la permission de vous immoler.</p>
+<p>Comme s'il n'avait pas été consacré au Seigneur par l'huile sainte, il
+est égorgé dans le combat par le fer d'une main scélérate.</p>
+<p>Tu étais pour moi plus qu'un frère, ô Jonathas! Ensemble nous n'avions
+qu'une âme : quels péchés, quels forfaits ont déchiré nos entrailles !</p>
+<p>Où l'oint du Seigneur et les fameux d'Israël ont péri misérablement, eux
+et leurs compagnons !</p>
+<p>Ta perte, ô Jonathas, domine pour moi toutes choses ! Audessus de toutes
+mes joies, ruissellera un pleur continuel.</p>
+<p>Livrez-vous aux gémissements, filles de Sion. Saül n'est plus, dont les
+mains libérales vous ornaient de la pourpre !</p>
+<p>Hélas, voix fatale qui m'a dissuadé ! Que n'étais-je près de toi dans le
+combat, pour te défendre ou pour tomber sous les mêmes coups !</p>
+<p>Du moins je serais mort avec joie, puisque l'amour n'a pas de plus grand
+témoignage que la mort.</p>
+<p>Vivre après Jonathas c'est pour David une mort de chaque instant ! Pour
+une vie la moitié d'une âme ne suffit point.</p>
+<p><pb/></p>
+<p>400 COMPLAINTES.</p>
+<p>nant qui nous sépare; une mort commune nous aurait unis.</p>
+<p>Funeste victoire que la mienne! Quelle vaine et courte joie j'en ai
+ressentie!</p>
+<p>Qu'il vint rapidement le cruel message que l'orgueil attendait! Qu'elle
+fut vite accomplie la parole que l'orgueil avait prononcée contre son âme !</p>
+<p>Le trépas réunit ceux qui ont succombé; mais moi je n'ai pour compagnon
+que ma douleur.</p>
+<p>Repose-toi, ma lyre, et puisse se reposer de même ma douleur gémissante
+! Mes doigts se sont fatigués sur les cordes, les sanglots ont altéré ma
+voix, mon haleine est épuisée !</p>
+<p>PARIS. — IMPRIMERIE BONAVENTURE ET DUCESSOIS, 55, QUAI DES AUGUSTINS.</p>
+    </div>
+    </body>
+  </text>
+</TEI>

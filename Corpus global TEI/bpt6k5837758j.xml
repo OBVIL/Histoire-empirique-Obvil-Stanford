@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Topin, Marius (1838-1895)">Marius Topin</author>
+<title>Le Cardinal de Retz : son génie et ses écrits (3e édition) / par Marius Topin</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Topin, Marius (1838-1895)</author>, <title>Le Cardinal de Retz : son génie et ses écrits (3e édition) / par Marius Topin</title>, <date>1872</date>,description :,170 pages
+</bibl>
+<publisher>Didier (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k5837758j</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1872">1872</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/></p>
+<p>LE</p>
+<p>CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>OUVRAGES DU MÊME AUTEUR.</p>
+<p>L'Europe et les Bourbons sous Louis XIV.</p>
+<p>— Ouvrage couronné par l'Académie française ( prix Thiers), 2e édition.
+1 volume in 12 3 fr. 50.</p>
+<p>L'homme au masque de fer. — Ouvrage couronné par l'Académie française
+(prix d'histoire), 4e édition, 1 vol. in 12 3 fr. 50.</p>
+<p><pb/></p>
+<p>LE</p>
+<p>CARDINAL DE RETZ</p>
+<p>SON GENIE ET SES ÉCRITS</p>
+<p>PAR</p>
+<p>MARIUS TOPIN</p>
+<p>Ouvrage qui a obtenu le prix d'éloquence de l'Académie française.</p>
+<p>TROISIÈME EDITION</p>
+<p>PARIS</p>
+<p>LIBRAIRIE ACADÉMIQUE</p>
+<p>DIDIER ET Ce LIBRAIRES-ÉDITEURS</p>
+<p>35, QUAI DES AUGUSTINS 35,</p>
+<p>1872</p>
+<p>Tous droits réservés.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p><pb/></p>
+<p>6 AVANT-PROPOS.</p>
+<p>spirateur que son goût si vif pour l'opposition</p>
+<p>rend nécessairement populaire dans notre</p>
+<p>France frondeuse, dont les aventures romanesques seraient attrayantes,
+même si elles</p>
+<p>Ce n'est pas qu'on puisse découvrir la moindre ressemblance entre les
+agitations de</p>
+<p><pb/></p>
+<p>AVANT-PROPOS. 7</p>
+<p>MARIUS TOPIN. Paris, 4 août 1871.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LE</p>
+<p>CARDINAL DE RETZ</p>
+<p>ÉTUDE</p>
+<p>SUR SON GÉNIE ET SES ÉCRITS</p>
+<p>" L'envie de parler du nous, et de faire " voir nos défauts du côté que
+nous vou« lons bien les montrer, fait une grande « partie de notre
+sincérité. "</p>
+<p>(LA ROCHEFOUCAULD. — Maxime 383.)</p>
+<p>Le nom du cardinal de Retz éveille dans l'esprit des idées bien
+diverses. D'un côté apparaissent les conspirations et les duels qui
+remplissent sa jeunesse, ses intrigues souterraines, ses combats au
+grand jour, ses amours, sa prison, ses romanesques tentatives d'éva-</p>
+<p><pb/></p>
+<p>10 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 11</p>
+<p>l'infinie variété des tableaux, une profonde connaissance du coeur
+humain et l'entraînante vivacité du langage, on ne peut s'étonner que,
+devant la postérité, le titre principal de Retz soit celui de grand
+écrivain. Cette célébrité, but avoué de toute sa vie, qu'il a
+ambitionnée dès son plus jeune âge, et qu'il a poursuivie pendant de
+longues années, il l'a surtout trouvée en racontant cette vie même, et,
+après avoir assez vécu pour voir anéantir ses espérances, sa popularité,
+et son éphémère réputation de frondeur, il a élevé, d'un seul coup, un
+magnifique monument qui le place parmi les plus admirables narrateurs de
+notre langue.</p>
+<p>Mais cette gloire posthume, dont il ne lui a pas été donné de jouir
+lui-même, il ne l'a point obtenue sans une juste et dure compensation.
+Jouant le premier rôle dans son récit, il occupe la scène presque
+constamment, et, quand il la quitte, on l'aperçoit, on l'entend encore dans</p>
+<p><pb/></p>
+<p>12 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 13</p>
+<p>le tromper. Les séductions de l'art le plus</p>
+<p>1.</p>
+<p><pb/></p>
+<p>14 LE CARDINAL DE RETZ</p>
+<p>fin, réunies au charme incomparable de l'histoire, tel est, en effet, le
+secret du succès des Mémoires du cardinal de Retz.</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 15</p>
+<p><pb/></p>
+<p>16 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 17</p>
+<p><pb/></p>
+<p>18 LE CARDINAL DE RETZ</p>
+<p>et leurs faiblesses, leurs ambitieux projets, leurs tristes mobiles et
+leurs fins singulières, mais nous verrons surtout un homme.</p>
+<p><pb/></p>
+<p>PREMIERE PARTIE L'HOMME</p>
+<p>I</p>
+<p>Après avoir écrit une Vie de César, que nous connaissons seulement par
+les courtes paroles que Retz lui consacre dans ses Mémoires, et qui dut
+fortifier son ambition naissante dans le commerce de ce grand ambitieux,
+dont il ne craignit pas de se rapprocher en quelques rencontres (1),
+Gondi s'oc(1)</p>
+<p><pb/></p>
+<p>20 LE CARDINAL DE RETZ</p>
+<p>cupa d'un personnage qui avait enflammé son imagination par ses
+brillantes qualités, le retentissement qu'avait eu son nom depuis moins
+d'un siècle, le but extraordinaire qu'il s'était donné, la manière
+audacieuse dont il l'avait poursuivi, et sa mort étrange au milieu même
+de son triomphe, qui se changea ainsi en un irréparable désastre.</p>
+<p>por(1) 1629. « La Congiura del conte Gio-Luigi de « Fieschi, descritta
+da Agostino Mascardi. »</p>
+<p>(2) Il était âgé de dix-huit ans, en 1632</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 21</p>
+<p><pb/></p>
+<p>22 LE CARDINAL DE RETZ</p>
+<p>puissant ministre qui gouvernait alors la France !</p>
+<p>(1) « Questa fù l'horribile congiura del conte Luigi de Fieschi. » (Page
+2.)</p>
+<p>(2) Mascardi avait dit, page 11 : « Ricevuto con segni</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 23</p>
+<p>Les portraits que tracent de lui Mascardi et Retz sont presque une
+continuelle antithèse. Quand l'un (1), tenant le langage de l'histoire,</p>
+<p>« di allegrezza incredibile da Genovezi Obligata la</p>
+<p>« citta di Genova per tanti c si segnalati beneficii al « Doria. » (Page
+3.)</p>
+<p><pb/></p>
+<p>24 LE CARDINAL DE RETZ</p>
+<p>(1) « Si diede Gio-Luigi, per consiglio de suoi amici, « a legger
+diligentemente la vita di Nerone, la congiura « di Catilina, e
+l'operetta del Principe da Nicolo Machia« vello. » (Page 17.)</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 23</p>
+<p><pb/></p>
+<p>26 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 27</p>
+<p>omet(1) (page 71) avait dit : « Gio-Luigi tutto can« giato nel volto
+(non so se per l'honore del vicino par« ricidio, o per la rabbia contro
+di Giann etino), appog« giato ad una tavola, percotendola con la mano,
+cosi « parlo ......... »</p>
+<p>(2) Voir Sismondi. — Mascardi, page 77: « A cosi spa« ventose parole,
+attoniti gli ascoltanti e atterriti dal ve« dersi cinti da tutti i lati
+da gente minac c iosa e armata, « stettero per un poco senza parlare »</p>
+<p><pb/></p>
+<p>28 LE CARDINAL DE RETZ</p>
+<p>Mais les faits ont leur éloquence, et, quoique Retz raconte sans aucune
+observation la</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 29</p>
+<p>mort du comte de Fiesque (1) qui, au moment même où le fils adoptif de
+Doria est assassiné, où Doria lui-même va prendre la fuite, où les
+conjurés sont victorieux, se transportant sur une galère, tombe dans la
+mer et est retenu au fond de l'eau par la pesanteur de ses armes, sans
+que ses cris puissent être entendus au milieu du tumulte, cette fin, qui
+détruit la conspiration d'une manière si providentielle et si
+inattendue, n'en a pas moins sa signification. Gondi ne se contente pas
+de montrer dans ce récit ce qu'il est capable de faire ; en même temps
+qu'il fait voir combien les coups qu'il pourrait porter seraient sûrs,
+il indique contre qui il serait bien aise de les diriger, et ce premier
+ouvrage, fécond en ingénieuses allusions, révèle tout aussi bien ses
+antipathies que son caractère.</p>
+<p>(1) « Cosi la Providenza », s'écrie éloquemment Mascardi après le récit
+de la mort de Fiesque, « non errante « di Dio si prende giuco della
+stolta prudenza de gl'in« felici mortali, etc., etc. » (Page 83.)</p>
+<p>2</p>
+<p><pb/></p>
+<p>30 LE CARDINAL DE RETZ</p>
+<p>(1) « Teneva (André Doria) in sua compagnia Gianne« tino, figliulo di
+Tomasi Doria, suo cugino, giovane spi« ritoso et di conosciuta virtu :
+il quale adoprato in « molte fattioni sotto la condotta di Andrea,
+haveva me« ritato col suo valore d'esser adottato per figliulo da « lui
+....... » (Page 12.)</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 31</p>
+<p><pb/></p>
+<p>32 LE CARDINAL DE RETZ</p>
+<p>donner ainsi tout le caractère d'un sévère avertissement adressé aux
+puissances du jour ?</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 33</p>
+<p>II</p>
+<p>répugnance. Dès ce premier mot, il ne tient</p>
+<p>2.</p>
+<p><pb/></p>
+<p>34 LE CARDINAL DE RETZ</p>
+<p>pas la promesse qu'il va solennellement faire « de nous instruire nûment
+et sans détour des « plus petites particularités » (1).</p>
+<p>« Le jour de ma naissance, dit-il ensuite, « on prit un esturgeon
+monstrueux dans une « petite rivière qui passe sur la terre de «
+Montmirail-en-Brie, où ma mère accoucha « de moi. » Et il ajoute : « Les
+libelles qui ont « depuis été faits contre moi en ont parlé « comme d'un
+présage de l'agitation dont ils « ont voulu me faire l'auteur. »</p>
+<p>(1) Mémoires du cardinal de Retz, page 15 de l'édition Michaud et
+Poujoulat.</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 35</p>
+<p><pb/></p>
+<p>36 LE CARDINAL DE RETZ</p>
+<p>Ce n'est pas tout. Non-seulement il décèle</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 37</p>
+<p>exposer ouvertement. Il se demande « s'il y</p>
+<p>« a une action plus grande au monde que la</p>
+<p>« conduite d'un parti », et il ne craint pas</p>
+<p>d'affirmer qu'il « faut plus de grandes qualités</p>
+<p>« pour former un bon chef de parti que pour</p>
+<p>« être un bon empereur de l'univers ». Cette</p>
+<p>respectueuse admiration pour ce rôle, il la</p>
+<p>conspiration, il fait remarquer « qu'il embrasse</p>
+<p>« le crime qui lui paraît consacré par de grands</p>
+<p>« exemples, justifié et honoré par les grands</p>
+<p>« périls », et, lorsqu'il veut apprécier une</p>
+<p>folle entreprise formée contre Richelieu, et</p>
+<p>ne peut s'empêcher de s'écrier : « L'ancienne</p>
+<p>« Rome l'aurait enviée ! » Plus tard, dans la</p>
+<p>belle scène qui précède sa rupture avec la</p>
+<p>cour, et où son admirable talent nous fera</p>
+<p>dans son esprit au moment d'ordonner les</p>
+<p><pb/></p>
+<p>38 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 39</p>
+<p>nière citation donne, ce me semble, plus encore la mesure du respect
+qu'a Retz pour un chef de parti. Après qu'il a parlé de ce titre et des
+qualités qu'il exige, il ajoute: « M. le « Prince (le grand Condé)
+n'étudiait pas avec « assez d'application les principes d'une science «
+dans laquelle l'amiral de Coligny disait que « l'on ne pouvait jamais
+être docteur. »</p>
+<p><pb/></p>
+<p>40 LE CARDINAL DE RETZ</p>
+<p>(1) Tallemant des Réaux, tome VII, chapitre CCXX.</p>
+<p><pb/></p>
+<p>DU CARDINAL DE RETZ 41</p>
+<p>cardinal (notez la gradation), et d'ajouter que,</p>
+<p>3</p>
+<p><pb/></p>
+<p>42 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GENIE ET SES ÉCRITS 43</p>
+<p><pb/></p>
+<p>44 LE CARDINAL DE RETZ</p>
+<p>(1) Page 37 des Mémoires de Retz.</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 40</p>
+<p><pb/></p>
+<p>46 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 47</p>
+<p>III</p>
+<p><pb/></p>
+<p>48 LE CARDINAL DE RETZ</p>
+<p>été plus profondément étudiée. Mais quelle variété dans les jugements et
+quelle foule d'opinions diverses ! La Fronde est dans nos annales une
+véritable cause qui a eu ses avocats comme ses accusateurs.</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 49</p>
+<p><pb/></p>
+<p>50 LE CARDINAL DE RETZ</p>
+<p>autorisé, lui confiait le contrôle des finances de l'État.</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 51</p>
+<p>D'un autre côté, on placerait Anne d'Autriche, que la mort de Louis XIII
+et l'extrême</p>
+<p><pb/></p>
+<p>52 LE CARDINAL DE RETZ</p>
+<p>jeunesse de Louis XIV appelaient pour longtemps au pouvoir, après un
+isolement et presque un exil de vingt années, et qui puisa dans son
+amour maternel l'admirable inspiration et la force d'immoler ses
+anciennes affections aux véritables intérêts de son fils, de se séparer
+de ses amis de la veille et de choisir, pour premier ministre, Mazarin
+qu'elle n'aimait pas encore, Mazarin le continuateur de la politique
+acharnée de son maître contre la maison d'Espagne, et, en considérant
+les grandes choses que la puissance de l'une, unie au génie de l'autre,
+vont obtenir au dehors, en considérant les immenses obstacles qu'ils
+vont rencontrer au dedans et qui ne les arrêteront pas, on est en
+quelque sorte tenté d'oublier leurs fautes ; les défauts mêmes de
+Mazarin, ces artifices continuels, cette ruse italienne, le peu de
+solidité de ses promesses, la duplicité de sa conduite, se transforment
+presque en qualités, tant on se réjouit qu'il les possède, au moment où
+ils vont</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 53</p>
+<p>lui être indispensables pour le plus grand bien de la France.</p>
+<p><pb/></p>
+<p>54 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 55</p>
+<p>Mais il faut revenir au cardinal de Retz, que nous n'aurions peut-être
+pas dû quitter.</p>
+<p><pb/></p>
+<p>56 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 57</p>
+<p><pb/></p>
+<p>58 LE CARDINAL DE RETZ</p>
+<p>(1) Page 53 des Mémoires de Retz.</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 59</p>
+<p>Survient la victoire de Lens. Retz expose que, ses amis lui ayant
+inspiré la crainte de voir la cour profiter de ce grand succès pour
+achever d'asseoir sa puissance, il s'est rendu auprès de Mazarin pour
+vérifier l'exactitude de cette crainte, et qu'il a vu chez ce dernier
+une telle douceur, un tel désir de conciliation, qu'il en a été dupe.
+Cet aveu est un des traits les plus habilement trouvés de sa
+justification. Il a été dupe; on l'a trompé; on ne lui a pas donné le
+mot du coup d'État qu'on prépare. Il vient surveiller, scruter la cour,
+et on ne l'a pas mis dans le secret de l'arrestation de Broussel. Quelle
+hypocrite dissimulation d'un côté, et quelle naïve confiance de l'autre
+! Comme cet aveu de son</p>
+<p><pb/></p>
+<p>60 LE CARDINAL DE RETZ</p>
+<p>manque de pénétration lui donne un air d'innocence ingénue !</p>
+<p>Mais l'heure des barricades approche : le voici parvenu au pas
+dangereux. Comment va-til le franchir ?</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 61</p>
+<p><pb/></p>
+<p>62 LE CARDINAL DE RETZ</p>
+<p>Le lieutenant civil entre dans le cabinet, pâle, bouleversé, terrifié
+par les scènes de la rue, auxquelles il vient d'assister. Gondi se
+montre entouré aussitôt des sollicitations de tous, pressé par Mazarin
+et la reine, tendrement prié par Monsieur, qui lui serre les mains, en
+lui disant:</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 63</p>
+<p><pb/></p>
+<p>64 LE CARDINAL DE RETZ</p>
+<p>le tumulte, et quand, accompagné du maréchal de La Meilleraye, qui rend
+témoignage des bons services rendus par le coadjuteur, il retourne
+auprès de la reine, celle-ci lui dit ces seuls mots ironiques : " Allez
+vous reposer, monsieur, vous avez bien travaillé ! »</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 65</p>
+<p>4</p>
+<p><pb/></p>
+<p>66 LE CARDINAL DE RETZ</p>
+<p>sentiments contraires qui paraissent se disputer le coeur de Retz, et
+l'immense talent avec lequel il a ainsi amené aux barricades, tout
+naturellement et sans secousses, le lecteur captivé.</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 67</p>
+<p>Mais qu'est-il besoin du témoignage des contemporains pour nous
+représenter Retz tel qu'il a été? Ce récit lui-même, quelque habilement
+qu'il soit fait, laisse encore échapper quelques révélations involontaires.</p>
+<p>Gondi a dénoncé sinon le rôle qu'il devait jouer bientôt, du moins
+l'intention de s'y préparer de bonne heure en s'emparant de l'imagi-</p>
+<p><pb/></p>
+<p>68 LE CARDINAL DE RETZ.</p>
+<p>nation du peuple de Paris pour acquérir sur lui une grande influence.</p>
+<p>Quand on le voit ensuite, ce pour s'attirer,</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 69</p>
+<p>début! quels efforts admirables mais pénibles il</p>
+<p>4.</p>
+<p><pb/></p>
+<p>70 LE CARDINAL DE RETZ</p>
+<p>a déployés pour traverser ce pas difficile ! Mais lorsqu'il l'a franchi,
+lorsque, l'attaque étant commencée, il se trouve dans sa voie, celle de
+la cabale, alors il redevient lui-même. Ce n'est plus avec Anne
+d'Autriche qu'il lutte, mais bien avec Mazarin, adversaire digne de lui.
+Dès ce moment il marche le front haut et la plume alerte !</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 71</p>
+<p><pb/></p>
+<p>72 LE CARDINAL DE RETZ</p>
+<p>IV</p>
+<p>Toutefois, et quelque hâte que j'aie d'étudier et d'admirer l'écrivain,
+je voudrais avant de détourner mon attention de l'homme, non pas répéter
+froidement et sans utilité ce qui a été raconté par lui avec tant de feu
+et ce que chacun a lu, mais montrer, par quelques épisodes de cette vie
+si remplie, en quoi le rôle du coadju-</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 73</p>
+<p>(1) Page 83 des Mémoires de Retz.</p>
+<p><pb/></p>
+<p>74 LE CARDINAL DE RETZ</p>
+<p>grossiers subterfuges ne sauraient tromper le lecteur, auquel il a déjà
+donné le temps de le connaître dans de longues et fréquentes confidences.</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS. 75</p>
+<p><pb/></p>
+<p>76 LE CARDINAL DE RETZ</p>
+<p>le parti possible, parce qu'il voit beaucoup plus loin, et qu'au lieu de
+se laisser détourner de sa route, comme le fait souvent Retz, par les
+conseils de son amour-propre et des considérations d'intérêt personnel,
+il poursuit avec une volonté inébranlable un but déterminé dès le
+principe, et que, l'ayant toujours en vue, il se sert de tout pour
+l'atteindre.</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS. 77</p>
+<p><pb/></p>
+<p>78 LE CARDINAL DE RETZ</p>
+<p>peuvent ainsi témoigner de son réel amour du bien public.</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 79</p>
+<p><pb/></p>
+<p>80 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 81</p>
+<p><pb/></p>
+<p>82 LE CARDINAL DE RETZ</p>
+<p>des meilleures inspirations de Mazarin, et qu'elle mit ses affaires "
+dans un prodigieux décréditement ».</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 83</p>
+<p>(1) Page 178 des Mémoires de Retz.</p>
+<p><pb/></p>
+<p>84 LE CARDINAL DE RETZ</p>
+<p>Cette scène, que Molière n'aurait pas refusée dans son Malade
+imaginaire, est significative, et elle n'aurait point été citée ici, si
+elle ne démontrait que dans les Mémoires de Retz comme dans la Fronde
+dont ils sont une fidèle image, les plus bizarres aventures accompagnent
+souvent les événements les plus sérieux, et qu'une partie au moins de
+cette époque, sinon la Fronde entière comme l'aurait voulu un de ses
+principaux acteurs (1), devrait être chantée en vers burlesques.</p>
+<p>(1) Condé.</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 85</p>
+<p>pé5.</p>
+<p><pb/></p>
+<p>86 LE CARDINAL DE RETZ</p>
+<p>(1) Ce trait caractérise l'éloquence de Retz, qui est presque toujours
+de l'adresse et un merveilleux esprit</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 87</p>
+<p><pb/></p>
+<p>88 LE CARDINAL DE RETZ</p>
+<p>(1) In difficillimis reipublicoe temporibus, urbem non deserui ; in
+prosperis, nihil de publico delibavi ; in desperatis, nihil timui.</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 89</p>
+<p><pb/></p>
+<p>90 LE CARDINAL DE RETZ</p>
+<p>Ayant appris que Condé, revenu de la Guienne et irrité des cabales que
+Retz forme contre lui, veut le faire enlever, il s'enferme dans les
+tours de Notre-Dame et s'y barricade. Avec</p>
+<p>(1) Eodem animo scripsit quo bellavit.</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 91</p>
+<p><pb/></p>
+<p>92 LE CARDINAL DE RETZ</p>
+<p>la justice est devenu un camp ; ses vestibules sont encombrés, ses
+portes obstruées ; des mots et des signes de ralliement sont transmis ;
+on en viendrait aux mains sans l'intervention de l'intrépide Molé, et
+Retz, s'étant rendu dans une salle voisine, est sur le point d'être
+assassiné (1) par La Rochefoucauld et Coligny.</p>
+<p>Le lendemain, le coadjuteur, présidant la grande procession des
+cordeliers, se croise dans la rue avec Condé et ce même parti qui a
+failli l'égorger la veille ; l'escorte s'arrête ; Condé descend de son
+carrosse, s'agenouille devant le prélat, et celui ci lui donne gravement
+sa bénédiction.</p>
+<p>O la singulière époque et qu'elle serait bur(1)</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 93</p>
+<p>lesque si la guerre civile pouvait jamais avoir ce caractère ! O le
+singulier prélat et quel dégoût il inspirerait souvent par ses actes,
+s'il n'avait pas l'art d'exciter tant d'intérêt par ses récits !</p>
+<p><pb/></p>
+<p>94 LE CARDINAL DE RETZ</p>
+<p>et pour le bien de tous offrir sa vie en holocauste !</p>
+<p>V.</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 95</p>
+<p>Ces grands côtés, Retz a su les voir et les comprendre. S'il en a peu
+tenu compte dans la pratique, ils lui ont apparu dans sa retraite
+brillants et lumineux, et cet inimitable maître, ca-</p>
+<p><pb/></p>
+<p>96 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 97</p>
+<p>fait amèrement regretter la liberté, et où la liberté est si souvent
+l'anarchie qu'on y regretterait la servitude, si la servitude pouvait
+jamais être regrettée.</p>
+<p>" Les rois, » dit-il ailleurs, " qui ont connu « leurs véritables
+intérêts, ont rendu les parle" ments dépositaires de leurs ordonnances
+pour " se décharger d'une partie de l'envie et de la " haine que
+l'exécution des plus saintes et " même des plus nécessaires produit
+quelque-</p>
+<p><pb/></p>
+<p>98 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 99</p>
+<p>clare que Richelieu a conçu et exécuté deux desseins ce qui lui
+paraissent presque aussi vastes " que ceux des César et des Alexandre »,
+celui de faire cesser les guerres de religion et celui d'abattre la
+formidable maison d'Autriche ; mais il ne lui pardonne point son
+despotisme, et il fait remarquer non sans raison que, « si le des« tin
+lui avait donné un successeur de son mé" rite, la qualité de premier
+ministre aurait " rappelé en France celle si odieuse des maires " du
+palais ou des comtes de Paris ».</p>
+<p>On ne saurait s'étonner de rencontrer ces sentiments chez une des
+victimes de ce despotisme. On doit même féliciter Gondi d'avoir été
+équitable et clairvoyant au point de ne s'être pas laissé influencer par
+la répulsion qu'inspirait aux contemporains de Richelieu l'odieux des
+moyens employés, et d'avoir su reconnaître, tout en réprouvant la voie
+choisie pour l'atteindre, la grandeur du but poursuivi. Ce n'est pas en
+effet ce qui arrive d'habitude. Le des-</p>
+<p><pb/></p>
+<p>100 LE CARDINAL DE RETZ</p>
+<p>Aussi Retz doit-il être loué d'avoir compris Richelieu, tout en le
+condamnant, et excusé d'avoir entièrement méconnu Mazarin, si toutefois
+il l'a méconnu, car, Mazarin étant son adversaire, Gondi avait intérêt à
+le présenter dans son livre sous un jour défavorable.</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 101</p>
+<p><pb/></p>
+<p>102 LE CARDINAL DE RETZ</p>
+<p>moins iniques, parce qu'ils accusent la faiblesse de celui qui les emploie.</p>
+<p>Et d'ailleurs, comme le fait observer avec raison Gondi, le mal qui
+allait éclater avait depuis longtemps montré ses symptômes. « Le
+renverse" ment des anciennes lois, l'anéantissement de « ce milieu
+qu'elles ont posé entre les peuples « et les rois, l'établisement de
+l'autorité pu« rement et absolument despotique sont, dit " Retz, les
+motifs qui ont jeté tout d'abord la « France dans les convulsions dans
+lesquelles " nos pères l'ont vue. Le cardinal de Richelieu « la vint
+traiter comme un empirique avec des « remèdes violents qui lui firent
+paraître de la « force, mais une force d'agitation qui en épuisa " le
+corps et les parties. Le cardinal Mazarin, « comme un médecin
+très-inexpérimenté, ne " connut point son abattement. Il ne le soutint «
+point par les secrets chimiques de son prédé" cesseur ; il continua de
+l'affaiblir par des sai" gnées ; elle tomba en léthargie et il fut assez</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 103</p>
+<p><pb/></p>
+<p>104 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 105</p>
+<p>" droit des peuples et de celui des rois qui ne " s'accordent jamais si
+bien ensemble que dans " le silence. »</p>
+<p>Mais le moment n'était pas encore venu d'atteindre ce grand but. Il
+aurait fallu d'autres acteurs, des besoins plus pressants de change6.</p>
+<p>change6.</p>
+<p><pb/></p>
+<p>106 LE CARDINAL DE RETZ</p>
+<p>Sans avoir deviné ce qu'il était alors impossible de prévoir, il est
+certain que Retz a eu une perception confuse, sinon des grandes choses
+qui devaient être réalisées dans le siècle suivant, au moins des
+ressorts qui devaient les mettre en mouvement.</p>
+<p>« Je sais, » dit-il dans une de ses conversations soit avec Condé, soit
+avec le duc de Bouillon, véritables morceaux d'éloquence qu'il prétend
+reproduire dans toute leur exactitude,</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 107</p>
+<p>Et plus loin : " Les grandes affaires consistent " encore plus dans
+l'imagination que les petites, " Celle des peuples fait quelquefois
+toute seule " la guerre civile. »</p>
+<p><pb/></p>
+<p>108 LE CARDINAL DE RETZ</p>
+<p>" Les actions extraordinaires » , dit-il ailleurs, " ressemblent au coup
+de foudre : le tonnerre " ne fait jamais de violents éclats, ni des
+effets " dangereux, que quand les exhalaisons dont il " se forme se sont
+longtemps combattues. Il en " est ainsi des révolutions dans les grandes
+" affaires : si elles n'ont pas été méditées long" temps, leur effet est
+presque nul. »</p>
+<p>Ne croit-on pas, en lisant ces fortes maximes, qu'elles sont extraites
+d'une histoire de la révolution française, et, pour retrouver une
+pareille opinion ainsi exprimée sur le peuple, ne faut-il pas franchir
+tout le règne de Louis XIV, pendant lequel on est étonné de la voir
+exprimée, et, s'avançant d'un siècle, arriver jusqu'au tiers-état de
+l'abbé Sieyès ?</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 109</p>
+<p>D'un côté, nous vovons ce courage audacieux</p>
+<p><pb/></p>
+<p>110 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 111</p>
+<p><pb/></p>
+<p>112 LE CARDINAL DE RETZ</p>
+<p>français qui gardaient le silence, l'honneur de son pays outragé (1);
+enfin cette hauteur de vues, cette profondeur dans les jugements, cette
+rapide justesse dans le coup d'oeil qui lui permet de lier sûrement les
+effets aux causes et de pénétrer presque au fond des destinées d'un
+grand peuple.</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 113</p>
+<p>« comme de la chambre basse de Londres, de Fairfax et " de Cromwell. »</p>
+<p><pb/></p>
+<p>114 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 115</p>
+<p><pb/></p>
+<p>116 LE CARDINAL DE RETZ</p>
+<p>Mais si, dans les Mémoires du cardinal de Retz, on assiste à
+l'artificieuse exposition d'une conduite coupable, on voit ensuite
+survenir par une équitable compensation les conséquences de cette
+conduite, et ce spectacle triste mais saisissant offre un enseignement
+d'autant plus persuasif, qu'il n'est pas indiqué et qu'il ressort avec
+force des actes mêmes.</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 117</p>
+<p>(1 ) Page 418 des Mémoires de Retz. (2) Alexandre VII.</p>
+<p><pb/></p>
+<p>118 LE CARDINAL DE RETZ</p>
+<p>(2) Guy Joly.</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 119</p>
+<p>Quel spectacle pénible, mais instructif! Comme cet admirable livre,
+aussi complet que les oeuvres antiques, nous montre les châtiments après
+les fautes et les plus déréglés desseins suivis des plus rudes mécomptes !</p>
+<p><pb/></p>
+<p>120 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>DEUXIEME PAIRTE L'ÉCRIVAIN</p>
+<p>I</p>
+<p>7.</p>
+<p><pb/></p>
+<p>122 LE CARDINAL DE RETZ</p>
+<p>dans ses allures, il ne porte pas les traces de son origine. Le style
+est l'homme.</p>
+<p>Or toutes ces influences se réunissent pour faire du style de Retz, le
+style le plus transparent, le plus personnel, et, en quelque sorte, le
+plus imprégné des idées et des sentiments de l'auteur. C'est lui-même
+qui est en scène ; ce sont des actes d'un intérêt très-vif, même pour
+ceux qui y sont étrangers, qu'il raconte, et il les évoque de nouveau
+avec cette ardente imagination qui,</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 123</p>
+<p>(1) Brossette a dit, des Mémoires du cardinal : « Ils me rendent
+séditieux. »</p>
+<p><pb/></p>
+<p>124 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 125</p>
+<p>ments, il se sert de tout pour rendre cette entraînante pensée, trouvant
+l'expression saus beaucoup la chercher, la créant même quand elle lui
+manque.</p>
+<p><pb/></p>
+<p>126 LE CARDINAL DE RETZ</p>
+<p>prunelle de l'oeil par la révocation des intendants.</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 127</p>
+<p>Et ailleurs : « Mazarin se faisait un grand « mérite de ce qu'il avait
+fait évanouir avec un « peu de poudre d'alchimie cette nuée de pré"
+tentions. Vous verrez par la suite qu'il eût " fait sagement d'y mêler
+un peu d'or. »</p>
+<p><pb/></p>
+<p>128 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 129</p>
+<p><pb/></p>
+<p>130 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 131</p>
+<p><pb/></p>
+<p>132 LE CARDINAL DE RETZ</p>
+<p>C'est ce qui distingue si complétement Gondi d'un de ses adversaires
+dans l'action, devenu plus tard son rival comme écrivain. Il va, entre
+les deux principaux auteurs des Mémoires de la Fronde, la même
+différence qu'entre leurs caractères, et, si je ne craignais de revenir
+sur cette liaison qui existe et doit nécessairement exister entre le
+style et l'homme, je dirais que nuls plus que La Rochefoucauld et Retz
+ne peuvent en donner un éclatant exemple.</p>
+<p>Timide (1),froid, élégant et délicat,La Rochefoucauld a écrit des
+Mémoires d'un style froid comme lui-même, plein de grâce et d'élégance,
+correct jusqu'au raffinement, mais sans effort apparent et relevé aux
+yeux du grand seigneur qui ne voudrait pas paraître homme du métier par
+une négligence affectée et qui lui semble du meil(1)</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÈCRITS 133</p>
+<p><pb/></p>
+<p>134 LE CARDINAL DE RETZ</p>
+<p>obligé de vaincre de trop favorables dispositions pour pouvoir sainement
+juger celui qui le ravit. Né, avant tout, homme de faction, il s'est
+toujours complu dans la lutte, même lorqu'il l'a racontée. Aussi son
+oeuvre est elle un tableau vivant qui nous transporte dans les lieux
+qu'il décrit et qui nous fait toucher du doigt tous les personnages
+qu'il met en scène. Chez lui, tout est génie: seuls, le soin et l'étude
+ont manqué. Les défauts de la forme sont quelquefois choquants, mais ils
+ne sauraient faire oublier cette force de la pensée et cette attachante
+vivacité que rendent au contraire plus saillantes tantôt la rudesse,
+tantôt le laisser-aller du langage.</p>
+<p>Le style de Retz n'a une certaine analogie et comme un air de famille
+qu'avec celui de Voltaire. C'est la même clarté brillante, la même
+facilité gracieuse; c'est cette heureuse simplicité plus naïve chez
+Retz, plus correcte chez l'écrivain du XVIIIe siècle ; c'est la même
+fluidité dans les expressions, le même procédé rapide et courant;</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 135</p>
+<p><pb/></p>
+<p>136 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 137</p>
+<p>fection qui a élevé si haut tant d'illustres contemporains, mais il n'en
+a que plus aisément conservé ce qui caractérisait cette glorieuse
+époque: la mâle vigueur.</p>
+<p>II.</p>
+<p>« Il y a autant de différence » , dit Retz « entre un récit que l'on
+fait sur des mémoires, « quoique bons, et une narration de faits que "
+l'on a vus soi-même, qu'il y en a entre un " portrait auquel on ne
+travaille que sur des « ouï-dire et une copie que l'on tire sur les "
+originaux. »</p>
+<p>Retz a encore ici raison, et les mémoires l'emporteraient
+incontestablement sur l'histoire, si le seul mérite d'un récit était la
+vie et la force, et si l'on ne se préoccupait dans ses lectures que de
+son agrément. Mais, aux yeux de ceux qui</p>
+<p><pb/></p>
+<p>138 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 139</p>
+<p><pb/></p>
+<p>140 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 141</p>
+<p>les travers, et les couvrir de ridicule ; il a su enfin peindre soit les
+moeurs de son temps, soit l'homme lui-même, par quelques-uns de ces
+traits vifs et précis qui appellent l'attention et se fixent dans
+l'esprit par leur énergique brièveté.</p>
+<p><pb/></p>
+<p>142 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 143</p>
+<p>" actions ont vu devant les autres le point de " leur possibilité ».</p>
+<p><pb/></p>
+<p>144 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 145</p>
+<p>est d'autant plus vrai qu'il ne fait que se souvenir, et, comme La
+Rochefoucauld, érige en maxime ce qu'il a vu pratiquer autour de lui, ou
+par lui-même.</p>
+<p><pb/></p>
+<p>146 LE CARDINAL DE RETZ</p>
+<p>Beaufort, Mathieu Molé, Turenne, Conti, La Rochefoucauld, madame de
+Longueville, madame et mademoiselle de Chevreuse, madame de Montbazon,
+et nous voyons passer devant nous tous ces personnages qui désormais
+nous sont si bien connus que leur nom prononcé nous représentera
+aussitôt un être vivant.</p>
+<p>L'écrivain a abusé, a-t-on remarqué avec raison, des oppositions et des
+contrastes ; l'antithèse lui est familière et il y a bien un peu
+d'enluminure dans ces éclatantes images. Eh! qu'importent les procédés?
+Il a pleinement réussi ; ses figures vivent, parlent, marchent et sont
+merveilleusement animées ; que faut-il de plus ? Peut-on être sévère
+pour les moyens en présence d'un pareil résultat, et faut-il, devant un
+admirable tableau, analyser toutes les couleurs tirées de la palette du
+peintre?</p>
+<p>Aussi ressemblants que pleins de vie, les portraits de Retz sont pour la
+plupart tracés avec exactitude, même quand un ennemi pose devant</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 147</p>
+<p>C'est ainsi qu'après avoir fait de Mathieu Molé un magnifique portrait
+et s'être écrié : « Si ce « n'était pas une espèce de blasphème de dire
+" qu'il y a quelqu'un dans notre siècle plus in« trépide que le grand
+Gustave et M. le prince, " je dirais que ça été Molé ; » il fait voir le
+premier président traversant l'émeute pour se rendre au Palais-Royal ;
+s'y trouvant exposé aux menaces du peuple irrité, conservant toujours et
+dans ses paroles et sur son visage la dignité du</p>
+<p><pb/></p>
+<p>148 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 149</p>
+<p><pb/></p>
+<p>150 LE CARDINAL DE RETZ</p>
+<p>III</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 151</p>
+<p>Pour lui, comme pour La Rochefoucauld, le coeur de l'homme n'a pas de
+secret. Ces deux pénétrants esprits ont su, aussi bien l'un que l'autre,
+démêler les véritables mobiles de bien des actes : mais l'un l'a fait en
+observateur et, pour ainsi dire, sans autre intention que de constater
+plus tard le résultat de ses études ; l'autre a approfondi l'homme afin
+de le dominer et n'a analysé les travers et les défauts d'autrui que
+pour atteindre plus aisément le but poursuivi par son ambition. Cette
+différence dans le point de départ explique et rend naturelle la
+différence qui existe aussi dans les résultats. Tandis que le</p>
+<p><pb/></p>
+<p>152 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 15o</p>
+<p><pb/></p>
+<p>134 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 155</p>
+<p>" cours était que, quoi que je pusse faire, je " ne pourrais rien faire
+qu'il ne pût dire m'a« voir défendu. »</p>
+<p><pb/></p>
+<p>156 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 157</p>
+<p>empêche le sage gouvernement de soi-même, la faiblesse qui fait tomber
+sous la dangereuse domination d'autrui.</p>
+<p>« solution, de la résolution au choix des moyens,</p>
+<p>9.</p>
+<p><pb/></p>
+<p>158 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 159</p>
+<p>seconde fois sortir de Paris le roi. Il court aussitôt avec mademoiselle
+de Chevreuse chez Gaston.</p>
+<p><pb/></p>
+<p>160 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 161</p>
+<p>" car il était dans un emportement inconceva"</p>
+<p>inconceva" et l'on eût dit, de la manière dont il parlait,</p>
+<p>cam« de Saint Denis et de Grenelle. Madame</p>
+<p>« était épouvantée, et je vous avoue que, quoi«</p>
+<p>quoi« je connusse assez Monsieur pour ne me</p>
+<p>« pas donner avec précipitation des idées si</p>
+<p>" cruelles de son discours, je ne laissais pas de</p>
+<p>« croire qu'il était, en effet, plus ému qu'à</p>
+<p>« son ordinaire</p>
+<p>« Je ferai demain la guerre, dit Monsieur d'un</p>
+<p>" ton guerrier ; je la ferai et plus facilement que</p>
+<p>« Il croyait que j'allais lui disputer cette thèse,</p>
+<p>" Je m'aperçus qu'il le voulait pour pouvoir</p>
+<p>" dire après qu'il aurait fait des merveilles si on</p>
+<p>« ne l'avait retenu. Je ne lui en donnai pas lieu,</p>
+<p>« car je lui répondis froidement et sans m'é«</p>
+<p>m'é« : Sans doute, Monsieur. — Le</p>
+<p><pb/></p>
+<p>162 LE CARDINAL DE RETZ</p>
+<p>« Monsieur. — Oui, lui repartis-je. — M. le " Prince ne reviendra-t-il
+pas si je le mande? " ajouta-t-il. — Je le crois, Monsieur. — " L'armée
+d'Espagne ne s'avancera t-elle pas si « je le veux ? continua-t-il. —
+Toutes les appa« ces y sont, lui répliquai-je. »</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 163</p>
+<p><pb/></p>
+<p>164 LE CARDINAL DE RETZ</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 165</p>
+<p>serait-il suffisamment récompensé de son désintéressement et de son
+courage, si, se contentant de le louer, l'historien de la Fronde n'avait
+pas attaqué la corruption et la faiblesse de ceux qui l'entouraient ?</p>
+<p>Les Mémoires de Saint-Simon et ceux de Retz ont été, pour l'un et pour
+l'autre, comme le refuge dans lequel ils se sont retirés, se séparant</p>
+<p><pb/></p>
+<p>166 LE CARDINAL DE RETZ</p>
+<p>Mais l'un, plus spectateur qu'acteur, peintre sans pareil de tableaux
+incomparables par la couleur comme par le relief, a presque complétement
+disparu devant les personnages qu'il a représentés; l'autre, se tenant
+toujours en scène,</p>
+<p><pb/></p>
+<p>SON GÉNIE ET SES ÉCRITS 167</p>
+<p>a attiré principalement sur lui une attention qui lui a été souvent
+funeste. En retour, il y a bien plus de force dans son récit, bien plus
+de vie dans son style, bien plus de rapidité dans sa marche, et, si son
+livre est la condamnation de sa conduite, il renferme en même temps sa
+plus éclatante défense, et l'on est presque tenté de lui pardonner ses
+actes, puisqu'il les a racontés lui même.</p>
+<p>FIN.</p>
+<p>1170. — IMPRIMERIE BRIEZ, C. PAILLART ET RETAUX.</p>
+    </div>
+    </body>
+  </text>
+</TEI>

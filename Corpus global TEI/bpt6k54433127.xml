@@ -1,0 +1,1863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Fournel, Victor (1829-1894)">Victor Fournel</author>
+<title>De Jean-Baptiste Rousseau à André Chénier : études littéraires et morales sur le XVIIIe siècle / Victor Fournel</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Fournel, Victor (1829-1894)</author>, <title>De Jean-Baptiste Rousseau à André Chénier : études littéraires et morales sur le XVIIIe siècle / Victor Fournel</title>, <date>1886</date>,description :,354 pages
+</bibl>
+<publisher>Firmin-Didot (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k54433127</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1886">1886</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p>Illisibilité partielle</p>
+<p>Contraste insuffisant NFZ 43-120-14</p>
+<p>Valable pour tout ou partie du document reproduit</p>
+<p>RELIURE SERREE Absence de marges intérieures</p>
+<p><pb/></p>
+<p>Couvertures supérieure et inférieure en couleur</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>A LA MÊME LIBRAIRIE</p>
+<p>CLASSIQUES FRANÇAIS</p>
+<p>COLLECTION IN-18 JÉSUS</p>
+<p>Beaumarchais. Théâtre, i vol. 8 fr. Bernardin de Saint-Pierre</p>
+<p>Paul et Virginie. 1 vol 3 fr.</p>
+<p>— Études de la nature. 1 vol.... 3 f r.</p>
+<p>Boileau. OEuvres. 1 vol 3 fr.</p>
+<p>Bossuet. Sermons. 1 vol 3 f r.</p>
+<p>— Oraisons funèbres. 1 vol 3 f r.</p>
+<p>— Discoure. 1 vol 3 fr.</p>
+<p>Bulfon. Époques de la nature.</p>
+<p>lvol 8 fr.</p>
+<p>— Les Animaux. 1 vol 3 fr.</p>
+<p>Chateaubriand. Atala. 1 vol... A fr</p>
+<p>— Génie du Christianisme. 2 vol.. 6 f r.</p>
+<p>— Martyrs. 1 Vol 8 f r.</p>
+<p>— Natcliez. 1 vol 3 f r.</p>
+<p>3 vol 6 fr.</p>
+<p>— Mélanges politiques et littéraires. 1 vol 3 f r.</p>
+<p>— Études historiques. 1 vol 3 f r.</p>
+<p>— Analyse raisonné© de l'histoire</p>
+<p>de France. 1 vol 3 fr</p>
+<p>Chtfi cPceucre tragique». 2 vol 6 f r.</p>
+<p>Chefs cToeucie comiques, 8 vol 24 fr.</p>
+<p>Cheft-fceuci* ' Utoiiquet. 2 vol 6 f r.</p>
+<p>Clatslquu de la table. 2 vol 6 fr.</p>
+<p>Corneille. Théâtre. 2 vol 6 f r.</p>
+<p>Courier (Paul-Louis). OEuvres.</p>
+<p>lvol 3fr.</p>
+<p>Cuvler. Discours. 1 vol 3 fi.</p>
+<p>D'Aguesseau. OEuvres choisies.</p>
+<p>1 vol 3 fi</p>
+<p>Delavlgne (Casimir). OEuvres</p>
+<p>complètes. 4 vol 14 fr.</p>
+<p>— Poésies, Messénlennes et OEuvres posthumes 4 fr.</p>
+<p>Delllle. OEuvres choisies. 1 vol... A fr.</p>
+<p>Diderot. OEuvres choisies. 2 vol . fi fr.</p>
+<p>Fénelon. Télémaque. 1 vol 3 fr.</p>
+<p>— Éducation des filles. 1 vol .... 3 fr.</p>
+<p>— Existence de Dieu. 1 vol 3 fr.</p>
+<p>Florian. Fables. 1 vol 3 fr.</p>
+<p>Florlan. Don Quichotte. 1 vol. . 8 fr.</p>
+<p>La Bruyère. Caractères. 1 vol.. S fr.</p>
+<p>La Fontaine. Fables. 1 vol 3 fr.</p>
+<p>La Rochefoucauld. 1 vol 3 fr.</p>
+<p>Le Sage. OU Blas. 1 vol....".... 3 f r.</p>
+<p>Malstre ( Xavier do ). 1 vol 3 fr.</p>
+<p>Malherbe. J.-B. Rousseau. Lebrun. I vol 3 fr.</p>
+<p>Marmontel. Littérature. 3 vol . 9 fr.</p>
+<p>Massillon. Petit Carême. 1 vol.. 3 fr.</p>
+<p>Maury. Éloquence. 1 vol 3 fr.</p>
+<p>Molière. Théâtre. 2 vol k6 fr.</p>
+<p>Montaigne. 9 vol 6 fr.</p>
+<p>Montesquieu. Grandeur. 1 vol . .4 fr,</p>
+<p>— Esprit des lois. 1 vol 3 fr.</p>
+<p>Pascal. Provinciales. 1 vol 8 fr.</p>
+<p>— Pensées. 1 vol 3 fr.</p>
+<p>Rabelais. OEuvres. 2 vol 8 fr.</p>
+<p>Raoine (Louis). Polme de la Bellgion.</p>
+<p>Bellgion. 3 f r.</p>
+<p>Raolne. Théâtre. 1 vol 8 f r.</p>
+<p>Regnard. OEuvres diverses. 1 vol. 3 fr.</p>
+<p>Ronsard. Choix de poésies. 2 vol. 8 fr. Rousseau. Nouvelle Hélotse.</p>
+<p>1 vol 3 fr.</p>
+<p>— Emile. 1 vol 3 fr.</p>
+<p>— Confessions. 1 vol 3 f r.</p>
+<p>— Petits chefs d'oeuvre. 1 vol.... 8 fr. S6vigne. Choix do lettres. 1
+vol. S fr.</p>
+<p>— Lettres complètes. 6 vol 18 fr.</p>
+<p>Staël (de). De l'Allemagne. 1 vol. 3 fr</p>
+<p>— Corinne. 1 vol 8 f r.</p>
+<p>— Delphine. 1 vol 8 f r</p>
+<p>Voltaire. Commentaires sur Corneille. 1 vol ,... 3 f r</p>
+<p>— Hcnriade. 1 vol 3 fr.</p>
+<p>— Théâtre, lvol....' 3 fr.</p>
+<p>— Siècle de Louis XIV. 1 vol.... 3 f r</p>
+<p>— Siècle de Louis XV. 1 vol 3 fr</p>
+<p>— Charles XIL.l.vôl , 3 fr</p>
+<p>— Contes, lvol 3 fr</p>
+<p>— Romans. 1 vol 3 fr.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>DE</p>
+<p>x~4</p>
+<p>I</p>
+<p>saJEAN-BAPTISTE</p>
+<p>saJEAN-BAPTISTE</p>
+<p>ANDRE CIIÉNIER.</p>
+<p>o</p>
+<p>r</p>
+<p>-J</p>
+<p>10 h '(&amp;</p>
+<p><pb/></p>
+<p>DU MÊME AUTEUR. EN VENTE A LA MÊME LIBRAIRIE :</p>
+<p>De Malherbe a Bossuet, Études littéraires et morales sur h XVII" siècle.
+Un vol. in-18. — Piix 3 fr.</p>
+<p>TYPOGRAPHIE FIHMIN-D1DOT. - MES..ML (EURE).</p>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>'DE</p>
+<p>JEAN-BAPTISTE ROUSSEAU</p>
+<p>A</p>
+<p>ANDRÉ GHÉNIER. I.</p>
+<p>JEAN-BAPTISTE ROUSSEAU.</p>
+<p>DÉ J.-B. ROUSSEAU A ANDRÉ OHÉNfEB. 1</p>
+<p><pb/></p>
+<p>tt*</p>
+<p>2 ' DE J.-B. ROUSSEAU A ANDRÉ CHÉ*NIER.</p>
+<p>son talent de prédicateur; celui-là, un poète qu'on a longtemps regardé
+comme le plus grand de nos lyriques.</p>
+<p><pb/></p>
+<p>JEAN-BAPTISTE ROUSSEAU. 3</p>
+<p><pb/></p>
+<p>4 ' DE J.-B. ROUSSEAU A ANDRÉ* CHÊNIER.</p>
+<p>retour, trouva en M. Rouillé du Coudray, directeur des finances, une
+sorte de Mécène qui l'accueillit en ami dans son opulente maison. Libre
+ainsi de tout souci matériel, J.-B. Rousseau put se livrer librement à
+èon goût pour la poésie. Il vivait dans la société intime de la Fare, de
+Chaulieu et de tous les hôtes du Temple, oh il puisait de plus en plus,
+avec l'amour des vers, celui de l'indépendance et de l'épicuréisme
+pratiqués,</p>
+<p><pb/></p>
+<p>JEAN-BAPTISTE ItOUSSEAU. 5</p>
+<p><pb/></p>
+<p>6 DE J.-B. ROUSSEAU A ANDRÉ CHÉNIER.</p>
+<p><pb/></p>
+<p>JEAN-BAPTISTE ROUSSEAU. 7</p>
+<p>Ce triste épisode de notre histoire littéraire no dura pas moins d'une
+douzaine d'années, avec des périodes d'accalmie, suivies de reprises
+plus vio-</p>
+<p><pb/></p>
+<p>8 DE J.-B. ROUSSEAU A ANDRÉ CHÉN1ER.,</p>
+<p><pb/></p>
+<p>JEAN-BAPTISTE ROUSSEAU. 9</p>
+<p><pb/></p>
+<p>10 DE J.-B. ROUSSEAU A ANDRÉ CHÊN1ER..</p>
+<p><pb/></p>
+<p>JEAN-BAPTISTE ROUSSEAU. 11</p>
+<p>Trois défauts caractéristiques nous frappent tout d'abord dans ses odes
+: l'abus excessif de la mythologie, le luxe et la multiplicité des
+épithètes, l'emploi fréquent des termes abstraits et des
+personnifications métaphysiques.</p>
+<p><pb/></p>
+<p>12 DE J.-B. ROUSSEAU A ANDRÉ CHÊNIER.</p>
+<p>O'est de l'emploi des épithètes que Rousseau tire le plus souvent ses
+effets de style. Généralement, il sait les fondre avec habileté daus le
+tissu de sa poésie, mais il lui arrive de les prodiguer sans mesure et,
+en croyant atteindre l'énergie et la grandeur, de n'atteindre que
+l'emphase. Il suffira, pour montrer jusqu'où il pousse quelquefois
+l'abus des adjectifs, de</p>
+<p><pb/></p>
+<p>JEAN-BAPTISTE ROUSSEAU. 13</p>
+<p>citer cette strophe de l'ode sur Malherbe, que la vieille critique
+admirait beaucoup :</p>
+<p>Impitoyables Zoiles, Plus soui ds que le noir Pluton, Souvenez-vous,
+âmes viles, Du sort de Yaffieux Python. Chez les Filles de mémoireAllez
+apprendre l'histoire De ce serpent abhorré, Dont l'haleine détestée De
+sa vapeur empestée, Souille le séjour sacré!</p>
+<p>Synonymes do la penste, Symboles de l'abstraction.</p>
+<p><pb/></p>
+<p>;</p>
+<p>14 DE J.-B. ROUSSEAU A ANDRÉ CHÉNIER.</p>
+<p>Ne nous étonnons donc plus qu'il en ait fait un usage aussi glacial.</p>
+<p>Daus VÊpître au baron de Breteuil, Rousseau so moque agréablement de ces
+poètes</p>
+<p>Tous de sang froid, s écriant : t Je m'égare! Pardon, Messieurs, j'imite
+trop Pindare. »</p>
+<p><pb/></p>
+<p>- - N ^ i' .</p>
+<p>JEAN-BAPTISTE ROUSSEAU. 10</p>
+<p><pb/></p>
+<p>10 DE J.-13. ROUSSEAU A ANDRÉ OHENIBR.</p>
+<p><pb/></p>
+<p>JKAN-DAPTISTB ROUSSEAU. % 17</p>
+<p>Le soin du style et du rythme, de la facture riche et sonore, le choix
+des tours rares et des épithètes, le sens profond de l'harmonie, la
+préoccupation de la rime riche, la place enfin que tiennent toutes les
+questions de forme dans sa manière de comprendre la poésie, le désignent
+comme le précurseur, sur plus d'uu point, d'une école contemporaine que
+son nom" fait probablement soutire de pitié, mais qui se montre bien
+aveugle et bien ingrate en ne le reconnaissant pas pour l'un de ses
+ancêtres.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>II.</p>
+<p>VOLTAIRE.</p>
+<p>I. — AROUET.</p>
+<p>/ ?</p>
+<p><pb/></p>
+<p>20 PB J.-B, ROUSSEAU A ANDRÉ OHÉN1ER.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 21</p>
+<p><pb/></p>
+<p>'X</p>
+<p>7</p>
+<p>22 DE J.-B. ROUSSEAU A ANDRE* OHÊ*NIER.</p>
+<p>ments qu'il fournit sur son compte, ressemble &amp; ces aventuriers qni
+cherchent a faire la nnit sur leurs actes en ayant l'air de les
+éclairer, et s'attachent, môme sans qu'un besoin immédiat le leur
+commande, a opposer les uns aux autres des documents contradictoires, a
+brouiller les dates et les faits, afin que le juge d'instruction ne s'y
+puisse retrouver le jour ou ils seiont mis en accusation.</p>
+<p><pb/></p>
+<p>V.OLTAIRE/' 23</p>
+<p>son grand ouvrage ( 1), où il a fait preuve de l'érudition la plus
+curieuse et d'une sincérité, d'une impartialité aussi grandes qu'on
+puisse l'attendre d'un écrivain qui a un faible, et ne s'en cache pas,
+non seulement pour le dix-huitième siècle, mais pour l'homme dont ce
+siècle est rempli. D'autres n'ont embrassé qu'un point, un épisode de sa
+jeunesse, si bien que les guides ne manquent pas pour étudier Arouet
+avant d'aborder Voltaire.</p>
+<p>On sait que la vieille courtisane lettrée et philosohe se prit d'une
+affection prophétique pour le bamin très éveillé qu'on avait trouvé
+plaisant de mener</p>
+<p>(1) Voltaire et la société au dix-huitième tiède, 8 vol.</p>
+<p><pb/></p>
+<p>24 DE J.-B. ROUSSEAU A ANDIttl OHÊNIER.</p>
+<p>Dans la jeunesse d'Arouet, ses années de collège ont été l'objet de
+recherches toutes particulières et</p>
+<p><pb/></p>
+<p>VOLTAIRE. 25</p>
+<p>(1) Voilait eau collège, 1 AOI. in-8°.</p>
+<p><pb/></p>
+<p>26 DE J.-B. ROUSSEAU A ANDRÉ" CHKNIER.</p>
+<p>(1) Voltaire et ses maîtres, 1 vol. in-18.</p>
+<p><pb/></p>
+<p>1 «^ »•</p>
+<p>^ - \</p>
+<p>h 1*'</p>
+<p>YOI/TAIRE. 27</p>
+<p><pb/></p>
+<p>28 DE J.-B. ROUSSEAU A ANDlré CHÊNIER.</p>
+<p>maîtres, ot toujours, lorsqu'il s'exprime eu sou nom personnel, sur le
+ton le plus affectueux, Il est vrai qu'il a fort rudement raillé leur
+enseignement, mais en respectant le souvenir do ses professeurs, au
+moins, selon la remarque peu charitable de son biographe, tant que les
+jésuites furent en faveur et qu'il eut besoin d'eux.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 20</p>
+<p><pb/></p>
+<p>30 DK J.'B. ROUSSEAU A ANDRÉ CHÉNIER.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 31</p>
+<p><pb/></p>
+<p>32 DE J,-B. ROUSSEAU A ANDRE* CHÉNIER.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 33</p>
+<p><pb/></p>
+<p>34 DE J.-B. ROUSSEAU A ANDRÉ CHÉNIER.</p>
+<p>naissante qui l'avait désigné aux soupçons. A l'en croire, ce qui
+l'affligea le plus, ce ne fut pas d'aller en prison, mais d'y aller pour
+de si méchants vers :</p>
+<p>Vois ce que l'on m'impute, et vois ce que j'écris.</p>
+<p>Mais faut-il s'en rapporter a un démenti si intéressé ?</p>
+<p><pb/></p>
+<p>VOLTAIRE. 35</p>
+<p>C'est précisément a propos (VOEdipe que le non-</p>
+<p><pb/></p>
+<p>36 DE J.-B. ROUSSEAU A ANDRÉ* CHENIER.</p>
+<p>II. — VOLTAIRE.</p>
+<p>Après la représentation ftdïdipe, Voltaire achève son grand poème de la
+TAgue» Il se trouva beaucoup de braves gens pour croire que la France
+avait enfin une épopée. Des critiques nomme Marmontel et la Harpe l'ont
+prouvé par raison démonstrative, en</p>
+<p><pb/></p>
+<p>VOLTAIRE. 37</p>
+<p>anjourDB ROUfiSKAU A ANOItft OnhNIEIt. 8</p>
+<p><pb/></p>
+<p>38 DE J.-B. ROUSSEAU A ANDRÉ CHENIER.</p>
+<p>d'hui la Henriade dans son ensemble et en entier, sinon par devoir
+professionnel (1)?</p>
+<p>(1) Croirait-on que la Henriade soit de toutes les oeuvres de Vol* taire
+cello qui a. eu le plus d'éditions I Nous n'en comptons pas moins de 117
+dans la Bibliographie de M. Bengesco. Elle a été traduite en une fou'e
+de langues mortes ou vivantes : en vers latin?, en anglais, en italien,
+en allemand, en hollandais, etc.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 39</p>
+<p>Cette aventure exerça une influence décisive sur celui qui en avait été
+la victime, et fut certainement grosse de conséquences. Après six mois
+de captivité, on le relâche, avec ordre de quitter la France. Il part
+sans avoir pu retrouver le chevalier de Rohan, et se rend en Angleterre.
+Son séjour dans ce pays développa en lui les germes du libre penseur. Il
+allait en revenir trempé dans le Styx et armé pour la lutte.</p>
+<p>Voltaire rapporte d'abord en France la tragédie de Brutu8j\nn8 les
+Lettres sur les Anglais, brûlées par</p>
+<p><pb/></p>
+<p>40 DE J.-B. ROUSSEAU A ANDRE* CHÉNIER.</p>
+<p>« M. de Voltaire ne sera jamais un personnage académique, » dit alors le
+gros de Boze d'un ton doctoral.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 41</p>
+<p><pb/></p>
+<p>42 DE J.-B. ROUSSEAU A ANDRE* CHÉNIER.</p>
+<p>d'indignation qui paraît tellement sincère, que, même en le connaissant,
+on s'y laisserait prendre, si l'on n'avait la preuve de son mensonge.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 43</p>
+<p><pb/></p>
+<p>44 DE J.-B. ROUSSEAU A ANDRÉ* OHÉNIER.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 45</p>
+<p>coro dans Zaïre (1732). — Zaïre! Cette tragédie tient assurément, avec
+Mêrope, la première place dans son théâtre et marque une date eu sa vie.
+Nous ne lui ferons pas tort en l'étudiant comme le meilleur type do son
+oeuvre dramatique.</p>
+<p>Voltaire écrivit Zaïre en vingt-deux jours ; il s'en vante dans
+VAvertissement et dans sa corresponlauce. — « Le sujet m'entraînait. La
+pièce se fai-</p>
+<p><pb/></p>
+<p>46 DE J.-B. ROUSSEAU A ANDRÉ* CHÊNIER.</p>
+<p>(1) Lettre &amp; M. de Formont.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 47</p>
+<p>de chaque scôno ; les patriotes, par les grands souvenirs do l'histoire
+de France; les chrétiens, par la chaleur des tirades religieuses et
+l'épisode de Lusignan ; les philosophes, par l'espèce d'égalité établie
+entre le christianisme et le mahométisrae, l'intérêt jeté sur Orosraane,
+les exemples de vertu, de grandeur d'âme et de générosité puisés dans
+les deux religions.</p>
+<p>Oui, je vais, mon cher Cideville,</p>
+<p>écrivait-il un mois avant la représentation,</p>
+<p>Vous envoyer incessamment La pièce où j'unis hardiment Et l'Alcoran et
+l'Évangile, Et justaucorps et doliman, Et la babouche et le bas blanc,
+Et le plumet et le turban...</p>
+<p><pb/></p>
+<p>48 DE J.-D. KOUSSEAU A ANDRÉ OHÉ*NIER.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 49</p>
+<p><pb/></p>
+<p>50 DE J.-B. ROUSSEAU A ANDRE* OHl?NIER.</p>
+<p>Dirai-je que deux ou trois gazetiers, opprobre de la littérature, firent
+de la critique et se firent huer? Mais qu'importent des gazetiers ? Pour
+ne pas sentir une telle oeuvre, de tels vers, il fallait être la plus
+abandonnée créature, un abbé Desfoutaines, un Fréron.»</p>
+<p><pb/></p>
+<p>VOLTAIRE. 51</p>
+<p>Ce n'est pas tout : l'auteur nous peint un Orient de fantaisie, comme il
+nous montre des chevaliers de romance. Le moyen âge de Voltaire est, à
+peu de</p>
+<p><pb/></p>
+<p>52 DE J.-B. ROUSSEAU A ANDRÉ* OIljfclER.</p>
+<p><pb/></p>
+<p>'-* ^' ,i\v</p>
+<p>VOLTAIRE. 53</p>
+<p>Après l'éclatant succès à! OEdipe, Voltaire avait essuyé successivement
+plusieurs échecs au théâtre, avec Artémise, Marianne, VIndiscret, Il
+s'était relevé un peu avec Brutus, qui n'eut pourtant pas plus</p>
+<p><pb/></p>
+<p>54 DK J.-B. HOUSSEAU A ANDItE* OIIÉNIEH.</p>
+<p>Après Adélaïde Duguesclin vinrent la Mort de César, cette tragédie non
+seulement sans amour, mais sans femmes, faite « dans le goût anglais »,
+d'après &lt;t l'ouvrage monstrueux » de Shakespeare, homme de génie,
+malheureusement gdïè par la gros-</p>
+<p><pb/></p>
+<p>VOI/TAIRK. 55</p>
+<p>eièretô de son siècle, — et qui peut passer pour la reine des tragédies
+de collège; puis la touchante Ahiret qui fit verser bien des larmes ;
+puis Mahomet, dont le pape Benoît XlVacoueillit l'hommage j puis Mérope,
+que le P. de Tournemine se chargea de présenter lui-môme au publio, dans
+une préface sous forme de lettre au P. de Brumoy, comme une de nos
+tragédies les plus parfaites, qui nous rendait la simplicité, le
+naturel, le pathétique d'Euripide, qui concourait a faire du théâtre une
+école des moeurs et où l'art du versificateur, aussi bien que celui du
+poète dramatique, s'était surpassé.</p>
+<p><pb/></p>
+<p>56 DE J.-I3. ROUSSKVU A ANDRÉ CHÈNIKR.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 57</p>
+<p>Voltaire s'écriait dans un bel accès d'indignation :</p>
+<p>On m'ose préférer Crébillon le barbare 1</p>
+<p><pb/></p>
+<p>c - ^ '</p>
+<p>/ 68 DE J.-B. ROUSSEAU A ANDRÉ CHÉNIER.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 59</p>
+<p>un même but, h tragédie, il eût surpassé Racine et peut-être égalé
+Orneille».</p>
+<p><pb/></p>
+<p>60 DE J.-B. ROUSSEAU A ANDBB* CHKNIEB.</p>
+<p>III. ~ VOLTAIRE ET FRÉDÉRIC.</p>
+<p><pb/></p>
+<p>"*^-\ *V &lt;Y "*/ &gt;l',£*'^y ^ *»v^*</p>
+<p>VOLTAIRE. 61</p>
+<p>Toutes les nations, — sauf la sienne, — étaieut représentées dans ce
+noyau de libres penseurs et de joyeux épicuriens que le roi de Prusse
+avait groupés autour de lui. Il s'y trouvait des Français, des Anglais,
+des Italiens; il s'y trouvait même un Alle4</p>
+<p>Alle4</p>
+<p><pb/></p>
+<p>&gt;V2</p>
+<p>62 DE J.-B. ROUSSEAU A ANDRÉ* OHÉNIER.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 63</p>
+<p><pb/></p>
+<p>64 DE J.-B. ROUSSEAU A ANDRÉ* CHÉNIËR.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 65</p>
+<p>qui se qualifiait Vathée du roi, comme jadis Scarron s'était appelé le
+malade de la reine, enfant perdu de la philosophie, sceptique et
+sensualiste, désavoué même par son propre parti, qu'il compromettait et
+qu'il effrayait, impudent bouffon, si grisé de matérialisme, que ses
+doctrines ressemblaient aux rêves d'un esprit aviné. Ce drôle
+licencieux, ce paillasse et cet Arétin d'un parti qui eût voulu pouvoir
+le secouer, mais auquel il s'attachait comme la gale ; ce philosophe de
+mauvais lieu, qui indignait Diderot, qui consternait d'Holbach et que
+d'Argens lui-même reniait, mais dont les gamineries sans frein
+charmaient Frédéric, peu délicat de sa nature, devait finir par crever
+d'indigestion pour avoir englouti goulûment un pâté tout farci de
+truffes et de lard au chevet d'un malade,—lordTyrconnel, — qui croyait
+lui-même,comme son médecin, que «Dieu (?) avait fait l'homme pour manger
+et pour boire ».</p>
+<p>4.</p>
+<p><pb/></p>
+<p>66 DE J.-B. ROUSSEAU A ANDRÉ CHÉNIER.</p>
+<p><pb/></p>
+<p>! *</p>
+<p>VOLTAIRE. 67</p>
+<p>« Courez vite, dit Mm 0 du Châtelet; on vous envoie sûrement les
+diamants de la couronue. »</p>
+<p>Voltaire courut, et trouva un quartaut de vin que le roi lui envoyait.
+Il s'épuisa en protestations d'é-</p>
+<p><pb/></p>
+<p>■&gt; - ,</p>
+<p>68 DE J.-B, ROUSSEAU A ANDBÉ OHÉNIER.</p>
+<p>tonnement et de reconnaissance sur les marques liquides des bontés de Sa
+Majesté, substituées aux solides dont elle Payait flatté jadis, et
+partagea le quartaut avec Oamas.</p>
+<p><pb/></p>
+<p>t</p>
+<p>VOLTAIRE. 69</p>
+<p>Voltaire était trop poli pour refuser ; et l'apôtre de la paix débuta
+par une déclaration de guerre, ne doutant point qu'un roi avec qui il
+sonpait, et qui l'appelait son ami, ne dût avoir toujours raison.</p>
+<p><pb/></p>
+<p>70 DE J.-B. ROUSSEAU A ANDBÊ* CHÊ*NIER.</p>
+<p>Quelques années plus tard, il devait revoir en</p>
+<p><pb/></p>
+<p>VOLTAIRE. 71</p>
+<p>C'est Richelieu qui, servant de trait d'union naturel entre les vices de
+Louis XV et l'impiété de Voltaire, qu'il réunissait en lui seul, imagina
+cette mission occulte, où le poète nous a donné la comédie a ses dépens,
+— une comédie rappelant par quelques points le Comte de Boursoufle, mais
+qui vaut mieux. En cette année 1743, dans la complication et
+l'entre-croisement d'intérêts qui venaient encore une fois de
+bouleverser l'échiquier sur lequel se jouait la longue partie de la
+succession d'Autriche, le grand Frédéric gardait l'attitude inquiétante
+du sphinx, et le gouvernement français avait un intérêt puissant à
+connaître ses dispositions secrètes.</p>
+<p><pb/></p>
+<p>72 DE J.-B. ROUSSEAU A -ANDRÉ" CHÉNIER.</p>
+<p><pb/></p>
+<p>Y0LTÀIR1?. 73</p>
+<p>DR J.*B. ROUSSEAU A ANDRÉ CHÊNIEtl. 6</p>
+<p><pb/></p>
+<p>74 DE J.-B. ROUSSEAU A ANDRÉ* OHÉNIER.</p>
+<p>Voulant éclaircir les soupçons qu'il avait conçus tout d'abord, Frédéric
+s'était avisé d'un moyen aussi simple qu'ingénieux et tout juste aussi
+peu scrupuleux que celui de Voltaire lui-même, car les deux</p>
+<p><pb/></p>
+<p>V VOLTAIRE. 75</p>
+<p><pb/></p>
+<p>*S*V</p>
+<p>76 DE J.-B. ROUSSEAU A ANDRÉ CHKNIER.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 77</p>
+<p><pb/></p>
+<p>78 DE J.-B. ROUSSEAU A ANDRlf CHÉ*NIER.</p>
+<p><pb/></p>
+<p>VOLTAIRE. " 79</p>
+<p>me de la chambre, d'huissiers, etc., il y avait un laquais qui venait
+allumer le feu, raser et habiller le roi, autant du moins que celui-ci
+le laissait faire. La chambre était assez belle : une riche balustrade
+d'argent semblait fermer l'estrade d'un lit dont on voyait les rideaux;
+mais derrière les rideaux s'élevait une bibliothèque, et quant au lit du
+roi, c'était un grabat de sangles avec un matelas mince, caché par un
+paravent.</p>
+<p>Vers les onze heures, Frédério, en bottés, faisait</p>
+<p><pb/></p>
+<p>80 DE J.-B. ROUSSEAU A Aï[DRÉ* CHÉ*NIER.</p>
+<p><pb/></p>
+<p>V&lt;r</p>
+<p>VOLTAIRB. . 81</p>
+<p><pb/></p>
+<p>? 82 DE J.-B. ROUSSEAU A ANDRÉ* CHÉNIER.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 83</p>
+<p><pb/></p>
+<p>84 DE J.-B. ROUSSEAU A ANDRÉ* CHÉ*NIER.</p>
+<p>Dès lors ce fut entre eux un commerce fort inégal de taquineries et
+d'amitiés, de brouilles et de raccommodements. Voltaire, avec son
+tempérament mobile</p>
+<p><pb/></p>
+<p>VOLTAIRE. 80</p>
+<p><pb/></p>
+<p>Illisibilité partielle</p>
+<p>Contrait» Insuffltant NFZ 43-120-14</p>
+<p>RELIURE SERREE Absence de marges intérieures</p>
+<p>Valable pour tout ou partie du document reproduit</p>
+<p><pb/></p>
+<p>80 1)K J.-H. KOUSSEAU A ANDHK* CH&amp;tttiR.</p>
+<p>de mauvais thé ; ils lo savent et se moquent de moi. Co qui me fait le
+plus de peine, c'est de voir un Voltaire distrait de ses idées sublimes
+pour de semblables misères. Ces bagatelles, dont vous pouvez vous
+passer, vous occasionnent, mon cher ami, des soucis peu dignes de vous.
+Eh bien! n'en parlons plus; je donnerai ordre qu'on les supprime. »</p>
+<p>Bientôt l'affaire du banquier juif Abraham Hirsch vint compliquer la
+situation. L'âpreté au gain, le peu de délicatesse et de scrupule dont
+Voltaire fit</p>
+<p><pb/></p>
+<p>VOLTAIKK. 87</p>
+<p><pb/></p>
+<p>88 DE J.-l). ROUSSEAU A ANDRE* CHÉNIER.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 89</p>
+<p><pb/></p>
+<p>00 DK J.-B. ROUSSEAU A ANDRK* OIIÉN1KR.</p>
+<p>balterne et d'un Prussien ; mais rien, ni les torts do Voltaire, ni ses
+machinations, ni ses mensonges, ni son absence totale de dignité et de
+tenue dans cette rude épreuve, rieu ne peut excuser Frédério de ce
+révoltant abus de pouvoir, de cet attentat brutal, commis tranquillement
+comme la chose la plus simple du mondo, dans une ville indépendante, sur
+la personne d'uu anoien favori.</p>
+<p>Même après cette rude épreuve, la brouille des</p>
+<p><pb/></p>
+<p>VOLTAIRE. 91</p>
+<p>denx amants uo dura pas. Ils avaient fini par se connaître et se
+mépriser, mais ils ne pouvaient se détacher l'un de l'autre. Rosbach les
+raccommoda. Lorsque Frédério eut « taillé des croupières aux guerriers
+du roi très chrétien », Voltaire se sentit épris de tendresse pour lui;
+leur correspondance, longtemps interrompue, recommença juste au moment
+où, après avoir été deux fois notre allié équivoque, le roi de Prusse
+était devenu notre ennemi déclaré. Tous les philosophes de Paris
+partageaient d'ailleurs l'amour de leur chef pour le philosophe
+couronné, et on ne voit pas que Rosbach les ait gôués plus que lui dans
+leur culte.</p>
+<p>IV. — LE PATRIARCHE DE FERNEY.</p>
+<p>Voltaire était dans sa soixantième année quand il quitta Frédéric, qu'il
+ne devait plus revoir, pour rentrer en France. Il eût bien voulu
+regagner Paris, mais auparavant il fallait sonder le terrain; et il se
+trouva que le terrain ne lui était pas favorable. Le bruit de ses
+aventures l'avait précédé ; le roi lui en voulait pour la préface de son
+Abrégé de l'histoire universelle, ec sa grande protectrice ellemême, Mmo
+de Pompadour, n'avait pu le servir en cette circonstance. Il s'agissait
+de temporiser et de désarmer ses ennemis. Les hardiesses de Voltaire</p>
+<p><pb/></p>
+<p>92 DK J.-B, ROUSSEAU A ANDRK CHBNIER.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 03</p>
+<p><pb/></p>
+<p>94 DK J.-B. ROUSSEAU A ANDRÉ* CHÉNIER.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 95</p>
+<p>certainement pas être aussi plaisant qu'il l'était en réalité.</p>
+<p>Non content d'accentuer ses hardiesses philosophiques, le patriarche
+donne enfin au monde de sa propre main la Pticelle, si souvent et si
+longtemps désavouée. Les voltairieus n'aiment point que l'on parle de la
+Pucélle, et cependant comment faire pour n'en rien dire? Qu'ils nous
+enseignent le moyeu de ne pas apercevoir ou de passer sous silence cette
+polissonnerie en vingt et un chants, cette Henriade follement cynique où
+le poète a fait aussi bon marché de la patrie que de la morale, et de la
+dignité que de l'histoire. Qu'ils nous révèlent les circonstances
+atténuantes d'une bouffonnerie sacrilège longuement élaborée et que n'a
+rachetée aucun témoignage de repentir.</p>
+<p><pb/></p>
+<p>90 DE J.-B. ROUSSEAU A ANDRÉ* CHJSNIER.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 97</p>
+<p><pb/></p>
+<p>98 DE J.-B. ROUSSE4U A ANDRÉ* OH^NIER.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 99</p>
+<p><pb/></p>
+<p>100 DE J.-B. ROUSSEAU A ANDRÉ CHENIER.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 101</p>
+<p>C'est de Ferney aussi qu'il entreprit ses croisades pour Calas, Sirven,
+Montbailly, Lally, la Barre. L'affaire Sirven ne passionna Voltaire qu'à
+demi c il prévoyait que cette tragédie n'attirerait peut-être</p>
+<p>6.</p>
+<p><pb/></p>
+<p>102 DE J.-B. ROUSSEAU A ANDRÉ CHÉNIER.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 103</p>
+<p>Entre ses défenses de Calns et du chevalier do la Barre, il avait
+accueilli a Ferney la famille Sirven. Le château devenait un lieu do
+refuge comme</p>
+<p><pb/></p>
+<p>104 DE J.-B. ROUSSEAU A ANDRÉ* OHBNIER.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 105</p>
+<p><pb/></p>
+<p>106 DE J.-B. ROUSSEAU A ANDRÉ* CHÉNIER.</p>
+<p>Je croirais volontiers que cette dernière considération entrait pour
+beaucoup dans son bonheur.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 107</p>
+<p><pb/></p>
+<p>108 DE J.-B. ROUSSEAU A ANDRÉ* CHENIER.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 10</p>
+<p>Voltaire commence par des lectures \ il profite de l'arrivée de Lekain
+pour improviser, non une représentation, mais une déclamation de Zaïre9
+et faire pleurer tout le conseil, qui ne se doute encore de rien : «
+Jamais les calvinistes n'ont été si tendres, » écrit triomphalement
+Voltaire, qui se hâte de pousser sa pointe plus loin et qui trouve de
+nombreux complices parmi ses amis de Genève. Il fait essayer
+discrètement une pièce qu'il vient de finir. Sur le petit théâtre de sa
+maison de Monrion, ou dans le grenier de son voisin de Monrepos, à
+l'aide d'une troupe composée de ses hôtes et dressée par luiDE</p>
+<p>luiDE ROUSSEAU A ANDRÉ CHÉNIEIt. 7</p>
+<p><pb/></p>
+<p>/</p>
+<p>110 DE J.-B. ROUSSEAU A ANDRÉ CHÉMER.</p>
+<p>même, il donne quelques représentations en petit comité, reculant quand
+le consistoire gronde trop fort, puis repreuant sa marche après un
+moment d'arrêt.</p>
+<p>La victoire toutefois n'était point définitive. Après</p>
+<p><pb/></p>
+<p>VOLTAIRE. 111</p>
+<p>A Lekain succéda Àufresne, qui était de Genève, et l'influence de son
+jeu, plein de naturel et de vérité, fut telle, qu'il se forma de toutes
+parts des troupes bourgeoises et des théâtres de société dans la ville.
+Dès lors, en dépit du consistoire et du grand conseil, qui lésistèrent
+désespérément jusqu'au bout, la forteresse se trouvait démantelée, et la
+capitulation définitive n'était plus qu'une question de jours. Cette
+lutte pourrait fournir le sujet d'un poème héroï-comique, — bien qu'elle
+ne manquât pas, au fond, d'une véritable gravité morale. Je n'ai fait
+que l'esquisser dans ses grandes lignes, en négligeaut</p>
+<p><pb/></p>
+<p>112 DE J.-B. ROUSSEAU A ANDRE* CHÊ*NIER.</p>
+<p>môme des épisodes tels que la Lettre sur les spectacles de Jean-Jacques.</p>
+<p>Son premier soin, dès qu'il put quitter la chambre, fut de se rendre à
+l'Académie. Cent mille personnes s'étaient entassées sur son passage. On
+se précipite •ur lui, on baise ses mains et son manteau, on se</p>
+<p><pb/></p>
+<p>70LTAIRB. 113</p>
+<p><pb/></p>
+<p>114 DE J.-B. ROUSSEAU A ANDRÉ OHBNIER.</p>
+<p>Collé fit d'un mot son oraison funèbre an nom des gens de lettres : «
+Nous rentrons en république. x&gt;</p>
+<p>« Voltaire, a dit Ducis dans son discours de ré-</p>
+<p><pb/></p>
+<p>VOLTAIRE. 116</p>
+<p>ception, est peut-être le seul qui ait rempli tonte l'étendue de son
+talent et atteint, pour ainsi dire, en tous sens aux bornes de son
+génie. Nul homme, dans aucun siècle, n'a fait plus d'usage des deux
+grands trésors de l'homme, la pensée et le temps. i» Il disait lui-même
+qu'il aimait les neuf muses, et qu'il eût voulu les courtiser toutes les
+neuf. La politique, la philologie, la grammaire, la philosophie, la
+gépmétrie, la physique, l'algèbre, l'astronomie, l'histoire naturelle,
+voire l'art militaire, — car il avait ressusoité en projet les chars
+babyloniens armés de faux,—ne lui étaient pas étrangers. Toutefois
+presque partout il a glissé sans approfondir, promenant a toutes les
+surfaces les lueurs brillantes, mais souvent trompeuses, de son
+intelligence.</p>
+<p><pb/></p>
+<p>116 DE J.-B. ROUSSEAU A ANDRÉ* CHÉNIER.</p>
+<p>par quoiqueeudroit est pour lui chimère, fudaise ou imposture.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 117</p>
+<p><pb/></p>
+<p>\ \</p>
+<p>118 DE J.-B. ROUSSEAU A ANDRÉ CHOMER.</p>
+<p><pb/></p>
+<p>VOLTAIRE. 119</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>V ' ' /x</p>
+<p>III.</p>
+<p>L'ABBÉ PRÉVOST.</p>
+<p>MANON LESCAUT.</p>
+<p><pb/></p>
+<p>Illisibilité partielle</p>
+<p><pb/></p>
+<p>122 DE J.-D, ROUSSBAU A ANDRÉ OHÉNIER.</p>
+<p>En sous-titre, le Doyen de Killerine est qualifié par l'auteur :
+HISTOIRE MORALE... — ornée de tout ce $ui peut rendre une lecture utile
+et agréable. On lui</p>
+<p><pb/></p>
+<p>L'ABBé PRÉVOST. — MANON LESCAUT. 123</p>
+<p><pb/></p>
+<p>124 DE J.-B. ROUSSEAU A ANDRÉ* CHENIER.</p>
+<p><pb/></p>
+<p>L'ABBÉ PRÉVOST. — MANON LESCAUT. 125</p>
+<p>par tempérer son ardeur avec son expérience; il s'instruit, et, tout en
+restant aussi consciencieux, il devient plus indulgent et plus habile à
+la fois.</p>
+<p><pb/></p>
+<p>126 DE J.-B. ROUSSEAU A ANDRÉ CHÉNIER.</p>
+<p>L'abbé Prévost nous apparaît dans le Doyen de Killerine, et souvent
+aussi dans les Mémoires d'un homme de qualité, comme un moraliste rendu
+indulgent par la connaissance pratique des passions, de leurs troubles,
+de leurs effets, de la faiblesse du coeur humain, du peu de solidité de
+ses principes et</p>
+<p><pb/></p>
+<p>L'ABBÉ PRÉVOST. — MANON LESCAUT. 127</p>
+<p><pb/></p>
+<p>128 DE J.-B. EOUSSEAU A ANDRÉ* CHÉNIER.</p>
+<p>Et pourtant Manon n'est qu'une fille. D'où vient</p>
+<p><pb/></p>
+<p>L'ABBÉ PRÉVOST. — MANON LESCAUT. 129</p>
+<p><pb/></p>
+<p>130 DE J.-B. ROUSSEAU A ANDRÉ CHÉNIER.</p>
+<p>passion qui ramène sans cesse l'amant aux pieds de son idole de boue.</p>
+<p><pb/></p>
+<p>L'ABBÉ PRÉVOST, — MANON LESCAUT. 131</p>
+<p><pb/></p>
+<p>132 DE J.-B. ROUSSEAU A ANDRÉ CHÉ*NIER.</p>
+<p>crime n'a jamais rien prouvé j c'est ce qui surnage de ses qualités
+originelles dans la dégradation progressive de son âme; c'est ce qui
+reste de bon et d'aimable dons cette malheureuse, on du moins ce que
+l'aveuglement de des Grienx lui prête.</p>
+<p><pb/></p>
+<p>L'ABBÉ PRÉVOST. — MANON" LESCAUT. 133</p>
+<p>« Nos conversations, qui étaient toujours réfléchies, nous mirent
+insensiblement dans le goût dun amour</p>
+<p><pb/></p>
+<p>134 DE J.-B. ROUSSEAU A ANDRÉ* CHÉNIER.</p>
+<p>« C'est, lui dis-je, de le faire approuver du ciel. Nous avons l'âme
+trop belle et le coeur trop bien fait l'un et l'autre pour vivre
+volontairement dans l'oubli du devoir... En Amérique, oii nous ne
+dépendons que de nous-mêmes, qui empêche... que nous n'ennoblissions
+notre amour par des serments que la religion autorise?</p>
+<p>« Il me parut que ce discours la pénétrait de joie.</p>
+<p>Là-dessus, des Grieux prend feu une fois de plus. Certes, dans aucune
+chanson de geste, il n'y eut jamais loyal chevalier qui ait plus
+idéalisé l'objet aimé, que dans ce récit réaliste Î</p>
+<p>ce Ahl Manon, tu serais bientôt celle d'un roi si</p>
+<p><pb/></p>
+<p>L'ABBÉ PRÉVOST. — MANON LESCAUT. 135</p>
+<p>le ciel m'avait fait naître avec une couronne! Ne balançons plus...
+Laissons craindre aux amants vulgaires les chaînes indissolubles du
+mariage. Ils ne les craindraient pas s'ils étaient sûrs, comme nous, de
+porter toujours celles de l'amour. — Je laissai Manon au comble de la
+joie après cette résolution. »</p>
+<p>On sait le reste : la fuite des deux amants et cette mort de Manon au
+milieu du désert, qui couronne par une émotion poignante et sans mélange
+ce roman de l'amour sensuel. Ici les dernières résistances sont
+vaincues. La mort, comme le feu, purifie tout. Manon Lescaut s'encadre
+entre deux récits, deux tableaux qui se détachent en relief sur le fond
+du livre et qui restent fixés dans l'imagination comme si on les avait
+vus : au début, le tableau des chariots couverts, escortés par les
+archets, et de la mauvaise hôtellerie de village où nous rencontrons pour</p>
+<p><pb/></p>
+<p>136 DE J.-B. ROUSSEAU A ANDRÉ CHÉ*NIER.</p>
+<p>Avant Alexandre Dumas et Arsène Houssaye, Musset avait écrit sa préface
+sur Manon Lescaut. Qui no connaît cette célèbre apostrophe, l'une des
+innombrables prosopopées de Namouna :</p>
+<p>Manon, sphinx étonnant, véritable sirène,</p>
+<p>Coeur trois fois féminin, Cléopâtre en paniers I</p>
+<p>On ait trouvé ton livre écrit pour des portiers,</p>
+<p><pb/></p>
+<p>L'ABBÉ PRÉVOST. — MANON LESCAUT. 137</p>
+<p><pb/></p>
+<p>' l</p>
+<p>138 DE J.-I3. ROUSSEAU À ANDRÉ OHÉNIER.</p>
+<p><pb/></p>
+<p>L'ABBÉ PRÉVOST. — MANON LESCAUT. 139</p>
+<p><pb/></p>
+<p>140 DE J.-D. ROUSSEAU 4 ANDRÉ OHBNIER.</p>
+<p><pb/></p>
+<p>IV.</p>
+<p>DIDEROT.</p>
+<p><pb/></p>
+<p>142 DE J.-B. ROUSSEAU A ANDRÉ CHÉ*NIER.</p>
+<p><pb/></p>
+<p>DIDEROT. 143</p>
+<p>Une revue a loué ce « magnifique apôtre du matérialisme le plus absolu »
+d'avoir, en morale, « nié et raillé l'idée de lois éternelles et
+universelles (Lettre sur les aveugles), placé dans la notion d'une uti*
+lité personnelle et publique la source des vertus do-</p>
+<p><pb/></p>
+<p>t</p>
+<p>144 DE J.-B. ROUSSEAU A ANDRÉ OHÊ*NIER.</p>
+<p>Diderot n'est pas seulement un plébéien et un démocrate, fils d'un
+artisan, qui garda toujours le souvenir des misères de sa jeunesse, qui
+songeait a instruire la canaille bafouée par Voltaire, qui réhabilita
+les travaux manuels et a voulu apprendre tous les métiers pour en parler
+aveo compétence dans VEncyclopédie, qui a exprimé sur la solidarité
+humaine et le principe d'autorité en politique, sur l'hérédité
+monarchique, le danger des armées permanentes, l'assistance publique et
+l'impôt, des idées en concordance avec celles de la démocratie la plus
+avancée; c'est aussi un révolutionnaire que 93 peut réclamer pour un de
+ses précurseurs. Il a</p>
+<p><pb/></p>
+<p>DIDEROT. 145</p>
+<p>On voit qu'il est facile de s'expliquer maintenant Pavanée que Diderot,
+cent ans après sa mort, a prise sur ses contemporains les plus fameux.
+Il a pressenti la plupart des doctrines aujourd'hui en faveur : le grand
+rôle accordé aux sciences naturelles, la victoire</p>
+<p>DE J.-B. ROUSSEAU A ANDRÉ OHÉNIER. 9</p>
+<p><pb/></p>
+<p>-- &gt;</p>
+<p>140 DE J.-B. ROUSSEAU A ANDRÉ* OII&amp;UKRi</p>
+<p>do la philosophie expérimentale sur la métaphysique, la substitution de
+la morale sociale a la morale individuelle. Les thèses des Bnchner, des
+Cavl Vogt, des Moleschott, sont en germe chez lui, ainsi que la théorie
+de Darwin sur l'origine des espèces. Dans le Iiêve de d'Alembert&gt; comme
+dans VEntretien avec le même, il a tracé, pour aiusi dire, en se jouaut,
+les yagnes linéaments du transformisme ; et qui ne sait quelle place la
+physiologie, cette reiue de l'heure présente, tient dans son oeuvre,
+souvent même en ses morceaux les plus délicats, tels que son fragment
+sur les femmes? v</p>
+<p><pb/></p>
+<p>DIDEROT. 14?</p>
+<p><pb/></p>
+<p>p</p>
+<p>148 DE J.-B, ROUSSEAU A ANDBÉ (MINIER.</p>
+<p>Rousseau avait publié, ou l'on avait donné pendant sa vie, an moins
+quatre éditions de ses oeuvres complètes. Celles de Voltaire, totales ou
+partielles, furent innombrables ; les presses semblaient se multiplier
+pour reproduire tout ce qui sortait de sa plume. Diderot ne s'est jamais
+occupé de réunir ses ouvrages, et beaucoup, de ses meilleurs, ne
+circulèrent de son vivant qu'en manuscrit. Ils allaient s'enfouir dans
+des collections privées, où on les a retrouvés successivement, et il ne
+s'en inquiétait plus. Quelles sont les productions les plus propres à
+donner, dans les divers genres, ce qu'on pourrait appeler la
+caractéristique de l'esprit de Diderot,</p>
+<p><pb/></p>
+<p>DIDEROT. 149</p>
+<p>^</p>
+<p><pb/></p>
+<p>150 DH J.-B. KOUSSKAU A ANUltti OU&amp;URR.</p>
+<p>Cherchez la conclusion de V Entretien cl un père avec ses enfants. Il
+porte pour sous-titre : Du danger de se mettre au-dessus des lois; mais
+il faudrait ajouter : et de l'inconvénient de s'y conformer. Diderot n'a
+voulu que nous ébranler dans une opinion toute faite, qui paraît la
+seule raisonnable et sensée; il y a réussi. De même, dans VEntretien
+d'un philosophe avec la maréchale de ***, qui peut passer pour le plus</p>
+<p><pb/></p>
+<p>DIDEROT. ^ ' 1Ô1</p>
+<p>Comment, avec cet amour et ce don du dialogue, Diderot a-t-il pu écrire
+des comédies illisibles, fausses, d'un ennui écrasaut, telles que le
+Père defamille etleFils naturel? Ce que c'est que l'esprit de système</p>
+<p><pb/></p>
+<p>\b% DE J.-B. ROUSSEAU A ANDRÉ CHÊNIËR.</p>
+<p><pb/></p>
+<p>DIDEROT. 153</p>
+<p>La correspondance avec M 110 Volland est certainement l'une des oeuvres
+qui caractérisent le mieux Diderot, au point de vue littéraire comme au
+point de vue moral j celle peut-être où il se peint tout entier le plus
+naturellement et le plus sincèrement, dans un intarissable et piquant
+bavardage qui touche aux sujets les plus variés, qui abonde en saillies,
+en anecdotes, en idées* en théories, en sophismes, et qui s'exprime avec
+une liberté dépourvue de tout esprit de scrupule.</p>
+<p><pb/></p>
+<p>164 ' DE J.-B. ROUSSEAU A ANDRÉ* CHÈNIEIt.</p>
+<p><pb/></p>
+<p>DIDEROT. 155</p>
+<p><pb/></p>
+<p>156 'DE J,-B. ROUSSEAU A ANDRÉ CHÉNIER.</p>
+<p><pb/></p>
+<p>DIDEROT. 1Ô7</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>V.</p>
+<p>LES ÉPISTOLIÈRES (1).</p>
+<p>I. — MADAME DU DEFFAND.</p>
+<p>Parmi les plus curieux documents sur le dixhuitième siècle, aucun n'est
+plus significatif que la correspondance de Mmo du Deffand avec Horace
+Walpole, où l'on retrouve fidèlement le type même de l'époque, le
+tableau de tout un monde résumé en ses'traits essentiels et distinctifs.
+Cet intérêt historique, au sens le plus large et le plus élevé du mot,
+est ce qui donne un prix particulier aux lettres de Mm 0 du Deffand. Il
+faut les lire comme la déposition d'un témoin qui a joué son rôle aux
+premiers plans, qui a vu de près les hommes et les choses dont il parle,
+qui en a vécu, qui en a joui, qui en a souffert,</p>
+<p><pb/></p>
+<p>160 DE J.-B. ROUSSEAU A ANDRÉ OHÉNIER.</p>
+<p><pb/></p>
+<p>^ ^ s * \y&lt;. « ,'</p>
+<p>LES É*PISTOLlÈRES. — Mmo DU DEFFAND. 161</p>
+<p><pb/></p>
+<p>162 DE J.-B. ROUSSEAU A ANDRE CHÉN1EH.</p>
+<p><pb/></p>
+<p>LES K*PISTOLIERES. — Mmo DU DEFFAND. 163</p>
+<p><pb/></p>
+<p>164 DEJ.-B. ROUSSEAU A ANDRÉ OHÉNIER.</p>
+<p>« Vous voulez que j'espère vivre quatre-vingt-dix ans? lui
+écrivait-elle. Ah ! bon Dieu, quelle maudite espérance I Ignorez-vous
+que je déteste la vie, que je me désole d'avoir tant vécu, et que je ne
+me console point d'être née ? Je ne suis point faite pour ce monde-ci \
+je ne sais pas s'il y en a un autre ; en cas que celui-ci soit, quel
+qu'il puisse être, je le crains... Le néant (dont je fais grand cas)
+n'est bon que parce qu'on ne le sent pas... Je ne trouve en moi que le
+néant, et il est aussi mauvais de trouver le néant en soi qu'il serait
+heureux d'être resté dans le néant. »</p>
+<p>Ce désolant scepticisme, qui dépasse de beaucoup celui de Montaigne, son
+auteur favori, n'a même pas le pouvoir de rassurer son esprit contre les
+terreurs de la mort. Voulez-vous voir maintenant le matérialisme,
+confessé avec cette sincérité entière qui fait la seule valeur morale de
+ces lettres., et qui leur donne une si grande importance aux yeux de la
+critique et de l'histoire. Écoutez :</p>
+<p><pb/></p>
+<p>LES É*PISTOLIËRES. — Mmo DU DEPFAND. 165</p>
+<p><pb/></p>
+<p>166 DE J.-B. ROUSSBAU A ANDRÉ* OHÉ*KIER.</p>
+<p>Enfin voici toute l'oraison funèbre que lui arrache la mort imminente du
+président Hénuilt, avec qui elle vivait depuis longues années : « Le
+président ne passera pas l'hiver \ sa perte me causera du chagrin, et
+fera du changement dans ma vie. t&gt;</p>
+<p><pb/></p>
+<p>LES réPISTOLlÈRES. — Mmo DU DEFFAND. 167</p>
+<p>table. Tout lui déplaît, la fatigue et l'excède. Les pins grands auteurs
+du temps n'écrivent que des rapsodies. Le Barbier de Sêville l'ennuie à
+la mort. Les pièces qui font pleurer tous les yeux la font bâiller
+convulsivement. Elle reste insensible aux catastrophes, et le supplice
+de Lally-Tollendal ne l'émeut pas plus que la lecture de Beverley ou de
+VHonnête criminel. Voltaire, avec qui elle était en correspondance
+réglée, en échange d'admiration, est sans cesse déprécié dans ses
+lettres, et sa mort l'intéresse si peu qu'elle oublie d'abord d'en
+parler et ne la mentionne ensuite qu'en passaut, d'une façon incidente
+et sommaire. Rousseau, BnfFon, Montesquieu, ne sont pas mieux traités
+que Bossuet, Fénelon et Racine ; elle a toujours eu Milton en horreur.
+Saint-Simon pourtant éveille en elle un semblant d'intérêt par ses
+révélations, et la lecture de Shakespeare semble d'abord la ressusciter
+violemment ; mais ce n'est qu'une secousse. Bientôt elle se lasse de ce
+qui l'a charmée, et, en somme, il n'y a guère que les scandaleuses
+confidences des Mémoires secrets qui aient le don d'exciter sa curiosité
+d'une manière soutenue.</p>
+<p><pb/></p>
+<p>- -^C-"J</p>
+<p>168 DE J.-B". ROUSSEAU A ANDRÉ OIÎÊ*NIER.</p>
+<p>Dès les premières années, les symptômes précurseurs de la grande
+infirmité morale du dix-huitième sièole avaient apparu. Les prôneurs de
+l'époque s'accordent a lui reconnaître une grande philanthropie,</p>
+<p><pb/></p>
+<p>LES rêPISTOLIBRËS. — M 1110 DU DËFFAND. 169</p>
+<p>On appelle aujourd'hui l'excessive licence,</p>
+<p>L'égalité. Sans concourir au bien, prôner la bienfaisance, Se nomme
+humanité,</p>
+<p>prédis. » Et ailleurs : « J'observe une chose terrible</p>
+<p>10</p>
+<p><pb/></p>
+<p>170 DE J.-B. ROUSSEAU A ANDRÉ* CHÉ*NIER.</p>
+<p><pb/></p>
+<p>LES ÉPISTOLIBRES. — Mmo DU DEFFAND. 171</p>
+<p>C'est surtout dans cet ennui incurable que Mmc du Deffand nous offre
+l'image de son temps, et que sa figure s'agrandit jusqu'aux proportions
+d'un type. L'histoire intime du dix-huitième siècle n'est que l'histoire
+des efforts continuels, fiévreux, extravagants, d'un monde qui ne veut
+jamais se trouver en tête-à-téte avec lui-môme ; qui s'étourdit en fêtes,</p>
+<p><pb/></p>
+<p>"172 DE J.-B. ROUSSEAU A ANDRÉ* OHÉNIER.</p>
+<p><pb/></p>
+<p>LES É*PISTOLlÈRES. — Mme DU DEFFAND. 173 -</p>
+<p>En même temps qu'elle est un vivant tableau de l'époque, cette
+correspondance est une riche mine historique, abondante en
+renseignements sur les hommes et sur les choses. Ce qu'il y faut
+chercher toutefois, ce sont moins les détails nouveaux et les faits
+cachés que l'impression produite par le spectacle environnant sur une
+femme d'une pénétration</p>
+<p>10.</p>
+<p><pb/></p>
+<p>174 DE J.-B. KOUSSEAU A ANDRÉ CHÈN1EH.</p>
+<p>II. — MADEMOISELLE DE LESPINASSE.</p>
+<p><pb/></p>
+<p>LES JSPISTOLIERES. — Mlle DE LESPINASSE. 175</p>
+<p><pb/></p>
+<p>176 DE J.-B. ROUSSEAU A ANDRÉ* OHÉNIER.</p>
+<p><pb/></p>
+<p>LES ^PISTOLIERES. — Mn° DE LESPINASSE. 177</p>
+<p>de la vitrière qui l'avait élevé et où il habitait un petit réduit
+philosophique, pour aller se loger sous le même toit que MUe de
+Lespinasse. On en jasa un peu. Heureusement d'Alembert avait une
+réputation rassurante, et il paraît bien évident qu'il se borna toujours
+aux jouissances d'une assiduité platonique. Il fit du salon de la rue
+Bellechasse une sorte de succursale ou d'antichambre de l'Académie
+française, dont il était le secrétaire perpétuel. Ce fut une affection
+étroite,—avec cette nuance de tendresse qui se mêle aux amitiés entre
+sexes différents et peut les rendre si facilement dangereuses pour de
+moi us philosophes que d'Alembert, — mais oh le sentiment jouait un plus
+grand rôle que la passion. Au fond, d'Alembert était un amoureux bien
+insuffisant, bien géométrique, pour une nature aussi ardente : il eût pu
+faire un mari ; il fit un esclave humble et soumis, un patito qu'on
+chargeait de toutes les commissions, de toutes les démarches, qu'on
+trompait avec sa complicité inconsciente et naïve, qui eut tout
+l'aveuglement que les plaisanteries traditionnelles prêtent aux époux,
+sans en avoir les privilèges, et qui, lorsqu'il fut enfin éclairé, ne
+sut que mêler une jalousie tardive et stérile a une résignation
+douloureuse.</p>
+<p>Les deux grandes passions de M 110 de Lespinasse furent pour le marquis
+de Mora et le comte de</p>
+<p><pb/></p>
+<p>178 DE J.-B. ROUSSEAU A ANDRÉ OHÉNIER.</p>
+<p><pb/></p>
+<p>LES iSPJSTOLlÈRES. &lt;— MUo DE LESPINASSE. 179</p>
+<p><pb/></p>
+<p>Illisibilité partielle</p>
+<p>Contrait» Imuffliant NFZ 43-120-14</p>
+<p>RELIURE SERREE Absence de marges intérieures</p>
+<p>Valable pour tout ou partie du document reproduit</p>
+<p><pb/></p>
+<p>180 DE J.-B. ROUSSEAU A ANDRÉ* OH&amp;UEtt.</p>
+<p><pb/></p>
+<p>LKS Ê*PISTOLIERES. — MUc DE LESPINASSE. 181</p>
+<p>resDK ROUSSKAU A ANDRÉ CHÉNIER. XI</p>
+<p><pb/></p>
+<p>182 DE J.-li. .lOUbbKAU A ANDRÉ CH&amp;HBR.</p>
+<p><pb/></p>
+<p>LES lîPISTOLIKRES. — MUe DE LKSPINASSK. 183</p>
+<p><pb/></p>
+<p>184 DE J.-B. ROUSSEAU A ANDRÉ* CHÊNIËR,</p>
+<p>Étrange et déplorable amour que celui de cette</p>
+<p><pb/></p>
+<p>LES riPISTOLlÈRKS. — M,,e DE LESHNASSE. 185</p>
+<p><pb/></p>
+<p>186 DE J.-B. ROUSSEAU A ANDRÉ* CH&amp;HER.</p>
+<p>L'histoire du salon de MUo de Lespinasse n'a jamais été écrite, que nous
+sachions, mais elle a été bien des fois esquissée : par d'Alembert, par
+Marmontel, par la Harpe, par Guibert, par Grimm et viugt autres. S'il
+eût eu son annaliste et son greffier, comme le salon de Mffle Doublet,
+nul doute que ces</p>
+<p><pb/></p>
+<p>LES rériSTOLlîïRES. — Mmo DU CHATELKT. 187</p>
+<p>III. — .MADAME DU CIIATELET.</p>
+<p><pb/></p>
+<p>188 DE J.-B. ROUSSKAU A ANDRÉ CHKN1KU.</p>
+<p><pb/></p>
+<p>LES Ê*PISTOLIERES. — Mmo DU CIIATELET. 189</p>
+<p>être magnifique en dépit de la fortune, elle est obligée, pour se donner
+le superflu, de se passer du nécessaire, comme chemises et autres
+bagatelles. »</p>
+<p>premier moment, car de telles découvertes sont</p>
+<p>11.</p>
+<p><pb/></p>
+<p>100 DE J.-13. ROUSSEAU A ANDRE* OHÉNIEH.</p>
+<p><pb/></p>
+<p>LKS KPIbTOLIKRES. — M" 10 DU CHATELKT. 191</p>
+<p><pb/></p>
+<p>192 DE J.-I3. ROUSSEAU A ANDRÉ CHÉ*NIER.</p>
+<p><pb/></p>
+<p>LES É*PISTOLlÈRES. — Mme DU CHATELET. 193</p>
+<p>Voltaire y est engagé. 3&gt; Où diable, aurait demandé Molière, l'honneur
+va-t-il se nicher?</p>
+<p><pb/></p>
+<p>194 DE J.-B. ROUSSEAU A ANDRÉ* CHÊNIER.</p>
+<p><pb/></p>
+<p>LES iSriSTOLlÈRES. — Mmo DU CHATELET. 195</p>
+<p><pb/></p>
+<p>196 DE ,T.-B. ROUSSEAU A ANDRE* CHÉNIER.</p>
+<p>Ou courez-vous, trop tendre Uranie? »</p>
+<p><pb/></p>
+<p>LES ÉPIbTOLlÈRES. — Mmo DU CHATELEÏ. 197</p>
+<p>Hélas! on ne le voit que trop. Ne dirait-on pas qu'elle expose un
+théorème, ou qu'elle fait une analyse chimique?</p>
+<p><pb/></p>
+<p>198 DE J.-B. ROUSSEAU A ANDRÉ* CHËNIER.</p>
+<p>de l'entraînement, par l'inquiétude et le repentir do la faute.</p>
+<p>IV. — MADAME DE GRAFFIGXY.</p>
+<p><pb/></p>
+<p>LES É&gt;ISTOLIKRES. — Mmo DE GRAFFIGNY. 199</p>
+<p>pas avoir été beaucoup plus heureuse sous le régime de l'amour que sous
+celui du mariage, et avec le fonds de tristesse qui était eu elle et
+qu'avaient développé ses fâcheux débuts dans la vie, elle se montrait
+persuadée que « le malheur la suivrait en paradis ».</p>
+<p><pb/></p>
+<p>200 DE J.-B. ROUSSEAU A ANDRÉ CHÉNIER.</p>
+<p><pb/></p>
+<p>LES réPÏSTOLIilRËS. — Mmo DE GRAFFIGNY. 201</p>
+<p><pb/></p>
+<p>202 DE J.-B. ROUSSEAU A ANDRÉ CHÉ*NIER.</p>
+<p><pb/></p>
+<p>LES É*PISTOLIERES. — Mn 16 DE GRAFî'IGNV. 203</p>
+<p><pb/></p>
+<p>w204</p>
+<p>w204 J.»B. ROUSSEAU A ANDRÉ CHÊVIER.</p>
+<p><pb/></p>
+<p>LES Ê*PISTOLÎKRES. — Mme DE GRAFFIGNY. 205</p>
+<p>V. — MADEMOISELLE AISSE.</p>
+<p>Qui ne connaît la touchante et romanesque histoire</p>
+<p>de M 110 Aïssé? Elle a été si souvent contée, qu'on</p>
+<p>12</p>
+<p><pb/></p>
+<p>200 PB J.-B, ROUSSEAU A AKDR^ CHÈNIKR.</p>
+<p><pb/></p>
+<p>LES E*riSTOLIERES. — MUo AISSÊ\ 207</p>
+<p><pb/></p>
+<p>208 DK J.-D, ROUSSEAU A ANDRÉ* OHBNIER.</p>
+<p><pb/></p>
+<p>LES IÎPISTOLIKHES. — M 110 AISfeÉ*. 209</p>
+<p>négliger de tenir sa correspondante au courant des rivalités et des
+jalousies de coulisses. Elle ne recule pas devaut le récit des scandales
+du jour, mais sans s'y complaire et en témoignant toujours d'un grand
+éloignement pour l'intrigue.</p>
+<p>Qu'était-ce que ce chevalier d'Aydie, qui prit une telle place en son
+coeur? Un cousin de Rions et un ancien roué de la Régence (le Régent
+lui-même, diton, avait vainement essayé de la séduire) qu'elle avait
+rencontré chez Mme du Deffaud. Ils se virent,</p>
+<p>ils s'aimèrent ; elle succomba, et de leurs relations</p>
+<p>12.</p>
+<p><pb/></p>
+<p>210 DE J.-B. ROUSSEAU A ANDHlî 0HÉN1KK.</p>
+<p>naquit une fille, que sa mère éleva de son mieux, en lui laissant croire
+qu'elle n'était que sa tante. Elle sut transformer ce roué en un amant
+fidèle. On a publié en 1874 la correspondance jusque-la inédite du
+chevalier : il s'y révèle a son avantage, mais sous des traits qui n'ont
+rien de romanesque et qui môme éteignent tonte auréole do poésie au
+front de l'ami d'Aïssé. Quoique cette correspondance s'ouvre a l'année
+où mourut la belle Circassienne, il n'y est pas une fois question
+d'elle, et il y est question assez tendrement d'une autre dame.
+Cependant le chevalier était assurément un fort galant homme. Il parait
+bien avoir proposé plusieurs fois le mariage a M"e Àïssé, qui le refusa.</p>
+<p>\</p>
+<p><pb/></p>
+<p>LES réPISTOLIKRKS.— MUc AISSJ-1. 211</p>
+<p><pb/></p>
+<p>212 DE J.-D. ROUSSEAU À ANDRÉ* ©HUNIER,</p>
+<p><pb/></p>
+<p>LES JÎPIbTOLlfcltES. — Jllle AISSÉ. 213</p>
+<p><pb/></p>
+<p>2U DK J.-B, ROUSSEAU A ANDRK* CHÊNIKR.</p>
+<p><pb/></p>
+<p>LES JÎPISTOLlfeRKH. — M,,e DE COXD&amp; 5J15</p>
+<p><pb/></p>
+<p>816 DE J.-D. ROUSSEAU A ANDlrô OlII^KlElt.</p>
+<p>VI. — MADEMOISELLE DE CONDÉ.</p>
+<p><pb/></p>
+<p>LES E*HSTOLIKRES. — M,le DE CONDE*. 217</p>
+<p>DR J.-B, ROUSSEAU A ANDRÉ OHÉNIER. 13</p>
+<p><pb/></p>
+<p>218 DE J.-B. ROUSSEAU A ANDW* OHÉNIER.</p>
+<p>dont le souvenir suffit a décolorer le reste de la vie.</p>
+<p>Il n'est pas possible au plus sceptique de concevoir l'ombre d'un doute
+en lisant ce que le savant éditeur appelle justement « ce chant- d'amour
+si chaste et si pur D, ces lettres dont le caractère principal est une
+humilité douce et tendre, d'une ingénuité presque enfantine, qui
+n'exclut pas toutefois une sagacité de raisonnement et même, au besoin,
+une finesse d'analyse d'autant plus frap-</p>
+<p><pb/></p>
+<p>LES K*PIST0L1KRES. — M,u DE CONDÉ\ 219</p>
+<p>pante que non seulement la princesse n'en fait jamais étalage, mais
+qu'elle n'en a pas le moindre soupçon. Cela est d'une chasteté idéale,
+angélique, presque surnaturelle. Cette âme de cristal, entièrement
+transparente, resplendit d'une blancheur immaculée. C'est le plus
+parfait modèle de l'abnégation, du désintéressement personnel, de
+l'abdication d'une âme qui s'absorbe dans l'objet aimé. Elle ne pense
+qu'au bonheur de celui-ci ; elle se trouve honorée par son affection ;
+elle le considère comme d'une essence supérieure : il n'est tenu a rien,
+il ne lui doit rien; c'est elle qui lui doit tout. Il y a dans sa
+passion, — elle est d'une nature telle qu'il est permis de le dire sans
+choquer personue, — quelque chose de l'affection d'une enfant tendre et
+soumise, et en même temps d'une soeur aînée.</p>
+<p>On peut citer les Lettres intimes de M1Ie de Condé comme l'un des très
+rares exemples, incontestables et incontestés, d'un amour absolument
+platonique. Mais cet exemple même ne serait pas concluant, car elle ne
+tarda pas a en apercevoir le danger. Placée entre une faute dont l'idée
+ne pouvait seulement effleurer son esprit, et un mariage que son respect
+des convenances sociales et de la grandeur de sa maison ne lui
+permettait pas d'envisager, cet amour se trouvait dans une véritable
+impasse. Son âme douce et craintive, incapable de révolte, accep-</p>
+<p><pb/></p>
+<p>220 DE J.-B. ROUSSEAU A ANDRÉ* CHÉVIER.</p>
+<p><pb/></p>
+<p>LES liPISTOLlÈRES. — MUe DE CONDÉ. 221</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>V.</p>
+<p>JEAN-JACQUES ROUSSEAU (1).</p>
+<p>(i) J,-Jé Rousseau, sa vie et ses muvres, par Saint-Marc Girardin}
+Charpentier, 2 vol. in-12, 1876. — Vottaiie et J.'X Rousseau, par Gaston
+Maugras, 1 vol, in-8ô, 1886.</p>
+<p><pb/></p>
+<p>224 DE J.-B. ROUSSEAU A ANDRÉ CHÉNIKK.</p>
+<p><pb/></p>
+<p>JEAN-JACQUES ROUSSEAU. 225</p>
+<p>Confessions, de Y Emile, de la Nouvelle Hêloise, du Discours sur
+Vinêgalié des conditions, la pénétrante analyse de M. Saint-Marc
+Girardin n'eût pas manqué d'en tirer d'utiles leçons de goût.</p>
+<p>13.</p>
+<p><pb/></p>
+<p>226 DE J.-B. ROUSSEAU A ANDRÉ CHENIER.</p>
+<p>I.</p>
+<p>Rousseau était pétri de défauts, de petitesses et de vices j sa vie est
+pleine d'erreurs et de faiblesses déplorables qu'il a étalées dans ses
+Confessions, avec l'orgueilleuse humilité d'un homme qui se juge par ses
+aspirations, non par ses actes, et, même en ses misères, se croit
+supérieur au reste de l'humanité. Vaniteux, défiant, ombrageux, emporté
+sans cesse par son humeur quinteuse, variable et contradictoire, se
+payant de phrases et croyant effacer ses fautes parce qu'il les
+affichait, portant jusque dans son repentir un ton d'audace et de
+provocation, courbé toute sa vie sous le sentiment amer de son
+abaissement moral et social, d'où il ne sort que par des réactions
+violentes, des boutades d'injustice et d'ingratitude qu'il prend pour
+des réveils d'indépendance; sans cesse victime de ses propres torts,</p>
+<p><pb/></p>
+<p>JEAN-JACQUES ROUSSEAU. 227</p>
+<p><pb/></p>
+<p>t v</p>
+<p>228 DE J.-B. ROUSSEAU A ANDRÉ" CHÉNIEK.</p>
+<p>(1) Cette antipathie foncière do Rousseau pour Voltaire et pour son
+genre d'esprit no l'empêcha pas d'être tenté quelquefois de l'i* miter.
+Ces essais contre naluie furent généralement malheureux. On peut voir la
+Vision de Pierre de la Montagne, dit le Voyantt</p>
+<p><pb/></p>
+<p>JEAN-JACQUES ROUSSEAU. 229</p>
+<p>dénio(1) grand ennemi du théâtre n'a pas laissé pourtant d'aborder la
+scène plus d'une fois. Outre le Devin du village, nous avons de lui la
+scène lyrique de Vggmalion, l'opéra-ballet des Muses galanUs; tiois
+petites comédies : Narcisse, ou F Amant de toi-même, qui fut jouée sans
+succès, les Piisonniers de guene, l'Engagement téméraire} une tragédie
+en trois actes : la Découverte du noiueau monde, des fragments d'une
+Yphis et d'une /.«crête, La plupart de ces ouviages</p>
+<p><pb/></p>
+<p>230 DE J.-B. ROUSSEAU A ANDRÉ CHÉND3R.</p>
+<p>On ne peut nier, et M. Gaston Maugras l'a démontré amplement, que
+Jean-Jacques ait été l'agresseur, sous l'inspiration sans doute d'une
+jalousie instinctive, comme d'une humeur sombre, mélancolique,
+atrabilaire, et par répulsion naturelle pour un genre d'esprit qui était
+tout l'opposé du sien. A plusieurs reprises il attaque Voltaire sans
+provosont</p>
+<p>„0*H</p>
+<p><pb/></p>
+<p>JEAN-JACQUES ROUSSEAU. 231</p>
+<p><pb/></p>
+<p>232 DE J.-B. ROUSSEAU A ANDRÉ OHÉNIER.</p>
+<p><pb/></p>
+<p>JEAN-JACQUES ROUSSEAU. 233</p>
+<p><pb/></p>
+<p>234 DK J.-B. 110UBSK.UJ A ANDllÉ CIIISNIKII.</p>
+<p>Les thèses même et les dissertations verbeuses dont la Nouvelle Héloise
+était mêlée, — thèses sur le duel, sur le suicide, sur l'éducation; les
+horsd'oeuvre, si fatigants pour nous, qui, après la partie de passion
+pure, remplissent les longues lettres des</p>
+<p><pb/></p>
+<p>JEAN-JACQUES ROUSSEAU. 235</p>
+<p><pb/></p>
+<p>236 DE J.-B. ROUSSEAU A ANDKÊ* CHhlNIEli.</p>
+<p><pb/></p>
+<p>JBAN-JACQUKS BOUSSEAU. 237</p>
+<p>Une autre supériorité de Rousseau, c'est qu'il se réfute lui-même. Il a
+des inconséquences dont il faut lui savoir gré et des contradictions qui
+équivalent à</p>
+<p><pb/></p>
+<p>238 DE J.-I). ROUSSEAU A ANDRE* OHÊ*NIER.</p>
+<p>des désaveux : quoique ces contradictions soient, pour ainsi dire,
+passées en proverbe, la façon dont M. Saint-Marc Girardin les relève et
+les met en lumière constitue Tune des parties les plus neuves et les
+plus piquantes de son livre. Il fait très finement remarquer que
+Rousseau commence par le paradoxe pour finir par le lieu commun ; qu'il
+met l'erreur au frontispice de son monument et la vérité dans les coins
+; que ses conclusions sont souvent aussi justes que ses maximes sont
+fausses. Sur tons les points principaux, il a presque toujours soutenu,
+aveo une égale éloquence, deux thèses opposées.</p>
+<p><pb/></p>
+<p>JEAN-JACQUES ROUSSEAU. 239</p>
+<p><pb/></p>
+<p>240 DE J.-B. ROUSSEAU A ANDRE* 0HE*NIER. .</p>
+<p><pb/></p>
+<p>JEAN-JACQUES ROUSSEAU. 241</p>
+<p>texte de commodité, il s'affuble d'un ce mie arménien, minutieusement
+combiné pièce a pièce, et non sans nue évidente coquetterie, avec Mme de
+la Tour, l'une de ses dévotes. Mais il porte une certaine sincérité dans
+toutes ses variations, comme il porte une conviction factice dans ses
+paradoxes.</p>
+<p>signification par le sentiment seul qui les inspire.</p>
+<p>H</p>
+<p><pb/></p>
+<p>242 DR J.-B. ROUSSEAU A ANDRÉ* CHOMER.</p>
+<p><pb/></p>
+<p>JEAN-JACQUES ROUbfeEAU. 243</p>
+<p><pb/></p>
+<p>#44 DK J.-1J. HOUSSKAU A ANJ)KK CU&amp;UEK.</p>
+<p><pb/></p>
+<p>v*"i"t\r</p>
+<p>JEAN-JACQUES HOUSSE AU. 245</p>
+<p>elle veut avoir sou Saiut-Preux, et elle le rencontre eu Buzot. Elle
+est, comme Julie, prêcheuse et môme uu peu pédagogue ; il y a en elle le
+môme mélange de passion et de philosophie, de sensualité et de pédant
+ismo, la même absence de délioatesse féminine, qui lui fait aborder sans
+embarras certains sujets choquants. On pourrait pousser la comparaison
+plus loin et la serrer d'aussi près que possible,</p>
+<p>Mais lés temps sont bien changés. Aujourd'hui la</p>
+<p>14.</p>
+<p><pb/></p>
+<p>246 DK J.-I3. ROUSSEAU Â ANDRE CHÉNIElt.</p>
+<p><pb/></p>
+<p>JKAN-JAUgUES ROUSbEAU. 247</p>
+<p><pb/></p>
+<p>248 DE J.-13. ROUSSEAU A ANDRÉ* OHÉNIKR.</p>
+<p>.^u définitive, malgré la revanohe momentanée et l'avance que le
+philosophe de Genève avait prise sous la Révolution, c'est lui qui
+demeure vaincu dans</p>
+<p><pb/></p>
+<p>JEAN-JACQUES KOUSSEA.U. 249</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>L'ABBÊ GALIANI.</p>
+<p>Les voyageurs en Italie ont souvent décrit un type curieux, aujourd'hui
+presque disparu, ou du moins bien dégénéré : celui de l'improvisateur
+napolitain. Debout sur le môle, le chante histoire, mimant ses vers,
+gesticulant comme un diable, réunissant en lui la double inspiration de
+ses compatriotes Marini et Pulcinella, et jouant de la lyre de Corinne
+avec la batte d'Arlequin, groupait autour de son tréteau un auditoire
+déguenillé de mangeurs de macaroni, qu'il animait de sa verve et
+échauffait de sa flamme.</p>
+<p><pb/></p>
+<p>252 DE J.-B. ROUSSEAU A ANDRÉ* OHÉ*NIER.</p>
+<p><pb/></p>
+<p>/ i</p>
+<p>L'ABBÉ GALIANI. 253</p>
+<p>échao(1) Galiani, CormponâaMe, tiottvelle êiUt. pat Lucien Perey et
+Gaston Maugias, 2 roi. in-8°.</p>
+<p>DE J.'B, ROUSSEAU A AJîDUÊ, CHÊKIËR. 15</p>
+<p><pb/></p>
+<p>rW</p>
+<p>254 DE J.-B. ROUSSEAU A ANDRÉ CHÉNIER.</p>
+<p><pb/></p>
+<p>L'ABB^ GALIANI. 255</p>
+<p>« L'abbé Galiani, dit-il, était de sa personne le plus joli petit
+arlequin qu'eût produit l'Italie ; mais sur les épaules de cet arlequin
+était la tête de Machiavel. Épicurien dans sa philosophie, avec une âme
+mélancolique, ayant tout vu du côté ridicule, il n'y avait rien, ni en
+politique ni en morale, a propos de quoi il n'eût quelque bon conte à
+faire ; et ces contes avaient toujours la justesse de l'à-propos, et le
+sel d'une allusion imprévue et ingénieuse. Figurez-vous avec cela, dans
+sa manière de conter et dans sa gesticulation, la gentillesse la plus
+naïve, et voyez quel plaisir pouvait nous faire le contraste du sens
+profond que présentait le conte avec l'air badin du conteur. Je
+n'exagère point en disant qu'on oubliait tout pour l'entendue,
+quelquefois des heures entières. Mais son rôle joué, il n'était plus de
+rien dans la société et, triste et muet dans un coin, il avait l'air
+d'attendre impatiemment le mot du guet pour rentrer sur la scène. Il en
+était de ses raisonnements comme de ses contes ; il fallait l'écouter.
+Si quelquefois on l'interrompait : « Laissez-moi donc achever, disait-</p>
+<p><pb/></p>
+<p>k=^i</p>
+<p>256 DE J.-B. ROUSSEAU A AÎÏDRK* CH^NIER.</p>
+<p>il i vous aurez bientôt tout le loisir de me répondre. » Et lorsque,
+après avoir décrit un grand cercle d'inductions (car c'était sa
+manière), il concluait enfin, si l'on voulait lui répliquer, on le
+voyait se glisser dans la foule, et tout doucement s'échapper. »</p>
+<p><pb/></p>
+<p>L'ABBÉ GALIANI. 257</p>
+<p><pb/></p>
+<p>258 DE J.-B. ROUSSEAU A ANDRE CHÉ*NIER.</p>
+<p><pb/></p>
+<p>L'ABBÉ OALIANI. 2Ô9</p>
+<p>Il y avait du Rabelais, plus que du Platon et autant que de l'Arlequin,
+datis le terrible petit abbé. Il avait l'expression crue. Diderot, qui
+n'y regardait pas de si près, ne se gênait point pour transmettre</p>
+<p><pb/></p>
+<p>260 DK J.-B. KOUSSEAU A ANDRÉ CH&amp;UEIl.</p>
+<p><pb/></p>
+<p>". V-^</p>
+<p>^ il * &gt;</p>
+<p>L'ABBÉ GALIANI. 261</p>
+<p>15.</p>
+<p><pb/></p>
+<p>#'</p>
+<p>' '"T - T»4</p>
+<p>T I</p>
+<p>J 262 DE J.-B. ROUSSEAU A ANDRÉ OHÉNIER.</p>
+<p><pb/></p>
+<p>L'ABBÉ GALIÂNI. 263</p>
+<p><pb/></p>
+<p>264 t&gt;B J.-B. ROUSSEAU A ANDRÉ CHÉNIER.</p>
+<p><pb/></p>
+<p>L'ABBÉ GALIANI. 265</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>VIL</p>
+<p>o</p>
+<p>c</p>
+<p>LES ÉCRIVAINS DÉCRIES.</p>
+<p>I. — ALEXIS PIKOX.</p>
+<p>Il serait difficile de laisser dans l'histoire littéraire une plus
+mauvaise renommée que celle de Piron (1689-1773). Son nom est devenu en
+quelque sorte proverbial pour désigner un poète poussant le badinage
+jusqu'à' la licence, un courtisan des Muses éhontées du Parnasse
+satirique, un esprit sans délicatesse et sans goût, voué au culte des
+gaietés sans façon et sans voile. La réalité est pour quelque chose dans
+cette fâcheuse réputation, mais la fantaisie y est pour beaucoup. Une
+ode fameuse, dont Piron se repentit amèrement, mais dont il porta le
+châtiment mérité toute sa vie, et, par surcroît, d'autres productions
+très légères, dans les divers sens du mot, lui ont valu cette gloire peu
+enviable. Toutes les poussées de cette verve sans cesse en ébullition,
+et plus abondante que choisie, ont été recueillies précieuse-</p>
+<p><pb/></p>
+<p>268 DE J.-B. KOUSSEAU A ANDBÊ* CHÉNIER.</p>
+<p><pb/></p>
+<p>LES LCltlVAINS DÉCRIÉS. — ALEXIS P1R0X. 269</p>
+<p><pb/></p>
+<p>I ;</p>
+<p>270 DÉ J.-B. ROUSSEAU A ANDRÉ* CHÉNIER.</p>
+<p>Binbin je suis, fus et serai; Tel je vécus, tel je vivrai : Hardi,
+honteux, têtu, crédule, Hypocondre, gai, mouton, mule,</p>
+<p>Une autre circonstance atténuante, c'est l'état précaire et presque
+misérable qui fut toujours le sien. L'apothicaire de Dijon, — Piron,
+fils d'un apothicaire, n'est-ce pas de la couleur locale, et cela n'ex-</p>
+<p><pb/></p>
+<p>LES ÉCRIVAINS DÉCRIÉS. — ALEXIS PIRON. 271</p>
+<p><pb/></p>
+<p>272 DE J.-B, ROUSSEAU A ANDRÉ CIIÉNIER.</p>
+<p>Cependant, car il faut tout dire, cette philosophie</p>
+<p><pb/></p>
+<p>/</p>
+<p>LES ECRIVAINS DÉCRIAS. — ALEXIS PIRON. 273</p>
+<p><pb/></p>
+<p>^;,.\î'»,v*; -*- «* !'V ^T</p>
+<p>274 DE J.-B. ROUSSEAU A ANDR^ CHÉNIER.</p>
+<p>rapports avec les personnages dont il provoque les bienfaits petits ou
+grands, efc la gêne perpétuelle de ce frère aîné du Pauvre diable de
+Voltaire, écrivain besogneux, toujours talonné par un bel appétit et une
+soif de vrai Bourguignon.</p>
+<p><pb/></p>
+<p>LES ECRIVAINS DÉ*CRIÉ*S. — ALEXIS PIRON. 276</p>
+<p><pb/></p>
+<p>Illisibilité partielle</p>
+<p>Contrastt Insuffisant NFZ 43-120-14</p>
+<p>RELIURE SERREE Absence de marges intérieures</p>
+<p>Valable pour tout ou partie du document reproduit</p>
+<p><pb/></p>
+<p>270 PU J.-n. ROUSSRAU A ANDUIS CHI':NIKR.</p>
+<p><pb/></p>
+<p>LKS 1-ICRIVAINS DÉCRIÉS. — ALEXIS l'MOX. 277</p>
+<p>eutre quotre-z-ycuxj mais demain qu'il y aura grande compagnie, je
+l'attends. J'ai taté son jeu assez pour ne le guère craindre. »</p>
+<p>La dernière considération qu'on peut porter au bénéfice de Piron, c'est
+sa conversion finale, dont il ne craignit pas de rendre hautement
+témoignage. Sa muse libertine n'avait du moins jamais fait profession
+d'incrédulité; s'il avait été licencieux, il n'avait pas été impie. Rien
+ne permet de mettre en doute</p>
+<p>16</p>
+<p><pb/></p>
+<p>278 \\r, J.-ÎÎ. ROUSSEAU A AXDRI$ cnriKifiit.</p>
+<p>(1) OEuvres inédites de Piron (in-8°), et Complément des oeuvres
+inédites, 1865, in-12), publiés sur documents authentiques «t manuscrits
+autographes, par M. Honoré Bonhomtoie.</p>
+<p><pb/></p>
+<p>IiKS ECRIVAINS MICIUÉS. — ritéitox. 279</p>
+<p>nous reconnaîtrons volontiers que, s'il a laissé une réputation
+détestable, il vaut mieux que sa réputatiou : il y en a tant d'autres
+qui valent moins que la leur !</p>
+<p>II. — Fiifinow</p>
+<p>Le souvenir des outrages sans nom dont Fréron fut poursuivi pendant
+toute sa vie pèse encore sur sa mémoire. Le roi de l'invective,
+Voltaire, furieux d'avoir été regardé en face et jugé par lui, l'a drapé
+dans un manteau de calomnies si savamment tissu qu'il n'a jamais pu s'en
+dépouiller entièrement. Voltaire savait bien ce qu'il disait en écrivant
+: « Calomniez, il en restera toujours quelque chose. » Il en est resté,
+en effet, contre Fréron je ne sais quelle vague défiance et quelle
+suspicion injuste de la part de ceux même pour qui ces insultes lui
+devraient être un titre de gloire.</p>
+<p><pb/></p>
+<p>Îi80 im J.-H. KOUHfcKAU A ANDHK CHKN1KK.</p>
+<p><pb/></p>
+<p>LES ÉOIUVAIXS D1ÎCIUKS. — FRÉHOK. 281</p>
+<p>troi16.</p>
+<p><pb/></p>
+<p>282 DK J.-Jl. KOUbbHAU A ANDHll CUÉN'IKII.</p>
+<p>Fréron a les principes de l'ancienne critique, qui jugeait les oeuvres
+de l'esprit en elles-mêmes, abstraction faite de toute question de race
+et de milieu, d'après un canon dont les modèles se trouvaient surtout
+daus l'antiquité. Pour lui la beauté était une, et elle avait son type
+absolu. C'est un homme du dix-septième siècle, un homme de tradition,
+stable au milieu du mouvement qui l'entoure, et qui ne</p>
+<p><pb/></p>
+<p>LKS tfOMVAlNS DJÎOltllîb. — FllÉROX. 283</p>
+<p><pb/></p>
+<p>284 DK J.-B. ItOUSSEAU A ANDltti C'IléxiBlt.</p>
+<p><pb/></p>
+<p>LKS hCKIVAINh UKCltlh». — l'UKltON. 285</p>
+<p>La littérature est le centre des études de Fréron, mais il rayonuo
+parfois daus toutes les directions du grand domaine de l'art. C'est
+ainsi qu'il a sur la peinture et sur la musique des vues ingénieuses et
+justes. Voici, par exemple, quelques réflexions sagaces, dont les
+fanatiques de la musique allemande, les mameluks de Wagner, pourraient
+faire leur profit :</p>
+<p><pb/></p>
+<p>280 DE J.-H. KOUhSEAU A ANDRE* CHÉ*NIEH.</p>
+<p><pb/></p>
+<p>LKS ECRIVAINS Dl-'ORlrés. — FRlÎROX. 287</p>
+<p><pb/></p>
+<p>288 DE J.-B. ROUSSEAU A ANDRÉ OHÉNIER.</p>
+<p><pb/></p>
+<p>LES ÉCRIVAINS DÉCRIAS. — FRlSllOX. 289</p>
+<p>permettre aucun extrait d'aucun ouvrage fait contre VEncyclopédie. »</p>
+<p>Ce malheureux et vaillant Fréron, seul contre tous, n'avait pour lui que
+la reine, et qu'était-ce que la reine auprès de Mmo de Pompadour,
+protectrice des philosophes, philosophe elle-même? On ne rencontrerait
+pas, dans l'histoire littéraire, l'exemple d'nn homme plus
+effroyablement diffamé que Fréron. Il en plaisante lui-même, avec cette
+ironie sereine dont il avait le courage et le secret :</p>
+<p>« Mes ennemis, ni ceux que je croyais mes amis, n'ont pu me nuire (ils
+ne devaient pas être toujours aussi impuissants); mais je leur rends
+justice : ils n'ont rien épargné pour y réussir... M. de Voltaire, cet
+aigle impérieux qui, du hav.'i du ciel, est venu fondre sur un misérable
+roitelet, ne m'a pas fait la blessure la plus légère, le plus petit tort
+; je sens avec douleur combien il doit en être piqué, et je suis
+réellement fâché de ne lui avoir pas donné, pour le moins, la
+satisfaction de m'être pendu de désespoir comme Lycambe : apparemment
+que les vers d'Archiloque avaieut une certaine vertu strangulatoiro que
+n'ont pas ceux de M. de Voltaire. »</p>
+<p>DR J.-ll. ROUSSEAU A ANDRÉ CHÏNIER. 17</p>
+<p><pb/></p>
+<p>.* *' * ' ? V</p>
+<p>v 290 DE J.-B. ROUSSEAU A ANDRE* OHÉ*NIER.</p>
+<p><pb/></p>
+<p>LES ECRIVAINS DréORIÉ*S. — FRÉRON. 291</p>
+<p>talents, ni aux éloges qu'il leur prodigue, les méprise au fond de l'âme
+et ne les loue que pour en être loué ». Saurait-on faire plus
+équitablemeut la part de l'éloge et du blâme que dans les portraits dont
+je détache les quelques traits suivants :</p>
+<p>On a rarement trouvé mieux que ce dernier trait pour caractériser
+Voltaire. En tout cas, ceux même qui contesteraient la justesse du
+jugement n'en sauraient nier la modération. Je n'ai pas lu, je l'avoue,
+et on m'en croira aisément sur parole, les cent quatre-vingt-trois
+volumes de Y Année littéraire, monument un peu lourd, un peu confus et
+très inégal</p>
+<p><pb/></p>
+<p>202 DE J.-B. ROUSSEAU A ANDRÉ* CHÉNIER.</p>
+<p><pb/></p>
+<p>ECRIVAINS DECRIAS. — RESTIF DE LA BRETONNE. 293</p>
+<p>i</p>
+<p>III. — RESTIF DE LA BRETONNE.</p>
+<p><pb/></p>
+<p>294 DE J.-B. ROUSSEAU A ANDRÉ CHÉ*NIER.</p>
+<p>gnon plus repoussant encore que vénéneux. L'homme fut un maniaque
+obscène, fou d'orgueil, batteur d'estrade et coureur de filles, ami peu
+sûr, «îari détestable, despote, irascible, capable et coupable des actes
+les plus malhonnêtes et même des infamies les mieux caractérisées. Sa
+vie n'est qu'une longue souillure, physique et morale; son oeuvre, un
+fatras incohérent et cynique, produit d'une imagination dépravée aussi
+dépourvue de sens moral que de goût, d'ordre et de mesure, mais on, de
+loin en loin, on découvre quelque vérité originale, quelque page
+expressive, émue, éloquente, comme une fleur poussée sur un tas de fumier.</p>
+<p>(1) Son premier ouvrage : ta Famille vertueuse, est de 1707) Restlf
+était alors dans sa 88e année. Le dernier qu'il ait publié luUmênio est
+les Nouvelle» contemporaine», en 1802. Il devait mourir en 1806. 11 fut
+plus d'une fois son propre éditeur, et il se plaint sans cesse d'avoir
+été volé par ses libraires.</p>
+<p><pb/></p>
+<p>ÉCRIVAINS DÉCRIÉS. — RESTIF DE LA BRETONNE. 295</p>
+<p><pb/></p>
+<p>290 DE J.-I3. BOUSSEAU A ANDRK CIIENlElt.</p>
+<p>Comment s'explique un tel revirement, et peut-il se justifier? Oui, dans
+les limites qu'on va voir, et pourvu qu'il n'ait rien de commun avec une
+réhabilitation. Restif de la Bretonne est un type tellement
+extraordinaire qu'il n'est ni [sans profit, ni surtout sans intérêt, de
+l'étudier, et son oeuvre, spécimen</p>
+<p><pb/></p>
+<p>ÉCRIVAINS DÉCRIÉS. — ItEbTIF DE LA BRETONNE. 297</p>
+<p>17.</p>
+<p><pb/></p>
+<p>298 DE J.-B. ROUSSEAU A ANDRÉ* CHÉNIER.</p>
+<p><pb/></p>
+<p>ECRIVAINS DÉCRIÉS. — RESTIF DE LA BRETONNE. 299</p>
+<p><pb/></p>
+<p>&amp;00 DE J.-B. BOUSSEAU A ANDRÉ CHÉ*NIEU.</p>
+<p>Restif de la Bretonne est un Jean-Jacques du ruisseau. 11 a écrit ses
+Confessions dans Monsieur Nicolas et cira semé des fragments dans lo
+Paysan et la</p>
+<p><pb/></p>
+<p>ECRIVAINS DÉCRIÉE*. — REST1F DE LA BRETONNE. 301</p>
+<p><pb/></p>
+<p>302 PB J.-B, ROUSSEAU A ANDRE* OHÊ*NIBR.</p>
+<p><pb/></p>
+<p>JÎORIVAINS DJ?ORIÉ*S. — RESTIF DK LA BRETONNK. 303</p>
+<p><pb/></p>
+<p>304 DK J.-D. ROUSSEAU A ANDItti OH^NIBH.</p>
+<p>La Renommée a toujours deux trompettes : L'une, &amp; sa bouche appliquée à
+piopos, Va célébrant les exploits des héros; L'autre...</p>
+<p><pb/></p>
+<p>ilouivAiNs nrôciutfs. — IIK&amp;TIF DE LA. BRETONNU, 305</p>
+<p><pb/></p>
+<p>800 DK J.-B. «OUSSKAU A ANDlré OIIfiNIEIl.</p>
+<p>naires, nous n'eu sommes pas a quelques ordures de plus ou de moius ;
+nous lui abandonnerons ses jugements et ne lui demanderons que des faits.</p>
+<p><pb/></p>
+<p>ECRIVAINS D1Î0RIJÎS. — RESTIF DE LA BRETOKNE, 307</p>
+<p><pb/></p>
+<p>308 DK J.-l». HOUSSKAU A AKMtri OllriNIKH.</p>
+<p><pb/></p>
+<p>ECRIVAINS DE*CR]É*S. — RESTIF DE LA BRETONNE. 309</p>
+<p><pb/></p>
+<p>310 DK J.-B. ROUSSEAU A A'JWÛ CHÊ*NIER,</p>
+<p><pb/></p>
+<p>ECRIVAINS D&amp;mirés. — RESTIF PK L\ BRETONNE. 311</p>
+<p>O'est presqne un tableau de l'âge d'or, sans rien de conventionnel et de
+chimérique, avec un grand accent de réalité au contraire, que cette
+description d'un petit coin de la Bourgogne, où, d'après ce té-</p>
+<p><pb/></p>
+<p>312 DE J.-B. ROUSSEAU A ANDRÉ* CIlréNIER.</p>
+<p>On rencontrera aussi daus la Paysanne pervertie, comme contraste aux
+tableaux'de la corruption des villes, de belles et touchantes scènes de
+la vie de famille au village. C'est un fouillis que ce roman</p>
+<p><pb/></p>
+<p>ECRIVAINS DlSCRlrés. — RKST1F Ml LA BRKTONNE. 313</p>
+<p>com18</p>
+<p><pb/></p>
+<p>814 PE J.-B. ROUSSEAU A ANDRE* OHrÎNIER.</p>
+<p>merco continuel aveo la Bible donnent a leur langage et a leurs manières
+une noblesse, une solennité presque liturgiques (1).</p>
+<p><pb/></p>
+<p>ECRIVAINS DECRIES. — RESÏ1P DE LA BRETONNE. 315</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>IX.</p>
+<p>ANDRE CHÊNIER. I.</p>
+<p>Il n'est pas de nom, dans toute notre histoire littéraire, auquel
+s'attache un intérêt plus vif et plus attendri que celui de ce jeune
+poète, tranché dans la pleine et robuste fleur d'un talent qui touchait
+au génie, et dont l'exécution, accomplie Pavant-veille du 9 thermidor,
+suffirait pour faire maudire la Terreur. L'admiration qu'il inspire se
+mêle de ce sentiment particulier de mélancolie qu'on éprouve devant les^
+débris d'un grand monument inachevé.</p>
+<p>18.</p>
+<p><pb/></p>
+<p>318 DE J.-B. ROUSSEAU A ANDRÉ* CHÉNIER.</p>
+<p><pb/></p>
+<p>ANDRÉ CHÉNIER. 319</p>
+<p>Rien n'est plus facile, pour un esprit cultivé, que de goûter la poésie
+de Chénier \ mais s'il s'agit de l'analyser et de la définir nettement,
+c'est tout antre chose. Il est malaisé de définir un génie de nature si
+complexe et en même temps si exquise, si divers daus les points de vue
+auxquels il se prête, si multiple dans ses origines et dans les sources
+oîi il puisa, comme dans le rôle qu'il remplit et dans l'influence qu'il
+exerça après lui.</p>
+<p>Mais André Chénier semble avoir prévu la difli-</p>
+<p><pb/></p>
+<p>320 DE J.-B. ROUSSEAU A ANDRÉ CHÉNIER.</p>
+<p>cnlté et voulu nous tirer d'embarras. Combien de fois n'a-t-il pas
+analysé luit-môme son talent et peint en traits d'une naïveté savante le
+charme particulier qui s'en dégage I Ne croirait-on pas qu'il parle de
+lui dans ces vers où il célèbre « la jeune Marie » :</p>
+<p>Abandonnant les fleurs, de sonores abeilles Vinrent, en bouidonnant, sur
+ses lèvres vermeilles S'asseoir, et déposer ce miel doux et flatteur Qui
+coule avec Ba voix et pénètre le coeur. Reine aux yeux éclatants, la
+belle Poésie, Lui sourit et trempa sa bouche d'ambroisie.</p>
+<p>D'un vaste champ de fleurs jo tire un peu de miel,</p>
+<p>dit-il encore ailleurs j</p>
+<p>Tout m'enrichit et tout m'appelle, et, chaque ciel M'offtant quelque
+dépouille utile et précieuse, Je remplis lentement ma ruche industrieuse.</p>
+<p><pb/></p>
+<p>ANDRI3 CHÏSNIER. 321</p>
+<p>Souvent des vieux auteurs j'envahis les nchesses</p>
+<p>Plus souvent leuis écrits, aiguillons généreux,</p>
+<p>M'embrasent de leur flamme, et je crée avec eux.</p>
+<p>Un i 'ge sourcilleux, épiant mes ouvrages,</p>
+<p>Traduits de tel auteur qu'il nomme; et, les trouvant,</p>
+<p>Il s'admire et se plaît de se voii si si\int.</p>
+<p>Que ne vient-il vers moi? je lui fei u connaîtie</p>
+<p>Mille de mes larcins qu'il ignoie peut-être.</p>
+<p>La couture invisible et qui va serpentant.</p>
+<p>Je lui montierai l'ait ignoré du vulgaire</p>
+<p>De séparer au\ jeux, en suivant leur lien,</p>
+<p>Tous ces métaux unis dont j'ai formé le mien ,.</p>
+<p>Tantôt, chez un auteiu, j'adopte une pensée,</p>
+<p>Mais qui îevêt, chez moi souvent entrelacée,</p>
+<p>Mes images, mes touis, jeune et frais ornement;</p>
+<p>Tantôt je ne xetiens que les mots seulement ;</p>
+<p>J'en détourne le sens, et l'ait sait les contraindre</p>
+<p>Veis des objets nouveaux qu'ils s'étonnent de peindie</p>
+<p><pb/></p>
+<p>322 DE J.-B. ROUSSEAU A ANDRÉ* CHÉNIER.</p>
+<p>Ronsard, — qu'il goûtait peu, parce que Ronsard a trahi l'antiquité en
+la traduisant, mais qu'il avait lu pourtant, — et l'un des plus
+personnels : alliance bien rare, et qui fait le charme, si rare aussi,
+de sa poésie. Les sentiments même qu'il éprouve le plus directement et
+le plus vivement, ceux que lui inspirent l'amour, la patrie, la liberté,
+il les exprime en empruntant aux anciens des formes et des images. Tout
+se coule, comme de soi, dans ce moule de l'imitation naïve et savante,
+qui est devenue l'habitude et le besoin de son esprit.</p>
+<p><pb/></p>
+<p>ANDRÉ OIlréNIER. 323</p>
+<p>emprunte aux artistes des thèmes gracieux on sévères, des motifs de
+tableaux, qu'il retrace eu ses vers d'un contour aussi pur et aussi
+précis que s'ils étaient sculptés sur l'ivoire.</p>
+<p><pb/></p>
+<p>324 DE .J.-B. ROUSSEAU A ANDRÉ* CHÉNIER.</p>
+<p>et de notre vieille langue, car i\ n'a guère moins étudié Amyot,
+Montaigne, Rabelais, Malherbe et JaJFontaJine que les anciens (les
+poètes contemporains n'ont même pas été oubliés par cette muse
+industrieuse, qui picore partout), ou en retrempant le sens d'un mot
+dans son étymologie primitive. C'est par centaines qu'on relèvera daus
+son oeuvre des tours comme ceux-ci :</p>
+<p>Et j'étais misérable,</p>
+<p>Si vous (car c'était vous), avant qu'ils m'eussent pris, N'eussiez armé
+pour moi les pierres et les cris... ^</p>
+<p>Admiraient, d'un regard de joie et de respect, De sa bouche abonder les
+paroles divines..</p>
+<p>A moins qu'avec adresse un de ses pieds lié Sous un cuir souple et lent
+ne demeure plié...</p>
+<p>O'est le vainqueur du Gange,</p>
+<p>Au visage de vierge, au front ceint de vendange...</p>
+<p>Et le dormir suave au bord d'une fontaine ..</p>
+<p>La question du style d'André Ohénier exigerait de très longs
+développements. Un poète surtout ne se lassera jamais d'étudier les
+secrets de sa versification, cette coupe savante, neuve et variée, le
+nombre, l'harmonie douce et vibrante a la fois de son# rythme, l'art
+avec lequel il déroule, presse, suspend la période, et ces rejets
+hardis, et ces tours rares,</p>
+<p><pb/></p>
+<p>ANDRK* CHÉNIER. 325</p>
+<p>DE J.-B, ROUSSEAU A ANDRE CHÉNIER. 19</p>
+<p><pb/></p>
+<p>320 DK J.-B. ROUSSEAU A ANDRÉ OHÉKIKIt.</p>
+<p><pb/></p>
+<p>ANDRÉ CHÉNIEll. 327</p>
+<p>culte de la Vénus physique, où il dépasse Parny, en égalant Tiballc.
+C'est toujours l'amour des sens qu'il peint, et il le peint toujours
+d'après l'autique. Même en ces tableaux ardents, l'artiste jamais ne se
+laisse emporter ni distraire.</p>
+<p>IL</p>
+<p><pb/></p>
+<p>328 DE J.-B. ROUSSEAU A ANDRÉ* CHÉNIER.</p>
+<p>pris et sa haine. La bravoure indomptable de cet homêriste a été
+véritablement homérique. On no sait pas assez qu'il fut l'an des
+auxiliaires et des conseillers de Malesherbes dans la défense do Louis
+XVI. Sur cette phase héroïque de sa vie, il faut lire le livre éloquent
+de M. Oscar de Vallée : André Ckénier et les Jacobins.</p>
+<p><pb/></p>
+<p>ANDRÉ CHOMER. ' 329</p>
+<p>mé10.</p>
+<p><pb/></p>
+<p>330 m J.-JJ. ROUSSEAU A ANDRÉ 0HB*N1ER.</p>
+<p>prisés qu'après les avoir connus, quo sa haine eut le désintéressement
+clo son amour, et qu'il a voulu signer ses accusations de sa vio, a
+l'exemple de ceux dout Pascal a dit ; « «J'en crois volontiers des
+témoins qui se font égorger. »</p>
+<p>Il arrache les masques : d'un trait net et incisif</p>
+<p><pb/></p>
+<p>ANDIllS CHOMER. 331</p>
+<p><pb/></p>
+<p>332 PI: j.-«. ROUSSEAU A ANDRE* cnrixiKit.</p>
+<p><pb/></p>
+<p>ANDltK OHÉNIER. 333</p>
+<p>relever le sien. Quant au saHimbauquoCollot-d'Herbois, a bouffou qui
+n'afaitquo olianger do tréteaux... défenseur officieux do tons les
+soldats qui ont été aux galères ou qui sont dignes d'y aller », c'est
+surtout pour la part qu'il avait prise a l'organisation do la féto
+scaudaleuso en l'honneur des Suisses de Chateauvieux qu'André Ohônier le
+crible do ses traits les plus sauglauts et vide sur lui tout son carquois.</p>
+<p><pb/></p>
+<p>334 DK J.-B. KOUSSKAU A AN Dit ^ C'IIiÎN'IKIt.</p>
+<p>emportées, croyant se raoheter do l'opprobre par l'impudence.</p>
+<p><pb/></p>
+<p>ANDRÉ CHÉN1KH. 335</p>
+<p>La transformation, ou plutôt le développement est complet. Si l'on veut
+voir a quel point le poète exquis, celui qui avait BU fondre, dans une
+perfection si rare, l'harmonie raciuienne avec l'harmonie homérique, est
+devenu, sous l'empire d'une inspiration nouvelle, un poète violent et
+sombre, dont la lyre n'a plus que des cordes d'airain; comment
+Théocrite, Anaoréon, Horace et Méléagre se sont changés en Archiloque,
+il ne faut pas lire seulement les ïambes superbes qui se terminent par
+ce distique :</p>
+<p>Bouffie, 6coeur gros de haine, affamé do justice; Toi, Vertu, pleuro si
+je meurs !</p>
+<p>et ceux que Sainte-Beuve a révélés pour la première fois dans l'édition
+de 1839, mais encore les pièces de Saint-Lazare, qui, restées inédites
+jusqu'à, ces dernières années, ont été imprimées pour la première fçis
+en entier dans l'édition de M. Gabriel de Ohé* nier. Auguste Barbier,
+dans ses satires les plus crues et les plus osées, n'a point dépassé
+l'effrayante énergie de ces vers, où l'imnge sait au besoin se faire
+triviale et cynique comme les personnages qu'elle stigmatise :</p>
+<p>Hou! les Vils scélérats, les monstres, lçs infâmes,</p>
+<p>De vol, de massacre nourris, Noirs ivrognes de sang, lâches bourreaux de
+femmes!...</p>
+<p>Quel remords agite le flano,</p>
+<p><pb/></p>
+<p>*\ *</p>
+<p>330 DE J.-li.' HOUSSEAU A ANDHE* OlréNIBR.</p>
+<p>Tourmente lo sommeil du dioastero Infâmo</p>
+<p>Qui mango, boit, rote du sang?... Fuis tu les enverras tous au fond des
+ténèbres</p>
+<p>Lécher lo o» du bon Marat.</p>
+<p>III.</p>
+<p><pb/></p>
+<p>ANDItré OIUINIER. 337</p>
+<p><pb/></p>
+<p>'J »</p>
+<p>338 PK J..», ROUSSRAU A ANI&gt;R&gt;1 OHllNIRR.</p>
+<p><pb/></p>
+<p>ANDRIÎ C11KKIKH. 339</p>
+<p>FIN.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>TABLE.</p>
+<p>I. — JEAN-BAPTISi'E ROUSSEAU ' 1</p>
+<p>II. — VOLTAIRE 19</p>
+<p>I. — Allouer 19</p>
+<p>II, — VOLTAIRE ", 36</p>
+<p>III, — VOLTAIRE ET FRÉDÉRIC CO</p>
+<p>IV. •— LE rvrRiAiiciiE DE FERXEY 91</p>
+<p>III. — L'ABBÉ PRÉVOST 121</p>
+<p>IV. - DIDEROT 141</p>
+<p>V. — LES ÉPISTOLIÈRES 159</p>
+<p>I. — Mm 0 DU DEFFAND 169</p>
+<p>' II. — lllle DE LESPINASSE 174</p>
+<p>III. — Mm 8 DU CffATELET • 187</p>
+<p>IV. — Mme DE GRAFFIGKY 198</p>
+<p>V. — H 11" Aï&amp;sÉ 205</p>
+<p>VI. — M'&gt;« DE CONDÉ 216</p>
+<p>VI. — JEAN-JACQUES ROUSSEAU 223</p>
+<p>VII. — L'ABBÉ GALIANI 251</p>
+<p>VIII. — LES ÉCRIVAINS DÉCRIÉS 267,</p>
+<p>I, — ALEXIS PIRON 267</p>
+<p>IL — FRÉRON 279</p>
+<p>III. — RESTIF DE LA BRETONNE 293</p>
+<p>IX. — ANDRÉ CHÉNIER 3J7</p>
+    </div>
+    </body>
+  </text>
+</TEI>

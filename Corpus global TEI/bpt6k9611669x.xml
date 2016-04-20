@@ -1,0 +1,2089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Fagus (1872-1933)">Fagus</author>
+<title>Essai sur Shakespeare</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Fagus (1872-1933)</author>, <title>Essai sur Shakespeare</title>, <date>1923</date>,description :,244 pages
+</bibl>
+<publisher></publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k9611669x</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1923">1923</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>BIBLIOTHEQUE DU HERISSON</p>
+<p>FAGUS</p>
+<p>ESSAI SUR</p>
+<p>SHAKESPEARE</p>
+<p>AMIENS</p>
+<p>LIBRAIRIE EDGAR MALFLRE</p>
+<p>7, RUE DELAMBRE. 7</p>
+<p>1923</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>*A</p>
+<p>PML FORT ^UR SON</p>
+<p>LOUIS XI, CURIEUX HOMME</p>
+<p>ET A</p>
+<p>LÉON DAUDET</p>
+<p>POUR SON</p>
+<p>VOYAGE DE SHAKESPEARE</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>tSSAI SUR</p>
+<p>2AKESPEARE</p>
+<p><pb/></p>
+<p>JUSTIFICATION DU TIRAGE</p>
+<p>Il a été tiré :</p>
+<p>2.000 exemplaires ordinaires.</p>
+<p>Tous droits de reproduction réservés.</p>
+<p>Copyright 1923 by Edgar Malfère.</p>
+<p><pb/></p>
+<p>BIBLIOTHÈQUE DU HÉRISSON</p>
+<p>FAGUS</p>
+<p>r^ESSAI SUR</p>
+<p>~l</p>
+<p>SHAKESPEARE</p>
+<p>AMIENS</p>
+<p>LIBRAIRIE EDGAR MALFÈRE</p>
+<p>7, RUE DELAMBRE, 7</p>
+<p>1923</p>
+<p><pb/></p>
+<p>OUVRAGES DU MÊME AUTEUR</p>
+<p>CHEZ LE MÊME ÉDITEUR :</p>
+<p>La Danse Macabre (parue en 1920).</p>
+<p>, Frère Tranquille (paru en 1922).</p>
+<p>CHEZ D'AUTRES ÉDITEURS :</p>
+<p>Testament de sa vie première, vers (Vanier : 1898).</p>
+<p>Colloque sentimental, vers (Société libre d'Editions : 1898). Ixion,
+poème (La plume : 1903).</p>
+<p>Jeunes fleurs, vers (Revue de Champagne : 1906).</p>
+<p>Aphorismes (Sansot : 1908).</p>
+<p>Discours sur les « Préjugés ennemis de l'Histoire de France » (Occident
+: 1909).</p>
+<p>Politique de l'Histoire de France (Occident : 1910).</p>
+<p>La Prière de quarante heures, poème (Éditions Gallus : 1920).</p>
+<p>Le Jeu-Parti de Futile (La Belle édition : 1920).</p>
+<p>Jonchée de fleurs sur le pavé du Roi, vers (Nouvelle Librairie</p>
+<p>Nationale : 1921).</p>
+<p>INÉDITS :</p>
+<p>Les Églogues de Virgile, traduites en vers.</p>
+<p>Éphémérides, poèmes en prose.</p>
+<p>Philippe-Auguste, tragédie royale.</p>
+<p>EN PRÉPARATION :</p>
+<p>Discours sur l'Histoire de France.</p>
+<p><pb/></p>
+<p>1</p>
+<p>COUP D'ŒIL GÉNÉRAL</p>
+<p>/PR%.'ŒUVRE ET L'OUVRIER</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>Ceci, lecteur, est l'ouvrage d'un ignorant. Je ne sais même pas un mot
+d'anglais et n'en saurai jamais un. Les hasards de la guerre m'internant
+dans une infirmerie, j'y relus Hamlet dans la traduction de M.
+Pierre-Paul Plan : laquelle me procura incontinent la démangeaison de
+relire tout Shakespeare. Je l'entrepris dès la première occasion, et
+voici le résumé de ma lecture.</p>
+<p><pb/></p>
+<p>d'ailleurs aux sermonneurs de Molière, aux confidents de Racine, aux
+plaidoiries de Corneille ! Mais bientôt toute puissante se fait
+l'emprise ; il capte, grise tous les sens, pêche au vin dans une coupe
+de cristal : car il est plus prenant que tout autre. C'est Bacchus en
+personne.</p>
+<p><pb/></p>
+<p>Hugo, ou du barbare ivre selon Voltaire : même chose au fond, si tant
+est que signifie quelque chose ?</p>
+<p>Cependant nous, Français, avons tout digéré, ou toléré : théâtres grec,
+espagnol, italien, la Médée de Corneille et YAtrée de Crébillon, le
+Mystère de la Passion, Faust, le Grand-Guignol, le théâtre d'âmes, les
+mélodrames romantiques, Wagner, les théâtres japonais et Scandinave...
+En quoi Shakespeare se fait particulièrement intempestif ?</p>
+<p>Que s'est-il donc passé depuis sa mort ? Il s'est passé qu'il aura été
+victime d'un malentendu qui date du moment même de sa résurrection. Le
+Destin avec lequel il avait tant joué, lui a joué une espèce de farce
+énorme ; le temps, que son génie étirait en façon de matière élastique,
+s'est revanché en le rendant inactuel, après l avoir endormi pour un
+siècle au même cercueil où il coucha l'épouse de Périclès, prince de Tyr
+; lui, qui envolait les quatre planches de son tréteau</p>
+<p><pb/></p>
+<p>jusqu'aux confins du monde, s'est retrouvé interné un siècle durant, tel
+son Ariel, hors du monde qui continuait de tourner.</p>
+<p>Car si son génie le fait perpétuellement actuel, ses habits sont de la
+Renaissance où il vivait, et par son caractère il reste le dernier
+chrétien du Moyen Age.</p>
+<p>Saluons, immédiatement, son office ici de conci-</p>
+<p>1. Un de ces effets connus est ce raffinement de verbe et de pensée mêlé
+de pédantisme païen, qui, né en France avec Ronsard, illustra les noms
+de Gongora en Espagne, Marini en Italie,</p>
+<p>Lily en Angleterre, pendant la jeunesse même de Shakespeare.</p>
+<p><pb/></p>
+<p>Comme en France Ronsard faisait triompher le gongorisme, l'effet y fut
+tout différent, par le délit initial d'inonder d'un pseudo-sang antique
+la langue et la poésie qu'il prétendait rénover (on se demande pourquoi).</p>
+<p>Pourtant, la poigne du roi Henri ayant réduit les convulsions, les
+Français s'étaient pu reprendre aux Lettres : et il repoussa comme par
+insurrection un art humain et national. Sous Louis XIII, la littérature est</p>
+<p><pb/></p>
+<p>Par malheur, quand Racine débuta, depuis vingt ans, tous, et Corneille,
+s'y étaient asservis, hors Molière (mais qui n'était pas tragique !).
+Ces règles ne gênaient pas plus le théâtre de Racine, tout de conflits
+intérieurs, que ne l'eut gêné au siècle d'après de s'exprimer sous</p>
+<p><pb/></p>
+<p>Vingt ans après la mort de Shakespeare, l'éteignoir puritain
+l'ensevelissait avec tout théâtre. Et quand les</p>
+<p>1 Cent ans plus tard, Racine inventait Les Liaisons dangereuses.</p>
+<p><pb/></p>
+<p>Il était Épiménide, le parent qui revient du bout du monde. Tout a
+changé en tout : il fait figure du Huron de Voltaire, précisément : de
+sauvage ivre.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>sens divers. Contempteurs du classique ou dévots, ne comprenant pas
+davantage en quoi il consiste (il suffit de les lire) pas plus Racine
+que Sophocle, Molière qu'Aristophane : comment eussent-ils compris ce
+revenant ?</p>
+<p>Mais 89 avait passé ; la toujours même erreur qui avait confondu
+Corneille avec Crébillon, Racine avec Campistron, confondit Shakespeare
+avec le carnaval de 89.</p>
+<p>Le romantisme littéraire n'eût été que bienfaisant, et très s II eût
+représenté la remise en vigueur de l imagination par la raison, s'il
+n'eût recouvert un romantisme intellectuel et moral. Mais tout en
+s'insurgeant contre les formes du XVIIIe siècle et contre toute forme,
+il continua ce siècle en son esprit anarchique ; Hugo et les autres
+continue Châteaubriand, qui continue Jean-Jacques, qui continue Fénelon.</p>
+<p>Ils virent en Shakespeare, comme les Allemands et</p>
+<p><pb/></p>
+<p>Au lieu de rechercher, selon logique et loyauté, la commune mesure entre
+lui et les autres : leur mesure d'universel et d'éternel, ils
+cherchèrent puérilement par quoi il leur paraissait dissembler, et qui
+par conséquence pouvait l'éloigner de nous.</p>
+<p>1. Voir Appendice 1 : Shakespeare sans décors</p>
+<p><pb/></p>
+<p>A peu près comme si l'on symbolisait l'œuvre et la vie d'un Balzac par
+Vautrin, Ferragus, la Fille aux Yeux d'Or, et une Passion dans le désert !</p>
+<p><pb/></p>
+<p>SHAKESPEARE N'EST PAS UN MONSTRE</p>
+<p><pb/></p>
+<p>Montaigne eût dit : Que sais-je ? et Rabelais : Peut. être ? Ainsi à
+pleine voix le monologue d Hamlet, le sourire de Vinci 1.</p>
+<p>Et comme est de sa profession ! Son art le passionne si fort que tout
+comme ses confrères Molière et Corneille2 il ne se peut retenir d'en
+entretenir le public. Sous ses procédés de travail, nous le voyons,
+matériellement en quelque sorte « déterrer une vieille ballade,
+rhabiller l' « ours » d'un contemporain, improviser d'un jet puis
+retailler, et puis encore, et sans arrêt mettant en action l'aphorisme
+de Buffon sur la longue patience du génie, et celui de Napoléon, sur
+l'inspiration, solution spontanée du problème longuement médité.</p>
+<p>Éminent entre tous, il est un homme comme nous tous, éprouve toutes nos
+passions, se met en scène :</p>
+<p>2. « L illusion comique ».</p>
+<p><pb/></p>
+<p>Et pourtant, s'il n'était pas Shakespeare ? Question oiseuse, mais
+obsédante.</p>
+<p><pb/></p>
+<p>IMPRESSION PREMIÈRE</p>
+<p>Pour connaître Shakespeare il suffit de le lire. Mais le lire entier :
+théâtre historique, Sonnets, la Lucrèce, l' Adonis, les Apocryphes aussi
+bien, et non, suivant l'usage, tourner dans le cercle des six, huit, dix
+pièces plus ou moins popularisées, et défigurées. Et, insistons- y, s
+être débarbouillé d'abord de tout souvenir scé- nique.</p>
+<p><pb/></p>
+<p>une île enfantée par les génies, une farandole de jeunes filles, un
+cirque de bêtes fauves, une académie d'épicuriens, un bosquet
+d'amoureux, un banquet de philosophes, un cinéma pour les farfadets, un
+grouillement de spectres, un cabaret de joyeux vivants, une cuisine de
+cervelles pour les sorcières, une charcuterie de viscères par les
+démons, une jaserie d'enfants, un tournoi d'idées sublimes, une
+quintaine d'idées biscornues, et là-haut, l'harmonie des sphères.</p>
+<p>Cela tout seul, cela que nous voyons en lui d'abord, imagerait peut-être
+un resplendissant chaos, et, paradoxe ! — un chaos harmonieux. Mais il y
+a bien autre chose. Il y a ce qu'il a vu.</p>
+<p><pb/></p>
+<p>SA VISION DE L'UNIVERS</p>
+<p>1. Ou dans un avion.</p>
+<p><pb/></p>
+<p>les étalait sous les regards du Christ ; et nous prendrons idée de la
+vision shakespearienne, et sa conception des « unités ». Son génie l'a
+placé au point de vue de la Providence.</p>
+<p>Une ample comédie aux cent actes divers</p>
+<p>Et dont la scène est l'univers.</p>
+<p>Il la transporte sur les planches, ivre d'elle lucidement, il lui faut
+la chanter pour décharger son ivresse1. Après coup seulement se
+fera-t-il architecte, moraliste, et le reste : il est avant tout un
+voyant, peintre : musicien, et tout, pour exprimer ce dont ses yeux sont
+pleins.</p>
+<p>Beethoven : « — Je suis Bacchus, qui verse l'ivresse aux hommes. »</p>
+<p><pb/></p>
+<p>SA VISION DE L'HOMME</p>
+<p>Mais nonobstant, il ne conçoit pas « l'homme en général », l'homme
+dépersonnalisé, l'homme abstrait (son théâtre le montre assez !) S'il
+n'envisage jamais</p>
+<p><pb/></p>
+<p>Paradoxe suprêmement logique. A tous matière unique ; arrangement
+différent pour chacun, car : « autant de différence entre un homme et un
+homme » qu'entre un peuple et un peuple, une planète et une planète.
+Chacun son « petit royaume » de facultés, appétits, sentiments,
+passions, pensées, actes. C'est tout scientifique.</p>
+<p><pb/></p>
+<p>LEURS RAPPORTS</p>
+<p><pb/></p>
+<p>LIBRE-ARBITRE ET FATALITÉ</p>
+<p><pb/></p>
+<p>LIBRE-ARBITRE ET RESPONSABILITÉ</p>
+<p>Telle maîtrise sur nos actions ne leur signifie nullement les
+conséquences préjugées par notre courte vue. Il s'en faut : Fortinbras
+en témoigne comme Ham- let. Mais agissons : demeurer inerte est désobéir
+autant qu'enfreindre ouvertement. Quelle école de volonté !</p>
+<p><pb/></p>
+<p>en faveur du fruit d'icelle. Et ce qui devait arriver arriva. Prospéro
+fut puni automatiquement selon une logique pareille d'avoir abdiqué son
+devoir de souverain : inversement que récompensé le souverain de Mesure
+pour Mesure d'avoir agi selon le sien.</p>
+<p>Shakespeare conclut par l'aveu de Gloster : « Les dieux sont justes ;
+c'est de la matière de nos fautes qu'ils forgent notre châtiment. »
+Moucherons sous leurs mains, agissons en honnêtes moucherons ; c'est le
+plus sûr ; le seul sûr.</p>
+<p>D'où la réprobation du suicide, du désespoir, si nettement formulée.
+Puisqu'il est une providence pour même le trépas d'un moineau, quel plus
+grand crime</p>
+<p><pb/></p>
+<p>que l'enfreindre, que dérégler l'ordre universel ? Le suicide est
+peut-être l'attentat capital. D'où la question de la mort en état de
+péché si minutieusement exposée sous toutes ses faces dans Hamlet ; d'où
+le mot de Gloster : « — Que jamais notre mauvais génie ne nous pousse à
+mourir avant l'heure qui a plu aux dieux. » Quels dieux ? nous allons
+nous efforcer de l'apercevoir.</p>
+<p><pb/></p>
+<p>L'ORDRE DANS L'UNIVERS</p>
+<p>Au-dessus de tout, la Providence du Destin, œil du</p>
+<p>Créateur.</p>
+<p><pb/></p>
+<p>L'ORDRE DANS LA SOCIÉTÉ</p>
+<p><pb/></p>
+<p>que souverain (ainsi, dans les Méprises, la XIIe Nuit, Mesure pour
+Mesure, les Deux Nobles Parents).</p>
+<p>Un ordre pareil régira nécessairement le « petit royaume » que
+représente chacun de nous.</p>
+<p><pb/></p>
+<p>LA RÉALISATION THÉATRALE : LES GENRES</p>
+<p>(On l'a accusé de complication, confusion, etc... Même reproche à
+Balzac, au génie si parent. Exemple. l'indicible enchevêtris de la
+Maison Nucingen. Or, Balzac percevait si bien cet écueil, qu'il déploya
+des prodiges pour le dissimuler. Mais il le fallait ainsi. Ainsi pour
+Shakespeare).</p>
+<p>La façon de son théâtre ressort directement de sa perception de
+l'univers. Corneille échafaude des situations ; Racine dissèque ;
+Molière anime des portraits. Lui évoque l'humanité. Eux, des
+architectes, lui, un spectateur.</p>
+<p>N'en va-t-il pas toujours ainsi ?</p>
+<p><pb/></p>
+<p>Ainsi, que les étiquettes ne nous dupent pas plus que ne dupèrent ces
+maîtres. Ce qui constitue la tragédie n'est pas la catastrophe, ni la
+solennité ; non plus que la comédie les soubresauts comiques. Et elles
+ne sont pas essentiellement ni continuement, ou comiques ou tragiques.
+Un comique se subodore quand Néron « roule » sa maman, et ensuite, «
+blague » la naïveté de Burrhus (exactement comme don Juan la naïveté de</p>
+<p><pb/></p>
+<p>Sganarelle) ; quand Pyrrhus tergiverse et retergiverse ; quand Bérénice
+pique sa crise de nerfs, et quand Antiochus figure le chandelier transi.
+Et faut-il insister sur le tragique de Molière, Labiche, Courteline ?</p>
+<p>Danse, pantomime, féerie, farce, etc..., appelleraient des remarques
+analogues.</p>
+<p>1. Aussi, Néron, Bérénice ni Pyrrhus ne donnent envie de rire.</p>
+<p><pb/></p>
+<p>continues ; les drames historiques (autre genre de tragédies) sont rien
+qu'historiques, même aux intermèdes de Falstaff ; le Songe, la Tempête,
+féeries ; les Deux Gentilshommes, comédie-mélodrame de même famille que
+le Clitandre cornélien ; Tout est bien qui finit bien, comédie héroïque;
+Trotte et Cressida, tragi-comédie; Conte d'Hiver, tragi-comédie
+enfermant une pastorale ; le Marchand de Venise, Beaucoup de Bruit pour
+Rien, comédies dramatiques ; Comme il vous Plaira, au titre
+significatif, entrelace drame, pastorale, comédie. Si les genres sont
+parfois composites, ou, plus rarement, indécis, nut chaos, nulle confusion.</p>
+<p><pb/></p>
+<p>CHOIX DES SUJETS. INTRIGUE</p>
+<p><pb/></p>
+<p>rurent... » Ils s'agitent, et Dieu les mène. Quoi qu'advienne, l'inverse
+eût pu advenir aussi bien, ou bien autre chose.</p>
+<p>Et il prend chroniques, contes, vieilles comédies, ballades antiques,
+faits divers contemporains ou, pour mieux dire, se laisse prendre par
+eux. La plus extraordinaire fable inclut sa parcelle de vérité, de
+possibilité humaine, du fait seul d'avoir éclos dans un cerveau humain.
+Cette parcelle, cette étincelle, ce germe suffit au créateur.
+Germination nullement inconsciente, mais attentive et successive : on en
+collectionne indices et preuves, et que plus d'une de ses pièces furent
+retravaillées, parfois toute sa vie, et que, comme pour Napoléon,
+l'inspiration lui fut la solution spontanée, mais réfléchie, de
+problèmes longuement médités.</p>
+<p><pb/></p>
+<p>D'où son goût, sa gourmandise des vieilles ballades et contes antiques,
+et chroniques populaires1.</p>
+<p>Tout au rebours de ce virtuose de l'intrigue, son peut-être compatriote,
+Corneille. Celui-ci joue la difficulté, combine une situation
+culminante, extraordinaire, inextricable, puis substructure tout
+l'édifice pour la préparer, soutenir, justifier, glorifier, et son
+théâtre serait figuré assez bien par l'alternative, l'impasse préméditée
+vers quoi il conduit avec ingéniosité géniale celle de ses tragédies
+qu'il prisait le plus :</p>
+<p>Devine si tu peux et choisis si tu l'oses !</p>
+<p>et qui, entreprenant ses cathédrales par la cime de la flèche, conclut à
+l'invraisemblable et le fait applaudir.</p>
+<p>1. Voir Appendice II : Hamlet de Gascogne.</p>
+<p><pb/></p>
+<p>r humaines, qu'elles en sont banales, et de là, tirent une f évidence,
+une puissance merveilleuses.</p>
+<p>Le cas exposé franchement, dès l'abord \ ni plus ni moins que chez
+Racine, il laisse aller les événements ; ou mieux, les regarde aller,
+sans paraître intervenir ; l'intrigue avance naturellement, selon les
+ricochets des actions, des caractères, les intersections des hasards ;
+tout s'engrène, s'arrange, s'ordonne spontanément, et finalement retombe
+sur ses pattes aussi naturellement que le chat lâché du balcon.</p>
+<p>1. Sauf de rares exceptions (Les Joyeuses Commères, par exemple) ; plus
+rares peut-être que chez Molière et Corneille : Héra- clius, Tartufe,
+Rodogune, etc...</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>LES UNITÉS</p>
+<p>Jules César, Antoine et Cléopâtre : L'univers aura-</p>
+<p><pb/></p>
+<p>t-il son maître ? Le lieu, cet univers. Le temps : 1° délibération
+synchronique de César (— Irai-je au Sénat pour être sacrifié ?) et de
+Brutus (— Irai-je au Sénat, pour sacrifier César ?) — ; 2° Alternative
+d'Antoine entre Cléopâtre et Livie : entre l'univers et la damnation ?</p>
+<p>Etc...</p>
+<p>Quand de Britannicus la mère condamnée</p>
+<p>Laissa de Claudius disputer l'hyménée, »</p>
+<p><pb/></p>
+<p>MORALE ET BEAUTÉ</p>
+<p>Après tout ce que nous avons vu, épiloguer de Shakespeare moraliste est
+superfétatoire. Moraliste, il l'est autant ni plus ni moins — que le
+chimiste qui constate que la mort-aux-rats fait mourir. Oui, seulement
+lui, l'ayant constaté, il le déclare, l'atteste, le proclame, le crie.</p>
+<p>S'éprenant d'un problème insoluble et stérile</p>
+<p>Aux choses de 1 amour mêler l'honnêteté.</p>
+<p><pb/></p>
+<p>Cette morale, bien entendu, n'est pas directe : Shakespeare était un
+homme de goût, sachant que pas plus que le chimiste il n'est faiseur de
+prêches, son horreur du reste. Il relate avec autant de sang-froid les
+démoralisantes réussites de Richard III, de Gloster le bâtard et
+l'infortune odieuse de Cordélia, que Racine la réussite de Narcisse et
+l'infortune de Junie.</p>
+<p>Nous le distinguions plus haut, il voit, fait voir la Providence, non
+dans des sanctions immédiates (qui seraient imaginaires) mais dans les
+faits. Du point culminant où il s'est installé une fois pour toutes, les
+événements se développent librement, il constate que « finalement tout
+est bien ». Partout où « il y a quelque chose de détraqué » dans l'ordre
+universel, c'est que d'abord il y eut délit moral, et semble définir
+tacitement le délit : tout ce qui perturbe l'ordre moral.</p>
+<p><pb/></p>
+<p>a spolié son pupille. L'ancêtre des Lancastre fut sacrilège envers son
+roi. Cymbeline a défailli comme roi, époux et père. Etc...</p>
+<p>Il ne peut, pas ne pas être que l'ordre soit rétabli, et châtiés les
+fauteurs du désordre. Ils le sont par les conséquences mêmes de leurs
+fautes. Comme tous responsables. (Et que de responsables ! nous tous
+parfois) ; même non directement coupables, ils seront atteints : la
+justice divine est justesse, une juste balance. Et notre justice humaine
+ne punit-elle pas l'homicide par imprudence ? Sur terre, la chose qui
+compte, c'est les résultats. Par les conséquences mêmes de leurs
+forfaits, Macbeth, Claudius, Richard III, sont contraints, comme le
+Néron de Racine, de</p>
+<p>Laver dans le sang leurs bras ensanglantés,</p>
+<p>Tout coupable châtié, tout responsable atteint. Soit. Mais, et les
+innocents frappés ? Pourquoi ? Eh mon Dieu, d'abord parce qu'en effet il
+en va ainsi dans notre vie terrestre ; et cela n'était point pour
+embarrasser celui qui, comme chrétien, savait qu'elle n'est que</p>
+<p>L'envers de la tapisserie</p>
+<p>Dont le dessin est là-haut.</p>
+<p><pb/></p>
+<p>Mais ne subtilisons pas. Oui, il n'est que trop patent que bien souvent
+les innocents pâtissent. C'est ainsi, depuis Abel et Caïn ; puisqu'il
+est des criminels, il est des victimes.</p>
+<p>Parmi quoi, des victimes expiatoires. Le châtiment du coupable, tout
+personnel, ne répare pas nécessairement un dommage, qui pourtant doit
+être réparé, et ce n'est pas une onde impure qui lavera un linge
+souillé. D'où les victimes expiatoires, dont les chrétiens montrent en
+exemple la plus haute qui soit, et dont les païens connaissaient déjà
+l'éminente vertu. Nous sommes tous solidaires, tous débiteurs et
+créanciers. Roméo, Juliette, furent assassinés par tous leurs parents,
+et c'est son père qui a étranglé Cordélia. Réciproquement, Banquo et les
+ancêtres de Posthumus acquittent d'avance par leur infortune — et s'en
+réjouissent — la bonne fortune de leur descendant. Solidarité, cette
+réversion, qui justifie les réussites, imméritées en apparence,
+d'Octave, Albany, Fortimbras, Henri Tudor</p>
+<p><pb/></p>
+<p>Tout cela relève d'une morale aussi scientifique que religieuse.</p>
+<p>Beau moral, beau physique, sont de même nature ;</p>
+<p><pb/></p>
+<p>A l'antipode, le maladif Hugo, de même que défigure le souriant Silène
+virgilien en son monstrueux Satyre, rencontrant le monstre Caliban, en
+fait son héros majeur, Triboulet — Quasimodo — Homme-qui-rit (etc...).
+Un domestique échauffé par sa souveraine ne saurait être aux yeux clairs
+de Shakespeare que le noir pitre Malvolio : Hugo s'en saisit, et le
+magnifie en Ruy-Blas, ver de terre amoureux1 comme inversement, d'un
+jeune prince joyeux vivant, l'un tire le héros Henri V, et l'autre une
+basse caricature de François Ier ? D'ailleurs, c'est bien simple, pour
+Hugo est héros tout ce que Shakespeare abhorre : tout ce qui enfreint la
+norme, bâtards, voleurs, forçats, révoltés, filles publiques, adultères,
+populace, ou généralement silhouettes repoussantes : le beau est
+horrible, l'horrible est beau.</p>
+<p>1. Amoureux d'une étoile : et comme par hasard les vers de terre se
+soucient peu des étoiles, faute d'yeux. Tout le faux lyrisme romantique
+se montre là.</p>
+<p><pb/></p>
+<p>QUI ÉTAIT SHAKESPEARE ?</p>
+<p>Et il y a les Baconiens, si savants, si spécieux. Et il y a ceux qui
+pensent que Shakespeare est tout bonnement Shakespeare.</p>
+<p><pb/></p>
+<p>I</p>
+<p>Autre exemple. Le ton tout moliéresque du prologue de la Mégère, maint
+trait des Deux Gentilshommes : la soubrette et le valet, leurs
+silhouettes et leurs débats avec les maîtres, germe de ceux de Y
+étourdi, le Dépit</p>
+<p>1. Notre sujet n'est pas un parallèle entre Shakespeare et Racine ou
+d'autres. Nous pourrions, par exemple, noter le goût descriptif si vif
+chez l'un et l'autre, presque nul chez Molière, inexistant chez
+Corneille. Par contre, une aptitude et une façon pareilles, chez Molière
+et lui, d'évoquer le portrait, moral et physique, d'un personnage.</p>
+<p><pb/></p>
+<p>Fait encore remarquable — et, ne conditionne-t-il pas les précédents ? —
+la notion, et plus : la possession du caractère, la hantise de l'esprit,
+de l'âme française : et voyez Peines d'Amour perdues, Tout est bien qui
+finit bien, Henri V, etc. Et, mieux : nous le notions après Barbey
+d'Aurevilly, Henri V, son héros historique, héros national, se trouve ne
+plus rien conserver d'historique et national et devient un pur chevalier
+français 1.</p>
+<p><pb/></p>
+<p>se délivre avec un éclat, une solennité inattendue dans les apostrophes
+de Henri V.</p>
+<p>Il est le cerveau le plus harmonieusement ordonné, 1 'esprit le plus
+lucide, le cœur le plus généreux ; foncièrement, belliqueusement
+aristocrate et traditionnel, et loyaliste envers la patrie, le souverain
+et la hiérarchie : l'image enfin la plus pure et la plus hautaine de
+l'humaniste renaissant et du sage de tous les temps, dans l'âme du plus
+parfait gentilhomme chrétren.</p>
+<p>Qu "il entre peu ou beaucoup de sang français en de telles veines, qui
+de nous n'en serait heureux et fier, et qui en serait étonné ? c'est le
+contraire qui surprendrait.</p>
+<p>Les considérations générales qui précèdent sont le résultat d'une
+simple, mais sincère lecture. A présent, nous consignons ci-après
+quelques-unes des observations que nous suggéra chaque pièce en
+particulier. Nous n'y parlerons point des Sonnets ni des poèmes d'Adonis
+et Lucrèce, qui réclameraient une étude spéciale ; mais nous faisons
+figurer quelques- uns des Apocryphes, sans lesquels il nous semble que
+le travail demeurerait incomplet.</p>
+<p><pb/></p>
+<p>II</p>
+<p>COUP D'ŒIL</p>
+<p>SUR LES ŒUVRES</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LES APOCRYPHES</p>
+<p>Une légende lointaine faisait descendre, comme les Gaulois et les
+Français, les Bretons des Troyens : les Français par Francus fils
+d'Hector ; les Bretons par Brutus, petit-fils d'Énée. 1100 avant J.-C.,
+Brutus aborda dans l'île d'Albion, peuplée de géants ; il l'en purgea,
+fonda la Nouvelle-Troye : Londres, et, de lui sortit une longue suite de
+rois : Locrine,... Lear... ; qui redescendit en Italie..., Cassibélan
+qui se défendit contre César, Cymbeline..., Arthur surtout, contemporain
+de notre Clotaire : héros et martyr de l'indépendance nationale contre
+l'envahisseur saxon. Bien longtemps après, le manuscrit du Brutus
+Brenhined ou Brutus de Bretagne, fut découvert, en Bretagne française ;
+l'évêque gallois, Geoffroy de Montmouth, le mit en latin, et l'illustre
+trouvère normand, Robert Wace, chanoine de Bayeux, en fit le Roman de
+Brut : 1100 ans après J.-C. Ce fut l'origine de ce prestigieux Cycle de
+la Table Ronde, que les trouvères français ont répandu par toute la
+chrétienté, et, pour les Anglais, le plus vénérable des titres de
+noblesse. Au temps de Shakespeare, l'imprimerie renouvelait sa
+popularité, en le publiant avec l'Hittoire des Rois de Bretagne et la</p>
+<p><pb/></p>
+<p>Chronique d'Angleterre ; les poètes y découpèrent des tragédies :
+Shakespeare en a tiré Cymbeline, Macbeth, le Roi Lear.</p>
+<p>1. Est-ce pure rencontre ? Marlowe était fils d'un cordonnier.</p>
+<p>Un intermède presque pareil paraît dans la XIIe Nuit.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Tout ce premier épisode, moins pièce que scénario, brouillon enfantin,
+serait indigne de Shakespeare, si le caractère de Titus n'y faisait
+pressentir Coriolan, et si surtout ne s'y dessinait un autre caractère :
+le More,</p>
+<p>1. Marlowe ? Mais, l'épisode satirique du savetier ?</p>
+<p><pb/></p>
+<p>— Pourquoi riez-vous ?</p>
+<p>— C'est que je n'ai plus de larmes pour pleurer !...</p>
+<p>Oh, quand prendra fin cet effrayant sommeil !...</p>
+<p><pb/></p>
+<p>La Puritaine, ou la veuve de Watling Street. Cette comédie ne montre
+rien du ruissellement féerique qui caractérise le style shakespearien ;
+mais le genre de verve, la bonne humeur élégante et familière, la satire
+sans fiel, et — dans le dessin des caractères et la conduite de l'action
+—, quelque air de famille, enfin, avec la Douzième Nuit, les Joyeuses
+Commères, la Mégère apprivoisée.</p>
+<p>— Non, jamais je ne me remarierai !</p>
+<p>— Et moi, je veux toute ma vie rester fille !</p>
+<p>Tableau d'un comique succulent : Hogarth au cinéma...</p>
+<p>Des escrocs faméliques : un poète bohême, un soudard de taverne, un
+autre gibier de potence, complotent d'exploiter la terreur de l'enfer,
+la lubricité, l'égoïsme, et l'insondable bêtise de tout ce monde, et
+d'épouser</p>
+<p><pb/></p>
+<p>— Nous pouvons mentir (car le Décalogue ne l'interdit pas) mais nous ne
+devons point jurer... S il ne s'était agi que de dérober, oui, mais je
+ne dois pas voler : car la Parole littérale est : Tu ne déroberas point.</p>
+<p>— Mais escamoter ?</p>
+<p>— Pour cela, oui.</p>
+<p><pb/></p>
+<p>Franchement l'Angleterre peut rire dédaigneusement des autres peuples.</p>
+<p>Appréciant son mérite, Wolsey l'a vertigineusement élevé aux premières
+dignités. Or quand Wolsey tombe, il livre au roi tous ses papiers secrets :</p>
+<p>— Ce que sa tête a comploté contre l'État, l'amour de mon pays me
+commande de l'exécrer... Il a tenté d'asservir ma patrie.</p>
+<p>— Va, résigne-toi... pourtant tu te montres sage en faisant mine de
+refuser.</p>
+<p><pb/></p>
+<p>Il fait tant que le roi rompt irremédiablement avec Rome et spolie le
+clergé de ses biens : triplant ainsi les revenus de la couronne, de quoi
+il se glorifie. Mais Gardner :</p>
+<p>Où désormais les pauvres en détresse pourront-ils aller réclamer du
+secours, où reposer leur dos quand la fatigue du voyage les accablera ?
+Au lieu des hommes religieux qui les eussent recueillis, ils trouveront
+un dogue qui les chassera. Et mille et mille maux encore !...</p>
+<p>— Qu'il est uni et aisé le chemin de la mort !</p>
+<p>A vrai dire, nous clarifions une intrigue assez confuse mais vraiment
+remarquable, et où se manifeste une fois de plus la foi shakespearienne
+en l'inéluctable marche du Destin, commandée elle-même par les
+conséquences inéluctables de nos actions.</p>
+<p><pb/></p>
+<p>Cette foi anime autant Arden de Faversham, transcription improvisée pour
+la scène d'une cause célèbre : une tragédie domestique qui s'était
+passée en 1551.</p>
+<p>— ... Oh, la mort de mon mari me navre le cœur...</p>
+<p>— Plus je fais effort, plus le sang paraît 1...</p>
+<p>— Elle nous perdra par sa sottise...</p>
+<p>1. « — Va-t'en, tache maudite ! » (Macbeth.)</p>
+<p><pb/></p>
+<p>Une tragédie dans le Yorkshire, autre cause célèbre, est la tragédie du
+joueur ; ou plutôt, son ébauche inachevée, mais révélant, comme Arden,
+la complète maîtrise dans le maniement des caractères, de l'intrigue et
+du style.</p>
+<p>1. Nous entreprîmes jadis une adaptation de cette admirable ébauche.</p>
+<p><pb/></p>
+<p>— Papa, ne suis-je plus votre enfant blond ?</p>
+<p>— Tu vas être mon enfant rouge !...</p>
+<p>— Oh, vous me faites mal, père... comment ferai-je pour apprendre : j'ai
+la tête brisée...</p>
+<p>et il implore ses enfants morts « qui jouent sur les genoux des anges »
+et, comme l'épouse coupable d'Arden, il meurt dans le repentir.</p>
+<p>Les deux Nobles Parents (nous traduirions volontiers : Les deux frères
+d'armes). Pour cette merveille de poésie chevaleresque (si inconnue,
+pourquoi ?) on sait que Shakespeare eut pour collaborateurs Beaumont et
+Fletcher, on ne sait dans quelle proportion.</p>
+<p>Un prologue glorifie le vieux Chaucer (lui-même inspiré par notre
+Boccace) des contes de qui l'œuvre est tirée. Et le spectacle s'ouvre
+sur les épousailles de Thésée — celui même du Songe d'une Nuit d'Été,
+avec Hyppolite, reine des Amazones : hymne nuptiale d'une grandeur et
+une noblesse inégalées, insoutenables.</p>
+<p><pb/></p>
+<p>— Toi qui n'es qu'un mortel, tu sais subordonner tes passions au divin
+honneur, tandis que les dieux mêmes gémissent sous leur empire !</p>
+<p>— ... C'était un beau garçon que Narcisse mais un sot : n'y avait-il pas
+assez de jeunes filles ?... La véritable affection entre jeunes filles
+peut être plus forte qu'entre fille et garçon... (Etc...).</p>
+<p>— A-t-on souvenir de deux êtres s'aimant comme nous nous aimons ?</p>
+<p>— Il faut que j'aime et j'aimerai, et pour cet amour il faut que je tue
+mon cousin, et je le tuerai.</p>
+<p><pb/></p>
+<p>Pirithoüs obtient la liberté d'Arcite ; affolée d'amour pour Palémon, la
+fille du geolier le fait évader. Arcite le découvre dans une forêt, les
+mains enchaînées encore et mourant de faim ; il lime ses fers, lui
+fournit aliments et armes : tous deux trinquent, et puis se combattent à
+mort (épisode grossièrement singé par Hugo dans Le Mariage de Roland).
+Thésée les surprend, ordonne qu'ils reprendront le combat en public : le
+vaincu mourra ; le vainqueur épousera Émilie. Ils acquiescent, avec
+enthousiasme : n'est-ce pas pis que mourir que vivre sans Émilie : «
+marchons au signal de notre destinée1 ».</p>
+<p>Arcite invoque Mars : un fracas d'armures lui annonce qu'il est exaucé ;
+Palémon invoque Vénus (« — ... 0 toi qui règnes sur tous les cœurs
+mortels... par qui un vieillard goûteux épousant une fille de quatorze
+ans eut d'elle un enfant... etc... ») : une colombe s'envolant lui
+annonce qu'il est exaucé. Et la vierge Émilie invoque Diane, car elle
+éprouve, sans nulle passion, sans nul amour — autant de sympathie,
+autant de pitié féminine surtout pour l'un que pour l'autre. Et la
+soudaine floraison d'une rose lui annonce qu'elle aussi est exaucée.</p>
+<p>Or voici qu'elle surprend des clameurs : « Vive Palémon ! Et elle pleure
+Arcite. Mais le combat reprend : — Vive Arcite ! Et elle pleure Palémon.
+Arcite reste le vainqueur : Mars l'a exaucé. Palémon se prépare au
+supplice :</p>
+<p>— Ce monde est une cité pleine de rues convergentes, et la mort est la
+grand'place où se rencontre chacun.</p>
+<p>1. Hamlet : — Ma destinée me hêle !</p>
+<p><pb/></p>
+<p>Et Thésée conclut :</p>
+<p>— 0 célestes enchanteurs, que faites-vous de nous ?</p>
+<p><pb/></p>
+<p>PÉRICLÈS, PRINCE DE TYR</p>
+<p>Une des premières œuvres authentiques, cette émouvante et gracieuse, et
+si romanesque aventure, où tout Shakespeare est contenu, semble celle
+qui, de son vivant, connut le plus persistant succès ; une de celles
+aussi qu'il paraît avoir retravaillée avec le plus d'amour — et le Conte
+d'Hiver est une variante au thème : sans doute par sympathie pour des
+péripéties merveilleuses, où la vertu, obstinément protégée, se voit
+couronnée enfin, et le vice, rigoureusement puni.</p>
+<p>— Ce monde est pour moi comme une perpétuelle tempête.</p>
+<p>Finalement, ils sortiront intact l'un du naufrage, l'autre du cercueil,
+l'autre d'une maison infâme. Entre les épisodes intervient le vieux
+poète Gower, l'auteur</p>
+<p><pb/></p>
+<p>du conte primitif : pour annoncer les événements intermédiaires, et
+rappeler la course du temps : il en incarne l'unité, comme la mer
+l'unité du lieu. Ainsi, ce va-et-vient, cette succession, qui
+sembleraient devoir rapprocher un tel théâtre du roman ou du conte, l'en
+séparent précisément. Sous l'enchevêtris des tableaux, resserrant,
+abrégeant ou multipliant les incidents veille cette synthèse, cette
+unité, principe du théâtre.</p>
+<p><pb/></p>
+<p>LES DEUX GENTILSHOMMES DE VÉRONE</p>
+<p>Oh, jeux sémillants de l'amour et du hasard, et plus que tout, de
+l'amitié ; mais... « comme s'il n'y avait pas des amis partout, dans les
+pièces de Shakespeare ! » — cette comédie héroïque nous a le charme en
+outre d'être la fleur promettant Comme il vous plaira, Ce que vous
+voudrez, Tout est bien qui finit bien, tous les proverbes ailés.</p>
+<p>Le joyeux de l'affaire est que, si la rencontre avec Clitandre est rien
+que rencontre, une foule de traits précis donnent lieu de se demander si
+Molière ne prit pas quelque connaissance de cette comédie si
+juvénilement Moliéresque. — Par bonheur, si les maîtres, une fois
+enamourés se voient prêts aux pires folies, les domestiques veillent,
+brelan, quatuor de Sanchos Panças qui nous resalueront dans l' Etourdi,
+le Dépit, Amoureux et le Sosie d'Amphitryon.</p>
+<p>Le jeune Valentin, du haut de la sagesse de ses</p>
+<p><pb/></p>
+<p>Ainsi, au-dessus de nous nos passions, et au dehors les destinées, se
+jouent fraternellement de nous !</p>
+<p><pb/></p>
+<p>PEINES D'AMOUR PERDUES</p>
+<p>En contraste et pour la leçon, quelques rustres, cuistres presbytériens,
+plus l'emphase matamoresque de l'hidalgo Fernando Armado.</p>
+<p>Mais, demeure la pensée. Le jeune roi de Navarre (il ne saurait être que
+très jeune) et ses mignons, se veulent transmuer en philosophes scythes.
+Ils décident de se</p>
+<p><pb/></p>
+<p>(M. Abel Lefranc assure que ce roi de Navarre est le futur Henri IV en
+personne, qu'en 1585, visita, en sa cour de Nérac, une ambassade
+anglaise dont eût fait partie ce comte de Derby qu'il assure être le
+vrai Shakespeare. Mais ceci est une autre his-</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>LA COMÉDIE DES MÉPRISES</p>
+<p>Périclès, la XIIe Nuit, les Méprises, Conte d'hiver, même sujet : les
+merveilleuses surprises de la vie. A un Shakespeare elles apparaissent
+toutes naturelles, donc fatales ; fatales, donc naturelles : et que la
+vie humaine en est tissue. La vie quotidienne, pour qui sait voir, est
+tissue de merveilles. Les soi-disant caprices de ce que le commun des
+hommes qualifieront du plus fantasque hasard, relèvent de lois autant
+rigoureuses que les apparents vagabondages de ces astres que nous
+qualifions d'errants.</p>
+<p><pb/></p>
+<p>d'une Providence goguenarde. Le vrai foyer, le foyer chrétien, en sort
+aussi édifiant qu'était inhumain le païen. Car le Ménechme de Plaute,
+pour suivre son frère, met joyeusement en vente esclaves et maison et sa
+femme par-dessus le marché, après l'avoir outragée. Ou bien, sous le nom
+d'Amphitryon, son double le fait... ce que vous savez, sosie adultère
+qui est rien moins que le père des dieux.</p>
+<p><pb/></p>
+<p>ROMÉO ET JUUETTE</p>
+<p>De cette guerre incestueuse où se jettent vieillards et petits-enfants,
+Roméo demeure absent. Et malgré cette carence, c'est par lui que vont
+mourir Mercutio, Tybalt, Pâris, Juliette. Tel Hamlet. Il est un
+instrument du Destin, et son délit est de ne l'avoir pas voulu</p>
+<p><pb/></p>
+<p>Il est coupable. Il s'introduit chez les Capulet, y fleurette
+ouvertement, s'esquive quand le père, l'hôte, l'accueille (qui l'a
+reconnu), escalade leur jardin, surprend l'aveu de celle que son devoir
+lui ordonne de fuir, brusque un mariage clandestin, ose une nuit de
+noces sous leur propre toit, se cache des deux pères, et du prince, et
+même de son ami, brave un bannissement qui n'était que momentané,
+s'abandonne au désespoir, etc... et tout, sans réfléchir. Mais, peut-on
+réfléchir quand l'amour vous emporte ainsi et le Destin vous entraîne ?
+Oui, pourtant.</p>
+<p>Deux enfants ! deux enfants affolés d'amour : et cet affolement est le
+choc en retour de la folie de haine qui possède tout ce qui les entoure.</p>
+<p>Aussi, et le pauvre vieux moine l'a prévu : « ces bonheurs violents ont
+une fin violente ; ils mettent en cendres ce qu'ils touchent... aimer
+paisiblement, c'est le moyen d'aimer longtemps » : Inconsciente ironie :
+une Capulet, un Montaigu sauraient-ils connaître la paix ?</p>
+<p>Tous coupables : les deux familles, les concitoyens, la nourrice, et le
+vieux moine qui sait si bien la vie</p>
+<p><pb/></p>
+<p>mais se laisse mener par elle avec son âme d'enfant, et le Prince, qui
+le proclame :</p>
+<p>— Nous sommes tous punis.</p>
+<p><pb/></p>
+<p>et en somme eux aussi s'entre-tuent ; ils obéissent malgré eux. Que
+c'est loin de la critique moliéresque, de l'insurrection romantique de
+l'individu contre ce qu'elles présentent comme un égoïsme collectif :
+c'est l'inverse exactement.</p>
+<p><pb/></p>
+<p>TOUT EST BIEN QUI FINIT BIEN</p>
+<p>ou</p>
+<p>PEINES D'AMOUR GAGNÉES</p>
+<p><pb/></p>
+<p>différence avec ce que les autres pièces montrent pour l'Angleterre \</p>
+<p>1. La royauté, la noblesse française, sont autochtones en France ; en
+Angleterre, conquérantes.</p>
+<p><pb/></p>
+<p>mère Gigogne de tous les vices, et quel qu'en soit le degré, il le tient
+en égale horreur.</p>
+<p><pb/></p>
+<p>LA MÉGÈRE APPRIVOISÉE</p>
+<p>Ce mariage d'amour : pour Bianca la doucette deux soupirants dont un
+vieillard, plus le tiers larron qui la souffle au vieux non parce que
+jeune, mais parce que cru plus riche ! car cette fois c'est la fiancée
+qu'on met en vente — comme il arrive assez souvent.</p>
+<p><pb/></p>
+<p>qui dort. Cette farce joviale se fait de partout un bréviaire de sagesse.</p>
+<p>Oui certes, redisons-le, dans ces fantaisies juvéniles, Shakespeare
+semble vouloir d'abord se divertir lui- même ; on le voit qui s'amuse en
+bienheureux ; mais s'il bat des entrechats, c'est encore sur le solide
+terrain de la sagesse, encore et toujours.</p>
+<p><pb/></p>
+<p>LE MARCHAND DE VENISE</p>
+<p>ou</p>
+<p>LA LEÇON DE CHARITÉ</p>
+<p>1. Le prêtre-poète Roger de Collerye, dit Roger Bontemps. mourut à
+Auxerre vers 1536.</p>
+<p><pb/></p>
+<p>lui faut la guirlande complète : Antonio, Bassanio, Lorenzo, Jessica,
+Gratiano, Nerissa, Portia, Antonio..., où le fleuron central n'est ni la
+noble Portia, ni le triomphant Bassanio, encore moins l'effrayant
+Shylock, mais l'effacé, le saturnien, le crépusculaire Antonio.</p>
+<p>Renoncement aussi de la part de Bassanio et de Portia. Pour la main de
+Portia, lui, doit d'abord re-</p>
+<p><pb/></p>
+<p>1. Bassanio : « — Je prends l'engagement de payer dix fois le montant de
+la dette. » Soit 30.000 ducats. Portia : « — Doublez, triplez s'il le
+faut 1 »</p>
+<p>2. La représentation du théâtre Antoine fut une véritable falsification.</p>
+<p><pb/></p>
+<p>faire rédiger par Antonio le contrat qui lui livre sa livre de chair.
+Puis, suivant la tactique immémoriale :</p>
+<p>— Et pourquoi me persécutez-vous ? Parce que je suis juif ?</p>
+<p>Mais avant d'être puni par sa propre loi, il le sera par sa propre chair
+: sa Jessica chasse de race, et, s'évadant :</p>
+<p>— Je vais me munir encore de ducats !</p>
+<p>Il s'appuie sur la Lettre de l'Ancienne Loi pour justifier ses appétits
+; sa raison capitale de vengeance est que le chrétien, abhorant l'usure,
+méprise cette loi, et « sur le saint Sabbat » il jure de venger elle et
+lui. Devant leur tribunal, c'est au contraire de leur loi qu'il
+s'empare, en son texte étroit, littéral, matériel, toujours : « — J'ai
+la loi pour moi ! » il ne sort pas de là. Portia lui oppose le Pater,
+loi de clémence, d'humilité, d'humanité, de justice. Devant cela,
+perdant toute mesure, il crache la clameur même de ses ancêtres exigeant
+le sang du Juste :</p>
+<p>— Que cela retombe sur ma tête 1</p>
+<p>Sur quoi cette stricte loi qu'il revendique lui est appliquée ; trop
+heureux que la charité chrétienne lui laisse la vie, il perd tout, ce
+tout mal acquis, chair de sa chair, que son autre chair, sa fille,
+restitue, dot de son cœur revirginisé.</p>
+<p>D'où l'épisode suprême : la triple nuit nuptiale,</p>
+<p>que d aucuns trouvaient sepl«m«qt la plus poétique des superfétations.
+L'hymo^S^âài^ii-Saint y chante :</p>
+<p>7</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>LE SONGE D'UNE NUIT D'ÉTÉ</p>
+<p>ou</p>
+<p>LA LEÇON D'HUMIUTÉ</p>
+<p>La passion d'Hélène l'égare plus encore ; sans illu-</p>
+<p><pb/></p>
+<p>Larmes, injures, querelle générale, menaces, apprêts de meurtre : les
+farfadets s'amusent comme des dieux : « — quels insensés que ces mortels
+! — Ainsi l'ordonnent les Destins : pour un humain resté fidèle, des
+millions entassent parjures sur parjures ! »</p>
+<p>Par bonheur, quand Obéron, monarque plus sage</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>BEAUCOUP DE BRUIT POUR RIEN</p>
+<p>Tragi-comédie du tran-tran quotidien dont les Joyeuses Commères mèneront
+la farce. Toute en nuances de caractères, et menus incidents, et
+insignifiants hasards, « aux consonances énormes explosives,
+catastrophiques » : mon Dieu, oui : ni plus, ni moins que dans
+l'histoire des empires de Cléopâtre et César ; puis symétriquement, les
+catastrophes se dégonflent pour aboutir à... beaucoup de bruit pour rien
+: la vie.</p>
+<p>Claudio s'imagine trahi par son prince, lequel travaillait pour lui ;
+puis par sa fiancée, laquelle enfin il épousera la croyant morte ; et
+chaque fois, il croit, sur l'évidence même !</p>
+<p>Ainsi ne sont-ce non seulement nos illusions et passions qui nous
+bernent, mais la propre réalité.</p>
+<p><pb/></p>
+<p>Un tel mélange du bouffon au tragique, du poétique au trivial, n'est
+nullement procédé. Shakespeare distingue toujours Yago et Caliban ramper
+derrière Ariel et Desdémone. Mais enchaînés. Le crime puni se révèle à
+lui nécessité mathématique. Pour la vertu, sa récompense l'attendant au
+ciel, peu importe que sur terre Héro épouse son Claudio, ou que
+Desdémone périsse.</p>
+<p>En toute chose il faut considérer la fin.</p>
+<p>Mais, dès lors, l'issue du Roi Lear : la paisible accession au trône de
+Lear de l'inerte Albany, n'est-ce pas aussi beaucoup de bruit pour rien
+? Eh oui : et ainsi de tout sur notre terre ; et le philosophe de
+Voltaire conclut : et « ainsi va le monde ! »</p>
+<p><pb/></p>
+<p>COMME IL VOUS PLAIRA</p>
+<p>Les loups ne se mangent pas entre eux, proverbe, mais l'homme est un
+loup pour l'homme, depuis le temps où deux hommes coexistèrent, et l'un
+fut un fratricide : pour quoi Timon préfère-t-il aller vivre parmi les
+loups ; Shakespeare sait tout cela mieux que quiconque, lui,
+contemporain de tous les temps. Et cette bizarre et savoureuse pastorale
+a pour entrée en matière la méchanceté de frères qui se conduisent en
+loups, comme est normal aux fils d'Adam.</p>
+<p><pb/></p>
+<p>Il entraîne ses amis, amis choisis, pour en faire non des bêtes de
+forêts, mais des civilisés supérieurs, afin de les aimer mieux que
+jamais : par le même sentiment qui l'envoie en ménage avec les fées. Il
+leur découvre même une forêt féerique, une Ardenne où les palmiers
+poussent sub tegmine Jagi, et se promènent des lions : comme pour une
+autre pastorale, une Bohême fabuleuse et insulaire.</p>
+<p>Le spectacle est de choix.</p>
+<p>Sous la bouffonne bucolique fleurit une idylle toute parente de celles
+de Cymbeline, Conte d'Hiver, la XIIe Nuit : Rosalinde crue Ganymède est
+aimée comme une sœur par sa cousine Célia, comme un amoureux par la
+bergère Phœbé, et par Orlando de façon si compliquée, si double, que la
+situation est étrange et unique. Il l'a connue et courtisée sous ses
+véritables noms et habits ; travestie, il ne la reconnaît pas, mais se
+prend de l'amitié la plus vive pour le jeune homme qu'il la pense être,
+et lui confie sa passion. Alors, la moqueuse : — « Supposez que je la
+suis, faites-lui votre cour... N'est-ce pas que je suis votre Rosalinde
+? » Elle le lui répète sans fin, et bien que tout se coalise pour
+l'induire au moins en soupçon,</p>
+<p><pb/></p>
+<p>l'innocent persiste en son aveuglement comme la bergère dans le sien :
+tout n'est qu'illusion.</p>
+<p>Développement logique du thème de la nature améliorée par sa propre
+observance.</p>
+<p>Shakespeare se garde d'ailleurs d'oublier que nous restons des humains,
+mâles et femelles, que tout cela aussi, n'est qu'illusion et rêve :
+Rosalinde reprenant ses robes, Phœbé s'en désenamourache et Orlando
+l'épouse, et dans l'intervalle, chacun mange et boit fort
+substantiellement.</p>
+<p><pb/></p>
+<p>LES JOYEUSES COMMÈRES</p>
+<p>Satire la plus cordiale et la plus joviale comédie domestique chez des
+bourgeois de province dans l'Angleterre dlta reine Élisabeth, et de
+n'importe quel temps dans n'importe quel pays. Dickens un peu si l'on
+veut, Molière surtout, tout au long de cette farandolesque mascarade.
+Seulement, tout Molière a été écrit par Arnolphe sous la dictée
+d'Alceste, et ceci le fut par Philinte encore une fois : non ; Ellante ;
+non : Henriette.</p>
+<p>(Molière s'évoque autrement, nous l'avons suggéré, les confidences et le
+soutirage de finance du galant au mari, et ses évasions mouvementées, et
+la différence d'humeur des deux maris, préfigurent étrangement l'École
+des Maris, l'École des Femmes, comme la leçon de latin, la Comtesse
+d'Escarbagnas).</p>
+<p>Que joyeuses, ces commères, et honnêtement, sainement, ces Elmires et
+Dames Jourdain de la joyeuse Angleterre d'avant les Puritains ! et comme
+le Molière d'alors fait joyeusement confiance aux femmes ! Le jaloux
+vertement et joyeusement sermoné, se repent, mais, ô surprise, ô
+merveille ! c'est l'écornifleur, le</p>
+<p><pb/></p>
+<p>bafoué, le battu et qui porte les cornes ! C'est la seule fois qu'on
+aura vu cela : au théâtre, veux-je dire...</p>
+<p>Le début (on ne saurait écrire l'exposition, ici) donne une impression
+confuse et prolixe. Mais confusion telle que d'un feuillage, qui cache,
+que soutient, l'architecture des rameaux, branches, tronc et racines.
+Cela peut nous disperser quelque temps, fatiguer même, mais lui, sait où
+il va, où nous mène, et bientôt nous procure ainsi la plongée dans un
+bain inattendu de vie réelle et frémissante.</p>
+<p>Plus de méprises, ici : des mystifications ; plus ne fonctionne le
+hasard : laisse fonctionner les activités humaines. Naturellement,
+puisqu'il s'agit de notre existence quotidienne (ô bon sens de ce génie
+!) L'hôte de la Jarretière mystifie le docteur et le curé, qui
+mystifient l'aubergiste ; les joyeuses Commères mystifient le jaloux et
+l'écomifleur : mais l'écornifleur, c'est tous qui s'y mettent, pour se
+voir finalement mystifiés tous, par qui ? par un innocent couple
+d'amoureux !</p>
+<p>Et oui, que Moliéresque, l'Arnolphe-Orgon d'ici, soudoyant
+Falstaff-Horace-Tartufe aux fins qu'il assiège son Elmire, et, par
+terreur et hantise de l'être, fait tout</p>
+<p>Pour l'être et l'avoir vu, de ses propres yeux vu,</p>
+<p>Ce qui s'appelle vu !</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>LA XII. NUIT ou LA NUIT DES ROIS</p>
+<p>ou... CE QUE VOUS VOUDREZ</p>
+<p>Mêmes fantaisies d'un hasard mêmement fantasque que dans la Comédie des
+Méprises, où se heurtent nos mêmes aveugles volontés ; mêmes embarras,
+mêmes illusions, même titre que dans Comme il vous plaira. On y doute
+des personnalités, des sexes ; la sœur</p>
+<p><pb/></p>
+<p>1. Pratiquement, le travesti n'avait rien d'invraisemblable sur une
+scène où les rôles de femmes étaient des travestis.</p>
+<p>2. Et de même Mal-volio...</p>
+<p><pb/></p>
+<p>1. Pierre Louÿs dut se souvenir de lui quand il inventa l'inénarrable «
+Huguenot Taxis à, le grand eunuque du Roi Pau- sole.</p>
+<p><pb/></p>
+<p>TROILE ET CRESSIDA</p>
+<p>J'y relève d'abord triple satire : contre les femmes ; contre l'anarchie
+; dRtre les Grecs.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Cassandre, Priam lui-même, guidés par les pressentiments, ont-ils voulu
+détourner Hector de combattre tel jour (ainsi voudra-t-on détourner
+César) : son destin le hélait, qui fût celui de Troie.</p>
+<p><pb/></p>
+<p>LE THÉATRE HISTORIQUE</p>
+<p>— Imaginez que vous voyez les personnages de notre imposante histoire.</p>
+<p>Pour apprécier pleinement et goûter comme il faut cet admirable théâtre
+historique, il faut songer d'abord que Shakespeare est sujet anglais, ce
+que, lui, jamais n'oubliera. Le héros premier de ce théâtre, c'est
+l'Angleterre ; l'Angleterre dont l'origine se confond avec celle de
+Troie : T roi le et Cressida est pour une part une pièce historique.
+Comme aussi Locrine, Cym- beline, le Roi Lear, Macbeth, qui redescendant
+les âges, remontrent cette patrie aux temps de la Gaule et de Rome.
+Hasard étrange, ou piété filiale, le chantre est muet sur la dynastie
+saxonne et la conquête normande. Après, la grande chronique dramatique
+reprend, presque sans interrompre, de la mort de Richard Cœur" de-Lion à
+la naissance de la reine Élisabeth.</p>
+<p>Que ces pièces, ces chants historiques n'aient pas été tous ouvrés par
+lui-même, au moins en entier, on le suppose ; que plusieurs soient des
+remaniements, on le sait ; et sait qu'ils ne se succédèrent pas selon
+leur ordre chronologique, puis furent d'abord impro-</p>
+<p><pb/></p>
+<p>visés sous le coup d'une occasion. D'autant plus émouvante la pure unité
+de pensée qu'on y salue, réalisée par la ferveur patriotique.</p>
+<p>Cet universel aura été le poète national par excellence : sa sympathie
+s'étend sur tous les hommes en tous temps, et tous pays, sur les animaux
+mêmes, même les génies de la terre et de l'air, mais son foyer d'amour
+est pour toujours l'île bretonne.</p>
+<p><pb/></p>
+<p>LE ROI JEAN 1</p>
+<p>Sans doute est-ce l'occasion qui lui manqua d'élever sur la scène
+Richard Cœur-de-Lion lui-même, le héros des Plantagenet. Du moins l'y
+amène-t-il en effigie. Le personnage sympathique d'ici n'est pas
+Jean-sans-Terre, on s'en doute, ni Philippe-Auguste, ni même le touchant
+Arthur de Bretagne ; mais le jeune Fauconbridge, bâtard du roi Richard ;
+il l'a pourvu du mélange de brutales qualités et défauts vigoureux qui
+rendirent son père si sympathique aux Anglais : sans doute parce qu'ils
+saluaient en lui l'image qu'ils se faisaient d'eux-mêmes.</p>
+<p>Ainsi, le rideau s'ouvre sur deux conflits de succession. Jean a profité
+de l'enfance de son neveu Arthur pour lui retenir sa couronne ; et
+Fauconbridge par contre estime ne pas trop cher payer de son héritage,
+titre et nom, l'honneur d'être reconnu pour bâtard de Richard
+Cœur-de-Lion. Il tient ici le rôle du chœur, il exprime les sentiments
+de la nation anglaise. C'est un affranchi ; il ne dépend de personne ;
+affranchi, non réfractai re : et ce bâtard, par piété filiale, se range</p>
+<p>1 Nous supposons que notre lecteur a, comme nous, quelque traduction de
+Shakespeare sous les yeux.</p>
+<p><pb/></p>
+<p>librement, loyalement, sous l'étendard de l'usurpateur, parce que c'est
+l'étendard anglais.</p>
+<p>L'infortuné Arthur est écartelé entre sa mère Constance qui le défend
+comme une lionne son lionceau, et sa grand'mère, la mère du spoliateur
+Jean-sans- Terre et son mauvais génie, la fameuse Éléonore d'Aquitaine,
+fille de l'adultère, épouse adultère: la femme fatale, maudite dès avant
+sa naissance.</p>
+<p><pb/></p>
+<p>explique ce qui va se passer : Jean sera forcé de supprimer Arthur ; ce
+crime soulèvera la loyale Angleterre, et il restera abandonné du ciel et
+de tous.</p>
+<p>Et Jean se réconcilie avec l'Église; des signes se montrent dans le ciel
+; l armée de Jean périt par un raz-de-marée, et celle de Louis par un
+naufrage ; Jean meurt misérablement : l'indignation meurt avec lui, ne
+laissant que l'horreur d' « une royauté exotique », celle de Louis de
+France.</p>
+<p>Ëléonore et Constance aussi sont mortes : seul reste le fils de Jean,
+innocent et légitime; tous s'y rallient, et le légat s'empresse de
+négocier la paix :</p>
+<p>Cette pièce a, dans son ironie douloureuse, la noblesse de l'histoire,
+même quand la contrecarre son patriotisme farouche. L'odieux
+Jean-sans-Terre échappe au mépris par le sentiment qu'il garde de
+l'éminence de sa fonction de roi, et de roi anglais. Le seul être vil,
+inexpiable, est le duc d'Autriche : car il est le sacrilège qui osa
+attenter sur Richard Cœur-de-Lion, selon la légende populaire. Aussi le
+bâtard finit-il par lui couper la tête ; après quoi, ne désirerait plus
+rien que mourir pour rejoindre cet illustre père, s'il ne songeait que
+son roi et son pays éprouvent le besoin de son bras.</p>
+<p><pb/></p>
+<p>EDOUARD III</p>
+<p>— Relève-toi, vraie lady anglaise !</p>
+<p><pb/></p>
+<p>Il descend en France ; les habitants sont terrifiés plus par la justice
+de sa cause que par la férocité de ses soudards. Non convaincus,
+pourtant, d'où cet étrange cri d'amertume :</p>
+<p>— Ah, France, pourquoi te refuses-tu si obstinément aux tendres
+embrassements de tes amis ? Avec quelle douceur nous voudrions caresser
+ton sein et effleurer de nos pas ta tendre argile, n'était que par un
+orgueil revêche et dédaigneux, tu te dérobas comme un cheval ombrageux
+et indompté en nous frappant de tes ruades 1</p>
+<p>Il se pense aussi bon Français que bon Anglais :</p>
+<p>Jean est un despote qui déchire de ses mains les entrailles de son pays,
+tandis que les ancêtres d'Édouard comptent cinq cents ans de royauté
+française. (Il compte depuis Hugues Capet, tranquillement.)</p>
+<p>Crécy. Cette journée sera un jugement de Dieu.</p>
+<p>Édouard fait solennellement armer son jeune fils, le</p>
+<p>Prince Noir :</p>
+<p>— Combats et sois vaillant, et triomphe où tu parais.</p>
+<p>Si en péril qu'il le sache, il interdira qu'on lui porte secours,
+voulant qu'il gagne par soi ses éperons de chevalier, par des paroles
+superbement farouches :</p>
+<p>Et il lui revient avec le corps du roi de Bohême ; les Français ont
+perdu 7 princes, 80 barons, 120 chevaliers, 30.000 hommes, et les
+Anglais, 1.000 soldats 1</p>
+<p>(il s'entend bien que ce sont les nombres de la légende 1).</p>
+<p><pb/></p>
+<p>— Je voudrais subir des maux vingt fois plus grands, s'il se pouvait que
+les générations futures fussent enflammées d'une ardeur assez vive pour
+faire trembler, non seulement la France, mais l'Espagne, la Turquie, et
+toutes les nations en butte au juste courroux anglais !</p>
+<p><pb/></p>
+<p>RICHARD II</p>
+<p>C'est ici l'origine de l'affreuse et vengeresse (pour nous, Français)
+guerre des Deux Roses : le poète épouse l'amertume de Timon d'Athènes.
+Même raccourci dramatique que dans le Roi Jean et Édouard III, même
+exposition dramatiquement lapidaire et bourrue.</p>
+<p><pb/></p>
+<p>Roi Lear :</p>
+<p>— Le Christ, sur douze hommes, n'en trouva qu'un de faux ; moi, sur
+douze mille, n'en ai pas trouvé un seul vrai : que Dieu sauve le roi !</p>
+<p>— Donnez-moi la couronne ; tenez, prenez-la, mon cousin, que votre main
+la tienne d'un côté pendant que la mienne la tiendra de l'autre.
+Maintenant, cette couronne est un puits profond, où deux seaux
+s'emplissent l'un après l'autre. Le seau vide se balance dans l'air ;
+l'autre, une fois rempli, s'enfonce silencieusement dans l'onde, et
+bientôt les yeux le perdent de vue. Le seau qui va au fond, le seau
+rempli de larmes est moi, abreuvé de mes douleurs ; le seau qui monte,
+c'est vous... Je décharge ma tête de cette lourde couronne... 1</p>
+<p><pb/></p>
+<p>HENRI IV</p>
+<p>1</p>
+<p>Henri IV, double usurpateur : contre son roi, contre le fils de son
+frère aîné, ses complices deviendront vite « des créanciers mécontents
+», regrettant leur victime, « cette rose charmante » : suspicions,
+jalousie, orgueil</p>
+<p><pb/></p>
+<p>* et honte. Le premier froissement déflagre la révolte.</p>
+<p>Celle-ci a bientôt quatre chefs pour un, Écossais, Gallois, Anglais,
+chacun ses intérêts privés. Le subtil Henri marche seul, avec ses deux
+fils pour lieutenants fidèles : sa victoire est écrite.</p>
+<p>II</p>
+<p>Plus d'héroïsme, plus de lyrisme ; tout baisse, s'affale, s'étale. Le
+châtiment se poursuit. Ce mélange de renard et de loup, le roi n'est
+plus qu'un malade, bientôt un moribond. Le père de Percy, dont la
+défection entraîna la défaite des conjurés, achève, dans la honte d'une
+lâcheté opiniâtre, une carrière éclatante jadis, mais noble jamais : ce
+fut sa trahison envers Richard II qui avait permis la réussite de
+l'usurpateur. La révolte vaincue, n'est pas abattue, et s'éternise sans
+grandeur. Le Prince de Galles s'est replongé dans la crapule. Le vrai
+héros est le monstrueux</p>
+<p><pb/></p>
+<p>Falstaff, vraisemblablement suggéré par Rabelais, Panurge, Grandgousier,
+ventripotent, goutteux, insolent, voleur, goinfre, ivrogne, hâbleur,
+paillard, poltron, égoïste, jovial, verveux, cynique, escroc, menteur,
+vil, fourbe, servile, dégoûtant, vil de toutes les manières, et tout
+cela si naïvement avec si débordante bonne humeur, qu'il en devient
+sympathique.</p>
+<p>— Sire, on l'appelle « Jérusalem ».</p>
+<p>Et il meurt. Mais alors, stupeur générale, son fils se transforme à
+l'instant. Le mauvais fils et mauvais garçon découvre un grand monarque.</p>
+<p><pb/></p>
+<p>— Mon père a emporté dans son cercueil mes folies...</p>
+<p>Il chasse ignominieusement Falstaff et sa bande ; l'expiation est
+accomplie ; le faux prince des chenapans démasque le triomphal Henri V.</p>
+<p><pb/></p>
+<p>HENRI V</p>
+<p><pb/></p>
+<p>Son Henri V est un Henri V fabuleux, magnanime et gracieux, jovial et
+grave, intrépide et prudent, pieux et chevaleresque, un rude bon garçon
+trop franc pour faire un orateur : bref, tout ce qui séduit des Anglais,
+et qui fait contraste avec la jactance et la frivolité qu'eux-mêmes
+prêtent aux cousins français : le roi idéal, l'Anglais idéal.</p>
+<p>Innocent de l'usurpation paternelle : légitime, et légitime en sa
+revendication. L'usurpateur est le Capétien Valois dont les Français se
+font complices. Et son expédition a les mêmes raisons que le projet de
+Croisade paternel ; politiques : occuper ses adversaires et auxiliaires
+de l'usurpation, morales: la légitimer. Et il peut, sans appréhension
+continuer le vœu paternel par le souhait d'un fils mi-Anglais,
+mi-Français, réconciliant les deux grandes nations catholiques dans
+l'entreprise contre l'infidèle. Vœu tristement ironique : ce fils, et
+dont le sang unit en effet les deux nations, sera le lamentable Henri
+VI, renouveau du lamentable Richard II.</p>
+<p>(Est-ce cela qui aura suggéré Hamlet ?)</p>
+<p>La fille de Charles VI, Catherine de France, froide et douloureuse
+Iphigénie, qui ne veut pas savoir pro-</p>
+<p><pb/></p>
+<p>noncer « je vous aime » en Anglais, sera la vengeresse : pour nous
+Français, vengeresse du droit royal pour Shakespeare ; mère d'Henri VI
+qui vit l'Angleterre perdre tout ce qu'elle avait pris en France et se
+déchirer par la plus affreuse des guerres civiles, et, en second lit,
+mère des Tudors qui châtieront la dynastie usurpatrice et réconcilieront
+les deux Roses.</p>
+<p>Évidemment, ces Anglais se considèrent comme des parents spoliés ;
+quelle indignation contre le Dauphin, futur Charles VII, qui ose proférer :</p>
+<p>— Sera-t-il dit que quelques menues boutures de notre nation, sève
+égarée venant du trop-plein de nos pères, des bâtards normands rejetons
+entés sur un tronc inculte et</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>HENRI VI</p>
+<p>i</p>
+<p><pb/></p>
+<p>contre un, sont cependant vainqueurs ; mais par « trahison, défection,
+étourderie D.</p>
+<p>En y réfléchissant, ce qui étonnera le moins, est la Pucelle caricaturée
+en sorcière : car enfin, il n'y a jamais eu doute pour quiconque,
+jusqu'aux temps de la « science J) matérialiste : la Pucelle était
+inspirée : ou c'était par Dieu, ou c'était par le diable. D'ailleurs,
+preuve par surcroît, les Anglais étant visiblement les soldats de Dieu,
+leurs adversaires ne pouvaient qu'être les agents du Démon.</p>
+<p>Et malgré tout, elle a fait avant de mourir une déclaration inattendue
+en sa noblesse :</p>
+<p>— Laissez-moi vous dire qui vous avez condamné. Je n'ai pas été
+engendrée par un paysan mais suis sortie de la race des rois : vertueuse
+et sainte, je fus choisie d'en haut pour accomplir d'étonnants miracles
+sur terre par inspiration de la grâce du Ciel. Je n'eus jamais affaire à
+des esprits maudits ; mais vous, qui êtes souillés par vos péchés,
+tachés par le sang pur des innocents, corrompus et salis de mille vices,
+parce que vous manquez de la grâce que d'autres possèdent, vous jugez
+que c'est impossible que d'accomplir des miracles sans le secours des
+démons. Non,</p>
+<p>Jeanne d'Arc la mal jugée, a été une vierge dès sa tendre enfance,
+chaste et immaculée dans toutes ses pensées, et son sang virginal si
+cruellement répandu par vous criera vengeance aux portes du Ciel.</p>
+<p>D'autant surprenante que l'instant d'avant elle reniait son père, et
+l'instant d'après elle s'accuse d'être enceinte du Dauphin, puis du duc
+d'Orléans, puis, fausseté trop criante, du vieux roi René.</p>
+<p>Aussi Émile Montégut veut-il voir en cette déclaration la pensée intime
+du poète ainsi dissimulée. Peut-être aura-t-il voulu seulement peindre
+une mai-</p>
+<p><pb/></p>
+<p>— Marguerite va être reine et gouvernera le roi, mais moi, je
+gouvernerai Marguerite, le roi et le royaume.</p>
+<p><pb/></p>
+<p>II</p>
+<p><pb/></p>
+<p>III</p>
+<p><pb/></p>
+<p>Finalement, Édouard, le fils aîné d'York, règne. Mais, par-dessous déjà
+travaille son cadet Glocester.</p>
+<p>L'assassinat les a débarrassés de Henri et de son fils, mais il convoite
+la couronne pour lui-même et Marguerite, proscrite reste vivante et
+implacable.</p>
+<p><pb/></p>
+<p>RICHARD III</p>
+<p>Pour sujet le vertige du diadème, sous l'œil philosophe des bourgeois ;
+le lieu, cette Tour de Londres bâtie, dit la légende, par la plus
+illustre victime de ce vertige : César.</p>
+<p>Gloster fait le prologue :</p>
+<p>Ainsi veillent deux êtres sombres, autour de qui tous tournoient, comme
+les nautes antiques autour de Cha-</p>
+<p><pb/></p>
+<p>ribde et Scylla : un monstre, Closter ; un fantôme, Marguerite. Ils
+émanent l'atmosphère fatidiquement malsaine de l'Orestie d'Eschyle.</p>
+<p>Mais il faudrait tout citer de cette abominable confession 1.</p>
+<p>1. M. Abel Lefranc, qui pense avoir établi que William</p>
+<p>Shakespeare fut le prête-nom de William Stanley, écrit : « L'étonnant
+Richard III, qui a tant intrigué les commentateurs, se justifie sans la
+moindre difficulté, puisqu'il contient l'histoire de l'ancêtre qui porta
+le premier le titre de comte de Derby, et qu'il offre comme conclusion
+le double avènement des Tudors et de la famille des Stanley. » Mais, et
+François Bacon, soutiennent les</p>
+<p>Baconniens.</p>
+<p><pb/></p>
+<p>HENRI VIII ou TOUT EST VRAI</p>
+<p>Son prologue ressaisit la solennité grandiose du prologue de Henri V.
+Mais l'humanité a changé de point de vue ; la politique n'est plus
+seulement nationale et multiplement locale, elle rayonne sur l'Europe et
+le monde, mais partant de ce centre fixe et circonscrit : le cabinet du
+souverain. Là, l'intrigue — et, entre cabinets, la diplomatie — prennent
+le pas sur l'action violente et immédiate ; l'esprit de combinaison sur
+l'héroïsme chevaleresque. Les temps lyriques sont révolus ; la
+Chrétienté craque ; au Moyen-Age, la Renaissance a succédé.</p>
+<p><pb/></p>
+<p>rendre ni vil, ni même antipathique, plaide hardiment — et sincèrement :
+« non coupable » — c'est-à-dire de lui gagner du moins le bénéfice du
+doute.</p>
+<p>Et pas une confidence ne lui en échappe. L 'auteur, par une merveille
+d'adresse et de virtuosité discrètes, nous l'indique, ou mieux, le
+sous-entend, que par</p>
+<p><pb/></p>
+<p>quelques vagues propos chuchotés par les courtisans.</p>
+<p>Rien de tel chez nous : les caricatures antifrançaises des Romantiques,
+que prolonge et multiplie le Cinéma. La réaction timide du Gringoire de
+Banville, crût avec le Symbolisme. D'où la Diane de Poitiers de
+Faramond, le Louis XI de Paul Fort, dont le succès voudrait donner
+l'espoir d'une lignée de Greene, Marlowe, Fletcher français et un
+Shakespeare !</p>
+<p><pb/></p>
+<p>HAMLET, PRINCE DE DANIMARK</p>
+<p>ou</p>
+<p>L'ENFANT DU PÉCHÉ</p>
+<p>La vie n'est qu'un songe.</p>
+<p>Hamlet est le drame du mauvais rêve.</p>
+<p>Directement ou non, Hamlet frappe de mort ou d'égarement tout le monde
+autour de lui ; Polonius et ses enfants, Rosencrantz et Guildenstern, et
+la reine et le roi ; sans l'avoir voulu souvent, sans jamais l'avoir
+prémédité : et par cela seul qu'il n'accomplit pas sa mission : venger
+son père. D'ailleurs tous, même Ophélie, plus ou moins coupables ou
+solidaires de</p>
+<p><pb/></p>
+<p>1. Au seuil de la première scène, nous t'apprenons : le spectre commence
+d'apparaître dans le temps que Fortinbras va se remuer.</p>
+<p><pb/></p>
+<p>tière deux hommes du peuple, deux fossoyeurs, discutent aussi gravement
+que les dignitaires d'Église le problème du suicide ou non-suicide
+d'Ophélie, et concluent aussi rigoureusement ?</p>
+<p><pb/></p>
+<p>D'ailleurs, tous des résolus, hors Hamlet et sa mère. L'usurpateur,
+adroit, ferme, prudent, astucieux, forte tête politique :</p>
+<p>Ce que nous pouvons faire, nous devons le faire quand nous le voulons,
+car « vouloir » change.</p>
+<p><pb/></p>
+<p>dans son université. Son discours a une majesté vrai.ment royale.</p>
+<p>Mais les deux apparitions du roi assassiné qui encadrent ce discours —
+contraste lugubre — avertissent que cet éclat extérieur est la
+phosphorescence de « — quelque chose de pourri ».</p>
+<p>Polonius, c'est le Prusias de Corneille, un Osric vieux, un fat bavard,
+sagesse banale amassée par l'expérience d'une interminable existence de
+courtisan ; il s'écoute faire le profond et l'astucieux, discréditer son
+fils, aventurer sa fille. Celle -ci, douce, un peu bête, engluée avec
+Hamlet (comme deux enfants) : une petite oie blanche comme un cygne.</p>
+<p>Le loyal, dévoué, prudent Horatio, unique survivant, et historiographe
+promis de la « curée », résumé du chœur antique et des confidents de
+tragédie, c'est Shakespeare en spectateur : comme Biron, Mercutio,
+Obéron, Jacques, Prospéro.</p>
+<p>— Notre époque est dévoyée : fatalité maudite, que je sois né pour la
+remettre dans la voie !</p>
+<p><pb/></p>
+<p>Il s'interrompt sur une exclamation bizarre : « — Mais</p>
+<p><pb/></p>
+<p>Le vengeur, nonobstant, se gargarise d'éloquence auprès des comédiens (—
+Et admirez combien je m "y connais, admirez tous, et surtout admire, ô
+Hamlet, combien est sain le cerveau d'Hamlet !)</p>
+<p>Bref, Hamlet n'emporte qu'un demi-succès. Nonobs-</p>
+<p><pb/></p>
+<p>Il se déclare cependant persuadé ; donc, plus de raison de temporiser :
+aussi, le Destin lui livre-t-il le roi sans défense ; sous le prétexte
+cette fois qu'il est en oraison (c'est bien cela qui retiendrait un
+Laërtes 1) et que ce serait l'expédier droit au ciel. Or, justement,
+c'est le châtiment de ce roi qui commence, ou continue : le remords
+l'empêche de prier !</p>
+<p>Mais, paroles toujours ; le fantôme intervient « pour rendre l'énergie à
+ta volonté qui s'émousse. Mais épargne ta mère... c'est dans les corps
+frêles que l'imagination a le plus de puissance ! ». Autrement dit : la
+voici sur le point de devenir folle. Quelle rencontre ! Elle, cependant,
+n'apercevant rien, juge son fils complètement aliéné1. Sur quoi, lui,
+réintègre net son sang-froid : il lui détaille un plan de conduite aussi
+sage qu'intempestif, d'où il résulte d'abord qu'il</p>
+<p>1. On doit remarquer que la nuit de l'Esplanade, tous voyaient te
+fantôme. Cette fois, Hamlet seul, et encore, « avec les yeux de son
+esprit » d'abord ; le fantôme ne se manifeste qu'ensuite.</p>
+<p><pb/></p>
+<p>est moins que jamais pressé d'agir. Brusquement, il réfléchit qu'elle ne
+saura se retenir de bavarder, et la frénésie le ressaisit.</p>
+<p>Mais le Destin, auquel il appartient, le préservera miraculeusement, va
+le ramener jusqu'au cimetière, où il le confronte avec le cadavre
+d'Ophélie, et avec le vengeur d'elle et Polonius. Depuis le meurtre, « sa</p>
+<p><pb/></p>
+<p>Cependant (car le ponctuel Destin, lui, n'a pas terminé sa besogne), il
+se collette avec le frère, puis lui demande pardon ; puis se justifie de
+poursuivre la mort du roi sur ce que celui-ci cherchait la sienne : « —
+N'estimes-tu pas que maintenant (!) quelque chose (quoi ?) m'est imposé
+? » Comme si la mission n'exis-</p>
+<p><pb/></p>
+<p>Par contraste, la conduite du roi se maintient merveille de fermeté
+satanique :</p>
+<p>— ... Elle s'est évanouie... Je ne suis que blessé...</p>
+<p>Et la suprême parole du tragique pantin, Hamlet est pour abdiquer en
+Fortinbras et pour recommander sa pauvre mémoire : « — Justifie ma cause
+»... Et « le reste est silence ».</p>
+<p>Requiescat in pace !</p>
+<p><pb/></p>
+<p>MESURE POUR MESURE</p>
+<p>Comme dans le Marchand de Venise, conflit ; entre la loi physique qui
+attire les sexes, et la loi morale qui contient les sens ; entre la loi
+humaine, précise et stricte, et la loi divine, toute de charité ; d'une
+façon générale : entre la lettre et l'esprit.</p>
+<p>Et survient l'affaire de Claudio : il a rendu dame</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le pauvre diable se croyait purgé de la tentation parce que les
+coquetteries le laissaient froid, et il constate avec terreur ceci : que
+la candeur est davantage brûlante !</p>
+<p>0 tentateur rusé qui pour faire tomber un saint, te sers d'une sainte
+comme appât !</p>
+<p>1. Tel dilemme amuse Voltaire très fort : voyez Cosi Sancta ou un petit
+mal pour un grand bien. Comment eût-il compris l'auteur de Mesure pour
+Mesure P</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>OTHELLO</p>
+<p>Peu après, Othello explique aux sénateurs :</p>
+<p>— Desdémone m'a aimé pour les périls que j'ai traversés je l'ai aimée
+pour sa sympathie.</p>
+<p><pb/></p>
+<p>C'est l'inverse du coup de foudre : cristallisation réciproque ; car
+Shakespeare connaît toutes les variétés de l'amour. Et l'on comprend et
+admire comment cette blonde fleur patricienne s'est envoûtée pour ce
+Maure lippu ; elle l'aimera avec la soumission meurtrie de l'oiseau
+fasciné, et pressentant un dénouement sinistre. Car cela est malgré tout
+contre nature. Elle sera victime de sa dissimulation, sa désobéissance à
+son père et aux lois de la nature ; elle a voulu un nègre ; il l'aimera
+puis la tuera, en nègre. Il s'opèrera en lui une cristallisation
+nouvelle et contraire, celle du soupçon déposé en embryon, non par Yago,
+mais par la menace paternelle :</p>
+<p>— Aie l'œil sur elle, Othello, elle a trompé son père !</p>
+<p><pb/></p>
+<p>Ici (comme dans Mesure pour Mesure), l'implacable Shakespeare conduit
+jusqu'au bout l'infernale scélératesse et l'infernale réussite : jusqu'à
+l'écroulement unanime, fatal. Fatal, car, faute de génie, cette
+scélératesse se soutient au jour le jour (comme celle de Richard III)
+tel un rat qui ronge la maison jusqu'elle croule sur lui, sur lui, agent
+du Destin qui transporte ou arrête la peste que le rat porte avec lui.</p>
+<p><pb/></p>
+<p>MACBETH</p>
+<p>Un général émérite : Othello perd la tête devant les racontars de son
+ordonnance ; un guerrier intrépide ; Macbeth, devant des hurlements de
+vieilles femmes.</p>
+<p>Non seulement, dans cette lugubre tragédie règne l'âpreté inhumaine des
+solitudes d'Écosse, mais elle est toute imprégnée d'une terreur
+maléfique. Sur une lande telle que celle qui rendra fou le Roi Lear, à
+travers le brouillard et l'air impur, titube le tonnerre, descend la
+pluie ; le chat miaule et le corbeau croasse, et les trois vieilles
+glapissent : Le beau est horrible et l'horrible est beau.</p>
+<p>— On respire ici un air suave et pur.</p>
+<p>Son compagnon répond :</p>
+<p>— Cet hôte de l'été, l'hirondelle, qui hante les saints édifices, en
+fixant ici son habitation chérie, montre que l'haleine du ciel y souffle
+avec amour...</p>
+<p>L'un est le roi Duncan et l'autre Banquo, et le château est celui de
+Macbeth leur assassin.</p>
+<p><pb/></p>
+<p>De ce château, Duncan au contraire pourrait dire si son Destin ne lui
+avait couvert les yeux, ce qu'il vient de dire du traître Cawdor :</p>
+<p>— Il n'y a plus moyen de juger des sentiments de l'âme par les traits du
+visage : c'était un homme en qui j'avais placé une confiance absolue.</p>
+<p>Cette confiance, le maître du lieu en a hérité, en même temps que du
+titre ; et en même temps du démon de la trahison :</p>
+<p>— Salut Macbeth, thane de Cawdor !</p>
+<p>Macbeth est du sang d'Othello. Les prophéties des sorcières, le « Je
+n'aime pas cela » de Yago rendent tels que des enfants ces guerriers
+intrépides seulement de corps. L'un voit sur le trône sa propre image,
+puis celle de Banquo : aussi distinctement que l'autre celle de
+Desdémone entre les bras de Cassio : « ma pensée où rien n'est que ce
+qui n'est pas » ! L'envie et l'ambition désorbitent l'un et l'autre le
+soupçon et ces poisons, comme une belladone, leur déforment la réalité.</p>
+<p>Duncan est son hôte, son bienfaiteur et son roi ; Banquo est son ami.
+Derrière lui s'allonge une existence de gloire et d'honneur ; et il
+suffit qu'un trio de sorcières sèment sur lui le virus « tu seras roi »
+pour</p>
+<p><pb/></p>
+<p>Ce n'est pas sans raison que le poète enrégimente Sorcières, harpies,
+farfadets, la fille-mère et son fœtus, les bêtes immondes et la
+maléfique Hécate : tout ce qui est vil appartient au démon, tout ce qui
+grouille sous l'homme et l'assiège. Et enrégimente les météores : «
+c'est par l'influence des astres que nous existons et cessons d'exister
+». Gardons-nous donc des « mau-</p>
+<p><pb/></p>
+<p>vais rêves », et, pour le reste, reposons-nous sur la Divinité.</p>
+<p>Macbeth ne goûtera plus le bienfaisant sommeil.</p>
+<p>1. Cf Hamlet devant Claudius priant.</p>
+<p><pb/></p>
+<p>LE ROI LEAR</p>
+<p>Ce beau bâtard chéri de ses père et frère, idolâtré des reines,
+d'ailleurs subtil et vaillant, se fera fratricide,</p>
+<p><pb/></p>
+<p>adultère, parricide et régicide, plus Yago que Yago. Shakespeare, comme
+la nature, n'est pas favorable aux Antonys, pas romantique pour un sol.</p>
+<p>Cette pièce peut surprendre d'abord. De tels parents feraient donner
+raison aux enfants dénaturés ; réellement ils ont mérité la mise en
+tutelle. Tutelle, soit ; mais, leurs affreuses infortunes ?</p>
+<p>Notez que ces deux pères aux infortunes conjuguées ont cru — et
+sembleraient aux regards du vulgaire — s'être conduits avec sagesse et
+équité. Le roi prend autant souci d'une égale bienveillance envers
+chacune de ses filles, que Gloster envers chacun de ses fils. Mais c'est
+cette égalité qui recèle l'injustice dont ils subirent les effets.</p>
+<p>Ce qu'il y a de redoutable dans nos actes, est que la</p>
+<p><pb/></p>
+<p>répercussion en est ininterrompue et infinie; elle n'atteint pas les
+seuls auteurs, mais tous, et multiplie de la sorte nos responsabilités.</p>
+<p>1. Cette prodigieuse scène des trois fous inquiète le spectateur même
+pour sa propre raison. Le ruissellement d'incohérences du faux aliéné
+qui joue trop bien son rôle (ne serait-il pas sur le point de le devenir
+pour de bon ?) et le cruel bon sens du fou ae profession, seraient déjà
+pour déséquilibrer un sain d'esprit.</p>
+<p>Et s'y ajoute la coalition des éléments affolés eux-mêmes dans cette
+nuit sur la lande déserte. Tous fous et aveugles.</p>
+<p><pb/></p>
+<p>il est « préparé » ; « sur de tels sacrifices les dieux mêmes jettent de
+l'encens », tandis que de son côté, le vieux Gloster expire, « le
+sourire sur les lèvres ».</p>
+<p>Et une remarque encore. Albany, époux de la fille aînée de Lear, était
+son successeur normal, comme Edgar celui de Gloster. Cornouailles sera
+abattu par un serviteur indigné ; Goneril sera poignardée après avoir
+empoisonné sa soeur ; Edmond succombe dans un duel fratricide ; Lear
+expire sur le corps de Cordélia étranglée, etc... Toutes les passions,
+tous les vices se déchaînent, on devient fou, on se hait, on s'entretue.
+Et pourquoi ? pour qu'enfin survivent et succèdent, et Edgar, et Albany
+qui est le seul placide pour ne pas dire inerte dans tout cela !</p>
+<p>Exactement comme dans Hamlet.</p>
+<p><pb/></p>
+<p>JULES CÉSAR</p>
+<p>Qu'un dramaturge veuille ressusciter César (entreprise si grandiose que
+Shakespeare seul l'a osée : n'insistons pas sur l'après coup de
+Voltaire) ; l'instant de cette existence formidable qu'il ne pourra
+s'empêcher de choisir, est sa mort, plus formidable encore. Son souci
+des trois unités situera l'action au seuil du Sénat ; les conjurés se
+tâtent, délibèrent, s'inquiètent. César viendra-t-il ? Il vient, suivi
+de sa cour. Sa femme le rejoint, lui redit ses appréhensions ; les
+conjurés le décident ; il entre malgré l'avis du destin. Antoine
+ressort, contant l'assassinat, puis les conjurés, qui s'en vont
+convoquer le peuple au forum. Octave, Lépide, paraissent, se concertent
+avec Antoine, lequel court au forum, y retourne le peuple : Cassius et
+Brutus reparaissent en fugitifs pendant que se constitue le Triumvirat.</p>
+<p>Jusqu'ici, le « classique » et Shakespeare auraient coïncidé : des
+récits ayant remplacé les tableaux du Sénat et du forum ; la règle
+stricte des unités serait strictement suivie.</p>
+<p>Seulement la mort du demi-dieu développe ses conséquences qui le
+vérifient demi-dieu : partage du</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>concertent. Une nuit tragique succède, toute secouée de prodiges, où le
+complot se noue ; l'inflexible Brutus hésite : un billet anonyme le
+décide :</p>
+<p>— 0 Rome, je te promets !</p>
+<p>— Seigneur, le 14e jour de Mars est expiré !</p>
+<p><pb/></p>
+<p>Tout le nœud de l'action est dans ce double suspens : Brutus se
+décidera-t-il contre César ? César se rendra- t-il au Sénat où « son
+destin le hèle ? » Et Brutus, malgré ses scrupules, César malgré les
+présages, agiront selon qu'il était écrit.</p>
+<p><pb/></p>
+<p>Un qui ne délibère pas, lui, que nulle considération n'arrête : Cassius,
+César l'a jugé : un constipé, un bilieux. De ces hommes « qui n'ont
+jamais de repos tant qu'ils voient un César au-dessus d'eux. » Très
+sincèrement il confond l'intérêt public avec sa jalousie : le
+conspirateur-né, le chef de clan, Robespierre, Barbès, Antoine, un
+Barras, un Tallien est son symétrique, son opposite dans le même plan.</p>
+<p>La harangue d'Antoine avec son refrain « homme honorable » est
+exactement orchestrée comme les discours de Jaurès1. Et il n'a garde
+d'omettre le « coup» classique que nos émeutiers d'après 89 se
+figuraient inventer 2 : l'exhibition du cadavre.</p>
+<p>— Je ne te contrarie pas, mais je veux.</p>
+<p>1. Ah que c'était beau.</p>
+<p>2. Voir les Mémoires d Alexandre Dumu.</p>
+<p><pb/></p>
+<p>-. César, tu es vengé avec le fer qui t'immola !</p>
+<p>Il fallait, il faut au monde un maître unique, une « étoile polaire ».
+César qui le sait a, par ambition, enfreint cette loi, se consentant le
+héraut et en somme le serviteur de la foule. Brutus ne l'a pas compris.
+Ils sont dignes l'un de l'autre pourtant par la hauteur de leurs vues,
+et cela est attesté par les dévouements qu'ils inspirent : spécialement
+les admirables épouses qu'ils ont su mériter. Ils s'apprécient :</p>
+<p>— Et toi aussi, Brutus ? Meurs donc, César !</p>
+<p>Et il se laisse immoler.</p>
+<p>Et Brutus :</p>
+<p>— 0 César, tu es puissant encore ! ton ombre parcourt la terre et tourne
+nos épées contre nos propres entrailles !</p>
+<p>— César apaise-toi : je ne t'ai pas tué avec moitié autant d'ardeur !</p>
+<p>Et c'est Octave qui lui sert l'oraison funèbre, héritier de Brutus et de
+César dont Brutus fut le parricide.</p>
+<p><pb/></p>
+<p>ANTOINE ET CLÉOPATRE</p>
+<p>Couronnement nécessaire de Jules César. Et quelque chose de plus : Qui
+sera maître du monde ? Il faut que le Christ, qui va descendre dans une
+génération (&lt;&lt;- J'aurai la tête d'Hérode », menace de Cléopâtre) trouve
+un monde pacifié : « le moment de la paix universelle approche... César
+n'est pas le Destin, il n'est que le valet de ses volontés. »</p>
+<p>Pas plus que « la bête de somme » Lépide, qu'Octave laisse tomber si
+négligemment, Sextius, le fils du grand Pompée n'était digne de
+recueillir la succession du meurtrier de Pompée : le monde ; il le
+prouve on sait comment. « 0 monde, tu n'as plus que deux tigres en
+présence » : un de trop.</p>
+<p>Et il s'avoue indigne de l'Empire, celui qu'émeut ce nez : c'est
+Antoine, autant que celui qu'émeut un scrupule. Et Octave en personne
+l'observera par</p>
+<p><pb/></p>
+<p>l'organe de Corneille : pour être maître de l'univers, il faut être
+maître de soi.</p>
+<p>Ici, esclave plus que jamais de ses vices et passions, il a baissé encore :</p>
+<p>— Dans l'une des trois colonnes qui soutiennent le monde, vous ne verrez
+plus que le jouet d'une catin !</p>
+<p>Mais souvent notre ultime passion est celle qui nous incendie le plus.
+Aussi fougueuse la leur que celle de Roméo et Juliette, elle monte à
+pareil paroxisme, et le juste poète leur décerne l'honneur d'être comme
+eux ensevelis dans le même tombeau.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>CORIOLAN</p>
+<p>Il est aristocrate par position et autant par sa nature. Austère, d'une
+ombrageuse modestie envers son individu, un peu ours même : « un ours
+qui vit comme un agneau », mais intraitablement orgueilleux pour sa
+famille, sa caste, sa patrie : pour l'ordre social enfin ; ayant en
+horreur la bassesse et le désordre ; ce qui lui fait défaut est la
+pitié, et, en sa position, la souplesse ;</p>
+<p><pb/></p>
+<p>Dès lors, tout s'effondra pour lui ; déclaré ennemi</p>
+<p>1. Cordélia était un peu ainsi, pour son malheur aussi Et</p>
+<p>Alceste.</p>
+<p><pb/></p>
+<p>— « Il ne lui manque pour être un dieu que l'éternité et le ciel », dit
+de lui quelqu'un ; cela formule sa condamnation. Plus ceci : « — il lui
+manque encore la clémence ». Bref, il a l'abnégation, il lui manque le
+sacrifice, et surtout l'à-propos qu'en Auguste, Corneille définissait
+maîtrise de soi, qui rend maître de l'univers, et fait qu'Auguste se
+surnomme « le Divin ».</p>
+<p>En ceci, dans un plan inférieur, Alcibiade surpasse de même Timon, comme
+César surpasse Brutus. Pareil crime, pareille faute. Timon, Brutus,
+Coriolan se meuvent dans le plan sublime mais avec une coupable
+maladresse. Il faut conclure avec Shakespeare que « sa nature est trop
+noble pour le monde où nous vivons » et qui doit les rejeter afin de ne
+point périr.</p>
+<p><pb/></p>
+<p>De tels humains sont faits pour la solitude de Jacques le Misanthrope de
+Prospéro : pour le monde enchanté où les a exilés Shakespeare. Dans la
+cité commune, ils deviennent les dangereux perturbateurs de l'ordre
+social. Et Shakespeare, dans son loyalisme hiérarchique, n'a jamais
+toléré ce délit.</p>
+<p><pb/></p>
+<p>TIMON D'ATHÈNES '&lt;%</p>
+<p>Cette invective désespérée passe sérieusement pour contemporaine,
+peut-être postérieure — fait dramatiquement étrange — au confiant et
+radieux Cymbeline. (On peut l'expliquer différemment : donc, passons.)</p>
+<p>Shakespeare avait mainte fois exhibé des misanthropes. Mais, Biron le
+rieur, Jacques le pince-sans- rire, sont deux sages qui méprisent leurs
+frères en les aimant. Timon comme l'Alceste de Molière, les prennent
+jusque risiblement, au sérieux et tragique. Seulement, Alceste est,
+comme Biron et Jacques, un misanthrope de caractère. Naturellement
+chagrin et endolori, une délectation morose lui grossit des accidents
+assez quotidiens, assez évitables, où il remâche la volupté de maudire
+ses semblables dont il ne saurait se passer.</p>
+<p>Timon, lui, n'était originellement pas plus misanthrope qu'Othello
+jaloux : aussi confiants l'un que l'autre. Orphelin de parents, de
+maîtresse, d'épouse, d'amis, il chérissait tout ce qui portait visage
+humain. Sa munificence n'a rien de la vanité du prodigue : elle est
+autrement magnifique et délicate que celle de « l'admirable Candaule »
+d'André Gide, et pour</p>
+<p><pb/></p>
+<p>raisons supérieures : — Quoi pouvons-nous mieux appeler nôtre que les
+richesses de nos amis ? Quel bonheur en avoir un grand nombre, unis
+comme des frères, et commandant aux fortunes les uns des autres ! »</p>
+<p>— Nous sommes nés pour faire le bien.</p>
+<p>Et ne souhaite plus rien qu'être pauvre, afin de connaître la seule
+volupté supérieure : pouvoir être reconnaissant.</p>
+<p><pb/></p>
+<p>d'un trop grand cœur. Et logique, sa malédiction embrasse l'humanité
+entière, pauvres comme riches, connus et inconnus et jusqu'aux animaux
+qui sont nos pareils par leurs appétits. Les ingrats de Timon sont ni
+plus, ni moins pervers que le reste ; et lui-même, il se méprise avec
+autant de raison : ne sommes-nous pas tous les mêmes « hommes mortels
+t), comme racontait notre symbole Falstaff.</p>
+<p>Et pour prévenir tout égarement d'interprétation, le poète oppose deux
+types qu'on prendrait peut-être d'abord- pour des ressemblances de
+Timon, mais ses repoussoirs : Apémantus, sophiste cynique ; Alci- biade,
+sceptique généreux.</p>
+<p>Apémantus, Philinte mâtiné de Thersite et d An- tisthène envieux et vil,
+souhaite bestialement d'être une bête parmi les bêtes, ce qui
+l'authentifie. Aux banquets de Timon prospère, il accourait croquer à
+gros bruit une puante racine et laper de l'eau pour la gourmandise
+d'agonir hôte et convives. Et il le relance dans sa caverne, furieux de
+n'être plus le seul qu'on sût qui croque des racines.</p>
+<p><pb/></p>
+<p>biade lui-même et ses soldats, afin que tous, chacun selon sa fonction,
+hâte automatiquement la destruction universelle, puis expire bientôt,
+car on pense bien que ce grand cœur brisé n'avait plus pour longtemps à
+battre.</p>
+<p><pb/></p>
+<p>CYMBELINE</p>
+<p>Apothéose de tous les sentiments qui haussent la famille et l'État :
+amours des parents et des enfants, et des frères et des sœurs, et des
+époux, fidélité des amis, patriotisme, loyalisme au souverain, piété aux</p>
+<p><pb/></p>
+<p>dieux ; plus qu'une collection de sentiments : une doctrine.</p>
+<p>Idylle héroïque des orphelins ; cette télépathie dite voix du sang y
+parle si fort qu'Arviragus et Guirdérius reconnaissent leur sœur Imogène
+qu'ils n'ont jamais vue, et sans que cela surprenne ; que les père, mère
+et frères de Posthumus protègent un fils et frère, né après leur mort.</p>
+<p>Et la voix de la race. Arviragus et Guidérius, élevés dans les forêts,
+se reconnaissent guerriers, gentilshommes, fils de roi : d'instinct. Le
+bestial Cloten se retrouve patriote et prince en présence de l'ennemi de
+sa patrie. Le proscrit Bélarius prononce sur la dépouille de son
+persécuteur abattu :</p>
+<p>— Bien que la mort confonde les puissants et les petits dans une commune
+poussière, le respect, cet ange du Monde, établit une distinction de
+place entre le haut et le bas. Notre ennemi était prince, ensevelissez
+donc comme un prince.</p>
+<p>De si nobles humeurs tournent ceux qu'elles habitent en victimes de la
+méchanceté du commun des</p>
+<p>1. « — Je reconnais la forme de sa jambe ; voici sa main ; voici son
+pied de Mercure ; sa cuisse de Mars ; ses bras d'Hercule...</p>
+<p>(Quelle ironie 1)</p>
+<p><pb/></p>
+<p>hommes. L'idylle des orphelins est aussi l'élégie des proscrits ;
+jalousie, calomnie, envie, nul grand cœur n'y échappe, car c'est le
+propre de l'humanité, et réussit toujours, même contre une Imogène et
+devant un Posthumus. Mais enfin tous les proscrits seront réunis dans
+une seule patrie, tous les orphelins en une même famille : car les
+grands cœurs ne sauraient subsister qu'entre eux. Et quand Bélarius
+célèbre sa caverne et sa forêt, ce n'est, et au contraire, et le poète y
+insiste une fois de plus, nullement par quelque goût de vivre comme une
+bête. — La famille, sang ou élection, se veut circonscrite dans la
+profondeur et la pureté. Cymbeline fut adultère posthume, s'étant
+remarié lorsqu'il avait une fille : adultère et infanticide. — La
+marâtre et son fils : les intrus, disparaissent ; tous sont heureux,
+tout est bien.</p>
+<p><pb/></p>
+<p>CONTE D'HIVER</p>
+<p>Le petit roi Mamillus, un de ties enfants dont la précocité porte un
+funeste présage, parle ainsi :</p>
+<p>.. En hiver, une histoire triste est plus de saison... je vais vous en
+conter une de revenants. Il y avait une fois un homme qui habitait près
+d'un cimetière.</p>
+<p>Conte d'Hiver demeure un Périclès douloureux, pourtant qui se termine en
+épithalame.</p>
+<p><pb/></p>
+<p>Le loyal, le confiant Othello, est bien le contraire d'un soupçonneux :
+il croit ou ne croit pas, et il fallait toute la scélérate habileté de
+Yago pour lui rendre Desdémone criminelle. C'est un jaloux de
+circonstance. Léontès représente le vrai jaloux, le pur, le jaloux- type
+: un halluciné. Sa frénésie, aussi inattendue, aussi coup-de-foudre que
+celle de Roméo (mais elle, maladive et contre-nature), apparaîtrait
+extravagante, si l'on ne réfléchissait qu'elle a couvé neuf mois.</p>
+<p>1. Et le procès de la reine Hermione semble un souvenir du procès de
+Catherine d'AraRon.</p>
+<p>2. 0, suavité chaste, chasteté de la coquetterie espiègle d'Her- mione
+pour retenir le voyageur !</p>
+<p><pb/></p>
+<p>imaginaire, parce que s'est forgé une évidence hallucinée, la proclame à
+tout l'univers, lui, roi, chef d'Etat ; traite ses enfants de bâtards,
+et comme l'oracle qu'il a invoqué lui-même, innocente la reine, il
+blasphème l'oracle et les dieux.</p>
+<p>— Prince, votre épouse a fidèlement gardé la foi conjugale, car en vous
+concevant elle a mis en vous l'empreinte même de votre royal père.</p>
+<p>Effroyable témoin de l'immanence de cette maladie chronique, la jalousie.</p>
+<p>La seconde partie commence seize ans après, sur les côtes de Bohême ; la
+Bohême, la contrée la plus ter-</p>
+<p><pb/></p>
+<p>Puis, la plus poétique, la plus aérienne des pastorales a pour la bonne
+fée, autre Marina, la plus suavement impossible des bergères. Elle
+controverse ainsi avec Polyxène, un roi déguisé, le père inconnu de son
+amoureux Florizel :</p>
+<p>— ... Œillets, giroflées bigarrées... bâtardes de la nature, je ne me
+charge pas d'en faire pousser... c'est l'art qui, pour les bigarrer,
+partage avec la grande mère nature.</p>
+<p>Mais le roi :</p>
+<p>Quelle leçon !</p>
+<p><pb/></p>
+<p>sation, suprême fleur de la nature. Les seuls vraiment idoines à
+fréquenter parmi les fleurs des champs ou des jardins, ils sont encore
+des rois, des princesses, des fous et des poètes : Shakespeare est
+l'aristocrate invétéré.</p>
+<p>La leçon prend tout son sens, et symbolique, car cette bergère portant
+âme de princesse est enfant de roi, comme le berger par elle élu.</p>
+<p>L'amour des deux jeunes gens transpose l'affection des deux pères :
+Polyxène et Léontès rajeunissant en Florizel et Perdita comme en leurs
+fils les pères d'Ham- let et de Fortinbras : la Providence par ses voies
+secrètes rétablit ce qui normalement fût survenu sans l'humaine
+infirmité : et donc, arrive quand même, malgré elle, parce que la Norme
+providentielle le voulait.</p>
+<p>Faut-il dire que c'est chez Jacques Copeau qu'il faut entendre Conte
+d'Hiver et tenter de l'apprendre par coeur ?</p>
+<p><pb/></p>
+<p>LA TEMPÊTE</p>
+<p>Miranàa : Que le genre humain est beau 1</p>
+<p>Grandiose et souriant fronton de l'édifice shakespearien ; toute sa
+conception du monde et de l'humanité résumée en Prospéro, Caliban,
+Miranda. Qui ne recèle son héritage de Caliban ? Comment s'en purger,
+délivrer Ariel, mériter Mirande, devenir Prospéro ?</p>
+<p>Nous connaissons bientôt qu'ils sont des pervers, cette tempête magique,
+un châtiment ; et Prospéro et Miranda, leurs victimes de jadis (comme le
+Duc Légitime de Comme il vous plaira), les plus nobles échantillons
+d'humanité.</p>
+<p>Prospéro fut et demeure, comme Hamlet, et Lear sur sa fin, un
+contemplatif, et qui, comme Vincentio,</p>
+<p><pb/></p>
+<p>« La Providence,</p>
+<p>Mais tel Farfadet dans le Songe, les farfadets de Prospéro égarent
+Caliban dans les ténèbres, l'éblouissent de prestiges, l'immergent en
+pleine fange : image de</p>
+<p><pb/></p>
+<p>ce qui attend toute foule démuselée. Caliban exècre en Prospéro la
+souveraineté intellectuelle, mais se fait avec volupté l'esclave d'un
+matelot ivre\ le supplie d'être son Dieu et de lui permettre de lui
+lécher les pieds.</p>
+<p>— Adieu, mon maître ! d'un nouveau maître on m'a fait don : liberté,
+liberté !</p>
+<p>Finalement, tout ce qui se consentit l'esclave de ses appétits ou
+passions, ou grands seigneurs ou brutes, sont les jouets des destins
+maniés par la pure intelligence ou le pur amour renonçant aux passions.
+Ainsi se retourne en Hymne le cri de désespoir du Roi Lear : que nous
+sommes tels que des moucherons sous la</p>
+<p><pb/></p>
+<p>Ainsi le vœu de son plus humble lecteur.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>APPENDICES</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>I</p>
+<p>SHAKESPEARE SANS DÉCORS 1</p>
+<p>Nous autres sommes possédés de la maladie du décor. Nous réclamons un
+réalisme pittoresque, le calque des intentions : avérées, sous-entendues
+ou soupçonnées, ou attribuées, dans un cadre impérieusement
+photographique. Ne discutons point cette conception : qu'elle soit de
+vieux maniaques ou d'enfants, ou de sauvages, elle est ce qu'elle est.
+Mais le plus extravagant est qu'on considère comme sa vérification et
+son triomphe de l'appliquer intégralement au poète du Conte d'Hiver et
+du Songe d'une Nuit tl Été.</p>
+<p>1. Ecrit vers 1916, 1917 : pendant la Guerre.</p>
+<p><pb/></p>
+<p>Elle se pose seulement depuis et par les Romantiques. En effet, depuis
+eux, chaque fois on procède selon le même esprit, le leur.</p>
+<p>/lpAcrMme&lt;, Sansot, 1908.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Oes Romantiques ne se doutèrent jamais de cela).</p>
+<p><pb/></p>
+<p>l'éclatante machine de guerre d'un 89 contre les classiques et leurs
+règles, et les règles éternelles.</p>
+<p>Ne retenons pour un moment des licences prises que celles</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>paraître pour avoir le dernier mot, et les Hébreux de la salle de
+l'entendre maudire sa chrétienne de fille, et c'est bien fait pour
+Shakespeare !</p>
+<p>Pourtant s'il fut jamais homme de théâtre, c'est Gémier, c'est Antoine ;
+ils ont presque réalisé l'impossible. Mais Shakespeare est aussi homme
+de théâtre incomparable :</p>
+<p><pb/></p>
+<p>Etouffement symbolique : une exacte mise en scène des tragédies
+shakespeariennes serait si diverse, si instantanément diverse, si
+multiple, si féerique, si surnaturelle, si impossible, que, nous l'avons
+dit, on ne songerait plus aux paroles, on ne les entendrait plus. Non :
+Shakespeare ne voulait pas de décors. Peut-on admettre qu'un tel
+dramaturge ait conçu, composé, représenté des ouvrages injouables même
+aujourd'hui, lui qui s'accommode si bien des res-</p>
+<p><pb/></p>
+<p>Qu'on n'objecte pas la mise en scène soi-disant rudimen- taire,
+soi-disant inexistante de son temps. Elle ne l'était pas, aux temps de
+Corneille, de Racine ; pense-t-on, de même, qui s'ils avaient voulu,
+eussent agrémenté leurs tragédies des merveilles mécaniques d'Andromède
+ou Psyché, de la magnificence des ballets de cour ? Ils le jugeaient
+inutile ; ils tenaient la tragédie pour une chose, la féerie pour une
+autre, un peu inférieure, qui provoque les sens, et non pas l'esprit.
+Shakespeare tout autant.</p>
+<p>Quand de Britannicus la mère condamnée</p>
+<p>Laissa de Claudius disputer l'hyménée,</p>
+<p>et la prophétie d'Agrippine le prolonge plus loin que toute la vie de
+Néron : jusque « dans les races futures ». Le temps pour Racine est la
+minute, l'oscillation où se décide cette vie (« Viens, Narcisse... ») ;
+et le temps est pour Shakespeare toute la vie d'Hamlet, résumée dans la
+minute où il hésite</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>les évolutions des comédiens prenaient d'elles-mêmes le sens d'une
+grandiose figure de ballet où se réglaient des destinées. C'était beau
+de la même beauté étemelle que le théâtre de Corneille ou Racine, ou le
+théâtre grec : c'était Shakespeare.</p>
+<p><pb/></p>
+<p>II</p>
+<p>HAMLET DE GASCOGNE</p>
+<p>ou</p>
+<p>SHAKESPEARE FOLK-LORISTE</p>
+<p>C'est chez Shakespeare un parti-pris que n'inventer jamais — ou autant
+dire — les canevas de ses pièces. Mais, tandis que son théâtre
+historique, il se découpe dans les chroniques : Angleterre ou Bretagne,
+ou dans Plutarque, et avec une scrupuleuse fidélité, pour ses sujets
+romanesques au contraire — matière extraite des conteurs : Boccace, Bandello,
+ Chaucer, Belleforest, etc..., il remanie et retriture cette
+matière, avec un soin amoureux.</p>
+<p>Étude aussi fructueuse qu'intéressante, sans doute, celle de ces
+refontes aux motifs parfois mystérieux.</p>
+<p>Son Hamlet, nul doute, sort de la 5e des Histoires de son contemporain
+français, François de Belleforest, historiographe de Henri III, lui-même
+traduisant une légende translatée en latin par Saxo Grammaticus, érudit
+Danois du XIIe siècle 1.</p>
+<p>1. Belleforest venant alors d'être traduit en anglais, il est
+généralement admis que c'est par la traduction que Shakespeare le connut.</p>
+<p><pb/></p>
+<p>Ce n'est pas tout. Maurice Montégut avait fait une découverte bien
+intéressante, cette fois relative au Roi Lear. En</p>
+<p><pb/></p>
+<p>En outre, un ou deux contes évoquent en linéaments, d'ailleurs vagues,
+l'aventure de la pucelle de Narbonne, héroïne dans le Décaméron, avant
+de l'être de Tout est bien qui finit bien. Les commentateurs ont déjà
+relevé l'atmosphère gracieusement patriarcale et familière par quoi
+Shakespeare caractérise si finement les mœurs royales ou seigneuriales
+françaises (Tout est bien..., Peines d'amour perdues) et les différencie
+de celles anglaises. C'est exactement celles que respirent les Contes du
+recueil Bladé.</p>
+<p>Nous, qui ne sommes pas un érudit, de tout ceci nous ne nous permettrons
+d'inférer rien, et si avons quelque opinion la garderons pour nous.
+Pourtant, si d'aventure — sait-on jamais ? — M. Abel Lefranc, par
+exemple, avait deviné juste : si l'auteur d'Hamlet et de Peines d'amour
+perdues, fut réellement le grand seigneur qu'il croit, et ayant approché
+le roi Henri dans sa cour de Nérac : n'aurait-il pu ouïr ces contes de
+la bouche des gens du pays ? Ou même celle de Belleforest : qui était un
+Gascon, de Sarzan en Comminges, et protégé, presque filleul, de la reine
+de Navarre ? Empressons-nous d'ailleurs de rappeler que Belleforest
+semble ignorer parfaitement ces contes compa-</p>
+<p><pb/></p>
+<p>Quoi qu'il en soit, les traces fourmillent dans l'œuvre shakespearien,
+de chansons populaires ; sont-elles simplement une poétique
+incrustation, un semis de fleurs, ou bien en quelque sorte un vivant,
+latent et obscur tissu ?</p>
+<p><pb/></p>
+<p>Shakespeare fort différent du génie inculte (« Désordre et</p>
+<p>Génie ! ») et inassimilable, sorti tout armé d'une trappe, que
+supposaient complaisamment les Romantiques ; comme de l'Anglo-Saxon
+impénitent, invétéré, symbolique et représentatif où s'obstinèrent
+Châteaubriand, Carlyle,</p>
+<p>Taine et plusieurs autres...</p>
+<p>Et voici enfin le conte de La Reine Châtiée.</p>
+<p>COMPLAINTE D'HAMLET DE GASCOGNE</p>
+<p>OU DE</p>
+<p>LA REINE CHÂTIÉE</p>
+<p>Ceci est la transposition poétique, rigoureusement fidèle, du conte
+gascon, recueilli voici quelque cinquante ans, par l'érudit J.-F. Bladé,
+dans ses Contes populaires de la</p>
+<p>Gascogne. Le lecteur remarquera ses similitudes étranges avec la
+tragédie de Shakespeare.</p>
+<p>— Il était une fois un roi</p>
+<p>Franc et honnête comme l'or,</p>
+<p>Comme Samson hardi et fort.</p>
+<p>Chaque matin après la messe</p>
+<p>Il faisait aumône et largesse</p>
+<p>Et au pauvre aussi bien qu'au riche</p>
+<p>Il rendait exacte justice.</p>
+<p>La reine était bien différente :</p>
+<p>Jamais se vit ni se verra</p>
+<p>Femme aussi avare et méchante.</p>
+<p>Roi et reine n'avaient qu'un fils ;</p>
+<p>On disait : Le fils vaut le père ;</p>
+<p>Quand le roi ne sera plus là</p>
+<p>Nous savons qui nous gardera</p>
+<p>Selon la loi et la justice.</p>
+<p><pb/></p>
+<p>Quand le fils prit ses vingt ans d'âge, Le roi son père un soir lui dit :</p>
+<p>— Je t'aime bien, car tu es sage, Juste, loyal, fort et hardi.</p>
+<p>Or voici que je prends de l'âge :</p>
+<p>Je veux te faire roi ici.</p>
+<p>Et entends que tu te maries</p>
+<p>— Père, vous serez obéi.</p>
+<p>— Prends fille au pays, sage et belle, Et qu'elle commande au plus tôt
+En maîtresse dans le château.</p>
+<p>Sans rien dire écoutait la reine ;</p>
+<p>Elle pensait : Nous verrons bien. Et le fils, entre mainte et mainte,
+Choisit la fille au roi voisin,</p>
+<p>Sage et belle comme une sainte.</p>
+<p>Le roi dit : — Partons dès demain En son château chercher ta belle. Mais
+la reine ne disait rien.</p>
+<p>Elle sortit, elle revint.</p>
+<p>— 0 roi, dit la reine, pourquoi</p>
+<p>Ne trinquez-vous pas avec moi ?</p>
+<p>— Merci, merci : trinquons encore. Tous les trois vidèrent leurs verres.
+Le roi devient vert comme l'herbe ; Sans rien dire la reine sort.</p>
+<p>Le lendemain fut mis en terre.</p>
+<p>Le fils donna argent et or</p>
+<p>Pour les aumônes, les prières.</p>
+<p>En revenant du cimetière</p>
+<p>Aux valets du château il dit :</p>
+<p><pb/></p>
+<p>Sans rien dire le regardait.</p>
+<p>Par la main il prend le jeune homme, Le mène en un caveau secret.</p>
+<p>— Regarde, fils, a dit le roi !</p>
+<p>Il a ouvert une cachette</p>
+<p>Et il lui a montré du doigt</p>
+<p>— Ta mère m'a empoisonné ; Tu es le roi, fais-moi justice.</p>
+<p>— Père, vous serez obéi.</p>
+<p>Le jeune roi suait de peur ; Pourtant était fort et hardi ;</p>
+<p>A l'écurie il descendit</p>
+<p>Sella son cheval le meilleur</p>
+<p>Et dans la nuit noire il partit, Frappe chez son meilleur ami : —
+Bonsoir ; me reconnais-tu pas ? — Je vous vois : vous êtes le roi.</p>
+<p>Le roi repartit au galop,</p>
+<p>Vendit habits, cheval, épée,</p>
+<p>Et donna tout l'argent aux pauvres ; En mendiant s'en est allé,</p>
+<p>Et priant Dieu s'est endormi.</p>
+<p><pb/></p>
+<p>Le coup de minuit a sonné,</p>
+<p>Le fantôme vint voir son fils :</p>
+<p>— Ta mère m'a empoisonné,</p>
+<p>Tu es le roi, fais-moi justice.</p>
+<p>— Père, vous serez obéi.</p>
+<p>Tout un an marcha devant lui ; Enfin retrouve son pays,</p>
+<p>Frappe au château de son ami.</p>
+<p>— Dis-moi, qu'est devenu ma belle ? — Elle est morte dans son couvent. —
+Dis-moi, qu'est devenue ma mère ? — Elle est au château, commandant,
+C'est pour le malheure du pays. — Laisse-moi dormir, tout est bien, Tu
+me réveilleras demain.</p>
+<p>— 0 roi, vous serez obéi.</p>
+<p>Il se coucha, il s'endormit,</p>
+<p>Il s'éveilla dans la minuit,</p>
+<p>Le fantôme le regardait :</p>
+<p>— Ta mère m'a empoisonné ;</p>
+<p>Tu es le roi, fais-moi justice.</p>
+<p>— Père, vous serez obéi.</p>
+<p>A l'aube rentre son ami.</p>
+<p>— Ce soir je quitte le pays.</p>
+<p>Ce soir je quitte le pays.</p>
+<p>C'est pour n'y retourner jamais. Écoute, voici un écrit :</p>
+<p>A ma place, roi je t'ai fait.</p>
+<p>Sur ton ami est le malheur ; Apporte une épée, des habits, Selle ton
+cheval le meilleur.</p>
+<p>— 0 roi, vous serez obéi.</p>
+<p>Le roi repart au grand galop,</p>
+<p>Passé le coucher du soleil,</p>
+<p>Et tous les deux ils s'attablèrent.</p>
+<p><pb/></p>
+<p>Quand ils furent seuls le roi dit : — Ma mère, madame la reine,</p>
+<p>Je viens d'épouser mon amie Et dès demain je vous l'amène.</p>
+<p>La reine écouta sans rien dire, Elle sortit, elle revint :</p>
+<p>Alors le roi prit son épée — 0 ma mère, ma pauvre mère, Vous voulez donc
+m empoisonner Comme vous avez fait de mon père ? Je vous pardonne, mais
+mon père. Mon père ne pardonne pas.</p>
+<p>M'est venu dire par trois fois : Fais-moi justice, tu es roi.</p>
+<p>Priez Dieu vous prenne en pitié, 0 ma mère, ma pauvre mère.</p>
+<p>Mais regardez bien cette épée, Car le temps de dire un Pater, Votre tête
+sera tranchée,</p>
+<p>Si vous n'avez pris ce poison. Buvez, buvez, ma pauvre mère, Buvez,
+buvez bien jusqu'au fond.</p>
+<p>La reine a vidé jusqu'au fond Et devient verte comme l'herbe —
+Pardonnez-moi. ma pauvre mère. Mais la reine a répondu : Non. Sur elle
+alors le roi pria,</p>
+<p>Et au grand gal artit,t</p>
+<p>!UF,</p>
+<p>Et jamais on riè le revîtpV</p>
+<p><pb/></p>
+<p>TABLE DES MATIERES</p>
+<p>PREMIÈRE PARTIE</p>
+<p>COUP D'ŒIL GÉNÉRAL SUR L'ŒUVRE</p>
+<p>ET L'OUVRIER</p>
+<p>Shakespeare n'est pas un monstre 21 Impression première 24 Sa vision de
+l'Univers 26 Sa vision de l'Homme 28 Leurs rapports 30 Libre-arbitre et
+Fatalité 31 Libre-arbitre et Responsabilité 32 L'Ordre dans l'Univers 35
+L'Ordre dans la Société 36 La Réalisation théâtrale : Les Genres
+............ 38 Choix des sujets. Intrigue ...................... 42 Les
+Unités 47 Morale et Beauté 49 Qui était Shakespeare ?
+......................... 55</p>
+<p><pb/></p>
+<p>DEUXIÈME PARTIE</p>
+<p>COUP D'ŒIL SUR LES ŒUVRES</p>
+<p>Les Apocryphes 61</p>
+<p>La Tragédie de Locrine, p. 62. — Titus</p>
+<p>Andronicus, p. 64. — La Puritaine ou La</p>
+<p>veuve de Watling Street, p. 66. — Thomas</p>
+<p>Cromwell, p. 67. — Arden de Faversham.</p>
+<p>p. 69. — Une Tragédie dans le Yorkshire,</p>
+<p>p. 71. —Les deux Nobles Parents, p. 72.</p>
+<p>Péridès, prince de Tyr 76 Les deux gentilshommes de Vérone 78 Peines
+d'Amour perdues 80 La Comédie des Méprises 83 Roméo et Juliette 85 Tout
+est bien qui finit bien, ou Peines d'Amour gagnées. 89 La Mégère
+apprivoisée 92 Le Marchand de Venise ou la Leçon de Charité.... 94 Le
+Songe d'une Nuit d'été ou la Leçon d'Humilité.. 99 Beaucoup de bruit
+pour rien 102 Comme il vous plaira 104 Les Joyeuses Commères 107 La XIIe
+Nuit, ou La Nuit des Rois, ou... ce que vous voudrez 110 Troïle et
+Cressida 113 Le Théâtre historique 116 Le Roi Jean 118 Édouurd III 121
+Richard II 124 Henri IV 126</p>
+<p>I, p. 126. - II, p. 127.</p>
+<p>Henri V ...................................... 130</p>
+<p><pb/></p>
+<p>Henri VI 134</p>
+<p>I, p. 134. - II, p. 137. — III, p. 138.</p>
+<p>Richard III 140 Henri VIII ou Tout est vrai 142 Hamlet, prince de
+Danmark 145 Mesure pour Mesure 156 Othello 158 Macbeth 163 Le Roi Lear
+167 Jules César 171 Antoine et Cléopâtre 177 Coriolan 180 Timon
+d'Athènes 184 Cymbeline 186 Conte d'hiver 191 La Tempête
+................................... 1%</p>
+<p>APPENDICES</p>
+<p>Il. Shakespeare sans 203 II. Hamlet de Gascogn^ù^SneJâ^ure
+Folk.Loriste.... 214</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>.ACHEVÉ D'IMPRIMER LE 31 MAI 1923 PAR F. PAILLART A .ABBEVILLE (FRANCE)</p>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>BIBLIOTHEQUE DU HERISSON</p>
+<p>ROMANS ET CONTES</p>
+<p>BALKIS. — Personne.</p>
+<p>— En marge de la Bible.</p>
+<p>PIERRE BILLOTEY. — Le Pharmacien spirite.</p>
+<p>— Raz Bobmil.</p>
+<p>NONCE CASANOVA. — La Libertine.</p>
+<p>— Messaline.</p>
+<p>RENÉ-MARIE HERMÀNT. — Kniazii. ' OCTAVE JONCQUEL et THÉO VARLET. — Les
+Titans du Cièl.</p>
+<p>— — L'Agonie de la Terre.</p>
+<p>MAGALI-BOISNARD. — Mâadith.</p>
+<p>— L'Enfant Taciturne,</p>
+<p>GASTON PICARD. — Les Surprises des Sens.</p>
+<p>P.-J. TOULET. — Béhanzigue.</p>
+<p>THÉO VARLET. — La Bella Venere.</p>
+<p>— Le Dernier Satyre.</p>
+<p>THÉO VARLET et ANDRÉ BLANI)IN. — La Belle Valence. &lt; WILLY et MÉNALKAS.
+— L'Ersatz d'Amour.</p>
+<p>POÉSIE</p>
+<p>JOACHIM DU BELLAY. — Les Amours de Faustine.</p>
+<p>FAGUS. — La Danse Macabre.</p>
+<p>— Frète Tranquille.</p>
+<p>ANDRÉ FONTAINAS. — Récifs au soleil.</p>
+<p>TRISTAN KLINGSOR. — Humoresques.</p>
+<p>ALPHONSE MÉTÉRIÉ. — Le Livre des Sœurs.</p>
+<p>HENRY MUSTIÈRE. — La Nouvelle Franciade, satire.</p>
+<p>CHARLES DE SAIN T-CYR. — Le Livre &lt;TIsetdt.</p>
+<p>JEAN SECOND. — Le Livre des Baisers.</p>
+<p>THÉO VARLET. — Aux Libres Jardins.</p>
+<p>THÉÂTRE</p>
+<p>, HENRI STRENTZ. — Théâtre de Ham Pipp.</p>
+<p>LITTÉRATURE</p>
+<p>FAGUS. — Essai sur Shakespeare.</p>
+<p>ART</p>
+<p>LE FAUCONNIER. — Album, avec préface de Jules Romains.</p>
+<p>Exemplaires sur Alfa français... 7.50 Exemplaires sur Hollande...... 33</p>
+<p>— Arches ...... 22 — — Japon......... 55 —</p>
+    </div>
+    </body>
+  </text>
+</TEI>

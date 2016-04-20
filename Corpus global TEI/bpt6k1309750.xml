@@ -1,0 +1,2220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+ <teiHeader>
+<fileDesc>
+<titleStmt>
+<author key="Bornecque, Henri (1871-1935)">Henri Bornecque</author>
+<title>Les "Catilinaires" de Cicéron : étude et analyse / par H. Bornecque,...</title>
+</titleStmt>
+<editionStmt>
+        <edition>OBVIL/BNF</edition>
+        <respStmt>
+          <resp>reprise des textes</resp>
+          <name>Amélie Canu</name>
+        </respStmt>
+      </editionStmt>
+<publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Bornecque, Henri (1871-1935)</author>, <title>Les "Catilinaires" de Cicéron : étude et analyse / par H. Bornecque,...</title>, <date>1937</date>,description :Collection : Les Chefs-d'oeuvre de la littérature expliqués,352 pages
+</bibl>
+<publisher>Mellottée (Paris)</publisher>
+<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k1309750</idno>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1937">1937</date>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+ </teiHeader>
+  <text>
+    <body>
+    <div>
+<p>LES CHEFS-D'OEUVRE DE LA LITTÉRATURE EXPLIQUÉS</p>
+<p>Publiée sous la Direction de RENÉ DOUMIC de l'Académie Française</p>
+<p>LES</p>
+<p>CATILINAIRES</p>
+<p>de Cicéron</p>
+<p>ÉTUDE ET ANALYSE</p>
+<p>PAR</p>
+<p>H. BORNECQUE</p>
+<p>PROFESSEUR A LA FACULTÉ DES LETTRES DE LILLE</p>
+<p>MELLOTTÉE, ÉDITEUR</p>
+<p>48, RUE MONSIEUR-LE-PRINCE. PARIS VIE</p>
+<p><pb/>
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------</p>
+<p>LES CATILINAIRES</p>
+<p><pb/></p>
+<p>LES CHEFS-D'OEUVRE DE LA LITTÉRATURE EXPLIQUÉS</p>
+<p>EN VENTE :</p>
+<p>L'ILIADE d'HOMÈRE, par A. Puech, de l'Institut.</p>
+<p>L'ODYSSÉE d'HOMÈRE, par V. Bérard, de l'École des Hautes Études.</p>
+<p>OEDIPE-ROI de SOPHOCLE, par Maurice Croiset, de l'Institut.</p>
+<p>LES PHILIPPIQUES de DÉMOSTHÈNE, par A. Puech, de l'Institut.</p>
+<p>LA CHANSON DE ROLAND, par</p>
+<p>Ed. Faral, Professeur au Collège de France.</p>
+<p>LES ESSAIS de MONTAIGNE, par Gustave Lanson, Directeur honoraire de
+l'École Normale Supérieure.</p>
+<p>DON QUICHOTTE de CERVANTES, par Paul Hasard, Professeur au Collège de
+France.</p>
+<p>LE MISANTHROPE de MOLIÈRE, par René Doumic, de l'Académie Française.</p>
+<p>LES FEMMES SAVANTES de MOLIÈRE, par G. Reynier, Professeur a la Sorbonne.</p>
+<p>LES PENSEES de PASCAL, par Fortunat Strowski, de l'Institut.</p>
+<p>PORT-ROYAL de SAINTE-BEUVE, par Victor Giraud.</p>
+<p>LA LÉGENDE DES SIÈCLES, de</p>
+<p>VICTOR HUGO, par P. Berret.</p>
+<p>BRAND d'IBSEN, par P. G. La Chesnais.</p>
+<p>PÉCHEUR D'ISLANDE de P. LOTI, par L. Barthou, de l'Académie Française.</p>
+<p>EN PRÉPARATION :</p>
+<p>GARGANTUA de RABELAIS, par A bel Lefranc, de l'Institut.</p>
+<p>HAMLET de SHAKESPEARE, par L. Gillet.</p>
+<p>LES ANNALES DE TACITE, par Fabia, de l'Institut.</p>
+<p>LA DIVINE COMÉDIE de DANTE, par A. Jeanroy, de l'Institut.</p>
+<p>LES VERRINES de CICÉRON, par J. Carcopino, de l'Institut.</p>
+<p>L'ART POÉTIQUE de BOILEAU, par Marcel Hervier.</p>
+<p>LES ROMANS de VOLTAIRE, par</p>
+<p>A. Bellessorl.</p>
+<p>LE PÈRE GORIOT de BALZAC, par Marcel Bouteron.</p>
+<p>HERNANI de Victor HUGO, par Mario Roustan.</p>
+<p>LES CONTEMPLATIONS de Victor HUGO, par Maurice Levaillant.</p>
+<p><pb/></p>
+<p>LES CHEFS-D'OEUVRE DE LA LITTÉRATURE EXPLIQUÉS</p>
+<p>Publiés sous la Direction de RENÉ DOUMIC de l'Académie Française</p>
+<p>LES</p>
+<p>CATILINAIRES</p>
+<p>Cicéron</p>
+<p>ÉTUDE ET ANALYSE</p>
+<p>PAR</p>
+<p>H. BORNECQUE</p>
+<p>PROFESSEUR A LA FACULTÉ DES LETTRES DE LILLE</p>
+<p>MELLOTTÉE, ÉDITEUR</p>
+<p>48, RUE MONSIEUR-LE-PRINCE - PARIS VIE</p>
+<p><pb/></p>
+<p>JUSTIFICATION DE TIRAGE</p>
+<p>IL A ÉTÉ TIRÉ DE CET OUVRAGE 2 EXEMPLAIRES SUR HOLLANDE NUMÉROTÉS 1 ET 2
+L'ÉDITION ORIGINALE DE CET OUVRAGE PORTANT LA MARQUE Q A ÉTÉ TIRÉE SUR
+VERGÉ OUTHENIN-CHALANDRE</p>
+<p>EXEMPLAIRE: Q</p>
+<p><pb/></p>
+<p>Mai 1936.</p>
+<p>C. Jacques-Henry BORNECQUE.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>AVANT-PROPOS</p>
+<p>I. Voir ici p. 71 et suivantes.</p>
+<p><pb/></p>
+<p>Milone, a été refait de toutes pièces, après coup, dans le silence du
+cabinet. Celui qui avait été prononcé n'était qu'un petit, un médiocre
+discours, une oratiuncula, dit Quintilien, qui l'avait lu. D'ailleurs —
+et nous aurons l'occasion d'y revenir dans lu conclusion — les
+Catilinaires ne sont-elles pas, au fond, un plaidoyer, la défense de
+l'attitude prise par Cicéron, de la conduite tenue par lui ?</p>
+<p>Dans ces conditions, on risquerait de mal comprendre les Catilinaires,
+si l'on ne connaissait pas bien les acteurs et leur situation réciproque
+au moment où s'engage la lutte. Je me souviendrai cependant que l'objet
+de cet ouvrage n'est pas la Conjuration de Catilina, tant de fois
+étudiée, notamment, en France, par Mérimée et par Gaston Boissier, mais
+bien les quatre discours de Cicéron.</p>
+<p><pb/></p>
+<p>1. V. l'ouvrage, désormais classique, d'Edouard MEYER. Caesars Monarchie
+und das Principal des Pompejus.</p>
+<p>2. Jérôme CARCOPINO, Sylla ou la monarchie manquée.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LIVRE PREMIER L'EXPOSITION DU DRAME: AVANT LES Catilinaires 1.</p>
+<p>CHAPITRE PREMIER</p>
+<p>CICÉRON.</p>
+<p>Cicéron a quarante-deux ans, lorsque, candidat au consulat, il se trouve
+en présence de Catilina.</p>
+<p>I. Les traductions de Cicéron et de Salluste ont été faites par nous.
+Mais nous avons eu sous les yeux les traductions antérieurement publiées.</p>
+<p><pb/></p>
+<p>était issu, c'est-à-dire l'esprit d'épargne et de sagesse, le dédain un
+peu craintif de l'apparat, la sévérité de la vie privée, les affections
+de famille, la timidité, la prudence, le respect un peu humble pour la
+noblesse et la richesse ».</p>
+<p>D'autre part, certaines touches mériteraient</p>
+<p><pb/></p>
+<p>Convenons que cette culture même, l'habituant</p>
+<p><pb/></p>
+<p>Mais, par amour de la gloire, il désirait les honneurs, et, non sans
+raison, pour y parvenir, il comptait uniquement sur sa parole. De fait,
+il était provincial, de la petite ville d'Arpinum 1 I. C'était aussi la
+patrie de Marius.</p>
+<p><pb/></p>
+<p>2</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>On s'explique bien que, dans ces conditions,</p>
+<p><pb/></p>
+<p>dès son apparition au barreau, et surtout après son retour, il ait été
+placé d'emblée au nombre des plus grands orateurs. Tout d'abord, à
+l'imitation d'Hortensius, qui tenait alors le premier rang au barreau,
+il avait adopté le genre, dit asiatique, plein d'enflure et de
+redondance, pour la forme comme pour le fond. Pour la forme, on en
+jugera par un court passage du Pro Quinctio, le premier discours de
+Cicéron que nous ayons conservé 1 :</p>
+<p>« Alors que abattu (confectus) et abîmé (conflictus) par des difficultés
+si nombreuses et si graves, P. Quinctius est venu chercher un refuge
+dans ta bonne foi, ta sincérité, ta miséricorde, C. Aquilius, alors que
+la violence de ses adversaires ne lui avait point permis de jouir de
+droits égaux, du même pouvoir d'agir en justice, de l'équité d'un
+magistrat, alors que, par le plus grand des abus du droit, tout s'est
+montré pour lui ennemi et contraire, c'est toi, C. Aquilius, et vous,
+qui siégez dans le conseil, qu'il prie et qu'il supplie de permettre que
+l'équité, inquiétée, persécutée par de nombreux abus du droit, puisse
+enfin s'arrêter ici et y trouver une position solide ».</p>
+<p>Pour le fond, l'exemple, en quelque sorte classique, est le morceau très
+applaudi sur le supplice des parricides, dans le Pro Roscio Amerino,
+prononcé en 79 : Cicéron, trente-trois ans après, le citait dans
+l'Orator 2, pour déclarer « qu'il avait</p>
+<p>1. § 10.</p>
+<p>2. § 107.</p>
+<p><pb/></p>
+<p>I. § 72.</p>
+<p><pb/></p>
+<p>le félicitait de l'avoir inventée. Enfin sa phrase a le rythme, la
+cadence et l'harmonie.</p>
+<p>I. § 122.</p>
+<p><pb/></p>
+<p>Pour émouvoir, enfin, le pathétique. Devant ce public méridional, il
+jouait un rôle considérable. Le vieux Caton y excelle ; l'art de le
+provoquer avait fait la réputation de Galba ; Antoine lui devait sa
+clientèle. Cicéron, lui aussi, emploie souvent le pathétique, surtout
+dans les procès criminels et avec beaucoup d'habileté. M. Ramain en a
+finement distingué chez lui deux sortes : « L'un, qui lui est naturel,
+provient de sa sensibilité et de son imagination, l'une si vive et
+l'autre si forte, et d'une certaine délicatesse morale, qui fait
+qu'aisément il s'enflamme pour ce qui est bien et contre ce qui est mal.
+Puis il a un autre pathétique plus artificiel, qui est destiné à</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>le défenseur de ses adversaires est Hortensius, l'avocat des nobles.</p>
+<p>2. Mélanges Boissier, p. 365 et suiv.</p>
+<p><pb/></p>
+<p>lesquelles, en 70, il fut nommé édile curule.</p>
+<p>Il semble alors que, sans abandonner le parti démocratique (vers cette
+époque, il plaide pour le plébéien Oppius), il se rapproche plus
+particulièrement des chevaliers. Car Fonteius, propréteur de la Gaule
+Narbonnaise, accusé des mêmes crimes que Verres, et défendu par Cicéron
+en 69, paraît bien avoir été poursuivi par la vengeance du parti
+démocratique, qu'il avait abandonné quelques années avant pour se ranger
+aux côtés de Sylla. D'autre part, nous savons, par le discours même de
+Cicéron, que les chevaliers souhaitaient l'acquittement de Fonteius.</p>
+<p><pb/></p>
+<p>Manilius veut ajouter le soin de remplacer Lucullus pour diriger la
+guerre contre Mithridate et Tigrane. La motion est soutenue par de
+grands personnages du parti conservateur, comme P. Servilius Isauricus,
+très compétent au point de vue militaire, C. Curion, Cn. Lentulus, C.
+Cassius. Cicéron l'appuya et prononça le Pro lege Manilius. Lorsque
+Manilius, sorti de charge, fut accusé, Cicéron le défendit. De plus, lui
+écrit son frère Quintus au début de 64, « au cours de ces deux dernières
+années, tu t'es concilié la faveur de quatre groupes très puissants,
+auxquels appartenaient C. Fundanius, Q. Gallus, C. Cornélius et C.
+Orchivius », dont il avait assumé la défense.</p>
+<p><pb/></p>
+<p>CHAPITRE II</p>
+<p>CATILINA.</p>
+<p>L. Sergius Catilina est né vers 108 av. J.-C. ; il est donc sensiblement
+le contemporain de Cicéron.</p>
+<p><pb/></p>
+<p>chevaux tués sous lui. Il se fabriqua une main droite en fer et, étant
+parti en guerre avec cette main attachée au bras, il fit lever le siège
+de Crémone, protégea Plaisance, et força douze camps ennemis en Gaule.
+Nous avons donné tous ces détails, parce que le personnage semble avoir
+été légendaire ; sans doute, ses descendants, devenus pauvres,
+n'avaient-ils besoin que d'invoquer le souvenir de leur aïeul pour
+obtenir les magistratures, même quand leurs antécédents semblaient
+devoir les en écarter, comme ce fut le cas de Catilina 1.</p>
+<p><pb/></p>
+<p>Tous ces crimes sont-ils bien prouvés? En ce qui touche les guerres
+civiles, pas de doute pos¬</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>teurs lui dénièrent le droit de se présenter avant de s'être justifié.
+Or le jugement ne pouvait avoir lieu qu'après les comices consulaires.</p>
+<p><pb/></p>
+<p>I. Ed. MEYER, op. cit., p. 17-18.</p>
+<p><pb/></p>
+<p>il fut tué par les soldats mêmes dont il venait prendre le commandement.</p>
+<p><pb/></p>
+<p>sulaires de 64, où il allait rencontrer Cicéron.</p>
+<p>Energie physique indomptable, audace criminelle sans limites, c'est le
+thème principal des autres portraits que Cicéron nous trace de Catilina
+dans les deuxième et troisième Catilinaires. Mais, dans la deuxième au
+moins, il mentionne, en</p>
+<p>Ire Catilinaire, § 26. Nous résumons un peu ; l'on trouvera la
+traduction in extenso p. 128.</p>
+<p><pb/></p>
+<p>outre, son charme de séduction, et son peu de scrupule dans le choix des
+personnes sur lesquelles il l'exerce 1.</p>
+<p>I. 2e Catilinaire, §§ 7-9,</p>
+<p>2. Q. Cicéron dit de même : « Dans la suite, il a vécu avec les
+histrions et les gladiateurs en des termes tels, qu'ils étaient les
+complices, les uns de ses fantaisies, les autres de ses crimes».</p>
+<p><pb/></p>
+<p>Dans la troisième Catilinaire 1, il revient, plus brièvement, et
+peut-être avec plus de force, sur les mêmes traits :</p>
+<p>« Il connaissait tout, pouvait s'insinuer partout ; il savait, il osait
+aborder, sonder, circonvenir ; il avait le génie du crime, génie auquel
+ne manquait ni le bras ni la parole... Et, il faut l'avouer, quand il
+avait donné un ordre, il ne le tenait pas pour exécuté; pas de détail
+dont il ne s'occupât lui-même, qu'il ne surveillât, auquel il ne donnât
+un soin vigilant, auquel il ne mît la main ; froid, soif, faim, il
+pouvait tout supporter. Un pareil homme, si actif, si audacieux, si
+déterminé, si habile, si vigilant dans le crime, si diligent, lorsque
+tout était perdu... ».</p>
+<p>i- § 16.</p>
+<p><pb/></p>
+<p>l'emI. Caelio, §§ 12-14.</p>
+<p><pb/></p>
+<p>barras, ni l'argent, ni le crédit, ni la fatigue physique, ni même le
+crime, s'il le fallait, et l'audace, son art de modifier son caractère,
+de l'accommoder aux circonstances, de lui donner toutes les formes et
+tous les tours, de se montrer sévère avec les personnes austères, enjoué
+avec les personnes gaies, grave avec les vieillards, affable avec la
+jeunesse, audacieux avec les scélérats, dissolu avec les débauchés. Ce
+caractère aux aspects si divers et si multiples lui avait permis de
+rassembler autour de lui tout ce que l'univers renfermait d'individus
+méchants et audacieux, mais de s'attacher également beaucoup d'hommes
+courageux et vertueux, séduits par cette apparence et cette simulation
+de vertu. De fait, jamais cet homme n'aurait pu faire une tentative si
+criminelle pour renverser de force notre empire, si cet assemblage
+monstrueux de vices n'avait été soutenu comme par des racines de
+souplesse et d'endurance ».</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>cune solidarité n'avait jamais pu exister entre le chef du parti
+démocratique et un précurseur aussi compromettant : quel autre moyen
+pour y arriver que de pousser au noir le portrait du conspirateur? »
+Donc, pour cette raison encore, témoignage notoirement intéressé.</p>
+<p><pb/></p>
+<p>CHAPITRE III</p>
+<p>CICÉRON ET CATILINA EN PRÉSENCE AVANT LES Catilinaires.</p>
+<p>Quel était l'état d'esprit d'un Romain briguant le consulat? Cicéron
+lui-même s'est chargé de nous le faire connaître dans le Pro Milone 1.</p>
+<p>« Lorsqu'approchait la lutte définitive pour le plus grand des honneurs,
+le jour des comices (je connais en effet la timidité qu'on apporte à
+cette brigue, toutes les affres causées par le désir ardent du
+consulat), nous craignons tout ce qui peut nous être reproché en face et
+même tout ce qu'on peut penser sans le dire ; une rumeur, une histoire
+fausse, inventée de toutes pièces, sans consistance, nous donne un
+violent frisson ; nous sondons tous les visages et tous les yeux. Rien,
+en effet, d'inconsistant, de sensible, de fragile et de mobile comme les
+dispositions et les sentiments envers nous des citoyens, qui s'irritent
+contre la malhonnêteté des candidats, et, même lorsque leur conduite a
+été irréprochable, les rejettent. »</p>
+<p>Cicéron devait éprouver ces affres avec d'autant plus de force que sa
+sensibilité était plus grande et que la lutte s'annonçait plus rude. En</p>
+<p>1. § 42.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>De plus, l'aristocratie ne devait pas voir d'un bon oeil l'homme qui
+avait combattu les réformes de Sylla et accusé Verrès, sans compter que</p>
+<p>I. 2e Discours sur la loi agraire, § 3 et suiv.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>I. Voir p. 55.</p>
+<p><pb/></p>
+<p>répondirent ; ils insistèrent particulièrement sur le caractère «
+d'homme nouveau ». Leurs réponses furent, nous dit-on, colportées à
+Rome, mais, ajoute Asconius Pedianus, que nous n'avons pas de mal à
+croire, elles étaient si faibles qu'il vaut mieux ne pas en parler.</p>
+<p>I. §§ 3 et 4. Voir ici p. 44.</p>
+<p><pb/></p>
+<p>Mais il avait un collègue, Antoine. Cicéron le regardait comme moins
+dangereux que Catilina. Cependant, il n'avait pas entière confiance eu
+lui. Pour obtenir tout au moins sa neutralité bienveillante, voici le
+moyen qu'il employa. Normalement, en sortant de charge, les consuls
+allaient gouverner une province avec le titre de proconsul.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Bientôt après, en novembre, le bruit courut que les tribuns de la plèbe
+désignés préparaient une loi agraire. De fait, dès qu'ils furent entrés
+en charge, le 10 décembre, le tribun Servilius Rullus déposa un projet. :</p>
+<p>Quelques jours après, les nouveaux consuls prirent possession de leurs
+fonctions.</p>
+<p>B. Du Ier janvier 63 aux élections consulaires de 63.</p>
+<p>Au cours de cette même journée, il dut combattre le projet de Rullus,
+qui, dit M. Piganiol, « rappelle trop les futures lois de César pour que</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Le but du procès ne pouvait être de punir un acte commis près de
+quarante ans auparavant, surtout qu'un esclave s'en était déclaré
+l'auteur et en avait été récompensé. On voulait avertir le Sénat de ne
+pas se mêler des luttes civiles et briser entre ses mains l'arme du
+senatus consultum ultimum, par lequel les consuls étaient invités à
+veiller au salut de la République, et les chefs du mouvement
+révolutionnaire déclarés ennemis de l'Etat (hostes) et traités comme
+tels : il importait de bien mettre en lumière, pour l'avenir, que le
+Sénat n'avait pas le droit de suspendre l'application des lois
+existantes, notamment de celles qui protégeaient la liberté des citoyens
+et surtout leur vie, dont seuls disposaient les comices par centuries.
+On ressuscita l'antique procédure des duumviri, celle même qui avait été
+appliquée au jeune Horace : César et son cousin Lucius, désignés en
+cette qualité, condamnèrent Rabirius au supplice des esclaves. Rabirius
+en appela aux comices centuriates, devant lesquels Cicéron le défendit
+en un discours nerveux et très habile, mais qui ne semble pas avoir
+produit grand effet sur cette assemblée qui, peu de jours après,
+désignait César comme grand pontife 1. Heureusement le préteur Q.
+Métellus Celer, se rendant compte de la situation, fit lever la séance,
+en abaissant</p>
+<p>I. Sur l'importance de cette élection, v. Carcopino, Points de vue sur
+l'impérialisme romain, p. no sqq.</p>
+<p><pb/></p>
+<p>l'étendard blanc qui flottait sur le Janicule, et qui, originellement,
+annonçait l'approche de l'ennemi. Le procès fut ainsi terminé, mais
+l'effet cherché par César ne laissait pas d'être produit.</p>
+<p><pb/></p>
+<p>C. Les élections consulaires de 63.</p>
+<p>Cependant l'époque des élections consulaires approchait. Il y avait
+quatre candidats. Deux appartenaient au parti conservateur : D. Junius
+Silanus et Ser. Sulpicius Rufus. Le premier était</p>
+<p><pb/></p>
+<p>un honnête homme fort riche, dont le principal mérite, mais il était
+grand, était d'avoir offert au peuple des jeux somptueux durant son
+édilité. Ser. Sulpicius, ami particulier de Cicéron, était un bon
+orateur et le premier jurisconsulte de son temps.</p>
+<p>Le troisième candidat était P. Licinius Muréna, d'origine plébéienne.
+Son père avait servi avec honneur sous Sylla en Asie et triomphé de
+Mithridate. Lui-même avait été légat de Lucullus. Préteur urbain en 65,
+il avait eu l'art de se concilier des amitiés précieuses, tandis que son
+collègue Ser. Sulpicius, chargé de présider les tribunaux qui jugeaient
+les détournements de fonds publics, avait été assez maladroit pour
+froisser nombre de ses concitoyens et se rendre impopulaire.</p>
+<p>Le quatrième était Catilina.</p>
+<p><pb/></p>
+<p>faire cortège; le coupable était puni d'un exil de deux ans et ses biens
+étaient confisqués.</p>
+<p>Bientôt le bruit se répandit que Catilina avait réuni dans sa maison un
+groupe de ses partisans et qu'il leur avait adressé une harangue ainsi
+résumée par Cicéron : « Il n'y axait qu'un misé¬</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>A ces paroles, qui durent effrayer le Sénat, l'assemblée se contenta de
+murmurer, d'appeler Catilina ennemi public et parricide. « Il ne prit
+pas, nous dit Cicéron, la décision sévère que méritait une pareille
+offense. » C'est que, parmi les sénateurs, les uns, trop optimistes,
+traitaient de chimériques les appréhensions du consul; d'autres, plus
+timorés, craignaient les représailles de Cati¬</p>
+<p><pb/></p>
+<p>lina, au cas où il l'emporterait; certains, enfin, lui étaient
+sympathiques. Ajoutons qu'il n'y avait rien de spécialement
+compromettant dans les paroles de Catilina, qui avait su, comme nous
+dirions, rester sur le terrain parlementaire.</p>
+<p><pb/></p>
+<p>Muréna obtinrent-ils la majorité. Mais Servius Sulpicius attaque
+l'élection de Muréna.</p>
+<p>D. La Conjuration.</p>
+<p>De quand datent les projets de Catilina? Il est difficile de le
+préciser. Ce qui est sûr, c'est que, en 65, on n'en avait aucun soupçon.
+Cicéron le dit formellement dans le Pro Sulla. Il n'en est pas question
+davantage, au début de 64, dans la lettre de Quintus Cicéron, ni en
+juillet, dans le discours in toga candida, où Catilina est si mal
+traité. Il est d'ailleurs fort possible que celui-ci en eût conçu l'idée
+et tracé le plan dans son esprit depuis quelque temps; mais les
+préparatifs n'avaient pas dû être poussés fort loin, car il s'écoula
+plusieurs mois entre l'échec de Catilina et les premiers actes
+d'exécution. Au surplus, comme nous l'avons indiqué, il était tout
+naturel qu'il attendît, avant d'agir, les résultats de l'élection
+consulaire.</p>
+<p>En tout cas, le secret fut bien gardé, car, jusqu'au 21 octobre, Cicéron
+ne fut pas eu mesure d'apporter au Sénat un seul fait précis. Pourtant</p>
+<p><pb/></p>
+<p>I. Il était connu comme joueur effréné.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>hauts magistrats. Des chevaliers nous sont nommés : M. Fulvius Nobilior,
+C. Cornélius, deux Claudius Marcellus, surtout L. Statilius et P.
+Gabinius Capito, les plus hardis. Ajoutons des femmes intelligentes et
+cultivées, comme Sempronia, femme du Décimus Brutus qui avait été consul
+en 77, mère de ce Décimus Brutus, qui fut l'ami, puis le meurtrier de
+César, — un très grand nombre de nobles, surtout parmi les jeunes gens —
+d'autres encore dont le nom est sans intérêt.</p>
+<p><pb/></p>
+<p>Le même rôle, comme nous l'avons dit, était joué en Italie par Manlius.
+C'est lui qui recrutait, parmi les vétérans de Sylla, les cadres d'une
+armée où figuraient quelques gladiateurs, échappés de leurs écoles ; des
+pâtres de l'Apennin ; les anciens propriétaires de biens confisqués, et
+qui,</p>
+<p>I. Voir p. 33. I Voir p. 33.</p>
+<p><pb/></p>
+<p>L'effectif de cette armée? Salluste nous dit que, originellement, il ne
+dépassait pas 2.000 hommes, ormés par Manlius en deux légions, qui
+avaient ien le nombre réglementaire de cohortes, mais, ans chaque
+cohorte, un effectif variable. A mesure que les partisans de Catilina
+rejoignaient camp, on les versait dans les différentes cohortes. On
+finit par arriver ainsi au chiffre de 6.000 par légion, soit 12.000 en
+tout. Plutarque et ppius parlent de 20.000 hommes, nombre sans oute un
+peu exagéré ; il est vrai que le quart seuement de cette petite armée
+possédait des armes véritables ; les autres se battaient avec des faux
+ou des bâtons durcis au feu.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>y régner par la terreur, ne fût-ce que quelques jours, durant lesquels
+il satisferait en toute hâte ses rancunes, ses convoitises, et celles de
+ses complices.</p>
+<p><pb/></p>
+<p>sur l'appui tout court du parti modéré, qui le soutenait. La preuve en
+est que, le 22 septembre, il fut question d'un complot de Catilina, sans
+qu'on prît aucune décision.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Disons-le tout de suite, avant d'aborder</p>
+<p>I. Ire Catilinaire, § g.</p>
+<p><pb/></p>
+<p>De même, nous étudierons ces discours comme si nous avions sous les yeux
+les harangues mêmes prononcées par Cicéron. Nous ne le croyons pas, au
+moins pour la Ire et la 4e Catilinaires, ainsi que nous aurons
+l'occasion de le dire : mais les modifications apportées lors de la
+rédaction ne semblent pas considérables ; même pour la 4e Calilinaire,
+lorsqu'on a voulu prouver que le discours,</p>
+<p><pb/></p>
+<p>I. Ad Att. I. 2, 3.</p>
+<p><pb/></p>
+<p>LIVRE II</p>
+<p>LES CATILINAIRES.</p>
+<p>CHAPITRE PREMIER LA PREMIÈRE CATILINAIRE.</p>
+<p>LES CIRCONSTANCES.</p>
+<p>C'est dans le temple de Jupiter Stator que Cicéron avait convoqué le
+Sénat. Cet édifice, dont</p>
+<p><pb/></p>
+<p>I. Dans la Curie reconstruite par Dioclétien, au IIIe siècle de notre
+ère, et récemment déblayée, il y a, de part et d'autre, dans le sens de
+la longueur, trois gradins en marbre blanc, hauts de 18 cm. chacun. Le
+plus élevé se prolonge au fond de la salle et forme une sorte d'estrade.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>d'entre eux le suivraient, autre circonstance favorable, sans compter
+que le départ de Catilina vaudrait au consul de nouveaux concours.</p>
+<p><pb/></p>
+<p>C'est une altercatio répandue dans tout le discours que la Ire
+Catilinaire. Si les répliques de Catilina ont été éliminées, cependant,
+comme nous le verrons, le discours même de Cicéron permet souvent de les
+rétablir, preuve péremptoire qu'il n'y a pas de grandes différences
+entre le discours prononcé et le discours publié : peut-être Cicéron
+a-t-il appuyé sur certains points, ajouté quelques allusions aux
+inimitiés que devait lui valoir son attitude, corrigé certaines
+négligences de l'improvisation, mais, dans l'ensemble, la Ire
+Catilinaire, telle que nous la possédons, ressemble assez exactement à
+la harangue prononcée, le 8 novembre, dans le temple de Jupiter Stator 1.</p>
+<p>I. « On n'a pas démontré que Cicéron y ( = dans la</p>
+<p><pb/></p>
+<p>PREMIÈRE PARTIE DE L'ARGUMENTATION.</p>
+<p>Essai d'intimidation.</p>
+<p>Le discours est donc d'un caractère particulier; de même pour le plan.
+La rhétorique ancienne distinguait l'exorde, la proposition ou division,
+la narration, la confirmation et la réfutation, la péroraison. Ici, rien
+de semblable : pas d'exorde; deux parties qui s'adressent, l'une à
+Catilina 1, l'autre aux sénateurs 2; une très brève péroraison 3.</p>
+<p>Pour décider Catilina au départ, Cicéron, comme il l'indique lui-même 4,
+touche essentiellement trois ordres de considérations : la crainte des
+châtiments prévus par les lois, la raison, enfin la pudeur 5.</p>
+<p>Sans aucune ombre d'espèce d'exorde, il essaye d'abord, comme nous
+l'avons dit, de troubler Catilina, en lui laissant croire qu'il
+n'hésitera pas devant les mesures les plus graves ; le chef de la
+conjuration sera donc plus attentif et plus sensible aux arguments qui
+seront développés dans</p>
+<p>Ire Catilinaire) ait fondu deux discours prononcés le même jour au Sénat
+; rien ne prouve que, dans le discours conservé, Cicéron ait réuni la
+relatio faite au commencement de la séance et l'invective prononcée
+après la déclaration de Catilina» (P. Laurand).</p>
+<p>I. §§ I-27.</p>
+<p>2.§§ 27-32.</p>
+<p>3- § 33.</p>
+<p>4. §§ 22-23.</p>
+<p><pb/></p>
+<p>D'abord trois brèves interrogations, différentes de forme, relevées par
+des images vives et presI.</p>
+<p>presI. I.</p>
+<p><pb/></p>
+<p>Catilina doit se rendre compte que le secret de son complot n'existe
+plus 1.</p>
+<p>Même forme interrogative ardente et vive. Premier point : la conjuration
+est connue de tous.</p>
+<p>I. § 1.</p>
+<p><pb/></p>
+<p>1. § 2.</p>
+<p><pb/></p>
+<p>sur toi que devraient tomber de tous côtés les coups que depuis
+longtemps tu prépares contre nous. »</p>
+<p>Il vous voit, vous menace et marque ses victimes.</p>
+<p>Le ton est très varié en quelques lignes : un amer regret du passé,
+exprimé en phrases hachées et haletantes; ensuite l'indignation, à
+laquelle succède l'ironie, puis la décision. Partout des figu</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>et les incendies; nous, consuls, nous le supporterons? »</p>
+<p>Quintilien, après avoir ébauché le commentaire, disait que, si on
+voulait le poursuivre, on trouverait des développements infinis. On ne
+les rencontrera pas ici. Ce que nous voudrions montrer, dans tout le
+passage, c'est l'art discret, secret, et d'autant plus admirable.
+Cicéron ne suit pas, en effet, l'ordre systématique où nous allons
+classer sa pensée. Il cite d'abord Sp. Maelius, Tibérius Gracchus, Caïus
+Gracchus et M. Fulvius, ensuite Saturninus et Glaucia 2, ce dernier
+appelé non pas ainsi, pour ne pas réveil-</p>
+<p>1. C'est le châtiment qui menaçait Catilina. 2. §§ 3-4.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>encore terminée que C. Gracchus et Fulvius étaient tués. Un
+sénatus-consulte analogue remit le salut de l'État aux mains des consuls
+C. Marius et L. Valérius. S'écoula-t-il un seul jour ensuite, avant que
+L. Saturninus, tribun de la plèbe, et Servilius, préteur, connussent la
+mort et le châtiment ordonné par la République 1 » ?</p>
+<p>1. § 4.</p>
+<p>2- § 5.</p>
+<p><pb/></p>
+<p>Sa conduite, dit-il, s'explique par deux motifs. D'abord la crainte des
+lois qui défendaient aux magistrats non seulement de tuer, mais de
+battre de verges un citoyen romain. Quelques années auparavant, dans le
+procès de Verres, il les avait invoquées lui-même avec une éloquence
+pathétique 1 : « O doux nom de liberté! O droit éminent de nos citoyens
+! O loi Porcia et lois Sempronia !... Les choses en sont donc arrivées
+au point que, dans une province du peuple romain, dans une ville ayant
+conclu un traité avec nous, un citoyen romain, attaché, serait battu de
+verges au Forum par celui qui doit aux suffrages du peuple romain les
+faisceaux et les haches? »</p>
+<p>d'énerI. Sufliciis, § 163.</p>
+<p><pb/></p>
+<p>I. « Comme si Catilina réunissait en lui tous les vices et tous les
+crimes, était l'exemple le plus concret et le plus affreux de la
+perversité » (Jacquinet).</p>
+<p>2. § 6.</p>
+<p><pb/></p>
+<p>Les vraies raisons, pour être moins explicitement énoncées, se démêlent
+pourtant. Les consuls espéraient que Catilina comprendrait de lui-même
+la menace que faisait peser sur lui le senatus-consultum ultimum et
+voudrait s'y dérober. De plus, la répétition et le redoublement des
+expressions qui reportent dans le passé le courage d'agir contre les
+citoyens rebelles montre que Cicéron n'a pas, dans l'appui du Sénat et
+du parti des honnêtes gens, toute la confiance qu'il paraît affecter.
+Les événements antérieurs, de même que la marche de la délbération, au
+jour où l'on discuta sur le châtiment des complices de Catilina, ne
+semblent pas lui donner tort.</p>
+<p><pb/></p>
+<p>tionne pas explicitement et n'y fasse aucune allusion; d'ailleurs il ne
+le pouvait pas.</p>
+<p>D'abord une période, avec des images et des figures : « En effet,
+Catilina, est-il rien que tu</p>
+<p>I. Chapitre III.</p>
+<p>2. Voir p. 68 et suiv.</p>
+<p><pb/></p>
+<p>Et ce mot qui fait image amène le défilé, en quelque sorte, des
+événements les plus importants : soulèvement armé de Manlius, que
+Cicéron appelle avec mépris « serviteur et instrument » de l'audace de
+Catilina ; projet de massacre des conservateurs, projet d'assassinat de
+Cicéron, coup de main projeté sur Préneste. Cicéron réserve, pour y
+insister, la réunion chez Loeca, d'ailleurs la dernière dans l'ordre
+chronologique. Tout cela, Cicéron le présente avec la plus grande
+habileté, eu appuyant sur l'importance de la cons¬</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>98 LES CATILINAIRES</p>
+<p>Ici, évidemment, mouvement de Catilina.</p>
+<p>I. Chapitre IV.</p>
+<p><pb/></p>
+<p>« Tu oses nier? Pourquoi garder le silence? Je prouverai, si tu nies. Je
+vois, en effet, ici, dans le Sénat, des gens que je pourrais nommer et
+qui étaient là-bas avec toi. » On se représente assez facilement, avec
+M. Jacquinet, l'émotion de l'assemblée, le regard menaçant de Cicéron
+fixé sur les coupables, dont il a le nom sur les lèvres, la curiosité
+indignée du Sénat, la pâleur des conjurés qui essaient de faire bonne
+contenance.</p>
+<p>Après cette opposition un peu apprêtée, mais qui rend la pensée plus
+nette et plus frappante, après cette double menace, après cette exagération</p>
+<p>1. Epithète consacrée.</p>
+<p><pb/></p>
+<p>A ce moment, Cicéron « s'aperçoit que son disI.</p>
+<p>disI. p. 71-72.</p>
+<p><pb/></p>
+<p>Démasqué, passible du dernier supplice, Catilina n'a plus qu'un parti à
+prendre : aller rejoindre ses soldats et emmener avec lui le plus grand
+nombre possible de ses complices 1. C'est ce que lui dit Cicéron, avec
+un grand luxe de synonymes et en une série de petites phrases brèves,
+sans liaison extérieure, unies seulement par le mouvement oratoire, et
+qui, pour la plus grande partie, sont encore des apostrophes. «
+Puisqu'il en est ainsi, Catilina, va où tu as décidé ; sors une bonne
+fois de Rome ; grandes ouvertes sont les portes ; pars. Depuis trop
+longtemps, toi, le général en chef, tu es réclamé là-bas par ton camp de
+Manlius. Emmène avec toi tous tes complices aussi, du moins le plus
+grand nombre possible ; que la ville en soit purgée. »</p>
+<p>I. §§ 10-13.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>son indignation et sa résolution, dont il va donner les causes.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Appel au sentiment de l'honneur.</p>
+<p>Mais, dans ce passage, le mot de « conseil » amène un troisième
+développement, où Cicéron va faire appel, dans l'âme du patricien, au
+sentiment de l'honneur. Pour justifier le mot, au ton de la menace,
+employé dans la première partie, au ton d'autorité, qui domine la
+deuxième, succédé le ton de l'intérêt 2, plus offensant d'ailleurs pour
+Catilina que la plus odieuse invective.</p>
+<p>« Quel charme, en effet, Catilina, peut désormais avoir pour toi notre
+ville, où, sauf tes complices, des hommes perdus, l'on ne trouve
+personne qui</p>
+<p>I. § 20.</p>
+<p>2. §§ 13-16.</p>
+<p><pb/></p>
+<p>I. Catilina, chap. 14 et 16.</p>
+<p><pb/></p>
+<p>l'avoI. p. 30 et 31.</p>
+<p><pb/></p>
+<p>cat, il ne se faisait aucun scrupule d'y joindre une bonne accusation
+d'assassinat. C'était devenu une habitude », nous dit simplement Cicéron
+lui-même.</p>
+<p>L'orateur arrive alors aux crimes qui, dit-il avec quelque redondance
+oratoire, « touchent l'intérêt essentiel de l'État et même la vie et le
+salut de nous tous », non sans rappeler au passage « le discrédit
+personnel où Catilina est tombé par ses vices, les difficultés et les
+hontes qui pèsent sur sa vie privée ». Cicéron va suivre le même plan,
+user des mêmes procédés que dans la première partie du développement 1.</p>
+<p>« Est-il possible, Catilina, que cette lumière, que l'air de ce ciel
+puisse avoir du charme pour toi, quand tu sais que, dans cette
+assistance, il n'est personne qui ne sache que, le 31 décembre 3, sous
+le consulat de Lépidus et de Tullius, tu te trouvais</p>
+<p>I. Voir p. 107.</p>
+<p>2. Rapprochement voulu ou peut-être négligence laissée pour conserver au
+discours le caractère de l'improvisation.</p>
+<p>3. Le 31 décembre 66.</p>
+<p><pb/></p>
+<p>proI. place au nord-est du Forum ; cf. p. 149.</p>
+<p>2. Chap. 22.</p>
+<p><pb/></p>
+<p>1. Voir p, 103.</p>
+<p>2. Voir p. 36.</p>
+<p><pb/></p>
+<p>3. La forme de l'auxiliaire employée en latin montre que ce danger
+n'existe plus.</p>
+<p><pb/></p>
+<p>I. Voir § 20.</p>
+<p>2. § 17.</p>
+<p><pb/></p>
+<p>monI. p. 341,</p>
+<p><pb/></p>
+<p>tré G. Boissier, Cicéron partageait presque toutes les idées de ses
+contemporains.</p>
+<p>Et Cicéron ajoute : « Si la patrie te tenait ce langage, ne devrait-elle
+pas obtenir satisfaction,</p>
+<p>I. § 18.</p>
+<p><pb/></p>
+<p>I. Pharsale, I, 187 et suiv.</p>
+<p><pb/></p>
+<p>« Romains? Si vous observez les lois, si vous « venez en citoyens,
+n'allez pas plus loin. »</p>
+<p>C'est dire l'admiration des anciens pour le morceau ; d'ailleurs, le
+début du discours excepté, aucun passage de la Ire Catilinaire n'est
+cité plus souvent par les rhéteurs, Quintilien compris, et par les
+grammairiens. Aussi bien cette prosopopée est-elle d'une très grande
+force, pour le fond comme pour la forme.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Nous pouvons supposer que l'effet visé sur les sénateurs fut atteint.
+Pour Catilina, la suite du discours nous montre qu'il ne fut pas ému le
+moins du monde. Les paroles de Cicéron laissent deviner une interruption
+de son adversaire, tout au moins un geste annonçant l'intention de
+parler. Car il ne faut pas se tromper sur l'attitude de Catilina. Dans
+le tableau auquel nous avons fait allusion 1, Maccari l'a représenté
+comme désemparé, les yeux fixés sur le sol. Peut-être en a-t-il été
+ainsi, lors de l'attaque brusquée du début ; mais, le premier moment de
+surprise passé, il ne se laisse pas abattre, et tient tête, même fort
+habilement. Ici nous pouvons deviner la protestation ou plutôt la double
+protestation de Catilina :</p>
+<p>I. Voir p. 77.</p>
+<p><pb/></p>
+<p>I. § 19.</p>
+<p><pb/></p>
+<p>I. § 20.</p>
+<p><pb/></p>
+<p>I. § 20.</p>
+<p><pb/></p>
+<p>1. § 4 ; voir p. 92.</p>
+<p>2. § 6.</p>
+<p>3. § 6.</p>
+<p>4- § II.</p>
+<p><pb/></p>
+<p>a été violent, c'est dans l'intérêt supérieur de l'Etat 1.</p>
+<p>I• § 87. 2' § 21.</p>
+<p><pb/></p>
+<p>gratisI. des Etudes grecques, XVII 1904), p. 5 et suiv</p>
+<p><pb/></p>
+<p>Mais on voit que cette hypothèse, d'ailleurs cohérente et des plus
+séduisante, repose sur une révision des discours en 60; or, nous avons
+eu l'occasion de le dire 1, elle n'est pas démontrée.</p>
+<p>I. Voir p. 73 et suiv.</p>
+<p><pb/></p>
+<p>« entourent le Sénat et dont tu as pu voir le nombre, pénétrer les
+sentiments, entendre il y a un moment les vociférations » (soit
+lorsqu'il était arrivé au Sénat, soit par les portes ouvertes). Il
+complète ainsi de la façon la plus heureuse le tableau de Rome qui ouvre
+le discours.</p>
+<p>A ce moment, Cicéron lit — ou feint de lire — sur le visage de Catilina
+l'effet, plutôt l'absence d'effet, produit par ses paroles. Car il
+s'écrie, toujours avec quelque redondance un peu déclamatoire : « Mais
+que servent mes paroles? Un homme comme toi, est-il possible que rien le
+brise? Un homme comme toi, que tu te corriges jamais? Un</p>
+<p><pb/></p>
+<p>§ 22.</p>
+<p>2. § 23.</p>
+<p><pb/></p>
+<p>I. 3. 2. § 23.</p>
+<p><pb/></p>
+<p>Les faits laissent donc prévoir non pas un</p>
+<p>I. Voir p. 109 et suiv, a. § 24.</p>
+<p><pb/></p>
+<p>I. Voir p. 35.</p>
+<p>2. §§ 25-26.</p>
+<p><pb/></p>
+<p>Et l'orateur termine la première partie de l'argumentation en exprimant
+sa joie d'avoir empêché Catilina d'être consul, puisqu'il pourra «
+attaquer la république comme exilé (exsul), non pas la bouleverser comme
+consul (consul), et que son entreprise scélérate sera qualifiée de
+brigandage et non de guerre ». Ce nom, en effet, était réservé aux
+attaques dirigées contre l'Etat par un dictateur, son maître de la
+cavalerie, un consul, un préteur, tous magistrats participant de la
+souveraineté du peuple romain, possédant l'imperium, dont le symbole
+était les licteurs et leurs faisceaux dissimulant une hache. Tels
+étaient Marius et Sylla; tels seront César et Pompée. L'entreprise de
+Catilina, elle, doit donc être mise au même rang que la guerre des
+pirates ou le soulèvement des gladiateurs.</p>
+<p>DEUXIÈME PARTIE DE L'ARGUMENTATION.</p>
+<p><pb/></p>
+<p>faiblesse, il se le fait adresser par la Patrie, qui, dit-il, « lui est
+beaucoup plus chère que sa vie 1 », par l'Italie entière, par tout
+l'Etat. Pourquoi cette nouvelle intervention de la Patrie? Nous aurons
+l'occasion de l'expliquer après avoir donné la traduction du morceau.
+Toujours est-il que cette prosopopée 2, très nette de plan, mais trop
+voisine de la première, lui est inférieure. On a bien essayé de faire
+valoir que le discours devait être une suite de mouvements passionnels.
+Mais l'effet visé, apologie de Cicéron, paraît trop calculé d'avance. De
+plus, les artifices de rhétorique, rapprochements de mots,
+interrogations surtout, sont trop frappants, et produisent, ici encore,
+quelque impression de monotonie. Il n'est pas défendu de croire, avec M.
+Levaillant, que ce morceau a été ajouté après coup, lors de la
+rédaction, du moins qu'il a remplacé quelques indications plus brèves et
+plus simples.</p>
+<p>2. §§ 27-29.</p>
+<p>3. Toujours le mot comperi ; cf. p. 68,</p>
+<p><pb/></p>
+<p>1. « La Patrie n'est-elle pas une sorte de divinité ? » (Beauchot).</p>
+<p>2. Les grammairiens latins citent volontiers le passage commençant ici
+comme un exemple de la figure appelée exquisitio (èïsiaaoù la pensée est
+présentée sous la forme d'une série d'interrogations auxquelles des
+réponses sont fournies immédiatement</p>
+<p>3. Les lois Valéria, Porcia et Sempronia. Elles établissaient, en faveur
+des citoyens romains, des garanties contre les supplices,
+particulièrement contre la peine de mort, qui, en droit, n'était plus
+prononcée que par le peuple.</p>
+<p><pb/></p>
+<p>Le morceau, comme on voit, se termine sur un trait que l'on a rapproché
+du fameux vers de Racine :</p>
+<p>Brûlé de plus de feux que je n'en allumai.</p>
+<p>Tout au plus, pour le défendre, dira-t-on avec M. Jules Girard : «
+L'expression de Cicéron peut être exagérée, emphatique, mais elle est
+amenée par la chaleur oratoire, et, en tous cas, elle est certainement
+de moins mauvais goût que celle de Racine, parce qu'elle contient un
+simple rapprochement de mots, et non une comparaison directe. »</p>
+<p>Des deux hypothèses présentées par la Patrie,</p>
+<p>I. Voir p. 90.</p>
+<p><pb/></p>
+<p>Première raison l'empêchant d'ordonner la mort de Catilina :</p>
+<p>« Il y a dans cet ordre quelques hommes qui ne voient pas les dangers
+qui nous menacent, ou qui, les voyant, ferment les yeux ; qui, par la
+faiblesse de leurs décisions 2, ont nourri les espérances de</p>
+<p>1. § 29.</p>
+<p>2. Allusion aux séances où Cicéron n'obtint pas les mesures énergiques
+qu'il réclamait ; cf. p. 58 et 68.</p>
+<p><pb/></p>
+<p>Catilina, et qui, lorsque la conjuration ne faisait que de naître, l'ont
+fortifiée en n'y croyant pas. Forts de cette autorité, bien des gens,
+pervers, ou même malavisés, si je sévissais contre lui (ici, geste de
+Cicéron), diraient que j'agis avec cruauté, que je fais le roi. Au
+contraire, si cet homme arrive, comme il le projette, au camp de
+Manlius, il n'y aura plus, je le vois bien, de citoyen assez sot pour
+nier l'existence de la conjuration, de citoyen assez aveugle pour ne pas
+en convenir 1 ».</p>
+<p>Cicéron distingue donc, parmi les sénateurs, deux catégories : ceux qui
+ne voient pas le danger et ceux qui ne veulent pas le voir; tous seront
+éclairés par le départ de Catilina pour le camp de Manlius. D'ailleurs
+il feint de croire qu'ils sont peu nombreux ; il veut ainsi, soit
+ménager ses collègues, soit les influencer. Un mot doit appeler
+l'attention : « faire le roi » (regie agere) : on sait l'horreur
+qu'inspirait aux Romains tout ce qui rappelait la royauté. De fait, on
+accusa fréquemment Cicéron d'avoir abusé de son pouvoir consulaire 2.</p>
+<p>repriI. 30.</p>
+<p>2. Cf., p. 162 et 163.</p>
+<p><pb/></p>
+<p>Il insiste alors sur les avantages de ce départ.</p>
+<p>§§ 30 et 31.</p>
+<p>2. § 30.</p>
+<p>3. S 76.</p>
+<p><pb/></p>
+<p>I- 32.</p>
+<p><pb/></p>
+<p>PÉRORAISON.</p>
+<p>I. S 33.</p>
+<p><pb/></p>
+<p>avaient reçues de ce brigand. De même la péroraison du Discours de la
+Couronne était grave et religieuse comme l'exorde.</p>
+<p>« Toi, Jupiter, que Romulus a consacré 1 sous les mêmes auspices que
+notre ville, toi que nous appelons justement celui qui maintient notre
+ville et notre empire, tu garderas contre Catilina et ses complices ton
+temple et tous les autres, les maisons de la ville et ses murailles, la
+vie et la fortune de tous les citoyens ; et ces hommes, les adversaires
+des gens de bien, les ennemis de la patrie, ces ravageurs de l'Italie,
+unis par le lien du crime et une complicité maudite, tu les immoleras,
+vivants et morts, en des supplices sans fin ».</p>
+<p>ATTITUDE DE CATILINA</p>
+<p>Dès que Cicéron se fut assis, « Catilina, nous dit Salluste, avec sa
+dissimulation ordinaire et toujours prête, baissa les yeux, et, d'une
+voix suppliante, pria les sénateurs de ne pas ajouter foi légèrement à
+ce qu'on disait de lui : la famille dont il était issu, les principes de
+vie qu'il s'était tracés dès son adolescence lui donnaient droit de</p>
+<p>I. En réalité, le temple, voué par Romulus, ne fut élevé que beaucoup
+plus tard.</p>
+<p><pb/></p>
+<p>Aussi les paroles de Catilina furent-elles accueillies par des
+protestations générales, sincères ou feintes. On le traita de parricide
+et d'ennemi public. Pas une voix ne s'éleva en sa faveur.</p>
+<p><pb/></p>
+<p>Il sortit alors brusquement du Sénat et Cicéron n'insista pas pour le
+retenir. Catilina se rendit chez lui et réfléchit longuement, preuve,
+comme nous l'avons dit 1, que sa décision n'était pas arrêtée
+définitivement. « Voyant échouer ses tentatives contre la vie du consul
+(c'est toujours Salluste qui parle), et comprenant que les postes
+répandus dans la ville la garantissaient contre l'incendie, il crut que
+le meilleur parti était de grossir son armée, et, avant que les légions
+fussent sur les lieux, de prendre un certain nombre de mesures pour
+combattre. » Puis, apprenant qu'il était question de l'arrêter, il
+partit au milieu de la nuit, avec quelques partisans, pour se rendre au
+camp de Manlius. Plutarque dit que trois cents hommes armés
+l'accompagnaient. Des licteurs marchaient en avant avec les haches et
+les faisceaux, et il avait pris le titre de proconsul, selon Appien, de
+consul, d'après Dion Cassius.</p>
+<p>I. Voir p. 78.</p>
+<p><pb/></p>
+<p>APPRÉCIATION</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>10</p>
+<p><pb/></p>
+<p>Catilina toutes les souillures de sa vie, et le cloue, pâle de colère,
+au banc où l'ont laissé seul ses collègues indignés. Et partout le style
+se plie avec souplesse aux besoins de la pensée ou du sentiment : tour à
+tour noble, majestueux, énergique.., quelquefois périodique (Cicéron ne
+saurait parler longtemps autrement), plus souvent coupé, vif et rapide,
+partout élégant. »</p>
+<p><pb/></p>
+<p>CHAPITRE II LA DEUXIÈME CATILINAIRE.</p>
+<p>LES CIRCONSTANCES.</p>
+<p>Catilina avait quitté Rome, mais il y laissait des complices et des
+partisans.</p>
+<p>A la tête des premiers, Céthégus et Lentulus, auxquels, avant de partir,
+il avait donné comme instructions de développer par tous les moyens
+possible les ressources du parti, de hâter l'exécution de l'attentat sur
+le consul, de préparer le massacre, les incendies et les autres actes ;
+lui-même serait bientôt aux portes de la ville avec une puissante armée.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>rumeurs, imposer silence aux mauvais citoyens et rassurer les bous, en
+même temps exposer les mobiles de sa conduite et les faire approuver.
+Aussi, dès le lendemain du jour où il avait prononcé la Ire Catilinaire,
+le 9 novembre, par conséquent, réunit-il le peuple, pour lui exposer ce
+qui venait de se passer dans la curie.</p>
+<p><pb/></p>
+<p>L'EXORDE.</p>
+<p>« Cette fois enfin, Quirites, L. Catilina, que l'audace rendait fou, qui
+respirait le crime, qui tramait</p>
+<p><pb/></p>
+<p>odieusement la perte de sa patrie, qui, sans cesse, menaçait vous et
+notre ville du fer et du feu, nous l'avons chassé (ejecimus) de Rome,
+ou, si l'on veut, nous l'avons laissé partir (emisimus), ou, quand il
+partait de lui-même, nous l'avons accompagné de nos paroles 1. »</p>
+<p>Ce qui est sûr, c'est que Catilina est parti. Cicéron insiste sur le
+fait, au moyen de quatre verbes</p>
+<p>I. § i.</p>
+<p>2. § 33 ; cf. p. 126.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>I. §§ I et 2</p>
+<p>2. Voir p. 110.</p>
+<p>3- Ire Catilinaire, § 11. 4. Ibid., §§ 15 et 32.</p>
+<p><pb/></p>
+<p>PREMIÈRE PARTIE DE L'ARGUMENTATION ;</p>
+<p>JUSTIFICATION DU CONSUL. I° Pourquoi il a laissé partir Catilina.</p>
+<p>CatiI. p. 32.</p>
+<p>2. Ire Catilinaire, § 9. 3- § 2.</p>
+<p><pb/></p>
+<p>C'est, avant tout, pour que la conjuration fût plus manifeste et que
+tous vissent bien en Catilina un ennemi déclaré que l'on dût combattre à
+force ouverte. Il ne fait guère ici que reprendre, Peut-être en un
+langage plus simple, avec une ironie quelquefois un peu grosse, un
+développement de la Ire Catilinaire 1.</p>
+<p>Cicéron regrette même que Catilina n'ait pas emmené avec lui tous ses
+complices. Mais ce sont les moins dangereux dont il s'est fait
+accompagner, « un Tongilius qui portait encore la prétexte 1 quand
+Catilina s'éprit de lui, un Publicius et un Minucius, dont les dettes de
+cabaret ne pouvaient provoquer le moindre bouleversement dans la
+république ». Ceux qu'ils vont retrouver ne sont pas plus redoutables :
+« Un ramassis de vieillards jouant leur va-tout (entendez les vétérans de</p>
+<p>§§ 27-32.</p>
+<p>2- C'est-à-dire âgé de moins de dix-sept ans.</p>
+<p><pb/></p>
+<p>PicéI. entre les mains du magistrat pour garantir qu'ils se présenteront
+en justice au jour dit.</p>
+<p>2. Qui prononce des peines contre les débiteurs insolvables. § 5.</p>
+<p>4- § 6.</p>
+<p><pb/></p>
+<p>I. La Gaule Cisalpine. — Cf. Ire Catilinaire, § 9.</p>
+<p>2. Voir p. 36.</p>
+<p><pb/></p>
+<p>1. § 10.</p>
+<p>2. § 6.</p>
+<p>3. Cf. Pro Muréna, 78 ; « C'est au coeur de l'Etat, oui au</p>
+<p><pb/></p>
+<p>2° Il n'a pas envoyé Catilina en exil.</p>
+<p>coeur de l'Etat que se trouve le cheval de Troie qui, tant que je serai
+consul, ne vous écrasera pas durant votre sommeil ». I. § II.</p>
+<p>2. § 12,</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Les dernières lignes sont d'une ironie insistante et cruelle, imitée par
+Voltaire dans sa Rome sauvée :</p>
+<p>Croit-on que Manlius, cet indigne rebelle. Ce tribun des soldats,
+subalterne infidèle, De la guerre civile arborât l'étendard,</p>
+<p>Qu'il osât s'avancer vers ce sacré rempart, Qu'il eût pu fomenter ces
+ligues menaçantes, S'il n'était soutenu par des mains plus puissantes,
+Si quelque rejeton de nos derniers tyrans N'allumait en secret des feux
+plus dévorants ? Les premiers du Sénat nous trahissent peut-être ; Des
+cendres de Sylla des tyrans vont renaître.</p>
+<p>I. Pour les licteurs. 2. § 13.</p>
+<p><pb/></p>
+<p>I. §§ 14-16.</p>
+<p>2. § 30.</p>
+<p><pb/></p>
+<p>dans le Pro Sulla, contre Torquatus, adversaire de son client, qui les
+lui adressait 1.</p>
+<p>DEUXIÈME PARTIE DE L'ARGUMENTATION : IL N'Y A PAS LIEU DE S'INQUIÉTER.
+LES GROUPES DE CONJURÉS.</p>
+<p>I. § 21.</p>
+<p>I. § 20.</p>
+<p>3- § 32.</p>
+<p><pb/></p>
+<p>comme je l'ai dit, les sépare de nous. » Maintenant il s'écrie : « Comme
+je l'ai toujours souhaité, il y a un mur entre nous; je ne crains plus
+cet ennemi. » Le rapprochement permet de mesurer le chemin parcouru.</p>
+<p>I.- § 17.</p>
+<p>2. § 5. Voir ici p. 155.</p>
+<p><pb/></p>
+<p>partie de leurs biens pour dégager le reste. Dans le deuxième, il y a
+des ambitieux qui, malgré le poids de leurs dettes, veulent arriver au
+pouvoir, et, grâce aux troubles, s'emparer des honneurs qu'ils ne
+peuvent espérer dans un Etat régulier et tranquille. La troisième classe
+se compose de vétérans de Sylla, établis dans des colonies, subitement
+enrichis, mais que l'abus des dépenses a ruinés : ils se sont associés à
+de petits propriétaires ruraux qui ont perdu leur fortune. Dans la
+quatrième catégorie, Cicéron range tous les déclasses qui n'ont d'espoir
+qu'en une révolution. La cinquième est formée par les criminels, les
+assassins, les gens de sac et de corde. Enfin, pour terminer, les amis
+de coeur de Catilina, jeunesse impure, énervée, incapable de soutenir
+les fatigues de la guerre.</p>
+<p><pb/></p>
+<p>Ces différents groupes sont introduits de la même façon, pour que les
+auditeurs puissent bien s'y reconnaître : « Le premier groupe est... Le
+deuxième groupe est... Le dernier groupe est... » Mais, si l'on
+considère la façon dont Cicéron les présente, quelle infinie variété !</p>
+<p>I. § 18.</p>
+<p><pb/></p>
+<p>I. § 19.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>quelle énergique répulsion provoqueraient ceux qui seraient tentés de
+renouveler les malheurs passés. N'oublions pas que Cicéron a commencé
+par combattre la constitution et les créatures de Sylla, dont il restera
+toujours l'ennemi.</p>
+<p>Sur les malfaiteurs 2, quatre ou cinq lignes seulement, mais où l'une
+d'elles ne laisse pas de nous</p>
+<p>I. s 21. 2. § 22.</p>
+<p><pb/></p>
+<p>1. §§ 22-23.</p>
+<p><pb/></p>
+<p>1. §§ 24-25.</p>
+<p>2. C'en est l'exemple pour ainsi dire classique chez les grammairiens
+anciens.</p>
+<p><pb/></p>
+<p>« De notre côté combat la pudeur, là-bas la licence ; ici la vertu,
+là-bas la débauche ; ici la loyauté, là-bas la mauvaise foi ; ici les
+bons sentiments, là-bas le crime ; ici la fermeté raisonnée, là-bas la
+folie furieuse ; ici l'honneur, là-bas la honte ; ici la continence,
+là-bas le libertinage ; bref l'équité, la tempérance, le courage, la
+prudence, toutes les vertus luttent contre l'injustice, la sensualité,
+la lâcheté, la témérité, tous les vices ; enfin c'est l'abondance qui
+entre en conflit avec la disette, le parti sain avec celui des
+risque-tout, la saine raison avec l'absence de raison, enfin l'espérance
+forte avec l'absence absolue d'espérance. »</p>
+<p>releI. p. 70 et suiv. 2. §§ 26-27.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>I. § 27.</p>
+<p><pb/></p>
+<p>proprement dite se termine par un mot qui laisse planer sur la tête des
+conjurés la crainte d'une condamnation capitale.</p>
+<p>PÉRORAISON.</p>
+<p>I. §§ 28-29.</p>
+<p><pb/></p>
+<p>énerI. p. 224 et suiv.</p>
+<p><pb/></p>
+<p>En un mot, ce discours est peut-être moins littéraire que le premier,
+sauf dans le tableau, si profond par endroits, et tracé avec tant d'art
+et de force, où il représente sous des couleurs vives, avec des traits
+spirituels et variés, les différentes</p>
+<p><pb/></p>
+<p>catégories de conjurés. Cicéron n'y a pas mis en oeuvre tous les genres
+d'éloquence : simple, modéré et sublime. Mais, comme la 30 Calilinaire,
+la deuxième a une grande qualité : elle est pleine de vie et d'entrain.</p>
+<p><pb/></p>
+<p>CHAPITRE III ENTRE LA DEUXIÈME ET LA TROISIÈME Catilinaires.</p>
+<p>A. Avant le Pro Muréna.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>tés vers la révolution. Près de lui agissaient le sénateur C. Céthégus,
+audacieux et passionné, le gros C. Cassius, en qui l'on n'aurait jamais
+pu soupçonner un conspirateur, le chevalier Gabinius Cimber et L.
+Statilius.</p>
+<p><pb/></p>
+<p>Nous ne sommes pas mieux informés du jour où il plaida pour Muréna :
+nous savons simplement que ce fut entre la 2e et la 3e Catilinaires. Ce
+plaidoyer se rattache étroitement aux discours qui nous occupent.</p>
+<p>B. Le Pro Muréna.</p>
+<p>On se souvient 1 que Ser. Sulpicius, candidat malheureux aux élections
+consulaires, avait attaqué l'élection de Muréna. Soutenu par Caton et
+les aristocrates, il invoquait précisément la lex Tullia de ambitu 2. Il
+n'est pas difficile de deviner le but des aristocrates. Muréna, homme nouI.</p>
+<p>nouI. p. 60.</p>
+<p>2. Voir p. 56.</p>
+<p><pb/></p>
+<p>veau, leur paraissait tiède et d'une noblesse insuffisante. Ils
+voulaient deux consuls patriciens; c'est pourquoi ils attaquaient
+l'élection de Muréna et non celle de Silanus. Les deux élections
+s'étaient faites dans les mêmes conditions; mais Silanus appartenait à
+la noblesse et il était le beau-frère de Caton.</p>
+<p>Il le fit avec beaucoup d'adresse et Caton le reconnaissait, en disant,
+au sortir de l'audience, avec une nuance de dédain : « Ce consul a bien
+de l'esprit (Habemus facetum consulem). » Sur le grief principal,
+longuement traité par Horten¬</p>
+<p><pb/></p>
+<p>Caton prend donc bien son temps pour proposer une nouvelle élection.
+Aussi bien est-il, lui, un maladroit d'une autre espèce. Il est parfait,
+il est un parangon de toutes les vertus, c'est entendu, mais sa nature «
+divine » est gâtée par les leçons de la philosophie la moins
+raisonnable. Il s'est</p>
+<p><pb/></p>
+<p>jeté avidement sur le stoïcisme; il sort des écoles tout frais émoulu :
+il arrive armé de principes tranchants ; le plus grave de ces principes,
+c'est l'égalité absolue de toutes les fautes, de tous les délits; il ne
+veut pas voir qu'il y a une différence entre les peccadilles de Muréna
+et l'audace criminelle de Catilina.</p>
+<p>I. Voir p. 22.</p>
+<p><pb/></p>
+<p>De cet esprit, nous citerons deux exemples : intéressants en eux-mêmes,
+ils montrent comment Cicéron, aux prises avec les difficultés que l'on
+connaît, retrouvait, dès qu'il était au barreau, les qualités qui
+avaient fait le succès de l'avocat, et oubliait tout le reste.</p>
+<p>D'abord une partie du parallèle entre le jurisconsulte et le général :
+par l'ironie et par la verve, quelquefois un peu bouffonne, l'orateur a
+su renouveler un thème souvent traité dans les éco¬</p>
+<p><pb/></p>
+<p>les, si l'on en croit Quintilien. Par le choix des exemples, il marque
+le contraste entre l'importance d'une guerre et l'insignifiance des
+objets sur lesquels porte la chicane.</p>
+<p>Ajoutons que, peu de lignes avant le passage</p>
+<p><pb/></p>
+<p>cité plus haut, Cicéron, très habilement, avait tracé, de Servius
+Sulpicius, un portrait conçu en termes tels qu'il pouvait d'avance
+panser, en quelque sorte, les égratignures que devaient faire les traits
+de son esprit.</p>
+<p>Même procédé lorsqu'il s'attaque au second de ses adversaires, Caton. Il
+a toutes les qualités : honnêteté, sérieux, modération, élévation d'âme,
+justice; c'est un homme grand et noble. Quel dommage que tous ces
+mérites soient gâtés par une doctrine philosophique qui tient peu compte
+des réalités pratiques et des forces de la nature humaine 1 ! Avec un
+esprit très fin et très pénétrant, il nous présente, « en un désordre
+perfide » (Galletier), les thèses les plus variées du</p>
+<p><pb/></p>
+<p>stoïcisme et les conséquences que, dans le procès en cours, elles
+entraînent pour Caton.</p>
+<p><pb/></p>
+<p>t'es trompé sur un point : il prend cette réflexion pour une injure.</p>
+<p>« De cette doctrine, voici aujourd'hui les conséquences. « J'ai dit au
+Sénat que je dénoncerais tel candidat au consulat ». C'est en colère que
+tu l'as dit. « Jamais, répond-il, le sage ne se met en colère ». Tu l'as
+dit sous l'impression du moment. « Il n'y a, répond-il, qu'un malhonnête
+homme pour parler contre sa pensée ; changer d'avis est une honte ; se
+laisser fléchir, un crime; écouter la pitié une infamie».</p>
+<p>Quintilien a donc raison d'écrire : « Après avoir témoigné de la plus
+vive admiration pour le caractère de Caton, Cicéron veut sembler rejeter
+non sur lui, mais sur la doctrine stoïcienne, ce qu'il a contracté de
+trop raide sous certains rapports. On dirait qu'il s'agit entre eux, non
+pas d'une contestation judiciaire, mais d'une discussion philosophique. »</p>
+<p>C. Entre le Pro Muréna et la 3e Catilinaire.</p>
+<p>Malgré les promesses du Sénat, personne n'avait abandonné le camp de
+Catilina. Cela n'empêchait pas le consul de connaître les pro¬</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Tous ces détails, Cicéron les connaissait par ses espions, mais il ne
+voulait toujours pas agir sans preuves. Heureusement, une maladresse de
+Lentulus vint les lui fournir.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>« Cependant les Allobroges se demandèrent longtemps le parti qu'ils
+devaient prendre. D'un côté, il y avait les dettes, la satisfaction de
+leurs penchants belliqueux, les grands avantages que l'on pouvait
+espérer de la victoire ; mais, de l'autre, des ressources plus
+considérables, aucun danger, au lieu d'un espoir incertain des
+récompenses certaines. Dans cette hésitation, la bonne étoile de la
+république finit par l'emporter. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Cicéron fut rapidement informé. Il se réjouit de voir la conjuration
+ainsi dévoilée, ce qui permettrait de prendre toutes les mesures pour la
+réprimer. D'autre part, si l'on en croit Salluste, il était fort
+préoccupé : l'énormité du crime appelait une répression énergique ; mais
+le grand nom et la situation des coupables semblaient imposer</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>CHAPITRE IV</p>
+<p>LA TROISIÈME CATILINAIRE</p>
+<p>LES CIRCONSTANCES.</p>
+<p>Avant d'aborder le discours, représentons-nous bien le moment et le
+public I.</p>
+<p>Qu'est-ce que Cicéron se propose dans le discours? Comme on le verra dès
+la proposition,</p>
+<p>I. Cf. Chanoine RÉMY, L'exorde et la péroraison de la Troisième
+Catilinaire, Nova et Vetera, IV (1921), p. 129 et suiv.</p>
+<p><pb/></p>
+<p>raconter les incidents de la dernière nuit et de la journée, mais en
+insistant sur le rôle qu'il a joué, afin « de s'assurer la
+reconnaissance du peuple, dans l'intérêt de sa fortune politique et de
+sa sécurité personnelle », dit encore excellemment le chanoine Rémy.</p>
+<p>L'EXORDE.</p>
+<p>Cicéron énumère tout ce qui pouvait émouvoir le Romain. Il le fait, on
+vient de le voir, en une période légèrement solennelle et très habilement</p>
+<p>1 r.</p>
+<p><pb/></p>
+<p>I. § 2</p>
+<p><pb/></p>
+<p>« Oui, la ville entière, ses temples, ses sanctuaires, ses maisons et
+ses remparts, des torches incendiaires étaient presque sur le point d'y
+mettre le feu ; nous les avons éteintes ; de même, nous avons émoussé
+les épées dégainées contre la république, et les pointes qui menaçaient
+votre gorge, nous les avons détournées. »</p>
+<p>PROPOSITION.</p>
+<p>On trouve alors une courte proposition 2 : « Tous ces complots, c'est
+moi qui, au Sénat, les</p>
+<p>I. Fin du § 2.</p>
+<p>2. Début du § 3.</p>
+<p><pb/></p>
+<p>NARRATION. a) Avant l'interrogatoire des accusés.</p>
+<p>I. Comperta. Toujours le même mot, que nous retrouverons encore un peu
+plus loin ; voir p. 68.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>I.- § 17.</p>
+<p><pb/></p>
+<p>ardents. Mais alors les ennemis de l'orateur ne pourraient-ils lui
+objecter qu'il s'est trompé lourdement, lorsqu'il voyait dans Catilina
+le promoteur et l'âme du complot?</p>
+<p>I. Fin du J_4,J§ 5 et.6.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>biale. Cette lettre, qu'on croirait longue, avait quelques lignes, comme
+on l'a vu. Ne pas oublier, d'ailleurs, que, dans Lentulus, il y a
+lentus, « lent ».</p>
+<p>Le style prend alors beaucoup de précision et de concision.</p>
+<p>§ 7.</p>
+<p>2- S II.</p>
+<p><pb/></p>
+<p>Pères conscrits, a été nominalement le mien, réellement le vôtre. En
+effet, moi, qu'ai-je décidé, qu'ai-je fait, qu'ai-je dit, sinon d'après
+le conseil, l'autorité, l'avis de notre ordre? »</p>
+<p>D'ailleurs, pour montrer l'exactitude de la dénonciation, il ajoute
+qu'une perquisition opérée immédiatement chez Céthégus y a fait
+découvrir un arsenal abondant de poignards et d'épées.</p>
+<p>b) L'instruction au Sénat.</p>
+<p>Le récit comprend trois parties d'inégale longueur : l'instruction, la
+délibération, les décisions.</p>
+<p>I. Chap. III, § 8.</p>
+<p><pb/></p>
+<p>ajouI du chapitre IV.</p>
+<p><pb/></p>
+<p>Le récit devient alors plus dramatique, car VolI.</p>
+<p>VolI. p. 191.</p>
+<p>2. § 10.</p>
+<p><pb/></p>
+<p>« On lui lit ensuite, continue Cicéron, la lettre de même inspiration
+adressée au Sénat et au peuple</p>
+<p>I. Voir p. 179.</p>
+<p>2. §§ 10, 11 et 12.</p>
+<p><pb/></p>
+<p>des Allobroges. S'il voulait s'expliquer là-dessus, je le lui permis. Il
+nia d'abord, puis, quand toutes les dépositions eurent été lues d'après
+le procèsverbal 1, il se leva. Il demanda aux Gaulois ce qu'il avait de
+commun avec eux, pourquoi ils étaient venus chez lui. Même question à
+Volturcius. Ils lui répondirent brièvement et sans se couper qui les
+avait amenés chez lui et combien de fois, et lui demandèrent s'il ne
+leur avait point parlé des livres sibyllins. Alors, brusquement rendu
+fou par son crime, il montra toute la force de la conscience. En effet,
+pouvant nier, il avoua, contre l'attente générale. »</p>
+<p>I. On se souvient que Cicéron avait choisi des sénateurs très respectés
+pour rédiger ces procès-verbaux ; voir p. 199.</p>
+<p>2. Cf. p. 196.</p>
+<p><pb/></p>
+<p>égaré, muet, paralysé? » En outre, ici, le ton est sobre, et Cicéron ne
+s'oublie pas, mais ne s'étale pas.</p>
+<p>« Pour moi, Quirites, bien que J'aie considéré comme des preuves et des
+témoignages irrécusables du crime, les lettres, les cachets, l'écriture,
+enfin les aveux faits par chacun des coupables, bien plus irrécusables
+encore me parurent ces indices : la pâleur, les regards, la physionomie,
+le silence. Ils étaient tellement frappés de stupeur, ils fixaient
+tellement la terre, ils échangeaient tellement entre eux de furtifs
+regards, qu'ils semblaient non pas être dénoncés par d'autres, mais se
+dénoncer eux-mêmes. »</p>
+<p>Cicéron n'a pas tort d'insister sur les aveux des accusés : il a reconnu
+lui-même, d'ailleurs incidemment, qu'il n'y avait pas de preuve écrite.
+Mais, par la façon dont il a présenté les faits, ces</p>
+<p>I. § 12.</p>
+<p>2. Partie du § 13 qui termine le chapitre V.</p>
+<p><pb/></p>
+<p>c) La délibération.</p>
+<p>I. § 13.</p>
+<p><pb/></p>
+<p>2. 2e Philippique, § 14.</p>
+<p><pb/></p>
+<p>d) Les résolutions.</p>
+<p>I. §§ 14-15.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>220LES CATILINAIRES</p>
+<p>L'orateur insiste sur le petit nombre des accusés, afin de rassurer son
+auditoire, et aussi pour atténuer d'avance l'impopularité que la
+condamnation serait susceptible de provoquer, si elle portait sur plus
+de coupables; c'est, dit-il, une marque de l'indulgence du Sénat, « qui,
+dans une conjuration si étendue, parmi tant d'ennemis présents dans les
+murs de la ville, a estimé que le châtiment de neuf hommes
+particulièrement criminels suffirait, la république étant sauve, pour
+guérir la folie de tous les autres » ; en réalité, c'étaient les seuls
+contre lesquels on eût des preuves. D'ailleurs il évite avec grand soin
+de s'expliquer sur le sort réservé aux conspirateurs ; il ne se sert
+jamais que du terme vague de « châtiment ».</p>
+<p>I. § 15.</p>
+<p><pb/></p>
+<p>honneur. Cicéron a donc bien le droit d'en être fier, d'autant que,
+cette fois — hommage inouï!</p>
+<p>elles ont été décrétées pour un autre qu'un général. Et avec quels
+considérants : « Pour avoir préservé la ville de l'incendie, ses
+concitoyens du massacre, l'Italie de la guerre ». Ces considérants, il
+les commente : « Comparez ces Prières publiques avec toutes celles qui
+ont été votées ; il y a cette différence, que toutes les autres
+s'adressaient aux citoyens qui avaient bien Servi la république,
+celle-là, seule, au citoyen qui l'avait sauvée ». Il sent d'ailleurs
+qu'il a été un peu trop loin dans les éloges qu'il se décerne, et avant
+de conclure ce développement, il détourne les esprits sur la démission
+de Lentulus.</p>
+<p>I. Voir p. 37.</p>
+<p><pb/></p>
+<p>1. « Par cette espèce de litote, Cicéron veut faire entendre a son
+auditoire qu'on pouvait craindre plus qu'un combat, c'est-à-dire une
+surprise, un massacre, toutes les horreurs enfin dont on attribuait la
+pensée aux conjurés et qu'ils devaient, disait-on, exécuter, si la
+vigilance du consul n'eût déjoué leurs complots » (Jules Girard).</p>
+<p>2. Cf. § 17.</p>
+<p><pb/></p>
+<p>maiI. 3 et 4. 2. § 3.</p>
+<p><pb/></p>
+<p>Conclusion</p>
+<p>I. Voir p. 206.</p>
+<p><pb/></p>
+<p>dont l'énumération se retrouve clans l'Histoire Naturelle de Pline
+l'Ancien, au Ier siècle, et dans le Livre des Prodiges, de Julius
+Obséquens, au IVe, aussi bien que chez le Grec Dion Cassius.</p>
+<p>Ilinsiste particulièrement sur l'un d'eux, plus significatif, qu'il
+devait mentionner encore dans son de Divinatione, et qu'ici il rapporte
+en ces termes 1 :</p>
+<p>1. § 19 et suiv.</p>
+<p>2. En 65.</p>
+<p>3- En réalité, seule la statue de Jupiter fut déplacée sur sa base. De
+même une seule statue d'ancêtres fut renversée.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ils n'en sont que plus dignes encore de haine et du supplice, ces
+misérables, qui ont voulu porter une flamme funeste et criminelle, non
+seulement dans vos demeures et vos abris, mais dans les temples et les
+sanctuaires des dieux. »</p>
+<p>Il reprend alors son idée : ce sont les dieux qui ont tout conduit, lui
+n'a été que leur instrument;</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>crime patricien », et Florus, avec sa rhétorique ampoulée de lectures
+publiques, s'écriera-t-il : « Catilina lui-même était patricien, mais ce
+n'est rien : les Curius, les Porcius, les Sulla, les Céthégus, les
+Autronius, les Vargunteius et les Longinus, quelles familles! quels
+illustres noms de sénateurs! Lentulus même n'était-il pas justement
+préteur? »</p>
+<p>« C'est un sentier seulement que nous occupions auparavant en Gaule,
+Pères conscrits ; tout le reste était occupé par les nations ennemies de
+notre empire, ou infidèles, ou inconnues, ou du moins féroces, barbares
+et belliqueuses. Ces peuplades, il n'y eut jamais personne qui ne
+désirât les voir abattues et domptées. Il n'y a pas eu, depuis les
+débuts de notre empire, de sage politique qui ne pensât que la Gaule
+était particulièrement redoutable pour notre empire, mais la</p>
+<p>I. § 33.</p>
+<p><pb/></p>
+<p>force et le nombre de ces nations ne nous avaient pas permis de les
+combattre toutes ; nous résistions aux attaques continuelles.
+Aujourd'hui enfin les limites de notre empire coïncident avec celles de
+ces terres. »</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>PÉRORAISON.</p>
+<p>Il prouve d'abord le deuxième point, en énumérant, dans une page
+saisissante, toutes les</p>
+<p>3. Cf. Chanoine Rémy, article cité.</p>
+<p><pb/></p>
+<p>2. Même expression dans le passage où Lucain flétrit les massacres de
+Sylla.</p>
+<p><pb/></p>
+<p>rang, non pas brûler notre ville, mais, dans notre ville, jouir du
+pouvoir ».</p>
+<p>Cette comparaison entre une guerre civile et les guerres civiles
+antérieures, Cicéron en était évidemment satisfait, car, vingt ans
+après, il la reprenait dans la 3e Philippique 1.</p>
+<p>I. Chapitre II.</p>
+<p><pb/></p>
+<p>2. § 25.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>« Pour de tels services, je ne réclame de vous, Quirites, aucune des
+récompenses dues au mérite, aucune marque d'honneur, aucun monument de
+gloire, mais simplement que le souvenir de ce jour demeure en vous
+éternellement. C'est au fond de vos coeurs que moi je veux trouver tous
+mes triomphes, toutes les distinctions honorifiques, tous les monuments
+de ma gloire, toutes les marques de ma renommée. Aucun témoignage muet,
+aucun témoignage silencieux ne peut me plaire, aucun témoignage enfin
+que puissent obtenir même des hommes qui le méritent moins. »</p>
+<p><pb/></p>
+<p>la reconnaissance du peuple romain » (Chanoine Rémy). On sait d'ailleurs
+que, en d'autres endroits, notamment dans le Pro Archia 1, Cicéron a
+célébré en termes magnifiques cet amour de la gloire et ce désir de
+l'immortalité qui sont le mobile de toute sa conduite.</p>
+<p>« C'est votre mémoire, Quirites, qui perpétuera mes services, qui les
+amplifiera dans les conversa-</p>
+<p>1. §§ 28 et 29.</p>
+<p>2. § 26.</p>
+<p><pb/></p>
+<p>tions, qui leur assurera, dans les monuments littéraires, leur durée et
+leur valeur, et je comprends qu'une même période, que j'espère
+éternelle, a été fixée pour le salut de la ville et le souvenir de mon
+consulat, et qu'en un même temps, dans cet Etat, se sont rencontrés deux
+hommes, l'un pour porter les limites de notre empire jusqu'aux confins
+non de la terre, mais du ciel, l'autre pour sauver le siège et la
+capitale de cet empire. »</p>
+<p>I. Voir p. 302.</p>
+<p><pb/></p>
+<p>Mais il craint d'avoir été trop loin, de paraître insister sur ce
+sentiment de sécurité personnelle, de sembler ne pas avoir confiance au
+peuple, de donner l'idée que son oeuvre de répression a été
+insuffisante, et il continue 2 en un langage cette fois vraiment noble
+et digne, au pathétique discret, touchant et mélancolique, où l'on
+retrouve encore, par endroits, l'ébauche du langage qu'il tiendra au
+début de la 4e Catilinaire :</p>
+<p>1. § 22.</p>
+<p>2. § 27 et suiv.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Tel est ce discours, net dans son plan, aussi vivant que la 2e
+Catilinaire; s'adressant au peuple, il est fait pour lui plaire, fond et
+forme, nous croyons l'avoir montré. Il contient d'abord le récit</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>CHAPITRE V</p>
+<p>ENTRE LA TROISIÈME ET LA QUATRIÈME Catilinaires.</p>
+<p>A. La nuit du 3 au 4 décembre.</p>
+<p>I. Voir p. 176.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>B. La journée du 4 décembre.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Au surplus, l'atmosphère était lourde de délations. Au commencement de
+la séance, nombre de sénateurs, ceux, en particulier, qui étaient
+suspects par leurs relations avec les conjurés, étaient venus apporter
+au consul les renseignements qu'ils s'étaient, disaient-ils, efforcé de
+recueillir. Selon Plutarque, Pison et le consul désigné Silanus
+exposèrent qu'ils avaient appris d'un homme, qui disait le tenir de
+Céthégus, que les conjurés avaient projeté d'assassiner Cicéron. les
+deux consuls désignés et quatre des préteurs.</p>
+<p>Il convoqua donc l'assemblée pour le 5. Il avait choisi le Temple de la
+Concorde pour les mêmes</p>
+<p><pb/></p>
+<p>C. La séance du 5 décembre avant la 4e Catilinaire.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>« Je voyais depuis longtemps une folie furieuse qui s'agitait au coeur
+de la république, et des maux encore inconnus qui provoquaient le
+désordre et l'agitation ; mais qu'une conjuration aussi vaste, aussi
+redoutable que la conjuration présente pût naître parmi les citoyens, je
+ne l'ai jamais pensé. Maintenant, en tout état de cause, de quelque côté
+que penchent vos pensées et vos avis, il faut vous prononcer avant la
+nuit. Quelle est la gravité du crime qu'on vous dénonce, vous le voyez.
+Si vous pensez qu'il compte peu de complices, vous vous trompez
+étrangement. Le mal est plus étendu qu'on ne croit. Il a envahi
+l'Italie, il a même franchi les Alpes, et, se glissant sourdement, il
+s'est emparé de beaucoup de provinces. L'étouffer par des atermoiements
+ou des délais, impossible. Quelle que soit la punition que vous
+choisirez, il faut l'appliquer sans délai. »</p>
+<p>1. § 6.</p>
+<p>2. Morte multatidos esse (Cicéron), supplicium sumendum Salluste), rijv
+i-r/xxr^ Sixr,v (Plutarque et Appien).</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Ce discours nous a été transmis par Salluste. Suivant l'usage des
+historiens anciens, qui voulaient éviter les disparates de ton, il a
+conservé les principales idées, mais le plan et le style sont de lui. En
+d'autres termes, le discours que nous lisons dans Salluste n'est
+certainement pas authentique, mais il est probablement très voisin de
+celui qui a été prononcé, et, dans tous les cas, très conforme au
+caractère de César. On y remarquera l'habileté en général, surtout l'art
+avec lequel il plaide pour les conjurés, « tout en se donnant l'air de
+les désarmer et même de condamner leur entreprise, — son dédain ironique
+pour les grandes phrases et les habiletés déclamatoires, — le caractère
+positif et utilitaire de son argumentation (ceci se retrouve dans les
+discours que César a transcrits dans ses Commentaires), — enfin la
+hardiesse tranquille avec laquelle il énonce ses opinions sceptiques et
+épicuriennes sur la vie future » (Pichon).</p>
+<p><pb/></p>
+<p>Si coupables que soient les conjurés, le Sénat doit les juger sans haine
+et sans colère.</p>
+<p><pb/></p>
+<p>Ce n'est d'ailleurs pas, ajoute-t-il, le cas de la peine de mort,
+proposée par Silanus, peine qui n'est plus dans les moeurs des Romains,
+et qui d'ailleurs n'est pas légale.</p>
+<p>I. Il y a en latin une allitération: fama, fortuna, qu'il m'a semblé
+impossible de rendre sans fausser le sens.</p>
+<p><pb/></p>
+<p>I. Plaire au parti conservateur.</p>
+<p>2. Catilina avait été son concurrent aux dernières élections.</p>
+<p><pb/></p>
+<p>ai-I. senatus consultum ultimum.</p>
+<p><pb/></p>
+<p>Il termine, en indiquant très brièvement la Peine qu'il propose
+d'appliquer.</p>
+<p>Le discours de César était très habile. L'orateur condamne, lui aussi,
+les projets de massacre et d'incendie. Il demande, lui aussi, pour les pré¬</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>CHAPITRE VI LA QUATRIÈME CATILINAIRE 1.</p>
+<p>LES CIRCONSTANCES.</p>
+<p>Pour bien la comprendre, il faut tenir compte de la situation de Cicéron
+et essayer de pénétrer ses sentiments.</p>
+<p>courageuseI. M. Antoine, Une séance mémorable du sénat romain. Mémoires
+de l'Académie des Sciences, Inscriptions et Belles-Lettres de Toulouse,
+IX (1887), p. 208 et suiv.</p>
+<p><pb/></p>
+<p>ment, mais se représentait les dangers qui, plus tard, l'engouement de
+la plèbe calmé, pouvaient l'assaillir.</p>
+<p>Ces deux ordres de raisons expliquent les hésitations apparentes et le
+ton du discours, où il ne dit pas que l'opinion de Silanus est la
+sienne, où il n'insiste pas sur les difficultés d'exécution que pourrait
+présenter celle de César. Selon le mot de M. Mespoulet, « c'est le
+discours-type d'un président du Sénat » ; on y retrouve même (et le cas
+est unique) les formules parlementaires.</p>
+<p>Comme dans les deux discours précédents, le plan est très simple. Entre
+l'exorde et une brève péroraison, deux parties, où il examine le choix
+de la peine et l'exécution de l'arrêt.</p>
+<p>L'EXORDE.</p>
+<p>Le début du discours est parfaitement naturel : il est tiré de la
+situation en général, et, plus particulièrement, de la manifestation
+dont le consul vient d'être l'objet 1.</p>
+<p>1. § 1.</p>
+<p><pb/></p>
+<p>I. § I.</p>
+<p><pb/></p>
+<p>« Oui, Pères conscrits, je suis le consul auquel ni le Forum, le centre
+de toute équité, ni le Champ-de-Mars, consacré par les auspices
+consulaires, ni la Curie, refuge suprême de toutes les nations, ni le
+foyer domestique, abri de tous, ni le lit, destiné au repos, ni enfin ce
+siège d'honneur n'ont jamais cessé de présenter des périls et des
+guets-apens. Oui, j'ai su beaucoup me taire, beaucoup et longtemps
+supporter, beaucoup sacrifier, beaucoup guérir, au prix de ma seule
+douleur, des craintes que vous éprouviez. »</p>
+<p>1. § 2.</p>
+<p>2. § 1.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>I. § 2.</p>
+<p>2. Voir p. 211.</p>
+<p><pb/></p>
+<p>I. g 12, ici p. 285,</p>
+<p>2. Voir p. 211.</p>
+<p><pb/></p>
+<p>D'ailleurs, il se reprend et il ajoute 1 : « Tout</p>
+<p>v § 3.</p>
+<p><pb/></p>
+<p>LA PROPOSITION.</p>
+<p>Dans cette proposition, trois parties. Cicéron rappelle d'abord
+brièvement les faits et leur gravité, non sans noter au passage que les
+juges doivent être implacables et que la culpabilité des détenus est
+indubitable 1.</p>
+<p>I. § 4.</p>
+<p><pb/></p>
+<p>LA QUATRIÈME CATILINAIRE 271</p>
+<p>séduire les Allobroges, soulever les esclaves, appeler Catilina ; en un
+mot, le projet formé, c'est de vous tuer tous, pour qu'il ne reste
+personne même pour pleurer sur le nom du peuple romain et pour se
+lamenter sur les malheurs d'un si grand empire ».</p>
+<p>Tableau hyperbolique, mais exact en gros.</p>
+<p>I. § 5</p>
+<p>2. Voir p. 220 et 221.</p>
+<p><pb/></p>
+<p>Troisième point (et c'est ici que se place la partie dont nous croyons,
+avec G. Boissier, qu'elle représente le court exposé 2 fait par Cicéron
+au début de la séance) : s'il faut punir, il faut surtout punir vite; il
+faut prendre une décision avant la nuit. En effet, nous savons par
+AuluGelle, citant Varron, qu'un sénatus-consulte n'avait pas de valeur
+s'il était rendu avant le lever ou après le coucher du soleil. D'autre
+part, évidemment, le consul craint que les amis des détenus ne profitent
+de la nuit pour les délivrer.</p>
+<p>LE CHOIX DE LA PEINE.</p>
+<p>Mais quelle punition leur infliger ? Ici commence la première partie de
+l'argumentation.</p>
+<p>Cicéron rappelle les deux avis en présence 3 : « l'un de D. Silanus : il
+vote pour la mort de ceux qui ont essayé de détruire tout ceci ; l'autre
+de César, qui écarte la peine de mort, mais qui comprend toutes les
+rigueurs de tous les autres supplices ». Ou notera que Cicéron, comme
+nous l'avons indiqué 4, interprète l'avis de Silanus comme signifiant la
+mort ; en outre, dans la</p>
+<p>I. § 5.</p>
+<p>2. § 6.</p>
+<p>3. § 7.</p>
+<p>4. Voir p. 252, n° 2.</p>
+<p><pb/></p>
+<p>Puis il examine les deux opinions, avec un tact, une mesure et une
+finesse vraiment merveilleuses 1</p>
+<p>I. §§ 7-10.</p>
+<p><pb/></p>
+<p>Ensuite le consul résume, sans commentaires, en quelques lignes, l'avis
+de Silanus; mais il le fait avec adresse, par une accumulation de
+termes, tous de plus en plus forts, et qui sont autant d'arguments. Il
+prévoit même l'objection tirée du droit et essaye d'y répondre, en
+rappelant qu'il existe des précédents. Cicéron défend ainsi le</p>
+<p>I. Ad Att. XII, 21, I.</p>
+<p><pb/></p>
+<p>consul désigné contre le reproche que lui fait César de proposer un
+châtiment nouveau.</p>
+<p>« Pour le second, la mort n'a pas été établie par les dieux immortels
+comme un châtiment, mais comme une nécessité de nature ou un repos après
+nos travaux et nos misères. Aussi les sages l'ont-ils affrontée toujours
+sans regrets, et les gens courageux même quelquefois volontiers. C'est
+en vérité la prison et la prison perpétuelle qui incontestable, ment a
+été imaginée comme le châtiment exemplaire d'un forfait abominable.
+C'est entre les municipes qu'il veut voir répartir les condamnés. La
+mesure que tu préconises me semble comporter</p>
+<p><pb/></p>
+<p>parI. : des supplices éternels, comme l'emprisonnement proposé par César.</p>
+<p>2. Voir p. 254 et suiv.</p>
+<p><pb/></p>
+<p>Il indique d'abord certaines difficultés d'appli-</p>
+<p>1. Salluste, Catilina, 52, 13.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>« Nous avons donc de César, comme le demandait sa situation et l'éclat
+de ses aïeux, un avis qui est comme le gage de son éternel dévouement à
+la république. Il nous a montré la différence entre la légèreté des
+harangueurs de réunion publique et un esprit véritablement populaire,
+dévoué au salut du peuple. Je vois que, parmi ceux qui veulent passer
+pour appartenir au parti populaire, plus d'un est absent, pour éviter
+vraisemblablement de voter, lorsqu'il s'agit de la tête de citoyens
+romains. Les mêmes hommes, avant-hier, ordonnaient l'arrestation de
+citoyens romains, décrétaient en mon honneur des prières publiques, et,
+hier, attribuaient aux dénonciateurs des récompenses considérables.
+Personne ne doute, lorsqu'un homme a voté l'emprisonnement de l'accusé,
+des actions de grâce au magistrat enquêteur, une récompense au
+dénonciateur, de ce qu'il pense sur l'ensemble des faits et sur la cause ».</p>
+<p><pb/></p>
+<p>ces centuriates le droit de disposer de la vie des citoyens.</p>
+<p><pb/></p>
+<p>Enfin la conclusion de cette partie :</p>
+<p>« Dans ces conditions, si vous prenez la décision dont j'ai parlé en
+second lieu, je me présenterai devant le peuple en compagnie d'un homme
+qui lui est cher et agréable. Si vous préférez adopter l'avis de
+Silanus, il me sera facile de nous laver, vous et moi, devant le peuple
+romain, du reproche de cruauté, et je prouverai que ce parti est de
+beaucoup le plus indulgent. »</p>
+<p><pb/></p>
+<p>Cicéron, on le remarquera, semble insinuer qu'il consultera le peuple. «
+Cependant il est plus que vraisemblable que telle ne fut jamais son
+intention. Il voulait obtenir un sénatus-consulte, et, d'avance, il
+avait assumé sur lui seul la responsabilité de son exécution. Maintenant
+il s'agissait-de tromper ses adversaires en leur persuadant que le
+jugement du Sénat n'était pas définitif, et, par conséquent, de les
+empêcher d'élever une question préjudicielle de la plus haute gravité, à
+savoir Si le Sénat avait le droit de juger en dernier ressort dans un
+cas de perduellio » (Mérimée).</p>
+<p>Mais, dira-t-on, il n'en reste pas moins que Cicéron n'a pas donné son
+avis. Directement, non, et sa situation de président de l'assemblée le
+lui interdisait ; indirectement, oui, d'abord en renforçant
+l'argumentation de Silanus et en réfutant celle de César, puis en
+terminant sur l'avis de Silanus.</p>
+<p>Mais il va revenir au discours de César, en expliquant, au moyen d'une
+figure de rhétorique bien connue, pourquoi il lui sera facile de
+justifier aux yeux du peuple les mesures prises et de laver lui et le
+Sénat du reproche de cruauté 1. « Pour un crime aussi affreux, peut-on
+vraiment parler de cruauté ? » César avait dit : « Je pense, Pères
+conscrits, que tous les supplices sont au-dessous des crimes des accusés
+», et, plus loin : « L'avis.</p>
+<p>I. § II.</p>
+<p><pb/></p>
+<p>de Silanus me paraît, non pas cruel (peut-on parler de cruauté lorsqu'il
+s'agit de tels hommes...) ? »</p>
+<p>Sous la forme d'une hypotypose, Cicéron trace alors un tableau frappant,
+et, sauf un ou deux traits qui ne sont pas du goût le plus parfait,
+justement admiré, de toutes les horreurs dont Rome était menacée par
+Lentulus, Céthégus, Gabinius et leurs complices, qui voulaient
+transformer la république en je ne sais quel despotisme oriental, avec
+des rois et des courtisans.</p>
+<p><pb/></p>
+<p>I. Voir p. 211.</p>
+<p>2 Il ne faut pas entendre la pourpre qui distingue les vêtements des
+magistrats romains, mais celle dont se paraient les ministres et les
+courtisans des rois asiatiques,</p>
+<p>3- Cf. p. 154.</p>
+<p><pb/></p>
+<p>286 LES CATILINAIRES</p>
+<p>et l'incendie ; en un mot, les armes, les cadavres, le sang et le deuil
+partout. »</p>
+<p>« Ici, dit avec raison M. Jacquinet, l'éloquence de Cicéron prend une
+âpreté, une violence, auxquelles s'est rarement laissé entraîner cet
+esprit si large et si véritablement humain ».</p>
+<p>« Je vous le demande, si un père de famille, trouvant qu'un esclave a
+assassiné ses enfants, tué sa femme, brûlé sa maison, ne condamnait pas
+ses esclaves 1 au supplice le plus rigoureux, vous semblerait-il clément
+et miséricordieux, ou bien très humain et très cruel ? Moi, dans tous
+les cas, je le trouverais inaccessible aux sentiments humains, un coeur
+de pierre, celui qui, par la douleur et les tourments du coupable,
+n'adoucirait pas sa propre douI.</p>
+<p><pb/></p>
+<p>On peut trouver quelque cruauté dans cette conception ancienne du
+châtiment, considéré comme une vengeance, ou dans l'exécution en masse
+des esclaves, pratiquée encore sous Néron, bien qu'elle ait alors
+soulevé de vives protestations. On ne peut nier que Cicéron en ait tiré
+un heureux parti. De même pour les exemples qui suiVent, tout indignes
+qu'ils soient de la noblesse d'âme de l'orateur.</p>
+<p>Il s'appuie, en effet, sur les paroles du consulaire L. Julius César
+Strabo, rapportées plus haut 2, et sur la conduite tenue par l'aïeul de
+Lentulus, consul en 162, princeps senatus l'année où fut tué C. Gracchus
+: il soutint l'action du consul Opimius, et fut blessé dans le combat.
+Or Gracchus voulait-il détruire la république ? NulleI.</p>
+<p>NulleI. 12.</p>
+<p>2. Voir p. 217.</p>
+<p><pb/></p>
+<p>L'EXÉCUTION DE L'ARRÊT.</p>
+<p>A ce moment, des sénateurs interrompent Cicéron pour lui demander s'il
+pourra faire exécuter la sentence, ou bien Cicéron feint d'être
+interrompu : on se souvient, en effet, que César raillait l'exagération
+de précautions prises par le consul.</p>
+<p>I. § 13.</p>
+<p><pb/></p>
+<p>Toujours est-il qu'elle est très habilement présentée par Cicéron et
+aussitôt réfutée par lui avec la même adresse. L'expression qu'il
+emploie (« faire exécuter ce que vous avez décidé ») n'indique pas ses
+préférences personnelles. Il rappelle que la solution doit intervenir le
+jour même. Par</p>
+<p>I. § 14.</p>
+<p>2. Voir p. 314.</p>
+<p>3. Voir p. 286.</p>
+<p><pb/></p>
+<p>Avec la redondance verbale qui caractérise ce passage, il insiste sur la
+bonne volonté indiscutable de tous les citoyens 2.</p>
+<p>Ayant ainsi rappelé contre qui se fait cette union, après avoir noté non
+seulement le nombre</p>
+<p>I. § 19.</p>
+<p>2. § 14.</p>
+<p><pb/></p>
+<p>parlerons plus loin : ces derniers représentaient l'élé</p>
+<p>2. 15.</p>
+<p><pb/></p>
+<p>Voici en quels termes Cicéron parle des chevaliers 1 :</p>
+<p>I. § 15.</p>
+<p><pb/></p>
+<p>1. § 16.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>cause où les citoyens seuls sont intéressés. Ils ne forment donc que des
+voeux, et ils n'osent les former qu'en se souvenant de leur condition («
+autant il l'ose ») ; ils savent qu'ils ne peuvent rien par eux-mêmes («
+autant qu'il le peut ») (Burnouf).</p>
+<p>I. Voir p. 150.</p>
+<p>2. § 17.</p>
+<p>3. Sella, d'où le nom de sellutarii, qu'on leur donnait.</p>
+<p><pb/></p>
+<p>I. § 18.</p>
+<p><pb/></p>
+<p>et cela moins pour vivre lui-même que pour assurer votre salut. Tous les
+ordres, pour sauver la république, n'ont qu'une âme, une volonté, une
+voix. »</p>
+<p>ne manifestent encore leurs voeux que par leurs voix et leurs
+protestations unanimes » (Jules Girard).</p>
+<p>I. § 18.</p>
+<p>2. Allusion aux projets d'incendie et de massacre.</p>
+<p><pb/></p>
+<p>I. Les deux sommets du mont Capitolin.</p>
+<p>2. Les Pénates de la ville et du peuple romain, adorés dans le temple de
+Vesta.</p>
+<p>3. Sur la redondance de l'expression, voir p. 203.</p>
+<p>4. § 19.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Romains, j'aime la gloire et neveux point m'en taire, Des travaux des
+humains c'est le digne salaire, Sénat, en vous servant, il la faut
+acheter ; Qui n'ose la vouloir, n'ose la mériter.</p>
+<p>pouI. 20.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>il a voulu donner indirectement une leçon de courage, de vigueur et de
+dignité.</p>
+<p>Au premier abord, on sera surpris de trouver ici Marius, dont Cicéron ne
+partageait pas les opinions politiques. Mais c'était son compatriote, un
+peu son parent : il n'a jamais négligé une</p>
+<p>I. § 21.</p>
+<p><pb/></p>
+<p>terI. p. 233, n, 1.</p>
+<p><pb/></p>
+<p>I. Fam. V, 7,</p>
+<p><pb/></p>
+<p>C'est plus tard seulement que la paix se rétablit entre Cicéron et
+Pompée, au moins en apparence.</p>
+<p>I. § 27.</p>
+<p>2. § 22.</p>
+<p><pb/></p>
+<p>pourrai facilement défendre contre ces hommes moi et les miens. Et
+assurément l'on ne trouvera pas Je force assez grande pour rompre et
+renverser votre alliance avec les chevaliers romains, ni un pareil
+accord entre tous les gens de bien. » Est-il besoin d'insister sur le
+retour des mêmes thèmes : dangers que courra le consul, services rendus
+par lui, puissance invincible des sénateurs et des chevaliers unis? On
+remarquera seulement que, cette fois, la conspiration est encore grossie
+: elle n'intéresse plus seulement Rome et l'Italie, mais le monde
+entier, qui ne cessera d'y penser ni d'en parler.</p>
+<p>PÉRORAISON.</p>
+<p>I. § 23.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p><pb/></p>
+<p>I. § 24-</p>
+<p><pb/></p>
+<p>vraisemblable qu'il songe aux séances de la veille et de l'avant-veille.</p>
+<p><pb/></p>
+<p>LA QUATRIÈME CATILINAIRE 311</p>
+<p>Aussi bien, comme on va le voir, ne produisit-elle aucun effet, du moins
+immédiatement.</p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>LIVRE III</p>
+<p>CONCLUSION,</p>
+<p>CHAPITRE I</p>
+<p>LE DÉNOUEMENT.</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>Lorsque Caton se fut assis, nous dit Salluste, tous les consulaires, et,
+avec eux, une grande par¬</p>
+<p><pb/></p>
+<p>316 LES CATILINAIRES</p>
+<p><pb/></p>
+<p>Un mois après environ, au début de 62, Cati¬</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>CHAPITRE II</p>
+<p>JUGEMENT SUR LES Catilinaires</p>
+<p>La réputation des Catilinaires a beaucoup varié a travers les âges.
+Quintilien les cite souvent avec admiration. Tacite, dans son Dialogue
+des Orateurs, les place au nombre des discours qui mettent Cicéron au
+premier rang. Les grammairiens et les rhéteurs y font souvent des
+allusions, en tirent souvent des exemples. Les manuscrits en sont très
+nombreux au moyen-âge, preuve qu'on les lisait beaucoup.</p>
+<p>monEssais, II, chap. 10.</p>
+<p><pb/></p>
+<p>Romains, j'aime la gloire et ne veux point m'en</p>
+<p>taire,</p>
+<p>Pendant la Révolution, on a beaucoup parlé de</p>
+<p><pb/></p>
+<p>littéraire. Aussi, dans les différents pays civilisés, les Catilinaires
+ont-elles fait l'objet de nombreuses éditions annotées : nous avons,
+dans la Bibliographie, cité les plus intéressantes.</p>
+<p>Les critiques et les historiens sont divisés. Nous laisserons de côté
+les adversaires systématiques de Cicéron, les Mommsen et les Drumann. Il
+est également certain que la comparaison des Catilinaires avec les
+Philippiques de Démosthène, par</p>
+<p><pb/></p>
+<p>Examinées en elles-mêmes, les Catilinaires soulèvent différentes critiques.</p>
+<p>1. Flumen orationis. L'expression est de Cicéron lui-même.</p>
+<p>2, Ad Att. I, I, 14.</p>
+<p><pb/></p>
+<p>Pour le fond, suivant certains auteurs, Cicéron, dans le même discours,
+« a enfoncé des portes ouvertes ». Nous croyons avoir montré 2 que cette
+façon de voir est inexacte. D'autres, plus justement, lui reprochent
+d'être, sous plusieurs rapports, demeuré trop avocat. D'abord il ne
+s'attaque pas franchement aux grandes questions.</p>
+<p>I. Il était alors en Epire. 2. Voir p. 78 et suïv.</p>
+<p><pb/></p>
+<p>I. P. 298.</p>
+<p><pb/></p>
+<p>Verres avait-il mis sa parole au service de Fonteius, accusé des mêmes
+crimes. C'était confirmer la théorie qu'il exprimait un jour en disant :
+« Tous nos discours sont le langage de la cause, et non celui de
+l'homme; car, si la cause pouvait parler elle-même, on n'emprunterait
+pas le secours de la voix ».</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>I. Voir p. 315.</p>
+<p><pb/></p>
+<p>soit, mais un avocat de génie, qui voit les arguments utiles, et, le cas
+échéant, sait en racheter la faiblesse par l'habileté du développement,
+la force du pathétique, la vigueur ou la finesse des portraits, la
+clarté, le mouvement ou l'esprit des narrations, surtout par la variété
+du ton, la souplesse ou l'harmonie de la phrase. En d'autres termes,
+c'est un orateur qui emploie des moyens d'avocat.</p>
+<p><pb/></p>
+<p>CHAPITRE III</p>
+<p>CICÉRON APRÈS LES Catilinaires.</p>
+<p>L'attitude prise par Cicéron dans la conjuration de Catilina eut sa
+répercussion sur tout le reste de sa vie.</p>
+<p><pb/></p>
+<p>qualité même de cette fortune, étais très heureux en dignité, en
+puissance, en estime, en popularité, j'étais aussi grand que ceux qui
+furent jamais les plus grands ».</p>
+<p>I. Voir p. 292.</p>
+<p><pb/></p>
+<p>des Mystères de la Bonne Déesse. Il se voyait abandonné par Pompée,
+qu'il avait cru adroit, avec le Sénat tout entier, d'humilier, aussitôt
+que l'imperator avait eu licencié son armée.</p>
+<p><pb/></p>
+<p>I. Salonique et Durazzo.</p>
+<p><pb/></p>
+<p>appui du côté du Sénat et des hommes d'ordre, et se montra favorable au
+retour de Cicéron. A la tête de son armée d'esclaves et de gladiateurs,
+Clodius trouva le moyen d'empêcher durant plusieurs mois le vote de
+cette mesure, contre le sentiment intime des Romains de tous ordres, qui
+saisissaient chaque occasion de faire connaître leur opinion 1.</p>
+<p>s'emI. Pro Sestio, notamment chapitres LV et suiv.</p>
+<p><pb/></p>
+<p>pêcher de les critiquer, de les railler, d'attaquer leurs partisans,
+Vatinius et Pison, par exemple. Cette attitude diminuait son autorité,
+surtout auprès du peuple, devant lequel il n'osait plus se présenter.</p>
+<p>Les déceptions d'homme d'Etat le rejetaient vers les lettres et le
+barreau. En 55, il publie le de Oratore, où il expose ses idées sur
+l'art oratoire : rien ne supplée au talent, mais il faut le développer
+par une vaste culture qui embrasse les sciences, le droit et surtout la
+philosophie; on ne saurait non plus se dispenser d'étudier de près les
+modèles que nous ont laissés les orateurs. Il compose aussi deux
+ouvrages de théorie politique : en 54, il écrit le de Republica, qu'il
+ne devait publier qu'en 51 ; vers 52, il entreprend le de Legibus, resté
+inachevé. Dans le premier, « ce ferme républicain annonçait que la
+constitution monarchique était en théorie la meilleure; en pratique, il
+fallait réaliser le gouvernement des aristocrates (optimates), qui
+serait rendu stable, disait-il, par l'intervention permanente d'un grand
+protecteur. Si ce traité ne nous était point parvenu en lambeaux, nous y
+lirions peut-être l'esquisse du programme qu'Auguste devait réaliser, la
+définition même de ce qu'on appellera le principat » (Piganiol).</p>
+<p>Cependant, en plusieurs discours, il défendait, avec autant de zèle que
+d'esprit, ses intérêts maté¬</p>
+<p><pb/></p>
+<p><pb/></p>
+<p>en Cilicie que Cicéron se rendit comme proconsul (51). Il s'y révèle
+administrateur habile, énergique et même désintéressé : cela ne
+l'empêcha pas, sans violer les lois, de tirer de sa province 450.000
+francs or. Même quelques petits succès sur les montagnards voisins lui
+firent décerner par ses soldats le titre d'imperator. Il en profita pour
+demander le triomphe, mais il dut se contenter de l'ovation.</p>
+<p><pb/></p>
+<p>Ses angoisses patriotiques étaient rendues plus poignantes encore par
+différents soucis : graves embarras d'argent, gros dissentiments avec
+son frère et son neveu, maladie de sa chère fille Tullia, qu'il perdit
+en 45, enfin démêlés avec sa femme Térentia, qu'il répudia en 46, et qui
+se remaria avec Salluste. Peu de temps après, il épousait sa pupille
+Publilia, beaucoup plus jeune que lui, et dont il dut bientôt se séparer.</p>
+<p>I. Voir p. 124.</p>
+<p><pb/></p>
+<p>Après le meurtre de César (15 mars 44), il rentre dans la vie publique.
+Il n'était pas du complot ; les conjurés ne l'avaient même pas mis dans
+le secret, mais ils se servirent de son nom, et il devint, presque
+malgré lui, le chef du nouveau parti. Il essaya de profiter de son
+influence pour</p>
+<p><pb/></p>
+<p>C'est le Ier septembre que Cicéron avait refusé de paraître au Sénat.
+Antoine y parla de lui en termes très violents. Le lendemain Antoine
+était absent. Cicéron l'attaqua, mais avec modération, dans le premier
+de ces discours qu'il a nommés Philippiques, par analogie avec ceux où
+Démosthène démasque et combat les projets de Philippe. A la séance du 19
+septembre, Antoine porta contre toute la vie de Cicéron des accusations
+violentes. Le 9 octobre, Antoine ayant quitté Rome pour</p>
+<p><pb/></p>
+<p>chercher les légions de Brindes, Cicéron publia la 2e Philippique, qui
+est censée avoir été prononcée le 19 septembre, puis il se retira dans
+ses villas de Campanie, où il écrivit le traité des Devoirs.</p>
+<p><pb/></p>
+<p>Voici comment Tite-Live nous raconte la mort du grand orateur (7
+décembre 43).</p>
+<p><pb/></p>
+<p>L'écrivain domine la prose latine, comme Virgile la poésie. Ses ouvrages
+de rhétorique, les</p>
+<p>I. Le triomphateur avait sur la tête une couronne de laurier.</p>
+<p><pb/></p>
+<p><pb/>
+------------------------------------------------------------------------</p>
+<p>BIBLIOGRAPHIE</p>
+<p>A. MANUSCRITS.</p>
+<p>Le texte des Catilinaires nous a été transmis par de nombreux
+manuscrits.Ils ont été classés en trois groupes.</p>
+<p>Le premier, qui fournit généralement les meilleures leçons, comprend
+quatre manuscrits d'âge différent : un manuscrit de Cluny, du IXe
+siècle, qui, malheureusement, n'a guère conservé que le quart des
+Catilinaires ; un manuscrit de la Bibliothèque Ambrosienne, de Milan, du
+Xe siècle ; un Vossianus, du XIe siècle ; enfin un Laurentianus (de
+Florence), du XIIIe siècle.</p>
+<p>B. EDITIONS ET TRADUCTIONS 1</p>
+<p>Comme édition critique, on peut consulter l'édition</p>
+<p>I. Conformément aux principes de la collection, cette Bibliographie ne
+se pique pas d'être complète, Elle se borne aux ouvrages les plus
+importants.</p>
+<p><pb/></p>
+<p>Clark (Bibliotheca Oxoniensis) ou l'édition de la Collection
+Guillaume-Budé.</p>
+<p>Les éditions annotées sont très nombreuses. Parmi celles qui ne sont pas
+épuisées, nous citerons, entre autres, et par ordre alphabétique, celles
+qui ont été procurées par ANTOINE (Paris, Armand Colin), l'abbé BOUÉ
+(Paris, de Gigord), JACQUINET (Paris, Belin), Maurice LEVAILLANT (Paris,
+Hachette).</p>
+<p>La meilleure traduction est celle de la Collection Guillaume-Budé.</p>
+<p>C. OUVRAGES A CONSULTER.</p>
+<p>a) Sur Cicéron en général : BOISSIER, Cicéron et ses amis, Paris,
+Hachette. R. BEAUCHOT, OEuvres choisies, Paris, Hatier. Emmanuele
+CIACERI, Cicerone e i suoi tempi, Milano, Roma, Napoli, Societa Editria
+Dante Alighieri. DRUMANN-GROEBE, Geschichte Roms, tome V, 3e partie.
+Richard HEINZE, Ciceros politische Anfaenge, Abhandlungen der
+philologisch-historischen Klasse d. Königl. sächisischen Gesellschaft
+der Wissenschaften, t. XXVII (1909), p. 947-1010.</p>
+<p>c) Sur la conjuration de Catilina : BOISSIER, La Conjuration de
+Catilina, Paris, Hachette. E. G. HARDY, The Catilinian conspiracy in its
+context, 2e édition, 1924, Oxford, Basil Blackwell. Prosper MÉRIMÉE,
+Conjuration de Catilin.THIAUCOURT, Etude sur la Conjuration de Catilina
+de Salluste, 1887, Paris, Hachette.</p>
+<p><pb/></p>
+<p>TABLE DES MATIÈRES</p>
+<p>AVANT-PROPOS .</p>
+<p>7</p>
+<p>LIVRE I.</p>
+<p>L'exposition du drame: Avant le Catilinaires.</p>
+<p>CHAPITRE I. Cicéron</p>
+<p>II</p>
+<p>II. Catilina</p>
+<p>26</p>
+<p>III. Cicéron et Catilina en présence avant les Catilinaires</p>
+<p>42</p>
+<p>42</p>
+<p>B. Du Ier janvier 63 aux élections consulaires de 63</p>
+<p>40</p>
+<p>C. Les élections consulaires de 64</p>
+<p>44</p>
+<p>D. La conjuration</p>
+<p>60</p>
+<p>LIVRE II. —Les Catilinaires.</p>
+<p>CHAPITRE I. La première Catilinaire.</p>
+<p>Les circonstances</p>
+<p>7.4</p>
+<p>Première partie de l'argumentation</p>
+<p>83</p>
+<p>Essai d'intimidation</p>
+<p>83</p>
+<p>95</p>
+<p>Appel au sentiment de l'honneur. . .</p>
+<p>105</p>
+<p>126</p>
+<p>Deuxième partie de l'argumentation</p>
+<p>131</p>
+<p>Péroraison</p>
+<p>139</p>
+<p>Attitude de Catilina</p>
+<p>140</p>
+<p>Appréciation</p>
+<p>143</p>
+<p>CHAPITRE II. La deuxième Catilinaire.</p>
+<p>Les circonstances</p>
+<p>147</p>
+<p>L'exorde</p>
+<p>150</p>
+<p>Première partie de l'argumentation : justification du consul</p>
+<p>154</p>
+<p>I° Pourquoi il a laissé partir Catilina</p>
+<p>154</p>
+<p>20 Il n'a pas envoyé Catilina en exil.</p>
+<p>159</p>
+<p>Deuxième partie de l'argumentation : il n'y a pas lieu de s'inquiéter.
+Les groupes de conjurés</p>
+<p>163</p>
+<p><pb/></p>
+<p>Péroraison</p>
+<p>175</p>
+<p>Appréciation</p>
+<p>177</p>
+<p>CHAPITRE III. Entre la deuxième et la troisième Catilinaires.</p>
+<p>A. Avant le Pro Muréna</p>
+<p>179</p>
+<p>B. Le Pro Muréna</p>
+<p>182</p>
+<p>C. Entre le Pro Muréna et la 3 e Catilinaire</p>
+<p>190</p>
+<p>CHAPITRE IV. La troisième Catilinaive.</p>
+<p>Les circonstances</p>
+<p>200</p>
+<p>L'exorde</p>
+<p>201</p>
+<p>Proposition</p>
+<p>203</p>
+<p>Narration</p>
+<p>204</p>
+<p>a) Avant l'interrogatoire des accusés</p>
+<p>204</p>
+<p>b) L'instruction au Sénat</p>
+<p>210</p>
+<p>c) La délibération</p>
+<p>216</p>
+<p>d) Les résolutions</p>
+<p>218</p>
+<p>Conclusion</p>
+<p>224</p>
+<p>Péroraison</p>
+<p>232</p>
+<p>Appréciation</p>
+<p>242</p>
+<p>CHAPITRE V. Entre la troisième et la quatrième Catilinaires.</p>
+<p>A . La nuit du 3 au 4 décembre</p>
+<p>244</p>
+<p>B. La journée du 4 décembre</p>
+<p>247</p>
+<p>C. La séance du 5 décembre avant la 4e Catilinaire</p>
+<p>250</p>
+<p>CHAPITRE VI. La quatrième Catilinaire.</p>
+<p>Les circonstances</p>
+<p>262</p>
+<p>L'exorde</p>
+<p>263</p>
+<p>La proposition</p>
+<p>270</p>
+<p>Le choix de la peine</p>
+<p>272</p>
+<p>L'exécution de l'arrêt</p>
+<p>288</p>
+<p>Péroraison</p>
+<p>306</p>
+<p>Appréciation</p>
+<p>310</p>
+<p>LIVRE III. —- Conclusion.</p>
+<p>CHAPITRE I. Le dénouement</p>
+<p>313</p>
+<p>II. Jugement sur les Catilinaires</p>
+<p>319</p>
+<p>III. Cicéron après les Catilinaires</p>
+<p>329</p>
+<p>BIBLIOGRAPHIE</p>
+<p>345</p>
+<p>MELLOTÉE, Imp. Paris-Châteauroux</p>
+<p><pb/></p>
+<p>PRINCIPAUX OUVRAGES DU MÊME AUTEUR</p>
+<p>Librairie de Boccard :</p>
+<p>PRÉCIS DE PROSODIE ET DE MÉTRIQUE GRECQUES ET</p>
+<p>LATINES, 2e édition.</p>
+<p>Librairie Boivin :</p>
+<p>TITE-LIVE.</p>
+<p>Librairie Delagrave :</p>
+<p>ROME ET LES ROMAINS, en collaboration avec M. Daniel MORNET, 12e édition.</p>
+<p>Librairie Garnier :</p>
+<p>CICÉRON, DE INVENTIONE, texte et traduction.</p>
+<p>QUINTILIEN, INSTITUTION ORATOIRE, texte et traduction, 4 volumes.</p>
+<p>RHÉTORIQUE A HÉRENNIUS, texte et traduction. SÉNÈQUE LE RHÉTEUR,
+CONTROVERSES ET SUASORIAE, texte et traduction, nouvelle édition, 2
+volumes. (Ouvrage couronné par Académie française).</p>
+<p>Collection Guillaume Budé :</p>
+<p>CICÉRON, ORATOR, texte et traduction.</p>
+<p>ICÉRON, PARTITIONES ORATORIAE ET TOPIQUES, texte et</p>
+<p>traduction.</p>
+<p>OVID E, ART D'AIMER, texte et traduction.</p>
+<p>VIDE LES AMOURS, texte et traduction.</p>
+<p>Collection des Travaux et Mémoires de l'Université de Lille :</p>
+<p>LES DÉCLAMATIONS ET LES DÉCLAMATEURS D'APRÈS</p>
+<p>LES9UE LE PÈRE.</p>
+<p>CLAUSULES MÉTRIQUES LATINES. (Ouvrage couronné par Académie des
+Inscriptions).</p>
+<p>A Paraître :</p>
+<p>INDEX DES TERMES DE RHÉTORIQUE CHEZ CICÉRON.</p>
+<p><pb/></p>
+<p>A LA MÊME LIBRAIRIE</p>
+<p>LES GRANDS AUTEURS = FRANÇAIS =</p>
+<p>Textes présentés par les Professeurs des Universités de France</p>
+<p>sous la direction de</p>
+<p>Daniel MORNET</p>
+<p>PROFESSEUR DE LITTÉRATURE FRANÇAISE A LA SORBONNE</p>
+<p>EN VENTE :</p>
+<p>BOILEAU. — (OEuvres) par P. C\ ,/c, ancien élève de l'Ecole Normale
+Supérieure, agrégé des lettres,</p>
+<p>1 volume 500 pages, relié pleine toile, titres froid et or 22 fr.</p>
+<p>Broché 18 »</p>
+<p>RACINE. — (Théâtre). Introduction. Notes et Commentaires, Grammaire et
+Lexique, par Daniel Mo. NET.</p>
+<p>1 volume illustré, relié pleine toile, titres froid et or 25 fr.</p>
+<p>Broché 20 »</p>
+<p>PIÈCES SÉPARÉES :</p>
+<p>ANDROMAQUE. Tragédie MITHRIDATE, Tragédie</p>
+<p>LES PLAIDEURS. Comédie IPHIGÉNIE »</p>
+<p>BRITANNICUS. Tragédie ESTHER »</p>
+<p>BÉRÉNICE » ATHALIE</p>
+<p>BAJAZET » PHÈDRE</p>
+<p>Chaque volume contient une introduction, notes et commentaires, lexique
+et grammaire, par D. MORNET.</p>
+<p>l'elié pleine toile, titres froid et or 7.50</p>
+<p>Broché 5 »</p>
+<p>EN PRÉPARATION :</p>
+<p>LES POÈTES FRANÇAIS DU XIXe SIÈCLE, par P. MARTINO, Recteur de
+l'Académie de Poitiers.</p>
+    </div>
+    </body>
+  </text>
+</TEI>
