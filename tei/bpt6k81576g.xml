@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
- <teiHeader>
-<fileDesc>
-<titleStmt>
-<author key="Littré, Émile (1801-1881)">Émile Littré</author>
-<title>Comment j'ai fait mon "Dictionnaire de la langue française" (Nouvelle édition, précédée d'un avant-propos) / par É. Littré</title>
-</titleStmt>
-<editionStmt>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Comment j'ai fait mon “Dictionnaire de la langue française” (Nouvelle édition, précédée d'un avant-propos) / par É. Littré</title>
+        <author key="Littré, Émile (1801-1881)">Émile Littré</author>
+      </titleStmt>
+      <editionStmt>
         <edition>OBVIL/BNF</edition>
         <respStmt>
           <resp>reprise des textes</resp>
           <name>Amélie Canu</name>
         </respStmt>
       </editionStmt>
-<publicationStmt>
+      <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
         <availability status="restricted">
@@ -22,234 +22,259 @@
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
-<sourceDesc>
-<bibl>
-<author>Littré, Émile (1801-1881)</author>, <title>Comment j'ai fait mon "Dictionnaire de la langue française" (Nouvelle édition, précédée d'un avant-propos) / par É. Littré</title>, <date>1897</date>,description :,55 pages
-</bibl>
-<publisher>C. Delagrave (Paris)</publisher>
-<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k81576g</idno>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1897">1897</date>
-</creation>
-<langUsage>
-<language ident="fr"/>
-</langUsage>
-</profileDesc>
- </teiHeader>
+      <sourceDesc>
+        <bibl> <author>Littré, Émile (1801-1881)</author>, <title>Comment j'ai fait mon "Dictionnaire de la langue française" (Nouvelle édition, précédée d'un avant-propos) / par É. Littré</title>, <date>1897</date>,description :,55 pages </bibl>
+        <publisher>C. Delagrave (Paris)</publisher>
+        <idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k81576g</idno>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1897">1897</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-    <div>
-<p>6;r ` PAR, 3~F~3~~ ;̃̃• • e. littré :-m</p>
-<p>n.</p>
-<p>Sl#.f«ile édition préeéiée don Avant-ftpâ</p>
-<p>LIBRAIRIE CH. DELAGRAVE |^ 15, RUE SOUPFLOT, 15 V: ^"lS</p>
-<p><pb/></p>
-<p>COMMENT J'AI -FAIT</p>
-<p>N DICTIONNAIRE f|LA LANGUE FRANÇAISE</p>
-<p><pb/></p>
-<p>SOCIÉTB ANONYME D'IMPRIMERIE DE VIM.EFRANCHE-DE-ROÛERGUB Jules Bardoux,
-Directeur.</p>
-<p><pb/></p>
-<p>COMMENT J'AI FAIT</p>
-<p>MON DICTIONNAIRE DJy^ LANGUE FRANÇAISE</p>
-<p>Nouvelle édition, précédée d'un Avant-Propos PAR</p>
-<p>MICHEL BRÉAL</p>
-<p>PAR</p>
-<p>E. LITTRÉ</p>
-<p>PARIS</p>
-<p>LIBRAIRIE CH. DËLAGRAVE 15, RUE SOUFFLOT, 15</p>
-<p>1897</p>
-<p><pb/></p>
-<p>AVANT-PROPOS</p>
-<p>1. Études et Glanures, un vol.; chez Didier, 1880. v 2. Comment les mots
-changent de sens, par É. Littré, avec un ayant; propos de Michel Bréal,
-fascicule 45 des Mémoires et Documenté sco- laires du Musée pédagogique. ;̃ ̃</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Bien différent des malades qui accusent les fati^ gués et les peines de
-leur vie, Littré, après avoir examiné en médecin les infirmités dont il
-souffre, déclare que le Dictionnaire n'y est pour rien, et il
-l'innocente « de toutes les perversions organiques qui l'affligent ».
-Pour cette perfection morale encore plus que pour J'intérêt philologique
-et historique, j'ai cru qu'il était bon de remettre cette Causerie aux
-mains de la jeu- nesse.</p>
-<p>MICHEL Bréàl.</p>
-<p><pb/></p>
-<p>.COMMENT J'AI FAIT MON DICTIOMÂIRE .DE LA LANGUE FRANÇAISE</p>
-<p>CAUSERIE1</p>
-<p>Tout modeste chasseur en eût été content</p>
-<p>Son chasseur n'était pas modeste, et le fabuliste ajoute aussitôt</p>
-<p>Mais quoi! rien ne remplit ` Les vastes appétits d'un faiseur de conquêtes.</p>
-<p>11. ier mars 1880.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Cette torpeur, qui n'avait que trop duré, M. Hachette* 6T m'en tira en
-me sommant de commencer. On sait que par- fois, pendant le sommeil, des
-idées qui nous ont occupés la veille s'élaborent inconsciemment; de
-même, pendant ce trop long sommeil de notre projet, ses idées et les
-miennes s'étaient modifiées, et il me proposa d'annuler ¥ l'ancien
-traité, d'en conclure un autre et de donner au ̃ travail un nouveau
-titre, le titre de Dictionnaire étymola- "7:t, ,r,a~aÍl, U,' n nouvea.u
-titr, e, le tit,re de ia largue, f~°ancaise: On ` '|\ gique, historique
-et grammatical de la langue française. On 4 \ï remarquera l'adjonction
-ô? historique. C'était là, en effet, I depuis que je considérais mon
-projet sous toutes ses faces,</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Quid valeant humeri.</p>
-<p><pb/></p>
-<p>Je lus de mon côté et dépouillai certains livres, non seulement pour
-augmenter la somme du travail, mais surtout pour avoir par moi-même
-expérience de ce genre de besogne et mieux apprécier les contributions
-de mes auxiliaires. Toutefois, la vraie pierre de touche fut quand le
-moment vint d'utiliser ces exemples et de les incorporer</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>de plusieurs de ses voisins, il n'y a pas lieu de s'étonner ` qu'il ait
-hésité â continuer une aussi lourde entreprise que le dictionnaire, et
-suspendu au fort de orage les secours qu'il me fournissait. Mais la
-maison était dès lors solidement établie, et son chef intrépide et
-habile tint tête aux circonstances. Après une hésitation qui ne fut que
-momentanée, il persévéra, et je persévérai avec lui.</p>
-<p><pb/></p>
-<p>J'ai, dans la préface de moa dictionnaire, donné le tableau et
-l'explication du mode selon lequel j'ai traité cha- que mot en
-particulier, et de l'ordre constant que j'ai suivi en ce traitement, de
-façon que celui qui ferait une recherche ne fût jamais dérouté. Ce
-tableau/que je viens de relire est excellent; et s'il m'avait été
-possible, c'est ma plainte perpétuelle, de l'avoir- de bonne heure sous
-les veux, il m'eût épargné la perte de bien des heures, et aussi quel- =
-ques angoisses. Mais, loin d'être, un antécédent, il fut un</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>L'oubli presque inconcevable et fort malencontreux d'une précaution
-toute matérielle aggravait encore mes difficultés. Je n'avais pas eu le
-soin de mettre et de faire mettre, en cette rédaction que je prenais
-pour la relire et la livrer, chaque signification et chaque exemple sur
-un papier séparé. Et maintenant, avec une pareille copie, comment opérer
-les classifications, les rectifications, les additions de la masse
-énorme de matériaux recueillis postérieurement? Il fallait beaucoup
-recopier; et reco-</p>
-<p><pb/></p>
-<p>1</p>
-<p>Hanc demum litem melior natura diremit.</p>
-<p><pb/></p>
-<p>1</p>
-<p>lecture comme il eût fait d'un livre ordinaire et courant. J'avoue que
-ces dires n'ont jamais manqué de :&gt;- Chatouiller de mon
-cœurj'orgueilleuse faiblesse. Toute cette récompense était perdue, si
-j'avais misérablement faibli. =</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>observations. C'est ce second placard ainsi annote qui “ m'était
-adressé* II était formé de quatre colonnes de texte, "équivalant à
-quatre colonnes de ce qui est aujourd'hui le dictionnaire-.</p>
-<p><pb/></p>
-<p>que j'étais d'ajuster sur le placard notes et bouts de papier, de
-manière que l'imprimerie pût se reconnaître dans le dédale. Combien de
-fois, quand j'étais au plus fort de mes embarras, n'ai-je pas dit,
-moitié plaisantant, moitié sérieux « 0 mes amis, ne faites jamais de
-dictionnaire !» Mais dépit vain et passager C'est le- cas d'appliquer le
-dicton picard rapporté par La Fontaine dans sa fable du Loup, la Mère et
-l'Enfant</p>
-<p>Biaux chires leups, n'écoutez mie</p>
-<p>Mère tenchent chen fieux qui crie.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>si brachia forte remisit»</p>
-<p>Atque illum in praeceps prono rapit alveus àmni.</p>
-<p>(Georg., 1,202.)</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Mais ne transformons pas l'exception en règle. Le plus souvent trois
-heures était le terme où je quittais pluma •</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Mon assiduité permanente au travail, ne se laissant éé.tourner par
-aucune distraction ni par aucune fatigue, fut récompensée, et en 1865,
-je pus inscrire sur un dernier feuillet « Aujourd'hui j'ai fini.mon
-dictionnaire. » Mon</p>
-<p><pb/></p>
-<p>1. En 1877, M. Littré publia un nouveau supplément de 375 pages.</p>
-<p><pb/></p>
-<p>Je ne sais qui a prétendu qu'on pouvait penser du mal l de soi, mais
-qu'il ne fallait jamais en dire, vu que d'autres s'en emparaient sans
-ajouter les circonstances atténuantes. Je ne suis de cet avis ni en
-théorie ni eh pratique. Le mal ` que je dis de moi, il ne me chaut qu'on
-le répète, non par dédain du qu'en-dira-t-on, mais par retour sur
-moi-même; car ce que je cherche surtout en le disant, c'est de
-m'inculquer plus péremptoirement la nécessité morale où je me crois de
-me prémunir, de propos délibéré, contre mes insuffisances de toute nature.</p>
-<p>Heureusement, dans la grande affaire de mon dictionnaire, les bonnes
-parties de moi-même résistèrent au découragement, et, retournant le dire
-d'Ovide Video meliora proboque,</p>
-<p>Deteriora sequor,</p>
-<p><pb/></p>
-<p>Eh bien, oui, je ne le rétracte pas. Quand j'eus embrassé l'ample
-développement de la langue française selon son histpire, et- qu'il me
-sembla qu'un dictionnaire pouvait se régler sur cette grande image,
-alors un idéal vint qui éclaira mon œuvre.</p>
-<p><pb/></p>
-<p>ràis-je fait sans un éditeur si ami, si dévoué, si constant, si résolu
-contre les hasards et les difficultés? )-</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Lors de la reprise de Paris par l'armée, qui exécutait lés ordres du
-gouvernement légal de la France, une bande ? de gens de la Commune
-occupa le haut de la rue Haute- feuille, au point justement où sont
-situées et la maison- de M. J.-B. Baillière et celle de M. Hachette.
-Quand le ] progrès des troupes de Versailles devint menaçant, ces gens
-agitèrent derrière leur barricade les sinistres réso-</p>
-<p><pb/></p>
-<p>Enfin, des tueurs apparurent dans ce ciel si obscur.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>La copie (sans le Supplément) comptait 415,636 feuillets. `.~ Il y a eu
-2,242 placards de composition.</p>
-<p>Si le Dictionnaire (toujours sans le Supplément) étaitcompose sur une
-seule colonne, cette colonne aurait 37,525m,28. °</p>
-<p>La composition a commencé régulièrement en septembre 1859; le bon à
-clicher du dernier placard (sans le Supplément) a été donné le 14
-novembre 1872; ce qui fait une durée de treize ans et deux mois -environ.</p>
-<p><pb/></p>
-<p>La composition n'a été interrompue que pendant la guerre, du 1er août
-1870 au 21 février 1871, et, pendant la Gommune, du 19 avril au 14 juin
-1871.</p>
-<p>PUBLICATION DES LIVRAISONS</p>
-<p>1863 7 livraisons.</p>
-<p>1864. 3 –</p>
-<p>186o 2 –</p>
-<p>1866 1 –</p>
-<p>1867. 3 –</p>
-<p>1868. 4 –</p>
-<p>1870. 2 –</p>
-<p>1871 0 –</p>
-<p>1872 5 –</p>
-<p>D</p>
-    </div>
+      <div>
+        <p>6;r ` PAR, 3~F~3~~ ;̃̃• • e. littré :-m</p>
+        <p>n.</p>
+        <p>Sl#.f«ile édition préeéiée don Avant-ftpâ</p>
+        <p>LIBRAIRIE CH. DELAGRAVE |^ 15, RUE SOUPFLOT, 15 V: ^"lS</p>
+        <p>
+          <pb/>
+        </p>
+        <p>COMMENT J'AI -FAIT</p>
+        <p>N DICTIONNAIRE f|LA LANGUE FRANÇAISE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>SOCIÉTB ANONYME D'IMPRIMERIE DE VIM.EFRANCHE-DE-ROÛERGUB Jules Bardoux, Directeur.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>COMMENT J'AI FAIT</p>
+        <p>MON DICTIONNAIRE DJy^ LANGUE FRANÇAISE</p>
+        <p>Nouvelle édition, précédée d'un Avant-Propos PAR</p>
+        <p>MICHEL BRÉAL</p>
+        <p>PAR</p>
+        <p>E. LITTRÉ</p>
+        <p>PARIS</p>
+        <p>LIBRAIRIE CH. DËLAGRAVE 15, RUE SOUFFLOT, 15</p>
+        <p>1897</p>
+        <p>
+          <pb/>
+        </p>
+        <p>AVANT-PROPOS</p>
+        <p>1. Études et Glanures, un vol.; chez Didier, 1880. v 2. Comment les mots changent de sens, par É. Littré, avec un ayant; propos de Michel Bréal, fascicule 45 des Mémoires et Documenté sco- laires du Musée pédagogique. ;̃ ̃</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Bien différent des malades qui accusent les fati^ gués et les peines de leur vie, Littré, après avoir examiné en médecin les infirmités dont il souffre, déclare que le Dictionnaire n'y est pour rien, et il l'innocente « de toutes les perversions organiques qui l'affligent ». Pour cette perfection morale encore plus que pour J'intérêt philologique et historique, j'ai cru qu'il était bon de remettre cette Causerie aux mains de la jeu- nesse.</p>
+        <p>MICHEL Bréàl.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>.COMMENT J'AI FAIT MON DICTIOMÂIRE .DE LA LANGUE FRANÇAISE</p>
+        <p>CAUSERIE1</p>
+        <p>Tout modeste chasseur en eût été content</p>
+        <p>Son chasseur n'était pas modeste, et le fabuliste ajoute aussitôt</p>
+        <p>Mais quoi! rien ne remplit ` Les vastes appétits d'un faiseur de conquêtes.</p>
+        <p>11. ier mars 1880.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Cette torpeur, qui n'avait que trop duré, M. Hachette* 6T m'en tira en me sommant de commencer. On sait que par- fois, pendant le sommeil, des idées qui nous ont occupés la veille s'élaborent inconsciemment; de même, pendant ce trop long sommeil de notre projet, ses idées et les miennes s'étaient modifiées, et il me proposa d'annuler ¥ l'ancien traité, d'en conclure un autre et de donner au ̃ travail un nouveau titre, le titre de Dictionnaire étymola- "7:t, ,r,a~aÍl, U,' n nouvea.u titr, e, le tit,re de ia largue, f~°ancaise: On ` '|\ gique, historique et grammatical de la langue française. On 4 \ï remarquera l'adjonction ô? historique. C'était là, en effet, I depuis que je considérais mon projet sous toutes ses faces,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Quid valeant humeri.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Je lus de mon côté et dépouillai certains livres, non seulement pour augmenter la somme du travail, mais surtout pour avoir par moi-même expérience de ce genre de besogne et mieux apprécier les contributions de mes auxiliaires. Toutefois, la vraie pierre de touche fut quand le moment vint d'utiliser ces exemples et de les incorporer</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>de plusieurs de ses voisins, il n'y a pas lieu de s'étonner ` qu'il ait hésité â continuer une aussi lourde entreprise que le dictionnaire, et suspendu au fort de orage les secours qu'il me fournissait. Mais la maison était dès lors solidement établie, et son chef intrépide et habile tint tête aux circonstances. Après une hésitation qui ne fut que momentanée, il persévéra, et je persévérai avec lui.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>J'ai, dans la préface de moa dictionnaire, donné le tableau et l'explication du mode selon lequel j'ai traité cha- que mot en particulier, et de l'ordre constant que j'ai suivi en ce traitement, de façon que celui qui ferait une recherche ne fût jamais dérouté. Ce tableau/que je viens de relire est excellent; et s'il m'avait été possible, c'est ma plainte perpétuelle, de l'avoir- de bonne heure sous les veux, il m'eût épargné la perte de bien des heures, et aussi quel- = ques angoisses. Mais, loin d'être, un antécédent, il fut un</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>L'oubli presque inconcevable et fort malencontreux d'une précaution toute matérielle aggravait encore mes difficultés. Je n'avais pas eu le soin de mettre et de faire mettre, en cette rédaction que je prenais pour la relire et la livrer, chaque signification et chaque exemple sur un papier séparé. Et maintenant, avec une pareille copie, comment opérer les classifications, les rectifications, les additions de la masse énorme de matériaux recueillis postérieurement? Il fallait beaucoup recopier; et reco-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>1</p>
+        <p>Hanc demum litem melior natura diremit.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>1</p>
+        <p>lecture comme il eût fait d'un livre ordinaire et courant. J'avoue que ces dires n'ont jamais manqué de :&gt;- Chatouiller de mon cœurj'orgueilleuse faiblesse. Toute cette récompense était perdue, si j'avais misérablement faibli. =</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>observations. C'est ce second placard ainsi annote qui “ m'était adressé* II était formé de quatre colonnes de texte, "équivalant à quatre colonnes de ce qui est aujourd'hui le dictionnaire-.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>que j'étais d'ajuster sur le placard notes et bouts de papier, de manière que l'imprimerie pût se reconnaître dans le dédale. Combien de fois, quand j'étais au plus fort de mes embarras, n'ai-je pas dit, moitié plaisantant, moitié sérieux « 0 mes amis, ne faites jamais de dictionnaire !» Mais dépit vain et passager C'est le- cas d'appliquer le dicton picard rapporté par La Fontaine dans sa fable du Loup, la Mère et l'Enfant</p>
+        <p>Biaux chires leups, n'écoutez mie</p>
+        <p>Mère tenchent chen fieux qui crie.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>si brachia forte remisit»</p>
+        <p>Atque illum in praeceps prono rapit alveus àmni.</p>
+        <p>(Georg., 1,202.)</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Mais ne transformons pas l'exception en règle. Le plus souvent trois heures était le terme où je quittais pluma •</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Mon assiduité permanente au travail, ne se laissant éé.tourner par aucune distraction ni par aucune fatigue, fut récompensée, et en 1865, je pus inscrire sur un dernier feuillet « Aujourd'hui j'ai fini.mon dictionnaire. » Mon</p>
+        <p>
+          <pb/>
+        </p>
+        <p>1. En 1877, M. Littré publia un nouveau supplément de 375 pages.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Je ne sais qui a prétendu qu'on pouvait penser du mal l de soi, mais qu'il ne fallait jamais en dire, vu que d'autres s'en emparaient sans ajouter les circonstances atténuantes. Je ne suis de cet avis ni en théorie ni eh pratique. Le mal ` que je dis de moi, il ne me chaut qu'on le répète, non par dédain du qu'en-dira-t-on, mais par retour sur moi-même; car ce que je cherche surtout en le disant, c'est de m'inculquer plus péremptoirement la nécessité morale où je me crois de me prémunir, de propos délibéré, contre mes insuffisances de toute nature.</p>
+        <p>Heureusement, dans la grande affaire de mon dictionnaire, les bonnes parties de moi-même résistèrent au découragement, et, retournant le dire d'Ovide Video meliora proboque,</p>
+        <p>Deteriora sequor,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Eh bien, oui, je ne le rétracte pas. Quand j'eus embrassé l'ample développement de la langue française selon son histpire, et- qu'il me sembla qu'un dictionnaire pouvait se régler sur cette grande image, alors un idéal vint qui éclaira mon œuvre.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ràis-je fait sans un éditeur si ami, si dévoué, si constant, si résolu contre les hasards et les difficultés? )-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Lors de la reprise de Paris par l'armée, qui exécutait lés ordres du gouvernement légal de la France, une bande ? de gens de la Commune occupa le haut de la rue Haute- feuille, au point justement où sont situées et la maison- de M. J.-B. Baillière et celle de M. Hachette. Quand le ] progrès des troupes de Versailles devint menaçant, ces gens agitèrent derrière leur barricade les sinistres réso-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Enfin, des tueurs apparurent dans ce ciel si obscur.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>La copie (sans le Supplément) comptait 415,636 feuillets. `.~ Il y a eu 2,242 placards de composition.</p>
+        <p>Si le Dictionnaire (toujours sans le Supplément) étaitcompose sur une seule colonne, cette colonne aurait 37,525m,28. °</p>
+        <p>La composition a commencé régulièrement en septembre 1859; le bon à clicher du dernier placard (sans le Supplément) a été donné le 14 novembre 1872; ce qui fait une durée de treize ans et deux mois -environ.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>La composition n'a été interrompue que pendant la guerre, du 1er août 1870 au 21 février 1871, et, pendant la Gommune, du 19 avril au 14 juin 1871.</p>
+        <p>PUBLICATION DES LIVRAISONS</p>
+        <p>1863 7 livraisons.</p>
+        <p>1864. 3 –</p>
+        <p>186o 2 –</p>
+        <p>1866 1 –</p>
+        <p>1867. 3 –</p>
+        <p>1868. 4 –</p>
+        <p>1870. 2 –</p>
+        <p>1871 0 –</p>
+        <p>1872 5 –</p>
+        <p>D</p>
+      </div>
     </body>
   </text>
 </TEI>

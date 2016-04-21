@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
- <teiHeader>
-<fileDesc>
-<titleStmt>
-<author key="Alciator, Bernard (1810-1884)">Bernard Alciator</author>
-<title>L'art dans la poésie, poème en trois chants. [Précédé de] Observations critiques [sur le poème : "L'art de la poésie"] (4e éd. rev., augm. et précédée d'appréciations des meilleurs écrivains) / par B. Alciator ; par M. Beaumarchey,...</title>
-</titleStmt>
-<editionStmt>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>L'art dans la poésie, poème en trois chants. [Précédé de] Observations critiques [sur le poème : “L'art de la poésie”] (4e éd. rev., augm. et précédée d'appréciations des meilleurs écrivains) / par B. Alciator ; par M. Beaumarchey,...</title>
+        <author key="Alciator, Bernard (1810-1884)">Bernard Alciator</author>
+      </titleStmt>
+      <editionStmt>
         <edition>OBVIL/BNF</edition>
         <respStmt>
           <resp>reprise des textes</resp>
           <name>Amélie Canu</name>
         </respStmt>
       </editionStmt>
-<publicationStmt>
+      <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
         <availability status="restricted">
@@ -22,680 +22,542 @@
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
-<sourceDesc>
-<bibl>
-<author>Alciator, Bernard (1810-1884)</author>, <title>L'art dans la poésie, poème en trois chants. [Précédé de] Observations critiques [sur le poème : "L'art de la poésie"] (4e éd. rev., augm. et précédée d'appréciations des meilleurs écrivains) / par B. Alciator ; par M. Beaumarchey,...</title>, <date>1876</date>,description :Comprend : Observations critiques [sur le poème : "L'art de la poésie"] / par M. Beaumarchey,...,82 pages
-</bibl>
-<publisher>l'auteur (Marseille)</publisher>
-<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k5611359p</idno>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1876">1876</date>
-</creation>
-<langUsage>
-<language ident="fr"/>
-</langUsage>
-</profileDesc>
- </teiHeader>
+      <sourceDesc>
+        <bibl> <author>Alciator, Bernard (1810-1884)</author>, <title>L'art dans la poésie, poème en trois chants. [Précédé de] Observations critiques [sur le poème : "L'art de la poésie"] (4e éd. rev., augm. et précédée d'appréciations des meilleurs écrivains) / par B. Alciator ; par M. Beaumarchey,...</title>, <date>1876</date>,description :Comprend : Observations critiques [sur le poème : "L'art de la poésie"] / par M. Beaumarchey,...,82 pages </bibl>
+        <publisher>l'auteur (Marseille)</publisher>
+        <idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k5611359p</idno>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1876">1876</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-    <div>
-<p><pb/>
-------------------------------------------------------------------------
-------------------------------------------------------------------------</p>
-<p>B. ALCIATOR,</p>
-<p>L'ART</p>
-<p>DANS LA POESIE</p>
-<p>POEME EN TROIS CHANTS</p>
-<p>QUATRIEME ÈDITIO</p>
-<p>Revue, augmentée et précédée d'appréciations des meilleurs écrivains.</p>
-<p>PRIX : 1 FRANC</p>
-<p>MARSEILLE CHEZ L'AUTEUR, BOULEVARD DU JARDIN-ZOOLOGIQUE, 28</p>
-<p>ET CHEZ LES PRINCIPAUX LIBRAIRES.</p>
-<p>1876</p>
-<p><pb/>
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-------------------------------------------------------------------------</p>
-<p>L'ART DANS LA POÉSIE</p>
-<p>POEME EN TROIS CHANTS</p>
-<p>QUATRIÈME ÉDITION</p>
-<p><pb/></p>
-<p>AUTRES OUVRAGES DE B. ALCIATOR</p>
-<p>EN VENTE CHEZ L'AUTEUR</p>
-<p>La Nouvelle Atala et Daïla, avec descriptions comparées</p>
-<p>de Chateaubriand et d'Alciator, 1 vol. in-16, prix : 3"fr. 50.</p>
-<p>Une femme très-distinguée de te presse parisienne a publié elle-même
-ceci : « La Nouvelle Atala est un livre.empreint de poésie, pur de
-style, honnête d'intention, et que la jeune fille e chaste pourra lire
-sans avoir l'esprit troublé. »</p>
-<p>La Gazette du Midi affirme que la Nouvelle Atala est une fleur du désert
-américain, DISNE DE SON AÎNÉE.</p>
-<p>Une femme célèbre comme poète, M" 0 Anaïs Ségalas, a dit : « La Nouvelle
-Atala et Daïla sont des oeuvres largement conçues, « .dont le plan et le
-coloris sont essentiellement poétiques. »</p>
-<p>Une autre femme célèbre a dit que Daïla est un livre infiniment
-remarquable et qu'on y sent le goût du vrai, inséparable de celui du
-beau. Victor Hugo a dit aussi que c'est une remarquable oeuvre.</p>
-<p>' TRADUCTION EN VERS FRANÇAIS de l'Art poétique d'Horace et des Satires
-de Perse, précédée d'une appréciation de M. Géruzez, ancien suppléant de
-Villemain au Collège de France, 4"" édition, un volume in-18, prix : 2
-francs.</p>
-<p>MARSEILLE. -7 Typ. et Lith. CAYER &amp;. Cie, rue Saint-Ferréol, 57.</p>
-<p><pb/></p>
-<p>B. ALCIATOR</p>
-<p>|L'ART</p>
-<p>DANS. LA POÉSIE</p>
-<p>POEME EN TROIS CHANTS</p>
-<p>QUATRIEME EDITION</p>
-<p>Revue, augmentée et précédée d'appréciations des meilleurs écrivains.</p>
-<p>MARSEILLE CHEZ L'AUTEUR , BOULEVARD DU JARDIN-ZOOLOCIQUE , 28</p>
-<p>ET CHEZ LES PRINCIPAUX LIBRAIRES.</p>
-<p>1876</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>AVERTISSEMENT DE L'AUTEUR</p>
-<p>Voici en quels termes un des membres les plus illustres de l'Académie
-française exprime son jugement :</p>
-<p>« Je ne comprends pas la critique qu'on vous a faite de « mettre en vers
-libres l'Art poétique de Boiieau. Vous avez « fait un art poétique en
-rapport avec les changements sur-</p>
-<p><pb/></p>
-<p>- 6 —</p>
-<p>« venus dans les esprits ; vous avez fait pour votre temps « ce que
-Boiieau a. fait pour le sien : je vous en félicite, et « vous en
-remercie. »</p>
-<p>Un jeune prêtre, M. l'abbé Chavard, curé de Genève, écrivain et
-théologien éminent dans le CÉLIBAT DES PRÊTRES ET SES CONSÉQUENCES,
-affirme sans la moindre flatterie, dit-il, que la Nouvelle Atala et
-Daïla sont deux véritables chefs-d'oeuvre, et il en. dit autant de l'Art
-dans la Poésie.</p>
-<p>Un savant, qui est aussi un excellent poète, M. D. Bossi, a confirmé le
-jugement d'Emile Augier en disant que B. Alciator est le Boiieau des
-temps modernes.</p>
-<p><pb/></p>
-<p>OBSERVATIONS CRITIQUES</p>
-<p>DE</p>
-<p>M. BEAUMARCHEY, ancien professeur de l'Université &lt;r&lt;</p>
-<p>Au commencement de ce siècle une scission se fit entre les hommes de
-lettres, et ce ne fut pas sans bruit, car la querelle des classiques et
-des romantiques a eu un retentissement qui est loin d'être oublié. IL y
-a peu d'écrivains et surtout de critiques qui n'aient essayé de définir
-et de caractériser l'un et l'autre camp. On a appelé classiques les
-écrivains qui, avant d'aborder l'oeuvre toujours difficile de la
-composition, se pénétraient des préceptes que nous ont laissés les
-anciens à</p>
-<p>(1) La lr 0 édition de ce poème a paru en 1852 ; la 2»° en 1860' avec la
-très-remarquable appréciation qu'on va lire, et dont nous n'avions
-supprimé que les premières pages, dû il est question de la lutte entre
-l'Ecole classique et l'Ecole romantique. Nous avons cru devoir les
-reproduire ici, parce qu'elles sont intéressantes à.plus d'un titre.</p>
-<p><pb/></p>
-<p>— 8 —</p>
-<p><pb/></p>
-<p>— 9 —</p>
-<p>Le romantisme, né des études historiques et littéraires du moyen-âge, ne
-manquait pas d'ajouter : La prédominence classique est une usurpation
-moderne ; elle date du jour où nos ancêtres se prirent d'une belle
-passion pour les ouvrages des anciens, retrouvés et nouvellement
-imprimés. Mais sous le rapport de l'art, le génie moderne avait déjà
-fait ses preuves de force, d'originalité et de fécondité : nos grandes
-constructions religieuses et féodales sont-elles imitées des anciens?
-Est-ce dans l'antiquité que s'est inspirée la peinture moderne? Le génie
-et la gloire des peuples chrétiens doivent avoir leur originalité propre
-: ce ne sont pas les ressources qui manquent ni pour les idées, ni pour
-les sentiments ; pourquoi donc raviver desidées qui ne sont plus, des
-formes vaines et mensongères pour nous, et profaner la civilisation
-chrétienne par le culte d'une forme toute païenne? — A cela les
-classiques répondent que les anciens offrent des modèles d'un goût, d'un
-fini que les modernes ont vainement cherché, et que , sous le rapport de
-l'art, les anciens sont et seront toujours nos maîtres. Les romantiques
-alors de s'écrier: Croyez-vous donc que le sentiment du beau n'existe
-pas chez les modernes et qu'il n'y ait pas parmi nous des organisations
-aussi heureuses que chez les anciens? Laissez ces êtres d'élite se
-manifester</p>
-<p><pb/></p>
-<p>— 10 —</p>
-<p><pb/></p>
-<p>— 11 —</p>
-<p>Comme poète romantique, M. Alciator est d'autant plus important à
-étudier, qu'il vient de faire et de pu, blier ni plus ni moins que l'art
-poétique de l'école romantique , ce que notre auteur appelle l'Art dans
-la poésie.</p>
-<p>Le titre du poème ne manquera pas d'être remarqué et pleinement
-justifié. L'art poétique signifierait l'art</p>
-<p><pb/></p>
-<p>— 12 —</p>
-<p>Ne craignez point l'enjambement D'un vers sur l'autre : un trait sublime
-Jaillit parfois de cette escrime Où l'art se joue innocemment.</p>
-<p>On voit que l'exemple va avec le précepte et qu'ils</p>
-<p><pb/></p>
-<p>— 13 —</p>
-<p>se trouvent bien ensemble; je ne sache pas, en effet , qu'on ait droit
-de s'en plaindre.</p>
-<p><pb/></p>
-<p>— 14 —</p>
-<p><pb/></p>
-<p>— 15 —</p>
-<p>Le temps a respecté la splendide auréole Qui brille au front d'Homère ;
-et la nouvelle Ecole, Tout, en se séparant des dieux qui ne sont plus, D
-emande que ses vers soient sans cesse relus.</p>
-<p>A côté de Virgile, du Tasse et deMilton, nous voudrions voir le Dante
-(1), qui est bien la figure épique la plus originale qu'il y ait dans le
-monde et l'un des dieux lés plus vénérés des romantiques. — Le dernier
-précepte que donne l'auteur aux poètes épiques, c'est de s'inspirer de
-la foi. Ce précepte, nouveau dans un traité didactique, a une grande
-portée : l'épopée vit du merveilleux, et le merveilleux, quand on y
-touche sans la foi, a souvent un air faux qui manque de naï.(1)</p>
-<p>naï.(1) a réparé cette omission.</p>
-<p><pb/></p>
-<p>— 16 —</p>
-<p>veté et de vérité; les grandes épopées, en effet, sont toutes le fait
-d'une foi religieuse,, vive et générale : c'est sans doute pour cela que
-M. Alciator dit, en parlant des grands poètes épiques :</p>
-<p>Mais des siècles nombreux s'écouleront encor Avant qu'en d'autres mains
-vibre leur lyre d'or.</p>
-<p><pb/></p>
-<p>— 17 —</p>
-<p>Hors des chemins battus bien fou qui ne s'élance ;</p>
-<p>Oui, bien fou qui se livre au labeur singulier , »■</p>
-<p>De ramp.er sous un maître, ainsi qu'un écolier :</p>
-<p>Il lui faudra subir, quel que soit son génie,</p>
-<p>D'un pâle imitateur la mortelle agonie.</p>
-<p>Songez donc que Corneille a mille fois maudit</p>
-<p>Des règles des anciens l'incroyable crédit :</p>
-<p>Si sa virile audace eût brisé cette chaîne,</p>
-<p>A produire un chef-d'oeuvre il eût eu moins de peine.</p>
-<p>Une fois lancé dans les hardiesses, où.doit-on s'arrêter? Boileau avait
-dit :</p>
-<p>Le vrai peut quelquefois n'être pas vraisemblable.</p>
-<p>(1) On verra que le Dante et Shakespeare n'ont pas été oubliés dans
-cette nouvelle édition.</p>
-<p><pb/></p>
-<p>— 18 — M. Alciator affirme que :</p>
-<p>Le vrai, quoi qu'on en dise, est toujours vraisemblable.</p>
-<p>On s'est souvent demandé ce qu'il y a de plus difficile, d'une tragédie
-ou d'une comédie. Les faits répondent assez haut : un grand comique est
-rare, tandis que la tragédie compte d'assez nombreux favoris. De là
-l'éloge naturellement amené de Molière, et cette pensée que, si Molière
-revenait parmi nous, il trouverait :</p>
-<p>De quoi nourrir longtemps sa railleuse colère.</p>
-<p>Ce qui fait voir que la matière comique ne manque pas, mais que c'est
-plutôt un génie supérieur pour la traiter.</p>
-<p><pb/></p>
-<p>— 19 —</p>
-<p>Rien n'est gai, sémillant et facile., comme les strophes sur le
-vaudeville, ici personnifié, et parlant lui-même de ses malices et de
-ses gentillesses. Il nous semble que M. Alciator a surtout réussi dans
-ce qu'il a fait pour les genres légers, tels que la chanson, la ballade,
-le vaudeville, le sonnet. Il est vrai que pour donner un spécimen, même
-imparfait, de certains autres genres, il eût fallu étendre beaucoup son
-ouvrage : ces grands arbres qu'il eût ainsi plantés, eussent
-certainement caché et étouffé les arbustes charmants et les plantes
-gracieuses qu'il nous a donnés.</p>
-<p><pb/></p>
-<p>— 20 —</p>
-<p>La dernière partie de l'Art dans la poésie se compose d'une comparaison
-entre la poésie moderne et la poésie ancienne.</p>
-<p>Nous aurions désiré que M. Alciator ajoutât quelques vers encore pour
-recommander aux poètes de son école d'éviter les défauts qu'on leur a
-reprochés souvent avec raison : le vide de certaines idées et de
-certaines images, la dureté et la négligence affectée du style, leur
-irrévérence pour une foule de choses respectables. M. Alciator leur
-aurait ainsi rendu un grand service en leur faisant comprendre que
-l'élégance de la forme et le bon goût vont bien avec le mérite du fond,
-et que cette union est non-seulement toujours possible, mais encore
-toujours nécessaire.</p>
-<p>Voici maintenant l'opinion de deux journaux marseillais, lorsque parut
-pour la première fois l'Art dans la poésie :</p>
-<p>Le Nouvelliste s'exprimait ainsi par l'organe de Théophile Bosq, le
-célèbre auteur de Noéma ou Les</p>
-<p><pb/></p>
-<p>— 21 —</p>
-<p>amours d'un Ange, poème qui fut dignement apprécié par Lamartine :</p>
-<p><pb/></p>
-<p>— 22 —</p>
-<p>« En résumé, le nouveau volume de M. B. Alciator, écrit avec
-l'imagination et le coeur, fait également aimer l'homme et le poète,
-N'est-ce pas le meilleur éloge que nous en puissions faire ?»</p>
-<p>(Le Nouvelliste). — Th. BOSQ.</p>
-<p>La Gazette du Midi a donné son appréciation en ces termes :</p>
-<p><pb/></p>
-<p>— 23 —</p>
-<p>(Gazette du Midi).</p>
-<p>Un poète, qui est aussi un savant de premier ordre, et qui parle
-admirablement la langue de Virgile et d'Horace, M. D. Rossi (1), nous a
-fait l'honneur de tra(1)</p>
-<p><pb/></p>
-<p>— 24 —</p>
-<p><pb/></p>
-<p>— 25 —</p>
-<p><pb/></p>
-<p>— 26 —</p>
-<p>— Dissertation médicale sur l'acide phénique proposé comme remède par le
-docteur Déclat de Paris. — Navigation et Astronomie. — Traité de
-Philosophie, dont le Dictionnaire universel a fait mention honorable.</p>
-<p>(1) Cet ouvrage et l'Etude sur l'origine de l'homme sont en vente à
-Paris, chez Reinwald, rue des Saints-Pères, 15. — Prix : 2 fr. 50 et 1
-franc.</p>
-<p><pb/></p>
-<p>— 27 —</p>
-<p><pb/></p>
-<p>— 28 —</p>
-<p>« Hanteville-House, 29 novembre 1868.</p>
-<p>&lt;&lt; Je reçois, Monsieur, avec émotion et reconnaissance, votre&lt;&lt; précieux
-et gracieux cadeau. J'ai lu toutes ces belles et nobles « pages qui
-respirent la patrie et la liberté. En échange de votre « livre, qui est
-un vrai livre d'or, recevez ceci où j'ai mis mon « âme. Vous le savez,
-j'aime profondément l'Italie, et je combats « pour elle avec l'idée,
-comme Garibaldi avec l'épée.</p>
-<p>« Je vous serre la main.</p>
-<p>« VICTOR HUSO. »</p>
-<p><pb/></p>
-<p>— 29 —</p>
-<p>(1) Mot créé par Corneille et regardé trop longtemps par les
-lexicographes comme un barbarisme.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>TRADUCTION</p>
-<p>DU PRELUDE DE L'ART DANS LA, POESIE</p>
-<p>0 tu quem genius quandoque attentat amicus,</p>
-<p>Visne lyra gratum solers deducere carmen,</p>
-<p>Postera quod répétât, quod non ulla eximet aetas?</p>
-<p>Contendisne gradu céleri percurrere calles</p>
-<p>Aroanos Artis, nec inania nubila captans ?</p>
-<p>Naturam sequere : hsec lex, hoc tanto auspice multiun</p>
-<p>Proficies ; nec tu vero distantia fingas :</p>
-<p>Est modus in rébus ; semper misce utile dulci :</p>
-<p>Extento vives, acceptus amabens oevo. ,</p>
-<p>Non unquam incipiàs largo promissor hiatu : Ni hoc vitium vites,
-marcescent languida verba Qui cadit ex alto, ingentem trahit ipse
-ruinam. Lucidusesto : intus doleo vehementer etangor, Auctor cum vacuus
-sese veneratur et ultro Diligit, obscuris nec noscens abdita chartis. Tu
-nimis alta petis, clamo, procul esto, recède.</p>
-<p><pb/></p>
-<p>— 32 —</p>
-<p>Quidquid agas, esto simplex duntaxat etunum : Hsec sapiens v'eteri
-émanât sententia Divo ; Nuntiathanc pressens numen, totumque per orbem.
-Respicias undas pelagi, liquidum asthera, flammas, Corde refers memori :
-mens et vox omnibus una. Sit natura poesis ": erit virtùsque decusque (2).</p>
-<p>(1) M. D. Rossi avait fait d'abord cet excellent vers :</p>
-<p>Ornate dieas; tenui tua carmina cura Desine.</p>
-<p>(2) Pour profiter de l'imitation que le crois heureuse du Sit pietura
-poesis, il m'a fallu ajouter un hémistiche dont les mots ne se trouvent
-pas dans l'original. Tous les traducteurs en .sont là, Delille,
-Pongerville, etc..{Note du Traducteur).</p>
-<p><pb/></p>
-<p>— 33 —</p>
-<p>Ast fuge consimiles simili modulamine cantus, Namque aliter scriptis
-accedit gratia nulla. Cui sublime datum nascenti mentis acumen, Concentu
-eximio carmen variare laborât.</p>
-<p>D. Rossi.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>L'ART DANS LA POÉSIE</p>
-<p>PRELUDE</p>
-<p>RÈGLES FONDAMENTALES DE L ART DANS LA POESIE</p>
-<p>Prétendez-vous d'un pas rapide Parcourir les sentiers secrets De l'Art,
-sans errer dans le vide? Suivez la Nature : un tel guide Hâtera beaucoup
-vos progrès</p>
-<p><pb/></p>
-<p>Au début évitez l'emphase : Celui qui tombe en ce défaut Verra bientôt
-languir sa phrasé. La chute souvent vous écrase, Quand on trébuche de si
-haut.</p>
-<p>Soyez clair : ma peine est extrême Lorsque je vois certain rimeur Qui
-sottement se flatte et s'aime , Et ne se comprend pas lui-même : Loin de
-moi ce profond rêveur !</p>
-<p>Soyez correct ; soignez la rime. Ne craignez point l'enjambement D'un
-vers sur l'autre : un trait sublime Jailit parfois de cette escrime Où
-l'art se joue innocemment.</p>
-<p>Souvenez-vous qu'en tout ouvrage</p>
-<p>Il faut observer l'unité :</p>
-<p>Cette sentence antique et sage,</p>
-<p><pb/></p>
-<p>— 37 —</p>
-<p>Loin d'être un inutile adage, Nous vient de la Divinité.</p>
-<p>Oui, le Dieu vivant la proclame Dans tous les coins de l'Univers ; Voyez
-l'onde, l'air et la flamme : Partout même voix et même âme : — Qu'il
-soit ainsi de l'art des vers.</p>
-<p>Mais fuyez lamonotonie :</p>
-<p>Par elle un chef-d'oeuvre est gâté.</p>
-<p>L'écrivain doué de génie</p>
-<p>Sait jeter dans son harmonie</p>
-<p>Une heureuse variété.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>CHANT PREMIER</p>
-<p>L ELEGIE ET L IDYLLE. — L ODE. — LE SONNET.</p>
-<p>L'ÉPIGRAMME. — LA SATIRE. — LA FABLE. — LA CHANSON.</p>
-<p>LA BALLADE. — LE POÈME ÉPIQUE.</p>
-<p>La modeste Elégie, au regard triste et doux, Est une vierge solitaire
-Qui semble n'habiter la terre Que pour aimer et pleurer avec nous.</p>
-<p><pb/></p>
-<p>— 40 —</p>
-<p>Est-elle gaieî? alors sa verve .est plus facile ;</p>
-<p>Alors elle s'habille en élégante Idylle ;</p>
-<p>L'Ode (1), plus fière, plus sublime, Se plaît sur le bord des torrents,
-Sur le gouffre où l'onde s'abîme, Sur les mers, sur la haute cime Des
-forêts et des monts géants.</p>
-<p>(1) Lisez les belles Odes de Victor Hugo et de Lamartine.</p>
-<p><pb/></p>
-<p>— 41 —</p>
-<p>Le monde entier est son empiré : Elle exalte l'Humanité ; Avec la terre
-elle soupire ; A tous les mortels elle inspire L'amour pur de la Liberté.</p>
-<p>Sans plus tarder, Muse docile, Tu vas nous rimer un Sonnet. Par ma barbe
-! il n'est pas facile De le rendre élégant et net.</p>
-<p>Tout mot qui deux fois s'y faufile Passe toujours pour indiscret ; La
-tâche devient difficile Quand on approche du tercet.</p>
-<p><pb/></p>
-<p>— 42 -</p>
-<p>D'avoir cru Despréaux lui-même M'offrant le prix d'un long poème ! Mais
-non... grâce au ciel, j'ai fini.</p>
-<p>La pointilleuse Epigramme A pour père Martial, Qui n'eut jamais son égal
-Dans l'art d'insulter homme et femme.</p>
-<p>Finesse, esprit et gaîté Doivent orner ce court poème Qu'inventa la
-méchanceté, Et que je frappe d'anathème ; Car il ne mérite pas même
-L'honneur de la publicité.</p>
-<p>N'avons-nous pas la Satire Pour flétrir les mauvaises moeurs ? Devant
-ses nobles fureurs, Qui parfois nous font sourire, Le vice pâlit, se
-retire ; Et le sot, qui toujours s'admire, Succombe sous lès traits
-railleurs.</p>
-<p><pb/></p>
-<p>— 43 —</p>
-<p>Muse, si je m'armais de ta lourde férule,</p>
-<p>Je frapperais bien fort sur ce fat ridicule</p>
-<p>Qui porte le front haut, mais dont le coeur est bas ;</p>
-<p>Qui croit que le destin ne l'a mis ici-bas</p>
-<p>Et des plus doux plaisirs ignorer le mystère.</p>
-<p>Et vous, riches oisifs, vous, libertins infâmes, ' Qui dépensez votre or
-en dégradant vos âmes. Et n'imitez jamais ces apôtres zélés Par qui les
-malheureux sont toujours consolés.</p>
-<p><pb/></p>
-<p>— 44 —</p>
-<p>Prenez garde! Craignez d'irriter le poète!</p>
-<p>Il a, pour "vous punir, son arme toute prête.</p>
-<p>En présence d'un sot,, il se détourne et rit ;</p>
-<p>Mais vous... son -vers vengeur sans pitié vous flétrit.</p>
-<p>Fables simples, Fables naïves, Que dirai-je de ces tableaux Aux couleurs
-si fraîches, si vives, Nés sans effort sous vos pinceaux?</p>
-<p>De vos fines allégories L'art profond ne se montre pas ; Gomme en de
-riantes prairies, Les fleurs y naissent sous vos pas.</p>
-<p>Tantôt gravés, tantôt légères, Mais toujours vierges au front pur, Vous
-avez des leçons austères Pour l'enfance et pour J'âge mûr.</p>
-<p>Vous nous parlez, comme les sages, Un langage clair, simple et net.
-L'unité règne en vos ouvrages : Chacun d'eux est un tout complet ;</p>
-<p>Chacun d'eux est un petit drame Plein de charme et de vérité,</p>
-<p><pb/></p>
-<p>— 45 —</p>
-<p>Qui subjugue et réjouit l'âme Par un air de sincérité.</p>
-<p>Avec quel art, bon La Fontaine, Tu fais parler tes animaux ! Et comme tu
-sais mettre en scène Les vices, sources de nos maux !</p>
-<p>Ah ! sans doute un divin génie Te révéla le coeur humain :' Page
-immense, page infinie, Qui se déroule sous ta main.</p>
-<p>Qui t'a lu, veut te lire encore. D'où vient le charme séduisant De tes
-tableaux? Nul ne l'ignore, C'est que tu plais en instruisant ;</p>
-<p>C'est que la voix de la nature Parle dans tes faciles vers, Comme le
-suave murmure Du ruisseau dans les gazons verts.</p>
-<p><pb/></p>
-<p>— 46 —</p>
-<p>La chanson est simple et modeste. Pourtant nous la voyons parfois, Sur
-un ton sublime ou fort leste, Fronder les sots, punir les rois, Du
-peuple proclamer les droits. D'une aimable gaîté le chansonnier
-s'inspire ; Il passe doucement ses jours</p>
-<p>A chanter sur sa lyre Et la sagesse et les amours.</p>
-<p><pb/></p>
-<p>— 47 —</p>
-<p>A chanter sur sa lyre Et la sagesse et les amours.</p>
-<p>La chanson est l'oeuvre des Grâces : . Son luth léger, harmonieux, Dans
-tous les coeurs laisse des traces. Célébrez l'amour et ses jeux, Et vous
-serez égal aux dieux. D'un aimable gaîté le chansonnier s'inspire ; Il
-passe doucement ses jours</p>
-<p>A chanter sur sa lyre Et la sagesse et les amours (1). * Dans la Ballade
-(2), Rivale de l'Ode en son vol, Gardez-vous d'un style fade. Loin de
-ramper sur le sol,</p>
-<p>(1) Nous avons peint Bérenger dans cette Chanson.</p>
-<p>(2) Lire les Ballades de Victor Hugo.</p>
-<p><pb/></p>
-<p>— 48 —</p>
-<p>Tantôt elle suit les traces De l'aigle qui fend les espaces Et va se
-poser sur un mont;</p>
-<p>Tantôt, comme la colombe, Elle s'élève, puis retombe Près d'une vierge
-au chaste front.</p>
-<p>Voyez cette infernale ronde</p>
-<p>Où la dent grince, où le coeur bat,</p>
-<p>Où les démons, troupe immonde, Insultent Dieu, narguent le monde :</p>
-<p>C'est la ronde du sabbat !</p>
-<p>Voyez sur les vertes pelouses Où l'ange du matin a répandu ses pleurs,
-Danser les amantes jalouses Près d'un ruisseau, parmi les fleurs</p>
-<p>C'est la Ballade Qui, reine du choenr, le conduit Au milieu d'une
-myriade De sylphes que son chant séduit.</p>
-<p><pb/></p>
-<p>— 49 —</p>
-<p>Voyez encor ces pâles ombres Danser autour de ce tombeau, Lorsque l'Ange
-du soir étend ses ailes sombres Comme les ailes du corbeau :</p>
-<p>C'est la Ballade Qui, reine du choeûf, le conduit Aux lugubres accents
-de sa voix, quesaceade La terreur qu'inspire la nuit.</p>
-<p>Cette Muse échevelée</p>
-<p>Mais il est un concert dont mon âme est frappée : Les Dante, les Soumet,
-le nomment Epopée. Ce chant est plus qu'un chant, c'est un drame eu
-récit Qui brille avec éclat, et parfois s'assombrit, Lorsque les
-passions, fortement dessinées, Comme des flots houleux paraissent
-mutinées. Lisez, lisez d'abord ce barde glorieux Qui chante en si beaux
-vers les hommes et les dieux Les Grâces, sans rougir, lui prêtent leur
-ceinture, Quand son brillant pinceau nous dépeint la nature.</p>
-<p>4</p>
-<p><pb/></p>
-<p>— 50 —</p>
-<p>Partout son merveillenx, au voile transparent,</p>
-<p>Nous laisse découvrir quelque chose de grand.</p>
-<p>Sa riche poésie est une vaste mine</p>
-<p>Où l'on voit du gravier, mais où l'or pur domine ;</p>
-<p>Et qui sait la comprendre y trouvera toujours</p>
-<p>A côté de la nuit de magnifiques jours.</p>
-<p>Le temps a respecté la splendide auréole</p>
-<p>Qui brille au front d'Homère: et la nouvelle Ecole,</p>
-<p>Tout en se séparant des dieux qui ne sont plus,</p>
-<p>Demande que ses vers soient sans cesse relus.</p>
-<p><pb/></p>
-<p>— 51 —</p>
-<p>Ne vous égarez pas en maints détails frivoles ; Soyez clair, naturel.
-Surtout que vos paroles, Dans un sujet pieux, s'inspirent de la Foi : Un
-poète me touche en croyant comme moi.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>CHANT DEUXIÈME</p>
-<p>IDÉE GÉNÉRALE ET REGLES FONDAMENTALES DU DRAME.</p>
-<p>LE VAUDEVILLE.</p>
-<p>LA COMÉDIE. — LA TRAGÉDIE.</p>
-<p><pb/></p>
-<p>— 54 —</p>
-<p>Observez l'unité dans chaque caractère,</p>
-<p>Dans les traits de détails, dans l'action entière :</p>
-<p>Que le début, la fin, répondent au milieu (i).</p>
-<p>Mais loin d'être l'esclave et du temps et du lieu,</p>
-<p>Dans vos divers tableaux gardez la vraisemblance.</p>
-<p>Hors des chemins battus bien fou qui ne s'élance ;</p>
-<p>Oui, bien fou qui se livre au labeur singulier</p>
-<p>De ramper sous un maître,, ainsi qu'un écolier :</p>
-<p>Il lui faudra subir,, quel que soit son génie,</p>
-<p>D'un pâle imitateur la mortelle agonie.</p>
-<p>Songez donc que Corneille a mille fois maudit</p>
-<p>Des règles des anciens l'incroyable crédit :</p>
-<p>Si sa virile audace eût brisé cette chaîne,</p>
-<p>A produire un chef-d'oeuvre il eût eu moins de peine ;</p>
-<p>Il eût mis dans son art bien plus de vérité,</p>
-<p>A prendre un libre essor la Poésie aspire ;</p>
-<p>Sans borne est son domaine : — ainsi Dante et Sheskpire</p>
-<p>Ont vu grandir leur gloire en montrant le chemin</p>
-<p>Où doit, sans s'arrêter, marcher l'esprit humain (2)..</p>
-<p>(1) Ce vers, traduit d'Horace, est de Boileau.</p>
-<p><pb/></p>
-<p>— 55 —</p>
-<p>Faites que l'action clairement se dessine : L'esprit de l'auditeur se
-fatigue bientôt, Quand du noeud de l'intrigue il cherche en vain le mot.
-Le vrai, quoi qu'on en dise, est toujours vraisemblable; Peignez le
-coeur humain : dans ce livre admirable Si vous savez puiser, vous serez
-éloquents Hors de là, vous tombez dans des écarts fréquents.</p>
-<p>Fuyez avec horreur les peintures obscènes. Qu'avec rapidité se succèdent
-les scènes; Que l'action, tracée en style vif, pressant, Inspire
-jusqu'au bout un intérêt croissant.</p>
-<p>et que nous en profitons, lorsqu'elle est bienveillante et juste comme
-celle de M. Beaumarchey.</p>
-<p><pb/></p>
-<p>— 56 —</p>
-<p><pb/></p>
-<p>— 57 —</p>
-<p>Pour ces plats courtisans, caméléons de cour,</p>
-<p>Qui vendent leur honneur aux tout-puissants du jour ;</p>
-<p>Pour ces roués tribuns, nains de la République;</p>
-<p>Pour ces fiers épiciers, Washingtons en boutique,</p>
-<p>Se croient nés, eux aussi, pour régenter l'Etat.</p>
-<p>Oh !. oui, tu trouverais parmi nous, ô Molière,</p>
-<p>De quoi nourrir longtemps ta railleuse colère.</p>
-<p>La Muse comédienne estime encor Regnard, Comme la tragédie est fière de
-Ponsard ; Mais le plus digne enfant de Molière, et peut-être Son égal,
-c'est Augier : quel disciple ! quel maître !</p>
-<p>La plupart des auteurs, dans leur aveuglement,</p>
-<p>Cherchent devinez quoi ? — Le succès du moment :</p>
-<p>C'est le gain avant tout que convoite leur âme. Poètes qui courez la
-carrière du Drame, Voulez-vous de mes vers retirer quelque fruît ? D'une
-oreille attentive écoutez ce qui suit :</p>
-<p>LE VAUDEVILLE</p>
-<p>Je suis ce joyeuxyaudeville</p>
-<p>Qui, dans sa prose et dans ses vers,</p>
-<p><pb/></p>
-<p>— 58 —</p>
-<p>De la campagne et de la ville Met en scène tous les travers.</p>
-<p>A mon aimable raillerie La Cour même n'échappe pas, Quand de ma soeur la
-Comédie Avec orgueil je suisses pas.</p>
-<p>Sur mon théâtre plein de charmes, Où règne la folle gaîté, Je fais
-souvent tomber les larmes... Et les armes de la beauté.</p>
-<p>Bourgeois, villageois et grisettes Y viennent produire au grand jour Les
-malices les plus secrètes De leurs rivalités d'amour.</p>
-<p><pb/></p>
-<p>- 59 -</p>
-<p>Mais un malin coq de village Guette de près le vert galant, Le
-supplante, et la fille sage Devient le prix de son talent.</p>
-<p>Ainsi, par des fables charmantes Qu'assaisonnent des mots railleurs, Je
-donne des leçons piquantes Aux villageois, aux grands seigneurs.</p>
-<p>J'aime qu'une noble décence Respire dans tous mes portraits : Les
-allures de la licence Aux yeux du sage ont peu d'attraits.</p>
-<p>Vous tous, mortels mélancoliques, Venez entendre mes discours : Mes
-chants si gais, mes chants magiques, Sauront vous dérider toujours.</p>
-<p>Je suis ce joyeux vaudeville Qui, dans sa prose et dans ses vers, De la
-campagne et de la ville Met en scène tous les travers.</p>
-<p><pb/></p>
-<p>60 —</p>
-<p>LA COMEDIE</p>
-<p>Je suis l'aimable Comédie : J'enseigne la sagesse en riant, et parfois</p>
-<p>Sur les pas de la Tragédie J'ose m'aventurer. en grossissant ma voix.</p>
-<p>Sur mon théâtre, les a-vares, Les fripons parvenus, les pages effrontés,</p>
-<p>Les sots, les médecins ignares, Lés fats et les valets, sont rudement
-fouettés.</p>
-<p>Je n'épargne ni la coquette, Ni la duègne au coeur dur, ni la prude à
-l'oeil faux ;</p>
-<p>Mais c'est surtout pour l'hypocrite Que ma verve a gardé ses traits les
-plus sanglants :</p>
-<p>Hé ! quel noble coeur ne s'irrite D'entendre ses sermons, — et ses
-propos galants ? '</p>
-<p>Ce saint si bénin sans relâche Contre madame Orgon poursuit son attentat ;</p>
-<p>Il caresse, il rampe, il se cache, Mais se montre en public grave comme
-un prélat.</p>
-<p><pb/></p>
-<p>— 61 —</p>
-<p>A la foule qui s'en amuse Mon sarcasme éloquent montre ce qu'elle vaut.</p>
-<p>C'est ainsi'que je vous corrige, En prose comme en vers, ô mortels
-vicieux !</p>
-<p>Je vous berne, je vous fustige : Hélas ! ainsi battus, vous
-conduisez-vous mieux ?</p>
-<p>Mon art est celui de médire ; Mais tous ne savent pas le faire avec
-esprit :</p>
-<p>Combien, dans leur grossier délire, Nous offrent de ces mets dont un sot
-se nourrit !</p>
-<p>Il faut que l'intérêt du drame Croisse de scène en scène au sein de la
-gaîté :</p>
-<p>Le public veut rire, et réclame Des portraits amusants, mais pleins de
-vérité.</p>
-<p>Je suis l'aimable Comédie : J'enseigne la sagesse en riant, et parfois</p>
-<p>Sur les pas de la Tragédie J'ose m'aventurer en grossissant ma voix.</p>
-<p><pb/></p>
-<p>- 62</p>
-<p>LA TRAGEDIE</p>
-<p>Je suis la Muse triste et fière Dont chaque hymne de gloire est un hymne
-de deuil : Des grandeurs d'ici-bas je fais voir la poussière, Et je
-donne aux vivants les leçons du cercueil.</p>
-<p>Ici je montre l'innocence Succombant sous les coups de ce monde pervers
-; Ici je la relève, et brise la puissance De ceux dont les forfaits
-étonnent l'univers.</p>
-<p>De l'amour décrivant les charmes, Parfois je m'abandonne aux rêves les
-plus doux ; Mais hélas ! ce n'est point sans répandre des larmes, 0
-mortels ! sur les maux qui vous attendent tous.</p>
-<p><pb/></p>
-<p>- 63 —</p>
-<p>Je suis la Musé triste et fière Dont chaque hymne de gloire est un hymne
-de deuil ; Des grandeurs d'iei-bas je fais voir la poussière, Et je
-donne aux vivants les leçons du cercueil.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>CHANT TROISIEME</p>
-<p>POESIE MODERNE COMPAREE A L ANCIENNE</p>
-<p>A la source de poésie,</p>
-<p>Jeune homme, veux-tu t'abreuver 1</p>
-<p>As-tu l'aimable fantaisie</p>
-<p>De goûter de cette ambroisie</p>
-<p>Interroge cette nature Dont le langage est tout de feu ; Contemple sa
-riche structure ; Ecoute l'éternel murmure Qu'elle répète devant Dieu.</p>
-<p>Ecoute la brise légère Qui pleure en glissant sur les flots, Sur les
-monts ou sur la fougère : Sa plainte n'est pas étrangère Aux pèlerins,
-aux matelots.</p>
-<p><pb/></p>
-<p>- 66 —</p>
-<p>Écoute le rhythme et le nombre Du grand concert des ouragans, Concert
-infernal, lorsque sombre Le navire dans la nier sombre, Cette fiêre
-épouse des vents ;</p>
-<p>L'écrivain dont l'âme inquiète Verra les choses que je vois, Pourra dire
-qu'il est poète ; Il pourra se dire interprète De ces mélodieuses voix.</p>
-<p>Oh ! oui, je suis fier, je l'avoue, De comprendre leurs chants divers ;
-Et la Fortune dont la roue, En broyant les mortels, se joue, N'anéantira
-pas mes vers :</p>
-<p>Car ces vers sont la pure image Des soupirs qu'exhalent les bois, Des
-sons que produit le rivage,</p>
-<p><pb/></p>
-<p>— 67 —</p>
-<p>Quand la vague chante un hommage Au Dieu suprême, au roi des rois.</p>
-<p>Parfois il arrose de larmes . La Terre qu'il entend gémir : Bientôt,
-oubliant ses alarmes, Il retournera, plein de charmes, Au couchant doré
-s'endormir.</p>
-<p><pb/></p>
-<p>— 68 —</p>
-<p>Et cette étoile sans pareille Qui brille alors, est-ce Vénus? Non, c'est
-l'Ange du soir qui veille : Pendant que la Terre sommeille, Il chante,
-et les Cieux sont émus.</p>
-<p>Les Naïades dans les; fontaines Ne se baignent plus éii secret ; Les
-Dryades, parmi les chênes, Ne s'en vont plus conter leurs peines Aux
-beaux oiseaux de la forêt :</p>
-<p>Fée et Péri, vierges si belles, Seules y répandent des pleurs ; Les
-sylphes, déployant leurs ailes, Sous la forme dé demoiselles Volent sur
-l'onde ou surles fleurs.</p>
-<p>(1) Expression de Boileau dans son Art poétique.</p>
-<p><pb/></p>
-<p>— 69 —</p>
-<p>Mais on voit d'aimables fantômes Passer, passer en souriant : Ils sont,
-hélas ! ce que nous sommes, Car ils passent comme les hommes, Chantant,
-gémissant et priant.</p>
-<p>Echo n'est plus la nymphe impure Qui se plaint d'un joli garçon : C'est
-encor ta -voix, ô Nature ! Voix qui répond par un murmure A notre voix
-dans le vallon. ,</p>
-<p>Dans ce monde tout est mystère ; Tout chante un hymne solennel ■: Cet
-hymne monte solitaire, Comme un long soupir de la tere Qui, souffrante,
-se plaint au ciel !</p>
-    </div>
+      <div>
+        <p><pb/> ------------------------------------------------------------------------ ------------------------------------------------------------------------</p>
+        <p>B. ALCIATOR,</p>
+        <p>L'ART</p>
+        <p>DANS LA POESIE</p>
+        <p>POEME EN TROIS CHANTS</p>
+        <p>QUATRIEME ÈDITIO</p>
+        <p>Revue, augmentée et précédée d'appréciations des meilleurs écrivains.</p>
+        <p>PRIX : 1 FRANC</p>
+        <p>MARSEILLE CHEZ L'AUTEUR, BOULEVARD DU JARDIN-ZOOLOGIQUE, 28</p>
+        <p>ET CHEZ LES PRINCIPAUX LIBRAIRES.</p>
+        <p>1876</p>
+        <p><pb/> ------------------------------------------------------------------------ ------------------------------------------------------------------------ ------------------------------------------------------------------------</p>
+        <p>L'ART DANS LA POÉSIE</p>
+        <p>POEME EN TROIS CHANTS</p>
+        <p>QUATRIÈME ÉDITION</p>
+        <p>
+          <pb/>
+        </p>
+        <p>AUTRES OUVRAGES DE B. ALCIATOR</p>
+        <p>EN VENTE CHEZ L'AUTEUR</p>
+        <p>La Nouvelle Atala et Daïla, avec descriptions comparées</p>
+        <p>de Chateaubriand et d'Alciator, 1 vol. in-16, prix : 3"fr. 50.</p>
+        <p>Une femme très-distinguée de te presse parisienne a publié elle-même ceci : « La Nouvelle Atala est un livre.empreint de poésie, pur de style, honnête d'intention, et que la jeune fille e chaste pourra lire sans avoir l'esprit troublé. »</p>
+        <p>La Gazette du Midi affirme que la Nouvelle Atala est une fleur du désert américain, DISNE DE SON AÎNÉE.</p>
+        <p>Une femme célèbre comme poète, M" 0 Anaïs Ségalas, a dit : « La Nouvelle Atala et Daïla sont des oeuvres largement conçues, « .dont le plan et le coloris sont essentiellement poétiques. »</p>
+        <p>Une autre femme célèbre a dit que Daïla est un livre infiniment remarquable et qu'on y sent le goût du vrai, inséparable de celui du beau. Victor Hugo a dit aussi que c'est une remarquable oeuvre.</p>
+        <p>' TRADUCTION EN VERS FRANÇAIS de l'Art poétique d'Horace et des Satires de Perse, précédée d'une appréciation de M. Géruzez, ancien suppléant de Villemain au Collège de France, 4"" édition, un volume in-18, prix : 2 francs.</p>
+        <p>MARSEILLE. -7 Typ. et Lith. CAYER &amp;. Cie, rue Saint-Ferréol, 57.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>B. ALCIATOR</p>
+        <p>|L'ART</p>
+        <p>DANS. LA POÉSIE</p>
+        <p>POEME EN TROIS CHANTS</p>
+        <p>QUATRIEME EDITION</p>
+        <p>Revue, augmentée et précédée d'appréciations des meilleurs écrivains.</p>
+        <p>MARSEILLE CHEZ L'AUTEUR , BOULEVARD DU JARDIN-ZOOLOCIQUE , 28</p>
+        <p>ET CHEZ LES PRINCIPAUX LIBRAIRES.</p>
+        <p>1876</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>AVERTISSEMENT DE L'AUTEUR</p>
+        <p>Voici en quels termes un des membres les plus illustres de l'Académie française exprime son jugement :</p>
+        <p>« Je ne comprends pas la critique qu'on vous a faite de « mettre en vers libres l'Art poétique de Boiieau. Vous avez « fait un art poétique en rapport avec les changements sur-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>- 6 —</p>
+        <p>« venus dans les esprits ; vous avez fait pour votre temps « ce que Boiieau a. fait pour le sien : je vous en félicite, et « vous en remercie. »</p>
+        <p>Un jeune prêtre, M. l'abbé Chavard, curé de Genève, écrivain et théologien éminent dans le CÉLIBAT DES PRÊTRES ET SES CONSÉQUENCES, affirme sans la moindre flatterie, dit-il, que la Nouvelle Atala et Daïla sont deux véritables chefs-d'oeuvre, et il en. dit autant de l'Art dans la Poésie.</p>
+        <p>Un savant, qui est aussi un excellent poète, M. D. Bossi, a confirmé le jugement d'Emile Augier en disant que B. Alciator est le Boiieau des temps modernes.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>OBSERVATIONS CRITIQUES</p>
+        <p>DE</p>
+        <p>M. BEAUMARCHEY, ancien professeur de l'Université &lt;r&lt;</p>
+        <p>Au commencement de ce siècle une scission se fit entre les hommes de lettres, et ce ne fut pas sans bruit, car la querelle des classiques et des romantiques a eu un retentissement qui est loin d'être oublié. IL y a peu d'écrivains et surtout de critiques qui n'aient essayé de définir et de caractériser l'un et l'autre camp. On a appelé classiques les écrivains qui, avant d'aborder l'oeuvre toujours difficile de la composition, se pénétraient des préceptes que nous ont laissés les anciens à</p>
+        <p>(1) La lr 0 édition de ce poème a paru en 1852 ; la 2»° en 1860' avec la très-remarquable appréciation qu'on va lire, et dont nous n'avions supprimé que les premières pages, dû il est question de la lutte entre l'Ecole classique et l'Ecole romantique. Nous avons cru devoir les reproduire ici, parce qu'elles sont intéressantes à.plus d'un titre.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 8 —</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 9 —</p>
+        <p>Le romantisme, né des études historiques et littéraires du moyen-âge, ne manquait pas d'ajouter : La prédominence classique est une usurpation moderne ; elle date du jour où nos ancêtres se prirent d'une belle passion pour les ouvrages des anciens, retrouvés et nouvellement imprimés. Mais sous le rapport de l'art, le génie moderne avait déjà fait ses preuves de force, d'originalité et de fécondité : nos grandes constructions religieuses et féodales sont-elles imitées des anciens? Est-ce dans l'antiquité que s'est inspirée la peinture moderne? Le génie et la gloire des peuples chrétiens doivent avoir leur originalité propre : ce ne sont pas les ressources qui manquent ni pour les idées, ni pour les sentiments ; pourquoi donc raviver desidées qui ne sont plus, des formes vaines et mensongères pour nous, et profaner la civilisation chrétienne par le culte d'une forme toute païenne? — A cela les classiques répondent que les anciens offrent des modèles d'un goût, d'un fini que les modernes ont vainement cherché, et que , sous le rapport de l'art, les anciens sont et seront toujours nos maîtres. Les romantiques alors de s'écrier: Croyez-vous donc que le sentiment du beau n'existe pas chez les modernes et qu'il n'y ait pas parmi nous des organisations aussi heureuses que chez les anciens? Laissez ces êtres d'élite se manifester</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 10 —</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 11 —</p>
+        <p>Comme poète romantique, M. Alciator est d'autant plus important à étudier, qu'il vient de faire et de pu, blier ni plus ni moins que l'art poétique de l'école romantique , ce que notre auteur appelle l'Art dans la poésie.</p>
+        <p>Le titre du poème ne manquera pas d'être remarqué et pleinement justifié. L'art poétique signifierait l'art</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 12 —</p>
+        <p>Ne craignez point l'enjambement D'un vers sur l'autre : un trait sublime Jaillit parfois de cette escrime Où l'art se joue innocemment.</p>
+        <p>On voit que l'exemple va avec le précepte et qu'ils</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 13 —</p>
+        <p>se trouvent bien ensemble; je ne sache pas, en effet , qu'on ait droit de s'en plaindre.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 14 —</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 15 —</p>
+        <p>Le temps a respecté la splendide auréole Qui brille au front d'Homère ; et la nouvelle Ecole, Tout, en se séparant des dieux qui ne sont plus, D emande que ses vers soient sans cesse relus.</p>
+        <p>A côté de Virgile, du Tasse et deMilton, nous voudrions voir le Dante (1), qui est bien la figure épique la plus originale qu'il y ait dans le monde et l'un des dieux lés plus vénérés des romantiques. — Le dernier précepte que donne l'auteur aux poètes épiques, c'est de s'inspirer de la foi. Ce précepte, nouveau dans un traité didactique, a une grande portée : l'épopée vit du merveilleux, et le merveilleux, quand on y touche sans la foi, a souvent un air faux qui manque de naï.(1)</p>
+        <p>naï.(1) a réparé cette omission.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 16 —</p>
+        <p>veté et de vérité; les grandes épopées, en effet, sont toutes le fait d'une foi religieuse,, vive et générale : c'est sans doute pour cela que M. Alciator dit, en parlant des grands poètes épiques :</p>
+        <p>Mais des siècles nombreux s'écouleront encor Avant qu'en d'autres mains vibre leur lyre d'or.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 17 —</p>
+        <p>Hors des chemins battus bien fou qui ne s'élance ;</p>
+        <p>Oui, bien fou qui se livre au labeur singulier , »■</p>
+        <p>De ramp.er sous un maître, ainsi qu'un écolier :</p>
+        <p>Il lui faudra subir, quel que soit son génie,</p>
+        <p>D'un pâle imitateur la mortelle agonie.</p>
+        <p>Songez donc que Corneille a mille fois maudit</p>
+        <p>Des règles des anciens l'incroyable crédit :</p>
+        <p>Si sa virile audace eût brisé cette chaîne,</p>
+        <p>A produire un chef-d'oeuvre il eût eu moins de peine.</p>
+        <p>Une fois lancé dans les hardiesses, où.doit-on s'arrêter? Boileau avait dit :</p>
+        <p>Le vrai peut quelquefois n'être pas vraisemblable.</p>
+        <p>(1) On verra que le Dante et Shakespeare n'ont pas été oubliés dans cette nouvelle édition.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 18 — M. Alciator affirme que :</p>
+        <p>Le vrai, quoi qu'on en dise, est toujours vraisemblable.</p>
+        <p>On s'est souvent demandé ce qu'il y a de plus difficile, d'une tragédie ou d'une comédie. Les faits répondent assez haut : un grand comique est rare, tandis que la tragédie compte d'assez nombreux favoris. De là l'éloge naturellement amené de Molière, et cette pensée que, si Molière revenait parmi nous, il trouverait :</p>
+        <p>De quoi nourrir longtemps sa railleuse colère.</p>
+        <p>Ce qui fait voir que la matière comique ne manque pas, mais que c'est plutôt un génie supérieur pour la traiter.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 19 —</p>
+        <p>Rien n'est gai, sémillant et facile., comme les strophes sur le vaudeville, ici personnifié, et parlant lui-même de ses malices et de ses gentillesses. Il nous semble que M. Alciator a surtout réussi dans ce qu'il a fait pour les genres légers, tels que la chanson, la ballade, le vaudeville, le sonnet. Il est vrai que pour donner un spécimen, même imparfait, de certains autres genres, il eût fallu étendre beaucoup son ouvrage : ces grands arbres qu'il eût ainsi plantés, eussent certainement caché et étouffé les arbustes charmants et les plantes gracieuses qu'il nous a donnés.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 20 —</p>
+        <p>La dernière partie de l'Art dans la poésie se compose d'une comparaison entre la poésie moderne et la poésie ancienne.</p>
+        <p>Nous aurions désiré que M. Alciator ajoutât quelques vers encore pour recommander aux poètes de son école d'éviter les défauts qu'on leur a reprochés souvent avec raison : le vide de certaines idées et de certaines images, la dureté et la négligence affectée du style, leur irrévérence pour une foule de choses respectables. M. Alciator leur aurait ainsi rendu un grand service en leur faisant comprendre que l'élégance de la forme et le bon goût vont bien avec le mérite du fond, et que cette union est non-seulement toujours possible, mais encore toujours nécessaire.</p>
+        <p>Voici maintenant l'opinion de deux journaux marseillais, lorsque parut pour la première fois l'Art dans la poésie :</p>
+        <p>Le Nouvelliste s'exprimait ainsi par l'organe de Théophile Bosq, le célèbre auteur de Noéma ou Les</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 21 —</p>
+        <p>amours d'un Ange, poème qui fut dignement apprécié par Lamartine :</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 22 —</p>
+        <p>« En résumé, le nouveau volume de M. B. Alciator, écrit avec l'imagination et le coeur, fait également aimer l'homme et le poète, N'est-ce pas le meilleur éloge que nous en puissions faire ?»</p>
+        <p>(Le Nouvelliste). — Th. BOSQ.</p>
+        <p>La Gazette du Midi a donné son appréciation en ces termes :</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 23 —</p>
+        <p>(Gazette du Midi).</p>
+        <p>Un poète, qui est aussi un savant de premier ordre, et qui parle admirablement la langue de Virgile et d'Horace, M. D. Rossi (1), nous a fait l'honneur de tra(1)</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 24 —</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 25 —</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 26 —</p>
+        <p>— Dissertation médicale sur l'acide phénique proposé comme remède par le docteur Déclat de Paris. — Navigation et Astronomie. — Traité de Philosophie, dont le Dictionnaire universel a fait mention honorable.</p>
+        <p>(1) Cet ouvrage et l'Etude sur l'origine de l'homme sont en vente à Paris, chez Reinwald, rue des Saints-Pères, 15. — Prix : 2 fr. 50 et 1 franc.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 27 —</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 28 —</p>
+        <p>« Hanteville-House, 29 novembre 1868.</p>
+        <p>&lt;&lt; Je reçois, Monsieur, avec émotion et reconnaissance, votre&lt;&lt; précieux et gracieux cadeau. J'ai lu toutes ces belles et nobles « pages qui respirent la patrie et la liberté. En échange de votre « livre, qui est un vrai livre d'or, recevez ceci où j'ai mis mon « âme. Vous le savez, j'aime profondément l'Italie, et je combats « pour elle avec l'idée, comme Garibaldi avec l'épée.</p>
+        <p>« Je vous serre la main.</p>
+        <p>« VICTOR HUSO. »</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 29 —</p>
+        <p>(1) Mot créé par Corneille et regardé trop longtemps par les lexicographes comme un barbarisme.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>TRADUCTION</p>
+        <p>DU PRELUDE DE L'ART DANS LA, POESIE</p>
+        <p>0 tu quem genius quandoque attentat amicus,</p>
+        <p>Visne lyra gratum solers deducere carmen,</p>
+        <p>Postera quod répétât, quod non ulla eximet aetas?</p>
+        <p>Contendisne gradu céleri percurrere calles</p>
+        <p>Aroanos Artis, nec inania nubila captans ?</p>
+        <p>Naturam sequere : hsec lex, hoc tanto auspice multiun</p>
+        <p>Proficies ; nec tu vero distantia fingas :</p>
+        <p>Est modus in rébus ; semper misce utile dulci :</p>
+        <p>Extento vives, acceptus amabens oevo. ,</p>
+        <p>Non unquam incipiàs largo promissor hiatu : Ni hoc vitium vites, marcescent languida verba Qui cadit ex alto, ingentem trahit ipse ruinam. Lucidusesto : intus doleo vehementer etangor, Auctor cum vacuus sese veneratur et ultro Diligit, obscuris nec noscens abdita chartis. Tu nimis alta petis, clamo, procul esto, recède.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 32 —</p>
+        <p>Quidquid agas, esto simplex duntaxat etunum : Hsec sapiens v'eteri émanât sententia Divo ; Nuntiathanc pressens numen, totumque per orbem. Respicias undas pelagi, liquidum asthera, flammas, Corde refers memori : mens et vox omnibus una. Sit natura poesis ": erit virtùsque decusque (2).</p>
+        <p>(1) M. D. Rossi avait fait d'abord cet excellent vers :</p>
+        <p>Ornate dieas; tenui tua carmina cura Desine.</p>
+        <p>(2) Pour profiter de l'imitation que le crois heureuse du Sit pietura poesis, il m'a fallu ajouter un hémistiche dont les mots ne se trouvent pas dans l'original. Tous les traducteurs en .sont là, Delille, Pongerville, etc..{Note du Traducteur).</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 33 —</p>
+        <p>Ast fuge consimiles simili modulamine cantus, Namque aliter scriptis accedit gratia nulla. Cui sublime datum nascenti mentis acumen, Concentu eximio carmen variare laborât.</p>
+        <p>D. Rossi.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>L'ART DANS LA POÉSIE</p>
+        <p>PRELUDE</p>
+        <p>RÈGLES FONDAMENTALES DE L ART DANS LA POESIE</p>
+        <p>Prétendez-vous d'un pas rapide Parcourir les sentiers secrets De l'Art, sans errer dans le vide? Suivez la Nature : un tel guide Hâtera beaucoup vos progrès</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Au début évitez l'emphase : Celui qui tombe en ce défaut Verra bientôt languir sa phrasé. La chute souvent vous écrase, Quand on trébuche de si haut.</p>
+        <p>Soyez clair : ma peine est extrême Lorsque je vois certain rimeur Qui sottement se flatte et s'aime , Et ne se comprend pas lui-même : Loin de moi ce profond rêveur !</p>
+        <p>Soyez correct ; soignez la rime. Ne craignez point l'enjambement D'un vers sur l'autre : un trait sublime Jailit parfois de cette escrime Où l'art se joue innocemment.</p>
+        <p>Souvenez-vous qu'en tout ouvrage</p>
+        <p>Il faut observer l'unité :</p>
+        <p>Cette sentence antique et sage,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 37 —</p>
+        <p>Loin d'être un inutile adage, Nous vient de la Divinité.</p>
+        <p>Oui, le Dieu vivant la proclame Dans tous les coins de l'Univers ; Voyez l'onde, l'air et la flamme : Partout même voix et même âme : — Qu'il soit ainsi de l'art des vers.</p>
+        <p>Mais fuyez lamonotonie :</p>
+        <p>Par elle un chef-d'oeuvre est gâté.</p>
+        <p>L'écrivain doué de génie</p>
+        <p>Sait jeter dans son harmonie</p>
+        <p>Une heureuse variété.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>CHANT PREMIER</p>
+        <p>L ELEGIE ET L IDYLLE. — L ODE. — LE SONNET.</p>
+        <p>L'ÉPIGRAMME. — LA SATIRE. — LA FABLE. — LA CHANSON.</p>
+        <p>LA BALLADE. — LE POÈME ÉPIQUE.</p>
+        <p>La modeste Elégie, au regard triste et doux, Est une vierge solitaire Qui semble n'habiter la terre Que pour aimer et pleurer avec nous.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 40 —</p>
+        <p>Est-elle gaieî? alors sa verve .est plus facile ;</p>
+        <p>Alors elle s'habille en élégante Idylle ;</p>
+        <p>L'Ode (1), plus fière, plus sublime, Se plaît sur le bord des torrents, Sur le gouffre où l'onde s'abîme, Sur les mers, sur la haute cime Des forêts et des monts géants.</p>
+        <p>(1) Lisez les belles Odes de Victor Hugo et de Lamartine.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 41 —</p>
+        <p>Le monde entier est son empiré : Elle exalte l'Humanité ; Avec la terre elle soupire ; A tous les mortels elle inspire L'amour pur de la Liberté.</p>
+        <p>Sans plus tarder, Muse docile, Tu vas nous rimer un Sonnet. Par ma barbe ! il n'est pas facile De le rendre élégant et net.</p>
+        <p>Tout mot qui deux fois s'y faufile Passe toujours pour indiscret ; La tâche devient difficile Quand on approche du tercet.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 42 -</p>
+        <p>D'avoir cru Despréaux lui-même M'offrant le prix d'un long poème ! Mais non... grâce au ciel, j'ai fini.</p>
+        <p>La pointilleuse Epigramme A pour père Martial, Qui n'eut jamais son égal Dans l'art d'insulter homme et femme.</p>
+        <p>Finesse, esprit et gaîté Doivent orner ce court poème Qu'inventa la méchanceté, Et que je frappe d'anathème ; Car il ne mérite pas même L'honneur de la publicité.</p>
+        <p>N'avons-nous pas la Satire Pour flétrir les mauvaises moeurs ? Devant ses nobles fureurs, Qui parfois nous font sourire, Le vice pâlit, se retire ; Et le sot, qui toujours s'admire, Succombe sous lès traits railleurs.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 43 —</p>
+        <p>Muse, si je m'armais de ta lourde férule,</p>
+        <p>Je frapperais bien fort sur ce fat ridicule</p>
+        <p>Qui porte le front haut, mais dont le coeur est bas ;</p>
+        <p>Qui croit que le destin ne l'a mis ici-bas</p>
+        <p>Et des plus doux plaisirs ignorer le mystère.</p>
+        <p>Et vous, riches oisifs, vous, libertins infâmes, ' Qui dépensez votre or en dégradant vos âmes. Et n'imitez jamais ces apôtres zélés Par qui les malheureux sont toujours consolés.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 44 —</p>
+        <p>Prenez garde! Craignez d'irriter le poète!</p>
+        <p>Il a, pour "vous punir, son arme toute prête.</p>
+        <p>En présence d'un sot,, il se détourne et rit ;</p>
+        <p>Mais vous... son -vers vengeur sans pitié vous flétrit.</p>
+        <p>Fables simples, Fables naïves, Que dirai-je de ces tableaux Aux couleurs si fraîches, si vives, Nés sans effort sous vos pinceaux?</p>
+        <p>De vos fines allégories L'art profond ne se montre pas ; Gomme en de riantes prairies, Les fleurs y naissent sous vos pas.</p>
+        <p>Tantôt gravés, tantôt légères, Mais toujours vierges au front pur, Vous avez des leçons austères Pour l'enfance et pour J'âge mûr.</p>
+        <p>Vous nous parlez, comme les sages, Un langage clair, simple et net. L'unité règne en vos ouvrages : Chacun d'eux est un tout complet ;</p>
+        <p>Chacun d'eux est un petit drame Plein de charme et de vérité,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 45 —</p>
+        <p>Qui subjugue et réjouit l'âme Par un air de sincérité.</p>
+        <p>Avec quel art, bon La Fontaine, Tu fais parler tes animaux ! Et comme tu sais mettre en scène Les vices, sources de nos maux !</p>
+        <p>Ah ! sans doute un divin génie Te révéla le coeur humain :' Page immense, page infinie, Qui se déroule sous ta main.</p>
+        <p>Qui t'a lu, veut te lire encore. D'où vient le charme séduisant De tes tableaux? Nul ne l'ignore, C'est que tu plais en instruisant ;</p>
+        <p>C'est que la voix de la nature Parle dans tes faciles vers, Comme le suave murmure Du ruisseau dans les gazons verts.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 46 —</p>
+        <p>La chanson est simple et modeste. Pourtant nous la voyons parfois, Sur un ton sublime ou fort leste, Fronder les sots, punir les rois, Du peuple proclamer les droits. D'une aimable gaîté le chansonnier s'inspire ; Il passe doucement ses jours</p>
+        <p>A chanter sur sa lyre Et la sagesse et les amours.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 47 —</p>
+        <p>A chanter sur sa lyre Et la sagesse et les amours.</p>
+        <p>La chanson est l'oeuvre des Grâces : . Son luth léger, harmonieux, Dans tous les coeurs laisse des traces. Célébrez l'amour et ses jeux, Et vous serez égal aux dieux. D'un aimable gaîté le chansonnier s'inspire ; Il passe doucement ses jours</p>
+        <p>A chanter sur sa lyre Et la sagesse et les amours (1). * Dans la Ballade (2), Rivale de l'Ode en son vol, Gardez-vous d'un style fade. Loin de ramper sur le sol,</p>
+        <p>(1) Nous avons peint Bérenger dans cette Chanson.</p>
+        <p>(2) Lire les Ballades de Victor Hugo.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 48 —</p>
+        <p>Tantôt elle suit les traces De l'aigle qui fend les espaces Et va se poser sur un mont;</p>
+        <p>Tantôt, comme la colombe, Elle s'élève, puis retombe Près d'une vierge au chaste front.</p>
+        <p>Voyez cette infernale ronde</p>
+        <p>Où la dent grince, où le coeur bat,</p>
+        <p>Où les démons, troupe immonde, Insultent Dieu, narguent le monde :</p>
+        <p>C'est la ronde du sabbat !</p>
+        <p>Voyez sur les vertes pelouses Où l'ange du matin a répandu ses pleurs, Danser les amantes jalouses Près d'un ruisseau, parmi les fleurs</p>
+        <p>C'est la Ballade Qui, reine du choenr, le conduit Au milieu d'une myriade De sylphes que son chant séduit.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 49 —</p>
+        <p>Voyez encor ces pâles ombres Danser autour de ce tombeau, Lorsque l'Ange du soir étend ses ailes sombres Comme les ailes du corbeau :</p>
+        <p>C'est la Ballade Qui, reine du choeûf, le conduit Aux lugubres accents de sa voix, quesaceade La terreur qu'inspire la nuit.</p>
+        <p>Cette Muse échevelée</p>
+        <p>Mais il est un concert dont mon âme est frappée : Les Dante, les Soumet, le nomment Epopée. Ce chant est plus qu'un chant, c'est un drame eu récit Qui brille avec éclat, et parfois s'assombrit, Lorsque les passions, fortement dessinées, Comme des flots houleux paraissent mutinées. Lisez, lisez d'abord ce barde glorieux Qui chante en si beaux vers les hommes et les dieux Les Grâces, sans rougir, lui prêtent leur ceinture, Quand son brillant pinceau nous dépeint la nature.</p>
+        <p>4</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 50 —</p>
+        <p>Partout son merveillenx, au voile transparent,</p>
+        <p>Nous laisse découvrir quelque chose de grand.</p>
+        <p>Sa riche poésie est une vaste mine</p>
+        <p>Où l'on voit du gravier, mais où l'or pur domine ;</p>
+        <p>Et qui sait la comprendre y trouvera toujours</p>
+        <p>A côté de la nuit de magnifiques jours.</p>
+        <p>Le temps a respecté la splendide auréole</p>
+        <p>Qui brille au front d'Homère: et la nouvelle Ecole,</p>
+        <p>Tout en se séparant des dieux qui ne sont plus,</p>
+        <p>Demande que ses vers soient sans cesse relus.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 51 —</p>
+        <p>Ne vous égarez pas en maints détails frivoles ; Soyez clair, naturel. Surtout que vos paroles, Dans un sujet pieux, s'inspirent de la Foi : Un poète me touche en croyant comme moi.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>CHANT DEUXIÈME</p>
+        <p>IDÉE GÉNÉRALE ET REGLES FONDAMENTALES DU DRAME.</p>
+        <p>LE VAUDEVILLE.</p>
+        <p>LA COMÉDIE. — LA TRAGÉDIE.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 54 —</p>
+        <p>Observez l'unité dans chaque caractère,</p>
+        <p>Dans les traits de détails, dans l'action entière :</p>
+        <p>Que le début, la fin, répondent au milieu (i).</p>
+        <p>Mais loin d'être l'esclave et du temps et du lieu,</p>
+        <p>Dans vos divers tableaux gardez la vraisemblance.</p>
+        <p>Hors des chemins battus bien fou qui ne s'élance ;</p>
+        <p>Oui, bien fou qui se livre au labeur singulier</p>
+        <p>De ramper sous un maître,, ainsi qu'un écolier :</p>
+        <p>Il lui faudra subir,, quel que soit son génie,</p>
+        <p>D'un pâle imitateur la mortelle agonie.</p>
+        <p>Songez donc que Corneille a mille fois maudit</p>
+        <p>Des règles des anciens l'incroyable crédit :</p>
+        <p>Si sa virile audace eût brisé cette chaîne,</p>
+        <p>A produire un chef-d'oeuvre il eût eu moins de peine ;</p>
+        <p>Il eût mis dans son art bien plus de vérité,</p>
+        <p>A prendre un libre essor la Poésie aspire ;</p>
+        <p>Sans borne est son domaine : — ainsi Dante et Sheskpire</p>
+        <p>Ont vu grandir leur gloire en montrant le chemin</p>
+        <p>Où doit, sans s'arrêter, marcher l'esprit humain (2)..</p>
+        <p>(1) Ce vers, traduit d'Horace, est de Boileau.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 55 —</p>
+        <p>Faites que l'action clairement se dessine : L'esprit de l'auditeur se fatigue bientôt, Quand du noeud de l'intrigue il cherche en vain le mot. Le vrai, quoi qu'on en dise, est toujours vraisemblable; Peignez le coeur humain : dans ce livre admirable Si vous savez puiser, vous serez éloquents Hors de là, vous tombez dans des écarts fréquents.</p>
+        <p>Fuyez avec horreur les peintures obscènes. Qu'avec rapidité se succèdent les scènes; Que l'action, tracée en style vif, pressant, Inspire jusqu'au bout un intérêt croissant.</p>
+        <p>et que nous en profitons, lorsqu'elle est bienveillante et juste comme celle de M. Beaumarchey.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 56 —</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 57 —</p>
+        <p>Pour ces plats courtisans, caméléons de cour,</p>
+        <p>Qui vendent leur honneur aux tout-puissants du jour ;</p>
+        <p>Pour ces roués tribuns, nains de la République;</p>
+        <p>Pour ces fiers épiciers, Washingtons en boutique,</p>
+        <p>Se croient nés, eux aussi, pour régenter l'Etat.</p>
+        <p>Oh !. oui, tu trouverais parmi nous, ô Molière,</p>
+        <p>De quoi nourrir longtemps ta railleuse colère.</p>
+        <p>La Muse comédienne estime encor Regnard, Comme la tragédie est fière de Ponsard ; Mais le plus digne enfant de Molière, et peut-être Son égal, c'est Augier : quel disciple ! quel maître !</p>
+        <p>La plupart des auteurs, dans leur aveuglement,</p>
+        <p>Cherchent devinez quoi ? — Le succès du moment :</p>
+        <p>C'est le gain avant tout que convoite leur âme. Poètes qui courez la carrière du Drame, Voulez-vous de mes vers retirer quelque fruît ? D'une oreille attentive écoutez ce qui suit :</p>
+        <p>LE VAUDEVILLE</p>
+        <p>Je suis ce joyeuxyaudeville</p>
+        <p>Qui, dans sa prose et dans ses vers,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 58 —</p>
+        <p>De la campagne et de la ville Met en scène tous les travers.</p>
+        <p>A mon aimable raillerie La Cour même n'échappe pas, Quand de ma soeur la Comédie Avec orgueil je suisses pas.</p>
+        <p>Sur mon théâtre plein de charmes, Où règne la folle gaîté, Je fais souvent tomber les larmes... Et les armes de la beauté.</p>
+        <p>Bourgeois, villageois et grisettes Y viennent produire au grand jour Les malices les plus secrètes De leurs rivalités d'amour.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>- 59 -</p>
+        <p>Mais un malin coq de village Guette de près le vert galant, Le supplante, et la fille sage Devient le prix de son talent.</p>
+        <p>Ainsi, par des fables charmantes Qu'assaisonnent des mots railleurs, Je donne des leçons piquantes Aux villageois, aux grands seigneurs.</p>
+        <p>J'aime qu'une noble décence Respire dans tous mes portraits : Les allures de la licence Aux yeux du sage ont peu d'attraits.</p>
+        <p>Vous tous, mortels mélancoliques, Venez entendre mes discours : Mes chants si gais, mes chants magiques, Sauront vous dérider toujours.</p>
+        <p>Je suis ce joyeux vaudeville Qui, dans sa prose et dans ses vers, De la campagne et de la ville Met en scène tous les travers.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>60 —</p>
+        <p>LA COMEDIE</p>
+        <p>Je suis l'aimable Comédie : J'enseigne la sagesse en riant, et parfois</p>
+        <p>Sur les pas de la Tragédie J'ose m'aventurer. en grossissant ma voix.</p>
+        <p>Sur mon théâtre, les a-vares, Les fripons parvenus, les pages effrontés,</p>
+        <p>Les sots, les médecins ignares, Lés fats et les valets, sont rudement fouettés.</p>
+        <p>Je n'épargne ni la coquette, Ni la duègne au coeur dur, ni la prude à l'oeil faux ;</p>
+        <p>Mais c'est surtout pour l'hypocrite Que ma verve a gardé ses traits les plus sanglants :</p>
+        <p>Hé ! quel noble coeur ne s'irrite D'entendre ses sermons, — et ses propos galants ? '</p>
+        <p>Ce saint si bénin sans relâche Contre madame Orgon poursuit son attentat ;</p>
+        <p>Il caresse, il rampe, il se cache, Mais se montre en public grave comme un prélat.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 61 —</p>
+        <p>A la foule qui s'en amuse Mon sarcasme éloquent montre ce qu'elle vaut.</p>
+        <p>C'est ainsi'que je vous corrige, En prose comme en vers, ô mortels vicieux !</p>
+        <p>Je vous berne, je vous fustige : Hélas ! ainsi battus, vous conduisez-vous mieux ?</p>
+        <p>Mon art est celui de médire ; Mais tous ne savent pas le faire avec esprit :</p>
+        <p>Combien, dans leur grossier délire, Nous offrent de ces mets dont un sot se nourrit !</p>
+        <p>Il faut que l'intérêt du drame Croisse de scène en scène au sein de la gaîté :</p>
+        <p>Le public veut rire, et réclame Des portraits amusants, mais pleins de vérité.</p>
+        <p>Je suis l'aimable Comédie : J'enseigne la sagesse en riant, et parfois</p>
+        <p>Sur les pas de la Tragédie J'ose m'aventurer en grossissant ma voix.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>- 62</p>
+        <p>LA TRAGEDIE</p>
+        <p>Je suis la Muse triste et fière Dont chaque hymne de gloire est un hymne de deuil : Des grandeurs d'ici-bas je fais voir la poussière, Et je donne aux vivants les leçons du cercueil.</p>
+        <p>Ici je montre l'innocence Succombant sous les coups de ce monde pervers ; Ici je la relève, et brise la puissance De ceux dont les forfaits étonnent l'univers.</p>
+        <p>De l'amour décrivant les charmes, Parfois je m'abandonne aux rêves les plus doux ; Mais hélas ! ce n'est point sans répandre des larmes, 0 mortels ! sur les maux qui vous attendent tous.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>- 63 —</p>
+        <p>Je suis la Musé triste et fière Dont chaque hymne de gloire est un hymne de deuil ; Des grandeurs d'iei-bas je fais voir la poussière, Et je donne aux vivants les leçons du cercueil.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>CHANT TROISIEME</p>
+        <p>POESIE MODERNE COMPAREE A L ANCIENNE</p>
+        <p>A la source de poésie,</p>
+        <p>Jeune homme, veux-tu t'abreuver 1</p>
+        <p>As-tu l'aimable fantaisie</p>
+        <p>De goûter de cette ambroisie</p>
+        <p>Interroge cette nature Dont le langage est tout de feu ; Contemple sa riche structure ; Ecoute l'éternel murmure Qu'elle répète devant Dieu.</p>
+        <p>Ecoute la brise légère Qui pleure en glissant sur les flots, Sur les monts ou sur la fougère : Sa plainte n'est pas étrangère Aux pèlerins, aux matelots.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>- 66 —</p>
+        <p>Écoute le rhythme et le nombre Du grand concert des ouragans, Concert infernal, lorsque sombre Le navire dans la nier sombre, Cette fiêre épouse des vents ;</p>
+        <p>L'écrivain dont l'âme inquiète Verra les choses que je vois, Pourra dire qu'il est poète ; Il pourra se dire interprète De ces mélodieuses voix.</p>
+        <p>Oh ! oui, je suis fier, je l'avoue, De comprendre leurs chants divers ; Et la Fortune dont la roue, En broyant les mortels, se joue, N'anéantira pas mes vers :</p>
+        <p>Car ces vers sont la pure image Des soupirs qu'exhalent les bois, Des sons que produit le rivage,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 67 —</p>
+        <p>Quand la vague chante un hommage Au Dieu suprême, au roi des rois.</p>
+        <p>Parfois il arrose de larmes . La Terre qu'il entend gémir : Bientôt, oubliant ses alarmes, Il retournera, plein de charmes, Au couchant doré s'endormir.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 68 —</p>
+        <p>Et cette étoile sans pareille Qui brille alors, est-ce Vénus? Non, c'est l'Ange du soir qui veille : Pendant que la Terre sommeille, Il chante, et les Cieux sont émus.</p>
+        <p>Les Naïades dans les; fontaines Ne se baignent plus éii secret ; Les Dryades, parmi les chênes, Ne s'en vont plus conter leurs peines Aux beaux oiseaux de la forêt :</p>
+        <p>Fée et Péri, vierges si belles, Seules y répandent des pleurs ; Les sylphes, déployant leurs ailes, Sous la forme dé demoiselles Volent sur l'onde ou surles fleurs.</p>
+        <p>(1) Expression de Boileau dans son Art poétique.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 69 —</p>
+        <p>Mais on voit d'aimables fantômes Passer, passer en souriant : Ils sont, hélas ! ce que nous sommes, Car ils passent comme les hommes, Chantant, gémissant et priant.</p>
+        <p>Echo n'est plus la nymphe impure Qui se plaint d'un joli garçon : C'est encor ta -voix, ô Nature ! Voix qui répond par un murmure A notre voix dans le vallon. ,</p>
+        <p>Dans ce monde tout est mystère ; Tout chante un hymne solennel ■: Cet hymne monte solitaire, Comme un long soupir de la tere Qui, souffrante, se plaint au ciel !</p>
+      </div>
     </body>
   </text>
 </TEI>

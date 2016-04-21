@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
- <teiHeader>
-<fileDesc>
-<titleStmt>
-<author key="Filon, Augustin (1841-1916)">Augustin Filon</author>
-<title>Le dernier livre de M. Taine : "La Fontaine et ses fables". Conférence du rez-de-chaussée / [signé : A. Filon]</title>
-</titleStmt>
-<editionStmt>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le dernier livre de M. Taine : “La Fontaine et ses fables”. Conférence du rez-de-chaussée / [signé : A. Filon]</title>
+        <author key="Filon, Augustin (1841-1916)">Augustin Filon</author>
+      </titleStmt>
+      <editionStmt>
         <edition>OBVIL/BNF</edition>
         <respStmt>
           <resp>reprise des textes</resp>
           <name>Amélie Canu</name>
         </respStmt>
       </editionStmt>
-<publicationStmt>
+      <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
         <availability status="restricted">
@@ -22,149 +22,150 @@
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
-<sourceDesc>
-<bibl>
-<author>Filon, Augustin (1841-1916)</author>, <title>Le dernier livre de M. Taine : "La Fontaine et ses fables". Conférence du rez-de-chaussée / [signé : A. Filon]</title>, <date>1862</date>,description :,29 pages
-</bibl>
-<publisher>impr. de Cerf (Versailles)</publisher>
-<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k6120805t</idno>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1862">1862</date>
-</creation>
-<langUsage>
-<language ident="fr"/>
-</langUsage>
-</profileDesc>
- </teiHeader>
+      <sourceDesc>
+        <bibl> <author>Filon, Augustin (1841-1916)</author>, <title>Le dernier livre de M. Taine : "La Fontaine et ses fables". Conférence du rez-de-chaussée / [signé : A. Filon]</title>, <date>1862</date>,description :,29 pages </bibl>
+        <publisher>impr. de Cerf (Versailles)</publisher>
+        <idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k6120805t</idno>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1862">1862</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-    <div>
-<p><pb/></p>
-<p>'jf.ONFÉRRXCE M) REZ-DE-CHAUSSÉE</p>
-<p>[ÏIÉII! LUI DI I. T»</p>
-<p>LA FONTAINE ET SES FABLES</p>
-<p>lu fiaus In srniifc du "3 Février</p>
-<p>VERSAILLES. —- l«!T.:HEUIE CEKF, S3, flUK UU L'LËSSIS.</p>
-<p><pb/>
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-------------------------------------------------------------------------</p>
-<p>LE DERNIER LIVRE DE M. TA1NE</p>
-<p>— La Fontaine et ses FaMes —</p>
-<p>rSyP: £■] ;. '%;^;a "plusieurs manières de lire un livre. Notre siècle lit</p>
-<p><pb/></p>
-<p>2't LE DERNIER LIVRE DE II. TAINE</p>
-<p><pb/></p>
-<p>LE DERNIER LIVRE DE M. TAINE 2."J</p>
-<p>contre une page, venue d'un seul jet, écrite d'un seul style, pleine
-d'images, mais sobre et concise, remplie d'art et de tact littéraires,
-alors même que la vie et la force débordent et que la pensée s'épanouit
-librement.</p>
-<p>Il</p>
-<p>9</p>
-<p><pb/></p>
-<p>26 LE DERNIER LIVRE DE M. TAINE</p>
-<p><pb/></p>
-<p>LE DERNIER LIVRE DE M. TAINE ' 27</p>
-<p><pb/></p>
-<p>-'S LE DERNIER LIVRE DE M. TAINE</p>
-<p><pb/></p>
-<p>LE DERNIER LIVRE DE M. TAINE</p>
-<p>111</p>
-<p>*commenlateur officieux vienne vous offrir sa clé et vous apprenne que
-ce distrait charmant, qui accroche sa perruque au lustre, est M. de
-Brancas, duc et pair, chevalier de l'ordre, etc.? N'est-ce pas
-rabaisser, réduire la valeur et le charme de ces portraits toujours
-piquants et toujours vrais? Il en est de même de La Fontaine? Est-ce une
-manière de Saint-Simon, moins amer, moins honnête, aussi vif et prompt à
-peindre d'un trait, sans passion, impartial dans un débat auquel il
-reste étranger? le lecteur n'en sait rien, mais il ne tient pas tant à
-le savoir.</p>
-<p>M. Taine a une tout autre préoccupation. Ecoulez-le: « Un homme rentre
-chez lui, le soir, cause avec ses amis et s'amuse</p>
-<p>Fontaine. Chacune d'elles est lerécit d'unejournée. Il a vu tout à</p>
-<p>2.</p>
-<p><pb/></p>
-<p>30 LE DERNIER LIVRE DE JI. TAINE</p>
-<p>Vous vous demandez souvent quelle fut la vie de ces genéraons</p>
-<p>genéraons et laborieuses, qui n'ont point eu d'histoire</p>
-<p>sous l'ancien régime et qui se vengent trop aujourd'hui d'un long</p>
-<p><pb/></p>
-<p>LE DERNIER LIVRE DE M. TAINE • 31</p>
-<p>oubli. Vous cherchez dans ces vieilles familles un parfum de simplicité
-et d'honnêteté provinciales. Quelle candeur ! vous feriez sourire M.
-Taine. Il vous présente des bourgeois plus corrompus que les nobles, de
-purs gaulois qui se soucient de leur dignité comme d'un vieux pourpoint
-; aimant tout ce qu'aimait leur bon Henri IV ; sans scrupule dans la vie
-privée et dans les transactions commerciales, comme sans fierté devant
-le maître, et qui, pour achever le tableau, se fussent bien gaussé de
-nous s'ils avaient entendu nos déclamations libérales en leur faveur.
-Jugez plutôt : « Le bourgeois, dit M. Taine, est un être de formation
-récente, produit des grandes monarchies bien administrées, et, parmi
-toutes les espèces d'hommes que la société façonne, le moins capable
-d'exciter l'intérêt ; car il est exclu do toutes les idées et de toutes
-les passions qui sont grandes, en</p>
-<p>France du moins où il a fleuri mieux qu'ailleurs Il vivote</p>
-<p>pour sa bicoque on tâche de n'être point dupe, on se répèle</p>
-<p>tout bas avec un rire sournois qu'il faut tirer son épingle du jeu. »
-Intéressé, avare, poltron, ignorant, sans scrupule et sans lierlé, voila
-le bourgeois de M. Taine : il n'est pas beau.</p>
-<p><pb/></p>
-<p>52 LE DEUNlEli LIVRE DE M. TAINE</p>
-<p>effort d'un air morne jamais de repos : ils se lèvent avant le</p>
-<p><pb/></p>
-<p>LE DEHN1ER LIVRE DE M. TAINE 3S</p>
-<p>IV</p>
-<p><pb/></p>
-<p>31 LE DEHNIER LIVRE DE AI. TAINE</p>
-<p><pb/></p>
-<p>LE DERNIER LIVRE DE M. TAINE 33</p>
-<p>M. Taine vous répond : « 11 était dans ce monde charmant où les hommes
-sensés n'entrent jamais, qui n'est ouvert qu'aux simples d'esprit, aux
-gens un peu fous, aux rêveurs. Il n'avait pas besoin de se guinder pour
-y monter. 11 s'y trouvait tout porté et de naissance.'.. 11 était
-enthousiaste en toute chose, il</p>
-<p><pb/></p>
-<p>36 LE DERNIER LIVRE DE M. TAINE</p>
-<p>« L'herbe l'aurait, portée; une fleur n'aurait pas Reçu l'empreinte de
-ses pas.</p>
-<p><pb/></p>
-<p>LE DERNIER LIVRE DE M. TAINE 37</p>
-<p>3</p>
-<p><pb/></p>
-<p>38 LE DERNIER LIVRE DE M. TÂINE:</p>
-<p>l'humanité fatiguée et pâlie l'éternelle et radieuse enfance de tout ce
-qui vit et ne pense point. Les animaux, les machines? Non, non. Une
-telle croyance convenait au-xvir 3 siècle, si entiché de la dignité
-humaine, si respectueux envers lui-même. Les philosophes courtisans et
-les poètes officiels n'arrêtent point leur pensée sur des objets si bas,
-Lebrun ne peint point une basse-cour,.ni une garenne. On ne regarde pas
-de tels êtres, dit M. Taine; tout au plus on en ril, et on en vit comme
-des paysans leurs compagnons d'attelage.</p>
-<p><pb/></p>
-<p>LE DERNIER LIVRE DE M. TAINE 39</p>
-<p><pb/></p>
-<p>40 LE DERNIER LIVRE DE M. TAINE</p>
-<p>V .</p>
-<p><pb/></p>
-<p>LE DERMEIl LIVRE DE M. TAINE H</p>
-<p><pb/></p>
-<p>42 LE DERNIER LIVRE DE M. TAINE</p>
-<p>VI</p>
-<p><pb/></p>
-<p>LE DERNIER LIVRE DE il. TAINE -43</p>
-<p><pb/></p>
-<p>44 LE DERNIER LIVRE DE M. TAINE</p>
-<p>ÂcV - /&gt;. \</p>
-<p>/ -,:- -^ A. FILON.</p>
-    </div>
+      <div>
+        <p>
+          <pb/>
+        </p>
+        <p>'jf.ONFÉRRXCE M) REZ-DE-CHAUSSÉE</p>
+        <p>[ÏIÉII! LUI DI I. T»</p>
+        <p>LA FONTAINE ET SES FABLES</p>
+        <p>lu fiaus In srniifc du "3 Février</p>
+        <p>VERSAILLES. —- l«!T.:HEUIE CEKF, S3, flUK UU L'LËSSIS.</p>
+        <p><pb/> ------------------------------------------------------------------------ ------------------------------------------------------------------------ ------------------------------------------------------------------------</p>
+        <p>LE DERNIER LIVRE DE M. TA1NE</p>
+        <p>— La Fontaine et ses FaMes —</p>
+        <p>rSyP: £■] ;. '%;^;a "plusieurs manières de lire un livre. Notre siècle lit</p>
+        <p>
+          <pb/>
+        </p>
+        <p>2't LE DERNIER LIVRE DE II. TAINE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LE DERNIER LIVRE DE M. TAINE 2."J</p>
+        <p>contre une page, venue d'un seul jet, écrite d'un seul style, pleine d'images, mais sobre et concise, remplie d'art et de tact littéraires, alors même que la vie et la force débordent et que la pensée s'épanouit librement.</p>
+        <p>Il</p>
+        <p>9</p>
+        <p>
+          <pb/>
+        </p>
+        <p>26 LE DERNIER LIVRE DE M. TAINE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LE DERNIER LIVRE DE M. TAINE ' 27</p>
+        <p>
+          <pb/>
+        </p>
+        <p>-'S LE DERNIER LIVRE DE M. TAINE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LE DERNIER LIVRE DE M. TAINE</p>
+        <p>111</p>
+        <p>*commenlateur officieux vienne vous offrir sa clé et vous apprenne que ce distrait charmant, qui accroche sa perruque au lustre, est M. de Brancas, duc et pair, chevalier de l'ordre, etc.? N'est-ce pas rabaisser, réduire la valeur et le charme de ces portraits toujours piquants et toujours vrais? Il en est de même de La Fontaine? Est-ce une manière de Saint-Simon, moins amer, moins honnête, aussi vif et prompt à peindre d'un trait, sans passion, impartial dans un débat auquel il reste étranger? le lecteur n'en sait rien, mais il ne tient pas tant à le savoir.</p>
+        <p>M. Taine a une tout autre préoccupation. Ecoulez-le: « Un homme rentre chez lui, le soir, cause avec ses amis et s'amuse</p>
+        <p>Fontaine. Chacune d'elles est lerécit d'unejournée. Il a vu tout à</p>
+        <p>2.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>30 LE DERNIER LIVRE DE JI. TAINE</p>
+        <p>Vous vous demandez souvent quelle fut la vie de ces genéraons</p>
+        <p>genéraons et laborieuses, qui n'ont point eu d'histoire</p>
+        <p>sous l'ancien régime et qui se vengent trop aujourd'hui d'un long</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LE DERNIER LIVRE DE M. TAINE • 31</p>
+        <p>oubli. Vous cherchez dans ces vieilles familles un parfum de simplicité et d'honnêteté provinciales. Quelle candeur ! vous feriez sourire M. Taine. Il vous présente des bourgeois plus corrompus que les nobles, de purs gaulois qui se soucient de leur dignité comme d'un vieux pourpoint ; aimant tout ce qu'aimait leur bon Henri IV ; sans scrupule dans la vie privée et dans les transactions commerciales, comme sans fierté devant le maître, et qui, pour achever le tableau, se fussent bien gaussé de nous s'ils avaient entendu nos déclamations libérales en leur faveur. Jugez plutôt : « Le bourgeois, dit M. Taine, est un être de formation récente, produit des grandes monarchies bien administrées, et, parmi toutes les espèces d'hommes que la société façonne, le moins capable d'exciter l'intérêt ; car il est exclu do toutes les idées et de toutes les passions qui sont grandes, en</p>
+        <p>France du moins où il a fleuri mieux qu'ailleurs Il vivote</p>
+        <p>pour sa bicoque on tâche de n'être point dupe, on se répèle</p>
+        <p>tout bas avec un rire sournois qu'il faut tirer son épingle du jeu. » Intéressé, avare, poltron, ignorant, sans scrupule et sans lierlé, voila le bourgeois de M. Taine : il n'est pas beau.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>52 LE DEUNlEli LIVRE DE M. TAINE</p>
+        <p>effort d'un air morne jamais de repos : ils se lèvent avant le</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LE DEHN1ER LIVRE DE M. TAINE 3S</p>
+        <p>IV</p>
+        <p>
+          <pb/>
+        </p>
+        <p>31 LE DEHNIER LIVRE DE AI. TAINE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LE DERNIER LIVRE DE M. TAINE 33</p>
+        <p>M. Taine vous répond : « 11 était dans ce monde charmant où les hommes sensés n'entrent jamais, qui n'est ouvert qu'aux simples d'esprit, aux gens un peu fous, aux rêveurs. Il n'avait pas besoin de se guinder pour y monter. 11 s'y trouvait tout porté et de naissance.'.. 11 était enthousiaste en toute chose, il</p>
+        <p>
+          <pb/>
+        </p>
+        <p>36 LE DERNIER LIVRE DE M. TAINE</p>
+        <p>« L'herbe l'aurait, portée; une fleur n'aurait pas Reçu l'empreinte de ses pas.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LE DERNIER LIVRE DE M. TAINE 37</p>
+        <p>3</p>
+        <p>
+          <pb/>
+        </p>
+        <p>38 LE DERNIER LIVRE DE M. TÂINE:</p>
+        <p>l'humanité fatiguée et pâlie l'éternelle et radieuse enfance de tout ce qui vit et ne pense point. Les animaux, les machines? Non, non. Une telle croyance convenait au-xvir 3 siècle, si entiché de la dignité humaine, si respectueux envers lui-même. Les philosophes courtisans et les poètes officiels n'arrêtent point leur pensée sur des objets si bas, Lebrun ne peint point une basse-cour,.ni une garenne. On ne regarde pas de tels êtres, dit M. Taine; tout au plus on en ril, et on en vit comme des paysans leurs compagnons d'attelage.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LE DERNIER LIVRE DE M. TAINE 39</p>
+        <p>
+          <pb/>
+        </p>
+        <p>40 LE DERNIER LIVRE DE M. TAINE</p>
+        <p>V .</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LE DERMEIl LIVRE DE M. TAINE H</p>
+        <p>
+          <pb/>
+        </p>
+        <p>42 LE DERNIER LIVRE DE M. TAINE</p>
+        <p>VI</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LE DERNIER LIVRE DE il. TAINE -43</p>
+        <p>
+          <pb/>
+        </p>
+        <p>44 LE DERNIER LIVRE DE M. TAINE</p>
+        <p>ÂcV - /&gt;. \</p>
+        <p>/ -,:- -^ A. FILON.</p>
+      </div>
     </body>
   </text>
 </TEI>

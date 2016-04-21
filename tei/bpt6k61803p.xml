@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
- <teiHeader>
-<fileDesc>
-<titleStmt>
-<author key="Aillaud, Pierre-Toussaint (1759-1827)">Pierre-Toussaint Aillaud</author>
-<title>J.-Jacques Rousseau dévoilé, ou Réfutation de son "Discours" contre les sciences et les lettres / par M. l'abbé Aillaud,...</title>
-</titleStmt>
-<editionStmt>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>J.-Jacques Rousseau dévoilé, ou Réfutation de son “Discours” contre les sciences et les lettres / par M. l'abbé Aillaud,...</title>
+        <author key="Aillaud, Pierre-Toussaint (1759-1827)">Pierre-Toussaint Aillaud</author>
+      </titleStmt>
+      <editionStmt>
         <edition>OBVIL/BNF</edition>
         <respStmt>
           <resp>reprise des textes</resp>
           <name>Amélie Canu</name>
         </respStmt>
       </editionStmt>
-<publicationStmt>
+      <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
         <availability status="restricted">
@@ -22,334 +22,256 @@
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
-<sourceDesc>
-<bibl>
-<author>Aillaud, Pierre-Toussaint (1759-1827)</author>, <title>J.-Jacques Rousseau dévoilé, ou Réfutation de son "Discours" contre les sciences et les lettres / par M. l'abbé Aillaud,...</title>, <date>1817</date>,description :Appartient à l’ensemble documentaire : MidiPyren1,57 pages
-</bibl>
-<publisher>impr. de P. Crosilhes (Montauban)</publisher>
-<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k61803p</idno>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1817">1817</date>
-</creation>
-<langUsage>
-<language ident="fr"/>
-</langUsage>
-</profileDesc>
- </teiHeader>
+      <sourceDesc>
+        <bibl> <author>Aillaud, Pierre-Toussaint (1759-1827)</author>, <title>J.-Jacques Rousseau dévoilé, ou Réfutation de son "Discours" contre les sciences et les lettres / par M. l'abbé Aillaud,...</title>, <date>1817</date>,description :Appartient à l’ensemble documentaire : MidiPyren1,57 pages </bibl>
+        <publisher>impr. de P. Crosilhes (Montauban)</publisher>
+        <idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k61803p</idno>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1817">1817</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-    <div>
-<p><pb/></p>
-<p>J. JACQUES</p>
-<p>ROUSSEAU DÉVOILÉ,</p>
-<p>ou</p>
-<p>0 U</p>
-<p>R~r~TATIQN DE SON ~ISSOUR~</p>
-<p>CONTRE ~SCtENCES ET LES LETTRES PAR M. L'ABBÉ AILLAUD,</p>
-<p>f/'o/e~~ew ~&amp;~0)-/yt&lt;e ait CoMege de ~yonyaM~OM. DocLrina 'sed von
-promovet ins!tam,</p>
-<p>RecUque cuttus peetora j'obprant.</p>
-<p>HORACE.</p>
-<p>A MONTAÙBAN,</p>
-<p>De l'Imprimerie de Fa. CROSJLHES, place d'Armes.</p>
-<p>.S.?.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>AVANT-PROPOS.</p>
-<p>A.u moment où de nouvelles éditions s'empressent de propager les
-funestes doctrines de J. J. Rousseau, il me parait très-utile que ces
-mêmes doctrines soient méthodiquement attaquées et combattues par des
-écrivains bien intentionnés, cherchant dans leurs nobles travaux à
-rétablir les mœurs publiques et les véritables lumières.</p>
-<p>C'est donc le seul but du discours que je publie. J'ai tâché d'y
-détruire et d'y pulvériser les ridicules et spécieux sophismes, employés
-par le philosophe de Genève dans son éloquente diatribe contre les
-Sciences et les Lettres. Et, loin que ma réponse ne traite qu'un objet
-purement littéraire, elle embrasse au contraire les grands intérêts de
-l'ordre social. J'y démontre, en effet, par des raisons solides, que la
-pre-</p>
-<p><pb/></p>
-<p>Homme qui que tu sois, quelque contrée que tu habites, tiens sans cesse
-ouvert le livre de L'Evangile, qui ne ment jamais, et ferme pour
-toujours celui de la nature, que</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>abstractions qui ont protluit tant de fléaux votre phil'mtropie, qui n'a
-créé que des monstres ou des principes qui ont dévasté les consciences,
-comme if;s empires? Malheureux vous avez ravi aux yeux de l'homme
-sensible le plus beau spectacle que la terre pouvait lui offrir, celui
-des peuples qui s'aimaient et qui vivaient en frères</p>
-<p><pb/></p>
-<p>J. JACQUES</p>
-<p>R OU S SE AU</p>
-<p>DÉVOILE,</p>
-<p>0 U</p>
-<p>RÉFUTATION DE SON DISCOURS CONTRE LES SCŒNCES ET LES LETTRES.</p>
-<p>CE monde est si tristement désolé par les charlatans qu'il n'est point
-d'extravagances qa'on n'ait très-sérieusement adoptées en religion en
-politique en morale, en littérature. L'imbécille Egypte vénéra ses
-oignons le rhéteur ~o/~KM fit admirer aux Grecs ses sentences
-boursoufflées Cratés se couvrit de boue et passa pour un philosophe
-DM~c/!e se pavana insolemment dans son tonneau, et fonda la secte des
-Cyniques. N'a-t-on</p>
-<p><pb/></p>
-<p>pas vu des idiots, ou des tourbes, exalter un jP~ /v'~o/ qui doutait de
-les voir ? Et plus récemment, T~c/H' n'a-t-il pas érigé en dogmes de
-pratique, en art de régner, la théorie de tous les crimes politiques ?</p>
-<p><pb/></p>
-<p>prosateur glacé, cet insipide C'oy~c/'c&lt;?~, ce propagateur testamentaire
-de l'opinion philosophique de D&lt;x~?/7! en un mot, cet absurde
-panégyriste d'une per{ectibilitë chunërique et qui vante niaisement ou
-hypocritement les progrès de l'esprit humain jusque sur le tombeau de
-toutes les Idées saines et religieuses. Lisez le pédadogue -~a~7. Rien
-ne lui plaît dans ce monde que la licence et ses déclamations. Il gronde
-la religion, les rois il fait des contes, il calcule, il dogmatise dans
-sa fureur oratoire, il a la rage du tigre; il ne .médite que des ruines,
-en vomissant au. loin ses ardentes métaphores et ses périodes
-interminables. Que dire d'un La/7ze&lt;/7'&lt;?, salissant par ses éruptions
-bachiques la table où il écrivait son ~077!7?!7~c~ Parlerons-nous de
-l'ënergumcne D/Je~o&lt;, proscrivant, comme de honteuses 'entraves, les
-principes de la religion, de la morale, et fondant la prospérité de
-l'ordre social suruney'M~/tar/no/M'ef/M les /!?M~i'on.? Harmonie
-véritablement absurde impossible, Idéale, puisque deux passions
-opposées, se balançant avec justesse, avec efncacitë, produiraient, par
-une égalité de résistance, une Immobi-</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>c'est le comble du ridicule c'est l'oubli de tous les principes. Pour
-avancer un tel axiome, il faut singulièrement compter sur la frivolité
-de la plupart des lecteurs comme sur linépuisable fonds de li~ sottise
-humaine. Je suis en effet, et bien franchement, tente de croire que de
-toutes les têtes soi-disant philosophiques, celle de M. de oitaire
-quoique sous le diadème est la moins pensante la moins propre à
-l'analyse, la moins capable de construire un système quelconque, lié a
-un p rincipe. unique, d'où les conséquences dérivent si ce n'e~t pas
-toujours avec clarté du moins avec une apparence d'ordre et de
-raisonnement. ~e~f~'H.! et D/~ero~ sont certainement deux Valseurs de
-rêves-creux, bien dignes d'être récianiés par la philosophie indienne
-luais enfin, ils font quelquefois preuve de suite de liaison dans les
-idées, de quelques traces de logique, jusque dans l'abus qu'ils font de
-cet art, et jusque dans les excètde leur démence. Ne cherchez rien de
-tout cela dans M. de Voltaire. Des prêtres dans les pyramides, 7~&lt;2&lt;on
-dans le lycée, ~r?j'~&lt;e dans son école, .P~/Mgv)rg dans sa grotte, ~o/'c
-auprès de .P~/vc/e.)' dëvoi-</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>;j</p>
-<p><pb/></p>
-<p>qui ne le quittèrent jamais et cet écrivain admirable, le premier
-orateur de son siècle eût été /M~7MMM pour les lois, Z}/c~&lt;? pour
-l'histoire, Z~/ïc7o/! dans la morale et il n'eut courbé sa raison que
-devant celle de/~MC&lt;~ et son éloquence que devant le~seul jS(?~</p>
-<p>Ainsi, privé d'une direction salutaire, celui qui était destiné à
-devenir l'oracle de. ses contemporains, n'en a été que le e sophiste le
-plus dangereux, le plus accrédité et cela ne pouvait arriver autrement.
-En effet, sans la boussole des vrais principes, comment ~OM~~K, toujours
-emporté par son ame ou par son Imagination, toujours aigri par ses
-Infortunes, ou trompé par son humeur sauvage, eût-Il pu défendre sa
-raison contre tant d'ennemis ligués pour la submerger ?</p>
-<p>Eh bien! leur pouvoir opère, leur triomphe est complet. Voyez
-l'Infortuné J. Jacques il lit le sujet proposé par l'Académie de Dijon
-l'amour du merveilleux le gagne, sa tête s'enfbmme, son esprit franchit
-toutes les révolutions morales; II crée aux hommes une enfance
-imaginaire dans son délire, il croit voir des choses admirables II
-s'exalte il se passionne pour son ouvrage comme</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Qui croirait cependant que la prétention d'établir de nouvelles idées,
-de fonder une nouvelle doctrine, peut égarer un génie supérieur, au
-point de lui faire proposer aux hommes, pour règles de conduite des
-rêves dignes des 7~7/e et M~e 2VM~ Mais comme la mysantlhopie a ses
-degrés et que ses plus bizarres productions sont toujours précédées de
-quelques essais, quelle fut donc la pierre angulaire du singulier édincc
-élevé par Y. Jac~He~, pour remplacer notre si anti-naturel édifice
-social ? Cette pierre</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>V f</p>
-<p>cieusement des choses bonnes de leur</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>du fils de Yc/y~ II eu est de ta</p>
-<p><pb/></p>
-<p>0 vous tous, malheureux disciples d'une philosophie qui vous égare,
-descendez avec moi par ta pensée dans les souterrains religieux des
-antiques pyramides La, auprès de' la cendre auguste de ces prêtres
-révérés, qui formaient les sages, les savans, les législateurs, vous
-trouverez les souvenirs des plus hautes vertus graves sur les monumens
-de la science la plus sublime.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>de l'homme l'autre, excepté pour ses besoins physiques rend inutiles son
-courage, son industrie son agilité. La science et l'instruction,
-renfermées dans leurs justes limites, seront donc le plus bel ornement
-de la société, puisque l'ame est notre plus bel attribut, et si les
-ouvrages de nos mains ne peuvent être compares aux opérations de notre
-esprit, l'homme dans un état d'ignorance, est donc un être dégrade
-tandis que instruit et vertueux, il s'offre a nous dans un état de
-perfection. Peut-on se refuser au plaisir d'opposer au spectacle
-humiliant des hommes /?r/~M'r de Rousseau, ou des huttes habitées par
-des sauvages stupides et féroces, cette belle décoration que produisent
-les Sciences et les Arts ? Contemplez ces canaux, ces labyrinthes ces
-pyramides, ce temple magique, où le ciseau de Z%dias semble fixer
-Jupiter lui-même ces théâtres où des héros qui ne sont plus revivent
-avec leurs propres actions. Suivez .Df/Mo~e~ dans la place publique il
-tonne il persuade il enchaine les passions par les passions mêmes son
-éloquence a créé des armées,. Admirez ~rc~M&lt;ife~ lui seul et son génie
-sont le</p>
-<p><pb/></p>
-<p>Mais il me resté une objection véritablement spécieuse a détruire.
-Rousseau prétend que dans les états purement civilisés, c'est-a-du'ë,
-qui ignorent les Scien-</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>En effet, ce n'est pas parc~que les Romains devinrent plus polis plus
-savans, plus éclairés, qu'ils devinrent plus corrompus mais parce qu'ils
-étendirent trop loin les limites de leur territoire parce que l'action
-plus compliquée de leur gouvernement devint plus lente, moins efncace
-parce qu'ils multiplièrent trop leurs généraux, leurs proconsuls, leurs
-armées et que leurs passions excitées par des jouissances s'agrandirent
-avec les conquêtes. Qu'arriva-t-il enfin de toutes ces causes réunies ?
-que leurs chefs furent plus redoutables par leur nombre, plus enhardis
-par l'Impunité qu'insensiblement ils devaient s'accoutumer aux mœurs</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Cessons donc d'exagérer les antiques vertus de ~o/?!&lt;?, et .répondons à
-J{o?~</p>
-<p><pb/></p>
-<p>On sent bien qu'aux grands exemples de l'antiquité qu'il se plaît
-d'exhausser et d'accommoder aux intérêts de son discours j~. J~cyMi?~ ne
-manquera pas, r</p>
-<p>6</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>pendant les peuples que je viens de dénoncer ne sont connus ni par leurs
-statuaires, ni par leurs peintres, ni par leurs théâtres, ni parleurs
-orateurs. Ne puis-je pas en dire autant de la France pendant les deux
-premières races de nos Rois ? La plupart des Fiançais ne savaient alors
-ni lire ni écrire et cependant, quelles mœurs que celles d'un Clotanc 1.
-d'une Frédégonde d'une Brunehaut ? Si je n'écrivais que pour des esprits
-vulgaires combien il me serait aisé d'effrayer leur imagination par le
-spectacle odieux de tous les vices de toutes les fureurs qui, sans
-interruption, dégradèrent les longs règnes de l'ignorance, et après des
-raisons tracées par le sang des victimes, qu'un sophiste débouté ose
-placer les douces vertus de l'âge d'or loin du sanctuaire de 1
-Instruction et de la politesse Mais poursuivons. C'était sans doute
-depuis long-temps un axiome reconnu par tous les publicistes, que le
-luxe et les richesses cachent, sous des dehors séduisans L?s véritables
-poisons qui rongent les états. Ce fut donc une bien étrange nouveauté,
-dans le système des opinions, lorsqu'un paradoxe inconcevable osa
-attribuer aux Lettres des désastres qui ne sont pas leur ouvrage.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Raisonner ainsi ce serait contredire toutes les leçons de l'expérience,
-ce serait méconnaître qu'une langue quelconque ne s'épure, ne se polit
-qu'après avoir été longt-temps exercée travaillée par des hommes de
-goût, qui la dégagent insensiblement dans leurs écrits de tours vicieux,
-d'expressions impropres manquant de clarté, d'élégance et d'harmonie.
-D'après ce principe incontestable, combien on est autorisé de penser que
-les Lettres avaient été depuis long-temps introduites et cultivées dans
-la Grèce, avant l'apparition d'77o~M/'e et d'T~/o~?, puis~ que l'Idiome
-dont ils se servirent éprouva peu de changemens après leur mort puisque
-leurs ouvrages Immortels firent les dcHcës de la cour de P~M~~ d'c,</p>
-<p><pb/></p>
-<p>et qu'ils charmèrent les difficiles amateurs du plus pur allicisme ? ~?</p>
-<p>après</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>0 superbe Albion les sanglantes riva- lités qui, entre la Seine et la
-7~MM~, ont entretenu autrefois de si longues Inimitiés, ne m'empêcheront
-pas de me servir</p>
-<p><pb/></p>
-<p>Après un tel exemple., ô ~T~c~M~~ ô le plus perfide des orateurs sors à
-ma voix' du sombre asile qui renferme ta cendre, et oses nous parler
-encore de tes sophismes et de ta haine contre les Lettres Oseras-tu leur
-attribuer des effets</p>
-<p><pb/></p>
-<p>dont le luxe et les richesses sont les seuls coupables ? Pour justifier
-l'ignorance, oseras-tu nous vanter des sauvages, ou l'image stupide de
-tonAo~:H!C ~/H!&lt;~ Auprès de cette création burlesque, ressusciteras-tu
-le roman de tous les peuples un âge d'or qui n'a jamais existé ?
-Détracteur d'une politesse qui peut méditer des perfidies, lui
-préfël'erastu des meurtres sans dissimulation la franchise du Caraïbe
-immolant ses vieillards, ou celle du C&lt;e qui dévore ses prisonniers ?
-Poursuis, dangereux sophiste. réédine le genre humain qui n'a dégénéré
-que par l'effet de tes périodes Sur les constitutions de la vie sauvage
-jette les fbndemens de nos chartes sociales et que l'hébétement, la loi
-du plus fort, un égoj'sme farouche, le seul sentiment des besoins
-physiques, rétablissent parmi nous nos droits, la nature et nos
-primitives vertus! Mais, a quel degré de civilisation si stricte et si
-épurée t'arréteras-tu qu'il ne soit tout souillé par les crimes et les
-passions ? Va. c'est aux seules Lettres que tu proscrits, ~quit~ 44
-appartient d'ennoblir les actions humaines, de décorer le trône des
-rois, les autels de la religion. L'abus de ces mé-</p>
-<p><pb/></p>
-<p>OBSERVATIONS.</p>
-<p><pb/></p>
-<p>r/</p>
-<p>les Tartares asservissent constamment les Chinois, ne cherchez les
-causes de cette servitude héréditaire parmi eux, que dans les seuls
-vices de leurs institutions primitives.</p>
-<p>H est véritablement impossible de compter les contradictions sans nombre
-oit Rousseau tombe pour ainsi dire a chaque page, dans son trop célèbre
-discours. Sans doute il a grand soin de nous y parler de la mollesse des
-Persans, qu'il nous peint entièrement énervés par les richesses et par
-les Arts mais il se garde bien de nous dire que ces mêmes Persans le
-cédaient en talons et en instruction aux Grecs, aux Macédoniens qui les
-vainquirent et les subjuguèrent.</p>
-<p>Mais, que penser de ~oHMe&lt;M&lt;, lorsqu'il nous déclare que les A'fcm' les
-Lettres et /&lt;SF. ~yM c'/eKdent des gtM'r~fM&amp;M de fleurs sur les c~&lt;:M&lt;M
-&lt;7e~B)' dont sont e/!&lt;!fgM /M /tt)/M~t&lt;M assemblés et yt&lt; leur font
-a)'&lt;e&lt;e!M'Mc&amp;ffage? Quelle fausseté! quelle calomnie! N'est-il pas
-incontestablement prouve, démontre que lé despotisme ne peut pas exister
-iof'g-</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>résultats que je présente, j'a! pour garant de mon opinion t'un~e~ces
-profonds génies, qui ne créent pas des législations idéales, mais qui
-ëciairent et perfectionnent cpHes qui existent ou qu! peuvent seu!e&amp;
-exister. Je cite ses,propres expressions:</p>
-<p>te:. haMtaus auraient assez de courage pour se passer</p>
-<p>de tant de ehos~~u'ifs doivent leurs besoins, te peaple dëpërirMt tous
-Jes jours; et t'ëtat deTiendrait, si faible, qu'il n'v anraH s! peti&lt;.t;
-puissance qu! np fut en ëtat df! le conquërir. Je pourrais ( ajeute le
-e. m~me auteur) entrer ~M~ un lông. détail, etfa,ire You\ que tes E~Suus
-des particutiëM cesser pres.. que; a~sotùn~ prince.
-Gttac~n?n~t)rer~~de,rëYpnuiqN~'d~~Lte~ et 1
-~ttfe~t~~)s~s~t!~tî,qu~~e;tn~ &amp;u).~j)c~;t)6. pa~ tmo.u'rtr'~e.
-faîm.ai~onml6~ ce, n'est ,pas: la cën-: 'pMt~ë~enu,~d'~nTpya).ttne!t
-ia~drat~q~ë~ ~~te~~mbi'ei~aMt!)~tnM&amp;rop&lt;)rtIo~ ~qM't~n'en~jrëst&amp;t~que~!
-~me~p~~ ;» ( Leëtré,s</p>
-<p>~JË~M~</p>
-<p>~~S~M~M. pax</p>
-<p>~~t~s~Lë'ttrëSj.~onnes.,et~Mtites:pa</p>
-<p>'°/nte!m~~s~M]fO)~)~s~Tiqn~</p>
-<p>~ts~~t~e!&amp;r~,l~~plus' par&amp; est~ ,cotëi</p>
-<p>'ni~a~e" a p~ve.</p>
-<p>~nir~exttrp~r'Më~b.~ ~cx~</p>
-<p>-d~ .i~</p>
-    </div>
+      <div>
+        <p>
+          <pb/>
+        </p>
+        <p>J. JACQUES</p>
+        <p>ROUSSEAU DÉVOILÉ,</p>
+        <p>ou</p>
+        <p>0 U</p>
+        <p>R~r~TATIQN DE SON ~ISSOUR~</p>
+        <p>CONTRE ~SCtENCES ET LES LETTRES PAR M. L'ABBÉ AILLAUD,</p>
+        <p>f/'o/e~~ew ~&amp;~0)-/yt&lt;e ait CoMege de ~yonyaM~OM. DocLrina 'sed von promovet ins!tam,</p>
+        <p>RecUque cuttus peetora j'obprant.</p>
+        <p>HORACE.</p>
+        <p>A MONTAÙBAN,</p>
+        <p>De l'Imprimerie de Fa. CROSJLHES, place d'Armes.</p>
+        <p>.S.?.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>AVANT-PROPOS.</p>
+        <p>A.u moment où de nouvelles éditions s'empressent de propager les funestes doctrines de J. J. Rousseau, il me parait très-utile que ces mêmes doctrines soient méthodiquement attaquées et combattues par des écrivains bien intentionnés, cherchant dans leurs nobles travaux à rétablir les mœurs publiques et les véritables lumières.</p>
+        <p>C'est donc le seul but du discours que je publie. J'ai tâché d'y détruire et d'y pulvériser les ridicules et spécieux sophismes, employés par le philosophe de Genève dans son éloquente diatribe contre les Sciences et les Lettres. Et, loin que ma réponse ne traite qu'un objet purement littéraire, elle embrasse au contraire les grands intérêts de l'ordre social. J'y démontre, en effet, par des raisons solides, que la pre-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Homme qui que tu sois, quelque contrée que tu habites, tiens sans cesse ouvert le livre de L'Evangile, qui ne ment jamais, et ferme pour toujours celui de la nature, que</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>abstractions qui ont protluit tant de fléaux votre phil'mtropie, qui n'a créé que des monstres ou des principes qui ont dévasté les consciences, comme if;s empires? Malheureux vous avez ravi aux yeux de l'homme sensible le plus beau spectacle que la terre pouvait lui offrir, celui des peuples qui s'aimaient et qui vivaient en frères</p>
+        <p>
+          <pb/>
+        </p>
+        <p>J. JACQUES</p>
+        <p>R OU S SE AU</p>
+        <p>DÉVOILE,</p>
+        <p>0 U</p>
+        <p>RÉFUTATION DE SON DISCOURS CONTRE LES SCŒNCES ET LES LETTRES.</p>
+        <p>CE monde est si tristement désolé par les charlatans qu'il n'est point d'extravagances qa'on n'ait très-sérieusement adoptées en religion en politique en morale, en littérature. L'imbécille Egypte vénéra ses oignons le rhéteur ~o/~KM fit admirer aux Grecs ses sentences boursoufflées Cratés se couvrit de boue et passa pour un philosophe DM~c/!e se pavana insolemment dans son tonneau, et fonda la secte des Cyniques. N'a-t-on</p>
+        <p>
+          <pb/>
+        </p>
+        <p>pas vu des idiots, ou des tourbes, exalter un jP~ /v'~o/ qui doutait de les voir ? Et plus récemment, T~c/H' n'a-t-il pas érigé en dogmes de pratique, en art de régner, la théorie de tous les crimes politiques ?</p>
+        <p>
+          <pb/>
+        </p>
+        <p>prosateur glacé, cet insipide C'oy~c/'c&lt;?~, ce propagateur testamentaire de l'opinion philosophique de D&lt;x~?/7! en un mot, cet absurde panégyriste d'une per{ectibilitë chunërique et qui vante niaisement ou hypocritement les progrès de l'esprit humain jusque sur le tombeau de toutes les Idées saines et religieuses. Lisez le pédadogue -~a~7. Rien ne lui plaît dans ce monde que la licence et ses déclamations. Il gronde la religion, les rois il fait des contes, il calcule, il dogmatise dans sa fureur oratoire, il a la rage du tigre; il ne .médite que des ruines, en vomissant au. loin ses ardentes métaphores et ses périodes interminables. Que dire d'un La/7ze&lt;/7'&lt;?, salissant par ses éruptions bachiques la table où il écrivait son ~077!7?!7~c~ Parlerons-nous de l'ënergumcne D/Je~o&lt;, proscrivant, comme de honteuses 'entraves, les principes de la religion, de la morale, et fondant la prospérité de l'ordre social suruney'M~/tar/no/M'ef/M les /!?M~i'on.? Harmonie véritablement absurde impossible, Idéale, puisque deux passions opposées, se balançant avec justesse, avec efncacitë, produiraient, par une égalité de résistance, une Immobi-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>c'est le comble du ridicule c'est l'oubli de tous les principes. Pour avancer un tel axiome, il faut singulièrement compter sur la frivolité de la plupart des lecteurs comme sur linépuisable fonds de li~ sottise humaine. Je suis en effet, et bien franchement, tente de croire que de toutes les têtes soi-disant philosophiques, celle de M. de oitaire quoique sous le diadème est la moins pensante la moins propre à l'analyse, la moins capable de construire un système quelconque, lié a un p rincipe. unique, d'où les conséquences dérivent si ce n'e~t pas toujours avec clarté du moins avec une apparence d'ordre et de raisonnement. ~e~f~'H.! et D/~ero~ sont certainement deux Valseurs de rêves-creux, bien dignes d'être récianiés par la philosophie indienne luais enfin, ils font quelquefois preuve de suite de liaison dans les idées, de quelques traces de logique, jusque dans l'abus qu'ils font de cet art, et jusque dans les excètde leur démence. Ne cherchez rien de tout cela dans M. de Voltaire. Des prêtres dans les pyramides, 7~&lt;2&lt;on dans le lycée, ~r?j'~&lt;e dans son école, .P~/Mgv)rg dans sa grotte, ~o/'c auprès de .P~/vc/e.)' dëvoi-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>;j</p>
+        <p>
+          <pb/>
+        </p>
+        <p>qui ne le quittèrent jamais et cet écrivain admirable, le premier orateur de son siècle eût été /M~7MMM pour les lois, Z}/c~&lt;? pour l'histoire, Z~/ïc7o/! dans la morale et il n'eut courbé sa raison que devant celle de/~MC&lt;~ et son éloquence que devant le~seul jS(?~</p>
+        <p>Ainsi, privé d'une direction salutaire, celui qui était destiné à devenir l'oracle de. ses contemporains, n'en a été que le e sophiste le plus dangereux, le plus accrédité et cela ne pouvait arriver autrement. En effet, sans la boussole des vrais principes, comment ~OM~~K, toujours emporté par son ame ou par son Imagination, toujours aigri par ses Infortunes, ou trompé par son humeur sauvage, eût-Il pu défendre sa raison contre tant d'ennemis ligués pour la submerger ?</p>
+        <p>Eh bien! leur pouvoir opère, leur triomphe est complet. Voyez l'Infortuné J. Jacques il lit le sujet proposé par l'Académie de Dijon l'amour du merveilleux le gagne, sa tête s'enfbmme, son esprit franchit toutes les révolutions morales; II crée aux hommes une enfance imaginaire dans son délire, il croit voir des choses admirables II s'exalte il se passionne pour son ouvrage comme</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Qui croirait cependant que la prétention d'établir de nouvelles idées, de fonder une nouvelle doctrine, peut égarer un génie supérieur, au point de lui faire proposer aux hommes, pour règles de conduite des rêves dignes des 7~7/e et M~e 2VM~ Mais comme la mysantlhopie a ses degrés et que ses plus bizarres productions sont toujours précédées de quelques essais, quelle fut donc la pierre angulaire du singulier édincc élevé par Y. Jac~He~, pour remplacer notre si anti-naturel édifice social ? Cette pierre</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>V f</p>
+        <p>cieusement des choses bonnes de leur</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>du fils de Yc/y~ II eu est de ta</p>
+        <p>
+          <pb/>
+        </p>
+        <p>0 vous tous, malheureux disciples d'une philosophie qui vous égare, descendez avec moi par ta pensée dans les souterrains religieux des antiques pyramides La, auprès de' la cendre auguste de ces prêtres révérés, qui formaient les sages, les savans, les législateurs, vous trouverez les souvenirs des plus hautes vertus graves sur les monumens de la science la plus sublime.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>de l'homme l'autre, excepté pour ses besoins physiques rend inutiles son courage, son industrie son agilité. La science et l'instruction, renfermées dans leurs justes limites, seront donc le plus bel ornement de la société, puisque l'ame est notre plus bel attribut, et si les ouvrages de nos mains ne peuvent être compares aux opérations de notre esprit, l'homme dans un état d'ignorance, est donc un être dégrade tandis que instruit et vertueux, il s'offre a nous dans un état de perfection. Peut-on se refuser au plaisir d'opposer au spectacle humiliant des hommes /?r/~M'r de Rousseau, ou des huttes habitées par des sauvages stupides et féroces, cette belle décoration que produisent les Sciences et les Arts ? Contemplez ces canaux, ces labyrinthes ces pyramides, ce temple magique, où le ciseau de Z%dias semble fixer Jupiter lui-même ces théâtres où des héros qui ne sont plus revivent avec leurs propres actions. Suivez .Df/Mo~e~ dans la place publique il tonne il persuade il enchaine les passions par les passions mêmes son éloquence a créé des armées,. Admirez ~rc~M&lt;ife~ lui seul et son génie sont le</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Mais il me resté une objection véritablement spécieuse a détruire. Rousseau prétend que dans les états purement civilisés, c'est-a-du'ë, qui ignorent les Scien-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>En effet, ce n'est pas parc~que les Romains devinrent plus polis plus savans, plus éclairés, qu'ils devinrent plus corrompus mais parce qu'ils étendirent trop loin les limites de leur territoire parce que l'action plus compliquée de leur gouvernement devint plus lente, moins efncace parce qu'ils multiplièrent trop leurs généraux, leurs proconsuls, leurs armées et que leurs passions excitées par des jouissances s'agrandirent avec les conquêtes. Qu'arriva-t-il enfin de toutes ces causes réunies ? que leurs chefs furent plus redoutables par leur nombre, plus enhardis par l'Impunité qu'insensiblement ils devaient s'accoutumer aux mœurs</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Cessons donc d'exagérer les antiques vertus de ~o/?!&lt;?, et .répondons à J{o?~</p>
+        <p>
+          <pb/>
+        </p>
+        <p>On sent bien qu'aux grands exemples de l'antiquité qu'il se plaît d'exhausser et d'accommoder aux intérêts de son discours j~. J~cyMi?~ ne manquera pas, r</p>
+        <p>6</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>pendant les peuples que je viens de dénoncer ne sont connus ni par leurs statuaires, ni par leurs peintres, ni par leurs théâtres, ni parleurs orateurs. Ne puis-je pas en dire autant de la France pendant les deux premières races de nos Rois ? La plupart des Fiançais ne savaient alors ni lire ni écrire et cependant, quelles mœurs que celles d'un Clotanc 1. d'une Frédégonde d'une Brunehaut ? Si je n'écrivais que pour des esprits vulgaires combien il me serait aisé d'effrayer leur imagination par le spectacle odieux de tous les vices de toutes les fureurs qui, sans interruption, dégradèrent les longs règnes de l'ignorance, et après des raisons tracées par le sang des victimes, qu'un sophiste débouté ose placer les douces vertus de l'âge d'or loin du sanctuaire de 1 Instruction et de la politesse Mais poursuivons. C'était sans doute depuis long-temps un axiome reconnu par tous les publicistes, que le luxe et les richesses cachent, sous des dehors séduisans L?s véritables poisons qui rongent les états. Ce fut donc une bien étrange nouveauté, dans le système des opinions, lorsqu'un paradoxe inconcevable osa attribuer aux Lettres des désastres qui ne sont pas leur ouvrage.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Raisonner ainsi ce serait contredire toutes les leçons de l'expérience, ce serait méconnaître qu'une langue quelconque ne s'épure, ne se polit qu'après avoir été longt-temps exercée travaillée par des hommes de goût, qui la dégagent insensiblement dans leurs écrits de tours vicieux, d'expressions impropres manquant de clarté, d'élégance et d'harmonie. D'après ce principe incontestable, combien on est autorisé de penser que les Lettres avaient été depuis long-temps introduites et cultivées dans la Grèce, avant l'apparition d'77o~M/'e et d'T~/o~?, puis~ que l'Idiome dont ils se servirent éprouva peu de changemens après leur mort puisque leurs ouvrages Immortels firent les dcHcës de la cour de P~M~~ d'c,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>et qu'ils charmèrent les difficiles amateurs du plus pur allicisme ? ~?</p>
+        <p>après</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>0 superbe Albion les sanglantes riva- lités qui, entre la Seine et la 7~MM~, ont entretenu autrefois de si longues Inimitiés, ne m'empêcheront pas de me servir</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Après un tel exemple., ô ~T~c~M~~ ô le plus perfide des orateurs sors à ma voix' du sombre asile qui renferme ta cendre, et oses nous parler encore de tes sophismes et de ta haine contre les Lettres Oseras-tu leur attribuer des effets</p>
+        <p>
+          <pb/>
+        </p>
+        <p>dont le luxe et les richesses sont les seuls coupables ? Pour justifier l'ignorance, oseras-tu nous vanter des sauvages, ou l'image stupide de tonAo~:H!C ~/H!&lt;~ Auprès de cette création burlesque, ressusciteras-tu le roman de tous les peuples un âge d'or qui n'a jamais existé ? Détracteur d'une politesse qui peut méditer des perfidies, lui préfël'erastu des meurtres sans dissimulation la franchise du Caraïbe immolant ses vieillards, ou celle du C&lt;e qui dévore ses prisonniers ? Poursuis, dangereux sophiste. réédine le genre humain qui n'a dégénéré que par l'effet de tes périodes Sur les constitutions de la vie sauvage jette les fbndemens de nos chartes sociales et que l'hébétement, la loi du plus fort, un égoj'sme farouche, le seul sentiment des besoins physiques, rétablissent parmi nous nos droits, la nature et nos primitives vertus! Mais, a quel degré de civilisation si stricte et si épurée t'arréteras-tu qu'il ne soit tout souillé par les crimes et les passions ? Va. c'est aux seules Lettres que tu proscrits, ~quit~ 44 appartient d'ennoblir les actions humaines, de décorer le trône des rois, les autels de la religion. L'abus de ces mé-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>OBSERVATIONS.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>r/</p>
+        <p>les Tartares asservissent constamment les Chinois, ne cherchez les causes de cette servitude héréditaire parmi eux, que dans les seuls vices de leurs institutions primitives.</p>
+        <p>H est véritablement impossible de compter les contradictions sans nombre oit Rousseau tombe pour ainsi dire a chaque page, dans son trop célèbre discours. Sans doute il a grand soin de nous y parler de la mollesse des Persans, qu'il nous peint entièrement énervés par les richesses et par les Arts mais il se garde bien de nous dire que ces mêmes Persans le cédaient en talons et en instruction aux Grecs, aux Macédoniens qui les vainquirent et les subjuguèrent.</p>
+        <p>Mais, que penser de ~oHMe&lt;M&lt;, lorsqu'il nous déclare que les A'fcm' les Lettres et /&lt;SF. ~yM c'/eKdent des gtM'r~fM&amp;M de fleurs sur les c~&lt;:M&lt;M &lt;7e~B)' dont sont e/!&lt;!fgM /M /tt)/M~t&lt;M assemblés et yt&lt; leur font a)'&lt;e&lt;e!M'Mc&amp;ffage? Quelle fausseté! quelle calomnie! N'est-il pas incontestablement prouve, démontre que lé despotisme ne peut pas exister iof'g-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>résultats que je présente, j'a! pour garant de mon opinion t'un~e~ces profonds génies, qui ne créent pas des législations idéales, mais qui ëciairent et perfectionnent cpHes qui existent ou qu! peuvent seu!e&amp; exister. Je cite ses,propres expressions:</p>
+        <p>te:. haMtaus auraient assez de courage pour se passer</p>
+        <p>de tant de ehos~~u'ifs doivent leurs besoins, te peaple dëpërirMt tous Jes jours; et t'ëtat deTiendrait, si faible, qu'il n'v anraH s! peti&lt;.t; puissance qu! np fut en ëtat df! le conquërir. Je pourrais ( ajeute le e. m~me auteur) entrer ~M~ un lông. détail, etfa,ire You\ que tes E~Suus des particutiëM cesser pres.. que; a~sotùn~ prince. Gttac~n?n~t)rer~~de,rëYpnuiqN~'d~~Lte~ et 1 ~ttfe~t~~)s~s~t!~tî,qu~~e;tn~ &amp;u).~j)c~;t)6. pa~ tmo.u'rtr'~e. faîm.ai~onml6~ ce, n'est ,pas: la cën-: 'pMt~ë~enu,~d'~nTpya).ttne!t ia~drat~q~ë~ ~~te~~mbi'ei~aMt!)~tnM&amp;rop&lt;)rtIo~ ~qM't~n'en~jrëst&amp;t~que~! ~me~p~~ ;» ( Leëtré,s</p>
+        <p>~JË~M~</p>
+        <p>~~S~M~M. pax</p>
+        <p>~~t~s~Lë'ttrëSj.~onnes.,et~Mtites:pa</p>
+        <p>'°/nte!m~~s~M]fO)~)~s~Tiqn~</p>
+        <p>~ts~~t~e!&amp;r~,l~~plus' par&amp; est~ ,cotëi</p>
+        <p>'ni~a~e" a p~ve.</p>
+        <p>~nir~exttrp~r'Më~b.~ ~cx~</p>
+        <p>-d~ .i~</p>
+      </div>
     </body>
   </text>
 </TEI>

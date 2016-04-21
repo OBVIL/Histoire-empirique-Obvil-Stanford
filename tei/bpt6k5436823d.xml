@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
- <teiHeader>
-<fileDesc>
-<titleStmt>
-<author key="Dante Alighieri (1265-1321)">Dante Alighieri</author>
-<title>La Vision de Dante au paradis terrestre ("Purgatorio", canto XXIX, v. 16-XXXII, v. 160). Traduction et commentaire par M. Bergmann...</title>
-</titleStmt>
-<editionStmt>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La Vision de Dante au paradis terrestre (“Purgatorio”, canto XXIX, v. 16-XXXII, v. 160). Traduction et commentaire par M. Bergmann...</title>
+        <author key="Dante Alighieri (1265-1321)">Dante Alighieri</author>
+      </titleStmt>
+      <editionStmt>
         <edition>OBVIL/BNF</edition>
         <respStmt>
           <resp>reprise des textes</resp>
           <name>Amélie Canu</name>
         </respStmt>
       </editionStmt>
-<publicationStmt>
+      <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
         <availability status="restricted">
@@ -22,361 +22,274 @@
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
-<sourceDesc>
-<bibl>
-<author>Dante Alighieri (1265-1321)</author>, <title>La Vision de Dante au paradis terrestre ("Purgatorio", canto XXIX, v. 16-XXXII, v. 160). Traduction et commentaire par M. Bergmann...</title>, <date>1864</date>,description :,34 pages
-</bibl>
-<publisher>impr. de C. Decker (Colmar)</publisher>
-<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k5436823d</idno>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1864">1864</date>
-</creation>
-<langUsage>
-<language ident="fr"/>
-</langUsage>
-</profileDesc>
- </teiHeader>
+      <sourceDesc>
+        <bibl> <author>Dante Alighieri (1265-1321)</author>, <title>La Vision de Dante au paradis terrestre ("Purgatorio", canto XXIX, v. 16-XXXII, v. 160). Traduction et commentaire par M. Bergmann...</title>, <date>1864</date>,description :,34 pages </bibl>
+        <publisher>impr. de C. Decker (Colmar)</publisher>
+        <idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k5436823d</idno>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1864">1864</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-    <div>
-<p><pb/>
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-------------------------------------------------------------------------</p>
-<p>LA VISION DE DANTE</p>
-<p>AU PARADIS TERRESTRE.</p>
-<p>(Purgatorio, canto xxrx , v. 16. — xxxii, v. 160J Traduction et
-commentaire par M. BEmSKSwr;—--</p>
-<p>Extrait de la REVUE D'ALSACE\ •.,</p>
-<p>i.</p>
-<p>La vision que Dante suppose avoir eue au Paradis terrestre n'a pas
-encore été jusqu'ici parfaitement comprise ni convenablement expliquée.
-Il importe donc d'en donner succinctement le vrai commentaire, en
-montrant quel a été le but du poète ou l'idée qu'il a voulu énoncer, et
-en interprêtant les formes symboliques qu'il a choisies pour exprimer sa
-pensée.</p>
-<p><pb/></p>
-<p>— 2 —</p>
-<p>gouvernements, dans les. temps primitifs, ensuite, la préparation et
-l'arrivée de l'Empire et de la Papauté, et enfin, la grandeur et la
-décadence du pouvoir temporel et spirituel sont représentées, dans celte
-vision, sous la figure d'une procession, ou d'une série de tableaux
-montrant des personnages et des actions symboliques. La suite de ces
-tableaux et de ces personnages, se succédant dans l'espace, indique la
-succession des gouvernements dans le temps ou dans l'histoire. Aussi
-pour faire comprendre de quelle manière le poète florentin a conçu et.
-exposé l'histoire de l'origine, de l'apogée, et de la dégénération de
-l'Empire et de la Papauté, est-il nécessaire d'expliquer ici la
-signification des personnages allégoriques, et des actions symboliques,
-que Dante suppose avoir aperçus successivement dans sa vision.</p>
-<p>IL</p>
-<p>6. Et voici qu'une lueur subite parcourut,</p>
-<p>Par toutes ses parties , la grande forêt,</p>
-<p>Telle que je doutai si ce n'était pas un éclair</p>
-<p>15. Un peu plus loin, sept arbres d'or</p>
-<p>Semblaient paraître , d'après le long espace, Qui était encore entre eux
-et nous.</p>
-<p><pb/></p>
-<p>— 3 —</p>
-<p>16. Mais lorsque je fus si rapproché d'eux</p>
-<p>Qu'un simple objet qui trompe le sens Ne pouvait plus, par la distance,
-dénaturer son être,</p>
-<p>Reconnut comme des candélabres , Et l'Hosannah dans les voix chantantes.
-\ 8. D'en haut ce beau lustre flamboyait</p>
-<p>De beaucoup plus brillant que le clair de la lune</p>
-<p>Au milieu de la nuit, au milieu de son mois</p>
-<p>22. Alors , les suivant comme leurs guides, je vis des gens Venir après,
-vêtus de blanc D'une blancheur telle comme jamais il n'en fut ici-bas....</p>
-<p>25. Et je vis les flammes allant en avant</p>
-<p>26. De sorte , qu'au-dessus , l'air resta peint</p>
-<p>De sept bandes, toutes des couleurs Dont Phébus fait son arc et Délie sa
-ceinture.</p>
-<p>27. Ces étendards s'étendaient en arrière plus loin</p>
-<p>ni.</p>
-<p><pb/></p>
-<p>_ 4 —</p>
-<p>29. Tous chantaient : « Bénie sois-tu</p>
-<p>IV.</p>
-<p><pb/></p>
-<p>— 5 —</p>
-<p>pouvoir séculier, marchent les quatre vertus cardinales de la
-philosophie laïque, la Prudence, la Justice, la Force et la Tempérance.</p>
-<p><pb/></p>
-<p>— 6 —</p>
-<p>36. L'espace entre eux quatre renfermait</p>
-<p>Un ehar de triomphe sur deux roues Qui avançait tiré au collier par un
-Griffon.</p>
-<p>37. Et celui-ci élevait l'une et l'autre aile</p>
-<p><pb/></p>
-<p>- 7 —</p>
-<p>V.</p>
-<p>En-dehors de la Chrétienté ou de l'Etat et de l'Eglise représentés par
-le Char, et en-dehors du gouvernement impérial et du gouvernement papal,
-représentés par le Griffon, il y a les gouvernements des peuples
-non-chrétiens. Par analogie avec les quatre monarchies, qui, d'après la
-vision de Daniel, sont symbolisés par quatre bêtes , Dante imagine
-également les peuples non-chrétiens au nombre de quatre. 11 symbolise
-ces gouvernements par quatre chérubins qui sont les anges, les ministres
-ou les envoyés de Dieu auprès des infidèles et représentent, par leur
-quadruple figure ou par leurs membres d'homme, de lion, d'aigle et de
-boeuf, les quatre vertus laïques dont s'inspirent ces gouvernements
-placés en-dehors de l'inspiration du Saint-Esprit.</p>
-<p><pb/></p>
-<p>— 8 —</p>
-<p>Vinrent après eux quatre animaux Tous couronnés de vert feuillage.</p>
-<p>32. Chacun était empenné de six ailes ,</p>
-<p>Aux plumes pleines d'yeux , et les yeux d'Argus , S'ils étaient vivants
-, seraient comme eux.</p>
-<p>33. L'espace entre eux quatre renfermait</p>
-<p>Un Char de triomphe</p>
-<p>VI.</p>
-<p>45. Après tout ce groupe décrit</p>
-<p>Je vis deux vieillards, différents de vêtements , Mais pareils
-d'attitude vénérable et calme.</p>
-<p>46. L'un se montrait comme un des familiers</p>
-<p>De ce grand Hippocrale que la nature Fit pour les animaux qui lui sont
-le plus chers.</p>
-<p>celui de Griffon , était probablement aussi identique avec le nom de
-Garuudas , qui, en sanscrit, signifie oiseau , et désignait, dans la
-mythologie indienne , l'oiseau merveilleux que les Perses ont désigné,
-plus tard , sous le nom de Simourg. Cet oiseau est même devenu le
-symbole de Dieu , dans la philosophie mystique des Soufis. Voy. La
-Poésie philosophique et religieuse chez les Persans, etc. , par M.
-GARCIN DE TASSY.</p>
-<p><pb/></p>
-<p>— 9 —</p>
-<p>47. L'autre montrait une disposition contraire,</p>
-<p>48. Puis j'en vis quatre d'humble apparence ,</p>
-<p>Et derrière tous un vieillard seul Venir, dormant, avec la figure inspirée.</p>
-<p>49. Et ces sept, comme le premier groupe</p>
-<p>Etaient vêtus : pourtant de lis Us n'avaient pas de couronne autour de
-la tête ,</p>
-<p>50. Mais de roses et d'autres fleurs vermeilles :</p>
-<p>Les voyant d'un peu loin on aurait juré Que tous étaient ardents
-au-dessus des sourcils</p>
-<p>VII.</p>
-<p><pb/></p>
-<p>— 40 —</p>
-<p>Après sa confession , qu'il a faite en présence de Béatrice ou de la
-conscience chrétienne, Dante obtient l'absolution plénière, qui, après
-les erreurs et les troubles de son esprit, lui rend la paix et le
-bonheur de l'àme. Pour qu'il oublie entièrement ses anciennes erreurs,
-cause de son tourment, il est plongé dans le fleuve Lélhé (Oubli), par
-Mathilde 2 qui est le symbole du bonheur de l'innocence au Paradis
-terrestre. Il passe ensuite des mains des quatre Yertus philosophiques
-dans celles des trois Yertus théologales , qui lui font voir les yeux de
-Béatrice, c'est-à'</p>
-<p>2 Cette Mathilde du Paradis terrestre n'a rien de commun avec la grande
-comtesse Mathilde qui a laissé , par donation, au saint-siége ses vastes
-possessions et que , pour celte raison , Dante a dû considérer comme la
-cause indirecte de la décadence du gouvernement papal. Mathilde était
-une demoiselle de Florence , amie de Béatrice ; et de même que Dante a
-t'ait de Béatrice la personnification du génie du christianisme, de même
-il a aussi fait de son amie Mathilde la personnification du bonheur de
-l'innocence. (Voy. Dante et sa Comédie , p. 9.)</p>
-<p><pb/></p>
-<p>— 11 —</p>
-<p>42. Et quand le char fut vis-à-vis de moi</p>
-<p>Canto xxx. 1. Lorsque le Septentrion du premier ciel,</p>
-<p>Comme le nôtre , moins élevé, dirige celui Qui tient le gouvernail pour
-arriver au port, 5. Se fut arrêté, la gent infaillible ,</p>
-<p>Venue la première entre le Griffon et lui, Se tourna vers le char comme
-vers la paix.</p>
-<p>4. Et l'un d'eux, comme envoyé du ciel,</p>
-<p>S'écria : « Veni sponsa de Libano , » En chantant trois fois, et tous
-les autres après.</p>
-<p>5. Tels , qu'au dernier appel, les bienheureux</p>
-<p>Se lèveront soudain, chacun de sa tombe , Chantant l'alléluia d'une voix
-qu'ils auront reprise ,</p>
-<p>6. Tels sur la divine baslerne ,</p>
-<p>Àd vocem tanli senis , Se levèrent cent ministres et apôtres de la vie
-éternelle.</p>
-<p>7. Tous disaient : » Benedictus qui veniss ! »</p>
-<p>11. Sous un voile blanc et ceinte d'olivier</p>
-<p>Avec un manteau vert, une Dame m'apparut En robe couleur de flamme vive ;</p>
-<p>12. Et mon esprit, bien qu'un long</p>
-<p>Temps se^fût passé , qu'en sa présence Tremblant il n'avait éprouvé la
-stupeur, 15. Sans davantage la reconnaître des yeux ,</p>
-<p><pb/></p>
-<p>- 12 -</p>
-<p>21. A la gauche du char</p>
-<p>Cachée sous l'expression angélique ,</p>
-<p>34. Elle cependant immobile, sur le côté indiqué</p>
-<p>Du Char, debout, aux Substances bénignes Adressa ses paroles de la sorte
-: 39. « Celui-ci, dans sa vie nouvelle, fut tel</p>
-<p>« Virtuellement que toute habitude droite « Aurait donné en lui
-d'admirables preuves ;.,... 42. « Mais sitôt que je fus sur le seuil</p>
-<p>« De mon second âge, et que je changeai de vie,</p>
-<p>48. « Le haut décret de Dieu serait rompu</p>
-<p>« Si l'on passait le Léthé et que d'une telle nourriture « On goûtât,
-sans avoir payé l'écot « Du repentir, qui verse des larmes.</p>
-<p>a Avec leurs faux plaisirs détournèrent mes pas</p>
-<p>« Sitôt que votre visage, s'est caché »</p>
-<p>50. Un remords si vif me déchira le coeur</p>
-<p>Que je tombai vaincu</p>
-<p>31. Puis, quand le coeur me rendit les sens extérieurs La Dame que
-j'avais trouvée seule Jela visau-dessus de moi; elle médit: «Tiens-moi,
-tiens-moi...»</p>
-<p>54. La belle Dame ouvrit les bras ,</p>
-<p>M'embrassa la tête, et me plongea Où il convenait que je busse l'eau :</p>
-<p>55. Ensuite elle me retira et m'introduisit ainsi baigné</p>
-<p>Dans la danse des quatre Belles , Et chacune d'un bras m'enlaça. 56 «
-Ici Nymphes nous sommes et dans leciel Etoiles noussommes, « Avant que
-Béatrice descendit dans le monde , « Nous lui fûmes destinées pour
-servantes.</p>
-<p><pb/></p>
-<p>— 13 —</p>
-<p>37. « Nous te mènerons devant ses yeux ; mais pour l'agréable</p>
-<p>« Lumière, qui est en eux, les tiens seront aiguisés « Ci-près par les
-Trois qui voient plus profondément. »</p>
-<p>38. Ainsi d'abord elles chantèrent : et puis</p>
-<p>Me menèrent au poitrail du Griffon , Où Béatrice , debout, était tournée
-vers nous</p>
-<p>40. Mille désirs, plus ardents que la flamme ,</p>
-<p>41. Comme le soleil dans le miroir , tout ainsi</p>
-<p>La double Bête rayonnait dedans , Tantôt avec tels gestes , tantôt avec
-d'autres. ■42. Pense lecteur ! si je m'étonnais</p>
-<p>En voyant la Bète ainsi immobile en soi Et se transformer dans son.image.</p>
-<p>VIII.</p>
-<p><pb/></p>
-<p>De même qu'au siècle d'airain, Astrée ou la Justice, quittant la terre
-où elle avait séjourné , dans le siècle d'or et le siècle d'argent, s'en
-retourna au ciel d'où elle était descendue , de même le Griffon, le
-véritable gouvernement impérial et papal, s'en retourne maintenant au
-ciel avec le cortège formé des Ecrivains sacrés de l'ancien et du
-nouveau Testament. Le vrai Empire, la vraie Papauté n'existent donc plus
-sur la terre ; seulement l'Etat et l'Eglise sont encore gardés par le
-Génie du christianisme et par des hommes qui, comme Saint Bernard ,
-Saint Dominique et Saint François, ont reçu les lumières de la science
-théologique et philosophique ainsi que les dons du Saint-Esprit.</p>
-<p><pb/></p>
-<p>— 15 -</p>
-<p>La glorieuse Armée , el elle s'en retourna Ayant le soleil et les sept
-Flammes en face. 7 Comme sous les boucliers , pour se sauver ,</p>
-<p>Une bande tourne et retourne avec son drapeau Avant qu'elle puisse
-entièrement changer de direction ,</p>
-<p>8. Ainsi celte milice du céleste empire ,</p>
-<p>Qui précédait, défila toute Avant que le limon eût tourné le Char.</p>
-<p>9. Puis , près des roues, se replacèrent les Dames</p>
-<p>Et le Griffon mut le Char béni, De manière cependant qu'aucune penne ne
-s'agita.</p>
-<p>10 Nous suivions la roue</p>
-<p>Dont l'orbite traça le plus petit cercle</p>
-<p>12. Peut-être en trois volées une flèche délivrée</p>
-<p>Mesure aulant d'espace que nous en avions Parcouru, quand Béatrice
-descendit. 13 Je les ouïs tous murmurer: « Adam ! »</p>
-<p>Puis ils entourèrent un arbre dépouillé De fleurs, et de feuillage en
-tous ses rameaux. 14. Sa ramure, qui s'étend d'autant plus</p>
-<p>Qu'elle s'élève plus haut, serait par les Indiens Admirée, dans leurs
-forêts , pour sa hauteur.</p>
-<p>13. « Sois heureux! Griffon ! que lu n'enlèves rien</p>
-<p>« Avec le bec, de cet arbre doux au goût, « Car ensuite tristement se
-lord le ventre. »</p>
-<p>16. Ainsi autour de l'Arbre robuste</p>
-<p>Crièrent les autres ; et l'Animal biforme : « Ainsi se conserve la
-semence de toute justice. »</p>
-<p>17. Et, tourné vers le timon qu'il avait tiré ,</p>
-<p>Il le traîna au pied de la ramure veuve , Et ce qui en était pris y
-laissa attaché.... 20. Non pas tant de roses mais plutôt de violelles
-Ayant pris la couleur, l'Arbre se raviva, Qui auparavant avait les
-rameaux si dépouillés</p>
-<p>24. Je passe au moment où je me réveillai</p>
-<p>29, Et plein de trouble je dis : « où est Béatrice ? »</p>
-<p>Et elle : « Vois-la , sous le feuillage Nouveau , assise sur sa racine : »</p>
-<p>30. « Vois la compagnie qui l'entoure :</p>
-<p><pb/></p>
-<p>_ 16 —</p>
-<p>31. Seule elle était assise sur la vraie terre,</p>
-<p>Comme une garde laissée près du Char Que j'avais vu attacher par la Bête
-biforme.</p>
-<p>IX.</p>
-<p>37. Jamais d'un mouvement si rapide ne descendit,</p>
-<p>Quand il pleut, le feu , d'un nuage épais, Du point du ciel le plus
-éloigné,</p>
-<p>38. Que je vis fondre l'oiseau de Jupiter</p>
-<p>En bas de l'Arbre , brisant même de l'écorce , Et non seulement des
-fleurs et des feuilles nouvelles.</p>
-<p><pb/></p>
-<p>17</p>
-<p>39. Et de toute sa force il frappa le Char,</p>
-<p>40. Ensuite je vis se précipiter dans la caisse</p>
-<p>41. Mais en lui reprochant ses laides coulpes</p>
-<p>Ma Dame la fat fuir aussi vite Que le permirent ses os décharnés.</p>
-<p>42. Ensuite par où d'abord il était venu</p>
-<p>Je vis l'Aigle descendre dans l'Arche Du char et la laisser jonchée de
-ses plumes.</p>
-<p>43. Et telle qu'elle sort d'un coeur qui s'afflige,</p>
-<p>Telle sortit une voix du ciel, et ainsi disait : « 0 ma nacelle ! comme
-tu es mal chargée ! »</p>
-<p>44. Puis il me semblait que la terre s'ouvrait</p>
-<p>45. Et, comme une guêpe qui retire l'aiguillon ,</p>
-<p>46. Ce qui en resta , comme de gazon,</p>
-<p>Une terre vivace , ainsi de plumes (offertes Peut-être avec une
-intention pure et bonne)</p>
-<p>47. Se recouvrit, et en furent recouverts</p>
-<p>L'une et l'autre roue et le timon en moins de temps Qu'un soupir ne
-tient la bouche ouverte.</p>
-<p>48. Ainsi transformé ce saint Edifice</p>
-<p>49. Les premières étaient cornues, comme des boeufs ,</p>
-<p>Mais les quatre avaient une seule corne au front, Pareil monstre n'a
-jamais été vu.</p>
-<p>X.</p>
-<p><pb/></p>
-<p>— 18 -</p>
-<p>52. Mais lorsque son regard avide et vagabond</p>
-<p>Se tourna vers moi, cet Amoureux féroce La flagella de la tête aux pieds.</p>
-<p>53. Ensuite , plein de soupçon et âpre de colère ,</p>
-<p>Il détacha le Monstre et le traîna par la forêt Tant que celle-ci, seule
-, devint pour moi un bouclier Contre la Prostituée et cette nouvelle Bote.</p>
-<p>XL</p>
-<p><pb/></p>
-<p>— 49 —</p>
-<p>Canto xxxm. 1. « Deus venerunt gantes, » ainsi alternant, Tantôt trois ,
-tantôt quatre, les Dames Commencèrent, tu pleurant, celte douce psalmodie.</p>
-<p>2. Et Béatrice , soupirant avec compassion ,</p>
-<p>Les écoutait, si défaite , que pas beaucoup Plus , sous la croix , Marie
-n'était altérée.</p>
-<p>3. Mais lorsque les autres vierges donnèrent lieu</p>
-<p>A elle de parler , se levant droite sur ses pieds, Et colorée comme le
-feu , elle répondit : •4. « Modicum et non videbilis me ,</p>
-<p>« Et ilerum , mes chères soeurs ! « Modicum , et vos videbilis me. » S.
-Puis elle mit devant elle toutes les sept,</p>
-<p>Et après elle, seulement en faisant un signe, elle fit marcher Moi et la
-Dame</p>
-<p>' Voy. Les Chants de Soi, p. 161.</p>
-<p><pb/></p>
-<p>« Je veux que désormais tu te dépouilles , « De sorte que tu ne parles
-plus comme un homme qui rêve.</p>
-<p>12. « Sache que le Vaisseau que le Serpent a brisé</p>
-<p>« Fut et n'est plus : mais que Celui qui en a la coulpe</p>
-<p>apprenne « Que la vengeance de Dieu ne craint pas la soupe.</p>
-<p>13. « Il ne sera pas toujours sans héritiers ,</p>
-<p>« L'Aigle qui laissa dans le Char les plumes « Par quoi il devint un
-monstre et puis une proie.</p>
-<p>14. « Car je vois certainement (et pour cela je l'annonce),</p>
-<p>15. « Où un Cinq-cent dix et cinq.</p>
-<p>« Envoyé de Dieu , détruira la Prostituée « Et le Géant qui péchait avec
-elle.</p>
-<p>18. « Toi ! note ; et telles que par moi sont énoncées</p>
-<p>19. « Et souviens-toi, quand tu les écriras ,</p>
-<p>« De ne pas cacher ce que tu as vu de l'Arbre « Qui pour la deuxième
-fois a été ici dépouillé. 20- « Quiconque le dépouille , ou le brise ,</p>
-<p>« De fait et avec blasphème offense Dieu « Qui seulement pour l'usage
-divin le créa sacré. 21. « Pour l'avoir mordu , dans la peine et l'attente</p>
-<p>« L'Ame première, pendant cinq mille ans et plus , « A aspiré vers
-Celui, qui, sur soi, a pupLLajmorsure. »</p>
-<p>Colmar, Imprimerie et Lithographie de Camille DECKER.</p>
-    </div>
+      <div>
+        <p><pb/> ------------------------------------------------------------------------ ------------------------------------------------------------------------ ------------------------------------------------------------------------ ------------------------------------------------------------------------ ------------------------------------------------------------------------ ------------------------------------------------------------------------</p>
+        <p>LA VISION DE DANTE</p>
+        <p>AU PARADIS TERRESTRE.</p>
+        <p>(Purgatorio, canto xxrx , v. 16. — xxxii, v. 160J Traduction et commentaire par M. BEmSKSwr;—--</p>
+        <p>Extrait de la REVUE D'ALSACE\ •.,</p>
+        <p>i.</p>
+        <p>La vision que Dante suppose avoir eue au Paradis terrestre n'a pas encore été jusqu'ici parfaitement comprise ni convenablement expliquée. Il importe donc d'en donner succinctement le vrai commentaire, en montrant quel a été le but du poète ou l'idée qu'il a voulu énoncer, et en interprêtant les formes symboliques qu'il a choisies pour exprimer sa pensée.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 2 —</p>
+        <p>gouvernements, dans les. temps primitifs, ensuite, la préparation et l'arrivée de l'Empire et de la Papauté, et enfin, la grandeur et la décadence du pouvoir temporel et spirituel sont représentées, dans celte vision, sous la figure d'une procession, ou d'une série de tableaux montrant des personnages et des actions symboliques. La suite de ces tableaux et de ces personnages, se succédant dans l'espace, indique la succession des gouvernements dans le temps ou dans l'histoire. Aussi pour faire comprendre de quelle manière le poète florentin a conçu et. exposé l'histoire de l'origine, de l'apogée, et de la dégénération de l'Empire et de la Papauté, est-il nécessaire d'expliquer ici la signification des personnages allégoriques, et des actions symboliques, que Dante suppose avoir aperçus successivement dans sa vision.</p>
+        <p>IL</p>
+        <p>6. Et voici qu'une lueur subite parcourut,</p>
+        <p>Par toutes ses parties , la grande forêt,</p>
+        <p>Telle que je doutai si ce n'était pas un éclair</p>
+        <p>15. Un peu plus loin, sept arbres d'or</p>
+        <p>Semblaient paraître , d'après le long espace, Qui était encore entre eux et nous.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 3 —</p>
+        <p>16. Mais lorsque je fus si rapproché d'eux</p>
+        <p>Qu'un simple objet qui trompe le sens Ne pouvait plus, par la distance, dénaturer son être,</p>
+        <p>Reconnut comme des candélabres , Et l'Hosannah dans les voix chantantes. \ 8. D'en haut ce beau lustre flamboyait</p>
+        <p>De beaucoup plus brillant que le clair de la lune</p>
+        <p>Au milieu de la nuit, au milieu de son mois</p>
+        <p>22. Alors , les suivant comme leurs guides, je vis des gens Venir après, vêtus de blanc D'une blancheur telle comme jamais il n'en fut ici-bas....</p>
+        <p>25. Et je vis les flammes allant en avant</p>
+        <p>26. De sorte , qu'au-dessus , l'air resta peint</p>
+        <p>De sept bandes, toutes des couleurs Dont Phébus fait son arc et Délie sa ceinture.</p>
+        <p>27. Ces étendards s'étendaient en arrière plus loin</p>
+        <p>ni.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>_ 4 —</p>
+        <p>29. Tous chantaient : « Bénie sois-tu</p>
+        <p>IV.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 5 —</p>
+        <p>pouvoir séculier, marchent les quatre vertus cardinales de la philosophie laïque, la Prudence, la Justice, la Force et la Tempérance.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 6 —</p>
+        <p>36. L'espace entre eux quatre renfermait</p>
+        <p>Un ehar de triomphe sur deux roues Qui avançait tiré au collier par un Griffon.</p>
+        <p>37. Et celui-ci élevait l'une et l'autre aile</p>
+        <p>
+          <pb/>
+        </p>
+        <p>- 7 —</p>
+        <p>V.</p>
+        <p>En-dehors de la Chrétienté ou de l'Etat et de l'Eglise représentés par le Char, et en-dehors du gouvernement impérial et du gouvernement papal, représentés par le Griffon, il y a les gouvernements des peuples non-chrétiens. Par analogie avec les quatre monarchies, qui, d'après la vision de Daniel, sont symbolisés par quatre bêtes , Dante imagine également les peuples non-chrétiens au nombre de quatre. 11 symbolise ces gouvernements par quatre chérubins qui sont les anges, les ministres ou les envoyés de Dieu auprès des infidèles et représentent, par leur quadruple figure ou par leurs membres d'homme, de lion, d'aigle et de boeuf, les quatre vertus laïques dont s'inspirent ces gouvernements placés en-dehors de l'inspiration du Saint-Esprit.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 8 —</p>
+        <p>Vinrent après eux quatre animaux Tous couronnés de vert feuillage.</p>
+        <p>32. Chacun était empenné de six ailes ,</p>
+        <p>Aux plumes pleines d'yeux , et les yeux d'Argus , S'ils étaient vivants , seraient comme eux.</p>
+        <p>33. L'espace entre eux quatre renfermait</p>
+        <p>Un Char de triomphe</p>
+        <p>VI.</p>
+        <p>45. Après tout ce groupe décrit</p>
+        <p>Je vis deux vieillards, différents de vêtements , Mais pareils d'attitude vénérable et calme.</p>
+        <p>46. L'un se montrait comme un des familiers</p>
+        <p>De ce grand Hippocrale que la nature Fit pour les animaux qui lui sont le plus chers.</p>
+        <p>celui de Griffon , était probablement aussi identique avec le nom de Garuudas , qui, en sanscrit, signifie oiseau , et désignait, dans la mythologie indienne , l'oiseau merveilleux que les Perses ont désigné, plus tard , sous le nom de Simourg. Cet oiseau est même devenu le symbole de Dieu , dans la philosophie mystique des Soufis. Voy. La Poésie philosophique et religieuse chez les Persans, etc. , par M. GARCIN DE TASSY.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 9 —</p>
+        <p>47. L'autre montrait une disposition contraire,</p>
+        <p>48. Puis j'en vis quatre d'humble apparence ,</p>
+        <p>Et derrière tous un vieillard seul Venir, dormant, avec la figure inspirée.</p>
+        <p>49. Et ces sept, comme le premier groupe</p>
+        <p>Etaient vêtus : pourtant de lis Us n'avaient pas de couronne autour de la tête ,</p>
+        <p>50. Mais de roses et d'autres fleurs vermeilles :</p>
+        <p>Les voyant d'un peu loin on aurait juré Que tous étaient ardents au-dessus des sourcils</p>
+        <p>VII.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 40 —</p>
+        <p>Après sa confession , qu'il a faite en présence de Béatrice ou de la conscience chrétienne, Dante obtient l'absolution plénière, qui, après les erreurs et les troubles de son esprit, lui rend la paix et le bonheur de l'àme. Pour qu'il oublie entièrement ses anciennes erreurs, cause de son tourment, il est plongé dans le fleuve Lélhé (Oubli), par Mathilde 2 qui est le symbole du bonheur de l'innocence au Paradis terrestre. Il passe ensuite des mains des quatre Yertus philosophiques dans celles des trois Yertus théologales , qui lui font voir les yeux de Béatrice, c'est-à'</p>
+        <p>2 Cette Mathilde du Paradis terrestre n'a rien de commun avec la grande comtesse Mathilde qui a laissé , par donation, au saint-siége ses vastes possessions et que , pour celte raison , Dante a dû considérer comme la cause indirecte de la décadence du gouvernement papal. Mathilde était une demoiselle de Florence , amie de Béatrice ; et de même que Dante a t'ait de Béatrice la personnification du génie du christianisme, de même il a aussi fait de son amie Mathilde la personnification du bonheur de l'innocence. (Voy. Dante et sa Comédie , p. 9.)</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 11 —</p>
+        <p>42. Et quand le char fut vis-à-vis de moi</p>
+        <p>Canto xxx. 1. Lorsque le Septentrion du premier ciel,</p>
+        <p>Comme le nôtre , moins élevé, dirige celui Qui tient le gouvernail pour arriver au port, 5. Se fut arrêté, la gent infaillible ,</p>
+        <p>Venue la première entre le Griffon et lui, Se tourna vers le char comme vers la paix.</p>
+        <p>4. Et l'un d'eux, comme envoyé du ciel,</p>
+        <p>S'écria : « Veni sponsa de Libano , » En chantant trois fois, et tous les autres après.</p>
+        <p>5. Tels , qu'au dernier appel, les bienheureux</p>
+        <p>Se lèveront soudain, chacun de sa tombe , Chantant l'alléluia d'une voix qu'ils auront reprise ,</p>
+        <p>6. Tels sur la divine baslerne ,</p>
+        <p>Àd vocem tanli senis , Se levèrent cent ministres et apôtres de la vie éternelle.</p>
+        <p>7. Tous disaient : » Benedictus qui veniss ! »</p>
+        <p>11. Sous un voile blanc et ceinte d'olivier</p>
+        <p>Avec un manteau vert, une Dame m'apparut En robe couleur de flamme vive ;</p>
+        <p>12. Et mon esprit, bien qu'un long</p>
+        <p>Temps se^fût passé , qu'en sa présence Tremblant il n'avait éprouvé la stupeur, 15. Sans davantage la reconnaître des yeux ,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>- 12 -</p>
+        <p>21. A la gauche du char</p>
+        <p>Cachée sous l'expression angélique ,</p>
+        <p>34. Elle cependant immobile, sur le côté indiqué</p>
+        <p>Du Char, debout, aux Substances bénignes Adressa ses paroles de la sorte : 39. « Celui-ci, dans sa vie nouvelle, fut tel</p>
+        <p>« Virtuellement que toute habitude droite « Aurait donné en lui d'admirables preuves ;.,... 42. « Mais sitôt que je fus sur le seuil</p>
+        <p>« De mon second âge, et que je changeai de vie,</p>
+        <p>48. « Le haut décret de Dieu serait rompu</p>
+        <p>« Si l'on passait le Léthé et que d'une telle nourriture « On goûtât, sans avoir payé l'écot « Du repentir, qui verse des larmes.</p>
+        <p>a Avec leurs faux plaisirs détournèrent mes pas</p>
+        <p>« Sitôt que votre visage, s'est caché »</p>
+        <p>50. Un remords si vif me déchira le coeur</p>
+        <p>Que je tombai vaincu</p>
+        <p>31. Puis, quand le coeur me rendit les sens extérieurs La Dame que j'avais trouvée seule Jela visau-dessus de moi; elle médit: «Tiens-moi, tiens-moi...»</p>
+        <p>54. La belle Dame ouvrit les bras ,</p>
+        <p>M'embrassa la tête, et me plongea Où il convenait que je busse l'eau :</p>
+        <p>55. Ensuite elle me retira et m'introduisit ainsi baigné</p>
+        <p>Dans la danse des quatre Belles , Et chacune d'un bras m'enlaça. 56 « Ici Nymphes nous sommes et dans leciel Etoiles noussommes, « Avant que Béatrice descendit dans le monde , « Nous lui fûmes destinées pour servantes.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 13 —</p>
+        <p>37. « Nous te mènerons devant ses yeux ; mais pour l'agréable</p>
+        <p>« Lumière, qui est en eux, les tiens seront aiguisés « Ci-près par les Trois qui voient plus profondément. »</p>
+        <p>38. Ainsi d'abord elles chantèrent : et puis</p>
+        <p>Me menèrent au poitrail du Griffon , Où Béatrice , debout, était tournée vers nous</p>
+        <p>40. Mille désirs, plus ardents que la flamme ,</p>
+        <p>41. Comme le soleil dans le miroir , tout ainsi</p>
+        <p>La double Bête rayonnait dedans , Tantôt avec tels gestes , tantôt avec d'autres. ■42. Pense lecteur ! si je m'étonnais</p>
+        <p>En voyant la Bète ainsi immobile en soi Et se transformer dans son.image.</p>
+        <p>VIII.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>De même qu'au siècle d'airain, Astrée ou la Justice, quittant la terre où elle avait séjourné , dans le siècle d'or et le siècle d'argent, s'en retourna au ciel d'où elle était descendue , de même le Griffon, le véritable gouvernement impérial et papal, s'en retourne maintenant au ciel avec le cortège formé des Ecrivains sacrés de l'ancien et du nouveau Testament. Le vrai Empire, la vraie Papauté n'existent donc plus sur la terre ; seulement l'Etat et l'Eglise sont encore gardés par le Génie du christianisme et par des hommes qui, comme Saint Bernard , Saint Dominique et Saint François, ont reçu les lumières de la science théologique et philosophique ainsi que les dons du Saint-Esprit.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 15 -</p>
+        <p>La glorieuse Armée , el elle s'en retourna Ayant le soleil et les sept Flammes en face. 7 Comme sous les boucliers , pour se sauver ,</p>
+        <p>Une bande tourne et retourne avec son drapeau Avant qu'elle puisse entièrement changer de direction ,</p>
+        <p>8. Ainsi celte milice du céleste empire ,</p>
+        <p>Qui précédait, défila toute Avant que le limon eût tourné le Char.</p>
+        <p>9. Puis , près des roues, se replacèrent les Dames</p>
+        <p>Et le Griffon mut le Char béni, De manière cependant qu'aucune penne ne s'agita.</p>
+        <p>10 Nous suivions la roue</p>
+        <p>Dont l'orbite traça le plus petit cercle</p>
+        <p>12. Peut-être en trois volées une flèche délivrée</p>
+        <p>Mesure aulant d'espace que nous en avions Parcouru, quand Béatrice descendit. 13 Je les ouïs tous murmurer: « Adam ! »</p>
+        <p>Puis ils entourèrent un arbre dépouillé De fleurs, et de feuillage en tous ses rameaux. 14. Sa ramure, qui s'étend d'autant plus</p>
+        <p>Qu'elle s'élève plus haut, serait par les Indiens Admirée, dans leurs forêts , pour sa hauteur.</p>
+        <p>13. « Sois heureux! Griffon ! que lu n'enlèves rien</p>
+        <p>« Avec le bec, de cet arbre doux au goût, « Car ensuite tristement se lord le ventre. »</p>
+        <p>16. Ainsi autour de l'Arbre robuste</p>
+        <p>Crièrent les autres ; et l'Animal biforme : « Ainsi se conserve la semence de toute justice. »</p>
+        <p>17. Et, tourné vers le timon qu'il avait tiré ,</p>
+        <p>Il le traîna au pied de la ramure veuve , Et ce qui en était pris y laissa attaché.... 20. Non pas tant de roses mais plutôt de violelles Ayant pris la couleur, l'Arbre se raviva, Qui auparavant avait les rameaux si dépouillés</p>
+        <p>24. Je passe au moment où je me réveillai</p>
+        <p>29, Et plein de trouble je dis : « où est Béatrice ? »</p>
+        <p>Et elle : « Vois-la , sous le feuillage Nouveau , assise sur sa racine : »</p>
+        <p>30. « Vois la compagnie qui l'entoure :</p>
+        <p>
+          <pb/>
+        </p>
+        <p>_ 16 —</p>
+        <p>31. Seule elle était assise sur la vraie terre,</p>
+        <p>Comme une garde laissée près du Char Que j'avais vu attacher par la Bête biforme.</p>
+        <p>IX.</p>
+        <p>37. Jamais d'un mouvement si rapide ne descendit,</p>
+        <p>Quand il pleut, le feu , d'un nuage épais, Du point du ciel le plus éloigné,</p>
+        <p>38. Que je vis fondre l'oiseau de Jupiter</p>
+        <p>En bas de l'Arbre , brisant même de l'écorce , Et non seulement des fleurs et des feuilles nouvelles.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>17</p>
+        <p>39. Et de toute sa force il frappa le Char,</p>
+        <p>40. Ensuite je vis se précipiter dans la caisse</p>
+        <p>41. Mais en lui reprochant ses laides coulpes</p>
+        <p>Ma Dame la fat fuir aussi vite Que le permirent ses os décharnés.</p>
+        <p>42. Ensuite par où d'abord il était venu</p>
+        <p>Je vis l'Aigle descendre dans l'Arche Du char et la laisser jonchée de ses plumes.</p>
+        <p>43. Et telle qu'elle sort d'un coeur qui s'afflige,</p>
+        <p>Telle sortit une voix du ciel, et ainsi disait : « 0 ma nacelle ! comme tu es mal chargée ! »</p>
+        <p>44. Puis il me semblait que la terre s'ouvrait</p>
+        <p>45. Et, comme une guêpe qui retire l'aiguillon ,</p>
+        <p>46. Ce qui en resta , comme de gazon,</p>
+        <p>Une terre vivace , ainsi de plumes (offertes Peut-être avec une intention pure et bonne)</p>
+        <p>47. Se recouvrit, et en furent recouverts</p>
+        <p>L'une et l'autre roue et le timon en moins de temps Qu'un soupir ne tient la bouche ouverte.</p>
+        <p>48. Ainsi transformé ce saint Edifice</p>
+        <p>49. Les premières étaient cornues, comme des boeufs ,</p>
+        <p>Mais les quatre avaient une seule corne au front, Pareil monstre n'a jamais été vu.</p>
+        <p>X.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 18 -</p>
+        <p>52. Mais lorsque son regard avide et vagabond</p>
+        <p>Se tourna vers moi, cet Amoureux féroce La flagella de la tête aux pieds.</p>
+        <p>53. Ensuite , plein de soupçon et âpre de colère ,</p>
+        <p>Il détacha le Monstre et le traîna par la forêt Tant que celle-ci, seule , devint pour moi un bouclier Contre la Prostituée et cette nouvelle Bote.</p>
+        <p>XL</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 49 —</p>
+        <p>Canto xxxm. 1. « Deus venerunt gantes, » ainsi alternant, Tantôt trois , tantôt quatre, les Dames Commencèrent, tu pleurant, celte douce psalmodie.</p>
+        <p>2. Et Béatrice , soupirant avec compassion ,</p>
+        <p>Les écoutait, si défaite , que pas beaucoup Plus , sous la croix , Marie n'était altérée.</p>
+        <p>3. Mais lorsque les autres vierges donnèrent lieu</p>
+        <p>A elle de parler , se levant droite sur ses pieds, Et colorée comme le feu , elle répondit : •4. « Modicum et non videbilis me ,</p>
+        <p>« Et ilerum , mes chères soeurs ! « Modicum , et vos videbilis me. » S. Puis elle mit devant elle toutes les sept,</p>
+        <p>Et après elle, seulement en faisant un signe, elle fit marcher Moi et la Dame</p>
+        <p>' Voy. Les Chants de Soi, p. 161.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« Je veux que désormais tu te dépouilles , « De sorte que tu ne parles plus comme un homme qui rêve.</p>
+        <p>12. « Sache que le Vaisseau que le Serpent a brisé</p>
+        <p>« Fut et n'est plus : mais que Celui qui en a la coulpe</p>
+        <p>apprenne « Que la vengeance de Dieu ne craint pas la soupe.</p>
+        <p>13. « Il ne sera pas toujours sans héritiers ,</p>
+        <p>« L'Aigle qui laissa dans le Char les plumes « Par quoi il devint un monstre et puis une proie.</p>
+        <p>14. « Car je vois certainement (et pour cela je l'annonce),</p>
+        <p>15. « Où un Cinq-cent dix et cinq.</p>
+        <p>« Envoyé de Dieu , détruira la Prostituée « Et le Géant qui péchait avec elle.</p>
+        <p>18. « Toi ! note ; et telles que par moi sont énoncées</p>
+        <p>19. « Et souviens-toi, quand tu les écriras ,</p>
+        <p>« De ne pas cacher ce que tu as vu de l'Arbre « Qui pour la deuxième fois a été ici dépouillé. 20- « Quiconque le dépouille , ou le brise ,</p>
+        <p>« De fait et avec blasphème offense Dieu « Qui seulement pour l'usage divin le créa sacré. 21. « Pour l'avoir mordu , dans la peine et l'attente</p>
+        <p>« L'Ame première, pendant cinq mille ans et plus , « A aspiré vers Celui, qui, sur soi, a pupLLajmorsure. »</p>
+        <p>Colmar, Imprimerie et Lithographie de Camille DECKER.</p>
+      </div>
     </body>
   </text>
 </TEI>

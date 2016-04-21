@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
- <teiHeader>
-<fileDesc>
-<titleStmt>
-<author key="Montfort, Eugène (1877-1936)">Eugène Montfort</author>
-<title>La beauté moderne : conférences du Collège d'esthétique (février-juin 1901) / Eugène Montfort</title>
-</titleStmt>
-<editionStmt>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La beauté moderne : conférences du Collège d'esthétique (février-juin 1901) / Eugène Montfort</title>
+        <author key="Montfort, Eugène (1877-1936)">Eugène Montfort</author>
+      </titleStmt>
+      <editionStmt>
         <edition>OBVIL/BNF</edition>
         <respStmt>
           <resp>reprise des textes</resp>
           <name>Amélie Canu</name>
         </respStmt>
       </editionStmt>
-<publicationStmt>
+      <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
         <availability status="restricted">
@@ -22,907 +22,767 @@
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
-<sourceDesc>
-<bibl>
-<author>Montfort, Eugène (1877-1936)</author>, <title>La beauté moderne : conférences du Collège d'esthétique (février-juin 1901) / Eugène Montfort</title>, <date>1902</date>,description :,149 pages
-</bibl>
-<publisher>la "Plume" (Paris)</publisher>
-<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k5543434d</idno>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1902">1902</date>
-</creation>
-<langUsage>
-<language ident="fr"/>
-</langUsage>
-</profileDesc>
- </teiHeader>
+      <sourceDesc>
+        <bibl> <author>Montfort, Eugène (1877-1936)</author>, <title>La beauté moderne : conférences du Collège d'esthétique (février-juin 1901) / Eugène Montfort</title>, <date>1902</date>,description :,149 pages </bibl>
+        <publisher>la “Plume” (Paris)</publisher>
+        <idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k5543434d</idno>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1902">1902</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-    <div>
-<p><pb/></p>
-<p>Bë|uté tîiodfrni|</p>
-<p>A^ 6ort|ôrences du Collège d'Esthétique ?</p>
-<p>PARIS ÉDITIONS DE LA PLUME '</p>
-<p>31 j RUE BONAPARTE, 31 ' ,</p>
-<p>/' ~ '</p>
-<p>MCM1I</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>,y|)BEAUTÉ MODERNE</p>
-<p><pb/></p>
-<p>DU MÊME AUTEUR</p>
-<p>Sylvie ou les Éniois passionnés, librairie du Mer-* - cure de
-France.................... 2 fr. 60</p>
-<p>Chair, librairie du Mercure de France.. 2 fr. »</p>
-<p>Exposé du Naturisme, librairie de la Lutte (Bruxelles)....
-'.*................. .&gt;,.&gt;.'. ÊpUÎsô</p>
-<p>Essai sur l'Amour, librairie Stock...... 3 fr. 50</p>
-<p>EN PRÉPARATION î</p>
-<p>Une autre fin d'Hamlct, roman. Les Deux Amies, roman. La Joie défendue,
-roman. Ame d'or, nouvelle. L'Infidèle, 3 actes. Essai sur Balzac. Etudes
-littéraires. Poèmes en prose.</p>
-<p><pb/></p>
-<p>§^aauté moderne</p>
-<p>jContyçe&amp;Ces du Collège d'Esthétique (février-juin idoi)</p>
-<p>PARIS ÉDITION DE « LA PLUME »</p>
-<p>31, RUE BONAPARTE, 31 MCMII</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>Je n*ai point eu la prétention, de pouvoir donner, développées et
-complètes, ensico. conférences toutes les muons secondaires, que f ai
-d'aimer le temps oiije vis. Je les ai seulement indiquées.</p>
-<p>Novembre 1901.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>A JEAN JAURÈS</p>
-<p>qui connaît la nécessité de l'Art dans toute</p>
-<p>comprendre cette nécessité aux socialistes,</p>
-<p>Ces Conférences sont dédiées admiratieement,</p>
-<p>E M.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>' ' ' ' "</p>
-<p>La Beauté moderne</p>
-<p>• ■' * , i</p>
-<p>INTRODUCTION. ■</p>
-<p>A Maurice Le Blond.</p>
-<p>Chaque chose est belle si on sait bien la regarder. La Beauté est partout.</p>
-<p>lo En découvrant toutes les beautés physiques des choses, nous
-développerons nos sens ; ils seront satisfaits plus souvent ; il y a
-dans la vie des joies innombrables pour la</p>
-<p>(1) Cette première conférence (Introduction. Deux conceptions de la
-Beauté) fut prononcée le ~" jour de l'ouverture du Collège d'Esthétique
-moderne, le 2 février 1901.</p>
-<p><pb/></p>
-<p>10 LA BEAUTÉ MODERNE</p>
-<p>vue, pour l'ouïe, ^ourrodorat,pour le toucher, pour le goût. Apprenons à
-les discerner et profitons d'elles, ces joies nous, appartiennent si
-nous les voulons.</p>
-<p>Je souhaiterais montrer que la vie moderne contient autant de beauté que
-la vie aux autres époques, si ornées, si gracieuses celles-ci
-soient-elles dans nos imaginations. Il me semble que nous vivons ; nous
-avons des rapports avec les êtres et avec les chose?, nous allons et
-venons, nous aimons, nous cueillons des fleurs, nous mourons ; eh bien 1
-jamais l'humanité n'a fait autre chose,</p>
-<p><pb/></p>
-<p>INTRODUCTION 11</p>
-<p>et c'est tout simplement en faisant cela qu'elle a rempli d'amour,
-d'extase, d'esprit divin mille et mille poètes.</p>
-<p><pb/></p>
-<p>de comprendre et d'aimer véritablement le passé, sans aimer le présent
-Puisque le présent est tout entier en germe dans le passé, puisqu'il
-fait partie du passé. Et même si vous aimez le passé sans aimer le
-présent, vous l'aimez mal, incomplètement, inintelligemment. ,</p>
-<p>11 est clair que nous allons au socialisme. Eh bien ! pourquoi fuir? Si
-le socialisme est une forme de la vie en société meilleure que la forme
-actuelle, il faut se hâter d'y arriver. Si, au contraire, c'est une
-forme pire, IkWons-nous également, car en tout cas, c'est</p>
-<p><pb/></p>
-<p>INTRODUCTION 13</p>
-<p>un point de l'évolution inévitable» — Notre civilisation doit-elle être
-ruinée par lui? Qu'elle le soit le plus vite possible, afin qu'une
-civilisation nouvelle étant née sur ces ruines, l'humanité connaisse
-encore une phase de sa vie.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>II</p>
-<p>DEUX CONCEPTIONS DB LA BEAUTÉ</p>
-<p>A Fernand Gregh.</p>
-<p>Il faut commencer par nous entendre sur le sens du mot : beau.</p>
-<p>Qu'est-ce qu'être beau ?</p>
-<p>Je vais essayer de montrer ce qu'un platonicien, un chrétien voit dans
-la Beauté, puis, ce qu'y voit un matérialiste.</p>
-<p>Dans le Phèdre on trouve parfaitement exposée la conception idéaliste de
-la Beauté.</p>
-<p><pb/></p>
-<p>16 LA BEAUTÉ MODERNE</p>
-<p>*</p>
-<p>Mais voici comment les âmes ont perdu leurs ailes et sont tombées sur la
-terre :</p>
-<p>« Or, le chef suprême, Jupiter (1) s'avance « le premier, conduisant son
-char ^ilôjordontenant et gouvernant toutes choses. Après « lui vient
-l'armée des dieux et des démons « divisée en onze tribus,.,.. LorsqùMls
-rêV « viennent au banquet somptueux qui lès « attend, et qu'ils
-montentau sommet le plus</p>
-<p>(1) Platon, Phèdre, trad. Cousin.</p>
-<p><pb/></p>
-<p>DEUX CONCEPTIONS DE LA BEAUTÉ 17</p>
-<p>« Las immortels, après s'être élevés au « plus haut du ciel, en
-franchissent le faîte, « et vont se placer en dehors, sur la partie «
-convexe de sa voûte; et tandis qu'Us s'y « tiennent, le mouvement
-circulaire les « emporte autour du ciel dont ils contem« plent, pendant
-ce temps, la forme, exté« riëùre. Le Heu qui est au-dessus du ciel, «
-aucun de nos poètes ne l'a encore célébré ; « aucun ne le célébrera
-jamais dignement. « Voici pourtant ce qui en est&gt; car il ne faut « pas
-craindre de publier la vérité, surtout « quand on parle sur la vérité.
-L'essence «véritable, sans couleur, sans forme, impal« pable, ne peut
-être contemplée que par le</p>
-<p>2</p>
-<p><pb/></p>
-<p>18. LA BEAUTÉ MODERNE</p>
-<p>&lt; telle qu'elle existe dans ce qui est l'être « par excellence. Après
-avoir ainsi contemplé « toutes lès essences et s'en être abohdâm« ment
-nourrie, elle replonge dans rintérioUr « du ciel et revient au palais
-divin ; aussitôt «qu'elle arrive, le cocher conduisant les c coursiers à
-la crèche, répand devant eux</p>
-<p><pb/></p>
-<p>DEUX CONCEPTIONS DE LA BEAUTÉ 19</p>
-<p>« l'ambroisie et leur Yérse le nectar. Telle est « la vie des dieux,.</p>
-<p><pb/></p>
-<p>LA BEAUTÉ MODERNE</p>
-<p><pb/></p>
-<p>PEUX CONCEPTIONS DE LA BEAUTÉ 21</p>
-<p>i i ' ' .. .. 11" .. ii ' ' , ... . ; J. ..:/■_' . i . 1.1 ... . ■. ■</p>
-<p><pb/></p>
-<p>W iU BEAOTJ^MODERNE</p>
-<p># # #</p>
-<p><pb/></p>
-<p>DEUX CONCEPTIONS DÉ LA BEAUTÉ 23</p>
-<p>seule(l) que nous appelons brièvement âme hu"itiaînej n'est que la somme
-de nos sensations, de ^bs^ volontés et de nos pensées; la sojnmë des
-fonctions psychologiques dont les microscopique^ cellules;
-gangliônnèires de notre cerveau ren. présentent les organes élémentaires
-(Haeckel);"</p>
-<p><pb/></p>
-<p>2* L^ BEAUTÉ MODERNE</p>
-<p>ment, et non plus au Ciel, nous étant imposée par l'ensemble des
-découvertes modernes, nous sommes bien forcés de chercher une
-explication nouvelle de la Beauté.</p>
-<p># * * -«</p>
-<p>Pour nous, panthéistes naturistes, adorateurs du monde et "de la vie,
-qu'est-ce qui est beau ? -^ Tout. La Beauté est partout. Où il y a de la
-lumière, où il y a de la vie, il y a de la beauté. Chaque chose est
-belle, chaque être est beau, Il n'y a pas de laideur, car la beauté
-c'est la vie; or, depuis les étoiles jusqu'aux profondeurs du monde, il
-n'y a que de la vie, la mort n'existé pas.</p>
-<p><pb/></p>
-<p>DEUX CONCEPTIONS DE LA BEAUTÉ 25</p>
-<p>« C'est l'Unité qui constitue la beauté », a dit saint Augustin.
-L'unité, c'est-à-dire le rapport exact des parties d'un tout entre
-elles. Or, c'est bien cette unité de la vie, cette harmonie universelle,
-ce rapport exact entre toutes les parties du monde qui nous le fait
-trouver admirable sous tous ses aspects, sous -toutes ses faces* dans
-son ensemble et dans ses détails.</p>
-<p><pb/></p>
-<p>LA BEAUTÉ MODERNE</p>
-<p>Je veux vous rappeler le Satyre, un dos sommets de l'oeuvre de Hugo,
-prodigieux poème panthéiste dans lequel il s'écrie : « Les Dieux sont
-morts. Toute l'âme, toute la beauté,-toute la vie est sûr la terre. » Le
-satyre qui, dans ce poème, est la figure de l'univers est amené devant
-lès dieUxtenû par Tôreillè par Hercule, et il leur parle. Il chante la
-Terre et l'âme de la Terre.</p>
-<p>« Et maintenant, ô dieux I Ecoutez ce mot : L'âme, Sous l'arbre qui
-bruit, près du monstre qui brame, Quelqu'un parle. C'est l'Ame. Elle
-sort du chaos. Sans elle, pas de vents, le miasme ; pas de flots,
-L'étang j l'âme, en sortant du ohaos, le dissipe ; Car il n'est que
-l'ébauche, et l'âme' est le principe. L'Etre est d'abord moitié brute et
-moitié forêt ; Mais l'Air veut devenir l'Esprit, ThOmme apparaît,
-L'homme ? qu'est-ce que 6'ést que ce sphinx ? Il • • ,'. ,' - '; [commence</p>
-<p>En sagesse; ô mystère ! et finit en démence, r O ciel qu'il a quitté,
-rends-lui son âge d'or j » -•■-'".</p>
-<p>Lé faune, interrompatit son orageux essor, Ouvrit d'abord un doigt, puis
-deux, puis un troi:"•"..''.'■•■'</p>
-<p>Comme quelqu'un qui compte en \méme temps ' '-:,:'.".."-.;' .;• \
-Y'/.;.':;.';._; , [qu'il sème, - Et cria, sur le haut Olympe vénéré ?</p>
-<p><pb/></p>
-<p>DEUX CONCEPTIONS DE LA BEAUTÉ 27</p>
-<p>« L'avenir, tel que les cieux le font, C'est l'élargissement dans
-l'infini sans fond, -C'est l'esprit pénétrant de toutes parts la chose !
-On mutilé l'effet en limitant la oause: Monde, tout le mal vient de la
-forme des'dieux.</p>
-<p><pb/></p>
-<p>LA^BEAUTÉ MODERNE</p>
-<p>La connaissance humaine s'élargissant de plus en plus, nous saurons de
-mieux en mieux les rapports qui existent entre toutes les choses de
-l'univers. Connaissant plus de rapports entre les choses, nous
-comprendrons plus complètement les choses, nous verrons plus
-parfaitement l'universelle beauté.</p>
-<p>Voici, sur le beau, une pénétrante proposition de Diderot : « La
-perception des rapports est le fondement du beau. » *</p>
-<p>Donc, tout est beau. Pourquoi? — Par ce</p>
-<p><pb/></p>
-<p>DEUX CONCEPTIONS DE LA BEAUTÉ 29</p>
-<p><pb/></p>
-<p>30 LA BEAUTÉ MODERNE</p>
-<p>— Aujourd'hui, est-ce un sentiment analogue qui anime l'artiste? — Non.
-En considérant l'oeuvre d'un sculpteur comme ftodin</p>
-<p><pb/></p>
-<p>DEUX «iONCEPTIONS DE LA BEAUTÉ 31</p>
-<p>ou d'un peintre comme.Monét, si jo me demande quelle, sorte de joie ils
-ressentent de-v vant la beauté, je conçois bien que c'est une autre que
-celle des Grecs. Comme ils sont tourmentés ! Comme tout leur être est
-pris ! C'est que, devant la vie, ils s'éprouvent en face du divin tout
-entier (1), et que la vie, la vie qui bouge devant eux et qu'ils tâchent
-de saisir et de fixer, c'est leur seule religion, leur</p>
-<p><pb/></p>
-<p>32</p>
-<p>LA BEAUTÉ MODERNE</p>
-<p><pb/></p>
-<p>III</p>
-<p>DU STYLE ; ET DU STÏLE MODERNE</p>
-<p>A Louis Bertrand^</p>
-<p><pb/></p>
-<p>34 LA BEAUTÉ MODERNE</p>
-<p><pb/></p>
-<p>DU STYLE ; ET DU STYLE MODERNE 35</p>
-<p>Une période qui a quelque chose de parfait.</p>
-<p>Par exemple, lé ve siècle de la Grèce antique.</p>
-<p>Par exemple, la seconde moitié du xvii&amp; siècle</p>
-<p>en France. Une période où le fond d'idées</p>
-<p>sur lequel vivent les citoyens est commun à</p>
-<p>tous ; alors, il y a concert entre eux ; alors,</p>
-<p>si l'artiste parle, tous reconnaissent leur</p>
-<p>propre pensée.</p>
-<p>* * *</p>
-<p>L'art d'un temps reflète, en même temps que sa beauté, sa façon de
-comprendre la vie. Dans un monument retrouvé au milieu d'un désert, il
-est possible d'apercevoir le système social, la conception religieuse,
-les idées générales du peuple qui l'éleva. René Ménard, dans son
-excellent petit livre sur VArt Antique, traduit cette idée quand il dit
-: « L'art égyptien est sacerdotal, l'art assyrien est monarchique, en
-Grèce, nous verrons un art républicain. » Il parle, bien entendu, de
-l'architecture, car cet art étant celui de l'expression la plus</p>
-<p><pb/></p>
-<p>36 'LA BEAUTÉ MODERNE</p>
-<p>Les conceptions sociales et religieuses d'une époque sont les
-manifestations extérieures de ce qu'on appelle son âme. Pour que les
-monuments publics expriment bien cette âme, il est nécessaire qu'elle ne
-soit point troublée, qu'elle soit une. Il faut qu'il n'y ait pas en elle
-deux pensées, deux idéals luttant, mais une seule pensée, un seul idéal.</p>
-<p><pb/></p>
-<p>DU STYLE ; ET DU STYLE MODERNE 37</p>
-<p>* * *</p>
-<p>(1) L'antiquité grecque, l'antiquité romaine, le Moyen-Age, le xvn*
-siècle s exemples d'époques "d'unité*</p>
-<p><pb/></p>
-<p>38 LA BEAUTÉ MODERNE</p>
-<p><pb/></p>
-<p>DU STYLE J ET DÛ STYLEMODERNE 39</p>
-<p>h. * * .</p>
-<p><pb/></p>
-<p>40 - LA BEAUTÉ MODERNE</p>
-<p><pb/></p>
-<p>DU STYLE ; ET DU STYLE MODERNE ^41</p>
-<p>* * *</p>
-<p>On peut ètro sûr dès aujourd'hui que la vraie république — socialement,
-moralement et religieusement *•*- se constituera.</p>
-<p><pb/></p>
-<p>42 ;; ^r LA"BEAUTÉ/MODERNE</p>
-<p>Ce qu'il sera, sans doute il est impossible de le déterminer, mais
-probablement nous connaissons au moins les éléments qui le
-constitueront, d'une part la maison en pierres» haute, vaste et
-spacieuse, saine, aérée du</p>
-<p><pb/></p>
-<p>DÛ STYLE ; ET DU STYLE MODERNE 43</p>
-<p><pb/></p>
-<p>44 LA BEAUTÉ MODERNE</p>
-<p>qui leur faisaient exécuter des merveilles. Eh bien ! une autre période
-va venir, période de foi humaine qui sera aussi'belle que cette période
-de foi divine. Partout s'élèveront de? •monuments admirables, car tous
-les constructeurs auront la foi, Tous seront fécondés par un môme
-enthousiasme qui, comme jadis la Religion, fera naître en eux une fouie
-de beaux ot de grands sentiments lesquels s'exprimeront dans leurs
-édifices.</p>
-<p>* *</p>
-<p>Mais, sans stylo, notre époque n'en est pas moins,profondément belle. Et
-môme c'est justement parce qu'il n'a pas de style, parce qu'il n'a pas
-d'unité*morale, parce qu'il est troublé, bouleversé, qu'aujourd'hui il
-est si beau.</p>
-<p><pb/></p>
-<p>DU STYLE ; ET DU STYLE MODERNE 45</p>
-<p><pb/></p>
-<p>46 , LA BEAUTÉ MODERNE</p>
-<p><pb/></p>
-<p>DU STYLE { ET DU STYLE MODERNE 47</p>
-<p>est belle ! qu'elle est belle ! Quoi, YOUS vous lamentez? Vous ne la
-voyez donc pas ? Mais regardoz autour de vous ! Quel temps jamais fut
-plus beau?</p>
-<p>. Oui, tout est beau. Et il n'y a point de degrés dans la beâUté. Tout
-ce qui contient de la vie contient dé-la'beauté, Or, tout, même ce qui
-parait mort,. est plein de vie. Tout est beau, et au même point. Un
-agonisant est-il moins beau qu'un héros resplendissant 4e ^ Une rose qui
-s'effeuille estelié moins belle qu'une rosé épanouie ? Non, -3[riïais
-chaque chose a sa beaUté, et chaque</p>
-<p><pb/></p>
-<p>48 LAJÎEAUTÉ MOJDERNE</p>
-<p>Ainsi, une époque non parfaite n'est pas moins belle qu'une époque
-parfaite. Toutes les époques sont belles. Chacune a sa beauté,
-Charmons-nous, réjouissons-nous de celle que possède l'époque où nous
-vivons,</p>
-<p><pb/></p>
-<p>IV</p>
-<p>ÉLÉMENTS NOUVEAUX DE BEAUTÉ. BEAUTÉ NOUVELLE,</p>
-<p>A Paul Soucfron,</p>
-<p>Admirable est notre temps ! Et pour les plus diverses raisons. — Hier
-nous parlions de son mouvement d'élaboration sociale: la société trouve
-une façon nouvelle de s'organiser. Aujourd'hui tournons nos regards d'un
-autre côté, et nous verrons la vie, la vie éternelle trouver une façon
-nouvelle de s'exprimer !</p>
-<p>Sans doUte, entre tous, le xixe siècle restera</p>
-<p>merveilleux, éblouissant les yeux des hommes</p>
-<p>d'un éclat incomparable. Il a introduit en</p>
-<p>i</p>
-<p><pb/></p>
-<p>80 LA BEAUTÉ MODERNE</p>
-<p><pb/></p>
-<p>ÉLÉMENTS NOUVEAUX DE BEAUTÉ 61</p>
-<p><pb/></p>
-<p>52 LA B.BAUTÉ MODERNE</p>
-<p>selle, elles deviennent une des formes de l'ôtre, elles en sont une
-apparence nouvelle s nous devons les considéror ayèe émotion.</p>
-<p>* * *</p>
-<p>L'introduction des machines dans notre milieu humain comporte dès
-conséquences intéressant l'Esthétique et la Morale.</p>
-<p>Ayant conquis la puissance profonde dé là</p>
-<p><pb/></p>
-<p>ÉLÉMENTS NOUVEAUX DE BEAUTÉ 53</p>
-<p><pb/></p>
-<p>54 LA BEAUTÉ MODERNE</p>
-<p>masse humaine est la première conséquonco de la Machine.</p>
-<p>* * *</p>
-<p>La Machine influera sur l'imagination de l'artiste. Elle le conduira à
-de plus nobles sujets.</p>
-<p>Voici comment :</p>
-<p>Par l'introduction de la machine, l'idée de Force s'est modifiée dans
-l'humanité, La force musculaire, la force de l'être physique a perdu de
-sa valeur, la force morale et la force</p>
-<p><pb/></p>
-<p>ÉLÉMENTS NOUVEAUX DE BEAUTÉ 55</p>
-<p>intellectuelle en ont acquise. En voyant la machine inconsciente et
-inanimée grande productrice de force, on a conçu l'infériorité de la
-force. « Peu de chose qu'un homme fort, a-ton pensé, ce n'est qu'une
-machine, un esclave, » On a compris que toute la nature — animale,
-végétale, minérale, — pouvait produire de la force, tandis que seul,
-l'homme produisait de la force intellectuelle, et que, si tout était
-créateur de force, lui seul l'était d'intelligence.</p>
-<p><pb/></p>
-<p>56 LAJBEAUTÉ MODERNE</p>
-<p><pb/></p>
-<p>ÉLÉMENTS NOUVEAUX DE BEAUTÉ</p>
-<p>57</p>
-<p>n'est qu'un atroce et fauve animal, — plus jamais la guerre !</p>
-<p>En rabaissant la force, l'humanité et Part' se seront élevés.</p>
-<p>* * *</p>
-<p>L'électricité n'était point connue. Ce fluide mystérieux est entré dans
-le monde et l'a fait changer d'aspect. C'est comme une divinité que les
-hommes auraient asservie et qui emploierait pour eux sa puissance. On
-dirait l'âme de la terre. Avec l'électricité, surhumains, nous allons de
-merveille en merveille, plus rien ne nous semble impossible.</p>
-<p>Ce nouvel élément, dont on tire un si prodigieux parti, va modifier
-aussi nos conceptions.</p>
-<p>'.,- Nul ne pénètre dans le secret de Ja nature sans perdre de ses
-préjugés et' de ses erreurs. Plus nous connaissons de choses, plus nous</p>
-<p>jious connaissons ; plus l'homme regarde autour de lui, mieux il se
-voit, et peut-être.</p>
-<p><pb/></p>
-<p>58</p>
-<p>■ÏX BEAUTÉ MODERNE</p>
-<p><pb/></p>
-<p>ÉLÉMENTS NOUVEAUX DE BEAUTÉ 59</p>
-<p>* *■*</p>
-<p>L'homme aura retrouvé sa vraie place dans l'univers, il n'empiétera plus
-sur ses droits quand tous ses esclaves seront des esclaves qu'il aura
-créés lui-môme, auxquels il aura donné lui-même la vie. La machine fera
-le travail de l'animal î premier degré de la libération de celui-ci ; —
-mais sa délivrance ne sera complète qu'au moment où l'alimentation
-chimique que les savants préconisent sera adoptée. Alors l'humanité se
-modifiera</p>
-<p><pb/></p>
-<p>LA-BEAUTÉ MODERNE</p>
-<p><pb/></p>
-<p>ÉLÉMENTS NOUVEAUX DE BEAUTÉ 61</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>LA MÉTAMORPHOSE DÉS INSTINCTS.</p>
-<p>A Christian Beck,</p>
-<p><pb/></p>
-<p>L'homme, d'ailleurs, n'est peut-être point si coupable quand il refuse
-de se reconnaître dans l'anthropoïde primitif, Il est devettu,en effet,
-si différent dé l'animal humain ! même ses instincts se sont
-transformés, engagés</p>
-<p><pb/></p>
-<p>LA MÉTAMORPHOSE DES INSTINCTS - 65</p>
-<p>dans une Yoio,nouvelle : sans doute le moins avancé de la race en a
-conscience.</p>
-<p>necos(i) dans la Vie des abeilles^ remar3ue,</p>
-<p>remar3ue, d'autres apiculteurs, qu'en Australie et ans les contrées où
-il n'y a pas d'hiver, où les Fiantes sont constamment en fleur, donc où
-existence de l'abeille est assurée et où elle n'a pas besoin de penser
-au lendemain, elle ne vit -pas en ruche (ou société) mais au contraire
-individuellement, en vagabonde et au jour le jour.</p>
-<p><pb/></p>
-<p>66 " LA BEAUTÉ MODERNE</p>
-<p>* .**</p>
-<p>Afin de saisir cette évolution, il faut d'abord se reporter en pensée
-aux périodes reculées où l'anthropoïde velu et musclé, puissant,</p>
-<p><pb/></p>
-<p>LA MÉTAMORPHOSE pESINSlttNCTS 67</p>
-<p>aux sens développés, -àfàinal commiè^ lés autres animaux et présentant
-un aspect semv blable au leur, menait comme eux la vie sauvage, brutale
-et instinctive, •— et passer' aussitôt aux époques de civilisation : là
-bête est devenue homme ; ses poils sont tombés et ses sens se sont
-affaiblis; elle mène une existence nouvelle. Alors que les autres
-espèces ont toujours une vie du même ordre, l'homme a transformé la
-sienne, il connaît une vie différant totalement de la première.</p>
-<p>En même temps que son aspect, son être a changé.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>* * '</p>
-<p><pb/></p>
-<p>70</p>
-<p>LA BEAUTÉ MODERNE</p>
-<p>en train de terrasser leur bête sauvage : ils luttent pour la vie. Mais
-quelle autre lutte I et pour quelle autre Yie I.M</p>
-<p><pb/></p>
-<p>w LA MÉTAMORPHOSE DES ÏNSÏÏNCTS "Hi</p>
-<p><pb/></p>
-<p>72</p>
-<p>LA BENITE' MODERNE</p>
-<p><pb/></p>
-<p>; s. tk MÉTAMORPHOSE! DES INSTINCTS 73</p>
-<p>* * *</p>
-<p>Le phénomène extraordinaire, c'est la volonté. Que l'homme veuille et
-qu'il ait conscience de vouloir, cela le distingue de tous</p>
-<p><pb/></p>
-<p>74 LA_ BEAUTÉ MODERNE</p>
-<p>les êtres. Vouloir, agir, autrement que poussé par l'instinct, cela,
-sans doute, est uniquement humain.</p>
-<p>Avoir besoin d'émotions, en rechercher, voir des hommes pour tirer d'eux
-des émotions, encore un fait uniquement humain. L'Art.</p>
-<p>L'Art créateur est uniquement humain.</p>
-<p><pb/></p>
-<p>LA METAMORPHOSE DÈS INSTINCTS 75</p>
-<p>L'art humain, l'art créateur marque donc</p>
-<p><pb/></p>
-<p>M</p>
-<p>LA BEAUTÉ MODERNE</p>
-<p>Mais si l'homme d'aujourd'hui peut reproduire quelques sensations, on
-suit qu'il ne peut pas en éprouver un aussi grand nombre que celui des
-premiers âges. Ayant gagné on</p>
-<p><pb/></p>
-<p>LÀ MèTAMpRPHpéE DES INSTflNCfs 77</p>
-<p>cerveau, il a perdu en sens. M* Duclaux,'•l'illustre savant, écrivait
-récemment : « Le sau-; vage, celui qui vit en pleine nature, où ses
-organes sont constamment en fonction et en éveil, est, au regard de
-nous, un être supérieur. Mais, en. devenant des sauvages dégénérés, nous
-avons pu développer notre esprit, et cette loi de balancement entré tes
-divers développements dont nous sommes capables, nous semble une loi
-naturelle. *&gt;</p>
-<p>Nous sommes des sauvages qui de plus en plus dégénérons. Nous ne
-profitons presque plus sensoriellèment des choses. Même nos sensations
-ont un aboutissement intellectuel. Les plus avancés des hommes, à
-présent, ne demandent beaucoup de sensations que pour beaucoup
-comprendre : ils ne veulent de leurs sens que pour le profit qu'en tire
-leur intelligence. Aucun ne se contente plus de sentir pour sentir.
-Tandis que tout, autour de nous, ne vit que de sensation, et pour la
-sensation, nous avons introduit dans notre existence la pensée et le
-sentiment, aussi</p>
-<p><pb/></p>
-<p>.78 . LA_BEAUTÉ MODERNE</p>
-<p><pb/></p>
-<p>LA MÉTAMORPHOSE DES INSTINCTS 79</p>
-<p><pb/></p>
-<p>M</p>
-<p>:LAIBEÀÛÏE MODERNE</p>
-<p>ipïus que nous. Cesens; j'acquêrrons-nôus ja</p>
-<p>mais ? en perdant les autres, deyonsnoUs</p>
-<p>gaghèr çelui-lâ pu abandonner définitivement</p>
-<p>.ndtré ëëpbir de Je pôsséder^un jour ?j</p>
-<p>Nos sens étant atrophiés, la dégénérescence du sauvage sera
-compleJte.Nous n'aurons., plus de sens, mais un cerveau extraordinaire*</p>
-<p>Alors, que se passera-t-ït ?</p>
-<p>Nous serons devenus dès êtres monstrueux au regard de toute la nature*
-Nous serons en opposition avec l'univers entier.</p>
-<p><pb/></p>
-<p>VI</p>
-<p>COMMENT NOUS VIVONS AUJOURD'HUI</p>
-<p>A Saint-Georges de Bouhèlicr.</p>
-<p>Pour comprendre la beauté moderne, il faut distinguer les caractères de
-Y homme d* aujourd'hui, ceux de sa vie. Ce qu'il y a de provisoire dans
-l'instant où nous sommes.</p>
-<p>Cherchons donc, voyons autour de nous ce qui passera, l'argile.</p>
-<p>6</p>
-<p><pb/></p>
-<p>82' LA BEAUTÉ MODERNE</p>
-<p><pb/></p>
-<p>COMMENT NOUS VIVONS AUJOURD'HUI 83</p>
-<p>voudriez Yivré un instant dans la peau d'un autre, mais cela est
-impossible, alors vous vous penchez sur ses yeux, vous essayez de
-regarder, de pénétrer son mystère... De même vous vous penchez sur une
-époque évanouie, vous la questionnez fiévreusement : Comment vivais-tu
-donc ? lui demandez-vous. Sur une vieille gravure, nous contemplons
-l'apparence du temps passé: ahl comme nous aurions voulu porter ces
-costumes au milieu de ces maisons, de ces rues I — Pourquoi ? — Mais
-pour respirer cetair'spécial, pour comprendre avec cet esprit, pour
-parler avec cette voix, pour entendre et pour voir avec ces oreilles et
-avec ces yeux qui n'ont existé qu'alors. Nous sommes si humains, que
-tout ce qu'a vécu l'humanité, nous voudrions le connaître, nous
-voudrions le vivre aussi !</p>
-<p>Donc une époque a son caractère, sa personnalité. D'où lui sont-ils
-venus? — De la façon particulière dont les hommes qui la composaient
-éprouvaient les sentiments</p>
-<p><pb/></p>
-<p>84 LA BEAUTÉ MODERNE,</p>
-<p>les plus généraux. Ceci est son charme propre, son parfum.</p>
-<p>'•y"' .■'.'V::&gt;::.;</p>
-<p>. En constante évolution, physiquement, ' moralement,
-intellectuellement, essayons de nous immobiliser un instant et
-d'examiner le point précis où nous sommes. Considérons 1 nos façons de
-sentir,, notre démarche, nos gestes, nos paroles, nos regards, nos
-sourires, enfin tout ce qui est nous, ce qui, produit par l'ensemble
-d'aujourd'hui, lui appartient et disparaîtra avec lui.</p>
-<p>Qu'est-ce qu'un homme moderne ?</p>
-<p>Il convient d'abord d'expliquer ces deux termes, de dire ce qu'il y a,
-dans l'homme moderne, de moderne ou de particulier, et ce qu'ii y a
-iïhumain ou d'éternel.</p>
-<p><pb/></p>
-<p>COMMENT NOUS VIVONS AWOURD'HÛI 8b..',</p>
-<p>idées, Un genre d'esprit qui dure trois ou quatre ans : ceuxde la nîode
-et du moment. » — « Au'-'dessous s'étend une couche dp 1 caractères un
-peu plus solides, elle dure vingt, trente, quarante ans, environ une
-demi-période historique ». — « Les couches du troisième ordre sont très
-vastes et très épaisses. Les caractères qui les composent durent pendant
-Une période historique corn-* plète, comme le Moyen Age, la Renaissance
-ou l'époque classique ». — Enfin la couche primitive : par-dessous les
-puissantes assises que lés périodes ' historiques emportent, plonge et
-s'étend une assise bien plus puissante que les périodes historiques
-n'emportent pas. C'est le caractère — aptitudes et instincts — du
-peuple, celui qu'il porte dans son sang et qui ne peut s'altérer que par
-une altération du Sang: invasion, croisement de race ou changement de
-jnilieu physique.</p>
-<p>Nous voulons parler icj de l'homme moderne: c'est-à-dire, selon Taine,
-de la deuxième et de la troisième couche de ce terrain. Notre</p>
-<p><pb/></p>
-<p>LA BEAUTE MODERNE</p>
-<p># * *</p>
-<p>Pour comprendre notre formation, il faut étudier le triple milieu :
-sensoriel, moral, intellectuel, où nous vivons.</p>
-<p><pb/></p>
-<p>COMMENT NOUS VIVONS AUJOURD'HUI 87</p>
-<p>tions continuelles de nos sens sont pour notre cerveau comme les coups
-de pouce du sculpteur pour la statue qu'il modèle.</p>
-<p>Puis il faudrait passer aux moeurs, aux coutumes de la société dans
-laquelle il se meut et mesurer la pesée qu'elles exercent sur lui. Enfin
-considérer toutes les opinions, tous les propos qu'il écoute, tous les
-faits publics qui l'émeuvent, les journaux et les livres qu'il lit, la
-musique qu'il entend, la peinture qu'il regarde, la maison qu'il habite.</p>
-<p>Notons ensemble rapidement les points sur ^lesquels il serait
-intéressant de s'arrêter dans cette étude.</p>
-<p><pb/></p>
-<p>88 LA BEAUTÉ MODERNE</p>
-<p>Le citadin voit sa ville se transformer. Toutes les petites rues
-anciennes et noires, les maisons basses disparaissent. Dos voies larges,
-bien aérées, des maisons hautes et claires, les remplacent. Les avenues
-sont sillonnées de rails ; des tramways do toutes formes et de toutes
-dimensions circulent. Un immense va et vient mécanique ; le cri barbare
-des cornes déchire ses oreilles ; la fumée, l'odeur automobile
-l'imprègnent. La nuit, co sont des flots de lumière électrique.
-Enveloppés par ces rayons couleur do lune, tout paraît étrange,
-artificiel, irréel. Les passants et les voitures semblent se mouvoir sur
-une scène de théâtre, au milieu do décors. Les arbres qui bordent la
-chaussée ne sont pas vrais.</p>
-<p>Telle est la rue. Le jour, ce qui nous frappe, c'est le mouvement de
-tous ces récents moyens de locomotion mécanique ; la nuit, cette lumière
-pâle et pleine de rêve.</p>
-<p>Quel sentiment se dégagera de ces visions,</p>
-<p><pb/></p>
-<p>COMMENT NOUS VIVONS AUJOURD'HUI 89</p>
-<p><pb/></p>
-<p>90 LA BEAUTÉ MODERNE</p>
-<p><pb/></p>
-<p>COMMENT NOUS VIVONS AUJOURD'HUI 91</p>
-<p>et fabriquées de la vie, et presqu'aucune forme naturelle.</p>
-<p>Le milieu intellectuel.</p>
-<p><pb/></p>
-<p>LA BEAUTÉ MODERNE</p>
-<p>derne, conduit par la Science, ne peut plus avoir foi, quand il regardo
-autour de lui, lui paraissent toujours - solides l Quel trouble pour lui
-de voir sa vérité encore aussi peu réalisée, et, au contraire, tous les
-restes d'une civilisation vieille et barbare demeurer si imposants
-d'aspect ! Voir partout la représentation des idées mourantes
-(représentation il est vrai intérieurementdégradéecommo l'idée dont elle
-est la forme mais l'extérieur est intact), et ne pas voir celle des
-idées naissantes (pourtant si fortes, elles, si pleines de sève et do
-vie future), que cela l'inquiète! Il n'a point la force de s'imaginer,
-ne les ayant pas encore sous les yeux, tous les monuments qui bientôt
-vont s'élever, bâtis sûr ces idées.</p>
-<p><pb/></p>
-<p>COMMENT NOUS VIVONS AUJOURD'HUI 93</p>
-<p><pb/></p>
-<p>94 LA BEAUTÉ MODbhNE</p>
-<p><pb/></p>
-<p>COMMENT NOUS VIVONS AUJOURD'HUI 95</p>
-<p>* # #</p>
-<p>J'espère avoir fait sentir ce qu'il y a de provisoire et d'incomplet
-dans l'homme moderne. De quelque côté qu'on se place pour le considérer,
-on le trouve inquiet, on le voit qui attend.</p>
-<p><pb/></p>
-<p>96 LA BEAUTÉ MODERNE</p>
-<p>Bientôt, sans doute, toutes ces tendances, ces attractions trouveront un
-lien qui les réunira. Quelque chose de beau et de complet naîtra de
-cette agitation et do ce désordre. . Et l'homme nouveau, avec une foi et
-une morale nouvelle, vivra houreux dans une société nouvelle.</p>
-<p>L'ancien monde, l'ensemble étrange et surprenant Défaits sociaux, morts
-et pourris maintenant, D'où, sortit le navire aujourd'hui sous l'écume,
-L'ancien monde aussi, lui, plongé dans l'amertume Acait tous les fléaux
-pour cents et pour typhons, Construction d'airain aux étages profonds,
-Sur qui le mal, flot cil crachait sa bace infâmey</p>
-<p><pb/></p>
-<p>COMMENT NOUS VIVONS AUJOURD'HUI 97</p>
-<p>[l'homme!] Les cicants, d'ignorance et de cices charges, Se traînaient ;
-en tracers de tout, les préjugés ; Les superstitions étaient d'âpres
-enceintes Terribles d'autant plus qu'elles étaient plus saintes; Quel
-créneau soupçonneux et noir qu'un Alcoran ; Un texte acait le &lt;jlaice au
-poing comme un tyran! La loi d'un peuple était chez l'autre peuple un
-crime; Lire était un fossé, croire était un abime ;</p>
-<p>. jCe qui nous émeut, ce que nous trouvons beau, c'est le,,mouvement
-intérieur que nous</p>
-<p><pb/></p>
-<p>98 LA BEAUTÉ MODERNE</p>
-<p><pb/></p>
-<p>COMMENT NOUS VIVONS AUJOURD'HUI 99</p>
-<p>heureux et des paysages sinistres. Pourquoi qualifions-nous ces aspects
-de la nature, si ce n'est point parce qu'ils nous représentent les
-intimités mêmesde notre vio?Nous nous voyons en eux. Ils nous parlent
-comme des visages. Ils nous font souffrir ou sourire comme des amis qui
-nous entretiendraient d'eux-mêmes, ■c'est-à-dire do nous.</p>
-<p>Ah 1 mouvement de la vie ! flamme de la vie! âme! nous t'aimons, source
-de toute beauté ! Et aujourd'hui moderne comme hier antique, c'est toi
-toujours qui nous inspire !</p>
-<p><pb/></p>
-<p>100 LA BEAUTÉ MODERNE</p>
-<p>Eloignes de moi ce calice embaumé J'ai soif d'être altéré !</p>
-<p><pb/></p>
-<p>COMMENT NOUS VIVONS AUJOURD'HUI 101</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>VII</p>
-<p>LA VIE ET L'ART ÉTERNELS DANS LA VIE ACTUELLE</p>
-<p>A F. Fagus</p>
-<p><pb/></p>
-<p>104 LAJEAUTÉ MODERNE</p>
-<p>haïs, battus, déchirés, — aimés, secourus, consolés ? Quand n'ont-ils
-pas YÔCU ?</p>
-<p>Aujourd'hui?</p>
-<p>Pour son immoralité ? pour son manque d'idéal, sa bassesse? pour ses
-idées?...</p>
-<p><pb/></p>
-<p>LA VIE ET L'ART ÉTERNELS 105</p>
-<p>Est-ce pour la « bassesse, le manque d'idéal » de son temps que
-l'artiste le mépriserait?</p>
-<p><pb/></p>
-<p>106 LA BEAUTÉ MODERNE</p>
-<p>Est-ce donc pour ses idées quo l'artiste haïrait son temps ? Parce qu'un
-large courant socialiste entraîne les peuples d'aujourd'hui ? Non ; car
-l'artiste a conscience que ce mouvement est l'un des plus généreux quo
-le inonde ait connus. — D'ailleurs, les idées, en quoi lui
-importent-elles ? Est-co qu'il doit</p>
-<p><pb/></p>
-<p>LA VIE ET L'ART ÉTERNELS 107</p>
-<p><pb/></p>
-<p>108 LA BEAUTÉ MODERNE</p>
-<p>Les sentiments qui ont toujours existé, les</p>
-<p>(1) « Plus un monument se rapproche de notre temps, plus ses statues
-prennent une expression spirîtualiste et pensive. Nous finirons par ne
-plus sentir le corps et la forme, mais seulement l'âme et l'expression.
-« (TAINE.)</p>
-<p>La peinture de Carrière est très significative pour fa façon de sentir
-de notre époque.</p>
-<p><pb/></p>
-<p>LA VIE ET L'ART ÉTERNELS 109</p>
-<p>Dans ces conférences, j'ai essayé de montrer qu'en ce moment de sa
-perpétuelle évolution, l'homme était plus intéressant, plus vivant que
-jamais, que si ce temps avait quelque chose de particulier, un
-caractère, une personnalité, une âme, celle-ci était infiniment
-attachante et excitante pour un esprit d'artiste. '</p>
-<p>Alors, celui qui se plaint, do quoi se plaintJl?</p>
-<p>plaintJl? la vie d'aujourd'hui?—Non pas,mais</p>
-<p>DELÀ VIE. Il l'a mal comprise, il n'a pas su</p>
-<p><pb/></p>
-<p>110 LA BEAUTÉ MODERNE</p>
-<p>Il n'est pas artiste, celui qui demeure sans amour devant la vie, devant
-la vie, matière que nous travaillons, et force qui nous inspire, notre
-objet, notre but, et notre raison d'être! Un artiste qui n'aime pas la
-vie ! un artiste qui n'aime pas sa douleur et sa joie, son délire et ses
-larmes, sa puissance et sa faiblesse !</p>
-<p><pb/></p>
-<p>LA VIE ET L'ART ÉTERNELS 111</p>
-<p>Pour l'artiste d'aujourd'hui, son époque n'est ni plus, ni moins belle
-que pour l'artiste de n'importe quelle époque la sienne.</p>
-<p>Selon les siècles, les formes, les lignes, le dessin des habitations et
-des costumes sont plus ou moins harmonieux. Si l'on ne devait
-représenter que l'extérieur, l'idée que certaines époques sont plus que
-d'autres favorablesâl'art,serait juste.Or, le but de l'art n'est point
-de représenter l'apparence, mais la réalité. La peinture de l'extérieur
-n'est pour lui qu'un moyen de faire saisir l'intérieur. Pour lui,
-l'extérieur n'a pas d'existence réelle. De même que la parole n'existe
-pas en réalité, mais qu'elle est le signe qu'un être, celui qui parle,
-existe, de môme que la lumière n'existe pas en réalité, mais qu'elle est
-le signe que quelque choso qui éclaire, le soleil, existe, ainsi
-l'extérieur, pour le véritable artiste, n'existe pas en réalité, il est
-seulement le</p>
-<p><pb/></p>
-<p>112 LA BEAUTÉ MODERNE</p>
-<p>signe que quelque chose d'intérieur, que la vie existe. Et c'est cette
-chose intérieure, c'est cette vie que l'artiste veut rendre au moyen de
-formes et de couleurs qui n'en sont que les signes. Ces formes et ces
-couleurs lui importent donc peu ; qu'elles changent, qu'elles
-vàrient,cela n'est rien, puisque l'âme, puisque la vie ne varie pas et
-qu'elle les anime toujours.</p>
-<p><pb/></p>
-<p>LA VIE ET L*ART ÉTERNELS 113</p>
-<p>gens comme nous en voyons tous les jours,- avec les mêmes petites
-vertus, les mêmes petits vices, les mêmes petites passions, les mêmes
-joies et les mêmes douleurs. Rembrandt avait regardé ces gens-là, et il
-les avait sentis : il avait une âme faite pour sentir profondément et
-humainement. Aujourd'hui, de même, il eût donc pu vivre et peindre comme
-il y a deux siècles, et dans deux siècles il pourrait encore vivre et
-peindre comme aujourd'hui, parce que l'humanité que voyait Rembrandt
-existe encore et qu'elle existera toujours, parce que la beauté qu'il a
-vue dans la vie, et qu'il a reproduite dans ses tableaux, existe
-aujourd'hui comme il y a deux siècles, et qu'elle existera dans deux
-siècles, et toujours.</p>
-<p>Cette beauté quelle est-elle ? C'est la beauté simple, profonde et
-immense de la vie, la beauté que, si nous sommes artistes, nous pouvons
-découvrir chaque jour dans les scènes quotidiennes, dans les gestes de
-toutes les personnes qui nous entourent. Prenez</p>
-<p>8</p>
-<p><pb/></p>
-<p>114 LA BEAUTÉ MODERNE</p>
-<p><pb/></p>
-<p>LA VIE ET L'ART ÉTERNELS 115</p>
-<p>diquer certains caractères et dissimuler certains autres. C'est le
-contraire, il faut que rien ne vous échappe : il faut avoir un instant
-l'oeil de Dieu.</p>
-<p><pb/></p>
-<p>116 LA BEAUTÉ MODERNE</p>
-<p>L'art doit donc durer autant que la vie, autant que l'homme. Il ne
-dépend pas des apparences extérieures, il dérive d'un sentiment
-profondd'adorationpouri'existenceintérieure des êtres : c'est un élan
-vers l'intimité des vivants. En quoi les transformations sociales, et
-les modifications plastiques de l'existence pourraient-elles le
-diminuer? L'art n'est pas dans la chose considérée par l'artiste, il est
-dans l'artiste qui la considère : c'est un mou-</p>
-<p><pb/></p>
-<p>LA VIE ET L'ART ÉTERNELS 117</p>
-<p>vement de son âme. Ainsi, il n'est rien qui soit laid. L'objet qui nous
-paraît le plus vil peut provoquer dans la pensée do l'artiste le
-sentiment artistique, le sentiment créateur, ce mouvement d'adoration
-qui est causé par la perception de certains rapports d'une beauté suprême.</p>
-<p><pb/></p>
-<p>118 LA BEAUTÉ MODERNE</p>
-<p>naissent, Jet né^ craignons rien pour l'art. On ne le supprimera qu'en
-supprimant la vie.</p>
-<p><pb/></p>
-<p>LA VIE ET L'ART ÉTERNELS 119</p>
-<p>Je ne crains donc pas le socialisme. Je sais" trop bien qu'il ne pourra
-point se priver de l'art.</p>
-<p><pb/></p>
-<p>120 LA BEAUTÉ MODERNE</p>
-<p>apparaissent, dépouillés de sens, la vio seule étant pour nous,</p>
-<p>La vie, éternellement, contient la beauté que nous adorons, la beauté
-qu'inlassablement nous nous efforçons de mettre au jour.</p>
-<p>FIN</p>
-<p><pb/></p>
-<p>NOTES</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>La conférence où se trouvent ces phrases</p>
-<p>—était écrite, prononcée et publiée depuis</p>
-<p>longtemps quand j'ai lu l'ouvrage récent de</p>
-<p><pb/></p>
-<p>124 LA BEAUTÉ MODERNE</p>
-<p>(Tourment de l'Unité, page 15.)</p>
-<p><pb/></p>
-<p>NOTES 12S</p>
-<p>Pago41 : « La Révolution... est elle-même une oeuvre d'une complication
-exlraordinaire qui suppose l'éducation et l'organisation du prolétariat,
-la conquête collective et graduelle du pouvoir, et l'action de la
-science accélérant le mouvement humain. La /{évolution est un immense
-effort patient, collectif, organique, qui n'a aucun rapport avec des
-gestes désordonnés de destruction. »</p>
-<p>Il est intéressant de rapprocher de cette page de Jaurès la pensée
-analogue d'Anatole France exprimée dans son admirable discours du mois
-de janvier dernier, dans une fôte organisée par l'Université Populaire
-de Charenton :</p>
-<p>« Le peuple est le nombre, il est la force ; les lourds obstacles qu'on
-amasse devant lui, il pourrait d'un souffle les disperser comme des
-fétus de paille. Il le pourrait, et dans le fait il ne le peut pas.
-Pourquoi? Ce n'est pas le coeur qui lui manque. Il ne le peut pas parce
-qu'il ne connaît pas encore nettement</p>
-<p><pb/></p>
-<p>LA BEAUTÉ MODERNE</p>
-<p><pb/></p>
-<p>NOTES 127</p>
-<p>tionnelle, et comme il est la force unique, il deviendra l'unique
-puissance. »</p>
-<p>À cette idée que le beau ne dépend pas de la forme des choses et que,
-non pas seulement dans les lignes harmonieuses, il est possible de
-trouver de la beauté, l'un de mes</p>
-<p><pb/></p>
-<p>128 LA BEAUTÉ MODERNE</p>
-<p>Par le hasard des lectures, je tombe sur un passage de Lamennais, bien
-d'accord avec ma façon de comprendre, et que, pour mon auditeur
-récalcitrant, voici :</p>
-<p><pb/></p>
-<p>NOTES 129</p>
-<p>Jamais, me semble-t-il, tout ce que l'art a d'intérieur n'a été indiqué
-avec plus de justesse.</p>
-<p><pb/></p>
-<p>130 LA BEAUTÉ MODERNE</p>
-<p><pb/></p>
-<p>NOTES 131</p>
-<p>c'était fini ; la race ne voyait rien en dehors d'elle, l'humanité
-n'existait pas ; on l'ignorait et eiïo vous ignorait.</p>
-<p><pb/></p>
-<p>132 LA BEAUTÉ MODERNE • ""</p>
-<p>inutile. Quelles extases alors ! Quels rêves ! Il n'y aura plus d'art.
-D'ailleurs il n'y aurait "plus d'hommes non plus : ils seraiqnrdevenus
-des dieux. / ' ' '' //Y</p>
-<p><pb/></p>
-<p>INDEX ALPHABÉTIQUE</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>INDEX ALPHABÉTIQUE</p>
-<p>BERLIOZ, 107. CARPEAUX, 107. CARRIÈRE, 108. •CHARRON, 70. DIDEROT, 28.
-DUCLAUX, 77. FRANCE, 125. HAECKEL, 23, 31. HUGO, 26, 30. JAURÈS, 40,12$.
-LAMENNAIS, 127. MAETERLINCK, 6b. MJÎNARD (René), 3b.</p>
-<p>MIRBEAU, 79. MITIIOUARD (Adrien), 123 MONET, 31. PASCAL, 64.</p>
-<p>Puvis DE CHAVANNES, 107 PLATON, 16, 22, 30. REMBRANDT, 112. RODW, 30.
-SHELLEY, 115, 119. SAINT AUGUSTIN, 25. TAINE, 8b, 108. VANDEPUTTE
-(Henri), 100 VERLAINE,Atfî;, o/ '•"'&gt;*</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>TABLE</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>TABLE</p>
-<p>Pages</p>
-<p>Note. 5</p>
-<p>Dédicace 7</p>
-<p>I, INTRODUCTION 9</p>
-<p>II. DEUX CONCEPTIONS DE LA BEAUTÉ 15</p>
-<p>III. Du STYLE ET DU STYLE MODERNE 33</p>
-<p>IV. ÉLÉMENTS NOUVEAUX DE BEAUTÉ. BEAUTÉS</p>
-<p>NOUVELLES 49</p>
-<p>V. LA MÉTAMORPHOSE DES INSTINCTS 63</p>
-<p>VI. COMMENT NOUS VIVONS AUJOURD'HUI 81</p>
-<p>VII. LA VIE ET L'ART ÉTERNELS DANS LA VIE</p>
-<p>ACTUELLE 103</p>
-<p>Notes 121</p>
-<p>Index alphabétique. mr.,.... 133</p>
-<p>A&lt;v 'A</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>Cet ouvrage a été achevé d'imprimer LE MARDI 11 FÉVRIER U02</p>
-    </div>
+      <div>
+        <p>
+          <pb/>
+        </p>
+        <p>Bë|uté tîiodfrni|</p>
+        <p>A^ 6ort|ôrences du Collège d'Esthétique ?</p>
+        <p>PARIS ÉDITIONS DE LA PLUME '</p>
+        <p>31 j RUE BONAPARTE, 31 ' ,</p>
+        <p>/' ~ '</p>
+        <p>MCM1I</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>,y|)BEAUTÉ MODERNE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>DU MÊME AUTEUR</p>
+        <p>Sylvie ou les Éniois passionnés, librairie du Mer-* - cure de France.................... 2 fr. 60</p>
+        <p>Chair, librairie du Mercure de France.. 2 fr. »</p>
+        <p>Exposé du Naturisme, librairie de la Lutte (Bruxelles).... '.*................. .&gt;,.&gt;.'. ÊpUÎsô</p>
+        <p>Essai sur l'Amour, librairie Stock...... 3 fr. 50</p>
+        <p>EN PRÉPARATION î</p>
+        <p>Une autre fin d'Hamlct, roman. Les Deux Amies, roman. La Joie défendue, roman. Ame d'or, nouvelle. L'Infidèle, 3 actes. Essai sur Balzac. Etudes littéraires. Poèmes en prose.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>§^aauté moderne</p>
+        <p>jContyçe&amp;Ces du Collège d'Esthétique (février-juin idoi)</p>
+        <p>PARIS ÉDITION DE « LA PLUME »</p>
+        <p>31, RUE BONAPARTE, 31 MCMII</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>Je n*ai point eu la prétention, de pouvoir donner, développées et complètes, ensico. conférences toutes les muons secondaires, que f ai d'aimer le temps oiije vis. Je les ai seulement indiquées.</p>
+        <p>Novembre 1901.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>A JEAN JAURÈS</p>
+        <p>qui connaît la nécessité de l'Art dans toute</p>
+        <p>comprendre cette nécessité aux socialistes,</p>
+        <p>Ces Conférences sont dédiées admiratieement,</p>
+        <p>E M.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>' ' ' ' "</p>
+        <p>La Beauté moderne</p>
+        <p>• ■' * , i</p>
+        <p>INTRODUCTION. ■</p>
+        <p>A Maurice Le Blond.</p>
+        <p>Chaque chose est belle si on sait bien la regarder. La Beauté est partout.</p>
+        <p>lo En découvrant toutes les beautés physiques des choses, nous développerons nos sens ; ils seront satisfaits plus souvent ; il y a dans la vie des joies innombrables pour la</p>
+        <p>(1) Cette première conférence (Introduction. Deux conceptions de la Beauté) fut prononcée le ~" jour de l'ouverture du Collège d'Esthétique moderne, le 2 février 1901.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>10 LA BEAUTÉ MODERNE</p>
+        <p>vue, pour l'ouïe, ^ourrodorat,pour le toucher, pour le goût. Apprenons à les discerner et profitons d'elles, ces joies nous, appartiennent si nous les voulons.</p>
+        <p>Je souhaiterais montrer que la vie moderne contient autant de beauté que la vie aux autres époques, si ornées, si gracieuses celles-ci soient-elles dans nos imaginations. Il me semble que nous vivons ; nous avons des rapports avec les êtres et avec les chose?, nous allons et venons, nous aimons, nous cueillons des fleurs, nous mourons ; eh bien 1 jamais l'humanité n'a fait autre chose,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>INTRODUCTION 11</p>
+        <p>et c'est tout simplement en faisant cela qu'elle a rempli d'amour, d'extase, d'esprit divin mille et mille poètes.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>de comprendre et d'aimer véritablement le passé, sans aimer le présent Puisque le présent est tout entier en germe dans le passé, puisqu'il fait partie du passé. Et même si vous aimez le passé sans aimer le présent, vous l'aimez mal, incomplètement, inintelligemment. ,</p>
+        <p>11 est clair que nous allons au socialisme. Eh bien ! pourquoi fuir? Si le socialisme est une forme de la vie en société meilleure que la forme actuelle, il faut se hâter d'y arriver. Si, au contraire, c'est une forme pire, IkWons-nous également, car en tout cas, c'est</p>
+        <p>
+          <pb/>
+        </p>
+        <p>INTRODUCTION 13</p>
+        <p>un point de l'évolution inévitable» — Notre civilisation doit-elle être ruinée par lui? Qu'elle le soit le plus vite possible, afin qu'une civilisation nouvelle étant née sur ces ruines, l'humanité connaisse encore une phase de sa vie.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>II</p>
+        <p>DEUX CONCEPTIONS DB LA BEAUTÉ</p>
+        <p>A Fernand Gregh.</p>
+        <p>Il faut commencer par nous entendre sur le sens du mot : beau.</p>
+        <p>Qu'est-ce qu'être beau ?</p>
+        <p>Je vais essayer de montrer ce qu'un platonicien, un chrétien voit dans la Beauté, puis, ce qu'y voit un matérialiste.</p>
+        <p>Dans le Phèdre on trouve parfaitement exposée la conception idéaliste de la Beauté.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>16 LA BEAUTÉ MODERNE</p>
+        <p>*</p>
+        <p>Mais voici comment les âmes ont perdu leurs ailes et sont tombées sur la terre :</p>
+        <p>« Or, le chef suprême, Jupiter (1) s'avance « le premier, conduisant son char ^ilôjordontenant et gouvernant toutes choses. Après « lui vient l'armée des dieux et des démons « divisée en onze tribus,.,.. LorsqùMls rêV « viennent au banquet somptueux qui lès « attend, et qu'ils montentau sommet le plus</p>
+        <p>(1) Platon, Phèdre, trad. Cousin.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>DEUX CONCEPTIONS DE LA BEAUTÉ 17</p>
+        <p>« Las immortels, après s'être élevés au « plus haut du ciel, en franchissent le faîte, « et vont se placer en dehors, sur la partie « convexe de sa voûte; et tandis qu'Us s'y « tiennent, le mouvement circulaire les « emporte autour du ciel dont ils contem« plent, pendant ce temps, la forme, exté« riëùre. Le Heu qui est au-dessus du ciel, « aucun de nos poètes ne l'a encore célébré ; « aucun ne le célébrera jamais dignement. « Voici pourtant ce qui en est&gt; car il ne faut « pas craindre de publier la vérité, surtout « quand on parle sur la vérité. L'essence «véritable, sans couleur, sans forme, impal« pable, ne peut être contemplée que par le</p>
+        <p>2</p>
+        <p>
+          <pb/>
+        </p>
+        <p>18. LA BEAUTÉ MODERNE</p>
+        <p>&lt; telle qu'elle existe dans ce qui est l'être « par excellence. Après avoir ainsi contemplé « toutes lès essences et s'en être abohdâm« ment nourrie, elle replonge dans rintérioUr « du ciel et revient au palais divin ; aussitôt «qu'elle arrive, le cocher conduisant les c coursiers à la crèche, répand devant eux</p>
+        <p>
+          <pb/>
+        </p>
+        <p>DEUX CONCEPTIONS DE LA BEAUTÉ 19</p>
+        <p>« l'ambroisie et leur Yérse le nectar. Telle est « la vie des dieux,.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA BEAUTÉ MODERNE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>PEUX CONCEPTIONS DE LA BEAUTÉ 21</p>
+        <p>i i ' ' .. .. 11" .. ii ' ' , ... . ; J. ..:/■_' . i . 1.1 ... . ■. ■</p>
+        <p>
+          <pb/>
+        </p>
+        <p>W iU BEAOTJ^MODERNE</p>
+        <p># # #</p>
+        <p>
+          <pb/>
+        </p>
+        <p>DEUX CONCEPTIONS DÉ LA BEAUTÉ 23</p>
+        <p>seule(l) que nous appelons brièvement âme hu"itiaînej n'est que la somme de nos sensations, de ^bs^ volontés et de nos pensées; la sojnmë des fonctions psychologiques dont les microscopique^ cellules; gangliônnèires de notre cerveau ren. présentent les organes élémentaires (Haeckel);"</p>
+        <p>
+          <pb/>
+        </p>
+        <p>2* L^ BEAUTÉ MODERNE</p>
+        <p>ment, et non plus au Ciel, nous étant imposée par l'ensemble des découvertes modernes, nous sommes bien forcés de chercher une explication nouvelle de la Beauté.</p>
+        <p># * * -«</p>
+        <p>Pour nous, panthéistes naturistes, adorateurs du monde et "de la vie, qu'est-ce qui est beau ? -^ Tout. La Beauté est partout. Où il y a de la lumière, où il y a de la vie, il y a de la beauté. Chaque chose est belle, chaque être est beau, Il n'y a pas de laideur, car la beauté c'est la vie; or, depuis les étoiles jusqu'aux profondeurs du monde, il n'y a que de la vie, la mort n'existé pas.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>DEUX CONCEPTIONS DE LA BEAUTÉ 25</p>
+        <p>« C'est l'Unité qui constitue la beauté », a dit saint Augustin. L'unité, c'est-à-dire le rapport exact des parties d'un tout entre elles. Or, c'est bien cette unité de la vie, cette harmonie universelle, ce rapport exact entre toutes les parties du monde qui nous le fait trouver admirable sous tous ses aspects, sous -toutes ses faces* dans son ensemble et dans ses détails.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA BEAUTÉ MODERNE</p>
+        <p>Je veux vous rappeler le Satyre, un dos sommets de l'oeuvre de Hugo, prodigieux poème panthéiste dans lequel il s'écrie : « Les Dieux sont morts. Toute l'âme, toute la beauté,-toute la vie est sûr la terre. » Le satyre qui, dans ce poème, est la figure de l'univers est amené devant lès dieUxtenû par Tôreillè par Hercule, et il leur parle. Il chante la Terre et l'âme de la Terre.</p>
+        <p>« Et maintenant, ô dieux I Ecoutez ce mot : L'âme, Sous l'arbre qui bruit, près du monstre qui brame, Quelqu'un parle. C'est l'Ame. Elle sort du chaos. Sans elle, pas de vents, le miasme ; pas de flots, L'étang j l'âme, en sortant du ohaos, le dissipe ; Car il n'est que l'ébauche, et l'âme' est le principe. L'Etre est d'abord moitié brute et moitié forêt ; Mais l'Air veut devenir l'Esprit, ThOmme apparaît, L'homme ? qu'est-ce que 6'ést que ce sphinx ? Il • • ,'. ,' - '; [commence</p>
+        <p>En sagesse; ô mystère ! et finit en démence, r O ciel qu'il a quitté, rends-lui son âge d'or j » -•■-'".</p>
+        <p>Lé faune, interrompatit son orageux essor, Ouvrit d'abord un doigt, puis deux, puis un troi:"•"..''.'■•■'</p>
+        <p>Comme quelqu'un qui compte en \méme temps ' '-:,:'.".."-.;' .;• \ Y'/.;.':;.';._; , [qu'il sème, - Et cria, sur le haut Olympe vénéré ?</p>
+        <p>
+          <pb/>
+        </p>
+        <p>DEUX CONCEPTIONS DE LA BEAUTÉ 27</p>
+        <p>« L'avenir, tel que les cieux le font, C'est l'élargissement dans l'infini sans fond, -C'est l'esprit pénétrant de toutes parts la chose ! On mutilé l'effet en limitant la oause: Monde, tout le mal vient de la forme des'dieux.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA^BEAUTÉ MODERNE</p>
+        <p>La connaissance humaine s'élargissant de plus en plus, nous saurons de mieux en mieux les rapports qui existent entre toutes les choses de l'univers. Connaissant plus de rapports entre les choses, nous comprendrons plus complètement les choses, nous verrons plus parfaitement l'universelle beauté.</p>
+        <p>Voici, sur le beau, une pénétrante proposition de Diderot : « La perception des rapports est le fondement du beau. » *</p>
+        <p>Donc, tout est beau. Pourquoi? — Par ce</p>
+        <p>
+          <pb/>
+        </p>
+        <p>DEUX CONCEPTIONS DE LA BEAUTÉ 29</p>
+        <p>
+          <pb/>
+        </p>
+        <p>30 LA BEAUTÉ MODERNE</p>
+        <p>— Aujourd'hui, est-ce un sentiment analogue qui anime l'artiste? — Non. En considérant l'oeuvre d'un sculpteur comme ftodin</p>
+        <p>
+          <pb/>
+        </p>
+        <p>DEUX «iONCEPTIONS DE LA BEAUTÉ 31</p>
+        <p>ou d'un peintre comme.Monét, si jo me demande quelle, sorte de joie ils ressentent de-v vant la beauté, je conçois bien que c'est une autre que celle des Grecs. Comme ils sont tourmentés ! Comme tout leur être est pris ! C'est que, devant la vie, ils s'éprouvent en face du divin tout entier (1), et que la vie, la vie qui bouge devant eux et qu'ils tâchent de saisir et de fixer, c'est leur seule religion, leur</p>
+        <p>
+          <pb/>
+        </p>
+        <p>32</p>
+        <p>LA BEAUTÉ MODERNE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>III</p>
+        <p>DU STYLE ; ET DU STÏLE MODERNE</p>
+        <p>A Louis Bertrand^</p>
+        <p>
+          <pb/>
+        </p>
+        <p>34 LA BEAUTÉ MODERNE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>DU STYLE ; ET DU STYLE MODERNE 35</p>
+        <p>Une période qui a quelque chose de parfait.</p>
+        <p>Par exemple, lé ve siècle de la Grèce antique.</p>
+        <p>Par exemple, la seconde moitié du xvii&amp; siècle</p>
+        <p>en France. Une période où le fond d'idées</p>
+        <p>sur lequel vivent les citoyens est commun à</p>
+        <p>tous ; alors, il y a concert entre eux ; alors,</p>
+        <p>si l'artiste parle, tous reconnaissent leur</p>
+        <p>propre pensée.</p>
+        <p>* * *</p>
+        <p>L'art d'un temps reflète, en même temps que sa beauté, sa façon de comprendre la vie. Dans un monument retrouvé au milieu d'un désert, il est possible d'apercevoir le système social, la conception religieuse, les idées générales du peuple qui l'éleva. René Ménard, dans son excellent petit livre sur VArt Antique, traduit cette idée quand il dit : « L'art égyptien est sacerdotal, l'art assyrien est monarchique, en Grèce, nous verrons un art républicain. » Il parle, bien entendu, de l'architecture, car cet art étant celui de l'expression la plus</p>
+        <p>
+          <pb/>
+        </p>
+        <p>36 'LA BEAUTÉ MODERNE</p>
+        <p>Les conceptions sociales et religieuses d'une époque sont les manifestations extérieures de ce qu'on appelle son âme. Pour que les monuments publics expriment bien cette âme, il est nécessaire qu'elle ne soit point troublée, qu'elle soit une. Il faut qu'il n'y ait pas en elle deux pensées, deux idéals luttant, mais une seule pensée, un seul idéal.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>DU STYLE ; ET DU STYLE MODERNE 37</p>
+        <p>* * *</p>
+        <p>(1) L'antiquité grecque, l'antiquité romaine, le Moyen-Age, le xvn* siècle s exemples d'époques "d'unité*</p>
+        <p>
+          <pb/>
+        </p>
+        <p>38 LA BEAUTÉ MODERNE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>DU STYLE J ET DÛ STYLEMODERNE 39</p>
+        <p>h. * * .</p>
+        <p>
+          <pb/>
+        </p>
+        <p>40 - LA BEAUTÉ MODERNE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>DU STYLE ; ET DU STYLE MODERNE ^41</p>
+        <p>* * *</p>
+        <p>On peut ètro sûr dès aujourd'hui que la vraie république — socialement, moralement et religieusement *•*- se constituera.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>42 ;; ^r LA"BEAUTÉ/MODERNE</p>
+        <p>Ce qu'il sera, sans doute il est impossible de le déterminer, mais probablement nous connaissons au moins les éléments qui le constitueront, d'une part la maison en pierres» haute, vaste et spacieuse, saine, aérée du</p>
+        <p>
+          <pb/>
+        </p>
+        <p>DÛ STYLE ; ET DU STYLE MODERNE 43</p>
+        <p>
+          <pb/>
+        </p>
+        <p>44 LA BEAUTÉ MODERNE</p>
+        <p>qui leur faisaient exécuter des merveilles. Eh bien ! une autre période va venir, période de foi humaine qui sera aussi'belle que cette période de foi divine. Partout s'élèveront de? •monuments admirables, car tous les constructeurs auront la foi, Tous seront fécondés par un môme enthousiasme qui, comme jadis la Religion, fera naître en eux une fouie de beaux ot de grands sentiments lesquels s'exprimeront dans leurs édifices.</p>
+        <p>* *</p>
+        <p>Mais, sans stylo, notre époque n'en est pas moins,profondément belle. Et môme c'est justement parce qu'il n'a pas de style, parce qu'il n'a pas d'unité*morale, parce qu'il est troublé, bouleversé, qu'aujourd'hui il est si beau.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>DU STYLE ; ET DU STYLE MODERNE 45</p>
+        <p>
+          <pb/>
+        </p>
+        <p>46 , LA BEAUTÉ MODERNE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>DU STYLE { ET DU STYLE MODERNE 47</p>
+        <p>est belle ! qu'elle est belle ! Quoi, YOUS vous lamentez? Vous ne la voyez donc pas ? Mais regardoz autour de vous ! Quel temps jamais fut plus beau?</p>
+        <p>. Oui, tout est beau. Et il n'y a point de degrés dans la beâUté. Tout ce qui contient de la vie contient dé-la'beauté, Or, tout, même ce qui parait mort,. est plein de vie. Tout est beau, et au même point. Un agonisant est-il moins beau qu'un héros resplendissant 4e ^ Une rose qui s'effeuille estelié moins belle qu'une rosé épanouie ? Non, -3[riïais chaque chose a sa beaUté, et chaque</p>
+        <p>
+          <pb/>
+        </p>
+        <p>48 LAJÎEAUTÉ MOJDERNE</p>
+        <p>Ainsi, une époque non parfaite n'est pas moins belle qu'une époque parfaite. Toutes les époques sont belles. Chacune a sa beauté, Charmons-nous, réjouissons-nous de celle que possède l'époque où nous vivons,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>IV</p>
+        <p>ÉLÉMENTS NOUVEAUX DE BEAUTÉ. BEAUTÉ NOUVELLE,</p>
+        <p>A Paul Soucfron,</p>
+        <p>Admirable est notre temps ! Et pour les plus diverses raisons. — Hier nous parlions de son mouvement d'élaboration sociale: la société trouve une façon nouvelle de s'organiser. Aujourd'hui tournons nos regards d'un autre côté, et nous verrons la vie, la vie éternelle trouver une façon nouvelle de s'exprimer !</p>
+        <p>Sans doUte, entre tous, le xixe siècle restera</p>
+        <p>merveilleux, éblouissant les yeux des hommes</p>
+        <p>d'un éclat incomparable. Il a introduit en</p>
+        <p>i</p>
+        <p>
+          <pb/>
+        </p>
+        <p>80 LA BEAUTÉ MODERNE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ÉLÉMENTS NOUVEAUX DE BEAUTÉ 61</p>
+        <p>
+          <pb/>
+        </p>
+        <p>52 LA B.BAUTÉ MODERNE</p>
+        <p>selle, elles deviennent une des formes de l'ôtre, elles en sont une apparence nouvelle s nous devons les considéror ayèe émotion.</p>
+        <p>* * *</p>
+        <p>L'introduction des machines dans notre milieu humain comporte dès conséquences intéressant l'Esthétique et la Morale.</p>
+        <p>Ayant conquis la puissance profonde dé là</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ÉLÉMENTS NOUVEAUX DE BEAUTÉ 53</p>
+        <p>
+          <pb/>
+        </p>
+        <p>54 LA BEAUTÉ MODERNE</p>
+        <p>masse humaine est la première conséquonco de la Machine.</p>
+        <p>* * *</p>
+        <p>La Machine influera sur l'imagination de l'artiste. Elle le conduira à de plus nobles sujets.</p>
+        <p>Voici comment :</p>
+        <p>Par l'introduction de la machine, l'idée de Force s'est modifiée dans l'humanité, La force musculaire, la force de l'être physique a perdu de sa valeur, la force morale et la force</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ÉLÉMENTS NOUVEAUX DE BEAUTÉ 55</p>
+        <p>intellectuelle en ont acquise. En voyant la machine inconsciente et inanimée grande productrice de force, on a conçu l'infériorité de la force. « Peu de chose qu'un homme fort, a-ton pensé, ce n'est qu'une machine, un esclave, » On a compris que toute la nature — animale, végétale, minérale, — pouvait produire de la force, tandis que seul, l'homme produisait de la force intellectuelle, et que, si tout était créateur de force, lui seul l'était d'intelligence.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>56 LAJBEAUTÉ MODERNE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ÉLÉMENTS NOUVEAUX DE BEAUTÉ</p>
+        <p>57</p>
+        <p>n'est qu'un atroce et fauve animal, — plus jamais la guerre !</p>
+        <p>En rabaissant la force, l'humanité et Part' se seront élevés.</p>
+        <p>* * *</p>
+        <p>L'électricité n'était point connue. Ce fluide mystérieux est entré dans le monde et l'a fait changer d'aspect. C'est comme une divinité que les hommes auraient asservie et qui emploierait pour eux sa puissance. On dirait l'âme de la terre. Avec l'électricité, surhumains, nous allons de merveille en merveille, plus rien ne nous semble impossible.</p>
+        <p>Ce nouvel élément, dont on tire un si prodigieux parti, va modifier aussi nos conceptions.</p>
+        <p>'.,- Nul ne pénètre dans le secret de Ja nature sans perdre de ses préjugés et' de ses erreurs. Plus nous connaissons de choses, plus nous</p>
+        <p>jious connaissons ; plus l'homme regarde autour de lui, mieux il se voit, et peut-être.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>58</p>
+        <p>■ÏX BEAUTÉ MODERNE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ÉLÉMENTS NOUVEAUX DE BEAUTÉ 59</p>
+        <p>* *■*</p>
+        <p>L'homme aura retrouvé sa vraie place dans l'univers, il n'empiétera plus sur ses droits quand tous ses esclaves seront des esclaves qu'il aura créés lui-môme, auxquels il aura donné lui-même la vie. La machine fera le travail de l'animal î premier degré de la libération de celui-ci ; — mais sa délivrance ne sera complète qu'au moment où l'alimentation chimique que les savants préconisent sera adoptée. Alors l'humanité se modifiera</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA-BEAUTÉ MODERNE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ÉLÉMENTS NOUVEAUX DE BEAUTÉ 61</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>LA MÉTAMORPHOSE DÉS INSTINCTS.</p>
+        <p>A Christian Beck,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>L'homme, d'ailleurs, n'est peut-être point si coupable quand il refuse de se reconnaître dans l'anthropoïde primitif, Il est devettu,en effet, si différent dé l'animal humain ! même ses instincts se sont transformés, engagés</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA MÉTAMORPHOSE DES INSTINCTS - 65</p>
+        <p>dans une Yoio,nouvelle : sans doute le moins avancé de la race en a conscience.</p>
+        <p>necos(i) dans la Vie des abeilles^ remar3ue,</p>
+        <p>remar3ue, d'autres apiculteurs, qu'en Australie et ans les contrées où il n'y a pas d'hiver, où les Fiantes sont constamment en fleur, donc où existence de l'abeille est assurée et où elle n'a pas besoin de penser au lendemain, elle ne vit -pas en ruche (ou société) mais au contraire individuellement, en vagabonde et au jour le jour.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>66 " LA BEAUTÉ MODERNE</p>
+        <p>* .**</p>
+        <p>Afin de saisir cette évolution, il faut d'abord se reporter en pensée aux périodes reculées où l'anthropoïde velu et musclé, puissant,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA MÉTAMORPHOSE pESINSlttNCTS 67</p>
+        <p>aux sens développés, -àfàinal commiè^ lés autres animaux et présentant un aspect semv blable au leur, menait comme eux la vie sauvage, brutale et instinctive, •— et passer' aussitôt aux époques de civilisation : là bête est devenue homme ; ses poils sont tombés et ses sens se sont affaiblis; elle mène une existence nouvelle. Alors que les autres espèces ont toujours une vie du même ordre, l'homme a transformé la sienne, il connaît une vie différant totalement de la première.</p>
+        <p>En même temps que son aspect, son être a changé.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>* * '</p>
+        <p>
+          <pb/>
+        </p>
+        <p>70</p>
+        <p>LA BEAUTÉ MODERNE</p>
+        <p>en train de terrasser leur bête sauvage : ils luttent pour la vie. Mais quelle autre lutte I et pour quelle autre Yie I.M</p>
+        <p>
+          <pb/>
+        </p>
+        <p>w LA MÉTAMORPHOSE DES ÏNSÏÏNCTS "Hi</p>
+        <p>
+          <pb/>
+        </p>
+        <p>72</p>
+        <p>LA BENITE' MODERNE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>; s. tk MÉTAMORPHOSE! DES INSTINCTS 73</p>
+        <p>* * *</p>
+        <p>Le phénomène extraordinaire, c'est la volonté. Que l'homme veuille et qu'il ait conscience de vouloir, cela le distingue de tous</p>
+        <p>
+          <pb/>
+        </p>
+        <p>74 LA_ BEAUTÉ MODERNE</p>
+        <p>les êtres. Vouloir, agir, autrement que poussé par l'instinct, cela, sans doute, est uniquement humain.</p>
+        <p>Avoir besoin d'émotions, en rechercher, voir des hommes pour tirer d'eux des émotions, encore un fait uniquement humain. L'Art.</p>
+        <p>L'Art créateur est uniquement humain.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA METAMORPHOSE DÈS INSTINCTS 75</p>
+        <p>L'art humain, l'art créateur marque donc</p>
+        <p>
+          <pb/>
+        </p>
+        <p>M</p>
+        <p>LA BEAUTÉ MODERNE</p>
+        <p>Mais si l'homme d'aujourd'hui peut reproduire quelques sensations, on suit qu'il ne peut pas en éprouver un aussi grand nombre que celui des premiers âges. Ayant gagné on</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LÀ MèTAMpRPHpéE DES INSTflNCfs 77</p>
+        <p>cerveau, il a perdu en sens. M* Duclaux,'•l'illustre savant, écrivait récemment : « Le sau-; vage, celui qui vit en pleine nature, où ses organes sont constamment en fonction et en éveil, est, au regard de nous, un être supérieur. Mais, en. devenant des sauvages dégénérés, nous avons pu développer notre esprit, et cette loi de balancement entré tes divers développements dont nous sommes capables, nous semble une loi naturelle. *&gt;</p>
+        <p>Nous sommes des sauvages qui de plus en plus dégénérons. Nous ne profitons presque plus sensoriellèment des choses. Même nos sensations ont un aboutissement intellectuel. Les plus avancés des hommes, à présent, ne demandent beaucoup de sensations que pour beaucoup comprendre : ils ne veulent de leurs sens que pour le profit qu'en tire leur intelligence. Aucun ne se contente plus de sentir pour sentir. Tandis que tout, autour de nous, ne vit que de sensation, et pour la sensation, nous avons introduit dans notre existence la pensée et le sentiment, aussi</p>
+        <p>
+          <pb/>
+        </p>
+        <p>.78 . LA_BEAUTÉ MODERNE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA MÉTAMORPHOSE DES INSTINCTS 79</p>
+        <p>
+          <pb/>
+        </p>
+        <p>M</p>
+        <p>:LAIBEÀÛÏE MODERNE</p>
+        <p>ipïus que nous. Cesens; j'acquêrrons-nôus ja</p>
+        <p>mais ? en perdant les autres, deyonsnoUs</p>
+        <p>gaghèr çelui-lâ pu abandonner définitivement</p>
+        <p>.ndtré ëëpbir de Je pôsséder^un jour ?j</p>
+        <p>Nos sens étant atrophiés, la dégénérescence du sauvage sera compleJte.Nous n'aurons., plus de sens, mais un cerveau extraordinaire*</p>
+        <p>Alors, que se passera-t-ït ?</p>
+        <p>Nous serons devenus dès êtres monstrueux au regard de toute la nature* Nous serons en opposition avec l'univers entier.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>VI</p>
+        <p>COMMENT NOUS VIVONS AUJOURD'HUI</p>
+        <p>A Saint-Georges de Bouhèlicr.</p>
+        <p>Pour comprendre la beauté moderne, il faut distinguer les caractères de Y homme d* aujourd'hui, ceux de sa vie. Ce qu'il y a de provisoire dans l'instant où nous sommes.</p>
+        <p>Cherchons donc, voyons autour de nous ce qui passera, l'argile.</p>
+        <p>6</p>
+        <p>
+          <pb/>
+        </p>
+        <p>82' LA BEAUTÉ MODERNE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>COMMENT NOUS VIVONS AUJOURD'HUI 83</p>
+        <p>voudriez Yivré un instant dans la peau d'un autre, mais cela est impossible, alors vous vous penchez sur ses yeux, vous essayez de regarder, de pénétrer son mystère... De même vous vous penchez sur une époque évanouie, vous la questionnez fiévreusement : Comment vivais-tu donc ? lui demandez-vous. Sur une vieille gravure, nous contemplons l'apparence du temps passé: ahl comme nous aurions voulu porter ces costumes au milieu de ces maisons, de ces rues I — Pourquoi ? — Mais pour respirer cetair'spécial, pour comprendre avec cet esprit, pour parler avec cette voix, pour entendre et pour voir avec ces oreilles et avec ces yeux qui n'ont existé qu'alors. Nous sommes si humains, que tout ce qu'a vécu l'humanité, nous voudrions le connaître, nous voudrions le vivre aussi !</p>
+        <p>Donc une époque a son caractère, sa personnalité. D'où lui sont-ils venus? — De la façon particulière dont les hommes qui la composaient éprouvaient les sentiments</p>
+        <p>
+          <pb/>
+        </p>
+        <p>84 LA BEAUTÉ MODERNE,</p>
+        <p>les plus généraux. Ceci est son charme propre, son parfum.</p>
+        <p>'•y"' .■'.'V::&gt;::.;</p>
+        <p>. En constante évolution, physiquement, ' moralement, intellectuellement, essayons de nous immobiliser un instant et d'examiner le point précis où nous sommes. Considérons 1 nos façons de sentir,, notre démarche, nos gestes, nos paroles, nos regards, nos sourires, enfin tout ce qui est nous, ce qui, produit par l'ensemble d'aujourd'hui, lui appartient et disparaîtra avec lui.</p>
+        <p>Qu'est-ce qu'un homme moderne ?</p>
+        <p>Il convient d'abord d'expliquer ces deux termes, de dire ce qu'il y a, dans l'homme moderne, de moderne ou de particulier, et ce qu'ii y a iïhumain ou d'éternel.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>COMMENT NOUS VIVONS AWOURD'HÛI 8b..',</p>
+        <p>idées, Un genre d'esprit qui dure trois ou quatre ans : ceuxde la nîode et du moment. » — « Au'-'dessous s'étend une couche dp 1 caractères un peu plus solides, elle dure vingt, trente, quarante ans, environ une demi-période historique ». — « Les couches du troisième ordre sont très vastes et très épaisses. Les caractères qui les composent durent pendant Une période historique corn-* plète, comme le Moyen Age, la Renaissance ou l'époque classique ». — Enfin la couche primitive : par-dessous les puissantes assises que lés périodes ' historiques emportent, plonge et s'étend une assise bien plus puissante que les périodes historiques n'emportent pas. C'est le caractère — aptitudes et instincts — du peuple, celui qu'il porte dans son sang et qui ne peut s'altérer que par une altération du Sang: invasion, croisement de race ou changement de jnilieu physique.</p>
+        <p>Nous voulons parler icj de l'homme moderne: c'est-à-dire, selon Taine, de la deuxième et de la troisième couche de ce terrain. Notre</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA BEAUTE MODERNE</p>
+        <p># * *</p>
+        <p>Pour comprendre notre formation, il faut étudier le triple milieu : sensoriel, moral, intellectuel, où nous vivons.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>COMMENT NOUS VIVONS AUJOURD'HUI 87</p>
+        <p>tions continuelles de nos sens sont pour notre cerveau comme les coups de pouce du sculpteur pour la statue qu'il modèle.</p>
+        <p>Puis il faudrait passer aux moeurs, aux coutumes de la société dans laquelle il se meut et mesurer la pesée qu'elles exercent sur lui. Enfin considérer toutes les opinions, tous les propos qu'il écoute, tous les faits publics qui l'émeuvent, les journaux et les livres qu'il lit, la musique qu'il entend, la peinture qu'il regarde, la maison qu'il habite.</p>
+        <p>Notons ensemble rapidement les points sur ^lesquels il serait intéressant de s'arrêter dans cette étude.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>88 LA BEAUTÉ MODERNE</p>
+        <p>Le citadin voit sa ville se transformer. Toutes les petites rues anciennes et noires, les maisons basses disparaissent. Dos voies larges, bien aérées, des maisons hautes et claires, les remplacent. Les avenues sont sillonnées de rails ; des tramways do toutes formes et de toutes dimensions circulent. Un immense va et vient mécanique ; le cri barbare des cornes déchire ses oreilles ; la fumée, l'odeur automobile l'imprègnent. La nuit, co sont des flots de lumière électrique. Enveloppés par ces rayons couleur do lune, tout paraît étrange, artificiel, irréel. Les passants et les voitures semblent se mouvoir sur une scène de théâtre, au milieu do décors. Les arbres qui bordent la chaussée ne sont pas vrais.</p>
+        <p>Telle est la rue. Le jour, ce qui nous frappe, c'est le mouvement de tous ces récents moyens de locomotion mécanique ; la nuit, cette lumière pâle et pleine de rêve.</p>
+        <p>Quel sentiment se dégagera de ces visions,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>COMMENT NOUS VIVONS AUJOURD'HUI 89</p>
+        <p>
+          <pb/>
+        </p>
+        <p>90 LA BEAUTÉ MODERNE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>COMMENT NOUS VIVONS AUJOURD'HUI 91</p>
+        <p>et fabriquées de la vie, et presqu'aucune forme naturelle.</p>
+        <p>Le milieu intellectuel.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA BEAUTÉ MODERNE</p>
+        <p>derne, conduit par la Science, ne peut plus avoir foi, quand il regardo autour de lui, lui paraissent toujours - solides l Quel trouble pour lui de voir sa vérité encore aussi peu réalisée, et, au contraire, tous les restes d'une civilisation vieille et barbare demeurer si imposants d'aspect ! Voir partout la représentation des idées mourantes (représentation il est vrai intérieurementdégradéecommo l'idée dont elle est la forme mais l'extérieur est intact), et ne pas voir celle des idées naissantes (pourtant si fortes, elles, si pleines de sève et do vie future), que cela l'inquiète! Il n'a point la force de s'imaginer, ne les ayant pas encore sous les yeux, tous les monuments qui bientôt vont s'élever, bâtis sûr ces idées.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>COMMENT NOUS VIVONS AUJOURD'HUI 93</p>
+        <p>
+          <pb/>
+        </p>
+        <p>94 LA BEAUTÉ MODbhNE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>COMMENT NOUS VIVONS AUJOURD'HUI 95</p>
+        <p>* # #</p>
+        <p>J'espère avoir fait sentir ce qu'il y a de provisoire et d'incomplet dans l'homme moderne. De quelque côté qu'on se place pour le considérer, on le trouve inquiet, on le voit qui attend.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>96 LA BEAUTÉ MODERNE</p>
+        <p>Bientôt, sans doute, toutes ces tendances, ces attractions trouveront un lien qui les réunira. Quelque chose de beau et de complet naîtra de cette agitation et do ce désordre. . Et l'homme nouveau, avec une foi et une morale nouvelle, vivra houreux dans une société nouvelle.</p>
+        <p>L'ancien monde, l'ensemble étrange et surprenant Défaits sociaux, morts et pourris maintenant, D'où, sortit le navire aujourd'hui sous l'écume, L'ancien monde aussi, lui, plongé dans l'amertume Acait tous les fléaux pour cents et pour typhons, Construction d'airain aux étages profonds, Sur qui le mal, flot cil crachait sa bace infâmey</p>
+        <p>
+          <pb/>
+        </p>
+        <p>COMMENT NOUS VIVONS AUJOURD'HUI 97</p>
+        <p>[l'homme!] Les cicants, d'ignorance et de cices charges, Se traînaient ; en tracers de tout, les préjugés ; Les superstitions étaient d'âpres enceintes Terribles d'autant plus qu'elles étaient plus saintes; Quel créneau soupçonneux et noir qu'un Alcoran ; Un texte acait le &lt;jlaice au poing comme un tyran! La loi d'un peuple était chez l'autre peuple un crime; Lire était un fossé, croire était un abime ;</p>
+        <p>. jCe qui nous émeut, ce que nous trouvons beau, c'est le,,mouvement intérieur que nous</p>
+        <p>
+          <pb/>
+        </p>
+        <p>98 LA BEAUTÉ MODERNE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>COMMENT NOUS VIVONS AUJOURD'HUI 99</p>
+        <p>heureux et des paysages sinistres. Pourquoi qualifions-nous ces aspects de la nature, si ce n'est point parce qu'ils nous représentent les intimités mêmesde notre vio?Nous nous voyons en eux. Ils nous parlent comme des visages. Ils nous font souffrir ou sourire comme des amis qui nous entretiendraient d'eux-mêmes, ■c'est-à-dire do nous.</p>
+        <p>Ah 1 mouvement de la vie ! flamme de la vie! âme! nous t'aimons, source de toute beauté ! Et aujourd'hui moderne comme hier antique, c'est toi toujours qui nous inspire !</p>
+        <p>
+          <pb/>
+        </p>
+        <p>100 LA BEAUTÉ MODERNE</p>
+        <p>Eloignes de moi ce calice embaumé J'ai soif d'être altéré !</p>
+        <p>
+          <pb/>
+        </p>
+        <p>COMMENT NOUS VIVONS AUJOURD'HUI 101</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>VII</p>
+        <p>LA VIE ET L'ART ÉTERNELS DANS LA VIE ACTUELLE</p>
+        <p>A F. Fagus</p>
+        <p>
+          <pb/>
+        </p>
+        <p>104 LAJEAUTÉ MODERNE</p>
+        <p>haïs, battus, déchirés, — aimés, secourus, consolés ? Quand n'ont-ils pas YÔCU ?</p>
+        <p>Aujourd'hui?</p>
+        <p>Pour son immoralité ? pour son manque d'idéal, sa bassesse? pour ses idées?...</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA VIE ET L'ART ÉTERNELS 105</p>
+        <p>Est-ce pour la « bassesse, le manque d'idéal » de son temps que l'artiste le mépriserait?</p>
+        <p>
+          <pb/>
+        </p>
+        <p>106 LA BEAUTÉ MODERNE</p>
+        <p>Est-ce donc pour ses idées quo l'artiste haïrait son temps ? Parce qu'un large courant socialiste entraîne les peuples d'aujourd'hui ? Non ; car l'artiste a conscience que ce mouvement est l'un des plus généreux quo le inonde ait connus. — D'ailleurs, les idées, en quoi lui importent-elles ? Est-co qu'il doit</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA VIE ET L'ART ÉTERNELS 107</p>
+        <p>
+          <pb/>
+        </p>
+        <p>108 LA BEAUTÉ MODERNE</p>
+        <p>Les sentiments qui ont toujours existé, les</p>
+        <p>(1) « Plus un monument se rapproche de notre temps, plus ses statues prennent une expression spirîtualiste et pensive. Nous finirons par ne plus sentir le corps et la forme, mais seulement l'âme et l'expression. « (TAINE.)</p>
+        <p>La peinture de Carrière est très significative pour fa façon de sentir de notre époque.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA VIE ET L'ART ÉTERNELS 109</p>
+        <p>Dans ces conférences, j'ai essayé de montrer qu'en ce moment de sa perpétuelle évolution, l'homme était plus intéressant, plus vivant que jamais, que si ce temps avait quelque chose de particulier, un caractère, une personnalité, une âme, celle-ci était infiniment attachante et excitante pour un esprit d'artiste. '</p>
+        <p>Alors, celui qui se plaint, do quoi se plaintJl?</p>
+        <p>plaintJl? la vie d'aujourd'hui?—Non pas,mais</p>
+        <p>DELÀ VIE. Il l'a mal comprise, il n'a pas su</p>
+        <p>
+          <pb/>
+        </p>
+        <p>110 LA BEAUTÉ MODERNE</p>
+        <p>Il n'est pas artiste, celui qui demeure sans amour devant la vie, devant la vie, matière que nous travaillons, et force qui nous inspire, notre objet, notre but, et notre raison d'être! Un artiste qui n'aime pas la vie ! un artiste qui n'aime pas sa douleur et sa joie, son délire et ses larmes, sa puissance et sa faiblesse !</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA VIE ET L'ART ÉTERNELS 111</p>
+        <p>Pour l'artiste d'aujourd'hui, son époque n'est ni plus, ni moins belle que pour l'artiste de n'importe quelle époque la sienne.</p>
+        <p>Selon les siècles, les formes, les lignes, le dessin des habitations et des costumes sont plus ou moins harmonieux. Si l'on ne devait représenter que l'extérieur, l'idée que certaines époques sont plus que d'autres favorablesâl'art,serait juste.Or, le but de l'art n'est point de représenter l'apparence, mais la réalité. La peinture de l'extérieur n'est pour lui qu'un moyen de faire saisir l'intérieur. Pour lui, l'extérieur n'a pas d'existence réelle. De même que la parole n'existe pas en réalité, mais qu'elle est le signe qu'un être, celui qui parle, existe, de môme que la lumière n'existe pas en réalité, mais qu'elle est le signe que quelque choso qui éclaire, le soleil, existe, ainsi l'extérieur, pour le véritable artiste, n'existe pas en réalité, il est seulement le</p>
+        <p>
+          <pb/>
+        </p>
+        <p>112 LA BEAUTÉ MODERNE</p>
+        <p>signe que quelque chose d'intérieur, que la vie existe. Et c'est cette chose intérieure, c'est cette vie que l'artiste veut rendre au moyen de formes et de couleurs qui n'en sont que les signes. Ces formes et ces couleurs lui importent donc peu ; qu'elles changent, qu'elles vàrient,cela n'est rien, puisque l'âme, puisque la vie ne varie pas et qu'elle les anime toujours.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA VIE ET L*ART ÉTERNELS 113</p>
+        <p>gens comme nous en voyons tous les jours,- avec les mêmes petites vertus, les mêmes petits vices, les mêmes petites passions, les mêmes joies et les mêmes douleurs. Rembrandt avait regardé ces gens-là, et il les avait sentis : il avait une âme faite pour sentir profondément et humainement. Aujourd'hui, de même, il eût donc pu vivre et peindre comme il y a deux siècles, et dans deux siècles il pourrait encore vivre et peindre comme aujourd'hui, parce que l'humanité que voyait Rembrandt existe encore et qu'elle existera toujours, parce que la beauté qu'il a vue dans la vie, et qu'il a reproduite dans ses tableaux, existe aujourd'hui comme il y a deux siècles, et qu'elle existera dans deux siècles, et toujours.</p>
+        <p>Cette beauté quelle est-elle ? C'est la beauté simple, profonde et immense de la vie, la beauté que, si nous sommes artistes, nous pouvons découvrir chaque jour dans les scènes quotidiennes, dans les gestes de toutes les personnes qui nous entourent. Prenez</p>
+        <p>8</p>
+        <p>
+          <pb/>
+        </p>
+        <p>114 LA BEAUTÉ MODERNE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA VIE ET L'ART ÉTERNELS 115</p>
+        <p>diquer certains caractères et dissimuler certains autres. C'est le contraire, il faut que rien ne vous échappe : il faut avoir un instant l'oeil de Dieu.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>116 LA BEAUTÉ MODERNE</p>
+        <p>L'art doit donc durer autant que la vie, autant que l'homme. Il ne dépend pas des apparences extérieures, il dérive d'un sentiment profondd'adorationpouri'existenceintérieure des êtres : c'est un élan vers l'intimité des vivants. En quoi les transformations sociales, et les modifications plastiques de l'existence pourraient-elles le diminuer? L'art n'est pas dans la chose considérée par l'artiste, il est dans l'artiste qui la considère : c'est un mou-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA VIE ET L'ART ÉTERNELS 117</p>
+        <p>vement de son âme. Ainsi, il n'est rien qui soit laid. L'objet qui nous paraît le plus vil peut provoquer dans la pensée do l'artiste le sentiment artistique, le sentiment créateur, ce mouvement d'adoration qui est causé par la perception de certains rapports d'une beauté suprême.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>118 LA BEAUTÉ MODERNE</p>
+        <p>naissent, Jet né^ craignons rien pour l'art. On ne le supprimera qu'en supprimant la vie.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA VIE ET L'ART ÉTERNELS 119</p>
+        <p>Je ne crains donc pas le socialisme. Je sais" trop bien qu'il ne pourra point se priver de l'art.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>120 LA BEAUTÉ MODERNE</p>
+        <p>apparaissent, dépouillés de sens, la vio seule étant pour nous,</p>
+        <p>La vie, éternellement, contient la beauté que nous adorons, la beauté qu'inlassablement nous nous efforçons de mettre au jour.</p>
+        <p>FIN</p>
+        <p>
+          <pb/>
+        </p>
+        <p>NOTES</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>La conférence où se trouvent ces phrases</p>
+        <p>—était écrite, prononcée et publiée depuis</p>
+        <p>longtemps quand j'ai lu l'ouvrage récent de</p>
+        <p>
+          <pb/>
+        </p>
+        <p>124 LA BEAUTÉ MODERNE</p>
+        <p>(Tourment de l'Unité, page 15.)</p>
+        <p>
+          <pb/>
+        </p>
+        <p>NOTES 12S</p>
+        <p>Pago41 : « La Révolution... est elle-même une oeuvre d'une complication exlraordinaire qui suppose l'éducation et l'organisation du prolétariat, la conquête collective et graduelle du pouvoir, et l'action de la science accélérant le mouvement humain. La /{évolution est un immense effort patient, collectif, organique, qui n'a aucun rapport avec des gestes désordonnés de destruction. »</p>
+        <p>Il est intéressant de rapprocher de cette page de Jaurès la pensée analogue d'Anatole France exprimée dans son admirable discours du mois de janvier dernier, dans une fôte organisée par l'Université Populaire de Charenton :</p>
+        <p>« Le peuple est le nombre, il est la force ; les lourds obstacles qu'on amasse devant lui, il pourrait d'un souffle les disperser comme des fétus de paille. Il le pourrait, et dans le fait il ne le peut pas. Pourquoi? Ce n'est pas le coeur qui lui manque. Il ne le peut pas parce qu'il ne connaît pas encore nettement</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA BEAUTÉ MODERNE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>NOTES 127</p>
+        <p>tionnelle, et comme il est la force unique, il deviendra l'unique puissance. »</p>
+        <p>À cette idée que le beau ne dépend pas de la forme des choses et que, non pas seulement dans les lignes harmonieuses, il est possible de trouver de la beauté, l'un de mes</p>
+        <p>
+          <pb/>
+        </p>
+        <p>128 LA BEAUTÉ MODERNE</p>
+        <p>Par le hasard des lectures, je tombe sur un passage de Lamennais, bien d'accord avec ma façon de comprendre, et que, pour mon auditeur récalcitrant, voici :</p>
+        <p>
+          <pb/>
+        </p>
+        <p>NOTES 129</p>
+        <p>Jamais, me semble-t-il, tout ce que l'art a d'intérieur n'a été indiqué avec plus de justesse.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>130 LA BEAUTÉ MODERNE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>NOTES 131</p>
+        <p>c'était fini ; la race ne voyait rien en dehors d'elle, l'humanité n'existait pas ; on l'ignorait et eiïo vous ignorait.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>132 LA BEAUTÉ MODERNE • ""</p>
+        <p>inutile. Quelles extases alors ! Quels rêves ! Il n'y aura plus d'art. D'ailleurs il n'y aurait "plus d'hommes non plus : ils seraiqnrdevenus des dieux. / ' ' '' //Y</p>
+        <p>
+          <pb/>
+        </p>
+        <p>INDEX ALPHABÉTIQUE</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>INDEX ALPHABÉTIQUE</p>
+        <p>BERLIOZ, 107. CARPEAUX, 107. CARRIÈRE, 108. •CHARRON, 70. DIDEROT, 28. DUCLAUX, 77. FRANCE, 125. HAECKEL, 23, 31. HUGO, 26, 30. JAURÈS, 40,12$. LAMENNAIS, 127. MAETERLINCK, 6b. MJÎNARD (René), 3b.</p>
+        <p>MIRBEAU, 79. MITIIOUARD (Adrien), 123 MONET, 31. PASCAL, 64.</p>
+        <p>Puvis DE CHAVANNES, 107 PLATON, 16, 22, 30. REMBRANDT, 112. RODW, 30. SHELLEY, 115, 119. SAINT AUGUSTIN, 25. TAINE, 8b, 108. VANDEPUTTE (Henri), 100 VERLAINE,Atfî;, o/ '•"'&gt;*</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>TABLE</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>TABLE</p>
+        <p>Pages</p>
+        <p>Note. 5</p>
+        <p>Dédicace 7</p>
+        <p>I, INTRODUCTION 9</p>
+        <p>II. DEUX CONCEPTIONS DE LA BEAUTÉ 15</p>
+        <p>III. Du STYLE ET DU STYLE MODERNE 33</p>
+        <p>IV. ÉLÉMENTS NOUVEAUX DE BEAUTÉ. BEAUTÉS</p>
+        <p>NOUVELLES 49</p>
+        <p>V. LA MÉTAMORPHOSE DES INSTINCTS 63</p>
+        <p>VI. COMMENT NOUS VIVONS AUJOURD'HUI 81</p>
+        <p>VII. LA VIE ET L'ART ÉTERNELS DANS LA VIE</p>
+        <p>ACTUELLE 103</p>
+        <p>Notes 121</p>
+        <p>Index alphabétique. mr.,.... 133</p>
+        <p>A&lt;v 'A</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>Cet ouvrage a été achevé d'imprimer LE MARDI 11 FÉVRIER U02</p>
+      </div>
     </body>
   </text>
 </TEI>

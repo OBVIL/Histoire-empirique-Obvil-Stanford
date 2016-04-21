@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
- <teiHeader>
-<fileDesc>
-<titleStmt>
-<author key="Clerget, Fernand (1865-1931)">Fernand Clerget</author>
-<title>Louis-Xavier de Ricard / Fernand Clerget</title>
-</titleStmt>
-<editionStmt>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Louis-Xavier de Ricard / Fernand Clerget</title>
+        <author key="Clerget, Fernand (1865-1931)">Fernand Clerget</author>
+      </titleStmt>
+      <editionStmt>
         <edition>OBVIL/BNF</edition>
         <respStmt>
           <resp>reprise des textes</resp>
           <name>Amélie Canu</name>
         </respStmt>
       </editionStmt>
-<publicationStmt>
+      <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
         <availability status="restricted">
@@ -22,658 +22,414 @@
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
-<sourceDesc>
-<bibl>
-<author>Clerget, Fernand (1865-1931)</author>, <title>Louis-Xavier de Ricard / Fernand Clerget</title>, <date>1906</date>,description :Appartient à l’ensemble documentaire : ChArdenn1,44 pages
-</bibl>
-<publisher>"Revue littéraire de Paris et de Champagne" (Reims)</publisher>
-<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k54253144</idno>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1906">1906</date>
-</creation>
-<langUsage>
-<language ident="fr"/>
-</langUsage>
-</profileDesc>
- </teiHeader>
+      <sourceDesc>
+        <bibl> <author>Clerget, Fernand (1865-1931)</author>, <title>Louis-Xavier de Ricard / Fernand Clerget</title>, <date>1906</date>,description :Appartient à l’ensemble documentaire : ChArdenn1,44 pages </bibl>
+        <publisher>“Revue littéraire de Paris et de Champagne” (Reims)</publisher>
+        <idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k54253144</idno>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1906">1906</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-    <div>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>■r&gt;&lt;w*-q^~- *■*■■»</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>Du même Auteur</p>
-<p>KXI'l'LSKK, roman de moeurs politiques, ISS9.</p>
-<p>LES TOUHMEXTES,.poésies, avec un portrait, 1801 3 »</p>
-<p>IIENHY l'IVEUT, romande moeurs littéraires, 1891 3 50</p>
-<p>L'HERITIERE, roman de moeurs bourgeoises, 1S91 3 50</p>
-<p>l'Ail, VEI'.LAIXE ET SES COXTEMl'ORAIXS, 1897 1 »</p>
-<p>I. AMi: CHAMI'EXOISE, 190o 3 »</p>
-<p>Etudes littéraires :</p>
-<p>EXOUÈTE Sl'H LA LITTÉRATURE, lïUi*. 1 »</p>
-<p>LE ROMANTISME, 1903 2 50</p>
-<p>ÉCRIVAINS D'IIIKR ET D'AUJOIJIIIVIIUI, 1903 1 25</p>
-<p>Littérateurs et Artistes :</p>
-<p>ERNEST MAYXAUI), avec un portrait par S.:IIUTZ-ROUERT, 1905. 1 50</p>
-<p>PAUL GOURMAND, avec un portrait, 190 j 2 50</p>
-<p>EMILE 151.ÉMONT, avec plusieurs portraits, 1900 3 50</p>
-<p>l'rochainemcnt : JULES 13ARREY D'AUREVILLY. LÉON R10T0R.</p>
-<p>(A la Dibliothïquc tic l'Association, 91, rue Lecourbe, Paris, 15'.J</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>ïSX!'/- "S ' il™Ci ÏT.V-S *TT"" .'_T. ■„. '.</p>
-<p><pb/></p>
-<p>I.OU1S-XAY1KH DE H1CAHD</p>
-<p>PAR</p>
-<p>SCHÙTZ-ROBERT</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>LOUIS-XAVIER DE RICARD</p>
-<p><pb/></p>
-<p>— 6 —</p>
-<p>Première soirée en prison</p>
-<p>Je suis seul.— La prison m'entoure, triste cl nue : IAS verrous de la
-poi tu oui grincé. — Je suis seul, Le silence et la nuit ont cousu mon
-linceul, Lt, lentement, je l'ois une moit inconnue.</p>
-<p><pb/></p>
-<p>0 vents, dont jVnlends l'aile effleurer mes fenèlres, Vents des nuits,
-reportez vers elle en soupirant i.e baiser de son coeur qui m'appelle en
-pleurant.</p>
-<p>Ciel, Une ri l-oijcr, « un beau livre sévère, noble et charmant, » (Paul
-Verlaine), fut publié au commencement de ISGG. Il s'annonce par celle
-toute simple cl si droite</p>
-<p>Pré/Vice</p>
-<p>Salut, ami lecteur: — accueille avec limité Ces poèmes nouveau*, écrits
-pendant l'aurore fie celle ère iiai&gt;s.inle, où l'on entend éelore Itons
-les sillons profonds la jeune humanité.</p>
-<p>(J'.il rêveur, je vojais avec .anxiété Croître dans tous les coins li
-lumière sonore, Kl j'entonnais de\ mt le- cieux qu'elle Colore L'n
-li}H.ne de tiiomplie et de séictiilé.</p>
-<p>J'ai celle amliilion que mon litre îévèle,</p>
-<p><pb/></p>
-<p>— 8 —</p>
-<p>gion, de s'enfoncer, sans daigner discuter, dans le domaine nouveau de
-l'émancipation absolue:</p>
-<p>II appelle la révolution, salue le progrès contemporain, et ramène toute
-espérance en la femme, l'amour.</p>
-<p>Le livre premier : l'Ail el l'Histoire, est dédié, par ce sonnet d'un
-hiératisme libertaire,</p>
-<p>A Edgar Qjilnct</p>
-<p>La baguelte du temps frappe le jour nouveau</p>
-<p>Au fond de l'avenir où tout enfant il joue ;</p>
-<p>Souriant au destin, il se lève et secoue</p>
-<p>La brume cl le brouillard qui chargent son manteau.</p>
-<p>L'aurore, en rougissant, l'embrasse, puis dénoue L'or roux de ses rayons
-sur son front jeune et beau. Il part ; et l'univers sort, comme d'un
-tombeau, De la profonde nuit qui s'azure et se troue.</p>
-<p>Ainsi, ta main hardie et sereine a placé</p>
-<p>Les clartés du savoir et de la poésie</p>
-<p>Dans noire âpre chemin, que l'ombre avait glacé.</p>
-<p>Tu fis vibrer les coeurs du verbe de la vie Dont le charme éternel
-réveille les esprits. L'âme de l'avenir habite en tes écrits.</p>
-<p>Se voulant immuable dans son activité, il cfTetniit encore son geste
-déterminé, sa pensée virile d'où il chasse la rêverie, et les vers même
-se font rigides, toute la vigueur du poète se rallie autour de sa
-conception :</p>
-<p>Tandis que le troupeau des âmes insensées</p>
-<p>Sous le fouet de3 désirs, qui gouvernent la foule, Comme un fier étalon
-cabre ta volonté, Et, bravant 1". torrent du destin qui s'écoule,
-Assieds-toi fortement dans ta sérénité.</p>
-<p>De ce point fixé, en une page résolue qu'il faudrait citer entière,
-l'auslère poète se retourne vers l'autre des pôles de la pensée : le
-passé, qu'il faut respecter. Une Ame profondément naturelle, humaine,
-peut-elle ne pas entendre frémir les cantiques lointains d'une ère qui
-n'est plus ? Il les évoque même, ces Ages primitifs du jeune soleil, des
-aurores aux rayons plus certains, 011</p>
-<p>La conquête des dieux envahissait les âmes.</p>
-<p>Les peuples écoulaient les poètes, la vie adolescente pélillait d'ardeur
-et de croyance... el, lesujctanliqucyaidanl, lcvcrsfralerniscavcc celui
-deLcconte</p>
-<p><pb/></p>
-<p>\</p>
-<p>— g —</p>
-<p>de Liste. Mais vile lapersonnalilé ressaisit son poète, qui pose celle
-couronne surle berceau des hommes :</p>
-<p>Blond pays du soleil et des vastes aurore), Orient, ton ciel large a
-couvé les esprits ; Et ton sein, palpitant sous des frissons sonores, Du
-lait de l'idéal ton seir les a nourris.</p>
-<p>Les divines moissons ont fleuri sur ta terre.</p>
-<p>Orient ! Orient ! toute «me calme et fière Comme un trésor sacré garde
-ton souvenir, Car ta tradition est la vire lumière Qui, du lointain des
-temps, jaillit sur l'avenir.</p>
-<p>Puis il rcmarche vers l'autre pôle, si ardemment espéré :</p>
-<p>Dédaigne le présent qui murmure en fuyant.</p>
-<p>O poète, ton sein qui le contient, frissonne Sous la gestation du nouvel
-idéal.</p>
-<p><pb/></p>
-<p>— 10 —</p>
-<p>reine des hommes. Puis le poète, éveillé de celle vision séculaire, la
-fixe pour son temps fugitif en la ciselure de ce sonnet</p>
-<p>A Vénus de Milo</p>
-<p>O Vénus de Milo, grand poème sculpté, Les charmes infinis rêvent sous la
-paupière, lit les baisers muets de tes lèvres de pierre •</p>
-<p>Font descendre en nos coeurs la sainte volupté.</p>
-<p>Le temps a resperté la grâce tout entière, Et de nos passions la vaine
-activité N'a jamais dérangé les plis de ta beauté.</p>
-<p>Ali ! l?ndci-moi la main ; je ne sais où je suis.</p>
-<p>Mon pieil tremble, et j'entends le noir manteau des nuits</p>
-<p>Toinlier, et rudement froisser ton sein, o terre I</p>
-<p>I&gt;rs chants oui déroulé leurs larges harmonies Au milieu des splendeurs
-iharmanles du maiin; Kl l'on entend païkr je ne sais quels génies Dans
-les ondulcincnts de leur Ilot cristallin.</p>
-<p>0 vous Ions, surgisse/, des abri- qui vous cachent ! O frères, accoure?.
-! les mains du jour atta:hent Le glaive au liane guenierct la pensée au
-front.</p>
-<p><pb/></p>
-<p>— II —</p>
-<p>Les ennemis râlent, vaincus; le poêle s'avance dans la forêl qu'un
-soleil triomphant baigne déjeune lumière :</p>
-<p>0 forêt, réponds-moi ; le long des aubépines Et sous Vépai3 buisson du
-chemin, les oiseaux Font vibrer !es fraîcheurs de leurs voix cristallines,</p>
-<p>Et l'abeille bourdonne au milieu des sureaux ;</p>
-<p>•</p>
-<p>Les liserets des bois avec les pâquerettes Causent dans l'herbe haute ;
-et les papillons bleus Au sein vert des gazons cherchent les violettes
-Qui laissent délacer leurs corsets amoureux.</p>
-<p>L'amour règne et sourit. La nature est»n fête.</p>
-<p>O forêt, quel sentier me conduira là-bas?</p>
-<p>Dans tes détours ombreux que je ne connais pas.</p>
-<p>Là-bas, la liberté cou.:. • le despotisme, et le dompte : -- tel était
-le but de ce poème viril, républicain, ne réclamant de l'art que sa
-iorme supérieure, mise au service d'une idée qui emporte tout.</p>
-<p>Effeuillés et flétris par la honte éternelle. Vos coeurs ne peuvent plus
-renaître et refleurir ; Kt, si quelque désir y vient battre de l'aile,
-Votre air est trop impur pour le pouvoir nourrir.</p>
-<p>El, comme ces buissons qu'a brûlés la gelée, Vous ne porterez plus de
-nids dans vos rameaux, Et vous n'entendrez plus l'aube vive et mouillée
-Chantant et grelottant, rire avec les oiseaux.</p>
-<p>Quand l'été fleurira, sous vos aiides branches,</p>
-<p>Ne vieilliront plus vous voir, sous leurs tuniques blanches.</p>
-<p>Sourire et s'enl.icer le chrpur des voluptés.</p>
-<p>Du soleil matinal les yeux vermeils et roses Ne perceront jamais l'ombre
-de vos ennuis ;| IV leurs manteaux tordus'les impassibles nuits Versent
-sur vous sans fin leurs t'mèhres moroses.</p>
-<p>Vos pieds font dans la fange ; et vos fronts dépouillés Rêvent
-simplement dans l'invincible brume ; El les dégoûts, vieillards rêreurs
-et désolés, Eteignent tous les feux que l'espérance allume.</p>
-<p>Le poète accuse la société meurtrière ; quant au Dieu des chrétiens :</p>
-<p>Vous donc qui l'adorez, pleurez ! Mais nous r,ui sommes La révolte
-éternelle et l'éternel désir, Sans pitié pour les dieux nou» pleurons
-sur les hommes ; Entre nous et les dieui il a fallu choisir !</p>
-<p><pb/></p>
-<p>— 12 —</p>
-<p>Ton dogme n'a rien fait pour le salut du monde.</p>
-<p>choisi :</p>
-<p>Ah ! quand nous r«viendront les beaux temps de l'IIellade ?</p>
-<p>Qui me transportera sous le ciel de l'Attiquc Où les rives de marbre
-étaient des vérités ? Oj, dans l'horizon bleu d&lt; la légende antique, Les
-labeurs des héros fondaient les libertés I</p>
-<p>O Jésus ! dans ton livre une page sereine Te fera pardonner bien dc3
-torts expiés : lin repoussant le Dieu, nous gardons Madeleine Pont les
-cheveux sacrés ont parfumé tes pieds.</p>
-<p><pb/></p>
-<p>— »3 -</p>
-<p>xixe siècle,</p>
-<p>A Victor Hnçio</p>
-<p>0 poète, salut! le .-iécle est plein de lui :</p>
-<p>Ton génie a Vaincu l'indillérence humaine.</p>
-<p>Lo front liant, le pied fur, et le enur sans cilici,</p>
-<p>Il entre dan* la gloire ainsi qu'en son domaine.</p>
-<p>Ta poè?ie. ouvrant ses deux ailes d'aiiain, A pris pour piédestal lis
-foudres des orales. Kl lixe son retint lumineux et serein Sur la liotiie
-lointaine et confuse des àj;es.</p>
-<p>Klle voit tous leurs Ilots s'enllcr &lt;t moutonner ; Kl. cabiant son f, ml
-vert &lt;pii tourbillonne cl fume, Chacun, pour l'applaudir et jioni le
-couronner, Seinhle tendre vers toi ses guirlandes d'écume.</p>
-<p>Aucun regard encor n'eflleura son sein nu ; Jamais les passions n'ont
-dérange ses voiles : D'un amour patient elle aime l'inconnu : l.es
-langueurs de ses yeux ne rêvenl qu'aux étoiles.</p>
-<p>Comme d'une tunique, il est vêtu de gloire ; Tout caparaçonné d'une
-étrange clarté, Son dictai, fréiniss.int, fait trembler l'ombre noire
-(Juand il hennit d'amour après la liberté!</p>
-<p>Il esl le su-ami vainqueur, et son nom e&gt;-t : l'I.'sprit !</p>
-<p><pb/></p>
-<p>— &gt;4 —</p>
-<p>Et le poêle, maudissant les siennes des prêtres et des rois, appelle la
-libellé : qu'elle écrase Ions ces nains, et brille sur l'humanité debout.</p>
-<p>Entrons en ces pages de repos, de douceur : A mademoiselle Lydie Wilson,
-écrites en oelub: e I.S.13, et parues en avril suivant dans lu liante du
-Proyrès. qui avait public beaucoup des pièces du livre. Le voile se lève
-sur rbuuiauilé de ce coeur, pressentie dans ses vers de combat :</p>
-<p>Je suis lYlre a^ilc. Oui a.- puis plus trouver paix ni tianquillité.</p>
-<p>L'orage n'est plus seulement sur sa lêle, mais en lui-même :</p>
-<p>l.'arpiiioii iiat mon àuif, et, sombre et courroucée, l.a \apioilti
-combat liuiie ilms ma pcti-ce ! Kl, penclif sous mes dieux, Juif enant
-du progrès, Toujours jf veux aller sans m'arréter jamais.</p>
-<p>Ali! que l'aimée, loin de l'accuser, le suive plutôt, qu'elle vienne
-avec lui au sommet du Siunï nouveau ; alors :</p>
-<p>Uans 1 iulini. nos pieds fouleront les étoiles Connut! on foule le sable
-au vaste Sahara ; Nous inliiroderons la naluie sans voiles ; La nature
-nous répondra.</p>
-<p>Et ce qu'elle dira, c'est que l'amour — l'amour auquel souvent revient
-le poêle : nature et pa&amp;an&lt;nic alliés dans ce tempérament extrême — est
-le lliiidc sublime qui vcr.-e en loul, la vie.</p>
-<p><pb/></p>
-<p>— i5 —</p>
-<p>Non ! nous n'écrivons pas pour Ions ces ^oùls malades Qui n'aitncnl que
-les vtrs arrangés &lt; n charades, El que les pensers forts exprimés
-fortement Etonnent .'l'un profond il moi ne aceahlemei.t.</p>
-<p>Ali ! tenons en liorieur toutes choies fardées : Soyons francs dans nos
-mots comme dans nos idées.</p>
-<p>11 lent oppose le I'oète, seul digne du nom :</p>
-<p>I.i' viai poite est lier: et, (ils de la tempête, Il va toujours devant,
-lient toujours haut sa tète. Et, mécontent toujours du présent malvenu,
-Un soi.'iiiiet idéal il plonge en l'inconnu.</p>
-<p>Kllc est passée, l'aurore, et le soleil se lève ! Mais le Dieu nouveau,
-ne le cherc'icz plus en orient : il n'y a que son origine, comme nous
-tous ; pour la première fois, c'est en occident qu'il apparaît : et
-pourrait-il en être autrement, puisqu'il est lait de la sève séculaire
-de l'Furopc, du rêve séculaire de la France, de la llammc inextinguible
-de la Révolution, de la raison et de la science, autant «pic de la
-tradition poétique et héroïque? Quoi 1 un Dieu qui accepte la Révolution
-française 1 Mais oui : Danton l'a invoqué le matin de sa mort,
-Robespierre le nommait l'Klrc suprême, d'autres le désignent le Grand
-Architecte, et vous-même, — vous-même lui dites le Grand-Tout. Moi je
-garde le mol Dieu, plus court, plus simple ; cl puis, j'y suis habitué.
-Ne chicanons pas sur un mot. Mais justement, direz-voiis, l'habitude
-d'un mot est gênante pour l'esprit. Allons donc! La France, depuis dix
-siècles, a-l-cllc changé de nom'? Flic s'est cependant transformée par
-la Révolution. Dieu, sans changer de nom, peut se transformer aussi : il
-sttflil de dire comment vous le voulez. — Kn attendant, Hicanl fuit les
-pâles limeurs attardés dans le siècle :</p>
-<p>Mais suivons, chers ami", jtihon* le vrai poète Pans l'idéal sacré qu'il
-(.r.nil jusqu'au faite ; Chantons deiiiére lui nos joyeux clnnts d'amour
-; Aimons-le, celui-là, car il nous nu ne au jour.</p>
-<p><pb/></p>
-<p>— 16 —</p>
-<p>Son Iront auréolé resplendit d'étincelles ; Des éclairs fulgurants
-jaillissent de ses ailes ; L't, quand son vol de feu rase l'éternité, Le
-gouffre d'inlini se remplit de clarté.</p>
-<p>A ce coeur vaslc, il faut la plus large</p>
-<p>Poésie</p>
-<p>.("admire, dédaigneux des vagues mélopées Qu'entonnent nos rimeiirs
-sini-tres ou plaintifs, L'épanouissement des vastes épopées Habilitant
-leurs parfums dans les vents primitifs.</p>
-<p>Les jeunes univers dilatés et sonores S'abreuvaient de la vie. rparsc
-dans les airs, Kl l.i virginité des naïves aurores It'une lumière
-fraîche ai rosait les deux clairs.</p>
-<p>Kl, sur le long chemin de 11 cité nouvelle, Pour marquer où passa mon
-pas de voyageur, Je dresse quelque strophe, austère et solennelle, Comme
-un Sphinx de granit immuable et rêveur.</p>
-<p>La Pensée</p>
-<p>Ah 1 plaignons les esprits, sans lumière et sans ailes, Qui se vautrent
-toujours dans h réalité. L'azur de l'infini fatigue leurs prunelle. :
-Kpliéinèrcs, craignant les clarlés éternelles, Ces amis du mensonge ont
-fui la vérité.</p>
-<p>Leur étroit horizon n'est rempli que de fange : Des meules de fumier
-bornent partout leur jeux : l'arqués par le hasard, ils grouillent en
-mélang? ; Des sainles pissions la sublime phalange Ne peuple point leurs
-ccrurs de rayons radieux.</p>
-<p>Vous, esprits purs, planez ! SiniMre et désolée</p>
-<p>L'humanité grelotte eu ses manteaux usés:</p>
-<p>Lea dieux sont morts. La nuit dresse leur mau-olée ;</p>
-<p>Ksprils purs, invoquez l'idée immaculée :</p>
-<p>Klle rajeunira tes hommes épuisés.</p>
-<p><pb/></p>
-<p>— 17 —</p>
-<p>Et vous mourrei alors, vous, insectes voraces,</p>
-<p>Qui, sous terre, rongez les germes Je nos blés :</p>
-<p>Un pain plu3 nourrissant, comme en grappes plus grasses</p>
-<p>Le vin des forts cuira dans les barils combles.</p>
-<p>0 Pensée ! ils boiront ta parole certaine ;</p>
-<p>Ils ouvriront leur âme aux semences du beau :</p>
-<p>Fécondes aux clartés, dont notre aurore est pleine,</p>
-<p>Epis des vérités, germez dans l'ànie humaine :</p>
-<p>Les mensonges sont morts : croissez sur leur tombeau !</p>
-<p>Tes rayons, o Pensée ! et ton verbe sublime</p>
-<p>Empliront tous les cteurs, de qui la pureté</p>
-<p>Et l'amour, arrachant la femme de l'abîme,</p>
-<p>La rendra digne aussi de ton éternité.</p>
-<p>Car la femme est sacrée : elle est sainte ; et vers elle La pensée, en
-riant, incline son front pur : O femme ! clias'.e soeur de la gloire
-immortelle ! Enlace-moi d'amour ; ah ! prends-moi sur ton aile : Et,
-tous deux réunis, gravissons vers l'azur.</p>
-<p>Femme 1 mallieur â ceux dont la lièvre insensée A voulu polluer ta robe
-de beauté. Malheur au libertin dont la main l'a froissie ;' Car, le
-jugeant impur, la pudique pensée A jamais l'exclura de sa sérénité.</p>
-<p>Seul, l'homme calme est fort : — la haine et la colère Font trébucher le
-pied qui gravit l'infini : Voyageur, prends en main un bâton tutélaire :
-Tranquille, et sans ployer sous le jour qui l'éclairé, Va dénicher
-l'oiseau d'idéal dans son nid.</p>
-<p>Et lu me montreras la cime d'allégresse</p>
-<p>Que l'infini revêt de lumière et d'azur.</p>
-<p>Monte, me diras-tu. — Je monterai sans cesse ; '</p>
-<p>Et ton bras soutiendra mon bras, si je in'aflaKsc,</p>
-<p>Et, sous tes saints regards, mon cuur restera pur.</p>
-<p>Celle pnjie superbe clait d'un jçmie,jl'nillcurs : elle est dnlée «le
-février 1801. L'acde n'avait pas vingUv^Wfc/ijTTx</p>
-<p><pb/></p>
-<p>— 18 —</p>
-<p>Le troisième livre : l'Amour, esl offert</p>
-<p>A Théophile Gautier</p>
-<p>Pour marier le. modems i l'antique, Sur l'idéal j'ai calqud mes dessins,
-Kl, quelque temps, poursuivi dans lAtlique Aphrodite-, dont je moulai
-les seins.</p>
-<p>Kn remplissant mon musée artistique, J'ai, bien ou mil, accompli mes
-desseins ; Kl maintenant, au devant du poitique, Je veux placer les
-bustes de mes saints.</p>
-<p>J'y mets 'l'abord celui de ma maîtresse ; Il est d'albâtre ; et l'amour
-noue et tresse, lians ses cheveux, des feuilles et des fleurs.</p>
-<p>l'.t quand au votre, ô peintre, je le pose Sur ce fronton, que l'air
-bleuâtre et rose Kn i t chatoyer sons le jeu des couleurs.</p>
-<p>Suit lin Portrait, pastel frais et gracieux, qu'on ne peut fragmenter;
-je passe, avec le regret île ne pouvoir le citer entier. L'Açôka, au
-bord (lu lïan^e, fleurit quand une femme l'cfflcurc : ainsi s'épanouit
-le coeur du poète, sens un sourire féminin. Dans le clair de lune, au
-bois, le chaut d'amour s'amplifie : Allons retremper notre vie dans le
-calme de la nuit !</p>
-<p>Mais lui, prés de son ovur, sentant trembler sa belle, Se pencha vers
-son front et lui parla tout bas. » Oh ! ce n'est pas de peur que je
-tremble ! i dit-elle, Kt son lias plus pressant s'appuya sur mon bras.</p>
-<p>Oh ! dis que lu viendras un jour, loi dont je reVe, Plus clémente aux
-accents suppliants de ma vois, Quand la lune amoureuse i l'horizon se
-lève, Kcouter avec moi les silences des bois.</p>
-<p>Le Réveil se fleurit d'amour sourianl ; mais le voila, déjà, suivi de ce</p>
-<p>Reproche</p>
-<p>Mon coeur est un oiseau des bois ;</p>
-<p>Il a fait son nid dans ton âme,</p>
-<p>Kt, s'il y chante quelquefois,</p>
-<p>C'est toi qu'il chante et pour toi, ftmme.</p>
-<p><pb/></p>
-<p>— ig —</p>
-<p>Tu ne l'as jamais écoula,</p>
-<p>Et ton amour, raie on caresse,</p>
-<p>Ksi tans rire pour sa f aieté, Kst sans larme pour sa trUlesse</p>
-<p>Quand il jjémil de lents soupirs Ton oreille en est ennuyée; Par les
-baisers de les plai-iis Tu crois sa douleur trop payée.</p>
-<p>Tu l'aimes ; il le sait, mon coeur. Hélas ! pourquoi, toujours sévère,
-l'unir d'une telle froideur Sa jalousie et sa colère.</p>
-<p>Crois-tu donc n'avoir point di 'Dit, Kl qu'une suprême justice
-Trouverait toujours en accord Toutes les lois do Ion caprice '.'</p>
-<p>Lisez donc ces quatre vers tirés d'un intermède daté 25 niai 1805 :</p>
-<p>Le canon grondant vomit des boulets ; des murs d'hommes croulent, Les
-chevaux pesants, dont les pieds tonnants foui le bruit des eaux (lue
-l'orage la! d'une aile d'éclair, s'él incent et rutilent, Kt dans
-l'horizon avec de grands cris planent des corbeaux .</p>
-<p>Ii n'y a rien de nouveau sous le soleil, pas même les vers de quinze pieds.</p>
-<p>Hien plus légers que des vers penlédécasyllabiqucs, voltigent ries
-papillons, désirs autour de la beauté de l'aimée, et plus frais encore
-d'éveil, de jeunesse, de rosée, est</p>
-<p>Un 'I\ayon dans une rose</p>
-<p>Kt les doigts de l'aube rosée Ouvrent son calice vermeil, Où se baigne
-dans la rosée Un jeune rayon de soleil,</p>
-<p><pb/></p>
-<p>~ 20 —</p>
-<p>Cet infini rose et limpide Que les lèvres des voluptés Déroulent sur la
-joue humide.</p>
-<p>Un aven échappe an poète : l'ennui, la soufirance sont en lui ;
-n'importe, il subira la vie, calme et lier, avec sérénité.</p>
-<p>Je contemplais ces moits, moi, seule âme vivante!</p>
-<p>Ht s'enivre de celle vie.</p>
-<p>Vt*»^-^)S"-r^*T^*p^ crWs"T7";</p>
-<p><pb/></p>
-<p>— 21 —</p>
-<p>A son tour parle la nature, cl son heure de triomphe étant revenu, elle
-s'en exalte : Oui, c'est moi qui remporte !</p>
-<p>La pauvre s'abuse ; elle a cru que la liberté était pour elle, cl le peu
-qu'elle en absorbe grise celle vieillardc. Or, l'instinct éternel du
-poêle veille, il morigène celte nature qui trébuchait, cl qui, de
-meilleur sens, dit : Où donc est l'esprit de l'ancienne lettre?</p>
-<p>11 est allé mêler sa poussière féconde Au chaos fermentant des révolutions.</p>
-<p><pb/></p>
-<p>— 22 —</p>
-<p>tension énergique d'une révolte qui ne ve.il rien savoir, rien discuter.
-— Cependant In nature devient tout a Tait sage :</p>
-<p>li'àme des anciens (lions ne meuil pas tout entière ; Kl, chacun
-contenant un peu dû vérité, Itcparait Iransfoimé dans la jeune lumière
-Qui l'épure et l'ab-orbe on M sérénité.</p>
-<p>La voilà, l'iùslnirc, la vérité ; el bien que le poète, dans le
-crépuscule, voie s'évanouir les dieux, il sait donner a l'homme ces
-lions conseils :</p>
-<p>Il veut de voire lèvre apprendre son pi*&gt;é ; Pour lui, vous admirer,
-c'est s'admirer lui-même : Il vous porte avec lui, sans haine el sans
-blasphème, Ain-i qu'un vieux trésor lentement amassé.</p>
-<p>Le Crépuscule des dieux a rassemblé, en sa synthèse, la philosophie de
-Ricard, qui, pour auxiliaire, annonce le règne d; la femme :</p>
-<p><pb/></p>
-<p>— -'3 —</p>
-<p>De forl belles pages sont inspirées par</p>
-<p>Les Formes</p>
-<p>O'ii, les ails sont vaincus ; les l-'oimes immoitelles</p>
-<p>Voient les déseils lointains s'élargir devant elles j</p>
-<p>Mais, calmes, dédaignant le mépris des humains.</p>
-<p>Le granit de Itnrs pieds fait sonner leurs chemins.</p>
-<p>Leurs reins n'ont pas fléchi : leurs regards, sans paupière,</p>
-<p>lloivent, sans se lasser, l'éternelle lumière,</p>
-<p>Kt rien ne peut troubler l'immuable licite</p>
-<p>De leurs membres, puissants comme un inaiLre sculpté.</p>
-<p>Leur grâce ondule cl chante en admiiables poses ;</p>
-<p>Le ^Icil amoureux dore de baisers roses</p>
-<p>Les rondeurs de leurs seins el de leurs Unies cambrés.</p>
-<p>Elles vonl ; elle» vont. — Leurs longs cheveux aminés,</p>
-<p>En (lots marmoréens s'écroiilanl sur leurs hanches.</p>
-<p>Dans un rajon vermeil drapant leur nudité,</p>
-<p>Klles maicheril sans peur, debout dans leur beauté</p>
-<p>Le dé.-eit retentit sous huis pieds qi.i 1» froissent ;</p>
-<p>Vers le pâle occident les cités, qui décroissent</p>
-<p>Et plongent dans les flots des brouillards amassés,</p>
-<p>S'accroupissent au loin comme des buufs lassés.</p>
-<p>Et le jaune horizon, tout nuage de brume,</p>
-<p>Comme un feu qui s'éteint, rougit, palpite et fume.</p>
-<p>Devant le désir du poêle se lève une [orme magnifique, fille de l'orient
-el de la blonde Hellade, aux poses superbement tranquilles ; il la
-célèbre et la prie avec ardeur, el elle lui répond :</p>
-<p>Ah ! nous ne conduisons aux lumières futures Que ceux dont la puissance
-et dont la volonté Suivent patit minent, sans pleurs et sans murmures,
-Le chemin du désert et de l'éternité.</p>
-<p>Confiant dans Ion sort et dans ta conscience, Suis mes jeux, dédaigneux
-d'un soleil allaibli ; Pour -alon de voyage ayant pris la science, Entre
-le siècle et toi laisse monter l'oubli !</p>
-<p><pb/></p>
-<p>— 24 —</p>
-<p>Le livre s'achève par ce rappel de l'amour qui en relie les plus
-diverses phases :</p>
-<p>Souhait</p>
-<p>Autour de la beauté, «ju'il caresse de l'aile, L'essaim blond de mes
-vois bourdonne tes adieux, Kl ravive un moment son éclat jet'is-.- e'-
-hèle A la splendeur profonde el calme cl* \c jeu».</p>
-<p>Ces vers sont tes enfants ; ton sein cliaud et lidèle Leur ouvrit
-constamment fon asile joyeux ; Kl, par de longs lits d'or, la magique
-prunelle Dirigera leur vol dans l'infini des deux.</p>
-<p>Après avoir, quatre ans, soigné notre couvée,</p>
-<p>Nous lui livrons enfin la Liberté rêvée ;</p>
-<p>Ah ! dans dix ans eticor, puisse un essaim plus beau,</p>
-<p>Moissonnant te jardin de tes grâces écluses, Kn verser, en chantant, les
-myrtes et les roses Sur notie vieil amour, toujours jeune et nouveau !</p>
-<p>Après ma leclitrc, j'ai ressenti l'impiession singulière qu'on ne peut
-faire des citations d'un tel ouvrage; heureusement, j'avais noté mon
-choix. Son auteur était si plein de l'idée démocratique extrême, que de
-la première a la dernière ligne tout s'enchaîne, tout se commande, relié
-par celle idée centrale. Ce n'est pas un recueil tic pièces écrites
-selon des circoiislances, c'est une profession de foi. I.c C'iWqui n'a
-plus de dieux, la Hue qui livre l'état moral des cités, le Foyer qui
-préparc le règne de la femme : ces trois larges conceptions ont formé la
-mission publique de Ricard entre 1862 et 18G5. Même l'époque et ses
-influences, même l'amour si vivement célébré, :ie sont que de grands
-intermèdes en ce poème du progrès, rapide cl vigoureux, lyrique cl
-précis, s'avançanl perpétuellement vers l'avenir.</p>
-<p><pb/></p>
-<p>— 2?</p>
-<p>Ce livre d'énergie, de virilité, est unique. On a dit cela aussi des
-Fleurs du Mal, pour des motifs d'art seul ; mais l'inllueucc île
-Baudelaire n'a pas dépassé le pâmasse, la décadence, le symbolisme et
-leurs dérivés poétiques. Ciel, Une cl Foyer aura surli.al de l'influence
-sur le XXe siècle : c'est par la philosophie démocratique «le ce livre
-que Louis-Xavier «le Ricard va fortifier la littérature nouvelle et la
-nouvelle action sociale.</p>
-<p>Ricard cl Mcndès s'occupèrent de la rédaction, sous le tctrarchal
-Lecontc de Lisle, Banville, Baudelaire, cl (iautier que Ricard
-connaissait de longue date. Ils avaient avec eux Louis Ménard, Sully
-Prudhomme, Léon Dierx, Léon Yalnde. Albert Mérat, Villiers de
-l'Isle-Adam, etc.. Hcrcdia. Coppéc, Verlaine, Mallarmé, Lcpclletier, y
-liront leurs vrais débuts. J'ai montré, dans mon livre sur le
-Ronninlisir.e, comment le l'amasse tut un redressement du romantisme
-proprement dit qui avait vieilli, et de l'idéalisme moderne devenu
-morne, insipide. Cependant le public ne venait guère a ces poètes, et la
-critique restait froide ou hostile.</p>
-<p>Les parnassiens se réunissaient chez Lcmerre, chez Lecontc de Lisle,
-chez Mcndès, cl, le samedi, chez les parents de Louis-Xavier de Ricard,
-qui, « la vivacité mais l'afl'abilité même, allait d'un groupe à
-l'autre, discutant lour n tour chaudement, esthétique et révolution,
-sonnet cstrambole et fédéra-</p>
-<p><pb/></p>
-<p>— 2b —</p>
-<p>Usine, le (ont avec une conviction ardente qu'on ne pouvait qu'aimer a
-la folie, même si on ne la pai tageait pas. » (Paul Verlaine, Les Hommes
-d'aujourd'hui. &amp;e volume, n° 38ô).</p>
-<p>Kn 1807, les parnassiens furent délendus par les six numéros de la
-Gazelle rimée, publiée par Hobcrl Luzarchc, contre les Médaillonnels de
-Harbey d'Aurevilly et le Parnassiculet d'Alphonse Daudet et Paul Arène.</p>
-<p>On voit qu'après l.econte de l.islc et Théodore de Banville, fondateurs
-poétiques du Parnasse, Louis-Xavier «le llicard en est le principal
-fondateur et comme poète et surtout comme homme d'action.</p>
-<p>J'en dégage d'abord le Fédéralisme, publié en 1877 chez Fischbacher, «
-en reincmbranço de nioun paire, nascul a seto en Lengodoc. &gt; Une préface
-déclare que l'auteur se propose de donner la position historique, la
-définition historique de l'idée fédérative. « 11 y a certes plus dune
-manière, dit-il, de défendre le fédéralisme contre les indiflérents qui
-ne le connaissent point,</p>
-<p><pb/></p>
-<p>— n -</p>
-<p>contre les égarés qui le méconnaissent malgré eux, contre les ahuris qui
-s'en cillaient, et contre les ambitieux et les intrigants qui ne le
-goûtent pas pour «les causes bien connues d'eux. » Sa manière se
-distingue en ce qu'elle offre îles éléments fondamentaux, recherchés
-dans la suite des siècles autant que dans l'observation des contemporains.</p>
-<p>La forme de l'ouvrage est une discussion entre amis, quatorze
-fédéralistes d'éducations diverses; c'est une sorte de concile en pleine
-campagne, ou, dit-il encore, « le draine intellectuel dont le dénouement
-est la détermination d'une doctrine. 9 Y.n sorte qu'au lieu d'un cours
-froid, didactique, on a un livre d'une lecture vivante et colorée. C'est
-vraiment un volume qu'on désirerait voir dans toutes les mains, parce
-qu'il peut être entendu par tous les esprits. I.e héros du « drame »■
-est, ma foi, fort existant : c'est le fédéralisme luttant nu cours des
-siècles, toujours écrasé et toujours renaissant.</p>
-<p>La pensée révolutionnaire, entravée 'par les diverses réactions, est
-sortie plus puissante des obstacles dressés sur si route; elle se
-connaît mieux, et sait cnlln ce qui doit être édilié. Quant aux
-réactions, la bourgeoisie, celte tourbe d'agioteurs, qui leur a donné
-refuge, les entraînera flans sa ruine ; n'est-ce pas elle qui, en
-conservant l'idée unitaire et centraliste, a fait persister le principe
-d'autorité dans la Révolution'.' Maiscelk-ci, qui est science et
-conscience, et la multitude, qui est poète et artiste plutôt que
-savante, doivent se retrouver dans l'esprit nouveau, reconstitutif de la
-liberté, sans, toulelois, perdre le respect des grands hommes, ces
-précurseurs ou ces organisateurs.</p>
-<p><pb/></p>
-<p>— 28 —</p>
-<p>le mol île Dieu perd tout son (Jauger, aucun aulre ne pourrait le
-remplacer. »</p>
-<p>Ce &lt;pfil combat avec une énergie indomptable, c'est la lausse religion,
-j'entends, et lui aussi, les théocraties qui furent toujours les
-ennemies des peuples ; c'est elles qui auraient détruit 1 idée de Dieu,
-si pareille idée n'était indestructible ; c'est elles qui tfnl entretenu
-ou sanctionné la tradition de ridée unitaire exclusive, de la latnlilé,
-principe «le tous les despotismes,</p>
-<p>— cetle idée perpétuée aussi dans notre siècle par la bourgeoisie
-cupide, débauchée, césarienne, cl sceptique, « d'un scepticisme épais,
-rusé et brutal, ricaneur, goguenard, benêt. » Contre la doctrine
-fataliste et contre la bourgeoisie autoritaire, le peuple doit se lever,
-pour la liberté par le fédéralisme.</p>
-<p>11 est prudent, en cflcl, «le préciser la pensée «le Hicard. Le
-lédcralismc n'est pas le séparatisme. 11 s'agit de rendre vigueur et
-liberté aux provinces, en conservant un organisme central dont le rôle
-est de veiller aux questions générales.Décentralisation et
-centralisation sont deux modes nécessaires.</p>
-<p><pb/></p>
-<p>— 2() -</p>
-<p>devant opérer tdmiiltanément, ilnns une action concertée et souple
-d'harmonie sociale, Mais la centralisation, on en n trop ; il est donc
-urgent d'organiser le fédéralisme, qui seul peut donner la somme de
-liberté possible. Toutefois,cette institution, pour être normale et
-durable, ne peut être fondée que par le quatrième état'Me peuple.</p>
-<p>Tel est cet ouvrage, véritable programme des décentralisateurs. Le
-Fédéralisme est le livre de base, la source où les esprits voués aux
-renaissances provinciales doivent puiser l'idée limpide et vivacc qui,
-mise en tète d'institutions nouvelles, les lera vraiment logiques,
-robustes et bienfaisantes.</p>
-<p>V.n 1881, il accepta la candidature contre Devès dans la 2--'
-circonscription de Péziers, et se relira au ballolage, par un respect,
-exagéré, de la discipline républicaine.</p>
-<p>t^ffcrrnt:</p>
-<p><pb/></p>
-<p>— 3o —</p>
-<p>septembre 1878), mais très volumineux el pleins de choses curieuses,
-excellentes, que j'espère examiner prochainement. Il y a, entr'autres,
-au deuxième numéro, un article : le Midi français, de Hicard, important
-pour ses affirmations fédéralistes.</p>
-<p>On peut, du moins, résumer en quelques mots cette action variée et
-nombreuse de plusieurs années : elle lut l'effort le plus considérable,
-le plus décisif. île la préparation au fédéralisme ; elle en rassembla
-sur un point, en un temps donnés, les éléments éparsdnns le passé el
-dans les provinces; et, pour accomplir nujourd liui quelque chose de
-bon, de perpétuel, il est indispensable île revenir a ces actes-là, qui
-ont défriché le domaine où peut désormais s'édifier l'oeuvre fédérale
-pratique.</p>
-<p>Louis-Xavier de Hicard avait perdu sa femme, Lydie Wilson, en 1680; elle
-n'avait pas Imite ans, et ce fut une grande peine qui brisa sa vie.
-Découragé, il partit, deux ans après, en Amérique.</p>
-<p><pb/></p>
-<p>— Jl —</p>
-<p>En 1S91, Ricard fit paraître, chez Lcmcrrc, avec une préface, les
-poésies posthumes, Irançaises et languedociennes, de Lydie Wilson, sous
-le litre choisi par elle-même ; Au Bord du Lez. Le Lez est un petit
-fleuve qui passe près de Montpellier. Plusieurs de ces poésies avaient
-paru dans la Lausclo, sous les pseudonymes de Ma Dulciorella cl Lidia
-Colonia.</p>
-<p><pb/></p>
-<p>— 32 —</p>
-<p>sait plus même le nombre. Jl mena une très énergique campagne contre le
-boulangisme. Enfin, en 1897, un différend étant survenu entre lui et la
-direction de la Dépêche, pour une question de politique locale
-niontpelliéraine, il donna sa démission de rédacteur et de correspondant
-du journal, cl revint habiter Paris.</p>
-<p>coin•i\</p>
-<p><pb/></p>
-<p>mm</p>
-<p>m</p>
-<p>_ 33 —</p>
-<p>Je ne puis malheureusement, dans cet article limité, faire valoir
-l'agrément, la variété, et aussi renseignement humain et social, de ces
-nombreux travaux ; j'ai dû exposer seulement ceux qui livrent la pensée
-poétique et la pensée fédéraliste, c'est-à-dire la nature intime
-dérailleur; les aspects multiples, colorés cl neufs, des autres
-ouvrages, qui donneraient le portrait total, prendront place dans une
-élude plus développée.</p>
-<p>Un roman : Alnanien de Datante, dont le héros est un troubadour patriote
-au temps de la croisade contre les Albigeois (13« siècle), devait
-raconter, soits une fiction dont tous les éléments sont rigoureusement
-donnés par l'histoiic et les traditions, la lutte héroïque et désespérée
-du Languedoc contre l'extermination et l'inquisition catholiques et
-royales.</p>
-<p><pb/></p>
-<p>— 34 —</p>
-<p>Légendes du Languedoc ; l'Homme de la Lune, En-Tue-Sept-D'un-Coup (Monde
-Moderne), ont seuls été publics. 11 a aussi un ou deux autres volumes de
-nouvelles, dispersées dans le Gil Blas, dans des revues, des journaux.</p>
-<p><pb/></p>
-<p>Saint-Amand (Cher). — lmp. l'ivoteau h l/\k</p>
-<p><pb/>
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-------------------------------------------------------------------------</p>
-<p>&amp;</p>
-<p>}&gt;.,..</p>
-    </div>
+      <div>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>■r&gt;&lt;w*-q^~- *■*■■»</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>Du même Auteur</p>
+        <p>KXI'l'LSKK, roman de moeurs politiques, ISS9.</p>
+        <p>LES TOUHMEXTES,.poésies, avec un portrait, 1801 3 »</p>
+        <p>IIENHY l'IVEUT, romande moeurs littéraires, 1891 3 50</p>
+        <p>L'HERITIERE, roman de moeurs bourgeoises, 1S91 3 50</p>
+        <p>l'Ail, VEI'.LAIXE ET SES COXTEMl'ORAIXS, 1897 1 »</p>
+        <p>I. AMi: CHAMI'EXOISE, 190o 3 »</p>
+        <p>Etudes littéraires :</p>
+        <p>EXOUÈTE Sl'H LA LITTÉRATURE, lïUi*. 1 »</p>
+        <p>LE ROMANTISME, 1903 2 50</p>
+        <p>ÉCRIVAINS D'IIIKR ET D'AUJOIJIIIVIIUI, 1903 1 25</p>
+        <p>Littérateurs et Artistes :</p>
+        <p>ERNEST MAYXAUI), avec un portrait par S.:IIUTZ-ROUERT, 1905. 1 50</p>
+        <p>PAUL GOURMAND, avec un portrait, 190 j 2 50</p>
+        <p>EMILE 151.ÉMONT, avec plusieurs portraits, 1900 3 50</p>
+        <p>l'rochainemcnt : JULES 13ARREY D'AUREVILLY. LÉON R10T0R.</p>
+        <p>(A la Dibliothïquc tic l'Association, 91, rue Lecourbe, Paris, 15'.J</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>ïSX!'/- "S ' il™Ci ÏT.V-S *TT"" .'_T. ■„. '.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>I.OU1S-XAY1KH DE H1CAHD</p>
+        <p>PAR</p>
+        <p>SCHÙTZ-ROBERT</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>LOUIS-XAVIER DE RICARD</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 6 —</p>
+        <p>Première soirée en prison</p>
+        <p>Je suis seul.— La prison m'entoure, triste cl nue : IAS verrous de la poi tu oui grincé. — Je suis seul, Le silence et la nuit ont cousu mon linceul, Lt, lentement, je l'ois une moit inconnue.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>0 vents, dont jVnlends l'aile effleurer mes fenèlres, Vents des nuits, reportez vers elle en soupirant i.e baiser de son coeur qui m'appelle en pleurant.</p>
+        <p>Ciel, Une ri l-oijcr, « un beau livre sévère, noble et charmant, » (Paul Verlaine), fut publié au commencement de ISGG. Il s'annonce par celle toute simple cl si droite</p>
+        <p>Pré/Vice</p>
+        <p>Salut, ami lecteur: — accueille avec limité Ces poèmes nouveau*, écrits pendant l'aurore fie celle ère iiai&gt;s.inle, où l'on entend éelore Itons les sillons profonds la jeune humanité.</p>
+        <p>(J'.il rêveur, je vojais avec .anxiété Croître dans tous les coins li lumière sonore, Kl j'entonnais de\ mt le- cieux qu'elle Colore L'n li}H.ne de tiiomplie et de séictiilé.</p>
+        <p>J'ai celle amliilion que mon litre îévèle,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 8 —</p>
+        <p>gion, de s'enfoncer, sans daigner discuter, dans le domaine nouveau de l'émancipation absolue:</p>
+        <p>II appelle la révolution, salue le progrès contemporain, et ramène toute espérance en la femme, l'amour.</p>
+        <p>Le livre premier : l'Ail el l'Histoire, est dédié, par ce sonnet d'un hiératisme libertaire,</p>
+        <p>A Edgar Qjilnct</p>
+        <p>La baguelte du temps frappe le jour nouveau</p>
+        <p>Au fond de l'avenir où tout enfant il joue ;</p>
+        <p>Souriant au destin, il se lève et secoue</p>
+        <p>La brume cl le brouillard qui chargent son manteau.</p>
+        <p>L'aurore, en rougissant, l'embrasse, puis dénoue L'or roux de ses rayons sur son front jeune et beau. Il part ; et l'univers sort, comme d'un tombeau, De la profonde nuit qui s'azure et se troue.</p>
+        <p>Ainsi, ta main hardie et sereine a placé</p>
+        <p>Les clartés du savoir et de la poésie</p>
+        <p>Dans noire âpre chemin, que l'ombre avait glacé.</p>
+        <p>Tu fis vibrer les coeurs du verbe de la vie Dont le charme éternel réveille les esprits. L'âme de l'avenir habite en tes écrits.</p>
+        <p>Se voulant immuable dans son activité, il cfTetniit encore son geste déterminé, sa pensée virile d'où il chasse la rêverie, et les vers même se font rigides, toute la vigueur du poète se rallie autour de sa conception :</p>
+        <p>Tandis que le troupeau des âmes insensées</p>
+        <p>Sous le fouet de3 désirs, qui gouvernent la foule, Comme un fier étalon cabre ta volonté, Et, bravant 1". torrent du destin qui s'écoule, Assieds-toi fortement dans ta sérénité.</p>
+        <p>De ce point fixé, en une page résolue qu'il faudrait citer entière, l'auslère poète se retourne vers l'autre des pôles de la pensée : le passé, qu'il faut respecter. Une Ame profondément naturelle, humaine, peut-elle ne pas entendre frémir les cantiques lointains d'une ère qui n'est plus ? Il les évoque même, ces Ages primitifs du jeune soleil, des aurores aux rayons plus certains, 011</p>
+        <p>La conquête des dieux envahissait les âmes.</p>
+        <p>Les peuples écoulaient les poètes, la vie adolescente pélillait d'ardeur et de croyance... el, lesujctanliqucyaidanl, lcvcrsfralerniscavcc celui deLcconte</p>
+        <p>
+          <pb/>
+        </p>
+        <p>\</p>
+        <p>— g —</p>
+        <p>de Liste. Mais vile lapersonnalilé ressaisit son poète, qui pose celle couronne surle berceau des hommes :</p>
+        <p>Blond pays du soleil et des vastes aurore), Orient, ton ciel large a couvé les esprits ; Et ton sein, palpitant sous des frissons sonores, Du lait de l'idéal ton seir les a nourris.</p>
+        <p>Les divines moissons ont fleuri sur ta terre.</p>
+        <p>Orient ! Orient ! toute «me calme et fière Comme un trésor sacré garde ton souvenir, Car ta tradition est la vire lumière Qui, du lointain des temps, jaillit sur l'avenir.</p>
+        <p>Puis il rcmarche vers l'autre pôle, si ardemment espéré :</p>
+        <p>Dédaigne le présent qui murmure en fuyant.</p>
+        <p>O poète, ton sein qui le contient, frissonne Sous la gestation du nouvel idéal.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 10 —</p>
+        <p>reine des hommes. Puis le poète, éveillé de celle vision séculaire, la fixe pour son temps fugitif en la ciselure de ce sonnet</p>
+        <p>A Vénus de Milo</p>
+        <p>O Vénus de Milo, grand poème sculpté, Les charmes infinis rêvent sous la paupière, lit les baisers muets de tes lèvres de pierre •</p>
+        <p>Font descendre en nos coeurs la sainte volupté.</p>
+        <p>Le temps a resperté la grâce tout entière, Et de nos passions la vaine activité N'a jamais dérangé les plis de ta beauté.</p>
+        <p>Ali ! l?ndci-moi la main ; je ne sais où je suis.</p>
+        <p>Mon pieil tremble, et j'entends le noir manteau des nuits</p>
+        <p>Toinlier, et rudement froisser ton sein, o terre I</p>
+        <p>I&gt;rs chants oui déroulé leurs larges harmonies Au milieu des splendeurs iharmanles du maiin; Kl l'on entend païkr je ne sais quels génies Dans les ondulcincnts de leur Ilot cristallin.</p>
+        <p>0 vous Ions, surgisse/, des abri- qui vous cachent ! O frères, accoure?. ! les mains du jour atta:hent Le glaive au liane guenierct la pensée au front.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— II —</p>
+        <p>Les ennemis râlent, vaincus; le poêle s'avance dans la forêl qu'un soleil triomphant baigne déjeune lumière :</p>
+        <p>0 forêt, réponds-moi ; le long des aubépines Et sous Vépai3 buisson du chemin, les oiseaux Font vibrer !es fraîcheurs de leurs voix cristallines,</p>
+        <p>Et l'abeille bourdonne au milieu des sureaux ;</p>
+        <p>•</p>
+        <p>Les liserets des bois avec les pâquerettes Causent dans l'herbe haute ; et les papillons bleus Au sein vert des gazons cherchent les violettes Qui laissent délacer leurs corsets amoureux.</p>
+        <p>L'amour règne et sourit. La nature est»n fête.</p>
+        <p>O forêt, quel sentier me conduira là-bas?</p>
+        <p>Dans tes détours ombreux que je ne connais pas.</p>
+        <p>Là-bas, la liberté cou.:. • le despotisme, et le dompte : -- tel était le but de ce poème viril, républicain, ne réclamant de l'art que sa iorme supérieure, mise au service d'une idée qui emporte tout.</p>
+        <p>Effeuillés et flétris par la honte éternelle. Vos coeurs ne peuvent plus renaître et refleurir ; Kt, si quelque désir y vient battre de l'aile, Votre air est trop impur pour le pouvoir nourrir.</p>
+        <p>El, comme ces buissons qu'a brûlés la gelée, Vous ne porterez plus de nids dans vos rameaux, Et vous n'entendrez plus l'aube vive et mouillée Chantant et grelottant, rire avec les oiseaux.</p>
+        <p>Quand l'été fleurira, sous vos aiides branches,</p>
+        <p>Ne vieilliront plus vous voir, sous leurs tuniques blanches.</p>
+        <p>Sourire et s'enl.icer le chrpur des voluptés.</p>
+        <p>Du soleil matinal les yeux vermeils et roses Ne perceront jamais l'ombre de vos ennuis ;| IV leurs manteaux tordus'les impassibles nuits Versent sur vous sans fin leurs t'mèhres moroses.</p>
+        <p>Vos pieds font dans la fange ; et vos fronts dépouillés Rêvent simplement dans l'invincible brume ; El les dégoûts, vieillards rêreurs et désolés, Eteignent tous les feux que l'espérance allume.</p>
+        <p>Le poète accuse la société meurtrière ; quant au Dieu des chrétiens :</p>
+        <p>Vous donc qui l'adorez, pleurez ! Mais nous r,ui sommes La révolte éternelle et l'éternel désir, Sans pitié pour les dieux nou» pleurons sur les hommes ; Entre nous et les dieui il a fallu choisir !</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 12 —</p>
+        <p>Ton dogme n'a rien fait pour le salut du monde.</p>
+        <p>choisi :</p>
+        <p>Ah ! quand nous r«viendront les beaux temps de l'IIellade ?</p>
+        <p>Qui me transportera sous le ciel de l'Attiquc Où les rives de marbre étaient des vérités ? Oj, dans l'horizon bleu d&lt; la légende antique, Les labeurs des héros fondaient les libertés I</p>
+        <p>O Jésus ! dans ton livre une page sereine Te fera pardonner bien dc3 torts expiés : lin repoussant le Dieu, nous gardons Madeleine Pont les cheveux sacrés ont parfumé tes pieds.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— »3 -</p>
+        <p>xixe siècle,</p>
+        <p>A Victor Hnçio</p>
+        <p>0 poète, salut! le .-iécle est plein de lui :</p>
+        <p>Ton génie a Vaincu l'indillérence humaine.</p>
+        <p>Lo front liant, le pied fur, et le enur sans cilici,</p>
+        <p>Il entre dan* la gloire ainsi qu'en son domaine.</p>
+        <p>Ta poè?ie. ouvrant ses deux ailes d'aiiain, A pris pour piédestal lis foudres des orales. Kl lixe son retint lumineux et serein Sur la liotiie lointaine et confuse des àj;es.</p>
+        <p>Klle voit tous leurs Ilots s'enllcr &lt;t moutonner ; Kl. cabiant son f, ml vert &lt;pii tourbillonne cl fume, Chacun, pour l'applaudir et jioni le couronner, Seinhle tendre vers toi ses guirlandes d'écume.</p>
+        <p>Aucun regard encor n'eflleura son sein nu ; Jamais les passions n'ont dérange ses voiles : D'un amour patient elle aime l'inconnu : l.es langueurs de ses yeux ne rêvenl qu'aux étoiles.</p>
+        <p>Comme d'une tunique, il est vêtu de gloire ; Tout caparaçonné d'une étrange clarté, Son dictai, fréiniss.int, fait trembler l'ombre noire (Juand il hennit d'amour après la liberté!</p>
+        <p>Il esl le su-ami vainqueur, et son nom e&gt;-t : l'I.'sprit !</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— &gt;4 —</p>
+        <p>Et le poêle, maudissant les siennes des prêtres et des rois, appelle la libellé : qu'elle écrase Ions ces nains, et brille sur l'humanité debout.</p>
+        <p>Entrons en ces pages de repos, de douceur : A mademoiselle Lydie Wilson, écrites en oelub: e I.S.13, et parues en avril suivant dans lu liante du Proyrès. qui avait public beaucoup des pièces du livre. Le voile se lève sur rbuuiauilé de ce coeur, pressentie dans ses vers de combat :</p>
+        <p>Je suis lYlre a^ilc. Oui a.- puis plus trouver paix ni tianquillité.</p>
+        <p>L'orage n'est plus seulement sur sa lêle, mais en lui-même :</p>
+        <p>l.'arpiiioii iiat mon àuif, et, sombre et courroucée, l.a \apioilti combat liuiie ilms ma pcti-ce ! Kl, penclif sous mes dieux, Juif enant du progrès, Toujours jf veux aller sans m'arréter jamais.</p>
+        <p>Ali! que l'aimée, loin de l'accuser, le suive plutôt, qu'elle vienne avec lui au sommet du Siunï nouveau ; alors :</p>
+        <p>Uans 1 iulini. nos pieds fouleront les étoiles Connut! on foule le sable au vaste Sahara ; Nous inliiroderons la naluie sans voiles ; La nature nous répondra.</p>
+        <p>Et ce qu'elle dira, c'est que l'amour — l'amour auquel souvent revient le poêle : nature et pa&amp;an&lt;nic alliés dans ce tempérament extrême — est le lliiidc sublime qui vcr.-e en loul, la vie.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— i5 —</p>
+        <p>Non ! nous n'écrivons pas pour Ions ces ^oùls malades Qui n'aitncnl que les vtrs arrangés &lt; n charades, El que les pensers forts exprimés fortement Etonnent .'l'un profond il moi ne aceahlemei.t.</p>
+        <p>Ali ! tenons en liorieur toutes choies fardées : Soyons francs dans nos mots comme dans nos idées.</p>
+        <p>11 lent oppose le I'oète, seul digne du nom :</p>
+        <p>I.i' viai poite est lier: et, (ils de la tempête, Il va toujours devant, lient toujours haut sa tète. Et, mécontent toujours du présent malvenu, Un soi.'iiiiet idéal il plonge en l'inconnu.</p>
+        <p>Kllc est passée, l'aurore, et le soleil se lève ! Mais le Dieu nouveau, ne le cherc'icz plus en orient : il n'y a que son origine, comme nous tous ; pour la première fois, c'est en occident qu'il apparaît : et pourrait-il en être autrement, puisqu'il est lait de la sève séculaire de l'Furopc, du rêve séculaire de la France, de la llammc inextinguible de la Révolution, de la raison et de la science, autant «pic de la tradition poétique et héroïque? Quoi 1 un Dieu qui accepte la Révolution française 1 Mais oui : Danton l'a invoqué le matin de sa mort, Robespierre le nommait l'Klrc suprême, d'autres le désignent le Grand Architecte, et vous-même, — vous-même lui dites le Grand-Tout. Moi je garde le mol Dieu, plus court, plus simple ; cl puis, j'y suis habitué. Ne chicanons pas sur un mot. Mais justement, direz-voiis, l'habitude d'un mot est gênante pour l'esprit. Allons donc! La France, depuis dix siècles, a-l-cllc changé de nom'? Flic s'est cependant transformée par la Révolution. Dieu, sans changer de nom, peut se transformer aussi : il sttflil de dire comment vous le voulez. — Kn attendant, Hicanl fuit les pâles limeurs attardés dans le siècle :</p>
+        <p>Mais suivons, chers ami", jtihon* le vrai poète Pans l'idéal sacré qu'il (.r.nil jusqu'au faite ; Chantons deiiiére lui nos joyeux clnnts d'amour ; Aimons-le, celui-là, car il nous nu ne au jour.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 16 —</p>
+        <p>Son Iront auréolé resplendit d'étincelles ; Des éclairs fulgurants jaillissent de ses ailes ; L't, quand son vol de feu rase l'éternité, Le gouffre d'inlini se remplit de clarté.</p>
+        <p>A ce coeur vaslc, il faut la plus large</p>
+        <p>Poésie</p>
+        <p>.("admire, dédaigneux des vagues mélopées Qu'entonnent nos rimeiirs sini-tres ou plaintifs, L'épanouissement des vastes épopées Habilitant leurs parfums dans les vents primitifs.</p>
+        <p>Les jeunes univers dilatés et sonores S'abreuvaient de la vie. rparsc dans les airs, Kl l.i virginité des naïves aurores It'une lumière fraîche ai rosait les deux clairs.</p>
+        <p>Kl, sur le long chemin de 11 cité nouvelle, Pour marquer où passa mon pas de voyageur, Je dresse quelque strophe, austère et solennelle, Comme un Sphinx de granit immuable et rêveur.</p>
+        <p>La Pensée</p>
+        <p>Ah 1 plaignons les esprits, sans lumière et sans ailes, Qui se vautrent toujours dans h réalité. L'azur de l'infini fatigue leurs prunelle. : Kpliéinèrcs, craignant les clarlés éternelles, Ces amis du mensonge ont fui la vérité.</p>
+        <p>Leur étroit horizon n'est rempli que de fange : Des meules de fumier bornent partout leur jeux : l'arqués par le hasard, ils grouillent en mélang? ; Des sainles pissions la sublime phalange Ne peuple point leurs ccrurs de rayons radieux.</p>
+        <p>Vous, esprits purs, planez ! SiniMre et désolée</p>
+        <p>L'humanité grelotte eu ses manteaux usés:</p>
+        <p>Lea dieux sont morts. La nuit dresse leur mau-olée ;</p>
+        <p>Ksprils purs, invoquez l'idée immaculée :</p>
+        <p>Klle rajeunira tes hommes épuisés.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 17 —</p>
+        <p>Et vous mourrei alors, vous, insectes voraces,</p>
+        <p>Qui, sous terre, rongez les germes Je nos blés :</p>
+        <p>Un pain plu3 nourrissant, comme en grappes plus grasses</p>
+        <p>Le vin des forts cuira dans les barils combles.</p>
+        <p>0 Pensée ! ils boiront ta parole certaine ;</p>
+        <p>Ils ouvriront leur âme aux semences du beau :</p>
+        <p>Fécondes aux clartés, dont notre aurore est pleine,</p>
+        <p>Epis des vérités, germez dans l'ànie humaine :</p>
+        <p>Les mensonges sont morts : croissez sur leur tombeau !</p>
+        <p>Tes rayons, o Pensée ! et ton verbe sublime</p>
+        <p>Empliront tous les cteurs, de qui la pureté</p>
+        <p>Et l'amour, arrachant la femme de l'abîme,</p>
+        <p>La rendra digne aussi de ton éternité.</p>
+        <p>Car la femme est sacrée : elle est sainte ; et vers elle La pensée, en riant, incline son front pur : O femme ! clias'.e soeur de la gloire immortelle ! Enlace-moi d'amour ; ah ! prends-moi sur ton aile : Et, tous deux réunis, gravissons vers l'azur.</p>
+        <p>Femme 1 mallieur â ceux dont la lièvre insensée A voulu polluer ta robe de beauté. Malheur au libertin dont la main l'a froissie ;' Car, le jugeant impur, la pudique pensée A jamais l'exclura de sa sérénité.</p>
+        <p>Seul, l'homme calme est fort : — la haine et la colère Font trébucher le pied qui gravit l'infini : Voyageur, prends en main un bâton tutélaire : Tranquille, et sans ployer sous le jour qui l'éclairé, Va dénicher l'oiseau d'idéal dans son nid.</p>
+        <p>Et lu me montreras la cime d'allégresse</p>
+        <p>Que l'infini revêt de lumière et d'azur.</p>
+        <p>Monte, me diras-tu. — Je monterai sans cesse ; '</p>
+        <p>Et ton bras soutiendra mon bras, si je in'aflaKsc,</p>
+        <p>Et, sous tes saints regards, mon cuur restera pur.</p>
+        <p>Celle pnjie superbe clait d'un jçmie,jl'nillcurs : elle est dnlée «le février 1801. L'acde n'avait pas vingUv^Wfc/ijTTx</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 18 —</p>
+        <p>Le troisième livre : l'Amour, esl offert</p>
+        <p>A Théophile Gautier</p>
+        <p>Pour marier le. modems i l'antique, Sur l'idéal j'ai calqud mes dessins, Kl, quelque temps, poursuivi dans lAtlique Aphrodite-, dont je moulai les seins.</p>
+        <p>Kn remplissant mon musée artistique, J'ai, bien ou mil, accompli mes desseins ; Kl maintenant, au devant du poitique, Je veux placer les bustes de mes saints.</p>
+        <p>J'y mets 'l'abord celui de ma maîtresse ; Il est d'albâtre ; et l'amour noue et tresse, lians ses cheveux, des feuilles et des fleurs.</p>
+        <p>l'.t quand au votre, ô peintre, je le pose Sur ce fronton, que l'air bleuâtre et rose Kn i t chatoyer sons le jeu des couleurs.</p>
+        <p>Suit lin Portrait, pastel frais et gracieux, qu'on ne peut fragmenter; je passe, avec le regret île ne pouvoir le citer entier. L'Açôka, au bord (lu lïan^e, fleurit quand une femme l'cfflcurc : ainsi s'épanouit le coeur du poète, sens un sourire féminin. Dans le clair de lune, au bois, le chaut d'amour s'amplifie : Allons retremper notre vie dans le calme de la nuit !</p>
+        <p>Mais lui, prés de son ovur, sentant trembler sa belle, Se pencha vers son front et lui parla tout bas. » Oh ! ce n'est pas de peur que je tremble ! i dit-elle, Kt son lias plus pressant s'appuya sur mon bras.</p>
+        <p>Oh ! dis que lu viendras un jour, loi dont je reVe, Plus clémente aux accents suppliants de ma vois, Quand la lune amoureuse i l'horizon se lève, Kcouter avec moi les silences des bois.</p>
+        <p>Le Réveil se fleurit d'amour sourianl ; mais le voila, déjà, suivi de ce</p>
+        <p>Reproche</p>
+        <p>Mon coeur est un oiseau des bois ;</p>
+        <p>Il a fait son nid dans ton âme,</p>
+        <p>Kt, s'il y chante quelquefois,</p>
+        <p>C'est toi qu'il chante et pour toi, ftmme.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— ig —</p>
+        <p>Tu ne l'as jamais écoula,</p>
+        <p>Et ton amour, raie on caresse,</p>
+        <p>Ksi tans rire pour sa f aieté, Kst sans larme pour sa trUlesse</p>
+        <p>Quand il jjémil de lents soupirs Ton oreille en est ennuyée; Par les baisers de les plai-iis Tu crois sa douleur trop payée.</p>
+        <p>Tu l'aimes ; il le sait, mon coeur. Hélas ! pourquoi, toujours sévère, l'unir d'une telle froideur Sa jalousie et sa colère.</p>
+        <p>Crois-tu donc n'avoir point di 'Dit, Kl qu'une suprême justice Trouverait toujours en accord Toutes les lois do Ion caprice '.'</p>
+        <p>Lisez donc ces quatre vers tirés d'un intermède daté 25 niai 1805 :</p>
+        <p>Le canon grondant vomit des boulets ; des murs d'hommes croulent, Les chevaux pesants, dont les pieds tonnants foui le bruit des eaux (lue l'orage la! d'une aile d'éclair, s'él incent et rutilent, Kt dans l'horizon avec de grands cris planent des corbeaux .</p>
+        <p>Ii n'y a rien de nouveau sous le soleil, pas même les vers de quinze pieds.</p>
+        <p>Hien plus légers que des vers penlédécasyllabiqucs, voltigent ries papillons, désirs autour de la beauté de l'aimée, et plus frais encore d'éveil, de jeunesse, de rosée, est</p>
+        <p>Un 'I\ayon dans une rose</p>
+        <p>Kt les doigts de l'aube rosée Ouvrent son calice vermeil, Où se baigne dans la rosée Un jeune rayon de soleil,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>~ 20 —</p>
+        <p>Cet infini rose et limpide Que les lèvres des voluptés Déroulent sur la joue humide.</p>
+        <p>Un aven échappe an poète : l'ennui, la soufirance sont en lui ; n'importe, il subira la vie, calme et lier, avec sérénité.</p>
+        <p>Je contemplais ces moits, moi, seule âme vivante!</p>
+        <p>Ht s'enivre de celle vie.</p>
+        <p>Vt*»^-^)S"-r^*T^*p^ crWs"T7";</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 21 —</p>
+        <p>A son tour parle la nature, cl son heure de triomphe étant revenu, elle s'en exalte : Oui, c'est moi qui remporte !</p>
+        <p>La pauvre s'abuse ; elle a cru que la liberté était pour elle, cl le peu qu'elle en absorbe grise celle vieillardc. Or, l'instinct éternel du poêle veille, il morigène celte nature qui trébuchait, cl qui, de meilleur sens, dit : Où donc est l'esprit de l'ancienne lettre?</p>
+        <p>11 est allé mêler sa poussière féconde Au chaos fermentant des révolutions.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 22 —</p>
+        <p>tension énergique d'une révolte qui ne ve.il rien savoir, rien discuter. — Cependant In nature devient tout a Tait sage :</p>
+        <p>li'àme des anciens (lions ne meuil pas tout entière ; Kl, chacun contenant un peu dû vérité, Itcparait Iransfoimé dans la jeune lumière Qui l'épure et l'ab-orbe on M sérénité.</p>
+        <p>La voilà, l'iùslnirc, la vérité ; el bien que le poète, dans le crépuscule, voie s'évanouir les dieux, il sait donner a l'homme ces lions conseils :</p>
+        <p>Il veut de voire lèvre apprendre son pi*&gt;é ; Pour lui, vous admirer, c'est s'admirer lui-même : Il vous porte avec lui, sans haine el sans blasphème, Ain-i qu'un vieux trésor lentement amassé.</p>
+        <p>Le Crépuscule des dieux a rassemblé, en sa synthèse, la philosophie de Ricard, qui, pour auxiliaire, annonce le règne d; la femme :</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— -'3 —</p>
+        <p>De forl belles pages sont inspirées par</p>
+        <p>Les Formes</p>
+        <p>O'ii, les ails sont vaincus ; les l-'oimes immoitelles</p>
+        <p>Voient les déseils lointains s'élargir devant elles j</p>
+        <p>Mais, calmes, dédaignant le mépris des humains.</p>
+        <p>Le granit de Itnrs pieds fait sonner leurs chemins.</p>
+        <p>Leurs reins n'ont pas fléchi : leurs regards, sans paupière,</p>
+        <p>lloivent, sans se lasser, l'éternelle lumière,</p>
+        <p>Kt rien ne peut troubler l'immuable licite</p>
+        <p>De leurs membres, puissants comme un inaiLre sculpté.</p>
+        <p>Leur grâce ondule cl chante en admiiables poses ;</p>
+        <p>Le ^Icil amoureux dore de baisers roses</p>
+        <p>Les rondeurs de leurs seins el de leurs Unies cambrés.</p>
+        <p>Elles vonl ; elle» vont. — Leurs longs cheveux aminés,</p>
+        <p>En (lots marmoréens s'écroiilanl sur leurs hanches.</p>
+        <p>Dans un rajon vermeil drapant leur nudité,</p>
+        <p>Klles maicheril sans peur, debout dans leur beauté</p>
+        <p>Le dé.-eit retentit sous huis pieds qi.i 1» froissent ;</p>
+        <p>Vers le pâle occident les cités, qui décroissent</p>
+        <p>Et plongent dans les flots des brouillards amassés,</p>
+        <p>S'accroupissent au loin comme des buufs lassés.</p>
+        <p>Et le jaune horizon, tout nuage de brume,</p>
+        <p>Comme un feu qui s'éteint, rougit, palpite et fume.</p>
+        <p>Devant le désir du poêle se lève une [orme magnifique, fille de l'orient el de la blonde Hellade, aux poses superbement tranquilles ; il la célèbre et la prie avec ardeur, el elle lui répond :</p>
+        <p>Ah ! nous ne conduisons aux lumières futures Que ceux dont la puissance et dont la volonté Suivent patit minent, sans pleurs et sans murmures, Le chemin du désert et de l'éternité.</p>
+        <p>Confiant dans Ion sort et dans ta conscience, Suis mes jeux, dédaigneux d'un soleil allaibli ; Pour -alon de voyage ayant pris la science, Entre le siècle et toi laisse monter l'oubli !</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 24 —</p>
+        <p>Le livre s'achève par ce rappel de l'amour qui en relie les plus diverses phases :</p>
+        <p>Souhait</p>
+        <p>Autour de la beauté, «ju'il caresse de l'aile, L'essaim blond de mes vois bourdonne tes adieux, Kl ravive un moment son éclat jet'is-.- e'- hèle A la splendeur profonde el calme cl* \c jeu».</p>
+        <p>Ces vers sont tes enfants ; ton sein cliaud et lidèle Leur ouvrit constamment fon asile joyeux ; Kl, par de longs lits d'or, la magique prunelle Dirigera leur vol dans l'infini des deux.</p>
+        <p>Après avoir, quatre ans, soigné notre couvée,</p>
+        <p>Nous lui livrons enfin la Liberté rêvée ;</p>
+        <p>Ah ! dans dix ans eticor, puisse un essaim plus beau,</p>
+        <p>Moissonnant te jardin de tes grâces écluses, Kn verser, en chantant, les myrtes et les roses Sur notie vieil amour, toujours jeune et nouveau !</p>
+        <p>Après ma leclitrc, j'ai ressenti l'impiession singulière qu'on ne peut faire des citations d'un tel ouvrage; heureusement, j'avais noté mon choix. Son auteur était si plein de l'idée démocratique extrême, que de la première a la dernière ligne tout s'enchaîne, tout se commande, relié par celle idée centrale. Ce n'est pas un recueil tic pièces écrites selon des circoiislances, c'est une profession de foi. I.c C'iWqui n'a plus de dieux, la Hue qui livre l'état moral des cités, le Foyer qui préparc le règne de la femme : ces trois larges conceptions ont formé la mission publique de Ricard entre 1862 et 18G5. Même l'époque et ses influences, même l'amour si vivement célébré, :ie sont que de grands intermèdes en ce poème du progrès, rapide cl vigoureux, lyrique cl précis, s'avançanl perpétuellement vers l'avenir.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 2?</p>
+        <p>Ce livre d'énergie, de virilité, est unique. On a dit cela aussi des Fleurs du Mal, pour des motifs d'art seul ; mais l'inllueucc île Baudelaire n'a pas dépassé le pâmasse, la décadence, le symbolisme et leurs dérivés poétiques. Ciel, Une cl Foyer aura surli.al de l'influence sur le XXe siècle : c'est par la philosophie démocratique «le ce livre que Louis-Xavier «le Ricard va fortifier la littérature nouvelle et la nouvelle action sociale.</p>
+        <p>Ricard cl Mcndès s'occupèrent de la rédaction, sous le tctrarchal Lecontc de Lisle, Banville, Baudelaire, cl (iautier que Ricard connaissait de longue date. Ils avaient avec eux Louis Ménard, Sully Prudhomme, Léon Dierx, Léon Yalnde. Albert Mérat, Villiers de l'Isle-Adam, etc.. Hcrcdia. Coppéc, Verlaine, Mallarmé, Lcpclletier, y liront leurs vrais débuts. J'ai montré, dans mon livre sur le Ronninlisir.e, comment le l'amasse tut un redressement du romantisme proprement dit qui avait vieilli, et de l'idéalisme moderne devenu morne, insipide. Cependant le public ne venait guère a ces poètes, et la critique restait froide ou hostile.</p>
+        <p>Les parnassiens se réunissaient chez Lcmerre, chez Lecontc de Lisle, chez Mcndès, cl, le samedi, chez les parents de Louis-Xavier de Ricard, qui, « la vivacité mais l'afl'abilité même, allait d'un groupe à l'autre, discutant lour n tour chaudement, esthétique et révolution, sonnet cstrambole et fédéra-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 2b —</p>
+        <p>Usine, le (ont avec une conviction ardente qu'on ne pouvait qu'aimer a la folie, même si on ne la pai tageait pas. » (Paul Verlaine, Les Hommes d'aujourd'hui. &amp;e volume, n° 38ô).</p>
+        <p>Kn 1807, les parnassiens furent délendus par les six numéros de la Gazelle rimée, publiée par Hobcrl Luzarchc, contre les Médaillonnels de Harbey d'Aurevilly et le Parnassiculet d'Alphonse Daudet et Paul Arène.</p>
+        <p>On voit qu'après l.econte de l.islc et Théodore de Banville, fondateurs poétiques du Parnasse, Louis-Xavier «le llicard en est le principal fondateur et comme poète et surtout comme homme d'action.</p>
+        <p>J'en dégage d'abord le Fédéralisme, publié en 1877 chez Fischbacher, « en reincmbranço de nioun paire, nascul a seto en Lengodoc. &gt; Une préface déclare que l'auteur se propose de donner la position historique, la définition historique de l'idée fédérative. « 11 y a certes plus dune manière, dit-il, de défendre le fédéralisme contre les indiflérents qui ne le connaissent point,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— n -</p>
+        <p>contre les égarés qui le méconnaissent malgré eux, contre les ahuris qui s'en cillaient, et contre les ambitieux et les intrigants qui ne le goûtent pas pour «les causes bien connues d'eux. » Sa manière se distingue en ce qu'elle offre îles éléments fondamentaux, recherchés dans la suite des siècles autant que dans l'observation des contemporains.</p>
+        <p>La forme de l'ouvrage est une discussion entre amis, quatorze fédéralistes d'éducations diverses; c'est une sorte de concile en pleine campagne, ou, dit-il encore, « le draine intellectuel dont le dénouement est la détermination d'une doctrine. 9 Y.n sorte qu'au lieu d'un cours froid, didactique, on a un livre d'une lecture vivante et colorée. C'est vraiment un volume qu'on désirerait voir dans toutes les mains, parce qu'il peut être entendu par tous les esprits. I.e héros du « drame »■ est, ma foi, fort existant : c'est le fédéralisme luttant nu cours des siècles, toujours écrasé et toujours renaissant.</p>
+        <p>La pensée révolutionnaire, entravée 'par les diverses réactions, est sortie plus puissante des obstacles dressés sur si route; elle se connaît mieux, et sait cnlln ce qui doit être édilié. Quant aux réactions, la bourgeoisie, celte tourbe d'agioteurs, qui leur a donné refuge, les entraînera flans sa ruine ; n'est-ce pas elle qui, en conservant l'idée unitaire et centraliste, a fait persister le principe d'autorité dans la Révolution'.' Maiscelk-ci, qui est science et conscience, et la multitude, qui est poète et artiste plutôt que savante, doivent se retrouver dans l'esprit nouveau, reconstitutif de la liberté, sans, toulelois, perdre le respect des grands hommes, ces précurseurs ou ces organisateurs.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 28 —</p>
+        <p>le mol île Dieu perd tout son (Jauger, aucun aulre ne pourrait le remplacer. »</p>
+        <p>Ce &lt;pfil combat avec une énergie indomptable, c'est la lausse religion, j'entends, et lui aussi, les théocraties qui furent toujours les ennemies des peuples ; c'est elles qui auraient détruit 1 idée de Dieu, si pareille idée n'était indestructible ; c'est elles qui tfnl entretenu ou sanctionné la tradition de ridée unitaire exclusive, de la latnlilé, principe «le tous les despotismes,</p>
+        <p>— cetle idée perpétuée aussi dans notre siècle par la bourgeoisie cupide, débauchée, césarienne, cl sceptique, « d'un scepticisme épais, rusé et brutal, ricaneur, goguenard, benêt. » Contre la doctrine fataliste et contre la bourgeoisie autoritaire, le peuple doit se lever, pour la liberté par le fédéralisme.</p>
+        <p>11 est prudent, en cflcl, «le préciser la pensée «le Hicard. Le lédcralismc n'est pas le séparatisme. 11 s'agit de rendre vigueur et liberté aux provinces, en conservant un organisme central dont le rôle est de veiller aux questions générales.Décentralisation et centralisation sont deux modes nécessaires.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 2() -</p>
+        <p>devant opérer tdmiiltanément, ilnns une action concertée et souple d'harmonie sociale, Mais la centralisation, on en n trop ; il est donc urgent d'organiser le fédéralisme, qui seul peut donner la somme de liberté possible. Toutefois,cette institution, pour être normale et durable, ne peut être fondée que par le quatrième état'Me peuple.</p>
+        <p>Tel est cet ouvrage, véritable programme des décentralisateurs. Le Fédéralisme est le livre de base, la source où les esprits voués aux renaissances provinciales doivent puiser l'idée limpide et vivacc qui, mise en tète d'institutions nouvelles, les lera vraiment logiques, robustes et bienfaisantes.</p>
+        <p>V.n 1881, il accepta la candidature contre Devès dans la 2--' circonscription de Péziers, et se relira au ballolage, par un respect, exagéré, de la discipline républicaine.</p>
+        <p>t^ffcrrnt:</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 3o —</p>
+        <p>septembre 1878), mais très volumineux el pleins de choses curieuses, excellentes, que j'espère examiner prochainement. Il y a, entr'autres, au deuxième numéro, un article : le Midi français, de Hicard, important pour ses affirmations fédéralistes.</p>
+        <p>On peut, du moins, résumer en quelques mots cette action variée et nombreuse de plusieurs années : elle lut l'effort le plus considérable, le plus décisif. île la préparation au fédéralisme ; elle en rassembla sur un point, en un temps donnés, les éléments éparsdnns le passé el dans les provinces; et, pour accomplir nujourd liui quelque chose de bon, de perpétuel, il est indispensable île revenir a ces actes-là, qui ont défriché le domaine où peut désormais s'édifier l'oeuvre fédérale pratique.</p>
+        <p>Louis-Xavier de Hicard avait perdu sa femme, Lydie Wilson, en 1680; elle n'avait pas Imite ans, et ce fut une grande peine qui brisa sa vie. Découragé, il partit, deux ans après, en Amérique.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— Jl —</p>
+        <p>En 1S91, Ricard fit paraître, chez Lcmcrrc, avec une préface, les poésies posthumes, Irançaises et languedociennes, de Lydie Wilson, sous le litre choisi par elle-même ; Au Bord du Lez. Le Lez est un petit fleuve qui passe près de Montpellier. Plusieurs de ces poésies avaient paru dans la Lausclo, sous les pseudonymes de Ma Dulciorella cl Lidia Colonia.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 32 —</p>
+        <p>sait plus même le nombre. Jl mena une très énergique campagne contre le boulangisme. Enfin, en 1897, un différend étant survenu entre lui et la direction de la Dépêche, pour une question de politique locale niontpelliéraine, il donna sa démission de rédacteur et de correspondant du journal, cl revint habiter Paris.</p>
+        <p>coin•i\</p>
+        <p>
+          <pb/>
+        </p>
+        <p>mm</p>
+        <p>m</p>
+        <p>_ 33 —</p>
+        <p>Je ne puis malheureusement, dans cet article limité, faire valoir l'agrément, la variété, et aussi renseignement humain et social, de ces nombreux travaux ; j'ai dû exposer seulement ceux qui livrent la pensée poétique et la pensée fédéraliste, c'est-à-dire la nature intime dérailleur; les aspects multiples, colorés cl neufs, des autres ouvrages, qui donneraient le portrait total, prendront place dans une élude plus développée.</p>
+        <p>Un roman : Alnanien de Datante, dont le héros est un troubadour patriote au temps de la croisade contre les Albigeois (13« siècle), devait raconter, soits une fiction dont tous les éléments sont rigoureusement donnés par l'histoiic et les traditions, la lutte héroïque et désespérée du Languedoc contre l'extermination et l'inquisition catholiques et royales.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 34 —</p>
+        <p>Légendes du Languedoc ; l'Homme de la Lune, En-Tue-Sept-D'un-Coup (Monde Moderne), ont seuls été publics. 11 a aussi un ou deux autres volumes de nouvelles, dispersées dans le Gil Blas, dans des revues, des journaux.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Saint-Amand (Cher). — lmp. l'ivoteau h l/\k</p>
+        <p><pb/> ------------------------------------------------------------------------ ------------------------------------------------------------------------ ------------------------------------------------------------------------</p>
+        <p>&amp;</p>
+        <p>}&gt;.,..</p>
+      </div>
     </body>
   </text>
 </TEI>

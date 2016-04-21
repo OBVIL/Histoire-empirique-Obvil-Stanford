@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
- <teiHeader>
-<fileDesc>
-<titleStmt>
-<author key="Gauthier-Villars, Henry (1859-1931)">Henry Gauthier-Villars</author>
-<title>Quelques livres, année 1895 / Henry Gauthier-Villars (Willy)</title>
-</titleStmt>
-<editionStmt>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quelques livres, année 1895 / Henry Gauthier-Villars (Willy)</title>
+        <author key="Gauthier-Villars, Henry (1859-1931)">Henry Gauthier-Villars</author>
+      </titleStmt>
+      <editionStmt>
         <edition>OBVIL/BNF</edition>
         <respStmt>
           <resp>reprise des textes</resp>
           <name>Amélie Canu</name>
         </respStmt>
       </editionStmt>
-<publicationStmt>
+      <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
         <availability status="restricted">
@@ -22,993 +22,612 @@
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
-<sourceDesc>
-<bibl>
-<author>Gauthier-Villars, Henry (1859-1931)</author>, <title>Quelques livres, année 1895 / Henry Gauthier-Villars (Willy)</title>, <date>1896</date>,description :,94 pages
-</bibl>
-<publisher>Bibliothèque de la "Critique" (Paris)</publisher>
-<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k76339q</idno>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1896">1896</date>
-</creation>
-<langUsage>
-<language ident="fr"/>
-</langUsage>
-</profileDesc>
- </teiHeader>
+      <sourceDesc>
+        <bibl> <author>Gauthier-Villars, Henry (1859-1931)</author>, <title>Quelques livres, année 1895 / Henry Gauthier-Villars (Willy)</title>, <date>1896</date>,description :,94 pages </bibl>
+        <publisher>Bibliothèque de la “Critique” (Paris)</publisher>
+        <idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k76339q</idno>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1896">1896</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-    <div>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>tome 11</p>
-<p>tom~m</p>
-<p>tome IV</p>
-<p>toot~V V</p>
-<p>~«/r&lt;~ ~t'n/Mt'X (TttESSE ET STOCK).</p>
-<p>La AfoMfAf JM C~&lt;-A~ &lt;F&lt;SCHBACHKR).</p>
-<p>Une Passade (F).AMMAR)OS).</p>
-<p>J?M/r&lt;*&lt;~H~/t/~(FtAMMAMOX).</p>
-<p>OUVRAGES EN COLLABORATION</p>
-<p>Lettres &lt;/&lt;* /'OKprt'K~ avec Alfred Ernst (VA~tER).</p>
-<p>~/M~ de Sous, avec Alfred Ernst (S)Mos)s-EMP!s). °</p>
-<p>~Awt'$ et Rires, avec Alfred Ernst (B!B.4&lt;E LA PLUMf). ~fM/o/n'~
-A'&lt;M*MMM&lt;/&lt; avec Léo Tr6zen!k (Ot.LENDORFt). Les Enfants ~'&lt;t~MMN/, avec
-Pierre Veber (StMoxts-Eupts). EN PRÉPARATION</p>
-<p>P&lt;XMMM &lt;lpf// (StMOMS-ËMPtS).</p>
-<p>~t~/&lt;«~ illustrés par Léon Lebègue.</p>
-<p>~MWCMr )~M~t' (CHA!H.EY)..</p>
-<p>OUVRAGES DU ~AfF ~~yF&lt;</p>
-<p>Caw/C-OM (VAX)Et~.</p>
-<p>Z'&lt;4MMt~ ~M~~M/c, tome ï (DEt-AsRAVB).</p>
-<p>Z~/GA~?VOA' DU TV~tGJ?</p>
-<p>2UO ~t'W/t'~ MMMf~T&lt;~ $K~' MMOMt~ /MW.</p>
-<p><pb/></p>
-<p>PARIS</p>
-<p>BIBLIOTHÈQUE DE LA CRITIQUE $o, Boulevard Latouf-Maubour~</p>
-<p>..· t</p>
-<p>Quelques Livres</p>
-<p>M_</p>
-<p>~~Vt)«.</p>
-<p>~MM~ 1895</p>
-<p>HENRY GAUTHIER-VjLLARS fw/z~y</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>AVANT-PROPOS</p>
-<p>On ne trouvera pas, ici, le compte rendu de tous les livres parus dans
-Tannée, ni même des principaux, mais seulement l'analyse de ceux qui
-m'ont été envoyés.</p>
-<p>Du moins chaque fois que j'ai été contraint de semer trop de fleurs
-imméritées sur un roman faiblot, j'ai compensé–Comment ? En nuançant de
-sévérité l'appréciation qu'il me fallait porter sur une œuvre de mérite,
-mais signée d'un nom inconnu. 0 Azaïs 1</p>
-<p>H. G.-V.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>Le Puits de Sainte-Claire</p>
-<p><pb/></p>
-<p>obscurs ouvriers qui sont les traducteurs du XVF siècle, comme aussi
-dans certains contes d'Anatole France, notamment dans le ~&lt;t/H/-&amp;!&lt;~ qui
-ouvre la série.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>ques plaisanteries, garçons de cuisine laissés pour morts, ou confrères
-assassinés jovialement,</p>
-<p>La Vie et les Mœurs</p>
-<p><pb/></p>
-<p>Le Frisson de Paris</p>
-<p><pb/></p>
-<p>aux subtits évanouissements entre deux virages, et la séparation, et les
-émotions changeantes du procès, et la déchéance résignée de Badisteano,
-après le suicide d'un Oscar Wilde bien parisien, titré marquis d'Efnat.</p>
-<p>Ce qu'on ne saurait assez louer, c'est l'âpreté du tableau, en même
-temps que la bonne humeur du récit. L'âme plus ou moins naïve des
-exotiques, avec ses zézaiements, son inconscience, son indulgence aux
-compromis les plus agréablement lointains de l'honneur, l'âme des hommes
-du monde voluptueusement insoucieuse du devoir et de la dignité, sourit
-en ces pages narquoises. A peine si, sur cet entourage faisandé,
-s'estompent t'âme et le sourire adorables de la pauvre petite Samori, la
-danseuse angélique qui se tue par amour, un amour d'élégie pure, douce,
-pour un prince de clair-obscur, qui promène sa gentillesse menue parmi
-la Bessarabie et les Indes. Cet amour de la petite Samori est vraiment
-le seul amour qu'on rencontre dans ce roman, le seul amour qui peut
-croitrc, tranquille et unique, qui peut devenir assez grand pour faire
-mourir, dans ce tourbillon de brèves passades, de fausses passions, de
-désirs trop tôt assouvis, d ennuis exaspérés et de vilenies suffocantes.
-Pour cette petite fille, combien de Catherine Beaujeu, de M" de Culpe,
-d'Hélène Batisteano même pour cette sereine figure du prince Pierre,
-pour ce sombre et noble Mercœur, combien de Lanpessade, d'Effiat, de Bob
-et de Montrejeau</p>
-<p><pb/></p>
-<p>Son admiration n'est pas une admiration lointaine, qui, de très bas,
-timide et apeurée, monte en chancelant vers des âmes très hautes: c'est
-une admiration simplement admirable. Teodor de Wyzewa comprend les plus
-nobles artistes joliment, passionnément. Il entre dans leurs âmes, il se
-les assimile, et d'entendre frémir en lui l'âme de Mallarmé, de Wagner
-ou d'Anatole France, il peut dire la richesse, la splendeur, la grâce de
-ces âmes. Ce recueil, composé de morceaux qui ont paru depuis huit ans
-dans les périodiques les plus divers, dans la AtMM TVd~M&lt;fMM&lt;' parmi des
-estampes brumeuses de Fantin-Latour(pardon, Bouyer') et des contresens
-d'Edouard Dujardin, dans la ~r~'a&lt;' /M~fM&lt;~M/t'. côtoyant des contes
-edgarpoétiques de Villiers et des chroniques d'une grâce maladive
-signées Laforgue, dans la A'DKf ~/&lt;*M&lt;' pour</p>
-<p>Nos Mitres</p>
-<p><pb/></p>
-<p>Cependant les forêts l'appellent, non pour leur sérénité mais pour leur
-enseignement. Ce savant universel croit encore avoir quelque chose à
-apprendre, cet homme qui sait toutes les langues veut étudier une langue
-encore, et cette langue, cette science, il les demande aux arbres
-attendris. Au fond, ces forêts ne sont-elles pas les forêts de Virgile,
-celles où la sœur d'Ariane de quel amour blessée souhaitait reposer son
-corps navré par l'aiguillon d'Eros, celles où Siegfried entendait
-l'oiseau merveilleux enseigner sa jeunesse indécise ? Saint Bernard
-aurait pu écrire, peut-être: « JV/~t/&lt;tm~M /M~CM/M &lt;? silvis yM&lt;!W
-libris; ~/C&lt;M ~H/W &lt;? libris, M&lt;*&lt;'MÛM &lt;M ~PM libros. Dites, Wyzewa,
-d~ns votre amour des forêts, y a-t-il pas un peu de coquetterie
-d'Ecclésiaste ? s'</p>
-<p>Snob</p>
-<p><pb/></p>
-<p>Rédemption</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>de Constantine; il se porta garant pour un malheureux garçon qui, jadis,
-par amour de l'art, s'était embarrassa de dessins d'autrui et que cette
-particularité empêcha de se faire tuer par un monsieur quelconque: sur
-ces faits-divers personnels, il construisit sa Ré (~&lt;M~/&lt;'M~ procédé
-imité de M. Accius Plautus et de Publius Terentius, mais avec la naïveté
-la plus savoureuse et la maladresse laplus touchante, en plus.</p>
-<p>Il nous montre, en une série d'images d'Epinal, Dominique, son
-lamentable héros, successivement infirmier réclusionnaire a Lam'bessa,
-libéré dolent, fils méconnu, assassin pardonné, désespéré pleurard,
-ouvrier acharné, journaliste de génie, ami de pe..it poitrinaire,
-Cancédesœur de poitrinaire, puis, reconnu pour un lâche, chassé de
-partout, repoussé par sa fiancée, par les journaux qu'il a rendus
-prospères, par tous les patrons, et poussé peu peu vers le refuge-abîme
-d'une réunion anarchiste.</p>
-<p>On le voit, c'est ce qu'il y a de plus terrible au monde. Et la lecture
-de VfA/cM~/MM nous laisse persuadés (du moins l'Auteur l'espère), que la
-société est presqu'aussi mal faite que les romans de M. Brulat. Pour que
-nul n'en ignore, en ses ~34 pages, il place des conversations de forçats
-qui, condamnés pour des vétilles, font vibrer du fracas de leurs utopies
-la paix de l'infirmerie de la prison, cependant que Dominique, triste et
-doux, proteste et espère; le romancier nous sert encore les théories
-nouvelles d'un millionnaire anarchiste dissertant sur les injustices de
-la destinée. Sur ces iniquités l'âme languide et vocifératrice de M.
-Brulat s'éplore; elle s'éplore avec tant de conscience qu'il en oublie
-de construire son roman; on se demande pourquoi Dominique n'essaie et
-avec tant de succès! du journalisme, qu'aprèsavoirétérepoussé parles
-ouvriers: c'est peut-être pour témoigner aux journalistes tout le mépris
-qu'a pour eux leur confrère M. Brulat ? Soit.</p>
-<p>Mais où l'auteur triomphe c'est dans les scènes de douceur torpide,
-celle, par exemple, où Dominique se rencontre avec le mari de la femme
-tuée par lui, le malheureux qui, depuis ce crime, traîne parmi l'horreur
-de Fhilippeville une existence d'élégie, de regrets, de douleur et de
-néant. Plusieurs fois le cocu-veuf a fait prévenir son ami qu'il le
-tuerait: Dominique pâlit et s'abandonne; comme dirait Jules Renari, il
-n'attend qu'un signe pour rentrer sous terre; mais le signe ne vient
-pas. Et le mari de s'écrier &lt;: Tout</p>
-<p><pb/></p>
-<p>est fatalité! !e vous pardonne Je vous plains. Allez vous en, vous
-èteslibre!~</p>
-<p>Hé! hé! ne s'appelle-t-il pas Cbarles Bovary, ce pardonneur là? Seul le
-style dinere.</p>
-<p>J'aime, j'aime encore une autre scène, également belle et t&lt;agique, nous
-montrant le protagoniste de /fA/&lt;'Nt~/«)M qui, a deux jours de son
-mariage, vient d'être déshonore par un procès-verbal. La famille de sa
-fiancée l'attend, frémissante. Le père s'érige en justi. cier, en
-bourreau. Intrat Dominique, mais si triste, mais si noble en sa détresse
-et en son désespoir, mais les yeux si joliment ombrés par cette fatalité
-nouvelle que la colère de celui qui aurait pu devenir son beau-père
-tombe, et que sa simili-belle-mère lui murmure, avec la douleur la plus
-digne, la plus amicale: &lt;c Vous comprenez, nous ne pouvons plus vous
-donner Claire pourtant avant de partir, vous mangerez bien un morceau
-avec nous? &amp; Offre partant d'un bon naturel, mais que décline Dominique
-avec la volonté bien arrêtée de ne plus se nourrir que de ses larmes; il
-s'en va, d'un pas pesant, d'un pas résigné, d'un pas résolu. Et son
-frère même qui gagne des monceaux d'or au cercle, son frère ne le
-connaît plus. Lamentable destinée! Livre plus lamentable encore!</p>
-<p><pb/></p>
-<p>Paasé l'Amour</p>
-<p><pb/></p>
-<p>il apprend la trahison; tons les personnages sont des honnêtes gens,
-plus que des honnêtes gens, des héros, ils sont tous la vertu même. Pas
-l'ombre de la plus ténue scélératesse. L'adultère même devient saint,
-s'ennoblit d'une subtile tristesse, de !a conscience ardente et sombre
-de la faute, de la majesté du trépas.</p>
-<p>Espagne et Provence</p>
-<p><pb/></p>
-<p>at</p>
-<p><pb/></p>
-<p>Paludes</p>
-<p>On lit au frontispice: &lt;r Avant d'expliquer aux autres mon livre,
-j'attends que d'autres me l'expliquent. Vouloir l'expliquer d'abord,
-c'est en restreindre précocement le sens car, si nous savons ce que nous
-voulons dire, nous ne savons pas si nous ne disons que cela. On dit
-toujours plus que CELA. Et cela surtout m'y intéresse, que j'y ai mis
-sans le savoir, cette part d'inconscient et que je voudrais appeler la
-part de Dieu. Un livre est toujours une collaboration, et tant plus le
-livre vaut-il, que plus la part du scribe y est petite, que plus
-l'accueil de Dieu sera grand. Attendons de partout la révélation des
-choses; du public la révélation de nos œuvres C'est d'un mysticisme
-coquet, d'une ingénieuse humilité, d'un orgueil exquis, et pour
-s'imposer aux âmes, les pensées et les motss'épandent, merveilleusement
-imprimés sur un papier prestigieux en un format irrésisible, mots doux
-et flous, pensées joliment pauvres et menues, obscures mais humblement
-obscures, et donneuses d'une sensation qui est bien celle que M. André
-Gide a voulu procurer. Il y a même</p>
-<p><pb/></p>
-<p>des instants où l'on se sent un agacement nerveux en lisant les
-conversations vides, les méditations vides de Tityre. J'entends d'ici M.
-Gide, dire avec un sourire tristement triomphant &lt;: N'est-ce pas? ce
-livre, ces instants sont insupportables, cette vie est insupportable ?
-Hé, cher monsieur, ces instants sont vos instants, cette vie est votre
-vie, ce livre est votre livre. &lt;*)</p>
-<p>Livre très joli, très discret, très pénétrant; M. Gide a écrit sur la
-garde, d'une écriture laborieusement pâlie: 27/~M~ 0~'A~M.</p>
-<p>Moi, je veux bien. Et vous ?</p>
-<p>(t) Dans le ~ffn'n'w de novembre t8~, M. Gide écrit ~.t~f/fï, c'est
-l'histoire d'un esprit mal fait. c'est l'histoire de qui ne comprit pas
-la vie. de qui s'inquiète et s'agite pour avoir crn plus d*'&lt;'« chose
-nécessaire. s La glose, d'où j j'extrais ces tignes, pénétrante,
-incisive, exquise, il faut la lire tout entière, et la retire. Ces
-proprement mn charme.</p>
-<p><pb/></p>
-<p>Voyez dans le même volume, ce merveilleux &lt;: Village près de la route où
-le conteur de tant de contes prestigieux s'est révélé conteur plus
-inouï, où, de seconde en seconde, il aiguise l'émotion avec des mots qui
-sont des chuchotements d'Au-~elà, où la science des précautions
-oratoires multiplie les hésitations troublantes, les reculs entrés, les
-&lt;: repentirs &amp; haletants, saisit, prend aux entrailles, subjugue le
-lecteur suant d'angoisse inavouée parmi les précises descriptions de
-cette apparition imprécise, et les calmes sortilèges de ce fantastique
-tranquille.</p>
-<p>Certes, au-dessus du martyre de l'Heautonparatéroumëne s, audessus de
-l'ombre sans tête d'un Peter Schlemihl assassin etchapelier à
-Remy-sur-Oise, s'agite le rire frémissant, inextinguible, de quelque
-divinité méchante, inassouvie de mal, le rire inoublié de Me/'&amp;M~&lt;~A&lt;&lt;ï/
-mais Catulle Mendès ne l'indique pas, il ne nous montre que la passivité
-pantelante des victimes qui se laissent traîner jusqu'au meurtre,
-courbées sans inutile révolte sous les caprices du Destin.</p>
-<p>Et, en ce livre aux habiletés infinies, toutes les caresses du mot, de
-la phrase, tous les frôlements d'un style adorable et pervers sont mis
-en oeuvre pour exaspérer le délicieux frisson de la peur, et en
-précipiter la pâmoison dernière.</p>
-<p><pb/></p>
-<p>Cette ./iK/n'j~KM&lt; l'ceuvre la plus simple et la plus poignante qui ait
-été conçue sur l'adultère, le temps où elle paraît grandit
-singulièrement sa vertu. Après tant de gémissements, tant de variations
-sur ce thème si cruellement connu, après tant d'ennui déversé sans
-mesure sur ce crime devenu simple anecdote sentimentale, le livre de
-Rosny s'affirme plus puissant, et plus intime: long cri de pitié,
-souffrance sans déclamation, éloquence navrée qui parle plus que toute
-dissertation.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Mémoires d'un Jeune Homme</p>
-<p>Henry Bauër semble avoir voulu veiller sur ces souvenirs, leur</p>
-<p><pb/></p>
-<p>enlever tout ce qui n'était pas absolument néëessaire; il a supprimé, je
-crois, tel chapitre, entr autres, où était racontée sa captivité à
-Sainte-Pélagie jusqu'au Septembre. Mais il reste cependant assez
-d'aventures, assez de souffrances, assez de personnages, personnages
-divers, depuis les calicots les plus flous, jusqu'aux fédérés les plus
-hirsutes.</p>
-<p>Les Décorés</p>
-<p><pb/></p>
-<p>Les Gamineries de M. Triomphant</p>
-<p>Dans les descriptions, de petites touches exactes, sures, personnelles,
-décèlent te bon peintre qu'est ce bon écrivain.</p>
-<p><pb/></p>
-<p>x.&lt;</p>
-<p>Le docteur Blanche avait raison. Je cherche en vain, dans .X.</p>
-<p><pb/></p>
-<p>Le Trimardeur</p>
-<p>Un fier livre Du sang, des grèves, des cris, de la mort et de la vie qui
-frémit, grouille, déborde son cadre, déborde tes lignes, déborde le
-livre; toute l'âpreté, toute la fureur d'une âme ardente et fruste,
-magnifiée par un idéal lointain et terrible, toute la hideur d'âmes
-bourgeoises, toute la langueur moutonnante des foules, des meurtres et
-de l'amour, des baisers et des assassinats, c'est la rançon de George
-Bonnamour.</p>
-<p><pb/></p>
-<p>Rien de plus beau que la querelle des pêcheurs ou la scène de tempête
-éclairant la fin d'une bataille, alors que les deux adversaires
-irréconciliés partent sur la même barque, par une nuit sans lune, pour
-sauver ou mourir ensemble, ou la vision du cadavre de de Jagoury
-emporté, sautillant, parmi la ville révoltée, rien de plus éloquent..
-sauf la préface où Bonnamour a fait passer ses rancœurs et ses
-tristesses, où il a montré toute la douloureuse énergie de sa foi et de
-son âme.</p>
-<p>Thôàtreuses</p>
-<p><pb/></p>
-<p>Non.</p>
-<p>La bêtise toute divine des filles et des viveurs est peinte d'une touche
-sobre et nette la distinction (si second-empire) du duc rendue avec un
-peu d'ironique sympathie, l'ignominie inconsciente du cabotin Fabert
-décrite sans indignation, le triomphe de Raymonde dépeint sans amertume
-comme sans enthousiasme. Docu' ment très sûr, avec de coquets dessins de
-Guillaume, rédigé par le mieux informé des courriéristes dramatiques, le
-plus amusant des auteurs comiques, le plus stotque des philosophes
-mondains,</p>
-<p>Couronne de Clarté</p>
-<p>M. Edmond Pilon écrit, excellemment</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Le Chemin Nuptial</p>
-<p>Ce n'est pas bien méchant mais, avec des images somptueuses et une
-déformation savante, avec des mots de lumière et un lourd manteau
-d'obscurité, cela eût donné trois cents verts mal!arméens de belle
-allure. M. Scheffer n'en a tiré que deux cent quatre-vingtquatre pages
-d'une monotonie trop convaincue, d'une tenue correcte et froide, ou
-tiède, qui pis est.</p>
-<p>Style sans netteté, sans couleur, dont la puérilité se guinde au
-maniérisme, malhabile et hésitant comme le livre, le talent et l'âme de
-M. Scheffer,</p>
-<p><pb/></p>
-<p>Le Mystère des Foules</p>
-<p><pb/></p>
-<p>Le Mystère des 7'fK~, est un œuvre de dédain, de rancune, de passion
-hargneuse et haineuse. D'avoir promené son être parmi l'horreur des
-réunions publiques, d'avoir pris la parole en des théâtres ou en des
-granges, d'avoir été copieusement insulté, appelé pourquoi ? w&lt;'M/~ (~)
-d'avoir été battu aux élections par un farinier, et même par cet
-extraordinaire ministre du cabinet Rochebouet qui se nomme M. Welche,
-d'avoir senti autour de lui des trahisons et des bassesses, Paul Adam a
-gardé un ennui profond et fécond, un peu de rancœur et beaucoup de
-sensations plus violentes que nettes. Il a laissé ces sensations
-s'exaspérer et s'envelopper d'un halo prestigieux, d'on ne sait quelle
-buée d'opium, et illes a serties en des phrases-parfoisagaçantes, souv
-entadmirablesphrases de mélodrames, phrases de rêves, phrases de poèmes
-si bien que son livre est l'épopée la plus heurtée, la plus inégale, la
-plus émouvante qui soit.</p>
-<p>Dans une préface importante, il parle longuement de l'émotion de pensée.
-Est-ce vraiment l'émotion de pensée que prouve son livre ? Peuh 1 ces
-hommes, cette masse anonyme, qui tempête, qui se contorsionne en des
-remous, en des cabrioles, ces rires, l'hystérie laborieuse et hiératique
-d'Anne et de Béatrice, la sublimité palote</p>
-<p><pb/></p>
-<p>Rêve blanc</p>
-<p>Rêve blanc, style incolore, pensées ternes. Pourtant, M. Henri Ardel
-n'est point formellement ennuyeux. Son livre, destiné aux &lt; petites
-filles dont on coupe le pain en tartines rappelle les volumes du célèbre
-Jean de la Brète, les ouvrages de l'illustre Léon de Tinseau, et,
-d'ailleurs, ne les vaut pas.</p>
-<p>Une fillette provinciale oh t si candide 1- conduite par son</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Amoureuses</p>
-<p>Ces ~w&lt;wrfMX(' de Camille Pert, c'est deux cousines (point demi-vierges,
-véritables jeunes filles) Andrée et Suzanne, dix-sept et dix-huit ans,
-affolées de &lt;; mondanités &amp;, jolies, dépensières, pas assez riches.
-Elles aiment trop le bal, c'est ce qui tue en elles toute fraîcheur de
-sensations. Elles raffinent, elles compliquent plaisir, Andrée guidant
-Suzanne et lui indiquant par quels trucs un peu simplets on peut goûter,
-avec des danseurs qui s'allument, les subtiles joies du flirt. Après
-chaque soirée dansante, les mignonnes valseuses couchent dans le même
-lit, et recensent leurs impressions dont elles exacerbent l'émoi par le
-trouble ina.eue du frôlage de leurs deux corps. (J'ouvre une parenthèse
-pour constater que la répétition de ce procédé trop commode ne va pas
-sans quelque monotonie).</p>
-<p>Donc, ces deux poulettes vivent en paix, mais un coq survient, Pierre
-Varneau, et voici la guerre allumée. En un accès fou de jalousie Andrée
-tente de précipiter sa rivale dans une pièce d'eau, (mélo, que me
-veux-tu ?) et Suzanne avec une soudaineté un peu bien invraisemblable
-devient effroyablement méchante, torturante, venimeuse, femme-fatale,
-une « poison &amp;, quoi!</p>
-<p>Conclusion: Pierre Varneau reste garçon; elles épousent des valseurs
-riches, avec le projet bien arrêté de les tromper le plus tôt possible.</p>
-<p>&lt;: Son insensibilité est un anesthésique suffisant pour la préserver de
-la souffrance morale. » etc.</p>
-<p><pb/></p>
-<p>Une faute d'impression (p. 353), Suzanne pour Andrée, rend un passage
-peu compréhensible.</p>
-<p>Simoois-Empis vendra beaucoup d'exemplaires de ce livre où sont relatées
-les fantaisies des deux Jolies Filles d&lt;} Pert.</p>
-<p>Le Joyeux SaoriOoe</p>
-<p><pb/></p>
-<p>Le Prisme</p>
-<p><pb/></p>
-<p>Une Nouvelle Traduction de Wagner</p>
-<p>Pour large, elle l'est</p>
-<p>Parfois le contresens tourne au non-sens, par exemple quand une Walkyrie
-qui dans le texte original, déclare &lt;: Nous avons chevauché séparément
-et nous nous sommes rencontrées aujourd'hui s'écrie dans la fantaisiste
-version d'Offoël « Oui bien 1 toutes deux volons par les airs t (p. 100)
-Il arrive aussi que le traducteur prend la tem-</p>
-<p><pb/></p>
-<p>Ah! la musique! On ne m'ôtera pas de l'idée que M. d'OSbël la méconnaît
-aussi complètement que la langue allemande; que n'at-il appris avant de
-traduire Wagner, ce qu'est un membre de phrase musicale, une cadence,
-une demi-cadence! S'il se doutait de l'importance d'un mouvement
-mélodique, on ne trouverait pas dans sa traduction ici, là, ici encore,
-une phrase qui conclut lorsque la ~) M. Jacques d'OBbël en sa préface.</p>
-<p><pb/></p>
-<p>phrase musicale (comme celle du texte allemand) poursuit, ou ~ft'" WM.
-Lui qui déclare sa machine faite « essentiellement en vue du chant ? il
-écrit, dès le d~but du /?/ « Vois comment nous n'~&lt;~MH glissons dans la
-pourpre. ? »</p>
-<p>Je serais curieux qu'un chef d'orchestre fit chanter cette traduction,
-pour « voir comment il ft'nt//&lt;w trouverait la chose. » Et des
-maladresses, comme « Wotan semble presque un grison » qui semblent
-transformer le souverain des dieux en aliboron. Et des obscurités
-rocailleuses comme « Cœur brisé, pend Freia,la pauvre, sur leur échine. »</p>
-<p>Et tant d'autres choses! 1</p>
-<p>Allons, allons, ce n'est pas encore ce pauvre essai qui fera oublier les
-travaux consciencieux, et profonds et si réussis d'Alfred Ernst.</p>
-<p>Trois Poètes</p>
-<p><pb/></p>
-<p>LA MUE AT BOtS BORNANT</p>
-<p>Elle a dormi cent ans, commme en rêve, panni La pensive langueur des
-choses endormies.</p>
-<p>Tous les bruits, sur un mot magique de la Fée Depuis cent ans, aux creux
-des murs sont étouffes.</p>
-<p>Comme pour se donner, dans l'ombre, infiniment,</p>
-<p>Sous le ciel de tendresse et de recueillement</p>
-<p>Elle ouvrit, d'un baiser, ses yeux vers les étoiles.</p>
-<p><pb/></p>
-<p>Xous avons vainement sous les ramilles nues</p>
-<p>Cherché quelque humble fleur, oubliée en chemin</p>
-<p>Et nos sanglots tintaient au cours des avenues.</p>
-<p>ou en petits vers courts et navrés:</p>
-<p>Le léger</p>
-<p>Brick où je suis passager</p>
-<p>Pour un long, très long voyage</p>
-<p>C'est ta Vie. 0 dur mouillage</p>
-<p>Où t'espoir est naufragé</p>
-<p>&lt;. &lt;</p>
-<p>« Le teint très brun, si j'en crois son portraitiste Malpy, les traits
-irréguliers et souriants, les cheveux noirs plaqués en masses</p>
-<p><pb/></p>
-<p>lourdes, les yeux vi&lt;s sous le lorgnon ou voilés de mélancolie, avec,
-dans l'ensemble de la physionomie, je ne sais quel contraste qui décelé
-en même temps de la timidité et une ingénue confiance, tel est André
-Rivoire, l'aimable poète des « Vierges ?.</p>
-<p>Les Veber's</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Fragiles</p>
-<p><pb/></p>
-<p>Le Satanisme et la Magie</p>
-<p>s s</p>
-<p>(&lt;) HaMutourt. ~oK&lt;«&lt;&amp;&lt;.</p>
-<p><pb/></p>
-<p>Curieuse, bien curieuse, l'attirance de Bois vers l'Etre de néant qui
-peut donner la vie, vers l'Être de désolation qui peut donner toute
-volupté, vers l'Etre de misère qui peut donner toute richesse, et dont
-les plaies nous apparaissent peintes et plaintes avec du sang, avec des
-larmes. A travers des figures un peu bien correctes, un peu bien
-affadies par Henri de Malvost (qui eut tort de ne pas leur conserver
-toute l'horreur violente des estampes du Tarot auxquelles furent
-demandées leurs attitudes) l'évocation se poursuit, continue,
-perpétuelle, du Mauvais bienveillant et propice, du Malheureux toujours
-souriant; et autour de lui, derrière lui, hideuse et pitoyable, se
-déroule la théorie de ses fidèles, de ses amantes, les mages et les
-sorcières, l' « Anarchiste et la Fée, la Femme, démon et ange, mais plus
-souvent démon, dans un fouillis de serpents et de crapauds, cependant
-que l'air s'empuantit d'effroyables relents émanés de festins ou l'on
-mange la chair humaine, et que résonnent de sombres litanies, des
-soupirs rituels, des rires cabalistiques et des paroles qui font mourir.</p>
-<p><pb/></p>
-<p>En tous cas M. Jules Bois a écrit un livre d'irrésistible attrait pour
-ceux, chantés par Yvanhoë Rambosson « dont l'âme s'est ouverte au vent
-des défaillances ». Ma's que son Diable fait donc de façons pour
-appa*'aitre, et promettre beaucoup, et donner peu de chose Le Bon Dieu
-est d'un abord plus aisé.</p>
-<p>Pays et Paysages</p>
-<p>Les hôtels déserts, les vallées vides et les bals pleins où saute la
-maladie, il nous les montre en une page horriblement savante, digne d'un
-Holbein qui aurait lu les traités de médecine littéraire composés par
-Maurice de Fleury. Puis voici Monte-Carlo et Montauban, des bouquets de
-roses et des poitrinaires, des musiques militaires et des coccinelles,
-des solitudes et des douleurs et des tendresses. Oh 1 l'admit~ableMidi
-sans fâcheuse exubérance, sans odieuse gaité, grave, un peu
-dédaigneusement mystique et presque silencieux I Oh les admirables
-poèmes en prose où sont peints ces paysans qui labourent, et ces
-paysannes qui lentement dev iennent voyantes, puis, un beau iour, s'en
-vont prier très loin et murer leur enthousiasme en un couvent, avec
-l'ennui de n'être pas encore mortes et de ne pouvoir jouir, en leur
-humilité, des gloires sans fin et du repos de conscience qu'on a près de
-la Bonne-Dame. Pages tombées de ~cr/M~c/A? &lt;~ Lourdes ce « mystère &amp;
-simple, touffu, grouillant, vivant, parfumé de l'odeur forte de la
-terre, et de l'encens subtil des cathédrales, pages''glissées des ~M/
-cette tragédie rurale où la voix de la</p>
-<p><pb/></p>
-<p>!!4</p>
-<p>Le Midi bouge</p>
-<p><pb/></p>
-<p>Le Dernier Bohème</p>
-<p>Protégé par un séminariste qui a pour frère un garçon de café. le
-dernier bohème habite la brasserie, rime des vers stupides, adore des
-traînées qui se fatiguent rapidement de sa dèche, bref, il fait tout ce
-qui concerne son état. L'auteur mêle en une incohérente salade Rodolphe
-Salis, le pauvre Dubus, Barré, Lebiez, Jules Lévy, des réclames pour un
-café laborieusement renaissant, des oraisons funèbres sur des caveaux
-fermés par autorité de justice, du vieuxneuf, des antiquités
-maladroitement retapées, du toc, tout un ensemble de truismes hagards,
-de lieux-communs, de ficelles usées, de suicides qui ratent. Le style ?
-Un reporter de feuilles départementales en rougirait.</p>
-<p>Et le buste de Murger s'attriste toujours parmi le Luxembourg. jusques à
-quand ?</p>
-<p><pb/></p>
-<p>La Police et les Chouans</p>
-<p><pb/></p>
-<p>Les Gens Chies</p>
-<p>Je tiens Gyp pour un grand philosophe, écrivait jadis Anatole France. Et
-si l'on me demande comment je t'entends, je répondrai que je l'entends
-comme il faut. Est dit philosophe, celui qui recherche les enets et les
-causes. Ce n'est point proprement la manière de Gyp. En fait de causes,
-Gyp n'en connait guère qu'une c'est celle qu'on appelle poliment l'amour.</p>
-<p>Le livre est découpa en dialogues incisifs, narquois, savoureux, que
-rehaussent de&amp; enluminures violentes. Mais pourquoi ne railler chez les
-G&lt;~ &lt;*A«'~ que l'admiration naïve de Georges Ohnet et de Marcel Prévost
-? Autrement piquante et vraie serait une étude sur leur enthousiasme de
-commande pour les livres de Mallarmé, d'Anatole France, de Gyp, qu'ils
-achètent beaucoup, qu'ils lisent peu, qu'ils ne comprennent pas du tout.</p>
-<p><pb/></p>
-<p>Flottille dans le Golfe.</p>
-<p><pb/></p>
-<p>Minutes d'Orient</p>
-<p><pb/></p>
-<p>Chants de la Pluie et du Soleil</p>
-<p>Ce livre d'Hugues Rebell donne la sensation d'une ruée formidable hors
-des ténèbres, hors de l'inconscient, hors du néant, vers la lumière
-frémissante et pantelante, vers la Beauté et vers la Vie. L'auteur y dit
-ses lentes et ardentes promenades parmi la misère, parmi la nuit
-doucement grise, parmi le mystère du soleil et le mystère de la pluie il
-égrène les litanies de la Vierge et celles de l'action, il s'abime en
-prières et en désespoirs, et partout, en chaque poème, en chaque conte,
-le même enthousiasme brûle, et la même inquiétude, cependant que
-passent, mélancoliques et hautaines, des prostituées chères, des Idées
-fuyantes et royales, qui glissent de</p>
-<p><pb/></p>
-<p>Le Débutant</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Souvenirs d'un Auteur Dramatique</p>
-<p><pb/></p>
-<p>D'ailleurs beau papier, bonne impression impression typographique ~'entend.</p>
-<p>P.-S. N'empêche que cette peste de Jacques du Tillet a déniché. de vieux
-articles de Becque où Claretie était loué, et Sarcey également, et
-Crisafulli lui-même</p>
-<p><pb/></p>
-<p>Le Livre de Marguerite</p>
-<p>Aujourd'hui,</p>
-<p>C'est la même chanson toujours, et la même âme,</p>
-<p>Ces vers, ces hymnes, la figure de l'Aimée les illumine doucement. Oh
-ces traits qui dénent la ténacité de tout pinceau, qui tremblent, qui
-hésitent.paupières qui veulent être closes pour que n'aveugle pas leur
-regard de sérénité implacable et de flamme clémente.</p>
-<p>Le poète chante toujours, chante son inquiétude et son apaisement, le
-poète qui aime Verlaine, André Chénier, Jean Racine et Virgile.
-Lentement, le cycle se déroule, l'histoire se termine, cette histoire
-d'un cceur amoureux et triste, cette histoire de l'Ame humaine, cette
-histoire qui, derrière le plus beau et le plus clair symbole, conte les
-espoirs et les douleurs des meilleurs de nous.</p>
-<p><pb/></p>
-<p>Flavie</p>
-<p><pb/></p>
-<p>déçue) choisir de petites choses pour les emporter au fond de l'Aus.
-tralie dont on ne revient pas. Petits mystères du cœur, petits coins de
-tristesses, acuité de sensations extraordinaires. La fable est simple à
-souhait un mariage manqué, une brouille de deux frères, un contrat rompu
-pour cause de manque d'apport, et un départ, rien de plus.</p>
-<p>Mais autour de ces médiocres contingences, des sourires luisent
-doucement, des confidences d'arbres qui 'se penchent, chuchotent, et
-l'on entend frémir le murmure infini des étoiles.</p>
-<p>Le Musicien Aveugle</p>
-<p>C'est encore un roman russe et l'auteura été, toutcomme un autre, exilé
-et proscrit politique, neuf ans, sans savoir pourquoi. Il a connu la
-froide implacabilité des rescrits impénaux et trouvé du génie dans les
-steppes glacées du désert d'Iakoutsh. Il nous apparaît avec cette
-douceur, cette perpétuelle émotion, ce regard vacillant sur les misères
-humaines que nous connaissons depuis que M. de Vogué traduisit, du
-russe, des idées vaguesen style noble et des idées nobles en style
-vague. Les années qui s'écoulèrent depuis cette époque lointaine nous
-donnèrent des hommes pour qui le moindre</p>
-<p><pb/></p>
-<p>roman slave est un objet d'horreur. Sous le prétexte que Ronsard jadis
-eut du génie, ils refusent tout intérêt aux prédications du comte Léon
-Tolstoï. Ronsard eut, en effet, du génie, et cela n'empêche pas Tolstoï
-d'en avoir. Parmi les œuvres multiples de Dostotewski certaines vibrent
-d'une vie émotionnelle extraordinairement puissante, si d'autres rampent
-molles et fades comme les romans de Madame Durand-Gréville.</p>
-<p>Thulé des Brumes</p>
-<p>Le public deviendrait-il plus intelligent ? H iaut le croire puisqu'on
-va publier une seconde édition de T~M/M Z~MW&lt; œuvre ancienne que M.
-Adolphe Retté a dépassée depuis, en sa course yers le Mieux, mais pour
-laquelle j'ai conservé, toujours, une particulière tendresse.</p>
-<p><pb/></p>
-<p>Cette mystérieuse et baudelairienne ?'AK~ n'est que la cité intérieure
-qu'habite le Songe, prince hautain et solitaire et le livre, plein de
-frissons nouveaux, où .l'artiste depuis peu réveillé consigne son rêve,
-c'est le miroir des légendes toutes subjectives. Une curieuse citation
-d'Egœus manifeste nettement cette transposition complexe qui rend le
-songe palpable comme la réalité, et la réalité fumeuse comme le songe</p>
-<p>Ce sont choses crépusculaires</p>
-<p>Des visions de fin de nuit</p>
-<p>et le véritable auteur d'une pareille hallucination écrite, c'est la
-Folle du logis, dont s'est toujours un peu méfiée la clarté latine c'est
-la reine Fantaisiequi règne auxbleusnocturnes de Shakespeare, de Gérard
-de Nerval et de Henri Heine.</p>
-<p><pb/></p>
-<p>Le pauvre est revenu de t'Au-det&amp;.sain etsauf.aprèslavieéperdue,
-anormale et grandiose du haschich comme Faust, le haschichin est sauvé.
-Un miracle l'a défendu contre l'abîme prohibé de l'Art triste et de
-l'Ivresse solitaire.</p>
-<p>« Le bonheur se fait avec des rèves ». Et quand le péril est passé,
-lorsqu'elle redescend dans la vie qui est l'action, l'âme est libre de
-garder en elle la mémoire de son expérience et l'émoi du souvenir.</p>
-<p>« En marche vers un grand soleil blanc couronné de rayons d'or, à
-travers des nuages noirs un étrange vagabond surgit, fixant l'astre
-d'une candide audace, éclairant la nuitdu flamboiement barbu d'un menton
-provocateur Ainsi M. Clémenceau décrit la couverture qu'élabora Steinlen
-pour ce Bsedeker libertaire D~Af~a~MM~tH, avec retour. Ce vagabond, ou
-mieux ce C&lt;w&lt;~«*~ &lt;~M BfOM~&lt;K&lt;? &lt;~ft'M&lt;/K f~t' son cadre, comme l'a
-dénni Laurent Tailhade, c'est Zo d'Axa.</p>
-<p>Ce qu'il conte ? C'est la police parisienne et la magistrature,</p>
-<p><pb/></p>
-<p>celles aussi des pays limitrophes, réunissant leurs brutalités contre un
-homme de lettres coupable d'avoir admiré feu Ravachol plus que Quesnay
-de Beaurepaire. (Je ne les aime ni l'un ni l'autre, mais mes préférences
-ne sont pas en jeu ici).</p>
-<p>A travers le monde, sans trêve, il poursuit sa course hâtive, le Juif
-Errant de l'FM dehors, Zo d'Axhaverus 1</p>
-<p><pb/></p>
-<p>En une langue sobre et nette, avec des phrases claires comme un reflet
-de cuirasse, le lieutenant de Milly-Tréfontaine nous dit les impressions
-du jeune officier enorgueilli de ses premiers galons, son entrée dans la
-« Grande Famille sa passade et, quand sa théâtreuse (Marsa, de l'Odëon),
-l'a trompé, les chastes tendresses, si brèves, où son cœur s'épure.</p>
-<p>On trouve plus et mieux dans ce livre où, sans pose, sans morgue,
-l'auteur sème des réflexions qui en disent long sur la psychologie
-militaire d'aujourd'hui</p>
-<p>&lt;&lt; Il n'y a plus de ~t/H$ il n'y a plus que des Français armés et c'est
-peut-être pour cela qu'il n'y a plus de soldats dans le vrai sens du
-mot. Nous avons perdu les qualités d'une élite, pour prendre les défauts
-d'une foule.</p>
-<p>« Il n'est pas toujours commode de persuader au soldat que l'officier
-n'est pas son maitre. Aussi doit-on saisir avec empressement les
-occasions de lui prouver que, si la discipline est toujours rigide, elle
-n'est :amais dépourvue d'intérêt et même de tendresse pour ses plus
-obscurs subordonnés ».</p>
-<p>Journal d'un Offioier de Cavalerie</p>
-<p>La verve narquoise de ce livre, son ongtnahté désinvolte, tous l'ont
-proclamée. A ces qualités (précieuses, certes, mais littéraires, sans
-plus) je préfère l'âpre éloquence d'un chapitre merveilleux, ~Mï ~M/, où
-Zo d Axa manifeste qu'il lui déplairaLt fort d'être confondu avec les
-prometteurs de pain gratuit et les reconstructeurs bien intentionnés de
-la Société future, avec les assoiffés d'harmonie universelle et les
-bouifs obstinés au ressemelage d'utopies éculées depuis t8~8. Pas de
-Ca-bêtise 1 Non seulement les lois étouQantes d'aujourd'hui, mais aussi
-les théories idéalement formulées pour demain lui répugnent car si rien
-ne l'attache plusau présent, l'avenir, pour lui, ne se précise pas
-encore. Destructeur, soit entrepreneur de bâtisse, jamais</p>
-<p><pb/></p>
-<p>Une Évasion</p>
-<p>M. Gaston Deschamps, qui a écrit pour ce livre bien petit une notice
-bien longue, a eu raison d'ajouter au titre cet éclaircissement
-Souvenirs de 1871 &amp;. On se serait peut-être demandé de quelle geôle
-avait dû s'enfuir M. Burdeau, ou l'on aurait cru qu'il s'agissait d'un
-petit roman.</p>
-<p>Voici l'histoire</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>fessante que celle du campdejLechfeld et il serait curieux de la narrer,
-maintenant que Burdeau a disparu depuis plus d'un an, Mais qui la pourra
-conter ? Monsieur Gaston Pesebamps ? Vous voulez rire</p>
-<p>Flamboohe</p>
-<p><pb/></p>
-<p>Tout ce que je puis ajouter, c'est qu'il y a, dans cette prose, bien
-assez de poésie pour mon goût.</p>
-<p><pb/></p>
-<p>Le « Richard Wagner » de H.'S. Chamberlain</p>
-<p>Cependant, nous ne connaissons que bien imparfaitement la vie, la
-carrière, et surtout l'évolution psychologique de ce dernier né parmi
-les grands hommes de l'Allemagne. Des malentendus, des erreurs, des
-mensonges même se sont propagés depuis cinquante ans, cherchant à
-obscurcir la lumineuse figure de Wagner, créer un courant de légendes
-savamment haineuses. La rancune des médiocres est tenace!</p>
-<p><pb/></p>
-<p>Simple histoire</p>
-<p>Certes, il faudrait tenir en médiocre estime littéraire quiconque ne
-serait pas capable d'apprécier « la Sdélité caractéristique, la
-précision pittoresque, la justesse pénétrante du sentiment alliée~ un
-tact exquis dans l'expression ? tous les mérites si peu communs</p>
-<p><pb/></p>
-<p>constatés dans le livre de Paul Marguerite par le judicieux bibliographe
-de la JP~pw bleue.</p>
-<p>Paul Margueritte aime les chiens le Rhamsès gris, tout d'argent sous la
-lune, dont les yeux trop intelligents regardent Jeannie, nue, s'ébattre
-dans la fraîcheur de la cascade, si perspicaces, si humains qu'ils
-inquiètent la jolie baigneuse</p>
-<p>l'admirable dogue d'Ulm, souple et féroce, poignardé par M. de Feul</p>
-<p>Il aime aussi, tendresse plus rare, les mendiants « l'Homme altéré ))
-dont les yeux de vieille eau bleue ont cet honnête aspect des rôdeurs
-qui ne sont pas de mauvaises gens le père Potet, qui sarcle les allées
-tristement, patiemment, pendant des heures le vieux vagabond, blanc de
-poussière, pâle de peur devant l'assaud'un dogue furieux, et dent la
-barbe, d'un mouvement mécanique, tremble sur la poitrine~ l'épileptique
-recroquevillé sur le talus, les cuisses et les coudes serrés, le dos
-bas, dans un écrasement de détresse et les pauvres diables que moleste
-le gardien du Luxembourg pour ce qu'ils se sont endormis sur un banc du
-jardin, par mégarde.</p>
-<p><pb/></p>
-<p>Sous la fenêtre</p>
-<p>Aux récents volumes, capteurs du succès, qui s'envolent revêtus de son
-heureuse firme,</p>
-<p><pb/></p>
-<p>instructifs étonnements d'un sauvage « comment peut-on être sauvage ? »
-qui s'enart: devant les lenteurs du Parlement et les rapidités de la
-Correctionnelle il oppose au luxe de la belle Otero, la dèche d'un poète
-qui, sur un banc des Champs-Elysées, « grelotte sans se souvenir que,
-quelques lignes auparavant, le temps est déclaré « très doux » il narre
-de frissonnants coups de baccara J'attendis que le banquier eut passé
-trois fois, puis, croyant le moment propice, j'exposai mon louis sur le
-tapts. Le banquier abattit (a) sept, nous n'avions que cinq, j'étais
-perdu. Alors j'avançai (b) mon louis du hout de l'ongle. enfin je fis le
-coup de la poucette. On me rendit dix francs, etc.</p>
-<p>I! nous révèle le vieux travailleur dont la gosse devient fêtarde,
-tragique antithèse que La Rochefoucauld (si ce n'est lui c'est un
-confrère) a résumée en cet axiome &lt;; Souvent un homme de peine engendre
-une fille de joie. »</p>
-<p>Et le style</p>
-<p>« Il reprit, d'une voix si sourde qu'elle semblait sortir du plus
-profond de ses entrailles. » Le pétomane, alors ? ;e « Le souffle de la
-jeune femme devenait plus rapide, sa poitrine se soulevait davantage
-sous les battements, de plus en plus précipités de MM cœur. Au premier
-baiser elle tomberait dans ses bras, » S'embrasser soi-même, pas commode</p>
-<p>Puis, cette confidence diurétique</p>
-<p>« C'était Gabrielle, la petite brune, qui cascadait (w) sous la table &amp;.
-Fi, la sale i</p>
-<p>N'insistons pas. Parmi ces histoires cotonneuses, une seule se tient à
-peu près, Z&lt;? Raté, sans doute une autobiographie.</p>
-<p>(a) 11 a du culot, ce banquier, d' abattre sans avoir 8 ou</p>
-<p>(b) 0 candeur an grec t avance sa mise quand la banque petd, mais le
-tricheur de M. Bratat doit, lui, &lt; reculer son louis, qui, partagé par
-la ligne tracée sur le tapis vert, ne « va plus que pour moitié.</p>
-<p><pb/></p>
-<p>Les Jeunes</p>
-<p>C'est un mensonge.</p>
-<p>Huysmans, dont le « très curieux et très remarquable /?M ~M/&lt;' a une
-réelle valeur d'art. »</p>
-<p>Maurice Barrès, qui, « avec son livre ), d'un art très personnel, reste
-dans la meilleure tradition française. »(De la part duclassique Doumic,
-nulle louange n'est plus belle).</p>
-<p>Léon Daudet a « de l'imagination, de la vigueur et du stylé. C'est
-quelqu'un, »</p>
-<p>Henri Lavedan « au don de la justesse et de la pénétration joint la
-légèreté et le brillant de l'expression, la verve comique et i ironie. »</p>
-<p>De François de Curel « doué de très pénétrantes facultés d'analy&lt;-ë.
-l'imagination romanesque se traduit par des images saisis-. s: ntes ».</p>
-<p><pb/></p>
-<p>d'ailleurs, que l'on peut différer d'opinion avec mon ami Doumic, par
-exemple quand il stigmatise chez les Rosny « la complète absence du
-sentiment de la forme », ou quand il trouve « plus de tendresse que de
-force a dans les poèmes du puissant Vielé-Gntnn, ou encore quand il
-turlupine Maeterlinck de qui le drame /~&lt;M J~MM~c lui semble « L'école
-&lt;/t'wm~ dans le cadre d'un opéra de Wagner » définition injuste, mais
-charmante tout de même.</p>
-<p>Aux jobards échauffés qui pensent avoir tout dit, quand ils ont traité
-René Doumic de « réactionnaire M je conseillerai la lecture des pages où
-l'auteur, parlant de.la tentative des jeunes poètes, indique avec une
-netteté lumineuse comment la conception de leur poétique, très
-différente du lyrisme romantique et de l'objectivité parnassienne,
-légitime et même exige une réalisation fondée sur une technique
-absolument différente, et qui ne saurait se passer de profondes
-modifications formelles. Comme ce prétendu réactionnaire préfère les
-poètes d'aujourd'hui, la persévérance et la continuité de leur eftort,
-aux écrivains de théâtre, contraints d être très conservateurs par les
-conditions mêmes de leur art « qui a fait son temps ? Et comme, après
-cela, je le trouve en droit de blaguer les Jeunes aux tempes
-grisonnantes qui refusent de trahir leur rêve en le traduisant, les
-penseurs qui auraient révolutionné le monde s'ils l'avaient voulu
-(lanturlu), les nouvelles couches qui sont de fausses couches.</p>
-<p><pb/></p>
-<p>Les « Sur-Humains »</p>
-<p><pb/></p>
-<p>dans le thre de M. Jean Izoulet, philosophe lyrique. de nombreuses
-taches et trop souvent du pur galimatias: il n'est pas rare d'y trouver
-des mots tels que: /~M/M~ Jt'fc«p~'Hr. /MC.v/'rt'M/A//&lt;A\ !&lt;7~ /wMOf/&lt;A'
-ceux-là, n'en douter pas, ne sont pas de ~t. Firmin Roz, de qui j'ai lu
-autrefois dans 1 &lt; Vf'&lt;' de très intéressantes et très tines études sur
-Schuntann. \t. Ixoutet en est, pour lui emprunter un de ses coquets
-néologismes, le « découvreur » responsable, car it ignore que te sens d
-une phrase jaillit du jeu des mots et non de leur alignement; par ta, sa
-traduction, pour être littérale, n'en est que plus faible.</p>
-<p>Bêtes et Gens de Lettres</p>
-<p>En ce livre un peu narquois sont portraicturés maints animaux illustres,
-ou qui mériteraient de l'être</p>
-<p>Le chien célébré par Ernest Renan qui, ayant remarqué qu'on faisait
-maigre chez ses maitres le vendredi, cachait des os le jeudi</p>
-<p><pb/></p>
-<p>Le cabot-gueux-de-marque. joie de Cladel, qui fut béni par Béranger,
-compissa la culotte gris perle d'Alfred de Vigny et prit Lamartine pour
-un épouvantaH</p>
-<p>L'inoubliable Hamilcar- orgueil de la race féline qui, « d'un bruit de
-gorge pareil au chant d'une bouiUoire &amp; accompagne tés platoniciennes
-dissertations du divin Anatole France.</p>
-<p>Mais garde-toi, ami Docquois, de croire Mime un personnage de h M~t/c
-Le~Nibetungenxwerg parait dans l'Or (/K TfA/M et dans ~&lt;t~r/t'&lt; Point
-ailleurs.</p>
-<p>-7;</p>
-<p><pb/></p>
-<p>Brunetière (Ferdinand) 48, 84 B~M. 7 Rurdeau.73. 74,75</p>
-<p>(:</p>
-<p>CaiUavet(Gastunde) Car)yle.33,84 Céard (Henry t. 1~ ChaUetnet-t~acour.
-74 Chamberlain &lt; Houstun-</p>
-<p>Stewart).77,78 (.hambige (Henry) m Charpender 28 C~~A~ 64 Chenier
-(André). (? Cherbuliez Victor) 29Chevrillon 13 Cladel (Lëon) 86 Claretie
-(Jutes). 63, 64 niaudien. 6~ ~tétnenceau. 7U ~témentine( Princesse). 6U
-~oppée (François). 5~ Honte (Edouard). 21 ~orday (Miche!). 8U ~ourteline
-(Geotges) 3U, 86 .:nsafulli. 64 ~f/~M~ (Z(f~ 77 :urel François de) 8~ t)</p>
-<p>)ante 31. 61 )arwin. 19 baudet (Alphonse) 55 laudet (Ernest) 56 'audet
-(Léon). 13, 8~ 'egas. ?</p>
-<p>INDEX</p>
-<p>Adam (Pauh. 36, 37. a~~ Ii' Alexandre (Roi) 60 ) Atex:s(Paat). 16 Amie
-(Henri) 56 Ardel (Henri) 38 Arëne(Pau!). M Auguex(M"~). 55 Auriol
-(Georges). 3U</p>
-<p>Axais. 6</p>
-<p>B</p>
-<p>Rach&lt; Jean-Sébastien).. 1. Baedeker. 7U ¡ Bakounine 19 Batzac. Baret. 84
-Barré. 55 Barrès (Maurice) 34. 36. 74. 8~ Baudelaire (Chadesh M n Baudry
-de Saunier. 61, 62 &lt; Bauer (Henry). ~7, 28 &lt; Becque (Henry) 63 &lt;
-Beethoven. 13 &lt; Béranger. 86 ( Bernard (Tristan) 30 ( BiU Sharp 8U (
-Blanche (Docteur). 30 &lt; Bois(Jfu!es).5l,53 ( Bonaparte. 7, 10 Bonnamour
-(Georges). 18, 31 Bonnefon (Jean de) 59 E Bourbon (François de).. 21 1
-Bouyer (Raymond) 13 l Brète(JeandeIa) 38 D Bruckmann (Hugo) 78 D
-Brulat(Paul) 15, 16, 17, 80, 81 D</p>
-<p><pb/></p>
-<p>Goudeau (Emile) 86</p>
-<p>Gfasset. 28</p>
-<p>Guaita (Stanislas de). 3?</p>
-<p>Gugenheim 36</p>
-<p>GuHIaume (Albert) 33, 48, 80</p>
-<p>Guyau M</p>
-<p>Gyp. 57</p>
-<p>H</p>
-<p>Haraucourt (Edmond). 51</p>
-<p>Harel (Faut). 86</p>
-<p>Heine (Henri). 69</p>
-<p>Hendnch. 78</p>
-<p>Hepp (Alexandre). 59, 60</p>
-<p>Heredia (José-Maria de). 48</p>
-<p>Herkomer. 78</p>
-<p>Hermant (Abel) 11</p>
-<p>Hervieu (Paul) 82</p>
-<p>Herz (Cornétius) 36</p>
-<p>Hervitty (Ernest d') 47</p>
-<p>Hugo (Victor). 62</p>
-<p>Hugues (Clovts). 86</p>
-<p>Hume 74</p>
-<p>Huysmans(J-K.) 58,83</p>
-<p>1</p>
-<p>Ibsen. 68</p>
-<p>Ingres 78</p>
-<p>Isabelle (Reine). 21</p>
-<p>Izoulet-Loubatières (J.-</p>
-<p>B.-J.) 84, 85</p>
-<p>J</p>
-<p>Jaubert (Ernest) 68</p>
-<p>Jossot 63</p>
-<p>Jourdain (Frantz) 28, 29</p>
-<p>K</p>
-<p>Kaempffer 78</p>
-<p>Kahn (Gustave) 60</p>
-<p>Kant. 34, 74</p>
-<p>Korolenko. 67, 68</p>
-<p>L</p>
-<p>Labruyère (Georges de). ?</p>
-<p>Laf6tte (Paul) 14</p>
-<p>Laforgue (Jules). 13</p>
-<p>Lamartine 45, 63, 86</p>
-<p>Lambelin (Roger). 56</p>
-<p>Peroulede (Faut) 73 Descartes. 13, 74 Descaves (Lucien). 67 Deschamps
-(Gaston) 73, 74, 75 Desjardins (Pau!) 39 Dickens (Charles) 13 Docquois
-(Georges) 85, 86 Dostoiewshi 18, 68 Dounuc(René) 10 62, 82, 83 Dreyfus
-(Abraham) 63 Dubus(Edouard). 55 Dujardin Edouard) 13 Dumas (Alexandre!
-63 Dupont(Paul). 73 Durand-Grévi!!e(~t" ) 68 Dusautoy 52 E</p>
-<p>Emerson. 85 Ernst (Alfred) 43, 45 F</p>
-<p>Fantin-Latour 13 Farandole (Guy de la). ? réneon (Félix) 65 Ferdinand
-(Prince). 60 Fiât (Paul). 21 Fleury (Maurice de). 53 Florian. 55 Foley
-(Charles) 5(! Fouché. 56 France (Anatole) 7, 8, 9, 13 55, 57, 60, 86</p>
-<p>Franck (Alphonse). 59 Frenz. 78 Fuster (Charles). 45 G</p>
-<p>Gabriel. 36 Gandara(dela) 56 GavaMlt(P~ui). 14, 15 Gay (Delphine) 10
-Gebhardt 9 Germain (Auguste 32 Gide (André) 22, 23 Goethe. 61 Gogol 68
-Go)schmann(!.éon). 68 Concourt (Edmond de). ~8</p>
-<p><pb/></p>
-<p>Lamoureux 43 Lano (Pierre de). 80 Lanson (Gustave) 62 Laprade (Victor
-de). 4&amp; Larroumet. 63 LaRounat. 65 Larousse. 20 Lavedan (Henri) ?
-Lebiex. &amp;5 Leclaire 36 Leconte de Liste. 47 Le GofSc (Charles 19
-Lemaitre (Jutes).. 48, 6~ Lenbach (F, von) 78 Lépine (Madeleine) 47 Levy
-(Jules) 55 Lorrain &lt;Jean). 50 M</p>
-<p>Maeterlinck (Maurice).. 28. 34 83.85</p>
-<p>Magron. 60 Malpy 47 MalIarmé(Stéphane). 13, 28 M, 57</p>
-<p>MaUieux(Fernand) 68 Malvost (Henri de) 5t Manuel (Eugène) 47
-Margueritte(Paut). 79 Martel (Nancy) 63 Massa (Marquis de) 80 Mauclatr
-(Camille) 34 Maurras(Charles)80. 31. 54, 60 62, 68</p>
-<p>May~rier (Raymond) 55 Mazel (Henry). 58 A~~w~M~w. 43 Mendès (CatuHe) 24
-Michaël. 62 Michel Ange 7 Michelet. 52 Milan (Roi) 59, 60
-MiMy-Tréfontaine. 72 Mirbeau (Octave) 22 Mirmaa 54 Mistral (Frédéric).
-55 Montesquieu 86 Moréas (Jean). 68 Moreau-Vauthier ~Char-</p>
-<p>les) 29</p>
-<p>Morhafdt (Mathias). 6&amp; Mortier (Alfred). 43 Murger( Henry). M X</p>
-<p>Kervat (Gérard de). 69 Nietxche.74.84 0</p>
-<p>0&lt;ïbët (Jacques d ) 43, 44 Ohnet (Georges) 16, 3!&lt;. 57. 81 Otero. 81
-Ouvreuse du Cirque</p>
-<p>d'Eté (L) 4~ P</p>
-<p>Parisse. 36 Péchoin 36 Péladan (Joséphin) 32 Pellisssier (Georges). 78
-Pert (CamiHe). 40 Pilon (Edmond). 33 Platon 60. 74 Plautus. 17 Pion 29
-Poincarré 55 Prévost (Marcel) 57 Pouvillon 53, 54 Pugno (Raoul) 56 Q</p>
-<p>Qjtesnay de Beaurepairc 71 Q.aintilien 6~ R</p>
-<p>Rabelais 34 Racine 55. 65 Raffet 80 Rambosson (Yvanhoê) 53 Ravachol. 71
-Raynaud (Ernest) 68 Rebell (Hugues). CO, 68 Redon (OdUon) 28 Regnier
-(Henri de) .34, 46 Renan (Ary) 20 Renan (Ernest). 13, 85 Renard (Jules).
-17, 30, 50</p>
-<p><pb/></p>
-<p>Renoir. 28 Retté (Adolphe). 68, 69, 70 ~pM&lt;?JM'M&lt;' 13, 79 ~fcPKC
-/«&lt;f~&lt;'H~&lt;tH&lt;t' &lt; 13 J?t'PKt* ly~M~M~MMf. 13 Richepin Oean~ 75, 76</p>
-<p>Rivo:fe(Andr~ 45, 48</p>
-<p>Robert (Louis de) 50 Rochefoucauld (Lat 81 Rogef'Mictos (M'*t. 42
-Ronsard 6~; 68 Rosmer(FeMc;a). 10 RosnyO.-H.) 83 Rousseau (Jean-Jacquest
-'&gt; 19 Roz(Fif!nin). 84, 85 S</p>
-<p>Sabatier (Antoine). 9 Saint Bernafd 14 Sainte-Beuve. 19 Saint François
-d'Assise 9, 13 Saint-Po!.Ronx-leMagni-</p>
-<p>Soue 61 Salis (Rodolphe). 55 Salvator (Archiduc) 21 Sarcey (Francisque)
-64 Sardou (Victorien). 63 Saussioe(de). 42 Schener(Robert). 35
-Schopenhauer. 74 Schumann. 85 Schwob (Marcel). 49 Segalas(Ànats). 10
-Séverine 38. 55 Shakespeare 68, 69 SHvestre (Armand). 76 SimonOules). 48
-Simonis-Empis 41 Soubeyre(B). 46, 47 Spinoza 74 Steinlen 51, 70, 85
-Sully-Prudhomme. 46</p>
-<p>T</p>
-<p>Tailhade&lt; Laurent). 56, 7ù Takovo (Prince de) 60 Terentius(PnMius) 17
-Theodorof. 59 Theuriet( André). 66 Thiers(Adolphe). 37 Thorel(Jean). 4t
-Titlet (Jacques du). 64 Tinseau (LéQn de). 38 ToMiouse-tautrec 29
-Tolstoï 18, 28, 4i. 68 V</p>
-<p>Vallotton 72 Vanderem (Fernand ). 86, ~7 Veber(Jean). 48. 49 Veber
-(Pterf~ 30, 48. 49 Veber's (Les). 11, 48 Verlaine (Paul) 63 Véron
-(Pierre). 50 Vielé-GnfSn (Franc;s) 46 61. 83</p>
-<p>Vigny (Alfred de) 73, 86 ViÏliersdel'Isle.Adam.. 13 Virgile 14, 65 Vogué
-(Melchior de).. 67 W</p>
-<p>Wagner (Cosima). 78 Wagner (Richard).. 13, 34, 43 44, 77. 78, 82, 83</p>
-<p>Wilde (Oscar) 12 Willette (Adolphe) 28 Willy. 48 Wyzewa (Teodor de) 13, 14</p>
-<p>Z</p>
-<p>Zod'Axa. 7U; 71, 72 Zola (Emile) 10, 11, 16, 18 62, 84</p>
-<p><pb/></p>
-<p>f.cPuitsde&amp;uote'Ct.tire. y La Vieet les Moeurs M Le Frisson de Paria. tt
-r XosMaitres. t3 Snob. t4 Rédemption t5 PasseFAmour. t&lt;) t-) Espagneet
-Provence 20 Pahtdes. 2a L'Heautonparateroumène. 24 L'Autre Femme. 25
-Charlie 26 Mémoiresd'unjeune Homme 3 #~ Les Décoras 28 LesGamineriesde
-M. Triomphant 29 X. 3" LeTrimardeur 1 3! Théâtrcuses 3a
-CouronnedeCtartë. 33 LcCheminNuptial. 35 LeMystèredesFouJes. 36
-ReveBtanc. 38 Amoureuses 40 Le Joyeux SacriSce. 41 Le Prisme. 42 Une
-XouveUe Traduction de Wagner 43 Trois Poètes. 45 LesVeber's 48 Fragiles.
-50 te Satanisme et la Magie $i Pays et- Paysages 53 LeMidibouge. 54
-LedemierBohéme. 55 LaPoticeettesChouans. 56 LesGensChics. 57</p>
-<p>TABLE</p>
-<p>fM&lt;*</p>
-<p><pb/></p>
-<p>fMM</p>
-<p>FlottiUedansie Golfe. 58 Minutes d'Orient. 50 Chaot!tdelaPMeetduSn!eit.
-60 LetMtwtaot. 61 Souvenirs d'un Auteur dramaHque 63 LeLivredeMargnente
-65 Flavie 66 Le Musicien aveugle 67 Thuiédes Brumes. 68 De Mazas
-Jérusalem yo Journatd'unoiBcierdeCavaterie. 72 Une Evasion. ~3
-Ftambc~he. 75 Le «Richard Wagner n de H.-S. Chamberlain 77 Simple
-Histoire. 78 SoastaFenêtre. 80 Les Jeunes. Sa Les "Sur-Humains* 84
-BetesetGensdeLottres. 85</p>
-<p>St-Amand. ïmp Em. Pii;o«'~)</p>
-<p><pb/></p>
-<p>Achevé &lt;f&lt;M~r/M&lt;'r</p>
-<p>Le trente janvier mil huit cent qnatre-vingt-seize PAR</p>
-<p>EMILE PIVOTEAU</p>
-<p>Imprimeur de « Ï.A CRïTIQ.UE ·</p>
-    </div>
+      <div>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>tome 11</p>
+        <p>tom~m</p>
+        <p>tome IV</p>
+        <p>toot~V V</p>
+        <p>~«/r&lt;~ ~t'n/Mt'X (TttESSE ET STOCK).</p>
+        <p>La AfoMfAf JM C~&lt;-A~ &lt;F&lt;SCHBACHKR).</p>
+        <p>Une Passade (F).AMMAR)OS).</p>
+        <p>J?M/r&lt;*&lt;~H~/t/~(FtAMMAMOX).</p>
+        <p>OUVRAGES EN COLLABORATION</p>
+        <p>Lettres &lt;/&lt;* /'OKprt'K~ avec Alfred Ernst (VA~tER).</p>
+        <p>~/M~ de Sous, avec Alfred Ernst (S)Mos)s-EMP!s). °</p>
+        <p>~Awt'$ et Rires, avec Alfred Ernst (B!B.4&lt;E LA PLUMf). ~fM/o/n'~ A'&lt;M*MMM&lt;/&lt; avec Léo Tr6zen!k (Ot.LENDORFt). Les Enfants ~'&lt;t~MMN/, avec Pierre Veber (StMoxts-Eupts). EN PRÉPARATION</p>
+        <p>P&lt;XMMM &lt;lpf// (StMOMS-ËMPtS).</p>
+        <p>~t~/&lt;«~ illustrés par Léon Lebègue.</p>
+        <p>~MWCMr )~M~t' (CHA!H.EY)..</p>
+        <p>OUVRAGES DU ~AfF ~~yF&lt;</p>
+        <p>Caw/C-OM (VAX)Et~.</p>
+        <p>Z'&lt;4MMt~ ~M~~M/c, tome ï (DEt-AsRAVB).</p>
+        <p>Z~/GA~?VOA' DU TV~tGJ?</p>
+        <p>2UO ~t'W/t'~ MMMf~T&lt;~ $K~' MMOMt~ /MW.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>PARIS</p>
+        <p>BIBLIOTHÈQUE DE LA CRITIQUE $o, Boulevard Latouf-Maubour~</p>
+        <p>..· t</p>
+        <p>Quelques Livres</p>
+        <p>M_</p>
+        <p>~~Vt)«.</p>
+        <p>~MM~ 1895</p>
+        <p>HENRY GAUTHIER-VjLLARS fw/z~y</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>AVANT-PROPOS</p>
+        <p>On ne trouvera pas, ici, le compte rendu de tous les livres parus dans Tannée, ni même des principaux, mais seulement l'analyse de ceux qui m'ont été envoyés.</p>
+        <p>Du moins chaque fois que j'ai été contraint de semer trop de fleurs imméritées sur un roman faiblot, j'ai compensé–Comment ? En nuançant de sévérité l'appréciation qu'il me fallait porter sur une œuvre de mérite, mais signée d'un nom inconnu. 0 Azaïs 1</p>
+        <p>H. G.-V.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>Le Puits de Sainte-Claire</p>
+        <p>
+          <pb/>
+        </p>
+        <p>obscurs ouvriers qui sont les traducteurs du XVF siècle, comme aussi dans certains contes d'Anatole France, notamment dans le ~&lt;t/H/-&amp;!&lt;~ qui ouvre la série.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>ques plaisanteries, garçons de cuisine laissés pour morts, ou confrères assassinés jovialement,</p>
+        <p>La Vie et les Mœurs</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le Frisson de Paris</p>
+        <p>
+          <pb/>
+        </p>
+        <p>aux subtits évanouissements entre deux virages, et la séparation, et les émotions changeantes du procès, et la déchéance résignée de Badisteano, après le suicide d'un Oscar Wilde bien parisien, titré marquis d'Efnat.</p>
+        <p>Ce qu'on ne saurait assez louer, c'est l'âpreté du tableau, en même temps que la bonne humeur du récit. L'âme plus ou moins naïve des exotiques, avec ses zézaiements, son inconscience, son indulgence aux compromis les plus agréablement lointains de l'honneur, l'âme des hommes du monde voluptueusement insoucieuse du devoir et de la dignité, sourit en ces pages narquoises. A peine si, sur cet entourage faisandé, s'estompent t'âme et le sourire adorables de la pauvre petite Samori, la danseuse angélique qui se tue par amour, un amour d'élégie pure, douce, pour un prince de clair-obscur, qui promène sa gentillesse menue parmi la Bessarabie et les Indes. Cet amour de la petite Samori est vraiment le seul amour qu'on rencontre dans ce roman, le seul amour qui peut croitrc, tranquille et unique, qui peut devenir assez grand pour faire mourir, dans ce tourbillon de brèves passades, de fausses passions, de désirs trop tôt assouvis, d ennuis exaspérés et de vilenies suffocantes. Pour cette petite fille, combien de Catherine Beaujeu, de M" de Culpe, d'Hélène Batisteano même pour cette sereine figure du prince Pierre, pour ce sombre et noble Mercœur, combien de Lanpessade, d'Effiat, de Bob et de Montrejeau</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Son admiration n'est pas une admiration lointaine, qui, de très bas, timide et apeurée, monte en chancelant vers des âmes très hautes: c'est une admiration simplement admirable. Teodor de Wyzewa comprend les plus nobles artistes joliment, passionnément. Il entre dans leurs âmes, il se les assimile, et d'entendre frémir en lui l'âme de Mallarmé, de Wagner ou d'Anatole France, il peut dire la richesse, la splendeur, la grâce de ces âmes. Ce recueil, composé de morceaux qui ont paru depuis huit ans dans les périodiques les plus divers, dans la AtMM TVd~M&lt;fMM&lt;' parmi des estampes brumeuses de Fantin-Latour(pardon, Bouyer') et des contresens d'Edouard Dujardin, dans la ~r~'a&lt;' /M~fM&lt;~M/t'. côtoyant des contes edgarpoétiques de Villiers et des chroniques d'une grâce maladive signées Laforgue, dans la A'DKf ~/&lt;*M&lt;' pour</p>
+        <p>Nos Mitres</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Cependant les forêts l'appellent, non pour leur sérénité mais pour leur enseignement. Ce savant universel croit encore avoir quelque chose à apprendre, cet homme qui sait toutes les langues veut étudier une langue encore, et cette langue, cette science, il les demande aux arbres attendris. Au fond, ces forêts ne sont-elles pas les forêts de Virgile, celles où la sœur d'Ariane de quel amour blessée souhaitait reposer son corps navré par l'aiguillon d'Eros, celles où Siegfried entendait l'oiseau merveilleux enseigner sa jeunesse indécise ? Saint Bernard aurait pu écrire, peut-être: « JV/~t/&lt;tm~M /M~CM/M &lt;? silvis yM&lt;!W libris; ~/C&lt;M ~H/W &lt;? libris, M&lt;*&lt;'MÛM &lt;M ~PM libros. Dites, Wyzewa, d~ns votre amour des forêts, y a-t-il pas un peu de coquetterie d'Ecclésiaste ? s'</p>
+        <p>Snob</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Rédemption</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>de Constantine; il se porta garant pour un malheureux garçon qui, jadis, par amour de l'art, s'était embarrassa de dessins d'autrui et que cette particularité empêcha de se faire tuer par un monsieur quelconque: sur ces faits-divers personnels, il construisit sa Ré (~&lt;M~/&lt;'M~ procédé imité de M. Accius Plautus et de Publius Terentius, mais avec la naïveté la plus savoureuse et la maladresse laplus touchante, en plus.</p>
+        <p>Il nous montre, en une série d'images d'Epinal, Dominique, son lamentable héros, successivement infirmier réclusionnaire a Lam'bessa, libéré dolent, fils méconnu, assassin pardonné, désespéré pleurard, ouvrier acharné, journaliste de génie, ami de pe..it poitrinaire, Cancédesœur de poitrinaire, puis, reconnu pour un lâche, chassé de partout, repoussé par sa fiancée, par les journaux qu'il a rendus prospères, par tous les patrons, et poussé peu peu vers le refuge-abîme d'une réunion anarchiste.</p>
+        <p>On le voit, c'est ce qu'il y a de plus terrible au monde. Et la lecture de VfA/cM~/MM nous laisse persuadés (du moins l'Auteur l'espère), que la société est presqu'aussi mal faite que les romans de M. Brulat. Pour que nul n'en ignore, en ses ~34 pages, il place des conversations de forçats qui, condamnés pour des vétilles, font vibrer du fracas de leurs utopies la paix de l'infirmerie de la prison, cependant que Dominique, triste et doux, proteste et espère; le romancier nous sert encore les théories nouvelles d'un millionnaire anarchiste dissertant sur les injustices de la destinée. Sur ces iniquités l'âme languide et vocifératrice de M. Brulat s'éplore; elle s'éplore avec tant de conscience qu'il en oublie de construire son roman; on se demande pourquoi Dominique n'essaie et avec tant de succès! du journalisme, qu'aprèsavoirétérepoussé parles ouvriers: c'est peut-être pour témoigner aux journalistes tout le mépris qu'a pour eux leur confrère M. Brulat ? Soit.</p>
+        <p>Mais où l'auteur triomphe c'est dans les scènes de douceur torpide, celle, par exemple, où Dominique se rencontre avec le mari de la femme tuée par lui, le malheureux qui, depuis ce crime, traîne parmi l'horreur de Fhilippeville une existence d'élégie, de regrets, de douleur et de néant. Plusieurs fois le cocu-veuf a fait prévenir son ami qu'il le tuerait: Dominique pâlit et s'abandonne; comme dirait Jules Renari, il n'attend qu'un signe pour rentrer sous terre; mais le signe ne vient pas. Et le mari de s'écrier &lt;: Tout</p>
+        <p>
+          <pb/>
+        </p>
+        <p>est fatalité! !e vous pardonne Je vous plains. Allez vous en, vous èteslibre!~</p>
+        <p>Hé! hé! ne s'appelle-t-il pas Cbarles Bovary, ce pardonneur là? Seul le style dinere.</p>
+        <p>J'aime, j'aime encore une autre scène, également belle et t&lt;agique, nous montrant le protagoniste de /fA/&lt;'Nt~/«)M qui, a deux jours de son mariage, vient d'être déshonore par un procès-verbal. La famille de sa fiancée l'attend, frémissante. Le père s'érige en justi. cier, en bourreau. Intrat Dominique, mais si triste, mais si noble en sa détresse et en son désespoir, mais les yeux si joliment ombrés par cette fatalité nouvelle que la colère de celui qui aurait pu devenir son beau-père tombe, et que sa simili-belle-mère lui murmure, avec la douleur la plus digne, la plus amicale: &lt;c Vous comprenez, nous ne pouvons plus vous donner Claire pourtant avant de partir, vous mangerez bien un morceau avec nous? &amp; Offre partant d'un bon naturel, mais que décline Dominique avec la volonté bien arrêtée de ne plus se nourrir que de ses larmes; il s'en va, d'un pas pesant, d'un pas résigné, d'un pas résolu. Et son frère même qui gagne des monceaux d'or au cercle, son frère ne le connaît plus. Lamentable destinée! Livre plus lamentable encore!</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Paasé l'Amour</p>
+        <p>
+          <pb/>
+        </p>
+        <p>il apprend la trahison; tons les personnages sont des honnêtes gens, plus que des honnêtes gens, des héros, ils sont tous la vertu même. Pas l'ombre de la plus ténue scélératesse. L'adultère même devient saint, s'ennoblit d'une subtile tristesse, de !a conscience ardente et sombre de la faute, de la majesté du trépas.</p>
+        <p>Espagne et Provence</p>
+        <p>
+          <pb/>
+        </p>
+        <p>at</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Paludes</p>
+        <p>On lit au frontispice: &lt;r Avant d'expliquer aux autres mon livre, j'attends que d'autres me l'expliquent. Vouloir l'expliquer d'abord, c'est en restreindre précocement le sens car, si nous savons ce que nous voulons dire, nous ne savons pas si nous ne disons que cela. On dit toujours plus que CELA. Et cela surtout m'y intéresse, que j'y ai mis sans le savoir, cette part d'inconscient et que je voudrais appeler la part de Dieu. Un livre est toujours une collaboration, et tant plus le livre vaut-il, que plus la part du scribe y est petite, que plus l'accueil de Dieu sera grand. Attendons de partout la révélation des choses; du public la révélation de nos œuvres C'est d'un mysticisme coquet, d'une ingénieuse humilité, d'un orgueil exquis, et pour s'imposer aux âmes, les pensées et les motss'épandent, merveilleusement imprimés sur un papier prestigieux en un format irrésisible, mots doux et flous, pensées joliment pauvres et menues, obscures mais humblement obscures, et donneuses d'une sensation qui est bien celle que M. André Gide a voulu procurer. Il y a même</p>
+        <p>
+          <pb/>
+        </p>
+        <p>des instants où l'on se sent un agacement nerveux en lisant les conversations vides, les méditations vides de Tityre. J'entends d'ici M. Gide, dire avec un sourire tristement triomphant &lt;: N'est-ce pas? ce livre, ces instants sont insupportables, cette vie est insupportable ? Hé, cher monsieur, ces instants sont vos instants, cette vie est votre vie, ce livre est votre livre. &lt;*)</p>
+        <p>Livre très joli, très discret, très pénétrant; M. Gide a écrit sur la garde, d'une écriture laborieusement pâlie: 27/~M~ 0~'A~M.</p>
+        <p>Moi, je veux bien. Et vous ?</p>
+        <p>(t) Dans le ~ffn'n'w de novembre t8~, M. Gide écrit ~.t~f/fï, c'est l'histoire d'un esprit mal fait. c'est l'histoire de qui ne comprit pas la vie. de qui s'inquiète et s'agite pour avoir crn plus d*'&lt;'« chose nécessaire. s La glose, d'où j j'extrais ces tignes, pénétrante, incisive, exquise, il faut la lire tout entière, et la retire. Ces proprement mn charme.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Voyez dans le même volume, ce merveilleux &lt;: Village près de la route où le conteur de tant de contes prestigieux s'est révélé conteur plus inouï, où, de seconde en seconde, il aiguise l'émotion avec des mots qui sont des chuchotements d'Au-~elà, où la science des précautions oratoires multiplie les hésitations troublantes, les reculs entrés, les &lt;: repentirs &amp; haletants, saisit, prend aux entrailles, subjugue le lecteur suant d'angoisse inavouée parmi les précises descriptions de cette apparition imprécise, et les calmes sortilèges de ce fantastique tranquille.</p>
+        <p>Certes, au-dessus du martyre de l'Heautonparatéroumëne s, audessus de l'ombre sans tête d'un Peter Schlemihl assassin etchapelier à Remy-sur-Oise, s'agite le rire frémissant, inextinguible, de quelque divinité méchante, inassouvie de mal, le rire inoublié de Me/'&amp;M~&lt;~A&lt;&lt;ï/ mais Catulle Mendès ne l'indique pas, il ne nous montre que la passivité pantelante des victimes qui se laissent traîner jusqu'au meurtre, courbées sans inutile révolte sous les caprices du Destin.</p>
+        <p>Et, en ce livre aux habiletés infinies, toutes les caresses du mot, de la phrase, tous les frôlements d'un style adorable et pervers sont mis en oeuvre pour exaspérer le délicieux frisson de la peur, et en précipiter la pâmoison dernière.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Cette ./iK/n'j~KM&lt; l'ceuvre la plus simple et la plus poignante qui ait été conçue sur l'adultère, le temps où elle paraît grandit singulièrement sa vertu. Après tant de gémissements, tant de variations sur ce thème si cruellement connu, après tant d'ennui déversé sans mesure sur ce crime devenu simple anecdote sentimentale, le livre de Rosny s'affirme plus puissant, et plus intime: long cri de pitié, souffrance sans déclamation, éloquence navrée qui parle plus que toute dissertation.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Mémoires d'un Jeune Homme</p>
+        <p>Henry Bauër semble avoir voulu veiller sur ces souvenirs, leur</p>
+        <p>
+          <pb/>
+        </p>
+        <p>enlever tout ce qui n'était pas absolument néëessaire; il a supprimé, je crois, tel chapitre, entr autres, où était racontée sa captivité à Sainte-Pélagie jusqu'au Septembre. Mais il reste cependant assez d'aventures, assez de souffrances, assez de personnages, personnages divers, depuis les calicots les plus flous, jusqu'aux fédérés les plus hirsutes.</p>
+        <p>Les Décorés</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Les Gamineries de M. Triomphant</p>
+        <p>Dans les descriptions, de petites touches exactes, sures, personnelles, décèlent te bon peintre qu'est ce bon écrivain.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>x.&lt;</p>
+        <p>Le docteur Blanche avait raison. Je cherche en vain, dans .X.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le Trimardeur</p>
+        <p>Un fier livre Du sang, des grèves, des cris, de la mort et de la vie qui frémit, grouille, déborde son cadre, déborde tes lignes, déborde le livre; toute l'âpreté, toute la fureur d'une âme ardente et fruste, magnifiée par un idéal lointain et terrible, toute la hideur d'âmes bourgeoises, toute la langueur moutonnante des foules, des meurtres et de l'amour, des baisers et des assassinats, c'est la rançon de George Bonnamour.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Rien de plus beau que la querelle des pêcheurs ou la scène de tempête éclairant la fin d'une bataille, alors que les deux adversaires irréconciliés partent sur la même barque, par une nuit sans lune, pour sauver ou mourir ensemble, ou la vision du cadavre de de Jagoury emporté, sautillant, parmi la ville révoltée, rien de plus éloquent.. sauf la préface où Bonnamour a fait passer ses rancœurs et ses tristesses, où il a montré toute la douloureuse énergie de sa foi et de son âme.</p>
+        <p>Thôàtreuses</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Non.</p>
+        <p>La bêtise toute divine des filles et des viveurs est peinte d'une touche sobre et nette la distinction (si second-empire) du duc rendue avec un peu d'ironique sympathie, l'ignominie inconsciente du cabotin Fabert décrite sans indignation, le triomphe de Raymonde dépeint sans amertume comme sans enthousiasme. Docu' ment très sûr, avec de coquets dessins de Guillaume, rédigé par le mieux informé des courriéristes dramatiques, le plus amusant des auteurs comiques, le plus stotque des philosophes mondains,</p>
+        <p>Couronne de Clarté</p>
+        <p>M. Edmond Pilon écrit, excellemment</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le Chemin Nuptial</p>
+        <p>Ce n'est pas bien méchant mais, avec des images somptueuses et une déformation savante, avec des mots de lumière et un lourd manteau d'obscurité, cela eût donné trois cents verts mal!arméens de belle allure. M. Scheffer n'en a tiré que deux cent quatre-vingtquatre pages d'une monotonie trop convaincue, d'une tenue correcte et froide, ou tiède, qui pis est.</p>
+        <p>Style sans netteté, sans couleur, dont la puérilité se guinde au maniérisme, malhabile et hésitant comme le livre, le talent et l'âme de M. Scheffer,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le Mystère des Foules</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le Mystère des 7'fK~, est un œuvre de dédain, de rancune, de passion hargneuse et haineuse. D'avoir promené son être parmi l'horreur des réunions publiques, d'avoir pris la parole en des théâtres ou en des granges, d'avoir été copieusement insulté, appelé pourquoi ? w&lt;'M/~ (~) d'avoir été battu aux élections par un farinier, et même par cet extraordinaire ministre du cabinet Rochebouet qui se nomme M. Welche, d'avoir senti autour de lui des trahisons et des bassesses, Paul Adam a gardé un ennui profond et fécond, un peu de rancœur et beaucoup de sensations plus violentes que nettes. Il a laissé ces sensations s'exaspérer et s'envelopper d'un halo prestigieux, d'on ne sait quelle buée d'opium, et illes a serties en des phrases-parfoisagaçantes, souv entadmirablesphrases de mélodrames, phrases de rêves, phrases de poèmes si bien que son livre est l'épopée la plus heurtée, la plus inégale, la plus émouvante qui soit.</p>
+        <p>Dans une préface importante, il parle longuement de l'émotion de pensée. Est-ce vraiment l'émotion de pensée que prouve son livre ? Peuh 1 ces hommes, cette masse anonyme, qui tempête, qui se contorsionne en des remous, en des cabrioles, ces rires, l'hystérie laborieuse et hiératique d'Anne et de Béatrice, la sublimité palote</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Rêve blanc</p>
+        <p>Rêve blanc, style incolore, pensées ternes. Pourtant, M. Henri Ardel n'est point formellement ennuyeux. Son livre, destiné aux &lt; petites filles dont on coupe le pain en tartines rappelle les volumes du célèbre Jean de la Brète, les ouvrages de l'illustre Léon de Tinseau, et, d'ailleurs, ne les vaut pas.</p>
+        <p>Une fillette provinciale oh t si candide 1- conduite par son</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Amoureuses</p>
+        <p>Ces ~w&lt;wrfMX(' de Camille Pert, c'est deux cousines (point demi-vierges, véritables jeunes filles) Andrée et Suzanne, dix-sept et dix-huit ans, affolées de &lt;; mondanités &amp;, jolies, dépensières, pas assez riches. Elles aiment trop le bal, c'est ce qui tue en elles toute fraîcheur de sensations. Elles raffinent, elles compliquent plaisir, Andrée guidant Suzanne et lui indiquant par quels trucs un peu simplets on peut goûter, avec des danseurs qui s'allument, les subtiles joies du flirt. Après chaque soirée dansante, les mignonnes valseuses couchent dans le même lit, et recensent leurs impressions dont elles exacerbent l'émoi par le trouble ina.eue du frôlage de leurs deux corps. (J'ouvre une parenthèse pour constater que la répétition de ce procédé trop commode ne va pas sans quelque monotonie).</p>
+        <p>Donc, ces deux poulettes vivent en paix, mais un coq survient, Pierre Varneau, et voici la guerre allumée. En un accès fou de jalousie Andrée tente de précipiter sa rivale dans une pièce d'eau, (mélo, que me veux-tu ?) et Suzanne avec une soudaineté un peu bien invraisemblable devient effroyablement méchante, torturante, venimeuse, femme-fatale, une « poison &amp;, quoi!</p>
+        <p>Conclusion: Pierre Varneau reste garçon; elles épousent des valseurs riches, avec le projet bien arrêté de les tromper le plus tôt possible.</p>
+        <p>&lt;: Son insensibilité est un anesthésique suffisant pour la préserver de la souffrance morale. » etc.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Une faute d'impression (p. 353), Suzanne pour Andrée, rend un passage peu compréhensible.</p>
+        <p>Simoois-Empis vendra beaucoup d'exemplaires de ce livre où sont relatées les fantaisies des deux Jolies Filles d&lt;} Pert.</p>
+        <p>Le Joyeux SaoriOoe</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le Prisme</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Une Nouvelle Traduction de Wagner</p>
+        <p>Pour large, elle l'est</p>
+        <p>Parfois le contresens tourne au non-sens, par exemple quand une Walkyrie qui dans le texte original, déclare &lt;: Nous avons chevauché séparément et nous nous sommes rencontrées aujourd'hui s'écrie dans la fantaisiste version d'Offoël « Oui bien 1 toutes deux volons par les airs t (p. 100) Il arrive aussi que le traducteur prend la tem-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Ah! la musique! On ne m'ôtera pas de l'idée que M. d'OSbël la méconnaît aussi complètement que la langue allemande; que n'at-il appris avant de traduire Wagner, ce qu'est un membre de phrase musicale, une cadence, une demi-cadence! S'il se doutait de l'importance d'un mouvement mélodique, on ne trouverait pas dans sa traduction ici, là, ici encore, une phrase qui conclut lorsque la ~) M. Jacques d'OBbël en sa préface.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>phrase musicale (comme celle du texte allemand) poursuit, ou ~ft'" WM. Lui qui déclare sa machine faite « essentiellement en vue du chant ? il écrit, dès le d~but du /?/ « Vois comment nous n'~&lt;~MH glissons dans la pourpre. ? »</p>
+        <p>Je serais curieux qu'un chef d'orchestre fit chanter cette traduction, pour « voir comment il ft'nt//&lt;w trouverait la chose. » Et des maladresses, comme « Wotan semble presque un grison » qui semblent transformer le souverain des dieux en aliboron. Et des obscurités rocailleuses comme « Cœur brisé, pend Freia,la pauvre, sur leur échine. »</p>
+        <p>Et tant d'autres choses! 1</p>
+        <p>Allons, allons, ce n'est pas encore ce pauvre essai qui fera oublier les travaux consciencieux, et profonds et si réussis d'Alfred Ernst.</p>
+        <p>Trois Poètes</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA MUE AT BOtS BORNANT</p>
+        <p>Elle a dormi cent ans, commme en rêve, panni La pensive langueur des choses endormies.</p>
+        <p>Tous les bruits, sur un mot magique de la Fée Depuis cent ans, aux creux des murs sont étouffes.</p>
+        <p>Comme pour se donner, dans l'ombre, infiniment,</p>
+        <p>Sous le ciel de tendresse et de recueillement</p>
+        <p>Elle ouvrit, d'un baiser, ses yeux vers les étoiles.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Xous avons vainement sous les ramilles nues</p>
+        <p>Cherché quelque humble fleur, oubliée en chemin</p>
+        <p>Et nos sanglots tintaient au cours des avenues.</p>
+        <p>ou en petits vers courts et navrés:</p>
+        <p>Le léger</p>
+        <p>Brick où je suis passager</p>
+        <p>Pour un long, très long voyage</p>
+        <p>C'est ta Vie. 0 dur mouillage</p>
+        <p>Où t'espoir est naufragé</p>
+        <p>&lt;. &lt;</p>
+        <p>« Le teint très brun, si j'en crois son portraitiste Malpy, les traits irréguliers et souriants, les cheveux noirs plaqués en masses</p>
+        <p>
+          <pb/>
+        </p>
+        <p>lourdes, les yeux vi&lt;s sous le lorgnon ou voilés de mélancolie, avec, dans l'ensemble de la physionomie, je ne sais quel contraste qui décelé en même temps de la timidité et une ingénue confiance, tel est André Rivoire, l'aimable poète des « Vierges ?.</p>
+        <p>Les Veber's</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Fragiles</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le Satanisme et la Magie</p>
+        <p>s s</p>
+        <p>(&lt;) HaMutourt. ~oK&lt;«&lt;&amp;&lt;.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Curieuse, bien curieuse, l'attirance de Bois vers l'Etre de néant qui peut donner la vie, vers l'Être de désolation qui peut donner toute volupté, vers l'Etre de misère qui peut donner toute richesse, et dont les plaies nous apparaissent peintes et plaintes avec du sang, avec des larmes. A travers des figures un peu bien correctes, un peu bien affadies par Henri de Malvost (qui eut tort de ne pas leur conserver toute l'horreur violente des estampes du Tarot auxquelles furent demandées leurs attitudes) l'évocation se poursuit, continue, perpétuelle, du Mauvais bienveillant et propice, du Malheureux toujours souriant; et autour de lui, derrière lui, hideuse et pitoyable, se déroule la théorie de ses fidèles, de ses amantes, les mages et les sorcières, l' « Anarchiste et la Fée, la Femme, démon et ange, mais plus souvent démon, dans un fouillis de serpents et de crapauds, cependant que l'air s'empuantit d'effroyables relents émanés de festins ou l'on mange la chair humaine, et que résonnent de sombres litanies, des soupirs rituels, des rires cabalistiques et des paroles qui font mourir.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>En tous cas M. Jules Bois a écrit un livre d'irrésistible attrait pour ceux, chantés par Yvanhoë Rambosson « dont l'âme s'est ouverte au vent des défaillances ». Ma's que son Diable fait donc de façons pour appa*'aitre, et promettre beaucoup, et donner peu de chose Le Bon Dieu est d'un abord plus aisé.</p>
+        <p>Pays et Paysages</p>
+        <p>Les hôtels déserts, les vallées vides et les bals pleins où saute la maladie, il nous les montre en une page horriblement savante, digne d'un Holbein qui aurait lu les traités de médecine littéraire composés par Maurice de Fleury. Puis voici Monte-Carlo et Montauban, des bouquets de roses et des poitrinaires, des musiques militaires et des coccinelles, des solitudes et des douleurs et des tendresses. Oh 1 l'admit~ableMidi sans fâcheuse exubérance, sans odieuse gaité, grave, un peu dédaigneusement mystique et presque silencieux I Oh les admirables poèmes en prose où sont peints ces paysans qui labourent, et ces paysannes qui lentement dev iennent voyantes, puis, un beau iour, s'en vont prier très loin et murer leur enthousiasme en un couvent, avec l'ennui de n'être pas encore mortes et de ne pouvoir jouir, en leur humilité, des gloires sans fin et du repos de conscience qu'on a près de la Bonne-Dame. Pages tombées de ~cr/M~c/A? &lt;~ Lourdes ce « mystère &amp; simple, touffu, grouillant, vivant, parfumé de l'odeur forte de la terre, et de l'encens subtil des cathédrales, pages''glissées des ~M/ cette tragédie rurale où la voix de la</p>
+        <p>
+          <pb/>
+        </p>
+        <p>!!4</p>
+        <p>Le Midi bouge</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le Dernier Bohème</p>
+        <p>Protégé par un séminariste qui a pour frère un garçon de café. le dernier bohème habite la brasserie, rime des vers stupides, adore des traînées qui se fatiguent rapidement de sa dèche, bref, il fait tout ce qui concerne son état. L'auteur mêle en une incohérente salade Rodolphe Salis, le pauvre Dubus, Barré, Lebiez, Jules Lévy, des réclames pour un café laborieusement renaissant, des oraisons funèbres sur des caveaux fermés par autorité de justice, du vieuxneuf, des antiquités maladroitement retapées, du toc, tout un ensemble de truismes hagards, de lieux-communs, de ficelles usées, de suicides qui ratent. Le style ? Un reporter de feuilles départementales en rougirait.</p>
+        <p>Et le buste de Murger s'attriste toujours parmi le Luxembourg. jusques à quand ?</p>
+        <p>
+          <pb/>
+        </p>
+        <p>La Police et les Chouans</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Les Gens Chies</p>
+        <p>Je tiens Gyp pour un grand philosophe, écrivait jadis Anatole France. Et si l'on me demande comment je t'entends, je répondrai que je l'entends comme il faut. Est dit philosophe, celui qui recherche les enets et les causes. Ce n'est point proprement la manière de Gyp. En fait de causes, Gyp n'en connait guère qu'une c'est celle qu'on appelle poliment l'amour.</p>
+        <p>Le livre est découpa en dialogues incisifs, narquois, savoureux, que rehaussent de&amp; enluminures violentes. Mais pourquoi ne railler chez les G&lt;~ &lt;*A«'~ que l'admiration naïve de Georges Ohnet et de Marcel Prévost ? Autrement piquante et vraie serait une étude sur leur enthousiasme de commande pour les livres de Mallarmé, d'Anatole France, de Gyp, qu'ils achètent beaucoup, qu'ils lisent peu, qu'ils ne comprennent pas du tout.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Flottille dans le Golfe.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Minutes d'Orient</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Chants de la Pluie et du Soleil</p>
+        <p>Ce livre d'Hugues Rebell donne la sensation d'une ruée formidable hors des ténèbres, hors de l'inconscient, hors du néant, vers la lumière frémissante et pantelante, vers la Beauté et vers la Vie. L'auteur y dit ses lentes et ardentes promenades parmi la misère, parmi la nuit doucement grise, parmi le mystère du soleil et le mystère de la pluie il égrène les litanies de la Vierge et celles de l'action, il s'abime en prières et en désespoirs, et partout, en chaque poème, en chaque conte, le même enthousiasme brûle, et la même inquiétude, cependant que passent, mélancoliques et hautaines, des prostituées chères, des Idées fuyantes et royales, qui glissent de</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le Débutant</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Souvenirs d'un Auteur Dramatique</p>
+        <p>
+          <pb/>
+        </p>
+        <p>D'ailleurs beau papier, bonne impression impression typographique ~'entend.</p>
+        <p>P.-S. N'empêche que cette peste de Jacques du Tillet a déniché. de vieux articles de Becque où Claretie était loué, et Sarcey également, et Crisafulli lui-même</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le Livre de Marguerite</p>
+        <p>Aujourd'hui,</p>
+        <p>C'est la même chanson toujours, et la même âme,</p>
+        <p>Ces vers, ces hymnes, la figure de l'Aimée les illumine doucement. Oh ces traits qui dénent la ténacité de tout pinceau, qui tremblent, qui hésitent.paupières qui veulent être closes pour que n'aveugle pas leur regard de sérénité implacable et de flamme clémente.</p>
+        <p>Le poète chante toujours, chante son inquiétude et son apaisement, le poète qui aime Verlaine, André Chénier, Jean Racine et Virgile. Lentement, le cycle se déroule, l'histoire se termine, cette histoire d'un cceur amoureux et triste, cette histoire de l'Ame humaine, cette histoire qui, derrière le plus beau et le plus clair symbole, conte les espoirs et les douleurs des meilleurs de nous.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Flavie</p>
+        <p>
+          <pb/>
+        </p>
+        <p>déçue) choisir de petites choses pour les emporter au fond de l'Aus. tralie dont on ne revient pas. Petits mystères du cœur, petits coins de tristesses, acuité de sensations extraordinaires. La fable est simple à souhait un mariage manqué, une brouille de deux frères, un contrat rompu pour cause de manque d'apport, et un départ, rien de plus.</p>
+        <p>Mais autour de ces médiocres contingences, des sourires luisent doucement, des confidences d'arbres qui 'se penchent, chuchotent, et l'on entend frémir le murmure infini des étoiles.</p>
+        <p>Le Musicien Aveugle</p>
+        <p>C'est encore un roman russe et l'auteura été, toutcomme un autre, exilé et proscrit politique, neuf ans, sans savoir pourquoi. Il a connu la froide implacabilité des rescrits impénaux et trouvé du génie dans les steppes glacées du désert d'Iakoutsh. Il nous apparaît avec cette douceur, cette perpétuelle émotion, ce regard vacillant sur les misères humaines que nous connaissons depuis que M. de Vogué traduisit, du russe, des idées vaguesen style noble et des idées nobles en style vague. Les années qui s'écoulèrent depuis cette époque lointaine nous donnèrent des hommes pour qui le moindre</p>
+        <p>
+          <pb/>
+        </p>
+        <p>roman slave est un objet d'horreur. Sous le prétexte que Ronsard jadis eut du génie, ils refusent tout intérêt aux prédications du comte Léon Tolstoï. Ronsard eut, en effet, du génie, et cela n'empêche pas Tolstoï d'en avoir. Parmi les œuvres multiples de Dostotewski certaines vibrent d'une vie émotionnelle extraordinairement puissante, si d'autres rampent molles et fades comme les romans de Madame Durand-Gréville.</p>
+        <p>Thulé des Brumes</p>
+        <p>Le public deviendrait-il plus intelligent ? H iaut le croire puisqu'on va publier une seconde édition de T~M/M Z~MW&lt; œuvre ancienne que M. Adolphe Retté a dépassée depuis, en sa course yers le Mieux, mais pour laquelle j'ai conservé, toujours, une particulière tendresse.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Cette mystérieuse et baudelairienne ?'AK~ n'est que la cité intérieure qu'habite le Songe, prince hautain et solitaire et le livre, plein de frissons nouveaux, où .l'artiste depuis peu réveillé consigne son rêve, c'est le miroir des légendes toutes subjectives. Une curieuse citation d'Egœus manifeste nettement cette transposition complexe qui rend le songe palpable comme la réalité, et la réalité fumeuse comme le songe</p>
+        <p>Ce sont choses crépusculaires</p>
+        <p>Des visions de fin de nuit</p>
+        <p>et le véritable auteur d'une pareille hallucination écrite, c'est la Folle du logis, dont s'est toujours un peu méfiée la clarté latine c'est la reine Fantaisiequi règne auxbleusnocturnes de Shakespeare, de Gérard de Nerval et de Henri Heine.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le pauvre est revenu de t'Au-det&amp;.sain etsauf.aprèslavieéperdue, anormale et grandiose du haschich comme Faust, le haschichin est sauvé. Un miracle l'a défendu contre l'abîme prohibé de l'Art triste et de l'Ivresse solitaire.</p>
+        <p>« Le bonheur se fait avec des rèves ». Et quand le péril est passé, lorsqu'elle redescend dans la vie qui est l'action, l'âme est libre de garder en elle la mémoire de son expérience et l'émoi du souvenir.</p>
+        <p>« En marche vers un grand soleil blanc couronné de rayons d'or, à travers des nuages noirs un étrange vagabond surgit, fixant l'astre d'une candide audace, éclairant la nuitdu flamboiement barbu d'un menton provocateur Ainsi M. Clémenceau décrit la couverture qu'élabora Steinlen pour ce Bsedeker libertaire D~Af~a~MM~tH, avec retour. Ce vagabond, ou mieux ce C&lt;w&lt;~«*~ &lt;~M BfOM~&lt;K&lt;? &lt;~ft'M&lt;/K f~t' son cadre, comme l'a dénni Laurent Tailhade, c'est Zo d'Axa.</p>
+        <p>Ce qu'il conte ? C'est la police parisienne et la magistrature,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>celles aussi des pays limitrophes, réunissant leurs brutalités contre un homme de lettres coupable d'avoir admiré feu Ravachol plus que Quesnay de Beaurepaire. (Je ne les aime ni l'un ni l'autre, mais mes préférences ne sont pas en jeu ici).</p>
+        <p>A travers le monde, sans trêve, il poursuit sa course hâtive, le Juif Errant de l'FM dehors, Zo d'Axhaverus 1</p>
+        <p>
+          <pb/>
+        </p>
+        <p>En une langue sobre et nette, avec des phrases claires comme un reflet de cuirasse, le lieutenant de Milly-Tréfontaine nous dit les impressions du jeune officier enorgueilli de ses premiers galons, son entrée dans la « Grande Famille sa passade et, quand sa théâtreuse (Marsa, de l'Odëon), l'a trompé, les chastes tendresses, si brèves, où son cœur s'épure.</p>
+        <p>On trouve plus et mieux dans ce livre où, sans pose, sans morgue, l'auteur sème des réflexions qui en disent long sur la psychologie militaire d'aujourd'hui</p>
+        <p>&lt;&lt; Il n'y a plus de ~t/H$ il n'y a plus que des Français armés et c'est peut-être pour cela qu'il n'y a plus de soldats dans le vrai sens du mot. Nous avons perdu les qualités d'une élite, pour prendre les défauts d'une foule.</p>
+        <p>« Il n'est pas toujours commode de persuader au soldat que l'officier n'est pas son maitre. Aussi doit-on saisir avec empressement les occasions de lui prouver que, si la discipline est toujours rigide, elle n'est :amais dépourvue d'intérêt et même de tendresse pour ses plus obscurs subordonnés ».</p>
+        <p>Journal d'un Offioier de Cavalerie</p>
+        <p>La verve narquoise de ce livre, son ongtnahté désinvolte, tous l'ont proclamée. A ces qualités (précieuses, certes, mais littéraires, sans plus) je préfère l'âpre éloquence d'un chapitre merveilleux, ~Mï ~M/, où Zo d Axa manifeste qu'il lui déplairaLt fort d'être confondu avec les prometteurs de pain gratuit et les reconstructeurs bien intentionnés de la Société future, avec les assoiffés d'harmonie universelle et les bouifs obstinés au ressemelage d'utopies éculées depuis t8~8. Pas de Ca-bêtise 1 Non seulement les lois étouQantes d'aujourd'hui, mais aussi les théories idéalement formulées pour demain lui répugnent car si rien ne l'attache plusau présent, l'avenir, pour lui, ne se précise pas encore. Destructeur, soit entrepreneur de bâtisse, jamais</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Une Évasion</p>
+        <p>M. Gaston Deschamps, qui a écrit pour ce livre bien petit une notice bien longue, a eu raison d'ajouter au titre cet éclaircissement Souvenirs de 1871 &amp;. On se serait peut-être demandé de quelle geôle avait dû s'enfuir M. Burdeau, ou l'on aurait cru qu'il s'agissait d'un petit roman.</p>
+        <p>Voici l'histoire</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>fessante que celle du campdejLechfeld et il serait curieux de la narrer, maintenant que Burdeau a disparu depuis plus d'un an, Mais qui la pourra conter ? Monsieur Gaston Pesebamps ? Vous voulez rire</p>
+        <p>Flamboohe</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Tout ce que je puis ajouter, c'est qu'il y a, dans cette prose, bien assez de poésie pour mon goût.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le « Richard Wagner » de H.'S. Chamberlain</p>
+        <p>Cependant, nous ne connaissons que bien imparfaitement la vie, la carrière, et surtout l'évolution psychologique de ce dernier né parmi les grands hommes de l'Allemagne. Des malentendus, des erreurs, des mensonges même se sont propagés depuis cinquante ans, cherchant à obscurcir la lumineuse figure de Wagner, créer un courant de légendes savamment haineuses. La rancune des médiocres est tenace!</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Simple histoire</p>
+        <p>Certes, il faudrait tenir en médiocre estime littéraire quiconque ne serait pas capable d'apprécier « la Sdélité caractéristique, la précision pittoresque, la justesse pénétrante du sentiment alliée~ un tact exquis dans l'expression ? tous les mérites si peu communs</p>
+        <p>
+          <pb/>
+        </p>
+        <p>constatés dans le livre de Paul Marguerite par le judicieux bibliographe de la JP~pw bleue.</p>
+        <p>Paul Margueritte aime les chiens le Rhamsès gris, tout d'argent sous la lune, dont les yeux trop intelligents regardent Jeannie, nue, s'ébattre dans la fraîcheur de la cascade, si perspicaces, si humains qu'ils inquiètent la jolie baigneuse</p>
+        <p>l'admirable dogue d'Ulm, souple et féroce, poignardé par M. de Feul</p>
+        <p>Il aime aussi, tendresse plus rare, les mendiants « l'Homme altéré )) dont les yeux de vieille eau bleue ont cet honnête aspect des rôdeurs qui ne sont pas de mauvaises gens le père Potet, qui sarcle les allées tristement, patiemment, pendant des heures le vieux vagabond, blanc de poussière, pâle de peur devant l'assaud'un dogue furieux, et dent la barbe, d'un mouvement mécanique, tremble sur la poitrine~ l'épileptique recroquevillé sur le talus, les cuisses et les coudes serrés, le dos bas, dans un écrasement de détresse et les pauvres diables que moleste le gardien du Luxembourg pour ce qu'ils se sont endormis sur un banc du jardin, par mégarde.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Sous la fenêtre</p>
+        <p>Aux récents volumes, capteurs du succès, qui s'envolent revêtus de son heureuse firme,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>instructifs étonnements d'un sauvage « comment peut-on être sauvage ? » qui s'enart: devant les lenteurs du Parlement et les rapidités de la Correctionnelle il oppose au luxe de la belle Otero, la dèche d'un poète qui, sur un banc des Champs-Elysées, « grelotte sans se souvenir que, quelques lignes auparavant, le temps est déclaré « très doux » il narre de frissonnants coups de baccara J'attendis que le banquier eut passé trois fois, puis, croyant le moment propice, j'exposai mon louis sur le tapts. Le banquier abattit (a) sept, nous n'avions que cinq, j'étais perdu. Alors j'avançai (b) mon louis du hout de l'ongle. enfin je fis le coup de la poucette. On me rendit dix francs, etc.</p>
+        <p>I! nous révèle le vieux travailleur dont la gosse devient fêtarde, tragique antithèse que La Rochefoucauld (si ce n'est lui c'est un confrère) a résumée en cet axiome &lt;; Souvent un homme de peine engendre une fille de joie. »</p>
+        <p>Et le style</p>
+        <p>« Il reprit, d'une voix si sourde qu'elle semblait sortir du plus profond de ses entrailles. » Le pétomane, alors ? ;e « Le souffle de la jeune femme devenait plus rapide, sa poitrine se soulevait davantage sous les battements, de plus en plus précipités de MM cœur. Au premier baiser elle tomberait dans ses bras, » S'embrasser soi-même, pas commode</p>
+        <p>Puis, cette confidence diurétique</p>
+        <p>« C'était Gabrielle, la petite brune, qui cascadait (w) sous la table &amp;. Fi, la sale i</p>
+        <p>N'insistons pas. Parmi ces histoires cotonneuses, une seule se tient à peu près, Z&lt;? Raté, sans doute une autobiographie.</p>
+        <p>(a) 11 a du culot, ce banquier, d' abattre sans avoir 8 ou</p>
+        <p>(b) 0 candeur an grec t avance sa mise quand la banque petd, mais le tricheur de M. Bratat doit, lui, &lt; reculer son louis, qui, partagé par la ligne tracée sur le tapis vert, ne « va plus que pour moitié.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Les Jeunes</p>
+        <p>C'est un mensonge.</p>
+        <p>Huysmans, dont le « très curieux et très remarquable /?M ~M/&lt;' a une réelle valeur d'art. »</p>
+        <p>Maurice Barrès, qui, « avec son livre ), d'un art très personnel, reste dans la meilleure tradition française. »(De la part duclassique Doumic, nulle louange n'est plus belle).</p>
+        <p>Léon Daudet a « de l'imagination, de la vigueur et du stylé. C'est quelqu'un, »</p>
+        <p>Henri Lavedan « au don de la justesse et de la pénétration joint la légèreté et le brillant de l'expression, la verve comique et i ironie. »</p>
+        <p>De François de Curel « doué de très pénétrantes facultés d'analy&lt;-ë. l'imagination romanesque se traduit par des images saisis-. s: ntes ».</p>
+        <p>
+          <pb/>
+        </p>
+        <p>d'ailleurs, que l'on peut différer d'opinion avec mon ami Doumic, par exemple quand il stigmatise chez les Rosny « la complète absence du sentiment de la forme », ou quand il trouve « plus de tendresse que de force a dans les poèmes du puissant Vielé-Gntnn, ou encore quand il turlupine Maeterlinck de qui le drame /~&lt;M J~MM~c lui semble « L'école &lt;/t'wm~ dans le cadre d'un opéra de Wagner » définition injuste, mais charmante tout de même.</p>
+        <p>Aux jobards échauffés qui pensent avoir tout dit, quand ils ont traité René Doumic de « réactionnaire M je conseillerai la lecture des pages où l'auteur, parlant de.la tentative des jeunes poètes, indique avec une netteté lumineuse comment la conception de leur poétique, très différente du lyrisme romantique et de l'objectivité parnassienne, légitime et même exige une réalisation fondée sur une technique absolument différente, et qui ne saurait se passer de profondes modifications formelles. Comme ce prétendu réactionnaire préfère les poètes d'aujourd'hui, la persévérance et la continuité de leur eftort, aux écrivains de théâtre, contraints d être très conservateurs par les conditions mêmes de leur art « qui a fait son temps ? Et comme, après cela, je le trouve en droit de blaguer les Jeunes aux tempes grisonnantes qui refusent de trahir leur rêve en le traduisant, les penseurs qui auraient révolutionné le monde s'ils l'avaient voulu (lanturlu), les nouvelles couches qui sont de fausses couches.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Les « Sur-Humains »</p>
+        <p>
+          <pb/>
+        </p>
+        <p>dans le thre de M. Jean Izoulet, philosophe lyrique. de nombreuses taches et trop souvent du pur galimatias: il n'est pas rare d'y trouver des mots tels que: /~M/M~ Jt'fc«p~'Hr. /MC.v/'rt'M/A//&lt;A\ !&lt;7~ /wMOf/&lt;A' ceux-là, n'en douter pas, ne sont pas de ~t. Firmin Roz, de qui j'ai lu autrefois dans 1 &lt; Vf'&lt;' de très intéressantes et très tines études sur Schuntann. \t. Ixoutet en est, pour lui emprunter un de ses coquets néologismes, le « découvreur » responsable, car it ignore que te sens d une phrase jaillit du jeu des mots et non de leur alignement; par ta, sa traduction, pour être littérale, n'en est que plus faible.</p>
+        <p>Bêtes et Gens de Lettres</p>
+        <p>En ce livre un peu narquois sont portraicturés maints animaux illustres, ou qui mériteraient de l'être</p>
+        <p>Le chien célébré par Ernest Renan qui, ayant remarqué qu'on faisait maigre chez ses maitres le vendredi, cachait des os le jeudi</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le cabot-gueux-de-marque. joie de Cladel, qui fut béni par Béranger, compissa la culotte gris perle d'Alfred de Vigny et prit Lamartine pour un épouvantaH</p>
+        <p>L'inoubliable Hamilcar- orgueil de la race féline qui, « d'un bruit de gorge pareil au chant d'une bouiUoire &amp; accompagne tés platoniciennes dissertations du divin Anatole France.</p>
+        <p>Mais garde-toi, ami Docquois, de croire Mime un personnage de h M~t/c Le~Nibetungenxwerg parait dans l'Or (/K TfA/M et dans ~&lt;t~r/t'&lt; Point ailleurs.</p>
+        <p>-7;</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Brunetière (Ferdinand) 48, 84 B~M. 7 Rurdeau.73. 74,75</p>
+        <p>(:</p>
+        <p>CaiUavet(Gastunde) Car)yle.33,84 Céard (Henry t. 1~ ChaUetnet-t~acour. 74 Chamberlain &lt; Houstun-</p>
+        <p>Stewart).77,78 (.hambige (Henry) m Charpender 28 C~~A~ 64 Chenier (André). (? Cherbuliez Victor) 29Chevrillon 13 Cladel (Lëon) 86 Claretie (Jutes). 63, 64 niaudien. 6~ ~tétnenceau. 7U ~témentine( Princesse). 6U ~oppée (François). 5~ Honte (Edouard). 21 ~orday (Miche!). 8U ~ourteline (Geotges) 3U, 86 .:nsafulli. 64 ~f/~M~ (Z(f~ 77 :urel François de) 8~ t)</p>
+        <p>)ante 31. 61 )arwin. 19 baudet (Alphonse) 55 laudet (Ernest) 56 'audet (Léon). 13, 8~ 'egas. ?</p>
+        <p>INDEX</p>
+        <p>Adam (Pauh. 36, 37. a~~ Ii' Alexandre (Roi) 60 ) Atex:s(Paat). 16 Amie (Henri) 56 Ardel (Henri) 38 Arëne(Pau!). M Auguex(M"~). 55 Auriol (Georges). 3U</p>
+        <p>Axais. 6</p>
+        <p>B</p>
+        <p>Rach&lt; Jean-Sébastien).. 1. Baedeker. 7U ¡ Bakounine 19 Batzac. Baret. 84 Barré. 55 Barrès (Maurice) 34. 36. 74. 8~ Baudelaire (Chadesh M n Baudry de Saunier. 61, 62 &lt; Bauer (Henry). ~7, 28 &lt; Becque (Henry) 63 &lt; Beethoven. 13 &lt; Béranger. 86 ( Bernard (Tristan) 30 ( BiU Sharp 8U ( Blanche (Docteur). 30 &lt; Bois(Jfu!es).5l,53 ( Bonaparte. 7, 10 Bonnamour (Georges). 18, 31 Bonnefon (Jean de) 59 E Bourbon (François de).. 21 1 Bouyer (Raymond) 13 l Brète(JeandeIa) 38 D Bruckmann (Hugo) 78 D Brulat(Paul) 15, 16, 17, 80, 81 D</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Goudeau (Emile) 86</p>
+        <p>Gfasset. 28</p>
+        <p>Guaita (Stanislas de). 3?</p>
+        <p>Gugenheim 36</p>
+        <p>GuHIaume (Albert) 33, 48, 80</p>
+        <p>Guyau M</p>
+        <p>Gyp. 57</p>
+        <p>H</p>
+        <p>Haraucourt (Edmond). 51</p>
+        <p>Harel (Faut). 86</p>
+        <p>Heine (Henri). 69</p>
+        <p>Hendnch. 78</p>
+        <p>Hepp (Alexandre). 59, 60</p>
+        <p>Heredia (José-Maria de). 48</p>
+        <p>Herkomer. 78</p>
+        <p>Hermant (Abel) 11</p>
+        <p>Hervieu (Paul) 82</p>
+        <p>Herz (Cornétius) 36</p>
+        <p>Hervitty (Ernest d') 47</p>
+        <p>Hugo (Victor). 62</p>
+        <p>Hugues (Clovts). 86</p>
+        <p>Hume 74</p>
+        <p>Huysmans(J-K.) 58,83</p>
+        <p>1</p>
+        <p>Ibsen. 68</p>
+        <p>Ingres 78</p>
+        <p>Isabelle (Reine). 21</p>
+        <p>Izoulet-Loubatières (J.-</p>
+        <p>B.-J.) 84, 85</p>
+        <p>J</p>
+        <p>Jaubert (Ernest) 68</p>
+        <p>Jossot 63</p>
+        <p>Jourdain (Frantz) 28, 29</p>
+        <p>K</p>
+        <p>Kaempffer 78</p>
+        <p>Kahn (Gustave) 60</p>
+        <p>Kant. 34, 74</p>
+        <p>Korolenko. 67, 68</p>
+        <p>L</p>
+        <p>Labruyère (Georges de). ?</p>
+        <p>Laf6tte (Paul) 14</p>
+        <p>Laforgue (Jules). 13</p>
+        <p>Lamartine 45, 63, 86</p>
+        <p>Lambelin (Roger). 56</p>
+        <p>Peroulede (Faut) 73 Descartes. 13, 74 Descaves (Lucien). 67 Deschamps (Gaston) 73, 74, 75 Desjardins (Pau!) 39 Dickens (Charles) 13 Docquois (Georges) 85, 86 Dostoiewshi 18, 68 Dounuc(René) 10 62, 82, 83 Dreyfus (Abraham) 63 Dubus(Edouard). 55 Dujardin Edouard) 13 Dumas (Alexandre! 63 Dupont(Paul). 73 Durand-Grévi!!e(~t" ) 68 Dusautoy 52 E</p>
+        <p>Emerson. 85 Ernst (Alfred) 43, 45 F</p>
+        <p>Fantin-Latour 13 Farandole (Guy de la). ? réneon (Félix) 65 Ferdinand (Prince). 60 Fiât (Paul). 21 Fleury (Maurice de). 53 Florian. 55 Foley (Charles) 5(! Fouché. 56 France (Anatole) 7, 8, 9, 13 55, 57, 60, 86</p>
+        <p>Franck (Alphonse). 59 Frenz. 78 Fuster (Charles). 45 G</p>
+        <p>Gabriel. 36 Gandara(dela) 56 GavaMlt(P~ui). 14, 15 Gay (Delphine) 10 Gebhardt 9 Germain (Auguste 32 Gide (André) 22, 23 Goethe. 61 Gogol 68 Go)schmann(!.éon). 68 Concourt (Edmond de). ~8</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Lamoureux 43 Lano (Pierre de). 80 Lanson (Gustave) 62 Laprade (Victor de). 4&amp; Larroumet. 63 LaRounat. 65 Larousse. 20 Lavedan (Henri) ? Lebiex. &amp;5 Leclaire 36 Leconte de Liste. 47 Le GofSc (Charles 19 Lemaitre (Jutes).. 48, 6~ Lenbach (F, von) 78 Lépine (Madeleine) 47 Levy (Jules) 55 Lorrain &lt;Jean). 50 M</p>
+        <p>Maeterlinck (Maurice).. 28. 34 83.85</p>
+        <p>Magron. 60 Malpy 47 MalIarmé(Stéphane). 13, 28 M, 57</p>
+        <p>MaUieux(Fernand) 68 Malvost (Henri de) 5t Manuel (Eugène) 47 Margueritte(Paut). 79 Martel (Nancy) 63 Massa (Marquis de) 80 Mauclatr (Camille) 34 Maurras(Charles)80. 31. 54, 60 62, 68</p>
+        <p>May~rier (Raymond) 55 Mazel (Henry). 58 A~~w~M~w. 43 Mendès (CatuHe) 24 Michaël. 62 Michel Ange 7 Michelet. 52 Milan (Roi) 59, 60 MiMy-Tréfontaine. 72 Mirbeau (Octave) 22 Mirmaa 54 Mistral (Frédéric). 55 Montesquieu 86 Moréas (Jean). 68 Moreau-Vauthier ~Char-</p>
+        <p>les) 29</p>
+        <p>Morhafdt (Mathias). 6&amp; Mortier (Alfred). 43 Murger( Henry). M X</p>
+        <p>Kervat (Gérard de). 69 Nietxche.74.84 0</p>
+        <p>0&lt;ïbët (Jacques d ) 43, 44 Ohnet (Georges) 16, 3!&lt;. 57. 81 Otero. 81 Ouvreuse du Cirque</p>
+        <p>d'Eté (L) 4~ P</p>
+        <p>Parisse. 36 Péchoin 36 Péladan (Joséphin) 32 Pellisssier (Georges). 78 Pert (CamiHe). 40 Pilon (Edmond). 33 Platon 60. 74 Plautus. 17 Pion 29 Poincarré 55 Prévost (Marcel) 57 Pouvillon 53, 54 Pugno (Raoul) 56 Q</p>
+        <p>Qjtesnay de Beaurepairc 71 Q.aintilien 6~ R</p>
+        <p>Rabelais 34 Racine 55. 65 Raffet 80 Rambosson (Yvanhoê) 53 Ravachol. 71 Raynaud (Ernest) 68 Rebell (Hugues). CO, 68 Redon (OdUon) 28 Regnier (Henri de) .34, 46 Renan (Ary) 20 Renan (Ernest). 13, 85 Renard (Jules). 17, 30, 50</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Renoir. 28 Retté (Adolphe). 68, 69, 70 ~pM&lt;?JM'M&lt;' 13, 79 ~fcPKC /«&lt;f~&lt;'H~&lt;tH&lt;t' &lt; 13 J?t'PKt* ly~M~M~MMf. 13 Richepin Oean~ 75, 76</p>
+        <p>Rivo:fe(Andr~ 45, 48</p>
+        <p>Robert (Louis de) 50 Rochefoucauld (Lat 81 Rogef'Mictos (M'*t. 42 Ronsard 6~; 68 Rosmer(FeMc;a). 10 RosnyO.-H.) 83 Rousseau (Jean-Jacquest '&gt; 19 Roz(Fif!nin). 84, 85 S</p>
+        <p>Sabatier (Antoine). 9 Saint Bernafd 14 Sainte-Beuve. 19 Saint François d'Assise 9, 13 Saint-Po!.Ronx-leMagni-</p>
+        <p>Soue 61 Salis (Rodolphe). 55 Salvator (Archiduc) 21 Sarcey (Francisque) 64 Sardou (Victorien). 63 Saussioe(de). 42 Schener(Robert). 35 Schopenhauer. 74 Schumann. 85 Schwob (Marcel). 49 Segalas(Ànats). 10 Séverine 38. 55 Shakespeare 68, 69 SHvestre (Armand). 76 SimonOules). 48 Simonis-Empis 41 Soubeyre(B). 46, 47 Spinoza 74 Steinlen 51, 70, 85 Sully-Prudhomme. 46</p>
+        <p>T</p>
+        <p>Tailhade&lt; Laurent). 56, 7ù Takovo (Prince de) 60 Terentius(PnMius) 17 Theodorof. 59 Theuriet( André). 66 Thiers(Adolphe). 37 Thorel(Jean). 4t Titlet (Jacques du). 64 Tinseau (LéQn de). 38 ToMiouse-tautrec 29 Tolstoï 18, 28, 4i. 68 V</p>
+        <p>Vallotton 72 Vanderem (Fernand ). 86, ~7 Veber(Jean). 48. 49 Veber (Pterf~ 30, 48. 49 Veber's (Les). 11, 48 Verlaine (Paul) 63 Véron (Pierre). 50 Vielé-GnfSn (Franc;s) 46 61. 83</p>
+        <p>Vigny (Alfred de) 73, 86 ViÏliersdel'Isle.Adam.. 13 Virgile 14, 65 Vogué (Melchior de).. 67 W</p>
+        <p>Wagner (Cosima). 78 Wagner (Richard).. 13, 34, 43 44, 77. 78, 82, 83</p>
+        <p>Wilde (Oscar) 12 Willette (Adolphe) 28 Willy. 48 Wyzewa (Teodor de) 13, 14</p>
+        <p>Z</p>
+        <p>Zod'Axa. 7U; 71, 72 Zola (Emile) 10, 11, 16, 18 62, 84</p>
+        <p>
+          <pb/>
+        </p>
+        <p>f.cPuitsde&amp;uote'Ct.tire. y La Vieet les Moeurs M Le Frisson de Paria. tt r XosMaitres. t3 Snob. t4 Rédemption t5 PasseFAmour. t&lt;) t-) Espagneet Provence 20 Pahtdes. 2a L'Heautonparateroumène. 24 L'Autre Femme. 25 Charlie 26 Mémoiresd'unjeune Homme 3 #~ Les Décoras 28 LesGamineriesde M. Triomphant 29 X. 3" LeTrimardeur 1 3! Théâtrcuses 3a CouronnedeCtartë. 33 LcCheminNuptial. 35 LeMystèredesFouJes. 36 ReveBtanc. 38 Amoureuses 40 Le Joyeux SacriSce. 41 Le Prisme. 42 Une XouveUe Traduction de Wagner 43 Trois Poètes. 45 LesVeber's 48 Fragiles. 50 te Satanisme et la Magie $i Pays et- Paysages 53 LeMidibouge. 54 LedemierBohéme. 55 LaPoticeettesChouans. 56 LesGensChics. 57</p>
+        <p>TABLE</p>
+        <p>fM&lt;*</p>
+        <p>
+          <pb/>
+        </p>
+        <p>fMM</p>
+        <p>FlottiUedansie Golfe. 58 Minutes d'Orient. 50 Chaot!tdelaPMeetduSn!eit. 60 LetMtwtaot. 61 Souvenirs d'un Auteur dramaHque 63 LeLivredeMargnente 65 Flavie 66 Le Musicien aveugle 67 Thuiédes Brumes. 68 De Mazas Jérusalem yo Journatd'unoiBcierdeCavaterie. 72 Une Evasion. ~3 Ftambc~he. 75 Le «Richard Wagner n de H.-S. Chamberlain 77 Simple Histoire. 78 SoastaFenêtre. 80 Les Jeunes. Sa Les "Sur-Humains* 84 BetesetGensdeLottres. 85</p>
+        <p>St-Amand. ïmp Em. Pii;o«'~)</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Achevé &lt;f&lt;M~r/M&lt;'r</p>
+        <p>Le trente janvier mil huit cent qnatre-vingt-seize PAR</p>
+        <p>EMILE PIVOTEAU</p>
+        <p>Imprimeur de « Ï.A CRïTIQ.UE ·</p>
+      </div>
     </body>
   </text>
 </TEI>

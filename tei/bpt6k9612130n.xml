@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
- <teiHeader>
-<fileDesc>
-<titleStmt>
-<author key="Le Blond, Maurice (1877-1944)">Maurice Le Blond</author>
-<title>La publication de "La terre" / Maurice Le Blond</title>
-</titleStmt>
-<editionStmt>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La publication de “La terre” / Maurice Le Blond</title>
+        <author key="Le Blond, Maurice (1877-1944)">Maurice Le Blond</author>
+      </titleStmt>
+      <editionStmt>
         <edition>OBVIL/BNF</edition>
         <respStmt>
           <resp>reprise des textes</resp>
           <name>Amélie Canu</name>
         </respStmt>
       </editionStmt>
-<publicationStmt>
+      <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
         <availability status="restricted">
@@ -22,1313 +22,969 @@
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
-<sourceDesc>
-<bibl>
-<author>Le Blond, Maurice (1877-1944)</author>, <title>La publication de "La terre" / Maurice Le Blond</title>, <date>1937</date>,description :Collection : Les grands événements littéraires. 5e série,128 pages
-</bibl>
-<publisher>Edgar Malfère (Paris)</publisher>
-<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k9612130n</idno>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1937">1937</date>
-</creation>
-<langUsage>
-<language ident="fr"/>
-</langUsage>
-</profileDesc>
- </teiHeader>
+      <sourceDesc>
+        <bibl> <author>Le Blond, Maurice (1877-1944)</author>, <title>La publication de "La terre" / Maurice Le Blond</title>, <date>1937</date>,description :Collection : Les grands événements littéraires. 5e série,128 pages </bibl>
+        <publisher>Edgar Malfère (Paris)</publisher>
+        <idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k9612130n</idno>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1937">1937</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-    <div>
-<p>LES GRANDS ÈVÛNBM HM 7S</p>
-<p>£, y ITTÊRAÈRES</p>
-<p>\\ -U CRICE LE BLOND</p>
-<p>de</p>
-<p>A ,JiL. ufili A iifc» -SL..</p>
-<p>Sonflp. r:ar,cr;i§e raniMs Liuêrsirss 81 Tecjinîpes rj, RUE
-HAUTËi'KUll.i.K, PARIS (»* it.lh'.A R MÀLFKKK, DIRECTEUR</p>
-<p><pb/></p>
-<p>a Solaire 'z.</p>
-<p>20 »</p>
-<p>U ú 1. i'</p>
-<p>.... 12 » ... 12 1 ... 2U » André F ii»« _ » R.-M. HERMANT. — isatl
-Pamphlets i2 » Lucien JACQUES. — La Paque dans la Grange 12 » Tristan
-Klingsor, — Humo e ques 12 » — ch h r zade 12 » — P s de Brugnon 12 »
-Loys L beque. — Le J i oi m tique 12 » Philéas LEBESG- E. — L ;; l..ha
-ns de Margot 12 » MAGA'i-BoisK rd.— et le ¥ imier ... 20 » A^pho?ise M
-'.T ' t. — L livr des Soeurs 12 » — Cahi noir 12 » — Ne urnes 20 » Henri
-Mus- ilr . 1 Franciade 12 » Fra-Npois Nfbvivx-, L Se r t partagé 12 »
-Louis PA YEN - L C u,. d' mbre. ]. 12 » Jean ROYÈRE. 0 SI'S È es 12 T
-CH. DE SAINT-CYR. — Le li d I eult 12 » ALPHONSE Séché. — Un petit to ■
-d'éternité 15 » TuÉe Varlet. — Aux libres jardins 12 » JnLiB-v Vo NCE. —
-Le li v re des Haï-Kaï 15 »</p>
-<p>Traductions du grec et du latin</p>
-<p>par Thierry-Sandre</p>
-<p>1 de ma m r. lut.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>™</p>
-<p>LES GRANDS ÉVÈNEMENTS LITTÉRAIRE</p>
-<p>Histoire littéraire et anecdotique des chefs-d œuvre français et
-étranger publiée sous le direction de</p>
-<p>MM. Antoine Albalat, Henri d'Aimeras, André Bellessort et Joseph Iœ Gi</p>
-<p>/ Henri d'AJ,MÉRAS Le Tartuffe, de Molière.</p>
-<p>| Éd. BENOIT-LÉVY tes Misérables, de Victor Hugo.</p>
-<p>1 Jules BERTAUT Le Père Goriot, de Balzac. V René DUMESNIL La
-Publication de Madame Bovary.</p>
-<p>•2 1 Félix GAIFFE Le Mariage de Figaro.</p>
-<p>-S 1 Louis GIMBAUD Les Orientales, de Victor Hugo. M Y Joseph LE GRAS
-Diderot et l'Encyclopédie.</p>
-<p>* J Henri LYONNET Le Cid, de Corneille.</p>
-<p>'q / Comtesse J. DE PANQE De l'Allemagne, de Mme de Staël.</p>
-<p>f Alphonse SÉCHÉ La Vie des Fleurs du Mal. Louis THUASNE Le Roman de la
-Rose.</p>
-<p>\ Paul VULLIAUD Les Paroles d'un Croyant.</p>
-<p>! Antoine ALBALAT L'Art Poétique, de Boileau. ;</p>
-<p>Jl enri D'ALMÉRAS Les Trois Mousquetaires. i A. AUGUSTIN-THIERRY Récits
-des Temps Mérovingiens. Albert AUTIN L'Institution Chrétienne, de Calv'u
-S Georges BEA UME Les Lettres de Mon Moulin. M René BRAY Les Fables, de
-La Fontaine. | Raymond CLAUXEL Sagesse, de Verlaine. j* YVES LE FESVRK
-Le Génie du Christianisme.</p>
-<p>Ph. VAN 'J'IFGHFM La Nouvelle Héloise. | Maurice MAGENDIE L'Astrée,
-d'Honoréd'Urfé. | Georges MONGRÉDIEN Athalie, de Racine. ri Ernest
-RAYNAUD Jean Morécu et les Stances. jj / Albert BAYET Les Provinciales. A</p>
-<p>[ Jeanne L ANDRE tes Soliloques du Pauvre.</p>
-<p>i LONGWORTH-OHAMBRUN Hamlet, de Shakespeare. j V Joseph VIANEY Les
-llegret8, de Du Bellay.</p>
-<p>.2 1 Auguste Du POU Y Carmen, de Mérimée. -t ) Albert AUTIN Le Disciple,
-de Bourget.</p>
-<p>ta GUY DE LA BATUT L'Oraison Funèbre d'Henriette d'Angleterre, de Boaa
-ôj René DUMESNIL En route, de J. K. Huysmans.</p>
-<p>Raymond CLAUZEL Une Saison en Enfer et A.Rimbaud. % | Eugène LASSERRE
-Manon Lescaut. S I A. AuGusTM-THiEnny Les Liaisons Dangereuses.</p>
-<p>\ Henry LYONNET La Dame aux Camélias. -j i Gustave FRËJAVILLE tes
-Méditations, de Lamartine. 'Â</p>
-<p>Léon DEFFGUX L'A.!sommoir, d'Émile Zola. ;,j| N. BRIAN-CHANINOV La
-Guerre et la Paix, de Tolstoï.</p>
-<p>Henri JI AUVETTE Les Canzonières, de Pétrarque. 'j Henri d' AI.MÉRAS Le
-Roman Comique, de Scarron. | Albert LANTOINE Les tentes Philosophiques,
-de Voltaire. | Pierre ViLLEY Les Essais, de Montaigne. 1 Joseph VIANYY
-Les Odes, de Ronsard. '0 J Georges J AItBINET Les Mystères de Paris,
-d'Eugène Stie. 3 Antoine ALBALAT La Vie de Jésus, d'Ernest Renan. ;j
-René DUMESNIL tes Soirées de Médan. '1 Joseph VIANEY Les Poèmes
-barbares, de Leconte de l'Isle. |</p>
-<p>~i ! Arthur GUY • Les Robaï, d'Omer Kheyyam. J</p>
-<p>É mile-François JULIA *• Les Mille et une Nuits et l'Enchanteur Mardrus.
-(,US 'Ve HUDLER Adolphe, de Benjamin Constant.</p>
-<p>Maurice ALLEM 00 Sainte Beuve et Volupté. h Joseph Vl&amp;l,'Ey Les Epîtres,
-de Marot. £] Raymonde LEFÈVRF: Le Mariage de Loti.</p>
-<p>René DUMESNIL L'Education sentimentale. A Pierre MOREAU Les Destinées,
-de Vigny. - £&amp;}•. û GERIN-KICARD Fustel de Coulanges. '3 Joseph BOLLBRY
-»•* Le Désespéré, de Léon Bloy. W Henri d'ALmÊRàg * Paul et Virginie
---"M M9 Maurice LE BLOND ............ La Terre, de Zola. •'$</p>
-<p>(Sixième série en préparation)</p>
-<p><pb/></p>
-<p>La Publication de</p>
-<p>LA TERRE</p>
-<p><pb/></p>
-<p>OUVRAGES SUR ZOLA</p>
-<p>PARUS DANS I,A MÊME COIXECTION</p>
-<p>LA PUBLICATION DE L'ASSOMMOIR par LÉON DEFFOUX</p>
-<p>LA PUBLICATION</p>
-<p>DES SOIRÉES DE MÉDAN par RENÉ DUMESNII,</p>
-<p><pb/></p>
-<p>LES GRANDS ÉVÉNEMENTS LITTÉRAIRES</p>
-<p>MAURICE LE BLOND</p>
-<p>La Publication de</p>
-<p>LA TERRE</p>
-<p>SOCIÉTÉ FRANÇAISE</p>
-<p>D'ÉDITIONS LITTÉRAIRES ET TECHNIQUES</p>
-<p>12, Rue Hautefeuille, PARIS (6e)</p>
-<p>Edgar MALFÊRE, directeur</p>
-<p>1937</p>
-<p><pb/></p>
-<p>IL A ÉTÉ TIRÉ DE CET OUVRAGE</p>
-<p>30 EXEMPLAIRES SUR PAPIER PUR</p>
-<p>FIL NUMÉROTÉS DE 1 A 30</p>
-<p>Tous droits de traduction et de reproduction réservés</p>
-<p>Copyright by Edgar Malfère 1937</p>
-<p><pb/></p>
-<p>A MES AMIS</p>
-<p>MARCEL BATILLIAT</p>
-<p>ET</p>
-<p>LÉON DEFFOUX</p>
-<p><pb/></p>
-<p>Plan deJRôïniUy-sur-Aigre en 1886.</p>
-<p><pb/></p>
-<p>Plan de Rognes, de lajnain de^Zola, avec l'indication des maisons des
-personnages.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>CHAPITRE PREMIER</p>
-<p>A QUAND REMONTE LA CONCEPTION DE LA Terre ? — MÉDAN, COMMUNE RURALE. —
-ZOLA, CONSEILLER MUNICIPAL. — LE CHOIX DE LA BEAUCE ET LES ORIGINES
-MATERNELLES DE L'ÉCRIVAIN. — IYA Terre DANS LA SÉRIE DES ROUGON-MACQUART.</p>
-<p><pb/></p>
-<p>Un peu plus tard, vers 1882, quand il publie son</p>
-<p>(1) Fernand Xau. Emile Zola, Marpon et Flammarion, 1880.</p>
-<p><pb/></p>
-<p>Emile Zola, notes d'un ami, Paul Alexis, dans un chapitre sur les
-projets du grand écrivain, mentionne son roman paysan.</p>
-<p>« l'état de leurs récoltes. »</p>
-<p>Alexis ne nous apporte, en somme, que peu de détails sur l'œuvre future.
-Il nous fournit pourtant une indication très intéressante et qui mérite
-d'être retenue : l'influence qu'eut Médan sur la conception de La Terre.</p>
-<p>Lorsque Zola s'installa dans cette commune mi-</p>
-<p><pb/></p>
-<p>« Depuis dix ans que j'habite Médan, confiait « Zola, en avril 1887, à
-un rédacteur du Parti National, « je me suis tenu au courant de toutes
-les petites his« toires villageoises, de tous les menus cancans de la «
-ferme et j'ai entassé notes sur notes. Cela n'a pas « toujours été
-facile. Le paysan n'est pas parleur et « garde volontiers ses affaires
-pour lui. Je me suis</p>
-<p><pb/></p>
-<p>« laissé nommer conseiller municipal de Médan, ce « qui m'a permis
-d'étendre mes investigations. Je « n'ai d'ailleurs reculé devant aucun
-moyen. J'ai fait « causer mes domestiques avec lesquels les paysans « se
-montraient plus confiants qu'avec un bour« geois. »</p>
-<p>La Beauce n'était-elle pas la terre d'origine de sa famille maternelle ?
-Sa mère Emilie, Aurélie Aubert</p>
-<p><pb/></p>
-<p>i. trnest Seillière, Emile Zola Bernard Grasset, 1023), p. g.</p>
-<p>2. tdouard Toulouse, Enquête médico-psychologique sur les rapports de la
-supériorité intellectuelle avec la névropàthit. Emile</p>
-<p>Zola (Société d'éditions scientifiques, 1896), p. m.</p>
-<p>3. Emile Zola raconté par sa fille (Fasquelle, 1931).</p>
-<p><pb/></p>
-<p>Son dessein, le romancier de La Terre l'a résumé en tête de ses notes de
-travail :</p>
-<p>« La Terre est l'histoire du paysan français, son « amour du sol, sa
-longue lutte pour le posséder, ses « travaux écrasants, ses courtes
-joies et ses grandes « misères, le paysan s'y trouve étudié, dans ses
-rap« ports avec la religion et la politique, et sa condition « présente
-y est expliquée par son histoire passée ;</p>
-<p><pb/></p>
-<p>« Ajoutez que j'entends rester artiste, écrivain, écrire le poème vivant
-de la terre : les saisons, les travaux des champs, les bêtes, la
-campagne entière 1. »</p>
-<p>i. Emile Zola, Œuvres Complètes. Correspondance, p. 601.</p>
-<p><pb/></p>
-<p>CHAPITRE II</p>
-<p>LA MÉTHODE DE TRAVAIL DU GRAND ROMANCIER. — LA DOCUMENTATION LIVRESQUE.
-— LES TÉMOINS ET LES INFORMATEURS . LE SOCIALISME AGRAIRE ET JULES GUESDE.</p>
-<p>i. Henri Massis : Comment Emile Zola composait ses romans (Fasquelle,
-1907).</p>
-<p><pb/></p>
-<p>Sa méthode ou, si l'on préfère, ses procédés de composition, le Dr
-Toulouse, dans son enquête médico-psychologique 1 sur le grand écrivain,
-les a décrits en termes excellents, dont voici l'essentiel :</p>
-<p>i. Edouard Toulouse : ouv. cité. D. 268.</p>
-<p>2. C'est l'idée générale de « la Terre » que nous avons essayé de fixer
-dans le chapitre précédent.</p>
-<p><pb/></p>
-<p>« fisamment son roman pour terminer son ébauche. « Il décrit alors la
-vie de ses personnages ordinaire« ment très nombreux, et établit ce que
-nous, mé« decins, nous appellerions leur observation...</p>
-<p>« sommaire bien détaillé de la conduite de l'action. »</p>
-<p>Les livres consultés par l'auteur pour l'élaboration de La Terre, ses
-notes de travail nous indiquent les titres de quelques-uns d'entre eux.
-On constate que tout ce qui concerne l'ethnographie paysanne, l'économie
-rurale, la technique agricole, l'intéresse d'abord : Les Populations
-agricoles de la France (Baudrillard) ; Le Petit Berquin agricole ;
-L'agriculture et la population et L'Economie rurale de la France (L. de
-Lavergne) ; Les Travaux des champs (Goigneaux) ; L'Enquête sur
-l'agriculture américaine, faite par trois membres de la Chambre de
-commerce aux ÉtatsUnis, etc... Zola dépouilla, en outre, des
-collections, des revues spéciales, des almanachs populaires, les «
-Veillées au Village », des statistiques de toute sorte.</p>
-<p>Selon son habitude, il s'entoura d'informateurs bénévoles, qu'il
-choisissait pour leur compétence spéciale en la matière qui l'intéressaitx.</p>
-<p>i. Parmi les informateurs dont Zola utilisa ainsi la compétence</p>
-<p><pb/></p>
-<p>« en effet. »</p>
-<p>Elie Cassé insistait auprès de l'écrivain pour qu'il</p>
-<p>et l'amitié au cours de sa vaste enquête des Rougon-Macquart, il faut
-citer, entre autres, Jules Ferry pour la Curée, Maxime Ducamp pour le
-Ventre de Paris, Chauchard pour Au Bonheur des Dames, Edmond Perrier,
-directeur du Muséum d'Histoire naturelle, pour la Joie de Vivre,
-l'architecte Frantz Jourdain pour le Rêve, l'ingénieur Dormoy pour
-Germinal, l'historien Alfred Duquet pour La</p>
-<p>Débâcle, le docteur Maurice de Fleury pour le Docteur Pascal, etc...
-sans compter Henry Céard, Gabriel Thyébaut et J. K. Huysmans.</p>
-<p><pb/></p>
-<p>2. C'est, d'autre part, Me Mallet qui servit au romancier de modèle pour
-le personnage de Maître Baillehache, le notaire de Cloyes qui assiste
-avec un flegme professionnel aux terribles querelles de sa clientèle
-paysanne.</p>
-<p><pb/></p>
-<p>Dans son livre, Zola se proposait encore d'aborder la question sociale,
-de laisser pressentir l'avenir, d'indiquer le rôle possible du paysan
-dans une révolution socialiste... et c'est ainsi que l'auteur de La
-Terre eut l'idée de s'aboucher avec Jules Guesde et de l'interroger sur
-ces problèmes.</p>
-<p><pb/></p>
-<p>« science... »</p>
-<p>Deux ans plus tard, soucieux d'entendre Guesde exposer sa théorie de la
-question sociale dans les campagnes, Zola pria donc Paul Alexis de
-s'aboucher avec ce dernier pour leur ménager une entrevue et, si l'on
-croit une lettre du même Alexis, datée du 25 avril 1886, cette entrevue
-aurait eu lieu quelques jours plus tard,</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>« prompts. Le temps et le prix de la traversée di« minuent, de sorte que
-bientôt on amènera des trou« peaux sur pied, on nous inondera de pain et de</p>
-<p>Tel est l'avenir, et en face de cet avenir redoutable, Guesde montre la
-pauvreté de notre organisation économique.</p>
-<p>« terre. Tous les biens affermés deviendraient la</p>
-<p><pb/></p>
-<p>« propriété de la nation, qui les ferait cultiver d'après « les
-principes nouveaux, car la concentration seule « peut sauver notre terre. »</p>
-<p>« Donc, paix au petit propriétaire cultivant lui« même, dépossession
-seulement des grands proprié« taires employant des salariés.</p>
-<p><pb/></p>
-<p>« Ces idées ne datent que de quelques années, et « leur rapide progrès,
-selon Guesde. Guesde était « seul, il devient légion. »</p>
-<p><pb/></p>
-<p>CHAPITRE III</p>
-<p>LE VOYAGE EN BEAUCE. — LA RECHERCHE DU DÉCOR.</p>
-<p>— CHARTRES, Romu,,L y-suR-AirRE, CLOYES, CHATEAUDUN. — COMMENT ZOLA
-RECONSTRUIT LE VILLAGE DE ROGNES. — LES FERMES ET LES MARCHÉS. — LE
-GRAND MOTIF SYMPHONIQUE DE LA Terre.</p>
-<p><pb/></p>
-<p>Réélu député, il connaissait admirablement la contrée, et le romancier
-l'ayant mis au courant du genre de paysage qui conviendrait au décor de
-son œuvre, il lui conseilla de visiter dans le Dunois, ces parages très
-caractéristiques, appelés « petite Beauce, ou Beauce Pouilleuse »
-situés, non loin du Loir, a proximité des collines du Perche.</p>
-<p><pb/></p>
-<p>son esprit l'histoire de la « Confiserie » et des Charles, ces
-tenanciers enrichis qui vivent entourés de la déférence respectueuse de
-tout le village, l'une des anecdotes les plus amusantes de La Terre. Il
-enregistre que les maisons sont le 15, le plus bas, le 20 entre les deux
-et le 19, le plus chic où il y a trois femmes. Toutes trois, mal tenues
-(on y éreinte les femmes 1) appartiennent au même individu, ce qui
-empêche la concurrence. « Ah ! Monsieur, il y aurait de l'argent à
-faire, si on ouvrait une maison propre, avec des capitaux, et où l'on
-satisferait le client ».</p>
-<p><pb/></p>
-<p>« Et voilà. Un temps merveilleux, un pays char-</p>
-<p>« mant... »</p>
-<p>Romilly-sur-Aigre : Ce petit bourg est fort plaisant,</p>
-<p>2. Ce n'est pas seulement aux alentours de Cloyes qu'il existe des
-vignobles. La culture de la vigne était pratiquée aussi dans la région
-de Maintenon et de Jouy. Sans doute, la vigne s'est faite plus rare en
-Beauce depuis 1 apparition du phylloxéra, mais, il n'y a pas longtemps,
-il existait encore dans le département plusieurs confréries de vignerons.</p>
-<p><pb/></p>
-<p>Zola est fier de sa découverte, voici bien le village qu'il lui faut. Il
-n'hésite pas. C'est ainsi que ce petit bourg sans histoire deviendra le
-village symbolique de La Terre, qui, par la suite, restera fameux sous
-le nom de Rognes.</p>
-<p><pb/></p>
-<p>recouvertes de ronces, noyées sous les lierres, et c'est dans une de ces
-caves que gîtera l'aîné des Fouan, Hyacinthe dit Jésus-Christ, avec sa
-fille « la Trouille ».</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Emile Zola séjourna plusieurs semaines dans la région, visitant les
-fermes, les cabarets, assistant aux marchés et aux foires, causant avec
-les uns et les autres ; parcourant en tous sens l'immense plaine, à
-toutes les heures du jour.</p>
-<p><pb/></p>
-<p>Zola composa ses -aw«es. (La Gran4 Revue, juin 1924).</p>
-<p><pb/></p>
-<p>de la cinquième partie où les personnages de La Terre se retrouvent au
-marché de Cloyes, l'un des tableaux les plus magistralement brossés de
-son livre.</p>
-<p>Cependant, ce dont le romancier s'imprègne longuement, au cours de son
-inlassable randonnée, c'est du spectacle magnifique de la Beauce. Il en
-absorbe le paysage monotone et grandiose, il en retient les lignes
-panoramiques qui formeront le fond de sa fresque. Déjà, il prévoit les
-motifs d'orchestre qui, sans cesse, dans son livre, commenteront les
-gestes, l'action de ses personnages, les baigneront d'un large flot de
-poésie.</p>
-<p>Sans cesse, il y revient :</p>
-<p>« Les seigles gris aux remous rougeâtres, le blé vert « jaune, l'avoine
-vert bleu, le trèfle incarnat d'un vert « plus noir que le trèfle
-ordinaire, et la couleur lorsque « les fleurs rouges ou roses sont en
-masse, rappellent « l'ondulation des vagues. Puis, les clochers qu i «
-émergent comme des mâts ; puis, les villages pareils</p>
-<p><pb/></p>
-<p>Ne trouve-t-on pas ici la notation première de l'un des principaux
-thèmes symphoniques qui animent les pages de ce grand poème qu'est La
-Terre ? Et n'est-ce pas le cas de rappeler le rapprochement que faisait
-naguère entre l'auteur de La Tétralogie et Zola, le célèbre écrivain
-allemand Thomas Mann, lorsqu'il estimait qu'il y avait parenté
-d'inspiration et de moyens — par exemple le leitmotiv — entre Richard
-Wagner et le grand écrivain ? A ce propos, M. Auguste Villeroy 1 pouvait
-écrire :</p>
-<p>« où la voix de l'homme intervient seulement comme « une résultante,
-comme l'émouvante et nécessaire « partie d'un ensemble ? »</p>
-<p>i. Auguste Villeroy : Wagner et Zola (Comœdia, 3 août 1933).</p>
-<p><pb/></p>
-<p>CHAPITRE IV</p>
-<p>L'UTILISATION DES MATÉRIAUX. — L'ÉBAUCHE. — LA « TERRE », HÉROÏNE DE
-L'OEUVRE. — LES PERSONNAGES PRINCIPAUX ET SECONDAIRES. LEUR ÉTAT-CIVIL
-ET LEUR RÔLE. — PRÉDISPOSITIONS PHYSIQUES ET MENTALES. — APPORT DANS
-L'ÉPOPÉE D'UN ÉLÉMENT COMIQUE. CONCORDANCE DES TRAVAUX, DES AMOURS ET
-DES SAISONS.</p>
-<p><pb/></p>
-<p>« C'est une œuvre bien longue, bien hardie et qui me donne un mal infini ».</p>
-<p>«... La terre. C'est l'héroïne de mon œuvre... Il faut</p>
-<p><pb/></p>
-<p>« but... »</p>
-<p><pb/></p>
-<p>Le premier de ceux-ci est Louis Fouan, cette figure du vieux paysan
-dépossédé, que, dans son roman, Zola a traitée avec une rare puissance
-et une tendresse apitoyée. Voici, d'après ses notes de travail, comment
-il conçoit la physionomie du père Fouan et comment il détermine son rôle :</p>
-<p>« Louis Fouan. — Il a soixante-dix ans en 59. Il est donc né en 1789 et
-il aura quatre-vingt-un ans en 70, lorsqu'il mourra.</p>
-<p>Caractère ; il a été violent, autoritaire, très travailleur,</p>
-<p><pb/></p>
-<p>« Marianne Fouan, dite la Grande. — Née en 1779 a vu la Révolution,
-quatorze ans en 93. L'aînée des Fouan, sœur de Louis, de Jérôme et de
-Charles. Elle</p>
-<p><pb/></p>
-<p>Françoise I\Iouche. — Quatorze ans de moins que son marz', Plus petite
-que sa sœur, mais lui ressemblant, sans éclat, le bnÚt, la gaÙtJ. Plus
-jolie d'abord, les traits réguZz'ers. Yeux JJlagniflques, grands,
-profonds, bruns. Elle brune, lèvres fortes, un ncz droit, sous un front
-pcld, très bon, face allongée, petite gorge dure, yeux noirs très
-profonds, reste mince, léger duvet aux lèvres, dès la pu berté. Femme de
-bonne heure, hâlée, dorée déjà. Passionnante, grisant comme la terre,
-ceux qui l'approchent. Maigre mais forte en odeur, une bonne</p>
-<p><pb/></p>
-<p>odeur de terre. Oui, pas très intelligente, un peu simple. Idées
-honnêtes, relativement. N'aime pas Jean, mais l'épouse tout de même.
-Plus attirée vers Buteau malgré sa colère. Comment elle se défend contre
-lui, et se laisse vaincre sans rien dire. Puis, sa révolte exaspérée...</p>
-<p>Si cela ne me la donne pas sympathique dans le sens romanesque du mot,
-cela me la donne vivante, et je n'en veux pas davantage. La faire très
-charnelle, très vivante, très simple, très admirable et très désirable
-dans son instinct.</p>
-<p>Delhomme. — Quarante ans en 59, cinquante en 70. Type de Burneron, roux
-avec figure carrée et calme. La peau épaisse et rouge brique, yeux
-ronds, bleu faïence, fixes. Les joues carrées, le menton carré, le front
-carré, le nez recourbé, la bouche fermée et carrée. Deux grands plis
-partent du nez et coupent le bas du visage en détachant le menton. Lent
-et court et muet. Parle très peu, se remue avec méthode. Un bœuf au
-travail, toutes les qualités : sobre, travailleur, honnête.</p>
-<p><pb/></p>
-<p>Connu pour sa justice qui le fait prendre Pour arbitre. Mais il ne faut
-pas que son intérêt, son droit surtout soit en jeu, car il devient alors
-impitoyable. Manquant enfin de tolérance et de bonhomie. Se laisse
-conduire par sa femme, sans que cela Paraisse</p>
-<p><pb/></p>
-<p>révolte. Elle le croit pourtant, dit que c'est cochon, mais trouve ça
-assez naturel au fond. Ce n'est que plus tard que la colère vient,
-lorsque le partage se fait et que la question d'intérêt les divise</p>
-<p>Dans sa note sur Jean Macquart, l'écrivain explique le rôle que celui-ci
-doit tenir dans l action du livre :</p>
-<p><pb/></p>
-<p>sa lourdeur d'intelligence, sentant la campagne et étant pour elle
-au-dessus de la possession immédiate... Il verra le paysage que
-Françoise et les autres ne voient Pas.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>il nous en dépeint la candeur primitive avec une hallucinante véracité.</p>
-<p>D'inéluctables instincts prescrivent, en quelque sorte, les gestes des
-divers personnages et leurs passions ; leurs énergies seront
-déterminées, par le concert des forces naturelles. Une secrète
-concordance n'existe-t-elle pas entre les épqques de l'année et les
-activités vitales de ces terriens qui ne peuvent se soustraire comme les
-habitants de nos villes aux exigences du calendrier ? Aussi trouve-t-on
-dans les notes de travail deux documents extrêmement curieux et que nous
-ne rencontrons nulle part ailleurs, lorsque nous compulsons les textes
-et matériaux réunis pour les autres romans. Il s'agit de deux plans par
-saisons. En dressant ces deux plans, s'avèrent une fois de plus les
-soucis scrupuleux de composition qu'apportait Emile Zola dans
-l'ordonnance de ses romans 1. Dans celui-ci, les travaux de la campagne,
-les germinations souterraines, le verdissement des plaines, les tâches
-des hommes et leurs amours, coïncideront avec les palpitations mêmes du
-sol, avec les féeries successives des heures et des jours.</p>
-<p>i. L'action de La Terre s'espace entre 1860 et 1870. La première partie
-se passe en octobre 1860. Le premier et le deuxième chapitre déroulent
-leurs épisodes un samedi, le troisième le mercredi suivant, le quatrième
-trois jours après et le cinquième le soir même du précédent. La seconde
-partie a lieu en été, la troisième en automne, la quatrième au printemps
-; les mois y sont aussi soigneusement indiqués.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>CHAPITRE V</p>
-<p>IvES ÉTRANGES COÏNCIDENCES D'UN PROCÈS AUTHENTIQUE AVEC CERTAINES
-PÉRIPÉTIES DU ROMAN. — 1/AFFAIRE LEBON. EN COURS D'EXÉCUTION, L'ÉCRIVAIN
-MODIFIE SON DÉNOUEMENT. LES DEUX « MORTS » DU PÈRE FOUAN.</p>
-<p>La mise en chantier de La Terre avait, de son aveu même, causé au maître
-de Médan un mal énorme, et sa fatigue était telle, au mois de septembre
-1886, qu'il fut obligé de s'interrompre pour prendre un peu de repos. Il
-partit donc pour Royan où l'appelait son éditeur Georges Charpentier ;
-il passa plusieurs semaines sur cette plage, en compagnie d'une bande
-d'amis, le critique d'art Théodore Duret, le collectionneur Cernuschi,
-le poète-imprimeur Victor Billaud, lequel devait être son initiateur
-dans l'art de la photographie qui fut la distraction favorite de ses
-dernières années.</p>
-<p>C'est ici, le moment de raconter comment le romancier fut amené à
-modifier l'un des épisodes essentiels de son livre, la Mort du père
-Fouan. Un changement de cette nature était rare chez Zola, et le cas,
-ici, ap-</p>
-<p>1</p>
-<p><pb/></p>
-<p>paraît peut-être unique, car, lorsque l'écrivain avait établi son « plan
-par chapitre », il ne s'écartait jamais de la voie qu'il s'était tracée.</p>
-<p>Il n'est pas douteux que les circonstances dans lesquelles fut
-assassinée la femme Lebon sont les mêmes que celles qui accompagnent
-dans La Terre le meurtre du père Fouan. Mais, d'autre part — et c'est là
-un fait troublant, car Zola avait l'habitude d'y indiquer</p>
-<p><pb/></p>
-<p>ses sources en les discutant — il n'est nulle part question, dans les
-notes du roman, du crime des époux</p>
-<p>Thomas.</p>
-<p>Concernant cette affaire et les analogies qu'elle présente avec l'un des
-épisodes principaux de La Terre, un jeune professeur, M. Georges Gruau,
-qui prépare une thèse de doctorat sur Emile Zola, nous a donné des
-renseignements très complets dans un article du Mercure de France, du
-Ier novembre 1936 1.</p>
-<p>1. « Zola, constate M. Gruau, n'a fait qu'adoucir l'horreur de la scène
-dont les journaux du 24 novembre 1886 lui offrirent les éléments. Toutes
-les fois que l'on a voulu accuser Zola d'exagération, de fausse
-psychologie, d'outrance, il s'est trouvé que la réalité venait lui
-donner raison ».</p>
-<p>Lire aussi sur ce sujet le Bulletin de la Société des Amis de Zola,
-année 1936, nO 22.</p>
-<p><pb/></p>
-<p>Cette scène, ayant eu pour témoins les enfants épouvantés, parmi
-lesquels la jeune Eugénie Thomas, âgée de sept ans, qui en a rapporté
-les horribles détails.</p>
-<p>Quand la gendarmerie vint faire ses constatations, elle trouva le corps
-de la veuve Lebon en partie carbonisé, les pieds et la tête avaient été
-seuls préservés du feu, circonstance qui écarte l'hypothèse de l'accident.</p>
-<p>i. Vendémiaire du 26 janvier, 1937 : « L'horrible exécution de la
-dernière femme guillotinée », par René Deprez.</p>
-<p><pb/></p>
-<p>qu'Alexandre s'en tirait avec vingt ans de la même peine.</p>
-<p>L'analogie est frappante entre le meurtre du vieux Fouan et celui de la
-mère Lebon. Mêmes mobiles, mêmes circonstances, notamment le feu mis
-avec des bouchons de paille et aussi ce fait atroce, la présence des
-enfants qui assistent au drame.</p>
-<p><pb/></p>
-<p>Le sentiment initial de Zola avait donc été de faire mourir le père
-Fouan « dans la Terre » dans cette terre qu'il a tant aimée, et cette
-fin n'aurait pas été sans grandeur. Mais, plus tard, dans la période de
-conception et de tâtonnements, l'écrivain se montre hésitant, car, si la
-mort naturelle du vieux paysan a plus de beauté, plus de poésie, il
-pense aussi que la logique du drame exige de Buteau le geste qui tue, le
-geste qui le débarrassera du témoin de la fin de Françoise, le geste qui
-le libérera d'un cauchemar.</p>
-<p>On ne trouve aucune trace d'un voyage qu'aurait accompli Zola à
-Romorantin en 1886. Encore moins, l'écrivain ne put assister, au mois de
-novembre de la même année aux débats des assises. Ia présence d'une</p>
-<p><pb/></p>
-<p>Toute cette histoire, qui demeure ainsi parfaitement claire, aboutit à
-une preuve nouvelle de l'honnêteté que le grand écrivain apportait dans
-son labeur d'écrivain et d'artiste. Maintenant, a-t-il eu tort, a-t-il
-eu raison de sacrifier la première idée qu'il avait de faire expirer en
-pleine nature son vieux paysan de la Terre ? A chacun de nous de
-l'apprécier selon son goût.</p>
-<p>1. Edition des Œuvres complètes, p. 663.</p>
-<p><pb/></p>
-<p>L'assassinat de Fouan est plus âpre, plus vrai, plus conforme à
-l'esthétique réaliste ainsi qu'au déroulement psychologique des faits.
-L'autre mort, qui avait les préférences de Zola, était peut-être plus
-belle, plus émouvante, en sa haute signification symbolique.</p>
-<p>Quoi qu'il en soit, lorsqu'en Ig02 Charles Hugot et</p>
-<p>« Les auteurs ont fait mourir le père Fouan dans la Beauce im-</p>
-<p>« mense, où il se traîne, sorte de roi Lear, chassé par la Grande. Il</p>
-<p>« meurt au soleil levant. C'est une très belle fin que j'aurais pu ac-</p>
-<p>« plus extrêmes conséquences la tragédie domestique engendrée par</p>
-<p>« la passion de la terre. » (Interview d'Emile Zola, par Albéric</p>
-<p>Darthèze. L'Aurore, 22 janvier 1902).</p>
-<p><pb/></p>
-<p>CHAPITRE VI</p>
-<p>AVANT MÊME QUE L'OUVRAGE SOIT TERMINÉ, COMMENCE LA BATAILLE DE la Terre.
-— IYE « MANIFESTE DES CINQ » ET SES DESSOUS. — DES LETTRES DE CÉARD ET
-D'HUYSMANS. — L'ATTITUDE RÉSERVÉE ET HOSTILE DE LA PRESSE. — BROCARDS ET
-COUPLETS. — LE MAITRE DE MÉDAN REFUSE D'INTERVENIR DANS LA POLÉMIQUE.</p>
-<p><pb/></p>
-<p>lonnes en première page. C'était le manifeste fameux des « Cinq » contre
-la Terre.</p>
-<p>MANIFESTE DES CINQ CONTRE LA TERRE</p>
-<p>On l'avait vu si fort, si superbement entêté, si crâne, que notre
-génération malade presque tout entière de la volonté, l'avait aimé rien
-que pour cette force, cette persévérance, cette crânerie. Même les
-pairs, même les précurseurs, les maîtres originaux, qui avaient préparé
-de longue main la bataille prenaient patience en reconnaissance des
-services passés.</p>
-<p>Lui, cependant, allait creusant son sillon ; il allait, sans lassitude
-et la jeunesse le suivait, l'accompagnait de ses bravos, de sa sympathie
-si douce aux plus stoïques, il allait, et les plus vieux ou les plus
-sagaces fermaient dès lors les yeux, voulaient s'illusionner, ne pas
-voir la charrue du maître s'embourber dans l'ordure.</p>
-<p>1. Le Naturalisme (Léon Deffoux), p. 230.</p>
-<p><pb/></p>
-<p>Puis, les moins perspicaces avaient fini par s'apercevoir du ridicule de
-cette soi-disant Histoire naturelle et sociale d'une famille sous le
-second Empire, de la fragilité du fil héréditaire, de l'enfantillage du
-fameux arbre généalogique, de l'ignorance médicale et scientifique du
-Maître.</p>
-<p>Pourtant, incoercible, l'écœurement s'élargissait, surtout devant
-l'exagération croissante des indécences de la terminologie malpropre des
-Rougon-Macquart. En vain, excusait-on tout par ce principe émis dans une
-préface de Thérèse Raquin :</p>
-<p><pb/></p>
-<p>Eh bien ! Cela termine l'aventure. Nous répudions énergiquement cette
-imposture de la littérature véridique, cet effort vers la gauloiserie
-mixte d'un cerveau en mal de succès. Nous répudions ces bonshommes de
-rhétorique zoliste, ces silhouettes énormes, surhumaines et biscornues,
-dénuées de complication, jetées brutalement, en masses lourdes, dans des
-milieux aperçus au hasard des portières d'express. De cette dernière
-œuvre du grand cerveau que lança L' Assommoir sur le monde, de cette
-Terre bâtarde, nous nous éloignons résolument, mais non sans tristesse.
-Il nous poigne de repousser l'homme que nous avons trop fervemment aimé.</p>
-<p>Notre protestation est le cri de probité, le dictamen de conscience de
-jeunes hommes soucieux de défendre leurs œuvres — bonnes ou mauvaises —
-contre une assimilation aux aberrations du Maître. Volontiers nous
-eussions attendu encore, mais désormais le temps</p>
-<p><pb/></p>
-<p>Il est nécessaire que, de toute la force de notre jeunesse laborieuse,
-de toute la loyauté de notre conscience artistique, nous adoptions une
-tenue et une dignité en face d'une littérature sans noblesse, que nous
-protestions au nom d'ambitions saines et viriles, au nom de notre culte,
-de notre amour profond, de notre suprême respect pour l'art.</p>
-<p>Paul BONNETAIN, J.-H. ROSNY,</p>
-<p>Lucien DESCAVES, Paul MARGUERITTE,</p>
-<p>Gustave GUICHES.</p>
-<p><pb/></p>
-<p>Les cinq nouveaux venus avaient-ils qualité pour parler au nom de la
-jeunesse et pour signifier au chef du Naturalisme une rupture définitive
-?... Ils n'étaient pas de son entourage et celui-ci ne les connaissait
-guère que pour avoir entr'aperçu certains d'entre eux chez Goncourt et
-chez Daudet.</p>
-<p>Henry Céard, entre autres, est un de ses informateurs les plus actifs.</p>
-<p>Voici quelques-uns de ses billets :</p>
-<p>« Paris, le 18 août 1887.</p>
-<p>« Nous avons beau faire, allez ! quelque basse idée « que nous
-professions pour l'humanité, l'humanité « est toujours au-dessous de ce
-que nous pensons « d'elle.</p>
-<p>« Henry CÉARD. »</p>
-<p>Céard écrit encore ce même jour :</p>
-<p>« 18 août 1887, huit heures.</p>
-<p><pb/></p>
-<p>« clame que se taillent les cinq que vous savez. A « l'heure présente
-les journaux ne partiraient plus. « Mais tenez que le pétard a raté : le
-bon bout vous</p>
-<p>« reste tout entier.</p>
-<p>« Je vous embrasse tous deux.</p>
-<p>« Henry CÉARD. »</p>
-<p>Il s'explique plus complètement dans la lettre suivante datée du 21 août :</p>
-<p>« Mon cher Zola, le bruit continue. Il y a encore « de grands articles
-dans les journaux de ce soir : La « Liberté, La France. Je vous les
-enverrai demain.</p>
-<p>« Albert Dethez, dans Le Siècle, a très sainement « et très discrètement
-traité la question, je vais tâcher « de vous envoyer son article.</p>
-<p>« Quelle singulière aventure, déconcertante même « par l'espèce de
-justice qui s'en dégage malgré tout.</p>
-<p><pb/></p>
-<p>« Je vous remercie, mon bon ami, de tout ce que « vous m'écrivez, et je
-suis un peu honteux et tout « fier du cas que vous voulez faire de votre
-bien dévoué.</p>
-<p>« Henry CÉARD. »</p>
-<p>J. K. Huysmans se manifeste de son côté. I/original de la lettre que
-nous avons sous les yeux ne porte aucune date, mais on peut présumer
-qu'elle a été écrite le 19 ou le 20 août :</p>
-<p>« Mon cher ami, j'aurais bien voulu vous écrire, « en vous envoyant au
-moins des renseignements sur « la source du solennel et remarquablement
-niais « manifeste du Figaro. Mais je ne suis pas allé chez « Goncourt
-depuis son retour de Champrosay, et c'est « en somme la seule maison où
-l'on puisse s'informer « des cancans et des potins.</p>
-<p>« lancé l'affaire.</p>
-<p>« fondant.</p>
-<p>« Au reste, ces braves gens ne semblent pas se « douter qu'ils.
-renouvellent les vieux griefs criés dç*</p>
-<p><pb/></p>
-<p>« puis des ans par les Sarcey et par les Scholl. Ils re« commencent la
-stupidité de la discussion sur les « sujets, sur les mots ; car, en
-somme, c'est ça, c'est « le pet et le mot merde qui les offusquent !</p>
-<p>« J. K. HUYSMANS. »</p>
-<p><pb/></p>
-<p>« Je ne sais, écrivait Francisque Sarcey dans le</p>
-<p>Petit Marseillais du 23 août, mais il me semble que dans cette affaire,
-ce ne sont pas les schismatiques qui tiennent le bon bout » ; dans la
-République fran-</p>
-<p>« Peut-être serait-il plus délicat, lorsqu'en sa jeu« nesse on a
-librement choisi pour maître un écrivain</p>
-<p>« qui est certainement un écrivain du premier ordre,</p>
-<p>« oui, je crois qu'il serait plus délicat de ne pas se</p>
-<p>22 Août 87.</p>
-<p>« Veuillez recevoir, cher Maître, l'hommage de ma respectueuse admiration.</p>
-<p>« A. ANTOINE. »</p>
-<p><pb/></p>
-<p>« tourner ensuite vers lui pour lui crier sur la place « publique : «
-Vieux ramolli ! Espèce d'érotomane ! » « et autres aménités de ce genre.
-Il y a des façons « plus discrètes de se séparer des gens que l'on a
-aimés, « surtout quand ces gens occupent la situation « qu'Emile Zola a
-conquise par un travail acharné. » C'est encore au même Bonnetain, qui
-devait être la principale victime de l'aventure, que s'attaquait Edmond
-Lepelletier dans un article intitulé Chariot s'ennuie 1 :</p>
-<p>« Charlot devenu sérieux et moraliste va sans doute</p>
-<p>« écrire une tragédie en cinq actes en vers, pour la « Comédie Française
-; sujet indiqué : Artaxercès« Longue-main. Admirons cette conversion
-d'un bon « jeune homme qui a confondu longtemps la Muse « avec la veuve
-Poignet. »</p>
-<p>« Vous avez fait là, mes garçons, une vilaine be« sogne qui se
-retournera contre vous-mêmes, vous « avez oublié que le peu que vous
-êtes, vous le lui « devez : vous n'existez que par lui... Apprenez, mes
-« petits, que toute la littérature contemporaine a pris « son essor dans
-ses Rougon-Macquart.</p>
-<p>L'assourdissant charivari déchaîné par le « Manifeste » contre La Terre
-n'aurait pas été complet, si les chansonniers ne s'étaient mis de la
-partie. Bonsmots, couplets satiriques, rien n'y manque et c'est
-peut-être la verve de Jules Jouy, qui se trouve la mieux inspirée :</p>
-<p>t. L'Ëcho de Paris, 25 août 1887.</p>
-<p><pb/></p>
-<p>ZOLA DÉGOÛTE BONNEMAIN</p>
-<p>Bonnemain, qui, quoi qu'on en dise, N'est pas crevé sous le haro,
-Asperge de sa marchandise</p>
-<p>Les colonnes du Figaro.</p>
-<p>Bayard du plaisir solitaire,</p>
-<p>On pète par trop dans la Terre, Zola dégoûte Bonnemain.</p>
-<p>De son œil oubliant la poutre, Quittant son amoureux chez lui,</p>
-<p>Il s'élance, foutre de foutre,</p>
-<p>Et fond sur la paille d'autrui. Aux regards de tous, il épanche</p>
-<p>Sa bile, le long du chemin,</p>
-<p>Le Maître branle dans le manche, Zola dégoûte Bonnemain.</p>
-<p>Don Quichotte de l'onanisme, Drapé dans un méchant factum,</p>
-<p>Il enfourche plein d'héroïsme,</p>
-<p>Le bidet de Sarah Barnum.</p>
-<p>Oui, l'auteur de Charlot s'amuse Sur sa joue ainsi qu'un carmin, Sent
-monter la Pudeur, sa muse 1 Zola dégoûte Bonnemain.</p>
-<p>Voyons, Charlot, respect aux nôtres 1 Le plaisir rend l'homme si doux !
-Ne faites pas ça sur les autres : Gardez vos saletés pour vous 1
-Historien d'un vice immonde,</p>
-<p>Un peu plus de respect humain ! Vrai, j'en rirai dans l'autre monde !
-Zola dégoûte Bonnemain.</p>
-<p>Jules Jouv.</p>
-<p>Le Parti ouvrier, Août 1887.</p>
-<p><pb/></p>
-<p>Voici encore une chanson de Jules Jouy, sur l'air de la Légende de
-Saint-Nicolas, publiée au Cri du</p>
-<p>Peuple et qui fut reproduite dans la République Fran-</p>
-<p>çaise du 23 août 1887.</p>
-<p>Dans un beau pays très loitain,</p>
-<p>Où c'est la nuit quand c'est matin,</p>
-<p>Partirent cinq frêles marmots Pour tuer les grands animaux.</p>
-<p>Ils étaient cinq petits enfants Qui chassaient les gros éléphants.</p>
-<p>Un jour, n'en croyant pas leurs yeux,</p>
-<p>Ils en aperçurent un vieux.</p>
-<p>Sur la plaine il était si grand Qu'il masquait le soleil levant.</p>
-<p>Ils étaient cinq petits enfants Qui chassaient les gros éléphants.</p>
-<p>Afin de lui faire du mal</p>
-<p>Ils rampèrent vers l'animal ;</p>
-<p>Puis s'assirent sur leur séant,</p>
-<p>Autour de l'énorme géant.</p>
-<p>Ils étaient cinq petits enfants Qui chassaient les gros éléphants.</p>
-<p>Ils avaient pris sur les chemins Des cailloux, trop lourds pour leurs
-mains Qu'ils jetèrent, le jour durant,</p>
-<p>Sur le colosse indifférent.</p>
-<p>Ils étaient cinq petits enfants Qui chassaient les gros éléphants.</p>
-<p>Voyant qu'il ne se bougeait point,</p>
-<p>Les gosses, lui montrant le poing,</p>
-<p>Afin d'achever son trépas.</p>
-<p>Ils étaient cinq petits enfants Qui chassaient les gros éléphants.</p>
-<p><pb/></p>
-<p>Tous les cinq, l'un l'autre aidant,</p>
-<p>A grand peine, sans accident,</p>
-<p>Pour prendre leur gibier trop gros,</p>
-<p>Ils lui montèrent sur le dos.</p>
-<p>Ils étaient cinq petits enfants</p>
-<p>Qui chassaient les gros éléphants.</p>
-<p>Soudain, le géant remua ;</p>
-<p>Chaque petit enfant tomba ;</p>
-<p>Et le colosse était si grand</p>
-<p>Qu'ils se tuèrent en tombant.</p>
-<p>L'éléphant mange, sans remords ;</p>
-<p>Et les petits enfants sont morts.</p>
-<p>Et pour terminer, cet intermède de Grosclaude qui passait alors pour un
-de nos plus spirituels boulevardiers, et qui rimait en ces termes dans
-le Gil Blas1 :</p>
-<p>Rosny soit qui mal en pense !</p>
-<p>Foin des soucis les plus graves,</p>
-<p>Buvons tout le vin Descaves ?!</p>
-<p>Margueritte,</p>
-<p>Vite, Vite,</p>
-<p>Margueritte, Guiche-me-quick !</p>
-<p>Miousic !</p>
-<p>Miousic !</p>
-<p>Et tin, tin, tin,</p>
-<p>Paul Bonnetain !</p>
-<p>Et tin, tin, tin,</p>
-<p>Vive le jus divin !</p>
-<p>Nos pères s'égayaient facilement, en 1887.</p>
-<p>1. 23 août 1887.</p>
-<p><pb/></p>
-<p>Quant au maître de Médan, on pense bien qu'il était renseigné, mais,
-plutôt que de reconnaître une défaillance chez des amis et des écrivains
-qu'il admirait, il préféra feindre l'ignorance.</p>
-<p>« Mais, jamais, mon cher Daudet, je n'ai cru que</p>
-<p>« vous aviez eu connaissance de l'extraordinaire ma-</p>
-<p>« nifeste des Cinq. Mon premier cri a été que ni vous « ni Goncourt ne
-saviez rien de la grande affaire...Le « stupéfiant, c'est que de victime
-vous m'avez fait « coupable, et qu'au lieu de m'envoyer une poignée</p>
-<p><pb/></p>
-<p>« de main, vous avez failli rompre avec moi. Avouez « que cela dépassait
-la mesure... »</p>
-<p>Que reste-t-il aujourd'hui du « manifeste des cinq ? » Ce flot d'encre,
-désormais séché, n'aura peut-être pour résultat que de sauver de l'oubli
-le nom de Bonnetain. Les autres collaborateurs de cette protestation
-historique, dont quelques-uns ont acquis, depuis, par leurs œuvres, un
-renom glorieux dans les Lettres françaises, se sont tous repentis de ce
-qu'ils considéraient comme une faute de jeunesse.</p>
-<p>En 1921, J. H. Rosny, dans son livre de souvenirs, Torches et Lumignons
-(chapitre VI, page 222) exprimait en ces termes son regret :</p>
-<p>« Maître... »</p>
-<p><pb/></p>
-<p>Le 25 juin 1924, l'Intransigeant publiait les lignes suivantes qui
-constituent le mea culpa de Gustave</p>
-<p>Guiches :</p>
-<p>« Un jour, quatre de mes amis et moi, nous nous « sommes conduits à
-l'égard de Zola en enfants pro« digues. Nous avons secoué le joug
-paternel et nous « sommes partis en faisant claquer notre fouet de «
-postillons émancipés.</p>
-<p>« Quelle imprudence de notre part ! Pouvions-nous « mieux reconnaître
-que nous étions les disciples de « Zola qu'en le reniant ! Quoi qu'il en
-soit, l'un après « l'autre, avec la fierté d'un repentir sincère, nous lui</p>
-<p>« sommes revenus.</p>
-<p>« Pourquoi pas tous ensemble !</p>
-<p>« fois le veau gras.</p>
-<p>« Ce qui vient du cœur ne se concerte pas.</p>
-<p>« Je puis bien dire aujourd'hui que nous fûmes un « peu surpris du
-renfort qui vint d'Anatole France. « Nous en avions besoin, car la
-presse en général nous « donna les étrivières. Mais enfin, Anatole
-France était « plus loin de nous que Zola... L'auteur du Crime de «
-Sylvestre Bonnard néanmoins écrivit : « Le 9 thermi« dor qui renversa la
-tyrannie de M. Zola fut l'œuvre « des Cinq. La terreur naturaliste était
-vaincue. »</p>
-<p><pb/></p>
-<p>« Il allait un peu fort, le bon Maître. Il écrasait nos</p>
-<p>« cinq doigts entre l'enclume et le marteau.</p>
-<p>« Mais, le moment venu de racheter sa diatribe, « Anatole France
-lui-même trouva mieux que nous « le mot expiateur en faisant honneur à
-Zola d'avoir</p>
-<p>« été « un moment de la conscience humaine. »</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>CHAPITRE VII</p>
-<p>SUITE DE LA BATAILLE DE La Terre. — 1/ARTICLE D'ANATOLE FRANCE. — SON
-ATTITUDE ET SON JUGEMENT CONFORMES AUX SENTIMENTS QU'IL PROFESSAIT A
-CETTE ÉPOQUE. — LES REMORDS DU BON MAITRE. — SES REVIREMENTS SUR LE PLAN
-LITTÉRAIRE ANNONCENT ET LÉGITIMENT SON ORAISON FUNÈBRE D'EMILE ZOLA.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Adrien Hébrard l'avait un jour appelé un « bénédictin narquois ». Il
-avait beaucoup, en effet, d'un moine épicurien, mais cet épicurien
-demeurait respectueux de la morale établie, cet incrédule s'inclinait
-devant les formes de la dévotion. L'ancien élève de Stanislas, qui
-collaborait au journal catholique, L'Univers illustré, n'était pas loin
-d'être ce qu'on appelle politiquement un « conservateur)), défendant «
-la liberté des âmes et la paix des coeurs », condamnant l'œuvre de
-laïcisation, méprisant les infirmières laïques et tournant en dérision 1
-« les gardes-malades, les portières et les demoiselles de magasin dont
-on faisait des desservantes des hôpitaux. »</p>
-<p>i. L'Univers, 4 août 1885.</p>
-<p>2. lbid., 17 décembre 1885.</p>
-<p><pb/></p>
-<p>chez Durand autour du général Boulanger pour lui passer son pardessus 1 ».</p>
-<p>i. Charles Braibant : « Le Secret d'Anatole France » (p. 89). Pour
-achever le portrait psychologique d'Anatole France, au moment de</p>
-<p><pb/></p>
-<p>Peut-on dire que ce fut un tel état d'esprit qui inspira l'article sur
-La Terre ?... Il faut toujours se méfier d'invoquer le temporel ou la
-politique, lorsqu'il s'agit des ouvrages de l'intelligence. Mais on
-semble être tombé d'accord pour voir en ce morceau de rhétorique
-indignée, l'expression d'un conformisme élégant et raffiné dont le
-critique du Temps était alors l'interprète.</p>
-<p>L'article d'Anatole France a été réuni plus tard dans La Vie littéraire.
-Sa conclusion que nous donnons ici en résume non seulement le sens
-général, mais aussi le ton et la malignité :</p>
-<p>« Que M. Emile Zola ait eu jadis, je ne dis pas un « grand talent, mais
-un gros talent, il se peut qu'il en « reste encore quelques lambeaux,
-cela est croyable, « mais j'avoue que j'ai toutes les peines du monde à</p>
-<p>« en convenir. Son œuvre est mauvaise et il est de ces</p>
-<p>« malheureux dont on peut dire qu'il vaudrait mieux « qu'ils ne fussent
-pas nés.</p>
-<p>« Certes, je ne lui nierai point sa détestable gloire.</p>
-<p>« Personne avant lui n'avait élevé un si haut tas</p>
-<p><pb/></p>
-<p>On sait que, par la suite, Anatole France se sentit contrit d'avoir un
-jour oublié que les meilleurs jugements sont ceux qui sont tempérés par
-le scep-</p>
-<p>i. Le Temps, 28 août 1887.</p>
-<p><pb/></p>
-<p>1. Anatole France : Vers les Temps meilleurs, p. 64.</p>
-<p><pb/></p>
-<p>Sa critique de l'Argent qui parut l'année suivante montre que les
-anciennes fureurs du critique du Temps sont définitivement éteintes : «
-C'est une œuvre forte, didactique, encyclopédique et d'un grand sens. »
-C'est alors que paraît La Débâcle, et il devient enthousiaste ; il
-commence par déclarer que le livre soutient la comparaison qu'on en a
-faite avec la Guerre et la</p>
-<p>Paix de Tolstoï et avec le célèbre récit de Waterloo dans la Chartreuse
-de Parme, il vante « le sens épique, l'intelligence » de son auteur, il
-admire « cette action immense, terrible, lugubre et magnifique ».</p>
-<p><pb/></p>
-<p>solennelle harangue, en face de la postérité qui en conservera le
-souvenir, il a le sens de sa responsabilité, de la gravité de sa tâche :</p>
-<p>« Ne le plaignons pas d'avoir enduré et souffert. « Envions-le. Dressée
-sur le plus prodigieux amas « d'outrages que la sottise, l'ignorance et
-la méchan« ceté aient jamais élevé, sa gloire atteint une hau« teur
-inaccessible. Envions-le, il a honoré sa patrie « et le monde par
-une:œuvre immense et par un grand « acte. Envions-le, sa destinée et son
-cœur lui firent</p>
-<p><pb/></p>
-<p>« le sort le plus grand : Il fut un moment de la cons-</p>
-<p>« cience humaine. »</p>
-<p>Si nous nous plaçons sur le plan héroïque, ou même strictement humain,
-existe-t-il quelque chose de plus pathétique, de plus profondément
-émouvant que cette suprême abjuration d'Anatole France ?</p>
-<p><pb/></p>
-<p>CHAPITRE VIII</p>
-<p>UNE PALINODIE D'OCTAVE MIRBEAU. — FERDINAND BRUNETIÈRE CONDAMNE LA «
-DÉTESTABLE RHAPSODIE DE M. ZOLA ». — IYE PERSONNAGE DE « JÉSUSCHRIST »,
-QUI FAIT SCANDALE, SATISFAIT UN « GOUT NATUREL A LA RACE » ET AMUSE LA
-GALERIE. — I^A VIE SEXUELLE DANS La Terre ET LE PANTHÉISME D'EMILE ZOLA.</p>
-<p><pb/></p>
-<p>Ce revirement, Ferdinand Brunetière 2, lui-même, semblait le redouter,
-lorsqu'il accablait de son argument massif, s'appesantissant en longues
-pages compactes de la Revue des Deux-Mondes, la « détestable rhapsodie
-de M. Zola ». Le volume n'avait toujours pas paru (il ne devait sortir
-que le 10 décembre 1881), mais l'occasion lui paraissait trop belle de
-proclamer la « banqueroute du Naturalisme ». Il dénonçait en termes dont
-il avait usé déjà, maintes et maintes fois, les mêmes défauts que dans
-Germinal, dans Nana, dans L'Assommoir. « Combien se déchaînent contre</p>
-<p>La Terre, constatait-il, qui, hier encore, admiraient</p>
-<p>« Manger, boire et le reste, il ne se passe guère autre chose dans les
-quatre-vingt-quinze feuilletons que</p>
-<p>1. Octave Mirbeau : Le Paysan. (Le Gaulois, 21 septembre 1887).</p>
-<p>2. Ferdinand Brunetière : (La Revue des Deux-Mondes, iar septembre 1887).</p>
-<p><pb/></p>
-<p>i. Figaro illustré : décembre 1887.</p>
-<p><pb/></p>
-<p>Mais il y a surtout dans La Terre un grand leitmotiv qui emplit les
-pages et qui les soulève. Cela rappelle cette sorte de tempête panique
-qu'avait ressentie</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>« Nous avons cent morts célèbres en littérature.</p>
-<p>« dans la littérature 1. »</p>
-<p>Sur ce point-là, il n'est pas douteux qu'Emile Zola, depuis longtemps, a
-gagné son procès. On reconnaît, désormais, qu'en abordant dans ses
-œuvres, avec une si libre franchise, et pour la première fois,</p>
-<p>i. La Terre et Emile Zola, interview avec Emile Zola, Le Figaro</p>
-<p>16 novembre 1887. v</p>
-<p><pb/></p>
-<p>En 1911, Camille Lemonnier, le célèbre écrivain belge qui présidait,
-cette année-là, le pèlerinage de Médan, ne faisait-il pas allusion aux
-polémiques éteintes de la Terre, lorsqu'en ces termes, il formulait :</p>
-<p>« suscite terrible comme dans la Bible et le drame</p>
-<p>1. Georges Duhame. : Introduction au roman familier, Conferencia,</p>
-<p>15 novembre 1936.</p>
-<p><pb/></p>
-<p>CHAPITRE IX</p>
-<p>UN ARBITRAGE DE FRANCISQUE SARCEY SUR LA VÉRACITÉ DES « PAYSANS DE LA
-BEAUCE ». — LE VOCABULAIRE DE La Terre. LES PAYSANS DE BALZAC COMPARÉS A
-CEUX DE ZOLA. A QUI DES DEUX GRANDS ROMANCIERS DU XIXE SIÈCLE PEUT-ON
-REPROCHER D'AVOIR CALOMNIÉ LE TRAVAILLEUR DES CHAMPS ? — LA «
-PSYCHOLOGIE » DANS LES « ROUGON-MACQUART ».</p>
-<p>Dans sa réponse, le prudent et malicieux Sarcey commençait par prendre
-quelques précautions oratoires. « Il n'était pas de ces gens,
-déclarait-il, qui</p>
-<p>i. La France, 3 décembre 1887.</p>
-<p><pb/></p>
-<p>s'en vont criant partout que Zola est un homme fini ». Il reconnaissait
-que « son ouvrage était construit d'une main très robuste » et il
-admirait « la grandeur shakespearienne qu'atteint, parfois, le
-personnage du vieux Fouan », mais son avis, comme toutes les sentences
-d'arbitrage, resta très mitigé. On y sentait surtout le désir de ne se
-point compromettre et l'euphémisme y était pratiqué de main de maître.
-Les paysans qu'il avait connus dans son enfance « étaient très
-regardants ». « C'est un mot du pays, expliquait-il, qui dit moins
-qu'avares et qu'âpres au gain, qui marque seulement une méticuleuse
-attention sur l'argent qu'on donne. Sur ce point</p>
-<p>M. Zola a bien vu et nos souvenirs concordent ». Mais pour le reste, les
-deux hommes n'étaient plus d'accord. Les fermiers formaient en Beauce
-une aristocratie. Sarcey affirmait que « tous ces fermiers étaient
-instruits, parlaient un français excellent où se mêlaient naturellement
-quelques expressions de terroir, qu'ils avaient des mœurs honnêtes, le
-langage décent et que c'étaient des gens comme il faut ».</p>
-<p>Ici, la confusion est visible : les fermiers riches et instruits
-qu'avait connus Francisque Sarcey ne présentaient aucune similitude avec
-les Fouan, ni avec les paysans décrits dans La Terre, lesquels sont de
-petits possédants, cultivant misérablement leurs maigres terres et qu'on
-appelle, dans le langage du crû, des « haricotiers ». Les fermiers de
-Sarcey « qui formaient une aristocratie » semblent plutôt de la même
-famille que Hourdequin, personnage en qui le romancier a voulu incarner
-le grand cultivateur. Or, celui-ci, orgueilleux, autoritaire, distant
-envers tous, malgré ses amours ancillaires, ne cesse jamais d'avoir
-l'allure décente d'un « monsieur ». Enfin, Zola aurait pu rétorquer que,
-en 1867, ce prolétariat de la glèbe qui composait la plupart des habitants</p>
-<p><pb/></p>
-<p>« Vous avez attendu jusqu'au 7S6 feuilleton de La Terre pour accoucher
-de « cul terreux » qui est un mot bien beauceron, mais qui se prononce
-cultâreux et qui ne s'emploie pas entre paysans.</p>
-<p>« Une autre locution que j'attends toujours et qui est si usitée en
-Beauce qu'elle ne choque plus personne, c'est, j'ai faim de chier. On
-dit également j'ai faim de dormir, pour j'ai envie, un besoin. Depuis
-plus de 50 ans, les Conscrits Beaucerons au régiment sont appelés les «
-Faim de chier. »</p>
-<p>M. S. Bibl. nat., N° 10329, Feuillet 308.</p>
-<p><pb/></p>
-<p>santes. C'est ainsi qu'Emile Zola savait toujours concilier les
-exigences du réalisme avec les soucis supérieurs de l'art.</p>
-<p>Parce que, dans La Bête humaine, le sous-chef de</p>
-<p><pb/></p>
-<p>Chez nous, avant Zola, on ne compte guère que Balzac qui ait étudié
-d'une manière sérieuse la psychologie paysanne ; et il faut convenir que
-l'illustre auteur de la Comédie Humaine s'est montré pour le peuple des
-campagnes d'une sévérité parfois cruelle. Dans plusieurs livres de
-Balzac, l'homme de la terre apparaît incidemment, comme le Médecin de
-Campagne ou Le Curé de Village, mais c'est dans les Paysans qu'il tient
-le premier rôle.</p>
-<p><pb/></p>
-<p>ronnante. Et quel portrait va nous faire de cette race paysanne, Honoré
-de Balzac, adversaire du code civil, partisan du droit d'aînesse et
-défenseur de l'ancien régime ?</p>
-<p>Dans sa préface, il dénonce « la conspiration permanente de ce que nous
-appelons encore les faibles contre les forts, du paysan contre le riche
-», et il se propose de nous dépeindre le paysan qui rend le code
-inapplicable, « cet infatigable sapeur, ce rongeur qui morcelle et
-divise le sol », élément insocial créé par la Révolution « qui absorbera
-quelque jour la « bourgeoisie comme la bourgeoisie a dévoré la noblesse ».</p>
-<p>D'après Balzac, les paysans dans leur vie domestique se laissent aller à
-leurs passions, les enfants sont pour eux des capitaux et l'intérêt est
-leur seul mobile. « Ils n'ont en fait de mœurs aucune délicatesse... »
-L'homme absolument probe et moral est dans leur classe une exception. «
-Ils ne se demandent pas si une action est légale ou immorale », mais si
-elle est profitable et leur existence les rapproche de l'état sauvage.</p>
-<p>Au temps où parut La Terre, les adversaires de Zola</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>la terre en femme qu'on tue et pour qui on assassine. »</p>
-<p>Ce qu'a négligé de voir Balzac et ce qu'a senti Zola, c'est l'état
-d'anxiété, de perpétuelle angoisse,</p>
-<p><pb/></p>
-<p>Le paysan reste hanté par la peur de maladies inconnues, de lèpres
-mystérieuses qui déciment le bétail, qui tuent les plantes et détruisent
-les récoltes.</p>
-<p>De cette compression, de cette timidité sauvage naît la violence de ces
-instincts, dont l'auteur de La Terre nous a tracé la puissante et
-inégalable peinture.</p>
-<p>Lors de la publication de ce livre, quand on lui reprochait d'avoir
-insisté sur « l'animalité humaine » de ses personnages, Emile Zola
-aurait pu rappeler</p>
-<p><pb/></p>
-<p>« matière... »</p>
-<p>i. Emile Zola : Œuvres Complètes. Correspondance, p. 684.</p>
-<p><pb/></p>
-<p>CHAPITRE X</p>
-<p>L'APAISEMENT SE PRODUIT DÈS LA PUBLICATION DU LIVRE. — L'OPINION DE
-STÉPHANE MALLARMÉ. — UNE ADAPTATION THÉATRALE DU ROMAN. — LA SURVIE DE
-La Terre.</p>
-<p>« Si La Terre n'a pas paru et ne paraîtra que le 15 novembre, c'est tout
-simplement que le volume n'est pas prêt. J'ai été pris de grandes
-paresses, j'ai traîné pour les corrections littéraires que j'ai
-l'habitude de faire sur les feuilletons et c'est ainsi que les épreuves
-sont restées sur ma table de travail.</p>
-<p>« Je n'étais pas fâché d'autre part de laisser un peu de calme se faire,
-avant de lancer le volume. Jamais je n'ai eu l'idée d'écrire une
-préface. Mon livre se défendra tout seul et vaincra, s'il doit vaincre.</p>
-<p><pb/></p>
-<p>J'en suis content, je crois qu'un retour d'opinion se produira en ma
-faveur.</p>
-<p>«... Mais c'est effroyable le nombre d'articles qui a paru. Ah ! qu'ils
-sont bêtes ! Je suis bronzé, jamais je n'ai été aussi calme et aussi gai
-que pendant cette bagarre imbécile ».</p>
-<p>« c'est tard que je vous le dis.</p>
-<p><pb/></p>
-<p>« Il ne me paraît pas que votre esprit si puissant « tout de suite et
-neuf ait été mieux au point, que</p>
-<p>« dans ces dernières œuvres d'une maturité totale.</p>
-<p><pb/></p>
-<p>contre l'apologie de l'instinct, cette conception physiologique de la
-vie sexuelle qui, naguère, suscitait l'étonnement ou l'indignation. Bien
-loin de discerner en des livres comme La Terre de l'amusement érotique
-ou de la spéculation grossière, ils y découvraient une innocente volonté
-de tout voir et de tout dire, la présence d'une poésie éparse d'où se
-dégageait une grandeur biblique.</p>
-<p><pb/></p>
-<p>Et Mendès de conclure : « Une œuvre telle que « La Terre n'est pas de
-celles que l'on puisse rétrécir « entre quatre portants ».</p>
-<p>Gabriel Signoret avait fait de Buteau une des créations les plus
-originales de sa carrière et Antoine</p>
-<p>i. Catulle Mendès : Le Journal, 22 janvier 1902.</p>
-<p>2. André Antoine : Mes souvenirs sur l'Odéon et le Théâtre Antoine, p.
-189 et suivantes.</p>
-<p><pb/></p>
-<p>lui-même avait ressuscité d'une manière saisissante la figure du père
-Fouan. Le fondateur du Théâtre Libre avait toujours conservé pour le
-roman de Zola une prédilection particulière. C'est sous sa direction
-qu'un film muet fut tiré de La Terre en 1920; il contenait des tableaux
-magnifiques de la Beauce et fut projeté dans le monde entier avec un
-immense succès.</p>
-<p>Dans la plaine au loin, les bâtiments rectangulaires des fermes
-émergeaient au-dessus des blés. Le paysage était toujours le même dans
-l'immuable nature et, tout de suite, dans le décor qui l'inspira, on se
-sentait envahi par l'atmosphère du livre. Les moindres scènes du roman
-renaissaient avec une intensité qui tient du sortilège. Rognes, le
-village imaginaire, recréé par le génie de l'artiste, demeurait si
-vivant qu'il se substituait au village réel.</p>
-<p><pb/></p>
-<p>ma curiosité fut quelque peu déçue et je dus me convaincre qu'après un
-demi-siècle il était pour ainsi dire impossible de rassembler des
-témoignages oraux, empreints de quelque authencité.</p>
-<p>A Cloyes, un ancien maire de la ville se souvenait très bien de Zola
-avec qui il s'était entretenu plusieurs fois, mais, lorsqu'on lui
-demandait des précisions, cet excellent homme était obligé d'avouer les
-défaillances de sa mémoire.</p>
-<p>Mais quelque chose importait surtout. N'était-il pas intéressant de
-connaître, sur les personnages</p>
-<p><pb/></p>
-<p>Ainsi, par un phénomène mental qui ne laisse pas de paraître étrange, je
-retrouvais amalgamés par l'imagination populaire des souvenirs inspirés
-par le livre et des épisodes véridiques. Les héros romanesques sont
-devenus aussi familiers que des figures réelles ; on vous les nomme et
-on vous les désigne comme s'ils étaient vraiment des créatures vivantes
-que l'on peut rencontrer tous les jours.</p>
-<p><pb/></p>
-<p>FIN</p>
-<p><pb/></p>
-<p>TABLE DES NOMS DE PERSONNES</p>
-<p>CITES DANS L'OUVRAGE</p>
-<p>A</p>
-<p>ALEXIS (Paul), 12, 24, 25. ANTOINE (André), 71, m,</p>
-<p>112.</p>
-<p>ARÈNE (Emmanuel), 91.</p>
-<p>B</p>
-<p>BALZAC (H. de), 24, 34, 84, 98,</p>
-<p>102, 105.</p>
-<p>BANVILLE (Th. de), 110. BARRÉS (Maurice), 83. BAUDRILLARD, 21.</p>
-<p>BAUER (Henry), 72. BILLAUD (Victor), 54. BLANQUI, 25.</p>
-<p>BONNETAIN (Paul), 66, 69, 70,</p>
-<p>77.</p>
-<p>BRAIBANT (Charles), 84, 87. BROUSSE, 25.</p>
-<p>BRUNETIÈRE, 93.</p>
-<p>BUSNACH, 112.</p>
-<p>C</p>
-<p>CARIAS (Léon), 87.</p>
-<p>CASSÉ (Elie), 22, 23.</p>
-<p>CÉARD (Henry), 32, 62, 67, 68,</p>
-<p>69, 70, 76.</p>
-<p>CERNUSCHI, 54. CHAMPFLEURY, 110.</p>
-<p>CHARCOT, 65.</p>
-<p>CHARPENTIER (Georges), 54. COPPÉE (François), 83,</p>
-<p>D</p>
-<p>DAUDET (Alphonse), 67, 75,</p>
-<p>102.</p>
-<p>DEFFOUX (Léon), 63, 76, 84. DEROME (L.), 91.</p>
-<p>DESCAVES (Lucien), 66, 75,</p>
-<p>78.</p>
-<p>DETHEZ (Albert), 68. DUHAMEL (Georges), 97. DUMAS (André), 40. DUMESNIL
-(René), 13. DURANTY, 110.</p>
-<p>DURET (Théodore), 54.</p>
-<p>F</p>
-<p>FAURE (Sébastien), 83. FLAUBERT (Gustave), 83, 104. FRANCE (Anatole),
-33, 79, 80,</p>
-<p>81, 84, 85, 86, 87, 88, 89.</p>
-<p>G</p>
-<p>GAUTIER (Théophile), 31. GILLE (Philippe), 95, 96. GOIGNEAUX, 21.</p>
-<p>GONCOURT (Edmond de), 67, 69,</p>
-<p>75.</p>
-<p>GROSCLAUDE, 75.</p>
-<p><pb/></p>
-<p>H</p>
-<p>HÉBRARD (Adrien), 83. HERRIOT (Ed.), 116. HERMANT (Abel), 84.</p>
-<p>HUGO (Victor), 94.</p>
-<p>HUGOT (Charles), 61, II2. HURET (Jules), 79. HUYSMANS, 62, 69, 70.</p>
-<p>J</p>
-<p>JAURÈS, 83.</p>
-<p>JOUY (Jules), 72, 73, 74.</p>
-<p>K</p>
-<p>KAHN (Maurice), 87.</p>
-<p>L</p>
-<p>LAFARGUE, 25.</p>
-<p>LAVERGNE (L. de), 21.</p>
-<p>LE BLOND-ZOLA (Denise), 16. LEMAITRE (Jules), 107. LEMONNIER (Camille),
-97. LEPELLETIER (Edmond), 72, 93. LUCRÈCE, II6.</p>
-<p>M</p>
-<p>MALLARMÉ, 108.</p>
-<p>MANN (Heinrich), 116.</p>
-<p>MANN (Thomas), 40. MARGUERITTE (Paul), 66, 75. MASSART, 25.</p>
-<p>M ASSIS (Henri), 19. MAUPASSANT (Guy), 81. MENDÈS (Catulle), no, 111.
-MIRBEAU (Octave), 91. MOREAU (de Tours), 65.</p>
-<p>ORSAT, 69.</p>
-<p>P</p>
-<p>PARFAIT (Noël), 30, 31, 32.</p>
-<p>R</p>
-<p>RANC (Arthur), 85. REVILLON (Tony), 25. ROGAT (Albert), 91.</p>
-<p>ROSNY (J. H.)~ 66,69,76,77.</p>
-<p>" ROUSSEAU (J.-J.), 85.</p>
-<p>RUBENS, 95.</p>
-<p>S</p>
-<p>SAINT-ARROMAN (Raoul)61, 112. SAINT-GEORGES DE BOUHÉLIER,</p>
-<p>110.</p>
-<p>SAND (MME), 84.</p>
-<p>SANTEN KOLFF (Van), 20,41,1°8. SARCEY (Francisque), 70, 71,</p>
-<p>98,100.,</p>
-<p>SHAKESPEARE, 112.</p>
-<p>SCHOLL (A.), 70.</p>
-<p>SEILLIÈRE (Baron E.), 15. SIGNORET (G.), 112.</p>
-<p>SOLARI (Emile), 38. SOUDAY (P.), 94.</p>
-<p>STENDHAL, 24.</p>
-<p>T</p>
-<p>THYÉBAUT (G.), 23, 67. TOLSTOÏ, 88, 102, 103,104. TOULOUSE (Dr), 16, 20.</p>
-<p>V</p>
-<p>VALADIER, 114.</p>
-<p>VALLÈS (Jules), 24 VILLEROY (A.), 40.</p>
-<p>W</p>
-<p>WAGNER (Richard), 40.</p>
-<p>Z</p>
-<p>ZAY (J.), 55, 59.</p>
-<p><pb/></p>
-<p>BIBLIOGRAPHIE SOMMAIRE</p>
-<p>TOULOUSE (Dr Edouard). — Enquête Médico-Psychologique sur les rapports
-de la supériorité intellectuelle avec la Névropathie. I. Emile Zola
-(Paris, Société d'éditions scientifiques, 1896).</p>
-<p>LEPELLETIER (Edmond).— Emile Zola, sa vie, son œuvre (Paris, Mercure de
-France, 1908).</p>
-<p>WITKOWSKI (G.). — Les Accouchements dans les Beaux-Arts, dans la</p>
-<p>Littérature et au Théâtre (Paris, Masson, 1894).</p>
-<p>Louis (PAUL). — Les Types sociaux chez Balzac et Zola (Paris, Le</p>
-<p>Monde Moderne, 1925).</p>
-<p>PAJOT. — Le Paysan dans la Littérature française (Paris, Société
-d'Editions littéraires, 1896. )</p>
-<p>(La Haye, 1923).</p>
-<p>RAMOND (J. C.). — Les Personnages des Rougon-Macquart (Paris,</p>
-<p>Fasquelle, 1901).</p>
-<p>HURET (Jules). — Enquête sur l'Evolution littéraire (Paris, Charpentier,
-1891).</p>
-<p>DEFFOUX (Léon). — Le Naturalisme (Paris, Les œuvres représentatives, 1929).</p>
-<p>KAHN (Maurice). — Anatole France et Zola (Paris, Lemarget, 1927).
-BRAIBANT (Charles). — Le Secret d'Anatole France (Paris, Denoël et</p>
-<p>Steele, 1936).</p>
-<p>LE BLOND-ZOLA (Denise). — Emile Zola raconté par sa fille (Paris,</p>
-<p>Fasquelle, 1931).</p>
-<p>ANTOINE (André). — Mes Souvenirs sur le Théâtre Antoine et sur l'Odéon
-(Paris, Les œuvres représentatives, 1930).</p>
-<p>BATILLIAT (Marcel). — Maîtres des Littératures. Emile Zola (Editions
-Rieder, 1931).</p>
-<p>MALLARMÉ (Stéphane). — Dix-neuf lettres de Stéphane Mallarmé à</p>
-<p>Emile Zola avec une introduction de Léon Deffoux et un commentaire de
-Jean Royère (Paris, Jacques Bernard, « La Centaine », 1929). ,</p>
-<p>XAU (Fernand). — Emile Zola (Paris, Marpon et Flammarion,</p>
-<p>880).</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>TABLE DES MATIÈRES</p>
-<p>CHAPITRE I</p>
-<p>A quand remonte la conception de La Terre ? — Médan, commune rurale. —
-Zola, conseiller municipal. — Le choix de la Beauce et les origines
-maternelles de l'écrivain. La Terre dans la série des Rougon-Macquart 11</p>
-<p>CHAPITRE II</p>
-<p>La méthode de travail du grand romancier. — La documentation livresque.
-— Les témoins et les informateurs. — Le socialisme agraire et Jules
-Guesde 19</p>
-<p>CHAPITRE III</p>
-<p>Le voyage en Beauce. — La recherche du décor. Chartres,
-Romilly-sur-Aigre, Cloyes, Châteaudun. — Comment Zola reconstruit le
-village de Rognes. — Les fermes et les marchés. — Le grand motif
-symphonique de La Terre 30</p>
-<p>CHAPITRE IV</p>
-<p>L'utilisation des matériaux. — L'Ebauche. — La « terre », héroïne de
-l'œuvre. — Les personnages principaux et secondaires. Leur état-civil et
-leur rôle. — Prédispositions physiques et mentales. — Apport dans
-l'épopée d'un élément comique. Concordance des travaux, des amours et
-des saisons 41</p>
-<p>CHAPITRE V</p>
-<p>Les étranges coïncidences d'un procès authentique avec certaines
-péripéties du roman. L'affaire Lebon. — En cours d'exécution, l'écrivain
-modifie son dénouement. — Les deux « morts » du père Fouan
-......................... 54</p>
-<p><pb/></p>
-<p>CHAPITRE VI</p>
-<p>Avant même que l'ouvrage soit terminé, commence la ba-</p>
-<p>taille de La Terre.— Le « Manifeste des cinq » et ses dessous.</p>
-<p>— Des lettres de Céard et d'Huysmans. — L'attitude réservée et hostile
-de la presse. — Brocards et couplets. —</p>
-<p>Le maître de Médan refuse d'intervenir dans la polémique.. 62</p>
-<p>CHAPITRE VII</p>
-<p>Suite de la Bataille de La Terre.—L'article d'Anatole France.</p>
-<p>— Son attitude et son jugement conformes aux sentiments</p>
-<p>et légitiment son oraison funèbre d'Emile Zola 81</p>
-<p>CHAPITRE VIII</p>
-<p>Une palinodie d'Octave Mirbeau. — Ferdinand Brunetière condamne la «
-détestable rhapsodie de M. Zola ». Le personnage de « Jésus-Christ »,
-qui fait scandale, satisfait un</p>
-<p>CHAPITRE IX</p>
-<p>Un arbitrage de Francisque Sarcey sur la véracité des « Pay-</p>
-<p>CHAPITRE X</p>
-<p>L'apaisement se produit dès la publication du livre. — L'opi-</p>
-<p>nion de Stéphane Mallarmé. — Une adaptation théâtrale du roman. — La
-survie de La Terre 108</p>
-<p>Bibliographie sommaire 117</p>
-<p>Table des noms de personnes cités dans l'ouvrage ......... 119</p>
-<p><pb/></p>
-<p>Saint-Amand (Cher). — Imprimerie R. BussiÈRE.— 29-6-1937.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>ÉjHHÉk €o!W.tk&gt;j: u r ti K SPiv' "'IVJ&amp;</p>
-<p>:,.&amp; iJ; ■?■</p>
-<p>. .......... r</p>
-<p>ii.lli [ f 1 :, ... ... ,6 ..... V -,</p>
-<p>Ail !&lt; ^ohifce</p>
-<p>DR ROBERT TEUTSCH. — L'angoisse humaine... ..</p>
-<p>— Le Féminisme ... i,5 » ARCy-HENNERY. — Destin du Cinéma Français 15 %
-ft/KÊIÊÊt Galerie d'Histoire Lit éraire</p>
-<p>ANTOINE ALBALAT. — Trente ans de quartier 1; tin 12 Louis AURENCHE. -
-J.-J. Rousseau chez M. d, Mabiy .... 15 ; LÉON BOCQUET. — Les Destinées
-mauvaises ........ 12 ■&gt;</p>
-<p>— La Commémoration des Mc ,'ts 12</p>
-<p>SYLVAIN BONMARIAGE.— L'Amour et le Souve ,ir 12 *</p>
-<p>— Les Tablettes d'Alcil 15</p>
-<p>CHARLES CABANES. — Denys Papin G s MARIE DORMOY. — La vraie Marion de
-Lorme. j 5 » JEAN DRAULT. — DRUMONT, La France Ju</p>
-<p>Parole l,) y F AGUS. — Essai sur Shakespeare 12 » AMÉLIE FILLON. —
-François Mauriac ,. .... 18 * LYDIA FRAZER. — La Bretagne de Charles Le
-( offic 15 « HÉLÈNE FUEJLICH. — Flaubert d'après sa corwspônd*</p>
-<p>0 — 4», Les Amants de Mantes U » YVES GANDON. — Imageries critiques "
-LÉOPOLD LAC OUR. — Les maîtresses de Molière, ARMAND LE CORBEILLER. —
-Corneille intime ,... &lt; » RAYMONDE LEFÈVRE. — La Vie inquiète de Pi( rre
-J -</p>
-<p>CLAI.M). V:; :. ! St /A'N \ —- .ii</p>
-<p>AMJF T- S,I-OPAÉVI.IÎÂI- .• ':•! THlF' ■: -- A.;i * "RPVIRFC'</p>
-<p>g uv:</p>
-<p>Al</p>
-<p>CkkVS -- -ii'iS Aï.. - i:;1- ■■■.■;■.. i .!.■• | i</p>
-<p>En !': r i: JACQU;:S '!,-.;JVU. I/ilx )"VW,■■■;•■</p>
-<p>Société Française d "Editi¡¡q,,;; ;.t.érair»:• &gt;m. 'ï-itàfàgp</p>
-<p><pb/></p>
-<p>~e</p>
-<p>| BIBLIOTHÈQUE DU HÉRISSON ÎÈ-"Oo-l j| (Format 12x 19) a* il Luc Ai
-r.EROT, Le Mammouth bL-u.</p>
-<p>™ æ — Les Chevaliers Teutcniques (1000 pages 50 Ir.). S " 9 WACLAW
-BIRP.WEWSKI L'Amour du Samouraï (lIi fr.). — L'Eua-iion H</p>
-<p>9 (15 fr.).</p>
-<p>æ A. AUGUSTIN-THIERRY Un Ménage d'Aventuriers — M"* d, Clénord. S æ
-PAUL-JEAN TOULET Behanziàvi,. - - S il THÊO VARLET Le Démon dans l'Ame
-—r Le dernier '-Satyre. S m — Auv Paradis du Hachiche — La belle
-Valence. æ 9 æ PAUL YNtEBOM Les Amants du Rempart. — Ttil". " æ</p>
-<p>æ — Chutt le Hu.Ueu:t:. - Le Péché inconnu.</p>
-<p>il H.-H. WELLS La dictature tit, Mr l'arham (15 ir.) (pnr fil 45 fr.)
-fi] 9 WILLY ET MIINAT£A L'Ersatz d'Amour. — Le Naufrage. æ EP FFL m s g
-Eieinp'airee ordinaires. 12 fr. ou 15 fr. Exemplaires sur pur fil. 30
-fr. oa 4Ur. 9 ' 63 ; :.. ffl j
-SFFLFFLSSBEBSFFLFFISBFFLFFIIBSLIBSÉFBIBLÎOT H EQ U E NATION DE FRANÇE ^B9-^</p>
-    </div>
+      <div>
+        <p>LES GRANDS ÈVÛNBM HM 7S</p>
+        <p>£, y ITTÊRAÈRES</p>
+        <p>\\ -U CRICE LE BLOND</p>
+        <p>de</p>
+        <p>A ,JiL. ufili A iifc» -SL..</p>
+        <p>Sonflp. r:ar,cr;i§e raniMs Liuêrsirss 81 Tecjinîpes rj, RUE HAUTËi'KUll.i.K, PARIS (»* it.lh'.A R MÀLFKKK, DIRECTEUR</p>
+        <p>
+          <pb/>
+        </p>
+        <p>a Solaire 'z.</p>
+        <p>20 »</p>
+        <p>U ú 1. i'</p>
+        <p>.... 12 » ... 12 1 ... 2U » André F ii»« _ » R.-M. HERMANT. — isatl Pamphlets i2 » Lucien JACQUES. — La Paque dans la Grange 12 » Tristan Klingsor, — Humo e ques 12 » — ch h r zade 12 » — P s de Brugnon 12 » Loys L beque. — Le J i oi m tique 12 » Philéas LEBESG- E. — L ;; l..ha ns de Margot 12 » MAGA'i-BoisK rd.— et le ¥ imier ... 20 » A^pho?ise M '.T ' t. — L livr des Soeurs 12 » — Cahi noir 12 » — Ne urnes 20 » Henri Mus- ilr . 1 Franciade 12 » Fra-Npois Nfbvivx-, L Se r t partagé 12 » Louis PA YEN - L C u,. d' mbre. ]. 12 » Jean ROYÈRE. 0 SI'S È es 12 T CH. DE SAINT-CYR. — Le li d I eult 12 » ALPHONSE Séché. — Un petit to ■ d'éternité 15 » TuÉe Varlet. — Aux libres jardins 12 » JnLiB-v Vo NCE. — Le li v re des Haï-Kaï 15 »</p>
+        <p>Traductions du grec et du latin</p>
+        <p>par Thierry-Sandre</p>
+        <p>1 de ma m r. lut.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>™</p>
+        <p>LES GRANDS ÉVÈNEMENTS LITTÉRAIRE</p>
+        <p>Histoire littéraire et anecdotique des chefs-d œuvre français et étranger publiée sous le direction de</p>
+        <p>MM. Antoine Albalat, Henri d'Aimeras, André Bellessort et Joseph Iœ Gi</p>
+        <p>/ Henri d'AJ,MÉRAS Le Tartuffe, de Molière.</p>
+        <p>| Éd. BENOIT-LÉVY tes Misérables, de Victor Hugo.</p>
+        <p>1 Jules BERTAUT Le Père Goriot, de Balzac. V René DUMESNIL La Publication de Madame Bovary.</p>
+        <p>•2 1 Félix GAIFFE Le Mariage de Figaro.</p>
+        <p>-S 1 Louis GIMBAUD Les Orientales, de Victor Hugo. M Y Joseph LE GRAS Diderot et l'Encyclopédie.</p>
+        <p>* J Henri LYONNET Le Cid, de Corneille.</p>
+        <p>'q / Comtesse J. DE PANQE De l'Allemagne, de Mme de Staël.</p>
+        <p>f Alphonse SÉCHÉ La Vie des Fleurs du Mal. Louis THUASNE Le Roman de la Rose.</p>
+        <p>\ Paul VULLIAUD Les Paroles d'un Croyant.</p>
+        <p>! Antoine ALBALAT L'Art Poétique, de Boileau. ;</p>
+        <p>Jl enri D'ALMÉRAS Les Trois Mousquetaires. i A. AUGUSTIN-THIERRY Récits des Temps Mérovingiens. Albert AUTIN L'Institution Chrétienne, de Calv'u S Georges BEA UME Les Lettres de Mon Moulin. M René BRAY Les Fables, de La Fontaine. | Raymond CLAUXEL Sagesse, de Verlaine. j* YVES LE FESVRK Le Génie du Christianisme.</p>
+        <p>Ph. VAN 'J'IFGHFM La Nouvelle Héloise. | Maurice MAGENDIE L'Astrée, d'Honoréd'Urfé. | Georges MONGRÉDIEN Athalie, de Racine. ri Ernest RAYNAUD Jean Morécu et les Stances. jj / Albert BAYET Les Provinciales. A</p>
+        <p>[ Jeanne L ANDRE tes Soliloques du Pauvre.</p>
+        <p>i LONGWORTH-OHAMBRUN Hamlet, de Shakespeare. j V Joseph VIANEY Les llegret8, de Du Bellay.</p>
+        <p>.2 1 Auguste Du POU Y Carmen, de Mérimée. -t ) Albert AUTIN Le Disciple, de Bourget.</p>
+        <p>ta GUY DE LA BATUT L'Oraison Funèbre d'Henriette d'Angleterre, de Boaa ôj René DUMESNIL En route, de J. K. Huysmans.</p>
+        <p>Raymond CLAUZEL Une Saison en Enfer et A.Rimbaud. % | Eugène LASSERRE Manon Lescaut. S I A. AuGusTM-THiEnny Les Liaisons Dangereuses.</p>
+        <p>\ Henry LYONNET La Dame aux Camélias. -j i Gustave FRËJAVILLE tes Méditations, de Lamartine. 'Â</p>
+        <p>Léon DEFFGUX L'A.!sommoir, d'Émile Zola. ;,j| N. BRIAN-CHANINOV La Guerre et la Paix, de Tolstoï.</p>
+        <p>Henri JI AUVETTE Les Canzonières, de Pétrarque. 'j Henri d' AI.MÉRAS Le Roman Comique, de Scarron. | Albert LANTOINE Les tentes Philosophiques, de Voltaire. | Pierre ViLLEY Les Essais, de Montaigne. 1 Joseph VIANYY Les Odes, de Ronsard. '0 J Georges J AItBINET Les Mystères de Paris, d'Eugène Stie. 3 Antoine ALBALAT La Vie de Jésus, d'Ernest Renan. ;j René DUMESNIL tes Soirées de Médan. '1 Joseph VIANEY Les Poèmes barbares, de Leconte de l'Isle. |</p>
+        <p>~i ! Arthur GUY • Les Robaï, d'Omer Kheyyam. J</p>
+        <p>É mile-François JULIA *• Les Mille et une Nuits et l'Enchanteur Mardrus. (,US 'Ve HUDLER Adolphe, de Benjamin Constant.</p>
+        <p>Maurice ALLEM 00 Sainte Beuve et Volupté. h Joseph Vl&amp;l,'Ey Les Epîtres, de Marot. £] Raymonde LEFÈVRF: Le Mariage de Loti.</p>
+        <p>René DUMESNIL L'Education sentimentale. A Pierre MOREAU Les Destinées, de Vigny. - £&amp;}•. û GERIN-KICARD Fustel de Coulanges. '3 Joseph BOLLBRY »•* Le Désespéré, de Léon Bloy. W Henri d'ALmÊRàg * Paul et Virginie --"M M9 Maurice LE BLOND ............ La Terre, de Zola. •'$</p>
+        <p>(Sixième série en préparation)</p>
+        <p>
+          <pb/>
+        </p>
+        <p>La Publication de</p>
+        <p>LA TERRE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>OUVRAGES SUR ZOLA</p>
+        <p>PARUS DANS I,A MÊME COIXECTION</p>
+        <p>LA PUBLICATION DE L'ASSOMMOIR par LÉON DEFFOUX</p>
+        <p>LA PUBLICATION</p>
+        <p>DES SOIRÉES DE MÉDAN par RENÉ DUMESNII,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LES GRANDS ÉVÉNEMENTS LITTÉRAIRES</p>
+        <p>MAURICE LE BLOND</p>
+        <p>La Publication de</p>
+        <p>LA TERRE</p>
+        <p>SOCIÉTÉ FRANÇAISE</p>
+        <p>D'ÉDITIONS LITTÉRAIRES ET TECHNIQUES</p>
+        <p>12, Rue Hautefeuille, PARIS (6e)</p>
+        <p>Edgar MALFÊRE, directeur</p>
+        <p>1937</p>
+        <p>
+          <pb/>
+        </p>
+        <p>IL A ÉTÉ TIRÉ DE CET OUVRAGE</p>
+        <p>30 EXEMPLAIRES SUR PAPIER PUR</p>
+        <p>FIL NUMÉROTÉS DE 1 A 30</p>
+        <p>Tous droits de traduction et de reproduction réservés</p>
+        <p>Copyright by Edgar Malfère 1937</p>
+        <p>
+          <pb/>
+        </p>
+        <p>A MES AMIS</p>
+        <p>MARCEL BATILLIAT</p>
+        <p>ET</p>
+        <p>LÉON DEFFOUX</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Plan deJRôïniUy-sur-Aigre en 1886.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Plan de Rognes, de lajnain de^Zola, avec l'indication des maisons des personnages.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>CHAPITRE PREMIER</p>
+        <p>A QUAND REMONTE LA CONCEPTION DE LA Terre ? — MÉDAN, COMMUNE RURALE. — ZOLA, CONSEILLER MUNICIPAL. — LE CHOIX DE LA BEAUCE ET LES ORIGINES MATERNELLES DE L'ÉCRIVAIN. — IYA Terre DANS LA SÉRIE DES ROUGON-MACQUART.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Un peu plus tard, vers 1882, quand il publie son</p>
+        <p>(1) Fernand Xau. Emile Zola, Marpon et Flammarion, 1880.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Emile Zola, notes d'un ami, Paul Alexis, dans un chapitre sur les projets du grand écrivain, mentionne son roman paysan.</p>
+        <p>« l'état de leurs récoltes. »</p>
+        <p>Alexis ne nous apporte, en somme, que peu de détails sur l'œuvre future. Il nous fournit pourtant une indication très intéressante et qui mérite d'être retenue : l'influence qu'eut Médan sur la conception de La Terre.</p>
+        <p>Lorsque Zola s'installa dans cette commune mi-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« Depuis dix ans que j'habite Médan, confiait « Zola, en avril 1887, à un rédacteur du Parti National, « je me suis tenu au courant de toutes les petites his« toires villageoises, de tous les menus cancans de la « ferme et j'ai entassé notes sur notes. Cela n'a pas « toujours été facile. Le paysan n'est pas parleur et « garde volontiers ses affaires pour lui. Je me suis</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« laissé nommer conseiller municipal de Médan, ce « qui m'a permis d'étendre mes investigations. Je « n'ai d'ailleurs reculé devant aucun moyen. J'ai fait « causer mes domestiques avec lesquels les paysans « se montraient plus confiants qu'avec un bour« geois. »</p>
+        <p>La Beauce n'était-elle pas la terre d'origine de sa famille maternelle ? Sa mère Emilie, Aurélie Aubert</p>
+        <p>
+          <pb/>
+        </p>
+        <p>i. trnest Seillière, Emile Zola Bernard Grasset, 1023), p. g.</p>
+        <p>2. tdouard Toulouse, Enquête médico-psychologique sur les rapports de la supériorité intellectuelle avec la névropàthit. Emile</p>
+        <p>Zola (Société d'éditions scientifiques, 1896), p. m.</p>
+        <p>3. Emile Zola raconté par sa fille (Fasquelle, 1931).</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Son dessein, le romancier de La Terre l'a résumé en tête de ses notes de travail :</p>
+        <p>« La Terre est l'histoire du paysan français, son « amour du sol, sa longue lutte pour le posséder, ses « travaux écrasants, ses courtes joies et ses grandes « misères, le paysan s'y trouve étudié, dans ses rap« ports avec la religion et la politique, et sa condition « présente y est expliquée par son histoire passée ;</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« Ajoutez que j'entends rester artiste, écrivain, écrire le poème vivant de la terre : les saisons, les travaux des champs, les bêtes, la campagne entière 1. »</p>
+        <p>i. Emile Zola, Œuvres Complètes. Correspondance, p. 601.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>CHAPITRE II</p>
+        <p>LA MÉTHODE DE TRAVAIL DU GRAND ROMANCIER. — LA DOCUMENTATION LIVRESQUE. — LES TÉMOINS ET LES INFORMATEURS . LE SOCIALISME AGRAIRE ET JULES GUESDE.</p>
+        <p>i. Henri Massis : Comment Emile Zola composait ses romans (Fasquelle, 1907).</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Sa méthode ou, si l'on préfère, ses procédés de composition, le Dr Toulouse, dans son enquête médico-psychologique 1 sur le grand écrivain, les a décrits en termes excellents, dont voici l'essentiel :</p>
+        <p>i. Edouard Toulouse : ouv. cité. D. 268.</p>
+        <p>2. C'est l'idée générale de « la Terre » que nous avons essayé de fixer dans le chapitre précédent.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« fisamment son roman pour terminer son ébauche. « Il décrit alors la vie de ses personnages ordinaire« ment très nombreux, et établit ce que nous, mé« decins, nous appellerions leur observation...</p>
+        <p>« sommaire bien détaillé de la conduite de l'action. »</p>
+        <p>Les livres consultés par l'auteur pour l'élaboration de La Terre, ses notes de travail nous indiquent les titres de quelques-uns d'entre eux. On constate que tout ce qui concerne l'ethnographie paysanne, l'économie rurale, la technique agricole, l'intéresse d'abord : Les Populations agricoles de la France (Baudrillard) ; Le Petit Berquin agricole ; L'agriculture et la population et L'Economie rurale de la France (L. de Lavergne) ; Les Travaux des champs (Goigneaux) ; L'Enquête sur l'agriculture américaine, faite par trois membres de la Chambre de commerce aux ÉtatsUnis, etc... Zola dépouilla, en outre, des collections, des revues spéciales, des almanachs populaires, les « Veillées au Village », des statistiques de toute sorte.</p>
+        <p>Selon son habitude, il s'entoura d'informateurs bénévoles, qu'il choisissait pour leur compétence spéciale en la matière qui l'intéressaitx.</p>
+        <p>i. Parmi les informateurs dont Zola utilisa ainsi la compétence</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« en effet. »</p>
+        <p>Elie Cassé insistait auprès de l'écrivain pour qu'il</p>
+        <p>et l'amitié au cours de sa vaste enquête des Rougon-Macquart, il faut citer, entre autres, Jules Ferry pour la Curée, Maxime Ducamp pour le Ventre de Paris, Chauchard pour Au Bonheur des Dames, Edmond Perrier, directeur du Muséum d'Histoire naturelle, pour la Joie de Vivre, l'architecte Frantz Jourdain pour le Rêve, l'ingénieur Dormoy pour Germinal, l'historien Alfred Duquet pour La</p>
+        <p>Débâcle, le docteur Maurice de Fleury pour le Docteur Pascal, etc... sans compter Henry Céard, Gabriel Thyébaut et J. K. Huysmans.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>2. C'est, d'autre part, Me Mallet qui servit au romancier de modèle pour le personnage de Maître Baillehache, le notaire de Cloyes qui assiste avec un flegme professionnel aux terribles querelles de sa clientèle paysanne.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Dans son livre, Zola se proposait encore d'aborder la question sociale, de laisser pressentir l'avenir, d'indiquer le rôle possible du paysan dans une révolution socialiste... et c'est ainsi que l'auteur de La Terre eut l'idée de s'aboucher avec Jules Guesde et de l'interroger sur ces problèmes.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« science... »</p>
+        <p>Deux ans plus tard, soucieux d'entendre Guesde exposer sa théorie de la question sociale dans les campagnes, Zola pria donc Paul Alexis de s'aboucher avec ce dernier pour leur ménager une entrevue et, si l'on croit une lettre du même Alexis, datée du 25 avril 1886, cette entrevue aurait eu lieu quelques jours plus tard,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>« prompts. Le temps et le prix de la traversée di« minuent, de sorte que bientôt on amènera des trou« peaux sur pied, on nous inondera de pain et de</p>
+        <p>Tel est l'avenir, et en face de cet avenir redoutable, Guesde montre la pauvreté de notre organisation économique.</p>
+        <p>« terre. Tous les biens affermés deviendraient la</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« propriété de la nation, qui les ferait cultiver d'après « les principes nouveaux, car la concentration seule « peut sauver notre terre. »</p>
+        <p>« Donc, paix au petit propriétaire cultivant lui« même, dépossession seulement des grands proprié« taires employant des salariés.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« Ces idées ne datent que de quelques années, et « leur rapide progrès, selon Guesde. Guesde était « seul, il devient légion. »</p>
+        <p>
+          <pb/>
+        </p>
+        <p>CHAPITRE III</p>
+        <p>LE VOYAGE EN BEAUCE. — LA RECHERCHE DU DÉCOR.</p>
+        <p>— CHARTRES, Romu,,L y-suR-AirRE, CLOYES, CHATEAUDUN. — COMMENT ZOLA RECONSTRUIT LE VILLAGE DE ROGNES. — LES FERMES ET LES MARCHÉS. — LE GRAND MOTIF SYMPHONIQUE DE LA Terre.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Réélu député, il connaissait admirablement la contrée, et le romancier l'ayant mis au courant du genre de paysage qui conviendrait au décor de son œuvre, il lui conseilla de visiter dans le Dunois, ces parages très caractéristiques, appelés « petite Beauce, ou Beauce Pouilleuse » situés, non loin du Loir, a proximité des collines du Perche.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>son esprit l'histoire de la « Confiserie » et des Charles, ces tenanciers enrichis qui vivent entourés de la déférence respectueuse de tout le village, l'une des anecdotes les plus amusantes de La Terre. Il enregistre que les maisons sont le 15, le plus bas, le 20 entre les deux et le 19, le plus chic où il y a trois femmes. Toutes trois, mal tenues (on y éreinte les femmes 1) appartiennent au même individu, ce qui empêche la concurrence. « Ah ! Monsieur, il y aurait de l'argent à faire, si on ouvrait une maison propre, avec des capitaux, et où l'on satisferait le client ».</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« Et voilà. Un temps merveilleux, un pays char-</p>
+        <p>« mant... »</p>
+        <p>Romilly-sur-Aigre : Ce petit bourg est fort plaisant,</p>
+        <p>2. Ce n'est pas seulement aux alentours de Cloyes qu'il existe des vignobles. La culture de la vigne était pratiquée aussi dans la région de Maintenon et de Jouy. Sans doute, la vigne s'est faite plus rare en Beauce depuis 1 apparition du phylloxéra, mais, il n'y a pas longtemps, il existait encore dans le département plusieurs confréries de vignerons.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Zola est fier de sa découverte, voici bien le village qu'il lui faut. Il n'hésite pas. C'est ainsi que ce petit bourg sans histoire deviendra le village symbolique de La Terre, qui, par la suite, restera fameux sous le nom de Rognes.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>recouvertes de ronces, noyées sous les lierres, et c'est dans une de ces caves que gîtera l'aîné des Fouan, Hyacinthe dit Jésus-Christ, avec sa fille « la Trouille ».</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Emile Zola séjourna plusieurs semaines dans la région, visitant les fermes, les cabarets, assistant aux marchés et aux foires, causant avec les uns et les autres ; parcourant en tous sens l'immense plaine, à toutes les heures du jour.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Zola composa ses -aw«es. (La Gran4 Revue, juin 1924).</p>
+        <p>
+          <pb/>
+        </p>
+        <p>de la cinquième partie où les personnages de La Terre se retrouvent au marché de Cloyes, l'un des tableaux les plus magistralement brossés de son livre.</p>
+        <p>Cependant, ce dont le romancier s'imprègne longuement, au cours de son inlassable randonnée, c'est du spectacle magnifique de la Beauce. Il en absorbe le paysage monotone et grandiose, il en retient les lignes panoramiques qui formeront le fond de sa fresque. Déjà, il prévoit les motifs d'orchestre qui, sans cesse, dans son livre, commenteront les gestes, l'action de ses personnages, les baigneront d'un large flot de poésie.</p>
+        <p>Sans cesse, il y revient :</p>
+        <p>« Les seigles gris aux remous rougeâtres, le blé vert « jaune, l'avoine vert bleu, le trèfle incarnat d'un vert « plus noir que le trèfle ordinaire, et la couleur lorsque « les fleurs rouges ou roses sont en masse, rappellent « l'ondulation des vagues. Puis, les clochers qu i « émergent comme des mâts ; puis, les villages pareils</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Ne trouve-t-on pas ici la notation première de l'un des principaux thèmes symphoniques qui animent les pages de ce grand poème qu'est La Terre ? Et n'est-ce pas le cas de rappeler le rapprochement que faisait naguère entre l'auteur de La Tétralogie et Zola, le célèbre écrivain allemand Thomas Mann, lorsqu'il estimait qu'il y avait parenté d'inspiration et de moyens — par exemple le leitmotiv — entre Richard Wagner et le grand écrivain ? A ce propos, M. Auguste Villeroy 1 pouvait écrire :</p>
+        <p>« où la voix de l'homme intervient seulement comme « une résultante, comme l'émouvante et nécessaire « partie d'un ensemble ? »</p>
+        <p>i. Auguste Villeroy : Wagner et Zola (Comœdia, 3 août 1933).</p>
+        <p>
+          <pb/>
+        </p>
+        <p>CHAPITRE IV</p>
+        <p>L'UTILISATION DES MATÉRIAUX. — L'ÉBAUCHE. — LA « TERRE », HÉROÏNE DE L'OEUVRE. — LES PERSONNAGES PRINCIPAUX ET SECONDAIRES. LEUR ÉTAT-CIVIL ET LEUR RÔLE. — PRÉDISPOSITIONS PHYSIQUES ET MENTALES. — APPORT DANS L'ÉPOPÉE D'UN ÉLÉMENT COMIQUE. CONCORDANCE DES TRAVAUX, DES AMOURS ET DES SAISONS.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« C'est une œuvre bien longue, bien hardie et qui me donne un mal infini ».</p>
+        <p>«... La terre. C'est l'héroïne de mon œuvre... Il faut</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« but... »</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le premier de ceux-ci est Louis Fouan, cette figure du vieux paysan dépossédé, que, dans son roman, Zola a traitée avec une rare puissance et une tendresse apitoyée. Voici, d'après ses notes de travail, comment il conçoit la physionomie du père Fouan et comment il détermine son rôle :</p>
+        <p>« Louis Fouan. — Il a soixante-dix ans en 59. Il est donc né en 1789 et il aura quatre-vingt-un ans en 70, lorsqu'il mourra.</p>
+        <p>Caractère ; il a été violent, autoritaire, très travailleur,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« Marianne Fouan, dite la Grande. — Née en 1779 a vu la Révolution, quatorze ans en 93. L'aînée des Fouan, sœur de Louis, de Jérôme et de Charles. Elle</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Françoise I\Iouche. — Quatorze ans de moins que son marz', Plus petite que sa sœur, mais lui ressemblant, sans éclat, le bnÚt, la gaÙtJ. Plus jolie d'abord, les traits réguZz'ers. Yeux JJlagniflques, grands, profonds, bruns. Elle brune, lèvres fortes, un ncz droit, sous un front pcld, très bon, face allongée, petite gorge dure, yeux noirs très profonds, reste mince, léger duvet aux lèvres, dès la pu berté. Femme de bonne heure, hâlée, dorée déjà. Passionnante, grisant comme la terre, ceux qui l'approchent. Maigre mais forte en odeur, une bonne</p>
+        <p>
+          <pb/>
+        </p>
+        <p>odeur de terre. Oui, pas très intelligente, un peu simple. Idées honnêtes, relativement. N'aime pas Jean, mais l'épouse tout de même. Plus attirée vers Buteau malgré sa colère. Comment elle se défend contre lui, et se laisse vaincre sans rien dire. Puis, sa révolte exaspérée...</p>
+        <p>Si cela ne me la donne pas sympathique dans le sens romanesque du mot, cela me la donne vivante, et je n'en veux pas davantage. La faire très charnelle, très vivante, très simple, très admirable et très désirable dans son instinct.</p>
+        <p>Delhomme. — Quarante ans en 59, cinquante en 70. Type de Burneron, roux avec figure carrée et calme. La peau épaisse et rouge brique, yeux ronds, bleu faïence, fixes. Les joues carrées, le menton carré, le front carré, le nez recourbé, la bouche fermée et carrée. Deux grands plis partent du nez et coupent le bas du visage en détachant le menton. Lent et court et muet. Parle très peu, se remue avec méthode. Un bœuf au travail, toutes les qualités : sobre, travailleur, honnête.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Connu pour sa justice qui le fait prendre Pour arbitre. Mais il ne faut pas que son intérêt, son droit surtout soit en jeu, car il devient alors impitoyable. Manquant enfin de tolérance et de bonhomie. Se laisse conduire par sa femme, sans que cela Paraisse</p>
+        <p>
+          <pb/>
+        </p>
+        <p>révolte. Elle le croit pourtant, dit que c'est cochon, mais trouve ça assez naturel au fond. Ce n'est que plus tard que la colère vient, lorsque le partage se fait et que la question d'intérêt les divise</p>
+        <p>Dans sa note sur Jean Macquart, l'écrivain explique le rôle que celui-ci doit tenir dans l action du livre :</p>
+        <p>
+          <pb/>
+        </p>
+        <p>sa lourdeur d'intelligence, sentant la campagne et étant pour elle au-dessus de la possession immédiate... Il verra le paysage que Françoise et les autres ne voient Pas.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>il nous en dépeint la candeur primitive avec une hallucinante véracité.</p>
+        <p>D'inéluctables instincts prescrivent, en quelque sorte, les gestes des divers personnages et leurs passions ; leurs énergies seront déterminées, par le concert des forces naturelles. Une secrète concordance n'existe-t-elle pas entre les épqques de l'année et les activités vitales de ces terriens qui ne peuvent se soustraire comme les habitants de nos villes aux exigences du calendrier ? Aussi trouve-t-on dans les notes de travail deux documents extrêmement curieux et que nous ne rencontrons nulle part ailleurs, lorsque nous compulsons les textes et matériaux réunis pour les autres romans. Il s'agit de deux plans par saisons. En dressant ces deux plans, s'avèrent une fois de plus les soucis scrupuleux de composition qu'apportait Emile Zola dans l'ordonnance de ses romans 1. Dans celui-ci, les travaux de la campagne, les germinations souterraines, le verdissement des plaines, les tâches des hommes et leurs amours, coïncideront avec les palpitations mêmes du sol, avec les féeries successives des heures et des jours.</p>
+        <p>i. L'action de La Terre s'espace entre 1860 et 1870. La première partie se passe en octobre 1860. Le premier et le deuxième chapitre déroulent leurs épisodes un samedi, le troisième le mercredi suivant, le quatrième trois jours après et le cinquième le soir même du précédent. La seconde partie a lieu en été, la troisième en automne, la quatrième au printemps ; les mois y sont aussi soigneusement indiqués.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>CHAPITRE V</p>
+        <p>IvES ÉTRANGES COÏNCIDENCES D'UN PROCÈS AUTHENTIQUE AVEC CERTAINES PÉRIPÉTIES DU ROMAN. — 1/AFFAIRE LEBON. EN COURS D'EXÉCUTION, L'ÉCRIVAIN MODIFIE SON DÉNOUEMENT. LES DEUX « MORTS » DU PÈRE FOUAN.</p>
+        <p>La mise en chantier de La Terre avait, de son aveu même, causé au maître de Médan un mal énorme, et sa fatigue était telle, au mois de septembre 1886, qu'il fut obligé de s'interrompre pour prendre un peu de repos. Il partit donc pour Royan où l'appelait son éditeur Georges Charpentier ; il passa plusieurs semaines sur cette plage, en compagnie d'une bande d'amis, le critique d'art Théodore Duret, le collectionneur Cernuschi, le poète-imprimeur Victor Billaud, lequel devait être son initiateur dans l'art de la photographie qui fut la distraction favorite de ses dernières années.</p>
+        <p>C'est ici, le moment de raconter comment le romancier fut amené à modifier l'un des épisodes essentiels de son livre, la Mort du père Fouan. Un changement de cette nature était rare chez Zola, et le cas, ici, ap-</p>
+        <p>1</p>
+        <p>
+          <pb/>
+        </p>
+        <p>paraît peut-être unique, car, lorsque l'écrivain avait établi son « plan par chapitre », il ne s'écartait jamais de la voie qu'il s'était tracée.</p>
+        <p>Il n'est pas douteux que les circonstances dans lesquelles fut assassinée la femme Lebon sont les mêmes que celles qui accompagnent dans La Terre le meurtre du père Fouan. Mais, d'autre part — et c'est là un fait troublant, car Zola avait l'habitude d'y indiquer</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ses sources en les discutant — il n'est nulle part question, dans les notes du roman, du crime des époux</p>
+        <p>Thomas.</p>
+        <p>Concernant cette affaire et les analogies qu'elle présente avec l'un des épisodes principaux de La Terre, un jeune professeur, M. Georges Gruau, qui prépare une thèse de doctorat sur Emile Zola, nous a donné des renseignements très complets dans un article du Mercure de France, du Ier novembre 1936 1.</p>
+        <p>1. « Zola, constate M. Gruau, n'a fait qu'adoucir l'horreur de la scène dont les journaux du 24 novembre 1886 lui offrirent les éléments. Toutes les fois que l'on a voulu accuser Zola d'exagération, de fausse psychologie, d'outrance, il s'est trouvé que la réalité venait lui donner raison ».</p>
+        <p>Lire aussi sur ce sujet le Bulletin de la Société des Amis de Zola, année 1936, nO 22.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Cette scène, ayant eu pour témoins les enfants épouvantés, parmi lesquels la jeune Eugénie Thomas, âgée de sept ans, qui en a rapporté les horribles détails.</p>
+        <p>Quand la gendarmerie vint faire ses constatations, elle trouva le corps de la veuve Lebon en partie carbonisé, les pieds et la tête avaient été seuls préservés du feu, circonstance qui écarte l'hypothèse de l'accident.</p>
+        <p>i. Vendémiaire du 26 janvier, 1937 : « L'horrible exécution de la dernière femme guillotinée », par René Deprez.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>qu'Alexandre s'en tirait avec vingt ans de la même peine.</p>
+        <p>L'analogie est frappante entre le meurtre du vieux Fouan et celui de la mère Lebon. Mêmes mobiles, mêmes circonstances, notamment le feu mis avec des bouchons de paille et aussi ce fait atroce, la présence des enfants qui assistent au drame.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le sentiment initial de Zola avait donc été de faire mourir le père Fouan « dans la Terre » dans cette terre qu'il a tant aimée, et cette fin n'aurait pas été sans grandeur. Mais, plus tard, dans la période de conception et de tâtonnements, l'écrivain se montre hésitant, car, si la mort naturelle du vieux paysan a plus de beauté, plus de poésie, il pense aussi que la logique du drame exige de Buteau le geste qui tue, le geste qui le débarrassera du témoin de la fin de Françoise, le geste qui le libérera d'un cauchemar.</p>
+        <p>On ne trouve aucune trace d'un voyage qu'aurait accompli Zola à Romorantin en 1886. Encore moins, l'écrivain ne put assister, au mois de novembre de la même année aux débats des assises. Ia présence d'une</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Toute cette histoire, qui demeure ainsi parfaitement claire, aboutit à une preuve nouvelle de l'honnêteté que le grand écrivain apportait dans son labeur d'écrivain et d'artiste. Maintenant, a-t-il eu tort, a-t-il eu raison de sacrifier la première idée qu'il avait de faire expirer en pleine nature son vieux paysan de la Terre ? A chacun de nous de l'apprécier selon son goût.</p>
+        <p>1. Edition des Œuvres complètes, p. 663.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>L'assassinat de Fouan est plus âpre, plus vrai, plus conforme à l'esthétique réaliste ainsi qu'au déroulement psychologique des faits. L'autre mort, qui avait les préférences de Zola, était peut-être plus belle, plus émouvante, en sa haute signification symbolique.</p>
+        <p>Quoi qu'il en soit, lorsqu'en Ig02 Charles Hugot et</p>
+        <p>« Les auteurs ont fait mourir le père Fouan dans la Beauce im-</p>
+        <p>« mense, où il se traîne, sorte de roi Lear, chassé par la Grande. Il</p>
+        <p>« meurt au soleil levant. C'est une très belle fin que j'aurais pu ac-</p>
+        <p>« plus extrêmes conséquences la tragédie domestique engendrée par</p>
+        <p>« la passion de la terre. » (Interview d'Emile Zola, par Albéric</p>
+        <p>Darthèze. L'Aurore, 22 janvier 1902).</p>
+        <p>
+          <pb/>
+        </p>
+        <p>CHAPITRE VI</p>
+        <p>AVANT MÊME QUE L'OUVRAGE SOIT TERMINÉ, COMMENCE LA BATAILLE DE la Terre. — IYE « MANIFESTE DES CINQ » ET SES DESSOUS. — DES LETTRES DE CÉARD ET D'HUYSMANS. — L'ATTITUDE RÉSERVÉE ET HOSTILE DE LA PRESSE. — BROCARDS ET COUPLETS. — LE MAITRE DE MÉDAN REFUSE D'INTERVENIR DANS LA POLÉMIQUE.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>lonnes en première page. C'était le manifeste fameux des « Cinq » contre la Terre.</p>
+        <p>MANIFESTE DES CINQ CONTRE LA TERRE</p>
+        <p>On l'avait vu si fort, si superbement entêté, si crâne, que notre génération malade presque tout entière de la volonté, l'avait aimé rien que pour cette force, cette persévérance, cette crânerie. Même les pairs, même les précurseurs, les maîtres originaux, qui avaient préparé de longue main la bataille prenaient patience en reconnaissance des services passés.</p>
+        <p>Lui, cependant, allait creusant son sillon ; il allait, sans lassitude et la jeunesse le suivait, l'accompagnait de ses bravos, de sa sympathie si douce aux plus stoïques, il allait, et les plus vieux ou les plus sagaces fermaient dès lors les yeux, voulaient s'illusionner, ne pas voir la charrue du maître s'embourber dans l'ordure.</p>
+        <p>1. Le Naturalisme (Léon Deffoux), p. 230.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Puis, les moins perspicaces avaient fini par s'apercevoir du ridicule de cette soi-disant Histoire naturelle et sociale d'une famille sous le second Empire, de la fragilité du fil héréditaire, de l'enfantillage du fameux arbre généalogique, de l'ignorance médicale et scientifique du Maître.</p>
+        <p>Pourtant, incoercible, l'écœurement s'élargissait, surtout devant l'exagération croissante des indécences de la terminologie malpropre des Rougon-Macquart. En vain, excusait-on tout par ce principe émis dans une préface de Thérèse Raquin :</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Eh bien ! Cela termine l'aventure. Nous répudions énergiquement cette imposture de la littérature véridique, cet effort vers la gauloiserie mixte d'un cerveau en mal de succès. Nous répudions ces bonshommes de rhétorique zoliste, ces silhouettes énormes, surhumaines et biscornues, dénuées de complication, jetées brutalement, en masses lourdes, dans des milieux aperçus au hasard des portières d'express. De cette dernière œuvre du grand cerveau que lança L' Assommoir sur le monde, de cette Terre bâtarde, nous nous éloignons résolument, mais non sans tristesse. Il nous poigne de repousser l'homme que nous avons trop fervemment aimé.</p>
+        <p>Notre protestation est le cri de probité, le dictamen de conscience de jeunes hommes soucieux de défendre leurs œuvres — bonnes ou mauvaises — contre une assimilation aux aberrations du Maître. Volontiers nous eussions attendu encore, mais désormais le temps</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Il est nécessaire que, de toute la force de notre jeunesse laborieuse, de toute la loyauté de notre conscience artistique, nous adoptions une tenue et une dignité en face d'une littérature sans noblesse, que nous protestions au nom d'ambitions saines et viriles, au nom de notre culte, de notre amour profond, de notre suprême respect pour l'art.</p>
+        <p>Paul BONNETAIN, J.-H. ROSNY,</p>
+        <p>Lucien DESCAVES, Paul MARGUERITTE,</p>
+        <p>Gustave GUICHES.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Les cinq nouveaux venus avaient-ils qualité pour parler au nom de la jeunesse et pour signifier au chef du Naturalisme une rupture définitive ?... Ils n'étaient pas de son entourage et celui-ci ne les connaissait guère que pour avoir entr'aperçu certains d'entre eux chez Goncourt et chez Daudet.</p>
+        <p>Henry Céard, entre autres, est un de ses informateurs les plus actifs.</p>
+        <p>Voici quelques-uns de ses billets :</p>
+        <p>« Paris, le 18 août 1887.</p>
+        <p>« Nous avons beau faire, allez ! quelque basse idée « que nous professions pour l'humanité, l'humanité « est toujours au-dessous de ce que nous pensons « d'elle.</p>
+        <p>« Henry CÉARD. »</p>
+        <p>Céard écrit encore ce même jour :</p>
+        <p>« 18 août 1887, huit heures.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« clame que se taillent les cinq que vous savez. A « l'heure présente les journaux ne partiraient plus. « Mais tenez que le pétard a raté : le bon bout vous</p>
+        <p>« reste tout entier.</p>
+        <p>« Je vous embrasse tous deux.</p>
+        <p>« Henry CÉARD. »</p>
+        <p>Il s'explique plus complètement dans la lettre suivante datée du 21 août :</p>
+        <p>« Mon cher Zola, le bruit continue. Il y a encore « de grands articles dans les journaux de ce soir : La « Liberté, La France. Je vous les enverrai demain.</p>
+        <p>« Albert Dethez, dans Le Siècle, a très sainement « et très discrètement traité la question, je vais tâcher « de vous envoyer son article.</p>
+        <p>« Quelle singulière aventure, déconcertante même « par l'espèce de justice qui s'en dégage malgré tout.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« Je vous remercie, mon bon ami, de tout ce que « vous m'écrivez, et je suis un peu honteux et tout « fier du cas que vous voulez faire de votre bien dévoué.</p>
+        <p>« Henry CÉARD. »</p>
+        <p>J. K. Huysmans se manifeste de son côté. I/original de la lettre que nous avons sous les yeux ne porte aucune date, mais on peut présumer qu'elle a été écrite le 19 ou le 20 août :</p>
+        <p>« Mon cher ami, j'aurais bien voulu vous écrire, « en vous envoyant au moins des renseignements sur « la source du solennel et remarquablement niais « manifeste du Figaro. Mais je ne suis pas allé chez « Goncourt depuis son retour de Champrosay, et c'est « en somme la seule maison où l'on puisse s'informer « des cancans et des potins.</p>
+        <p>« lancé l'affaire.</p>
+        <p>« fondant.</p>
+        <p>« Au reste, ces braves gens ne semblent pas se « douter qu'ils. renouvellent les vieux griefs criés dç*</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« puis des ans par les Sarcey et par les Scholl. Ils re« commencent la stupidité de la discussion sur les « sujets, sur les mots ; car, en somme, c'est ça, c'est « le pet et le mot merde qui les offusquent !</p>
+        <p>« J. K. HUYSMANS. »</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« Je ne sais, écrivait Francisque Sarcey dans le</p>
+        <p>Petit Marseillais du 23 août, mais il me semble que dans cette affaire, ce ne sont pas les schismatiques qui tiennent le bon bout » ; dans la République fran-</p>
+        <p>« Peut-être serait-il plus délicat, lorsqu'en sa jeu« nesse on a librement choisi pour maître un écrivain</p>
+        <p>« qui est certainement un écrivain du premier ordre,</p>
+        <p>« oui, je crois qu'il serait plus délicat de ne pas se</p>
+        <p>22 Août 87.</p>
+        <p>« Veuillez recevoir, cher Maître, l'hommage de ma respectueuse admiration.</p>
+        <p>« A. ANTOINE. »</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« tourner ensuite vers lui pour lui crier sur la place « publique : « Vieux ramolli ! Espèce d'érotomane ! » « et autres aménités de ce genre. Il y a des façons « plus discrètes de se séparer des gens que l'on a aimés, « surtout quand ces gens occupent la situation « qu'Emile Zola a conquise par un travail acharné. » C'est encore au même Bonnetain, qui devait être la principale victime de l'aventure, que s'attaquait Edmond Lepelletier dans un article intitulé Chariot s'ennuie 1 :</p>
+        <p>« Charlot devenu sérieux et moraliste va sans doute</p>
+        <p>« écrire une tragédie en cinq actes en vers, pour la « Comédie Française ; sujet indiqué : Artaxercès« Longue-main. Admirons cette conversion d'un bon « jeune homme qui a confondu longtemps la Muse « avec la veuve Poignet. »</p>
+        <p>« Vous avez fait là, mes garçons, une vilaine be« sogne qui se retournera contre vous-mêmes, vous « avez oublié que le peu que vous êtes, vous le lui « devez : vous n'existez que par lui... Apprenez, mes « petits, que toute la littérature contemporaine a pris « son essor dans ses Rougon-Macquart.</p>
+        <p>L'assourdissant charivari déchaîné par le « Manifeste » contre La Terre n'aurait pas été complet, si les chansonniers ne s'étaient mis de la partie. Bonsmots, couplets satiriques, rien n'y manque et c'est peut-être la verve de Jules Jouy, qui se trouve la mieux inspirée :</p>
+        <p>t. L'Ëcho de Paris, 25 août 1887.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ZOLA DÉGOÛTE BONNEMAIN</p>
+        <p>Bonnemain, qui, quoi qu'on en dise, N'est pas crevé sous le haro, Asperge de sa marchandise</p>
+        <p>Les colonnes du Figaro.</p>
+        <p>Bayard du plaisir solitaire,</p>
+        <p>On pète par trop dans la Terre, Zola dégoûte Bonnemain.</p>
+        <p>De son œil oubliant la poutre, Quittant son amoureux chez lui,</p>
+        <p>Il s'élance, foutre de foutre,</p>
+        <p>Et fond sur la paille d'autrui. Aux regards de tous, il épanche</p>
+        <p>Sa bile, le long du chemin,</p>
+        <p>Le Maître branle dans le manche, Zola dégoûte Bonnemain.</p>
+        <p>Don Quichotte de l'onanisme, Drapé dans un méchant factum,</p>
+        <p>Il enfourche plein d'héroïsme,</p>
+        <p>Le bidet de Sarah Barnum.</p>
+        <p>Oui, l'auteur de Charlot s'amuse Sur sa joue ainsi qu'un carmin, Sent monter la Pudeur, sa muse 1 Zola dégoûte Bonnemain.</p>
+        <p>Voyons, Charlot, respect aux nôtres 1 Le plaisir rend l'homme si doux ! Ne faites pas ça sur les autres : Gardez vos saletés pour vous 1 Historien d'un vice immonde,</p>
+        <p>Un peu plus de respect humain ! Vrai, j'en rirai dans l'autre monde ! Zola dégoûte Bonnemain.</p>
+        <p>Jules Jouv.</p>
+        <p>Le Parti ouvrier, Août 1887.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Voici encore une chanson de Jules Jouy, sur l'air de la Légende de Saint-Nicolas, publiée au Cri du</p>
+        <p>Peuple et qui fut reproduite dans la République Fran-</p>
+        <p>çaise du 23 août 1887.</p>
+        <p>Dans un beau pays très loitain,</p>
+        <p>Où c'est la nuit quand c'est matin,</p>
+        <p>Partirent cinq frêles marmots Pour tuer les grands animaux.</p>
+        <p>Ils étaient cinq petits enfants Qui chassaient les gros éléphants.</p>
+        <p>Un jour, n'en croyant pas leurs yeux,</p>
+        <p>Ils en aperçurent un vieux.</p>
+        <p>Sur la plaine il était si grand Qu'il masquait le soleil levant.</p>
+        <p>Ils étaient cinq petits enfants Qui chassaient les gros éléphants.</p>
+        <p>Afin de lui faire du mal</p>
+        <p>Ils rampèrent vers l'animal ;</p>
+        <p>Puis s'assirent sur leur séant,</p>
+        <p>Autour de l'énorme géant.</p>
+        <p>Ils étaient cinq petits enfants Qui chassaient les gros éléphants.</p>
+        <p>Ils avaient pris sur les chemins Des cailloux, trop lourds pour leurs mains Qu'ils jetèrent, le jour durant,</p>
+        <p>Sur le colosse indifférent.</p>
+        <p>Ils étaient cinq petits enfants Qui chassaient les gros éléphants.</p>
+        <p>Voyant qu'il ne se bougeait point,</p>
+        <p>Les gosses, lui montrant le poing,</p>
+        <p>Afin d'achever son trépas.</p>
+        <p>Ils étaient cinq petits enfants Qui chassaient les gros éléphants.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Tous les cinq, l'un l'autre aidant,</p>
+        <p>A grand peine, sans accident,</p>
+        <p>Pour prendre leur gibier trop gros,</p>
+        <p>Ils lui montèrent sur le dos.</p>
+        <p>Ils étaient cinq petits enfants</p>
+        <p>Qui chassaient les gros éléphants.</p>
+        <p>Soudain, le géant remua ;</p>
+        <p>Chaque petit enfant tomba ;</p>
+        <p>Et le colosse était si grand</p>
+        <p>Qu'ils se tuèrent en tombant.</p>
+        <p>L'éléphant mange, sans remords ;</p>
+        <p>Et les petits enfants sont morts.</p>
+        <p>Et pour terminer, cet intermède de Grosclaude qui passait alors pour un de nos plus spirituels boulevardiers, et qui rimait en ces termes dans le Gil Blas1 :</p>
+        <p>Rosny soit qui mal en pense !</p>
+        <p>Foin des soucis les plus graves,</p>
+        <p>Buvons tout le vin Descaves ?!</p>
+        <p>Margueritte,</p>
+        <p>Vite, Vite,</p>
+        <p>Margueritte, Guiche-me-quick !</p>
+        <p>Miousic !</p>
+        <p>Miousic !</p>
+        <p>Et tin, tin, tin,</p>
+        <p>Paul Bonnetain !</p>
+        <p>Et tin, tin, tin,</p>
+        <p>Vive le jus divin !</p>
+        <p>Nos pères s'égayaient facilement, en 1887.</p>
+        <p>1. 23 août 1887.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Quant au maître de Médan, on pense bien qu'il était renseigné, mais, plutôt que de reconnaître une défaillance chez des amis et des écrivains qu'il admirait, il préféra feindre l'ignorance.</p>
+        <p>« Mais, jamais, mon cher Daudet, je n'ai cru que</p>
+        <p>« vous aviez eu connaissance de l'extraordinaire ma-</p>
+        <p>« nifeste des Cinq. Mon premier cri a été que ni vous « ni Goncourt ne saviez rien de la grande affaire...Le « stupéfiant, c'est que de victime vous m'avez fait « coupable, et qu'au lieu de m'envoyer une poignée</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« de main, vous avez failli rompre avec moi. Avouez « que cela dépassait la mesure... »</p>
+        <p>Que reste-t-il aujourd'hui du « manifeste des cinq ? » Ce flot d'encre, désormais séché, n'aura peut-être pour résultat que de sauver de l'oubli le nom de Bonnetain. Les autres collaborateurs de cette protestation historique, dont quelques-uns ont acquis, depuis, par leurs œuvres, un renom glorieux dans les Lettres françaises, se sont tous repentis de ce qu'ils considéraient comme une faute de jeunesse.</p>
+        <p>En 1921, J. H. Rosny, dans son livre de souvenirs, Torches et Lumignons (chapitre VI, page 222) exprimait en ces termes son regret :</p>
+        <p>« Maître... »</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le 25 juin 1924, l'Intransigeant publiait les lignes suivantes qui constituent le mea culpa de Gustave</p>
+        <p>Guiches :</p>
+        <p>« Un jour, quatre de mes amis et moi, nous nous « sommes conduits à l'égard de Zola en enfants pro« digues. Nous avons secoué le joug paternel et nous « sommes partis en faisant claquer notre fouet de « postillons émancipés.</p>
+        <p>« Quelle imprudence de notre part ! Pouvions-nous « mieux reconnaître que nous étions les disciples de « Zola qu'en le reniant ! Quoi qu'il en soit, l'un après « l'autre, avec la fierté d'un repentir sincère, nous lui</p>
+        <p>« sommes revenus.</p>
+        <p>« Pourquoi pas tous ensemble !</p>
+        <p>« fois le veau gras.</p>
+        <p>« Ce qui vient du cœur ne se concerte pas.</p>
+        <p>« Je puis bien dire aujourd'hui que nous fûmes un « peu surpris du renfort qui vint d'Anatole France. « Nous en avions besoin, car la presse en général nous « donna les étrivières. Mais enfin, Anatole France était « plus loin de nous que Zola... L'auteur du Crime de « Sylvestre Bonnard néanmoins écrivit : « Le 9 thermi« dor qui renversa la tyrannie de M. Zola fut l'œuvre « des Cinq. La terreur naturaliste était vaincue. »</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« Il allait un peu fort, le bon Maître. Il écrasait nos</p>
+        <p>« cinq doigts entre l'enclume et le marteau.</p>
+        <p>« Mais, le moment venu de racheter sa diatribe, « Anatole France lui-même trouva mieux que nous « le mot expiateur en faisant honneur à Zola d'avoir</p>
+        <p>« été « un moment de la conscience humaine. »</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>CHAPITRE VII</p>
+        <p>SUITE DE LA BATAILLE DE La Terre. — 1/ARTICLE D'ANATOLE FRANCE. — SON ATTITUDE ET SON JUGEMENT CONFORMES AUX SENTIMENTS QU'IL PROFESSAIT A CETTE ÉPOQUE. — LES REMORDS DU BON MAITRE. — SES REVIREMENTS SUR LE PLAN LITTÉRAIRE ANNONCENT ET LÉGITIMENT SON ORAISON FUNÈBRE D'EMILE ZOLA.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Adrien Hébrard l'avait un jour appelé un « bénédictin narquois ». Il avait beaucoup, en effet, d'un moine épicurien, mais cet épicurien demeurait respectueux de la morale établie, cet incrédule s'inclinait devant les formes de la dévotion. L'ancien élève de Stanislas, qui collaborait au journal catholique, L'Univers illustré, n'était pas loin d'être ce qu'on appelle politiquement un « conservateur)), défendant « la liberté des âmes et la paix des coeurs », condamnant l'œuvre de laïcisation, méprisant les infirmières laïques et tournant en dérision 1 « les gardes-malades, les portières et les demoiselles de magasin dont on faisait des desservantes des hôpitaux. »</p>
+        <p>i. L'Univers, 4 août 1885.</p>
+        <p>2. lbid., 17 décembre 1885.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>chez Durand autour du général Boulanger pour lui passer son pardessus 1 ».</p>
+        <p>i. Charles Braibant : « Le Secret d'Anatole France » (p. 89). Pour achever le portrait psychologique d'Anatole France, au moment de</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Peut-on dire que ce fut un tel état d'esprit qui inspira l'article sur La Terre ?... Il faut toujours se méfier d'invoquer le temporel ou la politique, lorsqu'il s'agit des ouvrages de l'intelligence. Mais on semble être tombé d'accord pour voir en ce morceau de rhétorique indignée, l'expression d'un conformisme élégant et raffiné dont le critique du Temps était alors l'interprète.</p>
+        <p>L'article d'Anatole France a été réuni plus tard dans La Vie littéraire. Sa conclusion que nous donnons ici en résume non seulement le sens général, mais aussi le ton et la malignité :</p>
+        <p>« Que M. Emile Zola ait eu jadis, je ne dis pas un « grand talent, mais un gros talent, il se peut qu'il en « reste encore quelques lambeaux, cela est croyable, « mais j'avoue que j'ai toutes les peines du monde à</p>
+        <p>« en convenir. Son œuvre est mauvaise et il est de ces</p>
+        <p>« malheureux dont on peut dire qu'il vaudrait mieux « qu'ils ne fussent pas nés.</p>
+        <p>« Certes, je ne lui nierai point sa détestable gloire.</p>
+        <p>« Personne avant lui n'avait élevé un si haut tas</p>
+        <p>
+          <pb/>
+        </p>
+        <p>On sait que, par la suite, Anatole France se sentit contrit d'avoir un jour oublié que les meilleurs jugements sont ceux qui sont tempérés par le scep-</p>
+        <p>i. Le Temps, 28 août 1887.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>1. Anatole France : Vers les Temps meilleurs, p. 64.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Sa critique de l'Argent qui parut l'année suivante montre que les anciennes fureurs du critique du Temps sont définitivement éteintes : « C'est une œuvre forte, didactique, encyclopédique et d'un grand sens. » C'est alors que paraît La Débâcle, et il devient enthousiaste ; il commence par déclarer que le livre soutient la comparaison qu'on en a faite avec la Guerre et la</p>
+        <p>Paix de Tolstoï et avec le célèbre récit de Waterloo dans la Chartreuse de Parme, il vante « le sens épique, l'intelligence » de son auteur, il admire « cette action immense, terrible, lugubre et magnifique ».</p>
+        <p>
+          <pb/>
+        </p>
+        <p>solennelle harangue, en face de la postérité qui en conservera le souvenir, il a le sens de sa responsabilité, de la gravité de sa tâche :</p>
+        <p>« Ne le plaignons pas d'avoir enduré et souffert. « Envions-le. Dressée sur le plus prodigieux amas « d'outrages que la sottise, l'ignorance et la méchan« ceté aient jamais élevé, sa gloire atteint une hau« teur inaccessible. Envions-le, il a honoré sa patrie « et le monde par une:œuvre immense et par un grand « acte. Envions-le, sa destinée et son cœur lui firent</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« le sort le plus grand : Il fut un moment de la cons-</p>
+        <p>« cience humaine. »</p>
+        <p>Si nous nous plaçons sur le plan héroïque, ou même strictement humain, existe-t-il quelque chose de plus pathétique, de plus profondément émouvant que cette suprême abjuration d'Anatole France ?</p>
+        <p>
+          <pb/>
+        </p>
+        <p>CHAPITRE VIII</p>
+        <p>UNE PALINODIE D'OCTAVE MIRBEAU. — FERDINAND BRUNETIÈRE CONDAMNE LA « DÉTESTABLE RHAPSODIE DE M. ZOLA ». — IYE PERSONNAGE DE « JÉSUSCHRIST », QUI FAIT SCANDALE, SATISFAIT UN « GOUT NATUREL A LA RACE » ET AMUSE LA GALERIE. — I^A VIE SEXUELLE DANS La Terre ET LE PANTHÉISME D'EMILE ZOLA.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Ce revirement, Ferdinand Brunetière 2, lui-même, semblait le redouter, lorsqu'il accablait de son argument massif, s'appesantissant en longues pages compactes de la Revue des Deux-Mondes, la « détestable rhapsodie de M. Zola ». Le volume n'avait toujours pas paru (il ne devait sortir que le 10 décembre 1881), mais l'occasion lui paraissait trop belle de proclamer la « banqueroute du Naturalisme ». Il dénonçait en termes dont il avait usé déjà, maintes et maintes fois, les mêmes défauts que dans Germinal, dans Nana, dans L'Assommoir. « Combien se déchaînent contre</p>
+        <p>La Terre, constatait-il, qui, hier encore, admiraient</p>
+        <p>« Manger, boire et le reste, il ne se passe guère autre chose dans les quatre-vingt-quinze feuilletons que</p>
+        <p>1. Octave Mirbeau : Le Paysan. (Le Gaulois, 21 septembre 1887).</p>
+        <p>2. Ferdinand Brunetière : (La Revue des Deux-Mondes, iar septembre 1887).</p>
+        <p>
+          <pb/>
+        </p>
+        <p>i. Figaro illustré : décembre 1887.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Mais il y a surtout dans La Terre un grand leitmotiv qui emplit les pages et qui les soulève. Cela rappelle cette sorte de tempête panique qu'avait ressentie</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>« Nous avons cent morts célèbres en littérature.</p>
+        <p>« dans la littérature 1. »</p>
+        <p>Sur ce point-là, il n'est pas douteux qu'Emile Zola, depuis longtemps, a gagné son procès. On reconnaît, désormais, qu'en abordant dans ses œuvres, avec une si libre franchise, et pour la première fois,</p>
+        <p>i. La Terre et Emile Zola, interview avec Emile Zola, Le Figaro</p>
+        <p>16 novembre 1887. v</p>
+        <p>
+          <pb/>
+        </p>
+        <p>En 1911, Camille Lemonnier, le célèbre écrivain belge qui présidait, cette année-là, le pèlerinage de Médan, ne faisait-il pas allusion aux polémiques éteintes de la Terre, lorsqu'en ces termes, il formulait :</p>
+        <p>« suscite terrible comme dans la Bible et le drame</p>
+        <p>1. Georges Duhame. : Introduction au roman familier, Conferencia,</p>
+        <p>15 novembre 1936.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>CHAPITRE IX</p>
+        <p>UN ARBITRAGE DE FRANCISQUE SARCEY SUR LA VÉRACITÉ DES « PAYSANS DE LA BEAUCE ». — LE VOCABULAIRE DE La Terre. LES PAYSANS DE BALZAC COMPARÉS A CEUX DE ZOLA. A QUI DES DEUX GRANDS ROMANCIERS DU XIXE SIÈCLE PEUT-ON REPROCHER D'AVOIR CALOMNIÉ LE TRAVAILLEUR DES CHAMPS ? — LA « PSYCHOLOGIE » DANS LES « ROUGON-MACQUART ».</p>
+        <p>Dans sa réponse, le prudent et malicieux Sarcey commençait par prendre quelques précautions oratoires. « Il n'était pas de ces gens, déclarait-il, qui</p>
+        <p>i. La France, 3 décembre 1887.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>s'en vont criant partout que Zola est un homme fini ». Il reconnaissait que « son ouvrage était construit d'une main très robuste » et il admirait « la grandeur shakespearienne qu'atteint, parfois, le personnage du vieux Fouan », mais son avis, comme toutes les sentences d'arbitrage, resta très mitigé. On y sentait surtout le désir de ne se point compromettre et l'euphémisme y était pratiqué de main de maître. Les paysans qu'il avait connus dans son enfance « étaient très regardants ». « C'est un mot du pays, expliquait-il, qui dit moins qu'avares et qu'âpres au gain, qui marque seulement une méticuleuse attention sur l'argent qu'on donne. Sur ce point</p>
+        <p>M. Zola a bien vu et nos souvenirs concordent ». Mais pour le reste, les deux hommes n'étaient plus d'accord. Les fermiers formaient en Beauce une aristocratie. Sarcey affirmait que « tous ces fermiers étaient instruits, parlaient un français excellent où se mêlaient naturellement quelques expressions de terroir, qu'ils avaient des mœurs honnêtes, le langage décent et que c'étaient des gens comme il faut ».</p>
+        <p>Ici, la confusion est visible : les fermiers riches et instruits qu'avait connus Francisque Sarcey ne présentaient aucune similitude avec les Fouan, ni avec les paysans décrits dans La Terre, lesquels sont de petits possédants, cultivant misérablement leurs maigres terres et qu'on appelle, dans le langage du crû, des « haricotiers ». Les fermiers de Sarcey « qui formaient une aristocratie » semblent plutôt de la même famille que Hourdequin, personnage en qui le romancier a voulu incarner le grand cultivateur. Or, celui-ci, orgueilleux, autoritaire, distant envers tous, malgré ses amours ancillaires, ne cesse jamais d'avoir l'allure décente d'un « monsieur ». Enfin, Zola aurait pu rétorquer que, en 1867, ce prolétariat de la glèbe qui composait la plupart des habitants</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« Vous avez attendu jusqu'au 7S6 feuilleton de La Terre pour accoucher de « cul terreux » qui est un mot bien beauceron, mais qui se prononce cultâreux et qui ne s'emploie pas entre paysans.</p>
+        <p>« Une autre locution que j'attends toujours et qui est si usitée en Beauce qu'elle ne choque plus personne, c'est, j'ai faim de chier. On dit également j'ai faim de dormir, pour j'ai envie, un besoin. Depuis plus de 50 ans, les Conscrits Beaucerons au régiment sont appelés les « Faim de chier. »</p>
+        <p>M. S. Bibl. nat., N° 10329, Feuillet 308.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>santes. C'est ainsi qu'Emile Zola savait toujours concilier les exigences du réalisme avec les soucis supérieurs de l'art.</p>
+        <p>Parce que, dans La Bête humaine, le sous-chef de</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Chez nous, avant Zola, on ne compte guère que Balzac qui ait étudié d'une manière sérieuse la psychologie paysanne ; et il faut convenir que l'illustre auteur de la Comédie Humaine s'est montré pour le peuple des campagnes d'une sévérité parfois cruelle. Dans plusieurs livres de Balzac, l'homme de la terre apparaît incidemment, comme le Médecin de Campagne ou Le Curé de Village, mais c'est dans les Paysans qu'il tient le premier rôle.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ronnante. Et quel portrait va nous faire de cette race paysanne, Honoré de Balzac, adversaire du code civil, partisan du droit d'aînesse et défenseur de l'ancien régime ?</p>
+        <p>Dans sa préface, il dénonce « la conspiration permanente de ce que nous appelons encore les faibles contre les forts, du paysan contre le riche », et il se propose de nous dépeindre le paysan qui rend le code inapplicable, « cet infatigable sapeur, ce rongeur qui morcelle et divise le sol », élément insocial créé par la Révolution « qui absorbera quelque jour la « bourgeoisie comme la bourgeoisie a dévoré la noblesse ».</p>
+        <p>D'après Balzac, les paysans dans leur vie domestique se laissent aller à leurs passions, les enfants sont pour eux des capitaux et l'intérêt est leur seul mobile. « Ils n'ont en fait de mœurs aucune délicatesse... » L'homme absolument probe et moral est dans leur classe une exception. « Ils ne se demandent pas si une action est légale ou immorale », mais si elle est profitable et leur existence les rapproche de l'état sauvage.</p>
+        <p>Au temps où parut La Terre, les adversaires de Zola</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>la terre en femme qu'on tue et pour qui on assassine. »</p>
+        <p>Ce qu'a négligé de voir Balzac et ce qu'a senti Zola, c'est l'état d'anxiété, de perpétuelle angoisse,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le paysan reste hanté par la peur de maladies inconnues, de lèpres mystérieuses qui déciment le bétail, qui tuent les plantes et détruisent les récoltes.</p>
+        <p>De cette compression, de cette timidité sauvage naît la violence de ces instincts, dont l'auteur de La Terre nous a tracé la puissante et inégalable peinture.</p>
+        <p>Lors de la publication de ce livre, quand on lui reprochait d'avoir insisté sur « l'animalité humaine » de ses personnages, Emile Zola aurait pu rappeler</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« matière... »</p>
+        <p>i. Emile Zola : Œuvres Complètes. Correspondance, p. 684.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>CHAPITRE X</p>
+        <p>L'APAISEMENT SE PRODUIT DÈS LA PUBLICATION DU LIVRE. — L'OPINION DE STÉPHANE MALLARMÉ. — UNE ADAPTATION THÉATRALE DU ROMAN. — LA SURVIE DE La Terre.</p>
+        <p>« Si La Terre n'a pas paru et ne paraîtra que le 15 novembre, c'est tout simplement que le volume n'est pas prêt. J'ai été pris de grandes paresses, j'ai traîné pour les corrections littéraires que j'ai l'habitude de faire sur les feuilletons et c'est ainsi que les épreuves sont restées sur ma table de travail.</p>
+        <p>« Je n'étais pas fâché d'autre part de laisser un peu de calme se faire, avant de lancer le volume. Jamais je n'ai eu l'idée d'écrire une préface. Mon livre se défendra tout seul et vaincra, s'il doit vaincre.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>J'en suis content, je crois qu'un retour d'opinion se produira en ma faveur.</p>
+        <p>«... Mais c'est effroyable le nombre d'articles qui a paru. Ah ! qu'ils sont bêtes ! Je suis bronzé, jamais je n'ai été aussi calme et aussi gai que pendant cette bagarre imbécile ».</p>
+        <p>« c'est tard que je vous le dis.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« Il ne me paraît pas que votre esprit si puissant « tout de suite et neuf ait été mieux au point, que</p>
+        <p>« dans ces dernières œuvres d'une maturité totale.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>contre l'apologie de l'instinct, cette conception physiologique de la vie sexuelle qui, naguère, suscitait l'étonnement ou l'indignation. Bien loin de discerner en des livres comme La Terre de l'amusement érotique ou de la spéculation grossière, ils y découvraient une innocente volonté de tout voir et de tout dire, la présence d'une poésie éparse d'où se dégageait une grandeur biblique.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Et Mendès de conclure : « Une œuvre telle que « La Terre n'est pas de celles que l'on puisse rétrécir « entre quatre portants ».</p>
+        <p>Gabriel Signoret avait fait de Buteau une des créations les plus originales de sa carrière et Antoine</p>
+        <p>i. Catulle Mendès : Le Journal, 22 janvier 1902.</p>
+        <p>2. André Antoine : Mes souvenirs sur l'Odéon et le Théâtre Antoine, p. 189 et suivantes.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>lui-même avait ressuscité d'une manière saisissante la figure du père Fouan. Le fondateur du Théâtre Libre avait toujours conservé pour le roman de Zola une prédilection particulière. C'est sous sa direction qu'un film muet fut tiré de La Terre en 1920; il contenait des tableaux magnifiques de la Beauce et fut projeté dans le monde entier avec un immense succès.</p>
+        <p>Dans la plaine au loin, les bâtiments rectangulaires des fermes émergeaient au-dessus des blés. Le paysage était toujours le même dans l'immuable nature et, tout de suite, dans le décor qui l'inspira, on se sentait envahi par l'atmosphère du livre. Les moindres scènes du roman renaissaient avec une intensité qui tient du sortilège. Rognes, le village imaginaire, recréé par le génie de l'artiste, demeurait si vivant qu'il se substituait au village réel.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ma curiosité fut quelque peu déçue et je dus me convaincre qu'après un demi-siècle il était pour ainsi dire impossible de rassembler des témoignages oraux, empreints de quelque authencité.</p>
+        <p>A Cloyes, un ancien maire de la ville se souvenait très bien de Zola avec qui il s'était entretenu plusieurs fois, mais, lorsqu'on lui demandait des précisions, cet excellent homme était obligé d'avouer les défaillances de sa mémoire.</p>
+        <p>Mais quelque chose importait surtout. N'était-il pas intéressant de connaître, sur les personnages</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Ainsi, par un phénomène mental qui ne laisse pas de paraître étrange, je retrouvais amalgamés par l'imagination populaire des souvenirs inspirés par le livre et des épisodes véridiques. Les héros romanesques sont devenus aussi familiers que des figures réelles ; on vous les nomme et on vous les désigne comme s'ils étaient vraiment des créatures vivantes que l'on peut rencontrer tous les jours.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>FIN</p>
+        <p>
+          <pb/>
+        </p>
+        <p>TABLE DES NOMS DE PERSONNES</p>
+        <p>CITES DANS L'OUVRAGE</p>
+        <p>A</p>
+        <p>ALEXIS (Paul), 12, 24, 25. ANTOINE (André), 71, m,</p>
+        <p>112.</p>
+        <p>ARÈNE (Emmanuel), 91.</p>
+        <p>B</p>
+        <p>BALZAC (H. de), 24, 34, 84, 98,</p>
+        <p>102, 105.</p>
+        <p>BANVILLE (Th. de), 110. BARRÉS (Maurice), 83. BAUDRILLARD, 21.</p>
+        <p>BAUER (Henry), 72. BILLAUD (Victor), 54. BLANQUI, 25.</p>
+        <p>BONNETAIN (Paul), 66, 69, 70,</p>
+        <p>77.</p>
+        <p>BRAIBANT (Charles), 84, 87. BROUSSE, 25.</p>
+        <p>BRUNETIÈRE, 93.</p>
+        <p>BUSNACH, 112.</p>
+        <p>C</p>
+        <p>CARIAS (Léon), 87.</p>
+        <p>CASSÉ (Elie), 22, 23.</p>
+        <p>CÉARD (Henry), 32, 62, 67, 68,</p>
+        <p>69, 70, 76.</p>
+        <p>CERNUSCHI, 54. CHAMPFLEURY, 110.</p>
+        <p>CHARCOT, 65.</p>
+        <p>CHARPENTIER (Georges), 54. COPPÉE (François), 83,</p>
+        <p>D</p>
+        <p>DAUDET (Alphonse), 67, 75,</p>
+        <p>102.</p>
+        <p>DEFFOUX (Léon), 63, 76, 84. DEROME (L.), 91.</p>
+        <p>DESCAVES (Lucien), 66, 75,</p>
+        <p>78.</p>
+        <p>DETHEZ (Albert), 68. DUHAMEL (Georges), 97. DUMAS (André), 40. DUMESNIL (René), 13. DURANTY, 110.</p>
+        <p>DURET (Théodore), 54.</p>
+        <p>F</p>
+        <p>FAURE (Sébastien), 83. FLAUBERT (Gustave), 83, 104. FRANCE (Anatole), 33, 79, 80,</p>
+        <p>81, 84, 85, 86, 87, 88, 89.</p>
+        <p>G</p>
+        <p>GAUTIER (Théophile), 31. GILLE (Philippe), 95, 96. GOIGNEAUX, 21.</p>
+        <p>GONCOURT (Edmond de), 67, 69,</p>
+        <p>75.</p>
+        <p>GROSCLAUDE, 75.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>H</p>
+        <p>HÉBRARD (Adrien), 83. HERRIOT (Ed.), 116. HERMANT (Abel), 84.</p>
+        <p>HUGO (Victor), 94.</p>
+        <p>HUGOT (Charles), 61, II2. HURET (Jules), 79. HUYSMANS, 62, 69, 70.</p>
+        <p>J</p>
+        <p>JAURÈS, 83.</p>
+        <p>JOUY (Jules), 72, 73, 74.</p>
+        <p>K</p>
+        <p>KAHN (Maurice), 87.</p>
+        <p>L</p>
+        <p>LAFARGUE, 25.</p>
+        <p>LAVERGNE (L. de), 21.</p>
+        <p>LE BLOND-ZOLA (Denise), 16. LEMAITRE (Jules), 107. LEMONNIER (Camille), 97. LEPELLETIER (Edmond), 72, 93. LUCRÈCE, II6.</p>
+        <p>M</p>
+        <p>MALLARMÉ, 108.</p>
+        <p>MANN (Heinrich), 116.</p>
+        <p>MANN (Thomas), 40. MARGUERITTE (Paul), 66, 75. MASSART, 25.</p>
+        <p>M ASSIS (Henri), 19. MAUPASSANT (Guy), 81. MENDÈS (Catulle), no, 111. MIRBEAU (Octave), 91. MOREAU (de Tours), 65.</p>
+        <p>ORSAT, 69.</p>
+        <p>P</p>
+        <p>PARFAIT (Noël), 30, 31, 32.</p>
+        <p>R</p>
+        <p>RANC (Arthur), 85. REVILLON (Tony), 25. ROGAT (Albert), 91.</p>
+        <p>ROSNY (J. H.)~ 66,69,76,77.</p>
+        <p>" ROUSSEAU (J.-J.), 85.</p>
+        <p>RUBENS, 95.</p>
+        <p>S</p>
+        <p>SAINT-ARROMAN (Raoul)61, 112. SAINT-GEORGES DE BOUHÉLIER,</p>
+        <p>110.</p>
+        <p>SAND (MME), 84.</p>
+        <p>SANTEN KOLFF (Van), 20,41,1°8. SARCEY (Francisque), 70, 71,</p>
+        <p>98,100.,</p>
+        <p>SHAKESPEARE, 112.</p>
+        <p>SCHOLL (A.), 70.</p>
+        <p>SEILLIÈRE (Baron E.), 15. SIGNORET (G.), 112.</p>
+        <p>SOLARI (Emile), 38. SOUDAY (P.), 94.</p>
+        <p>STENDHAL, 24.</p>
+        <p>T</p>
+        <p>THYÉBAUT (G.), 23, 67. TOLSTOÏ, 88, 102, 103,104. TOULOUSE (Dr), 16, 20.</p>
+        <p>V</p>
+        <p>VALADIER, 114.</p>
+        <p>VALLÈS (Jules), 24 VILLEROY (A.), 40.</p>
+        <p>W</p>
+        <p>WAGNER (Richard), 40.</p>
+        <p>Z</p>
+        <p>ZAY (J.), 55, 59.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>BIBLIOGRAPHIE SOMMAIRE</p>
+        <p>TOULOUSE (Dr Edouard). — Enquête Médico-Psychologique sur les rapports de la supériorité intellectuelle avec la Névropathie. I. Emile Zola (Paris, Société d'éditions scientifiques, 1896).</p>
+        <p>LEPELLETIER (Edmond).— Emile Zola, sa vie, son œuvre (Paris, Mercure de France, 1908).</p>
+        <p>WITKOWSKI (G.). — Les Accouchements dans les Beaux-Arts, dans la</p>
+        <p>Littérature et au Théâtre (Paris, Masson, 1894).</p>
+        <p>Louis (PAUL). — Les Types sociaux chez Balzac et Zola (Paris, Le</p>
+        <p>Monde Moderne, 1925).</p>
+        <p>PAJOT. — Le Paysan dans la Littérature française (Paris, Société d'Editions littéraires, 1896. )</p>
+        <p>(La Haye, 1923).</p>
+        <p>RAMOND (J. C.). — Les Personnages des Rougon-Macquart (Paris,</p>
+        <p>Fasquelle, 1901).</p>
+        <p>HURET (Jules). — Enquête sur l'Evolution littéraire (Paris, Charpentier, 1891).</p>
+        <p>DEFFOUX (Léon). — Le Naturalisme (Paris, Les œuvres représentatives, 1929).</p>
+        <p>KAHN (Maurice). — Anatole France et Zola (Paris, Lemarget, 1927). BRAIBANT (Charles). — Le Secret d'Anatole France (Paris, Denoël et</p>
+        <p>Steele, 1936).</p>
+        <p>LE BLOND-ZOLA (Denise). — Emile Zola raconté par sa fille (Paris,</p>
+        <p>Fasquelle, 1931).</p>
+        <p>ANTOINE (André). — Mes Souvenirs sur le Théâtre Antoine et sur l'Odéon (Paris, Les œuvres représentatives, 1930).</p>
+        <p>BATILLIAT (Marcel). — Maîtres des Littératures. Emile Zola (Editions Rieder, 1931).</p>
+        <p>MALLARMÉ (Stéphane). — Dix-neuf lettres de Stéphane Mallarmé à</p>
+        <p>Emile Zola avec une introduction de Léon Deffoux et un commentaire de Jean Royère (Paris, Jacques Bernard, « La Centaine », 1929). ,</p>
+        <p>XAU (Fernand). — Emile Zola (Paris, Marpon et Flammarion,</p>
+        <p>880).</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>TABLE DES MATIÈRES</p>
+        <p>CHAPITRE I</p>
+        <p>A quand remonte la conception de La Terre ? — Médan, commune rurale. — Zola, conseiller municipal. — Le choix de la Beauce et les origines maternelles de l'écrivain. La Terre dans la série des Rougon-Macquart 11</p>
+        <p>CHAPITRE II</p>
+        <p>La méthode de travail du grand romancier. — La documentation livresque. — Les témoins et les informateurs. — Le socialisme agraire et Jules Guesde 19</p>
+        <p>CHAPITRE III</p>
+        <p>Le voyage en Beauce. — La recherche du décor. Chartres, Romilly-sur-Aigre, Cloyes, Châteaudun. — Comment Zola reconstruit le village de Rognes. — Les fermes et les marchés. — Le grand motif symphonique de La Terre 30</p>
+        <p>CHAPITRE IV</p>
+        <p>L'utilisation des matériaux. — L'Ebauche. — La « terre », héroïne de l'œuvre. — Les personnages principaux et secondaires. Leur état-civil et leur rôle. — Prédispositions physiques et mentales. — Apport dans l'épopée d'un élément comique. Concordance des travaux, des amours et des saisons 41</p>
+        <p>CHAPITRE V</p>
+        <p>Les étranges coïncidences d'un procès authentique avec certaines péripéties du roman. L'affaire Lebon. — En cours d'exécution, l'écrivain modifie son dénouement. — Les deux « morts » du père Fouan ......................... 54</p>
+        <p>
+          <pb/>
+        </p>
+        <p>CHAPITRE VI</p>
+        <p>Avant même que l'ouvrage soit terminé, commence la ba-</p>
+        <p>taille de La Terre.— Le « Manifeste des cinq » et ses dessous.</p>
+        <p>— Des lettres de Céard et d'Huysmans. — L'attitude réservée et hostile de la presse. — Brocards et couplets. —</p>
+        <p>Le maître de Médan refuse d'intervenir dans la polémique.. 62</p>
+        <p>CHAPITRE VII</p>
+        <p>Suite de la Bataille de La Terre.—L'article d'Anatole France.</p>
+        <p>— Son attitude et son jugement conformes aux sentiments</p>
+        <p>et légitiment son oraison funèbre d'Emile Zola 81</p>
+        <p>CHAPITRE VIII</p>
+        <p>Une palinodie d'Octave Mirbeau. — Ferdinand Brunetière condamne la « détestable rhapsodie de M. Zola ». Le personnage de « Jésus-Christ », qui fait scandale, satisfait un</p>
+        <p>CHAPITRE IX</p>
+        <p>Un arbitrage de Francisque Sarcey sur la véracité des « Pay-</p>
+        <p>CHAPITRE X</p>
+        <p>L'apaisement se produit dès la publication du livre. — L'opi-</p>
+        <p>nion de Stéphane Mallarmé. — Une adaptation théâtrale du roman. — La survie de La Terre 108</p>
+        <p>Bibliographie sommaire 117</p>
+        <p>Table des noms de personnes cités dans l'ouvrage ......... 119</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Saint-Amand (Cher). — Imprimerie R. BussiÈRE.— 29-6-1937.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>ÉjHHÉk €o!W.tk&gt;j: u r ti K SPiv' "'IVJ&amp;</p>
+        <p>:,.&amp; iJ; ■?■</p>
+        <p>. .......... r</p>
+        <p>ii.lli [ f 1 :, ... ... ,6 ..... V -,</p>
+        <p>Ail !&lt; ^ohifce</p>
+        <p>DR ROBERT TEUTSCH. — L'angoisse humaine... ..</p>
+        <p>— Le Féminisme ... i,5 » ARCy-HENNERY. — Destin du Cinéma Français 15 % ft/KÊIÊÊt Galerie d'Histoire Lit éraire</p>
+        <p>ANTOINE ALBALAT. — Trente ans de quartier 1; tin 12 Louis AURENCHE. - J.-J. Rousseau chez M. d, Mabiy .... 15 ; LÉON BOCQUET. — Les Destinées mauvaises ........ 12 ■&gt;</p>
+        <p>— La Commémoration des Mc ,'ts 12</p>
+        <p>SYLVAIN BONMARIAGE.— L'Amour et le Souve ,ir 12 *</p>
+        <p>— Les Tablettes d'Alcil 15</p>
+        <p>CHARLES CABANES. — Denys Papin G s MARIE DORMOY. — La vraie Marion de Lorme. j 5 » JEAN DRAULT. — DRUMONT, La France Ju</p>
+        <p>Parole l,) y F AGUS. — Essai sur Shakespeare 12 » AMÉLIE FILLON. — François Mauriac ,. .... 18 * LYDIA FRAZER. — La Bretagne de Charles Le ( offic 15 « HÉLÈNE FUEJLICH. — Flaubert d'après sa corwspônd*</p>
+        <p>0 — 4», Les Amants de Mantes U » YVES GANDON. — Imageries critiques " LÉOPOLD LAC OUR. — Les maîtresses de Molière, ARMAND LE CORBEILLER. — Corneille intime ,... &lt; » RAYMONDE LEFÈVRE. — La Vie inquiète de Pi( rre J -</p>
+        <p>CLAI.M). V:; :. ! St /A'N \ —- .ii</p>
+        <p>AMJF T- S,I-OPAÉVI.IÎÂI- .• ':•! THlF' ■: -- A.;i * "RPVIRFC'</p>
+        <p>g uv:</p>
+        <p>Al</p>
+        <p>CkkVS -- -ii'iS Aï.. - i:;1- ■■■.■;■.. i .!.■• | i</p>
+        <p>En !': r i: JACQU;:S '!,-.;JVU. I/ilx )"VW,■■■;•■</p>
+        <p>Société Française d "Editi¡¡q,,;; ;.t.érair»:• &gt;m. 'ï-itàfàgp</p>
+        <p>
+          <pb/>
+        </p>
+        <p>~e</p>
+        <p>| BIBLIOTHÈQUE DU HÉRISSON ÎÈ-"Oo-l j| (Format 12x 19) a* il Luc Ai r.EROT, Le Mammouth bL-u.</p>
+        <p>™ æ — Les Chevaliers Teutcniques (1000 pages 50 Ir.). S " 9 WACLAW BIRP.WEWSKI L'Amour du Samouraï (lIi fr.). — L'Eua-iion H</p>
+        <p>9 (15 fr.).</p>
+        <p>æ A. AUGUSTIN-THIERRY Un Ménage d'Aventuriers — M"* d, Clénord. S æ PAUL-JEAN TOULET Behanziàvi,. - - S il THÊO VARLET Le Démon dans l'Ame —r Le dernier '-Satyre. S m — Auv Paradis du Hachiche — La belle Valence. æ 9 æ PAUL YNtEBOM Les Amants du Rempart. — Ttil". " æ</p>
+        <p>æ — Chutt le Hu.Ueu:t:. - Le Péché inconnu.</p>
+        <p>il H.-H. WELLS La dictature tit, Mr l'arham (15 ir.) (pnr fil 45 fr.) fi] 9 WILLY ET MIINAT£A L'Ersatz d'Amour. — Le Naufrage. æ EP FFL m s g Eieinp'airee ordinaires. 12 fr. ou 15 fr. Exemplaires sur pur fil. 30 fr. oa 4Ur. 9 ' 63 ; :.. ffl j SFFLFFLSSBEBSFFLFFISBFFLFFIIBSLIBSÉFBIBLÎOT H EQ U E NATION DE FRANÇE ^B9-^</p>
+      </div>
     </body>
   </text>
 </TEI>

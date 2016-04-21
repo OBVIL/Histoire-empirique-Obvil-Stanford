@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
- <teiHeader>
-<fileDesc>
-<titleStmt>
-<author key="Morellet, André (1727-1819)">André Morellet</author>
-<title>Quelques réflexions sur un article du "Journal de l'Empire" du 15 juillet 1806, par A. Morellet,...</title>
-</titleStmt>
-<editionStmt>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quelques réflexions sur un article du “Journal de l'Empire” du 15 juillet 1806, par A. Morellet,...</title>
+        <author key="Morellet, André (1727-1819)">André Morellet</author>
+      </titleStmt>
+      <editionStmt>
         <edition>OBVIL/BNF</edition>
         <respStmt>
           <resp>reprise des textes</resp>
           <name>Amélie Canu</name>
         </respStmt>
       </editionStmt>
-<publicationStmt>
+      <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
         <availability status="restricted">
@@ -22,461 +22,321 @@
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
-<sourceDesc>
-<bibl>
-<author>Morellet, André (1727-1819)</author>, <title>Quelques réflexions sur un article du "Journal de l'Empire" du 15 juillet 1806, par A. Morellet,...</title>, <date>1806</date>,description :,50 pages
-</bibl>
-<publisher>Xhrouet (Paris)</publisher>
-<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k5625263r</idno>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1806">1806</date>
-</creation>
-<langUsage>
-<language ident="fr"/>
-</langUsage>
-</profileDesc>
- </teiHeader>
+      <sourceDesc>
+        <bibl> <author>Morellet, André (1727-1819)</author>, <title>Quelques réflexions sur un article du "Journal de l'Empire" du 15 juillet 1806, par A. Morellet,...</title>, <date>1806</date>,description :,50 pages </bibl>
+        <publisher>Xhrouet (Paris)</publisher>
+        <idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k5625263r</idno>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1806">1806</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-    <div>
-<p><pb/></p>
-<p>QUELQUES RÉFLEXIONS</p>
-<p>SUR UN ARTICLE DU JOURNAL DE L'EMPIRE,</p>
-<p>DU i5 JUILLET 1806.</p>
-<p>PAR A. MORELLET.</p>
-<p>Negligere quid de se quisque sentiat non solùm arrogantis est sed etiam
-omninò dissoluti.</p>
-<p>A PARIS.</p>
-<p>Criez XHROUET, imprimeur, rue des Moineaux,</p>
-<p>n°. 16. DÉTERVILLE, libraire, rue du Éattoir, n°. 16. PETIT, libraire,
-Palais du Tribunal, galerie Virginie,</p>
-<p>n°.16.</p>
-<p>Août 1806.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>QUELQUES REFLEXIONS</p>
-<p>SUR UN ARTICLE DU JOURNAL DE L'EMPIRE,</p>
-<p>DU 15 JUILLET 1806.</p>
-<p>PAR A. MORELLET.</p>
-<p>UN homme de lettres octogénaire, l'un des quarante de l'ancienne
-Académie française ^ membre de l'Institut national et de la Légion
-d'Honneur, est attaqué dans la feuille du i5 juillet du journal appelé
-Journal de l'Empire ; de la manière suivante :</p>
-<p>A</p>
-<p><pb/></p>
-<p>(2)</p>
-<p>Vieillard insensé, ayant perdu toute espèce de bon sens, retombé en
-enfance, etc.».</p>
-<p>A ces injures grossières le journaliste ajoute des imputations plus
-graves, en déclarant « que » l'A. Morellet est un mauvais prêtre ,
-dégra» dant un caractère public et sacré, un de ces » prêtres apostats
-coupables des plus grands » excès de la révolution, un brouillon, un »
-perturbateur des lois et du gouvernement de » son pays ; armé de
-l'impudence d'un homme » qui depuis long-temps a étouffé le cris de sa »
-conscience, effronté menteur, insigne faus» saire ; entre lequel et les
-honnêtes gens il ne » peut y avoir rien de commun, malhonnête » homme ,
-il faut trancher le mot ; ayant mené » une vie méprisable et par-là
-mauvais juge en » matière d'honneur , ayant perdu toute espèce » de
-pudeur, etc. ».</p>
-<p>A quoi l'auteur ajoute «qu'en tout ce qu'il » vient de dire il n'a point
-chanté d'invectives , » qu'il a fourni des faits accablans, des preuves
-» sans réplique, qu'il a dit des vérités et point » d'injures ».</p>
-<p>En achevant de rassembler ce dégoûtant amas d'injures, je me suis
-représenté un étranger les lisant, soit dans le feuilleton du Journal de
-l'Empire, soit dans la citation que j'en fais ici.</p>
-<p><pb/></p>
-<p>Aâ</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>(5&gt;</p>
-<p>a pour maxime que ce n'est qu'un pèche véniel de calomnier et d'imposer
-de faux crimes pour ruiner de créance ceux qui parlent mal de nous ;
-mais cette maxime n'avoit point ici son application, puisque l'homme de
-lettres sur lequel le sieur Geoffroy s'est jeté avec tant de fureur, ne
-l'avoit point attaqué.</p>
-<p>Après ma déclaration envoyé au Publiciste, je pouvois croire que le
-sieur Geoffroy avertiroit lui-même ses lecteurs de l'erreur dans
-laquelle il étoit tombé et qu'il en montreroit quelque repentir.</p>
-<p>Lamothe, aveugle, se trouvant au spectacle dans une foule, avoit marché
-sur le pied d'un militaire ; celui-ci donne un soufflet au vieillard.
-Des cris d'indignation s'élèvent. Lamothe les calme en disant : Monsieur
-sera bien affligé lorsqu'il apprendra que je suis aveugle, et
-lemilitaire en effet se confondit en humbles excuses.</p>
-<p>A 3</p>
-<p><pb/></p>
-<p>(6) insulté n'est pas l'auteur de l'article du Publia ciste, il a dit :
-Eh bien ! je n' ai pas perdu mon. temps, c'est toujours un philosophe de
-calomnié.</p>
-<p>. Dans ce que je viens de transcrire du Journal de l'Empire, il est
-difficile de trouver une critique purement littéraire portant
-uniquenient sur mes ouvrages et dégagée de toute personnalité comme doit
-l'être toute critique.</p>
-<p>Je veux bien cependant appeler de ce nom et regarder non comme juste,
-mais comme matière convenable du feuilleton du Journal de l'Empire tout
-ce qu'on, y dit de moi dans la première partie de cette virulente
-déclamation.</p>
-<p>Ainsi je laisse dire au sieur Geoffroy,</p>
-<p>Que je suis un mauvais grammairien, un mauvais écrivain, quoiqu'on
-puisse révoquer eu doute la justice de cette sentence en lisant quelques
-uns de mes ouvrages et eu voyant mou nom inscrit, parmi ceux des membres
-de Fan-* cienne Académie française et se retrouvant dans la liste de la
-seconde classe de l'Institut;</p>
-<p>Que j'ai été bafoué des encyclopédistes mes confrères, quoique j'aie
-passé Uia vie avec eux et que j'aie reçu de tous des marques d'estime et
-d'amitié;</p>
-<p><pb/></p>
-<p>(7)</p>
-<p>Que j'ai été le bouffon et le valet de Voltaire, quoique cet homme
-célèbre parle de moi avec éloge en plusieurs endroits de sa
-correspondance qui est entre les mains de tout le monde ;</p>
-<p>Que j'ai adopté les rêveries des économistes , quoique ces rêveries ne
-soient rien autre chose que les principes de l'économie publique
-enseignés par beaucoup d'hommes éclairés depuis le milieu du dernier
-siècle;</p>
-<p>A4</p>
-<p><pb/></p>
-<p>(8)</p>
-<p>Mais ©n montrant au sieur Geoffroy une si grande indulgence, je me
-permettrai deux re; marques.</p>
-<p>Et veut-on voir quels sont les enseignemens de ce grand maître pour
-l'instruction des jeunes élèves de nos lycées, les progrès du goût et
-l'encouragement de la littérature française ? Voici quelques-unes de ses
-critiques :</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>(10)</p>
-<p>ration et sans mesure, doit être de détourner beaucoup de bons esprits
-dans toutes les classes de la société, de communiquer leurs lumières
-dans des ouvrages d'instruction, et de nous faire jouir des agrémens de
-leur esprit dans des ouvrages d'imagination.</p>
-<p>J'ai vu autrefois, dans beaucoup de journaux, un ton plus honnête,
-quelques égards, quelque mesure dans les critiques littéraires.
-Desfontaines et Fréron même se sont tenus bien</p>
-<p><pb/></p>
-<p>( 11 )</p>
-<p><pb/></p>
-<p>( 12)</p>
-<p>quoique beaucoup d'amis aient Voulu me dé» tourner de répondre.</p>
-<p>On m'a dit tout cela, mais on ne m'a pas persuadé.</p>
-<p>Assurément, je ne laisserai pas empoisonner les courts restes de ma vie
-par uu sentiment</p>
-<p><pb/></p>
-<p>(13)</p>
-<p>trop amer d'injures manifestement dictées par la violence de l'esprit de
-parti, et dont je suis défendu par l'opinion de tous ceux de qui j'ai
-l'honneur d'être connu ; mais je ne me pique pas non plus d'une apathie
-qui ne pourroit être en moi que l'effet d'une indifférence entière à
-l'opinion de mes semblables.</p>
-<p>Si la calomnie n'affligeoit pas celui qui en est l'objet, le crime du
-calomniateur ne seroit pas si grand. Le beau mot de Mathieu Môle, il y a
-loin du poignard d'un scélérat au coeur d'un honnête homme, peut être
-vrai au physique et au propre ; mais il ne l'est pas au moral et apr
-pliqué au poignard acéré de la calomnie.</p>
-<p><pb/></p>
-<p>Ma réponse pourra paroître tardive aux yeux de ceux qui ne désapprouvent
-pas que je i'éponde ; mais je puis expliquer ce délai.</p>
-<p><pb/></p>
-<p>(15)</p>
-<p>I. J'ai mené, selon M. Geoffroy, une -vie méprisable. La vie d'un homme
-de lettres est dans ses ouvrages et dans ses sociétés. Quels sont les
-travaux qui ont occupé ma vie, et dans quelle société ai-je vécu?</p>
-<p>Quant au premier article, dès les premiers pas que j'ai faits dans la
-carrière des lettres, et il y a plus de cinquante ans , j'ai porté mes
-études sur l'économie publique et sur toutes les questions relatives à
-l'organisation sociale, les droits sacrés de la propriété, l'importance
-de la culture, la simplification des impôts, la liberté du commerce dans
-toutes ses branches, celle de tous les genres d'industrie , la liberté
-civile, la liberté politique, la liberté de conscience, la liberté de la
-presse, etc.</p>
-<p>Or, en parcourant cette carrière, voici les occupations qui ont rempli
-ma vie.</p>
-<p>En 1761 , un Mémoire écrit sur l'invitation</p>
-<p><pb/></p>
-<p>( 16 ) de M. Trudaine , en faveur du transport des droits de douane aux
-frontières, mesure adoptée par le Gouvernement actuel.</p>
-<p>En 1769, deux Mémoires en faveur de la liberté du Commerce de l'Inde et
-contre la Compagnie privilégiée, dont un arrêt du conseil prononça alors
-la dissolution.</p>
-<p>Dans cette même année, un Prospectus d'un nouveau Dictionnaire de
-Commerce , où sont traités quelques points importans de la théorie du
-commerce.</p>
-<p>En</p>
-<p><pb/></p>
-<p>(17)</p>
-<p>En 1774, et les années suivantes, le travail du Dictionnaire de
-Commerce, que la révolution m'a forcé d'abandonner depuis, en me privant
-des secours que le Gouvernement me fournissoit, et dont les matériaux
-ont servi au Dictionnaire du Commerce, en 5 vol. in-4.° ., rédigé par M.
-Peuchet.</p>
-<p>En 1775, la Théorie du Paradoxe contre les extravagances de Linguet.</p>
-<p>En 1787, un nouveau Mémoire sur le Cornmerce de l'Inde , au nom de onze
-villes priaB</p>
-<p><pb/></p>
-<p>(18)</p>
-<p>cipales de commerce, pour réclamer la liberté qu'elles avoient perdue
-par l'établissement d'une compagnie créée par M. de'Calonne.</p>
-<p>Eu 1789 , Réflexions du lendemain contre la suppression des dîmes sans
-remplacemens, et Moyen de disposer utilement pour la nation des biens
-ecclésiastiques.</p>
-<p>En 1795 et 1796, la Cause des Pères et quatre autres Ecrits, dans
-lesquels j'ai com-</p>
-<p><pb/></p>
-<p>En 1798, les 9e. et 10e. livre de l'Histoire d'Amérique , ouvrage
-posthume de Robertson.</p>
-<p>En 17gg, la traduction de l'ouvrage anglais de Dallaway, intitulé :
-Constantinople ancienne et moderne, 2 vol. in-8°.</p>
-<p>Dans la même année , aux approches du 18 brumaire , Observation sur la
-loi des Otages, où j'attaque de front cette horrible mesure, qui nous
-annonçoit le retour de nos calamités, si le grand homme ne se fût trouvé
-, qui devoit raffermir les fondemens ébranlés de cet empire par de sages
-lois, dictées du sein des plus éclatantes victoires.</p>
-<p>En 1800 , la traduction du Voyage de Vancouver , ouvragé capital pour la
-navigation , exécuté conjointement avec M. Démeunier , aujourd'hui
-sénateur.</p>
-<p><pb/></p>
-<p>(20)</p>
-<p>titut, dans la seconde classe, j'y ai porté, j'ose le dire, un zèle dont
-mes confrères me rendent un honorable témoignage. Je m'y suis appliqué
-tout entier au travail du Dictionnaire. J'y ai rempli plus d'une fois
-les fonctions académiques aux yeux du public, qui m'a donné des marques
-flatteuses de quelque estime et de quelque bienveillance, que je puis
-regarder comme autant de réponses aux invectives du sieur Geoffroy.</p>
-<p><pb/></p>
-<p>(21 )</p>
-<p>La Défense de l'Académie française contre Champfort, les Critiques
-d'Atala et de Caleb , et de quelques ouvrages de grammaire, etc.</p>
-<p>B3</p>
-<p><pb/></p>
-<p>J'ai présenté comme un second moyen de juger ma vie les sociétés dans
-lesquelles j'ai vécu, et sur ce point le sieur Geoffroy me fait encore
-trop beau jeu.</p>
-<p>A mon entrée dans la carrière des lettres, c'est-à-dire, vers 1760 ,
-j'ai été accueilli par un homme d'état qui a laissé un des noms les plus
-respectés de notre ancienne magistrature , M. Trudaine, intendant des
-finances , dont les bontés sont devenues pour moi de l'amitié dans son
-fils et des égards dans ses petits-enfansVfcrs le même temps, j'ai reçu
-des encourage-</p>
-<p><pb/></p>
-<p>(23)</p>
-<p>mens et des instructions de M. de Gournay , intendant du commerce , et
-de M. de Malesheirbes, dans la société duquel j'ai été de bonne heure
-admis, ainsi que dans celle de M. de Fourqueux , intendant des finances,
-et dans celle de M. d'Invaux, contrôleur général, etc.</p>
-<p>J'ai eu pour compagnons d'études, et plusieurs d'entre eux pour amis, M.
-Turgot; M. de Brienne, mort archevêque de Sens; M. de Boisgelin, mort
-archevêque de Tours ; M. de Cicé, aujourd'hui archevêque d'Aix; le
-chevalier de Chastellux , etc.</p>
-<p>J'ai été reçu chez Mme. d'Enville, mère de l'estimable et malheureux la
-Rochefoucauld; chez Mme. la maréchale de Beau veau, chez madame de
-Boufflers, chez Mme. Geoffrin, chez M. Necker , chez Mme. d'Angiviller,
-chez mademoiselle l'Espinassc ; et toutes ces maisons sont connues en
-France et dans les pays étrangers pour avoir rassemblé la meilleure
-compagnie.</p>
-<p>Pour parler des hommes de lettres, j'ai connu et pratiqué, dès le milieu
-du siècle dernier, ceux qui se sont les premiers occupés en France, avec
-quelque distinction, de l'étude de l'économie publique ; M. de Forbouais
-, son parent Dangeuil , le respectable M. Abeille »,</p>
-<p>B4</p>
-<p><pb/></p>
-<p>(24)</p>
-<p>Je nommerai aussi parmi les hommes avec qui j'ai été lié, la plupart des
-gens de lettres distingués que 'j'ai eus pour contemporains , tels que
-Mairan, Clairaut, Buffon, d'Alembert, Diderot, J. J. Rousseau, Raynal,
-Condillac, d'Holbac, Duclos, Saint-Lambert, Helvétius , Wattelet,
-Brecquigny, Roux , Darcet, Saurin , Marmontel, Barthélémy, etc.</p>
-<p>Je sais que parmi les hommes que je viens de nommer il en est plusieurs
-que nos nouveaux zélateurs me feront un crime d'avoir connus , et,
-puisqu'il faut le dire, aimés. Le motif de ce jugement sera la liberté
-de penser de la plupart de ces hommes et leurs opinions extrêmes sur
-certains objets délicats.</p>
-<p><pb/></p>
-<p>(25)</p>
-<p>Us ne voient pas que c'est surtout dans une société de philosophes
-qu'est vrai l'axiome : Vingt têtes, vingt avis, tot capita, tot sensus.
-Qu'en aucun endroit peut-être on n'a combattu ces opinions plus
-fortement que dans les maisons dont le maître s'étoit creusé la tête
-toute la matinée pour les établir dans son cabinet.</p>
-<p>Mais leur grande erreur en ceci est de supposer que c'est avec le
-métaphysicien qu'on vit ; et c'est avec l'homme d'esprit, avec l'homme
-social et doux, avec l'homme riche en connoissances utiles. Et que
-m'importe la manière dont il pense sur une question abstraite de morale
-ou de métaphysique , sujet que nous n'entendons peut - être bien ni lui
-ni moi ; que m'importe, dis-je, si je trouve en lui tous les agrémens de
-l'esprit et tous les charmes de la société.</p>
-<p><pb/></p>
-<p>(26)</p>
-<p>Je conçois pourtant et j'explique l'erreur du sieur Geoffroy sur
-l'article que je traite ici. Homme de collège, absitinjuria verbo,
-fuyant peut-être en bon chrétien le monde corrompu j il n'a pas connu la
-bonne compagnie et a ignoré que depuis plus de cinquante ans j'y étois
-admis. Je ne me rappelle pas non plus de l'avoir jamais vu , ni même
-d'en avoir ouï parler avant ces derniers temps dans la société des gens
-de lettres au milieu desquels je vivois et qu'il n'a pas plus connus
-qu'il ne me connoît, quoiqu'il ait parlé de plusieurs d'entre eux en
-termes injurieux ; et c'est en ignorant parfaitement où et comment j'ai
-vécu, qu'il prononce que j'ai mené une vie méprisable.</p>
-<p><pb/></p>
-<p>(27) De quel nom peut-on appeler une si scandaleuse liberté ?</p>
-<p>Je crois avoir suffisamment repoussé la première injure du sieur Geoffroy.</p>
-<p>i°. Les hommes d'état que j'aurois fait mes dupes étoient MM. Trudaine ,
-d'Invaux , Turgot, Malesherbes, Necker, Fourqueux,Brienne, Cicé et
-autres personnages distingués par leurs lumières et leurs talens, que
-personne avant le sieur Geoffroy n'a regardé comme dupes.</p>
-<p>Je réponds en second lieu :</p>
-<p><pb/></p>
-<p>( 28 )</p>
-<p>titut, et ma classe m'a honoré de son choix; dans la formation d'une
-commission dont je suis le secrétaire, pour la confection du
-Dictionnaire de l' Académie,</p>
-<p>Enfin S. M. I. m'a décoré de L'étoile de la Légion d'Honneur.</p>
-<p>Le sieur Geoffroy voudra-t-il bien expliquer au public par quel artifice
-, après avoir attrapé des pensions et des grâces sous l'ancien régime,
-en mistifiant les hommes d'état d'alors,, j'en ai attrapé de nouvelles
-aujourd'hui.</p>
-<p><pb/></p>
-<p>( 29 ) de ceux par qui ont été commis les plus grands excès de la
-révolution.</p>
-<p><pb/></p>
-<p>(30)</p>
-<p>Mais dès que j'ai vu la licence du peuple et la foiblesse et
-l'incertitude de l'autorité amener des excès qu'on s'efforce vainement
-aujourd'hui de donner comme des suites et des couséquences nécessaires
-des idées libérales, dès que j'ai vu, dis-je, ces excès, je les ai
-combattus de toutes mes forces, et sitôt qu'il a été possible, non pas
-de parler et d'écrire sans danger, mais de parler et d'écrire, j'ai
-parlé et j'ai écrit.</p>
-<p><pb/></p>
-<p>(31)</p>
-<p>C'est-à-dire, que, comme Sosie sous la tente , avec sa bouteille et son
-jambon, il prenoit courage</p>
-<p>Pour nos gens qui se battoient.</p>
-<p>Et c'est ce personnage qui se donne le droit de donner ou de refuser des
-certificats de bonne conduite pendant les horreurs de la révolution !</p>
-<p><pb/></p>
-<p>(32)</p>
-<p>Il faut voir, dans le Feuilleton, comment le sieur Geoffroy triomphe
-d'avoir imaginé si heureusement de me qualifier de malhonnête homme,
-expression qu'il a employée en trois endroits différens. Oui, dit-il, un
-malhonnête homme ; il faut trancher le mot: le bon homme aura beau se
-débattre sous ce mot terrible , il faut qu'il le digère.</p>
-<p>Mais ce n'est pas assez pour le journaliste</p>
-<p>qu'une</p>
-<p><pb/></p>
-<p>( 33 ) qu'une grossièreté, il faut qu'il y ajoute une dénonciation dans
-le style révolutionnaire , en nie traduisant comme un mauvais citoyen,
-perturbateur des lois et du gouvernement de mon pays. Vil délateur! où?
-quand ? comment ai-je insulté aux lois ? Par quel acte me suis-je montré
-perturbateur du repos public et ennemi du gouvernement ? Articulez les
-faits, dites les lieux,, les temps où je nie suis rendu coupable ? Et si
-vous dites que ce n'est pas par des actions,, niais par des ouvrages.;,
-citez donc des écrits, dans lesquels j'aie insulté les lois et chercha à
-troubler la tranquillité .publique ? Que , si vous, ne,pouvez répondre
-un seul mot à, aucune desinterpellations que je vous fais, demeurez
-couvert de l'opprobre qui attend le calomniateur', confondu.</p>
-<p>Ma cause est désormais complètement insC</p>
-<p>insC</p>
-<p><pb/></p>
-<p>suam ipsi vitam narrare fiduciam potius morum Quam arroganliam arbitrait
-sunt. AGRIC.</p>
-<p>Je leur ferai observer aussi que les détails dans lesquels je suis entré
-ne sont que des faits que j'ai dû rappeler, puisqu'en repoussant des
-inpïres personnelles, on est bien obligé de parler de soi.</p>
-<p>J'espère enfin que l'ennui que j'aurai causé accroîtra chez mes lecteurs
-leur indignation contre l'homme absurde et injuste dont il a fallu</p>
-<p><pb/></p>
-<p>( 35 )</p>
-<p>démontrer si longuement l'injustice et l'absurdité.</p>
-<p>Biais qu'il me soit permis d'exposer ici avé» liberté une opinion
-différente.</p>
-<p><pb/></p>
-<p>(36)</p>
-<p>Outre le devoir imposé au gouvernement de défendre le citoyen de la
-calomnie et même de la diffamation, il doit s'efforcer de nourrir dans
-une nation le sentiment de l'honneur, sans lequel elle s'avilit, et le
-désir d'obtenir et de conserver l'estime et la considération de ses
-semblables, puissant motif d'éviter le crime et de pratiquer la vertu.</p>
-<p>Je ne crois pas qu'aucun homme raisonnable et ayant quelque sentiment du
-juste et de l'injuste , puisse penser qu'une telle manière d'insulter et
-de déchirer un citoyen puisse être tolérée en aucun pays policé .</p>
-<p><pb/></p>
-<p>(37)</p>
-<p>Cette opinion doit même être indépendante de la justice et de la vérité
-des imputations. Le particulier sans autorité qui traite ainsi dans un
-écrit public celui avec lequel il est en querelle, auroit beau avoir en
-main-des-preuves de la vérité de ses accusations, il n'en seroit pas
-moins digne de blâme et de peines sévères, par la raison que ce seroit
-de sa part s'arroger un pouvoir de juger et de condamner que la société
-politique ne lui a pas donné, qu'il est un usurpateur de l'autorité
-sociale confiée aux seuls magistrats établis juges des querelles entre
-les citoyens.</p>
-<p>Non, on ne peut voir sans effroi s'élever et se</p>
-<p>C3</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>(39) s'il est moins répandu, l'impression faite sur les esprits demeure.</p>
-<p>Enfin, on ne peut s'empêcher de voir le combat entre un écrivain
-périodique qui a une grande vogue et le citoyen insulté, comme celui
-d'un homme armé dé toutes pièces contre un homme sans arme ou mal armé;</p>
-<p>On vous dit aussi : Vous avez la voie des tribunaux ; rendez votre
-plainte ; On y fera droit.</p>
-<p><pb/></p>
-<p>( 40 )■</p>
-<p>N'y a-t-il done , dira-t-on, aucun moyen de concilier quelque liberté
-dans les journaux , moyen utile d'instruction publique, avec quelque
-sécurité des citoyens contre un guet-à-pens préparé par un journaliste.</p>
-<p>Oui, il y en a, et voici ceux que je prends la liberté de proposer :</p>
-<p><pb/></p>
-<p>( 41 ) un censeur bien impartial et distinct de celui du journal.</p>
-<p>Je dis insulté dans sa personne, parce que c'est contre ce genre
-d'injure que je veux qu'on fournisse des moyens de défense et non contre
-une critique, même déraisonnable et injuste, d'un ouvrage de littérature
-ou de philosophie.</p>
-<p>Si donc l'écrivain périodique s'étoit permis des injures personnelles ,
-on trouveroit son délit caractérisé et ses calomnies repoussées dans son
-propre journal.</p>
-<p>Si dix mille exemplaires de sa feuille avoient été les organes de sa
-mauvaise foi ou de son insolence, dix mille exemplaires de la réponse en
-détruiroient les effets et le livreroient luimême au mépris et à
-l'indignation publique, s'il avoit mérité Fun et l'autre.</p>
-<p>Je ne doute pas qu'en lisant ceci le journaliste</p>
-<p>Qui vit du mal qu'il fait et nuit sans être utile ,</p>
-<p><pb/></p>
-<p>Quant au Gouvernement, on ne petit lui contester le droit d'imposer au
-journaliste une.</p>
-<p><pb/></p>
-<p>(43)</p>
-<p>semblable condition, et il y en a une raison sensible.</p>
-<p><pb/></p>
-<p>( 44 ) merie et aux frais du Journal de l'Empire , en même papier et
-caractères, et en même nombre que le journal, et envoyé aux mêmes
-adresses, de quoi l'administration de la poste certifiera, dans la
-semaine, le ministre de la police générale.</p>
-<p><pb/></p>
-<p>(45)</p>
-<p>tu l'ignores , les signes de la colère Puis se</p>
-<p>tournant vers le fouetteur, qui avoit interrompu un moment l'exécution.
-Continuez, lui dit-il , faites votre besogne, pendant que celui-ci et
-moi nous disputons.</p>
-<p>Ma citation de Plutarque peut paroître hors</p>
-<p><pb/></p>
-<p>(46) de propos, en ce que je n'ai pas puni DaveGeoffroy de la peine
-qu'il a si bien méritée, et que je n'ai fait que mettre sous ses yeux
-l'indignité de sa conduite, mais je crois que ma modération même sera
-pour; lui un rude châtiment, en lui prouvant mieux que tout ce que je
-pour-, rois lui dire, le profond mépris que je fais de ses injures, par
-la tranquillité que je conserve; en les repoussant. ,</p>
-<p>F I N.</p>
-<p>ERRATUM.</p>
-<p>Page 11, ligne 8, lisez, Quinze mille souscriptions. en caractères
-romains au lieu d'italiques .</p>
-    </div>
+      <div>
+        <p>
+          <pb/>
+        </p>
+        <p>QUELQUES RÉFLEXIONS</p>
+        <p>SUR UN ARTICLE DU JOURNAL DE L'EMPIRE,</p>
+        <p>DU i5 JUILLET 1806.</p>
+        <p>PAR A. MORELLET.</p>
+        <p>Negligere quid de se quisque sentiat non solùm arrogantis est sed etiam omninò dissoluti.</p>
+        <p>A PARIS.</p>
+        <p>Criez XHROUET, imprimeur, rue des Moineaux,</p>
+        <p>n°. 16. DÉTERVILLE, libraire, rue du Éattoir, n°. 16. PETIT, libraire, Palais du Tribunal, galerie Virginie,</p>
+        <p>n°.16.</p>
+        <p>Août 1806.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>QUELQUES REFLEXIONS</p>
+        <p>SUR UN ARTICLE DU JOURNAL DE L'EMPIRE,</p>
+        <p>DU 15 JUILLET 1806.</p>
+        <p>PAR A. MORELLET.</p>
+        <p>UN homme de lettres octogénaire, l'un des quarante de l'ancienne Académie française ^ membre de l'Institut national et de la Légion d'Honneur, est attaqué dans la feuille du i5 juillet du journal appelé Journal de l'Empire ; de la manière suivante :</p>
+        <p>A</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(2)</p>
+        <p>Vieillard insensé, ayant perdu toute espèce de bon sens, retombé en enfance, etc.».</p>
+        <p>A ces injures grossières le journaliste ajoute des imputations plus graves, en déclarant « que » l'A. Morellet est un mauvais prêtre , dégra» dant un caractère public et sacré, un de ces » prêtres apostats coupables des plus grands » excès de la révolution, un brouillon, un » perturbateur des lois et du gouvernement de » son pays ; armé de l'impudence d'un homme » qui depuis long-temps a étouffé le cris de sa » conscience, effronté menteur, insigne faus» saire ; entre lequel et les honnêtes gens il ne » peut y avoir rien de commun, malhonnête » homme , il faut trancher le mot ; ayant mené » une vie méprisable et par-là mauvais juge en » matière d'honneur , ayant perdu toute espèce » de pudeur, etc. ».</p>
+        <p>A quoi l'auteur ajoute «qu'en tout ce qu'il » vient de dire il n'a point chanté d'invectives , » qu'il a fourni des faits accablans, des preuves » sans réplique, qu'il a dit des vérités et point » d'injures ».</p>
+        <p>En achevant de rassembler ce dégoûtant amas d'injures, je me suis représenté un étranger les lisant, soit dans le feuilleton du Journal de l'Empire, soit dans la citation que j'en fais ici.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Aâ</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>(5&gt;</p>
+        <p>a pour maxime que ce n'est qu'un pèche véniel de calomnier et d'imposer de faux crimes pour ruiner de créance ceux qui parlent mal de nous ; mais cette maxime n'avoit point ici son application, puisque l'homme de lettres sur lequel le sieur Geoffroy s'est jeté avec tant de fureur, ne l'avoit point attaqué.</p>
+        <p>Après ma déclaration envoyé au Publiciste, je pouvois croire que le sieur Geoffroy avertiroit lui-même ses lecteurs de l'erreur dans laquelle il étoit tombé et qu'il en montreroit quelque repentir.</p>
+        <p>Lamothe, aveugle, se trouvant au spectacle dans une foule, avoit marché sur le pied d'un militaire ; celui-ci donne un soufflet au vieillard. Des cris d'indignation s'élèvent. Lamothe les calme en disant : Monsieur sera bien affligé lorsqu'il apprendra que je suis aveugle, et lemilitaire en effet se confondit en humbles excuses.</p>
+        <p>A 3</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(6) insulté n'est pas l'auteur de l'article du Publia ciste, il a dit : Eh bien ! je n' ai pas perdu mon. temps, c'est toujours un philosophe de calomnié.</p>
+        <p>. Dans ce que je viens de transcrire du Journal de l'Empire, il est difficile de trouver une critique purement littéraire portant uniquenient sur mes ouvrages et dégagée de toute personnalité comme doit l'être toute critique.</p>
+        <p>Je veux bien cependant appeler de ce nom et regarder non comme juste, mais comme matière convenable du feuilleton du Journal de l'Empire tout ce qu'on, y dit de moi dans la première partie de cette virulente déclamation.</p>
+        <p>Ainsi je laisse dire au sieur Geoffroy,</p>
+        <p>Que je suis un mauvais grammairien, un mauvais écrivain, quoiqu'on puisse révoquer eu doute la justice de cette sentence en lisant quelques uns de mes ouvrages et eu voyant mou nom inscrit, parmi ceux des membres de Fan-* cienne Académie française et se retrouvant dans la liste de la seconde classe de l'Institut;</p>
+        <p>Que j'ai été bafoué des encyclopédistes mes confrères, quoique j'aie passé Uia vie avec eux et que j'aie reçu de tous des marques d'estime et d'amitié;</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(7)</p>
+        <p>Que j'ai été le bouffon et le valet de Voltaire, quoique cet homme célèbre parle de moi avec éloge en plusieurs endroits de sa correspondance qui est entre les mains de tout le monde ;</p>
+        <p>Que j'ai adopté les rêveries des économistes , quoique ces rêveries ne soient rien autre chose que les principes de l'économie publique enseignés par beaucoup d'hommes éclairés depuis le milieu du dernier siècle;</p>
+        <p>A4</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(8)</p>
+        <p>Mais ©n montrant au sieur Geoffroy une si grande indulgence, je me permettrai deux re; marques.</p>
+        <p>Et veut-on voir quels sont les enseignemens de ce grand maître pour l'instruction des jeunes élèves de nos lycées, les progrès du goût et l'encouragement de la littérature française ? Voici quelques-unes de ses critiques :</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>(10)</p>
+        <p>ration et sans mesure, doit être de détourner beaucoup de bons esprits dans toutes les classes de la société, de communiquer leurs lumières dans des ouvrages d'instruction, et de nous faire jouir des agrémens de leur esprit dans des ouvrages d'imagination.</p>
+        <p>J'ai vu autrefois, dans beaucoup de journaux, un ton plus honnête, quelques égards, quelque mesure dans les critiques littéraires. Desfontaines et Fréron même se sont tenus bien</p>
+        <p>
+          <pb/>
+        </p>
+        <p>( 11 )</p>
+        <p>
+          <pb/>
+        </p>
+        <p>( 12)</p>
+        <p>quoique beaucoup d'amis aient Voulu me dé» tourner de répondre.</p>
+        <p>On m'a dit tout cela, mais on ne m'a pas persuadé.</p>
+        <p>Assurément, je ne laisserai pas empoisonner les courts restes de ma vie par uu sentiment</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(13)</p>
+        <p>trop amer d'injures manifestement dictées par la violence de l'esprit de parti, et dont je suis défendu par l'opinion de tous ceux de qui j'ai l'honneur d'être connu ; mais je ne me pique pas non plus d'une apathie qui ne pourroit être en moi que l'effet d'une indifférence entière à l'opinion de mes semblables.</p>
+        <p>Si la calomnie n'affligeoit pas celui qui en est l'objet, le crime du calomniateur ne seroit pas si grand. Le beau mot de Mathieu Môle, il y a loin du poignard d'un scélérat au coeur d'un honnête homme, peut être vrai au physique et au propre ; mais il ne l'est pas au moral et apr pliqué au poignard acéré de la calomnie.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Ma réponse pourra paroître tardive aux yeux de ceux qui ne désapprouvent pas que je i'éponde ; mais je puis expliquer ce délai.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(15)</p>
+        <p>I. J'ai mené, selon M. Geoffroy, une -vie méprisable. La vie d'un homme de lettres est dans ses ouvrages et dans ses sociétés. Quels sont les travaux qui ont occupé ma vie, et dans quelle société ai-je vécu?</p>
+        <p>Quant au premier article, dès les premiers pas que j'ai faits dans la carrière des lettres, et il y a plus de cinquante ans , j'ai porté mes études sur l'économie publique et sur toutes les questions relatives à l'organisation sociale, les droits sacrés de la propriété, l'importance de la culture, la simplification des impôts, la liberté du commerce dans toutes ses branches, celle de tous les genres d'industrie , la liberté civile, la liberté politique, la liberté de conscience, la liberté de la presse, etc.</p>
+        <p>Or, en parcourant cette carrière, voici les occupations qui ont rempli ma vie.</p>
+        <p>En 1761 , un Mémoire écrit sur l'invitation</p>
+        <p>
+          <pb/>
+        </p>
+        <p>( 16 ) de M. Trudaine , en faveur du transport des droits de douane aux frontières, mesure adoptée par le Gouvernement actuel.</p>
+        <p>En 1769, deux Mémoires en faveur de la liberté du Commerce de l'Inde et contre la Compagnie privilégiée, dont un arrêt du conseil prononça alors la dissolution.</p>
+        <p>Dans cette même année, un Prospectus d'un nouveau Dictionnaire de Commerce , où sont traités quelques points importans de la théorie du commerce.</p>
+        <p>En</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(17)</p>
+        <p>En 1774, et les années suivantes, le travail du Dictionnaire de Commerce, que la révolution m'a forcé d'abandonner depuis, en me privant des secours que le Gouvernement me fournissoit, et dont les matériaux ont servi au Dictionnaire du Commerce, en 5 vol. in-4.° ., rédigé par M. Peuchet.</p>
+        <p>En 1775, la Théorie du Paradoxe contre les extravagances de Linguet.</p>
+        <p>En 1787, un nouveau Mémoire sur le Cornmerce de l'Inde , au nom de onze villes priaB</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(18)</p>
+        <p>cipales de commerce, pour réclamer la liberté qu'elles avoient perdue par l'établissement d'une compagnie créée par M. de'Calonne.</p>
+        <p>Eu 1789 , Réflexions du lendemain contre la suppression des dîmes sans remplacemens, et Moyen de disposer utilement pour la nation des biens ecclésiastiques.</p>
+        <p>En 1795 et 1796, la Cause des Pères et quatre autres Ecrits, dans lesquels j'ai com-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>En 1798, les 9e. et 10e. livre de l'Histoire d'Amérique , ouvrage posthume de Robertson.</p>
+        <p>En 17gg, la traduction de l'ouvrage anglais de Dallaway, intitulé : Constantinople ancienne et moderne, 2 vol. in-8°.</p>
+        <p>Dans la même année , aux approches du 18 brumaire , Observation sur la loi des Otages, où j'attaque de front cette horrible mesure, qui nous annonçoit le retour de nos calamités, si le grand homme ne se fût trouvé , qui devoit raffermir les fondemens ébranlés de cet empire par de sages lois, dictées du sein des plus éclatantes victoires.</p>
+        <p>En 1800 , la traduction du Voyage de Vancouver , ouvragé capital pour la navigation , exécuté conjointement avec M. Démeunier , aujourd'hui sénateur.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(20)</p>
+        <p>titut, dans la seconde classe, j'y ai porté, j'ose le dire, un zèle dont mes confrères me rendent un honorable témoignage. Je m'y suis appliqué tout entier au travail du Dictionnaire. J'y ai rempli plus d'une fois les fonctions académiques aux yeux du public, qui m'a donné des marques flatteuses de quelque estime et de quelque bienveillance, que je puis regarder comme autant de réponses aux invectives du sieur Geoffroy.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(21 )</p>
+        <p>La Défense de l'Académie française contre Champfort, les Critiques d'Atala et de Caleb , et de quelques ouvrages de grammaire, etc.</p>
+        <p>B3</p>
+        <p>
+          <pb/>
+        </p>
+        <p>J'ai présenté comme un second moyen de juger ma vie les sociétés dans lesquelles j'ai vécu, et sur ce point le sieur Geoffroy me fait encore trop beau jeu.</p>
+        <p>A mon entrée dans la carrière des lettres, c'est-à-dire, vers 1760 , j'ai été accueilli par un homme d'état qui a laissé un des noms les plus respectés de notre ancienne magistrature , M. Trudaine, intendant des finances , dont les bontés sont devenues pour moi de l'amitié dans son fils et des égards dans ses petits-enfansVfcrs le même temps, j'ai reçu des encourage-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(23)</p>
+        <p>mens et des instructions de M. de Gournay , intendant du commerce , et de M. de Malesheirbes, dans la société duquel j'ai été de bonne heure admis, ainsi que dans celle de M. de Fourqueux , intendant des finances, et dans celle de M. d'Invaux, contrôleur général, etc.</p>
+        <p>J'ai eu pour compagnons d'études, et plusieurs d'entre eux pour amis, M. Turgot; M. de Brienne, mort archevêque de Sens; M. de Boisgelin, mort archevêque de Tours ; M. de Cicé, aujourd'hui archevêque d'Aix; le chevalier de Chastellux , etc.</p>
+        <p>J'ai été reçu chez Mme. d'Enville, mère de l'estimable et malheureux la Rochefoucauld; chez Mme. la maréchale de Beau veau, chez madame de Boufflers, chez Mme. Geoffrin, chez M. Necker , chez Mme. d'Angiviller, chez mademoiselle l'Espinassc ; et toutes ces maisons sont connues en France et dans les pays étrangers pour avoir rassemblé la meilleure compagnie.</p>
+        <p>Pour parler des hommes de lettres, j'ai connu et pratiqué, dès le milieu du siècle dernier, ceux qui se sont les premiers occupés en France, avec quelque distinction, de l'étude de l'économie publique ; M. de Forbouais , son parent Dangeuil , le respectable M. Abeille »,</p>
+        <p>B4</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(24)</p>
+        <p>Je nommerai aussi parmi les hommes avec qui j'ai été lié, la plupart des gens de lettres distingués que 'j'ai eus pour contemporains , tels que Mairan, Clairaut, Buffon, d'Alembert, Diderot, J. J. Rousseau, Raynal, Condillac, d'Holbac, Duclos, Saint-Lambert, Helvétius , Wattelet, Brecquigny, Roux , Darcet, Saurin , Marmontel, Barthélémy, etc.</p>
+        <p>Je sais que parmi les hommes que je viens de nommer il en est plusieurs que nos nouveaux zélateurs me feront un crime d'avoir connus , et, puisqu'il faut le dire, aimés. Le motif de ce jugement sera la liberté de penser de la plupart de ces hommes et leurs opinions extrêmes sur certains objets délicats.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(25)</p>
+        <p>Us ne voient pas que c'est surtout dans une société de philosophes qu'est vrai l'axiome : Vingt têtes, vingt avis, tot capita, tot sensus. Qu'en aucun endroit peut-être on n'a combattu ces opinions plus fortement que dans les maisons dont le maître s'étoit creusé la tête toute la matinée pour les établir dans son cabinet.</p>
+        <p>Mais leur grande erreur en ceci est de supposer que c'est avec le métaphysicien qu'on vit ; et c'est avec l'homme d'esprit, avec l'homme social et doux, avec l'homme riche en connoissances utiles. Et que m'importe la manière dont il pense sur une question abstraite de morale ou de métaphysique , sujet que nous n'entendons peut - être bien ni lui ni moi ; que m'importe, dis-je, si je trouve en lui tous les agrémens de l'esprit et tous les charmes de la société.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(26)</p>
+        <p>Je conçois pourtant et j'explique l'erreur du sieur Geoffroy sur l'article que je traite ici. Homme de collège, absitinjuria verbo, fuyant peut-être en bon chrétien le monde corrompu j il n'a pas connu la bonne compagnie et a ignoré que depuis plus de cinquante ans j'y étois admis. Je ne me rappelle pas non plus de l'avoir jamais vu , ni même d'en avoir ouï parler avant ces derniers temps dans la société des gens de lettres au milieu desquels je vivois et qu'il n'a pas plus connus qu'il ne me connoît, quoiqu'il ait parlé de plusieurs d'entre eux en termes injurieux ; et c'est en ignorant parfaitement où et comment j'ai vécu, qu'il prononce que j'ai mené une vie méprisable.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(27) De quel nom peut-on appeler une si scandaleuse liberté ?</p>
+        <p>Je crois avoir suffisamment repoussé la première injure du sieur Geoffroy.</p>
+        <p>i°. Les hommes d'état que j'aurois fait mes dupes étoient MM. Trudaine , d'Invaux , Turgot, Malesherbes, Necker, Fourqueux,Brienne, Cicé et autres personnages distingués par leurs lumières et leurs talens, que personne avant le sieur Geoffroy n'a regardé comme dupes.</p>
+        <p>Je réponds en second lieu :</p>
+        <p>
+          <pb/>
+        </p>
+        <p>( 28 )</p>
+        <p>titut, et ma classe m'a honoré de son choix; dans la formation d'une commission dont je suis le secrétaire, pour la confection du Dictionnaire de l' Académie,</p>
+        <p>Enfin S. M. I. m'a décoré de L'étoile de la Légion d'Honneur.</p>
+        <p>Le sieur Geoffroy voudra-t-il bien expliquer au public par quel artifice , après avoir attrapé des pensions et des grâces sous l'ancien régime, en mistifiant les hommes d'état d'alors,, j'en ai attrapé de nouvelles aujourd'hui.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>( 29 ) de ceux par qui ont été commis les plus grands excès de la révolution.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(30)</p>
+        <p>Mais dès que j'ai vu la licence du peuple et la foiblesse et l'incertitude de l'autorité amener des excès qu'on s'efforce vainement aujourd'hui de donner comme des suites et des couséquences nécessaires des idées libérales, dès que j'ai vu, dis-je, ces excès, je les ai combattus de toutes mes forces, et sitôt qu'il a été possible, non pas de parler et d'écrire sans danger, mais de parler et d'écrire, j'ai parlé et j'ai écrit.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(31)</p>
+        <p>C'est-à-dire, que, comme Sosie sous la tente , avec sa bouteille et son jambon, il prenoit courage</p>
+        <p>Pour nos gens qui se battoient.</p>
+        <p>Et c'est ce personnage qui se donne le droit de donner ou de refuser des certificats de bonne conduite pendant les horreurs de la révolution !</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(32)</p>
+        <p>Il faut voir, dans le Feuilleton, comment le sieur Geoffroy triomphe d'avoir imaginé si heureusement de me qualifier de malhonnête homme, expression qu'il a employée en trois endroits différens. Oui, dit-il, un malhonnête homme ; il faut trancher le mot: le bon homme aura beau se débattre sous ce mot terrible , il faut qu'il le digère.</p>
+        <p>Mais ce n'est pas assez pour le journaliste</p>
+        <p>qu'une</p>
+        <p>
+          <pb/>
+        </p>
+        <p>( 33 ) qu'une grossièreté, il faut qu'il y ajoute une dénonciation dans le style révolutionnaire , en nie traduisant comme un mauvais citoyen, perturbateur des lois et du gouvernement de mon pays. Vil délateur! où? quand ? comment ai-je insulté aux lois ? Par quel acte me suis-je montré perturbateur du repos public et ennemi du gouvernement ? Articulez les faits, dites les lieux,, les temps où je nie suis rendu coupable ? Et si vous dites que ce n'est pas par des actions,, niais par des ouvrages.;, citez donc des écrits, dans lesquels j'aie insulté les lois et chercha à troubler la tranquillité .publique ? Que , si vous, ne,pouvez répondre un seul mot à, aucune desinterpellations que je vous fais, demeurez couvert de l'opprobre qui attend le calomniateur', confondu.</p>
+        <p>Ma cause est désormais complètement insC</p>
+        <p>insC</p>
+        <p>
+          <pb/>
+        </p>
+        <p>suam ipsi vitam narrare fiduciam potius morum Quam arroganliam arbitrait sunt. AGRIC.</p>
+        <p>Je leur ferai observer aussi que les détails dans lesquels je suis entré ne sont que des faits que j'ai dû rappeler, puisqu'en repoussant des inpïres personnelles, on est bien obligé de parler de soi.</p>
+        <p>J'espère enfin que l'ennui que j'aurai causé accroîtra chez mes lecteurs leur indignation contre l'homme absurde et injuste dont il a fallu</p>
+        <p>
+          <pb/>
+        </p>
+        <p>( 35 )</p>
+        <p>démontrer si longuement l'injustice et l'absurdité.</p>
+        <p>Biais qu'il me soit permis d'exposer ici avé» liberté une opinion différente.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(36)</p>
+        <p>Outre le devoir imposé au gouvernement de défendre le citoyen de la calomnie et même de la diffamation, il doit s'efforcer de nourrir dans une nation le sentiment de l'honneur, sans lequel elle s'avilit, et le désir d'obtenir et de conserver l'estime et la considération de ses semblables, puissant motif d'éviter le crime et de pratiquer la vertu.</p>
+        <p>Je ne crois pas qu'aucun homme raisonnable et ayant quelque sentiment du juste et de l'injuste , puisse penser qu'une telle manière d'insulter et de déchirer un citoyen puisse être tolérée en aucun pays policé .</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(37)</p>
+        <p>Cette opinion doit même être indépendante de la justice et de la vérité des imputations. Le particulier sans autorité qui traite ainsi dans un écrit public celui avec lequel il est en querelle, auroit beau avoir en main-des-preuves de la vérité de ses accusations, il n'en seroit pas moins digne de blâme et de peines sévères, par la raison que ce seroit de sa part s'arroger un pouvoir de juger et de condamner que la société politique ne lui a pas donné, qu'il est un usurpateur de l'autorité sociale confiée aux seuls magistrats établis juges des querelles entre les citoyens.</p>
+        <p>Non, on ne peut voir sans effroi s'élever et se</p>
+        <p>C3</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>(39) s'il est moins répandu, l'impression faite sur les esprits demeure.</p>
+        <p>Enfin, on ne peut s'empêcher de voir le combat entre un écrivain périodique qui a une grande vogue et le citoyen insulté, comme celui d'un homme armé dé toutes pièces contre un homme sans arme ou mal armé;</p>
+        <p>On vous dit aussi : Vous avez la voie des tribunaux ; rendez votre plainte ; On y fera droit.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>( 40 )■</p>
+        <p>N'y a-t-il done , dira-t-on, aucun moyen de concilier quelque liberté dans les journaux , moyen utile d'instruction publique, avec quelque sécurité des citoyens contre un guet-à-pens préparé par un journaliste.</p>
+        <p>Oui, il y en a, et voici ceux que je prends la liberté de proposer :</p>
+        <p>
+          <pb/>
+        </p>
+        <p>( 41 ) un censeur bien impartial et distinct de celui du journal.</p>
+        <p>Je dis insulté dans sa personne, parce que c'est contre ce genre d'injure que je veux qu'on fournisse des moyens de défense et non contre une critique, même déraisonnable et injuste, d'un ouvrage de littérature ou de philosophie.</p>
+        <p>Si donc l'écrivain périodique s'étoit permis des injures personnelles , on trouveroit son délit caractérisé et ses calomnies repoussées dans son propre journal.</p>
+        <p>Si dix mille exemplaires de sa feuille avoient été les organes de sa mauvaise foi ou de son insolence, dix mille exemplaires de la réponse en détruiroient les effets et le livreroient luimême au mépris et à l'indignation publique, s'il avoit mérité Fun et l'autre.</p>
+        <p>Je ne doute pas qu'en lisant ceci le journaliste</p>
+        <p>Qui vit du mal qu'il fait et nuit sans être utile ,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Quant au Gouvernement, on ne petit lui contester le droit d'imposer au journaliste une.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(43)</p>
+        <p>semblable condition, et il y en a une raison sensible.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>( 44 ) merie et aux frais du Journal de l'Empire , en même papier et caractères, et en même nombre que le journal, et envoyé aux mêmes adresses, de quoi l'administration de la poste certifiera, dans la semaine, le ministre de la police générale.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(45)</p>
+        <p>tu l'ignores , les signes de la colère Puis se</p>
+        <p>tournant vers le fouetteur, qui avoit interrompu un moment l'exécution. Continuez, lui dit-il , faites votre besogne, pendant que celui-ci et moi nous disputons.</p>
+        <p>Ma citation de Plutarque peut paroître hors</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(46) de propos, en ce que je n'ai pas puni DaveGeoffroy de la peine qu'il a si bien méritée, et que je n'ai fait que mettre sous ses yeux l'indignité de sa conduite, mais je crois que ma modération même sera pour; lui un rude châtiment, en lui prouvant mieux que tout ce que je pour-, rois lui dire, le profond mépris que je fais de ses injures, par la tranquillité que je conserve; en les repoussant. ,</p>
+        <p>F I N.</p>
+        <p>ERRATUM.</p>
+        <p>Page 11, ligne 8, lisez, Quinze mille souscriptions. en caractères romains au lieu d'italiques .</p>
+      </div>
     </body>
   </text>
 </TEI>

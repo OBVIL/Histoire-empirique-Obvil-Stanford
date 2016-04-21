@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
- <teiHeader>
-<fileDesc>
-<titleStmt>
-<author key="Baour-Lormian, Pierre-Marie-François (1770-1854)">Pierre-Marie-François Baour-Lormian</author>
-<title>Encore un mot, seconde satire, par M. Baour-Lormian,... pour faire suite à la première satire du même auteur : "Le Classique et le romantique"</title>
-</titleStmt>
-<editionStmt>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Encore un mot, seconde satire, par M. Baour-Lormian,... pour faire suite à la première satire du même auteur : “Le Classique et le romantique”</title>
+        <author key="Baour-Lormian, Pierre-Marie-François (1770-1854)">Pierre-Marie-François Baour-Lormian</author>
+      </titleStmt>
+      <editionStmt>
         <edition>OBVIL/BNF</edition>
         <respStmt>
           <resp>reprise des textes</resp>
           <name>Amélie Canu</name>
         </respStmt>
       </editionStmt>
-<publicationStmt>
+      <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
         <availability status="restricted">
@@ -22,310 +22,302 @@
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
-<sourceDesc>
-<bibl>
-<author>Baour-Lormian, Pierre-Marie-François (1770-1854)</author>, <title>Encore un mot, seconde satire, par M. Baour-Lormian,... pour faire suite à la première satire du même auteur : "Le Classique et le romantique"</title>, <date>1826</date>,description :,42 pages
-</bibl>
-<publisher>A. Dupont et Roret (Paris)</publisher>
-<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k5468149p</idno>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1826">1826</date>
-</creation>
-<langUsage>
-<language ident="fr"/>
-</langUsage>
-</profileDesc>
- </teiHeader>
+      <sourceDesc>
+        <bibl> <author>Baour-Lormian, Pierre-Marie-François (1770-1854)</author>, <title>Encore un mot, seconde satire, par M. Baour-Lormian,... pour faire suite à la première satire du même auteur : "Le Classique et le romantique"</title>, <date>1826</date>,description :,42 pages </bibl>
+        <publisher>A. Dupont et Roret (Paris)</publisher>
+        <idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k5468149p</idno>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1826">1826</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-    <div>
-<p><pb/>
-------------------------------------------------------------------------
-------------------------------------------------------------------------</p>
-<p>SECONDE SATIRE.</p>
-<p><pb/></p>
-<p>4 Sous presse,</p>
-<p>POUR PARAITRE AU COMMENCEMENT DE JANVIER :</p>
-<p>ÉTRENNES AUX. ROMANTIQUES,</p>
-<p>TROISIÈME SATIRE.</p>
-<p>PARTS.— ÏMPKTME1UE DE FAIN,</p>
-<p>BUE RACINE, V". 'l.PT.ACK DE T.'ODÉON.</p>
-<p><pb/></p>
-<p>EK€01R1</p>
-<p>SECONDE SATIRE,</p>
-<p>PAR</p>
-<p>HM&gt; ^gjrtour - (^&gt;ormirtn ,</p>
-<p>DE L'ACADÉMIE FRANÇAISE;</p>
-<p>POUIl PAIKF. STflTF.</p>
-<p>A LA rREMtÈRE SATIRE DU MÊllE AUTEUR :</p>
-<p>LE CLASSIQUE ET LE ROMANTIQUE.</p>
-<p>PARI».</p>
-<p>AMBROISE DUPONT ET RORET,</p>
-<p>(JUAI DES AUGUST1.NS , IN". M 7 .</p>
-<p>URBAIN CANEL,</p>
-<p>IIIIK SAINT-GEKMAIN-DKS-1'llÉs, K°. C).</p>
-<p>1826.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>AVERTISSEMENT.</p>
-<p>EN publiant de nouvelles Satires où quelques individus se trouvent
-nommés, je proteste d'avance contre toute interprétation offensante pour
-leur personne ou leur caractère.</p>
-<p>Guidé par le seul intérêt de l'art, j'ai dû me renfermer dans un cercle
-purement littéraire , et n'attaquer que les fausses doctrines.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>SRGOHUB ws nom</p>
-<p>SATIRE.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>ENCORE UN MOT. 3</p>
-<p><pb/></p>
-<p>4 ENCORE UN MOT.</p>
-<p>Je peux Que devenir? Où trouver un refuge?</p>
-<p>S'il faut que X Àristarque ou TEtoile me juge, Pour fléchir leur
-courroux j'aurai beau m'écrier ; Je reconnais mes torts; vive ALPHONSE
-PREMIER!</p>
-<p><pb/></p>
-<p>ENCORE UN MOT. 5</p>
-<p>Ils oseront eucor, hélas ! je le parie, M'accuscr d'imposture ou bien de
-raillerie !... Que faire donc ? Céder sans avoir combattu ! Cet effort
-prouverait un excès de vertu ! Mais ne serais-je point un quarante pour
-rire, Si, dès le moindre choc, je fuyais sans mot dire?..- Ah! c'est
-trop réfléchir! le sort en est jeté : Entr'eux et moi le Globe a rompu
-tout traité. Tâchons de conserver un reste de courage ; Toutefois, par
-prudence, au milieu de l'orage, Modérons, je le dois, un trop juste
-courroux, Et puisqu'il faut enfin parler d'un ton plus doux : Que
-demande GASPARD? victime volontaire, Devait-il de son nom révéler le
-mystère</p>
-<p><pb/></p>
-<p>G: ENCORE UN MOTJ</p>
-<p>Dans la fosse du Globe enterrant ses articles?</p>
-<p>Me faire au moins l'honneur de signer vos extraits?</p>
-<p><pb/></p>
-<p>ENCORE UN MOT. 7</p>
-<p><pb/></p>
-<p>8 ENCORE UN MOT.</p>
-<p><pb/></p>
-<p>ENCORE UN MOT. 9</p>
-<p><pb/></p>
-<p>io ENCORE UN MOT.</p>
-<p>Et qu'ils possèdent seuls le don mystérieux</p>
-<p>Du grand OEuvre sans fruit cherché par nos aïeux;</p>
-<p>Et.... —C'en est trop, enfin; trêve de persiflage,</p>
-<p>S'écrie un Romantique aux yeux bouffis de rage;</p>
-<p>On dit! Belle raison que vous nous donnez là;</p>
-<p>Je puis, en peu de mots y confondre tout cela.</p>
-<p>—Eh bien ! soit; je vous prête une oreille impassible ;</p>
-<p>Mais tâchez d'être clair, si la chose est possible;.</p>
-<p>— Quand un Génois, suivi de quelques matelots,</p>
-<p>Sur la bruyante mer dont il creusait les flots,</p>
-<p>S'élança, dans l'espoir de découvrir un monde,</p>
-<p>L'Espagne se moquait de son erreur profonde.</p>
-<p>Mais depuis son succès, dans la postérité,</p>
-<p>De respects et de voeux un tribut mérité</p>
-<p><pb/></p>
-<p>ENCORE UN MOT. 11</p>
-<p>A ce grand nom se colle et partout l'accompagne. Nous sommes ce Génois y
-et vous êtes l'Espagne. Toute gloire nouvelle afflige les regards ;
-C'est notre cas : pourtant, Christophes des beaux-arts, Et le coeur
-pétillant d'une flamme extatique, Nous avons découvert un monde
-poétique. Le vôtre, chancelant sur ses axes usés, N'a plus, pour se
-mouvoir, que des ressorts brisés ; Son vieux soleil n'est plus qu'un
-pâle météore. Mais, s'il faut m'expliquer sans nulle métaphore , Nous
-avons médité sur les justes revers Que subissent partout vos proses et
-vos vers. L'antique char, traînant vos muses routinières , Roule avec
-pesanteur dans les mêmes ornières;</p>
-<p><pb/></p>
-<p>•2 ENCORE UN MOT.</p>
-<p>Les cordes du malheur et celles de l'amour?</p>
-<p>De l'Amour ! avant nous quel luth plein d'énergie</p>
-<p>Avait, de ses transports, chanté la liturgie!</p>
-<p>Timide, virginal, toujours baigné de pleurs,</p>
-<p>Il modulait toujours de vulgaires douleurs,</p>
-<p>Et ses petits combats et ses dolentes flammes,</p>
-<p>Et ses remords bourgeois affadissaient les dames.</p>
-<p>Nous l'avons ennobli : tantôt, en nos portraits,</p>
-<p>Le capuchon du moine enveloppe ses traits,</p>
-<p>Et tantôt, pèlerin , accablé de misère,</p>
-<p>Il compte par ses doigts les grains d'un long rosaire ;</p>
-<p>Il mêle dans ses jeux, caressant et cruel,</p>
-<p>Aux tourmens de l'enfer les délices du ciel ;</p>
-<p><pb/></p>
-<p>ENCORE UN MOT. i5</p>
-<p><pb/></p>
-<p>i4 ENCORE UN MOT.</p>
-<p>Fort bien, me direz-vous; mais la grammaire ! Eh quoi !</p>
-<p>Si notre genre est neuf, notre style doit l'être.</p>
-<p>Nous ne reconnaissons qu'un seul guide, qu'un maître,</p>
-<p>Le Génie; il méprise, en son vol négligent,</p>
-<p>De vos mots décrépits le trésor indigent.</p>
-<p>La muse aux jeunes pas librement s'y promène.</p>
-<p>Par nos mains façonné l'idéal prend un corps,</p>
-<p>En sanglots du trépas lamente ses accords,</p>
-<p>Sanglots délicieux et pour nous pleins de charmes !</p>
-<p>A peindre l'univers bien lugubre, bien noir;</p>
-<p>Car toute poésie est dans le désespoir.</p>
-<p><pb/></p>
-<p>ENCORE UN MOT. i5</p>
-<p>Affranchis pour jamais de vos formes craintives, Nous puisons seulement
-aux sources primitives, Et ce Racine enfin, si fameux parmi vous, S'il
-vivait de nos jours écrirait comme nous. Ainsi, las d'insulter de votre
-main pigmée Le temple aérien de notre renommée, Cessez, il en est temps,
-de stériles efforts ; Marchez sous nos drapeaux pour expier vos torts,
-Ou le public, témoin de votre frénésie, Pourra vous soupçonner d'un peu
-de jalousie.</p>
-<p>■— Quels argumens ! d'honneur j'en suis intimidé; DUPIN et MÉRILHOU
-jamais n'ont mieux plaidé,</p>
-<p><pb/></p>
-<p>iG ENCORE UN MOT.</p>
-<p>Et VILLEMAIN lui-même, en son cours d'éloquence,</p>
-<p>N'improvisa jamais avec plus d'abondance.</p>
-<p>Sans doute je devrais me tenir pour battu;</p>
-<p>Mais comme ce joueur, qui, revêche et têtu,</p>
-<p>A l'Écarté maudit implore la ressource</p>
-<p>Du seul écu peuplant le désert de sa bourse,</p>
-<p>Je persiste ; et pourtant, je déclare d'abord</p>
-<p>Que sur un point ou deux je suis de votre bord.</p>
-<p>Loin des chemins frayés son audace l'entraîne ;</p>
-<p>Le projet est fort beau : de la littérature</p>
-<p>Le champ peut s'engraisser par une autre culture,</p>
-<p><pb/></p>
-<p>ENCORE UN MOT. 17</p>
-<p>Et nous donner des fruits qui flattent les gourmets, Et stimulent leur
-goût blasé sur de vieux mets. Vous ne me verrez point, proscrivant la
-magie, Absurde champion de la mythologie,</p>
-<p>De l'Olympe vieilli regretter le nectar,</p>
-<p>Ni l'Aurore qui monte en son humide char,</p>
-<p>Ni tous ces lieux communs que l'on crut des merveilles.</p>
-<p>Les pavots ont de Flore envahi les corbeilles,</p>
-<p>Et Pomone aux yeux noirs, et Cypris aux yeux bleus,</p>
-<p>Ne nous présentent plus rien de miraculeux.</p>
-<p>Aux déesses de l'air, aux amoureuses fées,</p>
-<p>Consacrez, je le veux, des palmes, des trophées ;</p>
-<p>Aux rayons de la lune éclairant un ciel pur,</p>
-<p>Que le Sylphe, ombrageasses atfè^^'azur,</p>
-<p><pb/></p>
-<p>18 ENCORE UN MOT.</p>
-<p>Visite vers minuit la vierge qui sommeille;</p>
-<p>Et lui montre de loin, dans un prisme enchanté,</p>
-<p>L'amant qui doit un jour conquérir sa beauté.</p>
-<p>Que votre Merveilleux, puisé dans la nature,</p>
-<p>D'un beau ciel poétique étende l'horizon,</p>
-<p>Flatte ensemble le goût, l'oreille, la raison,</p>
-<p>Et jusque dans notre âme, et séduite et touchée,</p>
-<p>Avec discernement soyez neufs et hardis,</p>
-<p>A tout cela, messieurs, le premier j'applaudis :</p>
-<p>Parcourez les manoirs, fouillez dans leurs décombres ;</p>
-<p>De nos bons paladins ressuscitez les ombres ;</p>
-<p><pb/></p>
-<p>ENCORE UN MOT. 19</p>
-<p><pb/></p>
-<p>do ENCORE UN MOT.</p>
-<p>N'oubliez donc jamais que, chaste par essence, Sa force est la pudeur,
-son lustre l'innocence; Que tout poëte épris de ses charmes sacrés, Avec
-un saint respect, de ses chants épurés Au pied de ses autels doit
-apporter l'hommage, Et des fleurs de l'Éden couronner son image.</p>
-<p>Mais voulez-vous enfin soumettre vos rivaux? Soit que vous abordiez
-quelques sujets nouveaux; Soit qu'osant affronter nos Parques
-littéraires, Melpomène ou Thalie obtiennent votre encens, Respectez
-avant tout la langue et le bon sens :</p>
-<p><pb/></p>
-<p>ENCORE UN MOT. 21</p>
-<p>Le bon sens, par qui seul les plus fameux ouvrages</p>
-<p>Des THIESSÉ de leur temps ont bravé les outrages ;</p>
-<p>La langue, sans laquelle il n'est point d'écrivain.</p>
-<p>Pour vous justifier, vous me dites en vain</p>
-<p>Que son superbe orgueil ne veut que des esclaves;</p>
-<p>C'est la calomnier : libre dans ses entraves,</p>
-<p>Le Génie, étendant son vol audacieux,</p>
-<p>Avec elle s'élève et plane dans les cieux :</p>
-<p>Est-il un son divin qu'elle ne fasse entendre?</p>
-<p>Abondante, flexible, harmonieuse, tendre,</p>
-<p>Y parvenir sans doute est chose peu facile.</p>
-<p><pb/></p>
-<p>22 ENCORE UN MOT.</p>
-<p>Sur nos fronts printaniers se courbe d'elle-même</p>
-<p><pb/></p>
-<p>ENCORE UN MOT. 23</p>
-<p><pb/></p>
-<p>;?4 ENCORE UN MOT.</p>
-<p>Mais je suis, pour ma part, de la sorte bâti.</p>
-<p>Je vois avec douleur votre chef, averti</p>
-<p>Par trois grandes leçons qui devaient mieux l'instruire,</p>
-<p>Dans le gouffre d'oubli sans remords vous conduire;</p>
-<p>Je vois, par votre faute, et pour vous j'en frémis,</p>
-<p>Vos projets conquérans chaque jour compromis.</p>
-<p>Eussiez-vous pour appuis les TROGNONS des deux sphères,</p>
-<p>Vous vous tairez bientôt, charlatans somnifères,</p>
-<p>Et dans les magasins iront pourir en tas</p>
-<p>Vos drogues, qu'eût rougi de vendre Dubartas.</p>
-<p>Mais HUGO, furieux, m'accuse d'ineptie</p>
-<p><pb/></p>
-<p>ENCORE UN MOT. a5</p>
-<p>En faveur d'un Gascon, foetus académique, On n'engagera point de lutte
-polémique. Quel journal sur mon sort, voudrait s'apitoyer ? Je n'ai
-point le Commerce, hélas ! et le Courrier Pourra-t-il digérer, dans sa
-haine profonde,</p>
-<p>Mon poëme ascétique en ma Fête du monde</p>
-<p><pb/></p>
-<p>26</p>
-<p>ENCORE UN MOT.</p>
-<p><pb/></p>
-<p>HQTB&amp;</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>SI*".</p>
-<p>Quel démon biscornu me soufflant la manie De ne point admirer les fautes
-du génie, etc.</p>
-<p><pb/></p>
-<p>3o NOTES.</p>
-<p>Et moi, que le Mercure , avec hilarité, Inhume tout vivant, de son
-autorité, etc.</p>
-<p>On a publié dans le Mercure, sous le titre de Premier Sabbat, un article
-fort ingénieux, où l'on déclare que les jeunes auteurs me tiennent pour
-mort et pour remort, et le tout sans remords.</p>
-<p>Dites? nepouvez-vous, en repoussant mes traits , Me faire au moins
-l'honneur de signer vos extraits ?</p>
-<p>C'est dans l'intérêt même de mes adversaires, que je leur donne ce
-conseil. A quoi bon se couvrir ainsi du voile de l'anonyme? Traiter un
-écrivain de Gascon, d'aligneur de syllabes, de niais, d'oie, de sot,
-etc., n'est-ce pas déployer un esprit fertile en excellentes
-plaisanteries? Pourquoi donc ne pas les avouer hautement et se dérober à
-sa gloire?</p>
-<p>Ai-je nommé Gaspard, «te.</p>
-<p>Je pense que ce prénom désigne suffisamment le plus célèbre de mes
-critiques.</p>
-<p>On dit qu'en un contrat sur parchemin gothique, Rédigé par Lefèvre, et
-par Deschamps relu, etc.</p>
-<p>M. Emile Deschamps est l'un des plus chauds partisans des romantiques;
-et par une inconcevable contradiction , il n'écrit rien que ne puisse
-avouer le goût le plus sévère et le ;lus délicat. Ne pourrait-on pas en
-conclure que M. Deschamps, d'une humeur spirituelle et gaie, se moque un
-peu de ses bons amis</p>
-<p><pb/></p>
-<p>5i</p>
-<p>Soit qu'osant affronter nos parques littéraires , etc.</p>
-<p>Il est possible qu'un de nos poètes romantiques ait lu le dictionnaire
-de la fable. En ce cas , il peut me faire observer que l'antiquité ne
-connaissait que trois parques. L'observation ne manque ni de profondeur,
-ni de vérité. Mais ne peut-on pas supposer que des parques du second
-ordre aidaient les premières dans leur vilaine besogne ?</p>
-<p>Je n'ai point le Commerce , hélas ! et le Courrier , etc.</p>
-<p>Dût. Charles Rémusat, avec son drame noir, etc.</p>
-<p>Tout le monde connaît ou doit connaître une tragédie en prose</p>
-<p>nègre, composée par M. Rémusai&lt;-eriT»-4?ar lui dans plusieurs</p>
-<p>, p7w r 7x</p>
-<p>salons. /VV. v ' .' ' '/A.</p>
-<p>FIN nife"'NO&lt;rS5;;.ffi</p>
-    </div>
+      <div>
+        <p><pb/> ------------------------------------------------------------------------ ------------------------------------------------------------------------</p>
+        <p>SECONDE SATIRE.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>4 Sous presse,</p>
+        <p>POUR PARAITRE AU COMMENCEMENT DE JANVIER :</p>
+        <p>ÉTRENNES AUX. ROMANTIQUES,</p>
+        <p>TROISIÈME SATIRE.</p>
+        <p>PARTS.— ÏMPKTME1UE DE FAIN,</p>
+        <p>BUE RACINE, V". 'l.PT.ACK DE T.'ODÉON.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>EK€01R1</p>
+        <p>SECONDE SATIRE,</p>
+        <p>PAR</p>
+        <p>HM&gt; ^gjrtour - (^&gt;ormirtn ,</p>
+        <p>DE L'ACADÉMIE FRANÇAISE;</p>
+        <p>POUIl PAIKF. STflTF.</p>
+        <p>A LA rREMtÈRE SATIRE DU MÊllE AUTEUR :</p>
+        <p>LE CLASSIQUE ET LE ROMANTIQUE.</p>
+        <p>PARI».</p>
+        <p>AMBROISE DUPONT ET RORET,</p>
+        <p>(JUAI DES AUGUST1.NS , IN". M 7 .</p>
+        <p>URBAIN CANEL,</p>
+        <p>IIIIK SAINT-GEKMAIN-DKS-1'llÉs, K°. C).</p>
+        <p>1826.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>AVERTISSEMENT.</p>
+        <p>EN publiant de nouvelles Satires où quelques individus se trouvent nommés, je proteste d'avance contre toute interprétation offensante pour leur personne ou leur caractère.</p>
+        <p>Guidé par le seul intérêt de l'art, j'ai dû me renfermer dans un cercle purement littéraire , et n'attaquer que les fausses doctrines.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>SRGOHUB ws nom</p>
+        <p>SATIRE.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>ENCORE UN MOT. 3</p>
+        <p>
+          <pb/>
+        </p>
+        <p>4 ENCORE UN MOT.</p>
+        <p>Je peux Que devenir? Où trouver un refuge?</p>
+        <p>S'il faut que X Àristarque ou TEtoile me juge, Pour fléchir leur courroux j'aurai beau m'écrier ; Je reconnais mes torts; vive ALPHONSE PREMIER!</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ENCORE UN MOT. 5</p>
+        <p>Ils oseront eucor, hélas ! je le parie, M'accuscr d'imposture ou bien de raillerie !... Que faire donc ? Céder sans avoir combattu ! Cet effort prouverait un excès de vertu ! Mais ne serais-je point un quarante pour rire, Si, dès le moindre choc, je fuyais sans mot dire?..- Ah! c'est trop réfléchir! le sort en est jeté : Entr'eux et moi le Globe a rompu tout traité. Tâchons de conserver un reste de courage ; Toutefois, par prudence, au milieu de l'orage, Modérons, je le dois, un trop juste courroux, Et puisqu'il faut enfin parler d'un ton plus doux : Que demande GASPARD? victime volontaire, Devait-il de son nom révéler le mystère</p>
+        <p>
+          <pb/>
+        </p>
+        <p>G: ENCORE UN MOTJ</p>
+        <p>Dans la fosse du Globe enterrant ses articles?</p>
+        <p>Me faire au moins l'honneur de signer vos extraits?</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ENCORE UN MOT. 7</p>
+        <p>
+          <pb/>
+        </p>
+        <p>8 ENCORE UN MOT.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ENCORE UN MOT. 9</p>
+        <p>
+          <pb/>
+        </p>
+        <p>io ENCORE UN MOT.</p>
+        <p>Et qu'ils possèdent seuls le don mystérieux</p>
+        <p>Du grand OEuvre sans fruit cherché par nos aïeux;</p>
+        <p>Et.... —C'en est trop, enfin; trêve de persiflage,</p>
+        <p>S'écrie un Romantique aux yeux bouffis de rage;</p>
+        <p>On dit! Belle raison que vous nous donnez là;</p>
+        <p>Je puis, en peu de mots y confondre tout cela.</p>
+        <p>—Eh bien ! soit; je vous prête une oreille impassible ;</p>
+        <p>Mais tâchez d'être clair, si la chose est possible;.</p>
+        <p>— Quand un Génois, suivi de quelques matelots,</p>
+        <p>Sur la bruyante mer dont il creusait les flots,</p>
+        <p>S'élança, dans l'espoir de découvrir un monde,</p>
+        <p>L'Espagne se moquait de son erreur profonde.</p>
+        <p>Mais depuis son succès, dans la postérité,</p>
+        <p>De respects et de voeux un tribut mérité</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ENCORE UN MOT. 11</p>
+        <p>A ce grand nom se colle et partout l'accompagne. Nous sommes ce Génois y et vous êtes l'Espagne. Toute gloire nouvelle afflige les regards ; C'est notre cas : pourtant, Christophes des beaux-arts, Et le coeur pétillant d'une flamme extatique, Nous avons découvert un monde poétique. Le vôtre, chancelant sur ses axes usés, N'a plus, pour se mouvoir, que des ressorts brisés ; Son vieux soleil n'est plus qu'un pâle météore. Mais, s'il faut m'expliquer sans nulle métaphore , Nous avons médité sur les justes revers Que subissent partout vos proses et vos vers. L'antique char, traînant vos muses routinières , Roule avec pesanteur dans les mêmes ornières;</p>
+        <p>
+          <pb/>
+        </p>
+        <p>•2 ENCORE UN MOT.</p>
+        <p>Les cordes du malheur et celles de l'amour?</p>
+        <p>De l'Amour ! avant nous quel luth plein d'énergie</p>
+        <p>Avait, de ses transports, chanté la liturgie!</p>
+        <p>Timide, virginal, toujours baigné de pleurs,</p>
+        <p>Il modulait toujours de vulgaires douleurs,</p>
+        <p>Et ses petits combats et ses dolentes flammes,</p>
+        <p>Et ses remords bourgeois affadissaient les dames.</p>
+        <p>Nous l'avons ennobli : tantôt, en nos portraits,</p>
+        <p>Le capuchon du moine enveloppe ses traits,</p>
+        <p>Et tantôt, pèlerin , accablé de misère,</p>
+        <p>Il compte par ses doigts les grains d'un long rosaire ;</p>
+        <p>Il mêle dans ses jeux, caressant et cruel,</p>
+        <p>Aux tourmens de l'enfer les délices du ciel ;</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ENCORE UN MOT. i5</p>
+        <p>
+          <pb/>
+        </p>
+        <p>i4 ENCORE UN MOT.</p>
+        <p>Fort bien, me direz-vous; mais la grammaire ! Eh quoi !</p>
+        <p>Si notre genre est neuf, notre style doit l'être.</p>
+        <p>Nous ne reconnaissons qu'un seul guide, qu'un maître,</p>
+        <p>Le Génie; il méprise, en son vol négligent,</p>
+        <p>De vos mots décrépits le trésor indigent.</p>
+        <p>La muse aux jeunes pas librement s'y promène.</p>
+        <p>Par nos mains façonné l'idéal prend un corps,</p>
+        <p>En sanglots du trépas lamente ses accords,</p>
+        <p>Sanglots délicieux et pour nous pleins de charmes !</p>
+        <p>A peindre l'univers bien lugubre, bien noir;</p>
+        <p>Car toute poésie est dans le désespoir.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ENCORE UN MOT. i5</p>
+        <p>Affranchis pour jamais de vos formes craintives, Nous puisons seulement aux sources primitives, Et ce Racine enfin, si fameux parmi vous, S'il vivait de nos jours écrirait comme nous. Ainsi, las d'insulter de votre main pigmée Le temple aérien de notre renommée, Cessez, il en est temps, de stériles efforts ; Marchez sous nos drapeaux pour expier vos torts, Ou le public, témoin de votre frénésie, Pourra vous soupçonner d'un peu de jalousie.</p>
+        <p>■— Quels argumens ! d'honneur j'en suis intimidé; DUPIN et MÉRILHOU jamais n'ont mieux plaidé,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>iG ENCORE UN MOT.</p>
+        <p>Et VILLEMAIN lui-même, en son cours d'éloquence,</p>
+        <p>N'improvisa jamais avec plus d'abondance.</p>
+        <p>Sans doute je devrais me tenir pour battu;</p>
+        <p>Mais comme ce joueur, qui, revêche et têtu,</p>
+        <p>A l'Écarté maudit implore la ressource</p>
+        <p>Du seul écu peuplant le désert de sa bourse,</p>
+        <p>Je persiste ; et pourtant, je déclare d'abord</p>
+        <p>Que sur un point ou deux je suis de votre bord.</p>
+        <p>Loin des chemins frayés son audace l'entraîne ;</p>
+        <p>Le projet est fort beau : de la littérature</p>
+        <p>Le champ peut s'engraisser par une autre culture,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ENCORE UN MOT. 17</p>
+        <p>Et nous donner des fruits qui flattent les gourmets, Et stimulent leur goût blasé sur de vieux mets. Vous ne me verrez point, proscrivant la magie, Absurde champion de la mythologie,</p>
+        <p>De l'Olympe vieilli regretter le nectar,</p>
+        <p>Ni l'Aurore qui monte en son humide char,</p>
+        <p>Ni tous ces lieux communs que l'on crut des merveilles.</p>
+        <p>Les pavots ont de Flore envahi les corbeilles,</p>
+        <p>Et Pomone aux yeux noirs, et Cypris aux yeux bleus,</p>
+        <p>Ne nous présentent plus rien de miraculeux.</p>
+        <p>Aux déesses de l'air, aux amoureuses fées,</p>
+        <p>Consacrez, je le veux, des palmes, des trophées ;</p>
+        <p>Aux rayons de la lune éclairant un ciel pur,</p>
+        <p>Que le Sylphe, ombrageasses atfè^^'azur,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>18 ENCORE UN MOT.</p>
+        <p>Visite vers minuit la vierge qui sommeille;</p>
+        <p>Et lui montre de loin, dans un prisme enchanté,</p>
+        <p>L'amant qui doit un jour conquérir sa beauté.</p>
+        <p>Que votre Merveilleux, puisé dans la nature,</p>
+        <p>D'un beau ciel poétique étende l'horizon,</p>
+        <p>Flatte ensemble le goût, l'oreille, la raison,</p>
+        <p>Et jusque dans notre âme, et séduite et touchée,</p>
+        <p>Avec discernement soyez neufs et hardis,</p>
+        <p>A tout cela, messieurs, le premier j'applaudis :</p>
+        <p>Parcourez les manoirs, fouillez dans leurs décombres ;</p>
+        <p>De nos bons paladins ressuscitez les ombres ;</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ENCORE UN MOT. 19</p>
+        <p>
+          <pb/>
+        </p>
+        <p>do ENCORE UN MOT.</p>
+        <p>N'oubliez donc jamais que, chaste par essence, Sa force est la pudeur, son lustre l'innocence; Que tout poëte épris de ses charmes sacrés, Avec un saint respect, de ses chants épurés Au pied de ses autels doit apporter l'hommage, Et des fleurs de l'Éden couronner son image.</p>
+        <p>Mais voulez-vous enfin soumettre vos rivaux? Soit que vous abordiez quelques sujets nouveaux; Soit qu'osant affronter nos Parques littéraires, Melpomène ou Thalie obtiennent votre encens, Respectez avant tout la langue et le bon sens :</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ENCORE UN MOT. 21</p>
+        <p>Le bon sens, par qui seul les plus fameux ouvrages</p>
+        <p>Des THIESSÉ de leur temps ont bravé les outrages ;</p>
+        <p>La langue, sans laquelle il n'est point d'écrivain.</p>
+        <p>Pour vous justifier, vous me dites en vain</p>
+        <p>Que son superbe orgueil ne veut que des esclaves;</p>
+        <p>C'est la calomnier : libre dans ses entraves,</p>
+        <p>Le Génie, étendant son vol audacieux,</p>
+        <p>Avec elle s'élève et plane dans les cieux :</p>
+        <p>Est-il un son divin qu'elle ne fasse entendre?</p>
+        <p>Abondante, flexible, harmonieuse, tendre,</p>
+        <p>Y parvenir sans doute est chose peu facile.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>22 ENCORE UN MOT.</p>
+        <p>Sur nos fronts printaniers se courbe d'elle-même</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ENCORE UN MOT. 23</p>
+        <p>
+          <pb/>
+        </p>
+        <p>;?4 ENCORE UN MOT.</p>
+        <p>Mais je suis, pour ma part, de la sorte bâti.</p>
+        <p>Je vois avec douleur votre chef, averti</p>
+        <p>Par trois grandes leçons qui devaient mieux l'instruire,</p>
+        <p>Dans le gouffre d'oubli sans remords vous conduire;</p>
+        <p>Je vois, par votre faute, et pour vous j'en frémis,</p>
+        <p>Vos projets conquérans chaque jour compromis.</p>
+        <p>Eussiez-vous pour appuis les TROGNONS des deux sphères,</p>
+        <p>Vous vous tairez bientôt, charlatans somnifères,</p>
+        <p>Et dans les magasins iront pourir en tas</p>
+        <p>Vos drogues, qu'eût rougi de vendre Dubartas.</p>
+        <p>Mais HUGO, furieux, m'accuse d'ineptie</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ENCORE UN MOT. a5</p>
+        <p>En faveur d'un Gascon, foetus académique, On n'engagera point de lutte polémique. Quel journal sur mon sort, voudrait s'apitoyer ? Je n'ai point le Commerce, hélas ! et le Courrier Pourra-t-il digérer, dans sa haine profonde,</p>
+        <p>Mon poëme ascétique en ma Fête du monde</p>
+        <p>
+          <pb/>
+        </p>
+        <p>26</p>
+        <p>ENCORE UN MOT.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>HQTB&amp;</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>SI*".</p>
+        <p>Quel démon biscornu me soufflant la manie De ne point admirer les fautes du génie, etc.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>3o NOTES.</p>
+        <p>Et moi, que le Mercure , avec hilarité, Inhume tout vivant, de son autorité, etc.</p>
+        <p>On a publié dans le Mercure, sous le titre de Premier Sabbat, un article fort ingénieux, où l'on déclare que les jeunes auteurs me tiennent pour mort et pour remort, et le tout sans remords.</p>
+        <p>Dites? nepouvez-vous, en repoussant mes traits , Me faire au moins l'honneur de signer vos extraits ?</p>
+        <p>C'est dans l'intérêt même de mes adversaires, que je leur donne ce conseil. A quoi bon se couvrir ainsi du voile de l'anonyme? Traiter un écrivain de Gascon, d'aligneur de syllabes, de niais, d'oie, de sot, etc., n'est-ce pas déployer un esprit fertile en excellentes plaisanteries? Pourquoi donc ne pas les avouer hautement et se dérober à sa gloire?</p>
+        <p>Ai-je nommé Gaspard, «te.</p>
+        <p>Je pense que ce prénom désigne suffisamment le plus célèbre de mes critiques.</p>
+        <p>On dit qu'en un contrat sur parchemin gothique, Rédigé par Lefèvre, et par Deschamps relu, etc.</p>
+        <p>M. Emile Deschamps est l'un des plus chauds partisans des romantiques; et par une inconcevable contradiction , il n'écrit rien que ne puisse avouer le goût le plus sévère et le ;lus délicat. Ne pourrait-on pas en conclure que M. Deschamps, d'une humeur spirituelle et gaie, se moque un peu de ses bons amis</p>
+        <p>
+          <pb/>
+        </p>
+        <p>5i</p>
+        <p>Soit qu'osant affronter nos parques littéraires , etc.</p>
+        <p>Il est possible qu'un de nos poètes romantiques ait lu le dictionnaire de la fable. En ce cas , il peut me faire observer que l'antiquité ne connaissait que trois parques. L'observation ne manque ni de profondeur, ni de vérité. Mais ne peut-on pas supposer que des parques du second ordre aidaient les premières dans leur vilaine besogne ?</p>
+        <p>Je n'ai point le Commerce , hélas ! et le Courrier , etc.</p>
+        <p>Dût. Charles Rémusat, avec son drame noir, etc.</p>
+        <p>Tout le monde connaît ou doit connaître une tragédie en prose</p>
+        <p>nègre, composée par M. Rémusai&lt;-eriT»-4?ar lui dans plusieurs</p>
+        <p>, p7w r 7x</p>
+        <p>salons. /VV. v ' .' ' '/A.</p>
+        <p>FIN nife"'NO&lt;rS5;;.ffi</p>
+      </div>
     </body>
   </text>
 </TEI>

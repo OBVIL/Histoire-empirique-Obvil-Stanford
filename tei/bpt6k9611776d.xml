@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
- <teiHeader>
-<fileDesc>
-<titleStmt>
-<author key="Beaunier, André (1869-1925)">André Beaunier</author>
-<title>Figures d'autrefois : pèlerins de Venise, humanistes dévots, Jean de La Fontaine, un financier sous la monarchie, le frère de Diderot, Adélaïde Dufrenoy, les tribulations de M. de Murville, Némorin qui chante la "Carmagnole", un conventionnel en mission, la comtesse d'Albany, trois amis de Mme de Staël, les costumes de M. de Chateaubriand / André Beaunier</title>
-</titleStmt>
-<editionStmt>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Figures d'autrefois : pèlerins de Venise, humanistes dévots, Jean de La Fontaine, un financier sous la monarchie, le frère de Diderot, Adélaïde Dufrenoy, les tribulations de M. de Murville, Némorin qui chante la “Carmagnole”, un conventionnel en mission, la comtesse d'Albany, trois amis de Mme de Staël, les costumes de M. de Chateaubriand / André Beaunier</title>
+        <author key="Beaunier, André (1869-1925)">André Beaunier</author>
+      </titleStmt>
+      <editionStmt>
         <edition>OBVIL/BNF</edition>
         <respStmt>
           <resp>reprise des textes</resp>
           <name>Amélie Canu</name>
         </respStmt>
       </editionStmt>
-<publicationStmt>
+      <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
         <availability status="restricted">
@@ -22,1364 +22,1388 @@
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
-<sourceDesc>
-<bibl>
-<author>Beaunier, André (1869-1925)</author>, <title>Figures d'autrefois : pèlerins de Venise, humanistes dévots, Jean de La Fontaine, un financier sous la monarchie, le frère de Diderot, Adélaïde Dufrenoy, les tribulations de M. de Murville, Némorin qui chante la "Carmagnole", un conventionnel en mission, la comtesse d'Albany, trois amis de Mme de Staël, les costumes de M. de Chateaubriand / André Beaunier</title>, <date>1917</date>,description :,318 pages
-</bibl>
-<publisher>Nouvelle librairie nationale (Paris)</publisher>
-<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k9611776d</idno>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1917">1917</date>
-</creation>
-<langUsage>
-<language ident="fr"/>
-</langUsage>
-</profileDesc>
- </teiHeader>
+      <sourceDesc>
+        <bibl> <author>Beaunier, André (1869-1925)</author>, <title>Figures d'autrefois : pèlerins de Venise, humanistes dévots, Jean de La Fontaine, un financier sous la monarchie, le frère de Diderot, Adélaïde Dufrenoy, les tribulations de M. de Murville, Némorin qui chante la "Carmagnole", un conventionnel en mission, la comtesse d'Albany, trois amis de Mme de Staël, les costumes de M. de Chateaubriand / André Beaunier</title>, <date>1917</date>,description :,318 pages </bibl>
+        <publisher>Nouvelle librairie nationale (Paris)</publisher>
+        <idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k9611776d</idno>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1917">1917</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-    <div>
-<p>ANDRÉ BEAUNIER</p>
-<p>FIGURES D'AUTREFOIS</p>
-<p>PÈLERINS DE VENISE — HUMANISTES DÉVOTS</p>
-<p>JEAN DE LA FONTAINE — UN FINANCIER SOUS LA MONARCHIE</p>
-<p>LE FRÈRE DE DIDEROT — ADELAÏDE DUFRENOY</p>
-<p>LES TRIBULATIONS DE M. DE MURVILLE</p>
-<p>NÉMOR1N QUI CHANTE LA CARMAGNOLE — UN CONVENTIONNEL EN MISSION</p>
-<p>LA COMTESSE D'ALBANY — TROIS AMIS DE Mme DE STAËL</p>
-<p>LES COSTUMES DE M. DE CHATEAUBRIAND</p>
-<p>NOUVELLE LIBRAIRIE NATIONALE</p>
-<p>II, RUE DE MÉDICIS, PARIS</p>
-<p>M C M X VII</p>
-<p><pb/>
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-------------------------------------------------------------------------</p>
-<p>FIGURES D'AUTREFOIS</p>
-<p><pb/></p>
-<p>DU MÊME AUTEUR :</p>
-<p>Les Dupont-Le terrier, roman (1900) .. 1 volume Notes sur la Russie
-(1901)...... - Bonshommes de Paris (1902) — La Poésie nouvelle (1902) —
-Les Trois Legrand, roman (1903) ... — Picrate et Siméon, roman (1904)
-... — Le Roi Tobol, roman (1905) — Les Souvenirs d'un peintre (1906) ...
-— L'Art de regarder les tahleaux (1906).. — Eloges (1909) ......... —
-Contre la réforme de l'orthographe (1909). * — La Fille de Polichinelle,
-roman (1909) . — Trois Amies de Chateaubriand (1910).. — Les Limites du
-cœur, comédie (1910) .. — Visages d'hier et d'aujourd'hui (1911). -. —
-Le Sourire d'Athéna (1911) ..... — L'Homme qui a perdu son moi, roman</p>
-<p>(1911) — Les plus Détestables Bonshommes (1912). — Chateaubriand (1912)
-2 volumes La Grèce et nous (1912) 1 brochure La Crise, comédie (en
-collaboration avec</p>
-<p>Paul Bourget) (1912) 1 volume</p>
-<p>Visages de femmes (1913) — La Révolte, roman (1914) — * Les Sur boches
-(1915) 1 brochure Les Idées et les Hommes, trois séries (1913-</p>
-<p>1916) ........... 3 volumes</p>
-<p><pb/></p>
-<p>ANDRÉ BEAUNIER</p>
-<p>FIGURES D'AUTREFOIS</p>
-<p>PÈLERINS DE VENISE. HUMANISTES DÉVOTS</p>
-<p>JEAN DE LA FONTAINE. UN FINANCIER SOUS LA MONARCHIE</p>
-<p>LE FRÈRE DE DIDEROT. ADÉLAÏDE DUFRENOY</p>
-<p>LES TRIBULATIONS DE M. DE MUR VILLE</p>
-<p>NÉMORIN QUI CHANTE LA « CARMAGNOLE »</p>
-<p>UN CONVENTIONNEL EN MISSION. LA COMTESSE D'ALBANY</p>
-<p>TROIS AMIS DE M"" DE STAEL</p>
-<p>LES COSTUMES DE M. DE CHATEAUBRIAND</p>
-<p>NOUVELLE LIBRAIRIE NATIONALE</p>
-<p>11, RUE DE MÉDICIS, PARIS</p>
-<p>MCMXVII</p>
-<p><pb/></p>
-<p>Il a été tiré de cet ouvrage</p>
-<p>Tous droits de reproduction et de traduction réservés pour tous pays.</p>
-<p>Copyright 1917, by Société française d'Édition et de Librairie,
-proprietor of Nouvelle Librairie Nationale.</p>
-<p><pb/></p>
-<p>FIGURES D'AUTREFOIS</p>
-<p>PÈLERINS DE VENISE</p>
-<p><pb/></p>
-<p>Bref, l'aïeul des romantiques n'a pas inventé le thème vénitien. C'est,
-dit Lemaître, qu'il était, dans l'art de la description, un précurseur
-ou un primitif : il n'avait pas eu le temps « de raffiner et</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>être de Pagello. N'oublions pas ce Pagello, sans qui n'aurait pas eu
-toute sa furie langoureuse une histoire d'amour indispensable aux
-attraits de Venise.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>allait s'emparer de Florence, de Rome et de Naples. Cependant, la
-Seigneurie, tout en fêtant Commynes très bien, préparait la
-confédération de l'Italie contre les étrangers. Commynes s'efforçait
-d'empêcher cet arrangement : et le doge, un matin, lui annonça que
-toutes conventions étaient signées, de la nuit même. « J'avais le cœur
-serré », écrit Commynes. Le soir, pour célébrer l'entente des Italiens,
-Venise fut illuminée : et Commynes se dissimula dans une gondole
-couverte qui le promena seul et invisible dans les clartés, les musiques
-et la gaieté nocturne de Venise.</p>
-<p>Les guerres d'Italie multiplièrent les relations dè la France et de la
-République, et rendirent ces relations charmantes quelquefois, et
-quelquefois très mauvaises : l'opinion de nos écrivains, sur la reine de
-l'Adriatique, subit les péripéties des événements. Venise a dès lors
-chez nous, et pendant tout le xvr siècle, des partisans chaleureux et
-plusieurs ennemis.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Vogue, garçon, ô vaillant barquerolle,</p>
-<p>Étends tes bras, voûte-toi, tire bien,</p>
-<p>Fais-moi voler d'un vol pégasien</p>
-<p>Par ce canal ta légère gondole.</p>
-<p><pb/></p>
-<p>Il m'est avis qu'au paradis je vole.</p>
-<p>Passe au Realte, au canal Cyprien,</p>
-<p>A Calespurge ; ici, garçon, retien</p>
-<p>Ferme au tréguet : voici la Casidole.</p>
-<p>Ha ! c'est ici que je dois apaiser</p>
-<p>Tous mes ennuis et où je dois baiser</p>
-<p>A mon plaisir ma douce Philomide.</p>
-<p>Mon cher espoir, le voulez-vous pas bien ? Mon œil, mon cœur, mon tout,
-mon miel, mon bien, Sus, entrons donc au paradis de Gnide 1</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Trouve toujours ne sçay quelle douceur * En son pays, qui ne lui veut
-permettre</p>
-<p>De le pouvoir en oubliance mettre.</p>
-<p><pb/></p>
-<p>Dont il s'ensuit qu'ils n'élèvent leurs yeux</p>
-<p>Plus haut ni loin que les terrestres lieux</p>
-<p>Et que jamais espoir ne les convie</p>
-<p>Au grand festin de l'éternelle vie...</p>
-<p>Quand il fuyait la fureur serpentine</p>
-<p>Des ennemis de la belle Christine...</p>
-<p><pb/></p>
-<p>Quand il fuyait la fureur et les ruses &gt;</p>
-<p>Des ennemis d'Apollo et des muses.</p>
-<p><pb/></p>
-<p>HUMANISTES DÉVOTS</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>admirable. Un Louis Richeome, un EtieDne Binet, un Jean-Pierre Camus
-n'ont pas leurs pareils, pour notre louable divertissement.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>•</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>L'amusement d'écrire,. Louis Richeome le pratique avec bonheur et avec
-une exquise adresse. Il avait composé une règle du jeu, ou rhétorique.
-Et, un jour, un jeune jésuite la lui demanda. Mais Richeome la refusa ;
-et il a détruit sa rhétorique, non qu'il fût jaloux de son secret
-charmant : iI-</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Eh ! la violence de Binet, ne l'a-t-on pas senti, c'est bonne humeur.
-Ses cris de « canailles » et « soldats d'enfer », gaieté. La vivacité de
-ses réprimandes, le tapage de ses mots et les gros mots qu'il ne ménage
-pas, jovialité. Il avait un singulier visage, tout maigre et aux traits
-marqués forte-</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>1</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Que de liberté, que de franchise heureuse attestent Louis Richeome,
-Etienne Binet et Camus 1 Comme ils ne sont ni guindés, ni farouches 1 et
-comme leur dévotion, parfaitement sincère, ne les gêne pas du tout! Leur
-croyance ne les opprime pas et n'accable ni leur méditation, ni leur
-gaieté. Comme ils sont variés, riches de mots, de pensée et d'audace !
-Richesse et variété que bientôt réglera la discipline du grand siècle :
-belle discipline, sur tant d'opulence.</p>
-<p><pb/></p>
-<p>JEAN DE LA FONTAINE</p>
-<p><pb/></p>
-<p>grande difficulté qu'il se pouvait ». Le désordre des Allemagnes
-garantissait le salut de l'Europe ; et la France n'était pas menacée.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>fait, les bocages d'automne, dévastés par le vent, qui chasse</p>
-<p>Tu m'as donné pour aide au fort de la tourmente Une compagne sainte, il
-est vrai, mais charmante... ?</p>
-<p>Je vous ai fait récit quelquefois de ces heures</p>
-<p>Qu'en des lieux séparés de tout profane abord</p>
-<p>Alors, j'avais pitié des heureux de ce monde, Maintenant j'ai perdu
-cette paix si profonde ;</p>
-<p>Mon cœur est agité...</p>
-<p>C'est en 1673 que parut, chez Claude Barbin, le Poème de la Captivité de
-saint Malc. La Fontaine avait cinquante-deux ans ; et il n'était pas au
-bout</p>
-<p><pb/></p>
-<p>Avec l'idée de ces deux vers si jolis, La Fontaine aurait pu faire tout
-un conte, une comédie, un</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Les contemporains de La Fontaine semblent</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Je voudrais bien le voir aussi,</p>
-<p>Dans ces charmants détours que votre parc enserre,</p>
-<p>Parler de paix, parler de guerre,</p>
-<p>Parler de vers, de vin et d'amoureux souci, » Former d'un vain projet le
-plan imaginaire,</p>
-<p>Changer en cent façons l'ordre de l'univers ;</p>
-<p>Sans douter, proposer mille doutes divers ;</p>
-<p>M ais pour varier son ennui.</p>
-<p><pb/></p>
-<p>Dans le conte des Filles de Minée, La Fontaine s'écrie : « Je veux des
-passions 1 » S'il ne voulait pas de passions, il croirait que les morts
-sont heureux. Entre la vie morne d'un « cœur froid » et le néant, il ne
-fait pas de différence.</p>
-<p>La sensibilité de La Fontaine, telle qu'on la voit dans sa poésie, et
-non dans la légende, mais dans la vérité de son personnage, lui est
-extrêmement particulière ; et elle étonne chez un écrivain de son ^
-temps. Je ne dis pas que le XVIIe siècle ne soit que raison, comme les
-faiseurs de systèmes historiques ne découvrent aussi, dans la
-Renaissance, que la luxure et ses prouesses. Le XVIIe siècle aurait
-inventé la raison, qui dompte la sensibilité, l'opprime, la supprime ?
-Niaiseries ! et ni Ronsard n'est dénué</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>x</p>
-<p>Si j'étais sage, Iris... Mais c'est un privilège</p>
-<p><pb/></p>
-<p>Si la vie est peu importante, elle admet la « plaisanterie », d'où
-résulte quelque tristesse et qu'il faut égayer. La volupté est un secours.</p>
-<p>Volupté, volupté, qui fus jadis maîtresse</p>
-<p>Du plus bel esprit de la Grèce,</p>
-<p>Ne me dédaigne pas, viens-t'en loger chez moi.</p>
-<p>Tu n'y seras pas sans emploi.</p>
-<p>J'aime le jeu, l'amour, les livres, la musique,</p>
-<p>La ville et la campagne, enfin tout : il n'est rien</p>
-<p>Qui ne me soit souverain bien,</p>
-<p>Jusqu'au sombre plaisir d'un cœur mélancolique.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>UN FINANCIER SOUS LA MONARCHIE</p>
-<p><pb/></p>
-<p>Mme la duchesse de Clermont-Tonnerre vient de lui consacrer un livre qui
-n'est ni sans défauts, ni sans attrait.</p>
-<p><pb/></p>
-<p>Le calque, le mortier, la barrette, la mitre</p>
-<p>A la félicité nfapportent aucun titre,</p>
-<p>Et ce Bernard qu'on vante est heureux en effet, Non par le bien qu'il a,
-mais par le bien qu'il fait.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>malheur des huguenots, ses coreligionnaires du moment, Samuel Bernard
-n'était qu'un marchand comme un autre : marchand drapier. Son commerce
-comportait la marchandise de mercerie, drap d'or et d'argent, soie et
-joaillerie ; il tenait boutique ouverte, magasin, tapis sur rue, dans la
-paroisse de Saint-Leu et Saint-Gilles, rue du Bourg-l'Abbé. Il avait
-épousé, dans un monde pareil au sien,</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Un soir qu'on devisait de la Régence et du Système, chez Mmo la duchesse
-de Tallard, fille de M. le duc de Rohan, prince de Soubise, et qui fut
-nommée gouvernante des Enfants de France après Mm. de Ventadour, voici
-ce qu'elle raconta. Le duc de Noailles avait, dans un moment très
-difficile, la</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Elles avaient plumé M. Bernard, un peu hardiment. A quelques années de
-là, Mwo de Tallard ne refuse pas d'en rire encore ; mais elle avoue que
-cette histoire est un peu « extraordinaire ». Seulement, si l'on feint
-la surprise et l'on prend l'air scandalisé, elle raconte la réponse que
-fit la Reine au maréchal de Lamothe. La Reine, oui 1 la reine</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>LE FRÈRE DE DIDEROT</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Les deux frères ne se virent pas beaucoup, l'abbé ne quittant guère sa
-paroisse et le philosophe ne venant guère au pays natal. Mais, en 1759,
-ils perdirent leur père. Le coutelier mourut d'une hydropisie de
-poitrine, le 3 juin, jour de la</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Et, l'année suivante, il avait médité là-dessus.</p>
-<p><pb/></p>
-<p>L'abbé Diderot venait d'être nommé promoteur général : c'est-à-dire
-qu'il remplissait, auprès du tribunal de l'évêque, le rôle du ministère
-public ; il garda ces fonctions trois ans. En 1767, il fut nommé
-chanoine de Saint-Mammès. Grand honneur. Les chanoines de Saint-Mammès
-signaient « chanoine de l'Eglise de Langres ». Ce chapitre se
-distinguait par son antiquité, par le nombre des personnages éminents
-dont il se vantait, par ses privilèges et par le chiffre élevé de ses
-prébendes.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>En 1784, le 20 juillet, il perdit son frère, le philosophe. Le dernier
-mot que prononça Denis Dide- rot, le voici : « Le premier pas vers la
-philosophie, c'est l'incrédulité. »</p>
-<p>Pendant un an, Didier-Pierre Diderot dit chaque matin sa messe à
-l'intention de son frère. Et, quand il sut que son frère était mort, sa
-première pensée fut pour les écrits que le philosophe devait laisser</p>
-<p><pb/></p>
-<p>Du reste, M. le chanoine Marcel note que les papiers de Diderot ne
-furent expédiés en Russie que l'année suivante. Ces papiers étaient à
-Paris en 1784 ; et le chanoine, probablement, n'attendit pas des mois
-avant de les demander. On se moqua de lui.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Saint-Roch. Mais, au milieu du siècle dernier, un calorifère occupait le
-caveau.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>ADÉLAÏDE DUFRENOY</p>
-<p>Veille, ma lampe, veille encore,</p>
-<p>Je lis les vers de Dufrenoy.</p>
-<p>Il insiste, car c'est le refrain de sa chanson. A l'aube, il continue de
-lire ; et sa lampe s'éteint, mais le jour paraît.</p>
-<p>Depuis lors, je crois qu'on n'a pas lu beaucoup les vers de Mme
-Dufrenoy. On ne les lit plus ; et l'on a tort : ils sont jolis. Sous
-l'Empire et .la Restauration, les Opuscules poétiques, les Elégies
-suivies de poésies diverses et enfin les OEuvres poétiques de Mme
-Dufrenoy n'eurent pas moins de quatre éditions différentes en vingt ans.
-La poétesse fut célèbre ; les contemporains parlent de sa gloire.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Vous l'emportez, Zélis, et je perds pour jamais L'amant qui fut touché
-de mes faibles attraits....</p>
-<p>Zélis n'est pas la maîtresse de M. Dufrenoy et ce n'est pas le procureur
-au Châtelet qui a excité cette jalousie. Qui est-ce ?...</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Elle n'oubliera plus ce charmeur :</p>
-<p>Je dois te cacher mon amour,</p>
-<p>Mais je le chanterai sans cesse.</p>
-<p><pb/></p>
-<p>yeux. Fuyons 1 Et elle gagne la « rétraite enchanteresse, séjour au
-bonheur consacré », où leur usage est de se retrouver loin des
-importuns. Elle lui apporte des fleurs :</p>
-<p>Viens, un nouveau triomphe ici t'est destiné.</p>
-<p>Viens, et partage mon ivresse.</p>
-<p>Viens, G'est surtout par sa maîtresse</p>
-<p>Qu'il est doux d'être couronné !...</p>
-<p>Si l'on dit que c'est ridiculement donner de l'importance aux lauriers
-académiques, non : et son puéril empressement, qui enchantait
-Fontanes,est délicieux ; comme aussi elle se sauve bien, contente d'un
-tel succès, un peu jalouse de ces femmes qui lui admirent son amant, un
-peu effarouchée et touchée de quelque pudeur timide jusqu'au moment
-d'être seule avec lui !...</p>
-<p><pb/></p>
-<p>fort vifs », parla d'Eléonore ; mais « il n'avait pas de douceur dans la
-conversation ». Joubert n'était pas là.</p>
-<p>Ah 1 Fontanes, mauvais amant !... Jaloux et volage : avec sa jalousie,
-il croit prendre les devants sur la jalousie que sa légèreté fera
-naître. Et l'amoureuse s'est juré de ne l'aimer plus...</p>
-<p>Son cœur peut-être a su m'entendre, Peut-être que ce soir l'entretien
-sera tendre...</p>
-<p>Elle se souvient des tremblants préludes de cet amour : elle souffrait
-en l'absence du bien-aimé ; en sa présence, elle souffrait davantage. Le
-plaisir et le danger de le voir la torturaient et elle se faisait, dans
-un seul jour, humble, fière, coquette, tendre. Elle connut son mal et
-redouta d'être guérie. Elmandre la trahira, la punira de sa faiblesse :
-elle ne peut s'en repentir.</p>
-<p>Elmandre l'a trahie. Ah ! qu'il cesse de la troubler, l'artificieux !
-Sous le nom d'amitié, qu'il n'éveille plus l'amour en elle ! Non, ce
-n'est pas de l'amitié : veuille-t-il ne plus la décevoir.</p>
-<p><pb/></p>
-<p>Non, l'amitié n'a point, n'ose plus me le dire,</p>
-<p>Ce trouble, ces transports, cet inquiet bonheur ; Ses chastes voluptés
-n'ont jamais le délire...</p>
-<p>Ah ! tremble d'allumer une flamme imprudente : Mon cœur contre l'amour
-n'est que mal affermi ;</p>
-<p>Ne fais pas de moi ton amante,</p>
-<p>Si tu n'es pour moi qu'un ami.</p>
-<p>Qui lui font haïr le matin</p>
-<p>Ce qui le soir fait ses délices.</p>
-<p><pb/></p>
-<p>suivants et précédents les deux rimes, elle a remplacé vaurien par lutin
-; mais notons l'air vaurien du jeune Fontanes séduisant : notons surtout
-la familiarité gaie et triste du badinage. Elle aime tout de son amant...</p>
-<p>Et, s'il pouvait changer un jour,</p>
-<p>Il me ferait, je crois, lui pardonner l'amour</p>
-<p>Qu'il sentirait pour ma rivale.</p>
-<p>D'imposants souvenirs, des mânes révérés</p>
-<p>M'y défendent contre lui-même.</p>
-<p>Il revient. Elle écrivait un poème : une main lui cache la page
-commencée. C'est lui 1 Et il sourit avec malice ; il ne lui permet plus
-d'être une femme de lettres. Un instant, elle souffre dans sa fierté ;
-mais, « ô pouvoir d'une caresse ! » elle abandonne sans regret son
-poème. Le tyran ! Que faire ? Seule, l'amante du poète épuise &lt;&lt; des
-voluptés l'ivresse ».</p>
-<p>Seulement, il la trompe... On le dit...</p>
-<p>S'il est vrai que tu sois coupable,</p>
-<p>Par pitié, trompe-moi toujours.</p>
-<p><pb/></p>
-<p>D'une semaine, elle ne l'a pas vu... L'on chuchote... Ah ! qu'on se taise :</p>
-<p>Je peux lui pardonner les tourments que j'endure, Non pardonner le mal
-qu'on me dirait de lui.</p>
-<p>Il vient. Cette fois, il est trop gentil 1...</p>
-<p>Ce matin, pendant mon sommeil,</p>
-<p>Tu m'apportas les fleurs que j'aime ;</p>
-<p>Tu venais, disais-tu, de les cueillir toi-même</p>
-<p>Et, pour me les offrir, tu pressas mon réveil.</p>
-<p>Ce tendre soin devait me plaire,</p>
-<p>Mais il ne t'est pas ordinaire ;</p>
-<p>Mais tu l'accompagnas des serments les plus doux... Tu paraissais
-m'aimer d'une nouvelle ardeur ; Cependant, j'éprouvais une vague
-tristesse...</p>
-<p>Et ta voluptueuse ivresse</p>
-<p>Ne me donnait plus le bonheur.</p>
-<p>Souvent même, par intervalles,</p>
-<p>Tes transports plus pressants m'inspiraient quelque [effroi I</p>
-<p>Près de m'abandonner, sais-tu du moins me plaindre ? Ou, semblable aux
-flambeaux qui remplacent le jour,</p>
-<p>Voit-on la flamme de l'amour</p>
-<p>Briller plus éclatante au moment de s'éteindre ?...</p>
-<p>Il me semble que ce poème est admirable ; et que, dans les romans où les
-inquiétudes de l'amour sont analysées le plus exactement et avec le plus
-d'impitoyable netteté, dans Adolphe ou dans Fanny, je suppose,
-l'écrivain n'obtient pas des mots les</p>
-<p><pb/></p>
-<p>Dupée longtemps, l'amoureuse a enfin dû savoir que, pour une poétesse
-moins jeune et moins belle, le perfide l'a dédaignée. Cette rivale, je
-me figure que ce fut, un instant, Fanny de Beauharnais. Alors, Adélaïde
-voit revenir les doux anniversaires, doux autrefois, atroces maintenant :</p>
-<p>... Je vous aime ; et vous ne m'aimez plus !</p>
-<p>Dans son dépit, la délaissée invoque la raison ; le temps lui adoucit
-ses maux...</p>
-<p>Je ne regrette plus l'amant qui m'a trahie ;</p>
-<p>Je regrette encor mon amour.</p>
-<p>Elle regrette aussi l'amant. Car, plutôt que de le perdre absolument,
-elle lui offre encore la tentative d'une amitié...</p>
-<p>Je t'aimerai mieux qu'une amante !...</p>
-<p><pb/></p>
-<p>Je le sens, pour une âme tendre,</p>
-<p>Un amour malheureux est encore un bonheur.</p>
-<p>Pour excuser votre nouveau lien,</p>
-<p>Je vous dirai qu'un autre amour m'engage ;</p>
-<p>Je le dirai : mais, vous, n'en croyez rien !...</p>
-<p>Adélaïde Dufrenoy, dès avant d'aimer, projeta d'égaler Parny : ne
-l'a-t-elle point dépassé ? Son idée était une ingénieuse idée littéraire
-: composer les élégies d'une femme ; avec moins de « passion »,
-disait-elle, les femmes ont plus de tendresse. Elle aima et elle eut la
-tendresse et la passion, mais, dans la passion comme dans la tendresse,
-une finesse de douleur qui est bien féminine. Elle a écrit plus d'un
-chef-d'œuvre tel que, malgré le tour un peu suranné, les accents du cœur
-y sont</p>
-<p><pb/></p>
-<p>Pauvre poétesse 1... Quand elle déplorait en jolis vers les infidélités
-de Fontanes, elle ne savait pas que d'autres malheurs l'attendaient et
-n'étaient pas loin : d'autres malheurs, et non de qualité poétique ou
-élégiaque ; de ces malheurs qui, sans amuser votre manie de littérature,
-vous dévastent votre existence.</p>
-<p><pb/></p>
-<p>campagne et s'installa, près de Livry, dans le village de Sevran.</p>
-<p>Vous vanterez celle qui sait vous plaire</p>
-<p>Sans que mon cœur en paraisse jaloux ;</p>
-<p>Je la verrai sans montrer de colère.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Fut-ce pour gagner quelque argent? Mon Dieu, oui ; et sans doute aussi
-pour recueillir un peu de</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Par un vague désir, vers le monde entraînée,</p>
-<p>Ivre d'un fol encens, je connus un vainqueur...</p>
-<p>Elle sortait du couvent, on se le rappelle...</p>
-<p>Au souverain des cieux et de ma destinée</p>
-<p>Il disputa mon cœur.</p>
-<p>Ce cœur religieux, et timide, et sensible,</p>
-<p>Dans ses vœux combattu, brisa, reprit ses fers. Hélas ! dans cette lutte
-inégale et terrible</p>
-<p>Succombent les plus fiers.</p>
-<p>Alors, elle regretta sa « pieuse indolence » ; elle voulut la
-reconquérir : mais trop tard 1...</p>
-<p>Mes efforts expiraient contre une longue absence</p>
-<p>Ou contre un doux regard.</p>
-<p>Elle eut de l'entrain dans la faute. Ses veines, le sang les brûlait. Un
-feu caché troublait sa raison :</p>
-<p><pb/></p>
-<p>« il égara mes sens ». Elle n'osa plus faire sa prière, touchante pudeur.</p>
-<p>Je me sentais mourir, par l'ennui consumée ;</p>
-<p>Il flatta ma tristesse — et de la renommée</p>
-<p>J'embrassai les hasards !...</p>
-<p>M™" Dufrenoy demeurait dans la rue Bourtibourg, au Marais. Elle avait
-auprès d'elle sa mère, la très vieille M"' Billet, ses enfants et une
-seule servante,</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Cette même année 1814, M"' Dufrenoy eut ce plaisir : l'Académie
-française la couronna — et Soumet le même jour, 5 avril, — pour un poème
-intitulé : les Derniers Moments de Bayard :</p>
-<p><pb/></p>
-<p>Renaissez dans mes chants, nobles mœurs de nos pères ! Honneur, foi,
-loyauté, vertus héréditaires</p>
-<p>Le poème continue ainsi, très longtemps. Il est extrêmement médiocre.
-Mais, pour Adélaïde, quel bonheur !...</p>
-<p>Il s'ouvre enfin pour moi, l'asile des neuf sœurs. L'implacable Vénus
-m'en défendait l'entrée...</p>
-<p>La couronne autrefois pour Sapho préparée.</p>
-<p>Muses, comme elle aussi j'ai vaincu mes rivaux. Succès inattendu,
-délices enivrantes !...</p>
-<p>Elle est contente ! Mais, soudain, la touche un souvenir : le souvenir
-du jour que Fontanes fut couronné...</p>
-<p>Bientôt avec honneur cité,</p>
-<p>Mon nom retentira sous les voûtes savantes</p>
-<p>Où, dans ces temps trop courts de ma félicité,</p>
-<p>Mon âme, moins vaine qu'aimante,</p>
-<p>Dans le volage objet de ma flamme constante,</p>
-<p>D'un triomphe plus cher goûta la volupté.</p>
-<p><pb/></p>
-<p>0 souvenir rempli de charmes,</p>
-<p>Le temps n'a pas détruit ton ascendant vainqueur.</p>
-<p>Tant de souffrances, tant de larmes</p>
-<p>N'ont pu t'effacer de mon cœur.</p>
-<p>Elmandre occupe sa mémoire ; Elmandre qui était Fontanes. Elle le voit,
-« beau d'amour, de jeunesse, de gloire ».</p>
-<p>Y déposer le prix de sa chaste victoire</p>
-<p>Et de ma flamme encore attendre un prix plus doux.</p>
-<p>Charmante fidélité d'un amour ! En 1814, il y a un quart de siècle que
-Fontanes s'est détaché d'Adélaïde ; mais non pas elle de lui. Et elle a
-eu la constance d'aimer toujours le volage devenu étonnamment vaniteux,
-intrigant, triomphant de mille manières, si différent du « vaurien » et
-qui,- très satisfait, disait : « Je ne sais rien de plus agréable qu'un
-ballet bien indécent après un bon dîner », pour résumer sa philosophie,
-de parvenu. Elle le voyait tel qu'autrefois. Elle n'avait pas la
-clairvoyance de Benjamin Constant qui notait, lui : « M. de Fontanes ne
-manque jamais de noblesse dans ses phrases. »</p>
-<p>M. de Fontanes mourut en 1821. Elle lui survécut, Adélaïde, quatre
-années et mourut tristement.</p>
-<p><pb/></p>
-<p>LES TRIBULATIONS DE M. DE MURVILLE</p>
-<p>Premièrement, il a une mine plaisante. Et, qu'il soit laid, peu importe.
-Mais il est gauche ; et, ainsi, toutes ses tentatives semblent
-dérisoires. Son émule, très souvent, ne vaut pas mieux que lui ; et
-l'émule se tire d'affaire : Murville, non.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>A des jours de bonheur des moments de plaisir.</p>
-<p><pb/></p>
-<p>personne de trente ans qui le console savamment, il est triste.</p>
-<p>Une dépense, et en pure perte ! Quelque temps après tout cela, le jeune
-Gruet, élève de l'abbé</p>
-<p><pb/></p>
-<p>Le plaisir de la demi-couronne l'emporta, dans l'esprit du poète, sur
-tous les regrets. Il conçut un grand orgueil et de très folles
-espérances, qu'il résumait ainsi, avec bonne foi :</p>
-<p>Mlle Arnould, qui avait tant d'esprit et qui ne le cachait pas,
-l'entendit un jour ; et elle répliqua :</p>
-<p>— Taisez-vous, cerveau brûlé !...</p>
-<p><pb/></p>
-<p>Ses grâces, ses talents ont illustré son nom.</p>
-<p>Maurice Lecouvreur et Gourville Ninon.</p>
-<p>C'est placer sa belle-mère en compagnie galante.</p>
-<p><pb/></p>
-<p>d'Alexandrine, prenait les gens qu'il rencontrait au Luxembourg. Puis il
-tournait en petites chansons sa disgrâce :</p>
-<p>Folâtrez, amusez-vous ; mais,</p>
-<p>Pour être heureux, n'aimez jamais.</p>
-<p>Pourtant, il aima sans méfiance l'Académie ; elle lui fut une autre
-Alexandrine. En 1778, M. de Mur- ville concourait de nouveau pour le
-prix de poésie. Et il savait que son plus dangereux rival était M.
-Doigni du Ponceau, un tout jeune homme. Il apprit que e jeune homme
-avait inséré dans son poème soixante vers écrits pour lui obligeamment
-par M. de Fontanes. Donc, Murville alla trouver M. de Fontanes ; et il
-n'eut de cesse qu'il obtînt également soixante vers: cela rétablissait
-les chances du concours. Et personne n'eut le prix, ni M. Doigui, ni M.
-de Murville. A peine l'Académie trouva-' t-elle assez bons les vers qui,
-dans les deux poèmes, étaient de M. de Fontanes. C'est Sainte-Beuve qui
-le dit ; et, au surplus, je ne crois pas vraie cette histoire.</p>
-<p><pb/></p>
-<p>Murville ne le lui pardonna point. Murville publia son poème et, plus
-tard, après la mort de La Harpe, le réimprima sous ce titre : Epître à
-Voltaire,pièce qui a remporté le prix de poésie au jugement de
-l'Académie française en 1779. Et, pour expliquer</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>D'ailleurs, il n'était pas au bout des chagrins et des colères que ses
-prétentions académiques lui suscitèrent. Il fut un martyr, et sans les
-palmes.</p>
-<p>Non, M. de Murville n'a pas fini d'être malheureux avec l'Académie, cet
-objet de ses soins cons-</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>ville n'est donc pas au-dessus des cinq cents livres?... L'année
-suivante, 1791, il n'y avait plus de séance solennelle, le jour de la
-Saint-Louis ; il n'y avait plus de jour de la Saint-Louis ; et, encore
-deux ans plus tard, il n'y avait plus d'Académie française : Murville
-était vengé.</p>
-<p>En 1791, Murville pensa prendre sa revanche, avec Abdelazis et Zuleïma,
-qui n-est pas une petite chose, mais une tragédie en cinq actes et en
-vers. Le malveillant La Harpe, rendant compte de la pièce, lui reproche
-d'être fondée sur une ressemblance, comme les Ménechmes de Plaute : or
-c'est là, remarque-t-il, un ressort de comédie, non de</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>La pauvre et maladroite existence de M. de Mur- ville se relève
-soudainement, devient héroïque. Murville a servi aux armées. Gauche,
-myope et le nez chargé de besicles sempiternelles, Murville a été
-capitaine pendant la Révolution et jusqu'au début de FEmpire. Il a fait
-une assez longue carrière militaire.</p>
-<p>Mais on ne s'attend pas que Murville, doué comme il l'est du génie de
-manquer tout ce qu'il entreprend, réussisse mieux auprès de Mars
-qu'auprès des Muses. La gloire des camps lui sera refusée tout de même
-que le poétique triomphe.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>le nommait commandant de place ici ou là, dans un château ou unfort?
-Quelque chose, enfinl... Car il est malheureux.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>misère. L'Armée, comme l'Académie, l'avait déçu. Tout, ici-bas, devait
-le décevoir.</p>
-<p>Il avait alors cinquante-huit ans. Il était pauvre et méritait qu'on le
-plaignît. Mais il était ridicule de plus en plus. Le ridicule de
-Murville aurait pu</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Après cela, que devenir ? Il était fort misérable, quasi malade et sans
-le sou. Il avait raté son existence ; et, pour assurer sa pitance
-quotidienne, il manquait de fougue. Deux personnes ont eu pitié de lui :
-d'abord, M. Legouvé, l'estimable auteur de La Mort d'Abel et du Mérite
-des femmes. M. Legouvé, de dix ans plus jeune que Murville, et qui</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>murmurant entre ses dents : Oh 1 mes enfants, " n'importe quoi ! tout ce
-que vous voudrez ; un bon gros morceau de pain, cela n'y fait rien 1 Et
-il faisait le geste honteux d'un homme qui a faim. » Marceline,
-racontant cela, jouait la scène, la mimait ; « une vraie petite scène
-d'opéra-comique ou de demi-vaudeville en action ». Sainte-Beuve en
-riait, dit-il, et en pleurait.</p>
-<p><pb/></p>
-<p>NÉMORIN</p>
-<p>QUI CHANTE LA « CARMAGNOLE »</p>
-<p><pb/></p>
-<p>Sur ma guitare assez longtemps (his)</p>
-<p>J'ai chanté les tendres amants (bis).</p>
-<p>Chantons la liberté,</p>
-<p>La sainte égalité</p>
-<p>Et le doux nom de frère.</p>
-<p>Soyons unis (bis),</p>
-<p>Et le doux nom de frère.</p>
-<p>Soyons unis,</p>
-<p>Mes amis.</p>
-<p>Soyons unis, mes amis, — comme on chante : « Vive le son du canon L..»
-Il y avait quatre couplets de cette qualité.</p>
-<p><pb/></p>
-<p>\et NérilOtin, par exemple. Les applaudissements de l'assistance
-récompensèrent ce poète imprévu de la Terreur, le ci-devant chevalier de
-Florian.</p>
-<p>Quel homme singulier !... Somme toute, peu admirable.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>faisceau de la République ! » A part lui, cependant, il se demandait si
-le faisceau de la République lui vaudrait jamais les charmants abus de
-l'ancien régime.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Ce Bouquier farouche, qui intervint d'une si dure manière dans les
-tribulations de Floriau, qui est-ce ?</p>
-<p>Il y a deux Bouquier. L'autre, d'un an plus jeune, semble avoir été plus
-sage, un peu toqué pourtant. Sa renommée ne s'étendit pas loin ; il la
-confina dans son Périgord natal. Quand la Révolution organisa. une
-justice nouvelle, Montignac (dans le département de la Dordogne) fut le
-chef-lieu d'un district ; et une autre petite ville, Terrasson, eut les
-tribunaux. Elie- Guillaume Bouquier, natif de Tçr-</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Le Périgord fut, parmi nos provinces, l'une des premières troublées par
-la frénésie commençante et Bouquier ne se laissa point devancer.
-D'abord, il composa maints poèmes prérévolutionnaires, jeux innocents.
-Mais il révéla ses idées. A Terras- son, les gens du Tiers État le
-désignèrent pour rédiger le cahier de leurs doléances, plaintes et
-remontrances. Tout de suite, il eut le style de ces choses : « Il existe
-dans l'Etat une foule d'individus comblés de grâces excessives qu'ils
-n'ont pas méritées et dont ils n'avaient nul besoin. Il existe une foule
-d'ecclésiastiques qui, par leur faste éclatant, insultent chaque jour à
-la misère publique...» Botlquier les montre « mollement étendus sur des
-carreaux de duvet qui tapissent l'intérieur de leurs</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>ris dans mon âme une haine constante pour les rois-, j'avoue que la
-pitié ne peut rien m'inspirer pour eux et qu'ayant sans cesse présent à
-ma mémoire l'horrible tableau des forfaits de cette foule de tigres
-couronnés qui, pendant tant de siècles, ont immolé l'espèce humaine à
-leur voracité, je voterai toujours pour l'anéantissement de leur race
-malfaisante. Un roi n'est, pour un vrai républicain, qu'un monstre
-carnivore qu'il faut étouffer ! » On le voit, Bouquier n'est pas un
-sceptique.</p>
-<p>Penseur, il rédige, en douze articles, le programmè de la perfection
-sociale : 1° Suppression de la théologie ; 2" dans l'éducation publique,
-suppression des sciences vaines : l'on n'enseignera plus</p>
-<p><pb/></p>
-<p>Ne se souvient-il pas de ses amours ?...</p>
-<p>C'est comme l'un des personnages du Comité de l'Instruction publique que
-ce Bouquier des plus</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>- Mais Bouquier ?... Bouquier, c'est exactement le sans-culotte qui se
-repentit.</p>
-<p>Quelque temps après ses pires niaiseries — et après la chute de
-Robespierre, — il appelle, dans ses écrits, Robespierre « un tigre » ou
-encore un</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>-raté, qu'un peintre mànqué. C'est parmi ces pauvres diables que la
-Révolution recruta ses bandes de terroristes : et les terroristes
-avaient peur, atrocement peur.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>UN CONVENTIONNEL EN MISSION</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>des esprits purs, toute histoire nous sera vaine.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Romme et Lakanal furent en bisbille incessante. Le 2 fructidor an II,
-Romme dénonçait Lakanal aux thermidoriens, blâmait toute la politique de
-cet extravagant personnage. Et, plus tard, quand Lakanal aura peut-être
-été pour quelque chose dans l'organisation dè l'Ecole normale, qu'il
-appellera « métropole des connaissances humaines », Romme lui dénigrera
-son école sous le nom de métropole du charlatanisme organisé.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Le jour que Lakanal partait pour la Dordogne, Danton l'exhorta. Et i «
-Tape dur ! » lui disait-il.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Cet affreux bonhomme fut membre du Conseil des Cinq-Cents, jusqu'au 30
-floréal an V. Alors, sa carrière politique est finie. Il devient professeur</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Le Congrès leur accorda des terres et leur dit où les prendre. Ils
-allèrent aux Blanches Falaises et résolurent de fonder une ville, qui
-s'appellerait d'un joli nom, Démopolis. Ils abattirent des arbres,
-tracèrent des rues, bâtirent des cabanes et apprirent que le terrain sur
-lequel ils travaillaient n'était pas celui qu'on leur avait concédé. Ils
-plièrent bagage et commencèrent de fonder une autre cité, qui
-s'appellerait Aigleville : devenait-on, de démocrates, napoléoniens ?
-Cette fois encore, ils s'étaient trompés d'endroit. On eut pitié d'eux
-et on les laissa. Ils plantèrent de la vigne et des oliviers. Mais il y
-eut neuf mois d'inondation, et ensuite de la sécheresse. Les oliviers ne
-poussaient pas; la vigne ne donnait qu'un vin misérable. Découragé,
-Lakanal regagna sa ferme de Kentucky.</p>
-<p>En souvenir de ses idées républicaines, il avait des esclaves et les
-traitait « comme des amis malheureux ». Après maints déboires, il manqua
-d'argent, si bien que, pour s'en procurer, il entra dans une</p>
-<p><pb/></p>
-<p>L'ancien conventionnel qui demande un roi, — mais oui, après avoir été
-fonctionnaire de l'Empire ! — étonne. Dans ce cas-là, on ne manque pas
-d'affirmer qu'au moment même où l'on trahit ses principes — lesquels ? —
-on leur est fidèle mieux que jamais. Et Lakanal : « Nous sommes
-conséquents dans nos principes ; nous ne désirons que</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>collaborateur de Buffon, lui disait : « Vous ne. mourrez qu'ossifié 1 »
-Cette prédiction l'encourageait ; car il se sentait vif et alerte.</p>
-<p><pb/></p>
-<p>LA COMTESSE D'ALBANY</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>visage, Lamartine crut apercevoir le souvenir du charme évanoui.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Après la mort de Charles-Edouard, l'une des plus</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>de la rhubarbe. Mais, une fois, songeant parmi ses drogues, elle se
-trompe de flacon, se tamponne les yeux avec de l'alcali volatil : et
-voici, pendant trois jours, enflés ses yeux qu'elle avait bleu foncé ou
-peut-être noirs.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>mélancolies d'amour, son inquiétude poétique et le souci de la liberté
-française qui tourne mal. Elle ne savait pas et, en 1791, peut-être ne
-savait-on pas qui était Chénier? Elle devait le deviner un peu. Elle ne
-devine jamais rien 1 Elle a de fortes certitudes : elle n'a jamais de
-pressentiments. Elle est* énormément dépourvue d'imagination.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>sèment, avec beaucoup de prudence. Elle a un grand souci de sa gloire et
-de sa commodité.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>TROIS AMIS DE Mm. DE ST AEL</p>
-<p><pb/></p>
-<p>M. le comte d'Haussonville a justement retrouvé un portrait de Gibbon,
-écrit alors par cette amante.</p>
-<p><pb/></p>
-<p>Eh bien ! Mill Curchod, dès le début, confesse l'intention de « couler
-légèrement sur la figure de M. G... ». C'est un signe d'indulgence, mais
-indispensable. Elle lui accorde de beaux cheveux, la main jolie et l'air
-d'une personne de condition; la .physionomie, très spirituelle et
-singulière : « une de ces physionomies, si extraordinaires qu'on ne se
-lasse presque point de l'examiner, de le peindre et de le contrefaire ».
-Une politesse élégante et l'idée fine des égards qu'on doit aux femmes.
-A la danse, des plus médiocres. Et, bref, un garçon très intelligent,
-laid, qui a des mérites et qui a même de l'agrément.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Charles-Victor Bonstetten, c'est le Bernois si intelligent, « Bernois
-aussi peu Bernois que possible », qui enchantait Sainte-Beuve, et auquel
-il n'a pas consacré moins de trois Causeries du lundi, et qu'il appelait
-« Bonstetten ou le vieillard rajeuni ». Bonstetten a vécu près de
-quatre-vingt-</p>
-<p><pb/></p>
-<p>Il avait environ vingt-cinq ans et Mlle Necker avait quatre ans, lors de
-leur première rencontre un peu vive. Ce fut dans le jardin des Necker, à
-Saint- Ouen. Bonstetten suivait une allée, sans regarder autour de lui :
-soudain, c'est une baguette qui le frappe. Il se retourne et voit une
-fillette aux yeux noirs, qui s'était cachée derrière un arbre, et qui
-éclate de rire et dit : « Maman veut que j'exerce mon bras gauche; eh
-bien ! je l'exerce ! » Mlle Cur- chod, devenue Mmo Necker, eut des
-principes en toutes choses et en pédagogie : elle avait décidé que sa
-fille serait ambidextre.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>scepticisme : il savait tout, comme au surplus tout le monde. Mais Leurs
-Excellences trouvaient le bailli crédule trop volontiers. Bonstetten
-devina qu'avec des Excellences tracassières et une ambassadrice
-impatiente la vie serait une aventure détestable. Il avait le soin de sa
-tranquillité : il résigna son bailliage de Nyon.</p>
-<p><pb/></p>
-<p>En 1804, Bonstetten était là, quand mourut M. Necker. Mm0 de Staël
-arriva bientôt : et l'on</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>turelles, qu'il avait oubliée. Mmo de Staël lui enseignait le français :
-du moins, elle le lui rappelait. Surtout, elle lui trouvait du talent,
-de l'esprit, de la poésie : il la remerciait de son « impartialité ».
-Ellè le tirait de cette modestie où l'on ne se ren- cogne pas sans nul
-chagrin. Elle l'animait. Et Benjamin Constant remarque méchamment
-qu'alors Bonstetten « ne pouvait plus s'arrêter en parlant de ses
-ouvrages ». Qui eût parlé des ouvrages de Bonstetten ? Benjamin ? Non.
-Et Bonstetten, parlant de soi, se servait tout seul.</p>
-<p>i</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Averti par les fines remontrances de sa mère, Sismondi laissa en paix le
-Trinité, la Vierge, les Saints et les âmes heureusement crédules. Une
-autre fois, il était sur le point de se lier avec Benjamin Constant
-d'une façon peut-être un peu téméraire. Sa mère lui écrit : « Tu vas me
-trouver pis que ridicule, mon Charles, si je me mêle de te donner des
-avis sur Constant. Mais enfin, mais enfin, il est du nombre de ceux à
-qui il ne faut pas se livrer entièrement. Il n'a de sensibilité que
-celle des passions; il fait tout avec de l'esprit, il en a</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>pour accomplir au mieux son ouvrage habituel et pour consacrer le
-chef-d'œuvre.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>LES COSTUMES DE M. DE CHATEAUBRIAND</p>
-<p><pb/></p>
-<p>monde, on trouvera que mon drame se divise en trois actes. » Drame et
-quelquefois comédie, son existence a bien le caractère théâtral que
-signale cette petite phrase. Aussi m'a-t-il paru plaisant et judicieux
-de composer une galerie de ses portraits, de le montrer dans ses
-diverses « créations » ; de même, on a, d'un acteur illustre — et si
-parfaitement sincère, toujours ! — une série d'images nombreuses et
-variées, en costumes.</p>
-<p>Plus tard, se souvenant du vœu de la paysanne, il a pitié de son enfance
-qu'opprimaient les traditions séculaires de son pays ; et il s'écrie : «
-Je n'avais vécu que quelques heures, et la pesanteur du temps était déjà
-marquée sur mon front ! » C'est tout ce qu'on sait des petites robes qui
-enveloppèrent François de Chateaubriand. Imaginons-les bien modestes.
-Après la bataille de la Massoure, saint Louis avait placé sur les
-armoiries des Chateaubriand des fleurs de lis d'or; plus anciennement,
-ils portaient, sur l'écu de gueules, des pommes de pin, avec la devise :
-Je sème l'or. Seulement, ils n'avaient pas le sou.</p>
-<p>En 1775, François de Chateaubriand acheva la</p>
-<p><pb/></p>
-<p>Avec sa mère, le chevalier passa plusieurs années</p>
-<p><pb/></p>
-<p>En dépit de tout, il aimait, assure-t-il, l'élégance et la propreté. Il
-se rapetassait, la nuit, de son mieux. Sa sœur Lucile l'aidait, étrange
-fille déjà</p>
-<p><pb/></p>
-<p>Mais voici les élégances.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>solitudes américaines, le prit. Telle fut sa timidité ombrageuse qu'il
-n'assista seulement pas au débotté : il se sauva.</p>
-<p><pb/></p>
-<p>Telle est la facilité, telle aussi la sincérité charmante, avec laquelle
-Chateaubriand se déguise.</p>
-<p><pb/></p>
-<p>raires, du XIX6 siècle sont des trouvailles de lui.</p>
-<p>Seulement, cette baignade héroïque,il l'a ornée de ses imaginations.
-Parmi les séminaristes, il y avait Edouard de Mondésir, qui plus tard
-devint curé du Coudray, près de Chartres. L'occasion se présenta pour
-lui de rédiger ses mémoires : on les a retrouvés.. Le curé du Coudray se
-rappelle parfaitement ce compagnon de voyage, le vicomte, alors
-chevalier de Chateaubriand, qui, ensuite, a fait « bruit et besogne dans
-le monde ». Et voici la baignade, la vraie, — car la bonne foi de l'abbé de</p>
-<p><pb/></p>
-<p>Le vendredi saint, un prêtre officia sur le pont. Après le service,
-Chateaubriand saisit un grand crucifix et, avec de beaux gestes, il
-commença de haranguer l'équipage : il « débita des phrases extrêmement
-brûlantes, au point que, s'il se fût trouvé un juif abord, nos matelots
-l'eussent jeté à</p>
-<p><pb/></p>
-<p>Cependant il badine. La vigie ayant crié :</p>
-<p>Tels furent ses jeux, pendant la traversée, — de véritables jeux de scène.</p>
-<p><pb/></p>
-<p>tandis que les oiseaux voltigent et chantent, il fume une longue pipe.</p>
-<p>Quelle jolie aventure ! Mais elle est, ainsi, un peu arrangée, par les
-soins de Chateaubriand.</p>
-<p>On a retrouvé la version première, le brouillon de cette page. Et, ici,
-ce n'est pas le repos de Chateaubriand qui « flotte sur un fond vague
-d'espérance » :</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>A Bruxelles, Chateaubriand trouva son bagage qui l'attendait ; on le lui
-avait envoyé en fraude : un peu de linge, et puis son uniforme bleu et
-blanc du régiment de Navarre. Il l'endossa. Mais il l'aima moins que
-jadis. Depuis qu'il avait été, parmi les</p>
-<p><pb/></p>
-<p>Muscogulges et les Siminoles, un joli sauvage que sa liberté satisfait,
-la contrainte des uniformes le gênait. Après avoir rêvé sous les étoiles
-qui courent dans les feuillages des forêts vierges, il lui déplaisait de
-reprendre « l'habit d'un mesquin sous-lieutenant d'infanterie ». Et
-puis, le costume ne lui va plus. Bronzé par « le soleil d'Amérique et
-l'air de la mer », il a maintenant les cheveux plats et noirs : sur le
-collet bleu, sous le chapeau noir, cë. n'est pas d'un élégant effet. Il
-n'est plus question de faire bouffer le jabot brodé entre les revers de
-l'habit qu'on dégrafe : le linge manque. Enfin, l'émigration l'assomme.</p>
-<p>Chateaubriand s'engagea dans la septième compagnie bretonne, commandée
-par M. de Goyon-</p>
-<p><pb/></p>
-<p>Au siège de Thionville, deux balles frappèrent sa giberne ; elles
-n'allèrent pas plus avant. Il y avait, dans sa giberne, le manuscrit
-d'Atala; du moins, il l'affirme : « Atala, en fille dévouée, se plaça
-entre son père et le plomb ennemi ». C'est</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Comment, alors, s'habillait-il ? Simplement. Il</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>sautèrent aux jambes. Il avait un pantalon blanc : de toutes ces puces,
-le pantalon fut noir.</p>
-<p>Le départ fut une excellente mascarade et, si l'on peut dire, une «
-tartarinade » exorbitante.</p>
-<p>La voiture était une grosse, grande et belle</p>
-<p><pb/></p>
-<p>« dormeuse »,qui contenait, au fond, Chateaubriand et sa femme ; sur le
-siège une énorme femme de chambre et le frère de la cuisinière, Julien.</p>
-<p>La portière de la maison s'émerveille. Elle conjecture qu'en tel
-équipage « monsieur 'part aux frais du gouvernement 5&gt;. Ce qu'on lui dit
-ne la convainc pas : elle n'a jamais vu son maître si imposant.</p>
-<p>Comme il est bien, comme il est amusant, comme il est gai !... Comme il
-est bien le père, l'auguste père si comique, de nos gens de lettres qui,
-vêtus de toges, de pourpoints, de simarres, donnent ainsi le change à
-leur fantaisie éperdue ! Il est le père de leur prodigieux et innocent
-cabotinage.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>qui jetaient assez d'éclat par le soleil qu'il faisait. » — Peut-être !...</p>
-<p><pb/></p>
-<p>A Cordoue, il retrouva Dolorès : or, son cœur, cette saison-là, ne
-rêvait pas d'une autre dame.</p>
-<p>Il est romantique et charmant d'arriver ainsi en Espagne où une
-bien-aimée vous attend. Ce fastueux attirail convient au fier amant qui
-écrivait : « L'amour, pour être véritable, a toujours besoin d'être
-accompagné de la gloire. » Mais la réalité</p>
-<p><pb/></p>
-<p>ne se prête pas toujours avec complaisance aux volontés ingénieuses d'un
-artiste : et c'est justement pour cela que Chateaubriand recourait aux
-délicats prestiges de la littérature.</p>
-<p><pb/></p>
-<p>ét-ses mémoires pèchent parfois contre la simple vérité. Mais il y a,
-ici, d'autres témoignages pour confirmer son agréable médisance.</p>
-<p>Intelligente chanoinessé qui mettait au service de causes amies un
-superbe don de l'intrigue, une rouerie de diplomate et une réputation
-parfaite, M"' Victorine de Chastenay avoue que M. de Chat-eaubriand lui
-« faisait de la peine » avec ses déguisements de 1814,— « des
-épaulettes, un uniforme pris dans le cabinet du ministre de la guerre »
-; — il lui semblait qu'ainsi l'auteur d'Atala et de René dérogeait ;
-elle l'eût souhaité plus sérieux.</p>
-<p>Nous connaissons, par ces récits, les accessoires divers qui
-composaient, au reteur des Bourbons, le bizarre costume de M. de
-Chateaubriand. Le sabre turc en est l'agrément principal.</p>
-<p><pb/></p>
-<p>Il le nomma bientôt — c'est moins flalteur, mais enfin !... — il le
-nomma président du collège électoral du Loiret.</p>
-<p><pb/></p>
-<p>Le voici chez lui, en 1819, rue du Bac. Il est fort mal en cour ; et,
-pour se désennuyer de n'être ni ambassadeur ni seulement ministre, il
-mène « ses grands combats ». L'idée qui le distrait alors, c'est</p>
-<p><pb/></p>
-<p>En attendant, cet ange, qui n'a pas une minute pour causer avec sa
-femme, se divertit ailleurs et « court de madame en madame ». Il va
-dîner chez l'une ou l'autre de ses admiratrices les plus ferventes :
-elles ne veulent pas qu'il mange « autre chose que des feuilles de roses
-humectées de rosée ; autrement il ne serait pas l'auteur de tant de
-beaux ouvrages pleins de sentiment et d'imagination »... Bref, il a
-bientôt des rhumatismes.</p>
-<p>Il en a pendant tout le mois de novembte 1819. La douleur est dans la
-poitrine et atteint- même le coeur : le docteur Récamier avoue un peu
-d'inquiétude. « Le Chat » — c'est le nom que lui donne sa femme : au
-temps de Pauline de Beaumont, c'était « le Corbeau »! — le Chat est
-extrêmement tourmenté. On lui ordonne de faire des remèdes et de ne
-travailler point : « il travaille et ne fait point</p>
-<p><pb/></p>
-<p>-de remèdes ». Mais il s'amuse : «Voici le Chat qui, malgré ses
-rhumatismes, se frisotte pour aller chez quelques madames du Lionfort. »
-11 se frisotte et « il se fait beau ». Mm. de Chateaubriand n'aime pas
-cela ; mais, pour se consoler, elle a de la patience et dé l'esprit.</p>
-<p>En 1822, Chateaubriand passe le détroit : le Roi vient de lui donner
-l'ambassade de Londres.</p>
-<p><pb/></p>
-<p>et les attachés. Il l'accueillent avec « une noble politesse »,
-Assemblés sur le trottoir, les huissiers, concierges, valets de chambre,
-valets de pied. On lui présente les cartes des ministres anglais, des
-ambassadeurs étrangers... Il aime cela, de tout son cœur 1...</p>
-<p><pb/></p>
-<p>Est-il sincère ?... Il ne l'est pas : le contraste des mauvais jours et
-des bons le ravit d'aise ; la complaisance avec laquelle il énumère les
-plaisirs de sa vanité ne laisse pas de doute... Il est sincère tout de
-même ; et, certes, il a le goût puéril des dignités qui vous habillent
-bien : mais il demeure farouche, rêveur, mélancolique, retiré. Il n'est
-pas simple ; et des sentiments bien divers l'occupent en un seul instant.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>madame de C*** ; il fait, si l'on peut dire, des folies.</p>
-<p>Le visiteur craint, s'il demànde le ministre lui- même, d'attendre
-longtemps : les laquais administratifs ne sont pas commodes. Il demande
-modestement Hyacinthe Pilorge, le secrétaire particulier de
-Chateaubriand...</p>
-<p>— Frappez 1 dit Hyacinthe ; et, sans qu'on vous réponde, entrez.</p>
-<p>— Mon cher Cussy, je suis pressé, je vais tout de suite chez le Roi.
-Mais allez voir Rauzan ; il vous donnera des nouvelles qui vous plairont.</p>
-<p><pb/></p>
-<p>Quelques mois plus tard, un matin, ce jeune diplomate alla rendre visite
-au ministre des Affaires étrangères. Il le trouva qui faisait sa
-toilette, qui se rasait et qui avait du savon mousseux sur la figure. On
-sonna. Un inconnu demandait le minis-- tre. Son Excellence, qui n'était
-pas présentable, pria Cussy de recevoir le fâcheux. Celui-ci
-conjecturait que M. de Chateaubriand aimerait, sans</p>
-<p><pb/></p>
-<p>Cussy transmit cette réponse. Quand il revint,</p>
-<p>Chateaubriand murmurait parmi le savon :</p>
-<p>Il disait encore :</p>
-<p>— Il n'y a que les sots qui ne veulent jamais changer d'opinion.</p>
-<p><pb/></p>
-<p>jolie, Hortense Allart. Il s'en amuse; et puis il l'aime.</p>
-<p>La révolution de 1830 eut, parmi d'autres inconvénients, celui
-d'interrompre cette aimable idylle.</p>
-<p>Le 26 juillet, Chateaubriand était parti pour</p>
-<p><pb/></p>
-<p>Le voilà, cette fois, revêtu des fastueuses parures que lui fait le
-déclin du jour. Il est beau. En même temps que décline le jour, il sent,
-lui aussi, que décline et penche vers le repos final sa grandeur
-politique. Il profite de ces allégories poignantes et somptueuses ; il
-en est orné mieux que d'un riche manteau de pair...</p>
-<p>Cependant il détestait les Bourbons, qui ne l'aimaient pas. Le
-Palais-Royal lui fit des offres : il</p>
-<p><pb/></p>
-<p>les repoussa, comme il avait écarté les séductions révolutionnaires.</p>
-<p>Mais il rageait. Un soir d'août, par une terrible chaleur, M™' Récamier,
-inquiète de ce qu'il ferait, pria Mme de Boigne de raccompagner jusqu'à
-la rue d'Enfer : elles tâcheraient, ensemble, de le calmer.</p>
-<p>Chateaubriand avait, sans le vouloir, changé d'auréole. Celle que
-naguère lui faisait le soleil couchant, un madras la remplaçait.</p>
-<p>A la Chambre des pairs, quand il eut prononcé</p>
-<p><pb/></p>
-<p>L'orgueil de la fidélité opiniâtre fut désormais son costume d'apparat.</p>
-<p><pb/></p>
-<p>des sous-pieds, des gants, une badiné d'ébène.</p>
-<p>De temps en temps, il appuie ses doigts sur ses</p>
-<p><pb/></p>
-<p>Quelquefois, on applaudit : c'est qu'on le trouve admirable dans son
-rôle. Mais il demeure « triste, pensif et muet ». Le drame se déroule,
-mêlé de comédie : il en est l'auteur et l'acteur. Et, devant cette image
-qu'il a tracée de lui-même avec une complaisance ingénieuse, il est
-encore, lui, un nouveau personnage : il est la postérité — une postérité
-indulgente et inquiète.</p>
-<p>Il l'a soigné plus que tous, les précédents, avec</p>
-<p>Une coquetterie excellente et funèbre.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Lamennais allait bientôt cesser de rien bénir.</p>
-<p><pb/></p>
-<p>sommeil. » Il ne devait s'endormir que douze ans plus tard : cette
-lettre urgente est de 1836.</p>
-<p>Dans le Dernier des Abencerages, après qu'Aben- Hamet a quitté Blanca et
-l'Espagne pour retourner aux « bords africains », il est fort
-mélancolique ; et il erre parmi les ruines de Carthage : il va «
-s'asseoir sur le tombeau de saint Louis ». Et lui, René, pendant qu'il
-organise son tombeau du Grand Bé, ne songe-t-il pas au tombeau de saint
-Louis ? ne désire-t-il pas que son tombeau devienne un</p>
-<p><pb/></p>
-<p>J'aime infiniment René dans toute cette affaire. Il y est solennel, un
-peu guindé, plus sensible encore et très ému, attentif aux belles
-phrases qui ornent soudain son esprit, pareilles aux lumières</p>
-<p><pb/></p>
-<p>mouvantes du ciel ; et il guette l'effet que fera le soleil couchant sur
-sa tombe.</p>
-<p>Pour Chateaubriand, le tombeau du Grand Bé fut la coquetterie suprême.
-Il disait : « La vie me sied mal ; la mort m'ira peut-être mieux. » Il
-arrangea sa mort.</p>
-<p><pb/></p>
-<p>chez le tailleur et en surveille avec beaucoup de minutie la parfaite
-exécution. La croix de pierre n'est pas ce qu'il désirait : ce col de
-velours l'importune. Il veut de la simplicité, mais une simplicité
-admirable. Enfin, le vêtement est beau ; il l'accepte, — le vêtement de
-pierre qu'il endossera pour l'éternité vigilante.</p>
-<p>Il aurait voulu détacher les unes des autres les minutes, afin que
-chacune d'elles fût délicieuse, dégagée du regret qui fait que le passé
-empoisonne tout le présent.</p>
-<p>S'il a campé sous la hutte de l'Iroquois, sous la tente de l'Arabe, dans
-les wigwams des Hurons, dans les débris d'Athènes, de Jérusalem, de Memphis,
- de Carthage, de Grenade, parmi les forêts et</p>
-<p><pb/></p>
-<p>les mines ; s'il a revêtu la casaque de peau d'ours, le caftan de poil
-de chèvre, l'habit brodé d'or, bariolé d'insignes et de rubans, du
-ministre et de l'ambassadeur ; s'il a été Chactas, René, Eudore, AbenHamet;
- s'il a aimé les filles de ses chimères, Atala, Amélie, Blanca,
-Cymodocée, Velléda, s'il a multiplié son rêve, c'est un artifice auquel
-il recourait pour égarer l'exquise douleur de son esprit. Ses costumes
-sont des essais d'oubli.</p>
-<p>L'exotisme, qu'il inventait, si florissant depuis lors, est l'art
-privilégié de ces âmes très susceptibles et ardentes qui usent vite leur
-plaisir, en connaissent tôt la souffrance, qui s'installent et qui se
-sauvent précipitamment. Ce sont des âmes fin peine et qui prennent corps
-n'importe joù, en tous lieux du monde et en tout espace imaginaire.</p>
-<p>Elles ont l'air prétentieux ; elles n'évitent pas toujours d'être un peu
-comiques. Elles sont pathétiques et charmantes. Leur coquetterie a
-beaucoup d'analogie avec leur littérature.</p>
-<p>Et les costumes de M. de Chateaubriand témoignent d'une inquiétude qui
-est le caractère de son génie.</p>
-<p>FIN</p>
-<p><pb/></p>
-<p>NOTES</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>NOTES</p>
-<p>III. — La Fontaine, par G. Michaut, Paris (Hachette), 1913-</p>
-<p>1914. Deux volumes.</p>
-<p>IV. — Un financier sous la monarchie. — Voir Histoire de Samuel Bernard
-et de ses enfants, par E. de Clermont-Ton- nerre, Paris (Champion),
-1916. — Cf. Samuel Bernard, banquier du trésor royal, et sa descendance,
-par le vicomte de Bonald, Rodez (imprimerie Carrère), 1912 ; — Samuel
-Bernard, sa vie, sa correspondance (Berger-Levrault), 1893; les
-Financiers amateurs d'art et Samuel Bernard, peintre du roi, etc., dans
-Réunion des Sociétés des Beaux-Arts des départements, années 1890 et
-1893 (Plon), par Victor de Swarte; — les Mariages dans l'ancienne
-société française, par Ernest Bertin, Paris (Hachette), 1879; enfin,
-Conversation de Mmt la duchesse de Tallard, dans les Tableaux de genre
-et d'histoire, de F. Barrière. Paris. 1828.</p>
-<p><pb/></p>
-<p>Mme Dafrenoy, précédés et suivis de pièces intéressantes sur sa vie et
-ses ouvrages par F. Gér.inal, Paris, 1825 (32 pages).</p>
-<p>Page 110. — Sur le dîuer que fit Chateaubriand avec Fontanes et le
-ménage Dufrenoy en 1789, voir Sainte-Beuve, Portrait-s contemporains,
-tome IV, page 430 ; et Chateaubriand et soit groupe littéraire sons
-l'Empire, tome 1, page 111.</p>
-<p>Page 119. — La lettre de dénonciation de Cordier contre les Dufrenoy et
-leurs hôtes se trouve aux Archives nationales (F7 4686). — Voir encore,
-aux Archives, sur les Dufrenoy, les pièces suivantes : — Y, 5208, 17
-janvier 1766, Simon Petit Dufrenoy achète la charge de procureur au
-Châtelet de défunt Louis Frizon de Demarincourt ; — et les plaquettes
-AF. IV, 916 (no 18) ; AF. IV, 948 (n° 16) ; AF. IV, 4531 (nO 84).</p>
-<p>VII. — Les tribulations de M. de Murville. —André deMur- ville élait né
-le 7 mai 1753. Dans son dossier du ministère de la Guerre, il y a une
-copie (abrégée) de son acte de naissance, d'après les registres de
-Saint-Eustachè : « L'an 1753, le 8 mai, fut nommé Pierre-Nicolas, né
-d'hier, fils de Nicolas-Charles- André et de Jeanne Fisallier, son
-épouse, en présence des témoins dénommés audit acte. »</p>
-<p>Page 148. — Les aventures militaires de Murville, je les raconte d'après
-les pièces de son dossier du ministère dela Guerre, qu'a bien voulu me
-signaler et me communiquer le savant M. Hennet, directeur des Archives
-administratives au ministère de la Guerre.</p>
-<p>VIII. — Sur Florian, voir les « Ci-Devant Nobles » et la Révolution, par
-le comte G. Mareschal de Bièvre, Paris (Emile-Paul), 1914. Onze
-chapitres sont consacrés à« Florian révolutionnaire ». L'auteur de cet
-excellent ouvrage a beaucoup d'estime, avec raison, pour le fabuliste ;
-et, son caractère, il le juge avec modération. En le lisant, on est, je
-crois, tenté d'être plus sévère que l'historien. — Voir aussi Florian,
-sa vie, son œuvre, par G. Saillard, Paris et Toulouse, 1912.</p>
-<p>Page 180. — Les idées de Bouquier sur l'instruction publique, les voici
-: « Citoyens, les plus belles écoles, les plus utiles, les</p>
-<p><pb/></p>
-<p>IX. — Un conventionnel en mission. — La Mission du conventionnel Lakanal
-dans la Dordogne en l'an II (octobre 1793, août 1794), par Henri
-Labroue. Paris (Champion) [1916]. Cf. Lakanàl en Amérique, par Eugène
-Welvert (Feuilles d'histoire, septembre-octobre 1910).</p>
-<p>XI. — Trois amis de Mm. de Staël. — Mmt de Staël et la</p>
-<p>-</p>
-<p>Suisse, par Pierre Kohler, Lausanne et Paris (Payot), 1916. — Cf. le
-Salon de Madame Necker, par le comte d'Haussonville, Paris
-(Calmann-Lévy) ; et, bien entendu, Sainte-Beuve.</p>
-<p>XII. — Les costumes de M. de Chateaubriand. — Ces petits portraits de
-Chateaubriand, je les emprunte évidemment aux livres que voici : — les
-Mémoires d'outre-tombe et les Souvenirs d'enfance et de jeunesse
-(manuscrit de 1826, Paris, 1874), l'Essai sur les révolutions, les
-Voyages en Amérique, l'Itiné-raire, le Dernier Abencerage. Et puis: les
-mémoires de Villèle, .de Hyde de Neuville, du duc de Raguse, de M*"' de
-Boigne, de M™* de Chastenay, les Souvenirs du chevalier de Cussy; le
-Journal inédit de Mni" de Marigny et les Cahiers de M™* de
-Chateaubriand, publiés par G. Ladreit de Lacharrière (Paris, 1907 et
-1909); les Souvenirs et Correspondance tirés des papiers de Mm. Scanner
-; les Pensées, Essais, Maximes et Cor-</p>
-<p><pb/></p>
-<p>Page 258. — Sur l'acte de cléricature de Chateaubriandr voir</p>
-<p>Biré, édition des Mémoires d'outre-tombe, tome 1, page 468.</p>
-<p>Page 259. — Sur Chateaubriand bénédictin, voir Annales de philosophie
-chrétienne, t. VI, page 392; document cité par Biré, les Dernières
-Années, p. 159.</p>
-<p>Page 268. — Sur le séjour de Chateaubriand dans le Suffolk., voir An
-pays d'exil de Chateaubriand, par Anatole Le Braz, Paris, 1909.</p>
-<p>Page 277. — Le « sabre turc » n'est-il pas le « grand sabre de mamelouk
-» dont Chateaubriand parle dans les Mémoires (t. X, p. 150), et qui, à
-son dire, intimida les policiers quand ~ ils vinrent l'arrêter, après
-l'aventure de la duchesse de Berry ?</p>
-<p>Voir, là-dessus, le comte de Marcellus, Chateaubriand et son temps, page
-422.</p>
-<p><pb/></p>
-<p>Page 289. — « Une auréole autour de son front irrité... » Discours
-prononcé, en 1848, par J.-J. Ampère, aux funérailles de Chateaubriand.</p>
-<p>Page 293. — « Le repos dans le génie... » Sainte-Beuve, article publié
-en 1834 dans la Revue des Deux Mondes et inséré en 1845 dans le premier
-volume des Portraits contemporains .</p>
-<p>du Plessis et citée par E. Birs Dernières Années de Cha-</p>
-<p>teaubriand, p. 201.</p>
-<p>FIN DES NOTES</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>TABLE</p>
-<p>Pages 1. — PÈLERINS DE VENISE 5 II. — HUMANISTES DÉVOTS. 25 III. — JEAN
-DE LA FONTAINE 45 IV. — UN FINANCIER SOUS LA MONARCHIE... 65 V. — LE
-FRÈRE DE DIDEROT 85.</p>
-<p>VI. — ADÉLAÏDE DUFRENOY 101 VII. — LES TRIBULATIONS DE M. DE MURVILLE..
-133 VIII. — NÉMORIN QUI CHANTE LA « CARMAGNOLE ». 167 IX. — UN
-CONVENTIONNEL EN MISSION.... 189 X.—LA COMTESSE D'ALBANY. 211 XI. —
-TROIS AMIS DE Mme DE STAEL.... 231 XII. — LES COSTUMES DE M. DE
-CHATEAUBRIAND.. 251 NOTES ................ 303</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>ACHEVÉ D'IMPRIMER</p>
-<p>PAR</p>
-<p>L'IMPRIMERIE CHARLES COLIN</p>
-<p>A MAYENNE</p>
-<p>POUR</p>
-<p>LA NOUVELLE LIBRAIRIE NATIONALE</p>
-<p>A PARIS</p>
-<p>LE 17 SÈPTEMBRE 1917</p>
-<p><pb/>
-------------------------------------------------------------------------
-------------------------------------------------------------------------</p>
-<p>LA NOUVELLE LIBRAIRIE NATIONALE</p>
-<p>II, RUE DE MÉDICIS — PARIS</p>
-<p>PUBLIE</p>
-<p>LES SOUVENIRS</p>
-<p>DES MILIEUX LITTÉRAIRES, POLITIQUES, ARTISTIQUES</p>
-<p>ET MÉDICAUX DE 1880 A 1908</p>
-<p>DE LÉON DAUDET</p>
-<p>F ANTOMES ET VIVANTS</p>
-<p>PREMlÈltE SÉRIE : DE 1880 A' 1885</p>
-<p>Un vol. in-i6 de x-342 pages (14e mille) .. 3 fr. 5o</p>
-<p>DEVANT LA DOULEUR</p>
-<p>DEUXIÈME SÉRIE : DE 1885 A 1892</p>
-<p>L'Ecole de médecine en 1886 les élèves, les professeurs, les concours —
-Pasteur — Les Fournicr — Zola — Maupassant — Sardou — Dumas fils —
-Sarcey — Clemenceau — Le boulangisme — La wagnérom^nie —
-L'antimilitarisme, etc.</p>
-<p>Un volume in-16 de vIll-304 pages (14e mille). 3 fr, 5o</p>
-<p>L'ENTRE-DEUX-GUERRES</p>
-<p>TROISIÈME SÉRIE : DE 18 9'2 A 18 9 5</p>
-<p>Les attentats anarchistes, la mort de Carnot — Les engouements Le
-tolstoïsme, l'ibsénisme, le nietzschéisme — La fondation du Journal — Le
-procès de presse Lebaudy — Le temps de Panama — Rodays et Périvierau
-Figaro — La Revue des deux Mondes Buloz — La Nouvelle Revue : Madame
-Adam — La société londonienne en 1895 — Voyages en Hollande, en
-Allemagne et en Suède, etc.</p>
-<p>Un volume in-16 de 3 20 pages (13 e mille) .. 3 fr. 50"</p>
-<p>SALONS ET JOURNAUX</p>
-<p>QUATRIÈME SÉRIE : DE 1896 A 19 0 8</p>
-<p>Un volume in-i 6 de 320 pages (lie mille) .. 3 fr. 5o</p>
-<p>La Librairie envoie son catalogue franco</p>
-<p>EUG. MORIliU, IMP.</p>
-    </div>
+      <div>
+        <p>ANDRÉ BEAUNIER</p>
+        <p>FIGURES D'AUTREFOIS</p>
+        <p>PÈLERINS DE VENISE — HUMANISTES DÉVOTS</p>
+        <p>JEAN DE LA FONTAINE — UN FINANCIER SOUS LA MONARCHIE</p>
+        <p>LE FRÈRE DE DIDEROT — ADELAÏDE DUFRENOY</p>
+        <p>LES TRIBULATIONS DE M. DE MURVILLE</p>
+        <p>NÉMOR1N QUI CHANTE LA CARMAGNOLE — UN CONVENTIONNEL EN MISSION</p>
+        <p>LA COMTESSE D'ALBANY — TROIS AMIS DE Mme DE STAËL</p>
+        <p>LES COSTUMES DE M. DE CHATEAUBRIAND</p>
+        <p>NOUVELLE LIBRAIRIE NATIONALE</p>
+        <p>II, RUE DE MÉDICIS, PARIS</p>
+        <p>M C M X VII</p>
+        <p><pb/> ------------------------------------------------------------------------ ------------------------------------------------------------------------ ------------------------------------------------------------------------</p>
+        <p>FIGURES D'AUTREFOIS</p>
+        <p>
+          <pb/>
+        </p>
+        <p>DU MÊME AUTEUR :</p>
+        <p>Les Dupont-Le terrier, roman (1900) .. 1 volume Notes sur la Russie (1901)...... - Bonshommes de Paris (1902) — La Poésie nouvelle (1902) — Les Trois Legrand, roman (1903) ... — Picrate et Siméon, roman (1904) ... — Le Roi Tobol, roman (1905) — Les Souvenirs d'un peintre (1906) ... — L'Art de regarder les tahleaux (1906).. — Eloges (1909) ......... — Contre la réforme de l'orthographe (1909). * — La Fille de Polichinelle, roman (1909) . — Trois Amies de Chateaubriand (1910).. — Les Limites du cœur, comédie (1910) .. — Visages d'hier et d'aujourd'hui (1911). -. — Le Sourire d'Athéna (1911) ..... — L'Homme qui a perdu son moi, roman</p>
+        <p>(1911) — Les plus Détestables Bonshommes (1912). — Chateaubriand (1912) 2 volumes La Grèce et nous (1912) 1 brochure La Crise, comédie (en collaboration avec</p>
+        <p>Paul Bourget) (1912) 1 volume</p>
+        <p>Visages de femmes (1913) — La Révolte, roman (1914) — * Les Sur boches (1915) 1 brochure Les Idées et les Hommes, trois séries (1913-</p>
+        <p>1916) ........... 3 volumes</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ANDRÉ BEAUNIER</p>
+        <p>FIGURES D'AUTREFOIS</p>
+        <p>PÈLERINS DE VENISE. HUMANISTES DÉVOTS</p>
+        <p>JEAN DE LA FONTAINE. UN FINANCIER SOUS LA MONARCHIE</p>
+        <p>LE FRÈRE DE DIDEROT. ADÉLAÏDE DUFRENOY</p>
+        <p>LES TRIBULATIONS DE M. DE MUR VILLE</p>
+        <p>NÉMORIN QUI CHANTE LA « CARMAGNOLE »</p>
+        <p>UN CONVENTIONNEL EN MISSION. LA COMTESSE D'ALBANY</p>
+        <p>TROIS AMIS DE M"" DE STAEL</p>
+        <p>LES COSTUMES DE M. DE CHATEAUBRIAND</p>
+        <p>NOUVELLE LIBRAIRIE NATIONALE</p>
+        <p>11, RUE DE MÉDICIS, PARIS</p>
+        <p>MCMXVII</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Il a été tiré de cet ouvrage</p>
+        <p>Tous droits de reproduction et de traduction réservés pour tous pays.</p>
+        <p>Copyright 1917, by Société française d'Édition et de Librairie, proprietor of Nouvelle Librairie Nationale.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>FIGURES D'AUTREFOIS</p>
+        <p>PÈLERINS DE VENISE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Bref, l'aïeul des romantiques n'a pas inventé le thème vénitien. C'est, dit Lemaître, qu'il était, dans l'art de la description, un précurseur ou un primitif : il n'avait pas eu le temps « de raffiner et</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>être de Pagello. N'oublions pas ce Pagello, sans qui n'aurait pas eu toute sa furie langoureuse une histoire d'amour indispensable aux attraits de Venise.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>allait s'emparer de Florence, de Rome et de Naples. Cependant, la Seigneurie, tout en fêtant Commynes très bien, préparait la confédération de l'Italie contre les étrangers. Commynes s'efforçait d'empêcher cet arrangement : et le doge, un matin, lui annonça que toutes conventions étaient signées, de la nuit même. « J'avais le cœur serré », écrit Commynes. Le soir, pour célébrer l'entente des Italiens, Venise fut illuminée : et Commynes se dissimula dans une gondole couverte qui le promena seul et invisible dans les clartés, les musiques et la gaieté nocturne de Venise.</p>
+        <p>Les guerres d'Italie multiplièrent les relations dè la France et de la République, et rendirent ces relations charmantes quelquefois, et quelquefois très mauvaises : l'opinion de nos écrivains, sur la reine de l'Adriatique, subit les péripéties des événements. Venise a dès lors chez nous, et pendant tout le xvr siècle, des partisans chaleureux et plusieurs ennemis.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Vogue, garçon, ô vaillant barquerolle,</p>
+        <p>Étends tes bras, voûte-toi, tire bien,</p>
+        <p>Fais-moi voler d'un vol pégasien</p>
+        <p>Par ce canal ta légère gondole.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Il m'est avis qu'au paradis je vole.</p>
+        <p>Passe au Realte, au canal Cyprien,</p>
+        <p>A Calespurge ; ici, garçon, retien</p>
+        <p>Ferme au tréguet : voici la Casidole.</p>
+        <p>Ha ! c'est ici que je dois apaiser</p>
+        <p>Tous mes ennuis et où je dois baiser</p>
+        <p>A mon plaisir ma douce Philomide.</p>
+        <p>Mon cher espoir, le voulez-vous pas bien ? Mon œil, mon cœur, mon tout, mon miel, mon bien, Sus, entrons donc au paradis de Gnide 1</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Trouve toujours ne sçay quelle douceur * En son pays, qui ne lui veut permettre</p>
+        <p>De le pouvoir en oubliance mettre.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Dont il s'ensuit qu'ils n'élèvent leurs yeux</p>
+        <p>Plus haut ni loin que les terrestres lieux</p>
+        <p>Et que jamais espoir ne les convie</p>
+        <p>Au grand festin de l'éternelle vie...</p>
+        <p>Quand il fuyait la fureur serpentine</p>
+        <p>Des ennemis de la belle Christine...</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Quand il fuyait la fureur et les ruses &gt;</p>
+        <p>Des ennemis d'Apollo et des muses.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>HUMANISTES DÉVOTS</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>admirable. Un Louis Richeome, un EtieDne Binet, un Jean-Pierre Camus n'ont pas leurs pareils, pour notre louable divertissement.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>•</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>L'amusement d'écrire,. Louis Richeome le pratique avec bonheur et avec une exquise adresse. Il avait composé une règle du jeu, ou rhétorique. Et, un jour, un jeune jésuite la lui demanda. Mais Richeome la refusa ; et il a détruit sa rhétorique, non qu'il fût jaloux de son secret charmant : iI-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Eh ! la violence de Binet, ne l'a-t-on pas senti, c'est bonne humeur. Ses cris de « canailles » et « soldats d'enfer », gaieté. La vivacité de ses réprimandes, le tapage de ses mots et les gros mots qu'il ne ménage pas, jovialité. Il avait un singulier visage, tout maigre et aux traits marqués forte-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>1</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Que de liberté, que de franchise heureuse attestent Louis Richeome, Etienne Binet et Camus 1 Comme ils ne sont ni guindés, ni farouches 1 et comme leur dévotion, parfaitement sincère, ne les gêne pas du tout! Leur croyance ne les opprime pas et n'accable ni leur méditation, ni leur gaieté. Comme ils sont variés, riches de mots, de pensée et d'audace ! Richesse et variété que bientôt réglera la discipline du grand siècle : belle discipline, sur tant d'opulence.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>JEAN DE LA FONTAINE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>grande difficulté qu'il se pouvait ». Le désordre des Allemagnes garantissait le salut de l'Europe ; et la France n'était pas menacée.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>fait, les bocages d'automne, dévastés par le vent, qui chasse</p>
+        <p>Tu m'as donné pour aide au fort de la tourmente Une compagne sainte, il est vrai, mais charmante... ?</p>
+        <p>Je vous ai fait récit quelquefois de ces heures</p>
+        <p>Qu'en des lieux séparés de tout profane abord</p>
+        <p>Alors, j'avais pitié des heureux de ce monde, Maintenant j'ai perdu cette paix si profonde ;</p>
+        <p>Mon cœur est agité...</p>
+        <p>C'est en 1673 que parut, chez Claude Barbin, le Poème de la Captivité de saint Malc. La Fontaine avait cinquante-deux ans ; et il n'était pas au bout</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Avec l'idée de ces deux vers si jolis, La Fontaine aurait pu faire tout un conte, une comédie, un</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Les contemporains de La Fontaine semblent</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Je voudrais bien le voir aussi,</p>
+        <p>Dans ces charmants détours que votre parc enserre,</p>
+        <p>Parler de paix, parler de guerre,</p>
+        <p>Parler de vers, de vin et d'amoureux souci, » Former d'un vain projet le plan imaginaire,</p>
+        <p>Changer en cent façons l'ordre de l'univers ;</p>
+        <p>Sans douter, proposer mille doutes divers ;</p>
+        <p>M ais pour varier son ennui.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Dans le conte des Filles de Minée, La Fontaine s'écrie : « Je veux des passions 1 » S'il ne voulait pas de passions, il croirait que les morts sont heureux. Entre la vie morne d'un « cœur froid » et le néant, il ne fait pas de différence.</p>
+        <p>La sensibilité de La Fontaine, telle qu'on la voit dans sa poésie, et non dans la légende, mais dans la vérité de son personnage, lui est extrêmement particulière ; et elle étonne chez un écrivain de son ^ temps. Je ne dis pas que le XVIIe siècle ne soit que raison, comme les faiseurs de systèmes historiques ne découvrent aussi, dans la Renaissance, que la luxure et ses prouesses. Le XVIIe siècle aurait inventé la raison, qui dompte la sensibilité, l'opprime, la supprime ? Niaiseries ! et ni Ronsard n'est dénué</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>x</p>
+        <p>Si j'étais sage, Iris... Mais c'est un privilège</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Si la vie est peu importante, elle admet la « plaisanterie », d'où résulte quelque tristesse et qu'il faut égayer. La volupté est un secours.</p>
+        <p>Volupté, volupté, qui fus jadis maîtresse</p>
+        <p>Du plus bel esprit de la Grèce,</p>
+        <p>Ne me dédaigne pas, viens-t'en loger chez moi.</p>
+        <p>Tu n'y seras pas sans emploi.</p>
+        <p>J'aime le jeu, l'amour, les livres, la musique,</p>
+        <p>La ville et la campagne, enfin tout : il n'est rien</p>
+        <p>Qui ne me soit souverain bien,</p>
+        <p>Jusqu'au sombre plaisir d'un cœur mélancolique.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>UN FINANCIER SOUS LA MONARCHIE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Mme la duchesse de Clermont-Tonnerre vient de lui consacrer un livre qui n'est ni sans défauts, ni sans attrait.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le calque, le mortier, la barrette, la mitre</p>
+        <p>A la félicité nfapportent aucun titre,</p>
+        <p>Et ce Bernard qu'on vante est heureux en effet, Non par le bien qu'il a, mais par le bien qu'il fait.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>malheur des huguenots, ses coreligionnaires du moment, Samuel Bernard n'était qu'un marchand comme un autre : marchand drapier. Son commerce comportait la marchandise de mercerie, drap d'or et d'argent, soie et joaillerie ; il tenait boutique ouverte, magasin, tapis sur rue, dans la paroisse de Saint-Leu et Saint-Gilles, rue du Bourg-l'Abbé. Il avait épousé, dans un monde pareil au sien,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Un soir qu'on devisait de la Régence et du Système, chez Mmo la duchesse de Tallard, fille de M. le duc de Rohan, prince de Soubise, et qui fut nommée gouvernante des Enfants de France après Mm. de Ventadour, voici ce qu'elle raconta. Le duc de Noailles avait, dans un moment très difficile, la</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Elles avaient plumé M. Bernard, un peu hardiment. A quelques années de là, Mwo de Tallard ne refuse pas d'en rire encore ; mais elle avoue que cette histoire est un peu « extraordinaire ». Seulement, si l'on feint la surprise et l'on prend l'air scandalisé, elle raconte la réponse que fit la Reine au maréchal de Lamothe. La Reine, oui 1 la reine</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>LE FRÈRE DE DIDEROT</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Les deux frères ne se virent pas beaucoup, l'abbé ne quittant guère sa paroisse et le philosophe ne venant guère au pays natal. Mais, en 1759, ils perdirent leur père. Le coutelier mourut d'une hydropisie de poitrine, le 3 juin, jour de la</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Et, l'année suivante, il avait médité là-dessus.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>L'abbé Diderot venait d'être nommé promoteur général : c'est-à-dire qu'il remplissait, auprès du tribunal de l'évêque, le rôle du ministère public ; il garda ces fonctions trois ans. En 1767, il fut nommé chanoine de Saint-Mammès. Grand honneur. Les chanoines de Saint-Mammès signaient « chanoine de l'Eglise de Langres ». Ce chapitre se distinguait par son antiquité, par le nombre des personnages éminents dont il se vantait, par ses privilèges et par le chiffre élevé de ses prébendes.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>En 1784, le 20 juillet, il perdit son frère, le philosophe. Le dernier mot que prononça Denis Dide- rot, le voici : « Le premier pas vers la philosophie, c'est l'incrédulité. »</p>
+        <p>Pendant un an, Didier-Pierre Diderot dit chaque matin sa messe à l'intention de son frère. Et, quand il sut que son frère était mort, sa première pensée fut pour les écrits que le philosophe devait laisser</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Du reste, M. le chanoine Marcel note que les papiers de Diderot ne furent expédiés en Russie que l'année suivante. Ces papiers étaient à Paris en 1784 ; et le chanoine, probablement, n'attendit pas des mois avant de les demander. On se moqua de lui.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Saint-Roch. Mais, au milieu du siècle dernier, un calorifère occupait le caveau.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>ADÉLAÏDE DUFRENOY</p>
+        <p>Veille, ma lampe, veille encore,</p>
+        <p>Je lis les vers de Dufrenoy.</p>
+        <p>Il insiste, car c'est le refrain de sa chanson. A l'aube, il continue de lire ; et sa lampe s'éteint, mais le jour paraît.</p>
+        <p>Depuis lors, je crois qu'on n'a pas lu beaucoup les vers de Mme Dufrenoy. On ne les lit plus ; et l'on a tort : ils sont jolis. Sous l'Empire et .la Restauration, les Opuscules poétiques, les Elégies suivies de poésies diverses et enfin les OEuvres poétiques de Mme Dufrenoy n'eurent pas moins de quatre éditions différentes en vingt ans. La poétesse fut célèbre ; les contemporains parlent de sa gloire.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Vous l'emportez, Zélis, et je perds pour jamais L'amant qui fut touché de mes faibles attraits....</p>
+        <p>Zélis n'est pas la maîtresse de M. Dufrenoy et ce n'est pas le procureur au Châtelet qui a excité cette jalousie. Qui est-ce ?...</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Elle n'oubliera plus ce charmeur :</p>
+        <p>Je dois te cacher mon amour,</p>
+        <p>Mais je le chanterai sans cesse.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>yeux. Fuyons 1 Et elle gagne la « rétraite enchanteresse, séjour au bonheur consacré », où leur usage est de se retrouver loin des importuns. Elle lui apporte des fleurs :</p>
+        <p>Viens, un nouveau triomphe ici t'est destiné.</p>
+        <p>Viens, et partage mon ivresse.</p>
+        <p>Viens, G'est surtout par sa maîtresse</p>
+        <p>Qu'il est doux d'être couronné !...</p>
+        <p>Si l'on dit que c'est ridiculement donner de l'importance aux lauriers académiques, non : et son puéril empressement, qui enchantait Fontanes,est délicieux ; comme aussi elle se sauve bien, contente d'un tel succès, un peu jalouse de ces femmes qui lui admirent son amant, un peu effarouchée et touchée de quelque pudeur timide jusqu'au moment d'être seule avec lui !...</p>
+        <p>
+          <pb/>
+        </p>
+        <p>fort vifs », parla d'Eléonore ; mais « il n'avait pas de douceur dans la conversation ». Joubert n'était pas là.</p>
+        <p>Ah 1 Fontanes, mauvais amant !... Jaloux et volage : avec sa jalousie, il croit prendre les devants sur la jalousie que sa légèreté fera naître. Et l'amoureuse s'est juré de ne l'aimer plus...</p>
+        <p>Son cœur peut-être a su m'entendre, Peut-être que ce soir l'entretien sera tendre...</p>
+        <p>Elle se souvient des tremblants préludes de cet amour : elle souffrait en l'absence du bien-aimé ; en sa présence, elle souffrait davantage. Le plaisir et le danger de le voir la torturaient et elle se faisait, dans un seul jour, humble, fière, coquette, tendre. Elle connut son mal et redouta d'être guérie. Elmandre la trahira, la punira de sa faiblesse : elle ne peut s'en repentir.</p>
+        <p>Elmandre l'a trahie. Ah ! qu'il cesse de la troubler, l'artificieux ! Sous le nom d'amitié, qu'il n'éveille plus l'amour en elle ! Non, ce n'est pas de l'amitié : veuille-t-il ne plus la décevoir.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Non, l'amitié n'a point, n'ose plus me le dire,</p>
+        <p>Ce trouble, ces transports, cet inquiet bonheur ; Ses chastes voluptés n'ont jamais le délire...</p>
+        <p>Ah ! tremble d'allumer une flamme imprudente : Mon cœur contre l'amour n'est que mal affermi ;</p>
+        <p>Ne fais pas de moi ton amante,</p>
+        <p>Si tu n'es pour moi qu'un ami.</p>
+        <p>Qui lui font haïr le matin</p>
+        <p>Ce qui le soir fait ses délices.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>suivants et précédents les deux rimes, elle a remplacé vaurien par lutin ; mais notons l'air vaurien du jeune Fontanes séduisant : notons surtout la familiarité gaie et triste du badinage. Elle aime tout de son amant...</p>
+        <p>Et, s'il pouvait changer un jour,</p>
+        <p>Il me ferait, je crois, lui pardonner l'amour</p>
+        <p>Qu'il sentirait pour ma rivale.</p>
+        <p>D'imposants souvenirs, des mânes révérés</p>
+        <p>M'y défendent contre lui-même.</p>
+        <p>Il revient. Elle écrivait un poème : une main lui cache la page commencée. C'est lui 1 Et il sourit avec malice ; il ne lui permet plus d'être une femme de lettres. Un instant, elle souffre dans sa fierté ; mais, « ô pouvoir d'une caresse ! » elle abandonne sans regret son poème. Le tyran ! Que faire ? Seule, l'amante du poète épuise &lt;&lt; des voluptés l'ivresse ».</p>
+        <p>Seulement, il la trompe... On le dit...</p>
+        <p>S'il est vrai que tu sois coupable,</p>
+        <p>Par pitié, trompe-moi toujours.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>D'une semaine, elle ne l'a pas vu... L'on chuchote... Ah ! qu'on se taise :</p>
+        <p>Je peux lui pardonner les tourments que j'endure, Non pardonner le mal qu'on me dirait de lui.</p>
+        <p>Il vient. Cette fois, il est trop gentil 1...</p>
+        <p>Ce matin, pendant mon sommeil,</p>
+        <p>Tu m'apportas les fleurs que j'aime ;</p>
+        <p>Tu venais, disais-tu, de les cueillir toi-même</p>
+        <p>Et, pour me les offrir, tu pressas mon réveil.</p>
+        <p>Ce tendre soin devait me plaire,</p>
+        <p>Mais il ne t'est pas ordinaire ;</p>
+        <p>Mais tu l'accompagnas des serments les plus doux... Tu paraissais m'aimer d'une nouvelle ardeur ; Cependant, j'éprouvais une vague tristesse...</p>
+        <p>Et ta voluptueuse ivresse</p>
+        <p>Ne me donnait plus le bonheur.</p>
+        <p>Souvent même, par intervalles,</p>
+        <p>Tes transports plus pressants m'inspiraient quelque [effroi I</p>
+        <p>Près de m'abandonner, sais-tu du moins me plaindre ? Ou, semblable aux flambeaux qui remplacent le jour,</p>
+        <p>Voit-on la flamme de l'amour</p>
+        <p>Briller plus éclatante au moment de s'éteindre ?...</p>
+        <p>Il me semble que ce poème est admirable ; et que, dans les romans où les inquiétudes de l'amour sont analysées le plus exactement et avec le plus d'impitoyable netteté, dans Adolphe ou dans Fanny, je suppose, l'écrivain n'obtient pas des mots les</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Dupée longtemps, l'amoureuse a enfin dû savoir que, pour une poétesse moins jeune et moins belle, le perfide l'a dédaignée. Cette rivale, je me figure que ce fut, un instant, Fanny de Beauharnais. Alors, Adélaïde voit revenir les doux anniversaires, doux autrefois, atroces maintenant :</p>
+        <p>... Je vous aime ; et vous ne m'aimez plus !</p>
+        <p>Dans son dépit, la délaissée invoque la raison ; le temps lui adoucit ses maux...</p>
+        <p>Je ne regrette plus l'amant qui m'a trahie ;</p>
+        <p>Je regrette encor mon amour.</p>
+        <p>Elle regrette aussi l'amant. Car, plutôt que de le perdre absolument, elle lui offre encore la tentative d'une amitié...</p>
+        <p>Je t'aimerai mieux qu'une amante !...</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Je le sens, pour une âme tendre,</p>
+        <p>Un amour malheureux est encore un bonheur.</p>
+        <p>Pour excuser votre nouveau lien,</p>
+        <p>Je vous dirai qu'un autre amour m'engage ;</p>
+        <p>Je le dirai : mais, vous, n'en croyez rien !...</p>
+        <p>Adélaïde Dufrenoy, dès avant d'aimer, projeta d'égaler Parny : ne l'a-t-elle point dépassé ? Son idée était une ingénieuse idée littéraire : composer les élégies d'une femme ; avec moins de « passion », disait-elle, les femmes ont plus de tendresse. Elle aima et elle eut la tendresse et la passion, mais, dans la passion comme dans la tendresse, une finesse de douleur qui est bien féminine. Elle a écrit plus d'un chef-d'œuvre tel que, malgré le tour un peu suranné, les accents du cœur y sont</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Pauvre poétesse 1... Quand elle déplorait en jolis vers les infidélités de Fontanes, elle ne savait pas que d'autres malheurs l'attendaient et n'étaient pas loin : d'autres malheurs, et non de qualité poétique ou élégiaque ; de ces malheurs qui, sans amuser votre manie de littérature, vous dévastent votre existence.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>campagne et s'installa, près de Livry, dans le village de Sevran.</p>
+        <p>Vous vanterez celle qui sait vous plaire</p>
+        <p>Sans que mon cœur en paraisse jaloux ;</p>
+        <p>Je la verrai sans montrer de colère.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Fut-ce pour gagner quelque argent? Mon Dieu, oui ; et sans doute aussi pour recueillir un peu de</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Par un vague désir, vers le monde entraînée,</p>
+        <p>Ivre d'un fol encens, je connus un vainqueur...</p>
+        <p>Elle sortait du couvent, on se le rappelle...</p>
+        <p>Au souverain des cieux et de ma destinée</p>
+        <p>Il disputa mon cœur.</p>
+        <p>Ce cœur religieux, et timide, et sensible,</p>
+        <p>Dans ses vœux combattu, brisa, reprit ses fers. Hélas ! dans cette lutte inégale et terrible</p>
+        <p>Succombent les plus fiers.</p>
+        <p>Alors, elle regretta sa « pieuse indolence » ; elle voulut la reconquérir : mais trop tard 1...</p>
+        <p>Mes efforts expiraient contre une longue absence</p>
+        <p>Ou contre un doux regard.</p>
+        <p>Elle eut de l'entrain dans la faute. Ses veines, le sang les brûlait. Un feu caché troublait sa raison :</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« il égara mes sens ». Elle n'osa plus faire sa prière, touchante pudeur.</p>
+        <p>Je me sentais mourir, par l'ennui consumée ;</p>
+        <p>Il flatta ma tristesse — et de la renommée</p>
+        <p>J'embrassai les hasards !...</p>
+        <p>M™" Dufrenoy demeurait dans la rue Bourtibourg, au Marais. Elle avait auprès d'elle sa mère, la très vieille M"' Billet, ses enfants et une seule servante,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Cette même année 1814, M"' Dufrenoy eut ce plaisir : l'Académie française la couronna — et Soumet le même jour, 5 avril, — pour un poème intitulé : les Derniers Moments de Bayard :</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Renaissez dans mes chants, nobles mœurs de nos pères ! Honneur, foi, loyauté, vertus héréditaires</p>
+        <p>Le poème continue ainsi, très longtemps. Il est extrêmement médiocre. Mais, pour Adélaïde, quel bonheur !...</p>
+        <p>Il s'ouvre enfin pour moi, l'asile des neuf sœurs. L'implacable Vénus m'en défendait l'entrée...</p>
+        <p>La couronne autrefois pour Sapho préparée.</p>
+        <p>Muses, comme elle aussi j'ai vaincu mes rivaux. Succès inattendu, délices enivrantes !...</p>
+        <p>Elle est contente ! Mais, soudain, la touche un souvenir : le souvenir du jour que Fontanes fut couronné...</p>
+        <p>Bientôt avec honneur cité,</p>
+        <p>Mon nom retentira sous les voûtes savantes</p>
+        <p>Où, dans ces temps trop courts de ma félicité,</p>
+        <p>Mon âme, moins vaine qu'aimante,</p>
+        <p>Dans le volage objet de ma flamme constante,</p>
+        <p>D'un triomphe plus cher goûta la volupté.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>0 souvenir rempli de charmes,</p>
+        <p>Le temps n'a pas détruit ton ascendant vainqueur.</p>
+        <p>Tant de souffrances, tant de larmes</p>
+        <p>N'ont pu t'effacer de mon cœur.</p>
+        <p>Elmandre occupe sa mémoire ; Elmandre qui était Fontanes. Elle le voit, « beau d'amour, de jeunesse, de gloire ».</p>
+        <p>Y déposer le prix de sa chaste victoire</p>
+        <p>Et de ma flamme encore attendre un prix plus doux.</p>
+        <p>Charmante fidélité d'un amour ! En 1814, il y a un quart de siècle que Fontanes s'est détaché d'Adélaïde ; mais non pas elle de lui. Et elle a eu la constance d'aimer toujours le volage devenu étonnamment vaniteux, intrigant, triomphant de mille manières, si différent du « vaurien » et qui,- très satisfait, disait : « Je ne sais rien de plus agréable qu'un ballet bien indécent après un bon dîner », pour résumer sa philosophie, de parvenu. Elle le voyait tel qu'autrefois. Elle n'avait pas la clairvoyance de Benjamin Constant qui notait, lui : « M. de Fontanes ne manque jamais de noblesse dans ses phrases. »</p>
+        <p>M. de Fontanes mourut en 1821. Elle lui survécut, Adélaïde, quatre années et mourut tristement.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LES TRIBULATIONS DE M. DE MURVILLE</p>
+        <p>Premièrement, il a une mine plaisante. Et, qu'il soit laid, peu importe. Mais il est gauche ; et, ainsi, toutes ses tentatives semblent dérisoires. Son émule, très souvent, ne vaut pas mieux que lui ; et l'émule se tire d'affaire : Murville, non.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>A des jours de bonheur des moments de plaisir.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>personne de trente ans qui le console savamment, il est triste.</p>
+        <p>Une dépense, et en pure perte ! Quelque temps après tout cela, le jeune Gruet, élève de l'abbé</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le plaisir de la demi-couronne l'emporta, dans l'esprit du poète, sur tous les regrets. Il conçut un grand orgueil et de très folles espérances, qu'il résumait ainsi, avec bonne foi :</p>
+        <p>Mlle Arnould, qui avait tant d'esprit et qui ne le cachait pas, l'entendit un jour ; et elle répliqua :</p>
+        <p>— Taisez-vous, cerveau brûlé !...</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Ses grâces, ses talents ont illustré son nom.</p>
+        <p>Maurice Lecouvreur et Gourville Ninon.</p>
+        <p>C'est placer sa belle-mère en compagnie galante.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>d'Alexandrine, prenait les gens qu'il rencontrait au Luxembourg. Puis il tournait en petites chansons sa disgrâce :</p>
+        <p>Folâtrez, amusez-vous ; mais,</p>
+        <p>Pour être heureux, n'aimez jamais.</p>
+        <p>Pourtant, il aima sans méfiance l'Académie ; elle lui fut une autre Alexandrine. En 1778, M. de Mur- ville concourait de nouveau pour le prix de poésie. Et il savait que son plus dangereux rival était M. Doigni du Ponceau, un tout jeune homme. Il apprit que e jeune homme avait inséré dans son poème soixante vers écrits pour lui obligeamment par M. de Fontanes. Donc, Murville alla trouver M. de Fontanes ; et il n'eut de cesse qu'il obtînt également soixante vers: cela rétablissait les chances du concours. Et personne n'eut le prix, ni M. Doigui, ni M. de Murville. A peine l'Académie trouva-' t-elle assez bons les vers qui, dans les deux poèmes, étaient de M. de Fontanes. C'est Sainte-Beuve qui le dit ; et, au surplus, je ne crois pas vraie cette histoire.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Murville ne le lui pardonna point. Murville publia son poème et, plus tard, après la mort de La Harpe, le réimprima sous ce titre : Epître à Voltaire,pièce qui a remporté le prix de poésie au jugement de l'Académie française en 1779. Et, pour expliquer</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>D'ailleurs, il n'était pas au bout des chagrins et des colères que ses prétentions académiques lui suscitèrent. Il fut un martyr, et sans les palmes.</p>
+        <p>Non, M. de Murville n'a pas fini d'être malheureux avec l'Académie, cet objet de ses soins cons-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>ville n'est donc pas au-dessus des cinq cents livres?... L'année suivante, 1791, il n'y avait plus de séance solennelle, le jour de la Saint-Louis ; il n'y avait plus de jour de la Saint-Louis ; et, encore deux ans plus tard, il n'y avait plus d'Académie française : Murville était vengé.</p>
+        <p>En 1791, Murville pensa prendre sa revanche, avec Abdelazis et Zuleïma, qui n-est pas une petite chose, mais une tragédie en cinq actes et en vers. Le malveillant La Harpe, rendant compte de la pièce, lui reproche d'être fondée sur une ressemblance, comme les Ménechmes de Plaute : or c'est là, remarque-t-il, un ressort de comédie, non de</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>La pauvre et maladroite existence de M. de Mur- ville se relève soudainement, devient héroïque. Murville a servi aux armées. Gauche, myope et le nez chargé de besicles sempiternelles, Murville a été capitaine pendant la Révolution et jusqu'au début de FEmpire. Il a fait une assez longue carrière militaire.</p>
+        <p>Mais on ne s'attend pas que Murville, doué comme il l'est du génie de manquer tout ce qu'il entreprend, réussisse mieux auprès de Mars qu'auprès des Muses. La gloire des camps lui sera refusée tout de même que le poétique triomphe.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>le nommait commandant de place ici ou là, dans un château ou unfort? Quelque chose, enfinl... Car il est malheureux.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>misère. L'Armée, comme l'Académie, l'avait déçu. Tout, ici-bas, devait le décevoir.</p>
+        <p>Il avait alors cinquante-huit ans. Il était pauvre et méritait qu'on le plaignît. Mais il était ridicule de plus en plus. Le ridicule de Murville aurait pu</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Après cela, que devenir ? Il était fort misérable, quasi malade et sans le sou. Il avait raté son existence ; et, pour assurer sa pitance quotidienne, il manquait de fougue. Deux personnes ont eu pitié de lui : d'abord, M. Legouvé, l'estimable auteur de La Mort d'Abel et du Mérite des femmes. M. Legouvé, de dix ans plus jeune que Murville, et qui</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>murmurant entre ses dents : Oh 1 mes enfants, " n'importe quoi ! tout ce que vous voudrez ; un bon gros morceau de pain, cela n'y fait rien 1 Et il faisait le geste honteux d'un homme qui a faim. » Marceline, racontant cela, jouait la scène, la mimait ; « une vraie petite scène d'opéra-comique ou de demi-vaudeville en action ». Sainte-Beuve en riait, dit-il, et en pleurait.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>NÉMORIN</p>
+        <p>QUI CHANTE LA « CARMAGNOLE »</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Sur ma guitare assez longtemps (his)</p>
+        <p>J'ai chanté les tendres amants (bis).</p>
+        <p>Chantons la liberté,</p>
+        <p>La sainte égalité</p>
+        <p>Et le doux nom de frère.</p>
+        <p>Soyons unis (bis),</p>
+        <p>Et le doux nom de frère.</p>
+        <p>Soyons unis,</p>
+        <p>Mes amis.</p>
+        <p>Soyons unis, mes amis, — comme on chante : « Vive le son du canon L..» Il y avait quatre couplets de cette qualité.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>\et NérilOtin, par exemple. Les applaudissements de l'assistance récompensèrent ce poète imprévu de la Terreur, le ci-devant chevalier de Florian.</p>
+        <p>Quel homme singulier !... Somme toute, peu admirable.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>faisceau de la République ! » A part lui, cependant, il se demandait si le faisceau de la République lui vaudrait jamais les charmants abus de l'ancien régime.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Ce Bouquier farouche, qui intervint d'une si dure manière dans les tribulations de Floriau, qui est-ce ?</p>
+        <p>Il y a deux Bouquier. L'autre, d'un an plus jeune, semble avoir été plus sage, un peu toqué pourtant. Sa renommée ne s'étendit pas loin ; il la confina dans son Périgord natal. Quand la Révolution organisa. une justice nouvelle, Montignac (dans le département de la Dordogne) fut le chef-lieu d'un district ; et une autre petite ville, Terrasson, eut les tribunaux. Elie- Guillaume Bouquier, natif de Tçr-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le Périgord fut, parmi nos provinces, l'une des premières troublées par la frénésie commençante et Bouquier ne se laissa point devancer. D'abord, il composa maints poèmes prérévolutionnaires, jeux innocents. Mais il révéla ses idées. A Terras- son, les gens du Tiers État le désignèrent pour rédiger le cahier de leurs doléances, plaintes et remontrances. Tout de suite, il eut le style de ces choses : « Il existe dans l'Etat une foule d'individus comblés de grâces excessives qu'ils n'ont pas méritées et dont ils n'avaient nul besoin. Il existe une foule d'ecclésiastiques qui, par leur faste éclatant, insultent chaque jour à la misère publique...» Botlquier les montre « mollement étendus sur des carreaux de duvet qui tapissent l'intérieur de leurs</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>ris dans mon âme une haine constante pour les rois-, j'avoue que la pitié ne peut rien m'inspirer pour eux et qu'ayant sans cesse présent à ma mémoire l'horrible tableau des forfaits de cette foule de tigres couronnés qui, pendant tant de siècles, ont immolé l'espèce humaine à leur voracité, je voterai toujours pour l'anéantissement de leur race malfaisante. Un roi n'est, pour un vrai républicain, qu'un monstre carnivore qu'il faut étouffer ! » On le voit, Bouquier n'est pas un sceptique.</p>
+        <p>Penseur, il rédige, en douze articles, le programmè de la perfection sociale : 1° Suppression de la théologie ; 2" dans l'éducation publique, suppression des sciences vaines : l'on n'enseignera plus</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Ne se souvient-il pas de ses amours ?...</p>
+        <p>C'est comme l'un des personnages du Comité de l'Instruction publique que ce Bouquier des plus</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>- Mais Bouquier ?... Bouquier, c'est exactement le sans-culotte qui se repentit.</p>
+        <p>Quelque temps après ses pires niaiseries — et après la chute de Robespierre, — il appelle, dans ses écrits, Robespierre « un tigre » ou encore un</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>-raté, qu'un peintre mànqué. C'est parmi ces pauvres diables que la Révolution recruta ses bandes de terroristes : et les terroristes avaient peur, atrocement peur.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>UN CONVENTIONNEL EN MISSION</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>des esprits purs, toute histoire nous sera vaine.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Romme et Lakanal furent en bisbille incessante. Le 2 fructidor an II, Romme dénonçait Lakanal aux thermidoriens, blâmait toute la politique de cet extravagant personnage. Et, plus tard, quand Lakanal aura peut-être été pour quelque chose dans l'organisation dè l'Ecole normale, qu'il appellera « métropole des connaissances humaines », Romme lui dénigrera son école sous le nom de métropole du charlatanisme organisé.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le jour que Lakanal partait pour la Dordogne, Danton l'exhorta. Et i « Tape dur ! » lui disait-il.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Cet affreux bonhomme fut membre du Conseil des Cinq-Cents, jusqu'au 30 floréal an V. Alors, sa carrière politique est finie. Il devient professeur</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le Congrès leur accorda des terres et leur dit où les prendre. Ils allèrent aux Blanches Falaises et résolurent de fonder une ville, qui s'appellerait d'un joli nom, Démopolis. Ils abattirent des arbres, tracèrent des rues, bâtirent des cabanes et apprirent que le terrain sur lequel ils travaillaient n'était pas celui qu'on leur avait concédé. Ils plièrent bagage et commencèrent de fonder une autre cité, qui s'appellerait Aigleville : devenait-on, de démocrates, napoléoniens ? Cette fois encore, ils s'étaient trompés d'endroit. On eut pitié d'eux et on les laissa. Ils plantèrent de la vigne et des oliviers. Mais il y eut neuf mois d'inondation, et ensuite de la sécheresse. Les oliviers ne poussaient pas; la vigne ne donnait qu'un vin misérable. Découragé, Lakanal regagna sa ferme de Kentucky.</p>
+        <p>En souvenir de ses idées républicaines, il avait des esclaves et les traitait « comme des amis malheureux ». Après maints déboires, il manqua d'argent, si bien que, pour s'en procurer, il entra dans une</p>
+        <p>
+          <pb/>
+        </p>
+        <p>L'ancien conventionnel qui demande un roi, — mais oui, après avoir été fonctionnaire de l'Empire ! — étonne. Dans ce cas-là, on ne manque pas d'affirmer qu'au moment même où l'on trahit ses principes — lesquels ? — on leur est fidèle mieux que jamais. Et Lakanal : « Nous sommes conséquents dans nos principes ; nous ne désirons que</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>collaborateur de Buffon, lui disait : « Vous ne. mourrez qu'ossifié 1 » Cette prédiction l'encourageait ; car il se sentait vif et alerte.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA COMTESSE D'ALBANY</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>visage, Lamartine crut apercevoir le souvenir du charme évanoui.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Après la mort de Charles-Edouard, l'une des plus</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>de la rhubarbe. Mais, une fois, songeant parmi ses drogues, elle se trompe de flacon, se tamponne les yeux avec de l'alcali volatil : et voici, pendant trois jours, enflés ses yeux qu'elle avait bleu foncé ou peut-être noirs.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>mélancolies d'amour, son inquiétude poétique et le souci de la liberté française qui tourne mal. Elle ne savait pas et, en 1791, peut-être ne savait-on pas qui était Chénier? Elle devait le deviner un peu. Elle ne devine jamais rien 1 Elle a de fortes certitudes : elle n'a jamais de pressentiments. Elle est* énormément dépourvue d'imagination.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>sèment, avec beaucoup de prudence. Elle a un grand souci de sa gloire et de sa commodité.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>TROIS AMIS DE Mm. DE ST AEL</p>
+        <p>
+          <pb/>
+        </p>
+        <p>M. le comte d'Haussonville a justement retrouvé un portrait de Gibbon, écrit alors par cette amante.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Eh bien ! Mill Curchod, dès le début, confesse l'intention de « couler légèrement sur la figure de M. G... ». C'est un signe d'indulgence, mais indispensable. Elle lui accorde de beaux cheveux, la main jolie et l'air d'une personne de condition; la .physionomie, très spirituelle et singulière : « une de ces physionomies, si extraordinaires qu'on ne se lasse presque point de l'examiner, de le peindre et de le contrefaire ». Une politesse élégante et l'idée fine des égards qu'on doit aux femmes. A la danse, des plus médiocres. Et, bref, un garçon très intelligent, laid, qui a des mérites et qui a même de l'agrément.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Charles-Victor Bonstetten, c'est le Bernois si intelligent, « Bernois aussi peu Bernois que possible », qui enchantait Sainte-Beuve, et auquel il n'a pas consacré moins de trois Causeries du lundi, et qu'il appelait « Bonstetten ou le vieillard rajeuni ». Bonstetten a vécu près de quatre-vingt-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Il avait environ vingt-cinq ans et Mlle Necker avait quatre ans, lors de leur première rencontre un peu vive. Ce fut dans le jardin des Necker, à Saint- Ouen. Bonstetten suivait une allée, sans regarder autour de lui : soudain, c'est une baguette qui le frappe. Il se retourne et voit une fillette aux yeux noirs, qui s'était cachée derrière un arbre, et qui éclate de rire et dit : « Maman veut que j'exerce mon bras gauche; eh bien ! je l'exerce ! » Mlle Cur- chod, devenue Mmo Necker, eut des principes en toutes choses et en pédagogie : elle avait décidé que sa fille serait ambidextre.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>scepticisme : il savait tout, comme au surplus tout le monde. Mais Leurs Excellences trouvaient le bailli crédule trop volontiers. Bonstetten devina qu'avec des Excellences tracassières et une ambassadrice impatiente la vie serait une aventure détestable. Il avait le soin de sa tranquillité : il résigna son bailliage de Nyon.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>En 1804, Bonstetten était là, quand mourut M. Necker. Mm0 de Staël arriva bientôt : et l'on</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>turelles, qu'il avait oubliée. Mmo de Staël lui enseignait le français : du moins, elle le lui rappelait. Surtout, elle lui trouvait du talent, de l'esprit, de la poésie : il la remerciait de son « impartialité ». Ellè le tirait de cette modestie où l'on ne se ren- cogne pas sans nul chagrin. Elle l'animait. Et Benjamin Constant remarque méchamment qu'alors Bonstetten « ne pouvait plus s'arrêter en parlant de ses ouvrages ». Qui eût parlé des ouvrages de Bonstetten ? Benjamin ? Non. Et Bonstetten, parlant de soi, se servait tout seul.</p>
+        <p>i</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Averti par les fines remontrances de sa mère, Sismondi laissa en paix le Trinité, la Vierge, les Saints et les âmes heureusement crédules. Une autre fois, il était sur le point de se lier avec Benjamin Constant d'une façon peut-être un peu téméraire. Sa mère lui écrit : « Tu vas me trouver pis que ridicule, mon Charles, si je me mêle de te donner des avis sur Constant. Mais enfin, mais enfin, il est du nombre de ceux à qui il ne faut pas se livrer entièrement. Il n'a de sensibilité que celle des passions; il fait tout avec de l'esprit, il en a</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>pour accomplir au mieux son ouvrage habituel et pour consacrer le chef-d'œuvre.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>LES COSTUMES DE M. DE CHATEAUBRIAND</p>
+        <p>
+          <pb/>
+        </p>
+        <p>monde, on trouvera que mon drame se divise en trois actes. » Drame et quelquefois comédie, son existence a bien le caractère théâtral que signale cette petite phrase. Aussi m'a-t-il paru plaisant et judicieux de composer une galerie de ses portraits, de le montrer dans ses diverses « créations » ; de même, on a, d'un acteur illustre — et si parfaitement sincère, toujours ! — une série d'images nombreuses et variées, en costumes.</p>
+        <p>Plus tard, se souvenant du vœu de la paysanne, il a pitié de son enfance qu'opprimaient les traditions séculaires de son pays ; et il s'écrie : « Je n'avais vécu que quelques heures, et la pesanteur du temps était déjà marquée sur mon front ! » C'est tout ce qu'on sait des petites robes qui enveloppèrent François de Chateaubriand. Imaginons-les bien modestes. Après la bataille de la Massoure, saint Louis avait placé sur les armoiries des Chateaubriand des fleurs de lis d'or; plus anciennement, ils portaient, sur l'écu de gueules, des pommes de pin, avec la devise : Je sème l'or. Seulement, ils n'avaient pas le sou.</p>
+        <p>En 1775, François de Chateaubriand acheva la</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Avec sa mère, le chevalier passa plusieurs années</p>
+        <p>
+          <pb/>
+        </p>
+        <p>En dépit de tout, il aimait, assure-t-il, l'élégance et la propreté. Il se rapetassait, la nuit, de son mieux. Sa sœur Lucile l'aidait, étrange fille déjà</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Mais voici les élégances.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>solitudes américaines, le prit. Telle fut sa timidité ombrageuse qu'il n'assista seulement pas au débotté : il se sauva.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Telle est la facilité, telle aussi la sincérité charmante, avec laquelle Chateaubriand se déguise.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>raires, du XIX6 siècle sont des trouvailles de lui.</p>
+        <p>Seulement, cette baignade héroïque,il l'a ornée de ses imaginations. Parmi les séminaristes, il y avait Edouard de Mondésir, qui plus tard devint curé du Coudray, près de Chartres. L'occasion se présenta pour lui de rédiger ses mémoires : on les a retrouvés.. Le curé du Coudray se rappelle parfaitement ce compagnon de voyage, le vicomte, alors chevalier de Chateaubriand, qui, ensuite, a fait « bruit et besogne dans le monde ». Et voici la baignade, la vraie, — car la bonne foi de l'abbé de</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le vendredi saint, un prêtre officia sur le pont. Après le service, Chateaubriand saisit un grand crucifix et, avec de beaux gestes, il commença de haranguer l'équipage : il « débita des phrases extrêmement brûlantes, au point que, s'il se fût trouvé un juif abord, nos matelots l'eussent jeté à</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Cependant il badine. La vigie ayant crié :</p>
+        <p>Tels furent ses jeux, pendant la traversée, — de véritables jeux de scène.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>tandis que les oiseaux voltigent et chantent, il fume une longue pipe.</p>
+        <p>Quelle jolie aventure ! Mais elle est, ainsi, un peu arrangée, par les soins de Chateaubriand.</p>
+        <p>On a retrouvé la version première, le brouillon de cette page. Et, ici, ce n'est pas le repos de Chateaubriand qui « flotte sur un fond vague d'espérance » :</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>A Bruxelles, Chateaubriand trouva son bagage qui l'attendait ; on le lui avait envoyé en fraude : un peu de linge, et puis son uniforme bleu et blanc du régiment de Navarre. Il l'endossa. Mais il l'aima moins que jadis. Depuis qu'il avait été, parmi les</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Muscogulges et les Siminoles, un joli sauvage que sa liberté satisfait, la contrainte des uniformes le gênait. Après avoir rêvé sous les étoiles qui courent dans les feuillages des forêts vierges, il lui déplaisait de reprendre « l'habit d'un mesquin sous-lieutenant d'infanterie ». Et puis, le costume ne lui va plus. Bronzé par « le soleil d'Amérique et l'air de la mer », il a maintenant les cheveux plats et noirs : sur le collet bleu, sous le chapeau noir, cë. n'est pas d'un élégant effet. Il n'est plus question de faire bouffer le jabot brodé entre les revers de l'habit qu'on dégrafe : le linge manque. Enfin, l'émigration l'assomme.</p>
+        <p>Chateaubriand s'engagea dans la septième compagnie bretonne, commandée par M. de Goyon-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Au siège de Thionville, deux balles frappèrent sa giberne ; elles n'allèrent pas plus avant. Il y avait, dans sa giberne, le manuscrit d'Atala; du moins, il l'affirme : « Atala, en fille dévouée, se plaça entre son père et le plomb ennemi ». C'est</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Comment, alors, s'habillait-il ? Simplement. Il</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>sautèrent aux jambes. Il avait un pantalon blanc : de toutes ces puces, le pantalon fut noir.</p>
+        <p>Le départ fut une excellente mascarade et, si l'on peut dire, une « tartarinade » exorbitante.</p>
+        <p>La voiture était une grosse, grande et belle</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« dormeuse »,qui contenait, au fond, Chateaubriand et sa femme ; sur le siège une énorme femme de chambre et le frère de la cuisinière, Julien.</p>
+        <p>La portière de la maison s'émerveille. Elle conjecture qu'en tel équipage « monsieur 'part aux frais du gouvernement 5&gt;. Ce qu'on lui dit ne la convainc pas : elle n'a jamais vu son maître si imposant.</p>
+        <p>Comme il est bien, comme il est amusant, comme il est gai !... Comme il est bien le père, l'auguste père si comique, de nos gens de lettres qui, vêtus de toges, de pourpoints, de simarres, donnent ainsi le change à leur fantaisie éperdue ! Il est le père de leur prodigieux et innocent cabotinage.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>qui jetaient assez d'éclat par le soleil qu'il faisait. » — Peut-être !...</p>
+        <p>
+          <pb/>
+        </p>
+        <p>A Cordoue, il retrouva Dolorès : or, son cœur, cette saison-là, ne rêvait pas d'une autre dame.</p>
+        <p>Il est romantique et charmant d'arriver ainsi en Espagne où une bien-aimée vous attend. Ce fastueux attirail convient au fier amant qui écrivait : « L'amour, pour être véritable, a toujours besoin d'être accompagné de la gloire. » Mais la réalité</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ne se prête pas toujours avec complaisance aux volontés ingénieuses d'un artiste : et c'est justement pour cela que Chateaubriand recourait aux délicats prestiges de la littérature.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ét-ses mémoires pèchent parfois contre la simple vérité. Mais il y a, ici, d'autres témoignages pour confirmer son agréable médisance.</p>
+        <p>Intelligente chanoinessé qui mettait au service de causes amies un superbe don de l'intrigue, une rouerie de diplomate et une réputation parfaite, M"' Victorine de Chastenay avoue que M. de Chat-eaubriand lui « faisait de la peine » avec ses déguisements de 1814,— « des épaulettes, un uniforme pris dans le cabinet du ministre de la guerre » ; — il lui semblait qu'ainsi l'auteur d'Atala et de René dérogeait ; elle l'eût souhaité plus sérieux.</p>
+        <p>Nous connaissons, par ces récits, les accessoires divers qui composaient, au reteur des Bourbons, le bizarre costume de M. de Chateaubriand. Le sabre turc en est l'agrément principal.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Il le nomma bientôt — c'est moins flalteur, mais enfin !... — il le nomma président du collège électoral du Loiret.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le voici chez lui, en 1819, rue du Bac. Il est fort mal en cour ; et, pour se désennuyer de n'être ni ambassadeur ni seulement ministre, il mène « ses grands combats ». L'idée qui le distrait alors, c'est</p>
+        <p>
+          <pb/>
+        </p>
+        <p>En attendant, cet ange, qui n'a pas une minute pour causer avec sa femme, se divertit ailleurs et « court de madame en madame ». Il va dîner chez l'une ou l'autre de ses admiratrices les plus ferventes : elles ne veulent pas qu'il mange « autre chose que des feuilles de roses humectées de rosée ; autrement il ne serait pas l'auteur de tant de beaux ouvrages pleins de sentiment et d'imagination »... Bref, il a bientôt des rhumatismes.</p>
+        <p>Il en a pendant tout le mois de novembte 1819. La douleur est dans la poitrine et atteint- même le coeur : le docteur Récamier avoue un peu d'inquiétude. « Le Chat » — c'est le nom que lui donne sa femme : au temps de Pauline de Beaumont, c'était « le Corbeau »! — le Chat est extrêmement tourmenté. On lui ordonne de faire des remèdes et de ne travailler point : « il travaille et ne fait point</p>
+        <p>
+          <pb/>
+        </p>
+        <p>-de remèdes ». Mais il s'amuse : «Voici le Chat qui, malgré ses rhumatismes, se frisotte pour aller chez quelques madames du Lionfort. » 11 se frisotte et « il se fait beau ». Mm. de Chateaubriand n'aime pas cela ; mais, pour se consoler, elle a de la patience et dé l'esprit.</p>
+        <p>En 1822, Chateaubriand passe le détroit : le Roi vient de lui donner l'ambassade de Londres.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>et les attachés. Il l'accueillent avec « une noble politesse », Assemblés sur le trottoir, les huissiers, concierges, valets de chambre, valets de pied. On lui présente les cartes des ministres anglais, des ambassadeurs étrangers... Il aime cela, de tout son cœur 1...</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Est-il sincère ?... Il ne l'est pas : le contraste des mauvais jours et des bons le ravit d'aise ; la complaisance avec laquelle il énumère les plaisirs de sa vanité ne laisse pas de doute... Il est sincère tout de même ; et, certes, il a le goût puéril des dignités qui vous habillent bien : mais il demeure farouche, rêveur, mélancolique, retiré. Il n'est pas simple ; et des sentiments bien divers l'occupent en un seul instant.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>madame de C*** ; il fait, si l'on peut dire, des folies.</p>
+        <p>Le visiteur craint, s'il demànde le ministre lui- même, d'attendre longtemps : les laquais administratifs ne sont pas commodes. Il demande modestement Hyacinthe Pilorge, le secrétaire particulier de Chateaubriand...</p>
+        <p>— Frappez 1 dit Hyacinthe ; et, sans qu'on vous réponde, entrez.</p>
+        <p>— Mon cher Cussy, je suis pressé, je vais tout de suite chez le Roi. Mais allez voir Rauzan ; il vous donnera des nouvelles qui vous plairont.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Quelques mois plus tard, un matin, ce jeune diplomate alla rendre visite au ministre des Affaires étrangères. Il le trouva qui faisait sa toilette, qui se rasait et qui avait du savon mousseux sur la figure. On sonna. Un inconnu demandait le minis-- tre. Son Excellence, qui n'était pas présentable, pria Cussy de recevoir le fâcheux. Celui-ci conjecturait que M. de Chateaubriand aimerait, sans</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Cussy transmit cette réponse. Quand il revint,</p>
+        <p>Chateaubriand murmurait parmi le savon :</p>
+        <p>Il disait encore :</p>
+        <p>— Il n'y a que les sots qui ne veulent jamais changer d'opinion.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>jolie, Hortense Allart. Il s'en amuse; et puis il l'aime.</p>
+        <p>La révolution de 1830 eut, parmi d'autres inconvénients, celui d'interrompre cette aimable idylle.</p>
+        <p>Le 26 juillet, Chateaubriand était parti pour</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le voilà, cette fois, revêtu des fastueuses parures que lui fait le déclin du jour. Il est beau. En même temps que décline le jour, il sent, lui aussi, que décline et penche vers le repos final sa grandeur politique. Il profite de ces allégories poignantes et somptueuses ; il en est orné mieux que d'un riche manteau de pair...</p>
+        <p>Cependant il détestait les Bourbons, qui ne l'aimaient pas. Le Palais-Royal lui fit des offres : il</p>
+        <p>
+          <pb/>
+        </p>
+        <p>les repoussa, comme il avait écarté les séductions révolutionnaires.</p>
+        <p>Mais il rageait. Un soir d'août, par une terrible chaleur, M™' Récamier, inquiète de ce qu'il ferait, pria Mme de Boigne de raccompagner jusqu'à la rue d'Enfer : elles tâcheraient, ensemble, de le calmer.</p>
+        <p>Chateaubriand avait, sans le vouloir, changé d'auréole. Celle que naguère lui faisait le soleil couchant, un madras la remplaçait.</p>
+        <p>A la Chambre des pairs, quand il eut prononcé</p>
+        <p>
+          <pb/>
+        </p>
+        <p>L'orgueil de la fidélité opiniâtre fut désormais son costume d'apparat.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>des sous-pieds, des gants, une badiné d'ébène.</p>
+        <p>De temps en temps, il appuie ses doigts sur ses</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Quelquefois, on applaudit : c'est qu'on le trouve admirable dans son rôle. Mais il demeure « triste, pensif et muet ». Le drame se déroule, mêlé de comédie : il en est l'auteur et l'acteur. Et, devant cette image qu'il a tracée de lui-même avec une complaisance ingénieuse, il est encore, lui, un nouveau personnage : il est la postérité — une postérité indulgente et inquiète.</p>
+        <p>Il l'a soigné plus que tous, les précédents, avec</p>
+        <p>Une coquetterie excellente et funèbre.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Lamennais allait bientôt cesser de rien bénir.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>sommeil. » Il ne devait s'endormir que douze ans plus tard : cette lettre urgente est de 1836.</p>
+        <p>Dans le Dernier des Abencerages, après qu'Aben- Hamet a quitté Blanca et l'Espagne pour retourner aux « bords africains », il est fort mélancolique ; et il erre parmi les ruines de Carthage : il va « s'asseoir sur le tombeau de saint Louis ». Et lui, René, pendant qu'il organise son tombeau du Grand Bé, ne songe-t-il pas au tombeau de saint Louis ? ne désire-t-il pas que son tombeau devienne un</p>
+        <p>
+          <pb/>
+        </p>
+        <p>J'aime infiniment René dans toute cette affaire. Il y est solennel, un peu guindé, plus sensible encore et très ému, attentif aux belles phrases qui ornent soudain son esprit, pareilles aux lumières</p>
+        <p>
+          <pb/>
+        </p>
+        <p>mouvantes du ciel ; et il guette l'effet que fera le soleil couchant sur sa tombe.</p>
+        <p>Pour Chateaubriand, le tombeau du Grand Bé fut la coquetterie suprême. Il disait : « La vie me sied mal ; la mort m'ira peut-être mieux. » Il arrangea sa mort.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>chez le tailleur et en surveille avec beaucoup de minutie la parfaite exécution. La croix de pierre n'est pas ce qu'il désirait : ce col de velours l'importune. Il veut de la simplicité, mais une simplicité admirable. Enfin, le vêtement est beau ; il l'accepte, — le vêtement de pierre qu'il endossera pour l'éternité vigilante.</p>
+        <p>Il aurait voulu détacher les unes des autres les minutes, afin que chacune d'elles fût délicieuse, dégagée du regret qui fait que le passé empoisonne tout le présent.</p>
+        <p>S'il a campé sous la hutte de l'Iroquois, sous la tente de l'Arabe, dans les wigwams des Hurons, dans les débris d'Athènes, de Jérusalem, de Memphis, de Carthage, de Grenade, parmi les forêts et</p>
+        <p>
+          <pb/>
+        </p>
+        <p>les mines ; s'il a revêtu la casaque de peau d'ours, le caftan de poil de chèvre, l'habit brodé d'or, bariolé d'insignes et de rubans, du ministre et de l'ambassadeur ; s'il a été Chactas, René, Eudore, AbenHamet; s'il a aimé les filles de ses chimères, Atala, Amélie, Blanca, Cymodocée, Velléda, s'il a multiplié son rêve, c'est un artifice auquel il recourait pour égarer l'exquise douleur de son esprit. Ses costumes sont des essais d'oubli.</p>
+        <p>L'exotisme, qu'il inventait, si florissant depuis lors, est l'art privilégié de ces âmes très susceptibles et ardentes qui usent vite leur plaisir, en connaissent tôt la souffrance, qui s'installent et qui se sauvent précipitamment. Ce sont des âmes fin peine et qui prennent corps n'importe joù, en tous lieux du monde et en tout espace imaginaire.</p>
+        <p>Elles ont l'air prétentieux ; elles n'évitent pas toujours d'être un peu comiques. Elles sont pathétiques et charmantes. Leur coquetterie a beaucoup d'analogie avec leur littérature.</p>
+        <p>Et les costumes de M. de Chateaubriand témoignent d'une inquiétude qui est le caractère de son génie.</p>
+        <p>FIN</p>
+        <p>
+          <pb/>
+        </p>
+        <p>NOTES</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>NOTES</p>
+        <p>III. — La Fontaine, par G. Michaut, Paris (Hachette), 1913-</p>
+        <p>1914. Deux volumes.</p>
+        <p>IV. — Un financier sous la monarchie. — Voir Histoire de Samuel Bernard et de ses enfants, par E. de Clermont-Ton- nerre, Paris (Champion), 1916. — Cf. Samuel Bernard, banquier du trésor royal, et sa descendance, par le vicomte de Bonald, Rodez (imprimerie Carrère), 1912 ; — Samuel Bernard, sa vie, sa correspondance (Berger-Levrault), 1893; les Financiers amateurs d'art et Samuel Bernard, peintre du roi, etc., dans Réunion des Sociétés des Beaux-Arts des départements, années 1890 et 1893 (Plon), par Victor de Swarte; — les Mariages dans l'ancienne société française, par Ernest Bertin, Paris (Hachette), 1879; enfin, Conversation de Mmt la duchesse de Tallard, dans les Tableaux de genre et d'histoire, de F. Barrière. Paris. 1828.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Mme Dafrenoy, précédés et suivis de pièces intéressantes sur sa vie et ses ouvrages par F. Gér.inal, Paris, 1825 (32 pages).</p>
+        <p>Page 110. — Sur le dîuer que fit Chateaubriand avec Fontanes et le ménage Dufrenoy en 1789, voir Sainte-Beuve, Portrait-s contemporains, tome IV, page 430 ; et Chateaubriand et soit groupe littéraire sons l'Empire, tome 1, page 111.</p>
+        <p>Page 119. — La lettre de dénonciation de Cordier contre les Dufrenoy et leurs hôtes se trouve aux Archives nationales (F7 4686). — Voir encore, aux Archives, sur les Dufrenoy, les pièces suivantes : — Y, 5208, 17 janvier 1766, Simon Petit Dufrenoy achète la charge de procureur au Châtelet de défunt Louis Frizon de Demarincourt ; — et les plaquettes AF. IV, 916 (no 18) ; AF. IV, 948 (n° 16) ; AF. IV, 4531 (nO 84).</p>
+        <p>VII. — Les tribulations de M. de Murville. —André deMur- ville élait né le 7 mai 1753. Dans son dossier du ministère de la Guerre, il y a une copie (abrégée) de son acte de naissance, d'après les registres de Saint-Eustachè : « L'an 1753, le 8 mai, fut nommé Pierre-Nicolas, né d'hier, fils de Nicolas-Charles- André et de Jeanne Fisallier, son épouse, en présence des témoins dénommés audit acte. »</p>
+        <p>Page 148. — Les aventures militaires de Murville, je les raconte d'après les pièces de son dossier du ministère dela Guerre, qu'a bien voulu me signaler et me communiquer le savant M. Hennet, directeur des Archives administratives au ministère de la Guerre.</p>
+        <p>VIII. — Sur Florian, voir les « Ci-Devant Nobles » et la Révolution, par le comte G. Mareschal de Bièvre, Paris (Emile-Paul), 1914. Onze chapitres sont consacrés à« Florian révolutionnaire ». L'auteur de cet excellent ouvrage a beaucoup d'estime, avec raison, pour le fabuliste ; et, son caractère, il le juge avec modération. En le lisant, on est, je crois, tenté d'être plus sévère que l'historien. — Voir aussi Florian, sa vie, son œuvre, par G. Saillard, Paris et Toulouse, 1912.</p>
+        <p>Page 180. — Les idées de Bouquier sur l'instruction publique, les voici : « Citoyens, les plus belles écoles, les plus utiles, les</p>
+        <p>
+          <pb/>
+        </p>
+        <p>IX. — Un conventionnel en mission. — La Mission du conventionnel Lakanal dans la Dordogne en l'an II (octobre 1793, août 1794), par Henri Labroue. Paris (Champion) [1916]. Cf. Lakanàl en Amérique, par Eugène Welvert (Feuilles d'histoire, septembre-octobre 1910).</p>
+        <p>XI. — Trois amis de Mm. de Staël. — Mmt de Staël et la</p>
+        <p>-</p>
+        <p>Suisse, par Pierre Kohler, Lausanne et Paris (Payot), 1916. — Cf. le Salon de Madame Necker, par le comte d'Haussonville, Paris (Calmann-Lévy) ; et, bien entendu, Sainte-Beuve.</p>
+        <p>XII. — Les costumes de M. de Chateaubriand. — Ces petits portraits de Chateaubriand, je les emprunte évidemment aux livres que voici : — les Mémoires d'outre-tombe et les Souvenirs d'enfance et de jeunesse (manuscrit de 1826, Paris, 1874), l'Essai sur les révolutions, les Voyages en Amérique, l'Itiné-raire, le Dernier Abencerage. Et puis: les mémoires de Villèle, .de Hyde de Neuville, du duc de Raguse, de M*"' de Boigne, de M™* de Chastenay, les Souvenirs du chevalier de Cussy; le Journal inédit de Mni" de Marigny et les Cahiers de M™* de Chateaubriand, publiés par G. Ladreit de Lacharrière (Paris, 1907 et 1909); les Souvenirs et Correspondance tirés des papiers de Mm. Scanner ; les Pensées, Essais, Maximes et Cor-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Page 258. — Sur l'acte de cléricature de Chateaubriandr voir</p>
+        <p>Biré, édition des Mémoires d'outre-tombe, tome 1, page 468.</p>
+        <p>Page 259. — Sur Chateaubriand bénédictin, voir Annales de philosophie chrétienne, t. VI, page 392; document cité par Biré, les Dernières Années, p. 159.</p>
+        <p>Page 268. — Sur le séjour de Chateaubriand dans le Suffolk., voir An pays d'exil de Chateaubriand, par Anatole Le Braz, Paris, 1909.</p>
+        <p>Page 277. — Le « sabre turc » n'est-il pas le « grand sabre de mamelouk » dont Chateaubriand parle dans les Mémoires (t. X, p. 150), et qui, à son dire, intimida les policiers quand ~ ils vinrent l'arrêter, après l'aventure de la duchesse de Berry ?</p>
+        <p>Voir, là-dessus, le comte de Marcellus, Chateaubriand et son temps, page 422.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Page 289. — « Une auréole autour de son front irrité... » Discours prononcé, en 1848, par J.-J. Ampère, aux funérailles de Chateaubriand.</p>
+        <p>Page 293. — « Le repos dans le génie... » Sainte-Beuve, article publié en 1834 dans la Revue des Deux Mondes et inséré en 1845 dans le premier volume des Portraits contemporains .</p>
+        <p>du Plessis et citée par E. Birs Dernières Années de Cha-</p>
+        <p>teaubriand, p. 201.</p>
+        <p>FIN DES NOTES</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>TABLE</p>
+        <p>Pages 1. — PÈLERINS DE VENISE 5 II. — HUMANISTES DÉVOTS. 25 III. — JEAN DE LA FONTAINE 45 IV. — UN FINANCIER SOUS LA MONARCHIE... 65 V. — LE FRÈRE DE DIDEROT 85.</p>
+        <p>VI. — ADÉLAÏDE DUFRENOY 101 VII. — LES TRIBULATIONS DE M. DE MURVILLE.. 133 VIII. — NÉMORIN QUI CHANTE LA « CARMAGNOLE ». 167 IX. — UN CONVENTIONNEL EN MISSION.... 189 X.—LA COMTESSE D'ALBANY. 211 XI. — TROIS AMIS DE Mme DE STAEL.... 231 XII. — LES COSTUMES DE M. DE CHATEAUBRIAND.. 251 NOTES ................ 303</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>ACHEVÉ D'IMPRIMER</p>
+        <p>PAR</p>
+        <p>L'IMPRIMERIE CHARLES COLIN</p>
+        <p>A MAYENNE</p>
+        <p>POUR</p>
+        <p>LA NOUVELLE LIBRAIRIE NATIONALE</p>
+        <p>A PARIS</p>
+        <p>LE 17 SÈPTEMBRE 1917</p>
+        <p><pb/> ------------------------------------------------------------------------ ------------------------------------------------------------------------</p>
+        <p>LA NOUVELLE LIBRAIRIE NATIONALE</p>
+        <p>II, RUE DE MÉDICIS — PARIS</p>
+        <p>PUBLIE</p>
+        <p>LES SOUVENIRS</p>
+        <p>DES MILIEUX LITTÉRAIRES, POLITIQUES, ARTISTIQUES</p>
+        <p>ET MÉDICAUX DE 1880 A 1908</p>
+        <p>DE LÉON DAUDET</p>
+        <p>F ANTOMES ET VIVANTS</p>
+        <p>PREMlÈltE SÉRIE : DE 1880 A' 1885</p>
+        <p>Un vol. in-i6 de x-342 pages (14e mille) .. 3 fr. 5o</p>
+        <p>DEVANT LA DOULEUR</p>
+        <p>DEUXIÈME SÉRIE : DE 1885 A 1892</p>
+        <p>L'Ecole de médecine en 1886 les élèves, les professeurs, les concours — Pasteur — Les Fournicr — Zola — Maupassant — Sardou — Dumas fils — Sarcey — Clemenceau — Le boulangisme — La wagnérom^nie — L'antimilitarisme, etc.</p>
+        <p>Un volume in-16 de vIll-304 pages (14e mille). 3 fr, 5o</p>
+        <p>L'ENTRE-DEUX-GUERRES</p>
+        <p>TROISIÈME SÉRIE : DE 18 9'2 A 18 9 5</p>
+        <p>Les attentats anarchistes, la mort de Carnot — Les engouements Le tolstoïsme, l'ibsénisme, le nietzschéisme — La fondation du Journal — Le procès de presse Lebaudy — Le temps de Panama — Rodays et Périvierau Figaro — La Revue des deux Mondes Buloz — La Nouvelle Revue : Madame Adam — La société londonienne en 1895 — Voyages en Hollande, en Allemagne et en Suède, etc.</p>
+        <p>Un volume in-16 de 3 20 pages (13 e mille) .. 3 fr. 50"</p>
+        <p>SALONS ET JOURNAUX</p>
+        <p>QUATRIÈME SÉRIE : DE 1896 A 19 0 8</p>
+        <p>Un volume in-i 6 de 320 pages (lie mille) .. 3 fr. 5o</p>
+        <p>La Librairie envoie son catalogue franco</p>
+        <p>EUG. MORIliU, IMP.</p>
+      </div>
     </body>
   </text>
 </TEI>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
- <teiHeader>
-<fileDesc>
-<titleStmt>
-<author key="Villers, Charles de (1765-1815)">Charles de Villers</author>
-<title>Lettre sur le roman intitulé "Justine, ou les Malheurs de la vertu" / par Charles Villers,... ; [introduction d'Auguste Poulet-Malassis]</title>
-</titleStmt>
-<editionStmt>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lettre sur le roman intitulé “Justine, ou les Malheurs de la vertu” / par Charles Villers,... ; [introduction d'Auguste Poulet-Malassis]</title>
+        <author key="Villers, Charles de (1765-1815)">Charles de Villers</author>
+      </titleStmt>
+      <editionStmt>
         <edition>OBVIL/BNF</edition>
         <respStmt>
           <resp>reprise des textes</resp>
           <name>Amélie Canu</name>
         </respStmt>
       </editionStmt>
-<publicationStmt>
+      <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
         <availability status="restricted">
@@ -22,147 +22,150 @@
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
-<sourceDesc>
-<bibl>
-<author>Villers, Charles de (1765-1815)</author>, <title>Lettre sur le roman intitulé "Justine, ou les Malheurs de la vertu" / par Charles Villers,... ; [introduction d'Auguste Poulet-Malassis]</title>, <date>1877</date>,description :,30 pages
-</bibl>
-<publisher>J. Baur (Paris)</publisher>
-<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k1143586</idno>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1877">1877</date>
-</creation>
-<langUsage>
-<language ident="fr"/>
-</langUsage>
-</profileDesc>
- </teiHeader>
+      <sourceDesc>
+        <bibl> <author>Villers, Charles de (1765-1815)</author>, <title>Lettre sur le roman intitulé "Justine, ou les Malheurs de la vertu" / par Charles Villers,... ; [introduction d'Auguste Poulet-Malassis]</title>, <date>1877</date>,description :,30 pages </bibl>
+        <publisher>J. Baur (Paris)</publisher>
+        <idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k1143586</idno>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1877">1877</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-    <div>
-<p><pb/></p>
-<p>LETTRE</p>
-<p>MJR LE ROMAN INTITULK</p>
-<p>JUSTINE</p>
-<p>on</p>
-<p>LES £WALHEU%S CDE LA VE^TU l'AR ft</p>
-<p>Charles VILLKRS</p>
-<p>\ntcur de VEssai.sur l'esprit et l'inflùcnr&lt;de la Réfnrmalion de Luther</p>
-<p>PARIS</p>
-<p>.1 BA U R. E l) II i; l! l&lt; 1 1 I1UK DES S.AINTS-rÉRES. I</p>
-<p>.877</p>
-<p><pb/></p>
-<p>¿"¡et' r~°-.rïé~i~ëv.I~~i:bŸâi~~é.=,` :i&lt;c ï t^ •'̃̃' $&amp;$&amp;$$ ?W~?- ii
-jà&amp;ÂÊ0r4\ CE ]/^ÏRQBERT^ ~i l'~ 'T.t; 1: ~~6'&lt;)~O~~JM l'~âvzv =' -T.- r'
--elîmfMaâamê^u^nd^.en^r^û ..i. (, '¥. ?~ :;¡. Frétédées d?oBservati6ns':
-n©iti- f éjl es sur les Mémoires i sçèretsï dits Vtie- Bachaumopt^. et
-\èur [tyjÈs-: Par $|i^vjeçtfa^liiriilejl-de;:jà?-réliu^
-^fc^^Mà^a^fdùiDèffand; ,o&lt;&gt;&lt; ,"0'-&lt; 'J^èt|tiin^eaiir^hrie^ :̃•:̃•̃/ •'•"
-&gt;t'd: u^P^x^papiei-yèr^é^: 6 --ff'. -d t 'i- j ̃•ï'' to rWhatrrian
-r:24fr. v? ;• ·' ·Y1..A.I;p`Vl41`·c~ ;··fi··f,l ;~=~ "+xa:· :?':(.
-~o~ChiQ~ -12.tt. ¡ ,~Yt'</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>Ou les ^Malheurs de la Vertu 1797</p>
-<p>SUR LE ROMAN INTITULÉ</p>
-<p>JUSTINE</p>
-<p>LETTRE</p>
-<p>1</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>LETTRE</p>
-<p>SUR LE ROMAN INTITULÉ</p>
-<p>y~~JSTINE</p>
-<p>^^USTINE I 'é- i i • ;A 1 ou</p>
-<p>\wLF;S! ,ç`7I~A HEU~S 'DE LA `UE~,TU PAR</p>
-<p>CHARLES VILLERS</p>
-<p>Auteur de l'Essai sur l'esprit et l'influence</p>
-<p>de la Réformation de Luther</p>
-<p>PARIS</p>
-<p>J. BAUR, ÉDITEUR II, RUE DES SAINTS-PÈRES, II I</p>
-<p>1877</p>
-<p><pb/></p>
-<p>(iD</p>
-<p>-1)</p>
-<p><pb/></p>
-<p>(1) Voir l'Histoire de la Presse" de Hatin, t. VII, p. 576.</p>
-<p><pb/></p>
-<p>joué, sous le premier empire, un rôle de médiateur littéraire, et
-parfois politique, entre l'Allemagne et la France, exposé très en détail
-dans l'article que la Biographie universelle de Michaud lui a consacré.
-La liste de ses ouvrages est considérable et variée; le plus connu reste
-l'Essai sur l'esprit et l'influence de la réformation de Luther (i8o3),
-couronné par l'Institut de France, qui a eu plusieurs éditions et a été
-traduit en diverses langues.</p>
-<p><pb/></p>
-<p>production monstrueuse, dont personne n'a jamais pu lire dix pages sans
-que le coeurlui levât et que le livre lui tombât des mains sa bonne foi
-et son courage philosophique font l'intérêt de son article. Après
-l'avoir lu, on connaît au moins la thèse du roman, et l'on a une idée
-suffisante de la façon dont elle est traitée. Sans doute les rares
-possesseurs de ce monument mystérieux d'aliénation et d'infamie, qui le
-cèlent dans les tiroirs secrets de leurs cabinets, seraient, pour la
-plupart, fort embarrassés, au pied levé, d'en parler aussi pertinemment.</p>
-<p><pb/></p>
-<p>04. T.-éM.</p>
-<p>(r) Hambourg, I7g8, 2 vol. in-8.</p>
-<p><pb/></p>
-<p>Ou les éMalheurs de la Vertu</p>
-<p>LETTRE</p>
-<p>SUR LE ROMAN INTITULÉ</p>
-<p>JUSTINE</p>
-<p>1797</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>LETTRE</p>
-<p>SUR LE ROMAN INTITULÉ</p>
-<p>JUSTINE</p>
-<p>Ou les oMalheurs de la 'Vertu</p>
-<p>Vous m'avez ordonné, Madame, de lire Justine et de vous en rendre
-compte. Vous ne saviez pas quelle tâche vous m'impo-, siez. Vingt fois
-le dégoût et l'indignation m'ont fait tomber le livre des mains. Sa trop
-grande célébrité me l'a toujours fait reprendre, et seule a soutenu ma
-curiosité jusqu'au bout. Je l'ai parcouru cependant plutôt que je ne
-l'ai lu; et content d'en</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Premièrement, c'est que vice et vertu sont des termes qui n'ont par
-eux-mêmes aucune signification, et qu'il n'existe rien qui soit en effet
-vicieux ou vertueux.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>H n'est point de serpent, ni de monstre odieux, Qui par l'art imité ne
-puisse plaire aux yeux.</p>
-<p>Ces monstres-ci sont fort odieux, et ne plaisent ni aux yeux ni à
-l'esprit. Diriezvous bien cependant que peu d'ouvrages ont eu autant
-d'éditions que cette misérable Justine ? Que penser d'un temps où il
-s'est trouvé un écrivain pour composer</p>
-<p><pb/></p>
-<p>un tel roman, des libraires pour le débiter et un public pour l'acheter ?</p>
-<p>Je suis, etc.</p>
-<p>V.</p>
-<p>P. S. Vous lirez, peut-être, Madame, dans les Fragments sur Paris, de M.
-le docteur Meyer, que l'auteur de Justine est M. de Laclos, connu
-surtout par son roman des Liaisons dangereuses. Il n'en est rien. Je
-craindrais de faire rougir les mânes de la belle Laure. Que ceci reste
-une énigme entre vod^etlôjoi.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>Paris, imprimerie Mottero\, 3 1, rue du Dragon,</p>
-    </div>
+      <div>
+        <p>
+          <pb/>
+        </p>
+        <p>LETTRE</p>
+        <p>MJR LE ROMAN INTITULK</p>
+        <p>JUSTINE</p>
+        <p>on</p>
+        <p>LES £WALHEU%S CDE LA VE^TU l'AR ft</p>
+        <p>Charles VILLKRS</p>
+        <p>\ntcur de VEssai.sur l'esprit et l'inflùcnr&lt;de la Réfnrmalion de Luther</p>
+        <p>PARIS</p>
+        <p>.1 BA U R. E l) II i; l! l&lt; 1 1 I1UK DES S.AINTS-rÉRES. I</p>
+        <p>.877</p>
+        <p>
+          <pb/>
+        </p>
+        <p>¿"¡et' r~°-.rïé~i~ëv.I~~i:bŸâi~~é.=,` :i&lt;c ï t^ •'̃̃' $&amp;$&amp;$$ ?W~?- ii jà&amp;ÂÊ0r4\ CE ]/^ÏRQBERT^ ~i l'~ 'T.t; 1: ~~6'&lt;)~O~~JM l'~âvzv =' -T.- r' -elîmfMaâamê^u^nd^.en^r^û ..i. (, '¥. ?~ :;¡. Frétédées d?oBservati6ns': n©iti- f éjl es sur les Mémoires i sçèretsï dits Vtie- Bachaumopt^. et \èur [tyjÈs-: Par $|i^vjeçtfa^liiriilejl-de;:jà?-réliu^ ^fc^^Mà^a^fdùiDèffand; ,o&lt;&gt;&lt; ,"0'-&lt; 'J^èt|tiin^eaiir^hrie^ :̃•:̃•̃/ •'•" &gt;t'd: u^P^x^papiei-yèr^é^: 6 --ff'. -d t 'i- j ̃•ï'' to rWhatrrian r:24fr. v? ;• ·' ·Y1..A.I;p`Vl41`·c~ ;··fi··f,l ;~=~ "+xa:· :?':(. ~o~ChiQ~ -12.tt. ¡ ,~Yt'</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>Ou les ^Malheurs de la Vertu 1797</p>
+        <p>SUR LE ROMAN INTITULÉ</p>
+        <p>JUSTINE</p>
+        <p>LETTRE</p>
+        <p>1</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>LETTRE</p>
+        <p>SUR LE ROMAN INTITULÉ</p>
+        <p>y~~JSTINE</p>
+        <p>^^USTINE I 'é- i i • ;A 1 ou</p>
+        <p>\wLF;S! ,ç`7I~A HEU~S 'DE LA `UE~,TU PAR</p>
+        <p>CHARLES VILLERS</p>
+        <p>Auteur de l'Essai sur l'esprit et l'influence</p>
+        <p>de la Réformation de Luther</p>
+        <p>PARIS</p>
+        <p>J. BAUR, ÉDITEUR II, RUE DES SAINTS-PÈRES, II I</p>
+        <p>1877</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(iD</p>
+        <p>-1)</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(1) Voir l'Histoire de la Presse" de Hatin, t. VII, p. 576.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>joué, sous le premier empire, un rôle de médiateur littéraire, et parfois politique, entre l'Allemagne et la France, exposé très en détail dans l'article que la Biographie universelle de Michaud lui a consacré. La liste de ses ouvrages est considérable et variée; le plus connu reste l'Essai sur l'esprit et l'influence de la réformation de Luther (i8o3), couronné par l'Institut de France, qui a eu plusieurs éditions et a été traduit en diverses langues.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>production monstrueuse, dont personne n'a jamais pu lire dix pages sans que le coeurlui levât et que le livre lui tombât des mains sa bonne foi et son courage philosophique font l'intérêt de son article. Après l'avoir lu, on connaît au moins la thèse du roman, et l'on a une idée suffisante de la façon dont elle est traitée. Sans doute les rares possesseurs de ce monument mystérieux d'aliénation et d'infamie, qui le cèlent dans les tiroirs secrets de leurs cabinets, seraient, pour la plupart, fort embarrassés, au pied levé, d'en parler aussi pertinemment.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>04. T.-éM.</p>
+        <p>(r) Hambourg, I7g8, 2 vol. in-8.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Ou les éMalheurs de la Vertu</p>
+        <p>LETTRE</p>
+        <p>SUR LE ROMAN INTITULÉ</p>
+        <p>JUSTINE</p>
+        <p>1797</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>LETTRE</p>
+        <p>SUR LE ROMAN INTITULÉ</p>
+        <p>JUSTINE</p>
+        <p>Ou les oMalheurs de la 'Vertu</p>
+        <p>Vous m'avez ordonné, Madame, de lire Justine et de vous en rendre compte. Vous ne saviez pas quelle tâche vous m'impo-, siez. Vingt fois le dégoût et l'indignation m'ont fait tomber le livre des mains. Sa trop grande célébrité me l'a toujours fait reprendre, et seule a soutenu ma curiosité jusqu'au bout. Je l'ai parcouru cependant plutôt que je ne l'ai lu; et content d'en</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Premièrement, c'est que vice et vertu sont des termes qui n'ont par eux-mêmes aucune signification, et qu'il n'existe rien qui soit en effet vicieux ou vertueux.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>H n'est point de serpent, ni de monstre odieux, Qui par l'art imité ne puisse plaire aux yeux.</p>
+        <p>Ces monstres-ci sont fort odieux, et ne plaisent ni aux yeux ni à l'esprit. Diriezvous bien cependant que peu d'ouvrages ont eu autant d'éditions que cette misérable Justine ? Que penser d'un temps où il s'est trouvé un écrivain pour composer</p>
+        <p>
+          <pb/>
+        </p>
+        <p>un tel roman, des libraires pour le débiter et un public pour l'acheter ?</p>
+        <p>Je suis, etc.</p>
+        <p>V.</p>
+        <p>P. S. Vous lirez, peut-être, Madame, dans les Fragments sur Paris, de M. le docteur Meyer, que l'auteur de Justine est M. de Laclos, connu surtout par son roman des Liaisons dangereuses. Il n'en est rien. Je craindrais de faire rougir les mânes de la belle Laure. Que ceci reste une énigme entre vod^etlôjoi.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>Paris, imprimerie Mottero\, 3 1, rue du Dragon,</p>
+      </div>
     </body>
   </text>
 </TEI>

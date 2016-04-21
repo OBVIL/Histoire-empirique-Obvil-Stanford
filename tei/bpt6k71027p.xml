@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
- <teiHeader>
-<fileDesc>
-<titleStmt>
-<author key="Anonyme">Anonyme</author>
-<title>La vengeance de Thalie : poëme critique de la pièce des "philosophes"</title>
-</titleStmt>
-<editionStmt>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La vengeance de Thalie : poëme critique de la pièce des “philosophes”</title>
+        <author key="Anonyme">Anonyme</author>
+      </titleStmt>
+      <editionStmt>
         <edition>OBVIL/BNF</edition>
         <respStmt>
           <resp>reprise des textes</resp>
           <name>Amélie Canu</name>
         </respStmt>
       </editionStmt>
-<publicationStmt>
+      <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
         <availability status="restricted">
@@ -22,186 +22,143 @@
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
-<sourceDesc>
-<bibl>
-<author></author>, <title>La vengeance de Thalie : poëme critique de la pièce des "philosophes"</title>, <date>1760</date>,description :,14 pages
-</bibl>
-<publisher>[s.n.] (Genève)</publisher>
-<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k71027p</idno>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1760">1760</date>
-</creation>
-<langUsage>
-<language ident="fr"/>
-</langUsage>
-</profileDesc>
- </teiHeader>
+      <sourceDesc>
+        <bibl> <author/>, <title>La vengeance de Thalie : poëme critique de la pièce des "philosophes"</title>, <date>1760</date>,description :,14 pages </bibl>
+        <publisher>[s.n.] (Genève)</publisher>
+        <idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k71027p</idno>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1760">1760</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-    <div>
-<p>LA VENGEANCE I I DE 11</p>
-<p>THALIE I POEME CRITIQUE I DELA PIECE 1</p>
-<p>DES ̃ I</p>
-<p>PHILOSOPHES* I</p>
-<p>GENEVE*</p>
-<p>M. DCC ® L X.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>LA VENGEANCE</p>
-<p>D E</p>
-<p>TH.. AL I E P O E M E.</p>
-<p>Ne dicam flulù mirati (î modo ego &amp; vos</p>
-<p>Scimus inurbanum lepido feponere difle*</p>
-<p>Horat, Art. Pçët»</p>
-<p>o n 5 loin de L'Hélicon fans fuite triftement</p>
-<p>rhalie un mafque en main revois profondément.</p>
-<p>Des larmes échappoient des yeux de U DéeCe a De ces yeux dont jamais la
-jaloufe Ttiftefïè N'avoit ofé ternir l'éclat riant &amp; vif.</p>
-<p>IOW%D "t'i.1. &amp;.101. ¿Ut lâdlb J.\ K}" (il ;)</p>
-<p><pb/></p>
-<p>Et bien-tôt la colère enflammant fon vifage ip'une voix oppreffée elle
-tint ce langage. Suis-je encore Thalie ou le cruel Deftin M'4-t-il donc
-enlevé l'attribut fouverain ? De reprendre en amufant droit de ma
-nailTance, Qif en Grece en Italie &amp; que fur-tout en France</p>
-<p><pb/></p>
-<p>Mais c'eft trop endurer une cruelle ofFénfe Melpomène, dit-elle, en
-rompant le (îlence Lâche Se perfide fœur tu fentiras mes coups :t
-J'épuiferai fur toi les traits de mon courroux. Je ne redoute point tes
-AcTteurs emphatiques, Ni leurs roulemens d'yeux ni leurs voix fréné-</p>
-<p>tiques,</p>
-<p>Toujours (impie comme elle en tes gémiffèmens, 5</p>
-<p>Ton expreflion fuit toujours fés mouvemens. De l'erreur des François,
-non, tu n'es point la. ca.ufe</p>
-<p>Si ton ftyle en: changé cette métamorphofe</p>
-<p><pb/></p>
-<p>Sous leur plume, d'abord les tombeaux font ouverts</p>
-<p>Notre honneur ne peut être en de plus sûres mains</p>
-<p>Les affronts qu'on me fait font plusgrands que les tiens.</p>
-<p><pb/></p>
-<p>Sur ma-feètie dès -lors on ne vit que mouchoirs*. Ceux qui vinrenraprès
-fe firent âés devoirs De l'imiter en tout-: ils -eurent des fufFragës.
-Jamais je ft^apjprotivai ces ënîiuyeux ouvrages Ils ne pafïeront point à
-la poftérité \x</p>
-<p>La fureur- dit nbuveau va le perdre aujourd'hui i Son goût falfifié
-nomme lé ftdid décence^ La malice, génie &amp; les mots 'éloquence. Voilà
-comme en ce jour ils veulent tous leurs</p>
-<p>versj- '̃• l -̃ ̃* "1- t</p>
-<p>Pourvu qu'ils fonnent bien que tout foit detravers r</p>
-<p>Sansirttérêt n^importe ils tiennent du prodige» s Je prétens lés guérir
-d'un femblable vertige:. Tout ingrat qu'eft ce Peuple il m'intérelïe encorj</p>
-<p>Mais fa le punirai de l'infolent mépris</p>
-<p>Dont depuis quelque-tems,j 'apperçois que Paris</p>
-<p><pb/></p>
-<p>Affeéte d'accabler mon élève Molière.</p>
-<p>Qu'aux rebelles François préparoit fa ven-</p>
-<p>r</p>
-<p>geance.</p>
-<p>Oui, je prétens dit-elle avec impatience, Que Paris de lui-même abjure
-fon erreur Qu'en voyant fes écarts il en ait de l'horreur j, Qu il
-reconnoiflè encor la belle Comédie La Critique fans fiel feul enfant de
-Thalie y Une intrigue liée avec ordre &amp; clarté,</p>
-<p>Conduite par dégrés &amp; fans obfcurké</p>
-<p>Et démêlée enfin comme elle eft commencée La vérité par-tout faillant
-dans la penfée Un personnage adroit foutenu conféquent Quatre mots de
-Morale, &amp; douze de plaifant. Le Comique en un mot eft né pour faire rire
-y C'en* un eu délicat &amp; non une fatyre Loin de fentir jamais la
-déclamation.</p>
-<p>.J!i'"</p>
-<p><pb/></p>
-<p>1. -1 ·.</p>
-<p>C'eft un drame cela. Ceft une Comédie Et tout Paris en foule y court
-avec furie ? Ce-n'eft qu'un verbiage habillant des noirceurs, Incapable
-en tout point. de corriger les mœurs.• Le mal-adroit auteur lui-même fe
-décèle. On voit que ce n'eft point l'amour du bien, le zèle</p>
-<p>D'arrêter les progrès d'un germe dangereux Qui*tire lé poifon de fes
-doigts venimeux, Mais le honteux défir &amp; la'fureur vulgaire De venger
-quelque haine ou quelqu'autre mifere</p>
-<p>Où les honnêtes gens ne daignent point entrer. Que m'importe en effet, à
-bien confidérer, A moi pour mes vingt fols bloti fous une loge Que ce
-Dortidius ou tel autre allobroge Ayent été chafTés d'une telle maifon Z&gt;
-# Et que d'Efcrocs partout on leur donne le nom? On penferoit cju'Efcroc
-vient de Philofophie j Mais la vertu jamais n'enfeigna d'infamie, En
-épurant le coeur elle rend généreux</p>
-<p>Le fort du Philofophe eft d'être vertueux. Il falloit donc voulant
-fronder un faux fyftême LahTant tout autre objet, ne frapper que lui-</p>
-<p>même à</p>
-<p><pb/></p>
-<p>*–r~~ffc~.i~ t' ` i J ,'( +: &lt;1,</p>
-<p>Employé* pour le faire un bon rationnement Moins m&amp;îiant qùetotiae &amp; non
-pas duclin^</p>
-<p>qU,anr~, 1 ") .1') 1 Il'</p>
-<p>Oa ipfàtSti il vaîoit mille fois mieux ie taire f Que d'aller fans
-inftinâ: impudent .plagiaire r [. Pme^é^fslîun^Tautreletifru,</p>
-<p>,z.</p>
-<p>| Et rajuftant le tout dans un vers mal coufu i</p>
-<p>Sanshonté&amp;~à~s~pûde~r,efl'xontément~produiré</p>
-<p>Sanshohteéc^nspuciear^efeontément produire l Comme une Comédie, une
-plate ifatire^. sv Y 1 Où l'on voit ïîmplement un pauvre auteur blefleV
-Un ëtçkït fec &amp; noir nn cœur intérelïe.</p>
-<p>C'eft par de tels: difcours çon tinua ThalLe, s</p>
-<p>j Qu'ettiPrande on reviendra de la folle manie</p>
-<p>Î, De prôné~ des 'talens Cq~i e~ fu'r~nti~is~'</p>
-<p>De prônè^ des talens qui n'en furent jamais, t</p>
-<p>Et fa gloire éclatante en tous lieux s'étendra. Ainfi parla Tliaiie en
-gagnant l'hipppcrçne, On dit du merveilleux touchant cette fontaine v</p>
-<p><pb/></p>
-<p>̃̃ II •</p>
-<p>La divine liqueur s'évapore &amp; s'altère s</p>
-<p>Qu'elle perd, &amp; fa force &amp; fa vertu première, Larfoùrce fe divife en
-différens canaux j</p>
-<p>Chaque genre d'écrire a le fien dont les eaux Jléchiifént fous les loix
-du plus fameux. Poëte. Le canal du comique a l'embouchure étroite La
-poëtique lymphe en fort fort rarement j i Apollon n'y foufcrit que
-difficilement</p>
-<p>Sa diftribution eft le lot de Molière.</p>
-<p>C'eft-la que s'enyvrant de cette eau falutaire, Il pourfuit la nature au
-fond du cœur humain La cherche, lafaifitd'un œil toujours certain, Qu'il
-en fiit des portraits frappans de reiremx blance,</p>
-<p>Enviés par Regnard admirés par Térence. Quand Thàîie arriva, ces Poçtes
-fameux</p>
-<p>Voultirefit l'engager dans un débat entr'eux. L'un prouvoit que le bien
-fans cefTe nous attire; y Et l'autre que le mal a fur nous plus
-d'empire. Mais la Mûfe en l'esprit avoit trop fon proj et, Et remit a
-traiter un fi grave fujet. y</p>
-<p>Au pied de la fontaine unbaffin de porphyre Reçoitdatis fa rondeur les
-eaux qu'en fon délire.</p>
-<p><pb/></p>
-<p>Chaque Poëre taitfè échapper du canal ;)</p>
-<p>Et le cryftal s'eft peint d'une noire couleur. Thalie en approchant, en
-eut de la frayeur. 1 Les deux monftres troubloient l'onde claire &amp; |
-brillante.</p>
-<p>Jamais on ne la vit tellement écumante j • Ces ferpens y plon^eoient
-leurs corps volumineux.</p>
-<p>La Mufe les frappa d'un feul coup tous les deux D'un immortel ofîer de
-puifTance magique,. Capable de changer B** en empirique</p>
-<p>Tel bon médecin tel en guerrier vaillant Et le grand Roi de Pruffe en
-Monarque indo-</p>
-<p>l lent. ` °</p>
-<p><pb/></p>
-<p>Auffitôt les ferpens changerent de figure La Noirceur devient fiole, &amp;
-puife une encre impure</p>
-<p>La Haine de rampant, devient ferpentaîlc. La Mufe alors leur dit d'un
-fon de voix mêlé De colère &amp; de joie, allez, monftres horribles. Pour
-avoir infecté ces retraites paifibles, Vous auriez mér iré.Mais fervez
-mon courroux Un jour je purgerai la nature de vous.</p>
-<p>Allez, fendez les airs; je veux punir la France De s'être fait un goût
-dont l'Hélicon s'offenfe. Je pdurrois la laifTer dans fon illusion</p>
-<p>Mais ce peuple eft encor cher aux yeuxd* Apollon. Jeprérens qu'il
-foit.fait du nom de Comédie Un libelle complet, bien méchant fans génie,
-Dont l'intrigue plate &amp; le fel foit âcreté j Enfin dont tout Paris foit
-fi fort dégoûté Qu'il reconnoùTe un jour l'aimable badinage, Et que fon
-repentir répare fon outrage. Fuyez la Mufe fit un fignal de la main.</p>
-<p><pb/></p>
-<p>N'importe un Dieu rordoïTTnlT^l fait les Philofbphès. /$'\i :?.£</p>
-<p>~ï~ .Y?-7</p>
-    </div>
+      <div>
+        <p>LA VENGEANCE I I DE 11</p>
+        <p>THALIE I POEME CRITIQUE I DELA PIECE 1</p>
+        <p>DES ̃ I</p>
+        <p>PHILOSOPHES* I</p>
+        <p>GENEVE*</p>
+        <p>M. DCC ® L X.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>LA VENGEANCE</p>
+        <p>D E</p>
+        <p>TH.. AL I E P O E M E.</p>
+        <p>Ne dicam flulù mirati (î modo ego &amp; vos</p>
+        <p>Scimus inurbanum lepido feponere difle*</p>
+        <p>Horat, Art. Pçët»</p>
+        <p>o n 5 loin de L'Hélicon fans fuite triftement</p>
+        <p>rhalie un mafque en main revois profondément.</p>
+        <p>Des larmes échappoient des yeux de U DéeCe a De ces yeux dont jamais la jaloufe Ttiftefïè N'avoit ofé ternir l'éclat riant &amp; vif.</p>
+        <p>IOW%D "t'i.1. &amp;.101. ¿Ut lâdlb J.\ K}" (il ;)</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Et bien-tôt la colère enflammant fon vifage ip'une voix oppreffée elle tint ce langage. Suis-je encore Thalie ou le cruel Deftin M'4-t-il donc enlevé l'attribut fouverain ? De reprendre en amufant droit de ma nailTance, Qif en Grece en Italie &amp; que fur-tout en France</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Mais c'eft trop endurer une cruelle ofFénfe Melpomène, dit-elle, en rompant le (îlence Lâche Se perfide fœur tu fentiras mes coups :t J'épuiferai fur toi les traits de mon courroux. Je ne redoute point tes AcTteurs emphatiques, Ni leurs roulemens d'yeux ni leurs voix fréné-</p>
+        <p>tiques,</p>
+        <p>Toujours (impie comme elle en tes gémiffèmens, 5</p>
+        <p>Ton expreflion fuit toujours fés mouvemens. De l'erreur des François, non, tu n'es point la. ca.ufe</p>
+        <p>Si ton ftyle en: changé cette métamorphofe</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Sous leur plume, d'abord les tombeaux font ouverts</p>
+        <p>Notre honneur ne peut être en de plus sûres mains</p>
+        <p>Les affronts qu'on me fait font plusgrands que les tiens.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Sur ma-feètie dès -lors on ne vit que mouchoirs*. Ceux qui vinrenraprès fe firent âés devoirs De l'imiter en tout-: ils -eurent des fufFragës. Jamais je ft^apjprotivai ces ënîiuyeux ouvrages Ils ne pafïeront point à la poftérité \x</p>
+        <p>La fureur- dit nbuveau va le perdre aujourd'hui i Son goût falfifié nomme lé ftdid décence^ La malice, génie &amp; les mots 'éloquence. Voilà comme en ce jour ils veulent tous leurs</p>
+        <p>versj- '̃• l -̃ ̃* "1- t</p>
+        <p>Pourvu qu'ils fonnent bien que tout foit detravers r</p>
+        <p>Sansirttérêt n^importe ils tiennent du prodige» s Je prétens lés guérir d'un femblable vertige:. Tout ingrat qu'eft ce Peuple il m'intérelïe encorj</p>
+        <p>Mais fa le punirai de l'infolent mépris</p>
+        <p>Dont depuis quelque-tems,j 'apperçois que Paris</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Affeéte d'accabler mon élève Molière.</p>
+        <p>Qu'aux rebelles François préparoit fa ven-</p>
+        <p>r</p>
+        <p>geance.</p>
+        <p>Oui, je prétens dit-elle avec impatience, Que Paris de lui-même abjure fon erreur Qu'en voyant fes écarts il en ait de l'horreur j, Qu il reconnoiflè encor la belle Comédie La Critique fans fiel feul enfant de Thalie y Une intrigue liée avec ordre &amp; clarté,</p>
+        <p>Conduite par dégrés &amp; fans obfcurké</p>
+        <p>Et démêlée enfin comme elle eft commencée La vérité par-tout faillant dans la penfée Un personnage adroit foutenu conféquent Quatre mots de Morale, &amp; douze de plaifant. Le Comique en un mot eft né pour faire rire y C'en* un eu délicat &amp; non une fatyre Loin de fentir jamais la déclamation.</p>
+        <p>.J!i'"</p>
+        <p>
+          <pb/>
+        </p>
+        <p>1. -1 ·.</p>
+        <p>C'eft un drame cela. Ceft une Comédie Et tout Paris en foule y court avec furie ? Ce-n'eft qu'un verbiage habillant des noirceurs, Incapable en tout point. de corriger les mœurs.• Le mal-adroit auteur lui-même fe décèle. On voit que ce n'eft point l'amour du bien, le zèle</p>
+        <p>D'arrêter les progrès d'un germe dangereux Qui*tire lé poifon de fes doigts venimeux, Mais le honteux défir &amp; la'fureur vulgaire De venger quelque haine ou quelqu'autre mifere</p>
+        <p>Où les honnêtes gens ne daignent point entrer. Que m'importe en effet, à bien confidérer, A moi pour mes vingt fols bloti fous une loge Que ce Dortidius ou tel autre allobroge Ayent été chafTés d'une telle maifon Z&gt; # Et que d'Efcrocs partout on leur donne le nom? On penferoit cju'Efcroc vient de Philofophie j Mais la vertu jamais n'enfeigna d'infamie, En épurant le coeur elle rend généreux</p>
+        <p>Le fort du Philofophe eft d'être vertueux. Il falloit donc voulant fronder un faux fyftême LahTant tout autre objet, ne frapper que lui-</p>
+        <p>même à</p>
+        <p>
+          <pb/>
+        </p>
+        <p>*–r~~ffc~.i~ t' ` i J ,'( +: &lt;1,</p>
+        <p>Employé* pour le faire un bon rationnement Moins m&amp;îiant qùetotiae &amp; non pas duclin^</p>
+        <p>qU,anr~, 1 ") .1') 1 Il'</p>
+        <p>Oa ipfàtSti il vaîoit mille fois mieux ie taire f Que d'aller fans inftinâ: impudent .plagiaire r [. Pme^é^fslîun^Tautreletifru,</p>
+        <p>,z.</p>
+        <p>| Et rajuftant le tout dans un vers mal coufu i</p>
+        <p>Sanshonté&amp;~à~s~pûde~r,efl'xontément~produiré</p>
+        <p>Sanshohteéc^nspuciear^efeontément produire l Comme une Comédie, une plate ifatire^. sv Y 1 Où l'on voit ïîmplement un pauvre auteur blefleV Un ëtçkït fec &amp; noir nn cœur intérelïe.</p>
+        <p>C'eft par de tels: difcours çon tinua ThalLe, s</p>
+        <p>j Qu'ettiPrande on reviendra de la folle manie</p>
+        <p>Î, De prôné~ des 'talens Cq~i e~ fu'r~nti~is~'</p>
+        <p>De prônè^ des talens qui n'en furent jamais, t</p>
+        <p>Et fa gloire éclatante en tous lieux s'étendra. Ainfi parla Tliaiie en gagnant l'hipppcrçne, On dit du merveilleux touchant cette fontaine v</p>
+        <p>
+          <pb/>
+        </p>
+        <p>̃̃ II •</p>
+        <p>La divine liqueur s'évapore &amp; s'altère s</p>
+        <p>Qu'elle perd, &amp; fa force &amp; fa vertu première, Larfoùrce fe divife en différens canaux j</p>
+        <p>Chaque genre d'écrire a le fien dont les eaux Jléchiifént fous les loix du plus fameux. Poëte. Le canal du comique a l'embouchure étroite La poëtique lymphe en fort fort rarement j i Apollon n'y foufcrit que difficilement</p>
+        <p>Sa diftribution eft le lot de Molière.</p>
+        <p>C'eft-la que s'enyvrant de cette eau falutaire, Il pourfuit la nature au fond du cœur humain La cherche, lafaifitd'un œil toujours certain, Qu'il en fiit des portraits frappans de reiremx blance,</p>
+        <p>Enviés par Regnard admirés par Térence. Quand Thàîie arriva, ces Poçtes fameux</p>
+        <p>Voultirefit l'engager dans un débat entr'eux. L'un prouvoit que le bien fans cefTe nous attire; y Et l'autre que le mal a fur nous plus d'empire. Mais la Mûfe en l'esprit avoit trop fon proj et, Et remit a traiter un fi grave fujet. y</p>
+        <p>Au pied de la fontaine unbaffin de porphyre Reçoitdatis fa rondeur les eaux qu'en fon délire.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Chaque Poëre taitfè échapper du canal ;)</p>
+        <p>Et le cryftal s'eft peint d'une noire couleur. Thalie en approchant, en eut de la frayeur. 1 Les deux monftres troubloient l'onde claire &amp; | brillante.</p>
+        <p>Jamais on ne la vit tellement écumante j • Ces ferpens y plon^eoient leurs corps volumineux.</p>
+        <p>La Mufe les frappa d'un feul coup tous les deux D'un immortel ofîer de puifTance magique,. Capable de changer B** en empirique</p>
+        <p>Tel bon médecin tel en guerrier vaillant Et le grand Roi de Pruffe en Monarque indo-</p>
+        <p>l lent. ` °</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Auffitôt les ferpens changerent de figure La Noirceur devient fiole, &amp; puife une encre impure</p>
+        <p>La Haine de rampant, devient ferpentaîlc. La Mufe alors leur dit d'un fon de voix mêlé De colère &amp; de joie, allez, monftres horribles. Pour avoir infecté ces retraites paifibles, Vous auriez mér iré.Mais fervez mon courroux Un jour je purgerai la nature de vous.</p>
+        <p>Allez, fendez les airs; je veux punir la France De s'être fait un goût dont l'Hélicon s'offenfe. Je pdurrois la laifTer dans fon illusion</p>
+        <p>Mais ce peuple eft encor cher aux yeuxd* Apollon. Jeprérens qu'il foit.fait du nom de Comédie Un libelle complet, bien méchant fans génie, Dont l'intrigue plate &amp; le fel foit âcreté j Enfin dont tout Paris foit fi fort dégoûté Qu'il reconnoùTe un jour l'aimable badinage, Et que fon repentir répare fon outrage. Fuyez la Mufe fit un fignal de la main.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>N'importe un Dieu rordoïTTnlT^l fait les Philofbphès. /$'\i :?.£</p>
+        <p>~ï~ .Y?-7</p>
+      </div>
     </body>
   </text>
 </TEI>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
- <teiHeader>
-<fileDesc>
-<titleStmt>
-<author key="Morel-Fatio, Alfred (1850-1924)">Alfred Morel-Fatio</author>
-<title>La "Comedia" espagnole du XVIIe siècle : cours de langues et littératures de l'Europe méridionale au Collège de France, leçon d'ouverture / par Alfred Morel-Fatio</title>
-</titleStmt>
-<editionStmt>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La “Comedia” espagnole du XVIIe siècle : cours de langues et littératures de l'Europe méridionale au Collège de France, leçon d'ouverture / par Alfred Morel-Fatio</title>
+        <author key="Morel-Fatio, Alfred (1850-1924)">Alfred Morel-Fatio</author>
+      </titleStmt>
+      <editionStmt>
         <edition>OBVIL/BNF</edition>
         <respStmt>
           <resp>reprise des textes</resp>
           <name>Amélie Canu</name>
         </respStmt>
       </editionStmt>
-<publicationStmt>
+      <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
         <availability status="restricted">
@@ -22,279 +22,308 @@
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
-<sourceDesc>
-<bibl>
-<author>Morel-Fatio, Alfred (1850-1924)</author>, <title>La "Comedia" espagnole du XVIIe siècle : cours de langues et littératures de l'Europe méridionale au Collège de France, leçon d'ouverture / par Alfred Morel-Fatio</title>, <date>1923</date>,description :,73 pages
-</bibl>
-<publisher>H. Champion (Paris)</publisher>
-<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k116010d</idno>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1923">1923</date>
-</creation>
-<langUsage>
-<language ident="fr"/>
-</langUsage>
-</profileDesc>
- </teiHeader>
+      <sourceDesc>
+        <bibl> <author>Morel-Fatio, Alfred (1850-1924)</author>, <title>La "Comedia" espagnole du XVIIe siècle : cours de langues et littératures de l'Europe méridionale au Collège de France, leçon d'ouverture / par Alfred Morel-Fatio</title>, <date>1923</date>,description :,73 pages </bibl>
+        <publisher>H. Champion (Paris)</publisher>
+        <idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k116010d</idno>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1923">1923</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-    <div>
-<p>LA</p>
-<p>I' SIÈCLE</p>
-<p>LEÇON D'OUVERTURE</p>
-<p>Membre de l'Institut. Professeur au Collège de France, Directeur l'École
-des Hautes Études</p>
-<p>DEUXIÈME ÉDITION REVUE</p>
-<p>PARIS</p>
-<p>LIBRAIRIE ANCIENNE HONORÉ CHAMPION- 5,</p>
-<p><pb/></p>
-<p>LA</p>
-<p>lA ESPAGNOLE DU XVIIe SIÈCLE</p>
-<p><pb/></p>
-<p>DU MÊME AUTEUR</p>
-<p>A LA MÊME LIBRAIRIE</p>
-<p>Catalogue des manuscrits espagnols de L* Bibliothèque nationale, 2 vol.
-in-4. ̃ Études sur l'Espagne.. Première série. 2e édition revue et
-augmentée. 1895: Pet. in-8. 1. L'Espagne en France. II. Recherçhes sur
-Lazarille de Tormes.. III. L'histoire dans Ruy Blas. IV. Espagnols et
-Flamands. V. Le Don Quichotte envisagé comme peinture et critique de la
-société espagnole du xvn et du xVII° siècle. -Deuxième série. In-8.
-Nouvelle édition revue et augmentée. 1906. In-8. 9 fr. Grands d'Espagne
-et petits princes allemands au xvme siècle d'après la correspondance
-inédite du comte de Fernan Nunez avec le prince E. de Salm-SaIm et la
-duchesse de Béjar.</p>
-<p>-,Nouvelles études sur sainte Thérèse. 191 1. In-8. 2 fr. 25</p>
-<p>Historiographie de Charles-Quint. Première partie, suivie des Mémoires
-de Charles-Quint, texte portugais et traduction française. In-8. 10 fr.
-Cinq recueils de pièces espagnoles. 191 1. In-8.</p>
-<p><pb/></p>
-<p>LA</p>
-<p>ESPAGNOLE, (inK|]DU SIÈCLE</p>
-<p>LEÇON D'OUVERTURE</p>
-<p>PAR</p>
-<p>A. M0REL-FATIO</p>
-<p>Membre de l'Institut, Professeur au Collège de France, Directeur â
-l'École des Hautes Études</p>
-<p>DEUXIÈME ÉDITION REVUE</p>
-<p>PARIS</p>
-<p>LIBRAIRIE ANCIENNE HONORÉ CHAMPION ÉDOUARD CHAMPION</p>
-<p>-QUAI MALAQUAIS</p>
-<p>192</p>
-<p><pb/></p>
-<p>AVANT-PROPOS</p>
-<p>C'est la brochure, totalement épuisée, que je réimprime La Comedia
-espagnole dit XVIIe siècle,. Leçon d'ouverture. Paris, F. Vieweg, 1885.</p>
-<p><pb/></p>
-<p>« M. Morel-Fatio développe d'abord cette idée, que tous les. peuples ont
-bien des drames et des comédies, mais.que tous n'ont pas un théâtre,
-c'està-dire une longue tradition dramatique, une série de pièces conçues
-d'après la même formule. 'A ce compte, la Grèce antique, l'Espagne et la
-France ont seules,un. théâtre, et l'Angleterre n'en a point, quoiqu'elle
-ait Shakspeare,. Puis, M. Morel-Fatio définit la comédie espagnole, en
-se servant du Discours de Lope de Vega « De la nouvelle manière de faire
-« aujourd'hui les comedias, » Il explique enfin com- ment et. pourquoi
-ce théâtre n'égale pas le nôtre et celui de Shakspeare, et par où il est
-néanmoins ori- ginal et intéressant.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>LA COMEDIA ESPAGNOLE DU XVIIe SIÈCLE</p>
-<p><pb/></p>
-<p>centralisée, dont tous les membres se sentent depuis longtemps unis
-et-solidaires, qui tous possèdent un fonds ;d liées, de sentiments, le
-souvenirs communs et qui, par suite, aient tous les mêmes mœurs et les
-mêmes aspirations. Une scène nationale, où puissent être transportés
-soit des passions tragiques, soit des travers et des vices capables
-d'émouvoir ou d'affecter .la société tout entière, n'est réalisable qu'à
-cette condition1..</p>
-<p>Mais cela ne suffit pas. Il est nécessaire encore que le drame quel
-qu'il soit, destiné refléter l'esprit de cette société, trouve une forme
-originale et répondant si bien aux goûtes et aux tendances du milieu
-qu'elle se fasse aussitôt accepter par le plus grand nombre et prenne
-aisément le pas sur toutes les autres manifestations de l`'art
-dramatique C'est parce que les conditions que je viens (f indiquer ont
-été remplies par les Grecs que l'on peut, dans l'antiquité, parler d'un
-théâtre grec, tandis qu'il in'existe pas de théâtre latin. Les Romains
-i. -Cette première et très essentielle condition d'une scène nationale a
-été parfaitement expliquée par M. K. HMlebrand dans ses Études
-italiennes. Paris, 1868, p. 145 et suiv.</p>
-<p><pb/></p>
-<p>En France, cette forme par excellence, qui a donné</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>concentre alors le vieil esprit espagnol, et de cette façon il réussit à
-traverser, quoique .péniblement et- non sans subir, des mutilations,
-cette période hostile et ingrate. Avec le réveil de la littérature
-nationale, le drame classique recouvre,: dès le premier tiers de ce.
-siècle, de nouvelles forces,, et en s'accommodant aux
-circonstances-regagne les positions abandonnées. Aujourd'hui encore,
-c'est la- comedia- des Lope de Calderon, légèrement modifiée, qui règne
-sans conteste chez nos voisins;, et tandis que chez nous la tragédie de
-Corneille, de Racine et de Voltaire semble ne plus, vouloir renaître de
-ses cendres éteintes., la forme inaugurée en Espagne. au xvii* siècle
-est restée assez vivace pour répondre aux nécessités de l'art dramatique
-contemporain, pour satisfaire aux exigences d'un public dont -l'idéale
-cependant notablement changé depuis le temps des Philippe.</p>
-<p>Qu'entend-on par çomedia dans la littérature espagnolè ? Ce mot de
-comedia l, bien loin de pouvoir 1. On sait qu'en général les drames
-espagnols du XVIIe siècle portent dans les imprimés du temps le titre de
-comedia famosa. Cet adjectif fanaosa, qui étonnait Voltaire, peut être
-rendu en</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Tous les auteurs espagnols qui ont disserté, au XVIIe siècle, sur la
-forme de leur art s'accordent pour insister sur le caractère
-essentiellement mixte de la comedia c'est l'expression qui revient partout.</p>
-<p>« Aujourd'hui la comedias (ou, comme d'autres disent, la représentation)
-consiste en une certaine rniscellanée, où il y a de tout », écrit en
-1617 un contemporain de Lope, Cristobal Suarez de Figueroa L'année
-d'avant, en 1616, certain poète de 1. El Passagère, éd. de Barcelone,
-1618, alivio III.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>¥om désigne» une ferme; nouvelle, les Espagnols auraient pu créer un
-terme nouveau au s en tenir a i. de Toledo, éd. de Barcelone, 163 F, f. 70V</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Cetté comedia nueva 2, comme la 3 qualifie Tirso de i. Ainsi El valiente
-Cespedes est dénommé tragi-comedia d'autres pièces comme Roma abrasada,
-El marido mas firme portent le titre de tragedia ou tragedia famosa.</p>
-<p>3. « De estas impertinencias y otras tales Ofrecio la comedia lihre y
-suelta » (Pedro de Urdemalas, jornada</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>soirée de tours,, étroitement associé la comedia esparsépare pas.- ce
-genre dramatique du poète que passe pour en être l'inventeur, je ne
-viens pas battre en brèche l'opinion reçue. Tout compte fait, il est
-juste de tenir Lope de Vega pour le père du nouveau drame, avec cette
-réserve cependant qu'on ne prendra pas cette paternité trop au pied de
-la lettre. La œmeMa n'est point sortie un beau jour tout armée du
-cerveau du poète d*autres lui ont fourni la matière, une matière, il est
-vrai, a peine dégrossie, qu'il s'est chargé de pâlir. Les éléments du
-poème dramatique, qu'il' a fait sien, existaient, mais sans cohésion
-suffisanté il fallait avoir l'idée de les mieux fondre en un tout
-harmonieux,, capable de s'imposer et de prendre. d'emblée la première
-place.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>[« En terminant, je dois rappelerune allusion encore inexpliquée de Juan
-Pérez de Montalban, sur laquelle j'avais naguère attiré l'attention des
-érudits. Cet ami et disciple de Lope, dans sa</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>dégradé par bassesse de style. » Puis d'autres ont mêlé les genres, «
-mis le roi dans la comédie ». Encore ici Lope ne cite personne, et
-pourtant il est des noms qui s'imposaient, celui de Juan de la Cueva,
-entre autres mais ce poète vivait et Lope a toujours été très attentif à
-ménager le prochain, un peu sans doute pour en être payé de retour</p>
-<p>;u. En ce qui concerne Jean de la Cueva, on ne voit pas très bien si
-Lope a évité de le nommer, considérant les tragicomédies de cet auteur
-comme une faute envers l'art, ou si, au contraire, il n'a pas voulu lui
-faire, en le citant, l'honneur de cette innovation, payant par cette
-omission le silence presque injurieux de la Cueva, qui dans son Egemplar
-poêlico (achevé de composer en 1606, mais non imprimé) n'avait pas dit
-un mot de Lope.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>plus être observé. Il suffit que l'action marche aussi vite que
-possible, et si le poète a choisi une histoire qui doit durer plusieurs
-années, ou s'il est contraint de transporter d'un lieu dans un autre tel
-personnage, qu'il fasse en sorte que ces laps de temps s'écoulent et que
-ces déplacements se produisent dans l'intervatle des actes. Combiner les
-incidents de la fable de façon que l'action s'accomplisse en une
-journée, il n'y faut point songer. Nos Espagnols, dit Lope, ne s'en
-arrangeraient pas « Une fois assis au spectacle, ils veulent qu'en deux
-heures vous leur représentiez une histoire qui-commence avec la Genèse
-et aboutit au Jugement dernier 1. »</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>que l'intérêt fût adroitement suspendu et que la curiosité du spectateur
-ne reçût entière satisfaction qu'au moment même de la catastrophe.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>2. Par exemple dans le prologue de la Parte IX (Madrid, 1618).</p>
-<p><pb/></p>
-<p>2. « He seguido con mas gusto el agradecimiento prove- choso que la
-opinion dudosa » (Parti XVII, Madrid, 1622).</p>
-<p><pb/></p>
-<p>Ce n'est vraiment que sur le déclin de sa carrière, revenu de quelques
-illusions et meilleur juge de son œuvre immense, qu'il se sent pris
-d'une sorte de tendresse quasi posthume pour ces drames barbares,</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>2. Tirso de Molina, Cigarrahs de Toledo, éd. de Barcelone, 163 1, f. 70.</p>
-<p>3. Velez de Guevara, El dil7blo coxnelo, éd. Rivadeneyra, p. 29 b.</p>
-<p>4. Enriquez Gomez, Prologue du Satnsou Nn^areno dans La Barrera,
-Catdlogo, p. 135.</p>
-<p>5. Apologètico de las comedias espanolas.</p>
-<p><pb/></p>
-<p>trouve de son côté le mot de Cervantes, « monstre de la nature Il serait
-difficile, on le voit, de rencontrer dans l'histoire un poète qui, de
-son vivant déjà, ait joui d'une plus complète apothéose.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>cette pra.tiqo.ie leurs qualités les plus heureuses, y ënKDusser fa
-pointe de leur talent. Premier défaut grave, première cause d'infériorité.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Puis il y a autre chose: Les Espagnols sont volon- tiers sententieux et
-prêcheurs, ils ont toujours eu un goût prononcé pour la satire morale,
-et, Dieu merci, la terre d'Espagne a produit en assez grand nombre</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>tragédie les grandes figures de Charlemagne, de saint Louis et de Jeanne
-d-Arc, rappelons-nous ce que le théâtre espagnol a su faire du Cid,
-rappelons-nous ce</p>
-<p>MAÇON, rnOTAT PHRIlliS, IMPHIMEIICS.</p>
-<p><pb/></p>
-<p>sur papier d'Arches,</p>
-<p>ACHEVÉ D'IMPRIMER LE 25 JUIN 1923</p>
-<p>SUR LES PRESSES</p>
-<p>DE PROTAT. FRÈRES A MAÇON</p>
-<p><pb/></p>
-<p>A la même Librairie Ancienne Édouard CHAMPION. Entrée d'Espagne, p. p.
-Ant. Thomas, 2 vol. (1913), chaque 25 fr.</p>
-<p>PALAU (B.). Farsa Hamada custolia del hombre, publicada cën una
-introduccion porLeo Rouanet. In-8. 15 fr. Revue de littérature comparée,
-dirigée par E. BALDENSPERGER et P. Hazard. Abonnement 40 fr. Tomes I et
-II. Chaque 50 fr. MACON, PROTAT FRÈRES, IMPRIMEURS.</p>
-    </div>
+      <div>
+        <p>LA</p>
+        <p>I' SIÈCLE</p>
+        <p>LEÇON D'OUVERTURE</p>
+        <p>Membre de l'Institut. Professeur au Collège de France, Directeur l'École des Hautes Études</p>
+        <p>DEUXIÈME ÉDITION REVUE</p>
+        <p>PARIS</p>
+        <p>LIBRAIRIE ANCIENNE HONORÉ CHAMPION- 5,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA</p>
+        <p>lA ESPAGNOLE DU XVIIe SIÈCLE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>DU MÊME AUTEUR</p>
+        <p>A LA MÊME LIBRAIRIE</p>
+        <p>Catalogue des manuscrits espagnols de L* Bibliothèque nationale, 2 vol. in-4. ̃ Études sur l'Espagne.. Première série. 2e édition revue et augmentée. 1895: Pet. in-8. 1. L'Espagne en France. II. Recherçhes sur Lazarille de Tormes.. III. L'histoire dans Ruy Blas. IV. Espagnols et Flamands. V. Le Don Quichotte envisagé comme peinture et critique de la société espagnole du xvn et du xVII° siècle. -Deuxième série. In-8. Nouvelle édition revue et augmentée. 1906. In-8. 9 fr. Grands d'Espagne et petits princes allemands au xvme siècle d'après la correspondance inédite du comte de Fernan Nunez avec le prince E. de Salm-SaIm et la duchesse de Béjar.</p>
+        <p>-,Nouvelles études sur sainte Thérèse. 191 1. In-8. 2 fr. 25</p>
+        <p>Historiographie de Charles-Quint. Première partie, suivie des Mémoires de Charles-Quint, texte portugais et traduction française. In-8. 10 fr. Cinq recueils de pièces espagnoles. 191 1. In-8.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA</p>
+        <p>ESPAGNOLE, (inK|]DU SIÈCLE</p>
+        <p>LEÇON D'OUVERTURE</p>
+        <p>PAR</p>
+        <p>A. M0REL-FATIO</p>
+        <p>Membre de l'Institut, Professeur au Collège de France, Directeur â l'École des Hautes Études</p>
+        <p>DEUXIÈME ÉDITION REVUE</p>
+        <p>PARIS</p>
+        <p>LIBRAIRIE ANCIENNE HONORÉ CHAMPION ÉDOUARD CHAMPION</p>
+        <p>-QUAI MALAQUAIS</p>
+        <p>192</p>
+        <p>
+          <pb/>
+        </p>
+        <p>AVANT-PROPOS</p>
+        <p>C'est la brochure, totalement épuisée, que je réimprime La Comedia espagnole dit XVIIe siècle,. Leçon d'ouverture. Paris, F. Vieweg, 1885.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« M. Morel-Fatio développe d'abord cette idée, que tous les. peuples ont bien des drames et des comédies, mais.que tous n'ont pas un théâtre, c'està-dire une longue tradition dramatique, une série de pièces conçues d'après la même formule. 'A ce compte, la Grèce antique, l'Espagne et la France ont seules,un. théâtre, et l'Angleterre n'en a point, quoiqu'elle ait Shakspeare,. Puis, M. Morel-Fatio définit la comédie espagnole, en se servant du Discours de Lope de Vega « De la nouvelle manière de faire « aujourd'hui les comedias, » Il explique enfin com- ment et. pourquoi ce théâtre n'égale pas le nôtre et celui de Shakspeare, et par où il est néanmoins ori- ginal et intéressant.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA COMEDIA ESPAGNOLE DU XVIIe SIÈCLE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>centralisée, dont tous les membres se sentent depuis longtemps unis et-solidaires, qui tous possèdent un fonds ;d liées, de sentiments, le souvenirs communs et qui, par suite, aient tous les mêmes mœurs et les mêmes aspirations. Une scène nationale, où puissent être transportés soit des passions tragiques, soit des travers et des vices capables d'émouvoir ou d'affecter .la société tout entière, n'est réalisable qu'à cette condition1..</p>
+        <p>Mais cela ne suffit pas. Il est nécessaire encore que le drame quel qu'il soit, destiné refléter l'esprit de cette société, trouve une forme originale et répondant si bien aux goûtes et aux tendances du milieu qu'elle se fasse aussitôt accepter par le plus grand nombre et prenne aisément le pas sur toutes les autres manifestations de l`'art dramatique C'est parce que les conditions que je viens (f indiquer ont été remplies par les Grecs que l'on peut, dans l'antiquité, parler d'un théâtre grec, tandis qu'il in'existe pas de théâtre latin. Les Romains i. -Cette première et très essentielle condition d'une scène nationale a été parfaitement expliquée par M. K. HMlebrand dans ses Études italiennes. Paris, 1868, p. 145 et suiv.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>En France, cette forme par excellence, qui a donné</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>concentre alors le vieil esprit espagnol, et de cette façon il réussit à traverser, quoique .péniblement et- non sans subir, des mutilations, cette période hostile et ingrate. Avec le réveil de la littérature nationale, le drame classique recouvre,: dès le premier tiers de ce. siècle, de nouvelles forces,, et en s'accommodant aux circonstances-regagne les positions abandonnées. Aujourd'hui encore, c'est la- comedia- des Lope de Calderon, légèrement modifiée, qui règne sans conteste chez nos voisins;, et tandis que chez nous la tragédie de Corneille, de Racine et de Voltaire semble ne plus, vouloir renaître de ses cendres éteintes., la forme inaugurée en Espagne. au xvii* siècle est restée assez vivace pour répondre aux nécessités de l'art dramatique contemporain, pour satisfaire aux exigences d'un public dont -l'idéale cependant notablement changé depuis le temps des Philippe.</p>
+        <p>Qu'entend-on par çomedia dans la littérature espagnolè ? Ce mot de comedia l, bien loin de pouvoir 1. On sait qu'en général les drames espagnols du XVIIe siècle portent dans les imprimés du temps le titre de comedia famosa. Cet adjectif fanaosa, qui étonnait Voltaire, peut être rendu en</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Tous les auteurs espagnols qui ont disserté, au XVIIe siècle, sur la forme de leur art s'accordent pour insister sur le caractère essentiellement mixte de la comedia c'est l'expression qui revient partout.</p>
+        <p>« Aujourd'hui la comedias (ou, comme d'autres disent, la représentation) consiste en une certaine rniscellanée, où il y a de tout », écrit en 1617 un contemporain de Lope, Cristobal Suarez de Figueroa L'année d'avant, en 1616, certain poète de 1. El Passagère, éd. de Barcelone, 1618, alivio III.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>¥om désigne» une ferme; nouvelle, les Espagnols auraient pu créer un terme nouveau au s en tenir a i. de Toledo, éd. de Barcelone, 163 F, f. 70V</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Cetté comedia nueva 2, comme la 3 qualifie Tirso de i. Ainsi El valiente Cespedes est dénommé tragi-comedia d'autres pièces comme Roma abrasada, El marido mas firme portent le titre de tragedia ou tragedia famosa.</p>
+        <p>3. « De estas impertinencias y otras tales Ofrecio la comedia lihre y suelta » (Pedro de Urdemalas, jornada</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>soirée de tours,, étroitement associé la comedia esparsépare pas.- ce genre dramatique du poète que passe pour en être l'inventeur, je ne viens pas battre en brèche l'opinion reçue. Tout compte fait, il est juste de tenir Lope de Vega pour le père du nouveau drame, avec cette réserve cependant qu'on ne prendra pas cette paternité trop au pied de la lettre. La œmeMa n'est point sortie un beau jour tout armée du cerveau du poète d*autres lui ont fourni la matière, une matière, il est vrai, a peine dégrossie, qu'il s'est chargé de pâlir. Les éléments du poème dramatique, qu'il' a fait sien, existaient, mais sans cohésion suffisanté il fallait avoir l'idée de les mieux fondre en un tout harmonieux,, capable de s'imposer et de prendre. d'emblée la première place.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>[« En terminant, je dois rappelerune allusion encore inexpliquée de Juan Pérez de Montalban, sur laquelle j'avais naguère attiré l'attention des érudits. Cet ami et disciple de Lope, dans sa</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>dégradé par bassesse de style. » Puis d'autres ont mêlé les genres, « mis le roi dans la comédie ». Encore ici Lope ne cite personne, et pourtant il est des noms qui s'imposaient, celui de Juan de la Cueva, entre autres mais ce poète vivait et Lope a toujours été très attentif à ménager le prochain, un peu sans doute pour en être payé de retour</p>
+        <p>;u. En ce qui concerne Jean de la Cueva, on ne voit pas très bien si Lope a évité de le nommer, considérant les tragicomédies de cet auteur comme une faute envers l'art, ou si, au contraire, il n'a pas voulu lui faire, en le citant, l'honneur de cette innovation, payant par cette omission le silence presque injurieux de la Cueva, qui dans son Egemplar poêlico (achevé de composer en 1606, mais non imprimé) n'avait pas dit un mot de Lope.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>plus être observé. Il suffit que l'action marche aussi vite que possible, et si le poète a choisi une histoire qui doit durer plusieurs années, ou s'il est contraint de transporter d'un lieu dans un autre tel personnage, qu'il fasse en sorte que ces laps de temps s'écoulent et que ces déplacements se produisent dans l'intervatle des actes. Combiner les incidents de la fable de façon que l'action s'accomplisse en une journée, il n'y faut point songer. Nos Espagnols, dit Lope, ne s'en arrangeraient pas « Une fois assis au spectacle, ils veulent qu'en deux heures vous leur représentiez une histoire qui-commence avec la Genèse et aboutit au Jugement dernier 1. »</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>que l'intérêt fût adroitement suspendu et que la curiosité du spectateur ne reçût entière satisfaction qu'au moment même de la catastrophe.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>2. Par exemple dans le prologue de la Parte IX (Madrid, 1618).</p>
+        <p>
+          <pb/>
+        </p>
+        <p>2. « He seguido con mas gusto el agradecimiento prove- choso que la opinion dudosa » (Parti XVII, Madrid, 1622).</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Ce n'est vraiment que sur le déclin de sa carrière, revenu de quelques illusions et meilleur juge de son œuvre immense, qu'il se sent pris d'une sorte de tendresse quasi posthume pour ces drames barbares,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>2. Tirso de Molina, Cigarrahs de Toledo, éd. de Barcelone, 163 1, f. 70.</p>
+        <p>3. Velez de Guevara, El dil7blo coxnelo, éd. Rivadeneyra, p. 29 b.</p>
+        <p>4. Enriquez Gomez, Prologue du Satnsou Nn^areno dans La Barrera, Catdlogo, p. 135.</p>
+        <p>5. Apologètico de las comedias espanolas.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>trouve de son côté le mot de Cervantes, « monstre de la nature Il serait difficile, on le voit, de rencontrer dans l'histoire un poète qui, de son vivant déjà, ait joui d'une plus complète apothéose.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>cette pra.tiqo.ie leurs qualités les plus heureuses, y ënKDusser fa pointe de leur talent. Premier défaut grave, première cause d'infériorité.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Puis il y a autre chose: Les Espagnols sont volon- tiers sententieux et prêcheurs, ils ont toujours eu un goût prononcé pour la satire morale, et, Dieu merci, la terre d'Espagne a produit en assez grand nombre</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>tragédie les grandes figures de Charlemagne, de saint Louis et de Jeanne d-Arc, rappelons-nous ce que le théâtre espagnol a su faire du Cid, rappelons-nous ce</p>
+        <p>MAÇON, rnOTAT PHRIlliS, IMPHIMEIICS.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>sur papier d'Arches,</p>
+        <p>ACHEVÉ D'IMPRIMER LE 25 JUIN 1923</p>
+        <p>SUR LES PRESSES</p>
+        <p>DE PROTAT. FRÈRES A MAÇON</p>
+        <p>
+          <pb/>
+        </p>
+        <p>A la même Librairie Ancienne Édouard CHAMPION. Entrée d'Espagne, p. p. Ant. Thomas, 2 vol. (1913), chaque 25 fr.</p>
+        <p>PALAU (B.). Farsa Hamada custolia del hombre, publicada cën una introduccion porLeo Rouanet. In-8. 15 fr. Revue de littérature comparée, dirigée par E. BALDENSPERGER et P. Hazard. Abonnement 40 fr. Tomes I et II. Chaque 50 fr. MACON, PROTAT FRÈRES, IMPRIMEURS.</p>
+      </div>
     </body>
   </text>
 </TEI>

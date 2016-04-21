@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
- <teiHeader>
-<fileDesc>
-<titleStmt>
-<author key="Albalat, Antoine (1856-1935)">Antoine Albalat</author>
-<title>"La vie de Jésus" d'Ernest Renan / Antoine Albalat</title>
-</titleStmt>
-<editionStmt>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>“La vie de Jésus” d'Ernest Renan / Antoine Albalat</title>
+        <author key="Albalat, Antoine (1856-1935)">Antoine Albalat</author>
+      </titleStmt>
+      <editionStmt>
         <edition>OBVIL/BNF</edition>
         <respStmt>
           <resp>reprise des textes</resp>
           <name>Amélie Canu</name>
         </respStmt>
       </editionStmt>
-<publicationStmt>
+      <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
         <availability status="restricted">
@@ -22,1298 +22,1004 @@
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
-<sourceDesc>
-<bibl>
-<author>Albalat, Antoine (1856-1935)</author>, <title>"La vie de Jésus" d'Ernest Renan / Antoine Albalat</title>, <date>1933</date>,description :Collection : Les Grands événements littéraires ; 22,178 pages
-</bibl>
-<publisher>Société française d'éditions littéraires et techniques (Paris)</publisher>
-<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k54538765</idno>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1933">1933</date>
-</creation>
-<langUsage>
-<language ident="fr"/>
-</langUsage>
-</profileDesc>
- </teiHeader>
+      <sourceDesc>
+        <bibl> <author>Albalat, Antoine (1856-1935)</author>, <title>"La vie de Jésus" d'Ernest Renan / Antoine Albalat</title>, <date>1933</date>,description :Collection : Les Grands événements littéraires ; 22,178 pages </bibl>
+        <publisher>Société française d'éditions littéraires et techniques (Paris)</publisher>
+        <idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k54538765</idno>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1933">1933</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-    <div>
-<p><pb/>
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-------------------------------------------------------------------------</p>
-<p>LES GRANDS ÉVÉNEMENTS LITTÉRAIRES</p>
-<p>Histoire littéraire et anecdotique des chefs-d'oeuvres français et
-étrangers</p>
-<p>publiée sous la direction de</p>
-<p>MM. ANTOINE AL8ALAT, HENRI D'ALMÉRAS, ANDRÉ</p>
-<p>BELLESSORT ET JOSEPH LE GRAS</p>
-<p>Première Série</p>
-<p>Henri d'ALMÊRAS Le Tartuffe, de Molière.</p>
-<p>Ed.BENOIT-LÉVY Les Misérable», de Victor Hugo,</p>
-<p>Jules BERTAUT Le Père Goriot, de Balzac.</p>
-<p>René DUMESNIL La Publication ê: Maàomt Bovary,</p>
-<p>Félix GAIFTE Le Mariage de Figaro, '</p>
-<p>Louis GUIMBAUD Les Orientales, de Victor Hugo.</p>
-<p>Joseph LE GRAS Diderot et l'Encyclopédie,</p>
-<p>Henry LYONNLT Le Cid, de Corneille</p>
-<p>Comtesse J. DE PANGE De l'Allemagne, de Mme de Staël.</p>
-<p>Alphonse SÉCHÉ Us Vie du Fleurs du Mal,</p>
-<p>Louis THUASNE Le Roman dt la Rose.</p>
-<p>Paul VULUAUD Les Paroles d'un Croyant,</p>
-<p>Deuxième Série</p>
-<p>Antoine ALBALAT L'Art Poétique, de Boileau.</p>
-<p>Henri D'ALMÉRAS Les Trois Mousquetaires.</p>
-<p>A. AUGUSTIN-THIERRY Récits des Temps Mérovingiens.</p>
-<p>Albert AuriN L'Institution Chrétienne, de Calvin.</p>
-<p>Georges REAUME Les Lettres de Mon Moulin.</p>
-<p>René BRAY Les Fables, de La Fontaine.</p>
-<p>Raymond CLAUZEL Sagesse, de Verlaine.</p>
-<p>Yves LE FESVRE Le Génie du Christianisme.</p>
-<p>Ph. VAN TIEGHEM La Nouvelle Héloïse.</p>
-<p>Maurice MAGENDIE L'Astrée, d'Honoré d'Urfé.</p>
-<p>Georges MONGRÉDIEN Athalie, de Racine.</p>
-<p>Ernest RAYNAUD Jean Moréas et les Stances.</p>
-<p>Troisième Série</p>
-<p>Albert BAYET Les Provinciales.</p>
-<p>Jeanne LANDRE Les Soliloques du Pauvre.</p>
-<p>LONGWORTH-CHAMBRUN Hamlet, de Shakespeare.</p>
-<p>Joseph VlANEY Les Regrets, de Du Bellay.</p>
-<p>Auguste DUPOUY Carmen, de Mérimée.</p>
-<p>Albert AUTIN Le Disciple, de Bourget.</p>
-<p>Guy DE LA BATUT L'Oraison Funèbre d'Henriette d'Angleterre, de Bossuet.</p>
-<p>René DUMESML En route, de J. K. Huysmans.</p>
-<p>Raymond CLAUZEL Une Saiion en Enfer et A. Rimbaud.</p>
-<p>Eugène LASSERRE Manon Lescaut,</p>
-<p>A. AUGUSTIN-THIERRY Les Liaisons Dangereuses.</p>
-<p>Henry LYONNET La Dame aux Camélias.</p>
-<p>Quatrième Série</p>
-<p>Gustave FRÊJAVILLE Les Méditations, de Lamartine (12 francs).</p>
-<p>Léon DEFFOUX L'Assommoir, d'Emile Zola.</p>
-<p>N. BRIAN-CHANINOV La Guerre et la Paix, de Tolstoï.</p>
-<p>Henri HAUVETTE .' Lej Canzonières, de Pétrarque (12 francs).</p>
-<p>Henri D'ALMÉRAS Le Roman Comique, de Scarron.</p>
-<p>Albert LANTOINE Les Lettres Philosophiques, de Voltaire (12 francs).</p>
-<p>Pierre VILLEY Les Essais, de Montaigne (12 francs).</p>
-<p>Joseph VIANEY Les Odes, de Ronsard (12 francs).</p>
-<p>Georges JARBINET Les Mystères de Paris, d'Eugène Sue (12 francs).</p>
-<p>ANTOINE ALBALAT La Vie de Jésus, d'Ernest Renan (12 frênes).</p>
-<p>RENÉ DUMESNIL Les Soirées de Médan (12 francs).</p>
-<p>JOSEPH VlANEY Les Poèmes barbares, de Leconte de l'Ish (12 franc*).</p>
-<p>(43 volumes parus)</p>
-<p>Chaque volume 9 francs (sauf indication spéciale) (Ex. sur papier pur
-fil. : 30 francs)</p>
-<p><pb/></p>
-<p>LA VIE DE JÉSUS</p>
-<p>D'ERNEST RENAN</p>
-<p><pb/></p>
-<p>OUVRAGES DU MÊME AUTEUR</p>
-<p>L'art d'écrire enseigné en vingt leçons, 1 volume, 53° mille (Colin,
-éditeur).</p>
-<p>La formation du style par l'assimilation des auteurs, 1 volume, 23e
-mille (Colin, éditeur).</p>
-<p>Le travail du style enseigné par les corrections manuscrites des grands
-écrivains, \ volume, 22e mille (Colin, éditeur), couronné par l'Académie
-française. *</p>
-<p>Comment il faut lire les auteurs classiques français, 1 volume, 16e
-mille (Colin, éditeur), couronné par l'Académie française.</p>
-<p>Comment il ne faut pas écrire, 1 volume, 15e édition (Pion, éditeur).</p>
-<p>Comment on devient écrivain, 1 volume, 15e édition (Pion, éditeur)*</p>
-<p>Gustave Flaubert et ses amis, 1 volume, 15e édition (Pion, éditeur).</p>
-<p>Les ennemis de l'art d'écrire, I volume (Librairie universelle, épuisé).</p>
-<p>Ouvriers et procédés, 1 volume (Havard, éditeur, épuisé).</p>
-<p>Le mal d'écrire et le roman contemporain, 1 volume (Flammarion» éditeur,
-épuisé).</p>
-<p>Souvenirs de la vie littéraire, 1 volume, 7° mille (Crès, éditeur).</p>
-<p>Marie, \ volume (Colin, éditeur, épuisé).</p>
-<p>L'amour chez Alphonse Daudet, I volume (Ollendorf, épuisé).</p>
-<p>Une fleur des tombes, I volume (Havard, épuisé).</p>
-<p>L'Impossible pardon, I volume (épuisé).</p>
-<p>Lacordaire, 1 volume (Vitte, éditeur).</p>
-<p>Joseph de Maistre, 1 volume (Vitte, éditeur).</p>
-<p>Pages choisies de Louis Veuillot, I volume (Lethielleux, éditeur).</p>
-<p>Frédéric Mistral, son génie, son oeuvre (Sansot, éditeur).</p>
-<p>L'art poétique de Boileau, 1 volume (Malfère, éditeur).</p>
-<p>Trente ans de quartier latin, 1 volume (Malfère, éditeur).</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>JUSTIFICATION DE TIRAGE</p>
-<p>Tout droit* dt tèprodattton tùttttà. Copyright 19Î3 by Edgar Moifite.</p>
-<p><pb/></p>
-<p>I</p>
-<p>PRÉPARATION A LA « VIE DE JÉSUS »</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>I</p>
-<p>PRÉPARATION A LA VIE DE JÉSUS</p>
-<p><pb/></p>
-<p>10 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>C'est pendant ces quatre années de grand Séminaire</p>
-<p>I. Marie James Darmestcter. La Vie d'Ernest Renan, p. 14.</p>
-<p><pb/></p>
-<p>PRÉPARATION A LA VIE DE JÉSUS U</p>
-<p><pb/></p>
-<p>12 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>Ma foi, a-t-il dit lui-même, a été détruite par la critique historique,
-non par la scolastique ni par la philosophie. » Il a dit encore : « Mes
-raisons de ne pas croire furent toutes de l'ordre philologique et
-critique ; elles ne furent nulle-</p>
-<p><pb/></p>
-<p>PRÉPARATION A LA VIE DE JÉSUS 13</p>
-<p>ment de l'ordre métaphysique, de l'ordre politique, de l'ordre moralx ».</p>
-<p>ensei1. d'enfance et de jeunesse, p. 258 et 298.</p>
-<p>2. Souvenirs d'enfance et de jeunesse, p. 298.</p>
-<p><pb/></p>
-<p>14 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>gnement finit par décourager sa bonne volonté. Que serait-il advenu de
-sa foi, si les méthodes d'érudition et d'exégèse eussent été plus
-sérieuses et plus au courant des grands mouvements allemands ? Mgr
-d'Hulst s'est posé la question. « Des facilités, dit-il, lui ont manqué
-pour la résistance, et des circonstances plus heureuses les lui auraient
-offertes ».</p>
-<p>Mgr Perraud ne croit pas que les objections d'exégèse puissent détruire
-la foi :</p>
-<p>Il est toutefois très possible, comme le pense l'abbé Cognât, que
-l'exégèse n'ait pas été la seule raison déterminante de l'incrédulité
-chez Renan, et qu'il ait aussi fortement subi l'influence de la
-philosophie allemande. Au premier abord et en général, il ne semble pas
-que l'étude de la philosophie, quelle qu'elle soit, puisse présenter
-tant de dangers pour une jeune intelligence. Ses hardiesses
-philosophiques n'ont pas empêché Malebranche d'être un parfait chrétien.
-Renan, au fond, avait un peu la mentalité de ces pasteurs allemands qui,
-comme Herder, croyaient pouvoir enseiI.</p>
-<p>enseiI. Perraud. A propos de la mort de Renan, p. 33.</p>
-<p><pb/></p>
-<p>PRÉPARATION A LA VIE DE JÉSUS 15</p>
-<p>Que Renan ait perdu la foi sans trop de déchire-</p>
-<p><pb/></p>
-<p>16 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>1. Souvenirs d'enfance et de jeunesse, p. 312.</p>
-<p><pb/></p>
-<p>PRÉPARATION A LA VIE DE JÉSUS 17</p>
-<p>Après avoir hésité pendant deux ans, Renan prit enfin la résolution de
-quitter le Séminaire, le 6 octobre 1845. Ce fut un grand acte de courage
-et de franchise.</p>
-<p>Cette décision devait entraîner pour Renan un changement complet
-d'existence. Encouragé et soutenu par les lettres de sa soeur et les
-1.200 francs quelle lui envoyait, il accepta et supporta très noblement
-cette nouvelle vie de solitude et de travail.</p>
-<p>1. Mgr Perraud. A propos Je la mort de Renan, p. 37.</p>
-<p>ALBALAT 2</p>
-<p><pb/></p>
-<p>18 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>besoin pour fonder les raisons que sa soeur lui avait soufflées ».</p>
-<p>n'absor1. Vie d'Ernest Renan, p. 34.</p>
-<p><pb/></p>
-<p>PRÉPARATION A LA VIE DE JÉSUS 10</p>
-<p>Elle appuyait, dit-il, de toutes ses forces sur les objections que
-lui-même se formulait. Elle lui faisait valoir l'importance des
-difficultés qu'il ne manquerait certainement pas de rencontrer dans
-l'état ecclésiastique 2.</p>
-<p>1. Lettres Intimes, p. 81, 83.</p>
-<p>2. Renan. Les Etapes de sa pensée.</p>
-<p>3. Lettres intimes, 1842-45, pp. 104, 105, 114, 121, Nelson.</p>
-<p><pb/></p>
-<p>20 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>Voilà, textes en mains, l'influence qu'Henriette a exercée sur Renan. Il
-y a loin de tout cela aux impuI.</p>
-<p>impuI. intimes, p. 163.</p>
-<p><pb/></p>
-<p>PRÉPARATION A LA VIE DE JÉSUS 21</p>
-<p>Mme Noémi Renan nous a nettement confirmé cette opinion. « Henriette,
-nous a-t-elle dit, était la dernière des personnes capable d'avoir voulu
-détruire la croyance religieuse de son frère. Elle fut toujours
-là-dessus d'une discrétion et d'une réserve admirables. Pour rien au
-monde elle n!eût voulu jouer ce rôle... Elle était la délicatesse et la
-conscience même ».</p>
-<p><pb/></p>
-<p>22 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>C'est peu de temps après son départ du Séminaire que Renan fit la
-connaissance de Berthelot.</p>
-<p><pb/></p>
-<p>PRÉPARATION A LA VIE DE JÉSUS 23</p>
-<p>Renan nous a laissé quelques pages sincères sur ce nouveau réveil de son
-inclination religieuse.</p>
-<p>Et ceci plus significatif encore :</p>
-<p>1. Patrice, Beatrix, etc... Fragments intimes et souvenirs.</p>
-<p>2. Renan. Voyages. Édit. Montaigne.</p>
-<p><pb/></p>
-<p>24 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>Ah ! mon Dieu, disait-il, qui me donnera le pouvoir de faire un livre du
-christianisme, qui dira définitivement comment il est temps de le
-prendre ! Je le louerai, je l'exalterai, je le baiserai, mais
-l'humaniserai. L'homme ou Dieu, c'est tout un, même sans panthéisme 2.</p>
-<p>Dès sa sortie de Saint-Sulpice (mai-juin 1845), Renan semblait préoccupé
-d'établir les fondements de son oeuvre future, en rédigeant un Essai
-psychologique sur Jésus-Christ, publié seulement en 1920, dans la Revue
-de Paris, et où il tentait « d'expliquer par les lois psychologiques
-l'apparition de Jésus », en la « rattachant au temps où il parut ».</p>
-<p>En mars-avril 1849, dans la Liberté de penser, où</p>
-<p>1. Renan. Vot/ases. EÀit. Montaigne.</p>
-<p>2. Cité par Pierre Guilloux. L'Esprit de Renan, p. 103.</p>
-<p><pb/></p>
-<p>PRÉPARATION A LA VIE DE JÉSUS 25</p>
-<p>« En sortant du Séminaire, dit-il dans ses Souvenirs, la Vie de Jésus
-était écrite dans mon esprit ». Ce projet ne lui fut pas subitement
-inspiré par l'offre de la mission en Phénicie, comme le pense M. Edmond
-Renard *. Renan, on le voit, depuis longtemps y songeait.</p>
-<p>Dès 1849, il déclarait dans son Avenir de la science (p. 279) : « Le
-livre le plus important du XIXe siècle devrait avoir pour titre Histoire
-critique des origines du christianisme, oeuvre admirable que j'envie à
-celui qui la réalisera et qui sera celle de mon âge mûr, si la mort et
-tant de fatalités extérieures qui font dévier souvent si fortement les
-existences, ne vient m'en empêcher ».</p>
-<p>1. Ernest Renan. Les étapes de sa pensée, p. 139.</p>
-<p><pb/></p>
-<p>26 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>Une histoire critique des origines du christianisme, faite avec toutes
-les ressources de l'érudition moderne, en dehors et bien au dessus de
-toute intention de polémique comme d'apologétique, a toujours été le
-rêve que j'ai caressé. Mais je n'aborderai ce grand sujet qu'après
-m'être fait une autorité par des oeuvres d'un caractère purement
-scientifique et où nulle préoccupation religieuse ne puisse être
-soupçonnée.</p>
-<p>Dès sa première jeunesse, il avait conçu, comme l'objet et le but
-essentiel de sa vie, l'accomplissement d'une oeuvre fondamentale,
-l'étude des origines du christianisme. Ce fut l'axe fixe de sa carrière,
-le point sur lequel il ne varia jamais ; c'est cette oeuvre qui devait
-consacrer son autorité devant ses contemporains et sa gloire devant les
-historiens du XIXe sièclel.</p>
-<p><pb/></p>
-<p>II</p>
-<p>RÉDACTION DE LA « VIE DE JÉSUS »</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>II</p>
-<p>RÉDACTION DE LA VIE DE JÉSUS</p>
-<p><pb/></p>
-<p>30 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>Livre de Job, ses Etudes d'histoire religieuse, VOrigine du langage et
-les Essais de morale et de critique.</p>
-<p>Arrivé en Palestine, Renan est dans l'enchantement. Ciel, lumière,
-climat, montagnes, tout lui paraît splendide.</p>
-<p>Il écrit le 12 mars 1861 :</p>
-<p>Ce pays est admirable. Le Liban a un charme grandiose, un reste du
-parfum qu'il avait au temps de Jésus. Ici je suis en terre biblique. Je
-vois de ma terrasse Sarepta, l'Hermon, le Carmel, les montagnes de la
-tribu de Dan... Je saisis de plus en plus la personnalité éminente de
-Jésus. Je le vois très bien traverser la Galilée, au milieu d*une fête
-perpétuelle. Son amour pour les enfants, son goût pour les fleurs, pour
-les divertissements de noces, le tour idyllique</p>
-<p><pb/></p>
-<p>RÉDACTION DE LA VIE DE JÉSUS 3!</p>
-<p>et champêtre de son imagination me sont bien expliqués \</p>
-<p>Dès qu'il eut achevé ses fouilles de Phénicie, Renan</p>
-<p><pb/></p>
-<p>32 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p><pb/></p>
-<p>RÉDACTION DE LA VIE DE JÉSUS 33</p>
-<p>1. Cité par Pierre Guilloux. L'Esprit de Renan, p. 223. ALBALAT 3</p>
-<p><pb/></p>
-<p>34 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>har1. des Deux-Mondes, 1er Juin 1927. Lettres de Renan au Dr Gaillardot.
-1. Ma soeur Henriette, p. 50. Edit. Nelson.</p>
-<p><pb/></p>
-<p>RÉDACTION DE LA VIE DE JÉSUS 35</p>
-<p>diesse de certaines affirmations. « Elle me retenait sur la pente des
-formules d'un Dieu inconscient et d'une immortalité idéale où je me
-laissais entraîner 1.</p>
-<p>L'auteur de la Vie de Jésus a connu le plus grand</p>
-<p><pb/></p>
-<p>36 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>Renan rentra en France (octobre 1861), traînant avec lui le regret de
-ces belles « journées de Ghazir » et 1 inconsolable souvenir du malheur
-qui venait de le</p>
-<p>1. Renan. Les étapes de sa pensée, par Edmond Renard, p. 224.</p>
-<p>2. Terre d'Adonis, p. 109.</p>
-<p><pb/></p>
-<p>RÉDACTION DE LA VIE DE JÉSUS 37</p>
-<p><pb/></p>
-<p>38 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>« Un homme incomparable, dit-il, si grand que, bien qu'ici tout doive
-être jugé au point de vue de la science positive, je ne voudrais pas
-contredire ceux qui, frappés du caractère exceptionnel de son oeuvre,
-l'appellent Dieu. » Une clameur de protestation accueillit cette
-phrascet le cours fut suspendu. ,</p>
-<p>On eut peut-être tort de se montrer si sévère :</p>
-<p>I. Barrés. Mes Cahiers, t. III, p. 16.</p>
-<p><pb/></p>
-<p>RÉDACTION DE LA VIE DE JÉSUS 39</p>
-<p>lac de Génésareth, et j'ai vu se dresser devant moi, avec une
-surprenante réalité, le Christ et ses contemporains. Pendant l'été dans
-le Liban, j'ai écrit ma Vie de Jésus. Mais cela a encore besoin d'être
-mûri K</p>
-<p>Le fils Gaillardot (âgé de huit ans en 1861) se rappelait très bien
-Renan et Henriette, et précisait les détail.?</p>
-<p><pb/></p>
-<p>40 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>de leur séjour et de leur travail. Gaillardot le père donnait aussi son
-opinion et proposait ses remarques. Il empêcha même Renan d'être trop
-affirmatif dans son récit de la résurrection de Lazare. Renan écoutait
-les conseils, admettait les objections et fut toujours en excellents
-termes avec les jésuites installés dans le pays. Il allait chez eux voir
-jouer des pièces de théâtre.</p>
-<p><pb/></p>
-<p>RÉDACTION DE LA VIE DE JÉSUS 41</p>
-<p>de la Colline inspirée. Sa sensibilité romantique l'inclinait Vers la
-religion catholique. Il a parlé de Jésus, du christianisme et des
-Evangiles dans les termes d'un parfait croyant. Au fond, Barrés ne fut
-jamais ni catholique ni chrétien, et ses témoignages de sympathie
-dépassèrent rarement les hommages d'un déférent rationalisme.</p>
-<p>I. Le Temps, 22 février 1923.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>III</p>
-<p>LE MIRACLE DANS LA «VIE DE JÉSUS*</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>III</p>
-<p>LE MIRACLE DANS LA VIE DE JÉSUS</p>
-<p>Nous avons essayé de résumer brièvement l'histoire de la préparation et
-de la rédaction de la Vie de Jésus. Avant daller plus loin et d'aborder
-la publication du livre, il est bon de rappeler en quelques mots le
-grand principe sur lequel Renan a fondé sa méthode d'appréciation et
-sort jugement historique. Ce principe, on le sait, c'est la négation du
-miracle. Renan a largement développé, dans la préface de sa treizième
-édition,, sa théorie sur l'impossibilité d'admettre le miracle dans
-l'histoire.</p>
-<p>Notre intention n'est ni d'approuver ni de réfuter Renan, mais
-d'expliquer comment, et par quelles raisons il entendait justifier sa
-critique négative.</p>
-<p>Le miracle, selon lui, n'a jamais été et ne peut pas être un fait
-historique, parce qu'aucun miracle n'a jamais été constaté. Il n'y a
-dans l'Univers que des lois naturelles ; ces lois sont fixes ; elles
-peuvent varier,</p>
-<p><pb/></p>
-<p>46 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>se transformer, se contredire en apparence, ce sont toujours des lois
-dont le fonctionnement se développe sans aucune intervention
-surnaturelle. On n'arrête pas le Soleil, une étoile ne se met pas en
-marche ; on ne ressuscite pas un mort. Bref, il n'y a et il ne saurait y
-avoir de miracles nulle part. '</p>
-<p>A cette affirmation irréductible les orthodoxes répondent :</p>
-<p><pb/></p>
-<p>LE MIRACLE DANS LA VIE DE JÉSUS 47</p>
-<p>« Votre critique est fausse ; vous avez deux poids et deux mesures. Vous
-admettez le témoignage humain pour les faits ordinaires, vous le rejetez
-quand il s'agit de faits surnaturels. Le miracle existe ; il a toujours
-existé. La vraie critique doit l'admettre au même titre que n'importe
-quel autre fait, quand il est attesté par des témoins dignes de foi.
-Certains miracles ont eu des foules pour témoins et font réellement
-partie de l'histoire. Il s'agit de distinguer les vrais et les faux.</p>
-<p><pb/></p>
-<p>48 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>preuves, parce que le fait en lui-même n'est pas croyable. »</p>
-<p>1. Préface de la Vie de Jésus, 13e édition.</p>
-<p><pb/></p>
-<p>LE MIRACLE DANS LA VIE DE JÉSUS 49</p>
-<p>I. M. Jean Pommier fait cependant observer que Renan n'a pas maintenu sa
-première version (Renan et Strasbourg, p. 89).</p>
-<p>ALBALAT 4</p>
-<p><pb/></p>
-<p>50 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>J'ai appris, dit le P. Didon \ la mort de ce pauvre Pouchet par les
-journaux. Elle m'a attristé, comme toutes les morts où je ne vois pas
-luire un rayon d'éternité. Comment sont donc bâties ces natures d'athées
-? De quelle pâte est leur âme ? Et quel est l'esprit mauvais qui les a
-ainsi mutilés, ces pauvres gens ?</p>
-<p>Les incrédules éprouvent les mêmes sentiments de pitié pour les «
-pauvres gens » qui ont la faiblesse de croire aux miracles.</p>
-<p>« Si Dieu a créé le monde, disent les rationalistes, nous constatons
-qu'il s'est retranché dans l'anonymat et le silence, et qu'il ne
-s'occupe plus de l'Humanité, Dieu ne serait donc qu'un monstre de
-cruauté, qui tire du néant des milliards de créatures pour les regarder
-agoniser et mourir, et qui permet le mal, les crimes, l'injustice,
-l'assassinat, les catastrophes, le cancer, la pesté, tous les fléaux...
-L'intention de ce Dieu terrible nous échappe donc d'une façon absolue,
-et nous</p>
-<p>1. Corrcsp. avec Afme Commanville, t. II, p. 298.</p>
-<p><pb/></p>
-<p>LE MIRACLE DANS LA VIE DE JÉSUS 51</p>
-<p><pb/></p>
-<p>52 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>Une pareille tournure d'esprit déconcertait Jules Lemaitre.</p>
-<p>Je crois, concluait-il, que le meilleur moyen de comprendre Renan, c'est
-de lire d'une âme confiante ce qu'il écrit, et de n'y point chercher
-plus de malice qu'il n'en a mis. Si M, Renan nous semble si compliqué,
-c'est que les éléments dont se compose son génie total étaient nombreux
-; il les laisse transparaître dans ses oeuvres avec une parfaite
-sincérité 1.</p>
-<p>1. Les Contemporains, IVe série, p. 258.</p>
-<p><pb/></p>
-<p>LE MIRACLE DANS LA VIE DE JÉSUS 53</p>
-<p>l'hu1. Correspondance, II, p. 243.</p>
-<p><pb/></p>
-<p>54 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p><pb/></p>
-<p>IV</p>
-<p>LA PUBLICATION DE LA «VIE DE JÉSUS»</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>IV LA PUBLICATION DE LA VIE DE JÉSUS</p>
-<p>Renan avait prévu le retentissement qu'allait avoir une oeuvre comme la
-Vie de Jésus, qui, en dehors de sa séduction littéraire, « reposait, dit
-Berthelot, sur l'appel aux instincts esthétiques et moraux les plus
-profonds de 1 'âme humaine. »</p>
-<p>I. Correspondance, 1.1.</p>
-<p><pb/></p>
-<p>58 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>Le cas de Renan était plus grave. Un écrivain a-t-il le droit de
-détruire une religion millénaire qui a fait ses preuves, pour la
-remplacer par l'incertitude, le doute et le néant ? Non, dit Brunetière,
-l'incrédulité n'a pas le droit de détruire l'ordre social en ruinant la
-religion établie.</p>
-<p>Cette absence de scrupules ne s'explique chez Renan que par son état
-d'incrédulité complète, tran1.</p>
-<p>tran1. de Goethe avec le chancelier Muller, p. 24,</p>
-<p>2. L'abbé Cognât. Renan hier et aujourd'hui.</p>
-<p><pb/></p>
-<p>LA PUBLICATION DE LA VIE DE JÉSUS 59</p>
-<p>Renan était, d'ailleurs, persuadé (il l'a dit cent fois) que les
-sentiments de sympathie et de respect qui caractérisent sa Vie de Jésus
-atténueraient le scandale et feraient pardonner son audace :</p>
-<p>I. Essais de morale et de critique, p. 11 et 1 i I.</p>
-<p><pb/></p>
-<p>60 LA VIE DE ÉJSUS D'ERNEST RENAN</p>
-<p>fût contenté de voir clans le Christ le grand Annonciateur de la morale
-humaine et de l'idéal divin.</p>
-<p>Charles Romey cite ces lignes et ajoute :</p>
-<p>Le livre de M. Renan marquera le point de départ d'une ère nouvelle pour
-le christianisme. Dans ce grand mouvement, que j'appelle sans hésitation
-religieux et chrétien et auquel il donne le branle, la foi historique au
-Christ se retrempe et se renouvelle, devient agissante et ne retient
-plus rien qui choque la raison la plus sévère et la plus exigeante \</p>
-<p>Ces prédictions mystico-rationalistcs ne se sont pas réalisées. C'est
-même le contraire qui est arrivé. L'Eglise a arrêté le mouvement
-moderniste, issu des infiltrations jRenaniennes, et la victoire est
-définitivement lestée aux dogmes inflexibles du vieux catholicisme romain.</p>
-<p>Au fond, Renan n'était pas fâché de scandaliser</p>
-<p>I. Charles Romey. Hommes cl choses de divers temps, p. 338.</p>
-<p><pb/></p>
-<p>LA PUBLICATION DE LA VIE DE JÉSUS 61</p>
-<p>D'autres fois, cependant, Renan se montrait plus hésitant et parlait de
-scrupules qui se seraient « élevés en son âme », quand il a vu, dit-il,
-« le scandale que bien des personnes pleines de droiture ont souffert de
-mes libertés spéculatives » :</p>
-<p>I. Essais de morale et de critique, p. VI et VII.</p>
-<p><pb/></p>
-<p>62 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>La publication de la Vie de Jésus était attendue comme un événement
-sensationnel. La réputation de l'auteur, l'interdiction de son cours,
-son passé, son talent, tout surexcitait la curiosité publique. Renan
-lui-même s'inquiétait du bruit qu'allait faire cette oeuvre menaçante et
-mystérieuse.</p>
-<p>Elle paraîtra je pense dans deux mois. Je n'ai pas besoin de vous dire
-dans quel sens elle est écrite. Les partisans des miracles ne seront pas
-satisfaits. Je ne sais trop ce qui adviendra 2.</p>
-<p>La Vie de Jésus éclata comme un coup de tonnerre. Traduite immédiatement
-en dix langues, on en Vendit 60.000 exemplaires en cinq mois. Quatre ans
-après l'apparition on avait vendu treize éditions à</p>
-<p><pb/></p>
-<p>LA PUBLICATION DE LA VIE DE JÉSUS 63</p>
-<p>10.000 exemplaires chacune. L'auteur touchait 20 pour cent sur le prix
-fort de 7 fr. 50 le volume *.</p>
-<p>La Vie de Jésus s'enleva, comme on dit, sans lancement ni réclame. Renan
-ne sollicita aucun compterendu et ne fit aucune démarche. Il ne voulut
-même pas influencer le directeur des Débats, M. de Sacy, sur le choix de
-la personne qui devait faire l'article :</p>
-<p>Je lui répondis que je lui livrais tout cela sans réserve ; que je ne
-voulais entrer pour rien dans le choix de la personne qui ferait
-l'article. Il prononça votre nom. J'eus alors mille raisons de dire que
-tout ce qu'il ferait serait bien fait 3.</p>
-<p>Le livre, dit Mary Darmesteter, eut un succès immédiatement
-retentissant, absolu ; pour un livre sérieux, c'était le plus grand
-succès du siècle. Dès le mois de</p>
-<p>1. Desportes et Bournand, Renan, sa vie et son oeuvre, p. 91.</p>
-<p>2. Psichari. Ernest Renan, p. 78.</p>
-<p><pb/></p>
-<p>64 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>Dans les salons, les cercles, les cafés on ne parlait que de la Vie de
-Jésus. Gens du monde, écrivains ou bohèmes, donnèrent leur opinion. On
-se disputait jusque dans les brasseries.</p>
-<p>I. La Vie de Renan, p. 171.</p>
-<p><pb/></p>
-<p>LA PUBLICATION DE LA VIE DE JÉSUS 65</p>
-<p>L'auteur de Leîia, dit-il, admirait Renan avec une ferveur</p>
-<p>1. Philibert Audebrand. Un café de journalistes sous Napoléon III, p. 10.</p>
-<p>2. Sur un exemplaire de la Revue la Liberté de penser, que possède la
-Bibliothèque nationale, un lecteur indélicat a_ écrit : Renan, infâme
-gredin, traître, moine défroqué, sois maudit, (ils de Satan. (Pons.
-Ernest Renan, p. 62.)</p>
-<p>3. Mgr Perraud. A propos de la mort de Renan, p. 24.</p>
-<p>ALBALAT 5</p>
-<p><pb/></p>
-<p>66 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>I. Le Journal, 1896.</p>
-<p><pb/></p>
-<p>LA PUBLICATION DE LA VIE DE JÉSUS 67</p>
-<p>Eh bien ! que dit-on de M. Renan ? On m'apprit le lendemain que, par
-ordre de 1 evêque de Marseille, les cloches sonnaient le glas chaque
-vendredi, afin de rappeler aux fidèles l'attentat dont leur Dieu avait
-été l'objet. Quelle réclame pour le volume 1 !</p>
-<p>Le livre, dit Maurice Goguel, provoqua en Europe une émotion plus
-profonde encore que celle de Strauss, et fit naître une nuée de
-réponses. Schweitzer dit plaisamment : Tout ce qui portait une soutane
-et était capable de tenir une plume partit en guerre contre Renan, les
-évêques en tête 2.</p>
-<p>Si la Vie de Jésus déchaînait des torrents d'injures, elle inspirait
-aussi des articles élogitux auxquels Renan fut très sensible. Il eut des
-approbateurs qualifiés, comme Albert Réville, qui lui écrivait le 29
-juin 1863:</p>
-<p>1. Pons. Ernest Renan et les Origines du christianisme, p. 101.</p>
-<p>2. La Vie de Jésus, p. 29.</p>
-<p><pb/></p>
-<p>68 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>En essayant, dit-il, de composer un Jésus possible, organique et vivant,
-j'ai mille fois pensé qu'il faudrait pour une telle oeuvre l'art profond
-par lequel vous savez agencer vos créations idéales 2.</p>
-<p>2. Correspondance, t. I, p. 230.</p>
-<p><pb/></p>
-<p>LA PUBLICATION DE LA VIE DE JÉSUS 69</p>
-<p>Sainte-Beuve avait d'abord annoncé la publication de la Vie de Jésus.</p>
-<p>La librairie Michel Lévy, disait-il, met aujourd'hui en vente un livre
-qui était depuis longtemps annoncé et bien impatiemment attendu, la Vie
-de Jésus, par Ernest Renan. C'est un de ces ouvrages qui n'ont pas
-besoin de recommandation et qui font leur chemin tout seuls...
-Sceptiques, indifférents, hommes d'étude et d'examen, gens du monde,
-gens d'affaires, pour peu que vous ayez un coin sérieux de vacant et de
-libre en vous, je dirai avec confiance : lisez et relisez ces beaux
-chapitres et apprenez le respect, l'amour et l'intelligence de ces
-choses religieuses, auxquelles il n'est plus temps d'appliquer la
-raillerie et le sourire.</p>
-<p>Deux mois après, le 7 septembre, Sainte-Beuve publiait son compte-rendu.
-Avec sa pénétration ordinaire il indiquait finement ce que Renan avait
-Voulu réaliser, son effort d'évocation et de vérité, la partie artiste
-et descriptive de l'oeuvre :</p>
-<p>1. Lettre du 28 août 1863. Les DébaL.</p>
-<p>2. Nouveaux lundis, t. VI.</p>
-<p><pb/></p>
-<p>70 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>Sainte-Beuve louait Renan d'avoir admirablement rendu le charme des
-paysages évangéliques :</p>
-<p>Et Sainte-Beuve ajoute :</p>
-<p>Je vous remercie du fond de l'âme d'avoir insisté sur le caractère
-désintéressé du livre. C'est ce qu'on comprend</p>
-<p>1. Nouveaux lundis, t. VI.</p>
-<p><pb/></p>
-<p>LA PUBLICATION DE LA VIE DE JÉSUS 71</p>
-<p>le moins ici. Les uns me traitant de démolisseur du catholicisme, qui
-cache son jeu ; les autres me prêtent un tas de vues politiques dont je
-suis fort innocent. Vous seul avez bien vu que j'ai uniquement voulu
-être historien, dans les conditions ordinaires que notre siècle a créées
-pour l'histoire 1.</p>
-<p>Comme il fallait s'y attendre, les réfutations de la Vie de Jésus furent
-innombrables.</p>
-<p>Le 21 septembre 1863, sous le titre de : Neuvième croisade », la Petite
-Revue ouvrait une rubrique où elle reproduisait les passages les plus
-saillants :</p>
-<p>La rubrique contenait de curieux extraits qui donnent bien le ton de
-l'époque.</p>
-<p>Il existe en France, nos très chers coopérateurs, une Revue qui, par son
-importance, semble occuper le premier rang de la presse périodique... Ce
-qui la distingue surtout, c'est l'absence radicale d'esprit chrétien,
-c'est le rationalisme obstiné dont elle se fait un système, sinon une
-gloire. Vous n'en verrez presque pas un numéro qui ne contienne un
-article plus ou moins erroné, plus ou moins agressif</p>
-<p>1. Correspondance, t. II, p. 232.</p>
-<p><pb/></p>
-<p>72 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>i</p>
-<p>On peut encore mentionner les réponses du P. Passaglia, député au
-Parlement de Turin. Renan selon lui « défigurait l'histoire et n'avait
-pas traité sérieusement les matières sérieuses ». M. Colani protesta «
-au nom de la science et de la critique, et leveque d'Alger, devant tant
-de contradictions, ne désespérait pas de Voir un jour Renan se déjuger
-et se convertir.</p>
-<p><pb/></p>
-<p>LA PUBLICATION DE LA VIE DE JÉSUS 73</p>
-<p>L'abbé Laillault accusa Renan d'avoir des relations abominables avec le
-démon. Les vers et les chansons pullulèrent :</p>
-<p>Renan, fils d'Arius et Voltaire manqué,</p>
-<p>Séminariste ingrat, lévite défroqué,</p>
-<p>Déserteur de l'Église et des sacrés portiques,</p>
-<p>Professeur incompris des langues sémitiques,</p>
-<p>Quand te lasseras-tu, superbe ï.ovateur,</p>
-<p>Qui mourut les deux mains ouvertes cur le Monde ? 8</p>
-<p>1. Revue Entyclopédique, 15 octobre 1892. Cité par Desportes et Bournand^</p>
-<p><pb/></p>
-<p>74 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>Renan protestait en affirmant la pureté de ses intentions. Non seulement
-il ne se repentait pas d'avoir publié sa Vie de Jésus grand format, qui
-pouvait passer pour une oeuvre savante ; mais il aggrava ses torts en
-donnant, trois ans après, une édition populaire de l'ouvrage. Nous
-savons par Mrae Renan que la rédaction de ce petit livre lui coûta plus
-d'une année de travail. Il le composa après les Apôtres et avant
-Saint+Paul et on en vendit plus d'un million d'exemplaires.</p>
-<p><pb/></p>
-<p>LA PUBLICATION DE LA VIE DE JÉSUS 75</p>
-<p>Moins, dit-il, les notes, l'introduction et quelques passages qui, pour
-être bien compris, demanderaient des études spéciales de critique. Je
-n'ai voulu laisser que ce qui a un sens de poésie ou d'édification.
-Certes je n'ai pas eu la folle pensée de contenter les orthodoxes. Je
-crois cependant qu'une grande partie de la conscience chrétienne
-accueillera ce Christ dégagé de tout caractère spécial de temps, de pays
-et de race \</p>
-<p>Chaque fois que vous me dites que ce rêve vous a été au coeur, c'est
-pour moi une grande joie. J'ai voulu faire revivre en ces pages la
-religion de l'âme, telle que Jésus l'a révélée, la vraie religion qui
-dort au fond de nous et que le grand charmeur évangélique sait
-adorablement réveiller. Retrouver les accents de cette voix divine est
-la plus difficile des tâches 2.</p>
-<p>Renan persista dans son opinion et ne Voulut jamais convenir qu'il avait
-fait une oeuvre anti-chrétienne. Ce rationalisme mystique représentait
-pour lui la vraie religion et les contenait toutes.</p>
-<p>Il faut lui rendre justice : la clameur des protestations ne lui fit
-jamais perdre son sang-froid, et il ne fit rien pour exploiter le succès
-que lui valaient ces attaques :</p>
-<p>Ce succès, dit-il, je n'y ai point aidé. Il eût été plus grand, si je
-l'avais voulu... Si j'avais voulu faire un crescendo</p>
-<p>1. Correspondance, t. I, p 251.</p>
-<p>2. Correspondance, 1.1, p. 234.</p>
-<p><pb/></p>
-<p>76 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>d'anti-cléricalisme après la Vie de Jésus, qu'felle n'eût pas été ma
-popularité !... 1</p>
-<p>Renan se fit, au contraire, au devoir de ne jamais rien répondre.
-Sainte-Beuve l'avait dit :</p>
-<p>1. Souvenirs d'enfance et de jeunesse, p. 356.</p>
-<p>2. Nouveaux lundis, t. VI.</p>
-<p>3. Correspondance Renan-Berlhelot, p. 295.</p>
-<p><pb/></p>
-<p>LA PUBLICATION DE LA VIE DE JÉSUS 77</p>
-<p>Dans la préface de la treizième édition, qui parut en 1867, Renan crut
-cependant devoir expliquer les raisons de son silence :</p>
-<p>I. Nouvelles études d'histoire religieuse.</p>
-<p><pb/></p>
-<p>78 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>Jésus autrement qu'on ne doit ; mais il a bien parlé de Saint François.
-Saint François le sauvera ».</p>
-<p>Il est certain, disait Renan, que j'aurais le droit de demander aux
-tribunaux ou au Conseil d'Etat si les lois sur la diffamation obligent
-les évêques. Mais alors il faudrait poursuivre le Figaro qui, lui, a
-inventé des anecdotes saugrenues, fausses depuis un bout jusqu'à
-l'autre, et Barbey d'Aurevilly, qui, m'a-t-on dit, a fait sur mon compte
-un inconcevable article d'injures. On a trouvé le moyen de faire partir
-la calomnie de si bas, que, pour la relever, je serais obligé de me
-salir... Quant au livre, il ne s'en porte que mieux, et je soupçonnerai
-presque mon éditeur de se mettre de la partie. Chaque édition de cinq
-mille s'écoule en huit ou dix jours, et une lettre de Lévy, que je
-reçois aussi, m'apprend qu'en ce dernier temps, la vente, loin de se
-ralentir, s'accélère. Je dis cela sans vanité, car cela ne prouve pas
-que le livre soit bon ou mauvais. Mais cela prouve que les moyens
-employés pour l'étouffer ne sont pas très efficaces 1.</p>
-<p><pb/></p>
-<p>LA PUBLICATION DE LA VIE DE JÉSUS 79</p>
-<p>articles réunis en volume, Patrice Larroque dénonça la figure idyllique
-et douceâtre de ce nouveau Jésus, charmant rabbi, beau jeune homme aimé
-des femmes :</p>
-<p>Proudhon qui ne ménageait personne ne dissimula pas sa désapprobation :</p>
-<p>Renan, dit-il, peut se vanter d'avoir calomnié Jésus, non seulement en
-le présentant de travers, en lui prêtant des idées et des paroles qui ne
-lui appartiennent pas, mais en risquant sous son nom des maximes dignes
-des poursuites de la justice. Et la raison de cette singulière portraiture</p>
-<p><pb/></p>
-<p>80 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>Ainsi la philosophie de M. Renan est restée ici au dessous de la fable.
-La mythologie chrétienne a pu d'un simple mortel faire un Dieu ; M.
-Renan n'a pas su dans ce Dieu, trouver de quoi faire un homme, digne au
-moins d'une correction afflictive, sinon infamante \</p>
-<p>I. Proudhon. Jésus, p. 174.</p>
-<p><pb/></p>
-<p>LA PUBLICATION DE LA VIE DE JÉSUS 81</p>
-<p>syria1. est mort le 3 octobre 1892.</p>
-<p>2. L'abbé Renard. Renan, p. 84 ; Lettres intimes, p. 278 et Nouvelles
-lettres intimes, p. 2.</p>
-<p>ALBALAT 6</p>
-<p><pb/></p>
-<p>82 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>1. Barrés. Mes Cahiers, I, p. 74.</p>
-<p>2. Débats, 18 octobre 1892.</p>
-<p><pb/></p>
-<p>LA PUBLICATION DE LA VIE DE JÉSUS 83</p>
-<p>et de l'obscurité des sujets qu'il traitait ; qu'il s'y trouve des
-contradictions, — plus apparentes que réelles et qui se résolvent avec
-un peu de réflexion, — j'en conviens ; enfin qu'il ait mis dans ses
-récits beaucoup d'imagination, je le reconnais, et j'en suis ravi. Car
-cela veut dire qu'il a fait, dans d'autres conditions et avec des dons
-différents, ce qu'a fait Jules Michelet. Il peut y avoir d'utiles
-érudits, il n'y a pas de grand historien sans imagination. Et la vie que
-l'historien communique au passé, quand elle ne contredit ni les
-inscriptions ni les textes, est peut-être, d'ailleurs, un aussi bon
-témoignage de vérité que les textes et les inscriptions mêmes.</p>
-<p>I. Tronchon. Ernest Renan et l'Etranger, p. 87. M. Tronchon renvoie
-lui-même au témoignage de Darmesteter et de Réville.</p>
-<p><pb/></p>
-<p>84 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>M. Paul Bourget a récemment résumé, en quelques lignes magistrales et
-définitives, la valeur et l'autorité de Renan :</p>
-<p>I. Quelques témoignages, p. 128.</p>
-<p><pb/></p>
-<p>LA PUBLICATION DE LA VIE DE JÉSUS 85</p>
-<p>homme du monde ; ce sera un des hommes supérieurs de ce siècle. Je
-serais fâché de Voir un homme comme toi en guerre avec un homme comme
-lui 1.</p>
-<p>2. Taine. Correspondance, t. II, p. 157.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>V</p>
-<p>L'ORIGINALITÉ DE LA « VIE DE JÉSUS »</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>V L'ORIGINALITÉ DE LA VIE DE JÉSUS</p>
-<p><pb/></p>
-<p>90 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>Schweitzer a dénoncé le genre de séduction qui, selon lui, remplaçait
-chez Renan la vraie méthode scientifique î</p>
-<p>Renan, ne s'inclina pas devant ces reproches. Il se contenta d'exposer
-ses idées dans son grand examen</p>
-<p>1. La Vie de Je'sus de Renan, par Je P, Lagrange, p, 35,</p>
-<p>3. Cité par Fillion. Les Etapes du rationalisme, p. 118.</p>
-<p><pb/></p>
-<p>L'ORIGINALITÉ DE LA VIE DE JÉSUS 91</p>
-<p>du texte de Saint Jean (13° édition). L'introduction et l'appendice de
-ce volume peuvent être comptés parmi les pages de style les plus
-parfaites que nous ayons dans notre langue. Renan avait raison de dire s</p>
-<p>Loin d être accusé de scepticisme je dois être range parmi les critiques
-modérés, puisqu'au lieu de rejeter en bloc des documents affaiblis par
-tant d'alliage, j'essaye d'en tirer quelque chose d'historique par de
-délicates approxima» tions \</p>
-<p>Renan est en France le premier écrivain sérieux qui ait publié une vie
-rationaliste du Christ. Celle de Peyrat ne parut qu'en mars 1864. Il
-existait, au contraire, et depuis longtemps, en Allemagne, bien des
-ouvrages de .ce genre. Reimarius expliquait les miracles</p>
-<p>1. Vie de Jésus. Préface.</p>
-<p>2. Cf. Pommier. Renan et Strasbourg, p. 56.</p>
-<p><pb/></p>
-<p>92 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>!. Cf. les Étapes du Rationalisme, par Fillion.</p>
-<p>2. Cf. Strauss, sa vie el son oeucre, par Albert Lévy.</p>
-<p><pb/></p>
-<p>L'ORIGINALITÉ DE LA VIE DE JÉSUS 93</p>
-<p>Que sa tentative ait échoué ou non, on ne peut que l'approuver de
-n'avoir pas suivi les hardiesses de</p>
-<p>1. Cf. Albert Lévy. Frédéric Strauss, p. 220.</p>
-<p>2. Maurice Goguel. La Vie Je Jésus, p. 28.</p>
-<p><pb/></p>
-<p>94 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>1. Cf. Proudhon. Les derniers chapitres de Jésus.</p>
-<p>2. Correspondance, t. I, p. 244.</p>
-<p><pb/></p>
-<p>L'ORIGINALITÉ DE LA VIE DE JÉSUS 95</p>
-<p>Queïjfjue soit, dit Brunetière, l'esprit qui anime son Saint Paul, les
-Apôtres, son Antc-Christ, son Église chré* tienne, son Marc-Aurèle, ces
-livres sont vivants, et vivants d'une vie qui n'est pas celle de
-l'auteur, mais la leur. C'est un rare mérite et c'est un mérite éminent 1.</p>
-<p>En somme, Renan a eu grandement raison de résister aux suggestions
-d'Outre-Rhin. Ses conclusions exégétiques sont aujourd'hui admises même
-par l'école libérale allemande.</p>
-<p>1. Brunetière. Cinq lettres sur Renan, p. 230. Taine trouvait le volume
-des Apôtres historiquement très remarquable.</p>
-<p><pb/></p>
-<p>96 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>I. Le P. Gratry. Les Sophistes et la critique, chap. I, 2e livre</p>
-<p><pb/></p>
-<p>L'ORIGINALITÉ DE LA VIE DE JÉSUS 97</p>
-<p>1. Cf. Mgr Perraud. A propos de la mort de Renan, p. \|0. '</p>
-<p>ALBALAT 7 **"-•-'"</p>
-<p><pb/></p>
-<p>98 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p><pb/></p>
-<p>L'ORIGINALITÉ DE LA VIE DE JÉSUS 99</p>
-<p>Voici un dernier exemple de ce genre de malentendus :</p>
-<p>On voit combien est délicate cette question de citations, et les
-équivoques qu'elle peut engendrer.</p>
-<p>Renan ne. faisait, d'ailleurs, aucune difficulté pour reconnaître ses
-erreurs. Il avait écrit inexactement : « Les disciples de Jésus, par
-moments, le crurent fou ». Sur une remarque d'Albert Réville, il se
-corrigea et</p>
-<p><pb/></p>
-<p>100 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>suivit le texte de Saint Marc : « Ses proches, par moments, le crurent
-fou 1 ».</p>
-<p><pb/></p>
-<p>L'ORIGINALITÉ DE LA VIE DE JÉSUS 101</p>
-<p><pb/></p>
-<p>102 LA VIE DE JËSVS D'ERNEST RENAN</p>
-<p>M. Alfred Loisy reconnaît plus nettement encore la valeur de la Vie de
-Jésus :</p>
-<p>La synthèse historique de Renan, dit-il, n'a pas été recommencée depuis
-en français et, comme historien des origines chrétiennes, comme
-historien d'Israël, Renan a la plus grande importance... J'ai tiré le
-plus grand profit de son cours d'hébreu... Tout ne me plaît pas
-également dans la production littéraire de Renan ; mais ses oeuvres
-historiques sont plus 6olides que beaucoup de ceux qui font profession
-d'être ses admirateurs ne veulent bien le dire. Ne le blâmons pas trop
-d'avoir été un merveilleux écrivain en même temps que savant. Il y aura
-toujours assez d'érudits qui écriront</p>
-<p>I. Le P. Lagrange. La Vie de Jésus de Renan, p. 141.</p>
-<p><pb/></p>
-<p>L'ORIGINALITÉ DE LA VIE DE JÉSUS 103</p>
-<p>Interrogé par le chapitre de Saint-Brieuc sur le meilleur livre à
-consulter pour les origines du christianisme, Mgr Duchesne, historien
-libéral, mais fidèle orthodoxe, répondait avec son malicieux sourire : —
-Eh bien, voyezvous, ce qu'il y a de mieux, c'est encore les ouvrages de
-Renan 2.</p>
-<p>et Psichari ajoute : Il me confirma lui-même cette réponse.</p>
-<p>Auteur d'une Vie de Jésus uniquement éloquente et descriptive, le P.
-Didon est un des rares écrivains libéraux qui gardèrent contre Renan des
-sentiments d'animosité irréductible :</p>
-<p>Cette sage restriction laisse au moins toute liberté d esprit pour juger
-la sincérité de Renan.</p>
-<p>1. Interwiew de Lefèvre. Nouvelles littéraires, 24 février 1923.</p>
-<p>2. Psichari. Ernest Renan, p. 33.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>VI</p>
-<p>L'IDYLLE ET LE ROMAN</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>VI L'IDYLLE ET LE ROMAN</p>
-<p><pb/></p>
-<p>108 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>ne voit que son idée, dit que nous ne sommes pas artistes ; qu'un traité
-simplement positif et dogmatique ne rendrait pas la vie ; que Jésus a
-vécu et qu'il faut le faire revivre ; que tant pis si l'on criaille,
-etc.. Manque de prudence et de politique \</p>
-<p>1. Taine. Correspondance, t. II, p. 244.</p>
-<p><pb/></p>
-<p>L'IDYLLE ET LE ROMAN 109</p>
-<p>Vouloir découvrir comment les choses ont pu se passer est, en touè cas,
-une préoccupation de véritable historien et qui explique les
-appréciations hasardées, les concessions équivoques, les formules
-dubitatives dont fourmille cette Vie de Jésus, scandale des 1 croyants
-et des incrédules. « A force de donner des explications, dit Gabriel
-Séailles, il n'en donne aucune ». Il n'en reste pas moins qu'en écrivant
-ce prétendu roman, Renan a réellement fait tout ce qu'il a pu pour
-atteindre le résultat qu'on lui a contesté.</p>
-<p>Renan, en effet, n'a reculé devant rien pour saisir toute la réalité que
-pouvait contenir le plus merveilleux des récits. Prenant partout ses
-éléments d'information, ses comparaisons et ses hypothèses, jusqu'à
-risquer les rapprochements les plus modernes, il « descend au besoin,
-dit Gaston Boissier, jusqu'aux temps et aux faits les plus voisins de
-nous. Les Mormons, le Bâbisme lui font comprendre certaines</p>
-<p>I. Feuilles détachées. Portraits de saint Paul.</p>
-<p><pb/></p>
-<p>110 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>abberrations du sens religieux ; les horreurs de la Commune lui
-expliquent le siège de Jérusalem... Cette méthode a ses inconvénients et
-M. Renan ne les a pas toujours évités ; mais c'est la seule qui puisse
-rendre le passé vivant ».</p>
-<p><pb/></p>
-<p>L'IDYLLE ET LE ROMAN 111</p>
-<p>Les détails de cette idylle, les agapes, les lys, la foule, les oiseaux,
-les noces de Cana, les promenades au grand air, tout cela se trouve
-bien, en effet, dans l'Evangile, mais estompé et adouci par le recul de
-l'idéalisation religieuse. Renan a peut-être un peu trop égayé le
-tableaud nous fait un peu trop oublier le côté sombre des Evangiles,
-Jésus prêchant la pénitence, ses malédictions contre les docteurs et les
-riches, ses menaces du feu éternel, ses colères contre les marchands et
-les hypocrites.</p>
-<p><pb/></p>
-<p>112 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>Le Jésus de Renan choquait non seulement les gens sérieux comme Edmond
-Scherer, mais les gens du monde et les simples journalistes comme
-Jouvin, qui disait dans le Figaro :</p>
-<p>Strauss, dit-il, a moins d'esprit que Renan et saisit moins bien
-certaines nuances... Renan nous a donné du Galiléen une image plus
-vivante que le portrait moral tracé par Strauss 2.</p>
-<p>1. Mémoires d'un journaliste, par H. de Villemessant, 3° série, p. 324.</p>
-<p>2. Albert Lévy. David Frédéric Strauss. La vie et l'oeuvre, p. 221.</p>
-<p><pb/></p>
-<p>L'IDYLLE ET LE ROMAN 113</p>
-<p>/Ce genre de séduction n'a rien d'irrespectueux ni d'invraisemblable. La
-foi chrétienne tient Jésus pour un Dieu, mais aussi pour un homme ; et
-oh ne voit pas pourquoi 1 homme n'aurait pas été aimable et charmant.</p>
-<p>ALBALAT 8</p>
-<p><pb/></p>
-<p>114 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>Comme homme et comme artiste, Jésus, dit M. Cuneo, subit le charme de
-l'Orient et fut lui aussi un oriental. Il séduisit comme savent séduire
-les orientaux... Il fut le premier qui se servit du charme, art
-nécessaire pour celui qui veut obtenir le triomphe. Sans le charme,
-Jésus eût obtenu seulement le succès. S'il eût aspiré au succès sans le
-charme, il eût obtenu un simple applaudissement h</p>
-<p>I. « Coquetterie délia Chiesa, » par Nicolo Cuneo, p. 80, 92* Ancona. La
-Luccrna.</p>
-<p><pb/></p>
-<p>L'IDYLLE ET LE ROMAN 115</p>
-<p>I. Correspondance Berlhelol-Renan, p. 284, 305.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>VII</p>
-<p>INFLUENCE RELIGIEUSE DE LA « VIE DE JÉSUS »</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>VII</p>
-<p>INFLUENCE RELIGIEUSE DE LA VIE DE JÉSUS</p>
-<p><pb/></p>
-<p>120 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p><pb/></p>
-<p>INFLUENCE DE LA VIE DE JÉSUS 121</p>
-<p>L'auteur de la Vie de Jésus avait fini par aimer la religion en quelque
-sorte en dehors même de la religion. Il ne pouvait se défendre
-d'éprouver de l'antipathie pour les gens bornés qui se disent incrédules.</p>
-<p>1. Revue des Deux-Mondes, 1er sept. 1926 (cité par Goguel. Vie de Jésus).</p>
-<p><pb/></p>
-<p>122 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>En dehors, dit-il, d'un petit nombre d'hommes capables de rendre compte
-scientifiquement de leur refus critique d'adhérer au christianisme,
-j'estime peu les incrédules. Les incrédules ont raison, mais non pas
-pour les raisons qu'ils pensent, car leurs raisons sont parfois encore
-plus mauvaises que celles de ceux qui croientl.</p>
-<p>1. Cité par Pierre Lasserre.</p>
-<p>2. Cité par Mgr D'Hulst. Mélanges philosophiques, p. 512, Cf. aussi
-VExamen de conscience.</p>
-<p><pb/></p>
-<p>INFLUENCE DE LA VIE DE JÉSUS 123</p>
-<p>L'homme est le plus dans le vrai quand il est le plus religieux et le
-plus assuré d'une destinée infinie.</p>
-<p>Pour moi, quand on a nié les dogmes fondamentaux, j'ai envie d'y croire
-; quand on les affirme autrement qu'en beaux vers, je suis pris d'un
-doute invincible.</p>
-<p>Les Fragments philosophiques, les Etudes d'histoire religieuse et Ma
-Soeur Henriette contiennent de beaux passages sur l'immortalité de l'âme
-et l'existence de Dieu 1.</p>
-<p>]. Ma soeur Henriette, p. 61 (édit. Nelson) ; presque un cri de foi, p.
-63 ; et dans l'Abbesse de Jouarre, p. 49 : « La survivance de la
-personnalité a contre elle toutes les apparences ; il n'est pas
-impossible cependant que dans l'infini du temps elle se retrouve ».</p>
-<p><pb/></p>
-<p>124 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>Tout dans sa vie prouve, au contraire, qu'il n'a jamais haï ni la
-religion ni les prêtres. Benedite raconte avec quelle amabilité Renan
-reçut la visite de deux jeunes abbés qui suivaient son cours d'hébreu 1.
-Il souhaitait revoir ses anciens condisciples et ses anciens maîtres» 11
-achetait des livres de piété pour sa mère. Il la pVévint de sa fin
-prochaine et il alla même chercher le prêtre pour qu elle reçut les
-sacrements...</p>
-<p>C'est dans ce sens, dit Psichari, qu'il me parlait, dans la petite
-chambre du Collège de France, quelques jours avant d'y expirer, comme je
-l'ai précisé dans le récit de sa mort. Son scepticisme se retournait
-contre lui-même 2.</p>
-<p>Renan s'est bien défini quand il a dit :</p>
-<p>inutile\. 26 Juillet 1925.</p>
-<p>2. Psichari. Ernest Renan, p. 77.</p>
-<p><pb/></p>
-<p>INFLUENCE DE LA VIE DE JÉSUS 125</p>
-<p>ment beaucoup de mal pour paraître bourgeois, un tissu de contradictions
-rappelant l'hircocerf de la scolastique, qui avait deux natures.</p>
-<p>La nouveauté de ce genre d'incrédulité contradictoire peut, pour une
-large part, expliquer le succès de la Vie de Jésus ; mais, au fond même,
-la doctrine de l'ouvrage devaient avoir une sérieuse et profonde</p>
-<p>1. Cité par Brunet. Évocations littéraires, p. 284.</p>
-<p>2. Mgr D'Hulst. Mélanges philosophiques, p. 514.</p>
-<p><pb/></p>
-<p>126 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>Sans cette éducation religieuse et cet amour de la religion, Renan, dit
-Jules Lemaître, n'aurait pas eu ce charme magique ; il ne serait pas le
-berceur et l'enchanteur de nos âmes et je ne serais pas ému jusqu'au
-fond du coeur en parlant si mal de lui, encore que j'en parle de mon
-mieux. C'est le bienfaiteur de nos esprits. Il en est beaucoup parmi
-nous qu'il a sauvés de l'impiété. Il nous a enseigné qu'on</p>
-<p><pb/></p>
-<p>INFLUENCE DE LA VIE DE JÉSUS 127</p>
-<p>Quoique sévère pour l'auteur de la Vie de Jésus, l'abbé Renard n'est pas
-loin de partager l'opinion de Jules Lemaître :</p>
-<p>I. Journal des Débats, 10 Oct. 1892. Mort de Renan.</p>
-<p><pb/></p>
-<p>128 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>d'exégèse, L'esprit renanien, tout déplorable qu'il fût encore, vaut
-mieux que l'esprit voltairien.x</p>
-<p>La Vie de Jésus renferme sur la religion, en général, et très
-particulièrement sur Jésus-Christ, son inimitable grandeur et les
-conséquences indestructibles de son passage parmi les hommes, des
-paroles d'un souffle puissant et ému, auxquelles les apologistes futurs
-feront souvent des emprunts 2.</p>
-<p>Le P. Gratry a même signalé un cas curieux de bonne influence exercée
-sur certains esprits par la lecture de la Vie de Jésus :</p>
-<p>chris1. Renan. Les Etapes de sa pensée, par l'abbé Renard, p. 206.</p>
-<p>2. Mgr Perraud. A propos de la mort de Renan. Brochure.</p>
-<p><pb/></p>
-<p>INFLUENCE DE LA VIE DE JÉSUS 129</p>
-<p>ÀLBALAT 9</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>VIII</p>
-<p>L'ART ET LE STYLE DANS LA « VIE DE JÉSUS »</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>VIII L'ART ET LE STYLE DANS LA VIE DE JÉSUS</p>
-<p>Il est douteux qu'on arrive jamais, sur ce sol profondément dévasté, à
-fixer les places où l'humanité voudrait</p>
-<p><pb/></p>
-<p>134 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p><pb/></p>
-<p>ART ET STYLE DANS LA VIE DE JÉSUS 135</p>
-<p>montagne compacte ou, pour mieux dire, une longue terrasse très élevée,
-qui, depuis Césarée de Philippe, court indéfiniment vers le Sud 1.</p>
-<p>Tout le monde est d'accord aujourd'hui sur la valeur littéraire de la
-Vie de Jésus.</p>
-<p>On a voulu voir dans le style de Renan l'influence de Michelet. Sans
-doute l'insinuation onduleuse, la sensibilité visionnaire, les molles
-nuances caractérisent la manière des deux écrivains ; mais le trépidant
-Michelet procède par petites touches, tandis que Renan a l'ampleur et le
-déroulement d'une vague de fond. Il nous a livré le secret de sa
-formation et de ses goûts,</p>
-<p>1. Vie de Jésus, p. \49.</p>
-<p>2. Le P. Lagrange. La Vie de Jésus, p. 138.</p>
-<p><pb/></p>
-<p>136 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>en nous indiquant quel était son idéal de style. Fénelon fut son maître
-et Télémaque son modèle.</p>
-<p>Ces lignes expliquent les qualités et les défauts de Renan. Il
-ambitionnait d'écrire comme Fénelon. Les Lettres spirituelles de 1
-evêque de Cambrai, chefd'oeuvre de diction classique, peuvent passer
-pour du pur Renan. L'auteur des Origines du Christianisme définit bien
-Télémaque, quand il dit eroir appris dans ce livre « l'art de peindre la
-nature par des traits moraux ». Le trait moral remplaçant l'image et la
-sensation, c'est en effet le grand défaut de Télémaque. On croit lire du
-Fénelon quand on lit du Renan :</p>
-<p>Sa prédication était suave et douce, toute pleine de la nature et du
-parfum des champs. Il aimait les fleurs et en prenait nés leçons les
-plus charmantes. Les oiseaux du ciel,</p>
-<p>I. Souvenirs d'enfance, p. 254.</p>
-<p><pb/></p>
-<p>ART ET STYLE DANS LA VIE DE JÉSUS 137</p>
-<p>Dans notre volume, le Travail du Style enseigné par les corredionsi
-manuscrites des grands écrivains, nous avons montré comment Fénelon
-corrigeait sa prose, en s efforçant d'adoucir les expressions qu'il
-jugeait trop fortes. Renan avait le même scrupule et s'interdisait, en
-écrivant, toute trace d'expression violente.</p>
-<p>Malgré SQn admiration, Flaubert faisait des réserves sur la prose de
-Renan. « Il n'a pas d'arêtes, disait-il. Il manque de saillie. Quel
-dommage qu'il ait trop lu Fénelon I »</p>
-<p>1. Vie de Jésus, p. 174.</p>
-<p>2. Souvenirs d'enfance et de jeunesse, p. 355.</p>
-<p><pb/></p>
-<p>138 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>1. Feuilles détachées, p. 350.</p>
-<p>2. Ma soeur Henriette, p. 31.</p>
-<p><pb/></p>
-<p>ART ET STYLE DANS LA VIE DE JÉSUS 139</p>
-<p>réunion avec elle date un changement profond dans ma manière décrire * ».</p>
-<p>Si Henriette avait pu lire le texte définitif de la Vie de Jésus,
-peut-être y eût-elle encore trouvé des traces du dilettantisme qui lui
-déplaisait.</p>
-<p>Ce que Renan appréciait avant tout, c'était la rectitude et la clarté.
-La moindre équivoque, la plus légère amphibologie lui étaient
-insupportables. Il n'aimait pas le néologisme, il détestait la
-pédanterie et fuyait les répétitions d'idées, bien plus que les
-répétitions de mots, pensant avec raison que remplacer paresse par
-indolence, ce n'était pas changer l'idée.</p>
-<p>« Jamais personne, dit Psichari, n'a corrigé ses épreuves avec plus de
-minutie ; il faisait attention à</p>
-<p>1. Ml</p>
-<p>2. Exekîor, 14 février 1923.</p>
-<p><pb/></p>
-<p>140 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>la moindre virgule. Il se montrait là, comme en toute chose, d'une
-conscience méticuleuse avec les apparences du plus parfait abandon, car
-il travaillait de façon ininterrompue. Il ne se hâtait jamais ; il ne
-lâchait sa page que quand il lavait nettoyée de ce qu'il appelait des
-scories, mot qu'il affectionnait 1 »</p>
-<p>Renan garda pendant dix ans dans ses papiers cette fameuse Prière sur
-l'Acropole. Il ne la publia qu'en 1876, dans la Revue des deux Mondes et
-dans ses Souvenirs d'enfance et de jeunesse. Ce morceau de prose
-fénélonienne paraît aujourd'hui un peu suranné et donne plutôt
-l'impression d'une page de rhétorique</p>
-<p>1. Ernest Renan, p. 116.</p>
-<p><pb/></p>
-<p>ART ET STYLÉ DANS LA VIE DE JÉSUS 141</p>
-<p>[Bossuet disait que Calvin avait le style triste. Brunetière trouvait
-que Renan avait le style égoïste : « Il a un style aristocratique,
-égoïste, si l'on peut dire, dont les plus grands effets se terminent à
-faire admirer (sic) l'érudition, la science et la virtuosité de
-l'écrivain 1 ».</p>
-<p>Renan n'aimait pas la rhétorique ; il l'appelait :</p>
-<p>I. Pages sur Renan, p. 145.</p>
-<p>2.1bid.,p.\2.</p>
-<p><pb/></p>
-<p>142 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>la littérature écolière. Son condisciple, l'abbé Cognât, en fait la
-remarque :</p>
-<p>S'il aimait la finesse et les nuances, Renan a, du moins, toujours gardé
-le culte du goût et de la raison. L'ostentation romantique lui
-déplaisait et il n'admit jamais le dilettantisme verbal des Concourt,
-qui manquaient selon lui d'idées générales.</p>
-<p>Il acceptait volontiers les conseils, non seulement de sa soeur, sa
-collaboratrice effective, mais ceux de ses amis, comme Silvestre de Sacy
-et Buloz, changeant les expressions qu'ils blâmaient, modifiant sa
-pensée selon leurs idées, h*Avenir de la Science, un gros livre de 500
-pages, a été écrit trois fois, et Renan se reprochait de trop négliger
-ses premières rédactions.</p>
-<p>Un de ses collaborateurs au Corpus imcriplionum Semiticarum nous donne
-quelques détails sur sa façon de travailler :</p>
-<p><pb/></p>
-<p>ART ET STYLE DANS LA VIE DE JÉSUS 143</p>
-<p>C'est ainsi que fut d'abord écrite la Vie de Jésus, par effervescence,
-par visions brusques.</p>
-<p>Edmond Biré soutenait que le style de Renan ne pouvait pas être bon, par
-cette raison qu'on ne peut pas bien écrire, si 1 on est sceptique. Renan
-n'était pour lui qu'un dilettante, un menteur, un cuistre, un pédant qui
-se moque des autres et de lui-même. Un sceptique ne peut pas être un bon
-écrivain, témoin Montaigne. La thèse est originale ; mais Biré a tort,
-bien qu'il ait raison de blâmer les épithètes banales, les ^délicieux,
-les exquis, les ravissants, qui émaillent la prose Renanienne.</p>
-<p>Trois ans après la publication de la Vie de Jésus, signalant
-ironiquement dans ses Odeurs de Paris (p. 374) la gloire retentissante
-de Renan, Louis Veuillot, citait l'article d'un confrère, où nous
-lisons, sur les procédés de travail de Renan, des indications qui
-confirment ce que nous disions :</p>
-<p>Renan efface, revient, retranche, remplace des mots, retouche des
-phrases, les arrondit, recommence des pages</p>
-<p>1. Desportes et Bournand. Renan, sa vie et son oeuvre, p. 111</p>
-<p><pb/></p>
-<p>144 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p><pb/></p>
-<p>IX</p>
-<p>CONCLUSION SUR RENAN</p>
-<p>ALBALAT 10</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>IX CONCLUSION SUR RENAN</p>
-<p><pb/></p>
-<p>148 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>Renan a toujours employé ce mot dans son acception la plus haute.
-Parlant dans ses lettres des satisfactions que lui donne la rédaction de
-son oeuvre, il est loin d'y voir un amusement. Au contraire, il met en
-garde son ami Max Muller contre le mot amusant et les nuances qu'il
-comporte : « Le mot amusant, dit-il, est la chose la plus décevante
-qu'il y ait. Les trois quarts des volumes que les gens du monde
-appellent amusants me semblent vingt fois plus ennuyeux que la plupart
-des volumes de votre collection. Tout est relatif 2.</p>
-<p>1. Correspondance, t. II, p. 41.</p>
-<p>2. Correspondance, t. II, p. 247.</p>
-<p>3. Cité par le baron Deschamps. Le génie des religions, p. 97 et 105.</p>
-<p><pb/></p>
-<p>CONCLUSION SUR RENAN 149</p>
-<p>Ces déclarations indignèrent les gens Vertueux. On ne peut pourtant pas
-accuser Renan d'immoralité, quand il fait une simple constatation. On
-lui reproche d'avoir trop parlé dans les banquets. Ses toasts étaient</p>
-<p>I. Correspondance, t. H, p. 96.</p>
-<p><pb/></p>
-<p>150 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>Renan, vieillissant, dit Berthelot, glissait de plus en plus sur la
-pente d'un scepticisme apparent, sympathique pour tout sentiment
-naturel, pour toute pensée de bonne foi. La sévérité de sa vie privée
-lui donnait le droit d'être indulgent pour autrui, pourvu qu'il y
-retrouvât le souci de l'art</p>
-<p>1. Paul Bourget. Quelques témoignages, p. 125.</p>
-<p><pb/></p>
-<p>CONCLUSION SUR RENAN 151</p>
-<p>!. Ernest Renan, par Desportes et Bournand, p. 181.</p>
-<p>2. Ibid.</p>
-<p>3. « Lemaitre, dit Anatole France, se moquait de Renan et l'aimait
-beaucoup ». {Souvenirs et récits, Nicolas Ségur, p. 125).</p>
-<p><pb/></p>
-<p>152 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>Barres pensait que ce genre de libertinage était tout simplement « celui
-du Télémaque ». Renan, dit-il, « c'est Fénelon. C'est aussi un homme
-qui, devenu vieux, moins travailleur, laissait couler le grand flot de
-poésie qu'il avait. Les savants ont en matière amoureuse une naïveté
-toute spéciale. Renan aurait mis en récits romanesques et sans y voir
-malice, les histoires les plus scabreuses 2. »</p>
-<p>Renan se plaignait avec raison qu'on dénaturait ses écrits et qu'on lui
-supposait plus de malice qu'il n'en avait. Il s'exposait évidemment à
-entretenir ces malentendus en publiant des livres comme VAbbesse de
-Jouarre, où il voulait peindre l'amour aux prises avec l'échafaud.</p>
-<p>1. Maurice Barres. Mes Cahiers, I, p. 227.</p>
-<p>2. Ibid., p. 227-228.</p>
-<p><pb/></p>
-<p>CONCLUSION SUR RENAN 153</p>
-<p>dilet1. Marx. Silhouettes de mon temps, p. 93.</p>
-<p>2. Ernest Renan, par Mary Darmesteter, p. 280.</p>
-<p><pb/></p>
-<p>154 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>tanti. Il s'est moqué du monde, il a dissimulé pendant des années et, à
-la fin, il s'est cyniquement dévoilé en écrivant des dialogues
-pornographiques ! ! Pour quelques personnes attardées, c'est encore
-cela, le vrai Renan.</p>
-<p><pb/></p>
-<p>CONCLUSION SUR RENAN 155</p>
-<p>lues calomnies dont on a abreuvé l'auteur de la Vie</p>
-<p><pb/></p>
-<p>156 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>de Jésus tombent d'elles-mêmes quand on les examine de près. Que ne lui
-a-t-on pas reproché ? On lui a même fait un crime de son ambition et on
-la accusé d'orgueil, lui si simple, si peu pédant et qui faisait son
-cours au Collège de France, sur un ton de familiarité si paternelle l</p>
-<p>On a prétendu qu'il était sans générosité et sans bonté. Rien n'est plus
-faux. Mme Andrée Viollis a interrogé les gens de Rosparamon, le pays
-breton où Renan allait chaque année en villégiature. Tous lui ont dit
-qu'il était la charité même ; qu'il se montrait très sensible aux
-afflictions d'autrui et qu'il accueillait chez lui tous les malheureux.</p>
-<p><pb/></p>
-<p>CONCLUSION SUR RENAN 157</p>
-<p>Comme Victor Hugo, Lamartine et Chateaubriand» Renan trouvait naturel
-que tout le monde se dévouât pour lui. Il avoue ses torts dans la
-brochure sur sa soeur. Il a des remords, il se demande s'il a bien fait
-pour elle « tout ce qui dépendait de lui ».</p>
-<p>L'auteur de la Vie de Jésus fut égoïste sans doute, mais comme tous les
-hommes et pas plus que les autres hommes. Sa profonde affection pour sa
-mère, sa ferveur quand il parle d'elle sont une chose admirable. Il a
-adoré sa femme et ses enfants ; quant à</p>
-<p>1. Correspondance Renan et Bertheloi. p. 205. Ca!mann-Lévy.</p>
-<p><pb/></p>
-<p>158 LA VIE DE JÉSUS D'ERNEST RENAN</p>
-<p>sa soeur, qui fut la créatrice de son avenir et qui l'entoura d'une
-tendresse sublime, il l'a aussi sincèrement aimée. Ses pires adversaires
-ont signalé dans sa brochure des pages qui « font pleurer ». Seulement,
-chez Renan, l'expression des sentiments les plus vifs garde toujours
-quelque chose de réservé et de discret.</p>
-<p>Sa vie, quand on la connaît bien, nous offre des traits d'égoïsme et des
-traits de générosité.</p>
-<p>On a loué l'homme, dit Brunetière et non sans raison, selon moi ; il a
-été l'un des plut affables et des plus bienveillants que j'aie jamais
-connus ; j'ajoute aussi l'un des plus serviables. Les complaisances de
-sa vieillesse pour la popularité ne sauraient faire oublier la dignité
-de son âge mûr et la sincérité, la gravité de sa jeunesse 1.</p>
-<p>disaitI. Cinq leltrei sur Renaît, p. 247 et 257.</p>
-<p><pb/></p>
-<p>CONCLUSION SUR RENAN 159</p>
-<p>il. Ne perdez pas votre temps. Et il parlait d'autre chose. On avait
-dérangé le médecin pour rien ».</p>
-<p>[Renan a vécu dans la sérénité d'une philosophie tranquille, détaché de
-toute illusion et de toute croyance, absorbé dans un idéal qu'il a
-défini d'un mot : « Je voudrais toujours vivre pour pouvoir toujours
-travailler. »</p>
-<p>Je crois qu'il était utile de terminer ce petit livre en évoquant en
-quelques pages 1 homme privé avec ses qualités et ses défauts. On
-retrouve dans le style de la Vie de Jésus le caractère même de Renan, sa
-nature impressionnable, ses hésitations, ses incertitudes
-d'appréciations et de pensée. La vie intime d'un grand écrivain peut
-ainsi nous fournir des indications précieuses pour la connaissance de
-son oeuvre et de son talent.</p>
-<p>Paris, novembre 1933.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>TABLE DES MATIÈRES</p>
-<p>I. — Préparation a la Vie de Jésus* 7</p>
-<p>II. — Rédaction de la Vie Je Jésus . 27</p>
-<p>III. — Le miracle dans la Vie de Jésus 43</p>
-<p>IV. — Publication de la Vie de Jésus 55</p>
-<p>V. — L'originalité de la Vie de Jésus. 87</p>
-<p>VI. — L'idylle et le roman 105</p>
-<p>VII. — Influence religieuse de la Vie de Jésus.... 117</p>
-<p>VIII. — L'art et le style dans laJ^feljésïts 131</p>
-<p>IX. — Conclusion sur Renan/M »...,. S\ • • • • 145</p>
-<p>fa- tl i&gt;' $\</p>
-<p>11</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>ACHEVÉ D'IMPRIMER LE 12 DÉCEMBRE 1933 PAR F. PAILLART A ABBEVILLË (SOMME)</p>
-    </div>
+      <div>
+        <p><pb/> ------------------------------------------------------------------------ ------------------------------------------------------------------------ ------------------------------------------------------------------------ ------------------------------------------------------------------------ ------------------------------------------------------------------------ ------------------------------------------------------------------------</p>
+        <p>LES GRANDS ÉVÉNEMENTS LITTÉRAIRES</p>
+        <p>Histoire littéraire et anecdotique des chefs-d'oeuvres français et étrangers</p>
+        <p>publiée sous la direction de</p>
+        <p>MM. ANTOINE AL8ALAT, HENRI D'ALMÉRAS, ANDRÉ</p>
+        <p>BELLESSORT ET JOSEPH LE GRAS</p>
+        <p>Première Série</p>
+        <p>Henri d'ALMÊRAS Le Tartuffe, de Molière.</p>
+        <p>Ed.BENOIT-LÉVY Les Misérable», de Victor Hugo,</p>
+        <p>Jules BERTAUT Le Père Goriot, de Balzac.</p>
+        <p>René DUMESNIL La Publication ê: Maàomt Bovary,</p>
+        <p>Félix GAIFTE Le Mariage de Figaro, '</p>
+        <p>Louis GUIMBAUD Les Orientales, de Victor Hugo.</p>
+        <p>Joseph LE GRAS Diderot et l'Encyclopédie,</p>
+        <p>Henry LYONNLT Le Cid, de Corneille</p>
+        <p>Comtesse J. DE PANGE De l'Allemagne, de Mme de Staël.</p>
+        <p>Alphonse SÉCHÉ Us Vie du Fleurs du Mal,</p>
+        <p>Louis THUASNE Le Roman dt la Rose.</p>
+        <p>Paul VULUAUD Les Paroles d'un Croyant,</p>
+        <p>Deuxième Série</p>
+        <p>Antoine ALBALAT L'Art Poétique, de Boileau.</p>
+        <p>Henri D'ALMÉRAS Les Trois Mousquetaires.</p>
+        <p>A. AUGUSTIN-THIERRY Récits des Temps Mérovingiens.</p>
+        <p>Albert AuriN L'Institution Chrétienne, de Calvin.</p>
+        <p>Georges REAUME Les Lettres de Mon Moulin.</p>
+        <p>René BRAY Les Fables, de La Fontaine.</p>
+        <p>Raymond CLAUZEL Sagesse, de Verlaine.</p>
+        <p>Yves LE FESVRE Le Génie du Christianisme.</p>
+        <p>Ph. VAN TIEGHEM La Nouvelle Héloïse.</p>
+        <p>Maurice MAGENDIE L'Astrée, d'Honoré d'Urfé.</p>
+        <p>Georges MONGRÉDIEN Athalie, de Racine.</p>
+        <p>Ernest RAYNAUD Jean Moréas et les Stances.</p>
+        <p>Troisième Série</p>
+        <p>Albert BAYET Les Provinciales.</p>
+        <p>Jeanne LANDRE Les Soliloques du Pauvre.</p>
+        <p>LONGWORTH-CHAMBRUN Hamlet, de Shakespeare.</p>
+        <p>Joseph VlANEY Les Regrets, de Du Bellay.</p>
+        <p>Auguste DUPOUY Carmen, de Mérimée.</p>
+        <p>Albert AUTIN Le Disciple, de Bourget.</p>
+        <p>Guy DE LA BATUT L'Oraison Funèbre d'Henriette d'Angleterre, de Bossuet.</p>
+        <p>René DUMESML En route, de J. K. Huysmans.</p>
+        <p>Raymond CLAUZEL Une Saiion en Enfer et A. Rimbaud.</p>
+        <p>Eugène LASSERRE Manon Lescaut,</p>
+        <p>A. AUGUSTIN-THIERRY Les Liaisons Dangereuses.</p>
+        <p>Henry LYONNET La Dame aux Camélias.</p>
+        <p>Quatrième Série</p>
+        <p>Gustave FRÊJAVILLE Les Méditations, de Lamartine (12 francs).</p>
+        <p>Léon DEFFOUX L'Assommoir, d'Emile Zola.</p>
+        <p>N. BRIAN-CHANINOV La Guerre et la Paix, de Tolstoï.</p>
+        <p>Henri HAUVETTE .' Lej Canzonières, de Pétrarque (12 francs).</p>
+        <p>Henri D'ALMÉRAS Le Roman Comique, de Scarron.</p>
+        <p>Albert LANTOINE Les Lettres Philosophiques, de Voltaire (12 francs).</p>
+        <p>Pierre VILLEY Les Essais, de Montaigne (12 francs).</p>
+        <p>Joseph VIANEY Les Odes, de Ronsard (12 francs).</p>
+        <p>Georges JARBINET Les Mystères de Paris, d'Eugène Sue (12 francs).</p>
+        <p>ANTOINE ALBALAT La Vie de Jésus, d'Ernest Renan (12 frênes).</p>
+        <p>RENÉ DUMESNIL Les Soirées de Médan (12 francs).</p>
+        <p>JOSEPH VlANEY Les Poèmes barbares, de Leconte de l'Ish (12 franc*).</p>
+        <p>(43 volumes parus)</p>
+        <p>Chaque volume 9 francs (sauf indication spéciale) (Ex. sur papier pur fil. : 30 francs)</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA VIE DE JÉSUS</p>
+        <p>D'ERNEST RENAN</p>
+        <p>
+          <pb/>
+        </p>
+        <p>OUVRAGES DU MÊME AUTEUR</p>
+        <p>L'art d'écrire enseigné en vingt leçons, 1 volume, 53° mille (Colin, éditeur).</p>
+        <p>La formation du style par l'assimilation des auteurs, 1 volume, 23e mille (Colin, éditeur).</p>
+        <p>Le travail du style enseigné par les corrections manuscrites des grands écrivains, \ volume, 22e mille (Colin, éditeur), couronné par l'Académie française. *</p>
+        <p>Comment il faut lire les auteurs classiques français, 1 volume, 16e mille (Colin, éditeur), couronné par l'Académie française.</p>
+        <p>Comment il ne faut pas écrire, 1 volume, 15e édition (Pion, éditeur).</p>
+        <p>Comment on devient écrivain, 1 volume, 15e édition (Pion, éditeur)*</p>
+        <p>Gustave Flaubert et ses amis, 1 volume, 15e édition (Pion, éditeur).</p>
+        <p>Les ennemis de l'art d'écrire, I volume (Librairie universelle, épuisé).</p>
+        <p>Ouvriers et procédés, 1 volume (Havard, éditeur, épuisé).</p>
+        <p>Le mal d'écrire et le roman contemporain, 1 volume (Flammarion» éditeur, épuisé).</p>
+        <p>Souvenirs de la vie littéraire, 1 volume, 7° mille (Crès, éditeur).</p>
+        <p>Marie, \ volume (Colin, éditeur, épuisé).</p>
+        <p>L'amour chez Alphonse Daudet, I volume (Ollendorf, épuisé).</p>
+        <p>Une fleur des tombes, I volume (Havard, épuisé).</p>
+        <p>L'Impossible pardon, I volume (épuisé).</p>
+        <p>Lacordaire, 1 volume (Vitte, éditeur).</p>
+        <p>Joseph de Maistre, 1 volume (Vitte, éditeur).</p>
+        <p>Pages choisies de Louis Veuillot, I volume (Lethielleux, éditeur).</p>
+        <p>Frédéric Mistral, son génie, son oeuvre (Sansot, éditeur).</p>
+        <p>L'art poétique de Boileau, 1 volume (Malfère, éditeur).</p>
+        <p>Trente ans de quartier latin, 1 volume (Malfère, éditeur).</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>JUSTIFICATION DE TIRAGE</p>
+        <p>Tout droit* dt tèprodattton tùttttà. Copyright 19Î3 by Edgar Moifite.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>I</p>
+        <p>PRÉPARATION A LA « VIE DE JÉSUS »</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>I</p>
+        <p>PRÉPARATION A LA VIE DE JÉSUS</p>
+        <p>
+          <pb/>
+        </p>
+        <p>10 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>C'est pendant ces quatre années de grand Séminaire</p>
+        <p>I. Marie James Darmestcter. La Vie d'Ernest Renan, p. 14.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>PRÉPARATION A LA VIE DE JÉSUS U</p>
+        <p>
+          <pb/>
+        </p>
+        <p>12 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>Ma foi, a-t-il dit lui-même, a été détruite par la critique historique, non par la scolastique ni par la philosophie. » Il a dit encore : « Mes raisons de ne pas croire furent toutes de l'ordre philologique et critique ; elles ne furent nulle-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>PRÉPARATION A LA VIE DE JÉSUS 13</p>
+        <p>ment de l'ordre métaphysique, de l'ordre politique, de l'ordre moralx ».</p>
+        <p>ensei1. d'enfance et de jeunesse, p. 258 et 298.</p>
+        <p>2. Souvenirs d'enfance et de jeunesse, p. 298.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>14 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>gnement finit par décourager sa bonne volonté. Que serait-il advenu de sa foi, si les méthodes d'érudition et d'exégèse eussent été plus sérieuses et plus au courant des grands mouvements allemands ? Mgr d'Hulst s'est posé la question. « Des facilités, dit-il, lui ont manqué pour la résistance, et des circonstances plus heureuses les lui auraient offertes ».</p>
+        <p>Mgr Perraud ne croit pas que les objections d'exégèse puissent détruire la foi :</p>
+        <p>Il est toutefois très possible, comme le pense l'abbé Cognât, que l'exégèse n'ait pas été la seule raison déterminante de l'incrédulité chez Renan, et qu'il ait aussi fortement subi l'influence de la philosophie allemande. Au premier abord et en général, il ne semble pas que l'étude de la philosophie, quelle qu'elle soit, puisse présenter tant de dangers pour une jeune intelligence. Ses hardiesses philosophiques n'ont pas empêché Malebranche d'être un parfait chrétien. Renan, au fond, avait un peu la mentalité de ces pasteurs allemands qui, comme Herder, croyaient pouvoir enseiI.</p>
+        <p>enseiI. Perraud. A propos de la mort de Renan, p. 33.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>PRÉPARATION A LA VIE DE JÉSUS 15</p>
+        <p>Que Renan ait perdu la foi sans trop de déchire-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>16 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>1. Souvenirs d'enfance et de jeunesse, p. 312.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>PRÉPARATION A LA VIE DE JÉSUS 17</p>
+        <p>Après avoir hésité pendant deux ans, Renan prit enfin la résolution de quitter le Séminaire, le 6 octobre 1845. Ce fut un grand acte de courage et de franchise.</p>
+        <p>Cette décision devait entraîner pour Renan un changement complet d'existence. Encouragé et soutenu par les lettres de sa soeur et les 1.200 francs quelle lui envoyait, il accepta et supporta très noblement cette nouvelle vie de solitude et de travail.</p>
+        <p>1. Mgr Perraud. A propos Je la mort de Renan, p. 37.</p>
+        <p>ALBALAT 2</p>
+        <p>
+          <pb/>
+        </p>
+        <p>18 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>besoin pour fonder les raisons que sa soeur lui avait soufflées ».</p>
+        <p>n'absor1. Vie d'Ernest Renan, p. 34.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>PRÉPARATION A LA VIE DE JÉSUS 10</p>
+        <p>Elle appuyait, dit-il, de toutes ses forces sur les objections que lui-même se formulait. Elle lui faisait valoir l'importance des difficultés qu'il ne manquerait certainement pas de rencontrer dans l'état ecclésiastique 2.</p>
+        <p>1. Lettres Intimes, p. 81, 83.</p>
+        <p>2. Renan. Les Etapes de sa pensée.</p>
+        <p>3. Lettres intimes, 1842-45, pp. 104, 105, 114, 121, Nelson.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>20 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>Voilà, textes en mains, l'influence qu'Henriette a exercée sur Renan. Il y a loin de tout cela aux impuI.</p>
+        <p>impuI. intimes, p. 163.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>PRÉPARATION A LA VIE DE JÉSUS 21</p>
+        <p>Mme Noémi Renan nous a nettement confirmé cette opinion. « Henriette, nous a-t-elle dit, était la dernière des personnes capable d'avoir voulu détruire la croyance religieuse de son frère. Elle fut toujours là-dessus d'une discrétion et d'une réserve admirables. Pour rien au monde elle n!eût voulu jouer ce rôle... Elle était la délicatesse et la conscience même ».</p>
+        <p>
+          <pb/>
+        </p>
+        <p>22 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>C'est peu de temps après son départ du Séminaire que Renan fit la connaissance de Berthelot.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>PRÉPARATION A LA VIE DE JÉSUS 23</p>
+        <p>Renan nous a laissé quelques pages sincères sur ce nouveau réveil de son inclination religieuse.</p>
+        <p>Et ceci plus significatif encore :</p>
+        <p>1. Patrice, Beatrix, etc... Fragments intimes et souvenirs.</p>
+        <p>2. Renan. Voyages. Édit. Montaigne.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>24 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>Ah ! mon Dieu, disait-il, qui me donnera le pouvoir de faire un livre du christianisme, qui dira définitivement comment il est temps de le prendre ! Je le louerai, je l'exalterai, je le baiserai, mais l'humaniserai. L'homme ou Dieu, c'est tout un, même sans panthéisme 2.</p>
+        <p>Dès sa sortie de Saint-Sulpice (mai-juin 1845), Renan semblait préoccupé d'établir les fondements de son oeuvre future, en rédigeant un Essai psychologique sur Jésus-Christ, publié seulement en 1920, dans la Revue de Paris, et où il tentait « d'expliquer par les lois psychologiques l'apparition de Jésus », en la « rattachant au temps où il parut ».</p>
+        <p>En mars-avril 1849, dans la Liberté de penser, où</p>
+        <p>1. Renan. Vot/ases. EÀit. Montaigne.</p>
+        <p>2. Cité par Pierre Guilloux. L'Esprit de Renan, p. 103.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>PRÉPARATION A LA VIE DE JÉSUS 25</p>
+        <p>« En sortant du Séminaire, dit-il dans ses Souvenirs, la Vie de Jésus était écrite dans mon esprit ». Ce projet ne lui fut pas subitement inspiré par l'offre de la mission en Phénicie, comme le pense M. Edmond Renard *. Renan, on le voit, depuis longtemps y songeait.</p>
+        <p>Dès 1849, il déclarait dans son Avenir de la science (p. 279) : « Le livre le plus important du XIXe siècle devrait avoir pour titre Histoire critique des origines du christianisme, oeuvre admirable que j'envie à celui qui la réalisera et qui sera celle de mon âge mûr, si la mort et tant de fatalités extérieures qui font dévier souvent si fortement les existences, ne vient m'en empêcher ».</p>
+        <p>1. Ernest Renan. Les étapes de sa pensée, p. 139.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>26 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>Une histoire critique des origines du christianisme, faite avec toutes les ressources de l'érudition moderne, en dehors et bien au dessus de toute intention de polémique comme d'apologétique, a toujours été le rêve que j'ai caressé. Mais je n'aborderai ce grand sujet qu'après m'être fait une autorité par des oeuvres d'un caractère purement scientifique et où nulle préoccupation religieuse ne puisse être soupçonnée.</p>
+        <p>Dès sa première jeunesse, il avait conçu, comme l'objet et le but essentiel de sa vie, l'accomplissement d'une oeuvre fondamentale, l'étude des origines du christianisme. Ce fut l'axe fixe de sa carrière, le point sur lequel il ne varia jamais ; c'est cette oeuvre qui devait consacrer son autorité devant ses contemporains et sa gloire devant les historiens du XIXe sièclel.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>II</p>
+        <p>RÉDACTION DE LA « VIE DE JÉSUS »</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>II</p>
+        <p>RÉDACTION DE LA VIE DE JÉSUS</p>
+        <p>
+          <pb/>
+        </p>
+        <p>30 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>Livre de Job, ses Etudes d'histoire religieuse, VOrigine du langage et les Essais de morale et de critique.</p>
+        <p>Arrivé en Palestine, Renan est dans l'enchantement. Ciel, lumière, climat, montagnes, tout lui paraît splendide.</p>
+        <p>Il écrit le 12 mars 1861 :</p>
+        <p>Ce pays est admirable. Le Liban a un charme grandiose, un reste du parfum qu'il avait au temps de Jésus. Ici je suis en terre biblique. Je vois de ma terrasse Sarepta, l'Hermon, le Carmel, les montagnes de la tribu de Dan... Je saisis de plus en plus la personnalité éminente de Jésus. Je le vois très bien traverser la Galilée, au milieu d*une fête perpétuelle. Son amour pour les enfants, son goût pour les fleurs, pour les divertissements de noces, le tour idyllique</p>
+        <p>
+          <pb/>
+        </p>
+        <p>RÉDACTION DE LA VIE DE JÉSUS 3!</p>
+        <p>et champêtre de son imagination me sont bien expliqués \</p>
+        <p>Dès qu'il eut achevé ses fouilles de Phénicie, Renan</p>
+        <p>
+          <pb/>
+        </p>
+        <p>32 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>
+          <pb/>
+        </p>
+        <p>RÉDACTION DE LA VIE DE JÉSUS 33</p>
+        <p>1. Cité par Pierre Guilloux. L'Esprit de Renan, p. 223. ALBALAT 3</p>
+        <p>
+          <pb/>
+        </p>
+        <p>34 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>har1. des Deux-Mondes, 1er Juin 1927. Lettres de Renan au Dr Gaillardot. 1. Ma soeur Henriette, p. 50. Edit. Nelson.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>RÉDACTION DE LA VIE DE JÉSUS 35</p>
+        <p>diesse de certaines affirmations. « Elle me retenait sur la pente des formules d'un Dieu inconscient et d'une immortalité idéale où je me laissais entraîner 1.</p>
+        <p>L'auteur de la Vie de Jésus a connu le plus grand</p>
+        <p>
+          <pb/>
+        </p>
+        <p>36 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>Renan rentra en France (octobre 1861), traînant avec lui le regret de ces belles « journées de Ghazir » et 1 inconsolable souvenir du malheur qui venait de le</p>
+        <p>1. Renan. Les étapes de sa pensée, par Edmond Renard, p. 224.</p>
+        <p>2. Terre d'Adonis, p. 109.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>RÉDACTION DE LA VIE DE JÉSUS 37</p>
+        <p>
+          <pb/>
+        </p>
+        <p>38 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>« Un homme incomparable, dit-il, si grand que, bien qu'ici tout doive être jugé au point de vue de la science positive, je ne voudrais pas contredire ceux qui, frappés du caractère exceptionnel de son oeuvre, l'appellent Dieu. » Une clameur de protestation accueillit cette phrascet le cours fut suspendu. ,</p>
+        <p>On eut peut-être tort de se montrer si sévère :</p>
+        <p>I. Barrés. Mes Cahiers, t. III, p. 16.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>RÉDACTION DE LA VIE DE JÉSUS 39</p>
+        <p>lac de Génésareth, et j'ai vu se dresser devant moi, avec une surprenante réalité, le Christ et ses contemporains. Pendant l'été dans le Liban, j'ai écrit ma Vie de Jésus. Mais cela a encore besoin d'être mûri K</p>
+        <p>Le fils Gaillardot (âgé de huit ans en 1861) se rappelait très bien Renan et Henriette, et précisait les détail.?</p>
+        <p>
+          <pb/>
+        </p>
+        <p>40 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>de leur séjour et de leur travail. Gaillardot le père donnait aussi son opinion et proposait ses remarques. Il empêcha même Renan d'être trop affirmatif dans son récit de la résurrection de Lazare. Renan écoutait les conseils, admettait les objections et fut toujours en excellents termes avec les jésuites installés dans le pays. Il allait chez eux voir jouer des pièces de théâtre.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>RÉDACTION DE LA VIE DE JÉSUS 41</p>
+        <p>de la Colline inspirée. Sa sensibilité romantique l'inclinait Vers la religion catholique. Il a parlé de Jésus, du christianisme et des Evangiles dans les termes d'un parfait croyant. Au fond, Barrés ne fut jamais ni catholique ni chrétien, et ses témoignages de sympathie dépassèrent rarement les hommages d'un déférent rationalisme.</p>
+        <p>I. Le Temps, 22 février 1923.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>III</p>
+        <p>LE MIRACLE DANS LA «VIE DE JÉSUS*</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>III</p>
+        <p>LE MIRACLE DANS LA VIE DE JÉSUS</p>
+        <p>Nous avons essayé de résumer brièvement l'histoire de la préparation et de la rédaction de la Vie de Jésus. Avant daller plus loin et d'aborder la publication du livre, il est bon de rappeler en quelques mots le grand principe sur lequel Renan a fondé sa méthode d'appréciation et sort jugement historique. Ce principe, on le sait, c'est la négation du miracle. Renan a largement développé, dans la préface de sa treizième édition,, sa théorie sur l'impossibilité d'admettre le miracle dans l'histoire.</p>
+        <p>Notre intention n'est ni d'approuver ni de réfuter Renan, mais d'expliquer comment, et par quelles raisons il entendait justifier sa critique négative.</p>
+        <p>Le miracle, selon lui, n'a jamais été et ne peut pas être un fait historique, parce qu'aucun miracle n'a jamais été constaté. Il n'y a dans l'Univers que des lois naturelles ; ces lois sont fixes ; elles peuvent varier,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>46 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>se transformer, se contredire en apparence, ce sont toujours des lois dont le fonctionnement se développe sans aucune intervention surnaturelle. On n'arrête pas le Soleil, une étoile ne se met pas en marche ; on ne ressuscite pas un mort. Bref, il n'y a et il ne saurait y avoir de miracles nulle part. '</p>
+        <p>A cette affirmation irréductible les orthodoxes répondent :</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LE MIRACLE DANS LA VIE DE JÉSUS 47</p>
+        <p>« Votre critique est fausse ; vous avez deux poids et deux mesures. Vous admettez le témoignage humain pour les faits ordinaires, vous le rejetez quand il s'agit de faits surnaturels. Le miracle existe ; il a toujours existé. La vraie critique doit l'admettre au même titre que n'importe quel autre fait, quand il est attesté par des témoins dignes de foi. Certains miracles ont eu des foules pour témoins et font réellement partie de l'histoire. Il s'agit de distinguer les vrais et les faux.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>48 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>preuves, parce que le fait en lui-même n'est pas croyable. »</p>
+        <p>1. Préface de la Vie de Jésus, 13e édition.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LE MIRACLE DANS LA VIE DE JÉSUS 49</p>
+        <p>I. M. Jean Pommier fait cependant observer que Renan n'a pas maintenu sa première version (Renan et Strasbourg, p. 89).</p>
+        <p>ALBALAT 4</p>
+        <p>
+          <pb/>
+        </p>
+        <p>50 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>J'ai appris, dit le P. Didon \ la mort de ce pauvre Pouchet par les journaux. Elle m'a attristé, comme toutes les morts où je ne vois pas luire un rayon d'éternité. Comment sont donc bâties ces natures d'athées ? De quelle pâte est leur âme ? Et quel est l'esprit mauvais qui les a ainsi mutilés, ces pauvres gens ?</p>
+        <p>Les incrédules éprouvent les mêmes sentiments de pitié pour les « pauvres gens » qui ont la faiblesse de croire aux miracles.</p>
+        <p>« Si Dieu a créé le monde, disent les rationalistes, nous constatons qu'il s'est retranché dans l'anonymat et le silence, et qu'il ne s'occupe plus de l'Humanité, Dieu ne serait donc qu'un monstre de cruauté, qui tire du néant des milliards de créatures pour les regarder agoniser et mourir, et qui permet le mal, les crimes, l'injustice, l'assassinat, les catastrophes, le cancer, la pesté, tous les fléaux... L'intention de ce Dieu terrible nous échappe donc d'une façon absolue, et nous</p>
+        <p>1. Corrcsp. avec Afme Commanville, t. II, p. 298.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LE MIRACLE DANS LA VIE DE JÉSUS 51</p>
+        <p>
+          <pb/>
+        </p>
+        <p>52 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>Une pareille tournure d'esprit déconcertait Jules Lemaitre.</p>
+        <p>Je crois, concluait-il, que le meilleur moyen de comprendre Renan, c'est de lire d'une âme confiante ce qu'il écrit, et de n'y point chercher plus de malice qu'il n'en a mis. Si M, Renan nous semble si compliqué, c'est que les éléments dont se compose son génie total étaient nombreux ; il les laisse transparaître dans ses oeuvres avec une parfaite sincérité 1.</p>
+        <p>1. Les Contemporains, IVe série, p. 258.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LE MIRACLE DANS LA VIE DE JÉSUS 53</p>
+        <p>l'hu1. Correspondance, II, p. 243.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>54 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>
+          <pb/>
+        </p>
+        <p>IV</p>
+        <p>LA PUBLICATION DE LA «VIE DE JÉSUS»</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>IV LA PUBLICATION DE LA VIE DE JÉSUS</p>
+        <p>Renan avait prévu le retentissement qu'allait avoir une oeuvre comme la Vie de Jésus, qui, en dehors de sa séduction littéraire, « reposait, dit Berthelot, sur l'appel aux instincts esthétiques et moraux les plus profonds de 1 'âme humaine. »</p>
+        <p>I. Correspondance, 1.1.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>58 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>Le cas de Renan était plus grave. Un écrivain a-t-il le droit de détruire une religion millénaire qui a fait ses preuves, pour la remplacer par l'incertitude, le doute et le néant ? Non, dit Brunetière, l'incrédulité n'a pas le droit de détruire l'ordre social en ruinant la religion établie.</p>
+        <p>Cette absence de scrupules ne s'explique chez Renan que par son état d'incrédulité complète, tran1.</p>
+        <p>tran1. de Goethe avec le chancelier Muller, p. 24,</p>
+        <p>2. L'abbé Cognât. Renan hier et aujourd'hui.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA PUBLICATION DE LA VIE DE JÉSUS 59</p>
+        <p>Renan était, d'ailleurs, persuadé (il l'a dit cent fois) que les sentiments de sympathie et de respect qui caractérisent sa Vie de Jésus atténueraient le scandale et feraient pardonner son audace :</p>
+        <p>I. Essais de morale et de critique, p. 11 et 1 i I.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>60 LA VIE DE ÉJSUS D'ERNEST RENAN</p>
+        <p>fût contenté de voir clans le Christ le grand Annonciateur de la morale humaine et de l'idéal divin.</p>
+        <p>Charles Romey cite ces lignes et ajoute :</p>
+        <p>Le livre de M. Renan marquera le point de départ d'une ère nouvelle pour le christianisme. Dans ce grand mouvement, que j'appelle sans hésitation religieux et chrétien et auquel il donne le branle, la foi historique au Christ se retrempe et se renouvelle, devient agissante et ne retient plus rien qui choque la raison la plus sévère et la plus exigeante \</p>
+        <p>Ces prédictions mystico-rationalistcs ne se sont pas réalisées. C'est même le contraire qui est arrivé. L'Eglise a arrêté le mouvement moderniste, issu des infiltrations jRenaniennes, et la victoire est définitivement lestée aux dogmes inflexibles du vieux catholicisme romain.</p>
+        <p>Au fond, Renan n'était pas fâché de scandaliser</p>
+        <p>I. Charles Romey. Hommes cl choses de divers temps, p. 338.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA PUBLICATION DE LA VIE DE JÉSUS 61</p>
+        <p>D'autres fois, cependant, Renan se montrait plus hésitant et parlait de scrupules qui se seraient « élevés en son âme », quand il a vu, dit-il, « le scandale que bien des personnes pleines de droiture ont souffert de mes libertés spéculatives » :</p>
+        <p>I. Essais de morale et de critique, p. VI et VII.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>62 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>La publication de la Vie de Jésus était attendue comme un événement sensationnel. La réputation de l'auteur, l'interdiction de son cours, son passé, son talent, tout surexcitait la curiosité publique. Renan lui-même s'inquiétait du bruit qu'allait faire cette oeuvre menaçante et mystérieuse.</p>
+        <p>Elle paraîtra je pense dans deux mois. Je n'ai pas besoin de vous dire dans quel sens elle est écrite. Les partisans des miracles ne seront pas satisfaits. Je ne sais trop ce qui adviendra 2.</p>
+        <p>La Vie de Jésus éclata comme un coup de tonnerre. Traduite immédiatement en dix langues, on en Vendit 60.000 exemplaires en cinq mois. Quatre ans après l'apparition on avait vendu treize éditions à</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA PUBLICATION DE LA VIE DE JÉSUS 63</p>
+        <p>10.000 exemplaires chacune. L'auteur touchait 20 pour cent sur le prix fort de 7 fr. 50 le volume *.</p>
+        <p>La Vie de Jésus s'enleva, comme on dit, sans lancement ni réclame. Renan ne sollicita aucun compterendu et ne fit aucune démarche. Il ne voulut même pas influencer le directeur des Débats, M. de Sacy, sur le choix de la personne qui devait faire l'article :</p>
+        <p>Je lui répondis que je lui livrais tout cela sans réserve ; que je ne voulais entrer pour rien dans le choix de la personne qui ferait l'article. Il prononça votre nom. J'eus alors mille raisons de dire que tout ce qu'il ferait serait bien fait 3.</p>
+        <p>Le livre, dit Mary Darmesteter, eut un succès immédiatement retentissant, absolu ; pour un livre sérieux, c'était le plus grand succès du siècle. Dès le mois de</p>
+        <p>1. Desportes et Bournand, Renan, sa vie et son oeuvre, p. 91.</p>
+        <p>2. Psichari. Ernest Renan, p. 78.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>64 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>Dans les salons, les cercles, les cafés on ne parlait que de la Vie de Jésus. Gens du monde, écrivains ou bohèmes, donnèrent leur opinion. On se disputait jusque dans les brasseries.</p>
+        <p>I. La Vie de Renan, p. 171.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA PUBLICATION DE LA VIE DE JÉSUS 65</p>
+        <p>L'auteur de Leîia, dit-il, admirait Renan avec une ferveur</p>
+        <p>1. Philibert Audebrand. Un café de journalistes sous Napoléon III, p. 10.</p>
+        <p>2. Sur un exemplaire de la Revue la Liberté de penser, que possède la Bibliothèque nationale, un lecteur indélicat a_ écrit : Renan, infâme gredin, traître, moine défroqué, sois maudit, (ils de Satan. (Pons. Ernest Renan, p. 62.)</p>
+        <p>3. Mgr Perraud. A propos de la mort de Renan, p. 24.</p>
+        <p>ALBALAT 5</p>
+        <p>
+          <pb/>
+        </p>
+        <p>66 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>I. Le Journal, 1896.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA PUBLICATION DE LA VIE DE JÉSUS 67</p>
+        <p>Eh bien ! que dit-on de M. Renan ? On m'apprit le lendemain que, par ordre de 1 evêque de Marseille, les cloches sonnaient le glas chaque vendredi, afin de rappeler aux fidèles l'attentat dont leur Dieu avait été l'objet. Quelle réclame pour le volume 1 !</p>
+        <p>Le livre, dit Maurice Goguel, provoqua en Europe une émotion plus profonde encore que celle de Strauss, et fit naître une nuée de réponses. Schweitzer dit plaisamment : Tout ce qui portait une soutane et était capable de tenir une plume partit en guerre contre Renan, les évêques en tête 2.</p>
+        <p>Si la Vie de Jésus déchaînait des torrents d'injures, elle inspirait aussi des articles élogitux auxquels Renan fut très sensible. Il eut des approbateurs qualifiés, comme Albert Réville, qui lui écrivait le 29 juin 1863:</p>
+        <p>1. Pons. Ernest Renan et les Origines du christianisme, p. 101.</p>
+        <p>2. La Vie de Jésus, p. 29.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>68 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>En essayant, dit-il, de composer un Jésus possible, organique et vivant, j'ai mille fois pensé qu'il faudrait pour une telle oeuvre l'art profond par lequel vous savez agencer vos créations idéales 2.</p>
+        <p>2. Correspondance, t. I, p. 230.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA PUBLICATION DE LA VIE DE JÉSUS 69</p>
+        <p>Sainte-Beuve avait d'abord annoncé la publication de la Vie de Jésus.</p>
+        <p>La librairie Michel Lévy, disait-il, met aujourd'hui en vente un livre qui était depuis longtemps annoncé et bien impatiemment attendu, la Vie de Jésus, par Ernest Renan. C'est un de ces ouvrages qui n'ont pas besoin de recommandation et qui font leur chemin tout seuls... Sceptiques, indifférents, hommes d'étude et d'examen, gens du monde, gens d'affaires, pour peu que vous ayez un coin sérieux de vacant et de libre en vous, je dirai avec confiance : lisez et relisez ces beaux chapitres et apprenez le respect, l'amour et l'intelligence de ces choses religieuses, auxquelles il n'est plus temps d'appliquer la raillerie et le sourire.</p>
+        <p>Deux mois après, le 7 septembre, Sainte-Beuve publiait son compte-rendu. Avec sa pénétration ordinaire il indiquait finement ce que Renan avait Voulu réaliser, son effort d'évocation et de vérité, la partie artiste et descriptive de l'oeuvre :</p>
+        <p>1. Lettre du 28 août 1863. Les DébaL.</p>
+        <p>2. Nouveaux lundis, t. VI.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>70 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>Sainte-Beuve louait Renan d'avoir admirablement rendu le charme des paysages évangéliques :</p>
+        <p>Et Sainte-Beuve ajoute :</p>
+        <p>Je vous remercie du fond de l'âme d'avoir insisté sur le caractère désintéressé du livre. C'est ce qu'on comprend</p>
+        <p>1. Nouveaux lundis, t. VI.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA PUBLICATION DE LA VIE DE JÉSUS 71</p>
+        <p>le moins ici. Les uns me traitant de démolisseur du catholicisme, qui cache son jeu ; les autres me prêtent un tas de vues politiques dont je suis fort innocent. Vous seul avez bien vu que j'ai uniquement voulu être historien, dans les conditions ordinaires que notre siècle a créées pour l'histoire 1.</p>
+        <p>Comme il fallait s'y attendre, les réfutations de la Vie de Jésus furent innombrables.</p>
+        <p>Le 21 septembre 1863, sous le titre de : Neuvième croisade », la Petite Revue ouvrait une rubrique où elle reproduisait les passages les plus saillants :</p>
+        <p>La rubrique contenait de curieux extraits qui donnent bien le ton de l'époque.</p>
+        <p>Il existe en France, nos très chers coopérateurs, une Revue qui, par son importance, semble occuper le premier rang de la presse périodique... Ce qui la distingue surtout, c'est l'absence radicale d'esprit chrétien, c'est le rationalisme obstiné dont elle se fait un système, sinon une gloire. Vous n'en verrez presque pas un numéro qui ne contienne un article plus ou moins erroné, plus ou moins agressif</p>
+        <p>1. Correspondance, t. II, p. 232.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>72 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>i</p>
+        <p>On peut encore mentionner les réponses du P. Passaglia, député au Parlement de Turin. Renan selon lui « défigurait l'histoire et n'avait pas traité sérieusement les matières sérieuses ». M. Colani protesta « au nom de la science et de la critique, et leveque d'Alger, devant tant de contradictions, ne désespérait pas de Voir un jour Renan se déjuger et se convertir.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA PUBLICATION DE LA VIE DE JÉSUS 73</p>
+        <p>L'abbé Laillault accusa Renan d'avoir des relations abominables avec le démon. Les vers et les chansons pullulèrent :</p>
+        <p>Renan, fils d'Arius et Voltaire manqué,</p>
+        <p>Séminariste ingrat, lévite défroqué,</p>
+        <p>Déserteur de l'Église et des sacrés portiques,</p>
+        <p>Professeur incompris des langues sémitiques,</p>
+        <p>Quand te lasseras-tu, superbe ï.ovateur,</p>
+        <p>Qui mourut les deux mains ouvertes cur le Monde ? 8</p>
+        <p>1. Revue Entyclopédique, 15 octobre 1892. Cité par Desportes et Bournand^</p>
+        <p>
+          <pb/>
+        </p>
+        <p>74 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>Renan protestait en affirmant la pureté de ses intentions. Non seulement il ne se repentait pas d'avoir publié sa Vie de Jésus grand format, qui pouvait passer pour une oeuvre savante ; mais il aggrava ses torts en donnant, trois ans après, une édition populaire de l'ouvrage. Nous savons par Mrae Renan que la rédaction de ce petit livre lui coûta plus d'une année de travail. Il le composa après les Apôtres et avant Saint+Paul et on en vendit plus d'un million d'exemplaires.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA PUBLICATION DE LA VIE DE JÉSUS 75</p>
+        <p>Moins, dit-il, les notes, l'introduction et quelques passages qui, pour être bien compris, demanderaient des études spéciales de critique. Je n'ai voulu laisser que ce qui a un sens de poésie ou d'édification. Certes je n'ai pas eu la folle pensée de contenter les orthodoxes. Je crois cependant qu'une grande partie de la conscience chrétienne accueillera ce Christ dégagé de tout caractère spécial de temps, de pays et de race \</p>
+        <p>Chaque fois que vous me dites que ce rêve vous a été au coeur, c'est pour moi une grande joie. J'ai voulu faire revivre en ces pages la religion de l'âme, telle que Jésus l'a révélée, la vraie religion qui dort au fond de nous et que le grand charmeur évangélique sait adorablement réveiller. Retrouver les accents de cette voix divine est la plus difficile des tâches 2.</p>
+        <p>Renan persista dans son opinion et ne Voulut jamais convenir qu'il avait fait une oeuvre anti-chrétienne. Ce rationalisme mystique représentait pour lui la vraie religion et les contenait toutes.</p>
+        <p>Il faut lui rendre justice : la clameur des protestations ne lui fit jamais perdre son sang-froid, et il ne fit rien pour exploiter le succès que lui valaient ces attaques :</p>
+        <p>Ce succès, dit-il, je n'y ai point aidé. Il eût été plus grand, si je l'avais voulu... Si j'avais voulu faire un crescendo</p>
+        <p>1. Correspondance, t. I, p 251.</p>
+        <p>2. Correspondance, 1.1, p. 234.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>76 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>d'anti-cléricalisme après la Vie de Jésus, qu'felle n'eût pas été ma popularité !... 1</p>
+        <p>Renan se fit, au contraire, au devoir de ne jamais rien répondre. Sainte-Beuve l'avait dit :</p>
+        <p>1. Souvenirs d'enfance et de jeunesse, p. 356.</p>
+        <p>2. Nouveaux lundis, t. VI.</p>
+        <p>3. Correspondance Renan-Berlhelot, p. 295.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA PUBLICATION DE LA VIE DE JÉSUS 77</p>
+        <p>Dans la préface de la treizième édition, qui parut en 1867, Renan crut cependant devoir expliquer les raisons de son silence :</p>
+        <p>I. Nouvelles études d'histoire religieuse.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>78 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>Jésus autrement qu'on ne doit ; mais il a bien parlé de Saint François. Saint François le sauvera ».</p>
+        <p>Il est certain, disait Renan, que j'aurais le droit de demander aux tribunaux ou au Conseil d'Etat si les lois sur la diffamation obligent les évêques. Mais alors il faudrait poursuivre le Figaro qui, lui, a inventé des anecdotes saugrenues, fausses depuis un bout jusqu'à l'autre, et Barbey d'Aurevilly, qui, m'a-t-on dit, a fait sur mon compte un inconcevable article d'injures. On a trouvé le moyen de faire partir la calomnie de si bas, que, pour la relever, je serais obligé de me salir... Quant au livre, il ne s'en porte que mieux, et je soupçonnerai presque mon éditeur de se mettre de la partie. Chaque édition de cinq mille s'écoule en huit ou dix jours, et une lettre de Lévy, que je reçois aussi, m'apprend qu'en ce dernier temps, la vente, loin de se ralentir, s'accélère. Je dis cela sans vanité, car cela ne prouve pas que le livre soit bon ou mauvais. Mais cela prouve que les moyens employés pour l'étouffer ne sont pas très efficaces 1.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA PUBLICATION DE LA VIE DE JÉSUS 79</p>
+        <p>articles réunis en volume, Patrice Larroque dénonça la figure idyllique et douceâtre de ce nouveau Jésus, charmant rabbi, beau jeune homme aimé des femmes :</p>
+        <p>Proudhon qui ne ménageait personne ne dissimula pas sa désapprobation :</p>
+        <p>Renan, dit-il, peut se vanter d'avoir calomnié Jésus, non seulement en le présentant de travers, en lui prêtant des idées et des paroles qui ne lui appartiennent pas, mais en risquant sous son nom des maximes dignes des poursuites de la justice. Et la raison de cette singulière portraiture</p>
+        <p>
+          <pb/>
+        </p>
+        <p>80 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>Ainsi la philosophie de M. Renan est restée ici au dessous de la fable. La mythologie chrétienne a pu d'un simple mortel faire un Dieu ; M. Renan n'a pas su dans ce Dieu, trouver de quoi faire un homme, digne au moins d'une correction afflictive, sinon infamante \</p>
+        <p>I. Proudhon. Jésus, p. 174.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA PUBLICATION DE LA VIE DE JÉSUS 81</p>
+        <p>syria1. est mort le 3 octobre 1892.</p>
+        <p>2. L'abbé Renard. Renan, p. 84 ; Lettres intimes, p. 278 et Nouvelles lettres intimes, p. 2.</p>
+        <p>ALBALAT 6</p>
+        <p>
+          <pb/>
+        </p>
+        <p>82 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>1. Barrés. Mes Cahiers, I, p. 74.</p>
+        <p>2. Débats, 18 octobre 1892.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA PUBLICATION DE LA VIE DE JÉSUS 83</p>
+        <p>et de l'obscurité des sujets qu'il traitait ; qu'il s'y trouve des contradictions, — plus apparentes que réelles et qui se résolvent avec un peu de réflexion, — j'en conviens ; enfin qu'il ait mis dans ses récits beaucoup d'imagination, je le reconnais, et j'en suis ravi. Car cela veut dire qu'il a fait, dans d'autres conditions et avec des dons différents, ce qu'a fait Jules Michelet. Il peut y avoir d'utiles érudits, il n'y a pas de grand historien sans imagination. Et la vie que l'historien communique au passé, quand elle ne contredit ni les inscriptions ni les textes, est peut-être, d'ailleurs, un aussi bon témoignage de vérité que les textes et les inscriptions mêmes.</p>
+        <p>I. Tronchon. Ernest Renan et l'Etranger, p. 87. M. Tronchon renvoie lui-même au témoignage de Darmesteter et de Réville.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>84 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>M. Paul Bourget a récemment résumé, en quelques lignes magistrales et définitives, la valeur et l'autorité de Renan :</p>
+        <p>I. Quelques témoignages, p. 128.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LA PUBLICATION DE LA VIE DE JÉSUS 85</p>
+        <p>homme du monde ; ce sera un des hommes supérieurs de ce siècle. Je serais fâché de Voir un homme comme toi en guerre avec un homme comme lui 1.</p>
+        <p>2. Taine. Correspondance, t. II, p. 157.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>V</p>
+        <p>L'ORIGINALITÉ DE LA « VIE DE JÉSUS »</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>V L'ORIGINALITÉ DE LA VIE DE JÉSUS</p>
+        <p>
+          <pb/>
+        </p>
+        <p>90 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>Schweitzer a dénoncé le genre de séduction qui, selon lui, remplaçait chez Renan la vraie méthode scientifique î</p>
+        <p>Renan, ne s'inclina pas devant ces reproches. Il se contenta d'exposer ses idées dans son grand examen</p>
+        <p>1. La Vie de Je'sus de Renan, par Je P, Lagrange, p, 35,</p>
+        <p>3. Cité par Fillion. Les Etapes du rationalisme, p. 118.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>L'ORIGINALITÉ DE LA VIE DE JÉSUS 91</p>
+        <p>du texte de Saint Jean (13° édition). L'introduction et l'appendice de ce volume peuvent être comptés parmi les pages de style les plus parfaites que nous ayons dans notre langue. Renan avait raison de dire s</p>
+        <p>Loin d être accusé de scepticisme je dois être range parmi les critiques modérés, puisqu'au lieu de rejeter en bloc des documents affaiblis par tant d'alliage, j'essaye d'en tirer quelque chose d'historique par de délicates approxima» tions \</p>
+        <p>Renan est en France le premier écrivain sérieux qui ait publié une vie rationaliste du Christ. Celle de Peyrat ne parut qu'en mars 1864. Il existait, au contraire, et depuis longtemps, en Allemagne, bien des ouvrages de .ce genre. Reimarius expliquait les miracles</p>
+        <p>1. Vie de Jésus. Préface.</p>
+        <p>2. Cf. Pommier. Renan et Strasbourg, p. 56.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>92 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>!. Cf. les Étapes du Rationalisme, par Fillion.</p>
+        <p>2. Cf. Strauss, sa vie el son oeucre, par Albert Lévy.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>L'ORIGINALITÉ DE LA VIE DE JÉSUS 93</p>
+        <p>Que sa tentative ait échoué ou non, on ne peut que l'approuver de n'avoir pas suivi les hardiesses de</p>
+        <p>1. Cf. Albert Lévy. Frédéric Strauss, p. 220.</p>
+        <p>2. Maurice Goguel. La Vie Je Jésus, p. 28.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>94 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>1. Cf. Proudhon. Les derniers chapitres de Jésus.</p>
+        <p>2. Correspondance, t. I, p. 244.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>L'ORIGINALITÉ DE LA VIE DE JÉSUS 95</p>
+        <p>Queïjfjue soit, dit Brunetière, l'esprit qui anime son Saint Paul, les Apôtres, son Antc-Christ, son Église chré* tienne, son Marc-Aurèle, ces livres sont vivants, et vivants d'une vie qui n'est pas celle de l'auteur, mais la leur. C'est un rare mérite et c'est un mérite éminent 1.</p>
+        <p>En somme, Renan a eu grandement raison de résister aux suggestions d'Outre-Rhin. Ses conclusions exégétiques sont aujourd'hui admises même par l'école libérale allemande.</p>
+        <p>1. Brunetière. Cinq lettres sur Renan, p. 230. Taine trouvait le volume des Apôtres historiquement très remarquable.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>96 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>I. Le P. Gratry. Les Sophistes et la critique, chap. I, 2e livre</p>
+        <p>
+          <pb/>
+        </p>
+        <p>L'ORIGINALITÉ DE LA VIE DE JÉSUS 97</p>
+        <p>1. Cf. Mgr Perraud. A propos de la mort de Renan, p. \|0. '</p>
+        <p>ALBALAT 7 **"-•-'"</p>
+        <p>
+          <pb/>
+        </p>
+        <p>98 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>
+          <pb/>
+        </p>
+        <p>L'ORIGINALITÉ DE LA VIE DE JÉSUS 99</p>
+        <p>Voici un dernier exemple de ce genre de malentendus :</p>
+        <p>On voit combien est délicate cette question de citations, et les équivoques qu'elle peut engendrer.</p>
+        <p>Renan ne. faisait, d'ailleurs, aucune difficulté pour reconnaître ses erreurs. Il avait écrit inexactement : « Les disciples de Jésus, par moments, le crurent fou ». Sur une remarque d'Albert Réville, il se corrigea et</p>
+        <p>
+          <pb/>
+        </p>
+        <p>100 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>suivit le texte de Saint Marc : « Ses proches, par moments, le crurent fou 1 ».</p>
+        <p>
+          <pb/>
+        </p>
+        <p>L'ORIGINALITÉ DE LA VIE DE JÉSUS 101</p>
+        <p>
+          <pb/>
+        </p>
+        <p>102 LA VIE DE JËSVS D'ERNEST RENAN</p>
+        <p>M. Alfred Loisy reconnaît plus nettement encore la valeur de la Vie de Jésus :</p>
+        <p>La synthèse historique de Renan, dit-il, n'a pas été recommencée depuis en français et, comme historien des origines chrétiennes, comme historien d'Israël, Renan a la plus grande importance... J'ai tiré le plus grand profit de son cours d'hébreu... Tout ne me plaît pas également dans la production littéraire de Renan ; mais ses oeuvres historiques sont plus 6olides que beaucoup de ceux qui font profession d'être ses admirateurs ne veulent bien le dire. Ne le blâmons pas trop d'avoir été un merveilleux écrivain en même temps que savant. Il y aura toujours assez d'érudits qui écriront</p>
+        <p>I. Le P. Lagrange. La Vie de Jésus de Renan, p. 141.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>L'ORIGINALITÉ DE LA VIE DE JÉSUS 103</p>
+        <p>Interrogé par le chapitre de Saint-Brieuc sur le meilleur livre à consulter pour les origines du christianisme, Mgr Duchesne, historien libéral, mais fidèle orthodoxe, répondait avec son malicieux sourire : — Eh bien, voyezvous, ce qu'il y a de mieux, c'est encore les ouvrages de Renan 2.</p>
+        <p>et Psichari ajoute : Il me confirma lui-même cette réponse.</p>
+        <p>Auteur d'une Vie de Jésus uniquement éloquente et descriptive, le P. Didon est un des rares écrivains libéraux qui gardèrent contre Renan des sentiments d'animosité irréductible :</p>
+        <p>Cette sage restriction laisse au moins toute liberté d esprit pour juger la sincérité de Renan.</p>
+        <p>1. Interwiew de Lefèvre. Nouvelles littéraires, 24 février 1923.</p>
+        <p>2. Psichari. Ernest Renan, p. 33.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>VI</p>
+        <p>L'IDYLLE ET LE ROMAN</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>VI L'IDYLLE ET LE ROMAN</p>
+        <p>
+          <pb/>
+        </p>
+        <p>108 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>ne voit que son idée, dit que nous ne sommes pas artistes ; qu'un traité simplement positif et dogmatique ne rendrait pas la vie ; que Jésus a vécu et qu'il faut le faire revivre ; que tant pis si l'on criaille, etc.. Manque de prudence et de politique \</p>
+        <p>1. Taine. Correspondance, t. II, p. 244.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>L'IDYLLE ET LE ROMAN 109</p>
+        <p>Vouloir découvrir comment les choses ont pu se passer est, en touè cas, une préoccupation de véritable historien et qui explique les appréciations hasardées, les concessions équivoques, les formules dubitatives dont fourmille cette Vie de Jésus, scandale des 1 croyants et des incrédules. « A force de donner des explications, dit Gabriel Séailles, il n'en donne aucune ». Il n'en reste pas moins qu'en écrivant ce prétendu roman, Renan a réellement fait tout ce qu'il a pu pour atteindre le résultat qu'on lui a contesté.</p>
+        <p>Renan, en effet, n'a reculé devant rien pour saisir toute la réalité que pouvait contenir le plus merveilleux des récits. Prenant partout ses éléments d'information, ses comparaisons et ses hypothèses, jusqu'à risquer les rapprochements les plus modernes, il « descend au besoin, dit Gaston Boissier, jusqu'aux temps et aux faits les plus voisins de nous. Les Mormons, le Bâbisme lui font comprendre certaines</p>
+        <p>I. Feuilles détachées. Portraits de saint Paul.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>110 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>abberrations du sens religieux ; les horreurs de la Commune lui expliquent le siège de Jérusalem... Cette méthode a ses inconvénients et M. Renan ne les a pas toujours évités ; mais c'est la seule qui puisse rendre le passé vivant ».</p>
+        <p>
+          <pb/>
+        </p>
+        <p>L'IDYLLE ET LE ROMAN 111</p>
+        <p>Les détails de cette idylle, les agapes, les lys, la foule, les oiseaux, les noces de Cana, les promenades au grand air, tout cela se trouve bien, en effet, dans l'Evangile, mais estompé et adouci par le recul de l'idéalisation religieuse. Renan a peut-être un peu trop égayé le tableaud nous fait un peu trop oublier le côté sombre des Evangiles, Jésus prêchant la pénitence, ses malédictions contre les docteurs et les riches, ses menaces du feu éternel, ses colères contre les marchands et les hypocrites.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>112 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>Le Jésus de Renan choquait non seulement les gens sérieux comme Edmond Scherer, mais les gens du monde et les simples journalistes comme Jouvin, qui disait dans le Figaro :</p>
+        <p>Strauss, dit-il, a moins d'esprit que Renan et saisit moins bien certaines nuances... Renan nous a donné du Galiléen une image plus vivante que le portrait moral tracé par Strauss 2.</p>
+        <p>1. Mémoires d'un journaliste, par H. de Villemessant, 3° série, p. 324.</p>
+        <p>2. Albert Lévy. David Frédéric Strauss. La vie et l'oeuvre, p. 221.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>L'IDYLLE ET LE ROMAN 113</p>
+        <p>/Ce genre de séduction n'a rien d'irrespectueux ni d'invraisemblable. La foi chrétienne tient Jésus pour un Dieu, mais aussi pour un homme ; et oh ne voit pas pourquoi 1 homme n'aurait pas été aimable et charmant.</p>
+        <p>ALBALAT 8</p>
+        <p>
+          <pb/>
+        </p>
+        <p>114 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>Comme homme et comme artiste, Jésus, dit M. Cuneo, subit le charme de l'Orient et fut lui aussi un oriental. Il séduisit comme savent séduire les orientaux... Il fut le premier qui se servit du charme, art nécessaire pour celui qui veut obtenir le triomphe. Sans le charme, Jésus eût obtenu seulement le succès. S'il eût aspiré au succès sans le charme, il eût obtenu un simple applaudissement h</p>
+        <p>I. « Coquetterie délia Chiesa, » par Nicolo Cuneo, p. 80, 92* Ancona. La Luccrna.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>L'IDYLLE ET LE ROMAN 115</p>
+        <p>I. Correspondance Berlhelol-Renan, p. 284, 305.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>VII</p>
+        <p>INFLUENCE RELIGIEUSE DE LA « VIE DE JÉSUS »</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>VII</p>
+        <p>INFLUENCE RELIGIEUSE DE LA VIE DE JÉSUS</p>
+        <p>
+          <pb/>
+        </p>
+        <p>120 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>
+          <pb/>
+        </p>
+        <p>INFLUENCE DE LA VIE DE JÉSUS 121</p>
+        <p>L'auteur de la Vie de Jésus avait fini par aimer la religion en quelque sorte en dehors même de la religion. Il ne pouvait se défendre d'éprouver de l'antipathie pour les gens bornés qui se disent incrédules.</p>
+        <p>1. Revue des Deux-Mondes, 1er sept. 1926 (cité par Goguel. Vie de Jésus).</p>
+        <p>
+          <pb/>
+        </p>
+        <p>122 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>En dehors, dit-il, d'un petit nombre d'hommes capables de rendre compte scientifiquement de leur refus critique d'adhérer au christianisme, j'estime peu les incrédules. Les incrédules ont raison, mais non pas pour les raisons qu'ils pensent, car leurs raisons sont parfois encore plus mauvaises que celles de ceux qui croientl.</p>
+        <p>1. Cité par Pierre Lasserre.</p>
+        <p>2. Cité par Mgr D'Hulst. Mélanges philosophiques, p. 512, Cf. aussi VExamen de conscience.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>INFLUENCE DE LA VIE DE JÉSUS 123</p>
+        <p>L'homme est le plus dans le vrai quand il est le plus religieux et le plus assuré d'une destinée infinie.</p>
+        <p>Pour moi, quand on a nié les dogmes fondamentaux, j'ai envie d'y croire ; quand on les affirme autrement qu'en beaux vers, je suis pris d'un doute invincible.</p>
+        <p>Les Fragments philosophiques, les Etudes d'histoire religieuse et Ma Soeur Henriette contiennent de beaux passages sur l'immortalité de l'âme et l'existence de Dieu 1.</p>
+        <p>]. Ma soeur Henriette, p. 61 (édit. Nelson) ; presque un cri de foi, p. 63 ; et dans l'Abbesse de Jouarre, p. 49 : « La survivance de la personnalité a contre elle toutes les apparences ; il n'est pas impossible cependant que dans l'infini du temps elle se retrouve ».</p>
+        <p>
+          <pb/>
+        </p>
+        <p>124 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>Tout dans sa vie prouve, au contraire, qu'il n'a jamais haï ni la religion ni les prêtres. Benedite raconte avec quelle amabilité Renan reçut la visite de deux jeunes abbés qui suivaient son cours d'hébreu 1. Il souhaitait revoir ses anciens condisciples et ses anciens maîtres» 11 achetait des livres de piété pour sa mère. Il la pVévint de sa fin prochaine et il alla même chercher le prêtre pour qu elle reçut les sacrements...</p>
+        <p>C'est dans ce sens, dit Psichari, qu'il me parlait, dans la petite chambre du Collège de France, quelques jours avant d'y expirer, comme je l'ai précisé dans le récit de sa mort. Son scepticisme se retournait contre lui-même 2.</p>
+        <p>Renan s'est bien défini quand il a dit :</p>
+        <p>inutile\. 26 Juillet 1925.</p>
+        <p>2. Psichari. Ernest Renan, p. 77.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>INFLUENCE DE LA VIE DE JÉSUS 125</p>
+        <p>ment beaucoup de mal pour paraître bourgeois, un tissu de contradictions rappelant l'hircocerf de la scolastique, qui avait deux natures.</p>
+        <p>La nouveauté de ce genre d'incrédulité contradictoire peut, pour une large part, expliquer le succès de la Vie de Jésus ; mais, au fond même, la doctrine de l'ouvrage devaient avoir une sérieuse et profonde</p>
+        <p>1. Cité par Brunet. Évocations littéraires, p. 284.</p>
+        <p>2. Mgr D'Hulst. Mélanges philosophiques, p. 514.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>126 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>Sans cette éducation religieuse et cet amour de la religion, Renan, dit Jules Lemaître, n'aurait pas eu ce charme magique ; il ne serait pas le berceur et l'enchanteur de nos âmes et je ne serais pas ému jusqu'au fond du coeur en parlant si mal de lui, encore que j'en parle de mon mieux. C'est le bienfaiteur de nos esprits. Il en est beaucoup parmi nous qu'il a sauvés de l'impiété. Il nous a enseigné qu'on</p>
+        <p>
+          <pb/>
+        </p>
+        <p>INFLUENCE DE LA VIE DE JÉSUS 127</p>
+        <p>Quoique sévère pour l'auteur de la Vie de Jésus, l'abbé Renard n'est pas loin de partager l'opinion de Jules Lemaître :</p>
+        <p>I. Journal des Débats, 10 Oct. 1892. Mort de Renan.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>128 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>d'exégèse, L'esprit renanien, tout déplorable qu'il fût encore, vaut mieux que l'esprit voltairien.x</p>
+        <p>La Vie de Jésus renferme sur la religion, en général, et très particulièrement sur Jésus-Christ, son inimitable grandeur et les conséquences indestructibles de son passage parmi les hommes, des paroles d'un souffle puissant et ému, auxquelles les apologistes futurs feront souvent des emprunts 2.</p>
+        <p>Le P. Gratry a même signalé un cas curieux de bonne influence exercée sur certains esprits par la lecture de la Vie de Jésus :</p>
+        <p>chris1. Renan. Les Etapes de sa pensée, par l'abbé Renard, p. 206.</p>
+        <p>2. Mgr Perraud. A propos de la mort de Renan. Brochure.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>INFLUENCE DE LA VIE DE JÉSUS 129</p>
+        <p>ÀLBALAT 9</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>VIII</p>
+        <p>L'ART ET LE STYLE DANS LA « VIE DE JÉSUS »</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>VIII L'ART ET LE STYLE DANS LA VIE DE JÉSUS</p>
+        <p>Il est douteux qu'on arrive jamais, sur ce sol profondément dévasté, à fixer les places où l'humanité voudrait</p>
+        <p>
+          <pb/>
+        </p>
+        <p>134 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ART ET STYLE DANS LA VIE DE JÉSUS 135</p>
+        <p>montagne compacte ou, pour mieux dire, une longue terrasse très élevée, qui, depuis Césarée de Philippe, court indéfiniment vers le Sud 1.</p>
+        <p>Tout le monde est d'accord aujourd'hui sur la valeur littéraire de la Vie de Jésus.</p>
+        <p>On a voulu voir dans le style de Renan l'influence de Michelet. Sans doute l'insinuation onduleuse, la sensibilité visionnaire, les molles nuances caractérisent la manière des deux écrivains ; mais le trépidant Michelet procède par petites touches, tandis que Renan a l'ampleur et le déroulement d'une vague de fond. Il nous a livré le secret de sa formation et de ses goûts,</p>
+        <p>1. Vie de Jésus, p. \49.</p>
+        <p>2. Le P. Lagrange. La Vie de Jésus, p. 138.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>136 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>en nous indiquant quel était son idéal de style. Fénelon fut son maître et Télémaque son modèle.</p>
+        <p>Ces lignes expliquent les qualités et les défauts de Renan. Il ambitionnait d'écrire comme Fénelon. Les Lettres spirituelles de 1 evêque de Cambrai, chefd'oeuvre de diction classique, peuvent passer pour du pur Renan. L'auteur des Origines du Christianisme définit bien Télémaque, quand il dit eroir appris dans ce livre « l'art de peindre la nature par des traits moraux ». Le trait moral remplaçant l'image et la sensation, c'est en effet le grand défaut de Télémaque. On croit lire du Fénelon quand on lit du Renan :</p>
+        <p>Sa prédication était suave et douce, toute pleine de la nature et du parfum des champs. Il aimait les fleurs et en prenait nés leçons les plus charmantes. Les oiseaux du ciel,</p>
+        <p>I. Souvenirs d'enfance, p. 254.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ART ET STYLE DANS LA VIE DE JÉSUS 137</p>
+        <p>Dans notre volume, le Travail du Style enseigné par les corredionsi manuscrites des grands écrivains, nous avons montré comment Fénelon corrigeait sa prose, en s efforçant d'adoucir les expressions qu'il jugeait trop fortes. Renan avait le même scrupule et s'interdisait, en écrivant, toute trace d'expression violente.</p>
+        <p>Malgré SQn admiration, Flaubert faisait des réserves sur la prose de Renan. « Il n'a pas d'arêtes, disait-il. Il manque de saillie. Quel dommage qu'il ait trop lu Fénelon I »</p>
+        <p>1. Vie de Jésus, p. 174.</p>
+        <p>2. Souvenirs d'enfance et de jeunesse, p. 355.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>138 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>1. Feuilles détachées, p. 350.</p>
+        <p>2. Ma soeur Henriette, p. 31.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ART ET STYLE DANS LA VIE DE JÉSUS 139</p>
+        <p>réunion avec elle date un changement profond dans ma manière décrire * ».</p>
+        <p>Si Henriette avait pu lire le texte définitif de la Vie de Jésus, peut-être y eût-elle encore trouvé des traces du dilettantisme qui lui déplaisait.</p>
+        <p>Ce que Renan appréciait avant tout, c'était la rectitude et la clarté. La moindre équivoque, la plus légère amphibologie lui étaient insupportables. Il n'aimait pas le néologisme, il détestait la pédanterie et fuyait les répétitions d'idées, bien plus que les répétitions de mots, pensant avec raison que remplacer paresse par indolence, ce n'était pas changer l'idée.</p>
+        <p>« Jamais personne, dit Psichari, n'a corrigé ses épreuves avec plus de minutie ; il faisait attention à</p>
+        <p>1. Ml</p>
+        <p>2. Exekîor, 14 février 1923.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>140 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>la moindre virgule. Il se montrait là, comme en toute chose, d'une conscience méticuleuse avec les apparences du plus parfait abandon, car il travaillait de façon ininterrompue. Il ne se hâtait jamais ; il ne lâchait sa page que quand il lavait nettoyée de ce qu'il appelait des scories, mot qu'il affectionnait 1 »</p>
+        <p>Renan garda pendant dix ans dans ses papiers cette fameuse Prière sur l'Acropole. Il ne la publia qu'en 1876, dans la Revue des deux Mondes et dans ses Souvenirs d'enfance et de jeunesse. Ce morceau de prose fénélonienne paraît aujourd'hui un peu suranné et donne plutôt l'impression d'une page de rhétorique</p>
+        <p>1. Ernest Renan, p. 116.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ART ET STYLÉ DANS LA VIE DE JÉSUS 141</p>
+        <p>[Bossuet disait que Calvin avait le style triste. Brunetière trouvait que Renan avait le style égoïste : « Il a un style aristocratique, égoïste, si l'on peut dire, dont les plus grands effets se terminent à faire admirer (sic) l'érudition, la science et la virtuosité de l'écrivain 1 ».</p>
+        <p>Renan n'aimait pas la rhétorique ; il l'appelait :</p>
+        <p>I. Pages sur Renan, p. 145.</p>
+        <p>2.1bid.,p.\2.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>142 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>la littérature écolière. Son condisciple, l'abbé Cognât, en fait la remarque :</p>
+        <p>S'il aimait la finesse et les nuances, Renan a, du moins, toujours gardé le culte du goût et de la raison. L'ostentation romantique lui déplaisait et il n'admit jamais le dilettantisme verbal des Concourt, qui manquaient selon lui d'idées générales.</p>
+        <p>Il acceptait volontiers les conseils, non seulement de sa soeur, sa collaboratrice effective, mais ceux de ses amis, comme Silvestre de Sacy et Buloz, changeant les expressions qu'ils blâmaient, modifiant sa pensée selon leurs idées, h*Avenir de la Science, un gros livre de 500 pages, a été écrit trois fois, et Renan se reprochait de trop négliger ses premières rédactions.</p>
+        <p>Un de ses collaborateurs au Corpus imcriplionum Semiticarum nous donne quelques détails sur sa façon de travailler :</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ART ET STYLE DANS LA VIE DE JÉSUS 143</p>
+        <p>C'est ainsi que fut d'abord écrite la Vie de Jésus, par effervescence, par visions brusques.</p>
+        <p>Edmond Biré soutenait que le style de Renan ne pouvait pas être bon, par cette raison qu'on ne peut pas bien écrire, si 1 on est sceptique. Renan n'était pour lui qu'un dilettante, un menteur, un cuistre, un pédant qui se moque des autres et de lui-même. Un sceptique ne peut pas être un bon écrivain, témoin Montaigne. La thèse est originale ; mais Biré a tort, bien qu'il ait raison de blâmer les épithètes banales, les ^délicieux, les exquis, les ravissants, qui émaillent la prose Renanienne.</p>
+        <p>Trois ans après la publication de la Vie de Jésus, signalant ironiquement dans ses Odeurs de Paris (p. 374) la gloire retentissante de Renan, Louis Veuillot, citait l'article d'un confrère, où nous lisons, sur les procédés de travail de Renan, des indications qui confirment ce que nous disions :</p>
+        <p>Renan efface, revient, retranche, remplace des mots, retouche des phrases, les arrondit, recommence des pages</p>
+        <p>1. Desportes et Bournand. Renan, sa vie et son oeuvre, p. 111</p>
+        <p>
+          <pb/>
+        </p>
+        <p>144 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>
+          <pb/>
+        </p>
+        <p>IX</p>
+        <p>CONCLUSION SUR RENAN</p>
+        <p>ALBALAT 10</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>IX CONCLUSION SUR RENAN</p>
+        <p>
+          <pb/>
+        </p>
+        <p>148 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>Renan a toujours employé ce mot dans son acception la plus haute. Parlant dans ses lettres des satisfactions que lui donne la rédaction de son oeuvre, il est loin d'y voir un amusement. Au contraire, il met en garde son ami Max Muller contre le mot amusant et les nuances qu'il comporte : « Le mot amusant, dit-il, est la chose la plus décevante qu'il y ait. Les trois quarts des volumes que les gens du monde appellent amusants me semblent vingt fois plus ennuyeux que la plupart des volumes de votre collection. Tout est relatif 2.</p>
+        <p>1. Correspondance, t. II, p. 41.</p>
+        <p>2. Correspondance, t. II, p. 247.</p>
+        <p>3. Cité par le baron Deschamps. Le génie des religions, p. 97 et 105.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>CONCLUSION SUR RENAN 149</p>
+        <p>Ces déclarations indignèrent les gens Vertueux. On ne peut pourtant pas accuser Renan d'immoralité, quand il fait une simple constatation. On lui reproche d'avoir trop parlé dans les banquets. Ses toasts étaient</p>
+        <p>I. Correspondance, t. H, p. 96.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>150 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>Renan, vieillissant, dit Berthelot, glissait de plus en plus sur la pente d'un scepticisme apparent, sympathique pour tout sentiment naturel, pour toute pensée de bonne foi. La sévérité de sa vie privée lui donnait le droit d'être indulgent pour autrui, pourvu qu'il y retrouvât le souci de l'art</p>
+        <p>1. Paul Bourget. Quelques témoignages, p. 125.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>CONCLUSION SUR RENAN 151</p>
+        <p>!. Ernest Renan, par Desportes et Bournand, p. 181.</p>
+        <p>2. Ibid.</p>
+        <p>3. « Lemaitre, dit Anatole France, se moquait de Renan et l'aimait beaucoup ». {Souvenirs et récits, Nicolas Ségur, p. 125).</p>
+        <p>
+          <pb/>
+        </p>
+        <p>152 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>Barres pensait que ce genre de libertinage était tout simplement « celui du Télémaque ». Renan, dit-il, « c'est Fénelon. C'est aussi un homme qui, devenu vieux, moins travailleur, laissait couler le grand flot de poésie qu'il avait. Les savants ont en matière amoureuse une naïveté toute spéciale. Renan aurait mis en récits romanesques et sans y voir malice, les histoires les plus scabreuses 2. »</p>
+        <p>Renan se plaignait avec raison qu'on dénaturait ses écrits et qu'on lui supposait plus de malice qu'il n'en avait. Il s'exposait évidemment à entretenir ces malentendus en publiant des livres comme VAbbesse de Jouarre, où il voulait peindre l'amour aux prises avec l'échafaud.</p>
+        <p>1. Maurice Barres. Mes Cahiers, I, p. 227.</p>
+        <p>2. Ibid., p. 227-228.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>CONCLUSION SUR RENAN 153</p>
+        <p>dilet1. Marx. Silhouettes de mon temps, p. 93.</p>
+        <p>2. Ernest Renan, par Mary Darmesteter, p. 280.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>154 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>tanti. Il s'est moqué du monde, il a dissimulé pendant des années et, à la fin, il s'est cyniquement dévoilé en écrivant des dialogues pornographiques ! ! Pour quelques personnes attardées, c'est encore cela, le vrai Renan.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>CONCLUSION SUR RENAN 155</p>
+        <p>lues calomnies dont on a abreuvé l'auteur de la Vie</p>
+        <p>
+          <pb/>
+        </p>
+        <p>156 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>de Jésus tombent d'elles-mêmes quand on les examine de près. Que ne lui a-t-on pas reproché ? On lui a même fait un crime de son ambition et on la accusé d'orgueil, lui si simple, si peu pédant et qui faisait son cours au Collège de France, sur un ton de familiarité si paternelle l</p>
+        <p>On a prétendu qu'il était sans générosité et sans bonté. Rien n'est plus faux. Mme Andrée Viollis a interrogé les gens de Rosparamon, le pays breton où Renan allait chaque année en villégiature. Tous lui ont dit qu'il était la charité même ; qu'il se montrait très sensible aux afflictions d'autrui et qu'il accueillait chez lui tous les malheureux.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>CONCLUSION SUR RENAN 157</p>
+        <p>Comme Victor Hugo, Lamartine et Chateaubriand» Renan trouvait naturel que tout le monde se dévouât pour lui. Il avoue ses torts dans la brochure sur sa soeur. Il a des remords, il se demande s'il a bien fait pour elle « tout ce qui dépendait de lui ».</p>
+        <p>L'auteur de la Vie de Jésus fut égoïste sans doute, mais comme tous les hommes et pas plus que les autres hommes. Sa profonde affection pour sa mère, sa ferveur quand il parle d'elle sont une chose admirable. Il a adoré sa femme et ses enfants ; quant à</p>
+        <p>1. Correspondance Renan et Bertheloi. p. 205. Ca!mann-Lévy.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>158 LA VIE DE JÉSUS D'ERNEST RENAN</p>
+        <p>sa soeur, qui fut la créatrice de son avenir et qui l'entoura d'une tendresse sublime, il l'a aussi sincèrement aimée. Ses pires adversaires ont signalé dans sa brochure des pages qui « font pleurer ». Seulement, chez Renan, l'expression des sentiments les plus vifs garde toujours quelque chose de réservé et de discret.</p>
+        <p>Sa vie, quand on la connaît bien, nous offre des traits d'égoïsme et des traits de générosité.</p>
+        <p>On a loué l'homme, dit Brunetière et non sans raison, selon moi ; il a été l'un des plut affables et des plus bienveillants que j'aie jamais connus ; j'ajoute aussi l'un des plus serviables. Les complaisances de sa vieillesse pour la popularité ne sauraient faire oublier la dignité de son âge mûr et la sincérité, la gravité de sa jeunesse 1.</p>
+        <p>disaitI. Cinq leltrei sur Renaît, p. 247 et 257.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>CONCLUSION SUR RENAN 159</p>
+        <p>il. Ne perdez pas votre temps. Et il parlait d'autre chose. On avait dérangé le médecin pour rien ».</p>
+        <p>[Renan a vécu dans la sérénité d'une philosophie tranquille, détaché de toute illusion et de toute croyance, absorbé dans un idéal qu'il a défini d'un mot : « Je voudrais toujours vivre pour pouvoir toujours travailler. »</p>
+        <p>Je crois qu'il était utile de terminer ce petit livre en évoquant en quelques pages 1 homme privé avec ses qualités et ses défauts. On retrouve dans le style de la Vie de Jésus le caractère même de Renan, sa nature impressionnable, ses hésitations, ses incertitudes d'appréciations et de pensée. La vie intime d'un grand écrivain peut ainsi nous fournir des indications précieuses pour la connaissance de son oeuvre et de son talent.</p>
+        <p>Paris, novembre 1933.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>TABLE DES MATIÈRES</p>
+        <p>I. — Préparation a la Vie de Jésus* 7</p>
+        <p>II. — Rédaction de la Vie Je Jésus . 27</p>
+        <p>III. — Le miracle dans la Vie de Jésus 43</p>
+        <p>IV. — Publication de la Vie de Jésus 55</p>
+        <p>V. — L'originalité de la Vie de Jésus. 87</p>
+        <p>VI. — L'idylle et le roman 105</p>
+        <p>VII. — Influence religieuse de la Vie de Jésus.... 117</p>
+        <p>VIII. — L'art et le style dans laJ^feljésïts 131</p>
+        <p>IX. — Conclusion sur Renan/M »...,. S\ • • • • 145</p>
+        <p>fa- tl i&gt;' $\</p>
+        <p>11</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>ACHEVÉ D'IMPRIMER LE 12 DÉCEMBRE 1933 PAR F. PAILLART A ABBEVILLË (SOMME)</p>
+      </div>
     </body>
   </text>
 </TEI>

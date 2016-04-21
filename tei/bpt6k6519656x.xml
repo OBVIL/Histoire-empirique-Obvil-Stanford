@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
- <teiHeader>
-<fileDesc>
-<titleStmt>
-<author key="Le Roux de Lincy, Antoine (1806-1869)">Antoine Le Roux de Lincy</author>
-<title>Analyse critique et littéraire du roman de Garin-le-Lohérain, précédée de quelques observations sur l'origine des romans de chevalerie, par Leroux ["sic"] de Lincy</title>
-</titleStmt>
-<editionStmt>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Analyse critique et littéraire du roman de Garin-le-Lohérain, précédée de quelques observations sur l'origine des romans de chevalerie, par Leroux [“sic”] de Lincy</title>
+        <author key="Le Roux de Lincy, Antoine (1806-1869)">Antoine Le Roux de Lincy</author>
+      </titleStmt>
+      <editionStmt>
         <edition>OBVIL/BNF</edition>
         <respStmt>
           <resp>reprise des textes</resp>
           <name>Amélie Canu</name>
         </respStmt>
       </editionStmt>
-<publicationStmt>
+      <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
         <availability status="restricted">
@@ -22,741 +22,562 @@
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
-<sourceDesc>
-<bibl>
-<author>Le Roux de Lincy, Antoine (1806-1869)</author>, <title>Analyse critique et littéraire du roman de Garin-le-Lohérain, précédée de quelques observations sur l'origine des romans de chevalerie, par Leroux ["sic"] de Lincy</title>, <date>1835</date>,description :,104 pages
-</bibl>
-<publisher>Techener (Paris)</publisher>
-<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k6519656x</idno>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1835">1835</date>
-</creation>
-<langUsage>
-<language ident="fr"/>
-</langUsage>
-</profileDesc>
- </teiHeader>
+      <sourceDesc>
+        <bibl> <author>Le Roux de Lincy, Antoine (1806-1869)</author>, <title>Analyse critique et littéraire du roman de Garin-le-Lohérain, précédée de quelques observations sur l'origine des romans de chevalerie, par Leroux ["sic"] de Lincy</title>, <date>1835</date>,description :,104 pages </bibl>
+        <publisher>Techener (Paris)</publisher>
+        <idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k6519656x</idno>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1835">1835</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-    <div>
-<p><pb/>
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-------------------------------------------------------------------------</p>
-<p>ANALYSE</p>
-<p>CRITIQUE ET LITTERAIRE</p>
-<p>DU ROMAN DE GARIN-LE-LOHÉRAIN.</p>
-<p><pb/></p>
-<p>Imprimerie de IIINRI DLIIV, rue Je la Monnaie, I 1.</p>
-<p><pb/></p>
-<p>ANALYSE CRITIQUE ET LITTÉRAIRE</p>
-<p>DU</p>
-<p>ROMAN DE GARIN-LE-LOHÉRAIN</p>
-<p>PHïCtDIE</p>
-<p>De quelques Observations sur l'Origine des Romans de Chevalerie,</p>
-<p>PAR LEROUX DE LINCY.</p>
-<p>PARIS TECIIENEn, LIBRAIRE, PLACTÏ DU LOUVRE, 12.</p>
-<p>1835</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>I.</p>
-<p>Observations sur les Romans de Chevalerie.</p>
-<p>w</p>
-<p>a publication d'un des plus beaux monumens de notre vieux langage doit,
-nous</p>
-<p><pb/></p>
-<p>Avant tout, nous croyons nécessaire d'expliquer notre pensée sur la
-dénomination de Chanson de Geste, donnée au poëme de Garin.</p>
-<p>Les romans de chevalerie, on le sait, se divisent en trois cycles ou
-branches, qui elles-mêmes peuvent être distinguées en plusieurs parties
-; Iole cycle de Charlemagne, qui est le premier et que nous considérons
-comme le plus ancien ; 2° le cycle de la Table ronde; 3° celui des A
-lexandre et des héros de l'antiquité, qui est le dernier, et,
-relativement aux deux autres, le plus moderne.</p>
-<p>Nous ne comprenons pas , dans ces trois divisions , les romans mixtes
-qui, participant de l'un ou de l'autre genre, ne doivent par cela même
-être classés dans aucun d'eux.</p>
-<p>C'est aux romans du premier et du troisième cycle, que la dénomination
-de Chansons de</p>
-<p><pb/></p>
-<p>Geste a été donnée par les jongleurs eux-mêmes; mais c'est
-principalement aux plus anciennes productions de ce genre que , suivant
-nous, on doit plus particulièrement l'appliquer.</p>
-<p><pb/></p>
-<p>mains qui l'achèveront ne croient pas devoir entièrement la rejeter.</p>
-<p>Il en est résulté que chacun de ces littérateurs , dans une partie de
-son système , a eu vraiment raison, et dans l'autre complètement tort.
-Avec un peu d'éclectisme littéraire on aurait, nous ne disons pas
-tout-à-fait expliqué, mais au moins jeté bien du jour sur cette question
-difficile.</p>
-<p>Quand nous cherchons l'origine d'une de ces grandes pensées qui ont
-dominé le moyen-âge, de la féodalité, de la chevalerie, des livres qui
-en sont résultés , n'oublions jamais l'invasion qui bouleversa l'Europe
-au cinquième siècle et en changea la face. N'oublions pas que presque
-tous les peuples qui accomplirent cette grande révolu-</p>
-<p><pb/></p>
-<p>tion avaient une même origine, et ne soyons pas surpris si nous
-retrouvons chez eux, bien qu'ils diffèrent aujourd' hui de mœurs,
-d'opinions et de langage, des idées communes et des traditions qui se
-ressemblent; cela est vrai surtout en ce qui touche les romans de
-chevalerie, car il est certain que les nations de l'antiquité ne nous
-ont rien laissé dans ce genre, et que les écrivains du moyen-âge , au
-contraire, ont travesti en œuvre chevaleresque les histoires, les poëmes
-de la Grèce et de Rome. C'est donc chez les peuples germaniques qui
-composaient presque entière- ment l'invasion du cinquième siècle, qu'il
-faut chercher le premier élément de ces compositions poétiques,
-généralisées sous le nom de Romans de chevalerie. En interrogeant
-l'histoire de ces peuples, nous y trouvons en effet ce premier élément.
-Tacite et plusieurs autres écrivains nous disent que les Germains
-avaient des bardes ou poëtes qui chantaient les belles actions de leurs
-guerriers. Ces chants même, ajoute l'historien , étaient les seules
-annales de ces barbares. D'a-</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>A cela nous ajouterons encore que le début du roman de Merlin semble
-n'être que la suite de l'Evangile de Nicodème.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>lesquels les croisades jouaient le premier rôle.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>tain sur la première de ces rédactions, et nous en avons un grand
-exemple dans le roman de Tristan (i).</p>
-<p>(i) L'enthousiasme qu'excita, pendant tout le moyen-âge et jusqu'au
-seizième siècle, le roman de Tristan, est un fait aujourd'hui reconnu :
-aussi les rédactions de cette fable, la plus touchante sans contredit de
-toutes celles des romans de chevalerie, sont nombreuses. Parmi elles, on
-distingue le poeme en vers français, dont il n'existe qu'un fragment ;
-le roman en prose française, qui remonte au treizième siècle; celui en
-vers anglais, par Thomas d'Elcerdoune; et un autre en vers allemands,
-par Godefroy de Strasbourg. Plusieurs dissertations ont été écrites pour
-fixer la priorité entre ces rédactions et d'autres que nous négligeons.
-Nous indiquerons surtout Warton, History of Oie english Poetry, London,
-1824, 4 vol., t. I, 181; Walter Scott, Introduction du poëme de Thomas
-d'Elcerdoune, dont il a donné une édition ; et plus récemment : Fr, heim
-r an der Hagen, Gottfrieds</p>
-<p><pb/></p>
-<p>Dépouillés de toutes fictions merveilleuses, ils racontent les grandes
-queréiles que les vassaux de la couronne menaient entre eux , et les
-combats qui en résultaient. Ce sont les mœurs des temps féodaux que nous
-y trouvons peintes, et qui, par ces livres seulement, peuvent être bien
-connues. Ni fées au pouvoir magique et séduisant, ni monstres à
-combattre. De tous ces êtres chimériques qui plus tard devaient occuper
-tant</p>
-<p>van Strasbourg werte, 2 vol. in-8, Breslau, 1823; Fauriel, Histoire de
-l'Epopée au moyen-âge, troisième article, p. 175, de la Revue des deux
-Mondes du 15 août 183a; et enfin, un article de M. Scbleggel, dans le
-Journal des Débats du 21 janvier 1834.</p>
-<p><pb/></p>
-<p>de place dans les compositions romanesques, nous ne retrouvons que
-quelques géans, encore sont-ils de stature fort raisonnable, toujours
-descendus de Magog ou de Goliath, et voit-on la superposition d'une idée
-que l'auteur a puisée dans l' Ecriture.</p>
-<p><pb/></p>
-<p>Charlemagne, avons-nous dit, avait fait réunir les chants héroïques et
-populaires de sa nation.</p>
-<p><pb/></p>
-<p>C'est Éginhart qui nous a conservé ce précieux document (i); et si la
-même tâche avait été entreprise par ses successeurs, en ce qui regarde
-la personne de ce héros et de ses compagnons d'arnies, nous pourrions
-posséder un recueil des traditions populaires les plus connues, les plus
-chantées aux xe et xie siècles, traditions dont les chansons de geste du
-cycle carlovingien nous ont conservé les principaux traits. Il n'en est
-pas ainsi malheureusement, et pour en retrouver quelques-unes ailleurs
-que dans les Chansons de Geste, il faut étudier les monumens historiques
-ou littéraires avec la plus scrupuleuse attention.</p>
-<p>Cependant, quelque fugitives que soient ces traces , on peut les suivre
-depuis la mort de Charlemagne jusqu'au temps où les Romans devinrent si
-nombreux qu'ils dénaturèrent les traditions</p>
-<p>(i) Item barbara et antiquissima carmina quibus veterum 1 egum actus et
-bella canebantur scripsit, memoriaeque mandavit. (Eginhardus, Vita
-Karoli magni. Pœrths monumenta germanlca, t. II, p. 458.)</p>
-<p><pb/></p>
-<p>Nous devons aussi compter parmi les monu-</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>cevaux, dont les Basques et montagnards gascons furent les seuls
-auteurs, ainsi que l'histoire</p>
-<p>nous l'apprend.</p>
-<p>A propos de cette fameuse défaite, qu'il nous soit permis d'émettre
-notre opinion au sujet de la Chanson de Geste, écrite en vers français
-du xme siècle et dans laquelle elle est racontée.</p>
-<p>M. l'abbé de La Rue qui, dans le dernier ouvrage (i) qu'il a publié, a
-soulevé, examiné, et</p>
-<p>(l) Essais historiques sur les Bardes, les Jongleurs, et les Trouvères
-normands et anglo-normands, etc., etc. Caen, 1834, 3 vol. in-8.</p>
-<p><pb/></p>
-<p>souvent prétendu résoudre sans appelles questions qui nous occupent, a
-donné, page 132 et suiv.</p>
-<p>du tom. 1er de son livre, quelques nouveaux détails sur la fameuse
-Chanson de Rolland, celle que Taillefer, jongleur de l'armée de
-Guillaumele-Conquérant, chantait en marchant contre les Saxons :</p>
-<p>Taillefer qui moult bien cantoit, Sur un ceval qui tost aloit Devant as
-s'en aloit cantant</p>
-<p>De Carlemane et de Rolant, Et d'Olivier et des vassaus</p>
-<p>Il a parfaitement démontré que cette chanson ne pouvait être les vers
-assez maussades que MM. de Tressan et Paulmy nous avaient cités</p>
-<p><pb/></p>
-<p>comme des fragmens de ce cantilène. Il a aussi écarté l'opinion émise
-par Shaaron Turner, l'abbé Prévost et M. Ellis, qui, au lieu de Rollan
-ont proposé de lire Rollon, que des chroniqueurs latins écrivent
-Rotholandus et Rollandus.</p>
-<p>A propos des vers cités plus haut, M. de La Rue fait quelques
-observations que nous pensons devoir copier ici.</p>
-<p><pb/></p>
-<p>» le courage d'une armée qui va combattre en » lui chantant la défaite
-du valeureux Rolland, » d'un aussi grand capitaine que Charlemagne? »</p>
-<p><pb/></p>
-<p>Il est encore un monument dans lequel des traces de ces chants
-populaires sur Charlemagne et ses paladins peuvent être saisies; mais là
-nous</p>
-<p>( 1) Avertissement, p. LXXII, LXXIII.</p>
-<p>(a) Page 29 de la préface du roman de Berthe aus grans piés.</p>
-<p><pb/></p>
-<p>(l) Monumenta Germani", historica inde ab anno Christi quingentesimo
-usque ad annum millesimum et quingentesimum, etc., etc. j edidit G.-H.
-Pertz, Hanoverae, 1828, infolio, 2 vol.</p>
-<p><pb/></p>
-<p>(1) In praefatione hujus opusculi très tantum auctores me</p>
-<p><pb/></p>
-<p>secuturum spopondi; sed quia prsecipuus eorum Werimbertus septimo die de
-hac vita recessit et debemus hodie id est 3 die kal. julii
-commemorationem illius orbi (orbati) filii discipulique agerc, hic fiat
-terminus libelli istius qui ex sacerdotis ejusdem ore de religiositate
-et ecclesiastica domini Karoli cura processif. Sequens vero de bellicis
-rébus acerrimi Karoli ex narratione Adalberti, patris ej usdem
-Werimberti, cudatur, qui cum domino suo keroldo et Uunisco et Saxonico
-vel Sclavico bello interfuit et cum jam valde senior parvulum me
-nutriret, renitentem et saepius effugientem, vi tandem coaclum, de his
-instruere solebat. (Lib. ir, Pertz, Monum. Germ., t. II, p. 747.)</p>
-<p><pb/></p>
-<p>C'est en parlant des Siaves-Ohotrites, des Ve-</p>
-<p><pb/></p>
-<p>nètes et Bohèmes, que l'auteur rapporte qu'un certain guerrier de
-l'armée de Cliarlemagne les fauchait comme un pré , et retournant chez
-lui vainqueur, suspendait leurs corps au bout de sa lance comme des
-oiseaux, et disaient en parlant d'eux : cc Que me font ces grenouilles?
-J'avais coutume d'en porter sept, huit et même neuf au bout de ma lance,
-murmurant je ne sais quoi.</p>
-<p>Nous nous sommes, le roi Charles et moi, fatigués bien inutilement
-contre de pareilles vermines (1).</p>
-<p><pb/></p>
-<p>(1) Audito autem adventu metuendi Karoli, ascenderunt in turrim
-eminentissimam, unde longe lateque prospicere venientem potuissent.
-Apparentibus vero impedimentis quae expeditiora Darii vel Julii fuissent
-expeditionibus, dixit Desiderius ad Otkerum : Est ne Karolus in tanto
-exercitu ? at ille respondit : Non adhuc. Videns vero exercitum
-popularium de latissimo imperio congregatum, diffinite pronuntiavit ad
-Otkerum : Vere in his copiis Karolus exultat. Respondit Otkerus : Set
-non adhuc, neque adhuc. Tune sestuare caepit et dicere : Quid faciemus,
-si plures cum eo venerint? dixit Otkerus : Videbis, qualis ille veniat;
-de nobis autem nescio quid fiât. Et ecce ista sermocinantibus apparuit
-scola, vocationis</p>
-<p><pb/></p>
-<p>semper ignara. Quam videns Desiderius, stupefactus : Ille est, inquit,
-Karolus. Et Otkerus : Non, infit, adhuc, neque adhuc.</p>
-<p>Post hauc, cernuntur episcopi, abbates et clerici, capellani cum
-comitibus suis. Quibus aspectis, hœc vix egre jam lucis inimicus,
-mortisque desiderius singultando blateravit : Descendamus et abscondamur
-in terra a facie furoris adversarii tam immanis. Ad quæ retulit
-extimescens Otkerus, rerum et apparatus incomparabilis Karoli quondam
-expertus, et in meliori tempore assuetissimus : Quando videris,
-inquieus, segetem</p>
-<p><pb/></p>
-<p>quand il viendra ; mais j'ignore ce qu'il fera. Et tandis qu'il parlait
-s'avancent les jeunes guerriers du palais. Didier, surpris, s'écria :
-Voici Charles.</p>
-<p>Non encore, non pas encore, fit Oger.</p>
-<p>Et alors parurent les évêques, les abbés, les clercs du palais ; ce
-qu'ayant vu Didier, il regretta le jour, et demandant la mort, il
-sanglota en criant : Descendons! cachons-nous dans la terre pour éviter
-un pareil ennemi. Oger, qui connaissait la puissance de l'incomparable
-Charles, et l'avait vu de près en des temps meilleurs, répondit : Quand
-tu verras la moisson trembler</p>
-<p>campis inhorrescere fet ream, Padumque et Ticinum marinis Jluctibus
-ferro nigrantibus muros civitatis incendentes, tune es spes Karoli
-venientis ! His ne dum finitis, primum ad occasum circio vel borea cœpit
-apparere quasi nubes tenebrosa quae diem clarissimam horrentes convertit
-in umbras. Sed propiante paululum imperatore, ex armorum splendore dies
-omni nocte tenebrosior oborta est incluais. Tune visus est ipse ferreus
-Karolus, ferrea galea cristatus, ferreis manicis armillatus, ferrea
-torace ferreum pectus humerosque platonicos tu-</p>
-<p><pb/></p>
-<p>» Quelque temps après, on vit s'élever vers le nord comme un nuage
-sombre qui convertit en épaisses ténèbres la clarté du jour ; mais
-l'empereur approchant, une clarté plus terrible que la nuit sombre
-frappa les assiégés. Charles parut, ayant un casque de fer, des
-bracelets de fer, une cuirasse de fer, tenant en sa main gauche une
-lance de fer, car sa droite était toujours réservée pour son invincible
-épée; des lames de fer recou-</p>
-<p>tatus, hasta ferrea in allum subrecta sinistram implelus j nam dextra ad
-invictum calibem semper erat extenta ; coxarum exteriora, quae propter
-faciliorem ascensum in aliis soIent lorica nudari, in eo ferreis
-ambiebantur bracteolis. De ocreis quid dicam ? Quae et cuncto exercitui
-solebant ferreae semper esse usui. la clipeo nihil apparuit nisi ferrum;
-caballus quoque illius animo et colore ferrum renitebat. Quem habitum
-cuncti præcedentes, universi ex laleribus ambientes , omnesque
-sequentes, et totus in commune apparatus, juxta possibili-</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>la traduction d'un chant de guerre d'une terrible vérité.</p>
-<p><pb/></p>
-<p>§ IL</p>
-<p>Analyse du Poëme de Garin.</p>
-<p>œ</p>
-<p>omme les autres chansons de geste, celle-ci commence par un appel de l'au-</p>
-<p><pb/></p>
-<p>A la vue des nombreuses troupes infidèles, les Gascons et Fromont, fils
-d'Hardrès , leur chef, quittent Garin ainsi que plusieurs barons, amis
-du vieil Hardrès. Garin, resté seul, aidé de son frère Bégon de Bélin,
-défait les Sarrasins ; mais le roi Thierry est blessé mortellement.
-Entouré de riches barons, il demande auquel d'entre eux il pourrait
-fiancer sa jeune fille Blanchefleur au</p>
-<p><pb/></p>
-<p>cler vis (au visage clair). Garin est choisi ; on le fait venir, et le
-roi donne sa fille et son royaume au chevalier. Celui-ci fait serment
-sur les reliques des saints de défendre la jeune fille, quand même il ne
-l'épouserait pas (i).</p>
-<p>(i) Chanson première, couplet xxxv.</p>
-<p><pb/></p>
-<p>le duché de Gascogne, vous m'avez promis l'héritage du premier fief de
-votre empire qui perdrait son seigueur. La Savoie a perdu son seigneur;
-je prétends tenir la Savoie. »</p>
-<p>Furieux, Garin répond au chevalier par de dures paroles, et le combat
-s'engage entre eux (1).</p>
-<p>Hardrès le vieil, qui sommeillait dans une chambre, est éveillé par les
-cris; il prend une épée, se mêle au combat et tue un grand nombre de
-chevaliers lorrains.</p>
-<p>Cette querelle termine la première chanson de</p>
-<p>(1) Fin de la première chanson.</p>
-<p>(a) Chanson deuxième, couplets l, 11.</p>
-<p><pb/></p>
-<p>Malgré ses observations, le roi n'est pas (obéi, et c'est avec raison
-que dans la chanson suivante Jean de Flagy dit en commençant : cc Le roi
-est jeune, on ne l'écoute pas, on ne le prise vaillant un éperon ! » Et
-puis ce combat, livré dans le palais sans que Pépin ait le pouvoir de
-l'empêcher, prouverait seul que les mœurs peintes dans notre poëme, sont
-celles dn xe siècle, époque ou la féodalité plus puissante étouffait la
-royauté.</p>
-<p><pb/></p>
-<p>( i ) Chanson deuxième , couplet vm.</p>
-<p><pb/></p>
-<p>de cette même chanson nous voyons Garin se faire lire une lettre par son
-chapelain. Et, dit le poète,</p>
-<p>» Le messager répond : Vous en avez menti. »</p>
-<p>(i) Chauson deuxième, couplet xn.</p>
-<p><pb/></p>
-<p>Fromont l'entend et s'irrite ; il prend un couteau et va frapper au cœur
-le messager ; mais il le manq ue et lue un bachelier qui se trouvait là;
-saisissant une autre arme, il va recommencer, quand Isorès le retient et
-fait éloigner le malheureux vassal. »</p>
-<p>Je vous le demande, cette scène ne nous peintelle pas le suzerain féodal
-du neuvième siècle dans toute son audace et sa barbarie.</p>
-<p>Enfin, veut-on savoir comment ces barons agissaient entre eux, quand ils
-tombaient au pouvoir les uns des autres : la scène suivante va nous
-l'apprendre.</p>
-<p>(I) Chanson deuxième, couplet xu.</p>
-<p><pb/></p>
-<p>Por néant l'avei dit.</p>
-<p>Si je tenoie l'ung pié en Paradis Et l'autre avoie au chastel de Naisil,
-Je retrairoie celui de Paradis, Et le mettroie arrier dedans Naisil.</p>
-<p>Le récit qui va suivre, et que nous allons traduire en entier, est sans
-contredit le plus beau passage de cette chanson , la plus longue des
-trois qui composent le poëme de Garin.</p>
-<p>Garin conduisait avec lui Bégon de Belins, son</p>
-<p><pb/></p>
-<p>frère, le comte Hugues de Cambrais, Jocelin de Sallebruge, Girard et
-Hardoin de Luxembourg, Ouri de Cologne et le comte de Troies (i).</p>
-<p>Fromont amenait aussi de nobles chevaliers : Pierre d'Artois, Dreux.
-d'Amiens, Anjorans de Coucy, Bernars de Nézil, Isorès-le-Gris, et
-plusieurs encore qu'il serait trop long d'énumérer.</p>
-<p>En outre, ils avaient avec eux, sous la garde du seigneur Auberis,
-Blanchefleur au cler vis, la fiancée de Garin , la fille du roi Thierry
-de Savoie.</p>
-<p>Arrivé non loin de Paris , Fromont rencontra son messager, et lui dit :
-« As-tu préparé mes logemens?</p>
-<p>» Ah! sire duc, le Loherain Garin s'est emparé de la ville ; vous et
-votre compagnie n'y pouvez trouver une seule place. »</p>
-<p>Quand le messager eut dit, Fromont repartit :</p>
-<p><pb/></p>
-<p>Quand il fut là, il trouva l'abbé dans son cloître, et le salua comme le
-fait tout homme bien appris.</p>
-<p>« Messager, qui es-tu? dit l'abbé.</p>
-<p>» Il l'aura, » dit l'abbé.</p>
-<p>Et aussitôt, faisant vider salles et granges, il prépara un logement
-pour huit mille chevaliers.</p>
-<p>Fromont s'arrêta donc au monastère de SaintGermain-des-Prés, près Paris,
-chez son parent qui le reçut avec joie.</p>
-<p>Blanchefleur, conduite par le duc Aubry, entra dans la ville. Elle avait
-une robe de soie , et</p>
-<p><pb/></p>
-<p>son palefroi, plus blanc qu!un lis, était couvert d'un riche caparaçon
-que n'auraient pas payé cent marcs parisis.</p>
-<p>« Qu'elle soit la bienvenue, dit l'empereur;</p>
-<p><pb/></p>
-<p>Adonc Hanris, archevêque de Rheims, parla en ces termes :</p>
-<p>« Droit empereur, que dis-tu ? si Garin épouse Blanchefleur, la France y
-perdra : ni Fromont, ni ses parens, ni ses riches amis ne voudront te
-servir, si Garin épouse Blanchefleur : en vérité, je te le dis, jamais
-la guerre ne prendra fin.</p>
-<p>» Que faire, dit l'empereur?</p>
-<p>» Si vous l'épousiez, reprit l'archevêque, la guerre serait terminée :
-vous êtes jeune, la dame aussi; plus hautement vous ne pourriez choisir;
-elle est presque aussi riche que vous. »</p>
-<p><pb/></p>
-<p>» Eh bien ! reprit le roi, j'irai la voir ; si elle me sied, je
-l'épouserai. »</p>
-<p>« Soyez la bienvenue,» dit l'empereur, et il la prit dans ses bras.</p>
-<p>Quand il le vit, Pépin lui parla en ces termes : « Sire archevêque, je
-ne veux pas mentir : j'ai vu Blanchefleur au cler vis, et, par Dieu,
-j'en ai été surpris ; mes yeux n'ont rien vu de plus beau, et volontiers
-je la prendrais pour</p>
-<p><pb/></p>
-<p>L'archevêque dit : cc Par Dieu, j'en suis content, et j'ai mes quatre
-moines vieux et rusés qui sauront bien trouver la parenté. »</p>
-<p>Le jour était venu, le soleil éclairait la ville, et toutes les cloches
-des églises appelaient les fidèles.</p>
-<p>Épousez-la donc, beau neveu.</p>
-<p>» - Par Dieu, merci, beau sire; je ne suis pas</p>
-<p><pb/></p>
-<p>venu ici pour me battre, mais pour faire la paix, si je puis. »</p>
-<p>Alors arrivèrent Lohérain Garin, son frère Bégon, Ouri l'Allemand,
-Girars de Liège, Aubris le Bourguignon, et un grand nombre de chevaliers
-de prix ; enfin tout le lignage au Lohérain.</p>
-<p>Fromont, voyant tous ces chevaliers, dit a Bernars : « Que faites-vous
-donc? Emparez-vous de Blanchefleur.</p>
-<p>» - Non, reprit Bernars, car m'est avis que l'empereur veut s'en saisir. »</p>
-<p>Et dit Fromont : « Nous ferons comme il vous plaira, et rien ne perdrez,
-si Dieu me prête vie. »</p>
-<p><pb/></p>
-<p>Et le roi répondit : cc Ores, vous avez bien dit. »</p>
-<p>On vit entrer fout le clergé, archevêques, évèques, au nombre de plus de
-quatre mille, qui venaient signer la paix.</p>
-<p>» - Sire, merci, » répondit le duc; et il reçut Blanchefleur des mains
-de l'empereur.</p>
-<p>Alors l'archevêque Hanris parla : « Or, écoutez, grands et petits :
-Voici le Lohérain Garin de Metz qui épouse Blanchefleur au cler vis, la
-fille du roi Thierry de Moriainne.</p>
-<p><pb/></p>
-<p>du Lohérain Garin, était cousin germain du roi Thierry de Moriainne, à
-qui Dieu fasse paix. »</p>
-<p>Et il l'eût achevé si on ne se fût empressé de relever le moine.</p>
-<p>Pépin mécontent, lui dit : cc Sire vassal, vous me prisez bien peu, que
-vous battez ce moine devant moi.</p>
-<p>» - Vous ne le ferez pas, sire baron, dit le roi; qu'on apporte ici les
-reliques, et que les témoins jurent dessus. « ., Les quatre moines
-s'étant avancés, jurèrent sur le corps de saint Rémy qu'ils avaient dit
-la vérité ; et on sépara Blanchefleur et Garin.</p>
-<p><pb/></p>
-<p>La nouvelle se répandit bientôt dans le palais.</p>
-<p>» Je le savais, répétait le comte Bernars; je savais qu'ils étaient
-parens et alliés. »</p>
-<p>»–Je le ferai, dit Garin, mais il faut que Blanchefleur y consente. »</p>
-<p><pb/></p>
-<p>qui vous demande pour son frère Guillaume de Monclin. C'est un homme
-riche, puissant et entouré d'amis.</p>
-<p>» Ce mariage est bien, dit Blanchefleur. Ce que vous me dites me plait,
-et j'écouterai votre conseil. »</p>
-<p>lit l'archevêque s'est aperçu de ce qui se passe entre Garin et Fromont,
-et il en avertit Pépin : « Hàtez-vous, gentil empereur, car Blanchefleur
-va nous échapper.» Le roi l'écoute; il envoie Huon de Troies, Thierry et
-Amauri de Nevers chercher la demoiselle.</p>
-<p>Et Blanchefleur se rendit volontiers auprès du roi, dans une chambre où
-il se trouvait, ayant avec lui dix chevaliers. Quand elle y fut, le roi
-lui dit : « Mademoiselle, pour remplacer l'amour de</p>
-<p><pb/></p>
-<p>Garin, vous donnerai-je assez noble mari en me donnant moi-même.</p>
-<p>» Sire, dit Blanchefleur, la vôtre grand merci ; si vous le voulez, cela
-me plaît. Veuillez prévenir le Lohérain Garin, Bégon son frère, et tous
-les chevaliers qui m'ont ici menée.</p>
-<p>» Oui, » reprit le roi.</p>
-<p>Et il fit appeler Lohérain et son frère.</p>
-<p>Et dit Garin : « Vous nous avez bien servi, mais vous avez mauvaisement
-mérité; par mon vouloir, vous ne serez mari.</p>
-<p>»– Fol Lohérain, s'écria Bégon en se levant; laisse aller Blanchefleur
-au cler vis; si tu veux une femme, je t'en trouverai dix. Tenez, dit-il,
-en présentant Blanchefleur au roi, que Dieu vous rende heureux. »</p>
-<p>Et l'empereur épousa la jeune fille. Elle fut</p>
-<p><pb/></p>
-<p>Fromont répondit : « C'est chose étrange que j'ai entendu : doit-</p>
-<p><pb/></p>
-<p>Bernard l'entend , il frémit de rage , saute de table et s'élance sur
-Garin ; il veut lui afracher la coupe d'or des mains , et lui répand
-tout le vin sur sa fourrure.</p>
-<p>Garin lui dit : « Voulez-vous boire, sire Bernard, je vous donnerai de
-meilleur vin que celui-ci.</p>
-<p>» Mauvais chevalier , reprend Bernard, il ne t'appartient pas de tenir
-la coupe d'or. Tu déshérites Fromont et ses amis; honte doit t'en
-advenir. »</p>
-<p>Garin ne put souffrir un tel outrage ; mais levaut la coupe d'or, il en
-frappa Bernard au visage et lui enleva le sourcil; le sang coula.
-Aussitôt s'élancèrent les chevaliers des deux partis et l'on commença à
-se donner de rudes coups.</p>
-<p><pb/></p>
-<p>« Pouvez-vous souffrir que ces chevaliers se battent ainsi ? eux qui
-vous ont toujours bien servi; si vous n'empêchez cela, vous êtes indigne
-de régner. »</p>
-<p>Cependant les chevaliers se battaient toujours.</p>
-<p>Bégon était aux cuisines; il ordonnait le repas.</p>
-<p>On vient lui annoncer que Garin se bat et que les amis de Fromont le
-serrent de près. Furieux , il appelle le chef cuisinier.</p>
-<p>« Tu es mon homme et tu dois me servir, je te sqmme de venir avec moi,
-toi et tous tes garçonnets que je vois ici. Prends garde, je verrai
-comment tu sais frapper. »</p>
-<p>Alors, saisissant broches et crochets, tous ils s'élancent.</p>
-<p>Cependant le roi commande aux Français de s'armer, de fermer les portes
-et d'arrêter tous ces mutins bordelais ; et en même temps arrive avec
-tous ses cuisiniers, au nombre de plus de soixantesix , Bégon armé d'un
-grand crochet. Il tombe</p>
-<p><pb/></p>
-<p>sur Isorès qui tenait Aubris, et lui perce le cou.</p>
-<p>Enfin, les Gascons vaincus sont obligés de fuir.</p>
-<p>Fromont, Beaudoin, Lancelin de Verdun, Guillaume de Moncliin ,
-Isorcs-le-Gris , arrêtés nux portes du palais, sont mis en prison (i).</p>
-<p>Quand ils se virent tous en chartre , les barons furent bien empêchés.</p>
-<p>« Hélas ! dit Fromont, que pourrai-je devenir?</p>
-<p>Sortirons-nous jamais d'ici? Nous sommes tous morts, je n'en puis douter.</p>
-<p>« Tais-toi, dit Bernard de Nézil, si je puis parler au roi Pépin, nous
-serons bientôt dehors. »</p>
-<p>« Comment cela? dit Isorès.</p>
-<p>» Vous le saurez , reprit Bernard , je dirai au roi de Saint-Denis que,
-parce qu'il a épousé Blanchefleur, le Lohérain veut le tuer; je dirai
-que Fromont était convenu de recevoir Blanche-</p>
-<p><pb/></p>
-<p>Alors une lutte sanglante a lieu entre Bégon et Isorès-le-Gris ; déjà
-ces deux chevaliers ressentaient l'un pour l'autre une haine terrible ;
-aussi le combat est affreux, sa fin atroce. Elle rappelle la sauvagerie
-des duels germaniques. Suivant nous c'est, dans tout le roman, le trait
-le plus barbare et qui sente le mieux la férocité des héros Scandinaves.</p>
-<p>(i) Couplet xxn.</p>
-<p><pb/></p>
-<p>(2) Couplet xxx.</p>
-<p><pb/></p>
-<p>(2) Couplet XXXI".</p>
-<p><pb/></p>
-<p>» - Tais-toi, folle garce, dit Bernard de Naisil, le roi était fou quand
-il t'épousa; peu d'honneur doit lui en ad venir ( i ). »</p>
-<p>«- Vous en avez menti, voleur et parjure que vous êtes; jamais on ne
-devrait vous recevoir en haute cour, l'empereur devrait vous en chasser. »</p>
-<p>Ayant dit, Blanchefleur se sauva dans sa chambre en pleurant.</p>
-<p>Garin , voyant le duc Bernard présent, saisit une table, et la jetant à
-la tête de son ennemi, il lui cassa quatre dents. Il l'eût tué , mais
-l'empereur s'y opposa. Alors , Garin réunit tous les vassaux de la
-couronne, et l'empereur, avec toute son armée , l'oriflamme en tête,
-marcha au secours de Bégon.</p>
-<p>(1) Couplet xxxv.</p>
-<p><pb/></p>
-<p>Les Bordelais, qui assiégeaient Bélin, n'eurent pas plutôt aperçu la
-bannière de France qu'ils s'enfuirent, et le-Lohérain fut délivré.</p>
-<p>Mais Bernard est venu vers Fromont, la tête enveloppée de sa cape ; il
-se présente au comte qui lui demande ce qu'il a. Il dit alors son
-aventure et montre son visage tout enflé.</p>
-<p>te Pardieu , s'écrie brutalement Fromont, il a bien agi. Nous étions les
-amis de Garin; la paix.</p>
-<p>était faite , et maintenant. il nous faut combattre de nouveau. »</p>
-<p><pb/></p>
-<p>Haïmes l'entend et n'ose lui répondre un mot (i).</p>
-<p>Mais la guerre tourne assez mal aux Bordelais.</p>
-<p>Mais ce sont des luttes sanglantes qui commencent par le combat de deux
-chevaliers et finissent par un engagement entre les deux partis. Enfin,
-après</p>
-<p>(i) Couplet xxxv.</p>
-<p><pb/></p>
-<p>Avant de terminer cette analyse par une traduction littérale des
-principales scènes de la troisième et dernière chanson de Garin, nous
-croyons devoir examiner le caractère de quelques-uns des personnages du
-poëme.</p>
-<p>L'auteur, on le voit, a voulu nous peindre le</p>
-<p><pb/></p>
-<p>seigneur féodal accomplissant tous ses devoirs.</p>
-<p><pb/></p>
-<p>N'est pas richesse ne de vair ne de gris, Li cuers d'un homme vaut tout
-l'or d'un pays (i).</p>
-<p>Et par une contradiction que l'emportement de la guerre et la fureur du
-combat peuvent seuls expliquer, c'est Bégon que nous avons vu plus haut
-tuer son ennemi, lui arracher le cœur et le jeter au nez de son parent.
-On pourra juger mieux cf caractère après avoir lu la dernière partie du
-poëme dont nous donnons plus bas la traduction.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>» - J'en connais un bon, reprit le duc Hervis, et je vous l'amènerai. »</p>
-<p>» Dieu vous bénisse, reprit Galopin ; venez vous asseoir, et tirons à
-qui paiera le vin?</p>
-<p><pb/></p>
-<p>» - Je ne viens pas pour cela; Bègues ton cousin te demande : il est ton
-parent, il ne faut pas lui manquer.</p>
-<p>Menuel dit ; a Faites-moi raison de ce vin , ou autrement je ne sors pas
-d'ici.</p>
-<p>» Volontiers, » reprit le comte.</p>
-<p>Et appelant le tavernier : « Je vous rendrai deux sous poitevins.</p>
-<p>Henri conduisit Menuel Galopin au palais.</p>
-<p>Bégon lui dit : « D'où es-tu, mon bel ami?</p>
-<p>» De Clermont, sire, et je m'appelle Galo-</p>
-<p><pb/></p>
-<p>pin. Le preux comte Jocelins est mon frère; je suis aîné, mais il me va
-ainsi.</p>
-<p>» Certes il m'en pèse, reprit Bégon, je reconnais quç tu es mon cousin :
-si tu veux quitter toutes tes folies, je te ferai chevalier tout à
-l'heure, et je partagerai l'Auvergne entre toi et ton frère. »</p>
-<p>Menuel entend cela, pousse un rire, et dit : te Pour rien avez parlé ;
-j'aime mieux avoir taverne et jeunes filles qu'un comté; mais donnezmoi
-vos ordres ou je m'en retourne boire.</p>
-<p>M Non ferez, ami, dit Bègues. Mes vassaux m'ont attaqué, et je suis
-assiégé par eux.</p>
-<p>» Ce sont des traîtres que Dieu puisse maudire, » reprit Galopin.</p>
-<p>Cette scène est remarquable non-seulement pour la variété plaisante de
-sa composition, mais encore par les traits de mœurs qu'elle nous ré-</p>
-<p>(1) T. II, p. 99, couplet xxxv.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Fromondin, tout prêt, saute de terre sans toucher l'étrier; puis
-caracolant, il vient heurter Bernars qui manque de tomber : « Sire
-vieillard, lui crie-t-il en riant, vous serez des miens, je vous prie. »</p>
-<p>Et Naisil répond : tf Sire, votre merci. »</p>
-<p>Puis entrant dans le verger, ils s'assirent au manger (i).</p>
-<p>L'autre scène a lieu dans le camp ennemi, c'est-à-dire dans celui de
-l'empereur Pépin et de Bégon de Bélin. Ce dernier rencontre Rigaud, fils
-d'Hervi, auquel il fit présent d'un cheval.</p>
-<p>« Sire Rigaud, lui dit-il, je vous ai bien tenu promesse.</p>
-<p>» Non pas, sire ; car outre le cheval de prix, vous me dites devant plus
-de mille témoins que je serais chevalier.</p>
-<p>(i) T. II, p. 143, couplet xxxv.</p>
-<p><pb/></p>
-<p>» Vous le serez, reprit le Lohérain. Allezvous-en un peu baigner, et tôt
-après vous aurez et le vair et le gris. »</p>
-<p>Mais Rigaud lui répond : « Au diable et votre vair et votre gris! Je
-n'ai que faire de me baigner, je ne suis tombé dans aucun fossé, et mon
-père a plus d'étoffe qu'il ne nous en faut.</p>
-<p>» Comme tu voudras, » dit le duc.</p>
-<p>Alors on revêt Rigaud d'un riche manteau garni de fourrures qui traîne
-un demi-pied derrière lui. Rigaud le voit, il se fâche, et, saisissant
-le couteau d'un damoisel, il en coupe un grand pied et demi qu'il jette
-au milieu des serviteurs.</p>
-<p>« Pourquoi fais-tu cela? lui demande son père.</p>
-<p>Il est d'usage qu'un nouveau chevalier le porte ainsi.</p>
-<p>» C'est une mauvaise coutume, dit Rigaud comme je suis, je me lève; je
-cours, je saute mieux.</p>
-<p>» Il a raison, » dit le roi.</p>
-<p><pb/></p>
-<p>(i) T. Il, p. i8o, 181 , couplet xxxvu.</p>
-<p><pb/></p>
-<p>vous avez de l'or en vos écrins. Vous avez des fourrures, des faucons
-sur les perches, des mulets , des palefrois, des roucins, et vous avez
-foulé vos ennemis. Pas un vassal, si vous le demandez , ne refusera de
-marcher pour vous servir. »</p>
-<p>Le duc répond : « Dame, vous avez dit la vérité, excepté sur un point.
-Ni l'or, ni les fourrures, ni les palefrois, ne font la richesse; ce
-sont les parens et les amis.</p>
-<p>Le cœur d'un homme vaut tout l'or d'un pays.</p>
-<p><pb/></p>
-<p>Mais Bègues n'écoute pas les pressentimens de Béatrix. et il ordonne son
-départ pour le lendemain.</p>
-<p>Après avoir embrassé sa femme, le duc s'équipe en guerre, et emmène avec
-lui trente-six chevaliers tous habiles chasseurs, dix meutes de chiens
-et quinze valets pour les conduire.</p>
-<p><pb/></p>
-<p>» Sire , répondit Bègues, je ne vous veux mentir, le Lohérain est mon
-frère. Je suis d'un pays éloigné dont l'empereur m'a confié la garde.</p>
-<p>Depuis le grand siège de Bordeaux, je n'ai pas vu mon frère, et je viens
-pour cela.</p>
-<p>) - C'est toi qui as tué Baudouin, dit l'hôte.</p>
-<p><pb/></p>
-<p>» Je sais bien où il gît, dit l'bôte ; je vous conduirai demain jusqu'à
-sa retraite. »</p>
-<p>Le lendemain le chambellan vint au lit de Bègues et l'habilla. Il lui
-mit une cotte de chasse, de hautes bottes et des éperons. Puis le duc
-monta un cheval de chasse que l'empereur Pépin lui avait donné; et le
-cor d'ivoire au col, l'épée au poing, il s'élança dans la forêt.</p>
-<p>Bégon a tant suivi les chiens, qu'il se trouve seul avec eux, en face du
-sanglier. La bête sent bien qu'elle ne pourra durer. Aussi s'appuyant à
-un chêne, elle boit dans l'eau qui coulait au</p>
-<p><pb/></p>
-<p>pied, et veut se reposer. Tous les bons chiens l'environnent. Le
-sanglier les voit, il lève ses sourcils, roule ses yeux, heurte ses
-dents, et tombant sur eux, il les tue ou blesse presque tous.</p>
-<p>Le duc le voit, il s'est écrié : « Ah ! fils de truie, combien tu m'as
-donné de peine : j'en ai perdu tous mes compagnons. »</p>
-<p>Alors la nuit vient. L'obscurité est grande, et le duc n'apercevait
-autour de lui ni château, ni cité, ni bourg, ni village, ni fermes. Il
-ne connaît personne en ce pays : il n'avait pour compagnon que Beaucent,
-son destrier. Il le plaint, et dit : « Beaucent, je dois bien vous
-aimer, car vous avez gardé mon corps de maint péril. Ah ! que</p>
-<p><pb/></p>
-<p>u'ai-je blé ou avoine, je vous la donnerais! A mon retour au château de
-Bélin, je vous récompenserai. »</p>
-<p>Le duc alluma un grand feu; puis saisissant son cor, il le fit sonner
-deqx fois avec force pour appeler les siens.</p>
-<p>« Seigneurs, leur crie Bègues, portez-moi</p>
-<p><pb/></p>
-<p>Les forestiers n'écoutent pas Bègues ; leur chef ose même s'approcher de
-lui et prendre son cor.</p>
-<p>Les forestiers attaquent Bégon tous ensemble.</p>
-<p>Le duc se défend et en abat trois d'entre eux.</p>
-<p><pb/></p>
-<p>frère, mon corps ne défendra plus le tien. Mes deux enfans, les fils de
-ma femme, si j'eusse vécu vous eussiez été chevaliers. Que Dieu du ciel
-soit votre père ! »</p>
-<p>Il le regarde, le retourne : « Cela est beau, dit-il; ni garçons ni
-braconniers n'ont possédé cet olifant. »</p>
-<p>Et ayant appris qu'on avait laissé le corps du chasseur dans la forêt :
-« C'est un chrétien , dit-il, nous devons l'en-</p>
-<p><pb/></p>
-<p>terrer, qu'on l'apporte ici. Demain nous ferons ses funérailles. »</p>
-<p>Les chiens ne quittèrent pas leur maître, et marchèrent après lui en
-poussant des cris affreux.</p>
-<p>Barons et chevaliers vont voir le corps du marquis : « Dieu! dit chacun,
-comme il est grand; les garçons l'ont tué, mal ont fait; il était
-gentilhomme : ses chiens l'aimaient beaucoup. »</p>
-<p>Fromont a entendu tout cela. Il vient droit au corps, regarde devant,
-derrière. Il l'avait vu vivant : il le reconnut mort ; car il portait au
-visage la marque d'une blessure que lui-même avait faite au marquis.</p>
-<p><pb/></p>
-<p>.,.</p>
-<p>Le lendemain il fallut enterrer le marquis. On lava son corps avec de
-l'eau et du vin. Fromont lui-même y mit les mains. On l'enveloppa dans
-un drap de samis cousu avec de la soie, puis on le recouvrit d'un cuir
-de cerf. Le corps ainsi enseveli, on le plaça dans une bière; trente
-cierges furent allumés autour, et Fromont veilla au chevet.</p>
-<p>On a mandé le bon abbé Lietris , neveu de Garin de Lorraine ; il vient
-accompagné de trente-six chevaliers et de quinze moines. Il dit à
-Fromont : cc Sire, vous m'avez demandé ? Quel est cet homme qui gitlà,
-en bière? Est-il malade, ou navré, ou mort? »</p>
-<p>Et Fromont dit : « Je ne vous veux mentir, c'est le comte Bègues du
-château de Bélin ; mes garçons l'ont tué dans le bois pour un sanglier
-qu'il avait abattu. Il L'abbé l'entend , il frémit.</p>
-<p>« Qu'est-ce diable, Fromont, que tu as dit ?</p>
-<p>mais Bègues de Bélin , mon oncle , est duc. Par</p>
-<p><pb/></p>
-<p>le saint Dieu, tu l'as fait tuer. Oh! c'est alors que vous allez me voir
-quitter l'église, c'est alors que vous allez me voir revêtir le blanc
-haubert ; j'appellerai tous mes amis et nous vous ferons mourir de mort
-honteuse.» Fromont l'écoute et il a peur ; il tremble, tout son sang
-noircit.</p>
-<p>» - Vous faites bien, » dit l'abbé; et il emmena le corps du marquis.</p>
-<p>On n'écouta pas les propositions de Fromont ; la guerre va recommencer ;
-mais ici finit le poëme de Garin-le-Lohérain.</p>
-<p>Plusieurs fois, nous avons fait observer que les mœurs peintes en ce
-roman étaient celles du dixième siècle , nous espérons même en avoir
-donné quelques preuves. Quant au langage, il ne</p>
-<p><pb/></p>
-<p>Le texte nous a paru d'une correction parfaite, et il était d'autant
-plus difficile d'obtenir cette correction , que les manuscrits originaux
-sont nombreux et offrent tous une variété de leçons qui demande une
-science profonde , un tact délicat dans celui qui entreprend de choisir
-au milieu d'elles ; et cependant M. Paris a préféré cette méthode à
-celle adoptée par quelques archéologues, de suivre un texte et de placer
-aux notes les va-</p>
-<p><pb/></p>
-<p>FIN.</p>
-    </div>
+      <div>
+        <p><pb/> ------------------------------------------------------------------------ ------------------------------------------------------------------------ ------------------------------------------------------------------------</p>
+        <p>ANALYSE</p>
+        <p>CRITIQUE ET LITTERAIRE</p>
+        <p>DU ROMAN DE GARIN-LE-LOHÉRAIN.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Imprimerie de IIINRI DLIIV, rue Je la Monnaie, I 1.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ANALYSE CRITIQUE ET LITTÉRAIRE</p>
+        <p>DU</p>
+        <p>ROMAN DE GARIN-LE-LOHÉRAIN</p>
+        <p>PHïCtDIE</p>
+        <p>De quelques Observations sur l'Origine des Romans de Chevalerie,</p>
+        <p>PAR LEROUX DE LINCY.</p>
+        <p>PARIS TECIIENEn, LIBRAIRE, PLACTÏ DU LOUVRE, 12.</p>
+        <p>1835</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>I.</p>
+        <p>Observations sur les Romans de Chevalerie.</p>
+        <p>w</p>
+        <p>a publication d'un des plus beaux monumens de notre vieux langage doit, nous</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Avant tout, nous croyons nécessaire d'expliquer notre pensée sur la dénomination de Chanson de Geste, donnée au poëme de Garin.</p>
+        <p>Les romans de chevalerie, on le sait, se divisent en trois cycles ou branches, qui elles-mêmes peuvent être distinguées en plusieurs parties ; Iole cycle de Charlemagne, qui est le premier et que nous considérons comme le plus ancien ; 2° le cycle de la Table ronde; 3° celui des A lexandre et des héros de l'antiquité, qui est le dernier, et, relativement aux deux autres, le plus moderne.</p>
+        <p>Nous ne comprenons pas , dans ces trois divisions , les romans mixtes qui, participant de l'un ou de l'autre genre, ne doivent par cela même être classés dans aucun d'eux.</p>
+        <p>C'est aux romans du premier et du troisième cycle, que la dénomination de Chansons de</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Geste a été donnée par les jongleurs eux-mêmes; mais c'est principalement aux plus anciennes productions de ce genre que , suivant nous, on doit plus particulièrement l'appliquer.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>mains qui l'achèveront ne croient pas devoir entièrement la rejeter.</p>
+        <p>Il en est résulté que chacun de ces littérateurs , dans une partie de son système , a eu vraiment raison, et dans l'autre complètement tort. Avec un peu d'éclectisme littéraire on aurait, nous ne disons pas tout-à-fait expliqué, mais au moins jeté bien du jour sur cette question difficile.</p>
+        <p>Quand nous cherchons l'origine d'une de ces grandes pensées qui ont dominé le moyen-âge, de la féodalité, de la chevalerie, des livres qui en sont résultés , n'oublions jamais l'invasion qui bouleversa l'Europe au cinquième siècle et en changea la face. N'oublions pas que presque tous les peuples qui accomplirent cette grande révolu-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>tion avaient une même origine, et ne soyons pas surpris si nous retrouvons chez eux, bien qu'ils diffèrent aujourd' hui de mœurs, d'opinions et de langage, des idées communes et des traditions qui se ressemblent; cela est vrai surtout en ce qui touche les romans de chevalerie, car il est certain que les nations de l'antiquité ne nous ont rien laissé dans ce genre, et que les écrivains du moyen-âge , au contraire, ont travesti en œuvre chevaleresque les histoires, les poëmes de la Grèce et de Rome. C'est donc chez les peuples germaniques qui composaient presque entière- ment l'invasion du cinquième siècle, qu'il faut chercher le premier élément de ces compositions poétiques, généralisées sous le nom de Romans de chevalerie. En interrogeant l'histoire de ces peuples, nous y trouvons en effet ce premier élément. Tacite et plusieurs autres écrivains nous disent que les Germains avaient des bardes ou poëtes qui chantaient les belles actions de leurs guerriers. Ces chants même, ajoute l'historien , étaient les seules annales de ces barbares. D'a-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>A cela nous ajouterons encore que le début du roman de Merlin semble n'être que la suite de l'Evangile de Nicodème.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>lesquels les croisades jouaient le premier rôle.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>tain sur la première de ces rédactions, et nous en avons un grand exemple dans le roman de Tristan (i).</p>
+        <p>(i) L'enthousiasme qu'excita, pendant tout le moyen-âge et jusqu'au seizième siècle, le roman de Tristan, est un fait aujourd'hui reconnu : aussi les rédactions de cette fable, la plus touchante sans contredit de toutes celles des romans de chevalerie, sont nombreuses. Parmi elles, on distingue le poeme en vers français, dont il n'existe qu'un fragment ; le roman en prose française, qui remonte au treizième siècle; celui en vers anglais, par Thomas d'Elcerdoune; et un autre en vers allemands, par Godefroy de Strasbourg. Plusieurs dissertations ont été écrites pour fixer la priorité entre ces rédactions et d'autres que nous négligeons. Nous indiquerons surtout Warton, History of Oie english Poetry, London, 1824, 4 vol., t. I, 181; Walter Scott, Introduction du poëme de Thomas d'Elcerdoune, dont il a donné une édition ; et plus récemment : Fr, heim r an der Hagen, Gottfrieds</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Dépouillés de toutes fictions merveilleuses, ils racontent les grandes queréiles que les vassaux de la couronne menaient entre eux , et les combats qui en résultaient. Ce sont les mœurs des temps féodaux que nous y trouvons peintes, et qui, par ces livres seulement, peuvent être bien connues. Ni fées au pouvoir magique et séduisant, ni monstres à combattre. De tous ces êtres chimériques qui plus tard devaient occuper tant</p>
+        <p>van Strasbourg werte, 2 vol. in-8, Breslau, 1823; Fauriel, Histoire de l'Epopée au moyen-âge, troisième article, p. 175, de la Revue des deux Mondes du 15 août 183a; et enfin, un article de M. Scbleggel, dans le Journal des Débats du 21 janvier 1834.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>de place dans les compositions romanesques, nous ne retrouvons que quelques géans, encore sont-ils de stature fort raisonnable, toujours descendus de Magog ou de Goliath, et voit-on la superposition d'une idée que l'auteur a puisée dans l' Ecriture.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Charlemagne, avons-nous dit, avait fait réunir les chants héroïques et populaires de sa nation.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>C'est Éginhart qui nous a conservé ce précieux document (i); et si la même tâche avait été entreprise par ses successeurs, en ce qui regarde la personne de ce héros et de ses compagnons d'arnies, nous pourrions posséder un recueil des traditions populaires les plus connues, les plus chantées aux xe et xie siècles, traditions dont les chansons de geste du cycle carlovingien nous ont conservé les principaux traits. Il n'en est pas ainsi malheureusement, et pour en retrouver quelques-unes ailleurs que dans les Chansons de Geste, il faut étudier les monumens historiques ou littéraires avec la plus scrupuleuse attention.</p>
+        <p>Cependant, quelque fugitives que soient ces traces , on peut les suivre depuis la mort de Charlemagne jusqu'au temps où les Romans devinrent si nombreux qu'ils dénaturèrent les traditions</p>
+        <p>(i) Item barbara et antiquissima carmina quibus veterum 1 egum actus et bella canebantur scripsit, memoriaeque mandavit. (Eginhardus, Vita Karoli magni. Pœrths monumenta germanlca, t. II, p. 458.)</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Nous devons aussi compter parmi les monu-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>cevaux, dont les Basques et montagnards gascons furent les seuls auteurs, ainsi que l'histoire</p>
+        <p>nous l'apprend.</p>
+        <p>A propos de cette fameuse défaite, qu'il nous soit permis d'émettre notre opinion au sujet de la Chanson de Geste, écrite en vers français du xme siècle et dans laquelle elle est racontée.</p>
+        <p>M. l'abbé de La Rue qui, dans le dernier ouvrage (i) qu'il a publié, a soulevé, examiné, et</p>
+        <p>(l) Essais historiques sur les Bardes, les Jongleurs, et les Trouvères normands et anglo-normands, etc., etc. Caen, 1834, 3 vol. in-8.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>souvent prétendu résoudre sans appelles questions qui nous occupent, a donné, page 132 et suiv.</p>
+        <p>du tom. 1er de son livre, quelques nouveaux détails sur la fameuse Chanson de Rolland, celle que Taillefer, jongleur de l'armée de Guillaumele-Conquérant, chantait en marchant contre les Saxons :</p>
+        <p>Taillefer qui moult bien cantoit, Sur un ceval qui tost aloit Devant as s'en aloit cantant</p>
+        <p>De Carlemane et de Rolant, Et d'Olivier et des vassaus</p>
+        <p>Il a parfaitement démontré que cette chanson ne pouvait être les vers assez maussades que MM. de Tressan et Paulmy nous avaient cités</p>
+        <p>
+          <pb/>
+        </p>
+        <p>comme des fragmens de ce cantilène. Il a aussi écarté l'opinion émise par Shaaron Turner, l'abbé Prévost et M. Ellis, qui, au lieu de Rollan ont proposé de lire Rollon, que des chroniqueurs latins écrivent Rotholandus et Rollandus.</p>
+        <p>A propos des vers cités plus haut, M. de La Rue fait quelques observations que nous pensons devoir copier ici.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>» le courage d'une armée qui va combattre en » lui chantant la défaite du valeureux Rolland, » d'un aussi grand capitaine que Charlemagne? »</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Il est encore un monument dans lequel des traces de ces chants populaires sur Charlemagne et ses paladins peuvent être saisies; mais là nous</p>
+        <p>( 1) Avertissement, p. LXXII, LXXIII.</p>
+        <p>(a) Page 29 de la préface du roman de Berthe aus grans piés.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(l) Monumenta Germani", historica inde ab anno Christi quingentesimo usque ad annum millesimum et quingentesimum, etc., etc. j edidit G.-H. Pertz, Hanoverae, 1828, infolio, 2 vol.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(1) In praefatione hujus opusculi très tantum auctores me</p>
+        <p>
+          <pb/>
+        </p>
+        <p>secuturum spopondi; sed quia prsecipuus eorum Werimbertus septimo die de hac vita recessit et debemus hodie id est 3 die kal. julii commemorationem illius orbi (orbati) filii discipulique agerc, hic fiat terminus libelli istius qui ex sacerdotis ejusdem ore de religiositate et ecclesiastica domini Karoli cura processif. Sequens vero de bellicis rébus acerrimi Karoli ex narratione Adalberti, patris ej usdem Werimberti, cudatur, qui cum domino suo keroldo et Uunisco et Saxonico vel Sclavico bello interfuit et cum jam valde senior parvulum me nutriret, renitentem et saepius effugientem, vi tandem coaclum, de his instruere solebat. (Lib. ir, Pertz, Monum. Germ., t. II, p. 747.)</p>
+        <p>
+          <pb/>
+        </p>
+        <p>C'est en parlant des Siaves-Ohotrites, des Ve-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>nètes et Bohèmes, que l'auteur rapporte qu'un certain guerrier de l'armée de Cliarlemagne les fauchait comme un pré , et retournant chez lui vainqueur, suspendait leurs corps au bout de sa lance comme des oiseaux, et disaient en parlant d'eux : cc Que me font ces grenouilles? J'avais coutume d'en porter sept, huit et même neuf au bout de ma lance, murmurant je ne sais quoi.</p>
+        <p>Nous nous sommes, le roi Charles et moi, fatigués bien inutilement contre de pareilles vermines (1).</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(1) Audito autem adventu metuendi Karoli, ascenderunt in turrim eminentissimam, unde longe lateque prospicere venientem potuissent. Apparentibus vero impedimentis quae expeditiora Darii vel Julii fuissent expeditionibus, dixit Desiderius ad Otkerum : Est ne Karolus in tanto exercitu ? at ille respondit : Non adhuc. Videns vero exercitum popularium de latissimo imperio congregatum, diffinite pronuntiavit ad Otkerum : Vere in his copiis Karolus exultat. Respondit Otkerus : Set non adhuc, neque adhuc. Tune sestuare caepit et dicere : Quid faciemus, si plures cum eo venerint? dixit Otkerus : Videbis, qualis ille veniat; de nobis autem nescio quid fiât. Et ecce ista sermocinantibus apparuit scola, vocationis</p>
+        <p>
+          <pb/>
+        </p>
+        <p>semper ignara. Quam videns Desiderius, stupefactus : Ille est, inquit, Karolus. Et Otkerus : Non, infit, adhuc, neque adhuc.</p>
+        <p>Post hauc, cernuntur episcopi, abbates et clerici, capellani cum comitibus suis. Quibus aspectis, hœc vix egre jam lucis inimicus, mortisque desiderius singultando blateravit : Descendamus et abscondamur in terra a facie furoris adversarii tam immanis. Ad quæ retulit extimescens Otkerus, rerum et apparatus incomparabilis Karoli quondam expertus, et in meliori tempore assuetissimus : Quando videris, inquieus, segetem</p>
+        <p>
+          <pb/>
+        </p>
+        <p>quand il viendra ; mais j'ignore ce qu'il fera. Et tandis qu'il parlait s'avancent les jeunes guerriers du palais. Didier, surpris, s'écria : Voici Charles.</p>
+        <p>Non encore, non pas encore, fit Oger.</p>
+        <p>Et alors parurent les évêques, les abbés, les clercs du palais ; ce qu'ayant vu Didier, il regretta le jour, et demandant la mort, il sanglota en criant : Descendons! cachons-nous dans la terre pour éviter un pareil ennemi. Oger, qui connaissait la puissance de l'incomparable Charles, et l'avait vu de près en des temps meilleurs, répondit : Quand tu verras la moisson trembler</p>
+        <p>campis inhorrescere fet ream, Padumque et Ticinum marinis Jluctibus ferro nigrantibus muros civitatis incendentes, tune es spes Karoli venientis ! His ne dum finitis, primum ad occasum circio vel borea cœpit apparere quasi nubes tenebrosa quae diem clarissimam horrentes convertit in umbras. Sed propiante paululum imperatore, ex armorum splendore dies omni nocte tenebrosior oborta est incluais. Tune visus est ipse ferreus Karolus, ferrea galea cristatus, ferreis manicis armillatus, ferrea torace ferreum pectus humerosque platonicos tu-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>» Quelque temps après, on vit s'élever vers le nord comme un nuage sombre qui convertit en épaisses ténèbres la clarté du jour ; mais l'empereur approchant, une clarté plus terrible que la nuit sombre frappa les assiégés. Charles parut, ayant un casque de fer, des bracelets de fer, une cuirasse de fer, tenant en sa main gauche une lance de fer, car sa droite était toujours réservée pour son invincible épée; des lames de fer recou-</p>
+        <p>tatus, hasta ferrea in allum subrecta sinistram implelus j nam dextra ad invictum calibem semper erat extenta ; coxarum exteriora, quae propter faciliorem ascensum in aliis soIent lorica nudari, in eo ferreis ambiebantur bracteolis. De ocreis quid dicam ? Quae et cuncto exercitui solebant ferreae semper esse usui. la clipeo nihil apparuit nisi ferrum; caballus quoque illius animo et colore ferrum renitebat. Quem habitum cuncti præcedentes, universi ex laleribus ambientes , omnesque sequentes, et totus in commune apparatus, juxta possibili-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>la traduction d'un chant de guerre d'une terrible vérité.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>§ IL</p>
+        <p>Analyse du Poëme de Garin.</p>
+        <p>œ</p>
+        <p>omme les autres chansons de geste, celle-ci commence par un appel de l'au-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>A la vue des nombreuses troupes infidèles, les Gascons et Fromont, fils d'Hardrès , leur chef, quittent Garin ainsi que plusieurs barons, amis du vieil Hardrès. Garin, resté seul, aidé de son frère Bégon de Bélin, défait les Sarrasins ; mais le roi Thierry est blessé mortellement. Entouré de riches barons, il demande auquel d'entre eux il pourrait fiancer sa jeune fille Blanchefleur au</p>
+        <p>
+          <pb/>
+        </p>
+        <p>cler vis (au visage clair). Garin est choisi ; on le fait venir, et le roi donne sa fille et son royaume au chevalier. Celui-ci fait serment sur les reliques des saints de défendre la jeune fille, quand même il ne l'épouserait pas (i).</p>
+        <p>(i) Chanson première, couplet xxxv.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>le duché de Gascogne, vous m'avez promis l'héritage du premier fief de votre empire qui perdrait son seigueur. La Savoie a perdu son seigneur; je prétends tenir la Savoie. »</p>
+        <p>Furieux, Garin répond au chevalier par de dures paroles, et le combat s'engage entre eux (1).</p>
+        <p>Hardrès le vieil, qui sommeillait dans une chambre, est éveillé par les cris; il prend une épée, se mêle au combat et tue un grand nombre de chevaliers lorrains.</p>
+        <p>Cette querelle termine la première chanson de</p>
+        <p>(1) Fin de la première chanson.</p>
+        <p>(a) Chanson deuxième, couplets l, 11.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Malgré ses observations, le roi n'est pas (obéi, et c'est avec raison que dans la chanson suivante Jean de Flagy dit en commençant : cc Le roi est jeune, on ne l'écoute pas, on ne le prise vaillant un éperon ! » Et puis ce combat, livré dans le palais sans que Pépin ait le pouvoir de l'empêcher, prouverait seul que les mœurs peintes dans notre poëme, sont celles dn xe siècle, époque ou la féodalité plus puissante étouffait la royauté.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>( i ) Chanson deuxième , couplet vm.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>de cette même chanson nous voyons Garin se faire lire une lettre par son chapelain. Et, dit le poète,</p>
+        <p>» Le messager répond : Vous en avez menti. »</p>
+        <p>(i) Chauson deuxième, couplet xn.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Fromont l'entend et s'irrite ; il prend un couteau et va frapper au cœur le messager ; mais il le manq ue et lue un bachelier qui se trouvait là; saisissant une autre arme, il va recommencer, quand Isorès le retient et fait éloigner le malheureux vassal. »</p>
+        <p>Je vous le demande, cette scène ne nous peintelle pas le suzerain féodal du neuvième siècle dans toute son audace et sa barbarie.</p>
+        <p>Enfin, veut-on savoir comment ces barons agissaient entre eux, quand ils tombaient au pouvoir les uns des autres : la scène suivante va nous l'apprendre.</p>
+        <p>(I) Chanson deuxième, couplet xu.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Por néant l'avei dit.</p>
+        <p>Si je tenoie l'ung pié en Paradis Et l'autre avoie au chastel de Naisil, Je retrairoie celui de Paradis, Et le mettroie arrier dedans Naisil.</p>
+        <p>Le récit qui va suivre, et que nous allons traduire en entier, est sans contredit le plus beau passage de cette chanson , la plus longue des trois qui composent le poëme de Garin.</p>
+        <p>Garin conduisait avec lui Bégon de Belins, son</p>
+        <p>
+          <pb/>
+        </p>
+        <p>frère, le comte Hugues de Cambrais, Jocelin de Sallebruge, Girard et Hardoin de Luxembourg, Ouri de Cologne et le comte de Troies (i).</p>
+        <p>Fromont amenait aussi de nobles chevaliers : Pierre d'Artois, Dreux. d'Amiens, Anjorans de Coucy, Bernars de Nézil, Isorès-le-Gris, et plusieurs encore qu'il serait trop long d'énumérer.</p>
+        <p>En outre, ils avaient avec eux, sous la garde du seigneur Auberis, Blanchefleur au cler vis, la fiancée de Garin , la fille du roi Thierry de Savoie.</p>
+        <p>Arrivé non loin de Paris , Fromont rencontra son messager, et lui dit : « As-tu préparé mes logemens?</p>
+        <p>» Ah! sire duc, le Loherain Garin s'est emparé de la ville ; vous et votre compagnie n'y pouvez trouver une seule place. »</p>
+        <p>Quand le messager eut dit, Fromont repartit :</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Quand il fut là, il trouva l'abbé dans son cloître, et le salua comme le fait tout homme bien appris.</p>
+        <p>« Messager, qui es-tu? dit l'abbé.</p>
+        <p>» Il l'aura, » dit l'abbé.</p>
+        <p>Et aussitôt, faisant vider salles et granges, il prépara un logement pour huit mille chevaliers.</p>
+        <p>Fromont s'arrêta donc au monastère de SaintGermain-des-Prés, près Paris, chez son parent qui le reçut avec joie.</p>
+        <p>Blanchefleur, conduite par le duc Aubry, entra dans la ville. Elle avait une robe de soie , et</p>
+        <p>
+          <pb/>
+        </p>
+        <p>son palefroi, plus blanc qu!un lis, était couvert d'un riche caparaçon que n'auraient pas payé cent marcs parisis.</p>
+        <p>« Qu'elle soit la bienvenue, dit l'empereur;</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Adonc Hanris, archevêque de Rheims, parla en ces termes :</p>
+        <p>« Droit empereur, que dis-tu ? si Garin épouse Blanchefleur, la France y perdra : ni Fromont, ni ses parens, ni ses riches amis ne voudront te servir, si Garin épouse Blanchefleur : en vérité, je te le dis, jamais la guerre ne prendra fin.</p>
+        <p>» Que faire, dit l'empereur?</p>
+        <p>» Si vous l'épousiez, reprit l'archevêque, la guerre serait terminée : vous êtes jeune, la dame aussi; plus hautement vous ne pourriez choisir; elle est presque aussi riche que vous. »</p>
+        <p>
+          <pb/>
+        </p>
+        <p>» Eh bien ! reprit le roi, j'irai la voir ; si elle me sied, je l'épouserai. »</p>
+        <p>« Soyez la bienvenue,» dit l'empereur, et il la prit dans ses bras.</p>
+        <p>Quand il le vit, Pépin lui parla en ces termes : « Sire archevêque, je ne veux pas mentir : j'ai vu Blanchefleur au cler vis, et, par Dieu, j'en ai été surpris ; mes yeux n'ont rien vu de plus beau, et volontiers je la prendrais pour</p>
+        <p>
+          <pb/>
+        </p>
+        <p>L'archevêque dit : cc Par Dieu, j'en suis content, et j'ai mes quatre moines vieux et rusés qui sauront bien trouver la parenté. »</p>
+        <p>Le jour était venu, le soleil éclairait la ville, et toutes les cloches des églises appelaient les fidèles.</p>
+        <p>Épousez-la donc, beau neveu.</p>
+        <p>» - Par Dieu, merci, beau sire; je ne suis pas</p>
+        <p>
+          <pb/>
+        </p>
+        <p>venu ici pour me battre, mais pour faire la paix, si je puis. »</p>
+        <p>Alors arrivèrent Lohérain Garin, son frère Bégon, Ouri l'Allemand, Girars de Liège, Aubris le Bourguignon, et un grand nombre de chevaliers de prix ; enfin tout le lignage au Lohérain.</p>
+        <p>Fromont, voyant tous ces chevaliers, dit a Bernars : « Que faites-vous donc? Emparez-vous de Blanchefleur.</p>
+        <p>» - Non, reprit Bernars, car m'est avis que l'empereur veut s'en saisir. »</p>
+        <p>Et dit Fromont : « Nous ferons comme il vous plaira, et rien ne perdrez, si Dieu me prête vie. »</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Et le roi répondit : cc Ores, vous avez bien dit. »</p>
+        <p>On vit entrer fout le clergé, archevêques, évèques, au nombre de plus de quatre mille, qui venaient signer la paix.</p>
+        <p>» - Sire, merci, » répondit le duc; et il reçut Blanchefleur des mains de l'empereur.</p>
+        <p>Alors l'archevêque Hanris parla : « Or, écoutez, grands et petits : Voici le Lohérain Garin de Metz qui épouse Blanchefleur au cler vis, la fille du roi Thierry de Moriainne.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>du Lohérain Garin, était cousin germain du roi Thierry de Moriainne, à qui Dieu fasse paix. »</p>
+        <p>Et il l'eût achevé si on ne se fût empressé de relever le moine.</p>
+        <p>Pépin mécontent, lui dit : cc Sire vassal, vous me prisez bien peu, que vous battez ce moine devant moi.</p>
+        <p>» - Vous ne le ferez pas, sire baron, dit le roi; qu'on apporte ici les reliques, et que les témoins jurent dessus. « ., Les quatre moines s'étant avancés, jurèrent sur le corps de saint Rémy qu'ils avaient dit la vérité ; et on sépara Blanchefleur et Garin.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>La nouvelle se répandit bientôt dans le palais.</p>
+        <p>» Je le savais, répétait le comte Bernars; je savais qu'ils étaient parens et alliés. »</p>
+        <p>»–Je le ferai, dit Garin, mais il faut que Blanchefleur y consente. »</p>
+        <p>
+          <pb/>
+        </p>
+        <p>qui vous demande pour son frère Guillaume de Monclin. C'est un homme riche, puissant et entouré d'amis.</p>
+        <p>» Ce mariage est bien, dit Blanchefleur. Ce que vous me dites me plait, et j'écouterai votre conseil. »</p>
+        <p>lit l'archevêque s'est aperçu de ce qui se passe entre Garin et Fromont, et il en avertit Pépin : « Hàtez-vous, gentil empereur, car Blanchefleur va nous échapper.» Le roi l'écoute; il envoie Huon de Troies, Thierry et Amauri de Nevers chercher la demoiselle.</p>
+        <p>Et Blanchefleur se rendit volontiers auprès du roi, dans une chambre où il se trouvait, ayant avec lui dix chevaliers. Quand elle y fut, le roi lui dit : « Mademoiselle, pour remplacer l'amour de</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Garin, vous donnerai-je assez noble mari en me donnant moi-même.</p>
+        <p>» Sire, dit Blanchefleur, la vôtre grand merci ; si vous le voulez, cela me plaît. Veuillez prévenir le Lohérain Garin, Bégon son frère, et tous les chevaliers qui m'ont ici menée.</p>
+        <p>» Oui, » reprit le roi.</p>
+        <p>Et il fit appeler Lohérain et son frère.</p>
+        <p>Et dit Garin : « Vous nous avez bien servi, mais vous avez mauvaisement mérité; par mon vouloir, vous ne serez mari.</p>
+        <p>»– Fol Lohérain, s'écria Bégon en se levant; laisse aller Blanchefleur au cler vis; si tu veux une femme, je t'en trouverai dix. Tenez, dit-il, en présentant Blanchefleur au roi, que Dieu vous rende heureux. »</p>
+        <p>Et l'empereur épousa la jeune fille. Elle fut</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Fromont répondit : « C'est chose étrange que j'ai entendu : doit-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Bernard l'entend , il frémit de rage , saute de table et s'élance sur Garin ; il veut lui afracher la coupe d'or des mains , et lui répand tout le vin sur sa fourrure.</p>
+        <p>Garin lui dit : « Voulez-vous boire, sire Bernard, je vous donnerai de meilleur vin que celui-ci.</p>
+        <p>» Mauvais chevalier , reprend Bernard, il ne t'appartient pas de tenir la coupe d'or. Tu déshérites Fromont et ses amis; honte doit t'en advenir. »</p>
+        <p>Garin ne put souffrir un tel outrage ; mais levaut la coupe d'or, il en frappa Bernard au visage et lui enleva le sourcil; le sang coula. Aussitôt s'élancèrent les chevaliers des deux partis et l'on commença à se donner de rudes coups.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« Pouvez-vous souffrir que ces chevaliers se battent ainsi ? eux qui vous ont toujours bien servi; si vous n'empêchez cela, vous êtes indigne de régner. »</p>
+        <p>Cependant les chevaliers se battaient toujours.</p>
+        <p>Bégon était aux cuisines; il ordonnait le repas.</p>
+        <p>On vient lui annoncer que Garin se bat et que les amis de Fromont le serrent de près. Furieux , il appelle le chef cuisinier.</p>
+        <p>« Tu es mon homme et tu dois me servir, je te sqmme de venir avec moi, toi et tous tes garçonnets que je vois ici. Prends garde, je verrai comment tu sais frapper. »</p>
+        <p>Alors, saisissant broches et crochets, tous ils s'élancent.</p>
+        <p>Cependant le roi commande aux Français de s'armer, de fermer les portes et d'arrêter tous ces mutins bordelais ; et en même temps arrive avec tous ses cuisiniers, au nombre de plus de soixantesix , Bégon armé d'un grand crochet. Il tombe</p>
+        <p>
+          <pb/>
+        </p>
+        <p>sur Isorès qui tenait Aubris, et lui perce le cou.</p>
+        <p>Enfin, les Gascons vaincus sont obligés de fuir.</p>
+        <p>Fromont, Beaudoin, Lancelin de Verdun, Guillaume de Moncliin , Isorcs-le-Gris , arrêtés nux portes du palais, sont mis en prison (i).</p>
+        <p>Quand ils se virent tous en chartre , les barons furent bien empêchés.</p>
+        <p>« Hélas ! dit Fromont, que pourrai-je devenir?</p>
+        <p>Sortirons-nous jamais d'ici? Nous sommes tous morts, je n'en puis douter.</p>
+        <p>« Tais-toi, dit Bernard de Nézil, si je puis parler au roi Pépin, nous serons bientôt dehors. »</p>
+        <p>« Comment cela? dit Isorès.</p>
+        <p>» Vous le saurez , reprit Bernard , je dirai au roi de Saint-Denis que, parce qu'il a épousé Blanchefleur, le Lohérain veut le tuer; je dirai que Fromont était convenu de recevoir Blanche-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Alors une lutte sanglante a lieu entre Bégon et Isorès-le-Gris ; déjà ces deux chevaliers ressentaient l'un pour l'autre une haine terrible ; aussi le combat est affreux, sa fin atroce. Elle rappelle la sauvagerie des duels germaniques. Suivant nous c'est, dans tout le roman, le trait le plus barbare et qui sente le mieux la férocité des héros Scandinaves.</p>
+        <p>(i) Couplet xxn.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(2) Couplet xxx.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(2) Couplet XXXI".</p>
+        <p>
+          <pb/>
+        </p>
+        <p>» - Tais-toi, folle garce, dit Bernard de Naisil, le roi était fou quand il t'épousa; peu d'honneur doit lui en ad venir ( i ). »</p>
+        <p>«- Vous en avez menti, voleur et parjure que vous êtes; jamais on ne devrait vous recevoir en haute cour, l'empereur devrait vous en chasser. »</p>
+        <p>Ayant dit, Blanchefleur se sauva dans sa chambre en pleurant.</p>
+        <p>Garin , voyant le duc Bernard présent, saisit une table, et la jetant à la tête de son ennemi, il lui cassa quatre dents. Il l'eût tué , mais l'empereur s'y opposa. Alors , Garin réunit tous les vassaux de la couronne, et l'empereur, avec toute son armée , l'oriflamme en tête, marcha au secours de Bégon.</p>
+        <p>(1) Couplet xxxv.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Les Bordelais, qui assiégeaient Bélin, n'eurent pas plutôt aperçu la bannière de France qu'ils s'enfuirent, et le-Lohérain fut délivré.</p>
+        <p>Mais Bernard est venu vers Fromont, la tête enveloppée de sa cape ; il se présente au comte qui lui demande ce qu'il a. Il dit alors son aventure et montre son visage tout enflé.</p>
+        <p>te Pardieu , s'écrie brutalement Fromont, il a bien agi. Nous étions les amis de Garin; la paix.</p>
+        <p>était faite , et maintenant. il nous faut combattre de nouveau. »</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Haïmes l'entend et n'ose lui répondre un mot (i).</p>
+        <p>Mais la guerre tourne assez mal aux Bordelais.</p>
+        <p>Mais ce sont des luttes sanglantes qui commencent par le combat de deux chevaliers et finissent par un engagement entre les deux partis. Enfin, après</p>
+        <p>(i) Couplet xxxv.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Avant de terminer cette analyse par une traduction littérale des principales scènes de la troisième et dernière chanson de Garin, nous croyons devoir examiner le caractère de quelques-uns des personnages du poëme.</p>
+        <p>L'auteur, on le voit, a voulu nous peindre le</p>
+        <p>
+          <pb/>
+        </p>
+        <p>seigneur féodal accomplissant tous ses devoirs.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>N'est pas richesse ne de vair ne de gris, Li cuers d'un homme vaut tout l'or d'un pays (i).</p>
+        <p>Et par une contradiction que l'emportement de la guerre et la fureur du combat peuvent seuls expliquer, c'est Bégon que nous avons vu plus haut tuer son ennemi, lui arracher le cœur et le jeter au nez de son parent. On pourra juger mieux cf caractère après avoir lu la dernière partie du poëme dont nous donnons plus bas la traduction.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>» - J'en connais un bon, reprit le duc Hervis, et je vous l'amènerai. »</p>
+        <p>» Dieu vous bénisse, reprit Galopin ; venez vous asseoir, et tirons à qui paiera le vin?</p>
+        <p>
+          <pb/>
+        </p>
+        <p>» - Je ne viens pas pour cela; Bègues ton cousin te demande : il est ton parent, il ne faut pas lui manquer.</p>
+        <p>Menuel dit ; a Faites-moi raison de ce vin , ou autrement je ne sors pas d'ici.</p>
+        <p>» Volontiers, » reprit le comte.</p>
+        <p>Et appelant le tavernier : « Je vous rendrai deux sous poitevins.</p>
+        <p>Henri conduisit Menuel Galopin au palais.</p>
+        <p>Bégon lui dit : « D'où es-tu, mon bel ami?</p>
+        <p>» De Clermont, sire, et je m'appelle Galo-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>pin. Le preux comte Jocelins est mon frère; je suis aîné, mais il me va ainsi.</p>
+        <p>» Certes il m'en pèse, reprit Bégon, je reconnais quç tu es mon cousin : si tu veux quitter toutes tes folies, je te ferai chevalier tout à l'heure, et je partagerai l'Auvergne entre toi et ton frère. »</p>
+        <p>Menuel entend cela, pousse un rire, et dit : te Pour rien avez parlé ; j'aime mieux avoir taverne et jeunes filles qu'un comté; mais donnezmoi vos ordres ou je m'en retourne boire.</p>
+        <p>M Non ferez, ami, dit Bègues. Mes vassaux m'ont attaqué, et je suis assiégé par eux.</p>
+        <p>» Ce sont des traîtres que Dieu puisse maudire, » reprit Galopin.</p>
+        <p>Cette scène est remarquable non-seulement pour la variété plaisante de sa composition, mais encore par les traits de mœurs qu'elle nous ré-</p>
+        <p>(1) T. II, p. 99, couplet xxxv.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Fromondin, tout prêt, saute de terre sans toucher l'étrier; puis caracolant, il vient heurter Bernars qui manque de tomber : « Sire vieillard, lui crie-t-il en riant, vous serez des miens, je vous prie. »</p>
+        <p>Et Naisil répond : tf Sire, votre merci. »</p>
+        <p>Puis entrant dans le verger, ils s'assirent au manger (i).</p>
+        <p>L'autre scène a lieu dans le camp ennemi, c'est-à-dire dans celui de l'empereur Pépin et de Bégon de Bélin. Ce dernier rencontre Rigaud, fils d'Hervi, auquel il fit présent d'un cheval.</p>
+        <p>« Sire Rigaud, lui dit-il, je vous ai bien tenu promesse.</p>
+        <p>» Non pas, sire ; car outre le cheval de prix, vous me dites devant plus de mille témoins que je serais chevalier.</p>
+        <p>(i) T. II, p. 143, couplet xxxv.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>» Vous le serez, reprit le Lohérain. Allezvous-en un peu baigner, et tôt après vous aurez et le vair et le gris. »</p>
+        <p>Mais Rigaud lui répond : « Au diable et votre vair et votre gris! Je n'ai que faire de me baigner, je ne suis tombé dans aucun fossé, et mon père a plus d'étoffe qu'il ne nous en faut.</p>
+        <p>» Comme tu voudras, » dit le duc.</p>
+        <p>Alors on revêt Rigaud d'un riche manteau garni de fourrures qui traîne un demi-pied derrière lui. Rigaud le voit, il se fâche, et, saisissant le couteau d'un damoisel, il en coupe un grand pied et demi qu'il jette au milieu des serviteurs.</p>
+        <p>« Pourquoi fais-tu cela? lui demande son père.</p>
+        <p>Il est d'usage qu'un nouveau chevalier le porte ainsi.</p>
+        <p>» C'est une mauvaise coutume, dit Rigaud comme je suis, je me lève; je cours, je saute mieux.</p>
+        <p>» Il a raison, » dit le roi.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(i) T. Il, p. i8o, 181 , couplet xxxvu.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>vous avez de l'or en vos écrins. Vous avez des fourrures, des faucons sur les perches, des mulets , des palefrois, des roucins, et vous avez foulé vos ennemis. Pas un vassal, si vous le demandez , ne refusera de marcher pour vous servir. »</p>
+        <p>Le duc répond : « Dame, vous avez dit la vérité, excepté sur un point. Ni l'or, ni les fourrures, ni les palefrois, ne font la richesse; ce sont les parens et les amis.</p>
+        <p>Le cœur d'un homme vaut tout l'or d'un pays.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Mais Bègues n'écoute pas les pressentimens de Béatrix. et il ordonne son départ pour le lendemain.</p>
+        <p>Après avoir embrassé sa femme, le duc s'équipe en guerre, et emmène avec lui trente-six chevaliers tous habiles chasseurs, dix meutes de chiens et quinze valets pour les conduire.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>» Sire , répondit Bègues, je ne vous veux mentir, le Lohérain est mon frère. Je suis d'un pays éloigné dont l'empereur m'a confié la garde.</p>
+        <p>Depuis le grand siège de Bordeaux, je n'ai pas vu mon frère, et je viens pour cela.</p>
+        <p>) - C'est toi qui as tué Baudouin, dit l'hôte.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>» Je sais bien où il gît, dit l'bôte ; je vous conduirai demain jusqu'à sa retraite. »</p>
+        <p>Le lendemain le chambellan vint au lit de Bègues et l'habilla. Il lui mit une cotte de chasse, de hautes bottes et des éperons. Puis le duc monta un cheval de chasse que l'empereur Pépin lui avait donné; et le cor d'ivoire au col, l'épée au poing, il s'élança dans la forêt.</p>
+        <p>Bégon a tant suivi les chiens, qu'il se trouve seul avec eux, en face du sanglier. La bête sent bien qu'elle ne pourra durer. Aussi s'appuyant à un chêne, elle boit dans l'eau qui coulait au</p>
+        <p>
+          <pb/>
+        </p>
+        <p>pied, et veut se reposer. Tous les bons chiens l'environnent. Le sanglier les voit, il lève ses sourcils, roule ses yeux, heurte ses dents, et tombant sur eux, il les tue ou blesse presque tous.</p>
+        <p>Le duc le voit, il s'est écrié : « Ah ! fils de truie, combien tu m'as donné de peine : j'en ai perdu tous mes compagnons. »</p>
+        <p>Alors la nuit vient. L'obscurité est grande, et le duc n'apercevait autour de lui ni château, ni cité, ni bourg, ni village, ni fermes. Il ne connaît personne en ce pays : il n'avait pour compagnon que Beaucent, son destrier. Il le plaint, et dit : « Beaucent, je dois bien vous aimer, car vous avez gardé mon corps de maint péril. Ah ! que</p>
+        <p>
+          <pb/>
+        </p>
+        <p>u'ai-je blé ou avoine, je vous la donnerais! A mon retour au château de Bélin, je vous récompenserai. »</p>
+        <p>Le duc alluma un grand feu; puis saisissant son cor, il le fit sonner deqx fois avec force pour appeler les siens.</p>
+        <p>« Seigneurs, leur crie Bègues, portez-moi</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Les forestiers n'écoutent pas Bègues ; leur chef ose même s'approcher de lui et prendre son cor.</p>
+        <p>Les forestiers attaquent Bégon tous ensemble.</p>
+        <p>Le duc se défend et en abat trois d'entre eux.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>frère, mon corps ne défendra plus le tien. Mes deux enfans, les fils de ma femme, si j'eusse vécu vous eussiez été chevaliers. Que Dieu du ciel soit votre père ! »</p>
+        <p>Il le regarde, le retourne : « Cela est beau, dit-il; ni garçons ni braconniers n'ont possédé cet olifant. »</p>
+        <p>Et ayant appris qu'on avait laissé le corps du chasseur dans la forêt : « C'est un chrétien , dit-il, nous devons l'en-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>terrer, qu'on l'apporte ici. Demain nous ferons ses funérailles. »</p>
+        <p>Les chiens ne quittèrent pas leur maître, et marchèrent après lui en poussant des cris affreux.</p>
+        <p>Barons et chevaliers vont voir le corps du marquis : « Dieu! dit chacun, comme il est grand; les garçons l'ont tué, mal ont fait; il était gentilhomme : ses chiens l'aimaient beaucoup. »</p>
+        <p>Fromont a entendu tout cela. Il vient droit au corps, regarde devant, derrière. Il l'avait vu vivant : il le reconnut mort ; car il portait au visage la marque d'une blessure que lui-même avait faite au marquis.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>.,.</p>
+        <p>Le lendemain il fallut enterrer le marquis. On lava son corps avec de l'eau et du vin. Fromont lui-même y mit les mains. On l'enveloppa dans un drap de samis cousu avec de la soie, puis on le recouvrit d'un cuir de cerf. Le corps ainsi enseveli, on le plaça dans une bière; trente cierges furent allumés autour, et Fromont veilla au chevet.</p>
+        <p>On a mandé le bon abbé Lietris , neveu de Garin de Lorraine ; il vient accompagné de trente-six chevaliers et de quinze moines. Il dit à Fromont : cc Sire, vous m'avez demandé ? Quel est cet homme qui gitlà, en bière? Est-il malade, ou navré, ou mort? »</p>
+        <p>Et Fromont dit : « Je ne vous veux mentir, c'est le comte Bègues du château de Bélin ; mes garçons l'ont tué dans le bois pour un sanglier qu'il avait abattu. Il L'abbé l'entend , il frémit.</p>
+        <p>« Qu'est-ce diable, Fromont, que tu as dit ?</p>
+        <p>mais Bègues de Bélin , mon oncle , est duc. Par</p>
+        <p>
+          <pb/>
+        </p>
+        <p>le saint Dieu, tu l'as fait tuer. Oh! c'est alors que vous allez me voir quitter l'église, c'est alors que vous allez me voir revêtir le blanc haubert ; j'appellerai tous mes amis et nous vous ferons mourir de mort honteuse.» Fromont l'écoute et il a peur ; il tremble, tout son sang noircit.</p>
+        <p>» - Vous faites bien, » dit l'abbé; et il emmena le corps du marquis.</p>
+        <p>On n'écouta pas les propositions de Fromont ; la guerre va recommencer ; mais ici finit le poëme de Garin-le-Lohérain.</p>
+        <p>Plusieurs fois, nous avons fait observer que les mœurs peintes en ce roman étaient celles du dixième siècle , nous espérons même en avoir donné quelques preuves. Quant au langage, il ne</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le texte nous a paru d'une correction parfaite, et il était d'autant plus difficile d'obtenir cette correction , que les manuscrits originaux sont nombreux et offrent tous une variété de leçons qui demande une science profonde , un tact délicat dans celui qui entreprend de choisir au milieu d'elles ; et cependant M. Paris a préféré cette méthode à celle adoptée par quelques archéologues, de suivre un texte et de placer aux notes les va-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>FIN.</p>
+      </div>
     </body>
   </text>
 </TEI>

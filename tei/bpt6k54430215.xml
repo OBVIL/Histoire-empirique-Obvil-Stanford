@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
- <teiHeader>
-<fileDesc>
-<titleStmt>
-<author key="Gosse, Edmund (1849-1928)">Edmund Gosse</author>
-<title>Influence de la France sur la poésie anglaise, conférence faite le 9 février 1904, à Paris, sur l'invitation de la Société des conférences, traduite par Henry-D. Davray</title>
-</titleStmt>
-<editionStmt>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Influence de la France sur la poésie anglaise, conférence faite le 9 février 1904, à Paris, sur l'invitation de la Société des conférences, traduite par Henry-D. Davray</title>
+        <author key="Gosse, Edmund (1849-1928)">Edmund Gosse</author>
+      </titleStmt>
+      <editionStmt>
         <edition>OBVIL/BNF</edition>
         <respStmt>
           <resp>reprise des textes</resp>
           <name>Amélie Canu</name>
         </respStmt>
       </editionStmt>
-<publicationStmt>
+      <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
         <availability status="restricted">
@@ -22,195 +22,192 @@
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
-<sourceDesc>
-<bibl>
-<author>Gosse, Edmund (1849-1928)</author>, <title>Influence de la France sur la poésie anglaise, conférence faite le 9 février 1904, à Paris, sur l'invitation de la Société des conférences, traduite par Henry-D. Davray</title>, <date>1904</date>,description :,36 pages
-</bibl>
-<publisher>Société du "Mercure de France" (Paris)</publisher>
-<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k54430215</idno>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1904">1904</date>
-</creation>
-<langUsage>
-<language ident="fr"/>
-</langUsage>
-</profileDesc>
- </teiHeader>
+      <sourceDesc>
+        <bibl> <author>Gosse, Edmund (1849-1928)</author>, <title>Influence de la France sur la poésie anglaise, conférence faite le 9 février 1904, à Paris, sur l'invitation de la Société des conférences, traduite par Henry-D. Davray</title>, <date>1904</date>,description :,36 pages </bibl>
+        <publisher>Société du “Mercure de France” (Paris)</publisher>
+        <idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k54430215</idno>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1904">1904</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-    <div>
-<p><pb/>
-------------------------------------------------------------------------
-------------------------------------------------------------------------</p>
-<p>EDMUND GOSSE</p>
-<p>L'Influence de la France</p>
-<p>sur la Poésie anglaise</p>
-<p>1 CONFÉRENCE FAITE LE 9 FEVRIER igo4, A PARIS</p>
-<p>SUR L'INVITATION DE LA SOCIÉTÉ DES CONFÉRENCES</p>
-<p>TRADUITE PAU</p>
-<p>HENRY-D. DAVRAY</p>
-<p>PARIS</p>
-<p>SOCIÉTÉ DV MERCV.RE DE FRANGE</p>
-<p>XXVI, R V E DE GONDÉ, XXVI</p>
-<p>M G M I V</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>Mesdames, Messieurs.</p>
-<p><pb/></p>
-<p>— 4 -</p>
-<p><pb/></p>
-<p>— 5 — '</p>
-<p>Quelques mots définiront ici ce que j'entends par « substance » et par «
-couleur ». Par le premier de ces termes, je désire indiquer Jes cas dans
-lesquels l'influence revêt une forme grossière et 1 servile, dans
-lesquels il y eut un abandon plus ou moins complet de l'individualité de
-la littérature influencée. Un exemple de ceci est la servitude absolue
-dans laquelle le drame espagnol se trouvait vis-à-vis du drame français
-au xvin" siècle, alors qu'une pièce n'avait aucune chance de succès, à
-Madrid, si elle n'était pas directement façonnée</p>
-<p><pb/></p>
-<p>— 6 —</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>— 8 —</p>
-<p><pb/></p>
-<p>— 9 —</p>
-<p>que l'oeuvre lui était familière dans son entier.</p>
-<p><pb/></p>
-<p>Pour un poète qui eut le privilège de subir Pau-</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>— i3 —</p>
-<p><pb/></p>
-<p>- i4 —</p>
-<p><pb/></p>
-<p>— i5 —</p>
-<p><pb/></p>
-<p>— i6 —</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>— 18 —</p>
-<p>admirateurs de i65o,un très grand poète qu'il était distingué d'imiter.</p>
-<p><pb/></p>
-<p>— i9 —</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Cette mauvaise traduction, qui n'eut aucun succès, satisfit la curiosité
-anglaise. D'un autre côté, les Horaces furent grands favoris en
-Angleterre, et ils avaient été traduits soigneusement en vers par trois
-ou quatre poètes. Quelques strophes de John Denham, accompagnant la
-version faite vers 1660 par l'Incomparable Orinda, ont un intérêt
-particulier pour nous. Denham (qui était, rappelons-le, le Racan du
-mouvement classique en Angleterre) dit des Horaces :</p>
-<p>This martial story, which through France did corne, And there was
-wrought on great Comeille's loora, Orinda's matchless muse to Britain
-brougkt, And foreign verse our English accents taught (1).</p>
-<p><pb/></p>
-<p>La « substance » de Molière, d'un autre côté, n'offrait aucune
-difficulté technique. Le nombre est extraordinaire des pièces de Molière
-qui furent imitées ou adaptées pour la scène anglaise, du</p>
-<p><pb/></p>
-<p>— 23 —</p>
-<p>La poésie française pendant le troisième quart du xvne siècle est
-éminemment caractéristique d'un système de société grave et policée.
-L'époque de Racine fut, et ne pouvait qu'être, une époque d'extrême
-raffinement. Il était mutile pour les dramaturges londonniens de prendre
-la « substance » des chefs-d'oeuvre parisiens, puis quel'esprildeces
-chefsd'oeuvre leur échappait absolument. La société anglaise sous
-Charles II avait des éléments de force et de curiosité intellectuelle,
-mais il lui manquait précisément ce que possédait Paris, l'ornement d'un
-goût poli, simple et pur. Dans le jargon du temps, Racine et Molière
-étaient corrects, alors que même des poètes anglais de génie, tels que
-Dryden et Otway, ignoraient ce qu'était la « correction». C'est pour
-cela que Boileau, qui fit de la « correction » une doctrine, ne
-produisit aucune impression sur la poésie anglaise de son temps. Il ne
-pouvait avoir d'action sur la pensée sociale anglaise tant que
-l'Angleterre resterait barbare et par conséquent ce</p>
-<p><pb/></p>
-<p>-24 -</p>
-<p>n'est pas avant la période de la reine Anne que la puissante influence
-de Boileau, comme une odeur pénétrante, est ressentie dans la poésie
-anglaise, et par-dessus tout dans les vers de Pope. Ce grand poète, dans
-la Première Epître du Second Livre, publiée en 1787, passe en revue la
-littérature des dernières soixante-dix années en des vers d'une force et
-d'une concision extraordinaires :</p>
-<p>We conquered France, but felt our captive's charms ;</p>
-<p>Her arts victorious triumph'd o'er our arms :</p>
-<p>Britain to soft refinements less a foe, •</p>
-<p>Wit grew polite, and numbers learned (o flow ;</p>
-<p>Waller was smoolh; but Dryden taught to join</p>
-<p>The varying verse,the full-resounding line,</p>
-<p>The long majestic march and energy divine.</p>
-<p>Though still some traces of our rustic vein</p>
-<p>And splay-foot verse remained, and will remain.</p>
-<p>Late, very late, correctness grew our care,</p>
-<p>When the tired nation breath'd from civil war.</p>
-<p>Exact Racine and Corneille's noble fire,</p>
-<p>Showed us that France had something to admire.</p>
-<p>Not but the tragic spirit was our own,</p>
-<p>And full in Shakespeare, fair in Otway shown.</p>
-<p>But Otway failed to polish or refine,</p>
-<p>And Huent Shakespeare scarce effaced a line (1).</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>— 26 —</p>
-<p><pb/></p>
-<p>— 27 —</p>
-<p><pb/></p>
-<p>— 28 —</p>
-<p>Mais le groupe des poètes français, si solennels et si mortellement
-ennuyeux, qui formaient la cour de Delille après la Révolution
-française, étaient, en fait, les disciples de la poésie de Thomson
-autant qu'en théorie ils étaient les élèves de la prose de Buffon.</p>
-<p><pb/></p>
-<p>— 2g —</p>
-<p>By rose-hung river and light-foot rill There are who rest not, who think
-long</p>
-<p>Till they discern as from a hill</p>
-<p>At the sun's hour of morning song,</p>
-<p>Known of soûls only, and those soûls free, The sacred spaces of the sea
-(1).</p>
-<p><pb/></p>
-<p>— 3o —</p>
-<p>pittoresques et sévères, s'achevant dans une attaque contre l'impeccable
-Boileau, lui-môme, décrit les pratiques des écrivains anglais gallicisés :</p>
-<p>A schism, Nurtured by foppery and barbarism, Made great Apollo blush for
-this his land. Men were thoughtwise who could not undersland His glories
-: with a pulinginfant's force, They swayed about upon a rockiog-horse,
-And thoughtit Pegasus...</p>
-<p>111-fated, impious race ! ïhat blasphemed the bright Lyrist to lus face,
-And did not know it, — no, they went about, Holding a poor, décrépit
-standard out Mark'd with mostflimsy moltos, and in large The name of one
-Boileau (i).</p>
-<p>man(i) schisme, nourri de frivolités et de barbarismes, fit rougir ie
-grand Apollon pour ce pays qui est sien. On crut sages des hommes qui ne
-comprenaient pas ses gloires : avec l'énergie d'un enfant piauleur, ils
-se balançaient sur un cheval de bois qu'ils prenaient pour Pégase...
-Race malheureuse et impie qui blasphémait en pleine face le brillant
-lyriste et ne le savaient pas, — non, ils allaient, brandissant un
-pauvre étendard décrépit, brodé des plus insignifiantes devises, et, en
-grands caractères, le nom d'un certain Boileau.</p>
-<p><pb/></p>
-<p>— 3i —</p>
-<p>Thou art chief of us, and lord ;</p>
-<p>Thy song is as a sword Keen-edged and scented in the blade from flowers ;</p>
-<p>Thou art lord and king ; but we</p>
-<p>Lift younger eyes, and see Less of high hope, less light on wandering
-hours (1).</p>
-<p><pb/></p>
-<p>— 3a -</p>
-<p>laume de Machault et chez Eustache Deschamps.</p>
-<p>FIN</p>
-<p>Poitiers. — Imp. Biais et Itoy, 7, rue Victor-Hugo, 7.</p>
-    </div>
+      <div>
+        <p><pb/> ------------------------------------------------------------------------ ------------------------------------------------------------------------</p>
+        <p>EDMUND GOSSE</p>
+        <p>L'Influence de la France</p>
+        <p>sur la Poésie anglaise</p>
+        <p>1 CONFÉRENCE FAITE LE 9 FEVRIER igo4, A PARIS</p>
+        <p>SUR L'INVITATION DE LA SOCIÉTÉ DES CONFÉRENCES</p>
+        <p>TRADUITE PAU</p>
+        <p>HENRY-D. DAVRAY</p>
+        <p>PARIS</p>
+        <p>SOCIÉTÉ DV MERCV.RE DE FRANGE</p>
+        <p>XXVI, R V E DE GONDÉ, XXVI</p>
+        <p>M G M I V</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>Mesdames, Messieurs.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 4 -</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 5 — '</p>
+        <p>Quelques mots définiront ici ce que j'entends par « substance » et par « couleur ». Par le premier de ces termes, je désire indiquer Jes cas dans lesquels l'influence revêt une forme grossière et 1 servile, dans lesquels il y eut un abandon plus ou moins complet de l'individualité de la littérature influencée. Un exemple de ceci est la servitude absolue dans laquelle le drame espagnol se trouvait vis-à-vis du drame français au xvin" siècle, alors qu'une pièce n'avait aucune chance de succès, à Madrid, si elle n'était pas directement façonnée</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 6 —</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 8 —</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 9 —</p>
+        <p>que l'oeuvre lui était familière dans son entier.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Pour un poète qui eut le privilège de subir Pau-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>— i3 —</p>
+        <p>
+          <pb/>
+        </p>
+        <p>- i4 —</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— i5 —</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— i6 —</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 18 —</p>
+        <p>admirateurs de i65o,un très grand poète qu'il était distingué d'imiter.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— i9 —</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Cette mauvaise traduction, qui n'eut aucun succès, satisfit la curiosité anglaise. D'un autre côté, les Horaces furent grands favoris en Angleterre, et ils avaient été traduits soigneusement en vers par trois ou quatre poètes. Quelques strophes de John Denham, accompagnant la version faite vers 1660 par l'Incomparable Orinda, ont un intérêt particulier pour nous. Denham (qui était, rappelons-le, le Racan du mouvement classique en Angleterre) dit des Horaces :</p>
+        <p>This martial story, which through France did corne, And there was wrought on great Comeille's loora, Orinda's matchless muse to Britain brougkt, And foreign verse our English accents taught (1).</p>
+        <p>
+          <pb/>
+        </p>
+        <p>La « substance » de Molière, d'un autre côté, n'offrait aucune difficulté technique. Le nombre est extraordinaire des pièces de Molière qui furent imitées ou adaptées pour la scène anglaise, du</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 23 —</p>
+        <p>La poésie française pendant le troisième quart du xvne siècle est éminemment caractéristique d'un système de société grave et policée. L'époque de Racine fut, et ne pouvait qu'être, une époque d'extrême raffinement. Il était mutile pour les dramaturges londonniens de prendre la « substance » des chefs-d'oeuvre parisiens, puis quel'esprildeces chefsd'oeuvre leur échappait absolument. La société anglaise sous Charles II avait des éléments de force et de curiosité intellectuelle, mais il lui manquait précisément ce que possédait Paris, l'ornement d'un goût poli, simple et pur. Dans le jargon du temps, Racine et Molière étaient corrects, alors que même des poètes anglais de génie, tels que Dryden et Otway, ignoraient ce qu'était la « correction». C'est pour cela que Boileau, qui fit de la « correction » une doctrine, ne produisit aucune impression sur la poésie anglaise de son temps. Il ne pouvait avoir d'action sur la pensée sociale anglaise tant que l'Angleterre resterait barbare et par conséquent ce</p>
+        <p>
+          <pb/>
+        </p>
+        <p>-24 -</p>
+        <p>n'est pas avant la période de la reine Anne que la puissante influence de Boileau, comme une odeur pénétrante, est ressentie dans la poésie anglaise, et par-dessus tout dans les vers de Pope. Ce grand poète, dans la Première Epître du Second Livre, publiée en 1787, passe en revue la littérature des dernières soixante-dix années en des vers d'une force et d'une concision extraordinaires :</p>
+        <p>We conquered France, but felt our captive's charms ;</p>
+        <p>Her arts victorious triumph'd o'er our arms :</p>
+        <p>Britain to soft refinements less a foe, •</p>
+        <p>Wit grew polite, and numbers learned (o flow ;</p>
+        <p>Waller was smoolh; but Dryden taught to join</p>
+        <p>The varying verse,the full-resounding line,</p>
+        <p>The long majestic march and energy divine.</p>
+        <p>Though still some traces of our rustic vein</p>
+        <p>And splay-foot verse remained, and will remain.</p>
+        <p>Late, very late, correctness grew our care,</p>
+        <p>When the tired nation breath'd from civil war.</p>
+        <p>Exact Racine and Corneille's noble fire,</p>
+        <p>Showed us that France had something to admire.</p>
+        <p>Not but the tragic spirit was our own,</p>
+        <p>And full in Shakespeare, fair in Otway shown.</p>
+        <p>But Otway failed to polish or refine,</p>
+        <p>And Huent Shakespeare scarce effaced a line (1).</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 26 —</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 27 —</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 28 —</p>
+        <p>Mais le groupe des poètes français, si solennels et si mortellement ennuyeux, qui formaient la cour de Delille après la Révolution française, étaient, en fait, les disciples de la poésie de Thomson autant qu'en théorie ils étaient les élèves de la prose de Buffon.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 2g —</p>
+        <p>By rose-hung river and light-foot rill There are who rest not, who think long</p>
+        <p>Till they discern as from a hill</p>
+        <p>At the sun's hour of morning song,</p>
+        <p>Known of soûls only, and those soûls free, The sacred spaces of the sea (1).</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 3o —</p>
+        <p>pittoresques et sévères, s'achevant dans une attaque contre l'impeccable Boileau, lui-môme, décrit les pratiques des écrivains anglais gallicisés :</p>
+        <p>A schism, Nurtured by foppery and barbarism, Made great Apollo blush for this his land. Men were thoughtwise who could not undersland His glories : with a pulinginfant's force, They swayed about upon a rockiog-horse, And thoughtit Pegasus...</p>
+        <p>111-fated, impious race ! ïhat blasphemed the bright Lyrist to lus face, And did not know it, — no, they went about, Holding a poor, décrépit standard out Mark'd with mostflimsy moltos, and in large The name of one Boileau (i).</p>
+        <p>man(i) schisme, nourri de frivolités et de barbarismes, fit rougir ie grand Apollon pour ce pays qui est sien. On crut sages des hommes qui ne comprenaient pas ses gloires : avec l'énergie d'un enfant piauleur, ils se balançaient sur un cheval de bois qu'ils prenaient pour Pégase... Race malheureuse et impie qui blasphémait en pleine face le brillant lyriste et ne le savaient pas, — non, ils allaient, brandissant un pauvre étendard décrépit, brodé des plus insignifiantes devises, et, en grands caractères, le nom d'un certain Boileau.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 3i —</p>
+        <p>Thou art chief of us, and lord ;</p>
+        <p>Thy song is as a sword Keen-edged and scented in the blade from flowers ;</p>
+        <p>Thou art lord and king ; but we</p>
+        <p>Lift younger eyes, and see Less of high hope, less light on wandering hours (1).</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— 3a -</p>
+        <p>laume de Machault et chez Eustache Deschamps.</p>
+        <p>FIN</p>
+        <p>Poitiers. — Imp. Biais et Itoy, 7, rue Victor-Hugo, 7.</p>
+      </div>
     </body>
   </text>
 </TEI>

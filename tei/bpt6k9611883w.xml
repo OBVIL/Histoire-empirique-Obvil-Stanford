@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
- <teiHeader>
-<fileDesc>
-<titleStmt>
-<author key="Pontmartin, Armand de (1811-1890)">Armand de Pontmartin</author>
-<title>Les Semaines littéraires, 3e série des "Causeries littéraires", par Armand de Pontmartin</title>
-</titleStmt>
-<editionStmt>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author key="Pontmartin, Armand de (1811-1890)">Armand de Pontmartin</author>
+        <title>Les Semaines littéraires, 3e série des “Causeries littéraires”, par Armand de Pontmartin</title>
+      </titleStmt>
+      <editionStmt>
         <edition>OBVIL/BNF</edition>
         <respStmt>
           <resp>reprise des textes</resp>
           <name>Amélie Canu</name>
         </respStmt>
       </editionStmt>
-<publicationStmt>
+      <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
         <availability status="restricted">
@@ -22,1036 +22,1416 @@
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
-<sourceDesc>
-<bibl>
-<author>Pontmartin, Armand de (1811-1890)</author>, <title>Les Semaines littéraires, 3e série des "Causeries littéraires", par Armand de Pontmartin</title>, <date>1861</date>,description :,382 pages
-</bibl>
-<publisher>Michel-Lévy frères (Paris)</publisher>
-<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k9611883w</idno>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1861">1861</date>
-</creation>
-<langUsage>
-<language ident="fr"/>
-</langUsage>
-</profileDesc>
- </teiHeader>
+      <sourceDesc>
+        <bibl> <author>Pontmartin, Armand de (1811-1890)</author>, <title>Les Semaines littéraires, 3e série des "Causeries littéraires", par Armand de Pontmartin</title>, <date>1861</date>,description :,382 pages </bibl>
+        <publisher>Michel-Lévy frères (Paris)</publisher>
+        <idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k9611883w</idno>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1861">1861</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-    <div>
-<p><pb/>
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-------------------------------------------------------------------------</p>
-<p>L ES</p>
-<p>SEMAINES</p>
-<p>LITTÉRAIRES</p>
-<p><pb/></p>
-<p>ŒUVRES COMPLÈTES</p>
-<p>DE</p>
-<p>ARMAND DE PONTMARTIN</p>
-<p>FORMAT GIIAND IN-18</p>
-<p>CAUSERIES DU SAMEDI 1 vol. NOUVELLES CAUSERIES DU SAMEDI 1 — DERNIÈRES
-CAUSERIES DU SAMEDI 1 — CAUSERIES LITTÉRAIRES I — NOUVELLES CAUSERIES
-LITTÉRAIRES 1 — DERNIÈRES CAUSERIES LITTÉRAIRES .1 — LES SEMAINES
-I.ITTÉR VIRES 1 — CONTES ET NOUVELLES I MÉMOIRES D'UN NOTAIRE 1 — CONTES
-D'UN PLANTEUR DE CHOUX 1 — LA FIN DU PROCÈS 1 — RQUOI JE RESTE A LA
-CAMPAGNE 1 — ET CLINQUANT ..................... 1 —</p>
-<p><pb/></p>
-<p>LES /</p>
-<p>SEMAINES</p>
-<p>LITTÉRAIRES</p>
-<p>TROISIÈME SÉRIE DES CAUSERIES LITTÉRAIRES</p>
-<p>PAR</p>
-<p>ARMAND DE PONTMARTIN</p>
-<p>m</p>
-<p>Il</p>
-<p>PARIS</p>
-<p>MICHEL LÉVY FRÈRES, LIBRAIRES-ÉDITEURS</p>
-<p>RUE VIVIENNE, 2 BIS</p>
-<p>1861</p>
-<p>Tous droits réservés</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>DEUX PAGES DE CRITIQUE CONTEMPORAINE</p>
-<p>HIPPOLYTE RIGAULT-M. CUVILLIER-FLEURY'</p>
-<p>En inscrivant en tête de ces pages deux noms, l'un si regretté, l'autre
-si estimé, nous voudrions agrandir un peu la question et toucher à
-quelques points souvent controversés dans la critique contemporaine. On
-nous a parfois accusé d'exagération rigoriste : nous acceptons le
-reproche, mais non pas dans toutes ses conséquences. On se tromperait
-étrangement, sinon sur nos croyances, au moins sur nos prétentions, si
-l'on nous attribuait la ridicule pensée de réduire le critique moderne
-au rôle d'exécuteur public, chargé de frapper sans pitié toute œuvre
-suspecte de la plus légère atteinte aux plus sévères lois de
-l'orthodoxie religieuse, morale et littéraire. Parmi les inconvénients
-de ce rôle, il en est un que l'on a pu signaler dans ces derniers temps
-et que le sentiment de notre faiblesse doit nous rendre fort redoutable.
-Une fois</p>
-<p>1 Hippolyte Rigault, OEuvres complètes. — M. CuviJlier-Fleury,</p>
-<p>Dernières Etudes historiques et littéraires.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Au commencement de ce siècle deux forces se trouvèrent en présence dans
-la littérature comme dans le monde : la Révolution, disciplinée,
-ajournée, mais non pas vaincue,</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>A présent, il est facile de déterminer les distances entre la critique
-que j'appellerais du juste-milieu, si ce mot n'é- veillait de
-désobligeants souvenirs et d'injustes épigrammes, et celle que nous
-voudrions défendre contre les reproches d'obscurantisme ou de fanatisme.
-Les liens les plus honorables, les opinions les plus sincères, les
-satisfactions les plus légitimes attachèrent des écrivains tels que M.
-Cuvillier-Fleury, et, plus tard, tels qu'Hippolyte Rigault, aux
-institutions et aux personnes qui remplacèrent, en 1830, la royauté
-restaurée en 1814; et, ne l'oublions jamais, chez ceux qui eurent, comme
-Rigault</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>quand nous avons l'honneur de rencontrer des adversaires tels que
-Rigault et M. Cuvillier-Fleury, dont nous rappro-, client bien des
-poiuts de contact et qui méritent toutes nos sympathies, saluons-les de
-l'épée et tâchons de nous unir le plus souvent possible contre
-l'immoralité, la déraison et le mauvais goût.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Il est facile maintenant d'indiquer les supériorités et les désavantages
-de cette critique. Elle s'est spirituellement qualifiée elle-même de
-défensive : si l'on adopte ce mot, si on lui donne toute son extension
-stratégique, on pourrait dire qu'en fait de croyances, de morale, de
-décence et de goût, cette critique défend tout ce qui est acquis,
-incontesté, ratifié par la moyenne, c'est-à-dire par l'immense majorité
-des esprits et des consciences ; gardant courageúsement la place, ne se
-permettant, que de rares-sorties, évitant de se porter sur des points
-plus disputés, plus découverts, où ses entreprises soulèveraient plus de
-résistance et de tumulte. Dans les conditions ordi-</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Parlerons-nous des désavantages? Nous ne pourrions y insister sans
-craindre de tomber dans des redites. Évidemment le côté faible de cette
-critique est de ne pas toujours accepter, comme diraient des pédants,
-toutes les prémisses de ses conclusions et toutes les conclusions de ses
-prémisses. Il y a dans le bien, dans le beau, dans le vrai qu'elle
-honore et qu'elle défend, des filiations et des origines dont elle croit
-pouvoir se passer : il y a dans le mal qu'elle attaque et dont elle
-s'alarme des gradations, des enchaînements logiques qui l'importunent et
-qu'elle néglige. A tout moment, si ses lecteurs n'étaient pas, en
-général, beaucoup plus inconséquents qu'elle-même, ils auraient le droit
-de lui dire : Mais pourquoi, si cela est vrai, ceci est-il faux?
-Pourquoi, si cela est mal, ceci estil bien? Pourquoi, si cela est laid,
-ceci est-il beau?</p>
-<p><pb/></p>
-<p>La décence est-elle toute la vertu? Le goût est-il la conscience? Dans
-les lettres comme dans le monde, suffit-il de sauver les apparences pour
-être glorifié ? La notion du bien et du mal n'est-elle pas variable et
-fragile, si elle ne s'appuie sur d'impérissables vérités ? — Questions
-indiscrètes, je le sais, gênantes pour la critique, gênantes pour l'art,
-mais qui ont pourtant leur valeur !</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>ces redoublements de fidélité, ces effets de conciliation, en présence
-d'hommes tels que Rigault et M. Cuvillier-Fleury, sont au nombre des
-joies les plus vives de la conscience, des plus douces consolations de
-la défaite.</p>
-<p><pb/></p>
-<p>II</p>
-<p>MADAME SWETCHINE1</p>
-<p>i</p>
-<p>1 Madame Swetchitte, sa vie et ses œuvres, publiées par M. le comte de
-Falloux.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>la suite a prouvé que nul n'était entré plus avant dans ce cœur qui se
-multipliait en se partageant.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Il</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>« Entre l'homme-Dieu et ses imitateurs, il n'y a, hors la grâce, pour
-combler l'abîme, que la douleur et sa puissante plénitude. C'est par la
-souffrance que Dieu a été le plus homme ; c'est par la souffrance que
-l'homme s'approche le plus de Dieu.</p>
-<p>« Demandez aux affections de la terre si la crainte de souffrir arrêta
-jamais dans l'amour une âme généreuse, et si l'infaillible signe d'un
-cœur touché n'est pas de compter pour rien le sacrifice et l'obstacle ?...</p>
-<p>« Malgré notre avidité de bonheur, malgré notre répugnance pour des
-épreuves trop nécessaires, la satiété est au bout de toutes nos
-jouissances ; il n'est pas un senti-</p>
-<p><pb/></p>
-<p>ment élevé, profond et pur, qui n'ait pour volupté une sainte tristesse.</p>
-<p>« Cet attrait secret vers l'indicible inquiétude se mêle aux affections
-de toute âme d'élite. Les éléments de joie et de mélancolie existent
-dans un même cœur et souvent bien près l'un de l'autre ; ils s'y
-confondent, et, s'ils présentent une contradiction, cette contradiction
-ne signale que mieux l'heureuse inconséquence qui ressort de notre
-double nature.</p>
-<p>« Au milieu de toutes les recherches de l'ambition et du plaisir, au
-sein de toutes les appréciations factices et vaines, ce sont encore ceux
-qui courent la carrière des prospérités que dévore le plus sûrement,
-sous les yeux du public frivole qui les envie, le dégoût prématuré.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>1</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>« Les êtres qui paraissent froids et qui ne sont que timides adorent dès
-qu'ils osent aimer.</p>
-<p>« Qu'est-ce que se résigner? C'est mettre Dieu entre la douleur et soi.</p>
-<p>« Il y a des questions si indiscrètes, qu'elles ne méritent ni la vérité
-ni le mensonge.</p>
-<p>%</p>
-<p>c Le plus coupable des excès de la liberté est de se nuire</p>
-<p>« A l'égard des princes, je dirai comme les protestants pour un plus
-haut maître : le service sans le culte.</p>
-<p>« Qui a cessé de jouir de la supériorité de son ami a cessé de l'aimer.</p>
-<p>« Les cœurs aimants sont comme les pauvres : ils vivent de ce qu'on leur
-donne.</p>
-<p>« Il est des choses qu'on ne peut s'empêcher de savoir, mais qu'il n'est
-jamais permis de s'avouer.</p>
-<p>« Les chaînes qui nous serrent déplus près sont celles qui nous pèsent
-le moins.</p>
-<p><pb/></p>
-<p>« C'est prodigieux tout ce que ne peuvent pas ceux qui peuvent tout !</p>
-<p>« Au fond, il n'y a dans la vie que ce qu'on y met.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>TTI</p>
-<p>M. VICTOR COUSIN1</p>
-<p>1 Madame de Longueville pendant la Fronde, 1651-1655. \</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>épargner le plus madame de Longueville, quant aux mensonges qui la
-représentent, non plus comme une héroïne se trompant de route, mais
-comme une coquette changeant de caprice, non plus comme une Mandane,
-mais comme une Célimène, M. Cousin en fait bonne et vaillante justice.
-Cette réfutation passionnée de l'amant contemporain par l'amant
-d'outre-sièclès, le singulier spectacle de cette passion rétrospective,
-plus délicate, plus respectueuse, plus constante, plus attentive au
-bien, plus incrédule au mal que celle qu'auraient dû retenir la présence
-de l'objet aimé et le souvenir même de ses bontés, tout cela, relevé par
-un style incomparable où les perfections du grand siècle se colorent et
-se réchauffent au feu d'un sentiment vrai, forme un ensemble dont rien
-n'égale le grave et irrésistible attrait.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>ment, après avoir été le rempart et l'ornement de la royauté, on peut
-devenir l'esclave et le jouet de la multitude.</p>
-<p><pb/></p>
-<p>senties, que l'on a presque envie d'absoudre l'héroïne pour consoler
-l'historien.</p>
-<p><pb/></p>
-<p>IV</p>
-<p>M. GUIZOT1</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Le succès est donc grand, et il faut s'en réjouir, alors même qu'on eût
-pensé autrefois ou que l'on penserait encore aujourd'hui autrement que
-M. Guizot sur quelques points discutés ou quelques faits racontés dans
-cette partie de ses Mémoires. S'ensuit-il que ces dissidences passées ou
-présentes doivent complètement disparaître dans une admiration justifiée
-par l'élévation des idées, la dignité du langage, la sincérité des
-convictions, la perfection des portraits, la beauté.du style? Nous ne le
-croyons pas. Après ces grandes catastrophes, ces communes défaites</p>
-<p><pb/></p>
-<p>Pour les lecteurs superficiels, ces deux chiffres, 1 8521836, ne sont
-que deux dates ordinaires : dans le fait et dans la pensée de M. Guizot,
-ce court espace de quatre années représente une phase particulière ;
-l'établissement, l'entrée en fonctions définitive de la politique dont
-l'illustre écrivain devait être plus tard la personnification la plus
-éloquente, et qu'il installa dès lors comme mi-</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>DEUX LIVRES SUR L'ITALIE 1</p>
-<p>^ y</p>
-<p>-</p>
-<p>MM. L. DE GAILLARD ET CH. DE MAZADE</p>
-<p>1 I. Questions italiennes, par M. Léopold de Gaillard. — II. L'Italie</p>
-<p>moderne, par M. Charles de Mazade.</p>
-<p><pb/></p>
-<p>I</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>1 César Cantu.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>fois que l'image sacrée de Pie IX reparaît dans le livre de M. de
-Gaillard, on y sent vibrer une émotion communicative, une douloureuse et
-filiale tendresse qui n'a rien, Dieu . merci! d'autrichien ni
-d'absolutiste. — « Nous inclinâmes nos fronts et nos genoux devant le
-représentant de</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Il</p>
-<p><pb/></p>
-<p>Nous comprenons très-bien, pour notre part, et nous admettons les images
-visibles se traduisant en idées, les révélations soudaines que l'esprit
-reçoit de ces aspects extérieurs où se dénoncent les conditions
-topographiques et territoriales d'un pays, ses fortifications
-naturelles, sa physionomie, son hygiène politique et morale, ses moyens
-d'indépendance. Essayons donc de saisir au passage ce courant d'idées
-que M. de Mazade a fait découler des majestueuses hauteurs de Superga,
-comme ces sources vives des montagnes qui, limpides d'abord et
-réfléchissant un ciel pur, risquent, si elles rencontrent en chemin des
-obstacles et des orages, de se changer en torrents, de se remplir de
-gravier et de fange, et de dévaster leurs rives au lieu de les fertiliser.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>constituée, de promoteur de son indépendance, de fondateur de son
-autonomie ; et le plus ou le moins d'efficacité de cette initiative du
-Piémont, comme moyen d'en finir avec cet esprit démagogique et
-révolutionnaire que M. de Mazade déteste, et qui, le jour où tout le
-inonde serait d'accord, n'aurait plus, en effet, le moindre prétexte
-pour s'agiter, vociférer, blasphémer, massacrer, épouvanter les honnêtes
-gens et déshonorer, comme toujours, la cause de l'indépendance italienne.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>1 Revue des Deux-Mondes du 15 murs 1860.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>1 Ces pages, publiées d'abord en mars 1860, ont été, héla s!
-nonseulement justifiées, mais dépassées et comme absorbées par les
-événements ultérieurs. Nous n'avons pas cru devoir y rien changer.</p>
-<p><pb/></p>
-<p>VI</p>
-<p>M. EDMOND AB 0 lJ T 1</p>
-<p>1 Rome contemporaine.</p>
-<p><pb/></p>
-<p>et heureux/4^trbVp)?smçais et de cultiver la littérature. Si les
-imcrodéïits-et iek persécutés, me disais-je, offrent</p>
-<p>6</p>
-<p><pb/></p>
-<p>un aspect aussi rassurant, que faut-il penser des favorisés et des
-habiles? Quelles ne doivent pas être les prospérités des défenseurs de
-la Vérité vêtue et en habit brodé, puisque les champions de la Vérité
-toute nue font encore une si bonne figure dans notre beau pays et de si
-excellentes affaires ?</p>
-<p>Quel beau style ! quelle noblesse de pensée et de langage ! Comme on
-sent une intelligence habituée aux ho-</p>
-<p><pb/></p>
-<p>«... Le Pape n'a besoin de soldats ni pour la conquête, ni pour la
-défense ; car ses voisins sont des princes catholiques qui se feraient
-un cas de conscience d'armer contre un vieillard inoffensif. »</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>1 10 novembre 1860.</p>
-<p><pb/></p>
-<p>L'HISTOIRE CONJECTURALE</p>
-<p>VII</p>
-<p>MM. DE LARCY ET P. MESNARD '</p>
-<p>1 I. Vicissitudes politiques de la France. - Il. Projet de gouvernement
-du duc de Bourgogne.</p>
-<p><pb/></p>
-<p>même chez ses adversaires, les plus sérieuses sympathies. Éloigné par
-les événements de cette scène politique où tous les lustres d'ailleurs
-s'éteignaient l'un après l'autre, M. de Larcy a consacré sa retraite à
-cette œuvre où se révèlent tout ensemble de prodigieuses lectures, un
-vrai talent d'écrivain et un amour passionné pour la France; un de ces
-amours que ne découragent ni l'aveuglement ni l'ingratitude de l'objet
-aimé. Après avoir été un des orateurs de notre tribune, M. de Larcy
-prend rang parmi nos historiens ; réunissant ainsi deux gloires qui,
-d'après Cicéron, sont au nombre des plus difficiles et des plus rares.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Rubens ou de Véronèse?</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>yin</p>
-<p>ROYER-COLLAHH 1</p>
-<p>i Une Biographie inédite de Royer-Collard</p>
-<p><pb/></p>
-<p>7.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>IX</p>
-<p>M. L. VITET 1</p>
-<p>1 La Ligue, précédée des États d'Orléans, scènes historiques.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>apporte ses ingrédients et ses sortilèges, et que la dernière figure de
-cette galerie s'appelle Henri IV. Dans cette foule bigarrée de cuirasses
-et de robes rouges, de manteaux de velours et de frocs, de simarres et
-de pourpoints, trois personnages entre tous font le plus grand honneur
-au crayon, que dis-je? au burin de M. Vitet; Marie Stuart,</p>
-<p>Henri III et Henri IV.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Lesueur.</p>
-<p><pb/></p>
-<p>X</p>
-<p>LE MARQUIS D'AnGENSON 1</p>
-<p>1 Journal et Mémoires, publiés par l'tf. Rathery; Ier vol.</p>
-<p><pb/></p>
-<p>' Madame Rose Chéri. dans le Père prodigue.</p>
-<p><pb/></p>
-<p>Qu'est-ce donc que ce marquis d'Argenson? Quelle sorte d'intérêt et de
-curiosité doivent éveiller ses ouvrages? En quoi fut-il supérieur, ou,
-pour mieux dire, précurseur au milieu des frivolités de son époque?
-Comment, tout en lui échappant par maint endroit, en gardet-il, dans
-plusieurs autres, l'irrécusable empreinte? Telles sont les principales
-questions que soulève cette lecture, et que la remarquable introduction
-de M. Rathery nous met en mesure d'aborder et de résoudre.</p>
-<p>Le marquis René d'Argenson était le fils aîné du célèbre lieutenant de
-police. Les courtisans l'avaient surnommé d'Argenson la bête pour le
-distinguer de son frère. Saint-</p>
-<p><pb/></p>
-<p>Simon l'a appelé balourd; ce qui prouve une fois de plus y, que la
-postérité a raison de se croire la cour de cassation ^ des jugements
-contemporains. Pourtant ce balourd sut déjà, de son vivant, se faire
-compter pour quelque chose. | Il fut conseiller au Parlement, conseiller
-d'État, inten. r dant du Hainaut et Cambrésis, ambassadeur nommé en i</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>1 N'est-il pas remarquable que ces deux noms politiques d'ancien régime,
-d'Argenson et de Chauvelin, se soient, un siècle après, retrouvés côte à
-côte aux premiers rangs de l'opposition ultra-lij¡érale contre la
-Restauration?</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>L'ANCIEN ET LE NOUVEAU JOUHNAL DES DÉBATS1</p>
-<p>XI</p>
-<p>MM. SAINT-MARC GIRARDIN ET PRÉVOST-PARAIM</p>
-<p>1 Souvenirs el Réflexions politiques d'un Journaliste, par M. Saint</p>
-<p>Marc Girardin. — Essais de Politique et de Littérature, par M. Pré
-vol-Paradol.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>On a dit avec raison que tout homme qui veut mettre la main ou la plume
-dans l'histoire politique de son temps doit préalablement régler ses
-comptes avec la Révolution</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>qu'elle espère, ni où elle va. Si j'en crois ce remarquable chapitre
-d'histoire où M. Saint-Marc Girardin caractérise avec tant de vérité et
-de convenance Louis XVI et Marie-</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>serait aujourd'hui, après trente ans de surexcitations, de mécomptes,
-d'apostasies et de lassitudes ?</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>XII</p>
-<p>M. PAUL DE MOLÈNES 1</p>
-<p>1 Les Commentaires d'un Soldat.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>1 l'Assemblée nationale.</p>
-<p>- l'Union.</p>
-<p><pb/></p>
-<p>instruments de mort dont la science moderne a décu-</p>
-<p>, plé les ravages et la portée! Encore une fois, que M. de</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Piien de plus éloquent : je ne sais pourtant si je ne préfère pas, dans
-leur énergie un peu farouche, ces</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>de ce soldat qui, après avoir vaillammènt traversé ces terribles
-guerres, a retrouvé au fond de sa giberne une plume assez bien taillée
-pour nous en donner un digne commentaire. 1</p>
-<p><pb/></p>
-<p>XIII</p>
-<p>LE GÉNÉRAL MOLINE DE SAINT-YON 1</p>
-<p>1 Histoire des comtes de Toulouse.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>sœur aînée, doit être plus véridique, et nul n'était plus digne que le
-général de Saint-Yon de redresser ses torts et d'indemniser ses victimes.</p>
-<p>Nous reviendrons sur l'œuvre du général de SaintYon, quand paraîtront
-ses deux derniers volumes, dont l'intérêt ne peut manquer de grandir
-encore avec le sujet même. Pour aujourd'hui, saluons l'œuvre et l'auteur
-d'un sincère et respectueux hommage. On nous accuse souvent de deux
-torts graves en littérature : d'être .pessimiste et alarmiste. Et
-pourtant, avec quelle joie</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>XIV</p>
-<p>M. ALFRED NETTEMENT'</p>
-<p>1</p>
-<p>1 Histoire de la Restauration, tome Ier.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>tournent contre eux-mêmes leurs mains meurtrières et croient échapper à
-la justice des hommes en lui montrant ; le sang de leurs blessures.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Il</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>[ Révolution lui avait pris et qu'elle voulait garder, quoique vaincue?</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Pour triompher de ces difficultés incroyables, pour installer sur ces
-ruines neuves ou antiques, immobiles ou mouvantes, des institutions
-solides et durables, qu'eût-il fallu? M. Nettement nous l'indique sans
-surfaire personne, il eût fallu un génie surnaturel et des vertus
-surhumaines, non-seulement chez le souverain, mais chez les hommes</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>César.</p>
-<p>Tout préparait d'ailleurs ce funèbre épisode, au dehors comme au dedans.
-En son excellent chapitre sur le con-</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>xv</p>
-<p>LE R. P. XAVIER DE RAVIGNAN</p>
-<p>1</p>
-<p>1 Par leR. P. de Pontlevoy.</p>
-<p>2 Samedi-saint, avril 1860.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>fût assez malheureux pour n'y pas reconnaître la vocation et
-l'efficacité divine, ce spectacle ne résume-t-il pas tout ce qui mérite
-de fixer les nobles intelligences et de faire battre les cœurs généreux;
-la lutte, l'immolation, le sacrifice, la constante victoire des facultés
-supérieures de notre être sur les plus basses, ce perpétuel
-mécontentement de soi-même, qui, dans la conscience comme dans l'art,
-produit seul les œuvres durables, et cet idéal chrétien qui serait
-encore le plus sublime effort de la nature humaine quand même il ne
-serait pas la preuve la plus éclatante de la grâce céleste ? Or, lorsque
-l'on apprit la mort du révérend père de Ravignan, il n'y eut qu'une voix
-pour dire que d'autres écrivains, ecclésiastiques ou laïques, pouvaient
-dignement apprécier en lui et retracer éloquemment l'homme extérieur,
-mais que l'homme intérieur appartenait par droit de cellule au père de
-Ponlevoy.</p>
-<p><pb/></p>
-<p>Dans l'ensemble de sa carrière plus laborieuse que longue, le père de
-Ravignan nous apparaît comme la réhabilitation vivante de tout ce que
-son siècle a le plus méconnu et calomnié, comme l'expression la plus
-parfaite</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Et pourtant, que d'injustices encore ! On se souvient des discussions de
-1845,1844,1845, ou plutôt il faudrait</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Dieu me ramène ! »</p>
-<p>II</p>
-<p><pb/></p>
-<p>Ce ne fut pas là, — le père de Ponlevoy nous le rappelle, — le seul
-genre d'influence exercé par le père de Ravignan dans cette grande
-affaire de la loi sur l'enseignement et sur les congrégations
-religieuses. Il y en eut</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Et beaucoup que je sais, et beaucoup que j'oublie !</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>tant la vie du père de Ravignan ; mais je crois sincèrement qu'une
-partie de l'art moderne n'est tombée si bas que parce que la matière y a
-de plus en plus prévalu sur l'âme, et j'ajoute que le livre du père de
-Ponlevoy n'a tant de charme que parce que la matière y est de toutes
-parts vaincue, parce que l'âme s'y dégage et y rayonne dans un flot de
-céleste lumière.</p>
-<p>1 Voir l'Etude suivante sur Chateaubriand et son groupe, par</p>
-<p>M. Sainte-Beuve.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>XVI</p>
-<p>CHATEAUBRIAND ET M. SAINTE-BEUVE 1</p>
-<p>1 Chateaubriand et son groupe littéraire sous l'Empire.</p>
-<p><pb/></p>
-<p>Les précautions sont si bien prises, l'atmosphère extérieure si
-soigneusement interceptée, la critique et la foule si parfaitement
-endoctrinées, que ce grand écrivain, dont</p>
-<p>Jes meilleurs chefs-d'œuvre avaient rencontré des détracteurs et soulevé
-des orages, ne trouve que des panégyristes pour les tristes productions
-de sa vieillesse. Enfin, par une coïncidence ou un contraste qui a aussi
-sa majesté, le jour où ce glorieux octogénaire descend dans la tombe, —
-une tombe arrangée pour l'effet comme tout le reste de sa vie, — on
-dirait que les débris du vieux monde, les restes de l'antique société
-vont disparaître avec lui. La république qu'il a rêvée et flattée
-s'incline devant ses funérailles, et, dans ce siècle coupé en deux par
-la grande victoire démocratique, le passé emporte sa dépouille comme un
-trésor, l'avenir répète son nom comme un précurseur.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Ava-t tout, un sentiment que M, Sainte-Beuve a pris</p>
-<p><pb/></p>
-<p>Beuve.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>1 1" Mars .1834. La phrase mérite d'être citée textuellement : «
-Critique de second ordre dans le Génie du christianisme, voyageur
-inexact et verbeux dans Y ilindraii-e, imitateur patient, mais inutile,
-de Virgile et d'Homère dans les Martyrs et les Natchez, Chateaubriand,
-etc., etc. » Dans le même artide, ce bon Gustave Planche parle</p>
-<p>« (les trésors contenus dans l'âme ardente et poétique de Sainte-Beuve,</p>
-<p>En général, rien de curieux comme les jugements portés alors par les</p>
-<p><pb/></p>
-<p>illustres sur d'autres illustres : par Gustave Planche, sur Chateaubriand,</p>
-<p>Lamartine, Victor Hugo, Sainte-Beuve, etc.; par George Sand, sur madame
-de Slaël; par N. de Vigny, sur Napoléon I"; par Sainte-Beuve, sur</p>
-<p>Chateaubriand, sur Lamartine, sur LÓuis-Philippe, sur Balzac; par</p>
-<p>Lherminier, sur Lamennais, sur l'abbé Lacordairc, etc. Il faudrait
-prendre exactement le contre-pied de ces jugements superbes pour avoir
-ce qui est resté la vérité actuelle et définitive. Nous les
-recueillerons peut-être un jour, pour essayer de nous faire pardonner
-nos propres éi'Ormités,</p>
-<p><pb/></p>
-<p>D'abord il est évident que les nombreuses notes qui soulignent, pour
-ainsi dire, chacune de ces pages, que le</p>
-<p>Chateaubriand et les divers extraits de lettres ou Mémoires inédits, ne
-sont pas de la même inspiration que les vingt et une leçons professées à
-Liège : questa coda non è</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>traité avec la spirituelle et facile indulgence d'une fidèle amitié, et
-celui de M. Villemain, vu et retracé par les grands côtés, avec toutes
-les magnificences de cette brillante manière, presque
-contemporaine,'presque égale du héros et du sujet.</p>
-<p>.y</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>parlé ou écrit. Patience! la génération qui nous pousse et dont vos
-opérations anatomiques flattent tous les instinéts, mettra dans ses
-idées, dans ses mœurs, dans ses sentilIlents, dans ses écrits, dans son
-style, un si parfait accord, qu'elle épargnera aux Saumaise futurs, ou
-plutôt aux Sainte-Beuve de l'avenir, tout embarras, tout travail de
-réduction et de triage 1</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Tallemant des Réaulx ?</p>
-<p><pb/></p>
-<p>Beuve a le plus profondément détesté. Tout se paye ; c'est une loi
-morale qu'en littérature comme ailleurs les petits ont le droit de
-rappeler lorsque les grands l'oublient.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>XVII</p>
-<p>M. EDGAR QUINET 1</p>
-<p>t Merlin l'Enchanteur.</p>
-<p><pb/></p>
-<p>Triades.</p>
-<p>— Fort bien, licornes vagabondes ! Fort bien, chimères aux ailes de soie
-! Mais un pauvre critique est obligé d'ex' pliquer ce qu'il a lu ; et
-comment voulez-vous qu'il explique ce qu'il n'a pas compris?</p>
-<p><pb/></p>
-<p>— Oiseaux bleus, licornes et chimères, je me prosterne et j'obéis.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Hélas! cette lune de miel eut un terme : quelques siècles s'étaient
-écoulés, et, un matin, Merlin jugea que Viviane vieillissait: rien de
-plus faux, car la beauté de</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>de ces infidélités bruyantes, toutes les larmes qu'elle répandait,
-toutes les prières qu'elle répétait pour essayer</p>
-<p>Cependant Merlin, comme presque tous les mauvais sujets et les maris qui
-se dérangent, était dans le fait un assez bon diable. Il y avait en lui
-un fond de droiture naturelle et un reste d'amour pour Viviane. Il eut
-un jour</p>
-<p>ses pleurs et pardonna. Mais, instruite par le malheur,</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>On doute,</p>
-<p>La nuit...</p>
-<p>J'écoute :</p>
-<p>Tout fuit ..</p>
-<p><pb/></p>
-<p>Tout passe :</p>
-<p>L'espace</p>
-<p>Efface</p>
-<p>Le bruit.</p>
-<p><pb/></p>
-<p>LE LA FONTAINE DES VIEILLARDS ET LE LA FONTAINE</p>
-<p>DES ENFANTS</p>
-<p>XVIII</p>
-<p>MM. TAINE ET LOUIS RATISBONNE1</p>
-<p>1 La Fontaine et ses Fables, - lia Comédie enfantine,</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>fenêtre, j'aspire une gorgée d'air pur, et mes yeux se re; posent en
-regardant les étoiles.</p>
-<p>Je ne dirai pas que, devant M. Taine, je me sens petit comme M.
-Perrichon devant le Mont-Blanc; mais plutôt que je me trouve pauvre
-comme quand je quitte mon humble cabinet de travail pour entrer dans le
-magasin de Monbro.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>" XIX</p>
-<p>M. VICTO H DE L AII RADE 1</p>
-<p>t Poèmes évangéliques.</p>
-<p><pb/></p>
-<p>Un écrivain que l'on s'est remis â admirer, — j'avoue ne pas savoir
-pourquoi, — M. Edgar Quinet a dit quelque part : « Non, l'art n'est pas
-l'orthodoxie et le poëte n'est pas le prêtre : en élaguant ce qu'il
-désespère d'assouplir,</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>— c'est M. de Laprade qui nous le dit dans son beau langage, — plonge
-ses racines en des profondeurs infinies où l'esprit humain ne doit pas
-le suivre : mais ses vivaces rameaux ont des fleurs qu'il n'est pas
-défendu de contempler, des fruits qu'il est permis de toucher et de
-cueillir.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Quand je pouvais encor vous voir et vous entendre,</p>
-<p>Quand, parmi vos travaux, ma mère, et vos douleurs,</p>
-<p>Et faire éclore en vous de la joie ou des pleuts;</p>
-<p>Avant l'heure où brisant le bonheur domestique,</p>
-<p>Dieu vous plaça plus haut que vos amours humains,</p>
-<p>Lorsque ma lèvre encor s'appuyait sur vos mains,</p>
-<p><pb/></p>
-<p>Trop souvent de mon cœur j'ai retenu la voix ;</p>
-<p>Ces choses qu'un bon fils doit dire mille fois</p>
-<p>Pour payer, s'il se peut, les peines d'une mère...</p>
-<p><pb/></p>
-<p>2 novembre 1800.</p>
-<p><pb/></p>
-<p>LE RÉALISME EN MAINS PROPRES</p>
-<p>xx</p>
-<p>MM. PAUL PERRET ET PAUL DELTUF</p>
-<p>e,</p>
-<p>Quand on songe que les premiers romans ont commencé ainsi : « Il y avait
-une fois un roi et une reine », on est tenté de redire le mot célèbre de
-M. Laine : « Les rois s'en vont. » Le roman, sous ce rapport comme sous
-bien d'autres, prend ses avances sur la politique et sur l'histoire.
-Quel chemin n'a-t-il pas parcouru depuis le bon temps où les aventures
-royales lui semblaient seules dignes de nous être racontées? Après les
-rois et les reines, il s'est rabattu sur les princes, les princesses et
-les grands seigneurs, et il est allé, avec mademoiselle de Scudéry, les
-chercher en Perse ou en£appadoce, plutôt que de déroger : pu 's, avec
-madame de Souza, il est descendu aux simples gentilshommes, mais en
-gardant toutes les élégances et toutes les exquises façons de l'ancienne
-cour. Ensuite est venue cette société un peu mêlée que comportent les
-temps de révolution; patriciennes et courtisanes, mousquetaires et
-rapins, nobles et bourgeois, bohèmes et</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Lorsque la société d'avant 89 lisait Manon Lescaut ou Marianne, la
-Nouvelle Héloïse ou Paul et Virginie, lorsque la génération, assombrie
-par de formidables catastrophes lisait Werther ou René, lorsque la
-jeunesse enthousiaste d'innovations, de conquêtes littéraires et
-sociales, lisait Notre-Dame de Paris, Indiana ou Eugénie Grandet, le
-succès de ces œuvres si diverses ne résultait pas seulement de leur
-mérite, mais du parfait accord où se confondaient, pour ainsi dire,
-l'auteur, son siècle, ses personnages et ses lecteurs. Évoquez au
-hasard, dans la longue série des romans célèbres, ceux qui ont marqué
-leur date et laissé une trace dans l'esprit des contempo-</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>En se montrant plus éclectique, moins absolu dans le</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>XXI</p>
-<p>M. OCTAVE FEUILLET</p>
-<p>AUTEUR DRAMATIQUE 1</p>
-<p>1 Dalila. — Le Roman d'un jeune homme pauvre, — La Tentation,</p>
-<p>— Rédemption.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>roberait quelques-uns de ces discrets avantages, même pour lui donner en
-échange des ovations plus retentissantes et de plus riches couronnes :
-c'est pour cela qu'au milieu de son succès le plus éclatant, nous osâmes
-exprimer nos affectueuses alarmes.</p>
-<p>Monde.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Maintenant, pour qu'il nous fût possible d'amnistier cette nouvelle
-Rédemption, dramatisée et augmentée, il faudrait que M. Octave Feuillet,
-en revenant sur ce scabreux sujet, que nous avons vu, dans ces derniers
-temps,</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>M. Octave Feuillet avait trop de Jact pour essayer de trancher une
-difficulté insurmontable, pour chercher une issue dans une impasse, pour
-prononcer, même du bout des lèvres et derrière la toile, le mot
-officiel, celui que la vraie morale réclame, mais qui placerait
-réciproquement</p>
-<p><pb/></p>
-<p>Maurice lance contre elle. Mais d'abord c'est un succès d'actrice plutôt
-encore que d'auteur ; ensuite on ne peut s'empêcher de remarquer que
-tout le monde, dans Ré-</p>
-<p><pb/></p>
-<p>Je vois, je sais, je crois, je suis désabusée!</p>
-<p>On nous permettra de trouver plus spiritualiste et même plus dramatique
-le dénoûment de Polyeucte.</p>
-<p>Peut-être aurons-nous paru sévère envers un talent que nous aimons, que
-la société polie a adopté comme sien, * et que nous avions placé, dans
-notre estime, bien loin, bien au-dessus des célébrités bruyantes qui
-flattent le goût public pour le conquérir et acceptent le joug honteux
-de la littérature démocratique. Mais il ne s'agissait pas seulement de
-savoir si M. Octave Feuillet est ou</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Au milieu de tristesses plus générales et plus sérieuses auxquelles nous
-avons dû nous arracher en traitant une simple question littéraire, la
-décadence, ou, pour parler plus juste, la vulgarisation de M. Octave
-Feuillet compterait parmi nos griefs contre notre temps ; et ces griefs
-sont, hélas ! assez nombreux pour qu'il nous semble bien pénible de les
-multiplier encore.</p>
-<p>20 novembre 1860.</p>
-<p><pb/></p>
-<p>XXII</p>
-<p>M. LOUIS VEUILLOT 1</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Essayons d'étudier, non pas le talent ,—il est immense,</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>A UNE ÉPLonÉE.</p>
-<p>Cachez vos pleurs, madame, et votre épaule</p>
-<p>Si vous voulez; — mais hi, sincèrement. —</p>
-<p>Que le bon Dieu calme votre tourment;</p>
-<p>Ne chantez plus la romance du Saule!</p>
-<p>C'est la coutume aux dames de la Gaule</p>
-<p>D'avoir le cœur en plein déchirement,</p>
-<p>Et de rogner trop sur le vêtement :</p>
-<p>Leur deuil n'est triste, hélas! que de son rôle.</p>
-<p>Donc il faudrait qu'un ange vint des cieux</p>
-<p>Pour étancher les pleurs de vos beaux yeux?..:</p>
-<p>Et vous brillez un peu plus qu'une étoile</p>
-<p><pb/></p>
-<p>Dame, Dieu fit les anges, s'il vous plaît,</p>
-<p>Pour admirer la beauté qui se voile</p>
-<p>Et consoler la douleur qui se tait.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>1</p>
-<p><pb/></p>
-<p>1 M. Louis Veuillot, dans les éditions suivantes, a bien voulu me sacri
-fier cette page.</p>
-<p><pb/></p>
-<p>XXIII</p>
-<p>EUGÈNE SCRIBE</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>tout, même en face de ce regain de popularité et de gloire, sauvegarder
-les droits de l'idéal, de la poésie, de l'art vrai, de la vraie
-littérature, de la vraie morale, de celle qui ne s'occupe pas d'empêcher
-la fille d'un boutiquier de se faire enlever par un commis de magasin,
-et qui dédaigne de combattre de petites passions par de petits calculs
-mis au service de petits intérêts et de petites causes.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>\</p>
-<p><pb/></p>
-<p>liberté sous ses pavés, M. Scribe, dans son cabinet de travail, tissait
-paisiblement un libretto d'opéra, qui fut joué plus tard avec un grand
-succès sur un de nos théâtres lyriques. Archimède, dit-on, en avait fait
-autant, mais Archimède n'écrivait pas de vaudevilles. Sans chercher là
-un sujet d'admiration ni de blâme, on peut dire que de pareils traits
-expliquent et précisent cette physionomie, telle que nous croyons la
-connaître et que nous essayons de l'esquisser. Peut-on s'étonner ou se
-plaindre que l'homme qui, en face de la Yung-Frau ou du Righi, se
-détachait assez complètement de ses émotions pittoresques pour ne songer
-qu'aux amours de Bertrand et de Suzette, l'homme qui, au milieu des
-hurlements de l'insurrection triomphante, savait assez bien s'abstraire
-de ses angoisses politiques pour filer une scène de ténor et de première
-chanteuse, en ait agi avec les vérités morales comme avec les montagnes
-de l'Oberland et les barricades de Paris ?</p>
-<p><pb/></p>
-<p>Dans la Conversion, il attaquait la confession et le célibat</p>
-<p><pb/></p>
-<p>des prêtres; dans le Tête-à-tête, je retrouve ces lignes, qui donneront
-une idée de l'esprit du moment et de la façon dont M. Scribe le
-courtisait :</p>
-<p><pb/></p>
-<p>petites adulations au profit des lieux communs et. des préjugés
-populaires : ce ne fut pas précisément héroïque, mais ce fut habile, et,
-encore une fois, cela se traduisait dans une langue qui n'avait que deux
-mots, deux synonymes : le public et le succès.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>toute la force de l'âge et du génie, le lendemain de son chef-d'œuvre.</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>Nous nous sommes efforcé, dans tout le cours de celte étude, de rester
-impartial, et, l'avouerons-nous? de lutter</p>
-<p><pb/></p>
-<p><pb/></p>
-<p><pb/></p>
-<p>FIN</p>
-<p><pb/></p>
-<p>TABLE</p>
-<p>1. — Hippolyte Rigault. — M. CuviUier-Fteury 1 II. — Madame Swetchine et
-M. de Falloux 31 III. — M. Victor Cousin 55</p>
-<p>IV. — M. Guizot 65</p>
-<p>V. — MM. L. de Gaillard et Cli. de Mazade....... 75 VI. — M. Edmond
-About 96</p>
-<p>VII. — MM. de Larcy et P. Mesnard 105 VIII. — Royer-Collard H6 IX. —
-l'tl. L. Vitet 127</p>
-<p>X. — Le marquis d'Argenson 137</p>
-<p>XI. — MM. Saint-Març Girardin et Prévost-Paradol 148 XII. — M. Paul de
-Molènes. ................ 159</p>
-<p>XIII. — Le général Moline de Saint-Yon, 170 XIV. — M. Alfred Nettement 181</p>
-<p>XV. — Le R. P. Xavier de Ravignan. 200 XVI. — Chateaubriand et M.
-Sainte-Beuve 223</p>
-<p>XVII. — M. Edgar Quinet 255 XVIII. — l'tm. Taine et Louis Ratisbonne 265</p>
-<p>XIX. — M. Victor de Laprade 274</p>
-<p>XX. — ItlM. Paul Perret et Paul DelU^^Tï^^..... 284 XXI. — M. Octave
-Feuillet, auteur dra^a^ique.... 294 XXII. — M. Louis Veuillot W '^\ • ..
-317</p>
-<p>XXIII. — Eugène Scribe....|"r , ^ j ... 530</p>
-<p>Pl.li 1)10 LA TABLE N</p>
-    </div>
+      <div>
+        <p><pb/> ------------------------------------------------------------------------ ------------------------------------------------------------------------ ------------------------------------------------------------------------ ------------------------------------------------------------------------ ------------------------------------------------------------------------</p>
+        <p>L ES</p>
+        <p>SEMAINES</p>
+        <p>LITTÉRAIRES</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ŒUVRES COMPLÈTES</p>
+        <p>DE</p>
+        <p>ARMAND DE PONTMARTIN</p>
+        <p>FORMAT GIIAND IN-18</p>
+        <p>CAUSERIES DU SAMEDI 1 vol. NOUVELLES CAUSERIES DU SAMEDI 1 — DERNIÈRES CAUSERIES DU SAMEDI 1 — CAUSERIES LITTÉRAIRES I — NOUVELLES CAUSERIES LITTÉRAIRES 1 — DERNIÈRES CAUSERIES LITTÉRAIRES .1 — LES SEMAINES I.ITTÉR VIRES 1 — CONTES ET NOUVELLES I MÉMOIRES D'UN NOTAIRE 1 — CONTES D'UN PLANTEUR DE CHOUX 1 — LA FIN DU PROCÈS 1 — RQUOI JE RESTE A LA CAMPAGNE 1 — ET CLINQUANT ..................... 1 —</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LES /</p>
+        <p>SEMAINES</p>
+        <p>LITTÉRAIRES</p>
+        <p>TROISIÈME SÉRIE DES CAUSERIES LITTÉRAIRES</p>
+        <p>PAR</p>
+        <p>ARMAND DE PONTMARTIN</p>
+        <p>m</p>
+        <p>Il</p>
+        <p>PARIS</p>
+        <p>MICHEL LÉVY FRÈRES, LIBRAIRES-ÉDITEURS</p>
+        <p>RUE VIVIENNE, 2 BIS</p>
+        <p>1861</p>
+        <p>Tous droits réservés</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>DEUX PAGES DE CRITIQUE CONTEMPORAINE</p>
+        <p>HIPPOLYTE RIGAULT-M. CUVILLIER-FLEURY'</p>
+        <p>En inscrivant en tête de ces pages deux noms, l'un si regretté, l'autre si estimé, nous voudrions agrandir un peu la question et toucher à quelques points souvent controversés dans la critique contemporaine. On nous a parfois accusé d'exagération rigoriste : nous acceptons le reproche, mais non pas dans toutes ses conséquences. On se tromperait étrangement, sinon sur nos croyances, au moins sur nos prétentions, si l'on nous attribuait la ridicule pensée de réduire le critique moderne au rôle d'exécuteur public, chargé de frapper sans pitié toute œuvre suspecte de la plus légère atteinte aux plus sévères lois de l'orthodoxie religieuse, morale et littéraire. Parmi les inconvénients de ce rôle, il en est un que l'on a pu signaler dans ces derniers temps et que le sentiment de notre faiblesse doit nous rendre fort redoutable. Une fois</p>
+        <p>1 Hippolyte Rigault, OEuvres complètes. — M. CuviJlier-Fleury,</p>
+        <p>Dernières Etudes historiques et littéraires.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Au commencement de ce siècle deux forces se trouvèrent en présence dans la littérature comme dans le monde : la Révolution, disciplinée, ajournée, mais non pas vaincue,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>A présent, il est facile de déterminer les distances entre la critique que j'appellerais du juste-milieu, si ce mot n'é- veillait de désobligeants souvenirs et d'injustes épigrammes, et celle que nous voudrions défendre contre les reproches d'obscurantisme ou de fanatisme. Les liens les plus honorables, les opinions les plus sincères, les satisfactions les plus légitimes attachèrent des écrivains tels que M. Cuvillier-Fleury, et, plus tard, tels qu'Hippolyte Rigault, aux institutions et aux personnes qui remplacèrent, en 1830, la royauté restaurée en 1814; et, ne l'oublions jamais, chez ceux qui eurent, comme Rigault</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>quand nous avons l'honneur de rencontrer des adversaires tels que Rigault et M. Cuvillier-Fleury, dont nous rappro-, client bien des poiuts de contact et qui méritent toutes nos sympathies, saluons-les de l'épée et tâchons de nous unir le plus souvent possible contre l'immoralité, la déraison et le mauvais goût.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Il est facile maintenant d'indiquer les supériorités et les désavantages de cette critique. Elle s'est spirituellement qualifiée elle-même de défensive : si l'on adopte ce mot, si on lui donne toute son extension stratégique, on pourrait dire qu'en fait de croyances, de morale, de décence et de goût, cette critique défend tout ce qui est acquis, incontesté, ratifié par la moyenne, c'est-à-dire par l'immense majorité des esprits et des consciences ; gardant courageúsement la place, ne se permettant, que de rares-sorties, évitant de se porter sur des points plus disputés, plus découverts, où ses entreprises soulèveraient plus de résistance et de tumulte. Dans les conditions ordi-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Parlerons-nous des désavantages? Nous ne pourrions y insister sans craindre de tomber dans des redites. Évidemment le côté faible de cette critique est de ne pas toujours accepter, comme diraient des pédants, toutes les prémisses de ses conclusions et toutes les conclusions de ses prémisses. Il y a dans le bien, dans le beau, dans le vrai qu'elle honore et qu'elle défend, des filiations et des origines dont elle croit pouvoir se passer : il y a dans le mal qu'elle attaque et dont elle s'alarme des gradations, des enchaînements logiques qui l'importunent et qu'elle néglige. A tout moment, si ses lecteurs n'étaient pas, en général, beaucoup plus inconséquents qu'elle-même, ils auraient le droit de lui dire : Mais pourquoi, si cela est vrai, ceci est-il faux? Pourquoi, si cela est mal, ceci estil bien? Pourquoi, si cela est laid, ceci est-il beau?</p>
+        <p>
+          <pb/>
+        </p>
+        <p>La décence est-elle toute la vertu? Le goût est-il la conscience? Dans les lettres comme dans le monde, suffit-il de sauver les apparences pour être glorifié ? La notion du bien et du mal n'est-elle pas variable et fragile, si elle ne s'appuie sur d'impérissables vérités ? — Questions indiscrètes, je le sais, gênantes pour la critique, gênantes pour l'art, mais qui ont pourtant leur valeur !</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>ces redoublements de fidélité, ces effets de conciliation, en présence d'hommes tels que Rigault et M. Cuvillier-Fleury, sont au nombre des joies les plus vives de la conscience, des plus douces consolations de la défaite.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>II</p>
+        <p>MADAME SWETCHINE1</p>
+        <p>i</p>
+        <p>1 Madame Swetchitte, sa vie et ses œuvres, publiées par M. le comte de Falloux.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>la suite a prouvé que nul n'était entré plus avant dans ce cœur qui se multipliait en se partageant.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Il</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>« Entre l'homme-Dieu et ses imitateurs, il n'y a, hors la grâce, pour combler l'abîme, que la douleur et sa puissante plénitude. C'est par la souffrance que Dieu a été le plus homme ; c'est par la souffrance que l'homme s'approche le plus de Dieu.</p>
+        <p>« Demandez aux affections de la terre si la crainte de souffrir arrêta jamais dans l'amour une âme généreuse, et si l'infaillible signe d'un cœur touché n'est pas de compter pour rien le sacrifice et l'obstacle ?...</p>
+        <p>« Malgré notre avidité de bonheur, malgré notre répugnance pour des épreuves trop nécessaires, la satiété est au bout de toutes nos jouissances ; il n'est pas un senti-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>ment élevé, profond et pur, qui n'ait pour volupté une sainte tristesse.</p>
+        <p>« Cet attrait secret vers l'indicible inquiétude se mêle aux affections de toute âme d'élite. Les éléments de joie et de mélancolie existent dans un même cœur et souvent bien près l'un de l'autre ; ils s'y confondent, et, s'ils présentent une contradiction, cette contradiction ne signale que mieux l'heureuse inconséquence qui ressort de notre double nature.</p>
+        <p>« Au milieu de toutes les recherches de l'ambition et du plaisir, au sein de toutes les appréciations factices et vaines, ce sont encore ceux qui courent la carrière des prospérités que dévore le plus sûrement, sous les yeux du public frivole qui les envie, le dégoût prématuré.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>1</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>« Les êtres qui paraissent froids et qui ne sont que timides adorent dès qu'ils osent aimer.</p>
+        <p>« Qu'est-ce que se résigner? C'est mettre Dieu entre la douleur et soi.</p>
+        <p>« Il y a des questions si indiscrètes, qu'elles ne méritent ni la vérité ni le mensonge.</p>
+        <p>%</p>
+        <p>c Le plus coupable des excès de la liberté est de se nuire</p>
+        <p>« A l'égard des princes, je dirai comme les protestants pour un plus haut maître : le service sans le culte.</p>
+        <p>« Qui a cessé de jouir de la supériorité de son ami a cessé de l'aimer.</p>
+        <p>« Les cœurs aimants sont comme les pauvres : ils vivent de ce qu'on leur donne.</p>
+        <p>« Il est des choses qu'on ne peut s'empêcher de savoir, mais qu'il n'est jamais permis de s'avouer.</p>
+        <p>« Les chaînes qui nous serrent déplus près sont celles qui nous pèsent le moins.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>« C'est prodigieux tout ce que ne peuvent pas ceux qui peuvent tout !</p>
+        <p>« Au fond, il n'y a dans la vie que ce qu'on y met.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>TTI</p>
+        <p>M. VICTOR COUSIN1</p>
+        <p>1 Madame de Longueville pendant la Fronde, 1651-1655. \</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>épargner le plus madame de Longueville, quant aux mensonges qui la représentent, non plus comme une héroïne se trompant de route, mais comme une coquette changeant de caprice, non plus comme une Mandane, mais comme une Célimène, M. Cousin en fait bonne et vaillante justice. Cette réfutation passionnée de l'amant contemporain par l'amant d'outre-sièclès, le singulier spectacle de cette passion rétrospective, plus délicate, plus respectueuse, plus constante, plus attentive au bien, plus incrédule au mal que celle qu'auraient dû retenir la présence de l'objet aimé et le souvenir même de ses bontés, tout cela, relevé par un style incomparable où les perfections du grand siècle se colorent et se réchauffent au feu d'un sentiment vrai, forme un ensemble dont rien n'égale le grave et irrésistible attrait.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>ment, après avoir été le rempart et l'ornement de la royauté, on peut devenir l'esclave et le jouet de la multitude.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>senties, que l'on a presque envie d'absoudre l'héroïne pour consoler l'historien.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>IV</p>
+        <p>M. GUIZOT1</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Le succès est donc grand, et il faut s'en réjouir, alors même qu'on eût pensé autrefois ou que l'on penserait encore aujourd'hui autrement que M. Guizot sur quelques points discutés ou quelques faits racontés dans cette partie de ses Mémoires. S'ensuit-il que ces dissidences passées ou présentes doivent complètement disparaître dans une admiration justifiée par l'élévation des idées, la dignité du langage, la sincérité des convictions, la perfection des portraits, la beauté.du style? Nous ne le croyons pas. Après ces grandes catastrophes, ces communes défaites</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Pour les lecteurs superficiels, ces deux chiffres, 1 8521836, ne sont que deux dates ordinaires : dans le fait et dans la pensée de M. Guizot, ce court espace de quatre années représente une phase particulière ; l'établissement, l'entrée en fonctions définitive de la politique dont l'illustre écrivain devait être plus tard la personnification la plus éloquente, et qu'il installa dès lors comme mi-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>DEUX LIVRES SUR L'ITALIE 1</p>
+        <p>^ y</p>
+        <p>-</p>
+        <p>MM. L. DE GAILLARD ET CH. DE MAZADE</p>
+        <p>1 I. Questions italiennes, par M. Léopold de Gaillard. — II. L'Italie</p>
+        <p>moderne, par M. Charles de Mazade.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>I</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>1 César Cantu.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>fois que l'image sacrée de Pie IX reparaît dans le livre de M. de Gaillard, on y sent vibrer une émotion communicative, une douloureuse et filiale tendresse qui n'a rien, Dieu . merci! d'autrichien ni d'absolutiste. — « Nous inclinâmes nos fronts et nos genoux devant le représentant de</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Il</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Nous comprenons très-bien, pour notre part, et nous admettons les images visibles se traduisant en idées, les révélations soudaines que l'esprit reçoit de ces aspects extérieurs où se dénoncent les conditions topographiques et territoriales d'un pays, ses fortifications naturelles, sa physionomie, son hygiène politique et morale, ses moyens d'indépendance. Essayons donc de saisir au passage ce courant d'idées que M. de Mazade a fait découler des majestueuses hauteurs de Superga, comme ces sources vives des montagnes qui, limpides d'abord et réfléchissant un ciel pur, risquent, si elles rencontrent en chemin des obstacles et des orages, de se changer en torrents, de se remplir de gravier et de fange, et de dévaster leurs rives au lieu de les fertiliser.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>constituée, de promoteur de son indépendance, de fondateur de son autonomie ; et le plus ou le moins d'efficacité de cette initiative du Piémont, comme moyen d'en finir avec cet esprit démagogique et révolutionnaire que M. de Mazade déteste, et qui, le jour où tout le inonde serait d'accord, n'aurait plus, en effet, le moindre prétexte pour s'agiter, vociférer, blasphémer, massacrer, épouvanter les honnêtes gens et déshonorer, comme toujours, la cause de l'indépendance italienne.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>1 Revue des Deux-Mondes du 15 murs 1860.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>1 Ces pages, publiées d'abord en mars 1860, ont été, héla s! nonseulement justifiées, mais dépassées et comme absorbées par les événements ultérieurs. Nous n'avons pas cru devoir y rien changer.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>VI</p>
+        <p>M. EDMOND AB 0 lJ T 1</p>
+        <p>1 Rome contemporaine.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>et heureux/4^trbVp)?smçais et de cultiver la littérature. Si les imcrodéïits-et iek persécutés, me disais-je, offrent</p>
+        <p>6</p>
+        <p>
+          <pb/>
+        </p>
+        <p>un aspect aussi rassurant, que faut-il penser des favorisés et des habiles? Quelles ne doivent pas être les prospérités des défenseurs de la Vérité vêtue et en habit brodé, puisque les champions de la Vérité toute nue font encore une si bonne figure dans notre beau pays et de si excellentes affaires ?</p>
+        <p>Quel beau style ! quelle noblesse de pensée et de langage ! Comme on sent une intelligence habituée aux ho-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>«... Le Pape n'a besoin de soldats ni pour la conquête, ni pour la défense ; car ses voisins sont des princes catholiques qui se feraient un cas de conscience d'armer contre un vieillard inoffensif. »</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>1 10 novembre 1860.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>L'HISTOIRE CONJECTURALE</p>
+        <p>VII</p>
+        <p>MM. DE LARCY ET P. MESNARD '</p>
+        <p>1 I. Vicissitudes politiques de la France. - Il. Projet de gouvernement du duc de Bourgogne.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>même chez ses adversaires, les plus sérieuses sympathies. Éloigné par les événements de cette scène politique où tous les lustres d'ailleurs s'éteignaient l'un après l'autre, M. de Larcy a consacré sa retraite à cette œuvre où se révèlent tout ensemble de prodigieuses lectures, un vrai talent d'écrivain et un amour passionné pour la France; un de ces amours que ne découragent ni l'aveuglement ni l'ingratitude de l'objet aimé. Après avoir été un des orateurs de notre tribune, M. de Larcy prend rang parmi nos historiens ; réunissant ainsi deux gloires qui, d'après Cicéron, sont au nombre des plus difficiles et des plus rares.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Rubens ou de Véronèse?</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>yin</p>
+        <p>ROYER-COLLAHH 1</p>
+        <p>i Une Biographie inédite de Royer-Collard</p>
+        <p>
+          <pb/>
+        </p>
+        <p>7.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>IX</p>
+        <p>M. L. VITET 1</p>
+        <p>1 La Ligue, précédée des États d'Orléans, scènes historiques.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>apporte ses ingrédients et ses sortilèges, et que la dernière figure de cette galerie s'appelle Henri IV. Dans cette foule bigarrée de cuirasses et de robes rouges, de manteaux de velours et de frocs, de simarres et de pourpoints, trois personnages entre tous font le plus grand honneur au crayon, que dis-je? au burin de M. Vitet; Marie Stuart,</p>
+        <p>Henri III et Henri IV.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Lesueur.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>X</p>
+        <p>LE MARQUIS D'AnGENSON 1</p>
+        <p>1 Journal et Mémoires, publiés par l'tf. Rathery; Ier vol.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>' Madame Rose Chéri. dans le Père prodigue.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Qu'est-ce donc que ce marquis d'Argenson? Quelle sorte d'intérêt et de curiosité doivent éveiller ses ouvrages? En quoi fut-il supérieur, ou, pour mieux dire, précurseur au milieu des frivolités de son époque? Comment, tout en lui échappant par maint endroit, en gardet-il, dans plusieurs autres, l'irrécusable empreinte? Telles sont les principales questions que soulève cette lecture, et que la remarquable introduction de M. Rathery nous met en mesure d'aborder et de résoudre.</p>
+        <p>Le marquis René d'Argenson était le fils aîné du célèbre lieutenant de police. Les courtisans l'avaient surnommé d'Argenson la bête pour le distinguer de son frère. Saint-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Simon l'a appelé balourd; ce qui prouve une fois de plus y, que la postérité a raison de se croire la cour de cassation ^ des jugements contemporains. Pourtant ce balourd sut déjà, de son vivant, se faire compter pour quelque chose. | Il fut conseiller au Parlement, conseiller d'État, inten. r dant du Hainaut et Cambrésis, ambassadeur nommé en i</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>1 N'est-il pas remarquable que ces deux noms politiques d'ancien régime, d'Argenson et de Chauvelin, se soient, un siècle après, retrouvés côte à côte aux premiers rangs de l'opposition ultra-lij¡érale contre la Restauration?</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>L'ANCIEN ET LE NOUVEAU JOUHNAL DES DÉBATS1</p>
+        <p>XI</p>
+        <p>MM. SAINT-MARC GIRARDIN ET PRÉVOST-PARAIM</p>
+        <p>1 Souvenirs el Réflexions politiques d'un Journaliste, par M. Saint</p>
+        <p>Marc Girardin. — Essais de Politique et de Littérature, par M. Pré vol-Paradol.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>On a dit avec raison que tout homme qui veut mettre la main ou la plume dans l'histoire politique de son temps doit préalablement régler ses comptes avec la Révolution</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>qu'elle espère, ni où elle va. Si j'en crois ce remarquable chapitre d'histoire où M. Saint-Marc Girardin caractérise avec tant de vérité et de convenance Louis XVI et Marie-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>serait aujourd'hui, après trente ans de surexcitations, de mécomptes, d'apostasies et de lassitudes ?</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>XII</p>
+        <p>M. PAUL DE MOLÈNES 1</p>
+        <p>1 Les Commentaires d'un Soldat.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>1 l'Assemblée nationale.</p>
+        <p>- l'Union.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>instruments de mort dont la science moderne a décu-</p>
+        <p>, plé les ravages et la portée! Encore une fois, que M. de</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Piien de plus éloquent : je ne sais pourtant si je ne préfère pas, dans leur énergie un peu farouche, ces</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>de ce soldat qui, après avoir vaillammènt traversé ces terribles guerres, a retrouvé au fond de sa giberne une plume assez bien taillée pour nous en donner un digne commentaire. 1</p>
+        <p>
+          <pb/>
+        </p>
+        <p>XIII</p>
+        <p>LE GÉNÉRAL MOLINE DE SAINT-YON 1</p>
+        <p>1 Histoire des comtes de Toulouse.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>sœur aînée, doit être plus véridique, et nul n'était plus digne que le général de Saint-Yon de redresser ses torts et d'indemniser ses victimes.</p>
+        <p>Nous reviendrons sur l'œuvre du général de SaintYon, quand paraîtront ses deux derniers volumes, dont l'intérêt ne peut manquer de grandir encore avec le sujet même. Pour aujourd'hui, saluons l'œuvre et l'auteur d'un sincère et respectueux hommage. On nous accuse souvent de deux torts graves en littérature : d'être .pessimiste et alarmiste. Et pourtant, avec quelle joie</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>XIV</p>
+        <p>M. ALFRED NETTEMENT'</p>
+        <p>1</p>
+        <p>1 Histoire de la Restauration, tome Ier.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>tournent contre eux-mêmes leurs mains meurtrières et croient échapper à la justice des hommes en lui montrant ; le sang de leurs blessures.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Il</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>[ Révolution lui avait pris et qu'elle voulait garder, quoique vaincue?</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Pour triompher de ces difficultés incroyables, pour installer sur ces ruines neuves ou antiques, immobiles ou mouvantes, des institutions solides et durables, qu'eût-il fallu? M. Nettement nous l'indique sans surfaire personne, il eût fallu un génie surnaturel et des vertus surhumaines, non-seulement chez le souverain, mais chez les hommes</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>César.</p>
+        <p>Tout préparait d'ailleurs ce funèbre épisode, au dehors comme au dedans. En son excellent chapitre sur le con-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>xv</p>
+        <p>LE R. P. XAVIER DE RAVIGNAN</p>
+        <p>1</p>
+        <p>1 Par leR. P. de Pontlevoy.</p>
+        <p>2 Samedi-saint, avril 1860.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>fût assez malheureux pour n'y pas reconnaître la vocation et l'efficacité divine, ce spectacle ne résume-t-il pas tout ce qui mérite de fixer les nobles intelligences et de faire battre les cœurs généreux; la lutte, l'immolation, le sacrifice, la constante victoire des facultés supérieures de notre être sur les plus basses, ce perpétuel mécontentement de soi-même, qui, dans la conscience comme dans l'art, produit seul les œuvres durables, et cet idéal chrétien qui serait encore le plus sublime effort de la nature humaine quand même il ne serait pas la preuve la plus éclatante de la grâce céleste ? Or, lorsque l'on apprit la mort du révérend père de Ravignan, il n'y eut qu'une voix pour dire que d'autres écrivains, ecclésiastiques ou laïques, pouvaient dignement apprécier en lui et retracer éloquemment l'homme extérieur, mais que l'homme intérieur appartenait par droit de cellule au père de Ponlevoy.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Dans l'ensemble de sa carrière plus laborieuse que longue, le père de Ravignan nous apparaît comme la réhabilitation vivante de tout ce que son siècle a le plus méconnu et calomnié, comme l'expression la plus parfaite</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Et pourtant, que d'injustices encore ! On se souvient des discussions de 1845,1844,1845, ou plutôt il faudrait</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Dieu me ramène ! »</p>
+        <p>II</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Ce ne fut pas là, — le père de Ponlevoy nous le rappelle, — le seul genre d'influence exercé par le père de Ravignan dans cette grande affaire de la loi sur l'enseignement et sur les congrégations religieuses. Il y en eut</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Et beaucoup que je sais, et beaucoup que j'oublie !</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>tant la vie du père de Ravignan ; mais je crois sincèrement qu'une partie de l'art moderne n'est tombée si bas que parce que la matière y a de plus en plus prévalu sur l'âme, et j'ajoute que le livre du père de Ponlevoy n'a tant de charme que parce que la matière y est de toutes parts vaincue, parce que l'âme s'y dégage et y rayonne dans un flot de céleste lumière.</p>
+        <p>1 Voir l'Etude suivante sur Chateaubriand et son groupe, par</p>
+        <p>M. Sainte-Beuve.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>XVI</p>
+        <p>CHATEAUBRIAND ET M. SAINTE-BEUVE 1</p>
+        <p>1 Chateaubriand et son groupe littéraire sous l'Empire.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Les précautions sont si bien prises, l'atmosphère extérieure si soigneusement interceptée, la critique et la foule si parfaitement endoctrinées, que ce grand écrivain, dont</p>
+        <p>Jes meilleurs chefs-d'œuvre avaient rencontré des détracteurs et soulevé des orages, ne trouve que des panégyristes pour les tristes productions de sa vieillesse. Enfin, par une coïncidence ou un contraste qui a aussi sa majesté, le jour où ce glorieux octogénaire descend dans la tombe, — une tombe arrangée pour l'effet comme tout le reste de sa vie, — on dirait que les débris du vieux monde, les restes de l'antique société vont disparaître avec lui. La république qu'il a rêvée et flattée s'incline devant ses funérailles, et, dans ce siècle coupé en deux par la grande victoire démocratique, le passé emporte sa dépouille comme un trésor, l'avenir répète son nom comme un précurseur.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Ava-t tout, un sentiment que M, Sainte-Beuve a pris</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Beuve.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>1 1" Mars .1834. La phrase mérite d'être citée textuellement : « Critique de second ordre dans le Génie du christianisme, voyageur inexact et verbeux dans Y ilindraii-e, imitateur patient, mais inutile, de Virgile et d'Homère dans les Martyrs et les Natchez, Chateaubriand, etc., etc. » Dans le même artide, ce bon Gustave Planche parle</p>
+        <p>« (les trésors contenus dans l'âme ardente et poétique de Sainte-Beuve,</p>
+        <p>En général, rien de curieux comme les jugements portés alors par les</p>
+        <p>
+          <pb/>
+        </p>
+        <p>illustres sur d'autres illustres : par Gustave Planche, sur Chateaubriand,</p>
+        <p>Lamartine, Victor Hugo, Sainte-Beuve, etc.; par George Sand, sur madame de Slaël; par N. de Vigny, sur Napoléon I"; par Sainte-Beuve, sur</p>
+        <p>Chateaubriand, sur Lamartine, sur LÓuis-Philippe, sur Balzac; par</p>
+        <p>Lherminier, sur Lamennais, sur l'abbé Lacordairc, etc. Il faudrait prendre exactement le contre-pied de ces jugements superbes pour avoir ce qui est resté la vérité actuelle et définitive. Nous les recueillerons peut-être un jour, pour essayer de nous faire pardonner nos propres éi'Ormités,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>D'abord il est évident que les nombreuses notes qui soulignent, pour ainsi dire, chacune de ces pages, que le</p>
+        <p>Chateaubriand et les divers extraits de lettres ou Mémoires inédits, ne sont pas de la même inspiration que les vingt et une leçons professées à Liège : questa coda non è</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>traité avec la spirituelle et facile indulgence d'une fidèle amitié, et celui de M. Villemain, vu et retracé par les grands côtés, avec toutes les magnificences de cette brillante manière, presque contemporaine,'presque égale du héros et du sujet.</p>
+        <p>.y</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>parlé ou écrit. Patience! la génération qui nous pousse et dont vos opérations anatomiques flattent tous les instinéts, mettra dans ses idées, dans ses mœurs, dans ses sentilIlents, dans ses écrits, dans son style, un si parfait accord, qu'elle épargnera aux Saumaise futurs, ou plutôt aux Sainte-Beuve de l'avenir, tout embarras, tout travail de réduction et de triage 1</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Tallemant des Réaulx ?</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Beuve a le plus profondément détesté. Tout se paye ; c'est une loi morale qu'en littérature comme ailleurs les petits ont le droit de rappeler lorsque les grands l'oublient.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>XVII</p>
+        <p>M. EDGAR QUINET 1</p>
+        <p>t Merlin l'Enchanteur.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Triades.</p>
+        <p>— Fort bien, licornes vagabondes ! Fort bien, chimères aux ailes de soie ! Mais un pauvre critique est obligé d'ex' pliquer ce qu'il a lu ; et comment voulez-vous qu'il explique ce qu'il n'a pas compris?</p>
+        <p>
+          <pb/>
+        </p>
+        <p>— Oiseaux bleus, licornes et chimères, je me prosterne et j'obéis.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Hélas! cette lune de miel eut un terme : quelques siècles s'étaient écoulés, et, un matin, Merlin jugea que Viviane vieillissait: rien de plus faux, car la beauté de</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>de ces infidélités bruyantes, toutes les larmes qu'elle répandait, toutes les prières qu'elle répétait pour essayer</p>
+        <p>Cependant Merlin, comme presque tous les mauvais sujets et les maris qui se dérangent, était dans le fait un assez bon diable. Il y avait en lui un fond de droiture naturelle et un reste d'amour pour Viviane. Il eut un jour</p>
+        <p>ses pleurs et pardonna. Mais, instruite par le malheur,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>On doute,</p>
+        <p>La nuit...</p>
+        <p>J'écoute :</p>
+        <p>Tout fuit ..</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Tout passe :</p>
+        <p>L'espace</p>
+        <p>Efface</p>
+        <p>Le bruit.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LE LA FONTAINE DES VIEILLARDS ET LE LA FONTAINE</p>
+        <p>DES ENFANTS</p>
+        <p>XVIII</p>
+        <p>MM. TAINE ET LOUIS RATISBONNE1</p>
+        <p>1 La Fontaine et ses Fables, - lia Comédie enfantine,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>fenêtre, j'aspire une gorgée d'air pur, et mes yeux se re; posent en regardant les étoiles.</p>
+        <p>Je ne dirai pas que, devant M. Taine, je me sens petit comme M. Perrichon devant le Mont-Blanc; mais plutôt que je me trouve pauvre comme quand je quitte mon humble cabinet de travail pour entrer dans le magasin de Monbro.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>" XIX</p>
+        <p>M. VICTO H DE L AII RADE 1</p>
+        <p>t Poèmes évangéliques.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Un écrivain que l'on s'est remis â admirer, — j'avoue ne pas savoir pourquoi, — M. Edgar Quinet a dit quelque part : « Non, l'art n'est pas l'orthodoxie et le poëte n'est pas le prêtre : en élaguant ce qu'il désespère d'assouplir,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>— c'est M. de Laprade qui nous le dit dans son beau langage, — plonge ses racines en des profondeurs infinies où l'esprit humain ne doit pas le suivre : mais ses vivaces rameaux ont des fleurs qu'il n'est pas défendu de contempler, des fruits qu'il est permis de toucher et de cueillir.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Quand je pouvais encor vous voir et vous entendre,</p>
+        <p>Quand, parmi vos travaux, ma mère, et vos douleurs,</p>
+        <p>Et faire éclore en vous de la joie ou des pleuts;</p>
+        <p>Avant l'heure où brisant le bonheur domestique,</p>
+        <p>Dieu vous plaça plus haut que vos amours humains,</p>
+        <p>Lorsque ma lèvre encor s'appuyait sur vos mains,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Trop souvent de mon cœur j'ai retenu la voix ;</p>
+        <p>Ces choses qu'un bon fils doit dire mille fois</p>
+        <p>Pour payer, s'il se peut, les peines d'une mère...</p>
+        <p>
+          <pb/>
+        </p>
+        <p>2 novembre 1800.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>LE RÉALISME EN MAINS PROPRES</p>
+        <p>xx</p>
+        <p>MM. PAUL PERRET ET PAUL DELTUF</p>
+        <p>e,</p>
+        <p>Quand on songe que les premiers romans ont commencé ainsi : « Il y avait une fois un roi et une reine », on est tenté de redire le mot célèbre de M. Laine : « Les rois s'en vont. » Le roman, sous ce rapport comme sous bien d'autres, prend ses avances sur la politique et sur l'histoire. Quel chemin n'a-t-il pas parcouru depuis le bon temps où les aventures royales lui semblaient seules dignes de nous être racontées? Après les rois et les reines, il s'est rabattu sur les princes, les princesses et les grands seigneurs, et il est allé, avec mademoiselle de Scudéry, les chercher en Perse ou en£appadoce, plutôt que de déroger : pu 's, avec madame de Souza, il est descendu aux simples gentilshommes, mais en gardant toutes les élégances et toutes les exquises façons de l'ancienne cour. Ensuite est venue cette société un peu mêlée que comportent les temps de révolution; patriciennes et courtisanes, mousquetaires et rapins, nobles et bourgeois, bohèmes et</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Lorsque la société d'avant 89 lisait Manon Lescaut ou Marianne, la Nouvelle Héloïse ou Paul et Virginie, lorsque la génération, assombrie par de formidables catastrophes lisait Werther ou René, lorsque la jeunesse enthousiaste d'innovations, de conquêtes littéraires et sociales, lisait Notre-Dame de Paris, Indiana ou Eugénie Grandet, le succès de ces œuvres si diverses ne résultait pas seulement de leur mérite, mais du parfait accord où se confondaient, pour ainsi dire, l'auteur, son siècle, ses personnages et ses lecteurs. Évoquez au hasard, dans la longue série des romans célèbres, ceux qui ont marqué leur date et laissé une trace dans l'esprit des contempo-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>En se montrant plus éclectique, moins absolu dans le</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>XXI</p>
+        <p>M. OCTAVE FEUILLET</p>
+        <p>AUTEUR DRAMATIQUE 1</p>
+        <p>1 Dalila. — Le Roman d'un jeune homme pauvre, — La Tentation,</p>
+        <p>— Rédemption.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>roberait quelques-uns de ces discrets avantages, même pour lui donner en échange des ovations plus retentissantes et de plus riches couronnes : c'est pour cela qu'au milieu de son succès le plus éclatant, nous osâmes exprimer nos affectueuses alarmes.</p>
+        <p>Monde.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Maintenant, pour qu'il nous fût possible d'amnistier cette nouvelle Rédemption, dramatisée et augmentée, il faudrait que M. Octave Feuillet, en revenant sur ce scabreux sujet, que nous avons vu, dans ces derniers temps,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>M. Octave Feuillet avait trop de Jact pour essayer de trancher une difficulté insurmontable, pour chercher une issue dans une impasse, pour prononcer, même du bout des lèvres et derrière la toile, le mot officiel, celui que la vraie morale réclame, mais qui placerait réciproquement</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Maurice lance contre elle. Mais d'abord c'est un succès d'actrice plutôt encore que d'auteur ; ensuite on ne peut s'empêcher de remarquer que tout le monde, dans Ré-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Je vois, je sais, je crois, je suis désabusée!</p>
+        <p>On nous permettra de trouver plus spiritualiste et même plus dramatique le dénoûment de Polyeucte.</p>
+        <p>Peut-être aurons-nous paru sévère envers un talent que nous aimons, que la société polie a adopté comme sien, * et que nous avions placé, dans notre estime, bien loin, bien au-dessus des célébrités bruyantes qui flattent le goût public pour le conquérir et acceptent le joug honteux de la littérature démocratique. Mais il ne s'agissait pas seulement de savoir si M. Octave Feuillet est ou</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Au milieu de tristesses plus générales et plus sérieuses auxquelles nous avons dû nous arracher en traitant une simple question littéraire, la décadence, ou, pour parler plus juste, la vulgarisation de M. Octave Feuillet compterait parmi nos griefs contre notre temps ; et ces griefs sont, hélas ! assez nombreux pour qu'il nous semble bien pénible de les multiplier encore.</p>
+        <p>20 novembre 1860.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>XXII</p>
+        <p>M. LOUIS VEUILLOT 1</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Essayons d'étudier, non pas le talent ,—il est immense,</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>A UNE ÉPLonÉE.</p>
+        <p>Cachez vos pleurs, madame, et votre épaule</p>
+        <p>Si vous voulez; — mais hi, sincèrement. —</p>
+        <p>Que le bon Dieu calme votre tourment;</p>
+        <p>Ne chantez plus la romance du Saule!</p>
+        <p>C'est la coutume aux dames de la Gaule</p>
+        <p>D'avoir le cœur en plein déchirement,</p>
+        <p>Et de rogner trop sur le vêtement :</p>
+        <p>Leur deuil n'est triste, hélas! que de son rôle.</p>
+        <p>Donc il faudrait qu'un ange vint des cieux</p>
+        <p>Pour étancher les pleurs de vos beaux yeux?..:</p>
+        <p>Et vous brillez un peu plus qu'une étoile</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Dame, Dieu fit les anges, s'il vous plaît,</p>
+        <p>Pour admirer la beauté qui se voile</p>
+        <p>Et consoler la douleur qui se tait.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>1</p>
+        <p>
+          <pb/>
+        </p>
+        <p>1 M. Louis Veuillot, dans les éditions suivantes, a bien voulu me sacri fier cette page.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>XXIII</p>
+        <p>EUGÈNE SCRIBE</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>tout, même en face de ce regain de popularité et de gloire, sauvegarder les droits de l'idéal, de la poésie, de l'art vrai, de la vraie littérature, de la vraie morale, de celle qui ne s'occupe pas d'empêcher la fille d'un boutiquier de se faire enlever par un commis de magasin, et qui dédaigne de combattre de petites passions par de petits calculs mis au service de petits intérêts et de petites causes.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>\</p>
+        <p>
+          <pb/>
+        </p>
+        <p>liberté sous ses pavés, M. Scribe, dans son cabinet de travail, tissait paisiblement un libretto d'opéra, qui fut joué plus tard avec un grand succès sur un de nos théâtres lyriques. Archimède, dit-on, en avait fait autant, mais Archimède n'écrivait pas de vaudevilles. Sans chercher là un sujet d'admiration ni de blâme, on peut dire que de pareils traits expliquent et précisent cette physionomie, telle que nous croyons la connaître et que nous essayons de l'esquisser. Peut-on s'étonner ou se plaindre que l'homme qui, en face de la Yung-Frau ou du Righi, se détachait assez complètement de ses émotions pittoresques pour ne songer qu'aux amours de Bertrand et de Suzette, l'homme qui, au milieu des hurlements de l'insurrection triomphante, savait assez bien s'abstraire de ses angoisses politiques pour filer une scène de ténor et de première chanteuse, en ait agi avec les vérités morales comme avec les montagnes de l'Oberland et les barricades de Paris ?</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Dans la Conversion, il attaquait la confession et le célibat</p>
+        <p>
+          <pb/>
+        </p>
+        <p>des prêtres; dans le Tête-à-tête, je retrouve ces lignes, qui donneront une idée de l'esprit du moment et de la façon dont M. Scribe le courtisait :</p>
+        <p>
+          <pb/>
+        </p>
+        <p>petites adulations au profit des lieux communs et. des préjugés populaires : ce ne fut pas précisément héroïque, mais ce fut habile, et, encore une fois, cela se traduisait dans une langue qui n'avait que deux mots, deux synonymes : le public et le succès.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>toute la force de l'âge et du génie, le lendemain de son chef-d'œuvre.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>Nous nous sommes efforcé, dans tout le cours de celte étude, de rester impartial, et, l'avouerons-nous? de lutter</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>FIN</p>
+        <p>
+          <pb/>
+        </p>
+        <p>TABLE</p>
+        <p>1. — Hippolyte Rigault. — M. CuviUier-Fteury 1 II. — Madame Swetchine et M. de Falloux 31 III. — M. Victor Cousin 55</p>
+        <p>IV. — M. Guizot 65</p>
+        <p>V. — MM. L. de Gaillard et Cli. de Mazade....... 75 VI. — M. Edmond About 96</p>
+        <p>VII. — MM. de Larcy et P. Mesnard 105 VIII. — Royer-Collard H6 IX. — l'tl. L. Vitet 127</p>
+        <p>X. — Le marquis d'Argenson 137</p>
+        <p>XI. — MM. Saint-Març Girardin et Prévost-Paradol 148 XII. — M. Paul de Molènes. ................ 159</p>
+        <p>XIII. — Le général Moline de Saint-Yon, 170 XIV. — M. Alfred Nettement 181</p>
+        <p>XV. — Le R. P. Xavier de Ravignan. 200 XVI. — Chateaubriand et M. Sainte-Beuve 223</p>
+        <p>XVII. — M. Edgar Quinet 255 XVIII. — l'tm. Taine et Louis Ratisbonne 265</p>
+        <p>XIX. — M. Victor de Laprade 274</p>
+        <p>XX. — ItlM. Paul Perret et Paul DelU^^Tï^^..... 284 XXI. — M. Octave Feuillet, auteur dra^a^ique.... 294 XXII. — M. Louis Veuillot W '^\ • .. 317</p>
+        <p>XXIII. — Eugène Scribe....|"r , ^ j ... 530</p>
+        <p>Pl.li 1)10 LA TABLE N</p>
+      </div>
     </body>
   </text>
 </TEI>

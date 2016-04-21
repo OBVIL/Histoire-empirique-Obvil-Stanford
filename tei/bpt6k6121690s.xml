@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
- <teiHeader>
-<fileDesc>
-<titleStmt>
-<author key="Lemercier, Népomucène-Louis (1771-1840)">Népomucène-Louis Lemercier</author>
-<title>D'une opinion de M. de Châteaubriand dans le "Conservateur", par M. Lemercier,...</title>
-</titleStmt>
-<editionStmt>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>D'une opinion de M. de Châteaubriand dans le “Conservateur”, par M. Lemercier,...</title>
+        <author key="Lemercier, Népomucène-Louis (1771-1840)">Népomucène-Louis Lemercier</author>
+      </titleStmt>
+      <editionStmt>
         <edition>OBVIL/BNF</edition>
         <respStmt>
           <resp>reprise des textes</resp>
           <name>Amélie Canu</name>
         </respStmt>
       </editionStmt>
-<publicationStmt>
+      <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
         <availability status="restricted">
@@ -22,238 +22,212 @@
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
             <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
             <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
-<sourceDesc>
-<bibl>
-<author>Lemercier, Népomucène-Louis (1771-1840)</author>, <title>D'une opinion de M. de Châteaubriand dans le "Conservateur", par M. Lemercier,...</title>, <date>1818</date>,description :,42 pages
-</bibl>
-<publisher>F. Didot (Paris)</publisher>
-<idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k6121690s</idno>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1818">1818</date>
-</creation>
-<langUsage>
-<language ident="fr"/>
-</langUsage>
-</profileDesc>
- </teiHeader>
+      <sourceDesc>
+        <bibl> <author>Lemercier, Népomucène-Louis (1771-1840)</author>, <title>D'une opinion de M. de Châteaubriand dans le "Conservateur", par M. Lemercier,...</title>, <date>1818</date>,description :,42 pages </bibl>
+        <publisher>F. Didot (Paris)</publisher>
+        <idno type="Gallica">http://gallica.bnf.fr/ark:/12148/bpt6k6121690s</idno>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1818">1818</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-    <div>
-<p><pb/></p>
-<p>D'UNE OPINION</p>
-<p>DE M. DE CHATEAUBRIANT,</p>
-<p>DANS LE CONSERVATEUR.</p>
-<p>PAR M. LEMERCIER,</p>
-<p>Membre de l'Institut (Académie française.)</p>
-<p>A PARIS,</p>
-<p>CHER</p>
-<p>FIRMIN DIDOT, rue Jacob, n° 24. NEPVEU , passage des Panoramas, n° 0.6.
-DELAUNAY, au Palais-Royal, Galerie de Bois. BARBA, au Palais-Royal, n° 7.</p>
-<p>Dec. 1818.</p>
-<p><pb/>
-------------------------------------------------------------------------</p>
-<p>D'UNE OPINION</p>
-<p>DE M. DE CHATEAUBRIANT.</p>
-<p>Nous risquons tous aujourd'hui de ne plus nous entendre, depuis que nous
-avons la manie de créer des expressions pour toutes les matières que
-nous devrions définir par des ternies clairs et reçus avant que de
-disserter sur elles. Le langage théologico-méthaphysique obscurcit tout.</p>
-<p><pb/></p>
-<p>(4)</p>
-<p>Il m'a fallu lire son article entier pour m'en bien expliquer le titre.
-Adoptons-le maintenant; et sans chicaner sur la propriété, sur les
-significations des termes qu'il emploie, partons de 14 pour lui prouver
-qu'il renverse, brouille et confond toutes les choses.</p>
-<p>Aucun ministère n'a inventé une morale nouvelle en déclarant que des
-seuls intérêts bien entendus résultent les effets les plus moraux; car
-cet axiome date des premiers temps du monde, ou, en style d'écriture
-sainte, de l'arche de Noé.</p>
-<p>Les intérêts sont la source originelle de tous les devoirs qui en
-ressortent : la morale dite des intérêts a donc primitivement produit la
-morale dite des devoirs; ainsi M. de Châteaubriant a pris les, causes
-pour les effets, le radical pour le dérivé, les conséquences pour les
-principes, et s'est efforcé' de désunir par une fausse analyse ce qui
-est inséparable. Nous essaierons de lui démontrer jusqu'où l'égaré une
-erreur qui le mène si loin.</p>
-<p>Que sont les intérêts ? les premiers liens des familles, des patries,
-des gouvernements, des religions même. Quelles sont les espèces d'inté-</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>(6) soutienne leur vieillesse. Cette obligation du père et de la mère
-dérive donc, d'un intérêt qui concourt avec les tendres sentiments de la
-nature. Il en est ainsi des relations entre les époux, entre les parents.</p>
-<p><pb/></p>
-<p>(7) lois, prescrites par les intérêts. M. de Châteaubriant a raison
-d'assurer que les lois nous disent : Respectez le bien d'autrui; mais
-sur quoi nous affirme-t-il que les intérêts nous disent : Prenez le bien
-d'autrui? C'est pour nous faire conclure que la morale qu'ils inspirent
-est anti-sociale; c'est pour en tirer des arguments contre nos vices,
-qu'il désigne comme levier politique de la civilisation actuelle. Il ne
-songe pas qu'en prêtant cette horrible maxime aux intérêts, il fait
-parler l'état de nature brute, l'état sauvage où tout devient la proie
-d'un instinct aveugle et farouche.</p>
-<p>Où voit-il tant de motifs de se prévaloir des</p>
-<p>malheurs de la classe nombreuse et souffrante</p>
-<p>, au point de se croire en droit de la représenter</p>
-<p>calomnieusement comme en état d'hostilité per-</p>
-<p><pb/></p>
-<p>(8)</p>
-<p><pb/></p>
-<p>(9)</p>
-<p><pb/></p>
-<p>( 10)</p>
-<p><pb/></p>
-<p>(11)</p>
-<p>partagent trois continents de la terre. Elle attisa par-tout le feu des
-bûchers; elle mit l'arquebuse au bras d'un roi exécuteur de ses sujets :
-la seconde termina ces effroyables divisions. Faut-il une preuve moins
-reculée? l'illusion des devoirs attacha la France séduite, éblouie,
-trompée, au char du tyran qui jeta nos armées sur tous les royaumes, qui
-promena son usurpation dans l'Europe entière : la réalité des intérêts
-souleva contre lui toutes les nations opprimées par les actes de son
-despotisme systématique. Les devoirs avaient développé les chaînes de la
-discipline militaire, qui entraînèrent tous nos intérêts sacrés, de
-conquêtes; en conquêtes, au fond d'un abyme. La réaction européenne
-rompit deux fois les barrières de Paris : nous ressaisissons nos
-principes égarés, et. notre indépendance reprend aujourd'hui ses droits.
-En quoi voyez-vous, M. de Châteaubriant, que cette morale des intérêts
-bien entendus soit si vile et si méprisable ? Pourquoi lui préférez-vous
-celle des devoirs? Est-ce parce que celle-ci nous prescrirait l'aveugle
-zèle de l'Eglise et l'esclavage ? Quoi donc ? parce que Bonaparte
-l'adopta pour multiplier des conscriptions que la morale des intérêts de
-tous les pères</p>
-<p><pb/></p>
-<p>(12)</p>
-<p><pb/></p>
-<p>(13)</p>
-<p><pb/></p>
-<p>point que le peuple français vous écoute, puisque le plus grand de ses
-intérêts, c'est de repousser courageusement, c'est d'anéantir, s'il le
-peut, les fanatiques et les despotes.</p>
-<p>L'intérêt ressemble au principe éternel du mouvement ; les devoirs , qui
-ont leur temps et leur lieu, n'en sont que les combinaisons innombrables.</p>
-<p>Les hommes du siècle, dont vous dépréciez le</p>
-<p><pb/></p>
-<p>( 15)</p>
-<p>Réserverez-vous à-présent une telle morale bien éclaircie aux dupes et
-aux imbécilles? Ce qu'elle a de positif, en vous apprenant que l'intérêt
-n'est pas plus une fiction que le devoir, mais un fait, vous
-semblera-t-il désormais un manque d'idées?</p>
-<p><pb/></p>
-<p>(16)</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>(18)</p>
-<p><pb/></p>
-<p>dé2.</p>
-<p><pb/></p>
-<p>( 20 )</p>
-<p><pb/></p>
-<p>(21 )</p>
-<p><pb/></p>
-<p>(22)</p>
-<p><pb/></p>
-<p>est fait : or, tout en gémissant sur les injustices, qu'elle a commises,
-quel téméraire s'arrogerait le droit de s'en prendre aux personnes après
-une irréfragable prescription? Les familles protestantes
-redemandent-elles aux familles catholiques les champs que leur ôta la
-révocation de l'édit de Nantes? Plaignons les parties lésées,
-soulageons, leurs souffrances; mais que de noires peintures de leurs
-plaies ne réveillent plus les ressentiments. Convient-il de demander si
-l'on veut que les nobles soient les valets de leurs fermes ? Quelle
-injure en cette pitié pour les gens de condition que de les supposer ne
-pouvant exister qu'aux gages d'autrui!</p>
-<p>Une simple parabole vous exposera tous les dangers d'un perpétuel objet
-de haine.</p>
-<p><pb/></p>
-<p>La rigide et hautaine morale que nous prêche M. de Châteaubriant dans le
-Conservateur, qu'on nommera celui des abus, ne se montre pas si
-conservatrice de la société, ni si conciliante. Elle nous tance avec
-amertume; elle ne nous fait envisager que de nos mauvais côtés; elle
-allume l'imagination du petit nombre d'honnêtes gens initiés aux
-mystères de sa profondeur. Ce qu'il y a de clair, c'est qu'ils
-n'avoueront jamais que l'on fasse rien de bon, si tout ne se fait par
-eux ; qu'il y ait un ministère et des conseils, s'ils ne sont
-conseillers ou ministres ; que le</p>
-<p><pb/></p>
-<p>( 25 )</p>
-<p><pb/></p>
-<p>(26)</p>
-<p>Réfléchissez bien sur ces choses. J'offre au pinceau qui traça de nos
-moeurs une image rem-</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>( 28 )</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>(30)</p>
-<p>crimes dans la mémoire? Une vertu de rivaliser en jacobinisme? Est-ce à
-de telles frénésies que va la morale des devoirs? Ah! la continuité des
-actions nobles et belles ne fut jamais le produit des transports
-exaltés, mais du calcul fortement intéressé d'une souveraine raison, qui
-pèse la valeur des sacrifices tant pour nous que pour les autres, et qui
-nous maintient dans la résolution d'être humain et juste. Ce calcul nous
-prouve qu'en somme la vertu, même dans les revers, a plus d'avantages
-que le vice dans les prospérités, et que, si la nature ne nous a pas
-faits bons par sentiment, nous devons faire le bien pour notre propre
-intérêt. Une morale si positive est la plus sûre.</p>
-<p><pb/></p>
-<p>(31)</p>
-<p><pb/></p>
-<p>(32)</p>
-<p><pb/></p>
-<p><pb/></p>
-<p>(34)</p>
-<p>Qu'est-ce que voulut la révolution?</p>
-<p>L'égalité devant la loi : nous l'avons dans le pacte tracé. Conservons-là.</p>
-<p>Le vote annuel des impôts : nous possédons ce droit; profitons-en.</p>
-<p>L'admission aux emplois, aux dignités, par le mérite : nous l'avons.</p>
-<p>La liberté individuelle : elle nous est jurée ; maintenons-là.</p>
-<p>La liberté des cultes; nous l'avons; soutenons-là.</p>
-<p>L'abolissement de la confiscation, et la garantie de la propriété : nous
-les avons; défendonsles.</p>
-<p>La liberté de la presse : on nous la doit; abjurons les lois temporaires
-de circonstance et d'exception, et réclamons-la.</p>
-<p><pb/></p>
-<p>(35)</p>
-<p><pb/></p>
-<p>(36)</p>
-<p>eux-mêmes périraient engloutis sous ses laves incendiaires.</p>
-<p>La morale de nos intérêts doit donc nous inspirer la constance
-inébranlable de la modération, caractère de l'équité, plus courageuse
-que les saillies extravagantes de tous nos précepteurs périodiques, dont
-le patriotisme n'est qu'une trop lucrative spéculation pour nous
-convaincre de leur bonne foi.</p>
-<p>Prenez-la dignement sous votre garde, députés du peuple, et pairs de
-France ! Conservez le palladium de notre siècle représentatif chargé de
-tous les intérêts de notre pays et de nos vies. Il vous faut, par la
-vigueur des lois, et celle d'un bon jury, les défendre aussi bien des
-excès de l'aristocratie que des excès de la démocratie. Oui, défendez de
-ce double écueil, autant que dès erreurs du gouvernement exécutif, la
-liberté de tous, et la constitutionnalité du monarque. Déf mentez les
-rêveurs lugubres, les mauvais pro-</p>
-<p><pb/></p>
-<p>Les factions, en se calomniant, n'osent aborder les vérités toutes nues
-: les voilà.</p>
-<p>Morale des devoirs, préjugés aveugles, et servitude; morale des
-intérêts, raison clairvoyante et liberté légale.</p>
-<p><pb/></p>
-<p>(38)</p>
-<p>M. de Châteaubriant n'a définitivement traité dans sa théorie des
-devoirs publics que la pratique des intérêts privés : car le respect de
-tous les intérêts humains, bien mesurés, qu'est-ce?</p>
-<p>LA JUSTICE.</p>
-<p>FIN.</p>
-<p>DE L'IMPRIMERIE DE FIRMIN D1D0T,</p>
-<p>IMPRIMEUR DU ROI, DE L'INSTITUT ET DE LA MARINE, RUE JACOB, N° 24.</p>
-    </div>
+      <div>
+        <p>
+          <pb/>
+        </p>
+        <p>D'UNE OPINION</p>
+        <p>DE M. DE CHATEAUBRIANT,</p>
+        <p>DANS LE CONSERVATEUR.</p>
+        <p>PAR M. LEMERCIER,</p>
+        <p>Membre de l'Institut (Académie française.)</p>
+        <p>A PARIS,</p>
+        <p>CHER</p>
+        <p>FIRMIN DIDOT, rue Jacob, n° 24. NEPVEU , passage des Panoramas, n° 0.6. DELAUNAY, au Palais-Royal, Galerie de Bois. BARBA, au Palais-Royal, n° 7.</p>
+        <p>Dec. 1818.</p>
+        <p><pb/> ------------------------------------------------------------------------</p>
+        <p>D'UNE OPINION</p>
+        <p>DE M. DE CHATEAUBRIANT.</p>
+        <p>Nous risquons tous aujourd'hui de ne plus nous entendre, depuis que nous avons la manie de créer des expressions pour toutes les matières que nous devrions définir par des ternies clairs et reçus avant que de disserter sur elles. Le langage théologico-méthaphysique obscurcit tout.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(4)</p>
+        <p>Il m'a fallu lire son article entier pour m'en bien expliquer le titre. Adoptons-le maintenant; et sans chicaner sur la propriété, sur les significations des termes qu'il emploie, partons de 14 pour lui prouver qu'il renverse, brouille et confond toutes les choses.</p>
+        <p>Aucun ministère n'a inventé une morale nouvelle en déclarant que des seuls intérêts bien entendus résultent les effets les plus moraux; car cet axiome date des premiers temps du monde, ou, en style d'écriture sainte, de l'arche de Noé.</p>
+        <p>Les intérêts sont la source originelle de tous les devoirs qui en ressortent : la morale dite des intérêts a donc primitivement produit la morale dite des devoirs; ainsi M. de Châteaubriant a pris les, causes pour les effets, le radical pour le dérivé, les conséquences pour les principes, et s'est efforcé' de désunir par une fausse analyse ce qui est inséparable. Nous essaierons de lui démontrer jusqu'où l'égaré une erreur qui le mène si loin.</p>
+        <p>Que sont les intérêts ? les premiers liens des familles, des patries, des gouvernements, des religions même. Quelles sont les espèces d'inté-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>(6) soutienne leur vieillesse. Cette obligation du père et de la mère dérive donc, d'un intérêt qui concourt avec les tendres sentiments de la nature. Il en est ainsi des relations entre les époux, entre les parents.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(7) lois, prescrites par les intérêts. M. de Châteaubriant a raison d'assurer que les lois nous disent : Respectez le bien d'autrui; mais sur quoi nous affirme-t-il que les intérêts nous disent : Prenez le bien d'autrui? C'est pour nous faire conclure que la morale qu'ils inspirent est anti-sociale; c'est pour en tirer des arguments contre nos vices, qu'il désigne comme levier politique de la civilisation actuelle. Il ne songe pas qu'en prêtant cette horrible maxime aux intérêts, il fait parler l'état de nature brute, l'état sauvage où tout devient la proie d'un instinct aveugle et farouche.</p>
+        <p>Où voit-il tant de motifs de se prévaloir des</p>
+        <p>malheurs de la classe nombreuse et souffrante</p>
+        <p>, au point de se croire en droit de la représenter</p>
+        <p>calomnieusement comme en état d'hostilité per-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(8)</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(9)</p>
+        <p>
+          <pb/>
+        </p>
+        <p>( 10)</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(11)</p>
+        <p>partagent trois continents de la terre. Elle attisa par-tout le feu des bûchers; elle mit l'arquebuse au bras d'un roi exécuteur de ses sujets : la seconde termina ces effroyables divisions. Faut-il une preuve moins reculée? l'illusion des devoirs attacha la France séduite, éblouie, trompée, au char du tyran qui jeta nos armées sur tous les royaumes, qui promena son usurpation dans l'Europe entière : la réalité des intérêts souleva contre lui toutes les nations opprimées par les actes de son despotisme systématique. Les devoirs avaient développé les chaînes de la discipline militaire, qui entraînèrent tous nos intérêts sacrés, de conquêtes; en conquêtes, au fond d'un abyme. La réaction européenne rompit deux fois les barrières de Paris : nous ressaisissons nos principes égarés, et. notre indépendance reprend aujourd'hui ses droits. En quoi voyez-vous, M. de Châteaubriant, que cette morale des intérêts bien entendus soit si vile et si méprisable ? Pourquoi lui préférez-vous celle des devoirs? Est-ce parce que celle-ci nous prescrirait l'aveugle zèle de l'Eglise et l'esclavage ? Quoi donc ? parce que Bonaparte l'adopta pour multiplier des conscriptions que la morale des intérêts de tous les pères</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(12)</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(13)</p>
+        <p>
+          <pb/>
+        </p>
+        <p>point que le peuple français vous écoute, puisque le plus grand de ses intérêts, c'est de repousser courageusement, c'est d'anéantir, s'il le peut, les fanatiques et les despotes.</p>
+        <p>L'intérêt ressemble au principe éternel du mouvement ; les devoirs , qui ont leur temps et leur lieu, n'en sont que les combinaisons innombrables.</p>
+        <p>Les hommes du siècle, dont vous dépréciez le</p>
+        <p>
+          <pb/>
+        </p>
+        <p>( 15)</p>
+        <p>Réserverez-vous à-présent une telle morale bien éclaircie aux dupes et aux imbécilles? Ce qu'elle a de positif, en vous apprenant que l'intérêt n'est pas plus une fiction que le devoir, mais un fait, vous semblera-t-il désormais un manque d'idées?</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(16)</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>(18)</p>
+        <p>
+          <pb/>
+        </p>
+        <p>dé2.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>( 20 )</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(21 )</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(22)</p>
+        <p>
+          <pb/>
+        </p>
+        <p>est fait : or, tout en gémissant sur les injustices, qu'elle a commises, quel téméraire s'arrogerait le droit de s'en prendre aux personnes après une irréfragable prescription? Les familles protestantes redemandent-elles aux familles catholiques les champs que leur ôta la révocation de l'édit de Nantes? Plaignons les parties lésées, soulageons, leurs souffrances; mais que de noires peintures de leurs plaies ne réveillent plus les ressentiments. Convient-il de demander si l'on veut que les nobles soient les valets de leurs fermes ? Quelle injure en cette pitié pour les gens de condition que de les supposer ne pouvant exister qu'aux gages d'autrui!</p>
+        <p>Une simple parabole vous exposera tous les dangers d'un perpétuel objet de haine.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>La rigide et hautaine morale que nous prêche M. de Châteaubriant dans le Conservateur, qu'on nommera celui des abus, ne se montre pas si conservatrice de la société, ni si conciliante. Elle nous tance avec amertume; elle ne nous fait envisager que de nos mauvais côtés; elle allume l'imagination du petit nombre d'honnêtes gens initiés aux mystères de sa profondeur. Ce qu'il y a de clair, c'est qu'ils n'avoueront jamais que l'on fasse rien de bon, si tout ne se fait par eux ; qu'il y ait un ministère et des conseils, s'ils ne sont conseillers ou ministres ; que le</p>
+        <p>
+          <pb/>
+        </p>
+        <p>( 25 )</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(26)</p>
+        <p>Réfléchissez bien sur ces choses. J'offre au pinceau qui traça de nos moeurs une image rem-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>( 28 )</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>(30)</p>
+        <p>crimes dans la mémoire? Une vertu de rivaliser en jacobinisme? Est-ce à de telles frénésies que va la morale des devoirs? Ah! la continuité des actions nobles et belles ne fut jamais le produit des transports exaltés, mais du calcul fortement intéressé d'une souveraine raison, qui pèse la valeur des sacrifices tant pour nous que pour les autres, et qui nous maintient dans la résolution d'être humain et juste. Ce calcul nous prouve qu'en somme la vertu, même dans les revers, a plus d'avantages que le vice dans les prospérités, et que, si la nature ne nous a pas faits bons par sentiment, nous devons faire le bien pour notre propre intérêt. Une morale si positive est la plus sûre.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(31)</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(32)</p>
+        <p>
+          <pb/>
+        </p>
+        <p>
+          <pb/>
+        </p>
+        <p>(34)</p>
+        <p>Qu'est-ce que voulut la révolution?</p>
+        <p>L'égalité devant la loi : nous l'avons dans le pacte tracé. Conservons-là.</p>
+        <p>Le vote annuel des impôts : nous possédons ce droit; profitons-en.</p>
+        <p>L'admission aux emplois, aux dignités, par le mérite : nous l'avons.</p>
+        <p>La liberté individuelle : elle nous est jurée ; maintenons-là.</p>
+        <p>La liberté des cultes; nous l'avons; soutenons-là.</p>
+        <p>L'abolissement de la confiscation, et la garantie de la propriété : nous les avons; défendonsles.</p>
+        <p>La liberté de la presse : on nous la doit; abjurons les lois temporaires de circonstance et d'exception, et réclamons-la.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(35)</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(36)</p>
+        <p>eux-mêmes périraient engloutis sous ses laves incendiaires.</p>
+        <p>La morale de nos intérêts doit donc nous inspirer la constance inébranlable de la modération, caractère de l'équité, plus courageuse que les saillies extravagantes de tous nos précepteurs périodiques, dont le patriotisme n'est qu'une trop lucrative spéculation pour nous convaincre de leur bonne foi.</p>
+        <p>Prenez-la dignement sous votre garde, députés du peuple, et pairs de France ! Conservez le palladium de notre siècle représentatif chargé de tous les intérêts de notre pays et de nos vies. Il vous faut, par la vigueur des lois, et celle d'un bon jury, les défendre aussi bien des excès de l'aristocratie que des excès de la démocratie. Oui, défendez de ce double écueil, autant que dès erreurs du gouvernement exécutif, la liberté de tous, et la constitutionnalité du monarque. Déf mentez les rêveurs lugubres, les mauvais pro-</p>
+        <p>
+          <pb/>
+        </p>
+        <p>Les factions, en se calomniant, n'osent aborder les vérités toutes nues : les voilà.</p>
+        <p>Morale des devoirs, préjugés aveugles, et servitude; morale des intérêts, raison clairvoyante et liberté légale.</p>
+        <p>
+          <pb/>
+        </p>
+        <p>(38)</p>
+        <p>M. de Châteaubriant n'a définitivement traité dans sa théorie des devoirs publics que la pratique des intérêts privés : car le respect de tous les intérêts humains, bien mesurés, qu'est-ce?</p>
+        <p>LA JUSTICE.</p>
+        <p>FIN.</p>
+        <p>DE L'IMPRIMERIE DE FIRMIN D1D0T,</p>
+        <p>IMPRIMEUR DU ROI, DE L'INSTITUT ET DE LA MARINE, RUE JACOB, N° 24.</p>
+      </div>
     </body>
   </text>
 </TEI>
