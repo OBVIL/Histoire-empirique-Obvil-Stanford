@@ -9,5 +9,9 @@ while  read -r URL INUTILE_MAIS_NECESSAIRE
 do
   DESTNAME="${URL##*/}"
   DESTFILE=$DESTDIR/$DESTNAME
-  curl $URL -z $DESTFILE -o $DESTFILE --location
+  if [ ! -f $DESTFILE ]
+  then
+    echo $DESTFILE
+    curl $URL -o $DESTFILE --location
+  fi
 done < "$INPUT"
