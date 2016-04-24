@@ -23,11 +23,32 @@ filename	creator	date	title	publisher	extent	description	identifier	source
   
   <xsl:template match="/">
     <xsl:variable name="author" select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:author/@key"/>
-    <xsl:variable name="date" select="/tei:TEI/tei:teiHeader/tei:profileDesc/tei:creation/tei:date/@when"/>
+    <xsl:variable name="date" select="/tei:TEI/tei:teiHeader/tei:profileDesc/tei:creation/tei:date"/>
     <xsl:variable name="title" select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
-    <xsl:text>http://obvil-dev.paris-sorbonne.fr/corpus/critique/</xsl:text>
-    <xsl:value-of select="$filename"/>
-    <xsl:text>.xml</xsl:text>
+    <xsl:choose>
+      <xsl:when test="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:editionStmt/tei:edition = 'OBVIL/BNF'">
+        <xsl:text>http://obvil.github.io/critique2000/tei/</xsl:text>
+        <xsl:value-of select="$filename"/>
+        <xsl:text>.xml</xsl:text>
+        <xsl:value-of select="$TAB"/>
+        <xsl:value-of select="$filename"/>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:text>http://obvil.paris-sorbonne.fr/corpus/critique/</xsl:text>
+        <xsl:value-of select="$filename"/>
+        <xsl:text>.xml</xsl:text>
+        <xsl:value-of select="$TAB"/>
+        <xsl:value-of select="$date"/>
+        <xsl:text>_</xsl:text>
+        <xsl:value-of select="
+          translate(
+          normalize-space( substring-before(concat($author, ','), ',') )
+          , $who1
+          , $who2
+          )
+          "/>
+      </xsl:otherwise>
+    </xsl:choose>
     <xsl:value-of select="$TAB"/>
     <xsl:value-of select="$author"/>
     <xsl:value-of select="$TAB"/>
@@ -35,7 +56,8 @@ filename	creator	date	title	publisher	extent	description	identifier	source
     <xsl:value-of select="$TAB"/>
     <xsl:value-of select="$title"/>
     <xsl:value-of select="$TAB"/>
-    <xsl:value-of select="(/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:idno|/tei:TEI/tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:idno)[1]"/>
+    <xsl:value-of select="(/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:idno
+      | /tei:TEI/tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:idno)[1]"/>
     <xsl:value-of select="$TAB"/>
     <xsl:value-of select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:publisher"/>
     <xsl:value-of select="$LF"/>
