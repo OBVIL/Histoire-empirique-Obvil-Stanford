@@ -5,10 +5,10 @@ fi
 INPUT=$1
 DESTDIR=$2
 mkdir -p $DESTDIR
-while  read -r URL INUTILE_MAIS_NECESSAIRE
+while  read -r URL CODE INUTILE_MAIS_NECESSAIRE
 do
-  DESTNAME="${URL##*/}"
-  DESTFILE=$DESTDIR/$DESTNAME
+  SRCNAME="${URL##*/}" # Inutilisé, laissé pour mémoire
+  DESTFILE=$DESTDIR/$CODE".xml"
   if [ ! -f $DESTFILE ]
   then
     echo $DESTFILE
