@@ -12,6 +12,7 @@ do
   if [ ! -f $DESTFILE ]
   then
     echo $DESTFILE
-    curl $URL -o $DESTFILE --location
+    # -f fail on 404
+    curl -f $URL -o $DESTFILE --location
   fi
 done < "$INPUT"
