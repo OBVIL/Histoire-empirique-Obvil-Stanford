@@ -10,7 +10,7 @@ class Galltei {
   /** ressource sur le fichier en cours d’écriture */
   private $_writer;
   /** Correspondance entre les champs Gallica et du Dublin Core */
-  static $dc = array(
+  static $dc = array (
     "Auteur" => "creator",
     "Date d'édition" => "date",
     "Titre" => "title",
@@ -43,20 +43,54 @@ class Galltei {
     }
     echo "\n";
     $this->_writer = fopen($teifile, "w");
+    $h = $this->_writer;
     // on écrit du TEI simple pour PhiloLogic
-    fwrite($this->_writer, '<?xml version="1.0" encoding="UTF-8"?>'."\n");
-    fwrite($this->_writer, '<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">'."\n");
-    fwrite($this->_writer, '  <meta>'."\n");
-    foreach ($meta as $dc=>$value) {
-      fwrite($this->_writer, "    <$dc>$value</$dc>\n");
+    fwrite($h, '<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>'."\n");
+    if ( $meta['title'] ) fwrite($h, '        <title>'.$meta['title'].'</title>'."\n");
+    if ( $meta['creator'] ) {
+      fwrite($h, '        <author key="'.$meta['creator'].'">');
+      if ($pos = strpos( $meta['creator'], "(")) fwrite($h, trim(substr( $meta['creator'], 0, $pos)));
+      else fwrite( $h, $meta['creator'] );
+      fwrite($h, '</author>'."\n");
     }
-    fwrite($this->_writer, '  </meta>'."\n");
-    fwrite($this->_writer, '  <text>'."\n");
-    fwrite($this->_writer, '    <body>'."\n");
+    fwrite($h, '      </titleStmt>
+      <publicationStmt>
+        <publisher>BNF, Gallica</publisher>
+        <date when="2017"/>
+        <availability status="restricted">
+          <licence target="http://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>'.$meta['creator'].'</author>.
+          <title>'.$meta['title'].'</title>.
+          <date>'.$meta['date'].'</date>,
+          <publisher>'.$meta['publisher'].'</publisher>.
+          <idno type="Gallica">'.$meta['identifier'].'</idno>
+  '.$meta['description'].'
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="'.$meta['date'].'">'.$meta['date'].'</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>'."\n");
     $this->text();
-    fwrite($this->_writer, '    </body>'."\n");
-    fwrite($this->_writer, '  </text>'."\n");
-    fwrite($this->_writer, '</TEI>'."\n");
+    fwrite($h, '</body>
+  </text>
+</TEI>'."\n");
   }
 
   /**
@@ -86,7 +120,9 @@ class Galltei {
    */
   private function meta() {
     // tableau clé=>valeur de métas ramassées
-    $meta = array();
+    foreach ( self::$dc as $key => $value) {
+      $meta[ $value ] = null;
+    }
     // la ligne de fichier
     $l = '';
     // un bloc de lignes (titres sur 2 lignes)
@@ -108,8 +144,8 @@ class Galltei {
         if (!isset(self::$dc[$label])) continue; // champ non retenu
         $dc = self::$dc[$label]; // terme Dublin Core
         if (isset($meta[$dc])) continue; // multivalué, on ne prend que le premier ?
-
-        $meta[$dc] = trim($matches[2]);
+        // fixer la valeur, attention à & < >
+        $meta[$dc] = trim( htmlspecialchars( $matches[2] ) );
       }
       if (strpos($l, "-------------------") !== false) return $meta;
       $p .= " ".$l; // ajouter la ligne au paragraphe en cours
