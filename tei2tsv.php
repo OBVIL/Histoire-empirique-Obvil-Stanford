@@ -93,7 +93,7 @@ class Doc {
     foreach ($nl as $node) {
       $value = $node->getAttribute("key");
       if ( !$value ) $value = $node->textContent;
-      if (($pos = strpos($value, '('))) $value = trim( substr( $value, 0, $pos ) );
+      if (($pos = strpos($value, '('))) $value = trim( preg_replace( "@\s+@u", " ", substr( $value, 0, $pos ) ) );
       $meta['creator'][] = $value;
       if ( $first ) $first = false;
       else $meta['byline'] .= " ; ";
@@ -101,15 +101,15 @@ class Doc {
     }
     // title
     $nl = $this->_xpath->query("/*/tei:teiHeader//tei:title");
-    if ($nl->length) $meta['title'] = $nl->item(0)->textContent;
+    if ($nl->length) $meta['title'] = trim( preg_replace( "@\s+@u", " ", $nl->item(0)->textContent ));
     else $meta['title'] = null;
     // publisher
     $nl = $this->_xpath->query("/*/tei:teiHeader/tei:fileDesc/tei:sourceDesc//tei:publisher");
-    if ($nl->length) $meta['publisher'] = $nl->item(0)->textContent;
+    if ($nl->length) $meta['publisher'] = trim( preg_replace( "@\s+@u", " ", $nl->item(0)->textContent ));
     else $meta['publisher'] = null;
     // identifier
     $nl = $this->_xpath->query("/*/tei:teiHeader/tei:fileDesc/tei:sourceDesc//tei:idno");
-    if ($nl->length) $meta['identifier'] = $nl->item(0)->textContent;
+    if ($nl->length) $meta['identifier'] = trim( preg_replace( "@\s+@u", " ", $nl->item(0)->textContent ));
     else $meta['identifier'] = null;
     // dates
     $nl = $this->_xpath->query("/*/tei:teiHeader/tei:profileDesc/tei:creation/tei:date");
@@ -168,6 +168,9 @@ class Doc {
 
     $destfile = array_shift($_SERVER['argv']);
     if ( !file_exists( dirname( $destfile ) ) ) mkdir( dirname( $destfile ), null, true );
+    if ( file_exists( dirname( $destfile ) ) && pathinfo( $destfile, PATHINFO_EXTENSION ) == "xml" ) {
+      exit ("Êtes-vous sûr de vouloir écraser ".$destfile." ?\n");
+    }
     $out = fopen( $destfile, "w" );
     $sep = "	";
     fwrite( $out, "select".$sep."source".$sep."code".$sep."creator".$sep."date".$sep."title".$sep."identifier".$sep."publisher"."\n");
